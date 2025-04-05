@@ -731,6 +731,24 @@
     },
     {
       "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220838,
+      "name": "Assumptions",
+      "url": "https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d"
+    },
+    {
+      "album": {
         "name": "B Somebody",
         "url": "https://open.spotify.com/album/7xmebVjjWoxe8SydTu49PF"
       },
@@ -5755,6 +5773,32 @@
     },
     {
       "album": {
+        "name": "Magic With You",
+        "url": "https://open.spotify.com/album/0Icms8qDgPxre5SIr3GUDW"
+      },
+      "artists": [
+        {
+          "name": "DJ Licious",
+          "url": "https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH"
+        },
+        {
+          "name": "Alex Germys",
+          "url": "https://open.spotify.com/artist/0cI6OkaZLXsri5KKsbEUnD"
+        },
+        {
+          "name": "Alex Lucas",
+          "url": "https://open.spotify.com/artist/5gBMpIeE2zqYUoBOYD9lKB"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Magic With You",
+      "url": "https://open.spotify.com/track/4e90IV3zpZn17FdG5nzdbv"
+    },
+    {
+      "album": {
         "name": "Diplo (Deluxe)",
         "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
       },
@@ -5978,7 +6022,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 128024,
       "name": "Million Dollar Bill",
       "url": "https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7"
@@ -9426,7 +9470,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 181935,
       "name": "We Groovin",
       "url": "https://open.spotify.com/track/1lzbOrmaBhueOQfwKCfi1J"

@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/> REDDY\(레디\)\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/> C JAMM\(씨잼\)\)
 
-1,490 songs - 3 day 8 hr 45 min
+1,492 songs - 3 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Big Steppin](https://open.spotify.com/track/1CJVgidWkHcp3moT9J2zsk) | [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD) | [SKANDALOUZ 2](https://open.spotify.com/album/0Zcd58EPivpLZZPR38UTnN) | 2:58 | 2024-06-27 | 2024-11-07 |
 | [Big Vibes](https://open.spotify.com/track/1K72CWGjzSeHyx13Lja99g) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Gunplay](https://open.spotify.com/artist/7cvtOrIEaUrqbGmYA9Kj34) | [Filipino South Korean Rapstar Mixtape \(CD 1\)](https://open.spotify.com/album/3cYWrV94zpYAwl68tmNMVY) | 3:07 | 2022-06-09 | 2022-08-13 |
 | [BINGO \(Feat\. meenoi, george\) \(Prod\. by Slom\)](https://open.spotify.com/track/33zyxtEENVeaXiAZc8s6Wa) | [JAMBINO](https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 3:42 | 2022-12-19 | 2023-06-14 |
+| [Bipolar Freestyle](https://open.spotify.com/track/1jUu8Io0m6a2Z6cuKkYFUc) | [Flowsik](https://open.spotify.com/artist/4N2CbwZ7ekytt9Oi5dh4Vq) | [Bipolar Freestyle](https://open.spotify.com/album/6TAB003WghBW3ZilFx6mvM) | 2:57 | 2025-04-04 |  |
 | [Birthday \(Feat\. BILL STAX\)](https://open.spotify.com/track/35X5q2bFUZZVamlN1UShUx) | [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva), [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD) | [Trapstar Lifestyle](https://open.spotify.com/album/45MJvGUTE2xSbFbeAvkFiY) | 2:43 | 2023-07-05 | 2023-11-04 |
 | [Birthday \(Feat\. BILL STAX\)](https://open.spotify.com/track/14IPPm5luuJoCsgZoeCilI) | [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva), [BILL STAX \(빌스택스\)](https://open.spotify.com/artist/0rxiGMYwxtR2bB0HxRezhy) | [Birthday \(Feat\. BILL STAX\)](https://open.spotify.com/album/2GxWa8IzXeYkMoXBvbPGwn) | 2:43 | 2022-11-16 | 2022-12-28 |
 | [Bitchy](https://open.spotify.com/track/0RbG4Av6fT3V2VxrPBWtLH) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Pressure Makes Diamonds](https://open.spotify.com/album/0eT8WtiDIRVOzHuYWVpEnc) | 1:51 | 2023-02-24 | 2023-09-15 |
@@ -722,6 +723,7 @@
 | [Lately \(feat\. Young Harry\)](https://open.spotify.com/track/3tBfBCgeE8jiyxvlD8Fxdt) | [LIL GIMCHI](https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ), [Young Harry](https://open.spotify.com/artist/2jHw0ihhcDrJ3B65mIQBrh) | [Lately](https://open.spotify.com/album/23YDCb8GZD5d6pDJt3WS7x) | 2:49 | 2024-10-08 | 2024-12-04 |
 | [LAW \(Prod\. Czaer\)](https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Street Man Fighter Original Vol.3 \(Mission by Rank\)](https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP) | 3:09 | 2022-09-06 | 2023-03-01 |
 | [Lay Back \(feat\. Nucksal & Layone\)](https://open.spotify.com/track/3X9zf06EBlvABBNvfeeydj) | [Hanhae](https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Lay Back](https://open.spotify.com/album/7muPnaAg1hNoEq0EaTSGwA) | 3:13 | 2021-12-21 | 2022-06-23 |
+| [LAYERED](https://open.spotify.com/track/5T1tCOZZuoAX9hA1e9xE8U) | [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR) | [LAYERED](https://open.spotify.com/album/09OHaLWm1Z5rTB5L6NKHcV) | 3:07 | 2025-04-04 |  |
 | [Leave Me Alone \(???\)](https://open.spotify.com/track/5pZbWZyrprBrg5xYtSO1gK) | [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [CADEJO](https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up) | [Leave Me Alone \(???\)](https://open.spotify.com/album/066c1K3HBglKKm2Hve3sFr) | 1:25 | 2022-06-09 | 2022-06-30 |
 | [Legacy](https://open.spotify.com/track/4emIEej0tph5aZGzUfNWEP) | [Raphael](https://open.spotify.com/artist/5ZmB3eXx6oDmzicmFdcqmr), [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM), [EPTEND](https://open.spotify.com/artist/3X5atTeD09WXIpSzEq1Mez) | [THE:RISE 5 with Baund](https://open.spotify.com/album/0u5wY8PVDFTQdBMMx2sMrB) | 3:08 | 2023-03-06 | 2023-09-08 |
 | [Let me know, God \(Feat\. C JAMM, Jvcki Wai\)](https://open.spotify.com/track/35QdNOzsIMw1ZXElaGH8Ec) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [Son Simba](https://open.spotify.com/artist/4q2IjH8TVz7CNSzIiPDV6B), [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR), [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN) | [NEO CHRISTIAN](https://open.spotify.com/album/53L4UEcxgbL0XE1XXN6B3h) | 4:38 | 2021-12-18 | 2022-06-10 |

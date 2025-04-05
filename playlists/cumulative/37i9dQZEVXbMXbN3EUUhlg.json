@@ -5760,7 +5760,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 151384,
       "name": "Chapa M\u00e1xima",
       "url": "https://open.spotify.com/track/3yCtRV7LMeGBpvSHDR8uMV"
@@ -23739,6 +23739,40 @@
     },
     {
       "album": {
+        "name": "Rabet\u00e3o De Terremoto",
+        "url": "https://open.spotify.com/album/67v8jx5TDQDkewt5oMiJZn"
+      },
+      "artists": [
+        {
+          "name": "DJ CZ",
+          "url": "https://open.spotify.com/artist/52xstrfqEahsQREdysdsgr"
+        },
+        {
+          "name": "MC Nito",
+          "url": "https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw"
+        },
+        {
+          "name": "DJ TS",
+          "url": "https://open.spotify.com/artist/6PILkXbgkMh4nUUl6Ov6ON"
+        },
+        {
+          "name": "Mc Pogba",
+          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
+        },
+        {
+          "name": "Prime Funk",
+          "url": "https://open.spotify.com/artist/0REr9s0EudwoJnxfgN3F1x"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107076,
+      "name": "Rabet\u00e3o De Terremoto",
+      "url": "https://open.spotify.com/track/4swtnATsndB7VJVq0n4EQE"
+    },
+    {
+      "album": {
         "name": "Vagabundo de Luxo",
         "url": "https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv"
       },
@@ -25508,12 +25542,12 @@
           "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
         },
         {
-          "name": "Mc 2G Do SF",
-          "url": "https://open.spotify.com/artist/3ITFoWBJpdhjKKf4wO37Zd"
-        },
-        {
           "name": "Mc Marcelo da Cj",
           "url": "https://open.spotify.com/artist/4miBP1hwhx5rK9VPYoN1y1"
+        },
+        {
+          "name": "Mc 2G Do SF",
+          "url": "https://open.spotify.com/artist/3ITFoWBJpdhjKKf4wO37Zd"
         },
         {
           "name": "TDK Rec",

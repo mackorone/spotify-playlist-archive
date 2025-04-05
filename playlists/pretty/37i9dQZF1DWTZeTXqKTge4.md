@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: Rymz, White\-B
+> Le meilleur du hip\-hop québécois\. Photo: Shreez
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,276 likes - 74 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,280 likes - 74 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Trop Réel](https://open.spotify.com/track/78zunLxJTz1sXq1mylIzga) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Trop Réel](https://open.spotify.com/album/0TjcDuoKWMVGAzXICb0HnV) | 3:17 |
-| 2 | [MINIMUM](https://open.spotify.com/track/6iI22KVyY5EeixVUwt7nHB) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [MINIMUM](https://open.spotify.com/album/1wEUBXA2dKjrKAfBa7HlNF) | 3:16 |
+| 1 | [CASAMIGOS 2X](https://open.spotify.com/track/2MQD2LqAPlmZShAxXtjAHl) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [ON FRAP II](https://open.spotify.com/album/6ZbWyoybaFIyffQYnvxQNZ) | 3:26 |
+| 2 | [Trop Réel](https://open.spotify.com/track/78zunLxJTz1sXq1mylIzga) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Trop Réel](https://open.spotify.com/album/0TjcDuoKWMVGAzXICb0HnV) | 3:17 |
 | 3 | [Allez](https://open.spotify.com/track/6CFUaCvxQ0O0My0Lg2imF5) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Allez](https://open.spotify.com/album/1aUewgj8QzwXqcWukIG9yl) | 2:50 |
 | 4 | [LomeLaval](https://open.spotify.com/track/2Q7CpbLeZhE8Rq8YPSiOhf) | [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O), [Ateyaba](https://open.spotify.com/artist/281AuR0rWkBECMeaAB0pSA) | [LomeLaval](https://open.spotify.com/album/21pJeD4qusaQ9YsBwfdKOW) | 2:21 |
 | 5 | [4502](https://open.spotify.com/track/3fV0H6wr3f36sMga8xrgUp) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Genèse](https://open.spotify.com/album/3Les4fAJE90bbd7fVzOGzD) | 2:41 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 73 | [Va bene](https://open.spotify.com/track/38Toj0y1veSV0StPFwYBGj) | [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY) | [Renaissance \(Act\. II\) \(Bonus\)](https://open.spotify.com/album/7kin5hd0nUWpMmzC3OKfDH) | 2:35 |
 | 74 | [Good Intentions](https://open.spotify.com/track/3JlPF4v0bMkVxxKo0ebr9J) | [Modlee](https://open.spotify.com/artist/1vJ2skBECCSXeUdgbQadBW), [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV), [Koyo Sur La Prod](https://open.spotify.com/artist/6CjbzCPefBTqBG8AOWeudu) | [Good Intentions](https://open.spotify.com/album/5gchAW3dOVohQVT3E2WHHj) | 3:24 |
 
-Snapshot ID: `Z+Ye3gAAAAB9ckrof+lkrKHSpBHNCBmy`
+Snapshot ID: `Z+9ZYAAAAAAXE8FDN9TT7SXgaQPNubrR`

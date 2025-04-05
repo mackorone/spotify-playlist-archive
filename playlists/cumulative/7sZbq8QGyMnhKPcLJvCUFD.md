@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-690 songs - 1 day 10 hr 59 min
+692 songs - 1 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [EX](https://open.spotify.com/track/2jPZeSOSA0rFr9YIfpdNtD) | [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [Afterfab](https://open.spotify.com/artist/48VdMxJ3HAgAMmjPoXc28i), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [EX](https://open.spotify.com/album/3oPmjApdBC7DFJYekgWEVp) | 2:15 | 2023-06-16 | 2023-08-10 |
 | [EXECUTIONER](https://open.spotify.com/track/0gYS6XPKlUbOFPYibwW58o) | [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe) | [EXECUTIONER](https://open.spotify.com/album/47zIUPtRpiGINO2YAbRFi9) | 1:30 | 2024-08-15 |  |
 | [fade](https://open.spotify.com/track/4QIunJj1Sw6BgYYB2iEIeU) | [dashie](https://open.spotify.com/artist/6uQKiJZQe4rjkMF0HxIGTl) | [fade](https://open.spotify.com/album/2cqvuYk4Haj2e44X4zfONh) | 2:26 | 2024-05-10 | 2025-01-08 |
+| [Fading Light](https://open.spotify.com/track/392hrwAnmlDhxjN9lfTMr3) | [Fytch](https://open.spotify.com/artist/4A18NGfdKU0HrkmvVlPO7I) | [Fading Light](https://open.spotify.com/album/5BLFqthGSGFJILKTJtPqU9) | 3:01 | 2025-04-04 |  |
 | [Fall Too Deep](https://open.spotify.com/track/2u3vR9khIpQjCYu9TCUn5L) | [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Fall Too Deep](https://open.spotify.com/album/2OpVgefNKPZTYbIEmyIAi1) | 3:05 | 2023-07-21 | 2023-08-10 |
 | [Falling](https://open.spotify.com/track/2Bhv2dpgjAfpJejQltrlOJ) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl), [Aleya Mae](https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb) | [Eternity](https://open.spotify.com/album/0VKsGtPK6AupzW1IvsiEjh) | 4:27 | 2023-06-21 | 2023-08-10 |
 | [Falling](https://open.spotify.com/track/4y2PKLDSnodMO1r94Qupxl) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl), [Aleya Mae](https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb) | [Falling](https://open.spotify.com/album/3Z2FL8pu662FCuXF2cIuRb) | 4:27 | 2023-05-24 | 2023-08-10 |
@@ -625,6 +626,7 @@
 | [Too Far](https://open.spotify.com/track/5w1KPYqxVLZ34Bwc4pNTsq) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Noisy Choice](https://open.spotify.com/artist/4mHNdq3umachr1aO7aHGID) | [Too Far](https://open.spotify.com/album/15jknj7bcRgBYPk1u3RaBc) | 2:23 | 2023-06-20 | 2023-08-10 |
 | [Too Hot To Handle](https://open.spotify.com/track/5k768a973EOTJtVjc7PPWg) | [Fiko](https://open.spotify.com/artist/1eYLZ92uIQTOyaFn43A0iq), [BLUK](https://open.spotify.com/artist/5VwEh2dfVTTVtQ0Q3C1e4r) | [Too Hot To Handle](https://open.spotify.com/album/3v2XdXdv9v8KZsaaa8Ed5l) | 2:15 | 2022-07-28 | 2023-04-28 |
 | [Too Late](https://open.spotify.com/track/5fhvwVytoYeA8hyrUylEzD) | [Kaphy](https://open.spotify.com/artist/3wigq7ogMWIk2GhsT7BJC5), [SFRNG](https://open.spotify.com/artist/0PkBrqmi8Ma9hmKD0hB2W2), [Brogs](https://open.spotify.com/artist/0Zu5rxrWkTZlu2EcnZx7sz) | [Too Late](https://open.spotify.com/album/4aYR1txtnHpWbVQV4ybmdQ) | 2:23 | 2023-07-04 | 2023-08-10 |
+| [TRANSFER](https://open.spotify.com/track/4CyK7CJlDavAHNNLKX6cQ3) | [SUPXR](https://open.spotify.com/artist/3hjxN8peYczDSaHuwVwvFt) | [TRANSFER // TEMPO](https://open.spotify.com/album/0Uf9s4009KirtSGTKxGDMa) | 2:11 | 2025-04-04 |  |
 | [Trust Me](https://open.spotify.com/track/7psbubFtP18fobEg1wYYTu) | [Blackryst](https://open.spotify.com/artist/4QxhZGr3RazauGRW2f2Y5N) | [Trust Me](https://open.spotify.com/album/66U7wvqr4YpV2CYWRuGwRM) | 2:36 | 2023-02-24 | 2023-08-10 |
 | [Try Again](https://open.spotify.com/track/4flLtCXV7u5UrKU82Ts20T) | [Goodknight.](https://open.spotify.com/artist/2OpbISbq4KfXhSvaDQrUdM) | [Try Again](https://open.spotify.com/album/4TROC7IgMT7vPvcD3R1isC) | 2:30 | 2023-01-18 | 2023-04-28 |
 | [TumDaDaDum](https://open.spotify.com/track/7uQXHHfiHS6818O5a7ol5e) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH) | [TumDaDaDum](https://open.spotify.com/album/1MEZLy5chESv3uvoHF5YAg) | 3:45 | 2023-06-30 | 2023-12-14 |

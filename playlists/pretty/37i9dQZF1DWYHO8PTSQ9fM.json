@@ -1,12 +1,12 @@
 {
   "description": "Les hits du moment au Maroc. Cover: ElGrandeToto, Vacra",
-  "num_followers": 680477,
+  "num_followers": 680461,
   "original_name": "Hot Hits Morocco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+vBgQAAAACeiXqGpI2TCVkmzLVS1EgY",
+  "snapshot_id": "Z/A3kgAAAACUqgOvlNpz0DX0TG2ytVq1",
   "tracks": [
     {
       "added_at": "2025-04-01 10:35:45",
@@ -251,6 +251,22 @@
     {
       "added_at": "2025-04-01 10:35:45",
       "album": {
+        "name": "POPO",
+        "url": "https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "POPO",
+      "url": "https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU"
+    },
+    {
+      "added_at": "2025-04-01 10:35:45",
+      "album": {
         "name": "Midaliya",
         "url": "https://open.spotify.com/album/5EKZqL6aVCaAuWOcgaELrO"
       },
@@ -399,6 +415,22 @@
       "duration_ms": 245000,
       "name": "Mab9itich Ch\u00e9rie",
       "url": "https://open.spotify.com/track/3gEy9hoCGd5OjufRwlyPCh"
+    },
+    {
+      "added_at": "2025-04-01 10:35:45",
+      "album": {
+        "name": "ICEBERG",
+        "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "MARADONA",
+      "url": "https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya"
     },
     {
       "added_at": "2025-04-01 10:35:45",
@@ -619,22 +651,6 @@
     {
       "added_at": "2025-04-01 10:35:45",
       "album": {
-        "name": "ICEBERG",
-        "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "MARADONA",
-      "url": "https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya"
-    },
-    {
-      "added_at": "2025-04-01 10:35:45",
-      "album": {
         "name": "Badadi",
         "url": "https://open.spotify.com/album/250j3jUtT9Ow3oy67N9vuB"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 181714,
       "name": "Bla Bla",
       "url": "https://open.spotify.com/track/1PlZpPgiBtPlB7uCAYa3ov"
-    },
-    {
-      "added_at": "2025-04-01 10:35:45",
-      "album": {
-        "name": "POPO",
-        "url": "https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        }
-      ],
-      "duration_ms": 191666,
-      "name": "POPO",
-      "url": "https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU"
     },
     {
       "added_at": "2025-04-01 10:35:45",

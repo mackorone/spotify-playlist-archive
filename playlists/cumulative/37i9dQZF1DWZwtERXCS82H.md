@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-804 songs - 1 day 10 hr 47 min
+806 songs - 1 day 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Absentia](https://open.spotify.com/track/1HK9bUeaIXx3lZv1nWayyR) | [Andrew Mays](https://open.spotify.com/artist/5kKg8zR0hqhwZoaGvsw13I) | [Absentia](https://open.spotify.com/album/4HLgJVnxv7LGkIbKP4ogtR) | 2:41 | 2024-12-04 |  |
 | [Abuelo](https://open.spotify.com/track/6Oimt1bnKnDzmRn4RiB7D4) | [ANTICLEA](https://open.spotify.com/artist/2ksAWinh38Fp03NmgzuJTv) | [Abuelo](https://open.spotify.com/album/7nm2rqvpNj3pSKIvlNwmNE) | 2:33 | 2022-04-15 | 2022-04-23 |
 | [Adagio](https://open.spotify.com/track/3zmLvXyfixDF8gmBezsBxD) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Adagio](https://open.spotify.com/album/2rlGSTH3U5yFtDzs296a89) | 3:55 | 2022-04-15 | 2022-05-14 |
-| [Admission](https://open.spotify.com/track/6mliqnzcZMDNv8xwbeIA54) | [James Homard](https://open.spotify.com/artist/3woT4KWjwgvrxKTw8tf4AY) | [Admission](https://open.spotify.com/album/75ypcTRAOyHzCGHHkEle8a) | 1:44 | 2024-01-05 |  |
+| [Admission](https://open.spotify.com/track/6mliqnzcZMDNv8xwbeIA54) | [James Homard](https://open.spotify.com/artist/3woT4KWjwgvrxKTw8tf4AY) | [Admission](https://open.spotify.com/album/75ypcTRAOyHzCGHHkEle8a) | 1:44 | 2024-01-05 | 2025-04-05 |
 | [After a Visit](https://open.spotify.com/track/3rKSpzc4iNd7kiihS6V7ZY) | [Alida Sørby](https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9) | [After a Visit](https://open.spotify.com/album/17wW4OptqVkAC4xNZLWM7H) | 2:01 | 2022-11-18 | 2024-11-20 |
 | [Airborne](https://open.spotify.com/track/2MdnNxK70QIHwW999cttyQ) | [Maria Novotna](https://open.spotify.com/artist/3Bg7pjZM9srpKAJj1qlgU6) | [Airborne](https://open.spotify.com/album/7tmews40tmF8GyBOqzCpYC) | 2:41 | 2022-04-15 | 2022-04-23 |
 | [Aislingeach](https://open.spotify.com/track/45YmYHJG9AoFEg6X2xvmTV) | [Chloe Doyle](https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r) | [Aislingeach](https://open.spotify.com/album/1OkHickHsYjJvqrprMhxAr) | 2:01 | 2022-04-15 | 2024-04-04 |
@@ -286,7 +286,7 @@
 | [Homeland](https://open.spotify.com/track/5CMV79VrT9PxQRwdQr2EW0) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Homeland](https://open.spotify.com/album/67XXxVyBzRfwLuuFAUwmos) | 2:22 | 2022-04-15 | 2023-05-04 |
 | [Homestead](https://open.spotify.com/track/2yZU1Y2Zagb4Ymm5gK72ab) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Homestead](https://open.spotify.com/album/2FSycLXewsbnvoqm6F5oKv) | 2:42 | 2022-04-15 | 2024-04-10 |
 | [Hondura](https://open.spotify.com/track/4s8Y11Sn3fP1aC0b2USbU4) | [Mima Renard](https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4) | [Hondura](https://open.spotify.com/album/2kDUeicWC39j0LfEjJNjvC) | 2:23 | 2023-02-20 | 2024-12-18 |
-| [Honeysuckle](https://open.spotify.com/track/2GlFrUTfhuFulESOkHcmFf) | [Sam Sapphire](https://open.spotify.com/artist/7eMKNdNPKSpP3WeulzX4fz) | [Honeysuckle](https://open.spotify.com/album/2Zjx4mvRk8p2IezpTxgjak) | 1:59 | 2023-08-07 |  |
+| [Honeysuckle](https://open.spotify.com/track/2GlFrUTfhuFulESOkHcmFf) | [Sam Sapphire](https://open.spotify.com/artist/7eMKNdNPKSpP3WeulzX4fz) | [Honeysuckle](https://open.spotify.com/album/2Zjx4mvRk8p2IezpTxgjak) | 1:59 | 2023-08-07 | 2025-04-05 |
 | [Horizon](https://open.spotify.com/track/2olHCqvx5Ww94jrUL6gmOp) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Horizon](https://open.spotify.com/album/7hmRly9ceFMBZirRQcy8ne) | 2:15 | 2022-04-15 | 2022-05-14 |
 | [Hour Glass](https://open.spotify.com/track/5OU3bBYoT7TqGOlPrZqq7N) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Hour Glass](https://open.spotify.com/album/7om9KUlSTFqdUeQfO9Rm4P) | 2:51 | 2022-04-15 | 2024-03-19 |
 | [How It Is](https://open.spotify.com/track/7ekVkcI3ZD4YJbbxpq9mPR) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [How It Is](https://open.spotify.com/album/7qF2w24bghB6K5g3DLXqw3) | 2:05 | 2022-04-15 | 2024-04-10 |
@@ -606,6 +606,7 @@
 | [Silent Waltz](https://open.spotify.com/track/4ztFWnV0ujL6LoIhX24Tys) | [Alix Claude](https://open.spotify.com/artist/2IxTniy4sAptAfXe0WgwLD) | [Silent Waltz](https://open.spotify.com/album/57i8rQXOklkf6I0bD1vWZg) | 2:42 | 2024-02-02 |  |
 | [Silent Words](https://open.spotify.com/track/0wzcJ18C87PpQdHBRAftqN) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Silent Words](https://open.spotify.com/album/2Sepj0N27dHOykHW32nYTG) | 2:49 | 2022-04-15 | 2022-05-14 |
 | [Silentness](https://open.spotify.com/track/1WAUBllQeB7ujdoSehgoiu) | [Jasmin Lambert](https://open.spotify.com/artist/0HLA85Q8hIRYUY0qJO2gnk) | [Silentness](https://open.spotify.com/album/6iPO8Vy1ivrDbJT4b6qqmZ) | 2:58 | 2022-04-15 | 2022-05-14 |
+| [Silhouettes](https://open.spotify.com/track/3bNoItToT68iMJdpMYdMyd) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Silhouettes](https://open.spotify.com/album/5OM6FaXShLy7NT5XTQpp4H) | 2:15 | 2025-04-04 |  |
 | [Silk](https://open.spotify.com/track/32VbxbNM4X11uODmO24YYZ) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Silk](https://open.spotify.com/album/1wCZIEqsby6O7EeicgO7oG) | 1:55 | 2023-04-03 | 2023-07-25 |
 | [Silva](https://open.spotify.com/track/362bwMZCrw9NvRNoUf0LgT) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Silva](https://open.spotify.com/album/0IIn6EvRZ1OecHp2hTuRY9) | 2:10 | 2023-04-03 | 2025-03-19 |
 | [Silver Lining](https://open.spotify.com/track/6dfDHPTRAVzPRlpB299l24) | [Emma Richter](https://open.spotify.com/artist/2Q8IvwzxquzBgeiMdBQJKR) | [Silver Lining](https://open.spotify.com/album/1jB2I6tTdCtzwOa6wmq1lE) | 2:36 | 2023-12-12 |  |
@@ -749,6 +750,7 @@
 | [Unsaid](https://open.spotify.com/track/6DOjomPB7sCFUSx96x6bSc) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Unsaid](https://open.spotify.com/album/0jjcbJZ3TJUtcumgWefAhD) | 2:16 | 2022-04-15 | 2024-02-03 |
 | [Unsere Reise](https://open.spotify.com/track/4jRsuq7knnW7zrooiI7UaC) | [Sabine Reiniger](https://open.spotify.com/artist/3Y3Uh170gXrWMDqx5w47RI) | [Unsere Reise](https://open.spotify.com/album/0zaxkAJPvoLq8OhHquRvxg) | 3:00 | 2022-04-15 | 2022-05-14 |
 | [Unspoken words](https://open.spotify.com/track/3YVDpr9ATEeLaSj5z24qmK) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Unspoken words](https://open.spotify.com/album/0kb3AVXkNmsHCOXsHpK1pU) | 2:39 | 2023-08-14 |  |
+| [Until the End](https://open.spotify.com/track/7heAWVeCRuprbkAJwMtN7E) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [Until the End](https://open.spotify.com/album/2y2bo07zzJPSlNR3UEAtdm) | 2:40 | 2025-04-04 |  |
 | [Utsjoki](https://open.spotify.com/track/6QjleATuBevQEy00ssnKhH) | [Vegard](https://open.spotify.com/artist/3KSiDeHcHXc19XgnzXGlXJ) | [Utsjoki](https://open.spotify.com/album/5eLLUN5nLMRCUMf63NKPBT) | 2:23 | 2023-04-03 |  |
 | [Vapor](https://open.spotify.com/track/3o9Gm6S0yxGhmW7EywGpCL) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Vapor](https://open.spotify.com/album/3ASzabEUGP6EaNfGKaxTt3) | 3:08 | 2022-11-18 | 2024-10-16 |
 | [Vardo](https://open.spotify.com/track/0pc9BoEkAuNoAcHyQcZ28E) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Vardo](https://open.spotify.com/album/38TZDlWd5JHe6p75JyC035) | 2:28 | 2022-10-14 | 2024-12-18 |

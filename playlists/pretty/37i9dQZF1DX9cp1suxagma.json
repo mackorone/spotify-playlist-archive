@@ -1,12 +1,12 @@
 {
   "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Laura P\u00e9rez",
-  "num_followers": 122388,
+  "num_followers": 122393,
   "original_name": "Pop Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7fxrAAAAADMqNcurqotNEzzWxuBAx3g",
+  "snapshot_id": "Z+9oWwAAAABPOaIt8uinVYjjyIyMf9tj",
   "tracks": [
     {
       "added_at": "2025-02-21 03:23:24",
@@ -113,6 +113,26 @@
       "url": "https://open.spotify.com/track/40Ne4Y9gf5fdZyy7WDZhQu"
     },
     {
+      "added_at": "2025-04-04 05:04:27",
+      "album": {
+        "name": "6:00 a.m. (Versi\u00f3n 2025)",
+        "url": "https://open.spotify.com/album/4oPl8azNbNCa1S54ZKZ3UQ"
+      },
+      "artists": [
+        {
+          "name": "Santiago Cruz",
+          "url": "https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7"
+        },
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "duration_ms": 258091,
+      "name": "6:00 a.m. - Versi\u00f3n 2025",
+      "url": "https://open.spotify.com/track/0RtBENsw73xZiDWdlgk9Xs"
+    },
+    {
       "added_at": "2025-02-21 03:23:24",
       "album": {
         "name": "Ni\u00f1o Yo Te Am\u00e9",
@@ -159,22 +179,6 @@
       "duration_ms": 195730,
       "name": "Bogot\u00e1",
       "url": "https://open.spotify.com/track/4r3fGHTOMaqZhQSpVo9VNV"
-    },
-    {
-      "added_at": "2025-02-21 03:23:24",
-      "album": {
-        "name": "Por Las Primeras Veces",
-        "url": "https://open.spotify.com/album/6FxcKtFQck1HRBm4DlUAx0"
-      },
-      "artists": [
-        {
-          "name": "Maca & Gero",
-          "url": "https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV"
-        }
-      ],
-      "duration_ms": 149075,
-      "name": "Por Las Primeras Veces",
-      "url": "https://open.spotify.com/track/5d28xTH31PC5O4WRalbPex"
     },
     {
       "added_at": "2025-02-21 03:23:24",

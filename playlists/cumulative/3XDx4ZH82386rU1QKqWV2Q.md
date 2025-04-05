@@ -4,7 +4,7 @@
 
 > most popular tiktok phonk \- best phonk 2025 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
 
-704 songs - 1 day 6 hr 41 min
+706 songs - 1 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [Love Me \(ecstazzz Remix\)](https://open.spotify.com/track/7ahabzYSnRJlsozhUgXvaR) | [Zyrex](https://open.spotify.com/artist/33FP9bOTWc2zzSuDnh5O5Q) | [Love Me \(ecstazzz Remix\)](https://open.spotify.com/album/73X5q7MSq6w1dmyEtmtxIb) | 2:07 | 2023-06-12 |  |
 | [LuLu Lemon \(Club Remix\)](https://open.spotify.com/track/7FwQw1LFaxK4yNJpTtyPM4) | [Master Yeti](https://open.spotify.com/artist/1xR2S5GSN26FYw6KuytiGU) | [LuLu Lemon \(Club Remix\)](https://open.spotify.com/album/6YkRZxsN4V0Ll5NhV6TnAH) | 2:29 | 2023-06-12 | 2023-09-26 |
 | [LørdØfTheDead](https://open.spotify.com/track/3DOMBdXxnFnbeM7dtSOOq3) | [HAłłØWMANE](https://open.spotify.com/artist/1PHuqtGb7RbEJLOOdMjInP), [The Static Dive](https://open.spotify.com/artist/2bo4x9G5fsOOqdTfyqPulX) | [LørdØfTheDead](https://open.spotify.com/album/6vjFypRAcwe88wZh7EqmPR) | 3:16 | 2023-06-12 | 2023-08-28 |
+| [MACH PUNCH](https://open.spotify.com/track/5hjzD6GbooL5CqwbqQXqDQ) | [POP THA TRUNK](https://open.spotify.com/artist/0I7m7x9KdlGYGLwNSh0QcP), [Depths](https://open.spotify.com/artist/05vqPcJ1jnhVdEENVMchw7) | [Unleaded](https://open.spotify.com/album/4JJ8alyP1AE8y7w100AVNh) | 4:21 | 2025-04-04 |  |
 | [MAD!](https://open.spotify.com/track/0CGLVrRC9afMSY0Qai1wgv) | [KNØTTZ](https://open.spotify.com/artist/2GnZjutUSbk3z6P4b5yO1v), [tønejustdied](https://open.spotify.com/artist/5QlahVwsgQNtftpHbMr6eG) | [MAD!](https://open.spotify.com/album/4F9JN2oJg180Q0boWbCPnc) | 2:03 | 2023-06-12 | 2023-09-26 |
 | [Make It Boom](https://open.spotify.com/track/4skAu73SkZYXC7qpDn0fnh) | [LeVeon Bell](https://open.spotify.com/artist/7DNfpmCwtLVE6RVFYWaN5w) | [Make It Boom](https://open.spotify.com/album/0svUbzZ908kF2f6AcAs8j4) | 2:20 | 2023-08-03 | 2023-08-28 |
 | [Make Me Dance](https://open.spotify.com/track/74EhA3zRrETjYVwF1Bk7fv) | [Florian Picasso](https://open.spotify.com/artist/4GWqzTTt2uA9Ms6HfUhWUn) | [Make Me Dance](https://open.spotify.com/album/7rtujDA0jiEoaKDu0jLera) | 2:58 | 2023-06-12 | 2023-07-03 |
@@ -558,6 +559,7 @@
 | [She's A Samurai \- Original Version](https://open.spotify.com/track/6VKSWYSUxRETfgrOc8sT63) | [AYR Majesty](https://open.spotify.com/artist/2UbAneUDU1qxSNko0QQ4l5) | [Xenna](https://open.spotify.com/album/2bA82XnXDnyLcLtSRn4Kkh) | 2:51 | 2023-07-03 | 2023-09-26 |
 | [SHEEESH](https://open.spotify.com/track/2vCJT0We2y2065mfddct7b) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Bandlez](https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA) | [SHEEESH EP](https://open.spotify.com/album/6vTMvT40qQINkChUjN3VWU) | 2:12 | 2023-06-12 | 2023-07-21 |
 | [SHINIGAMI](https://open.spotify.com/track/7fNUE6VE2cj7cyaYD2o1xC) | [Seek](https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6), [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4) | [SHINIGAMI](https://open.spotify.com/album/4gqHlNI4ZtVlhJcBMWrmAX) | 1:23 | 2023-07-02 | 2023-08-06 |
+| [SHOCK THERAPY](https://open.spotify.com/track/23qcYNm5ncqa2atmkSK63J) | [Dack Janiels](https://open.spotify.com/artist/4F8JGeO6bJO7Z309mxHlP0) | [SHOCK THERAPY](https://open.spotify.com/album/017OKPUNHd28cCRS0WDc2K) | 3:10 | 2025-04-04 |  |
 | [SHOOT TO KILL](https://open.spotify.com/track/4yELBnJLaQ3OAnEeHRzsPs) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [SHOOT TO KILL](https://open.spotify.com/album/5i99bO7QQseHLx0EQNAInu) | 2:06 | 2023-09-05 | 2023-12-14 |
 | [SHORT CIRCUIT](https://open.spotify.com/track/2uG7QUtz7owCcQr84JD7fG) | [MONOWIRE](https://open.spotify.com/artist/0ssyYSlMlTH7CWxonEhr12) | [SHORT CIRCUIT](https://open.spotify.com/album/4q6mDmOB3YhI6xrNMQKFW8) | 1:56 | 2023-08-03 | 2023-09-26 |
 | [Show Me](https://open.spotify.com/track/558O5tR6wMeXOyf3qPRa9O) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [Show Me](https://open.spotify.com/album/1wIZvaBKOVyPLaPcigi28n) | 2:23 | 2023-08-26 | 2023-12-14 |

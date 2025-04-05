@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [23](https://open.spotify.com/track/0HAEe9CwtiNZSCDV4LRJSD) | [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN), [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA) | [23](https://open.spotify.com/album/4lpjKiunDUFCXZdXVPMQzg) | 2:29 | 2024-04-25 | 2024-06-30 |
+| [23](https://open.spotify.com/track/0HAEe9CwtiNZSCDV4LRJSD) | [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN), [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA) | [23](https://open.spotify.com/album/4lpjKiunDUFCXZdXVPMQzg) | 2:29 | 2024-04-25 |  |
 | [3tih](https://open.spotify.com/track/3f3rQiGhPdF2ysJeuL5SCk) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV) | [3tih](https://open.spotify.com/album/3qwV66sqqCRWiIHL4PhfPw) | 2:40 | 2024-04-25 | 2024-09-02 |
 | [8 ans de salaire](https://open.spotify.com/track/1AGy61Df105nt3MyWnhbL7) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [8 ans de salaire](https://open.spotify.com/album/0AD00MJCMlCDRM6exosReC) | 2:59 | 2024-02-29 | 2024-04-26 |
 | [Alby Ydo2](https://open.spotify.com/track/7hhxWoY8woyLeHifEb7a7r) | [Masri](https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Alby Ydo2](https://open.spotify.com/album/5otAVv8aZUG0kjV5w2yn37) | 2:21 | 2024-05-14 |  |
@@ -149,6 +149,6 @@
 | [Zina](https://open.spotify.com/track/3LFc3FAUjT7vdSlKuEH5qJ) | [Dzidi](https://open.spotify.com/artist/3eAmLoArAUxDddtD2PFm5p), [Rosamia](https://open.spotify.com/artist/6Upxkq1sdcIDUbSjRsjHr0) | [Zina](https://open.spotify.com/album/5r7giLRuneW4IyVqgpgmPp) | 2:33 | 2024-06-27 | 2024-08-30 |
 | [Zine Enem](https://open.spotify.com/track/2Kd4P1W0MJlSyCuKSWUVbN) | [Riffi](https://open.spotify.com/artist/7rWuImrIbAa8XxwWVFWNoZ) | [Zine Enem](https://open.spotify.com/album/5mUzblU04RqopziKae00ZY) | 2:08 | 2024-02-29 |  |
 | [Ça c'est bien](https://open.spotify.com/track/1CFcahfucbIGHRzLOP3qYX) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Ça c'est bien](https://open.spotify.com/album/6laF6aVjTtWwMZvwYdLOES) | 2:39 | 2024-02-29 |  |
-| [Écoute Moi](https://open.spotify.com/track/39BRscIkSE49Royu0tBlox) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU), [Salim](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Écoute Moi](https://open.spotify.com/album/79TjXEzEUByDhfsZ11Y9Gn) | 2:51 | 2024-02-29 |  |
+| [Écoute Moi](https://open.spotify.com/track/39BRscIkSE49Royu0tBlox) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU), [Salim](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Écoute Moi](https://open.spotify.com/album/79TjXEzEUByDhfsZ11Y9Gn) | 2:51 | 2024-02-29 | 2025-04-05 |
 
 \*This playlist was first scraped on 2024-04-08. Prior content cannot be recovered.

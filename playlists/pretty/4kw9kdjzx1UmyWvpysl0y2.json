@@ -6,8 +6,28 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAT5GrN5AatR8UH3SlnIJvSrGalqQg0",
+  "snapshot_id": "AAAT5iPiHM6dlUB0iGtrldd991yzMP42",
   "tracks": [
+    {
+      "added_at": "2025-04-04 13:55:37",
+      "album": {
+        "name": "bRuh",
+        "url": "https://open.spotify.com/album/2nhPb5JkxfN832oqThgYDv"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "TYNAN",
+          "url": "https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "bRuh",
+      "url": "https://open.spotify.com/track/2f4ttDUMOkMFiIT94FVllM"
+    },
     {
       "added_at": "2025-04-03 15:13:05",
       "album": {
@@ -1195,62 +1215,6 @@
       "duration_ms": 206750,
       "name": "I Know",
       "url": "https://open.spotify.com/track/0HTUlHM6UBjuMFWlCGLXjg"
-    },
-    {
-      "added_at": "2025-01-13 14:39:15",
-      "album": {
-        "name": "Undefined",
-        "url": "https://open.spotify.com/album/6OLWuDPS5HLefkEusT8UL6"
-      },
-      "artists": [
-        {
-          "name": "Bad Computer",
-          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
-        }
-      ],
-      "duration_ms": 214687,
-      "name": "Undefined",
-      "url": "https://open.spotify.com/track/7KISwkT8OQRUDRsZLjFCra"
-    },
-    {
-      "added_at": "2025-01-10 15:16:40",
-      "album": {
-        "name": "True Trench Times",
-        "url": "https://open.spotify.com/album/2LEjhTw6ma4KTnMSPyNR5o"
-      },
-      "artists": [
-        {
-          "name": "SampliFire",
-          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
-        },
-        {
-          "name": "INFEKT",
-          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "True Trench Times",
-      "url": "https://open.spotify.com/track/6IkbuuGlMF3DGcsBnJIbgD"
-    },
-    {
-      "added_at": "2025-01-10 15:16:18",
-      "album": {
-        "name": "Come Closer (Josh Kramer Rework)",
-        "url": "https://open.spotify.com/album/55KnsOmfr0xDbXWqBtGiZV"
-      },
-      "artists": [
-        {
-          "name": "Shingo Nakamura",
-          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
-        },
-        {
-          "name": "Josh Kramer",
-          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
-        }
-      ],
-      "duration_ms": 169124,
-      "name": "Come Closer - Josh Kramer Rework",
-      "url": "https://open.spotify.com/track/6rEA8TOvDZUVm8WX5Hi5Xv"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

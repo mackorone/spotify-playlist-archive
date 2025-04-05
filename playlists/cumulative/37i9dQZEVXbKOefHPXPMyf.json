@@ -389,6 +389,28 @@
     },
     {
       "album": {
+        "name": "Pitcher",
+        "url": "https://open.spotify.com/album/2k98cU83ZXIFQpAikP1xyU"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "Young Martino",
+          "url": "https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130670,
+      "name": "18",
+      "url": "https://open.spotify.com/track/5KMfzwgSsB0UETKqceJ6Eu"
+    },
+    {
+      "album": {
         "name": "PRIMERA MUSA",
         "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
       },
@@ -5976,7 +5998,7 @@
       ],
       "date_added": "2025-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 139624,
       "name": "Bajale 2",
       "url": "https://open.spotify.com/track/1vVsx4eCWW93weO8eJL7BI"
@@ -11118,8 +11140,8 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-12",
-      "duration_ms": 202000,
+      "date_removed": null,
+      "duration_ms": 200826,
       "name": "Chest Pain (I Love)",
       "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
     },
@@ -21623,6 +21645,28 @@
     },
     {
       "album": {
+        "name": "NACER DE NUEVO",
+        "url": "https://open.spotify.com/album/2Q3qBzFiex2SN5hWMEJj1H"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "FLIPA",
+      "url": "https://open.spotify.com/track/1dnKyTHMBWzbYZ2LDXBefu"
+    },
+    {
+      "album": {
         "name": "Florecer",
         "url": "https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk"
       },
@@ -28322,7 +28366,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 160000,
       "name": "JUMP AND FLICK",
       "url": "https://open.spotify.com/track/2jLGujqGbXGg5NSORQrX9A"
@@ -36320,7 +36364,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 159404,
       "name": "mi refe",
       "url": "https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 
 > The official Eurovision Song Contest 2025 playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,076,502 likes - 37 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,076,757 likes - 37 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 | 28 | [ICH KOMME](https://open.spotify.com/track/52NFoPnzxOKPIcJIQ9mb5Q) | [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR) | [ICH KOMME](https://open.spotify.com/album/37Jo8WGCWZTAv53vweYlYx) | 3:00 |
 | 29 | [What The Hell Just Happened?](https://open.spotify.com/track/0z64zsYHTmiTyddbFJ1S6y) | [Remember Monday](https://open.spotify.com/artist/3oIj2x6uKeZSe9Bprnt4TX) | [What The Hell Just Happened?](https://open.spotify.com/album/71KjEbRzpreoPULoJdMcjT) | 2:56 |
 | 30 | [GAJA \- Eurovision Edit](https://open.spotify.com/track/0wNpA89DLOyKlZZVJ7wCac) | [Justyna Steczkowska](https://open.spotify.com/artist/4MoS5osilxUivShOUtUoZP) | [GAJA \(Eurovision Edit\)](https://open.spotify.com/album/5c5XVlbDvejnJUm3eEdN2N) | 3:00 |
-| 31 | [Bird of Pray \- Vidbir 2025](https://open.spotify.com/track/0YM3CotMLnoTBVwMCJzYeV) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Bird of Pray \(Vidbir 2025\)](https://open.spotify.com/album/2zFjd5mjFDv6LKG1wpV9rM) | 2:59 |
+| 31 | [Bird of Pray \- Eurovision 2025](https://open.spotify.com/track/5lmoGiZquqsW9sNxJQGRHn) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Bird of Pray \(Eurovision 2025\)](https://open.spotify.com/album/7ipNGl84BdLCYkcOm0fToR) | 3:00 |
 | 32 | [Tavo akys](https://open.spotify.com/track/1imPa2lzxmLKggLCpkBAoo) | [Katarsis](https://open.spotify.com/artist/34H2dyYLUMMtI1gynkGGY1) | [Tavo akys](https://open.spotify.com/album/4B2Lu1pzDfDZ7nXeiCZV9F) | 2:52 |
 | 33 | [How Much Time Do We Have Left](https://open.spotify.com/track/104QgPphJUPg86IWYnAnL7) | [Klemen](https://open.spotify.com/artist/5MlZJ1fBb4ZX5JN2dRhwQE) | [How Much Time Do We Have Left](https://open.spotify.com/album/3EcfRhql3A4hTbt4Z3i7N5) | 3:03 |
 | 34 | [Poison Cake](https://open.spotify.com/track/0jtkkJ6Q0IB5iw5obHJDVl) | [Marko Bošnjak](https://open.spotify.com/artist/2rRdobDVMCwaxSbpG7FgMb) | [Poison Cake](https://open.spotify.com/album/3ENwk0CrHIrxpGYxmJn1XZ) | 2:58 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 | 36 | [Dobrodošli](https://open.spotify.com/track/5UspyMgNKogZTVNc9Ptl9P) | [Nina Zizic](https://open.spotify.com/artist/6KfnLDNb1o14EBOX6HInHO) | [Dobrodošli](https://open.spotify.com/album/32mNiQZWRZPliemdjkO3tZ) | 3:00 |
 | 37 | [Freedom \- Eurovision 2025 \- Georgia](https://open.spotify.com/track/5mjD2U1w6217p73LC9MEht) | [Mariam Shengelia](https://open.spotify.com/artist/57UpwmCYjUyIaKUWOO2gV3) | [Freedom \(Eurovision 2025 \- Georgia\)](https://open.spotify.com/album/1qDquxaoZDp77B9tr4WT2q) | 2:50 |
 
-Snapshot ID: `Z+uSlwAAAADZyN5MNlfbGZLWKZ+5E/GU`
+Snapshot ID: `Z+/kFAAAAAD8s+RL+aD1fLI0HeJNjkrH`

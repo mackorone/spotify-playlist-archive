@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Amira Elfeky.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Static Dress.
 
-951 songs - 2 day 11 hr 35 min
+957 songs - 2 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Camera Eats First](https://open.spotify.com/track/4T5Oe1GIz1dmhCXZE2mvLa) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [Camera Eats First](https://open.spotify.com/album/2UnGJcKW9UAsWbiTHkdV5N) | 4:53 | 2022-06-03 | 2023-07-15 |
 | [Can't Help but Hate](https://open.spotify.com/track/1fHI0w8RN6LyJJyK73HYdH) | [Terror](https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg), [Corpsegrinder](https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO) | [Can't Help but Hate](https://open.spotify.com/album/4YabiXOQ78hhNLxhq8OAmA) | 1:26 | 2022-03-11 | 2023-07-15 |
 | [Can't Stand No One](https://open.spotify.com/track/5d4Zhtc2EXIDp0Hi5cAfLq) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [Can't Stand No One](https://open.spotify.com/album/3dLRTX5OG8U2dfvNC94t9d) | 2:22 | 2024-07-26 |  |
+| [Caramel](https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Caramel](https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m) | 4:50 | 2025-04-04 |  |
 | [Carmine \(Fills the Hollow\)](https://open.spotify.com/track/3j72SnayBIS9YYVCqTEScw) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Profound Morality](https://open.spotify.com/album/5LDm7EQU04NgEHiLF2beaB) | 1:42 | 2022-04-29 | 2023-07-15 |
 | [Carousel](https://open.spotify.com/track/1sF9L9uoQG2gRKa2FqxiWu) | [Wiegedood](https://open.spotify.com/artist/1JjP30v8j95bAMZN3ws8Kb) | [Carousel](https://open.spotify.com/album/6uFjCz8NabOELB10fDSfep) | 4:51 | 2022-01-07 | 2023-07-15 |
 | [Carry My Own Torch](https://open.spotify.com/track/2y1QK4Ryxlg1KZ47rjkHbq) | [Firewalker](https://open.spotify.com/artist/5IeFfgx0s1a3ny8dFyz5si) | [Carry My Own Torch](https://open.spotify.com/album/0kzlRoT1TagiE9NdIj029t) | 1:49 | 2024-05-24 |  |
@@ -278,6 +279,7 @@
 | [Eye of Mars](https://open.spotify.com/track/7E7IYQLquvQjc8rqNM4xhe) | [Imperial Triumphant](https://open.spotify.com/artist/5zvMklMSTgoGUS9Un5domO) | [Eye of Mars](https://open.spotify.com/album/406L4BEWyB4zKZGBx2w3Go) | 5:07 | 2024-09-20 |  |
 | [EYE TO EYE](https://open.spotify.com/track/532PgIpf93c12uY9SAWheS) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [EYE TO EYE](https://open.spotify.com/album/52Bi5Euib8FrdsJLA7LsT1) | 3:53 | 2022-04-15 | 2023-07-15 |
 | [Eyes Wide Open](https://open.spotify.com/track/3W5VyYUtZtQKCYfeJtbO20) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Eyes Wide Open](https://open.spotify.com/album/6J8NO4P9dHdKmYzw24nmKp) | 3:53 | 2024-02-16 |  |
+| [face.](https://open.spotify.com/track/0zX4S0PU6BG9UxHtaAx2jA) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [face.](https://open.spotify.com/album/1pWnfUxBMWhF3TgWarYieF) | 2:21 | 2025-04-04 |  |
 | [Fail You](https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Fail You](https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur) | 3:06 | 2023-05-26 | 2024-02-03 |
 | [FAIRY METAL](https://open.spotify.com/track/0DKxrOrnZCgYZkEK4c0lPh) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FAIRY METAL](https://open.spotify.com/album/6kfLbgw7Urv2Kyd2xSJALA) | 2:41 | 2022-03-04 | 2023-07-15 |
 | [Fakin' Tha Funk \(You Get Did\)](https://open.spotify.com/track/1FjenYfXVnQprQ0X5OWofT) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [Fakin' Tha Funk \(You Get Did\)](https://open.spotify.com/album/2EAvdBjYRXRijWfmTMgfEW) | 1:18 | 2022-12-02 | 2023-07-15 |
@@ -321,6 +323,7 @@
 | [Frelsari](https://open.spotify.com/track/0V5aEnB6e1V0jePnknXApr) | [Múr](https://open.spotify.com/artist/5EfO063u0RoH2Bz9kbsPzO) | [Frelsari](https://open.spotify.com/album/5EReD2voM6xvgxjJFTXsO7) | 4:07 | 2024-10-25 |  |
 | [FRESH BONES](https://open.spotify.com/track/052ENxuzyaucDQqiAAxuo6) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs) | [FRESH BONES](https://open.spotify.com/album/7kPz7t2SmzZfcpvkCXQSAW) | 2:28 | 2023-02-17 | 2024-02-03 |
 | [From Hollow Words](https://open.spotify.com/track/7c5aXn4zw0wKzBGEmuoOiP) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m), [Sven De Caluwe](https://open.spotify.com/artist/6PnAHo4VtceG6H8Ma0trmd) | [From Hollow Words](https://open.spotify.com/album/2cIshtTABV96F8tpWTTCOD) | 3:54 | 2022-10-07 | 2023-07-15 |
+| [from me to u \(feat\. Poppy\)](https://open.spotify.com/track/6ILVeNgfsOG41ioscRql5P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [from me to u \(feat\. Poppy\)](https://open.spotify.com/album/2oxRRkR4Rj2aPCB63NsjZn) | 3:24 | 2025-04-04 |  |
 | [From The Inside](https://open.spotify.com/track/6ROHkoMA1RohwSGFgnEQzI) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [From The Inside](https://open.spotify.com/album/5rLz0FCrDlU8zsSjFpKQo2) | 6:08 | 2023-07-07 | 2024-02-03 |
 | [FTS \(KYS\)](https://open.spotify.com/track/5BsydUDVEjgyVv2IvKM16d) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [FTS \(KYS\)](https://open.spotify.com/album/1fc5o2ZknByvRcLlT2BYwy) | 2:19 | 2023-03-10 | 2024-02-03 |
 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 | 2022-09-23 | 2023-07-15 |
@@ -404,6 +407,7 @@
 | [Imposter Syndrome](https://open.spotify.com/track/6Gyfnh212BLrBpIwjnXYIh) | [Whores](https://open.spotify.com/artist/1tK28YnQJ6edBujubs7FXo) | [Imposter Syndrome](https://open.spotify.com/album/4l0JAsTXAZyERJR2h7O6z6) | 4:04 | 2022-03-04 | 2023-07-15 |
 | [In Desolation](https://open.spotify.com/track/6WNd1QQFviipmakDqWQbrp) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [In Desolation](https://open.spotify.com/album/4521mRHZPtTd3JVNSJNDg3) | 3:41 | 2024-08-16 |  |
 | [In Place of your Halo](https://open.spotify.com/track/5T0D6nxXifuwTeYSUVpiH3) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [In Place of your Halo](https://open.spotify.com/album/79oAGmxTtCVqbUCLgXnhb3) | 3:43 | 2024-12-06 |  |
+| [In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom](https://open.spotify.com/track/2F87iqCphBSMOtH4hnAuXV) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom](https://open.spotify.com/album/4VJcxpnbkSGHr4h3R6fR1d) | 4:18 | 2025-04-04 |  |
 | [In the Depths of Grief](https://open.spotify.com/track/3F0NsalkHMz49ZAyqpGvsO) | [Your Spirit Dies](https://open.spotify.com/artist/0iLA9qNrXngiyQqZjcnwxt) | [In the Depths of Grief](https://open.spotify.com/album/6KanVoZHrwJxco58rr0ikH) | 2:26 | 2025-02-14 |  |
 | [In The Grey](https://open.spotify.com/track/1phKryvBTIH9dSp9Gv51Zz) | [Shadows Fall](https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0) | [In The Grey](https://open.spotify.com/album/3VcCI8NsG6nxS2n1gs3qD0) | 3:38 | 2024-12-06 |  |
 | [In The Mean Time \(feat\. Ash Costello\)](https://open.spotify.com/track/6DTbne2r9AyM2rNFTEUZvF) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [New Years Day](https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg) | [In The Mean Time \(feat\. Ash Costello\)](https://open.spotify.com/album/4gAuBOIXceqlOcf5ld730V) | 3:32 | 2024-04-19 |  |
@@ -789,6 +793,7 @@
 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Dying Song \(Time To Sing\)](https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8) | 3:23 | 2022-07-22 | 2023-07-15 |
 | [THE EARTH’S COLD EMBRACE](https://open.spotify.com/track/7MuzyATTUAjByhKB3zHLTQ) | [Mouth for War](https://open.spotify.com/artist/2XWmtvXZ0FHiRT9PGzGPaF) | [THE EARTH’S COLD EMBRACE](https://open.spotify.com/album/2yaFrFB0fmseL2s5maXwBO) | 2:47 | 2024-09-27 |  |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-06 |  |
+| [The End of All We Know](https://open.spotify.com/track/28uXRxTn0ztyqUjtMtHYJa) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Fracture](https://open.spotify.com/album/0m0oTvI6SHfVmYHuq4jU8p) | 4:12 | 2025-04-04 |  |
 | [The End of Times](https://open.spotify.com/track/5PREpWSEGXjkmOvLFQ3i0B) | [Defacing God](https://open.spotify.com/artist/1vDFKivJsGreOJhC7aYLus) | [The End of Times](https://open.spotify.com/album/0lVlIuxzG665JhrCCYGSZg) | 4:13 | 2022-08-05 | 2023-07-15 |
 | [The Fall of Us](https://open.spotify.com/track/6aDK9xX0rAV8kNY2z4s0WO) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [This Consequence](https://open.spotify.com/album/7cekR9owkcFWwzJA365Dq5) | 4:18 | 2025-02-21 |  |
 | [THE FIRST TEST](https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [THE FIRST TEST](https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU) | 2:14 | 2024-05-31 |  |
@@ -918,6 +923,7 @@
 | [We’ll Be Back](https://open.spotify.com/track/4SsN1B9ZaSOFmBb4wVu1WB) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [We’ll Be Back](https://open.spotify.com/album/2aeNfVklb5vG8aThJMIQ69) | 4:29 | 2022-06-24 | 2023-07-15 |
 | [We’re All Gonna Die](https://open.spotify.com/track/6rvFwsNhcd7Q2RdsEvUEbC) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 3:19 | 2022-01-14 | 2023-07-15 |
 | [What Is Delicious? Who Swarms?](https://open.spotify.com/track/4zyPbDKebdwbahJsaQs57a) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [What Is Delicious? Who Swarms?](https://open.spotify.com/album/5Z9n0CXvfI0fsvXC0PLHO2) | 3:16 | 2022-06-03 | 2023-07-15 |
+| [What we know](https://open.spotify.com/track/5aFdZBMU2W8jw1gPuVYLtf) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [What we know](https://open.spotify.com/album/6sdxlixknhEoA0qBwEoIGV) | 4:03 | 2025-04-04 |  |
 | [When Mortal Coils Shed](https://open.spotify.com/track/6RkLj4DJXCSFUr0PJ8xE8z) | [Evile](https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo) | [The Unknown](https://open.spotify.com/album/51BpsIsaNfI4MWqUl3WD9P) | 7:05 | 2023-07-14 | 2024-02-03 |
 | [Where The Light Fades](https://open.spotify.com/track/7g0oIMiUqPKudJsPjkpc2E) | [Pallbearer](https://open.spotify.com/artist/2yeEmsTQMNHBlS5dhWtuD1) | [Where The Light Fades](https://open.spotify.com/album/4UtNmhrbKelGVvZy1AxrC8) | 6:39 | 2024-03-22 |  |
 | [Where the Void Begins](https://open.spotify.com/track/7hYwuiDgHoIXONMjwj1sYf) | [Sarcator](https://open.spotify.com/artist/78tS2rMs81fH13rbaw4sT0) | [Where the Void Begins](https://open.spotify.com/album/0yCk147goanQpkQTF7e4EN) | 7:01 | 2024-12-13 |  |

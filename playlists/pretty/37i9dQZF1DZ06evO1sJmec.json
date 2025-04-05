@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2023500,
+  "num_followers": 2023774,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+x+AAAAAACTvoXoK244xSuFpyR+alDS",
+  "snapshot_id": "Z+3PgAAAAACbFTn20lb3kBHa7njwnYb2",
   "tracks": [
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metallica (Remastered)",
-        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 240160,
-      "name": "Don't Tread on Me (Remastered)",
-      "url": "https://open.spotify.com/track/0u9ORuO4xOQY5SHxNcvCnV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kill 'Em All (Deluxe / Remastered)",
         "url": "https://open.spotify.com/album/3m69LQokz6DaKB3yw4BH6n"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 432546,
       "name": "The Four Horsemen - Remastered",
       "url": "https://open.spotify.com/track/2YTwVDQOSGclX2N3AKetOP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Metallica (Remastered)",
+        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 240160,
+      "name": "Don't Tread on Me (Remastered)",
+      "url": "https://open.spotify.com/track/0u9ORuO4xOQY5SHxNcvCnV"
     },
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "...And Justice for All (Remastered)",
-        "url": "https://open.spotify.com/album/4Cn4T0onWhfJZwWVzU5a2t"
+        "name": "\u2026And Justice for All (Remastered)",
+        "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
       },
       "artists": [
         {
@@ -801,8 +801,8 @@
         }
       ],
       "duration_ms": 585506,
-      "name": "...And Justice for All (Remastered)",
-      "url": "https://open.spotify.com/track/0ep7UTGw3F9VkN9FV52En3"
+      "name": "...And Justice for All",
+      "url": "https://open.spotify.com/track/4a47TNOfJ9vbpbmU31wpgT"
     },
     {
       "added_at": null,

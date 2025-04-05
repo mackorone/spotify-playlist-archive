@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-02",
+      "date_removed": null,
       "duration_ms": 140800,
       "name": "aperture",
       "url": "https://open.spotify.com/track/4nB73xtcP4qEfLcK8x2HfT"
@@ -3082,7 +3082,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-06",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/1LkuMhbV1HMSB7Mye60a40"
@@ -3618,7 +3618,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-19",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Cat Whisperer",
       "url": "https://open.spotify.com/track/7nnoeXw1CQ9oLeZ5wgEiXx"
@@ -4010,7 +4010,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-23",
+      "date_removed": null,
       "duration_ms": 148085,
       "name": "chim",
       "url": "https://open.spotify.com/track/5XvMaCt17K5caQwsx8izP3"
@@ -8904,7 +8904,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 196887,
       "name": "Fortran",
       "url": "https://open.spotify.com/track/2gNoc9XvLMECTErBk7YKmJ"
@@ -15091,6 +15091,24 @@
     },
     {
       "album": {
+        "name": "magic dreams",
+        "url": "https://open.spotify.com/album/3OZEKrbzmnCZTpE3Ud5WMC"
+      },
+      "artists": [
+        {
+          "name": "lund",
+          "url": "https://open.spotify.com/artist/48VUy09PO8fkPwvYCfMwS1"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119294,
+      "name": "magic dreams",
+      "url": "https://open.spotify.com/track/1DZl5V6YH7SnyVjLjIQuHD"
+    },
+    {
+      "album": {
         "name": "magic hands",
         "url": "https://open.spotify.com/album/6lVENqVP8tppoJO9BYIYPo"
       },
@@ -15200,7 +15218,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 122767,
       "name": "mai tai",
       "url": "https://open.spotify.com/track/378RulUBZId4zHC5p84vm3"
@@ -20260,7 +20278,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 154838,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/4vAz4u1ThUJULhu7wySGrs"
@@ -25704,7 +25722,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 135319,
       "name": "take it back",
       "url": "https://open.spotify.com/track/3WNpPSLZ9Hmm2Wpaoad95v"
@@ -28002,7 +28020,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 134651,
       "name": "Velvet 87",
       "url": "https://open.spotify.com/track/3m5YysyzuOU7hN2M3npuCP"

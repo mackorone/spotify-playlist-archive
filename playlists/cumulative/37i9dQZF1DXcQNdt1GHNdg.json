@@ -63,6 +63,32 @@
     },
     {
       "album": {
+        "name": "12 Bore",
+        "url": "https://open.spotify.com/album/1lqgmn4bJ72l60zfJxN9mJ"
+      },
+      "artists": [
+        {
+          "name": "Ninja",
+          "url": "https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT"
+        },
+        {
+          "name": "Dev Kharoud",
+          "url": "https://open.spotify.com/artist/7GXtuySBAajVFEGLUSoo3w"
+        },
+        {
+          "name": "Jhindi",
+          "url": "https://open.spotify.com/artist/79KhzCVesY368au6fdOaj2"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141083,
+      "name": "12 Bore",
+      "url": "https://open.spotify.com/track/4spabAzmxykhdHZtRPdfiS"
+    },
+    {
+      "album": {
         "name": "Moosetape",
         "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
       },
@@ -96,6 +122,28 @@
       "duration_ms": 146968,
       "name": "3 THINGS",
       "url": "https://open.spotify.com/track/2uQZlieZO9UBpveWZJxHsC"
+    },
+    {
+      "album": {
+        "name": "3,13",
+        "url": "https://open.spotify.com/album/2v8u8nllQmZhvSzW0cjb12"
+      },
+      "artists": [
+        {
+          "name": "Pardeep Sran",
+          "url": "https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC"
+        },
+        {
+          "name": "Sukh Lotey",
+          "url": "https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177391,
+      "name": "3,13",
+      "url": "https://open.spotify.com/track/3VaJjYo7tSJ88BY8zXPaqf"
     },
     {
       "album": {
@@ -144,6 +192,28 @@
       "duration_ms": 234893,
       "name": "410",
       "url": "https://open.spotify.com/track/0R1AZYXc34nfMaiengrkRc"
+    },
+    {
+      "album": {
+        "name": "48 Rhymes",
+        "url": "https://open.spotify.com/album/12a6nYFLfVAdruHi64tJVX"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Manna Music",
+          "url": "https://open.spotify.com/artist/7JuTOJ6xkgM1RScWRrbCOT"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110932,
+      "name": "48 Rhymes",
+      "url": "https://open.spotify.com/track/6voByoJq77rN6FITdRhtLb"
     },
     {
       "album": {
@@ -1112,7 +1182,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 155294,
       "name": "Demand",
       "url": "https://open.spotify.com/track/6hgEgdYq9g9TN9ZN46hFor"
@@ -1218,7 +1288,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 170721,
       "name": "Double Dose",
       "url": "https://open.spotify.com/track/5SEtz18nGFtT8IiyaAJC2z"
@@ -1398,7 +1468,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 130000,
       "name": "Faraar",
       "url": "https://open.spotify.com/track/72H6G8v9xyuwdRBaTkoT5G"
@@ -1446,7 +1516,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 158400,
       "name": "Flexin",
       "url": "https://open.spotify.com/track/0KYQW5t4OQtGm9w76fxZsN"
@@ -3024,7 +3094,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 197242,
       "name": "OG",
       "url": "https://open.spotify.com/track/5Per9rl2ItpNoHilvbxLsB"
@@ -3284,6 +3354,28 @@
       "duration_ms": 190923,
       "name": "Punjabi Kompa",
       "url": "https://open.spotify.com/track/3XUeQfDlKWphVg5LFWEaRi"
+    },
+    {
+      "album": {
+        "name": "Putt Jatt Da",
+        "url": "https://open.spotify.com/album/5RuqCvnNgBn5VUzm05EtlD"
+      },
+      "artists": [
+        {
+          "name": "Simiran Kaur Dhadli",
+          "url": "https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9"
+        },
+        {
+          "name": "Desi Trap Music",
+          "url": "https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155744,
+      "name": "Putt Jatt Da",
+      "url": "https://open.spotify.com/track/0xffKEAFkJB8ZWt0w38YAn"
     },
     {
       "album": {
@@ -3872,6 +3964,32 @@
       "duration_ms": 159011,
       "name": "Sunke",
       "url": "https://open.spotify.com/track/5G0seszeGo0yaWF4UlnVTq"
+    },
+    {
+      "album": {
+        "name": "ONE FROM THE CROWD",
+        "url": "https://open.spotify.com/album/5KOxI4N3j6nWS1OiEUm8Ab"
+      },
+      "artists": [
+        {
+          "name": "dox",
+          "url": "https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4"
+        },
+        {
+          "name": "JASKARAN",
+          "url": "https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K"
+        },
+        {
+          "name": "Rita Kim",
+          "url": "https://open.spotify.com/artist/5Xtuk7kRz7Y5qVOlaB7kml"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/7eQoMQdE4JqngwYDOqLBU0"
     },
     {
       "album": {

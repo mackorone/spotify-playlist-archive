@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Josh Groban
 
-427 songs - 1 day 0 hr 26 min
+428 songs - 1 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Blast Off](https://open.spotify.com/track/5ywsqu9AEJnEJhJ05Vf9Me) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/0S0r2RFucaW9kVjBtcBOV1) | 4:44 | 2021-12-03 | 2022-04-29 |
 | [Bloom](https://open.spotify.com/track/67q72wEUwXTEj5fHlC2hT8) | [Big Stuff](https://open.spotify.com/artist/5hVGTwuOK7snm9spr45QS3) | [Bloom](https://open.spotify.com/album/7wLp5QkiaGmHzKonmlBa3c) | 3:16 | 2022-03-11 | 2023-11-11 |
 | [Blow My Cover](https://open.spotify.com/track/0ZVZ0htiIF0MaoczqT0zFV) | [Ansley Stewart](https://open.spotify.com/artist/5vhTunGtLVYEAvjIOurNxS), [Pat Van Dyke](https://open.spotify.com/artist/1yaeIrccwZJISDyXmizfZZ) | [Blow My Cover](https://open.spotify.com/album/2QuIiA2eDdeGCa2HWXpGOW) | 3:45 | 2022-02-25 | 2023-08-05 |
-| [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 | 2024-04-26 |  |
+| [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 | 2024-04-26 | 2025-04-05 |
 | [Brand New Nowhere](https://open.spotify.com/track/0pznRgpmNQXRZYCG6uYhNP) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [In Real Life](https://open.spotify.com/album/5ryM91OiM0t4owAR1MHIoK) | 3:17 | 2022-05-13 | 2025-03-29 |
 | [Breaking Each Other's Hearts](https://open.spotify.com/track/6FzMIRJ6zBDWjtTW4yx4Zy) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Breaking Each Other's Hearts](https://open.spotify.com/album/3Qs9pz9ZOAr6vQKQquVfJS) | 4:43 | 2021-12-24 | 2022-04-21 |
 | [Breaking Myself](https://open.spotify.com/track/0WoQVuNBdcuEvqeKZowqIK) | [Grace Kinstler](https://open.spotify.com/artist/1tsgfgGTbYHKRfV3GGua3u) | [Breaking Myself](https://open.spotify.com/album/1etjAoMPvUup3w3M95kfNb) | 2:54 | 2022-05-17 |  |
@@ -337,6 +337,7 @@
 | [Short Hair](https://open.spotify.com/track/5YuVDItjVSibb1A0DjD2J1) | [Allie Dunn](https://open.spotify.com/artist/1lx72xxuyFIbssxER4orMy) | [Short Hair](https://open.spotify.com/album/5Z1cEW2Oabkzp7dkkIJQw6) | 4:14 | 2024-06-07 | 2024-09-21 |
 | [Shoulda](https://open.spotify.com/track/3zVnXQUiHUTPYxz47BOafP) | [Erez Zobary](https://open.spotify.com/artist/7CIDRraBIHz8BenhnkJGnz) | [Starlight](https://open.spotify.com/album/1yFYrWlcucrG2gI2AzowyP) | 3:24 | 2022-05-06 | 2023-06-24 |
 | [Silence](https://open.spotify.com/track/5DfBII8BTQtF9WdFk95ja4) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [Silence](https://open.spotify.com/album/6q4cHdQkVJe4MRuOPHrwdx) | 2:15 | 2024-04-05 |  |
+| [Silver Lining](https://open.spotify.com/track/0cgjvHVCoiafozhMk3Z7Sg) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/3TqBGTBmONLgkO3OxDipkg) | 3:17 | 2025-04-04 |  |
 | [SING](https://open.spotify.com/track/6x9CsGaWqqtaggNYelyWO5) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [WE ARE \(The Deluxe Edition\)](https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy) | 3:11 | 2021-12-03 | 2023-01-28 |
 | [SING](https://open.spotify.com/track/73qyiny4KFB8kh4n2TUkOX) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [SING](https://open.spotify.com/album/1o3sKhWeAePQIl0DQegPla) | 3:11 | 2021-12-03 | 2022-07-29 |
 | [Skate](https://open.spotify.com/track/2sXf2JdbB2GlNju00kw9WE) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Skate](https://open.spotify.com/album/4AsebSFI8STBGRcVUJ3Tmo) | 3:23 | 2021-12-03 | 2022-07-28 |

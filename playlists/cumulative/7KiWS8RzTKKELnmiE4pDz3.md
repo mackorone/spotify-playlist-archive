@@ -4,7 +4,7 @@
 
 > 
 
-921 songs - 1 day 20 hr 51 min
+922 songs - 1 day 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Foux \(feat\. Ab\-Soul\)](https://open.spotify.com/track/6UqgBwNMKmhjDuN0OcVJA0) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 4:41 | 2024-03-04 | 2024-11-06 |
 | [Free BabyEBG Freestyle](https://open.spotify.com/track/1eRTuYXGNve68gqGiRUTG3) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Free BabyEBG Freestyle](https://open.spotify.com/album/1TSlkErLHfkPRqK2xh6S51) | 2:00 | 2024-11-06 |  |
 | [Free Me](https://open.spotify.com/track/5tLXeCSifkKGCieDgEgwxQ) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Free Me](https://open.spotify.com/album/6V23UK6DifxHQMxE1NptsN) | 2:35 | 2022-12-30 | 2023-12-14 |
+| [Free Mr\. Banks](https://open.spotify.com/track/0Prv7tKONwFjjoJ2KswCoR) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Free Mr\. Banks](https://open.spotify.com/album/0hSUTpnHqOgP8hy7XKBPyg) | 1:59 | 2025-04-04 |  |
 | [Free Young Thug](https://open.spotify.com/track/459TcVn4q9fN9NJe29RmjL) | [jahhde](https://open.spotify.com/artist/3iwgpA6jf4fXM5ZuH7qglb), [Ifys](https://open.spotify.com/artist/2JJuMFyGSGUltwqf32E8YT) | [Lost Files 4](https://open.spotify.com/album/6vlzHLRHhhQWKhIsxsbH5P) | 2:29 | 2023-12-25 | 2024-04-24 |
 | [Free Young Thug](https://open.spotify.com/track/7LFvmOPOmBMMIb57swvhQm) | [user00xman](https://open.spotify.com/artist/6UWnzCvZ8dOv4f3grPg2wT) | [Lost ?](https://open.spotify.com/album/5FJyFYEfCJy8moRbDfEMBt) | 2:29 | 2023-01-07 | 2023-05-09 |
 | [Freestyle](https://open.spotify.com/track/33YwdmM6I1hBOT0ZQHSQW6) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Flyest Nigga In Charge, Vol\. 1](https://open.spotify.com/album/0h7HHLlC9uaaxhJOaKBLvr) | 3:29 | 2025-02-26 |  |

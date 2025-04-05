@@ -2808,7 +2808,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-26",
+      "date_removed": null,
       "duration_ms": 191100,
       "name": "Level 2",
       "url": "https://open.spotify.com/track/7AchGChq5lR5NkfO4oy9zz"
@@ -3170,7 +3170,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 144022,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/59RLG6R4RlbGsRMrLBSuIw"
@@ -4992,7 +4992,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 172307,
       "name": "Sriracha",
       "url": "https://open.spotify.com/track/0fIjitxzKgOKRCptRrrPUD"
@@ -5914,6 +5914,24 @@
       "duration_ms": 130000,
       "name": "Western Promises",
       "url": "https://open.spotify.com/track/3X6akQdLtqrMkGJntH7AhD"
+    },
+    {
+      "album": {
+        "name": "Whispers of the Wind",
+        "url": "https://open.spotify.com/album/4vxhhrJEaboZh47GyEfZ00"
+      },
+      "artists": [
+        {
+          "name": "Yoga at the Disco",
+          "url": "https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133846,
+      "name": "Whispers of the Wind",
+      "url": "https://open.spotify.com/track/3E6NfnkawOsv6QEHDVqdlV"
     },
     {
       "album": {

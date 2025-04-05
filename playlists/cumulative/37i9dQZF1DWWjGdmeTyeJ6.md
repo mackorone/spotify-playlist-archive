@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover artist: Raq baby, Artwork: Isu Kim
 
-7,972 songs - 18 day 0 hr 10 min
+7,973 songs - 18 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [A Lot More Free](https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:18 | 2023-08-30 | 2023-09-14 |
 | [a love song to my best friend](https://open.spotify.com/track/6HDaJykJd7YA3HW2qi7QEd) | [danilyon](https://open.spotify.com/artist/6nLJNtlTbf7DBTLNvdcQ1q) | [a love song to my best friend](https://open.spotify.com/album/6p68mYk1XjMGO4Wg404RKz) | 2:22 | 2022-03-02 | 2022-03-10 |
 | [a mi casa](https://open.spotify.com/track/6UwVtkAOTL3bzevb0aHAjp) | [Polska](https://open.spotify.com/artist/5RpQqJ8QJKu4vIzAJZQxwk) | [a mi casa](https://open.spotify.com/album/5pBLBJjevF43uyHJp1Hpw4) | 1:58 | 2024-05-22 | 2024-06-01 |
+| [a million faces](https://open.spotify.com/track/7F2nEClWeQ3x5ycA5qtKOI) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [a million faces](https://open.spotify.com/album/49jPojLRuWp71LnK3Y3ClE) | 1:42 | 2025-04-04 |  |
 | [A Month Ago](https://open.spotify.com/track/798tRXwkYQ0o5nlY621s3x) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [A Month Ago](https://open.spotify.com/album/1nka8M1ttrlVEotLDwZJgA) | 2:40 | 2022-09-21 | 2022-09-29 |
 | [A Penny For Your Thoughts](https://open.spotify.com/track/3quSErRei0EBupQnK6ze5h) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [A Penny For Your Thoughts](https://open.spotify.com/album/7b9pX2SFotCMRcfU3PYvPW) | 1:38 | 2024-04-24 | 2024-05-09 |
 | [a song to quit your job to](https://open.spotify.com/track/0mfGFeYDeO4mOIuiAqPxBU) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [a song to quit your job to](https://open.spotify.com/album/3eC2bNmztzh8ALa5g8FcZB) | 2:46 | 2022-01-12 | 2022-01-20 |

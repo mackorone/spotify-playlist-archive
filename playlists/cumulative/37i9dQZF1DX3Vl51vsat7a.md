@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Cloudy June
 
-381 songs - 19 hr 50 min
+383 songs - 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [A Million Heartbreak Songs](https://open.spotify.com/track/6JEVgmq5JogD90AMuXWbkI) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [A Million Heartbreak Songs](https://open.spotify.com/album/1DYm43u5XQfymDy9WuKBBj) | 3:57 | 2024-07-18 |  |
 | [A$AP & Rihanna](https://open.spotify.com/track/0GihNtHYSZwkqB48jbkyC7) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [A$AP & Rihanna](https://open.spotify.com/album/3o5lHTIpsmGE5GdRboWMRs) | 1:52 | 2022-11-17 | 2023-07-28 |
 | [A$AP & Rihanna](https://open.spotify.com/track/1wT0IaBnco8m5XIViG7HfE) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [A$AP & Rihanna](https://open.spotify.com/album/7mwRWlmAOQEWnEOgV3NEt2) | 1:52 | 2022-07-28 | 2022-11-20 |
-| [Abendkleider und Nadelstreifen](https://open.spotify.com/track/5xMX2H3NpXB0Kv1nRTSB8O) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Universum regelt](https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh) | 2:47 | 2022-05-19 |  |
+| [Abendkleider und Nadelstreifen](https://open.spotify.com/track/5xMX2H3NpXB0Kv1nRTSB8O) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Universum regelt](https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh) | 2:47 | 2022-05-19 | 2025-04-05 |
 | [abgelenkt](https://open.spotify.com/track/34znHuzr2NqkHURUtPCmEE) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [abgelenkt](https://open.spotify.com/album/2vWOXWon4lctKoApAK69XY) | 2:39 | 2024-07-18 |  |
 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 | 2022-05-05 | 2023-01-27 |
 | [ADHD](https://open.spotify.com/track/6YYjOdTC6r8woS303ScscC) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [ADHD](https://open.spotify.com/album/1R8E8cwhWD2NI1Y04F6rQu) | 3:57 | 2023-11-09 | 2024-11-08 |
@@ -111,6 +111,7 @@
 | [echo](https://open.spotify.com/track/39rdOcmqMFRCoxaFLSXB00) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [echo](https://open.spotify.com/album/1FVtCp6xQpGoxrTJcUJ5jz) | 3:13 | 2022-11-17 | 2023-03-25 |
 | [Egal \(was passiert\)](https://open.spotify.com/track/0kNkyLekrgYVDt6EPmslv2) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Egal \(was passiert\)](https://open.spotify.com/album/4mNn1ZVQzxRhOQjFav5rMe) | 3:18 | 2023-09-14 | 2023-10-06 |
 | [Eins sein](https://open.spotify.com/track/1cIk7YqCnsVEv6FGRFLLrU) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Eins sein](https://open.spotify.com/album/7uFZmTPubuC0o8gV4ODoL6) | 2:52 | 2021-12-16 | 2022-01-14 |
+| [ELLA](https://open.spotify.com/track/07B2CmYPHTjI6Cv5z4dazl) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [ELLA](https://open.spotify.com/album/6i9CQKkqBHumFjUaW5XHF9) | 2:10 | 2025-04-04 |  |
 | [End of the Road](https://open.spotify.com/track/3BfRjAclEFihCqLguT8Ch7) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [End of the Road](https://open.spotify.com/album/77eNqATHOvAle5qBQqBHtM) | 2:39 | 2021-12-16 | 2022-04-29 |
 | [error](https://open.spotify.com/track/067WOHMcvXQujRm2wAFrbT) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [error](https://open.spotify.com/album/145vcpDmaIPe5kIkNJYof7) | 3:01 | 2023-03-23 | 2023-08-25 |
 | [FALLING](https://open.spotify.com/track/2Me5ovqaW3PKDYPBlXwq8a) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [FALLING](https://open.spotify.com/album/0tHRET0OgupLXVJvqM1oG9) | 5:18 | 2022-09-08 | 2023-06-16 |
@@ -288,6 +289,7 @@
 | [Schnelle Brille](https://open.spotify.com/track/0WujdAWFACZ7AKmxnFg52I) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC) | [Altbau](https://open.spotify.com/album/2qwFhDKCrCy5sYU6lqGC77) | 2:18 | 2022-11-17 | 2023-03-25 |
 | [School Friends](https://open.spotify.com/track/5QNmYUtAV91xj3LHePazkl) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [School Friends](https://open.spotify.com/album/4l86mdEGe67Ilg2dNCelZq) | 3:30 | 2022-04-07 | 2022-05-27 |
 | [schwarzer Renault](https://open.spotify.com/track/20EdweAxnMgjJLnXJiJJYm) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [schwarzer Renault](https://open.spotify.com/album/2H7oTzq7ciKgEGawrYVFEu) | 2:53 | 2022-07-14 | 2022-10-28 |
+| [schönhauser \(feat\. Gustav\)](https://open.spotify.com/track/0jsnXwAKMBZ455LiT5ovGj) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [schönhauser EP](https://open.spotify.com/album/5WuZ1IE5sEBIRSlJUcXjdq) | 2:00 | 2025-04-04 |  |
 | [Seit du da bist](https://open.spotify.com/track/6UKEr68Gqgq9LAwdLDfW85) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Seit du da bist](https://open.spotify.com/album/7aSlrqxnr9OZc69O9Vnvlh) | 2:30 | 2023-07-11 | 2023-09-08 |
 | [Set Me Free](https://open.spotify.com/track/4QaTmat7UUkWqWPafw59pn) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi), [COSBY](https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv), [sebo](https://open.spotify.com/artist/3CW9E4zbWJaS4xVUb0KPeW) | [Set Me Free](https://open.spotify.com/album/0AlLXyc7bWVwCoDAZFu6p7) | 2:11 | 2024-02-15 | 2025-01-31 |
 | [She's A Star](https://open.spotify.com/track/1WTdWqP7VUEVuSrBcoAAtU) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [She's A Star](https://open.spotify.com/album/0q5wcUvHIgklQrc1SDam2x) | 4:45 | 2022-03-17 | 2022-05-06 |
@@ -317,7 +319,7 @@
 | [sweatshop](https://open.spotify.com/track/1NbSzuTZwGgTgGpIq4ljHZ) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [sweatshop](https://open.spotify.com/album/4zcnApdR65SRUbftcGRyvS) | 2:29 | 2023-11-16 | 2024-11-22 |
 | [Süße Träume](https://open.spotify.com/track/37FEXZlxz8OYFiB8sdxkdk) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Süße Träume](https://open.spotify.com/album/4S620Fwlk0uQXT3ByjyGSf) | 2:40 | 2022-09-08 | 2024-08-23 |
 | [Süße Träume](https://open.spotify.com/track/4c8LnzyBlBW1crRcbDXKoW) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Süße Träume](https://open.spotify.com/album/5G5VwA4Nb7JxVamloIDFdl) | 2:40 | 2022-11-17 | 2024-04-19 |
-| [tau mich auf](https://open.spotify.com/track/6j8OrKDQHxXakjA7KKbWzj) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [tau mich auf](https://open.spotify.com/album/7dajv17bGrOJRn1I5etrcq) | 1:50 | 2025-01-30 |  |
+| [tau mich auf](https://open.spotify.com/track/6j8OrKDQHxXakjA7KKbWzj) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [tau mich auf](https://open.spotify.com/album/7dajv17bGrOJRn1I5etrcq) | 1:50 | 2025-01-30 | 2025-04-05 |
 | [Teen](https://open.spotify.com/track/3QEmBsw9CFMnNWaevPo91r) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Teen](https://open.spotify.com/album/2zRB8bzRMCoXTqNKQtD4Hf) | 3:03 | 2023-08-24 | 2024-01-19 |
 | [Tell me](https://open.spotify.com/track/6E3G5pMRT5FAUiQqaPuPts) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Tell me](https://open.spotify.com/album/5NI4GsDHOVx7LIcrIi4E6k) | 2:35 | 2024-11-28 |  |
 | [Tempo](https://open.spotify.com/track/4U4wfzEfxCHCiAdPg3oage) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [Tempo](https://open.spotify.com/album/1xQnVy9txnqnRnbr2nlJf2) | 2:11 | 2023-06-29 | 2024-05-17 |

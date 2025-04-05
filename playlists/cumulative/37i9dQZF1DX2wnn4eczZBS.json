@@ -1195,6 +1195,24 @@
     },
     {
       "album": {
+        "name": "Iemand Anders",
+        "url": "https://open.spotify.com/album/6saWoM2nRMWq4QIrKo3GGL"
+      },
+      "artists": [
+        {
+          "name": "REINDIER",
+          "url": "https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230599,
+      "name": "Iemand Anders",
+      "url": "https://open.spotify.com/track/6ZzjjOoKAw3QGQmODzplnK"
+    },
+    {
+      "album": {
         "name": "Half",
         "url": "https://open.spotify.com/album/7iioVMREgJtTMow2rRnbUt"
       },
@@ -2564,7 +2582,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 136298,
       "name": "Steeds Weer",
       "url": "https://open.spotify.com/track/7uEC4z7GMQAgmhOV737AcR"

@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 150000,
       "name": "24/7",
       "url": "https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W"
@@ -525,6 +525,28 @@
     },
     {
       "album": {
+        "name": "Bring It",
+        "url": "https://open.spotify.com/album/4e3KDT6hOHAkyCVjCpYBjp"
+      },
+      "artists": [
+        {
+          "name": "The 046",
+          "url": "https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g"
+        },
+        {
+          "name": "Lisi",
+          "url": "https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200617,
+      "name": "Bring It",
+      "url": "https://open.spotify.com/track/3IGcT1DMV7axlr4Wez3hRg"
+    },
+    {
+      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0nY0X0q9Kv4b1iEiv1ORFq"
       },
@@ -756,6 +778,24 @@
       "duration_ms": 227146,
       "name": "Cold Treatment",
       "url": "https://open.spotify.com/track/7ag9DNGZ1CYexgaPdecBtO"
+    },
+    {
+      "album": {
+        "name": "cool",
+        "url": "https://open.spotify.com/album/1Ohj7SrdoUOqQ3zgAdClPv"
+      },
+      "artists": [
+        {
+          "name": "Michael Clifford",
+          "url": "https://open.spotify.com/artist/5xnIHjofV8JpeKaWfFMcj0"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163533,
+      "name": "cool",
+      "url": "https://open.spotify.com/track/7BicWDX4TJX09ps0XhNmrS"
     },
     {
       "album": {
@@ -1620,7 +1660,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 224971,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/3tTdrfAf26i1px0iRSvpKq"

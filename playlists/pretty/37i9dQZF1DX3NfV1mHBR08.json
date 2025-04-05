@@ -1,6 +1,6 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 15272,
+  "num_followers": 15281,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "Z+OG7QAAAABjrr85xoq/8RMSfvdoyEjn",
   "tracks": [
-    {
-      "added_at": "2025-03-26 04:47:41",
-      "album": {
-        "name": "Still Life",
-        "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 188369,
-      "name": "Still Life",
-      "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
-    },
     {
       "added_at": "2025-03-26 04:47:41",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 264480,
       "name": "For Youth",
       "url": "https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5"
+    },
+    {
+      "added_at": "2025-03-26 04:47:41",
+      "album": {
+        "name": "Still Life",
+        "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 188369,
+      "name": "Still Life",
+      "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
     },
     {
       "added_at": "2025-03-26 04:47:41",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-03-26 04:47:41",
       "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        }
-      ],
-      "duration_ms": 225861,
-      "name": "IYAH",
-      "url": "https://open.spotify.com/track/3EC9jQuk4yPP3IhKOJvbPw"
-    },
-    {
-      "added_at": "2025-03-26 04:47:41",
-      "album": {
         "name": "Extraordinary Attorney Woo (Original Television SoundTrack) Pt. 1",
         "url": "https://open.spotify.com/album/1JNQlhazNG0N5gK1NoLAuK"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 262143,
       "name": "Brave",
       "url": "https://open.spotify.com/track/30g5E9MteFxeG9pDvRKJNl"
+    },
+    {
+      "added_at": "2025-03-26 04:47:41",
+      "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 225861,
+      "name": "IYAH",
+      "url": "https://open.spotify.com/track/3EC9jQuk4yPP3IhKOJvbPw"
     },
     {
       "added_at": "2025-03-26 04:47:41",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-03-26 04:47:41",
       "album": {
-        "name": "Fighting!",
-        "url": "https://open.spotify.com/album/2BEu1ulaGHvhNYmOcurP80"
-      },
-      "artists": [
-        {
-          "name": "eldon",
-          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
-        }
-      ],
-      "duration_ms": 185986,
-      "name": "Fighting!",
-      "url": "https://open.spotify.com/track/5F2Nrnc779a0ZADDG7v7u7"
-    },
-    {
-      "added_at": "2025-03-26 04:47:41",
-      "album": {
         "name": "Take-off",
         "url": "https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2025-03-26 04:47:41",
       "album": {
-        "name": "IVE EMPATHY",
-        "url": "https://open.spotify.com/album/0YaLbDxHTeZLT3CpDunKuT"
+        "name": "Fighting!",
+        "url": "https://open.spotify.com/album/2BEu1ulaGHvhNYmOcurP80"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "eldon",
+          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
         }
       ],
-      "duration_ms": 174506,
-      "name": "You Wanna Cry",
-      "url": "https://open.spotify.com/track/4RcSeV4CLmk6j0kMR0QuL4"
+      "duration_ms": 185986,
+      "name": "Fighting!",
+      "url": "https://open.spotify.com/track/5F2Nrnc779a0ZADDG7v7u7"
     },
     {
       "added_at": "2025-03-26 04:47:41",
@@ -691,18 +675,18 @@
     {
       "added_at": "2025-03-26 04:47:41",
       "album": {
-        "name": "wish you all to be happy",
-        "url": "https://open.spotify.com/album/4Z2heFJ5SRDyIyMJlK6TDm"
+        "name": "IVE EMPATHY",
+        "url": "https://open.spotify.com/album/0YaLbDxHTeZLT3CpDunKuT"
       },
       "artists": [
         {
-          "name": "Han All",
-          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 232588,
-      "name": "wish you all to be happy",
-      "url": "https://open.spotify.com/track/3vHAC5HrdyefPr5biodJGQ"
+      "duration_ms": 174506,
+      "name": "You Wanna Cry",
+      "url": "https://open.spotify.com/track/4RcSeV4CLmk6j0kMR0QuL4"
     },
     {
       "added_at": "2025-03-26 04:47:41",
@@ -723,6 +707,22 @@
       "duration_ms": 193986,
       "name": "Workaholic (feat. ASH ISLAND)",
       "url": "https://open.spotify.com/track/5arR24jdVitzSURvv5hwIq"
+    },
+    {
+      "added_at": "2025-03-26 04:47:41",
+      "album": {
+        "name": "wish you all to be happy",
+        "url": "https://open.spotify.com/album/4Z2heFJ5SRDyIyMJlK6TDm"
+      },
+      "artists": [
+        {
+          "name": "Han All",
+          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
+        }
+      ],
+      "duration_ms": 232588,
+      "name": "wish you all to be happy",
+      "url": "https://open.spotify.com/track/3vHAC5HrdyefPr5biodJGQ"
     },
     {
       "added_at": "2025-03-26 04:47:41",

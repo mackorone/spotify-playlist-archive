@@ -1,12 +1,12 @@
 {
   "description": "This is Juice WRLD. The essential tracks, all in one playlist.",
-  "num_followers": 1638194,
+  "num_followers": 1638306,
   "original_name": "This Is Juice WRLD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+x+AAAAAAB6q/UGFLdrqIvz3mbyf8VP",
+  "snapshot_id": "Z+3PgAAAAABFAMeJFST+mb5pXZ6OyTZ0",
   "tracks": [
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fighting Demons (Deluxe)",
+        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 228193,
+      "name": "Rich And Blind",
+      "url": "https://open.spotify.com/track/4UoDSs5VAw6xHdzbkjocTM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Love Letter To You 3",
         "url": "https://open.spotify.com/album/1fFwMXuTJ8J3KXo14Vvsna"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 175954,
       "name": "1400 / 999 Freestyle (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/0axBgt9y0GvMCLuRl2xBKG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fighting Demons (Deluxe)",
-        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 228193,
-      "name": "Rich And Blind",
-      "url": "https://open.spotify.com/track/4UoDSs5VAw6xHdzbkjocTM"
     },
     {
       "added_at": null,

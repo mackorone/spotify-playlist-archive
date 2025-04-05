@@ -1,12 +1,12 @@
 {
   "description": "Push play on the coolest playlist around, and get ready to jump around. Cover: Gracie's Corner",
-  "num_followers": 94708,
+  "num_followers": 94812,
   "original_name": "Hip-Hop & R&B for Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z92NnQAAAACGTWtzc665BhX5WCXsmvk4",
+  "snapshot_id": "Z+9ZVAAAAAAMuAA62vlxCGX81XW1OhSX",
   "tracks": [
     {
       "added_at": "2025-03-14 04:00:08",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/5iXtge2WOKEFkZz90Z4sv8"
     },
     {
+      "added_at": "2025-04-04 04:00:20",
+      "album": {
+        "name": "Days of the Week",
+        "url": "https://open.spotify.com/album/18TXZEP5uT2ju2ZLstA7Io"
+      },
+      "artists": [
+        {
+          "name": "Sumo's World",
+          "url": "https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq"
+        }
+      ],
+      "duration_ms": 136418,
+      "name": "Days of the Week",
+      "url": "https://open.spotify.com/track/3K3QA4idrZ70awKYlXPTcN"
+    },
+    {
       "added_at": "2025-03-07 05:00:23",
       "album": {
         "name": "Make Learning Fun Again",
@@ -41,20 +57,24 @@
       "url": "https://open.spotify.com/track/2oE2ftQm75FFiJjCXAtOaB"
     },
     {
-      "added_at": "2025-03-21 16:02:37",
+      "added_at": "2025-04-04 04:00:20",
       "album": {
-        "name": "Count It Up",
-        "url": "https://open.spotify.com/album/6sUlpfBLQVil0rG7K7FiNu"
+        "name": "Fisher-Price Record Player - Hip Hop",
+        "url": "https://open.spotify.com/album/4uvBSaRjYIsXXli1vvWZrq"
       },
       "artists": [
         {
-          "name": "Sumo's World",
-          "url": "https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq"
+          "name": "Fisher-Price",
+          "url": "https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
         }
       ],
-      "duration_ms": 99259,
-      "name": "Count It Up",
-      "url": "https://open.spotify.com/track/2O53OjFGz44CRoQcVHedhW"
+      "duration_ms": 65431,
+      "name": "Nursery Rhyme Rap",
+      "url": "https://open.spotify.com/track/0iDfIHCS8JUWqN9UvrZnAx"
     },
     {
       "added_at": "2025-01-10 05:00:16",

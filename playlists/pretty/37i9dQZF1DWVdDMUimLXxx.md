@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 
 > Add dramatic flair to your strategy game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,424 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,459 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 | 37 | [Afterlight](https://open.spotify.com/track/2wklH1fCEBMwHyNvKHDLOW) | [Eternal Eclipse](https://open.spotify.com/artist/2mudOp0EB2SFnG0mVazTJs) | [Forgotten Odes](https://open.spotify.com/album/3KT3DRHJdpEZD5OxSK7hj0) | 2:17 |
 | 38 | [Wayfinders](https://open.spotify.com/track/6rEF3F1fu6SPyEbzRGxUKr) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Nocturne](https://open.spotify.com/album/0r8EWo5tLMJoOLNhystGx1) | 2:51 |
 | 39 | [Holy \- String Ensemble](https://open.spotify.com/track/2635mg4Ef7isjdHXXkEcAy) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Holy & Mad At Disney \(String Ensemble\)](https://open.spotify.com/album/42yDUWgIoDifBUDAm7zhsi) | 2:49 |
-| 40 | [Hunger, Thirst](https://open.spotify.com/track/2CH3Ub29VJrqNgg0v2fx0D) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Road To Meteora](https://open.spotify.com/album/3PLSbFdaSc9nHiZsdutrAz) | 2:13 |
+| 40 | [Hunger, Thirst](https://open.spotify.com/track/2CH3Ub29VJrqNgg0v2fx0D) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Road to Meteora](https://open.spotify.com/album/3PLSbFdaSc9nHiZsdutrAz) | 2:13 |
 | 41 | [Progressive Progress](https://open.spotify.com/track/6Marmee2WT50icMbZP31EU) | [Howard Harper\-Barnes](https://open.spotify.com/artist/447ceX8wMVdX94yevKZFDe) | [The Light from Within](https://open.spotify.com/album/5DeBurv4zuboaQM1uqDgYK) | 2:30 |
 | 42 | [Serenade](https://open.spotify.com/track/1CGkaRvGtOqNnRG88VYKdV) | [Eunike Tanzil](https://open.spotify.com/artist/78XsqB0fsyDU7wR2w4zVuA), [Ray Chen](https://open.spotify.com/artist/5Cy6BjgpzVTTP4FURizqmQ), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Cristian Măcelaru](https://open.spotify.com/artist/0l1E8XgBTh3P4thHZDzFHr) | [Player 1](https://open.spotify.com/album/4wdjgUrGbKbMOCx7SkPdgl) | 3:32 |
 | 43 | [Extraction](https://open.spotify.com/track/6HAIDtMu0I64I9bpZE7OAR) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Progression](https://open.spotify.com/album/1Yh8bvBQq4LgnUP0zakwBa) | 2:57 |

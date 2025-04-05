@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "A curated space for the avant-garde. Cover: Backxwash",
+  "description": "A curated space for the avant-garde. Cover: 2hollis",
   "name": "Proto-",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 95454,
       "name": "$101.17",
       "url": "https://open.spotify.com/track/110CKFcZyyPLrJ4dYOLvwM"
@@ -248,7 +248,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 160090,
       "name": "2011 Caravan",
       "url": "https://open.spotify.com/track/2CjpfsZf02l6deAF2Bgbo3"
@@ -5874,7 +5874,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 148097,
       "name": "CORLEONE",
       "url": "https://open.spotify.com/track/5VrKDJsD0VhIfjZxCEUXOI"
@@ -6790,7 +6790,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 139259,
       "name": "DEATH ROLL",
       "url": "https://open.spotify.com/track/4p3sIGdKAgRqrTvu3IpGnl"
@@ -10820,7 +10820,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 140653,
       "name": "Give Me Luv",
       "url": "https://open.spotify.com/track/5pzhHXU7365ByottrJtOZ7"
@@ -14228,7 +14228,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 160369,
       "name": "IS MY MIC ON?",
       "url": "https://open.spotify.com/track/1cNXgfdJXQ94n8rs860x5r"
@@ -15112,6 +15112,28 @@
       "duration_ms": 156800,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/4dFQjuEsCVlA59LB3diItC"
+    },
+    {
+      "album": {
+        "name": "Last Night I Dreamt I Was Alone (Loukeman Remix)",
+        "url": "https://open.spotify.com/album/7KuyLUWqXzLvxWYxzXYuh9"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        },
+        {
+          "name": "Loukeman",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165475,
+      "name": "Last Night I Dreamt I Was Alone - Loukeman Remix",
+      "url": "https://open.spotify.com/track/3RcnrSLr8adMwaoAjirO5d"
     },
     {
       "album": {
@@ -17875,6 +17897,24 @@
     },
     {
       "album": {
+        "name": "Two Lives",
+        "url": "https://open.spotify.com/album/2iRVSj9OgvwzDVPGoYoG2U"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201942,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/7AnKq274KBoXdauPkKqKBk"
+    },
+    {
+      "album": {
         "name": "Close To Home",
         "url": "https://open.spotify.com/album/4ZBwKt9Zp3MF9iqqa9Z01R"
       },
@@ -18368,6 +18408,24 @@
       "duration_ms": 253788,
       "name": "NHFN",
       "url": "https://open.spotify.com/track/2ktmOeCr1RVJaZ6a6LN9mq"
+    },
+    {
+      "album": {
+        "name": "star",
+        "url": "https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142493,
+      "name": "nice",
+      "url": "https://open.spotify.com/track/5QD9PUqyVz8syPaZL4HAbB"
     },
     {
       "album": {
@@ -21103,6 +21161,24 @@
     },
     {
       "album": {
+        "name": "Ch\u00e8lb\u00e8",
+        "url": "https://open.spotify.com/album/4vKup5g5YoD5blHlYdvy5p"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151111,
+      "name": "PROLLY US",
+      "url": "https://open.spotify.com/track/0MrC4TPiI18N38Ga7Cl4qO"
+    },
+    {
+      "album": {
         "name": "Small Songs, Vol.1",
         "url": "https://open.spotify.com/album/3Lnoqo011bimuBXxjBSuh7"
       },
@@ -21136,6 +21212,28 @@
       "duration_ms": 130856,
       "name": "Ps and Qs",
       "url": "https://open.spotify.com/track/49c3ghupXboG64IVbVuIp2"
+    },
+    {
+      "album": {
+        "name": "Revengeseekerz",
+        "url": "https://open.spotify.com/album/21b4cDNse2AMpj94ykfuON"
+      },
+      "artists": [
+        {
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244844,
+      "name": "Psychoboost feat danny brown",
+      "url": "https://open.spotify.com/track/7BMSBNctr9IPelr6MFvuRL"
     },
     {
       "album": {
@@ -22306,7 +22404,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 156839,
       "name": "RUFF RIDE",
       "url": "https://open.spotify.com/track/0yxOhm9EgkEDjAbXLyoObO"
@@ -22794,6 +22892,24 @@
       "duration_ms": 175603,
       "name": "secondguess",
       "url": "https://open.spotify.com/track/29Imzv96MvmWE2iAxejskH"
+    },
+    {
+      "album": {
+        "name": "A Weird Little Dog",
+        "url": "https://open.spotify.com/album/12tCBGPy2ERJG66f86PiTh"
+      },
+      "artists": [
+        {
+          "name": "Magi Merlin",
+          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183696,
+      "name": "see!igetit",
+      "url": "https://open.spotify.com/track/2s7sos3ED9hbqUvGPVvVIK"
     },
     {
       "album": {
@@ -25540,6 +25656,24 @@
       "duration_ms": 221477,
       "name": "Sway (The Places She Goes)",
       "url": "https://open.spotify.com/track/01MAfM7gDbLITfH5hzNRnV"
+    },
+    {
+      "album": {
+        "name": "Sweet Danger",
+        "url": "https://open.spotify.com/album/6pIdfb0OaCvfzN6QxKOJQ2"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160855,
+      "name": "Sweet Danger",
+      "url": "https://open.spotify.com/track/1IPRwv7FqZvdaawA2YWCcQ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Dance to your favorite electronic hits \ud83e\udea9 2025 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \ud83d\udd7a Cover: Calvin Harris",
+  "description": "Dance to your favorite electronic hits \ud83e\udea9 2025 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \ud83d\udd7a Cover: Rudimental &amp; Khalid",
   "name": "Dance For Days \ud83e\udea9\ud83d\udd7a 2025 EDM",
   "tracks": [
     {
@@ -394,6 +394,28 @@
       "duration_ms": 172800,
       "name": "All I Ever",
       "url": "https://open.spotify.com/track/5g5ImAyBj1AZpRFspFIJWt"
+    },
+    {
+      "album": {
+        "name": "All I Know",
+        "url": "https://open.spotify.com/album/1TNPKEmo5TSj8NpXpDgMsf"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176046,
+      "name": "All I Know",
+      "url": "https://open.spotify.com/track/2rgWhlzASxN4MKk7c3RAGP"
     },
     {
       "album": {
@@ -1860,7 +1882,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 181879,
       "name": "Chasing Stars",
       "url": "https://open.spotify.com/track/2TPKYco5XrOaU3f9sze58C"
@@ -4484,7 +4506,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 170000,
       "name": "Good For You",
       "url": "https://open.spotify.com/track/5pn9ofs8pPX6bFZO3Dzg6i"
@@ -4612,6 +4634,28 @@
       "duration_ms": 181071,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/6G4qp5Bay91TfPNcbOt96a"
+    },
+    {
+      "album": {
+        "name": "Groove On",
+        "url": "https://open.spotify.com/album/3gcuJIU2Tw2SrMkjCgzqWZ"
+      },
+      "artists": [
+        {
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        },
+        {
+          "name": "Avangart Tabldot",
+          "url": "https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209920,
+      "name": "Groove On",
+      "url": "https://open.spotify.com/track/0iCRScqAaVd4VZlXpJLtHH"
     },
     {
       "album": {
@@ -10641,6 +10685,28 @@
     },
     {
       "album": {
+        "name": "Slip & Slide",
+        "url": "https://open.spotify.com/album/6JFPl54dXCJWWfuRgCfoL6"
+      },
+      "artists": [
+        {
+          "name": "Alex Chapman",
+          "url": "https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh"
+        },
+        {
+          "name": "Tommy Genesis",
+          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146326,
+      "name": "Slip & Slide",
+      "url": "https://open.spotify.com/track/60Inxb7R2S4RyzQg31IsCq"
+    },
+    {
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/2JuSoLnQXNXbVdOODSZQ88"
       },
@@ -12071,6 +12137,32 @@
     },
     {
       "album": {
+        "name": "Thong Song (with Sisqo)",
+        "url": "https://open.spotify.com/album/7qZbztobMbghX2XWHbmppu"
+      },
+      "artists": [
+        {
+          "name": "Joezi",
+          "url": "https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B"
+        },
+        {
+          "name": "ADAME (US)",
+          "url": "https://open.spotify.com/artist/5ciK0pfast3uHtwtQgk7gW"
+        },
+        {
+          "name": "Sisqo",
+          "url": "https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197073,
+      "name": "Thong Song (with Sisqo)",
+      "url": "https://open.spotify.com/track/3TPBlHxV9hPKRQIpcqia79"
+    },
+    {
+      "album": {
         "name": "Tighten Up",
         "url": "https://open.spotify.com/album/7B0HytuKozCrtOQ9PxSTsp"
       },
@@ -12082,7 +12174,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 173296,
       "name": "Tighten Up",
       "url": "https://open.spotify.com/track/1k8tGEqjmXqjkYW9sMTd8V"
@@ -12714,7 +12806,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 229024,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/6b57FDNY52AlFJa81vTijE"

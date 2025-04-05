@@ -1216,7 +1216,7 @@
           "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
         },
         {
-          "name": "Xande De Pilares",
+          "name": "Xande de Pilares",
           "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
         }
       ],
@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 161250,
       "name": "Lua Nova",
       "url": "https://open.spotify.com/track/7gob58REjZ8OLz3sXwYKg4"
@@ -1514,6 +1514,24 @@
       "duration_ms": 127846,
       "name": "Lugar Secreto",
       "url": "https://open.spotify.com/track/001B5pHMglvqiOuAVtssA7"
+    },
+    {
+      "album": {
+        "name": "Magn\u00e9tica",
+        "url": "https://open.spotify.com/album/45ErtgmcN4q2MfwQV17dxI"
+      },
+      "artists": [
+        {
+          "name": "BRAZA",
+          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196056,
+      "name": "Magn\u00e9tica",
+      "url": "https://open.spotify.com/track/558rUxNte2dOz2OXZDT5KX"
     },
     {
       "album": {
@@ -1949,6 +1967,32 @@
     },
     {
       "album": {
+        "name": "Pra Beber e Amar",
+        "url": "https://open.spotify.com/album/5LfVXJXf0W8GhIVPftzlHP"
+      },
+      "artists": [
+        {
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "DG e Batid\u00e3o Stronda",
+          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151606,
+      "name": "O Caf\u00e9 Num Esfriou",
+      "url": "https://open.spotify.com/track/09uq2ndGRRGYUTWbzhfDyL"
+    },
+    {
+      "album": {
         "name": "Oceana",
         "url": "https://open.spotify.com/album/0Keuh6VaVM7GNPET0kkSnN"
       },
@@ -2222,7 +2266,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 160238,
       "name": "Samba",
       "url": "https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3"

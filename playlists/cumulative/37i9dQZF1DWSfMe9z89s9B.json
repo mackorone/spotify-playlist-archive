@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Leaders of the new school...Alternative R&B. Cover: Q",
+  "description": "Leaders of the new school...Alternative R&B. Cover: Casper Sage",
   "name": "Vanguard",
   "tracks": [
     {
@@ -2898,7 +2898,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 175746,
       "name": "birds, bees",
       "url": "https://open.spotify.com/track/7fIHFXaxaFZ9TLxdZeYIRD"
@@ -14392,7 +14392,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 135511,
       "name": "Maddie",
       "url": "https://open.spotify.com/track/3EMS7KLO9UhMtTPxYGYdmE"
@@ -18197,6 +18197,24 @@
     },
     {
       "album": {
+        "name": "10 songs",
+        "url": "https://open.spotify.com/album/6kBVXxCYWSiuGEboOMYOl8"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184888,
+      "name": "pretty woman",
+      "url": "https://open.spotify.com/track/1VzA9gORCjLO0MIy9xFzOO"
+    },
+    {
+      "album": {
         "name": "Primal Design",
         "url": "https://open.spotify.com/album/1BbC0yD5Cu1CtivfdILB3w"
       },
@@ -19030,7 +19048,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 191008,
       "name": "Right Back",
       "url": "https://open.spotify.com/track/5fh8JWHGfuJzGGjCm9uojM"
@@ -19118,6 +19136,28 @@
       "duration_ms": 159563,
       "name": "RISEN",
       "url": "https://open.spotify.com/track/34OImRuWIDWmXazkQsUY2y"
+    },
+    {
+      "album": {
+        "name": "SAGEhaven",
+        "url": "https://open.spotify.com/album/2N31RbPWaokWd8MTehI7Wn"
+      },
+      "artists": [
+        {
+          "name": "Casper Sage",
+          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
+        },
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176572,
+      "name": "Roadrunner (feat. midwxst)",
+      "url": "https://open.spotify.com/track/2wuYcWEYGxnGWNisxljB1Y"
     },
     {
       "album": {
@@ -23298,6 +23338,28 @@
       "duration_ms": 280603,
       "name": "The Greatest Smile",
       "url": "https://open.spotify.com/track/2IpRdVSZln1OqYEyajRccA"
+    },
+    {
+      "album": {
+        "name": "THE LAST TIME",
+        "url": "https://open.spotify.com/album/0GyFu1r5ctSDKHwvkF6Coy"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194823,
+      "name": "THE LAST TIME",
+      "url": "https://open.spotify.com/track/4zkH2YuWOZlXgzOH17TvKs"
     },
     {
       "album": {

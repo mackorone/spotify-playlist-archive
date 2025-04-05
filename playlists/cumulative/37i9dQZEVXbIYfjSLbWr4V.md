@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-554 songs - 1 day 1 hr 2 min
+555 songs - 1 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [HOW ARE U](https://open.spotify.com/track/4Ypw4Et7oz04ZL9Reizi9u) | [Pepel Nahudi](https://open.spotify.com/artist/4AM93R2m6QIKGPWH6QILF3), [xxxmanera](https://open.spotify.com/artist/0hAEtx2GQLtMTJj8qycHRr) | [HOW ARE U](https://open.spotify.com/album/5Ba3n0vGf3XDDVZh4UIE0h) | 2:16 | 2024-02-17 | 2024-02-20 |
 | [HURTZ](https://open.spotify.com/track/2WWlNStuw5Tqg5noCtR7oq) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [HOTSHOT](https://open.spotify.com/album/2Tt5k4YZ6gkYtjJeLBHGkG) | 1:44 | 2024-01-29 | 2024-08-04 |
 | [HUYOMAYO](https://open.spotify.com/track/5ipqcv3jd2qGyVSd6HGgZF) | [Pepel Nahudi](https://open.spotify.com/artist/4AM93R2m6QIKGPWH6QILF3) | [AUTUMN BLUES](https://open.spotify.com/album/7bgWTSb6HaVZARwU8qqdJG) | 1:53 | 2024-10-19 | 2024-10-21 |
+| [I AM THE CHARTS](https://open.spotify.com/track/1sX0mdbCbg1vclxqALjejV) | [chartsprivate](https://open.spotify.com/artist/4UhBYGrAGgUOIflB3yrYP1) | [I AM THE CHARTS](https://open.spotify.com/album/6hpkmQcKCqnULaivBlzw5V) | 2:50 | 2025-04-04 |  |
 | [I Believe In You](https://open.spotify.com/track/2AoDB8SsxTyCYOmGcUBDwQ) | [Xenia](https://open.spotify.com/artist/4c13QPiKh4XE8FNqXr28FU) | [Happy Vibes](https://open.spotify.com/album/2c9ewhIfXYZCEPKmGeMvdu) | 3:07 | 2024-07-12 | 2024-12-10 |
 | [I Believe In You](https://open.spotify.com/track/3Af5F6bqnFBLptWHbuJbJV) | [Xenia](https://open.spotify.com/artist/4c13QPiKh4XE8FNqXr28FU) | [Happy Vibes XENIA](https://open.spotify.com/album/6MY0wuDDbzzqzAtpXafE5u) | 3:07 | 2024-04-22 | 2024-04-24 |
 | [I GOT U](https://open.spotify.com/track/39uQdNywrxrH1ZjfOFc72n) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [I GOT U](https://open.spotify.com/album/4zo7PO4aB50EFFZqerSER4) | 2:43 | 2024-06-08 | 2024-11-13 |
@@ -223,7 +224,7 @@
 | [SLAY!](https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [SLAY!](https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx) | 1:47 | 2024-04-16 | 2024-05-28 |
 | [Slim Shady](https://open.spotify.com/track/0S7Ay4p0i77taw0tYZILsc) | [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R), [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo) | [Slim Shady](https://open.spotify.com/album/5xbb7ccSPda5YWU5IEOD2B) | 2:31 | 2025-03-22 | 2025-03-24 |
 | [Slow Dance \(feat\. Sofia Carson\)](https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:08 | 2024-07-20 |  |
-| [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2024-01-29 |  |
+| [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2024-01-29 | 2025-04-05 |
 | [Slow Dancing \(Piano Ver.\)](https://open.spotify.com/track/7pgbDdy7ax962o9d2xJceV) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:08 | 2024-05-15 | 2024-05-24 |
 | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/track/1agDCV4zQqaFwJQNsTgmL1) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:02 | 2025-01-10 | 2025-02-15 |
 | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/album/2PcM535knJOZb6MUth8axj) | 3:02 | 2024-06-29 | 2024-07-20 |
@@ -350,7 +351,7 @@
 | [Завидуют](https://open.spotify.com/track/3PBY7potBfbBcruV1svC2g) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Платина](https://open.spotify.com/album/7knOFjfoZgvKFymD31Y7jN) | 2:25 | 2024-04-06 | 2024-05-07 |
 | [Завтра](https://open.spotify.com/track/48iccIVYgczDpbNdATne4j) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb), [Basta](https://open.spotify.com/artist/7as5DY4Rz9jac9tgoTrj9H) | [Меньше чем три](https://open.spotify.com/album/4Tmr1Q9NKJ6EIhgP2beV8k) | 3:17 | 2024-11-23 | 2024-12-02 |
 | [Заколдовала](https://open.spotify.com/track/3unK3xlVtlUiLRprPm9gqD) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ), [Диана Астер](https://open.spotify.com/artist/3bhckIo2mOubGHkvhxNBGT) | [Заколдовала](https://open.spotify.com/album/2YBxUQ4PUic6gnMefzWoMO) | 2:18 | 2025-02-01 | 2025-02-03 |
-| [Замигает свет](https://open.spotify.com/track/3I9YWeC9pFZDI2wsvkXfor) | [KENTUKKI](https://open.spotify.com/artist/6ZABFsOXu6JmKCmmV0yauD) | [Замигает свет](https://open.spotify.com/album/17zd39Vwvbx4gZRpmwvgaQ) | 3:53 | 2025-01-22 | 2025-03-16 |
+| [Замигает свет](https://open.spotify.com/track/3I9YWeC9pFZDI2wsvkXfor) | [KENTUKKI](https://open.spotify.com/artist/6ZABFsOXu6JmKCmmV0yauD) | [Замигает свет](https://open.spotify.com/album/17zd39Vwvbx4gZRpmwvgaQ) | 3:53 | 2025-01-22 |  |
 | [Заново](https://open.spotify.com/track/2CgaV8P0xBKABylaWcjkZy) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Молитвы\. Анекдоты\. Тосты.](https://open.spotify.com/album/1eE8tgJvckpa4qYLp2L9ox) | 2:46 | 2024-05-27 | 2024-06-02 |
 | [запретить](https://open.spotify.com/track/5VMcfQhuB2irnbuSDlaxpS) | [SLAVA MARLOW](https://open.spotify.com/artist/55jryyk7RhvMbrvoF0ndBh) | [запретить](https://open.spotify.com/album/2KsakqU4JrFItqZbRP1UuR) | 2:53 | 2024-02-03 | 2024-02-15 |
 | [ЗАХОТЕЛ](https://open.spotify.com/track/6XTvawaDFxvOUScj6E4KLr) | [НАВЕРНОЕ ПОЭТ](https://open.spotify.com/artist/2UFiYCu1iFIsSqMXlDRzop), [ЯКОРЪ](https://open.spotify.com/artist/3dB8xZiDMYl2yYucKs9QOt), [EVEN CUTE](https://open.spotify.com/artist/5X5ed1yf6Mj5c1qH4UdKG0) | [СДЕЛАНО В РОССИИ!](https://open.spotify.com/album/4axbg5ljK6uBRLchAwQvpq) | 1:39 | 2024-05-07 | 2024-07-20 |
@@ -544,7 +545,7 @@
 | [цена](https://open.spotify.com/track/0mXuEBzTaqYmzIovJhx20u) | [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt), [паранойя](https://open.spotify.com/artist/6xcOPl8sgatUgeDsUE9QQb) | [sexyswag](https://open.spotify.com/album/40FhIwRsb0iaAUEinayobc) | 2:18 | 2025-03-31 |  |
 | [Час](https://open.spotify.com/track/4mVDYu5SYxeKK9BhEnlstT) | [Vivienne Mort](https://open.spotify.com/artist/6mQd5HeHhMBZK8u2bTCduH) | [Досвід](https://open.spotify.com/album/44prQVO4fIoqf2qQYy0Eyq) | 3:20 | 2024-05-13 | 2024-05-27 |
 | [Четверг 4\-го](https://open.spotify.com/track/1lCUPsBvSzcPvNgyrl5qUJ) | [Pika](https://open.spotify.com/artist/4QwXKmGPo7GsU3N8LJykki) | [Kilativ](https://open.spotify.com/album/3I0WJ2r0FNYbwXnRXqRmow) | 3:02 | 2025-02-22 |  |
-| [Четыре тридцать](https://open.spotify.com/track/4GBfKfnvmcTcNrlJcV4OLV) | [Violetta Sokolova](https://open.spotify.com/artist/7K2PBAFUE98RKu30clhIms) | [Четыре тридцать](https://open.spotify.com/album/6EspHfqFwGFqqUTLDXJLs1) | 2:13 | 2024-03-27 |  |
+| [Четыре тридцать](https://open.spotify.com/track/4GBfKfnvmcTcNrlJcV4OLV) | [Violetta Sokolova](https://open.spotify.com/artist/7K2PBAFUE98RKu30clhIms) | [Четыре тридцать](https://open.spotify.com/album/6EspHfqFwGFqqUTLDXJLs1) | 2:13 | 2024-03-27 | 2025-04-05 |
 | [Чио\-Чио\-сан](https://open.spotify.com/track/5eRiD1X9qiWRnL9QQAtq2V) | [Car\-Man](https://open.spotify.com/artist/1m5PTRE24aukZ7h4y5ebGF) | [Вокруг света](https://open.spotify.com/album/1cAWbHu8Cr5ovfa4IinouC) | 4:58 | 2024-09-16 | 2024-10-03 |
 | [ЧСВ](https://open.spotify.com/track/05wSx129HwVCEpXpjAXn6X) | [Lida](https://open.spotify.com/artist/0ChMIwzbYxHbebgoPeETfV), [СЕРЕГА ПИРАТ](https://open.spotify.com/artist/5IS4dQ9lDW01IY1buR7bW7) | [ЧСВ](https://open.spotify.com/album/7thnTMZ6YHfUgaARJIl0eG) | 3:20 | 2024-02-03 | 2024-09-15 |
 | [ЧСВ](https://open.spotify.com/track/76CHKMe1uNd7IgZeCZufhs) | [Lida](https://open.spotify.com/artist/0ChMIwzbYxHbebgoPeETfV), [СЕРЕГА ПИРАТ](https://open.spotify.com/artist/5IS4dQ9lDW01IY1buR7bW7) | [ЧСВ](https://open.spotify.com/album/2ovhIwGFtFVmw50hOT10N8) | 3:20 | 2024-09-15 | 2025-03-04 |

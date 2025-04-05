@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Blaiz Fayah
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,021 likes - 40 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,159 likes - 40 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 10 | [Same Process \- Inspiré du film "Zion"](https://open.spotify.com/track/2NSLrInvjBu9LH9qQzpd7L) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [B.mad](https://open.spotify.com/artist/5rzmG6OxYGiKvoVC3fxVaQ) | [Same Process \(Inspiré du film "Zion"\)](https://open.spotify.com/album/54eEhTwifxlSOK3YUPrYkI) | 2:00 |
 | 11 | [Pété Tchouw](https://open.spotify.com/track/3NFdsbXTff5giZ7qERfDMJ) | [Le Jèm'ss](https://open.spotify.com/artist/4jHxx44qWURhTlbw0Dmygp), [Jona](https://open.spotify.com/artist/6Etg7be4vw7iSzHvIllAqM), [JDS](https://open.spotify.com/artist/3VtI22hhGVC6TzcDyAbjWm) | [Pété Tchouw](https://open.spotify.com/album/2lR0UG5bWJveoHGsYbYSom) | 1:53 |
 | 12 | [Champions League](https://open.spotify.com/track/30e8Ji7u4fAFT8XtW2Kiu9) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf) | [Champions League](https://open.spotify.com/album/0GJlMARczaI0QeQAshY5EN) | 2:26 |
-| 13 | [Shake It To The Max \(FLY\) \- Kalash & Maureen Remix](https://open.spotify.com/track/6J9aDPnmDkiPAxWhwLV8Zr) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt) | [Shake It To The Max \(FLY\) \(Kalash & Maureen Remix\)](https://open.spotify.com/album/6bwAGOb3zI1RJBBd9e0Vle) | 3:01 |
+| 13 | [Shake It To The Max \(FLY\) \- Kalash & Maureen Remix](https://open.spotify.com/track/6J9aDPnmDkiPAxWhwLV8Zr) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Shake It To The Max \(FLY\) \(Kalash & Maureen Remix\)](https://open.spotify.com/album/6bwAGOb3zI1RJBBd9e0Vle) | 3:01 |
 | 14 | [Patate](https://open.spotify.com/track/39MeqqlNI3POr8nC2fsZQ9) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [BlackBoy](https://open.spotify.com/artist/390GislU2lqdtKcuFMIvjK) | [Patate](https://open.spotify.com/album/5L0RlwD3q6S06NnxaBXbpx) | 2:25 |
 | 15 | [LA PLI SI TOL \- Shatta Remix](https://open.spotify.com/track/2IVDn8kDkwfWliwB3PYZb4) | [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [LA PLI SI TOL \(Shatta Remix\)](https://open.spotify.com/album/3rpPwBBQmWsTsVIBQDJZGV) | 2:03 |
 | 16 | [Ba Ba Bad](https://open.spotify.com/track/4jW4qcZrYF0uy0WwGi9Fwt) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Ba Ba Bad](https://open.spotify.com/album/6M8IIwUeP50mLIM55s5yXK) | 2:24 |

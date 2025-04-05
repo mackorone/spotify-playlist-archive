@@ -4,7 +4,7 @@
 
 > Le rap francophone est en forme\. Photo: High Klassified
 
-228 songs - 11 hr 42 min
+229 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [DEMBÉLÉ](https://open.spotify.com/track/7znhCvyqxCEUPFutuLM6jR) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [DZ D’AMERIQUE](https://open.spotify.com/album/6AYsObXMfjrgj5qaH4zLRA) | 3:17 | 2024-05-03 | 2024-07-13 |
 | [Diablo](https://open.spotify.com/track/4uUHWmCZYw49Ssd7de6Wwq) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Tronel](https://open.spotify.com/artist/6n7VICMu1PgML7oEbDLmWu) | [Non conventionnel](https://open.spotify.com/album/6TDvloGavY7sFzhm78Al2l) | 3:30 | 2023-08-25 | 2023-09-09 |
 | [DIE](https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 4:00 | 2023-03-03 | 2023-12-09 |
+| [DIEU MERCI](https://open.spotify.com/track/3BgCXkXF6K6pwi9RZrzPDp) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [PANDEMONIUM](https://open.spotify.com/album/5HATOAKIjRUr7vpZTF91YM) | 4:20 | 2025-04-04 |  |
 | [DIS\-MOI \(feat\. SDM\)](https://open.spotify.com/track/72EzFi8h1H2MImmS2ZoSTr) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [AMBITION](https://open.spotify.com/album/48JSJ6nOB4SegSt9Gs2cZY) | 2:55 | 2023-11-24 | 2024-04-19 |
 | [Dolce Camara](https://open.spotify.com/track/15vGti1ooNZFlDUdlLukX6) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [AD VITAM ÆTERNAM](https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM) | 2:58 | 2024-07-12 |  |
 | [DOUBLE F](https://open.spotify.com/track/15mTyJg97PpR5GS6MOvVyw) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc), [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [LA VIE RAPIDE](https://open.spotify.com/album/1vchjZ82BzXq4eoFZNuFjI) | 2:23 | 2024-06-21 |  |
@@ -182,7 +183,7 @@
 | [PROBATION](https://open.spotify.com/track/0Qv6p0oRQqNZpQMqXcaI8F) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [PROBATION](https://open.spotify.com/album/3vAsdkeQPgpdv8eibAAmVZ) | 3:39 | 2024-11-15 | 2025-01-11 |
 | [Protéger et Servir](https://open.spotify.com/track/3CsD5Pl7fVItNzxuQ5rwYm) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Protéger et Servir](https://open.spotify.com/album/4J4K8pPTI4ruWL5wAhJv8e) | 3:23 | 2024-04-19 | 2024-07-13 |
 | [Pyramide](https://open.spotify.com/track/0y79GClHejq2TTQLaYFLUT) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Pyramide](https://open.spotify.com/album/2IO8Jize9ml8Gpj4HoJFaF) | 3:28 | 2024-03-01 | 2024-06-29 |
-| [Péroxyde](https://open.spotify.com/track/0JIJMuV5B8ZFIYRfiMgD9l) | [Trappo officiel](https://open.spotify.com/artist/2qAQAxmoafsvNVp31ROnaE) | [Péroxyde](https://open.spotify.com/album/60KbxzUMRvskEhapoRaEhF) | 2:51 | 2024-03-22 |  |
+| [Péroxyde](https://open.spotify.com/track/0JIJMuV5B8ZFIYRfiMgD9l) | [Trappo officiel](https://open.spotify.com/artist/2qAQAxmoafsvNVp31ROnaE) | [Péroxyde](https://open.spotify.com/album/60KbxzUMRvskEhapoRaEhF) | 2:51 | 2024-03-22 | 2025-04-05 |
 | [Qatari](https://open.spotify.com/track/3PWHqGQuaqrVomxbkOzaBo) | [Zinera](https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn) | [Qatari](https://open.spotify.com/album/5oi3ALMyUrNN30w15GGrAB) | 3:02 | 2024-08-02 | 2024-08-28 |
 | [Quali](https://open.spotify.com/track/1FiWe3fM6toG3XapfJpJBY) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Quali](https://open.spotify.com/album/0Lq1A7KSLELxh6vJXHKihF) | 3:01 | 2023-07-28 | 2024-01-20 |
 | [Quand tout s'enflamme](https://open.spotify.com/track/04M7hgJo8KgONKo4OL91jz) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Années Sauvages](https://open.spotify.com/album/3zsnpMh0K6pM1Rbo7btDtN) | 2:50 | 2023-03-03 | 2023-06-24 |

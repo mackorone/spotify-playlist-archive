@@ -466,10 +466,6 @@
           "url": "https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF"
         },
         {
-          "name": "Mar\u00eda Fernanda Rivera",
-          "url": "https://open.spotify.com/artist/5R3cXcDrqWiBPRX9ouKmkz"
-        },
-        {
           "name": "Pascuala Ilabaca",
           "url": "https://open.spotify.com/artist/34BMaYA9uw88I9Hyme5MDn"
         },
@@ -492,11 +488,15 @@
         {
           "name": "Pascuala Ilabaca y Fauna",
           "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        },
+        {
+          "name": "Mar\u00edafer Rivera",
+          "url": "https://open.spotify.com/artist/28obedFQ2AkjfbBKzeSCWB"
         }
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-23",
+      "date_removed": null,
       "duration_ms": 276000,
       "name": "Gracias a la Vida",
       "url": "https://open.spotify.com/track/4JM6RkLoNpC0H0eApxXzNX"
@@ -1412,7 +1412,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 197402,
       "name": "Tan Bonita",
       "url": "https://open.spotify.com/track/72bPIOHvWZHuWeTlQfBgaf"

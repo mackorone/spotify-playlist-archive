@@ -4585,6 +4585,24 @@
     },
     {
       "album": {
+        "name": "CINDERELLA",
+        "url": "https://open.spotify.com/album/3UCNmAyO3Kwl5kI0ccmZVK"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216920,
+      "name": "CINDERELLA",
+      "url": "https://open.spotify.com/track/1dXrN1k5P85gXjcixMa44j"
+    },
+    {
+      "album": {
         "name": "CIUDAD DEL SOL",
         "url": "https://open.spotify.com/album/7JVqErrplUbFAA5xSvavG5"
       },
@@ -4956,7 +4974,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 258036,
       "name": "Como Quisiera Quererte",
       "url": "https://open.spotify.com/track/4r6OwScTgTeq1ugHGeqsT4"
@@ -5760,7 +5778,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 197283,
       "name": "Cu\u00eddala",
       "url": "https://open.spotify.com/track/1Cson7dXFpYWPQiFabo7YH"
@@ -8538,7 +8556,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 285226,
       "name": "El Triste",
       "url": "https://open.spotify.com/track/0u7u1vVxQHagcqOK1lANhL"
@@ -17790,7 +17808,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-29",
+      "date_removed": null,
       "duration_ms": 169896,
       "name": "OOTD",
       "url": "https://open.spotify.com/track/2MN6yVBtbTvATWMuNI0SQW"
@@ -18166,7 +18184,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 247637,
       "name": "Panas",
       "url": "https://open.spotify.com/track/1ce0KvZOhRL0O6x1YYQPS8"
@@ -20163,6 +20181,28 @@
     },
     {
       "album": {
+        "name": "Querido Rey",
+        "url": "https://open.spotify.com/album/6SRK19vCyNaT2p88vi6EeY"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168376,
+      "name": "Querido Rey",
+      "url": "https://open.spotify.com/track/5qGP6zgyavDjMuZ57YO9jS"
+    },
+    {
+      "album": {
         "name": "QuesoXte",
         "url": "https://open.spotify.com/album/6P2JT8MNs7I26VCQotcL1n"
       },
@@ -20360,7 +20400,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 235000,
       "name": "Qu\u00e9 Loco El Plebe",
       "url": "https://open.spotify.com/track/5gLwcpNzRB5f9WKu512COs"
@@ -22711,6 +22751,24 @@
     },
     {
       "album": {
+        "name": "Tu Put4 Obsesi0n",
+        "url": "https://open.spotify.com/album/77foPnVITCbEBMJWvJM2Z3"
+      },
+      "artists": [
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163111,
+      "name": "T3rm1nar",
+      "url": "https://open.spotify.com/track/4zW8nldmfUosOqh6QO6KEO"
+    },
+    {
+      "album": {
         "name": "Tacha$ & Tu$$i",
         "url": "https://open.spotify.com/album/6kYaYO9RIX9hsseMbdOA1f"
       },
@@ -23186,6 +23244,24 @@
       "duration_ms": 176129,
       "name": "Te Quer\u00eda Ver",
       "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
+    },
+    {
+      "album": {
+        "name": "Te Recuerdo",
+        "url": "https://open.spotify.com/album/0WIaqkRmsHjaUE5MxI4KEp"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "Te Recuerdo",
+      "url": "https://open.spotify.com/track/2ikjBKxuPxgNjgeW1hRHKd"
     },
     {
       "album": {
@@ -24118,6 +24194,24 @@
       "duration_ms": 256733,
       "name": "Tres Veces Te Enga\u00f1\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/2mDtpjFCkc94ZBGPNFUCRB"
+    },
+    {
+      "album": {
+        "name": "Triple Lavada",
+        "url": "https://open.spotify.com/album/1rsjecCzLbJS7YVALG6I7P"
+      },
+      "artists": [
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165790,
+      "name": "Triple Lavada",
+      "url": "https://open.spotify.com/track/6uroNiDEDd0xFLiri0aQNk"
     },
     {
       "album": {
@@ -25510,7 +25604,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 129000,
       "name": "VIDEITOS",
       "url": "https://open.spotify.com/track/1x4z2luZqpOWwuf0YCgAJx"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Laura Pérez
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,388 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,393 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 | 4 | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/track/20enjIUEen7tNZXTRLDxXi) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/album/7HullqBwYSwjV2qZjb7DqP) | 3:05 |
 | 5 | [¿Cómo Pasó? \- Con Joe Jonas](https://open.spotify.com/track/627JVMF8exVnAgia5XqNjh) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [¿Cómo Pasó? \(Con Joe Jonas\)](https://open.spotify.com/album/5ESnGboIlKYPszlxhqVMyc) | 3:02 |
 | 6 | [Los Domingos](https://open.spotify.com/track/40Ne4Y9gf5fdZyy7WDZhQu) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Los Domingos](https://open.spotify.com/album/0evo6xjBKMBkUJ9yUQx1EZ) | 3:34 |
-| 7 | [Niño Yo Te Amé](https://open.spotify.com/track/2WqlC0I8UXKGDqO5IBvrgc) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Niño Yo Te Amé](https://open.spotify.com/album/3G5Cifil07gObHvzhJtCe8) | 3:07 |
-| 8 | [Aprender A Vivir](https://open.spotify.com/track/0ZZ2xsV9H75VQfJ195heKz) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Aprender A Vivir](https://open.spotify.com/album/1x8JGQfjGG1LLPEFgyP0IL) | 2:50 |
-| 9 | [Bogotá](https://open.spotify.com/track/4r3fGHTOMaqZhQSpVo9VNV) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Bogotá](https://open.spotify.com/album/5gizCs5NxTYby7QGIyEVYX) | 3:15 |
-| 10 | [Por Las Primeras Veces](https://open.spotify.com/track/5d28xTH31PC5O4WRalbPex) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV) | [Por Las Primeras Veces](https://open.spotify.com/album/6FxcKtFQck1HRBm4DlUAx0) | 2:29 |
+| 7 | [6:00 a.m\. \- Versión 2025](https://open.spotify.com/track/0RtBENsw73xZiDWdlgk9Xs) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [6:00 a.m\. \(Versión 2025\)](https://open.spotify.com/album/4oPl8azNbNCa1S54ZKZ3UQ) | 4:18 |
+| 8 | [Niño Yo Te Amé](https://open.spotify.com/track/2WqlC0I8UXKGDqO5IBvrgc) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Niño Yo Te Amé](https://open.spotify.com/album/3G5Cifil07gObHvzhJtCe8) | 3:07 |
+| 9 | [Aprender A Vivir](https://open.spotify.com/track/0ZZ2xsV9H75VQfJ195heKz) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Aprender A Vivir](https://open.spotify.com/album/1x8JGQfjGG1LLPEFgyP0IL) | 2:50 |
+| 10 | [Bogotá](https://open.spotify.com/track/4r3fGHTOMaqZhQSpVo9VNV) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Bogotá](https://open.spotify.com/album/5gizCs5NxTYby7QGIyEVYX) | 3:15 |
 | 11 | [ERES \- Lado B](https://open.spotify.com/track/2mVYNz95eZ5MPrAZWLfEvT) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L) | [ERES \(Lado B\)](https://open.spotify.com/album/5U16JEDoxaUgEgWbMTy682) | 2:57 |
 | 12 | [Gabriela](https://open.spotify.com/track/6C7EC0BWQ5A57UkY6HLJqA) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO) | [Gabriela](https://open.spotify.com/album/4xrro73gRMWxStGt4khR6J) | 3:31 |
 | 13 | [Summer En París](https://open.spotify.com/track/3uunvMbxsCZmzgHmOJJe4Y) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Summer En París](https://open.spotify.com/album/3qLo8V07kEVNmjuklblbk5) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 | 99 | [La Estrategia](https://open.spotify.com/track/5fqE4mcMADOX0qTuIlpLZL) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [La Estrategia](https://open.spotify.com/album/3oGY6wgJ5gsh8QOADB6gHJ) | 3:39 |
 | 100 | [Caraluna](https://open.spotify.com/track/4XTMj7kd8DHLl0r7ghmEAr) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Grandes Exitos](https://open.spotify.com/album/5WGN7m5BK95GiuafTCL3JQ) | 4:26 |
 
-Snapshot ID: `Z7fxrAAAAADMqNcurqotNEzzWxuBAx3g`
+Snapshot ID: `Z+9oWwAAAABPOaIt8uinVYjjyIyMf9tj`

@@ -4,7 +4,7 @@
 
 > The latest straight bars and Afro\-Trap\. Cover: Riky Rick
 
-340 songs - 17 hr 46 min
+341 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Royaume Kunga \(Kingdom\)](https://open.spotify.com/track/3cJyHbIs3JW0MBgnUKcxS9) | [Ferre Gola](https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI) | [Dynastie](https://open.spotify.com/album/3rVzWvJImO2SgNmSCw75Rg) | 3:01 | 2022-03-24 | 2023-05-12 |
 | [Rude](https://open.spotify.com/track/7f83o6VIhOcIcHxzr7Cj4a) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Savage Bitch Juice](https://open.spotify.com/album/5la6d2QxYKs6N2KWDCNmhr) | 2:32 | 2021-11-04 | 2022-05-13 |
 | [Running](https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Running](https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP) | 3:34 | 2021-10-22 | 2024-07-27 |
+| [Sacrifice](https://open.spotify.com/track/3bdntVS2dHPTPitwms9gLK) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:33 | 2025-04-04 |  |
 | [SAUCE \(feat\. Silverstone Barz, Dee Koala, Money Badoo & DETO BLACK\)](https://open.spotify.com/track/3jEWgcZ0K3mg9T2Iwp7jVR) | [Immaculate Taste](https://open.spotify.com/artist/7EqcUzt8S9Gh3nKcCZDXlE), [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [Dee Koala](https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT), [Money Badoo](https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [SAUCE \(feat\. Silverstone Barz, Dee Koala, Money Badoo & DETO BLACK\)](https://open.spotify.com/album/12ErBakQQDRspBJCN3NulR) | 3:29 | 2023-04-27 | 2023-10-13 |
 | [SCAR](https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy) | [Song bird](https://open.spotify.com/artist/4QLKyJHQZs4nlsQIEFb8Gt), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [SCAR](https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5) | 3:23 | 2023-04-20 | 2024-07-27 |
 | [Second Sermon](https://open.spotify.com/track/6quFWbUf88BS0pWUNrwVCR) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Second Sermon](https://open.spotify.com/album/1WtUCwDqTypySaG8c5yC8C) | 2:46 | 2021-10-14 | 2023-08-11 |
@@ -280,7 +281,7 @@
 | [Show No Love](https://open.spotify.com/track/16qfwBiZQuSWUNQL0wW6PU) | [PatricKxxLee](https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP) | [Show No Love](https://open.spotify.com/album/4DEuvbtH2gB1YLumuAClcy) | 2:19 | 2024-02-23 | 2024-04-05 |
 | [show u luv](https://open.spotify.com/track/6AMKemHX5TjvWwVCQgkYJY) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [see u soon](https://open.spotify.com/album/4aYa2JkUWVkOXptMYZtdq5) | 2:40 | 2024-07-26 |  |
 | [SHUT IT DOWN](https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Chocobantis](https://open.spotify.com/artist/70Jve0OujgQxmXXxMBoVON) | [SHUT IT DOWN](https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM) | 2:30 | 2023-10-13 | 2024-09-17 |
-| [Shut Up](https://open.spotify.com/track/3LuSjVLN13xR6WO01Mv5ta) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Shut Up](https://open.spotify.com/album/4kvqQHjh1FTCxFPhBdHu0j) | 3:12 | 2024-04-05 |  |
+| [Shut Up](https://open.spotify.com/track/3LuSjVLN13xR6WO01Mv5ta) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Shut Up](https://open.spotify.com/album/4kvqQHjh1FTCxFPhBdHu0j) | 3:12 | 2024-04-05 | 2025-04-05 |
 | [Siberia \(feat\. Burna Boy\)](https://open.spotify.com/track/4aHEayGDKLzX49rtj1GGvM) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Siberia \(feat\. Burna Boy\)](https://open.spotify.com/album/2drdsKc7tHWW2ZyvKFTZV4) | 2:53 | 2021-10-14 | 2022-02-04 |
 | [Sinner](https://open.spotify.com/track/6miftk872yxPKve9CdKaQO) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Lp2loose](https://open.spotify.com/artist/6PvcxssrQ0QaJVaBWHD07l) | [Sinner](https://open.spotify.com/album/1sODnxd2EWcvRsMkfeBL3z) | 3:52 | 2021-10-14 | 2022-03-18 |
 | [Sistine Chapel](https://open.spotify.com/track/5wbu811arscgby6HcCDe5m) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV) | [Green](https://open.spotify.com/album/5Qz1TL6338YnS6cnT9Z8GG) | 1:55 | 2022-03-17 | 2022-06-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Lawrence Hart
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,429 likes - 229 songs - 12 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,424 likes - 229 songs - 12 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

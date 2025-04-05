@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 25407,
+  "num_followers": 25428,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+x+AAAAAAB0ImJ8QxwnP9RKVQvJwGQg",
+  "snapshot_id": "Z+3PgAAAAABsSIt+430RiciDpwkTUjGv",
   "tracks": [
     {
       "added_at": null,
@@ -531,6 +531,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "YN",
+        "url": "https://open.spotify.com/album/1Ko6TqmUlt4dz65PTyTWrK"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "PlaqueBoyMax",
+          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
+        },
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        },
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        },
+        {
+          "name": "Baby Kia",
+          "url": "https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L"
+        }
+      ],
+      "duration_ms": 231075,
+      "name": "YN",
+      "url": "https://open.spotify.com/track/1Ulsd6jncBPvkY9JnFBTPp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Come Here (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/3QxPYvooBMx633nZ3loSDF"
       },
@@ -567,38 +599,6 @@
       "duration_ms": 129429,
       "name": "Pound Town (and Tay Keith)",
       "url": "https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "YN",
-        "url": "https://open.spotify.com/album/1Ko6TqmUlt4dz65PTyTWrK"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "PlaqueBoyMax",
-          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
-        },
-        {
-          "name": "BabyChiefDoit",
-          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
-        },
-        {
-          "name": "LAZER DIM 700",
-          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
-        },
-        {
-          "name": "Baby Kia",
-          "url": "https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L"
-        }
-      ],
-      "duration_ms": 231075,
-      "name": "YN",
-      "url": "https://open.spotify.com/track/1Ulsd6jncBPvkY9JnFBTPp"
     },
     {
       "added_at": null,
@@ -759,26 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daddy (feat. Sexyy Red) [Vandalized Edit]",
-        "url": "https://open.spotify.com/album/2k0tmoYn3bI1hmIjeIbWQl"
+        "name": "BING BONG (Remix) [feat. Sexyy Red]",
+        "url": "https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur"
       },
       "artists": [
         {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        },
-        {
-          "name": "Jarreau Vandal",
-          "url": "https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW"
+          "name": "BlakeIANA",
+          "url": "https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS"
         },
         {
           "name": "Sexyy Red",
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 192444,
-      "name": "Daddy (feat. Sexyy Red) - Vandalized Edit",
-      "url": "https://open.spotify.com/track/2sb27UopO5ME6MdymutVnV"
+      "duration_ms": 166956,
+      "name": "BING BONG (Remix) [feat. Sexyy Red]",
+      "url": "https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE"
     },
     {
       "added_at": null,
@@ -803,22 +799,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "BING BONG (Remix) [feat. Sexyy Red]",
-        "url": "https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur"
+        "name": "Daddy (feat. Sexyy Red) [Vandalized Edit]",
+        "url": "https://open.spotify.com/album/2k0tmoYn3bI1hmIjeIbWQl"
       },
       "artists": [
         {
-          "name": "BlakeIANA",
-          "url": "https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS"
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Jarreau Vandal",
+          "url": "https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW"
         },
         {
           "name": "Sexyy Red",
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 166956,
-      "name": "BING BONG (Remix) [feat. Sexyy Red]",
-      "url": "https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE"
+      "duration_ms": 192444,
+      "name": "Daddy (feat. Sexyy Red) - Vandalized Edit",
+      "url": "https://open.spotify.com/track/2sb27UopO5ME6MdymutVnV"
     },
     {
       "added_at": null,

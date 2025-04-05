@@ -651,6 +651,32 @@
     },
     {
       "album": {
+        "name": "Dilo Conmigo",
+        "url": "https://open.spotify.com/album/1SIvaWiDgOFfQMB5c6f6NN"
+      },
+      "artists": [
+        {
+          "name": "El Kalvo",
+          "url": "https://open.spotify.com/artist/3GOtzu1fzxIS0zYI94K21v"
+        },
+        {
+          "name": "Da Funkylooper",
+          "url": "https://open.spotify.com/artist/3OC9G8vMThjgqO6LNN9DOu"
+        },
+        {
+          "name": "H-ico El Se\u00f1or del Funk",
+          "url": "https://open.spotify.com/artist/7ELWV3QfXM7w6c2ATmx4mN"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Dilo Conmigo",
+      "url": "https://open.spotify.com/track/6vhxB82OXRmZ1O4AstoBUW"
+    },
+    {
+      "album": {
         "name": "Grandes \u00c9xitos: 15 A\u00f1os de Carrera Musical (Remastered)",
         "url": "https://open.spotify.com/album/4p8Mw0BljHb4ItwD2FhH6C"
       },
@@ -3194,7 +3220,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 143119,
       "name": "\u00bfAlgo Que Decir?",
       "url": "https://open.spotify.com/track/57eaJ15ZJpAfefBpANiw5C"

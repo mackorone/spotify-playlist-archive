@@ -2,7 +2,7 @@
 
 ### [La Vida Loca](https://open.spotify.com/playlist/37i9dQZF1DWXHyhanaNMoy)
 
-> Motion & good vibes ✨  Cover: Joé Dwèt Filé & Burna Boy
+> Motion & good vibes ✨  Cover: Architrackz
 
 1,306 songs - 2 day 10 hr 25 min
 
@@ -18,7 +18,7 @@
 | [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 | 2022-11-10 | 2022-12-09 |
 | [2:30](https://open.spotify.com/track/6upXA8xqJ5heoVw4nd5Zvs) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [2:30](https://open.spotify.com/album/7ASPbaFgWYjGlYIIOewA2L) | 2:18 | 2023-04-06 | 2023-04-14 |
 | [3/4 Dingen](https://open.spotify.com/track/5Fh809xDN3K5u4N2Q31R2O) | [Equalz](https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS) | [3/4 Dingen](https://open.spotify.com/album/2bYn8s51z0MRydOjxHe65d) | 2:27 | 2023-01-26 | 2023-04-20 |
-| [4 Kampé II](https://open.spotify.com/track/5VceXjXeBMGOHC04rjpyC7) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [4 Kampé II](https://open.spotify.com/album/28EA7dYeDclWlULlTN3sbC) | 3:31 | 2025-03-27 |  |
+| [4 Kampé II](https://open.spotify.com/track/5VceXjXeBMGOHC04rjpyC7) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [4 Kampé II](https://open.spotify.com/album/28EA7dYeDclWlULlTN3sbC) | 3:31 | 2025-03-27 | 2025-04-05 |
 | [42](https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [42](https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2) | 2:55 | 2024-06-20 | 2024-09-20 |
 | [5 Shots](https://open.spotify.com/track/44umGFDnbnwLD7Eovr4jYE) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Strandje Aan De Maas](https://open.spotify.com/album/6p6fROC9FzKXHBY7RyVjuA) | 3:02 | 2022-10-31 | 2023-02-10 |
 | [5 Shots](https://open.spotify.com/track/6ayHgGpGR1GL8DYYcQZ0T4) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [5 Shots](https://open.spotify.com/album/3cD8xzylIG2Y8a4jRp8Ftd) | 3:02 | 2022-10-26 | 2022-11-01 |

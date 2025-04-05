@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,597 songs - 4 day 0 hr 37 min
+1,598 songs - 4 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [2MANYTIMES](https://open.spotify.com/track/3rVgFAXFJnmpki9sVgRFfn) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [2MANYTIMES](https://open.spotify.com/album/5v0whhzr6ryjzu2Ds5V5Cc) | 3:25 | 2023-11-28 | 2024-04-13 |
 | [37.5°C](https://open.spotify.com/track/2xBq6S5pDvVsIxxlCxlC1z) | [SANABAGUN.](https://open.spotify.com/artist/7tiKnydNP65EPFiYRiW2Pu) | [37.5°C](https://open.spotify.com/album/6wNizIxKsGdvJEfVCP9oF4) | 2:47 | 2022-08-16 | 2022-09-24 |
 | [37.5°C](https://open.spotify.com/track/5XuCNgnDB3oFVz4pbPXFcJ) | [SANABAGUN.](https://open.spotify.com/artist/7tiKnydNP65EPFiYRiW2Pu) | [BLOOM](https://open.spotify.com/album/2vhItqUsvlJjaknJCjMuCG) | 2:47 | 2022-09-22 | 2022-09-28 |
-| [39 Minutes](https://open.spotify.com/track/3QmJn4aRv6DvNNvGLsb5Uq) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [39 Minutes](https://open.spotify.com/album/1bwGXlt6FsF40k0LzSTJbf) | 3:33 | 2023-03-28 | 2025-01-29 |
+| [39 Minutes](https://open.spotify.com/track/3QmJn4aRv6DvNNvGLsb5Uq) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [39 Minutes](https://open.spotify.com/album/1bwGXlt6FsF40k0LzSTJbf) | 3:33 | 2023-03-28 |  |
 | [440hz \(feat\. Daichi Yamamoto x Koh\)](https://open.spotify.com/track/1bWEsD4W8gClixY0NpZh91) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [KOH](https://open.spotify.com/artist/0b3KYCtaiOQbtq95mlefTb) | [A440](https://open.spotify.com/album/2xTFImWVQRC1PfDMCOxwwe) | 4:27 | 2023-01-26 | 2023-04-14 |
 | [4ever](https://open.spotify.com/track/051jX9kOL9l7dWCrrWfEA9) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [4ever](https://open.spotify.com/album/3eHDZxWPz3a4EwjO9DWm1Y) | 3:18 | 2023-07-11 | 2023-08-09 |
 | [4ever](https://open.spotify.com/track/3ZzFyvGq7wOrrYeUA5JaG4) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [4ever](https://open.spotify.com/album/1jVLQQkvJCTEVLMsUFLioI) | 3:18 | 2023-07-11 | 2023-07-13 |
@@ -521,6 +521,7 @@
 | [Jiga](https://open.spotify.com/track/5QrWk9AASs5BL65xYGlUhH) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [DJ SCRATCH NICE](https://open.spotify.com/artist/0MfeTyPtbuue9oZFIMD2wY) | [Jiga](https://open.spotify.com/album/6Lep1pUvwGR0SNhYRuE23m) | 4:03 | 2023-01-17 | 2023-04-05 |
 | [JOOOOKE](https://open.spotify.com/track/6XdHXowM9CEZICEQPu71F2) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [JOOOOKE](https://open.spotify.com/album/5Db4faF7Qcj7RUH5po6Xor) | 3:03 | 2025-03-18 |  |
 | [Joy](https://open.spotify.com/track/4Y8TqlBfP2p4vWxCPrYLzj) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK) | [Joy](https://open.spotify.com/album/3BfGTSaXoQ9AR4jp7UWGEi) | 3:11 | 2023-09-05 | 2023-09-13 |
+| [Judgement?](https://open.spotify.com/track/5MGVaOgYQ3UclF6l7ctMFA) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [Judgement?](https://open.spotify.com/album/34XrJ4YbZvHTztBI4ToCDY) | 4:56 | 2025-04-02 |  |
 | [JUICY 2023](https://open.spotify.com/track/19i6b6c6C0UJ1OnHpBT6nJ) | [BAKU](https://open.spotify.com/artist/6UJ9anFCTizsVkXHg1uKgW), [chinzadopeness](https://open.spotify.com/artist/6DGXrg6MMq5E5rptfiMaNa), [CHAN\-MIKA](https://open.spotify.com/artist/1buzD2EAwSbAdZJHzcSjvw) | [JUICY 2023](https://open.spotify.com/album/19AO1LKYhDm0qfaq9l6WyG) | 3:47 | 2023-02-14 | 2023-02-22 |
 | [Jurassic](https://open.spotify.com/track/0okYcNqMBFmSwf2xeECPpd) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Jurassic](https://open.spotify.com/album/6XDBprGtBpzB7t0dHP85fs) | 2:57 | 2023-07-18 | 2023-07-20 |
 | [Jurassic](https://open.spotify.com/track/7HcpoYSDvOks6YAE2A3JQn) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Jurassic](https://open.spotify.com/album/6dgCSpkDbi4Y4WJpC24nZ8) | 2:57 | 2023-07-18 | 2023-08-02 |
@@ -798,7 +799,7 @@
 | [people](https://open.spotify.com/track/47hcYZ2WMLTzArFYLpvgUr) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [people](https://open.spotify.com/album/4FzOMTCyWwAfrXFtEvDzAZ) | 4:50 | 2022-07-26 | 2022-09-09 |
 | [Persona](https://open.spotify.com/track/4L00tvgurAGsSfW0fei2cZ) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [Persona](https://open.spotify.com/album/5e8sX6JiIW3v1LhxBwSoRQ) | 3:00 | 2023-06-20 | 2023-07-19 |
 | [Petillant](https://open.spotify.com/track/1L4uVdBzKUt1so7Pgys21k) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [Love Deluxe](https://open.spotify.com/album/21F5oKkCpE0DuOlA7S3KCl) | 3:32 | 2024-09-04 | 2024-09-26 |
-| [Phantom](https://open.spotify.com/track/7rYU820yx8Al5oCbuwp1jP) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [KJ SEASON2](https://open.spotify.com/album/28iWqw8fyWr0ls4qUzf2I0) | 2:37 | 2024-12-10 |  |
+| [Phantom](https://open.spotify.com/track/7rYU820yx8Al5oCbuwp1jP) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [KJ SEASON2](https://open.spotify.com/album/28iWqw8fyWr0ls4qUzf2I0) | 2:37 | 2024-12-10 | 2025-04-05 |
 | [Phenomeno](https://open.spotify.com/track/18zFxPtXcMTISAHwMDDRte) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Phenomeno](https://open.spotify.com/album/4yk7K6h54kH24QaEzxINC4) | 2:45 | 2024-04-16 | 2024-05-15 |
 | [Phenomeno](https://open.spotify.com/track/1A2zvkHDQ8adalZv4gPBWR) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Phenomeno](https://open.spotify.com/album/4Z8iqDa6wdIb4GTREZ1n1l) | 2:45 | 2024-04-12 | 2024-04-19 |
 | [Pick you up](https://open.spotify.com/track/7lEamS5mWLjjnxYDHS3Z5R) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Pick you up](https://open.spotify.com/album/5ec6P46lMezGX5zBzpHRvy) | 3:38 | 2024-11-13 |  |
@@ -1432,7 +1433,7 @@
 | [台詞](https://open.spotify.com/track/57hdi7FlcurVOe7OoFmxA9) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [台詞](https://open.spotify.com/album/0zAMh6XVhD76qzMUqE04jH) | 4:05 | 2024-02-27 | 2024-04-03 |
 | [向こうから](https://open.spotify.com/track/1FVA1zzhSi7U7SwTIidQeC) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [向こうから](https://open.spotify.com/album/6jH9JpnMI6GmtHZYAjoacR) | 3:45 | 2022-08-24 | 2023-02-13 |
 | [君が思い出したら](https://open.spotify.com/track/2daV7kt818vpPzuzVlndxq) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [君が思い出したら](https://open.spotify.com/album/39KG47MwdsDLXuj8T0Uuzf) | 3:38 | 2024-07-17 | 2024-09-05 |
-| [君とデート](https://open.spotify.com/track/08RwOcXdFCvy44zm1awpJh) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [君とデート](https://open.spotify.com/album/7vdj88FcBsYGcUDa4si9Zf) | 2:51 | 2025-01-15 |  |
+| [君とデート](https://open.spotify.com/track/08RwOcXdFCvy44zm1awpJh) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [君とデート](https://open.spotify.com/album/7vdj88FcBsYGcUDa4si9Zf) | 2:51 | 2025-01-15 | 2025-04-05 |
 | [君のFlavor feat\. 磯野くん \(YONA YONA WEEKENDERS\)](https://open.spotify.com/track/02efWP5LqFY0FvzxoZ14VJ) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [磯野くん](https://open.spotify.com/artist/48UwOs44kquyWN7FoUZCTG) | [君のFlavor feat\. 磯野くん \(YONA YONA WEEKENDERS\)](https://open.spotify.com/album/69oBKwavCpQBOGiuHDYzZY) | 3:26 | 2022-05-26 | 2022-06-08 |
 | [君の歯ブラシ](https://open.spotify.com/track/5ZIPeyU0h13vZgCifDVPxp) | [Maharajan](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [君の歯ブラシ](https://open.spotify.com/album/0FOZQaABYtZiBHJd6WLKQ5) | 3:21 | 2022-06-16 | 2022-07-27 |
 | [告げたる人](https://open.spotify.com/track/63kErsGjt011W2sGzQJ2Qi) | [yobai suspects](https://open.spotify.com/artist/0VSioSaGvQCLyyIISVhCrv) | [告げたる人](https://open.spotify.com/album/715Eb62IzXBiDd6UIuGu2g) | 4:16 | 2024-02-20 | 2024-02-28 |

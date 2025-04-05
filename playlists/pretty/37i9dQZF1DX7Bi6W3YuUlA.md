@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 ### [High Lights](https://open.spotify.com/playlist/37i9dQZF1DX7Bi6W3YuUlA)
 
-> Inspirational hip hop\. Cover: Fridayy
+> Inspirational hip\-hop\. Cover: Will Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,357 likes - 86 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,380 likes - 86 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 85 | [GOSPEL \(feat\. Chance The Rapper, Gucci Mane & YK Osiris\)](https://open.spotify.com/track/0WoAkdHmgPmEXfiBox1flk) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [YK Osiris](https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 3:34 |
 | 86 | [Get Ready \(feat\. Kodak Black\)](https://open.spotify.com/track/04EHa1ZzBl8OPvcnddph4p) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [SoulFly \(Deluxe Version\)](https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN) | 3:51 |
 
-Snapshot ID: `Z+Ye8wAAAAAL0viV6cTbSqk409WJFUuJ`
+Snapshot ID: `Z+9ZWgAAAAA8HfEZx7Wi6Lq6nab9dfRm`

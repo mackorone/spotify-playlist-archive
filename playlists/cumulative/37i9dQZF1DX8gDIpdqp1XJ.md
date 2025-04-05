@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock, neo\-psychedelic, and psychedelic indie.
 
-990 songs - 2 day 16 hr 35 min
+991 songs - 2 day 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -953,6 +953,7 @@
 | [What a Waste of an Echo / The Three Magnets \(Maston Remix\)](https://open.spotify.com/track/22PRe1L1AzhxVcjj4aIEIH) | [Spencer Cullum](https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr), [Maston](https://open.spotify.com/artist/7aE9KUqEEWrasYryOkJG7O) | [What a Waste of an Echo / The Three Magnets \(Maston Remix\)](https://open.spotify.com/album/336PGhq3wH2OQKbYpMUUoY) | 3:55 | 2023-06-23 | 2024-01-03 |
 | [What Do I Do Now?](https://open.spotify.com/track/2FkyHT0VGDOFkTsLUDM8RV) | [Healing Potpourri](https://open.spotify.com/artist/7DORj3eYMlPwqbRZ4StSmQ) | [What Do I Do Now?](https://open.spotify.com/album/3xVJN4u7IgtMAD1ZlFfzTC) | 2:38 | 2022-07-11 | 2022-07-20 |
 | [What Does It Mean To Me?](https://open.spotify.com/track/0fQMFvcUD9j1SBFRoTHxnL) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [Smothered](https://open.spotify.com/album/21zwExLy0H0BDbrIb0J2DC) | 2:46 | 2022-04-20 | 2022-07-30 |
+| [What is ashwagandha](https://open.spotify.com/track/59abjui3aifvPewKh2siLY) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Slipper imp and shakaerator](https://open.spotify.com/album/2SArL4pMzLcKjHP4S7QWHV) | 4:31 | 2025-04-04 |  |
 | [What U Want](https://open.spotify.com/track/165EgmoM47fAorPRNPijBu) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [What U Want](https://open.spotify.com/album/69kOKq7angZCP0l4tGDGuW) | 3:10 | 2023-05-26 | 2024-11-19 |
 | [When I Get Home](https://open.spotify.com/track/0iKuMGAjLp9RcYiyzkdruH) | [Post Animal](https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE) | [The Garden Series](https://open.spotify.com/album/5p3dhXhw62KlVkf0oPfq1G) | 5:23 | 2022-07-22 | 2022-10-15 |
 | [When I Get Home](https://open.spotify.com/track/2rY4NvZAyYJi8Gvcp0pSI6) | [Post Animal](https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE) | [The Garden Series](https://open.spotify.com/album/4CQXdBOTPDyxIfQ7x99bwA) | 5:23 | 2022-10-24 | 2023-02-25 |

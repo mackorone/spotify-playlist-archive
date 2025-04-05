@@ -433,6 +433,28 @@
     },
     {
       "album": {
+        "name": "A Ganar",
+        "url": "https://open.spotify.com/album/4Cu5kZc0OfgapIvTvBUEpS"
+      },
+      "artists": [
+        {
+          "name": "Mamborap",
+          "url": "https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0"
+        },
+        {
+          "name": "Mc Kno",
+          "url": "https://open.spotify.com/artist/0t0wGSeL96MtZyjZiNHPCk"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206117,
+      "name": "A Ganar",
+      "url": "https://open.spotify.com/track/3hsf5ZtAFvkjg9Q5eiAQ58"
+    },
+    {
+      "album": {
         "name": "Entre Dos Mundos",
         "url": "https://open.spotify.com/album/3I8etzYVUSFwTXyI967qp6"
       },
@@ -1593,6 +1615,24 @@
     },
     {
       "album": {
+        "name": "Bandolero",
+        "url": "https://open.spotify.com/album/6mCeav5zqfaGtsLmhtmJMp"
+      },
+      "artists": [
+        {
+          "name": "Silar Kilos De Estilo",
+          "url": "https://open.spotify.com/artist/0EuMnBFVFmyIFFgpiwbvj6"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237096,
+      "name": "Bandolero",
+      "url": "https://open.spotify.com/track/0E8GRaZs5UsNB9yd8TDdLx"
+    },
+    {
+      "album": {
         "name": "Bareto",
         "url": "https://open.spotify.com/album/5mI6Ifptn42GagjGZ91ccn"
       },
@@ -2350,7 +2390,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 337000,
       "name": "BULLSHIT 3",
       "url": "https://open.spotify.com/track/4VIsAZ648nC4imKo1D432e"
@@ -2700,7 +2740,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 154946,
       "name": "Cambiando el Game",
       "url": "https://open.spotify.com/track/0yZyquzOOKFf5vinmkFSyy"
@@ -3152,7 +3192,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 254457,
       "name": "Chiquilla",
       "url": "https://open.spotify.com/track/0Vs2CduQsO47ljZvh8ON0K"
@@ -5932,6 +5972,32 @@
     {
       "album": {
         "name": "Estilo Tumbado",
+        "url": "https://open.spotify.com/album/3x7s3kaALeMJT6eKBeaNq1"
+      },
+      "artists": [
+        {
+          "name": "Rabelay",
+          "url": "https://open.spotify.com/artist/5pdLPgBkhXVNRWOuGkN6VO"
+        },
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        },
+        {
+          "name": "Vizual Dealer",
+          "url": "https://open.spotify.com/artist/55rW4Zyiqqky6OxedADMkY"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202758,
+      "name": "Estilo Tumbado",
+      "url": "https://open.spotify.com/track/6DrPSqmEaUszMOFyk9uUaz"
+    },
+    {
+      "album": {
+        "name": "Estilo Tumbado",
         "url": "https://open.spotify.com/album/6fpqzDyP7WZSUfDMKBTV1A"
       },
       "artists": [
@@ -6437,6 +6503,28 @@
     },
     {
       "album": {
+        "name": "Fuera De Carta",
+        "url": "https://open.spotify.com/album/2x9srZA362xzaqFRsnGOes"
+      },
+      "artists": [
+        {
+          "name": "Kion Studio",
+          "url": "https://open.spotify.com/artist/40YyzPIbiMyls21Eb0FZ57"
+        },
+        {
+          "name": "Pumela",
+          "url": "https://open.spotify.com/artist/39jqOgy5NCnUjuU3jwGUi0"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217675,
+      "name": "Fuera De Carta",
+      "url": "https://open.spotify.com/track/4fkueZihqxY6xcSw1fL39j"
+    },
+    {
+      "album": {
         "name": "Fuerte",
         "url": "https://open.spotify.com/album/2JOpTZhjiZzeD68SsElNkA"
       },
@@ -6660,7 +6748,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 172800,
       "name": "Graciela / \"Carta a Mi Abuela\"",
       "url": "https://open.spotify.com/track/1yZZsjAwvLfeHdOIEdlHGR"
@@ -8720,7 +8808,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 237217,
       "name": "Las Flores",
       "url": "https://open.spotify.com/track/0UPOcpbdktBE6jg5qhUZrI"
@@ -11145,6 +11233,28 @@
     },
     {
       "album": {
+        "name": "Naci\u00f3 Ganador",
+        "url": "https://open.spotify.com/album/1z2fM7VJa9VyhpezACSxvR"
+      },
+      "artists": [
+        {
+          "name": "Ares 077",
+          "url": "https://open.spotify.com/artist/2uZ1sVe46H1s9rXuBVj9Hs"
+        },
+        {
+          "name": "Droow",
+          "url": "https://open.spotify.com/artist/54U7OiU7yC2eB4Ij71sqlW"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "Naci\u00f3 Ganador",
+      "url": "https://open.spotify.com/track/7zMTzcKCOMRWKOetKjlD6W"
+    },
+    {
+      "album": {
         "name": "Nada Pasa",
         "url": "https://open.spotify.com/album/4CoG13cvkjp1of3L7yKnz8"
       },
@@ -13231,6 +13341,24 @@
     },
     {
       "album": {
+        "name": "Por Lo Que No Tuve",
+        "url": "https://open.spotify.com/album/1BLjPiEPfRPrEgKQhT7PfY"
+      },
+      "artists": [
+        {
+          "name": "Jr L\u00f3pez",
+          "url": "https://open.spotify.com/artist/1oXMq3RQFNAuWRmDZJZjRO"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Por Lo Que No Tuve",
+      "url": "https://open.spotify.com/track/4rqWIxwzL3ELkIWCg3KEAs"
+    },
+    {
+      "album": {
         "name": "Posdata",
         "url": "https://open.spotify.com/album/2R2tb1OIF91FBpqE7gJ8Km"
       },
@@ -14486,7 +14614,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 161684,
       "name": "R\u00e1fagas al Viento",
       "url": "https://open.spotify.com/track/5GIrmSQBxO9LTunilbwMWw"
@@ -14622,6 +14750,24 @@
       "duration_ms": 184941,
       "name": "Sangre En Los Ojos",
       "url": "https://open.spotify.com/track/5ZF65Z4CufIm61e09enj67"
+    },
+    {
+      "album": {
+        "name": "Saque Lo Que Trae",
+        "url": "https://open.spotify.com/album/1OXKgY98GaIZe3BX23YoVt"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Saque Lo Que Trae",
+      "url": "https://open.spotify.com/track/5twtDfhM6EEXBpLPL7VpDc"
     },
     {
       "album": {
@@ -15661,6 +15807,24 @@
     },
     {
       "album": {
+        "name": "S\u00e1bana Blanca (Dolor de una Madre)",
+        "url": "https://open.spotify.com/album/58Txgo7q3kTwke0wIuQpkQ"
+      },
+      "artists": [
+        {
+          "name": "Chato 473",
+          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236557,
+      "name": "S\u00e1bana Blanca (Dolor de una Madre)",
+      "url": "https://open.spotify.com/track/2FFICFFobKXAeqAuPV5nGO"
+    },
+    {
+      "album": {
         "name": "Tania",
         "url": "https://open.spotify.com/album/6Boi6nNfxwJz0mfXSbqzXy"
       },
@@ -16680,7 +16844,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 224272,
       "name": "Un Afano",
       "url": "https://open.spotify.com/track/6kQaUcfOdWaRlqWIx6UqWF"
@@ -17366,7 +17530,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 206528,
       "name": "V\u00e1monos de Aqu\u00ed",
       "url": "https://open.spotify.com/track/0zhhnma04FbdNvVsuczhrD"

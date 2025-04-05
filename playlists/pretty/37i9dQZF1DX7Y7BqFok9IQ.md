@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Samantha Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,956 likes - 150 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,044 likes - 150 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Snake In The Tall Grass](https://open.spotify.com/track/3Fbjies9Gw62vZCrRpQCSj) | [Leilani Kilgore](https://open.spotify.com/artist/2Muoy1Aup07JwrgVDf5XJe) | [Snake In The Tall Grass](https://open.spotify.com/album/0jBB09fd0COyMvmq3vvGr4) | 4:22 |
-| 2 | [Borderline](https://open.spotify.com/track/5BdalGXcHyZj0dB7VYesFh) | [Hollow Souls](https://open.spotify.com/artist/5ocW71erbVqk2vkWFucNo4), [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Borderline](https://open.spotify.com/album/1fbjn34QJvS7Mkss057bmi) | 3:20 |
-| 3 | [Break Free](https://open.spotify.com/track/1VfXJzDrhqwHrORhdSRBOx) | [When Rivers Meet](https://open.spotify.com/artist/3r4hYfzQA1yuQFEKMDJzJi) | [Break Free](https://open.spotify.com/album/4nEu0JLNGGAq3Sf0Bwo0hg) | 3:32 |
-| 4 | [Keep On Running](https://open.spotify.com/track/0sh3WNOdK56aUd7uUR8qTk) | [Cardinal Black](https://open.spotify.com/artist/39oKFGoKzTEZlc8PMP7kQ3) | [Keep On Running](https://open.spotify.com/album/59kaQqnsanvIhkcIAehVLz) | 3:02 |
-| 5 | [Sweet Southern Sounds](https://open.spotify.com/track/0MSeSaQgYPbcDcvsUMNA0d) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Sweet Southern Sounds](https://open.spotify.com/album/6eAO9mBoyOKyh8CLcopqzB) | 5:01 |
+| 1 | [Can Ya Handle The Heat?](https://open.spotify.com/track/7bQsyY4627F3Xg05RtvzgP) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Can Ya Handle The Heat?](https://open.spotify.com/album/1OVvAY4Xa0sAIPVtej7K8S) | 2:54 |
+| 2 | [Snake In The Tall Grass](https://open.spotify.com/track/3Fbjies9Gw62vZCrRpQCSj) | [Leilani Kilgore](https://open.spotify.com/artist/2Muoy1Aup07JwrgVDf5XJe) | [Snake In The Tall Grass](https://open.spotify.com/album/0jBB09fd0COyMvmq3vvGr4) | 4:22 |
+| 3 | [Borderline](https://open.spotify.com/track/5BdalGXcHyZj0dB7VYesFh) | [Hollow Souls](https://open.spotify.com/artist/5ocW71erbVqk2vkWFucNo4), [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Borderline](https://open.spotify.com/album/1fbjn34QJvS7Mkss057bmi) | 3:20 |
+| 4 | [Break Free](https://open.spotify.com/track/1VfXJzDrhqwHrORhdSRBOx) | [When Rivers Meet](https://open.spotify.com/artist/3r4hYfzQA1yuQFEKMDJzJi) | [Break Free](https://open.spotify.com/album/4nEu0JLNGGAq3Sf0Bwo0hg) | 3:32 |
+| 5 | [Keep On Running](https://open.spotify.com/track/0sh3WNOdK56aUd7uUR8qTk) | [Cardinal Black](https://open.spotify.com/artist/39oKFGoKzTEZlc8PMP7kQ3) | [Keep On Running](https://open.spotify.com/album/59kaQqnsanvIhkcIAehVLz) | 3:02 |
 | 6 | [Praise the Loud](https://open.spotify.com/track/3lrqVA7TJpBWHruDdOQ9B0) | [Anthony Gomes](https://open.spotify.com/artist/0aBEiafPqEJ3o0yp6gFsHg) | [Praise the Loud](https://open.spotify.com/album/1lJmntiizHQcAyQi3y4bfW) | 3:32 |
 | 7 | [Little More Rope](https://open.spotify.com/track/0wqXrS4GJ7ZK1n4MYPiI63) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Little More Rope](https://open.spotify.com/album/6IxOUgY9J3IWg7qPXXWsm8) | 2:51 |
 | 8 | [Hell Of A Good Time](https://open.spotify.com/track/2RqZuqdOJ0FzEQ6Y3a6yJ1) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Hell Of A Good Time](https://open.spotify.com/album/1LoEvdKPBmDoDDKv8ot4G3) | 4:07 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 149 | [Them Shoes](https://open.spotify.com/track/4WeeCdOInoH5HyO8xcxiAt) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Every Hour Is A Dollar Gone](https://open.spotify.com/album/6sgZ7yq8F0HZ1xmdgQrcJP) | 5:48 |
 | 150 | [Light Up The Sky](https://open.spotify.com/track/4EwICCST3U0KB6DwrK1L8Y) | [Apollo Junction](https://open.spotify.com/artist/0AzjiMoCvzOmUCPX7944dZ) | [Light Up The Sky](https://open.spotify.com/album/2STOuaYMyZWYtJIxCHm2lO) | 3:24 |
 
-Snapshot ID: `Z+Ye3wAAAADfwgcLaiBldGtRq/SMg2Qe`
+Snapshot ID: `Z+9ZTQAAAAAqLpwZxNPbmJzBeX/3ftP6`

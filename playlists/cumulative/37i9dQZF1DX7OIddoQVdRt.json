@@ -285,6 +285,24 @@
     },
     {
       "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/2cSLZPsMDTB6fpYTlnS3AY"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188029,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/0wMYjUmXR2psuSRvPjvMfe"
+    },
+    {
+      "album": {
         "name": "Any Attack",
         "url": "https://open.spotify.com/album/4ExHApgVElRUkAatEQYFgg"
       },
@@ -777,6 +795,36 @@
     },
     {
       "album": {
+        "name": "Time Capsule - The Trilogy",
+        "url": "https://open.spotify.com/album/2jnCtWe4Ipkj61hdRHjPiR"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        },
+        {
+          "name": "Keith Staten",
+          "url": "https://open.spotify.com/artist/1p94IpPWGRqcNsAmzCtnWe"
+        },
+        {
+          "name": "Marcus Cole",
+          "url": "https://open.spotify.com/artist/2bijKkJaOp4tSJASryiJNB"
+        },
+        {
+          "name": "FK&M",
+          "url": "https://open.spotify.com/artist/0QEY4d9rhrxTR8nMdudJ0y"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310828,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/3UzUPfnjM906tmFSegZBOA"
+    },
+    {
+      "album": {
         "name": "All My Best To You",
         "url": "https://open.spotify.com/album/2y5a73laD429H5BEtEnLIy"
       },
@@ -858,6 +906,24 @@
       "duration_ms": 265173,
       "name": "Close (Radio Edit)",
       "url": "https://open.spotify.com/track/6iPPdmzeNwINawWBp1Lukp"
+    },
+    {
+      "album": {
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298050,
+      "name": "Come Jesus Come",
+      "url": "https://open.spotify.com/track/2uiIrAQPYE0zIuki6esRkg"
     },
     {
       "album": {
@@ -971,6 +1037,36 @@
     },
     {
       "album": {
+        "name": "Constant",
+        "url": "https://open.spotify.com/album/318IRWz7xJ0zZXfo1A89Mu"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        },
+        {
+          "name": "Anthony Gargiula",
+          "url": "https://open.spotify.com/artist/1UMf29qpHkgsJWD2uCMSEI"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292185,
+      "name": "Constant (feat. Chandler Moore)",
+      "url": "https://open.spotify.com/track/0HqXI3iDAaABXnjjzxH44M"
+    },
+    {
+      "album": {
         "name": "Jesus Is Born",
         "url": "https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6"
       },
@@ -1004,6 +1100,24 @@
       "duration_ms": 187789,
       "name": "Dance",
       "url": "https://open.spotify.com/track/3bJGae8rklq4LMAjXtBE1u"
+    },
+    {
+      "album": {
+        "name": "Live Breathe Fight",
+        "url": "https://open.spotify.com/album/1dXJkxzfNm889xH7VTHUOT"
+      },
+      "artists": [
+        {
+          "name": "Tamela Mann",
+          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262291,
+      "name": "Deserve To Win",
+      "url": "https://open.spotify.com/track/5ilxhQWaLCTgQ109JKacW8"
     },
     {
       "album": {
@@ -1138,7 +1252,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 278460,
       "name": "Famous For (I Believe) [Sunday A.M. Version]",
       "url": "https://open.spotify.com/track/3O1OvEm2Kho4oEAMnnLXaP"
@@ -1864,7 +1978,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 297653,
       "name": "I Got Out",
       "url": "https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk"
@@ -2178,7 +2292,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 233766,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/7vqC1Vkr5f9a7CylkjUkPW"
@@ -3744,7 +3858,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 249069,
       "name": "Promises - Radio Version",
       "url": "https://open.spotify.com/track/4uEgHHcmkiHaEq4oXm1r8g"
@@ -3914,7 +4028,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 260842,
       "name": "Send It Down",
       "url": "https://open.spotify.com/track/5tVIywhdtlrN5UOI5kJVFY"
@@ -4185,6 +4299,32 @@
     },
     {
       "album": {
+        "name": "MAVHOUSE",
+        "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Song House",
+          "url": "https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf"
+        },
+        {
+          "name": "Mara Justine",
+          "url": "https://open.spotify.com/artist/52jBs6QQRZr8FNQLxiifBw"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232093,
+      "name": "Stand Still",
+      "url": "https://open.spotify.com/track/0Wa2ws6YA9IWWLPbyF1jRF"
+    },
+    {
+      "album": {
         "name": "The Essential Yolanda Adams",
         "url": "https://open.spotify.com/album/4sOJp2pBThvDJWECcO82wr"
       },
@@ -4272,7 +4412,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 287573,
       "name": "Take Me to the King (feat. Kirk Franklin)",
       "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"

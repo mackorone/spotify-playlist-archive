@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Miley Cyrus
 
-931 songs - 1 day 22 hr 51 min
+934 songs - 1 day 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Childlike Things](https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 2:30 | 2025-01-23 | 2025-02-14 |
 | [choking on my words](https://open.spotify.com/track/6F6TCDUf7yQ8cnOJa5H3WC) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [choking on my words](https://open.spotify.com/album/5gFH7Vd8UUchDbCNOvkA9M) | 4:06 | 2025-02-13 | 2025-03-14 |
 | [Chop Suey](https://open.spotify.com/track/4JSF3D1xBmXQ9sM9KS4qXW) | [VILLFORTH](https://open.spotify.com/artist/5zZFUqzTf5EItusaDuzmXG) | [Chop Suey](https://open.spotify.com/album/7pcwiy7nodGfbtALYEp1ug) | 2:42 | 2025-02-27 | 2025-03-21 |
+| [Church in the Morning](https://open.spotify.com/track/3xSRAS1Phe2NuC6xq7IS9V) | [Jack Dean](https://open.spotify.com/artist/4Qqd73y2C4EJsGkM1HfElZ) | [Church in the Morning](https://open.spotify.com/album/3JGjyCYhWBO9aVnUBdrDUE) | 2:38 | 2025-04-04 |  |
 | [CLASSICO](https://open.spotify.com/track/2kxFdDHh6BM0892RzpvA7u) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [CLASSICO](https://open.spotify.com/album/1uJhaFnc580OWUORK9HJpG) | 3:01 | 2024-06-28 | 2024-07-19 |
 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-06-28 | 2024-07-05 |
 | [Clothes Off](https://open.spotify.com/track/338b5ZgLjuLr5S9Qk5bKrZ) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [Clothes Off](https://open.spotify.com/album/5aN07Khrurpekp7Ur0Akma) | 3:08 | 2025-02-27 | 2025-03-28 |
@@ -417,6 +418,7 @@
 | [I Don't Wanna Be Your Friend](https://open.spotify.com/track/4pm0aua4dtI2ZdV5XOmZaK) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [I Don't Wanna Be Your Friend](https://open.spotify.com/album/7aGvVD9xgyzShJyIUoOE9Y) | 3:10 | 2024-08-22 | 2024-09-20 |
 | [I Don't Wanna Go Downtown](https://open.spotify.com/track/7tnvzuwBCzMcSqYlLgOyRU) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:13 | 2024-08-22 | 2024-09-20 |
 | [I Don't Wanna Know](https://open.spotify.com/track/7xU8n2EtWKtWFD9tJ9KApV) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Never Give Up](https://open.spotify.com/album/6EE0Hx3aBQOVm29SxTPZ6h) | 3:27 | 2025-02-27 | 2025-03-28 |
+| [i don’t know](https://open.spotify.com/track/1MZTlZNS0GraKJ8EpIkqb7) | [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [i don’t know](https://open.spotify.com/album/0cdUGguCYuLTgkY2f2K2Qw) | 3:52 | 2025-04-04 |  |
 | [I Give Up I Love You](https://open.spotify.com/track/78iPQpg1w2gtjgV4CYdknl) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:10 | 2024-09-12 | 2024-09-14 |
 | [I Give Up I Love You](https://open.spotify.com/track/1sNrEwP2DkCi3eUCYyBuyY) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv), [Aamor](https://open.spotify.com/artist/6d3iU65scdjVgRQqkgcNog) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:45 | 2024-09-13 | 2024-10-11 |
 | [i hate texas](https://open.spotify.com/track/6xEE80nW1NgNC2p04n4in5) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [i hate texas](https://open.spotify.com/album/4rPQF5Ujx6eTRGDrIfRl55) | 3:38 | 2024-07-25 | 2024-08-09 |
@@ -514,6 +516,7 @@
 | [Look Mom I Can Fly](https://open.spotify.com/track/1yMwQ6ELSs25SrByyhrUP4) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Look Mom I Can Fly](https://open.spotify.com/album/0o3f7b60eTbTl45rnpXSO8) | 2:39 | 2024-10-03 | 2024-11-01 |
 | [Look Who's Laughing Now](https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Look Who's Laughing Now](https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3) | 2:54 | 2024-06-28 | 2024-07-12 |
 | [Looking For Love](https://open.spotify.com/track/2gol2X0eHr9XHvQLOi7fGS) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Looking For Love](https://open.spotify.com/album/48FCnfSreWk0y3jyyZjdx1) | 2:53 | 2024-11-14 | 2024-12-13 |
+| [Loose](https://open.spotify.com/track/3YNjvUXgfQznx5IZHAXk6i) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Loose](https://open.spotify.com/album/2XCAFhzTvaqKFJogtaJnz1) | 3:30 | 2025-04-04 |  |
 | [Lose A You](https://open.spotify.com/track/4MnwCK9oVKd5tFAS650iV2) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Lose A You](https://open.spotify.com/album/2DZhu7U1X56ajbmvwUb1on) | 3:09 | 2025-01-30 | 2025-02-28 |
 | [Lose Me Like You Mean It](https://open.spotify.com/track/2UzVHw7DgzRhI9o9fvEN6K) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Second Wind](https://open.spotify.com/album/78ukESSuIkLhGjuQhvw0Nc) | 2:59 | 2025-03-06 | 2025-04-04 |
 | [Losing My Mind](https://open.spotify.com/track/3dB12m9FLxV7ezUR7QTas7) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Losing My Mind](https://open.spotify.com/album/7nVYW5nmxvdUsKdGwIdmdH) | 3:10 | 2024-11-21 | 2024-12-20 |

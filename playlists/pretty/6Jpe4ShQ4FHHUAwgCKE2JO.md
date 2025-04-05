@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Jpe4ShQ4FHHUAwgCKE2JO.md) - [plain]
 
 > This country is a corpse
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 41 songs - 2 hr 27 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 43 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,5 +49,7 @@ pretty - [cumulative](/playlists/cumulative/6Jpe4ShQ4FHHUAwgCKE2JO.md) - [plain]
 | 39 | [Anthem for the Already Defeated](https://open.spotify.com/track/5mvG9uj8mlEPXFusmL6Eao) | [Rock Plaza Central](https://open.spotify.com/artist/1OF6zyNhS4xvco0DrqdGeI) | [Are We Not Horses](https://open.spotify.com/album/3Q8anuFp8uF1ubPlP7H4ue) | 2:03 |
 | 40 | [Comin' Home](https://open.spotify.com/track/0aK0NO0XEApqsssSfmV88H) | [Murder By Death](https://open.spotify.com/artist/3yrQJxTTj7xS2deLcXiEM3) | [Red of Tooth and Claw](https://open.spotify.com/album/3H78W1uHinGlB6Kprp2OzK) | 3:35 |
 | 41 | [Popular 2](https://open.spotify.com/track/5zAwyMgaYGiFFFAVc4wWri) | [Cheekface](https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW) | [It's Sorted](https://open.spotify.com/album/3wccolEvxrZatyfmcvfrgH) | 3:08 |
+| 42 | [Trapped](https://open.spotify.com/track/6DT5d8o7ojxXs1dKwLXRRp) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [The Best of 2Pac](https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I) | 4:44 |
+| 43 | [Changes](https://open.spotify.com/track/00i2HU7TEzzftShjRrDSEF) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Talent](https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T) | [The Best of 2Pac](https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I) | 4:28 |
 
-Snapshot ID: `AAAAOYhYeILn496rXBWbRe2zJ3iX1vkx`
+Snapshot ID: `AAAAO1AJZzdZjGaz6tQKrTcHOIx2gy1n`

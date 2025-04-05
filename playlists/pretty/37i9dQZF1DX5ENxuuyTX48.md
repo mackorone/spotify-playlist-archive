@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,641 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,642 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 41 | [Kumpul Bocah \(Original Soundtrack From “JUMBO"\)](https://open.spotify.com/track/0V6nKCvWMIXgsvyiSyiLPT) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Kumpul Bocah \(Original Soundtrack From “JUMBO"\)](https://open.spotify.com/album/23qxIsMBrP5jSrF66At2dt) | 4:15 |
 | 42 | [Tangisan Seorang Pendosa](https://open.spotify.com/track/7CIwjDQLUz20LlX8gf59LZ) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Tangisan Seorang Pendosa](https://open.spotify.com/album/5uPak5uMBZwQCO5N4zN4Ud) | 3:31 |
 | 43 | [Tenang](https://open.spotify.com/track/7lr82r1RMJudgcKQ8y7H9K) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 4:07 |
-| 44 | [Allah Ya Maulana](https://open.spotify.com/track/3FtaWA7t5LMUdMKb0DGjTm) | [Opick](https://open.spotify.com/artist/5KN9rEUWrzshrf0FU2n3Iz) | [Allah Ya Maulana](https://open.spotify.com/album/2AeQw3LRLJsTYHtxKJBcEi) | 3:59 |
-| 45 | [Masa Depan](https://open.spotify.com/track/6ZWRvS1VpmqA2ap3bMI4dY) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [Masa Depan](https://open.spotify.com/album/649hYz14PcCd78FLTC84mb) | 3:47 |
+| 44 | [Masa Depan](https://open.spotify.com/track/6ZWRvS1VpmqA2ap3bMI4dY) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [Masa Depan](https://open.spotify.com/album/649hYz14PcCd78FLTC84mb) | 3:47 |
+| 45 | [Allah Ya Maulana](https://open.spotify.com/track/3FtaWA7t5LMUdMKb0DGjTm) | [Opick](https://open.spotify.com/artist/5KN9rEUWrzshrf0FU2n3Iz) | [Allah Ya Maulana](https://open.spotify.com/album/2AeQw3LRLJsTYHtxKJBcEi) | 3:59 |
 | 46 | [Forgive Me \(Marhaban Ya Ramadhan\)](https://open.spotify.com/track/4XS9LuFJPDVtMhRcusypFa) | [Wali](https://open.spotify.com/artist/5pnSNZZRyYViu2n58Zlw1J), [Mostafa Atef](https://open.spotify.com/artist/41qKm0lqT9phMXjU5ksLxN) | [Forgive Me \(Marhaban Ya Ramadhan\)](https://open.spotify.com/album/0olFjxKrvkZZRdTjxSrlfO) | 3:44 |
 | 47 | [Mengejar Matahari](https://open.spotify.com/track/55LpgW7AiFypgySkJIt78v) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Mengejar Matahari](https://open.spotify.com/album/7ELAkZsswJqe8siFBoHh6U) | 4:07 |
-| 48 | [Akhirnya](https://open.spotify.com/track/6U4SJCcwA4RhcmyxKfgvWf) | [Gigi](https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf) | [Raihlah Kemenangan?](https://open.spotify.com/album/0xVo1nzVc8Uhwaz2q4mbkp) | 4:23 |
+| 48 | [Jom Raya](https://open.spotify.com/track/1yT4svUG02wQSgxpB1c5yZ) | [Daiyan Trisha](https://open.spotify.com/artist/7xegqEOtukVFMdHyWnYkta), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [Jom Raya](https://open.spotify.com/album/6fGUJAzJUy6KcU8Reu5gHf) | 2:39 |
 | 49 | [Bulan Baik](https://open.spotify.com/track/1YyTd4LV23xFDhL0Aaktft) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Bulan Baik](https://open.spotify.com/album/7HRkyGZQHPxezmVVfzUuIu) | 3:28 |
-| 50 | [Sahabat](https://open.spotify.com/track/1Akc1GcXsLGa8SLSJw4zUU) | [Najwa Latif](https://open.spotify.com/artist/5uuA00QFo3PFnc16RVZwwt) | [Sahabat \- Single](https://open.spotify.com/album/65fwfs24nGOQu5YGh4SSzz) | 3:08 |
+| 50 | [Akhirnya](https://open.spotify.com/track/6U4SJCcwA4RhcmyxKfgvWf) | [Gigi](https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf) | [Raihlah Kemenangan?](https://open.spotify.com/album/0xVo1nzVc8Uhwaz2q4mbkp) | 4:23 |
 
 Snapshot ID: `Z8phsQAAAADv+60675S4IevtSl2FDy/o`

@@ -3837,6 +3837,24 @@
     },
     {
       "album": {
+        "name": "Quiet Beginning",
+        "url": "https://open.spotify.com/album/1ndrUSDw5h0uxyY2mlHEUN"
+      },
+      "artists": [
+        {
+          "name": "Duke Wolverine",
+          "url": "https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164879,
+      "name": "Quiet Beginning",
+      "url": "https://open.spotify.com/track/12UkgnkfHjLOI9amTjZwne"
+    },
+    {
+      "album": {
         "name": "Regarde La Danser",
         "url": "https://open.spotify.com/album/5WoHF3s6Dc8ha98Yhxj7Nx"
       },
@@ -5488,7 +5506,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 147000,
       "name": "Upperwest",
       "url": "https://open.spotify.com/track/5AeDDsA6v08alqeIc7cVRG"

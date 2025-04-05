@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Rangga Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,010 likes - 114 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,009 likes - 114 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 | 50 | [两个人间](https://open.spotify.com/track/4pzwG3f02ev0Xa0JaH5vNR) | [Joi Chua](https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg), [林倛玉](https://open.spotify.com/artist/6cPF6mU1FzLcLeWG7XlxbN) | [两个人间](https://open.spotify.com/album/2DEBsE9EeyggSCzxqhgrGO) | 5:00 |
 | 51 | [Forever This Time](https://open.spotify.com/track/6XO5EZIVntcbyWtczJjCC2) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Forever This Time](https://open.spotify.com/album/12Rm5vje8CH4J0iR3io2L8) | 4:05 |
 | 52 | [没有你的世界](https://open.spotify.com/track/3gHLj2awb6Rox8j1nLfH8d) | [Glenn Yong](https://open.spotify.com/artist/30OV13xhfDuLD5dIMT3GNA) | [没有你的世界](https://open.spotify.com/album/5x9AqyFLaMTIQvBNXjgk8h) | 4:39 |
-| 53 | [Everyone Is A Star](https://open.spotify.com/track/2Y4NPJsVqio0RbwrTgP8M1) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf), [Nathan Hartono](https://open.spotify.com/artist/6n8yGGsqYQhvH412YUbBsd), [Aynsley Green](https://open.spotify.com/artist/2teRNHFxjo16CxTFumSLUJ) | [Everyone Is A Star](https://open.spotify.com/album/2gzTl3JjZFItiDev6waV9i) | 3:06 |
+| 53 | [Everyone Is A Star](https://open.spotify.com/track/2Y4NPJsVqio0RbwrTgP8M1) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf), [Nathan Hartono](https://open.spotify.com/artist/6n8yGGsqYQhvH412YUbBsd), [Aynsley Green](https://open.spotify.com/artist/5mX6xLNKwP4oVmfB4siTWC) | [Everyone Is A Star](https://open.spotify.com/album/2gzTl3JjZFItiDev6waV9i) | 3:06 |
 | 54 | [Rose Tinted Eyes](https://open.spotify.com/track/76fmIfIURZyrGgdq2qGmm8) | [Half Open Tales](https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO) | [Rose Tinted Eyes](https://open.spotify.com/album/6Vfc9B57eWm1cfzCijhMhI) | 2:47 |
 | 55 | [i think that i like you](https://open.spotify.com/track/2DvFx0zTn79XNfhiB0LL4e) | [Yang Yan](https://open.spotify.com/artist/7HKs6UPi2L4pxVHDDCuGWr) | [i think that i like you](https://open.spotify.com/album/4WXhaQhiQzdgh7JrsKoAXD) | 2:55 |
 | 56 | [Shades Of You](https://open.spotify.com/track/1wDDhZ2B0rUqmu56P3s5az) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf), [Heema Izzati](https://open.spotify.com/artist/1ESHrcgAjNtv4Lkx08ZKOz), [Thaarmin](https://open.spotify.com/artist/0lRxUCo7z1wCnL9EA9HXu5) | [Shades Of You](https://open.spotify.com/album/0EE4poZszOnuXTcX0UoQgu) | 2:22 |

@@ -2,9 +2,9 @@
 
 ### [Québécois Contemporain](https://open.spotify.com/playlist/37i9dQZF1DX8X9gjW0N3D7)
 
-> De la musique québécoise pour tous les goûts\. Photo: Ariane Moffatt
+> De la musique québécoise pour tous les goûts\. Photo: Garou
 
-149 songs - 8 hr 1 min
+150 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Le grand défi](https://open.spotify.com/track/3ec6Motizvu2yJ6jrE6Bxc) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [L'Île](https://open.spotify.com/album/2iIdujFNCekpvcm8AwJkfy) | 3:04 | 2024-06-28 |  |
 | [Le monde est fou](https://open.spotify.com/track/6vOi7yWHX7Qy9Eunm8ATOa) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Le monde est fou](https://open.spotify.com/album/5zw2EYeEDWW53kmmksiAM6) | 4:04 | 2024-06-28 | 2024-08-31 |
 | [Le poids](https://open.spotify.com/track/2q52DuDG1eGxriSt0wggM2) | [Jeanne Côté](https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7) | [Le poids](https://open.spotify.com/album/2UBIOGwKcj4bs8yoMla62U) | 3:14 | 2024-11-15 | 2025-01-25 |
-| [Le reste du temps](https://open.spotify.com/track/3W5N7Yzq14iQ3Zxy1gJPM7) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB) | [Le reste du temps](https://open.spotify.com/album/6mQG6GKJVdB70oYwl60Yzw) | 3:28 | 2024-06-28 |  |
+| [Le reste du temps](https://open.spotify.com/track/3W5N7Yzq14iQ3Zxy1gJPM7) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB) | [Le reste du temps](https://open.spotify.com/album/6mQG6GKJVdB70oYwl60Yzw) | 3:28 | 2024-06-28 | 2025-04-05 |
 | [Le Roy, la Rose et le Lou\[p\] \- Chanson thème](https://open.spotify.com/track/6SOvfUrHfJZz4GXsJPeIkV) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Le Roy, la Rose et le Lou\[p\] \(Chanson thème\)](https://open.spotify.com/album/15whtpDeiswR48UotutzI4) | 2:23 | 2024-06-28 | 2024-09-28 |
 | [Le secret](https://open.spotify.com/track/1iLTV03L1kSo2M5AN0z3BE) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Le secret](https://open.spotify.com/album/2pkqJCNYaXmJdHNOKN66Zq) | 3:05 | 2024-09-20 | 2024-10-19 |
 | [Le stade](https://open.spotify.com/track/4CLliCkjzI04eoHKXMI68H) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Demain il fera beau](https://open.spotify.com/album/74gQAViAPXnavitK5BTOmv) | 2:23 | 2024-06-28 |  |
@@ -132,6 +132,7 @@
 | [Si tu demandais](https://open.spotify.com/track/5LFJRjiD32OZbLnaMSWWpj) | [Renzo Rivolta](https://open.spotify.com/artist/41i5fl8UQOdY5ZIJtYPh4O) | [Tour de force](https://open.spotify.com/album/7FZTXjf8KGLUZTdHA5PE90) | 4:20 | 2025-01-24 |  |
 | [Sous terre](https://open.spotify.com/track/78DTEJgFp4ZqEd3WiLm5E0) | [Matt Moln](https://open.spotify.com/artist/7ANHFWaXJtG963OePSX29C) | [Sous terre](https://open.spotify.com/album/4FZAZueu52fRQLMZfbJPtO) | 3:21 | 2024-06-28 | 2024-08-24 |
 | [St\. Denis](https://open.spotify.com/track/6ISDvrYhDFXJfvG4uk4b1n) | [Ponteix](https://open.spotify.com/artist/1v0LRrF0AKvsTKrzNqVTEl), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [St\. Denis](https://open.spotify.com/album/4xUWVo4dSPdGxnH2pe1joh) | 3:56 | 2024-06-28 | 2025-01-25 |
+| [Sur un malentendu](https://open.spotify.com/track/5PpylbXynoQyfKFapgYNEO) | [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn) | [Un meilleur lendemain](https://open.spotify.com/album/1kHPOUVWaVZVbGmvZH5hfu) | 3:47 | 2025-04-04 |  |
 | [T'aimer est une galère](https://open.spotify.com/track/5y07ot6zuGcCV3KxiAHeLg) | [Molière l'opéra urbain](https://open.spotify.com/artist/7eFL3K5giCsAHXus03F7Cd), [PETiTOM](https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv) | [Molière, le spectacle musical](https://open.spotify.com/album/5Aq14FvD0eZy5KIlLtsv0k) | 2:43 | 2024-06-28 | 2024-10-26 |
 | [T'étais où?](https://open.spotify.com/track/4XeX8X5VtMMevrWaiKqEzq) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [T'étais où?](https://open.spotify.com/album/3jpSPJWhOLagabhCI7h2C5) | 2:45 | 2024-08-16 |  |
 | [Ta bouche](https://open.spotify.com/track/5pGcX4EhocWxqwVw1QR8RY) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS) | [Ta bouche](https://open.spotify.com/album/33TW5PYMySDjISn4HDpbbE) | 2:43 | 2024-07-19 | 2025-01-18 |

@@ -2,9 +2,9 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: Rymz, White\-B
+> Le meilleur du hip\-hop québécois\. Photo: Shreez
 
-791 songs - 1 day 16 hr 21 min
+792 songs - 1 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Capuché](https://open.spotify.com/track/6ZEU7NkiRoW2olcUGs5vxI) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [Capuché](https://open.spotify.com/album/7Khak6hXE74lb7Cc7L2yQO) | 3:06 | 2022-01-07 | 2022-03-18 |
 | [Cartel Sinaloa](https://open.spotify.com/track/02vYOuNdVqcMl8TKqqcWAh) | [Jeekay](https://open.spotify.com/artist/38POyyW13rAIhFtElJXFwJ), [Kaneki](https://open.spotify.com/artist/6y9D9asiDbnfHSZETC6pkZ) | [Cartel Sinaloa](https://open.spotify.com/album/22WiHEhT42gskWp2iY8X76) | 3:12 | 2024-10-25 |  |
 | [Casamigos](https://open.spotify.com/track/1NstWz5T8H0pqFDStJ43kI) | [PCL](https://open.spotify.com/artist/2cvJjcIAUzPDKRFEUL4WBg) | [Casamigos](https://open.spotify.com/album/4V7dO3foBj5MgHfx11GFc9) | 3:09 | 2024-01-26 | 2024-11-16 |
+| [CASAMIGOS 2X](https://open.spotify.com/track/2MQD2LqAPlmZShAxXtjAHl) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [ON FRAP II](https://open.spotify.com/album/6ZbWyoybaFIyffQYnvxQNZ) | 3:26 | 2025-04-04 |  |
 | [CATCH LACKIN](https://open.spotify.com/track/6fAbhytzLIl2aUc3s1JrxR) | [Nawfal](https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr) | [CATCH LACKIN](https://open.spotify.com/album/2tIMAhiJvYPi61JPOKWWIJ) | 2:47 | 2022-03-18 | 2022-07-23 |
 | [CC](https://open.spotify.com/track/2TOexWkJa99UYe6BdbxsjU) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [CC](https://open.spotify.com/album/2mmmfA38Smu5e5OquI0Vjc) | 3:47 | 2022-12-16 | 2024-01-27 |
 | [Ce n'était pas voulu](https://open.spotify.com/track/27TaTa6MW6qf4Tsm85z4m3) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Ce n'était pas voulu](https://open.spotify.com/album/2DV8WDyDYVTJCUtU9UeArE) | 4:06 | 2022-01-07 | 2022-04-23 |
@@ -474,7 +475,7 @@
 | [MICRODOSE](https://open.spotify.com/track/6ccLf6BQBxl863pP57yr3g) | [Whitie](https://open.spotify.com/artist/0i91b2mJ9VCTPDvBEmOTID) | [VITE!](https://open.spotify.com/album/7HsaVeXEfVsB6SAO3Nrcqj) | 2:09 | 2022-05-13 | 2022-07-23 |
 | [MIKE TANGO LIMA](https://open.spotify.com/track/38bvFbzotkGZLkBNi5LYD0) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [HÉRITAGE](https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K) | 2:24 | 2023-08-04 | 2023-09-30 |
 | [MILLIONS](https://open.spotify.com/track/6i41rtq4kG7KNhw7r07fV1) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [MILLIONS](https://open.spotify.com/album/3kA1BrEN312GfMQqt3kJG9) | 2:50 | 2025-01-31 | 2025-03-08 |
-| [MINIMUM](https://open.spotify.com/track/6iI22KVyY5EeixVUwt7nHB) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [MINIMUM](https://open.spotify.com/album/1wEUBXA2dKjrKAfBa7HlNF) | 3:16 | 2025-03-07 |  |
+| [MINIMUM](https://open.spotify.com/track/6iI22KVyY5EeixVUwt7nHB) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [MINIMUM](https://open.spotify.com/album/1wEUBXA2dKjrKAfBa7HlNF) | 3:16 | 2025-03-07 | 2025-04-05 |
 | [Mission Nocturne](https://open.spotify.com/track/7g1sKd5TXXMMVTaBlssG2U) | [Dextee](https://open.spotify.com/artist/2T0593JGcrLxhxTwHXaWiE) | [Mission Nocturne](https://open.spotify.com/album/3tKvDoCb5VgKj7lQZO50Bc) | 2:40 | 2023-04-28 | 2024-02-10 |
 | [Misunderstood](https://open.spotify.com/track/6uqdKP6QZIlAaVqyZP6krW) | [DARY](https://open.spotify.com/artist/7vfo5uAqkgpHfgTW2LmSPG) | [HAINE MOI](https://open.spotify.com/album/74rD7TMXbDIRygW8MiWbjD) | 3:48 | 2022-01-21 | 2022-07-02 |
 | [Mode Avion](https://open.spotify.com/track/2OwCPUafRzulE8CyB0WQMY) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Mode Avion](https://open.spotify.com/album/7oSVJPi9zgjRavK3z0xB4H) | 3:17 | 2023-05-12 | 2023-07-08 |

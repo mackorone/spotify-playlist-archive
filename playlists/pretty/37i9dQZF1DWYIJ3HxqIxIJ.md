@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > Local artists you need to watch, handpicked by our editors\. Cover: Larissa Lambert
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,497 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,500 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 16 | [Lose Control](https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Lose Control](https://open.spotify.com/album/3rsduxrdgM9tOXbdy3BByj) | 2:36 |
 | 17 | [Rescue Me](https://open.spotify.com/track/6layeClm9iQ1xOPYZ9zbJU) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Rescue Me](https://open.spotify.com/album/2xpvAnyCde4Q20Q193vfgR) | 2:47 |
 | 18 | [Beheadal](https://open.spotify.com/track/5bUoBZ7LG0A2L9FOsTDjBe) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Beheadal](https://open.spotify.com/album/0q4DKYyoEF0mFREOkPsmbt) | 1:58 |
-| 19 | [TUNDRA](https://open.spotify.com/track/1kX24LMs0Q1DxFpb10n6qr) | [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX) | [Vol.1 Learning In Public](https://open.spotify.com/album/5GIiOmeOFqnAFT9SiOes6H) | 3:19 |
+| 19 | [TUNDRA](https://open.spotify.com/track/1kX24LMs0Q1DxFpb10n6qr) | [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX), [Hylander](https://open.spotify.com/artist/00JuW5c5vm2ztgv54DRqF4) | [Vol.1 Learning In Public](https://open.spotify.com/album/5GIiOmeOFqnAFT9SiOes6H) | 3:19 |
 | 20 | [Stop Calling](https://open.spotify.com/track/2xLEDO5wt8DunoSq2lJSKK) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Stop Calling](https://open.spotify.com/album/0uvwr9erzNBwxjzqBSUz5Q) | 2:58 |
 | 21 | [Running Out](https://open.spotify.com/track/2k5IHV4mdDun3M4IgI8HTe) | [The Moving Stills](https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w) | [Running Out](https://open.spotify.com/album/4e4HuGGMBput0CxfwBUOoQ) | 3:09 |
 | 22 | [Let's Get Lost](https://open.spotify.com/track/0JT5EMlK5LsbqzgLo8zSfM) | [Lane Pittman](https://open.spotify.com/artist/4amB7X5ESMq5PB1ve3HmYZ) | [Lane Pittman](https://open.spotify.com/album/2v7F41pwlVNYT1FI4u5q7z) | 2:29 |

@@ -2935,6 +2935,24 @@
     },
     {
       "album": {
+        "name": "LAMBADA (AFRO)",
+        "url": "https://open.spotify.com/album/5RLP4moiJokfxZUsE0k3Xw"
+      },
+      "artists": [
+        {
+          "name": "Yas Cepeda",
+          "url": "https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223860,
+      "name": "LAMBADA (AFRO)",
+      "url": "https://open.spotify.com/track/46u1HHsZmzxCfZAmGiKCst"
+    },
+    {
+      "album": {
         "name": "Last Night",
         "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
       },
@@ -6470,7 +6488,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 248000,
       "name": "Yamore",
       "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"

@@ -1,6 +1,6 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: Bikini Kill",
-  "num_followers": 203228,
+  "num_followers": 203238,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,38 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Intractable",
+        "url": "https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J"
+      },
+      "artists": [
+        {
+          "name": "Gina Young",
+          "url": "https://open.spotify.com/artist/0U64coxrK2Wm5s2PmApkBn"
+        }
+      ],
+      "duration_ms": 124653,
+      "name": "So-Called Str8 Grrrl",
+      "url": "https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Undressed",
+        "url": "https://open.spotify.com/album/3FQM6XQYuV0CMKzs1jTTBF"
+      },
+      "artists": [
+        {
+          "name": "Pansy Division",
+          "url": "https://open.spotify.com/artist/5OyEfwMlXpCWU8dWVENGgm"
+        }
+      ],
+      "duration_ms": 124316,
+      "name": "Fem in a Black Leather Jacket",
+      "url": "https://open.spotify.com/track/7Gjze5dPQjujzoHGOQReWT"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "In Birth",
         "url": "https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV"
       },
@@ -407,38 +439,6 @@
       "duration_ms": 202293,
       "name": "She's so Lovely",
       "url": "https://open.spotify.com/track/4GP9tCJKmYD8maZqiFNdzp"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Undressed",
-        "url": "https://open.spotify.com/album/3FQM6XQYuV0CMKzs1jTTBF"
-      },
-      "artists": [
-        {
-          "name": "Pansy Division",
-          "url": "https://open.spotify.com/artist/5OyEfwMlXpCWU8dWVENGgm"
-        }
-      ],
-      "duration_ms": 124316,
-      "name": "Fem in a Black Leather Jacket",
-      "url": "https://open.spotify.com/track/7Gjze5dPQjujzoHGOQReWT"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Intractable",
-        "url": "https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J"
-      },
-      "artists": [
-        {
-          "name": "Gina Young",
-          "url": "https://open.spotify.com/artist/0U64coxrK2Wm5s2PmApkBn"
-        }
-      ],
-      "duration_ms": 124653,
-      "name": "So-Called Str8 Grrrl",
-      "url": "https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Congregation",
-        "url": "https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj"
-      },
-      "artists": [
-        {
-          "name": "Witch Fever",
-          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
-        }
-      ],
-      "duration_ms": 160185,
-      "name": "At The Core",
-      "url": "https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Free Bleedin'",
         "url": "https://open.spotify.com/album/20EOnbktQbZbkxOJGrqLmA"
       },
@@ -587,34 +571,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "What You Do for Love",
-        "url": "https://open.spotify.com/album/1Kze0IOJ5pCx2wsywkevwr"
+        "name": "Congregation",
+        "url": "https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj"
       },
       "artists": [
         {
-          "name": "Skunk Anansie",
-          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
+          "name": "Witch Fever",
+          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
         }
       ],
-      "duration_ms": 200934,
-      "name": "What You Do for Love",
-      "url": "https://open.spotify.com/track/0im1MaGNLes5Qo04udeQsD"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "They / Them",
-        "url": "https://open.spotify.com/album/32HrqcUhi9BlA5Y8bUcCZH"
-      },
-      "artists": [
-        {
-          "name": "Dream Nails",
-          "url": "https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB"
-        }
-      ],
-      "duration_ms": 137781,
-      "name": "They / Them",
-      "url": "https://open.spotify.com/track/1PuQlpFUY6GzQRfQuEQbPs"
+      "duration_ms": 160185,
+      "name": "At The Core",
+      "url": "https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -635,6 +603,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "They / Them",
+        "url": "https://open.spotify.com/album/32HrqcUhi9BlA5Y8bUcCZH"
+      },
+      "artists": [
+        {
+          "name": "Dream Nails",
+          "url": "https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB"
+        }
+      ],
+      "duration_ms": 137781,
+      "name": "They / Them",
+      "url": "https://open.spotify.com/track/1PuQlpFUY6GzQRfQuEQbPs"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Facades",
         "url": "https://open.spotify.com/album/2Aw4XGH7jkvd88jzbPSGjn"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 96051,
       "name": "Thick Skin",
       "url": "https://open.spotify.com/track/1rm8VLzeC2exuOdNltcooA"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "What You Do for Love",
+        "url": "https://open.spotify.com/album/1Kze0IOJ5pCx2wsywkevwr"
+      },
+      "artists": [
+        {
+          "name": "Skunk Anansie",
+          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
+        }
+      ],
+      "duration_ms": 200934,
+      "name": "What You Do for Love",
+      "url": "https://open.spotify.com/track/0im1MaGNLes5Qo04udeQsD"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Arnos Vale",
-        "url": "https://open.spotify.com/album/7KjTamXxcgfZ2gAmI24BQ5"
-      },
-      "artists": [
-        {
-          "name": "Personal Best",
-          "url": "https://open.spotify.com/artist/3yJdrYDYsEvC5Gu6FtNJ64"
-        }
-      ],
-      "duration_ms": 223889,
-      "name": "This Is What We Look Like",
-      "url": "https://open.spotify.com/track/3jcjcAPaXCmsTIs8R08Q2q"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Zombie Terrorist",
         "url": "https://open.spotify.com/album/1b8585sIYVvPbWpdW7Vms3"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 127773,
       "name": "Trophy Wifey",
       "url": "https://open.spotify.com/track/2sElL4pdDB9HReW1dCp6hH"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Arnos Vale",
+        "url": "https://open.spotify.com/album/7KjTamXxcgfZ2gAmI24BQ5"
+      },
+      "artists": [
+        {
+          "name": "Personal Best",
+          "url": "https://open.spotify.com/artist/3yJdrYDYsEvC5Gu6FtNJ64"
+        }
+      ],
+      "duration_ms": 223889,
+      "name": "This Is What We Look Like",
+      "url": "https://open.spotify.com/track/3jcjcAPaXCmsTIs8R08Q2q"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Girls With Glasses",
+        "url": "https://open.spotify.com/album/5X2W0yH4IF60WJRVV4pMGY"
+      },
+      "artists": [
+        {
+          "name": "Partyline",
+          "url": "https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA"
+        }
+      ],
+      "duration_ms": 129706,
+      "name": "Girls With Glasses",
+      "url": "https://open.spotify.com/track/1oJP3drbPbHRQAnsjrS9eq"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Miranda",
         "url": "https://open.spotify.com/album/7M5VeWYg64LLnKe5yvVDo2"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 128880,
       "name": "Queer For You",
       "url": "https://open.spotify.com/track/3wOIv5bly3SnBum3gLRsCa"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Girls With Glasses",
-        "url": "https://open.spotify.com/album/5X2W0yH4IF60WJRVV4pMGY"
-      },
-      "artists": [
-        {
-          "name": "Partyline",
-          "url": "https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA"
-        }
-      ],
-      "duration_ms": 129706,
-      "name": "Girls With Glasses",
-      "url": "https://open.spotify.com/track/1oJP3drbPbHRQAnsjrS9eq"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Every Now and Then",
-        "url": "https://open.spotify.com/album/1WXuhPXstAtp8SSSUOMYDt"
-      },
-      "artists": [
-        {
-          "name": "Wolf Girl",
-          "url": "https://open.spotify.com/artist/65fBgVWHUF13eh71KQQsxX"
-        }
-      ],
-      "duration_ms": 154618,
-      "name": "Dream Partner",
-      "url": "https://open.spotify.com/track/0vfeQ9IraM3uOTy4dOssi3"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Dream Nails",
         "url": "https://open.spotify.com/album/6QXxOZNDngKIYagFOLC9uc"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 159308,
       "name": "Jillian",
       "url": "https://open.spotify.com/track/0lhxZB33L7xpd0HzlpEyBa"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Every Now and Then",
+        "url": "https://open.spotify.com/album/1WXuhPXstAtp8SSSUOMYDt"
+      },
+      "artists": [
+        {
+          "name": "Wolf Girl",
+          "url": "https://open.spotify.com/artist/65fBgVWHUF13eh71KQQsxX"
+        }
+      ],
+      "duration_ms": 154618,
+      "name": "Dream Partner",
+      "url": "https://open.spotify.com/track/0vfeQ9IraM3uOTy4dOssi3"
     },
     {
       "added_at": "2024-05-22 11:00:00",

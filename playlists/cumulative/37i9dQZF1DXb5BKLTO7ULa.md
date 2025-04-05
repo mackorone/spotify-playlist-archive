@@ -4,7 +4,7 @@
 
 > Nieuwe muziek van: Ed Sheeran, Miley Cyrus, Sef, Joost & Donnie en meer...
 
-10,443 songs - 22 day 18 hr 5 min
+10,444 songs - 22 day 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2088,6 +2088,7 @@
 | [Dat Mag Niet](https://open.spotify.com/track/5qZk7oYOrqQupE0pOfoTNQ) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [Dat Mag Niet](https://open.spotify.com/album/0EsaDxNmD6dpRY5UKz4w2d) | 3:53 | 2023-07-20 | 2023-07-28 |
 | [Datediner](https://open.spotify.com/track/4IDU19J711XA1ls4M9QWsL) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc) | [Datediner](https://open.spotify.com/album/7sEuys399UPSZiYX88MPXk) | 2:25 | 2023-07-27 | 2023-08-04 |
 | [Dating The Devil](https://open.spotify.com/track/6Ke5dZvbqRmjTGCZEjFBqB) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Dating The Devil](https://open.spotify.com/album/6guX1X73FritPfc4b7Yi7d) | 3:00 | 2023-08-03 | 2023-08-11 |
+| [Daughters](https://open.spotify.com/track/0gkbSKHIteBnTaICk5olxg) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Daughters](https://open.spotify.com/album/47NyXXILF8gzdX8koVRirx) | 3:37 | 2025-04-04 |  |
 | [David Bowie/Beckham](https://open.spotify.com/track/78xe8bHyJfSz06dy1kQjvp) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [David Bowie/Beckham](https://open.spotify.com/album/3ZZsLyOcHWquAcRLmYYQPx) | 2:36 | 2025-01-09 | 2025-01-17 |
 | [David Byrne Does Hard Times](https://open.spotify.com/track/5LJ5YEEuLmD9bk9PEYiUFI) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [David Byrne Does Hard Times](https://open.spotify.com/album/1O2vvoFvP44PCOFdxLHzst) | 3:03 | 2024-04-19 | 2024-04-26 |
 | [Dawn \[ft\. esperanza spalding\]](https://open.spotify.com/track/26LFjnGEFsVB7J6iMecb1A) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Odyssey](https://open.spotify.com/album/1ZoZu4AeEVIKybGiGgOYdd) | 4:52 | 2024-09-19 | 2024-09-27 |
@@ -8540,9 +8541,9 @@
 | [Sure Enough](https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Sure Enough](https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u) | 2:51 | 2023-09-28 | 2023-10-06 |
 | [SURF](https://open.spotify.com/track/1HX7FHOdN0QhVNwb0rcinx) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [SURF](https://open.spotify.com/album/0rtdeE6nzUsxXlEi1v00rp) | 3:24 | 2025-02-06 | 2025-02-14 |
 | [Surfer Girl](https://open.spotify.com/track/4ELvOndRCnUIQunbipFinc) | [Starfish](https://open.spotify.com/artist/5tBfvKXmV1wEA0t52EjcyF) | [Surfer Girl](https://open.spotify.com/album/4cHEx7biImmgQJDZ7mUF8L) | 3:23 | 2024-05-09 | 2024-05-17 |
+| [Surrender](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Surrender](https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd) | 2:24 | 2025-04-03 |  |
 | [Surrender](https://open.spotify.com/track/6BxejeeCYTQSIb3itKRa38) | [Babet](https://open.spotify.com/artist/2Zx5UnYsOJTrLB7EerhsJh) | [Bury Me](https://open.spotify.com/album/7dvFrVyIjAXyWird28hYSm) | 2:43 | 2024-11-21 | 2024-11-29 |
 | [Surrender](https://open.spotify.com/track/32E8uwM57X19l3uBOEuTB2) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Surrender](https://open.spotify.com/album/0ll3Yf2B4alvZGWeydE3fT) | 2:27 | 2023-05-25 | 2023-06-02 |
-| [Surrender \(with Becky Hill\)](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Surrender \(with Becky Hill\)](https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd) | 2:24 | 2025-04-03 |  |
 | [Survivor](https://open.spotify.com/track/6km2lJaj6prmDlrPnYQPzH) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Survivor](https://open.spotify.com/album/1SZfmTvRqaMEK8xS2sLcU1) | 3:10 | 2024-01-25 | 2024-02-02 |
 | [Susanna](https://open.spotify.com/track/4L5Wbfmbmnq1b1PyVaraas) | [Nizzy](https://open.spotify.com/artist/49MZ2LfoETArTTAJPnQd4R), [WEF](https://open.spotify.com/artist/1dM4b6mWjcPqIoICG8DZBh) | [Susanna](https://open.spotify.com/album/7Bh6MXz1hLkKKQLhk3jK9o) | 3:03 | 2023-06-01 | 2023-06-09 |
 | [Suspended](https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 3:05 | 2023-10-20 | 2023-10-27 |

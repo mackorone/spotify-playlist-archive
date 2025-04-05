@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Djo
 
-1,518 songs - 3 day 16 hr 7 min
+1,520 songs - 3 day 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,6 +434,7 @@
 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-06-20 | 2024-08-09 |
 | [Fell First, Fell Hard](https://open.spotify.com/track/4uBqMCNpMiSYxfQxYPmdbB) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [love, k](https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x) | 3:03 | 2024-02-16 | 2024-03-15 |
 | [Fight Some More](https://open.spotify.com/track/4Ky9mJFd5mztZfcR6z9Ko0) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Hardcore Romance](https://open.spotify.com/album/4LvgUXgET9nwyO1wpRpR0Y) | 3:48 | 2024-08-22 | 2024-10-11 |
+| [Find Love](https://open.spotify.com/track/5xxYyxp5Rx0xu5YJ5vMPu5) | [Etham](https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Find Love](https://open.spotify.com/album/61LVXje36haNTn7BJdEI2t) | 3:36 | 2025-04-04 |  |
 | [Firasat Berbicara](https://open.spotify.com/track/6vJnVHRW3CJycI3ufWmU86) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Firasat Berbicara](https://open.spotify.com/album/53QtC3DsAS9dHNvtunOWaK) | 3:51 | 2024-10-31 | 2024-12-13 |
 | [Fire](https://open.spotify.com/track/3BrPNamOVSIICrC2Kz0TDi) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole](https://open.spotify.com/album/6B7J2anabeL3P2kKK6UsOJ) | 3:45 | 2025-02-13 | 2025-02-28 |
 | [Fire! \(feat\. YUQI \(\(G\)I\-DLE\), JVKE\)](https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Fire! \(feat\. YUQI \(\(G\)I\-DLE\), JVKE\)](https://open.spotify.com/album/5uI3nK40uWp8fRu9Cvk71w) | 2:03 | 2024-01-18 | 2024-02-17 |
@@ -776,6 +777,7 @@
 | [Long Showers](https://open.spotify.com/track/0qPzW9Iw83pOTlC8mgwxkT) | [BRIGHT](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt) | [Long Showers](https://open.spotify.com/album/1cRvi0fnHNZ1g29at4aDr5) | 3:27 | 2024-11-07 | 2024-12-13 |
 | [Long Way Home](https://open.spotify.com/track/6Fiyilx7ZTmLTi33qYEda5) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Long Way Home](https://open.spotify.com/album/05x5S13Wmke33NKzXIPEs4) | 3:05 | 2024-09-13 | 2024-10-04 |
 | [LOOK AT YOU](https://open.spotify.com/track/1UtJ8CX7dIU8fW5YDQ4ysE) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y) | [LOOK AT YOU](https://open.spotify.com/album/7zerDUBTCN5UA34S5iseca) | 0:51 | 2025-04-04 |  |
+| [Loose](https://open.spotify.com/track/3YNjvUXgfQznx5IZHAXk6i) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Loose](https://open.spotify.com/album/2XCAFhzTvaqKFJogtaJnz1) | 3:30 | 2025-04-04 |  |
 | [Lose My Breath \(Feat\. Charlie Puth\)](https://open.spotify.com/track/2DXavoWAmIHlrECHPM1Vca) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Lose My Breath \(Feat\. Charlie Puth\)](https://open.spotify.com/album/1HSW0KtusVmitWsZGhjaJB) | 2:46 | 2024-05-09 | 2024-06-14 |
 | [Lost In A Maze](https://open.spotify.com/track/6kvAnBR8HBGIG73ASyhF5Z) | [Incircle.](https://open.spotify.com/artist/6N1cdKDau7Es37PJzDcBiI) | [Lost In A Maze](https://open.spotify.com/album/60eBVoIjdn8xemWPWFSljj) | 5:28 | 2024-04-08 | 2024-05-10 |
 | [Lost Satellite](https://open.spotify.com/track/3xqu3XCgVWxLrxFu6kemsQ) | [Hanif Andarevi](https://open.spotify.com/artist/46jG6QBzEDi15k17UjJCQS) | [RECEIVER](https://open.spotify.com/album/3kxtHT2VcwsHiSbISsEahV) | 4:21 | 2024-09-27 | 2024-10-18 |

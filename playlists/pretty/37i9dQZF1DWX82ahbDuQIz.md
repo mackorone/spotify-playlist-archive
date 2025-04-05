@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 
 > Musical songs from Broadway, the West End and beyond\. Cover: SUNSET BLVD
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,259 likes - 80 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,296 likes - 80 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 | 41 | [Starlight Express](https://open.spotify.com/track/22TfVwyDaT37KPYalLPWgk) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Jeevan Braich](https://open.spotify.com/artist/6LopWizUGU7UICdQ7MEkGr) | [Starlight Express](https://open.spotify.com/album/4QUyvzfxm7Njf88dFYSrr9) | 3:30 |
 | 42 | [You Will Be Found](https://open.spotify.com/track/1H7Zqkq54andtaSSnLRrfp) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Kristolyn Lloyd](https://open.spotify.com/artist/31Rv7Yk0rBrYdQ0ELNZDaR), [Will Roland](https://open.spotify.com/artist/2FYB9zfwe2ayj4zfNeh466), [Laura Dreyfuss](https://open.spotify.com/artist/5hqM93qFRmwRv3QGrLO0jK), [Original Broadway Cast of Dear Evan Hansen](https://open.spotify.com/artist/5bi4lyuj5ZrayYKlibl9ij) | [Dear Evan Hansen \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0LhDyJXelg31FKLW5GDcKi) | 6:00 |
 | 43 | [Mama Who Bore Me \- Original Broadway Cast Recording/2006](https://open.spotify.com/track/1UhzqVtJMasLHAe2UnkMFK) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Spring Awakening \(Original Broadway Cast Recording\)](https://open.spotify.com/album/4wzRScAgwPd1iQh3HIegFs) | 2:20 |
-| 44 | [Don't Cry For Me Argentina](https://open.spotify.com/track/7mhxoW5aWHn5QiZqT4rS4S) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Original Evita Cast](https://open.spotify.com/artist/7r0Mc0nEZCwo3tLMahpcfn) | [Evita](https://open.spotify.com/album/6q7kvF1D7EFQFWDaoAxJMj) | 5:51 |
+| 44 | [Don't Cry For Me Argentina](https://open.spotify.com/track/7mhxoW5aWHn5QiZqT4rS4S) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [“Evita” 2006 London Cast](https://open.spotify.com/artist/6fXDhR9Gyg3TGnyxFe5ZGq) | [Evita](https://open.spotify.com/album/6q7kvF1D7EFQFWDaoAxJMj) | 5:51 |
 | 45 | [Omigod You Guys](https://open.spotify.com/track/2UNxP9jLuK0QkE8CK3x5vc) | [Legally Blonde Cast](https://open.spotify.com/artist/0bPaVOGlZ9vcoBJbGTVSVJ), [Legally Blonde](https://open.spotify.com/artist/14a5mllzGkiYhfrqVRzKty) | [Legally Blonde](https://open.spotify.com/album/15PeS1lN9gmoYmJMY60DxA) | 5:46 |
 | 46 | [Burn](https://open.spotify.com/track/4B3qvzOMzLQXLeYgPsG3KA) | [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 3:45 |
 | 47 | [Way Down Hadestown](https://open.spotify.com/track/5fnl0Tyeh4r5gPANdaVu61) | [Hadestown Original Broadway Company](https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Hadestown \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP) | 5:00 |

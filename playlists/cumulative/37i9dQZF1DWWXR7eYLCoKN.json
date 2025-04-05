@@ -1143,6 +1143,28 @@
     },
     {
       "album": {
+        "name": "Faz Parte Do Meu Show",
+        "url": "https://open.spotify.com/album/2fxjbevDgbE6a4QIg4slI3"
+      },
+      "artists": [
+        {
+          "name": "Gina Garcia",
+          "url": "https://open.spotify.com/artist/0fAZVlEXJBxtUOx84fw7gj"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161675,
+      "name": "Faz Parte Do Meu Show",
+      "url": "https://open.spotify.com/track/4cCwzNl97fBtpTCISj49AA"
+    },
+    {
+      "album": {
         "name": "O Pai Da Alegria",
         "url": "https://open.spotify.com/album/4yTMLxojFOA6BYEsQzvx1T"
       },
@@ -1230,6 +1252,32 @@
       "duration_ms": 133693,
       "name": "Folhas Secas",
       "url": "https://open.spotify.com/track/2m7hny9dJ4hnwMPpabhyD8"
+    },
+    {
+      "album": {
+        "name": "Sambabook Beth Carvalho",
+        "url": "https://open.spotify.com/album/6n2DZ90JnfaXLij3cqfLye"
+      },
+      "artists": [
+        {
+          "name": "Sambabook",
+          "url": "https://open.spotify.com/artist/2FW6Zt8gyIF7Fb7O3TGxnE"
+        },
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133442,
+      "name": "Folhas Secas",
+      "url": "https://open.spotify.com/track/3xjW13hgLwBdfPh0wEOPtD"
     },
     {
       "album": {
@@ -1368,7 +1416,7 @@
       },
       "artists": [
         {
-          "name": "Xande De Pilares",
+          "name": "Xande de Pilares",
           "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
         }
       ],
@@ -1620,7 +1668,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 233496,
       "name": "NASCENTE DA PAZ",
       "url": "https://open.spotify.com/track/6A0nMCXdLjWkwLxl5TtMmu"
@@ -2198,7 +2246,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 184617,
       "name": "Samba",
       "url": "https://open.spotify.com/track/3j1OvxNI3bH9tV1e49K17R"

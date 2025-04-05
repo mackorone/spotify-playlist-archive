@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/25eAhcwuxdBgOJmzbuttR0.md) - [plain]
 
 > I&\#x27;M ANGSTY!! I&\#x27;M ANGSTY
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 4 likes - 367 songs - 1 day 0 hr 54 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 4 likes - 371 songs - 1 day 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -375,5 +375,9 @@ pretty - [cumulative](/playlists/cumulative/25eAhcwuxdBgOJmzbuttR0.md) - [plain]
 | 365 | [Fata Morgana](https://open.spotify.com/track/14iSCO87Qveq9UXCtN48Vm) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:21 |
 | 366 | [MASCARA](https://open.spotify.com/track/4rLQ3SZZio1TKc9Hod7zMK) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Bunny Mimi](https://open.spotify.com/artist/09wXv9Adm9JViu28oyCC08), [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 3:52 |
 | 367 | [GRACE MY EYES](https://open.spotify.com/track/6eekhQ1JwiOdLfI9yupCvd) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 3:31 |
+| 368 | [Fight Fire With Fire \(Remastered\)](https://open.spotify.com/track/0WSRrGVg1gO33MKIBPgBV2) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe Remaster\)](https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr) | 4:44 |
+| 369 | [No Ordinary Love \- 2005 Remaster](https://open.spotify.com/track/7asm5RVOARNAXcAZP89VCQ) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Covers](https://open.spotify.com/album/7rLUzHOq0d0mRGGEIqKfli) | 5:30 |
+| 370 | [976\-EVIL](https://open.spotify.com/track/2YBzcZv2O6aaiKpcvKeNIp) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes \(Deluxe\)](https://open.spotify.com/album/4RQnFSkkZlA65Xxchhnaha) | 4:32 |
+| 371 | [A Little Bit Harder Now](https://open.spotify.com/track/5td7LYTivVH0MXXwin8QvE) | [She Wants Revenge](https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt) | [Up and Down](https://open.spotify.com/album/5vhJlo8GF4hfoFexjo3zZu) | 2:54 |
 
-Snapshot ID: `AAABd0HpUbbwTrdfgeNr5ZG8l3OgAod9`
+Snapshot ID: `AAABe4RjRMo/iq1Q+vGs7v3QEBMoRXZ4`

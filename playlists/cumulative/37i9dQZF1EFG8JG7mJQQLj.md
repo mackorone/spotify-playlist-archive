@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-546 songs - 1 day 7 hr 2 min
+547 songs - 1 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Life In Color](https://open.spotify.com/track/0lKsG4FoO1mfnkUR3SdKj4) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native \(Deluxe\)](https://open.spotify.com/album/7bWzSwx1PRiZjfjhaB8BjZ) | 3:22 | 2024-01-29 |  |
 | [Life To Come](https://open.spotify.com/track/6jMRqEHVRC3iamsSscJlbz) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 4:31 | 2024-01-29 |  |
 | [Life Without You \- Duett Version](https://open.spotify.com/track/0ALHsuOQMBBEfFa3uh1yOU) | [Stanfour](https://open.spotify.com/artist/0Ku9jFTJvPANO4LBOyJoWv), [Esmée Denters](https://open.spotify.com/artist/4ZfZ9troLXZsAVxcvXKXnV) | [Rise & Fall \(New Bonus Version\)](https://open.spotify.com/album/1Kj7AL4L0KFYIwytg0XLg8) | 4:03 | 2024-01-29 |  |
+| [Lifestyle](https://open.spotify.com/track/5cmP0BuMRba0q0pwN7eI6u) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 2:41 | 2025-04-04 |  |
 | [Lift Me Up](https://open.spotify.com/track/0x7oCog91UWqiYJQEee3uK) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:46 | 2024-01-29 |  |
 | [Light It Up](https://open.spotify.com/track/5pHICu0E2S5JytwgIXL4CS) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 4:10 | 2024-01-29 |  |
 | [Lobby](https://open.spotify.com/track/17UMDTqVeX3SqvgKr8kSmF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 2:37 | 2024-01-29 |  |

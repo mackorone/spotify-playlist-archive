@@ -1,6 +1,6 @@
 {
   "description": "catch a vibe \ud83c\udf39",
-  "num_followers": 68537,
+  "num_followers": 68536,
   "original_name": "crush",
   "owner": {
     "name": "Spotify",
@@ -497,22 +497,6 @@
       "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
     },
     {
-      "added_at": "2025-01-23 13:00:36",
-      "album": {
-        "name": "Fuck The Pain Away (Lost Tapes 2022)",
-        "url": "https://open.spotify.com/album/01F1U7aavzuTAo0Rdw0eeB"
-      },
-      "artists": [
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Fuck The Pain Away (Lost Tapes 2022)",
-      "url": "https://open.spotify.com/track/1qZUQIWMamlw2iONSC10tT"
-    },
-    {
       "added_at": "2024-12-20 20:54:00",
       "album": {
         "name": "TYLA",
@@ -527,6 +511,22 @@
       "duration_ms": 190392,
       "name": "Truth or Dare",
       "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
+    },
+    {
+      "added_at": "2025-01-23 13:00:36",
+      "album": {
+        "name": "Fuck The Pain Away (Lost Tapes 2022)",
+        "url": "https://open.spotify.com/album/01F1U7aavzuTAo0Rdw0eeB"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Fuck The Pain Away (Lost Tapes 2022)",
+      "url": "https://open.spotify.com/track/1qZUQIWMamlw2iONSC10tT"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
-        "name": "Gen Z Luv",
-        "url": "https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 153266,
-      "name": "Gen Z Luv",
-      "url": "https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK"
-    },
-    {
-      "added_at": "2024-12-20 20:54:00",
-      "album": {
         "name": "PARTYNEXTDOOR 4 (P4)",
         "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 219949,
       "name": "F o r C e r t a i n",
       "url": "https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi"
+    },
+    {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
+        "name": "Gen Z Luv",
+        "url": "https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 153266,
+      "name": "Gen Z Luv",
+      "url": "https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
+        "name": "Sorry I'm Late",
+        "url": "https://open.spotify.com/album/5RwiKT6WcqmEEPcV23yt4U"
+      },
+      "artists": [
+        {
+          "name": "JAY1",
+          "url": "https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi"
+        }
+      ],
+      "duration_ms": 177730,
+      "name": "Prettier",
+      "url": "https://open.spotify.com/track/6LhKOUggIjsl0P0xiFUAxd"
+    },
+    {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/5yir0QnXLpVD6RAgNYXTQ5"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 154285,
       "name": "For You",
       "url": "https://open.spotify.com/track/7tbNKCzFhCZANduSwaRYwf"
-    },
-    {
-      "added_at": "2024-12-20 20:54:00",
-      "album": {
-        "name": "Sorry I'm Late",
-        "url": "https://open.spotify.com/album/5RwiKT6WcqmEEPcV23yt4U"
-      },
-      "artists": [
-        {
-          "name": "JAY1",
-          "url": "https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi"
-        }
-      ],
-      "duration_ms": 177730,
-      "name": "Prettier",
-      "url": "https://open.spotify.com/track/6LhKOUggIjsl0P0xiFUAxd"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -1029,6 +1029,38 @@
       "url": "https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj"
     },
     {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
+        "name": "Just My Luck / Tomorrow Man",
+        "url": "https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 180332,
+      "name": "Just My Luck",
+      "url": "https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu"
+    },
+    {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
+        "name": "For You / Si Llorar\u00e1s",
+        "url": "https://open.spotify.com/album/76agE40iN5g6fh1rPi7lv2"
+      },
+      "artists": [
+        {
+          "name": "Thee Sinseers",
+          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "Si Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/5y9GhMhhR06Qelkvf9j7tC"
+    },
+    {
       "added_at": "2025-02-27 13:00:14",
       "album": {
         "name": "Sick (feat. 4batz)",
@@ -1049,22 +1081,6 @@
       "url": "https://open.spotify.com/track/3V8Cz6eVyTUCBWooVwNvR3"
     },
     {
-      "added_at": "2024-12-20 20:54:00",
-      "album": {
-        "name": "For You / Si Llorar\u00e1s",
-        "url": "https://open.spotify.com/album/76agE40iN5g6fh1rPi7lv2"
-      },
-      "artists": [
-        {
-          "name": "Thee Sinseers",
-          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "Si Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/5y9GhMhhR06Qelkvf9j7tC"
-    },
-    {
       "added_at": "2025-02-13 13:00:27",
       "album": {
         "name": "Cardio",
@@ -1081,20 +1097,20 @@
       "url": "https://open.spotify.com/track/4tT8aXyeAsrq8MA0VmsjfG"
     },
     {
-      "added_at": "2024-12-20 20:54:00",
+      "added_at": "2025-02-13 13:00:27",
       "album": {
-        "name": "Just My Luck / Tomorrow Man",
-        "url": "https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW"
+        "name": "On Your Own Love Again",
+        "url": "https://open.spotify.com/album/44iuWeTEtDDk9Ll3A7O8F2"
       },
       "artists": [
         {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
         }
       ],
-      "duration_ms": 180332,
-      "name": "Just My Luck",
-      "url": "https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu"
+      "duration_ms": 235666,
+      "name": "Back, Baby",
+      "url": "https://open.spotify.com/track/5Pm59vQU1KTcCkg4nZ3SZu"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -1115,38 +1131,6 @@
     {
       "added_at": "2025-02-13 13:00:27",
       "album": {
-        "name": "On Your Own Love Again",
-        "url": "https://open.spotify.com/album/44iuWeTEtDDk9Ll3A7O8F2"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "Back, Baby",
-      "url": "https://open.spotify.com/track/5Pm59vQU1KTcCkg4nZ3SZu"
-    },
-    {
-      "added_at": "2025-02-13 13:00:27",
-      "album": {
-        "name": "Londra",
-        "url": "https://open.spotify.com/album/6Ssr7Yu5SKeNYtAI0DoTiq"
-      },
-      "artists": [
-        {
-          "name": "Qendresa",
-          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "2 Much",
-      "url": "https://open.spotify.com/track/4iGf7FQ9COSPGJ1QwOyUaI"
-    },
-    {
-      "added_at": "2025-02-13 13:00:27",
-      "album": {
         "name": "The Lion King: The Gift",
         "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 162353,
       "name": "FIND YOUR WAY BACK",
       "url": "https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd"
+    },
+    {
+      "added_at": "2025-02-13 13:00:27",
+      "album": {
+        "name": "Midnight Request Line",
+        "url": "https://open.spotify.com/album/6EjS2SQlbFfvqL0MGVNHbD"
+      },
+      "artists": [
+        {
+          "name": "Qendresa",
+          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
+        }
+      ],
+      "duration_ms": 222773,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/3dSZcr7SWwFdOmY0r3Ryih"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -1253,22 +1253,6 @@
       "url": "https://open.spotify.com/track/7qRCVfjifWMt3q2MVfV8mV"
     },
     {
-      "added_at": "2025-02-13 13:00:27",
-      "album": {
-        "name": "Midnight Request Line",
-        "url": "https://open.spotify.com/album/6EjS2SQlbFfvqL0MGVNHbD"
-      },
-      "artists": [
-        {
-          "name": "Qendresa",
-          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
-        }
-      ],
-      "duration_ms": 222773,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/3dSZcr7SWwFdOmY0r3Ryih"
-    },
-    {
       "added_at": "2025-01-23 13:00:36",
       "album": {
         "name": "Care For You",
@@ -1285,24 +1269,20 @@
       "url": "https://open.spotify.com/track/2MJnBcjAG2buyUZ7zQLGMO"
     },
     {
-      "added_at": "2025-01-23 13:00:36",
+      "added_at": "2025-02-13 13:00:27",
       "album": {
-        "name": "Dance, No One's Watching",
-        "url": "https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9"
+        "name": "Londra",
+        "url": "https://open.spotify.com/album/6Ssr7Yu5SKeNYtAI0DoTiq"
       },
       "artists": [
         {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "Qendresa",
+          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
         }
       ],
-      "duration_ms": 262306,
-      "name": "No One's Watching Me - feat. Olivia Dean",
-      "url": "https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0"
+      "duration_ms": 200000,
+      "name": "2 Much",
+      "url": "https://open.spotify.com/track/4iGf7FQ9COSPGJ1QwOyUaI"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -1323,6 +1303,26 @@
       "duration_ms": 162240,
       "name": "No One Else (feat. Jeremih)",
       "url": "https://open.spotify.com/track/5zr6snM3WQRoYC0QfnD9n7"
+    },
+    {
+      "added_at": "2025-01-23 13:00:36",
+      "album": {
+        "name": "Dance, No One's Watching",
+        "url": "https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 262306,
+      "name": "No One's Watching Me - feat. Olivia Dean",
+      "url": "https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0"
     }
   ],
   "unique_name": "crush",

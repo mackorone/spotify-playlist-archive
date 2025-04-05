@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Sexyy Red
 
-1,125 songs - 2 day 8 hr 58 min
+1,126 songs - 2 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/track/7aDvC7UzTZ47Hx5jJUX1sJ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/album/2wJwaumR3Y8PCM01JgJqSj) | 3:00 | 2024-07-25 | 2024-08-16 |
 | [Channel Blu](https://open.spotify.com/track/3rMtpawEwpvmtOSZcplIIK) | [Haiti Babii](https://open.spotify.com/artist/6NQgMwGc3jvdwGZKUbhhHi) | [Channel Blu](https://open.spotify.com/album/72Ec2IJSyAWAu8LRytC2Xy) | 2:34 | 2023-06-15 | 2023-07-01 |
 | [Charming](https://open.spotify.com/track/4zmo0aFm3UIrSwurMl319I) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 2:24 | 2024-06-14 | 2024-07-27 |
+| [Checkers](https://open.spotify.com/track/2OTNi09G4bYMxQv04ltzC6) | [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ) | [Checkers](https://open.spotify.com/album/72n2jehrxvhfkV8WV5wkXP) | 3:57 | 2025-04-04 |  |
 | [Cherry Wine](https://open.spotify.com/track/4sOuaTJ1qaS1TNfOxFOdL9) | [NiNE8](https://open.spotify.com/artist/0b3ISAJg1jwifewBgTwTHG) | [Cherry Wine](https://open.spotify.com/album/7hdkLUeHt0RStrBY4qLpaB) | 2:49 | 2025-03-21 |  |
 | [child of GOD](https://open.spotify.com/track/4mkguQG08ITzkOuwxEEhDt) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw) | [child of GOD](https://open.spotify.com/album/2tdQ8ymmQslIQTBSPO1xga) | 2:54 | 2023-07-13 | 2023-10-06 |
 | [Chocolate Rain](https://open.spotify.com/track/4VtN4HDolfU0II9KOftqy4) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Chocolate Rain](https://open.spotify.com/album/6JUUed8Ed1U8IYzLIiQvoL) | 2:42 | 2023-09-07 | 2023-10-19 |
@@ -351,7 +352,7 @@
 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:39 | 2023-03-16 | 2023-04-21 |
 | [Gas Me Up \(Diligent\)](https://open.spotify.com/track/18cocM7GNYj2Scj1ePOJYc) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Gas Me Up \(Diligent\)](https://open.spotify.com/album/1cqM7r4c9z3iVOa1EosiRn) | 2:51 | 2024-01-25 | 2024-02-02 |
 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 | 2023-12-08 | 2023-12-30 |
-| [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De) | 2:34 | 2025-01-17 |  |
+| [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De) | 2:34 | 2025-01-17 | 2025-04-05 |
 | [GEEKED](https://open.spotify.com/track/5z312Kj6WDRTK5xIjtR927) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [GEEKED](https://open.spotify.com/album/62n79zChKrngUMIkUqtLCd) | 1:37 | 2024-03-07 | 2024-03-29 |
 | [Gently \(feat\. Bad Bunny\)](https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:13 | 2023-10-06 | 2023-11-11 |
 | [GET A GRIP](https://open.spotify.com/track/25I47y2Jo5Ugqkrt4cMlme) | [Kelvin Krash](https://open.spotify.com/artist/4rjJpumNzqRUf75vCzSlQb), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HARSH](https://open.spotify.com/album/1BaMH4GHHOur5Phr8F5ssg) | 1:17 | 2023-09-28 | 2023-11-18 |
@@ -626,7 +627,7 @@
 | [Miss My Dawgs \(with Lil Wayne\)](https://open.spotify.com/track/5fCBPjWjqaa0vuRO0ZRWPC) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Miss My Dawgs](https://open.spotify.com/album/3tWXlBpvbJN1F0cLtOc47a) | 2:43 | 2023-03-16 | 2023-05-19 |
 | [Miss Rackz](https://open.spotify.com/track/6XlwI0dXzFWpBqMAq6yaqQ) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Sum'er pack](https://open.spotify.com/album/4fpg7WV8ZN5VIzzOLRToJv) | 2:19 | 2024-09-12 | 2024-10-18 |
 | [Mission Control \(feat\. T Man the Wizard\)](https://open.spotify.com/track/2VvZGmBkyKM6P8SJEu9Lhq) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [T Man The Wizard](https://open.spotify.com/artist/5hvDPUBzdQtdFoOHJ8Q6g6) | [Mission Control \(feat\. T Man the Wizard\)](https://open.spotify.com/album/3GHmcwHjyxpNwxWHqIMjXF) | 2:11 | 2024-07-18 | 2024-09-13 |
-| [MIXED FEELINGS](https://open.spotify.com/track/75NpMdx6taRw8GvkcWhZvf) | [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p) | [MIXED FEELINGS](https://open.spotify.com/album/16b8hWHVV6Hq9lZO21ofkx) | 4:08 | 2025-02-06 |  |
+| [MIXED FEELINGS](https://open.spotify.com/track/75NpMdx6taRw8GvkcWhZvf) | [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p) | [MIXED FEELINGS](https://open.spotify.com/album/16b8hWHVV6Hq9lZO21ofkx) | 4:08 | 2025-02-06 | 2025-04-05 |
 | [Mmhmm](https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Mmhmm](https://open.spotify.com/album/1D3Uf2OkWYQytEbK3NpdMn) | 1:59 | 2023-12-08 | 2023-12-15 |
 | [MO UP FRONT](https://open.spotify.com/track/2uFmD9x7WwzNe4P1eJ6t36) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [MO UP FRONT](https://open.spotify.com/album/04oCjD2uZHOfv4W7Kj9Fd0) | 2:50 | 2023-03-16 | 2023-04-21 |
 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 | 2023-10-13 | 2023-12-09 |

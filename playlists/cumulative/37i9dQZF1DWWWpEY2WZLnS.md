@@ -4,7 +4,7 @@
 
 > Los éxitos del Dembow\. Portada: Lomiiel
 
-380 songs - 18 hr 24 min
+381 songs - 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [Soy Mamá](https://open.spotify.com/track/6aOcEXNX30kiWhinxz9NMF) | [La Insuperable](https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu) | [Soy Mamá](https://open.spotify.com/album/6SSrvF72A4BxsRDPDCRPrG) | 2:36 | 2022-03-18 | 2023-05-27 |
 | [Soy Mamá \(Remix\)](https://open.spotify.com/track/0ZQKdhpgwEXDFol41SREFn) | [La Insuperable](https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Soy Mamá \(Remix\)](https://open.spotify.com/album/15U77jsUNt9gKpBlfAMCKs) | 3:29 | 2022-11-11 | 2023-05-27 |
 | [Suave](https://open.spotify.com/track/46P3sjn38awa9mlokdDlBU) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Vibra Latina](https://open.spotify.com/album/5MYwgZa0VC4IKzPM2XGqIC) | 3:31 | 2023-02-09 | 2023-03-11 |
+| [Suave](https://open.spotify.com/track/3D9d0PEHfC9PqQAwKKljDv) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [OG DETRUYELO](https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli) | [Suave](https://open.spotify.com/album/6TCL50P86nu90beJunHMdV) | 2:30 | 2025-04-04 |  |
 | [Subele el Volumen](https://open.spotify.com/track/1mvqGL0WGbn8bj9VNFUScH) | [Wanton chulito](https://open.spotify.com/artist/2Y8dw810oc7wqr6D0eWrJp), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0) | [Subele el Volumen](https://open.spotify.com/album/3d9mgBfpyeb5CK8OnRsTgo) | 3:00 | 2023-05-26 | 2023-06-02 |
 | [Subelo a Toa](https://open.spotify.com/track/5o094hEVHpIRLDs2m7poou) | [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Subelo a Toa](https://open.spotify.com/album/3VXAwrFop6NLtixXBVvg41) | 3:34 | 2023-02-09 | 2023-08-04 |
 | [Subete](https://open.spotify.com/track/7IKPzIshm586JYCchDyfAc) | [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Subete](https://open.spotify.com/album/7goblZdJaGWwVHICaveWJm) | 3:44 | 2023-02-09 | 2023-08-04 |

@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-475 songs - 1 day 15 hr 31 min
+476 songs - 1 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,6 +320,7 @@
 | [Phaedra](https://open.spotify.com/track/3GG5A7ugKwKqtxAOvSwuF8) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [How Do You Live](https://open.spotify.com/album/0a48X39VME2QhWVEASztpm) | 3:33 | 2021-12-26 | 2023-06-28 |
 | [Phaedra](https://open.spotify.com/track/7trmMwOb7JW4xQlUVFPoZy) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [How Do You Live](https://open.spotify.com/album/6X3Csq02B7dRFU1yaa7GVV) | 3:33 | 2023-06-29 | 2023-08-12 |
 | [Plants](https://open.spotify.com/track/249vaomDI0QnrJlT5oqAtp) | [DOVS](https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm) | [Psychic Geography](https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt) | 3:38 | 2025-01-24 |  |
+| [Plastic Glacier](https://open.spotify.com/track/7gvKRnMCQUpZ0fLPWKUutw) | [Qasim Naqvi](https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D) | [Plastic Glacier](https://open.spotify.com/album/1AxJ90rnRYJTWhVqbDmFae) | 7:13 | 2025-04-04 |  |
 | [Plonk III](https://open.spotify.com/track/3kilgBTpr97Ef1v3x6rTeJ) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [Plonk](https://open.spotify.com/album/0URcDAZuAvHu1pNFPekiL5) | 6:22 | 2022-02-25 | 2022-03-04 |
 | [Plonk VI](https://open.spotify.com/track/0Jae6ZMQ6BTe0FjdFA3lwJ) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [Plonk VI](https://open.spotify.com/album/54mRSjdlk3TO9xQpcMDCok) | 9:24 | 2021-12-26 | 2022-07-29 |
 | [Plonk VI](https://open.spotify.com/track/6r5vGrYSklN6D9QGwfCxii) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [Plonk](https://open.spotify.com/album/1NLglnqr3MZju3F0upWXzU) | 9:24 | 2022-09-20 | 2023-08-12 |
@@ -459,7 +460,7 @@
 | [Walking Through Still Air](https://open.spotify.com/track/2PEeHAgoF0K6e3cFiMeWMl) | [Booker Stardrum](https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5) | [CRATER](https://open.spotify.com/album/4Ymq9bQ78qugxlnWVfs5b0) | 5:22 | 2021-12-26 | 2023-04-30 |
 | [Walking Through Still Air](https://open.spotify.com/track/4A1MV0tkYsxLXnsswjiP2S) | [Booker Stardrum](https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5) | [CRATER](https://open.spotify.com/album/6TvXKXvvxrYina8splCKkV) | 5:22 | 2023-05-05 | 2023-08-12 |
 | [Wandering Frames](https://open.spotify.com/track/13TVia1BQ0CThZeyiAHHIk) | [Panoram](https://open.spotify.com/artist/69sdy5pLF8VHpUAHL5lKO7) | [Acrobatic Thoughts](https://open.spotify.com/album/3rPskmtLpjAgGtbh1aZUXN) | 7:32 | 2022-01-23 | 2023-09-01 |
-| [Watersynth](https://open.spotify.com/track/05e2T423zwHe7557aNewF4) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Mango Feedback](https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr) | 4:20 | 2023-01-20 |  |
+| [Watersynth](https://open.spotify.com/track/05e2T423zwHe7557aNewF4) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Mango Feedback](https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr) | 4:20 | 2023-01-20 | 2025-04-05 |
 | [We Took Short Journeys](https://open.spotify.com/track/75EFPyBUQmkgaYbFKEdZFJ) | [Laura Cannell](https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq), [Kate Ellis](https://open.spotify.com/artist/6lz4GyLX8jF0HNjD712zxc) | [MAY SOUNDS](https://open.spotify.com/album/1mk6oLTC1jTaNHhpLiIBBe) | 3:22 | 2021-12-26 | 2023-01-03 |
 | [Weltenwandler \- Radio Edit](https://open.spotify.com/track/6pKvjYAe7hTN17bemswHyl) | [Klartraum](https://open.spotify.com/artist/1euztWfCX0SHe8U5XZT6dF) | [Weltenwandler](https://open.spotify.com/album/3XyVUgsWgSN4TRzovG9dVb) | 5:16 | 2022-02-11 | 2025-01-15 |
 | [Westerpark](https://open.spotify.com/track/3moHTcmktLHetLd4SdMovC) | [BSS \(AMS\)](https://open.spotify.com/artist/6ZNNn6WWgGY5JNRGleeohH) | [Suikerplein EP](https://open.spotify.com/album/17ol2aT2nydTFDhZviWvWQ) | 5:13 | 2022-01-28 | 2025-01-15 |

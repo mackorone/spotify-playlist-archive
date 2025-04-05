@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per stare così ༼ ༎ຶ ෴ ༎ຶ༽ Plant in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,152 likes - 107 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,182 likes - 107 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PICCOLO ME](https://open.spotify.com/track/0S564iZQcYuId4KIFVuZmo) | [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ) | [PICCOLO ME](https://open.spotify.com/album/5Snt4p5P4M773bDR2wUytj) | 2:26 |
 | 2 | [OLOGRAMMA \(feat\. 18K\)](https://open.spotify.com/track/5qU4xzfQ2OZmMtRBaKLSev) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw), [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB) | [TOCCA IL CIELO](https://open.spotify.com/album/4jPzZlabX82iApEx74Zldl) | 2:32 |
 | 3 | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/track/5zFRzVwX8mRofUGZ65u4ML) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/album/3S22xabBnIoCaVxZOIqUtz) | 2:57 |
-| 4 | [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
+| 4 | [Feel It \- From “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
 | 5 | [Lacrima](https://open.spotify.com/track/6FzN2LI1Tmf5uKrSdVUe1f) | [SickTeens](https://open.spotify.com/artist/43zSSTbEARYCOTzP6IsCZi) | [Lacrima](https://open.spotify.com/album/26B8nhPmJgwJZH69EVKF0Z) | 2:44 |
 | 6 | [Quando Sarò Morto \- feat\. J\-AX](https://open.spotify.com/track/4wx82ugAwUW3ijUcBphOV7) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d), [J\-AX](https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5) | [Milanconia](https://open.spotify.com/album/1W1rSF0qAd7ybl8Z2pb26V) | 2:46 |
 | 7 | [SPA CABARET](https://open.spotify.com/track/4VNVRdDCmLMbduC0V5GKeU) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [SPA CABARET](https://open.spotify.com/album/1aw7rRwfDqyKGHcGcsOrXQ) | 3:31 |

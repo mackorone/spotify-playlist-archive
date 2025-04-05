@@ -3521,6 +3521,24 @@
     },
     {
       "album": {
+        "name": "ECHO DE MENOS",
+        "url": "https://open.spotify.com/album/3JzsZL21V7bMwGhYpRZqbK"
+      },
+      "artists": [
+        {
+          "name": "FERNANDOCOSTA",
+          "url": "https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198367,
+      "name": "ECHO DE MENOS",
+      "url": "https://open.spotify.com/track/4pycU0Z1vWdAF1bp26rIBI"
+    },
+    {
+      "album": {
         "name": "El Barrio Me Llama",
         "url": "https://open.spotify.com/album/5ZbZuMWDLSv5hlZXoJZ1lC"
       },
@@ -4104,7 +4122,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 139942,
       "name": "Estrella Michel\u00edn",
       "url": "https://open.spotify.com/track/7LWN1iJG6LOXzsrDGy4cCF"
@@ -10236,7 +10254,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 226418,
       "name": "Superdeportivo",
       "url": "https://open.spotify.com/track/01oXlVCevQVsKRVJBEKqA3"
@@ -11230,6 +11248,32 @@
       "duration_ms": 282298,
       "name": "Volver",
       "url": "https://open.spotify.com/track/1eNd09nRUrqJSRYhbYnX9A"
+    },
+    {
+      "album": {
+        "name": "VOY A INTENTARLO",
+        "url": "https://open.spotify.com/album/5rfWLKRQUV7o6EOk4jPwjk"
+      },
+      "artists": [
+        {
+          "name": "AMBKOR",
+          "url": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
+        },
+        {
+          "name": "El Chojin",
+          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
+        },
+        {
+          "name": "Conchita",
+          "url": "https://open.spotify.com/artist/0TPv1jIhKn4d0boGDxy4LI"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224802,
+      "name": "VOY A INTENTARLO",
+      "url": "https://open.spotify.com/track/2xzwH1qZxJAOsw2ekT8sjY"
     },
     {
       "album": {

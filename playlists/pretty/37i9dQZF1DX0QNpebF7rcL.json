@@ -1,12 +1,12 @@
 {
   "description": "The best in blues right now. Cover: Bobby Rush & Kenny Wayne Shepherd",
-  "num_followers": 139017,
+  "num_followers": 139035,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+Ye3QAAAABRW8r1oiKnFe5IaGlwpDwX",
+  "snapshot_id": "Z+9ZTQAAAAANXRDD5n46z7Ok0k88+QvN",
   "tracks": [
     {
       "added_at": "2025-03-21 04:00:40",
@@ -27,6 +27,58 @@
       "duration_ms": 225833,
       "name": "You So Fine",
       "url": "https://open.spotify.com/track/2lXtNjYs5zZb36wT2uMl1G"
+    },
+    {
+      "added_at": "2025-04-04 04:00:13",
+      "album": {
+        "name": "Hurting Side of Love",
+        "url": "https://open.spotify.com/album/1BzRU0zclhY552eafqdMbF"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 255653,
+      "name": "Hurting Side of Love",
+      "url": "https://open.spotify.com/track/1LVigiHRdDlXSXXShqsTIz"
+    },
+    {
+      "added_at": "2025-04-04 04:00:13",
+      "album": {
+        "name": "One Go Round",
+        "url": "https://open.spotify.com/album/6JIjH6Tiz0YKhO6wvAzaEX"
+      },
+      "artists": [
+        {
+          "name": "Robin Trower",
+          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "One Go Round",
+      "url": "https://open.spotify.com/track/5vTmHsq8cBK4IWjR89Wszd"
+    },
+    {
+      "added_at": "2025-04-04 04:00:13",
+      "album": {
+        "name": "Unbreakable",
+        "url": "https://open.spotify.com/album/7hYyT1qYD7EaZl7UqbqxZ0"
+      },
+      "artists": [
+        {
+          "name": "Ally Venable",
+          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
+        },
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 172261,
+      "name": "Unbreakable",
+      "url": "https://open.spotify.com/track/2Kh8M6YbyuaP9iOMsYc58i"
     },
     {
       "added_at": "2025-03-28 04:00:29",
@@ -183,22 +235,6 @@
       "duration_ms": 247426,
       "name": "Shake This Ground",
       "url": "https://open.spotify.com/track/00HCKH34ZWbOhEKhrEWRqb"
-    },
-    {
-      "added_at": "2025-02-21 05:00:17",
-      "album": {
-        "name": "A Little Bit Of Freedom",
-        "url": "https://open.spotify.com/album/5gw3hXiaFesxfnDr4xP8k1"
-      },
-      "artists": [
-        {
-          "name": "Robin Trower",
-          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
-        }
-      ],
-      "duration_ms": 189640,
-      "name": "A Little Bit Of Freedom",
-      "url": "https://open.spotify.com/track/1NquwZ5Gwc99qfXRBKrojB"
     },
     {
       "added_at": "2025-01-31 05:00:47",
@@ -1739,22 +1775,6 @@
       "duration_ms": 229696,
       "name": "Coal Black Mattie",
       "url": "https://open.spotify.com/track/180C2riJpRHFruOPpYTPIn"
-    },
-    {
-      "added_at": "2023-03-17 04:01:00",
-      "album": {
-        "name": "Oscar's Motel",
-        "url": "https://open.spotify.com/album/3OaTkkcE8j9gFJQCmlSZJ4"
-      },
-      "artists": [
-        {
-          "name": "The Cash Box Kings",
-          "url": "https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "Down On The South Side",
-      "url": "https://open.spotify.com/track/3bEvr0dRJeQ02PynkdmXuV"
     }
   ],
   "unique_name": "Got Blues",

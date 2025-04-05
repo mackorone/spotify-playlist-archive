@@ -1,6 +1,6 @@
 {
   "description": "John Otto, take 'em to the Matthews Bridge!",
-  "num_followers": 2005111,
+  "num_followers": 2005572,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-07-26 16:34:35",
       "album": {
-        "name": "Devil Without a Cause",
-        "url": "https://open.spotify.com/album/7nFlAxnXMrQRpM1R80pKQm"
-      },
-      "artists": [
-        {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        }
-      ],
-      "duration_ms": 265840,
-      "name": "Bawitdaba",
-      "url": "https://open.spotify.com/track/0f37VQs969vZUL4gVfHRV9"
-    },
-    {
-      "added_at": "2024-07-26 16:34:35",
-      "album": {
         "name": "Lost and Found",
         "url": "https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP"
       },
@@ -443,18 +427,34 @@
     {
       "added_at": "2024-07-26 16:34:35",
       "album": {
-        "name": "Satellite (U.S. Version)",
-        "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
+        "name": "Devil Without a Cause",
+        "url": "https://open.spotify.com/album/7nFlAxnXMrQRpM1R80pKQm"
       },
       "artists": [
         {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
         }
       ],
-      "duration_ms": 190760,
-      "name": "Boom",
-      "url": "https://open.spotify.com/track/5DooySfCD1xCJ49gQm9rx7"
+      "duration_ms": 265840,
+      "name": "Bawitdaba",
+      "url": "https://open.spotify.com/track/0f37VQs969vZUL4gVfHRV9"
+    },
+    {
+      "added_at": "2024-07-26 16:34:35",
+      "album": {
+        "name": "Slipknot (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "Wait and Bleed",
+      "url": "https://open.spotify.com/track/2gscB6kDOmrv1P6qs2KXE3"
     },
     {
       "added_at": "2024-07-26 16:34:35",
@@ -491,18 +491,18 @@
     {
       "added_at": "2024-07-26 16:34:35",
       "album": {
-        "name": "Slipknot (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+        "name": "Satellite (U.S. Version)",
+        "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
       },
       "artists": [
         {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
         }
       ],
-      "duration_ms": 147840,
-      "name": "Wait and Bleed",
-      "url": "https://open.spotify.com/track/2gscB6kDOmrv1P6qs2KXE3"
+      "duration_ms": 190760,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/5DooySfCD1xCJ49gQm9rx7"
     },
     {
       "added_at": "2024-07-26 16:34:35",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-07-26 16:34:35",
       "album": {
-        "name": "Iowa",
-        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 241466,
-      "name": "Left Behind",
-      "url": "https://open.spotify.com/track/4l3Vmsw0KO8HJqFtnbqaqu"
-    },
-    {
-      "added_at": "2024-07-26 16:34:35",
-      "album": {
         "name": "Babylon (Revised Online Music)",
         "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 236013,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/581mukhDjta60CCwpvnjL9"
+    },
+    {
+      "added_at": "2024-07-26 16:34:35",
+      "album": {
+        "name": "Iowa",
+        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 241466,
+      "name": "Left Behind",
+      "url": "https://open.spotify.com/track/4l3Vmsw0KO8HJqFtnbqaqu"
     },
     {
       "added_at": "2024-07-26 16:34:35",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-07-26 16:34:35",
       "album": {
-        "name": "Sinner (Unlucky 13th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/74n5sNia8GcWvAeJ1z40Tb"
-      },
-      "artists": [
-        {
-          "name": "Drowning Pool",
-          "url": "https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v"
-        }
-      ],
-      "duration_ms": 202466,
-      "name": "Bodies",
-      "url": "https://open.spotify.com/track/1cqWEQ6TRfYr3SBNh7Ni2w"
-    },
-    {
-      "added_at": "2024-07-26 16:34:35",
-      "album": {
         "name": "Digimortal",
         "url": "https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 204853,
       "name": "Linchpin",
       "url": "https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS"
+    },
+    {
+      "added_at": "2024-07-26 16:34:35",
+      "album": {
+        "name": "Sinner (Unlucky 13th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/74n5sNia8GcWvAeJ1z40Tb"
+      },
+      "artists": [
+        {
+          "name": "Drowning Pool",
+          "url": "https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v"
+        }
+      ],
+      "duration_ms": 202466,
+      "name": "Bodies",
+      "url": "https://open.spotify.com/track/1cqWEQ6TRfYr3SBNh7Ni2w"
     },
     {
       "added_at": "2024-07-26 16:34:35",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-07-26 16:34:35",
       "album": {
-        "name": "Revolution Revolucion",
-        "url": "https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ"
-      },
-      "artists": [
-        {
-          "name": "Ill Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF"
-        }
-      ],
-      "duration_ms": 210533,
-      "name": "I Am Loco",
-      "url": "https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH"
-    },
-    {
-      "added_at": "2024-07-26 16:34:35",
-      "album": {
         "name": "S.C.I.E.N.C.E.",
         "url": "https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 193200,
       "name": "Vitamin",
       "url": "https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa"
+    },
+    {
+      "added_at": "2024-07-26 16:34:35",
+      "album": {
+        "name": "Revolution Revolucion",
+        "url": "https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ"
+      },
+      "artists": [
+        {
+          "name": "Ill Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF"
+        }
+      ],
+      "duration_ms": 210533,
+      "name": "I Am Loco",
+      "url": "https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH"
     },
     {
       "added_at": "2024-07-26 16:34:35",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-07-26 16:34:35",
       "album": {
-        "name": "The Height of Callousness",
-        "url": "https://open.spotify.com/album/5EdPM4V1kWFrFPniEvS5LL"
-      },
-      "artists": [
-        {
-          "name": "Spineshank",
-          "url": "https://open.spotify.com/artist/6fmbbxNvgHkglIakp1Wrv4"
-        }
-      ],
-      "duration_ms": 194733,
-      "name": "New Disease",
-      "url": "https://open.spotify.com/track/5xqi4X6J5PHwndSJc7YLYH"
-    },
-    {
-      "added_at": "2024-07-26 16:34:35",
-      "album": {
         "name": "Greatest Hits (The Atlantic Years)",
         "url": "https://open.spotify.com/album/1i3YXOzNkaykTt6CxWGOOU"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 203693,
       "name": "Alive - 2006 Remaster",
       "url": "https://open.spotify.com/track/3IRovqSVYx3CNtDWRebsET"
+    },
+    {
+      "added_at": "2024-07-26 16:34:35",
+      "album": {
+        "name": "The Height of Callousness",
+        "url": "https://open.spotify.com/album/5EdPM4V1kWFrFPniEvS5LL"
+      },
+      "artists": [
+        {
+          "name": "Spineshank",
+          "url": "https://open.spotify.com/artist/6fmbbxNvgHkglIakp1Wrv4"
+        }
+      ],
+      "duration_ms": 194733,
+      "name": "New Disease",
+      "url": "https://open.spotify.com/track/5xqi4X6J5PHwndSJc7YLYH"
     },
     {
       "added_at": "2024-07-26 16:34:35",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-07-26 16:34:35",
       "album": {
-        "name": "S.C.I.E.N.C.E.",
-        "url": "https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "New Skin",
-      "url": "https://open.spotify.com/track/2peJ2zSVyENaSIvA6k3c6M"
-    },
-    {
-      "added_at": "2024-07-26 16:34:35",
-      "album": {
         "name": "Introduction To Mayhem",
         "url": "https://open.spotify.com/album/1TwA6wlxYBuYZi8xb3Hk76"
       },
@@ -1083,22 +1067,6 @@
     {
       "added_at": "2024-07-26 16:34:35",
       "album": {
-        "name": "Coal Chamber",
-        "url": "https://open.spotify.com/album/7FsGGAksuLOCvI2ivXh4Jd"
-      },
-      "artists": [
-        {
-          "name": "Coal Chamber",
-          "url": "https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ"
-        }
-      ],
-      "duration_ms": 215133,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/19bAcl8m0DEUzteLSBDnzH"
-    },
-    {
-      "added_at": "2024-07-26 16:34:35",
-      "album": {
         "name": "Candyass",
         "url": "https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A"
       },
@@ -1111,6 +1079,38 @@
       "duration_ms": 198560,
       "name": "Stitches",
       "url": "https://open.spotify.com/track/5Y76U25W2UAZF9AwfrFAoJ"
+    },
+    {
+      "added_at": "2024-07-26 16:34:35",
+      "album": {
+        "name": "S.C.I.E.N.C.E.",
+        "url": "https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "New Skin",
+      "url": "https://open.spotify.com/track/2peJ2zSVyENaSIvA6k3c6M"
+    },
+    {
+      "added_at": "2024-07-26 16:34:35",
+      "album": {
+        "name": "Coal Chamber",
+        "url": "https://open.spotify.com/album/7FsGGAksuLOCvI2ivXh4Jd"
+      },
+      "artists": [
+        {
+          "name": "Coal Chamber",
+          "url": "https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ"
+        }
+      ],
+      "duration_ms": 215133,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/19bAcl8m0DEUzteLSBDnzH"
     },
     {
       "added_at": "2024-07-26 16:34:35",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-07-26 16:34:35",
       "album": {
-        "name": "S.C.I.E.N.C.E.",
-        "url": "https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 191360,
-      "name": "A Certain Shade of Green",
-      "url": "https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR"
-    },
-    {
-      "added_at": "2024-07-26 16:34:35",
-      "album": {
         "name": "The Burning Red",
         "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
       },
@@ -1191,22 +1175,6 @@
       "duration_ms": 236493,
       "name": "From This Day",
       "url": "https://open.spotify.com/track/2GQxHKJLYTDVQ5mtNhHD37"
-    },
-    {
-      "added_at": "2024-07-26 16:34:35",
-      "album": {
-        "name": "Adema",
-        "url": "https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh"
-      },
-      "artists": [
-        {
-          "name": "Adema",
-          "url": "https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb"
-        }
-      ],
-      "duration_ms": 274733,
-      "name": "Giving In",
-      "url": "https://open.spotify.com/track/1OGFtaUgHAQjtSk7mhDwr9"
     },
     {
       "added_at": "2024-07-26 16:34:35",
@@ -1227,6 +1195,22 @@
     {
       "added_at": "2024-07-26 16:34:35",
       "album": {
+        "name": "Adema",
+        "url": "https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh"
+      },
+      "artists": [
+        {
+          "name": "Adema",
+          "url": "https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb"
+        }
+      ],
+      "duration_ms": 274733,
+      "name": "Giving In",
+      "url": "https://open.spotify.com/track/1OGFtaUgHAQjtSk7mhDwr9"
+    },
+    {
+      "added_at": "2024-07-26 16:34:35",
+      "album": {
         "name": "Best Of (Chapter One 1997-2004)",
         "url": "https://open.spotify.com/album/0YIzJF9rLdrK9KzADZjYVe"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2024-07-26 16:34:35",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/5QVIcWwkQXJ6vwbQDikZrl"
+        "name": "S.C.I.E.N.C.E.",
+        "url": "https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ"
       },
       "artists": [
         {
-          "name": "Blindside",
-          "url": "https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr"
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
         }
       ],
-      "duration_ms": 192213,
-      "name": "Pitiful",
-      "url": "https://open.spotify.com/track/1TTOAw90zzNWKnUgzzcvZW"
+      "duration_ms": 191360,
+      "name": "A Certain Shade of Green",
+      "url": "https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR"
     },
     {
       "added_at": "2024-07-26 16:34:35",
@@ -1271,6 +1255,22 @@
       "duration_ms": 215266,
       "name": "Price to Play",
       "url": "https://open.spotify.com/track/6WV1sNIE0gG9cIdQ27vuvI"
+    },
+    {
+      "added_at": "2024-07-26 16:34:35",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/5QVIcWwkQXJ6vwbQDikZrl"
+      },
+      "artists": [
+        {
+          "name": "Blindside",
+          "url": "https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr"
+        }
+      ],
+      "duration_ms": 192213,
+      "name": "Pitiful",
+      "url": "https://open.spotify.com/track/1TTOAw90zzNWKnUgzzcvZW"
     },
     {
       "added_at": "2024-07-26 16:34:35",

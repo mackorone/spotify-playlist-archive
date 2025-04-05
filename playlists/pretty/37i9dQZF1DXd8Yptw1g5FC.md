@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Hande Ünsal ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,536 likes - 82 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,447 likes - 82 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 34 | [Yanıldım](https://open.spotify.com/track/1dCDSZAcRtUS7udX4Lj3qY) | [Pınar Soykan](https://open.spotify.com/artist/7pTztLjOOA9VWk2E0rYQkJ) | [Yanıldım](https://open.spotify.com/album/5xeuudSmuRKgi5LKEIBm4N) | 1:36 |
 | 35 | [Pencereden Kuş Uçtu](https://open.spotify.com/track/431Bsp2WajwPnV5oWr5YYj) | [Ezgi Köker](https://open.spotify.com/artist/7xlAAm6cKY3ouj38JNtMnS) | [Pencereden Kuş Uçtu](https://open.spotify.com/album/54zbBLnUJtU0HpOjKC1LQp) | 3:18 |
 | 36 | [Bütün dünya senin olsun](https://open.spotify.com/track/7w0n9BD2nVp0XyHl8sg3EA) | [Celo Boluz](https://open.spotify.com/artist/0HQC7oqM1HTb9WpamssCZ8) | [Bütün dünya senin olsun](https://open.spotify.com/album/5FawhzyrWGgnrwZHmxQDiF) | 4:18 |
-| 37 | [Surrender \(with Becky Hill\)](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Surrender \(with Becky Hill\)](https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd) | 2:24 |
+| 37 | [Surrender](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Surrender](https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd) | 2:24 |
 | 38 | [Mesafer](https://open.spotify.com/track/1sOxBTHaiFTcCC630EMigP) | [Ablozé](https://open.spotify.com/artist/5OFLwoxk5jmOkgjxbgAWOO), [Gobi Desert Collective](https://open.spotify.com/artist/2w0J6UmL0Unhj5yqE7rlfp) | [Mesafer](https://open.spotify.com/album/4nkrnj24QLsbh5KUdXiIqP) | 4:10 |
 | 39 | [Yol](https://open.spotify.com/track/4EuL67kJsu0wlVZF2w87hn) | [Knock Out](https://open.spotify.com/artist/7m4MegoOzuTPWeNk8paI1z), [Kiddy](https://open.spotify.com/artist/79bH6fRyhLfkcp8q5TFetv), [RASH](https://open.spotify.com/artist/7HePKGjMU8Eofq2Bp65pLX), [Kuşku](https://open.spotify.com/artist/453qhJfLPmhF8OjgsyvL84) | [Yol](https://open.spotify.com/album/68NEYI6ZTSapZMaKsU5M4q) | 3:06 |
 | 40 | [Onu Yokladım](https://open.spotify.com/track/2RIZ4FGUGPoqHYuHl75iWM) | [MERMI](https://open.spotify.com/artist/5l4WodS45CeKjb6ciK0X86) | [Onu Yokladım](https://open.spotify.com/album/2L3IfDMrHGozgSMa6AyXNX) | 2:29 |

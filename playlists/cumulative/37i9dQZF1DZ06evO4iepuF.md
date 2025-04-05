@@ -4,7 +4,7 @@
 
 > This is Kittydog\. The essential tracks, all in one playlist.
 
-79 songs - 2 hr 34 min
+80 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,9 +76,10 @@
 | [RIP Creativity](https://open.spotify.com/track/0tCmwtKSJK5CHsmNLz1Unw) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [RIP Creativity](https://open.spotify.com/album/4daDA6ersDkffX8BC46lAM) | 2:00 | 2024-12-14 |  |
 | [rose tints](https://open.spotify.com/track/5M2IRxCeYPGdqHzfjQyH1x) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [rose tints](https://open.spotify.com/album/0aT5vuQ4ats2iH3jBKa8mg) | 3:14 | 2025-03-14 | 2025-03-18 |
 | [rose tints](https://open.spotify.com/track/5PcC91JT46zbmpSXO4htwO) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [AWAY FROM WHAT MATTERS](https://open.spotify.com/album/4BFOVKidGy8yuH8JbM6iI2) | 3:14 | 2025-03-30 |  |
-| [see into forever](https://open.spotify.com/track/4Vzzg8l0XMhoG6K3BiJ74d) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [see into forever](https://open.spotify.com/album/0r2ggV3LC7MVjH4a4fHFgP) | 1:54 | 2025-04-02 |  |
+| [see into forever](https://open.spotify.com/track/4Vzzg8l0XMhoG6K3BiJ74d) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [see into forever](https://open.spotify.com/album/0r2ggV3LC7MVjH4a4fHFgP) | 1:54 | 2025-04-02 | 2025-04-05 |
 | [so numb that she's in hell \- 2025 Version](https://open.spotify.com/track/4Fa74jnKpzzfjU9zeDT07P) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [SO NUMB THAT SHE'S IN HELL!!!](https://open.spotify.com/album/5dzEMs2kYYU98AixEZwAky) | 2:51 | 2025-01-15 |  |
 | [superposition](https://open.spotify.com/track/0foq1CuScisKw9QXmktboo) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [superposition](https://open.spotify.com/album/2qNziZqBtpFgd9k2FSGgV2) | 2:11 | 2024-12-14 |  |
+| [symbiotic intwinement](https://open.spotify.com/track/6czLfOigwGkPxkby5uSIjU) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 1:55 | 2025-04-05 |  |
 | [TALK SHIT!!](https://open.spotify.com/track/5aYP4yt655ZTqsQ2sAeEk7) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [TALK SHIT!!](https://open.spotify.com/album/5RefZe6Wj5M9KHLZoXZAZB) | 2:46 | 2024-12-14 |  |
 | [they all hate me](https://open.spotify.com/track/75QJUIqWBe5BIAaOb1Q0Wp) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [outcast \(they all hate me\)](https://open.spotify.com/album/5rlkspTW5YrreKCQH1Sb62) | 1:35 | 2025-03-04 | 2025-03-22 |
 | [transcendental](https://open.spotify.com/track/29YcryRu1oJ5XjcZB0DMJG) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [transcendental](https://open.spotify.com/album/5kQhZxQZESj4xLovR3AP72) | 1:54 | 2024-12-14 | 2025-03-02 |

@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Wet Leg
 
-1,240 songs - 2 day 22 hr 59 min
+1,241 songs - 2 day 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -837,6 +837,7 @@
 | [PARAMOUNT](https://open.spotify.com/track/1moNN6nYfTaO8Inwz8yTX0) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [PARAMOUNT](https://open.spotify.com/album/2otoS3TfBiNHBvd9ljkS2R) | 2:58 | 2025-02-20 | 2025-03-21 |
 | [Paranoid](https://open.spotify.com/track/6Ez7j7MPocvayb7J7WlaR7) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Paranoid](https://open.spotify.com/album/3NN3PtcVj4qu9Wm237MgYP) | 3:41 | 2024-07-18 | 2024-08-16 |
 | [Part of the Machine](https://open.spotify.com/track/0QGdJF3jBxzCxB8TbBVw33) | [Fran Vasilić](https://open.spotify.com/artist/08xR1XU2SWgC2K0yx6lEYm) | [Part of the Machine](https://open.spotify.com/album/3FGeumlBhKzoaz01Ekatn9) | 2:16 | 2025-01-16 | 2025-01-31 |
+| [PARTY](https://open.spotify.com/track/3CssDYkElNAvDMSfKrS6YE) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [PARTY](https://open.spotify.com/album/0JRDxilJ8Xgw0km4pqCQQH) | 3:02 | 2025-04-03 |  |
 | [passenger side](https://open.spotify.com/track/2jpXlj0HRdK31Jm0ZjGLKU) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [liminal space](https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h) | 2:47 | 2024-10-31 | 2024-11-29 |
 | [Past 25](https://open.spotify.com/track/7vm6QR1kQgbnxXjn4hbcUl) | [Mina Richman](https://open.spotify.com/artist/0xEoOgwjjJQ9uDS8y1GtEC) | [Past 25](https://open.spotify.com/album/0ECnMd9UomZS8D1Qa8oIqh) | 3:46 | 2025-03-27 |  |
 | [Patterns](https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns](https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY) | 4:20 | 2024-07-11 | 2024-07-27 |

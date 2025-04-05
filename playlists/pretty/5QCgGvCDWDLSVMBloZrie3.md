@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5QCgGvCDWDLSVMBloZrie3.md) - [plain]
 
 > 
 
-[Sally\_e713](https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u) - 14 likes - 242 songs - 15 hr 15 min
+[Sally\_e713](https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u) - 14 likes - 243 songs - 15 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -250,5 +250,6 @@ pretty - [cumulative](/playlists/cumulative/5QCgGvCDWDLSVMBloZrie3.md) - [plain]
 | 240 | [Never Gonna Give Me Up](https://open.spotify.com/track/44X4E3SqPPGmtLFYZwYx03) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Never Gonna Give Me Up](https://open.spotify.com/album/1KuuL87EyVWIOOjgA8L7kh) | 3:16 |
 | 241 | [David](https://open.spotify.com/track/3Na7QhR1rGYwFqWAxxq8X8) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [Something for Everybody](https://open.spotify.com/album/0t0hNxHpqtvn7dT3YO18ma) | 4:38 |
 | 242 | [Look Me In The Eye \(feat\. Daisy Jones\) \- Live from Diamond Head Festival – 1975](https://open.spotify.com/track/5cm6SnCOh8en9CakuVQdwB) | [The Dunne Brothers](https://open.spotify.com/artist/79LTsc5cQUOp4j08YIy1eK), [Daisy Jones](https://open.spotify.com/artist/0Ez39SlEHcxFV6TQu8JDdO) | [AURORA \(Deluxe\)](https://open.spotify.com/album/2hDAVBD90HNLufQUQgaKH5) | 3:39 |
+| 243 | [Carlo's Song](https://open.spotify.com/track/7qjCmoM2kKXAt2QIPhLVIg) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:54 |
 
-Snapshot ID: `AAAGF89HI7FqbmVWTGFjHLaJhZN+k7sD`
+Snapshot ID: `AAAGGHKtmv2XlzxDrcWTrrmrCBUR1Wi/`

@@ -2864,7 +2864,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 121232,
       "name": "Crush Me Down (You Spin Me Around)",
       "url": "https://open.spotify.com/track/2E8ometum2UaxsEdH8VS5z"
@@ -3386,7 +3386,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 173333,
       "name": "Don't Kill My Vibe",
       "url": "https://open.spotify.com/track/4QF4IfN0TqvJ00V7qHkLRw"
@@ -4770,7 +4770,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 143117,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/2XJSKm7Ie15xQnoP1bY0Fp"
@@ -8753,6 +8753,32 @@
     },
     {
       "album": {
+        "name": "Live My Life",
+        "url": "https://open.spotify.com/album/7C4dHLELP7ivO6HXeLltK3"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241920,
+      "name": "Live My Life",
+      "url": "https://open.spotify.com/track/2a0Az8oSMkiZjOpWNzXICs"
+    },
+    {
+      "album": {
         "name": "Locked Up (ft. Akon)",
         "url": "https://open.spotify.com/album/4eUAfbKPrliNUtflCe6sEu"
       },
@@ -8964,6 +8990,24 @@
       "duration_ms": 168387,
       "name": "Losing My Religion (feat. MKLA)",
       "url": "https://open.spotify.com/track/7u6EvUNJUmycM4IHEiHasm"
+    },
+    {
+      "album": {
+        "name": "Lost in your Eyes",
+        "url": "https://open.spotify.com/album/0RWBuOQLEgM77KgoCG2dBr"
+      },
+      "artists": [
+        {
+          "name": "Clarence Guzman",
+          "url": "https://open.spotify.com/artist/360KGuOTUgVFxAVV1gkF9C"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173250,
+      "name": "Lost in your Eyes - Radio Edit",
+      "url": "https://open.spotify.com/track/7FLknt77TBwNI2YelMY4j1"
     },
     {
       "album": {
@@ -14800,6 +14844,28 @@
       "duration_ms": 251250,
       "name": "Superhuman",
       "url": "https://open.spotify.com/track/2TlhOVwPyMJ0CbdgHS34JQ"
+    },
+    {
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144664,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY"
     },
     {
       "album": {

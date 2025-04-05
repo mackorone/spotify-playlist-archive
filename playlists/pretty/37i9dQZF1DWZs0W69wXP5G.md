@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 
 > Everything Broadway\-adjacent\. Cover:  Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,970 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,000 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Over The Rainbow](https://open.spotify.com/track/568SEFtDjKr7N2PytpA6D5) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [The Wizard of Oz \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/6YJkcbbY6GiUGBzgE8AFxr) | 2:45 |
-| 2 | [Home](https://open.spotify.com/track/43IpC2t4If3yLz6IWc4m3f) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Wiz](https://open.spotify.com/album/2QrINaaKpAWNtQfjzNaP5y) | 4:02 |
-| 3 | [Defying Gravity](https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 7:39 |
+| 1 | [Defying Gravity](https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 7:39 |
+| 2 | [My Girls](https://open.spotify.com/track/1qK3gwAMjFiH2fGLCf8Wvp) | [SIX](https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0), [Aimie Atkinson](https://open.spotify.com/artist/5vhs6tHx6ahaFoLrkyEClj), [Alexia McIntosh](https://open.spotify.com/artist/7JUwXimcyuqytyDZy3eBJ0), [Grace Mouat](https://open.spotify.com/artist/77aJ6k47i5S3QValR3t73V), [Millie O’Connell](https://open.spotify.com/artist/1BDWEaWPD0ctGRrt9x4jSO), [Natalie Paris](https://open.spotify.com/artist/4rNKsg7PLOeJY6EFH2sW2u), [Maiya Quansah\-Breed](https://open.spotify.com/artist/1sBl1wVmSkCUXHLn9qrp7L), [Jarnéia Richard\-Noel](https://open.spotify.com/artist/57dmgVvifmtQZdsudST5xW) | [My Girls](https://open.spotify.com/album/0cRJPdR3Weo7BOYI9kvQAK) | 3:05 |
+| 3 | [Home](https://open.spotify.com/track/43IpC2t4If3yLz6IWc4m3f) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Wiz](https://open.spotify.com/album/2QrINaaKpAWNtQfjzNaP5y) | 4:02 |
 | 4 | [Mi Camino](https://open.spotify.com/track/2NPzPNhkwSTBMLfTxcaoPZ) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Emilia Pérez \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU) | 3:43 |
 | 5 | [Pure Imagination \(from "Wonka"\)](https://open.spotify.com/track/1m9TZ1dpYEQnczSsI6z9Ku) | [Timothée Chalamet](https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb) | [Wonka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JVBfHtsTmDQin2kyV8FKO) | 3:07 |
 | 6 | [Replay](https://open.spotify.com/track/1udQp57vbo5jO2mlHzjayK) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Replay](https://open.spotify.com/album/4semmJ7mprNnU8m2MfucQc) | 3:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 | 79 | [If I Were a Man](https://open.spotify.com/track/7dsxoeycurkfJpmV0Le5Oi) | [Barlow & Bear](https://open.spotify.com/artist/2JymsYVZ5c5prv9mOdPB3p), [Abigail Barlow](https://open.spotify.com/artist/5rw6jWzcS6bQimR39VPBXu), [Emily Bear](https://open.spotify.com/artist/0K1ilFOGrYhSKNZaDCYRvk) | [The Unofficial Bridgerton Musical](https://open.spotify.com/album/7gXx19GNHIiQ3fIbXxeY1U) | 2:58 |
 | 80 | [Let's Generalize About Men \(feat\. Rachel Bloom, Donna Lynne Champlin, Vella Lovell & Gabrielle Ruiz\)](https://open.spotify.com/track/73hr344AmxNViy6IgFw6QL) | [Crazy Ex\-Girlfriend Cast](https://open.spotify.com/artist/5TVgLn3yhvSe3h2pBTEzsy), [Donna Lynne Champlin](https://open.spotify.com/artist/4W6kSTuYNVuHw97QMvb2TB), [Gabrielle Ruiz](https://open.spotify.com/artist/5MVEzr4FAatsTTkPhDXkHj), [Rachel Bloom](https://open.spotify.com/artist/2tCT4ybLKzhFYsDF6ZOKAY), [Vella Lovell](https://open.spotify.com/artist/4QLs1KUSQaafoB2dGnxvmR) | [Crazy Ex\-Girlfriend: Season 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/61qQpAsfOVhFo5iDnKth4o) | 2:38 |
 
-Snapshot ID: `Z8UZiQAAAADVbZBDS2T2sN5j0qnsxm+D`
+Snapshot ID: `Z+9ZSwAAAAASpDURRhgN9a5yKQLxRKXu`

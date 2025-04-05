@@ -2,7 +2,7 @@
 
 ### [Broadway Rising](https://open.spotify.com/playlist/37i9dQZF1DWUakt2wHhaeT)
 
-> The best songs from the new shows and the buzziest hits\. Cover: Darren Criss and Helen J Shen in Maybe Happy Ending
+> The best songs from the new shows and the buzziest hits\. Cover: Operation Mincemeat
 
 147 songs - 9 hr 20 min
 

@@ -1,6 +1,6 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 57809,
+  "num_followers": 57821,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-02-14 08:13:21",
       "album": {
-        "name": "After this night",
-        "url": "https://open.spotify.com/album/1A31imB5bDtcwBogAvxIzG"
-      },
-      "artists": [
-        {
-          "name": "KIM A REUM",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
-        }
-      ],
-      "duration_ms": 262658,
-      "name": "After this night",
-      "url": "https://open.spotify.com/track/243eZR6OEAl0AKFAOWH6lK"
-    },
-    {
-      "added_at": "2025-02-14 08:13:21",
-      "album": {
         "name": "Sparkling",
         "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 231294,
       "name": "Sparkling",
       "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
+    },
+    {
+      "added_at": "2025-02-14 08:13:21",
+      "album": {
+        "name": "After this night",
+        "url": "https://open.spotify.com/album/1A31imB5bDtcwBogAvxIzG"
+      },
+      "artists": [
+        {
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+        }
+      ],
+      "duration_ms": 262658,
+      "name": "After this night",
+      "url": "https://open.spotify.com/track/243eZR6OEAl0AKFAOWH6lK"
     },
     {
       "added_at": "2025-02-14 08:13:21",
@@ -779,18 +779,22 @@
     {
       "added_at": "2025-02-14 08:13:21",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603"
+        "name": "The Story Of The Year (feat. Wonwoo)",
+        "url": "https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc"
       },
       "artists": [
         {
-          "name": "KIM A REUM",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+          "name": "PARKMOONCHI",
+          "url": "https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh"
+        },
+        {
+          "name": "Wonwoo",
+          "url": "https://open.spotify.com/artist/4G2Rc8UO9dVp8nJs5fJH7f"
         }
       ],
-      "duration_ms": 234856,
-      "name": "Line",
-      "url": "https://open.spotify.com/track/5nzNROKcMSGmtTsVHIg5tc"
+      "duration_ms": 253948,
+      "name": "The Story Of The Year (feat. Wonwoo)",
+      "url": "https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj"
     },
     {
       "added_at": "2025-02-14 08:13:21",
@@ -811,22 +815,18 @@
     {
       "added_at": "2025-02-14 08:13:21",
       "album": {
-        "name": "The Story Of The Year (feat. Wonwoo)",
-        "url": "https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc"
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603"
       },
       "artists": [
         {
-          "name": "PARKMOONCHI",
-          "url": "https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh"
-        },
-        {
-          "name": "Wonwoo",
-          "url": "https://open.spotify.com/artist/4G2Rc8UO9dVp8nJs5fJH7f"
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
         }
       ],
-      "duration_ms": 253948,
-      "name": "The Story Of The Year (feat. Wonwoo)",
-      "url": "https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj"
+      "duration_ms": 234856,
+      "name": "Line",
+      "url": "https://open.spotify.com/track/5nzNROKcMSGmtTsVHIg5tc"
     },
     {
       "added_at": "2025-02-14 08:13:21",
@@ -887,6 +887,22 @@
     {
       "added_at": "2025-02-14 08:13:21",
       "album": {
+        "name": "Beautiful Night - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
+      },
+      "artists": [
+        {
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a"
+    },
+    {
+      "added_at": "2025-02-14 08:13:21",
+      "album": {
         "name": "AQUA CITY",
         "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 299500,
       "name": "Aqua (feat. Muzie)",
       "url": "https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC"
-    },
-    {
-      "added_at": "2025-02-14 08:13:21",
-      "album": {
-        "name": "Beautiful Night - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
-      },
-      "artists": [
-        {
-          "name": "YESUNG",
-          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
-        }
-      ],
-      "duration_ms": 214560,
-      "name": "Fireworks",
-      "url": "https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a"
     },
     {
       "added_at": "2025-02-14 08:13:21",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-02-14 08:13:21",
       "album": {
-        "name": "Breathing",
-        "url": "https://open.spotify.com/album/76vBevdqAA4XSFe7Zg3J3y"
-      },
-      "artists": [
-        {
-          "name": "Joosiq",
-          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
-        }
-      ],
-      "duration_ms": 173296,
-      "name": "Breathing",
-      "url": "https://open.spotify.com/track/4WV4vmgNARzkQVQ4e9nyxT"
-    },
-    {
-      "added_at": "2025-02-14 08:13:21",
-      "album": {
         "name": "Sorrow",
         "url": "https://open.spotify.com/album/4j7fShY9MfyKPgq5czbii0"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 208085,
       "name": "Sorrow",
       "url": "https://open.spotify.com/track/0XwGln1yachgJd8PMrfzZ5"
+    },
+    {
+      "added_at": "2025-02-14 08:13:21",
+      "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/76vBevdqAA4XSFe7Zg3J3y"
+      },
+      "artists": [
+        {
+          "name": "Joosiq",
+          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
+        }
+      ],
+      "duration_ms": 173296,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/4WV4vmgNARzkQVQ4e9nyxT"
     },
     {
       "added_at": "2025-02-14 08:13:21",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-02-14 08:13:21",
       "album": {
-        "name": "Here, This Moment",
-        "url": "https://open.spotify.com/album/4NjnvUDqzaOVE5pLT5SSBl"
-      },
-      "artists": [
-        {
-          "name": "ARTLOVEU",
-          "url": "https://open.spotify.com/artist/3o93aoLsZL0csTtbotjJdO"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "Here, This Moment",
-      "url": "https://open.spotify.com/track/7sQmOXlFUZzlggFaRRG1C0"
-    },
-    {
-      "added_at": "2025-02-14 08:13:21",
-      "album": {
         "name": "Plastic Candy",
         "url": "https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 214106,
       "name": "Plastic Candy",
       "url": "https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr"
+    },
+    {
+      "added_at": "2025-02-14 08:13:21",
+      "album": {
+        "name": "Here, This Moment",
+        "url": "https://open.spotify.com/album/4NjnvUDqzaOVE5pLT5SSBl"
+      },
+      "artists": [
+        {
+          "name": "ARTLOVEU",
+          "url": "https://open.spotify.com/artist/3o93aoLsZL0csTtbotjJdO"
+        }
+      ],
+      "duration_ms": 226173,
+      "name": "Here, This Moment",
+      "url": "https://open.spotify.com/track/7sQmOXlFUZzlggFaRRG1C0"
     },
     {
       "added_at": "2025-02-14 08:13:21",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2025-02-14 08:13:21",
       "album": {
-        "name": "Embracing",
-        "url": "https://open.spotify.com/album/7Bkkj3Tj5I2fGHH0KgwXYD"
+        "name": "Pier",
+        "url": "https://open.spotify.com/album/12A6nMaKXm2zLGxzLA6UDd"
       },
       "artists": [
         {
-          "name": "The Stray",
-          "url": "https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6"
+          "name": "Llwyd",
+          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
         }
       ],
-      "duration_ms": 202426,
-      "name": "Embracing",
-      "url": "https://open.spotify.com/track/5Waqzt9QtbAh7MzuZOC01q"
+      "duration_ms": 174624,
+      "name": "Pier",
+      "url": "https://open.spotify.com/track/1X2LxOHifIksEnDHUTlXCo"
     }
   ],
   "unique_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",

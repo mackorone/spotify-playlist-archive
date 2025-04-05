@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-483 songs - 20 hr 30 min
+485 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Berceuse](https://open.spotify.com/track/04JrzZqZTMeY5gRY3IH7Pr) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Berceuse](https://open.spotify.com/album/71ey9Q6ZMIjIbkQV76nqIr) | 3:04 | 2022-12-22 |  |
 | [Beyond](https://open.spotify.com/track/7LI2fD9JTssq4v5oDgIkeq) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Beyond](https://open.spotify.com/album/2gflztD0uo7P987eJrykqF) | 2:25 | 2024-12-13 |  |
 | [Bienveillant](https://open.spotify.com/track/0RFePvTBDtrlnhopyDRS73) | [Edie Chastain](https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk) | [Bienveillant](https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr) | 1:57 | 2022-04-04 | 2023-07-19 |
+| [Blessed Summer](https://open.spotify.com/track/0vWT4QBIvtiGoQ0nFenKh6) | [Atlas Orson](https://open.spotify.com/artist/359p54G5Nn0vRDnD2Wrm16) | [Blessed Summer](https://open.spotify.com/album/7lyovuOXuChvT9oAwEx92Y) | 2:43 | 2025-04-04 |  |
 | [Blossom](https://open.spotify.com/track/3DFYPYOE6jFAFESDNNPinu) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Blossom](https://open.spotify.com/album/3ta3NvHbPjI3CL4DmMHFTk) | 2:24 | 2022-04-04 | 2024-03-26 |
 | [Blossom](https://open.spotify.com/track/10pCEITWkgRHhTAuCtvMWK) | [Ricki Westberg](https://open.spotify.com/artist/17cS5flbpagsd0kN3lchx4) | [Blossom](https://open.spotify.com/album/46h9YpSwtk2AIq2ICk0Fsb) | 2:16 | 2022-04-04 | 2024-02-15 |
 | [Blue House](https://open.spotify.com/track/6GubNK7uYQmYv1s1mxLiTY) | [Henri Mael](https://open.spotify.com/artist/5olHxtBnXQ3IO0oXnDE0bF) | [Blue House](https://open.spotify.com/album/70dJ2yvfX09aX1wXEqwRhj) | 2:32 | 2024-10-15 |  |
@@ -314,6 +315,7 @@
 | [Purity](https://open.spotify.com/track/3iyNoFOyMTZU1SdGbnmdy6) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Purity](https://open.spotify.com/album/3Xf0HZNA30BxiiMB0SqMuj) | 2:26 | 2022-04-04 |  |
 | [Quando gli alberi incontrano il vento](https://open.spotify.com/track/1HByqL0NBv4U3EXobDUkiy) | [Riccardo Lucciano](https://open.spotify.com/artist/20WwrV7uTNMYTN1Rax9ORA) | [Quando gli alberi incontrano il vento](https://open.spotify.com/album/5gC9wVZoOL4bJNSo9eoclI) | 2:55 | 2022-04-04 | 2024-02-03 |
 | [Qui vivra verra](https://open.spotify.com/track/2jOawh03Qd5vi7sFRsvXRd) | [Michael Brogadaccio](https://open.spotify.com/artist/6ZqnKTqzs5B9g2K68OCKVo) | [Qui vivra verra](https://open.spotify.com/album/6950UP041DVdTcDYmBOhKd) | 2:13 | 2022-04-04 | 2022-07-08 |
+| [Quiet Beginning](https://open.spotify.com/track/12UkgnkfHjLOI9amTjZwne) | [Duke Wolverine](https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM) | [Quiet Beginning](https://open.spotify.com/album/1ndrUSDw5h0uxyY2mlHEUN) | 2:44 | 2025-04-04 |  |
 | [Quiet Nights](https://open.spotify.com/track/4mHCaIQknzBBYYijiJsIOx) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Quiet Nights](https://open.spotify.com/album/5q5iEqsyefKYEfu6W9Xc3E) | 2:11 | 2024-05-07 |  |
 | [Quiet Sky](https://open.spotify.com/track/1LIybLsVVg5oRJgVsMAWlD) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Quiet Sky](https://open.spotify.com/album/7F3GAMnlnyehjRASL9zm5v) | 2:01 | 2024-11-12 |  |
 | [Quieta](https://open.spotify.com/track/7krJMuarlF8bRWtSynEsTY) | [Gioia Moreschi](https://open.spotify.com/artist/1of4wsX19bjyw0CH1g5miH) | [Quieta](https://open.spotify.com/album/6qtAC4ioQYFYJdrcmEahQk) | 2:43 | 2022-04-04 | 2022-11-19 |

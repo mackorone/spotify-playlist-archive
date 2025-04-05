@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 193146,
       "name": "Adorn",
       "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
@@ -3002,7 +3002,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-04",
+      "date_removed": null,
       "duration_ms": 268538,
       "name": "Angikwazi ukukhuluma",
       "url": "https://open.spotify.com/track/0fzMIBpjLCRJuO7aI0p6Hw"
@@ -12186,7 +12186,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 243853,
       "name": "DUBAI",
       "url": "https://open.spotify.com/track/0mh6Fg4hnUN8fzxBUD3Adl"
@@ -24984,7 +24984,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 249093,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/5WphWTUIfRe7x8NZss79cY"
@@ -25002,7 +25002,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-04",
+      "date_removed": null,
       "duration_ms": 249120,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/7GaFYUqP2WdR4KTPk7cXoP"
@@ -38270,6 +38270,32 @@
       "duration_ms": 267189,
       "name": "Shapa Bell",
       "url": "https://open.spotify.com/track/5gv0qxo4O7kuU6tOzIYm2k"
+    },
+    {
+      "album": {
+        "name": "Shapa Bell (feat. King WaveMusiq)",
+        "url": "https://open.spotify.com/album/0wRsKVn47YLBDp5HoUEXH9"
+      },
+      "artists": [
+        {
+          "name": "Naleboy Young King",
+          "url": "https://open.spotify.com/artist/3Ch9utlMQuu1Ngf8yOcGUY"
+        },
+        {
+          "name": "Shandesh",
+          "url": "https://open.spotify.com/artist/6O8qQfCCNd7Ba2Y1hk2QLh"
+        },
+        {
+          "name": "King WaveMusiq",
+          "url": "https://open.spotify.com/artist/2xJGei923f4J3FsZxD1tKm"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267189,
+      "name": "Shapa Bell (feat. King WaveMusiq)",
+      "url": "https://open.spotify.com/track/1y8zzw3sYud9aHmAK8ujV6"
     },
     {
       "album": {

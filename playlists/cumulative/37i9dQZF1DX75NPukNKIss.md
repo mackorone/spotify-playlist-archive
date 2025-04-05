@@ -2,9 +2,9 @@
 
 ### [Sexy Drill](https://open.spotify.com/playlist/37i9dQZF1DX75NPukNKIss)
 
-> Way 2 Slizzy\. Click into the feed to learn all about the movement\. Cover: Cash Cobain
+> Way 2 Slizzy\. Click into the feed to learn all about the movement\. Cover: Playboi Carti
 
-110 songs - 5 hr 7 min
+111 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Body \(feat\. Cash Cobain\)](https://open.spotify.com/track/7lk77UiboOecWW4ot68mBl) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Body \(feat\. Cash Cobain\)](https://open.spotify.com/album/1x4Dc7YK3ZvBckQyDN91vY) | 3:12 | 2024-10-25 |  |
 | [cake](https://open.spotify.com/track/7eWKbchJXbuMc3SoLsLWa4) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [cake / don't be dishonest](https://open.spotify.com/album/2VFC37FS3TqHDUlRoqzoAJ) | 2:57 | 2024-10-25 |  |
 | [Calling For You \(feat\. 21 Savage\)](https://open.spotify.com/track/2nibvvDdAQkVraYP00z2RS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:45 | 2024-10-25 |  |
+| [Can’t Be Crete Boy](https://open.spotify.com/track/6azLIBwMsR99vcd360aoGE) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Can’t Be Crete Boy](https://open.spotify.com/album/4NutdbTH11xdWpDhsi1gda) | 3:42 | 2025-04-04 |  |
 | [Cash Cobain x Fumez The Engineer \- Plugged In](https://open.spotify.com/track/2sJVvtTApYkcxzBrUepxZv) | [Fumez The Engineer](https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Cash Cobain x Fumez The Engineer \- Plugged In](https://open.spotify.com/album/5aZG2yBmyq60pWnzlgjGPW) | 2:20 | 2024-12-20 | 2025-01-25 |
 | [Choosy](https://open.spotify.com/track/3KVCN9ODBU5EMzsmljXYOA) | [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb) | [Choosy](https://open.spotify.com/album/2HYBLSNEyoLtTf1VH5jx99) | 2:15 | 2024-12-10 |  |
 | [Ciao!](https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:05 | 2024-10-25 |  |
@@ -34,7 +35,7 @@
 | [copy my drip](https://open.spotify.com/track/7bHIWlVy5WLS6RMRfwO0nv) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [copy my drip](https://open.spotify.com/album/65RYCA2Ve7EKew5hk3qiU6) | 2:18 | 2024-10-25 | 2025-02-08 |
 | [Dallas](https://open.spotify.com/track/0ZC12m6kUhU0gWGXD5VkVs) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Dallas](https://open.spotify.com/album/2ett4tFMejclvi2k8in5J4) | 2:56 | 2024-11-06 |  |
 | [Daylight](https://open.spotify.com/track/3HPMlKfHRUCfHiPHSLn2tf) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Daylight](https://open.spotify.com/album/1luRfnNDvf6dpIRDlWjk7O) | 3:49 | 2024-10-25 |  |
-| [Dior](https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 3:36 | 2025-02-28 |  |
+| [Dior](https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 3:36 | 2025-02-28 | 2025-04-05 |
 | [Dip](https://open.spotify.com/track/7eSsYyu7NEbqsDhP27H5pd) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Dip](https://open.spotify.com/album/6b2nQgSkNV7bdeQ2xVoPHm) | 1:39 | 2024-12-20 |  |
 | [Dirty Diana](https://open.spotify.com/track/5okSTJQJ6qWVG0WsvNGwZZ) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [A Jaguar's Dream](https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP) | 2:36 | 2025-01-24 | 2025-02-22 |
 | [Don't Walk Away \(feat\. Carey Washington\)](https://open.spotify.com/track/26oKe28Gqyp9uhRhWNAvqm) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Carey Washington](https://open.spotify.com/artist/1o69wyMnma62W8juhb8gAH) | [PICASSO: SLUFFIN SZN X SLUT SZN](https://open.spotify.com/album/5XKf4jhGXPuxuUcv32bxe8) | 3:22 | 2024-12-26 | 2025-01-11 |
@@ -61,7 +62,7 @@
 | [JHOLIDAY 2](https://open.spotify.com/track/3i9esirqy4JsNbHqK19EHp) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [2 SLIZZY 2 SEXY \(DELUXE\)](https://open.spotify.com/album/0xt9g8Z9ycCUDlKcSMZsBy) | 2:03 | 2024-12-10 |  |
 | [Jodeci \(Remix\) \[with Vontee the Singer & Cash Cobain\]](https://open.spotify.com/track/0FJs8qeAmoEwmZ6ofaBYrx) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK), [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Jodeci \(Remix\)](https://open.spotify.com/album/1kyI3Ci7WNgngBwjffXBFE) | 3:30 | 2024-12-13 |  |
 | [KEHLANI \(REMIX\) \[feat\. Kehlani\]](https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [KEHLANI \(REMIX\) \[feat\. Kehlani\]](https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ) | 2:59 | 2024-10-25 |  |
-| [Kill Shit \(feat\. Lil Bibby\) \- Bonus Track](https://open.spotify.com/track/4DLO89J3G62BcXy6coIukw) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Bibby](https://open.spotify.com/artist/4uSN8Y3kgFNVULUWsZEAVW) | [Welcome to Fazoland](https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl) | 2:59 | 2025-02-28 |  |
+| [Kill Shit \(feat\. Lil Bibby\) \- Bonus Track](https://open.spotify.com/track/4DLO89J3G62BcXy6coIukw) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Bibby](https://open.spotify.com/artist/4uSN8Y3kgFNVULUWsZEAVW) | [Welcome to Fazoland](https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl) | 2:59 | 2025-02-28 | 2025-04-05 |
 | [lemme get ya \#](https://open.spotify.com/track/3PU4l9xwLw7jqjazooLqL1) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [GIRLS CUM FIRST!](https://open.spotify.com/album/7e6x5Hm3bHg9cENpfsCyvw) | 3:45 | 2025-02-14 | 2025-03-08 |
 | [Lexy Sove](https://open.spotify.com/track/28xIKL8bPz0xsyAkNpyQpp) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [BIRTHDAY MIX 6](https://open.spotify.com/album/33nkEur8beeeEcTA4nxapX) | 2:52 | 2025-02-28 |  |
 | [Lifted](https://open.spotify.com/track/0zMzOp7GY9yBrTFB8ZKtpK) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [PICASSO: SLUFFIN SZN X SLUT SZN](https://open.spotify.com/album/5XKf4jhGXPuxuUcv32bxe8) | 3:50 | 2024-12-26 |  |

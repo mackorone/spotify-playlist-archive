@@ -1,6 +1,6 @@
 {
   "description": "Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.",
-  "num_followers": 75360,
+  "num_followers": 75382,
   "original_name": "This Is Dvo\u0159\u00e1k",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,26 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Borodin, Dvorak & Shostakovich String Quartets",
+        "url": "https://open.spotify.com/album/57kXR3zqpL5ziZX64QYC6N"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Chilingirian Quartet",
+          "url": "https://open.spotify.com/artist/31Q9Bw9JjyG9ySC2d0aZa2"
+        }
+      ],
+      "duration_ms": 225533,
+      "name": "String Quartet No. 12 in F Major, \"American\", Op. 96: III. Molto Vivace",
+      "url": "https://open.spotify.com/track/5uENn7jXv3ZSlElEJeu2VY"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Dvo\u0159\u00e1k: Legends Op. 59, Czech Suite Op. 39",
         "url": "https://open.spotify.com/album/38zC1vOcW19QnBw0HHf7OV"
       },
@@ -651,26 +671,6 @@
       "duration_ms": 347030,
       "name": "Legends, Op. 59, B. 122: VI. Allegro con moto",
       "url": "https://open.spotify.com/track/5ppkIsSbPxRLb8h8dPo7Ru"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Borodin, Dvorak & Shostakovich String Quartets",
-        "url": "https://open.spotify.com/album/57kXR3zqpL5ziZX64QYC6N"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Chilingirian Quartet",
-          "url": "https://open.spotify.com/artist/31Q9Bw9JjyG9ySC2d0aZa2"
-        }
-      ],
-      "duration_ms": 225533,
-      "name": "String Quartet No. 12 in F Major, \"American\", Op. 96: III. Molto Vivace",
-      "url": "https://open.spotify.com/track/5uENn7jXv3ZSlElEJeu2VY"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -839,26 +839,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Poetic Tone Pictures, Op.85/VIII. Goblins' Dance",
-        "url": "https://open.spotify.com/album/1c2mXEqwJQ0tjqoyEZD6Wb"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        }
-      ],
-      "duration_ms": 194541,
-      "name": "Poetic Tone Pictures, Op.85: VIII. Goblins' Dance",
-      "url": "https://open.spotify.com/track/69cpBS0y62ZcS5HYraDqre"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Dvor\u00e1k: Symphonies 5 & 7-9",
         "url": "https://open.spotify.com/album/64fct3PJhtZ8PdfPGXfsv6"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 492266,
       "name": "Dvo\u0159\u00e1k: Symphony No. 5 in F Major, Op. 76, B. 54: II. Andante con moto",
       "url": "https://open.spotify.com/track/6RBeBgl7mZFjo0HSZLHGBL"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Poetic Tone Pictures, Op.85/VIII. Goblins' Dance",
+        "url": "https://open.spotify.com/album/1c2mXEqwJQ0tjqoyEZD6Wb"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "duration_ms": 194541,
+      "name": "Poetic Tone Pictures, Op.85: VIII. Goblins' Dance",
+      "url": "https://open.spotify.com/track/69cpBS0y62ZcS5HYraDqre"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1323,50 +1323,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvorak, A.: String Quartets, Vol. 5 (Vlach Quartet) - Cypresses / String Quartet Movement in F Major / 2 Waltzes / Gavotte",
-        "url": "https://open.spotify.com/album/72akndhhoVkQP0Osy59o3e"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Vlach Quartet Prague",
-          "url": "https://open.spotify.com/artist/0Apnbohc6st5hulSIdnJsQ"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "Ohlas pisni (Echo of Songs), B. 152: In Deepest Forest Glade [arr. Of Cypresses, B. 11 for string quartet]",
-      "url": "https://open.spotify.com/track/2ij7wpr5M4a8QxGSuPWZIn"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "DVORAK: Ballad / Capriccio / Silent Woods",
-        "url": "https://open.spotify.com/album/7qPa1XUBnlVGWZlSr2EGhT"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Zhou Qian",
-          "url": "https://open.spotify.com/artist/2iXdgthjBpaempU6MhcC3n"
-        },
-        {
-          "name": "Edmund Battersby",
-          "url": "https://open.spotify.com/artist/5uRiliqFaektxtLMHVxXWB"
-        }
-      ],
-      "duration_ms": 168733,
-      "name": "Zigeunermelodien, Op. 55, B. 104, No. 4. Als die alte Mutter (Songs my Mother Taught Me): Songs my mother taught me, Op. 55, No. 4 [arr. F. Kreisler for violin and piano]",
-      "url": "https://open.spotify.com/track/6J1t4iUFDSFN6xFw5UbESp"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Dvorak: American Suite / Silent Woods / Prague Waltzes",
         "url": "https://open.spotify.com/album/0nfpohWSOl0iTyiRX6X7LZ"
       },
@@ -1415,30 +1371,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvorak: Hero's Song (A) / Czech Suite / Hussite Overture",
-        "url": "https://open.spotify.com/album/1JMTUlVte2mMxZ8adiJfsf"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Polish National Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
-        },
-        {
-          "name": "Antoni Wit",
-          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
-        }
-      ],
-      "duration_ms": 292826,
-      "name": "Festival March, Op. 54, B. 88: Festival March, B. 88, Op. 54",
-      "url": "https://open.spotify.com/track/7gKAIiUwA15DcZlAqbTGfE"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Dvo\u0159\u00e1k: Symphony No. 2 - Legends Op. 59, Nos. 6-10",
         "url": "https://open.spotify.com/album/0E9fa2fcf5fuusQkKyNSic"
       },
@@ -1459,6 +1391,74 @@
       "duration_ms": 161000,
       "name": "10 Legends, Op. 59, B. 122: No. 9, Andante con moto",
       "url": "https://open.spotify.com/track/6vgV33AjnYMUfWdsDAZx4B"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvorak, A.: String Quartets, Vol. 5 (Vlach Quartet) - Cypresses / String Quartet Movement in F Major / 2 Waltzes / Gavotte",
+        "url": "https://open.spotify.com/album/72akndhhoVkQP0Osy59o3e"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Vlach Quartet Prague",
+          "url": "https://open.spotify.com/artist/0Apnbohc6st5hulSIdnJsQ"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "Ohlas pisni (Echo of Songs), B. 152: In Deepest Forest Glade [arr. Of Cypresses, B. 11 for string quartet]",
+      "url": "https://open.spotify.com/track/2ij7wpr5M4a8QxGSuPWZIn"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "DVORAK: Ballad / Capriccio / Silent Woods",
+        "url": "https://open.spotify.com/album/7qPa1XUBnlVGWZlSr2EGhT"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Zhou Qian",
+          "url": "https://open.spotify.com/artist/2iXdgthjBpaempU6MhcC3n"
+        },
+        {
+          "name": "Edmund Battersby",
+          "url": "https://open.spotify.com/artist/5uRiliqFaektxtLMHVxXWB"
+        }
+      ],
+      "duration_ms": 168733,
+      "name": "Zigeunermelodien, Op. 55, B. 104, No. 4. Als die alte Mutter (Songs my Mother Taught Me): Songs my mother taught me, Op. 55, No. 4 [arr. F. Kreisler for violin and piano]",
+      "url": "https://open.spotify.com/track/6J1t4iUFDSFN6xFw5UbESp"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvorak: Hero's Song (A) / Czech Suite / Hussite Overture",
+        "url": "https://open.spotify.com/album/1JMTUlVte2mMxZ8adiJfsf"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "duration_ms": 292826,
+      "name": "Festival March, Op. 54, B. 88: Festival March, B. 88, Op. 54",
+      "url": "https://open.spotify.com/track/7gKAIiUwA15DcZlAqbTGfE"
     },
     {
       "added_at": "2022-09-30 04:01:00",

@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-361 songs - 20 hr 45 min
+362 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [Si Regresas](https://open.spotify.com/track/56MNKndcWxFCIlgpDtd8Fd) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Si Regresas](https://open.spotify.com/album/5hSPjucZjmNTdvuJ4Th9xW) | 3:23 | 2024-05-03 | 2024-05-25 |
 | [Si Te Vas \- Vivo](https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [El Mago Y La Nueva](https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU) | [Si Te Vas \(Vivo\)](https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM) | 4:35 | 2021-12-24 | 2024-07-13 |
 | [Si Un Día Estás Sola \| CROSSOVER \#7](https://open.spotify.com/track/5AkLEnorFvb7WIJOGqKYVT) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Si Un Día Estás Sola \| CROSSOVER \#7](https://open.spotify.com/album/2nEAqrVGMybdrkN3gP9NGF) | 2:44 | 2024-09-04 |  |
+| [Siempre Te Amaré](https://open.spotify.com/track/36x26xwtCVlkB5GOXWHPkD) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Siempre Te Amaré](https://open.spotify.com/album/5hBzllmbT50u4SaoR6eEpi) | 3:09 | 2025-04-04 |  |
 | [Siento](https://open.spotify.com/track/6P3P2GtNiCCIZrXEb9INcw) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Siento](https://open.spotify.com/album/26oBWM1k8dNJgcB89m5xnw) | 2:45 | 2023-01-06 | 2023-02-18 |
 | [Sin Ayuda](https://open.spotify.com/track/11mbrI6qv47pr41GzU3reG) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25), [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Sin Ayuda](https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV) | 3:49 | 2022-08-26 | 2022-09-10 |
 | [Son de Amores](https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Amor de Mentiras](https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh) | 2:51 | 2023-04-03 |  |

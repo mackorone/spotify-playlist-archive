@@ -11855,6 +11855,24 @@
     },
     {
       "album": {
+        "name": "Pipe Down",
+        "url": "https://open.spotify.com/album/7pNGJ4e0VIqDXt3S9yTyeM"
+      },
+      "artists": [
+        {
+          "name": "Noisy Charlie",
+          "url": "https://open.spotify.com/artist/64O9yp0OG3PUKs11YjcAWN"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281052,
+      "name": "Pipe Down",
+      "url": "https://open.spotify.com/track/3IPG9sobVyGdFgMqEIvbNB"
+    },
+    {
+      "album": {
         "name": "Planet Nine",
         "url": "https://open.spotify.com/album/3MuUF4M67ZzKFdcO1u5jNk"
       },
@@ -16897,6 +16915,32 @@
     },
     {
       "album": {
+        "name": "HoodStar Mixtape",
+        "url": "https://open.spotify.com/album/6poTCQ1IEy7L61dgWEjQkN"
+      },
+      "artists": [
+        {
+          "name": "JA",
+          "url": "https://open.spotify.com/artist/2iDmpW2aUMre2v18ul2HCi"
+        },
+        {
+          "name": "DRG",
+          "url": "https://open.spotify.com/artist/5l4gTRr24i5PzATUlUixvt"
+        },
+        {
+          "name": "Moslow",
+          "url": "https://open.spotify.com/artist/0WFVpOylOREYnxlknLiTqL"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177380,
+      "name": "Why me (feat. Moslow)",
+      "url": "https://open.spotify.com/track/6kqxSwYtbUbTeyI83uMqPc"
+    },
+    {
+      "album": {
         "name": "Bedroom",
         "url": "https://open.spotify.com/album/7bR2DvGjbJCfUi9HCkpSAp"
       },
@@ -20034,6 +20078,28 @@
       "duration_ms": 228189,
       "name": "\u5927\u6709",
       "url": "https://open.spotify.com/track/3WT0JXvJp6D0xGdGUuisHX"
+    },
+    {
+      "album": {
+        "name": "HoodStar Mixtape",
+        "url": "https://open.spotify.com/album/6poTCQ1IEy7L61dgWEjQkN"
+      },
+      "artists": [
+        {
+          "name": "JA",
+          "url": "https://open.spotify.com/artist/2iDmpW2aUMre2v18ul2HCi"
+        },
+        {
+          "name": "DRG",
+          "url": "https://open.spotify.com/artist/5l4gTRr24i5PzATUlUixvt"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147012,
+      "name": "\u5927\u81bd\u8eca",
+      "url": "https://open.spotify.com/track/2a83S6ERQuoYG5ZF39gR9M"
     },
     {
       "album": {

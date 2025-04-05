@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from ShNik, Nakash Aziz, Anubha Bajaj and more. ",
+  "description": "Latest music from Armaan Malik, Hansika Pareek, Madhur Sharma and more. ",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -7135,6 +7135,24 @@
     },
     {
       "album": {
+        "name": "Dil Mera",
+        "url": "https://open.spotify.com/album/3tyW2iwYOe9SKcrYlD7TJh"
+      },
+      "artists": [
+        {
+          "name": "Mansheel Gujral",
+          "url": "https://open.spotify.com/artist/7zfceKY7I04Tc0J2o7043h"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259354,
+      "name": "Dil Mera",
+      "url": "https://open.spotify.com/track/0UAwwNREss3JiS286i8SNO"
+    },
+    {
+      "album": {
         "name": "Dil Mera (feat. Yashraj)",
         "url": "https://open.spotify.com/album/7GlA1ckwyopYmRxvSZs4Hs"
       },
@@ -10778,7 +10796,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 328181,
       "name": "Holi Aayi Re | Coke Studio Bharat",
       "url": "https://open.spotify.com/track/64ity98lLkRVEZMfS8MSyI"
@@ -17876,7 +17894,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 187197,
       "name": "Manjha",
       "url": "https://open.spotify.com/track/5g2R2K3BsITGeCGBgVD7Em"
@@ -20071,6 +20089,32 @@
     },
     {
       "album": {
+        "name": "Nadi",
+        "url": "https://open.spotify.com/album/1jPFzDb2ednXUtyZEUla0H"
+      },
+      "artists": [
+        {
+          "name": "Keethan",
+          "url": "https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ"
+        },
+        {
+          "name": "Anurag Mishra",
+          "url": "https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206181,
+      "name": "Nadi",
+      "url": "https://open.spotify.com/track/2sIRICa5N0L4UUvf2RHlmQ"
+    },
+    {
+      "album": {
         "name": "Nahi Milna",
         "url": "https://open.spotify.com/album/7bXxnsZqE6Gdmj1TUPRVv7"
       },
@@ -20160,7 +20204,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 262159,
       "name": "Naina Barse Re",
       "url": "https://open.spotify.com/track/5uaydRyrlBpumHGnz8g7PK"
@@ -21016,7 +21060,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 199411,
       "name": "O Re Baanware",
       "url": "https://open.spotify.com/track/6iRGXlg1596k4MVOANsdIx"
@@ -25421,6 +25465,32 @@
     },
     {
       "album": {
+        "name": "Shartein",
+        "url": "https://open.spotify.com/album/3Z4gmVatSpBamkaJkNedrY"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Anshuman Sharma",
+          "url": "https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Shartein",
+      "url": "https://open.spotify.com/track/1FgWDCNXay9OdzhJvjf2Jk"
+    },
+    {
+      "album": {
         "name": "Shayar Toh Nahin Main",
         "url": "https://open.spotify.com/album/2FYqujzKuwissQUV30X3aq"
       },
@@ -27036,6 +27106,28 @@
       "duration_ms": 266181,
       "name": "Tere Alawa",
       "url": "https://open.spotify.com/track/3iYDi6QpDQ9qy7zgVPVfXS"
+    },
+    {
+      "album": {
+        "name": "Tere Apne",
+        "url": "https://open.spotify.com/album/3vEZjvaVIK1t5UlFlcyTnu"
+      },
+      "artists": [
+        {
+          "name": "Madhur Sharma",
+          "url": "https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ"
+        },
+        {
+          "name": "Ravator",
+          "url": "https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153786,
+      "name": "Tere Apne",
+      "url": "https://open.spotify.com/track/77H1gU6t4IxbZqJaGMc1Tz"
     },
     {
       "album": {
@@ -28732,6 +28824,28 @@
       "duration_ms": 192669,
       "name": "Tu Hi Meri Manzil",
       "url": "https://open.spotify.com/track/6uANApp4MD0VtM6Cdy27Ct"
+    },
+    {
+      "album": {
+        "name": "Tu Hi Meri Zindagi",
+        "url": "https://open.spotify.com/album/5wbgHV65OT4SjCzZkQCWk7"
+      },
+      "artists": [
+        {
+          "name": "Aashiq Khan",
+          "url": "https://open.spotify.com/artist/4V0NivLTfgUFtB6OIxpSus"
+        },
+        {
+          "name": "Denny",
+          "url": "https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197394,
+      "name": "Tu Hi Meri Zindagi",
+      "url": "https://open.spotify.com/track/7rgysJ5lEL2hIjBvfPeeGO"
     },
     {
       "album": {

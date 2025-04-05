@@ -253,6 +253,28 @@
     },
     {
       "album": {
+        "name": "After",
+        "url": "https://open.spotify.com/album/0pHOZW4Q0dR7bexbUolLqk"
+      },
+      "artists": [
+        {
+          "name": "Fractures",
+          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
+        },
+        {
+          "name": "Joe Hertz",
+          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241998,
+      "name": "After",
+      "url": "https://open.spotify.com/track/4Durwjt1E9NXXrpC29GPj6"
+    },
+    {
+      "album": {
         "name": "Aftertaste (D.O.D Remix)",
         "url": "https://open.spotify.com/album/6Sk0Mnki17p8mxtT4t6HjW"
       },
@@ -1763,6 +1785,32 @@
     },
     {
       "album": {
+        "name": "Cool",
+        "url": "https://open.spotify.com/album/1piiVzpaNkozzVjXKPvikB"
+      },
+      "artists": [
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "PAN",
+          "url": "https://open.spotify.com/artist/4QDFNS0p6YD8W7qji4roB3"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182255,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/0OTCBDrMgtftlMLdHwwg0m"
+    },
+    {
+      "album": {
         "name": "Crossed Our Hearts",
         "url": "https://open.spotify.com/album/1rdWSzcZSimmLjNQZQGO1o"
       },
@@ -2988,7 +3036,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 172319,
       "name": "Gonna Be Good",
       "url": "https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1"
@@ -3036,6 +3084,28 @@
       "duration_ms": 284618,
       "name": "Grains",
       "url": "https://open.spotify.com/track/65kSgWVGY4JIWNLWnfEwbe"
+    },
+    {
+      "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/15UAgYJjnGyi1NMAzs7yev"
+      },
+      "artists": [
+        {
+          "name": "Will Sass",
+          "url": "https://open.spotify.com/artist/1yCIbpGEKpVs3fZbGItAXc"
+        },
+        {
+          "name": "kamille",
+          "url": "https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188025,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/0twSL4pQxb6nCdSpZe9AdT"
     },
     {
       "album": {
@@ -5732,7 +5802,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 214000,
       "name": "Neverland",
       "url": "https://open.spotify.com/track/4SG5yceUikHS7sQ3Ugy6c3"
@@ -9386,7 +9456,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 168000,
       "name": "Where did you go",
       "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"

@@ -4,7 +4,7 @@
 
 > Relaxing classical music to soothe your baby.
 
-61 songs - 3 hr 58 min
+62 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [5 Lieder, Op\. 49: No\. 4, Wiegenlied](https://open.spotify.com/track/0h4em6VTiai5Kse54QuQtF) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Mari Samuelsen](https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx), [Julien Quentin](https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR) | [LIFE \(Extended\)](https://open.spotify.com/album/1MRWSzwrKNFSruanlpBYGS) | 2:01 | 2025-01-02 |  |
 | [6 Piano Pieces, Op\. 26: No\. 2, Pastoral Atmosphere](https://open.spotify.com/track/2jgbIBve4VfgQREVKnINEO) | [Toivo Kuula](https://open.spotify.com/artist/2QEZLBp41V3t2Ua0bNIiBG), [Adam Johnson](https://open.spotify.com/artist/4lMEnbAPKP5qkZM9CJXBq5) | [Kuula: Complete Works for Solo Piano](https://open.spotify.com/album/5ZhCzOuYyL2QXfUXSYypqi) | 3:44 | 2024-03-26 |  |
 | [Abendlied, Op\. 85, No\. 12 \(Arr\. for String Orchestra by Johan Svendsen\)](https://open.spotify.com/track/0QbizI8RErYJIi9ROgRM8Z) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Lucerne Festival Strings](https://open.spotify.com/artist/0sABleOLUMLgjJa6mpIaVc), [Daniel Dodds](https://open.spotify.com/artist/6o63U8OvSH1UfxT7xEbnEY) | [Abendlied, Op\. 85, No\. 12 \(Arr\. for String Orchestra by Johan Svendsen\)](https://open.spotify.com/album/1lEgngrSglgOHxOM2AnRqZ) | 3:22 | 2024-03-26 |  |
+| [Adagio in C Major for Glass Harmonica, K\. 356 \(Transcr\. for Piano\)](https://open.spotify.com/track/3Bw8tNViGRpU5apRbgdNE9) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Kun\-Woo Paik](https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX) | [MOZART: Piano Works 3](https://open.spotify.com/album/3kHdBZKRhA6ZSDIi3iM5DS) | 2:31 | 2025-04-04 |  |
 | [Adagio in E Major, K\. 261](https://open.spotify.com/track/2vBuaUzWANdghLfM1nF0Yw) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Pinchas Zukerman](https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER), [Saint Paul Chamber Orchestra](https://open.spotify.com/artist/0QjKu8W5tafMCDKKw3xHYT) | [Mozart: Works for Violin & Orchestra](https://open.spotify.com/album/4zETVNxxf0HT4iHXV0he0F) | 8:37 | 2022-05-24 |  |
 | [Adieux](https://open.spotify.com/track/1ymzdmQYjO3ThdlToYZnTq) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Adieux](https://open.spotify.com/album/5PPK24qrJdeoZBb8pVNWF6) | 2:55 | 2024-03-26 |  |
 | [Album for the Young, Op\. 39: No\. 3\. Mamma \(Maman\)](https://open.spotify.com/track/4GjfVYoUJ0OCmDiL869kUJ) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Carol Rosenberger](https://open.spotify.com/artist/3lYDYx5OUgPVrVvFLCCRB7) | [Piano Recital: Rosenberger, Carol \- Kabalevsky, D\. / Tchaikovsky, P\. \(Perchance To Dream \- A Lullaby Album for Children and Adults\)](https://open.spotify.com/album/2wiv4F0IkUWwFkv453uEkT) | 1:33 | 2022-05-24 |  |

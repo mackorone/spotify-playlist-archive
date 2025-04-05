@@ -2,9 +2,9 @@
 
 ### [New Music Friday South Africa](https://open.spotify.com/playlist/37i9dQZF1DXd0uyASpbU8w)
 
-> New music from Riky Rick, Miley Cyrus, Burna Boy and more.
+> New music from Riky Rick, Miley Cyrus,  Nomfundo Moh & Blaq Diamond and more.
 
-5,900 songs - 17 day 3 hr 55 min
+5,901 songs - 17 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4516,6 +4516,7 @@
 | [Sink Or Swim](https://open.spotify.com/track/4FDDExmv76Da7aaFqxbxVp) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:34 | 2024-07-11 | 2024-07-19 |
 | [Sinner](https://open.spotify.com/track/3vhpbuR6v6p5IlWtwCTgw0) | [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [Sinner](https://open.spotify.com/album/2vieCfsqKheXExeSeAKEQH) | 3:32 | 2024-02-01 | 2024-02-09 |
 | [Sinners](https://open.spotify.com/track/6nExxTqLbu86aatoDqCafi) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love \(Deluxe\)](https://open.spotify.com/album/77RV71qonUUyGIJdmHyl4N) | 3:24 | 2024-06-27 | 2024-07-05 |
+| [Sinners](https://open.spotify.com/track/0OyWRjMMbPKwnBtWdLg4Ws) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Sinners](https://open.spotify.com/album/3aUKmF2jQ0QPBe9QrNFLFr) | 3:08 | 2025-04-04 |  |
 | [Sip](https://open.spotify.com/track/1CMQQtOD2tAwCp0vtuOxIX) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sip](https://open.spotify.com/album/3rdm30kSOOJm3SDxcoVAs0) | 2:52 | 2024-10-31 | 2024-11-08 |
 | [Siphande](https://open.spotify.com/track/0BKf4K4htxOIeZaL6v9I0X) | [Mobi Dixon](https://open.spotify.com/artist/5gVxephJtTx5uMF26ZVptW), [Mr Nation Thingz](https://open.spotify.com/artist/5N1to90ym4E3lzJg0CyEGH), [Luigi Anywhere](https://open.spotify.com/artist/5a9qc56VdoSQ7pw6d464GK) | [Siphande](https://open.spotify.com/album/0tfY0k6RnIVqcXIiNhwcCO) | 5:11 | 2024-03-21 | 2024-03-29 |
 | [Sipthipithi \(feat\. Moozlie\)](https://open.spotify.com/track/0u6HQnrnpDozX23SzJCNvO) | [Nadia Nakai](https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r), [Moozlie](https://open.spotify.com/artist/4TvEx3QxTDbOBf5XgfNPiU) | [Braggacy](https://open.spotify.com/album/5GSzIExDzKE1DRFJgMim08) | 2:43 | 2025-03-14 | 2025-03-22 |
@@ -4813,7 +4814,7 @@
 | [Superwoman \(feat\. Mustbedubz & Zādok\)](https://open.spotify.com/track/7gNQsD6o6rPnlQAqQpJsh5) | [Kaylow](https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH), [Mustbedubz](https://open.spotify.com/artist/1BzSBZWwF5ApCmrziLqLXF), [Zādok](https://open.spotify.com/artist/72wC9dzKpqHCdw8fQwYpea) | [Superwoman \(feat\. Mustbedubz & Zādok\)](https://open.spotify.com/album/0ffx49MbZnhQiAmS7xOvvR) | 3:22 | 2024-08-02 | 2024-08-09 |
 | [SUPPOSED TO BE LOVED \(feat\. Lil Baby, Future & Lil Uzi Vert\)](https://open.spotify.com/track/2buC0ru4cVutdUhxIjH9Bj) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [SUPPOSED TO BE LOVED](https://open.spotify.com/album/1WTsQGAIC9JKFwP5iSgGU3) | 3:26 | 2023-08-11 | 2023-08-18 |
 | [Surfing Sunshine](https://open.spotify.com/track/5dEmj0lyKNp7Vx1saMUaAk) | [Elle E](https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C) | [Surfing Sunshine](https://open.spotify.com/album/45TtfU9h3o2KT4tUjMyeHt) | 3:33 | 2023-12-15 | 2023-12-22 |
-| [Surrender \(with Becky Hill\)](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Surrender \(with Becky Hill\)](https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd) | 2:24 | 2025-04-03 |  |
+| [Surrender](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Surrender](https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd) | 2:24 | 2025-04-03 |  |
 | [Survive](https://open.spotify.com/track/5yvupSFQQfTMRIkGgmT4WI) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Derry Black](https://open.spotify.com/artist/3e6qekdX5S8EZUaoyT6PAl) | [Once Upon A Cat](https://open.spotify.com/album/4aP4gc9FiGx6VqsDuCj6OX) | 1:55 | 2024-02-01 | 2024-02-09 |
 | [Survivor’s Remorse](https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Survivor’s Remorse](https://open.spotify.com/album/1vLOjsLCZT2mO1hqYS940W) | 2:36 | 2024-05-31 | 2024-06-07 |
 | [Suspended](https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 3:05 | 2023-10-20 | 2023-11-11 |

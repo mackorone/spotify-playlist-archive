@@ -4,7 +4,7 @@
 
 > El sonido de la nueva canción latinoamericana\. Foto: Mónica Giraldo
 
-102 songs - 5 hr 58 min
+103 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Inevitable \- En Vivo](https://open.spotify.com/track/1gia3p3JUP6igy5kcpJSGb) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira MTV Unplugged](https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe) | 3:39 | 2023-09-29 | 2023-11-18 |
 | [Jugar a Vivir](https://open.spotify.com/track/1QlZUoChINBN5BMRmZF0sS) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Camino al Sol](https://open.spotify.com/album/1XuG26LABHJVOLlf8VqkSN) | 3:45 | 2023-09-29 | 2023-11-18 |
 | [La Cara](https://open.spotify.com/track/48hh5h1N1oe2zmapBQ4uye) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [La Cara](https://open.spotify.com/album/3n4PlVDnUeFUuS1oIyuS7D) | 2:03 | 2023-09-29 |  |
+| [La cara de la ortiga](https://open.spotify.com/track/27OPxcqyTABukHAiZ34Pb6) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Andariega](https://open.spotify.com/album/37AyRt0ezX4AFtmgJk5cIm) | 3:23 | 2025-04-04 |  |
 | [La Casa en el Árbol](https://open.spotify.com/track/3huABT5ivPIR1PHXqCUUvk) | [Mónica Giraldo](https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx) | [La Casa en el Árbol](https://open.spotify.com/album/1AG8GE0esH6t4q25FGwYfb) | 3:25 | 2023-11-17 |  |
 | [La Flor de la Canela](https://open.spotify.com/track/4WKltvGwkSYSaCrRSeJKhJ) | [Mónica Giraldo](https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx) | [La Flor de la Canela](https://open.spotify.com/album/34pZStLrPFekoc8PgVeDWm) | 3:27 | 2023-09-29 |  |
 | [Las Cosas por Hacer](https://open.spotify.com/track/0M3jn8IclTVOtDpDU0xiTY) | [Carlos Cruzalegui](https://open.spotify.com/artist/0ZQlapKWlxWVqzNldGL4MU) | [Las Cosas por Hacer](https://open.spotify.com/album/67sMl3zLBdpdFxKUFkvch6) | 2:40 | 2023-12-08 |  |
@@ -99,7 +100,7 @@
 | [Suesca](https://open.spotify.com/track/0kypfp2rFu4yYj6VEcJ8np) | [Linamaria O.](https://open.spotify.com/artist/2dEVP1wKxAcWN6VrAi2FXx) | [Suesca](https://open.spotify.com/album/4vnyziCZ0moK6gPoQw013h) | 3:05 | 2023-09-29 |  |
 | [Sus Rejas Mis Quebrantos](https://open.spotify.com/track/6P76PhbSwWdGfGmnJV9Tqe) | [Gato e' Monte](https://open.spotify.com/artist/25lIeZ7Kyh0meagwUiGyTf) | [El Talante de la Noche](https://open.spotify.com/album/7rX3h3nG1B4fvR0XVnwSCs) | 3:04 | 2023-11-17 |  |
 | [Sí](https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Sí](https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ) | 2:38 | 2023-09-29 | 2023-11-18 |
-| [Te odio](https://open.spotify.com/track/1vzlHuHG3faKy8B0eM1qkz) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Te Odio](https://open.spotify.com/album/1DRNhAJ66xVONSta9qI4Zw) | 3:33 | 2023-11-17 |  |
+| [Te odio](https://open.spotify.com/track/1vzlHuHG3faKy8B0eM1qkz) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Te Odio](https://open.spotify.com/album/1DRNhAJ66xVONSta9qI4Zw) | 3:33 | 2023-11-17 | 2025-04-05 |
 | [Tierra de Promesas \(Sierra Nevada\)](https://open.spotify.com/track/3ev9a5BsLouEwswQ9IOXtC) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Tierra de Promesas \(Sierra Nevada\)](https://open.spotify.com/album/6IjstXhUKDh4NAPTXXxUbQ) | 3:31 | 2023-09-29 |  |
 | [Todo el Mundo](https://open.spotify.com/track/5b7y0RRMjV29LjGwlmSa5F) | [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC) | [Todo el Mundo](https://open.spotify.com/album/7aMjuoPDIKV8sdHM0qyukc) | 3:44 | 2023-11-17 |  |
 | [TUMBA'](https://open.spotify.com/track/5VHKnyCyzkCbniSP3m5qLD) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [TUMBA'](https://open.spotify.com/album/3OplKqs4WJ4oJSSBIOVkKu) | 4:16 | 2023-11-17 | 2024-08-17 |

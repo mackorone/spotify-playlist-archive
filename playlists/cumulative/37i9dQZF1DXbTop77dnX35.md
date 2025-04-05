@@ -4,7 +4,7 @@
 
 > New Music from Odumodublvck, Oxlade, t.i blaze and more
 
-2,296 songs - 4 day 18 hr 27 min
+2,297 songs - 4 day 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1837,6 +1837,7 @@
 | [Sika](https://open.spotify.com/track/3ByFqgSVYbv0lDxUj2JoKN) | [DJ Vyrusky](https://open.spotify.com/artist/20uZPZ6EXItffkdLevoEdV), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Sika](https://open.spotify.com/album/6S5LuVeKDZlP5v19xZ3FT1) | 2:34 | 2024-11-01 | 2024-11-08 |
 | [Sika Adeda Me](https://open.spotify.com/track/2enuAHX8IXT5gqcz4hWFZn) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [TRAVIS](https://open.spotify.com/album/4rG7WTMDTAvPMQlcFzTDVz) | 2:42 | 2024-06-07 | 2024-06-14 |
 | [Silent](https://open.spotify.com/track/2NtSkpWZJl7DWhftVplR2W) | [Cowater](https://open.spotify.com/artist/3CMj8SOmVkFWqJgl1SoggT) | [101](https://open.spotify.com/album/5fcKAJVweM7hBgBsOYzI6z) | 2:45 | 2024-10-18 | 2024-10-25 |
+| [Sinners](https://open.spotify.com/track/0OyWRjMMbPKwnBtWdLg4Ws) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Sinners](https://open.spotify.com/album/3aUKmF2jQ0QPBe9QrNFLFr) | 3:08 | 2025-04-04 |  |
 | [Sisi Nene](https://open.spotify.com/track/15ZgA1CgLRDssIEOGhhSsL) | [Fazil](https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq) | [Sisi Nene](https://open.spotify.com/album/5tYkS5doJnIaD0jKpi8oWY) | 2:35 | 2024-09-27 | 2024-10-04 |
 | [Size](https://open.spotify.com/track/4qqG8xVaDBo2H4qZjDLK2k) | [Fabid](https://open.spotify.com/artist/2JkpOZ7q90C4m9HhBfARrF), [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [SENTIMENTS](https://open.spotify.com/album/4t81aoXGB5f2PDy9Hupr9S) | 4:09 | 2024-08-16 | 2024-08-23 |
 | [Skala V](https://open.spotify.com/track/0HJk4Tbg9iS3UM7qdOAcZi) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj), [Teee Dollar](https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd) | [Skala V](https://open.spotify.com/album/1S2e4EeUocsaNuWaNLXrw1) | 2:03 | 2025-01-24 | 2025-01-31 |
@@ -2237,7 +2238,7 @@
 | [Winter & Summer](https://open.spotify.com/track/3a7rELDtWE9gb6DBwxsNPt) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Winter & Summer](https://open.spotify.com/album/73Z3iEJZUJxplEjmD5UZkw) | 3:14 | 2025-01-24 | 2025-01-31 |
 | [With Open Arms](https://open.spotify.com/track/2zMkas94Ekim0wZfGsGe23) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [With Open Arms](https://open.spotify.com/album/2dO8pR2M34D8IR50t5yEMg) | 3:00 | 2024-09-13 | 2024-09-20 |
 | [Without You](https://open.spotify.com/track/2zO2Zdd88qb0H2dB8sXoKM) | [Singah](https://open.spotify.com/artist/42B7kT9OrmQyjYb2jYGFHe) | [Without You](https://open.spotify.com/album/6VLlcv2OAuGSR5oDD5yzWl) | 3:04 | 2024-07-12 | 2024-07-19 |
-| [wo!"](https://open.spotify.com/track/7FQCV3B3f2mnJTF7EKXkzv) | [Reespect](https://open.spotify.com/artist/6qKozKAT2TFzo1XzhBZXXl) | [wo!"](https://open.spotify.com/album/4vlRBeyxpBEBu7fcoCWlRq) | 2:24 | 2025-04-04 |  |
+| [wo!](https://open.spotify.com/track/7FQCV3B3f2mnJTF7EKXkzv) | [Reespect](https://open.spotify.com/artist/6qKozKAT2TFzo1XzhBZXXl) | [wo!](https://open.spotify.com/album/4vlRBeyxpBEBu7fcoCWlRq) | 2:24 | 2025-04-04 |  |
 | [WOAHH \(feat\. Clarent\)](https://open.spotify.com/track/7MNGE2R8drq3d04vH5Ahlm) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [WOAHH \(feat\. Clarent\)](https://open.spotify.com/album/0gbMkiBhxKylsgLDimcb0M) | 4:19 | 2025-03-14 | 2025-03-21 |
 | [Wolves](https://open.spotify.com/track/5ipY4ESaKDX78QMHHIIwMH) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Feathers And Stone](https://open.spotify.com/album/3AEUs7oHvxIE1RuZEGyL7T) | 3:02 | 2025-01-31 | 2025-02-07 |
 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-12 | 2024-07-19 |

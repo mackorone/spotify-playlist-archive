@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 253135,
+  "num_followers": 253179,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+x+AAAAAADJC8r5fQ3JFbuerEoXRaBp",
+  "snapshot_id": "Z+3PgAAAAADFVb0tNlBxODkzIZ6O0jMw",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
+        "name": "Recycler",
+        "url": "https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 210253,
-      "name": "Jesus Just Left Chicago (2006 Remaster)",
-      "url": "https://open.spotify.com/track/6SIm1p6alvQsWcDv1M2b72"
+      "duration_ms": 236200,
+      "name": "Doubleback",
+      "url": "https://open.spotify.com/track/5do2NQzjriskVEaFM2z4ge"
     },
     {
       "added_at": null,
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 210253,
+      "name": "Jesus Just Left Chicago (2006 Remaster)",
+      "url": "https://open.spotify.com/track/6SIm1p6alvQsWcDv1M2b72"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Afterburner",
         "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
       },
@@ -183,54 +199,6 @@
       "duration_ms": 289160,
       "name": "Rough Boy",
       "url": "https://open.spotify.com/track/6twEEIkgsC2Iv6RczUjLGv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recycler",
-        "url": "https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Doubleback",
-      "url": "https://open.spotify.com/track/5do2NQzjriskVEaFM2z4ge"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Waitin' for the Bus (2006 Remaster)",
-      "url": "https://open.spotify.com/track/2zNkzCAijAuCYWzxKJeYO2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eliminator",
-        "url": "https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 243066,
-      "name": "Got Me Under Pressure (2008 Remaster)",
-      "url": "https://open.spotify.com/track/7lz578ML4nWrDL3uOLyQoR"
     },
     {
       "added_at": null,
@@ -251,6 +219,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 243066,
+      "name": "Got Me Under Pressure (2008 Remaster)",
+      "url": "https://open.spotify.com/track/7lz578ML4nWrDL3uOLyQoR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Waitin' for the Bus (2006 Remaster)",
+      "url": "https://open.spotify.com/track/2zNkzCAijAuCYWzxKJeYO2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deguello",
         "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
       },
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
+        "name": "The Baddest",
+        "url": "https://open.spotify.com/album/5CGNEMUtCJanGlhQIgM4WZ"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 205546,
-      "name": "Beer Drinkers & Hell Raisers (2006 Remaster)",
-      "url": "https://open.spotify.com/track/3Oeuxw27oYmLF3jflwVK4F"
+      "duration_ms": 179333,
+      "name": "Sharp Dressed Man",
+      "url": "https://open.spotify.com/track/7aXgo7vAHDjHR0JrCX2qJv"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Baddest",
-        "url": "https://open.spotify.com/album/5CGNEMUtCJanGlhQIgM4WZ"
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 179333,
-      "name": "Sharp Dressed Man",
-      "url": "https://open.spotify.com/track/7aXgo7vAHDjHR0JrCX2qJv"
+      "duration_ms": 205546,
+      "name": "Beer Drinkers & Hell Raisers (2006 Remaster)",
+      "url": "https://open.spotify.com/track/3Oeuxw27oYmLF3jflwVK4F"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Futura (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3BS9MUmVKghsOa7Y3otqpE"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 177400,
-      "name": "Chartreuse",
-      "url": "https://open.spotify.com/track/6Q1zqRC5160b9hIlSaZndu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tejas",
         "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 212026,
       "name": "Stages",
       "url": "https://open.spotify.com/track/6DjbtbgegRkzPjNJpm48Dh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Futura (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3BS9MUmVKghsOa7Y3otqpE"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 177400,
+      "name": "Chartreuse",
+      "url": "https://open.spotify.com/track/6Q1zqRC5160b9hIlSaZndu"
     },
     {
       "added_at": null,

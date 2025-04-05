@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,294 songs - 2 day 18 hr 43 min
+1,295 songs - 2 day 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Baby Magic](https://open.spotify.com/track/1OTvZnxAQucT1ybiU4j4yw) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Baby Magic](https://open.spotify.com/album/3FFPTfSqHeIfcndetAJht3) | 4:45 | 2022-05-06 | 2023-02-17 |
 | [BABY TEETH](https://open.spotify.com/track/4JFSa5x1YClkVCfCOQn3YQ) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [BABY TEETH](https://open.spotify.com/album/6qNsRmwJoIyJaAlmFAqtr9) | 2:44 | 2021-07-24 | 2021-11-20 |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-03-21 | 2025-03-29 |
+| [Back To Me](https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:34 | 2025-04-04 |  |
 | [Back To My Bed](https://open.spotify.com/track/0NHBjddjKTkJQvEb5oTilt) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Back To My Bed](https://open.spotify.com/album/6xT0yZwxV34C84SOdIoEUh) | 3:22 | 2020-10-29\* | 2021-02-06 |
 | [Backseat](https://open.spotify.com/track/4jnpDGtUTtloIQHq8TdbNW) | [Olive B](https://open.spotify.com/artist/7nuwunwXRTVnt5vapnCthz) | [Backseat](https://open.spotify.com/album/5vByKX383Uixr7KVphjpns) | 3:08 | 2023-12-15 |  |
 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 | 2022-09-09 | 2023-05-06 |
@@ -984,7 +985,7 @@
 | [si rose](https://open.spotify.com/track/2afbvWy02QHOd7PSyBp1A5) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [postcard from Paris](https://open.spotify.com/album/6wRJKg7Vnp3YDtwWXRcmxr) | 3:28 | 2022-06-10 | 2023-09-16 |
 | [SICK](https://open.spotify.com/track/1vuNMMrJKt2l3oaUgre2rC) | [Saya](https://open.spotify.com/artist/5M60ox9b9C4RSPOYYQLTae) | [SICK](https://open.spotify.com/album/2ERQ2STtX9I7TdZOU94uBz) | 3:05 | 2022-04-08 | 2022-08-30 |
 | [Sidelines](https://open.spotify.com/track/2O8GAg2e0odKtTlPklQZ07) | [golda may](https://open.spotify.com/artist/37twljvcr2zd46xUUZlnl6) | [Sidelines](https://open.spotify.com/album/5Bb1KAdfxmz6ZaPurgva1H) | 2:46 | 2021-02-06 | 2021-03-19 |
-| [Sienna](https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:44 | 2025-02-07 |  |
+| [Sienna](https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:44 | 2025-02-07 | 2025-04-05 |
 | [Silk Chiffon \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Silk Chiffon \(feat\. Phoebe Bridgers\)](https://open.spotify.com/album/0tVci75UxNB1H29bpj86tj) | 3:26 | 2021-09-11 | 2022-01-29 |
 | [Silver Lining](https://open.spotify.com/track/1yLYOqEaafdA6LzWpfzFIL) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Silver Lining](https://open.spotify.com/album/2OieKLUZmHUcwMqtLpHoBg) | 3:39 | 2022-06-03 | 2022-11-02 |
 | [Silver Lining](https://open.spotify.com/track/4jiDREwTvSuZxWPWpNzLcK) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [My Medicine](https://open.spotify.com/album/1yaLCoco4n4PQBC1BOHyxk) | 3:39 | 2022-10-28 | 2022-11-20 |

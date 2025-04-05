@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Love at its most dramatic. Cover: Moulin Rouge",
+  "description": "Love at its most dramatic. Cover: Boop! The Musical.",
   "name": "Broadway in Love!",
   "tracks": [
     {
@@ -2126,7 +2126,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 249066,
       "name": "Think Of Me",
       "url": "https://open.spotify.com/track/31Irb8d3UBRfEcaHDzQxsK"
@@ -2398,6 +2398,36 @@
       "duration_ms": 161640,
       "name": "When I First Saw You - Dreamgirls/Broadway/Original Cast Version",
       "url": "https://open.spotify.com/track/0jinWTjcJhpkFecnRpavLD"
+    },
+    {
+      "album": {
+        "name": "Why Look Around The Corner",
+        "url": "https://open.spotify.com/album/4rU435RIfQVkM3kz91r6Zx"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Amy Rogers",
+          "url": "https://open.spotify.com/artist/4brDzNt7bsWWsApI8sWWlp"
+        },
+        {
+          "name": "Original Broadway Cast of Boop! The Musical",
+          "url": "https://open.spotify.com/artist/1HsCn7QzhAwXtzt9fejQoT"
+        },
+        {
+          "name": "David Foster",
+          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
+        },
+        {
+          "name": "Ainsley Melham",
+          "url": "https://open.spotify.com/artist/0BLHPEZNAUa4U0AGjdADTM"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234946,
+      "name": "Why Look Around The Corner",
+      "url": "https://open.spotify.com/track/7b7eQyaNI1cQ84aWd7Ttai"
     },
     {
       "album": {

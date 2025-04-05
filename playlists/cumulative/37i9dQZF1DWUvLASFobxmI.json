@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "180",
+        "url": "https://open.spotify.com/album/0fuTyg9SPZsdTDFaqMr3pG"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los Chavalos",
+          "url": "https://open.spotify.com/artist/3J8o4uEwZq2fYACRxm4rgf"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156760,
+      "name": "180",
+      "url": "https://open.spotify.com/track/4J0EOjD9U5b0IhAsIabXbJ"
+    },
+    {
+      "album": {
         "name": "1X1",
         "url": "https://open.spotify.com/album/40Y0u68woBPJ1naucz7y4Y"
       },
@@ -1457,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "Cajeta",
+        "url": "https://open.spotify.com/album/7rzb1PyAxWGS9v37yblB34"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176557,
+      "name": "Cajeta",
+      "url": "https://open.spotify.com/track/4DaMRmbrgg8Y54Hvfcw97H"
+    },
+    {
+      "album": {
         "name": "Canci\u00f3n",
         "url": "https://open.spotify.com/album/60XsCvdDOnGsXj7uJlbZZB"
       },
@@ -1648,7 +1684,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 180805,
       "name": "CHE CHE",
       "url": "https://open.spotify.com/track/2GUApVyQ3yGKW5W2NH2DjA"
@@ -4527,6 +4563,24 @@
     },
     {
       "album": {
+        "name": "Encendido Clavel",
+        "url": "https://open.spotify.com/album/588lNhy1ASdEMgZoHnUqmN"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137826,
+      "name": "Encendido Clavel",
+      "url": "https://open.spotify.com/track/2z7pvFRprCyxBDmbibAvG5"
+    },
+    {
+      "album": {
         "name": "Enloquecido",
         "url": "https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI"
       },
@@ -6124,7 +6178,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 135585,
       "name": "La Caguama - En Vivo",
       "url": "https://open.spotify.com/track/4YQvu8DHp89hXdxcvtGj7j"
@@ -6468,7 +6522,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 233404,
       "name": "La Octava Maravilla - En Vivo",
       "url": "https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb"
@@ -6982,7 +7036,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 115440,
       "name": "Lo Bueno Viene Llegando",
       "url": "https://open.spotify.com/track/7Gf4ZMg57gdSCofRYwLx2Y"
@@ -7856,6 +7910,28 @@
       "duration_ms": 154546,
       "name": "Mi Bello Angel",
       "url": "https://open.spotify.com/track/5moNkvlkeMq5evkPWynyuH"
+    },
+    {
+      "album": {
+        "name": "Mi ex ten\u00eda raz\u00f3n",
+        "url": "https://open.spotify.com/album/2cMoTftib1o0rkxo9vaVF5"
+      },
+      "artists": [
+        {
+          "name": "La F\u00f3rmula",
+          "url": "https://open.spotify.com/artist/3Cdm0n7u3cH5vVioNaByZ0"
+        },
+        {
+          "name": "Grupo Definitivo",
+          "url": "https://open.spotify.com/artist/3lPaiUdNwPTpYXdBmrhkxR"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161576,
+      "name": "Mi ex ten\u00eda raz\u00f3n",
+      "url": "https://open.spotify.com/track/64k1iwFuL26DG1VO9noCrW"
     },
     {
       "album": {

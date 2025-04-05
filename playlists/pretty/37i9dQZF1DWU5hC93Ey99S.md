@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,621 likes - 479 songs - 1 day 1 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,739 likes - 479 songs - 1 day 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 3 | [Dawn/Day](https://open.spotify.com/track/39zHTSWAGyAy2ho6uXuLA9) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Dawn/Day](https://open.spotify.com/album/2QY2OSYYA7PDG7qKAskDl6) | 3:08 |
 | 4 | [Where Did You Go](https://open.spotify.com/track/2uSzybi2WiQq53sV4YP0L5) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Where Did You Go](https://open.spotify.com/album/22SUak4hVnLacCQKUHjMi0) | 2:12 |
 | 5 | [Mojo](https://open.spotify.com/track/1TUwu9RxQ8d7jbLBjow84b) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Mojo](https://open.spotify.com/album/2Hm8DVrE5D2jTdS19n9Q2d) | 3:18 |
-| 6 | [Cool](https://open.spotify.com/track/0OTCBDrMgtftlMLdHwwg0m) | [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [Pan](https://open.spotify.com/artist/4GSAHi4nBuXuffUa1c5aSe) | [Cool](https://open.spotify.com/album/1piiVzpaNkozzVjXKPvikB) | 3:02 |
+| 6 | [Cool](https://open.spotify.com/track/0OTCBDrMgtftlMLdHwwg0m) | [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [PAN](https://open.spotify.com/artist/4QDFNS0p6YD8W7qji4roB3) | [Cool](https://open.spotify.com/album/1piiVzpaNkozzVjXKPvikB) | 3:02 |
 | 7 | [Only Friends](https://open.spotify.com/track/15a30YqNPApO8OS0RpqNND) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Only Friends](https://open.spotify.com/album/02Ood2KFnCMgpQY6SCL9YC) | 2:38 |
 | 8 | [Sunshine \- Edit](https://open.spotify.com/track/6DF1vTNnA3G4GlNxmVT4wT) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Sunshine](https://open.spotify.com/album/2nxCMCSW8cHQD1c7ZahGE1) | 2:43 |
 | 9 | [Gravity](https://open.spotify.com/track/2J9jWkE2NUeULlJ7OSIZ3G) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Lauren Nicole](https://open.spotify.com/artist/372yikzGlwhP86LfFwZqrX) | [Gravity](https://open.spotify.com/album/7lrpAdRWokKcAqlGUb7erv) | 3:15 |

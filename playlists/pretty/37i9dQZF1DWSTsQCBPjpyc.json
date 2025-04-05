@@ -1,13 +1,29 @@
 {
   "description": "Blues meets funk. Cover: Eric Gales",
-  "num_followers": 46433,
+  "num_followers": 46491,
   "original_name": "Funky Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuzzQAAAAAAOIR5IrZIc81YCDuR0uGwg",
+  "snapshot_id": "Z+9ZTgAAAABnvdhbarOae0wZtMOUvoLh",
   "tracks": [
+    {
+      "added_at": "2025-04-04 04:00:14",
+      "album": {
+        "name": "Still Shakin'",
+        "url": "https://open.spotify.com/album/1oBWu0oEzg5PJcSqy9RIX3"
+      },
+      "artists": [
+        {
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Still Shakin'",
+      "url": "https://open.spotify.com/track/5XVDZOgVr8gjAnfiqiQMgi"
+    },
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {

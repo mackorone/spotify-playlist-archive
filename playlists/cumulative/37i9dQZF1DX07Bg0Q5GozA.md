@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: DJ Koze, Sophia Kennedy
 
-1,106 songs - 3 day 1 hr 41 min
+1,107 songs - 3 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -802,7 +802,7 @@
 | [Rockin \- Poppin Full Tilting \- Long](https://open.spotify.com/track/1pp84p5MQFL8lrtNLvB5tR) | [Lee Alfred](https://open.spotify.com/artist/0FptEZQbvyLFSVUvCUc2xe) | [Rockin \- Poppin Full Tilting](https://open.spotify.com/album/1oneWyxtUUeTKXFuGfmhJ1) | 6:14 | 2022-12-30 | 2023-01-02 |
 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 | 2024-12-26 | 2025-01-02 |
 | [Rooftop](https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Rooftop](https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL) | 3:19 | 2023-01-12 | 2023-04-07 |
-| [Room333](https://open.spotify.com/track/5cLQee4gGYNJICVYNvrsP9) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Room333](https://open.spotify.com/album/0izv1Zqu92mh9DMBsxQkca) | 3:00 | 2025-03-06 |  |
+| [Room333](https://open.spotify.com/track/5cLQee4gGYNJICVYNvrsP9) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Room333](https://open.spotify.com/album/0izv1Zqu92mh9DMBsxQkca) | 3:00 | 2025-03-06 | 2025-04-05 |
 | [Round](https://open.spotify.com/track/7r1gaUJMOm7NPLOM7KUtSU) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3), [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Round](https://open.spotify.com/album/2kS5zyWNmmh4xbEVxwv8Y7) | 3:26 | 2024-08-01 | 2025-01-31 |
 | [Rum 'n' Kola](https://open.spotify.com/track/1Crjjx5PvMKTanY2qT7kIZ) | [Baby's Berserk](https://open.spotify.com/artist/7qoypmsmoFKt8lXJcTcM8w) | [Rum 'n' Kola](https://open.spotify.com/album/2V97BWHhvSa4Df0iM6xdKM) | 3:56 | 2023-08-17 | 2023-09-01 |
 | [Rum 'n' Kola \- Sam Ruffillo Remix](https://open.spotify.com/track/4viD8wKTDGo1DijwbwS0g1) | [Baby's Berserk](https://open.spotify.com/artist/7qoypmsmoFKt8lXJcTcM8w), [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy) | [Rum 'n' Kola \(Sam Ruffillo Remix\)](https://open.spotify.com/album/48NzH9Bl9Nt66W4wR9Rn9T) | 5:34 | 2023-11-02 | 2024-02-09 |
@@ -925,6 +925,7 @@
 | [Swirl \- Roosevelt Remix](https://open.spotify.com/track/5hwwsF2ghUGZL7VQKKV16k) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Swirl \(Roosevelt Remix\)](https://open.spotify.com/album/0X20eVtWg9OdCVTL1mX8Ua) | 5:03 | 2023-11-16 | 2024-05-17 |
 | [Swirl \- Roosevelt Remix](https://open.spotify.com/track/7sH9vN5ziCJ3snQ2nxJtMG) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Swirl \(Roosevelt Remix\)](https://open.spotify.com/album/0JcAcT7K4l5dp5grqmiIaN) | 5:03 | 2023-11-16 | 2024-04-19 |
 | [Synchronize](https://open.spotify.com/track/1F9XHisrSA1g4EEhbSOeij) | [Discodeine](https://open.spotify.com/artist/5nsNt7vc6LuKUlgXI1jYVG), [Jarvis Cocker](https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w) | [Discodeine](https://open.spotify.com/album/70Gc8v2AugrXQ9rrAE8cXn) | 6:26 | 2024-12-26 | 2025-01-02 |
+| [tagesanbruch](https://open.spotify.com/track/0lKQ8gAUZxOvcifiyC9lFO) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr), [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH), [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0) | [tagesanbruch](https://open.spotify.com/album/6nyOnLizny7SotOf76OwpB) | 3:17 | 2025-04-04 |  |
 | [Take a Chance](https://open.spotify.com/track/5YKHh24xKQNW7XT29gNIRp) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Take a Chance](https://open.spotify.com/album/5FGc2Uy94y4BVsRSkxmOkZ) | 3:23 | 2023-03-23 | 2023-09-08 |
 | [Take It Or Leave It](https://open.spotify.com/track/1o50D29tsnzInFW2ACAwjN) | [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54), [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [Take It Or Leave It](https://open.spotify.com/album/3BGvWKf4IdoJxrktOZgdUC) | 2:34 | 2023-03-23 | 2023-07-01 |
 | [Take Me Back](https://open.spotify.com/track/4G37m3eLuPYXCPOeLgpW7b) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Take Me Back](https://open.spotify.com/album/3sbuWV2U4lcyfx64Se1YXK) | 2:33 | 2024-06-27 | 2025-01-10 |

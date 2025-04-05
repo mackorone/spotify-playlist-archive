@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Eladio Carrion, Leiva, Omar Montes, Ed Sheeran, Miley Cyrus, Vanesa Martín y más novedades importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,358 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,124 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 19 | [VULNERABLE](https://open.spotify.com/track/5Oho7bpidKVaMJaK5oXI2c) | [Joana Santos](https://open.spotify.com/artist/0GRisUOxNeaGB4XZs7TBRm), [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [VULNERABLE](https://open.spotify.com/album/5GZEbN9ZirEFYLrRsubpHN) | 3:20 |
 | 20 | [ECHO DE MENOS](https://open.spotify.com/track/4pycU0Z1vWdAF1bp26rIBI) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [ECHO DE MENOS](https://open.spotify.com/album/3JzsZL21V7bMwGhYpRZqbK) | 3:18 |
 | 21 | [VALENTINO](https://open.spotify.com/track/5xkD169LHyEmpZAdoQOaMN) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374) | [VALENTINO](https://open.spotify.com/album/1cVIr15MqnIYUrmBMA0W8j) | 2:17 |
-| 22 | [UN PLAN](https://open.spotify.com/track/7nfcmPolmFFJF8R57Tc9H4) | [Albany](https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu), [LEÏTI](https://open.spotify.com/artist/5FQJWdcKPAijmEi4uroZ4h) | [UN PLAN](https://open.spotify.com/album/2gsXOPI30iZAIbOJZFt4eN) | 2:58 |
+| 22 | [UN PLAN](https://open.spotify.com/track/7nfcmPolmFFJF8R57Tc9H4) | [Albany](https://open.spotify.com/artist/6zwUnDx8piIjkU17CgOKh5), [LEÏTI](https://open.spotify.com/artist/5FQJWdcKPAijmEi4uroZ4h) | [UN PLAN](https://open.spotify.com/album/2gsXOPI30iZAIbOJZFt4eN) | 2:58 |
 | 23 | [Hugo Bozz](https://open.spotify.com/track/5Z00rHfWwTteOUPy8k5B9P) | [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4), [JCC](https://open.spotify.com/artist/7rbogZhjRh7OvlNYjeyy8U) | [GRECONETA](https://open.spotify.com/album/2r2mPvOEcLLzKPXikEOmuQ) | 1:57 |
 | 24 | [LA OFI](https://open.spotify.com/track/53AajxWExq9VfKvyKy8Jk3) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [LA OFI](https://open.spotify.com/album/7iP5M9ga4GOqDsH7HJpK93) | 2:00 |
 | 25 | [en mi balcon](https://open.spotify.com/track/5i8iq8jm968xuFzJoKv13q) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [en mi balcon](https://open.spotify.com/album/5YahJL2QGbpuBRk4qivluq) | 2:54 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 44 | [Loco Enamorao](https://open.spotify.com/track/2C9wgqVgp2a8mfYDy0cBdG) | [Henry Mendez](https://open.spotify.com/artist/4mnY9Vvz3GXQIyHljvWnY1), [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [Loco Enamorao](https://open.spotify.com/album/7CPL4wlEuAjNfubaCRrJlN) | 2:55 |
 | 45 | [Tóxico](https://open.spotify.com/track/3mEb6jBiBmvLJn4QKxgDm9) | [Munic HB](https://open.spotify.com/artist/28oQ6vi1R2m9mdSBnsAkUQ) | [Tóxico](https://open.spotify.com/album/78cmcllbkgfgcORPGflpQS) | 2:28 |
 | 46 | [2PA2](https://open.spotify.com/track/0niWWPoVUCqO6vqLXpCN2q) | [Anthony Ready & Yeigo](https://open.spotify.com/artist/3jbsnUDtwiiGVikbY9VYK7), [Victor R \-Swag](https://open.spotify.com/artist/5Jz48JzVckf7ZUvrQc55Iq) | [2PA2](https://open.spotify.com/album/2U7KgibBd8sk28iTmr8wkc) | 2:28 |
-| 47 | [RATONCITA](https://open.spotify.com/track/1PyCbATq73eXTwoxY6riaM) | [OMAY](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g) | [RATONCITA](https://open.spotify.com/album/2gsu5jqXqUqWuQDQsZf2iu) | 3:23 |
+| 47 | [RATONCITA](https://open.spotify.com/track/1PyCbATq73eXTwoxY6riaM) | [OMAY](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g), [Neverknwn](https://open.spotify.com/artist/3h83Vh5q1KWo8KkvvV1kPa) | [RATONCITA](https://open.spotify.com/album/2gsu5jqXqUqWuQDQsZf2iu) | 3:23 |
 | 48 | [SANTA CATALINA](https://open.spotify.com/track/0Iohi1iLFXO51IjtR64mVZ) | [Dasoul](https://open.spotify.com/artist/0lNg9YtW8USxeZZnEqz3RQ) | [SANTA CATALINA](https://open.spotify.com/album/2PlLIwnxXOfbm4uouxfdtU) | 3:06 |
 | 49 | [2050](https://open.spotify.com/track/0kYUNpucp42MkljS1jCZuq) | [Ruven](https://open.spotify.com/artist/28alLwceRIxNti9r9M9sPf), [Alex Brown](https://open.spotify.com/artist/0RSBcujg8fQtqkXCfn1ogR), [Qstn](https://open.spotify.com/artist/1YQqWfb2mKjxZvq9u67D6W) | [2050](https://open.spotify.com/album/3tdsKr8ddBZCaUbgp5EXNN) | 3:16 |
 | 50 | [Daby \- Fugitivo Vol\. 32](https://open.spotify.com/track/1JSPOzEBXfnWvzvkFE9Sal) | [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST), [Daby](https://open.spotify.com/artist/7BVumzfJLNy2YPuW9pGQgr) | [Daby \- Fugitivo Vol\. 32](https://open.spotify.com/album/7GCZEmnUBEWG9lnUom44MQ) | 2:15 |

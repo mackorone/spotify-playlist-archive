@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-560 songs - 23 hr 11 min
+561 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [ginza](https://open.spotify.com/track/7napq1DUIYBfFbOxbtRKUu) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [ginza](https://open.spotify.com/album/6HIANT2xXqqWtThAX1fXdu) | 2:36 | 2022-06-30 | 2022-07-29 |
 | [Glassy Wave](https://open.spotify.com/track/497tQqdZm2EXvOvRim673I) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Glassy Wave](https://open.spotify.com/album/7uwNE4i944rSd3hVlEPUap) | 2:00 | 2023-09-28 | 2023-11-09 |
 | [Glassy Wave](https://open.spotify.com/track/5vb6yRMsWYwwggXq6hv2yE) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Glassy Wave](https://open.spotify.com/album/2q2qJglLy235pyi3SuNPOu) | 2:00 | 2023-09-28 | 2023-09-30 |
-| [glow](https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [glow](https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH) | 4:09 | 2022-04-28 |  |
+| [glow](https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [glow](https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH) | 4:09 | 2022-04-28 | 2025-04-05 |
 | [golden hour](https://open.spotify.com/track/6vW3cxpUmK3pjyB1GXIu7N) | [hiyasu](https://open.spotify.com/artist/7lNkPk6OeVKmPuLs1aRGNc) | [golden hour](https://open.spotify.com/album/6dA0ItWZ4CtzsPKTwYvwma) | 1:55 | 2019-05-26\* | 2019-06-15 |
 | [Golden State](https://open.spotify.com/track/1QEHwRNmwnmRnoSokEXvLe) | [Sonus Vibes](https://open.spotify.com/artist/3Lj74BC4DEJSQxE6eWujUa), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Odyssey](https://open.spotify.com/album/1PlCw0Zm0vDHYx3LUASH6h) | 1:48 | 2021-12-16 | 2022-04-21 |
 | [Goldrush](https://open.spotify.com/track/0tvxDyHSw1Z5Ohd3ZGua19) | [OVERFALL](https://open.spotify.com/artist/3hEh8yUkXDSQwQLd63WRA2), [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY), [ShinyAppLe](https://open.spotify.com/artist/4TSEKs1UaAWhjGiLBekYhC) | [Goldrush](https://open.spotify.com/album/6ut7wZruXbu6NRLBKkh6td) | 2:08 | 2023-08-17 | 2023-08-29 |
@@ -422,6 +422,7 @@
 | [Safe ground \(homage of luz by haruka nakamura\)](https://open.spotify.com/track/5GvMAF5GSWcWaPMDYw8oMw) | [Nitsua](https://open.spotify.com/artist/04aAAEbkuy8tC8xmaE0CcQ), [Linn Mori](https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E) | [soul of the sky](https://open.spotify.com/album/6oZXZY2VH2AqLkYdPT6iQV) | 3:02 | 2024-11-15 | 2024-11-25 |
 | [Sakura Bloom](https://open.spotify.com/track/4iDljp0M9qJ5bV7Q9YwKIz) | [MrSuperCraft](https://open.spotify.com/artist/1tEFFbxotubUSWVUqCowki), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Sakura Bloom](https://open.spotify.com/album/5Dz1PR8PLIh6MwS9w3ORLM) | 2:02 | 2024-10-26 |  |
 | [Sangria in Spain](https://open.spotify.com/track/6MLcmv9xFPlzsnLQ6xkWlo) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Sangria in Spain](https://open.spotify.com/album/0qK8hpdvwMVyTsi147Jyzp) | 2:21 | 2020-07-11 | 2020-11-06 |
+| [Sasanqua](https://open.spotify.com/track/08POPoMeYXmzyOnrxLQRlU) | [physis](https://open.spotify.com/artist/3NPEPBUgyPFCn4qNjKdhMx), [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Sasanqua](https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd) | 2:14 | 2025-04-04 |  |
 | [Saturnian Potion](https://open.spotify.com/track/1CBfTUq4k0OIL1eYhrM24o) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj), [Clap Cotton](https://open.spotify.com/artist/1ruRdyWeMcnliO3CPJ2gtA) | [Saturnian Potion](https://open.spotify.com/album/0a6GJOHAnJ4FKPyck0llk8) | 3:37 | 2020-06-19 | 2020-10-21 |
 | [Sea Ridge](https://open.spotify.com/track/6705o4eSuU5Thuwg7PpHOx) | [Coastal](https://open.spotify.com/artist/54Eehq7Ls4ZXE8pdTTPClj) | [\~](https://open.spotify.com/album/5lKlKfB4DOqEPLtcJ5RUVH) | 2:21 | 2020-07-18 | 2022-07-29 |
 | [Season](https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Silently Beats](https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX) | 2:24 | 2022-11-10 | 2023-01-12 |
@@ -477,7 +478,7 @@
 | [Summer Awaits](https://open.spotify.com/track/4agJMCUURmHv1aOZtQdO6m) | [sad boy with a laptop](https://open.spotify.com/artist/55ZGP7wiI7sIfU36CTeBzT), [neeks](https://open.spotify.com/artist/01wJR8orhmzSLT8rO8rM5N) | [Summer Awaits](https://open.spotify.com/album/48lzKgiaAOPe9JQFgSjs1r) | 3:24 | 2019-05-26\* | 2019-06-15 |
 | [Summer Daze](https://open.spotify.com/track/3BSzWZRiWIHn0lRVk07II2) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Summer Daze](https://open.spotify.com/album/0MjZ8jj6E0hKb2zC4lS4iR) | 1:42 | 2024-07-18 | 2024-08-30 |
 | [Summer Morn](https://open.spotify.com/track/49JWJhkmD7pMIWQzgdAosk) | [PrinceDo](https://open.spotify.com/artist/1vwo07wGObMfmEOutuBh05) | [Summer Morn](https://open.spotify.com/album/0v3QRpAjXCkiKco1MRZOwr) | 3:36 | 2022-07-21 | 2022-07-29 |
-| [Summit](https://open.spotify.com/track/3NzdQg2hOSyCVBkTowACjb) | [Lowkey Vanni](https://open.spotify.com/artist/2akxx91vwl1uec0zXY9ORz), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Summit](https://open.spotify.com/album/1PFaGA1C6C31JlqYSMedx2) | 2:09 | 2023-01-12 | 2025-03-26 |
+| [Summit](https://open.spotify.com/track/3NzdQg2hOSyCVBkTowACjb) | [Lowkey Vanni](https://open.spotify.com/artist/2akxx91vwl1uec0zXY9ORz), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Summit](https://open.spotify.com/album/1PFaGA1C6C31JlqYSMedx2) | 2:09 | 2023-01-12 |  |
 | [Sunday Afternoon](https://open.spotify.com/track/2zdlHufpRwuVnyTTolms55) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Imperfections](https://open.spotify.com/album/49duPTHJJzvzXch9KUQhtU) | 1:30 | 2019-05-26\* | 2020-06-19 |
 | [Sunny Side Up](https://open.spotify.com/track/0s2hmzyQlyqbNCfaLWJYGA) | [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc) | [Tales of 16 Pads](https://open.spotify.com/album/6BRSjqcNOOyuZ50x9ukHhQ) | 1:52 | 2019-05-26\* | 2020-01-14 |
 | [sunset cruise](https://open.spotify.com/track/1Hg3AkNPFx7fBAbfhktzKy) | [aimless](https://open.spotify.com/artist/5dGqZk0lZFQB6MIus08k8e) | [Dreamscape](https://open.spotify.com/album/7wGmkGKrf6utupIkjMh4ms) | 1:34 | 2020-06-19 | 2022-06-21 |
@@ -487,7 +488,7 @@
 | [Surf Boogie](https://open.spotify.com/track/04aD25LiPRSZfT2lz1mGw8) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Summer Loves You](https://open.spotify.com/album/63qpWQd44kLnmFhMZ1mkRm) | 2:10 | 2019-07-26 | 2020-01-14 |
 | [Suspended](https://open.spotify.com/track/38K8mmhKeQ5A15xFZOeYzA) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh) | [Suspended](https://open.spotify.com/album/4e1u1Z1IvPsdH15Qd0gY6L) | 2:10 | 2021-10-29 |  |
 | [swag on](https://open.spotify.com/track/2S36OuK8PYZkkLkled3GAd) | [Kazam](https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha) | [swag on](https://open.spotify.com/album/4H1qSzq3XjPpht57ZtxsDL) | 2:19 | 2019-05-26\* | 2020-01-14 |
-| [Talloires](https://open.spotify.com/track/5yn48C8nxwoYU31pOt6FuR) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Talloires](https://open.spotify.com/album/2h5zrNlyCNh15Nr3KgcpO3) | 1:53 | 2019-08-31 |  |
+| [Talloires](https://open.spotify.com/track/5yn48C8nxwoYU31pOt6FuR) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Talloires](https://open.spotify.com/album/2h5zrNlyCNh15Nr3KgcpO3) | 1:53 | 2019-08-31 | 2025-04-05 |
 | [Tangerine Hues](https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in) | [Ameba](https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P), [Flavors](https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77) | [Tangerine Hues](https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5) | 3:04 | 2019-05-26\* |  |
 | [Teka](https://open.spotify.com/track/64z6fgsd7813f8cOvzyJnE) | [Ack Ibanez](https://open.spotify.com/artist/3WGu5fuIpbVnL62Db3ZzNK) | [Chillmonger ILL Tape](https://open.spotify.com/album/08qyY6hsa4PpNeYZqMS5GC) | 4:33 | 2020-11-06 | 2022-07-28 |
 | [Tender Rose](https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Tender Rose](https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP) | 3:22 | 2022-03-01 |  |

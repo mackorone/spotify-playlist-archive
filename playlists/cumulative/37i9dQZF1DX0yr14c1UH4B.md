@@ -4,7 +4,7 @@
 
 > Golden new releases ft\. Ed Sheeran
 
-217 songs - 12 hr 4 min
+218 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [The Girl That I Call Home](https://open.spotify.com/track/0n9eqeBYUlffRuP92V7mrY) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Girl That I Call Home](https://open.spotify.com/album/0Dha3eXphxwdxSss1BNSnr) | 3:44 | 2024-09-13 | 2025-03-14 |
 | [The Man I Am](https://open.spotify.com/track/0aurtdjUVvzB6Mr8WSdghj) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [This Life \(Deluxe\)](https://open.spotify.com/album/1L3Sk7XDISBoCOxkopb7az) | 3:03 | 2024-05-31 | 2024-10-26 |
 | [The Mountain](https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7) | 2:55 | 2024-11-15 | 2025-03-14 |
+| [The Sun](https://open.spotify.com/track/1Iaq7YIunBX01YljzHjdsM) | [Brittany Broski](https://open.spotify.com/artist/4bvnxCtWPHufMtiQQuT8nW) | [The Sun](https://open.spotify.com/album/6QWU7nOEXVYDKPhg1nmYtI) | 3:30 | 2025-04-03 |  |
 | [The Way I'm Wired](https://open.spotify.com/track/3JDjEtG9KKDAI1Dh4Ao94Y) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Way I’m Wired](https://open.spotify.com/album/67ta68xEpzq10kTo5jJfsw) | 3:39 | 2025-03-21 |  |
 | [There I Go](https://open.spotify.com/track/6wiwsJJuk5u6sdag6iShOu) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [There I Go](https://open.spotify.com/album/2hltrUvBM4MpFTwpLJUhDq) | 2:32 | 2025-03-28 |  |
 | [these are hard times \(Say the Words!\)](https://open.spotify.com/track/6TlAYg7V9hiV5Z6a3P5f0f) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [these are hard times \(Say the Words!\)](https://open.spotify.com/album/7rJMjO37esCFPPddhaDae6) | 3:08 | 2025-03-28 |  |

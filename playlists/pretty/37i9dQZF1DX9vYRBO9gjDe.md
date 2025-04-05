@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。4月1日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,555 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,592 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 6 | [Almond Chocolate](https://open.spotify.com/track/75yAymNsjxzPPNG6LiIQ9P) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Almond Chocolate](https://open.spotify.com/album/4ILU2mLs1ZNAXGmqIynhuO) | 3:21 |
 | 7 | [dandelion](https://open.spotify.com/track/6wZOZ0votPhc8qdg4UFPtH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd) | 3:24 |
 | 8 | [クリスマスソング](https://open.spotify.com/track/5P8ZvBQoCrujjNcLAxO3Su) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [シャンデリア](https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT) | 5:40 |
-| 9 | [LV \- Remix](https://open.spotify.com/track/65l6nF6k64nG94aY1rD7ZB) | [LOM](https://open.spotify.com/artist/1EUJrEkPvE0hC3qVhl8FuT), [S\-Liam](https://open.spotify.com/artist/3ciedMRNsptKq8wCUKho8P), [百足](https://open.spotify.com/artist/4WgGn0neagCUyjQExpUBX7), [Albert Connor](https://open.spotify.com/artist/6fTbznllQRT5HmxfZdiRlc) | [CHANDELIER DELUXE](https://open.spotify.com/album/3gkhx1RGUcjNyk7JvF5dSt) | 2:30 |
+| 9 | [LV \- Remix](https://open.spotify.com/track/65l6nF6k64nG94aY1rD7ZB) | [LOM](https://open.spotify.com/artist/1EUJrEkPvE0hC3qVhl8FuT), [S\-Liam](https://open.spotify.com/artist/3ciedMRNsptKq8wCUKho8P), [MUKADE](https://open.spotify.com/artist/4WgGn0neagCUyjQExpUBX7), [Albert Connor](https://open.spotify.com/artist/6fTbznllQRT5HmxfZdiRlc) | [CHANDELIER DELUXE](https://open.spotify.com/album/3gkhx1RGUcjNyk7JvF5dSt) | 2:30 |
 | 10 | [雨](https://open.spotify.com/track/0WLD0nNozBZKmAos1PQbL2) | [神が残した夢を喰う。](https://open.spotify.com/artist/0tWJYjocqKq3vZ1EL2Yc0o) | [雨](https://open.spotify.com/album/3dPUZgw4dgAdgCaTcVHxef) | 3:48 |
 | 11 | [Tokyo Crazy Night](https://open.spotify.com/track/0CCG2gR2Dz1Dn4vkK3rcsH) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Tokyo Crazy Night](https://open.spotify.com/album/2Oh4vmWzvl0pq0ndQFqHBF) | 3:30 |
 | 12 | [SUPER CRUISIN'](https://open.spotify.com/track/0kOfUCUvagEqAG7SEpkgph) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [SUPER CRUISIN'](https://open.spotify.com/album/7I9I6ETKigeRg1sx50aArZ) | 2:55 |

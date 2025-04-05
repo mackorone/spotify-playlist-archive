@@ -4,7 +4,7 @@
 
 > No hay nada como una Rumba Colombiana\. ¡Hasta el amanecer! Foto: Fonseca y Grupo Niche
 
-219 songs - 14 hr 41 min
+220 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Mala Memoria](https://open.spotify.com/track/2sw9rKvMG3fvLGYfMdO139) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:40 | 2021-10-01 |  |
 | [Materialista \(feat\. Nicky Jam\)](https://open.spotify.com/track/1zh3aQOBNovad73Frmb7MP) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Materialista \(feat\. Nicky Jam\)](https://open.spotify.com/album/74vZkYjOAFrBbwB9KMWzUu) | 3:10 | 2021-10-01 | 2024-12-21 |
 | [Materialista \(feat\. Nicky Jam\)](https://open.spotify.com/track/3jqSBJ8I20iUN0Bw8NA5xQ) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Gente Valiente](https://open.spotify.com/album/5kEnDeBQVa1V1YT485bMyF) | 3:11 | 2022-07-01 | 2024-04-19 |
+| [Me Gustan Los Hombres](https://open.spotify.com/track/4xAdTVNxTWHNMiS7k1Xdvs) | [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ), [Ana del Castillo](https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7) | [Me Gustan Los Hombres](https://open.spotify.com/album/0U0SoItZGkL6F0JrUejXiP) | 3:21 | 2025-04-04 |  |
 | [Me Resbala](https://open.spotify.com/track/6Jh2w04fCPnEfgsUkoR9x2) | [Integracion Casanova](https://open.spotify.com/artist/0Xx3Z17IxJu0ChEHaeEKPs) | [Me Resbala \- Single](https://open.spotify.com/album/2l15rca1hcCvd1LbwfnIbq) | 3:56 | 2021-10-01 | 2022-07-02 |
 | [Me Sabe a Mango](https://open.spotify.com/track/2aIv9bIeqnhssgxvKpnkNZ) | [Los Cumbia Stars](https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t), [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4) | [14 Cañonazos Bailables \(Vol\. 61\)](https://open.spotify.com/album/4bxAL7uUo6tZTQWS1BJ7fi) | 2:23 | 2021-10-01 | 2022-07-02 |
 | [Monstruo De La Cumbia](https://open.spotify.com/track/0NL0M6Lwnu6Kb6KgZCJbZp) | [El Cuarteto Imperial](https://open.spotify.com/artist/5ORSNeE6Sb1fUIGA6mx10k) | [Historia Del Cuarteto Imperial 50 Años](https://open.spotify.com/album/7utxgIOIJWcyRxtKYtQV0v) | 3:35 | 2023-10-27 | 2023-11-02 |
@@ -222,7 +223,7 @@
 | [VUELA](https://open.spotify.com/track/3IFXsUoXRepHjX9sK4Svke) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Luister La Voz](https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII) | [VUELA](https://open.spotify.com/album/3Ln9Xe2JfSl8kvh9MeABgq) | 3:13 | 2023-06-29 | 2024-05-11 |
 | [Ya No Me Duele Más](https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Ya No Me Duele Más](https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL) | 3:46 | 2021-10-01 |  |
 | [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 | 2021-10-01 |  |
-| [Yuquita](https://open.spotify.com/track/6ls7Ar7Qc6iFz6f2dnYxdT) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe), [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A) | [Yuquita](https://open.spotify.com/album/3lZUxildz8lZYjgRDbQU53) | 3:20 | 2025-03-04 |  |
+| [Yuquita](https://open.spotify.com/track/6ls7Ar7Qc6iFz6f2dnYxdT) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe), [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A) | [Yuquita](https://open.spotify.com/album/3lZUxildz8lZYjgRDbQU53) | 3:20 | 2025-03-04 | 2025-04-05 |
 | [Ábrete](https://open.spotify.com/track/0qo0B5uey4DXAn2UXNdyX3) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [Grandes Éxitos](https://open.spotify.com/album/77PKmLnC3sggIXSYh56Vwh) | 4:31 | 2022-08-12 | 2022-11-13 |
 | [Ábrete](https://open.spotify.com/track/3dET1wKtvMHbuONHeclcH9) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [El Terremoto Musical](https://open.spotify.com/album/2bWsAObvGNg2GOwlIPRRZc) | 4:31 | 2022-07-01 | 2023-05-30 |
 | [Ábrete](https://open.spotify.com/track/0sIR0xAxoiRqkCfD9agUa9) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [El Terremoto Musical](https://open.spotify.com/album/55NWTq5kY4ZYxei2Bf1Ocf) | 4:31 | 2021-10-01 | 2022-07-29 |

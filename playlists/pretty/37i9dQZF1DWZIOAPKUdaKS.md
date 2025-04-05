@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 
 > Soft piano to help you focus, work or study.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,165 likes - 217 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,201 likes - 217 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 | 22 | [Restful Sky](https://open.spotify.com/track/0M8KUnSR5NU91mHqeIaqtO) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Restful Sky](https://open.spotify.com/album/4ZINkyKkkt9C4sAC2pQ9Zp) | 2:32 |
 | 23 | [Silver Shades](https://open.spotify.com/track/1JkDd6UTgH8N27sD1wGpNr) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Silver Shades](https://open.spotify.com/album/3xMseekTXTQN5WKy0hM6IM) | 2:41 |
 | 24 | [Open the Windows](https://open.spotify.com/track/2Uy0au5iofFkAgTWiXDoZp) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Open the Windows](https://open.spotify.com/album/5BlAEYOinasxd9JX7259ae) | 2:32 |
-| 25 | [At A Glance](https://open.spotify.com/track/2UsLov7NMKkN1Uh9WUBEw9) | [Gale Moore](https://open.spotify.com/artist/7D4pGxfKDvTyt90fAAQXxw) | [At A Glance](https://open.spotify.com/album/4vBxCrmYU5niiq6ihQiYd0) | 2:37 |
+| 25 | [Easy](https://open.spotify.com/track/6LNFiSpVmqEVftSp9t8lOG) | [Emilio Chiara](https://open.spotify.com/artist/5a48GWM8CpVJtzLvnFn1js) | [Easy](https://open.spotify.com/album/5eX6PGC2LjvecY3SKWtSYW) | 2:34 |
 | 26 | [Slow Fall](https://open.spotify.com/track/0VZ71YhAIA1W3T71DJUi32) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Slow Fall](https://open.spotify.com/album/77O8mS4PmfryxmsKuMrM2S) | 2:58 |
 | 27 | [Whispering Willow](https://open.spotify.com/track/71NBn3kY25GCHpOPrckEnf) | [Fringilla coelebs](https://open.spotify.com/artist/2aJhtzB2xk0L8GcdzdREz1) | [Whispering Willow](https://open.spotify.com/album/6bedXNIvBvKyIowfWkiKbi) | 2:37 |
 | 28 | [Mystical Murmurs](https://open.spotify.com/track/4xvFnv7jOKavTDsu40BPJk) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Mystical Murmurs](https://open.spotify.com/album/0Ql3uAzHXNRXCSqHaIYc8V) | 3:07 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 | 216 | [Esthetic](https://open.spotify.com/track/424kxlBHkHVxwwMkDlPp1s) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Esthetic](https://open.spotify.com/album/7JYclSv63BYa69okll9GKk) | 2:27 |
 | 217 | [Sunday](https://open.spotify.com/track/4jOQwNjLa0oejVoopzY7Gx) | [Levi Jacob](https://open.spotify.com/artist/2dv3nI6plW2rvqyOelBUAa) | [Roundabout](https://open.spotify.com/album/6b53thMzbMzq31mspTVAQW) | 2:25 |
 
-Snapshot ID: `Z+wIYAAAAACohXa59+XJ3Y5viIHYSrmw`
+Snapshot ID: `Z+9ZTAAAAABRJLF9mGsigi5fwP1//Z4e`

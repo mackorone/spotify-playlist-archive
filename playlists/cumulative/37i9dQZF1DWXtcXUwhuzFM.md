@@ -4,7 +4,7 @@
 
 > Uutta musiikkia KUUMAAlta, OLGAlta, Turistilta ja Costilta.
 
-5,301 songs - 11 day 16 hr 30 min
+5,302 songs - 11 day 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1514,6 +1514,7 @@
 | [GODSPEED](https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO \- Magic City Edition](https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm) | 3:36 | 2024-09-05 | 2024-09-13 |
 | [Godspeed \(feat\. DJ E\-Clyps\)](https://open.spotify.com/track/6PADTtmPxErC0MsgZx3Udr) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [DJ E\-Clyps](https://open.spotify.com/artist/4mnSMKXeNuynsdozoCUpcZ) | [Godspeed \(feat\. DJ E\-Clyps\)](https://open.spotify.com/album/2XB5khO6YxUe1LCElGy4NK) | 5:24 | 2024-08-01 | 2024-08-09 |
 | [GoGetter](https://open.spotify.com/track/1i3CHFEK8QXKu9Rbt6Oaci) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [GoGetter](https://open.spotify.com/album/6VH0BeeYUr8WcTZMGw7l4J) | 2:39 | 2024-05-16 | 2024-05-24 |
+| [Going, Going, Gone](https://open.spotify.com/track/1q1yT9GHe2eWkE3u9cWMuv) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Going, Going, Gone](https://open.spotify.com/album/09wq2K4RuML1nNbG93ubT8) | 2:55 | 2025-04-03 |  |
 | [GOLD](https://open.spotify.com/track/5XV3bQOM9IoZVxQSD0a6yb) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/7EUIivZlOlSqQbFYZxNig9) | 3:07 | 2024-10-17 | 2024-10-25 |
 | [Goldrush](https://open.spotify.com/track/1AC9rys1AG0BJ5PwnX3mXu) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Goldrush](https://open.spotify.com/album/5NLwkvch5mURFt3AJfvkQX) | 2:48 | 2025-01-23 | 2025-01-31 |
 | [GOLIATH](https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [GOLIATH](https://open.spotify.com/album/58WQafW2FPSWC3LDe0Jh90) | 3:05 | 2025-01-30 | 2025-02-07 |
@@ -4310,7 +4311,7 @@
 | [SUPERSTARA](https://open.spotify.com/track/0zS2KTwPveld4paqTQRbWr) | [Räpfaija](https://open.spotify.com/artist/2eGbmJfjYbZatbebJxY6PD) | [SUPERSTARA](https://open.spotify.com/album/2cdsMu7QQSmfaWl4vNVgPx) | 3:12 | 2024-06-13 | 2024-06-21 |
 | [Supposed To Be](https://open.spotify.com/track/4rq5D7NwWLUy1pLYgyfeDL) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Supposed To Be](https://open.spotify.com/album/3zgUnYk6shy8QAZmgIbK9x) | 3:09 | 2024-05-23 | 2024-06-01 |
 | [Surreal Life](https://open.spotify.com/track/1IPF9V9Z3TXghBqNivjRbh) | [Sätilä](https://open.spotify.com/artist/7C64gqcTl8N3ethokcN5KD) | [Connection](https://open.spotify.com/album/0LhxjgOnRUPclhMwHfA5RQ) | 3:48 | 2024-06-27 | 2024-07-05 |
-| [Surrender \(with Becky Hill\)](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Surrender \(with Becky Hill\)](https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd) | 2:24 | 2025-04-03 |  |
+| [Surrender](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Surrender](https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd) | 2:24 | 2025-04-03 |  |
 | [Suru teki taas kodin sun sisään](https://open.spotify.com/track/4AneHJl1W8rz50YC4BUjbB) | [Ikuinenkesä](https://open.spotify.com/artist/1gv2UQ0PpCHGnS1ozjAiHf) | [Suru teki taas kodin sun sisään](https://open.spotify.com/album/4DMXyY7zWkK2odiCoxFmeS) | 2:52 | 2024-11-28 | 2024-12-06 |
 | [Surulliset laulut \(Karhupuisto\)](https://open.spotify.com/track/1MxU3sn0OZKUggbNg6HZH4) | [Ikuinenkesä](https://open.spotify.com/artist/1gv2UQ0PpCHGnS1ozjAiHf) | [Surulliset laulut \(Karhupuisto\)](https://open.spotify.com/album/1TrgLVyH6J69Ne3S4vm0w5) | 2:55 | 2025-03-14 | 2025-03-21 |
 | [Surutuuli](https://open.spotify.com/track/29PQiQvlMX5cgK3EavJRYw) | [Johanna Iivanainen](https://open.spotify.com/artist/6JLhQyUs3ACecvseS1YaK3), [Mikko Iivanainen](https://open.spotify.com/artist/6UibpPVpf8NqFsgNKXbcHL) | [Surutuuli](https://open.spotify.com/album/3lxV4mreRcfMn0ZtuFDLvY) | 3:33 | 2025-01-30 | 2025-02-07 |

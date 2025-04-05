@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Tu Jhoothi Main Makkaar
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,542 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,982 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 8 | [Soni Soni \(From "Ishq Vishk Rebound"\)](https://open.spotify.com/track/36N5awamOX6XX5pQn3aFXZ) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Soni Soni \(From "Ishq Vishk Rebound"\)](https://open.spotify.com/album/3vBso6gFPmEwstdMXn3Ahi) | 2:56 |
 | 9 | [Bam Bam Bhole \- From "Sikandar"](https://open.spotify.com/track/5fRN1ylOoNE3p85zwksuwf) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Dev Negi](https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK), [Sameer Anjaan](https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH) | [Bam Bam Bhole \(From "Sikandar"\)](https://open.spotify.com/album/39rvScfuks8QH4LvfB8rmk) | 3:38 |
 | 10 | [Uff Teri Adaa](https://open.spotify.com/track/0og9wKFGgFFNQnrBe7eisG) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Alyssa Mendonsa](https://open.spotify.com/artist/279ZItWl3nzCaO4SJJdzAN) | [Karthik Calling Karthik](https://open.spotify.com/album/13aLziSCr93ULLwPE2JURA) | 5:04 |
-| 11 | [Mahiya](https://open.spotify.com/track/4qOtDofZEAOYJ1Dq9GXgiM) | [Suzzane D'Mello](https://open.spotify.com/artist/6uOKeyhLuByJRekqUVSkwW) | [Awarapan \(Original Soundtrack\)](https://open.spotify.com/album/2rgMLBPzMGrnxj8NaDaIwf) | 4:24 |
+| 11 | [Mahiya](https://open.spotify.com/track/4qOtDofZEAOYJ1Dq9GXgiM) | [Suzzane D'Mello](https://open.spotify.com/artist/2erzajhKOlB9FD6qOKrxHs) | [Awarapan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2rgMLBPzMGrnxj8NaDaIwf) | 4:24 |
 | 12 | [Mazza Hi Mazza](https://open.spotify.com/track/3nRHQxK6DUN6AzSRUNXroB) | [Harsh Upadhyay](https://open.spotify.com/artist/3y0Y3G1hDwoQv48m7U6NdU), [Sukriti Bhardwaj](https://open.spotify.com/artist/53VrKrsOzSZwqZ1ORMEyYh), [Pranav Vatsa](https://open.spotify.com/artist/0ULukl02WRv4XNhnxT6OWR) | [Be Happy \(Original Movie Soundtrack\)](https://open.spotify.com/album/3XP5zSLDGPYDUasQoOvpSv) | 2:35 |
 | 13 | [Aankhon Mein Doob Jaane Ko](https://open.spotify.com/track/1ouPVtxlolKZGedxSTrgD5) | [THE 9TEEN](https://open.spotify.com/artist/4vLv0CXSxGB1PJijrfokwB), [Sandesh Shandilya](https://open.spotify.com/artist/6AwwLwgIsTIXZ8kHWaZUj5) | [Aankhon Mein Doob Jaane Ko](https://open.spotify.com/album/4KS5SO1IEyFxR0ThvDuEL9) | 2:05 |
 | 14 | [Ishq Mein \(From "Nadaaniyan"\)](https://open.spotify.com/track/4jigZPtP8wuNy2vnQw7dUn) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Ishq Mein \(From "Nadaaniyan"\)](https://open.spotify.com/album/0SgOQOj9jYXXQxDoRuDsM9) | 4:22 |

@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: fee\. 小朋友
 
-1,372 songs - 3 day 5 hr 23 min
+1,375 songs - 3 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -627,6 +627,7 @@
 | [pick up your phone](https://open.spotify.com/track/4jiiHoUOH8oDLPcWuydGuF) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h), [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [pick up your phone](https://open.spotify.com/album/5DubLw2TnutkxKYS0Nuygx) | 2:57 | 2023-06-15 | 2023-11-03 |
 | [pie 批](https://open.spotify.com/track/6y73duDBzv8EjPnXotDTAK) | [nnscya](https://open.spotify.com/artist/1vnPgyInQLiCKgpq4Cf6Ff) | [批 PIE](https://open.spotify.com/album/2rq9nx7EFXvsGQaRBp8vxz) | 2:56 | 2024-05-16 | 2024-11-15 |
 | [Pinocchio](https://open.spotify.com/track/5WihmbIXAuVYr9vNTchJD8) | [Raylee Forest](https://open.spotify.com/artist/0sjPDzNZVEwTlpzLfoJjRc) | [Pinocchio](https://open.spotify.com/album/713Br8tfG9knS9eKgyW6to) | 2:47 | 2024-06-20 | 2024-11-15 |
+| [Pipe Down](https://open.spotify.com/track/3IPG9sobVyGdFgMqEIvbNB) | [Noisy Charlie](https://open.spotify.com/artist/64O9yp0OG3PUKs11YjcAWN) | [Pipe Down](https://open.spotify.com/album/7pNGJ4e0VIqDXt3S9yTyeM) | 4:41 | 2025-04-04 |  |
 | [Planet Nine](https://open.spotify.com/track/319vdKBCMdU0lSqk0DyPBo) | [dai'zy](https://open.spotify.com/artist/2AwggAldACBkcFHUM0t4kP) | [Planet Nine](https://open.spotify.com/album/3MuUF4M67ZzKFdcO1u5jNk) | 3:12 | 2023-12-28 | 2024-05-10 |
 | [Plant A Forest](https://open.spotify.com/track/3PY4QVfv2hTd5hvikGd8vB) | [Chance Emerson](https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED) | [Plant A Forest](https://open.spotify.com/album/0oKKTJTn0TniaTXT3Dj79z) | 2:44 | 2025-01-23 |  |
 | [Play](https://open.spotify.com/track/7lpPJlkx7gyfDSnMJrPLjJ) | [The Paisley Daze](https://open.spotify.com/artist/4uo2Q2JUeasRjRlxxQGu3h) | [Play](https://open.spotify.com/album/0L3Mc7E9XeqR18RzpY675C) | 2:41 | 2022-08-25 | 2023-01-06 |
@@ -892,6 +893,7 @@
 | [Why are you so sad](https://open.spotify.com/track/7uLHPFAUNfSVkNRGh0T3xK) | [Ethan Tong](https://open.spotify.com/artist/6ism2YHCPqfxz6Rja13RUb) | [Why are you so sad](https://open.spotify.com/album/2baNs4wCqVuoMkGMUkh3Ys) | 3:08 | 2022-11-10 | 2023-03-18 |
 | [why don't you let me know](https://open.spotify.com/track/1L8HzDA2KS5Iln5YLJD4FK) | [fee.](https://open.spotify.com/artist/0doNlR4itw8RyaQ9cw3yZo) | [why don't you let me know](https://open.spotify.com/album/08dAWFGcRXLZMiamLz7re5) | 2:51 | 2024-07-04 | 2024-11-15 |
 | [why don't you remember me](https://open.spotify.com/track/6BfUZXWYF6nYrLhJipbNTQ) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [crybox](https://open.spotify.com/album/1etOALJ9XwB1iHpOfLB0On) | 4:21 | 2022-10-06 | 2022-11-04 |
+| [Why me \(feat\. Moslow\)](https://open.spotify.com/track/6kqxSwYtbUbTeyI83uMqPc) | [JA](https://open.spotify.com/artist/2iDmpW2aUMre2v18ul2HCi), [DRG](https://open.spotify.com/artist/5l4gTRr24i5PzATUlUixvt), [Moslow](https://open.spotify.com/artist/0WFVpOylOREYnxlknLiTqL) | [HoodStar Mixtape](https://open.spotify.com/album/6poTCQ1IEy7L61dgWEjQkN) | 2:57 | 2025-04-04 |  |
 | [why? \- acoustic](https://open.spotify.com/track/6zljIM3WVTLtxv0PeiPYpk) | [Chefwest](https://open.spotify.com/artist/76X04R0YI3EKzZ957qJeee), [shinylungs⁺₊✧](https://open.spotify.com/artist/2g7UAB5TToknyyKW44XvV9), [Tangent](https://open.spotify.com/artist/417ytp5KTt4VKBAVXD47Wq) | [Bedroom](https://open.spotify.com/album/7bR2DvGjbJCfUi9HCkpSAp) | 3:50 | 2025-01-23 |  |
 | [WILL BE FINE](https://open.spotify.com/track/2NGVGh8HDC1lxQj7Ua3cPh) | [Andy Is Typing](https://open.spotify.com/artist/3cKjWAYtDVV9OlDnJcT57t) | [WILL BE FINE](https://open.spotify.com/album/0cuz2NZsZ47cSICyiLIQbf) | 3:09 | 2022-09-22 | 2023-03-18 |
 | [Willow](https://open.spotify.com/track/20SoteM0n0B8xvYuAo63qq) | [Big Spoon](https://open.spotify.com/artist/4O4oSMu51Qqcd2YR2MTMNz) | [Willow](https://open.spotify.com/album/1XnDez6fRSMGkuLG2vhQlV) | 1:46 | 2022-12-08 | 2023-03-18 |
@@ -1056,6 +1058,7 @@
 | [大休息](https://open.spotify.com/track/1zT27FApK0srGKi3SYRhtH) | [Peterson](https://open.spotify.com/artist/1TxtXcoWBsf48HlugqdfPq) | [大休息](https://open.spotify.com/album/6lS7C5dlEoFr9kyl4ThBOR) | 3:37 | 2024-07-04 | 2024-11-15 |
 | [大揪鬼](https://open.spotify.com/track/09HmiCOzZJtqY6FDtWLgd7) | [The Low Mays](https://open.spotify.com/artist/2DUtkZYBQDfaBgJFFTIp5O) | [大揪鬼](https://open.spotify.com/album/18Pkx9GrX1ujtIsJWxqgcQ) | 3:56 | 2024-10-31 | 2025-02-14 |
 | [大有](https://open.spotify.com/track/3WT0JXvJp6D0xGdGUuisHX) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO) | [大有](https://open.spotify.com/album/1bEOMxmg5JyqWgjMIsbj8T) | 3:48 | 2024-06-13 | 2024-11-15 |
+| [大膽車](https://open.spotify.com/track/2a83S6ERQuoYG5ZF39gR9M) | [JA](https://open.spotify.com/artist/2iDmpW2aUMre2v18ul2HCi), [DRG](https://open.spotify.com/artist/5l4gTRr24i5PzATUlUixvt) | [HoodStar Mixtape](https://open.spotify.com/album/6poTCQ1IEy7L61dgWEjQkN) | 2:27 | 2025-04-04 |  |
 | [天使999%](https://open.spotify.com/track/5gheISXZ452VrOcVnpy69G) | [Helen So 蘇凱倫](https://open.spotify.com/artist/5xlDKh4xnSrMDM35VCGb11) | [天使999%](https://open.spotify.com/album/5sG2VZ8ou6pGukVpWvNnn1) | 2:50 | 2023-10-26 | 2024-01-05 |
 | [天氣之女](https://open.spotify.com/track/6FsfLl1iG0zrbXfiJHl00y) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [天氣之女](https://open.spotify.com/album/1qyTHpCoEhSgSF4bQK1y1F) | 3:24 | 2023-08-03 | 2023-11-03 |
 | [天空的遠岸](https://open.spotify.com/track/5nVo6swVD8bGr6f5TeE1Hc) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Winka 陳泳伽](https://open.spotify.com/artist/1wmTLcYhwwD3GbNoI2Vwls) | [天空的遠岸](https://open.spotify.com/album/023I9wanwbNN7QIIvaWuTO) | 3:44 | 2024-03-07 | 2024-06-07 |

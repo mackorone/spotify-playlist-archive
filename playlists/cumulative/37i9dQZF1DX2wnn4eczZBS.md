@@ -4,7 +4,7 @@
 
 > indie & indiepop in het Nederlands\. Cover: Sophie Straat
 
-179 songs - 9 hr 20 min
+180 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [hou me vast](https://open.spotify.com/track/3mbLs5eGlWr6PYG1NksRMx) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [hou me vast](https://open.spotify.com/album/2Ngl789gVEnr65lLcY4cgO) | 3:51 | 2025-04-03 |  |
 | [Huisje Boompje Hypotheek](https://open.spotify.com/track/1FFpBCHbDsFFoEODQvG9g1) | [Faske](https://open.spotify.com/artist/0WCFYAsNdBO9LraOxLoHoG) | [Huisje Boompje Hypotheek](https://open.spotify.com/album/3Ga4adTPm86fH9534gf98J) | 3:04 | 2024-06-26 | 2024-07-27 |
 | [i miss u \[brood\]](https://open.spotify.com/track/0IyJWLIhd3yiJMemiJLKPj) | [flens](https://open.spotify.com/artist/6GUmsOojs1m8tTbp7ZsaaD) | [i miss u \[brood\]](https://open.spotify.com/album/7K1uSKM8wyJyYtLmVTSUkp) | 2:19 | 2025-03-13 |  |
+| [Iemand Anders](https://open.spotify.com/track/6ZzjjOoKAw3QGQmODzplnK) | [REINDIER](https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK) | [Iemand Anders](https://open.spotify.com/album/6saWoM2nRMWq4QIrKo3GGL) | 3:50 | 2025-04-03 |  |
 | [IJs](https://open.spotify.com/track/1DMQuGNhRsqyw2YF2WPzC6) | [Babs](https://open.spotify.com/artist/1zTF9Ith8PS6mUyvDA4i2M) | [Half](https://open.spotify.com/album/7iioVMREgJtTMow2rRnbUt) | 2:32 | 2024-06-26 | 2024-08-30 |
 | [IJsberen](https://open.spotify.com/track/365zVvWp1vTZ7zLOeVZ3Uz) | [puntjudith](https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d) | [IJsberen](https://open.spotify.com/album/5P3AdiAPxDSNHhyeXfsGT5) | 3:02 | 2025-03-20 |  |
 | [IK GELOOF HET NIET](https://open.spotify.com/track/3zYMY5Bgtm0GSxhSv0ri9n) | [Massi](https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056) | [IK GELOOF HET NIET](https://open.spotify.com/album/20gE1bwQ29W2vxSs6rHeC2) | 2:44 | 2024-11-07 | 2025-01-11 |
@@ -146,7 +147,7 @@
 | [Spookstad](https://open.spotify.com/track/1hBT3YVAygNFTSP3ntqzp4) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [2 HIGH 2 SOCIETY](https://open.spotify.com/album/4F9UoGdfxO0yy3nXFv5hbE) | 3:19 | 2025-01-10 |  |
 | [Stapvoets](https://open.spotify.com/track/5MOYwUWtAMrT2ualbTNxY0) | [Toverjas](https://open.spotify.com/artist/5zMml0lnXLktIwo5TT0cqW) | [Stapvoets](https://open.spotify.com/album/3Gvclg5FnfdjbSYrgRVA80) | 2:58 | 2025-02-20 | 2025-03-21 |
 | [Starstruck \(Celebrity\)](https://open.spotify.com/track/2Jj4TrXWBA6f4B3CuS5tmx) | [NONCHELANGE](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Starstruck \(Celebrity\)](https://open.spotify.com/album/4yHOJauSMEwuUbbIPABuHa) | 3:51 | 2024-11-07 | 2025-03-08 |
-| [Steeds Weer](https://open.spotify.com/track/7uEC4z7GMQAgmhOV737AcR) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Meester Van Niks](https://open.spotify.com/album/5Y5iMbFdJDo0h91qRW0lLU) | 2:16 | 2025-03-07 |  |
+| [Steeds Weer](https://open.spotify.com/track/7uEC4z7GMQAgmhOV737AcR) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Meester Van Niks](https://open.spotify.com/album/5Y5iMbFdJDo0h91qRW0lLU) | 2:16 | 2025-03-07 | 2025-04-05 |
 | [Suicide Vest](https://open.spotify.com/track/3dg92GcW0cYVTRdByFfiqU) | [Massi](https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056) | [Suicide Vest](https://open.spotify.com/album/2qfzIAJETQsix94hAecDmZ) | 4:02 | 2025-01-10 | 2025-03-08 |
 | [Symptomen](https://open.spotify.com/track/2MSF7qswBGmD3VdWxvWygs) | [Johannes Is Zijn Naam](https://open.spotify.com/artist/2RBFRe2zOvWfzMotCRr7D0) | [Symptomen](https://open.spotify.com/album/2dYGcFYAJbqSMHw8H5hV6f) | 3:42 | 2024-10-09 |  |
 | [Te Echt](https://open.spotify.com/track/33zJAMvzqHa7vMzK8oA9wZ) | [Nieuwe Gezichten](https://open.spotify.com/artist/4264rIV4BlBGXdk0R9so4c), [Bo Menning](https://open.spotify.com/artist/2k83szK3kujFBEO1icWht3) | [Te Echt](https://open.spotify.com/album/3vda2iqdmPnTyQ3vTMlRbW) | 4:08 | 2025-02-07 | 2025-03-17 |

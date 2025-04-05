@@ -15231,6 +15231,24 @@
     },
     {
       "album": {
+        "name": "PARTY",
+        "url": "https://open.spotify.com/album/0JRDxilJ8Xgw0km4pqCQQH"
+      },
+      "artists": [
+        {
+          "name": "Scoobert Doobert",
+          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182340,
+      "name": "PARTY",
+      "url": "https://open.spotify.com/track/3CssDYkElNAvDMSfKrS6YE"
+    },
+    {
+      "album": {
         "name": "liminal space",
         "url": "https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h"
       },

@@ -1027,36 +1027,6 @@
     },
     {
       "album": {
-        "name": "Prokofiev: Piano Concerto No. 2 in G minor, Op.16, Ravel: Piano Concerto in G major",
-        "url": "https://open.spotify.com/album/0fDQ95grFC5hOYKrcPSUWw"
-      },
-      "artists": [
-        {
-          "name": "Sergei Prokofiev",
-          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
-        },
-        {
-          "name": "YUNDI",
-          "url": "https://open.spotify.com/artist/1T6BHJnhY5xIVvZKzV5f2u"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Seiji Ozawa",
-          "url": "https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo"
-        }
-      ],
-      "date_added": "2021-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 662800,
-      "name": "Piano Concerto No. 2 in G minor, Op. 16: 4. Finale (Allegro tempestoso)",
-      "url": "https://open.spotify.com/track/46m1Ukc5okavdP4ZCA3cpa"
-    },
-    {
-      "album": {
         "name": "Rachmaninov: Piano Concerto No.3 In D Minor, Op.30 / Prokofiev: Piano Concerto No.2 In G Minor, Op.16 (Live From Caracas / 2013)",
         "url": "https://open.spotify.com/album/2J6Ynk1tSzkdKGU1vdDa3h"
       },
@@ -1144,6 +1114,36 @@
       "duration_ms": 661800,
       "name": "Piano Concerto No. 2 in G Minor, Op. 16: I. Andantino - Live",
       "url": "https://open.spotify.com/track/5o2d4ENbmMV2ZuA8augqwq"
+    },
+    {
+      "album": {
+        "name": "Prokofiev: Piano Concerto No. 2 in G minor, Op.16, Ravel: Piano Concerto in G major",
+        "url": "https://open.spotify.com/album/0fDQ95grFC5hOYKrcPSUWw"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "YUNDI",
+          "url": "https://open.spotify.com/artist/1T6BHJnhY5xIVvZKzV5f2u"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Seiji Ozawa",
+          "url": "https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo"
+        }
+      ],
+      "date_added": "2021-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 662800,
+      "name": "Piano Concerto No. 2 in G Minor, Op. 16: IV. Finale. Allegro tempestoso",
+      "url": "https://open.spotify.com/track/46m1Ukc5okavdP4ZCA3cpa"
     },
     {
       "album": {

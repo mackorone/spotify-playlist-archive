@@ -4,7 +4,7 @@
 
 > Novedades y clásicos del popular género colombiano\. Foto: Peter Manjarrés
 
-172 songs - 12 hr 11 min
+173 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Tierra Mala](https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Tierra Mala](https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU) | 4:49 | 2022-09-02 | 2024-04-19 |
 | [Tú Me Gustas, Mujer!!!](https://open.spotify.com/track/1zfs7wu5eDin6jDpIC662H) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ) | [Tú Me Gustas, Mujer!!!](https://open.spotify.com/album/1AH2y3HEWgiSKSYkbrgBEn) | 3:43 | 2022-09-02 | 2025-03-29 |
 | [Un Beso Y Una Flor](https://open.spotify.com/track/5wVv9KObFL175Ng3Qlyd2i) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Un Beso Y Una Flor](https://open.spotify.com/album/37s4nHhHGs9wGOwxXwNdtR) | 4:16 | 2022-10-21 | 2023-04-06 |
-| [Un Poquito Más](https://open.spotify.com/track/60KDpe1tQ6rPNGP2jAVuxb) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ) | [Un Poquito Más](https://open.spotify.com/album/0a4L8TLfl2yeXmWjcWhVng) | 4:58 | 2024-08-30 |  |
+| [Un Poquito Más](https://open.spotify.com/track/60KDpe1tQ6rPNGP2jAVuxb) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ) | [Un Poquito Más](https://open.spotify.com/album/0a4L8TLfl2yeXmWjcWhVng) | 4:58 | 2024-08-30 | 2025-04-05 |
 | [Un Ser Extraño](https://open.spotify.com/track/6tOCCQOAeYQEzERHAXSqrd) | [Ivan Villazon](https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7), [Tuto López](https://open.spotify.com/artist/4YS5axj3KRs5XcZ005Qlb8) | [Un Ser Extraño](https://open.spotify.com/album/0f5LtYautf6UfoVdoTXS9k) | 4:22 | 2022-10-21 | 2023-02-18 |
 | [Una Hoja en Blanco](https://open.spotify.com/track/3G5OfJVzos5wI0L09oyTOW) | [Omar Geles](https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR), [Esmeralda](https://open.spotify.com/artist/58yU6MSNwlAbu5NRnLOzFu) | [Nace Del Alma](https://open.spotify.com/album/7CL4FmomsC1pPNHNs1mXjW) | 4:44 | 2024-05-22 | 2024-08-31 |
 | [Una Salidita](https://open.spotify.com/track/4gGPjhcTVVQOJWP7tsimQn) | [Luifer Cuello](https://open.spotify.com/artist/3t4QqzE7i62nLJ6nsAEswx) | [Una Salidita](https://open.spotify.com/album/2Rx1gctOQ6BIh5Y1wzvAdk) | 3:29 | 2023-06-02 | 2024-01-27 |
@@ -179,6 +179,7 @@
 | [Ya No Me Duele Más](https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Ya No Me Duele Más](https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL) | 3:46 | 2022-09-02 |  |
 | [Ya No Somos Nada](https://open.spotify.com/track/6kliDqdZj1TKHEpuuI0QhW) | [Los K Morales](https://open.spotify.com/artist/1fGyfOQwyXQgEPePzrFQ63) | [Se Subió la Nota](https://open.spotify.com/album/53Imi3PCN06wdHRijazqsl) | 3:35 | 2023-04-05 | 2023-05-20 |
 | [Ya Pa Que](https://open.spotify.com/track/3Q7equZktTSZJ3KBytS4cX) | [Churo Diaz](https://open.spotify.com/artist/35hWXzGwF4IR8nRicL7jey), [Elías Mendoza](https://open.spotify.com/artist/0oniumgsmbuItH1l6O8vER) | [Único](https://open.spotify.com/album/06wq8hSeOt7YNj8LeJX5Nz) | 4:13 | 2022-12-02 |  |
+| [Yo Comprendo \- Merengue](https://open.spotify.com/track/6UCuzKNdK8BMYAZIKvvwLp) | [Jorge Oñate](https://open.spotify.com/artist/36nvA2snEFUkDbg5qI0ZiG) | [Campesino Parrandero](https://open.spotify.com/album/1WivuSNJkMOOakpxNRGhDm) | 3:34 | 2025-04-04 |  |
 | [Yo Soy Tu Cielo](https://open.spotify.com/track/5fECdk9R7Kd4wxVP1ok5hf) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Yo Soy Tu Cielo](https://open.spotify.com/album/3SsmDAT5gibexAkk7yLn0b) | 3:52 | 2022-09-02 | 2022-10-22 |
 
 \*This playlist was first scraped on 2022-09-07. Prior content cannot be recovered.

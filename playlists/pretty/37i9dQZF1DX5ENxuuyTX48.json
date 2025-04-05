@@ -1,6 +1,6 @@
 {
   "description": "wru? OTW!",
-  "num_followers": 24641,
+  "num_followers": 24642,
   "original_name": "OTW Iftar",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-03-07 03:02:09",
       "album": {
-        "name": "Allah Ya Maulana",
-        "url": "https://open.spotify.com/album/2AeQw3LRLJsTYHtxKJBcEi"
-      },
-      "artists": [
-        {
-          "name": "Opick",
-          "url": "https://open.spotify.com/artist/5KN9rEUWrzshrf0FU2n3Iz"
-        }
-      ],
-      "duration_ms": 239250,
-      "name": "Allah Ya Maulana",
-      "url": "https://open.spotify.com/track/3FtaWA7t5LMUdMKb0DGjTm"
-    },
-    {
-      "added_at": "2025-03-07 03:02:09",
-      "album": {
         "name": "Masa Depan",
         "url": "https://open.spotify.com/album/649hYz14PcCd78FLTC84mb"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 227602,
       "name": "Masa Depan",
       "url": "https://open.spotify.com/track/6ZWRvS1VpmqA2ap3bMI4dY"
+    },
+    {
+      "added_at": "2025-03-07 03:02:09",
+      "album": {
+        "name": "Allah Ya Maulana",
+        "url": "https://open.spotify.com/album/2AeQw3LRLJsTYHtxKJBcEi"
+      },
+      "artists": [
+        {
+          "name": "Opick",
+          "url": "https://open.spotify.com/artist/5KN9rEUWrzshrf0FU2n3Iz"
+        }
+      ],
+      "duration_ms": 239250,
+      "name": "Allah Ya Maulana",
+      "url": "https://open.spotify.com/track/3FtaWA7t5LMUdMKb0DGjTm"
     },
     {
       "added_at": "2025-03-07 03:02:09",
@@ -855,18 +855,22 @@
     {
       "added_at": "2025-03-07 03:02:09",
       "album": {
-        "name": "Raihlah Kemenangan?",
-        "url": "https://open.spotify.com/album/0xVo1nzVc8Uhwaz2q4mbkp"
+        "name": "Jom Raya",
+        "url": "https://open.spotify.com/album/6fGUJAzJUy6KcU8Reu5gHf"
       },
       "artists": [
         {
-          "name": "Gigi",
-          "url": "https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf"
+          "name": "Daiyan Trisha",
+          "url": "https://open.spotify.com/artist/7xegqEOtukVFMdHyWnYkta"
+        },
+        {
+          "name": "Alfie Zumi",
+          "url": "https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV"
         }
       ],
-      "duration_ms": 263920,
-      "name": "Akhirnya",
-      "url": "https://open.spotify.com/track/6U4SJCcwA4RhcmyxKfgvWf"
+      "duration_ms": 159285,
+      "name": "Jom Raya",
+      "url": "https://open.spotify.com/track/1yT4svUG02wQSgxpB1c5yZ"
     },
     {
       "added_at": "2025-03-07 03:02:09",
@@ -887,18 +891,18 @@
     {
       "added_at": "2025-03-07 03:02:09",
       "album": {
-        "name": "Sahabat - Single",
-        "url": "https://open.spotify.com/album/65fwfs24nGOQu5YGh4SSzz"
+        "name": "Raihlah Kemenangan?",
+        "url": "https://open.spotify.com/album/0xVo1nzVc8Uhwaz2q4mbkp"
       },
       "artists": [
         {
-          "name": "Najwa Latif",
-          "url": "https://open.spotify.com/artist/5uuA00QFo3PFnc16RVZwwt"
+          "name": "Gigi",
+          "url": "https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf"
         }
       ],
-      "duration_ms": 188600,
-      "name": "Sahabat",
-      "url": "https://open.spotify.com/track/1Akc1GcXsLGa8SLSJw4zUU"
+      "duration_ms": 263920,
+      "name": "Akhirnya",
+      "url": "https://open.spotify.com/track/6U4SJCcwA4RhcmyxKfgvWf"
     }
   ],
   "unique_name": "OTW Iftar",

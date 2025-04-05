@@ -2,7 +2,7 @@
 
 ### [Spilled Ink](https://open.spotify.com/playlist/37i9dQZF1DWSTeI2WWFaia)
 
-> Lyrical, lo\-fi, and lowlife raps\. Cover: Boldy James
+> Lyrical, lo\-fi, and lowlife raps\. Cover: Saba
 
 783 songs - 1 day 17 hr 53 min
 

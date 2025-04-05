@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 
 > Drilling through Naij\. Cover: EESKAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,323 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,462 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 | 7 | [Go German](https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Go German](https://open.spotify.com/album/566SSg2JNZLMGCVu8euxNN) | 2:58 |
 | 8 | [Go Home](https://open.spotify.com/track/0WREazGSegTBW0deOqpOTV) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Go Home](https://open.spotify.com/album/0nCaveQokllncgYPf3K9Qm) | 2:18 |
 | 9 | [JOHNBULL](https://open.spotify.com/track/51myjOUrplFHpUEc3hkZc9) | [Zhus Jdo](https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv) | [JOHNBULL](https://open.spotify.com/album/0jKVBOpPcnxZOwYM71CIFF) | 1:45 |
-| 10 | [Silent Mode](https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 3:20 |
+| 10 | [Ya Shiga](https://open.spotify.com/track/24LHM1UIHRw80c5JIfAaKC) | [Jerican](https://open.spotify.com/artist/6N1oUyLVwFmpoxd6zev8o2), [Magnito](https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan), [Dr\. Kozzo](https://open.spotify.com/artist/4mOFnzNZVqcSoQkzzPMwLc) | [Ya Shiga](https://open.spotify.com/album/5VWooJ8lmsZ7c1X9JtBGgb) | 2:12 |
 | 11 | [MC OLUOMO](https://open.spotify.com/track/7d0wP4hqtVIQ23H5uEnqBm) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [MC OLUOMO](https://open.spotify.com/album/6SOHUdxwVth3saPV3VnnoE) | 1:47 |
 | 12 | [2 Fresh](https://open.spotify.com/track/51c4uJ7B9cxplMLPnPMoRt) | [Abstraktt](https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD) | [2 Fresh](https://open.spotify.com/album/3yhOIQQoxiI51WPlUEbhvD) | 2:17 |
 | 13 | [Champagne Showers](https://open.spotify.com/track/6sznXlT9DnNxuN9JPgwxcE) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Psychoyp](https://open.spotify.com/artist/0zXL9AbkRZtWXFFufCX8X6) | [Never Stop Vol\. 1](https://open.spotify.com/album/45fYE42AOHnBxsOFcKSoxw) | 2:32 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 | 59 | [My Pay](https://open.spotify.com/track/5xueuFvb4dGDVYw9kq7zbG) | [Evado](https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt) | [My Pay](https://open.spotify.com/album/1gurjO2yqQooB6khYfQAs8) | 2:45 |
 | 60 | [My Time](https://open.spotify.com/track/56IzMNcIHJnVvIR4DEMPqj) | [Chibuzor](https://open.spotify.com/artist/5q7Zr4GT2BW2aNSonvKOjd) | [My Time](https://open.spotify.com/album/31IkWfeidxB3KkzVDFHqM7) | 2:28 |
 
-Snapshot ID: `Z+9D2AAAAABBA9eLRjEfTm+VGOjo/UNh`
+Snapshot ID: `Z+987wAAAACDhHHO6hGUR2DMXGukdvwl`

@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-560 songs - 23 hr 58 min
+562 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Abstractions](https://open.spotify.com/track/7lvOQc9v9ybktcebHIaIFs) | [Richard Mahees](https://open.spotify.com/artist/1db5naRMf6KGMlTpAoqos5) | [Abstractions](https://open.spotify.com/album/53SuOpa0YYC9BfyC2tdFC2) | 1:29 | 2022-12-22 | 2023-07-19 |
 | [Across Long Lakes](https://open.spotify.com/track/3MWklqtDFfMkD3pcf4rBwu) | [Sarah Spring](https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd) | [Across Long Lakes](https://open.spotify.com/album/0dam87WXF1rtP8TYNRuYcZ) | 2:28 | 2022-02-15 | 2023-10-05 |
 | [Adiccio](https://open.spotify.com/track/5FQx940EUQUVwJPuZ1OhcK) | [Terracciano](https://open.spotify.com/artist/0Kk92lO49EF9Bk39qRycLl) | [Adiccio](https://open.spotify.com/album/4PqWpze4lg8UCpgBaJ8hgh) | 2:01 | 2024-11-29 |  |
+| [Adore](https://open.spotify.com/track/4Zc5MaJbyLZjkkiG0267dT) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Adore](https://open.spotify.com/album/2xSRcZ6N1Kyy9QbWMXcdnS) | 2:38 | 2025-04-04 |  |
 | [Adrift](https://open.spotify.com/track/6E5Ze5UAUfjKP9G5ZivpuD) | [Arthur Baptista Galvao](https://open.spotify.com/artist/1XHR4oMd5ze0D08zeQztF6), [How It All Ends](https://open.spotify.com/artist/78nAIN5HSq9vvW2NTsnv7j) | [Adrift](https://open.spotify.com/album/0gd9OapwkT78fIHQ1zbZFa) | 2:18 | 2022-04-21 | 2023-10-05 |
 | [After The Rain](https://open.spotify.com/track/78FM8RL21qznI4xA2Yqtix) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [After The Rain](https://open.spotify.com/album/6UoUV4OYZsmo7CUPD7OW1k) | 2:29 | 2021-12-07 | 2023-10-05 |
 | [Agile](https://open.spotify.com/track/6mib8jl6fASfaAahkDoCr8) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Agile](https://open.spotify.com/album/5aaxGHW6MyyYF8TSjBeGyF) | 3:26 | 2021-12-07 | 2024-03-20 |
@@ -496,6 +497,7 @@
 | [The Emotion of Light \- Revisited](https://open.spotify.com/track/1YOgykOfaRddTMVSxVyESp) | [Lemos](https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh) | [The Emotion Of Light \(Revisited\)](https://open.spotify.com/album/4bFCPQNJbkSJGVWogzUnVw) | 2:13 | 2022-06-07 | 2023-10-05 |
 | [The inner core](https://open.spotify.com/track/6a2tb8bOrFn6S5jbdt5f3j) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [The inner core](https://open.spotify.com/album/7jBoh80XYgDNl8RVL0txEq) | 2:13 | 2024-04-15 |  |
 | [The Last Goodbye](https://open.spotify.com/track/0CFHCZ9LKhFA1DqExQHkf9) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [The Last Goodbye](https://open.spotify.com/album/2iY03z9xsWzIeLkLiJ5iB7) | 2:50 | 2024-03-04 |  |
+| [The Mighty Ocean](https://open.spotify.com/track/3Fjin8fnhoA4cuz7WLVHC5) | [Richard Sauzal](https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI) | [The Mighty Ocean](https://open.spotify.com/album/481dJbM3TjoBdOawFxqiMi) | 2:50 | 2025-04-04 |  |
 | [The Morning After](https://open.spotify.com/track/5ua7qZZVNiysfAbcN5IS6e) | [Tim Missel](https://open.spotify.com/artist/1DYhuAXlTQBvFFfLuYKM4l) | [The Morning After](https://open.spotify.com/album/7vVRy5xt2nrG6qGJcv6Cah) | 2:16 | 2021-12-07 | 2023-01-27 |
 | [The Nightingale](https://open.spotify.com/track/1cXacQAGKrNEB6q32HzK6c) | [Frédéric Leissen](https://open.spotify.com/artist/5yLIjnvnDjovcXpZJa3NCj) | [The Nightingale](https://open.spotify.com/album/5q6Lo4sWsHz7S2JHooLt5i) | 1:58 | 2021-12-07 | 2022-05-21 |
 | [The Only Road](https://open.spotify.com/track/2PuFI0Tjmd31q40SbB0w05) | [Jean\-Marie Bussiere](https://open.spotify.com/artist/1hZuEKockN0pWOxGImbcUF) | [The Only Road](https://open.spotify.com/album/7I4g1xIcIVrfKKmi51EaFM) | 2:15 | 2023-09-26 |  |

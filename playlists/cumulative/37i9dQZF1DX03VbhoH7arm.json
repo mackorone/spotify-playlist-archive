@@ -1289,6 +1289,32 @@
     },
     {
       "album": {
+        "name": "ASTRO",
+        "url": "https://open.spotify.com/album/1L3xsjeGzawKLCAohubxBO"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105588,
+      "name": "BOTA UM FUNK",
+      "url": "https://open.spotify.com/track/5mSprs9Ar10MWtbgJIERhP"
+    },
+    {
+      "album": {
         "name": "Mart\u00b4n\u00e1lia Em Samba! (Ao Vivo) - Extra",
         "url": "https://open.spotify.com/album/6oKC8x4MmGlmsc9VeFWwjP"
       },
@@ -4260,7 +4286,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 152078,
       "name": "Lugar Perfeito",
       "url": "https://open.spotify.com/track/7L9AtCgNka6hR5HQ0y0aR0"

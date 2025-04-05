@@ -1893,6 +1893,32 @@
     },
     {
       "album": {
+        "name": "Sambabook Beth Carvalho",
+        "url": "https://open.spotify.com/album/6n2DZ90JnfaXLij3cqfLye"
+      },
+      "artists": [
+        {
+          "name": "Sambabook",
+          "url": "https://open.spotify.com/artist/2FW6Zt8gyIF7Fb7O3TGxnE"
+        },
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        },
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220244,
+      "name": "Malandro Sou Eu",
+      "url": "https://open.spotify.com/track/5VUk63y3np3VL9EgEiXn9V"
+    },
+    {
+      "album": {
         "name": "Continua",
         "url": "https://open.spotify.com/album/5MApIKrwbZby8tMOND098R"
       },
@@ -2872,7 +2898,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 173173,
       "name": "Sem Esse Cora\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/5kvsEeN7tv7iqbR4P4do8e"

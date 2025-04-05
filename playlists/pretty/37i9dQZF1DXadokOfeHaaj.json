@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Dam Swindle",
-  "num_followers": 35294,
+  "num_followers": 35303,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -487,26 +487,6 @@
     {
       "added_at": "2025-03-28 00:00:35",
       "album": {
-        "name": "From The Stars EP",
-        "url": "https://open.spotify.com/album/5epS4PC6kWpMDiLP7KWsPK"
-      },
-      "artists": [
-        {
-          "name": "Mochakk",
-          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
-        },
-        {
-          "name": "The Rah Band",
-          "url": "https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH"
-        }
-      ],
-      "duration_ms": 260156,
-      "name": "From The Stars",
-      "url": "https://open.spotify.com/track/2wYtsbYJjltjeDyuAO0xBp"
-    },
-    {
-      "added_at": "2025-03-28 00:00:35",
-      "album": {
         "name": "Hallucinating Love",
         "url": "https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 210994,
       "name": "Peace Talk",
       "url": "https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh"
+    },
+    {
+      "added_at": "2025-03-28 00:00:35",
+      "album": {
+        "name": "From The Stars EP",
+        "url": "https://open.spotify.com/album/5epS4PC6kWpMDiLP7KWsPK"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        },
+        {
+          "name": "The Rah Band",
+          "url": "https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH"
+        }
+      ],
+      "duration_ms": 260156,
+      "name": "From The Stars",
+      "url": "https://open.spotify.com/track/2wYtsbYJjltjeDyuAO0xBp"
     },
     {
       "added_at": "2025-03-28 00:00:35",
@@ -611,26 +611,6 @@
     {
       "added_at": "2025-03-28 00:00:35",
       "album": {
-        "name": "SWEET (feat. Biig Piig)",
-        "url": "https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU"
-      },
-      "artists": [
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        },
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 176098,
-      "name": "SWEET (feat. Biig Piig)",
-      "url": "https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql"
-    },
-    {
-      "added_at": "2025-03-28 00:00:35",
-      "album": {
         "name": "Seasoning",
         "url": "https://open.spotify.com/album/4oGm7MGGkXCtWH7H2phRfI"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 203869,
       "name": "Seasoning (feat. 2b.Frank)",
       "url": "https://open.spotify.com/track/0kIim0efkAEH8y0AUctVDt"
+    },
+    {
+      "added_at": "2025-03-28 00:00:35",
+      "album": {
+        "name": "SWEET (feat. Biig Piig)",
+        "url": "https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        },
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 176098,
+      "name": "SWEET (feat. Biig Piig)",
+      "url": "https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql"
     },
     {
       "added_at": "2025-03-28 00:00:35",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-03-28 00:00:35",
       "album": {
-        "name": "So Low",
-        "url": "https://open.spotify.com/album/0kghcOAkB1hUkSKTFUxRpV"
-      },
-      "artists": [
-        {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        }
-      ],
-      "duration_ms": 165454,
-      "name": "So Low",
-      "url": "https://open.spotify.com/track/6LPooJUhejqFutgXU1DY0q"
-    },
-    {
-      "added_at": "2025-03-28 00:00:35",
-      "album": {
         "name": "Watching Me Dance",
         "url": "https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg"
       },
@@ -771,6 +755,22 @@
     {
       "added_at": "2025-03-28 00:00:35",
       "album": {
+        "name": "So Low",
+        "url": "https://open.spotify.com/album/0kghcOAkB1hUkSKTFUxRpV"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "duration_ms": 165454,
+      "name": "So Low",
+      "url": "https://open.spotify.com/track/6LPooJUhejqFutgXU1DY0q"
+    },
+    {
+      "added_at": "2025-03-28 00:00:35",
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/0JVIuhIeX5ixqtVSgTBYMk"
       },
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-03-28 00:00:35",
       "album": {
-        "name": "EUSEXUA",
-        "url": "https://open.spotify.com/album/7mDcWtWBE3ktQFtmGFb9ID"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 236893,
-      "name": "Girl Feels Good",
-      "url": "https://open.spotify.com/track/5KzjHp1pHPVaLeluTLiUZ4"
-    },
-    {
-      "added_at": "2025-03-28 00:00:35",
-      "album": {
         "name": "Mild To Moderate Pain",
         "url": "https://open.spotify.com/album/4XF8dYSOGW5Xdy8x5CfOm3"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 195282,
       "name": "Mild To Moderate Pain",
       "url": "https://open.spotify.com/track/6AxlvreGHDqoo0aVeVCmTK"
+    },
+    {
+      "added_at": "2025-03-28 00:00:35",
+      "album": {
+        "name": "EUSEXUA",
+        "url": "https://open.spotify.com/album/7mDcWtWBE3ktQFtmGFb9ID"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 236893,
+      "name": "Girl Feels Good",
+      "url": "https://open.spotify.com/track/5KzjHp1pHPVaLeluTLiUZ4"
     },
     {
       "added_at": "2025-03-28 00:00:35",
@@ -931,6 +931,26 @@
     {
       "added_at": "2025-03-28 00:00:35",
       "album": {
+        "name": "I Have a Love (Overmono Remix)",
+        "url": "https://open.spotify.com/album/7kh2TPP7m852qfYZJuQRdA"
+      },
+      "artists": [
+        {
+          "name": "For Those I Love",
+          "url": "https://open.spotify.com/artist/3X4mDEa1fff0zpbBp8wiOZ"
+        },
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 366149,
+      "name": "I Have a Love (Overmono Remix)",
+      "url": "https://open.spotify.com/track/5MmKCuXDk2WTMjtdmIbApT"
+    },
+    {
+      "added_at": "2025-03-28 00:00:35",
+      "album": {
         "name": "Waited All Night",
         "url": "https://open.spotify.com/album/0pCKkt2fkUpUNuDuV45ei8"
       },
@@ -955,46 +975,6 @@
       "duration_ms": 208334,
       "name": "Waited All Night",
       "url": "https://open.spotify.com/track/0TBETiWtmbXvj0g5RVaRTb"
-    },
-    {
-      "added_at": "2025-03-28 00:00:35",
-      "album": {
-        "name": "I Have a Love (Overmono Remix)",
-        "url": "https://open.spotify.com/album/7kh2TPP7m852qfYZJuQRdA"
-      },
-      "artists": [
-        {
-          "name": "For Those I Love",
-          "url": "https://open.spotify.com/artist/3X4mDEa1fff0zpbBp8wiOZ"
-        },
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 366149,
-      "name": "I Have a Love (Overmono Remix)",
-      "url": "https://open.spotify.com/track/5MmKCuXDk2WTMjtdmIbApT"
-    },
-    {
-      "added_at": "2025-03-28 00:00:35",
-      "album": {
-        "name": "A Tear in Space (Airlock) [Jakwob Remix]",
-        "url": "https://open.spotify.com/album/5ZNT8qG7vVoAhqRTsgXwSZ"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        },
-        {
-          "name": "Jakwob",
-          "url": "https://open.spotify.com/artist/4S5yXnFzWvHu16wfuDjjfM"
-        }
-      ],
-      "duration_ms": 231325,
-      "name": "A Tear in Space (Airlock) - Jakwob Remix",
-      "url": "https://open.spotify.com/track/4mWWykOrKwI2lBIrYUzDKX"
     },
     {
       "added_at": "2025-03-28 00:00:35",
@@ -1039,6 +1019,26 @@
     {
       "added_at": "2025-03-28 00:00:35",
       "album": {
+        "name": "A Tear in Space (Airlock) [Jakwob Remix]",
+        "url": "https://open.spotify.com/album/5ZNT8qG7vVoAhqRTsgXwSZ"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        },
+        {
+          "name": "Jakwob",
+          "url": "https://open.spotify.com/artist/4S5yXnFzWvHu16wfuDjjfM"
+        }
+      ],
+      "duration_ms": 231325,
+      "name": "A Tear in Space (Airlock) - Jakwob Remix",
+      "url": "https://open.spotify.com/track/4mWWykOrKwI2lBIrYUzDKX"
+    },
+    {
+      "added_at": "2025-03-28 00:00:35",
+      "album": {
         "name": "Distractions",
         "url": "https://open.spotify.com/album/7qreiiOotAmwHtw7JbesnX"
       },
@@ -1051,22 +1051,6 @@
       "duration_ms": 146960,
       "name": "Distractions - Edit",
       "url": "https://open.spotify.com/track/6FDnxADtwOPmBXk4P3jGid"
-    },
-    {
-      "added_at": "2025-03-28 00:00:35",
-      "album": {
-        "name": "Space Between Us",
-        "url": "https://open.spotify.com/album/3TTsfkzNolXmaqPzFjc1U9"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 225231,
-      "name": "Space Between Us",
-      "url": "https://open.spotify.com/track/3KWwb2rZjI2P1hwuQ4gaqS"
     },
     {
       "added_at": "2025-03-28 00:00:35",
@@ -1087,6 +1071,22 @@
       "duration_ms": 130164,
       "name": "stay alive",
       "url": "https://open.spotify.com/track/1bP6FLHUIUjfecYLsNPK16"
+    },
+    {
+      "added_at": "2025-03-28 00:00:35",
+      "album": {
+        "name": "Space Between Us",
+        "url": "https://open.spotify.com/album/3TTsfkzNolXmaqPzFjc1U9"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 225231,
+      "name": "Space Between Us",
+      "url": "https://open.spotify.com/track/3KWwb2rZjI2P1hwuQ4gaqS"
     },
     {
       "added_at": "2025-03-28 00:00:35",
@@ -1127,18 +1127,22 @@
     {
       "added_at": "2025-03-28 00:00:35",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/7uxfQPw7jZrMCwmFijglNT"
+        "name": "Big Man",
+        "url": "https://open.spotify.com/album/5yW6Sr7FABZxe95FEEKEkb"
       },
       "artists": [
         {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+          "name": "Self Esteem",
+          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
+        },
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
         }
       ],
-      "duration_ms": 191065,
-      "name": "Got to Change",
-      "url": "https://open.spotify.com/track/5oV0DfWqOf8hn40u37hepA"
+      "duration_ms": 253057,
+      "name": "Big Man",
+      "url": "https://open.spotify.com/track/1kgEHdcA1hesiL4qFISZc4"
     },
     {
       "added_at": "2025-03-28 00:00:35",
@@ -1163,22 +1167,34 @@
     {
       "added_at": "2025-03-28 00:00:35",
       "album": {
-        "name": "Big Man",
-        "url": "https://open.spotify.com/album/5yW6Sr7FABZxe95FEEKEkb"
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/7uxfQPw7jZrMCwmFijglNT"
       },
       "artists": [
         {
-          "name": "Self Esteem",
-          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
-        },
-        {
-          "name": "Moonchild Sanelly",
-          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
         }
       ],
-      "duration_ms": 253057,
-      "name": "Big Man",
-      "url": "https://open.spotify.com/track/1kgEHdcA1hesiL4qFISZc4"
+      "duration_ms": 191065,
+      "name": "Got to Change",
+      "url": "https://open.spotify.com/track/5oV0DfWqOf8hn40u37hepA"
+    },
+    {
+      "added_at": "2025-03-28 00:00:35",
+      "album": {
+        "name": "Thrown Around",
+        "url": "https://open.spotify.com/album/6dqfoHNZqWOM54L6TxMOXs"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 260407,
+      "name": "Thrown Around",
+      "url": "https://open.spotify.com/track/6hEiEWEgAuFvEJduuSQLiw"
     },
     {
       "added_at": "2025-03-28 00:00:35",
@@ -1199,22 +1215,6 @@
       "duration_ms": 358186,
       "name": "I Wanna Tell Somebody",
       "url": "https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR"
-    },
-    {
-      "added_at": "2025-03-28 00:00:35",
-      "album": {
-        "name": "Thrown Around",
-        "url": "https://open.spotify.com/album/6dqfoHNZqWOM54L6TxMOXs"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 260407,
-      "name": "Thrown Around",
-      "url": "https://open.spotify.com/track/6hEiEWEgAuFvEJduuSQLiw"
     },
     {
       "added_at": "2025-03-28 00:00:35",
@@ -1247,26 +1247,6 @@
       "duration_ms": 169568,
       "name": "Coming Back To Me Good",
       "url": "https://open.spotify.com/track/3ffFwRkfTvWJ0sXNYQcUZS"
-    },
-    {
-      "added_at": "2025-03-28 00:00:35",
-      "album": {
-        "name": "IN YOUR EYES",
-        "url": "https://open.spotify.com/album/4f9lLOAQsQIH9JwanNAV24"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        },
-        {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
-        }
-      ],
-      "duration_ms": 196406,
-      "name": "IN YOUR EYES",
-      "url": "https://open.spotify.com/track/0UTTnRPIlgoJEq9D7i6gW6"
     },
     {
       "added_at": "2025-03-28 00:00:35",
@@ -1307,6 +1287,26 @@
       "duration_ms": 170471,
       "name": "Pleasure Chasers",
       "url": "https://open.spotify.com/track/6pf5Yqg1zSbsxHaLBf49BP"
+    },
+    {
+      "added_at": "2025-03-28 00:00:35",
+      "album": {
+        "name": "Stranger's Town",
+        "url": "https://open.spotify.com/album/18TszgLDusxrAqAoQbM75t"
+      },
+      "artists": [
+        {
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+        },
+        {
+          "name": "ZOE ASKA",
+          "url": "https://open.spotify.com/artist/5qzcJvz7hZinbSGukeZ8kE"
+        }
+      ],
+      "duration_ms": 204533,
+      "name": "Stranger's Town",
+      "url": "https://open.spotify.com/track/5rrHJRGmkHUOQ3Wz25ESUF"
     }
   ],
   "unique_name": "Indie Electronic ",

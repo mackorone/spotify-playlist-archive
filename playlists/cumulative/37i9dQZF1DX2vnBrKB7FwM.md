@@ -4,7 +4,7 @@
 
 > Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Penyair
 
-148 songs - 8 hr 11 min
+149 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [De Todo Un Poco](https://open.spotify.com/track/19ucvAFRVyPIf093e7ArrR) | [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [De Todo Un Poco](https://open.spotify.com/album/6IMPQbEBdoWF3xzKfd2NFC) | 3:15 | 2023-02-17 |  |
 | [Deja](https://open.spotify.com/track/3rFQdyT9s0sg1zEaYQmJ45) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Mestizo](https://open.spotify.com/album/0eDsjuoAukMeT8fy9RDG9f) | 3:31 | 2022-02-25 |  |
 | [Deja](https://open.spotify.com/track/6Kc4xRgbOxNqoVoXIP6h4e) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Mestizo](https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw) | 3:31 | 2023-02-17 | 2024-04-19 |
+| [Dilo Conmigo](https://open.spotify.com/track/6vhxB82OXRmZ1O4AstoBUW) | [El Kalvo](https://open.spotify.com/artist/3GOtzu1fzxIS0zYI94K21v), [Da Funkylooper](https://open.spotify.com/artist/3OC9G8vMThjgqO6LNN9DOu), [H\-ico El Señor del Funk](https://open.spotify.com/artist/7ELWV3QfXM7w6c2ATmx4mN) | [Dilo Conmigo](https://open.spotify.com/album/1SIvaWiDgOFfQMB5c6f6NN) | 2:37 | 2025-04-04 |  |
 | [Discúlpame](https://open.spotify.com/track/2F2gdhLf83hIJzyr7k45VD) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Grandes Éxitos: 15 Años de Carrera Musical \(Remastered\)](https://open.spotify.com/album/4p8Mw0BljHb4ItwD2FhH6C) | 2:24 | 2022-02-25 | 2024-12-13 |
 | [Discúlpame](https://open.spotify.com/track/31SdxR0JGQ2kX9fCC5z50u) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Palabras del Alma](https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV) | 2:24 | 2023-02-17 | 2024-04-19 |
 | [Drama & Dinero](https://open.spotify.com/track/57YsOfDLCiMUsW7RZWrSce) | [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k) | [Drama & Dinero](https://open.spotify.com/album/0DTbeQubOGZ6grfy3jgFLZ) | 3:28 | 2022-12-23 |  |
@@ -155,6 +156,6 @@
 | [Vaca Pa' Volar](https://open.spotify.com/track/55GfT7VzO2BTD1it7OO8Hw) | [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [ZetaZeta](https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Vaca Pa' Volar](https://open.spotify.com/album/5w9B7dTYGWi0UeuKdVPeNF) | 3:09 | 2022-02-25 |  |
 | [Vaivén](https://open.spotify.com/track/5Pmqbpl8LsFAOTVM5CyLcy) | [El Nido](https://open.spotify.com/artist/4nRaAYkADMj7ATnd0hn7CF), [Error 999](https://open.spotify.com/artist/7lsntvM70w5zsPUbAFFFT0), [Repz Bar$](https://open.spotify.com/artist/6gghfqGeVkTx0fcrgd7ESK), [Sike Damodar](https://open.spotify.com/artist/3w8j14IiejZYTYSHyMwemO), [Alman Lenid](https://open.spotify.com/artist/3aKmPqBx1uIDdHexfQ81lf) | [Vaivén](https://open.spotify.com/album/009XeJky5RjEa5EuKI2OMv) | 4:14 | 2022-02-25 |  |
 | [Value](https://open.spotify.com/track/3Pkze3D7iN4CfgyJQZcNLR) | [Hermanos Sin Yugo](https://open.spotify.com/artist/658gfLdNsNk5nX9lYr4AVt), [Keko Beats](https://open.spotify.com/artist/3d5ScJpj1ROK1DNtwM17Ed) | [Value](https://open.spotify.com/album/2sh7MP1Oct3e0Dz0I3gBmX) | 4:02 | 2022-02-25 | 2023-08-26 |
-| [¿Algo Que Decir?](https://open.spotify.com/track/57eaJ15ZJpAfefBpANiw5C) | [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j), [Tatiana Gomez Rap](https://open.spotify.com/artist/0Bwdg8Wfolta9Eum4FQGVI), [Eddy Mugre](https://open.spotify.com/artist/4Jj53RUvud8LQYuM3cPh25), [Arion](https://open.spotify.com/artist/1KNW0yA92QHGP5wyLXvT2c) | [¿Algo Que Decir?](https://open.spotify.com/album/3ESxHrgjrVxQAWxZKPn78a) | 2:23 | 2024-08-23 |  |
+| [¿Algo Que Decir?](https://open.spotify.com/track/57eaJ15ZJpAfefBpANiw5C) | [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j), [Tatiana Gomez Rap](https://open.spotify.com/artist/0Bwdg8Wfolta9Eum4FQGVI), [Eddy Mugre](https://open.spotify.com/artist/4Jj53RUvud8LQYuM3cPh25), [Arion](https://open.spotify.com/artist/1KNW0yA92QHGP5wyLXvT2c) | [¿Algo Que Decir?](https://open.spotify.com/album/3ESxHrgjrVxQAWxZKPn78a) | 2:23 | 2024-08-23 | 2025-04-05 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

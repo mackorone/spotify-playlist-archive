@@ -1543,6 +1543,24 @@
     },
     {
       "album": {
+        "name": "Baqui",
+        "url": "https://open.spotify.com/album/2XwExprMzbNz9z0cuNjpTz"
+      },
+      "artists": [
+        {
+          "name": "Oxis",
+          "url": "https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "Baqui",
+      "url": "https://open.spotify.com/track/283ejY2T9pXfjSq7oVOBze"
+    },
+    {
+      "album": {
         "name": "elysian",
         "url": "https://open.spotify.com/album/228l4A41HRKtL3R1rlUNGv"
       },
@@ -3422,7 +3440,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 197505,
       "name": "Curves",
       "url": "https://open.spotify.com/track/14gFoEG2vJmqM7LaYRJ49m"
@@ -3488,6 +3506,24 @@
       "duration_ms": 301050,
       "name": "Daffodils",
       "url": "https://open.spotify.com/track/6Wx7Zbi9bgT0qqqmWndWW5"
+    },
+    {
+      "album": {
+        "name": "Dance of Seasons",
+        "url": "https://open.spotify.com/album/08Z5Fkweh6PZirP9LVfnbr"
+      },
+      "artists": [
+        {
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422853,
+      "name": "Dance of Seasons",
+      "url": "https://open.spotify.com/track/7Ikb6ccHVKwhmafzmpQFSN"
     },
     {
       "album": {
@@ -4036,7 +4072,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 153559,
       "name": "Distant Solace",
       "url": "https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B"
@@ -4904,7 +4940,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 310857,
       "name": "Embers",
       "url": "https://open.spotify.com/track/3w9ALKovRO9Tc29DPiMzGi"
@@ -5042,6 +5078,28 @@
       "duration_ms": 322499,
       "name": "Enough",
       "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
+    },
+    {
+      "album": {
+        "name": "Severance: Season 2 (Apple TV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/43VDjlJRYsUnpJB0qCJjQK"
+      },
+      "artists": [
+        {
+          "name": "Theodore Shapiro",
+          "url": "https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T"
+        },
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "Entering Lumon (ODESZA Severance Remix)",
+      "url": "https://open.spotify.com/track/2xToDIuuYKkOhuDZGYxuIR"
     },
     {
       "album": {
@@ -6876,7 +6934,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 210716,
       "name": "Gilded",
       "url": "https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig"
@@ -9023,6 +9081,24 @@
     },
     {
       "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/3XVyRiBQtZTxjrjtVL0Igx"
+      },
+      "artists": [
+        {
+          "name": "!Sooks",
+          "url": "https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 520677,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/43cbFFWsvH9ojZ0QaufdlH"
+    },
+    {
+      "album": {
         "name": "After All This Time",
         "url": "https://open.spotify.com/album/5fQZ7mthdgHZVxmLjuk1Bp"
       },
@@ -10108,7 +10184,7 @@
       ],
       "date_added": "2019-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 212044,
       "name": "Machine Keys",
       "url": "https://open.spotify.com/track/7L96oyotFbLOxKAfywRczR"
@@ -10166,6 +10242,24 @@
       "duration_ms": 248293,
       "name": "March",
       "url": "https://open.spotify.com/track/6WHsUuUidIdiUURPA3EoCl"
+    },
+    {
+      "album": {
+        "name": "Marmo",
+        "url": "https://open.spotify.com/album/0YMGkTpcXmOvvXjjvAPCKx"
+      },
+      "artists": [
+        {
+          "name": "Drum & Lace",
+          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192300,
+      "name": "Marmo",
+      "url": "https://open.spotify.com/track/5iTdysytOWrWpQToDt3HdV"
     },
     {
       "album": {
@@ -11005,6 +11099,28 @@
     },
     {
       "album": {
+        "name": "Music To Refine To: A Remix Companion to Severance",
+        "url": "https://open.spotify.com/album/7bNj7hUkbRbZzn36MdyvUk"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Theodore Shapiro",
+          "url": "https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Music of Wellness - ODESZA Severance Remix",
+      "url": "https://open.spotify.com/track/2Y1BKUbXxTqu8aD0aroPPP"
+    },
+    {
+      "album": {
         "name": "Actual Life 3 (January 1 - September 9 2022)",
         "url": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop"
       },
@@ -11238,7 +11354,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 244089,
       "name": "NEVER LOOK DOWN",
       "url": "https://open.spotify.com/track/6GbngWsWlNtJbYMxHPif76"
@@ -14228,7 +14344,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 236754,
       "name": "Schwarzhalstaucher",
       "url": "https://open.spotify.com/track/3N9PpZNqyl8wxmxvd1YEjl"
@@ -16012,7 +16128,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 330291,
       "name": "Sunday Maybe",
       "url": "https://open.spotify.com/track/6k2pBpf10f3DNWKykGGJjn"
@@ -18955,6 +19071,24 @@
     },
     {
       "album": {
+        "name": "Waxcap",
+        "url": "https://open.spotify.com/album/3etyhZ7v3gtHz23SQ8AXgr"
+      },
+      "artists": [
+        {
+          "name": "DjRUM",
+          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310814,
+      "name": "Waxcap",
+      "url": "https://open.spotify.com/track/64jiLHPYqy33j4BXOWwaf2"
+    },
+    {
+      "album": {
         "name": "it's only forever",
         "url": "https://open.spotify.com/album/11n9UyyDgZro01qnrMLlC7"
       },
@@ -19050,6 +19184,24 @@
       "duration_ms": 42000,
       "name": "Weird Summer",
       "url": "https://open.spotify.com/track/2KmGCjvla5f5wjUAoVRwJ1"
+    },
+    {
+      "album": {
+        "name": "WFL / DMW",
+        "url": "https://open.spotify.com/album/3vvMINih2qnD0wK9SRNPwH"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334957,
+      "name": "WFL",
+      "url": "https://open.spotify.com/track/67P0dNGTzf5AlRFFtHYFaa"
     },
     {
       "album": {

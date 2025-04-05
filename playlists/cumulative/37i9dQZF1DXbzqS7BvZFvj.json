@@ -4211,6 +4211,24 @@
     },
     {
       "album": {
+        "name": "Checkers",
+        "url": "https://open.spotify.com/album/72n2jehrxvhfkV8WV5wkXP"
+      },
+      "artists": [
+        {
+          "name": "Aesop Rock",
+          "url": "https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237133,
+      "name": "Checkers",
+      "url": "https://open.spotify.com/track/2OTNi09G4bYMxQv04ltzC6"
+    },
+    {
+      "album": {
         "name": "Cherry Wine",
         "url": "https://open.spotify.com/album/7hdkLUeHt0RStrBY4qLpaB"
       },
@@ -7486,7 +7504,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 154800,
       "name": "GBP (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH"
@@ -13500,7 +13518,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 248372,
       "name": "MIXED FEELINGS",
       "url": "https://open.spotify.com/track/75NpMdx6taRw8GvkcWhZvf"

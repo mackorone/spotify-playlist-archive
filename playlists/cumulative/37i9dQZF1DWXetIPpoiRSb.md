@@ -4,7 +4,7 @@
 
 > 2hollis is a star 💫
 
-1,672 songs - 3 day 12 hr 1 min
+1,674 songs - 3 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -862,6 +862,7 @@
 | [Let's go to Hell](https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Let's go to Hell](https://open.spotify.com/album/2tVcIkd2GmDpNQkXRNpaME) | 2:32 | 2021-11-06 | 2022-01-22 |
 | [Lethal Woman](https://open.spotify.com/track/4GnjXzJfmPcVEt0S7zIS9L) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Lethal Woman](https://open.spotify.com/album/25JZaVPcasGATDbLqizABZ) | 2:06 | 2023-10-20 | 2024-02-09 |
 | [Liar Liar \(Feat\. Bastille\)](https://open.spotify.com/track/3CGAtMSboRN65Jo4wb3eOH) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Liar Liar \(Feat\. Bastille\)](https://open.spotify.com/album/1Z63CEuNOQf5UIZ1LoI9fP) | 2:54 | 2023-08-04 | 2023-12-02 |
+| [Lichen](https://open.spotify.com/track/6EC93GvaFArH2XxDrj7zM6) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [After EP](https://open.spotify.com/album/4vOI9qIaL2W5MN47FXnEFj) | 3:01 | 2025-04-03 |  |
 | [lie](https://open.spotify.com/track/2GQqCyDCD0Z7BL2otJkFRh) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [lie](https://open.spotify.com/album/6uy43Z8UWtPQS7tnddxU8G) | 3:34 | 2023-06-22 | 2023-12-08 |
 | [Lie](https://open.spotify.com/track/04NMWz4ctkuILV6mUR2iWp) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Lie](https://open.spotify.com/album/6w0e4iHPyMH9yc30NwlV7b) | 3:29 | 2020-10-13\* | 2020-10-24 |
 | [Lie Like This](https://open.spotify.com/track/5yCXLEi384DHGRXYMXgjBR) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Lie Like This](https://open.spotify.com/album/75IXv7KKvxMlIrjsrK8CRt) | 3:38 | 2020-10-13\* | 2021-02-13 |
@@ -1182,6 +1183,7 @@
 | [Psychedelic Switch](https://open.spotify.com/track/7zy2kNoeD72x2NEDaAsJOX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loveliest Time](https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk) | 4:32 | 2023-07-28 | 2023-10-14 |
 | [PSYCHO](https://open.spotify.com/track/4mzarp4qJVXipOOpzs5MB5) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PSYCHO](https://open.spotify.com/album/6d4okERqK0BiadzjBBOsEL) | 3:06 | 2024-10-10 | 2025-02-21 |
 | [Psycho \(feat\. Rubi Rose\)](https://open.spotify.com/track/3Q872ol7VFg088SkbxSuqO) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs), [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [Psycho \(feat\. Rubi Rose\)](https://open.spotify.com/album/2P4Rixsgbbij70Oyfwi6XS) | 2:30 | 2021-07-24 | 2021-09-10 |
+| [Psychoboost feat danny brown](https://open.spotify.com/track/7BMSBNctr9IPelr6MFvuRL) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Revengeseekerz](https://open.spotify.com/album/21b4cDNse2AMpj94ykfuON) | 4:04 | 2025-04-03 |  |
 | [psychofreak \(feat\. WILLOW\)](https://open.spotify.com/track/705dwKmZCd7ImAUyyD6Mpm) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 3:21 | 2022-04-08 | 2022-06-18 |
 | [Psychopath](https://open.spotify.com/track/5rLURQxuGdD2E8sgPg5a7i) | [Laura Greaves](https://open.spotify.com/artist/5LyVVU8FnF0T2OqKIB8ZDX), [Khwezi](https://open.spotify.com/artist/3MVH60Zb3YkbJ0Ua26X07F), [Lhotse](https://open.spotify.com/artist/5CFO1lbjoMQ8NqmjnKURx5) | [Psychopath](https://open.spotify.com/album/0fadv3a9564n8zEJEAOCPP) | 3:07 | 2021-02-26 | 2021-04-24 |
 | [Pull Me Under](https://open.spotify.com/track/3CoDUZesG2mnyWR9Ret1cg) | [Millie Turner](https://open.spotify.com/artist/53GC8IrnkJXGO7znOiv4tD) | [Eye of the Storm](https://open.spotify.com/album/0sjyOiAlJYTNHDmiakxL2D) | 2:59 | 2021-05-14 | 2021-07-17 |

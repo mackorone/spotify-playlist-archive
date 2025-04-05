@@ -4,7 +4,7 @@
 
 > CURATED BY MASON RAMSEY\-\- these are his  country essentials!  Keep checking back to see who will curate next! This is the best of country!
 
-274 songs - 16 hr 47 min
+276 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [More Hearts Than Mine](https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:34 | 2024-07-16 | 2024-09-05 |
 | [Need A Favor](https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:17 | 2024-07-03 | 2024-09-05 |
 | [Never Left Me \(From Twisters: The Album\)](https://open.spotify.com/track/3IuBfjh6U8r2K0a5sP8Lvf) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Never Left Me \(From Twisters: The Album\)](https://open.spotify.com/album/7g8sRyHTnJBUuDb5VkzBP9) | 3:11 | 2024-07-03 | 2024-09-05 |
+| [NEVER TELL YOU NO](https://open.spotify.com/track/2ulgNwGM87DfrzLO1Qywbw) | [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ) | [LOW ROAD](https://open.spotify.com/album/4MMo6irssSwZPqitG2bMAl) | 2:32 | 2025-04-04 |  |
 | [New To Country](https://open.spotify.com/track/11nmHJICkQ9emiYJJINygH) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [New To Country](https://open.spotify.com/album/1ubJSiGbO0OsLHwFFs8NBr) | 2:57 | 2024-07-03 | 2024-09-05 |
 | [No Caller ID](https://open.spotify.com/track/2TOO5Dp8mlKhSq8xTGPXwX) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:28 | 2024-08-05 | 2024-09-05 |
 | [No\. 7 Road](https://open.spotify.com/track/196gHiMKy67smff9ITYtQ5) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [No\. 7 Road](https://open.spotify.com/album/5ew2r7jhSR1oaCJinVXbwH) | 3:02 | 2024-07-03 | 2024-09-05 |
@@ -190,6 +191,7 @@
 | [Purple Gas](https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH) | 3:00 | 2024-07-03 | 2024-09-05 |
 | [Purple Rain \- 7" Single Edit; 2017 Remaster](https://open.spotify.com/track/3FnP3j1TyiTwbJb5AR2ynT) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain \(Deluxe Expanded Edition\)](https://open.spotify.com/album/12DmuRtZNTx84ELHKD3VGL) | 4:05 | 2022-05-05 | 2024-07-05 |
 | [Rebel Rebel \- 2014 Remaster](https://open.spotify.com/track/0BM4xE3z8cN5AakEhIL3Mm) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Legacy \(The Very Best Of David Bowie, Deluxe\)](https://open.spotify.com/album/4JEgSaokMH5mMRClx9wp3S) | 4:30 | 2022-05-05 | 2023-02-18 |
+| [Reckless](https://open.spotify.com/track/0doryYTT72oB8wKtHFfjNm) | [Blake Whiten](https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM) | [Six Mile](https://open.spotify.com/album/19q7vSiSA1C3wnR7OvkR0B) | 3:35 | 2025-04-04 |  |
 | [Relapse](https://open.spotify.com/track/4cfJwDxcinpg5gYUZ4qysj) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Relapse](https://open.spotify.com/album/4uSU5pj5YinibVkwQF5op3) | 2:38 | 2024-07-03 | 2024-09-05 |
 | [Revelation](https://open.spotify.com/track/1sj1e473CLlbq8tiigP1D6) | [Wesko](https://open.spotify.com/artist/65JTh6O744ikcSz4K1AGeF) | [Lost Boys](https://open.spotify.com/album/2SzTcEMaQr01Gjozbd2t4r) | 4:43 | 2024-07-03 | 2024-09-05 |
 | [Revival](https://open.spotify.com/track/2QfX9Pdz3q66fN3kCXl0Js) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Elisabeth](https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn) | 3:41 | 2024-07-03 | 2024-09-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain]
 
 > ⋆.
 
-[j](https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4) - 12 likes - 623 songs - 1 day 9 hr 54 min
+[j](https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4) - 11 likes - 623 songs - 1 day 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

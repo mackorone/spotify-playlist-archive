@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with Amira Elfeky.",
+  "description": "n\u00fc-metal revival is happening here and now with Tetrarch.",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -561,6 +561,24 @@
     },
     {
       "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/1TkjAIrMg814YiEWyZPwV8"
+      },
+      "artists": [
+        {
+          "name": "Tetrarch",
+          "url": "https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178101,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/3JRiXx1S7BIxGgOBP3VeZ2"
+    },
+    {
+      "album": {
         "name": "COME ALIVE",
         "url": "https://open.spotify.com/album/0MtCTrcYWyVtbYIVHx3Xol"
       },
@@ -868,7 +886,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 191614,
       "name": "Death of Me",
       "url": "https://open.spotify.com/track/1CLDmYcnUY26vloEbaWJyI"
@@ -1568,10 +1586,28 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
+    },
+    {
+      "album": {
+        "name": "HEINOUS",
+        "url": "https://open.spotify.com/album/3UIFDiuIdyMPlqDJ7Vqf4e"
+      },
+      "artists": [
+        {
+          "name": "UnityTX",
+          "url": "https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "HEINOUS",
+      "url": "https://open.spotify.com/track/3XnZKOTqOA7zTrzoJukww0"
     },
     {
       "album": {
@@ -1759,6 +1795,24 @@
     },
     {
       "album": {
+        "name": "IDENTITY",
+        "url": "https://open.spotify.com/album/5I5Z5PckRfqeq5A9zdvuQh"
+      },
+      "artists": [
+        {
+          "name": "BIG NOTER",
+          "url": "https://open.spotify.com/artist/3wuLSOv0CPHw4s22TIIN0B"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204661,
+      "name": "IDENTITY",
+      "url": "https://open.spotify.com/track/2sMbNh0yhdzUi0f4Y9DGuV"
+    },
+    {
+      "album": {
         "name": "Cypress Hill Mixtape",
         "url": "https://open.spotify.com/album/6vViDUE5CWCL88MMVR8sSj"
       },
@@ -1796,7 +1850,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 225707,
       "name": "Insane in the Brain",
       "url": "https://open.spotify.com/track/04r5s5qp2DRKnObmiCE2QE"
@@ -2158,7 +2212,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 179760,
       "name": "Live Not Fantasize",
       "url": "https://open.spotify.com/track/3asgs3iJWKVpTVUz8m7wVs"
@@ -2606,7 +2660,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 212895,
       "name": "Oblivion Eyes",
       "url": "https://open.spotify.com/track/7ipUh3ks6qz821ZBwR7BG8"
@@ -3601,6 +3655,36 @@
     },
     {
       "album": {
+        "name": "Still Playin' For Keeps (Big Umbrella Remix)",
+        "url": "https://open.spotify.com/album/3yjQkaQ9z1yzeej72nsB74"
+      },
+      "artists": [
+        {
+          "name": "Gridiron",
+          "url": "https://open.spotify.com/artist/2eIUyCr530XyFHd358dxYZ"
+        },
+        {
+          "name": "Daniel Son",
+          "url": "https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF"
+        },
+        {
+          "name": "Jay Royale",
+          "url": "https://open.spotify.com/artist/3KNpTmSDhaORVahz00VlhW"
+        },
+        {
+          "name": "Pro Dillinger",
+          "url": "https://open.spotify.com/artist/27rHpyfeuJ7Rtka10jBojd"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226720,
+      "name": "Still Playin' For Keeps (Big Umbrella Remix)",
+      "url": "https://open.spotify.com/track/3xGn1XZ7Jb0g2jPtyXi0Wf"
+    },
+    {
+      "album": {
         "name": "Sucks 2 Suck",
         "url": "https://open.spotify.com/album/4vApNOb7B86XOY1DdLcs7w"
       },
@@ -4219,6 +4303,28 @@
     },
     {
       "album": {
+        "name": "Until I Die",
+        "url": "https://open.spotify.com/album/6dPX6u7YdNqyOuWT61tu5X"
+      },
+      "artists": [
+        {
+          "name": "DED",
+          "url": "https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa"
+        },
+        {
+          "name": "Chris Motionless",
+          "url": "https://open.spotify.com/artist/2bulKOP1y1iUYGE6FcMrHd"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142359,
+      "name": "Until I Die",
+      "url": "https://open.spotify.com/track/0ccU7pZfEKdTYD4WEqtxzG"
+    },
+    {
+      "album": {
         "name": "SC\\SSRS",
         "url": "https://open.spotify.com/album/3KtkgdjSTdTzkHdYQ0cglt"
       },
@@ -4328,7 +4434,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 176791,
       "name": "Volatile",
       "url": "https://open.spotify.com/track/3IW7iLL6LHVQayWxTnl24R"
@@ -4502,6 +4608,24 @@
       "duration_ms": 239863,
       "name": "Werewolf (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP"
+    },
+    {
+      "album": {
+        "name": "What we know",
+        "url": "https://open.spotify.com/album/6sdxlixknhEoA0qBwEoIGV"
+      },
+      "artists": [
+        {
+          "name": "Tallah",
+          "url": "https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243979,
+      "name": "What we know",
+      "url": "https://open.spotify.com/track/5aFdZBMU2W8jw1gPuVYLtf"
     },
     {
       "album": {

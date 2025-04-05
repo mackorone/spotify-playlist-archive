@@ -4,7 +4,7 @@
 
 > De beste Indie & Alternative\. Cover: Sylvie Kreusch
 
-168 songs - 10 hr 4 min
+169 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,10 +164,11 @@
 | [Undertow](https://open.spotify.com/track/1xjSa52OsjBnsMhQgeQ3pm) | [Sloper](https://open.spotify.com/artist/35fxvnr5oanOFB1JNB2Ber) | [Undertow](https://open.spotify.com/album/5wdaz6mmb6s74ZZOzLHhnG) | 4:23 | 2024-09-26 | 2024-10-04 |
 | [Up All Night \(with The Lumineers & Noah Kahan\)](https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Up All Night](https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s) | 3:23 | 2024-10-03 | 2025-02-28 |
 | [VALENTINE](https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:36 | 2024-06-26 | 2024-09-27 |
-| [Wake Up With You \(WUWU\)](https://open.spotify.com/track/1wo2tSP1qZcryzCSNZ3htC) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [Wake Up With You \(WUWU\)](https://open.spotify.com/album/6DORT5jfOBMzqZFC6634cU) | 3:09 | 2025-01-06 |  |
+| [Wake Up With You \(WUWU\)](https://open.spotify.com/track/1wo2tSP1qZcryzCSNZ3htC) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [Wake Up With You \(WUWU\)](https://open.spotify.com/album/6DORT5jfOBMzqZFC6634cU) | 3:09 | 2025-01-06 | 2025-04-05 |
 | [Walk Through Fire](https://open.spotify.com/track/1Mdmg7rBIqT1FxAge95Xmx) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Walk Through Fire](https://open.spotify.com/album/7vn1PoVj0mi2MgASHVQoYc) | 3:23 | 2024-09-24 | 2025-01-24 |
 | [We Made It](https://open.spotify.com/track/3nVuglijxmqA2eb4iFrprH) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [We Made It](https://open.spotify.com/album/261XhHuUmuav4NV5gwTaPI) | 3:14 | 2024-11-06 | 2025-03-28 |
 | [Well, Actually](https://open.spotify.com/track/5luU51yytlFbX2LwsYCizD) | [Library Card](https://open.spotify.com/artist/2PNgtvSYvlo95zq1d5uEiT) | [Well, Actually](https://open.spotify.com/album/6Lt5cUgg82xW0dRnEHpaua) | 4:57 | 2024-06-26 | 2024-10-04 |
+| [Wet Faced & Ugly](https://open.spotify.com/track/3yAVjo24bbVBElLDlIO4fv) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [Wet Faced & Ugly](https://open.spotify.com/album/5HpdJPwD8dGiUDE9s9HD5P) | 2:51 | 2025-04-04 |  |
 | [Where The Names Are Real](https://open.spotify.com/track/6anbHjGgQbYQH5FbF6bAvR) | [Warhaus](https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m) | [Where The Names Are Real](https://open.spotify.com/album/0SnEZObvH4juxuuJEznkGV) | 5:21 | 2024-11-14 | 2025-01-07 |
 | [Where We Go \(Calypso\)](https://open.spotify.com/track/1nhGzT3G5FXh6sJoXsw9Kz) | [Compact Disk Dummies](https://open.spotify.com/artist/67hOz31eSjfEo9FR2N0ST5) | [The Signal](https://open.spotify.com/album/1M31YPVDNtnRoyeDbPgWhQ) | 3:25 | 2024-06-26 | 2025-01-14 |
 | [Who Laughs Last \(feat\. Kristen Stewart\)](https://open.spotify.com/track/5K2KkZmixWKjiOa3I7D2pn) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Kristen Stewart](https://open.spotify.com/artist/3YNXLteYZdNIc9ZkAOYCA6) | [Who Laughs Last](https://open.spotify.com/album/0OifCOsQ8dJGiAEkXuIddD) | 4:43 | 2025-02-06 |  |

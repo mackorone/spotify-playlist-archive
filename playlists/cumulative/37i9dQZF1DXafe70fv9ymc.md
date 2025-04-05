@@ -4,7 +4,7 @@
 
 > sexy afrobeats
 
-123 songs - 6 hr 18 min
+124 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Aabidi](https://open.spotify.com/track/5wpdQnxFPhhSCSO5FyL6NL) | [Teledalase](https://open.spotify.com/artist/3Wxvmox8BfrWr7vJDKezHe) | [Aabidi](https://open.spotify.com/album/7s4LoCPOHaqSAIBzMCPQ2F) | 4:33 | 2025-02-14 | 2025-03-22 |
 | [Addict](https://open.spotify.com/track/4QllNTTcfilJCmYGM7bJtw) | [Sarnilo](https://open.spotify.com/artist/0ignuXgngSTxY87ZzRwZ8C), [Mzwaa](https://open.spotify.com/artist/0mebykC539Ik5ijTNBY1FJ) | [Addict](https://open.spotify.com/album/6VCFjahARQWF0GW9mEUf7I) | 3:36 | 2024-06-28 | 2024-10-13 |
 | [All The Way](https://open.spotify.com/track/0MxWBWLNPdNWtIOgTHD9hO) | [Ess thee Legend](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA), [Robin Rozay](https://open.spotify.com/artist/3p5fc6bu54bLBRlv6ZbWlV) | [YOU WILL KNOW MY NAME](https://open.spotify.com/album/3BL6PeAQwWi2vwrj8wfI87) | 2:47 | 2024-03-01 | 2024-04-19 |
-| [BackFat](https://open.spotify.com/track/2mxic3Fzx2iakoVVaHtepk) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [BackFat](https://open.spotify.com/album/0LRhLilERMSRAxszBoq2S9) | 3:57 | 2024-09-13 |  |
+| [BackFat](https://open.spotify.com/track/2mxic3Fzx2iakoVVaHtepk) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [BackFat](https://open.spotify.com/album/0LRhLilERMSRAxszBoq2S9) | 3:57 | 2024-09-13 | 2025-04-05 |
 | [Bad Decisions & Foreplay](https://open.spotify.com/track/5OUIh8ATWsEi5H4Oas0tKi) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Bad Decisions & Foreplay](https://open.spotify.com/album/3j3vh7zL3GuCIVdbK8tZzd) | 2:49 | 2024-08-02 |  |
 | [Bad4u](https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Bad4u](https://open.spotify.com/album/6oWQWuCF0BGQSkGCVnzQN8) | 2:59 | 2024-02-09 | 2024-06-21 |
 | [Beg For It](https://open.spotify.com/track/62toM9v7NsspHYCfaudxHZ) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Beg For It](https://open.spotify.com/album/1BinKRne8TTTTp8PHojN8l) | 2:53 | 2025-01-17 |  |
@@ -117,6 +117,7 @@
 | [Timeless](https://open.spotify.com/track/3EkBW1RjjYnjDl1DJKTT7m) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Timeless](https://open.spotify.com/album/4805JZGMvu1ZqzmPnbOl2R) | 3:25 | 2024-11-08 |  |
 | [Tori](https://open.spotify.com/track/47fXJB2c9hfyZ1svQxEntJ) | [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [Never Too Late](https://open.spotify.com/album/7iuyoC6Q8PY7dnX7tzYzXg) | 3:22 | 2025-03-21 |  |
 | [Toxic Trends](https://open.spotify.com/track/1pPquaWmcvzLtO0nffSsLV) | [Mikhalé Jones](https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf) | [Toxic Trends](https://open.spotify.com/album/0V3g6AqzVtFF7OFQSdqRrL) | 3:32 | 2024-05-31 | 2024-08-02 |
+| [Trouble](https://open.spotify.com/track/3Dw2KQ25px8I1pFVyKDVVO) | [Keziah Mallam](https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Trouble](https://open.spotify.com/album/3c6unOML6k41c3dkN9pxDe) | 3:28 | 2025-04-04 |  |
 | [Vintage](https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Vintage](https://open.spotify.com/album/1jSLdeIc8Fnb4dOrzpStWg) | 3:42 | 2024-06-07 | 2024-10-05 |
 | [Virgin Denim](https://open.spotify.com/track/69g0enFvUbtdKi5e84frgc) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [Virgin Denim](https://open.spotify.com/album/3ET9072AROvw8sqz1Ar2uS) | 3:10 | 2024-05-31 |  |
 | [Vowel Sounds](https://open.spotify.com/track/3wuWe3quRaU1rzd1lLQnN4) | [Legendary Suni](https://open.spotify.com/artist/0P8DZ3ltbouoBdElVotTtf) | [Hybrid](https://open.spotify.com/album/0J107ivNTNANPUakaqaYi4) | 3:00 | 2024-02-09 |  |

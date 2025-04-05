@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-315 songs - 12 hr 42 min
+316 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [landscape](https://open.spotify.com/track/3lt1srJ0SvOilCAgcRUlFU) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [landscape](https://open.spotify.com/album/4zaY1wdjvIx5DaZgvg2KOY) | 2:42 | 2023-10-27 |  |
 | [Last Night](https://open.spotify.com/track/078xh9ZaaEt12G04mzyrqp) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [anbuu](https://open.spotify.com/artist/00i4PzAbt6fpwgBqdtSP0q), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [Last Night](https://open.spotify.com/album/2zoRfOYmkIGJmTTv0sbAuJ) | 2:10 | 2020-11-12 | 2024-03-17 |
 | [late night walking](https://open.spotify.com/track/0jaGw9MKg6t9z9wfzWAK0a) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [here for the night](https://open.spotify.com/album/56tYkRHV0lVGnbamKT2LJw) | 1:59 | 2023-10-27 |  |
-| [Level 2](https://open.spotify.com/track/7AchGChq5lR5NkfO4oy9zz) | [Demurely](https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j) | [Level 2](https://open.spotify.com/album/0AGZiTS1jfAVo0kk4UPCPr) | 3:11 | 2024-01-12 | 2025-02-26 |
+| [Level 2](https://open.spotify.com/track/7AchGChq5lR5NkfO4oy9zz) | [Demurely](https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j) | [Level 2](https://open.spotify.com/album/0AGZiTS1jfAVo0kk4UPCPr) | 3:11 | 2024-01-12 |  |
 | [Levitate](https://open.spotify.com/track/7dxp8lVzYsTLmXol1sAOKh) | [Convivial](https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH) | [Levitate](https://open.spotify.com/album/7Ha54KNva8eRTES9LrnudX) | 2:11 | 2023-10-27 |  |
 | [LEVITATE](https://open.spotify.com/track/6Rs5lwpEVM3GN2h6XTItgZ) | [Mel Atonin](https://open.spotify.com/artist/5cuSwXym2KzOlDwHui2v5g) | [LEVITATE](https://open.spotify.com/album/5SSzQLL7JrhpBQ60DDgKZk) | 2:19 | 2024-08-23 |  |
 | [lightweight](https://open.spotify.com/track/3b546lgRsZJ7TFlXdmiQ7u) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [lightweight](https://open.spotify.com/album/2EYX11kUH7SUsVpKWUePDD) | 2:00 | 2023-10-27 |  |
@@ -173,7 +173,7 @@
 | [memory](https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2) | [Tatami Construct](https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC) | [soul](https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW) | 3:35 | 2023-10-27 |  |
 | [Mental Acupuncture](https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Mental Acupuncture](https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn) | 2:32 | 2020-11-12 | 2023-11-24 |
 | [midday walks](https://open.spotify.com/track/7FQ9mXcFQs6HbgrQO4N0eB) | [With All Respect](https://open.spotify.com/artist/1owj0RO3l3iK7vPwn4rV1O) | [midday walks](https://open.spotify.com/album/16zVhoL5I0dzAVFwpBd2Tn) | 2:05 | 2024-03-01 | 2024-10-16 |
-| [Mirage](https://open.spotify.com/track/59RLG6R4RlbGsRMrLBSuIw) | [Kaspa.](https://open.spotify.com/artist/06O3Epykgsr2PuMgTwZCWF), [chief.](https://open.spotify.com/artist/0HCAzT0cSCpiNje7AcAQaD) | [Mirage](https://open.spotify.com/album/11lBSg0fUCPWIBlM05FAJx) | 2:24 | 2020-11-12 |  |
+| [Mirage](https://open.spotify.com/track/59RLG6R4RlbGsRMrLBSuIw) | [Kaspa.](https://open.spotify.com/artist/06O3Epykgsr2PuMgTwZCWF), [chief.](https://open.spotify.com/artist/0HCAzT0cSCpiNje7AcAQaD) | [Mirage](https://open.spotify.com/album/11lBSg0fUCPWIBlM05FAJx) | 2:24 | 2020-11-12 | 2025-04-05 |
 | [Mist And Dust](https://open.spotify.com/track/5Js1urkjZ11PkD7cPwUGHb) | [JAKKARTA](https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk) | [Mist And Dust](https://open.spotify.com/album/6UwgOJGv46mupcigqLET9y) | 2:54 | 2024-03-08 |  |
 | [mochus](https://open.spotify.com/track/3HDMX7NqmyPYmTfBgmCJlO) | [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH) | [Chillhop Essentials Fall 2018](https://open.spotify.com/album/2YWGJnubyNg6IkFtaZKBCl) | 2:12 | 2020-11-12 | 2023-10-29 |
 | [Moments](https://open.spotify.com/track/3r5R3UBhe7Cdgywozq4zKz) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk) | [Flow](https://open.spotify.com/album/598S5qbw2Q9pj4kjVS2sqw) | 3:15 | 2022-03-18 | 2023-04-18 |
@@ -268,7 +268,7 @@
 | [Spirits](https://open.spotify.com/track/5NZcq9i9Ni9NXMXYVy3fnK) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Spirits](https://open.spotify.com/album/67J6mvJgOvaRxRL4x8mQQa) | 2:24 | 2021-10-29 | 2022-11-20 |
 | [spread out](https://open.spotify.com/track/2Wr3VVcV6WmB3JdGFMmqIr) | [Tween City](https://open.spotify.com/artist/0tVWLGanEa906nosw2Uu9p) | [spread out](https://open.spotify.com/album/5W5P2b2DhGyr68xz44jqFu) | 1:29 | 2024-02-23 |  |
 | [Springman](https://open.spotify.com/track/1QxvBUifBAyr47CPjVYh6v) | [Coubo](https://open.spotify.com/artist/3VZj4YxaCNGpQGm95P1lVq) | [Homewards](https://open.spotify.com/album/1saLXXiujQG2zc5piB9mjk) | 3:39 | 2020-11-12 | 2023-03-22 |
-| [Sriracha](https://open.spotify.com/track/0fIjitxzKgOKRCptRrrPUD) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Imperfections 2](https://open.spotify.com/album/7IXZxRPdXWTBwoqjZUo8Vt) | 2:52 | 2020-11-12 |  |
+| [Sriracha](https://open.spotify.com/track/0fIjitxzKgOKRCptRrrPUD) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Imperfections 2](https://open.spotify.com/album/7IXZxRPdXWTBwoqjZUo8Vt) | 2:52 | 2020-11-12 | 2025-04-05 |
 | [stars](https://open.spotify.com/track/3ac8arqtWalbF7IOrgXzoi) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [stars](https://open.spotify.com/album/7zATELz7aEu6qqWkPt4f47) | 2:12 | 2023-10-27 |  |
 | [Still](https://open.spotify.com/track/5qal4ZbTdvyDSf2V8BLALE) | [GentleBeatz](https://open.spotify.com/artist/6SgXRhAHCIFsnfnkET5QTH), [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Still](https://open.spotify.com/album/5fyichdZZd9eay631EGKHj) | 2:21 | 2020-11-12 | 2024-03-01 |
 | [Suave](https://open.spotify.com/track/1PS3K87McFoH9jI9RAgmnr) | [Loop Schrauber](https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32) | [Suave](https://open.spotify.com/album/5txeC1tIBt4cbMNlS2dLR4) | 1:20 | 2020-11-12 | 2024-07-27 |
@@ -316,6 +316,7 @@
 | [wayitis](https://open.spotify.com/track/4YlAlxDG0YuYbTF2YteMl0) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [wayitis](https://open.spotify.com/album/65F6S0mhOFnwLcmXTscLOC) | 3:11 | 2023-12-22 |  |
 | [weak](https://open.spotify.com/track/2j2mQXcYfg3JUJ8aqBKk30) | [Milkz](https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi) | [weak](https://open.spotify.com/album/2MBN7qRm9y1nFtgQN99tHA) | 1:11 | 2020-11-12 | 2024-07-14 |
 | [Western Promises](https://open.spotify.com/track/3X6akQdLtqrMkGJntH7AhD) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Western Promises](https://open.spotify.com/album/2Ag8bFCPDnHwv5Yvix1ptV) | 2:10 | 2024-03-22 |  |
+| [Whispers of the Wind](https://open.spotify.com/track/3E6NfnkawOsv6QEHDVqdlV) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Whispers of the Wind](https://open.spotify.com/album/4vxhhrJEaboZh47GyEfZ00) | 2:13 | 2025-04-04 |  |
 | [Will\-O\-Wisp](https://open.spotify.com/track/5lxlQXt8CadUQR4ARnSLep) | [Kuma](https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB) | [Will\-O\-Wisp](https://open.spotify.com/album/55AtXtIgnt45wGa2122dbA) | 2:34 | 2023-10-27 |  |
 | [Wish You Were Mine](https://open.spotify.com/track/1BvSkVrXtnjTuyTR4Qa8be) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [1 Am\. Study Session](https://open.spotify.com/album/5YHjaK7w0G690vmyEiob1C) | 2:01 | 2020-11-12 | 2023-09-16 |
 | [Wish You Were Mine](https://open.spotify.com/track/1ZHRUXw3f03W6YM3vQ3ehv) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [1 Am\. Study Session](https://open.spotify.com/album/6a1N8QyPPdXy1cmicmWktX) | 2:01 | 2020-11-12 | 2023-12-09 |

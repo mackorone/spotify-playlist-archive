@@ -4,7 +4,7 @@
 
 > Zenék, amik félreugranak a műfaji határok elől\. Cover: Aron Andras
 
-216 songs - 11 hr 58 min
+217 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Egyformák](https://open.spotify.com/track/6fgA2gddZ2AjbM5bHh00xd) | [MAJRÉ](https://open.spotify.com/artist/1VP5B0ctEHTMvQsEKNtxmJ), [sosehol](https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai), [Mehringer](https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1) | [Egyformák](https://open.spotify.com/album/5k0aOqsnIphaSj8tXRHRHq) | 3:04 | 2024-06-28 | 2024-07-05 |
 | [Elképzelt Hős](https://open.spotify.com/track/7ygArGFB1kfKb3NSywRO2E) | [godfater.](https://open.spotify.com/artist/3qVfxEzzh2djh9KaLgOkBh) | [Elképzelt Hős](https://open.spotify.com/album/6d6ZFECNuG6rfZ6NT0HZkn) | 5:58 | 2024-06-28 | 2024-08-16 |
 | [Elmentél](https://open.spotify.com/track/1o4NsoVgFIl7CjHLDT9mBM) | [ZÓRA](https://open.spotify.com/artist/5XRDlWq75VpsIeumX64ZDW) | [Elmentél](https://open.spotify.com/album/2WAes5Sxq4lx2GpnBBONKI) | 4:44 | 2024-06-28 |  |
-| [Elég a tenger](https://open.spotify.com/track/7fqCWm2j1szb2PyKTNQJba) | [Lázár tesók](https://open.spotify.com/artist/072l9bFXVAVf5CnC9SX6EO) | [Elég a tenger](https://open.spotify.com/album/3jH9vcGnvB41puKiMGSPYT) | 3:27 | 2024-06-28 | 2025-03-31 |
+| [Elég a tenger](https://open.spotify.com/track/7fqCWm2j1szb2PyKTNQJba) | [Lázár tesók](https://open.spotify.com/artist/072l9bFXVAVf5CnC9SX6EO) | [Elég a tenger](https://open.spotify.com/album/3jH9vcGnvB41puKiMGSPYT) | 3:27 | 2024-06-28 |  |
 | [ember NEM élhet törött lábbal](https://open.spotify.com/track/3znhW8bjZFh0y6QYFiXGPJ) | [cserihanna](https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl) | [ember NEM élhet törött lábbal](https://open.spotify.com/album/4G9Vuu4KqcUDSWyk6KaqBi) | 2:07 | 2024-07-04 | 2025-01-25 |
 | [Engem szeretni nehéz](https://open.spotify.com/track/4Mamklib5ugFYkndshmeif) | [Wolf Kati](https://open.spotify.com/artist/014QBBl8y5KESIV292Qo3r), [Wolf Kati Band](https://open.spotify.com/artist/3Cvyg69e41F3yGom7an5H8) | [Engem szeretni nehéz](https://open.spotify.com/album/0xzTy11q0KuvPg9roMMRhP) | 4:02 | 2024-06-28 |  |
 | [Estimese](https://open.spotify.com/track/6IvAS87q2pGlp72Ry9WT7u) | [Indigo](https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA), [Blaize](https://open.spotify.com/artist/2yc8L4CBEwRcc5hwxcRAzD) | [Estimese](https://open.spotify.com/album/13BphwAN3avFYwXRsJ1IDT) | 3:10 | 2024-10-18 | 2024-11-21 |
@@ -70,7 +70,7 @@
 | [Forog](https://open.spotify.com/track/0HqfR7GRs29JY8qOmUXiVy) | [Solére](https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP) | [Forog](https://open.spotify.com/album/73KlujMAwF4fPAiKzmepto) | 1:37 | 2024-06-28 | 2024-07-04 |
 | [Frida Kahlo](https://open.spotify.com/track/7CMqBgZAFANJNyQueevWvR) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [Frida Kahlo](https://open.spotify.com/album/5HMnxIdbBRvoTW5PvNbBoo) | 2:43 | 2024-06-28 |  |
 | [full moon](https://open.spotify.com/track/3O0MUvQvZihWCGu4UbZQr9) | [The Anahit](https://open.spotify.com/artist/1MaK1Vfc104UBALiVspffb) | [full moon](https://open.spotify.com/album/5yZXAbpH8Ih7IejilIZoGw) | 3:09 | 2024-12-05 | 2024-12-21 |
-| [FÉNY](https://open.spotify.com/track/1khOPJl7h5jFsAiifMOK6p) | [STAiR](https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai) | [FÉNY](https://open.spotify.com/album/1CF9ITmETDPTrpmK4VHgL1) | 2:27 | 2024-06-28 |  |
+| [FÉNY](https://open.spotify.com/track/1khOPJl7h5jFsAiifMOK6p) | [STAiR](https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai) | [FÉNY](https://open.spotify.com/album/1CF9ITmETDPTrpmK4VHgL1) | 2:27 | 2024-06-28 | 2025-04-05 |
 | [Fény és árnyék](https://open.spotify.com/track/4ZTQnfY8QIZnHMkMAGLMlx) | [Magashegyi Underground](https://open.spotify.com/artist/7hyP2xUpgaCaMi4rrm4Fzi) | [Fény és árnyék](https://open.spotify.com/album/3yfocIrkBwSB1ZL6wEG8H0) | 3:37 | 2025-03-28 |  |
 | [Függőhíd](https://open.spotify.com/track/6zcsO14Ut0Dsmep5sev482) | [Indigo](https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA), [Blaize](https://open.spotify.com/artist/2yc8L4CBEwRcc5hwxcRAzD) | [Függőhíd](https://open.spotify.com/album/1cQmne6wI1HME5NMqu7MoG) | 2:33 | 2024-10-04 |  |
 | [Galambok Olajágon](https://open.spotify.com/track/6YYchKVIv3YNUs4d6DhMZO) | [OHNODY](https://open.spotify.com/artist/3NzgQIuDyjcGAFns3Tc3tS), [Whoel](https://open.spotify.com/artist/4NcZKW8grTkJ74rdEdaJwy) | [Galambok Olajágon](https://open.spotify.com/album/1Iwy434RAVIblBDiMdoC03) | 4:03 | 2024-12-05 | 2025-01-17 |
@@ -111,6 +111,7 @@
 | [Legszebb Hibánk](https://open.spotify.com/track/1aDekm12qg6Eu7cOwlAOBw) | [Beretka Ádám](https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6) | [Legszebb Hibánk](https://open.spotify.com/album/3m9VNJ9qZMXhBHwmJ2ldi9) | 2:44 | 2024-06-28 |  |
 | [lepereg](https://open.spotify.com/track/12Myqrhno1kv2b3DEz9GNv) | [BÖBE](https://open.spotify.com/artist/7EDnFpwVQRaREGbgWNzozn), [CARI](https://open.spotify.com/artist/109sAHLhblz2Xq0YcJhyVb) | [lepereg](https://open.spotify.com/album/0lyaWCSiVTTi3uoJx5A0VT) | 2:15 | 2024-10-18 | 2024-12-26 |
 | [Levegőnek ha nézel](https://open.spotify.com/track/66vX1WKTkWB8HeIgC9A0hW) | [Blahalouisiana](https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP) | [Levegőnek ha nézel](https://open.spotify.com/album/4JNcuVq7pgQCza7tR8flNE) | 3:32 | 2024-06-28 | 2024-07-06 |
+| [Lil' After](https://open.spotify.com/track/1Q0WRrC3KoOawRLOTqrpcj) | [The Qualitons](https://open.spotify.com/artist/2dBVJ1yiXq49MiaC7uUP9D) | [Lil' After](https://open.spotify.com/album/3hdYh2rOHJZJhlkUqvbrjD) | 2:18 | 2025-03-28 |  |
 | [Lobog](https://open.spotify.com/track/4uYodtawzMLvVcRSuIDbu0) | [Kolibri](https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72), [Co Lee](https://open.spotify.com/artist/7AFCBet5F4Pocp1il3bxv0), [TEMBO](https://open.spotify.com/artist/212auEZYtBvvJV6uohe2xD) | [Lobog](https://open.spotify.com/album/1eVdNYdWMyuBeksfdJa4V4) | 2:31 | 2024-12-05 |  |
 | [LOSING SOMETHING](https://open.spotify.com/track/4WRwayO4gz28vrZg1dxdHU) | [Anna Kornis](https://open.spotify.com/artist/7agKvt4n9o9aKwgs9Zce3n) | [SELF ABSORBED](https://open.spotify.com/album/1yI0l6F1PwgsPRs0ZUjdnQ) | 3:02 | 2024-12-05 | 2024-12-21 |
 | [Luludyori](https://open.spotify.com/track/5PQ453EEaYDLqrVE6vWoPP) | [GAB](https://open.spotify.com/artist/6DaJdp4qyHYvopze0vQqjd), [Dom Beats](https://open.spotify.com/artist/2eaCBvMHhhq9rQo9npqKet) | [Luludyori](https://open.spotify.com/album/04aiOGdEvr4ZR7raIb5Ubl) | 3:36 | 2024-12-05 | 2024-12-21 |
@@ -152,7 +153,7 @@
 | [Négyes\-Hatos](https://open.spotify.com/track/53f8mvFLHGOny8RyF8qkrX) | [Bankrupt](https://open.spotify.com/artist/2bIRzxO8MZcdBb3jiVFL3g) | [Négyes\-Hatos](https://open.spotify.com/album/5xywbU931889LMT6JaCcWw) | 2:42 | 2024-06-28 |  |
 | [néha\-néha](https://open.spotify.com/track/3d11FZAmFZ57EXpv0CgsGO) | [Mehringer](https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1), [Filo](https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee), [sosehol](https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai) | [néha\-néha](https://open.spotify.com/album/4ozadBudxjgvEmKraTBPi8) | 3:21 | 2024-06-28 |  |
 | [Odaér](https://open.spotify.com/track/0bLpbIu0ZE1yTCQB7cayiv) | [Platon Karataev](https://open.spotify.com/artist/1ekcGfPOk3wgHb4viyPQab) | [Odaér](https://open.spotify.com/album/5l13P64Dc9SGxkCZZGdeha) | 4:26 | 2025-03-07 |  |
-| [Odú](https://open.spotify.com/track/7voNdyo6uovIugVkPkkZBd) | [Дeva](https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ) | [Odú](https://open.spotify.com/album/3nP2gGqrL3ONPfyAAHkYOu) | 3:30 | 2024-06-28 |  |
+| [Odú](https://open.spotify.com/track/7voNdyo6uovIugVkPkkZBd) | [Дeva](https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ) | [Odú](https://open.spotify.com/album/3nP2gGqrL3ONPfyAAHkYOu) | 3:30 | 2024-06-28 | 2025-04-05 |
 | [OK](https://open.spotify.com/track/4090q3mHZqadwUt75u0WV3) | [Kovács Harmat](https://open.spotify.com/artist/4phC473Kwy8WUJcxdWFXZ4) | [OK](https://open.spotify.com/album/0BTUhr3dSFmyNRMxmOZVSO) | 2:21 | 2024-06-28 |  |
 | [Only Mine](https://open.spotify.com/track/6cZD61XturG3sTe4lXk2sd) | [Mörk](https://open.spotify.com/artist/7avU36nx8drx51Z9Sysphs) | [Only Mine](https://open.spotify.com/album/0GbLqXI26vrdBHe94fKPJM) | 4:42 | 2024-09-02 | 2025-03-12 |
 | [Orrvérzés](https://open.spotify.com/track/6enUH4ma5KwzXyCucty8yT) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Orrvérzés](https://open.spotify.com/album/7AcvyRgi8Ca9nAyKScJPOC) | 3:19 | 2024-06-28 |  |

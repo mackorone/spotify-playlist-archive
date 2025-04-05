@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-334 songs - 13 hr 41 min
+335 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Progression](https://open.spotify.com/track/4GkIVom3wSy41JEql2fQ72) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Progression](https://open.spotify.com/album/307SxWZ8sKnBFJMDe176cI) | 2:21 | 2021-12-14 |  |
 | [Prozatím](https://open.spotify.com/track/3dS8RW1e5gd5rbSmNjDAPe) | [Zuzana Kudová](https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc) | [Prozatím](https://open.spotify.com/album/4oAdXNNPtmelprKFkP4d6G) | 2:03 | 2021-12-14 | 2024-10-02 |
 | [Pulse of living light](https://open.spotify.com/track/1CYRKw69N0CUGig2uPDvmg) | [Ennis Elder](https://open.spotify.com/artist/1qhYG8GCWDkVJ0M4botQcd) | [Pulse of living light](https://open.spotify.com/album/6I7aNxSuPkproqmlGanyKy) | 2:23 | 2023-01-27 |  |
+| [Quiet Beginning](https://open.spotify.com/track/12UkgnkfHjLOI9amTjZwne) | [Duke Wolverine](https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM) | [Quiet Beginning](https://open.spotify.com/album/1ndrUSDw5h0uxyY2mlHEUN) | 2:44 | 2025-04-04 |  |
 | [Regarde La Danser](https://open.spotify.com/track/3UDMTk71Yc1P4m5SDTFhLZ) | [Christer Karlsson](https://open.spotify.com/artist/67b16EsZVgR75HridsH8PV) | [Regarde La Danser](https://open.spotify.com/album/5WoHF3s6Dc8ha98Yhxj7Nx) | 2:43 | 2023-12-12 |  |
 | [Retreat](https://open.spotify.com/track/1TuCwMUqkSa0keDCiijPY2) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Retreat](https://open.spotify.com/album/6vI6bM5u9nzEYEuDoxgJhe) | 2:40 | 2022-05-20 |  |
 | [Return of the swans](https://open.spotify.com/track/28a8DXnFlTHUSGC9UuTwBM) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Big blue](https://open.spotify.com/album/5v3o9XW3TwgUzfotptkyUS) | 1:43 | 2022-12-06 | 2023-09-19 |
@@ -310,7 +311,7 @@
 | [Un Voyage Á Paris](https://open.spotify.com/track/1dKhA9m4PjSLVxDRxWPwm4) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [Un Voyage Á Paris](https://open.spotify.com/album/15f6hSSftpB39OEmAZrOLm) | 2:14 | 2022-07-20 |  |
 | [Up and Away](https://open.spotify.com/track/0VwYVeHNJbZFgr1LzE5k40) | [Gina Ordonieva](https://open.spotify.com/artist/3MMGcm0uz164HFTE1Dp5Jh) | [Up and Away](https://open.spotify.com/album/5YOtwhelywHTOSmzP9A3Vp) | 2:14 | 2022-04-28 |  |
 | [Up toward the sky](https://open.spotify.com/track/3Ukfmye33J4RSs0lOJFbFH) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Up toward the sky](https://open.spotify.com/album/6VXJvM8qTx0kAZGNNj6KuO) | 2:18 | 2023-03-08 |  |
-| [Upperwest](https://open.spotify.com/track/5AeDDsA6v08alqeIc7cVRG) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Upperwest](https://open.spotify.com/album/4gTjSlWw7hWKCGy8qwFHp8) | 2:27 | 2024-07-16 |  |
+| [Upperwest](https://open.spotify.com/track/5AeDDsA6v08alqeIc7cVRG) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Upperwest](https://open.spotify.com/album/4gTjSlWw7hWKCGy8qwFHp8) | 2:27 | 2024-07-16 | 2025-04-05 |
 | [Utsjoki](https://open.spotify.com/track/6QjleATuBevQEy00ssnKhH) | [Vegard](https://open.spotify.com/artist/3KSiDeHcHXc19XgnzXGlXJ) | [Utsjoki](https://open.spotify.com/album/5eLLUN5nLMRCUMf63NKPBT) | 2:23 | 2023-04-05 |  |
 | [Vallem Amnis](https://open.spotify.com/track/6eBxKLQLiUFAyKTk1ne3gt) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Vallem Amnis](https://open.spotify.com/album/31OAlgXkFQC6cNqPgI4OYr) | 2:30 | 2025-01-31 |  |
 | [Valse](https://open.spotify.com/track/3IYzsI7pfsXJYJY41NoVRK) | [Egor Grushin](https://open.spotify.com/artist/75LREKsEbGngALKa5YcwAK) | [Valse](https://open.spotify.com/album/4i4NzFTtaIX9WAcT3tGcaw) | 2:08 | 2022-04-04 |  |

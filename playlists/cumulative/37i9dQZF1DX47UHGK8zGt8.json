@@ -2022,7 +2022,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 221693,
       "name": "Dia Clarear",
       "url": "https://open.spotify.com/track/7JQet6yCd8rZX3oeVGqAyx"
@@ -2972,7 +2972,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-21",
+      "date_removed": null,
       "duration_ms": 220031,
       "name": "Lisboa-Madrid",
       "url": "https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E"
@@ -3372,7 +3372,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 173365,
       "name": "Meu corpo pede",
       "url": "https://open.spotify.com/track/145xL4bCzmtUDz8JBfP18u"
@@ -4540,6 +4540,24 @@
       "duration_ms": 142136,
       "name": "Segredos da Vida",
       "url": "https://open.spotify.com/track/3Z3H3L0BMPjnq8Ktsws8tm"
+    },
+    {
+      "album": {
+        "name": "Coisas Naturais",
+        "url": "https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173198,
+      "name": "Sem Lei",
+      "url": "https://open.spotify.com/track/6C8H63gGFeDqAYJ75uLPA6"
     },
     {
       "album": {

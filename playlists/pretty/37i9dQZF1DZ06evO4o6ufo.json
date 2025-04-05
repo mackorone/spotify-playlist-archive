@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 77401,
+  "num_followers": 77434,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+x+AAAAAABectPnFnfjYZ6mZdVKQ1dT",
+  "snapshot_id": "Z+3PgAAAAABYWAIYI9hIj+XhnAqERM/Y",
   "tracks": [
     {
       "added_at": null,
@@ -731,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culiac\u00e1n Deluxe (En Vivo)",
-        "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
-      },
-      "artists": [
-        {
-          "name": "La Ventaja",
-          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 219174,
-      "name": "El Pistolero (En Vivo)",
-      "url": "https://open.spotify.com/track/4BQ4yefJv2VJNj6brqANze"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Acci\u00f3n",
         "url": "https://open.spotify.com/album/58jYWbYJ7HK7NoLvGWLnkO"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 158270,
       "name": "En Acci\u00f3n",
       "url": "https://open.spotify.com/track/5vz2Hm6B5DiEYV26bsVC3N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culiac\u00e1n Deluxe (En Vivo)",
+        "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 219174,
+      "name": "El Pistolero (En Vivo)",
+      "url": "https://open.spotify.com/track/4BQ4yefJv2VJNj6brqANze"
     },
     {
       "added_at": null,

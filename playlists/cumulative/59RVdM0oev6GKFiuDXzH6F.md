@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-959 songs - 2 day 1 hr 0 min
+960 songs - 2 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,6 +465,7 @@
 | [Let's Take It Back](https://open.spotify.com/track/4SBpvE14Do73aqjEvSTzD8) | [JayJay](https://open.spotify.com/artist/0Er9HtStu9pbSThPMRjOEC) | [Let's Take It Back](https://open.spotify.com/album/3Lk9pOXKLliACa42zeBNXE) | 2:51 | 2024-12-05 | 2025-03-14 |
 | [Levitate](https://open.spotify.com/track/1Kbbyf7ptwd1R43cSWrBmR) | [BZRK](https://open.spotify.com/artist/5DOnC6OSQcnXYOPhNo3sxk) | [Levitate](https://open.spotify.com/album/3WrIGOYUdVNrdAdgVwMdxF) | 2:44 | 2024-04-26 | 2025-01-09 |
 | [Libre](https://open.spotify.com/track/4E7QloZyOgGP35MIiogYj2) | [Charles B](https://open.spotify.com/artist/1r2acF91AoYoHYrQYY9wCO), [G4BBA](https://open.spotify.com/artist/1P4pmBbuQwsKKV39MfzGVd), [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO) | [Libre](https://open.spotify.com/album/3MXymmqjjWTmwOjSLQaGiI) | 2:01 | 2023-02-12 | 2023-04-13 |
+| [License To Be Bad](https://open.spotify.com/track/3yBdKw7lvhn5u4vpeWRDTV) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Ciszak](https://open.spotify.com/artist/6lf5XKHZHGXxHFPOKSkodA), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [License To Be Bad](https://open.spotify.com/album/5htp5ygxDau4GhLczYA46g) | 3:06 | 2025-04-04 |  |
 | [Life’s A Bitch \(VIP Mix\)](https://open.spotify.com/track/3oczjO9YYFUnjJx51PqKLB) | [SUB\-X](https://open.spotify.com/artist/1j8HYCn8bRMA3kYN66pVCG) | [Life’s A Bitch \(VIP Mix\)](https://open.spotify.com/album/4Rq0LE42ylOX3AZn5Bbf1u) | 3:24 | 2023-07-07 | 2023-07-14 |
 | [Life’s Too Short \(feat\. Scarlett\)](https://open.spotify.com/track/5QGkTjZ7qb6fQlNLh4mn2W) | [Rudeejay](https://open.spotify.com/artist/2zC8RU0p5FvJeCPPLVBR8K), [Da Brozz](https://open.spotify.com/artist/2jrH2DRrZ0NU395R27gal6), [Chunky Dip](https://open.spotify.com/artist/1TmzgTXR9fUhmRuzIgnsV6), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Life’s Too Short \(feat\. Scarlett\)](https://open.spotify.com/album/3DR0BJBWLEO5Uq8baZu15B) | 2:23 | 2024-02-16 | 2024-09-26 |
 | [Lift Me Up](https://open.spotify.com/track/0LBGk4xW093mDP7u1nVAdt) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Maynamic](https://open.spotify.com/artist/59tEd7UdrbizecKsQGcSAL), [Edd Blaze](https://open.spotify.com/artist/3cySvdUfWyFpkVC5pVD5wb) | [Lift Me Up](https://open.spotify.com/album/7J61Uu0AG8bKc3hW2QkUse) | 2:30 | 2025-01-23 |  |

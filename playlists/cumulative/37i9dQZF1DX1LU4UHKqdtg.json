@@ -3431,6 +3431,24 @@
     },
     {
       "album": {
+        "name": "<BURN>",
+        "url": "https://open.spotify.com/album/4benP09DGGgfu79UY9zvaU"
+      },
+      "artists": [
+        {
+          "name": "ARTMS",
+          "url": "https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199133,
+      "name": "BURN",
+      "url": "https://open.spotify.com/track/194uztQZdWMZutepG4ZkeB"
+    },
+    {
+      "album": {
         "name": "BURN IT",
         "url": "https://open.spotify.com/album/7tf5wvRToW2nWeaEMyG5rZ"
       },
@@ -24016,10 +24034,28 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 211800,
       "name": "WANT",
       "url": "https://open.spotify.com/track/4G8rbofCc2vyGZ3pbCHiUH"
+    },
+    {
+      "album": {
+        "name": "WANT",
+        "url": "https://open.spotify.com/album/5SghcmfHNjjOZq4ApJ4gID"
+      },
+      "artists": [
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211800,
+      "name": "WANT",
+      "url": "https://open.spotify.com/track/4ejQyhgK35HUyfVq72wUVP"
     },
     {
       "album": {

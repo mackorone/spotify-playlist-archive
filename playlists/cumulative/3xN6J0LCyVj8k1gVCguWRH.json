@@ -9419,6 +9419,24 @@
     },
     {
       "album": {
+        "name": "Blick On Me",
+        "url": "https://open.spotify.com/album/6d9RYWKfDhs1chp6WCwclG"
+      },
+      "artists": [
+        {
+          "name": "Rio Dinero",
+          "url": "https://open.spotify.com/artist/01sRBFXITvYb7Nk1bnsmDS"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128160,
+      "name": "Blick On Me",
+      "url": "https://open.spotify.com/track/7khmacNZ4DhtZq2WXCs5jb"
+    },
+    {
+      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/5tobZbm6md2TUa4HcWcAVM"
       },
@@ -24290,7 +24308,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-02",
+      "date_removed": null,
       "duration_ms": 225104,
       "name": "Everything Moves",
       "url": "https://open.spotify.com/track/1jee7Mh2U6wyml1Fw3ZgoT"
@@ -83178,6 +83196,24 @@
       "duration_ms": 138410,
       "name": "Volverme de Sal",
       "url": "https://open.spotify.com/track/2A38kPld5RSajTl3At8D5w"
+    },
+    {
+      "album": {
+        "name": "VOP",
+        "url": "https://open.spotify.com/album/27xSFRvstHD03tov88vKfg"
+      },
+      "artists": [
+        {
+          "name": "Project Youngin",
+          "url": "https://open.spotify.com/artist/0zSnym91x3cA9RTp3wHff0"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141959,
+      "name": "VOP",
+      "url": "https://open.spotify.com/track/1jxTdh3r09kkvaHSvkbpZL"
     },
     {
       "album": {

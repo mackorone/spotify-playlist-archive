@@ -4,7 +4,7 @@
 
 > 
 
-847 songs - 2 day 18 hr 41 min
+848 songs - 2 day 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Crystalline \- Omar Souleyman Remix](https://open.spotify.com/track/1YLrODemiqzMfIfvBTF8dr) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK) | [Bastards](https://open.spotify.com/album/6PoJf3wAiIgIE7GMmfdAH4) | 6:39 | 2021-03-14 |  |
 | [Cuando Vuelva a Tu Lado](https://open.spotify.com/track/5j2tKp2lqR5a5V8ArWOEDe) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:39 | 2022-01-08 |  |
 | [Cumbia Del Caribe](https://open.spotify.com/track/5DB84ae2XlBH3G6bYZaF8P) | [Edmundo Arias Y Su Orquesta](https://open.spotify.com/artist/74otTBtmNyD7u5sw5ltGMl) | [Su Mundo De Cumbias](https://open.spotify.com/album/2Rm3csy5xQqjT8hd0SJhs3) | 3:01 | 2021-12-09 |  |
-| [Cumbia Sobre el Mar](https://open.spotify.com/track/61muv9lHtgN18qbm9oK9pH) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Flowering Inferno](https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p) | [Dog With a Rope \(Quantic Presenta Flowering Inferno\)](https://open.spotify.com/album/0NiH3ROfMf9ZGYj07RP0B0) | 6:17 | 2021-07-22 |  |
+| [Cumbia Sobre El Mar](https://open.spotify.com/track/61muv9lHtgN18qbm9oK9pH) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Flowering Inferno](https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Dog With a Rope \(Quantic Presenta Flowering Inferno\)](https://open.spotify.com/album/0NiH3ROfMf9ZGYj07RP0B0) | 6:17 | 2021-07-22 |  |
 | [D.I.S.C.O.](https://open.spotify.com/track/1wAfRQ0q2FlWaKPpqedjUR) | [Ottawan](https://open.spotify.com/artist/4FPjAd9hBB9iaiq8qCkNf7) | [D.I.S.C.O.](https://open.spotify.com/album/0bd7kdZ6Kb6d7K3qgSemIv) | 5:01 | 2024-03-02 |  |
 | [Daa Nyinaa](https://open.spotify.com/track/567JRYU3Gxdvh9810wNc4s) | [Ata Kak](https://open.spotify.com/artist/172WdsNGJYNNXVNQ1tXfrB) | [Obaa Sima](https://open.spotify.com/album/5rWdCCXgUf8Ptz1goEmLKC) | 6:07 | 2019-09-07 |  |
 | [Dalkavuk](https://open.spotify.com/track/1H1iCQ05MWM2CUuts2UhA1) | [Şenay](https://open.spotify.com/artist/02xbLoQZr8LXtC3ljLCNNU) | [Honki Ponki](https://open.spotify.com/album/7FUd2BMPEr7dHB2sgOMmu5) | 5:06 | 2020-04-13 |  |
@@ -339,6 +339,7 @@
 | [İlk Heyecan](https://open.spotify.com/track/4ERaH7gp3PaxnkxBqpR5gn) | [Ceylan Ece](https://open.spotify.com/artist/1S9XTKpBzRAHzla1vo6S60) | [Meçhul Sevgili](https://open.spotify.com/album/1lss3LCJZ5cQboMIXXWqLT) | 3:57 | 2019-09-03 |  |
 | [Jablai](https://open.spotify.com/track/1l6ogae6hLwHlKl6DMBv1S) | [Titi Kamal](https://open.spotify.com/artist/6Qaag0N7QlZ7DYy8L5Bq2e) | [Jablai](https://open.spotify.com/album/1DrZ0cDX1USXaJZ8ULga1Y) | 3:13 | 2020-10-09 |  |
 | [Jama ko](https://open.spotify.com/track/4M6FuBh0zCSLFgoJ2SAWuw) | [Bassekou Kouyate](https://open.spotify.com/artist/2reknFuZPFjVat474Q35SQ) | [Jama ko](https://open.spotify.com/album/48T4BifJOLeN0rV5VvyzcS) | 4:39 | 2019-08-26 |  |
+| [Jara \- Habibi Funk Single 001](https://open.spotify.com/track/7vOQvH1NMuUsS2NX0ATVch) | [Ahmed Ben Ali](https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w) | [Jara](https://open.spotify.com/album/0CZ1rK8JZVKFuVZxGJzySH) | 3:47 | 2025-04-05 |  |
 | [Jarabi](https://open.spotify.com/track/0RxOwIbcKkIIYlofyLznGY) | [AfroCubism](https://open.spotify.com/artist/2Los7jf0DpltIz39dDgNen), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Eliades Ochoa & Bassekou Kouyaté](https://open.spotify.com/artist/0VjN7ASjJCJTldoryWvxM4) | [Afrocubism](https://open.spotify.com/album/1CH76GNjApPSbQcRqComt7) | 5:57 | 2019-07-20 |  |
 | [Je Vulesse](https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:48 | 2020-11-17 |  |
 | [Jelivrà Bo Situaçon](https://open.spotify.com/track/0Bk4J1UclnZ5WvO3rryKG3) | [Manuel Gomes](https://open.spotify.com/artist/62HcnNBJaQeMja6COwsZoa) | [Synthesize the Soul: Astro\-Atlantic Hypnotica from the Cape Verde Islands 1973 \- 1988](https://open.spotify.com/album/6CKsf8Mij4FW0Yio5RLEsh) | 2:59 | 2024-01-25 |  |

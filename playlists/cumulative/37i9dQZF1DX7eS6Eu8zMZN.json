@@ -668,6 +668,24 @@
     {
       "album": {
         "name": "Eres",
+        "url": "https://open.spotify.com/album/0KiWWTMscBa4ypgrTc8QVQ"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186984,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/5dOxmkHjQ0xJIyRzEJsn6e"
+    },
+    {
+      "album": {
+        "name": "Eres",
         "url": "https://open.spotify.com/album/6TLzzUALIChbWMAvR95Ktg"
       },
       "artists": [
@@ -794,6 +812,24 @@
       "duration_ms": 176764,
       "name": "Fr\u00e1gil - Ac\u00fastico",
       "url": "https://open.spotify.com/track/790I7HQcQPuAYV3KQighlo"
+    },
+    {
+      "album": {
+        "name": "Guadalajara",
+        "url": "https://open.spotify.com/album/5tX54hwlZBMz78Rw44D4eS"
+      },
+      "artists": [
+        {
+          "name": "Kill Aniston",
+          "url": "https://open.spotify.com/artist/4ltjTwCiYMegbR6ZA3Jbor"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211924,
+      "name": "Guadalajara",
+      "url": "https://open.spotify.com/track/1P1XBeRnmFevRWTpLjgxcy"
     },
     {
       "album": {
@@ -1024,7 +1060,7 @@
       ],
       "date_added": "2021-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 179125,
       "name": "Las Flores",
       "url": "https://open.spotify.com/track/5hdO9pJEp8Ht35PzrQjWqT"
@@ -1260,7 +1296,7 @@
       ],
       "date_added": "2021-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 127736,
       "name": "Mala Vida",
       "url": "https://open.spotify.com/track/6YPVWJkwsO3DgMDR0aPQc0"
@@ -1930,7 +1966,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 196716,
       "name": "Rub\u00e9n Dar\u00edo",
       "url": "https://open.spotify.com/track/1vskUVln9JuRuFGf3rrDdZ"
@@ -1970,7 +2006,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 191500,
       "name": "Si es que est\u00e1s ah\u00ed",
       "url": "https://open.spotify.com/track/03oIgkJPaVyFokpfa2fLem"
@@ -2028,7 +2064,7 @@
       ],
       "date_added": "2021-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 149647,
       "name": "So\u00f1e",
       "url": "https://open.spotify.com/track/35tKDCAmNFueq5KmvGkzRr"
@@ -2064,7 +2100,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 270000,
       "name": "Temo",
       "url": "https://open.spotify.com/track/4oW9mCSE2Dwdd5eXS0n48S"

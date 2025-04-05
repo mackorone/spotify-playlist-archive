@@ -4,7 +4,7 @@
 
 > Perreando toda la noche con Kidd Voodoo.
 
-996 songs - 2 day 5 hr 7 min
+997 songs - 2 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -651,6 +651,7 @@
 | [Pa Co](https://open.spotify.com/track/4kiTIRY4o3o9on5oYV584L) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Pa Co](https://open.spotify.com/album/3ZQtUvAOU2mPqkIcYty9GI) | 3:40 | 2022-03-04 | 2022-08-13 |
 | [PA CUANDO](https://open.spotify.com/track/39HPFApJ22Jo7Wwf1VfVjN) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [PA CUANDO](https://open.spotify.com/album/5TPoJi1Jl1eyA3fFHjh9YD) | 3:49 | 2022-07-29 | 2022-10-15 |
 | [Pa la Proxima](https://open.spotify.com/track/0K8yPA5eo1d6t1LwJpRL2J) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Pa la Proxima](https://open.spotify.com/album/4imR6C43N2Syv918WyVA9N) | 3:49 | 2023-12-15 | 2024-08-17 |
+| [Pa las girlas](https://open.spotify.com/track/4ezjHDUjl9GyIs6BcezDDV) | [Mattei](https://open.spotify.com/artist/29fkrV8IuMETQBv8PgC6Lw) | [Pa las girlas](https://open.spotify.com/album/5BegWK4vnqGEb3XbLVXri9) | 2:30 | 2025-04-04 |  |
 | [Pa Perrear](https://open.spotify.com/track/6CRAqSjXP06jy67jdLrTyp) | [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Chel Maya](https://open.spotify.com/artist/4rzcZT4YwRv7DslbjV1sPh), [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb) | [Pa Perrear](https://open.spotify.com/album/4RzG9rY0Pku47U3VmkhhYd) | 2:44 | 2022-08-19 | 2022-11-05 |
 | [Pa Que Me Cu](https://open.spotify.com/track/2DRMn638dDHN6IaIFgSioi) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Pa Que Me Cu](https://open.spotify.com/album/1lY6iojhGh1DwmLn62oPkW) | 3:14 | 2023-04-28 | 2023-06-24 |
 | [PA QUÉ PUuu](https://open.spotify.com/track/6LieYtwlDRlIusYZsYA4tw) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a) | [PA QUÉ PUuu](https://open.spotify.com/album/2io6YasDpSkIaF2TLDuAYO) | 1:59 | 2022-10-28 | 2022-11-26 |

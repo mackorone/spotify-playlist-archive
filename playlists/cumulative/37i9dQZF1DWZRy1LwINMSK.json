@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "La casa del trap chileno al mando de Los Shishi.",
+  "description": "La casa del trap chileno al mando de Lleflight.",
   "name": "Trapperz Chile",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 157161,
       "name": "12",
       "url": "https://open.spotify.com/track/33bHxUDxGdnOZ6XNbEKERb"
+    },
+    {
+      "album": {
+        "name": "2021",
+        "url": "https://open.spotify.com/album/70lFJqnCUsprGx53iqnAVZ"
+      },
+      "artists": [
+        {
+          "name": "STRANGEHUMAN",
+          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119374,
+      "name": "2021",
+      "url": "https://open.spotify.com/track/4yAPbMMlSmypwzCpfnNKKG"
     },
     {
       "album": {
@@ -1452,7 +1470,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 157511,
       "name": "ESTRELLAS",
       "url": "https://open.spotify.com/track/6Lzc35RPYQJqlB3XHLbUIq"
@@ -1555,6 +1573,28 @@
     },
     {
       "album": {
+        "name": "Family Dear",
+        "url": "https://open.spotify.com/album/5btdycvPfWUbhH7lBLKyOy"
+      },
+      "artists": [
+        {
+          "name": "Audigier",
+          "url": "https://open.spotify.com/artist/12UxVj1YgVo8N2NKkipBD3"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221217,
+      "name": "Family Dear",
+      "url": "https://open.spotify.com/track/4ZaD2jn3R5w5mkSOGiVpjq"
+    },
+    {
+      "album": {
         "name": "Favo",
         "url": "https://open.spotify.com/album/1Rn0mFGhcj0fLHKw4xy4vN"
       },
@@ -1648,6 +1688,28 @@
       "duration_ms": 148000,
       "name": "FILOTEAO",
       "url": "https://open.spotify.com/track/4OWmGj76zFIHnLgN9VAqQT"
+    },
+    {
+      "album": {
+        "name": "RICO POR SIEMPRE",
+        "url": "https://open.spotify.com/album/6RWEpmENu1ZVBfZPOAzIPM"
+      },
+      "artists": [
+        {
+          "name": "Lleflight",
+          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187585,
+      "name": "FIRST CLASS",
+      "url": "https://open.spotify.com/track/30GzYShzroJQLTdC1zGVFA"
     },
     {
       "album": {
@@ -1866,7 +1928,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 214644,
       "name": "Generaciones (feat. OldPurp & Left Behind)",
       "url": "https://open.spotify.com/track/1T4DYB11yGiuco0hAD6k9h"
@@ -2337,6 +2399,24 @@
     },
     {
       "album": {
+        "name": "Mafia Chilena",
+        "url": "https://open.spotify.com/album/24XYnzLNNmWOhyVoLLmjJk"
+      },
+      "artists": [
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145641,
+      "name": "ITALIA",
+      "url": "https://open.spotify.com/track/2MKiUXYX1DHJRkuLKphm0B"
+    },
+    {
+      "album": {
         "name": "Jaguar",
         "url": "https://open.spotify.com/album/5DxjVYkGm326bIHaFv6nvX"
       },
@@ -2390,7 +2470,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 211221,
       "name": "Jimmy Choo",
       "url": "https://open.spotify.com/track/3XIiM4EF2fAgD87thss3RD"
@@ -2921,24 +3001,6 @@
     },
     {
       "album": {
-        "name": "Mafia Chilena",
-        "url": "https://open.spotify.com/album/24XYnzLNNmWOhyVoLLmjJk"
-      },
-      "artists": [
-        {
-          "name": "ITHAN NY",
-          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
-        }
-      ],
-      "date_added": "2023-12-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 145641,
-      "name": "Mafia Chilena: ITALIA",
-      "url": "https://open.spotify.com/track/2MKiUXYX1DHJRkuLKphm0B"
-    },
-    {
-      "album": {
         "name": "Mafia Chilena: NEWYORK GABANA",
         "url": "https://open.spotify.com/album/3koKjQhDGFhnic9KXMsmn0"
       },
@@ -3136,6 +3198,32 @@
       "duration_ms": 135053,
       "name": "Mbappe",
       "url": "https://open.spotify.com/track/5hCTIIK0Ve0quCvSD7ZIQO"
+    },
+    {
+      "album": {
+        "name": "Me Lo Merezco",
+        "url": "https://open.spotify.com/album/3VFbNPutLBv0bxny5TpcbB"
+      },
+      "artists": [
+        {
+          "name": "Audigier",
+          "url": "https://open.spotify.com/artist/12UxVj1YgVo8N2NKkipBD3"
+        },
+        {
+          "name": "benjitalkapone",
+          "url": "https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183652,
+      "name": "Me Lo Merezco",
+      "url": "https://open.spotify.com/track/61gtpix8gVhujUd5I343s2"
     },
     {
       "album": {
@@ -4244,7 +4332,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 222857,
       "name": "Pornstar",
       "url": "https://open.spotify.com/track/4bkDtdoitCVamXHlDkwNIh"
@@ -4514,7 +4602,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 153923,
       "name": "RICO POR SIEMPRE",
       "url": "https://open.spotify.com/track/6j1NlnwQzAaINyZADaiVGk"
@@ -4628,7 +4716,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 127075,
       "name": "Self Esteem",
       "url": "https://open.spotify.com/track/0FbkSDNKB2taxGSmaYedox"
@@ -5111,6 +5199,24 @@
     },
     {
       "album": {
+        "name": "Tamos en el Trap",
+        "url": "https://open.spotify.com/album/3erN4WJdl4lDf8MRIaj80D"
+      },
+      "artists": [
+        {
+          "name": "Benji Bendi",
+          "url": "https://open.spotify.com/artist/1p7MJGY1B2qF1svG3yxn7T"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166356,
+      "name": "Tamos en el Trap",
+      "url": "https://open.spotify.com/track/2vqFJC5Oai3XhSICDbD3Aq"
+    },
+    {
+      "album": {
         "name": "Tate Pendiente",
         "url": "https://open.spotify.com/album/7BOd9ehLDu0EeAOudjwlKO"
       },
@@ -5304,6 +5410,28 @@
       "duration_ms": 176031,
       "name": "To' Tu Size",
       "url": "https://open.spotify.com/track/7jzJd9ZuHifdJzb64wBLKZ"
+    },
+    {
+      "album": {
+        "name": "RICO POR SIEMPRE",
+        "url": "https://open.spotify.com/album/6RWEpmENu1ZVBfZPOAzIPM"
+      },
+      "artists": [
+        {
+          "name": "Lleflight",
+          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "TODO O NADA",
+      "url": "https://open.spotify.com/track/0XiYVqEYP72zcU920ndQvr"
     },
     {
       "album": {

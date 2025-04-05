@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 
 > Positive, uplifting piano to make you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,408 likes - 201 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,461 likes - 201 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,30 +13,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 | 3 | [Ti Vedo](https://open.spotify.com/track/1MMPjL15s8zSB787xGGePp) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Ti Vedo](https://open.spotify.com/album/7yJ9ZwO2t7fI2gYRDi7vIS) | 2:37 |
 | 4 | [Sunlight](https://open.spotify.com/track/4Y9BAS2woDgzWqD6bLswDI) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Sunlight](https://open.spotify.com/album/1pnv7v92HbxEPV2UPpC5kh) | 2:04 |
 | 5 | [Glimmer](https://open.spotify.com/track/4gZbGwcZ7FJnRPtGkluln8) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Glimmer](https://open.spotify.com/album/5NwEhz0nDDaEQEBmLXvmLR) | 3:12 |
-| 6 | [cradled with warmth](https://open.spotify.com/track/5weARSGzrpQrVOtfnhaX0z) | [Dust off the Cobwebs](https://open.spotify.com/artist/240faRVORCCfCH7mC3qcJa) | [cradled with warmth](https://open.spotify.com/album/7IDFgOhb9GlnIUWO4pv29A) | 2:36 |
-| 7 | [Monza](https://open.spotify.com/track/3gIH8SK0HmuP4HNSncw2Vw) | [Lorcan Ó Faoláin](https://open.spotify.com/artist/0Gi9Zi1kMh4fJVXEhl4J2t) | [Monza](https://open.spotify.com/album/6TgUE8ZVMeh610Tka4URfk) | 2:13 |
-| 8 | [Entre arboles](https://open.spotify.com/track/4dxawLKeBaDFQ27USfWFrq) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Entre arboles](https://open.spotify.com/album/0osL3EqdQcGwFhVgnmJ6qV) | 1:59 |
-| 9 | [Breathe Easy](https://open.spotify.com/track/4MrXgsJEqbAZMG6BJtBNZM) | [Livia Marcella](https://open.spotify.com/artist/3KwM0iGMCIBr2BJbDB8RQq) | [Breathe Easy](https://open.spotify.com/album/4hqipiTBHlbM2q9eC5Zd1E) | 2:26 |
-| 10 | [Upperwest](https://open.spotify.com/track/5AeDDsA6v08alqeIc7cVRG) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Upperwest](https://open.spotify.com/album/4gTjSlWw7hWKCGy8qwFHp8) | 2:27 |
-| 11 | [El Amanecer](https://open.spotify.com/track/3oPTemjjHIfNeHOcJOXNJT) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [El Amanecer](https://open.spotify.com/album/6aRSkv2lYrBQZ66KNckTOZ) | 2:14 |
-| 12 | [Eden](https://open.spotify.com/track/60TxqqKAFvonXBZ0NbSFXB) | [Glenn Natale](https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel) | [Eden](https://open.spotify.com/album/0MqoHMpKaqsbk3SoczCHdm) | 2:28 |
-| 13 | [Vespera](https://open.spotify.com/track/3kRMgnaBoU2JeLVN3TeGIJ) | [Freya Bagger](https://open.spotify.com/artist/5eXjvPNzzT9oZcbK0zuSj7) | [Vespera](https://open.spotify.com/album/1pej4Wxd7Wo5FmWmiyeeFS) | 2:25 |
+| 6 | [Entre arboles](https://open.spotify.com/track/4dxawLKeBaDFQ27USfWFrq) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Entre arboles](https://open.spotify.com/album/0osL3EqdQcGwFhVgnmJ6qV) | 1:59 |
+| 7 | [cradled with warmth](https://open.spotify.com/track/5weARSGzrpQrVOtfnhaX0z) | [Dust off the Cobwebs](https://open.spotify.com/artist/240faRVORCCfCH7mC3qcJa) | [cradled with warmth](https://open.spotify.com/album/7IDFgOhb9GlnIUWO4pv29A) | 2:36 |
+| 8 | [Monza](https://open.spotify.com/track/3gIH8SK0HmuP4HNSncw2Vw) | [Lorcan Ó Faoláin](https://open.spotify.com/artist/0Gi9Zi1kMh4fJVXEhl4J2t) | [Monza](https://open.spotify.com/album/6TgUE8ZVMeh610Tka4URfk) | 2:13 |
+| 9 | [El Amanecer](https://open.spotify.com/track/3oPTemjjHIfNeHOcJOXNJT) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [El Amanecer](https://open.spotify.com/album/6aRSkv2lYrBQZ66KNckTOZ) | 2:14 |
+| 10 | [Eden](https://open.spotify.com/track/60TxqqKAFvonXBZ0NbSFXB) | [Glenn Natale](https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel) | [Eden](https://open.spotify.com/album/0MqoHMpKaqsbk3SoczCHdm) | 2:28 |
+| 11 | [Vespera](https://open.spotify.com/track/3kRMgnaBoU2JeLVN3TeGIJ) | [Freya Bagger](https://open.spotify.com/artist/5eXjvPNzzT9oZcbK0zuSj7) | [Vespera](https://open.spotify.com/album/1pej4Wxd7Wo5FmWmiyeeFS) | 2:25 |
+| 12 | [Head Above The Clouds](https://open.spotify.com/track/79UbZ8oiJFtsl3fRjCsChx) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Head Above The Clouds](https://open.spotify.com/album/08h7ZE3uPWXalzuaJXP6sL) | 2:39 |
+| 13 | [Notions](https://open.spotify.com/track/118Gg76FPkdYt2uWzYejHh) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Notions](https://open.spotify.com/album/30kwvznWYzuaYvZedSFPkK) | 2:23 |
 | 14 | [First Espresso](https://open.spotify.com/track/0a36Dei2NUET7Bxc0d9q7e) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [First Espresso](https://open.spotify.com/album/0HXafUnDAJ9zXyKGMcCF78) | 2:41 |
-| 15 | [Notions](https://open.spotify.com/track/118Gg76FPkdYt2uWzYejHh) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Notions](https://open.spotify.com/album/30kwvznWYzuaYvZedSFPkK) | 2:23 |
-| 16 | [Head Above The Clouds](https://open.spotify.com/track/79UbZ8oiJFtsl3fRjCsChx) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Head Above The Clouds](https://open.spotify.com/album/08h7ZE3uPWXalzuaJXP6sL) | 2:39 |
-| 17 | [Vallem Amnis](https://open.spotify.com/track/6eBxKLQLiUFAyKTk1ne3gt) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Vallem Amnis](https://open.spotify.com/album/31OAlgXkFQC6cNqPgI4OYr) | 2:30 |
-| 18 | [Warm Embrace](https://open.spotify.com/track/6vmSs1vZTUYACBCW7udcnp) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Warm Embrace](https://open.spotify.com/album/5TY47fQyAFrMzWLcsl08UY) | 2:43 |
-| 19 | [Stav](https://open.spotify.com/track/1ltPSEQo0VjEF979y3B2I3) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Stav](https://open.spotify.com/album/6PHiSyeG1zzSUfDZYm8gKQ) | 2:48 |
-| 20 | [Herbariums](https://open.spotify.com/track/4NgQB5HgCTNVV9QZS5u1jR) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Herbariums](https://open.spotify.com/album/2GZSKSrzyA6y3CqKHeF1Qc) | 2:10 |
-| 21 | [Serenity’s Whisper](https://open.spotify.com/track/6SHsPZFABvN3fPk9rWxeET) | [Heiko Kolt](https://open.spotify.com/artist/3WusNlLQT1lSZdx9orJhBB) | [Serenity’s Whisper](https://open.spotify.com/album/3mSLvGhzMSD0se47t7HTSc) | 2:33 |
-| 22 | [Evenly Balanced](https://open.spotify.com/track/4m3u1eHjGKnA3GPgjBd7Cb) | [Algot Aelster](https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP) | [Evenly Balanced](https://open.spotify.com/album/6jMkqhISeUr6pPAZFjjKAM) | 2:04 |
-| 23 | [Naked](https://open.spotify.com/track/45d2JrwB423sR5mC9eI7BM) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Naked](https://open.spotify.com/album/3NQO6Taj5fCknYeSs3aNJc) | 2:55 |
-| 24 | [where we first met](https://open.spotify.com/track/7gkW9sRR75Ca9ZAwgJj0JH) | [Affinity88](https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw) | [where we first met](https://open.spotify.com/album/1dsRBQduYVoBbUhh3nIXm7) | 2:41 |
-| 25 | [Counting the Days](https://open.spotify.com/track/1xfEo3rOHLAT3vqxMPKC5d) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Counting the Days](https://open.spotify.com/album/1DIDzFc9XpurOpFuCGmL43) | 2:48 |
-| 26 | [In Bloom](https://open.spotify.com/track/6QFWbbpOKdG4lXT0v7PYkc) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [In Bloom](https://open.spotify.com/album/72gnMEAchdc8soFSlIlpEh) | 2:52 |
-| 27 | [Mornings](https://open.spotify.com/track/5daGd5PsrHGyfp1oK4hFsF) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Mornings](https://open.spotify.com/album/71U2C4uF4c9CdvtwbLev7o) | 2:36 |
-| 28 | [Journey](https://open.spotify.com/track/1quhoqxC3qTryCIJUnDcRA) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Journey](https://open.spotify.com/album/1VnMbZezkNaowQQHJ7HP3u) | 2:23 |
-| 29 | [If Life Was a Movie](https://open.spotify.com/track/1N1hyuRCNsnCju2cQKVHvt) | [John Sachs](https://open.spotify.com/artist/36zpvuRMJBhxITxE9MP4Dn) | [If Life Was a Movie](https://open.spotify.com/album/3qTbSVue1rwLVNL2tqyuby) | 1:45 |
+| 15 | [Breathe Easy](https://open.spotify.com/track/4MrXgsJEqbAZMG6BJtBNZM) | [Livia Marcella](https://open.spotify.com/artist/3KwM0iGMCIBr2BJbDB8RQq) | [Breathe Easy](https://open.spotify.com/album/4hqipiTBHlbM2q9eC5Zd1E) | 2:26 |
+| 16 | [Vallem Amnis](https://open.spotify.com/track/6eBxKLQLiUFAyKTk1ne3gt) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Vallem Amnis](https://open.spotify.com/album/31OAlgXkFQC6cNqPgI4OYr) | 2:30 |
+| 17 | [Stav](https://open.spotify.com/track/1ltPSEQo0VjEF979y3B2I3) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Stav](https://open.spotify.com/album/6PHiSyeG1zzSUfDZYm8gKQ) | 2:48 |
+| 18 | [Evenly Balanced](https://open.spotify.com/track/4m3u1eHjGKnA3GPgjBd7Cb) | [Algot Aelster](https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP) | [Evenly Balanced](https://open.spotify.com/album/6jMkqhISeUr6pPAZFjjKAM) | 2:04 |
+| 19 | [Serenity’s Whisper](https://open.spotify.com/track/6SHsPZFABvN3fPk9rWxeET) | [Heiko Kolt](https://open.spotify.com/artist/3WusNlLQT1lSZdx9orJhBB) | [Serenity’s Whisper](https://open.spotify.com/album/3mSLvGhzMSD0se47t7HTSc) | 2:33 |
+| 20 | [Journey](https://open.spotify.com/track/1quhoqxC3qTryCIJUnDcRA) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Journey](https://open.spotify.com/album/1VnMbZezkNaowQQHJ7HP3u) | 2:23 |
+| 21 | [If Life Was a Movie](https://open.spotify.com/track/1N1hyuRCNsnCju2cQKVHvt) | [John Sachs](https://open.spotify.com/artist/36zpvuRMJBhxITxE9MP4Dn) | [If Life Was a Movie](https://open.spotify.com/album/3qTbSVue1rwLVNL2tqyuby) | 1:45 |
+| 22 | [Quiet Beginning](https://open.spotify.com/track/12UkgnkfHjLOI9amTjZwne) | [Duke Wolverine](https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM) | [Quiet Beginning](https://open.spotify.com/album/1ndrUSDw5h0uxyY2mlHEUN) | 2:44 |
+| 23 | [Herbariums](https://open.spotify.com/track/4NgQB5HgCTNVV9QZS5u1jR) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Herbariums](https://open.spotify.com/album/2GZSKSrzyA6y3CqKHeF1Qc) | 2:10 |
+| 24 | [Naked](https://open.spotify.com/track/45d2JrwB423sR5mC9eI7BM) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Naked](https://open.spotify.com/album/3NQO6Taj5fCknYeSs3aNJc) | 2:55 |
+| 25 | [Warm Embrace](https://open.spotify.com/track/6vmSs1vZTUYACBCW7udcnp) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Warm Embrace](https://open.spotify.com/album/5TY47fQyAFrMzWLcsl08UY) | 2:43 |
+| 26 | [where we first met](https://open.spotify.com/track/7gkW9sRR75Ca9ZAwgJj0JH) | [Affinity88](https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw) | [where we first met](https://open.spotify.com/album/1dsRBQduYVoBbUhh3nIXm7) | 2:41 |
+| 27 | [Counting the Days](https://open.spotify.com/track/1xfEo3rOHLAT3vqxMPKC5d) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Counting the Days](https://open.spotify.com/album/1DIDzFc9XpurOpFuCGmL43) | 2:48 |
+| 28 | [In Bloom](https://open.spotify.com/track/6QFWbbpOKdG4lXT0v7PYkc) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [In Bloom](https://open.spotify.com/album/72gnMEAchdc8soFSlIlpEh) | 2:52 |
+| 29 | [Mornings](https://open.spotify.com/track/5daGd5PsrHGyfp1oK4hFsF) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Mornings](https://open.spotify.com/album/71U2C4uF4c9CdvtwbLev7o) | 2:36 |
 | 30 | [Memories oh Memories](https://open.spotify.com/track/0kkCdwO0YUP8RWrGUGvRoL) | [Anton Vega](https://open.spotify.com/artist/7H15xwuYNLQKF74GgsYfw7) | [Memories oh Memories](https://open.spotify.com/album/4ETSS7UrgjY7mgwTAmsLfJ) | 2:35 |
 | 31 | [Beyond the Moon](https://open.spotify.com/track/1JREewfvHs3rhxGrjRsOpk) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Beyond the Moon](https://open.spotify.com/album/6WUXMFDNS0eOw8I8uBygaM) | 2:19 |
 | 32 | [I Dare Not Dream: Fantasia on a Theme](https://open.spotify.com/track/7yw6puga275rUZa82ItJy8) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [I Dare Not Dream: Fantasia on a Theme](https://open.spotify.com/album/6Afe584fHx7s4nT3gBHRAn) | 2:54 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 | 200 | [Trei](https://open.spotify.com/track/5bHQg9Zu5BjBcwwtKWL8JK) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Trei](https://open.spotify.com/album/4lm7RojcsLs6xVCVmKuH5k) | 2:31 |
 | 201 | [Placid](https://open.spotify.com/track/1u3h3PCvrzTSCSPhCiQH3Q) | [Anoire](https://open.spotify.com/artist/3g7pYrMzsYgKrNPyMKNf7K) | [Placid](https://open.spotify.com/album/3W1xO9Ba7QCJ8vXCsaoE63) | 2:32 |
 
-Snapshot ID: `Z+YCpwAAAAA9R9zmz9pBqSaHKyRp2YfR`
+Snapshot ID: `Z+9ZTQAAAACtxOOaL2M933L7iT7JJUzE`

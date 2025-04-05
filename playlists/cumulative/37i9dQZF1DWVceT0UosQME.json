@@ -718,7 +718,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 149504,
       "name": "Avenues",
       "url": "https://open.spotify.com/track/0GEmUg3e8CGFtWjJU0cDux"
@@ -2980,7 +2980,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 94427,
       "name": "Flexible Funk",
       "url": "https://open.spotify.com/track/70hHzMEeNshCpPdLKJQZPj"
@@ -4162,7 +4162,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 145430,
       "name": "hologram",
       "url": "https://open.spotify.com/track/2Qnhb9gXqGZduGAlrygUQq"
@@ -4544,7 +4544,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 100416,
       "name": "Inspired",
       "url": "https://open.spotify.com/track/7FtklceBvMCY4Fju8qATUH"
@@ -5556,7 +5556,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 98971,
       "name": "Lotus",
       "url": "https://open.spotify.com/track/0UW7iedk0q5u3EPTlgp3Sc"
@@ -6539,6 +6539,24 @@
     },
     {
       "album": {
+        "name": "No Doubt",
+        "url": "https://open.spotify.com/album/08iL6VfzbJb1C4YKQBfBfP"
+      },
+      "artists": [
+        {
+          "name": "Lil Leaf",
+          "url": "https://open.spotify.com/artist/1GXcMejVQYwn2UstbQ0eHY"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "No Doubt",
+      "url": "https://open.spotify.com/track/4zo86agUhtHHBHD5AVNHFN"
+    },
+    {
+      "album": {
         "name": "No Need To Cry",
         "url": "https://open.spotify.com/album/1RbJCiIwOVuMsRf6c59B1C"
       },
@@ -6820,7 +6838,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 160000,
       "name": "Onimaru",
       "url": "https://open.spotify.com/track/3KmxDz1YKD3TX7Z3QQ4Evs"
@@ -7382,7 +7400,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 122666,
       "name": "Photograf Of My Room",
       "url": "https://open.spotify.com/track/4o16Tg4phbklKHbEMFAd7Z"
@@ -7454,7 +7472,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 100276,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/1qDa9mCKZLRjBZqqYISfPX"
@@ -8160,6 +8178,24 @@
       "duration_ms": 141424,
       "name": "Seattle",
       "url": "https://open.spotify.com/track/6OXNET31Fn6HyFBwVz8f1Y"
+    },
+    {
+      "album": {
+        "name": "Selfcare",
+        "url": "https://open.spotify.com/album/5ZHAHgKGMMU6FrH5j0S9ew"
+      },
+      "artists": [
+        {
+          "name": "its-ya-boi",
+          "url": "https://open.spotify.com/artist/1FbBiHKRJo32d7cDKVXkqK"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "Selfcare",
+      "url": "https://open.spotify.com/track/0F6Irj8z2glFrxpthcMLxQ"
     },
     {
       "album": {
@@ -10010,7 +10046,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 133020,
       "name": "Tune Out",
       "url": "https://open.spotify.com/track/4ZsI2orhFDadedp84ZXOIl"
@@ -10126,6 +10162,24 @@
       "duration_ms": 144570,
       "name": "Vibe Check",
       "url": "https://open.spotify.com/track/1UZzgXW7aQrbcszxDWleBR"
+    },
+    {
+      "album": {
+        "name": "vinyl",
+        "url": "https://open.spotify.com/album/14LEzEOuAfXpNFhDr9bfGU"
+      },
+      "artists": [
+        {
+          "name": "faux kitsune",
+          "url": "https://open.spotify.com/artist/77wxmMCyAJ6Nvkw8isSUNv"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "vinyl",
+      "url": "https://open.spotify.com/track/3ZDHugxhMsEaSQ2xhH8dzM"
     },
     {
       "album": {
@@ -10720,7 +10774,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 146072,
       "name": "You Truly Are Perfect",
       "url": "https://open.spotify.com/track/1PDsePvSUQn0zX2ptp28Ia"

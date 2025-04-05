@@ -2,9 +2,9 @@
 
 ### [New Music Friday Switzerland](https://open.spotify.com/playlist/37i9dQZF1DX3crNbt46mRU)
 
-> This week's top new releases, including Ed Sheeran \(pictured\), Nemo and more.
+> This week's top new releases, including Ed Sheeran \(pictured\), Miley Cyrus, Nemo and more.
 
-16,944 songs - 35 day 4 hr 13 min
+16,947 songs - 35 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8106,6 +8106,7 @@
 | [Khalifa's Home](https://open.spotify.com/track/6ROTA3lkjQudJ9i7kAvXqT) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Khalifa's Home](https://open.spotify.com/album/3om460mPhxDHzYRN25nEI4) | 2:48 | 2024-10-17 | 2024-10-25 |
 | [Khudahafiz](https://open.spotify.com/track/3hAWqy63tz29SFXNFCpA1D) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [22:22](https://open.spotify.com/album/2rANbjz8DsJtm6dqJMegNv) | 2:22 | 2024-06-27 | 2024-07-05 |
 | [KI \(KEINE INTELLIGENZ\)](https://open.spotify.com/track/69WnPkGaAvGHZC0Uh4ypA9) | [Marsimoto](https://open.spotify.com/artist/6jL3G5P8rxfUamkyqmRJNU) | [KI \(KEINE INTELLIGENZ\)](https://open.spotify.com/album/4PZAfknYz4hOwmC75OtJYl) | 3:14 | 2024-04-18 | 2024-04-26 |
+| [Kick It With You](https://open.spotify.com/track/5XeT6esdcC700dngtrumkx) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Kick It With You](https://open.spotify.com/album/4OU9Lmrl0X8gUZ259HuljR) | 3:32 | 2025-04-04 |  |
 | [Kick The Nation](https://open.spotify.com/track/3v6DpJeMAIwx1IXBvfCj9K) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Kick The Nation](https://open.spotify.com/album/1UJrBOjkjQZB0LMsCqgy4X) | 2:03 | 2025-01-02 | 2025-01-10 |
 | [Kickflip](https://open.spotify.com/track/7FkmAIBCsJvGNoaNr9a1Xe) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Sagittarius](https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25) | 2:42 | 2022-12-08 | 2022-12-16 |
 | [Kid](https://open.spotify.com/track/0SJ4AUoyKXAvrDESmXQubD) | [Yves Larock](https://open.spotify.com/artist/2P1h10tRBVlC2lVUqhl6wm), [Molie](https://open.spotify.com/artist/2YWqNLX47jNjlwTqpiYPV0) | [Kid](https://open.spotify.com/album/4FYzadVRbcn9w5m3GZ0I8x) | 2:40 | 2022-05-19 | 2022-05-27 |
@@ -9012,6 +9013,7 @@
 | [Loop](https://open.spotify.com/track/0lqgo6rIBS0nVsvppZC3Ay) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Loop](https://open.spotify.com/album/1KNHmfZjkA5Fq52nfOK0sW) | 3:10 | 2022-07-14 | 2022-07-22 |
 | [LOOP](https://open.spotify.com/track/2aZPrpx4DXJUxg201ORkbH) | [STO CULTR](https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G) | [LOOP](https://open.spotify.com/album/0KySGmKkbdpvZu8HURouK4) | 2:41 | 2022-06-09 | 2022-06-17 |
 | [Looping](https://open.spotify.com/track/6p3qUiFmgLx3nVFJn7zhKn) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Looping](https://open.spotify.com/album/7v1fF2heE7azqtCgG9viSk) | 3:13 | 2023-05-11 | 2023-05-19 |
+| [Loose](https://open.spotify.com/track/3YNjvUXgfQznx5IZHAXk6i) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Loose](https://open.spotify.com/album/2XCAFhzTvaqKFJogtaJnz1) | 3:30 | 2025-04-04 |  |
 | [Loose Ends](https://open.spotify.com/track/1IAGVO9a3LDO5VttJ96DtA) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Loose Ends](https://open.spotify.com/album/0YoJT2pQtuoTmgzj6TUon6) | 2:24 | 2024-03-28 | 2024-04-05 |
 | [LORBEERKRANZ](https://open.spotify.com/track/3ixYwMhY3eLvdrz0paiYGD) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [LORBEERKRANZ](https://open.spotify.com/album/53hHhW8VhOrRZ6VSYS4kpe) | 3:27 | 2023-04-27 | 2023-05-05 |
 | [LORD FORGIVE ME](https://open.spotify.com/track/3PnDz7t38mzVZaImRrSknW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [LORD FORGIVE ME](https://open.spotify.com/album/3hkubccNWxxhxzF6HsIaoh) | 3:24 | 2022-08-05 | 2022-08-12 |
@@ -13303,6 +13305,7 @@
 | [Sink Or Swim](https://open.spotify.com/track/4FDDExmv76Da7aaFqxbxVp) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:34 | 2024-07-11 | 2024-07-19 |
 | [SINN](https://open.spotify.com/track/1djweF2fVfRp4PsApR36pZ) | [Lary](https://open.spotify.com/artist/5yNlFmp5vESd61p6Ob3Qzo), [Patrice](https://open.spotify.com/artist/1fBcQOi8yEfWN7fknMoqIE) | [SINN](https://open.spotify.com/album/6jdsv2TUFjhaxj4kthZ2J6) | 3:16 | 2024-03-28 | 2024-04-05 |
 | [SINNER](https://open.spotify.com/track/7Iiw9C8gu4NdbBKUNDkeKD) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [.](https://open.spotify.com/album/3O6VSdQElvi8Eq1iYbvFMS) | 2:56 | 2025-02-27 | 2025-03-07 |
+| [Sinners](https://open.spotify.com/track/0OyWRjMMbPKwnBtWdLg4Ws) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Sinners](https://open.spotify.com/album/3aUKmF2jQ0QPBe9QrNFLFr) | 3:08 | 2025-04-04 |  |
 | [Sippin](https://open.spotify.com/track/0U35tmh8b9PolmJRRkhVdL) | [Jordan Parat](https://open.spotify.com/artist/4QHGxRolrlEEfAOdvhx0ko), [Santia6o](https://open.spotify.com/artist/1jadQYfGd8NCiKLGk0SVuC) | [Sippin](https://open.spotify.com/album/19qGI9KgdnKsHT2YkaAJgz) | 2:46 | 2023-11-16 | 2023-11-24 |
 | [Siren sounds \(bonus\)](https://open.spotify.com/track/181yGUB8xEh4LfK8KhC4Wa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb) | 3:03 | 2025-02-27 | 2025-03-07 |
 | [sirene](https://open.spotify.com/track/7ynCmusrYVLHtbZ4pJwEMH) | [Knackeboul](https://open.spotify.com/artist/5bp4bA5lgte1Iag0omrGYw) | [champain](https://open.spotify.com/album/6bMhxNyVxeAvvTFGFiGdQO) | 4:17 | 2022-12-22 | 2023-01-06 |
@@ -14169,8 +14172,8 @@
 | [Surprise](https://open.spotify.com/track/2PJV3Ef8OzZId9Jfvz9eCn) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [Surprise](https://open.spotify.com/album/0ODBfRtcZwoNAPfHiSh9V1) | 2:26 | 2025-01-02 | 2025-01-10 |
 | [Surprise Me](https://open.spotify.com/track/29hh4KOAANANjqfl4XcD7K) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Surprise Me](https://open.spotify.com/album/50mjO7QfQFrCAlD0Ot4be0) | 2:51 | 2022-04-14 | 2022-04-22 |
 | [Surreal \(feat\. myne\)](https://open.spotify.com/track/7aqLQxff4CFrCp4iyzipmW) | [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [myne](https://open.spotify.com/artist/34WPfL387QxZ5t8epiRnTL) | [Surreal \(feat\. myne\)](https://open.spotify.com/album/2dRNDPcEJzE1F0MvQLjcyy) | 1:55 | 2024-06-06 | 2024-06-14 |
+| [Surrender](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Surrender](https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd) | 2:24 | 2025-04-03 |  |
 | [Surrender](https://open.spotify.com/track/32E8uwM57X19l3uBOEuTB2) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Surrender](https://open.spotify.com/album/0ll3Yf2B4alvZGWeydE3fT) | 2:27 | 2023-05-25 | 2023-06-02 |
-| [Surrender \(with Becky Hill\)](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Surrender \(with Becky Hill\)](https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd) | 2:24 | 2025-04-03 |  |
 | [Surrender My Heart](https://open.spotify.com/track/0Fx3fYbcYx3iDNrduNMlde) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loneliest Time](https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ) | 2:48 | 2022-10-20 | 2022-10-28 |
 | [SURVIE](https://open.spotify.com/track/7yz9tcPQngQ19yAmRfQG7U) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [SURVIE](https://open.spotify.com/album/3QcMENeZLihP7vxPkieCLr) | 2:54 | 2024-05-23 | 2024-06-01 |
 | [Survival](https://open.spotify.com/track/00kznnfqqe31BbDcFWmeGe) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Survival](https://open.spotify.com/album/0chi7fMwhHM9073JMrTH0h) | 3:33 | 2024-11-14 | 2024-11-22 |

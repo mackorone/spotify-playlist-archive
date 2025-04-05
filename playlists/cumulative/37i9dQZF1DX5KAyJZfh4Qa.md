@@ -4,7 +4,7 @@
 
 > it's just one of those days w/ Michael Cera Palin
 
-264 songs - 14 hr 46 min
+265 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Black Earth, WI](https://open.spotify.com/track/2brPDOuzBeCoL3vsuWiY0g) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [The Window](https://open.spotify.com/album/07h9Qsx40cCp1h0ykxuqU1) | 8:34 | 2023-08-25 | 2024-04-19 |
 | [Black Earth, WI](https://open.spotify.com/track/5WJPG2pNcg1oDMbtxl5ysR) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [Black Earth, WI](https://open.spotify.com/album/2ouMdMNouSbVpzDbE3SNjW) | 8:34 | 2023-03-17 | 2024-10-12 |
 | [Black Earth, WI](https://open.spotify.com/track/6ok81KVFTGvFZP2q6R4mFV) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [Black Earth, WI](https://open.spotify.com/album/3xIJNC6JzTE6ovBX5TPaEm) | 8:34 | 2023-04-14 | 2023-08-28 |
-| [Black Hole](https://open.spotify.com/track/2pNlprM4EeUDywzOcbIE2q) | [Goalkeeper](https://open.spotify.com/artist/1foCMRbxVRo99EWPglSD3n) | [Black Hole](https://open.spotify.com/album/3ZvWNjZk7kFwvM4EF5fiGf) | 2:48 | 2024-10-11 |  |
+| [Black Hole](https://open.spotify.com/track/2pNlprM4EeUDywzOcbIE2q) | [Goalkeeper](https://open.spotify.com/artist/1foCMRbxVRo99EWPglSD3n) | [Black Hole](https://open.spotify.com/album/3ZvWNjZk7kFwvM4EF5fiGf) | 2:48 | 2024-10-11 | 2025-04-05 |
 | [Blood](https://open.spotify.com/track/4ImZ8dmqmUncas43Lb3bJg) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Where the Heart Is](https://open.spotify.com/album/0Z8rkubmchdF0dfSUL3Pg0) | 2:19 | 2023-04-14 | 2023-09-30 |
 | [Blood](https://open.spotify.com/track/6vAvj6cLEUFOIJQgTfJz5u) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Where the Heart Is](https://open.spotify.com/album/1SmAUgSjmVihnEuTZoALSO) | 2:19 | 2022-11-25 | 2023-04-29 |
 | [Blood for the Blood God](https://open.spotify.com/track/5ykzMyjf4Mfi45iy5pyTAG) | [Ben Quad](https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE) | [I’m Scared That’s All There Is](https://open.spotify.com/album/6qvYtT5gSuBLAGLdoSPmb3) | 3:31 | 2022-11-25 | 2024-10-12 |
@@ -129,6 +129,7 @@
 | [I Hope You Choke!](https://open.spotify.com/track/5q6pgHMUEIdq78NVmmytL5) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 3:19 | 2023-09-22 | 2024-06-22 |
 | [I Only Do Pushups When I'm Drunk \(Drinking Lonely\)](https://open.spotify.com/track/1BbHS0dJwAbMnAr8v1vRBN) | [Good Hangs](https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W) | [I Only Do Pushups When I'm Drunk \(Drinking Lonely\)](https://open.spotify.com/album/0NpXwbOkxsnzVkRFuegkBU) | 3:44 | 2023-01-05 | 2024-10-12 |
 | [I really am feeling better](https://open.spotify.com/track/2EmYu5EQnSpb2I0nW6hIlw) | [TRSH](https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9) | [I really am feeling better](https://open.spotify.com/album/1C6nIy0zYyRMnEOMBRmh7C) | 2:04 | 2025-02-14 |  |
+| [i used to check my driveway hoping one day i might see you there](https://open.spotify.com/track/74qNCVxEXgqHlb8sZW5Kik) | [empty parking lot](https://open.spotify.com/artist/5PbZSC1skXoz4QHNor8JiB) | [silly songs for a silly girl](https://open.spotify.com/album/4LBL1hPWZd9nddHGVMwdqE) | 2:42 | 2025-03-28 |  |
 | [If This is Sadness, I Don't Like It One Bit](https://open.spotify.com/track/3ttOAHJLXSoWRpN5oYLlRd) | [Mt\. Oriander](https://open.spotify.com/artist/2Kq6yQuA3lw7tMfUvPQYXo), [Joie De Vivre](https://open.spotify.com/artist/1sUOIv1YrZ2WRmTg0GRi0V), [Warren Franklin](https://open.spotify.com/artist/5ub2IP1YottOMHKb6ECb8b) | [Then the Lightness Leaves and I Become Heavy Again](https://open.spotify.com/album/7s5pO2fLBtRuSqY1SSm6lK) | 3:24 | 2022-11-25 | 2023-10-15 |
 | [If You're Lonely](https://open.spotify.com/track/6920SXezNpgmwSifVJkOXM) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [If You're Lonely](https://open.spotify.com/album/4SkQufb5RDhqYDAglH45fz) | 4:04 | 2023-08-21 |  |
 | [IKEA Strikes Back](https://open.spotify.com/track/6jKcGYVgVrXrYoQFHShbwa) | [CLIFFDIVER](https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x) | [Exercise Your Demons](https://open.spotify.com/album/04jIk2Sa4YDalTLQ9IGIyF) | 3:28 | 2023-05-19 | 2024-07-13 |

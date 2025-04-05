@@ -1,13 +1,81 @@
 {
   "description": "All of your favourites, new favourites, live favourites and unearthed soon to be favourites.  <a href=\"https://www.umusic.ca/collections/rediscover\">here</a>",
-  "num_followers": 3663,
+  "num_followers": 3661,
   "original_name": "UMUSIC Rediscover",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAACsGaeznnLNw+IE2s5adwd6xMWNKx8",
+  "snapshot_id": "AAACtQp4nvDU8MYBZ+SDIls1Q+K5Q5Uq",
   "tracks": [
+    {
+      "added_at": "2025-04-04 14:34:31",
+      "album": {
+        "name": "Who Believes In Angels?",
+        "url": "https://open.spotify.com/album/1Wn7mRdFZfHwmgtRFFR42o"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 179719,
+      "name": "Little Richard\u2019s Bible",
+      "url": "https://open.spotify.com/track/3AsmUHXoCqeWXP9tRTYGsR"
+    },
+    {
+      "added_at": "2025-04-04 14:35:03",
+      "album": {
+        "name": "New Kind Of Feeling",
+        "url": "https://open.spotify.com/album/7lzKMo3MHAz8Xuc0LBA4tG"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        }
+      ],
+      "duration_ms": 171640,
+      "name": "I Just Fall In Love Again",
+      "url": "https://open.spotify.com/track/6aBiU9lFd3BhtggI7aeqBI"
+    },
+    {
+      "added_at": "2025-04-04 14:35:04",
+      "album": {
+        "name": "Let's Keep It That Way",
+        "url": "https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        }
+      ],
+      "duration_ms": 220266,
+      "name": "You Needed Me",
+      "url": "https://open.spotify.com/track/5d4E1hgkLyb7sXr5J3InnM"
+    },
+    {
+      "added_at": "2025-04-04 14:43:09",
+      "album": {
+        "name": "Anne Murray The Best Of...So Far - 20 Greatest Hits",
+        "url": "https://open.spotify.com/album/7wKiJQImtpNT3kBy5QVPSX"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        }
+      ],
+      "duration_ms": 130493,
+      "name": "Snowbird",
+      "url": "https://open.spotify.com/track/6y3YVkwO6YZqBcVsrNQRkB"
+    },
     {
       "added_at": "2025-03-21 15:55:08",
       "album": {

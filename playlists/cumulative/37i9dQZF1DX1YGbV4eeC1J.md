@@ -4,7 +4,7 @@
 
 > What is your love language? Say it in Swahili\.  Cover: Mocco Genius
 
-285 songs - 16 hr 5 min
+286 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Falling](https://open.spotify.com/track/2hyUzNsKT454MY5Ro0nnD7) | [Narah Elba](https://open.spotify.com/artist/49xus9KjnESiLPl9EQuvU4) | [Falling](https://open.spotify.com/album/6gXbJ7vbb4mQWAqOjv6eon) | 2:39 | 2024-03-07 | 2024-03-15 |
 | [Far Away](https://open.spotify.com/track/3xkPEQyclUqwYfrDCzgdUp) | [Haitham Kim](https://open.spotify.com/artist/750ujPfB38qROElCTru0vL) | [Far Away](https://open.spotify.com/album/26SiJtz00mjV9MHUL3y5zi) | 3:20 | 2024-07-04 | 2024-08-30 |
 | [Far Away](https://open.spotify.com/track/4TxqEHX4IPL7bQR8ZWrmyr) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX) | [Far Away](https://open.spotify.com/album/3hQN2SC0cgP0LPVh1GErMR) | 2:47 | 2024-05-16 | 2024-08-23 |
+| [Fitingi \(feat\. Marioo\)](https://open.spotify.com/track/5UhDCKzxdH5RLbnUL5f4ld) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Fitingi \(feat\. Marioo\)](https://open.spotify.com/album/14LrFiTCxQoYkteAQO4iJY) | 3:00 | 2025-04-04 |  |
 | [Forever](https://open.spotify.com/track/1T64n0T17I3deCh0Uk9hct) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Therapy](https://open.spotify.com/album/0E7ArB2FlQPLLdyynSOvUp) | 3:37 | 2024-04-25 | 2024-07-05 |
 | [Furaha](https://open.spotify.com/track/77tlTHsLMs2ubmp8VyNqpx) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Furaha](https://open.spotify.com/album/4xsB6wIT8GFXLF1JIx2eVl) | 2:45 | 2025-02-13 |  |
 | [Furukuta](https://open.spotify.com/track/5sgsXrwCGhGXaFP7KhbwrI) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Furukuta](https://open.spotify.com/album/6SUXON4yFtTdklgXQxOk4t) | 3:06 | 2024-06-27 | 2024-10-11 |

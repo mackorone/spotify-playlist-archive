@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-652 songs - 1 day 8 hr 59 min
+655 songs - 1 day 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,7 +359,7 @@
 | [Lovely With Me](https://open.spotify.com/track/5Libp5Ov0uG7yBOmZkMOEX) | [Thierry Marchal](https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp) | [Lovely With Me](https://open.spotify.com/album/660j778SWkk6567Nxy9XMd) | 3:01 | 2024-08-06 |  |
 | [Lover Man](https://open.spotify.com/track/23Q0MMsuaZkngkmx8CEEQl) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lover Man](https://open.spotify.com/album/4vT3k8HlxyiOlTEHde8Unz) | 3:28 | 2021-12-07 | 2022-02-16 |
 | [Lovers](https://open.spotify.com/track/6flWLUPwiaN9FkPm6CVzZz) | [Isac Solo](https://open.spotify.com/artist/56POV7bQLxbrsbCQ7xIJuq) | [Lovers](https://open.spotify.com/album/0ohI92MObxRxyDbafFA0oS) | 2:27 | 2022-12-01 | 2025-03-04 |
-| [Lover´s Lullaby](https://open.spotify.com/track/7wuxoIozxMyvupQcb4Yh7P) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Lover´s Lullaby](https://open.spotify.com/album/5msQgWuEsEnoCs6TQ5M0mC) | 3:03 | 2023-10-13 |  |
+| [Lover´s Lullaby](https://open.spotify.com/track/7wuxoIozxMyvupQcb4Yh7P) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Lover´s Lullaby](https://open.spotify.com/album/5msQgWuEsEnoCs6TQ5M0mC) | 3:03 | 2023-10-13 | 2025-04-05 |
 | [Lowlight Serenade](https://open.spotify.com/track/15dJT08TXxbTe8uQKGjk6i) | [Bill Swindon](https://open.spotify.com/artist/7C4qb62TIDk7IbyMORyqTs) | [Lowlight Serenade](https://open.spotify.com/album/7ACcfzQFfnu7ivFQesr0jz) | 2:46 | 2024-06-27 |  |
 | [Lullaby for Lilly](https://open.spotify.com/track/2hAqVQHxZrDbDYvX0rR1zZ) | [William Claeson](https://open.spotify.com/artist/0QDLHVdGZpRfw01CpFIoUZ) | [Lullaby for Lilly](https://open.spotify.com/album/11AeTqQfSfhLMqjlar2RaC) | 3:15 | 2022-10-06 |  |
 | [L´amore in silenzio](https://open.spotify.com/track/1Ssqfy9VI92aZYWbUAJdqU) | [Michael Lavigne](https://open.spotify.com/artist/1WzXXEpMoYGcwJbHPCUeXH) | [L´amore in silenzio](https://open.spotify.com/album/3lnk4kYOcKiWB8tyDWKXHV) | 2:08 | 2024-12-09 |  |
@@ -369,6 +369,7 @@
 | [Maple swing](https://open.spotify.com/track/5g7O9vMagQF2ZA4ixq07ie) | [Camille Blanche](https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa) | [Maple swing](https://open.spotify.com/album/2NgkxK9aZlGmgkADzMQDUR) | 3:03 | 2024-03-22 |  |
 | [Marais Morning](https://open.spotify.com/track/6GSgdG0O4OqlcNHAdnXHdO) | [James Auren](https://open.spotify.com/artist/7Ds0cZCPbFyORBS5NSvQaQ) | [Marais Morning](https://open.spotify.com/album/0O7kC4qvVPPSxYcgHBBsnN) | 3:26 | 2025-01-14 |  |
 | [Marianne](https://open.spotify.com/track/3aH1PozU6rrvTLGlCISgAH) | [Lou Green](https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW) | [Marianne](https://open.spotify.com/album/0X43eSNXIfJFDw6FpKWU2N) | 2:09 | 2023-05-11 |  |
+| [Maybe Next Week](https://open.spotify.com/track/3hJvvzM5Db68F7nvySa3eP) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Maybe Next Week](https://open.spotify.com/album/4S13x0lSNQI1eeVHDUK24l) | 2:30 | 2025-04-04 |  |
 | [Melancholia](https://open.spotify.com/track/6lMI9WKqbIwxnumenEI0Iz) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Melancholia](https://open.spotify.com/album/4qJEPS5KuL1a7ynbgifQXV) | 3:26 | 2023-03-02 |  |
 | [Memories of You](https://open.spotify.com/track/0eu43TeVxnxOqHj3nBVus2) | [Kay Lohman](https://open.spotify.com/artist/4RAH5bMhyvkgartz47YVcy) | [I Get Along Without You Very Well](https://open.spotify.com/album/3TA20v06xIbqbfTqIG48do) | 2:45 | 2022-01-04 |  |
 | [Meuse](https://open.spotify.com/track/271aR2CbQyhO36eXkHstzy) | [Aron Finneas](https://open.spotify.com/artist/5eL2qDCUxC7emQsTp17aDx) | [Meuse](https://open.spotify.com/album/71eY3XLNP4ixRL96BLNnWU) | 2:07 | 2023-08-10 |  |
@@ -497,6 +498,7 @@
 | [Skating in Central Park](https://open.spotify.com/track/5DL2qEB0QeLlMNFjcYfcDm) | [Sean Eastman](https://open.spotify.com/artist/4SMptkAtq8f31ziDjPuint) | [Skating in Central Park](https://open.spotify.com/album/3dgfesW8kzGn0ePWdsZlMo) | 2:58 | 2023-01-05 |  |
 | [Skylark](https://open.spotify.com/track/5XzlyI2iS6Km2SNsEQ4O91) | [Edward France](https://open.spotify.com/artist/6rPvE9uUU2fm3TaL12b8Hp) | [Skylark](https://open.spotify.com/album/6DEaWap07T8LIFfnHVSVIr) | 3:29 | 2021-12-07 |  |
 | [Skyline](https://open.spotify.com/track/1eOYDB1NzYYHihk3u5VAsc) | [Eleanor Rivers](https://open.spotify.com/artist/0PZjFVd7k6PROjrjVtVFU2) | [Skyline](https://open.spotify.com/album/5JafOFZrDTHPUb6z8NuEQM) | 2:18 | 2024-02-09 |  |
+| [Skógafoss](https://open.spotify.com/track/0yGxX6e3dXHreh1YXjQJxs) | [Haukur Ólafsson](https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w) | [Skógafoss](https://open.spotify.com/album/6mYArGcIpsQxuUXvVQ03qK) | 3:21 | 2025-04-04 |  |
 | [Sleep Warm](https://open.spotify.com/track/5lt4NedCUCfgU48VU25fTN) | [M\. Birkeland](https://open.spotify.com/artist/0JldzuwP5NF3nsxjnlLCTS) | [Sleep Warm](https://open.spotify.com/album/21JzK3UXvkY3Bq7TzuSnbi) | 2:25 | 2023-08-10 |  |
 | [Slow Down](https://open.spotify.com/track/0smp1YZcD0pilQEGbc3KcS) | [Trey Patton](https://open.spotify.com/artist/16YBPq22nB5oyX5exXWfSn) | [Slow Down](https://open.spotify.com/album/34FnrbjzUSh4lJNmTANyTP) | 3:14 | 2024-08-06 |  |
 | [Slowing Down](https://open.spotify.com/track/1aItJE8RukUc0lnMdj45FJ) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [Slowing Down](https://open.spotify.com/album/4DOFbLvmNKJhD0mcEv0hUt) | 3:28 | 2023-04-27 |  |
@@ -527,7 +529,7 @@
 | [Square One](https://open.spotify.com/track/1rzgbiDEV9e7K7tHmzlcx3) | [Carmen Simmons](https://open.spotify.com/artist/6HhW3vf5i1Ao2KsOsdHfbV) | [Square One](https://open.spotify.com/album/6rdTWVLWJekeRcmeQ50BbG) | 2:35 | 2024-02-02 |  |
 | [Stairway to the Stars](https://open.spotify.com/track/3g0fAajWquZEairKQoYZ2z) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Stairway to the Stars](https://open.spotify.com/album/0JdR6CSFmhJRWt5uR8Xe8w) | 4:39 | 2021-12-07 | 2023-06-09 |
 | [Star Eyes](https://open.spotify.com/track/0uY4n9q4ViY6ijBNvzVx1Z) | [Angel Gregoire](https://open.spotify.com/artist/68NEUYAM0BKrdgENaJ8wlF) | [Star Eyes](https://open.spotify.com/album/3jGRLCp4Ix9ZCICt5Aey6I) | 3:40 | 2022-09-29 |  |
-| [Stardust](https://open.spotify.com/track/4fX6BFRXtPC5knEwEIV4Zf) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [Stardust](https://open.spotify.com/album/6gFHzsqCH6ZJvGxHHnFeRL) | 5:03 | 2022-01-18 |  |
+| [Stardust](https://open.spotify.com/track/4fX6BFRXtPC5knEwEIV4Zf) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [Stardust](https://open.spotify.com/album/6gFHzsqCH6ZJvGxHHnFeRL) | 5:03 | 2022-01-18 | 2025-04-05 |
 | [Starlit Slumber](https://open.spotify.com/track/7xizYphxhTpmI49PYrLSjG) | [Celine Schulz](https://open.spotify.com/artist/1hhFeA7FxCksWZU1nPOH6y) | [Starlit Slumber](https://open.spotify.com/album/1yfNMhJXqUQYdb8iqRD6ag) | 2:15 | 2024-12-09 | 2025-02-04 |
 | [Stars Fell On Alabama](https://open.spotify.com/track/509cZqCtvC6it9bKbuD0hP) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [Stars Fell On Alabama](https://open.spotify.com/album/0K9xMpUcX0Yg3HAcb1IDLO) | 4:21 | 2022-06-28 | 2025-02-04 |
 | [Stay in Your Lane](https://open.spotify.com/track/3tY6RIiYIUUnxzkIQhlTxt) | [Nineve Wilson](https://open.spotify.com/artist/4ab8hugVrmFzuV4AEGXHgr) | [Stay in Your Lane](https://open.spotify.com/album/35apYnhsneqL04gk6joyq6) | 2:57 | 2024-03-08 |  |
@@ -540,7 +542,7 @@
 | [Stormy Weather](https://open.spotify.com/track/46ryjq76whaLHkJVrvkAqo) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Stormy Weather](https://open.spotify.com/album/3ys62gvyRiXgQDeaedo7VO) | 4:07 | 2021-12-07 | 2024-08-07 |
 | [Strangers by Midnight](https://open.spotify.com/track/3aiSarqjyxbdllRulzUTJj) | [Kim Lawrence](https://open.spotify.com/artist/6uRFzRVkhIKxnOohUy45N4) | [Strangers by Midnight](https://open.spotify.com/album/0dRBbv4SyKDfMtcmebe37h) | 3:20 | 2025-01-07 |  |
 | [Strasbourg](https://open.spotify.com/track/3i4NoQWDcWEZ2q7TYqj5r1) | [Isac Solo](https://open.spotify.com/artist/56POV7bQLxbrsbCQ7xIJuq) | [Strasbourg](https://open.spotify.com/album/04tdMaGADr9577CFzyqoLY) | 2:22 | 2023-05-25 | 2024-05-11 |
-| [Street Of Dreams](https://open.spotify.com/track/783BlsF88Ae8b0Xs4ZDzQy) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [Street Of Dreams](https://open.spotify.com/album/1bM7zzY2xmI0TMMFQKeNFu) | 2:39 | 2023-03-23 |  |
+| [Street Of Dreams](https://open.spotify.com/track/783BlsF88Ae8b0Xs4ZDzQy) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [Street Of Dreams](https://open.spotify.com/album/1bM7zzY2xmI0TMMFQKeNFu) | 2:39 | 2023-03-23 | 2025-04-05 |
 | [Streets of Gold](https://open.spotify.com/track/5CLGKbMa7u0QZe6nLOQEe9) | [Karl\-Erik](https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4) | [Streets of Gold](https://open.spotify.com/album/3HRAv95HLT2CXEVQRJSvhV) | 2:02 | 2023-04-27 |  |
 | [Sudden Light](https://open.spotify.com/track/4n1f5JBvnngHCassE6jyt6) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Sudden Light](https://open.spotify.com/album/5A6oIf1TnaPU8NJL6MKLq4) | 3:23 | 2023-10-27 | 2024-04-03 |
 | [Summer in Central Park](https://open.spotify.com/track/1LI1odohhRVtGSqRuEABw9) | [R\. Embers](https://open.spotify.com/artist/54QslGVRhkItg40ZHxYuXF) | [Summer in Central Park](https://open.spotify.com/album/6KlLMcXaSJtFeUvWexpaEA) | 3:31 | 2023-09-08 |  |
@@ -622,7 +624,7 @@
 | [Velvet Gloves & Spit](https://open.spotify.com/track/28nqRn3qpWokvnhGfXwbEf) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS) | [Velvet Gloves & Spit](https://open.spotify.com/album/4xAd50gOzhbIldhrmYAJWK) | 2:43 | 2021-12-07 | 2022-07-29 |
 | [Velvet Gloves & Spit](https://open.spotify.com/track/5AbvIJTlfp52S6b9WipNBC) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS) | [Mondenkind](https://open.spotify.com/album/1s27PprVQ7RNFHxsWa6RhQ) | 2:43 | 2022-06-28 | 2022-12-02 |
 | [Very Early](https://open.spotify.com/track/233mHTkvc7567uCXc7XsHR) | [Ottilie Lebau](https://open.spotify.com/artist/361nXBd8zOp4m6PB7Gjnie) | [Very Early](https://open.spotify.com/album/0Gdo0WpxqvA4s8UGxFO3Hf) | 2:10 | 2022-01-18 |  |
-| [Vineyard](https://open.spotify.com/track/4267KrXCw7ginzMjtvwnMc) | [Christian Glass](https://open.spotify.com/artist/2UHwvIXHdMtcmboouSQJ7k) | [Vineyard](https://open.spotify.com/album/2krMn6Dx9QC5QTcORUfqAG) | 3:12 | 2024-01-12 |  |
+| [Vineyard](https://open.spotify.com/track/4267KrXCw7ginzMjtvwnMc) | [Christian Glass](https://open.spotify.com/artist/2UHwvIXHdMtcmboouSQJ7k) | [Vineyard](https://open.spotify.com/album/2krMn6Dx9QC5QTcORUfqAG) | 3:12 | 2024-01-12 | 2025-04-05 |
 | [Violets for Your Furs](https://open.spotify.com/track/4TQmSFLxAR8ffhfIh7c7xg) | [Jeanette Ives](https://open.spotify.com/artist/4lCw6AiRMMQqIGrJrUOZSO) | [Violets for Your Furs](https://open.spotify.com/album/6VNdeRbUZ82LobBqfTYypw) | 2:29 | 2022-08-09 |  |
 | [Wake Up In Spring](https://open.spotify.com/track/3kL5yKlAPOzcF1fS7qYyhq) | [Bill Swindon](https://open.spotify.com/artist/7C4qb62TIDk7IbyMORyqTs) | [Wake Up In Spring](https://open.spotify.com/album/4cmHB9tOt4uybZdEVuDpIS) | 2:33 | 2023-02-02 |  |
 | [We Kiss In A Shadow](https://open.spotify.com/track/0XBnhPCz2TDrIDgdWs66Ab) | [Arielan Vide](https://open.spotify.com/artist/2fvlcT93u5SQePtPugGGpz) | [We Kiss In A Shadow](https://open.spotify.com/album/2Pbz2vEA3HhvZK5K20lK1P) | 2:43 | 2023-08-10 |  |
@@ -645,6 +647,7 @@
 | [Winter love](https://open.spotify.com/track/73psKdGPhTArtQyovKbyhO) | [Leah Lambert](https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4) | [Winter love](https://open.spotify.com/album/23qbyRpbsoGLSLAX3EKMYn) | 3:10 | 2025-02-10 | 2025-03-04 |
 | [Witchcraft](https://open.spotify.com/track/787b6CSG5VnNvAATPEk54g) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Witchcraft](https://open.spotify.com/album/5TVrp07TaKr7yDNSHu1FHT) | 4:07 | 2022-08-09 | 2023-06-23 |
 | [Without A Song](https://open.spotify.com/track/2KxXG6EIywCiYcQuJa8Xwp) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Without A Song](https://open.spotify.com/album/55vOtTdjD34L98MWwl57oU) | 4:20 | 2022-06-14 | 2025-02-11 |
+| [World Spinning](https://open.spotify.com/track/5jeCcXDCQ9Si433XSmb0Js) | [Alex Flynn](https://open.spotify.com/artist/64CqRzs6YJbEYzCHJWHXdF) | [World Spinning](https://open.spotify.com/album/6BRZGCg1sBoAaweLlbUdHh) | 2:19 | 2025-04-04 |  |
 | [yalla](https://open.spotify.com/track/1MDVmD8jfZhFy084VF7hO4) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [yalla](https://open.spotify.com/album/3emFO8aqqG7TQiacdILJTc) | 3:14 | 2024-01-12 |  |
 | [Yesterdays](https://open.spotify.com/track/6o5QXX3jRdzZRSS2WLYTWZ) | [Camille Blanche](https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa) | [Yesterdays](https://open.spotify.com/album/1v5RhDJlT3IAAx0qXVzzzr) | 2:37 | 2023-06-08 | 2024-08-07 |
 | [You and I](https://open.spotify.com/track/3QF1JAkRF11UY4k64dtQUD) | [Mason Olsen](https://open.spotify.com/artist/6wYWUf5SSJPtK0XAOjPgET) | [You and I](https://open.spotify.com/album/6Iq2usdsUcLgrTBd2cDdOW) | 2:35 | 2023-11-24 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Estas son las indomables de la M\u00fasica Mexicana. Camila Fern\u00e1ndez en portada.",
+  "description": "Estas son las indomables de la M\u00fasica Mexicana. Karly B en portada.",
   "name": "Mujeres Brav\u00edas",
   "tracks": [
     {
@@ -968,6 +968,24 @@
       "duration_ms": 163960,
       "name": "Cada Quien Su Gusto",
       "url": "https://open.spotify.com/track/6lyembOsPmVy52cfCj8nO8"
+    },
+    {
+      "album": {
+        "name": "Cada Vez Que Te Vas",
+        "url": "https://open.spotify.com/album/2wem1eLJ81Xt1zWScHJ5o2"
+      },
+      "artists": [
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168900,
+      "name": "Cada Vez Que Te Vas",
+      "url": "https://open.spotify.com/track/7juj65bKOGyq509uWUlzB3"
     },
     {
       "album": {
@@ -2003,6 +2021,28 @@
     },
     {
       "album": {
+        "name": "Doble T",
+        "url": "https://open.spotify.com/album/4P6cszM5VvuNEqBRpSPfgs"
+      },
+      "artists": [
+        {
+          "name": "Viviann Baeza",
+          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
+        },
+        {
+          "name": "Emilio",
+          "url": "https://open.spotify.com/artist/63AURDJ3zaxKaBcrm9q74B"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159857,
+      "name": "Doble T",
+      "url": "https://open.spotify.com/track/0psYURhcteRbFcW9MH3Rj9"
+    },
+    {
+      "album": {
         "name": "Dos Botellas De Mezcal",
         "url": "https://open.spotify.com/album/1GreuGxkG2mQaEqkU5w4Yg"
       },
@@ -2364,7 +2404,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 215956,
       "name": "Entre La Maleza",
       "url": "https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf"
@@ -3202,7 +3242,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 234026,
       "name": "La Gitanilla",
       "url": "https://open.spotify.com/track/7jKkmzmUeVV4gbwALwp43w"

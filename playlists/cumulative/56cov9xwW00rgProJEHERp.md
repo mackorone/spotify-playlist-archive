@@ -4,7 +4,7 @@
 
 > Tunes from your favourite coffee shop.
 
-241 songs - 13 hr 53 min
+246 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Division](https://open.spotify.com/track/6QrBFAC01i5rR8q40MDtez) | [SHEBAD](https://open.spotify.com/artist/7ihwoO3fIjCKsTPoEbl7VK) | [Music is the Answer](https://open.spotify.com/album/6HJMflSPljm5V4stQQX8lL) | 3:17 | 2024-11-01 | 2024-11-09 |
 | [Do Your Worst](https://open.spotify.com/track/1WQm4kw3blYLYbsA9kTsTE) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [Do Your Worst](https://open.spotify.com/album/2LS7qVSq37ThFZkkmhrY3w) | 3:39 | 2024-05-24 | 2024-08-17 |
 | [Doing My Best](https://open.spotify.com/track/6sFoThfMeE9rzbArgXomFT) | [Sam Lynch](https://open.spotify.com/artist/3gIjrIxD8n3BSYH9OqkHLL) | [Outline](https://open.spotify.com/album/0basUZafmlXohc5Z1lqnDR) | 3:29 | 2024-11-15 | 2025-02-22 |
+| [Don't Know Why](https://open.spotify.com/track/1etgYYaZQFhdlxkSxz3p8X) | [Noah Levine](https://open.spotify.com/artist/4aOb13B7cfQem9IbDvSNdz) | [Don't Know Why](https://open.spotify.com/album/2v5lV0Vxu5DeYVzBwzzc1K) | 3:38 | 2025-04-04 |  |
 | [Don't You Give Up On Me Yet](https://open.spotify.com/track/4I3KrxXAmYTWtUsK64sH18) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Black Dress](https://open.spotify.com/album/2A40Ol1cG4JjD6dzAfwztx) | 3:16 | 2024-11-22 |  |
 | [Drown in My Own Tears \- The Circle Session, 2023](https://open.spotify.com/track/3fWwmVNCqqckIU5lMEnfIz) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Drown in My Own Tears \(The Circle Session, 2023\)](https://open.spotify.com/album/55cxl6L7iAOxkxBsaL6Z2S) | 5:04 | 2023-12-08 | 2024-01-13 |
 | [Drunk, Running](https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 4:05 | 2024-04-05 | 2025-02-08 |
@@ -139,6 +140,7 @@
 | [Lean In](https://open.spotify.com/track/73wvzVVkyZNeZdWLjAGnru) | [Patrick Martin](https://open.spotify.com/artist/0akke4ZfLeCMEwuSJX5yc8) | [Lean In](https://open.spotify.com/album/3Ye8tnkENwAK80262hRjVQ) | 3:10 | 2024-03-22 | 2024-07-20 |
 | [Leave This Home](https://open.spotify.com/track/3N48xSRpwfwBytTBOYxh79) | [Dweller](https://open.spotify.com/artist/0BXalrIb822OpYzlONODHU), [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz), [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4), [Kris Ulrich](https://open.spotify.com/artist/49MmzOKdISsus72tEIhJQN) | [Leave This Home](https://open.spotify.com/album/4myJO9gIxp7nMeGd6TlKO6) | 5:21 | 2023-12-08 | 2024-02-24 |
 | [Less Stress](https://open.spotify.com/track/2bIUrjwlTuuzpMdWFU5pCx) | [Skinny Dyck](https://open.spotify.com/artist/1saewocg14MmejEW9t4SZL) | [Easygoing](https://open.spotify.com/album/5I7ecirlZpSSDtUFEQ6XNQ) | 3:20 | 2024-10-25 | 2024-11-09 |
+| [Lessons](https://open.spotify.com/track/7dcNsaYCgtycbQYYPj5bao) | [Loaded Honey](https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB), [Lydia Kitto](https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA), [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Lessons](https://open.spotify.com/album/4C2gEjnKmczLeeYsPRGNzR) | 3:38 | 2025-04-04 |  |
 | [little me](https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [little me](https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm) | 3:00 | 2024-03-15 | 2024-04-02 |
 | [Lonely with Our Love](https://open.spotify.com/track/7I0lIzNjPrvnqLp7AQHW5o) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [A Week in Nashville](https://open.spotify.com/album/1iMxbWIQFDddaxXHUBq4Ui) | 3:28 | 2024-05-24 | 2025-02-01 |
 | [Lost](https://open.spotify.com/track/2aQm7qXDseN5YF5ilzCohC) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Lost](https://open.spotify.com/album/0rwAIahSgaJWFoTSHJSmLJ) | 2:43 | 2024-08-02 | 2024-10-19 |
@@ -155,6 +157,7 @@
 | [Modern Drugs](https://open.spotify.com/track/5gocWRuqMWndCOS6FLK270) | [JJ Shiplett](https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5) | [Modern Drugs](https://open.spotify.com/album/3fexL0QakIVLSCChoQ4aSK) | 5:13 | 2024-01-26 | 2024-04-27 |
 | [MUST BE NICE](https://open.spotify.com/track/7FGDL2pk8qcJDAvn4BF3Al) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [MUST BE NICE](https://open.spotify.com/album/3Pb9pa9lDVmmxdP8nvKP7c) | 2:55 | 2023-12-08 | 2024-02-17 |
 | [My Body's My Buddy](https://open.spotify.com/track/1Ra2A7WtslDs3V6bEwpVkO) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [My Body's My Buddy](https://open.spotify.com/album/1IumCl0HdwL0UcDVkGdY2u) | 3:28 | 2024-08-23 |  |
+| [My Everything](https://open.spotify.com/track/7AnKq274KBoXdauPkKqKBk) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Two Lives](https://open.spotify.com/album/2iRVSj9OgvwzDVPGoYoG2U) | 3:21 | 2025-04-04 |  |
 | [Name of God](https://open.spotify.com/track/6gOxexvj0mjwnRRrLXT1cB) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Name of God](https://open.spotify.com/album/1bKT0c0tDqVeHx3G4VPGai) | 3:28 | 2023-12-08 | 2024-03-02 |
 | [Name Your Price](https://open.spotify.com/track/4SHu2GpnbzuIe7eVGmHQZg) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Name Your Price](https://open.spotify.com/album/5ExvE4ttfYYXO47PTRZjBg) | 3:25 | 2024-06-21 | 2024-09-14 |
 | [Never Be Mine](https://open.spotify.com/track/40X3bzEwiAyvjo9b9vOS5M) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Never Be Mine](https://open.spotify.com/album/7MigeuNpatBwRQB5n0CWui) | 3:42 | 2023-12-08 | 2024-02-17 |
@@ -177,6 +180,7 @@
 | [Part of Me](https://open.spotify.com/track/4Z8Q1ysqqdTYDr7yyP3ONx) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c), [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [Part of Me](https://open.spotify.com/album/0Xu17UGt6rn4ViWJTQnwTe) | 3:28 | 2023-12-15 | 2024-03-16 |
 | [Pick My Pockets](https://open.spotify.com/track/4m8GEreu4bGUsUBJOcAiGD) | [Avry](https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9) | [Fabrics](https://open.spotify.com/album/7buSjpIxgQ1zNvWtVdFoJ5) | 2:45 | 2024-09-27 | 2025-03-08 |
 | [Porcelain](https://open.spotify.com/track/7dj3yeU3pzcmFnGXo8cLsi) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Porcelain](https://open.spotify.com/album/0L4li5hzdRBcrRyaa5FfGL) | 3:31 | 2024-11-22 |  |
+| [Potion](https://open.spotify.com/track/60jK1IQ31TzqtL1e0sHHda) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux](https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ) | 2:47 | 2025-04-04 |  |
 | [reason to forgive](https://open.spotify.com/track/37WikNaTXg1WdspSS5oHkI) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 2:44 | 2024-09-06 | 2024-10-19 |
 | [Redwoods \(Anxious God\)](https://open.spotify.com/track/5bC4ZnX3RhkJBzibREL7MP) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [Seed of a Seed](https://open.spotify.com/album/5WjjIOn40MG9kLfaeHBS5a) | 4:42 | 2024-11-01 | 2024-11-09 |
 | [Reelin](https://open.spotify.com/track/0d6cDQYL92RiATlMruYFmE) | [Ray Bull](https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu) | [Little Acts Of Violence](https://open.spotify.com/album/3iBG6zb55V0lkxMSECkq1d) | 3:57 | 2025-02-21 |  |
@@ -186,6 +190,7 @@
 | [Rosemary](https://open.spotify.com/track/7p46jopEVdyoabBoen57VI) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Rosemary](https://open.spotify.com/album/30T3DK3SVzm0wfzPRY1drl) | 3:31 | 2024-03-01 | 2024-11-30 |
 | [Rosyln \- Live from the Silo](https://open.spotify.com/track/3M8xHt9ggqBHcp0LTG4Ws9) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [Rosyln \(Live from the Silo\)](https://open.spotify.com/album/26KsMUd3lHKB0UKyUKIF2i) | 4:41 | 2024-12-13 |  |
 | [rotted out with flies](https://open.spotify.com/track/0u7184d6EPWJxkezc4eUI0) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [rotted out with flies](https://open.spotify.com/album/52tlFFs7KNpFypEpjNgPvK) | 3:00 | 2024-02-23 | 2024-06-22 |
+| [Silver Lining](https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy) | 3:17 | 2025-04-04 |  |
 | [Sleepwalking](https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Sleepwalking](https://open.spotify.com/album/1WkPJ7h3W8VNTOaRWWsATU) | 3:48 | 2023-12-15 | 2024-01-27 |
 | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU) | 3:10 | 2023-12-08 | 2024-11-23 |
 | [snow globe on an alien's desk](https://open.spotify.com/track/6mMnpEBAhOovSKHVSc34V2) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [snow globe on an alien's desk](https://open.spotify.com/album/2mVWhUdGshgfvKau9tBAbx) | 2:58 | 2024-12-06 |  |

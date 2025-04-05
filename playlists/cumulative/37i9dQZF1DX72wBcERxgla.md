@@ -4,7 +4,7 @@
 
 > Jazz piano to accompany your reading.
 
-659 songs - 1 day 9 hr 31 min
+660 songs - 1 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [A Gentle Dance](https://open.spotify.com/track/0XRh40ZrxLXDEONZywjexP) | [Joe M\. Key](https://open.spotify.com/artist/6u5JdEH2gZlzRb2HfVa9Km) | [A Gentle Dance](https://open.spotify.com/album/1gzd7kZ4kZji630lABbjIQ) | 2:31 | 2023-11-17 | 2024-05-11 |
 | [A Gold Mine](https://open.spotify.com/track/35fRFE9tuodu0faHKmMStZ) | [Gottfried Barber](https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl) | [A Gold Mine](https://open.spotify.com/album/3bwxkMrG2hvk8b5FkXLQ02) | 2:39 | 2023-06-08 | 2025-03-11 |
 | [A Late Night with You](https://open.spotify.com/track/3a5DekwxMBUiKVntPzfFd3) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [A Late Night with You](https://open.spotify.com/album/0sxeCduFqJfGdVNHeX6qlo) | 3:01 | 2024-10-01 | 2025-01-08 |
-| [A Lonely Night](https://open.spotify.com/track/50GbbtL8jgX9onuAuqC3Up) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [A Lonely Night](https://open.spotify.com/album/4hKp0boyi5APIQuQ1Rh9kj) | 2:08 | 2022-11-17 |  |
+| [A Lonely Night](https://open.spotify.com/track/50GbbtL8jgX9onuAuqC3Up) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [A Lonely Night](https://open.spotify.com/album/4hKp0boyi5APIQuQ1Rh9kj) | 2:08 | 2022-11-17 | 2025-04-05 |
 | [A Love Letter](https://open.spotify.com/track/5WYHkfV8ZIt9bMPLmSGnBr) | [Natalie Meir](https://open.spotify.com/artist/3olbeTBaHv78vZXeoDPq4B) | [A Love Letter](https://open.spotify.com/album/6JzplfUI6Epq8iYJX2LK0g) | 2:50 | 2023-12-15 |  |
 | [A Mellow Night](https://open.spotify.com/track/7L2uJOQvmiWtA3aRIeIeBS) | [Ron Bladworth](https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf) | [A Mellow Night](https://open.spotify.com/album/5aquPupDfFBxwkXBgVHgQc) | 2:37 | 2024-04-17 |  |
 | [A Mindful Moment](https://open.spotify.com/track/7oWQtD0ZfZmUnXyo6XIsFQ) | [Hveiti Brauo](https://open.spotify.com/artist/2O2JMN24QaUJRR2UlnjULK) | [A Mindful Moment](https://open.spotify.com/album/6dnfV1Lk19yyry1OIZDtlQ) | 3:41 | 2025-02-03 |  |
@@ -81,7 +81,7 @@
 | [Blue Midnight](https://open.spotify.com/track/3wb4QQWD4UBZHSGUEPMX86) | [Quinn Harrington](https://open.spotify.com/artist/5D5E3KJhdrPoOEKfLJ8qk4) | [Blue Midnight](https://open.spotify.com/album/78c6w6eBuP9tdzODxi1SvQ) | 2:26 | 2023-12-08 |  |
 | [Blue Moon](https://open.spotify.com/track/5Ej5z9hWIlNED6HkPT8l2f) | [Shandra Lewis](https://open.spotify.com/artist/6us9lDOOSG2BnBlkWkVO2B) | [Blue Moon](https://open.spotify.com/album/1wJEnxsA2azshg6xkLxZ3D) | 2:43 | 2023-01-05 | 2024-12-10 |
 | [Blue Notes in the Afternoon](https://open.spotify.com/track/3Crsc0HeZX63iFyyDZUNHL) | [Jacob Vidal](https://open.spotify.com/artist/5Y4PsWZn9dgQgZkVAT02sZ) | [Blue Notes in the Afternoon](https://open.spotify.com/album/0fRdNpsQzDIqfDcWrlbagH) | 2:27 | 2023-05-25 |  |
-| [Blue Room](https://open.spotify.com/track/0oLNhSMVdZalsr7xuCVTdI) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [Blue Room](https://open.spotify.com/album/3tBBW0KtRVyVYyAcFvXuwS) | 2:36 | 2024-05-23 |  |
+| [Blue Room](https://open.spotify.com/track/0oLNhSMVdZalsr7xuCVTdI) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [Blue Room](https://open.spotify.com/album/3tBBW0KtRVyVYyAcFvXuwS) | 2:36 | 2024-05-23 | 2025-04-05 |
 | [Bluefields](https://open.spotify.com/track/6nu2ROe5UnrkIzmETZ6iOI) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [Bluefields](https://open.spotify.com/album/3h0NL1GvknCr2Ib0MOqLrV) | 2:47 | 2024-06-04 | 2024-12-10 |
 | [Bluesette](https://open.spotify.com/track/0wnOuJclpacVenVngRphVW) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Bluesette](https://open.spotify.com/album/34Zn2v3e4Yo2u1lvfsPXBw) | 2:47 | 2022-06-14 | 2024-06-28 |
 | [Body & Soul](https://open.spotify.com/track/4zvVf1nFhfoJi7m9z2fcHf) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Body & Soul](https://open.spotify.com/album/6u7K7LsdKXQlMiObSN8JT2) | 4:44 | 2022-04-12 | 2022-05-04 |
@@ -162,6 +162,7 @@
 | [Entitled to it](https://open.spotify.com/track/0bwStnI8IMa1wFwC7yvufp) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Entitled to it](https://open.spotify.com/album/1sOY5lgk4il7M6zCOK0Dit) | 3:27 | 2023-06-08 |  |
 | [Esperanza Brillante](https://open.spotify.com/track/6hlQU2W28HuP77MFqXcl0k) | [Palm Mgwire](https://open.spotify.com/artist/3kB4uwSDLzsPxnJMQtvC1f) | [Esperanza Brillante](https://open.spotify.com/album/6CPDn34IaIzFB4Np0lnfjU) | 3:00 | 2024-05-23 | 2025-03-25 |
 | [Evening Silence](https://open.spotify.com/track/0Rf7mzOsDoMDVVGOeLIr9r) | [Dylan McFerrin](https://open.spotify.com/artist/2u2yE1h7hm3GT561nJL4rS) | [Pretty Are Your Eyes](https://open.spotify.com/album/6oTeiJZ9MS3xbvul8mW3NE) | 4:04 | 2022-08-10 | 2024-11-19 |
+| [Evening Stillness](https://open.spotify.com/track/5WEjTSODeUsYMsQVEHBs1E) | [John Bülow](https://open.spotify.com/artist/4OEyfZj87mjPEIZWQZITep) | [Evening Stillness](https://open.spotify.com/album/21ilrSeAMjosU30MpOoa0v) | 3:18 | 2025-04-04 |  |
 | [Eventide](https://open.spotify.com/track/7nO04XqvyNvkTtaUcgoPas) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Eventide](https://open.spotify.com/album/5rGNwZOi7HmnCVQlpes1bp) | 2:35 | 2022-04-12 |  |
 | [Everlasting Road](https://open.spotify.com/track/1dsECyS1CcES7lUyEsb5vm) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Everlasting Road](https://open.spotify.com/album/6tHUGPe4CbFQQMAtEi9Nuy) | 3:37 | 2022-08-10 |  |
 | [Evermore Street](https://open.spotify.com/track/4D5p92Sg5NATIW22l1msgN) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Evermore Street](https://open.spotify.com/album/1FOjdvtbdxKAAqB3FQ5Jg2) | 3:19 | 2023-02-02 | 2024-07-23 |
@@ -250,7 +251,7 @@
 | [I Should Care](https://open.spotify.com/track/7N1MFr0xi5jt2KRwxitROp) | [Jean Fines](https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7) | [I Should Care](https://open.spotify.com/album/0t76ZydmDChji48Ry6pvGN) | 4:24 | 2022-04-12 |  |
 | [I Thought About You](https://open.spotify.com/track/14wxDY2TOvVXXuWpRDDJ8f) | [Thierry Marchal](https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp) | [I Thought About You](https://open.spotify.com/album/5SSTz0UA3HPFZxJVcmIlka) | 3:38 | 2022-04-12 | 2022-12-02 |
 | [I'd Never Lie to You](https://open.spotify.com/track/3js7K5ccTY41JFjFjHToeA) | [Karl\-Erik](https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4) | [I'd Never Lie to You](https://open.spotify.com/album/7dDDmbvO3WZWZ3gyhQVqiw) | 2:33 | 2023-03-16 |  |
-| [I'll Be Seeing You](https://open.spotify.com/track/1nDdCstJ1Mz8eRiyHhr5pS) | [Chuck Ingels](https://open.spotify.com/artist/4CzMpvvFF26btXNUocepwY) | [I'll Be Seeing You](https://open.spotify.com/album/1K1bl5LvmHA4KAIhev8p0R) | 3:30 | 2022-04-12 |  |
+| [I'll Be Seeing You](https://open.spotify.com/track/1nDdCstJ1Mz8eRiyHhr5pS) | [Chuck Ingels](https://open.spotify.com/artist/4CzMpvvFF26btXNUocepwY) | [I'll Be Seeing You](https://open.spotify.com/album/1K1bl5LvmHA4KAIhev8p0R) | 3:30 | 2022-04-12 | 2025-04-05 |
 | [I'll Never Be The Same](https://open.spotify.com/track/6zmqdPkbV4fn9IhWvoLPNY) | [Algot Aelster](https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP) | [I'll Never Be The Same](https://open.spotify.com/album/40pvocPd4gZdOefaiJ0PUg) | 2:27 | 2023-08-17 | 2024-11-06 |
 | [I'll Remember April](https://open.spotify.com/track/508qW9dDv9pTh85XgQm9Xp) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [I'll Remember April](https://open.spotify.com/album/7dEMSjL7qPpzPZFCriPLZv) | 3:23 | 2023-09-29 | 2024-04-11 |
 | [I'll Take Romance](https://open.spotify.com/track/2OtiBmNGQaogw2iymAmTS4) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [I'll Take Romance](https://open.spotify.com/album/1lWwiRXgfCqxYlFd0T7SWq) | 3:09 | 2022-10-06 | 2023-08-11 |

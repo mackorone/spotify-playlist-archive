@@ -2,9 +2,9 @@
 
 ### [Spread the Gospel](https://open.spotify.com/playlist/37i9dQZF1DWUMIjnZuaulx)
 
-> Spread the Good News with the best Gospel songs of the moment\. Cover: JJ Hairston
+> Spread the Good News with the best Gospel songs of the moment\. Cover: Donald Lawrence
 
-652 songs - 2 day 7 hr 48 min
+653 songs - 2 day 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Done It For Me](https://open.spotify.com/track/0D05cnjGXNHVRDdeNGYubI) | [Josh Copeland](https://open.spotify.com/artist/03g32kjZ1CsP35h9HYPesz) | [Done It For Me](https://open.spotify.com/album/3gHHdq3vociqzqFllMMFdU) | 3:22 | 2022-08-05 | 2023-07-29 |
 | [Double \- Live](https://open.spotify.com/track/0PxJd6rpPasL8Lhu98EWr1) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [Double \(Live\)](https://open.spotify.com/album/34WLAUHcSwO8kdWUIuGAFE) | 4:51 | 2025-01-10 | 2025-03-22 |
 | [Down At The Cross \- Live](https://open.spotify.com/track/6ajT3LyPHVRNwUc4KbG4Wx) | [Bishop Leonard Scott](https://open.spotify.com/artist/5hBHhFHuxrQ5CjjTBTRChW) | [Down At The Cross \(Live\)](https://open.spotify.com/album/2YpgSl5innS5tnnqLBekhn) | 3:58 | 2023-03-24 | 2023-08-26 |
+| [El Shaddai](https://open.spotify.com/track/1HhdoW0N0SwJeq6m7SvME8) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l), [Rodney Posey](https://open.spotify.com/artist/7fEq8LFbuLfmDMVfQDoZQr) | [El Shaddai](https://open.spotify.com/album/264N2Ft0NXF0kX0YHWE2XC) | 6:04 | 2025-04-04 |  |
 | [Emmanuel, You Are Worthy \- Live](https://open.spotify.com/track/6lwmO3vmw1ok9jRS44WvVB) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Emmanuel, You Are Worthy](https://open.spotify.com/album/3LvgLk0irfEjTC0q8TO0t2) | 5:15 | 2023-11-17 | 2025-03-15 |
 | [Empowered 2 Impact](https://open.spotify.com/track/1IllKEACnf7TuHfjJiGnit) | [Strong Tower Church](https://open.spotify.com/artist/3qDZxE0fAVLrcb6NDWYd85), [Freddy Rodriguez](https://open.spotify.com/artist/2UpMh5qbBdfwKpQALaGPsD) | [“Waves” Fresh Wind New Waves](https://open.spotify.com/album/6K4hYZknIx3l7mxBXbAi4p) | 3:52 | 2022-02-18 | 2022-10-30 |
 | [Even If](https://open.spotify.com/track/1CdGYditK1Cg4QJrOQ1Zch) | [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV) | [Even If](https://open.spotify.com/album/7eOcKC8P9RRenLLRUWREJA) | 5:48 | 2023-09-22 | 2024-01-27 |
@@ -625,7 +626,7 @@
 | [Witness \(Live\)](https://open.spotify.com/track/53aiBMhVOXiS01zVGcuzPF) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Cristabel Clack](https://open.spotify.com/artist/56Yt4ZJKPJohGDQmn32w4Y) | [Worship Anywhere: Live from Camp NewBreed](https://open.spotify.com/album/5BCKzBSDLSpS7RHBgmgExp) | 11:04 | 2022-10-07 | 2023-11-18 |
 | [Wonder](https://open.spotify.com/track/6JGqjW8KB1mNtife0Fmm0j) | [Emoni Wilkins](https://open.spotify.com/artist/5SGi9yykBsq5MH6l3S31rT) | [Wonder](https://open.spotify.com/album/6d8rKSndxUj1HbNwQPq8Bn) | 3:20 | 2024-08-02 |  |
 | [Wonder \(feat\. Le'Andria Johnson\)](https://open.spotify.com/track/48NBwJuiWaieFw8R5W3odZ) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Oil + Water](https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX) | 4:03 | 2022-02-18 | 2022-04-16 |
-| [Words](https://open.spotify.com/track/1EilCjxsF1Ln8E7tZUiDN7) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l) | [Words](https://open.spotify.com/album/4uMK82fB1ZxIjeMXNCBHDe) | 6:42 | 2024-07-27 |  |
+| [Words](https://open.spotify.com/track/1EilCjxsF1Ln8E7tZUiDN7) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l) | [Words](https://open.spotify.com/album/4uMK82fB1ZxIjeMXNCBHDe) | 6:42 | 2024-07-27 | 2025-04-05 |
 | [Work It Out For Me \- Live Radio Edit](https://open.spotify.com/track/6l4wCVsYLumb6Q7krt951g) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Work It Out For Me \(Live Radio Edit\)](https://open.spotify.com/album/6Vla4b1VTVJdGJegThCul8) | 3:49 | 2025-03-28 |  |
 | [Work Together](https://open.spotify.com/track/62RFU3SmRioXtOLWx12pbN) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [Work Together](https://open.spotify.com/album/4yQF1DNd0d3iBGiIBZ1ZGR) | 5:30 | 2023-06-23 | 2023-07-22 |
 | [Working for Me](https://open.spotify.com/track/0dPUeGCcQuTHh3UfcOEd9w) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Working for Me](https://open.spotify.com/album/2fdWNV0F4IDfreIwgMIC7W) | 4:35 | 2024-06-21 | 2024-09-07 |

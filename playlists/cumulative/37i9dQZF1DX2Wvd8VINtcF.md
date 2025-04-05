@@ -4,7 +4,7 @@
 
 > pearl of the week \- 2hollis!
 
-1,784 songs - 4 day 0 hr 28 min
+1,785 songs - 4 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -907,6 +907,7 @@
 | [Leave Her](https://open.spotify.com/track/4AbYZMzeVqGE8Ys4wbI0PT) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Withering](https://open.spotify.com/album/1EX0HxNyID0uOOiKeYF9wG) | 2:44 | 2024-02-08 | 2024-04-19 |
 | [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 | 2023-12-08 | 2024-04-05 |
 | [Lego Ring](https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lego Ring](https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz) | 2:43 | 2024-01-11 | 2024-02-02 |
+| [Lessons](https://open.spotify.com/track/7dcNsaYCgtycbQYYPj5bao) | [Loaded Honey](https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB), [Lydia Kitto](https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA), [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Lessons](https://open.spotify.com/album/4C2gEjnKmczLeeYsPRGNzR) | 3:38 | 2025-04-04 |  |
 | [let go](https://open.spotify.com/track/3ssrhnGBzysMW1aMPqqNfr) | [Alex Hagen](https://open.spotify.com/artist/7qZBzygfPUSIn3VAO1QybW) | [let go](https://open.spotify.com/album/4oVe1PQYnwwNhu3duCkWHP) | 2:41 | 2024-12-05 | 2025-01-03 |
 | [Let Go / I'm Fresh](https://open.spotify.com/track/4rcu1W1it83gp3xahJ7pIi) | [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f), [JJ](https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR), [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee) | [Let Go / I'm Fresh](https://open.spotify.com/album/1ZWiS4FLm40D56GyfnINw5) | 3:09 | 2024-05-08 | 2024-07-27 |
 | [Let It Hurt](https://open.spotify.com/track/0L6zAsIMoNEdNfdh0gNPRy) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU) | [Let It Hurt](https://open.spotify.com/album/4hQPmvPZa9falGTfL5DCqq) | 2:28 | 2025-02-06 | 2025-03-14 |

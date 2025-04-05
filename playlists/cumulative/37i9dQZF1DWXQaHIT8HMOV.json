@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "Anjayanya",
+        "url": "https://open.spotify.com/album/12eJRG4tmHrLJboam9FBDU"
+      },
+      "artists": [
+        {
+          "name": "Oma Afrikana",
+          "url": "https://open.spotify.com/artist/2MNJ24DxS2KBO0hrohGLaf"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153652,
+      "name": "Anjayanya",
+      "url": "https://open.spotify.com/track/436kcsM2rr9qgYVUCau82j"
+    },
+    {
+      "album": {
         "name": "Ata Nte",
         "url": "https://open.spotify.com/album/2JFeqaadtqaw0bqDr08i0Z"
       },
@@ -1674,7 +1692,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 182307,
       "name": "Come close (Original)",
       "url": "https://open.spotify.com/track/0PzIqwL3WC6Slq3vThdvWT"
@@ -2516,6 +2534,28 @@
       "duration_ms": 210000,
       "name": "Follow",
       "url": "https://open.spotify.com/track/399mVb63j9nI8lb1A4TQRB"
+    },
+    {
+      "album": {
+        "name": "Forget Him",
+        "url": "https://open.spotify.com/album/7oc4roy95A4HwUFrVcptRS"
+      },
+      "artists": [
+        {
+          "name": "Tungi 256",
+          "url": "https://open.spotify.com/artist/43EG4QtCw8bydahlorUJaR"
+        },
+        {
+          "name": "The Mith",
+          "url": "https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188133,
+      "name": "Forget Him",
+      "url": "https://open.spotify.com/track/1uH1hH7oVFvLh2hR6AyhSi"
     },
     {
       "album": {
@@ -4529,6 +4569,32 @@
     },
     {
       "album": {
+        "name": "Nakwesa",
+        "url": "https://open.spotify.com/album/3aaZflhePU3TQ9yJLWemMx"
+      },
+      "artists": [
+        {
+          "name": "Me.Com",
+          "url": "https://open.spotify.com/artist/2oXoXcscxWY7tIclbo4pMZ"
+        },
+        {
+          "name": "Weasel",
+          "url": "https://open.spotify.com/artist/6bbBW2Vzm66qGixSATiwJs"
+        },
+        {
+          "name": "Radio",
+          "url": "https://open.spotify.com/artist/1Nl7dchhFHHaH2rh68hkGw"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180684,
+      "name": "Nakwesa",
+      "url": "https://open.spotify.com/track/4yStnp5uSyVKSV1oSCQQvs"
+    },
+    {
+      "album": {
         "name": "Nali Nkukola",
         "url": "https://open.spotify.com/album/2k5ZuMsqv1i0swDHDAEYFt"
       },
@@ -4540,7 +4606,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 148000,
       "name": "Nali Nkukola",
       "url": "https://open.spotify.com/track/4Tr0FHmjVG5l7IhKfoHdIW"
@@ -6806,7 +6872,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 85726,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/7zPzWT3WjSqszmpS54pUUa"

@@ -4,7 +4,7 @@
 
 > late night vibes – notifications off.
 
-192 songs - 8 hr 55 min
+195 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Dirt On Me](https://open.spotify.com/track/66GaA5IRIJ9guOipFGuwAC) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [NiiGHTBEFORESERVICE](https://open.spotify.com/album/3Z78nNMXYqQ6HDaRZ8YaxZ) | 2:58 | 2024-07-05 |  |
 | [Distant](https://open.spotify.com/track/1IfzkSkbzqAoEgO1u2EoYN) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Distant](https://open.spotify.com/album/5BvR9YLTPvdEfAB6RuJMFc) | 3:52 | 2024-02-20 | 2025-03-08 |
 | [DIVA](https://open.spotify.com/track/1cv5SZwknENyRdD1GKAAwz) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [DIVA](https://open.spotify.com/album/0OjWVtjpB8khmxN7jKbiXZ) | 2:36 | 2024-05-10 | 2024-10-19 |
-| [DNDrnb / Growth](https://open.spotify.com/track/5rBc6vhCNjsymx6q7hYSX4) | [TYuS](https://open.spotify.com/artist/5J7URjIP8aFmeSn2QwF9Au) | [DNDrnb / Growth](https://open.spotify.com/album/089owlvV7enapyEdE4ff3M) | 3:08 | 2024-02-02 |  |
+| [DNDrnb / Growth](https://open.spotify.com/track/5rBc6vhCNjsymx6q7hYSX4) | [TYuS](https://open.spotify.com/artist/5J7URjIP8aFmeSn2QwF9Au) | [DNDrnb / Growth](https://open.spotify.com/album/089owlvV7enapyEdE4ff3M) | 3:08 | 2024-02-02 | 2025-04-05 |
 | [DnL](https://open.spotify.com/track/2yNYaq9FooEgo71ffsqqUD) | [Dimi](https://open.spotify.com/artist/5XZBEzJ9W4UvHVJ5jFD4LY), [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [DnL](https://open.spotify.com/album/3j5LN7ajbXLwYIFWKcH4lM) | 4:00 | 2024-04-05 | 2024-07-06 |
 | [DONT\_SAY](https://open.spotify.com/track/4pD2U2Y4G55IqScpSb04b0) | [alan vuong](https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8) | [STORY OF ARCHIVES](https://open.spotify.com/album/72fjCMiyt17pTcle383Wpg) | 2:53 | 2024-08-30 |  |
 | [Dopamine](https://open.spotify.com/track/1MuSaxhOeNsFXdftnS5Ldc) | [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [Dopamine](https://open.spotify.com/album/05hmev84ZOX3Bfrl6D0bGC) | 2:37 | 2024-05-17 |  |
@@ -84,6 +84,7 @@
 | [hard feelings](https://open.spotify.com/track/37cYXXzlmUXnjuSZ2DqhPY) | [Essiyas](https://open.spotify.com/artist/09QOTdywNrZkFw4SYXf71t) | [hard feelings](https://open.spotify.com/album/4PaQ1RBPRa40qqV5FVmJsD) | 2:23 | 2024-10-18 |  |
 | [Her Way](https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:36 | 2024-02-02 |  |
 | [Here Now](https://open.spotify.com/track/7pL8Abg7AAMFu66W3etmAy) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Here Now](https://open.spotify.com/album/2dn3rbVDA051YrJkDci1xl) | 2:22 | 2024-04-26 |  |
+| [Hesitation \(with Karri\)](https://open.spotify.com/track/7zvnKUsXJ15zvxRMAu3AHG) | [Joe Kay](https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk), [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [If Not Now, Then When?](https://open.spotify.com/album/44xMXoHoFn1lHW1arzLonH) | 2:48 | 2025-04-04 |  |
 | [Hold Still](https://open.spotify.com/track/1PzAY3nwLxJ1pc27ceNFTj) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Hold Still](https://open.spotify.com/album/0MgpMLfL1RdVqZWztwKu06) | 2:49 | 2024-10-25 |  |
 | [honda civic '98](https://open.spotify.com/track/1ztPf79mbGpktO7TjB7tWW) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [It'll Be Fine](https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr) | 3:07 | 2024-02-02 |  |
 | [how it goes](https://open.spotify.com/track/2JYWmiS6iCpCNsutMd15uk) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [introspect](https://open.spotify.com/album/3xzJf3uPFu9X0hbXHaRE8u) | 3:28 | 2025-01-24 |  |
@@ -109,6 +110,7 @@
 | [Love Sick](https://open.spotify.com/track/1G6NXKZ8hslD7ATqhIGZKJ) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Love Sick](https://open.spotify.com/album/7MggIppKYSPlh6TLQeLFjN) | 1:52 | 2024-06-28 | 2024-10-19 |
 | [M a k e I t T o T h e M o r n i n g](https://open.spotify.com/track/12VH4g5pTMZmrUVzfJq7F7) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 2:48 | 2024-10-18 |  |
 | [Make You Mine](https://open.spotify.com/track/7BFxrSduKzrgkZP8Sg0r5i) | [Isco Cruz](https://open.spotify.com/artist/3SUjoT9mCuAOBjAYVtzB9b) | [MYM / Fantasies](https://open.spotify.com/album/4UkUdp6JTJfURZKQIUOapL) | 2:30 | 2025-03-21 |  |
+| [Maybe](https://open.spotify.com/track/0wQgERNEc2XoxpZSf3o2OK) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [Maybe](https://open.spotify.com/album/5yquxQivgSO3WYJAQWP4bn) | 2:59 | 2025-04-04 |  |
 | [Middle of The Night](https://open.spotify.com/track/4AWNGXhcT1eQhEajvO6yZl) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Middle of The Night](https://open.spotify.com/album/3JZIOJUYGiJ6tKhx80UW7X) | 2:12 | 2024-10-25 |  |
 | [Modern Day Suicide](https://open.spotify.com/track/6WxI6JUpelxYijiEh6O9Ra) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:31 | 2024-11-15 |  |
 | [MORE THAN SORRY](https://open.spotify.com/track/1PPU73L2zCaInN9gZgWl0p) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [STREETS SAY YOU MISS ME](https://open.spotify.com/album/3z1Cfd5yKzigwSGPrWBmKH) | 2:30 | 2024-03-29 |  |
@@ -162,6 +164,7 @@
 | [SPIDER\-MAN SUPERMAN](https://open.spotify.com/track/4GqhG9rDuRUoNyDSMJ0Brq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:23 | 2025-02-14 |  |
 | [stasis](https://open.spotify.com/track/2GkcJZGxfxSw0vaQnnJzdi) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [introspect](https://open.spotify.com/album/3xzJf3uPFu9X0hbXHaRE8u) | 3:27 | 2025-01-24 |  |
 | [Stay Gold](https://open.spotify.com/track/4bpuF6xenrFjMLA9tfKuc7) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:37 | 2024-04-05 |  |
+| [Stay With Me](https://open.spotify.com/track/56Ac1BrsemrOOqqC9Zkysb) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Stay With Me](https://open.spotify.com/album/1Z8nPCiVOjdyOq6mWon9fl) | 3:04 | 2025-04-04 |  |
 | [story to TELL](https://open.spotify.com/track/1mTa2MvvpFPDMs7Ed0EpNZ) | [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG), [dim.](https://open.spotify.com/artist/6gu1kyhltIYnwqWIEjO5Jy) | [story to TELL](https://open.spotify.com/album/3MIx3qRkqB9SEP4EXu21p9) | 2:03 | 2024-10-25 |  |
 | [Superficial](https://open.spotify.com/track/3qGpf4fDQxXl8rPQ52LtB9) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Superficial](https://open.spotify.com/album/1kuIqGJ1FD8GF8oJgTI2zK) | 2:14 | 2024-02-02 | 2025-03-08 |
 | [tell em](https://open.spotify.com/track/2gtkWGSTSsB2KcUsff6t5A) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [tell em / time flies](https://open.spotify.com/album/5ZNxP2stKHm1YvNz7ONQC4) | 2:38 | 2025-01-24 |  |
@@ -191,14 +194,14 @@
 | [What You Heard](https://open.spotify.com/track/3a3dQOO19moXPeTt2PomoT) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [What You Heard](https://open.spotify.com/album/10WCcQKzXZot04kzENu62Z) | 3:58 | 2024-02-02 |  |
 | [White Tee \(with NO1\-NOAH\)](https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:31 | 2024-02-02 | 2024-10-19 |
 | [Why Lie](https://open.spotify.com/track/37LKILFccnzABdLtAOrglY) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Why Lie](https://open.spotify.com/album/32a37XMqaUjYwzcroBmHie) | 2:40 | 2024-02-16 |  |
-| [Without Me \(MajorStage Original\)](https://open.spotify.com/track/4sTKQ9YjcmrxJ0823U6jAf) | [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P), [MajorStage](https://open.spotify.com/artist/3H3bgktdv4JjIrdl9py6CI) | [Without Me \(MajorStage Original\)](https://open.spotify.com/album/4IFNhEyH8siGkv2AlT8R2L) | 2:21 | 2024-04-05 |  |
+| [Without Me \(MajorStage Original\)](https://open.spotify.com/track/4sTKQ9YjcmrxJ0823U6jAf) | [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P), [MajorStage](https://open.spotify.com/artist/3H3bgktdv4JjIrdl9py6CI) | [Without Me \(MajorStage Original\)](https://open.spotify.com/album/4IFNhEyH8siGkv2AlT8R2L) | 2:21 | 2024-04-05 | 2025-04-05 |
 | [Without You](https://open.spotify.com/track/6G9w78ki4mR3AxvAwjsZFq) | [Spooky Black](https://open.spotify.com/artist/62TFj06qes00QmQuKmK7c2), [Corbin](https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff) | [Without You](https://open.spotify.com/album/2HdjmnNEQ3T0MUj2kT59nP) | 5:03 | 2025-01-17 |  |
 | [worst behaviour](https://open.spotify.com/track/5EQHN6tBq72rJxHhmGnDoJ) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [worst behaviour](https://open.spotify.com/album/1QDdD3BJIcadQhuWBnuGTh) | 2:58 | 2024-11-01 |  |
 | [wrestla'](https://open.spotify.com/track/54E9mPo0FwoIg4hdSZ5kvr) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [wrestla'](https://open.spotify.com/album/5jJ2NpIjt4AAfPCrSbFP16) | 1:34 | 2024-04-12 |  |
 | [WY@](https://open.spotify.com/track/3ria9Axw5mheRAOoP9bnof) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 3:27 | 2024-02-02 |  |
 | [YOLANDA](https://open.spotify.com/track/2JPyIUTaDhW8PRwMUbSaRo) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [THE STUNT\-MAN PACK](https://open.spotify.com/album/0aKetEKkhljx0ddNLwVq0B) | 2:51 | 2024-03-08 |  |
 | [You \(feat\. Travis Scott\)](https://open.spotify.com/track/4qS2KPWvsQzLvRa9oCHw41) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Life of a DON](https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ) | 3:33 | 2024-02-02 |  |
-| [You For Me](https://open.spotify.com/track/1vs8g4oyFhRe2a4IvrQRH2) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [You For Me](https://open.spotify.com/album/270lJPdEpBbZO1xB8akya0) | 2:42 | 2024-02-23 |  |
+| [You For Me](https://open.spotify.com/track/1vs8g4oyFhRe2a4IvrQRH2) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [You For Me](https://open.spotify.com/album/270lJPdEpBbZO1xB8akya0) | 2:42 | 2024-02-23 | 2025-04-05 |
 | [Zendaya](https://open.spotify.com/track/75IzEakZalALdkyNQLZbrk) | [Tailz.](https://open.spotify.com/artist/49ckNZa4dIW3UluuEW2EC1) | [Zendaya](https://open.spotify.com/album/4eewLAyGRqhvhSLqxjOw6k) | 3:05 | 2024-02-23 | 2025-03-22 |
 
 \*This playlist was first scraped on 2024-02-08. Prior content cannot be recovered.

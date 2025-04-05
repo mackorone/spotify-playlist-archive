@@ -748,7 +748,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 143076,
       "name": "Chimbita",
       "url": "https://open.spotify.com/track/0eq2EHPJVd3Ms8GdJXpxvj"
@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 136200,
       "name": "Dram\u00e1tico",
       "url": "https://open.spotify.com/track/7w10GRf6A5W0LpadkbCwj9"
@@ -1894,7 +1894,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 193939,
       "name": "GABBANA (feat. Jossie A)",
       "url": "https://open.spotify.com/track/1efPV8SwI6meDEXPNjZsOT"
@@ -4132,7 +4132,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-10",
+      "date_removed": null,
       "duration_ms": 180866,
       "name": "No Bailes Sola",
       "url": "https://open.spotify.com/track/1GNSWpe2SB30zYGbNTD96b"
@@ -4385,6 +4385,24 @@
     },
     {
       "album": {
+        "name": "Pa las girlas",
+        "url": "https://open.spotify.com/album/5BegWK4vnqGEb3XbLVXri9"
+      },
+      "artists": [
+        {
+          "name": "Mattei",
+          "url": "https://open.spotify.com/artist/29fkrV8IuMETQBv8PgC6Lw"
+        }
+      ],
+      "date_added": "2025-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150578,
+      "name": "Pa las girlas",
+      "url": "https://open.spotify.com/track/4ezjHDUjl9GyIs6BcezDDV"
+    },
+    {
+      "album": {
         "name": "Pa PRIVE",
         "url": "https://open.spotify.com/album/1NcSaHWDtxlB7VX3RbwKhS"
       },
@@ -4422,6 +4440,28 @@
       "duration_ms": 149600,
       "name": "Pa' Eso Se Hizo",
       "url": "https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe"
+    },
+    {
+      "album": {
+        "name": "Panas",
+        "url": "https://open.spotify.com/album/5HETiPl8SfoMxsQLRFoI1C"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "date_added": "2025-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247637,
+      "name": "Panas",
+      "url": "https://open.spotify.com/track/1ce0KvZOhRL0O6x1YYQPS8"
     },
     {
       "album": {
@@ -5776,6 +5816,28 @@
       "duration_ms": 142022,
       "name": "Soltera - W Sound 01",
       "url": "https://open.spotify.com/track/13BDiikG6y5o5cQTK0HpW6"
+    },
+    {
+      "album": {
+        "name": "Somos Panas",
+        "url": "https://open.spotify.com/album/2k10UwSV2bAOZ2jGsy5QYK"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        }
+      ],
+      "date_added": "2025-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164298,
+      "name": "Somos Panas",
+      "url": "https://open.spotify.com/track/2v0fcD72T9xXtKkLgtxtaF"
     },
     {
       "album": {

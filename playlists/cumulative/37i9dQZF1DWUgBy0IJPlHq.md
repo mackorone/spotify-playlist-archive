@@ -4,7 +4,7 @@
 
 > A new shade of Country\. Cover: Charley Crockett
 
-617 songs - 1 day 13 hr 39 min
+618 songs - 1 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,7 +388,7 @@
 | [Northwest](https://open.spotify.com/track/26XedTngu1tjJkwoHqQiC1) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Northwest](https://open.spotify.com/album/7sfdAh5oRQDPknCjqS3Eqt) | 4:45 | 2023-05-19 | 2024-11-16 |
 | [Nothing You Can Take From Me \(Boot\-Stompin' Version\) \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/4ck5SWSXlSUVHhYjq9Cb8L) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3), [The Covey Band](https://open.spotify.com/artist/4qH48Bc0oZ12M7TdGB7QVi) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:13 | 2023-12-01 |  |
 | [Numbers](https://open.spotify.com/track/1IcMEQNw8ZuXZtfLGnrKcq) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Among Other Things](https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V) | 4:28 | 2023-04-21 | 2024-05-11 |
-| [O.D.](https://open.spotify.com/track/2E6HksJPriDYu6thbR6xrV) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Til The Sun Goes Down](https://open.spotify.com/album/4hGNvSjAbNPDni4TS22HIM) | 2:49 | 2024-11-15 |  |
+| [O.D.](https://open.spotify.com/track/2E6HksJPriDYu6thbR6xrV) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Til The Sun Goes Down](https://open.spotify.com/album/4hGNvSjAbNPDni4TS22HIM) | 2:49 | 2024-11-15 | 2025-04-05 |
 | [Oklahoma Smokeshow](https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:31 | 2022-08-19 | 2023-04-15 |
 | [Old Before My Time](https://open.spotify.com/track/1QaFCynmvTvyipCwY8d2s0) | [Alex Williams](https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl) | [Old Before My Time](https://open.spotify.com/album/2x9OgHhWx59NIU7JV8iTd4) | 3:36 | 2022-10-07 | 2023-04-15 |
 | [Old Enough to Know](https://open.spotify.com/track/1vpiutisvVInbnpeVDkALo) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [You Hear Georgia](https://open.spotify.com/album/4RTNA0EiZA2ZXkJnX6mt7g) | 3:28 | 2021-12-17 | 2023-04-15 |
@@ -471,6 +471,7 @@
 | [Silver Valley](https://open.spotify.com/track/2FbPOBRlg3s36jfEC2vAGj) | [David Miner](https://open.spotify.com/artist/6VumpqEj917mn0DCQMUbGJ) | [Silver Valley](https://open.spotify.com/album/6N8JvTIcevgsOAcwwfmJWo) | 4:35 | 2021-12-17 | 2022-09-17 |
 | [Simple as Love](https://open.spotify.com/track/1eRGo8yog1epyUUgCU5FqP) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1) | [Simple as Love](https://open.spotify.com/album/3SlXj3EtW3P47fka4KouxP) | 3:27 | 2022-07-22 | 2022-08-13 |
 | [Small Town Hypocrite](https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Small Town Hypocrite](https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT) | 4:01 | 2021-12-17 | 2023-01-21 |
+| [Smoke & Embers](https://open.spotify.com/track/5YAzhZWJfVWHsUmtCqwy1o) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol), [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Smoke & Embers](https://open.spotify.com/album/0snVijVc3VmrYU74Uytk78) | 3:47 | 2025-04-04 |  |
 | [Sober Sundays](https://open.spotify.com/track/0RINbw97uN5KZ1BFprCNDj) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG), [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Sober Sundays](https://open.spotify.com/album/1UYX5uec1lJJMf01haehiZ) | 4:10 | 2024-07-26 |  |
 | [Social Skills](https://open.spotify.com/track/0O4ydjVdSxl8WeG3w8cltv) | [John Fullbright](https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA) | [Social Skills](https://open.spotify.com/album/6pQ5s6xzxHukAt8yWHxJWr) | 2:24 | 2022-09-16 | 2023-05-27 |
 | [Solitary Road](https://open.spotify.com/track/2nRcwYvF3RPx0rXTmRGHyc) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Solitary Road](https://open.spotify.com/album/4wHGvE8T3rOrUeUuY9iPoM) | 3:31 | 2024-04-05 | 2024-05-08 |

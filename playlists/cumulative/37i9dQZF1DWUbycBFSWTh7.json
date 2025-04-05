@@ -1631,6 +1631,24 @@
     },
     {
       "album": {
+        "name": "Directo Al Bolo",
+        "url": "https://open.spotify.com/album/5peJxSofL665XKj1UKS7p0"
+      },
+      "artists": [
+        {
+          "name": "ALOT",
+          "url": "https://open.spotify.com/artist/06lUobf6U97iIFl8BOzgEV"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206283,
+      "name": "Directo Al Bolo",
+      "url": "https://open.spotify.com/track/5bZsb1gIC3CW7FuDH4ZK3i"
+    },
+    {
+      "album": {
         "name": "Diving Into Minds",
         "url": "https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z"
       },
@@ -5910,7 +5928,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 418231,
       "name": "Organizm",
       "url": "https://open.spotify.com/track/0CcyE5bTugiDEW7GApGz50"
@@ -7042,6 +7060,28 @@
       "duration_ms": 474093,
       "name": "Silence & Secrets - Black Coffee Remix",
       "url": "https://open.spotify.com/track/3ZZDwhwD6ZsFQW0IGfiKrG"
+    },
+    {
+      "album": {
+        "name": "Since I Met You",
+        "url": "https://open.spotify.com/album/6b733yJEBcp07z6XSVLt9t"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        },
+        {
+          "name": "Michael Watford",
+          "url": "https://open.spotify.com/artist/2GHjnAZquwZobKJumvP8C0"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379480,
+      "name": "Since I Met You",
+      "url": "https://open.spotify.com/track/7mVWvF3XtZUANqETRKF4k1"
     },
     {
       "album": {
@@ -9584,7 +9624,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 334146,
       "name": "You Know it",
       "url": "https://open.spotify.com/track/6G929xj6f2gi7DhdvzzJP8"

@@ -4,7 +4,7 @@
 
 > 
 
-112 songs - 4 hr 33 min
+117 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [aruarian dance](https://open.spotify.com/track/4sUTagdmyuyAxd7RvbygpQ) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [samurai champloo music record departure](https://open.spotify.com/album/3uNaLrScYulpXLRmQquP9I) | 4:10 | 2025-03-25 |  |
 | [ATTACKING VERTICAL](https://open.spotify.com/track/1zDPYoaXTejmNtSaOBbPOd) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [REACTOR](https://open.spotify.com/album/0EuXXwAyrzBp9FFicvBfsp) | 1:55 | 2025-03-06 |  |
 | [BEAM!](https://open.spotify.com/track/6zjto41Jnk4HGIHucW5ime) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [BEAM!](https://open.spotify.com/album/3ydmXcIWr4aWdPYHLuEfqR) | 1:49 | 2025-01-05 |  |
+| [bi.](https://open.spotify.com/track/4SUmeADBziuSW4axIFIMtZ) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20.](https://open.spotify.com/album/3o6oXZHeHkBfpky4WgA4hn) | 2:30 | 2025-04-04 |  |
 | [Blur](https://open.spotify.com/track/1CBy3jD5S8MDEI1dRyvoiu) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 3:23 | 2025-03-11 |  |
 | [BOREDOM!](https://open.spotify.com/track/5dTAODGBAaEjfmyzaReN3Y) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH! \(B SIDE\)](https://open.spotify.com/album/3bifaBpAcdGzq6x5JirWw4) | 2:09 | 2024-12-06 |  |
 | [BRB!](https://open.spotify.com/track/4GosLecj1wCrAdmRBVD337) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [BRB!](https://open.spotify.com/album/0MA5nkZTEFn9tT4adIjfyX) | 2:53 | 2024-12-08 |  |
@@ -67,10 +68,13 @@
 | [JAMS!](https://open.spotify.com/track/3k7D5oH5H3W6he2Eah9Xc5) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [JAMS!](https://open.spotify.com/album/0LP2fZJno04gAR9bhraoZ6) | 1:44 | 2025-03-27 |  |
 | [KATAMARI](https://open.spotify.com/track/5iAE3uBqaZm9aHUx9yy6a0) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [KATAMARI](https://open.spotify.com/album/4qfXJdKTc2dvIfdlqytd2E) | 2:38 | 2025-03-05 |  |
 | [king](https://open.spotify.com/track/6lQJQI7UN4743fPR9vQjOI) | [clvrr!](https://open.spotify.com/artist/31YpVSTwYuizIoEyBJ8Yh9), [800pts](https://open.spotify.com/artist/36b2HS4EqRatnoeOwu1IeN), [sin](https://open.spotify.com/artist/4QxfUP9WMDIvnZ4UK2Osiu) | [November](https://open.spotify.com/album/7z65e4o5xTjfq1SUFQxAf6) | 2:22 | 2025-02-15 |  |
+| [kms.](https://open.spotify.com/track/0p6SOaPNDKyUGIBKzfqHaS) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20.](https://open.spotify.com/album/3o6oXZHeHkBfpky4WgA4hn) | 2:39 | 2025-04-04 |  |
 | [Kurxxed Emeraldz](https://open.spotify.com/track/01aBUgzGC5798sm3oPqhVs) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [Kurxxed Emeraldz](https://open.spotify.com/album/5GIlXalyhmqE6evZFuVazy) | 1:01 | 2024-12-31 |  |
 | [Leach](https://open.spotify.com/track/3pnw86Nzm1nLdX5w9ZeObP) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 3:49 | 2025-03-25 |  |
 | [Life In A Jar](https://open.spotify.com/track/4yaBfHHZbAb2nim1fP7cRV) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 3:42 | 2025-03-11 |  |
+| [Look At How Ur Bleeding](https://open.spotify.com/track/0LfQBk8YbKaEV3vhxQTMAw) | [CALDER](https://open.spotify.com/artist/3rfH5SRk6ekMfiBZ5KVYw9), [recycleBin](https://open.spotify.com/artist/1qB8BJOcuJuNQw0cPy5RZ2), [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [Look At How Ur Bleeding](https://open.spotify.com/album/5v2gGwDWevaDG1c3dnkRUt) | 1:58 | 2025-04-04 |  |
 | [Looking Out for You](https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3) | 2:59 | 2025-03-25 |  |
+| [louie.](https://open.spotify.com/track/3I6u3amsG234CMXf1hGrTy) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [louie.](https://open.spotify.com/album/4YxP3j9qf4IxfPl9HZgiaz) | 2:12 | 2025-04-04 |  |
 | [LOVESICK, CANNIBAL!](https://open.spotify.com/track/5uMqAjMDuOvz49JYNG8m8a) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [LOVESICK, CANNIBAL!](https://open.spotify.com/album/5S3m1mjGMYFFQrOvFl7Fng) | 1:56 | 2025-03-06 |  |
 | [MICROWAVE TEA!](https://open.spotify.com/track/2yVf0mR0duiGRNjRsxFMcR) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI), [Xo Dru](https://open.spotify.com/artist/3jh91hTsuN0i1Hx7sxeDNv) | [MWAH!](https://open.spotify.com/album/0bLqOyNF2wpsNLOMsRNbXW) | 2:07 | 2025-03-28 |  |
 | [MURDER EVERY 1 U KNOW!](https://open.spotify.com/track/17iGTeBSC6VtWESUk1YqYh) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180), [takihasdied](https://open.spotify.com/artist/78f6bSDCZQUs8wvPREBGLE) | [MURDER EVERY 1 U KNOW!](https://open.spotify.com/album/53J2OTEVQhPTRaA8qyNaLt) | 2:05 | 2025-03-06 |  |
@@ -113,6 +117,7 @@
 | [u ma type.](https://open.spotify.com/track/0fzMv0ui4hnVIVeeES6XhW) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [u ma type.](https://open.spotify.com/album/1lNXC5JsYet2b0Z7WHZLDp) | 1:47 | 2024-11-23 |  |
 | [U THOT U ATE?!](https://open.spotify.com/track/3EauqD9JtdI8inVBnIFUmv) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [U THOT U ATE?!](https://open.spotify.com/album/2frmSAOgvMAyEeRtKlWn8V) | 1:32 | 2024-12-06 |  |
 | [Warm Stay](https://open.spotify.com/track/0gKYihhcPJtiLoJnZFe3wk) | [Blossom](https://open.spotify.com/artist/3tLgC2hURdDjOQ5zheUW0R) | [Warm Stay](https://open.spotify.com/album/2wZYj9n81S3M2YwzbbzbQw) | 2:49 | 2025-03-11 |  |
+| [we aint frens no mo lol.](https://open.spotify.com/track/6T9vtNaDAZ0dAyuDqYMQI6) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20.](https://open.spotify.com/album/3o6oXZHeHkBfpky4WgA4hn) | 1:37 | 2025-04-04 |  |
 | [What I've Done](https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 3:25 | 2025-01-17 |  |
 | [WHAT?](https://open.spotify.com/track/6MIaCadFk3NxEuY7yCOJls) | [LITTLE 4N](https://open.spotify.com/artist/66sdClSxeLEamPlKTQcrbd) | [WHAT?](https://open.spotify.com/album/0nqOP9Duwfkl88PSOm68yC) | 1:57 | 2024-12-26 |  |
 | [why try?](https://open.spotify.com/track/4TaktbfwiMLBG8TI49Qi9o) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [why try?](https://open.spotify.com/album/4UnwglMgm3Slopx5HGDoJb) | 2:39 | 2025-01-16 |  |

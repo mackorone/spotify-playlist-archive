@@ -1187,6 +1187,28 @@
     },
     {
       "album": {
+        "name": "BUTTER BREAD",
+        "url": "https://open.spotify.com/album/6IjENtVmf4WU836bGcBWv0"
+      },
+      "artists": [
+        {
+          "name": "Close Counters",
+          "url": "https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY"
+        },
+        {
+          "name": "shiv",
+          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214269,
+      "name": "BUTTER BREAD",
+      "url": "https://open.spotify.com/track/2S4pfn4eZbyOLpJwy6T8kA"
+    },
+    {
+      "album": {
         "name": "Can't Stop Cryin'",
         "url": "https://open.spotify.com/album/0hL9VPzSao6NlX3aSEPkym"
       },
@@ -1482,7 +1504,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 218179,
       "name": "Changes",
       "url": "https://open.spotify.com/track/1eWpwmgJO9ZUINjCttvK4L"
@@ -3794,7 +3816,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 221217,
       "name": "Heartbeat Highway",
       "url": "https://open.spotify.com/track/2YbJ0qJ5uqOPfLGvqMLkaK"
@@ -4422,7 +4444,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 205395,
       "name": "If We Go Down",
       "url": "https://open.spotify.com/track/4mBlTWPWrz0VwqGR3ViQM3"
@@ -6209,6 +6231,32 @@
     },
     {
       "album": {
+        "name": "Fauxllennium (Japanese Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MQx9UktIiM86OYBZh1c4M"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        },
+        {
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+        },
+        {
+          "name": "Neggy Gemmy",
+          "url": "https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Monday, Monday",
+      "url": "https://open.spotify.com/track/14joz9oqnhYORgpKOmE0Aj"
+    },
+    {
+      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
       },
@@ -6856,7 +6904,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 210447,
       "name": "ode to rahsaan",
       "url": "https://open.spotify.com/track/2L6sbcKSPsXPW6x8lyiEsU"
@@ -8208,7 +8256,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-29",
+      "date_removed": null,
       "duration_ms": 203806,
       "name": "Shining",
       "url": "https://open.spotify.com/track/16XAvcjHPRbyKIjLU3g0NH"
@@ -9074,7 +9122,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-29",
+      "date_removed": null,
       "duration_ms": 165535,
       "name": "Sunshine in my Pocket - Sunset Version",
       "url": "https://open.spotify.com/track/4OkbaLuOTGAwQ4sybiBcve"

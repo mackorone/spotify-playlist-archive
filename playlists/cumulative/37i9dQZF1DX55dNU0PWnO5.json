@@ -2595,6 +2595,24 @@
     },
     {
       "album": {
+        "name": "Eclipse the Moon",
+        "url": "https://open.spotify.com/album/1HLQWCaeOjWfHfRYPmkoGu"
+      },
+      "artists": [
+        {
+          "name": "FKAjazz",
+          "url": "https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207760,
+      "name": "Eclipse the Moon",
+      "url": "https://open.spotify.com/track/0bvuAdxKXmf9FGA4vb37hK"
+    },
+    {
+      "album": {
         "name": "EEEEEE",
         "url": "https://open.spotify.com/album/2dk4jep9MfQytEnNhepL2k"
       },
@@ -5272,7 +5290,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 173520,
       "name": "No-One (K)new",
       "url": "https://open.spotify.com/track/54haHgocgHPec2TrAdjRmA"

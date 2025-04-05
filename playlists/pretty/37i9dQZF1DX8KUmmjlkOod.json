@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed no hay nostalgia, \u00a1se vino la pachanga!, y el <a href=\"spotify:user:spotify:playlist:37i9dQZF1DWT0pl0yubzJM\">Rock S\u00f3nico</a> tambi\u00e9n!",
-  "num_followers": 385061,
+  "num_followers": 385105,
   "original_name": "Los 90 Argentina",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
+        "name": "Circo Beat",
+        "url": "https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 222346,
+      "name": "Mariposa tecknicolor",
+      "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
         "name": "Canci\u00f3n Animal (Remastered)",
         "url": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 246693,
       "name": "Entre Can\u00edbales - Remasterizado 2007",
       "url": "https://open.spotify.com/track/0ePI3CMwhjRV3ZWas3gTU9"
-    },
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 161800,
-      "name": "La Muralla Verde",
-      "url": "https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -203,18 +203,18 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Circo Beat",
-        "url": "https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa"
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
       },
       "artists": [
         {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 222346,
-      "name": "Mariposa tecknicolor",
-      "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
+      "duration_ms": 161800,
+      "name": "La Muralla Verde",
+      "url": "https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Big Yuyo",
-        "url": "https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        }
-      ],
-      "duration_ms": 168133,
-      "name": "Waitin'",
-      "url": "https://open.spotify.com/track/6EjUn5quLcTVFBUGLGwGwA"
-    },
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
         "name": "Abre",
         "url": "https://open.spotify.com/album/4uOEHOabkf5hmv0ra14XJb"
       },
@@ -347,18 +331,34 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Coleccion Aniversario",
-        "url": "https://open.spotify.com/album/2KPLQ2qLxKlUj0ltGusgVc"
+        "name": "Big Yuyo",
+        "url": "https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi"
       },
       "artists": [
         {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
         }
       ],
-      "duration_ms": 223146,
-      "name": "Lamento Boliviano",
-      "url": "https://open.spotify.com/track/62FQCSvSUSG3m9uajVkvWe"
+      "duration_ms": 168133,
+      "name": "Waitin'",
+      "url": "https://open.spotify.com/track/6EjUn5quLcTVFBUGLGwGwA"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
+        "name": "Tratar De Estar Mejor",
+        "url": "https://open.spotify.com/album/4iq0kaBaXcV6YzgbuulMgj"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "Tratar de Estar Mejor",
+      "url": "https://open.spotify.com/track/0ylZTq7l4Oij4dHhu9at7n"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -379,18 +379,18 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Tratar De Estar Mejor",
-        "url": "https://open.spotify.com/album/4iq0kaBaXcV6YzgbuulMgj"
+        "name": "Coleccion Aniversario",
+        "url": "https://open.spotify.com/album/2KPLQ2qLxKlUj0ltGusgVc"
       },
       "artists": [
         {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 215360,
-      "name": "Tratar de Estar Mejor",
-      "url": "https://open.spotify.com/track/0ylZTq7l4Oij4dHhu9at7n"
+      "duration_ms": 223146,
+      "name": "Lamento Boliviano",
+      "url": "https://open.spotify.com/track/62FQCSvSUSG3m9uajVkvWe"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
+        "name": "El Amor Despu\u00e9s del Amor",
+        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 311893,
+      "name": "El amor despu\u00e9s del amor",
+      "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
         "name": "Acariciando Lo Aspero",
         "url": "https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 247800,
       "name": "P\u00e1rate Y Mira",
       "url": "https://open.spotify.com/track/0bhzdFuUaNH7QV3c2ZKGOK"
-    },
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
-        "name": "El Amor Despu\u00e9s del Amor",
-        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 311893,
-      "name": "El amor despu\u00e9s del amor",
-      "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -835,18 +835,18 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Cuarteteando",
-        "url": "https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN"
+        "name": "Amor Amarillo",
+        "url": "https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR"
       },
       "artists": [
         {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 261826,
-      "name": "Y Volo Volo",
-      "url": "https://open.spotify.com/track/1faBzm1I3IbISY15BWEWcT"
+      "duration_ms": 294106,
+      "name": "Pulsar",
+      "url": "https://open.spotify.com/track/1wKVB62P4Lmk7aI7GL2EXK"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -867,18 +867,18 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Amor Amarillo",
-        "url": "https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR"
+        "name": "Cuarteteando",
+        "url": "https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN"
       },
       "artists": [
         {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
         }
       ],
-      "duration_ms": 294106,
-      "name": "Pulsar",
-      "url": "https://open.spotify.com/track/1wKVB62P4Lmk7aI7GL2EXK"
+      "duration_ms": 261826,
+      "name": "Y Volo Volo",
+      "url": "https://open.spotify.com/track/1faBzm1I3IbISY15BWEWcT"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-06-12 23:23:10",
       "album": {
-        "name": "Mensajes Del Alma",
-        "url": "https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
-        }
-      ],
-      "duration_ms": 362240,
-      "name": "Los Salieris De Charly",
-      "url": "https://open.spotify.com/track/2Ur5w6pRsWBq5xnqiwhVgj"
-    },
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
         "name": "A 15 Cm De La Realidad",
         "url": "https://open.spotify.com/album/08Y1kgfEcH11p3hJopWslX"
       },
@@ -959,22 +943,6 @@
       "duration_ms": 232066,
       "name": "El Mono Relojero",
       "url": "https://open.spotify.com/track/2RpzktQlb1SZGJBdC6eNIC"
-    },
-    {
-      "added_at": "2024-06-12 23:23:10",
-      "album": {
-        "name": "La Era De La Boludez",
-        "url": "https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 398800,
-      "name": "El Arriero",
-      "url": "https://open.spotify.com/track/0iFZlkyFokkZq569S7NADx"
     },
     {
       "added_at": "2024-06-12 23:23:10",
@@ -1011,6 +979,38 @@
       "duration_ms": 283466,
       "name": "Tr\u00e1eme la Noche (Bring on the Night) (with Andy Summers)",
       "url": "https://open.spotify.com/track/0wMditvMpFP9aYzW3kDWnw"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
+        "name": "La Era De La Boludez",
+        "url": "https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 398800,
+      "name": "El Arriero",
+      "url": "https://open.spotify.com/track/0iFZlkyFokkZq569S7NADx"
+    },
+    {
+      "added_at": "2024-06-12 23:23:10",
+      "album": {
+        "name": "Mensajes Del Alma",
+        "url": "https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        }
+      ],
+      "duration_ms": 362240,
+      "name": "Los Salieris De Charly",
+      "url": "https://open.spotify.com/track/2Ur5w6pRsWBq5xnqiwhVgj"
     },
     {
       "added_at": "2024-06-12 23:23:10",

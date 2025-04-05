@@ -4,7 +4,7 @@
 
 > A levantar polvadera con lo mejor de la música de sax\. La Fiera de Ojinaga en portada.
 
-211 songs - 10 hr 41 min
+213 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [El Amor De Mi Vida](https://open.spotify.com/track/4WhJcfnu0CaLHcYJsX2Xmt) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj), [La Kumbre Con K](https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3) | [El Amor De Mi Vida](https://open.spotify.com/album/3C5Wvd1D40hoBJWGkfZeB4) | 3:06 | 2024-08-02 | 2025-02-01 |
 | [El Amor Se Fue \- En Vivo](https://open.spotify.com/track/1QKhEVwrAFLAJKfI86n2QC) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [¡Pescadores! Live, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/2jbf9MAVAauMttX0dw53cl) | 3:38 | 2023-05-19 | 2023-07-15 |
 | [El Clima](https://open.spotify.com/track/3ekdUF4cZDzsR87Orn3LyW) | [Adverzo](https://open.spotify.com/artist/0NMJh5gFRAkN5uUsCujlCV) | [El Clima](https://open.spotify.com/album/5uMshEH40InYCbjNrmnwat) | 2:58 | 2024-05-17 | 2025-02-01 |
-| [El Colesterol](https://open.spotify.com/track/2j8FWFwF1kvyGcdQwzMl3F) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4) | [Las Agüitas](https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD) | 2:56 | 2023-04-14 |  |
+| [El Colesterol](https://open.spotify.com/track/2j8FWFwF1kvyGcdQwzMl3F) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4) | [Las Agüitas](https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD) | 2:56 | 2023-04-14 | 2025-04-05 |
 | [El Condor Pasa](https://open.spotify.com/track/00mUyQ38B8S51x3cQhU5ia) | [Contrabandistas de San Luis](https://open.spotify.com/artist/36irJXhStqR2sPCOHed3Tb) | [El Condor Pasa](https://open.spotify.com/album/12y6dBQ2QCgP47vLw2sJjx) | 3:28 | 2023-03-06 |  |
 | [El Son del Cora](https://open.spotify.com/track/3mFfdpz27GjQhzuD2qhU8p) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9), [El Patrimonio De México](https://open.spotify.com/artist/6iW64lYKahegx6V67osAJc) | [El Son del Cora](https://open.spotify.com/album/4b9MiwhBfYUIRJb3JFNaCI) | 3:08 | 2024-09-27 | 2024-11-16 |
 | [El Son Del Tlacololero](https://open.spotify.com/track/1Z50xYPjSgJNjpyCWqroG8) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [El Son Del Tlacololero](https://open.spotify.com/album/2VodgjuB7AIhCUjftCaG2o) | 5:15 | 2023-03-06 |  |
@@ -172,6 +172,7 @@
 | [San Lucas](https://open.spotify.com/track/5aZubhYBTy6tWIbRZMxVbF) | [Exceso Norte](https://open.spotify.com/artist/49yiRwnTJyXf41PTI1Rouw) | [San Lucas](https://open.spotify.com/album/78LHb0YpQCcDNxsZ6DdN9I) | 2:48 | 2023-03-06 | 2023-07-29 |
 | [San Lucas](https://open.spotify.com/track/2lFhc7gAK3koo59b1Y0WpD) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Que nos Pasó?](https://open.spotify.com/album/4Xyck3G0D1Rw2jkYmhqF6E) | 2:39 | 2023-03-06 |  |
 | [San Lucas](https://open.spotify.com/track/7dMaqgQCxXnAmfHFRYXpNG) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Que Nos Paso?](https://open.spotify.com/album/4hvvrwkfzjZgePbesL0k6d) | 2:39 | 2024-03-01 | 2024-04-19 |
+| [Selfie](https://open.spotify.com/track/0oBnWqf8EmbZv9q4Bo5OEk) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Directo Al Corazón](https://open.spotify.com/album/2MjM2y9U7GXuJAEeiaQRRF) | 2:52 | 2025-04-04 |  |
 | [Si Existe Suerte](https://open.spotify.com/track/2WShPDykKypo53ok55nKyW) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [10.1 D\-K\-Da](https://open.spotify.com/album/1wZInWNMc0c7XDbUDdFZx0) | 2:20 | 2024-03-01 | 2024-03-30 |
 | [Si Existe Suerte](https://open.spotify.com/track/77vtWAnVWrbhESGinnsBzc) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [10.1 D\-K\-DA](https://open.spotify.com/album/2rc55hEZEZ1Ph62XdraTk0) | 2:20 | 2023-11-17 | 2024-03-20 |
 | [Si Te Pudiera Mentir](https://open.spotify.com/track/1nThd666DrTYTk1Fs9h3Lr) | [Retoños Del Rio](https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF) | [Se Abre el Telón](https://open.spotify.com/album/7gDU8W7H50vfNL4Dlw9MRt) | 3:09 | 2023-03-06 | 2023-11-18 |
@@ -186,7 +187,7 @@
 | [Stand By Me](https://open.spotify.com/track/1lctBYvNCptEvAHz7s1yLb) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [Las Fenix](https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY) | [Stand By Me](https://open.spotify.com/album/2k3VR0pvO9KcfUm6wxC28P) | 2:47 | 2023-03-06 | 2023-11-09 |
 | [Tarjeta Roja](https://open.spotify.com/track/7ao3kq0S5LsL6vWPj1tTM7) | [Geru y Su Legion 7](https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch) | [Tarjeta Roja](https://open.spotify.com/album/0DssIH6eBeziE3sX0LYjYa) | 2:21 | 2024-05-17 | 2024-10-12 |
 | [Te Esperaba](https://open.spotify.com/track/4JyrzxhbHpubC0kfdYkCNy) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Te Esperaba](https://open.spotify.com/album/6SVr0PyanOVn49lTKdlwGd) | 3:33 | 2024-03-01 | 2024-10-12 |
-| [Te Hice Mal](https://open.spotify.com/track/16RpBbmgnsraKlaSngEwmq) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Te Hice Mal](https://open.spotify.com/album/6QSWl8pogGdQSB6kt6YjrS) | 3:16 | 2025-01-31 |  |
+| [Te Hice Mal](https://open.spotify.com/track/16RpBbmgnsraKlaSngEwmq) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Te Hice Mal](https://open.spotify.com/album/6QSWl8pogGdQSB6kt6YjrS) | 3:16 | 2025-01-31 | 2025-04-05 |
 | [Te Quiero Mucho](https://open.spotify.com/track/5G5TAfojJWd6sMmHchXdQu) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb) | 3:23 | 2023-03-06 |  |
 | [Te Quiero Ver](https://open.spotify.com/track/0V4weTyspxyq2AI5OuWGx8) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Te Quiero Ver](https://open.spotify.com/album/7x6X9chpDQnoqpt8pX9yA8) | 2:49 | 2023-09-29 | 2024-08-03 |
 | [Te Vas a Acordar de Mi](https://open.spotify.com/track/5pdfnefsLnfBFo7gxHvqBK) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Boca Les Callamos, Vol\. 2](https://open.spotify.com/album/7EesU3azH6jPG5osiPex59) | 3:24 | 2023-03-06 |  |
@@ -203,6 +204,7 @@
 | [Ultimadamente](https://open.spotify.com/track/3RkTybs3IQ3B1hT8oF8RA5) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj), [La Descendencia De Rio Grande](https://open.spotify.com/artist/2XI6IohN7oiFjDjuItEtAd) | [Ultimadamente](https://open.spotify.com/album/5VU9pQh8es15ZejYaskMvE) | 2:43 | 2024-10-11 |  |
 | [Un Amor Bonito](https://open.spotify.com/track/3iHx3nXUC1cf3WRUr743P1) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Trilogía, Vol\. 2](https://open.spotify.com/album/2BqFIhmV8oZKVQGi8cidDc) | 2:37 | 2023-09-29 |  |
 | [Un Mujerón](https://open.spotify.com/track/6EdaW24zoFoIRegHCNH3WR) | [Grupo Los de Chiwas](https://open.spotify.com/artist/55UyMd1aJojv9xFEg5cLbR) | [Un Mujerón](https://open.spotify.com/album/6ranPfsbYdUzOmArJcVYer) | 2:04 | 2024-10-11 | 2025-01-18 |
+| [Vete de Una Vez](https://open.spotify.com/track/16bfA9balGcxcqKaPgnyjL) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Vete de Una Vez](https://open.spotify.com/album/2DjS0IvBE7rXCjGzVL1dvO) | 3:08 | 2025-04-04 |  |
 | [Vicio](https://open.spotify.com/track/52SbtvOGsw4RI8FkMH7udu) | [Adverzo](https://open.spotify.com/artist/0NMJh5gFRAkN5uUsCujlCV) | [Vicio](https://open.spotify.com/album/5i2uC3kpJdvOoo5VhpKlEv) | 3:06 | 2023-11-08 | 2024-04-19 |
 | [Volvamos a Empezar](https://open.spotify.com/track/5qdSF9c6H7Q42ukTSSe6F1) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Entre Compas y Canciones](https://open.spotify.com/album/26fFGqPpAOyAOEd1ZcIdD7) | 3:11 | 2024-05-17 | 2024-09-28 |
 | [Voy a Conquistarte](https://open.spotify.com/track/4wR1PmSCcxNMjP9koGWWd8) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [Voy a Conquistarte](https://open.spotify.com/album/5tb09wCXY5tZr1Xz6Obul4) | 3:18 | 2023-03-06 | 2024-04-19 |

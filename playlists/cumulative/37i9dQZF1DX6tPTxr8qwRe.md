@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: Ellise
+> Dark, hard hitting pop\. Cover: Hayes Warner
 
-862 songs - 1 day 15 hr 45 min
+866 songs - 1 day 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [B!TCH](https://open.spotify.com/track/2Nyv7f1EPb0orOAV358ipT) | [NIKI DEMAR](https://open.spotify.com/artist/6YsltkujF8WzkCRM9S5vy5) | [RUINED MY LIFE](https://open.spotify.com/album/3IN651OP5lN22mIlzqj9lt) | 2:59 | 2023-07-07 | 2023-12-16 |
 | [BABY DON'T BURN](https://open.spotify.com/track/73VT1cKHeq36m5Dt6N80jw) | [Kaila Hoy](https://open.spotify.com/artist/00BLADJUNhttdvRqZVfhBK), [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO) | [BABY DON'T BURN](https://open.spotify.com/album/2xjJcyNIXd42pFDjKmk3qu) | 3:03 | 2023-05-26 | 2023-08-05 |
 | [BABYDOLL](https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BABYDOLL](https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u) | 3:16 | 2022-03-28 | 2022-04-02 |
+| [babydoll](https://open.spotify.com/track/0tdTGvI5viFA9KAYXxsJ4o) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [babydoll](https://open.spotify.com/album/15en7QxCLo75Ik3uaZY7Qo) | 2:40 | 2025-04-04 |  |
 | [Back To Hell](https://open.spotify.com/track/0argBvpz23uO6hbnS0Z3Rc) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Live a Little Die a Lot](https://open.spotify.com/album/777Seg8Mc1blsN0SwnWu9l) | 4:07 | 2025-01-24 |  |
 | [BACKSTABBER](https://open.spotify.com/track/6b0eb25qUlz5M5ogTKZqbI) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [BACKSTABBER](https://open.spotify.com/album/0fbtesLIKCnxirweAZDhVs) | 3:12 | 2024-10-25 | 2025-01-11 |
 | [Backstabber](https://open.spotify.com/track/4GRFzKI7jTZ3kbMfouc7bn) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:06 | 2022-03-18 | 2022-05-28 |
@@ -147,7 +148,7 @@
 | [CAROUSEL](https://open.spotify.com/track/2oIwlCLMTmNm21n1V16phB) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [CAROUSEL](https://open.spotify.com/album/0cVhAl4V39EyqY9iSg1SVL) | 2:58 | 2022-03-25 | 2022-08-13 |
 | [Carsick.](https://open.spotify.com/track/4zLQaRBedzVlO1RgTizzOA) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Saint Rich.](https://open.spotify.com/album/1Jr7qnqpYyQKa0305wjNTP) | 3:33 | 2024-05-17 | 2024-07-13 |
 | [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 | 2022-01-28 | 2022-03-12 |
-| [Catatonic](https://open.spotify.com/track/496EwIE0cD8Wp6ylc6D9bH) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [The Death Of Daisies](https://open.spotify.com/album/4E6DCiAAURzas9udSwr5NG) | 2:42 | 2024-10-11 |  |
+| [Catatonic](https://open.spotify.com/track/496EwIE0cD8Wp6ylc6D9bH) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [The Death Of Daisies](https://open.spotify.com/album/4E6DCiAAURzas9udSwr5NG) | 2:42 | 2024-10-11 | 2025-04-05 |
 | [Celebrity Skin](https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Celebrity Skin](https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl) | 2:39 | 2022-02-25 | 2022-05-28 |
 | [changes](https://open.spotify.com/track/3fuaISGMWzSNjkcdeUJUb9) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [a liquid breakfast DELUXE](https://open.spotify.com/album/6LDit3vNb3nWRCNza4IfHj) | 2:04 | 2022-01-28 | 2022-02-19 |
 | [Charisma](https://open.spotify.com/track/2mtBjvQzQHtknKFQKTbCbX) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Charisma](https://open.spotify.com/album/2TcKAlzwi9pSGMpVOIXho4) | 2:57 | 2023-12-08 | 2024-02-24 |
@@ -206,6 +207,7 @@
 | [Devil In A Dress](https://open.spotify.com/track/0IidWnhWbmVcVa5vzXucav) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Devil In A Dress](https://open.spotify.com/album/6ViBFxxd5c6e1WUCDbRMAk) | 1:51 | 2022-03-25 | 2022-07-09 |
 | [Devil Is A Woman](https://open.spotify.com/track/75hCdrSo0x1La6xUNGnvGv) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Devil Is A Woman](https://open.spotify.com/album/5pJK4ir6zF8VEscS6T34wL) | 3:12 | 2022-12-09 | 2023-05-13 |
 | [devil may care](https://open.spotify.com/track/1Oui21vilndzO9nUABZYlp) | [Fae](https://open.spotify.com/artist/7gcUMQcBkw833YqXciq0WB) | [devil may care](https://open.spotify.com/album/3HD59AolaFb0PMhP3cy4lN) | 2:40 | 2022-10-21 | 2023-03-04 |
+| [DEVOTION](https://open.spotify.com/track/5zXai7UeFS4k9lY9CuTXpn) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [DEVOTION](https://open.spotify.com/album/3ONLL6byF649KcvUl8yL6s) | 2:39 | 2025-04-04 |  |
 | [DFHMPU](https://open.spotify.com/track/6aZzBu7NiOSo1htN2Q7WLq) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [DFHMPU](https://open.spotify.com/album/5jZrHVZZgdaLsdgxQLvtAl) | 2:27 | 2024-02-23 | 2024-05-18 |
 | [Did It Hurt?](https://open.spotify.com/track/2hTeOCShIAHRpNCV6sHGOW) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [Did It Hurt?](https://open.spotify.com/album/1PlfFsWQTIuu3t5THSHzDD) | 2:44 | 2022-12-02 | 2023-05-06 |
 | [did it hurt?](https://open.spotify.com/track/4NUEtHceMHws1GfgAelmAB) | [NOT THE MAIN CHARACTERS](https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V) | [bad things come in 3s](https://open.spotify.com/album/29NCAQcGId5b4HAJp87xCM) | 2:09 | 2022-05-20 | 2022-09-24 |
@@ -322,6 +324,7 @@
 | [Good Things](https://open.spotify.com/track/7nV0ORUyLQBj1J8LGKh1IW) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Good Things](https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0) | 2:57 | 2024-04-26 | 2024-06-29 |
 | [Goodbye \(from the series Arcane League of Legends\)](https://open.spotify.com/track/7pwF2SFF9LUeqD0f5wWrSR) | [Ramsey](https://open.spotify.com/artist/1se3w7gpZkwcJYgHSPDoQ8) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/1hQaM7OHSXpXcNK7qExkW5) | 3:50 | 2021-11-12 | 2022-03-18 |
 | [Gorgeous Gorgeous Girls](https://open.spotify.com/track/5Ev5bb32kDL4Bdb2deG0G6) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Gorgeous Gorgeous Girls](https://open.spotify.com/album/6qE9k5wB9ZfoWruZeDTMLh) | 1:56 | 2022-05-20 | 2023-03-25 |
+| [GRASS IS GREENER](https://open.spotify.com/track/03NGvMraKPHuigMw4pSLyv) | [KANNER](https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh) | [GRASS IS GREENER](https://open.spotify.com/album/2eCZsqAFPqiGQ3Uy8jZzoQ) | 2:27 | 2025-04-04 |  |
 | [Green Honda](https://open.spotify.com/track/6YufjjSqUweXdQHduL76zr) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Green Honda](https://open.spotify.com/album/46O3bl9CMEXxzQubtLz4Zq) | 2:46 | 2023-02-10 | 2023-08-19 |
 | [Greenroom](https://open.spotify.com/track/3O0fBwrKLBlCXEFgaT3U09) | [Good Boy Daisy](https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL) | [Greenroom](https://open.spotify.com/album/5LMJdkvvdIW1TdwpNfwKsN) | 2:45 | 2022-07-01 | 2022-09-24 |
 | [Grim Reaper](https://open.spotify.com/track/1TWC0DUf4xXC2QqpBovlws) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Grim Reaper](https://open.spotify.com/album/0lCbxop4nU0dSKUdZ0rQ5Y) | 2:50 | 2023-10-20 | 2023-12-09 |
@@ -329,7 +332,7 @@
 | [Grudge](https://open.spotify.com/track/6oNbryFTmzGA68CKRjW9pF) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Grudge](https://open.spotify.com/album/3A7xkqgq6SdvrotQgLHr0K) | 2:47 | 2024-09-06 | 2024-10-12 |
 | [Guess](https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 | 2024-06-14 | 2024-10-12 |
 | [guts](https://open.spotify.com/track/4vSQyjPdcJRxvZLmKKZITo) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [guts](https://open.spotify.com/album/3ZQ8tEoq23WOEz53Xr8n9Z) | 3:32 | 2024-04-26 | 2024-06-01 |
-| [GØD](https://open.spotify.com/track/3Ycwfj94uJWSsAyaMoOkZF) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [GØD](https://open.spotify.com/album/7qD49vJQcp5IwNXSgFo5Ut) | 3:38 | 2025-01-10 |  |
+| [GØD](https://open.spotify.com/track/3Ycwfj94uJWSsAyaMoOkZF) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [GØD](https://open.spotify.com/album/7qD49vJQcp5IwNXSgFo5Ut) | 3:38 | 2025-01-10 | 2025-04-05 |
 | [hahaha](https://open.spotify.com/track/510v9v67yjxZVO9hMHmk29) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [hahaha](https://open.spotify.com/album/7rCtOsWYbpoYsZm3fzp1KQ) | 2:24 | 2025-03-21 |  |
 | [Halloweenie IV: Innards](https://open.spotify.com/track/2hwUHHqLSEue41V952MtD2) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Halloweenie IV: Innards](https://open.spotify.com/album/2AWdSvqkBNvj9eeM48KQTJ) | 2:50 | 2021-10-29 | 2022-02-19 |
 | [Happier Than Ever \- Edit](https://open.spotify.com/track/3Wc4jQhzto9iZehUirrzcM) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Happier Than Ever](https://open.spotify.com/album/6Yg2WbhAn0F3vFiwFnC7wO) | 2:05 | 2022-06-17 | 2022-10-08 |
@@ -559,7 +562,7 @@
 | [Obsessed \(feat\. Ashley Sienna\)](https://open.spotify.com/track/2fWVflATzWBQm6qQNmaRIH) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [Obsessed \(feat\. Ashley Sienna\)](https://open.spotify.com/album/5NtTfPmz1C9xht5kA1WgWw) | 3:03 | 2024-03-01 | 2024-08-31 |
 | [Off With Her Tits](https://open.spotify.com/track/0PZUINY8mTRYx7rM5hDRmV) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Off With Her Tits](https://open.spotify.com/album/7kOZaeeScV8NhGDlq06Qqr) | 3:16 | 2024-01-19 | 2024-02-24 |
 | [Oh My God](https://open.spotify.com/track/4ytfNcKDQfUu7x1HSGXdsb) | [Tiffany Stringer](https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u) | [Oh My God](https://open.spotify.com/album/0qfoZ99XRt8kbzK47jNjf0) | 2:40 | 2024-08-30 | 2025-01-25 |
-| [Oh!](https://open.spotify.com/track/4c9248nXVshR1AFp1i69v8) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [Oh!](https://open.spotify.com/album/2SbvBAbGW8FR7w1XS6mXtt) | 3:00 | 2025-01-24 |  |
+| [Oh!](https://open.spotify.com/track/4c9248nXVshR1AFp1i69v8) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [Oh!](https://open.spotify.com/album/2SbvBAbGW8FR7w1XS6mXtt) | 3:00 | 2025-01-24 | 2025-04-05 |
 | [Okay Okay](https://open.spotify.com/track/2ryUKjHhbRn2T7DmkT3nl1) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [PEP](https://open.spotify.com/album/2El7FWTNM5fE8BbMN3qFlB) | 3:20 | 2022-04-01 | 2022-04-09 |
 | [one bad day](https://open.spotify.com/track/1Qz3mHiMABwI3wBK3PQgsr) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [one bad day](https://open.spotify.com/album/13ekNhK41kYkbmbzOzu8G5) | 2:58 | 2022-06-17 | 2022-08-20 |
 | [Only Love Can Save Us Now](https://open.spotify.com/track/6EP9E1OLjmwe6sJlu3EyZN) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Only Love Can Save Us Now](https://open.spotify.com/album/14gFMh79sFu4n9SYxTPTlm) | 2:34 | 2023-05-19 | 2023-08-05 |
@@ -635,7 +638,7 @@
 | [Rich Man](https://open.spotify.com/track/48SHHV3qxvboO8TFWrroC4) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Rich Man](https://open.spotify.com/album/1LbXVD0LLYNvAv6ZJt4DRa) | 2:51 | 2022-02-11 | 2022-03-18 |
 | [Ring Ring](https://open.spotify.com/track/1mLrKUepZE0AI11JvOwWci) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Ring Ring](https://open.spotify.com/album/7HDaOyg3G7ltdxVPbQIkry) | 2:03 | 2024-05-24 | 2024-06-29 |
 | [Riots](https://open.spotify.com/track/4KQmxxzUgo1zBQwBM6jPtU) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Riots](https://open.spotify.com/album/1N2bmwYs5cQlI0BdcmKs8d) | 2:45 | 2024-06-21 | 2024-08-10 |
-| [ROCKSTAR](https://open.spotify.com/track/3J98fBUewnbrGuIZFT2MrL) | [KANNER](https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh) | [ROCKSTAR](https://open.spotify.com/album/6iBJlls04uyqgjkHU1UPNA) | 2:38 | 2024-12-06 |  |
+| [ROCKSTAR](https://open.spotify.com/track/3J98fBUewnbrGuIZFT2MrL) | [KANNER](https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh) | [ROCKSTAR](https://open.spotify.com/album/6iBJlls04uyqgjkHU1UPNA) | 2:38 | 2024-12-06 | 2025-04-05 |
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-06-28 | 2024-10-05 |
 | [Romeo Dies](https://open.spotify.com/track/42SZ9WKuZ4EDblgvJc581c) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Romeo Dies](https://open.spotify.com/album/7f098aQqfKMnYS5YVjkT15) | 2:48 | 2022-05-20 | 2022-08-13 |
 | [Roses](https://open.spotify.com/track/7y2oK30NMiSSYTDAXJLMvh) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Roses](https://open.spotify.com/album/59Pyf62gEEr2huHy1lI44V) | 2:45 | 2023-02-10 | 2023-07-15 |
@@ -763,6 +766,7 @@
 | [Thing of Beauty](https://open.spotify.com/track/5fDbX9qCPLjBNZkZVnu19E) | [Danger Twins](https://open.spotify.com/artist/1YuielWiKfNC5Mh2GizHSO) | [Thing of Beauty](https://open.spotify.com/album/4nz28faAHZndFb42UEwf5P) | 0:29 | 2022-03-04 | 2022-07-02 |
 | [This City is a Graveyard](https://open.spotify.com/track/7KCgYJ7DF33PpPU3UF6NBH) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [This City is a Graveyard](https://open.spotify.com/album/2ZLMegn1V02WxJEXsW4OlH) | 3:07 | 2023-08-04 | 2024-01-05 |
 | [this is how i learn to say no](https://open.spotify.com/track/4yb8suVmTLxvSb8hT6EmT6) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [this is how i learn to say no](https://open.spotify.com/album/3iW6t3t4c18qRC8NjvHenG) | 2:22 | 2021-09-10 | 2023-03-25 |
+| [Threw Me Away](https://open.spotify.com/track/4yErFNfUp8cD7BYd5WjD4B) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [Threw Me Away](https://open.spotify.com/album/1Su8F6OFMWs8mTUiNw2bIH) | 3:03 | 2025-04-04 |  |
 | [Thriving](https://open.spotify.com/track/05iLS2VOLss6mnHYDV0Lfd) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lady Jesus](https://open.spotify.com/album/3INiPPjvwK4RGIV4Qed2Qu) | 2:15 | 2021-10-08 | 2022-02-19 |
 | [Throw Up When I See Your Face](https://open.spotify.com/track/0ekxDJsWszWXZq2R3BXzUB) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Throw Up When I See Your Face](https://open.spotify.com/album/00Q3J1ya3dDlApLcaaczR1) | 2:44 | 2022-04-29 | 2022-09-10 |
 | [till you hate me](https://open.spotify.com/track/1QG6ItNSNxIswkFV4Bp7MJ) | [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [till you hate me](https://open.spotify.com/album/1MbdzIis9KoyqqYFxR7om2) | 2:59 | 2022-09-16 | 2022-10-29 |

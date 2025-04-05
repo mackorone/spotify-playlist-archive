@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance to for 2025\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-469 songs - 1 day 2 hr 20 min
+470 songs - 1 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Changes](https://open.spotify.com/track/4GYO06wf3VU43VzgRevxU2) | [Nathan C](https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q), [Yola Recoba](https://open.spotify.com/artist/7gvpJzKMMMQsdLqWF4SKs7) | [Changes](https://open.spotify.com/album/4tx98D2IVwR6lqnDcBPrzi) | 2:38 | 2023-08-04 |  |
 | [Check Out](https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Check Out](https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb) | 2:54 | 2024-03-01 | 2024-06-29 |
 | [Chemicals](https://open.spotify.com/track/1nWydPjxaHwae1T4DMhOMf) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Chemicals](https://open.spotify.com/album/2IPq21A71Ap2s5noX13PkV) | 2:36 | 2023-02-03 | 2024-02-24 |
+| [Chemicals](https://open.spotify.com/track/6fbj2WJhkyYamhkYngTI5W) | [Thandi](https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj) | [Chemicals](https://open.spotify.com/album/3grdk4C5mdbdQ3jQJvDocS) | 2:32 | 2025-04-04 |  |
 | [Cherish](https://open.spotify.com/track/4ZYL4h2sQEWVBXoSuLcMEA) | [Badflite](https://open.spotify.com/artist/3AEEmo3VYEBbQBUUEY2fUS) | [Cherish](https://open.spotify.com/album/2xVkUmzmbG2ziXVxHKeqLW) | 3:24 | 2024-10-18 |  |
 | [Chihiro](https://open.spotify.com/track/1kDqGWSeR27gWaMouyXD0C) | [Gravagerz](https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc) | [Chihiro](https://open.spotify.com/album/3g94R3KoZVDaYwiM0KQFyN) | 2:08 | 2025-01-03 |  |
 | [Cinematic](https://open.spotify.com/track/47ywdBjVysnPv8ag3P5Ojt) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [Cinematic](https://open.spotify.com/album/6AWy4WgqAZQF4BaObQRQwS) | 4:48 | 2021-12-17 | 2022-01-08 |
@@ -80,7 +81,7 @@
 | [Control](https://open.spotify.com/track/3NrMppEmrfhrz9OXaUejp7) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [The Last Dance](https://open.spotify.com/album/68basHoqk34JRezSeXRacF) | 2:50 | 2021-08-07 | 2021-08-21 |
 | [Cornfield Chase](https://open.spotify.com/track/2Bz1aTnk3QLWkv89jHsMcb) | [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT) | [Cornfield Chase](https://open.spotify.com/album/668xE928NOQDOVmq9NXOu3) | 2:21 | 2024-11-05 |  |
 | [Cruel Summer \- LP Giobbi Remix](https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [The Cruelest Summer](https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4) | 3:12 | 2024-02-23 |  |
-| [Cry For Me](https://open.spotify.com/track/3cxgp575v709HjOLSHubBw) | [Touring](https://open.spotify.com/artist/1DKSHZmGXSlYlbUKFb6KXZ), [Luca Wilding](https://open.spotify.com/artist/3IMal2orfDZIifVZjFOLLL) | [Cry For Me](https://open.spotify.com/album/5TnCTrun94MPp92pUNTLzI) | 4:13 | 2024-03-22 |  |
+| [Cry For Me](https://open.spotify.com/track/3cxgp575v709HjOLSHubBw) | [Touring](https://open.spotify.com/artist/1DKSHZmGXSlYlbUKFb6KXZ), [Luca Wilding](https://open.spotify.com/artist/3IMal2orfDZIifVZjFOLLL) | [Cry For Me](https://open.spotify.com/album/5TnCTrun94MPp92pUNTLzI) | 4:13 | 2024-03-22 | 2025-04-05 |
 | [Dance Moves](https://open.spotify.com/track/0T03ZEDp87vpVEqgouqk87) | [Moonlight Breakfast](https://open.spotify.com/artist/1lfKZ5QsMaOjo5UbVmNaqp) | [Affection](https://open.spotify.com/album/51ojuOytuRkxxusdPjwIJs) | 3:50 | 2024-02-23 | 2024-09-21 |
 | [Dawn](https://open.spotify.com/track/7esdk109ThJBwprFrSKiSd) | [Lust.](https://open.spotify.com/artist/00D4DKXe3TdHJh6lzetwoi) | [Dawn](https://open.spotify.com/album/6oeQKGYA47kunjB7X7KRy2) | 3:07 | 2020-12-18 | 2021-03-06 |
 | [Decision](https://open.spotify.com/track/7ClE91ZjLxV5do8bAAxDe0) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [Mary Jensen](https://open.spotify.com/artist/3Lhhz2OmsLzPNnSrhij4XB) | [Decision](https://open.spotify.com/album/6ROv3mZKa3CV0dijCxqteV) | 2:23 | 2021-03-11 | 2021-09-04 |

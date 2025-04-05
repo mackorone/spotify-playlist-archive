@@ -4,7 +4,7 @@
 
 > La scène musicale montréalaise au premier plan\. Photo: Men I Trust
 
-575 songs - 1 day 8 hr 58 min
+576 songs - 1 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [Golden Hour](https://open.spotify.com/track/5NYZUSsgVjACxktniLsrEP) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Osoyoos](https://open.spotify.com/album/2r6MzGblUSAmK3EAQuZqZj) | 3:55 | 2023-11-10 |  |
 | [Google](https://open.spotify.com/track/5h3mgP97aXfErx9AMUgcrR) | [Jeremy Lachance](https://open.spotify.com/artist/5Xl6EtM9an6yOUSkRaJlfX) | [Google](https://open.spotify.com/album/1hVc65TfDsysUezxkpLYUa) | 2:52 | 2023-01-06 | 2023-03-18 |
 | [Gordon in the Willows](https://open.spotify.com/track/5s4K20MHbY6jkjL1ISNDtq) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Gordon in the Willows](https://open.spotify.com/album/50pHYOEkvi3T8lUDdGXbHd) | 3:54 | 2025-03-07 |  |
-| [green light](https://open.spotify.com/track/0ctnLcTOOK4yDNxAq48pZQ) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [green light](https://open.spotify.com/album/6B4obGwSQ7cPstogpuNs2M) | 3:02 | 2024-10-18 |  |
+| [green light](https://open.spotify.com/track/0ctnLcTOOK4yDNxAq48pZQ) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [green light](https://open.spotify.com/album/6B4obGwSQ7cPstogpuNs2M) | 3:02 | 2024-10-18 | 2025-04-05 |
 | [hana](https://open.spotify.com/track/13Ue2YJXcvl8Wm5iv0TlMo) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Astral 2000](https://open.spotify.com/album/2qsyEK8oIuQEIUryUqL3jp) | 2:35 | 2024-09-20 |  |
 | [hana](https://open.spotify.com/track/2Qvvb2wC3wPiRP2C0xxsc6) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [hana](https://open.spotify.com/album/2TkxPbXf8lg0cgHZh823Tg) | 2:35 | 2024-04-12 | 2024-09-21 |
 | [Hard to Let Go](https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Hard to Let Go](https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo) | 4:07 | 2022-07-01 | 2022-10-01 |
@@ -524,6 +524,7 @@
 | [The Leash](https://open.spotify.com/track/19xJaRGgOTrrQ7f75MaSkL) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [The Leash](https://open.spotify.com/album/5D6d0Wvf10kBGqhf4kHzsz) | 4:12 | 2023-03-24 | 2023-06-03 |
 | [The Only One](https://open.spotify.com/track/3A87o59RCXV2ZfSelX9KJk) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO), [Kainalu](https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc) | [The Only One](https://open.spotify.com/album/5wmc647MPLoLrQGAZcCihj) | 3:31 | 2024-10-18 |  |
 | [The Ride](https://open.spotify.com/track/0U2CIiuR2rm5JnA3gyi7Qi) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [The Ride](https://open.spotify.com/album/3oLWwKaQBN3RgjllHPnubw) | 3:00 | 2024-03-01 |  |
+| [think about us](https://open.spotify.com/track/1O3b8pqhkn8GOYmWkon3dj) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [portable darkroom \(Deluxe\)](https://open.spotify.com/album/3zWCNflH0aebMLrbWUguTo) | 2:00 | 2025-04-04 |  |
 | [Ton appartement](https://open.spotify.com/track/4rIMgETCYlTAaxcEWb9OpB) | [Zoo Baby](https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO) | [Ton appartement](https://open.spotify.com/album/4FagpYnN7zVEttFd4ZEuK5) | 3:51 | 2022-10-21 | 2023-01-14 |
 | [Too Much](https://open.spotify.com/track/2FZ2Mz0gZHQkwYP8yJ2bqs) | [Yuki Dreams Again](https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t) | [Star People](https://open.spotify.com/album/42MsLv5bRCtL7fnZuilczx) | 2:46 | 2025-02-21 |  |
 | [Tote Bag](https://open.spotify.com/track/0t3b3r4DNi5PHARoi7o5nN) | [Valaire](https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj), [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8), [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Tote Bag](https://open.spotify.com/album/2qsRHDL7JUhg61nhQqR5Ri) | 3:22 | 2022-09-23 | 2023-01-21 |

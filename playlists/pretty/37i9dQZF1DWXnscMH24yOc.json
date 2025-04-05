@@ -1,6 +1,6 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 497002,
+  "num_followers": 497125,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Lights",
-        "url": "https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 191813,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/2mN9PvVZX0thvOclMwQAju"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "I'll Stand by You",
         "url": "https://open.spotify.com/album/6CsQEUwnLOXJMlRW5uiGnE"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 204854,
       "name": "I'll Stand by You",
       "url": "https://open.spotify.com/track/7zdaLRVLJJSXjdQB1tFZRJ"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Lights",
+        "url": "https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 191813,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/2mN9PvVZX0thvOclMwQAju"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Bang Bang (My Baby Shot Me Down)",
-        "url": "https://open.spotify.com/album/2U3XfU54vAKKyJUgmnk2sf"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 153500,
-      "name": "Bang Bang (My Baby Shot Me Down)",
-      "url": "https://open.spotify.com/track/7nghYGsh54yEir2qzPxqyk"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Whatever You Like [Digital 45]",
         "url": "https://open.spotify.com/album/16AnLWE6Js4hmXqumUFJjv"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 228907,
       "name": "Whatever You Like - Single Version",
       "url": "https://open.spotify.com/track/5qX2ZJoLEyFCTAdaCqUo7s"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Bang Bang (My Baby Shot Me Down)",
+        "url": "https://open.spotify.com/album/2U3XfU54vAKKyJUgmnk2sf"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 153500,
+      "name": "Bang Bang (My Baby Shot Me Down)",
+      "url": "https://open.spotify.com/track/7nghYGsh54yEir2qzPxqyk"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -611,18 +611,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "The Fifth",
-        "url": "https://open.spotify.com/album/40h5bhuUo7CJVtySM2tm2l"
+        "name": "1979",
+        "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
       },
       "artists": [
         {
-          "name": "Mathew V",
-          "url": "https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS"
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
         }
       ],
-      "duration_ms": 236710,
-      "name": "Always Be My Baby",
-      "url": "https://open.spotify.com/track/5dYs9IhYDPUqlYKILmRXt5"
+      "duration_ms": 290518,
+      "name": "1979",
+      "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -643,18 +643,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "1979",
-        "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
+        "name": "The Fifth",
+        "url": "https://open.spotify.com/album/40h5bhuUo7CJVtySM2tm2l"
       },
       "artists": [
         {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+          "name": "Mathew V",
+          "url": "https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS"
         }
       ],
-      "duration_ms": 290518,
-      "name": "1979",
-      "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
+      "duration_ms": 236710,
+      "name": "Always Be My Baby",
+      "url": "https://open.spotify.com/track/5dYs9IhYDPUqlYKILmRXt5"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "I Can't Make You Love Me",
-        "url": "https://open.spotify.com/album/4QtMn2R7ATbWQYXxSVcQHx"
-      },
-      "artists": [
-        {
-          "name": "Cinzia & The Eclipse",
-          "url": "https://open.spotify.com/artist/3eyyNHkVEK4Hy9Qnw7i13W"
-        }
-      ],
-      "duration_ms": 291000,
-      "name": "I Can't Make You Love Me",
-      "url": "https://open.spotify.com/track/34APO7yezS12jRpPaUAv8A"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "dreams",
         "url": "https://open.spotify.com/album/1mbS76gbfAHpmzKPjYV8AO"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 257323,
       "name": "dreams",
       "url": "https://open.spotify.com/track/3hTEGA9oAXuXvnYhulpqFF"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "I Can't Make You Love Me",
+        "url": "https://open.spotify.com/album/4QtMn2R7ATbWQYXxSVcQHx"
+      },
+      "artists": [
+        {
+          "name": "Cinzia & The Eclipse",
+          "url": "https://open.spotify.com/artist/3eyyNHkVEK4Hy9Qnw7i13W"
+        }
+      ],
+      "duration_ms": 291000,
+      "name": "I Can't Make You Love Me",
+      "url": "https://open.spotify.com/track/34APO7yezS12jRpPaUAv8A"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Like a Virgin",
+        "url": "https://open.spotify.com/album/3D6BRQjosyRAjyfAiogrKE"
+      },
+      "artists": [
+        {
+          "name": "L'Isle",
+          "url": "https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP"
+        }
+      ],
+      "duration_ms": 207413,
+      "name": "Like a Virgin",
+      "url": "https://open.spotify.com/track/1FaxioLjUIAGpuvkDIDQHF"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Here Comes The Sun (feat. dodie)",
         "url": "https://open.spotify.com/album/21v5ndluXHghmQaVKvMNUb"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 180845,
       "name": "Holy / Intentions",
       "url": "https://open.spotify.com/track/2tZ2yDNuqzmv14TnmM0evQ"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Like a Virgin",
-        "url": "https://open.spotify.com/album/3D6BRQjosyRAjyfAiogrKE"
-      },
-      "artists": [
-        {
-          "name": "L'Isle",
-          "url": "https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP"
-        }
-      ],
-      "duration_ms": 207413,
-      "name": "Like a Virgin",
-      "url": "https://open.spotify.com/track/1FaxioLjUIAGpuvkDIDQHF"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "...but i'd rather be with you",
-        "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 235418,
-      "name": "Sunflower, Vol. 6",
-      "url": "https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Delicate",
         "url": "https://open.spotify.com/album/0YQHlteoWyLWbbmxwRi4Lk"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 275820,
       "name": "Delicate",
       "url": "https://open.spotify.com/track/0xU1zG3u6s1UpfkG8XkZ2w"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "...but i'd rather be with you",
+        "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 235418,
+      "name": "Sunflower, Vol. 6",
+      "url": "https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Kuhzoo",
-        "url": "https://open.spotify.com/album/3WJi7Dj2IQ1g8UgaayEg5r"
-      },
-      "artists": [
-        {
-          "name": "Bella Ruse",
-          "url": "https://open.spotify.com/artist/3CY9C8A6FB0Oz1No32iRUd"
-        }
-      ],
-      "duration_ms": 173906,
-      "name": "Like Spinning Plates",
-      "url": "https://open.spotify.com/track/1K6bvVleOIMX5SEuXphEKu"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Savior Complex",
         "url": "https://open.spotify.com/album/2GRYhyTbRxrjwzJOcCfJUI"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 232493,
       "name": "Savior Complex",
       "url": "https://open.spotify.com/track/5cTlo1j9rEKQWRBynDcywn"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Kuhzoo",
+        "url": "https://open.spotify.com/album/3WJi7Dj2IQ1g8UgaayEg5r"
+      },
+      "artists": [
+        {
+          "name": "Bella Ruse",
+          "url": "https://open.spotify.com/artist/3CY9C8A6FB0Oz1No32iRUd"
+        }
+      ],
+      "duration_ms": 173906,
+      "name": "Like Spinning Plates",
+      "url": "https://open.spotify.com/track/1K6bvVleOIMX5SEuXphEKu"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/19dMFBXNyn1ZCQ1pxhg8nV"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 249736,
+      "name": "Hope She'll Be Happier - Spotify Singles",
+      "url": "https://open.spotify.com/track/3PcdHJLrbpfXhfSmbWpIRL"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Sleeping on the Ground",
         "url": "https://open.spotify.com/album/4aJ3DahrixMsErIem1NFM9"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 250871,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/08QenBY0A0qBS7KbuWDjRv"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/19dMFBXNyn1ZCQ1pxhg8nV"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 249736,
-      "name": "Hope She'll Be Happier - Spotify Singles",
-      "url": "https://open.spotify.com/track/3PcdHJLrbpfXhfSmbWpIRL"
     },
     {
       "added_at": "2022-03-22 14:40:29",

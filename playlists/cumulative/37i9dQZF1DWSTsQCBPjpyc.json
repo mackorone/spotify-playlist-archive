@@ -1303,6 +1303,24 @@
     },
     {
       "album": {
+        "name": "Still Shakin'",
+        "url": "https://open.spotify.com/album/1oBWu0oEzg5PJcSqy9RIX3"
+      },
+      "artists": [
+        {
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Still Shakin'",
+      "url": "https://open.spotify.com/track/5XVDZOgVr8gjAnfiqiQMgi"
+    },
+    {
+      "album": {
         "name": "All The Way",
         "url": "https://open.spotify.com/album/7EVdCFnjNzPlPBWI89YtGs"
       },

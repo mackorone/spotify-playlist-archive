@@ -6333,6 +6333,24 @@
     },
     {
       "album": {
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/6z8So0EpzDzXg2L1cVa3f7"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170244,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/7zhTjUV0ippY3Mlwgd1HTo"
+    },
+    {
+      "album": {
         "name": "Cause & Effect",
         "url": "https://open.spotify.com/album/0dITivzCKB2PwtQj9Txc0d"
       },
@@ -8090,7 +8108,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 222453,
       "name": "Lupita",
       "url": "https://open.spotify.com/track/1Xnf2h75C55EKU8H9msq7G"

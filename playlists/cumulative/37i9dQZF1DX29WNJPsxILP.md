@@ -4,7 +4,7 @@
 
 > Best of Hindi Hip\-Hop! Cover: UNIYAL
 
-232 songs - 11 hr 54 min
+234 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Ajnabi](https://open.spotify.com/track/6YjBJcOL9dvUhdzhvW0Z3M) | [Farhan Khan](https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN) | [Alif Laila \(Part 2\)](https://open.spotify.com/album/3MUSOdDUE4NojtZZauRh0i) | 3:00 | 2025-01-17 |  |
 | [Alvida](https://open.spotify.com/track/0MzimbGlnX7GS2lRuD5eTT) | [KALAM INK](https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd), [CJ CHIRAG](https://open.spotify.com/artist/5FcuZLglRfOZQMF0tDPxDV) | [Alvida](https://open.spotify.com/album/22rvZcQ5cn6DPUYHdbzfgn) | 2:56 | 2025-02-14 |  |
 | [Amitaabh](https://open.spotify.com/track/6wngMmeABsafCzMJbqNP5J) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Retro Blxxd](https://open.spotify.com/artist/6qSzBHYRQzdm981EBGbDHA) | [Amitaabh](https://open.spotify.com/album/3CbveEZuQMGnNFDu4WP1Yj) | 2:39 | 2025-03-21 |  |
+| [Angaar Hai](https://open.spotify.com/track/4KDJlhSQu3jbUrwcc59rip) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [Fateh](https://open.spotify.com/album/0Bcho5L7RXjKdOTgasWjYE) | 2:55 | 2025-04-04 |  |
 | [Angad](https://open.spotify.com/track/1jsI1eBSguo06e4ocINgVp) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Angad](https://open.spotify.com/album/1sPEgdT59qlNeHtkPkGcm2) | 2:48 | 2023-03-10 | 2023-11-07 |
 | [Arthur Road](https://open.spotify.com/track/2VX9Q3uMmTH5S8dt8PzMmX) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu) | [Arthur Road](https://open.spotify.com/album/7xbOLjtp1MXCnBOTc9YbmQ) | 2:55 | 2025-01-06 |  |
 | [Asal G](https://open.spotify.com/track/1uBScPDkr0M98KHxsX4QKp) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Lunch Break](https://open.spotify.com/album/16PSZwABl4VFJvfDFOPOoB) | 3:41 | 2023-08-28 |  |
@@ -48,7 +49,7 @@
 | [Bt Ho Gayi](https://open.spotify.com/track/1guV4vXt4fnnwALAdxy5hq) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 2:36 | 2023-05-18 | 2024-04-19 |
 | [Bt Ho Gayi](https://open.spotify.com/track/0TzpHT6hJ5pb3P6CqIduh3) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/0eNoZ7pnoeiq2iF7scY3ss) | 2:40 | 2024-04-09 |  |
 | [Bt Ho Gayi](https://open.spotify.com/track/1boqva32nCghdoWiKLm5rX) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 2:40 | 2023-03-10 | 2023-07-15 |
-| [Capital](https://open.spotify.com/track/2rWXHzfYluOCWfEch3D9YH) | [Nanku](https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p), [Karun](https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF) | [Capital](https://open.spotify.com/album/3TljnADIAMqIhChYqZacge) | 2:32 | 2024-01-19 |  |
+| [Capital](https://open.spotify.com/track/2rWXHzfYluOCWfEch3D9YH) | [Nanku](https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p), [Karun](https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF) | [Capital](https://open.spotify.com/album/3TljnADIAMqIhChYqZacge) | 2:32 | 2024-01-19 | 2025-04-05 |
 | [Chamdi Chaaley](https://open.spotify.com/track/1CsyTxRwc2rxkpKb40pX36) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu) | [Loka Kaha Hai \(Side A\)](https://open.spotify.com/album/1RTiXgD0zfpa32wqRFVNRe) | 3:44 | 2025-01-06 |  |
 | [Chhod Bhai](https://open.spotify.com/track/4KRZ47E9wDiCyRAxmBxOAQ) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu), [Zero Chill](https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M) | [Halaat](https://open.spotify.com/album/2E8QetLkISeArC5rDwgcjT) | 2:57 | 2025-01-06 |  |
 | [Chhore Ncr Aale](https://open.spotify.com/track/4YzmUshoyqoiOx2lVM0rD9) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 3:20 | 2023-10-06 |  |
@@ -186,6 +187,7 @@
 | [Santa Claws](https://open.spotify.com/track/0TY80GStM6cxDDyLSYswni) | [Agsy](https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp) | [Santa Claws](https://open.spotify.com/album/57wRsBWhc28pMp72Dew1dt) | 2:30 | 2024-12-20 | 2025-01-22 |
 | [Sath Chalegi](https://open.spotify.com/track/0mTscimdid589rZpKNJZPu) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Rish](https://open.spotify.com/artist/0KzR1TCZ13KSIabw8xUaMK) | [Sath Chalegi](https://open.spotify.com/album/6359k4XlwyF81N12omSDHD) | 2:18 | 2023-03-10 | 2023-10-12 |
 | [Saza\-E\-Maut](https://open.spotify.com/track/2ikI9Y7PCPIavU0TMSpF31) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Still Here](https://open.spotify.com/album/3TWJqzaophqIi6ZIm5wkux) | 3:00 | 2023-03-10 | 2024-10-01 |
+| [Scarface](https://open.spotify.com/track/3h7QmY0JmabpwNi5ik98H9) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [Scarface](https://open.spotify.com/album/6Wl76DPWglh1jNMiozj4zz) | 3:25 | 2025-04-04 |  |
 | [Sehwag](https://open.spotify.com/track/5jOAVIOdsTusLQaHmGz2bj) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Sehwag](https://open.spotify.com/album/1zDxYpPhKFUaiaXC1dAWEG) | 3:48 | 2023-03-10 | 2023-10-12 |
 | [Shakti Aur Kshama](https://open.spotify.com/track/67CZPR2aGFSTKL1r1zlzN8) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Kshama](https://open.spotify.com/album/6jgP3YiYzMadVp5XT3FD08) | 4:15 | 2024-12-14 | 2025-02-01 |
 | [Shameless](https://open.spotify.com/track/0CPOHAuGxrX5WczgA4viLN) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Enzo](https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h) | [Shameless](https://open.spotify.com/album/6qqPdYZa01uw1KeNRch2Mn) | 2:21 | 2025-03-14 |  |
@@ -218,7 +220,7 @@
 | [Triple OG](https://open.spotify.com/track/5PvdeOHYM1Te6XB1C81zoz) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Phenom](https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7) | [Triple OG](https://open.spotify.com/album/7Jf2RyjfocosqLFzTfVH4O) | 3:03 | 2025-01-06 |  |
 | [Tu Hai Kaun](https://open.spotify.com/track/4gJwX0QLUXwjwmQG77ihLS) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO) | [Tu Hai Kaun](https://open.spotify.com/album/4YrdmA8BUodffcJGjJnks9) | 3:24 | 2023-03-10 | 2024-10-01 |
 | [Tu Tera Dekh](https://open.spotify.com/track/5LQWquv8c8OYCE30SlXLAy) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG) | [Tu Tera Dekh](https://open.spotify.com/album/1xISjdoA7xWaEDkUGEXtL1) | 3:08 | 2023-03-10 | 2024-02-09 |
-| [Tujhya Aaichi Gaand](https://open.spotify.com/track/2Q3Ayar9nWdG7Jxh670huf) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Tujhya Aaichi Gaand](https://open.spotify.com/album/5pYjKUW10yJfvbd5GwA40F) | 2:41 | 2025-01-06 |  |
+| [Tujhya Aaichi Gaand](https://open.spotify.com/track/2Q3Ayar9nWdG7Jxh670huf) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Tujhya Aaichi Gaand](https://open.spotify.com/album/5pYjKUW10yJfvbd5GwA40F) | 2:41 | 2025-01-06 | 2025-04-05 |
 | [Up To U](https://open.spotify.com/track/3Boqgxk2tt9FX35cyfcdmU) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Up To U](https://open.spotify.com/album/4OxsNm48pvNILoTb5geNfZ) | 3:08 | 2023-03-10 | 2025-01-07 |
 | [Up To U](https://open.spotify.com/track/5pkOSmSeVo8RfC8555LRHT) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Up To U](https://open.spotify.com/album/75E8pKR9gdgdv3xxRyT1o8) | 3:08 | 2024-02-14 | 2024-04-19 |
 | [Up To U](https://open.spotify.com/track/7695jWrVLrftHb9ChEmFCg) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Up To U](https://open.spotify.com/album/3LqdYNb1s5tt77gpYkMeeF) | 3:08 | 2023-05-18 | 2024-03-24 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+x+AAAAAACcN3mAyH1LPHlnXwv36t+W",
+  "snapshot_id": "Z+3PgAAAAABPKNWE4n4A0YdgkJbbLP8M",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Hit Wonder",
-        "url": "https://open.spotify.com/album/0gENvRT2jAQJonb6sC6W22"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 200345,
-      "name": "One Hit Wonder",
-      "url": "https://open.spotify.com/track/314tXKMiK9aOSezLoyiCSN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nosebleeds: Encore",
         "url": "https://open.spotify.com/album/19BoWVjerUhTZXmTlVGCoJ"
       },
@@ -207,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American in Paris",
-        "url": "https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb"
+        "name": "One Hit Wonder",
+        "url": "https://open.spotify.com/album/0gENvRT2jAQJonb6sC6W22"
       },
       "artists": [
         {
@@ -216,25 +200,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 164933,
-      "name": "American in Paris",
-      "url": "https://open.spotify.com/track/5gB9Gv6bWUDEThBzZA4gDj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Gospel According to Meg Smith",
-        "url": "https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 153777,
-      "name": "poltergeist",
-      "url": "https://open.spotify.com/track/7nVvznvTle4wZBg6fN0GQr"
+      "duration_ms": 200345,
+      "name": "One Hit Wonder",
+      "url": "https://open.spotify.com/track/314tXKMiK9aOSezLoyiCSN"
     },
     {
       "added_at": null,
@@ -255,6 +223,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Gospel According to Meg Smith",
+        "url": "https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 153777,
+      "name": "poltergeist",
+      "url": "https://open.spotify.com/track/7nVvznvTle4wZBg6fN0GQr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American in Paris",
+        "url": "https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "American in Paris",
+      "url": "https://open.spotify.com/track/5gB9Gv6bWUDEThBzZA4gDj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "guitar center",
         "url": "https://open.spotify.com/album/1efqw25N4FvdLgJ2mduAz0"
       },
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American in Paris",
-        "url": "https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb"
+        "name": "Cool 4 U",
+        "url": "https://open.spotify.com/album/1ADKl4iKK2T5Cx0yzNost7"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 182500,
-      "name": "Because of Me",
-      "url": "https://open.spotify.com/track/4k5gEEKBU2Oml9GxZEGWLu"
+      "duration_ms": 139666,
+      "name": "Cool 4 U",
+      "url": "https://open.spotify.com/track/2E1Esh3QgFWafXkJDfREPV"
     },
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cool 4 U",
-        "url": "https://open.spotify.com/album/1ADKl4iKK2T5Cx0yzNost7"
+        "name": "American in Paris",
+        "url": "https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 139666,
-      "name": "Cool 4 U",
-      "url": "https://open.spotify.com/track/2E1Esh3QgFWafXkJDfREPV"
+      "duration_ms": 182500,
+      "name": "Because of Me",
+      "url": "https://open.spotify.com/track/4k5gEEKBU2Oml9GxZEGWLu"
     },
     {
       "added_at": null,

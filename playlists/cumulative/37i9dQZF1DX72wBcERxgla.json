@@ -214,7 +214,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 128970,
       "name": "A Lonely Night",
       "url": "https://open.spotify.com/track/50GbbtL8jgX9onuAuqC3Up"
@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 156208,
       "name": "Blue Room",
       "url": "https://open.spotify.com/track/0oLNhSMVdZalsr7xuCVTdI"
@@ -2774,6 +2774,24 @@
       "duration_ms": 244493,
       "name": "Evening Silence",
       "url": "https://open.spotify.com/track/0Rf7mzOsDoMDVVGOeLIr9r"
+    },
+    {
+      "album": {
+        "name": "Evening Stillness",
+        "url": "https://open.spotify.com/album/21ilrSeAMjosU30MpOoa0v"
+      },
+      "artists": [
+        {
+          "name": "John B\u00fclow",
+          "url": "https://open.spotify.com/artist/4OEyfZj87mjPEIZWQZITep"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198437,
+      "name": "Evening Stillness",
+      "url": "https://open.spotify.com/track/5WEjTSODeUsYMsQVEHBs1E"
     },
     {
       "album": {
@@ -4372,7 +4390,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 210000,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/1nDdCstJ1Mz8eRiyHhr5pS"

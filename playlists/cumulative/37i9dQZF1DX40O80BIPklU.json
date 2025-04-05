@@ -1735,6 +1735,32 @@
     },
     {
       "album": {
+        "name": "Aleph",
+        "url": "https://open.spotify.com/album/1Wb0qgJUU5p96C5hBuA95G"
+      },
+      "artists": [
+        {
+          "name": "Backstardo146",
+          "url": "https://open.spotify.com/artist/2iJC7bPxbCRh2B2GEcoB7M"
+        },
+        {
+          "name": "OGRE 67",
+          "url": "https://open.spotify.com/artist/1GQ73Wrzqo9kwKNlDu80za"
+        },
+        {
+          "name": "Solo Cadaver",
+          "url": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190548,
+      "name": "Buscando la Manera",
+      "url": "https://open.spotify.com/track/1iMhoC5KuQQgDtOHLMWLo3"
+    },
+    {
+      "album": {
         "name": "Busy",
         "url": "https://open.spotify.com/album/6VBLxfePFG7pyLa7C8HarA"
       },

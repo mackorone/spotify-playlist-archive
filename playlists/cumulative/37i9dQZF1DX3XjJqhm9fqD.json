@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Celebrating Haitian music. Cover: Jo\u00e9 Dw\u00e8t Fil\u00e9 and Burna Boy",
+  "description": "Celebrating Haitian music. Cover: Francis Mercier",
   "name": "Haitian Heat",
   "tracks": [
     {
@@ -140,7 +140,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 211304,
       "name": "4 Kamp\u00e9 II",
       "url": "https://open.spotify.com/track/2fhVsI54lSCFyW7sw5WPfR"
@@ -488,7 +488,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 400388,
       "name": "Ayizan",
       "url": "https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB"
@@ -664,6 +664,28 @@
       "duration_ms": 191067,
       "name": "Bal Tout",
       "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
+    },
+    {
+      "album": {
+        "name": "IDANTITE'N",
+        "url": "https://open.spotify.com/album/7dxoacw7mdk3aT7CvQZXCC"
+      },
+      "artists": [
+        {
+          "name": "Harmonik",
+          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
+        },
+        {
+          "name": "Kenny Haiti",
+          "url": "https://open.spotify.com/artist/3bIZpSYfHzYPsXb37hlHhM"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320248,
+      "name": "Ban'm Tout Afe'm",
+      "url": "https://open.spotify.com/track/0YQHr8rlZwmcGx8Z7xiM7t"
     },
     {
       "album": {
@@ -2302,7 +2324,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 212000,
       "name": "Kabe",
       "url": "https://open.spotify.com/track/7Kid813yq5ev5IZ6cyjqXe"
@@ -2623,6 +2645,24 @@
     },
     {
       "album": {
+        "name": "Layers (Live Acoustic)",
+        "url": "https://open.spotify.com/album/39MOfURibwGxl4XnEzgve5"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149952,
+      "name": "Layers - Live Acoustic",
+      "url": "https://open.spotify.com/track/1eOuxbVvNCKXcSeq2lZ2mW"
+    },
+    {
+      "album": {
         "name": "Li Bon\u00e8",
         "url": "https://open.spotify.com/album/1BEEBmfubdKjd2yA2ZiKVz"
       },
@@ -2660,6 +2700,28 @@
       "duration_ms": 161142,
       "name": "Li Cho",
       "url": "https://open.spotify.com/track/5FAekDZSA4bfe2Bz3aN4VI"
+    },
+    {
+      "album": {
+        "name": "Li Dous",
+        "url": "https://open.spotify.com/album/3oevpqZKmmqEu7493mM52I"
+      },
+      "artists": [
+        {
+          "name": "Joseph Zenny Jr",
+          "url": "https://open.spotify.com/artist/4QS6sp3hm1ev3WXpPFKunt"
+        },
+        {
+          "name": "Kreyol La",
+          "url": "https://open.spotify.com/artist/0eNBVNVE6RtZYinnymY1uB"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "Li Dous",
+      "url": "https://open.spotify.com/track/5grDOONmWpfnQf1jdJ9uGS"
     },
     {
       "album": {
@@ -3198,6 +3260,24 @@
       "duration_ms": 175721,
       "name": "Miscalculated",
       "url": "https://open.spotify.com/track/6jbyBrXQPHK3s0V0OfGp0P"
+    },
+    {
+      "album": {
+        "name": "Moun Mwen",
+        "url": "https://open.spotify.com/album/5iRxy8wbqOhyODknptpWPw"
+      },
+      "artists": [
+        {
+          "name": "Mebel Brun",
+          "url": "https://open.spotify.com/artist/31Xfnn2aa7WHVFZYJ3Ibcm"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148421,
+      "name": "Moun Mwen",
+      "url": "https://open.spotify.com/track/4jfE63lTCeD90ZlBhM5trG"
     },
     {
       "album": {
@@ -4178,7 +4258,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 294138,
       "name": "Sa Pa Lov",
       "url": "https://open.spotify.com/track/6wPUmocLiBReFF8alCWSDG"
@@ -4693,6 +4773,54 @@
     },
     {
       "album": {
+        "name": "SIWO",
+        "url": "https://open.spotify.com/album/51Fo7seRLO7yYWQQ4EhlVr"
+      },
+      "artists": [
+        {
+          "name": "Kelly Krow",
+          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229491,
+      "name": "SIWO",
+      "url": "https://open.spotify.com/track/4vtE0Lwu1NQiYf5LCdp2SP"
+    },
+    {
+      "album": {
+        "name": "Solfa (Tila)",
+        "url": "https://open.spotify.com/album/3jtT0D7rTtOfmdKRFw5OVp"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+        },
+        {
+          "name": "Rindss",
+          "url": "https://open.spotify.com/artist/6A76G4mBlpAqrWSwUgyVfn"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194380,
+      "name": "Solfa (Tila)",
+      "url": "https://open.spotify.com/track/27OyimhoqIZaPG0Z0m3x4V"
+    },
+    {
+      "album": {
         "name": "Sol\u00e8y Midi",
         "url": "https://open.spotify.com/album/5TLXCx8PFQwyaoc8LhnqlF"
       },
@@ -4902,7 +5030,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 205030,
       "name": "Te revoir",
       "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"
@@ -5328,7 +5456,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 210857,
       "name": "U.F.O.",
       "url": "https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc"

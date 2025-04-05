@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Neffa e Izi, Silent Bob, Baby Gang, Mambolosco, Beba e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,274 likes - 114 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,326 likes - 114 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-203 songs - 14 hr 41 min
+207 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [C'est Si Bon](https://open.spotify.com/track/5ltdjMGizJoqS5x7rZzij2) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [Something's Gotta Give \- Music From The Motion Picture](https://open.spotify.com/album/40ibEmtXTv68y88YPXDoI4) | 2:57 | 2021-12-02 |  |
 | [Can't Get Out Of This Mood](https://open.spotify.com/track/0uEy5F2mkuapZBLYHpxG7K) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Can't Get Out Of This Mood](https://open.spotify.com/album/3EZm9GEXCyc7RV3JtYCDTy) | 3:42 | 2022-08-11 |  |
 | [Clip Joint](https://open.spotify.com/track/0FsXOJYuXIDTFitV7vbrd6) | [Lil Hardin Armstrong And Her Orchestra](https://open.spotify.com/artist/4KJbHQaQp524CJlAqbz9of) | [Chicago: The Living Legends](https://open.spotify.com/album/12MmtHlymqpECm7cC6Zam7) | 4:42 | 2021-12-02 |  |
+| [Close To You](https://open.spotify.com/track/0RpBR5FBUMUIyr8IV5Mr12) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F), [Alex Goodman](https://open.spotify.com/artist/4akWuEzOy4ATwXu16fc7m3), [Andrew Renfroe](https://open.spotify.com/artist/1FvH1xEnhG1bs07KgnKXYo) | [Library](https://open.spotify.com/album/15CrCgbq2IZStSOxupjIhN) | 5:28 | 2025-04-04 |  |
 | [Come Away With Me](https://open.spotify.com/track/0JMPG9nbd4ftD7uq1xscnL) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Coastal Grandmother Music](https://open.spotify.com/album/376r9jOZbDw6f8Qe2WSDMF) | 3:17 | 2022-10-07 | 2022-11-13 |
 | [Come Away With Me](https://open.spotify.com/track/0Cvjlph1WGbwZY1PlMEtJY) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 3:18 | 2021-12-02 |  |
 | [Come Away With Me](https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:18 | 2022-03-08 | 2024-04-19 |
@@ -120,6 +121,7 @@
 | [Lock and Key](https://open.spotify.com/track/4OwHfJGfIGluHa3pi7nwlM) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi) | 5:18 | 2021-12-02 |  |
 | [LOOZE \- Single Edit](https://open.spotify.com/track/7KQFMboI26LBqb5OBvoibe) | [Bévort 3](https://open.spotify.com/artist/34U2e4Kt2mtD1yT2HkRZ7W), [Pernille Bévort](https://open.spotify.com/artist/1Y1qQvf0rRxHFB1H0VSNCV), [Espen Laub von Lillienskjold](https://open.spotify.com/artist/2HD6XSwIbTymHXSshxSlnF), [Morten Ankarfeldt](https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU) | [LOOZE](https://open.spotify.com/album/0ehD1jUJ5V9teDMTeyCutK) | 4:19 | 2021-12-02 |  |
 | [Lost In A Blue Note](https://open.spotify.com/track/29dFStdDNJHdgGPhwyKdbB) | [April Barrows](https://open.spotify.com/artist/49Pr1w34iIV8qlIcnsLdwQ) | [My Dream is You](https://open.spotify.com/album/26ACa71xPjvov8cZ4Rai52) | 4:24 | 2021-12-02 |  |
+| [Love Me or Leave Me](https://open.spotify.com/track/6xN0ysGN6LrcigauMSI8It) | [Maria Kim](https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB) | [Love Me or Leave Me](https://open.spotify.com/album/7E4E2NvwMbJPu4uprns4C8) | 4:58 | 2025-04-04 |  |
 | [Lullaby Of Birdland](https://open.spotify.com/track/5z161QQZMgQxSILnv3QoJk) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 4:00 | 2021-12-02 |  |
 | [Mad About The Boy](https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury Vol\. 2 \(1950\-1952\)](https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6) | 3:02 | 2021-12-02 |  |
 | [Midnight Sun Upon Saltværsøya](https://open.spotify.com/track/4LU1Nh6sh3c4vxQLr3Riu3) | [Cecilie Strange](https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy) | [Beyond](https://open.spotify.com/album/7CtOqcN4ZlDrynEUrdVflA) | 7:22 | 2023-06-08 |  |
@@ -144,6 +146,7 @@
 | [Petite fleur](https://open.spotify.com/track/2ofpkaYjXD16Lvyteh3QjW) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w) | 2:43 | 2023-04-27 | 2024-04-19 |
 | [Petite fleur](https://open.spotify.com/track/6Xy0TKhM0Ytjt65QuVEN67) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp) | 2:43 | 2022-03-08 | 2023-04-29 |
 | [Petite fleur](https://open.spotify.com/track/5z7NjVhqMYUm3JhwXeLEBV) | [Sidney Bechet/Fernand Bonifay/Maria Bua](https://open.spotify.com/artist/7cHhV0SW05Govc7bmy5UtS), [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/5XhzxoigtjynZc4HMuyWAw) | 2:43 | 2021-12-02 |  |
+| [Petrichor](https://open.spotify.com/track/0wXhAI4j4g1mZdcZwCvHIU) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [Petrichor](https://open.spotify.com/album/5xEYOG6rRWYjQ0Oaok4c0d) | 5:39 | 2025-04-04 |  |
 | [Placement and Longing Pt\. 1](https://open.spotify.com/track/3rSWE0C3rFWpATVNVH4Tym) | [Allison Philips Trio](https://open.spotify.com/artist/5kdwPeI1XJ4Ktzue7y9RR7) | [Placement and Longing Pt\. 1](https://open.spotify.com/album/0JKgzNrlmMtcaCxxKt3NwW) | 4:29 | 2021-12-02 |  |
 | [Plain Gold Ring](https://open.spotify.com/track/4AxT7oW02TqO772n6SGrfh) | [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo) | [Plain Gold Ring](https://open.spotify.com/album/2ODjvtrRFwJ2WCl7fL4uzQ) | 4:24 | 2021-12-02 |  |
 | [Plain Gold Ring](https://open.spotify.com/track/0qmB617DPQzWDtOud8mMBr) | [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo) | [If You Knew Her](https://open.spotify.com/album/193bc1u332JaugMRrR0U2g) | 4:25 | 2022-03-08 | 2023-04-29 |
@@ -158,6 +161,7 @@
 | [Sadie Green](https://open.spotify.com/track/0jOjQMcpKluDnZ6dUfpDUR) | [Gloria Coleman Quartet](https://open.spotify.com/artist/7mPIwZ8S66iOzc95bRATeb), [Pola Roberts](https://open.spotify.com/artist/1Z82sSbwDDkZWEG5aOEC3C) | [Soul Sisters](https://open.spotify.com/album/4bjgPXmt8UCRDIstQXll5c) | 4:26 | 2021-12-02 |  |
 | [Send In The Clowns](https://open.spotify.com/track/08fkvamJMu9uhyJeJnu1ki) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty) | 4:48 | 2022-03-08 | 2024-04-19 |
 | [Send In The Clowns](https://open.spotify.com/track/30kplsNuLjewPoqzruJi5m) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/4xwaeLH44zzZQdxWUZPg3V) | 4:48 | 2021-12-02 |  |
+| [Silver Lining](https://open.spotify.com/track/0cgjvHVCoiafozhMk3Z7Sg) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/3TqBGTBmONLgkO3OxDipkg) | 3:17 | 2025-04-04 |  |
 | [Slow Loris](https://open.spotify.com/track/5BuiyW6PabP5e6Us6EfgUu) | [Dinosaur](https://open.spotify.com/artist/6SmZi1l1V08Xya4YqJf8WB) | [To The Earth](https://open.spotify.com/album/4zJ7oNUcSFqpwKrsdqMFLM) | 7:25 | 2021-12-02 |  |
 | [Someone To Watch Over Me](https://open.spotify.com/track/4txuiUWr8J6q6EDyCOZlHJ) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [25th Anniversary Collection \- Fans' Choice](https://open.spotify.com/album/05zZVyKfmGY1VLgKPhMoCA) | 5:24 | 2021-12-02 |  |
 | [Somewhere Different](https://open.spotify.com/track/1YEgbaYU0j5H9QiiQ1kTf8) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Somewhere Different](https://open.spotify.com/album/1LHHyL7XxEDFBAJXzALvL6) | 5:21 | 2021-12-02 |  |

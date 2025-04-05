@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Nafeesisboujee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,613 likes - 104 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,616 likes - 104 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 52 | [Nails](https://open.spotify.com/track/2B83qROUA5odTV8wku4N2W) | [Hope D](https://open.spotify.com/artist/6IdzKFOGtbNz84qbJUMM4x) | [Nails](https://open.spotify.com/album/3W5gzm7IExxZUhjFjgSXCe) | 3:10 |
 | 53 | [2013](https://open.spotify.com/track/0UaX9cIyYZCrULsA3N3qLj) | [Billy Sharp](https://open.spotify.com/artist/3Bs4lfvN2mcnu3yhtBlGt5) | [Rose Tint](https://open.spotify.com/album/5BLLac3v4mnsAU2U1Dw6MD) | 4:13 |
 | 54 | [MOLLY](https://open.spotify.com/track/0MS4GCNXVfBTaAnJOHE3zI) | [VINI](https://open.spotify.com/artist/1QzHMnO2CsyqS7EgZ5fRoW) | [MOLLY](https://open.spotify.com/album/55JNFgRaT0CFt5FxCOFnJF) | 4:54 |
-| 55 | [Medias Brillantes](https://open.spotify.com/track/5bGCyURMcLEhoijhaz10qw) | [Cabiria](https://open.spotify.com/artist/2y7OtEBQuQCeFh2a8bYZVC) | [Medias Brillantes](https://open.spotify.com/album/5BcPmB0HTXYGqXIPr95INE) | 3:35 |
+| 55 | [Medias brillantes](https://open.spotify.com/track/5bGCyURMcLEhoijhaz10qw) | [Cabiria](https://open.spotify.com/artist/2y7OtEBQuQCeFh2a8bYZVC) | [Medias Brillantes](https://open.spotify.com/album/5BcPmB0HTXYGqXIPr95INE) | 3:35 |
 | 56 | [Overdrive](https://open.spotify.com/track/1OSZ8aDA8R1HwPn1kbhjO3) | [Quadlips](https://open.spotify.com/artist/2G2pl9H7xMw4oYh6PCk3zN) | [Overdrive](https://open.spotify.com/album/2rcjwOpKPxgzmsW6gW14uj) | 3:10 |
 | 57 | [2DK](https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [2DK](https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv) | 3:16 |
 | 58 | [tommy n ben](https://open.spotify.com/track/3usZUzvx6BYI6u5m1qskqn) | [mou](https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt) | [tommy n ben](https://open.spotify.com/album/2TWeUZZZ3DIMC8mzIOkA8U) | 2:28 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 73 | [A Tu Modo](https://open.spotify.com/track/4gW9sb9atLvjzNA0BUDX71) | [LoLo](https://open.spotify.com/artist/04gHmjV4hmiIrT3PHXlTbZ) | [A Tu Modo](https://open.spotify.com/album/1BjksGyN9EwHWXsTm36uzC) | 3:00 |
 | 74 | [Beanie](https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh) | 2:12 |
 | 75 | [The pillow's calling](https://open.spotify.com/track/4d7OmTFcZdMSQT9cwyRFEf) | [Flour in the Garden](https://open.spotify.com/artist/6uBXXIUE4QVatDS70UcHzD) | [The pillow's calling](https://open.spotify.com/album/7rWuoRvCZQhxaUtGyStiAb) | 3:26 |
-| 76 | [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
+| 76 | [Feel It \- From “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
 | 77 | [honeymoon \- Spotify Singles](https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Spotify Singles](https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ) | 2:53 |
 | 78 | [Stay \(feat\. RINI\)](https://open.spotify.com/track/6iUU5exou5qoBMkVkEcqdb) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Stay \(feat\. RINI\)](https://open.spotify.com/album/437zPnx0e9z4rw5SA6GvBg) | 3:38 |
 | 79 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 |

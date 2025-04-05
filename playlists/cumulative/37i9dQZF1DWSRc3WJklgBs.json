@@ -4885,6 +4885,24 @@
     },
     {
       "album": {
+        "name": "HEAD",
+        "url": "https://open.spotify.com/album/34RlwYaHmnJhOUJ5NTAb97"
+      },
+      "artists": [
+        {
+          "name": "ROZET",
+          "url": "https://open.spotify.com/artist/4LyGWqMGeTHfJXbKQmk6YY"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220360,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/1BGHqgCLlqyou3h78bXeyd"
+    },
+    {
+      "album": {
         "name": "Clorofilla",
         "url": "https://open.spotify.com/album/4Pouxi2Zw9TakGfTfe5VKV"
       },
@@ -25826,7 +25844,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 177036,
       "name": "The One (feat. ARA)",
       "url": "https://open.spotify.com/track/0W44iKwnweZAID1cCMw3B5"

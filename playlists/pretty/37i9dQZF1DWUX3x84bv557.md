@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Danique & Ruben Annink
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,401 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,454 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Iconisch](https://open.spotify.com/track/3cRns9obH2lGJ4fpInVxut) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Iconisch](https://open.spotify.com/album/1gfcL8Tie2oJUhC0Y0ELCW) | 2:21 |
 | 2 | [Yuppentent \(feat\. Ruben Annink\)](https://open.spotify.com/track/2dohF6KwQqz9oGPm0oXvaj) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0), [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Yuppentent \(feat\. Ruben Annink\)](https://open.spotify.com/album/51a4KaNOPyKDtEWfyjGUsE) | 2:50 |
-| 3 | [That’s Life](https://open.spotify.com/track/3dhJ95PwhjILl4ubUUJ3GW) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [That’s Life](https://open.spotify.com/album/51LOKi2MGxL2zz7CABENn9) | 2:50 |
-| 4 | [Laat Me \- Live](https://open.spotify.com/track/0Li2DcD86qAHxpY4BLQzLV) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx), [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Laat Me \(Live\)](https://open.spotify.com/album/4pzEUoFwxJz9PLxdJOE1Tu) | 2:36 |
-| 5 | [Niemand Zijn](https://open.spotify.com/track/13yhctWhqjE3HHWGnlXIkc) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Niemand Zijn](https://open.spotify.com/album/0wxdbS9KKnDCh9HncVMUJg) | 2:47 |
-| 6 | [Vergeef Me](https://open.spotify.com/track/3uWDhz3cIoWzN1944cUmq6) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Vergeef Me](https://open.spotify.com/album/1sr1TbYn17UxMa6xOqoSaN) | 3:02 |
-| 7 | [Alles](https://open.spotify.com/track/7dJlOVVw2ZCOOYpOnfbphl) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Alles](https://open.spotify.com/album/0TNfJxH3EANHb9AZNyq2aY) | 2:51 |
+| 3 | [Alles](https://open.spotify.com/track/7dJlOVVw2ZCOOYpOnfbphl) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Alles](https://open.spotify.com/album/0TNfJxH3EANHb9AZNyq2aY) | 2:51 |
+| 4 | [That’s Life](https://open.spotify.com/track/3dhJ95PwhjILl4ubUUJ3GW) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [That’s Life](https://open.spotify.com/album/51LOKi2MGxL2zz7CABENn9) | 2:50 |
+| 5 | [Laat Me \- Live](https://open.spotify.com/track/0Li2DcD86qAHxpY4BLQzLV) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx), [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Laat Me \(Live\)](https://open.spotify.com/album/4pzEUoFwxJz9PLxdJOE1Tu) | 2:36 |
+| 6 | [Niemand Zijn](https://open.spotify.com/track/13yhctWhqjE3HHWGnlXIkc) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Niemand Zijn](https://open.spotify.com/album/0wxdbS9KKnDCh9HncVMUJg) | 2:47 |
+| 7 | [Vergeef Me](https://open.spotify.com/track/3uWDhz3cIoWzN1944cUmq6) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Vergeef Me](https://open.spotify.com/album/1sr1TbYn17UxMa6xOqoSaN) | 3:02 |
 | 8 | [Sprakeloos](https://open.spotify.com/track/1Y2KLMM1V2TeHcmOiiUXak) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Sprakeloos](https://open.spotify.com/album/1wSyoTzqvfj8Rx9D1L6x7Z) | 2:25 |
 | 9 | [Ik Zing \(feat\. Snelle\)](https://open.spotify.com/track/0fROjdyTv6S6E65qpQfwHa) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Ik Zing \(feat\. Snelle\)](https://open.spotify.com/album/0mGKEPfav9UHa2wssnrruz) | 2:54 |
 | 10 | [Groeipijn](https://open.spotify.com/track/324iqe9RN3LSeR8qq5IiGH) | [Ben Forte](https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7) | [In je eentje lukt het nooit, maar is dat niet iets moois?](https://open.spotify.com/album/79v6kGnaQqAJQdyRChD19U) | 3:11 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 69 | [Ooit](https://open.spotify.com/track/1cfwCRlpkbTDoVQwY0jF7L) | [Elle Hollis](https://open.spotify.com/artist/5ZCeCsLU92i1Uv75rarNNn) | [Ooit](https://open.spotify.com/album/2tSHHPhn58yk1pHuAbO8HT) | 3:28 |
 | 70 | [Je Weet Pas Wat Je Hebt](https://open.spotify.com/track/1vuxcc1UDLpbbNudLtgcbL) | [Elieve](https://open.spotify.com/artist/1baKapVwDaPTbQvH9kCUkf) | [Je Weet Pas Wat Je Hebt](https://open.spotify.com/album/4NdhuGDtL29qQoiKUePuER) | 2:35 |
 
-Snapshot ID: `Z+8TDwAAAAAwbIP1rsCn7j9v/LiZnOzR`
+Snapshot ID: `Z/BLdAAAAACMy0umYmsaIH8ssyLWVbA4`

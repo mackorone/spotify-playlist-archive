@@ -1,13 +1,33 @@
 {
-  "description": "New jazz for open minds. Cover: Butcher Brown",
-  "num_followers": 950224,
+  "description": "New jazz for open minds. Cover: Hiromi",
+  "num_followers": 950311,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+ayrwAAAAAPnUHe5tLYxCan8lTIKaFG",
+  "snapshot_id": "Z+9cswAAAAA6NaQIMMJLFwjLFd59zSxy",
   "tracks": [
+    {
+      "added_at": "2025-04-04 04:00:20",
+      "album": {
+        "name": "OUT THERE [Feat. Sonicwonder]",
+        "url": "https://open.spotify.com/album/5Z1XM55fh24JfLyDWWzRRl"
+      },
+      "artists": [
+        {
+          "name": "Hiromi",
+          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
+        },
+        {
+          "name": "Sonicwonder",
+          "url": "https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w"
+        }
+      ],
+      "duration_ms": 494000,
+      "name": "Yes! Ramen!! [Feat. Sonicwonder]",
+      "url": "https://open.spotify.com/track/1KbsFchJaw3BU5iwnTrd8s"
+    },
     {
       "added_at": "2025-03-28 04:00:37",
       "album": {
@@ -29,6 +49,22 @@
       "url": "https://open.spotify.com/track/0nK4auk3sF7wrRWNMEaw2b"
     },
     {
+      "added_at": "2025-04-04 04:00:20",
+      "album": {
+        "name": "Capistrano Swallow",
+        "url": "https://open.spotify.com/album/0c3sK2aZhkEIKQ7BPnW0nU"
+      },
+      "artists": [
+        {
+          "name": "David Murray Quartet",
+          "url": "https://open.spotify.com/artist/4vT7SN0Ge2ATOebFDW3iv4"
+        }
+      ],
+      "duration_ms": 264546,
+      "name": "Capistrano Swallow",
+      "url": "https://open.spotify.com/track/6Yhq98gHloTyhi7nKOAb0s"
+    },
+    {
       "added_at": "2025-03-21 04:00:40",
       "album": {
         "name": "Cinnamon Sugar",
@@ -43,6 +79,66 @@
       "duration_ms": 255252,
       "name": "Cinnamon Sugar",
       "url": "https://open.spotify.com/track/0Ygo8zBNVoi6KQm6ZjvAmZ"
+    },
+    {
+      "added_at": "2025-04-04 04:00:20",
+      "album": {
+        "name": "The Fool",
+        "url": "https://open.spotify.com/album/4I6RCXzrd9M1cI9anoJu1c"
+      },
+      "artists": [
+        {
+          "name": "Steven Bamidele",
+          "url": "https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6"
+        },
+        {
+          "name": "Sly5thAve",
+          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
+        }
+      ],
+      "duration_ms": 243843,
+      "name": "The Fool",
+      "url": "https://open.spotify.com/track/4ilE6MkpkFz1rKXHDfGFPA"
+    },
+    {
+      "added_at": "2025-04-04 04:00:20",
+      "album": {
+        "name": "digi-squires",
+        "url": "https://open.spotify.com/album/6ycjfJwh8ZIZAarrYQcFSa"
+      },
+      "artists": [
+        {
+          "name": "Sam Gendel",
+          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+        },
+        {
+          "name": "Nate Mercereau",
+          "url": "https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X"
+        }
+      ],
+      "duration_ms": 309000,
+      "name": "the vilage",
+      "url": "https://open.spotify.com/track/5lTWTGe9kFDflaUy8I6Tlq"
+    },
+    {
+      "added_at": "2025-04-04 04:00:20",
+      "album": {
+        "name": "Love in the Garden",
+        "url": "https://open.spotify.com/album/6vaOfE1ZpCldLvARgm3eLb"
+      },
+      "artists": [
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        },
+        {
+          "name": "Marcin Wasilewski Trio",
+          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
+        }
+      ],
+      "duration_ms": 251514,
+      "name": "Love in the Garden",
+      "url": "https://open.spotify.com/track/6oVCNH8wItq4dwERDsSCw1"
     },
     {
       "added_at": "2025-03-28 04:00:37",
@@ -61,6 +157,22 @@
       "url": "https://open.spotify.com/track/5DCm4IQDLYZ9L81DOglQ3p"
     },
     {
+      "added_at": "2025-03-28 04:00:37",
+      "album": {
+        "name": "Rammana",
+        "url": "https://open.spotify.com/album/2zpOQ2JWW96jrS0JTNRqUO"
+      },
+      "artists": [
+        {
+          "name": "Salin",
+          "url": "https://open.spotify.com/artist/190s2q06h5ztFSuGHOpmf3"
+        }
+      ],
+      "duration_ms": 221025,
+      "name": "Rammana",
+      "url": "https://open.spotify.com/track/4qyZAtyjXhpfqceJLijrPG"
+    },
+    {
       "added_at": "2025-03-28 14:31:11",
       "album": {
         "name": "Belonging",
@@ -75,6 +187,22 @@
       "duration_ms": 535733,
       "name": "\u2018Long As You Know You\u2019re Living Yours",
       "url": "https://open.spotify.com/track/53BIMABrBFMit1BUprSHnB"
+    },
+    {
+      "added_at": "2025-04-04 04:00:20",
+      "album": {
+        "name": "Consulate Case",
+        "url": "https://open.spotify.com/album/2B2hJboEgiEV4e2oSDMx7s"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "duration_ms": 207202,
+      "name": "Consulate Case",
+      "url": "https://open.spotify.com/track/0ftvZIxENBCdDWEeaSOFva"
     },
     {
       "added_at": "2025-03-21 04:00:40",
@@ -93,20 +221,84 @@
       "url": "https://open.spotify.com/track/0M2L9I6Twe9CzjzHMafMBN"
     },
     {
-      "added_at": "2025-03-28 04:00:37",
+      "added_at": "2025-04-04 04:00:20",
       "album": {
-        "name": "Rammana",
-        "url": "https://open.spotify.com/album/2zpOQ2JWW96jrS0JTNRqUO"
+        "name": "OTODOKENIAGARIMASHITA",
+        "url": "https://open.spotify.com/album/4EvClGWhfcynBZk3Rq9nDr"
       },
       "artists": [
         {
-          "name": "Salin",
-          "url": "https://open.spotify.com/artist/190s2q06h5ztFSuGHOpmf3"
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
         }
       ],
-      "duration_ms": 221025,
-      "name": "Rammana",
-      "url": "https://open.spotify.com/track/4qyZAtyjXhpfqceJLijrPG"
+      "duration_ms": 267000,
+      "name": "OTODOKENIAGARIMASHITA",
+      "url": "https://open.spotify.com/track/1K6I1EakDN2gEKUYc6FaX2"
+    },
+    {
+      "added_at": "2025-04-04 04:00:20",
+      "album": {
+        "name": "Like an actor",
+        "url": "https://open.spotify.com/album/4xsFMelF4oyEaIGBaeZW4M"
+      },
+      "artists": [
+        {
+          "name": "Paolo Di Sabatino",
+          "url": "https://open.spotify.com/artist/4Jg2c59WAqnm44FUmdiCMx"
+        },
+        {
+          "name": "Christian Galvez",
+          "url": "https://open.spotify.com/artist/0K0pTv2a2pbNPRt7XOUnG9"
+        },
+        {
+          "name": "Dennis Chambers",
+          "url": "https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn"
+        }
+      ],
+      "duration_ms": 265918,
+      "name": "Like an actor",
+      "url": "https://open.spotify.com/track/1qfqNHVIM8fqyIqhNaWmBu"
+    },
+    {
+      "added_at": "2025-04-04 04:00:20",
+      "album": {
+        "name": "Conceptions",
+        "url": "https://open.spotify.com/album/2Y9hxcp2xlm3HZIgqWhH8w"
+      },
+      "artists": [
+        {
+          "name": "Geoffrey Dean",
+          "url": "https://open.spotify.com/artist/0nQ0ewyoymNbuOpW9HecWE"
+        }
+      ],
+      "duration_ms": 228245,
+      "name": "Song for Hannah",
+      "url": "https://open.spotify.com/track/2jhqhlkzSMX0hZcm6E0JE4"
+    },
+    {
+      "added_at": "2025-04-04 04:00:20",
+      "album": {
+        "name": "Mardi Gras with Jazz Mafia - Live at the Guild Theatre",
+        "url": "https://open.spotify.com/album/2WTIq9cKisUlKd7cURKlJw"
+      },
+      "artists": [
+        {
+          "name": "Jazz Mafia",
+          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
+        },
+        {
+          "name": "Adam Theis",
+          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
+        },
+        {
+          "name": "Brass Mafia",
+          "url": "https://open.spotify.com/artist/5AUthOkaQS0S3cYfgA66N1"
+        }
+      ],
+      "duration_ms": 102767,
+      "name": "Buck It Like a Horse",
+      "url": "https://open.spotify.com/track/5R5MuNxqcKMYGtWb36f8Ek"
     },
     {
       "added_at": "2025-03-14 04:00:22",
@@ -247,22 +439,6 @@
     {
       "added_at": "2025-03-28 04:00:37",
       "album": {
-        "name": "SPEED MUSIC \u30bd\u30af\u30c9\u30ce\u30aa\u30f3\u30ac\u30af vol. 10",
-        "url": "https://open.spotify.com/album/5Rnxdyla9PEBUyRuFxGnnw"
-      },
-      "artists": [
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "M",
-      "url": "https://open.spotify.com/track/07ipCIHYWRstNrgksV7RIX"
-    },
-    {
-      "added_at": "2025-03-28 04:00:37",
-      "album": {
         "name": "Be Brave",
         "url": "https://open.spotify.com/album/5utV3tb2HnYDZzH38y1dLs"
       },
@@ -351,30 +527,6 @@
       "duration_ms": 249022,
       "name": "Just So Happens - Alternative",
       "url": "https://open.spotify.com/track/1tkABtZ3Whp3yE92rETq3t"
-    },
-    {
-      "added_at": "2025-03-14 04:00:22",
-      "album": {
-        "name": "Dribs and drags",
-        "url": "https://open.spotify.com/album/0FWL29AOHpHguQ47vNu12B"
-      },
-      "artists": [
-        {
-          "name": "Salami Rose Joe Louis",
-          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
-        },
-        {
-          "name": "Luke Titus",
-          "url": "https://open.spotify.com/artist/1halAwBS8LmLaAPaztqZp2"
-        },
-        {
-          "name": "Flanafi",
-          "url": "https://open.spotify.com/artist/2fJlM9auuKkUvBgcZ1RY6d"
-        }
-      ],
-      "duration_ms": 151357,
-      "name": "Dribs and drags",
-      "url": "https://open.spotify.com/track/2DL8802PSxBsTUc3DZwql0"
     },
     {
       "added_at": "2025-03-14 04:00:22",
@@ -555,46 +707,6 @@
       "duration_ms": 183173,
       "name": "Ainda Preciso do Sol",
       "url": "https://open.spotify.com/track/7DMbXlzujgBSkMirL6MQGj"
-    },
-    {
-      "added_at": "2025-02-28 05:00:40",
-      "album": {
-        "name": "No Escape",
-        "url": "https://open.spotify.com/album/5wtL0wcw3OgOPVhkg3RRIm"
-      },
-      "artists": [
-        {
-          "name": "Greg Spero",
-          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
-        },
-        {
-          "name": "Nicole McCabe",
-          "url": "https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl"
-        },
-        {
-          "name": "Ka'Cye Thompkins",
-          "url": "https://open.spotify.com/artist/0Iw3kQWOb7EvjXwEpyH40I"
-        }
-      ],
-      "duration_ms": 260829,
-      "name": "No Escape",
-      "url": "https://open.spotify.com/track/2RYgRAodUdzca9V7xWL3Dw"
-    },
-    {
-      "added_at": "2025-02-14 05:00:30",
-      "album": {
-        "name": "New Dawn",
-        "url": "https://open.spotify.com/album/2p4gmjaB8Ny6bsuaDeZtIN"
-      },
-      "artists": [
-        {
-          "name": "Marshall Allen",
-          "url": "https://open.spotify.com/artist/32QaUUUSNwRfshZ10Zxp58"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Angels And Demons At Play",
-      "url": "https://open.spotify.com/track/1m43trU3cyPS6lQ9t72m6q"
     },
     {
       "added_at": "2025-02-21 05:00:26",
@@ -1013,26 +1125,6 @@
       "url": "https://open.spotify.com/track/2iOLyeDMmAX790wKqdl9om"
     },
     {
-      "added_at": "2025-01-24 05:00:29",
-      "album": {
-        "name": "Balloon Pop",
-        "url": "https://open.spotify.com/album/4FzFNTd84JsiPzggATL5Kn"
-      },
-      "artists": [
-        {
-          "name": "Hiromi",
-          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
-        },
-        {
-          "name": "Sonicwonder",
-          "url": "https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w"
-        }
-      ],
-      "duration_ms": 377533,
-      "name": "Balloon Pop",
-      "url": "https://open.spotify.com/track/2mv2NSOOvCWnWw1THcueTu"
-    },
-    {
       "added_at": "2024-02-09 05:00:00",
       "album": {
         "name": "for the kids...",
@@ -1121,38 +1213,6 @@
       "url": "https://open.spotify.com/track/46MSjCl56neKwW4Rlhx6sl"
     },
     {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/1Cycpf47hfPP2qfUHJ39aP"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Ledbetter Trio",
-          "url": "https://open.spotify.com/artist/3JMctIRwcYkN013icoOggA"
-        }
-      ],
-      "duration_ms": 460654,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/6yhMYNsINMwSTTlAluAcyu"
-    },
-    {
-      "added_at": "2024-09-06 15:22:42",
-      "album": {
-        "name": "Endlessness",
-        "url": "https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE"
-      },
-      "artists": [
-        {
-          "name": "Nala Sinephro",
-          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
-        }
-      ],
-      "duration_ms": 247538,
-      "name": "Continuum 3",
-      "url": "https://open.spotify.com/track/0AXfx8KBcjY3TlrHmApvNr"
-    },
-    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "open this wall",
@@ -1237,22 +1297,6 @@
       "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
     },
     {
-      "added_at": "2024-12-13 05:00:04",
-      "album": {
-        "name": "Throw it Away",
-        "url": "https://open.spotify.com/album/7180ZpwjyLS3HbtS3BKImy"
-      },
-      "artists": [
-        {
-          "name": "Jowee Omicil",
-          "url": "https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY"
-        }
-      ],
-      "duration_ms": 282185,
-      "name": "Throw it Away",
-      "url": "https://open.spotify.com/track/6q1L57a2cswmeWCch1ZkfQ"
-    },
-    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "To The Moon",
@@ -1291,26 +1335,6 @@
       "duration_ms": 335390,
       "name": "Last Train From Overbrook",
       "url": "https://open.spotify.com/track/22v2NkeJpyTSAheUaTy1g7"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Life Sketching #01",
-        "url": "https://open.spotify.com/album/69WxDiEQkpOGggmjyX6ALZ"
-      },
-      "artists": [
-        {
-          "name": "Dani de Mor\u00f3n",
-          "url": "https://open.spotify.com/artist/5q5hdofWygpLCkmorAyttW"
-        },
-        {
-          "name": "Yotam Silberstein",
-          "url": "https://open.spotify.com/artist/7tKhud8BmUnoibLkJz7C6r"
-        }
-      ],
-      "duration_ms": 340689,
-      "name": "Life Sketching #01",
-      "url": "https://open.spotify.com/track/6B4VVBfmSGkNNxj9kTgcjJ"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1373,22 +1397,6 @@
       "url": "https://open.spotify.com/track/0EDeblRUiwI7ICqPj4uELR"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Echo of a Scream",
-        "url": "https://open.spotify.com/album/4ja7oVc2UfOa9fX2PuJh6b"
-      },
-      "artists": [
-        {
-          "name": "George Cables",
-          "url": "https://open.spotify.com/artist/2UESE6AjDHmxcy9J30M29R"
-        }
-      ],
-      "duration_ms": 370890,
-      "name": "Echo of a Scream",
-      "url": "https://open.spotify.com/track/7oGxFXISaWWEOF4buQAjAZ"
-    },
-    {
       "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Little Big III",
@@ -1443,38 +1451,6 @@
       "duration_ms": 441626,
       "name": "And Then There Was Nothing Left",
       "url": "https://open.spotify.com/track/7sWpQAaGW2EaiXgZv6KXtw"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Snow in Central Park",
-        "url": "https://open.spotify.com/album/0Aj3h13Td3y4p7qU9NJUNH"
-      },
-      "artists": [
-        {
-          "name": "Alan Braufman",
-          "url": "https://open.spotify.com/artist/2e0U1o784LrLomZQcvKH6H"
-        },
-        {
-          "name": "Patricia Brennan",
-          "url": "https://open.spotify.com/artist/4Q7mKhsHlU8ku3jEL0oVee"
-        },
-        {
-          "name": "Chad Taylor",
-          "url": "https://open.spotify.com/artist/0o8c17fdXpsDbQez6drlmt"
-        },
-        {
-          "name": "Ken Filiano",
-          "url": "https://open.spotify.com/artist/2OaNxBGsO4k7VvISKSm38d"
-        },
-        {
-          "name": "Michael Wimberly",
-          "url": "https://open.spotify.com/artist/6bYjLq7gxn1ppARKvClYbk"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Snow in Central Park - edit",
-      "url": "https://open.spotify.com/track/5vEKd5RIP82JVRLEppdSab"
     },
     {
       "added_at": "2024-06-21 04:17:13",

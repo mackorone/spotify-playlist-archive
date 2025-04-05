@@ -1,12 +1,12 @@
 {
   "description": "This is Tainy. The essential tracks, all in one playlist.",
-  "num_followers": 27741,
+  "num_followers": 27763,
   "original_name": "This Is Tainy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+x+AAAAAAA/dRZTBL5Tvq2NzippUqm/",
+  "snapshot_id": "Z+3PgAAAAAB1Ile1ROMWU8FYlZcp4Nx8",
   "tracks": [
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CAPIC\u00da",
-        "url": "https://open.spotify.com/album/15GbOhBVxAs4T84gCpwlY8"
-      },
-      "artists": [
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 157021,
-      "name": "roadhead",
-      "url": "https://open.spotify.com/track/7qjUOW3NhLDGmuJqrzpQTG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 195428,
       "name": "Fuego (with Sean Paul & Anitta, feat. Tainy)",
       "url": "https://open.spotify.com/track/660eekzsNZ7sdATvfIsAkR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CAPIC\u00da",
+        "url": "https://open.spotify.com/album/15GbOhBVxAs4T84gCpwlY8"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 157021,
+      "name": "roadhead",
+      "url": "https://open.spotify.com/track/7qjUOW3NhLDGmuJqrzpQTG"
     },
     {
       "added_at": null,

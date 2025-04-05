@@ -1701,6 +1701,24 @@
     },
     {
       "album": {
+        "name": "Fading Away",
+        "url": "https://open.spotify.com/album/4lKIb0JsCUBrpmAkLRPK16"
+      },
+      "artists": [
+        {
+          "name": "Verplex",
+          "url": "https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86700,
+      "name": "Fursuit Friday",
+      "url": "https://open.spotify.com/track/1X1EVr6b5g2YUv0uiOEi71"
+    },
+    {
+      "album": {
         "name": "Forgotten Arcade",
         "url": "https://open.spotify.com/album/6ARqHNLjBsMz438SUnLf1n"
       },

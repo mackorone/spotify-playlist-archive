@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos del pop latino con Danny Ocean y Sech en portada.",
-  "num_followers": 3637742,
+  "num_followers": 3637870,
   "original_name": "La Lista Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+8gsgAAAAAdLKFbTMjH0/P9e2b41EE3",
+  "snapshot_id": "Z++BcgAAAABkqy+5BBQBJPplMwa0PDF8",
   "tracks": [
     {
       "added_at": "2025-04-03 23:55:54",
@@ -43,6 +43,26 @@
       "duration_ms": 164745,
       "name": "La Pelirroja",
       "url": "https://open.spotify.com/track/6Jz04ruR15iuwrUwW3usr9"
+    },
+    {
+      "added_at": "2025-04-04 06:51:30",
+      "album": {
+        "name": "Mi Reina",
+        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 183891,
+      "name": "Mi Reina",
+      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
     },
     {
       "added_at": "2025-04-03 23:55:54",
@@ -319,22 +339,6 @@
       "duration_ms": 187507,
       "name": "WELTiTA",
       "url": "https://open.spotify.com/track/5WEF0icHWmAZBBMglBd599"
-    },
-    {
-      "added_at": "2025-04-03 23:58:42",
-      "album": {
-        "name": "Larissa (From Larissa: The Other Side Of Anitta)",
-        "url": "https://open.spotify.com/album/2SdPpzdOr4yv0HuvNNWFPc"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 135231,
-      "name": "Larissa - From Larissa: The Other Side Of Anitta",
-      "url": "https://open.spotify.com/track/4eN4QEyIMKQasrQiUUQgq4"
     },
     {
       "added_at": "2025-04-03 23:55:54",

@@ -4,7 +4,7 @@
 
 > Hip Hop workout hits to get your mental right and blood pumping\. Soundtrack your workout with heavy\-hitting bangers from Kendrick Lamar, Offset, Travis Scott, Drake and more!  High Energy Rap \| Hip Hop Workout \| Rap Bangers \| Rap Workout
 
-320 songs - 17 hr 7 min
+321 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Killer](https://open.spotify.com/track/3yjelmM5m30ItLvmtBjMml) | [Vin Jay](https://open.spotify.com/artist/2DQkr7ZMTqNrlz5HcXZeI7), [Krizz Kaliko](https://open.spotify.com/artist/3SEJQy90Vgg1aSnZ9b4AU9) | [Karma](https://open.spotify.com/album/3SUWqFRKpKP5lsCy8hdlGd) | 3:22 | 2023-05-15 | 2023-05-30 |
 | [King's Dead \(with Kendrick Lamar, Future & James Blake\)](https://open.spotify.com/track/51rXHuKN8Loc4sUlKPODgH) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [King's Dead \(with Kendrick Lamar, Future & James Blake\)](https://open.spotify.com/album/1NXM5lF9YB7a3f1e4R48oH) | 3:49 | 2022-06-09 | 2022-08-02 |
 | [Kiss It Better \- R3hab Remix](https://open.spotify.com/track/2f7HKQh8zptKYnO6aIhErl) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Kiss It Better \(Dance Remix\)](https://open.spotify.com/album/0S5abZEIJQhjcKcyFvHhp4) | 3:04 | 2023-12-11 | 2024-01-23 |
+| [Law N Order](https://open.spotify.com/track/2syaah4iQQ2stMgvc9OWLF) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu) | [Law N Order](https://open.spotify.com/album/0viYX1ltQMG9NVsoKoilyS) | 3:12 | 2025-04-04 |  |
 | [Legacy \(feat\. Travis Scott & 21 Savage\)](https://open.spotify.com/track/7pMRoGLEJuFM2wl5pt0R99) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [FATHER OF 4](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) | 4:04 | 2024-05-23 |  |
 | [Legendary](https://open.spotify.com/track/79QyrteZHwCJwijmJpgziR) | [X\-Raided](https://open.spotify.com/artist/3ROTuxpbVooOYY7OanW7No), [King Iso](https://open.spotify.com/artist/7vTyZmNA6LC0WRDg7V6yle) | [Legendary](https://open.spotify.com/album/5HxslbVnIoZ0NXa4nYICKj) | 2:57 | 2023-04-24 | 2023-05-02 |
 | [LET HER COOK](https://open.spotify.com/track/1nF1SpkNfgPPozcXh2hvGU) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:35 | 2025-03-13 |  |

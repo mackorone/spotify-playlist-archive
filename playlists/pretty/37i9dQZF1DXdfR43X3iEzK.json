@@ -1,12 +1,12 @@
 {
-  "description": "my alt/pop could mean anything ~ rachel chinouriri on the cover",
-  "num_followers": 48032,
+  "description": "my alt/pop could mean anything ~\nrachel chinouriri on the cover",
+  "num_followers": 48043,
   "original_name": "alt/pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+8TDQAAAACs5bPoXuWLY60DVanyoMab",
+  "snapshot_id": "Z++x2gAAAAAvqci/hgXByML1bGPPmHmS",
   "tracks": [
     {
       "added_at": "2025-04-03 23:00:29",
@@ -251,6 +251,22 @@
     {
       "added_at": "2025-04-03 23:00:29",
       "album": {
+        "name": "Flutters",
+        "url": "https://open.spotify.com/album/0yG6w4iiylJyAGcR9TsdzZ"
+      },
+      "artists": [
+        {
+          "name": "Paige Bea",
+          "url": "https://open.spotify.com/artist/13OFf8e9FsAgMtdhivPhTA"
+        }
+      ],
+      "duration_ms": 201337,
+      "name": "Floods",
+      "url": "https://open.spotify.com/track/4GHTJzG3FV8TptOoPJPoo2"
+    },
+    {
+      "added_at": "2025-04-03 23:00:29",
+      "album": {
         "name": "Slow Crush",
         "url": "https://open.spotify.com/album/0g0bAZkZDREcGkAo5jzuYU"
       },
@@ -331,6 +347,26 @@
       "duration_ms": 241397,
       "name": "Shark Brain (feat. Shygirl)",
       "url": "https://open.spotify.com/track/4cP4OcoWnDO3AXYCeO83jP"
+    },
+    {
+      "added_at": "2025-04-03 23:00:29",
+      "album": {
+        "name": "Revengeseekerz",
+        "url": "https://open.spotify.com/album/21b4cDNse2AMpj94ykfuON"
+      },
+      "artists": [
+        {
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "duration_ms": 244844,
+      "name": "Psychoboost feat danny brown",
+      "url": "https://open.spotify.com/track/7BMSBNctr9IPelr6MFvuRL"
     },
     {
       "added_at": "2025-04-03 23:00:29",
@@ -443,22 +479,6 @@
       "duration_ms": 153961,
       "name": "I'm Not Your Punchbag",
       "url": "https://open.spotify.com/track/6udfenCxoD1RNJfyXMDvaL"
-    },
-    {
-      "added_at": "2025-04-03 23:00:29",
-      "album": {
-        "name": "Flutters",
-        "url": "https://open.spotify.com/album/0yG6w4iiylJyAGcR9TsdzZ"
-      },
-      "artists": [
-        {
-          "name": "Paige Bea",
-          "url": "https://open.spotify.com/artist/13OFf8e9FsAgMtdhivPhTA"
-        }
-      ],
-      "duration_ms": 201337,
-      "name": "Floods",
-      "url": "https://open.spotify.com/track/4GHTJzG3FV8TptOoPJPoo2"
     },
     {
       "added_at": "2025-04-03 23:00:29",

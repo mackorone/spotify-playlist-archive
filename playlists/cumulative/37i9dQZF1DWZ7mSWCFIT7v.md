@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis.
 
-379 songs - 1 day 6 hr 31 min
+381 songs - 1 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Eucalyptus](https://open.spotify.com/track/4CFX1ahXjEL4aE0KdtuVOs) | [Dadras](https://open.spotify.com/artist/7BImjgEzTuDG9xyCRepmEY) | [Holy Wind](https://open.spotify.com/album/122Og5x68k4EnTaK4ETH4Q) | 5:12 | 2021-10-06 | 2022-07-29 |
 | [Eutow](https://open.spotify.com/track/2Y1z54YDD3qkrPvxW5NhJZ) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/0ioIXXMV89w0qC39FpxYnL) | 4:15 | 2021-10-06 | 2023-02-02 |
 | [Eutow](https://open.spotify.com/track/4uRXAyNL5T4KY7iawdfJBZ) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI) | 4:15 | 2021-10-06 | 2024-04-19 |
-| [Eve](https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf) | [Floatleaf](https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r) | [Eve](https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe) | 3:00 | 2022-08-24 |  |
+| [Eve](https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf) | [Floatleaf](https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r) | [Eve](https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe) | 3:00 | 2022-08-24 | 2025-04-05 |
 | [Every Since And Then](https://open.spotify.com/track/1RNe4viqCD97PgAChQers4) | [Isan](https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC) | [Glass Bird Movement](https://open.spotify.com/album/2jTiDIgPrDgSmND8PcuKGm) | 5:38 | 2021-10-06 |  |
 | [Everything](https://open.spotify.com/track/2VuTl07AKztRIzYuA5iJVj) | [Rzekomo](https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku) | [Everything](https://open.spotify.com/album/1mf6phipthmQ7n0e3eur7J) | 2:49 | 2025-03-25 |  |
 | [Exotic Contents](https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Exotic Contents / Pulse at the Centre of Being](https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a) | 5:46 | 2022-02-25 |  |
@@ -214,6 +214,7 @@
 | [Mountain](https://open.spotify.com/track/1th4PAEaEQEV0NWAFfwWvv) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [No Mind](https://open.spotify.com/album/3oF1tzg93AKNKRcX2sdABL) | 2:15 | 2021-10-06 | 2024-04-19 |
 | [Mountain](https://open.spotify.com/track/4D9jd1p839yUN9Vb6s6stj) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [No Mind](https://open.spotify.com/album/42O0cmAeYHzzaTZ6qqrvhB) | 2:15 | 2021-10-06 | 2023-02-03 |
 | [Muckbirth](https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Muckbirth](https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y) | 3:17 | 2021-10-06 | 2024-12-04 |
+| [Music of Wellness \- ODESZA Severance Remix](https://open.spotify.com/track/2Y1BKUbXxTqu8aD0aroPPP) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [Music To Refine To: A Remix Companion to Severance](https://open.spotify.com/album/7bNj7hUkbRbZzn36MdyvUk) | 2:52 | 2025-04-04 |  |
 | [MWLHWOF\-4](https://open.spotify.com/track/6GKgMjq46lNr3Xv8aexQOx) | [James Emrick](https://open.spotify.com/artist/246T2idxs2MWDrX6ntZNBm) | [Actoma](https://open.spotify.com/album/0RXhS7XWJ1spd3UTLIU0u3) | 3:29 | 2023-03-28 |  |
 | [Nannou \- Mixed](https://open.spotify.com/track/3dgD602JCmRmFm95pOXCtz) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Nannou \(Mixed\)](https://open.spotify.com/album/4UiRbLnV7kPBhXhyEnr1S2) | 1:55 | 2022-12-29 | 2023-03-19 |
 | [Need](https://open.spotify.com/track/6PAEXXkC8QydV8MOTRv0C8) | [Rzekomo](https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku) | [Need](https://open.spotify.com/album/5y47Hl3JPvTbGZDkjL4fyR) | 3:54 | 2025-02-21 |  |
@@ -263,7 +264,7 @@
 | [Raw Cutz](https://open.spotify.com/track/5IMdkWtrs8auJnx0ntGlFC) | [Tim Sean\-Lee](https://open.spotify.com/artist/40vMsJdhfhZFajVGMWsG5I) | [Octo](https://open.spotify.com/album/0HdRPxogDtNU20MGQQlkzQ) | 4:49 | 2022-03-09 | 2022-09-26 |
 | [Reluctant Memory](https://open.spotify.com/track/168TsA6bdm7pt73KVyVyZM) | [DJ Sports](https://open.spotify.com/artist/7EJ8xVXZJezYW7Y1xvJ2Yb) | [Modern Species](https://open.spotify.com/album/4sZvkjrogy7HbQ0M5CNCEL) | 5:58 | 2021-10-06 | 2025-02-02 |
 | [Resounding](https://open.spotify.com/track/4tWEcrIZeSAwFUr06k8gWs) | [Hotspring](https://open.spotify.com/artist/3QSOFV5VWDB1pbmlpUof4G) | [Obit For Sunshade](https://open.spotify.com/album/7dclubLbsPj645Q0kHWuK2) | 2:51 | 2021-10-06 | 2025-02-28 |
-| [Riding Metal Mosquitos](https://open.spotify.com/track/4KXTdLEJkgrZ71QHyxThJ3) | [Anders Ilar](https://open.spotify.com/artist/7CM4nBFQursLXbE4yRXRTF) | [Nightwidth](https://open.spotify.com/album/4JTOB1bSYPcHjy5MtliN1q) | 7:19 | 2021-10-06 |  |
+| [Riding Metal Mosquitos](https://open.spotify.com/track/4KXTdLEJkgrZ71QHyxThJ3) | [Anders Ilar](https://open.spotify.com/artist/7CM4nBFQursLXbE4yRXRTF) | [Nightwidth](https://open.spotify.com/album/4JTOB1bSYPcHjy5MtliN1q) | 7:19 | 2021-10-06 | 2025-04-05 |
 | [Riot on the Hush \- K\-LONE Remix](https://open.spotify.com/track/4nSAzW4tCwfL5SZhwfeb6A) | [COLA REN](https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs), [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU) | [Hailu Remixes](https://open.spotify.com/album/6YAuHoiIzJlPk7V2HMNtdJ) | 5:34 | 2024-07-02 |  |
 | [Ripples](https://open.spotify.com/track/77Ym3LUFp9h8IEfNgsikM5) | [下村真一](https://open.spotify.com/artist/3SdUSWIfgDNcjPXuxM5a97) | [みぞうふく](https://open.spotify.com/album/6i7TYq9zinFSMVMHWnri0y) | 6:28 | 2022-09-30 | 2024-08-16 |
 | [Roaming](https://open.spotify.com/track/5q8EX29mKKA3epupwlxR64) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Roaming](https://open.spotify.com/album/6Ks5xAWcNa0hEfhdGriVI9) | 4:50 | 2021-10-06 | 2024-05-19 |
@@ -375,6 +376,7 @@
 | [wood](https://open.spotify.com/track/7JW9510PEnMMAQu0hHD8wl) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [wood](https://open.spotify.com/album/41sz86ZfgSLTs8CyXfptWa) | 2:29 | 2023-11-15 |  |
 | [Workaround Four](https://open.spotify.com/track/4T9tdiYQ583ngVEyUGfDge) | [Beatrice Dillon](https://open.spotify.com/artist/14H1XUmtWYzRHCQDkoee97), [Kuljit Bhamra](https://open.spotify.com/artist/6MPSPUcWWZsIVbFiw35Ygg) | [Workaround](https://open.spotify.com/album/1kGLxIjski3cSPhXBJRnw9) | 5:50 | 2021-10-06 | 2022-07-27 |
 | [Worms on Acid](https://open.spotify.com/track/0A44Bg2Hg2wDFOqTzfA8Ny) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worms on Acid](https://open.spotify.com/album/5zM9uniBVZQHqlijpyhpMh) | 2:30 | 2024-03-19 |  |
+| [Xai](https://open.spotify.com/track/3trWBbNMteWnN2KHJCpxcF) | [Mount XLR](https://open.spotify.com/artist/7EwMRcLv8TJpfEsGDc5JwJ) | [Xai](https://open.spotify.com/album/7jxZViRGb4p4oQBdQM3Fkj) | 3:28 | 2025-04-04 |  |
 | [Xid](https://open.spotify.com/track/07UNjhqKdLyboCiAXXdWG2) | [Herva](https://open.spotify.com/artist/0dJeohf66MhZKYXmhzkFT1) | [Seez](https://open.spotify.com/album/0Ndr9hTmX5hWstHAptdaNg) | 3:41 | 2022-09-21 | 2022-12-22 |
 | [XO 4 \- Wolf 1061c](https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF) | [GCOM](https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI) | [E2\-XO](https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd) | 7:55 | 2022-01-12 | 2025-03-20 |
 | [XPNDR](https://open.spotify.com/track/5WtwS6vUsfOaCcSVztZYnN) | [Michael J\. Blood](https://open.spotify.com/artist/7qshvEatYqNxZt2b52eRDT) | [Spaces In Between](https://open.spotify.com/album/7B3xJoQ8nbAXpPJHXkCfW4) | 5:09 | 2025-03-25 |  |

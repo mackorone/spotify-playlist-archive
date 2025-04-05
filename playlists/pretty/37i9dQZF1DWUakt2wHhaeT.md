@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 
 ### [Broadway Rising](https://open.spotify.com/playlist/37i9dQZF1DWUakt2wHhaeT)
 
-> The best songs from the new shows and the buzziest hits\. Cover: Darren Criss and Helen J Shen in Maybe Happy Ending
+> The best songs from the new shows and the buzziest hits\. Cover: Operation Mincemeat
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,279 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,287 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [When You're in Love](https://open.spotify.com/track/4l9Y925x9oZSD0njqv8Vql) | [Helen J Shen](https://open.spotify.com/artist/5KaauashOjNGg3WxwVqsoJ), [Darren Criss](https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv) | [Maybe Happy Ending \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6wy7RABc6fzVw6kEzQOkYd) | 2:42 |
-| 2 | [Making a Man](https://open.spotify.com/track/2rfA6J1ihjLIemZ9PbKhNb) | [Operation Mincemeat](https://open.spotify.com/artist/1vI2xejTxGEQnebQGPLYfX) | [Operation Mincemeat: A New Musical \(Original Cast Recording\)](https://open.spotify.com/album/0gA0nTUk4CNoHbRljF5BP3) | 9:39 |
+| 1 | [Making a Man](https://open.spotify.com/track/2rfA6J1ihjLIemZ9PbKhNb) | [Operation Mincemeat](https://open.spotify.com/artist/1vI2xejTxGEQnebQGPLYfX) | [Operation Mincemeat: A New Musical \(Original Cast Recording\)](https://open.spotify.com/album/0gA0nTUk4CNoHbRljF5BP3) | 9:39 |
+| 2 | [When You're in Love](https://open.spotify.com/track/4l9Y925x9oZSD0njqv8Vql) | [Helen J Shen](https://open.spotify.com/artist/5KaauashOjNGg3WxwVqsoJ), [Darren Criss](https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv) | [Maybe Happy Ending \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6wy7RABc6fzVw6kEzQOkYd) | 2:42 |
 | 3 | [For The Gaze](https://open.spotify.com/track/1xU1U5erQRpSvbgeKBJj8x) | [Megan Hilty](https://open.spotify.com/artist/7ks2IcGrojAKIxnUdkHBGk), ['Death Becomes Her' Original Broadway Cast](https://open.spotify.com/artist/5vboLeKxVlZmhd5sxZ05Wc) | [Death Becomes Her \- Broadway Sneak Preview](https://open.spotify.com/album/3MIGDAti81cyz9Aijjirb8) | 4:16 |
 | 4 | [Something To Shout About](https://open.spotify.com/track/4AOW90hm0ZcRV9laXtHM8g) | [Jasmine Amy Rogers](https://open.spotify.com/artist/4brDzNt7bsWWsApI8sWWlp), [David Foster](https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF), [Original Broadway Cast of Boop! The Musical](https://open.spotify.com/artist/1HsCn7QzhAwXtzt9fejQoT) | [Something To Shout About](https://open.spotify.com/album/66aw4ymHXybQCqN0tct0aH) | 2:57 |
 | 5 | [Clubs Glorious Clubs](https://open.spotify.com/track/6VVnMWw1CRwpBbl2fv6P5o) | [Jo Foster](https://open.spotify.com/artist/17R4ymbMur8StPF1rwzD6K), [Leesa Tulley](https://open.spotify.com/artist/680Llo7QXDCRj8yGGpTE7U), [Noah Thomas](https://open.spotify.com/artist/4L0DIeYIt7LANTjOUGfy1T), [Original Cast of Why Am I So Single?](https://open.spotify.com/artist/3DwNP78t78BAZzzH4mvVmr) | [Why Am I So Single? \(Original London Cast Recording\)](https://open.spotify.com/album/4sKZ9RoA6KcP9u6PVuiIH7) | 4:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 | 49 | [Exit Music](https://open.spotify.com/track/1zjkHkiGbFgdoE1PP9TSur) | ['Here We Are' Orchestra](https://open.spotify.com/artist/4JKTbHS9FBUpE04RCcHHkb) | [Exit Music](https://open.spotify.com/album/04r1o9f2Gow9GzC6JwgASX) | 3:12 |
 | 50 | [Feel Like This](https://open.spotify.com/track/7i07v9Uf3jgHcSh2D2Zkjn) | [Jonny Amies](https://open.spotify.com/artist/2JY5SABZuugEGP21u683ye), [The Little Big Things](https://open.spotify.com/artist/5Z72Rl23lcZZ8ipkWfLcnw) | [The Little Big Things \(Original West End Cast Recording\)](https://open.spotify.com/album/7FUdcVrbpNnC6mDEqwNeHn) | 3:22 |
 
-Snapshot ID: `Z+rCIQAAAACt7Sbe5XRCn4rUGNoCIZMv`
+Snapshot ID: `Z+/6mwAAAACQjNPaZWErARJiNhkZlviq`

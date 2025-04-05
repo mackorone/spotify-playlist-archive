@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ค้นพบศิลปินรุ่นใหม่ที่น่าจับตามองแห่งปี 2025 ที่นี่เลย! ปก: guncharlie
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,325 likes - 36 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,378 likes - 36 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Baby Tee](https://open.spotify.com/track/0YRvcIlETPNLdasQYkJabY) | [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [Baby Tee](https://open.spotify.com/album/2AgNQHS5SSwt7JyJaH7YGj) | 3:48 |
-| 2 | [รักไม่รัก \(Close Friend\)](https://open.spotify.com/track/3wCdrlyRJ2zuBIZRbmDVZW) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr), [VARINZ](https://open.spotify.com/artist/6HBK5QQwMGT6CduG11q9QZ), [NONNY9](https://open.spotify.com/artist/3iOF8kiG0peRzcvbFSa9xS) | [รักไม่รัก \(Close Friend\)](https://open.spotify.com/album/5QCYOx0c5M06VH2OtkCoYA) | 2:57 |
-| 3 | [กลับไปใช้ชีวิตแบบเดิม](https://open.spotify.com/track/0e4DnxHb7xjCqEPYv91v6t) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [กลับไปใช้ชีวิตแบบเดิม](https://open.spotify.com/album/4ul97lR8PnxEgpJnzVEMVC) | 4:10 |
-| 4 | [ที่ผ่านมาขอบใจจริงๆ](https://open.spotify.com/track/0Vx23Np7HAjaQIttqOAUPR) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [ที่ผ่านมาขอบใจจริงๆ](https://open.spotify.com/album/3eSVg8YOvfjrQ7p4X0PKxg) | 5:38 |
-| 5 | [LYKYOU](https://open.spotify.com/track/6ACjBgc5dpAEqXW7C10CG0) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [LYKYOU](https://open.spotify.com/album/6tYfv1PeQKxgkGDGKlb2lK) | 3:34 |
-| 6 | [ถ่ายติดเธอนิดๆ \(Mention\)](https://open.spotify.com/track/7dTYl4jFvO8pP0C57r1WUA) | [Kakagoesbackhome](https://open.spotify.com/artist/3FmE7HqD23T9KKQmiu94M1) | [ถ่ายติดเธอนิดๆ \(Mention\)](https://open.spotify.com/album/1csBMznVHeDsC4LiJIc1W0) | 2:45 |
+| 1 | [กลับไปใช้ชีวิตแบบเดิม](https://open.spotify.com/track/0e4DnxHb7xjCqEPYv91v6t) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [กลับไปใช้ชีวิตแบบเดิม](https://open.spotify.com/album/4ul97lR8PnxEgpJnzVEMVC) | 4:10 |
+| 2 | [ที่ผ่านมาขอบใจจริงๆ](https://open.spotify.com/track/0Vx23Np7HAjaQIttqOAUPR) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [ที่ผ่านมาขอบใจจริงๆ](https://open.spotify.com/album/3eSVg8YOvfjrQ7p4X0PKxg) | 5:38 |
+| 3 | [LYKYOU](https://open.spotify.com/track/6ACjBgc5dpAEqXW7C10CG0) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [LYKYOU](https://open.spotify.com/album/6tYfv1PeQKxgkGDGKlb2lK) | 3:34 |
+| 4 | [รักไม่รัก \(Close Friend\)](https://open.spotify.com/track/3wCdrlyRJ2zuBIZRbmDVZW) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr), [VARINZ](https://open.spotify.com/artist/6HBK5QQwMGT6CduG11q9QZ), [NONNY9](https://open.spotify.com/artist/3iOF8kiG0peRzcvbFSa9xS) | [รักไม่รัก \(Close Friend\)](https://open.spotify.com/album/5QCYOx0c5M06VH2OtkCoYA) | 2:57 |
+| 5 | [ถ่ายติดเธอนิดๆ \(Mention\)](https://open.spotify.com/track/7dTYl4jFvO8pP0C57r1WUA) | [Kakagoesbackhome](https://open.spotify.com/artist/3FmE7HqD23T9KKQmiu94M1) | [ถ่ายติดเธอนิดๆ \(Mention\)](https://open.spotify.com/album/1csBMznVHeDsC4LiJIc1W0) | 2:45 |
+| 6 | [Baby Tee](https://open.spotify.com/track/0YRvcIlETPNLdasQYkJabY) | [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [Baby Tee](https://open.spotify.com/album/2AgNQHS5SSwt7JyJaH7YGj) | 3:48 |
 | 7 | [โหลยโท่ย \(Poor Boy\)](https://open.spotify.com/track/1ncwheJzbPTvNhKtwvsrjM) | [Daou Pittaya](https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf) | [โหลยโท่ย \(Poor Boy\)](https://open.spotify.com/album/0kcSrOXptP3PBv9T8r22Qc) | 3:04 |
 | 8 | [ดิ่งดาวน์ \(DOWN\)](https://open.spotify.com/track/1E9X3arqhhm3woKCQtEv01) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q) | [ดิ่งดาวน์ \(DOWN\)](https://open.spotify.com/album/5EeE1FrNjw9sJdSVRbPH3A) | 3:39 |
 | 9 | [เจ็บปวดทางใจ \(Psychogenic Pain\)](https://open.spotify.com/track/3CdllNuhOCEVN0tPLw3O6A) | [Hunsick](https://open.spotify.com/artist/2wst2I06kgWhcA7DIhsVTv) | [เจ็บปวดทางใจ \(Psychogenic Pain\)](https://open.spotify.com/album/2erqM4gw1K6ChWqlnczEhb) | 3:16 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 35 | [สุขสันต์วันเกิด \(Happybirthday\)](https://open.spotify.com/track/5CSVcRzUmYOVVYoTiIT3vT) | [Pearprapa](https://open.spotify.com/artist/7q2IazWT2XhmFEoct5vw47) | [สุขสันต์วันเกิด \(Happybirthday\)](https://open.spotify.com/album/6Mq2QvmBKurSz2bL5ZB7tI) | 3:33 |
 | 36 | [ตัวละครเอก](https://open.spotify.com/track/5YpgjlPpTBBvxgWJcpnVkV) | [Hunsick](https://open.spotify.com/artist/2wst2I06kgWhcA7DIhsVTv) | [ตัวละครเอก](https://open.spotify.com/album/5QNlha1lCPOsdZ1jf7yw1n) | 3:29 |
 
-Snapshot ID: `Z+gTgAAAAAAI9C4tkO32YN+F9nhbsGAt`
+Snapshot ID: `Z/AudwAAAAAU0BZKlSfbw7Jh8sp20O0K`

@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-783 songs - 1 day 9 hr 22 min
+784 songs - 1 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Davinci](https://open.spotify.com/track/74xrzR2MKdzp7AT06enGvk) | [Novia Stella](https://open.spotify.com/artist/5FsD7fr9sKWu0x5XdJHrDA) | [Davinci](https://open.spotify.com/album/1vkIgRJj1wNbkmEyOl9aUa) | 2:07 | 2022-07-15 | 2024-04-06 |
 | [Davos](https://open.spotify.com/track/1HysgmozgWjfu83BAbEdtc) | [Salcao](https://open.spotify.com/artist/4eVKlYwBe7gA40wiemmlNb) | [City Lights](https://open.spotify.com/album/3pB85c4xe6G94NlxPsAALn) | 2:26 | 2022-07-15 | 2023-04-22 |
 | [Daydreaming](https://open.spotify.com/track/5bW0EnMVhOu1AXw7o2MCw0) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Daydreaming](https://open.spotify.com/album/07g5N8EwAM9vyme63uFUue) | 1:54 | 2023-04-21 | 2023-06-09 |
-| [Daylight](https://open.spotify.com/track/27JyPhZMT8qnYNlOyMZLgP) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Daylight](https://open.spotify.com/album/6m9A74ji0dI8rvQVSYyyf7) | 2:29 | 2023-04-21 |  |
+| [Daylight](https://open.spotify.com/track/27JyPhZMT8qnYNlOyMZLgP) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Daylight](https://open.spotify.com/album/6m9A74ji0dI8rvQVSYyyf7) | 2:29 | 2023-04-21 | 2025-04-05 |
 | [De temps en temps](https://open.spotify.com/track/78wLZdPFQtcAccKza4LTlY) | [Thaisa Deboys](https://open.spotify.com/artist/1mIbAzEXDPLycJNcDcck5B) | [De temps en temps](https://open.spotify.com/album/7b44a6bx4AdAXbgW9rIiHy) | 2:17 | 2023-04-21 | 2023-06-03 |
 | [Dearest muse](https://open.spotify.com/track/6i59wmK54zfKwjZ3pxT8rr) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Dearest muse](https://open.spotify.com/album/2dPCMORcxiGIFcIBwdeBEd) | 2:03 | 2023-04-21 |  |
 | [Dedicatoria](https://open.spotify.com/track/4kSgfg7Onjho66CRdBNIEV) | [Enrique Granados](https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT), [Laurine Phélut](https://open.spotify.com/artist/2oK2RQBv4xshG5I2K1YsXh) | [Dedicatoria](https://open.spotify.com/album/14UWqXiWi3thrZOh1oUEIO) | 2:03 | 2023-04-21 | 2023-05-13 |
@@ -268,6 +268,7 @@
 | [Fragments of Euphoria](https://open.spotify.com/track/5OD8nTv8JgpKgoynKK0uKX) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Fragments of Euphoria](https://open.spotify.com/album/45y293r9gbGgELK6bXWJWu) | 2:02 | 2024-04-19 |  |
 | [Frelsien](https://open.spotify.com/track/3FyCPb0sXgPpBnsvIosqAZ) | [Aiday Ainur](https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj) | [Frelsien](https://open.spotify.com/album/2xX3upugD201f0C2N2AsPr) | 2:10 | 2023-06-02 |  |
 | [Frozen Caipirinha](https://open.spotify.com/track/0rl1WFFKnRVG0tDlrB2vJU) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Frozen Caipirinha](https://open.spotify.com/album/3OXLuVmNEUvts49jtiSqw4) | 3:11 | 2022-07-15 | 2023-04-22 |
+| [Fulfilled](https://open.spotify.com/track/5bDTr8O5GBM8zhrLZidCL5) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Fulfilled](https://open.spotify.com/album/7CzUiAzMrlFzPGrZ9EDcBL) | 2:47 | 2025-04-02 |  |
 | [Full Of Life](https://open.spotify.com/track/3J27JxJCR0M6KgacpLfVAC) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Full Of Life](https://open.spotify.com/album/2TNQtjdGUSaiq5FIA2ZL1p) | 2:23 | 2024-11-06 |  |
 | [Fáilte](https://open.spotify.com/track/7g4jqCEvQZGdRKemCNdOxm) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Fáilte](https://open.spotify.com/album/1Whcn3o7IpIoJtQXEBq6TZ) | 1:44 | 2023-02-24 | 2023-04-22 |
 | [Galtymore](https://open.spotify.com/track/4NkVCOn4HmV6EvxIpAjInt) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Galtymore](https://open.spotify.com/album/52jTyKeU3kMpaUYrOyHaW2) | 1:57 | 2023-04-21 | 2023-08-26 |

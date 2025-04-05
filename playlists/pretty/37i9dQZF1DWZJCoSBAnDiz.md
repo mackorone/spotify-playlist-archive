@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJCoSBAnDiz.md) - [plain]
 
 > Love & longing from Broadway's best & brightest\. Cover: Joy Woods in The Notebook on Broadway
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,416 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,428 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJCoSBAnDiz.md) - [plain]
 | 22 | [Mama Who Bore Me \- Original Broadway Cast Recording/2006](https://open.spotify.com/track/3lNieL5I1Bt9B4q61AorCR) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Spring Awakening \(Original Broadway Cast Recording\)](https://open.spotify.com/album/22BNtGKmvhmIcalNXzS9xC) | 2:20 |
 | 23 | [I Know Where I've Been](https://open.spotify.com/track/7sPU5dIHrmLzd3XqrOIXz4) | [Mary Bond Davis](https://open.spotify.com/artist/1PMFhraNne2hONe1SioPoQ), [Shayna Steele](https://open.spotify.com/artist/7tJc7ubifEnRE29FLtCHTE), [Hairspray Ensemble](https://open.spotify.com/artist/429JG9MlqrYJuazWbIN0ng), [Original Broadway Cast of Hairspray](https://open.spotify.com/artist/2fonmVretCT6oQ7woD6p4E) | [Hairspray \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3XPjEfpawBvohxBMDXwXXW) | 4:01 |
 | 24 | [So in Love](https://open.spotify.com/track/3SBLAWTQrtfm5kiGV8x9dt) | [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9) | [Kiss Me Kate \(2019 Broadway Cast Recording\)](https://open.spotify.com/album/514Zxs8m8XYkKoEgNQ1cyH) | 4:21 |
-| 25 | [Don't Cry For Me Argentina](https://open.spotify.com/track/7mhxoW5aWHn5QiZqT4rS4S) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Original Evita Cast](https://open.spotify.com/artist/7r0Mc0nEZCwo3tLMahpcfn) | [Evita](https://open.spotify.com/album/6q7kvF1D7EFQFWDaoAxJMj) | 5:51 |
+| 25 | [Don't Cry For Me Argentina](https://open.spotify.com/track/7mhxoW5aWHn5QiZqT4rS4S) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [“Evita” 2006 London Cast](https://open.spotify.com/artist/6fXDhR9Gyg3TGnyxFe5ZGq) | [Evita](https://open.spotify.com/album/6q7kvF1D7EFQFWDaoAxJMj) | 5:51 |
 | 26 | [Something To Believe In](https://open.spotify.com/track/1AD6IcfzMTyQGrNsH37SMV) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Kara Lindsay](https://open.spotify.com/artist/4wwo2P1bzRnLwJwjHrbZnv) | [Newsies \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3hqYvu1aBkroLKzkGM5DSk) | 3:31 |
 | 27 | [And I Am Telling You I'm Not Going \- Original Broadway Cast/1982](https://open.spotify.com/track/3ZPpFEandljtmTnz8D4trH) | [Jennifer Holliday](https://open.spotify.com/artist/2ju2ZxMe9yBOnt1MkWo32t) | [Dreamgirls: Original Broadway Cast Album \(25th Anniversary Special Edition\)](https://open.spotify.com/album/6XurFIcLRBy0OKPSVQ0ifa) | 4:04 |
 | 28 | [I'm Here](https://open.spotify.com/track/30q6kWgifW3DwuVydQQX3g) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [The Color Purple \(2015 Broadway Cast Recording\)](https://open.spotify.com/album/00buc4TyAb8lLoTx4PRDrP) | 4:31 |

@@ -1,13 +1,61 @@
 {
-  "description": "Dark, hard hitting pop. Cover: Ellise",
-  "num_followers": 426238,
+  "description": "Dark, hard hitting pop. Cover: Hayes Warner",
+  "num_followers": 426274,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+YhzwAAAAC4RwSXogDYFPrW5Eq8ZLNA",
+  "snapshot_id": "Z+9ZYAAAAABKp5l4XCCDSMrS321jq3LF",
   "tracks": [
+    {
+      "added_at": "2025-04-04 04:00:32",
+      "album": {
+        "name": "Threw Me Away",
+        "url": "https://open.spotify.com/album/1Su8F6OFMWs8mTUiNw2bIH"
+      },
+      "artists": [
+        {
+          "name": "Hayes Warner",
+          "url": "https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH"
+        }
+      ],
+      "duration_ms": 183128,
+      "name": "Threw Me Away",
+      "url": "https://open.spotify.com/track/4yErFNfUp8cD7BYd5WjD4B"
+    },
+    {
+      "added_at": "2025-04-04 04:00:32",
+      "album": {
+        "name": "DEVOTION",
+        "url": "https://open.spotify.com/album/3ONLL6byF649KcvUl8yL6s"
+      },
+      "artists": [
+        {
+          "name": "KiNG MALA",
+          "url": "https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2"
+        }
+      ],
+      "duration_ms": 159973,
+      "name": "DEVOTION",
+      "url": "https://open.spotify.com/track/5zXai7UeFS4k9lY9CuTXpn"
+    },
+    {
+      "added_at": "2025-04-04 04:00:32",
+      "album": {
+        "name": "GRASS IS GREENER",
+        "url": "https://open.spotify.com/album/2eCZsqAFPqiGQ3Uy8jZzoQ"
+      },
+      "artists": [
+        {
+          "name": "KANNER",
+          "url": "https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh"
+        }
+      ],
+      "duration_ms": 147540,
+      "name": "GRASS IS GREENER",
+      "url": "https://open.spotify.com/track/03NGvMraKPHuigMw4pSLyv"
+    },
     {
       "added_at": "2025-03-28 04:12:32",
       "album": {
@@ -135,6 +183,22 @@
       "duration_ms": 119040,
       "name": "Mortal Kombat",
       "url": "https://open.spotify.com/track/0bJR1UNUVlYLfFRUrAqKFn"
+    },
+    {
+      "added_at": "2025-04-04 04:00:32",
+      "album": {
+        "name": "babydoll",
+        "url": "https://open.spotify.com/album/15en7QxCLo75Ik3uaZY7Qo"
+      },
+      "artists": [
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "duration_ms": 160175,
+      "name": "babydoll",
+      "url": "https://open.spotify.com/track/0tdTGvI5viFA9KAYXxsJ4o"
     },
     {
       "added_at": "2025-02-21 05:00:22",
@@ -267,22 +331,6 @@
       "duration_ms": 133746,
       "name": "Goals",
       "url": "https://open.spotify.com/track/3rW9rYv7SE0l8MIOWnkZ2i"
-    },
-    {
-      "added_at": "2025-01-24 05:00:27",
-      "album": {
-        "name": "Oh!",
-        "url": "https://open.spotify.com/album/2SbvBAbGW8FR7w1XS6mXtt"
-      },
-      "artists": [
-        {
-          "name": "Hayes Warner",
-          "url": "https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH"
-        }
-      ],
-      "duration_ms": 180258,
-      "name": "Oh!",
-      "url": "https://open.spotify.com/track/4c9248nXVshR1AFp1i69v8"
     },
     {
       "added_at": "2025-01-10 05:00:16",
@@ -513,22 +561,6 @@
       "url": "https://open.spotify.com/track/4meDLFTdNbHqNuZ62xiKZz"
     },
     {
-      "added_at": "2024-12-06 05:05:36",
-      "album": {
-        "name": "ROCKSTAR",
-        "url": "https://open.spotify.com/album/6iBJlls04uyqgjkHU1UPNA"
-      },
-      "artists": [
-        {
-          "name": "KANNER",
-          "url": "https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "ROCKSTAR",
-      "url": "https://open.spotify.com/track/3J98fBUewnbrGuIZFT2MrL"
-    },
-    {
       "added_at": "2025-01-10 05:00:16",
       "album": {
         "name": "hot yoga in hell",
@@ -559,22 +591,6 @@
       "duration_ms": 239527,
       "name": "Closer to the moon",
       "url": "https://open.spotify.com/track/2PBpKrVVmbnrV91i56zT1I"
-    },
-    {
-      "added_at": "2025-01-10 05:00:16",
-      "album": {
-        "name": "G\u00d8D",
-        "url": "https://open.spotify.com/album/7qD49vJQcp5IwNXSgFo5Ut"
-      },
-      "artists": [
-        {
-          "name": "KiNG MALA",
-          "url": "https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2"
-        }
-      ],
-      "duration_ms": 218626,
-      "name": "G\u00d8D",
-      "url": "https://open.spotify.com/track/3Ycwfj94uJWSsAyaMoOkZF"
     },
     {
       "added_at": "2024-11-11 19:03:06",
@@ -811,22 +827,6 @@
       "duration_ms": 158166,
       "name": "DON'T!",
       "url": "https://open.spotify.com/track/6oIW5g7RHZtok3cjF2nePu"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "The Death Of Daisies",
-        "url": "https://open.spotify.com/album/4E6DCiAAURzas9udSwr5NG"
-      },
-      "artists": [
-        {
-          "name": "Neoni",
-          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
-        }
-      ],
-      "duration_ms": 162212,
-      "name": "Catatonic",
-      "url": "https://open.spotify.com/track/496EwIE0cD8Wp6ylc6D9bH"
     }
   ],
   "unique_name": "SALT",

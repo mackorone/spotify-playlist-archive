@@ -4,7 +4,7 @@
 
 > mostly furry
 
-319 songs - 16 hr 14 min
+320 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Furries of America](https://open.spotify.com/track/0GhtAOPQynLIVcz9WBdI2Q) | [Cyberhound](https://open.spotify.com/artist/0B15suDyWUUrMTXJNUJ5gH) | [Furries of America](https://open.spotify.com/album/3PbQjmLDMmyOMqdDT2cyvz) | 3:06 | 2024-07-15 |  |
 | [FurryFoofi](https://open.spotify.com/track/1JXPZp5QIMsXHDTi9MLfh3) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 3:12 | 2024-08-17 |  |
 | [Furrýmon: Gotta Smash ’Em All!](https://open.spotify.com/track/2fHZAXOHW6MloDdXRqNhrS) | [The Chalkeaters](https://open.spotify.com/artist/7x7YgBS9WW3rfvfagAlohI), [Black Gryph0n](https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD), [PiNKII](https://open.spotify.com/artist/3PG2tJxxB6fh7o7YIGRrnM) | [Furrýmon: Gotta Smash ’Em All!](https://open.spotify.com/album/6rmH0AwGNsUm5juguz28ZQ) | 3:31 | 2024-01-20 |  |
+| [Fursuit Friday](https://open.spotify.com/track/1X1EVr6b5g2YUv0uiOEi71) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Fading Away](https://open.spotify.com/album/4lKIb0JsCUBrpmAkLRPK16) | 1:26 | 2025-04-04 |  |
 | [Fusion Core](https://open.spotify.com/track/3xBwzNRocE0ISbdh8wTpyx) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Forgotten Arcade](https://open.spotify.com/album/6ARqHNLjBsMz438SUnLf1n) | 2:33 | 2025-03-28 |  |
 | [Galaxy](https://open.spotify.com/track/7H1riDF2BhjeUP0Gvfvt1L) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Galaxy](https://open.spotify.com/album/5mOYMAiHKtV9HOP2K9JMv9) | 3:43 | 2024-05-15 |  |
 | [Gas Room](https://open.spotify.com/track/0fu0mSr6Da9I8DZljOZ46B) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 0:45 | 2024-12-24 |  |

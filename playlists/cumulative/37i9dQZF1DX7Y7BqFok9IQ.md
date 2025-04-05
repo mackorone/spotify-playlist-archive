@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Samantha Fish
 
-362 songs - 23 hr 34 min
+363 songs - 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Bright Lights, Big City](https://open.spotify.com/track/4TE1mJzeu3os3j4YcCfkMI) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [Mr\. Luck: The Complete Vee\-Jay Singles](https://open.spotify.com/album/2zQv74POvtwU8V7v8FRlAe) | 2:49 | 2024-05-24 | 2024-07-06 |
 | [Broken Bones](https://open.spotify.com/track/2ZTXDpAna2oX7SmxctOjmi) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Broken Bones](https://open.spotify.com/album/7Bo93WOR189AwOAt6RUvAD) | 3:25 | 2023-06-30 |  |
 | [Call It Stormy Monday](https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:07 | 2024-05-24 | 2024-07-06 |
+| [Can Ya Handle The Heat?](https://open.spotify.com/track/7bQsyY4627F3Xg05RtvzgP) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Can Ya Handle The Heat?](https://open.spotify.com/album/1OVvAY4Xa0sAIPVtej7K8S) | 2:54 | 2025-04-04 |  |
 | [Can't Go Back](https://open.spotify.com/track/1UakN2FvjlCtktr5C7eKTU) | [Eric Steckel](https://open.spotify.com/artist/1Nszrfn8SpD5v19xCpaVbk) | [Polyphonic Prayer](https://open.spotify.com/album/1UDIrNUj89EZLk6sxDMQEo) | 4:55 | 2020-10-16 |  |
 | [Catch Me If You Can \(feat\. Chris Robertson\)](https://open.spotify.com/track/2Q7MG9T0kCEEJmDpaKP4be) | [The Picturebooks](https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo), [Chris Robertson](https://open.spotify.com/artist/1GdMYXxQLiGQCdZZd153HL) | [Catch Me If You Can \(feat\. Chris Robertson\)](https://open.spotify.com/album/52SxUXwHjJNNBLvSlmbBjC) | 3:32 | 2021-07-16 | 2024-03-09 |
 | [Cause We've Ended as Lovers](https://open.spotify.com/track/4zoQ3EqopTIGmK2c2rPV5t) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Blow By Blow](https://open.spotify.com/album/6fhTDVBs7qeoP3254hMu6u) | 5:42 | 2024-05-24 | 2024-07-06 |
@@ -302,7 +303,7 @@
 | [Superhuman](https://open.spotify.com/track/5IT0dXkBnNZ1cefzaSWDWx) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Superhuman](https://open.spotify.com/album/1B25jVWUCH41IhBo6iz5WK) | 4:05 | 2021-12-07 | 2023-08-05 |
 | [Sweet & Low](https://open.spotify.com/track/4RuruayuG27N6NOw6fis9I) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Sweet & Low](https://open.spotify.com/album/3C2esoQ2IvOC6cccE6y5kE) | 3:55 | 2023-08-25 | 2023-11-18 |
 | [Sweet Life](https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Sweet Life](https://open.spotify.com/album/29ZosBvsj6uCsFJ8YMgLKB) | 3:33 | 2023-08-18 | 2023-09-23 |
-| [Sweet Southern Sounds](https://open.spotify.com/track/0MSeSaQgYPbcDcvsUMNA0d) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Sweet Southern Sounds](https://open.spotify.com/album/6eAO9mBoyOKyh8CLcopqzB) | 5:01 | 2025-02-14 |  |
+| [Sweet Southern Sounds](https://open.spotify.com/track/0MSeSaQgYPbcDcvsUMNA0d) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Sweet Southern Sounds](https://open.spotify.com/album/6eAO9mBoyOKyh8CLcopqzB) | 5:01 | 2025-02-14 | 2025-04-05 |
 | [Taking Me Back](https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Taking Me Back](https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw) | 4:05 | 2021-10-22 | 2023-03-04 |
 | [Tastes Like Heaven](https://open.spotify.com/track/7rWzGacuXlFQrtxxBKwWM7) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Tastes Like Heaven](https://open.spotify.com/album/53Rg8ZnwNUA2iuwjLpyGS6) | 3:20 | 2024-07-05 | 2024-12-07 |
 | [Tell Me](https://open.spotify.com/track/51X5Rk23XIUiUid7GVlQZf) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:17 | 2021-02-26 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-24",
-  "description": "\u30b0\u30ed\u30fc\u30d0\u30eb\u3067\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Boys groups/solo artists shining beyond borders. Cover: JO1",
+  "description": "\u30b0\u30ed\u30fc\u30d0\u30eb\u3067\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Boys groups/solo artists shining beyond borders. Cover: ENHYPEN",
   "name": "Boy in the Moon",
   "tracks": [
     {
@@ -957,6 +957,24 @@
     },
     {
       "album": {
+        "name": "HOUSE OF TRICKY : SPUR",
+        "url": "https://open.spotify.com/album/34AWJLKuS7vDo9WvPSd6rE"
+      },
+      "artists": [
+        {
+          "name": "xikers",
+          "url": "https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183080,
+      "name": "BREATHE",
+      "url": "https://open.spotify.com/track/2P5bbp7BeVtrECPJaN8AFO"
+    },
+    {
+      "album": {
         "name": "BREMEN",
         "url": "https://open.spotify.com/album/7wYlDlMNbNRnyxhGzF660D"
       },
@@ -986,7 +1004,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 220400,
       "name": "BURN",
       "url": "https://open.spotify.com/track/0mLlgmGGR4X03gsyu8pz4i"
@@ -1058,7 +1076,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 220613,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/6lmEozWswCzaSr6SS3Klsq"
@@ -3102,7 +3120,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 201386,
       "name": "I'mma Be",
       "url": "https://open.spotify.com/track/09B49mDd16vmAxbRKXdTfd"
@@ -4000,6 +4018,24 @@
       "duration_ms": 129466,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/6DWAaxDv3HfeJbUCNnXwRB"
+    },
+    {
+      "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2XCAFhzTvaqKFJogtaJnz1"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210762,
+      "name": "Loose",
+      "url": "https://open.spotify.com/track/3YNjvUXgfQznx5IZHAXk6i"
     },
     {
       "album": {
@@ -6190,7 +6226,7 @@
       },
       "artists": [
         {
-          "name": "PROJECT JASP.ER",
+          "name": "JASP.ER",
           "url": "https://open.spotify.com/artist/1wBe2nbEVc01LGBk4YCxER"
         }
       ],
@@ -7562,7 +7598,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-02",
+      "date_removed": null,
       "duration_ms": 191186,
       "name": "Unfreeze",
       "url": "https://open.spotify.com/track/7Ko3Ark4s7OL7sQIo1ToHR"

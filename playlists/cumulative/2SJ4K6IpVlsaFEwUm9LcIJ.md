@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: march\-april 2025 \(previous playlists archived on my profile\)
 
-518 songs - 1 day 5 hr 33 min
+520 songs - 1 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Hey, Hey Girl](https://open.spotify.com/track/0yKDswdkUhrD1FlI7OaXfe) | [Rocketship](https://open.spotify.com/artist/2dLzeuFyFPAYdWKU3UuYTA) | [Hey, Hey Girl 7"](https://open.spotify.com/album/4MCpw6grgnk4HK0QPkKk67) | 2:15 | 2024-04-03 | 2024-05-16 |
 | [Hidden Glow](https://open.spotify.com/track/712k1F2RhljxhqVAVRlvnv) | [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN), [Daniel Dor](https://open.spotify.com/artist/1MKHZ2XG5GkCmLK7VMGjIZ) | [The Garden Suite](https://open.spotify.com/album/0UccFpMfqmge5fNISVNHdH) | 2:14 | 2024-12-09 | 2025-01-12 |
 | [Himmel](https://open.spotify.com/track/2VSkFvTEK9R7AsrWRLp8ON) | [Ebbb](https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW) | [Himmel / Swarm](https://open.spotify.com/album/63Fj5OB3G8u7LZsYADylFd) | 3:29 | 2024-09-08 | 2024-11-14 |
+| [Hog Of The Forsaken](https://open.spotify.com/track/0f5bYBJ7CQkqqLZjhJTNw9) | [Michael Hurley](https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz) | [Long Journey](https://open.spotify.com/album/3jqLDxYTcxRXOWIL6UcquW) | 3:35 | 2025-04-04 |  |
 | [Home Before Dark](https://open.spotify.com/track/5w7hp3eB2fpRSIxKgRfpXg) | [Nora Guthrie](https://open.spotify.com/artist/3XDzVXu9qPOYMcxvN8Qq7t) | [Sky Girl](https://open.spotify.com/album/26KwR2FDMoA6OgYPtPy0U9) | 2:36 | 2024-05-16 | 2024-07-12 |
 | [Home Is in Your Head](https://open.spotify.com/track/1RLbifxzeiRb4VazXCn0H8) | [His Name Is Alive](https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL) | [Home Is in Your Head](https://open.spotify.com/album/7I0VFFotoizHk2FoNP3V9F) | 2:23 | 2024-07-29 | 2024-09-08 |
 | [Homme \(萌夢\)](https://open.spotify.com/track/7JV4O8Lh5zb62U4lyll4Ew) | [Oscilation Circuit](https://open.spotify.com/artist/3jvi65ZLtt5fPK1CqFYIW5) | [Oscilation Circuit \- Série Réflexion 1](https://open.spotify.com/album/0NdCm0U0cSvcGSNIZVJhwc) | 16:49 | 2024-12-02 | 2025-01-12 |
@@ -364,6 +365,7 @@
 | [Plans Get Complex](https://open.spotify.com/track/5FEzARoBNBiXHMc0zIwVGY) | [All\-Time Quarterback](https://open.spotify.com/artist/6ET8MURTVBf6SYHnBYmtoG) | [All\-Time Quarterback](https://open.spotify.com/album/7sYACgELhBbaWmOihhIBWp) | 2:41 | 2024-05-30 | 2024-07-12 |
 | [Please Stand By](https://open.spotify.com/track/4fD3AMQTVRLuil3SKDKaVv) | [The Shivvers](https://open.spotify.com/artist/2s3zHhJ18IqSPNfOKb5Ip6) | [Lost Hits From Milwaukee's First Family Of Powerpop 1979\-82](https://open.spotify.com/album/3UJIHfRGlXH7BRKzosUVNI) | 3:14 | 2025-02-22 | 2025-03-02 |
 | [POKKA POKKA](https://open.spotify.com/track/2diC2THH55uAw4GGpZQjwn) | [Fishmans](https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR) | [宇宙 日本 世田谷](https://open.spotify.com/album/0hUfv1cSXNaBZ6dHKGluEy) | 4:04 | 2024-01-24 | 2024-03-10 |
+| [Polynesia](https://open.spotify.com/track/1kRSfl02tYqUkyNuAuStDC) | [Michael Hurley](https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz) | [Long Journey](https://open.spotify.com/album/3jqLDxYTcxRXOWIL6UcquW) | 2:23 | 2025-04-04 |  |
 | [Post\-War Glamour Girls](https://open.spotify.com/track/3ocWpEl44dJAIMuDCMqC4E) | [John Cooper Clarke](https://open.spotify.com/artist/0EOkMBYWbDnVqwfHA4zq32) | [The Very Best Of](https://open.spotify.com/album/0GbJSduK8qUuLpG91duF0C) | 3:31 | 2024-02-28 | 2024-03-05 |
 | [Pre\-munitions](https://open.spotify.com/track/7Bw7Dv6BCHA9O0AmzggOax) | [Daedelus](https://open.spotify.com/artist/1YRGQOk4Mk9EpM6nTJhXtK) | [The Light Brigade](https://open.spotify.com/album/6yT4qGlJQE3Nvxf6MukGIZ) | 2:24 | 2024-07-29 | 2024-09-08 |
 | [Pretty Saro](https://open.spotify.com/track/4jmdZCEsv3TOcfqlm5uuWz) | [Rocketship](https://open.spotify.com/artist/2dLzeuFyFPAYdWKU3UuYTA) | [Rarities](https://open.spotify.com/album/0UCekWcWFccf98HZ3kuTAP) | 2:53 | 2024-10-10 | 2024-11-14 |

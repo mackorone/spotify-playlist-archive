@@ -29513,6 +29513,24 @@
     },
     {
       "album": {
+        "name": "Going, Going, Gone",
+        "url": "https://open.spotify.com/album/09wq2K4RuML1nNbG93ubT8"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175590,
+      "name": "Going, Going, Gone",
+      "url": "https://open.spotify.com/track/1q1yT9GHe2eWkE3u9cWMuv"
+    },
+    {
+      "album": {
         "name": "GOLD",
         "url": "https://open.spotify.com/album/7EUIivZlOlSqQbFYZxNig9"
       },
@@ -84337,7 +84355,7 @@
     },
     {
       "album": {
-        "name": "Surrender (with Becky Hill)",
+        "name": "Surrender",
         "url": "https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd"
       },
       "artists": [
@@ -84354,7 +84372,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 144664,
-      "name": "Surrender (with Becky Hill)",
+      "name": "Surrender",
       "url": "https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY"
     },
     {

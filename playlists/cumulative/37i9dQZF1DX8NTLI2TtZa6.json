@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Adore",
+        "url": "https://open.spotify.com/album/2xSRcZ6N1Kyy9QbWMXcdnS"
+      },
+      "artists": [
+        {
+          "name": "Tim Firth",
+          "url": "https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158609,
+      "name": "Adore",
+      "url": "https://open.spotify.com/track/4Zc5MaJbyLZjkkiG0267dT"
+    },
+    {
+      "album": {
         "name": "Adrift",
         "url": "https://open.spotify.com/album/0gd9OapwkT78fIHQ1zbZFa"
       },
@@ -8846,6 +8864,24 @@
       "duration_ms": 170986,
       "name": "The Last Goodbye",
       "url": "https://open.spotify.com/track/0CFHCZ9LKhFA1DqExQHkf9"
+    },
+    {
+      "album": {
+        "name": "The Mighty Ocean",
+        "url": "https://open.spotify.com/album/481dJbM3TjoBdOawFxqiMi"
+      },
+      "artists": [
+        {
+          "name": "Richard Sauzal",
+          "url": "https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170473,
+      "name": "The Mighty Ocean",
+      "url": "https://open.spotify.com/track/3Fjin8fnhoA4cuz7WLVHC5"
     },
     {
       "album": {

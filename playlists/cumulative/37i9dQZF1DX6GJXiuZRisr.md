@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-575 songs - 1 day 16 hr 3 min
+576 songs - 1 day 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [LINE IN THE SAND](https://open.spotify.com/track/1ChJyLrvuFRUQIbBuavjcO) | [KILL SCRIPT](https://open.spotify.com/artist/1wvo1Xor4CLS2ySK1HywfH), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [LINE IN THE SAND](https://open.spotify.com/album/3gJhVuyWCQR2B1HknimhZk) | 5:05 | 2022-06-03 | 2023-06-12 |
 | [Lioness \- Argy Remix](https://open.spotify.com/track/65baOP5OngpGwLOeFI1drl) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI) | [Lioness \(Argy Remix\)](https://open.spotify.com/album/3PXHFsTDpYQyQe31jilqYr) | 3:07 | 2024-12-13 |  |
 | [Little Darling \- Joris Voorn Remix](https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Little Darling \(Joris Voorn Remix\)](https://open.spotify.com/album/2dtExe65fdE0PJLhnPpFyU) | 3:20 | 2023-03-31 | 2024-07-03 |
+| [Live My Life](https://open.spotify.com/track/2a0Az8oSMkiZjOpWNzXICs) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Live My Life](https://open.spotify.com/album/7C4dHLELP7ivO6HXeLltK3) | 4:01 | 2025-04-04 |  |
 | [London To Buenos Aires](https://open.spotify.com/track/44db9t1Dj5UJrBp99RQgvg) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB) | [London To Buenos Aires](https://open.spotify.com/album/23voORn42hd5caxnLbTJwy) | 3:05 | 2025-01-10 |  |
 | [Lose Control](https://open.spotify.com/track/0bqjS54zmDlYanW8mlx28k) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ) | [Deep State](https://open.spotify.com/album/52beQVaTRkEsdip6N4nWZo) | 5:37 | 2021-05-07 | 2023-06-10 |
 | [Lose Your Head \- CamelPhat Remix](https://open.spotify.com/track/7aggzqfbAW7LnkJUy9UAdJ) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Lose Your Head \(CamelPhat Remix\)](https://open.spotify.com/album/4WTLAbwOs4ev2nneLA9DrH) | 3:36 | 2021-05-07 | 2023-06-28 |
@@ -551,7 +552,7 @@
 | [Voye](https://open.spotify.com/track/54GMmWJvKU8o1BrGB1NaqO) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Voye/Culture Is Chaos](https://open.spotify.com/album/5SGkJqdh31fCP50j2boyrv) | 4:34 | 2021-05-07 | 2022-04-17 |
 | [Waiting For You](https://open.spotify.com/track/67cSFn3SLBoKqGW20bswdw) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Waiting For You](https://open.spotify.com/album/6nNwHKu6VPH8XNSoLXOyGg) | 3:45 | 2021-07-30 | 2022-08-15 |
 | [Walk The Plank](https://open.spotify.com/track/2UOLMbCUDhHWWXxY3P8Pzk) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Childish\(ish\)](https://open.spotify.com/album/1dHOZWCFxMPDer1fKN2uOZ) | 4:45 | 2025-01-10 |  |
-| [Want You](https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Want You](https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc) | 3:58 | 2024-05-31 |  |
+| [Want You](https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Want You](https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc) | 3:58 | 2024-05-31 | 2025-04-05 |
 | [Warehouse](https://open.spotify.com/track/2wER3gVMMIWPusxOjoWlcQ) | [Oliver Smith](https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic) | [Warehouse](https://open.spotify.com/album/5nMBgawIQbyTWNeQ5HVXxK) | 4:06 | 2021-05-07 | 2022-08-15 |
 | [Warrior](https://open.spotify.com/track/5cjbk2qAP4pWvntOySll30) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Warrior](https://open.spotify.com/album/6Ajxy3TSyqd7mZJI4QELXl) | 3:25 | 2024-04-26 | 2024-05-25 |
 | [Waves of the Soul](https://open.spotify.com/track/3pIFT7NY5IjtUoLlD1kWOt) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Waves of the Soul](https://open.spotify.com/album/3j0ZhOcH3kccfgsVKUa7mL) | 3:32 | 2022-06-03 | 2022-07-29 |

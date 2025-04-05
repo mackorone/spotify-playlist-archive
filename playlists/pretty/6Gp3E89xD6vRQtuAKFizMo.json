@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44178,
+  "num_followers": 44181,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZ8SlQSBQB0oCVZp5nYXhfy1k1M6Af",
+  "snapshot_id": "AAAZ8xcQGFX3Q8Ec3yrNQBITUd2VUvfK",
   "tracks": [
+    {
+      "added_at": "2025-04-04 14:37:34",
+      "album": {
+        "name": "Constellations",
+        "url": "https://open.spotify.com/album/60ybkgibPLXdmCARNfgPpu"
+      },
+      "artists": [
+        {
+          "name": "PLS&TY",
+          "url": "https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT"
+        }
+      ],
+      "duration_ms": 197494,
+      "name": "Constellations",
+      "url": "https://open.spotify.com/track/3xYoSWNvmfh3iqwVQ7C2s9"
+    },
+    {
+      "added_at": "2025-04-04 14:38:01",
+      "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/0LR8Ik7nU99JSLyj10ozaf"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        },
+        {
+          "name": "Haus of Panda",
+          "url": "https://open.spotify.com/artist/1sJbXvN5tJwsn9JQuM8fTo"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/6NpIoNOekUlkZotewb82Hn"
+    },
     {
       "added_at": "2025-03-28 09:36:26",
       "album": {

@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-772 songs - 2 day 6 hr 59 min
+773 songs - 2 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [If I Know](https://open.spotify.com/track/7EKgrGZqebKLFiNaLbvb7X) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi) | [If I Know](https://open.spotify.com/album/0gA1VaB4lIGcaf4WZYJg5n) | 6:09 | 2021-10-06 | 2022-07-25 |
 | [Ikanabore](https://open.spotify.com/track/7daO8ks74hq53Ejgfvzdf6) | [Pigeon](https://open.spotify.com/artist/2BQ03tTneAqHqm6qWjFKBU) | [Backslider](https://open.spotify.com/album/2cQEpr2WQBUtjgGaXcMy3B) | 3:47 | 2023-06-19 | 2023-07-19 |
 | [Il volo](https://open.spotify.com/track/1EQBXYxcRsUnymzLN8nxwT) | [Capinera](https://open.spotify.com/artist/0aS3d5fd7GrmApv4p7nho8) | [Il volo](https://open.spotify.com/album/5FmADjA3XSsqFx5iSJc27H) | 4:07 | 2023-08-07 |  |
+| [In Love](https://open.spotify.com/track/7zhTjUV0ippY3Mlwgd1HTo) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [In Love](https://open.spotify.com/album/6z8So0EpzDzXg2L1cVa3f7) | 2:50 | 2025-03-28 |  |
 | [In Lust](https://open.spotify.com/track/49xVYRohos3yfT19Vz1lM7) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Cause & Effect](https://open.spotify.com/album/0dITivzCKB2PwtQj9Txc0d) | 3:13 | 2022-03-04 |  |
 | [In The Middle](https://open.spotify.com/track/3OtxCmuaYCA8mX1sMcm7ba) | [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L), [The Heliocentrics](https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv) | [Jaiyede Afro](https://open.spotify.com/album/6qbKpBTwlQw53EjMD0BLs5) | 4:52 | 2021-10-06 | 2024-04-19 |
 | [In The Middle](https://open.spotify.com/track/7HrJQRJ7qGxUGgrSmnlDOs) | [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L), [The Heliocentrics](https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv) | [Jaiyede Afro](https://open.spotify.com/album/5kyKyhn7lTjuVWfe6PirAk) | 4:52 | 2021-10-06 | 2022-05-10 |
@@ -415,7 +416,7 @@
 | [Lotus](https://open.spotify.com/track/6o8TnSHigKVdqxXDVtmbIx) | [Sven Wunder](https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly) | [Eastern Flowers \(Doğu Çiçekleri\)](https://open.spotify.com/album/1Z821RvawUQZ5ExkogGKCU) | 3:24 | 2021-10-06 | 2022-07-08 |
 | [Love The Way You Love](https://open.spotify.com/track/556c8oARPcgftAtxRE2Wz9) | [Claude Fontaine](https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y) | [Love The Way You Love/Lover's Vow](https://open.spotify.com/album/5u0g02zU7BM4MclrO8H6Vv) | 2:56 | 2024-08-02 | 2024-11-24 |
 | [Lovin'](https://open.spotify.com/track/72nY8T0GWF3bCTRjpE1kpi) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Lovin'](https://open.spotify.com/album/2agFe3zLex12Y3mSFiuOyb) | 2:01 | 2024-02-09 | 2024-09-23 |
-| [Lupita](https://open.spotify.com/track/1Xnf2h75C55EKU8H9msq7G) | [Nico Gomez And His Afro Percussion Inc.](https://open.spotify.com/artist/364fBwwx3s5jbfL90uDXys) | [Ritual](https://open.spotify.com/album/2ayMxfYWzohGfq0ZDtmOGQ) | 3:42 | 2023-12-20 |  |
+| [Lupita](https://open.spotify.com/track/1Xnf2h75C55EKU8H9msq7G) | [Nico Gomez And His Afro Percussion Inc.](https://open.spotify.com/artist/364fBwwx3s5jbfL90uDXys) | [Ritual](https://open.spotify.com/album/2ayMxfYWzohGfq0ZDtmOGQ) | 3:42 | 2023-12-20 | 2025-04-05 |
 | [Ma'a Ibnat](https://open.spotify.com/track/2PQePG0V7qY5svFvwKoFvF) | [Ouiness](https://open.spotify.com/artist/3OatvQHeTWSnkuKDvvfVnd) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Part 2\) \(Habibi Funk 015\)](https://open.spotify.com/album/2QTAwOmV0lj1S1zGTuipFg) | 2:52 | 2021-10-06 | 2022-01-14 |
 | [Macumba de Marea](https://open.spotify.com/track/34NHlhFXYug6lChbveHIVU) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Almas Conectadas](https://open.spotify.com/album/2ecxzRChLnsvsmrF3DXp4Z) | 5:11 | 2022-04-26 | 2022-07-29 |
 | [Magica Nueva](https://open.spotify.com/track/6BMnWybJGa1ECarOi99Xvo) | [Junglelyd](https://open.spotify.com/artist/4iZlSQSRIZ5HYEwwcfbR0c) | [Paracaídas](https://open.spotify.com/album/6EPBq63T1DMFseKbMJ4qwm) | 3:19 | 2021-10-06 | 2022-04-21 |

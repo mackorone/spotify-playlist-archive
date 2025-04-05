@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of electronic trap \ud83c\udfc6 with WINK",
+  "description": "The best of electronic trap \ud83c\udfc6 with AHEE",
   "name": "Trap Mojito",
   "tracks": [
     {
@@ -850,7 +850,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-29",
+      "date_removed": null,
       "duration_ms": 133024,
       "name": "Bad Boys",
       "url": "https://open.spotify.com/track/3fAB50Ai1HwM0ibAAL0iyr"
@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 165000,
       "name": "Bout To Break",
       "url": "https://open.spotify.com/track/4bNrncBCRWlfSn3qCJGwGE"
@@ -2277,6 +2277,28 @@
     },
     {
       "album": {
+        "name": "Amor Fati",
+        "url": "https://open.spotify.com/album/6IELLPG3tPDSTtaUHBCZvo"
+      },
+      "artists": [
+        {
+          "name": "Visages",
+          "url": "https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL"
+        },
+        {
+          "name": "Snowy",
+          "url": "https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167323,
+      "name": "Crystal Clear",
+      "url": "https://open.spotify.com/track/5QH8PSo9Hi45H4Qyft1lxH"
+    },
+    {
+      "album": {
         "name": "Cyanide",
         "url": "https://open.spotify.com/album/0PjSvHusBgifniYJcyBsBp"
       },
@@ -2698,7 +2720,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 157500,
       "name": "Dissonance",
       "url": "https://open.spotify.com/track/11c0skcVRXliRFtjAPUjGV"
@@ -4704,7 +4726,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 107793,
       "name": "Goblin Mode",
       "url": "https://open.spotify.com/track/5IbdRBgL9g3BqjT7PcbioK"
@@ -4888,6 +4910,28 @@
       "duration_ms": 224210,
       "name": "GUD VIBRATIONS",
       "url": "https://open.spotify.com/track/2BVUOGciUUUqOPSLtHwLGp"
+    },
+    {
+      "album": {
+        "name": "F*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3",
+        "url": "https://open.spotify.com/album/784znju28Nz5zSuRuthPcO"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Naisha",
+          "url": "https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79443,
+      "name": "GULAB XX",
+      "url": "https://open.spotify.com/track/0HPYbPgdKlcwutDKIsq54L"
     },
     {
       "album": {
@@ -5200,7 +5244,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 153428,
       "name": "Heavyweight",
       "url": "https://open.spotify.com/track/4XSpvXB6Weu3lB36WRBPVF"
@@ -6058,7 +6102,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 167516,
       "name": "In The Cut",
       "url": "https://open.spotify.com/track/4VaQSqvF2vX7vqv8f8HLRO"
@@ -8851,6 +8895,82 @@
     },
     {
       "album": {
+        "name": "Wubcraft",
+        "url": "https://open.spotify.com/album/2MdkF4EC4vEyLl7CZ2M43i"
+      },
+      "artists": [
+        {
+          "name": "AHEE",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        },
+        {
+          "name": "Stylust",
+          "url": "https://open.spotify.com/artist/2Y1LgWOVPz5m1qCuzkWEQu"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/0pyg49BbMZHGnkWCJJw0Xw"
+    },
+    {
+      "album": {
+        "name": "Pantheon II",
+        "url": "https://open.spotify.com/album/2tSuTcaVIBogDYXrrDK0e9"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bayer",
+          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
+        },
+        {
+          "name": "Blastoyz",
+          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+        },
+        {
+          "name": "Feed Me",
+          "url": "https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby"
+        },
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        },
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "Last Heroes",
+          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
+        },
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "STAR SEED",
+          "url": "https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd"
+        },
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Sarah Herz",
+          "url": "https://open.spotify.com/artist/003YLW0xcEPffwlgLfnsft"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344594,
+      "name": "Pantheon II",
+      "url": "https://open.spotify.com/track/0nItfAFq815BS2ML9ls4ct"
+    },
+    {
+      "album": {
         "name": "nolimit",
         "url": "https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv"
       },
@@ -8914,6 +9034,24 @@
       "duration_ms": 216428,
       "name": "People I Know",
       "url": "https://open.spotify.com/track/2pvS2qIkOSFlvLkGBAgQ2o"
+    },
+    {
+      "album": {
+        "name": "PLEASURE / RAINBOWFHISH",
+        "url": "https://open.spotify.com/album/5RJHzs0VQ9DGjZR7cdIIG3"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232021,
+      "name": "PLEASURE",
+      "url": "https://open.spotify.com/track/4YuvJDnq3mIJgNwnab08yE"
     },
     {
       "album": {
@@ -9333,6 +9471,24 @@
     },
     {
       "album": {
+        "name": "F*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3",
+        "url": "https://open.spotify.com/album/784znju28Nz5zSuRuthPcO"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76798,
+      "name": "REDLINE DASH",
+      "url": "https://open.spotify.com/track/2EiGLWYEH6x79f9ir0VEah"
+    },
+    {
+      "album": {
         "name": "REDloop",
         "url": "https://open.spotify.com/album/0tPEC1IBHLBrXMwWDDCJpq"
       },
@@ -9610,7 +9766,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 122538,
       "name": "ROYALT\u00a5",
       "url": "https://open.spotify.com/track/1c3Ay55eRqPHa0p4z1XhDU"
@@ -9756,7 +9912,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 173600,
       "name": "RUSH",
       "url": "https://open.spotify.com/track/0XzKj2ATe07KA0eJfrdNjL"
@@ -11016,7 +11172,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 140800,
       "name": "SUPAFREAK",
       "url": "https://open.spotify.com/track/39KnHWRAxhXRRU6kltA9qz"
@@ -11078,7 +11234,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 206854,
       "name": "SWITCH",
       "url": "https://open.spotify.com/track/1AQSdJMvUBHOLntq1yKnKs"
@@ -11114,7 +11270,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-29",
+      "date_removed": null,
       "duration_ms": 126857,
       "name": "System Shake",
       "url": "https://open.spotify.com/track/0EeDZrahgphLgVTOmtQZCU"
@@ -12074,6 +12230,24 @@
       "duration_ms": 157714,
       "name": "Trust - VIP Mix",
       "url": "https://open.spotify.com/track/5Kwy6gGIkpAyBDqmSokJOx"
+    },
+    {
+      "album": {
+        "name": "Try Again",
+        "url": "https://open.spotify.com/album/6CxSfaeeQFlzmcn0uc4jSo"
+      },
+      "artists": [
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244883,
+      "name": "Try Again",
+      "url": "https://open.spotify.com/track/6iDOGlPGVC380H9ufZUQJb"
     },
     {
       "album": {

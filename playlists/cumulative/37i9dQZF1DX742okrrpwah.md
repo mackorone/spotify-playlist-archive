@@ -4,7 +4,7 @@
 
 > Ed Sheeran, Miley Cyrus et KeBlack au top des nouveautés de la semaine !
 
-4,144 songs - 8 day 23 hr 28 min
+4,145 songs - 8 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2215,6 +2215,7 @@
 | [Look Who's Laughing Now](https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Look Who's Laughing Now](https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3) | 2:54 | 2024-06-13 | 2024-06-21 |
 | [Looking For the Answer](https://open.spotify.com/track/2EKaizMj9CNyQQT72Fxo32) | [Camel Power Club](https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG) | [Looking For the Answer](https://open.spotify.com/album/5zPrKYINTfLGwbOg1HPzZ4) | 5:02 | 2024-06-06 | 2024-06-14 |
 | [LOOPING](https://open.spotify.com/track/7pclPTC0ht9dQJfUbKEcUR) | [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc), [Booska\-P](https://open.spotify.com/artist/49mOLAzenRv6kDrr4Akajh) | [LOOPING](https://open.spotify.com/album/0dodDMxgomy2hrSNwGuo1a) | 2:21 | 2024-10-24 | 2024-11-01 |
+| [Loose](https://open.spotify.com/track/3YNjvUXgfQznx5IZHAXk6i) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Loose](https://open.spotify.com/album/2XCAFhzTvaqKFJogtaJnz1) | 3:30 | 2025-04-03 |  |
 | [Loose Ends](https://open.spotify.com/track/7vYDu6ViTuxBIE88LjyfEk) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Loose Ends](https://open.spotify.com/album/2i4biYAqbgxIzrUOk0CB46) | 3:01 | 2024-11-28 | 2024-12-06 |
 | [Loova](https://open.spotify.com/track/2TXyB18Jb5soHpkltPuOYG) | [Taïro](https://open.spotify.com/artist/3yTebTUCCcdO6f6RN7vVlY) | [Loova](https://open.spotify.com/album/5pTr3vSHZ9ElOsahi29UKk) | 2:59 | 2024-11-28 | 2024-12-06 |
 | [LORO PIANA](https://open.spotify.com/track/5CJmBOAgae1IAiWiyvtezR) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Charlotte](https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9) | 3:00 | 2024-06-27 | 2024-07-05 |
@@ -3512,7 +3513,7 @@
 | [Superplayer](https://open.spotify.com/track/03Z5aikKbRb2LpjXu9D28X) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Superplayer](https://open.spotify.com/album/23va1N5Haa74Pls2Q0OZET) | 2:48 | 2025-01-30 | 2025-02-07 |
 | [Superwoman](https://open.spotify.com/track/0pim1RV3QzkZQWo8QmKoCh) | [Blanche Bailly](https://open.spotify.com/artist/5AarOoNQR7sJVijD42GeFQ), [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Superwoman](https://open.spotify.com/album/4QEfxuq5zIDoY7kumRDLA5) | 3:01 | 2024-08-08 | 2024-08-16 |
 | [Surf](https://open.spotify.com/track/2JCnq2ehglXJklyxd7zVCp) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Surf](https://open.spotify.com/album/6A9GRBUVGnmCEP6c54JjJh) | 2:29 | 2025-01-02 | 2025-01-10 |
-| [Surrender \(with Becky Hill\)](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Surrender \(with Becky Hill\)](https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd) | 2:24 | 2025-04-03 |  |
+| [Surrender](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Surrender](https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd) | 2:24 | 2025-04-03 |  |
 | [SURVIE](https://open.spotify.com/track/7yz9tcPQngQ19yAmRfQG7U) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [SURVIE](https://open.spotify.com/album/3QcMENeZLihP7vxPkieCLr) | 2:54 | 2024-05-23 | 2024-06-01 |
 | [Surviving Life](https://open.spotify.com/track/7CiZdeYSyTQNk54gpbnVNz) | [FENCES \\\\\\\\](https://open.spotify.com/artist/52mzp7EISAFBNXsDnHHFwv) | [Surviving Life](https://open.spotify.com/album/1mUUamOnFE775Ktq1Vq9Dg) | 4:01 | 2024-11-07 | 2024-11-15 |
 | [Survivor’s Remorse](https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Survivor’s Remorse](https://open.spotify.com/album/1vLOjsLCZT2mO1hqYS940W) | 2:36 | 2024-05-30 | 2024-06-07 |

@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc?si=1408a3S7SIKfMBA1quyFvA>Celestine Donkor</a> and https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl?si=TaUc7uTkQWqfi3APmVIJbg>Diana Hamilton</a>
 
-4,910 songs - 14 day 22 hr 40 min
+4,911 songs - 14 day 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3209,6 +3209,7 @@
 | [Oh Papa](https://open.spotify.com/track/2qp6BOfETBIyDBMaoHxvXV) | [Jo\-E](https://open.spotify.com/artist/71gDzy3IIKekpWGW3ANhOy) | [Oh Papa](https://open.spotify.com/album/5n9W0mtSOTT0PptVLfAFSO) | 4:26 | 2025-01-10 | 2025-01-24 |
 | [Oh Sing For Joy](https://open.spotify.com/track/3dvE8w5uRaqgHtmgJmqut6) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Oh Sing For Joy](https://open.spotify.com/album/2eRxigMiJExZD2GywFVRx6) | 2:49 | 2024-11-22 | 2024-12-06 |
 | [Oh That Men Would Praise the Lord](https://open.spotify.com/track/2QJRel02IzV5BZeNMuBnHZ) | [Jephthah Idahosa Aigbe](https://open.spotify.com/artist/6K4xWHvtn0F3eM6dnZGQeg), [Mabel Mosamaro](https://open.spotify.com/artist/4ZnU0wbaPEouQ2TiejTEl4) | [Oh That Men Would Praise the Lord](https://open.spotify.com/album/11XmGjwfQ0Rn1fgyliDRLx) | 2:04 | 2024-11-29 | 2024-12-13 |
+| [Oh The Blood](https://open.spotify.com/track/1N74D3J4xFd5LEoFRg6F45) | [Joekeyzz](https://open.spotify.com/artist/4knqVP34mih9qn8M9k3RSu) | [Oh The Blood](https://open.spotify.com/album/4kHcp1INvs2FN5ivoq2j0d) | 10:31 | 2025-04-04 |  |
 | [Oh the Glory Sax Worship Instrumental](https://open.spotify.com/track/5KfoI9HWNYBr5PvFKdROHm) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Oh the Glory Sax Worship Instrumental](https://open.spotify.com/album/4t3ypxdgmiPe4wre0kty2c) | 2:35 | 2024-11-08 | 2024-11-22 |
 | [Oh Thou Who Changest Not](https://open.spotify.com/track/0UPj1vRRDJzCFsGGzOB0tS) | [Dbilovd](https://open.spotify.com/artist/5xvyAXQfTzG95lXHos2ZDn) | [Oh Thou Who Changest Not](https://open.spotify.com/album/0e9aJ1oFgtnfqClY6zzglO) | 3:02 | 2023-11-10 | 2023-11-17 |
 | [Ohlonishwayo](https://open.spotify.com/track/1wbUhqVaUooVOryYgwZd4z) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Ohlonishwayo](https://open.spotify.com/album/4ia3MqnSbmwoDAYzI3aNbH) | 8:04 | 2024-11-22 | 2024-12-06 |

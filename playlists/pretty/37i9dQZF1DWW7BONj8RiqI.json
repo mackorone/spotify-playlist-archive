@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Machel Montano",
-  "num_followers": 225705,
+  "num_followers": 225764,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Too Real",
-        "url": "https://open.spotify.com/album/0ZNQstQ0ahvsAWzB5c0xoR"
-      },
-      "artists": [
-        {
-          "name": "Kerwin Du Bois",
-          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Too Real",
-      "url": "https://open.spotify.com/track/3FkqGyIPfz7cn5B8W9sVdG"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "Mind My Business",
         "url": "https://open.spotify.com/album/0EtmN8riYVOR5fBI1bplj1"
       },
@@ -315,6 +299,22 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
+        "name": "Too Real",
+        "url": "https://open.spotify.com/album/0ZNQstQ0ahvsAWzB5c0xoR"
+      },
+      "artists": [
+        {
+          "name": "Kerwin Du Bois",
+          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Too Real",
+      "url": "https://open.spotify.com/track/3FkqGyIPfz7cn5B8W9sVdG"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
         "name": "The A List",
         "url": "https://open.spotify.com/album/5kn25jXBYv7mLtuhdnzOHJ"
       },
@@ -327,6 +327,22 @@
       "duration_ms": 217913,
       "name": "The A List",
       "url": "https://open.spotify.com/track/5xqpmwMBP55ZaPFlxhs4vu"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "Overdue",
+        "url": "https://open.spotify.com/album/4FegSpedKbzfPkmhjUbzd3"
+      },
+      "artists": [
+        {
+          "name": "Erphaan Alves",
+          "url": "https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w"
+        }
+      ],
+      "duration_ms": 177925,
+      "name": "Overdue",
+      "url": "https://open.spotify.com/track/2WrTWu4NveSrw7rrzP8rjs"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -347,22 +363,6 @@
       "duration_ms": 176207,
       "name": "Like Yuh Self",
       "url": "https://open.spotify.com/track/1gzoAtrRQlcrRHgRc9K4OC"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
-        "name": "Overdue",
-        "url": "https://open.spotify.com/album/4FegSpedKbzfPkmhjUbzd3"
-      },
-      "artists": [
-        {
-          "name": "Erphaan Alves",
-          "url": "https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w"
-        }
-      ],
-      "duration_ms": 177925,
-      "name": "Overdue",
-      "url": "https://open.spotify.com/track/2WrTWu4NveSrw7rrzP8rjs"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -727,18 +727,22 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Born Wit It (Bumpa Riddim)",
-        "url": "https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g"
+        "name": "In the Water",
+        "url": "https://open.spotify.com/album/4sgxQbY0FtG7Jy9bCmosmo"
       },
       "artists": [
         {
-          "name": "Alison Hinds",
-          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+          "name": "Suhrawh",
+          "url": "https://open.spotify.com/artist/4ZEqhMBy6fKoOnzhlaMqSL"
+        },
+        {
+          "name": "Chow Minister",
+          "url": "https://open.spotify.com/artist/54d47JyqvGpK5nfJEnvwaM"
         }
       ],
-      "duration_ms": 202448,
-      "name": "Born Wit It (Bumpa Riddim)",
-      "url": "https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U"
+      "duration_ms": 159873,
+      "name": "In the Water",
+      "url": "https://open.spotify.com/track/13VEio7HfObBKUtYUDAp42"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -803,22 +807,18 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "In the Water",
-        "url": "https://open.spotify.com/album/4sgxQbY0FtG7Jy9bCmosmo"
+        "name": "Born Wit It (Bumpa Riddim)",
+        "url": "https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g"
       },
       "artists": [
         {
-          "name": "Suhrawh",
-          "url": "https://open.spotify.com/artist/4ZEqhMBy6fKoOnzhlaMqSL"
-        },
-        {
-          "name": "Chow Minister",
-          "url": "https://open.spotify.com/artist/54d47JyqvGpK5nfJEnvwaM"
+          "name": "Alison Hinds",
+          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
         }
       ],
-      "duration_ms": 159873,
-      "name": "In the Water",
-      "url": "https://open.spotify.com/track/13VEio7HfObBKUtYUDAp42"
+      "duration_ms": 202448,
+      "name": "Born Wit It (Bumpa Riddim)",
+      "url": "https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Soca Queen",
-        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
-      },
-      "artists": [
-        {
-          "name": "Alison Hinds",
-          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
-        }
-      ],
-      "duration_ms": 235826,
-      "name": "Faluma",
-      "url": "https://open.spotify.com/track/0jIiX4Vb30zGHX9aLOHhIR"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "Face Beat",
         "url": "https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 207192,
       "name": "Feel The Love",
       "url": "https://open.spotify.com/track/13vorXelUCLrciiOxPtUwC"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "Soca Queen",
+        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Hinds",
+          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+        }
+      ],
+      "duration_ms": 235826,
+      "name": "Faluma",
+      "url": "https://open.spotify.com/track/0jIiX4Vb30zGHX9aLOHhIR"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Happy Daze Riddim",
-        "url": "https://open.spotify.com/album/7zwjCiXWYlTYdXZ3eYw0Zb"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 231177,
-      "name": "Never Again",
-      "url": "https://open.spotify.com/track/5RuFeFXb4fmGiNyxedd34J"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "Soak It Good",
         "url": "https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 182125,
       "name": "Soak It Good",
       "url": "https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "Happy Daze Riddim",
+        "url": "https://open.spotify.com/album/7zwjCiXWYlTYdXZ3eYw0Zb"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 231177,
+      "name": "Never Again",
+      "url": "https://open.spotify.com/track/5RuFeFXb4fmGiNyxedd34J"
     },
     {
       "added_at": "2025-02-06 10:19:43",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-02-06 10:19:43",
       "album": {
-        "name": "Coffee",
-        "url": "https://open.spotify.com/album/7lKoacDvRqyrPpQI8IaEts"
-      },
-      "artists": [
-        {
-          "name": "Nadia Batson",
-          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/7l7N33CHWxmPl2v6D69jS8"
-    },
-    {
-      "added_at": "2025-02-06 10:19:43",
-      "album": {
         "name": "Turn Up",
         "url": "https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 173186,
       "name": "Jumbo Jet",
       "url": "https://open.spotify.com/track/6DI66fsIkq3gHmcIcM88Rg"
+    },
+    {
+      "added_at": "2025-02-06 10:19:43",
+      "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/7lKoacDvRqyrPpQI8IaEts"
+      },
+      "artists": [
+        {
+          "name": "Nadia Batson",
+          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/7l7N33CHWxmPl2v6D69jS8"
     },
     {
       "added_at": "2025-02-06 10:19:43",

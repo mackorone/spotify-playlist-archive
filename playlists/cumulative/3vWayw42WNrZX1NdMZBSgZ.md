@@ -4,7 +4,7 @@
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Emilia, TINI, Nicki Nicole
 
-877 songs - 1 day 22 hr 46 min
+880 songs - 1 day 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Coincidir](https://open.spotify.com/track/5xchG6qNlgDyZOgfmv5EpE) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [Coincidencias](https://open.spotify.com/album/0YGUKU6DyVS2F7TnMl2Jav) | 3:01 | 2023-05-12 | 2023-06-01 |
 | [Coleccionista](https://open.spotify.com/track/2Sl5J2Im33Tc3ByRbHjqyn) | [DARUMAS](https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9) | [DARUMAS](https://open.spotify.com/album/0sUg9ENEYuVX1LLci90JxS) | 2:51 | 2024-05-17 |  |
 | [Colocao \- Tiny Desk](https://open.spotify.com/track/1sdOQxBSDlGc922jSMhPVy) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nicki Nicole \(Live at NPR's Tiny Desk\)](https://open.spotify.com/album/56vHzz7py4Ki3p901P1Db5) | 3:17 | 2022-06-30 | 2023-05-26 |
+| [Como Antes](https://open.spotify.com/track/6M6KPKQ3G4h1duBI65n9MU) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Como Antes](https://open.spotify.com/album/58DryMw5WzQ1RFV7mYH6zU) | 2:26 | 2025-04-04 |  |
 | [Como el Viento](https://open.spotify.com/track/5LyqFuRn4AaYlkpMFi1W0s) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Como el Viento](https://open.spotify.com/album/6UKDsAVlMkqKqWJgsnCYAK) | 3:18 | 2023-03-24 | 2023-06-01 |
 | [Como la Primera Vez](https://open.spotify.com/track/569ewIQFBsJwBtuVJMXLrM) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Como la Primera Vez](https://open.spotify.com/album/7sQj4Eu9CfDwjSa6zXgjj5) | 3:05 | 2022-05-31 | 2023-05-26 |
 | [Como Lo Hice Yo](https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Como Lo Hice Yo](https://open.spotify.com/album/1MuEscvBJb4mFRS2wdffug) | 2:57 | 2022-02-02 | 2023-05-26 |
@@ -235,6 +236,7 @@
 | [DISPARA \*\*\*](https://open.spotify.com/track/5y0zaOse4LHZ6ZowjpL0vW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [DISPARA \*\*\*](https://open.spotify.com/album/63MfXzzOiA4B31XnstirjX) | 2:23 | 2023-05-19 | 2024-07-03 |
 | [DISPARA \*\*\*](https://open.spotify.com/track/6r0TaoZh1Oc1KkuL4rC1kB) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [ALMA](https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc) | 2:23 | 2024-07-02 | 2025-01-18 |
 | [Distancia](https://open.spotify.com/track/078SF4DC2Jf6qalzlFIi2J) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Distancia](https://open.spotify.com/album/2gqjUsHgffcCdtkAy44PWE) | 2:43 | 2022-10-27 | 2023-05-26 |
+| [Divina](https://open.spotify.com/track/3Okh7qw2zSwrS9AST3SSUx) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Carretera](https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00) | 3:27 | 2025-04-04 |  |
 | [Don't Wait Up](https://open.spotify.com/track/45PF1Y3RcW5MK0jxWvhc4D) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Don't Wait Up](https://open.spotify.com/album/5xEtia4eFu6W3Ql7xgR3Dp) | 3:24 | 2022-02-02 | 2023-05-26 |
 | [DPM \(De Pxta Madre\)](https://open.spotify.com/track/37vqi0b9BqN0XN7QHLHTQ8) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [DPM \(De Pxta Madre\)](https://open.spotify.com/album/3wqz214xgljSs28s9MqzkZ) | 3:01 | 2022-02-02 | 2023-05-26 |
 | [Dream Girl \- Remix](https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Dream Girl \(Remix\)](https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86) | 3:12 | 2023-06-02 | 2023-06-08 |
@@ -542,6 +544,7 @@
 | [No Apagues la Luz](https://open.spotify.com/track/6pjI7aowZWafS1BDOFfENc) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [No Apagues la Luz](https://open.spotify.com/album/5J2Jy4EEASBD0OOmKDvYG7) | 3:12 | 2022-06-23 | 2023-05-26 |
 | [No Es Normal](https://open.spotify.com/track/2Z4X8Y8Iedaf14Cgs0Dnri) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [No Es Normal](https://open.spotify.com/album/3fW9ft7QAV7Wc8uofcU163) | 3:01 | 2023-09-01 |  |
 | [No Es Que Te Extrañe](https://open.spotify.com/track/4LhHpq9hWUNhhxQkrIpTXT) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [La Luz](https://open.spotify.com/album/3alTx3o7ous53fBtr9RSWS) | 4:43 | 2022-09-30 | 2023-05-26 |
+| [No Fue Lo Que Hiciste](https://open.spotify.com/track/31XQ01Q6ld5H4q7dje4VbF) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [No Fue Lo Que Hiciste](https://open.spotify.com/album/1V5GnWGLCnmsGVsWOzp0n3) | 4:02 | 2025-04-04 |  |
 | [No Importó](https://open.spotify.com/track/5f85eyVFDkF2REjrJJvhxh) | [Neeus](https://open.spotify.com/artist/4OMnvxQdSJeobzinrEjTpO) | [FRANCISCO](https://open.spotify.com/album/1GY1TKnZp8ITZI3ZNVeCXw) | 3:46 | 2024-05-31 | 2024-07-03 |
 | [No Me Controles](https://open.spotify.com/track/4G83XIKqqzv9ofGZs47SmF) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [No Me Controles](https://open.spotify.com/album/3XqaX2LpehvqTSehktQkhC) | 2:42 | 2023-03-10 | 2023-06-03 |
 | [No Me Preguntes \- Live](https://open.spotify.com/track/0l9A5SMslLBCdj4JIacmYR) | [Draco Rosa](https://open.spotify.com/artist/4Vo7jk7sjpIFMk14dedex5) | [Life After Vida \(Live\)](https://open.spotify.com/album/2imkNvhi31gigBW2ucEoO5) | 3:49 | 2023-10-19 | 2024-07-03 |

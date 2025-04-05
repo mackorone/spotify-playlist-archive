@@ -1,6 +1,6 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 1046092,
+  "num_followers": 1046224,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2025-02-28 05:00:31",
       "album": {
-        "name": "The Best Of...",
-        "url": "https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl"
-      },
-      "artists": [
-        {
-          "name": "The Calling",
-          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "Wherever You Will Go - Acoustic",
-      "url": "https://open.spotify.com/track/5Tybis9p4M4TX2gJM8iqgh"
-    },
-    {
-      "added_at": "2025-02-28 05:00:31",
-      "album": {
         "name": "Live From Soho",
         "url": "https://open.spotify.com/album/0abkVfZF9JpWbHA1Cm2Jgq"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 290266,
       "name": "How to Save a Life - Live in NYC - 2009",
       "url": "https://open.spotify.com/track/3OPVsn0Dk3s8vWhXxnK35p"
+    },
+    {
+      "added_at": "2025-02-28 05:00:31",
+      "album": {
+        "name": "The Best Of...",
+        "url": "https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl"
+      },
+      "artists": [
+        {
+          "name": "The Calling",
+          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "Wherever You Will Go - Acoustic",
+      "url": "https://open.spotify.com/track/5Tybis9p4M4TX2gJM8iqgh"
     },
     {
       "added_at": "2025-02-28 05:00:31",
@@ -255,22 +255,6 @@
     {
       "added_at": "2025-02-28 05:00:31",
       "album": {
-        "name": "Teenage Dirtbag 2020 / Mope",
-        "url": "https://open.spotify.com/album/0lCvikSjJ1QwvHRTfDEs16"
-      },
-      "artists": [
-        {
-          "name": "Wheatus",
-          "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
-        }
-      ],
-      "duration_ms": 272975,
-      "name": "Teenage Dirtbag (Acoustic)",
-      "url": "https://open.spotify.com/track/2l2i0FeYCBkK0OdPMuBGeW"
-    },
-    {
-      "added_at": "2025-02-28 05:00:31",
-      "album": {
         "name": "The Poison (Deluxe Version)",
         "url": "https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn"
       },
@@ -287,18 +271,18 @@
     {
       "added_at": "2025-02-28 05:00:31",
       "album": {
-        "name": "Aeroplane Flies High (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5y5Qnze6BJUbON6FxndO9c"
+        "name": "Teenage Dirtbag 2020 / Mope",
+        "url": "https://open.spotify.com/album/0lCvikSjJ1QwvHRTfDEs16"
       },
       "artists": [
         {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+          "name": "Wheatus",
+          "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
         }
       ],
-      "duration_ms": 252986,
-      "name": "1979 - Acoustic",
-      "url": "https://open.spotify.com/track/1hUD0aBTicbHb5G3p5P79e"
+      "duration_ms": 272975,
+      "name": "Teenage Dirtbag (Acoustic)",
+      "url": "https://open.spotify.com/track/2l2i0FeYCBkK0OdPMuBGeW"
     },
     {
       "added_at": "2025-02-28 05:00:31",
@@ -323,6 +307,22 @@
     {
       "added_at": "2025-02-28 05:00:31",
       "album": {
+        "name": "Aeroplane Flies High (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5y5Qnze6BJUbON6FxndO9c"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 252986,
+      "name": "1979 - Acoustic",
+      "url": "https://open.spotify.com/track/1hUD0aBTicbHb5G3p5P79e"
+    },
+    {
+      "added_at": "2025-02-28 05:00:31",
+      "album": {
         "name": "Native",
         "url": "https://open.spotify.com/album/42UJjk8i8L0De7lQtu7sqi"
       },
@@ -335,22 +335,6 @@
       "duration_ms": 230200,
       "name": "If I Lose Myself - Acoustic",
       "url": "https://open.spotify.com/track/5QPg2mhf4lXe53bj4hhuO7"
-    },
-    {
-      "added_at": "2025-02-28 05:00:31",
-      "album": {
-        "name": "Pride (In The Name Of Love) [Songs Of Surrender]",
-        "url": "https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 237743,
-      "name": "Pride (In The Name Of Love) - Songs Of Surrender",
-      "url": "https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI"
     },
     {
       "added_at": "2025-02-28 05:00:31",
@@ -383,6 +367,22 @@
       "duration_ms": 247920,
       "name": "Control - Acoustic Version",
       "url": "https://open.spotify.com/track/325aNb4eh8HesYlrJmLSMX"
+    },
+    {
+      "added_at": "2025-02-28 05:00:31",
+      "album": {
+        "name": "Pride (In The Name Of Love) [Songs Of Surrender]",
+        "url": "https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 237743,
+      "name": "Pride (In The Name Of Love) - Songs Of Surrender",
+      "url": "https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI"
     },
     {
       "added_at": "2025-02-28 05:00:31",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-02-28 05:00:31",
       "album": {
-        "name": "When Incubus Attacks, Vol. 1",
-        "url": "https://open.spotify.com/album/1d1ClEJ1KUcWkyDtLnv4Pw"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 227226,
-      "name": "Pardon Me - Acoustic",
-      "url": "https://open.spotify.com/track/6L7CK4TVDKdfEhLHGk9Lg6"
-    },
-    {
-      "added_at": "2025-02-28 05:00:31",
-      "album": {
         "name": "Legendary (Acoustic)",
         "url": "https://open.spotify.com/album/1hj9cR7EcEIisOX3eeke2x"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 216940,
       "name": "Legendary - Acoustic",
       "url": "https://open.spotify.com/track/5l4O7VzsZhKpAJO8w2jrC9"
+    },
+    {
+      "added_at": "2025-02-28 05:00:31",
+      "album": {
+        "name": "When Incubus Attacks, Vol. 1",
+        "url": "https://open.spotify.com/album/1d1ClEJ1KUcWkyDtLnv4Pw"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "duration_ms": 227226,
+      "name": "Pardon Me - Acoustic",
+      "url": "https://open.spotify.com/track/6L7CK4TVDKdfEhLHGk9Lg6"
     },
     {
       "added_at": "2025-02-28 05:00:31",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-02-28 05:00:31",
       "album": {
-        "name": "Many of Horror (MTV Unplugged Live; Edit)",
-        "url": "https://open.spotify.com/album/0XFIPAAY4ECJbLrWe9jBzu"
-      },
-      "artists": [
-        {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
-        }
-      ],
-      "duration_ms": 254510,
-      "name": "Many of Horror - MTV Unplugged Live; Edit",
-      "url": "https://open.spotify.com/track/1DNP8yFg3tMYmX6Afm1Lud"
-    },
-    {
-      "added_at": "2025-02-28 05:00:31",
-      "album": {
         "name": "Simulation Theory (Super Deluxe)",
         "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 226333,
       "name": "Something Human (Acoustic)",
       "url": "https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM"
+    },
+    {
+      "added_at": "2025-02-28 05:00:31",
+      "album": {
+        "name": "Many of Horror (MTV Unplugged Live; Edit)",
+        "url": "https://open.spotify.com/album/0XFIPAAY4ECJbLrWe9jBzu"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 254510,
+      "name": "Many of Horror - MTV Unplugged Live; Edit",
+      "url": "https://open.spotify.com/track/1DNP8yFg3tMYmX6Afm1Lud"
     },
     {
       "added_at": "2025-02-28 05:00:31",

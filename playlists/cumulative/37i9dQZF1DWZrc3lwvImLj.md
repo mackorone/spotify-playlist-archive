@@ -4,7 +4,7 @@
 
 > lowkey crying.
 
-465 songs - 20 hr 21 min
+467 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Apart](https://open.spotify.com/track/1Eqlx3dtG65l9KI0uF3zuP) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Apart](https://open.spotify.com/album/0dIFaSYu3tI7NohFzFf3sr) | 3:01 | 2023-09-18 |  |
 | [As You Are](https://open.spotify.com/track/51KaUzLKNm24PSwdK8MhVY) | [Jakob München](https://open.spotify.com/artist/5lzyS07BZQrvRmABhTmroF) | [As You Are](https://open.spotify.com/album/3O9SKAOz5YQ95vIl6Z61xQ) | 2:21 | 2023-05-09 |  |
 | [Ashes](https://open.spotify.com/track/4Kplx8WHmzw9LQf1KJ5wsn) | [Adrien de la Salle](https://open.spotify.com/artist/24qlcGFRlSIGVpvWmWkCFN) | [Ashes](https://open.spotify.com/album/0oSLWXxvaW6B5aGlsiztAO) | 2:33 | 2023-01-19 |  |
-| [Assembly](https://open.spotify.com/track/7zlQxXh8k8p8eYDTG8Y14F) | [4th & 6th](https://open.spotify.com/artist/6jBXezLiJ4IUPjLOJ9h67Z) | [Assembly](https://open.spotify.com/album/15PKjNUkwUcr8pm63ptaNz) | 2:36 | 2025-03-05 |  |
+| [Assembly](https://open.spotify.com/track/7zlQxXh8k8p8eYDTG8Y14F) | [4th & 6th](https://open.spotify.com/artist/6jBXezLiJ4IUPjLOJ9h67Z) | [Assembly](https://open.spotify.com/album/15PKjNUkwUcr8pm63ptaNz) | 2:36 | 2025-03-05 | 2025-04-05 |
 | [Au lecteur curieux](https://open.spotify.com/track/4pKj48uAM0lhxKdg74zJBw) | [Meara Meloquin](https://open.spotify.com/artist/2r3IU74miMmV4b9Qm9kp37) | [Au lecteur curieux](https://open.spotify.com/album/3I68HnQ0IGVaJ6qvXhWeSu) | 2:23 | 2022-06-06 |  |
 | [Autumn Leaf](https://open.spotify.com/track/79q3lBKpjZLlfgfybAIRaO) | [Esperanza](https://open.spotify.com/artist/24T5i2cT1QSUxliOi5KeJa) | [Autumn Leaf](https://open.spotify.com/album/7bvRmwCxFVH5AntdH5j6H7) | 2:27 | 2021-12-14 |  |
 | [Avec un sourire](https://open.spotify.com/track/4PyMaTZJUWcSOhxK4cQQao) | [Tyra Lindqvist](https://open.spotify.com/artist/0i0eyDR8HC7sY4eUNKIAtI) | [Avec un sourire](https://open.spotify.com/album/1OH6bBfilcRBUOZDupZFQm) | 2:30 | 2022-07-06 | 2023-11-08 |
@@ -363,6 +363,7 @@
 | [Spring](https://open.spotify.com/track/4qK9n5cJhlLHVT3W8X1glD) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Spring Memoir](https://open.spotify.com/album/0nVzWOMcFoXIaOC4m08xkn) | 3:24 | 2024-05-07 |  |
 | [Squares of life](https://open.spotify.com/track/2C6BCDdtYjbbbAucqaw9NG) | [Piotr Miteska](https://open.spotify.com/artist/76vFPXp4WOuiv8ppkBcd4c) | [Squares of Life](https://open.spotify.com/album/2a4Xs7dCAl7IyslTWzVPqW) | 2:45 | 2021-12-14 | 2022-05-05 |
 | [Steady The Ship](https://open.spotify.com/track/4tZrXQIEgv3dydaHjKL6Le) | [Ragnar Seaholm](https://open.spotify.com/artist/6GETMwt7rbOZRXFnivRObG) | [Steady The Ship](https://open.spotify.com/album/2fqZv1JTdNdpJj399PdLuH) | 2:36 | 2021-12-14 | 2023-06-21 |
+| [Stele Cazatoare](https://open.spotify.com/track/5LFakQ9K0IdZMRrBUYNBgz) | [Alexandru Andrei Popescu](https://open.spotify.com/artist/7mDY8ZdBUwI5RNx8LZWbzp) | [Stele Cazatoare](https://open.spotify.com/album/0qh07muc5Iq2IomJcsbwUJ) | 2:48 | 2025-04-04 |  |
 | [Stintless Stars](https://open.spotify.com/track/1gnHfFnLPaJvatJ9NuQDLH) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Stintless Stars](https://open.spotify.com/album/1lGHE19pGZ6LvWi2cmn4As) | 2:33 | 2023-11-14 |  |
 | [Stretch](https://open.spotify.com/track/4KQlV2TCwuN2GwHQ8fsFrB) | [Hearth Mason](https://open.spotify.com/artist/5AOB5inMqu92bUZuE6q9L7) | [Stretch](https://open.spotify.com/album/4iXA4CDdh5Z4jiXRdGU3fd) | 3:30 | 2023-07-25 |  |
 | [Subitum](https://open.spotify.com/track/4MiTIkXSAqWTkZlUvA5QJ2) | [Nordiska Piano](https://open.spotify.com/artist/5u56NAhIzusR5Q8dfFpdtq) | [Subitum](https://open.spotify.com/album/1DErexZVlUw9bBneZGEJUO) | 2:47 | 2021-12-14 |  |
@@ -413,6 +414,7 @@
 | [Une histoire d’amour](https://open.spotify.com/track/1RfSykRvuEDqTUimaVE64E) | [Cedric Moulin](https://open.spotify.com/artist/5igteH2LK1oMa7KinT2Qx3) | [Une histoire d’amour](https://open.spotify.com/album/4CclbwG6Y1a0Fm7Kbe5K1l) | 2:32 | 2021-12-14 | 2023-04-05 |
 | [Unfamiliar](https://open.spotify.com/track/3MRwHipWorPelSEg7oee4X) | [Tom Holding](https://open.spotify.com/artist/6ricPc7dXpgND8NjKLbHqg) | [Unfamiliar](https://open.spotify.com/album/15HCfta3Vqsbo3ND1Yu8RB) | 3:43 | 2022-04-14 | 2022-07-29 |
 | [Unsaid](https://open.spotify.com/track/6DOjomPB7sCFUSx96x6bSc) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Unsaid](https://open.spotify.com/album/0jjcbJZ3TJUtcumgWefAhD) | 2:16 | 2021-12-14 | 2023-10-11 |
+| [Unspoken](https://open.spotify.com/track/77u4Ha6yYizl6Zs5m7znHJ) | [M\. Ljungström](https://open.spotify.com/artist/3DkwuBQlbF81WFD2hhmkPR) | [Unspoken](https://open.spotify.com/album/7fMhaKQBMxUjaRXwgms7fx) | 2:12 | 2025-04-04 |  |
 | [Unspoken words](https://open.spotify.com/track/3YVDpr9ATEeLaSj5z24qmK) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Unspoken words](https://open.spotify.com/album/0kb3AVXkNmsHCOXsHpK1pU) | 2:39 | 2023-08-14 | 2023-11-16 |
 | [Vale of Tears](https://open.spotify.com/track/64u8GamjVXCuKtjbPl0oIG) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Vale Of Tears](https://open.spotify.com/album/1t1VwebAkrX58MEDCi6ZLf) | 2:22 | 2021-12-14 | 2025-01-22 |
 | [Valse de Mignon](https://open.spotify.com/track/6Tkep7VhXvCa7qnbyZBDLM) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Valse de Mignon](https://open.spotify.com/album/219xT06tHFgETfNrYMEdVh) | 2:16 | 2024-07-16 |  |

@@ -2,9 +2,9 @@
 
 ### [Vanguard](https://open.spotify.com/playlist/37i9dQZF1DWSfMe9z89s9B)
 
-> Leaders of the new school...Alternative R&B\. Cover: Q
+> Leaders of the new school...Alternative R&B\. Cover: Casper Sage
 
-1,404 songs - 3 day 1 hr 56 min
+1,407 songs - 3 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Big Brown Eyes \(feat\. Orion Sun\)](https://open.spotify.com/track/0Bo4PwDaG1wBfV4Syj14Xe) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Big Brown Eyes \(feat\. Orion Sun\)](https://open.spotify.com/album/0gsgJuKn4UyUWmResKGKWu) | 3:04 | 2024-03-01 | 2024-09-22 |
 | [Biking](https://open.spotify.com/track/2LAhOlxPHwpsxKi74FXi7O) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Biking](https://open.spotify.com/album/2NsIuJ6GalDZSyaRntN0ad) | 2:50 | 2024-09-06 | 2025-04-02 |
 | [BILL$ \(SPED UP\)](https://open.spotify.com/track/4zworCuBwlCfrkcFWCRaIo) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [IN THE AIR/BILL$ \(SPED UP\)](https://open.spotify.com/album/7CBAUpy4gg6DkJsNAfBf58) | 2:00 | 2022-09-09 | 2023-02-18 |
-| [birds, bees](https://open.spotify.com/track/7fIHFXaxaFZ9TLxdZeYIRD) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Pointy Heights](https://open.spotify.com/album/7KonH0i4kmFvTrYbeIQts2) | 2:55 | 2024-09-13 |  |
+| [birds, bees](https://open.spotify.com/track/7fIHFXaxaFZ9TLxdZeYIRD) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Pointy Heights](https://open.spotify.com/album/7KonH0i4kmFvTrYbeIQts2) | 2:55 | 2024-09-13 | 2025-04-05 |
 | [Bitch Don't Be Mad](https://open.spotify.com/track/24WhLBcWByvFMrt8NNQ0ax) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Habits](https://open.spotify.com/album/710KCDvLyaTZS6NHNw9URq) | 3:05 | 2021-04-30 | 2022-08-06 |
 | [Bitches Be \(with Jst Ray\)](https://open.spotify.com/track/24CY4TWscXoyZRrmsQdiq1) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Jst Ray](https://open.spotify.com/artist/4A2ptrgQSJtQrbfltEpoCR) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 3:24 | 2022-08-05 | 2022-10-30 |
 | [Black Goose](https://open.spotify.com/track/42twCm34xVG0EQexL1BuPm) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Black Goose](https://open.spotify.com/album/4QaBlPW42jSyeOv5dLg6pv) | 2:33 | 2023-10-06 | 2023-11-05 |
@@ -754,7 +754,7 @@
 | [macrodosing \- Spotify Singles](https://open.spotify.com/track/7BDQqjYCBiqtEuDzWtUaln) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [macrodosing \- Spotify Singles](https://open.spotify.com/album/5TGRGz8e1vdknsuShTrBZr) | 2:50 | 2022-04-01 | 2022-08-09 |
 | [Mad](https://open.spotify.com/track/5jyrsygTAsGvAKsFGxTd6t) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f) | [Mad](https://open.spotify.com/album/5SvEPJ6bl42bFGXEWNSvdA) | 3:17 | 2022-04-01 | 2022-04-14 |
 | [Mad Riches](https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Late To Die Young](https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn) | 1:56 | 2022-10-21 | 2023-09-02 |
-| [Maddie](https://open.spotify.com/track/3EMS7KLO9UhMtTPxYGYdmE) | [Nafeesisboujee](https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT) | [Maddie](https://open.spotify.com/album/3fYaec13Ybs5Hu49lcoeUy) | 2:15 | 2024-11-15 |  |
+| [Maddie](https://open.spotify.com/track/3EMS7KLO9UhMtTPxYGYdmE) | [Nafeesisboujee](https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT) | [Maddie](https://open.spotify.com/album/3fYaec13Ybs5Hu49lcoeUy) | 2:15 | 2024-11-15 | 2025-04-05 |
 | [MADE 4 U](https://open.spotify.com/track/5yetn3rXSPBP8fl5d5zExV) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [MADE 4 U](https://open.spotify.com/album/0WlcKSVRN8XsTDN4yXsMWZ) | 4:09 | 2023-12-22 | 2024-02-24 |
 | [Made to Fall in Love](https://open.spotify.com/track/67PfKFPREimYeu8UPAUVAK) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Spotify Singles](https://open.spotify.com/album/2AxOupTQ54kHBQkqTLT03M) | 4:53 | 2021-03-19 | 2022-07-02 |
 | [Magazines](https://open.spotify.com/track/6I9gDbfmE9hmHHWQVmvkGZ) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Alt Therapy Session 2: Transformation](https://open.spotify.com/album/7mBzvKYy1dMv2jaeq8H6Ri) | 3:14 | 2021-03-19 | 2022-04-16 |
@@ -952,6 +952,7 @@
 | [Pretty Ass Bish](https://open.spotify.com/track/1UbTy9jNH2JdFrkehNv8J8) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Pretty Ass Bish](https://open.spotify.com/album/2h9UYKJHwFPF25rg28AQj8) | 2:23 | 2023-07-28 | 2023-12-09 |
 | [Pretty Like You](https://open.spotify.com/track/6IksI018PglNFPUL40pxit) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [The Private Room](https://open.spotify.com/album/4tiRp1HukUk0ZN8OfF30Zw) | 2:34 | 2023-04-21 | 2024-02-24 |
 | [pretty photos](https://open.spotify.com/track/1PmXc402f75cyfgLlXWSEH) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [it was nice knowing u](https://open.spotify.com/album/2lTY9F1Grt1D0HPsaQrGGT) | 2:56 | 2023-11-19 | 2023-12-09 |
+| [pretty woman](https://open.spotify.com/track/1VzA9gORCjLO0MIy9xFzOO) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [10 songs](https://open.spotify.com/album/6kBVXxCYWSiuGEboOMYOl8) | 3:04 | 2025-04-04 |  |
 | [Primal Design](https://open.spotify.com/track/72go9p5GOwd87BuAxOkitl) | [Maina Doe](https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE) | [Primal Design](https://open.spotify.com/album/1BbC0yD5Cu1CtivfdILB3w) | 3:16 | 2022-11-25 | 2022-12-10 |
 | [Problems](https://open.spotify.com/track/2iq4Pc3NhTJU466gppAKCX) | [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Problems](https://open.spotify.com/album/1Ez1yDVUqoT3HuUtiZuThL) | 2:34 | 2021-09-17 | 2022-09-10 |
 | [protect](https://open.spotify.com/track/3dXn10jdtOSIp1kwUo9Zlu) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [protect](https://open.spotify.com/album/6vLi4z1axDYhVrB0idim09) | 2:47 | 2023-10-06 | 2024-05-04 |
@@ -995,11 +996,12 @@
 | [Ride](https://open.spotify.com/track/3xxUGSaRrNHmVXKsa3gqKs) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Paradigm](https://open.spotify.com/album/3MaikI62Ap7RbrBSE0i4AU) | 3:04 | 2025-02-14 |  |
 | [Rider](https://open.spotify.com/track/3E2GaYRo0NLKLX3R00e5t8) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Rider](https://open.spotify.com/album/6Or5zQjNuLi7VaUSfxSGpp) | 2:45 | 2021-04-30 | 2022-07-29 |
 | [Rider](https://open.spotify.com/track/7BUnSvQPU5m830Et7fLAZt) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [AZEB \- EP](https://open.spotify.com/album/0HvQdKEGTs0l1fV5feEYDi) | 2:45 | 2022-06-10 | 2023-03-11 |
-| [Right Back](https://open.spotify.com/track/5fh8JWHGfuJzGGjCm9uojM) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Right Back](https://open.spotify.com/album/5ooAoQeUINLWK74OPiNldE) | 3:11 | 2025-02-21 |  |
+| [Right Back](https://open.spotify.com/track/5fh8JWHGfuJzGGjCm9uojM) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Right Back](https://open.spotify.com/album/5ooAoQeUINLWK74OPiNldE) | 3:11 | 2025-02-21 | 2025-04-05 |
 | [Right now!](https://open.spotify.com/track/1lZlW5sarv3iIRluQGcFYj) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Right now!](https://open.spotify.com/album/7IGXZOVyp9uiiR1fCIkIUz) | 1:54 | 2024-03-22 | 2025-01-21 |
 | [Right Track \(feat\. Smino\)](https://open.spotify.com/track/439zbDDCpOPntEFlZFHKbY) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Right Track \(feat\. Smino\)](https://open.spotify.com/album/085JymZoUxeCSJlOYqLd5u) | 2:38 | 2021-09-10 | 2022-07-16 |
 | [RIP](https://open.spotify.com/track/2uRFxSw7uEN9vlGHjwoS29) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [SCARLET](https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k) | 2:03 | 2022-04-01 | 2022-05-14 |
 | [RISEN](https://open.spotify.com/track/34OImRuWIDWmXazkQsUY2y) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD), [Tales Of The Town](https://open.spotify.com/artist/1ZgPUEWXZparNifIcZgsKT) | [RISEN](https://open.spotify.com/album/47DHGHxFBNj2oq66AefWxF) | 2:39 | 2022-09-30 | 2023-09-02 |
+| [Roadrunner \(feat\. midwxst\)](https://open.spotify.com/track/2wuYcWEYGxnGWNisxljB1Y) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [SAGEhaven](https://open.spotify.com/album/2N31RbPWaokWd8MTehI7Wn) | 2:56 | 2025-04-04 |  |
 | [Rockstar Baby](https://open.spotify.com/track/2TZyB1YQ6Fca7pCcsWQMGm) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Rockstar Baby](https://open.spotify.com/album/3SQ5qsIykXysL3Mf8HoQHn) | 3:27 | 2024-11-15 | 2025-03-29 |
 | [Rodeo Clown](https://open.spotify.com/track/7MrklDIUaRUecz3RDCcjM5) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Rodeo Clown](https://open.spotify.com/album/53EOHuMzRCZOaN62bzwQ4i) | 3:30 | 2022-11-18 | 2023-12-09 |
 | [Rollin'](https://open.spotify.com/track/1o8aLzMLNpW6wsMpVCpLpy) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Rollin'](https://open.spotify.com/album/5qVB1w5FpWODqzRjMT3mnN) | 2:43 | 2022-09-30 | 2023-07-08 |
@@ -1216,6 +1218,7 @@
 | [the evidence](https://open.spotify.com/track/4jeT6Z5VHsmx4EEG3kED7n) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [the evidence](https://open.spotify.com/album/1rzilWEI5SkyiVnD9sjEAM) | 2:40 | 2023-11-10 | 2024-02-24 |
 | [The Glade](https://open.spotify.com/track/4tEeJe0AS4TbihaokDG6hG) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [The Glade](https://open.spotify.com/album/4S7Tec2MGsAVBRvJGDLJQa) | 3:42 | 2023-06-23 | 2024-06-29 |
 | [The Greatest Smile](https://open.spotify.com/track/2IpRdVSZln1OqYEyajRccA) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Today & Tomorrow](https://open.spotify.com/album/7A6aNtppf2VKZE9xTnvm7z) | 4:40 | 2022-11-11 | 2023-10-16 |
+| [THE LAST TIME](https://open.spotify.com/track/4zkH2YuWOZlXgzOH17TvKs) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [THE LAST TIME](https://open.spotify.com/album/0GyFu1r5ctSDKHwvkF6Coy) | 3:14 | 2025-04-04 |  |
 | [THE PEACH](https://open.spotify.com/track/6KCL9FON6UWWymafgIwECG) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [THE PEACH](https://open.spotify.com/album/6KUysdIaL4wtPiRXFAIYUI) | 2:26 | 2023-03-17 | 2023-07-22 |
 | [The Ranch](https://open.spotify.com/track/30nWLfydBWgDbkV7sG3mPY) | [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [The Ranch](https://open.spotify.com/album/6Z1C8mD0yj2zXMWrIQQ5ZM) | 2:21 | 2024-07-26 | 2024-11-02 |
 | [THE SEASON \(feat\. PawPaw Rod\)](https://open.spotify.com/track/3rPn6mXyAwe1VKDp6Odz0K) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [MAKER'S DESIGN](https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl) | 3:06 | 2022-10-28 | 2023-04-01 |

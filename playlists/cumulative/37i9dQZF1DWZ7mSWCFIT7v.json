@@ -2150,7 +2150,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 180000,
       "name": "Eve",
       "url": "https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf"
@@ -3881,6 +3881,28 @@
     },
     {
       "album": {
+        "name": "Music To Refine To: A Remix Companion to Severance",
+        "url": "https://open.spotify.com/album/7bNj7hUkbRbZzn36MdyvUk"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Theodore Shapiro",
+          "url": "https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Music of Wellness - ODESZA Severance Remix",
+      "url": "https://open.spotify.com/track/2Y1BKUbXxTqu8aD0aroPPP"
+    },
+    {
+      "album": {
         "name": "Actoma",
         "url": "https://open.spotify.com/album/0RXhS7XWJ1spd3UTLIU0u3"
       },
@@ -4802,7 +4824,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 439786,
       "name": "Riding Metal Mosquitos",
       "url": "https://open.spotify.com/track/4KXTdLEJkgrZ71QHyxThJ3"
@@ -6844,6 +6866,24 @@
       "duration_ms": 150000,
       "name": "Worms on Acid",
       "url": "https://open.spotify.com/track/0A44Bg2Hg2wDFOqTzfA8Ny"
+    },
+    {
+      "album": {
+        "name": "Xai",
+        "url": "https://open.spotify.com/album/7jxZViRGb4p4oQBdQM3Fkj"
+      },
+      "artists": [
+        {
+          "name": "Mount XLR",
+          "url": "https://open.spotify.com/artist/7EwMRcLv8TJpfEsGDc5JwJ"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208309,
+      "name": "Xai",
+      "url": "https://open.spotify.com/track/3trWBbNMteWnN2KHJCpxcF"
     },
     {
       "album": {

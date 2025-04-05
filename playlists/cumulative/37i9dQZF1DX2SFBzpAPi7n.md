@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 유다빈밴드\) \(핫한 국내 록 음악을 만나보세요!\)
 
-920 songs - 2 day 8 hr 14 min
+921 songs - 2 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [EUROPA](https://open.spotify.com/track/4W4VAVZneeUiwApBDFFMoB) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [EUROPA](https://open.spotify.com/album/5yMQGkOurBkgYa6f1vDof9) | 2:51 | 2023-07-24 | 2023-08-18 |
 | [Evening Glow](https://open.spotify.com/track/1Yuua9AnSRDl0taHxpVNzM) | [Dayangsung](https://open.spotify.com/artist/3nVkLQWe6gkgmqia9kl89z) | [A World Full Of Paper Planes & Balloons](https://open.spotify.com/album/5QlrdfNsruHMELFrb9xEDd) | 3:41 | 2022-09-30 | 2022-10-19 |
 | [Event Horizon](https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album Repackage 'END THEORY : Final Edition'](https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c) | 5:00 | 2022-04-12 | 2024-11-07 |
+| [EVER](https://open.spotify.com/track/7kZDgpf6ebA3dlgt0vdRv2) | [Hebi](https://open.spotify.com/artist/0hJZEIh0mcRY6wl5LAlpDv) | [EVER](https://open.spotify.com/album/6Hd2ZOJ8Lt8ePovI7ZFpTw) | 3:21 | 2025-03-31 |  |
 | [Extinction](https://open.spotify.com/track/7ophvrIUAHSbf0uCEb5TzB) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Animal](https://open.spotify.com/album/4ZALM5WKnmqL1sJouAAFqw) | 4:44 | 2023-08-29 | 2023-10-12 |
 | [Eye of the Typhoon](https://open.spotify.com/track/0nSEAABoviV818GLEZsD6r) | [PEPPERTONES](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [thousand years](https://open.spotify.com/album/3pDA2ikEslIDXpzIWmauQY) | 4:06 | 2022-09-20 | 2022-10-19 |
 | [Face](https://open.spotify.com/track/50OgyUeTppAqsJbGthk2x9) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [Face](https://open.spotify.com/album/1lcBukbd61zGUprqrePYMv) | 3:34 | 2024-02-21 | 2024-05-10 |
@@ -384,7 +385,7 @@
 | [iNSTEAD!](https://open.spotify.com/track/5OOGWXB0EWgAULLPzC27Nc) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn), [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Open ♭eta v6.4](https://open.spotify.com/album/4lfHkwDW53trUWcRbgbJJk) | 2:57 | 2024-09-10 | 2024-11-13 |
 | [Into the darkness](https://open.spotify.com/track/3NXUhef1JwHO5cMJb9Mw4a) | [Mind Core](https://open.spotify.com/artist/6bIe8ZdXw7LGBW2fAKGcc2) | [Into the darkness](https://open.spotify.com/album/6FyezVW730jaxduUyLWpBd) | 3:37 | 2024-11-06 | 2024-11-30 |
 | [Into The Day](https://open.spotify.com/track/6503Y4wm98gPqxtVTZ5QTo) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Into The Day](https://open.spotify.com/album/0Ut6GGmHmTOzGIgZqV6xjT) | 1:51 | 2025-01-14 | 2025-03-18 |
-| [Into You](https://open.spotify.com/track/049uXN76j7jCn0OrQiSDCm) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Into You](https://open.spotify.com/album/3rLteXReBNmvMLaTufI17p) | 2:38 | 2025-03-17 |  |
+| [Into You](https://open.spotify.com/track/049uXN76j7jCn0OrQiSDCm) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Into You](https://open.spotify.com/album/3rLteXReBNmvMLaTufI17p) | 2:38 | 2025-03-17 | 2025-04-05 |
 | [Invincible](https://open.spotify.com/track/2oGCuDkdDmd1OTVNMJqfFO) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) | [EPIC SEVEN \(Original Soundtrack\) 'Invincible'](https://open.spotify.com/album/6OZ8ZANoibZBNM7948KPjn) | 3:31 | 2022-07-04 | 2022-07-29 |
 | [Invisibles](https://open.spotify.com/track/7bJcyukFHTgXuQ31Cl7LZ9) | [Bandage](https://open.spotify.com/artist/1fuAboBjT2k4lPcpkIaqTt) | [Square One](https://open.spotify.com/album/3sQvmhUTKE0SY7piBVlinX) | 3:49 | 2022-04-12 | 2022-07-25 |
 | [Irrelevant Answer](https://open.spotify.com/track/3IPaUN3I7fVDaYBqjOBHDB) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Irrelevant Answer](https://open.spotify.com/album/1IDA58hI66YgQsf5niPAnU) | 2:56 | 2022-04-22 | 2022-07-28 |

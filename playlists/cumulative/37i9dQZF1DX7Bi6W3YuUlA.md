@@ -2,7 +2,7 @@
 
 ### [High Lights](https://open.spotify.com/playlist/37i9dQZF1DX7Bi6W3YuUlA)
 
-> Inspirational hip hop\. Cover: Fridayy
+> Inspirational hip\-hop\. Cover: Will Smith
 
 493 songs - 1 day 0 hr 36 min
 

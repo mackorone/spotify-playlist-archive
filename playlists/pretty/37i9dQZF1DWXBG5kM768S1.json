@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 78294,
+  "num_followers": 78312,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2025-03-27 23:00:07",
       "album": {
+        "name": "Vendepunkt",
+        "url": "https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI"
+      },
+      "artists": [
+        {
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+        }
+      ],
+      "duration_ms": 197529,
+      "name": "P\u00e5 bes\u00f8k",
+      "url": "https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi"
+    },
+    {
+      "added_at": "2025-03-27 23:00:07",
+      "album": {
         "name": "Sol\u00f8ye",
         "url": "https://open.spotify.com/album/5G5WRvcAMhNFEEBa57INLW"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 203937,
       "name": "\u00c5 Kunne \u00c6 Skrive",
       "url": "https://open.spotify.com/track/3Q5UYAQJ4l3crdc3YjnqbK"
-    },
-    {
-      "added_at": "2025-03-27 23:00:07",
-      "album": {
-        "name": "Vendepunkt",
-        "url": "https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI"
-      },
-      "artists": [
-        {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
-        }
-      ],
-      "duration_ms": 197529,
-      "name": "P\u00e5 bes\u00f8k",
-      "url": "https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi"
     },
     {
       "added_at": "2025-03-27 23:00:07",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-03-27 23:00:07",
       "album": {
-        "name": "Under deg",
-        "url": "https://open.spotify.com/album/7aCZa7V8vkhBKJ1Fbfe7el"
-      },
-      "artists": [
-        {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
-        }
-      ],
-      "duration_ms": 244266,
-      "name": "Under deg",
-      "url": "https://open.spotify.com/track/7bCWY2qgzjKMhTc0Tr2IO0"
-    },
-    {
-      "added_at": "2025-03-27 23:00:07",
-      "album": {
         "name": "Bru over m\u00f8rke b\u00f8lger",
         "url": "https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 299333,
       "name": "Bru over m\u00f8rke b\u00f8lger",
       "url": "https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf"
+    },
+    {
+      "added_at": "2025-03-27 23:00:07",
+      "album": {
+        "name": "Under deg",
+        "url": "https://open.spotify.com/album/7aCZa7V8vkhBKJ1Fbfe7el"
+      },
+      "artists": [
+        {
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+        }
+      ],
+      "duration_ms": 244266,
+      "name": "Under deg",
+      "url": "https://open.spotify.com/track/7bCWY2qgzjKMhTc0Tr2IO0"
     },
     {
       "added_at": "2025-03-27 23:00:07",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-03-27 23:00:07",
       "album": {
-        "name": "Alle Snakker Sant",
-        "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
-      },
-      "artists": [
-        {
-          "name": "Siri Nilsen",
-          "url": "https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM"
-        }
-      ],
-      "duration_ms": 223706,
-      "name": "Jeg Vet",
-      "url": "https://open.spotify.com/track/3ZTHN0y3NwiciPH3CpfXcL"
-    },
-    {
-      "added_at": "2025-03-27 23:00:07",
-      "album": {
         "name": "De Beste",
         "url": "https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe"
       },
@@ -559,6 +543,22 @@
     {
       "added_at": "2025-03-27 23:00:07",
       "album": {
+        "name": "Alle Snakker Sant",
+        "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
+      },
+      "artists": [
+        {
+          "name": "Siri Nilsen",
+          "url": "https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM"
+        }
+      ],
+      "duration_ms": 223706,
+      "name": "Jeg Vet",
+      "url": "https://open.spotify.com/track/3ZTHN0y3NwiciPH3CpfXcL"
+    },
+    {
+      "added_at": "2025-03-27 23:00:07",
+      "album": {
         "name": "Hilsen Halvdan",
         "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
       },
@@ -575,38 +575,6 @@
     {
       "added_at": "2025-03-27 23:00:07",
       "album": {
-        "name": "St\u00f8v Og Stjerner",
-        "url": "https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X"
-      },
-      "artists": [
-        {
-          "name": "Erik Bye",
-          "url": "https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "V\u00e5r Beste Dag",
-      "url": "https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT"
-    },
-    {
-      "added_at": "2025-03-27 23:00:07",
-      "album": {
-        "name": "De N\u00e6re Ting",
-        "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Olava",
-          "url": "https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ"
-        }
-      ],
-      "duration_ms": 138412,
-      "name": "De N\u00e6re Ting",
-      "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
-    },
-    {
-      "added_at": "2025-03-27 23:00:07",
-      "album": {
         "name": "Paus synger Paus",
         "url": "https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts"
       },
@@ -619,6 +587,22 @@
       "duration_ms": 202000,
       "name": "Mitt lille land",
       "url": "https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01"
+    },
+    {
+      "added_at": "2025-03-27 23:00:07",
+      "album": {
+        "name": "St\u00f8v Og Stjerner",
+        "url": "https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X"
+      },
+      "artists": [
+        {
+          "name": "Erik Bye",
+          "url": "https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "V\u00e5r Beste Dag",
+      "url": "https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT"
     },
     {
       "added_at": "2025-03-27 23:00:07",
@@ -643,6 +627,22 @@
     {
       "added_at": "2025-03-27 23:00:07",
       "album": {
+        "name": "De N\u00e6re Ting",
+        "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Olava",
+          "url": "https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ"
+        }
+      ],
+      "duration_ms": 138412,
+      "name": "De N\u00e6re Ting",
+      "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
+    },
+    {
+      "added_at": "2025-03-27 23:00:07",
+      "album": {
         "name": "Kr\u00e5keviks Songbok",
         "url": "https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf"
       },
@@ -655,22 +655,6 @@
       "duration_ms": 178760,
       "name": "Den Fyrste Song",
       "url": "https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe"
-    },
-    {
-      "added_at": "2025-03-27 23:00:07",
-      "album": {
-        "name": "Heile veien ned",
-        "url": "https://open.spotify.com/album/1bPeKBeiPxL33kcyI4GdzE"
-      },
-      "artists": [
-        {
-          "name": "Inge Bremnes",
-          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
-        }
-      ],
-      "duration_ms": 264693,
-      "name": "Heile veien ned",
-      "url": "https://open.spotify.com/track/37BdNAd2PInnfRCVeq6HOi"
     },
     {
       "added_at": "2025-03-27 23:00:07",
@@ -691,18 +675,18 @@
     {
       "added_at": "2025-03-27 23:00:07",
       "album": {
-        "name": "Kom ut kom fram",
-        "url": "https://open.spotify.com/album/211PaS9J8AAPWXCVkyIVkF"
+        "name": "Heile veien ned",
+        "url": "https://open.spotify.com/album/1bPeKBeiPxL33kcyI4GdzE"
       },
       "artists": [
         {
-          "name": "Finn Kalvik",
-          "url": "https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an"
+          "name": "Inge Bremnes",
+          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
         }
       ],
-      "duration_ms": 226760,
-      "name": "Lilla vackra Anna",
-      "url": "https://open.spotify.com/track/6fAsL3cjB7fMGrMlXwYFIg"
+      "duration_ms": 264693,
+      "name": "Heile veien ned",
+      "url": "https://open.spotify.com/track/37BdNAd2PInnfRCVeq6HOi"
     },
     {
       "added_at": "2025-03-27 23:00:07",
@@ -739,6 +723,22 @@
     {
       "added_at": "2025-03-27 23:00:07",
       "album": {
+        "name": "Kom ut kom fram",
+        "url": "https://open.spotify.com/album/211PaS9J8AAPWXCVkyIVkF"
+      },
+      "artists": [
+        {
+          "name": "Finn Kalvik",
+          "url": "https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an"
+        }
+      ],
+      "duration_ms": 226760,
+      "name": "Lilla vackra Anna",
+      "url": "https://open.spotify.com/track/6fAsL3cjB7fMGrMlXwYFIg"
+    },
+    {
+      "added_at": "2025-03-27 23:00:07",
+      "album": {
         "name": "K\u00e6m va du?",
         "url": "https://open.spotify.com/album/1AQXVLdZSRPpt1HviBevmZ"
       },
@@ -767,22 +767,6 @@
       "duration_ms": 187600,
       "name": "Varherres Klinkekuler",
       "url": "https://open.spotify.com/track/5jbz1Pwz06o9fPMYFrmTOP"
-    },
-    {
-      "added_at": "2025-03-27 23:00:07",
-      "album": {
-        "name": "Ka Du H\u00e5pa P\u00e5",
-        "url": "https://open.spotify.com/album/70x1xmznD1DRiH3ArPVEI9"
-      },
-      "artists": [
-        {
-          "name": "Inge Bremnes",
-          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
-        }
-      ],
-      "duration_ms": 209408,
-      "name": "Ka Du H\u00e5pa P\u00e5",
-      "url": "https://open.spotify.com/track/21lhhyD37K61NGo36a6QKX"
     },
     {
       "added_at": "2025-03-27 23:00:07",
@@ -847,18 +831,34 @@
     {
       "added_at": "2025-03-27 23:00:07",
       "album": {
-        "name": "3 sanger",
-        "url": "https://open.spotify.com/album/3xjsMLjW25DMe5K09x522s"
+        "name": "Typisk Norsk",
+        "url": "https://open.spotify.com/album/3jJRA4yW5Kq85AsvDqb3pb"
       },
       "artists": [
         {
-          "name": "Kari Bremnes",
-          "url": "https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd"
+          "name": "Gitarkameratene",
+          "url": "https://open.spotify.com/artist/6eaBTqHxAaeyCvAgBsqVs9"
         }
       ],
-      "duration_ms": 281955,
-      "name": "S\u00e5 fullt av ja",
-      "url": "https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ"
+      "duration_ms": 222171,
+      "name": "Ryktet Forteller",
+      "url": "https://open.spotify.com/track/4axzeEnJdc01LFopSSa686"
+    },
+    {
+      "added_at": "2025-03-27 23:00:07",
+      "album": {
+        "name": "Ka Du H\u00e5pa P\u00e5",
+        "url": "https://open.spotify.com/album/70x1xmznD1DRiH3ArPVEI9"
+      },
+      "artists": [
+        {
+          "name": "Inge Bremnes",
+          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
+        }
+      ],
+      "duration_ms": 209408,
+      "name": "Ka Du H\u00e5pa P\u00e5",
+      "url": "https://open.spotify.com/track/21lhhyD37K61NGo36a6QKX"
     }
   ],
   "unique_name": "Norske viser",

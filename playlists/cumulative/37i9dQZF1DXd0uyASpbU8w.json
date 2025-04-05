@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "New music from Riky Rick, Miley Cyrus, Burna Boy and more.",
+  "description": "New music from Riky Rick, Miley Cyrus,  Nomfundo Moh & Blaq Diamond and more.",
   "name": "New Music Friday South Africa",
   "tracks": [
     {
@@ -17193,7 +17193,7 @@
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 161697,
+      "duration_ms": 161621,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/44BwZ1yRDa8hWt5hFXAkwb"
     },
@@ -102129,6 +102129,24 @@
     },
     {
       "album": {
+        "name": "Sinners",
+        "url": "https://open.spotify.com/album/3aUKmF2jQ0QPBe9QrNFLFr"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Sinners",
+      "url": "https://open.spotify.com/track/0OyWRjMMbPKwnBtWdLg4Ws"
+    },
+    {
+      "album": {
         "name": "Sip",
         "url": "https://open.spotify.com/album/3rdm30kSOOJm3SDxcoVAs0"
       },
@@ -108671,7 +108689,7 @@
     },
     {
       "album": {
-        "name": "Surrender (with Becky Hill)",
+        "name": "Surrender",
         "url": "https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd"
       },
       "artists": [
@@ -108688,7 +108706,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 144664,
-      "name": "Surrender (with Becky Hill)",
+      "name": "Surrender",
       "url": "https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY"
     },
     {

@@ -3085,6 +3085,24 @@
     },
     {
       "album": {
+        "name": "My Foundation (Acoustic)",
+        "url": "https://open.spotify.com/album/6gLpyUkE7xMRAxe5tW8nle"
+      },
+      "artists": [
+        {
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205095,
+      "name": "My Foundation - Acoustic",
+      "url": "https://open.spotify.com/track/79z6TAwIBBFavJECflBOEN"
+    },
+    {
+      "album": {
         "name": "My Inheritance",
         "url": "https://open.spotify.com/album/4d0tG6cGFGiNhRDWsjZR2P"
       },

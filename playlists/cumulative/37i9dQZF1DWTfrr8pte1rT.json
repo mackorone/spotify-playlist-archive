@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Rock with a Drop. Cover: Kayzo \\m/",
+  "description": "Rock with a Drop. Cover: PhaseOne \\m/",
   "name": "Rocktronic",
   "tracks": [
     {
@@ -1236,7 +1236,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 205241,
       "name": "Brunt",
       "url": "https://open.spotify.com/track/1fA1cnKRdkKGgFuJCLRYRJ"
@@ -4006,6 +4006,28 @@
       "duration_ms": 178846,
       "name": "Going Down",
       "url": "https://open.spotify.com/track/5q0X54hfXAnEo457iHjOLD"
+    },
+    {
+      "album": {
+        "name": "DATAMOSH",
+        "url": "https://open.spotify.com/album/3i7N4NfErE9SpQH55pTgj7"
+      },
+      "artists": [
+        {
+          "name": "HIGHSOCIETY",
+          "url": "https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193281,
+      "name": "Going Under",
+      "url": "https://open.spotify.com/track/5tSYDNfmWr4dt5JGUYrgTk"
     },
     {
       "album": {
@@ -7255,6 +7277,28 @@
     },
     {
       "album": {
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/7fwfPflE9UpMfLjNM1bzwW"
+      },
+      "artists": [
+        {
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
+        },
+        {
+          "name": "Banks Arcade",
+          "url": "https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205197,
+      "name": "PULSE",
+      "url": "https://open.spotify.com/track/3wv1F9qPfZkgxKfQNoEL7K"
+    },
+    {
+      "album": {
         "name": "Pure Smile Snake Venom",
         "url": "https://open.spotify.com/album/7nXYRc3PivS07SCWTWPl0R"
       },
@@ -7852,7 +7896,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 176129,
       "name": "Rock 'n Roll",
       "url": "https://open.spotify.com/track/2cI8q8jiNFh0g4vNnzMCIl"
@@ -9215,6 +9259,28 @@
     },
     {
       "album": {
+        "name": "The Code (feat. Micah Martin)",
+        "url": "https://open.spotify.com/album/77X1fyIviKRD30zvrjZMVL"
+      },
+      "artists": [
+        {
+          "name": "Skellytn",
+          "url": "https://open.spotify.com/artist/2UFoFFh9ayxK6EvW4tZcH3"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191724,
+      "name": "The Code (feat. Micah Martin)",
+      "url": "https://open.spotify.com/track/4GZQhGOko9Ufi2GM9jwtrf"
+    },
+    {
+      "album": {
         "name": "The Dead March",
         "url": "https://open.spotify.com/album/3FpZzHO2jDXRjMX2C9bxNU"
       },
@@ -9266,7 +9332,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 221543,
       "name": "The Kill",
       "url": "https://open.spotify.com/track/0sEBEuDSdZN5Qqr4r5pPlq"

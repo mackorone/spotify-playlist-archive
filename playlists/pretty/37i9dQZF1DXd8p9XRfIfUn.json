@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: Lexxx Torres ",
-  "num_followers": 79087,
+  "num_followers": 79099,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -215,30 +215,6 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
-        "name": "Vete Pal Carajo",
-        "url": "https://open.spotify.com/album/6h1BJzZHeHkAg5jknF3fwD"
-      },
-      "artists": [
-        {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        },
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        }
-      ],
-      "duration_ms": 176146,
-      "name": "Vete Pal Carajo",
-      "url": "https://open.spotify.com/track/1mrQYY0NATPCe7WOYcCKf1"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
         "name": "BESOS (with Kidd Keo & Neelo)",
         "url": "https://open.spotify.com/album/3lchk9CWRXo0pHD6et7bEY"
       },
@@ -259,6 +235,30 @@
       "duration_ms": 172852,
       "name": "BESOS (with Kidd Keo & Neelo)",
       "url": "https://open.spotify.com/track/3b6waQzXeYty0R6EDAv0po"
+    },
+    {
+      "added_at": "2025-02-07 06:00:17",
+      "album": {
+        "name": "Vete Pal Carajo",
+        "url": "https://open.spotify.com/album/6h1BJzZHeHkAg5jknF3fwD"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        }
+      ],
+      "duration_ms": 176146,
+      "name": "Vete Pal Carajo",
+      "url": "https://open.spotify.com/track/1mrQYY0NATPCe7WOYcCKf1"
     },
     {
       "added_at": "2025-02-07 06:00:17",
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
-        "name": "Como Si Nada",
-        "url": "https://open.spotify.com/album/25baT12B8EsCMIjKVCztUi"
-      },
-      "artists": [
-        {
-          "name": "ADSO",
-          "url": "https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Como Si Nada",
-      "url": "https://open.spotify.com/track/2ECKWYbTPpKvtnKiRiUQqC"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
         "name": "Maria",
         "url": "https://open.spotify.com/album/6jSBlDo6haE2UWMaXwQTY6"
       },
@@ -439,18 +423,18 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
-        "name": "FBI",
-        "url": "https://open.spotify.com/album/7eAcnI9pwFDR85Q0uxuWdL"
+        "name": "Como Si Nada",
+        "url": "https://open.spotify.com/album/25baT12B8EsCMIjKVCztUi"
       },
       "artists": [
         {
-          "name": "Picus",
-          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+          "name": "ADSO",
+          "url": "https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf"
         }
       ],
-      "duration_ms": 152773,
-      "name": "FBI",
-      "url": "https://open.spotify.com/track/5QwJzRYztpLYguELCKWcvV"
+      "duration_ms": 156000,
+      "name": "Como Si Nada",
+      "url": "https://open.spotify.com/track/2ECKWYbTPpKvtnKiRiUQqC"
     },
     {
       "added_at": "2025-02-07 06:00:17",
@@ -471,6 +455,22 @@
       "duration_ms": 176222,
       "name": "Emeyc\u00e9",
       "url": "https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC"
+    },
+    {
+      "added_at": "2025-02-07 06:00:17",
+      "album": {
+        "name": "FBI",
+        "url": "https://open.spotify.com/album/7eAcnI9pwFDR85Q0uxuWdL"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        }
+      ],
+      "duration_ms": 152773,
+      "name": "FBI",
+      "url": "https://open.spotify.com/track/5QwJzRYztpLYguELCKWcvV"
     },
     {
       "added_at": "2025-02-07 06:00:17",
@@ -779,6 +779,26 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
+        "name": "M\u00e1s Papel",
+        "url": "https://open.spotify.com/album/6PFtQgbQ6fVrf2sTKBgzn1"
+      },
+      "artists": [
+        {
+          "name": "Axel Guerra",
+          "url": "https://open.spotify.com/artist/5Pi482fNZrF0kD8nyhDtvo"
+        },
+        {
+          "name": "Castro Angel",
+          "url": "https://open.spotify.com/artist/01olnHHF6FukRRCAObvofr"
+        }
+      ],
+      "duration_ms": 152952,
+      "name": "M\u00e1s Papel",
+      "url": "https://open.spotify.com/track/2guH6Iwas87W7c4QjgLot7"
+    },
+    {
+      "added_at": "2025-02-07 06:00:17",
+      "album": {
         "name": "Quiero Verte",
         "url": "https://open.spotify.com/album/5Lxbf8iVNXxCYDbXzRanZn"
       },
@@ -835,6 +855,22 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
+        "name": "Chakalicious",
+        "url": "https://open.spotify.com/album/23M59Bax2fKS7zAjnfGrYC"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 199546,
+      "name": "Chakalicious",
+      "url": "https://open.spotify.com/track/7nVWFGzVmdwfLqJeptkfda"
+    },
+    {
+      "added_at": "2025-02-07 06:00:17",
+      "album": {
         "name": "Bendici\u00f3n",
         "url": "https://open.spotify.com/album/1ngKwKbpwwd5twNds3LN8N"
       },
@@ -851,42 +887,6 @@
       "duration_ms": 185988,
       "name": "Bendici\u00f3n",
       "url": "https://open.spotify.com/track/54LxLkCDvShuYKRtTUQ2G4"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
-        "name": "M\u00e1s Papel",
-        "url": "https://open.spotify.com/album/6PFtQgbQ6fVrf2sTKBgzn1"
-      },
-      "artists": [
-        {
-          "name": "Axel Guerra",
-          "url": "https://open.spotify.com/artist/5Pi482fNZrF0kD8nyhDtvo"
-        },
-        {
-          "name": "Castro Angel",
-          "url": "https://open.spotify.com/artist/01olnHHF6FukRRCAObvofr"
-        }
-      ],
-      "duration_ms": 152952,
-      "name": "M\u00e1s Papel",
-      "url": "https://open.spotify.com/track/2guH6Iwas87W7c4QjgLot7"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
-        "name": "Chakalicious",
-        "url": "https://open.spotify.com/album/23M59Bax2fKS7zAjnfGrYC"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 199546,
-      "name": "Chakalicious",
-      "url": "https://open.spotify.com/track/7nVWFGzVmdwfLqJeptkfda"
     },
     {
       "added_at": "2025-02-07 06:00:17",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
-        "name": "Dimelo Ma",
-        "url": "https://open.spotify.com/album/583gfP3iFB0x498Z8jwVuh"
-      },
-      "artists": [
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        },
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        }
-      ],
-      "duration_ms": 173187,
-      "name": "Dimelo Ma",
-      "url": "https://open.spotify.com/track/1j1itFzuIbndSf6lW8L1Kx"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
         "name": "Limbo",
         "url": "https://open.spotify.com/album/1Kq5G4147jgvVqkTRjsi4J"
       },
@@ -1143,26 +1123,6 @@
       "duration_ms": 178626,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
-        "name": "Que Loco Mami",
-        "url": "https://open.spotify.com/album/1jrxhZMUDRG5ssTUxFR10s"
-      },
-      "artists": [
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        },
-        {
-          "name": "Hozwal",
-          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
-        }
-      ],
-      "duration_ms": 176629,
-      "name": "Que Loco Mami",
-      "url": "https://open.spotify.com/track/5dIVRu9PgpCqntnva0F0Fl"
     },
     {
       "added_at": "2025-02-07 06:00:17",
@@ -1187,6 +1147,26 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
+        "name": "Que Loco Mami",
+        "url": "https://open.spotify.com/album/1jrxhZMUDRG5ssTUxFR10s"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        }
+      ],
+      "duration_ms": 176629,
+      "name": "Que Loco Mami",
+      "url": "https://open.spotify.com/track/5dIVRu9PgpCqntnva0F0Fl"
+    },
+    {
+      "added_at": "2025-02-07 06:00:17",
+      "album": {
         "name": "X Ti Lo Digo",
         "url": "https://open.spotify.com/album/4ifI86bX1iJP68q2AogGBM"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 191323,
       "name": "X Ti Lo Digo",
       "url": "https://open.spotify.com/track/1nT6epkjhga9uBDKrHIWVe"
+    },
+    {
+      "added_at": "2025-02-07 06:00:17",
+      "album": {
+        "name": "Dimelo Ma",
+        "url": "https://open.spotify.com/album/583gfP3iFB0x498Z8jwVuh"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "duration_ms": 173187,
+      "name": "Dimelo Ma",
+      "url": "https://open.spotify.com/track/1j1itFzuIbndSf6lW8L1Kx"
     },
     {
       "added_at": "2025-02-07 06:00:17",

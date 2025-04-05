@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: MonoNeon
 
-472 songs - 1 day 3 hr 41 min
+473 songs - 1 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Ambrosia \(feat\. John Givez\)](https://open.spotify.com/track/1vvkcDxmRcen5VA46QjE45) | [XV](https://open.spotify.com/artist/4GKRKf0FAK4nLtmL3u3JQ9), [MIKE SUMMERS](https://open.spotify.com/artist/3zZSB45PLm0xRMHSOQ59V8), [John Givez](https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB) | [Ambrosia \(feat\. John Givez\)](https://open.spotify.com/album/02sQMLc0VZX3pwya3TAC6S) | 3:03 | 2023-05-05 | 2025-02-01 |
 | [Apollo](https://open.spotify.com/track/4lhhYqzREcts4uOOqWHjRJ) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Young Sick Camellia](https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL) | 4:43 | 2020-11-20 | 2022-04-09 |
 | [Aqua Girl \- Jules Grant Remix](https://open.spotify.com/track/2ZDaTRSKYqzl561mnMF4k5) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn), [Jules Grant](https://open.spotify.com/artist/5KLQxnoQmOOHaSobJveoD8) | [Aqua Girl \(Jules Grant Remix\)](https://open.spotify.com/album/369x47N74qLzB1rlEAohUw) | 3:16 | 2022-03-25 | 2023-09-02 |
+| [Around The World](https://open.spotify.com/track/5aAFJSALAshcD7bWJk21Yu) | [Boyan](https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Around The World](https://open.spotify.com/album/1PuLvjBh6PLsoKbLsC0f58) | 2:38 | 2025-04-04 |  |
 | [arrow](https://open.spotify.com/track/6HGDxEtcoUsztb2xeVOXTP) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Now, Not Yet](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z) | 3:42 | 2020-11-20 | 2022-01-29 |
 | [Atlanta](https://open.spotify.com/track/4WOfRya3PSbwNk0ZTU8ent) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Atlanta](https://open.spotify.com/album/6daZUauCIOcopysTBj9CVj) | 3:03 | 2024-03-15 |  |
 | [Atomic Bounce](https://open.spotify.com/track/6Mm5bkx7qYdeNzeP9Grxcs) | [B\. Bravo](https://open.spotify.com/artist/7xc31aDpVtMW34JWjZvAG4) | [Cosmic Mind](https://open.spotify.com/album/3HOKOwDmmsRJspZpShvB5C) | 5:01 | 2020-11-20 | 2022-04-09 |
@@ -416,7 +417,7 @@
 | [This Vibe](https://open.spotify.com/track/1Y9z7IqlSnet2A5raxs22e) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe) | [This Vibe](https://open.spotify.com/album/46gXRt1zGMf89qJPSI9cje) | 4:12 | 2022-08-19 | 2024-01-20 |
 | [Thousand Knives \- Thundercat Remodel](https://open.spotify.com/track/3yJ57qr7LOU4cauQQwe50N) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Thousand Knives \- Thundercat Remodel](https://open.spotify.com/album/2QiROj647TO8FCCoKoojnA) | 5:26 | 2022-10-07 | 2023-02-18 |
 | [Thumpahlenah \- Radio Edit](https://open.spotify.com/track/01prSP4l0I3Gf1WCfC9jTI) | [Nik West](https://open.spotify.com/artist/5yrmwjhscVmbinBG3hx86i), [Larry Graham](https://open.spotify.com/artist/6lUcc15t11bnaPr2qOuFs2) | [Thumpahlenah \(Radio Edit\)](https://open.spotify.com/album/2VbzGgntgJu0oHLGHOjq3E) | 3:22 | 2023-05-26 | 2025-03-22 |
-| [TIANA](https://open.spotify.com/track/3clenG2tAtYdINNWyR4VA8) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [TIANA](https://open.spotify.com/album/3TjWPkQLxE4m5Ok2RvAQEa) | 2:56 | 2024-07-05 |  |
+| [TIANA](https://open.spotify.com/track/3clenG2tAtYdINNWyR4VA8) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [TIANA](https://open.spotify.com/album/3TjWPkQLxE4m5Ok2RvAQEa) | 2:56 | 2024-07-05 | 2025-04-05 |
 | [Tides \- Jean Tonique Remix](https://open.spotify.com/track/7G7Ugg03M2X0lKvQp4uGl0) | [3kelves](https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Tides \(Jean Tonique Remix\)](https://open.spotify.com/album/6iB6j9WbxZ3e3Ooht1fteY) | 3:01 | 2024-04-26 |  |
 | [Tightrope](https://open.spotify.com/track/1v2gz3Z8jdh8LzhM8j1sdc) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Blue Solstice: Volume 1](https://open.spotify.com/album/5gIGA2nOaMi0JRio4ATLr8) | 3:40 | 2021-09-10 | 2022-09-24 |
 | [Time Machine](https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Time Machine](https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3) | 4:11 | 2024-02-16 |  |

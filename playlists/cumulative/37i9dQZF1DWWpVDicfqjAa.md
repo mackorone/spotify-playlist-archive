@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-352 songs - 21 hr 50 min
+353 songs - 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Ring\-a\-Ling](https://open.spotify.com/track/0CAisIL2Tjy47oEkzQUMns) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Ring\-a\-Ling](https://open.spotify.com/album/1OnUNliWg1BbNsuEmGDB2n) | 2:58 | 2023-07-26 | 2024-02-03 |
 | [Rizzla](https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rizzla](https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM) | 3:37 | 2023-06-15 | 2023-08-18 |
 | [Run It \(feat\. Smiles Davis\)](https://open.spotify.com/track/3AxNeTEdM7bzJV1RUDKFn6) | [Vanessa Tha Finessa](https://open.spotify.com/artist/7d55wy6vEfabtFevi23pZt), [Smiles Davis](https://open.spotify.com/artist/6vjhuQY1IzfsaJJIKskfZD) | [Run It \(feat\. Smiles Davis\)](https://open.spotify.com/album/1RZ1l15cKdDNt66Wp1G6N3) | 2:42 | 2022-12-01 | 2023-05-26 |
+| [Runnin'](https://open.spotify.com/track/1PcJZFKTbgVjIozoJufyJy) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI), [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [Runnin'](https://open.spotify.com/album/3sXeRvShh6kRd8E61X5icn) | 3:09 | 2025-04-04 |  |
 | [Running Blind](https://open.spotify.com/track/64Tr5OvZxEa8GGgYER12Up) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Running Blind](https://open.spotify.com/album/22UuWU5Q8YLPMs5zNEKPaf) | 4:39 | 2023-07-07 | 2024-12-28 |
 | [Running from the Noise \- Edit](https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Running from the Noise \(Edit\)](https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1) | 3:10 | 2024-03-15 |  |
 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2022-10-25 | 2022-12-15 |

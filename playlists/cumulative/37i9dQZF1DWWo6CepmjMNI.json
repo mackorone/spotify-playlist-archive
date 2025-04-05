@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LEMONY",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: CURS",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49 \u0e40\u0e17\u0e2a\u0e14\u0e35 Indie Tasty",
   "tracks": [
     {
@@ -803,6 +803,24 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e23\u0e31\u0e49\u0e07\u0e41\u0e23\u0e01 (First and last)",
+        "url": "https://open.spotify.com/album/6GWaWM2hdmzLBWwx8Ehgha"
+      },
+      "artists": [
+        {
+          "name": "Story and Feel.",
+          "url": "https://open.spotify.com/artist/3LhfrnpxivRln0UZrwptBe"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259285,
+      "name": "\u0e04\u0e23\u0e31\u0e49\u0e07\u0e41\u0e23\u0e01 (First and last)",
+      "url": "https://open.spotify.com/track/1NcZPWlyYKK2W8kNYjSMeJ"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e27\u0e32\u0e21\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e01\u0e36\u0e48\u0e07\u0e2a\u0e33\u0e40\u0e23\u0e47\u0e08\u0e23\u0e39\u0e1b",
         "url": "https://open.spotify.com/album/72NS811z9Jrp9PI1sfyqV7"
       },
@@ -814,7 +832,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 198088,
       "name": "\u0e04\u0e27\u0e32\u0e21\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e01\u0e36\u0e48\u0e07\u0e2a\u0e33\u0e40\u0e23\u0e47\u0e08\u0e23\u0e39\u0e1b",
       "url": "https://open.spotify.com/track/65pifvWSgPeukXKWOA7y7X"
@@ -944,7 +962,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 212400,
       "name": "\u0e08\u0e31\u0e1a\u0e21\u0e37\u0e2d\u0e09\u0e31\u0e19\u0e44\u0e27\u0e49",
       "url": "https://open.spotify.com/track/68zDVn6aPQRLIhpd1by36V"
@@ -1196,7 +1214,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 247988,
       "name": "\u0e16\u0e49\u0e32\u0e1d\u0e37\u0e19\u0e15\u0e48\u0e2d\u0e44\u0e1b",
       "url": "https://open.spotify.com/track/7DCkQV8yTFU2GXRPE5Esee"
@@ -1344,6 +1362,24 @@
       "duration_ms": 244897,
       "name": "\u0e17\u0e38\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e1a\u0e15\u0e32",
       "url": "https://open.spotify.com/track/1gihnuYvGbRVgxrRmwgAey"
+    },
+    {
+      "album": {
+        "name": "\u0e17\u0e38\u0e01\u0e0a\u0e48\u0e27\u0e07\u0e40\u0e27\u0e25\u0e32\u0e2a\u0e33\u0e04\u0e31\u0e0d (We Both Left a Hint)",
+        "url": "https://open.spotify.com/album/2vuD7aZA4clhtt39bCoOtb"
+      },
+      "artists": [
+        {
+          "name": "YEP MAY YEP",
+          "url": "https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "\u0e17\u0e38\u0e01\u0e0a\u0e48\u0e27\u0e07\u0e40\u0e27\u0e25\u0e32\u0e2a\u0e33\u0e04\u0e31\u0e0d (We Both Left a Hint)",
+      "url": "https://open.spotify.com/track/0KKHjskHNeqDCJ1uB8eNsw"
     },
     {
       "album": {
@@ -1600,6 +1636,24 @@
       "duration_ms": 246750,
       "name": "\u0e1c\u0e39\u0e49\u0e17\u0e35\u0e48\u0e28\u0e23\u0e31\u0e17\u0e18\u0e32\u0e43\u0e19\u0e1e\u0e23\u0e30\u0e40\u0e08\u0e49\u0e32 \u0e41\u0e15\u0e48\u0e2b\u0e21\u0e14\u0e01\u0e33\u0e25\u0e31\u0e07\u0e2d\u0e18\u0e34\u0e29\u0e10\u0e32\u0e19",
       "url": "https://open.spotify.com/track/5lB51wzR4OxghE3qvREaaj"
+    },
+    {
+      "album": {
+        "name": "\u0e1c\u0e48\u0e32\u0e19\u0e44\u0e1b\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d (Think of)",
+        "url": "https://open.spotify.com/album/7LM8buWUHZvHPERQOdIKjK"
+      },
+      "artists": [
+        {
+          "name": "CURS",
+          "url": "https://open.spotify.com/artist/6Io9kkkF2CDodp2FoQmGtV"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211862,
+      "name": "\u0e1c\u0e48\u0e32\u0e19\u0e44\u0e1b\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d (Think of)",
+      "url": "https://open.spotify.com/track/4DuHeUrU05aCgsNdFlsbLC"
     },
     {
       "album": {

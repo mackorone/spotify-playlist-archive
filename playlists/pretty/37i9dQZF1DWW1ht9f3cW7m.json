@@ -1,6 +1,6 @@
 {
   "description": "sweet and fresh emerging indie pop, featuring Luvcat \ud83c\udf51",
-  "num_followers": 29687,
+  "num_followers": 29691,
   "original_name": "peach",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
+        "name": "Brian Cox",
+        "url": "https://open.spotify.com/album/6pNS3kSG0HdxMpjOJ1aQho"
+      },
+      "artists": [
+        {
+          "name": "Sophie May",
+          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "Brian Cox",
+      "url": "https://open.spotify.com/track/0LbtMgKgt5gCN74xpaYNo0"
+    },
+    {
+      "added_at": "2025-02-14 01:16:57",
+      "album": {
         "name": "Just Because",
         "url": "https://open.spotify.com/album/50Iqs6mIhEZTfRdfjzwgwx"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 169586,
       "name": "Just Because",
       "url": "https://open.spotify.com/track/1DwmNjO23qRsGsgmxfADfC"
-    },
-    {
-      "added_at": "2025-02-14 01:16:57",
-      "album": {
-        "name": "Weather's Better",
-        "url": "https://open.spotify.com/album/5QjlHFNDQHxf6vXJPpOpO5"
-      },
-      "artists": [
-        {
-          "name": "Rum Jungle",
-          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
-        }
-      ],
-      "duration_ms": 172991,
-      "name": "Weather's Better",
-      "url": "https://open.spotify.com/track/0Nj1v6r8uNGgSL4tR7N0bz"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -283,34 +283,18 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "Brian Cox",
-        "url": "https://open.spotify.com/album/6pNS3kSG0HdxMpjOJ1aQho"
+        "name": "Weather's Better",
+        "url": "https://open.spotify.com/album/5QjlHFNDQHxf6vXJPpOpO5"
       },
       "artists": [
         {
-          "name": "Sophie May",
-          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
         }
       ],
-      "duration_ms": 176760,
-      "name": "Brian Cox",
-      "url": "https://open.spotify.com/track/0LbtMgKgt5gCN74xpaYNo0"
-    },
-    {
-      "added_at": "2025-02-14 01:16:57",
-      "album": {
-        "name": "projections",
-        "url": "https://open.spotify.com/album/4DNu93MzQ2528TXBVJ0zEt"
-      },
-      "artists": [
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
-        }
-      ],
-      "duration_ms": 260484,
-      "name": "projections",
-      "url": "https://open.spotify.com/track/0ler9C55DJbLJsgJprlFis"
+      "duration_ms": 172991,
+      "name": "Weather's Better",
+      "url": "https://open.spotify.com/track/0Nj1v6r8uNGgSL4tR7N0bz"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -327,6 +311,22 @@
       "duration_ms": 160114,
       "name": "friends",
       "url": "https://open.spotify.com/track/4SuzvlzpLFCZxsoI3W2NCr"
+    },
+    {
+      "added_at": "2025-02-14 01:16:57",
+      "album": {
+        "name": "projections",
+        "url": "https://open.spotify.com/album/4DNu93MzQ2528TXBVJ0zEt"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "duration_ms": 260484,
+      "name": "projections",
+      "url": "https://open.spotify.com/track/0ler9C55DJbLJsgJprlFis"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -363,38 +363,6 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/4dVdqGNmSeT4EOt3vO68dR"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 159323,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/4GKlQw3wlSRBM3MiCilBOj"
-    },
-    {
-      "added_at": "2025-02-14 01:16:57",
-      "album": {
-        "name": "to be free",
-        "url": "https://open.spotify.com/album/12i8HQPqFmEO1cBqhF26fI"
-      },
-      "artists": [
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
-        }
-      ],
-      "duration_ms": 230476,
-      "name": "to be free",
-      "url": "https://open.spotify.com/track/2f526wBHCGx6u6HsbF0uAE"
-    },
-    {
-      "added_at": "2025-02-14 01:16:57",
-      "album": {
         "name": "crush (tom verlaine)",
         "url": "https://open.spotify.com/album/4jELKPy6P8FQK2UmYOzz33"
       },
@@ -407,6 +375,22 @@
       "duration_ms": 182498,
       "name": "crush (tom verlaine)",
       "url": "https://open.spotify.com/track/5LtjfCzRlKVERVaNjJqmUq"
+    },
+    {
+      "added_at": "2025-02-14 01:16:57",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/4dVdqGNmSeT4EOt3vO68dR"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 159323,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/4GKlQw3wlSRBM3MiCilBOj"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -427,22 +411,6 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "All I Ever Dream About",
-        "url": "https://open.spotify.com/album/6ChtPY348jHDmASn1U6FlZ"
-      },
-      "artists": [
-        {
-          "name": "daydreamers",
-          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
-        }
-      ],
-      "duration_ms": 184423,
-      "name": "All I Ever Dream About",
-      "url": "https://open.spotify.com/track/3wxG6mf4sbIg5i8hnCcMnG"
-    },
-    {
-      "added_at": "2025-02-14 01:16:57",
-      "album": {
         "name": "Kiss My Apocalypse",
         "url": "https://open.spotify.com/album/2X42JsIZ1VkhOooPBBfDZl"
       },
@@ -459,18 +427,34 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "Time Slipping Away",
-        "url": "https://open.spotify.com/album/2A2IZm6wrSsTUaxB2dLBWP"
+        "name": "to be free",
+        "url": "https://open.spotify.com/album/12i8HQPqFmEO1cBqhF26fI"
       },
       "artists": [
         {
-          "name": "KAWALA",
-          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Time Slipping Away",
-      "url": "https://open.spotify.com/track/7wscYVNFUWr92JfFIYE2S0"
+      "duration_ms": 230476,
+      "name": "to be free",
+      "url": "https://open.spotify.com/track/2f526wBHCGx6u6HsbF0uAE"
+    },
+    {
+      "added_at": "2025-02-14 01:16:57",
+      "album": {
+        "name": "All I Ever Dream About",
+        "url": "https://open.spotify.com/album/6ChtPY348jHDmASn1U6FlZ"
+      },
+      "artists": [
+        {
+          "name": "daydreamers",
+          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
+        }
+      ],
+      "duration_ms": 184423,
+      "name": "All I Ever Dream About",
+      "url": "https://open.spotify.com/track/3wxG6mf4sbIg5i8hnCcMnG"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -487,6 +471,22 @@
       "duration_ms": 185840,
       "name": "Too Far Gone",
       "url": "https://open.spotify.com/track/5F9T5JsuTugogBqM1rHCvG"
+    },
+    {
+      "added_at": "2025-02-14 01:16:57",
+      "album": {
+        "name": "Time Slipping Away",
+        "url": "https://open.spotify.com/album/2A2IZm6wrSsTUaxB2dLBWP"
+      },
+      "artists": [
+        {
+          "name": "KAWALA",
+          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Time Slipping Away",
+      "url": "https://open.spotify.com/track/7wscYVNFUWr92JfFIYE2S0"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx"
-      },
-      "artists": [
-        {
-          "name": "Teenage Dads",
-          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
-        }
-      ],
-      "duration_ms": 237117,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC"
-    },
-    {
-      "added_at": "2025-02-14 01:16:57",
-      "album": {
         "name": "Don't Miss It.",
         "url": "https://open.spotify.com/album/5VvA1wrLCjFVCaj7jALPPQ"
       },
@@ -731,6 +715,22 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx"
+      },
+      "artists": [
+        {
+          "name": "Teenage Dads",
+          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
+        }
+      ],
+      "duration_ms": 237117,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC"
+    },
+    {
+      "added_at": "2025-02-14 01:16:57",
+      "album": {
         "name": "With u",
         "url": "https://open.spotify.com/album/1EJFRkOwbD9DysVZImiu4h"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 140000,
       "name": "With u",
       "url": "https://open.spotify.com/track/5N66ReNy94acDJP6CIcgBG"
+    },
+    {
+      "added_at": "2025-02-14 01:16:57",
+      "album": {
+        "name": "June Baby",
+        "url": "https://open.spotify.com/album/2zHSZ93YId2FctiSrTgY4j"
+      },
+      "artists": [
+        {
+          "name": "Victoria Canal",
+          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
+        }
+      ],
+      "duration_ms": 182333,
+      "name": "June Baby",
+      "url": "https://open.spotify.com/track/1Bi3VozG3TkmqO7D157n6A"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -779,18 +795,18 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "June Baby",
-        "url": "https://open.spotify.com/album/2zHSZ93YId2FctiSrTgY4j"
+        "name": "How I Wish I Was Cool",
+        "url": "https://open.spotify.com/album/0cfVAeAUKSHQfBdSItqykL"
       },
       "artists": [
         {
-          "name": "Victoria Canal",
-          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
+          "name": "Bayboards",
+          "url": "https://open.spotify.com/artist/0FpxYe2b5uTpjYK8IwMgsM"
         }
       ],
-      "duration_ms": 182333,
-      "name": "June Baby",
-      "url": "https://open.spotify.com/track/1Bi3VozG3TkmqO7D157n6A"
+      "duration_ms": 186131,
+      "name": "How I Wish I Was Cool",
+      "url": "https://open.spotify.com/track/4vHN3V78frVhc6wfYXOS8D"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -811,22 +827,6 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "How I Wish I Was Cool",
-        "url": "https://open.spotify.com/album/0cfVAeAUKSHQfBdSItqykL"
-      },
-      "artists": [
-        {
-          "name": "Bayboards",
-          "url": "https://open.spotify.com/artist/0FpxYe2b5uTpjYK8IwMgsM"
-        }
-      ],
-      "duration_ms": 186131,
-      "name": "How I Wish I Was Cool",
-      "url": "https://open.spotify.com/track/4vHN3V78frVhc6wfYXOS8D"
-    },
-    {
-      "added_at": "2025-02-14 01:16:57",
-      "album": {
         "name": "I Feel You",
         "url": "https://open.spotify.com/album/5nO3sdRL4yMFlmFtl7TMJB"
       },
@@ -839,54 +839,6 @@
       "duration_ms": 156000,
       "name": "I Feel You",
       "url": "https://open.spotify.com/track/1FjrTr0IVabwKR93xUR6FS"
-    },
-    {
-      "added_at": "2025-02-14 01:16:57",
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/0FgWiapCduK5CnjIw2hUmo"
-      },
-      "artists": [
-        {
-          "name": "Cloth",
-          "url": "https://open.spotify.com/artist/3ZKUFIrYS6aAgIxu5AfTX5"
-        }
-      ],
-      "duration_ms": 222790,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/2vnGiiOUKM8dUU7RmRs2Bs"
-    },
-    {
-      "added_at": "2025-02-14 01:16:57",
-      "album": {
-        "name": "you say that i'm crazy",
-        "url": "https://open.spotify.com/album/6hHqkUdrHqBZAe77duY9q9"
-      },
-      "artists": [
-        {
-          "name": "EF\u00c9",
-          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "you say that i'm crazy",
-      "url": "https://open.spotify.com/track/3U18vzIuVwMGzR4raHhVVS"
-    },
-    {
-      "added_at": "2025-02-14 01:16:57",
-      "album": {
-        "name": "Quiet & Perfect",
-        "url": "https://open.spotify.com/album/2lACASAcN0qTsGT9yc9Mbn"
-      },
-      "artists": [
-        {
-          "name": "Essence Martins",
-          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
-        }
-      ],
-      "duration_ms": 218367,
-      "name": "Quiet & Perfect",
-      "url": "https://open.spotify.com/track/4CL65tRNZjpBwcXjSOVuAR"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -907,6 +859,38 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
+        "name": "Boys",
+        "url": "https://open.spotify.com/album/5PzrhYhmTEb8Wao6CmZe66"
+      },
+      "artists": [
+        {
+          "name": "Ellur",
+          "url": "https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7"
+        }
+      ],
+      "duration_ms": 192444,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/3wRLsbybqoHVncYouMQvp3"
+    },
+    {
+      "added_at": "2025-02-14 01:16:57",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/0FgWiapCduK5CnjIw2hUmo"
+      },
+      "artists": [
+        {
+          "name": "Cloth",
+          "url": "https://open.spotify.com/artist/3ZKUFIrYS6aAgIxu5AfTX5"
+        }
+      ],
+      "duration_ms": 222790,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/2vnGiiOUKM8dUU7RmRs2Bs"
+    },
+    {
+      "added_at": "2025-02-14 01:16:57",
+      "album": {
         "name": "Gramophone",
         "url": "https://open.spotify.com/album/5i7oTarvOSWgrOXtx6jtHF"
       },
@@ -923,18 +907,18 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "Boys",
-        "url": "https://open.spotify.com/album/5PzrhYhmTEb8Wao6CmZe66"
+        "name": "Quiet & Perfect",
+        "url": "https://open.spotify.com/album/2lACASAcN0qTsGT9yc9Mbn"
       },
       "artists": [
         {
-          "name": "Ellur",
-          "url": "https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7"
+          "name": "Essence Martins",
+          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
         }
       ],
-      "duration_ms": 192444,
-      "name": "Boys",
-      "url": "https://open.spotify.com/track/3wRLsbybqoHVncYouMQvp3"
+      "duration_ms": 218367,
+      "name": "Quiet & Perfect",
+      "url": "https://open.spotify.com/track/4CL65tRNZjpBwcXjSOVuAR"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -955,18 +939,18 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "If I Was Abducted By Aliens",
-        "url": "https://open.spotify.com/album/2P7F7SSH9F2wv70Ii7v5VE"
+        "name": "you say that i'm crazy",
+        "url": "https://open.spotify.com/album/6hHqkUdrHqBZAe77duY9q9"
       },
       "artists": [
         {
-          "name": "Dirty Nice",
-          "url": "https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g"
+          "name": "EF\u00c9",
+          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
         }
       ],
-      "duration_ms": 166132,
-      "name": "If I Was Abducted By Aliens",
-      "url": "https://open.spotify.com/track/7cgwbjiVtsfFSYYsrpOsPI"
+      "duration_ms": 146000,
+      "name": "you say that i'm crazy",
+      "url": "https://open.spotify.com/track/3U18vzIuVwMGzR4raHhVVS"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -991,18 +975,18 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "animal",
-        "url": "https://open.spotify.com/album/2uu0FiVvr6niABxLz2zPWM"
+        "name": "If I Was Abducted By Aliens",
+        "url": "https://open.spotify.com/album/2P7F7SSH9F2wv70Ii7v5VE"
       },
       "artists": [
         {
-          "name": "Martin Luke Brown",
-          "url": "https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE"
+          "name": "Dirty Nice",
+          "url": "https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g"
         }
       ],
-      "duration_ms": 213422,
-      "name": "animal",
-      "url": "https://open.spotify.com/track/30xK4yILvzrLjkbrBZ9lJD"
+      "duration_ms": 166132,
+      "name": "If I Was Abducted By Aliens",
+      "url": "https://open.spotify.com/track/7cgwbjiVtsfFSYYsrpOsPI"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
+        "name": "animal",
+        "url": "https://open.spotify.com/album/2uu0FiVvr6niABxLz2zPWM"
+      },
+      "artists": [
+        {
+          "name": "Martin Luke Brown",
+          "url": "https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE"
+        }
+      ],
+      "duration_ms": 213422,
+      "name": "animal",
+      "url": "https://open.spotify.com/track/30xK4yILvzrLjkbrBZ9lJD"
+    },
+    {
+      "added_at": "2025-02-14 01:16:57",
+      "album": {
         "name": "Bunny",
         "url": "https://open.spotify.com/album/00d9EcVVc6UJVrdNtsLUcm"
       },
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "mine",
-        "url": "https://open.spotify.com/album/1eFSDXoY46ihpWU92EYROK"
-      },
-      "artists": [
-        {
-          "name": "SOFY",
-          "url": "https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd"
-        }
-      ],
-      "duration_ms": 196910,
-      "name": "mine",
-      "url": "https://open.spotify.com/track/3LG0hSqKPEU7bClEv1BwIG"
-    },
-    {
-      "added_at": "2025-02-14 01:16:57",
-      "album": {
         "name": "Stay For Good",
         "url": "https://open.spotify.com/album/4fvtPXhNtEMiMGhhBWsrfs"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 205442,
       "name": "Stay For Good",
       "url": "https://open.spotify.com/track/0PrPN5jWLDjvNXFPSfbDy4"
+    },
+    {
+      "added_at": "2025-02-14 01:16:57",
+      "album": {
+        "name": "mine",
+        "url": "https://open.spotify.com/album/1eFSDXoY46ihpWU92EYROK"
+      },
+      "artists": [
+        {
+          "name": "SOFY",
+          "url": "https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd"
+        }
+      ],
+      "duration_ms": 196910,
+      "name": "mine",
+      "url": "https://open.spotify.com/track/3LG0hSqKPEU7bClEv1BwIG"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "Hardcore Workout Queen",
-        "url": "https://open.spotify.com/album/7smNDRRGRgzYNr5P5ihv5d"
+        "name": "BIG BOYS CRY TOO",
+        "url": "https://open.spotify.com/album/3fnvp3uIQN3hUEn41ViEeo"
       },
       "artists": [
         {
-          "name": "Friedberg",
-          "url": "https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn"
+          "name": "Jo Hill",
+          "url": "https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8"
         }
       ],
-      "duration_ms": 221967,
-      "name": "So Dope",
-      "url": "https://open.spotify.com/track/16Pbu1N4pNmGdtSSK8hV35"
+      "duration_ms": 205000,
+      "name": "BIG BOYS CRY TOO",
+      "url": "https://open.spotify.com/track/6bbGJOE8Y6r9q1cXnudz04"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -1135,34 +1135,18 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "BIG BOYS CRY TOO",
-        "url": "https://open.spotify.com/album/3fnvp3uIQN3hUEn41ViEeo"
+        "name": "Hardcore Workout Queen",
+        "url": "https://open.spotify.com/album/7smNDRRGRgzYNr5P5ihv5d"
       },
       "artists": [
         {
-          "name": "Jo Hill",
-          "url": "https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8"
+          "name": "Friedberg",
+          "url": "https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn"
         }
       ],
-      "duration_ms": 205000,
-      "name": "BIG BOYS CRY TOO",
-      "url": "https://open.spotify.com/track/6bbGJOE8Y6r9q1cXnudz04"
-    },
-    {
-      "added_at": "2025-02-14 01:16:57",
-      "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/0OKbrYFDbd3WbPdmSWY3Hq"
-      },
-      "artists": [
-        {
-          "name": "Only Real",
-          "url": "https://open.spotify.com/artist/5cyHu7tidauRJ9UawaPwG5"
-        }
-      ],
-      "duration_ms": 180316,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/513z8kjyLSnl0toYu9xwdU"
+      "duration_ms": 221967,
+      "name": "So Dope",
+      "url": "https://open.spotify.com/track/16Pbu1N4pNmGdtSSK8hV35"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/0OKbrYFDbd3WbPdmSWY3Hq"
+      },
+      "artists": [
+        {
+          "name": "Only Real",
+          "url": "https://open.spotify.com/artist/5cyHu7tidauRJ9UawaPwG5"
+        }
+      ],
+      "duration_ms": 180316,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/513z8kjyLSnl0toYu9xwdU"
+    },
+    {
+      "added_at": "2025-02-14 01:16:57",
+      "album": {
         "name": "What Are You Doing",
         "url": "https://open.spotify.com/album/3F8aJdmGNH18cpDUg6asVN"
       },
@@ -1195,22 +1195,6 @@
       "duration_ms": 208910,
       "name": "What Are You Doing",
       "url": "https://open.spotify.com/track/0sMWCcykjctGdCPaGD5CpQ"
-    },
-    {
-      "added_at": "2025-02-14 01:16:57",
-      "album": {
-        "name": "pretty world",
-        "url": "https://open.spotify.com/album/1n5k2itF39JFPvRgnYGJ6G"
-      },
-      "artists": [
-        {
-          "name": "Alessi Rose",
-          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
-        }
-      ],
-      "duration_ms": 221470,
-      "name": "pretty world",
-      "url": "https://open.spotify.com/track/0ggicbzQ9CPvkFhW3CSkOr"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -1247,22 +1231,6 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "Now That I Know You",
-        "url": "https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7"
-      },
-      "artists": [
-        {
-          "name": "Connie Campsie",
-          "url": "https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Now That I Know You",
-      "url": "https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM"
-    },
-    {
-      "added_at": "2025-02-14 01:16:57",
-      "album": {
         "name": "Everything Is Beautiful",
         "url": "https://open.spotify.com/album/1j0QPgBtzyJeqAuLc4pehL"
       },
@@ -1275,6 +1243,38 @@
       "duration_ms": 198986,
       "name": "Everything Is Beautiful",
       "url": "https://open.spotify.com/track/2UKxPSQo5udaY4m4CcJ1JQ"
+    },
+    {
+      "added_at": "2025-02-14 01:16:57",
+      "album": {
+        "name": "pretty world",
+        "url": "https://open.spotify.com/album/1n5k2itF39JFPvRgnYGJ6G"
+      },
+      "artists": [
+        {
+          "name": "Alessi Rose",
+          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
+        }
+      ],
+      "duration_ms": 221470,
+      "name": "pretty world",
+      "url": "https://open.spotify.com/track/0ggicbzQ9CPvkFhW3CSkOr"
+    },
+    {
+      "added_at": "2025-02-14 01:16:57",
+      "album": {
+        "name": "Now That I Know You",
+        "url": "https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7"
+      },
+      "artists": [
+        {
+          "name": "Connie Campsie",
+          "url": "https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Now That I Know You",
+      "url": "https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM"
     },
     {
       "added_at": "2025-02-14 01:16:57",

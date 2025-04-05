@@ -4,7 +4,7 @@
 
 > Only the BIGGEST Hardstyle bangers 💥
 
-870 songs - 2 day 1 hr 15 min
+871 songs - 2 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -579,7 +579,7 @@
 | [Paradise](https://open.spotify.com/track/7CwUoENzTnkHzFlmFfFby4) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV), [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2) | [Paradise](https://open.spotify.com/album/0NbDacXnCG4nS20VxOiOav) | 3:14 | 2021-12-16 | 2022-07-29 |
 | [Paradise](https://open.spotify.com/track/3vyw1KgD1UNpWbupv7vkE4) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Paradise](https://open.spotify.com/album/3yIhfMPqfXeCpE30K34fer) | 3:33 | 2022-12-27 | 2023-01-03 |
 | [Partyfreak](https://open.spotify.com/track/56sCNbJX3TheRSk8TmV9cD) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS) | [Partyfreak](https://open.spotify.com/album/3PM5YOCPMrgGHgl8bzN7dx) | 2:51 | 2022-03-24 | 2022-04-21 |
-| [PartyRockerz II](https://open.spotify.com/track/7bcX5omVxfsu3XTtjw1Ge7) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [PartyRockerz II](https://open.spotify.com/album/1wfMgS379opKuvdiAdu1k6) | 2:55 | 2025-01-28 |  |
+| [PartyRockerz II](https://open.spotify.com/track/7bcX5omVxfsu3XTtjw1Ge7) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [PartyRockerz II](https://open.spotify.com/album/1wfMgS379opKuvdiAdu1k6) | 2:55 | 2025-01-28 | 2025-04-05 |
 | [Path Of The Warrior \(Defqon.1 2023 Anthem\)](https://open.spotify.com/track/7DpG8lVap8vg8mCGuX61i9) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Path Of The Warrior \(Defqon.1 2023 Anthem\)](https://open.spotify.com/album/6TN1PH6C4tBEGELOR9bkLF) | 5:10 | 2023-02-23 | 2024-04-13 |
 | [Pills & Potions](https://open.spotify.com/track/5tv2IPbF3xZqfX7dAzwYKA) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [Pills & Potions](https://open.spotify.com/album/2BfiytKgdY8aaaioddYEU4) | 3:06 | 2025-02-20 |  |
 | [PLANET CIRCUS](https://open.spotify.com/track/3kmBBUhJCU91GchndjzIc8) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8) | [TRIPPIN'](https://open.spotify.com/album/1LpBVBIRVDrm9gYaatleJk) | 3:06 | 2023-02-23 | 2023-03-18 |
@@ -858,6 +858,7 @@
 | [WHERE DID YOU GO](https://open.spotify.com/track/4sNBmBaD30oS78qxIVmEi0) | [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb), [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [WHERE DID YOU GO](https://open.spotify.com/album/6omkRAcLFb68qKKfskT6gq) | 3:24 | 2024-11-08 |  |
 | [Where I Belong](https://open.spotify.com/track/2zOCJuQ7QKaceQTaIgLXAO) | [KELTEK](https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e), [Devin Wild](https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21) | [Where I Belong](https://open.spotify.com/album/1NPmIyN3g1B42Ii24pVNsd) | 2:45 | 2024-04-12 | 2024-12-22 |
 | [Where is the Beat?](https://open.spotify.com/track/2QlSZqplGcoNIutgfhDoAS) | [Maxtreme](https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j) | [Where is the Beat?](https://open.spotify.com/album/1dDPrbRNE9Q4hjnz36Ctp8) | 2:36 | 2023-04-13 | 2023-09-22 |
+| [Where Legends Rise \(Defqon.1 2025 Anthem\)](https://open.spotify.com/track/2ELEWmYpYWOIkZSMu9pkHW) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Where Legends Rise \(Defqon.1 2025 Anthem\)](https://open.spotify.com/album/6xlEt6dy8ERoQLN6q7u999) | 4:55 | 2025-04-04 |  |
 | [Whiskey](https://open.spotify.com/track/31mjoUHs9Zdt2Eks0MJNqI) | [Dark Rehab](https://open.spotify.com/artist/24jS2MsXlq7YvtdPeOt3xn) | [Whiskey](https://open.spotify.com/album/1yHjM9qOSBKTIF9e9lBnAJ) | 3:40 | 2021-12-16 | 2022-07-28 |
 | [White Lines](https://open.spotify.com/track/1PVnSZcmBg0ObTk3x0Z8Me) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [White Lines](https://open.spotify.com/album/6BzLLaLhpl7eSSDrZAyM4E) | 3:10 | 2022-05-23 | 2022-05-30 |
 | [Why Always Me](https://open.spotify.com/track/1PjUjputBegeHFHfIAtKRg) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b) | [Why Always Me](https://open.spotify.com/album/6MFKHYW5RHQ5ZjoCRXmv7j) | 3:00 | 2022-06-12 | 2022-06-27 |

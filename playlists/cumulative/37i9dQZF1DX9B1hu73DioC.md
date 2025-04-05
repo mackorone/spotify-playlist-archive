@@ -4,7 +4,7 @@
 
 > put it on and let it play.
 
-903 songs - 2 day 5 hr 35 min
+905 songs - 2 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -542,7 +542,7 @@
 | [Monster](https://open.spotify.com/track/3wv0Ht6hXfj4zYdWctVnp1) | [ALASKALASKA](https://open.spotify.com/artist/78CgVNlDQMvOVDIrRL84tJ) | [Monster](https://open.spotify.com/album/0gMJKnDtsImn2K0AmTsDO8) | 3:53 | 2021-03-16 | 2022-04-17 |
 | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD) | 3:54 | 2023-09-15 | 2024-06-01 |
 | [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 | 2023-09-15 | 2024-06-01 |
-| [Mormor](https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Oas](https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c) | 4:00 | 2023-12-12 |  |
+| [Mormor](https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Oas](https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c) | 4:00 | 2023-12-12 | 2025-04-05 |
 | [Mother Medicine](https://open.spotify.com/track/7Ck0oGr0jPQyndsFOI2YqL) | [Claire Brooks](https://open.spotify.com/artist/1MoEDGaAMr0yXNhJkhAshB) | [Mother Medicine](https://open.spotify.com/album/44ninZxaQGnDuiyOaWRQjz) | 3:20 | 2025-03-28 |  |
 | [Motion Sickness](https://open.spotify.com/track/25Syi9wnfn6ZGAmiOBypPq) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 3:49 | 2022-11-10 | 2022-11-13 |
 | [Motion Sickness](https://open.spotify.com/track/4jKuJqfWmoMEfY2bk5gOeW) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Motion Sickness](https://open.spotify.com/album/1nua8dbyLXPy9i63Wm1vRt) | 3:49 | 2020-10-16 | 2022-07-29 |
@@ -772,6 +772,7 @@
 | [Supa Anxious](https://open.spotify.com/track/3t2st5RjfWaXGD5Ko3Rc0a) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Supa Anxious](https://open.spotify.com/album/1zKd9oSyXg4tTf2VePtRV8) | 2:27 | 2024-04-11 | 2024-06-18 |
 | [Sweet](https://open.spotify.com/track/3VSYkAf6f46i5ZkXOHORq1) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:51 | 2021-03-14 | 2022-11-09 |
 | [Sweet Bonita](https://open.spotify.com/track/6HeCWexSUG87Uok9hsrE83) | [Walter The Producer](https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ) | [Sweet Bonita](https://open.spotify.com/album/3NWL1BcgIHGMj6oWozBLt0) | 3:09 | 2023-07-12 | 2023-10-15 |
+| [Sweet Danger](https://open.spotify.com/track/1IPRwv7FqZvdaawA2YWCcQ) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Sweet Danger](https://open.spotify.com/album/6pIdfb0OaCvfzN6QxKOJQ2) | 2:40 | 2025-04-04 |  |
 | [T Love \- Extended](https://open.spotify.com/track/1qmBJijlYA148svgU0herL) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Into The Rift \(Deluxe\)](https://open.spotify.com/album/19ozV4Q1V0zC1KYBlnwbHU) | 5:59 | 2023-09-15 | 2023-10-04 |
 | [Tailwhip](https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy) | 3:45 | 2020-10-16 | 2023-12-17 |
 | [Tailwhip](https://open.spotify.com/track/7fax7NlxOq2X9kMZw8QLE2) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/5zV9Kwq0WDSPshNbvG418a) | 3:45 | 2023-12-12 | 2024-04-19 |
@@ -836,7 +837,7 @@
 | [Track](https://open.spotify.com/track/3lmiUjD283FiDGWB6LHAkr) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/3RVAiBjIsu9OSYPWo6dcDq) | 3:34 | 2021-04-05 | 2022-04-18 |
 | [Tres Hermanos](https://open.spotify.com/track/4TesXLELrAp8TPGHckP6Ap) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:21 | 2023-02-15 | 2024-04-06 |
 | [Trouble](https://open.spotify.com/track/62UQj5LkqTpNaXqpY4i0Io) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/3yuV4GeplvzBIiYGhQp2nd) | 3:23 | 2020-10-05\* | 2022-04-21 |
-| [Trouble](https://open.spotify.com/track/4bGeuZpvvvIldq0daPo9wZ) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Trouble](https://open.spotify.com/album/2KmIKQIxmavgPgAfeQJMqD) | 5:00 | 2025-01-17 |  |
+| [Trouble](https://open.spotify.com/track/4bGeuZpvvvIldq0daPo9wZ) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Trouble](https://open.spotify.com/album/2KmIKQIxmavgPgAfeQJMqD) | 5:00 | 2025-01-17 | 2025-04-05 |
 | [trouble](https://open.spotify.com/track/4tRUbPTB8CpQqPPW4zVs1P) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [trouble](https://open.spotify.com/album/2iEZpstaXItfUJTlaXTWNE) | 3:08 | 2024-03-05 | 2024-04-27 |
 | [True Blue Interlude](https://open.spotify.com/track/6U7YaQrDz6GyxcgHotcfoM) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 1:49 | 2024-11-15 |  |
 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t) | 3:10 | 2022-07-25 | 2023-03-18 |
@@ -857,6 +858,7 @@
 | [Under The Sun](https://open.spotify.com/track/3KRiNc9gBfTe15xM1XVGHp) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Under The Sun](https://open.spotify.com/album/45ubqbPdQyqmYEj9FFzmQ4) | 3:37 | 2021-10-08 | 2022-04-15 |
 | [Under the Sun](https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR) | 3:46 | 2020-10-05\* | 2020-10-06 |
 | [Under Water / In Air \- feat\. Ruth Radelet](https://open.spotify.com/track/3KoRqwC6xGerhN8gwYf0hY) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU), [Ruth Radelet](https://open.spotify.com/artist/2Evpx6HIhl4ahwPKjAPvox) | [Parallel Realms \(Deluxe Edition\)](https://open.spotify.com/album/3BMXL9PrShspDkVlCEvAfO) | 3:08 | 2024-10-04 | 2024-10-28 |
+| [Upside Down](https://open.spotify.com/track/2ykiSY1uHTHCBVpbym4Uff) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Upside Down](https://open.spotify.com/album/2cF9Jv83As09soxqHeJuuf) | 3:16 | 2025-04-04 |  |
 | [Vanta](https://open.spotify.com/track/6bwTJ1pTQYl72MoJFkrVfq) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Vanta](https://open.spotify.com/album/1pvANImf3RHxjtYICcKFVl) | 3:02 | 2021-07-20 | 2022-04-19 |
 | [VEDDY](https://open.spotify.com/track/2E6Aq8JMPKcF7Q7Ve68Sd1) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [VEDDY](https://open.spotify.com/album/3jpK8aFV72vhWvKXH9d6af) | 4:11 | 2021-07-19 | 2022-04-21 |
 | [Venice Venture](https://open.spotify.com/track/4IBwgoDpNG2p7EouVtFw0E) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Venice Venture](https://open.spotify.com/album/6l4AoIaxdN8mfXvVHzRchP) | 3:40 | 2020-12-31 | 2022-04-16 |

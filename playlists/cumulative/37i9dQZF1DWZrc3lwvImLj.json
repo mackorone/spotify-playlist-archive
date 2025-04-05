@@ -916,7 +916,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 156000,
       "name": "Assembly",
       "url": "https://open.spotify.com/track/7zlQxXh8k8p8eYDTG8Y14F"
@@ -6419,6 +6419,24 @@
     },
     {
       "album": {
+        "name": "Stele Cazatoare",
+        "url": "https://open.spotify.com/album/0qh07muc5Iq2IomJcsbwUJ"
+      },
+      "artists": [
+        {
+          "name": "Alexandru Andrei Popescu",
+          "url": "https://open.spotify.com/artist/7mDY8ZdBUwI5RNx8LZWbzp"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Stele Cazatoare",
+      "url": "https://open.spotify.com/track/5LFakQ9K0IdZMRrBUYNBgz"
+    },
+    {
+      "album": {
         "name": "Stintless Stars",
         "url": "https://open.spotify.com/album/1lGHE19pGZ6LvWi2cmn4As"
       },
@@ -7332,6 +7350,24 @@
       "duration_ms": 136548,
       "name": "Unsaid",
       "url": "https://open.spotify.com/track/6DOjomPB7sCFUSx96x6bSc"
+    },
+    {
+      "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/7fMhaKQBMxUjaRXwgms7fx"
+      },
+      "artists": [
+        {
+          "name": "M. Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3DkwuBQlbF81WFD2hhmkPR"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132558,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/77u4Ha6yYizl6Zs5m7znHJ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "El sonido de la nueva canci\u00f3n latinoamericana. Foto: M\u00f3nica Giraldo",
-  "num_followers": 7138,
+  "num_followers": 7140,
   "original_name": "Folk Itinerante",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9z3CQAAAABeW/yHRTKFs5qwwnnmXLzF",
+  "snapshot_id": "Z+9qbQAAAADbRIHU4zZQH4Y//XyC1gAO",
   "tracks": [
     {
       "added_at": "2025-03-21 05:20:09",
@@ -115,6 +115,22 @@
       "duration_ms": 237840,
       "name": "El Derroche (La Brisa)",
       "url": "https://open.spotify.com/track/4Gzh7FVoWkK6naSGUosYf0"
+    },
+    {
+      "added_at": "2025-04-04 05:13:17",
+      "album": {
+        "name": "Andariega",
+        "url": "https://open.spotify.com/album/37AyRt0ezX4AFtmgJk5cIm"
+      },
+      "artists": [
+        {
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+        }
+      ],
+      "duration_ms": 203659,
+      "name": "La cara de la ortiga",
+      "url": "https://open.spotify.com/track/27OPxcqyTABukHAiZ34Pb6"
     },
     {
       "added_at": "2025-03-21 05:20:09",
@@ -899,26 +915,6 @@
       "duration_ms": 172418,
       "name": "Con la vida al centro",
       "url": "https://open.spotify.com/track/0TCDtpmn2uLtQzrLZikIKR"
-    },
-    {
-      "added_at": "2024-09-06 21:39:38",
-      "album": {
-        "name": "Te Odio",
-        "url": "https://open.spotify.com/album/1DRNhAJ66xVONSta9qI4Zw"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        },
-        {
-          "name": "Xavibo",
-          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
-        }
-      ],
-      "duration_ms": 213956,
-      "name": "Te odio",
-      "url": "https://open.spotify.com/track/1vzlHuHG3faKy8B0eM1qkz"
     },
     {
       "added_at": "2024-09-06 21:39:38",

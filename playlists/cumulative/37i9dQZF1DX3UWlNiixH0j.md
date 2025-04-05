@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 石橋英子 Eiko Ishibashi
 
-2,312 songs - 6 day 0 hr 24 min
+2,313 songs - 6 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,7 +496,7 @@
 | [HARU NO UTA](https://open.spotify.com/track/70IHg9snNwcH3UxT9F7FLM) | [Amesaki Annainin](https://open.spotify.com/artist/0XEsEWLXd1xYxp3oRbcSNE) | [Haru No Uta](https://open.spotify.com/album/0SYk6lfo4ixxsZeynroip5) | 4:29 | 2023-02-07 | 2023-02-15 |
 | [Hatati20](https://open.spotify.com/track/61WBPwkpN6CKIWcVZJBHIM) | [Cape of good hope](https://open.spotify.com/artist/71qVt23XtBAsadtjkBwjAZ) | [Hatati20](https://open.spotify.com/album/6dGShhrVFOCyc1Ovbhqmbw) | 4:38 | 2023-05-09 | 2023-05-24 |
 | [HATER](https://open.spotify.com/track/7wWnqf8ZIYAE2nGeD8Lfy3) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [HATER](https://open.spotify.com/album/5thqyyPSMm0kMUC1lCrMPK) | 3:20 | 2023-07-11 | 2023-07-19 |
-| [heart](https://open.spotify.com/track/5hDchbWpNl4scdX1dLBIC0) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [heart](https://open.spotify.com/album/4s3zdo1fd29mTFmdRirtI0) | 3:30 | 2025-03-25 | 2025-04-02 |
+| [heart](https://open.spotify.com/track/5hDchbWpNl4scdX1dLBIC0) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [heart](https://open.spotify.com/album/4s3zdo1fd29mTFmdRirtI0) | 3:30 | 2025-03-25 |  |
 | [Heart Out](https://open.spotify.com/track/5v4rT0n41XtkhHSaP5wSzl) | [Charlotte is Mine](https://open.spotify.com/artist/4qjYirCZfhEHkaixuexPTV) | [Heart Out](https://open.spotify.com/album/4Hy9cLV06yCCttpjFtClv8) | 2:44 | 2023-01-12 | 2023-01-25 |
 | [Heartache](https://open.spotify.com/track/0cFvfIgcLdD4GoFhvSFPBJ) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Heartache](https://open.spotify.com/album/4rFv7VR3AtCBcaucHbIyBP) | 3:29 | 2024-04-23 | 2024-05-01 |
 | [Heaven](https://open.spotify.com/track/7iA5JECof3LNeKOJjJjV3j) | [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc), [GuruConnect](https://open.spotify.com/artist/5RDnewAvgHZQ5gCf1h74kF) | [Heaven](https://open.spotify.com/album/4Or4MgaVHzMxr8Q6jMRko0) | 3:27 | 2023-01-12 | 2023-03-18 |
@@ -627,7 +627,7 @@
 | [Just A Game feat\. Benny Sings](https://open.spotify.com/track/3Hjrizdjm4Knd5KiVgKW1l) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Just A Game feat\. Benny Sings](https://open.spotify.com/album/1z4MVjlHPchvfc8BAZaXqr) | 4:19 | 2023-11-21 | 2023-11-23 |
 | [Just A Game feat\. Benny Sings](https://open.spotify.com/track/788y834RoRJUQAH2O8jq7u) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Just A Game feat\. Benny Sings](https://open.spotify.com/album/5vrhmmQ8OL0SnNtEpNb5G0) | 4:19 | 2023-11-21 | 2023-12-23 |
 | [Just an Ordinary Sunday](https://open.spotify.com/track/6p6NytZ2eNa7ZWstx6Kvva) | [EMPTYSCENARIO](https://open.spotify.com/artist/6KbPaXqXnqgcSfdK1kN9lu) | [Just an Ordinary Sunday](https://open.spotify.com/album/02s2ewiUd2YgGpL5uH9WWq) | 3:02 | 2023-08-15 | 2023-11-28 |
-| [Just Another Day](https://open.spotify.com/track/6LNfxO2Yuw8gc6GnEqcHT3) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Just Another Day](https://open.spotify.com/album/3PSDb2DIcuOjStPUC8r9Gl) | 2:51 | 2025-02-12 |  |
+| [Just Another Day](https://open.spotify.com/track/6LNfxO2Yuw8gc6GnEqcHT3) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Just Another Day](https://open.spotify.com/album/3PSDb2DIcuOjStPUC8r9Gl) | 2:51 | 2025-02-12 | 2025-04-05 |
 | [Just Because](https://open.spotify.com/track/3bbWE0Z4rAt1YVyAuiyvBU) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [Just Because](https://open.spotify.com/album/5rSxLJ1qkZP1V5fwQKcvRi) | 2:48 | 2024-04-09 | 2024-04-24 |
 | [Just like me](https://open.spotify.com/track/6yX4Q9y3ehu8iJ5PHQX0f7) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [Sangyo](https://open.spotify.com/album/2RoYeLGxsRsiS1V7CvNg9q) | 3:20 | 2024-04-02 | 2024-04-10 |
 | [Just Wanna Live It Up](https://open.spotify.com/track/5cqsYIfTp31RBjyJURiku7) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [Just Wanna Live It Up](https://open.spotify.com/album/0ZovDMTQVxsIrCBffLVH49) | 4:46 | 2023-04-04 | 2023-04-12 |
@@ -1668,7 +1668,7 @@
 | [イルミナ](https://open.spotify.com/track/5ekXHnjKmLTBrCQxtmSv8u) | [東京センチメンタル馬鹿野郎](https://open.spotify.com/artist/5nCYpkieNwNDzzxKnuSqbI) | [イルミナ](https://open.spotify.com/album/47F2d6ey1P2gOGWuzBOiV0) | 3:28 | 2025-02-25 | 2025-03-05 |
 | [インサイドホール](https://open.spotify.com/track/2IU7k7QUYT960WemRF7g4U) | [Wendy York Stand](https://open.spotify.com/artist/0L3bVqidFCtjVmfYcmY868) | [HAIN IN THE CITY](https://open.spotify.com/album/1Ve0R4gEI4tUFOCATcEqFc) | 3:40 | 2024-01-04 | 2024-01-13 |
 | [ウィンディー](https://open.spotify.com/track/0QI2f7Fb9EoWkQc0C2Qg0k) | [千葉剛久](https://open.spotify.com/artist/6cVmanDEHDZdRNZV0NzefC) | [ウィンディー](https://open.spotify.com/album/3V7BCCulLTeX0MqQHJdV4i) | 3:42 | 2023-08-22 | 2023-08-24 |
-| [ウインクでおめかし](https://open.spotify.com/track/69wq2CZcZ7990DQB0AUKFT) | [kiwano](https://open.spotify.com/artist/2gWOEyfr0ms1TzCQmIQ2IS) | [ウインクでおめかし](https://open.spotify.com/album/1ciDRa9ytqUauxDT7DO3k3) | 2:28 | 2025-03-18 |  |
+| [ウインクでおめかし](https://open.spotify.com/track/69wq2CZcZ7990DQB0AUKFT) | [kiwano](https://open.spotify.com/artist/2gWOEyfr0ms1TzCQmIQ2IS) | [ウインクでおめかし](https://open.spotify.com/album/1ciDRa9ytqUauxDT7DO3k3) | 2:28 | 2025-03-18 | 2025-04-05 |
 | [ウェルテル](https://open.spotify.com/track/4iYvEBKfRIKQLv39EEZeLi) | [HALVES](https://open.spotify.com/artist/3r8vtmXnlIHTb6DnGAxppK) | [ウェルテル](https://open.spotify.com/album/7I2pdc2wjO9J0jmZ2ldDYS) | 3:49 | 2024-08-06 | 2024-09-18 |
 | [ウェンズデーにおまかせ!](https://open.spotify.com/track/1GVtzx47XZV4ZyLG0qL3zn) | [The Otals](https://open.spotify.com/artist/2L8w8wwNFtKVGd9CLkicfe) | [Destroy My Memory](https://open.spotify.com/album/1SU2EisZRC06sgLMwdGNiF) | 4:07 | 2024-06-04 | 2024-06-12 |
 | [エデンの花](https://open.spotify.com/track/33oY2Nn1bAL0isfLxWxwAt) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [エデンの花](https://open.spotify.com/album/2EnPqo6WPPjqYX1YH0U3WX) | 4:48 | 2023-12-05 | 2024-01-31 |
@@ -2159,6 +2159,7 @@
 | [液化](https://open.spotify.com/track/1SYl2CaGm5Joxz8FRptNnU) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [液化](https://open.spotify.com/album/4LKPTeleZPodLn7CvkTIoY) | 2:15 | 2023-09-26 | 2023-10-04 |
 | [渚](https://open.spotify.com/track/4tSJfQosT5D2KlzhtIJzmB) | [Simmer Pine](https://open.spotify.com/artist/1aBq93WwCvNTicXVQ7B9vA) | [Recipe](https://open.spotify.com/album/47RmvUJTXC3QRzpiDN8MiF) | 3:35 | 2024-07-30 | 2024-08-07 |
 | [渚で会いましょう](https://open.spotify.com/track/07y4uMenyskCjDuxfdXuGB) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [渚で会いましょう](https://open.spotify.com/album/1tR10RiFgLv50ZWl6EjF4T) | 5:19 | 2024-08-22 | 2024-12-05 |
+| [渦中ロック](https://open.spotify.com/track/1gc2ol4PmQW6AnV8YJeYLu) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [風がはやい](https://open.spotify.com/album/1eYyKE1EYQzjuynSBzCqf1) | 1:52 | 2025-04-03 |  |
 | [港のキリン](https://open.spotify.com/track/2l4wM2EdVcze9eluzm9CmA) | [またくらば](https://open.spotify.com/artist/21rH1wJ7LxQthhfXvR8iiE) | [港のキリン](https://open.spotify.com/album/04VRXLrszGE0WZB5DpR28x) | 4:07 | 2025-03-11 | 2025-03-19 |
 | [港へ](https://open.spotify.com/track/22Cpussw46M6H1LPAVJ2xC) | [Veg](https://open.spotify.com/artist/2DKxnCTjTtykz26xhPeoF8) | [港へ](https://open.spotify.com/album/4NovGmGh8ZdcaEDg7FyekO) | 3:11 | 2025-03-11 |  |
 | [満たされない](https://open.spotify.com/track/0ArzFB1Maac2XHM7SbqAiu) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N) | [満たされない](https://open.spotify.com/album/0ff6yfGmOBvwzwNo6nJnvz) | 3:46 | 2024-04-30 | 2024-05-08 |

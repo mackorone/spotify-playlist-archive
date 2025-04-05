@@ -1,13 +1,37 @@
 {
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Boza, Greeicy",
-  "num_followers": 126756,
+  "num_followers": 126796,
   "original_name": "Flow Panam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+Ye5wAAAAAICSkN9Biag1AL6ykcwRb8",
+  "snapshot_id": "Z+9ZTwAAAAAG86QNjUXwHDx6dIW7b08J",
   "tracks": [
+    {
+      "added_at": "2025-02-21 05:00:18",
+      "album": {
+        "name": "Benjamin",
+        "url": "https://open.spotify.com/album/6S2XNtbYSd8aAIXJja8Emb"
+      },
+      "artists": [
+        {
+          "name": "Don Pablo Mures",
+          "url": "https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k"
+        },
+        {
+          "name": "Yemil",
+          "url": "https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4"
+        },
+        {
+          "name": "El Boys C",
+          "url": "https://open.spotify.com/artist/3B1GmppngulhD9aMDzTLs4"
+        }
+      ],
+      "duration_ms": 251428,
+      "name": "Benjamin",
+      "url": "https://open.spotify.com/track/49MGvf2N9WkcZV2bwUj3XO"
+    },
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
@@ -121,22 +145,6 @@
       "url": "https://open.spotify.com/track/6rK1nFyOwbeTYc6r5libiX"
     },
     {
-      "added_at": "2025-03-07 05:00:24",
-      "album": {
-        "name": "La Elegida",
-        "url": "https://open.spotify.com/album/6Ny3p7Heqf2ZzvJcosJ6nE"
-      },
-      "artists": [
-        {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
-        }
-      ],
-      "duration_ms": 146796,
-      "name": "La Elegida",
-      "url": "https://open.spotify.com/track/2c5LwtWqquh9fVqlVbwxwe"
-    },
-    {
       "added_at": "2025-02-21 05:00:18",
       "album": {
         "name": "Angelito",
@@ -177,46 +185,6 @@
       "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
     },
     {
-      "added_at": "2025-03-21 04:00:53",
-      "album": {
-        "name": "Verano",
-        "url": "https://open.spotify.com/album/3JvleDly0hVswlqnU2ljuo"
-      },
-      "artists": [
-        {
-          "name": "Mr. Fox",
-          "url": "https://open.spotify.com/artist/2ATuDQ7nhfT3Y89azqMexw"
-        },
-        {
-          "name": "Aldair Productions",
-          "url": "https://open.spotify.com/artist/6WFulj4XIc6vkUDXGaDvbN"
-        }
-      ],
-      "duration_ms": 212192,
-      "name": "Verano",
-      "url": "https://open.spotify.com/track/32ywQONtGMKyvnujEkY8Wm"
-    },
-    {
-      "added_at": "2025-03-28 04:00:39",
-      "album": {
-        "name": "QUEMANDO UN BLUNT",
-        "url": "https://open.spotify.com/album/5xrU89K36mKLEwc0wFh9OO"
-      },
-      "artists": [
-        {
-          "name": "DJ Kendo",
-          "url": "https://open.spotify.com/artist/5OYkaab5KaJZPdZF6knfJQ"
-        },
-        {
-          "name": "BCA",
-          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
-        }
-      ],
-      "duration_ms": 20400,
-      "name": "QUEMANDO UN BLUNT",
-      "url": "https://open.spotify.com/track/3UKgjE44wAmOxpq2Mn2te9"
-    },
-    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Tu Chacal",
@@ -239,6 +207,42 @@
       "duration_ms": 171812,
       "name": "Tu Chacal",
       "url": "https://open.spotify.com/track/5IWsYLhoYS1kTaMh2bVnhz"
+    },
+    {
+      "added_at": "2025-04-04 04:00:15",
+      "album": {
+        "name": "El Tiki",
+        "url": "https://open.spotify.com/album/3ettWbzoIYyzkI4UJgU2kF"
+      },
+      "artists": [
+        {
+          "name": "Italian Somali",
+          "url": "https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv"
+        },
+        {
+          "name": "Akim",
+          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
+        },
+        {
+          "name": "Yemil",
+          "url": "https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4"
+        },
+        {
+          "name": "Don Pablo Mures",
+          "url": "https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k"
+        },
+        {
+          "name": "El Yeyo PP",
+          "url": "https://open.spotify.com/artist/3r0UTZrNnAhbXmmfF91TD2"
+        },
+        {
+          "name": "NAZETH",
+          "url": "https://open.spotify.com/artist/4ASO3fjXNJFgmwa8wchzDC"
+        }
+      ],
+      "duration_ms": 370599,
+      "name": "El Tiki",
+      "url": "https://open.spotify.com/track/2PzuqwjIF79wHI0jbVTPdG"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -341,6 +345,26 @@
       "url": "https://open.spotify.com/track/18D77Y4jjTwk4IASWhzJNP"
     },
     {
+      "added_at": "2025-04-04 04:00:15",
+      "album": {
+        "name": "En El Ghetto",
+        "url": "https://open.spotify.com/album/6rCABGKX45W47l6R18NuzH"
+      },
+      "artists": [
+        {
+          "name": "Don Pablo Mures",
+          "url": "https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k"
+        },
+        {
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "En El Ghetto",
+      "url": "https://open.spotify.com/track/3KV6i6NBrCne8sv6mKlAgi"
+    },
+    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "TITI",
@@ -359,30 +383,6 @@
       "duration_ms": 187402,
       "name": "TITI",
       "url": "https://open.spotify.com/track/4dmK0F5E0jVMUPgY5tMkI3"
-    },
-    {
-      "added_at": "2025-02-21 05:00:18",
-      "album": {
-        "name": "Benjamin",
-        "url": "https://open.spotify.com/album/6S2XNtbYSd8aAIXJja8Emb"
-      },
-      "artists": [
-        {
-          "name": "Don Pablo Mures",
-          "url": "https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k"
-        },
-        {
-          "name": "Yemil",
-          "url": "https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4"
-        },
-        {
-          "name": "El Boys C",
-          "url": "https://open.spotify.com/artist/3B1GmppngulhD9aMDzTLs4"
-        }
-      ],
-      "duration_ms": 251428,
-      "name": "Benjamin",
-      "url": "https://open.spotify.com/track/49MGvf2N9WkcZV2bwUj3XO"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -433,6 +433,30 @@
       "url": "https://open.spotify.com/track/6RpmLklN5ppRPDmgspqG5d"
     },
     {
+      "added_at": "2025-04-04 04:00:15",
+      "album": {
+        "name": "Limited Edition",
+        "url": "https://open.spotify.com/album/4RpoX4KiFGl99Ni96lyNJH"
+      },
+      "artists": [
+        {
+          "name": "Yemil",
+          "url": "https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4"
+        },
+        {
+          "name": "VLA Music Entertainment",
+          "url": "https://open.spotify.com/artist/2EghqGAqc6ZSjkgqzUOeKC"
+        },
+        {
+          "name": "At' Fat",
+          "url": "https://open.spotify.com/artist/455JBMYIT1lWf1Djj4rDc7"
+        }
+      ],
+      "duration_ms": 134996,
+      "name": "Limited Edition",
+      "url": "https://open.spotify.com/track/1jD2amqeDzRokqt36egynu"
+    },
+    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "Lv los Botines",
@@ -471,30 +495,6 @@
       "duration_ms": 210000,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/0aP4dyDE4k1LUg7TAgYYRx"
-    },
-    {
-      "added_at": "2025-01-31 05:00:22",
-      "album": {
-        "name": "#Vainafea",
-        "url": "https://open.spotify.com/album/1CpgsE5OdlLrePqJegEiD5"
-      },
-      "artists": [
-        {
-          "name": "Jorkan",
-          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
-        },
-        {
-          "name": "El Yeyo PP",
-          "url": "https://open.spotify.com/artist/3r0UTZrNnAhbXmmfF91TD2"
-        },
-        {
-          "name": "LH",
-          "url": "https://open.spotify.com/artist/4ebruhG8pei8qFQOfNxxLs"
-        }
-      ],
-      "duration_ms": 199145,
-      "name": "#Vainafea",
-      "url": "https://open.spotify.com/track/09bXPAETo8rz2tarFQBouC"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -641,6 +641,30 @@
       "url": "https://open.spotify.com/track/60PHtScUyjHOouisjKz7GO"
     },
     {
+      "added_at": "2025-04-04 04:00:15",
+      "album": {
+        "name": "Viste",
+        "url": "https://open.spotify.com/album/6mmZncNIxuFi8S76B6Icq5"
+      },
+      "artists": [
+        {
+          "name": "Maeo",
+          "url": "https://open.spotify.com/artist/3twM6hBRnxGCEeNwg5YNtr"
+        },
+        {
+          "name": "Yaires",
+          "url": "https://open.spotify.com/artist/7LQLGymihjMfum8nNNs0RD"
+        },
+        {
+          "name": "El Yeyo PP",
+          "url": "https://open.spotify.com/artist/3r0UTZrNnAhbXmmfF91TD2"
+        }
+      ],
+      "duration_ms": 216555,
+      "name": "Viste",
+      "url": "https://open.spotify.com/track/7kXRxruvOhbxcWfBelfR5O"
+    },
+    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Vicio",
@@ -659,26 +683,6 @@
       "duration_ms": 214961,
       "name": "Vicio",
       "url": "https://open.spotify.com/track/0JJ074OaMdofBdF5DRqOVr"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Conejita Supreme",
-        "url": "https://open.spotify.com/album/7LdHQeJn6oQyFljqec4kS5"
-      },
-      "artists": [
-        {
-          "name": "Mole",
-          "url": "https://open.spotify.com/artist/63IHQNSZV6VYMqeRZjMAxq"
-        },
-        {
-          "name": "BARBEL",
-          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
-        }
-      ],
-      "duration_ms": 235740,
-      "name": "Conejita Supreme",
-      "url": "https://open.spotify.com/track/1tD2tcdB8WpLlJCEBaJV4r"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1223,98 +1227,6 @@
       "duration_ms": 180640,
       "name": "Temple",
       "url": "https://open.spotify.com/track/6Qqo9UEYNbfRBLzzJ7S9Nx"
-    },
-    {
-      "added_at": "2025-01-24 05:00:41",
-      "album": {
-        "name": "Comparsa",
-        "url": "https://open.spotify.com/album/1064Ebjb8litnox1UxJV3B"
-      },
-      "artists": [
-        {
-          "name": "JEYSON",
-          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
-        },
-        {
-          "name": "El Tieta",
-          "url": "https://open.spotify.com/artist/5D4Dcxzfh6bFbzKhbswZOe"
-        },
-        {
-          "name": "Valentino GRM",
-          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
-        },
-        {
-          "name": "Don Pablo Mures",
-          "url": "https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k"
-        },
-        {
-          "name": "Eiby",
-          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
-        }
-      ],
-      "duration_ms": 230304,
-      "name": "Comparsa",
-      "url": "https://open.spotify.com/track/49a0tpl791nV7LMtGKVLp5"
-    },
-    {
-      "added_at": "2025-01-31 05:00:22",
-      "album": {
-        "name": "203",
-        "url": "https://open.spotify.com/album/58jIyr5wmJtwn8qitF931m"
-      },
-      "artists": [
-        {
-          "name": "Kabliz",
-          "url": "https://open.spotify.com/artist/0wGBm2CPjVcX983nxL0iTy"
-        },
-        {
-          "name": "RD Maravilla",
-          "url": "https://open.spotify.com/artist/0nQKjof7jr673bYRKIHqe4"
-        },
-        {
-          "name": "Real Phantom",
-          "url": "https://open.spotify.com/artist/3MZpb7Owf8kVwJS6B7iiXB"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "203",
-      "url": "https://open.spotify.com/track/2qZnJ5WqWwHFfgQk2Wh73p"
-    },
-    {
-      "added_at": "2025-02-14 05:00:15",
-      "album": {
-        "name": "TUSIKETA",
-        "url": "https://open.spotify.com/album/0wQ6eI81zDQeMGp0KGYgzo"
-      },
-      "artists": [
-        {
-          "name": "Shyno",
-          "url": "https://open.spotify.com/artist/0BaQaJxpYSd7iRsLYBv2Xm"
-        }
-      ],
-      "duration_ms": 188658,
-      "name": "TUSIKETA",
-      "url": "https://open.spotify.com/track/3l3GgwsBmUS6JKAK8apSmB"
-    },
-    {
-      "added_at": "2025-01-31 05:00:22",
-      "album": {
-        "name": "Blindao",
-        "url": "https://open.spotify.com/album/7tiRbsC8wnVkrNh5Bn4EZx"
-      },
-      "artists": [
-        {
-          "name": "Jorkan",
-          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
-        },
-        {
-          "name": "Yemil",
-          "url": "https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4"
-        }
-      ],
-      "duration_ms": 242758,
-      "name": "Blindao",
-      "url": "https://open.spotify.com/track/5M9Yff4LvO1YzpuXJVCppm"
     },
     {
       "added_at": "2025-02-28 05:00:45",

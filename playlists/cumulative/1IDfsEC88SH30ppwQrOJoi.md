@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-383 songs - 19 hr 50 min
+384 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Let The Music Play](https://open.spotify.com/track/3FINJjWtt1T5cEsUVyQY85) | [DJ S.K.T](https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0), [Eddie Craig](https://open.spotify.com/artist/69IpNz134fIjeb0E6E8M6X) | [Let The Music Play](https://open.spotify.com/album/0MenbU7UQ1dNGsJy8GB9eK) | 2:54 | 2024-08-02 |  |
 | [Let You Down](https://open.spotify.com/track/4furYdIsKWxGZDMbyAKfph) | [Steven Roys](https://open.spotify.com/artist/4GAPAAID8ohZe8QdJ5wEQi), [AstroWilk](https://open.spotify.com/artist/109DXBNtpYRi35I7lQ8QOm) | [Let You Down](https://open.spotify.com/album/12SUcQ8PXVhhsTjz3GPzsg) | 2:36 | 2023-10-30 | 2024-03-14 |
 | [Let You Down \(with Gabry Ponte\)](https://open.spotify.com/track/57BlL9l7O9JmUcD4cFnCH8) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Let You Down \(with Gabry Ponte\)](https://open.spotify.com/album/5q9af3Svt28pk3shfKA9qX) | 2:29 | 2024-04-26 |  |
+| [License To Be Bad](https://open.spotify.com/track/3yBdKw7lvhn5u4vpeWRDTV) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Ciszak](https://open.spotify.com/artist/6lf5XKHZHGXxHFPOKSkodA), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [License To Be Bad](https://open.spotify.com/album/5htp5ygxDau4GhLczYA46g) | 3:06 | 2025-04-04 |  |
 | [Life](https://open.spotify.com/track/33jZTXHw1CvUqai4Jum4Nc) | [Bottom Lip](https://open.spotify.com/artist/1kGshKeUGUyFii95MRyIiJ), [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Life](https://open.spotify.com/album/3bNsBu66DMg1VGL5O547Zj) | 4:38 | 2025-01-31 |  |
 | [Lift Me Up](https://open.spotify.com/track/3IiaXjozWhgtO7CZmj41hL) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Lift Me Up](https://open.spotify.com/album/4DQOJ5txr1aWj1Fla6xGD7) | 3:06 | 2023-08-22 | 2024-03-14 |
 | [Lift You Up](https://open.spotify.com/track/766OCy2QMl814sxiR1gl6v) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Lift You Up](https://open.spotify.com/album/1UtcVAhnTCM1eqnCVZLEaI) | 2:13 | 2024-04-26 |  |

@@ -4,7 +4,7 @@
 
 > Lull your little ones to sleep with piano music.
 
-713 songs - 21 hr 47 min
+717 songs - 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Angel Eyes](https://open.spotify.com/track/1pYhOdETtHjHywmp2jNCaS) | [Goodnight sweetheart](https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp) | [Angel Eyes](https://open.spotify.com/album/331hkGDQV35WdnLQCHvwnt) | 1:19 | 2024-03-01 | 2025-03-05 |
 | [Another Day Just Went By](https://open.spotify.com/track/6XBcvVAJZGhzSCR4Aot9H0) | [Liddy Hall](https://open.spotify.com/artist/6tV5JzvoZR29ZRF1JkF2VY) | [Another Day Just Went By](https://open.spotify.com/album/4IXByBPpvCVL5p2P5XXGQn) | 1:33 | 2021-10-07 | 2024-04-19 |
 | [Apfelstrudel](https://open.spotify.com/track/2GdEApRyXRRrl9uTkNtvuo) | [Fraire Jaques](https://open.spotify.com/artist/449CtTB6t83bfPppU0GcfI) | [Dreams Come True](https://open.spotify.com/album/317T9IN2UhpFGIZEv1C47f) | 3:25 | 2023-03-17 | 2025-03-05 |
+| [Are You Sleeping](https://open.spotify.com/track/1X5IYTqpcIqj0WsBUEB33c) | [Pajama Llama](https://open.spotify.com/artist/29SbmvhRNO8sON3UBDpqoi) | [Are You Sleeping](https://open.spotify.com/album/4leOl9TEghpRm4VhQZVaeV) | 1:49 | 2025-04-04 |  |
 | [Au Clair de la Lune](https://open.spotify.com/track/2YQzrwE7afmaRcuonKycGZ) | [Nolan Wren](https://open.spotify.com/artist/1bglI3t0xRpDdeiYugmOz0) | [Au Clair de la Lune](https://open.spotify.com/album/2G8aO2O9Jfi6eUCs2bXSDt) | 1:49 | 2023-12-08 | 2025-03-05 |
 | [Baa Baa Black Sheep](https://open.spotify.com/track/4WDlK8ycKUkpE6lKwcyV13) | [Alexis George](https://open.spotify.com/artist/12vLFUjezGPpwKXHYkV3yP) | [Baa Baa Black Sheep](https://open.spotify.com/album/3Pki1suDGhOpHF0z6ifiuV) | 1:00 | 2021-10-07 | 2022-09-03 |
 | [Baa Baa Black Sheep](https://open.spotify.com/track/0DCU4RYYOQvMYmXlsv8737) | [Cats meow](https://open.spotify.com/artist/2ItMNwIn1iI3oqnSZfnbpy) | [Baa Baa Black Sheep](https://open.spotify.com/album/5BaMgKaaI2ZyXoms8P2bwv) | 2:38 | 2024-05-24 |  |
@@ -174,6 +175,7 @@
 | [Es hora de acostarse](https://open.spotify.com/track/047f2N27bn7YVyDmjN2CcH) | [Nayara Moore](https://open.spotify.com/artist/38wuntvVRvph542P6Q08bO) | [Es hora de acostarse](https://open.spotify.com/album/7tUywYo0CliiWURhDJVE5M) | 1:44 | 2021-10-07 | 2023-08-19 |
 | [Eskimo Kisses](https://open.spotify.com/track/6bvegR4AlPHL4vH6mSdI0L) | [Natalie Gillman](https://open.spotify.com/artist/6d7LO8Ouv0KFEQ3VLwdeQ1) | [Eskimo Kisses](https://open.spotify.com/album/5KudmfKFnnIKV5vjDxUjh6) | 1:37 | 2021-10-07 | 2024-05-04 |
 | [Evening Stillness](https://open.spotify.com/track/5QD0VX4sPwPc9wGjfK5JbA) | [Lille Du](https://open.spotify.com/artist/1bNG6qjWLR1cCdvsrxenvH) | [Evening Stillness](https://open.spotify.com/album/5s67Eta43UUoyEjANkBo6h) | 1:51 | 2023-09-22 |  |
+| [Everlasting God](https://open.spotify.com/track/3nn5g64f4o2O1fFsYo1gWM) | [Kenau Woods](https://open.spotify.com/artist/1GSL3r7FNU3WY9fU7x8yzZ) | [Everlasting God](https://open.spotify.com/album/4aFX0itKcDaZklkK5xQQaJ) | 2:59 | 2025-04-04 |  |
 | [Every Moment With You](https://open.spotify.com/track/4qyr0ObDKpAigsSVwMWDZn) | [Heidi Fannon](https://open.spotify.com/artist/0dRTdF3HiuvvgrqPkXuQLf) | [Every Moment With You](https://open.spotify.com/album/6Lq4jfg4YO3791crpzSzBR) | 1:51 | 2021-10-07 | 2024-03-29 |
 | [Everyday Everynight](https://open.spotify.com/track/1iFbf5iTzT6OmXJMNt2gu9) | [Hermione Kline](https://open.spotify.com/artist/6jVbNZFF5UiHbU7pMZX3P3) | [Everyday Everynight](https://open.spotify.com/album/43r57PS8800D7ociOyn9LQ) | 2:17 | 2021-10-07 | 2024-04-19 |
 | [Fairground Dreams](https://open.spotify.com/track/4jFxH1C6RD4wXhzp4tFb0q) | [Fruity Koala](https://open.spotify.com/artist/4R8wFQxG9Xrl8As1ClyGJH) | [Fairground Dreams](https://open.spotify.com/album/6pbnKkjib4gAy3N6EAzWsx) | 2:09 | 2024-06-07 |  |
@@ -211,6 +213,7 @@
 | [Gabby Goldfish](https://open.spotify.com/track/7DBZniWi3JF3iAHY7AmqKU) | [Haleema Andrews](https://open.spotify.com/artist/2NfeYG57SY7w0whb8XUXcm) | [Gabby Goldfish](https://open.spotify.com/album/1GhnGptvUiNQoefVrfxvW0) | 1:34 | 2022-01-21 | 2025-03-05 |
 | [Garden Roses](https://open.spotify.com/track/1Hk5HsgILlZxv8hTDHjAFZ) | [Eden Parks](https://open.spotify.com/artist/4s4Bb2TBJLW89tZOV5pz8G) | [Songs from the valley](https://open.spotify.com/album/0WIBmu22RxfRMvqASl8MyA) | 2:29 | 2021-10-07 | 2022-12-24 |
 | [Gentle Dreams](https://open.spotify.com/track/1kETBJfZROZUl3nngNRVRu) | [Mary Monroe](https://open.spotify.com/artist/34r7GYfCBgI8AHhKuazmtc) | [Gentle Dreams](https://open.spotify.com/album/4f3WGJ9z4RtE9S8015k7pq) | 2:18 | 2021-10-07 | 2024-04-19 |
+| [Gently Cradle](https://open.spotify.com/track/5k1LfmLmkpgxL6iwwcwyuQ) | [Otis Meadow](https://open.spotify.com/artist/4vnYAza7qzjL5eUwP0yAN8) | [Gently Cradle](https://open.spotify.com/album/36H11bkZQLUreavU491N7w) | 2:11 | 2025-04-04 |  |
 | [Georgie Porgie](https://open.spotify.com/track/5Ta2XWU7fE69bU1w3ZDILn) | [Peter Ehrlichmann](https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx) | [Eeny Meeny Miny Moe](https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus) | 1:11 | 2021-10-07 | 2022-12-24 |
 | [Gigglepaws](https://open.spotify.com/track/0OKnujtaEPOi8KIR7zpQo2) | [The Stories We Tell](https://open.spotify.com/artist/0KZ1jg7xT2z2zrMCY2iAlB) | [Gigglepaws](https://open.spotify.com/album/63fT6KHGS3LydubtYtztPc) | 1:49 | 2024-09-13 |  |
 | [Go Tell Aunt Rhody](https://open.spotify.com/track/04E5K4tsp0vtNJUnqVowcA) | [Jasper Sylvaire](https://open.spotify.com/artist/0ni1Eptecat3ntWCUmvSBC) | [Go Tell Aunt Rhody](https://open.spotify.com/album/3dKIK8JNgkAXVSTAxCcyLS) | 1:47 | 2023-12-08 | 2025-03-05 |
@@ -606,6 +609,7 @@
 | [The Ghost That Couldn't Scare](https://open.spotify.com/track/2nqc38C56IGXpkzc0yqbpv) | [Anne Page](https://open.spotify.com/artist/3qvYhMImj4EmVSxKHSS1iO) | [The Ghost That Couldn't Scare](https://open.spotify.com/album/0G9kr5Q6KdLU4FQc7T0Vi8) | 1:33 | 2023-02-10 | 2025-03-05 |
 | [The Grand Old Duke Of York](https://open.spotify.com/track/5haTOyj3fd2iVNwDpidiIi) | [Luana Dias Araujo](https://open.spotify.com/artist/7s8KvVp5I0zZ48PSCxjwVF) | [Polly Wolly Doodle](https://open.spotify.com/album/5hufQfj3W5nMwpmmQjG8t6) | 1:35 | 2021-10-07 | 2022-10-29 |
 | [The Little Snail](https://open.spotify.com/track/5lIDPMCRksnW2Ht5pgVapD) | [Adam Hart](https://open.spotify.com/artist/0K2mOIo1scrrzg1IWBOnre) | [The Little Snail](https://open.spotify.com/album/7fuqQ0bpw4CBtUfx13Tw6p) | 2:39 | 2023-12-08 |  |
+| [The Little Snoring Owl](https://open.spotify.com/track/5Q5gTO1LRNR0HY8czjdcIG) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [The Little Snoring Owl](https://open.spotify.com/album/6WHLVi1LmayxXqjxNVl22V) | 2:28 | 2025-04-04 |  |
 | [The Magic Boat Ride](https://open.spotify.com/track/4rPGjWNP1zmUlBWdi86CK1) | [Dore Mi](https://open.spotify.com/artist/4njrMBDibPhATgAffWWFZM) | [Peaceful Nights](https://open.spotify.com/album/6WWTVD1vO6Zk22iqVKmOAR) | 1:59 | 2023-06-02 |  |
 | [The Moon and Me](https://open.spotify.com/track/28PZHFYICfuG2LvyfTH3NB) | [Naéli Gosally](https://open.spotify.com/artist/3USC0JkWo1du1xVV3AuVyh) | [The Moon and Me](https://open.spotify.com/album/1yi1eGXZv5lVIfSoq6a5lu) | 1:34 | 2023-08-10 |  |
 | [The Moon And The Stars](https://open.spotify.com/track/1OTGgmMvL0VXOLL1dcVTpB) | [Marlene Soeren](https://open.spotify.com/artist/7lhwZYEpTqsoU0I1mFg1iv) | [The Moon And The Stars](https://open.spotify.com/album/0ddGfC2I7XpPLpCimirktG) | 1:55 | 2024-06-28 |  |

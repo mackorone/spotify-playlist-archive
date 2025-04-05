@@ -2,9 +2,9 @@
 
 ### [Barefoot and Free](https://open.spotify.com/playlist/37i9dQZF1DWY5zqHqQrusq)
 
-> Chill, take a long walk and clear your mind.
+> Chill, take a long walk and clear your mind\. Cover: Ntinyari
 
-118 songs - 6 hr 46 min
+119 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Moonlight](https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [See Through Solomon](https://open.spotify.com/artist/5ViXrpkJCiKJxiv4rfd4r7), [KHAN KHALII](https://open.spotify.com/artist/4mBzJ4dZWEdhB7BK3OBqIN) | [Moonlight](https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE) | 2:55 | 2022-11-11 | 2024-05-10 |
 | [Mpenzi Njoo](https://open.spotify.com/track/1gp4iCJLbB9ZewLTB2F0eF) | [Wanenaji Music](https://open.spotify.com/artist/5UAvPwo6bUCCUcMO9vFRXO) | [Humble Beginnings](https://open.spotify.com/album/62caMX8DGtBTjFCnnzKnRy) | 4:47 | 2025-02-14 |  |
 | [New Lamp](https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Mellow Dramatic](https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4) | 3:54 | 2024-05-09 |  |
-| [Nipende](https://open.spotify.com/track/6DgMQzle107AN4oBX5Uhcz) | [Zaituni Wambui](https://open.spotify.com/artist/5SFfPUY3JPgaOzSiqdm4Me) | [Nipende](https://open.spotify.com/album/06DbgiBmUM7eSQiAk2cx55) | 5:15 | 2024-01-11 |  |
+| [Nipende](https://open.spotify.com/track/6DgMQzle107AN4oBX5Uhcz) | [Zaituni Wambui](https://open.spotify.com/artist/5SFfPUY3JPgaOzSiqdm4Me) | [Nipende](https://open.spotify.com/album/06DbgiBmUM7eSQiAk2cx55) | 5:15 | 2024-01-11 | 2025-04-05 |
 | [Nitangoja](https://open.spotify.com/track/21eRcBcsRtuHjL2jSeMu7A) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Nitangoja](https://open.spotify.com/album/1gKLgM7RsLrCf3rx3Vh2ex) | 2:38 | 2022-11-11 |  |
 | [Njia Moja](https://open.spotify.com/track/0G1vjYaNDUtntJF0hCq5YL) | [Rafiiki](https://open.spotify.com/artist/3RQugbKSKDSg8oHS1MdMXn) | [Njia Moja](https://open.spotify.com/album/0DhkCfovACaJcz26OjNtwp) | 3:32 | 2022-11-11 | 2025-02-15 |
 | [Ntakutunza \(Hadi Umsahau\)](https://open.spotify.com/track/63vI6WXyNAcT5k849dnJUC) | [Israel Onyach](https://open.spotify.com/artist/0FsioHzjzS6b1EZKadZsZK) | [Timestamp](https://open.spotify.com/album/76RvAWfB1SVkhh9mt7x8cJ) | 4:07 | 2024-05-16 |  |
@@ -83,6 +83,7 @@
 | [Phases](https://open.spotify.com/track/1AspvEDeHVWJY0X7pkdldi) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Phases](https://open.spotify.com/album/14ITjU7AhfyWsBCeUqqElH) | 3:24 | 2024-05-23 | 2025-02-15 |
 | [Purple](https://open.spotify.com/track/2smULwfhqWK1ovV6SmzwVa) | [KALI](https://open.spotify.com/artist/5uzHXxPGMAnDqKnBLLO0AI) | [Different Definitions of Love: Part 1](https://open.spotify.com/album/3xBNNkmdc2ioXJk8mfyZSS) | 3:23 | 2022-11-11 | 2024-04-20 |
 | [R\-, Pt\. 2 \- Acoustic Version](https://open.spotify.com/track/2X8UWEViu7QZn7uRXAWKmV) | [OSO](https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2), [Amoit](https://open.spotify.com/artist/1EO9IOTaipIYiA0K8AnBuA), [Phoebe Thestor](https://open.spotify.com/artist/14Pns33TGKYoRZlxi2sN1I) | [R\-, Pt\. 2 \(Acoustic Version\)](https://open.spotify.com/album/4pjezrOHcAXQkBoe0rw0Zz) | 2:11 | 2022-11-11 | 2023-04-29 |
+| [Reckless](https://open.spotify.com/track/6MUvbDbL3d0L2ucLJdGnZI) | [Ntinyari](https://open.spotify.com/artist/6mxky4PjUkwpCDOTdOeksC) | [Six](https://open.spotify.com/album/1QRnVC8V3WrDLqHedi3SMZ) | 3:46 | 2025-04-04 |  |
 | [ReMind Me](https://open.spotify.com/track/0v3a2TWovCCiLJYHffRaEs) | [Webi](https://open.spotify.com/artist/4LaQmo86osci1uCq11mcIH) | [ReMind Me](https://open.spotify.com/album/2IRaVGufv0PkpXGTOPhW8I) | 3:32 | 2024-08-09 | 2025-03-29 |
 | [Reset Rewind](https://open.spotify.com/track/4B9Rhu9Xdq3Vo1hfLJQh9p) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Aaron Rimbui](https://open.spotify.com/artist/4loRXsKXjBAMpJY0MBDq7H) | [Bald Men Love Better](https://open.spotify.com/album/0mh0omjloNFwYzudtlk8xZ) | 4:29 | 2022-11-11 |  |
 | [Rush](https://open.spotify.com/track/5KWamIPJw0yIM5AO2acHfy) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [1SRAEL](https://open.spotify.com/artist/1y02diTxNa2t9KTLm5S7bb) | [RUSH](https://open.spotify.com/album/6qXJvv0V4AOJN3EHQS0YIl) | 3:40 | 2024-04-19 | 2024-05-24 |

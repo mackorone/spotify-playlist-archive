@@ -4,7 +4,7 @@
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-165 songs - 7 hr 39 min
+167 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,13 +36,14 @@
 | [Contradict \- Hip Hop Remix](https://open.spotify.com/track/0EgmP7D9aaMjUbzc7fHHli) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn), [Darryl "DMC" McDaniels](https://open.spotify.com/artist/6a8v4haj3oDEJiDMVrAJAn) | [Nick Jr\. Mix It Up! Vol\. 10: Hip Hop Playground \(The Remixes\)](https://open.spotify.com/album/1o8i8X0PNEAXU3PkGKWTKx) | 2:03 | 2024-04-26 | 2024-07-27 |
 | [Cookie Jar](https://open.spotify.com/track/01rRqiFCeG17apx187OJjo) | [Jools TV](https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN) | [Cookie Jar](https://open.spotify.com/album/65HIKw74shHz5R6zAQqqIL) | 2:52 | 2024-02-23 |  |
 | [Count by Tens](https://open.spotify.com/track/5v8loPu4al8Bmh4ULursLu) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Count by Tens](https://open.spotify.com/album/3AGc0QyvcC5Lauy486WI0T) | 1:58 | 2024-11-22 | 2025-03-15 |
-| [Count It Up](https://open.spotify.com/track/2O53OjFGz44CRoQcVHedhW) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Count It Up](https://open.spotify.com/album/6sUlpfBLQVil0rG7K7FiNu) | 1:39 | 2025-03-21 |  |
+| [Count It Up](https://open.spotify.com/track/2O53OjFGz44CRoQcVHedhW) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Count It Up](https://open.spotify.com/album/6sUlpfBLQVil0rG7K7FiNu) | 1:39 | 2025-03-21 | 2025-04-05 |
 | [Create Your World](https://open.spotify.com/track/5LxAmqmVkKAvtJruLIbCJX) | [Rise Up, Sing Out \- Cast](https://open.spotify.com/artist/5kOWaYDn4KXG6HntLwTGEx), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Rise Up, Sing Out](https://open.spotify.com/album/0wqVMWhboaCzHYYm2sJG5U) | 1:41 | 2024-01-30 |  |
 | [Dance Full Out](https://open.spotify.com/track/3bV1JJ6ItRaTRdaDmlmm8x) | [Karma's World](https://open.spotify.com/artist/2d9kWGh7cYV72fwJkePAVS) | [We Dance Full Out](https://open.spotify.com/album/4KfRi7zVFxgR5GO33iLbTC) | 2:21 | 2024-01-30 |  |
 | [Dance in the Playroom](https://open.spotify.com/track/2TfF7L9W79OdDaxdp2pKMo) | [Desmond Dennis](https://open.spotify.com/artist/1W14E5ExskpUoE8H9n8fPn) | [Kids Dance Jams](https://open.spotify.com/album/4QuhMdlQcRvXTe0zV7NTh1) | 2:34 | 2024-01-30 |  |
 | [Dance Party in the House](https://open.spotify.com/track/6ZSMbNa2ZSmLR7LlC5Bz0m) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap \(In the House\)](https://open.spotify.com/album/2waS7cb3Rnkr2oZLO6l0Wf) | 3:18 | 2021-11-19 | 2024-01-31 |
 | [Dance to the Reggae Rhythm \(feat\. Father Goose\)](https://open.spotify.com/track/0PylWiOSendDTztmimb42y) | [Aaron Nigel Smith](https://open.spotify.com/artist/5afv4kS3cXl7Rs0oKQj6S4), [Father Goose](https://open.spotify.com/artist/7aufdCkGeBn79Gmb6ir6ys) | [One](https://open.spotify.com/album/5uTpQiaJIt5aSKMXAlCCqW) | 3:25 | 2021-11-19 | 2024-01-31 |
 | [Daydream Baby](https://open.spotify.com/track/3vszROWz4cAi5lDYIVaA4W) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Daydream Baby](https://open.spotify.com/album/1wpzMFGu7KpRz6f7PGkxtS) | 3:26 | 2024-01-30 |  |
+| [Days of the Week](https://open.spotify.com/track/3K3QA4idrZ70awKYlXPTcN) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Days of the Week](https://open.spotify.com/album/18TXZEP5uT2ju2ZLstA7Io) | 2:16 | 2025-04-04 |  |
 | [Do My Dance](https://open.spotify.com/track/56LCZNVDZBgVXmsP37ksgy) | [Kids Rap Radio](https://open.spotify.com/artist/2YD4kgyo0midNau1KI6g8x) | [Kids Rap Radio, Vol\. 4 \(Kids on Da Track\)](https://open.spotify.com/album/1LbNXfKTY8F2FpfdUXw60g) | 2:30 | 2021-11-19 | 2023-04-09 |
 | [Ears Hang Low](https://open.spotify.com/track/5sOLB4bKpM3zwehO7QtqL0) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Ears Hang Low](https://open.spotify.com/album/17rNMcXIlGWog0ChFvhFUf) | 2:01 | 2024-05-31 | 2024-06-15 |
 | [Elephant Song](https://open.spotify.com/track/3ojab84Z6hRFFgNYkDpcLi) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Elephant Song](https://open.spotify.com/album/1saNdYBtgdZ7xJJd2Nk8mR) | 2:02 | 2025-01-10 |  |
@@ -111,6 +112,7 @@
 | [My Daddy](https://open.spotify.com/track/62PMIjZwq8LjFJqjb5KRDG) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Aura V](https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY), [VanVan](https://open.spotify.com/artist/3WxOjk5szKnKRX6uGSTJnl) | [My Daddy](https://open.spotify.com/album/5lrShGJjQB54FR9vSB1vNR) | 2:42 | 2024-05-17 |  |
 | [NO BULLY ZONE](https://open.spotify.com/track/7FZKNZn3aTCUYfUeG8YubE) | [Coach Kody](https://open.spotify.com/artist/6Vgl5qX4ArZ9lLzegNnzt9) | [NO BULLY ZONE](https://open.spotify.com/album/2kF2YdgplUMr4snQdE6XGU) | 1:24 | 2024-03-08 |  |
 | [No Limits](https://open.spotify.com/track/3lp8uKSytH2EkthguoNZcS) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Culture Kidz](https://open.spotify.com/album/20h68tcBMmHaDVobHNilSC) | 2:36 | 2024-06-21 | 2025-03-22 |
+| [Nursery Rhyme Rap](https://open.spotify.com/track/0iDfIHCS8JUWqN9UvrZnAx) | [Fisher\-Price](https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Fisher\-Price Record Player \- Hip Hop](https://open.spotify.com/album/4uvBSaRjYIsXXli1vvWZrq) | 1:05 | 2025-04-04 |  |
 | [Old Town Road](https://open.spotify.com/track/3QpAo1aiTUVgsQBR8KmNHO) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Old Town Road](https://open.spotify.com/album/4BAx7hzmBgjaGxs62oWcBn) | 1:50 | 2021-11-19 | 2024-01-31 |
 | [Old Town Road](https://open.spotify.com/track/0F7FA14euOIX8KcbEturGH) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 1:53 | 2021-11-19 | 2024-01-31 |
 | [Once I Caught A Fish Alive](https://open.spotify.com/track/7qmPqpOy2m1kmd0u9GNYar) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Once I Caught A Fish Alive](https://open.spotify.com/album/45uPeLPoY0x1l8Kge7L1XN) | 2:38 | 2024-04-19 | 2025-01-11 |

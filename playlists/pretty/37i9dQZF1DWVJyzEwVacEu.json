@@ -1,15 +1,15 @@
 {
   "description": "Hits, hits, hits van de afgelopen tijd. Cover: Myles Smith",
-  "num_followers": 63376,
+  "num_followers": 63384,
   "original_name": "Platinum Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+ZjdQAAAABDGmli+Scy1w/ZSgoOqmQP",
+  "snapshot_id": "Z++gfwAAAAC5hpHJflcCLYgnbAY6DkV2",
   "tracks": [
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -29,7 +29,27 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
+      "album": {
+        "name": "I Need Your Love",
+        "url": "https://open.spotify.com/album/2OKk9baUzD5hvaQ9JxlEZ0"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 163760,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/2fnhMzGEEPKvFtExQ3FMMo"
+    },
+    {
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Born To Love Ya",
         "url": "https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo"
@@ -53,23 +73,7 @@
       "url": "https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
-      "album": {
-        "name": "Stargazing",
-        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 172533,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
-    },
-    {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "A Bar Song (Tipsy)",
         "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
@@ -85,23 +89,7 @@
       "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
-      "album": {
-        "name": "Somebody Without U",
-        "url": "https://open.spotify.com/album/5z5K7GmykSvshtSYlyqLVR"
-      },
-      "artists": [
-        {
-          "name": "Oscar and the Wolf",
-          "url": "https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "Somebody Without U",
-      "url": "https://open.spotify.com/track/48oDk3NjbAjwrBL7vrbgyl"
-    },
-    {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Slow It Down",
         "url": "https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ"
@@ -117,7 +105,39 @@
       "url": "https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
+      "album": {
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 172533,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
+    },
+    {
+      "added_at": "2025-04-04 09:03:59",
+      "album": {
+        "name": "Somebody Without U",
+        "url": "https://open.spotify.com/album/5z5K7GmykSvshtSYlyqLVR"
+      },
+      "artists": [
+        {
+          "name": "Oscar and the Wolf",
+          "url": "https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "Somebody Without U",
+      "url": "https://open.spotify.com/track/48oDk3NjbAjwrBL7vrbgyl"
+    },
+    {
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Dancing In The Flames",
         "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
@@ -133,7 +153,7 @@
       "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Belong Together",
         "url": "https://open.spotify.com/album/1RaDxuGnsIuuGR3lHukOPI"
@@ -149,7 +169,7 @@
       "url": "https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
@@ -181,7 +201,7 @@
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "What Happens Now?",
         "url": "https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz"
@@ -197,7 +217,7 @@
       "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "I Don't Wanna Wait",
         "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
@@ -217,7 +237,7 @@
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Before You Leave Me",
         "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
@@ -233,7 +253,7 @@
       "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
@@ -253,7 +273,7 @@
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "For Life (feat. Nile Rodgers)",
         "url": "https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1"
@@ -277,7 +297,7 @@
       "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Wait For You",
         "url": "https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ"
@@ -293,7 +313,7 @@
       "url": "https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Overcome",
         "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
@@ -309,7 +329,7 @@
       "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Stumblin' In",
         "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
@@ -325,7 +345,7 @@
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Speed Of Light",
         "url": "https://open.spotify.com/album/3KJ36A4THBFS2RDTxSjSar"
@@ -341,7 +361,7 @@
       "url": "https://open.spotify.com/track/42bzmBc47mF1HTOi8baDb5"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Undecided",
         "url": "https://open.spotify.com/album/4rOBvkbMvjHEtQByHEUx4V"
@@ -357,7 +377,7 @@
       "url": "https://open.spotify.com/track/67HfJMTt2jley2uzWzocKe"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Overdrive (feat. Norma Jean Martine)",
         "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
@@ -377,7 +397,7 @@
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "SURRENDER",
         "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
@@ -397,7 +417,7 @@
       "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Sugardaddy",
         "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
@@ -413,7 +433,7 @@
       "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "When We Were Young (The Logical Song)",
         "url": "https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY"
@@ -433,7 +453,7 @@
       "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "UNHEALTHY (feat. Shania Twain)",
         "url": "https://open.spotify.com/album/6QEbEpz7fWR5N3HoIiSHFo"
@@ -453,7 +473,7 @@
       "url": "https://open.spotify.com/track/2doTn2LWTKN1Z0lZJG2WQw"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "It's Not Right But It's Okay",
         "url": "https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO"
@@ -469,7 +489,7 @@
       "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
@@ -485,7 +505,7 @@
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "TEXAS HOLD 'EM",
         "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
@@ -501,7 +521,7 @@
       "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Nothing To Lose",
         "url": "https://open.spotify.com/album/54ER6KotifvALmlVHDeyp6"
@@ -517,7 +537,7 @@
       "url": "https://open.spotify.com/track/4FhKH5QIbjGnha0ZNAyYVt"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Tuesday",
         "url": "https://open.spotify.com/album/0QvhqTigV3PbcHT93q3Sfn"
@@ -533,7 +553,7 @@
       "url": "https://open.spotify.com/track/7zPOZujiZy4q0RYIx7mKKh"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Stiekem ft. Goldband",
         "url": "https://open.spotify.com/album/1ZzRJDpsGzs8wkkI0w6F8G"
@@ -553,7 +573,7 @@
       "url": "https://open.spotify.com/track/1ulgMAx95xb3N33SMklfG3"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Larger Than Life",
         "url": "https://open.spotify.com/album/7lzfAlDx8WeHENV6CDhHVG"
@@ -573,7 +593,7 @@
       "url": "https://open.spotify.com/track/18W9I2wA2gvfzpo4Oqc04O"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Houdini",
         "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
@@ -589,7 +609,7 @@
       "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
@@ -609,7 +629,7 @@
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Heart Still Beating",
         "url": "https://open.spotify.com/album/5uOBHR89JOzaZxuVZdhWWp"
@@ -629,7 +649,7 @@
       "url": "https://open.spotify.com/track/6RHdHHlOAHwFaYS9LUwpYU"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
@@ -645,7 +665,7 @@
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Thank You (Not So Bad)",
         "url": "https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN"
@@ -681,7 +701,7 @@
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -697,7 +717,7 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Waterdicht",
         "url": "https://open.spotify.com/album/6RB3yTXoYgKACU6TCqj9qa"
@@ -713,7 +733,7 @@
       "url": "https://open.spotify.com/track/1guLggb4orDoc7Dmh2cSuL"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/6z8SVwxBPHJMEI6jv95m8X"
@@ -729,7 +749,7 @@
       "url": "https://open.spotify.com/track/3v2dHPoXhfVVZ6HQBfjQOh"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
@@ -745,7 +765,7 @@
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Not Fair",
         "url": "https://open.spotify.com/album/1AZMsxk3pIuRbzZ4mH5N9f"
@@ -769,7 +789,7 @@
       "url": "https://open.spotify.com/track/5rL9LobdwAwFch2J8CiosG"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "TRUSTFALL (Tour Deluxe Edition)",
         "url": "https://open.spotify.com/album/4hgincUyDza4A228fFQRiK"
@@ -785,7 +805,7 @@
       "url": "https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN"
@@ -809,7 +829,7 @@
       "url": "https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Desire (with Sam Smith)",
         "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
@@ -829,7 +849,7 @@
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Lighter",
         "url": "https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7"
@@ -853,7 +873,7 @@
       "url": "https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG"
@@ -873,7 +893,7 @@
       "url": "https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Substitution (feat. Julian Perretta)",
         "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
@@ -897,31 +917,7 @@
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
-      "album": {
-        "name": "How You Samba",
-        "url": "https://open.spotify.com/album/6qm3xWNQ0APs9N1KmXAD9B"
-      },
-      "artists": [
-        {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Tinie Tempah",
-          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
-        }
-      ],
-      "duration_ms": 151680,
-      "name": "How You Samba",
-      "url": "https://open.spotify.com/track/5OsYviJJXb8g8uM1K7JiPm"
-    },
-    {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "One in a Million",
         "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
@@ -941,7 +937,7 @@
       "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
     },
     {
-      "added_at": "2025-03-28 08:53:09",
+      "added_at": "2025-04-04 09:03:59",
       "album": {
         "name": "Break My Heart",
         "url": "https://open.spotify.com/album/516oCEI3sp4w4N4wpN02FU"

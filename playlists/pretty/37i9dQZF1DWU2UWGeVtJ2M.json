@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 164541,
+  "num_followers": 164562,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-03-31 01:00:08",
       "album": {
-        "name": "X's",
-        "url": "https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 183761,
-      "name": "X's",
-      "url": "https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f"
-    },
-    {
-      "added_at": "2025-03-31 01:00:08",
-      "album": {
         "name": "Wish I Was Better",
         "url": "https://open.spotify.com/album/0dbCEm3gL91TgF2Gihuexr"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 149865,
       "name": "Treat Me",
       "url": "https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG"
+    },
+    {
+      "added_at": "2025-03-31 01:00:08",
+      "album": {
+        "name": "X's",
+        "url": "https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 183761,
+      "name": "X's",
+      "url": "https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f"
     },
     {
       "added_at": "2025-03-31 01:00:08",
@@ -647,6 +647,54 @@
     {
       "added_at": "2025-03-31 01:00:08",
       "album": {
+        "name": "pity dirty",
+        "url": "https://open.spotify.com/album/5W332DB5DkfDUp6ma52tsJ"
+      },
+      "artists": [
+        {
+          "name": "pami",
+          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "pity dirty",
+      "url": "https://open.spotify.com/track/1O12sL9Ekek4WY7U03cG06"
+    },
+    {
+      "added_at": "2025-03-31 01:00:08",
+      "album": {
+        "name": "Viva! La Woman",
+        "url": "https://open.spotify.com/album/1Sha7blBHJ2ZBK5FjVXU9W"
+      },
+      "artists": [
+        {
+          "name": "Cibo Matto",
+          "url": "https://open.spotify.com/artist/2te8VJxgUxcElC8Uq6eJs6"
+        }
+      ],
+      "duration_ms": 269760,
+      "name": "Sugar Water",
+      "url": "https://open.spotify.com/track/2mQnPuVeoJXwS8p9J4JUIb"
+    },
+    {
+      "added_at": "2025-03-31 01:00:08",
+      "album": {
+        "name": "Chilombo (Deluxe)",
+        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Summer 2020",
+      "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
+    },
+    {
+      "added_at": "2025-03-31 01:00:08",
+      "album": {
         "name": "roundabout",
         "url": "https://open.spotify.com/album/72JOBJj1vbLdTg0B2XVjwT"
       },
@@ -671,38 +719,6 @@
     {
       "added_at": "2025-03-31 01:00:08",
       "album": {
-        "name": "Chilombo (Deluxe)",
-        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Summer 2020",
-      "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
-    },
-    {
-      "added_at": "2025-03-31 01:00:08",
-      "album": {
-        "name": "Viva! La Woman",
-        "url": "https://open.spotify.com/album/1Sha7blBHJ2ZBK5FjVXU9W"
-      },
-      "artists": [
-        {
-          "name": "Cibo Matto",
-          "url": "https://open.spotify.com/artist/2te8VJxgUxcElC8Uq6eJs6"
-        }
-      ],
-      "duration_ms": 269760,
-      "name": "Sugar Water",
-      "url": "https://open.spotify.com/track/2mQnPuVeoJXwS8p9J4JUIb"
-    },
-    {
-      "added_at": "2025-03-31 01:00:08",
-      "album": {
         "name": "Tha Carter V",
         "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 216961,
       "name": "What About Me (feat. Sosamann)",
       "url": "https://open.spotify.com/track/3JX0dOCIAiaR8MP3ryXWuM"
-    },
-    {
-      "added_at": "2025-03-31 01:00:08",
-      "album": {
-        "name": "pity dirty",
-        "url": "https://open.spotify.com/album/5W332DB5DkfDUp6ma52tsJ"
-      },
-      "artists": [
-        {
-          "name": "pami",
-          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "pity dirty",
-      "url": "https://open.spotify.com/track/1O12sL9Ekek4WY7U03cG06"
     },
     {
       "added_at": "2025-03-31 01:00:08",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-03-31 01:00:08",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        }
-      ],
-      "duration_ms": 173949,
-      "name": "honeymoon - Spotify Singles",
-      "url": "https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP"
-    },
-    {
-      "added_at": "2025-03-31 01:00:08",
-      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 226146,
       "name": "Tides",
       "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
+    },
+    {
+      "added_at": "2025-03-31 01:00:08",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 173949,
+      "name": "honeymoon - Spotify Singles",
+      "url": "https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP"
     },
     {
       "added_at": "2025-03-31 01:00:08",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2025-03-31 01:00:08",
       "album": {
+        "name": "Wave002",
+        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 167766,
+      "name": "Free Form",
+      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
+    },
+    {
+      "added_at": "2025-03-31 01:00:08",
+      "album": {
         "name": "Live on Ice",
         "url": "https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a"
       },
@@ -1151,18 +1167,18 @@
     {
       "added_at": "2025-03-31 01:00:08",
       "album": {
-        "name": "Wave002",
-        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
       },
       "artists": [
         {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
         }
       ],
-      "duration_ms": 167766,
-      "name": "Free Form",
-      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
+      "duration_ms": 253927,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
     },
     {
       "added_at": "2025-03-31 01:00:08",
@@ -1179,22 +1195,6 @@
       "duration_ms": 183000,
       "name": "Promises",
       "url": "https://open.spotify.com/track/5QJ40U3CynwRGa7wmFePDl"
-    },
-    {
-      "added_at": "2025-03-31 01:00:08",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
-      },
-      "artists": [
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 253927,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
     },
     {
       "added_at": "2025-03-31 01:00:08",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-03-31 01:00:08",
       "album": {
-        "name": "Wasting Away",
-        "url": "https://open.spotify.com/album/5HcEKDA1oqtglt9Llh69KD"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 168956,
-      "name": "Out of My Mind",
-      "url": "https://open.spotify.com/track/5NfVKqJQhRIluNHXvgtWNK"
-    },
-    {
-      "added_at": "2025-03-31 01:00:08",
-      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 271506,
       "name": "Wicked Dreams",
       "url": "https://open.spotify.com/track/6dvHjr6kOqEnKeQyd3Tozs"
+    },
+    {
+      "added_at": "2025-03-31 01:00:08",
+      "album": {
+        "name": "Wasting Away",
+        "url": "https://open.spotify.com/album/5HcEKDA1oqtglt9Llh69KD"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 168956,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/5NfVKqJQhRIluNHXvgtWNK"
     },
     {
       "added_at": "2025-03-31 01:00:08",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-03-31 01:00:08",
       "album": {
-        "name": "bad weather",
-        "url": "https://open.spotify.com/album/7A0VdU0ipw7rApLq7OR7tb"
-      },
-      "artists": [
-        {
-          "name": "Kibishi",
-          "url": "https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G"
-        }
-      ],
-      "duration_ms": 148855,
-      "name": "bad weather",
-      "url": "https://open.spotify.com/track/3Uf6WXkeF4b9LlDNC4PKOw"
-    },
-    {
-      "added_at": "2025-03-31 01:00:08",
-      "album": {
         "name": "Baby Cakes",
         "url": "https://open.spotify.com/album/6UBbIBpb2LB4Vm9iacIzmu"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 228705,
       "name": "Baby Cakes",
       "url": "https://open.spotify.com/track/1rr3sGDkWeisMDPRTe081L"
+    },
+    {
+      "added_at": "2025-03-31 01:00:08",
+      "album": {
+        "name": "bad weather",
+        "url": "https://open.spotify.com/album/7A0VdU0ipw7rApLq7OR7tb"
+      },
+      "artists": [
+        {
+          "name": "Kibishi",
+          "url": "https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G"
+        }
+      ],
+      "duration_ms": 148855,
+      "name": "bad weather",
+      "url": "https://open.spotify.com/track/3Uf6WXkeF4b9LlDNC4PKOw"
     },
     {
       "added_at": "2025-03-31 01:00:08",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-03-31 01:00:08",
       "album": {
-        "name": "every scent",
-        "url": "https://open.spotify.com/album/3iQbcXxsmpGZRxQlr5ntwX"
-      },
-      "artists": [
-        {
-          "name": "Yokin",
-          "url": "https://open.spotify.com/artist/3MXt6F8yjXrMeqgPpfcJuE"
-        }
-      ],
-      "duration_ms": 251727,
-      "name": "every scent",
-      "url": "https://open.spotify.com/track/3CFqwu9NINgqvtc0W5AiKl"
-    },
-    {
-      "added_at": "2025-03-31 01:00:08",
-      "album": {
         "name": "Build",
         "url": "https://open.spotify.com/album/6ASizE9wRKuBUsgARpMrkh"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 247333,
       "name": "Build",
       "url": "https://open.spotify.com/track/0G3qCSe4KcWFc0EKlXCEo8"
+    },
+    {
+      "added_at": "2025-03-31 01:00:08",
+      "album": {
+        "name": "every scent",
+        "url": "https://open.spotify.com/album/3iQbcXxsmpGZRxQlr5ntwX"
+      },
+      "artists": [
+        {
+          "name": "Yokin",
+          "url": "https://open.spotify.com/artist/3MXt6F8yjXrMeqgPpfcJuE"
+        }
+      ],
+      "duration_ms": 251727,
+      "name": "every scent",
+      "url": "https://open.spotify.com/track/3CFqwu9NINgqvtc0W5AiKl"
     },
     {
       "added_at": "2025-03-31 01:00:08",
@@ -1611,22 +1611,18 @@
     {
       "added_at": "2025-03-31 01:00:08",
       "album": {
-        "name": "Queen Space (with Summer Walker)",
-        "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
+        "name": "Our Time is Blue",
+        "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
       },
       "artists": [
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
         }
       ],
-      "duration_ms": 230841,
-      "name": "Queen Space (with Summer Walker)",
-      "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
+      "duration_ms": 218266,
+      "name": "Our Time",
+      "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
     },
     {
       "added_at": "2025-03-31 01:00:08",
@@ -1647,18 +1643,22 @@
     {
       "added_at": "2025-03-31 01:00:08",
       "album": {
-        "name": "Our Time is Blue",
-        "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
+        "name": "Queen Space (with Summer Walker)",
+        "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
       },
       "artists": [
         {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 218266,
-      "name": "Our Time",
-      "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
+      "duration_ms": 230841,
+      "name": "Queen Space (with Summer Walker)",
+      "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
     },
     {
       "added_at": "2025-03-31 01:00:08",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2025-03-31 01:00:08",
       "album": {
-        "name": "WINE",
-        "url": "https://open.spotify.com/album/10bEr4txHrSj4oi8KzOUSy"
-      },
-      "artists": [
-        {
-          "name": "via.",
-          "url": "https://open.spotify.com/artist/57xDI3VtF6ua02FfFQpPb5"
-        }
-      ],
-      "duration_ms": 176750,
-      "name": "WINE",
-      "url": "https://open.spotify.com/track/4HljKZwdFkWYISiyfzdbQR"
-    },
-    {
-      "added_at": "2025-03-31 01:00:08",
-      "album": {
         "name": "I WILL BE THE CAUSE OF OUR DEATH",
         "url": "https://open.spotify.com/album/2Es4yinpnkszumajLeesGb"
       },
@@ -1711,18 +1695,18 @@
     {
       "added_at": "2025-03-31 01:00:08",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/5TWPkPyoLrZJlDFC8ppVld"
+        "name": "WINE",
+        "url": "https://open.spotify.com/album/10bEr4txHrSj4oi8KzOUSy"
       },
       "artists": [
         {
-          "name": "reina",
-          "url": "https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf"
+          "name": "via.",
+          "url": "https://open.spotify.com/artist/57xDI3VtF6ua02FfFQpPb5"
         }
       ],
-      "duration_ms": 169208,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/6ag2M9QBSdT0HwTlfUYf50"
+      "duration_ms": 176750,
+      "name": "WINE",
+      "url": "https://open.spotify.com/track/4HljKZwdFkWYISiyfzdbQR"
     },
     {
       "added_at": "2025-03-31 01:00:08",
@@ -1739,6 +1723,22 @@
       "duration_ms": 187131,
       "name": "Headspace",
       "url": "https://open.spotify.com/track/734yyCxl7ZrRPTnRqbjB4q"
+    },
+    {
+      "added_at": "2025-03-31 01:00:08",
+      "album": {
+        "name": "leave before u do",
+        "url": "https://open.spotify.com/album/4uA3nI3mp0ofapmuDqfPSh"
+      },
+      "artists": [
+        {
+          "name": "\u7fc1\u9756\u582fyao",
+          "url": "https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N"
+        }
+      ],
+      "duration_ms": 182115,
+      "name": "leave before u do",
+      "url": "https://open.spotify.com/track/7N0GPgqYKeHZAHF9xdUEOJ"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

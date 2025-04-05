@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,044 songs - 2 day 16 hr 11 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,045 songs - 2 day 16 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1052,5 +1052,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1042 | [Private Presley](https://open.spotify.com/track/40d4m1eI0erCRKLXz55RtT) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 5:39 |
 | 1043 | [Drop the Guillotine](https://open.spotify.com/track/1gpBDeONibvJyQYEv5HJh9) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 3:39 |
 | 1044 | [Being so Normal](https://open.spotify.com/track/65sNrvOp2HLlhGTeLJ0nnk) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 3:40 |
+| 1045 | [Am I Your Girl \- Dance Version](https://open.spotify.com/track/3tEYx8nJ0QMxRu8H43KNS6) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Am I Your Girl \(Dance Version\)](https://open.spotify.com/album/5T1EMj2aX9JBTs3rfCYvmp) | 3:28 |
 
-Snapshot ID: `AAAI2SoFiwKBHpX/DBlqnOUweTQ0Im+K`
+Snapshot ID: `AAAI2o9lKZBZZfM/BmyXIlR9zfmjfgUW`

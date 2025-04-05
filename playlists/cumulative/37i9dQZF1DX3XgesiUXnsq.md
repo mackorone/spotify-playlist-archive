@@ -4,7 +4,7 @@
 
 > Damn son, where'd ya find this?
 
-772 songs - 1 day 18 hr 59 min
+773 songs - 1 day 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Hero](https://open.spotify.com/track/2Ffk1ykh4yfruyAtmv3l12) | [Masta Ace & Marco Polo](https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA), [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO) | [Richmond Hill](https://open.spotify.com/album/4LBpILPiB0gp6GTdTVeF3V) | 2:48 | 2024-01-26 | 2024-05-18 |
 | [High Noon](https://open.spotify.com/track/03gTp2zMOTL36xDsfzgJlh) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [To See A Sunset](https://open.spotify.com/album/5rJ8SJ38ask8SN4ftwxvWS) | 3:04 | 2023-03-24 | 2023-04-29 |
 | [High On Life](https://open.spotify.com/track/2aYki8TvDMsv8A1VSir3WU) | [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [High On Life](https://open.spotify.com/album/6kEW5m9esKgaq0uakUUy47) | 2:39 | 2022-04-29 | 2022-10-22 |
+| [High Winds](https://open.spotify.com/track/7HPDbITY0cS65MntSLdFue) | [Jimmie D](https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Koncept Jack$on](https://open.spotify.com/artist/2SHO0IPq0mfwPxwquNx8Qa) | [High Winds](https://open.spotify.com/album/2sbm3v5x18dG7QoVHTzNUf) | 2:23 | 2025-04-04 |  |
 | [highway 95](https://open.spotify.com/track/2E4INiVkDRBXXkFL4kB1Vk) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue \(Deluxe\)](https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g) | 1:31 | 2022-10-28 | 2023-08-05 |
 | [Hip 2 Da Game](https://open.spotify.com/track/3yjVsUq8psgcHm8SQrZ8i4) | [Lord Finesse](https://open.spotify.com/artist/1C6G15UmVQMDGpYbdsf1Oi) | [The Awakening](https://open.spotify.com/album/7tIapzAUTxUTYMvWWFSzV5) | 4:03 | 2023-03-17 |  |
 | [Hip\-Hop](https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy) | [Dead Prez](https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD) | [Let's Get Free](https://open.spotify.com/album/7gXuElmegVReY7imkb5bf8) | 3:34 | 2022-04-29 |  |
@@ -668,7 +669,7 @@
 | [The Getaway](https://open.spotify.com/track/62XMMjGkRhNyLmyRJnyxTN) | [Sayzee](https://open.spotify.com/artist/1z5quJYr5jxx1ETXNmylsa) | [The Getaway](https://open.spotify.com/album/1SrmJcntxwGRO8Yxj9a4nb) | 3:11 | 2023-07-28 | 2023-09-23 |
 | [The God Hour](https://open.spotify.com/track/0JEefF2thwTsgWE2Wv0IsC) | [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [The God Hour](https://open.spotify.com/album/1K4fHsLMyPi7iQUfvxczF6) | 2:35 | 2022-04-29 | 2023-02-11 |
 | [The Good Fight](https://open.spotify.com/track/4CpDxV1kIrqBjEtXrkTToK) | [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [The Good Fight](https://open.spotify.com/album/2GzQ7cFNbu5pNbQRsgXN1g) | 3:56 | 2023-10-27 | 2024-02-24 |
-| [The Gout](https://open.spotify.com/track/3wImNO7NIhfZZ17wyZr5yb) | [Jimmie D](https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77) | [The Gout](https://open.spotify.com/album/7kc4Wz5KXRw31bzCR8ema3) | 2:45 | 2025-03-07 |  |
+| [The Gout](https://open.spotify.com/track/3wImNO7NIhfZZ17wyZr5yb) | [Jimmie D](https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77) | [The Gout](https://open.spotify.com/album/7kc4Wz5KXRw31bzCR8ema3) | 2:45 | 2025-03-07 | 2025-04-05 |
 | [The Hardy Boyds](https://open.spotify.com/track/3gqf9Pc6F65TUGnNOACAdB) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN), [Mike Boyd](https://open.spotify.com/artist/7lnMzaQgwQJqF5vKZtMpH3) | [The Hardy Boyds](https://open.spotify.com/album/0M8hkg99ExxDdZMm1bQa3o) | 2:51 | 2023-12-01 | 2024-04-13 |
 | [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-09 | 2022-12-03 |
 | [The Highs & The Lows](https://open.spotify.com/track/7DKJP7ksSaJn4YyBkcBDii) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [The Highs & The Lows](https://open.spotify.com/album/2apZoa0oXih4sM7dDMNi2a) | 4:15 | 2022-06-17 | 2023-04-01 |

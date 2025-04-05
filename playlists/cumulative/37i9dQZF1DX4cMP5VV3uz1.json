@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 182571,
       "name": "CALM",
       "url": "https://open.spotify.com/track/7N0Eavl0IkaFGIQrQRNQ4D"
@@ -2444,6 +2444,28 @@
       "duration_ms": 299796,
       "name": "Figure It Out",
       "url": "https://open.spotify.com/track/3IWy6MPyWKPFAQ5x6YAkrc"
+    },
+    {
+      "album": {
+        "name": "Final Breath",
+        "url": "https://open.spotify.com/album/2zzZimoreQVoJksCnl7suu"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "A Little Sound",
+          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229028,
+      "name": "Final Breath",
+      "url": "https://open.spotify.com/track/0KmWcBQsiZgiKqzfgjxC6x"
     },
     {
       "album": {

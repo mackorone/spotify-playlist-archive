@@ -996,7 +996,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 191093,
       "name": "ESCAPE (Bang Chan & Hyunjin)",
       "url": "https://open.spotify.com/track/5v6c5XtD3zKPvgUknF7h9K"
@@ -1312,7 +1312,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 108400,
       "name": "jennifer's body",
       "url": "https://open.spotify.com/track/0w7pNrzJC2IC3IuxDaQTVu"
@@ -2161,6 +2161,28 @@
     },
     {
       "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        },
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188399,
+      "name": "Slow Dance (feat. Sofia Carson)",
+      "url": "https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH"
+    },
+    {
+      "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
       },
@@ -2486,7 +2508,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 172952,
       "name": "Sweet Dreams (feat. Miguel)",
       "url": "https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k"
@@ -2516,6 +2538,24 @@
       "duration_ms": 163404,
       "name": "Taz Muzik",
       "url": "https://open.spotify.com/track/0sakZDi0XsTdFRrDtJZR0N"
+    },
+    {
+      "album": {
+        "name": "TOKYO",
+        "url": "https://open.spotify.com/album/1NUsqq4DLad9rGUeDnItGj"
+      },
+      "artists": [
+        {
+          "name": "SQWOZ BAB",
+          "url": "https://open.spotify.com/artist/5U2ISoieRzT6TaqiXumcXl"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160824,
+      "name": "TOKYO",
+      "url": "https://open.spotify.com/track/7MjpBQViz7f1133ni9psvu"
     },
     {
       "album": {
@@ -4754,7 +4794,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 158880,
       "name": "\u041d\u0435\u0440\u0432\u044b",
       "url": "https://open.spotify.com/track/5HhxdmRCXAJqT8WYwMCyBQ"
@@ -5124,7 +5164,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 172094,
       "name": "\u043f\u043e\u0440\u0442\u0440\u0435\u0442\u044b - Acoustic",
       "url": "https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26"
@@ -5520,7 +5560,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-29",
+      "date_removed": null,
       "duration_ms": 173500,
       "name": "\u0421\u0430\u043c\u043e\u043b\u0435\u0442\u044b",
       "url": "https://open.spotify.com/track/4gkQh8gUuxTpzQeJYRIpvb"
@@ -5800,6 +5840,24 @@
       "duration_ms": 214418,
       "name": "\u0421\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442",
       "url": "https://open.spotify.com/track/5UW6yvwo3nVA609NgprdhK"
+    },
+    {
+      "album": {
+        "name": "sexyswag",
+        "url": "https://open.spotify.com/album/40FhIwRsb0iaAUEinayobc"
+      },
+      "artists": [
+        {
+          "name": "madk1d",
+          "url": "https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "\u0442\u0430\u043a \u043f\u043e\u0445\u0443\u0439",
+      "url": "https://open.spotify.com/track/1dpHnn6eh4Pz55UproSdJv"
     },
     {
       "album": {
@@ -6314,6 +6372,28 @@
       "duration_ms": 108923,
       "name": "\u0426\u0435\u043b\u0443\u044e",
       "url": "https://open.spotify.com/track/22Gx9ozLJwjo4fBgoSw7y9"
+    },
+    {
+      "album": {
+        "name": "sexyswag",
+        "url": "https://open.spotify.com/album/40FhIwRsb0iaAUEinayobc"
+      },
+      "artists": [
+        {
+          "name": "madk1d",
+          "url": "https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt"
+        },
+        {
+          "name": "\u043f\u0430\u0440\u0430\u043d\u043e\u0439\u044f",
+          "url": "https://open.spotify.com/artist/6xcOPl8sgatUgeDsUE9QQb"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138305,
+      "name": "\u0446\u0435\u043d\u0430",
+      "url": "https://open.spotify.com/track/0mXuEBzTaqYmzIovJhx20u"
     },
     {
       "album": {

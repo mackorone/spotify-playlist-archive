@@ -2967,6 +2967,24 @@
     },
     {
       "album": {
+        "name": "Silent Motion",
+        "url": "https://open.spotify.com/album/5nG8uCkTarUEraV96po1zG"
+      },
+      "artists": [
+        {
+          "name": "Matteus Fortini",
+          "url": "https://open.spotify.com/artist/6DSyvYPVE5NaaOO2La5RLb"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186432,
+      "name": "Silent Motion",
+      "url": "https://open.spotify.com/track/6tA5NTIfjeIwfaA8IkQFNz"
+    },
+    {
+      "album": {
         "name": "Oddities",
         "url": "https://open.spotify.com/album/5xl48qsYt6IMQlXSKESZsW"
       },

@@ -4,7 +4,7 @@
 
 > New indie from black artists driving the current\. Cover: Love Spells
 
-504 songs - 1 day 2 hr 38 min
+505 songs - 1 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 | 2023-03-06 | 2024-12-08 |
 | [Conveniency](https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Conveniency](https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY) | 2:22 | 2023-02-03 | 2023-06-08 |
 | [coogie](https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [coogie](https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf) | 3:09 | 2023-03-06 | 2024-02-08 |
+| [Could've Been Different \(feat\. Blu & Shamir\)](https://open.spotify.com/track/3rkRxQvrIsdLBhc8TgC4Es) | [McKinley Dixon](https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko), [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT) | [Could've Been Different \(feat\. Blu & Shamir\)](https://open.spotify.com/album/20YMw0ntKVxAWHz1jq11cn) | 2:50 | 2025-03-28 |  |
 | [cyanide \(feat\. cryogeyser\)](https://open.spotify.com/track/4NR3USATEkmZv1erpa33Gx) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq), [Cryogeyser](https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ) | [cyanide \(feat\. cryogeyser\)](https://open.spotify.com/album/2ALEWsC4scA4LiMxkJKjDi) | 2:05 | 2023-02-09 | 2023-03-04 |
 | [CYBERKISS 2 U\*](https://open.spotify.com/track/6OtZmfVTQgUnsAw128KpHh) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [CYBERKISS\*](https://open.spotify.com/album/5acmAj0gYKed2bcsRY4b2C) | 3:08 | 2023-02-09 | 2023-08-22 |
 | [Daddy](https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Erotic Probiotic 2](https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI) | 4:06 | 2023-06-07 | 2024-01-20 |
@@ -368,7 +369,7 @@
 | [Pretty Pictures](https://open.spotify.com/track/330fmJp9kvEMPjLhoc29Zl) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 2:58 | 2022-02-18 | 2023-02-11 |
 | [Prom Queen](https://open.spotify.com/track/2xrYD5TVgsUAVa3G0oAzMr) | [Blessing](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [Prom Queen](https://open.spotify.com/album/0TfMAdRpJtLRv3DVK0I4Wp) | 2:48 | 2023-02-10 | 2023-08-22 |
 | [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 | 2022-06-17 | 2023-04-22 |
-| [PULL UP](https://open.spotify.com/track/35wqLh4Ht76d4YIUU2oNXq) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [PULL UP](https://open.spotify.com/album/1brHIGC0EiM5onDMz2aCB9) | 2:20 | 2024-06-09 |  |
+| [PULL UP](https://open.spotify.com/track/35wqLh4Ht76d4YIUU2oNXq) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [PULL UP](https://open.spotify.com/album/1brHIGC0EiM5onDMz2aCB9) | 2:20 | 2024-06-09 | 2025-04-05 |
 | [Purple Skies](https://open.spotify.com/track/2HKsYLUAKgrdmjrB9re1Fq) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Purple Skies](https://open.spotify.com/album/307ITAy6aD9dQQFjxSM5Mf) | 3:06 | 2023-08-09 | 2023-08-22 |
 | [QUIET ON THE SET](https://open.spotify.com/track/5xWvCOX5UAgOljuv2QAFtG) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Ready When You Are](https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU) | 2:49 | 2023-06-07 | 2023-08-22 |
 | [Rapture in Blue](https://open.spotify.com/track/7qTf2TeEGdz9W1hFGPUiMK) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Rapture in Blue](https://open.spotify.com/album/5PZcNqeU1AmYN9wv1k1MZy) | 2:24 | 2022-02-18 | 2022-11-12 |

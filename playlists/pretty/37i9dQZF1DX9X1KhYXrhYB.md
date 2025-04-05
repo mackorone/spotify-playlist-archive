@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X1KhYXrhYB.md) - [plain]
 
 > Secrets will be spilled\. Listen to all the music from Yellowjackets, now streaming on Paramount+ with Showtime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,081 likes - 124 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,440 likes - 124 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X1KhYXrhYB.md) - [plain]
 | 53 | [Big Mouth](https://open.spotify.com/track/2QMaXlygnuShLvA0kIJ2jS) | [Necking](https://open.spotify.com/artist/5uEdnolxHzHzzVwXsDZuhL) | [Cut Your Teeth](https://open.spotify.com/album/3rwOmggQUOlF3gFHQglyJ1) | 2:45 |
 | 54 | [Stayin' Alive](https://open.spotify.com/track/5WPVxossQMhnx72ZOCzo9I) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Rubber Bullies / Stayin' Alive](https://open.spotify.com/album/166UJ4jKurCy2pEC373MyP) | 4:19 |
 | 55 | [Mother](https://open.spotify.com/track/7txxAtOMwLLnQTpKeBL6bp) | [Danzig](https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde) | [Danzig](https://open.spotify.com/album/3elIDlrTtrgKfbxYVgp3uW) | 3:24 |
-| 56 | [Rainbow Tour](https://open.spotify.com/track/3YHnV1dBdPNts2q43w9BcI) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Original Evita Cast](https://open.spotify.com/artist/7r0Mc0nEZCwo3tLMahpcfn) | [Evita](https://open.spotify.com/album/6q7kvF1D7EFQFWDaoAxJMj) | 4:40 |
+| 56 | [Rainbow Tour](https://open.spotify.com/track/3YHnV1dBdPNts2q43w9BcI) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [“Evita” 2006 London Cast](https://open.spotify.com/artist/6fXDhR9Gyg3TGnyxFe5ZGq) | [Evita](https://open.spotify.com/album/6q7kvF1D7EFQFWDaoAxJMj) | 4:40 |
 | 57 | [Won’t Waste a Day](https://open.spotify.com/track/3dUo2qhuZx03K02Jnv3SKV) | [James Donald Davies](https://open.spotify.com/artist/1VbN7BZ3ZZgjrANSvVvTmE), [Martin Jackson](https://open.spotify.com/artist/6mi6nkoO97luQdYIoRYzf0) | [Psychedelic Pop 2](https://open.spotify.com/album/3zLkJUCVZR7bvEBkmextsF) | 2:52 |
 | 58 | [Angst In My Pants](https://open.spotify.com/track/1Oovzlhz3SgYVFsDcJHpVn) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [Angst In My Pants](https://open.spotify.com/album/7eMZ934Zpj7TrFsEhajh7q) | 3:29 |
 | 59 | [These Are Days](https://open.spotify.com/track/786h4kDeZiX5nYvOwA3wtE) | [10,000 Maniacs](https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj) | [Our Time in Eden](https://open.spotify.com/album/0jtmYtkmyrMDpo7M2FTzZ2) | 3:39 |

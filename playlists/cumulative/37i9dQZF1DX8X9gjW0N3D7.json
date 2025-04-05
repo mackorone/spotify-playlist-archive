@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Ariane Moffatt",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Garou",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -1462,7 +1462,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 208857,
       "name": "Le reste du temps",
       "url": "https://open.spotify.com/track/3W5N7Yzq14iQ3Zxy1gJPM7"
@@ -2326,6 +2326,24 @@
       "duration_ms": 236826,
       "name": "St. Denis",
       "url": "https://open.spotify.com/track/6ISDvrYhDFXJfvG4uk4b1n"
+    },
+    {
+      "album": {
+        "name": "Un meilleur lendemain",
+        "url": "https://open.spotify.com/album/1kHPOUVWaVZVbGmvZH5hfu"
+      },
+      "artists": [
+        {
+          "name": "Garou",
+          "url": "https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227160,
+      "name": "Sur un malentendu",
+      "url": "https://open.spotify.com/track/5PpylbXynoQyfKFapgYNEO"
     },
     {
       "album": {

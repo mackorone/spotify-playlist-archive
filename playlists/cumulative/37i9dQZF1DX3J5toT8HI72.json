@@ -1409,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "Me Chama de Gato Que Eu Sou Sua",
+        "url": "https://open.spotify.com/album/0ge5ZLyto8vFQrif125mtW"
+      },
+      "artists": [
+        {
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212812,
+      "name": "Insista Em Mim",
+      "url": "https://open.spotify.com/track/2NDo5AjOb1E6JJOO31qhx0"
+    },
+    {
+      "album": {
         "name": "Interessante",
         "url": "https://open.spotify.com/album/1cQQXRwZ1xetyRSVES0pC4"
       },
@@ -2520,7 +2538,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 182196,
       "name": "Pudim",
       "url": "https://open.spotify.com/track/6bAnkRCGOX7g5rT8WN5eci"

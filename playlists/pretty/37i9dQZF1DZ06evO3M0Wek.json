@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 107489,
+  "num_followers": 107494,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+x+AAAAAAAnn/jWQguYDDm6AsCymw7w",
+  "snapshot_id": "Z+3PgAAAAACRJwh7sqRIqbPl9czs2bXX",
   "tracks": [
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 202306,
-      "name": "Mz. Hyde",
-      "url": "https://open.spotify.com/track/78mjaBatbfvwx5KJwI036H"
+      "duration_ms": 218266,
+      "name": "Freak Like Me",
+      "url": "https://open.spotify.com/track/3Akw1yw6W6bQ7GXB0FCoe5"
     },
     {
       "added_at": null,
@@ -271,6 +271,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "ReAniMate 2.0: The CoVeRs eP",
+        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Get Lucky",
+      "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Strange Case of... (Deluxe)",
+        "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 202306,
+      "name": "Mz. Hyde",
+      "url": "https://open.spotify.com/track/78mjaBatbfvwx5KJwI036H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Gereg (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4Lge00PEnR7Xb2ZKPItrys"
       },
@@ -295,38 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Strange Case of... (Deluxe)",
-        "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "Freak Like Me",
-      "url": "https://open.spotify.com/track/3Akw1yw6W6bQ7GXB0FCoe5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ReAniMate 2.0: The CoVeRs eP",
-        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Get Lucky",
-      "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Into the Wild Life (Deluxe)",
         "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
       },
@@ -339,38 +339,6 @@
       "duration_ms": 193613,
       "name": "Apocalyptic",
       "url": "https://open.spotify.com/track/4DveRhd1VBtZyPodE3sbLj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ReAniMate: The CoVeRs eP",
-        "url": "https://open.spotify.com/album/2fwH1QL0wgnbbXiHWCYs1D"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 302413,
-      "name": "All I Wanna Do Is Make Love to You - EP Version",
-      "url": "https://open.spotify.com/track/0TqBBrdwai3zdM90Tmyt8J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Strange Case of... (Deluxe)",
-        "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 191680,
-      "name": "You Call Me a Bitch Like It's a Bad Thing",
-      "url": "https://open.spotify.com/track/1DxHCaS1d3ctyQVO70z1rk"
     },
     {
       "added_at": null,
@@ -391,6 +359,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Strange Case of... (Deluxe)",
+        "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 191680,
+      "name": "You Call Me a Bitch Like It's a Bad Thing",
+      "url": "https://open.spotify.com/track/1DxHCaS1d3ctyQVO70z1rk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ReAniMate: The CoVeRs eP",
+        "url": "https://open.spotify.com/album/2fwH1QL0wgnbbXiHWCYs1D"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 302413,
+      "name": "All I Wanna Do Is Make Love to You - EP Version",
+      "url": "https://open.spotify.com/track/0TqBBrdwai3zdM90Tmyt8J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Halestorm (Deluxe)",
         "url": "https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS"
       },
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 194866,
-      "name": "I'm Not an Angel",
-      "url": "https://open.spotify.com/track/5vujcl17dn04lMgBGtI3Kf"
+      "duration_ms": 195880,
+      "name": "Innocence",
+      "url": "https://open.spotify.com/track/2wcOAWdnv22pYwRHscYfz2"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 195880,
-      "name": "Innocence",
-      "url": "https://open.spotify.com/track/2wcOAWdnv22pYwRHscYfz2"
+      "duration_ms": 194866,
+      "name": "I'm Not an Angel",
+      "url": "https://open.spotify.com/track/5vujcl17dn04lMgBGtI3Kf"
     },
     {
       "added_at": null,

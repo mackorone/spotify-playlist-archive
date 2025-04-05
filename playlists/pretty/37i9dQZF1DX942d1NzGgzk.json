@@ -1,6 +1,6 @@
 {
   "description": "The latest of R&B in the UK. Cover: Leah Music",
-  "num_followers": 155062,
+  "num_followers": 155081,
   "original_name": "R&B UK",
   "owner": {
     "name": "Spotify",
@@ -399,8 +399,8 @@
     {
       "added_at": "2025-04-04 00:00:40",
       "album": {
-        "name": "Good Enough",
-        "url": "https://open.spotify.com/album/2HvEn8jo8GldIm4x8XNxJc"
+        "name": "backwards loving",
+        "url": "https://open.spotify.com/album/0zUmHIH9PEE2SICrIppPe4"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
         }
       ],
-      "duration_ms": 212571,
-      "name": "Good Enough",
-      "url": "https://open.spotify.com/track/6FVxPZcVkOFmNITqXZfQgR"
+      "duration_ms": 232000,
+      "name": "backwards loving",
+      "url": "https://open.spotify.com/track/0YXpXUlsDBIbHZMIrSyHym"
     },
     {
       "added_at": "2025-04-04 00:00:40",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-04-04 00:00:40",
       "album": {
-        "name": "Hotel Lobby",
-        "url": "https://open.spotify.com/album/23MJIfVoGJi3Svn0xgKUUZ"
-      },
-      "artists": [
-        {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
-        }
-      ],
-      "duration_ms": 188012,
-      "name": "Hotel Lobby",
-      "url": "https://open.spotify.com/track/1YjGMLIu5NmX7A0p6AQsCJ"
-    },
-    {
-      "added_at": "2025-04-04 00:00:40",
-      "album": {
         "name": "been a minute",
         "url": "https://open.spotify.com/album/1t85pHIFaVr6q6jeF3nN0p"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 216000,
       "name": "been a minute",
       "url": "https://open.spotify.com/track/6p726bJa2dr85y1Ze8EzSi"
+    },
+    {
+      "added_at": "2025-04-04 00:00:40",
+      "album": {
+        "name": "Hotel Lobby",
+        "url": "https://open.spotify.com/album/23MJIfVoGJi3Svn0xgKUUZ"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        }
+      ],
+      "duration_ms": 188012,
+      "name": "Hotel Lobby",
+      "url": "https://open.spotify.com/track/1YjGMLIu5NmX7A0p6AQsCJ"
     },
     {
       "added_at": "2025-04-04 00:00:40",
@@ -535,8 +535,8 @@
     {
       "added_at": "2025-04-04 00:00:40",
       "album": {
-        "name": "backwards loving",
-        "url": "https://open.spotify.com/album/0zUmHIH9PEE2SICrIppPe4"
+        "name": "Good Enough",
+        "url": "https://open.spotify.com/album/2HvEn8jo8GldIm4x8XNxJc"
       },
       "artists": [
         {
@@ -544,9 +544,25 @@
           "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
         }
       ],
-      "duration_ms": 232000,
-      "name": "backwards loving",
-      "url": "https://open.spotify.com/track/0YXpXUlsDBIbHZMIrSyHym"
+      "duration_ms": 212571,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/6FVxPZcVkOFmNITqXZfQgR"
+    },
+    {
+      "added_at": "2025-04-04 00:00:40",
+      "album": {
+        "name": "Go Ghost",
+        "url": "https://open.spotify.com/album/0hwZpjgOkMzytEWs2NSHwT"
+      },
+      "artists": [
+        {
+          "name": "Santino Le Saint",
+          "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
+        }
+      ],
+      "duration_ms": 160262,
+      "name": "Go Ghost",
+      "url": "https://open.spotify.com/track/7fdKKxsRwzG9jNGMnUKUqE"
     },
     {
       "added_at": "2025-04-04 00:00:40",
@@ -563,26 +579,6 @@
       "duration_ms": 241224,
       "name": "Lost Myself (23)",
       "url": "https://open.spotify.com/track/7E3Sty398iN8VTg8EEGf17"
-    },
-    {
-      "added_at": "2025-04-04 00:00:40",
-      "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/4EUnbMqIwNcYKccQt2NC7z"
-      },
-      "artists": [
-        {
-          "name": "Zion Foster",
-          "url": "https://open.spotify.com/artist/7z5nU71I7KTEdTHiPMfwL6"
-        },
-        {
-          "name": "Jesy Nelson",
-          "url": "https://open.spotify.com/artist/73KwqWuob0R53I14Vs56p9"
-        }
-      ],
-      "duration_ms": 158713,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/0AFi9z7GXJU8rK6rDF8Qmb"
     },
     {
       "added_at": "2025-04-04 00:00:40",
@@ -619,6 +615,26 @@
       "duration_ms": 163926,
       "name": "IWH2BMX",
       "url": "https://open.spotify.com/track/7dGrlAQzcsP2uPPNqbn2d4"
+    },
+    {
+      "added_at": "2025-04-04 00:00:40",
+      "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/4EUnbMqIwNcYKccQt2NC7z"
+      },
+      "artists": [
+        {
+          "name": "Zion Foster",
+          "url": "https://open.spotify.com/artist/7z5nU71I7KTEdTHiPMfwL6"
+        },
+        {
+          "name": "Jesy Nelson",
+          "url": "https://open.spotify.com/artist/73KwqWuob0R53I14Vs56p9"
+        }
+      ],
+      "duration_ms": 158713,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/0AFi9z7GXJU8rK6rDF8Qmb"
     },
     {
       "added_at": "2025-04-04 00:00:40",
@@ -687,54 +703,6 @@
     {
       "added_at": "2025-04-04 00:00:40",
       "album": {
-        "name": "Only Ever",
-        "url": "https://open.spotify.com/album/01gYXq7TagyrOHOK3KvlfY"
-      },
-      "artists": [
-        {
-          "name": "Lucy Park",
-          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
-        }
-      ],
-      "duration_ms": 162406,
-      "name": "Only Ever",
-      "url": "https://open.spotify.com/track/6pFHqQE6VJnkG5TtBFIaXj"
-    },
-    {
-      "added_at": "2025-04-04 00:00:40",
-      "album": {
-        "name": "i know",
-        "url": "https://open.spotify.com/album/6gAZoVbmPADyQaGsV94obD"
-      },
-      "artists": [
-        {
-          "name": "Nolais",
-          "url": "https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF"
-        }
-      ],
-      "duration_ms": 142651,
-      "name": "i know",
-      "url": "https://open.spotify.com/track/6HWsd6fqeamiFulSQhxKsD"
-    },
-    {
-      "added_at": "2025-04-04 00:00:40",
-      "album": {
-        "name": "Go Ghost",
-        "url": "https://open.spotify.com/album/0hwZpjgOkMzytEWs2NSHwT"
-      },
-      "artists": [
-        {
-          "name": "Santino Le Saint",
-          "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
-        }
-      ],
-      "duration_ms": 160262,
-      "name": "Go Ghost",
-      "url": "https://open.spotify.com/track/7fdKKxsRwzG9jNGMnUKUqE"
-    },
-    {
-      "added_at": "2025-04-04 00:00:40",
-      "album": {
         "name": "CH4iNS",
         "url": "https://open.spotify.com/album/6UmlT8Su6kDHEkvTmituqR"
       },
@@ -747,6 +715,22 @@
       "duration_ms": 170000,
       "name": "All 4 You",
       "url": "https://open.spotify.com/track/2i3VVtSjyZIVOBJxFSZpPe"
+    },
+    {
+      "added_at": "2025-04-04 00:00:40",
+      "album": {
+        "name": "Only Ever",
+        "url": "https://open.spotify.com/album/01gYXq7TagyrOHOK3KvlfY"
+      },
+      "artists": [
+        {
+          "name": "Lucy Park",
+          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
+        }
+      ],
+      "duration_ms": 162406,
+      "name": "Only Ever",
+      "url": "https://open.spotify.com/track/6pFHqQE6VJnkG5TtBFIaXj"
     },
     {
       "added_at": "2025-04-04 00:00:40",
@@ -767,6 +751,22 @@
     {
       "added_at": "2025-04-04 00:00:40",
       "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/74QAmMwD0zVIDaNXzm6o0Z"
+      },
+      "artists": [
+        {
+          "name": "Jamilah Barry",
+          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
+        }
+      ],
+      "duration_ms": 112938,
+      "name": "LDN",
+      "url": "https://open.spotify.com/track/1hyfDqeOomUgiDZZehFP3D"
+    },
+    {
+      "added_at": "2025-04-04 00:00:40",
+      "album": {
         "name": "Don Dada",
         "url": "https://open.spotify.com/album/6N7ueVpR75m3vunC9ugTnm"
       },
@@ -783,18 +783,18 @@
     {
       "added_at": "2025-04-04 00:00:40",
       "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/74QAmMwD0zVIDaNXzm6o0Z"
+        "name": "i know",
+        "url": "https://open.spotify.com/album/6gAZoVbmPADyQaGsV94obD"
       },
       "artists": [
         {
-          "name": "Jamilah Barry",
-          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
+          "name": "Nolais",
+          "url": "https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF"
         }
       ],
-      "duration_ms": 112938,
-      "name": "LDN",
-      "url": "https://open.spotify.com/track/1hyfDqeOomUgiDZZehFP3D"
+      "duration_ms": 142651,
+      "name": "i know",
+      "url": "https://open.spotify.com/track/6HWsd6fqeamiFulSQhxKsD"
     },
     {
       "added_at": "2025-04-04 00:00:40",
@@ -851,6 +851,22 @@
     {
       "added_at": "2025-04-04 00:00:40",
       "album": {
+        "name": "Don't Cry Mama",
+        "url": "https://open.spotify.com/album/79GK5Ec1fgvxqUGkgwkg77"
+      },
+      "artists": [
+        {
+          "name": "Saskia",
+          "url": "https://open.spotify.com/artist/400qpwg5b70L39fD95JSaB"
+        }
+      ],
+      "duration_ms": 217413,
+      "name": "Don't Cry Mama",
+      "url": "https://open.spotify.com/track/6FRR67NLpX4lUjnCVhwfe4"
+    },
+    {
+      "added_at": "2025-04-04 00:00:40",
+      "album": {
         "name": "XONGZ \u12a0\u1235\u1240\u12eb\u121a \u1321\u1265",
         "url": "https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC"
       },
@@ -867,18 +883,18 @@
     {
       "added_at": "2025-04-04 00:00:40",
       "album": {
-        "name": "Don't Cry Mama",
-        "url": "https://open.spotify.com/album/79GK5Ec1fgvxqUGkgwkg77"
+        "name": "Follow You",
+        "url": "https://open.spotify.com/album/4LX6oVgc0dBtUzAxcjmDwM"
       },
       "artists": [
         {
-          "name": "Saskia",
-          "url": "https://open.spotify.com/artist/400qpwg5b70L39fD95JSaB"
+          "name": "ALIA LARA",
+          "url": "https://open.spotify.com/artist/7LZtbcOzfx11Fhapw8iiOO"
         }
       ],
-      "duration_ms": 217413,
-      "name": "Don't Cry Mama",
-      "url": "https://open.spotify.com/track/6FRR67NLpX4lUjnCVhwfe4"
+      "duration_ms": 212000,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/3YhmZC4QRnlLn87XuWWRUW"
     },
     {
       "added_at": "2025-04-04 00:00:40",
@@ -899,38 +915,6 @@
     {
       "added_at": "2025-04-04 00:00:40",
       "album": {
-        "name": "Regular Girl",
-        "url": "https://open.spotify.com/album/3OhFLv2iX72yrfnSHpilN5"
-      },
-      "artists": [
-        {
-          "name": "Nippa",
-          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
-        }
-      ],
-      "duration_ms": 151820,
-      "name": "Regular Girl",
-      "url": "https://open.spotify.com/track/6n3IrXv89bChBzjbRJRmUq"
-    },
-    {
-      "added_at": "2025-04-04 00:00:40",
-      "album": {
-        "name": "how did we end up here? (Deluxe)",
-        "url": "https://open.spotify.com/album/7x9hKDNgOWyzn3OrKVixBt"
-      },
-      "artists": [
-        {
-          "name": "Reuben Aziz",
-          "url": "https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh"
-        }
-      ],
-      "duration_ms": 163638,
-      "name": "stick around",
-      "url": "https://open.spotify.com/track/4QB4OhHRXjaSAa2FjLURGw"
-    },
-    {
-      "added_at": "2025-04-04 00:00:40",
-      "album": {
         "name": "Good Riddance",
         "url": "https://open.spotify.com/album/6qZVF2D19JP9f5C1ElS5lz"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 129317,
       "name": "Good Riddance",
       "url": "https://open.spotify.com/track/6Uq3K7OEbCs9t7H1beQEnt"
+    },
+    {
+      "added_at": "2025-04-04 00:00:40",
+      "album": {
+        "name": "Regular Girl",
+        "url": "https://open.spotify.com/album/3OhFLv2iX72yrfnSHpilN5"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        }
+      ],
+      "duration_ms": 151820,
+      "name": "Regular Girl",
+      "url": "https://open.spotify.com/track/6n3IrXv89bChBzjbRJRmUq"
     },
     {
       "added_at": "2025-04-04 00:00:40",
@@ -967,50 +967,54 @@
     {
       "added_at": "2025-04-04 00:00:40",
       "album": {
-        "name": "OXO",
-        "url": "https://open.spotify.com/album/0Prm15tKRsBzDjkj9tIYOT"
+        "name": "how did we end up here? (Deluxe)",
+        "url": "https://open.spotify.com/album/7x9hKDNgOWyzn3OrKVixBt"
       },
       "artists": [
         {
-          "name": "Lola Moxom",
-          "url": "https://open.spotify.com/artist/108GZkpexhWFatGlQTbb1g"
+          "name": "Reuben Aziz",
+          "url": "https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh"
         }
       ],
-      "duration_ms": 228188,
-      "name": "GOOD4U",
-      "url": "https://open.spotify.com/track/3WVhiyLtF1pRkfn0ZWH1Ou"
+      "duration_ms": 163638,
+      "name": "stick around",
+      "url": "https://open.spotify.com/track/4QB4OhHRXjaSAa2FjLURGw"
     },
     {
       "added_at": "2025-04-04 00:00:40",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/1UWO7Rgw5ciLeQPc4uvyBG"
+        "name": "Lay With Me",
+        "url": "https://open.spotify.com/album/3M5JronLMReR15Fw21tpzA"
       },
       "artists": [
         {
-          "name": "Kwaku Asante",
-          "url": "https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M"
+          "name": "Ebub\u00e9",
+          "url": "https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W"
         }
       ],
-      "duration_ms": 189441,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/3v0RwYzI5WlW7lKTTtJWT0"
+      "duration_ms": 224506,
+      "name": "Lay With Me",
+      "url": "https://open.spotify.com/track/0ELxuwozi70IAT4lGEkuZD"
     },
     {
       "added_at": "2025-04-04 00:00:40",
       "album": {
-        "name": "Get Me",
-        "url": "https://open.spotify.com/album/0uATdxFoiP0PRKVDqJ6O7F"
+        "name": "PRETEND",
+        "url": "https://open.spotify.com/album/0V9mMwTKJDZTXqWv4KCQpN"
       },
       "artists": [
         {
-          "name": "Nate Brazier",
-          "url": "https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7"
+          "name": "Luke Champion",
+          "url": "https://open.spotify.com/artist/15YGnlT6EppuduD9ZpfBQQ"
+        },
+        {
+          "name": "Elsa",
+          "url": "https://open.spotify.com/artist/0p8v04edfy3IA0VW4hu2yv"
         }
       ],
-      "duration_ms": 167684,
-      "name": "Get Me",
-      "url": "https://open.spotify.com/track/2QYHEIBi1SlaIQbzDOHC5g"
+      "duration_ms": 192110,
+      "name": "PRETEND",
+      "url": "https://open.spotify.com/track/3qYmmwMHD1IC4fNLADc4bu"
     }
   ],
   "unique_name": "R&B UK",

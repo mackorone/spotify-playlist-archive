@@ -4,7 +4,7 @@
 
 > 
 
-2,109 songs - 4 day 17 hr 2 min
+2,110 songs - 4 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1764,6 +1764,7 @@
 | [Surprise](https://open.spotify.com/track/4oabmiJCzjSkCcXgqu1oxe) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [Surprise / This Could Build Us A Home](https://open.spotify.com/album/49iGt7vrdAvoJYgeJUZEcR) | 1:35 | 2022-06-02 |  |
 | [SWAMP DRAINED](https://open.spotify.com/track/4ImpsX0MAxXYdhpE1TY4xW) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [SWAMP DRAINED](https://open.spotify.com/album/5VYSXBghit2yq6pZ8lfVy1) | 2:20 | 2021-08-05 |  |
 | [Swan Lake, Op\. 20, TH 12, Act II, No\. 10: Scène \(Moderato \- Più mossoe\)](https://open.spotify.com/track/0AvCP4oj9iV9tsx9V2G5jm) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Neeme Järvi](https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps), [Bergen Philharmonic Orchestra](https://open.spotify.com/artist/7vkBnXHIvNilYcrqt9RJLD) | [Tchaikovsky: Swan Lake](https://open.spotify.com/album/3ZJP0ssd4AAe0l4Qs7A4tV) | 2:40 | 2022-11-10 |  |
+| [Swang](https://open.spotify.com/track/6mapJIPnQ23RTAevUoE0DL) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [SremmLife 2 \(Deluxe\)](https://open.spotify.com/album/5v6iBhIlflzR9rEd1LAMbd) | 3:28 | 2025-04-04 |  |
 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2021-08-05 |  |
 | [sweet rally](https://open.spotify.com/track/5nzqZiPOg9jWn5jz8KRwJJ) | [ilysam](https://open.spotify.com/artist/3rmIPOsNb2ngQAQEK8Fow8), [Mc Ster](https://open.spotify.com/artist/2RqjTHL40djgpNGG2LS9O0) | [sweet rally](https://open.spotify.com/album/11vUnFryU2pTqfBGaAU7kc) | 1:09 | 2025-01-03 |  |
 | [Sweet Sundae](https://open.spotify.com/track/2D1XHRAtARcC4VxiWa5yMc) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Sweet Sundae](https://open.spotify.com/album/1rvDsDYfCsbtGhVPwsFYt4) | 2:12 | 2021-09-08 |  |

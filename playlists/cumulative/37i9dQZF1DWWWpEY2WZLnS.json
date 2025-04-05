@@ -7431,6 +7431,28 @@
     },
     {
       "album": {
+        "name": "Suave",
+        "url": "https://open.spotify.com/album/6TCL50P86nu90beJunHMdV"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        },
+        {
+          "name": "OG DETRUYELO",
+          "url": "https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/3D9d0PEHfC9PqQAwKKljDv"
+    },
+    {
+      "album": {
         "name": "Subele el Volumen",
         "url": "https://open.spotify.com/album/3d9mgBfpyeb5CK8OnRsTgo"
       },

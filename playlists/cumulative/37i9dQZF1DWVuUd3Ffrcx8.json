@@ -2257,6 +2257,28 @@
     },
     {
       "album": {
+        "name": "Find Love",
+        "url": "https://open.spotify.com/album/61LVXje36haNTn7BJdEI2t"
+      },
+      "artists": [
+        {
+          "name": "Etham",
+          "url": "https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm"
+        },
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216080,
+      "name": "Find Love",
+      "url": "https://open.spotify.com/track/5xxYyxp5Rx0xu5YJ5vMPu5"
+    },
+    {
+      "album": {
         "name": "Find The Way",
         "url": "https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN"
       },

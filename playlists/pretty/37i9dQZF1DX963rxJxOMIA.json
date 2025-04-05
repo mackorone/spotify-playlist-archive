@@ -1,13 +1,33 @@
 {
   "description": "Fino y elegante, como Feid.",
-  "num_followers": 202423,
+  "num_followers": 202488,
   "original_name": "FINO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9O3qgAAAADxDi91fDVpLoLWc+miZoUL",
+  "snapshot_id": "Z+9qswAAAADyG4+tS2NbE8sqF6YrQrKs",
   "tracks": [
+    {
+      "added_at": "2025-04-04 05:14:27",
+      "album": {
+        "name": "DALLAX",
+        "url": "https://open.spotify.com/album/2pQAHDH5MCC27Sn9cVKjpM"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 150370,
+      "name": "DALLAX",
+      "url": "https://open.spotify.com/track/4cZiqNmLWLoAx67ENn53YG"
+    },
     {
       "added_at": "2025-03-14 04:59:22",
       "album": {
@@ -71,6 +91,26 @@
       "duration_ms": 144000,
       "name": "Solcito",
       "url": "https://open.spotify.com/track/2BE1Q5N4Enl1eRrM82uzsu"
+    },
+    {
+      "added_at": "2025-04-04 05:14:27",
+      "album": {
+        "name": "Mi Reina",
+        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 183891,
+      "name": "Mi Reina",
+      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
     },
     {
       "added_at": "2025-03-14 04:59:22",
@@ -559,26 +599,6 @@
     {
       "added_at": "2025-03-14 04:59:22",
       "album": {
-        "name": "Guerra Perdida",
-        "url": "https://open.spotify.com/album/2c1Ey5waeDLViJs7PDQAWx"
-      },
-      "artists": [
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        },
-        {
-          "name": "Maisak",
-          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
-        }
-      ],
-      "duration_ms": 169339,
-      "name": "Guerra Perdida",
-      "url": "https://open.spotify.com/track/0s74MxxdItfaeBS7XUgMvu"
-    },
-    {
-      "added_at": "2025-03-14 04:59:22",
-      "album": {
         "name": "NI X EL PUTXS",
         "url": "https://open.spotify.com/album/60BWMQAOZyitudi2E543PQ"
       },
@@ -863,30 +883,6 @@
       "duration_ms": 186277,
       "name": "MIONCA",
       "url": "https://open.spotify.com/track/3UxRvZWhEfSJmNDsbEjKOY"
-    },
-    {
-      "added_at": "2025-03-14 04:59:22",
-      "album": {
-        "name": "Bulevar",
-        "url": "https://open.spotify.com/album/2tetV749OHQRffqTclca7Y"
-      },
-      "artists": [
-        {
-          "name": "Esteban Rojas",
-          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
-        },
-        {
-          "name": "Pirlo",
-          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
-        },
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 243433,
-      "name": "Bulevar",
-      "url": "https://open.spotify.com/track/7hQi6VmEgGLG462YpieKDG"
     },
     {
       "added_at": "2025-03-14 04:59:22",

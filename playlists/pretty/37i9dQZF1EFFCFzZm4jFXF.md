@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84 likes - 111 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 85 likes - 111 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 79 | [Never Stood A Chance](https://open.spotify.com/track/3AgmA7OJFNok5iGIRJu5HE) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Never Stood A Chance](https://open.spotify.com/album/5bqv7OLX8iCZEzRMZuzXLe) | 2:50 |
 | 80 | [Turn Off The Rain](https://open.spotify.com/track/7tI7ojD4HsrgsMGoloIm80) | [Xenia Ghali](https://open.spotify.com/artist/4iw0Pf0ZeTekpc6yqlGKYE) | [Turn Off The Rain](https://open.spotify.com/album/1EYQFHfkKdrgdltWOlRnzp) | 3:39 |
 | 81 | [Cold Winter](https://open.spotify.com/track/2roIpXQCwjCcPC9kwh8V7x) | [Keels](https://open.spotify.com/artist/1Y2eFp5L0YHdho5WsGWSzU) | [Cold Winter](https://open.spotify.com/album/1LVIZa0uPw9qAsjdQVd05m) | 3:20 |
-| 82 | [Rum & Red Bull](https://open.spotify.com/track/5mdtecC5n9oiC1WIPJDGa6) | [The Tailormade](https://open.spotify.com/artist/7dD3Cn2hLHo6WxrMOqk7c3) | [Rum & Red Bull](https://open.spotify.com/album/3BMpaaMfhpfLTl8cTJ8mDK) | 3:26 |
-| 83 | [If You Ever Come Back](https://open.spotify.com/track/4GD7mjIvLLZ9cgFNDwUxkU) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [If You Ever Come Back](https://open.spotify.com/album/5TETFQBznTHmqjhbaY96Zz) | 3:07 |
+| 82 | [If You Ever Come Back](https://open.spotify.com/track/4GD7mjIvLLZ9cgFNDwUxkU) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [If You Ever Come Back](https://open.spotify.com/album/5TETFQBznTHmqjhbaY96Zz) | 3:07 |
+| 83 | [Rum & Red Bull](https://open.spotify.com/track/5mdtecC5n9oiC1WIPJDGa6) | [The Tailormade](https://open.spotify.com/artist/7dD3Cn2hLHo6WxrMOqk7c3) | [Rum & Red Bull](https://open.spotify.com/album/3BMpaaMfhpfLTl8cTJ8mDK) | 3:26 |
 | 84 | [Matters To Me](https://open.spotify.com/track/1xH7om5np5FyqNF5cnXYzz) | [Connie Talbot](https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um) | [Matters To Me](https://open.spotify.com/album/4srls6038abMh9Mw2jS3Yg) | 3:49 |
 | 85 | [Something You Don't Know](https://open.spotify.com/track/4O3x2EvBVMP6PG4AviV3mQ) | [BETSIE GØLD](https://open.spotify.com/artist/5nE8CAd519jLpwMX2YgFMK) | [Songs from DLS](https://open.spotify.com/album/3Tj9DbqbE3OjeuYCrqWoO6) | 2:35 |
 | 86 | [Like I Do](https://open.spotify.com/track/2NHpE5U4QNOVCdVmY7FtSL) | [Alex Skrindo](https://open.spotify.com/artist/5LnNAR8Bhv2vJCJzBnCw9P), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Like I Do](https://open.spotify.com/album/6mr0iJfREskCb9S87Rfdgp) | 2:30 |
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 97 | [Only You](https://open.spotify.com/track/3YecLfVpyotU0ve4Ln9Uds) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Only You](https://open.spotify.com/album/5Uq7opunP83SDVxYMm5ivO) | 3:33 |
 | 98 | [face it](https://open.spotify.com/track/2JFKhZApRjevePAHn8SKrR) | [Ruben Pol](https://open.spotify.com/artist/1eCiBMynCZBUlq0v5FeB2w) | [Infused Romance](https://open.spotify.com/album/2tLQcTuBFmEfuQZAsyB4Yj) | 3:00 |
 | 99 | [Cry Them For You](https://open.spotify.com/track/26Hh4z8smlH6Y7LtYN025c) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Cry Them For You](https://open.spotify.com/album/0cdfFRnZYCSrJJPoJY9P8z) | 3:43 |
-| 100 | [Crossed My Mind](https://open.spotify.com/track/4C8huou5j2RRZTfSK2idZ5) | [The Tailormade](https://open.spotify.com/artist/7dD3Cn2hLHo6WxrMOqk7c3) | [Crossed My Mind](https://open.spotify.com/album/6PBwcnOnXFuZv2qUsxV9EP) | 3:53 |
-| 101 | [Bloom](https://open.spotify.com/track/1zbOjoRf9zOMNEBq5UkfKm) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Bloom](https://open.spotify.com/album/32pIpSJ9rkj8AZpaeOyCOB) | 3:20 |
+| 100 | [Bloom](https://open.spotify.com/track/1zbOjoRf9zOMNEBq5UkfKm) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Bloom](https://open.spotify.com/album/32pIpSJ9rkj8AZpaeOyCOB) | 3:20 |
+| 101 | [Crossed My Mind](https://open.spotify.com/track/4C8huou5j2RRZTfSK2idZ5) | [The Tailormade](https://open.spotify.com/artist/7dD3Cn2hLHo6WxrMOqk7c3) | [Crossed My Mind](https://open.spotify.com/album/6PBwcnOnXFuZv2qUsxV9EP) | 3:53 |
 | 102 | [Ordinary](https://open.spotify.com/track/3dyMYkb3IYg7q2PeE4VI87) | [Joe Waller](https://open.spotify.com/artist/6EArtsF80MWahDlAzo86ZS) | [Ordinary](https://open.spotify.com/album/4sJYgIunlnwpc2ZrKj1xju) | 3:00 |
 | 103 | [Cougar In the Corner](https://open.spotify.com/track/0sTsYnEEHFEAWnzFkQ49zB) | [The Tailormade](https://open.spotify.com/artist/7dD3Cn2hLHo6WxrMOqk7c3) | [Cougar In the Corner](https://open.spotify.com/album/77mKy6Lxfc3Zw3KmgWrfkd) | 3:34 |
 | 104 | [Journey ft Brad Mair \- Original Mix](https://open.spotify.com/track/1MUzQWygvkn8raQPCuWR8I) | [Brad Mair](https://open.spotify.com/artist/4wE9wGzadw1jAgPXXSga8D), [Patrick Pizzorni](https://open.spotify.com/artist/4JfAjdEGkHPBREqEkeiEcF) | [Journey](https://open.spotify.com/album/6e7er3QFLp4TXSxrnYgqtR) | 5:00 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 110 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 111 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `Abt0YAAAAADcyDk1I266czYjwwB/LBmr`
+Snapshot ID: `Abt6KAAAAABasVKZonvQG1YK8Dx8KXrJ`

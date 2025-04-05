@@ -4,7 +4,7 @@
 
 > Brand new music from homegrown talent ft\. Nina Cobham
 
-336 songs - 17 hr 7 min
+337 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Everything Changes \(But I Won't\)](https://open.spotify.com/track/2WGOTUuDEW2NxuJVFWvmcB) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Louder, Please](https://open.spotify.com/album/79SqMfih2FN1NaLtZUcccG) | 3:51 | 2025-01-17 | 2025-02-28 |
 | [everything that lacks in me](https://open.spotify.com/track/5bClS9J3zmoi9bDDlHi8WK) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [everything that lacks in me](https://open.spotify.com/album/2xMBQ3IdrDWRl1Rmptgev1) | 2:33 | 2024-09-05 | 2024-10-25 |
 | [Ex\-Friend](https://open.spotify.com/track/5UxboRMB49Gi4X7ESngKnw) | [Allie Sherlock](https://open.spotify.com/artist/2yTmZ1PwFKkO0FjQp2flPl) | [Ex\-Friend](https://open.spotify.com/album/2FIyPHZSjTToAG9CEtasUt) | 2:45 | 2025-01-31 | 2025-03-08 |
+| [Face Lift](https://open.spotify.com/track/65pdFk8bX2xQajYqma3k7E) | [spyduh](https://open.spotify.com/artist/1EoGxLHT0lZhONgf7McB38) | [Face Lift](https://open.spotify.com/album/5UWddwFbFhdrvBKqg6gCpq) | 3:37 | 2025-04-03 |  |
 | [Fail](https://open.spotify.com/track/3wb0OtpuyUjZBOxa8HdxhL) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Fail](https://open.spotify.com/album/6EPz1cdBFPdjoXKdczgdbY) | 2:36 | 2024-08-08 | 2024-10-18 |
 | [Falling in Love](https://open.spotify.com/track/1IGYPkwJnGc9hd4b7uU4zn) | [R.A.E](https://open.spotify.com/artist/1z3xC9ml81L5vugg78Eegq) | [Falling in Love](https://open.spotify.com/album/5TLf0bK9aCh7sEtadKMabz) | 2:51 | 2025-02-28 | 2025-03-21 |
 | [fancy](https://open.spotify.com/track/7J5GcAbZ2rsWk2BzZDVog1) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [fancy / xvideos](https://open.spotify.com/album/073p1oabjQBPOYrAMWOrge) | 2:05 | 2024-12-20 | 2025-02-14 |

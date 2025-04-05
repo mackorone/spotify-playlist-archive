@@ -380,7 +380,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 228620,
       "name": "Aaj Ki Raat (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/7EFfeGN5U0zm9C6KpOeNBH"
@@ -410,7 +410,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-04",
+      "date_removed": null,
       "duration_ms": 228620,
       "name": "Aaj Ki Raat (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/5AnWrUzsrFgBvhn6dUElnr"
@@ -4610,7 +4610,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 222063,
       "name": "Chuttamalle (From \"Devara Part 1\")",
       "url": "https://open.spotify.com/track/1bxzr3JK05fMTcweGAZUHp"
@@ -7736,7 +7736,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-03",
+      "date_removed": null,
       "duration_ms": 250746,
       "name": "Heer",
       "url": "https://open.spotify.com/track/2618Fg2I7K5leCzDUhOjbr"
@@ -9106,7 +9106,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 325257,
       "name": "Ishq Sufiyana (Male)",
       "url": "https://open.spotify.com/track/5zcfnScTSFGCHGY1yeXWke"
@@ -16976,7 +16976,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 298771,
       "name": "Pehli Dafa",
       "url": "https://open.spotify.com/track/4Tkb7zsDmsawB7S5TpKQV1"
@@ -17434,7 +17434,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 331489,
       "name": "Premalo (From \"Court\")",
       "url": "https://open.spotify.com/track/09aG8t0WBF266vlVoZJktP"
@@ -17464,7 +17464,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-04",
+      "date_removed": null,
       "duration_ms": 331489,
       "name": "Premalo (From \"Court\")",
       "url": "https://open.spotify.com/track/02Ck2nLoW3TpgGV6uwvK5Z"
@@ -19722,7 +19722,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 586075,
       "name": "Shree Hanuman Chalisa",
       "url": "https://open.spotify.com/track/6H7fLdt0AeWpuxUKXuXWrx"
@@ -20286,7 +20286,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-04",
+      "date_removed": null,
       "duration_ms": 249707,
       "name": "Subhanallah",
       "url": "https://open.spotify.com/track/0GQngE2rOYvlKwEQjTAsP8"
@@ -21146,6 +21146,28 @@
       "duration_ms": 266094,
       "name": "Tere Pyaar Mein",
       "url": "https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm"
+    },
+    {
+      "album": {
+        "name": "Rustom",
+        "url": "https://open.spotify.com/album/3cGPKT405yNBwftA7VZkUE"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286380,
+      "name": "Tere Sang Yaara",
+      "url": "https://open.spotify.com/track/5UprhHX9Zdm0DeZzbPHbEN"
     },
     {
       "album": {
@@ -22162,7 +22184,7 @@
       ],
       "date_added": "2025-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 247792,
       "name": "Tu Hain Toh Main Hoon (From \"Sky Force\")",
       "url": "https://open.spotify.com/track/1798CxIpbFCXGKbfWarbTL"
@@ -22192,7 +22214,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-04",
+      "date_removed": null,
       "duration_ms": 247792,
       "name": "Tu Hain Toh Main Hoon (From \"Sky Force\")",
       "url": "https://open.spotify.com/track/4Lo6I7kkHWgAVRmdILLhig"
@@ -24112,13 +24134,13 @@
           "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
         },
         {
-          "name": "Mxrci",
-          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+          "name": "Seshnolan",
+          "url": "https://open.spotify.com/artist/4QsiFUy1ddAbRb1UnjvUWN"
         }
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 227441,
       "name": "Winning Speech",
       "url": "https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ"

@@ -1337,6 +1337,32 @@
     },
     {
       "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/0wZ030NQ0ikQ8jNuKDO14p"
+      },
+      "artists": [
+        {
+          "name": "Jim Caruso",
+          "url": "https://open.spotify.com/artist/3hNU1GwmcBf1qbtIC0PH80"
+        },
+        {
+          "name": "Billy Stritch",
+          "url": "https://open.spotify.com/artist/5BFCEjtWiORUGo96eKDbXi"
+        },
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246191,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/06t9m5nzmqEiXuKLCnQKyG"
+    },
+    {
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm"
       },
@@ -3108,6 +3134,24 @@
       "duration_ms": 366306,
       "name": "Cover Up",
       "url": "https://open.spotify.com/track/4uG1SPiRluQnbhRdfsgSYU"
+    },
+    {
+      "album": {
+        "name": "cozy you",
+        "url": "https://open.spotify.com/album/7x6DjIjmEyNT1nYQXkMZWg"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210734,
+      "name": "cozy you",
+      "url": "https://open.spotify.com/track/2HwsleCXo5xW2wnX1j6G4b"
     },
     {
       "album": {
@@ -6486,6 +6530,24 @@
       "duration_ms": 297386,
       "name": "I'll Never Stop Loving You",
       "url": "https://open.spotify.com/track/2pZzybhyizqpiEmmGi5m1P"
+    },
+    {
+      "album": {
+        "name": "I'm a Fool to Want You",
+        "url": "https://open.spotify.com/album/37HtV7Ne1VwmRth2v71hf8"
+      },
+      "artists": [
+        {
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199551,
+      "name": "I'm a Fool to Want You",
+      "url": "https://open.spotify.com/track/0xqACYs9x2hgRMTAKHpjKE"
     },
     {
       "album": {
@@ -10970,7 +11032,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 350740,
       "name": "Peach Velvet Sky",
       "url": "https://open.spotify.com/track/1r9Xoxz09kMbcIEm7WfjkF"
@@ -12182,7 +12244,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 186816,
       "name": "Show Me The Way To Go Home",
       "url": "https://open.spotify.com/track/3Pc4kc5VGyzopInhgthkpR"
@@ -13532,6 +13594,40 @@
       "duration_ms": 224320,
       "name": "Sweet Pumpkin (feat. Gerald Clayton) - Duo Version",
       "url": "https://open.spotify.com/track/4gmxdNHKgBmE8x0CyKnvc0"
+    },
+    {
+      "album": {
+        "name": "Tainted Love",
+        "url": "https://open.spotify.com/album/4y2qRFTK0ZD5bMfs6vaz52"
+      },
+      "artists": [
+        {
+          "name": "Deborah Silver",
+          "url": "https://open.spotify.com/artist/3mVGbbLuRhDTfZAOl4O85u"
+        },
+        {
+          "name": "Count Basie Orchestra",
+          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
+        },
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Steve Jordan",
+          "url": "https://open.spotify.com/artist/4gI1PjT35TD1PiyAAE23JC"
+        },
+        {
+          "name": "John Clayton",
+          "url": "https://open.spotify.com/artist/7xpCL3ZjAsjhUIPJBE5PmB"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249573,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/0jOulpJbFDaGwb09pAx1q9"
     },
     {
       "album": {
@@ -16354,7 +16450,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 205800,
       "name": "Who Are You Dreaming Of",
       "url": "https://open.spotify.com/track/1NmjyMJ8V0vJyKnqujBvCT"
@@ -17058,7 +17154,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 208085,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/59Y0HlcCevMDvNN04V5kSQ"

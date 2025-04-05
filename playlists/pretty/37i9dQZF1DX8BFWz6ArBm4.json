@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Ioulia Kalimani ",
-  "num_followers": 33936,
+  "num_followers": 33988,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -163,18 +163,22 @@
     {
       "added_at": "2025-03-27 22:00:33",
       "album": {
-        "name": "To Vale",
-        "url": "https://open.spotify.com/album/2C0uxbnyamMjZz7ah7BGtk"
+        "name": "Me 'Geia Sou",
+        "url": "https://open.spotify.com/album/7uzlu2dTEzbZsbcFVJh96l"
       },
       "artists": [
         {
           "name": "Katerina Lioliou",
           "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        },
+        {
+          "name": "Giannis Fakinos",
+          "url": "https://open.spotify.com/artist/4smYONeVZoYufgUmCr6FkG"
         }
       ],
-      "duration_ms": 207556,
-      "name": "To Vale",
-      "url": "https://open.spotify.com/track/6ZHaixZ8kSAhnkz3zvFZCP"
+      "duration_ms": 222397,
+      "name": "Me 'Geia Sou",
+      "url": "https://open.spotify.com/track/7A2hkIrbMR3643optl8Utm"
     },
     {
       "added_at": "2025-03-27 22:00:33",
@@ -283,22 +287,6 @@
     {
       "added_at": "2025-03-27 22:00:33",
       "album": {
-        "name": "To Viografiko",
-        "url": "https://open.spotify.com/album/6TZl1zhoavvZUkUKjPX2jr"
-      },
-      "artists": [
-        {
-          "name": "Nikos Oikonomopoulos",
-          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
-        }
-      ],
-      "duration_ms": 205202,
-      "name": "To Viografiko",
-      "url": "https://open.spotify.com/track/2AlQniZwMjUWcOqtawNvxF"
-    },
-    {
-      "added_at": "2025-03-27 22:00:33",
-      "album": {
         "name": "Planitis Gi",
         "url": "https://open.spotify.com/album/3NrhsZPgo6Z72XmnDizCTK"
       },
@@ -311,6 +299,22 @@
       "duration_ms": 247960,
       "name": "Planitis Gi",
       "url": "https://open.spotify.com/track/1jhWAV25iQBkWOtIlHe6a0"
+    },
+    {
+      "added_at": "2025-03-27 22:00:33",
+      "album": {
+        "name": "To Viografiko",
+        "url": "https://open.spotify.com/album/6TZl1zhoavvZUkUKjPX2jr"
+      },
+      "artists": [
+        {
+          "name": "Nikos Oikonomopoulos",
+          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
+        }
+      ],
+      "duration_ms": 205202,
+      "name": "To Viografiko",
+      "url": "https://open.spotify.com/track/2AlQniZwMjUWcOqtawNvxF"
     },
     {
       "added_at": "2025-03-27 22:00:33",
@@ -331,22 +335,18 @@
     {
       "added_at": "2025-03-27 22:00:33",
       "album": {
-        "name": "Me 'Geia Sou",
-        "url": "https://open.spotify.com/album/7uzlu2dTEzbZsbcFVJh96l"
+        "name": "To Vale",
+        "url": "https://open.spotify.com/album/2C0uxbnyamMjZz7ah7BGtk"
       },
       "artists": [
         {
           "name": "Katerina Lioliou",
           "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
-        },
-        {
-          "name": "Giannis Fakinos",
-          "url": "https://open.spotify.com/artist/4smYONeVZoYufgUmCr6FkG"
         }
       ],
-      "duration_ms": 222397,
-      "name": "Me 'Geia Sou",
-      "url": "https://open.spotify.com/track/7A2hkIrbMR3643optl8Utm"
+      "duration_ms": 207556,
+      "name": "To Vale",
+      "url": "https://open.spotify.com/track/6ZHaixZ8kSAhnkz3zvFZCP"
     },
     {
       "added_at": "2025-03-27 22:00:33",
@@ -491,8 +491,8 @@
     {
       "added_at": "2025-03-27 22:00:33",
       "album": {
-        "name": "Siko Kardia Mou",
-        "url": "https://open.spotify.com/album/5ajdrgdF5xCgO2GMLo5ecY"
+        "name": "Monaxia",
+        "url": "https://open.spotify.com/album/6UneAU2jm2vCCM7l3cpoGP"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
         }
       ],
-      "duration_ms": 177029,
-      "name": "Siko Kardia Mou",
-      "url": "https://open.spotify.com/track/1p7kfXL2ny9cQrRiAXeIAC"
+      "duration_ms": 204090,
+      "name": "Monaxia",
+      "url": "https://open.spotify.com/track/2AnmJmjWb52KlIojfW7mU2"
     },
     {
       "added_at": "2025-03-27 22:00:33",
@@ -539,6 +539,22 @@
     {
       "added_at": "2025-03-27 22:00:33",
       "album": {
+        "name": "Me Sighorite",
+        "url": "https://open.spotify.com/album/6gMuD6HJT8Ixnu73PIiXLk"
+      },
+      "artists": [
+        {
+          "name": "Petros Iakovidis",
+          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+        }
+      ],
+      "duration_ms": 210007,
+      "name": "Me Sighorite",
+      "url": "https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww"
+    },
+    {
+      "added_at": "2025-03-27 22:00:33",
+      "album": {
         "name": "Na Pernas",
         "url": "https://open.spotify.com/album/3HRF6TnVay0JANK4sWGABI"
       },
@@ -555,18 +571,18 @@
     {
       "added_at": "2025-03-27 22:00:33",
       "album": {
-        "name": "Me Sighorite",
-        "url": "https://open.spotify.com/album/6gMuD6HJT8Ixnu73PIiXLk"
+        "name": "Siko Kardia Mou",
+        "url": "https://open.spotify.com/album/5ajdrgdF5xCgO2GMLo5ecY"
       },
       "artists": [
         {
-          "name": "Petros Iakovidis",
-          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+          "name": "Giorgos Kakosaios",
+          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
         }
       ],
-      "duration_ms": 210007,
-      "name": "Me Sighorite",
-      "url": "https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww"
+      "duration_ms": 177029,
+      "name": "Siko Kardia Mou",
+      "url": "https://open.spotify.com/track/1p7kfXL2ny9cQrRiAXeIAC"
     },
     {
       "added_at": "2025-03-27 22:00:33",
@@ -587,22 +603,6 @@
       "duration_ms": 169813,
       "name": "Anexartiti - Live Version",
       "url": "https://open.spotify.com/track/0pb6PxjqUzjiPKSuY5l4GT"
-    },
-    {
-      "added_at": "2025-03-27 22:00:33",
-      "album": {
-        "name": "Monaxia",
-        "url": "https://open.spotify.com/album/6UneAU2jm2vCCM7l3cpoGP"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Kakosaios",
-          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
-        }
-      ],
-      "duration_ms": 204090,
-      "name": "Monaxia",
-      "url": "https://open.spotify.com/track/2AnmJmjWb52KlIojfW7mU2"
     },
     {
       "added_at": "2025-03-27 22:00:33",
@@ -699,6 +699,22 @@
     {
       "added_at": "2025-03-27 22:00:33",
       "album": {
+        "name": "maZW Akoma (Ola Mou Ta Thelo)",
+        "url": "https://open.spotify.com/album/3mLP9WM6GglShWbaMbYsPS"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "duration_ms": 208355,
+      "name": "maZW Akoma (Ola Mou Ta Thelo)",
+      "url": "https://open.spotify.com/track/49OvjhB5rxkF7KzfTEk9ri"
+    },
+    {
+      "added_at": "2025-03-27 22:00:33",
+      "album": {
         "name": "Shik Shak Shock",
         "url": "https://open.spotify.com/album/3i27NwGotHd7ZOvFBVU8NL"
       },
@@ -723,18 +739,18 @@
     {
       "added_at": "2025-03-27 22:00:33",
       "album": {
-        "name": "maZW Akoma (Ola Mou Ta Thelo)",
-        "url": "https://open.spotify.com/album/3mLP9WM6GglShWbaMbYsPS"
+        "name": "S' Agapao Kai Den Pao Kala",
+        "url": "https://open.spotify.com/album/66w9kLqtU9vOLEGllkaROT"
       },
       "artists": [
         {
-          "name": "Giorgos Mazonakis",
-          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+          "name": "Despina Vandi",
+          "url": "https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0"
         }
       ],
-      "duration_ms": 208355,
-      "name": "maZW Akoma (Ola Mou Ta Thelo)",
-      "url": "https://open.spotify.com/track/49OvjhB5rxkF7KzfTEk9ri"
+      "duration_ms": 190231,
+      "name": "S' Agapao Kai Den Pao Kala",
+      "url": "https://open.spotify.com/track/4SQtq5RdjIvlyixVTthKqf"
     },
     {
       "added_at": "2025-03-27 22:00:33",
@@ -751,22 +767,6 @@
       "duration_ms": 198875,
       "name": "Giati S' Emena",
       "url": "https://open.spotify.com/track/07VYoZedBJpgqRzGGPHg5P"
-    },
-    {
-      "added_at": "2025-03-27 22:00:33",
-      "album": {
-        "name": "Kaneis Pos De Me Akous",
-        "url": "https://open.spotify.com/album/06cxCCAf1tIIYU1VIRvwOp"
-      },
-      "artists": [
-        {
-          "name": "Nikos Vertis",
-          "url": "https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa"
-        }
-      ],
-      "duration_ms": 212889,
-      "name": "Kaneis Pos De Me Akous",
-      "url": "https://open.spotify.com/track/6a5ckcs5uXbPXz3SFgtoqM"
     },
     {
       "added_at": "2025-03-27 22:00:33",
@@ -803,18 +803,18 @@
     {
       "added_at": "2025-03-27 22:00:33",
       "album": {
-        "name": "S' Agapao Kai Den Pao Kala",
-        "url": "https://open.spotify.com/album/66w9kLqtU9vOLEGllkaROT"
+        "name": "Kaneis Pos De Me Akous",
+        "url": "https://open.spotify.com/album/06cxCCAf1tIIYU1VIRvwOp"
       },
       "artists": [
         {
-          "name": "Despina Vandi",
-          "url": "https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0"
+          "name": "Nikos Vertis",
+          "url": "https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa"
         }
       ],
-      "duration_ms": 190231,
-      "name": "S' Agapao Kai Den Pao Kala",
-      "url": "https://open.spotify.com/track/4SQtq5RdjIvlyixVTthKqf"
+      "duration_ms": 212889,
+      "name": "Kaneis Pos De Me Akous",
+      "url": "https://open.spotify.com/track/6a5ckcs5uXbPXz3SFgtoqM"
     },
     {
       "added_at": "2025-03-27 22:00:33",

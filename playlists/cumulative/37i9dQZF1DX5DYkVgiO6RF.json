@@ -787,6 +787,24 @@
     },
     {
       "album": {
+        "name": "FEEDBACK",
+        "url": "https://open.spotify.com/album/4VU4hhEVVttXYV8bJn6MJc"
+      },
+      "artists": [
+        {
+          "name": "Boy Deluxe",
+          "url": "https://open.spotify.com/artist/742VMDRiRdlhMFfFn2qbpo"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "FEEDBACK",
+      "url": "https://open.spotify.com/track/1e4cfNsYbGeMmsgl6VlFTK"
+    },
+    {
+      "album": {
         "name": "Life of Leisure",
         "url": "https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC"
       },
@@ -896,7 +914,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-20",
+      "date_removed": null,
       "duration_ms": 207120,
       "name": "Goth",
       "url": "https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6"
@@ -1674,7 +1692,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 136235,
       "name": "One Call",
       "url": "https://open.spotify.com/track/0pyRdHecOfxavci3jGc84M"
@@ -1958,7 +1976,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 261859,
       "name": "Rhiannon",
       "url": "https://open.spotify.com/track/6ZesoJSuyvKskuAH63UBH9"

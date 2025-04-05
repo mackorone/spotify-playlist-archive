@@ -1117,6 +1117,24 @@
     },
     {
       "album": {
+        "name": "En adoraci\u00f3n",
+        "url": "https://open.spotify.com/album/0kfCuoDxi46cnlurjvW5zD"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2025-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162521,
+      "name": "Renu\u00e9vame",
+      "url": "https://open.spotify.com/track/5oxlg8P9xLLB6sHxBXdyOA"
+    },
+    {
+      "album": {
         "name": "25 Concierto Conmemorativo (En Vivo)",
         "url": "https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe"
       },
@@ -1128,7 +1146,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 164586,
       "name": "Renu\u00e9vame",
       "url": "https://open.spotify.com/track/0k6MpTbOusOwZVY6QTJ9kQ"
@@ -1508,7 +1526,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-30",
+      "date_removed": null,
       "duration_ms": 113626,
       "name": "Tu Amor por M\u00ed",
       "url": "https://open.spotify.com/track/3xZX2uiPACsDdMRNQkSfh0"
@@ -1722,7 +1740,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 191413,
       "name": "Yo Quiero Ser Como T\u00fa",
       "url": "https://open.spotify.com/track/0cpiz4C6bsk73yE1KfJfQ6"

@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-422 songs - 20 hr 17 min
+424 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Little Techno](https://open.spotify.com/track/4mOh1Pv4RdYN0MpTmqs3ce) | [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [A Little Techno](https://open.spotify.com/album/7ohBu7NjyuJ723V3b9wED1) | 2:46 | 2024-04-12 |  |
 | [Action](https://open.spotify.com/track/60fyTAA4YUDrlvXKTbd9WK) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [Action](https://open.spotify.com/album/0gAtf1frqEswUJlQFZOKQm) | 2:58 | 2022-11-11 | 2023-02-18 |
 | [Addicted \(feat\. Haley Maze\)](https://open.spotify.com/track/1XplgLNxXve58U6Xhxn6B5) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [ZOOTAH](https://open.spotify.com/artist/7DyqaNyG0Y8bztrBWBdKo1), [Haley Maze](https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug) | [Addicted \(feat\. Haley Maze\)](https://open.spotify.com/album/05P0tk5IqCsSBqgA1al8cK) | 2:44 | 2024-09-27 |  |
+| [Afterlife](https://open.spotify.com/track/6NpIoNOekUlkZotewb82Hn) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [Haus of Panda](https://open.spotify.com/artist/1sJbXvN5tJwsn9JQuM8fTo) | [Afterlife](https://open.spotify.com/album/0LR8Ik7nU99JSLyj10ozaf) | 2:40 | 2025-04-04 |  |
 | [Alive \(feat\. Born Of Osiris\)](https://open.spotify.com/track/7Dnxpf3jm60dfyqrnYkN6z) | [Dogma](https://open.spotify.com/artist/2Yqpp9KVye0sP88SinqAPs), [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [Alive \(feat\. Born Of Osiris\)](https://open.spotify.com/album/6KYVxR8kFO2MJCY2sfbQQn) | 3:52 | 2024-07-19 |  |
 | [All I Wanna Do](https://open.spotify.com/track/1ExWt42DF0GzaPIBfaX6qp) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [All I Wanna Do](https://open.spotify.com/album/3X8cM72cVFMPwRDZjDQLDF) | 2:59 | 2023-11-22 |  |
 | [All I Wanted \(feat\. MelonRose\)](https://open.spotify.com/track/11dxsj1dc2NRRDN3gNqu4l) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC), [MelonRose](https://open.spotify.com/artist/65LJ7hn9wYfgtLGdFzW00J) | [All I Wanted \(feat\. MelonRose\)](https://open.spotify.com/album/14ZIyqeMexADGW43gZbuxi) | 4:56 | 2023-04-28 | 2023-05-06 |
@@ -76,6 +77,7 @@
 | [Cold Comfort \(feat\. Andrew Paley\) \- OMAS Remix](https://open.spotify.com/track/0frbjoMyGqqUoPrrplSJAX) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83), [Andrew Paley](https://open.spotify.com/artist/17YZc3pOoK9itwBjQKiLvb), [OMAS](https://open.spotify.com/artist/6TwO05VN5ZM3DYVEsP9vjK) | [Cold Comfort \(feat\. Andrew Paley\) \[OMAS Remix\]](https://open.spotify.com/album/097oRGCimqMVPz4ijYzvtu) | 3:55 | 2022-05-06 | 2022-08-06 |
 | [Colors](https://open.spotify.com/track/6O8f0nQc4KniCyqoUFcwJz) | [Castion](https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR), [Boges](https://open.spotify.com/artist/2Wkblvn5eq5592TmfNSATt), [Jessica Chertock](https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h) | [Colors](https://open.spotify.com/album/5WBfkg6Xg5MmTu8al5YPym) | 2:49 | 2022-05-06 | 2022-08-27 |
 | [Comfortable \(feat\. QUIX\)](https://open.spotify.com/track/09oM23t8SUckcrfSiFsyE2) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Comfortable \(feat\. QUIX\)](https://open.spotify.com/album/1Hom5n1byswxuZCHlScC63) | 2:59 | 2022-05-06 | 2022-11-12 |
+| [Constellations](https://open.spotify.com/track/3xYoSWNvmfh3iqwVQ7C2s9) | [PLS&TY](https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT) | [Constellations](https://open.spotify.com/album/60ybkgibPLXdmCARNfgPpu) | 3:17 | 2025-04-04 |  |
 | [Corazon](https://open.spotify.com/track/2tSmQJiBtXPN2Ourf9Q5mv) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU), [MARE](https://open.spotify.com/artist/0eGQLgDJaGfvvKv7spAgqX) | [Corazon](https://open.spotify.com/album/6g3AEpunohq2j4CNSyCYqS) | 2:18 | 2024-04-05 |  |
 | [Could I Be](https://open.spotify.com/track/06W9k3xS6TFI58kynSWQ5r) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW) | [Could I Be](https://open.spotify.com/album/5G0OXyewIaUOpMdegZJsOr) | 2:34 | 2023-03-03 |  |
 | [Crazy Girl](https://open.spotify.com/track/0LjhJNwHmrNpiurbvy70jW) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy) | [Crazy Girl](https://open.spotify.com/album/5nCjCuxUIxaBUxSto8ayxF) | 2:36 | 2025-03-07 |  |

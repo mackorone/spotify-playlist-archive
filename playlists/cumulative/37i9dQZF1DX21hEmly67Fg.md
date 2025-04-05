@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-291 songs - 16 hr 3 min
+293 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [As It Was](https://open.spotify.com/track/6BtLaWYYnxcObhjdGqpuNi) | [Darius Holland](https://open.spotify.com/artist/2LuKu3ADzYNgrpnLwJCiFU) | [As It Was](https://open.spotify.com/album/4Xq8MuUowgvQq7jbKkirEk) | 3:09 | 2024-11-19 |  |
 | [As It Was \(arr\. string quartet\)](https://open.spotify.com/track/4HE4FZmT05tZuN9NlBeE4f) | [Music Lab Strings](https://open.spotify.com/artist/7cNAfzcs4jv8ByJvZk6gnq), [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [As It Was \(arr\. string quartet\)](https://open.spotify.com/album/4ZDNoOtzzPTMOpJlw14Bb3) | 3:51 | 2023-07-28 | 2025-03-29 |
 | [As Long As You Love Me](https://open.spotify.com/track/2RJi3pWg858aWyv0h9WFIC) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Baby One More Time](https://open.spotify.com/album/2L1zanjl6Dp1Q0z1y6cmrv) | 3:54 | 2023-02-21 |  |
+| [Bad Habits](https://open.spotify.com/track/6bqsslB4g7EhApmRTmNw54) | [Sebastian Young](https://open.spotify.com/artist/5WQMqq5sG5zabwkK07At6G) | [Bad Habits](https://open.spotify.com/album/6EeXlJ4epMi8gvTvnlsFTJ) | 3:22 | 2025-04-04 |  |
 | [Bad Habits \- Piano Version](https://open.spotify.com/track/5J4NcyOSEjvKjOaJTPtYn3) | [Flying Fingers](https://open.spotify.com/artist/1jUIOsS9vK91Nc9qYvpEab) | [Bad Habits \(Piano Version\)](https://open.spotify.com/album/7qmcWjavQC8OlHP6D8IGvP) | 3:23 | 2022-02-04 |  |
 | [Bad Moon Rising](https://open.spotify.com/track/7fOo5e67qKZg3NfgGO6SGL) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Bad Moon Rising](https://open.spotify.com/album/0nAtQD7Ff7AbEGwYSyyLLE) | 2:48 | 2024-05-07 |  |
 | [Barbara / Arr Tharaud for Piano: J'ai tué l'amour](https://open.spotify.com/track/6lvsVdP4KobNe6WqZKqOyh) | [Barbara](https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Barbara](https://open.spotify.com/album/4fzpKAp5r6OcnrceQQSWds) | 3:03 | 2021-11-25 | 2025-02-20 |
@@ -84,7 +85,7 @@
 | [Easy On Me](https://open.spotify.com/track/6GOGtYDbwevpKEZpGyptmc) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Easy On Me](https://open.spotify.com/album/1x9lgY53hXXUzsC8TsUQFe) | 3:16 | 2023-09-22 | 2024-04-19 |
 | [Easy On Me](https://open.spotify.com/track/53sI71bFwGU3p2RBeRxWcC) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2021, Vol\. 2](https://open.spotify.com/album/0hCaA5SF1Xolv0hBJVUuPa) | 3:40 | 2022-11-18 | 2022-11-26 |
 | [Enjoy the Silence](https://open.spotify.com/track/1BABFMj4wusVDpIkpWjDgB) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [Enjoy the Silence](https://open.spotify.com/album/1YLsqNlmQJjhfXTECIUyku) | 2:42 | 2023-04-18 |  |
-| [Espresso](https://open.spotify.com/track/6mbrwy2qyswMGrhXcfkjNE) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Espresso](https://open.spotify.com/album/0WSzv4640pPFZ6gqo78TCx) | 2:55 | 2024-10-01 |  |
+| [Espresso](https://open.spotify.com/track/6mbrwy2qyswMGrhXcfkjNE) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Espresso](https://open.spotify.com/album/0WSzv4640pPFZ6gqo78TCx) | 2:55 | 2024-10-01 | 2025-04-05 |
 | [Every Breath You Take](https://open.spotify.com/track/6Hm6g48FZM25d7LkjmXQfN) | [Felix May](https://open.spotify.com/artist/79Q9buYaRrrm9LkwBnOGEg) | [Famous Piano Covers](https://open.spotify.com/album/6m1HH5v5pJ4bw5sQX2mOt3) | 3:39 | 2023-03-07 | 2025-03-08 |
 | [Everybody's Changing](https://open.spotify.com/track/67IbvYxDxsgmgGa5XKj1d6) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Everybody's Changing](https://open.spotify.com/album/2ZQgqizSwUEQ69bmBBVkuo) | 3:22 | 2023-10-16 |  |
 | [Eyes Closed \(arr\. piano\)](https://open.spotify.com/track/7mpppbKD33V9hPAzb7Q7ux) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Eyes Closed \(arr\. piano\)](https://open.spotify.com/album/0QaQ14xUNTN6rM5irex6P6) | 3:02 | 2023-07-04 | 2023-09-02 |
@@ -273,6 +274,7 @@
 | [Untitled 4 \(aka Njósnavélin\)](https://open.spotify.com/track/3ds1kgDCu5z8223fX1FWIN) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Sigur Rós](https://open.spotify.com/album/38e7K18t8g1sSeYbBdG08o) | 7:02 | 2022-11-18 | 2022-11-26 |
 | [Venus As a Boy](https://open.spotify.com/track/5Ccu4rB501CNiuZYI1sJAW) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Bjork](https://open.spotify.com/album/0JL6wzlO2S9sPwdDiBkawB) | 2:53 | 2022-11-18 | 2022-11-26 |
 | [Video Games \- 2020 Version](https://open.spotify.com/track/0RXFGoIYK7w64zkYZ3IR4w) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Lana Del Rey](https://open.spotify.com/album/3HuXseIKWFC5Pwg0oMuNFT) | 4:39 | 2022-11-18 | 2022-11-26 |
+| [Vincent](https://open.spotify.com/track/3MgyhHXu6wfQxW41mixIcj) | [Ralph Garner](https://open.spotify.com/artist/6Oq63eCF0Vr9KPNgaGPkHU) | [Vincent](https://open.spotify.com/album/3KUdmGh5uXzyMs1ojtGmFx) | 4:27 | 2025-04-04 |  |
 | [Wait](https://open.spotify.com/track/4R5pCOhqXDaXKdRQ3LIQFr) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vsq Film School: Cult Classics & Indie Faves](https://open.spotify.com/album/56rhaqWDLMw6wG5Flbr72W) | 4:17 | 2022-11-18 | 2022-11-26 |
 | [Wellerman \(arr\. piano\)](https://open.spotify.com/track/0zOI6bMCkjd10vCrDy3voc) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Wellerman \(arr\. piano\)](https://open.spotify.com/album/1f9nDMa1wlNsPxDtygkg4B) | 2:01 | 2021-11-25 | 2023-06-24 |
 | [What Was I Made For? \- Piano Version](https://open.spotify.com/track/0ELGKtNSHKPlrrITjXCQQ0) | [Relaxing Piano Covers](https://open.spotify.com/artist/4lwvpHoeQnnQK1W4btWFOU) | [What Was I Made For? \(Piano Version\)](https://open.spotify.com/album/23n2QTKckKp2ZXM16cug3P) | 3:43 | 2023-08-14 |  |

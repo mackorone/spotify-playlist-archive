@@ -4,7 +4,7 @@
 
 > Latin music making waves\. Cover: Venesti
 
-244 songs - 12 hr 39 min
+245 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [MI DROGA](https://open.spotify.com/track/5OYRVKWII0Eog7CjQRnmGf) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:43 | 2023-04-03 | 2023-07-25 |
 | [mi refe](https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [mi refe](https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM) | 2:39 | 2025-02-07 |  |
 | [Mi Regalo Mas Bonito](https://open.spotify.com/track/3JgGutjAwNXGAxcXaqVgWe) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Mi Regalo Mas Bonito](https://open.spotify.com/album/6DPhumayXNmnw4woMnSNk9) | 2:31 | 2023-02-10 | 2024-02-02 |
+| [Mi Reina](https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Mi Reina](https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9) | 3:03 | 2025-04-04 |  |
 | [MIA BEACH](https://open.spotify.com/track/0boJB2GJMiCGbKr9ePpc9A) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [MIA BEACH](https://open.spotify.com/album/0pudiCC5zZUOicTxpLUFYB) | 3:18 | 2022-02-18 | 2023-02-11 |
 | [Mimosas](https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors](https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox) | 3:05 | 2023-07-24 |  |
 | [Mirame Ahora](https://open.spotify.com/track/197t3d2KORVSbnhxeWqYQf) | [Calma Carmona](https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q) | [MICRODOSIS](https://open.spotify.com/album/5xzr5tWqMTfBr55QGsJjzR) | 3:12 | 2022-02-18 | 2022-06-03 |
@@ -180,7 +181,7 @@
 | [Pimpin' Smokin' Dro](https://open.spotify.com/track/4Q516psr4tSjGBrNbq2BHo) | [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Pimpin' Smokin' Dro](https://open.spotify.com/album/7HM5lsCIeSuuxL3iD5hEXJ) | 3:50 | 2023-02-27 | 2023-04-21 |
 | [PIN PIN](https://open.spotify.com/track/51tMYALx6Lkrte41DoWIPq) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 2:39 | 2022-02-18 | 2023-02-11 |
 | [Por ti](https://open.spotify.com/track/4q7qEtx8ZJ9wF4WJcCR3CP) | [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [Por ti](https://open.spotify.com/album/7J48NdfyjSayVLgEWduCPa) | 3:16 | 2024-02-23 |  |
-| [Probando Freestyle](https://open.spotify.com/track/6uy9W7BAXUR09pMnnix338) | [Gailen La Moyeta](https://open.spotify.com/artist/0a7DjyuupA55K2NqWItRir) | [Probando Freestyle](https://open.spotify.com/album/5Jb7CmfSS5MdsGZ5ZQtOFC) | 1:05 | 2023-02-10 |  |
+| [Probando Freestyle](https://open.spotify.com/track/6uy9W7BAXUR09pMnnix338) | [Gailen La Moyeta](https://open.spotify.com/artist/0a7DjyuupA55K2NqWItRir) | [Probando Freestyle](https://open.spotify.com/album/5Jb7CmfSS5MdsGZ5ZQtOFC) | 1:05 | 2023-02-10 | 2025-04-05 |
 | [Punto y Aparte](https://open.spotify.com/track/388YhDYxPvaDIZQHWqpB4E) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Rompe La Discoteca](https://open.spotify.com/album/2ftqbM48NcAEAcIL7Yyc1R) | 3:26 | 2024-10-11 |  |
 | [Párrafo 8](https://open.spotify.com/track/3RGOpwcyaMvgiuRyFrfVtc) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Bucle](https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55) | 3:14 | 2022-06-02 | 2023-02-11 |
 | [QSV](https://open.spotify.com/track/73ZE0Dmy5FsfiMUECtehzG) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [QSV](https://open.spotify.com/album/07ouadyCgIvGlbHgJu7BE1) | 2:05 | 2025-04-01 |  |

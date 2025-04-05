@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: ODUMODUBLVCK
 
-568 songs - 1 day 2 hr 50 min
+569 songs - 1 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,7 +413,7 @@
 | [PICANTO](https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ECko Miles](https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD) | [PICANTO](https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc) | 3:04 | 2022-11-24 | 2023-10-16 |
 | [Pinterest](https://open.spotify.com/track/3tBWJXPBzqYGkE8I4K7suN) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Full Time Job](https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX) | 3:50 | 2024-10-04 |  |
 | [PITY THIS BOY \(with Victony\)](https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [PITY THIS BOY](https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk) | 2:45 | 2025-02-14 |  |
-| [Pookie](https://open.spotify.com/track/5Q7AAQv0YGXEKRy9bTs8nz) | [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr) | [Pookie](https://open.spotify.com/album/6X1yNc6oCLtW9THe9shuNr) | 2:09 | 2025-02-21 |  |
+| [Pookie](https://open.spotify.com/track/5Q7AAQv0YGXEKRy9bTs8nz) | [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr) | [Pookie](https://open.spotify.com/album/6X1yNc6oCLtW9THe9shuNr) | 2:09 | 2025-02-21 | 2025-04-05 |
 | [Pop Sermon](https://open.spotify.com/track/3jGkAgjo3IwwcCsuUptm0W) | [Dope Caesar](https://open.spotify.com/artist/0EEbHnHvCvomjaPszMvJxL), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Pop Sermon](https://open.spotify.com/album/4sJRYRgfoFyQrI7qlDmnCb) | 2:29 | 2023-10-13 | 2024-07-12 |
 | [Popping](https://open.spotify.com/track/58lTZMkpl2dENJWth5ZTDJ) | [Deena Ade](https://open.spotify.com/artist/4URSzB6wfRtpXEISyX7Nsb), [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Popping](https://open.spotify.com/album/0MDM5ibxDrVm0RKVy5nhoP) | 2:27 | 2022-12-08 | 2023-01-24 |
 | [Popping Tonight](https://open.spotify.com/track/26q1u4tDvtei9rbrDWdZYW) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [B A H D \(Deluxe\)](https://open.spotify.com/album/3s6o61yAXYCPm71kgiL2Jy) | 2:02 | 2024-02-02 | 2024-02-09 |
@@ -462,6 +462,7 @@
 | [Shutdown](https://open.spotify.com/track/3WBq1rpt6WVIQmGBBNAIBE) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Shutdown](https://open.spotify.com/album/5KfqTov6TpsIfY0wRrBNbC) | 2:59 | 2024-03-29 | 2024-11-22 |
 | [Sigh](https://open.spotify.com/track/61pbywwUdnOdgiBXmDQwLy) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Icen B4 the Cake](https://open.spotify.com/album/1z1mjM7ERkcVau0B0OWQhF) | 2:13 | 2022-10-14 | 2022-10-29 |
 | [Silent Mode](https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 3:20 | 2022-11-04 | 2023-06-02 |
+| [Sin City](https://open.spotify.com/track/2Zju2Flw73tLPQNEfqu9gJ) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:48 | 2025-04-04 |  |
 | [Sinner](https://open.spotify.com/track/7vHlCu70F8GQyA9cBvCoNg) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 2:45 | 2022-11-04 | 2022-11-19 |
 | [Sittin' On Top Of The World](https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sittin' On Top Of The World](https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn) | 2:39 | 2023-06-02 | 2023-09-29 |
 | [SKI](https://open.spotify.com/track/1vE1nV0Q3t9gcw6ZlZ0yJT) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [SKI](https://open.spotify.com/album/24rTvY9feCnZe0SLsLdzbF) | 2:34 | 2022-06-09 | 2022-11-16 |

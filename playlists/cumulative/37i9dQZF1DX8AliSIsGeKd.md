@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Reznik, good guy mikesh
 
-5,135 songs - 18 day 4 hr 11 min
+5,136 songs - 18 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2450,6 +2450,7 @@
 | [Khuluma Nami](https://open.spotify.com/track/5FDAy3YftIopR4SzAmKnXG) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa), [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Intersexy](https://open.spotify.com/album/0sP3HEYlXpD3cJTk3g2NNm) | 4:45 | 2024-11-14 | 2024-11-29 |
 | [Kick It \- Andrea Botez Remix](https://open.spotify.com/track/1CbZd4FBm8Insquq3HGTGP) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Andrea Botez](https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd) | [Kick It \(Andrea Botez Remix\)](https://open.spotify.com/album/6qKyW0Y52WFG8zPV24rJ8p) | 3:25 | 2025-01-23 | 2025-02-07 |
 | [Kick It \- Edit](https://open.spotify.com/track/5QkTw6fF8aqqoMj0t8yvhQ) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Kick It](https://open.spotify.com/album/5Cmv0oOZJ2OqZhEvJkLVKN) | 3:42 | 2024-11-21 | 2024-12-13 |
+| [Kick It With You](https://open.spotify.com/track/5XeT6esdcC700dngtrumkx) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Kick It With You](https://open.spotify.com/album/4OU9Lmrl0X8gUZ259HuljR) | 3:32 | 2025-04-04 |  |
 | [Kick Up The Dust](https://open.spotify.com/track/4pdR5VBU2TNVHukEEPNlqR) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T) | [Kick Up The Dust](https://open.spotify.com/album/5lHCAmlJ6o5CxYIRrydi2b) | 4:35 | 2023-09-01 | 2023-09-22 |
 | [Kickback](https://open.spotify.com/track/4kHd0lPi9yCZYLVFap4uVM) | [Yannick Mueller](https://open.spotify.com/artist/6iSC2YnYuFfCbrBhyRVkPm) | [Kickback](https://open.spotify.com/album/68GqT1uDuC0A0Rrmeo86FD) | 5:34 | 2025-03-06 | 2025-03-28 |
 | [Kid Anthem](https://open.spotify.com/track/4QjfN2pf9Eo1wFXLvd0vir) | [HVOB](https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa) | [TOO](https://open.spotify.com/album/6Uz6GYODFek0VcRSBihHBO) | 5:48 | 2022-04-14 | 2022-04-22 |

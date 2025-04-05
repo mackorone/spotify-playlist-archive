@@ -2002,7 +2002,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 231320,
       "name": "Open Season",
       "url": "https://open.spotify.com/track/1FaD8oKtZEhAV0kHO6mOou"
@@ -2060,6 +2060,28 @@
       "duration_ms": 285613,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/0JsRZWdSquAQtgyJO8mhLA"
+    },
+    {
+      "album": {
+        "name": "The Belt",
+        "url": "https://open.spotify.com/album/1OPDSctsWUEq1JsW9hj0OZ"
+      },
+      "artists": [
+        {
+          "name": "In The Valley Below",
+          "url": "https://open.spotify.com/artist/4WQXRya5np83C21wifjNp9"
+        },
+        {
+          "name": "John Congleton",
+          "url": "https://open.spotify.com/artist/5F2rqvT95spvCWAcSru2tm"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285613,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/0LOcXq48Q660WIRrMlhEDP"
     },
     {
       "album": {

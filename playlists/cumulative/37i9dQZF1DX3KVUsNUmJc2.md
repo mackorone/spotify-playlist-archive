@@ -4,7 +4,7 @@
 
 > Every legend has a beginning\. Listen to music from Arcane, now streaming on Netflix.
 
-121 songs - 5 hr 36 min
+122 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Love Me Tender \- From the 20th Century\-Fox CinemaScope Production, "Love Me Tender"](https://open.spotify.com/track/4GAhAw0RCzNVP976NRMOqO) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:41 | 2023-03-17 | 2024-08-11 |
 | [Loving You](https://open.spotify.com/track/036VdTP0ggdePwbvbFuT8w) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Loving You](https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2) | 2:13 | 2023-03-17 | 2024-08-11 |
 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 2:27 | 2024-11-23 |  |
+| [Ma Meilleure Ennemie ft\. Coldplay](https://open.spotify.com/track/1ZHvGQZNz6HLbxhAtu7pin) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Ma Meilleure Ennemie ft\. Coldplay](https://open.spotify.com/album/26yUJYL8DYzp2HunSKzmsG) | 3:21 | 2025-04-04 |  |
 | [Mean Woman Blues](https://open.spotify.com/track/18eFeeErcRXRs7E173ZRWo) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Loving You](https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2) | 2:16 | 2023-03-17 | 2024-04-19 |
 | [Mean Woman Blues](https://open.spotify.com/track/2BRwSZAX9xUnRQkBihhM5o) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 75 \- Good Rockin' Tonight](https://open.spotify.com/album/34EYk8vvJHCUlNrpGxepea) | 2:17 | 2023-03-17 | 2024-08-11 |
 | [Memories](https://open.spotify.com/track/03wxVlXdqCzRImWLTSF21U) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [The Wonder of You: Elvis Presley with the Royal Philharmonic Orchestra](https://open.spotify.com/album/6oWz2hJ89n9mKarg3SO9ou) | 3:14 | 2023-03-17 | 2024-08-11 |

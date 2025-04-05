@@ -147,6 +147,28 @@
     },
     {
       "album": {
+        "name": "2 Major",
+        "url": "https://open.spotify.com/album/7opILR5fivGIZoHoH8sROn"
+      },
+      "artists": [
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        },
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "2 Major",
+      "url": "https://open.spotify.com/track/1OFAjnS59a3QKIZD7ovz5h"
+    },
+    {
+      "album": {
         "name": "200DB",
         "url": "https://open.spotify.com/album/6POcHK9PPe8lnD2fQF0YDJ"
       },
@@ -2548,7 +2570,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 156798,
       "name": "Big As It Gets",
       "url": "https://open.spotify.com/track/2lA4BUG5rsRPLEJ1F0q0Hp"
@@ -4028,7 +4050,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 206066,
       "name": "CERTIFIED",
       "url": "https://open.spotify.com/track/5QryHzfnnT9eIzHac8gUHm"
@@ -6304,7 +6326,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 160468,
       "name": "Eva Comin' Down",
       "url": "https://open.spotify.com/track/4HBtGUZWkoUPd75SlF7sCk"
@@ -7603,6 +7625,24 @@
     },
     {
       "album": {
+        "name": "Gates Closed",
+        "url": "https://open.spotify.com/album/5V9j9BseYlq3U6ADggD1VH"
+      },
+      "artists": [
+        {
+          "name": "LANELL GRANT",
+          "url": "https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206731,
+      "name": "Gates Closed",
+      "url": "https://open.spotify.com/track/2ZoARkXKcwQiWtzxBGIdIt"
+    },
+    {
+      "album": {
         "name": "Monday to Sunday",
         "url": "https://open.spotify.com/album/0hNQafLlPisUb97FnACqAX"
       },
@@ -8398,7 +8438,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 194666,
       "name": "Good to Me",
       "url": "https://open.spotify.com/track/7GqYiuS2slxwQ7a4hmxyfV"
@@ -9600,6 +9640,24 @@
       "duration_ms": 275121,
       "name": "Hit the Refresh",
       "url": "https://open.spotify.com/track/0GO1BeMk5m9R3imwp2Lhls"
+    },
+    {
+      "album": {
+        "name": "HOL' UP",
+        "url": "https://open.spotify.com/album/7F8XJNeWKX68kjHzBVxjBu"
+      },
+      "artists": [
+        {
+          "name": "Fern",
+          "url": "https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130597,
+      "name": "HOL' UP",
+      "url": "https://open.spotify.com/track/1KF7pX4XytgfwvPH2abVQZ"
     },
     {
       "album": {
@@ -11212,7 +11270,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 154285,
       "name": "JACKPOT",
       "url": "https://open.spotify.com/track/65QTaz2NDjapNPkw2fhBqi"
@@ -11314,6 +11372,32 @@
       "duration_ms": 174455,
       "name": "Jesus In The Ghetto",
       "url": "https://open.spotify.com/track/6IM4ZfTemJDpf1cH9fON1Y"
+    },
+    {
+      "album": {
+        "name": "Anike (formerly Wande): The Rap Pack",
+        "url": "https://open.spotify.com/album/1yvDuuaDhznzTmytT6MnKw"
+      },
+      "artists": [
+        {
+          "name": "Anike",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        },
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "Queen Lee",
+          "url": "https://open.spotify.com/artist/0ESxKUSobqG0GkLrxg77XS"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156992,
+      "name": "JESUS MUZIK II",
+      "url": "https://open.spotify.com/track/5tRNZBnDRIJPCLGn4tw7tZ"
     },
     {
       "album": {
@@ -13400,7 +13484,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 146086,
       "name": "Make It One Day",
       "url": "https://open.spotify.com/track/0cHDwblKbM7xj656zdKxNK"
@@ -13560,6 +13644,32 @@
       "duration_ms": 142826,
       "name": "Marvelous",
       "url": "https://open.spotify.com/track/59F2Wpzbsv3PZEb1ngr4TZ"
+    },
+    {
+      "album": {
+        "name": "JERICHO",
+        "url": "https://open.spotify.com/album/5LaHM5d5fvjRJ97GQhBdvf"
+      },
+      "artists": [
+        {
+          "name": "gio.",
+          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+        },
+        {
+          "name": "Dell Mac",
+          "url": "https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl"
+        },
+        {
+          "name": "LOGE",
+          "url": "https://open.spotify.com/artist/30Qk0xWOa5BOa4ARg9gY1x"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164129,
+      "name": "masterpiece",
+      "url": "https://open.spotify.com/track/3KfzwglHt2AS1UB9bZgagk"
     },
     {
       "album": {
@@ -15626,7 +15736,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 192592,
       "name": "Okay",
       "url": "https://open.spotify.com/track/5xXYuRPBHPf1i2t7p4l34a"
@@ -16796,6 +16906,28 @@
       "duration_ms": 168000,
       "name": "PLAN PLAN",
       "url": "https://open.spotify.com/track/0EbDu1P2IOei9r3WlrECMp"
+    },
+    {
+      "album": {
+        "name": "PLANET HOLLYWOOD",
+        "url": "https://open.spotify.com/album/5p0s8u3ucxXuL0MOqrI7WA"
+      },
+      "artists": [
+        {
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
+        },
+        {
+          "name": "Wordsplayed",
+          "url": "https://open.spotify.com/artist/0AKzJfX9rdEu8WOqeBLEaO"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "PLANET HOLLYWOOD",
+      "url": "https://open.spotify.com/track/1IaKa7QefUGCpvmcVQ0XUS"
     },
     {
       "album": {
@@ -19924,6 +20056,28 @@
       "duration_ms": 124195,
       "name": "Spirit Lead Me",
       "url": "https://open.spotify.com/track/0R95NiHcBCtR3TspfmauOv"
+    },
+    {
+      "album": {
+        "name": "Spirit Rich",
+        "url": "https://open.spotify.com/album/4jDaCHNKQHoHUO905d9Wvl"
+      },
+      "artists": [
+        {
+          "name": "Tylynn",
+          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
+        },
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159183,
+      "name": "Spirit Rich",
+      "url": "https://open.spotify.com/track/2c299IzzVhir4EsPswCJyz"
     },
     {
       "album": {

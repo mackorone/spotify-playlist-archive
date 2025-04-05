@@ -739,6 +739,28 @@
     },
     {
       "album": {
+        "name": "Bjerkebanen",
+        "url": "https://open.spotify.com/album/3QqXgETEgODSqpquEtpg0G"
+      },
+      "artists": [
+        {
+          "name": "KingSkurkOne",
+          "url": "https://open.spotify.com/artist/0GJpcPq3tHjeDUB8I05Wxc"
+        },
+        {
+          "name": "chingo",
+          "url": "https://open.spotify.com/artist/6uB2C3tOVQdG7igI7cDQ1w"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167880,
+      "name": "Bjerkebanen",
+      "url": "https://open.spotify.com/track/5WPKsvW9DfXU35Uy2uY60O"
+    },
+    {
+      "album": {
         "name": "BLANCO",
         "url": "https://open.spotify.com/album/2xy29TobynKnncoMPfSLD2"
       },
@@ -1452,7 +1474,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 178736,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/4e6yJydi3ONicrZ8gXsCCv"
@@ -4262,7 +4284,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 163702,
       "name": "Over mitt lik (feat. Molly Hammar)",
       "url": "https://open.spotify.com/track/4pLqnwo69V4h5QCAoECGGa"
@@ -5424,6 +5446,32 @@
       "duration_ms": 161739,
       "name": "Svar",
       "url": "https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw"
+    },
+    {
+      "album": {
+        "name": "Sving Min Vei",
+        "url": "https://open.spotify.com/album/5wx2EbIVXh88HQzuUsREVq"
+      },
+      "artists": [
+        {
+          "name": "Martin Hazy",
+          "url": "https://open.spotify.com/artist/5jVrCdKOLz3htSyGqhqp8b"
+        },
+        {
+          "name": "Petter Beyer",
+          "url": "https://open.spotify.com/artist/5IkhRwKXNgNYkkahNLVoQW"
+        },
+        {
+          "name": "Jonas V",
+          "url": "https://open.spotify.com/artist/3Hrm4nJtnnZLGjWITpxvle"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182252,
+      "name": "Sving Min Vei",
+      "url": "https://open.spotify.com/track/0QVvaa5drjOup6D3z9HhOH"
     },
     {
       "album": {

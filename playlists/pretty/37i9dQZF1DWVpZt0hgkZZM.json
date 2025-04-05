@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 38853,
+  "num_followers": 38877,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Nosotros",
+        "url": "https://open.spotify.com/album/4phrVJzqEfnreKBtuChFfQ"
+      },
+      "artists": [
+        {
+          "name": "Rhapsodia",
+          "url": "https://open.spotify.com/artist/01FLuh7tSq1kKhA9rWsKJL"
+        }
+      ],
+      "duration_ms": 410070,
+      "name": "Nuestro Amor Ser\u00e1",
+      "url": "https://open.spotify.com/track/3jir1kbvad3O8pqHtSIqgx"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Historia Musical de los Chiches Vallenatos: \u00c9xitos Originales",
         "url": "https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 288194,
       "name": "Tierra Mala",
       "url": "https://open.spotify.com/track/5BX4ez5Wz62RdJANkifj3k"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Nosotros",
-        "url": "https://open.spotify.com/album/4phrVJzqEfnreKBtuChFfQ"
-      },
-      "artists": [
-        {
-          "name": "Rhapsodia",
-          "url": "https://open.spotify.com/artist/01FLuh7tSq1kKhA9rWsKJL"
-        }
-      ],
-      "duration_ms": 410070,
-      "name": "Nuestro Amor Ser\u00e1",
-      "url": "https://open.spotify.com/track/3jir1kbvad3O8pqHtSIqgx"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de la Sonora Dinamita: 40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD"
+        "name": "Historia Musical de Calixto Ochoa: 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/2m8Ca1G3Hq1biWbYIkjDkE"
       },
       "artists": [
         {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+          "name": "Calixto Ochoa",
+          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
         }
       ],
-      "duration_ms": 155946,
-      "name": "Se Me Perdi\u00f3 la Cadenita",
-      "url": "https://open.spotify.com/track/3GHagaqsSRMhMG8XjUXnKR"
+      "duration_ms": 230706,
+      "name": "La Empanadita",
+      "url": "https://open.spotify.com/track/2YGjLZYNypW8aKRVM8fIDZ"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de Calixto Ochoa: 40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/2m8Ca1G3Hq1biWbYIkjDkE"
+        "name": "Historia Musical de la Sonora Dinamita: 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD"
       },
       "artists": [
         {
-          "name": "Calixto Ochoa",
-          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
         }
       ],
-      "duration_ms": 230706,
-      "name": "La Empanadita",
-      "url": "https://open.spotify.com/track/2YGjLZYNypW8aKRVM8fIDZ"
+      "duration_ms": 155946,
+      "name": "Se Me Perdi\u00f3 la Cadenita",
+      "url": "https://open.spotify.com/track/3GHagaqsSRMhMG8XjUXnKR"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Historia Musical de los Nemus del Pac\u00edfico",
+        "url": "https://open.spotify.com/album/5pVdcHE66L2zzccmsCZEkv"
+      },
+      "artists": [
+        {
+          "name": "Los Nemus Del Pacifico",
+          "url": "https://open.spotify.com/artist/58JENxULlTFsqJb5l2Nb50"
+        }
+      ],
+      "duration_ms": 271573,
+      "name": "El Debilitao",
+      "url": "https://open.spotify.com/track/35FUH5hc5u5VkgleIdOIKA"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Sonido Digital Bailables",
         "url": "https://open.spotify.com/album/2jWWVfRu7kY8yq48Cd7nN2"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 209266,
       "name": "Adi\u00f3s",
       "url": "https://open.spotify.com/track/1prFNlcD5OYRNPJKqs8n2c"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Historia Musical de los Nemus del Pac\u00edfico",
-        "url": "https://open.spotify.com/album/5pVdcHE66L2zzccmsCZEkv"
-      },
-      "artists": [
-        {
-          "name": "Los Nemus Del Pacifico",
-          "url": "https://open.spotify.com/artist/58JENxULlTFsqJb5l2Nb50"
-        }
-      ],
-      "duration_ms": 271573,
-      "name": "El Debilitao",
-      "url": "https://open.spotify.com/track/35FUH5hc5u5VkgleIdOIKA"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1494,11 +1494,15 @@
         {
           "name": "El Tropicombo",
           "url": "https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM"
+        },
+        {
+          "name": "Elkin Serna",
+          "url": "https://open.spotify.com/artist/2cVWJswg6JyYxrtfwo4nun"
         }
       ],
-      "duration_ms": 236714,
-      "name": "Destino",
-      "url": "https://open.spotify.com/track/7wOZqiiDBA0krJNhlIvXf9"
+      "duration_ms": 240784,
+      "name": "Qui\u00e9n Eres T\u00fa",
+      "url": "https://open.spotify.com/track/5URVaVS1oNnWfCOt3MQLe8"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1523,6 +1527,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Historia Musical de la Sonora Dinamita: 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 189954,
+      "name": "Oye",
+      "url": "https://open.spotify.com/track/0RgkYy8cFIFju90PGSMg45"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Historia Musical de Fruko: \u00c9xitos",
         "url": "https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB"
       },
@@ -1539,22 +1559,6 @@
       "duration_ms": 301720,
       "name": "Los Charcos",
       "url": "https://open.spotify.com/track/4bxFCJf8pCHBfx6GeeLieC"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Historia Musical de la Sonora Dinamita: 40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 189954,
-      "name": "Oye",
-      "url": "https://open.spotify.com/track/0RgkYy8cFIFju90PGSMg45"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1643,6 +1647,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Historia Musical de la Sonora Dinamita: 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 226184,
+      "name": "Mil Horas",
+      "url": "https://open.spotify.com/track/6GA4n3kmq8pTJLmntNlXDD"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Historia Musical de Fruko: \u00c9xitos",
         "url": "https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB"
       },
@@ -1659,22 +1679,6 @@
       "duration_ms": 242346,
       "name": "El Ausente",
       "url": "https://open.spotify.com/track/01iowdZND8PTDZ5r8dQclR"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Historia Musical de la Sonora Dinamita: 40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 226184,
-      "name": "Mil Horas",
-      "url": "https://open.spotify.com/track/6GA4n3kmq8pTJLmntNlXDD"
     },
     {
       "added_at": "2024-07-12 23:11:55",

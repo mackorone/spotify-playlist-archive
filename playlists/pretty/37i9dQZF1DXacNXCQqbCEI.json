@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 355454,
+  "num_followers": 355462,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,30 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "La Que Es",
+        "url": "https://open.spotify.com/album/1m14JbxGEi0s1vktDhdlwt"
+      },
+      "artists": [
+        {
+          "name": "Venezonix",
+          "url": "https://open.spotify.com/artist/4EU8WPqqBvsipJkWL1XfQ6"
+        },
+        {
+          "name": "Betsayda Machado",
+          "url": "https://open.spotify.com/artist/5NxtLG8o5Bsm23XJ9NYq1k"
+        },
+        {
+          "name": "Parranda el Clavo",
+          "url": "https://open.spotify.com/artist/6rwsObUb4DHKh8o01y1nXp"
+        }
+      ],
+      "duration_ms": 194531,
+      "name": "La Que Es",
+      "url": "https://open.spotify.com/track/3MO2Ym7qBnmNEAtjPwOxXE"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct"
       },
@@ -511,30 +535,6 @@
       "duration_ms": 308213,
       "name": "Efecto Manglar",
       "url": "https://open.spotify.com/track/6nZXV4QBvUomA2XPYnbEFc"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "La Que Es",
-        "url": "https://open.spotify.com/album/1m14JbxGEi0s1vktDhdlwt"
-      },
-      "artists": [
-        {
-          "name": "Venezonix",
-          "url": "https://open.spotify.com/artist/4EU8WPqqBvsipJkWL1XfQ6"
-        },
-        {
-          "name": "Betsayda Machado",
-          "url": "https://open.spotify.com/artist/5NxtLG8o5Bsm23XJ9NYq1k"
-        },
-        {
-          "name": "Parranda el Clavo",
-          "url": "https://open.spotify.com/artist/6rwsObUb4DHKh8o01y1nXp"
-        }
-      ],
-      "duration_ms": 194531,
-      "name": "La Que Es",
-      "url": "https://open.spotify.com/track/3MO2Ym7qBnmNEAtjPwOxXE"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -703,22 +703,18 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Misturas",
-        "url": "https://open.spotify.com/album/0A5zpH2SoNiRGBZf3WAyZJ"
+        "name": "El Sonido de las Lobas",
+        "url": "https://open.spotify.com/album/3vTBoO0EqS3yqtQ1mCPtjo"
       },
       "artists": [
         {
-          "name": "Baiuca",
-          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
-        },
-        {
-          "name": "Aliboria",
-          "url": "https://open.spotify.com/artist/7snXGTX2QLVH8buiuH8t2L"
+          "name": "Elegante & La Imperial",
+          "url": "https://open.spotify.com/artist/4CJ85bxslxMaG092YvHV27"
         }
       ],
-      "duration_ms": 228754,
-      "name": "Olv\u00eddame",
-      "url": "https://open.spotify.com/track/0S7YJBN4QRwXLLRTAhlhew"
+      "duration_ms": 260992,
+      "name": "Puro Comer",
+      "url": "https://open.spotify.com/track/1qPhcG9LKdW4MgAvR6yPx1"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -739,18 +735,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "El Sonido de las Lobas",
-        "url": "https://open.spotify.com/album/3vTBoO0EqS3yqtQ1mCPtjo"
+        "name": "Misturas",
+        "url": "https://open.spotify.com/album/0A5zpH2SoNiRGBZf3WAyZJ"
       },
       "artists": [
         {
-          "name": "Elegante & La Imperial",
-          "url": "https://open.spotify.com/artist/4CJ85bxslxMaG092YvHV27"
+          "name": "Baiuca",
+          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
+        },
+        {
+          "name": "Aliboria",
+          "url": "https://open.spotify.com/artist/7snXGTX2QLVH8buiuH8t2L"
         }
       ],
-      "duration_ms": 260992,
-      "name": "Puro Comer",
-      "url": "https://open.spotify.com/track/1qPhcG9LKdW4MgAvR6yPx1"
+      "duration_ms": 228754,
+      "name": "Olv\u00eddame",
+      "url": "https://open.spotify.com/track/0S7YJBN4QRwXLLRTAhlhew"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "Corriente EP",
+        "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
+      },
+      "artists": [
+        {
+          "name": "Terror/Cactus",
+          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
+        }
+      ],
+      "duration_ms": 231875,
+      "name": "Tambor Del Monte",
+      "url": "https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "Tierra Moj\u00e1 (Dub Mix)",
         "url": "https://open.spotify.com/album/5nNgttpJa3yf9foArittyG"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 307436,
       "name": "Tierra Moj\u00e1 - Cerrero Dub Mix",
       "url": "https://open.spotify.com/track/57LjA8Nq2X6gut8TRpfhZZ"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Corriente EP",
-        "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
-      },
-      "artists": [
-        {
-          "name": "Terror/Cactus",
-          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
-        }
-      ],
-      "duration_ms": 231875,
-      "name": "Tambor Del Monte",
-      "url": "https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -971,6 +971,26 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "Ag\u00fcita del Equilibrio (Remix)",
+        "url": "https://open.spotify.com/album/43lARNcRvw8swQlr54FofW"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        },
+        {
+          "name": "Juan Campod\u00f3nico",
+          "url": "https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN"
+        }
+      ],
+      "duration_ms": 287387,
+      "name": "Ag\u00fcita del Equilibrio - Remix",
+      "url": "https://open.spotify.com/track/4xkbFCTyLI4DZJKkOqTuh6"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "Qu\u00e9 Bonito",
         "url": "https://open.spotify.com/album/14OCSNKGtGObRtdf7OKidp"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 184886,
       "name": "Elevation",
       "url": "https://open.spotify.com/track/18xMAhhakzjsthPu1OAIq9"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Ag\u00fcita del Equilibrio (Remix)",
-        "url": "https://open.spotify.com/album/43lARNcRvw8swQlr54FofW"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        },
-        {
-          "name": "Juan Campod\u00f3nico",
-          "url": "https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN"
-        }
-      ],
-      "duration_ms": 287387,
-      "name": "Ag\u00fcita del Equilibrio - Remix",
-      "url": "https://open.spotify.com/track/4xkbFCTyLI4DZJKkOqTuh6"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "El Corredor Del Jaguar",
-        "url": "https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs"
-      },
-      "artists": [
-        {
-          "name": "Combo Chimbita",
-          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
-        }
-      ],
-      "duration_ms": 199799,
-      "name": "Frio Severo",
-      "url": "https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Amanecer\u00e1 (Bial Hclap Remix)",
         "url": "https://open.spotify.com/album/0LpvThgcIor5tzATUijCrx"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 186818,
       "name": "Amanecer\u00e1 - Bial Hclap Remix",
       "url": "https://open.spotify.com/track/6xr1SVBNWy2ZCZIk4CPf8j"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "El Corredor Del Jaguar",
+        "url": "https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs"
+      },
+      "artists": [
+        {
+          "name": "Combo Chimbita",
+          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
+        }
+      ],
+      "duration_ms": 199799,
+      "name": "Frio Severo",
+      "url": "https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO"
     },
     {
       "added_at": "2024-07-12 22:50:04",

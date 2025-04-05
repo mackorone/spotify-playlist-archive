@@ -1,28 +1,28 @@
 {
   "description": "The best new music by independent artists and labels. Cover artist: Raq baby, Artwork: Isu Kim",
-  "num_followers": 1219928,
+  "num_followers": 1220004,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+1fEwAAAADga39Dja7Sp0wuk2j0E9Nm",
+  "snapshot_id": "Z/AQtAAAAAA2NAnrvOHf1ew3RqyVFkN7",
   "tracks": [
     {
-      "added_at": "2025-04-02 16:00:19",
+      "added_at": "2025-04-04 17:02:44",
       "album": {
-        "name": "More Spill",
-        "url": "https://open.spotify.com/album/1Rm90Lk3qsTpIHoWMegbAk"
+        "name": "a million faces",
+        "url": "https://open.spotify.com/album/49jPojLRuWp71LnK3Y3ClE"
       },
       "artists": [
         {
-          "name": "Raq baby",
-          "url": "https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D"
+          "name": "girlsweetvoiced",
+          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
         }
       ],
-      "duration_ms": 199480,
-      "name": "Belt Boyz",
-      "url": "https://open.spotify.com/track/0vFLX27q4HD2ByTf3wTCNO"
+      "duration_ms": 102068,
+      "name": "a million faces",
+      "url": "https://open.spotify.com/track/7F2nEClWeQ3x5ycA5qtKOI"
     },
     {
       "added_at": "2025-04-02 16:00:19",
@@ -79,6 +79,38 @@
     {
       "added_at": "2025-04-02 16:00:19",
       "album": {
+        "name": "Take Me Back (World Of Eras)",
+        "url": "https://open.spotify.com/album/5GttDNZjYIivNGaEwpfCJ8"
+      },
+      "artists": [
+        {
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+        }
+      ],
+      "duration_ms": 219948,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/3dYzGTpOFFRniqwKIQV6WL"
+    },
+    {
+      "added_at": "2025-04-02 16:00:19",
+      "album": {
+        "name": "More Spill",
+        "url": "https://open.spotify.com/album/1Rm90Lk3qsTpIHoWMegbAk"
+      },
+      "artists": [
+        {
+          "name": "Raq baby",
+          "url": "https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "Belt Boyz",
+      "url": "https://open.spotify.com/track/0vFLX27q4HD2ByTf3wTCNO"
+    },
+    {
+      "added_at": "2025-04-02 16:00:19",
+      "album": {
         "name": "WRONG BALLOON",
         "url": "https://open.spotify.com/album/15x3ySOZ2wxq5WsnlqPUZn"
       },
@@ -93,20 +125,52 @@
       "url": "https://open.spotify.com/track/21KT7YAGDTuxYXb23Sn8r6"
     },
     {
-      "added_at": "2025-04-02 16:00:19",
+      "added_at": "2025-03-12 17:06:18",
       "album": {
-        "name": "Take Me Back (World Of Eras)",
-        "url": "https://open.spotify.com/album/5GttDNZjYIivNGaEwpfCJ8"
+        "name": "Sex, Drugs & Existential Dread",
+        "url": "https://open.spotify.com/album/0Syfp5gxI3H1IAVPBBx4O0"
       },
       "artists": [
         {
-          "name": "Kalisway",
-          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
         }
       ],
-      "duration_ms": 219948,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/3dYzGTpOFFRniqwKIQV6WL"
+      "duration_ms": 155571,
+      "name": "Sex, Drugs & Existential Dread",
+      "url": "https://open.spotify.com/track/6QNvGDyclysWjq7QQcWHAk"
+    },
+    {
+      "added_at": "2025-04-02 16:00:19",
+      "album": {
+        "name": "The Here And Now",
+        "url": "https://open.spotify.com/album/2YGkpwEZmg17X10TH6gJxl"
+      },
+      "artists": [
+        {
+          "name": "Velvet Trip",
+          "url": "https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK"
+        }
+      ],
+      "duration_ms": 226192,
+      "name": "The Here And Now",
+      "url": "https://open.spotify.com/track/3gdWjWd3pXvtIijQrNWjto"
+    },
+    {
+      "added_at": "2025-04-02 16:00:19",
+      "album": {
+        "name": "It's Not You, It's Me",
+        "url": "https://open.spotify.com/album/0AQxJS0YHgPg366Lcdcgg4"
+      },
+      "artists": [
+        {
+          "name": "Kee Nola",
+          "url": "https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER"
+        }
+      ],
+      "duration_ms": 139357,
+      "name": "Party Girl",
+      "url": "https://open.spotify.com/track/7kGxq205bhv50mEdpx37FX"
     },
     {
       "added_at": "2025-04-02 16:00:19",
@@ -205,22 +269,6 @@
       "url": "https://open.spotify.com/track/5Bg9F10yutS3kGUXgiKkCC"
     },
     {
-      "added_at": "2025-03-12 17:06:18",
-      "album": {
-        "name": "Sex, Drugs & Existential Dread",
-        "url": "https://open.spotify.com/album/0Syfp5gxI3H1IAVPBBx4O0"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 155571,
-      "name": "Sex, Drugs & Existential Dread",
-      "url": "https://open.spotify.com/track/6QNvGDyclysWjq7QQcWHAk"
-    },
-    {
       "added_at": "2025-04-02 16:00:19",
       "album": {
         "name": "longest day on the beach",
@@ -239,22 +287,6 @@
     {
       "added_at": "2025-04-02 16:00:19",
       "album": {
-        "name": "It's Not You, It's Me",
-        "url": "https://open.spotify.com/album/0AQxJS0YHgPg366Lcdcgg4"
-      },
-      "artists": [
-        {
-          "name": "Kee Nola",
-          "url": "https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER"
-        }
-      ],
-      "duration_ms": 139357,
-      "name": "Party Girl",
-      "url": "https://open.spotify.com/track/7kGxq205bhv50mEdpx37FX"
-    },
-    {
-      "added_at": "2025-04-02 16:00:19",
-      "album": {
         "name": "Shiba",
         "url": "https://open.spotify.com/album/6GJRwsLIkBoCHXQby8N9Oq"
       },
@@ -267,22 +299,6 @@
       "duration_ms": 185750,
       "name": "Shiba",
       "url": "https://open.spotify.com/track/6I0BSbYQsRsK2kj8oAePuW"
-    },
-    {
-      "added_at": "2025-04-02 16:00:19",
-      "album": {
-        "name": "The Here And Now",
-        "url": "https://open.spotify.com/album/2YGkpwEZmg17X10TH6gJxl"
-      },
-      "artists": [
-        {
-          "name": "Velvet Trip",
-          "url": "https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK"
-        }
-      ],
-      "duration_ms": 226192,
-      "name": "The Here And Now",
-      "url": "https://open.spotify.com/track/3gdWjWd3pXvtIijQrNWjto"
     },
     {
       "added_at": "2025-04-02 16:00:19",

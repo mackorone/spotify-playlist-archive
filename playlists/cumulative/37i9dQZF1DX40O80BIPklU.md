@@ -4,7 +4,7 @@
 
 > Hip\-Hop con Ñ, aquí lxs que dominan el juego de las rimas\. Aczino en portada.
 
-512 songs - 1 day 4 hr 27 min
+513 songs - 1 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Broche De Oro](https://open.spotify.com/track/6bomSYIzgSeymVS1sdUhsu) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [La Esquina](https://open.spotify.com/album/1AUCWNSatHgDBNYvfthnNa) | 4:27 | 2024-06-07 | 2024-11-30 |
 | [BSG1: Flow de los 2000's \(ft\. B.Smile\)](https://open.spotify.com/track/5audKLsqbxvpjzK3HOeJhq) | [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [B.Smile](https://open.spotify.com/artist/2UuSCvvWnSxWzj1BrjTRlo) | [BSG1: Flow de los 2000's \(ft\. B.Smile\)](https://open.spotify.com/album/0m8CBzKQR1vUokNQBFSpSE) | 2:12 | 2024-05-10 | 2024-09-14 |
 | [buen día portación de rostro](https://open.spotify.com/track/11PKDQQMsqNZ4sfefZmfRi) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [buen día portación de rostro](https://open.spotify.com/album/6iqcmgSKQ9NHUe8LSXuUQz) | 3:24 | 2024-09-20 |  |
+| [Buscando la Manera](https://open.spotify.com/track/1iMhoC5KuQQgDtOHLMWLo3) | [Backstardo146](https://open.spotify.com/artist/2iJC7bPxbCRh2B2GEcoB7M), [OGRE 67](https://open.spotify.com/artist/1GQ73Wrzqo9kwKNlDu80za), [Solo Cadaver](https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy) | [Aleph](https://open.spotify.com/album/1Wb0qgJUU5p96C5hBuA95G) | 3:10 | 2025-04-04 |  |
 | [Busy](https://open.spotify.com/track/6vz9zu8tWoQo2wiAG9oP5c) | [Danramtam](https://open.spotify.com/artist/2FwWn447Ji65KHb3lHqY5m), [Gringo Bamba](https://open.spotify.com/artist/26rewgSEfGzNpapjPw5VZh) | [Busy](https://open.spotify.com/album/6VBLxfePFG7pyLa7C8HarA) | 2:37 | 2024-07-12 | 2024-08-10 |
 | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny) | 2:26 | 2022-04-18 | 2023-03-25 |
 | [Cachondos Session \#1 \(feat\. Sebastian Esquivel, Eugenio Esquivel, Tiagz & Los Esquivel\)](https://open.spotify.com/track/5vNRuXbnqV6ISkNxvHEfbM) | [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [Cachondos Session \#1 \(feat\. Victor Mendivil, Dani Flow, Tiagz & Los Esquivel\)](https://open.spotify.com/album/7MAbhQjPNHnD411F8VyamG) | 4:57 | 2025-03-07 |  |

@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Javiera Mena y Santiago Motorizado
 
-529 songs - 1 day 7 hr 40 min
+530 songs - 1 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Miraflor](https://open.spotify.com/track/3yYcOSB0WVJkpx1wgyOTVg) | [Felics](https://open.spotify.com/artist/2MDZPWYR5xuLWVIQ9ybC3l), [Los Días Silvestres](https://open.spotify.com/artist/51ewyZ0SAKgCG9dqme1Rff) | [Miraflor](https://open.spotify.com/album/1SZpLRbjijkts5toPVJ4HZ) | 5:58 | 2022-09-02 | 2023-04-10 |
 | [Mirandonos](https://open.spotify.com/track/4lZKP62LTSaJld949qz9ho) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [El Encanto Del Fuego](https://open.spotify.com/album/6tbGgz0PeqFJNXD4rhuZ97) | 4:02 | 2022-12-09 | 2024-01-16 |
 | [Mordisco](https://open.spotify.com/track/6FBzbqhYjRilxEM2Kss8Bv) | [Soy Irracional](https://open.spotify.com/artist/6PKKXAHepFCoV4cAtwPUna) | [Modernica](https://open.spotify.com/album/785tbYjj5baApQGkSIiMkq) | 3:09 | 2022-04-15 | 2022-07-27 |
+| [Muerde](https://open.spotify.com/track/52UEFtf0kXBjjzCJgqsC19) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7), [Ivanewbie](https://open.spotify.com/artist/6qsBlUBsW7t91aiHfBushw) | [Muerde](https://open.spotify.com/album/3s4KfDYzx43oz29SdLdkAc) | 2:59 | 2025-04-04 |  |
 | [Musical \- Remix](https://open.spotify.com/track/4G4MuiwszzGmAq9JkvYeIu) | [palma](https://open.spotify.com/artist/7Fpc0RppTKkMDhWJelaKz3), [Yaguar Beats](https://open.spotify.com/artist/1QWeqTfs4i1yVqYybGHpBP) | [Musical \(Remix\)](https://open.spotify.com/album/0IUzPLNB37oEO7TxIAeUq9) | 3:47 | 2022-07-08 | 2022-07-30 |
 | [Nabundearé](https://open.spotify.com/track/35TRct8Yqqmy0XUPg8UFbn) | [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Crisálida](https://open.spotify.com/album/6SnUm6EI8bn6uFV7p2LIIR) | 2:55 | 2022-04-15 | 2022-08-11 |
 | [Nabundearé](https://open.spotify.com/track/53qZjbmjh3d3nbzxEzKOkF) | [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Crisálida](https://open.spotify.com/album/76XYjBKZrBuAj50Vyxpiur) | 2:55 | 2022-08-12 | 2022-12-10 |

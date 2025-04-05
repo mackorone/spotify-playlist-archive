@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-796 songs - 1 day 11 hr 58 min
+797 songs - 1 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,7 +404,7 @@
 | [Malasana](https://open.spotify.com/track/1ebFEGV0DGIQUc7ejH8GnG) | [Yokohono](https://open.spotify.com/artist/6wN9Myp6ZoPeY86ST60sGU) | [Malasana](https://open.spotify.com/album/6f47OmhcecfY9X72S3xPWC) | 1:50 | 2022-03-31 | 2022-04-16 |
 | [Many "Scratch" Perry](https://open.spotify.com/track/6id8EVvF7aRAK59y8wCYAc) | [Kōya Ogata](https://open.spotify.com/artist/22uFYUbePeINzJYB9CQOwZ) | [blank space \-vol.2\-](https://open.spotify.com/album/33hAQUBAuB1msJ2Mk3hnWh) | 6:13 | 2021-12-23 | 2025-03-24 |
 | [Manzanita](https://open.spotify.com/track/6MclGTlLUfEZ4cxCUuLS4t) | [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi), [Toranpetto](https://open.spotify.com/artist/2v5PisngtMQhGwRq6k9Bbn), [BrandonLee Cierley](https://open.spotify.com/artist/6TCS4quLkqSnAMbwfkKzAt) | [Manzanita](https://open.spotify.com/album/27d2oVqyvCb4lpC3NwOcNZ) | 2:32 | 2021-12-23 | 2022-07-25 |
-| [MAR](https://open.spotify.com/track/38mHYq8J7mGPl7M9S6aGlS) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [MAR](https://open.spotify.com/album/4tikL23aWFPLQIkS7DH0vO) | 2:49 | 2024-07-26 |  |
+| [MAR](https://open.spotify.com/track/38mHYq8J7mGPl7M9S6aGlS) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [MAR](https://open.spotify.com/album/4tikL23aWFPLQIkS7DH0vO) | 2:49 | 2024-07-26 | 2025-04-05 |
 | [Mark Calaway](https://open.spotify.com/track/0kU9nVxyWSvOQGo51p1PFX) | [Tatwoine](https://open.spotify.com/artist/4b6MXJUkXdvgcfxDYJVEjo) | [hoodies](https://open.spotify.com/album/5upkRVgXztEBJuH7uGGChP) | 2:12 | 2021-12-23 | 2022-07-25 |
 | [Mascot Name](https://open.spotify.com/track/1LpUKoPTald4QIks9HQAhV) | [ILYOCS](https://open.spotify.com/artist/2tLE9WDiPkUCssHRr4QMPU) | [Mascot Name](https://open.spotify.com/album/5rkHuXt9iJoEqyFBCRAPBo) | 2:59 | 2025-02-09 | 2025-02-21 |
 | [Meisekimu](https://open.spotify.com/track/1dI0PZUAVLIDxIp34Zkj2s) | [Osaki](https://open.spotify.com/artist/5mBv1P6ffkM2YlJvsBJlze) | [Meisekimu](https://open.spotify.com/album/2wJY88DddxuSn9i04bP0v3) | 3:05 | 2022-01-06 | 2022-04-18 |
@@ -600,6 +600,7 @@
 | [Samui](https://open.spotify.com/track/02vMiqjglGHUt0poNcIf5v) | [Yokomeshi](https://open.spotify.com/artist/1oZzw55AZLPWMj2HjddYB8) | [Samui](https://open.spotify.com/album/6elgJt4O7fsS80BDj992CN) | 1:24 | 2022-03-24 | 2022-04-19 |
 | [Samui](https://open.spotify.com/track/74bdadCpSCzqFBZ4XuQaCQ) | [Yokomeshi](https://open.spotify.com/artist/1oZzw55AZLPWMj2HjddYB8), [Wänderlost](https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Samui](https://open.spotify.com/album/3DcZEHiHT7uPkd5Bs8ynn9) | 1:24 | 2022-07-28 | 2022-10-21 |
 | [sanctuary](https://open.spotify.com/track/334ioy1zQAHUVe5nS9cwzg) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [sanctuary](https://open.spotify.com/album/6fHGk7wxnQWOFBS0iXLl9t) | 3:15 | 2025-02-09 | 2025-04-01 |
+| [Sasanqua](https://open.spotify.com/track/08POPoMeYXmzyOnrxLQRlU) | [physis](https://open.spotify.com/artist/3NPEPBUgyPFCn4qNjKdhMx), [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Sasanqua](https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd) | 2:14 | 2025-04-04 |  |
 | [Saudade Ouchi Jikan](https://open.spotify.com/track/652GwT3h3p21uW8VROFBGp) | [NASSO](https://open.spotify.com/artist/66sr7J88vUI5GteXcgL5AJ) | [CLUBE DA OUCHINA](https://open.spotify.com/album/1TkPZxYESG1GVLE24oVpyH) | 3:21 | 2021-12-23 | 2022-01-28 |
 | [say it all](https://open.spotify.com/track/0oyCGXicN0nEnckVP1ADOm) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [say it all](https://open.spotify.com/album/6NAG1zrtwVkQKQgG34pf9Q) | 2:55 | 2021-12-23 | 2025-02-03 |
 | [Scintillate](https://open.spotify.com/track/0I8lF4sOSnxssc99KxcBqU) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [Scintillate](https://open.spotify.com/album/0adv9JqoGDSm3WhTL3jzcq) | 2:53 | 2025-02-09 |  |

@@ -1,6 +1,6 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 53995,
+  "num_followers": 53998,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "Bubblegum",
-        "url": "https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 279133,
-      "name": "Bubblegum",
-      "url": "https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP"
-    },
-    {
-      "added_at": "2024-05-30 15:22:47",
-      "album": {
         "name": "Blue Stone of Atlas (Piano Solo Version)",
         "url": "https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 158000,
       "name": "Blue Stone of Atlas - Piano Solo Version",
       "url": "https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF"
+    },
+    {
+      "added_at": "2024-05-30 15:22:47",
+      "album": {
+        "name": "Bubblegum",
+        "url": "https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 279133,
+      "name": "Bubblegum",
+      "url": "https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
-        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
+        "name": "fallen leaves",
+        "url": "https://open.spotify.com/album/5WACx3ToU3nizu4plI5ldW"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Koshun Nakao",
+          "url": "https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz"
         }
       ],
-      "duration_ms": 309000,
-      "name": "Faisal (London Bridge Station)",
-      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
+      "duration_ms": 151900,
+      "name": "fallen leaves",
+      "url": "https://open.spotify.com/track/0sYfmKsl5ebxiUhJHLxmeK"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "fallen leaves",
-        "url": "https://open.spotify.com/album/5WACx3ToU3nizu4plI5ldW"
+        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
+        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
       },
       "artists": [
         {
-          "name": "Koshun Nakao",
-          "url": "https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         }
       ],
-      "duration_ms": 151900,
-      "name": "fallen leaves",
-      "url": "https://open.spotify.com/track/0sYfmKsl5ebxiUhJHLxmeK"
+      "duration_ms": 309000,
+      "name": "Faisal (London Bridge Station)",
+      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1347,18 +1347,22 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "something I can't afford",
-        "url": "https://open.spotify.com/album/4wn5IouuKlkr9rJfkkGx6n"
+        "name": "Little Blue (feat. Brandi Carlile)",
+        "url": "https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa"
       },
       "artists": [
         {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 181677,
-      "name": "something i can't afford",
-      "url": "https://open.spotify.com/track/5BZyKhuOTOp4ouVRkp15k7"
+      "duration_ms": 265306,
+      "name": "Little Blue (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1383,22 +1387,18 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "Little Blue (feat. Brandi Carlile)",
-        "url": "https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa"
+        "name": "something I can't afford",
+        "url": "https://open.spotify.com/album/4wn5IouuKlkr9rJfkkGx6n"
       },
       "artists": [
         {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
         }
       ],
-      "duration_ms": 265306,
-      "name": "Little Blue (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O"
+      "duration_ms": 181677,
+      "name": "something i can't afford",
+      "url": "https://open.spotify.com/track/5BZyKhuOTOp4ouVRkp15k7"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "Mother Nature",
-        "url": "https://open.spotify.com/album/2XDn2tAwfflLVZbQqCtJ5s"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        }
-      ],
-      "duration_ms": 235644,
-      "name": "Mother Nature",
-      "url": "https://open.spotify.com/track/7FsETbTxNbbwx9KUjojpVP"
-    },
-    {
-      "added_at": "2024-05-30 15:22:47",
-      "album": {
         "name": "Delibes: Lakm\u00e9: Flower Duet (Arr. Naoumoff for Piano)",
         "url": "https://open.spotify.com/album/64w9xv7aEMPYbcI59PHm8V"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 133960,
       "name": "Lakm\u00e9: Flower Duet (Arr. Naoumoff for Piano)",
       "url": "https://open.spotify.com/track/4u0eCzsxpHtu7ESBe24cL9"
+    },
+    {
+      "added_at": "2024-05-30 15:22:47",
+      "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/2XDn2tAwfflLVZbQqCtJ5s"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "duration_ms": 235644,
+      "name": "Mother Nature",
+      "url": "https://open.spotify.com/track/7FsETbTxNbbwx9KUjojpVP"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1643,18 +1643,30 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "\u7720\u308b\u305f\u3081\u306e\u30d4\u30a2\u30ce\u30a2\u30eb\u30d0\u30e0\uff5ebeautiful sleep\uff5e",
-        "url": "https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ"
+        "name": "Haydn: Cello Concertos (Remastered)",
+        "url": "https://open.spotify.com/album/7M3Q7tG8qbEjk91laYhHIA"
       },
       "artists": [
         {
-          "name": "Shinya Kiyozuka",
-          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        },
+        {
+          "name": "Jos\u00e9-Luis Garcia",
+          "url": "https://open.spotify.com/artist/3cQxD3FIUmh3VTeXAcAaoS"
         }
       ],
-      "duration_ms": 201306,
-      "name": "\u30d1\u30c3\u30d8\u30eb\u30d9\u30eb\u306e\u30ab\u30ce\u30f3 - beautiful sleep ver.",
-      "url": "https://open.spotify.com/track/5LsS7gOqxIIdz4DVtpBi4A"
+      "duration_ms": 493800,
+      "name": "Cello Concerto No. 1 in C Major, Hob. VIIb:1: II. Adagio",
+      "url": "https://open.spotify.com/track/3cc1BpGtocKOEnROApTv8M"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1695,50 +1707,34 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "Haydn: Cello Concertos (Remastered)",
-        "url": "https://open.spotify.com/album/7M3Q7tG8qbEjk91laYhHIA"
+        "name": "\u7720\u308b\u305f\u3081\u306e\u30d4\u30a2\u30ce\u30a2\u30eb\u30d0\u30e0\uff5ebeautiful sleep\uff5e",
+        "url": "https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ"
       },
       "artists": [
         {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
-        },
-        {
-          "name": "Jos\u00e9-Luis Garcia",
-          "url": "https://open.spotify.com/artist/3cQxD3FIUmh3VTeXAcAaoS"
+          "name": "Shinya Kiyozuka",
+          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
         }
       ],
-      "duration_ms": 493800,
-      "name": "Cello Concerto No. 1 in C Major, Hob. VIIb:1: II. Adagio",
-      "url": "https://open.spotify.com/track/3cc1BpGtocKOEnROApTv8M"
+      "duration_ms": 201306,
+      "name": "\u30d1\u30c3\u30d8\u30eb\u30d9\u30eb\u306e\u30ab\u30ce\u30f3 - beautiful sleep ver.",
+      "url": "https://open.spotify.com/track/5LsS7gOqxIIdz4DVtpBi4A"
     },
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "C.P.E. Bach: The W\u00fcrttemberg Sonatas",
-        "url": "https://open.spotify.com/album/3vKrhXuvRfjXs8iLZRbJ9j"
+        "name": "How I Got Home",
+        "url": "https://open.spotify.com/album/1HHfYrWLKvMyT6HkYRL5t3"
       },
       "artists": [
         {
-          "name": "Carl Philipp Emanuel Bach",
-          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
-        },
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
         }
       ],
-      "duration_ms": 180880,
-      "name": "W\u00fcrttemberg Sonata No. 4 in B-Flat Major, H. 32: II. Andante",
-      "url": "https://open.spotify.com/track/2gNUPv9Lbvd0adulPy47tS"
+      "duration_ms": 219247,
+      "name": "How I Got Home",
+      "url": "https://open.spotify.com/track/7bZhj7qv9OpG1R5pPCxnyQ"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1763,18 +1759,22 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "How I Got Home",
-        "url": "https://open.spotify.com/album/1HHfYrWLKvMyT6HkYRL5t3"
+        "name": "C.P.E. Bach: The W\u00fcrttemberg Sonatas",
+        "url": "https://open.spotify.com/album/3vKrhXuvRfjXs8iLZRbJ9j"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "Carl Philipp Emanuel Bach",
+          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
+        },
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
         }
       ],
-      "duration_ms": 219247,
-      "name": "How I Got Home",
-      "url": "https://open.spotify.com/track/7bZhj7qv9OpG1R5pPCxnyQ"
+      "duration_ms": 180880,
+      "name": "W\u00fcrttemberg Sonata No. 4 in B-Flat Major, H. 32: II. Andante",
+      "url": "https://open.spotify.com/track/2gNUPv9Lbvd0adulPy47tS"
     }
   ],
   "unique_name": "\u9759\u5bc2\u3068\u9ec4\u660f",

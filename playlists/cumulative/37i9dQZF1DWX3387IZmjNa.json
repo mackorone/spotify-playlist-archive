@@ -1051,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "April 7",
+        "url": "https://open.spotify.com/album/1WphmRfkYVCSITY4Tu5B9p"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179487,
+      "name": "April 7",
+      "url": "https://open.spotify.com/track/1PkFOGkj1rFVEjgH8Ccj6r"
+    },
+    {
+      "album": {
         "name": "Ask (feat. A Boogie Wit da Hoodie)",
         "url": "https://open.spotify.com/album/2gMtZrMgZ3SIDETUbApfwj"
       },
@@ -3198,6 +3216,28 @@
       "duration_ms": 209563,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/3lTy4ggl7n1NSjuQV3oivf"
+    },
+    {
+      "album": {
+        "name": "Better Late Than Never",
+        "url": "https://open.spotify.com/album/5fb1mDlcTu8AnWkRBBV4fh"
+      },
+      "artists": [
+        {
+          "name": "Luh Kel",
+          "url": "https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ"
+        },
+        {
+          "name": "Seddy Hendrinx",
+          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125908,
+      "name": "Drop Me Tha Lo!",
+      "url": "https://open.spotify.com/track/3HmdjnyKt8Kz4WWQSIJIDn"
     },
     {
       "album": {
@@ -8452,7 +8492,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 221178,
       "name": "Obviously",
       "url": "https://open.spotify.com/track/1mbrQBqzxgboW2esM2Xtun"
@@ -11570,7 +11610,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 176777,
       "name": "Superstar Status",
       "url": "https://open.spotify.com/track/3ZhzMJnMGNkUT6qc9XpvkN"

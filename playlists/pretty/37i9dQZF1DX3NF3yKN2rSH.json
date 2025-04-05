@@ -1,6 +1,6 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 55380,
+  "num_followers": 55384,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,26 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
+        "name": "Something Has To Break (feat. Karen Clark Sheard)",
+        "url": "https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        }
+      ],
+      "duration_ms": 347752,
+      "name": "Something Has To Break (feat. Karen Clark Sheard)",
+      "url": "https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
         "name": "One Church",
         "url": "https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 368333,
       "name": "Oh Happy Day - Live at New Bethel Baptist Church, Detroit, MI - July 1987",
       "url": "https://open.spotify.com/track/7xaEfxxPbV1GlxNpCoDA11"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
-        "name": "Something Has To Break (feat. Karen Clark Sheard)",
-        "url": "https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
-        }
-      ],
-      "duration_ms": 347752,
-      "name": "Something Has To Break (feat. Karen Clark Sheard)",
-      "url": "https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Live in London and More ..",
-        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 318666,
-      "name": "Just For Me",
-      "url": "https://open.spotify.com/track/1vXiQHSqnhnPCZrSmvkPqG"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
         "name": "Rock Of Ages (Live)",
         "url": "https://open.spotify.com/album/2ZVALp4oOugoRpRjLLAV7S"
       },
@@ -631,22 +615,18 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Live... This Is Your House",
-        "url": "https://open.spotify.com/album/0lnscqAVc3mOhZcbrR0UPU"
+        "name": "Live in London and More ..",
+        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
       },
       "artists": [
         {
-          "name": "The Brooklyn Tabernacle Choir",
-          "url": "https://open.spotify.com/artist/4eDpQV93UILljVxohKoLUs"
-        },
-        {
-          "name": "Robin Giles",
-          "url": "https://open.spotify.com/artist/0gt7HlBDU64IOmHCo5IUn5"
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
         }
       ],
-      "duration_ms": 380866,
-      "name": "Jesus I Love You (Live)",
-      "url": "https://open.spotify.com/track/4hLaRpyVQwU3g1VggcSxPw"
+      "duration_ms": 318666,
+      "name": "Just For Me",
+      "url": "https://open.spotify.com/track/1vXiQHSqnhnPCZrSmvkPqG"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -663,6 +643,26 @@
       "duration_ms": 371493,
       "name": "Worthy Is The Lamb Slain",
       "url": "https://open.spotify.com/track/0kBssWQicwNaU5jJ547luQ"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
+        "name": "Live... This Is Your House",
+        "url": "https://open.spotify.com/album/0lnscqAVc3mOhZcbrR0UPU"
+      },
+      "artists": [
+        {
+          "name": "The Brooklyn Tabernacle Choir",
+          "url": "https://open.spotify.com/artist/4eDpQV93UILljVxohKoLUs"
+        },
+        {
+          "name": "Robin Giles",
+          "url": "https://open.spotify.com/artist/0gt7HlBDU64IOmHCo5IUn5"
+        }
+      ],
+      "duration_ms": 380866,
+      "name": "Jesus I Love You (Live)",
+      "url": "https://open.spotify.com/track/4hLaRpyVQwU3g1VggcSxPw"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Psalms, Hymns & Spiritual Songs",
-        "url": "https://open.spotify.com/album/20Ahz7xI2IFw7bdl0FE6On"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 341120,
-      "name": "Blood Medley (Part 3) - I Know It Was The Blood",
-      "url": "https://open.spotify.com/track/6qCSt56HhlnfPfIHIDYEOR"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
         "name": "Blessed By Association",
         "url": "https://open.spotify.com/album/7Mlu5erqJLuAR4zWPIEIDx"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 299586,
       "name": "At The Cross",
       "url": "https://open.spotify.com/track/0Dfrt8K6k2rUg1Jf4EbppZ"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
+        "name": "Psalms, Hymns & Spiritual Songs",
+        "url": "https://open.spotify.com/album/20Ahz7xI2IFw7bdl0FE6On"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "duration_ms": 341120,
+      "name": "Blood Medley (Part 3) - I Know It Was The Blood",
+      "url": "https://open.spotify.com/track/6qCSt56HhlnfPfIHIDYEOR"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Resilience",
-        "url": "https://open.spotify.com/album/65mjXtPcrYhjhc1JwfJTPt"
-      },
-      "artists": [
-        {
-          "name": "Brian Courtney Wilson",
-          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
-        }
-      ],
-      "duration_ms": 241413,
-      "name": "Worth Fighting For - 1 Mic 1 Take",
-      "url": "https://open.spotify.com/track/7qF4oWmfFcJZm1lWnTJB3S"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
         "name": "Then Sings My Soul",
         "url": "https://open.spotify.com/album/6iisYpnZhqiG0YV27QjJo9"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 337440,
       "name": "He Didn't Have To Do It",
       "url": "https://open.spotify.com/track/78qrs0P8o0u1MketFZ6YsV"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
+        "name": "Resilience",
+        "url": "https://open.spotify.com/album/65mjXtPcrYhjhc1JwfJTPt"
+      },
+      "artists": [
+        {
+          "name": "Brian Courtney Wilson",
+          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
+        }
+      ],
+      "duration_ms": 241413,
+      "name": "Worth Fighting For - 1 Mic 1 Take",
+      "url": "https://open.spotify.com/track/7qF4oWmfFcJZm1lWnTJB3S"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "The Cry: A Live Worship Experience",
-        "url": "https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b"
-      },
-      "artists": [
-        {
-          "name": "William McDowell",
-          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
-        },
-        {
-          "name": "Daniel Johnson",
-          "url": "https://open.spotify.com/artist/3QC3Sl9g1tArEtqPnctjCN"
-        }
-      ],
-      "duration_ms": 467186,
-      "name": "Finished Work - Live From Chattanooga, TN",
-      "url": "https://open.spotify.com/track/3jvbdyrWcjXxAXGwbubycq"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
         "name": "Live At Azusa 3",
         "url": "https://open.spotify.com/album/46cM0cBjpgC6Rwa3jD2DBj"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 436960,
       "name": "He Lives - Live",
       "url": "https://open.spotify.com/track/3H0xO1g8BdlmZKXgnqiNzA"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
+        "name": "The Cry: A Live Worship Experience",
+        "url": "https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        },
+        {
+          "name": "Daniel Johnson",
+          "url": "https://open.spotify.com/artist/3QC3Sl9g1tArEtqPnctjCN"
+        }
+      ],
+      "duration_ms": 467186,
+      "name": "Finished Work - Live From Chattanooga, TN",
+      "url": "https://open.spotify.com/track/3jvbdyrWcjXxAXGwbubycq"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Easter Project",
-        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
-      },
-      "artists": [
-        {
-          "name": "The Spirituals",
-          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
-        }
-      ],
-      "duration_ms": 273963,
-      "name": "The Resurrection",
-      "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
         "name": "Live In Detroit (Live)",
         "url": "https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 496133,
       "name": "The Old Rugged Cross",
       "url": "https://open.spotify.com/track/5aDPMyBFhThZrjRJXrrGy7"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
+        "name": "Easter Project",
+        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
+      },
+      "artists": [
+        {
+          "name": "The Spirituals",
+          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
+        }
+      ],
+      "duration_ms": 273963,
+      "name": "The Resurrection",
+      "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Common Hymnal (Live)",
-        "url": "https://open.spotify.com/album/4BClet3QGu0HwQy4KP3aCj"
-      },
-      "artists": [
-        {
-          "name": "Common Hymnal",
-          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
-        }
-      ],
-      "duration_ms": 471217,
-      "name": "The Cross Made The Change - Live",
-      "url": "https://open.spotify.com/track/6h1yHgyZgOtmFNA3iN5yuH"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
         "name": "Joshua's Troop",
         "url": "https://open.spotify.com/album/3XYaQRnY5ha54xB4x2gbgT"
       },
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Motown Gospel: 20 Years/20 Hits",
-        "url": "https://open.spotify.com/album/368XwqLQDiFFC57FAKFKcG"
+        "name": "Common Hymnal (Live)",
+        "url": "https://open.spotify.com/album/4BClet3QGu0HwQy4KP3aCj"
       },
       "artists": [
         {
-          "name": "Darwin Hobbs",
-          "url": "https://open.spotify.com/artist/6zhrnjTFJFS6bWzFtRm7aH"
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
         }
       ],
-      "duration_ms": 245301,
-      "name": "Glorify Him",
-      "url": "https://open.spotify.com/track/4jDdPGYvKht4WP69F1DPlF"
+      "duration_ms": 471217,
+      "name": "The Cross Made The Change - Live",
+      "url": "https://open.spotify.com/track/6h1yHgyZgOtmFNA3iN5yuH"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -1355,6 +1339,22 @@
       "duration_ms": 328253,
       "name": "These Nails - Live",
       "url": "https://open.spotify.com/track/3kVIUABK3lKYuXOu6d4vjl"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
+        "name": "Motown Gospel: 20 Years/20 Hits",
+        "url": "https://open.spotify.com/album/368XwqLQDiFFC57FAKFKcG"
+      },
+      "artists": [
+        {
+          "name": "Darwin Hobbs",
+          "url": "https://open.spotify.com/artist/6zhrnjTFJFS6bWzFtRm7aH"
+        }
+      ],
+      "duration_ms": 245301,
+      "name": "Glorify Him",
+      "url": "https://open.spotify.com/track/4jDdPGYvKht4WP69F1DPlF"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -1379,22 +1379,18 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Easter Project",
-        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
+        "name": "Live In Detroit (Live)",
+        "url": "https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv"
       },
       "artists": [
         {
-          "name": "The Spirituals",
-          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
-        },
-        {
-          "name": "PJ Greaves",
-          "url": "https://open.spotify.com/artist/3iTsln5dISoI8Oa1oTQswu"
+          "name": "Rev. James Moore",
+          "url": "https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN"
         }
       ],
-      "duration_ms": 429522,
-      "name": "The Crucifixion",
-      "url": "https://open.spotify.com/track/26hCJDGJpoXYMNXdQTdMYa"
+      "duration_ms": 450840,
+      "name": "Cherish The Cross",
+      "url": "https://open.spotify.com/track/7BranHqbktqdiojkd0r07A"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -1419,38 +1415,6 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Live In Detroit (Live)",
-        "url": "https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv"
-      },
-      "artists": [
-        {
-          "name": "Rev. James Moore",
-          "url": "https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN"
-        }
-      ],
-      "duration_ms": 450840,
-      "name": "Cherish The Cross",
-      "url": "https://open.spotify.com/track/7BranHqbktqdiojkd0r07A"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
-        "name": "Another Chapter, Psalms 51",
-        "url": "https://open.spotify.com/album/6GjsgwwG6Bp1t6rTXwQ6x5"
-      },
-      "artists": [
-        {
-          "name": "Parkes Stewart",
-          "url": "https://open.spotify.com/artist/3OpTYiTC0KK2TGgej8FbFh"
-        }
-      ],
-      "duration_ms": 356179,
-      "name": "He Loves Me",
-      "url": "https://open.spotify.com/track/3PAbgmt3d00mfWqz4duX13"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
         "name": "Unproduced",
         "url": "https://open.spotify.com/album/6dwg7MLMXEBpX1ArYnPJYW"
       },
@@ -1471,6 +1435,42 @@
       "duration_ms": 290432,
       "name": "Heaven's Here - Live",
       "url": "https://open.spotify.com/track/5B6mBys5g0csgDoBuKF1tZ"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
+        "name": "Easter Project",
+        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
+      },
+      "artists": [
+        {
+          "name": "The Spirituals",
+          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
+        },
+        {
+          "name": "PJ Greaves",
+          "url": "https://open.spotify.com/artist/3iTsln5dISoI8Oa1oTQswu"
+        }
+      ],
+      "duration_ms": 429522,
+      "name": "The Crucifixion",
+      "url": "https://open.spotify.com/track/26hCJDGJpoXYMNXdQTdMYa"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
+        "name": "Another Chapter, Psalms 51",
+        "url": "https://open.spotify.com/album/6GjsgwwG6Bp1t6rTXwQ6x5"
+      },
+      "artists": [
+        {
+          "name": "Parkes Stewart",
+          "url": "https://open.spotify.com/artist/3OpTYiTC0KK2TGgej8FbFh"
+        }
+      ],
+      "duration_ms": 356179,
+      "name": "He Loves Me",
+      "url": "https://open.spotify.com/track/3PAbgmt3d00mfWqz4duX13"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -1527,6 +1527,26 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
+        "name": "Easter Project",
+        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
+      },
+      "artists": [
+        {
+          "name": "The Spirituals",
+          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
+        },
+        {
+          "name": "Jason Nicholson-Porter",
+          "url": "https://open.spotify.com/artist/0J41vFW1jyQEmCDNALvGHS"
+        }
+      ],
+      "duration_ms": 356209,
+      "name": "Calvary",
+      "url": "https://open.spotify.com/track/740Q0J6Pvt1EPqDEidQm1E"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
         "name": "You Deserve It (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP"
       },
@@ -1559,26 +1579,6 @@
       "duration_ms": 500500,
       "name": "Waymaker (Live)",
       "url": "https://open.spotify.com/track/1cWzzfQCJWqhgaEVO2Ca4l"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
-        "name": "Easter Project",
-        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
-      },
-      "artists": [
-        {
-          "name": "The Spirituals",
-          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
-        },
-        {
-          "name": "Jason Nicholson-Porter",
-          "url": "https://open.spotify.com/artist/0J41vFW1jyQEmCDNALvGHS"
-        }
-      ],
-      "duration_ms": 356209,
-      "name": "Calvary",
-      "url": "https://open.spotify.com/track/740Q0J6Pvt1EPqDEidQm1E"
     },
     {
       "added_at": "2024-07-02 01:22:00",

@@ -2487,6 +2487,24 @@
     },
     {
       "album": {
+        "name": "Katilime A\u015f\u0131kt\u0131m",
+        "url": "https://open.spotify.com/album/3o1EIMxZ3Xaec4AqFRnadQ"
+      },
+      "artists": [
+        {
+          "name": "Mehmet Elmas",
+          "url": "https://open.spotify.com/artist/10BA29Asr9YbvkcBFJixDb"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135957,
+      "name": "Katilime A\u015f\u0131kt\u0131m",
+      "url": "https://open.spotify.com/track/1Okel22j5wxQ08BJtdIXGm"
+    },
+    {
+      "album": {
         "name": "Ka\u00e7ak G\u00f6\u00e7ek",
         "url": "https://open.spotify.com/album/5ckK7xIaAG6ZYxxdS6Emi5"
       },
@@ -3744,7 +3762,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 263142,
       "name": "Uyku Tutmad\u0131",
       "url": "https://open.spotify.com/track/4mOQHgIFAcVlUGg0AGA8uC"

@@ -1,18 +1,18 @@
 {
   "description": "Playlist",
-  "num_followers": 17495,
+  "num_followers": 17499,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAALz6J66hg0cLa+0q7STsiFN5wiAyCT",
+  "snapshot_id": "AAAL0rELqErVg90iJUw60MTROSnpXTif",
   "tracks": [
     {
-      "added_at": "2025-02-26 12:09:36",
+      "added_at": "2025-04-04 07:58:22",
       "album": {
-        "name": "And That's How I Got The Congas",
-        "url": "https://open.spotify.com/album/3ZzMiF0rUutGoH1Cg5ZND2"
+        "name": "Just A Dream",
+        "url": "https://open.spotify.com/album/7BuOtWZTnbpp0BHDcvfsQf"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/0soSU9eC31tES3VthvCLtU"
         }
       ],
-      "duration_ms": 173873,
-      "name": "And That's How I Got The Congas",
-      "url": "https://open.spotify.com/track/6wFVeAvNtTYGNSxbAv9EPX"
+      "duration_ms": 244628,
+      "name": "Just A Dream",
+      "url": "https://open.spotify.com/track/1SfCLFcSYptvSU1XStGFOD"
     },
     {
       "added_at": "2025-02-21 09:18:09",
@@ -171,6 +171,22 @@
       "duration_ms": 176926,
       "name": "Over When The Night Is Gone",
       "url": "https://open.spotify.com/track/4aJlY9Zlb7QpPL3uFFhpxP"
+    },
+    {
+      "added_at": "2025-02-26 12:09:36",
+      "album": {
+        "name": "And That's How I Got The Congas",
+        "url": "https://open.spotify.com/album/3ZzMiF0rUutGoH1Cg5ZND2"
+      },
+      "artists": [
+        {
+          "name": "Cool Sounds",
+          "url": "https://open.spotify.com/artist/0soSU9eC31tES3VthvCLtU"
+        }
+      ],
+      "duration_ms": 173873,
+      "name": "And That's How I Got The Congas",
+      "url": "https://open.spotify.com/track/6wFVeAvNtTYGNSxbAv9EPX"
     },
     {
       "added_at": "2024-09-20 08:56:37",

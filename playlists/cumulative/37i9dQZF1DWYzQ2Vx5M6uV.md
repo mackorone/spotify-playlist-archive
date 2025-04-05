@@ -2,9 +2,9 @@
 
 ### [Afro Ritmo](https://open.spotify.com/playlist/37i9dQZF1DWYzQ2Vx5M6uV)
 
-> Heat that will make you sweat 🥵 Cover: W Sound, Beéle, Ovy On The Drums
+> Heat that will make you sweat 🥵 Cover: Hamilton & Nanpa Básico
 
-248 songs - 12 hr 51 min
+249 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [KUIKI](https://open.spotify.com/track/47WfnYQgBp1bum5hiwJNvO) | [OMAY](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g) | [KUIKI](https://open.spotify.com/album/4g3FDHTWReLwfILC7c4MII) | 2:23 | 2025-02-28 |  |
 | [LA BUENA VIDA](https://open.spotify.com/track/0qdgnVCqA0OVzvICPrD38E) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [LA BUENA VIDA](https://open.spotify.com/album/1LZfrEY6XrYpNDaM5hsEpG) | 2:20 | 2024-09-20 | 2025-02-08 |
 | [La Elegida](https://open.spotify.com/track/2c5LwtWqquh9fVqlVbwxwe) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [La Elegida](https://open.spotify.com/album/6Ny3p7Heqf2ZzvJcosJ6nE) | 2:26 | 2025-03-07 |  |
-| [La Favorita de Mi Mama](https://open.spotify.com/track/6YBk9MOOX2DHKyuGwLvf33) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [La Favorita de Mi Mama](https://open.spotify.com/album/0DuO3Jyjb8Hr7hCrzNZRse) | 2:35 | 2025-01-31 |  |
+| [La Favorita de Mi Mama](https://open.spotify.com/track/6YBk9MOOX2DHKyuGwLvf33) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [La Favorita de Mi Mama](https://open.spotify.com/album/0DuO3Jyjb8Hr7hCrzNZRse) | 2:35 | 2025-01-31 | 2025-04-05 |
 | [La Plena \- W Sound 05](https://open.spotify.com/track/6xOEgzkMSZJKz6qtCJsQL5) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Plena \(W Sound 05\)](https://open.spotify.com/album/6mCCkmAs0Q3RNFD8dp2Pw8) | 2:30 | 2025-02-24 |  |
 | [Lento](https://open.spotify.com/track/2XghxCSGfhpGR2B3ahQXVr) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Lento](https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00) | 3:08 | 2022-02-16 | 2024-09-21 |
 | [Like A Queen \- 2023 Remasterizado](https://open.spotify.com/track/7LqBm569RxBvwKwSsyc84u) | [SAID](https://open.spotify.com/artist/23L97OPEAL99fR1xI70qVf), [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Waremu](https://open.spotify.com/album/7axGk6fGopyn8YlvKFGVKm) | 2:39 | 2023-11-24 | 2024-04-19 |
@@ -140,6 +140,7 @@
 | [MENÚ \- Radio Edit](https://open.spotify.com/track/2IHEDJAnIppmhNtkTdXItU) | [Alcover](https://open.spotify.com/artist/2PctE0f82UrDM9CR3SXXGo), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [MENÚ \(Radio Edit\)](https://open.spotify.com/album/49Jwg3DkeFDsXFNLltho36) | 2:34 | 2023-05-25 | 2023-08-11 |
 | [Mi Luz \(ft\. Rels B\)](https://open.spotify.com/track/0TkIQ2I48rz4kpk1XpfyHq) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [NASTU](https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk) | 2:48 | 2024-09-20 |  |
 | [mi refe](https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [mi refe](https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM) | 2:39 | 2024-12-06 |  |
+| [Mi Reina](https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Mi Reina](https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9) | 3:03 | 2025-04-04 |  |
 | [Midnight Boom \- with ChocQuibTown & Afro B](https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Midnight Boom \(with ChocQuibTown & Afro B\)](https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk) | 3:40 | 2022-02-16 | 2024-09-21 |
 | [Mimosas](https://open.spotify.com/track/0Z4mRtb8Uc8xASEhGUlUyI) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors](https://open.spotify.com/album/1O9JEFTFeguhO0YBbwHsMr) | 3:05 | 2022-02-16 | 2022-07-29 |
 | [Mimosas](https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors](https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox) | 3:05 | 2022-05-12 | 2024-04-19 |

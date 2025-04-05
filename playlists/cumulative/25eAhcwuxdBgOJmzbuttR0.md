@@ -4,7 +4,7 @@
 
 > I&\#x27;M ANGSTY!! I&\#x27;M ANGSTY
 
-367 songs - 1 day 0 hr 54 min
+371 songs - 1 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,8 @@
 | [10's](https://open.spotify.com/track/5qG4mrKUlmGce1FA4wGrr7) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Great Southern Trendkill](https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha) | 4:49 | 2023-03-28 |  |
 | [1x1 \(feat\. Nova Twins\)](https://open.spotify.com/track/6sIbv1oWOuma2qV907MUbk) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 3:29 | 2023-03-28 |  |
 | [2005](https://open.spotify.com/track/1JMKlrFJ28qptDhPhk2h3o) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [2005](https://open.spotify.com/album/1y8VIK1Q5ajXcuMKmapNTE) | 3:23 | 2025-03-17 |  |
+| [976\-EVIL](https://open.spotify.com/track/2YBzcZv2O6aaiKpcvKeNIp) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes \(Deluxe\)](https://open.spotify.com/album/4RQnFSkkZlA65Xxchhnaha) | 4:32 | 2025-04-04 |  |
+| [A Little Bit Harder Now](https://open.spotify.com/track/5td7LYTivVH0MXXwin8QvE) | [She Wants Revenge](https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt) | [Up and Down](https://open.spotify.com/album/5vhJlo8GF4hfoFexjo3zZu) | 2:54 | 2025-04-04 |  |
 | [A Match Into Water](https://open.spotify.com/track/54MXF9I8s3DuiQo3g0gZ5k) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:32 | 2023-06-07 |  |
 | [A.D.I.D.A.S.](https://open.spotify.com/track/0xgsyoVvRFSYvV5cdtYhX1) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 2:33 | 2023-05-18 |  |
 | [Addict \(Pop Goes Metal Cover\)](https://open.spotify.com/track/0sMFhcIvyaI97i5kjFZjHH) | [Jacob Takanashi](https://open.spotify.com/artist/3RN6BTGnOlXCU2D0rBOX4t), [Dave Capdevielle](https://open.spotify.com/artist/0h7SHjUsyFHxAQLNqb0Olz) | [Addict \(Pop Goes Metal Cover\)](https://open.spotify.com/album/7hR0EA57VfWr4ZC3TPQIkG) | 4:02 | 2023-10-30 |  |
@@ -130,6 +132,7 @@
 | [FALLINGFALLINGFALLINGFALLING](https://open.spotify.com/track/10wxiVdP3igGmTPd6ElEMZ) | [Bunny Mimi](https://open.spotify.com/artist/09wXv9Adm9JViu28oyCC08) | [WASTEWITCH](https://open.spotify.com/album/3X0vtUYEexQDQ88xJLbbIT) | 4:05 | 2024-09-13 |  |
 | [Fata Morgana](https://open.spotify.com/track/14iSCO87Qveq9UXCtN48Vm) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:21 | 2025-03-25 |  |
 | [Feiticeira](https://open.spotify.com/track/0FpYnuKYFJXHAmHbS1CycY) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 3:09 | 2023-03-29 |  |
+| [Fight Fire With Fire \(Remastered\)](https://open.spotify.com/track/0WSRrGVg1gO33MKIBPgBV2) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe Remaster\)](https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr) | 4:44 | 2025-04-04 |  |
 | [Finale](https://open.spotify.com/track/6hqys5tmolP7EU6ZNP981s) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 5:07 | 2023-03-28 |  |
 | [First It Giveth](https://open.spotify.com/track/5yprGKAwV1GSJSiATa50Ni) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 3:18 | 2023-03-28 |  |
 | [Follow You](https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:51 | 2023-03-28 |  |
@@ -231,6 +234,7 @@
 | [No Association](https://open.spotify.com/track/0lrY8m1pYczjiup6f0HhoR) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:50 | 2023-03-28 |  |
 | [No Life](https://open.spotify.com/track/0zy365BwajyyRj9NR3FVOU) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 2:47 | 2023-06-26 |  |
 | [No More Tears](https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 7:23 | 2023-10-16 |  |
+| [No Ordinary Love \- 2005 Remaster](https://open.spotify.com/track/7asm5RVOARNAXcAZP89VCQ) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Covers](https://open.spotify.com/album/7rLUzHOq0d0mRGGEIqKfli) | 5:30 | 2025-04-04 |  |
 | [No Thanks](https://open.spotify.com/track/6ypc2N42kN2yBJ7rl0adGy) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Laugh Tracks](https://open.spotify.com/album/1WDAhs6x27Am5mXxl2PL4s) | 2:16 | 2023-03-28 |  |
 | [Not Gonna Die](https://open.spotify.com/track/2jfk3m8nq5IvB35s2xIs1O) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 3:45 | 2023-10-05 |  |
 | [Nothing Else Matters](https://open.spotify.com/track/10igKaIKsSB6ZnWxPxPvKO) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/6QdCohkHKNTVoaSx1ZzitH) | 6:28 | 2023-03-28 |  |

@@ -4,7 +4,7 @@
 
 > smooth, classy, soulful 💫 the best of Jazz House, featuring berlioz
 
-89 songs - 6 hr 11 min
+95 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,9 @@
 | [As If](https://open.spotify.com/track/3QiPB7sjCdwBFbI24ewr5s) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [As If](https://open.spotify.com/album/70l9yOwA3Hrycu1Ls3Zp8k) | 2:23 | 2025-02-21 |  |
 | [at first](https://open.spotify.com/track/6ySPRb4en9GqyBJSNgxHDn) | [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs), [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [at first](https://open.spotify.com/album/7xtmLluiM3xIaAGY3fBXe0) | 2:31 | 2025-02-21 |  |
 | [AWA \- Atjazz Love Soul Mix](https://open.spotify.com/track/5Nwn75vYZCEtTf0bFNT6AT) | [Ralf Gum](https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN), [Monica Blaire](https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK), [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH) | [AWA \(Atjazz Remixes\)](https://open.spotify.com/album/1zm4B9mSGH4yLyymTZtYin) | 6:32 | 2025-02-21 |  |
+| [Barcode](https://open.spotify.com/track/4f88T1UG83f1pd3fvSssHw) | [Bård Berg](https://open.spotify.com/artist/6cj0DfbcgWVo53BtyTEH6r) | [Barcode](https://open.spotify.com/album/6J8ZbmGKSEQdknktSqrzrC) | 4:48 | 2025-04-04 |  |
 | [Belle](https://open.spotify.com/track/19MuwU5fHAmlSjqXSfILhR) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Belle](https://open.spotify.com/album/6405dSaBJmxm2tMEDaeBbz) | 2:25 | 2025-02-21 |  |
+| [Ben Days](https://open.spotify.com/track/67hs9rQxAVvq9mfyTOhPQj) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [Ben Days](https://open.spotify.com/album/4JSUbHlKDPlHJlu5CxWq8J) | 3:20 | 2025-04-04 |  |
 | [Blanc](https://open.spotify.com/track/06BAAawbsllT2PAhsqIsiJ) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Blanc](https://open.spotify.com/album/5klbjenisysJ9KqsgLm4r1) | 6:18 | 2025-02-21 |  |
 | [Blowfish](https://open.spotify.com/track/7GwwEpaKaIaOptVWDVjyKX) | [Tar Blanche](https://open.spotify.com/artist/7bEipnF8YKYRRIga66A6Xl) | [Blowfish](https://open.spotify.com/album/0RQXcwL88odlEhRiT7S6Kn) | 3:48 | 2025-03-14 |  |
 | [Boat Party](https://open.spotify.com/track/76LSTQnzVbqkJ8oC0L8sF1) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R), [Blanc](https://open.spotify.com/artist/6V9LzOosiqNwijdIFjDzYw) | [Boat Party](https://open.spotify.com/album/50LTrS38kEhwzD2Gbszn9V) | 2:55 | 2025-02-21 |  |
@@ -55,7 +57,8 @@
 | [Jealous Girl](https://open.spotify.com/track/1Thix6BaqobCQATYE7LRln) | [DJ burgerhead](https://open.spotify.com/artist/7tkCO3Cc3NEhjZ3T3PM6ar) | [Jealous Girl](https://open.spotify.com/album/2FbWwQP2riAzTktIulJrSv) | 4:00 | 2025-03-07 |  |
 | [joycelyn's dance](https://open.spotify.com/track/3z0JwddAR5GASTxnKExIw1) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [open this wall](https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA) | 3:18 | 2025-02-21 |  |
 | [Keep It Real](https://open.spotify.com/track/4YpCTAZRpNmW1EHLVrq4ur) | [Loure](https://open.spotify.com/artist/0oj4QK4zH3lghS2Oa418zZ) | [Westside Movements](https://open.spotify.com/album/07aLEJ68A2wz9em0AwnuS2) | 6:54 | 2025-02-21 |  |
-| [Little Me](https://open.spotify.com/track/5Zz7T3gOuOKwVcYqmsgQpR) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Little Me](https://open.spotify.com/album/22yrN8AV9X7bQrz8MDXr6E) | 3:39 | 2025-02-21 |  |
+| [Leather Loafers](https://open.spotify.com/track/2A1j5MzOI9xQH1godISbki) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [The Moode Life](https://open.spotify.com/album/1Weqz1h1WtlT8TCplCNBkp) | 3:42 | 2025-04-04 |  |
+| [Little Me](https://open.spotify.com/track/5Zz7T3gOuOKwVcYqmsgQpR) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Little Me](https://open.spotify.com/album/22yrN8AV9X7bQrz8MDXr6E) | 3:39 | 2025-02-21 | 2025-04-05 |
 | [Love Language](https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Love Language](https://open.spotify.com/album/70Vz3MZVPq8Lw89xK2QsS6) | 4:38 | 2025-02-21 |  |
 | [Manhattan Jazz Club](https://open.spotify.com/track/2DT4NNCNbdrELvG0Ku5wF0) | [Bootie Grove](https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3) | [Manhattan Jazz Club](https://open.spotify.com/album/2dsbWPcnKWv7HsZcH0Wb8v) | 4:34 | 2025-02-21 |  |
 | [Mari Ye Phepha \- Kedi Cruise Remix](https://open.spotify.com/track/3oFujGX5ogNeYA7Efr3AYs) | [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Stixx](https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2), [Bongo Maffin](https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ) | [Jazz Cruise Series Vol\. 1](https://open.spotify.com/album/05PU51SCYUrmmFgV6Qvmvs) | 9:58 | 2025-02-21 |  |
@@ -72,6 +75,7 @@
 | [Nobody](https://open.spotify.com/track/4lWnh8J3XsWTtG20xWFjfF) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Nobody](https://open.spotify.com/album/13UwuUtKwqvifXpghxD823) | 2:53 | 2025-02-21 |  |
 | [nyc in 1940](https://open.spotify.com/track/6loDuwmsq6fazVxqqRhmcp) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141), [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [nyc in 1940](https://open.spotify.com/album/6TM8VNhv0P9CfSf2CdNkQO) | 2:36 | 2025-02-21 |  |
 | [Open The Door](https://open.spotify.com/track/587sTcmLLNuYSSxsi9L9qP) | [French Swimming Club](https://open.spotify.com/artist/1fLuYKPiE24kgmXnRSfCU6) | [Open The Doors](https://open.spotify.com/album/5fGAXzDY3sPR1RT3aQBXUs) | 2:32 | 2025-02-21 |  |
+| [Osmose](https://open.spotify.com/track/2J2ins3k6g7XWzU4pf0mho) | [Bootie Grove](https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3) | [Cours Dillon EP](https://open.spotify.com/album/6M2gLTva9OmO1p5OxqNHoa) | 2:22 | 2025-04-04 |  |
 | [Piebald](https://open.spotify.com/track/2N6hpU8eByX5z4QBKEyEKy) | [Milan93](https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg) | [Piebald](https://open.spotify.com/album/1W7ZZyfSuQlkLvCDUu7Dn1) | 3:54 | 2025-02-28 |  |
 | [Pont des Arts](https://open.spotify.com/track/6kicsnoSgwTPWYPlxTDB2t) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n) | [Tourist \(Remastered\)](https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj) | 7:26 | 2025-02-21 |  |
 | [Quali Kalimba](https://open.spotify.com/track/67Ah3dFoFunjecD6jhEXyq) | [S\-Pazz](https://open.spotify.com/artist/1ffTeCgQT9dcVyl4Cm3M0L) | [Tales of Dancing Waters](https://open.spotify.com/album/6hHIFR6sXL9TNeNr6Cxvjd) | 4:12 | 2025-02-21 |  |
@@ -82,7 +86,9 @@
 | [Rise Up](https://open.spotify.com/track/6JT715eygcNEXD49ft9VVp) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [The Color of Sound](https://open.spotify.com/album/6hVUBys8AtFvmKGVimFVPl) | 5:03 | 2025-02-21 |  |
 | [Saw You for the First Time](https://open.spotify.com/track/44t34AtBWG4TKMF5Xc97kV) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/5OTN5IJFRgdjHsr4iaVGFo) | 6:44 | 2025-02-21 | 2025-03-22 |
 | [Shelter](https://open.spotify.com/track/1NUYg3LhwCupGjxisQTa0w) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Shelter](https://open.spotify.com/album/38cSJDqR52DWEufIBNfpqe) | 3:49 | 2025-02-21 |  |
+| [Simulacra](https://open.spotify.com/track/6uofhCrZ39bK4azqoG9naC) | [Palmate](https://open.spotify.com/artist/02mNGa8lfssm5rnhwZhVNw) | [Simulacra](https://open.spotify.com/album/7zQFTAlzMr0Gs0pKPR0txL) | 3:23 | 2025-04-04 |  |
 | [Six Am](https://open.spotify.com/track/6KsDQA0pYkNs1kiN1u9V6T) | [Earth Boys](https://open.spotify.com/artist/03CK8N8CSSPg3ZFEmkGCpR) | [Mythic Music](https://open.spotify.com/album/52N4nKcwVerlZ2xgFJurJa) | 3:24 | 2025-02-21 |  |
+| [Society's Man](https://open.spotify.com/track/6qVGWZQgaXFdC3rhT3NEOw) | [Spiral Deluxe](https://open.spotify.com/artist/2VGvrUaPzdqxyTXv9k81hw) | [The Love Pretender](https://open.spotify.com/album/02f8SRW7h97Xjn5vcTF4yr) | 7:24 | 2025-04-04 |  |
 | [Stay](https://open.spotify.com/track/2fY8kKGDEn3oOCntstJqDP) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [The Panorama Sessions, Vol\. 2](https://open.spotify.com/album/2QBW1FxFUivoffvVoiSO8J) | 6:00 | 2025-03-21 |  |
 | [Sundials](https://open.spotify.com/track/6fwIywo8F6JE8Y6GRYQlgM) | [Brawther](https://open.spotify.com/artist/6UV6mehn2Fs0ropWUpGWtI), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Sundials EP](https://open.spotify.com/album/2gUTGkvfNNYhojlNAtGm29) | 6:26 | 2025-02-21 |  |
 | [Takes Time](https://open.spotify.com/track/2aHwoje34bmunwzxhutIZA) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Takes Time](https://open.spotify.com/album/0jW9tsdoxRlkxdroh5Nyox) | 6:09 | 2025-03-07 |  |

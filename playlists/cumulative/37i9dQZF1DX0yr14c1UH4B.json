@@ -3527,6 +3527,24 @@
     },
     {
       "album": {
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/6QWU7nOEXVYDKPhg1nmYtI"
+      },
+      "artists": [
+        {
+          "name": "Brittany Broski",
+          "url": "https://open.spotify.com/artist/4bvnxCtWPHufMtiQQuT8nW"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210836,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/1Iaq7YIunBX01YljzHjdsM"
+    },
+    {
+      "album": {
         "name": "The Way I\u2019m Wired",
         "url": "https://open.spotify.com/album/67ta68xEpzq10kTo5jJfsw"
       },

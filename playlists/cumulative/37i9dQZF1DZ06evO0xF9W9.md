@@ -4,7 +4,7 @@
 
 > This is Engel Montaz\. The essential tracks, all in one playlist.
 
-71 songs - 3 hr 46 min
+72 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [A 120](https://open.spotify.com/track/4kQujiq5GIgUuQoqGZvnDA) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [A 120](https://open.spotify.com/album/1yhDAPcin6Hl2BL1TQV0kK) | 3:04 | 2024-12-17 |  |
 | [A 120 \- Discoteca](https://open.spotify.com/track/1dfTVY4CU5yCDxdpQlpTNY) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [A 120 \(discoteca\)](https://open.spotify.com/album/15ewhwJhFea1l3tqzUx6lx) | 2:24 | 2024-09-12 | 2025-02-08 |
 | [A 120 \- Version Discoteca](https://open.spotify.com/track/5LoW6EWegjAE0jBdybEWnS) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [A 120 \(Version Discoteca\)](https://open.spotify.com/album/2d2CgHfIxI3JyqbirVtvJk) | 2:24 | 2024-08-07 | 2024-09-12 |
-| [A Tu Manera](https://open.spotify.com/track/2KtX550M6HtfV2cSmRAu3e) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [A Tu Manera](https://open.spotify.com/album/15tnSlxtE1Tua2HIgmJHhG) | 4:44 | 2024-10-11 |  |
+| [A Tu Manera](https://open.spotify.com/track/2KtX550M6HtfV2cSmRAu3e) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [A Tu Manera](https://open.spotify.com/album/15tnSlxtE1Tua2HIgmJHhG) | 4:44 | 2024-10-11 | 2025-04-05 |
+| [A Tu Manera](https://open.spotify.com/track/5FFiCQigo3piRCEyj2l8sU) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [A Tu Manera](https://open.spotify.com/album/5AklCOG5R0PEysXDGtybTK) | 4:44 | 2025-04-05 |  |
 | [A tu Manera](https://open.spotify.com/track/6iqtqSo3IEntSedHHW6YPU) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [A Tu Manera](https://open.spotify.com/album/2g90mR4EDdUz0I5duVmPzn) | 4:44 | 2024-06-19 | 2024-10-11 |
 | [Actua](https://open.spotify.com/track/2fzkeMoZGcbomhMAfovg21) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Actua](https://open.spotify.com/album/59Ii7JcTRINr6G3iVsmo3b) | 3:58 | 2025-03-23 |  |
 | [Actua](https://open.spotify.com/track/5Cj9ntxxzkR1ci1qcPe7Tw) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Actua](https://open.spotify.com/album/4yroQYEsNxeBwERQ1KRqPt) | 3:58 | 2024-10-11 | 2025-03-23 |

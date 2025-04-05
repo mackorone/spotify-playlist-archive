@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,065 songs - 2 day 17 hr 25 min
+1,066 songs - 2 day 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Alter Ego \- 2020 Mix](https://open.spotify.com/track/457sndKohlwTU6dW6amBMU) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker \(10 Year Anniversary Edition\)](https://open.spotify.com/album/65BL1WmHblGCNmhzfgYEyD) | 4:49 | 2021-04-29 |  |
 | [Am I Dreaming \(Metro Boomin & A$AP Rocky, Roisee\)](https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Roisee](https://open.spotify.com/artist/5pCGvSxNNUcddlRrG0wsrY) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 4:16 | 2023-06-05 |  |
 | [Am I Your Girl](https://open.spotify.com/track/6P3BLSxIWbcWF8cNkimmLy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/1LNCdy3xZoibzDh0WllxHY) | 4:14 | 2024-10-25 |  |
+| [Am I Your Girl \- Dance Version](https://open.spotify.com/track/3tEYx8nJ0QMxRu8H43KNS6) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Am I Your Girl \(Dance Version\)](https://open.spotify.com/album/5T1EMj2aX9JBTs3rfCYvmp) | 3:28 | 2025-04-04 |  |
 | [Amazing](https://open.spotify.com/track/01UniWABhnIka7GgvzOC02) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [808s & Heartbreak](https://open.spotify.com/album/5ykOQlHaE5ZRxMibfI75YW) | 3:58 | 2022-04-14 |  |
 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 | 2022-02-14 |  |
 | [Amber](https://open.spotify.com/track/5Z4EEIaSzeRmYze3W47S1k) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 2:53 | 2022-09-11 |  |

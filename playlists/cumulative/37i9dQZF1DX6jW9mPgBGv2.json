@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "El rango m\u00e1s alto. Ellos lo tienen y lo saben. Papi Arca plantando cara.",
+  "description": "El rango m\u00e1s alto. Ellos lo tienen y lo saben. Eladio Carrion plantando cara.",
   "name": "FRONTEO",
   "tracks": [
     {
@@ -1493,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "H.I.M.",
+        "url": "https://open.spotify.com/album/6ZQICkkwdOzHuS8OHYIGxF"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130459,
+      "name": "H.I.M.",
+      "url": "https://open.spotify.com/track/1raPPxkstNnTmg6EmFCX0j"
+    },
+    {
+      "album": {
         "name": "Hallandale",
         "url": "https://open.spotify.com/album/55MsZKMznIvPjbVGafPbq5"
       },
@@ -1610,6 +1628,32 @@
       "duration_ms": 241506,
       "name": "Invicto",
       "url": "https://open.spotify.com/track/7zooAwAq4UbQGXA82G2nVv"
+    },
+    {
+      "album": {
+        "name": "JA MORANT",
+        "url": "https://open.spotify.com/album/0xZwy50WGpCnby43xDTgZ7"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "LA M RECORDS",
+          "url": "https://open.spotify.com/artist/2TsUM63Y94F6lFK0kDbM9X"
+        },
+        {
+          "name": "Yama Make Them Bounce",
+          "url": "https://open.spotify.com/artist/5w4k2ycYs8poQj5iMR7Vdu"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Ja Morant",
+      "url": "https://open.spotify.com/track/1SxOZg8hIxeEck104rwnCI"
     },
     {
       "album": {
@@ -2704,7 +2748,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 183157,
       "name": "NOVATO",
       "url": "https://open.spotify.com/track/2bcBQUFjbrsS8rq0u5PK6O"
@@ -2730,6 +2774,24 @@
       "duration_ms": 170596,
       "name": "NUNCA VOY SOLO",
       "url": "https://open.spotify.com/track/70G5uhABbR6ECqCCBxrV83"
+    },
+    {
+      "album": {
+        "name": "DON KBRN",
+        "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Ohtani",
+      "url": "https://open.spotify.com/track/7MJVcGtxARJzYfU6CIttGa"
     },
     {
       "album": {
@@ -3006,7 +3068,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 283573,
       "name": "Pinky Ring - Remix",
       "url": "https://open.spotify.com/track/4mKa1LcRNQILp6xSr9s1S0"
@@ -3144,7 +3206,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 174506,
       "name": "Quien Va a Frontiar",
       "url": "https://open.spotify.com/track/3ilZY9fbri982eVkRywGrK"
@@ -3728,7 +3790,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 177514,
       "name": "TRAPPii",
       "url": "https://open.spotify.com/track/1NnWem6HonEiI378MLLOH8"

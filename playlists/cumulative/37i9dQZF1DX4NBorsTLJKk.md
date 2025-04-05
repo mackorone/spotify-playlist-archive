@@ -4,7 +4,7 @@
 
 > 天空灰灰的、到處溼淋淋的，我們聽歌就好，先不要去感覺那些事。
 
-167 songs - 11 hr 54 min
+168 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [聽見下雨的聲音](https://open.spotify.com/track/1ZSy75jtpMG1TYcRAdr09i) | [Queen Wei](https://open.spotify.com/artist/31o2LJ3ZpFgb4WMZzC1gOR) | [聽見下雨的聲音 電影原聲帶](https://open.spotify.com/album/6UnOJ4JCuTF1tiuLz2sOXy) | 4:42 | 2023-09-20 | 2024-04-19 |
 | [聽見下雨的聲音](https://open.spotify.com/track/22NAGVzy0ctgT9E2mYMRTC) | [玩聲樂團](https://open.spotify.com/artist/75OXQk14pr8AhmV159yq85) | [VOX 2](https://open.spotify.com/album/47zpJDU5Djszna4nNVhq83) | 4:11 | 2021-11-22 |  |
 | [聽見下雨的聲音（電影主題曲）](https://open.spotify.com/track/2OOK2CFsrYsFHR4roIHett) | [Queen Wei](https://open.spotify.com/artist/31o2LJ3ZpFgb4WMZzC1gOR) | [聽見下雨的聲音](https://open.spotify.com/album/2zsHqT7FqywxoRvAvD3v0t) | 4:42 | 2021-11-22 |  |
-| [茉莉雨](https://open.spotify.com/track/46PzflyM0fehl0AtZutikH) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [新地球](https://open.spotify.com/album/4kXABOKrhJ2jKUNYGRQPr8) | 4:16 | 2021-11-22 |  |
+| [茉莉雨](https://open.spotify.com/track/46PzflyM0fehl0AtZutikH) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [新地球](https://open.spotify.com/album/4kXABOKrhJ2jKUNYGRQPr8) | 4:16 | 2021-11-22 | 2025-04-05 |
 | [藍色雨](https://open.spotify.com/track/7nS59WO3gYTDOMM0l4p6sf) | [Landy Wen](https://open.spotify.com/artist/3yMtvgD2LCo6Ws4Z08fTFj) | [藍色雨](https://open.spotify.com/album/0rxL1PxAXQ5bG4ay0V1viU) | 4:55 | 2021-11-22 |  |
 | [藍雨](https://open.spotify.com/track/6xJggWssdiq6VaFK13MXYB) | [Jacky Cheung](https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd) | [真愛 新曲 + 真正精選](https://open.spotify.com/album/2yt1DMuGmxNqy1D5uuwmwW) | 4:16 | 2021-11-22 |  |
 | [街仔路雨落袂停](https://open.spotify.com/track/1s7TLbfb6bk7Q9wuMCqb6n) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ), [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [給天王星](https://open.spotify.com/album/15FjDCRuVnJFVHiTFuj0Fp) | 4:04 | 2021-11-22 | 2022-07-25 |
@@ -153,6 +153,7 @@
 | [雨天](https://open.spotify.com/track/5tZbcQ5PYID0xB0VNblmrK) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [My Story 2006 新歌+精選](https://open.spotify.com/album/0CJT0kDrNaiSkzFp7DI98g) | 4:01 | 2021-11-22 |  |
 | [雨天](https://open.spotify.com/track/1h96VTvVSeoauuCXNSVxSk) | [戚薇](https://open.spotify.com/artist/2MOq4wdhVbkqa7TsiIrlIQ) | [我的新鮮女友](https://open.spotify.com/album/5g3u91tAuVLIGInnw7g0DA) | 4:30 | 2021-11-22 | 2022-07-24 |
 | [雨天](https://open.spotify.com/track/3cebedjB7a4qLIxSaEEgN6) | [戚薇](https://open.spotify.com/artist/2MOq4wdhVbkqa7TsiIrlIQ) | [我的新鮮女友](https://open.spotify.com/album/0Hv4D8o5NjB9f5ESB3fKZn) | 4:30 | 2023-09-20 | 2024-04-19 |
+| [雨天娃娃](https://open.spotify.com/track/7AJVLRfBCbkFWOZldHZH28) | [1976](https://open.spotify.com/artist/10IEq1exwSe2ufn6DNjQsN) | [愛的鼓勵](https://open.spotify.com/album/5OtVAaj89G2brG54ixdjsC) | 4:03 | 2024-11-21 |  |
 | [雨天小情歌](https://open.spotify.com/track/0KOR0cJj2m4hTdamWrIIXk) | [時光街樂隊](https://open.spotify.com/artist/6HiZ2Z3V35g7ssPOVm7E7D) | [雨天小情歌](https://open.spotify.com/album/4OmOrlYzGfiicoRdGVRoyM) | 4:24 | 2021-11-22 |  |
 | [雨天的尾巴 \- 滬尾小情歌](https://open.spotify.com/track/4kDhpezOgkieB3LA0xtL9C) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [陳綺貞 精選](https://open.spotify.com/album/6OEP6qEplZpiSJ4bPzQtAY) | 3:35 | 2022-09-05 | 2024-04-19 |
 | [雨天的尾巴 \- 滬尾小情歌](https://open.spotify.com/track/0KQ0XFKAPAFpLDk534H1aK) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [陳綺貞精選](https://open.spotify.com/album/7KImFSQ8P2Xy2AqqKQLkWl) | 3:35 | 2021-11-22 | 2022-07-20 |

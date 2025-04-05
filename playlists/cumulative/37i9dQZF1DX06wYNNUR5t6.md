@@ -4,7 +4,7 @@
 
 > Recent hits from all your favorite Christian Rock artists!  Cover: Lacey Sturm
 
-94 songs - 5 hr 56 min
+95 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Driftwood](https://open.spotify.com/track/2qLPxnOjFHilVIrZXZtMWQ) | [The Classic Crime](https://open.spotify.com/artist/4Y2ImQoh83EyhkbaJXmJr1) | [How to Be Human](https://open.spotify.com/album/6J9gRf2PpJL4pDsV5XwANi) | 4:21 | 2021-04-10 | 2024-11-30 |
 | [Drive](https://open.spotify.com/track/1TBujZFt2bUwq7Vy7AsiUK) | [Archers Rise](https://open.spotify.com/artist/6ApaGLSpdoD84Z3g7pKIi4) | [Drive](https://open.spotify.com/album/6EDV8HpxLYt7LWbqFMr6th) | 4:40 | 2021-04-10 |  |
 | [Drown](https://open.spotify.com/track/7gZyVkRZKKmouF54ccQ5Pi) | [Zahna](https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F) | [Red For War](https://open.spotify.com/album/4N8Wt08zGOXDRC9wyoTm1Z) | 3:27 | 2021-04-10 |  |
-| [Echoes](https://open.spotify.com/track/0iQa0axJxOqA5vlCSV3app) | [Ignite the Fire](https://open.spotify.com/artist/4xqGhP2gUWyaMMHqPU3UHj) | [Between Shadow and Solace](https://open.spotify.com/album/2IF2CZ13oq1wK51AXr0Lt6) | 4:24 | 2021-04-10 |  |
+| [Echoes](https://open.spotify.com/track/0iQa0axJxOqA5vlCSV3app) | [Ignite the Fire](https://open.spotify.com/artist/4xqGhP2gUWyaMMHqPU3UHj) | [Between Shadow and Solace](https://open.spotify.com/album/2IF2CZ13oq1wK51AXr0Lt6) | 4:24 | 2021-04-10 | 2025-04-05 |
 | [End of Days](https://open.spotify.com/track/40H69bQi9Mdu6TMGPXYreU) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [End of Days](https://open.spotify.com/album/4K5N1UTXyYcrFPmRwM9wqc) | 4:20 | 2024-07-04 | 2024-11-30 |
 | [Flicker](https://open.spotify.com/track/3VUpcKoeWMDn4SjgE0RiWA) | [Theocracy](https://open.spotify.com/artist/627g4H0WzOhvuRRsbdBR6T) | [Mosaic](https://open.spotify.com/album/5EL0L9rYE8pc1ZHpK0Vsem) | 3:58 | 2024-07-04 |  |
 | [Foreigner](https://open.spotify.com/track/550uiBzwI7c0mrtHpZMrY7) | [LEDGER](https://open.spotify.com/artist/3OuIyI0FYMUZtINxhQVCL3) | [LEDGER EP](https://open.spotify.com/album/4F8Wv1pdbgLiAOajJmZbA1) | 3:57 | 2021-04-10 |  |
@@ -53,6 +53,7 @@
 | [Into the Night](https://open.spotify.com/track/0YhY80vK0EXnfKqWQROSHV) | [Ignescent](https://open.spotify.com/artist/6PQENi26ZkXCUo1ksPJ7mm) | [Into the Night](https://open.spotify.com/album/4EeZaYHOvgQUoKTRH0Iueu) | 3:34 | 2021-04-10 | 2024-07-04 |
 | [It Is Finished](https://open.spotify.com/track/6hmTv34PvjSgSJIQRUhsnw) | [Sean Rodriguez](https://open.spotify.com/artist/2ifliJZxSO9sNpZY4ItwPY), [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [It Is Finished](https://open.spotify.com/album/1yI817nUEoU91SOVMv8p9W) | 4:10 | 2025-02-07 |  |
 | [Legendary](https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:04 | 2021-04-10 | 2024-07-04 |
+| [LION](https://open.spotify.com/track/0VkbvqI6XzzXSL7fQKWBPA) | [Peyton Parrish](https://open.spotify.com/artist/62uiaKAdkbY94iXJnXyKzc) | [LION](https://open.spotify.com/album/1CqzOm3jFgTGK2qrMPYknL) | 5:43 | 2025-04-04 |  |
 | [Lost Light](https://open.spotify.com/track/3EIvig8BraPoKYhQ9lzDNI) | [Ashes Remain](https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO) | [Lost Light](https://open.spotify.com/album/5FL4Jj4XwmZnWtHV8FhXs9) | 3:52 | 2024-11-29 |  |
 | [Misery Game](https://open.spotify.com/track/5ZBrH7WW2KtSg7WxGu794E) | [Glasslands](https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy) | [Misery Game](https://open.spotify.com/album/4WEWiaNSX8wxfQfL276fHb) | 3:09 | 2021-04-10 | 2024-07-04 |
 | [More Than Bones](https://open.spotify.com/track/6YPopUgTLk3LaISL9cDAPm) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Peace](https://open.spotify.com/album/4Y1MriICUHdg43Z30CBuxp) | 4:15 | 2021-04-10 | 2024-07-04 |

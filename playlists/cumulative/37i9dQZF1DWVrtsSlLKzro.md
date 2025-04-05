@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-379 songs - 22 hr 24 min
+380 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [The Way You Had Me](https://open.spotify.com/track/0FYWktQGzoRXziTRhx25zS) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [The Way You Had Me](https://open.spotify.com/album/1hqh886eKNsGirbCiY6zri) | 3:10 | 2023-08-28 |  |
 | [Think That You Should Know](https://open.spotify.com/track/3xtGtIKWBcxrqxZD6YbB9I) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Think That You Should Know](https://open.spotify.com/album/1xAPTsCJ6nmuNiP7vVemlr) | 2:54 | 2024-09-06 |  |
 | [To Last](https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [To Last](https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB) | 2:56 | 2022-11-11 | 2024-04-19 |
+| [To Love Again](https://open.spotify.com/track/52tlNyruZmDlFIviY0nqrg) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [To Love Again](https://open.spotify.com/album/72kTximzJov9lBqocYYphE) | 3:48 | 2025-04-04 |  |
 | [Treading Water](https://open.spotify.com/track/4b7pT27gKEESHwnffFMDUp) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Treading Water](https://open.spotify.com/album/20ZPAqgm26vHBDt3S6oRLu) | 3:37 | 2022-08-12 | 2024-12-14 |
 | [Trust Issues](https://open.spotify.com/track/5nAcDjHi1Sn9d24ZPwYpZc) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Adam Pearce](https://open.spotify.com/artist/0AhdWP01wLAKxDfhsKMEKf), [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [Trust Issues](https://open.spotify.com/album/1l3DW3iuvlS7uxxhxjAWoF) | 3:02 | 2022-03-04 | 2024-12-14 |
 | [Under The Sun \- Lavern Remix / Edit](https://open.spotify.com/track/2C2cLOJrIDaQz6rNpBBRSP) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn), [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Under The Sun](https://open.spotify.com/album/09z21xsnQoPVYWIQuXjPXI) | 2:29 | 2024-08-09 |  |

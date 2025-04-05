@@ -1,6 +1,6 @@
 {
   "description": "Feel good, high energy beats to keep you motivated for that every day workout!",
-  "num_followers": 135349,
+  "num_followers": 135382,
   "original_name": "Gym Beats",
   "owner": {
     "name": "Spotify",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-07-24 13:57:08",
       "album": {
-        "name": "Roots EP, Pt. 1",
-        "url": "https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Hijos De La Noche",
-      "url": "https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5"
-    },
-    {
-      "added_at": "2024-07-24 13:57:08",
-      "album": {
         "name": "Good Morning",
         "url": "https://open.spotify.com/album/3NAnf9IjYQYxLXEPxMdnuC"
       },
@@ -1195,22 +1179,38 @@
     {
       "added_at": "2024-07-24 13:57:08",
       "album": {
-        "name": "Happier (Ti\u00ebsto\u2019s AFTR:HRS Remix)",
-        "url": "https://open.spotify.com/album/5GpwroXObdnETiIpVb1l23"
+        "name": "Roots EP, Pt. 1",
+        "url": "https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
         }
       ],
       "duration_ms": 216000,
-      "name": "Happier - Ti\u00ebsto\u2019s AFTR:HRS Remix",
-      "url": "https://open.spotify.com/track/1uuUnsWpJwqBh5GRQ8uxla"
+      "name": "Hijos De La Noche",
+      "url": "https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5"
+    },
+    {
+      "added_at": "2024-07-24 13:57:08",
+      "album": {
+        "name": "Twist in My Sobriety",
+        "url": "https://open.spotify.com/album/1FhwuPzJ4JtlCRHqDlMmls"
+      },
+      "artists": [
+        {
+          "name": "Sono",
+          "url": "https://open.spotify.com/artist/7vBGVjjUKLWS8zLNSYwVVC"
+        },
+        {
+          "name": "Sans Souci",
+          "url": "https://open.spotify.com/artist/659AKqao14TDh7PNu5qDIZ"
+        }
+      ],
+      "duration_ms": 192396,
+      "name": "Twist in My Sobriety - Sans Souci Remix Edit",
+      "url": "https://open.spotify.com/track/3Y8JxJlJZ6GTjGcT7qac9b"
     }
   ],
   "unique_name": "Gym Beats",

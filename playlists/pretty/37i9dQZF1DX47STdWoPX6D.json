@@ -1,13 +1,541 @@
 {
-  "description": "The latest and the greatest of CHH!  Cover: 1K Phew",
-  "num_followers": 25636,
+  "description": "The latest and the greatest of CHH!  Cover: Torey D'Shaun & Ty Brasel",
+  "num_followers": 25674,
   "original_name": "The Blaze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+GvBwAAAAC+DETsIjq52bbnsjR2SVQJ",
+  "snapshot_id": "Z+9ZXAAAAAA/Lh5tAaAnJl95PnVzMe+I",
   "tracks": [
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "2 Major",
+        "url": "https://open.spotify.com/album/7opILR5fivGIZoHoH8sROn"
+      },
+      "artists": [
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        },
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+        }
+      ],
+      "duration_ms": 138857,
+      "name": "2 Major",
+      "url": "https://open.spotify.com/track/1OFAjnS59a3QKIZD7ovz5h"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "Chill Guy",
+        "url": "https://open.spotify.com/album/04LFfVfjSNwZB8aPeo6KLe"
+      },
+      "artists": [
+        {
+          "name": "Y Shadey",
+          "url": "https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t"
+        }
+      ],
+      "duration_ms": 108169,
+      "name": "Chill Guy",
+      "url": "https://open.spotify.com/track/6m8NA34YNBU2mflzwA7ckI"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "PLANET HOLLYWOOD",
+        "url": "https://open.spotify.com/album/5p0s8u3ucxXuL0MOqrI7WA"
+      },
+      "artists": [
+        {
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
+        },
+        {
+          "name": "Wordsplayed",
+          "url": "https://open.spotify.com/artist/0AKzJfX9rdEu8WOqeBLEaO"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "PLANET HOLLYWOOD",
+      "url": "https://open.spotify.com/track/1IaKa7QefUGCpvmcVQ0XUS"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "Spirit Rich",
+        "url": "https://open.spotify.com/album/4jDaCHNKQHoHUO905d9Wvl"
+      },
+      "artists": [
+        {
+          "name": "Tylynn",
+          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
+        },
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 159183,
+      "name": "Spirit Rich",
+      "url": "https://open.spotify.com/track/2c299IzzVhir4EsPswCJyz"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "Pillar of Salt",
+        "url": "https://open.spotify.com/album/5CD9y5eyWRurqGjLdxLWAH"
+      },
+      "artists": [
+        {
+          "name": "LANELL GRANT",
+          "url": "https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "Pillar of Salt",
+      "url": "https://open.spotify.com/track/1YZAvulxHxdy2dXUCBYUBS"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "HOL' UP",
+        "url": "https://open.spotify.com/album/7F8XJNeWKX68kjHzBVxjBu"
+      },
+      "artists": [
+        {
+          "name": "Fern",
+          "url": "https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp"
+        }
+      ],
+      "duration_ms": 130597,
+      "name": "HOL' UP",
+      "url": "https://open.spotify.com/track/1KF7pX4XytgfwvPH2abVQZ"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "Active",
+        "url": "https://open.spotify.com/album/1f4WMv4C2o55G4pmuQUXtS"
+      },
+      "artists": [
+        {
+          "name": "Kalin Jones",
+          "url": "https://open.spotify.com/artist/23tU34lsC0XXbswQe1rP78"
+        },
+        {
+          "name": "Stevie Rizo",
+          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
+        }
+      ],
+      "duration_ms": 148346,
+      "name": "Active",
+      "url": "https://open.spotify.com/track/04uK5hnufrire9Ncxx9WUk"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "Glory 2 God",
+        "url": "https://open.spotify.com/album/5xjmFfZ1phxgTCPWeDWZZr"
+      },
+      "artists": [
+        {
+          "name": "HL Wave",
+          "url": "https://open.spotify.com/artist/1bqrqSeWJyuwoW91townnc"
+        },
+        {
+          "name": "Taylor Wells",
+          "url": "https://open.spotify.com/artist/5N8yHPMJtGvA5dxeIEqu6O"
+        },
+        {
+          "name": "K Diamond",
+          "url": "https://open.spotify.com/artist/3Z05XjRD1rwENNxCaJgvJL"
+        }
+      ],
+      "duration_ms": 135585,
+      "name": "Glory 2 God",
+      "url": "https://open.spotify.com/track/4SN42abn5OY7JDlPZRvTOd"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "JIMMY NEWTRON",
+        "url": "https://open.spotify.com/album/7aX7QAJFvLma89TtEtIrIc"
+      },
+      "artists": [
+        {
+          "name": "Josh P",
+          "url": "https://open.spotify.com/artist/3f03K9zrGM5kfeNwj57OYJ"
+        }
+      ],
+      "duration_ms": 134426,
+      "name": "JIMMY NEWTRON",
+      "url": "https://open.spotify.com/track/2ScaSZVzLC6GdrZXH0w8JO"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "JERICHO",
+        "url": "https://open.spotify.com/album/5LaHM5d5fvjRJ97GQhBdvf"
+      },
+      "artists": [
+        {
+          "name": "gio.",
+          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+        },
+        {
+          "name": "Dell Mac",
+          "url": "https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl"
+        },
+        {
+          "name": "LOGE",
+          "url": "https://open.spotify.com/artist/30Qk0xWOa5BOa4ARg9gY1x"
+        }
+      ],
+      "duration_ms": 164129,
+      "name": "masterpiece",
+      "url": "https://open.spotify.com/track/3KfzwglHt2AS1UB9bZgagk"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "PASSIONATE",
+        "url": "https://open.spotify.com/album/2clEdPUvgRj9Gqy043PLAj"
+      },
+      "artists": [
+        {
+          "name": "Ryce",
+          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
+        }
+      ],
+      "duration_ms": 152842,
+      "name": "PASSIONATE",
+      "url": "https://open.spotify.com/track/1xWNuAcLnTnAxc9eWcdjVA"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/00TLUWq9q6hYBai0CEpnsH"
+      },
+      "artists": [
+        {
+          "name": "DizzyEight",
+          "url": "https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV"
+        },
+        {
+          "name": "Mix Williams",
+          "url": "https://open.spotify.com/artist/57nUwRGHVrqCqJZXnNUumO"
+        }
+      ],
+      "duration_ms": 213331,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/5EIOnuXcoxzVf7qF0AIa4Z"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "Anike (formerly Wande): The Rap Pack",
+        "url": "https://open.spotify.com/album/1yvDuuaDhznzTmytT6MnKw"
+      },
+      "artists": [
+        {
+          "name": "Anike",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        },
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "Queen Lee",
+          "url": "https://open.spotify.com/artist/0ESxKUSobqG0GkLrxg77XS"
+        }
+      ],
+      "duration_ms": 156992,
+      "name": "JESUS MUZIK II",
+      "url": "https://open.spotify.com/track/5tRNZBnDRIJPCLGn4tw7tZ"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "NOT TOO LATE",
+        "url": "https://open.spotify.com/album/52QukmZ1D0rzDhjCbk2csH"
+      },
+      "artists": [
+        {
+          "name": "Saint James",
+          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
+        }
+      ],
+      "duration_ms": 95483,
+      "name": "NOT TOO LATE",
+      "url": "https://open.spotify.com/track/3KX1QbX42abrGiaHnMicJ8"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "No Remorse",
+        "url": "https://open.spotify.com/album/1k80oIJuo8cIP7YLFYrfO6"
+      },
+      "artists": [
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 202714,
+      "name": "No Remorse",
+      "url": "https://open.spotify.com/track/27SV91JVfJNMvvDoCu5IM7"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "Win",
+        "url": "https://open.spotify.com/album/4FrxYTR2fBc2BGvo0UqhLl"
+      },
+      "artists": [
+        {
+          "name": "Legin",
+          "url": "https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Win",
+      "url": "https://open.spotify.com/track/06WAmewPJcdGgVF3hUDMhP"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/6PMvEwOieruF2FfSRgXpe2"
+      },
+      "artists": [
+        {
+          "name": "Rio 24k",
+          "url": "https://open.spotify.com/artist/6VLGDCGey64ClZ2qsWusGv"
+        }
+      ],
+      "duration_ms": 153360,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/05DNXqcrCm3MwqMFg5TBRy"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "KEEP GOIN",
+        "url": "https://open.spotify.com/album/7CMyxd0bgCOaV3UMVkizpx"
+      },
+      "artists": [
+        {
+          "name": "Tommy Zuko",
+          "url": "https://open.spotify.com/artist/6GEZnFo9mFSItpAWzswBpT"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "KEEP GOIN",
+      "url": "https://open.spotify.com/track/7JiUCSSulfaJJEKWiZjVNG"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "Streets Hurtin",
+        "url": "https://open.spotify.com/album/0RnK4rVeV5AY2s8CkWQgCf"
+      },
+      "artists": [
+        {
+          "name": "Lalo G Alvarez",
+          "url": "https://open.spotify.com/artist/4FOIn04QOhWXUE0IatYeHT"
+        },
+        {
+          "name": "ASAP Preach",
+          "url": "https://open.spotify.com/artist/32Sk85U3n2U9ji9PxvGAUC"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "Streets Hurtin",
+      "url": "https://open.spotify.com/track/4P9kE2DjXbraBFDFNUaJYL"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "This My Life",
+        "url": "https://open.spotify.com/album/3kJ7UD3nohN2Ycouvjs8yX"
+      },
+      "artists": [
+        {
+          "name": "George.Rose",
+          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
+        }
+      ],
+      "duration_ms": 105506,
+      "name": "This My Life",
+      "url": "https://open.spotify.com/track/0JtGmCYNwAu4T2nXLnYOAx"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "God's Not Dead",
+        "url": "https://open.spotify.com/album/2pOIIKgkeJkVcEIYB6ASru"
+      },
+      "artists": [
+        {
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+        },
+        {
+          "name": "Futuristic",
+          "url": "https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p"
+        }
+      ],
+      "duration_ms": 225911,
+      "name": "God's Not Dead",
+      "url": "https://open.spotify.com/track/6HoGwxMcj9Ik3Qd7zdakaI"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "SOMEWHERE ALONG THE WAY!",
+        "url": "https://open.spotify.com/album/0dCO13ugHmJcZuy0oA24Lo"
+      },
+      "artists": [
+        {
+          "name": "DJ Mykael V",
+          "url": "https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt"
+        },
+        {
+          "name": "350",
+          "url": "https://open.spotify.com/artist/7tLS8BRv5KP3jPwm3KdsPl"
+        }
+      ],
+      "duration_ms": 131245,
+      "name": "RA!D",
+      "url": "https://open.spotify.com/track/6aJEo81YAXIXTLXwNqgBQ5"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "U GOT ME",
+        "url": "https://open.spotify.com/album/2Xage6CiXMw71AjpDyZLN4"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 151762,
+      "name": "U GOT ME",
+      "url": "https://open.spotify.com/track/3EEcywDk1AdrEIq2BoN4QF"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "GO!",
+        "url": "https://open.spotify.com/album/2IS1Yc5Px9wXkh6BrHNTbU"
+      },
+      "artists": [
+        {
+          "name": "Don Ready",
+          "url": "https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl"
+        },
+        {
+          "name": "DKG KIE",
+          "url": "https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "GO!",
+      "url": "https://open.spotify.com/track/1b6vEMg6H8lq7Uhlpl7BkH"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "XXL",
+        "url": "https://open.spotify.com/album/3AZmk0wJrnimo97x6r5lHP"
+      },
+      "artists": [
+        {
+          "name": "KRL",
+          "url": "https://open.spotify.com/artist/6uGM4D4a4e8RG0qdplrSQS"
+        },
+        {
+          "name": "Kidd Lee",
+          "url": "https://open.spotify.com/artist/0M120oS8JMyuyba6YoweKS"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "XXL",
+      "url": "https://open.spotify.com/track/6coMdDIRQrDzGmEHoBdvKs"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "God's Not Dead",
+        "url": "https://open.spotify.com/album/7eWvgPMLOcZw9RCDnqZ43E"
+      },
+      "artists": [
+        {
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+        },
+        {
+          "name": "Futuristic",
+          "url": "https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p"
+        }
+      ],
+      "duration_ms": 226197,
+      "name": "God's Not Dead",
+      "url": "https://open.spotify.com/track/0dtsFbNufRqKiVtoCEvcpr"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "Victory! x2",
+        "url": "https://open.spotify.com/album/5h3flq9U8vBUgEPUmTUrY3"
+      },
+      "artists": [
+        {
+          "name": "Angie Rose",
+          "url": "https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX"
+        },
+        {
+          "name": "DKG KIE",
+          "url": "https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA"
+        },
+        {
+          "name": "Toyalove",
+          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "VICTORY! x2",
+      "url": "https://open.spotify.com/track/7xg47V004ta0jsQevsJka5"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/6uS4vIjAt6YQ4CToA48KOQ"
+      },
+      "artists": [
+        {
+          "name": "CJ Emulous",
+          "url": "https://open.spotify.com/artist/5Jgv9sRXt4V3TwSU1H41eQ"
+        },
+        {
+          "name": "GAWVI",
+          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
+        }
+      ],
+      "duration_ms": 201971,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/5xZZLh7mOskUp56AWlyzMJ"
+    },
     {
       "added_at": "2025-03-24 19:14:15",
       "album": {
@@ -2026,6 +2554,10 @@
         {
           "name": "Brenno",
           "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
+        },
+        {
+          "name": "K Diamond",
+          "url": "https://open.spotify.com/artist/3Z05XjRD1rwENNxCaJgvJL"
         },
         {
           "name": "Canon",

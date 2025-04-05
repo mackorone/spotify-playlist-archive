@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40TymUMoWoqMrIV7VBRRAn">Jotta A</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 462 likes - 52 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 463 likes - 52 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 42 | [Então Ora, Igreja](https://open.spotify.com/track/06Dt8u7ZFbnPMIWJdmY8QB) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Como o Céu Te Adora](https://open.spotify.com/album/1nx5w8zaBOoihVeszMVpGF) | 5:36 |
 | 43 | [Pájaro de Acero](https://open.spotify.com/track/4ZKcSMonbfKvy9owujzpt9) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [Noel, Vol\. 1](https://open.spotify.com/album/5Th7I3iwBjTyLLiryvhaqk) | 3:29 |
 | 44 | [Multidão](https://open.spotify.com/track/3sSJJfvqp9Lv1CNPWTETsv) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Bulla Beatz](https://open.spotify.com/artist/5KpnynCVA9MKJIqQFPnN7C) | [Noel, Vol\. 1](https://open.spotify.com/album/5Th7I3iwBjTyLLiryvhaqk) | 3:16 |
-| 45 | [DEUS DO SAMBA](https://open.spotify.com/track/051O8dVhPtrYutlzjsM55A) | [Bruna de Paula](https://open.spotify.com/artist/2XJDdlk2Dcn3REYUBkCr9Y), [LONDU](https://open.spotify.com/artist/5yoxOZdS49jlMH8zbJOu4q), [Xande De Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [DEUS DO SAMBA](https://open.spotify.com/album/2tLFTsCJgqKZud2qazqXql) | 2:48 |
+| 45 | [DEUS DO SAMBA](https://open.spotify.com/track/051O8dVhPtrYutlzjsM55A) | [Bruna de Paula](https://open.spotify.com/artist/2XJDdlk2Dcn3REYUBkCr9Y), [LONDU](https://open.spotify.com/artist/5yoxOZdS49jlMH8zbJOu4q), [Xande de Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [DEUS DO SAMBA](https://open.spotify.com/album/2tLFTsCJgqKZud2qazqXql) | 2:48 |
 | 46 | [Viento y Fuego](https://open.spotify.com/track/5G9vADNELif86MhpMfJsj5) | [ICC Worship](https://open.spotify.com/artist/78dYVP5riNvP1gSUMrir80), [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Viento y Fuego](https://open.spotify.com/album/1gwEQd1JAuVzFmyNuhJxxa) | 5:19 |
 | 47 | [Luz del Mundo](https://open.spotify.com/track/4g62y55eG0bqSWmssbUAC2) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Andreas Moss](https://open.spotify.com/artist/2g6nfqSFo2cPVrafnW85jm) | [Noel, Vol\. 1](https://open.spotify.com/album/5Th7I3iwBjTyLLiryvhaqk) | 4:25 |
 | 48 | [Mãe](https://open.spotify.com/track/4EDqnS8xzv7cErqgl7e8tw) | [Ella](https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA) | [Mãe](https://open.spotify.com/album/5MQOsikb3BzuBsXRTe0I7j) | 3:19 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 51 | [Promessas](https://open.spotify.com/track/0DG8rlv4qfOU2YbdttWHLy) | [Lais Souza](https://open.spotify.com/artist/1gbps42EklltqqNRUb88gx) | [Promessas](https://open.spotify.com/album/7od6KkiUWFK2Qx3iHTRunC) | 4:45 |
 | 52 | [O Protagonista](https://open.spotify.com/track/5FrLfHABHDRUvqNP8hWGCr) | [Cris Alves](https://open.spotify.com/artist/2W4yNmbDdeKdCuQSlP9H8o) | [O Protagonista](https://open.spotify.com/album/3ww6ExGunZagBV8FJRzyw4) | 2:49 |
 
-Snapshot ID: `Abt0iAAAAABqpZPJMuDV7ZfkOul+g8OB`
+Snapshot ID: `Abt6HgAAAAAFRcUdK+a0kDXqA8B8riga`

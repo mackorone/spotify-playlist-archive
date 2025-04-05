@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 
 ### [Furry Radio](https://open.spotify.com/playlist/3DkoXgQ0hZhKSNaeqCQZqZ)
 
-> The playlist made for furries, by furries\.  Request @ spotify.furrest.online
+> All songs made for furries, by furries\.  Request @ spotify.furrest.online
 
-[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 542 likes - 327 songs - 17 hr 22 min
+[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 543 likes - 327 songs - 17 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -336,4 +336,4 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 | 326 | [Lone Skater](https://open.spotify.com/track/0vzIdVmpB0rSfGJROfIBLM) | [Coyotlito](https://open.spotify.com/artist/1F7KNLune1lzFAFya3FB2R), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Lone Skater](https://open.spotify.com/album/3sZBlDT9gNYi6YCDP5PvkN) | 3:44 |
 | 327 | [THE ANSWER](https://open.spotify.com/track/1WAjkenGGMIGhDL6bK5BRn) | [♥ GOJII ♥](https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY) | [IN THE DARK / THE ANSWER](https://open.spotify.com/album/5XFda23kFtFtWgGSAU1NaK) | 3:50 |
 
-Snapshot ID: `AAADZVbQgyI+cBmSPQNRdqAsNyUYnKgC`
+Snapshot ID: `AAADcMC0MqlDxKDouQq7CBxkfR+8UtRK`

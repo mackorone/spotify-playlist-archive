@@ -4,7 +4,7 @@
 
 > Dead dove, don&\#x27;t eat
 
-56 songs - 3 hr 21 min
+58 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Birthday Party](https://open.spotify.com/track/7hBRNyuEkGR4qj5nTDGTry) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Neotheater](https://open.spotify.com/album/02tIakRsIFGW8sO4pBtJgj) | 3:43 | 2024-12-12 |  |
 | [Born2Run](https://open.spotify.com/track/66Dvkzi4HyhKRJsBoOzQVa) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Born2Run](https://open.spotify.com/album/0zdCLnsn9pHHgxEMNEFjR7) | 2:34 | 2024-01-17 |  |
 | [Casey Jones \(The Union Scab\)](https://open.spotify.com/track/6h54Z2xhKwPKDI4yfv4dGA) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [If I Had a Hammer: Songs of Hope and Struggle](https://open.spotify.com/album/21k0wecYa9yprQ937HR62H) | 1:58 | 2024-09-16 |  |
+| [Changes](https://open.spotify.com/track/00i2HU7TEzzftShjRrDSEF) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Talent](https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T) | [The Best of 2Pac](https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I) | 4:28 | 2025-04-04 |  |
 | [Color in Your Cheeks](https://open.spotify.com/track/7MLJb6r8yWftfsGmR0Qbiy) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Hail West Texas \(Remastered\)](https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K) | 2:40 | 2024-12-07 |  |
 | [Feed the Machine](https://open.spotify.com/track/40wmXUgVB0N5eLK8CuOhm3) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Feed the Machine](https://open.spotify.com/album/0lKGADKI9s71jBqJe5xYhn) | 3:03 | 2023-10-30 |  |
 | [Fortunate Son](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:20 | 2023-12-01 |  |
@@ -55,6 +56,7 @@
 | [The Miracle \- 2014 Remaster](https://open.spotify.com/track/3Sbt92GMjniiWnsoGIO3zb) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Forever \(Deluxe Edition\)](https://open.spotify.com/album/2nTP7Q6V06ATrZ2A4vUWo1) | 4:57 | 2023-03-21 |  |
 | [The White Collar Holler](https://open.spotify.com/track/4gOLr8nLhVf6JxEZsjpCiC) | [Stan Rogers](https://open.spotify.com/artist/3cS04S9ChhEClgDghrhOzg) | [Between The Breaks Live!](https://open.spotify.com/album/72wsYn92bmcNFwR9M6he9f) | 2:38 | 2023-04-02 |  |
 | [This Is America](https://open.spotify.com/track/0b9oOr2ZgvyQu88wzixux9) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [This Is America](https://open.spotify.com/album/7arx9qPJexCsDz67El4qvk) | 3:45 | 2024-01-02 |  |
+| [Trapped](https://open.spotify.com/track/6DT5d8o7ojxXs1dKwLXRRp) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [The Best of 2Pac](https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I) | 4:44 | 2025-04-04 |  |
 | [United Health](https://open.spotify.com/track/0YoYJw5URPqnGdOSnpeNnT) | [Jesse Welles](https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ) | [United Health](https://open.spotify.com/album/2bkCyzxi7IglkqjaeZrarS) | 1:41 | 2024-12-13 |  |
 | [We Didn't Start the Fire](https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Storm Front](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) | 4:47 | 2024-09-16 |  |
 | [White Man \- Remastered 2011](https://open.spotify.com/track/1a5i9DEL8vDyhz4McUgHQ5) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races](https://open.spotify.com/album/4kmYoWtWvAIS43KwGuRb50) | 4:58 | 2023-03-21 |  |

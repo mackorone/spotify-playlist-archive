@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-519 songs - 1 day 5 hr 20 min
+521 songs - 1 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 | 2022-06-03 | 2024-08-23 |
 | [Amarrados](https://open.spotify.com/track/2VQs7EuamXdesJdZ7WMZdo) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Tanta Mentira](https://open.spotify.com/album/5GnCrMgngU8v3fNCAOTV7f) | 3:13 | 2022-01-07 | 2023-03-03 |
 | [Amarte así](https://open.spotify.com/track/5Ux4iUz2HLUWWG7rVAbp3q) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Amarte así](https://open.spotify.com/album/1SgZr0SIPsnmptk29udjub) | 3:35 | 2023-06-23 | 2023-08-31 |
+| [Amigos](https://open.spotify.com/track/6a5vbABXHEmTbxXWqwmtRa) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Amigos](https://open.spotify.com/album/278YtS4MBG442HPw7PVir5) | 3:08 | 2025-04-04 |  |
 | [Amor Amor](https://open.spotify.com/track/26c4FxlTwUr202Cl9k07gV) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Antibióticx](https://open.spotify.com/album/5s8iUnO355PDLfFjSVEDGa) | 4:15 | 2022-01-07 | 2022-07-28 |
 | [Amor Amor](https://open.spotify.com/track/5ateXRsQ82PGxSBDndHD88) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Antibióticx](https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02) | 4:15 | 2022-07-15 | 2023-10-06 |
 | [Amor de Instagramer](https://open.spotify.com/track/68uEhhNIxXd9caeJOAg7CD) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [Amor de Instagramer](https://open.spotify.com/album/403E3f7J7qzbSo8ZmG76hF) | 2:27 | 2022-04-01 | 2024-08-23 |
@@ -135,7 +136,7 @@
 | [Debajo de la Superficie](https://open.spotify.com/track/4xs3x5ZAYHHFyxe9PcgeMl) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Debajo de la Superficie](https://open.spotify.com/album/2KsAVCC3dduno7Nf96PEGj) | 4:38 | 2022-01-28 | 2022-07-19 |
 | [Decis Que No](https://open.spotify.com/track/6gS0H9il78eIK2XgpscZgm) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Decis Que No](https://open.spotify.com/album/2TNSW6V3rsuKEf9S0PQACC) | 3:26 | 2022-01-28 | 2022-07-20 |
 | [Decírtelo](https://open.spotify.com/track/3nz82lKGvfe78GjkQmDMl1) | [Facundo Grandío](https://open.spotify.com/artist/4Wkm55LBgLyt4MQh78QqJK) | [Decírtelo](https://open.spotify.com/album/4il91GPpN9QclFP0jWJdCw) | 3:12 | 2022-01-28 | 2022-07-25 |
-| [Departamento](https://open.spotify.com/track/2RGk67GArzQcQa3AWSulJb) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Departamento](https://open.spotify.com/album/2ye38S3VSsbseIzQgtTP40) | 3:54 | 2022-01-07 |  |
+| [Departamento](https://open.spotify.com/track/2RGk67GArzQcQa3AWSulJb) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Departamento](https://open.spotify.com/album/2ye38S3VSsbseIzQgtTP40) | 3:54 | 2022-01-07 | 2025-04-05 |
 | [Departamento](https://open.spotify.com/track/0L7UzdYmOkLhHoDLEcUa8f) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Departamento](https://open.spotify.com/album/6HOznOXnB3b994Rq9HMlzj) | 3:54 | 2022-07-15 | 2024-04-19 |
 | [Desde Dentro](https://open.spotify.com/track/38MvBCfKEfqBmx4bfXxA7Z) | [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH) | [En el Caribe También Pasa Esto](https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp) | 4:26 | 2022-01-07 |  |
 | [Desde Que Te Fuiste](https://open.spotify.com/track/27lvwmEhKxTVHmA0vOE8zH) | [Persse](https://open.spotify.com/artist/6rKyjr2gRyn5roNM7QR6qT) | [PROEZA](https://open.spotify.com/album/00DZjWUwBTk7FRBJihDJsM) | 2:44 | 2023-04-14 | 2023-08-18 |
@@ -190,6 +191,7 @@
 | [Estamos Bajo el Agua](https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V) | [Agus Vivo](https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW), [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Estamos Bajo el Agua](https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv) | 2:31 | 2022-07-15 |  |
 | [Estar Bien](https://open.spotify.com/track/3MDp8AskpkUp8BVXMxmknR) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Expuesta](https://open.spotify.com/album/0JldJwdXISVEzlUH8POoxa) | 3:24 | 2022-01-07 | 2022-07-22 |
 | [Estar Contigo](https://open.spotify.com/track/6OERSk1zc6d521QHkjEQAq) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Estar Contigo](https://open.spotify.com/album/7M9GURV8DU9DXCCOhtmOUA) | 3:44 | 2022-01-28 | 2022-07-17 |
+| [Estos últimos días](https://open.spotify.com/track/3v2KkWLAvvetVbP64DpOQ5) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL), [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Super H \(Homenaje al Super 8 de Los Planetas\)](https://open.spotify.com/album/2ZT83rOpAIhACchXvYfNgb) | 3:56 | 2025-04-04 |  |
 | [Está Bien](https://open.spotify.com/track/388HyajufVPnaKiGjyuLz1) | [Cocó](https://open.spotify.com/artist/3cd25iq3bJWMouQDiDoPm5), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Está Bien](https://open.spotify.com/album/1v9PDOgvnytliDvCcsNmaA) | 3:58 | 2022-01-07 | 2022-07-28 |
 | [Estábamos Tan Bien](https://open.spotify.com/track/3uRSGfI30pIW4efbKh4age) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Camas Separadas](https://open.spotify.com/album/7n2Jn4FFREegsVpFlVpbp3) | 3:41 | 2022-01-07 |  |
 | [Eto bb](https://open.spotify.com/track/56kjtJJWzQxsXhUXpd49NV) | [Julián Desbats](https://open.spotify.com/artist/6qzRpe1gOXSbcd7NsblkdP) | [Eto bb](https://open.spotify.com/album/6vFbEClBuRMHmJolHJ3vpX) | 2:28 | 2022-04-01 | 2022-05-10 |
@@ -287,7 +289,7 @@
 | [Los Bajos Vibran en Mi Pecho](https://open.spotify.com/track/27nAzQhusAaGLD11Nyr1BL) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz) | [Foto Pa Ti](https://open.spotify.com/album/1rNUjDL3QTqUvQJuqS7TKH) | 3:52 | 2022-04-01 | 2022-04-26 |
 | [Los Dos](https://open.spotify.com/track/13dXaz9leceR03UtdsNMkd) | [Federico Zeppelin](https://open.spotify.com/artist/3vPlqPnE0BZKjaPqvEA6QL) | [Los Dos](https://open.spotify.com/album/7ld53psAXN2djkesOze8GF) | 3:06 | 2022-01-28 | 2022-07-24 |
 | [Los Días Que No Estás](https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD), [Paula Trama](https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 4:15 | 2022-01-07 | 2023-07-05 |
-| [Louvre](https://open.spotify.com/track/6aw79PLeX1Q2sMUYqOuz0A) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [Louvre](https://open.spotify.com/album/6ePyM0mN9mHStVZIVOUjOP) | 2:49 | 2022-06-03 |  |
+| [Louvre](https://open.spotify.com/track/6aw79PLeX1Q2sMUYqOuz0A) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [Louvre](https://open.spotify.com/album/6ePyM0mN9mHStVZIVOUjOP) | 2:49 | 2022-06-03 | 2025-04-05 |
 | [Love](https://open.spotify.com/track/5nasO0nXcUNWriFdJR9Lp5) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Love](https://open.spotify.com/album/0MLSi95me9YKHGrNdIVfXQ) | 3:24 | 2022-01-07 | 2023-10-06 |
 | [Luces Que Se Apagarán](https://open.spotify.com/track/34ZV1fPOupFnhdHXjudklU) | [Dani Bander](https://open.spotify.com/artist/5vz76TPq0Mr6SwREOxs3Sf) | [Luces Que Se Apagarán](https://open.spotify.com/album/3v0V5PCTVsz7BzhQWIeJ9a) | 2:57 | 2022-01-07 | 2022-07-07 |
 | [Luna en piscis](https://open.spotify.com/track/3P8D05qoxBptnhxx1TG2kn) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [OSADÍA](https://open.spotify.com/album/3Csz304u6zteMaJcQv3lFa) | 2:26 | 2022-01-28 | 2024-08-17 |

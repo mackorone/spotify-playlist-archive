@@ -4441,6 +4441,32 @@
     },
     {
       "album": {
+        "name": "Lessons",
+        "url": "https://open.spotify.com/album/4C2gEjnKmczLeeYsPRGNzR"
+      },
+      "artists": [
+        {
+          "name": "Loaded Honey",
+          "url": "https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB"
+        },
+        {
+          "name": "Lydia Kitto",
+          "url": "https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA"
+        },
+        {
+          "name": "J Lloyd",
+          "url": "https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218455,
+      "name": "Lessons",
+      "url": "https://open.spotify.com/track/7dcNsaYCgtycbQYYPj5bao"
+    },
+    {
+      "album": {
         "name": "Let's Go Back",
         "url": "https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul"
       },
@@ -4456,6 +4482,24 @@
       "duration_ms": 169651,
       "name": "Let's Go Back",
       "url": "https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ"
+    },
+    {
+      "album": {
+        "name": "After EP",
+        "url": "https://open.spotify.com/album/4vOI9qIaL2W5MN47FXnEFj"
+      },
+      "artists": [
+        {
+          "name": "After",
+          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181441,
+      "name": "Lichen",
+      "url": "https://open.spotify.com/track/6EC93GvaFArH2XxDrj7zM6"
     },
     {
       "album": {
@@ -7438,7 +7482,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 234435,
       "name": "Talk Talk Talk",
       "url": "https://open.spotify.com/track/2AcvdEAVDfdXxlWoi82apC"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Cover: Linea Personal & Los Primos del Este\n       ",
+  "description": "The new school of M\u00fasica Mexicana. Cover: Angel Tumbado, Linea Personal & Jonathan Caro",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -8081,6 +8081,28 @@
     },
     {
       "album": {
+        "name": "En Klikado",
+        "url": "https://open.spotify.com/album/6cYJnqoIqXIGNniAyqCzDI"
+      },
+      "artists": [
+        {
+          "name": "Yng Naz",
+          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
+        },
+        {
+          "name": "Christian Ortega",
+          "url": "https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170865,
+      "name": "En Klikado",
+      "url": "https://open.spotify.com/track/6gTYlgey8pZxiMuzXah2b8"
+    },
+    {
+      "album": {
         "name": "En la Meza una Flor",
         "url": "https://open.spotify.com/album/0zXKdGgyDm6gSdZiUPgagr"
       },
@@ -12042,7 +12064,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 182613,
       "name": "Las Coquette",
       "url": "https://open.spotify.com/track/5lSATBJW5sKxdtZoWEkOWl"
@@ -15406,6 +15428,24 @@
       "duration_ms": 212333,
       "name": "Muriendo Lento",
       "url": "https://open.spotify.com/track/2NkSZA9C8xRCZrrOQLqjfU"
+    },
+    {
+      "album": {
+        "name": "Mustangson",
+        "url": "https://open.spotify.com/album/7MwlQpqH0gjRaLQyLRoTCQ"
+      },
+      "artists": [
+        {
+          "name": "Sahir Montoya",
+          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171973,
+      "name": "Mustangson",
+      "url": "https://open.spotify.com/track/4cigPi41A3NvCqgOjD5znn"
     },
     {
       "album": {
@@ -19330,7 +19370,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 244791,
       "name": "rain \ud83c\udf27\ufe0f",
       "url": "https://open.spotify.com/track/1MDBWXC3ccCcJVOJ4qy4rR"
@@ -20174,6 +20214,24 @@
       "duration_ms": 167680,
       "name": "Sangre Avenda\u00f1o",
       "url": "https://open.spotify.com/track/6K9JdTjaP3A3yLP70pai9J"
+    },
+    {
+      "album": {
+        "name": "Sangre Michoacana",
+        "url": "https://open.spotify.com/album/78L5hAr579Q1KtKtUkvzNZ"
+      },
+      "artists": [
+        {
+          "name": "Los Minis de Caborca",
+          "url": "https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169429,
+      "name": "Sangre Michoacana",
+      "url": "https://open.spotify.com/track/0OBxt24sBoopsSikt0MrG6"
     },
     {
       "album": {
@@ -22710,7 +22768,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 187000,
       "name": "Tu Forma De Ser",
       "url": "https://open.spotify.com/track/1y37LxehbizxpfjqE6dbFC"
@@ -23782,7 +23840,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 168631,
       "name": "Verbo",
       "url": "https://open.spotify.com/track/6THdoQ84J4S3JArCVfLMmj"

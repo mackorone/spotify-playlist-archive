@@ -2,9 +2,9 @@
 
 ### [Baby Hair](https://open.spotify.com/playlist/37i9dQZF1DX1CDfMq8oOPq)
 
-> big d com a senha da cena, fenomenal!
+> 2d e aju são o corre, olha a postura 🤌🏾
 
-283 songs - 13 hr 21 min
+284 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Branca de Neve \(Rap das Sinhás\)](https://open.spotify.com/track/1rJnvi0KVPvv0iXis2AW6n) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n), [KING Saints](https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY) | [Branca de Neve \(Rap das Sinhás\)](https://open.spotify.com/album/7t6FZEKYsfluVdo8hHUXtk) | 5:26 | 2024-04-12 | 2024-05-25 |
 | [Brutas Também Choram](https://open.spotify.com/track/7gTStq2OMkjtHyH09GGKkO) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 3:02 | 2023-10-20 | 2024-02-24 |
 | [BÔNUS TRACK](https://open.spotify.com/track/2A33hs2ntyZ52cXMn34ljk) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [b o u t](https://open.spotify.com/artist/3djiMLvUhyywlWQgpYDR41), [Brasil Grime Show](https://open.spotify.com/artist/1MHo7H67rgMeXzF7UTqbjT) | [BÔNUS TRACK](https://open.spotify.com/album/3KMHDHQCUSXewfIPRUfo25) | 3:48 | 2023-09-01 | 2023-10-28 |
+| [CADELA 2 \- muito late, nunca morde](https://open.spotify.com/track/04mza5x37HtCtXoyipFnmM) | [KING Saints](https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY), [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [Tonny Hyung](https://open.spotify.com/artist/2n5fkeKUzFAkIGkpp0D1Xi), [XAMY](https://open.spotify.com/artist/1vHqQJGGhcXW5QgQJiX8l4) | [CADELA 2 \- muito late, nunca morde](https://open.spotify.com/album/1I6wRj8UwlDCjwM3Eck0y8) | 4:12 | 2025-04-04 |  |
 | [Calcinha da Fendi](https://open.spotify.com/track/4TUAvHTUKyQ1pioT6J5MQ1) | [gabss](https://open.spotify.com/artist/50eJSWy0PG43JLWFkIXR4E), [Dj Herculano](https://open.spotify.com/artist/3MKTBehlfl8npR15s9GaGv) | [Calcinha da Fendi](https://open.spotify.com/album/0yNGyMsTEBUWwfYvNYoWHl) | 2:38 | 2023-09-22 | 2023-11-04 |
 | [Cara, Hoje É Meu Aniversário](https://open.spotify.com/track/2DpgbrHd6RCrmFA6oLInv1) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Su Madre Mandrake](https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i) | [Cara, Hoje É Meu Aniversário](https://open.spotify.com/album/29B30ocnhpIQndlp0UtEtD) | 2:01 | 2022-04-15 | 2023-07-29 |
 | [Carne Preta](https://open.spotify.com/track/3kfsx9AdfRxcAlQJijGCoU) | [Uni\-Ka](https://open.spotify.com/artist/05xZZ8fnfUsUFBod0qYurw), [JR ON](https://open.spotify.com/artist/6Z49It3vdzrqiSuu9dxeVA) | [Carne Preta](https://open.spotify.com/album/0dsLTQo9sGk6pxwCDS0w0b) | 3:54 | 2022-11-18 | 2022-12-13 |
@@ -143,7 +144,7 @@
 | [Linha Torta](https://open.spotify.com/track/1jp3ua6XiMziN3PbDBKMuA) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Medo É Só Ilusão](https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu) | 2:08 | 2023-11-17 | 2024-03-09 |
 | [Louca e Sagaz \(feat\. WC no Beat\)](https://open.spotify.com/track/5EpPmsMyOYId0GzjXdr5bX) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS) | [Louca e Sagaz \(feat\. WC no Beat\)](https://open.spotify.com/album/0iCw4A5XxTUq6T3wc8tHlj) | 3:13 | 2022-03-11 | 2022-06-25 |
 | [Loucona de Toddyn](https://open.spotify.com/track/3ix7zsFUG6OAW7QMjZbgns) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Loucona de Toddyn](https://open.spotify.com/album/0OTEIZb8v2VfSKwLZ06MgD) | 2:18 | 2023-10-13 | 2023-12-09 |
-| [LOVE COMMUNITY](https://open.spotify.com/track/1VAeAV4KpvrLyFlEyohJMU) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1), [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR) | [EPIFANIA](https://open.spotify.com/album/63mfI9tJYa7abqbCGKH86m) | 3:33 | 2024-08-23 |  |
+| [LOVE COMMUNITY](https://open.spotify.com/track/1VAeAV4KpvrLyFlEyohJMU) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1), [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR) | [EPIFANIA](https://open.spotify.com/album/63mfI9tJYa7abqbCGKH86m) | 3:33 | 2024-08-23 | 2025-04-05 |
 | [MACETAH! \(Versus Vol\. 1\) \[feat\. Tropkillaz\]](https://open.spotify.com/track/6uFXQbkmMG0rI7D03tktCV) | [MC Mari](https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [MACETAH! \(Versus Vol\. 1\) \[feat\. Tropkillaz\]](https://open.spotify.com/album/3VuOEKHPWAlU5MJvimXx0A) | 3:40 | 2022-03-11 | 2022-04-29 |
 | [MADDY](https://open.spotify.com/track/0sTU2re42O2KQGpyqK7ngN) | [A$HP](https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9) | [MADDY](https://open.spotify.com/album/2JQSEpZshZaAqlFyySYtu6) | 2:26 | 2023-10-20 | 2023-12-23 |
 | [Magia](https://open.spotify.com/track/2VAV3GVOT6cCxl3PMDzm65) | [Akascagrossa](https://open.spotify.com/artist/4g75QCIGrJufszfx2cH7Qj) | [Magia](https://open.spotify.com/album/22w3IMJ6SZgVfMPKeLr3Bn) | 2:41 | 2024-06-21 | 2024-07-13 |

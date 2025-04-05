@@ -2,9 +2,9 @@
 
 ### [R&B Rising](https://open.spotify.com/playlist/37i9dQZF1DWUbo613Z2iWO)
 
-> R&B of the moment by the artists of the future\. Cover:  Dende
+> R&B of the moment by the artists of the future\. Cover:  Jai'len Josey
 
-1,210 songs - 2 day 13 hr 30 min
+1,213 songs - 2 day 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [5 Minutes](https://open.spotify.com/track/3NybtZLoGsWTT1SHwExhkE) | [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [5 Minutes](https://open.spotify.com/album/40EQfE7yMNI8pMAGONi4Cj) | 2:49 | 2024-05-24 | 2024-11-16 |
 | [5000 Degrees](https://open.spotify.com/track/090KEJzeOvKL2ST7cCQrMd) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn), [Josef Lamercier](https://open.spotify.com/artist/3T7YH8Lq7GMkrYLiWvaXgc) | [5000 Degrees](https://open.spotify.com/album/1ZA56Y796A2QXaRs7AoNPa) | 1:33 | 2024-11-08 |  |
 | [710](https://open.spotify.com/track/45MmWDUTfVvmThzuR3AVZF) | [Traetwothree](https://open.spotify.com/artist/67cw6GPXHiwsDjFTvAoVfV), [DW FLAME](https://open.spotify.com/artist/1aQRe18EFgH0nxSm9bmo4v) | [710](https://open.spotify.com/album/5mSF3vaQ2RLhv1eK5jVwHG) | 3:05 | 2022-07-01 | 2022-07-16 |
-| [9 to 5](https://open.spotify.com/track/5mxyI5JvaxInlaZFgCLr5j) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [9 to 5](https://open.spotify.com/album/4iZ32ii2xQGxj6WRlriOEg) | 2:48 | 2024-09-27 |  |
+| [9 to 5](https://open.spotify.com/track/5mxyI5JvaxInlaZFgCLr5j) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [9 to 5](https://open.spotify.com/album/4iZ32ii2xQGxj6WRlriOEg) | 2:48 | 2024-09-27 | 2025-04-05 |
 | [AAA](https://open.spotify.com/track/2Oo9Heg2qZNGaZIz3shwUx) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [AAA](https://open.spotify.com/album/1ZtF0gvpkuYViqufFHtS2B) | 3:24 | 2024-11-01 | 2024-11-16 |
 | [About Time](https://open.spotify.com/track/2ku1pUgAH5iy6e3ZtBcesF) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx), [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [About Time](https://open.spotify.com/album/32tOquwVNXmi7gQTS0hzJQ) | 3:05 | 2025-03-14 |  |
 | [About U](https://open.spotify.com/track/4bBdFSu4WcfJhWl1EsreVj) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [About U](https://open.spotify.com/album/48lbAUdEwFZFKWY2y4BfvB) | 2:42 | 2022-07-22 | 2023-05-13 |
@@ -84,7 +84,7 @@
 | [AUCTION](https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [AUCTION](https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU) | 3:20 | 2024-06-28 |  |
 | [Ave Maria](https://open.spotify.com/track/5UzLPjUzrIStZCocniiH1y) | [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Ave Maria](https://open.spotify.com/album/1YtC5fvdj2z7XosDbmZYAS) | 2:57 | 2023-10-20 | 2024-01-11 |
 | [B.E.D](https://open.spotify.com/track/2oJYToyHxZ7mehhlvEhArB) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [B.E.D](https://open.spotify.com/album/4XzsqZssA5YNJ6lq8SRjXK) | 2:53 | 2022-11-25 | 2023-01-27 |
-| [B.S.](https://open.spotify.com/track/1Z3NXXk8GZJwEEJiX5l2G6) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [B.S.](https://open.spotify.com/album/1qTLWHLgqkaJti5E08jSB7) | 2:47 | 2024-10-18 |  |
+| [B.S.](https://open.spotify.com/track/1Z3NXXk8GZJwEEJiX5l2G6) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [B.S.](https://open.spotify.com/album/1qTLWHLgqkaJti5E08jSB7) | 2:47 | 2024-10-18 | 2025-04-05 |
 | [BABY](https://open.spotify.com/track/5iLJL1EM7qZ9xzBHrnvFXq) | [WanMor](https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h) | [BABY](https://open.spotify.com/album/7uLBUfy84YyVLBVXAsbleT) | 2:38 | 2024-02-09 | 2024-05-04 |
 | [Baby Blue](https://open.spotify.com/track/4NZcudZGLMwhRMgdqGdRBm) | [MiLES.](https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I) | [Baby Blue](https://open.spotify.com/album/3cHzK2dR1QpVHkwuOaERnW) | 3:03 | 2023-12-22 | 2024-04-06 |
 | [Back](https://open.spotify.com/track/0GEX3Viy33NfvCax4GUREd) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Back](https://open.spotify.com/album/26PeJZE5BuDDc95AM07vX5) | 2:18 | 2023-10-06 | 2024-02-24 |
@@ -301,6 +301,7 @@
 | [Double Tragedy \- A COLORS SHOW](https://open.spotify.com/track/45LnuVmnymxokS3QNGJlrN) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Double Tragedy \- A COLORS SHOW](https://open.spotify.com/album/2qB5xtNmOWlJGCNGDQo11B) | 2:45 | 2024-05-17 | 2024-05-25 |
 | [Doubt](https://open.spotify.com/track/2L0goMgNORVfof0S2ULaqm) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Doubt](https://open.spotify.com/album/0S9vPSM57NuSvEMj3QV7Ni) | 3:02 | 2024-02-24 | 2024-03-30 |
 | [Doubted Me](https://open.spotify.com/track/4oqMIoa9pJnCHDqv47ZmxJ) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Doubted Me](https://open.spotify.com/album/12o2sMXJK82NueZuOq5Vmf) | 2:34 | 2022-10-28 | 2022-11-26 |
+| [DOWN BAD](https://open.spotify.com/track/6V2GsxdsoC7s81pD0ZMyi6) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [DOWN BAD](https://open.spotify.com/album/7vACZGvCij77fUPfSi54TC) | 2:12 | 2025-04-04 |  |
 | [Draft 7 "fruitless love"](https://open.spotify.com/track/0asxbwYkiyRQnx8TiD8dFN) | [Hailes](https://open.spotify.com/artist/5D4DYVjwfm0svv1kD4QnKR) | [Draft 7 "fruitless love"](https://open.spotify.com/album/5f6YVKQVqduSfMS94UoSNI) | 2:46 | 2022-03-11 | 2022-04-02 |
 | [Dreamin](https://open.spotify.com/track/4XSHcdeXjk0Xsq7hFo3BpB) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Dreamin](https://open.spotify.com/album/6rZjKpK2kAK0cNPofSloqS) | 2:37 | 2024-03-08 | 2024-04-13 |
 | [Drifted](https://open.spotify.com/track/562S3M4AGzUZcZ6G1WorfN) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Jayla Darden](https://open.spotify.com/artist/2FcXBEz4zZpJGNO8CSrchU) | [Drifted](https://open.spotify.com/album/03ekiMgr3rkTqWmHYOKcIz) | 4:10 | 2023-10-20 | 2024-06-15 |
@@ -885,6 +886,7 @@
 | [Reckless](https://open.spotify.com/track/6Ylr3goHPDWv6me0PmA0tl) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb) | [A Night About You \(Deluxe\)](https://open.spotify.com/album/5cfKNUnGdzjyYVxi1eOQwV) | 3:34 | 2025-03-21 | 2025-03-29 |
 | [recognize](https://open.spotify.com/track/5Gx86X2wrF2J2hih6RPLGV) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [recognize](https://open.spotify.com/album/426MzFU7UEXUNFw8sGbxLx) | 3:13 | 2022-10-14 | 2022-10-29 |
 | [RED HOT](https://open.spotify.com/track/3grdg1YUd5ypDi9gvchE3n) | [Justin Garner](https://open.spotify.com/artist/3xOsqNaO7F3UNdQjJJif8o) | [RED HOT](https://open.spotify.com/album/7xksRxG6MURC3k7kOJ3Qo7) | 3:04 | 2022-08-05 | 2022-08-27 |
+| [Reflection Station](https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Reflection Station](https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk) | 2:46 | 2025-04-04 |  |
 | [Regardless](https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Regardless](https://open.spotify.com/album/3kf4QtJyUo1YGs9eNJLOD7) | 3:09 | 2023-10-13 | 2024-07-13 |
 | [Regular Girl](https://open.spotify.com/track/6n3IrXv89bChBzjbRJRmUq) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Regular Girl](https://open.spotify.com/album/3OhFLv2iX72yrfnSHpilN5) | 2:31 | 2025-02-14 |  |
 | [RENT FREE](https://open.spotify.com/track/4AlHUPwYtEJHAl9H7EGKMD) | [Abby Jasmine](https://open.spotify.com/artist/53GHCxP37vt9f8h2CWNBnf), [Prxd\. Jay](https://open.spotify.com/artist/6aWD4xaqUuAnuHLf2exCow) | [GROWING PAINS](https://open.spotify.com/album/4vFy8YrDun1YEZFaa3u4OS) | 3:45 | 2023-05-26 | 2023-07-24 |
@@ -1094,6 +1096,7 @@
 | [TODAY](https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [TODAY](https://open.spotify.com/album/079j8ZmfUTiwYddwHmQxkt) | 4:01 | 2022-11-27 | 2024-03-30 |
 | [Too Deep](https://open.spotify.com/track/3qOYmmCabW28q5QQJvac42) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Too Deep](https://open.spotify.com/album/00hxzABSuhHgM4fkrBX8rn) | 2:52 | 2022-03-25 | 2022-05-07 |
 | [too fast](https://open.spotify.com/track/6GZ4qfWtm0xjKPw5EKSdze) | [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [too fast](https://open.spotify.com/album/6UV79NnkVMC2doyJeC4twp) | 3:14 | 2024-04-26 | 2024-05-25 |
+| [Too Good](https://open.spotify.com/track/7ngKOLaoJfoMATtYFrwAKe) | [EJ Jones](https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC) | [Too Good](https://open.spotify.com/album/3fsfrovFhD0i82yD9gPrTi) | 3:27 | 2025-04-04 |  |
 | [Too Good](https://open.spotify.com/track/7eydOAMggQGybRvP25jjHf) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Too Good](https://open.spotify.com/album/50FBHB1so5hMC0unv6LR2l) | 2:48 | 2023-06-16 | 2023-10-14 |
 | [Too Much](https://open.spotify.com/track/4rzfXpou7FRHP1kIAerMCH) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Too Much](https://open.spotify.com/album/38sQTEAfgwCCTWj5Grmosc) | 3:50 | 2024-06-21 | 2024-08-17 |
 | [Too Often](https://open.spotify.com/track/03GAUqifa6bI0mFcYyz1DS) | [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Too Often](https://open.spotify.com/album/4eZHqCtSPgGjTZGgrASnz9) | 2:47 | 2024-10-25 |  |

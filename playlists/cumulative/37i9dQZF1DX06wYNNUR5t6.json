@@ -490,7 +490,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 264093,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/0iQa0axJxOqA5vlCSV3app"
@@ -848,6 +848,24 @@
       "duration_ms": 244538,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7"
+    },
+    {
+      "album": {
+        "name": "LION",
+        "url": "https://open.spotify.com/album/1CqzOm3jFgTGK2qrMPYknL"
+      },
+      "artists": [
+        {
+          "name": "Peyton Parrish",
+          "url": "https://open.spotify.com/artist/62uiaKAdkbY94iXJnXyKzc"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343926,
+      "name": "LION",
+      "url": "https://open.spotify.com/track/0VkbvqI6XzzXSL7fQKWBPA"
     },
     {
       "album": {

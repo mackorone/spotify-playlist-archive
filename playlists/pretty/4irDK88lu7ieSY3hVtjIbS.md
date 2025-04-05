@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4irDK88lu7ieSY3hVtjIbS.md) - [plain]
 
 > Degeneracy at its finest!
 
-[Taq](https://open.spotify.com/user/tq31kjm7qcf5hloq4iqqfabut) - 1,581 likes - 77 songs - 3 hr 17 min
+[Taq](https://open.spotify.com/user/tq31kjm7qcf5hloq4iqqfabut) - 1,584 likes - 76 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,15 +75,14 @@ pretty - [cumulative](/playlists/cumulative/4irDK88lu7ieSY3hVtjIbS.md) - [plain]
 | 65 | [Lesbian Vampire Furries](https://open.spotify.com/track/6k8OcyB2p4XjLEkeZl2yec) | [o96o](https://open.spotify.com/artist/4g8Ae41SII3GhoJkpGQTBn), [iGodzilla](https://open.spotify.com/artist/2AB1nrkYl5qrgFmbk45Lez) | [Lesbian Vampire Furries](https://open.spotify.com/album/1Ah65nLN0BThi1taKGTde8) | 2:25 |
 | 66 | [Penis Music](https://open.spotify.com/track/293SzWJMSEmBksytKIa0pP) | [Portamento](https://open.spotify.com/artist/2xUFofsrGYO0451gYxcWXI) | [Low Polygonal Ascension](https://open.spotify.com/album/0LadYADSp8LlUtbWopw66b) | 1:15 |
 | 67 | [GAY](https://open.spotify.com/track/6VF6aSXwUqBsV2r92UnXu1) | [Kawai Sprite](https://open.spotify.com/artist/19nnKeOt6Vo1g0ijPcFxdu) | [Newgrounds Classics](https://open.spotify.com/album/4nemZnzaHpydHG2Q5rEfb2) | 1:55 |
-| 68 | [DON'T WANT UR LOVE](https://open.spotify.com/track/7BwAhDxU8fZyta9NkqOBZw) | [YUMMYNOODZ](https://open.spotify.com/artist/4jgKnkaF9EvvB9GhQcu9Qa), [YUMPRINCESS](https://open.spotify.com/artist/1XfxA5eSAeL28olEJZymL9), [NOODLE](https://open.spotify.com/artist/10CIjpPG0S3S8WSW1IvGJ9) | [DON'T WANT UR LOVE](https://open.spotify.com/album/4cOrqpMZj8NhCM9NkX22J2) | 2:54 |
-| 69 | [Another Dimension Beyond Comprehension](https://open.spotify.com/track/0cC4qT6HzDLtV8yt0FyEkz) | [Spott](https://open.spotify.com/artist/0gQWoLdyMfjBGGITOMhTh8) | [Dumbass of the Century](https://open.spotify.com/album/2utuabIBmucnFPVawLqj67) | 2:32 |
-| 70 | [The Bad Touch](https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG) | [Bloodhound Gang](https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh) | [Hooray For Boobies](https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh) | 4:20 |
-| 71 | [KINDA WANT TO FUCK BUT OH GOD IM SCARED](https://open.spotify.com/track/2BIJTk3esSucfISGLvzRpk) | [Vertigoaway](https://open.spotify.com/artist/3QkzcRNHg1pCeifBUZGmb6) | [das epos hohlraum](https://open.spotify.com/album/0wWiYDkqMuRet3EdiGGG1f) | 1:52 |
-| 72 | [CUDDLY](https://open.spotify.com/track/5oZ9avBrfVtNmYQCkhGgPQ) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 1:51 |
-| 73 | [FURFAG](https://open.spotify.com/track/7G1vLoPNQrF6aV0pwnhTrF) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 4:44 |
-| 74 | [CHANGED](https://open.spotify.com/track/4zd9ODrv8sfgGprCVhER4j) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy), [sharkbarksss](https://open.spotify.com/artist/7wrGMUFl9bK7T4st7GG1wS) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 3:13 |
-| 75 | [PITS](https://open.spotify.com/track/40NUs0L06daDYGczC4R3HW) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 2:31 |
-| 76 | [KNOT SONG](https://open.spotify.com/track/39hUFFX2yGm26YXSu4QEYF) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 2:18 |
-| 77 | [PASS THAT POOLTOY](https://open.spotify.com/track/0EEm7WqTGLXQoFrDM3bYIx) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 2:42 |
+| 68 | [Another Dimension Beyond Comprehension](https://open.spotify.com/track/0cC4qT6HzDLtV8yt0FyEkz) | [Spott](https://open.spotify.com/artist/0gQWoLdyMfjBGGITOMhTh8) | [Dumbass of the Century](https://open.spotify.com/album/2utuabIBmucnFPVawLqj67) | 2:32 |
+| 69 | [The Bad Touch](https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG) | [Bloodhound Gang](https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh) | [Hooray For Boobies](https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh) | 4:20 |
+| 70 | [KINDA WANT TO FUCK BUT OH GOD IM SCARED](https://open.spotify.com/track/2BIJTk3esSucfISGLvzRpk) | [Vertigoaway](https://open.spotify.com/artist/3QkzcRNHg1pCeifBUZGmb6) | [das epos hohlraum](https://open.spotify.com/album/0wWiYDkqMuRet3EdiGGG1f) | 1:52 |
+| 71 | [CUDDLY](https://open.spotify.com/track/5oZ9avBrfVtNmYQCkhGgPQ) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 1:51 |
+| 72 | [FURFAG](https://open.spotify.com/track/7G1vLoPNQrF6aV0pwnhTrF) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 4:44 |
+| 73 | [CHANGED](https://open.spotify.com/track/4zd9ODrv8sfgGprCVhER4j) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy), [sharkbarksss](https://open.spotify.com/artist/7wrGMUFl9bK7T4st7GG1wS) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 3:13 |
+| 74 | [PITS](https://open.spotify.com/track/40NUs0L06daDYGczC4R3HW) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 2:31 |
+| 75 | [KNOT SONG](https://open.spotify.com/track/39hUFFX2yGm26YXSu4QEYF) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 2:18 |
+| 76 | [PASS THAT POOLTOY](https://open.spotify.com/track/0EEm7WqTGLXQoFrDM3bYIx) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 2:42 |
 
-Snapshot ID: `AAAAdNgvz8MfSyeJ+5EQSyslLG0ogIkd`
+Snapshot ID: `AAAAdVMVZllzpHhmLIFD8qc1zVNcTQHX`

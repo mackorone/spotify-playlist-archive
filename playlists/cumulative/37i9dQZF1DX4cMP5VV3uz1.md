@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-399 songs - 23 hr 14 min
+400 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Bring It Back \(Spencer Ramsay Remix\)](https://open.spotify.com/track/558wlAeGGjLBB1cua3OpSh) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I), [Spencer Ramsay](https://open.spotify.com/artist/1IgLSPF7mCbDA9rJmDzqji) | [Bring It Back \(Spencer Ramsay Remix\)](https://open.spotify.com/album/2JVhngo2MEV6euWD4HqLZ7) | 2:05 | 2023-09-22 | 2024-07-17 |
 | [Bring The Beat Back \- Hannah Laing Remix](https://open.spotify.com/track/4Dj3bXGeDSai5hlTphxFaK) | [Tony De Vit](https://open.spotify.com/artist/17acmoMCDxCeLPYv4T5sV1), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Bring The Beat Back \(Hannah Laing Remix\)](https://open.spotify.com/album/4Vg3UQCe666bS46x7W2gPy) | 4:05 | 2023-12-27 | 2024-01-12 |
 | [Call The Hurse](https://open.spotify.com/track/0G3ONeSlmFgHtw1ft1kg1k) | [Benny Page](https://open.spotify.com/artist/602tBNQHNIZL6tsB2RHAV1), [Mad Sam](https://open.spotify.com/artist/7k3N8YrwPhTTtY78ES8i1L) | [Call The Hurse](https://open.spotify.com/album/3KeEMKBTOVMrua11nE9kj6) | 2:49 | 2025-01-31 |  |
-| [CALM](https://open.spotify.com/track/7N0Eavl0IkaFGIQrQRNQ4D) | [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [CALM](https://open.spotify.com/album/723ujhDCNK9Rw0n6GNQ09G) | 3:02 | 2025-04-03 |  |
+| [CALM](https://open.spotify.com/track/7N0Eavl0IkaFGIQrQRNQ4D) | [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [CALM](https://open.spotify.com/album/723ujhDCNK9Rw0n6GNQ09G) | 3:02 | 2025-04-03 | 2025-04-05 |
 | [Calorific](https://open.spotify.com/track/7eB6oO2kvaQTkWqcOkv4nD) | [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby) | [Calorific](https://open.spotify.com/album/5wcpHhA76rJtAwJTnOlN7u) | 3:13 | 2024-03-01 | 2024-03-29 |
 | [Can't Be Without It](https://open.spotify.com/track/58JAyrwaHbDDumptwP0Lo5) | [Arman John](https://open.spotify.com/artist/4cWhaaPUsxFe3z7fPNfzwL) | [Deepest Of Desire](https://open.spotify.com/album/5xlEEZ4upkAEtIPR6DRY6a) | 5:58 | 2023-12-27 | 2024-01-12 |
 | [Cancelled](https://open.spotify.com/track/7mxDzIP1U1Yss9orJpM0KS) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z) | [Cancelled](https://open.spotify.com/album/38uvsLnhGvWVV0p02GZyQT) | 3:33 | 2022-10-28 | 2023-03-15 |
@@ -119,6 +119,7 @@
 | [Fever](https://open.spotify.com/track/2MdNjzz8wXf0PlfXupqela) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF), [T\-Man](https://open.spotify.com/artist/5p0SkCjy1OmhoXPSM5dvW2) | [Fever](https://open.spotify.com/album/07SV9ag0yEoTbXLLWkhaxs) | 3:40 | 2024-10-03 | 2024-11-10 |
 | [Fiesta](https://open.spotify.com/track/6HQZTHthmIW0QIefnOsSh1) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Fiesta](https://open.spotify.com/album/5k42TNAEt7KbMPZd1QbUSp) | 3:46 | 2024-10-18 | 2024-12-16 |
 | [Figure It Out](https://open.spotify.com/track/3IWy6MPyWKPFAQ5x6YAkrc) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Anna Rickards](https://open.spotify.com/artist/536SrcGyLzU2lEJM3jXLAz) | [Figure It Out](https://open.spotify.com/album/1GbLtUextuxcVZbondHylL) | 4:59 | 2022-09-30 | 2023-04-16 |
+| [Final Breath](https://open.spotify.com/track/0KmWcBQsiZgiKqzfgjxC6x) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ) | [Final Breath](https://open.spotify.com/album/2zzZimoreQVoJksCnl7suu) | 3:49 | 2025-04-03 |  |
 | [Find My Way Home](https://open.spotify.com/track/1yIi7qRdybE4yY1V0YdOKG) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Find My Way Home](https://open.spotify.com/album/6v9a58ojj3EBjHg4gfDNZY) | 4:18 | 2022-09-30 | 2023-10-21 |
 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Opus III](https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 | 2023-07-27 | 2024-07-27 |
 | [First Match \- Technoboy Mix](https://open.spotify.com/track/7fgw5DrTX6nHhGSM3oiAHF) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs) | [First Match](https://open.spotify.com/album/4lpacr2pFTs21hkoiLwSO1) | 7:21 | 2023-12-27 | 2024-01-12 |

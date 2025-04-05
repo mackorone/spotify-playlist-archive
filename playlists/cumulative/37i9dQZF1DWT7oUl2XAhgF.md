@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-496 songs - 1 day 5 hr 52 min
+498 songs - 1 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,7 @@
 | [Move On](https://open.spotify.com/track/4FoGNyJaWEY5g4N0AHBM3K) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Move On](https://open.spotify.com/album/5kK0N3M1FTlqaTM6mCPKyd) | 3:38 | 2022-01-28 | 2024-02-24 |
 | [Mr\. Weatherman](https://open.spotify.com/track/7wxq3HK9OnoMeJOzpdj5jR) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [Mr\. Weatherman](https://open.spotify.com/album/23QXxkhhY9HRsJqc1padbd) | 3:27 | 2024-03-29 | 2025-03-01 |
 | [Mrs.](https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:02 | 2021-07-09 | 2023-01-28 |
-| [My 45 \(with Jean Carter\)](https://open.spotify.com/track/0bkjYsOt7EDEjW1SdUsVx6) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [My 45 \(with Jean Carter\)](https://open.spotify.com/album/7mEwuN28ktuDL0y0bL4iB3) | 2:58 | 2025-03-14 |  |
+| [My 45 \(with Jean Carter\)](https://open.spotify.com/track/0bkjYsOt7EDEjW1SdUsVx6) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [My 45 \(with Jean Carter\)](https://open.spotify.com/album/7mEwuN28ktuDL0y0bL4iB3) | 2:58 | 2025-03-14 | 2025-04-05 |
 | [My Dirty Desire](https://open.spotify.com/track/6LghA3bvjS9btadUaJt4Io) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Bewilderment](https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu) | 3:26 | 2023-08-18 | 2024-04-06 |
 | [My Heart is Drowning](https://open.spotify.com/track/3ULdoOEdHUrfoi7D1B4IC5) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [My Heart is Drowning](https://open.spotify.com/album/27MkfKfFf4AONvPedCeBrX) | 2:43 | 2024-10-04 |  |
 | [My Oh My](https://open.spotify.com/track/4KO9dF03JTCwvQJdGVqwcG) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [My Oh My](https://open.spotify.com/album/3rWudFlMS9OWpxneFqm8yq) | 3:29 | 2023-06-02 | 2024-06-01 |
@@ -323,6 +323,7 @@
 | [Paddle to the Stars](https://open.spotify.com/track/74TtehL8KqCN6dvTX6uiRi) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Paddle to the Stars](https://open.spotify.com/album/4BXAPfbjgQM0JEHopQKkFU) | 2:36 | 2021-11-05 | 2022-07-29 |
 | [Paris](https://open.spotify.com/track/2dgSbz6osX3pCZtNmPGCzB) | [Wolfgang Valbrun](https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5) | [Paris](https://open.spotify.com/album/4cAI2lU33xuw3YLixV8w1T) | 2:56 | 2025-01-17 |  |
 | [Pelvis Pusher](https://open.spotify.com/track/6bo1ykqKEAYsdwVtR1ze8x) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Pelvis Pusher](https://open.spotify.com/album/1bmrKIWcFwqW6PwAe5EnI8) | 3:07 | 2021-07-09 | 2022-09-03 |
+| [Phases](https://open.spotify.com/track/5nXT7uZL7xCEBnFCpa2uYh) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Phases](https://open.spotify.com/album/35Pjy1frpTpW1UZXLRcgt0) | 3:03 | 2025-04-04 |  |
 | [Piece of Me](https://open.spotify.com/track/5CbcqhKsBbiOsjdkh5Hsea) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/76yrGYfxRIv1FnVU01IhdS) | 3:42 | 2021-07-09 | 2025-03-22 |
 | [Piece Of Me](https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:44 | 2021-07-09 | 2024-04-19 |
 | [Poppyseed](https://open.spotify.com/track/7pMaJob2XJhQqZJ51crGpE) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Poppyseed](https://open.spotify.com/album/6gorqLIe62IVJVrFa9FBVn) | 4:19 | 2022-04-15 | 2023-07-01 |
@@ -460,6 +461,7 @@
 | [Under The Sun](https://open.spotify.com/track/4fk2ZZxo8m9hGS3XSij883) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Thank You](https://open.spotify.com/album/5e9eqwm0zjc9FLaRhVfdTo) | 3:21 | 2021-12-17 | 2022-07-29 |
 | [Under The Sun](https://open.spotify.com/track/2RX7oNugjq7hYgWW0yhqQv) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:21 | 2021-12-17 | 2023-02-18 |
 | [Untitled Visions](https://open.spotify.com/track/3j2pDRd8tiJiMgZ7RknuXu) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kendra Morris](https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk) | [Untitled Visions](https://open.spotify.com/album/7tTFdS6eCjitmnXD8HqyUq) | 4:18 | 2023-05-26 | 2025-01-04 |
+| [Upside Down](https://open.spotify.com/track/2ykiSY1uHTHCBVpbym4Uff) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Upside Down](https://open.spotify.com/album/2cF9Jv83As09soxqHeJuuf) | 3:16 | 2025-04-04 |  |
 | [Vehicle \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/0Dlp5ZdDKylTKVJE3ejoJD) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Minions: The Rise Of Gru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Kc0f1PCbWZLOmZNOyXYGN) | 2:55 | 2022-07-01 | 2022-08-27 |
 | [Vehicle \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/6sBErahr0v0QRvwboz1oSl) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Vehicle \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/1kGXvzn5iUfVOUl1jNyNeh) | 2:55 | 2022-07-01 | 2022-07-29 |
 | [Waiting](https://open.spotify.com/track/7maKDsx5c9pGH82gqTwiOf) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Waiting](https://open.spotify.com/album/6HdBhsYLgnb9IQICF8zxgW) | 3:06 | 2024-10-25 |  |
@@ -471,7 +473,7 @@
 | [We Got This \- 7'' Version](https://open.spotify.com/track/4OQMZBaOgEvAcXI8NMWEz7) | [Beatchild](https://open.spotify.com/artist/4k7KKAyXbpBKe0iziD7c2P) | [We Got This](https://open.spotify.com/album/79Utq6WQvxX0OkODgZEfDO) | 2:57 | 2025-01-03 |  |
 | [WELCOME TO THE PARTY](https://open.spotify.com/track/4OkWdZXL16atg1qaUbqaaz) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [THE SOUTHWESTERN COMMUNION](https://open.spotify.com/album/0HZ86tsiLEjdDxvlH2nqhz) | 2:41 | 2023-07-28 | 2024-01-27 |
 | [What A Difference She Made](https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What A Difference She Made](https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ) | 2:55 | 2022-10-14 | 2023-02-18 |
-| [What More Can I Do](https://open.spotify.com/track/5Dp7CfpvcRYCamP1MTXxN1) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [What More Can I Do](https://open.spotify.com/album/4d0s8nBxKeOgJPTDylVz2j) | 2:17 | 2024-06-21 |  |
+| [What More Can I Do](https://open.spotify.com/track/5Dp7CfpvcRYCamP1MTXxN1) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [What More Can I Do](https://open.spotify.com/album/4d0s8nBxKeOgJPTDylVz2j) | 2:17 | 2024-06-21 | 2025-04-05 |
 | [What You Chose](https://open.spotify.com/track/3XkPTlF8G89tA3m0xv7Rmd) | [James Tutson](https://open.spotify.com/artist/7p5i6PwXVeJ4kOlpe7mVjs) | [What You Chose](https://open.spotify.com/album/3wFPt6l1djsbjGxFIMCjnJ) | 3:17 | 2025-01-03 | 2025-01-25 |
 | [What's on Your Mind \(OurVinyl Sessions\)](https://open.spotify.com/track/5Zon0BSyiQYHD06Yrf57zh) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Greyhounds \| OurVinyl Sessions](https://open.spotify.com/album/5i9W52ffNzgpjVOfM6ZfsZ) | 4:07 | 2022-03-21 | 2024-02-03 |
 | [Whatever You Are](https://open.spotify.com/track/6uL0ZXwr17RgsMRmXKYY11) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Memories of Love](https://open.spotify.com/album/2wob0s3WIRpsvYHSpDqywa) | 5:00 | 2021-12-03 | 2022-11-13 |

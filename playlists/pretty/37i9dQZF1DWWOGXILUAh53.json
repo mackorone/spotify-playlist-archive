@@ -1,13 +1,105 @@
 {
-  "description": "The hottest new pop with all the drops. Cover: Rebecca Black x Jax Jones x sooyeon",
-  "num_followers": 262860,
+  "description": "The hottest new pop with all the drops. Cover: Alesso + Becky Hill",
+  "num_followers": 264545,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+Ye8wAAAABnhnsyaXuaxpIPLOLqR0R2",
+  "snapshot_id": "Z+9ZWgAAAADRGPoBusFNW1vE3tpHcuJU",
   "tracks": [
+    {
+      "added_at": "2025-04-04 04:00:26",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 144664,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY"
+    },
+    {
+      "added_at": "2025-04-04 04:00:26",
+      "album": {
+        "name": "Bodyology",
+        "url": "https://open.spotify.com/album/3TrkqEFslRqaWu7FDhomTU"
+      },
+      "artists": [
+        {
+          "name": "Snow Wife",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "duration_ms": 148836,
+      "name": "Bodyology",
+      "url": "https://open.spotify.com/track/5jbJxbG9cqhRknyCjr741q"
+    },
+    {
+      "added_at": "2025-04-04 04:00:26",
+      "album": {
+        "name": "All I Know",
+        "url": "https://open.spotify.com/album/1TNPKEmo5TSj8NpXpDgMsf"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 176046,
+      "name": "All I Know",
+      "url": "https://open.spotify.com/track/2rgWhlzASxN4MKk7c3RAGP"
+    },
+    {
+      "added_at": "2025-04-04 04:00:26",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/7itEYRylIdVXenrq8CdZJu"
+      },
+      "artists": [
+        {
+          "name": "NEEA RIVER",
+          "url": "https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw"
+        }
+      ],
+      "duration_ms": 183138,
+      "name": "Volcano",
+      "url": "https://open.spotify.com/track/6TPvHFQqYLu2yNfCpxNH3e"
+    },
+    {
+      "added_at": "2025-03-28 04:00:51",
+      "album": {
+        "name": "Glide",
+        "url": "https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx"
+      },
+      "artists": [
+        {
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+        },
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 183670,
+      "name": "Glide",
+      "url": "https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K"
+    },
     {
       "added_at": "2025-03-28 04:00:51",
       "album": {
@@ -53,6 +145,22 @@
       "url": "https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x"
     },
     {
+      "added_at": "2025-04-04 04:00:26",
+      "album": {
+        "name": "Waiting All Night",
+        "url": "https://open.spotify.com/album/4ogfTdWSH7FXzV2CzlUt5Y"
+      },
+      "artists": [
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        }
+      ],
+      "duration_ms": 154640,
+      "name": "Waiting All Night",
+      "url": "https://open.spotify.com/track/2FITkAuUiYYG658nEaYLqO"
+    },
+    {
       "added_at": "2025-03-28 04:00:51",
       "album": {
         "name": "Keep The Faith",
@@ -71,6 +179,26 @@
       "duration_ms": 193490,
       "name": "Keep The Faith",
       "url": "https://open.spotify.com/track/40wS2odqmKnfpK8W23LNTW"
+    },
+    {
+      "added_at": "2025-03-28 04:00:51",
+      "album": {
+        "name": "Whiplash (English Version)",
+        "url": "https://open.spotify.com/album/10C0OaEiO9vsPJ7wr9G6Er"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Whiplash (Steve Aoki Remix)",
+      "url": "https://open.spotify.com/track/05WroaccWBOq46mEkO5N0X"
     },
     {
       "added_at": "2025-03-28 04:00:51",
@@ -103,26 +231,6 @@
       "duration_ms": 180037,
       "name": "oyster",
       "url": "https://open.spotify.com/track/1oK8MgS9QKWFLC8VpZ15UB"
-    },
-    {
-      "added_at": "2025-03-28 04:00:51",
-      "album": {
-        "name": "Glide",
-        "url": "https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx"
-      },
-      "artists": [
-        {
-          "name": "NEIKED",
-          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
-        },
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 183670,
-      "name": "Glide",
-      "url": "https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K"
     },
     {
       "added_at": "2025-03-28 04:00:51",
@@ -163,26 +271,6 @@
       "duration_ms": 145000,
       "name": "Bus Station",
       "url": "https://open.spotify.com/track/4SVO6an1H4SfvoHJxf37dl"
-    },
-    {
-      "added_at": "2025-03-28 04:00:51",
-      "album": {
-        "name": "Whiplash (English Version)",
-        "url": "https://open.spotify.com/album/10C0OaEiO9vsPJ7wr9G6Er"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Whiplash (Steve Aoki Remix)",
-      "url": "https://open.spotify.com/track/05WroaccWBOq46mEkO5N0X"
     },
     {
       "added_at": "2025-03-28 04:00:51",

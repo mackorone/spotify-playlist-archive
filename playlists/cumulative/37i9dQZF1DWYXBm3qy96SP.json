@@ -9387,6 +9387,24 @@
     },
     {
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/0UkeBEb0zPrQbuMCCGSxn2"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193154,
+      "name": "Forever Overdose",
+      "url": "https://open.spotify.com/track/07FeCdaFiJYdynFyJW515F"
+    },
+    {
+      "album": {
         "name": "A Torch In The Dark",
         "url": "https://open.spotify.com/album/6H6kvxbLq2kpLd8QGJfrbx"
       },
@@ -27252,7 +27270,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 184723,
       "name": "WE\u2019RE ALL GONNA DIE",
       "url": "https://open.spotify.com/track/4O3NC8soE6ELWtgIWjSD2B"

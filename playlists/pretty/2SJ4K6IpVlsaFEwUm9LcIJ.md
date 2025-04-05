@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,902 likes - 45 songs - 2 hr 50 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,907 likes - 47 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,5 +53,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 43 | [The Whistling Song](https://open.spotify.com/track/6hsR1xniCFGjgYLMUlf67K) | [Soft Location](https://open.spotify.com/artist/5gGzQgygoCuJtht0pWG7Uk) | [Diamonds and Gems](https://open.spotify.com/album/1a7152fg0L3fKzgjQ7upaj) | 4:31 |
 | 44 | [Extinguish](https://open.spotify.com/track/41pTeGMKh9H9OXGDPSZCfM) | [Soft Location](https://open.spotify.com/artist/5gGzQgygoCuJtht0pWG7Uk) | [Diamonds and Gems](https://open.spotify.com/album/1a7152fg0L3fKzgjQ7upaj) | 3:46 |
 | 45 | [Let the Moon Get Into It](https://open.spotify.com/track/1stYzcsEDzXXKyjQ2zyLx5) | [Soft Location](https://open.spotify.com/artist/5gGzQgygoCuJtht0pWG7Uk) | [Diamonds and Gems](https://open.spotify.com/album/1a7152fg0L3fKzgjQ7upaj) | 6:29 |
+| 46 | [Hog Of The Forsaken](https://open.spotify.com/track/0f5bYBJ7CQkqqLZjhJTNw9) | [Michael Hurley](https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz) | [Long Journey](https://open.spotify.com/album/3jqLDxYTcxRXOWIL6UcquW) | 3:35 |
+| 47 | [Polynesia](https://open.spotify.com/track/1kRSfl02tYqUkyNuAuStDC) | [Michael Hurley](https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz) | [Long Journey](https://open.spotify.com/album/3jqLDxYTcxRXOWIL6UcquW) | 2:23 |
 
-Snapshot ID: `AAAMI+wOeUEDdrV8PsbD8SBXaaPPNJUq`
+Snapshot ID: `AAAMJU3rKpLpMem+frbXdJPzUIf8FBCG`

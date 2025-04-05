@@ -1,6 +1,6 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 145954,
+  "num_followers": 146007,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Flat Beat",
-        "url": "https://open.spotify.com/album/4rUN2CpOOBouCSnbi3MfYQ"
-      },
-      "artists": [
-        {
-          "name": "Mr. Oizo",
-          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
-        }
-      ],
-      "duration_ms": 325173,
-      "name": "Flat Beat",
-      "url": "https://open.spotify.com/track/7GP1ZmPGH1puBliT9S6Fi5"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Metropol",
         "url": "https://open.spotify.com/album/1XOuXmeh4RlQLTzfA18T6n"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 192640,
       "name": "Leave You Far Behind",
       "url": "https://open.spotify.com/track/1Abqb6agIOK1XLPaJhWm3G"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Flat Beat",
+        "url": "https://open.spotify.com/album/4rUN2CpOOBouCSnbi3MfYQ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Oizo",
+          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
+        }
+      ],
+      "duration_ms": 325173,
+      "name": "Flat Beat",
+      "url": "https://open.spotify.com/track/7GP1ZmPGH1puBliT9S6Fi5"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -867,22 +867,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "9 PM (Till I Come)",
-        "url": "https://open.spotify.com/album/428Ab5xsfGFbb1wnxofCHz"
-      },
-      "artists": [
-        {
-          "name": "ATB",
-          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
-        }
-      ],
-      "duration_ms": 199520,
-      "name": "9 PM (Till I Come) - Radio Edit",
-      "url": "https://open.spotify.com/track/0pGJlSKAbf80ZCjP0X4hWJ"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Saturday Teenage Kick",
         "url": "https://open.spotify.com/album/5BM8CimFKOpUHa9zUmcZHV"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 327173,
       "name": "Dealing with the Roster",
       "url": "https://open.spotify.com/track/6mnQcJtt3gMf9jBAj957le"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "9 PM (Till I Come)",
+        "url": "https://open.spotify.com/album/428Ab5xsfGFbb1wnxofCHz"
+      },
+      "artists": [
+        {
+          "name": "ATB",
+          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "9 PM (Till I Come) - Radio Edit",
+      "url": "https://open.spotify.com/track/0pGJlSKAbf80ZCjP0X4hWJ"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1252,9 +1252,9 @@
           "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
         }
       ],
-      "duration_ms": 298373,
-      "name": "Midnight In A Perfect World",
-      "url": "https://open.spotify.com/track/1z6zJqayfsAiiYtQ3minb7"
+      "duration_ms": 117240,
+      "name": "Organ Donor",
+      "url": "https://open.spotify.com/track/6TdnvxC5E146AXv1doDshO"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1396,9 +1396,9 @@
           "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
         }
       ],
-      "duration_ms": 117240,
-      "name": "Organ Donor",
-      "url": "https://open.spotify.com/track/6TdnvxC5E146AXv1doDshO"
+      "duration_ms": 298373,
+      "name": "Midnight In A Perfect World",
+      "url": "https://open.spotify.com/track/1z6zJqayfsAiiYtQ3minb7"
     },
     {
       "added_at": "2021-07-14 17:36:34",

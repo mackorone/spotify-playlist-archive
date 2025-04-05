@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Blue Without You",
+        "url": "https://open.spotify.com/album/6RwqfJCzOrKXUb7ZDA7i5i"
+      },
+      "artists": [
+        {
+          "name": "Josef Homola",
+          "url": "https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Blue Without You",
+      "url": "https://open.spotify.com/track/2CpQl1stZIShcwat5Y6Q8Z"
+    },
+    {
+      "album": {
         "name": "BOREALIS",
         "url": "https://open.spotify.com/album/2XibE0DeSP1RICvxzugHNz"
       },
@@ -1528,7 +1546,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 173306,
       "name": "Slow Movements",
       "url": "https://open.spotify.com/track/5Ts7azb9QNWm8r64F4QZap"

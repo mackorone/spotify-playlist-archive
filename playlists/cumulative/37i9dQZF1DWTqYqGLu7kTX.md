@@ -4,7 +4,7 @@
 
 > Best of Punjabi Hip\-Hop!<br/>Cover: Baggh\-E SMG , Big Kay SMG, Farmaan SMG
 
-260 songs - 12 hr 54 min
+261 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [High Life](https://open.spotify.com/track/3RrVXkpx3ctvxuk0z6AdlX) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx) | [High Life](https://open.spotify.com/album/0odPCxXewWJuCxhGXdwTDM) | 2:42 | 2023-09-13 | 2024-02-03 |
 | [High On You](https://open.spotify.com/track/2eqUVYJVnlDs8PgOtuOlJm) | [Jind Universe](https://open.spotify.com/artist/5KmFbbptaZhEtmMibvibUE) | [High On You](https://open.spotify.com/album/7kt5CDMRKbe25KBeHDthWC) | 2:20 | 2025-01-17 |  |
 | [Hisaab](https://open.spotify.com/track/1yRBYvgibg7JVS6uGvbDGU) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 3:26 | 2024-02-15 | 2024-03-05 |
-| [Hitman \- From "Fateh"](https://open.spotify.com/track/5nAsPRprdIUuFIHQVFsIpa) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Leo Grewal](https://open.spotify.com/artist/2fQMiJ1MvUHYPfJsKAhIIr), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hitman \(From "Fateh"\)](https://open.spotify.com/album/3pS5mcOU46aJrH84XpeCMT) | 3:05 | 2024-12-19 |  |
+| [Hitman \- From "Fateh"](https://open.spotify.com/track/5nAsPRprdIUuFIHQVFsIpa) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Leo Grewal](https://open.spotify.com/artist/2fQMiJ1MvUHYPfJsKAhIIr), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hitman \(From "Fateh"\)](https://open.spotify.com/album/3pS5mcOU46aJrH84XpeCMT) | 3:05 | 2024-12-19 | 2025-04-05 |
 | [HOBBIES](https://open.spotify.com/track/18wzW9g7ydcXFlz3PRuQE6) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [GLOBAL WARNING](https://open.spotify.com/album/5dbxmcCgZQLdsLtZW5398p) | 2:48 | 2023-07-31 | 2023-10-13 |
 | [Hood Famous](https://open.spotify.com/track/5iVYMQKl3OZi0ULxeKAkho) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Relentless](https://open.spotify.com/album/5RUFZa2yj47Co6rMWEJzwQ) | 2:56 | 2023-04-23 | 2024-03-28 |
 | [Howdy Hommies](https://open.spotify.com/track/5KZv0p9MQ2QGuSZeoPOnbe) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [SYNC](https://open.spotify.com/artist/2AgkVvon5F9e3XEBveFe5K) | [Sensational](https://open.spotify.com/album/7BbuSjeZmKAaXYt22Av57u) | 2:22 | 2024-10-10 | 2024-11-09 |
@@ -211,6 +211,7 @@
 | [Puppy Eyes Freestyle](https://open.spotify.com/track/2HbB9fOd7J4NalwFAVAT6M) | [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [Puppy Eyes Freestyle](https://open.spotify.com/album/34K9SvekBivdj94e5Ovexv) | 1:24 | 2024-03-27 | 2024-04-11 |
 | [Rap God](https://open.spotify.com/track/7E7Qr1dkP0tZytL0EjLD6e) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Handles Tdnb](https://open.spotify.com/artist/4MgIiRaYRGgOEpz8DUut6Q), [Marvi\-Sahiban](https://open.spotify.com/artist/7pxPWe5e97S33DsFfdyz7R) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:23 | 2024-08-26 | 2024-10-25 |
 | [Real Talk](https://open.spotify.com/track/4mPtl3xcn3YForEsRWIsAT) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Real Talk](https://open.spotify.com/album/4Bor4XW3CmFk3tyF19Ysxt) | 2:38 | 2024-03-15 | 2024-05-17 |
+| [Regions](https://open.spotify.com/track/41rBgLENFkfdMRT7ZyZKQC) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [By Any Means](https://open.spotify.com/album/4Gn0Jhsoq3Q0a5TtoSb35D) | 2:46 | 2025-04-04 |  |
 | [Route 66](https://open.spotify.com/track/0c4JEW8BzPQR28UjisvEMf) | [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD), [Irman](https://open.spotify.com/artist/6PekRKJMJZzbPCcFhjUyH1) | [If the Sun Had a Dark Side](https://open.spotify.com/album/4jAKk2fxLBXxHnaXs6oLwx) | 2:31 | 2024-10-18 | 2024-11-12 |
 | [Rubicon Drill](https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Forever](https://open.spotify.com/album/4qlI6YM61j9NeGe832mExq) | 3:08 | 2023-03-18 |  |
 | [Safety Off](https://open.spotify.com/track/3NwmvlTYDZPRBGDMGgJH8K) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 2:23 | 2024-02-02 |  |

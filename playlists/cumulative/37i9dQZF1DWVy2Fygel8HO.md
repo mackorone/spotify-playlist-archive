@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-171 songs - 7 hr 5 min
+173 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Briefly](https://open.spotify.com/track/5c32g8ZBUZCClHDb545VQs) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Briefly](https://open.spotify.com/album/0SU6Lu0SRMIe3efMEms6JJ) | 1:58 | 2023-05-09 |  |
 | [Can't Wait](https://open.spotify.com/track/4mv7yv3xb6CFLUEZ0ndowA) | [Maura Huffman](https://open.spotify.com/artist/60HUetND2GEvv5sPhsdujy) | [Can't Wait](https://open.spotify.com/album/5BOUDuuez1jkMjVmlvnyNQ) | 2:05 | 2023-05-09 |  |
 | [Candles](https://open.spotify.com/track/3c2mI16b5l3zEPNsNdWqSf) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Candles](https://open.spotify.com/album/1eQlINbY8VmjpT2nmQm6Nn) | 2:52 | 2023-08-15 |  |
+| [Celandine](https://open.spotify.com/track/5jQYFxt77oQWFQXbok9jcq) | [Aldo Talete](https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W) | [Celandine](https://open.spotify.com/album/6nwjj72G7P6AjnMACNl8Qe) | 3:10 | 2025-04-04 |  |
 | [Circles](https://open.spotify.com/track/3MnM36tXNPNP49cUxhHrtD) | [Irma Kantola](https://open.spotify.com/artist/7eP5EaPos8EeIsG7UJfEVP) | [Circles](https://open.spotify.com/album/4DZ886WDUnLriERKMmAbt8) | 2:17 | 2023-05-09 |  |
 | [Close your Eyes](https://open.spotify.com/track/6koJtjGt395U7QwSpoPZBn) | [Gil Sunniver](https://open.spotify.com/artist/0XIQZ8AnQiQ0f5l2mJiCfM) | [Close your Eyes](https://open.spotify.com/album/3aAxFLIoHyNo9FgAdrcGv7) | 1:46 | 2023-05-09 |  |
 | [Closing Stages](https://open.spotify.com/track/45XxWtNAwclSQIBJDUVw6N) | [Marius Notar](https://open.spotify.com/artist/2XBVOEAwFri2h8RpBa2nqT) | [Closing Stages](https://open.spotify.com/album/2uAnT5ZeIyl28nA97aJ9YP) | 2:49 | 2023-06-20 |  |
@@ -56,6 +57,7 @@
 | [Estelle](https://open.spotify.com/track/2XPxkVgxyj4QVaW78kS5vb) | [Doris Casella](https://open.spotify.com/artist/7B0BAZDsfvl8duBfVjlSyJ) | [Estelle](https://open.spotify.com/album/2RtrUW1IaYnI9OAVN4XGDY) | 1:58 | 2023-05-09 |  |
 | [Fall a hundred times](https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Fall a hundred times](https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47) | 2:16 | 2023-10-04 |  |
 | [Falling](https://open.spotify.com/track/4E8wWBFP9pcapPCwhaweEu) | [Amida Lei](https://open.spotify.com/artist/02GzPLj2yWvXwcVC1ZRFsx) | [Falling](https://open.spotify.com/album/5w3OkVag9yEJQzY9nY1hVJ) | 3:06 | 2023-05-09 |  |
+| [Fernweh](https://open.spotify.com/track/2ZiPXDK7uxEQtvlPwyQn5a) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Fernweh](https://open.spotify.com/album/4UDwsawToHCgtQgNNGT8rd) | 2:04 | 2025-04-04 |  |
 | [Fiore](https://open.spotify.com/track/0WawGuRGr9dUuAL2ifURnx) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Fiore](https://open.spotify.com/album/3uNpgppb88r1tYCOUyIQ2h) | 2:24 | 2025-02-18 |  |
 | [Fjord](https://open.spotify.com/track/3nb0mXvI0kiyo4dQUZx1Tj) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Fjord](https://open.spotify.com/album/04H8WtE9iGuS0cU9xGWJLs) | 2:37 | 2024-07-30 |  |
 | [fleur au vent](https://open.spotify.com/track/0FVTRr4Xf05TsboxNTESFI) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [fleur au vent](https://open.spotify.com/album/3uJ98jRYQe813KxNufJxKl) | 2:36 | 2025-02-18 |  |

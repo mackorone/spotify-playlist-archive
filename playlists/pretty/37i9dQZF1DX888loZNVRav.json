@@ -1,13 +1,41 @@
 {
-  "description": "Love at its most dramatic. Cover: Moulin Rouge",
-  "num_followers": 27484,
+  "description": "Love at its most dramatic. Cover: Boop! The Musical.",
+  "num_followers": 27492,
   "original_name": "Broadway in Love!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmywywAAAAAnH/KjvFr8v7KRi9RS1RMj",
+  "snapshot_id": "Z+9ZSgAAAABW8MAZoxKIIdITMhT0W5Rg",
   "tracks": [
+    {
+      "added_at": "2025-04-04 04:00:10",
+      "album": {
+        "name": "Why Look Around The Corner",
+        "url": "https://open.spotify.com/album/4rU435RIfQVkM3kz91r6Zx"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Amy Rogers",
+          "url": "https://open.spotify.com/artist/4brDzNt7bsWWsApI8sWWlp"
+        },
+        {
+          "name": "Original Broadway Cast of Boop! The Musical",
+          "url": "https://open.spotify.com/artist/1HsCn7QzhAwXtzt9fejQoT"
+        },
+        {
+          "name": "David Foster",
+          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
+        },
+        {
+          "name": "Ainsley Melham",
+          "url": "https://open.spotify.com/artist/0BLHPEZNAUa4U0AGjdADTM"
+        }
+      ],
+      "duration_ms": 234946,
+      "name": "Why Look Around The Corner",
+      "url": "https://open.spotify.com/track/7b7eQyaNI1cQ84aWd7Ttai"
+    },
     {
       "added_at": "2024-06-14 21:06:19",
       "album": {
@@ -1487,38 +1515,6 @@
       "duration_ms": 228826,
       "name": "I Could Have Danced All Night",
       "url": "https://open.spotify.com/track/1r834EF69ac3n4roRFX0fm"
-    },
-    {
-      "added_at": "2024-06-14 21:06:19",
-      "album": {
-        "name": "The Phantom Of The Opera",
-        "url": "https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6"
-      },
-      "artists": [
-        {
-          "name": "Andrew Lloyd Webber",
-          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
-        },
-        {
-          "name": "Phantom Of The Opera Original London Cast",
-          "url": "https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25"
-        },
-        {
-          "name": "Rosemary Ashe",
-          "url": "https://open.spotify.com/artist/3Oju6zkuJzum4svKeVhKiK"
-        },
-        {
-          "name": "Sarah Brightman",
-          "url": "https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5"
-        },
-        {
-          "name": "Steve Barton",
-          "url": "https://open.spotify.com/artist/1gEOIEK9jgpYvvG57BP0US"
-        }
-      ],
-      "duration_ms": 249066,
-      "name": "Think Of Me",
-      "url": "https://open.spotify.com/track/31Irb8d3UBRfEcaHDzQxsK"
     },
     {
       "added_at": "2024-06-14 21:06:19",

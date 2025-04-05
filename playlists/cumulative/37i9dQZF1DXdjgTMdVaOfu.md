@@ -4,11 +4,11 @@
 
 > Music from "The Apothecary Diaries" ©日向夏・イマジカインフォス／「薬屋のひとりごと」製作委員会
 
-100 songs - 4 hr 24 min
+102 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#4【薬屋のひとりごと】  悠木碧×長沼範裕監督「台本のト書きはキャストさんへのメッセージ」](https://open.spotify.com/episode/5acv0jF7d9y2J3cD7FMydz) | [Spotify ANIZONE \- アニゾーン 【TVアニメ『日本へようこそエルフさん。』】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【TVアニメ『日本へようこそエルフさん。』】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 31:18 | 2024-03-26 |  |
+| [\#4【薬屋のひとりごと】  悠木碧×長沼範裕監督「台本のト書きはキャストさんへのメッセージ」](https://open.spotify.com/episode/5acv0jF7d9y2J3cD7FMydz) | [Spotify ANIZONE \- アニゾーン 【TVアニメ『WIND BREAKER』】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【TVアニメ『WIND BREAKER』】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 31:18 | 2024-03-26 |  |
 | [Apothecary](https://open.spotify.com/track/62kUz7a77fClCwKxoyFeP6) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [The Apothecary Diaries \(Original Anime Soundtrack\)](https://open.spotify.com/album/60GhreuWPvQvllHiuvptsJ) | 2:44 | 2024-03-25 | 2024-04-19 |
 | [Balsam](https://open.spotify.com/track/3xm9zfONJY8OHvlzFJGnvC) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [The Apothecary Diaries \(Original Anime Soundtrack\)](https://open.spotify.com/album/60GhreuWPvQvllHiuvptsJ) | 2:54 | 2024-03-25 | 2024-04-19 |
 | [Blaze of Clear Sky \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/04xIuk7yE5S3ucvzd7VNi2) | [Daichi Takenaka](https://open.spotify.com/artist/40kOocaMWxJX2dIYzDAUmB), [Mashiro Uchida](https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [Blaze of Clear Sky \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/23GffvhwgaUE3p6K3ZCDFT) | 1:58 | 2024-03-24 | 2024-04-19 |
@@ -60,10 +60,12 @@
 | [When Wishes Bloom \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/6QF9LXzRKg7xvNNrgB8qZ3) | [Aoiema](https://open.spotify.com/artist/10XKbVG4CEEwWKkcSRAG8D), [Mashiro Uchida](https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [The Apothecary Diaries \(Original Anime Soundtrack\)](https://open.spotify.com/album/60GhreuWPvQvllHiuvptsJ) | 4:38 | 2024-03-25 | 2024-03-28 |
 | [Withered Rose](https://open.spotify.com/track/7wdJTmoQJUFKNcVRntyaGC) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [The Apothecary Diaries \(Original Anime Soundtrack\)](https://open.spotify.com/album/60GhreuWPvQvllHiuvptsJ) | 2:03 | 2024-03-25 | 2024-04-19 |
 | [いつでも帰っておいで](https://open.spotify.com/track/3YZ9JzzThDjJkaQoBWJjUv) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TV アニメ『薬屋のひとりごと』オリジナル・サウンドトラック](https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ) | 1:51 | 2024-03-24 |  |
+| [ひとりごと](https://open.spotify.com/track/43QChW7cZQdAmWbmamy2mZ) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [ひとりごと](https://open.spotify.com/album/1OGAMDzKGcyx5K5LZmHUeI) | 4:37 | 2025-04-04 |  |
 | [やり手婆](https://open.spotify.com/track/1CVcvXiWw1hpwfMVgwSpQu) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TV アニメ『薬屋のひとりごと』オリジナル・サウンドトラック](https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ) | 1:33 | 2024-03-24 |  |
 | [アイコトバ](https://open.spotify.com/track/3OtR0cI6ngSveZ3sxOARa9) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [アイコトバ](https://open.spotify.com/album/6HlF6mu7x9hT21LdjIhgG4) | 4:44 | 2024-03-24 |  |
 | [アニメ『薬屋のひとりごと』猫猫からのスペシャルメッセージ](https://open.spotify.com/track/3lK8E489nFS4RXiNOVZy0m) | [アニメ『薬屋のひとりごと』](https://open.spotify.com/artist/7xLir1K2HcRK1VuNRa2B8k) | [アニメ『薬屋のひとりごと』猫猫からのスペシャルメッセージ](https://open.spotify.com/album/6eOv7Uylkaazu0WU4UsNgB) | 1:04 | 2024-12-09 |  |
 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 | 2024-03-24 |  |
+| [クスシキ](https://open.spotify.com/track/3huSUfmhUr4entz2S0G31O) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [クスシキ](https://open.spotify.com/album/1VoARePwuGf1zb7iYKuOqd) | 3:08 | 2025-04-04 |  |
 | [シャコバサボテン](https://open.spotify.com/track/3boXsKsMJ6T2iREprCmHzf) | [Alisa Okehazama](https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR) | [TV アニメ『薬屋のひとりごと』オリジナル・サウンドトラック](https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ) | 2:01 | 2024-03-24 |  |
 | [ホトトギス](https://open.spotify.com/track/63ppnnxSbSz7Uhg0JuZRLA) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TV アニメ『薬屋のひとりごと』オリジナル・サウンドトラック](https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ) | 1:20 | 2024-03-24 |  |
 | [人影](https://open.spotify.com/track/4aCgi5OaUy8N5P07gCffoE) | [Alisa Okehazama](https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR) | [TV アニメ『薬屋のひとりごと』オリジナル・サウンドトラック](https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ) | 2:14 | 2024-03-24 |  |

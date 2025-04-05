@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops\. Cover: Theo Croker
 
-431 songs - 1 day 2 hr 3 min
+432 songs - 1 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Earthbound](https://open.spotify.com/track/7BxU2TjXBu8vsj8b65pZOx) | [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6), [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [9](https://open.spotify.com/album/0tFXAGYveNW9bQYRBXOwKO) | 6:49 | 2022-03-25 |  |
 | [Eating Stars](https://open.spotify.com/track/7euExgLs6Biwgay4LgXmAd) | [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [Bao](https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg) | [Eating Stars](https://open.spotify.com/album/4HWYpLapCz4IrxJqq3wvgW) | 2:55 | 2024-09-20 |  |
 | [EAV \(Elia Bishara Remix\)](https://open.spotify.com/track/6NEr5gRrW3lD2o5Oi1yigG) | [FORQ](https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1), [Elia Bishara](https://open.spotify.com/artist/3xZoTrvQZKGDJERzVcjW5q) | [EAV \(Elia Bishara Remix\)](https://open.spotify.com/album/5eG9SYzeKrnU0TjwGMQgcR) | 3:14 | 2021-08-06 |  |
+| [Eclipse the Moon](https://open.spotify.com/track/0bvuAdxKXmf9FGA4vb37hK) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Eclipse the Moon](https://open.spotify.com/album/1HLQWCaeOjWfHfRYPmkoGu) | 3:27 | 2025-04-04 |  |
 | [EEEEEE](https://open.spotify.com/track/4cwZccylplyt4Q5dJP5HBR) | [cosmic collective](https://open.spotify.com/artist/6ereX9sq3PEIBLASJA8YEW), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX) | [EEEEEE](https://open.spotify.com/album/2dk4jep9MfQytEnNhepL2k) | 2:21 | 2024-10-11 | 2025-03-08 |
 | [Elegua](https://open.spotify.com/track/6hrqOEr7Si0SXVFPvfa3Vq) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y), [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Elegua](https://open.spotify.com/album/3ewE7SWKWZsinOOCMqrgLA) | 2:28 | 2022-07-05 |  |
 | [Elias](https://open.spotify.com/track/7gypKFtIpctPB9CjofGdEC) | [pyxis](https://open.spotify.com/artist/6Hb29cwvtPMH6wThCBqGQ5) | [Gradients Part One](https://open.spotify.com/album/2Cyt2GG3bGywzFbgOt2y7k) | 4:56 | 2022-07-29 |  |
@@ -256,7 +257,7 @@
 | [NEW JUICE](https://open.spotify.com/track/33w565e67DOq4RgLhpffXE) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB), [E\-SWERVE](https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG) | [NEW JUICE](https://open.spotify.com/album/5bzTjGyPa8kHwLjvXHmTTs) | 2:57 | 2022-04-29 | 2022-07-26 |
 | [No Late Fees](https://open.spotify.com/track/0BN4voQGMJOmDWfNeSHHhv) | [Joy Guerrilla](https://open.spotify.com/artist/1wKZCBliNvp21MffTj35TE) | [No Late Fees](https://open.spotify.com/album/63cGaGHmIAhfoFhojiOJpu) | 4:59 | 2021-01-29 | 2022-07-29 |
 | [No Sleep Til MTL](https://open.spotify.com/track/4gUlRAieJFmg3np9cyE7pj) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m) | [Nick & Astro's Guide to the Galaxy](https://open.spotify.com/album/7A5qXWQsPMSU1P5FNIe72b) | 4:53 | 2021-01-29 | 2022-03-15 |
-| [No\-One \(K\)new](https://open.spotify.com/track/54haHgocgHPec2TrAdjRmA) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Soft Serve \(Saxually Active Vol\. 2\)](https://open.spotify.com/album/2sv1Ftc2iiBM52DJwvLYZt) | 2:53 | 2024-10-04 |  |
+| [No\-One \(K\)new](https://open.spotify.com/track/54haHgocgHPec2TrAdjRmA) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Soft Serve \(Saxually Active Vol\. 2\)](https://open.spotify.com/album/2sv1Ftc2iiBM52DJwvLYZt) | 2:53 | 2024-10-04 | 2025-04-05 |
 | [Northbound](https://open.spotify.com/track/7I2WxS94I9LWQSg1ACHOTN) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Northbound](https://open.spotify.com/album/6apB9H9CL3iL6L7qQw3Hrz) | 2:15 | 2021-07-09 | 2023-06-03 |
 | [Nostalgia for the Light](https://open.spotify.com/track/0UGGP2Yi2A4Sh2Q9TqayZX) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Emile Parisien](https://open.spotify.com/artist/0KYFSSpklRwCSM31sHD4s6), [Tim Lefebvre](https://open.spotify.com/artist/0f92BXRSv36fG7o3QxCQ38), [Christian Lillinger](https://open.spotify.com/artist/4qSlZL1HI3eqZ5oFP0ZR26) | [XXXX](https://open.spotify.com/album/4IStAnJ6JI7ivJY8IGpTOW) | 5:21 | 2021-04-09 | 2024-04-19 |
 | [Nostalgia for the Light](https://open.spotify.com/track/5tXJRqQ7RgjlYunSzjlkOD) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Emile Parisien](https://open.spotify.com/artist/0KYFSSpklRwCSM31sHD4s6), [Tim Lefebvre](https://open.spotify.com/artist/0f92BXRSv36fG7o3QxCQ38), [Christian Lillinger](https://open.spotify.com/artist/4qSlZL1HI3eqZ5oFP0ZR26) | [Nostalgia for the Light](https://open.spotify.com/album/7abFEjbIV2UgZk67DmsLXQ) | 5:21 | 2021-03-26 |  |

@@ -1,6 +1,6 @@
 {
   "description": "As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.",
-  "num_followers": 272588,
+  "num_followers": 272601,
   "original_name": "Wine & Dine",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "ZowxmwAAAACHm32LUnHV2Qa6Znku7lXp",
   "tracks": [
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX"
-      },
-      "artists": [
-        {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
-        }
-      ],
-      "duration_ms": 217346,
-      "name": "When I See U",
-      "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
-    },
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 261866,
       "name": "So Into You",
       "url": "https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX"
+      },
+      "artists": [
+        {
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+        }
+      ],
+      "duration_ms": 217346,
+      "name": "When I See U",
+      "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
     },
     {
       "added_at": "2022-05-24 13:35:26",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "Kenny Lattimore",
-        "url": "https://open.spotify.com/album/1H10hT3tMPtL2uD3rIQRUE"
-      },
-      "artists": [
-        {
-          "name": "Kenny Lattimore",
-          "url": "https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/4eI8okfmurpexL41RdjkGA"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
         "name": "My Heart",
         "url": "https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 222760,
       "name": "Knocks Me Off My Feet",
       "url": "https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "Kenny Lattimore",
+        "url": "https://open.spotify.com/album/1H10hT3tMPtL2uD3rIQRUE"
+      },
+      "artists": [
+        {
+          "name": "Kenny Lattimore",
+          "url": "https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/4eI8okfmurpexL41RdjkGA"
     },
     {
       "added_at": "2024-03-25 18:34:57",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 
 > Soulful, bluesy ballads\. Cover: Kashus Culpepper
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,924 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,946 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 83 | [Walking Wounded](https://open.spotify.com/track/0oda94HwAfT8uLO7jC3ykV) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3), [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7), [Livingstone Brown](https://open.spotify.com/artist/31sc2XGm5zXKCGybwD0azD) | [United State of Mind](https://open.spotify.com/album/0M6vvqZo0MkpukkCikKpad) | 4:14 |
 | 84 | [Promised Myself](https://open.spotify.com/track/0iCw9B4GfBrwbP6fTrzO6b) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 5:19 |
 | 85 | [\(I Heard That\) Lonesome Whistle](https://open.spotify.com/track/181U4xxmR8BvLd0UpwWSBd) | [Darrell Scott](https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0) | [Darrell Scott Sings the Blues of Hank Williams](https://open.spotify.com/album/5hgYYzIFXu2v4gex0PY4Cy) | 3:40 |
-| 86 | [Take Me Home](https://open.spotify.com/track/4PyYmYeTVUv2dEkaj1VxnG) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [ノー・ビギニング・ノー・エンド 2](https://open.spotify.com/album/0KKurlvDI9YjNgwHm8fNP4) | 4:11 |
+| 86 | [Take Me Home](https://open.spotify.com/track/4PyYmYeTVUv2dEkaj1VxnG) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [No Beginning No End 2](https://open.spotify.com/album/0KKurlvDI9YjNgwHm8fNP4) | 4:11 |
 | 87 | [I'm Only Lonely](https://open.spotify.com/track/4bkjWF12Zz5Ri60OiHbNFV) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Reckless Heart](https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG) | 5:28 |
 | 88 | [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/track/7vCfPnxfZstgS5QUlWV7aY) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/album/026ZioCze6KbxDpunugdId) | 4:43 |
 | 89 | [Nearer to You](https://open.spotify.com/track/4r27op6qF2c6aOvVwiaNrI) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Chills & Fever](https://open.spotify.com/album/23zeW7minvQQfP2XifkF17) | 3:24 |

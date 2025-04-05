@@ -3985,6 +3985,24 @@
     },
     {
       "album": {
+        "name": "EVER",
+        "url": "https://open.spotify.com/album/6Hd2ZOJ8Lt8ePovI7ZFpTw"
+      },
+      "artists": [
+        {
+          "name": "Hebi",
+          "url": "https://open.spotify.com/artist/0hJZEIh0mcRY6wl5LAlpDv"
+        }
+      ],
+      "date_added": "2025-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201306,
+      "name": "EVER",
+      "url": "https://open.spotify.com/track/7kZDgpf6ebA3dlgt0vdRv2"
+    },
+    {
+      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/4ZALM5WKnmqL1sJouAAFqw"
       },
@@ -7008,7 +7026,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 158360,
       "name": "Into You",
       "url": "https://open.spotify.com/track/049uXN76j7jCn0OrQiSDCm"

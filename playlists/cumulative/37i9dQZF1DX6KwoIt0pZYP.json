@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 156641,
       "name": "ASAP",
       "url": "https://open.spotify.com/track/7q3u8wOVtj4dOiUmSPu0Ez"
@@ -3396,7 +3396,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 162151,
       "name": "confidence in me",
       "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
@@ -11480,7 +11480,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 215972,
       "name": "MIDNIGHT",
       "url": "https://open.spotify.com/track/3rIWdmJhTiE5LiUfFhPOiY"
@@ -15825,6 +15825,24 @@
     },
     {
       "album": {
+        "name": "Snacks & Wine",
+        "url": "https://open.spotify.com/album/67bKkiZdLSR4w0wJA3EsHI"
+      },
+      "artists": [
+        {
+          "name": "WIM",
+          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210543,
+      "name": "Snacks & Wine",
+      "url": "https://open.spotify.com/track/5YZR3UQJQ8OLWYjhieJ6hn"
+    },
+    {
+      "album": {
         "name": "Snowy Road",
         "url": "https://open.spotify.com/album/32jiuNbErLfzOYpvH0GkH8"
       },
@@ -16254,6 +16272,28 @@
       "duration_ms": 168053,
       "name": "someone will love you better - Zack Tabudlo Version",
       "url": "https://open.spotify.com/track/5vYv4cboyu9XJvk2CQPuyh"
+    },
+    {
+      "album": {
+        "name": "Something About You (feat. FIG)",
+        "url": "https://open.spotify.com/album/0rz0PV7kFLjmcTVZ5WgGDw"
+      },
+      "artists": [
+        {
+          "name": "Echo Huang",
+          "url": "https://open.spotify.com/artist/3nCCEiChcmfz65ccX2BzdE"
+        },
+        {
+          "name": "FIG",
+          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "Something About You (feat. FIG)",
+      "url": "https://open.spotify.com/track/0sr5bb8p1PkyD2PbER33yp"
     },
     {
       "album": {
@@ -19515,6 +19555,24 @@
     },
     {
       "album": {
+        "name": "When I Loved You",
+        "url": "https://open.spotify.com/album/2MQmCk9CWJRhSfnnbF0OxM"
+      },
+      "artists": [
+        {
+          "name": "Matthew Ifield",
+          "url": "https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208808,
+      "name": "When I Loved You",
+      "url": "https://open.spotify.com/track/6uOT7G2JvftdMvPxeSJCW5"
+    },
+    {
+      "album": {
         "name": "when the rain stopped following me",
         "url": "https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU"
       },
@@ -20003,6 +20061,24 @@
     },
     {
       "album": {
+        "name": "Wonderland",
+        "url": "https://open.spotify.com/album/4lVzhQFlhWyEMguM9B890m"
+      },
+      "artists": [
+        {
+          "name": "Alice Lee",
+          "url": "https://open.spotify.com/artist/5pESuWfJEKxJdEEhZKFDC5"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164686,
+      "name": "Wonderland",
+      "url": "https://open.spotify.com/track/7deGAqdTfmHFHYZBJwU0ge"
+    },
+    {
+      "album": {
         "name": "Won\u2019t Let You Go - \u300a\u827e\u5609\u98df\u5802\u300b\u63d2\u66f2",
         "url": "https://open.spotify.com/album/74Em8G3EBrXlHunnmEEVkN"
       },
@@ -20086,7 +20162,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 190432,
       "name": "would you be mine?",
       "url": "https://open.spotify.com/track/4JXFK04oMgM5HPKOQnUWuK"

@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Harmonize & Miri Ben\-Ari
 
-524 songs - 1 day 5 hr 58 min
+525 songs - 1 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Final](https://open.spotify.com/track/5mFGSbg87MiGcbyvJ1CyZU) | [Cheed](https://open.spotify.com/artist/2qB04YVOV3cm2YSEn5L90z) | [Final](https://open.spotify.com/album/1tIams5EiCYLSlutOW04rU) | 3:00 | 2021-10-29 | 2022-03-04 |
 | [Finally \(feat\. Miri Ben\-Ari\)](https://open.spotify.com/track/6EzI363irSPtlAmjpR0irr) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Miri Ben\-Ari](https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx) | [Finally \(feat\. Miri Ben\-Ari\)](https://open.spotify.com/album/0wmmR8fK5GkdHwGc9hnUkT) | 3:28 | 2025-04-04 |  |
 | [Finesse \(East African Mix\) \- feat\. Rayvanny & Theecember](https://open.spotify.com/track/1mKt6MgYyZv6h8aTxX4ng8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Theecember](https://open.spotify.com/artist/0rzJVsg2Vmtvh9yBrPB2fs) | [Finesse \(East African Mix\) \[feat\. Rayvanny & Theecember\]](https://open.spotify.com/album/1eo8bkskV4VPzTLvKidTbE) | 2:35 | 2022-06-30 | 2023-01-13 |
+| [Fitingi \(feat\. Marioo\)](https://open.spotify.com/track/5UhDCKzxdH5RLbnUL5f4ld) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Fitingi \(feat\. Marioo\)](https://open.spotify.com/album/14LrFiTCxQoYkteAQO4iJY) | 3:00 | 2025-04-04 |  |
 | [Fly Away](https://open.spotify.com/track/56y1MbtIRUbWUsR7pBE5ub) | [Navy Kenzo](https://open.spotify.com/artist/7oHH7jM5KdlCLHjr3OshQx) | [Fly Away](https://open.spotify.com/album/16fg1IYAkOpS2hdzltwys7) | 2:47 | 2023-11-17 | 2024-05-10 |
 | [Fofofo \(feat\. Young Lunya\)](https://open.spotify.com/track/4kvGwxShHMb2sslstdMcau) | [Aslay](https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Fofofo \(feat\. Young Lunya\)](https://open.spotify.com/album/2T9whvgRUn0rG84dz9h5CU) | 3:50 | 2022-08-18 | 2022-09-24 |
 | [For You](https://open.spotify.com/track/4CVrXgRl6AgcoJrXUGP6dZ) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [For You](https://open.spotify.com/album/61LXZNptzJVcA8cfA1afhW) | 3:24 | 2021-09-09 | 2022-09-02 |

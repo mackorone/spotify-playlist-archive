@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: King Roman
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,849 likes - 84 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,888 likes - 84 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

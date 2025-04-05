@@ -2,7 +2,7 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=lybU8UbGSVa\_4xkQ\_Gde1Q"> Nomfundo Moh</a>
+> Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=lybU8UbGSVa\_4xkQ\_Gde1Q"> Nomfundo Moh</a>, <a href="https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe?si=JNQSLjoEQQyGL1Fh\-8m2dw"> Blaq Diamond</a>
 
 636 songs - 1 day 21 hr 37 min
 

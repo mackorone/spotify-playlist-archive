@@ -1791,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/5eX6PGC2LjvecY3SKWtSYW"
+      },
+      "artists": [
+        {
+          "name": "Emilio Chiara",
+          "url": "https://open.spotify.com/artist/5a48GWM8CpVJtzLvnFn1js"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154226,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/6LNFiSpVmqEVftSp9t8lOG"
+    },
+    {
+      "album": {
         "name": "Echoes In The Wind",
         "url": "https://open.spotify.com/album/2UXh5wXXK266hiOoYkztV0"
       },

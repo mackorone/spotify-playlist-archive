@@ -4,7 +4,7 @@
 
 > The most intense local drill music firing up the continent\. Cover:  Beeztrap KOTM
 
-243 songs - 12 hr 14 min
+244 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Come & Go \- Black Sherif Remix](https://open.spotify.com/track/6LVGUOLhw6b9gayQvQvaqh) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Come & Go \(Black Sherif Remix\)](https://open.spotify.com/album/5fA5w0SjzUnAEaorPRLsht) | 2:59 | 2022-06-09 |  |
 | [Come Home](https://open.spotify.com/track/1wdXNMo95BlitTNEZQFx5U) | [Sean Lifer](https://open.spotify.com/artist/6rREDWo14PH0s8L1GEeZZ9) | [Come Home](https://open.spotify.com/album/16kupk4EciOXUkGKb72v3O) | 2:33 | 2022-10-30 | 2022-11-26 |
 | [Condemn \(feat\. City Boy, O'Kenneth, reggie & Kwaku DMC\)](https://open.spotify.com/track/5aFLIpPbYSIQWCxyDvBjqP) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Condemn \(feat\. City Boy, O'Kenneth, reggie & Kwaku DMC\)](https://open.spotify.com/album/6Xxe0hBs5HEpSpSMvkR91d) | 3:00 | 2022-06-09 | 2024-05-04 |
-| [Council Flat \(Feat\. Jay Bahd\)](https://open.spotify.com/track/76bZKPxfgrJtcwEZi7Wdbj) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [The Big 6](https://open.spotify.com/album/754CExL1ceHc55tOXmLhiX) | 3:30 | 2025-02-28 |  |
+| [Council Flat \(Feat\. Jay Bahd\)](https://open.spotify.com/track/76bZKPxfgrJtcwEZi7Wdbj) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [The Big 6](https://open.spotify.com/album/754CExL1ceHc55tOXmLhiX) | 3:30 | 2025-02-28 | 2025-04-05 |
 | [Daakye](https://open.spotify.com/track/3Y8OCjck8ETm5VfKfOJKGk) | [Holyrina](https://open.spotify.com/artist/7rTbmW7MnQQjLKpFdZrTuv) | [Daakye](https://open.spotify.com/album/5YCNI7m6CQt8zzGovlQakC) | 2:55 | 2024-05-24 | 2024-06-07 |
 | [Danjuma](https://open.spotify.com/track/64X4sdsIErlSmK7PtbqA9u) | [Kwesi Taadi](https://open.spotify.com/artist/5cwOSWuUV5wpdx7FmxRuVw) | [Musah Abonko Ne Nana](https://open.spotify.com/album/1XqsjZN6wEsM9WjSqB7LMt) | 2:34 | 2023-09-09 | 2024-01-05 |
 | [Devil Agent \(2 Fighting\)](https://open.spotify.com/track/6nFL2WU0fb8VEu9NVfGtw6) | [MAXINO](https://open.spotify.com/artist/6LTAaKONuHKKWR8ljjIbCA), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [Devil Agent \(2 Fighting\)](https://open.spotify.com/album/5bYg6iGA8bULUtNUlovZUK) | 3:12 | 2023-05-11 | 2023-06-10 |
@@ -225,6 +225,7 @@
 | [Tesco \(Feat\. Medikal\)](https://open.spotify.com/track/446yWd379q3bDzKbXyZ7UO) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [The Big 6](https://open.spotify.com/album/754CExL1ceHc55tOXmLhiX) | 3:41 | 2025-02-28 |  |
 | [The One that Got Away](https://open.spotify.com/track/6fClsr0nie6TaR58GcMGov) | [Ari Rei](https://open.spotify.com/artist/1UjKYaSaIIABUpkOVxvcPo) | [The One that Got Away](https://open.spotify.com/album/5keaD9M9G1AOoQgGn2FgYe) | 2:56 | 2024-04-19 | 2024-04-26 |
 | [Thoughts](https://open.spotify.com/track/6hpOjxBodjemG28YyRELEt) | [Kwayku](https://open.spotify.com/artist/7eyWJ5wi2uNgtEcdb6Imbg), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Genesis](https://open.spotify.com/album/6pgDWVNsYoDv3rUa4G3nO8) | 3:22 | 2024-05-03 | 2024-06-07 |
+| [Till We Die](https://open.spotify.com/track/6cRQPMi6eZTtP7VvKmc4Rw) | [Phaize](https://open.spotify.com/artist/4S0ZEMWDccpMd5ybPA6A9n), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Till We Die](https://open.spotify.com/album/7fLZKILabFwc8BJ3GIYYcU) | 3:57 | 2025-04-04 |  |
 | [Time](https://open.spotify.com/track/5KwDovDFkhSaBuRlcVke0x) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Time](https://open.spotify.com/album/5cJW97FT5Uo34WKxkkuOJk) | 2:45 | 2022-11-04 | 2023-02-11 |
 | [Tonight](https://open.spotify.com/track/4AwLs3NpQFSy5bhIdeXWll) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Tonight](https://open.spotify.com/album/5rikpwZ6bc9dweoWLojsyz) | 2:19 | 2023-11-17 | 2024-01-19 |
 | [Touché](https://open.spotify.com/track/7icSngvRJmY5FpcsXg67yv) | [Nasa Nassa](https://open.spotify.com/artist/1LKGSEPso33OnJ1fZxsQVP) | [Touché](https://open.spotify.com/album/1YuEqdkNN7wFiT3LfSKcdn) | 2:02 | 2023-03-10 | 2023-03-18 |

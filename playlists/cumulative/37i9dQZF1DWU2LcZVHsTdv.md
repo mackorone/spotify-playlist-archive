@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-272 songs - 16 hr 33 min
+273 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [More Church Than Church \(feat\. Walker Hayes\)](https://open.spotify.com/track/3iiSh6hLXOzeZ5HBM5heZw) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [God Help Me](https://open.spotify.com/album/5qwfcAITMqoSXLF5sh2yx8) | 3:48 | 2023-04-07 |  |
 | [More Than Me](https://open.spotify.com/track/3rwKMppuXXBCgiUX5oXVI6) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [More Than Me](https://open.spotify.com/album/69MD2GpLPj3eDGaLu2cagD) | 3:31 | 2022-08-05 |  |
 | [More Than Me](https://open.spotify.com/track/6TJJNHvXSlYzGFSHC5MVha) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [White Buffalo](https://open.spotify.com/album/3fZ3XCeb1byqYJSJrgOAMI) | 3:31 | 2023-05-19 | 2024-04-19 |
+| [My Foundation \- Acoustic](https://open.spotify.com/track/79z6TAwIBBFavJECflBOEN) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [My Foundation \(Acoustic\)](https://open.spotify.com/album/6gLpyUkE7xMRAxe5tW8nle) | 3:25 | 2025-04-04 |  |
 | [My Inheritance \(feat\. Corey Kent\)](https://open.spotify.com/track/7HhAzrseYW1JI1Mqj5CWYq) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [My Inheritance](https://open.spotify.com/album/4d0tG6cGFGiNhRDWsjZR2P) | 3:34 | 2023-12-15 |  |
 | [My Jesus](https://open.spotify.com/track/0KNvJzxdbslBddN27BEhfm) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/5ZwIIiWOaDiCIE9mNaAoWG) | 3:37 | 2021-12-10 |  |
 | [Nearer My God To Thee](https://open.spotify.com/track/4YEc0qCOtR53aduLgURSVT) | [Chris Else](https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP) | [Nearer My God To Thee](https://open.spotify.com/album/5ANnfvCCSn3tNujhrGxPIg) | 4:10 | 2021-12-10 | 2024-12-14 |

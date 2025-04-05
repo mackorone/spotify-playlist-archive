@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Grant. The essential tracks, all in one playlist.",
-  "num_followers": 18308,
+  "num_followers": 18310,
   "original_name": "This Is Amy Grant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+x+AAAAAAC3PNdPWCwqx5IZ0eYnPDM1",
+  "snapshot_id": "Z+3PgAAAAAAdVXRFfDGd/PRFkItzPud3",
   "tracks": [
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
+        "name": "Heart In Motion",
+        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 236800,
-      "name": "River Lullaby",
-      "url": "https://open.spotify.com/track/5jsQqMxW1EhBfr700ahC1v"
+      "duration_ms": 239493,
+      "name": "Good For Me",
+      "url": "https://open.spotify.com/track/2GwDKcTJlvoRDaJXkA7ULJ"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart In Motion",
-        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
+        "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 239493,
-      "name": "Good For Me",
-      "url": "https://open.spotify.com/track/2GwDKcTJlvoRDaJXkA7ULJ"
+      "duration_ms": 236800,
+      "name": "River Lullaby",
+      "url": "https://open.spotify.com/track/5jsQqMxW1EhBfr700ahC1v"
     },
     {
       "added_at": null,
@@ -860,29 +860,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 243226,
-      "name": "Softly And Tenderly",
-      "url": "https://open.spotify.com/track/29kWfrWp7XaxcEHK1VNeV1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music Inspired By The Story",
-        "url": "https://open.spotify.com/album/1gkIyLIl58xpc4BwF009gg"
-      },
-      "artists": [
-        {
-          "name": "Nichole Nordeman",
-          "url": "https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh"
-        },
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 254613,
-      "name": "I'm With You (Ruth & Naomi)",
-      "url": "https://open.spotify.com/track/4eGgsvwDvWz6ElLvo2zY7P"
+      "duration_ms": 195266,
+      "name": "Fairest Lord Jesus",
+      "url": "https://open.spotify.com/track/1gGys8A5N7pMOU7ULx616U"
     },
     {
       "added_at": null,
@@ -907,6 +887,26 @@
       "duration_ms": 320626,
       "name": "A Woman",
       "url": "https://open.spotify.com/track/2uA16HjmZbiBx4YEaTURN1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music Inspired By The Story",
+        "url": "https://open.spotify.com/album/1gkIyLIl58xpc4BwF009gg"
+      },
+      "artists": [
+        {
+          "name": "Nichole Nordeman",
+          "url": "https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh"
+        },
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 254613,
+      "name": "I'm With You (Ruth & Naomi)",
+      "url": "https://open.spotify.com/track/4eGgsvwDvWz6ElLvo2zY7P"
     }
   ],
   "unique_name": "This Is Amy Grant",

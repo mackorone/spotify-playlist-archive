@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Josh Baker, Omar+
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,646 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,738 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 7 | [Blessed](https://open.spotify.com/track/0s2Mc1cyH6XyxCTWdxkbgq) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk), [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M) | [Blessed](https://open.spotify.com/album/12AXdnOezhQCp2Cu0tKvvD) | 3:30 |
 | 8 | [Coolin](https://open.spotify.com/track/6ol2ZKZgFE7jV2rv6KsB11) | [HILLS](https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB) | [Coolin](https://open.spotify.com/album/67mdVbF5GykYcxqXhTHagp) | 2:35 |
 | 9 | [Chain Gun \(Radio Edit\)](https://open.spotify.com/track/0MMwlA5aeetEX6DuADdTUS) | [Simon Field](https://open.spotify.com/artist/2S0tj8IQ2ytFKa5HdCni57), [Eyez](https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV) | [Chain Gun](https://open.spotify.com/album/2XRll6arsKadt4CNHKhDg0) | 2:44 |
-| 10 | [Sweatbox](https://open.spotify.com/track/7rrE7xPl4rE26gvcXagLf3) | [Mikey Sebastian](https://open.spotify.com/artist/5ZelZTeJ3VpDZ2geKawS1E), [Harry Wills](https://open.spotify.com/artist/5AE52XrC6wM9wzhtSQDupS) | [Sweatbox](https://open.spotify.com/album/2Aasb38FJph28iq6R0JCAQ) | 2:46 |
+| 10 | [Sweatbox](https://open.spotify.com/track/7rrE7xPl4rE26gvcXagLf3) | [Harry Wills](https://open.spotify.com/artist/5AE52XrC6wM9wzhtSQDupS), [Mikey Sebastian](https://open.spotify.com/artist/5ZelZTeJ3VpDZ2geKawS1E) | [Sweatbox](https://open.spotify.com/album/2Aasb38FJph28iq6R0JCAQ) | 2:46 |
 | 11 | [Sexy Sturdy](https://open.spotify.com/track/1MBERq4ODYQmYKMwH3naVq) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Sexy Sturdy](https://open.spotify.com/album/4CYByhH0qo2tYln4bKa4Vv) | 3:47 |
 | 12 | [Baby Daddy \(Sperm Donor\)](https://open.spotify.com/track/2VRsFSqinPPbwGlQl62PUX) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Baby Daddy \(Sperm Donor\)](https://open.spotify.com/album/6926mwT6gVyVq2oxv50Qoe) | 3:23 |
 | 13 | [Stephanie \- HNTR Remix](https://open.spotify.com/track/3flWoQdYrWyqUsHbURIJby) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [InntRaw](https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU) | [Stephanie \(HNTR Remix\)](https://open.spotify.com/album/2bOMvfR44jh4eIeUB230ES) | 2:25 |

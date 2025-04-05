@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-4,727 songs - 11 day 1 hr 3 min
+4,729 songs - 11 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,6 +501,7 @@
 | [Blame On Me](https://open.spotify.com/track/7jDQFrISly20rLBZrADjGJ) | [VISILA](https://open.spotify.com/artist/7KRQBvTwiUh0l5ylQsRttK), [Valeria Koka](https://open.spotify.com/artist/5tqrWkHl6NMEVdjEjvxjpe) | [Blame On Me](https://open.spotify.com/album/41qV3ZhGd8rte8Q9VrqJdb) | 3:04 | 2023-09-22 | 2023-12-14 |
 | [Blank Page](https://open.spotify.com/track/7n3PGud6gQWS5GnFF8SAbb) | [Elena Shirin](https://open.spotify.com/artist/7d94AgU8YMpNvzuRhHu7Fj) | [Blank Page](https://open.spotify.com/album/0mi3Vk3Y069hOCdYA0e3gj) | 3:02 | 2023-05-12 | 2023-06-01 |
 | [Bleach](https://open.spotify.com/track/3xNlmQ7NXQM97Rc1s8sTxI) | [Claire Brooks](https://open.spotify.com/artist/1MoEDGaAMr0yXNhJkhAshB) | [I Will Outlive You](https://open.spotify.com/album/2nMaW1BQ6UXVCPOh4zVGOY) | 2:37 | 2024-11-15 | 2024-11-27 |
+| [Blick On Me](https://open.spotify.com/track/7khmacNZ4DhtZq2WXCs5jb) | [Rio Dinero](https://open.spotify.com/artist/01sRBFXITvYb7Nk1bnsmDS) | [Blick On Me](https://open.spotify.com/album/6d9RYWKfDhs1chp6WCwclG) | 2:08 | 2025-04-04 |  |
 | [Blind](https://open.spotify.com/track/5QbJdM3OvWw5k7lzrhu0sy) | [Charlotte Lansman](https://open.spotify.com/artist/6Pd9ZD8S1T1wJ2xa1lko8X) | [Blind](https://open.spotify.com/album/5tobZbm6md2TUa4HcWcAVM) | 3:53 | 2020-11-29 | 2020-12-20 |
 | [Blind \(feat\. Keiynan Lonsdale\)](https://open.spotify.com/track/0xVLBgZW9QeL4VKTj2yvMB) | [PEPTALK](https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA), [Keiynan Lonsdale](https://open.spotify.com/artist/0tkkz8CmkHga4YZgSHEDVl) | [Blind \(feat\. Keiynan Lonsdale\)](https://open.spotify.com/album/2lzrgCaMxKjwNqfHkGsc8x) | 3:13 | 2024-11-27 | 2024-12-10 |
 | [Blink of an Eye](https://open.spotify.com/track/79y5uWpiM4KibhSMxTiWXZ) | [Jacob Spencer](https://open.spotify.com/artist/2t2meTWmV0MZaIUsZudawZ) | [Blink of an Eye](https://open.spotify.com/album/3wxmo5U8iHyPFmY0veK7QU) | 3:31 | 2024-04-06 | 2024-04-21 |
@@ -1283,7 +1284,7 @@
 | [Everything \(..\. Is Never Quite Enough\)](https://open.spotify.com/track/7tpTeZgPPcpGHmKLwQClXt) | [Wasis Diop](https://open.spotify.com/artist/5WgEnjgCrT1aeQELTV3tdB) | [Toxu](https://open.spotify.com/album/4orLzkXAHLvYzQncVdLYFX) | 4:32 | 2021-07-11 | 2024-04-21 |
 | [Everything and Anything](https://open.spotify.com/track/6NF37GshCNOl3xorfCrp79) | [Alejandra O'Leary](https://open.spotify.com/artist/3y4khrJjdxXrnhBvfqAVn6) | [Sunlight](https://open.spotify.com/album/00qVy2r1bSpxaQyCBQuHbf) | 3:40 | 2024-09-29 | 2024-10-11 |
 | [Everything Is Broken](https://open.spotify.com/track/65Ywa7EspM0tSZreKwOmnL) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Oh Mercy](https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689) | 3:13 | 2023-07-20 |  |
-| [Everything Moves](https://open.spotify.com/track/1jee7Mh2U6wyml1Fw3ZgoT) | [Monotronic](https://open.spotify.com/artist/6yRrkpttMRDY8KiZG193SU) | [Everything Moves](https://open.spotify.com/album/4JI3FfdoUcV0kIuvtRxT3B) | 3:45 | 2025-02-15 | 2025-03-02 |
+| [Everything Moves](https://open.spotify.com/track/1jee7Mh2U6wyml1Fw3ZgoT) | [Monotronic](https://open.spotify.com/artist/6yRrkpttMRDY8KiZG193SU) | [Everything Moves](https://open.spotify.com/album/4JI3FfdoUcV0kIuvtRxT3B) | 3:45 | 2025-02-15 |  |
 | [Everything We Know](https://open.spotify.com/track/5gMXhRsYttCSc04PQTUlmS) | [Eliyanah](https://open.spotify.com/artist/4Fy9ktzHsOjSuaaOECXtaC) | [Everything We Know](https://open.spotify.com/album/6TXB9Ix1LXaTfxznJ6eZIh) | 3:24 | 2023-03-15 | 2023-04-03 |
 | [EVERYTIME](https://open.spotify.com/track/2XLsgAOjPepRaWPGPPvwJZ) | [1NFFERNO](https://open.spotify.com/artist/6DaaaXa0AGLGjRVn5wfH3C) | [INT'L NFFERNO II](https://open.spotify.com/album/6AZd8509Sv3jdTtGPddubG) | 3:31 | 2023-12-31 | 2024-01-08 |
 | [Evilin](https://open.spotify.com/track/1wp8SjUIXCdP4RTXyagKfY) | [Zoe Graham](https://open.spotify.com/artist/2jXXoNionydJ3CT1ml119B) | [Even Though I'm Scared](https://open.spotify.com/album/5vnlhYUNJEmcqbNBPqoVbi) | 3:23 | 2024-10-12 | 2024-11-02 |
@@ -4382,6 +4383,7 @@
 | [Volar](https://open.spotify.com/track/7cfzrYEl9VSr21D6SCIH7k) | [Sabela Cereijo](https://open.spotify.com/artist/7nS9GZQCkyrZ8lx1hW5V1F) | [Volar](https://open.spotify.com/album/3jcwN2b5h3FBc263yiwzpY) | 4:46 | 2024-01-30 | 2024-02-07 |
 | [Volver](https://open.spotify.com/track/4pAqgWrsPHvcZfBk85EfHp) | [Diego Palace](https://open.spotify.com/artist/4pgHy8wdwPe8fbnulqFJ0w) | [Volver](https://open.spotify.com/album/2DY3mBy8V5Q9AiaNmZxnGK) | 2:03 | 2023-02-10 | 2023-03-08 |
 | [Volverme de Sal](https://open.spotify.com/track/2A38kPld5RSajTl3At8D5w) | [Isa Navarro](https://open.spotify.com/artist/36UWMmw48VBENoexcFMlMO) | [Volverme de Sal](https://open.spotify.com/album/4o5fGacUaL8BCoyk09VqXX) | 2:18 | 2024-03-28 | 2024-06-22 |
+| [VOP](https://open.spotify.com/track/1jxTdh3r09kkvaHSvkbpZL) | [Project Youngin](https://open.spotify.com/artist/0zSnym91x3cA9RTp3wHff0) | [VOP](https://open.spotify.com/album/27xSFRvstHD03tov88vKfg) | 2:21 | 2025-04-04 |  |
 | [Voulez\-Vous](https://open.spotify.com/track/2RPO2DDT5QZt9UVKwDHoNe) | [I Don't Speak French](https://open.spotify.com/artist/6w3WTHXhYnXWRPLal2dsjY), [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [Voulez\-Vous](https://open.spotify.com/album/4K0oBqn7HkhwVdri8XFY6X) | 3:29 | 2023-08-04 | 2023-08-28 |
 | [Voy](https://open.spotify.com/track/1WYn046bv46ZP4CU4QQCeW) | [Yahis](https://open.spotify.com/artist/6HwXAPrIoJtI6aJohI2R1p) | [Voy](https://open.spotify.com/album/2nrv2if4j797kO7wsv5rTS) | 3:06 | 2024-07-09 | 2024-07-20 |
 | [Vuddy!](https://open.spotify.com/track/5o5yo0hjla1sjsFJ8Zfaet) | [blvkkhvrt.](https://open.spotify.com/artist/4zkcCa8WaUMWGDIn96MDjt), [FLANNEL ALBERT](https://open.spotify.com/artist/1LhOhPJ3Z1uTaybvUVg2lC) | [Vuddy!](https://open.spotify.com/album/1PuImEKgnnYJCzqNgpNkDr) | 2:51 | 2024-07-15 | 2024-07-27 |

@@ -484,7 +484,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-03",
+      "date_removed": null,
       "duration_ms": 129032,
       "name": "1PERREO",
       "url": "https://open.spotify.com/track/1ThwBfWQKZ1dvnqjBOcI1K"
@@ -9193,6 +9193,24 @@
     },
     {
       "album": {
+        "name": "Chest Pain (I Love)",
+        "url": "https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200826,
+      "name": "Chest Pain (I Love)",
+      "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
+    },
+    {
+      "album": {
         "name": "Chica Atractiva",
         "url": "https://open.spotify.com/album/7JulJHSAGWbJBSWgq55yLe"
       },
@@ -13588,7 +13606,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 179520,
       "name": "Dime",
       "url": "https://open.spotify.com/track/2YFXBVYGpDN1Ui8tPqk2ZB"
@@ -18595,7 +18613,7 @@
     },
     {
       "album": {
-        "name": "Feel It (From The Original Series \u201cInvincible\u201d)",
+        "name": "Feel It (From \u201cInvincible\u201d)",
         "url": "https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2"
       },
       "artists": [
@@ -18608,7 +18626,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 157974,
-      "name": "Feel It - From The Original Series \u201cInvincible\u201d",
+      "name": "Feel It - From \u201cInvincible\u201d",
       "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
     },
     {
@@ -40090,7 +40108,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 116355,
       "name": "P\u00eddete una miche carnal",
       "url": "https://open.spotify.com/track/4VnGmsQlVdAYYw2RYWJqaA"

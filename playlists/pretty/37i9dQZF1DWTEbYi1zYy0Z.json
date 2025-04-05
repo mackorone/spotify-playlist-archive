@@ -1,13 +1,49 @@
 {
   "description": "So fresh, so smooth. Cover: Boney James",
-  "num_followers": 73702,
+  "num_followers": 73741,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+Ye3QAAAAAoJfRWhFBI/NvrLTJpU4HR",
+  "snapshot_id": "Z+9ZSQAAAAAcJ/R+rd0Ov8SFXt3ODNEY",
   "tracks": [
+    {
+      "added_at": "2025-04-04 04:00:09",
+      "album": {
+        "name": "Alma de Lisbon (Radio Version)",
+        "url": "https://open.spotify.com/album/1VTGJ0VAPefmivnxtb59U9"
+      },
+      "artists": [
+        {
+          "name": "Kim Scott",
+          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+        },
+        {
+          "name": "Kelvin Wooten",
+          "url": "https://open.spotify.com/artist/40zNVI046o2WME1SsGI9ih"
+        }
+      ],
+      "duration_ms": 328581,
+      "name": "Alma de Lisbon - Radio Version",
+      "url": "https://open.spotify.com/track/11CGam8X4wwtXBdu6D8jfk"
+    },
+    {
+      "added_at": "2025-04-04 04:00:09",
+      "album": {
+        "name": "Terranova",
+        "url": "https://open.spotify.com/album/24hMUE6Gx6n8GWqiN7mrCZ"
+      },
+      "artists": [
+        {
+          "name": "Jessy J",
+          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
+        }
+      ],
+      "duration_ms": 239345,
+      "name": "Terranova",
+      "url": "https://open.spotify.com/track/3PYAAcouFEroTlLRgqltve"
+    },
     {
       "added_at": "2025-03-28 04:00:29",
       "album": {
@@ -41,20 +77,48 @@
       "url": "https://open.spotify.com/track/0ME3Tfi0cHGEGavp52dZ8i"
     },
     {
-      "added_at": "2025-03-21 04:00:37",
+      "added_at": "2025-04-04 04:00:09",
       "album": {
-        "name": "Beso Del Sol",
-        "url": "https://open.spotify.com/album/3SQwtaq5q0kv1nsHCtnnNH"
+        "name": "Love Laced",
+        "url": "https://open.spotify.com/album/617ifb1xwKKbFOfuwWQBtA"
       },
       "artists": [
         {
-          "name": "Jessy J",
-          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
+          "name": "Vandell Andrew",
+          "url": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
+        },
+        {
+          "name": "Jah Born",
+          "url": "https://open.spotify.com/artist/45tF2B3yeJtBrw3QgJEGAc"
+        },
+        {
+          "name": "Jordache Grant",
+          "url": "https://open.spotify.com/artist/0uR3O2Rdr1AV3JuFw1Wcx9"
         }
       ],
-      "duration_ms": 286439,
-      "name": "Beso Del Sol",
-      "url": "https://open.spotify.com/track/41vto3mbPg7SSOgjKkqAuA"
+      "duration_ms": 151137,
+      "name": "Love Laced",
+      "url": "https://open.spotify.com/track/6AbWZbQEdPTe8iW2XSmTMu"
+    },
+    {
+      "added_at": "2025-04-04 04:00:09",
+      "album": {
+        "name": "Think Of Me",
+        "url": "https://open.spotify.com/album/64qW6mU2oyvHdnmSmEoZRZ"
+      },
+      "artists": [
+        {
+          "name": "Lin Rountree",
+          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
+        },
+        {
+          "name": "Phylicia Rae",
+          "url": "https://open.spotify.com/artist/5mAHG74GmGIllg3MqnKQyi"
+        }
+      ],
+      "duration_ms": 235146,
+      "name": "Think Of Me",
+      "url": "https://open.spotify.com/track/0TsKSHkM77cylzqBiibxCk"
     },
     {
       "added_at": "2025-03-14 04:00:05",
@@ -111,38 +175,6 @@
       "duration_ms": 232119,
       "name": "Carry On!",
       "url": "https://open.spotify.com/track/41t4WwZkSQnaiFPUdW4RXl"
-    },
-    {
-      "added_at": "2025-02-28 05:00:31",
-      "album": {
-        "name": "So Naturally",
-        "url": "https://open.spotify.com/album/4NcjCBcsxQh85s9eDVY3eb"
-      },
-      "artists": [
-        {
-          "name": "Lin Rountree",
-          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
-        }
-      ],
-      "duration_ms": 294750,
-      "name": "So Naturally",
-      "url": "https://open.spotify.com/track/5IegN4alJprMWS4ygNGA6w"
-    },
-    {
-      "added_at": "2025-02-28 05:00:31",
-      "album": {
-        "name": "Livin' It Up",
-        "url": "https://open.spotify.com/album/0KI177qUPJz6DQqhYRyQOf"
-      },
-      "artists": [
-        {
-          "name": "Kim Scott",
-          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
-        }
-      ],
-      "duration_ms": 266800,
-      "name": "So What If I Rise?",
-      "url": "https://open.spotify.com/track/49Gi1cYc3Po3vLMZD2paZX"
     },
     {
       "added_at": "2025-03-07 05:00:20",
@@ -1563,26 +1595,6 @@
       "duration_ms": 244270,
       "name": "Can You Stand the Rain",
       "url": "https://open.spotify.com/track/0yshM8ljTRo3H42dUlA5MR"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Here's the Thing",
-        "url": "https://open.spotify.com/album/3vT5YoaOxXO6rY7YPmHxv2"
-      },
-      "artists": [
-        {
-          "name": "The Smooth Jazz Alley",
-          "url": "https://open.spotify.com/artist/3rpiTLuutXBtuveSbsmpkJ"
-        },
-        {
-          "name": "Nathan East",
-          "url": "https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ"
-        }
-      ],
-      "duration_ms": 338866,
-      "name": "Whatever You Like",
-      "url": "https://open.spotify.com/track/1U05WLPnnMpGFS99PAyj0n"
     },
     {
       "added_at": "2023-06-16 04:01:00",

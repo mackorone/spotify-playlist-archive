@@ -2450,7 +2450,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 167066,
       "name": "El Voldemor",
       "url": "https://open.spotify.com/track/68eRrgeRSCw571y4E2cr0F"
@@ -4219,6 +4219,28 @@
     },
     {
       "album": {
+        "name": "Me Toca A M\u00ed",
+        "url": "https://open.spotify.com/album/3RCKLNKwB3g7i4UVxkTsY5"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180340,
+      "name": "Me Toca A M\u00ed",
+      "url": "https://open.spotify.com/track/3SWXwV7jo4NFtRBVkpAq1U"
+    },
+    {
+      "album": {
         "name": "Me Voy Contigo",
         "url": "https://open.spotify.com/album/3s1n86YHWRonvhfxLQrNln"
       },
@@ -5525,6 +5547,32 @@
     },
     {
       "album": {
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/0jtN8Npxpw2wVD9rjXYV6l"
+      },
+      "artists": [
+        {
+          "name": "West Blanco",
+          "url": "https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        },
+        {
+          "name": "Luister La Voz",
+          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223917,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/6uPvZU3Vmqs3PYkXCYaJB8"
+    },
+    {
+      "album": {
         "name": "Perro Come Perro",
         "url": "https://open.spotify.com/album/7Bww9cUgtmlbdXpkSWp67A"
       },
@@ -5708,7 +5756,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 221935,
       "name": "Por Toda la Vida (feat. Jhonathan Chavez, Alejandro Torres, Kenny y Kiara, Ra\u00fal Aparicio & Anarkelys Arias) - Versi\u00f3n Tipiquero",
       "url": "https://open.spotify.com/track/6BVwjfkHaq3oxomEvu1kET"

@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Matthew Ifield
 
-1,767 songs - 3 day 19 hr 11 min
+1,770 songs - 3 day 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -591,6 +591,7 @@
 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 | 2024-03-07 | 2024-04-05 |
 | [Godless](https://open.spotify.com/track/5WEMIHVbccGqT30WgR1LH7) | [Luca George](https://open.spotify.com/artist/3pg3Sp6CAX6gAt0ppey9dA) | [Godless](https://open.spotify.com/album/4jXORbM0JRfQSNdLZ5yprj) | 2:58 | 2023-06-15 | 2023-07-28 |
 | [GODS](https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [GODS](https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs) | 3:40 | 2023-10-05 | 2023-11-09 |
+| [Going, Going, Gone](https://open.spotify.com/track/1q1yT9GHe2eWkE3u9cWMuv) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Going, Going, Gone](https://open.spotify.com/album/09wq2K4RuML1nNbG93ubT8) | 2:55 | 2025-04-03 |  |
 | [Gone](https://open.spotify.com/track/3uTMmWHtyzks33cVtGv8ys) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Sunday Sadness](https://open.spotify.com/album/3jXEFj8GkFU09uIf3Ejmlc) | 2:17 | 2024-08-08 | 2024-09-06 |
 | [Gone by March](https://open.spotify.com/track/4jKNEOEL5PXoO6EhMDYf2A) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [Gone by March](https://open.spotify.com/album/4V9yH476Bj7X9uYTDyxhji) | 2:26 | 2023-06-15 | 2023-07-28 |
 | [Gone Girl](https://open.spotify.com/track/6lU0BuAHpcjJ2DYAZc4anN) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Gone Girl](https://open.spotify.com/album/7jchY4CauGHt4POyhigFBs) | 2:57 | 2025-03-07 |  |
@@ -938,6 +939,7 @@
 | [Lonely Party](https://open.spotify.com/track/53ttAw59VK3CCFqXl5JSEB) | [Made You Look](https://open.spotify.com/artist/6NiKH0kJ369ktMkI85tJFl) | [Lonely Party](https://open.spotify.com/album/4vfKFFba81EdEOwLtEskkM) | 3:09 | 2024-09-27 | 2024-11-22 |
 | [Lonely with Our Love](https://open.spotify.com/track/3r62SofIEN6oRBL9964egb) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Lonely with Our Love](https://open.spotify.com/album/6pqseUHCpd1LOVWURaEH9X) | 3:28 | 2024-05-16 | 2024-06-07 |
 | [Look Who's Laughing Now](https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Look Who's Laughing Now](https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3) | 2:54 | 2024-06-13 | 2024-08-17 |
+| [Loose](https://open.spotify.com/track/3YNjvUXgfQznx5IZHAXk6i) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Loose](https://open.spotify.com/album/2XCAFhzTvaqKFJogtaJnz1) | 3:30 | 2025-04-03 |  |
 | [Lordy Lordy](https://open.spotify.com/track/2ooAOaBbGb5tAACmXAyLGD) | [Emily Wurramara](https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF), [Tasman Keith](https://open.spotify.com/artist/3Pe4IIW9HoZsmBlKa5G6I1) | [Lordy Lordy](https://open.spotify.com/album/2VTRLPiyn8LIQnkr2NZ2rD) | 3:50 | 2024-07-04 | 2024-08-02 |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2023-06-29 | 2023-08-16 |
 | [Lose Me Like You Mean It](https://open.spotify.com/track/2UzVHw7DgzRhI9o9fvEN6K) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Second Wind](https://open.spotify.com/album/78ukESSuIkLhGjuQhvw0Nc) | 2:59 | 2025-03-06 |  |
@@ -1538,6 +1540,7 @@
 | [The Mountain](https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7) | 2:55 | 2024-11-14 | 2025-01-24 |
 | [The Rush](https://open.spotify.com/track/5ca1FcIoxyjd71uSlSILbI) | [Sleepy Tom](https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr), [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v), [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra) | [The Rush](https://open.spotify.com/album/65iaplCNN4F1LMXxIksKzZ) | 3:01 | 2024-08-16 | 2024-09-13 |
 | [The Show](https://open.spotify.com/track/2PrxwMxTSEk4oHbdY8majs) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:11 | 2023-06-15 | 2023-08-11 |
+| [The Sun](https://open.spotify.com/track/1Iaq7YIunBX01YljzHjdsM) | [Brittany Broski](https://open.spotify.com/artist/4bvnxCtWPHufMtiQQuT8nW) | [The Sun](https://open.spotify.com/album/6QWU7nOEXVYDKPhg1nmYtI) | 3:30 | 2025-04-03 |  |
 | [the thought of you](https://open.spotify.com/track/7soIWeuH8iDZcqPVZv0zdq) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [the thought of you](https://open.spotify.com/album/7bKdJCihY713LPi5oqWL3X) | 3:39 | 2025-02-27 |  |
 | [The von dutch remix with addison rae and a.g\. cook](https://open.spotify.com/track/1EycQzSpakKNsHgMbTMMKo) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [The von dutch remix with addison rae and a.g\. cook](https://open.spotify.com/album/5Pj0xqgA9D5lJ8ZQuAe3ft) | 2:37 | 2024-03-21 | 2024-04-19 |
 | [The War On Art](https://open.spotify.com/track/0xvUrLHBEKgrd8kP0khZJz) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [The War On Art](https://open.spotify.com/album/40kwfY8ftMdKWH2gpYGyWe) | 3:04 | 2024-05-09 | 2024-06-28 |

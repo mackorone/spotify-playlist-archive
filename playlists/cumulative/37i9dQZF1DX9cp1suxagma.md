@@ -4,7 +4,7 @@
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Laura Pérez
 
-250 songs - 13 hr 13 min
+251 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [4:40](https://open.spotify.com/track/0mBt0dOkThzeu7FakfHbGa) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV), [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI) | [4:40](https://open.spotify.com/album/23cWA1ibGkP5VStAh5RRob) | 2:37 | 2023-06-23 |  |
 | [5 Minutos](https://open.spotify.com/track/3CMCp08bmQMC2LPCXMIjlU) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Cinco de Mil Pedazos](https://open.spotify.com/album/1JbpIaTJ7bauu4KWpC3BcA) | 2:35 | 2023-10-06 | 2024-02-17 |
 | [506](https://open.spotify.com/track/4scwMEdlKi8qWJzzyDB8Z3) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [506](https://open.spotify.com/album/38coX6excq4obQR4Z7sww7) | 3:00 | 2023-02-17 |  |
+| [6:00 a.m\. \- Versión 2025](https://open.spotify.com/track/0RtBENsw73xZiDWdlgk9Xs) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [6:00 a.m\. \(Versión 2025\)](https://open.spotify.com/album/4oPl8azNbNCa1S54ZKZ3UQ) | 4:18 | 2025-04-04 |  |
 | [A Primera Vista](https://open.spotify.com/track/7B4vt11pQGmsnHWQ9FUZwY) | [Ines Gaviria](https://open.spotify.com/artist/5csQq4TumSO1XpuaxiL9V7) | [A Primera Vista](https://open.spotify.com/album/2WPpPCpYCDyOBM0MWSlR0a) | 2:34 | 2023-05-19 | 2023-06-24 |
 | [A Veces](https://open.spotify.com/track/2SGqPctdqs0xkFexK0cAOC) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 3:33 | 2023-03-09 | 2024-09-07 |
 | [Adiós](https://open.spotify.com/track/7JlkxvPt4HQSzr4XT5Plsl) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Adiós](https://open.spotify.com/album/4Ir9tMgz5BSmUYljvn6pR3) | 3:02 | 2023-02-17 |  |
@@ -173,7 +174,7 @@
 | [Planetas](https://open.spotify.com/track/2WzigCWeKa1LrTPbe6nUJq) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Planetas](https://open.spotify.com/album/5BsM6aELM0cxx7l67nP0EK) | 2:59 | 2023-02-17 |  |
 | [Por Hacerme el Bueno](https://open.spotify.com/track/5kTBmo3zNcnlm6saZRFrHR) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Por Hacerme el Bueno](https://open.spotify.com/album/3M97oXb58OyZJrO8PdWaLp) | 4:12 | 2024-04-12 |  |
 | [Por Hacerme el Bueno](https://open.spotify.com/track/1iEIQ69PuAM76GCBT9HCek) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [¿Dónde Nos Quedamos?](https://open.spotify.com/album/3jcXAJvWPnHyDsUtrFqBIx) | 4:12 | 2023-02-17 | 2024-04-19 |
-| [Por Las Primeras Veces](https://open.spotify.com/track/5d28xTH31PC5O4WRalbPex) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV) | [Por Las Primeras Veces](https://open.spotify.com/album/6FxcKtFQck1HRBm4DlUAx0) | 2:29 | 2024-11-26 |  |
+| [Por Las Primeras Veces](https://open.spotify.com/track/5d28xTH31PC5O4WRalbPex) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV) | [Por Las Primeras Veces](https://open.spotify.com/album/6FxcKtFQck1HRBm4DlUAx0) | 2:29 | 2024-11-26 | 2025-04-05 |
 | [Por Pura Curiosidad](https://open.spotify.com/track/1kLTaKK1qbtGuxggUtz8iz) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Por Pura Curiosidad](https://open.spotify.com/album/2gw6EVoQ8B0kK8Fsr6Cshn) | 3:23 | 2024-04-12 |  |
 | [Por Pura Curiosidad](https://open.spotify.com/track/1oRfaDjjGDgO3HCql0AOUy) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Agustín](https://open.spotify.com/album/0b06tYwwHqxWucHN4296YW) | 3:25 | 2023-02-17 | 2024-04-19 |
 | [Por Si Llegas A Volver](https://open.spotify.com/track/5lxDsU7ElFKfcTwZMpGVwm) | [Lucas Arnau](https://open.spotify.com/artist/5vLOlJcOKe9DfBC5LeLpSs) | [Por Si Llegas A Volver](https://open.spotify.com/album/18qObh060XNrTXgpY1YUBr) | 2:43 | 2024-04-26 | 2024-06-29 |

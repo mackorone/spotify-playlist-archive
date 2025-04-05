@@ -4,7 +4,7 @@
 
 > Drilling through Naij\. Cover: EESKAY
 
-91 songs - 4 hr 7 min
+92 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Sha guide](https://open.spotify.com/track/11egpItjzlquohaqN0zICO) | [Dapop](https://open.spotify.com/artist/7qAMTYtY4Rau2y00JY5fyM), [KennyBlaze](https://open.spotify.com/artist/6sTQuJgAkPwjW7csMMWkaa) | [Oloun wa \( The Ep \)](https://open.spotify.com/album/1ms4J8ECd0VPgSoUlarr53) | 2:30 | 2024-06-28 |  |
 | [Shame On You](https://open.spotify.com/track/2gxmTn6ivNJ1O6a38kVyU2) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Shame On You](https://open.spotify.com/album/4G3lVmi0yRIpMR6E7sTi4e) | 3:06 | 2024-06-28 |  |
 | [She Knows \(Blasé\)](https://open.spotify.com/track/7vNF37TITkdgRLvn6kxb68) | [Sosa.ttw](https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko), [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si), [Elizabeth Olowo](https://open.spotify.com/artist/1CHnKmjSG9LuRn8RelTwlH) | [She Knows \(Blasé\)](https://open.spotify.com/album/1L2BWHFLzWV6ss8FioQjb6) | 2:54 | 2024-09-27 | 2024-10-26 |
-| [Silent Mode](https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 3:20 | 2024-06-28 |  |
+| [Silent Mode](https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 3:20 | 2024-06-28 | 2025-04-05 |
 | [Smoke 4 Free](https://open.spotify.com/track/1BwW34VUymRb2gdVxSncxr) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Euphoria](https://open.spotify.com/album/4IUsZcu8ZFCA64EYOmwAB8) | 2:17 | 2024-06-28 |  |
 | [State of Emergency](https://open.spotify.com/track/0pmfw4IpWaZiJgsbem44NQ) | [EESKAY](https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG), [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK) | [State of Emergency](https://open.spotify.com/album/4wnlTFN0tEyLJOueNBq8a0) | 2:08 | 2025-04-04 |  |
 | [Steady Trapping](https://open.spotify.com/track/1ZU2go4uBwksTVkzcuZG2E) | [Hugo P](https://open.spotify.com/artist/0J6ZIgkuOsplZ6o3VOrb8p), [Aguero Banks](https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX) | [Dreams & Nightmares](https://open.spotify.com/album/6I3ypVZhhbabSe5hfPbjMr) | 3:30 | 2024-06-28 | 2024-09-28 |
@@ -97,6 +97,7 @@
 | [VIOLATION](https://open.spotify.com/track/21COrY4QAM3QGc4iIvzD1H) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [VIOLATION](https://open.spotify.com/album/6gpmJar9EPyRhRDzgEs4Pd) | 2:28 | 2024-08-02 |  |
 | [Who Dey Jonze](https://open.spotify.com/track/42vLWq6jFlOImVgi4Z3cRo) | [Reeplay](https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB) | [Who Dey Jonze](https://open.spotify.com/album/68BD66Qgrh8IqakriJ38Jx) | 2:04 | 2024-06-28 |  |
 | [Wuse Vigilante](https://open.spotify.com/track/2A9Cdu8AOCh0gAzjQVi4kv) | [Kishboy](https://open.spotify.com/artist/5sc1htwJcqKWKiFd3E4pPn), [CYZA](https://open.spotify.com/artist/3xBse1Q9J2t9QD3FjQqNcY) | [Double Homicide](https://open.spotify.com/album/2PoPwEzySBGSsH4XmRxQ7O) | 2:36 | 2024-06-28 |  |
+| [Ya Shiga](https://open.spotify.com/track/24LHM1UIHRw80c5JIfAaKC) | [Jerican](https://open.spotify.com/artist/6N1oUyLVwFmpoxd6zev8o2), [Magnito](https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan), [Dr\. Kozzo](https://open.spotify.com/artist/4mOFnzNZVqcSoQkzzPMwLc) | [Ya Shiga](https://open.spotify.com/album/5VWooJ8lmsZ7c1X9JtBGgb) | 2:12 | 2025-04-04 |  |
 | [YKTFV \(You Know The Fvcking Vibe\)](https://open.spotify.com/track/4Xaq0vPaePG4RrcuTgf5gf) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YKTFV \(You Know The Fvcking Vibe\)](https://open.spotify.com/album/2DD6vrTPCM84OBzBAxRx45) | 3:28 | 2024-06-28 |  |
 | [YOTU Cypher](https://open.spotify.com/track/6aBULaV2uNqb4kP9jWYatW) | [Cash'N'Out](https://open.spotify.com/artist/37z54IaHgH9KYmCbTjWOjV), [Kabex](https://open.spotify.com/artist/4qnQPP7La5VmVpnhbYEisU), [Idowest](https://open.spotify.com/artist/6wvs9JYsh1UZvGe0qIGwbB), [TROD](https://open.spotify.com/artist/5DKBmzEjdaNklJiEU0Mti1), [DJ OBI](https://open.spotify.com/artist/6f5BrFc4vmUU2dzfUVlcqe) | [Year of the Underdogs](https://open.spotify.com/album/7l9bkIdIqRECYyQ7Ndtt9p) | 3:04 | 2024-12-16 |  |
 

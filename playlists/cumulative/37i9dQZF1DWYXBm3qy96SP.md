@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: HAIM
 
-1,545 songs - 3 day 16 hr 54 min
+1,546 songs - 3 day 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -505,6 +505,7 @@
 | [Foam](https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa) | 3:05 | 2024-02-15 |  |
 | [Foreign Land](https://open.spotify.com/track/2CxhLkidVJI6pufYJuiBGd) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Foreign Land](https://open.spotify.com/album/2Lkz0vxOzbglSgoFbhmpyc) | 3:54 | 2023-05-25 | 2023-06-02 |
 | [forever mine](https://open.spotify.com/track/3OZw5UHlYIzwc0dCBOBFx9) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [crawl\_\_space](https://open.spotify.com/album/49Ci8AbHDggwLpVWLrluXm) | 2:55 | 2023-11-30 | 2023-12-08 |
+| [Forever Overdose](https://open.spotify.com/track/07FeCdaFiJYdynFyJW515F) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Surrender](https://open.spotify.com/album/0UkeBEb0zPrQbuMCCGSxn2) | 3:13 | 2025-04-03 |  |
 | [Forevermore](https://open.spotify.com/track/4kga9bV33OuMRYwzt7oPul) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [A Torch In The Dark](https://open.spotify.com/album/6H6kvxbLq2kpLd8QGJfrbx) | 2:53 | 2023-11-02 | 2023-11-10 |
 | [Fortress](https://open.spotify.com/track/2DgCbJDypBVf0X3PiDjdY1) | [Love Under The Sun](https://open.spotify.com/artist/662xmarhYJgaJoXsfAiDuT), [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Fortress](https://open.spotify.com/album/0FT1HspWvHgHxF48eLZl8i) | 2:30 | 2023-09-07 | 2023-09-15 |
 | [Framed](https://open.spotify.com/track/0jo90geHp9tYBjUUTMjDuY) | [Sterling Elza](https://open.spotify.com/artist/4KKiX98Tb5MRPiPnTmPgP0) | [Framed](https://open.spotify.com/album/31eJcUcsYbTWuc3K4TQRXH) | 4:08 | 2024-02-15 | 2024-02-23 |
@@ -1468,7 +1469,7 @@
 | [Welcome to the DCC](https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Welcome to the DCC](https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE) | 3:18 | 2023-03-16 | 2023-08-29 |
 | [Welcome To The Show](https://open.spotify.com/track/4nzvHox9PXS9f09PnNdBLj) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Welcome To The Show](https://open.spotify.com/album/4B5NV5m12cfnBDnPdu0A2u) | 3:36 | 2023-08-10 | 2023-08-18 |
 | [WELLLL](https://open.spotify.com/track/4rPv8eZH6ABfkrtxxHHtV4) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [WELLLL](https://open.spotify.com/album/6RFuKQSGuvj6f0l9A7wnbm) | 2:38 | 2023-07-13 | 2023-07-21 |
-| [WE’RE ALL GONNA DIE](https://open.spotify.com/track/4O3NC8soE6ELWtgIWjSD2B) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [WE’RE ALL GONNA DIE](https://open.spotify.com/album/0zJhmlEFYi2tFdhrlD5Rjq) | 3:04 | 2025-02-14 |  |
+| [WE’RE ALL GONNA DIE](https://open.spotify.com/track/4O3NC8soE6ELWtgIWjSD2B) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [WE’RE ALL GONNA DIE](https://open.spotify.com/album/0zJhmlEFYi2tFdhrlD5Rjq) | 3:04 | 2025-02-14 | 2025-04-05 |
 | [We’re Not In Love Anymore \(feat\. Charlotte Sands\)](https://open.spotify.com/track/4OfaKFkToxzzi2G5MwYsyZ) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [We’re Not In Love Anymore \(feat\. Charlotte Sands\)](https://open.spotify.com/album/0gW6CulhLzMtnZ5wbt2AfW) | 2:50 | 2023-08-17 | 2023-08-25 |
 | [WHAT A VIBE](https://open.spotify.com/track/2KX9MYhJIEnMxwk4e7e1nd) | [BACK DROP BOMB](https://open.spotify.com/artist/7iT9CcoboEEyJXPPrnLM3T) | [8 STRAIGHT](https://open.spotify.com/album/0uRTvsBQIiW5inVvIwzHPU) | 3:52 | 2023-04-13 | 2023-04-21 |
 | [What Am I Missing?](https://open.spotify.com/track/1UhP3hxXqqKwrOedzSKFfE) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [What Am I Missing?](https://open.spotify.com/album/4fYbhT0Rz9HTWM2u5XoxDg) | 2:52 | 2023-04-27 | 2023-05-26 |

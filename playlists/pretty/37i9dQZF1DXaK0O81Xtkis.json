@@ -1,13 +1,77 @@
 {
-  "description": "a little indie, a little pop.  Cover: d4vd",
-  "num_followers": 226067,
+  "description": "a little indie, a little pop.  Cover: Knox",
+  "num_followers": 226115,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+nSwgAAAAA452SgaVul6kd6dbievKAB",
+  "snapshot_id": "Z+9ZXwAAAAAs5MNJU7wBqsu1pd7KU1Bw",
   "tracks": [
+    {
+      "added_at": "2025-04-04 04:00:31",
+      "album": {
+        "name": "Going, Going, Gone",
+        "url": "https://open.spotify.com/album/09wq2K4RuML1nNbG93ubT8"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 175590,
+      "name": "Going, Going, Gone",
+      "url": "https://open.spotify.com/track/1q1yT9GHe2eWkE3u9cWMuv"
+    },
+    {
+      "added_at": "2025-04-04 04:00:31",
+      "album": {
+        "name": "cool",
+        "url": "https://open.spotify.com/album/1Ohj7SrdoUOqQ3zgAdClPv"
+      },
+      "artists": [
+        {
+          "name": "Michael Clifford",
+          "url": "https://open.spotify.com/artist/5xnIHjofV8JpeKaWfFMcj0"
+        }
+      ],
+      "duration_ms": 163533,
+      "name": "cool",
+      "url": "https://open.spotify.com/track/7BicWDX4TJX09ps0XhNmrS"
+    },
+    {
+      "added_at": "2025-04-04 04:00:31",
+      "album": {
+        "name": "Don\u2019t Tell The Girls",
+        "url": "https://open.spotify.com/album/1U932jtjwu2EAPpJgAgmGR"
+      },
+      "artists": [
+        {
+          "name": "BIZZY",
+          "url": "https://open.spotify.com/artist/4cWyHZZF6764fNSMnEkYdk"
+        }
+      ],
+      "duration_ms": 184837,
+      "name": "Don't Tell The Girls",
+      "url": "https://open.spotify.com/track/3zMr8WPJTChcnrJR2kXqHa"
+    },
+    {
+      "added_at": "2025-03-28 04:26:12",
+      "album": {
+        "name": "Hooked",
+        "url": "https://open.spotify.com/album/01tWq0p3C8mTKpNleojMK3"
+      },
+      "artists": [
+        {
+          "name": "Michael Sanzone",
+          "url": "https://open.spotify.com/artist/54LJoumlGbXHOSoC01aSYm"
+        }
+      ],
+      "duration_ms": 144445,
+      "name": "Hooked",
+      "url": "https://open.spotify.com/track/1PUfHBF7ggLkIqKl3aSvqR"
+    },
     {
       "added_at": "2025-03-28 04:26:12",
       "album": {
@@ -25,20 +89,36 @@
       "url": "https://open.spotify.com/track/54zcjcLY7yDAOdViuHcrhQ"
     },
     {
-      "added_at": "2025-03-28 04:26:12",
+      "added_at": "2025-02-14 05:00:19",
       "album": {
-        "name": "Hooked",
-        "url": "https://open.spotify.com/album/01tWq0p3C8mTKpNleojMK3"
+        "name": "Kansas Anymore (The Longest Goodbye)",
+        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
       },
       "artists": [
         {
-          "name": "Michael Sanzone",
-          "url": "https://open.spotify.com/artist/54LJoumlGbXHOSoC01aSYm"
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
         }
       ],
-      "duration_ms": 144445,
-      "name": "Hooked",
-      "url": "https://open.spotify.com/track/1PUfHBF7ggLkIqKl3aSvqR"
+      "duration_ms": 218660,
+      "name": "Sally, When The Wine Runs Out",
+      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
+    },
+    {
+      "added_at": "2025-04-04 04:00:31",
+      "album": {
+        "name": "ricochet",
+        "url": "https://open.spotify.com/album/1OTf7RvlqRhUqLHnzeFBEV"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 187029,
+      "name": "ricochet",
+      "url": "https://open.spotify.com/track/76xzDSAEc0bnRykhiOaekb"
     },
     {
       "added_at": "2025-03-14 04:00:02",
@@ -61,36 +141,20 @@
       "url": "https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ"
     },
     {
-      "added_at": "2025-03-21 04:01:01",
+      "added_at": "2025-04-04 04:00:31",
       "album": {
-        "name": "Sleep When We're Dead",
-        "url": "https://open.spotify.com/album/6KupgnVlFhSUX0sjBvwbFy"
+        "name": "Are You Okay?",
+        "url": "https://open.spotify.com/album/0uz7lFJCHjKKMYU9k1WGMI"
       },
       "artists": [
         {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+          "name": "DOUBLECAMP",
+          "url": "https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy"
         }
       ],
-      "duration_ms": 220344,
-      "name": "Sleep When We're Dead",
-      "url": "https://open.spotify.com/track/35fc0NCsFFXUkRkMJQZ0b2"
-    },
-    {
-      "added_at": "2025-02-14 05:00:19",
-      "album": {
-        "name": "Kansas Anymore (The Longest Goodbye)",
-        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 218660,
-      "name": "Sally, When The Wine Runs Out",
-      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
+      "duration_ms": 151442,
+      "name": "Are You Okay?",
+      "url": "https://open.spotify.com/track/3uKwNNEG54PcTNPxPlI4PG"
     },
     {
       "added_at": "2025-03-30 23:24:50",
@@ -107,6 +171,38 @@
       "duration_ms": 179045,
       "name": "Cr\u00e8me Brul\u00e9e",
       "url": "https://open.spotify.com/track/7uO4TMLRGBPbTaMFwckSoC"
+    },
+    {
+      "added_at": "2025-04-04 04:00:31",
+      "album": {
+        "name": "heavy",
+        "url": "https://open.spotify.com/album/5nkbGoZXVKxCLxAezGg2sP"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "duration_ms": 187532,
+      "name": "heavy",
+      "url": "https://open.spotify.com/track/2nDnRXjD0tEq9Bfmu3qNm3"
+    },
+    {
+      "added_at": "2025-03-21 04:01:01",
+      "album": {
+        "name": "Sleep When We're Dead",
+        "url": "https://open.spotify.com/album/6KupgnVlFhSUX0sjBvwbFy"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "duration_ms": 220344,
+      "name": "Sleep When We're Dead",
+      "url": "https://open.spotify.com/track/35fc0NCsFFXUkRkMJQZ0b2"
     },
     {
       "added_at": "2025-03-28 04:26:12",
@@ -215,7 +311,7 @@
     {
       "added_at": "2025-03-21 04:01:01",
       "album": {
-        "name": "Feel It (From The Original Series \u201cInvincible\u201d)",
+        "name": "Feel It (From \u201cInvincible\u201d)",
         "url": "https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2"
       },
       "artists": [
@@ -225,7 +321,7 @@
         }
       ],
       "duration_ms": 157974,
-      "name": "Feel It - From The Original Series \u201cInvincible\u201d",
+      "name": "Feel It - From \u201cInvincible\u201d",
       "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
     },
     {
@@ -639,22 +735,6 @@
       "duration_ms": 150933,
       "name": "Getting Clear",
       "url": "https://open.spotify.com/track/2bZQiLRMHEbwZXAi1VkJWP"
-    },
-    {
-      "added_at": "2025-01-24 05:00:53",
-      "album": {
-        "name": "Pick Your Poison",
-        "url": "https://open.spotify.com/album/0UUc2qq43lHwDaRIy4y4zA"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 159151,
-      "name": "Pick Your Poison",
-      "url": "https://open.spotify.com/track/2wJSA9ujmuRvfnBq0dlokx"
     },
     {
       "added_at": "2025-02-28 05:01:00",

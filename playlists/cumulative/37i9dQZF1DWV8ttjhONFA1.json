@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Ainda.",
+  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Isla de Caras.",
   "name": "Indie Argentina",
   "tracks": [
     {
@@ -352,6 +352,24 @@
       "duration_ms": 181106,
       "name": "AMANECER",
       "url": "https://open.spotify.com/track/1DDqxK4J41BGZXavc4cSuh"
+    },
+    {
+      "album": {
+        "name": "Amigos",
+        "url": "https://open.spotify.com/album/278YtS4MBG442HPw7PVir5"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188663,
+      "name": "Amigos",
+      "url": "https://open.spotify.com/track/6a5vbABXHEmTbxXWqwmtRa"
     },
     {
       "album": {
@@ -966,7 +984,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 187594,
       "name": "Caparaz\u00f3n",
       "url": "https://open.spotify.com/track/1ZILqfSEpNKojBamw4IRnN"
@@ -1936,7 +1954,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 210721,
       "name": "Dopamina",
       "url": "https://open.spotify.com/track/5qHJ8u5uelMa0x8nY9n0zO"
@@ -1954,7 +1972,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 229046,
       "name": "dos al medio",
       "url": "https://open.spotify.com/track/7fV4LQWjs5Re0XZIuuxGHm"
@@ -3062,6 +3080,24 @@
       "duration_ms": 194905,
       "name": "Im\u00e1n",
       "url": "https://open.spotify.com/track/6Vj1uUX2vs393dbNnrR6E7"
+    },
+    {
+      "album": {
+        "name": "INVENCIBLES",
+        "url": "https://open.spotify.com/album/2mNwGeWhgEIOe9ZN0gaBHa"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169019,
+      "name": "INVENCIBLES",
+      "url": "https://open.spotify.com/track/1wdBQEtQXfzMrzEKYbZ548"
     },
     {
       "album": {
@@ -4615,6 +4651,24 @@
     },
     {
       "album": {
+        "name": "V\u00e1ndalos",
+        "url": "https://open.spotify.com/album/4sPqEkPXMrI8DoxnuOKWhT"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220026,
+      "name": "Nosotros",
+      "url": "https://open.spotify.com/track/0rKHQmL9PEArotM0WPnj7n"
+    },
+    {
+      "album": {
         "name": "Nuestro Vuelo",
         "url": "https://open.spotify.com/album/57hOmfTXjTKvZ0kqBUcpzI"
       },
@@ -5976,7 +6030,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 200163,
       "name": "Te Miento - Al Piano",
       "url": "https://open.spotify.com/track/1cPyKHSbPoQ0RNOEwuaugN"

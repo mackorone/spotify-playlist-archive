@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: JJ Hairston",
+  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: Donald Lawrence",
   "name": "Spread the Gospel",
   "tracks": [
     {
@@ -2324,6 +2324,28 @@
       "duration_ms": 238480,
       "name": "Down At The Cross - Live",
       "url": "https://open.spotify.com/track/6ajT3LyPHVRNwUc4KbG4Wx"
+    },
+    {
+      "album": {
+        "name": "El Shaddai",
+        "url": "https://open.spotify.com/album/264N2Ft0NXF0kX0YHWE2XC"
+      },
+      "artists": [
+        {
+          "name": "Donald Lawrence",
+          "url": "https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l"
+        },
+        {
+          "name": "Rodney Posey",
+          "url": "https://open.spotify.com/artist/7fEq8LFbuLfmDMVfQDoZQr"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364278,
+      "name": "El Shaddai",
+      "url": "https://open.spotify.com/track/1HhdoW0N0SwJeq6m7SvME8"
     },
     {
       "album": {
@@ -12794,7 +12816,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 402386,
       "name": "Words",
       "url": "https://open.spotify.com/track/1EilCjxsF1Ln8E7tZUiDN7"

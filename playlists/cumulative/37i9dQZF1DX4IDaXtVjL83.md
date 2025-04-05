@@ -2,9 +2,9 @@
 
 ### [K\-Pop X\-Overs](https://open.spotify.com/playlist/37i9dQZF1DX4IDaXtVjL83)
 
-> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: JENNIE x Dua Lipa\)
+> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: Etham x 청하\)
 
-220 songs - 11 hr 42 min
+221 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Family \(feat\. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/0HLhptvI8NozbOHRLNniFz) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Family \(feat\. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie\)](https://open.spotify.com/album/1O3wGX19uKgXZZuW7uKb9l) | 2:38 | 2021-12-20 | 2022-08-30 |
 | [Feel Like](https://open.spotify.com/track/7Kw56g1qxxYKSVJFy3JmBj) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N), [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Feel Like](https://open.spotify.com/album/1bgbdSTAzVt7gcMIoU3lyq) | 3:42 | 2021-12-20 | 2022-06-11 |
 | [Feeling Lucky](https://open.spotify.com/track/53x0Yk1qOyurd2MefyF3Ny) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Feeling Lucky](https://open.spotify.com/album/4bc9PfPyv60qCh5S5g5eMb) | 2:31 | 2024-04-25 |  |
+| [Find Love](https://open.spotify.com/track/5xxYyxp5Rx0xu5YJ5vMPu5) | [Etham](https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Find Love](https://open.spotify.com/album/61LVXje36haNTn7BJdEI2t) | 3:36 | 2025-04-04 |  |
 | [FOREVER LOVE](https://open.spotify.com/track/0vw7qY8iPqBt0ic05q2IoU) | [Mew Suppasit](https://open.spotify.com/artist/78u00MLyG46IkmM8HC6H0l), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [FOREVER LOVE](https://open.spotify.com/album/6x9oLu6OLMKuQK84HvZ5hx) | 3:39 | 2022-07-22 | 2024-10-09 |
 | [Forget Me Not](https://open.spotify.com/track/3QA3KfGs1UvSEZkWcio81R) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : 儚い](https://open.spotify.com/album/05UNmVxVeG3XwkfrcXls5g) | 3:23 | 2021-12-20 | 2022-01-22 |
 | [Future Perfect \(Pass the MIC\) \- Japanese Ver.](https://open.spotify.com/track/3lwif0ky1b6llUB5p4uulL) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [定め](https://open.spotify.com/album/58Rn6sczqcudAs9bryXXBv) | 3:00 | 2022-10-25 | 2024-04-19 |
@@ -176,7 +177,7 @@
 | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/track/60JZB9waHUPWJTGbYO6kDB) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/album/2JvE7wdlDjKxadK7Y95xpQ) | 2:53 | 2024-02-09 |  |
 | [Sucker For That Love](https://open.spotify.com/track/7pqsNojJhZypPRAAifrK6m) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO), [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [Sucker For That Love](https://open.spotify.com/album/1E19a0qnONIJH6qMPD8XLQ) | 3:01 | 2021-12-20 | 2022-05-11 |
 | [SUGAR DIVE](https://open.spotify.com/track/3p3tezl8FJHkm68tczR0yP) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [SUGAR DIVE](https://open.spotify.com/album/6nhu2S33qQ7nhnSBPDaa39) | 3:14 | 2023-02-16 | 2024-05-18 |
-| [Super Chic](https://open.spotify.com/track/39K97j8UZKiQWXDTrUybCL) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez), [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [Super Chic](https://open.spotify.com/album/5kGyJT8HMcHvhd3TXdmyyu) | 2:47 | 2023-04-21 |  |
+| [Super Chic](https://open.spotify.com/track/39K97j8UZKiQWXDTrUybCL) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez), [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [Super Chic](https://open.spotify.com/album/5kGyJT8HMcHvhd3TXdmyyu) | 2:47 | 2023-04-21 | 2025-04-05 |
 | [Supernova \(Grimes Remix\)](https://open.spotify.com/track/4cebwm6DwAPkyOKbNT6RmL) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [iScreaM Vol.33 : Supernova / Armageddon Remixes](https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc) | 3:47 | 2024-09-20 |  |
 | [Supernova Love](https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Supernova Love](https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X) | 3:19 | 2024-11-08 |  |
 | [Talkin’ About It \(Feat\. 24kGoldn\)](https://open.spotify.com/track/28mFFxAwJ9cx9j7z9yu64R) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 2:50 | 2023-08-18 |  |

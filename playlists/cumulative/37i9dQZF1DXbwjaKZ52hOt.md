@@ -4,7 +4,7 @@
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-325 songs - 9 hr 49 min
+327 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Muffin Man](https://open.spotify.com/track/3xP01FeZSZSLwimehmsmnW) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 1](https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ) | 0:33 | 2022-02-25 |  |
 | [Muffin Man \- Dance Party](https://open.spotify.com/track/38iH22CUVjeEv3PhacdKya) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Sing, Dance, Party!, Vol\. 3](https://open.spotify.com/album/2Gj36iVtMF0q9wiPHtfkcK) | 2:26 | 2024-02-16 |  |
 | [Mulberry Bush](https://open.spotify.com/track/0Osu1KG7BWIL1FJPs0XRCK) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 1](https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ) | 0:53 | 2022-02-25 |  |
+| [Oh Dear, What Can the Matter Be?](https://open.spotify.com/track/7bRRaKqYB7U1DI86dQxCZN) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [The 50 Best Nursery Rhymes Ever](https://open.spotify.com/album/4qNChccwh72RdCNH3x6u5w) | 2:32 | 2025-04-04 |  |
 | [Oh, Susanna](https://open.spotify.com/track/5KjxaoU48spAgx7gONScfR) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [Baby Songs \- 75 Nursery Rhymes](https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE) | 1:26 | 2022-02-25 |  |
 | [Old MacDonald](https://open.spotify.com/track/3Zx2D0yiser6lt6YrBKm54) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 3](https://open.spotify.com/album/6TkfhNkfCi1WKoXIhcJOII) | 5:56 | 2022-02-25 | 2022-07-29 |
 | [Old MacDonald](https://open.spotify.com/track/6oVVyZjBrHwafZO43XAc45) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 1](https://open.spotify.com/album/4y8tx8PVyNSMZAjVn6OblN) | 5:56 | 2022-02-25 | 2024-01-05 |
@@ -257,6 +258,7 @@
 | [Short'nin' Bread](https://open.spotify.com/track/4LMuKlesZMky3iVQq2qOAP) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Top 50 Nursery Rhymes Playlist](https://open.spotify.com/album/21AWJ3rlCXg9Dwfpd65xRw) | 1:46 | 2022-02-25 | 2024-01-05 |
 | [Shut Them Open](https://open.spotify.com/track/2LNdvWCmPEUywHeRqXEjig) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Best Kids Songs](https://open.spotify.com/album/6sjyABKKHHt7nRZ9J6P3JU) | 0:52 | 2022-02-25 |  |
 | [Sing a Song of Sixpence](https://open.spotify.com/track/4gTqxLrtbeM2hLwaFEF559) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 2](https://open.spotify.com/album/0PVlkUBCs6cPFmQHMCzhVd) | 0:38 | 2022-02-25 |  |
+| [Six Little Ducks](https://open.spotify.com/track/7jgMcaafsL3YvZyymuuJSy) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Six Little Ducks](https://open.spotify.com/album/1JBMMyIQyBfemZCWRmPDx1) | 1:58 | 2025-04-04 |  |
 | [Skidamarink](https://open.spotify.com/track/5GjXNfKlNfOgacGtTUMXKe) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [It's Time for Bed](https://open.spotify.com/album/3MKm8koz5nvtGYRaTkLYXe) | 2:16 | 2022-02-25 |  |
 | [Skip To My Lou](https://open.spotify.com/track/05xUTBo0HN1HEq8Y3DBPih) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi's Nursery Rhymes](https://open.spotify.com/album/0VubFA5No9gVylojbWtyw9) | 2:34 | 2022-02-25 |  |
 | [Skip to My Lou](https://open.spotify.com/track/4LzMGZEwmCdxfczMbS0qOp) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 1](https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ) | 1:13 | 2022-02-25 | 2024-01-05 |

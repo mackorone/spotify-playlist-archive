@@ -2,9 +2,9 @@
 
 ### [Pop Live](https://open.spotify.com/playlist/37i9dQZF1DWWnzeQw5ZMfu)
 
-> Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Taylor Swift
+> Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Gracie Abrams
 
-250 songs - 19 hr 17 min
+251 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Cruel Summer \- Live from TS \| The Eras Tour](https://open.spotify.com/track/6ClYMObS7f3Nn4AiZHYQt3) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Cruelest Summer](https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4) | 3:49 | 2023-10-20 |  |
 | [Dancing Queen \- Live](https://open.spotify.com/track/7uCt8IA0PnfsEoTMk7By1Q) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Live At Wembley Arena](https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo) | 5:52 | 2022-04-14 | 2023-08-19 |
 | [DDU\-DU DDU\-DU \- Live](https://open.spotify.com/track/437Wn1icOBdhQaVnpJpl0F) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BLACKPINK 2018 TOUR 'IN YOUR AREA' SEOUL \(Live\)](https://open.spotify.com/album/4i0XmhtxZBPxwpgNeJ1Tvg) | 3:30 | 2022-04-14 | 2023-08-19 |
+| [Death Wish \- Live from The O2 Arena](https://open.spotify.com/track/6WuOYKZbV7CvtaCA7ohYmn) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Death Wish \(Live from The O2 Arena\)](https://open.spotify.com/album/44uIJOur5ep2lIaNmbAHfO) | 3:47 | 2025-04-04 |  |
 | [Diva \- Homecoming Live](https://open.spotify.com/track/7eOG24Nx7j4nI3f9nOZTOi) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [HOMECOMING: THE LIVE ALBUM](https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x) | 2:45 | 2022-04-14 | 2023-08-19 |
 | [Dive \- Live At Eventim Apollo](https://open.spotify.com/track/4tJXijvnfDZ5knslt6WanM) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Live At Eventim Apollo](https://open.spotify.com/album/5572B4RA9LsfrkXA7rU29M) | 4:28 | 2024-12-20 | 2025-01-18 |
 | [Don't Dream It's Over \(Live at Sydney Opera House\) \- 2006 \- Remaster](https://open.spotify.com/track/60OquKw8DFe1lHZxF4Gt6j) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Farewell to the World \[\(Live at Sydney Opera House\) \[2006 \- Remaster\]\]](https://open.spotify.com/album/4BmEyUsrfPzLHV2vR5tgra) | 6:22 | 2022-04-29 | 2023-08-19 |
@@ -89,7 +90,7 @@
 | [Heaven \- Live At Sydney Opera House / 2013](https://open.spotify.com/track/7GqC52l5QiBdUjju5hzeOL) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Live At Sydney Opera House](https://open.spotify.com/album/6wFQwkeJRlLi4wP5doOGlh) | 4:53 | 2022-04-14 | 2022-07-29 |
 | [Heaven Is a Place On Earth \(Live at Indigo at the O2, London, 13/10/2017\)](https://open.spotify.com/track/1Iw1FOdlNmchEKpqXn2i2r) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [The Heaven on Earth Tour](https://open.spotify.com/album/6yjlSS4enVYWCgTx7g54jL) | 5:39 | 2022-04-29 | 2022-07-29 |
 | [Heaven Is a Place on Earth \- Live](https://open.spotify.com/track/6AcjVaDQwP51RqKnqbLU2u) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Access All Areas \- Belinda Carlisle Live \(Audio Version\)](https://open.spotify.com/album/6DvAnyTSKuFcFtiw4OPUjd) | 5:19 | 2022-04-14 | 2022-07-25 |
-| [Hips Don't Lie \(feat\. Wyclef Jean\) \- Live \- December 2006](https://open.spotify.com/track/52XoFtAGfg9AFuCB4YCcVQ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Shakira Oral Fixation Tour \(Live\)](https://open.spotify.com/album/5gqCXGuM57doaWDs6LlccJ) | 7:16 | 2022-04-14 |  |
+| [Hips Don't Lie \(feat\. Wyclef Jean\) \- Live \- December 2006](https://open.spotify.com/track/52XoFtAGfg9AFuCB4YCcVQ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Shakira Oral Fixation Tour \(Live\)](https://open.spotify.com/album/5gqCXGuM57doaWDs6LlccJ) | 7:16 | 2022-04-14 | 2025-04-05 |
 | [Honeymoon Avenue \- Live from London](https://open.spotify.com/track/1ucNmUIwlCSNjla3a1qpfL) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Yours Truly \(Tenth Anniversary Edition\)](https://open.spotify.com/album/2VSBGJ8bUuNgmOYXHIQagM) | 4:55 | 2023-09-01 | 2025-01-18 |
 | [Hopelessly Devoted To You \- Live](https://open.spotify.com/track/1rR0eM3h07YkHcIUb8lcp6) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Olivia's Live Hits](https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON) | 3:00 | 2022-08-09 | 2023-01-09 |
 | [Hopelessly Devoted To You \- Live](https://open.spotify.com/track/5lLyFcjZbmQoBXJSqVCNtT) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [The Sydney Orchestra](https://open.spotify.com/artist/7CCAEuSzV238SuznJvgKju) | [Olivia's Live Hits](https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV) | 3:00 | 2022-12-09 | 2023-08-19 |

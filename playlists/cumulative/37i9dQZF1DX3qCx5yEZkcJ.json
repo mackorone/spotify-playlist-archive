@@ -3782,7 +3782,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 249717,
       "name": "glow",
       "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
@@ -8177,6 +8177,28 @@
     },
     {
       "album": {
+        "name": "Sasanqua",
+        "url": "https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd"
+      },
+      "artists": [
+        {
+          "name": "physis",
+          "url": "https://open.spotify.com/artist/3NPEPBUgyPFCn4qNjKdhMx"
+        },
+        {
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134959,
+      "name": "Sasanqua",
+      "url": "https://open.spotify.com/track/08POPoMeYXmzyOnrxLQRlU"
+    },
+    {
+      "album": {
         "name": "Saturnian Potion",
         "url": "https://open.spotify.com/album/0a6GJOHAnJ4FKPyck0llk8"
       },
@@ -9226,7 +9248,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-26",
+      "date_removed": null,
       "duration_ms": 129679,
       "name": "Summit",
       "url": "https://open.spotify.com/track/3NzdQg2hOSyCVBkTowACjb"
@@ -9414,7 +9436,7 @@
       ],
       "date_added": "2019-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 113181,
       "name": "Talloires",
       "url": "https://open.spotify.com/track/5yn48C8nxwoYU31pOt6FuR"

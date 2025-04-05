@@ -1,45 +1,13 @@
 {
   "description": "Everything Broadway-adjacent. Cover:  Ariana Grande ",
-  "num_followers": 10970,
+  "num_followers": 11000,
   "original_name": "Off Broadway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8UZiQAAAADVbZBDS2T2sN5j0qnsxm+D",
+  "snapshot_id": "Z+9ZSwAAAAASpDURRhgN9a5yKQLxRKXu",
   "tracks": [
-    {
-      "added_at": "2025-03-03 02:52:57",
-      "album": {
-        "name": "The Wizard of Oz (Original Motion Picture Soundtrack) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/6YJkcbbY6GiUGBzgE8AFxr"
-      },
-      "artists": [
-        {
-          "name": "Judy Garland",
-          "url": "https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf"
-        }
-      ],
-      "duration_ms": 165240,
-      "name": "Over The Rainbow",
-      "url": "https://open.spotify.com/track/568SEFtDjKr7N2PytpA6D5"
-    },
-    {
-      "added_at": "2025-03-03 02:52:57",
-      "album": {
-        "name": "The Wiz",
-        "url": "https://open.spotify.com/album/2QrINaaKpAWNtQfjzNaP5y"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 242533,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/43IpC2t4If3yLz6IWc4m3f"
-    },
     {
       "added_at": "2025-03-03 02:52:57",
       "album": {
@@ -59,6 +27,66 @@
       "duration_ms": 459766,
       "name": "Defying Gravity",
       "url": "https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar"
+    },
+    {
+      "added_at": "2025-04-04 04:00:11",
+      "album": {
+        "name": "My Girls",
+        "url": "https://open.spotify.com/album/0cRJPdR3Weo7BOYI9kvQAK"
+      },
+      "artists": [
+        {
+          "name": "SIX",
+          "url": "https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0"
+        },
+        {
+          "name": "Aimie Atkinson",
+          "url": "https://open.spotify.com/artist/5vhs6tHx6ahaFoLrkyEClj"
+        },
+        {
+          "name": "Alexia McIntosh",
+          "url": "https://open.spotify.com/artist/7JUwXimcyuqytyDZy3eBJ0"
+        },
+        {
+          "name": "Grace Mouat",
+          "url": "https://open.spotify.com/artist/77aJ6k47i5S3QValR3t73V"
+        },
+        {
+          "name": "Millie O\u2019Connell",
+          "url": "https://open.spotify.com/artist/1BDWEaWPD0ctGRrt9x4jSO"
+        },
+        {
+          "name": "Natalie Paris",
+          "url": "https://open.spotify.com/artist/4rNKsg7PLOeJY6EFH2sW2u"
+        },
+        {
+          "name": "Maiya Quansah-Breed",
+          "url": "https://open.spotify.com/artist/1sBl1wVmSkCUXHLn9qrp7L"
+        },
+        {
+          "name": "Jarn\u00e9ia Richard-Noel",
+          "url": "https://open.spotify.com/artist/57dmgVvifmtQZdsudST5xW"
+        }
+      ],
+      "duration_ms": 185211,
+      "name": "My Girls",
+      "url": "https://open.spotify.com/track/1qK3gwAMjFiH2fGLCf8Wvp"
+    },
+    {
+      "added_at": "2025-03-03 02:52:57",
+      "album": {
+        "name": "The Wiz",
+        "url": "https://open.spotify.com/album/2QrINaaKpAWNtQfjzNaP5y"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 242533,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/43IpC2t4If3yLz6IWc4m3f"
     },
     {
       "added_at": "2025-03-03 02:52:57",

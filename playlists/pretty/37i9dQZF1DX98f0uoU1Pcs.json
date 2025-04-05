@@ -1,6 +1,6 @@
 {
   "description": "a experimental mix of rock, punk, alt & indie. Cover: Model/Actriz",
-  "num_followers": 286838,
+  "num_followers": 286886,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-02-25 23:07:42",
       "album": {
-        "name": "TANGK",
-        "url": "https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 249586,
-      "name": "Gift Horse",
-      "url": "https://open.spotify.com/track/67CrKLE8d3Qhm4gcltiKs1"
-    },
-    {
-      "added_at": "2025-02-25 23:07:42",
-      "album": {
         "name": "T\u00edr na n\u00d3g",
         "url": "https://open.spotify.com/album/2iD7JYKrmAAT0erQWjkj96"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 320120,
       "name": "Ceathair",
       "url": "https://open.spotify.com/track/2vOMRmQ3Jlh5iA7krw6uXS"
+    },
+    {
+      "added_at": "2025-02-25 23:07:42",
+      "album": {
+        "name": "TANGK",
+        "url": "https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 249586,
+      "name": "Gift Horse",
+      "url": "https://open.spotify.com/track/67CrKLE8d3Qhm4gcltiKs1"
     },
     {
       "added_at": "2025-02-25 23:07:42",
@@ -655,38 +655,18 @@
     {
       "added_at": "2025-02-25 23:07:42",
       "album": {
-        "name": "Docket (feat. Bully)",
-        "url": "https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI"
+        "name": "On the Intricate Inner Workings of the System",
+        "url": "https://open.spotify.com/album/6HKuDmYKRsA43eYFgPYtGH"
       },
       "artists": [
         {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        },
-        {
-          "name": "Bully",
-          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+          "name": "The Bug Club",
+          "url": "https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB"
         }
       ],
-      "duration_ms": 210493,
-      "name": "Docket (feat. Bully)",
-      "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
-    },
-    {
-      "added_at": "2025-02-25 23:07:42",
-      "album": {
-        "name": "Hangman",
-        "url": "https://open.spotify.com/album/6M3Vp81hUWQJpErD7eTXV9"
-      },
-      "artists": [
-        {
-          "name": "Divorce",
-          "url": "https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo"
-        }
-      ],
-      "duration_ms": 189531,
-      "name": "Hangman",
-      "url": "https://open.spotify.com/track/47sdIyGJrff7WH00KEaCUm"
+      "duration_ms": 266986,
+      "name": "We Don't Care About That",
+      "url": "https://open.spotify.com/track/6TtqsRfr3UTY53Gj3CbMYL"
     },
     {
       "added_at": "2025-02-25 23:07:42",
@@ -707,18 +687,22 @@
     {
       "added_at": "2025-02-25 23:07:42",
       "album": {
-        "name": "On the Intricate Inner Workings of the System",
-        "url": "https://open.spotify.com/album/6HKuDmYKRsA43eYFgPYtGH"
+        "name": "Docket (feat. Bully)",
+        "url": "https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI"
       },
       "artists": [
         {
-          "name": "The Bug Club",
-          "url": "https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB"
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        },
+        {
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
         }
       ],
-      "duration_ms": 266986,
-      "name": "We Don't Care About That",
-      "url": "https://open.spotify.com/track/6TtqsRfr3UTY53Gj3CbMYL"
+      "duration_ms": 210493,
+      "name": "Docket (feat. Bully)",
+      "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
     },
     {
       "added_at": "2025-02-25 23:07:42",
@@ -735,6 +719,22 @@
       "duration_ms": 199376,
       "name": "Like A Lesson",
       "url": "https://open.spotify.com/track/0yZ8L3IeepqzT7ydct5DGQ"
+    },
+    {
+      "added_at": "2025-02-25 23:07:42",
+      "album": {
+        "name": "Hangman",
+        "url": "https://open.spotify.com/album/6M3Vp81hUWQJpErD7eTXV9"
+      },
+      "artists": [
+        {
+          "name": "Divorce",
+          "url": "https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo"
+        }
+      ],
+      "duration_ms": 189531,
+      "name": "Hangman",
+      "url": "https://open.spotify.com/track/47sdIyGJrff7WH00KEaCUm"
     },
     {
       "added_at": "2025-02-25 23:07:42",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-02-25 23:07:42",
       "album": {
-        "name": "Break The Tension",
-        "url": "https://open.spotify.com/album/4oMSL9GDnGiU7wkFjkChvo"
-      },
-      "artists": [
-        {
-          "name": "Maruja",
-          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
-        }
-      ],
-      "duration_ms": 225320,
-      "name": "Break The Tension",
-      "url": "https://open.spotify.com/track/0xDcb79YbOWM9izkdd26gi"
-    },
-    {
-      "added_at": "2025-02-25 23:07:42",
-      "album": {
         "name": "Mommy",
         "url": "https://open.spotify.com/album/4eibRhcgxtRIytvG87I8Ay"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 181540,
       "name": "Worship The Whip",
       "url": "https://open.spotify.com/track/1Lt1SJdkdFOHqwxkEIGJan"
+    },
+    {
+      "added_at": "2025-02-25 23:07:42",
+      "album": {
+        "name": "Break The Tension",
+        "url": "https://open.spotify.com/album/4oMSL9GDnGiU7wkFjkChvo"
+      },
+      "artists": [
+        {
+          "name": "Maruja",
+          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
+        }
+      ],
+      "duration_ms": 225320,
+      "name": "Break The Tension",
+      "url": "https://open.spotify.com/track/0xDcb79YbOWM9izkdd26gi"
     },
     {
       "added_at": "2025-02-25 23:07:42",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-02-25 23:07:42",
       "album": {
-        "name": "A Distant Life",
-        "url": "https://open.spotify.com/album/6VilbKJ0zEQ5cGyWcxLcOI"
-      },
-      "artists": [
-        {
-          "name": "The Murder Capital",
-          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
-        }
-      ],
-      "duration_ms": 160080,
-      "name": "A Distant Life",
-      "url": "https://open.spotify.com/track/33jgfdPpvJSlj1hBGMzoEt"
-    },
-    {
-      "added_at": "2025-02-25 23:07:42",
-      "album": {
         "name": "Brown Paper Bag",
         "url": "https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2025-02-25 23:07:42",
       "album": {
-        "name": "Up On Gravity Hill",
-        "url": "https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN"
+        "name": "A Distant Life",
+        "url": "https://open.spotify.com/album/6VilbKJ0zEQ5cGyWcxLcOI"
       },
       "artists": [
         {
-          "name": "Metz",
-          "url": "https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI"
+          "name": "The Murder Capital",
+          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
         }
       ],
-      "duration_ms": 308294,
-      "name": "Light Your Way Home",
-      "url": "https://open.spotify.com/track/0ovUeDBAYhrSnQV8bgG2S5"
+      "duration_ms": 160080,
+      "name": "A Distant Life",
+      "url": "https://open.spotify.com/track/33jgfdPpvJSlj1hBGMzoEt"
     },
     {
       "added_at": "2025-02-25 23:07:42",
@@ -943,6 +927,22 @@
       "duration_ms": 184031,
       "name": "Stimulation",
       "url": "https://open.spotify.com/track/5YLoFqeK7ARjYYXzxA3whX"
+    },
+    {
+      "added_at": "2025-02-25 23:07:42",
+      "album": {
+        "name": "Up On Gravity Hill",
+        "url": "https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN"
+      },
+      "artists": [
+        {
+          "name": "Metz",
+          "url": "https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI"
+        }
+      ],
+      "duration_ms": 308294,
+      "name": "Light Your Way Home",
+      "url": "https://open.spotify.com/track/0ovUeDBAYhrSnQV8bgG2S5"
     },
     {
       "added_at": "2025-02-25 23:07:42",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-02-25 23:07:42",
       "album": {
-        "name": "Red Mile",
-        "url": "https://open.spotify.com/album/6VD4YOtrGNaVfGoIetOqHb"
-      },
-      "artists": [
-        {
-          "name": "Crack Cloud",
-          "url": "https://open.spotify.com/artist/10butpS2A0V5nRIu2YDrKI"
-        }
-      ],
-      "duration_ms": 371280,
-      "name": "Blue Kite",
-      "url": "https://open.spotify.com/track/1wcO4LAHHq4swYyAGsDEbi"
-    },
-    {
-      "added_at": "2025-02-25 23:07:42",
-      "album": {
         "name": "I Promise",
         "url": "https://open.spotify.com/album/0OICGkWLi8mHWn6fQIOPpo"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 173014,
       "name": "Maybe Maybe",
       "url": "https://open.spotify.com/track/256MAkjR6G8bj14WM3whE0"
+    },
+    {
+      "added_at": "2025-02-25 23:07:42",
+      "album": {
+        "name": "Red Mile",
+        "url": "https://open.spotify.com/album/6VD4YOtrGNaVfGoIetOqHb"
+      },
+      "artists": [
+        {
+          "name": "Crack Cloud",
+          "url": "https://open.spotify.com/artist/10butpS2A0V5nRIu2YDrKI"
+        }
+      ],
+      "duration_ms": 371280,
+      "name": "Blue Kite",
+      "url": "https://open.spotify.com/track/1wcO4LAHHq4swYyAGsDEbi"
     },
     {
       "added_at": "2025-02-25 23:07:42",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-02-25 23:07:42",
       "album": {
-        "name": "I Saw Another Bird",
-        "url": "https://open.spotify.com/album/4tUU0iNooKi0yWHvKoxG4X"
-      },
-      "artists": [
-        {
-          "name": "Mount Eerie",
-          "url": "https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO"
-        }
-      ],
-      "duration_ms": 132920,
-      "name": "I Saw Another Bird",
-      "url": "https://open.spotify.com/track/1IsTcFwWyQb722glDD1G9s"
-    },
-    {
-      "added_at": "2025-02-25 23:07:42",
-      "album": {
         "name": "Birthday Song",
         "url": "https://open.spotify.com/album/7ipV6YkeGj8xl8dufnslLZ"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 244223,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/3Ir78IJjPU3eODC44pzlnf"
+    },
+    {
+      "added_at": "2025-02-25 23:07:42",
+      "album": {
+        "name": "I Saw Another Bird",
+        "url": "https://open.spotify.com/album/4tUU0iNooKi0yWHvKoxG4X"
+      },
+      "artists": [
+        {
+          "name": "Mount Eerie",
+          "url": "https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO"
+        }
+      ],
+      "duration_ms": 132920,
+      "name": "I Saw Another Bird",
+      "url": "https://open.spotify.com/track/1IsTcFwWyQb722glDD1G9s"
     },
     {
       "added_at": "2025-02-25 23:07:42",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2025-02-25 23:07:42",
       "album": {
+        "name": "High Value Male",
+        "url": "https://open.spotify.com/album/3XP2320XRPEq8TseiN55yx"
+      },
+      "artists": [
+        {
+          "name": "Papa Jupe's T.C.",
+          "url": "https://open.spotify.com/artist/4cTTWSl72fBBZZSSosrXkh"
+        }
+      ],
+      "duration_ms": 222370,
+      "name": "High Value Male",
+      "url": "https://open.spotify.com/track/2bAsqCCS2HQj83iw2tB0X6"
+    },
+    {
+      "added_at": "2025-02-25 23:07:42",
+      "album": {
         "name": "Burn It Away",
         "url": "https://open.spotify.com/album/32tuGofvxiyOCpx1SfoNBj"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 244760,
       "name": "Burn It Away",
       "url": "https://open.spotify.com/track/69bJGbmDoTzpgbrfsuF2Ii"
-    },
-    {
-      "added_at": "2025-02-25 23:07:42",
-      "album": {
-        "name": "High Value Male",
-        "url": "https://open.spotify.com/album/3XP2320XRPEq8TseiN55yx"
-      },
-      "artists": [
-        {
-          "name": "Papa Jupe's T.C.",
-          "url": "https://open.spotify.com/artist/4cTTWSl72fBBZZSSosrXkh"
-        }
-      ],
-      "duration_ms": 222370,
-      "name": "High Value Male",
-      "url": "https://open.spotify.com/track/2bAsqCCS2HQj83iw2tB0X6"
     },
     {
       "added_at": "2025-02-25 23:07:42",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-02-25 23:07:42",
       "album": {
-        "name": "Hide & Seek",
-        "url": "https://open.spotify.com/album/2OUAkno2xG9rjGhHlt0pqM"
-      },
-      "artists": [
-        {
-          "name": "The Jesus Lizard",
-          "url": "https://open.spotify.com/artist/6r26MaDr8bqNALjXgYPXMa"
-        }
-      ],
-      "duration_ms": 184562,
-      "name": "Hide & Seek",
-      "url": "https://open.spotify.com/track/7tJwNCxACiqdewg8dODKAL"
-    },
-    {
-      "added_at": "2025-02-25 23:07:42",
-      "album": {
         "name": "Cosmic Leash",
         "url": "https://open.spotify.com/album/6P2EWBqxU91oy4ydMRQyOt"
       },
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2025-02-25 23:07:42",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/7dQTDkq3YrRmbEs7fMatlJ"
+        "name": "Hide & Seek",
+        "url": "https://open.spotify.com/album/2OUAkno2xG9rjGhHlt0pqM"
       },
       "artists": [
         {
-          "name": "PACKS",
-          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
+          "name": "The Jesus Lizard",
+          "url": "https://open.spotify.com/artist/6r26MaDr8bqNALjXgYPXMa"
         }
       ],
-      "duration_ms": 156722,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/3EGN9B0DmjSBMBKzZVMSAM"
+      "duration_ms": 184562,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/7tJwNCxACiqdewg8dODKAL"
     },
     {
       "added_at": "2025-02-25 23:07:42",
@@ -1571,18 +1555,18 @@
     {
       "added_at": "2025-02-25 23:07:42",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/41Thjpf8tfM3U0UHwrP0EK"
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/7dQTDkq3YrRmbEs7fMatlJ"
       },
       "artists": [
         {
-          "name": "Talk Show",
-          "url": "https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3"
+          "name": "PACKS",
+          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
         }
       ],
-      "duration_ms": 259812,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/2EonwBGjylKZocutExSRzY"
+      "duration_ms": 156722,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/3EGN9B0DmjSBMBKzZVMSAM"
     },
     {
       "added_at": "2025-02-25 23:07:42",
@@ -1599,6 +1583,22 @@
       "duration_ms": 65654,
       "name": "Art History",
       "url": "https://open.spotify.com/track/6ZW6mNdkyhqe7ouKpFTImd"
+    },
+    {
+      "added_at": "2025-02-25 23:07:42",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/41Thjpf8tfM3U0UHwrP0EK"
+      },
+      "artists": [
+        {
+          "name": "Talk Show",
+          "url": "https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3"
+        }
+      ],
+      "duration_ms": 259812,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/2EonwBGjylKZocutExSRzY"
     },
     {
       "added_at": "2025-02-25 23:07:42",

@@ -2,9 +2,9 @@
 
 ### [North Country](https://open.spotify.com/playlist/37i9dQZF1DWYV2Gh2QglGo)
 
-> The home of Canadian country music\. Cover: Brett Kissel
+> The home of Canadian country music\. Cover: Josh Ross
 
-224 songs - 12 hr 11 min
+227 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [As You Are](https://open.spotify.com/track/4DXs4CjeQ91Abx1xReQ3cC) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [As You Are](https://open.spotify.com/album/0LCxYgE6QltpzkxhVXOPez) | 4:06 | 2024-06-28 | 2024-08-31 |
 | [August](https://open.spotify.com/track/7hgyY3bVnEK6CO6cyO8QrK) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [August](https://open.spotify.com/album/16FL0OZQSlG3dX6XtpCmkZ) | 3:47 | 2024-08-30 | 2024-11-02 |
 | [Back At Your Door](https://open.spotify.com/track/4JL5loZbBLCyLsLPgjLmEb) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Stampede](https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE) | 3:32 | 2024-08-02 | 2024-09-07 |
-| [Back To You](https://open.spotify.com/track/0nO4bDeRdPbhRYixrjgSfh) | [Mitch Zorn](https://open.spotify.com/artist/0oIZCkRWLup8z9nLIEteQ7) | [Back To You](https://open.spotify.com/album/4t6788zC1gaovd8OmcKtMS) | 3:09 | 2025-02-21 |  |
+| [Back To You](https://open.spotify.com/track/0nO4bDeRdPbhRYixrjgSfh) | [Mitch Zorn](https://open.spotify.com/artist/0oIZCkRWLup8z9nLIEteQ7) | [Back To You](https://open.spotify.com/album/4t6788zC1gaovd8OmcKtMS) | 3:09 | 2025-02-21 | 2025-04-05 |
 | [Backseat](https://open.spotify.com/track/7atCOAWrcPK8Q2GLPdZN4k) | [Adam Wendler](https://open.spotify.com/artist/3ea4XDPCrAm68rpImApb94) | [Backseat](https://open.spotify.com/album/3EqsLVYWfPIPVYzPAcpLa1) | 2:24 | 2025-01-17 |  |
 | [Band On Her T\-Shirt](https://open.spotify.com/track/3aQH4moGvuz3JTU4I2lsFW) | [The Washboard Union](https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k) | [Band On Her T\-Shirt](https://open.spotify.com/album/2NvZ047DnmgdTVu8HgdonK) | 3:09 | 2024-06-28 | 2024-07-19 |
 | [Better Mistake](https://open.spotify.com/track/2knmYl21AiF8yljirioZGw) | [Teigen Gayse](https://open.spotify.com/artist/1k8sDryfnPptQu6zMlOrp4) | [Better Mistake](https://open.spotify.com/album/0akU8Sc3cY9N8BV7lkkGkQ) | 2:38 | 2024-06-28 | 2024-08-24 |
@@ -84,6 +84,7 @@
 | [Heartbreak Saloon](https://open.spotify.com/track/2b74hgJd9xnOW6AjSEisnO) | [Dallas Alexander](https://open.spotify.com/artist/5iXE5iocUV7kCWdl0b4iJv) | [Heartbreak Saloon](https://open.spotify.com/album/67fo7zpzdcwoYr7vfXHbhn) | 4:07 | 2024-08-16 | 2024-10-19 |
 | [HELL YEAH](https://open.spotify.com/track/6ihqdWcWjIMoTtdPgevo2K) | [Andy Colonico](https://open.spotify.com/artist/3u3WCmcBDZw4Ow4sDft4kO) | [HELL YEAH](https://open.spotify.com/album/4hI2zD9yAGH86zksyQE1U6) | 3:20 | 2024-06-28 | 2024-07-19 |
 | [Here To Stay](https://open.spotify.com/track/6I9nTnwUOzb8hHukEoBkeH) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Here To Stay](https://open.spotify.com/album/5jm0SNnhwVAVpOp7AIvCWN) | 3:12 | 2024-06-28 | 2024-08-03 |
+| [Here's Your Chance](https://open.spotify.com/track/48sINJHpSyiDRxhRVRse8L) | [Jason Benoit](https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w) | [Here's Your Chance](https://open.spotify.com/album/2T57HSRWMNOpMSrcfn2QFo) | 2:41 | 2025-04-04 |  |
 | [Hey Mom I Made It](https://open.spotify.com/track/00YB5b2EVOFz0SuNFP2Swv) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Hey Mom I Made It](https://open.spotify.com/album/3QjNG5uvzA9wIimwWpDy2c) | 2:49 | 2024-06-28 | 2025-02-01 |
 | [High Life](https://open.spotify.com/track/1N3w24NO5PLKygjGmzljki) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [High Life](https://open.spotify.com/album/6jxrPcypdXLK8CLftooswt) | 2:55 | 2024-08-16 | 2024-09-07 |
 | [High On You](https://open.spotify.com/track/3Sbf3VHkyZSTiHCZUhPHHY) | [Blue Ridge Band](https://open.spotify.com/artist/2yE8COtZJKf4SgSNz3wW6u) | [High On You](https://open.spotify.com/album/0RdWoRN0HHygQcwoefgR8g) | 2:46 | 2025-03-28 |  |
@@ -131,8 +132,9 @@
 | [Movin' On](https://open.spotify.com/track/3yqJZoAQR9N2UlQmhzKAXa) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Movin' On](https://open.spotify.com/album/2MnW3DzqCDPXXRZP0lrGlC) | 2:58 | 2024-11-22 |  |
 | [My Bad](https://open.spotify.com/track/78gxJQtinQAlgNfLFXpNZC) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Bettin' On Me](https://open.spotify.com/album/4lmtew0Vg81Dbo37F6PTYS) | 3:22 | 2025-02-07 |  |
 | [My Bedroom](https://open.spotify.com/track/4s2hYIjegeOxsVXpVtwywh) | [Tilsen](https://open.spotify.com/artist/2RgfDvNnwJPMLSUu6H3kuq), [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb), [Laila](https://open.spotify.com/artist/4EXZpEXNEw9idyyLvmdjhb) | [My Bedroom](https://open.spotify.com/album/2qNVSPTBeMo1vLUg1JF09z) | 2:47 | 2024-11-15 | 2025-03-08 |
+| [My Expense](https://open.spotify.com/track/6CI6UohMB7T9AbKPltin9i) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [My Expense](https://open.spotify.com/album/4HWNcfegPrg2vmIaxqK3KL) | 3:46 | 2025-04-04 |  |
 | [Nashville, Nashville](https://open.spotify.com/track/4mMW9MinyGBln3OIGspXRr) | [Lydia Sutherland](https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW) | [Nashville, Nashville](https://open.spotify.com/album/5tBUahFZFM3ZPxVm95HgmH) | 4:08 | 2024-09-20 | 2024-10-12 |
-| [Neon Cowboy](https://open.spotify.com/track/4SoxGhG9jDK86qCXFKOkRJ) | [Elyse Saunders](https://open.spotify.com/artist/1jsGKKtfTZM5XBlT9EhFOk) | [Neon Cowboy](https://open.spotify.com/album/5scVpTM1JZYZGzOJ2jZVtw) | 3:19 | 2024-10-25 |  |
+| [Neon Cowboy](https://open.spotify.com/track/4SoxGhG9jDK86qCXFKOkRJ) | [Elyse Saunders](https://open.spotify.com/artist/1jsGKKtfTZM5XBlT9EhFOk) | [Neon Cowboy](https://open.spotify.com/album/5scVpTM1JZYZGzOJ2jZVtw) | 3:19 | 2024-10-25 | 2025-04-05 |
 | [Neon Cowgirl](https://open.spotify.com/track/6EViVjzk04NKzhVMtMxvbk) | [Kalsey Kulyk](https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu) | [Neon Cowgirl](https://open.spotify.com/album/090hcRCJQ70C3TnLuSn6FG) | 3:39 | 2025-03-28 |  |
 | [Never Leave](https://open.spotify.com/track/0owyOeTqTln75t7TBUlBud) | [Chase Heaslip](https://open.spotify.com/artist/7LahLe2apuPLTIbZxOHASr) | [Never Leave](https://open.spotify.com/album/2jizXHiMa2KOpVBU7Er4G1) | 3:33 | 2024-07-12 | 2024-09-14 |
 | [Never Not Care](https://open.spotify.com/track/76QLV6Eu2S375hXioGynF5) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Never Not Care](https://open.spotify.com/album/3rpA5VLqSQ1WfrDt050OZv) | 2:35 | 2024-10-25 |  |
@@ -220,11 +222,12 @@
 | [Whiskey Bottle](https://open.spotify.com/track/1oopyVZOYfVijlYX6PFBUX) | [Ryan Langdon](https://open.spotify.com/artist/7xceJlDYJKhn4KdxY8CWaV) | [Whiskey Bottle](https://open.spotify.com/album/4oBfh4vaQsqsizHoX0uP4e) | 2:58 | 2024-06-28 | 2024-09-14 |
 | [White Claw](https://open.spotify.com/track/1lbpwh97jdsftd1DhpESOg) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [White Claw](https://open.spotify.com/album/2GRRZDdDDCDBJ7zoadTLzx) | 3:26 | 2024-06-28 | 2024-10-12 |
 | [Who Knew](https://open.spotify.com/track/5Mr6sAj3FMX4nCxErLTv8p) | [Zach McPhee](https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN) | [Who Knew](https://open.spotify.com/album/0a6djAftnj9ApNI89AKxhQ) | 3:02 | 2024-06-28 | 2024-08-17 |
-| [Wide Open \(feat\. Michaela Slinger\)](https://open.spotify.com/track/3eskIYs6c2GjLs7Hk0v1PE) | [Braden Lam](https://open.spotify.com/artist/2k874mUqyCwo44UZbbRsGr), [Michaela Slinger](https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ) | [Wide Open \(feat\. Michaela Slinger\)](https://open.spotify.com/album/2GwFSvFseBD11Jk8TZM6fU) | 3:42 | 2025-01-17 |  |
+| [Wide Open \(feat\. Michaela Slinger\)](https://open.spotify.com/track/3eskIYs6c2GjLs7Hk0v1PE) | [Braden Lam](https://open.spotify.com/artist/2k874mUqyCwo44UZbbRsGr), [Michaela Slinger](https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ) | [Wide Open \(feat\. Michaela Slinger\)](https://open.spotify.com/album/2GwFSvFseBD11Jk8TZM6fU) | 3:42 | 2025-01-17 | 2025-04-05 |
 | [Woman](https://open.spotify.com/track/0zayeuhnu8XzvEFBQYBH3x) | [Allison Daniels](https://open.spotify.com/artist/54OOcbHzemUIYga3Z351Kq) | [W](https://open.spotify.com/album/7MUqO5kWGjLn5qvrPQEgvo) | 3:00 | 2024-09-06 | 2024-10-05 |
 | [Won't Forget](https://open.spotify.com/track/59O3j00c3p3B5umtTxUUyZ) | [Dan Davidson](https://open.spotify.com/artist/3Av6JdBs0MuhIPnCqPg6EI), [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci), [Max Jackson](https://open.spotify.com/artist/6uxoiISyynknybWW6SQrTe) | [Won't Forget](https://open.spotify.com/album/5qimPgCfn0ybRLGIkFpjAU) | 3:19 | 2024-06-28 | 2024-09-14 |
 | [Worth The Double](https://open.spotify.com/track/32u476jmlwUrcHKxEyIvdy) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Worth The Double](https://open.spotify.com/album/5K1tVgF54JxYcCx4ZMII1d) | 2:51 | 2024-10-18 |  |
 | [Wreckin' this Truck](https://open.spotify.com/track/6jtfr9qz4IGhopSc7iYHZR) | [Buck Twenty](https://open.spotify.com/artist/2qcJRDDUhoE32dwaMnnBgq) | [From A to B](https://open.spotify.com/album/02yEzzqbzv7JgrZPqQcKiF) | 3:32 | 2024-07-19 | 2024-11-02 |
+| [Write About You](https://open.spotify.com/track/4OiBrTvW98VevYyRGWVoes) | [Parker Graye](https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8) | [Write About You](https://open.spotify.com/album/4hBVxzzLZoFO6eTn7dA4ix) | 2:24 | 2025-04-04 |  |
 | [Written All Over It](https://open.spotify.com/track/6oX7x3oEqDJ0uf0iw3Z0TL) | [Aaron Goodvin](https://open.spotify.com/artist/5EbZ3EVGLkAoDJfn89PDXW) | [Written All Over It](https://open.spotify.com/album/77aqU7xpaxrWB1KsLzlZEJ) | 3:04 | 2024-06-28 | 2024-08-31 |
 | [You and Me](https://open.spotify.com/track/6rW3tr0CkuTIwPVBWqHdqP) | [Evan Burrison](https://open.spotify.com/artist/429Zw6geVC0AUPv1sq0bf4) | [You and Me](https://open.spotify.com/album/4UCtstaaxD25dGbMUHqlV3) | 2:27 | 2024-08-16 | 2025-01-18 |
 | [You Didn’t Hear It From Me](https://open.spotify.com/track/0PgTSyiKAXgguGdMTRnW5i) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [You Didn’t Hear It From Me](https://open.spotify.com/album/2zoWYF1Xu9f56VLmP6vkGv) | 3:09 | 2025-01-10 | 2025-03-15 |

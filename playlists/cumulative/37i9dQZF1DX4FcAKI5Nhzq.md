@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: BEOMGYU\(범규\)\)
 
-1,242 songs - 2 day 19 hr 24 min
+1,243 songs - 2 day 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,7 @@
 | [Dare to Love \(feat\. BIG Naughty\)](https://open.spotify.com/track/6odZjB2Z1T2iJTf5bbqUIe) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [TO DIE FOR](https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK) | 2:55 | 2023-06-08 | 2023-11-10 |
 | [Dark Dream](https://open.spotify.com/track/71RRK4D5eFg6bffEVVqSKF) | [E'LAST](https://open.spotify.com/artist/0NztgA9b1KEJLjLVqMwd9y) | [Dark Dream](https://open.spotify.com/album/56sCZxu6nCVcoZZ9Y9ixZJ) | 3:57 | 2021-10-06 | 2021-11-19 |
 | [Darling \(feat\. dress\)](https://open.spotify.com/track/0vVVMt1bmd7K87IstridSS) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z) | [Darling \(feat\. dress\)](https://open.spotify.com/album/1nDGEzBI75Dan159KrtNAj) | 4:14 | 2022-12-30 | 2023-03-07 |
-| [Dash](https://open.spotify.com/track/2sDcIrosoXqiGv1D5OQUvF) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.1](https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep) | 2:54 | 2025-02-03 |  |
+| [Dash](https://open.spotify.com/track/2sDcIrosoXqiGv1D5OQUvF) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.1](https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep) | 2:54 | 2025-02-03 | 2025-04-05 |
 | [Dawn](https://open.spotify.com/track/5725iqZgzHvcHEUCRPmaj4) | [KIM WOO SEOK](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) | [Blank Page](https://open.spotify.com/album/4iId8omKmw3zaOoTHLoFAs) | 3:05 | 2023-04-13 | 2023-07-08 |
 | [DAWNDIDIDAWN \(Feat\. Jessi\)](https://open.spotify.com/track/0RxXtH5F2JaHUMMaJ5X6Zp) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [DAWNDIDIDAWN](https://open.spotify.com/album/0HyKwRk4xvspJHZdT0eiDb) | 3:12 | 2020-10-13\* | 2021-02-15 |
 | [DAYDREAM](https://open.spotify.com/track/3tOXDbhmpjSGxBFo2yp1eJ) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [DAYDREAM](https://open.spotify.com/album/1LXXwyhpjtD725nOVp1kIu) | 3:13 | 2022-03-24 | 2022-07-01 |
@@ -822,6 +822,7 @@
 | [Phase Me](https://open.spotify.com/track/62DCFw57LAAX4CTrzmUCny) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [MOTH](https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV) | 2:34 | 2022-06-03 | 2022-07-30 |
 | [Phobia](https://open.spotify.com/track/4LMJ8X3a5hNA508YBUJnie) | [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf) | [I'm the Queen in This Life \(Original Soundtrack\) Part.2](https://open.spotify.com/album/7vuG4RLkjvNts1Hy8QK49m) | 2:53 | 2024-03-25 | 2024-07-06 |
 | [PING PONG](https://open.spotify.com/track/0Z99Xe1lGBmq60RwJ5YU18) | [HyunA&DAWN](https://open.spotify.com/artist/6JTCN21ovvrR3iPViZTXz4) | [1+1=1](https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf) | 2:38 | 2021-09-11 | 2022-01-04 |
+| [PIPE DOWN](https://open.spotify.com/track/1y42u9UuJJvlSS61zv9eux) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [S](https://open.spotify.com/album/6QTpBMKMIa2OFMqZBQu2Pm) | 2:21 | 2025-04-04 |  |
 | [Pirate](https://open.spotify.com/track/0Vu5tjvXZX3qtzRiezxLi1) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [Return of The Girl](https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD) | 3:30 | 2021-12-02 | 2022-02-24 |
 | [Pit A Pat](https://open.spotify.com/track/4khvnIc1bYDFqzXH0aqdnt) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Pit A Pat](https://open.spotify.com/album/4xvalgKtLmHXbBy8vLhUlE) | 3:28 | 2020-11-11 | 2021-02-15 |
 | [PITAPA \(Feat\. pH\-1, JUNNY\)](https://open.spotify.com/track/1riVuC1J7WRgJhG5WrtXI4) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [2 Kids On The Block \- Part.3](https://open.spotify.com/album/7IbrzIkXcdevPIE4HnnFuR) | 3:26 | 2024-03-28 | 2025-01-11 |

@@ -4,7 +4,7 @@
 
 > roots run deep
 
-371 songs - 22 hr 14 min
+375 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,8 +53,10 @@
 | [Bury Me](https://open.spotify.com/track/4pLlXT4tFbuDCARVXHWIsH) | [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Bury Me](https://open.spotify.com/album/0RhHOTHgngW7Quc3cqY27x) | 3:02 | 2025-01-17 |  |
 | [Bury Me in My Hometown](https://open.spotify.com/track/0MXvwOILiBUUJ2esyQ6htx) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Bury Me In My Hometown](https://open.spotify.com/album/5gyi3b9G9KTIoVlBGhkamX) | 3:35 | 2023-06-30 | 2023-11-18 |
 | [Bury Me in My Hometown](https://open.spotify.com/track/1jzQGB2wOOm1AaqA8cf0ic) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:35 | 2023-11-17 | 2024-01-05 |
+| [Call It A Vice](https://open.spotify.com/track/2JHy00ej7nsZIXA8KL3ywl) | [Joe Jordan](https://open.spotify.com/artist/3agUzpPCDynMkXCQkZYVIv) | [Call It A Vice](https://open.spotify.com/album/01JJWneDbi91ZYRgHv56Ft) | 3:41 | 2025-04-04 |  |
 | [Cardinal](https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 | 2024-03-15 | 2024-03-21 |
 | [Casseroles](https://open.spotify.com/track/3hOd6gdb1GDaeA1qEstzoh) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Casseroles](https://open.spotify.com/album/6HAn1loKc6GRDhQtsHRDAR) | 3:40 | 2025-01-17 |  |
+| [Cheating](https://open.spotify.com/track/4m19odXDCKMkhM0xvVs0IN) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Cheating](https://open.spotify.com/album/46HW4Aa1974diNDl2nAxrQ) | 2:27 | 2025-04-04 |  |
 | [Chronically Cautious \- Country Version](https://open.spotify.com/track/6ZrmGXr5UhSw2ymL9Bhky7) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Chronically Cautious \(Country Version\)](https://open.spotify.com/album/6MEZWd1dc8o5hvtmYP8M3s) | 2:12 | 2023-06-30 | 2024-01-27 |
 | [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 | 2023-09-29 | 2024-04-19 |
 | [Coal](https://open.spotify.com/track/5cI23aJ66Gw2a4N8l4dGYw) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/2STtbigxgiR3GU5h6PowiT) | 3:14 | 2023-07-28 |  |
@@ -224,6 +226,7 @@
 | [Mornings With You \(with Kaitlin Butts\)](https://open.spotify.com/track/0yebM7lJyoX5doGOCW9fmk) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Wandering Star](https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab) | 3:43 | 2024-01-26 | 2024-04-19 |
 | [Mornings With You \(with Kaitlin Butts\)](https://open.spotify.com/track/7pNCw2WPlLImrZSSI3tXC8) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Mornings With You \(with Kaitlin Butts\)](https://open.spotify.com/album/1UkSXpE3GpdEPenT83tsnW) | 3:43 | 2023-09-29 |  |
 | [Mr\. Meyers](https://open.spotify.com/track/02H4xB4mpWx5mwc2z4BKIt) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Mr\. Meyers](https://open.spotify.com/album/5walGfxzAQLaLzaO0YaaZf) | 3:37 | 2023-08-25 | 2023-12-09 |
+| [My Expense](https://open.spotify.com/track/6CI6UohMB7T9AbKPltin9i) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [My Expense](https://open.spotify.com/album/4HWNcfegPrg2vmIaxqK3KL) | 3:46 | 2025-04-04 |  |
 | [Never Really Know](https://open.spotify.com/track/0dOxMm35ORIZt7rZIzQbQ1) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Keepin' The Lights On](https://open.spotify.com/album/1vcPPMVBjcmmP7yK9XWJzf) | 4:22 | 2024-07-26 |  |
 | [Never Tried Cocaine](https://open.spotify.com/track/3loX3gXExSXzZJWWP6lhLw) | [Travis Bolt](https://open.spotify.com/artist/7w3bNGVaI2zJ4J6cCnATLu) | [Don't care no more](https://open.spotify.com/album/3dWbfEXVaIYEFnqRlvqEMj) | 4:12 | 2025-01-28 |  |
 | [Never Turn Around](https://open.spotify.com/track/6G8rG1KuzcVXYsApWH0ree) | [Red Shahan](https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ) | [Men & Coyotes](https://open.spotify.com/album/2N7pHyHhmfU1AMkCJZi8bQ) | 2:51 | 2023-02-24 | 2023-12-09 |
@@ -298,6 +301,7 @@
 | [Smell Like Smoke](https://open.spotify.com/track/3FQL51eEwEDRw8YQj9Vlwc) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 2:48 | 2023-03-03 | 2024-08-03 |
 | [Smell Like Smoke](https://open.spotify.com/track/6hWUxgcCGGCd17i2eZ5qbJ) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 2:48 | 2023-11-17 | 2024-04-19 |
 | [smoke & a light](https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [three twenty four](https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc) | 3:09 | 2024-03-01 |  |
+| [Smoke & Embers](https://open.spotify.com/track/5YAzhZWJfVWHsUmtCqwy1o) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol), [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Smoke & Embers](https://open.spotify.com/album/0snVijVc3VmrYU74Uytk78) | 3:47 | 2025-04-04 |  |
 | [Snow](https://open.spotify.com/track/6K4336phprB3Mj8qwYxibR) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 2:58 | 2023-02-24 | 2024-08-29 |
 | [Sober Sundays](https://open.spotify.com/track/0RINbw97uN5KZ1BFprCNDj) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG), [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Sober Sundays](https://open.spotify.com/album/1UYX5uec1lJJMf01haehiZ) | 4:10 | 2024-09-17 |  |
 | [Someone Else & Jesus](https://open.spotify.com/track/0hp90pLgp8T4Jdn1Ba37Sh) | [Ricky Manning](https://open.spotify.com/artist/6vNoWRiABhJa3DNEi9DddS) | [Someone Else & Jesus](https://open.spotify.com/album/7n6oJNWygajwSgTrFQGGbR) | 3:22 | 2025-02-14 |  |

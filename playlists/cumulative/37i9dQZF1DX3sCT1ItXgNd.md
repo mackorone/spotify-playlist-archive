@@ -4,7 +4,7 @@
 
 > Lo mejor del pop en español\. Foto: Lola Indigo
 
-693 songs - 1 day 10 hr 42 min
+694 songs - 1 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,6 +508,7 @@
 | [Por Si Mañana No Estoy](https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Por Si Mañana No Estoy](https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5) | 2:34 | 2024-06-10 | 2024-06-29 |
 | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/track/20enjIUEen7tNZXTRLDxXi) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/album/7HullqBwYSwjV2qZjb7DqP) | 3:05 | 2024-09-17 | 2024-12-10 |
 | [Por si vuelves](https://open.spotify.com/track/3qxEHTh0gvgmnKOLUE3FZq) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Por si vuelves](https://open.spotify.com/album/5U3ktgfbytevPED96BwXdo) | 3:14 | 2023-09-18 | 2023-09-29 |
+| [Por Tu Calle](https://open.spotify.com/track/37drBlAs0CMPrDVLDxzYxa) | [Pepe y Vizio](https://open.spotify.com/artist/4rvJ0Ktz2X2Erea9XUHxfu), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz) | [Por Tu Calle](https://open.spotify.com/album/3XRmQinVSaE9C86BPfEGHT) | 3:44 | 2025-04-04 |  |
 | [PORTARSE MAL](https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [PORTARSE MAL](https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe) | 3:12 | 2023-03-13 | 2024-02-16 |
 | [Potra Salvaje](https://open.spotify.com/track/3YdO85gX8HaetzvHCaFIQM) | [Isabel Aaiún](https://open.spotify.com/artist/5qSwpcWU98AJITpF4USeC3) | [Potra Salvaje](https://open.spotify.com/album/3D9wp2XCEWWoZMCS271WzI) | 3:19 | 2024-07-04 | 2024-08-27 |
 | [Primer Intento](https://open.spotify.com/track/7feZcyZsDLazNtKyqc1CZo) | [Taburete](https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT) | [Primer Intento](https://open.spotify.com/album/5XFuO96iprkyVTS9XY9XEG) | 2:33 | 2025-03-27 |  |

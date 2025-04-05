@@ -4,7 +4,7 @@
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-288 songs - 17 hr 39 min
+291 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Corona](https://open.spotify.com/track/2lagxNgeQMYlAFDhH5AZqN) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Poverty](https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb) | 3:25 | 2020-12-21 | 2023-02-10 |
 | [Crimson Mask](https://open.spotify.com/track/4qfFALsZju3E00uHZ58Ddu) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [Take Up Your Cross and Follow Me](https://open.spotify.com/album/1tAJzZGMlwPbhwgCIw5yQ8) | 3:55 | 2024-11-01 |  |
 | [Current Affair](https://open.spotify.com/track/721rlw9VI4IqhpPhNFrZIv) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56), [Sienna](https://open.spotify.com/artist/0aiQeYnP7FNRD8BwG90wdG) | [Current Affair \(feat\. Sienna\)](https://open.spotify.com/album/30Tq94VCaG31USW0MsFli2) | 2:49 | 2023-08-31 | 2024-03-20 |
+| [Curse Of Creation](https://open.spotify.com/track/3OGtL6kZQYXN0uSmJjH2Fi) | [Corbin](https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff) | [Crisis Kid](https://open.spotify.com/album/3Cv78p0A3d4suCrrRWB2cD) | 3:23 | 2025-04-04 |  |
 | [Cuts You Up](https://open.spotify.com/track/1rnoM73nG7HsyOqV5X7lPF) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa) | 5:27 | 2023-02-09 | 2023-09-01 |
 | [dance away tonight](https://open.spotify.com/track/10rQtOwXrmW8008vFEknVm) | [Indie Anthony](https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM) | [dance away tonight](https://open.spotify.com/album/4EdKyEqSrSK2FI6OBqLDrs) | 2:49 | 2023-09-14 |  |
 | [Dark Beach](https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 3:42 | 2023-02-09 |  |
@@ -132,6 +133,7 @@
 | [I THINK IM LOSING MY MIND](https://open.spotify.com/track/7GSRHm7qfwy4PH5KjBr9jM) | [DustBowlChampion](https://open.spotify.com/artist/151Si9irFNyY0kzsGNFuRc) | [I THINK IM LOSING MY MIND](https://open.spotify.com/album/3o68MTMJCZCmiiDzLxzVI7) | 3:36 | 2023-10-13 | 2023-12-12 |
 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 | 2023-08-31 |  |
 | [I Wish I Was You \- Twin Tribes Remix](https://open.spotify.com/track/62ZO1zdoApFON2JrBNi0Js) | [Creux Lies](https://open.spotify.com/artist/4njFqWD04BTvOrYBXuzv6i), [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [I Wish I Was You \(Twin Tribes Remix\)](https://open.spotify.com/album/0MBCszjF6PH5hbB3pnl7Vm) | 3:59 | 2023-08-31 |  |
+| [Icicle](https://open.spotify.com/track/7iT4xmLclPuOKS1s7rRNoS) | [L.A\. WITCH](https://open.spotify.com/artist/4VIQa9l1HW6VPhR9IdJS8C) | [Icicle](https://open.spotify.com/album/0AU5vin3OFGAdNYJOw7Mjv) | 3:09 | 2025-04-04 |  |
 | [If Love Is Just a Word](https://open.spotify.com/track/3QVLxtGbyrzWDPdqlDNIo0) | [Bleib Modern](https://open.spotify.com/artist/2FCVB3cfCC0e3O8G7Gs8t6) | [All Is Fair in Love and War](https://open.spotify.com/album/7B13N33UUfGmh0s6pr5dBL) | 2:49 | 2023-02-09 | 2024-03-06 |
 | [Impermanence](https://open.spotify.com/track/3p7qbTzPf4jKeEEwy765sI) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv), [Winston McCall](https://open.spotify.com/artist/16LgHo2fMZqYvsoo6kcLrO) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:02 | 2023-02-09 | 2023-06-14 |
 | [Incubus Succubus II](https://open.spotify.com/track/4Sv0g2vAsMCo3lHpGDeyBb) | [Xmal Deutschland](https://open.spotify.com/artist/5bQ4kqxuAV7tBI7dSs3sB1) | [Tocsin](https://open.spotify.com/album/2wsPRUsIQt3atWXuRYJ3tv) | 4:45 | 2023-02-09 | 2023-09-01 |
@@ -142,6 +144,7 @@
 | [Invierno Nuclear](https://open.spotify.com/track/0wK1nvACkwDtDPAL0PmE6E) | [VVV \[Trippin'you\]](https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU) | [Escama](https://open.spotify.com/album/4NYnACTDLJ1YHcbnEpPh7D) | 4:34 | 2020-12-21 | 2023-02-10 |
 | [Iris](https://open.spotify.com/track/7h7DK2ZHIe4w0id8qkNqla) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Ethereality](https://open.spotify.com/album/6zk1WNC7YNM9qgAxWY98qW) | 3:38 | 2024-03-05 |  |
 | [It Feels Like I Start over Again](https://open.spotify.com/track/79721eJS5TNJHyUWDT1coe) | [Faience Knife](https://open.spotify.com/artist/4hQOWxvWv9RG1J2kpR8ZDv) | [Ἀλκυών](https://open.spotify.com/album/6zRrpZvy9paQCIFT42mSZm) | 3:13 | 2022-02-18 | 2023-02-10 |
+| [It's Alright](https://open.spotify.com/track/5W0pznTarTi6cd5qSeYMnw) | [Gvllow](https://open.spotify.com/artist/69a2ovTpqzQrzthSkARvGn), [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id) | [HOUSE OF THE DEAD](https://open.spotify.com/album/01ZSRteMHjycJPUWOQGXth) | 1:55 | 2025-04-04 |  |
 | [It's In My Head](https://open.spotify.com/track/1m0gveci0Fk64DpWhVxwzL) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [It's In My Head](https://open.spotify.com/album/3eeewwhmPTGJzW21G4wFhO) | 3:01 | 2023-09-14 |  |
 | [Ivo](https://open.spotify.com/track/7anJBerQqBKIbbKvLf9eAq) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:53 | 2023-08-31 | 2023-12-12 |
 | [Judas Effect](https://open.spotify.com/track/5ybk0RVtJLh63xcoMyLoTQ) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [Lionheart](https://open.spotify.com/album/4Pw2O8WwC12Bq1O3md5fvd) | 3:12 | 2020-12-21 |  |

@@ -4,7 +4,7 @@
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: Miley Cyrus
 
-304 songs - 15 hr 7 min
+305 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [Вітер](https://open.spotify.com/track/44Luf8j9ZAKiA0d3QCI0OD) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Вітер](https://open.spotify.com/album/1gCA755TURpXarpFjfalr4) | 2:47 | 2024-09-13 | 2024-09-21 |
 | [Голими](https://open.spotify.com/track/13cuFULTHz4oKU2pc9A8cQ) | [EL Kravchuk](https://open.spotify.com/artist/0R8YFxigLWgcwbYFvHA4Nh) | [Голими](https://open.spotify.com/album/6SJFj1TswSCEE16q7x8WNp) | 2:47 | 2024-07-12 | 2024-07-20 |
 | [Грушка](https://open.spotify.com/track/3nGKzV2k4C3BcbLxeydqHr) | [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Грушка](https://open.spotify.com/album/387Yb2P64xMmoqQnGaYE6g) | 2:57 | 2025-03-20 | 2025-04-04 |
-| [ГУБИ У ГУБАХ](https://open.spotify.com/track/0WyDLl5o7HoOwz7Ryl7QWc) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [Volodymyr Dantes](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E) | [ГУБИ У ГУБАХ](https://open.spotify.com/album/6tQZvNossLgcJ8GUzzkwEQ) | 2:39 | 2024-08-01 |  |
+| [ГУБИ У ГУБАХ](https://open.spotify.com/track/0WyDLl5o7HoOwz7Ryl7QWc) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [Volodymyr Dantes](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E) | [ГУБИ У ГУБАХ](https://open.spotify.com/album/6tQZvNossLgcJ8GUzzkwEQ) | 2:39 | 2024-08-01 | 2025-04-05 |
 | [Гірко](https://open.spotify.com/track/7wVEFMpcYtDzqtIc40SGsT) | [YARIMA](https://open.spotify.com/artist/1nZ0jfkEdCujq7nFxlk9Uc), [OTOY](https://open.spotify.com/artist/2jA3HhqCRImTV9hQF1qz1C) | [Гірко](https://open.spotify.com/album/2ShIsniZc3ZtVt7F2T2PgL) | 3:24 | 2024-10-10 | 2024-10-26 |
 | [Де би ти не була](https://open.spotify.com/track/5XAFSSfpPOf7kc2DUOWOEy) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Де би ти не була](https://open.spotify.com/album/7KVJCcIbpY8YoxBDKscXDm) | 2:29 | 2024-11-14 | 2024-12-06 |
 | [Дзвони](https://open.spotify.com/track/315NwHHdSVHe1BTuzZmzrn) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [SHUMEI](https://open.spotify.com/artist/1BtGSVQey2HyYbFiw8O1mz) | [Дзвони](https://open.spotify.com/album/4weS9NI822vvnbRmzxeWVy) | 3:23 | 2024-07-04 | 2024-07-13 |
@@ -218,6 +218,7 @@
 | [Каланхое](https://open.spotify.com/track/4YgV3rfa56cZaxJm3zsyB2) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5), [Pozdniakov](https://open.spotify.com/artist/69c9d1s70PiMSiJPMrLxpa) | [Каланхое](https://open.spotify.com/album/1nq5GccsxAwC7OB3dEHgxx) | 3:06 | 2024-10-04 | 2025-01-17 |
 | [Камертон](https://open.spotify.com/track/0O3BnlKDKVeoqrHWanbO0r) | [Khrystyna Soloviy](https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa) | [Камертон](https://open.spotify.com/album/6k5oC3oLwKd8UocbZlISp4) | 3:29 | 2024-06-27 | 2024-07-05 |
 | [Карти](https://open.spotify.com/track/3dJoSM5t6Xp9sjmq0cZ6aY) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z) | [Карти](https://open.spotify.com/album/7d32nMBW4HbpMNisN2YUOM) | 2:36 | 2024-10-04 | 2024-10-11 |
+| [Квітну з тобою](https://open.spotify.com/track/1gEOO9uivwxwAKIF5Z0ezH) | [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Квітну з тобою](https://open.spotify.com/album/1bclOZnQcI8N02mdPy1TqY) | 2:20 | 2025-04-04 |  |
 | [КЛИЧУ](https://open.spotify.com/track/3RGUgIjRIdT3bhxl7DFjqc) | [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC), [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [КЛИЧУ](https://open.spotify.com/album/0KrgSWn6t4DMm96YlP7Atv) | 3:10 | 2024-11-28 | 2025-01-08 |
 | [Кого ти вигадав?](https://open.spotify.com/track/3ZHshNzetuJ6CWsMoYSZbB) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Кого ти вигадав?](https://open.spotify.com/album/0zzcXw3obSrwf3HRjx0zYO) | 3:06 | 2024-09-27 | 2024-10-05 |
 | [Кохаю, але не зовсім](https://open.spotify.com/track/7erP3ICSBISAa9ZH4vyo42) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Кохаю, але не зовсім](https://open.spotify.com/album/5cnpwmYQBU8JgK8AYYUsFS) | 3:19 | 2024-12-05 | 2024-12-16 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Himonshu Parikh,  and other exciting artists.",
+  "description": "Naye Indie gaano ka khazana, featuring Akanksha Sethi, Nikita Ahuja, Himonshu Parikh and other exciting artists.",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 221049,
       "name": "Aisi Dooriyaan",
       "url": "https://open.spotify.com/track/4UCjicdxXa8AukOAANRFfX"
@@ -7540,7 +7540,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 212264,
       "name": "Is It Okay?",
       "url": "https://open.spotify.com/track/2KTzGihwWGpWXi3ysoAnW8"
@@ -9597,6 +9597,28 @@
     },
     {
       "album": {
+        "name": "Kehta Tha",
+        "url": "https://open.spotify.com/album/7G4Mntzl4xySdJTmHfQuot"
+      },
+      "artists": [
+        {
+          "name": "Nikita Ahuja",
+          "url": "https://open.spotify.com/artist/1N9scLdWZukQAQ0p4ZeUUx"
+        },
+        {
+          "name": "Sharan Rawat",
+          "url": "https://open.spotify.com/artist/2VB5F2QJgJfhBtpARDX1iv"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133235,
+      "name": "Kehta Tha",
+      "url": "https://open.spotify.com/track/2KHK32wA1y5sTJUsQBTyeE"
+    },
+    {
+      "album": {
         "name": "Kehte Hain",
         "url": "https://open.spotify.com/album/44a8q1F9UD3mxEYDhbaPHv"
       },
@@ -10320,7 +10342,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 181687,
       "name": "Khwaabre",
       "url": "https://open.spotify.com/track/59mfcu2HSYSSFFopuUJmSY"
@@ -10920,6 +10942,28 @@
       "duration_ms": 163000,
       "name": "Kya Hai Mera",
       "url": "https://open.spotify.com/track/2iseU7GmuGOusviAfuUWzj"
+    },
+    {
+      "album": {
+        "name": "Kya Hi Hai",
+        "url": "https://open.spotify.com/album/7c9Q4FXPaX6EAafvJuu0VQ"
+      },
+      "artists": [
+        {
+          "name": "Akanksha Sethi",
+          "url": "https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16"
+        },
+        {
+          "name": "Rahul Shah",
+          "url": "https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199591,
+      "name": "Kya Hi Hai",
+      "url": "https://open.spotify.com/track/29SvIDiQWM8qoGaN0TvXRh"
     },
     {
       "album": {
@@ -13558,6 +13602,32 @@
       "duration_ms": 183428,
       "name": "Nadaaniyan",
       "url": "https://open.spotify.com/track/6yPJ4BeRhPEYKc9j314fto"
+    },
+    {
+      "album": {
+        "name": "Nadi",
+        "url": "https://open.spotify.com/album/1jPFzDb2ednXUtyZEUla0H"
+      },
+      "artists": [
+        {
+          "name": "Keethan",
+          "url": "https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ"
+        },
+        {
+          "name": "Anurag Mishra",
+          "url": "https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206181,
+      "name": "Nadi",
+      "url": "https://open.spotify.com/track/2sIRICa5N0L4UUvf2RHlmQ"
     },
     {
       "album": {

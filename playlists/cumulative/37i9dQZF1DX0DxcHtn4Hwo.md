@@ -4,7 +4,7 @@
 
 > Soothing instrumental music for sleepy babies.
 
-966 songs - 1 day 5 hr 8 min
+969 songs - 1 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Beautiful Luna](https://open.spotify.com/track/2o4ISI1RgboyqzEoki8XrR) | [Stevie Martell](https://open.spotify.com/artist/6Sh69JKZfNc4gTL9oPIlk1) | [Beautiful Luna](https://open.spotify.com/album/2vWDoYYLqRJxME7jybQhiQ) | 1:20 | 2022-11-18 | 2025-02-01 |
 | [Because You're You](https://open.spotify.com/track/6pHATH756uiHZzvPnUx9Q3) | [Kay Lozano](https://open.spotify.com/artist/4aneGgQXJW7ufSTcjHLXDw) | [Because You're You](https://open.spotify.com/album/5zlNx9QFGB3d3n9WP29IsZ) | 1:44 | 2022-10-07 | 2024-08-10 |
 | [Beddy Byes](https://open.spotify.com/track/6l06Tk5WSa5Ebaqx4daEMy) | [Tammy Madison](https://open.spotify.com/artist/1agrSvX42t5Gd0Poo68KcC) | [Beddy Byes](https://open.spotify.com/album/3NoF0MkTUrb0ic3suY4x04) | 1:42 | 2021-10-05 | 2024-03-29 |
-| [Bedside Lamp](https://open.spotify.com/track/3XSiZolukB6iiNITmWLKbK) | [Isabella Kent](https://open.spotify.com/artist/1GDviCQQnLpKaPdLBYkIgB) | [Bedside Lamp](https://open.spotify.com/album/6JxxZ2GZVyaUVRRXxuEsS7) | 1:15 | 2023-01-06 |  |
+| [Bedside Lamp](https://open.spotify.com/track/3XSiZolukB6iiNITmWLKbK) | [Isabella Kent](https://open.spotify.com/artist/1GDviCQQnLpKaPdLBYkIgB) | [Bedside Lamp](https://open.spotify.com/album/6JxxZ2GZVyaUVRRXxuEsS7) | 1:15 | 2023-01-06 | 2025-04-05 |
 | [Bedtime](https://open.spotify.com/track/2eYiXoyBIAby0j0nHmo0gp) | [Audra Leonard](https://open.spotify.com/artist/3zIBjBBwd0GGkKteMHJj1C) | [Bedtime](https://open.spotify.com/album/6oih3N5CwyDcvdRCmWQ7uJ) | 1:32 | 2021-10-05 | 2022-12-16 |
 | [Bedtime](https://open.spotify.com/track/1BjkZQFGbmIknIZHh2Pp6N) | [David Langoster](https://open.spotify.com/artist/7hdAkFmni0yw1T5Yo1aIdP) | [Bedtime](https://open.spotify.com/album/2wwpQb8dFljEbPDu0mKhyV) | 2:07 | 2022-11-18 | 2025-03-08 |
 | [Bedtime](https://open.spotify.com/track/2pTOkVFHOtcXvN9qxV1Q2K) | [Elvira Sola](https://open.spotify.com/artist/3jFQv36BpFuX9vTVB8q7fI) | [My Best Friend](https://open.spotify.com/album/5oU1L1vPpJwwYRxVPw86gX) | 2:23 | 2022-07-27 | 2024-07-19 |
@@ -149,7 +149,7 @@
 | [Climbing Trees](https://open.spotify.com/track/0yUEfvpYxCG8YrOdhA8PLV) | [John B\. Lund](https://open.spotify.com/artist/7aeRsfmuN284l1Hs1eyVbW) | [Climbing Trees](https://open.spotify.com/album/2HQKpUUwGZylKnklviOhk2) | 1:32 | 2024-11-08 |  |
 | [Climbing up the Cherry Tree](https://open.spotify.com/track/5H9V1JXysWfc13oIsmczPw) | [Cassandra Roy](https://open.spotify.com/artist/0kJJwbVkys4qWzyVo2ZF7a) | [Climbing up the Cherry Tree](https://open.spotify.com/album/7euUiVAe0vMsGBc9ajArX1) | 2:00 | 2023-09-22 |  |
 | [Close Your Eyes](https://open.spotify.com/track/0jknHi5QgVuDqLObjmp6Cl) | [Emma Moore](https://open.spotify.com/artist/79IbuSBovH7gT9twZJWBna) | [Close Your Eyes](https://open.spotify.com/album/7sSoybM4HPswmtO5a0bLUX) | 1:18 | 2022-04-20 | 2023-01-27 |
-| [Close Your Eyes and Sleep, My Sweetest Little Child](https://open.spotify.com/track/6Gh98TmFcle6WHC9KLw0Ec) | [Nathan Dayfall](https://open.spotify.com/artist/1Sh3elPzi7hlDTyOpNCLbh) | [Close Your Eyes and Sleep, My Sweetest Little Child](https://open.spotify.com/album/3znhXmgID5yKDkGz4u80yS) | 1:34 | 2025-03-21 |  |
+| [Close Your Eyes and Sleep, My Sweetest Little Child](https://open.spotify.com/track/6Gh98TmFcle6WHC9KLw0Ec) | [Nathan Dayfall](https://open.spotify.com/artist/1Sh3elPzi7hlDTyOpNCLbh) | [Close Your Eyes and Sleep, My Sweetest Little Child](https://open.spotify.com/album/3znhXmgID5yKDkGz4u80yS) | 1:34 | 2025-03-21 | 2025-04-05 |
 | [Cloud Whispers](https://open.spotify.com/track/011EP2EJhf3OpDID1LKeOV) | [Sheryl Moon](https://open.spotify.com/artist/2vQaPHOC1lysgsm8UBiE4o) | [Cloud Whispers](https://open.spotify.com/album/1vYq4jlk4QBQLktVHe2x3z) | 2:10 | 2021-10-05 | 2022-10-29 |
 | [Clouds In The Sky](https://open.spotify.com/track/2sQx2mxgTBjIthJ1ZTlJFX) | [Ebbe & Lilly](https://open.spotify.com/artist/26zaS9jwYG7PxrixBvYXGA) | [Clouds In The Sky](https://open.spotify.com/album/6JjW4ufwIc7DJjDKrPzvhs) | 1:52 | 2023-08-10 |  |
 | [Coconut Lullaby](https://open.spotify.com/track/6Mw7O72duVGaJnPY6WZPWt) | [William Flake](https://open.spotify.com/artist/0p3iReA37Fhy2A1ViLUcp4) | [Coconut Lullaby](https://open.spotify.com/album/0Enm48bxdpNkTqidwAXeCZ) | 1:51 | 2023-03-24 |  |
@@ -208,6 +208,8 @@
 | [Dreamland Promenade](https://open.spotify.com/track/03Qc20BWJ7ivcl3LMLEIeN) | [Teddy Gorbella](https://open.spotify.com/artist/2yGkgsGKykkoiPO0xK6mB3) | [Dreamland Promenade](https://open.spotify.com/album/4IWC0KSY2PBDf8UFCScMo4) | 1:30 | 2024-03-01 |  |
 | [Dreamland Serenade](https://open.spotify.com/track/6Uj1Q4hlJkzYj2ecO7Z84i) | [Paul Ellier](https://open.spotify.com/artist/2ffr4kDekHfqOgMV0fhlSu) | [The Sweetest Of Dreams](https://open.spotify.com/album/1RqpjIoEAKSjA4yZ4traEo) | 2:13 | 2023-06-02 |  |
 | [Dreams](https://open.spotify.com/track/7LvNWRoBkIO5neAEEMCHTV) | [Elna Wood](https://open.spotify.com/artist/4OQq1goOaeVyJ5NwObkaEf) | [Dreams](https://open.spotify.com/album/5wGQM4bdUEwVEQgfnxnYO2) | 1:30 | 2023-05-05 |  |
+| [Dreamscale](https://open.spotify.com/track/6q5c22z2LYA0aFverWTcg0) | [Dream Machine](https://open.spotify.com/artist/0cWa599Gr562sMOIXRJuBm) | [Dreamscale](https://open.spotify.com/album/0Jv485Y8l3jgVGdl3p8ubW) | 2:09 | 2025-04-04 |  |
+| [Dreamscape](https://open.spotify.com/track/54AwCtYkyGBZGwaL1OaTXf) | [Choo Choo Baby](https://open.spotify.com/artist/0vDdNNkBuWh1lJhAREEFce) | [Dreamscape](https://open.spotify.com/album/3zNJmgpaiPkoHwzxZU3FOm) | 2:21 | 2025-04-04 |  |
 | [Dreamswing](https://open.spotify.com/track/44xSmkzDCWN8oJxrCB8pCM) | [Vincent Lundborg](https://open.spotify.com/artist/30nuHxknx89pxWn3jaKp5A) | [Dreamswing](https://open.spotify.com/album/7BDShI8oQkJ6J8Sdq266qp) | 1:58 | 2024-01-05 |  |
 | [Dreamy Blue Skies](https://open.spotify.com/track/0d40MSLNaKFXjFuZguT6G6) | [Anton De Ville](https://open.spotify.com/artist/2TXm3XMc58UbpoeVEopfTt) | [Dreamy Blue Skies](https://open.spotify.com/album/72d9Ox5YwMRlrLAkjosNHA) | 1:39 | 2023-12-22 |  |
 | [Drifting Off](https://open.spotify.com/track/08mDKHVrKDN7NeIXvZ1J33) | [Holly Doris](https://open.spotify.com/artist/4SqjCvakZzR5FMrHGba3L7) | [Drifting Off](https://open.spotify.com/album/0l4j3CpfWQCu4jdZa7NZJz) | 2:33 | 2021-10-05 | 2022-12-16 |
@@ -361,7 +363,7 @@
 | [I Am the Captain](https://open.spotify.com/track/4jUZM2I3o2TcfZjZQe1cms) | [Peyton Malloye](https://open.spotify.com/artist/6jEf6RIwSbHVnBM8dWxCVx) | [I Am the Captain](https://open.spotify.com/album/01hhqEPnOMtMX6wgJ5hYu3) | 1:39 | 2024-11-08 |  |
 | [I Believe In Magic](https://open.spotify.com/track/04nJrprLfKlFCjBLGZ9URD) | [Nettie Vincent](https://open.spotify.com/artist/45l3luMqRH9aEYSBGtoDjf) | [I Believe In Magic](https://open.spotify.com/album/1p1lfNNmpKyYZngelTy1cy) | 1:35 | 2022-10-28 | 2024-04-17 |
 | [I Can Be Anything](https://open.spotify.com/track/6V7vHsYdvyV1wZWI036aBO) | [Jo Nichols](https://open.spotify.com/artist/3XZOOG3V4fB9wCDBUUZlzq) | [I Can Be Anything](https://open.spotify.com/album/5uWxf0Kb5RVKtpzKY2WztB) | 1:38 | 2024-10-18 | 2025-03-15 |
-| [I can wiggle my ears](https://open.spotify.com/track/2YB76HdRtdgSftyN6cdwYv) | [Wiktoria Bogan](https://open.spotify.com/artist/42UDhH9oqDNTdKwdgpQXfu) | [I can wiggle my ears](https://open.spotify.com/album/7jkfbhSayhgSbBFzubblUs) | 1:29 | 2023-01-06 |  |
+| [I can wiggle my ears](https://open.spotify.com/track/2YB76HdRtdgSftyN6cdwYv) | [Wiktoria Bogan](https://open.spotify.com/artist/42UDhH9oqDNTdKwdgpQXfu) | [I can wiggle my ears](https://open.spotify.com/album/7jkfbhSayhgSbBFzubblUs) | 1:29 | 2023-01-06 | 2025-04-05 |
 | [I drömmarnas land](https://open.spotify.com/track/4bp7iq0k2wMbeOl8f8HwkU) | [Daavid Laaksonen](https://open.spotify.com/artist/4EOykGH38DFfCDrP5xkFhK) | [I drömmarnas land](https://open.spotify.com/album/1EbhNmd7YpD4pvYX7KhroR) | 1:53 | 2021-10-05 | 2023-05-05 |
 | [I Ett Hus Vid Skogens Slut](https://open.spotify.com/track/04FI1E17qnSiqO54mxH6Ah) | [Pontus Holt](https://open.spotify.com/artist/1RlTiQLa9gLES77OPf1ymC) | [Vaggvisor För De Små](https://open.spotify.com/album/5ZLBT2cIEDEPBS5hbLMCeD) | 1:49 | 2021-10-05 | 2022-10-29 |
 | [I Had a Rooster](https://open.spotify.com/track/4PQwVsOmgZWxYYd1YEJQGK) | [Nolan Wren](https://open.spotify.com/artist/1bglI3t0xRpDdeiYugmOz0) | [I Had a Rooster](https://open.spotify.com/album/6YdhkmnDXglu6K3DiWn3i5) | 1:27 | 2024-02-09 |  |
@@ -502,6 +504,7 @@
 | [Matilda](https://open.spotify.com/track/0hrprtdOF0GGqWsb6bSnor) | [Astrid Clark](https://open.spotify.com/artist/78H90eE8XEqkpCOOeyPDFU) | [Matilda](https://open.spotify.com/album/4tqwUgZ76gMkegGGR56rNq) | 1:43 | 2022-10-28 | 2023-05-05 |
 | [May Day](https://open.spotify.com/track/71uKejEFc2BPPVT1gnPf2L) | [Marsha Wert](https://open.spotify.com/artist/1jbgOY8j0JxOoITv62DQDC) | [May Day](https://open.spotify.com/album/2hhOiikOe74P5pBsD7f7VH) | 1:38 | 2021-10-05 | 2022-12-16 |
 | [Meadow](https://open.spotify.com/track/4Jdbwh9Zpxt2NDdtP386ys) | [Selma June](https://open.spotify.com/artist/2f08UC5AufQFaVZi8r6V91) | [Meadow](https://open.spotify.com/album/261uRNYbDr1XvPJrOdHtVS) | 2:17 | 2023-08-10 |  |
+| [Meet Me at the Moon](https://open.spotify.com/track/3rafljXL9NtjY9uk2AWsPB) | [Oscar Z](https://open.spotify.com/artist/1w43xgEFebGecoNDH6lTkt) | [Meet Me at the Moon](https://open.spotify.com/album/6PwkoSuFCm7mscE1JxpL8U) | 1:32 | 2025-04-04 |  |
 | [Meet the Baby](https://open.spotify.com/track/1XBOAuQVFZxco6GaT6aCbb) | [Jesse Birkman](https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH) | [Meet the Baby](https://open.spotify.com/album/6gM24blvGoLpowH9RRNgP5) | 1:31 | 2024-10-25 |  |
 | [Mermaid](https://open.spotify.com/track/5SiMDFBI6BbuwjxmqoGcqW) | [Goodnight sweetheart](https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp) | [Mermaid](https://open.spotify.com/album/5grH6bfvXjlDe1vg7R97lZ) | 1:52 | 2024-06-21 |  |
 | [Meu Anjo](https://open.spotify.com/track/75KGgPHDmqduc8ty6GTJoW) | [Zaina Martins](https://open.spotify.com/artist/6zW9ziwaYOp2YgYk2ilsKF) | [Meu Anjo](https://open.spotify.com/album/1dSpBf8UO6fOqR0uYh25B4) | 1:31 | 2021-10-05 | 2022-10-29 |
@@ -670,7 +673,7 @@
 | [Røvervise](https://open.spotify.com/track/484YvSdraAsfTjNiw1lJvE) | [Petra Mogensen](https://open.spotify.com/artist/6aNZ6GQv8yP3HFmpXtGY5r) | [Røvervise](https://open.spotify.com/album/5uXlz1LpJFHBToyhJ7cRmk) | 1:51 | 2022-12-16 | 2023-05-05 |
 | [Safe and Sound](https://open.spotify.com/track/2tYsjJ92cFc8n0dxV4EhMO) | [Sky Holland](https://open.spotify.com/artist/5YQfmCMs2KIpZUDvSdz3L3) | [In My Arms](https://open.spotify.com/album/0ms2g8Zl0bs1G2VxEBl8BL) | 1:56 | 2023-05-05 |  |
 | [Sailing into Sleep](https://open.spotify.com/track/3woEn6Ftx5c0KNVwqoySSg) | [Jonathan Frost](https://open.spotify.com/artist/0PVSPOYn9HjFfLG1f75rgS) | [Sailing into Sleep](https://open.spotify.com/album/4xipRH3VFJAe4nxunDli7f) | 1:24 | 2025-03-14 |  |
-| [Sandman](https://open.spotify.com/track/02FfqOI4EcQBHfDkECZW69) | [Ritchie Wardrobe](https://open.spotify.com/artist/04xa2EjEIy886FSZiizhPy) | [Sandman](https://open.spotify.com/album/16DUnk7CYpdtLdGFLlDc2G) | 1:32 | 2023-02-17 |  |
+| [Sandman](https://open.spotify.com/track/02FfqOI4EcQBHfDkECZW69) | [Ritchie Wardrobe](https://open.spotify.com/artist/04xa2EjEIy886FSZiizhPy) | [Sandman](https://open.spotify.com/album/16DUnk7CYpdtLdGFLlDc2G) | 1:32 | 2023-02-17 | 2025-04-05 |
 | [Sandman](https://open.spotify.com/track/3YwcohusRJnODwSxCSdLeg) | [Tiny Hush](https://open.spotify.com/artist/6BzXBD4mURyadXWHwhHWMF) | [Sandman](https://open.spotify.com/album/5PjDNLHyLtqJGmxhRsxgEP) | 1:45 | 2025-03-14 |  |
 | [Sandman's Dream](https://open.spotify.com/track/78j4im6NmSVlV2Sg9SLxfF) | [John Felipe](https://open.spotify.com/artist/5ZrLtkcI48xbgH57MyAjEO) | [Sandman's Dream](https://open.spotify.com/album/1G5hpgxdrkKtNWeRCCdyIA) | 1:09 | 2022-09-22 | 2023-09-22 |
 | [Sandras Lullaby](https://open.spotify.com/track/3v4fY8rj1d1UPk6Um0RCRj) | [Maurice Greenwood](https://open.spotify.com/artist/1Ajd6F60K356s8BACssfAo) | [Sandras Lullaby](https://open.spotify.com/album/3lio77MhlH28eGXdwJxRnk) | 2:07 | 2021-10-05 | 2022-12-16 |

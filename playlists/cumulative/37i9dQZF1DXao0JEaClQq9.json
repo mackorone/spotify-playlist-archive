@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Modern heavenly sounds. Cover: Radiohead",
+  "description": "Modern heavenly sounds. Cover: Wet",
   "name": "Ethereal",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 123000,
       "name": "16/8",
       "url": "https://open.spotify.com/track/2YO20U8ihiMmPpCuzfRPVL"
@@ -1646,6 +1646,32 @@
       "duration_ms": 200560,
       "name": "Blue Atlanta",
       "url": "https://open.spotify.com/track/6BHPw2MZMosf3eEaFiwl4z"
+    },
+    {
+      "album": {
+        "name": "Song Of The Earth",
+        "url": "https://open.spotify.com/album/35e5AbSnsRbAkZg9LqH7bt"
+      },
+      "artists": [
+        {
+          "name": "Dirty Projectors",
+          "url": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+        },
+        {
+          "name": "David Longstreth",
+          "url": "https://open.spotify.com/artist/33HF8cjroL5KzkThWR689t"
+        },
+        {
+          "name": "stargaze",
+          "url": "https://open.spotify.com/artist/6ArmVuGn8UtsupvhL3suRy"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218726,
+      "name": "Blue of Dreaming",
+      "url": "https://open.spotify.com/track/6XIqaXF5UEO7HPbZz8nTkx"
     },
     {
       "album": {
@@ -4202,7 +4228,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 229619,
       "name": "Floating Parade",
       "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
@@ -7955,6 +7981,24 @@
     },
     {
       "album": {
+        "name": "Two Lives",
+        "url": "https://open.spotify.com/album/2iRVSj9OgvwzDVPGoYoG2U"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201942,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/7AnKq274KBoXdauPkKqKBk"
+    },
+    {
+      "album": {
         "name": "5am and I Can't Sleep",
         "url": "https://open.spotify.com/album/6J6UNR6FsyzDamCimQC9W6"
       },
@@ -8094,7 +8138,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 267769,
       "name": "Never Felt Better",
       "url": "https://open.spotify.com/track/4fxzJneKp90ru93KfMGmcv"
@@ -9202,7 +9246,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 407710,
       "name": "Punish",
       "url": "https://open.spotify.com/track/2Iy2Qj5kTsmXAndBnOWdy4"

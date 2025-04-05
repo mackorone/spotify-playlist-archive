@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: HANA
 
-1,422 songs - 3 day 3 hr 50 min
+1,424 songs - 3 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Bubble](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [TEENFRESH](https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x) | 2:59 | 2023-08-16 | 2024-02-28 |
 | [Bubble \- Japanese Ver.](https://open.spotify.com/track/6lBifd8pkWukU3sIjtkwIR) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Bubble \(Japanese Ver.\)](https://open.spotify.com/album/0LIFa5uJeyyNq58t9k4UfH) | 2:59 | 2023-12-05 | 2024-01-10 |
 | [Bubble Gum](https://open.spotify.com/track/34Bjqa19xQ7w7UJFC0Dsqd) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [Bubble Gum](https://open.spotify.com/album/6RimC35FgBE0g9kdYecpsB) | 3:00 | 2024-12-06 | 2025-02-25 |
+| [BURN](https://open.spotify.com/track/194uztQZdWMZutepG4ZkeB) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<BURN>](https://open.spotify.com/album/4benP09DGGgfu79UY9zvaU) | 3:19 | 2025-04-04 |  |
 | [BURN IT](https://open.spotify.com/track/6z1vmJyL1OSFkuU4nIFV9l) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [BURN IT](https://open.spotify.com/album/7tf5wvRToW2nWeaEMyG5rZ) | 2:47 | 2024-06-28 | 2024-07-24 |
 | [Burn It \- Japanese ver.](https://open.spotify.com/track/1RIcPnDBsHSZiSG233YEM2) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [RATA\-TAT\-TAT](https://open.spotify.com/album/42JGkJ9gzzbbe2pxe9TOPQ) | 3:28 | 2022-06-14 | 2022-07-23 |
 | [BUSY](https://open.spotify.com/track/0nPHCspBGYsJ3QNcsuq6B4) | [MYERA](https://open.spotify.com/artist/79hOP6wbBdYMeF0e8S8a2i) | [BUSY](https://open.spotify.com/album/2IOk41ucx76Z8HaUgmbDkk) | 2:53 | 2025-03-06 | 2025-04-01 |
@@ -1284,7 +1285,8 @@
 | [Walk](https://open.spotify.com/track/5o5mfjvxzxRChb45hbWuuw) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [WALK \- The 6th Album](https://open.spotify.com/album/1awTeiNvKPg5ZIVHrK0QML) | 3:11 | 2024-07-15 | 2024-10-16 |
 | [Walkin On Water](https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz) | 2:28 | 2024-12-13 | 2025-03-07 |
 | [WANNABE \- Japanese ver.](https://open.spotify.com/track/1F6lnQwfiEzq7ikNnODitc) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [WANNABE \(Japanese ver.\)](https://open.spotify.com/album/6ZmevJEKLGFFddTBwory5Q) | 3:11 | 2021-12-23 | 2022-01-07 |
-| [WANT](https://open.spotify.com/track/4G8rbofCc2vyGZ3pbCHiUH) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [WANT](https://open.spotify.com/album/5Nz1GLdhSyy88BOSOpoNap) | 3:31 | 2025-04-03 |  |
+| [WANT](https://open.spotify.com/track/4G8rbofCc2vyGZ3pbCHiUH) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [WANT](https://open.spotify.com/album/5Nz1GLdhSyy88BOSOpoNap) | 3:31 | 2025-04-03 | 2025-04-05 |
+| [WANT](https://open.spotify.com/track/4ejQyhgK35HUyfVq72wUVP) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [WANT](https://open.spotify.com/album/5SghcmfHNjjOZq4ApJ4gID) | 3:31 | 2025-04-04 |  |
 | [Wasteland](https://open.spotify.com/track/4bml9BznT3E0sX4xpa0voN) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Wasteland](https://open.spotify.com/album/3gerGX9iUd6cEwLNGCrh6u) | 3:02 | 2023-06-06 | 2023-07-26 |
 | [WATCH IT](https://open.spotify.com/track/3UQw1V8gM5YihFDcnjNkWN) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 2ND ALBUM \[PHANTASY\] Pt.2 Sixth Sense](https://open.spotify.com/album/7LmTay8KeH1nl0Kt1BlhMX) | 2:59 | 2023-11-20 | 2024-01-10 |
 | [WATERFALL](https://open.spotify.com/track/4QxTg2DuJPzY8pXNDWAcow) | [YOUNITE](https://open.spotify.com/artist/4l4eMvpA4K7X02j08cbkNV) | [BIT Part.1](https://open.spotify.com/album/1JIBD2xuWX2cdGLoHvBdoc) | 3:00 | 2023-05-16 | 2023-06-21 |

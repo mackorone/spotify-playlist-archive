@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Deafheaven are on top of today's best Metal playlist.",
+  "description": "BABYMETAL are on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -830,7 +830,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 260853,
       "name": "Amphibians",
       "url": "https://open.spotify.com/track/6hZMH8mu42J9KGtSfOHVPm"
@@ -2130,7 +2130,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 168933,
       "name": "Brain Dead",
       "url": "https://open.spotify.com/track/1tH7fEOpyS6RCHHxglAU9C"
@@ -2907,6 +2907,24 @@
     },
     {
       "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/1TkjAIrMg814YiEWyZPwV8"
+      },
+      "artists": [
+        {
+          "name": "Tetrarch",
+          "url": "https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178101,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/3JRiXx1S7BIxGgOBP3VeZ2"
+    },
+    {
+      "album": {
         "name": "COLD BLOOD",
         "url": "https://open.spotify.com/album/5gAZ9Iay75PXZITgGlIc1K"
       },
@@ -2962,7 +2980,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 182061,
       "name": "Cold Hard Truth",
       "url": "https://open.spotify.com/track/0MwRJeQZmAn954BxUqcnit"
@@ -3204,7 +3222,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 258209,
       "name": "Cross the Divide",
       "url": "https://open.spotify.com/track/4wBQ6nLedd6HDDYrGcJuSJ"
@@ -5355,6 +5373,24 @@
     },
     {
       "album": {
+        "name": "face.",
+        "url": "https://open.spotify.com/album/1pWnfUxBMWhF3TgWarYieF"
+      },
+      "artists": [
+        {
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141500,
+      "name": "face.",
+      "url": "https://open.spotify.com/track/0zX4S0PU6BG9UxHtaAx2jA"
+    },
+    {
+      "album": {
         "name": "Faded Out (feat. Within Temptation)",
         "url": "https://open.spotify.com/album/0i4ilwdkroLzNxb3SD0SjW"
       },
@@ -5638,6 +5674,24 @@
       "duration_ms": 215001,
       "name": "Finding Euphoria",
       "url": "https://open.spotify.com/track/5ria869mOXYHsesQg7QjoF"
+    },
+    {
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/1KCWO9riv5TIiv1V2jUYQk"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201333,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/4t4veTYSVvPHSWSlLMAvRC"
     },
     {
       "album": {
@@ -5974,6 +6028,28 @@
       "duration_ms": 140228,
       "name": "Freak Like Me",
       "url": "https://open.spotify.com/track/6VrgzSdbqpA9cAvUbd1Rwx"
+    },
+    {
+      "album": {
+        "name": "from me to u (feat. Poppy)",
+        "url": "https://open.spotify.com/album/2oxRRkR4Rj2aPCB63NsjZn"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204526,
+      "name": "from me to u (feat. Poppy)",
+      "url": "https://open.spotify.com/track/6ILVeNgfsOG41ioscRql5P"
     },
     {
       "album": {
@@ -6692,6 +6768,24 @@
       "duration_ms": 221200,
       "name": "Hate Me (feat. Loveless)",
       "url": "https://open.spotify.com/track/70RYhIYRYeL1YNJcAIBjjm"
+    },
+    {
+      "album": {
+        "name": "CURSED",
+        "url": "https://open.spotify.com/album/2ic9y0c0Y7goGxrre1ud7Q"
+      },
+      "artists": [
+        {
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183964,
+      "name": "Hatred",
+      "url": "https://open.spotify.com/track/1S7pZAerfgfRVARfQ8eZgh"
     },
     {
       "album": {
@@ -8356,7 +8450,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 214274,
       "name": "Kundalini",
       "url": "https://open.spotify.com/track/0D3z7YrhFHbdahOjPbtByX"
@@ -8710,6 +8804,28 @@
       "duration_ms": 185569,
       "name": "Losing Faith",
       "url": "https://open.spotify.com/track/1FouhNVA5qcS0IQ5nucCh6"
+    },
+    {
+      "album": {
+        "name": "NINE",
+        "url": "https://open.spotify.com/album/48doH9nnym0XhIm1587p3F"
+      },
+      "artists": [
+        {
+          "name": "Bleeding Through",
+          "url": "https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi"
+        },
+        {
+          "name": "God Forbid",
+          "url": "https://open.spotify.com/artist/2OgQ0tvf2ldbdlm8sXyx3M"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Lost In Isolation",
+      "url": "https://open.spotify.com/track/4yHU8GXDmorOZ6eZfd8TGu"
     },
     {
       "album": {
@@ -9135,6 +9251,24 @@
     },
     {
       "album": {
+        "name": "Blood Dynasty",
+        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289586,
+      "name": "March of the Miscreants",
+      "url": "https://open.spotify.com/track/37S5w1GMtRSPamMfT7SOTH"
+    },
+    {
+      "album": {
         "name": "Martyr",
         "url": "https://open.spotify.com/album/0SPQRm5ZvpgdazHJPN6eKy"
       },
@@ -9266,7 +9400,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 173160,
       "name": "Mea Culpa (Ah! \u00c7a ira!)",
       "url": "https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK"
@@ -10354,7 +10488,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 181120,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/0sDSluHpgkkawaLBH5S9y4"
@@ -10812,7 +10946,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 236746,
       "name": "Paper Tiger",
       "url": "https://open.spotify.com/track/1eeNl33TLVUVBZmqKT3Yed"
@@ -11083,6 +11217,24 @@
     },
     {
       "album": {
+        "name": "Pig",
+        "url": "https://open.spotify.com/album/7M8qLO0UvEJfgiJ8lqXwVo"
+      },
+      "artists": [
+        {
+          "name": "ten56.",
+          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225923,
+      "name": "Pig",
+      "url": "https://open.spotify.com/track/3IMsQ5w6Lq1pJak148cqLK"
+    },
+    {
+      "album": {
         "name": "IHSAHN",
         "url": "https://open.spotify.com/album/78eWgdCbll6LBKZR696IBE"
       },
@@ -11238,7 +11390,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 165925,
       "name": "PLEASER",
       "url": "https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se"
@@ -11830,7 +11982,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 242984,
       "name": "River Of Sorrows",
       "url": "https://open.spotify.com/track/2X9xNcQnRPNLa9fUvl218u"
@@ -13198,7 +13350,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 203853,
       "name": "Spineless",
       "url": "https://open.spotify.com/track/4DIL3Xgnb9PAqewEf9FRZa"
@@ -13573,6 +13725,28 @@
     },
     {
       "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/3qO9WTYglFdQkNz1KXwW4J"
+      },
+      "artists": [
+        {
+          "name": "Prompts",
+          "url": "https://open.spotify.com/artist/3roPPqGAbyY4WHCbJbJnjl"
+        },
+        {
+          "name": "Landon Tewers",
+          "url": "https://open.spotify.com/artist/3j4ihH7xANVDGQhcDFJby7"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216492,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/1X4Jidr8dWPJQWMCaZUtwS"
+    },
+    {
+      "album": {
         "name": "sTraNgeRs",
         "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
       },
@@ -13852,6 +14026,24 @@
       "duration_ms": 198417,
       "name": "Survivors Guilt",
       "url": "https://open.spotify.com/track/652PlanA5w5iJxTr04Za8U"
+    },
+    {
+      "album": {
+        "name": "T.I.M.E.",
+        "url": "https://open.spotify.com/album/632ug91PGPg5ODJIJYNAUY"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238407,
+      "name": "T.I.M.E.",
+      "url": "https://open.spotify.com/track/6Wxesnvvvh44UMXCBF7wMa"
     },
     {
       "album": {
@@ -14612,7 +14804,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 356920,
       "name": "The Message [Tablet I]",
       "url": "https://open.spotify.com/track/7bvkBpcJnYHCuiyoDk9t3l"
@@ -16155,6 +16347,24 @@
     },
     {
       "album": {
+        "name": "Helldorado",
+        "url": "https://open.spotify.com/album/3uG1XUvK76Y59Zi0FsWMNj"
+      },
+      "artists": [
+        {
+          "name": "Spiritworld",
+          "url": "https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241880,
+      "name": "Waiting on the Reaper",
+      "url": "https://open.spotify.com/track/04sgIlzuGYceS3Yw1nIk7i"
+    },
+    {
+      "album": {
         "name": "Waiting On The Sky To Change",
         "url": "https://open.spotify.com/album/5y9BuOtk9gPseSVOJzBTFn"
       },
@@ -16258,7 +16468,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 256165,
       "name": "War Time",
       "url": "https://open.spotify.com/track/0Meyr7LVvQ4ptotgWXTLK1"
@@ -17086,7 +17296,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 189494,
       "name": "WORSHIP",
       "url": "https://open.spotify.com/track/7IF328weNbUocWsxzosLsB"
@@ -17272,7 +17482,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 266133,
       "name": "You'll Know It Was Me (feat. George Clarke)",
       "url": "https://open.spotify.com/track/3i1JqxyQn1Zmya2I3v4NhA"
@@ -17452,7 +17662,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 420320,
       "name": "\u00a74",
       "url": "https://open.spotify.com/track/0XHqEwAU4Nc1s7xeZzjLKb"

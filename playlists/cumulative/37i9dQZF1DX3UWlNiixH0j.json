@@ -9364,7 +9364,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-02",
+      "date_removed": null,
       "duration_ms": 210244,
       "name": "heart",
       "url": "https://open.spotify.com/track/5hDchbWpNl4scdX1dLBIC0"
@@ -11786,7 +11786,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 171226,
       "name": "Just Another Day",
       "url": "https://open.spotify.com/track/6LNfxO2Yuw8gc6GnEqcHT3"
@@ -31316,7 +31316,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 148965,
       "name": "\u30a6\u30a4\u30f3\u30af\u3067\u304a\u3081\u304b\u3057",
       "url": "https://open.spotify.com/track/69wq2CZcZ7990DQB0AUKFT"
@@ -40364,6 +40364,24 @@
       "duration_ms": 319336,
       "name": "\u6e1a\u3067\u4f1a\u3044\u307e\u3057\u3087\u3046",
       "url": "https://open.spotify.com/track/07y4uMenyskCjDuxfdXuGB"
+    },
+    {
+      "album": {
+        "name": "\u98a8\u304c\u306f\u3084\u3044",
+        "url": "https://open.spotify.com/album/1eYyKE1EYQzjuynSBzCqf1"
+      },
+      "artists": [
+        {
+          "name": "Sundae May Club",
+          "url": "https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112017,
+      "name": "\u6e26\u4e2d\u30ed\u30c3\u30af",
+      "url": "https://open.spotify.com/track/1gc2ol4PmQW6AnV8YJeYLu"
     },
     {
       "album": {

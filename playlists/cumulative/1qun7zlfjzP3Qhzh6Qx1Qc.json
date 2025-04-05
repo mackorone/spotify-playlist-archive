@@ -943,6 +943,24 @@
     },
     {
       "album": {
+        "name": "CAMO",
+        "url": "https://open.spotify.com/album/7iDhoosIjxyLys2zm9cv8M"
+      },
+      "artists": [
+        {
+          "name": "Graham Barham",
+          "url": "https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147893,
+      "name": "CAMO",
+      "url": "https://open.spotify.com/track/6mMxElBV1pT0B7hPonG8rR"
+    },
+    {
+      "album": {
         "name": "California Gold",
         "url": "https://open.spotify.com/album/5pQs8l0kyftlASrbXp0KU3"
       },
@@ -1697,6 +1715,24 @@
     },
     {
       "album": {
+        "name": "Dog in the Cold",
+        "url": "https://open.spotify.com/album/4sSM0s3QLY17vsvIe1TIsh"
+      },
+      "artists": [
+        {
+          "name": "Presley Haile",
+          "url": "https://open.spotify.com/artist/7ns8HLT4c0KMeGqbk24CiH"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236329,
+      "name": "Dog in the Cold",
+      "url": "https://open.spotify.com/track/6dgYzE9mflHH25mBF1VsAk"
+    },
+    {
+      "album": {
         "name": "Doin' What She Does",
         "url": "https://open.spotify.com/album/2jXUimgUa3XMPV3qbUQNtG"
       },
@@ -1712,6 +1748,24 @@
       "duration_ms": 176760,
       "name": "Doin' What She Does",
       "url": "https://open.spotify.com/track/4QDfhW0gsFEKaUOJUDBwe8"
+    },
+    {
+      "album": {
+        "name": "Don't Go to the Valley",
+        "url": "https://open.spotify.com/album/6whjQK3XHfN7b801yKIkuc"
+      },
+      "artists": [
+        {
+          "name": "Jake Vaadeland",
+          "url": "https://open.spotify.com/artist/3xQzfgIw2TLiFUfvlrKgH3"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206280,
+      "name": "Don't Go to the Valley",
+      "url": "https://open.spotify.com/track/44mJdujuZReqLhJngEWEwy"
     },
     {
       "album": {
@@ -2295,6 +2349,24 @@
     },
     {
       "album": {
+        "name": "Good As Gone",
+        "url": "https://open.spotify.com/album/4RJYkunA05AN7bB8ThoJEv"
+      },
+      "artists": [
+        {
+          "name": "Eddie Flint",
+          "url": "https://open.spotify.com/artist/1OiaW9PZCUJlkINotRihrA"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205553,
+      "name": "Good As Gone",
+      "url": "https://open.spotify.com/track/2WRYtsdABzxeIl45FSZPpJ"
+    },
+    {
+      "album": {
         "name": "Good Guy",
         "url": "https://open.spotify.com/album/0RyA2xMwkkHI46spLAOZ5V"
       },
@@ -2378,7 +2450,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 141725,
       "name": "Greedy - Country Version",
       "url": "https://open.spotify.com/track/0thzAxCyLFOQJ6JwbThQ3R"
@@ -3332,7 +3404,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 194561,
       "name": "Junk Drawer",
       "url": "https://open.spotify.com/track/0B4qgQpj7GRkboMMFyfrzi"
@@ -3739,6 +3811,24 @@
     },
     {
       "album": {
+        "name": "Me Most Nights",
+        "url": "https://open.spotify.com/album/1GO6f9KNUrqQKufeKGS0qc"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159853,
+      "name": "Me Most Nights",
+      "url": "https://open.spotify.com/track/4BvaS7w9Cu0Psc8VGwXFDh"
+    },
+    {
+      "album": {
         "name": "Miles On It",
         "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
       },
@@ -3870,7 +3960,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 251776,
       "name": "Neon Moon (with Morgan Wallen)",
       "url": "https://open.spotify.com/track/3lqRhP47Pi5OuWGWlW1N72"
@@ -4474,7 +4564,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 236055,
       "name": "Remember Him That Way",
       "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
@@ -5660,7 +5750,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 246141,
       "name": "Thought It Was Love",
       "url": "https://open.spotify.com/track/4fVoX6BG2jFhPx6uHKevpF"

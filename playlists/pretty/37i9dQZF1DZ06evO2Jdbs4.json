@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 28946,
+  "num_followers": 28950,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+x+AAAAAAB4Yh+V4/n9YhmPZjk0vIUR",
+  "snapshot_id": "Z+3PgAAAAACAsmC13/HRyQxhh7c4lu2P",
   "tracks": [
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "No S\u00e9 Por Qu\u00e9",
-      "url": "https://open.spotify.com/track/1DBsOzhJeIi46lFO3ITv5t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bobby",
         "url": "https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD"
       },
@@ -859,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "No S\u00e9 Por Qu\u00e9",
+      "url": "https://open.spotify.com/track/1DBsOzhJeIi46lFO3ITv5t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "40 Aniversario Con Invitados a Otro Nivel, Vol. 2",
         "url": "https://open.spotify.com/album/68RRgoiTtixqmXpCgrCGFU"
       },
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Ve Linda",
-        "url": "https://open.spotify.com/album/6Eq0W9vRRbfwXN8CplJ1dQ"
-      },
-      "artists": [
-        {
-          "name": "Alberto Y Roberto",
-          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 173963,
-      "name": "Se Ve Linda",
-      "url": "https://open.spotify.com/track/0L77znyikAzLKIbxz3Lshd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Camino",
         "url": "https://open.spotify.com/album/77tJHDyUdGZcPjez0lvqQJ"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 217199,
       "name": "Vuelta En U (feat. Bobby Pulido)",
       "url": "https://open.spotify.com/track/2xW2DGL2h5q3DImxQMAW3C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Ve Linda",
+        "url": "https://open.spotify.com/album/6Eq0W9vRRbfwXN8CplJ1dQ"
+      },
+      "artists": [
+        {
+          "name": "Alberto Y Roberto",
+          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 173963,
+      "name": "Se Ve Linda",
+      "url": "https://open.spotify.com/track/0L77znyikAzLKIbxz3Lshd"
     },
     {
       "added_at": null,

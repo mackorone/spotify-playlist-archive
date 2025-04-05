@@ -4,7 +4,7 @@
 
 > Playlist
 
-590 songs - 1 day 10 hr 57 min
+591 songs - 1 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Je T’appelle](https://open.spotify.com/track/5LS6l15r1QFAccHbxsb1IV) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Tout Autour De Nous](https://open.spotify.com/album/32JXrOWx2ebrYtB1isz11n) | 3:53 | 2023-10-25 |  |
 | [Jerusalem](https://open.spotify.com/track/0teO03bTviZ8W6zVfj3Jzj) | [Mikali](https://open.spotify.com/artist/12TZR9iuhyNK9x001MLW0B) | [Jerusalem](https://open.spotify.com/album/2rS2wCBAu2bqK6c5SHH4fI) | 3:24 | 2023-10-25 |  |
 | [Jusqu’à L’aube](https://open.spotify.com/track/6dKscoTCdjlEBoqWMchimV) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Tout Autour De Nous](https://open.spotify.com/album/32JXrOWx2ebrYtB1isz11n) | 3:43 | 2023-10-25 |  |
+| [Just A Dream](https://open.spotify.com/track/1SfCLFcSYptvSU1XStGFOD) | [Cool Sounds](https://open.spotify.com/artist/0soSU9eC31tES3VthvCLtU) | [Just A Dream](https://open.spotify.com/album/7BuOtWZTnbpp0BHDcvfsQf) | 4:04 | 2025-04-04 |  |
 | [Just Playing](https://open.spotify.com/track/6dq4PNyeqZ6lsrmit8P5sS) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [The Great Design](https://open.spotify.com/album/5jW4cU4BBp9z1nthhvPiNR) | 5:05 | 2023-10-25 |  |
 | [Just You](https://open.spotify.com/track/5XtV5wLK1Fvst8hUXTW69M) | [HEAVY CHEST](https://open.spotify.com/artist/57fgfg6PTbTqtPegX6rXV5) | [Just You](https://open.spotify.com/album/1neRoJ099t3E8zSr4VXCr0) | 4:04 | 2023-10-25 |  |
 | [Kalifornia](https://open.spotify.com/track/0jtofBM0XEbFalhnvnABBZ) | [Tutankhamun](https://open.spotify.com/artist/6iqqrYdwxJzmxSz9ZJ72CH) | [Tutankhamun](https://open.spotify.com/album/5lk9ArPBJH4jDUdm0DaiTC) | 3:40 | 2023-10-25 |  |

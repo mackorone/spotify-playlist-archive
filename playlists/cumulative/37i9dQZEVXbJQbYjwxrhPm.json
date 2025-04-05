@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 193440,
       "name": "Da Si Plashtal",
       "url": "https://open.spotify.com/track/1u8eHkUmd6VCRTVZQ7JKX1"
@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 170769,
       "name": "Dale Baby",
       "url": "https://open.spotify.com/track/1zK1hzNzGlKcVKdxkp0Rcv"
@@ -3072,7 +3072,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -3152,7 +3152,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -3762,7 +3762,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-22",
+      "date_removed": null,
       "duration_ms": 213472,
       "name": "Ne dalja nishto",
       "url": "https://open.spotify.com/track/3xH6QvmqSbvQaN5iNqwZYn"
@@ -4542,7 +4542,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 209680,
       "name": "RATHER LIE (with The Weeknd)",
       "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn"
@@ -4734,6 +4734,28 @@
       "duration_ms": 200929,
       "name": "Set Me Free Pt.2",
       "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
+    },
+    {
+      "album": {
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183550,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
     },
     {
       "album": {
@@ -6414,7 +6436,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 187333,
       "name": "\u0411\u0430\u0448\u043c\u0430\u0439\u0441\u0442\u043e\u0440\u0441\u043a\u0430",
       "url": "https://open.spotify.com/track/1rLpf280OicMHgkl6SfGHG"
@@ -6828,7 +6850,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-08",
+      "date_removed": null,
       "duration_ms": 168800,
       "name": "\u0417\u0438\u0433-\u0437\u0430\u0433",
       "url": "https://open.spotify.com/track/6i9AZs8Cv8d3I6PQMN22RC"
@@ -7013,6 +7035,24 @@
     },
     {
       "album": {
+        "name": "\u041b\u044e\u0431\u043e\u0432\u0442\u0430 \u043d\u0430 \u0436\u0438\u0432\u043e\u0442\u0430 \u043c\u0438",
+        "url": "https://open.spotify.com/album/0hineE6PSgKNfyldZ2htgo"
+      },
+      "artists": [
+        {
+          "name": "Medi",
+          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212573,
+      "name": "\u041b\u044e\u0431\u043e\u0432\u0442\u0430 \u043d\u0430 \u0436\u0438\u0432\u043e\u0442\u0430 \u043c\u0438",
+      "url": "https://open.spotify.com/track/7l214meHUElJkkqrFH3pTQ"
+    },
+    {
+      "album": {
         "name": "\u041c\u0430\u0439 \u043f\u043e\u043b\u0443\u0434\u044f\u0445",
         "url": "https://open.spotify.com/album/5TjTfDE7PYbHbmbRw7HOI0"
       },
@@ -7130,7 +7170,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 160879,
       "name": "\u041c\u043e\u043d\u043e\u043f\u043e\u043b",
       "url": "https://open.spotify.com/track/3AyQkHqh5cENWthtwRL6oS"
@@ -7228,7 +7268,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 205347,
       "name": "\u041d\u0435, \u043c\u0435\u0440\u0441\u0438 - Single",
       "url": "https://open.spotify.com/track/1bwLTopYsL8A0j0fg7fi79"
@@ -7352,7 +7392,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 240937,
       "name": "\u041e\u0442 \u043a\u0435\u0444 \u0434\u0430 \u0443\u043c\u0438\u0440\u0430\u043c",
       "url": "https://open.spotify.com/track/1SF5ZAO1oUSduw2lHschoA"
@@ -7892,7 +7932,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-05",
       "duration_ms": 181304,
       "name": "\u0424\u0438\u043b\u043c \u0437\u0430 \u043d\u0430\u0441",
       "url": "https://open.spotify.com/track/772ARvmnEjryug7ce0lRAF"

@@ -4,7 +4,7 @@
 
 > You're the paracetamol to my headache ❤️
 
-735 songs - 1 day 11 hr 56 min
+736 songs - 1 day 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,7 @@
 | [Go Low](https://open.spotify.com/track/18knj0rESK9fge8VWsAGOM) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Go Low](https://open.spotify.com/album/6Ev4ji21spB3qmbTggGx8X) | 2:04 | 2024-04-19 | 2024-04-20 |
 | [Go Low](https://open.spotify.com/track/4XOdCFCCortagag6YCi7Qu) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Go Low](https://open.spotify.com/album/46qAo4a7iWazSa0jzHNa73) | 2:04 | 2024-03-15 | 2024-04-19 |
 | [Goddess](https://open.spotify.com/track/4HuciJ6VfCUkwoX4YFYj3f) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Goddess](https://open.spotify.com/album/1fodM3sDOkOnRyzSJjlSiR) | 2:30 | 2024-08-30 | 2025-03-08 |
-| [GOLIATH](https://open.spotify.com/track/5cI5ynzXU4SsRql9dKYnmR) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [GOLIATH](https://open.spotify.com/album/12BoH0Ap35t0UyiuSXTMQC) | 2:34 | 2025-03-21 |  |
+| [GOLIATH](https://open.spotify.com/track/5cI5ynzXU4SsRql9dKYnmR) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [GOLIATH](https://open.spotify.com/album/12BoH0Ap35t0UyiuSXTMQC) | 2:34 | 2025-03-21 | 2025-04-05 |
 | [Gon Gon](https://open.spotify.com/track/64t5AXI4zUzkiAcDImxNx9) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Gon Gon / No Forget](https://open.spotify.com/album/212j8iS52QLabW553im5hM) | 2:49 | 2024-07-26 | 2024-11-30 |
 | [GOOD GOOD LOVE](https://open.spotify.com/track/2TYL5PRCEttbKyVmQF5t9V) | [LT Fire](https://open.spotify.com/artist/666T8o4zFXj8XCYEJdR8xJ) | [GOOD GOOD LOVE](https://open.spotify.com/album/0oU0gmX0qeagUsHCpg77tL) | 3:32 | 2024-04-26 | 2024-05-03 |
 | [Guy Like Me](https://open.spotify.com/track/1lxVtfGPUZlgInYySB1GcS) | [Yugoszn](https://open.spotify.com/artist/7yWR3RApVuDFsZ6MqOHyFn) | [Yugoszn](https://open.spotify.com/album/5A6wiJErITKfHgQB5rR7ll) | 2:49 | 2024-02-02 | 2024-03-22 |
@@ -486,6 +486,7 @@
 | [NOBODY KNOW](https://open.spotify.com/track/5Dg5iu5kzOP7Cdp6DT9jCF) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [ODABO](https://open.spotify.com/album/4RHU8YObN5ELcnHs4IVeXR) | 3:17 | 2025-02-14 |  |
 | [Not Today](https://open.spotify.com/track/7bOGIPpwqj0USnIgOiasil) | [The Continent\. Live](https://open.spotify.com/artist/3kLjyGr4QxbGCZisf1qfvc), [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb), [Emmyzain](https://open.spotify.com/artist/4guSmoI7enA2IiJzxgxKWa), [Reinna](https://open.spotify.com/artist/3DQvr4jxZCbGY8yjT3JsiL) | [The Continent Live: First Class Vol\. 1](https://open.spotify.com/album/04XOyfHHNmpBJNmS3p3TrD) | 2:50 | 2024-03-15 | 2024-05-03 |
 | [Nowhere To Hide](https://open.spotify.com/track/6GnIaawrUwU0Agm7BM1wFu) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Nowhere To Hide](https://open.spotify.com/album/2wRqnd7i4JjVkvqypSCIeH) | 3:15 | 2022-07-21 | 2023-02-26 |
+| [NUMBER ONE \(feat\. Minz\)](https://open.spotify.com/track/1uOd46FEiW7ritNBNgNdBK) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [NUMBER ONE \(feat\. Minz\)](https://open.spotify.com/album/7qsbzgt7rxG82wr7qi0v6T) | 4:03 | 2025-04-04 |  |
 | [Obianuju](https://open.spotify.com/track/2zFg0GwpMzDaob8vfmOm7y) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Pace](https://open.spotify.com/album/1uCiEjIJMG143YJoPwQ8yI) | 2:58 | 2024-12-06 |  |
 | [Obianuju](https://open.spotify.com/track/12n8d0AfedBQysTcN4Tg6W) | [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Legacy \(Ahamefuna\)](https://open.spotify.com/album/5qfyyCq5qZYIlpeBhE0Bl2) | 3:41 | 2024-02-13 | 2024-02-16 |
 | [Obsessed](https://open.spotify.com/track/0bHVQDfkxCU4JOTIRBbNgR) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Riddim 5](https://open.spotify.com/album/5OED0Qq75DgxN7XxWvvcAV) | 2:44 | 2022-02-11 | 2022-08-26 |

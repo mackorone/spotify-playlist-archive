@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,419 songs - 3 day 9 hr 54 min
+1,420 songs - 3 day 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Children Of A Dream](https://open.spotify.com/track/78szFBOcvKZXQBghsXX7wn) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [PYNNO](https://open.spotify.com/artist/0FDAowft7CTLIjbXOHKQki), [Kirrah Amosa](https://open.spotify.com/artist/2ch4zP1mOblJAgNC1H70B8) | [Children Of A Dream](https://open.spotify.com/album/0NrBgMPszhROIvOnJoRbfv) | 2:57 | 2020-09-07 | 2020-10-30 |
 | [Chills \(Feel My Love\)](https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Chills \(Feel My Love\)](https://open.spotify.com/album/5D3qYKt4IFBEQENqzzlh1Y) | 2:43 | 2024-07-26 |  |
 | [City Of Love](https://open.spotify.com/track/4mUJ5LUrEYm12deebNCZSA) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Selah Sol](https://open.spotify.com/artist/3ZnFOxqZB6PMOGElerc68j) | [City Of Love](https://open.spotify.com/album/3OR26UvHzUczbMM2uWCYC0) | 2:46 | 2023-02-01 |  |
+| [Clarity](https://open.spotify.com/track/1BGHqgCLlqyou3h78bXeyd) | [ROZET](https://open.spotify.com/artist/4LyGWqMGeTHfJXbKQmk6YY) | [HEAD](https://open.spotify.com/album/34RlwYaHmnJhOUJ5NTAb97) | 3:40 | 2025-03-21 |  |
 | [Clorofilla](https://open.spotify.com/track/5fEaRorZZ7qMwESQEagah4) | [DNKNN](https://open.spotify.com/artist/47iimZuHMv8dMPxoy4n4Vg) | [Clorofilla](https://open.spotify.com/album/4Pouxi2Zw9TakGfTfe5VKV) | 3:46 | 2020-06-04 | 2021-09-11 |
 | [Close My Eyes \- Don Diablo Edit](https://open.spotify.com/track/5whHivUi23obAx8lnZyDdg) | [Corderoy](https://open.spotify.com/artist/4pUete0Q9UKRB0mOvANycP), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Close My Eyes \(Don Diablo Edit\)](https://open.spotify.com/album/1Vdz0zzrkdfkmmnoIMp0BF) | 4:42 | 2019-08-09\* | 2021-07-31 |
 | [close to you](https://open.spotify.com/track/2a657moilAHrsI75o595Mz) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [close to you](https://open.spotify.com/album/24JnGLaMQtaML78QIjNuM7) | 3:56 | 2025-01-10 |  |
@@ -1203,7 +1204,7 @@
 | [The One](https://open.spotify.com/track/4LfJbl62cw3nr0POfs8Yy5) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [DRMVRSE](https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb) | 3:06 | 2022-09-16 | 2023-06-17 |
 | [The One](https://open.spotify.com/track/4cJgvZZA3MQehYG5neeJRp) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [The One](https://open.spotify.com/album/1pwdgZDc9u1jeoMNLdaMJk) | 3:06 | 2022-07-29 | 2022-09-18 |
 | [The One](https://open.spotify.com/track/7yf3dIN6aqqHmi82ftMIRU) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [The One](https://open.spotify.com/album/3PWkN6LXpJ5Q3f8BCVzP8k) | 3:06 | 2022-05-13 | 2022-08-27 |
-| [The One \(feat\. ARA\)](https://open.spotify.com/track/0W44iKwnweZAID1cCMw3B5) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [ARA](https://open.spotify.com/artist/2hhItOB9DuMhxXkU26wgZK) | [The One \(feat\. ARA\)](https://open.spotify.com/album/3sew2wh9h3aeNeVkrhZPAp) | 2:57 | 2023-03-31 |  |
+| [The One \(feat\. ARA\)](https://open.spotify.com/track/0W44iKwnweZAID1cCMw3B5) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [ARA](https://open.spotify.com/artist/2hhItOB9DuMhxXkU26wgZK) | [The One \(feat\. ARA\)](https://open.spotify.com/album/3sew2wh9h3aeNeVkrhZPAp) | 2:57 | 2023-03-31 | 2025-04-05 |
 | [The Rope \(feat\. POLIÇA\) \- Le Youth Remix](https://open.spotify.com/track/7toata3kAxgvAPer5XCwHE) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [The Rope](https://open.spotify.com/album/3V1XuaywmPel3z1iw4tAfY) | 4:39 | 2020-03-30 | 2021-09-25 |
 | [The Scientist](https://open.spotify.com/track/5aynOMgD0cXpcq8MJXkWjH) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [The Scientist](https://open.spotify.com/album/2kcP8pCXX2MiXTN2SmBKCo) | 4:42 | 2019-08-09\* | 2019-09-14 |
 | [The Stand Off \(feat\. Hayley May\)](https://open.spotify.com/track/5TxK2YCHTgX1NIKFQRcHJM) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Adam Griffin](https://open.spotify.com/artist/7nttDj0mkM2evqtn8XzYiO), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [The Stand Off \(feat\. Hayley May\)](https://open.spotify.com/album/6vToI7dIpq7Wv6EbpdWOS1) | 2:40 | 2019-08-20 | 2020-10-30 |

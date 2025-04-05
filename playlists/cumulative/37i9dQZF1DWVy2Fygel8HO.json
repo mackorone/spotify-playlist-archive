@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Celandine",
+        "url": "https://open.spotify.com/album/6nwjj72G7P6AjnMACNl8Qe"
+      },
+      "artists": [
+        {
+          "name": "Aldo Talete",
+          "url": "https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190333,
+      "name": "Celandine",
+      "url": "https://open.spotify.com/track/5jQYFxt77oQWFQXbok9jcq"
+    },
+    {
+      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/4DZ886WDUnLriERKMmAbt8"
       },
@@ -870,6 +888,24 @@
       "duration_ms": 186000,
       "name": "Falling",
       "url": "https://open.spotify.com/track/4E8wWBFP9pcapPCwhaweEu"
+    },
+    {
+      "album": {
+        "name": "Fernweh",
+        "url": "https://open.spotify.com/album/4UDwsawToHCgtQgNNGT8rd"
+      },
+      "artists": [
+        {
+          "name": "Cole Neumann",
+          "url": "https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124730,
+      "name": "Fernweh",
+      "url": "https://open.spotify.com/track/2ZiPXDK7uxEQtvlPwyQn5a"
     },
     {
       "album": {

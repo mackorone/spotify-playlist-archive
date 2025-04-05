@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Big Noter
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,893 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,902 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [IDENTITY](https://open.spotify.com/track/2sMbNh0yhdzUi0f4Y9DGuV) | [Big Noter](https://open.spotify.com/artist/3wuLSOv0CPHw4s22TIIN0B) | [IDENTITY](https://open.spotify.com/album/5I5Z5PckRfqeq5A9zdvuQh) | 3:24 |
+| 1 | [IDENTITY](https://open.spotify.com/track/2sMbNh0yhdzUi0f4Y9DGuV) | [BIG NOTER](https://open.spotify.com/artist/3wuLSOv0CPHw4s22TIIN0B) | [IDENTITY](https://open.spotify.com/album/5I5Z5PckRfqeq5A9zdvuQh) | 3:24 |
 | 2 | [Roundabout](https://open.spotify.com/track/4t2JCPEeCHZeRfsyVBNEZd) | [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Roundabout](https://open.spotify.com/album/20qSwY5Of1dCr5cjx9zYzp) | 3:45 |
 | 3 | [Acetone](https://open.spotify.com/track/5e8ytXfDMAOfXmppQrPbxo) | [Coast Arcade](https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC) | [Acetone](https://open.spotify.com/album/7scQVrEtlwLlH35SvkHgnu) | 4:23 |
 | 4 | [Best Behaviour](https://open.spotify.com/track/4VfESsDnsj5mIxPlnsY74Y) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Best Behaviour](https://open.spotify.com/album/4P8TDzqsxvNYb9PwviFJzJ) | 3:16 |

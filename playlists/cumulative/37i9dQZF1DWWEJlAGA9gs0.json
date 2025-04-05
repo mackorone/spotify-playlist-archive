@@ -3833,36 +3833,6 @@
     },
     {
       "album": {
-        "name": "Tchaikovsky: Piano Concerto No. 1; The Nutcracker Suite",
-        "url": "https://open.spotify.com/album/1ROWEd9Ni60Rcf3KC9w51h"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Martha Argerich",
-          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        }
-      ],
-      "date_added": "2024-11-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 378000,
-      "name": "Piano Concerto No. 1 in B-Flat Minor, Op. 23, TH 55: III. Allegro con fuoco - Live",
-      "url": "https://open.spotify.com/track/2N6vxKRMR6jU2wg9O5RAeg"
-    },
-    {
-      "album": {
         "name": "Tchaikovsky: Piano Concerto No. 1",
         "url": "https://open.spotify.com/album/6CGw0GbQ3PyJhXxHlBVjSk"
       },
@@ -3938,6 +3908,36 @@
       "duration_ms": 1252605,
       "name": "Piano Concerto No. 1 in B-Flat Minor, Op. 23: I. Allegro non troppo e molto maestoso - Allegro con spirito",
       "url": "https://open.spotify.com/track/1LsVhKuf7RyZYQF17yfhbJ"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Piano Concerto No. 1; The Nutcracker Suite (For 2 Pianos)",
+        "url": "https://open.spotify.com/album/1ROWEd9Ni60Rcf3KC9w51h"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2024-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378000,
+      "name": "Piano Concerto No. 1 in B-Flat Minor, Op. 23: III. Allegro con fuoco \u2013 Molto meno mosso \u2013 Allegro vivo - Live",
+      "url": "https://open.spotify.com/track/2N6vxKRMR6jU2wg9O5RAeg"
     },
     {
       "album": {

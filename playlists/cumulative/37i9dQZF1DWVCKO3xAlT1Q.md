@@ -4,7 +4,7 @@
 
 > The official Eurovision Song Contest 2025 playlist.
 
-75 songs - 3 hr 41 min
+76 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Baller](https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD) | [Abor & Tynna](https://open.spotify.com/artist/58xrjO7pWlfj2C2uksXScP) | [Bittersüß](https://open.spotify.com/album/0PrVmVD88Xk509v7BOT6a2) | 2:39 | 2025-03-02 |  |
 | [Bara Bada Bastu](https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Bara Bada Bastu](https://open.spotify.com/album/2zjk45mVWiAZILHTUmR0ON) | 2:46 | 2025-03-09 |  |
 | [BEFORE THE PARTY'S OVER](https://open.spotify.com/track/1A4pbfIyAuyZkIrRr4tK2X) | [Mustii](https://open.spotify.com/artist/3sHtPJJi41P65J7EGRG2r1) | [BEFORE THE PARTY'S OVER](https://open.spotify.com/album/04IXV3BmIQDVJA6LlI0BLq) | 2:59 | 2024-05-11 | 2025-03-01 |
-| [Bird of Pray \- Vidbir 2025](https://open.spotify.com/track/0YM3CotMLnoTBVwMCJzYeV) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Bird of Pray \(Vidbir 2025\)](https://open.spotify.com/album/2zFjd5mjFDv6LKG1wpV9rM) | 2:59 | 2025-02-28 |  |
+| [Bird of Pray \- Eurovision 2025](https://open.spotify.com/track/5lmoGiZquqsW9sNxJQGRHn) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Bird of Pray \(Eurovision 2025\)](https://open.spotify.com/album/7ipNGl84BdLCYkcOm0fToR) | 3:00 | 2025-04-04 |  |
+| [Bird of Pray \- Vidbir 2025](https://open.spotify.com/track/0YM3CotMLnoTBVwMCJzYeV) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Bird of Pray \(Vidbir 2025\)](https://open.spotify.com/album/2zFjd5mjFDv6LKG1wpV9rM) | 2:59 | 2025-02-28 | 2025-04-05 |
 | [Bur man laimi](https://open.spotify.com/track/6oGrwxJItvG261mLBk6DmK) | [Tautumeitas](https://open.spotify.com/artist/65Q6uD7cHhu4QYbGxEU9dF) | [Bur man laimi](https://open.spotify.com/album/0uiDNzus7TjUtTl45qL07g) | 2:58 | 2025-02-28 |  |
 | [C'est La Vie](https://open.spotify.com/track/0b9RNAzGtDRRMQS1cF9HXT) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [C'est La Vie](https://open.spotify.com/album/1FGfkxrv2RIPNjQgXCt8p0) | 2:40 | 2025-02-28 |  |
 | [Deslocado](https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu) | [Deslocado](https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R) | 2:59 | 2025-03-11 |  |

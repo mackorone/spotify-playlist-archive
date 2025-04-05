@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: MAJA
 
-412 songs - 19 hr 56 min
+413 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [azs](https://open.spotify.com/track/2vq6rl7RArxCQvz4mJs7bC) | [Dafeat](https://open.spotify.com/artist/2Ujn6zr81UqOdSN8tvOjLA), [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [azs](https://open.spotify.com/album/1q4eCy4H5R0uZcVLLx5NOv) | 2:44 | 2024-11-07 | 2024-11-22 |
 | [Aż Będziesz Wiedzieć](https://open.spotify.com/track/4AvHEHhWzVYtda38KLWEkM) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Tylko Lepiej EP](https://open.spotify.com/album/40hXd3kTwv8wF9iVxQLKHC) | 2:27 | 2024-09-19 | 2025-01-24 |
 | [Aż tyle](https://open.spotify.com/track/5hp9lT0MmUOB7EwDVhNMQL) | [the small town kids](https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk), [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [Aż tyle](https://open.spotify.com/album/3Lg2ZQ0qbLM9zr1e85ZabV) | 2:16 | 2024-09-27 | 2025-01-24 |
-| [aż zrozumiesz](https://open.spotify.com/track/2xP5xhtfisju7OIMygfNNL) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [aż zrozumiesz](https://open.spotify.com/album/10eUUfLaohBIrXd4zZL0Ll) | 3:21 | 2025-03-20 |  |
+| [aż zrozumiesz](https://open.spotify.com/track/2xP5xhtfisju7OIMygfNNL) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [aż zrozumiesz](https://open.spotify.com/album/10eUUfLaohBIrXd4zZL0Ll) | 3:21 | 2025-03-20 | 2025-04-05 |
 | [babcia sprzedała sie za propozycje fotowoltaiki](https://open.spotify.com/track/0BvrkxIZfPZ3JrAVH5bCFi) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu) | [babcia sprzedała sie za propozycje fotowoltaiki](https://open.spotify.com/album/7wWJ8WQeKaxi0y2FMhJt1l) | 2:06 | 2024-07-25 | 2024-10-12 |
 | [BABY](https://open.spotify.com/track/5hUhAExayqsD6U8gzZ9Gk5) | [Tatiana Kopala](https://open.spotify.com/artist/6vCgCKcijaRVMDq5HfkkPn) | [BABY](https://open.spotify.com/album/4uqDEnsLv5T2wrKFO5RDb9) | 2:16 | 2024-06-28 | 2024-07-27 |
 | [Babydoll \(feat\. Aliyah’s Interlude\)](https://open.spotify.com/track/4Xgy6XFSLcfkfCFjkoykwM) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ), [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [Babydoll \(feat\. Aliyah’s Interlude\)](https://open.spotify.com/album/6uNMTjRSkWvWmynCwwWkcc) | 2:30 | 2025-02-27 |  |
@@ -101,6 +101,7 @@
 | [Do widzenia](https://open.spotify.com/track/00rhQ7q9oJoVnyKCnh4XkO) | [Kingska](https://open.spotify.com/artist/4ljnkCys9QaDstkxb54Z8N) | [Do widzenia](https://open.spotify.com/album/7wJEkhd5SuRwCwRSNBkfft) | 2:32 | 2025-01-09 | 2025-01-24 |
 | [Dom](https://open.spotify.com/track/7fSOxNZk4L5pY6dFri7BRA) | [PHERO](https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM) | [Dom](https://open.spotify.com/album/1VwPmTAsUEOtfJ8hUhNdKF) | 3:04 | 2024-11-07 | 2025-01-24 |
 | [Droga na szczyt](https://open.spotify.com/track/22BWCcf3TRftAfP71zauxf) | [Roxi](https://open.spotify.com/artist/6ow2wx3HMUNE74wndNKUyw) | [Droga na szczyt](https://open.spotify.com/album/2CtcBO4momVTAkA3cP3cGF) | 2:45 | 2024-08-30 | 2024-09-20 |
+| [Duch](https://open.spotify.com/track/6rWIDZ3kqUuGYPvR68wuER) | [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [Pomiędzy](https://open.spotify.com/album/6CXy0mzT8UGklAJXykNtHY) | 3:00 | 2025-04-03 |  |
 | [Dwa Tygodnie](https://open.spotify.com/track/3JmQQfMfhJdQEeMp3T8Txd) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Instalacja I](https://open.spotify.com/album/3HB7pBioWew0y3VogkkUVw) | 2:45 | 2024-07-18 | 2024-11-08 |
 | [Działasz na mnie jak](https://open.spotify.com/track/7humurIbO0Dwd790y0SQ4b) | [Elena](https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn) | [Działasz na mnie jak](https://open.spotify.com/album/4DVzebGjBJ6lZEAI93927m) | 2:09 | 2025-02-13 | 2025-02-28 |
 | [DZIEWCZYNA Z PLAKATU](https://open.spotify.com/track/76oBCUbZ0Pi2Zie2HzJzYM) | [Cyrko](https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL) | [DZIEWCZYNA Z PLAKATU](https://open.spotify.com/album/6fdEQop9ZUjRZNNLI2Cchv) | 2:39 | 2024-10-11 | 2025-01-24 |

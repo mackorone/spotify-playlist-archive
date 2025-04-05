@@ -4,7 +4,7 @@
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Reboll333
 
-116 songs - 6 hr 19 min
+118 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Macaroni](https://open.spotify.com/track/1fvectJae9RagHJqiOHNrl) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Macaroni](https://open.spotify.com/album/4p33iikBxMotuZjXAzRAla) | 2:48 | 2021-10-15 | 2022-08-20 |
 | [Makin Noi](https://open.spotify.com/track/1hIHfZuUxL9cqUAat01bQm) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [Makin Noi](https://open.spotify.com/album/5Osdpx6HZWNnE8l5MjCwQs) | 2:42 | 2024-01-12 | 2024-06-29 |
 | [Me Dejé Llevar](https://open.spotify.com/track/3Mc2Y3qgBL5WsQWjch3VVK) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Me Dejé Llevar](https://open.spotify.com/album/6xXpnfndZYsh8F5Tvtus5e) | 2:24 | 2022-01-28 | 2025-02-08 |
+| [Mi Imperio Romano](https://open.spotify.com/track/6Nl1sPqRe3H2ovczhCifYJ) | [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [FineSound Music](https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh) | [Mi Imperio Romano](https://open.spotify.com/album/0VYYcdYzRwFV8IXLWdn9RF) | 3:18 | 2025-04-04 |  |
 | [Mil Curitas](https://open.spotify.com/track/4VNLSG0SHlSrFPvBiFA9ks) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Cassette](https://open.spotify.com/album/2lTCkJLh11fjo87tpgm8GQ) | 2:16 | 2022-04-08 | 2022-09-03 |
 | [Negro](https://open.spotify.com/track/1oiQSttaF5b3ZI5masPw6i) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Negro](https://open.spotify.com/album/43q3UPszpuNHz8gBFwKBtg) | 3:17 | 2021-10-15 |  |
 | [Negro](https://open.spotify.com/track/3QS73YxMlbbqHvZQhp1WNH) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Negro](https://open.spotify.com/album/2jRVG4AZf6eFLc9Y1ELdgq) | 3:17 | 2023-12-01 | 2024-04-19 |
@@ -120,6 +121,7 @@
 | [Tóxicos](https://open.spotify.com/track/2wpx54FlGSt49tYeyIK8Wd) | [Asmir Young](https://open.spotify.com/artist/2oUCnlGXMjbBgRBab3vb8E), [JOTA](https://open.spotify.com/artist/4ICS3tvd4Uo6Xq4HUZ9fEG) | [Tóxicos](https://open.spotify.com/album/040GdsK6ir3uWzYUE0quT5) | 2:57 | 2022-04-08 | 2022-07-29 |
 | [Tóxicos](https://open.spotify.com/track/3d3Fm6zl1r92THmUESENbW) | [Asmir Young](https://open.spotify.com/artist/2oUCnlGXMjbBgRBab3vb8E), [JOTA](https://open.spotify.com/artist/4ICS3tvd4Uo6Xq4HUZ9fEG) | [Años Luz](https://open.spotify.com/album/0ohYJclEYAy8q6SkYAbXAR) | 2:57 | 2022-04-08 | 2022-09-03 |
 | [VICE](https://open.spotify.com/track/5cEKOjsX3RhJZ5PM6SUSei) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [VICE](https://open.spotify.com/album/3KdT1P24jy6A1n8N6juvxy) | 2:41 | 2023-03-02 |  |
+| [Véla](https://open.spotify.com/track/1P9P1VwinHyUF2HfsIeZtF) | [Mazio](https://open.spotify.com/artist/5eRJQkfQ1KVZyNoMHZIm2l) | [Véla](https://open.spotify.com/album/2DqWqfgUSM4deAUDDZoYwi) | 2:45 | 2025-04-04 |  |
 | [Wherever I May Roam](https://open.spotify.com/track/7qCHqtiSiX3T09ErW718yQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Wherever I May Roam](https://open.spotify.com/album/0WNfOMxwCMjYOjDWlGsgNA) | 2:38 | 2021-10-15 | 2022-04-09 |
 | [WOW](https://open.spotify.com/track/4I9U5XBHs37jV9pRo3VLTa) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [WOW](https://open.spotify.com/album/22eepM8FdWx13R7aGAO1gH) | 2:51 | 2021-10-15 | 2024-08-24 |
 | [Ziploc \(Blessd Version\)](https://open.spotify.com/track/3JYw9n3rJTVQryVz1rwlH4) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Siempre Blessd](https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4) | 3:56 | 2022-11-03 |  |

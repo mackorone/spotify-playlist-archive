@@ -1,13 +1,29 @@
 {
   "description": "The best of modern blues rock. Cover: Samantha Fish",
-  "num_followers": 232956,
+  "num_followers": 233044,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+Ye3wAAAADfwgcLaiBldGtRq/SMg2Qe",
+  "snapshot_id": "Z+9ZTQAAAAAqLpwZxNPbmJzBeX/3ftP6",
   "tracks": [
+    {
+      "added_at": "2025-04-04 04:00:13",
+      "album": {
+        "name": "Can Ya Handle The Heat?",
+        "url": "https://open.spotify.com/album/1OVvAY4Xa0sAIPVtej7K8S"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "duration_ms": 174430,
+      "name": "Can Ya Handle The Heat?",
+      "url": "https://open.spotify.com/track/7bQsyY4627F3Xg05RtvzgP"
+    },
     {
       "added_at": "2025-03-14 04:00:06",
       "album": {
@@ -75,22 +91,6 @@
       "duration_ms": 182306,
       "name": "Keep On Running",
       "url": "https://open.spotify.com/track/0sh3WNOdK56aUd7uUR8qTk"
-    },
-    {
-      "added_at": "2025-02-14 05:00:14",
-      "album": {
-        "name": "Sweet Southern Sounds",
-        "url": "https://open.spotify.com/album/6eAO9mBoyOKyh8CLcopqzB"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        }
-      ],
-      "duration_ms": 301430,
-      "name": "Sweet Southern Sounds",
-      "url": "https://open.spotify.com/track/0MSeSaQgYPbcDcvsUMNA0d"
     },
     {
       "added_at": "2025-03-14 04:00:06",
