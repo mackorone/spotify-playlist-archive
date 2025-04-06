@@ -9865,6 +9865,24 @@
     },
     {
       "album": {
+        "name": "Hayat \u015ea\u015f\u0131rt\u0131r!",
+        "url": "https://open.spotify.com/album/3apM8VTMPcxfc2ogK3xP4G"
+      },
+      "artists": [
+        {
+          "name": "Aydilge",
+          "url": "https://open.spotify.com/artist/0cjA9XY1jx3RlniZbMkCWy"
+        }
+      ],
+      "date_added": "2025-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205699,
+      "name": "Hayat \u015ea\u015f\u0131rt\u0131r!",
+      "url": "https://open.spotify.com/track/2IPxsVjAkqoFXrzwGwUVia"
+    },
+    {
+      "album": {
         "name": "Hayat\u0131m Kaym\u0131\u015f",
         "url": "https://open.spotify.com/album/0glBp4JJvAthxFRfklMOde"
       },
@@ -10320,7 +10338,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 256173,
       "name": "Herkesin Bir Derdi Var (Cerrahpa\u015fa)",
       "url": "https://open.spotify.com/track/64VsL24YXDx46V9gMCK2CY"
@@ -17848,7 +17866,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 196800,
       "name": "Saklad\u0131\u011f\u0131n Bir \u015eeyler Var",
       "url": "https://open.spotify.com/track/6t18CcJVpnFAoWfcZxiZtk"
@@ -21406,7 +21424,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-05",
+      "date_removed": null,
       "duration_ms": 263866,
       "name": "Yarim Yarim",
       "url": "https://open.spotify.com/track/6tXzYIjN0OsHWwMPNU6GVN"

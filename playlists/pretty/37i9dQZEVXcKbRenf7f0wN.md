@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcKbRenf7f0wN.md) - [plain]
 | 7 | [Out In The Fields](https://open.spotify.com/track/0deI3lZkgbVt6wRsv5s0Ev) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j), [Phil Lynott](https://open.spotify.com/artist/7yVrX2XZQ8eaRiD1ykz0H7) | [Run For Cover](https://open.spotify.com/album/5L7OArC51NP8i6EswjugZI) | 4:17 |
 | 8 | [Spiritual Healing](https://open.spotify.com/track/7lylZyx3PtBVq9YpioPVMD) | [Death](https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn) | [Spiritual Healing](https://open.spotify.com/album/01N3tlCCUZWmhAI73e6iid) | 7:44 |
 | 9 | [Snakes For The Divine](https://open.spotify.com/track/4dT9raTvZyaeUnNC3qdTXB) | [High On Fire](https://open.spotify.com/artist/1eiIIImNeUj3vpaocWqoOf) | [Snakes For The Divine \(Bonus Track Edition\)](https://open.spotify.com/album/7kVt6YRimlgqd4jctQ3uT0) | 8:23 |
-| 10 | [Witchfinder General](https://open.spotify.com/track/5MKWBMhuo3kXooj32DSQA1) | [Witchfinder General](https://open.spotify.com/artist/1QqtUGvZnULbTYLj6y69vO) | [Death Penalty](https://open.spotify.com/album/3kMiJbYJmYbErjtv9Bnihe) | 3:51 |
+| 10 | [Witchfinder General](https://open.spotify.com/track/5MKWBMhuo3kXooj32DSQA1) | [Witchfinder General](https://open.spotify.com/artist/3tDg9XbUbQS0dbaSnFNvvk) | [Death Penalty](https://open.spotify.com/album/3kMiJbYJmYbErjtv9Bnihe) | 3:51 |
 | 11 | [Miss You](https://open.spotify.com/track/2vtIydWBcUBvlJfRZ4kRrq) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [Golgotha](https://open.spotify.com/album/6yzU8QYj6od609Pu17e7kP) | 7:41 |
 | 12 | [Come on Eileen](https://open.spotify.com/track/4Z4xFENnvMnRDPpAx5wpaO) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [It Means Everything](https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS) | 4:09 |
 | 13 | [From the Beginning](https://open.spotify.com/track/1rw12PalmC8IDoygHT3fm1) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Trilogy](https://open.spotify.com/album/1VHLlFuKZYLVhnLanVzJxF) | 4:16 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcKbRenf7f0wN.md) - [plain]
 | 29 | [Burn in Hell](https://open.spotify.com/track/0TT5rG6JOdzv5FkujZ4O9B) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Puritanical Euphoric Misanthropia](https://open.spotify.com/album/6sDdbLoIOzGwR61lL2jGN2) | 5:05 |
 | 30 | [Psalm 9 \- Remastered 2020](https://open.spotify.com/track/1OPXYIHuDMfhmXccXOQIo4) | [Trouble](https://open.spotify.com/artist/0eayuW5zGMgvXCEmcP7ivq) | [Psalm 9 \(Remastered 2020\)](https://open.spotify.com/album/36Ml1dybEUn95Ka3f6c3hn) | 4:48 |
 
-Snapshot ID: `Z+oFMAAAAADbOolZYkMvg9Y6oUDsZ/Cr`
+Snapshot ID: `Z+oFMAAAAAANCTkOoQLLwxBO5VP48Nq6`

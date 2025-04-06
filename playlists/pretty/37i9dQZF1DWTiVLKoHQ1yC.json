@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 234472,
+  "num_followers": 234580,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2025-04-03 23:00:32",
       "album": {
-        "name": "Last Night",
-        "url": "https://open.spotify.com/album/61FSTdvDNl2fNqdGKTrXib"
-      },
-      "artists": [
-        {
-          "name": "Rivo",
-          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
-        }
-      ],
-      "duration_ms": 222786,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/2fr3zUXQFLztUhpfBu6Wpq"
-    },
-    {
-      "added_at": "2025-04-03 23:00:32",
-      "album": {
         "name": "A Gira",
         "url": "https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 152325,
       "name": "A Gira",
       "url": "https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex"
+    },
+    {
+      "added_at": "2025-04-03 23:00:32",
+      "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/61FSTdvDNl2fNqdGKTrXib"
+      },
+      "artists": [
+        {
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+        }
+      ],
+      "duration_ms": 222786,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/2fr3zUXQFLztUhpfBu6Wpq"
     },
     {
       "added_at": "2025-04-03 23:00:32",
@@ -767,42 +767,6 @@
     {
       "added_at": "2025-04-03 23:00:32",
       "album": {
-        "name": "Never Let Me Go",
-        "url": "https://open.spotify.com/album/1wZnDT6rUpSgPvrxpmfUA9"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 337258,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/461Usqeu4aQSrkm36xPvqN"
-    },
-    {
-      "added_at": "2025-04-03 23:00:32",
-      "album": {
-        "name": "Hiding",
-        "url": "https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 222092,
-      "name": "Hiding",
-      "url": "https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw"
-    },
-    {
-      "added_at": "2025-04-03 23:00:32",
-      "album": {
         "name": "Like You",
         "url": "https://open.spotify.com/album/1K6suHCZSSwuZucm6H8ypP"
       },
@@ -827,6 +791,26 @@
     {
       "added_at": "2025-04-03 23:00:32",
       "album": {
+        "name": "Hiding",
+        "url": "https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 222092,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw"
+    },
+    {
+      "added_at": "2025-04-03 23:00:32",
+      "album": {
         "name": "Endlessly",
         "url": "https://open.spotify.com/album/1xxj3i8zJ8a9mFIf23ymLv"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 217377,
       "name": "Endlessly",
       "url": "https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP"
+    },
+    {
+      "added_at": "2025-04-03 23:00:32",
+      "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/1wZnDT6rUpSgPvrxpmfUA9"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 337258,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/461Usqeu4aQSrkm36xPvqN"
     },
     {
       "added_at": "2025-04-03 23:00:32",
@@ -867,26 +867,18 @@
     {
       "added_at": "2025-04-03 23:00:32",
       "album": {
-        "name": "Resonate (feat. Julia Church)",
-        "url": "https://open.spotify.com/album/7r9LSib4rKpvAS9hTRt1QJ"
+        "name": "Throwing Stones",
+        "url": "https://open.spotify.com/album/1oqD3HkCzU48MmKANuFb6c"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
         }
       ],
-      "duration_ms": 241846,
-      "name": "Resonate (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/2pvQCbUnXHOpAcJOkgAYmZ"
+      "duration_ms": 219678,
+      "name": "Throwing Stones",
+      "url": "https://open.spotify.com/track/1IWIcqxOyoCDnzRHKTc1F5"
     },
     {
       "added_at": "2025-04-03 23:00:32",
@@ -923,18 +915,42 @@
     {
       "added_at": "2025-04-03 23:00:32",
       "album": {
-        "name": "Throwing Stones",
-        "url": "https://open.spotify.com/album/1oqD3HkCzU48MmKANuFb6c"
+        "name": "Resonate (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/7r9LSib4rKpvAS9hTRt1QJ"
       },
       "artists": [
         {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
         }
       ],
-      "duration_ms": 219678,
-      "name": "Throwing Stones",
-      "url": "https://open.spotify.com/track/1IWIcqxOyoCDnzRHKTc1F5"
+      "duration_ms": 241846,
+      "name": "Resonate (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/2pvQCbUnXHOpAcJOkgAYmZ"
+    },
+    {
+      "added_at": "2025-04-03 23:00:32",
+      "album": {
+        "name": "Sunrise To The Morning",
+        "url": "https://open.spotify.com/album/2V4T76ceB2EAjQf1optzOn"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Sunrise To The Morning",
+      "url": "https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF"
     },
     {
       "added_at": "2025-04-03 23:00:32",
@@ -955,22 +971,6 @@
       "duration_ms": 226048,
       "name": "Nothing Ever Changes",
       "url": "https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI"
-    },
-    {
-      "added_at": "2025-04-03 23:00:32",
-      "album": {
-        "name": "Sunrise To The Morning",
-        "url": "https://open.spotify.com/album/2V4T76ceB2EAjQf1optzOn"
-      },
-      "artists": [
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Sunrise To The Morning",
-      "url": "https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF"
     },
     {
       "added_at": "2025-04-03 23:00:32",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2025-04-03 23:00:32",
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/7jLwbeWUr2NVz7fZmX6rRb"
+      },
+      "artists": [
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        },
+        {
+          "name": "GIVVEN",
+          "url": "https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly"
+        }
+      ],
+      "duration_ms": 395500,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/5lGgglkaWaFS5g0yRlqeV7"
+    },
+    {
+      "added_at": "2025-04-03 23:00:32",
+      "album": {
         "name": "Kendall Park",
         "url": "https://open.spotify.com/album/6wp9Rv4sM3NOfTaEzxY1pf"
       },
@@ -1123,26 +1143,6 @@
     {
       "added_at": "2025-04-03 23:00:32",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/7jLwbeWUr2NVz7fZmX6rRb"
-      },
-      "artists": [
-        {
-          "name": "Klangkarussell",
-          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
-        },
-        {
-          "name": "GIVVEN",
-          "url": "https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly"
-        }
-      ],
-      "duration_ms": 395500,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/5lGgglkaWaFS5g0yRlqeV7"
-    },
-    {
-      "added_at": "2025-04-03 23:00:32",
-      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/2m4l1KffyARA2MSaAJhEKH"
       },
@@ -1155,22 +1155,6 @@
       "duration_ms": 222857,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/7GJz7LUlNyf5DahBhG1XIg"
-    },
-    {
-      "added_at": "2025-04-03 23:00:32",
-      "album": {
-        "name": "Only Human",
-        "url": "https://open.spotify.com/album/0yRBPG7n4gLI1ZZ1OrH1vp"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 205833,
-      "name": "Only Human",
-      "url": "https://open.spotify.com/track/22uFagCnhvRwZ0zM1OtYbO"
     },
     {
       "added_at": "2025-04-03 23:00:32",
@@ -1195,6 +1179,42 @@
     {
       "added_at": "2025-04-03 23:00:32",
       "album": {
+        "name": "Only Human",
+        "url": "https://open.spotify.com/album/0yRBPG7n4gLI1ZZ1OrH1vp"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 205833,
+      "name": "Only Human",
+      "url": "https://open.spotify.com/track/22uFagCnhvRwZ0zM1OtYbO"
+    },
+    {
+      "added_at": "2025-04-03 23:00:32",
+      "album": {
+        "name": "State Of Mind",
+        "url": "https://open.spotify.com/album/3l1Cs2OVHkj5aLiFHyOlDg"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        }
+      ],
+      "duration_ms": 279120,
+      "name": "State Of Mind",
+      "url": "https://open.spotify.com/track/769a3KrWIeyqIeAsKSyq2Y"
+    },
+    {
+      "added_at": "2025-04-03 23:00:32",
+      "album": {
         "name": "Train of Thoughts",
         "url": "https://open.spotify.com/album/25ofOqJksQI5dd1ky79SBD"
       },
@@ -1207,30 +1227,6 @@
       "duration_ms": 206097,
       "name": "Train of Thoughts",
       "url": "https://open.spotify.com/track/1OoJQao2C0rvcUpr2BqgaM"
-    },
-    {
-      "added_at": "2025-04-03 23:00:32",
-      "album": {
-        "name": "Where's The Music Gone",
-        "url": "https://open.spotify.com/album/2gcKpdIcK8DTt99uPWZkxp"
-      },
-      "artists": [
-        {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "Pete Tong",
-          "url": "https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB"
-        },
-        {
-          "name": "Paul Rogers",
-          "url": "https://open.spotify.com/artist/6QkoiP5TNAX3xPGTYDLpAg"
-        }
-      ],
-      "duration_ms": 228496,
-      "name": "Where's The Music Gone",
-      "url": "https://open.spotify.com/track/0W2DNZ8ttfFvhlGCBgMq0s"
     }
   ],
   "unique_name": "Melodic & Euphoric",

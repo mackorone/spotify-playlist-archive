@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Juicce
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,431 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,435 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Connected](https://open.spotify.com/track/0vEG1losSiPHkoL6GQrG9x) | [Juicce](https://open.spotify.com/artist/63arbh8ZF2mvGFINe50Byi) | [Connected](https://open.spotify.com/album/27uRexjrQMOashAfxZuCM0) | 2:25 |
-| 2 | [Static](https://open.spotify.com/track/1mOfzqLMsP6DchvbFNKaHv) | [MRTNI](https://open.spotify.com/artist/0O8F8VzYUlBBnMU1TdaaCa), [Laau](https://open.spotify.com/artist/3s8bzEJ9jl1AvMHLNIXdNX) | [Static](https://open.spotify.com/album/7rfBYHKPPk1INwUs0uclpd) | 3:04 |
+| 2 | [Seek Your Truth \(A Vitória\)](https://open.spotify.com/track/4Naysy4HW10kgLxKsvmhMw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Ayrton Senna](https://open.spotify.com/artist/2oTPCYBrkHHoK4ERKw2wxQ) | [Seek Your Truth \(A Vitória\)](https://open.spotify.com/album/49dfWobQ8IgtxnLYB2OJJh) | 3:02 |
 | 3 | [Kikada](https://open.spotify.com/track/4RmjlmdNRXdSZs9cYiqcBS) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Kikada](https://open.spotify.com/album/05bGRP0xhmJMa0FIjgIPXK) | 3:03 |
 | 4 | [Brava](https://open.spotify.com/track/7zL9EbGsI8KKLUxUWT0ump) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [DJ Glen](https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd) | [Vintage Culture & Friends, Vol\. 6 \(Pt\. II\)](https://open.spotify.com/album/4oApPLzaCn1XO7689oABYP) | 5:27 |
 | 5 | [Vibe](https://open.spotify.com/track/1B02CC2kZAgs6yPgQH5qpk) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Vibe](https://open.spotify.com/album/4AsPHpiOavaG0a4X8wk85E) | 2:46 |
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 7 | [MarijuaNnNa](https://open.spotify.com/track/0JXGYHwFOGXdWYWWatSDVO) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv), [Stilo Magolide](https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA) | [MarijuaNnNa](https://open.spotify.com/album/4vG8zwik7tH9HpaTGvDFlR) | 3:40 |
 | 8 | [Champagne Bottle](https://open.spotify.com/track/31eW4SdIrJId1bnkxSCXb2) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [Mazzocchi](https://open.spotify.com/artist/3nMnwaOd4MPONzv5i46Wza) | [Champagne Bottle](https://open.spotify.com/album/3NMmBvaC3sZePl51vd6iof) | 1:58 |
 | 9 | [Fighting](https://open.spotify.com/track/1WD13O1Fxz8UfHKAmrbOp6) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Fighting](https://open.spotify.com/album/3CUd8OGMA8tGPOwMcWdNdh) | 2:28 |
-| 10 | [Cuerpo Pegado](https://open.spotify.com/track/5Aquk2RpKdwaMK7s6yFGLA) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Cuerpo Pegado EP](https://open.spotify.com/album/4eJUoi8EvwvCLtXSLmRHvq) | 4:07 |
-| 11 | [Seek Your Truth \(A Vitória\)](https://open.spotify.com/track/4Naysy4HW10kgLxKsvmhMw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Ayrton Senna](https://open.spotify.com/artist/2oTPCYBrkHHoK4ERKw2wxQ) | [Seek Your Truth \(A Vitória\)](https://open.spotify.com/album/49dfWobQ8IgtxnLYB2OJJh) | 3:02 |
+| 10 | [Static](https://open.spotify.com/track/1mOfzqLMsP6DchvbFNKaHv) | [MRTNI](https://open.spotify.com/artist/0O8F8VzYUlBBnMU1TdaaCa), [Laau](https://open.spotify.com/artist/3s8bzEJ9jl1AvMHLNIXdNX) | [Static](https://open.spotify.com/album/7rfBYHKPPk1INwUs0uclpd) | 3:04 |
+| 11 | [Infinity \(Bhaskar Remix\)](https://open.spotify.com/track/4ytfVjVEXfJIe0uZj4WoTF) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [Infinity \(Bhaskar Remix\)](https://open.spotify.com/album/1hQ4ooJU4Qof6MDgExzqbI) | 2:56 |
 | 12 | [Miami](https://open.spotify.com/track/0pUqMnvppzZqnmkTmlsCie) | [INDECK.](https://open.spotify.com/artist/0vkZ3GrLFGOe2rANGmmaYY) | [Miami](https://open.spotify.com/album/3kTdSQgAtS4hiY7QZH1iJ0) | 3:12 |
 | 13 | [Mad Max](https://open.spotify.com/track/3WOK3bugvtrDkh04XKUPEq) | [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh) | [Echoes of a Decade](https://open.spotify.com/album/5hbjXY9vfqoNptQKw64FzE) | 2:37 |
 | 14 | [REALITY](https://open.spotify.com/track/2FH95vGwiMrLK3UtqnOLUd) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg) | [REALITY](https://open.spotify.com/album/6aEaeRTSchD9QgL21EfjII) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Scarlett](https://open.spotify.com/track/2bT1KqGLDhPsS7uEPE4RMP) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Scarlett](https://open.spotify.com/album/0QjrIkeSfkGph8zija7vFv) | 3:12 |
 | 50 | [For](https://open.spotify.com/track/7FRc45XQCIZvXT1XziyWdG) | [Greggio](https://open.spotify.com/artist/5q0CEw8Nj1l5fR83EHRLR3), [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv) | [For](https://open.spotify.com/album/5hQPiyYmBNgH4hoosbqezG) | 3:03 |
 
-Snapshot ID: `Z+wD6gAAAABDzsmwg/iXg3f02jUB7FVT`
+Snapshot ID: `Z/FzkgAAAAAIrZO7V4JiHseNGAM7kNsY`

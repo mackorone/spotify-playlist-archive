@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 78251,
+  "num_followers": 78270,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
@@ -87,22 +87,6 @@
     {
       "added_at": "2025-02-14 07:09:03",
       "album": {
-        "name": "Maj\u00e2z",
-        "url": "https://open.spotify.com/album/6bYVfnQq7psGFlF6qSSsTA"
-      },
-      "artists": [
-        {
-          "name": "Le Trio Joubran",
-          "url": "https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI"
-        }
-      ],
-      "duration_ms": 296853,
-      "name": "Mas\u00e2r",
-      "url": "https://open.spotify.com/track/5FU96SFEwMyiKnLsPhoNuh"
-    },
-    {
-      "added_at": "2025-02-14 07:09:03",
-      "album": {
         "name": "Ya Tal3een",
         "url": "https://open.spotify.com/album/1P4QHZ8SJmX3ZXYP4w4E5F"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 203592,
       "name": "Ya Tal3een",
       "url": "https://open.spotify.com/track/1lUBzm6GAUlY9kovZifP9G"
+    },
+    {
+      "added_at": "2025-02-14 07:09:03",
+      "album": {
+        "name": "Maj\u00e2z",
+        "url": "https://open.spotify.com/album/6bYVfnQq7psGFlF6qSSsTA"
+      },
+      "artists": [
+        {
+          "name": "Le Trio Joubran",
+          "url": "https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI"
+        }
+      ],
+      "duration_ms": 296853,
+      "name": "Mas\u00e2r",
+      "url": "https://open.spotify.com/track/5FU96SFEwMyiKnLsPhoNuh"
     },
     {
       "added_at": "2025-02-14 07:09:03",
@@ -331,22 +331,6 @@
     {
       "added_at": "2025-02-14 07:09:03",
       "album": {
-        "name": "Weino",
-        "url": "https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj"
-      },
-      "artists": [
-        {
-          "name": "Dana Salah",
-          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
-        }
-      ],
-      "duration_ms": 145871,
-      "name": "Weino",
-      "url": "https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB"
-    },
-    {
-      "added_at": "2025-02-14 07:09:03",
-      "album": {
         "name": "Promises of the Storm",
         "url": "https://open.spotify.com/album/3IDJ1T4PJ3fgp2Q1vQ2Ytk"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 557466,
       "name": "My Mother",
       "url": "https://open.spotify.com/track/3WxUI6F09yVhLMLksKMjQJ"
+    },
+    {
+      "added_at": "2025-02-14 07:09:03",
+      "album": {
+        "name": "Weino",
+        "url": "https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj"
+      },
+      "artists": [
+        {
+          "name": "Dana Salah",
+          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
+        }
+      ],
+      "duration_ms": 145871,
+      "name": "Weino",
+      "url": "https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB"
     },
     {
       "added_at": "2025-02-14 07:09:03",
@@ -671,8 +671,8 @@
     {
       "added_at": "2025-02-14 07:09:03",
       "album": {
-        "name": "Ya Yuma Wen",
-        "url": "https://open.spotify.com/album/2YmPvDgmwlsaYtzCqV1CXY"
+        "name": "Rawquha",
+        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
         }
       ],
-      "duration_ms": 188181,
-      "name": "Ya Yuma Wen",
-      "url": "https://open.spotify.com/track/7Em61oh4mRlCrT0TgWvHjb"
+      "duration_ms": 267098,
+      "name": "Ansaki",
+      "url": "https://open.spotify.com/track/7D7cevBYalgRNWtxzPZWyA"
     },
     {
       "added_at": "2025-02-14 07:09:03",
@@ -811,8 +811,8 @@
     {
       "added_at": "2025-02-14 07:09:03",
       "album": {
-        "name": "Rawquha",
-        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
+        "name": "Ya Yuma Wen",
+        "url": "https://open.spotify.com/album/2YmPvDgmwlsaYtzCqV1CXY"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
         }
       ],
-      "duration_ms": 267098,
-      "name": "Ansaki",
-      "url": "https://open.spotify.com/track/7D7cevBYalgRNWtxzPZWyA"
+      "duration_ms": 188181,
+      "name": "Ya Yuma Wen",
+      "url": "https://open.spotify.com/track/7Em61oh4mRlCrT0TgWvHjb"
     },
     {
       "added_at": "2025-02-14 07:09:03",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-02-14 07:09:03",
       "album": {
-        "name": "Today Is the day",
-        "url": "https://open.spotify.com/album/5pY94XM2JmmrY71Ck3aTMA"
-      },
-      "artists": [
-        {
-          "name": "Hazy Noir",
-          "url": "https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY"
-        }
-      ],
-      "duration_ms": 151058,
-      "name": "Today is the day",
-      "url": "https://open.spotify.com/track/3W4P1ay0wX7Rz1FIdwFfB3"
-    },
-    {
-      "added_at": "2025-02-14 07:09:03",
-      "album": {
         "name": "Killing The Game",
         "url": "https://open.spotify.com/album/49uleJjxcPQ1cxQU1HzsZ1"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 141055,
       "name": "Killing The Game",
       "url": "https://open.spotify.com/track/4ly0Ru87w8fphGaHiL4LIv"
+    },
+    {
+      "added_at": "2025-02-14 07:09:03",
+      "album": {
+        "name": "Today Is the day",
+        "url": "https://open.spotify.com/album/5pY94XM2JmmrY71Ck3aTMA"
+      },
+      "artists": [
+        {
+          "name": "Hazy Noir",
+          "url": "https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY"
+        }
+      ],
+      "duration_ms": 151058,
+      "name": "Today is the day",
+      "url": "https://open.spotify.com/track/3W4P1ay0wX7Rz1FIdwFfB3"
     },
     {
       "added_at": "2025-02-14 07:09:03",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-02-14 07:09:03",
       "album": {
-        "name": "Tareeq",
-        "url": "https://open.spotify.com/album/1AuKyJjzvg2HAVBY1XgZg7"
-      },
-      "artists": [
-        {
-          "name": "Al-Bara'em",
-          "url": "https://open.spotify.com/artist/48XfzIDlJVx0MrJtjaUskw"
-        }
-      ],
-      "duration_ms": 283724,
-      "name": "Tareeq",
-      "url": "https://open.spotify.com/track/0JTnnttCaS5UbGNTgpARrd"
-    },
-    {
-      "added_at": "2025-02-14 07:09:03",
-      "album": {
         "name": "Palestine",
         "url": "https://open.spotify.com/album/0uAyLaAYUEUflFJA387QCl"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 81005,
       "name": "Palestine",
       "url": "https://open.spotify.com/track/0BBYordA8bTjXjcY3mBrxW"
+    },
+    {
+      "added_at": "2025-02-14 07:09:03",
+      "album": {
+        "name": "Tareeq",
+        "url": "https://open.spotify.com/album/1AuKyJjzvg2HAVBY1XgZg7"
+      },
+      "artists": [
+        {
+          "name": "Al-Bara'em",
+          "url": "https://open.spotify.com/artist/48XfzIDlJVx0MrJtjaUskw"
+        }
+      ],
+      "duration_ms": 283724,
+      "name": "Tareeq",
+      "url": "https://open.spotify.com/track/0JTnnttCaS5UbGNTgpARrd"
     },
     {
       "added_at": "2025-02-14 07:09:03",

@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "Quiero Romper",
+        "url": "https://open.spotify.com/album/2AxiRxorGQFjoND2xTwyDI"
+      },
+      "artists": [
+        {
+          "name": "Chicharrica",
+          "url": "https://open.spotify.com/artist/0EO3PTObTjjtwoSowPSOpy"
+        }
+      ],
+      "date_added": "2025-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212293,
+      "name": "Amanece",
+      "url": "https://open.spotify.com/track/1IEAdc4FWEDCAydBnvVsli"
+    },
+    {
+      "album": {
         "name": "Amar Mata (Remasterizado 2024)",
         "url": "https://open.spotify.com/album/0cGPcWdGME5xzYwNVA69LP"
       },
@@ -2420,7 +2438,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 276058,
       "name": "Ka\u00f1a",
       "url": "https://open.spotify.com/track/77UVdHUTHvECJJ0xcmooGX"
@@ -2850,7 +2868,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-05",
+      "date_removed": null,
       "duration_ms": 220943,
       "name": "Lola",
       "url": "https://open.spotify.com/track/1KWMzs6oRaLkQRVv1KbRbZ"
@@ -3544,7 +3562,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 186493,
       "name": "Nos Enga\u00f1an - original",
       "url": "https://open.spotify.com/track/0WFeE2O8RI03RheJ4PPbDr"

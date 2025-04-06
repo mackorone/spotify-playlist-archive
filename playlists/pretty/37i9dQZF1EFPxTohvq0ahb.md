@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2ckx1BRKkKzM7KyRZ3iKZo">Ester Dean</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,451 likes - 164 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,455 likes - 164 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 109 | [Shakin' It 4 Daddy](https://open.spotify.com/track/7pDspyYIg0enIIvDWelaw8) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Sex Therapy: The Experience](https://open.spotify.com/album/0NrP6lZ1RSuqE7xpmeKlNa) | 3:51 |
 | 110 | [Psycho](https://open.spotify.com/track/4kvX7vpWzQ2dsLkpDKFxXA) | [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Space](https://open.spotify.com/album/7GwxgUetlgERKVoIuw7dUP) | 4:11 |
 | 111 | [That High \(feat\. Kelly Rowland\)](https://open.spotify.com/track/0zbAkytd9gbRmWpmri6BbF) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:14 |
-| 112 | [All I Want \- From “Star” Season 2](https://open.spotify.com/track/3DXhdfi3qt6Mn8OAojIezA) | [Star Cast](https://open.spotify.com/artist/6UKDgKJpv0MCwiQHbllkfR), [Brittany O’Grady](https://open.spotify.com/artist/0d6oqX4dLHg29y8zf0K8Ab), [Evan Ross](https://open.spotify.com/artist/2DJndwwEpPtnmQn48NPBUM) | [All I Want \(From “Star” Season 2\)](https://open.spotify.com/album/2l3WaX3voHKcFCp7YFPhGG) | 3:05 |
-| 113 | [In My City](https://open.spotify.com/track/2Ry6arkPobqjO7skQBJoUb) | [Priyanka Chopra](https://open.spotify.com/artist/5TPY1mgCEaVjJQnpDPFJVF), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [In My City](https://open.spotify.com/album/4fDZE7ejUIYa5tY0HtzNVA) | 3:40 |
+| 112 | [In My City](https://open.spotify.com/track/2Ry6arkPobqjO7skQBJoUb) | [Priyanka Chopra](https://open.spotify.com/artist/5TPY1mgCEaVjJQnpDPFJVF), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [In My City](https://open.spotify.com/album/4fDZE7ejUIYa5tY0HtzNVA) | 3:40 |
+| 113 | [All I Want \- From “Star” Season 2](https://open.spotify.com/track/3DXhdfi3qt6Mn8OAojIezA) | [Star Cast](https://open.spotify.com/artist/6UKDgKJpv0MCwiQHbllkfR), [Brittany O’Grady](https://open.spotify.com/artist/0d6oqX4dLHg29y8zf0K8Ab), [Evan Ross](https://open.spotify.com/artist/2DJndwwEpPtnmQn48NPBUM) | [All I Want \(From “Star” Season 2\)](https://open.spotify.com/album/2l3WaX3voHKcFCp7YFPhGG) | 3:05 |
 | 114 | [Always](https://open.spotify.com/track/1MVP32Lab4ANXONxtGxOL2) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 3:26 |
 | 115 | [21 \(feat\. Laza Morgan\)](https://open.spotify.com/track/6E0ULwUN3Aj8sfB2e8QPvR) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [Only One Flo \(Part 1\)](https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS) | 3:52 |
 | 116 | [Wide Open \(feat\. Ester Dean\)](https://open.spotify.com/track/6ovEssKNR2OuwFdFMgNWWA) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Ester Dean](https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM) | [Underground Luxury](https://open.spotify.com/album/177byugYOk12NcfRtWvghY) | 2:33 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 163 | [Hurt Me](https://open.spotify.com/track/18LmvXtZWlNLzuQIqYi3IY) | [Remedy A Cappella](https://open.spotify.com/artist/3JvshbwnBNF1ESTeUVEgcN) | [Waves](https://open.spotify.com/album/7zup9UzCjOqh6wjVfuvpDV) | 3:20 |
 | 164 | [Stay](https://open.spotify.com/track/4bOScAqLDtf06SvJVhOEnw) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Stronger withEach Tear](https://open.spotify.com/album/2W99mgDwgiJRNJnXliJ6uA) | 3:49 |
 
-Snapshot ID: `Abt6HgAAAAAL9/ms4hEVdDuS/U5ACS2S`
+Snapshot ID: `Abt/vgAAAACNVw0VrxrL3T6cBZem2alo`

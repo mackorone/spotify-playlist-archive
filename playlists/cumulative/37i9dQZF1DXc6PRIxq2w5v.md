@@ -4,7 +4,7 @@
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Lecrae, Lukas Agustinho
 
-472 songs - 1 day 0 hr 18 min
+473 songs - 1 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Chegou Jesus](https://open.spotify.com/track/5Hb8IqunMKcOkzuJJc2tRE) | [Santiago Leão](https://open.spotify.com/artist/36saRHjnmUGLFu5hT8aVh1), [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Chegou Jesus](https://open.spotify.com/album/2uudCfCmSe6NM03mXdp69d) | 3:32 | 2023-09-15 | 2023-10-07 |
 | [Cheio do Espírito Santo](https://open.spotify.com/track/2yuM2qhkW13CVMPWW8c0jf) | [Cleiton santos oficial](https://open.spotify.com/artist/3LOINHULPooxh22mXKegOR), [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Cheio do Espírito Santo](https://open.spotify.com/album/0iOqipP12CUEjs6kxcou3b) | 3:59 | 2022-11-25 | 2023-01-14 |
 | [Chove Cedo](https://open.spotify.com/track/2XFkZKC26RhXF3yzkg0ykW) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV), [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1) | [Chove Cedo](https://open.spotify.com/album/2HzZCISe25bdH1UMULbjuR) | 3:12 | 2023-12-22 |  |
+| [Cicatrizes](https://open.spotify.com/track/7KaAZJxdFRSW8FTDkJZfcV) | [Deus&Marco](https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k), [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU) | [Cicatrizes](https://open.spotify.com/album/6m279kroAwu9aJW20ETWmv) | 2:34 | 2025-04-05 |  |
 | [Colapso](https://open.spotify.com/track/5mGDcMNaF5qTCoAznCCgSq) | [Carolina Murback](https://open.spotify.com/artist/1NTKKj5fNWPAXagLbY8m0i), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Colapso](https://open.spotify.com/album/7o1Hd3z3AE5L7kZTl84rIv) | 2:58 | 2023-01-13 | 2023-02-04 |
 | [Com Jesus Eu Ganho](https://open.spotify.com/track/6VFicHR1DPAvOyVBOx29qX) | [SALMAZO](https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB) | [Com Jesus Eu Ganho](https://open.spotify.com/album/5To4bNdV0QW3H6uiXPHo8u) | 2:18 | 2023-09-01 |  |
 | [Contramão](https://open.spotify.com/track/3PscU3Whs200A5p8CGxol9) | [Julio Cesar](https://open.spotify.com/artist/30KgyZbMwuRzznOnbkb8sr) | [Contramão](https://open.spotify.com/album/12qGSBTxUW4uSTvpmZzIC2) | 3:21 | 2022-03-22 | 2022-08-20 |
@@ -358,7 +359,7 @@
 | [Quem Mandou?](https://open.spotify.com/track/2J40FjoqZ732umKZMrBZSQ) | [Adônis Maia](https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN) | [Quem Mandou?](https://open.spotify.com/album/5LA7jgwJIm6XLC5u0Uzs09) | 2:29 | 2023-04-28 | 2023-05-13 |
 | [Quero Voltar](https://open.spotify.com/track/1aXoFwqmHiIaKt4ituOfHb) | [Gui Hazel](https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Quero Voltar](https://open.spotify.com/album/4ilO0Yx4mfVSbtuViiaXj4) | 2:54 | 2024-10-07 |  |
 | [Rap Gospel \(Xerox\)](https://open.spotify.com/track/5SNBTz3Eldj1PFvmWddefo) | [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV) | [Rap Gospel \(Xerox\)](https://open.spotify.com/album/6VZUM34kovN64NFZVNI5Ip) | 1:50 | 2023-09-01 | 2023-09-16 |
-| [Rasgou o Véu](https://open.spotify.com/track/4iqxItooSPTbhMm1otVoLu) | [Deus&Marco](https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k), [Mc Jamil](https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc) | [Rasgou o Véu](https://open.spotify.com/album/1Wh4p4J1SQMjnbMlXZQrKC) | 2:18 | 2023-10-06 |  |
+| [Rasgou o Véu](https://open.spotify.com/track/4iqxItooSPTbhMm1otVoLu) | [Deus&Marco](https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k), [Mc Jamil](https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc) | [Rasgou o Véu](https://open.spotify.com/album/1Wh4p4J1SQMjnbMlXZQrKC) | 2:18 | 2023-10-06 | 2025-04-06 |
 | [Recomeço](https://open.spotify.com/track/3Pj0AhxhON8Gp1rBdfhqA3) | [Cleytinho de Macaé](https://open.spotify.com/artist/55fFdghzGlZ3Md2LRaUnXG) | [Recomeço](https://open.spotify.com/album/5JfTKd8vOtaUrkC7WyYwcM) | 2:29 | 2023-09-01 | 2023-09-16 |
 | [Redenção](https://open.spotify.com/track/32SFzowjPunI2TsSdeBddD) | [LEVII MC](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Redenção](https://open.spotify.com/album/2Wi4tFWKLfpLYbjs2d7BsO) | 2:17 | 2024-03-01 |  |
 | [Redenção](https://open.spotify.com/track/1LG10Lc3rb1LTGjIc6N6he) | [Mc zé santos](https://open.spotify.com/artist/5LScvXl3l9J4a0kivqPMPx), [LEVII MC](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Redenção](https://open.spotify.com/album/08j5joKUHd6niqFjkfzbSL) | 2:46 | 2023-02-03 | 2023-03-25 |

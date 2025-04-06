@@ -1,6 +1,6 @@
 {
   "description": "V\u00e5ren er her!\u2600\ufe0f\n",
-  "num_followers": 93296,
+  "num_followers": 93317,
   "original_name": "V\u00e5r i lufta",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2025-04-03 22:00:40",
       "album": {
+        "name": "Eli",
+        "url": "https://open.spotify.com/album/3ERn5HfbvgJ4shmGx5Pw7w"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 205454,
+      "name": "Eli",
+      "url": "https://open.spotify.com/track/3SZ2ts1QHO3rXYMkAhIOq8"
+    },
+    {
+      "added_at": "2025-04-03 22:00:40",
+      "album": {
         "name": "A Lovestory",
         "url": "https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 194275,
       "name": "Dance All Over Me",
       "url": "https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL"
-    },
-    {
-      "added_at": "2025-04-03 22:00:40",
-      "album": {
-        "name": "Eli",
-        "url": "https://open.spotify.com/album/3ERn5HfbvgJ4shmGx5Pw7w"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 205454,
-      "name": "Eli",
-      "url": "https://open.spotify.com/track/3SZ2ts1QHO3rXYMkAhIOq8"
     },
     {
       "added_at": "2025-04-03 22:00:40",
@@ -439,6 +439,38 @@
     {
       "added_at": "2025-04-03 22:00:40",
       "album": {
+        "name": "Heim te st\u00e5vo",
+        "url": "https://open.spotify.com/album/05u8TF0hM8smBXuomQeVDi"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 196758,
+      "name": "Heim te st\u00e5vo",
+      "url": "https://open.spotify.com/track/07F3aHvvLxqV5Fp49pkwpZ"
+    },
+    {
+      "added_at": "2025-04-03 22:00:40",
+      "album": {
+        "name": "The Flood",
+        "url": "https://open.spotify.com/album/5dhxOuPRt7O3Bgk0jLHhXv"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 269720,
+      "name": "The Flood",
+      "url": "https://open.spotify.com/track/0vXivA7V0E0c8RBgHtcklm"
+    },
+    {
+      "added_at": "2025-04-03 22:00:40",
+      "album": {
         "name": "Sover du",
         "url": "https://open.spotify.com/album/7jFpenfKsfhNXTCEFyYc8s"
       },
@@ -483,22 +515,6 @@
       "duration_ms": 286122,
       "name": "Piya Piya Calling (feat. The Quick Style)",
       "url": "https://open.spotify.com/track/1K0d6cMvNwiAhQWJjqYJDu"
-    },
-    {
-      "added_at": "2025-04-03 22:00:40",
-      "album": {
-        "name": "Heim te st\u00e5vo",
-        "url": "https://open.spotify.com/album/05u8TF0hM8smBXuomQeVDi"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 196758,
-      "name": "Heim te st\u00e5vo",
-      "url": "https://open.spotify.com/track/07F3aHvvLxqV5Fp49pkwpZ"
     },
     {
       "added_at": "2025-04-03 22:00:40",
@@ -551,22 +567,6 @@
     {
       "added_at": "2025-04-03 22:00:40",
       "album": {
-        "name": "A Potion For Love",
-        "url": "https://open.spotify.com/album/79kiDzdz5iv1aQ68x4PJA0"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 216426,
-      "name": "A Potion For Love",
-      "url": "https://open.spotify.com/track/5Xk6GwwLwQaklody4DslTD"
-    },
-    {
-      "added_at": "2025-04-03 22:00:40",
-      "album": {
         "name": "Ta med deg d\u00f8ra",
         "url": "https://open.spotify.com/album/4VHqpvGnzLuNqkT5cEbE4K"
       },
@@ -599,18 +599,18 @@
     {
       "added_at": "2025-04-03 22:00:40",
       "album": {
-        "name": "In Our Own Sweet Time",
-        "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
+        "name": "A Potion For Love",
+        "url": "https://open.spotify.com/album/79kiDzdz5iv1aQ68x4PJA0"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 218306,
-      "name": "Catalonia",
-      "url": "https://open.spotify.com/track/5zs2czX5d8B0zuQB7jiFct"
+      "duration_ms": 216426,
+      "name": "A Potion For Love",
+      "url": "https://open.spotify.com/track/5Xk6GwwLwQaklody4DslTD"
     },
     {
       "added_at": "2025-04-03 22:00:40",
@@ -627,6 +627,22 @@
       "duration_ms": 221427,
       "name": "N\u00e5 har du meg",
       "url": "https://open.spotify.com/track/33coicso7oegceR6nB7Srl"
+    },
+    {
+      "added_at": "2025-04-03 22:00:40",
+      "album": {
+        "name": "In Our Own Sweet Time",
+        "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 218306,
+      "name": "Catalonia",
+      "url": "https://open.spotify.com/track/5zs2czX5d8B0zuQB7jiFct"
     },
     {
       "added_at": "2025-04-03 22:00:40",
@@ -699,6 +715,38 @@
     {
       "added_at": "2025-04-03 22:00:40",
       "album": {
+        "name": "ok",
+        "url": "https://open.spotify.com/album/7Ce3hHKWUyEvmAp4Dam0ov"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 149573,
+      "name": "ok",
+      "url": "https://open.spotify.com/track/4R467GbyTVsRKQxArOWFVK"
+    },
+    {
+      "added_at": "2025-04-03 22:00:40",
+      "album": {
+        "name": "Ole Lukk\u00f8ye",
+        "url": "https://open.spotify.com/album/6KmalLGuo1RnLKTloNsiAQ"
+      },
+      "artists": [
+        {
+          "name": "Zimmermann",
+          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
+        }
+      ],
+      "duration_ms": 265726,
+      "name": "Ole Lukk\u00f8ye",
+      "url": "https://open.spotify.com/track/03MTSWFmsqzh7lch0AlPAJ"
+    },
+    {
+      "added_at": "2025-04-03 22:00:40",
+      "album": {
         "name": "Spor i sn\u00f8",
         "url": "https://open.spotify.com/album/5ALVZSAv6BgrsAJNLvkfbV"
       },
@@ -715,22 +763,6 @@
       "duration_ms": 230680,
       "name": "Spor i sn\u00f8",
       "url": "https://open.spotify.com/track/00Hpn2m6O7fInTduN987Zc"
-    },
-    {
-      "added_at": "2025-04-03 22:00:40",
-      "album": {
-        "name": "ok",
-        "url": "https://open.spotify.com/album/7Ce3hHKWUyEvmAp4Dam0ov"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 149573,
-      "name": "ok",
-      "url": "https://open.spotify.com/track/4R467GbyTVsRKQxArOWFVK"
     },
     {
       "added_at": "2025-04-03 22:00:40",
@@ -755,18 +787,50 @@
     {
       "added_at": "2025-04-03 22:00:40",
       "album": {
-        "name": "Ole Lukk\u00f8ye",
-        "url": "https://open.spotify.com/album/6KmalLGuo1RnLKTloNsiAQ"
+        "name": "Under The Surface",
+        "url": "https://open.spotify.com/album/5P0xHV91J1zC52nemvDhI6"
       },
       "artists": [
         {
-          "name": "Zimmermann",
-          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
+          "name": "Alma Owren",
+          "url": "https://open.spotify.com/artist/6PYAyyoym2n9PB5sVrplSE"
         }
       ],
-      "duration_ms": 265726,
-      "name": "Ole Lukk\u00f8ye",
-      "url": "https://open.spotify.com/track/03MTSWFmsqzh7lch0AlPAJ"
+      "duration_ms": 259545,
+      "name": "under the surface",
+      "url": "https://open.spotify.com/track/3McAq7FX81QzdpueW2CT1F"
+    },
+    {
+      "added_at": "2025-04-03 22:00:40",
+      "album": {
+        "name": "Kanskje det g\u00e5r te helvete",
+        "url": "https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 146813,
+      "name": "Gjesten p\u00e5 festen",
+      "url": "https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs"
+    },
+    {
+      "added_at": "2025-04-03 22:00:40",
+      "album": {
+        "name": "So Long, Ruben",
+        "url": "https://open.spotify.com/album/6nqDc8CPKCdWmaNysbYmfk"
+      },
+      "artists": [
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "duration_ms": 194974,
+      "name": "Love That Hurts",
+      "url": "https://open.spotify.com/track/0hNpDSUmh2NpDlAHHF9krX"
     },
     {
       "added_at": "2025-04-03 22:00:40",
@@ -791,50 +855,42 @@
     {
       "added_at": "2025-04-03 22:00:40",
       "album": {
-        "name": "Under The Surface",
-        "url": "https://open.spotify.com/album/5P0xHV91J1zC52nemvDhI6"
+        "name": "It's Ok If You Forget Me",
+        "url": "https://open.spotify.com/album/5gojU2qbIqKDBO7L1Q8OOG"
       },
       "artists": [
         {
-          "name": "Alma Owren",
-          "url": "https://open.spotify.com/artist/6PYAyyoym2n9PB5sVrplSE"
+          "name": "Thomas Dybdahl",
+          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
+        },
+        {
+          "name": "Emma Jensen",
+          "url": "https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 259545,
-      "name": "under the surface",
-      "url": "https://open.spotify.com/track/3McAq7FX81QzdpueW2CT1F"
+      "duration_ms": 176000,
+      "name": "It\u00b4s Ok If You Forget Me (feat. Emma Jensen)",
+      "url": "https://open.spotify.com/track/61g5DDHobx9aPCBsKgKiqP"
     },
     {
       "added_at": "2025-04-03 22:00:40",
       "album": {
-        "name": "So Long, Ruben",
-        "url": "https://open.spotify.com/album/6nqDc8CPKCdWmaNysbYmfk"
+        "name": "these are hard times (Say the Words!)",
+        "url": "https://open.spotify.com/album/7rJMjO37esCFPPddhaDae6"
       },
       "artists": [
         {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+          "name": "Iris Caltwait",
+          "url": "https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz"
         }
       ],
-      "duration_ms": 194974,
-      "name": "Love That Hurts",
-      "url": "https://open.spotify.com/track/0hNpDSUmh2NpDlAHHF9krX"
-    },
-    {
-      "added_at": "2025-04-03 22:00:40",
-      "album": {
-        "name": "Kanskje det g\u00e5r te helvete",
-        "url": "https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 146813,
-      "name": "Gjesten p\u00e5 festen",
-      "url": "https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs"
+      "duration_ms": 188541,
+      "name": "these are hard times (Say the Words!)",
+      "url": "https://open.spotify.com/track/6TlAYg7V9hiV5Z6a3P5f0f"
     },
     {
       "added_at": "2025-04-03 22:00:40",
@@ -875,30 +931,6 @@
     {
       "added_at": "2025-04-03 22:00:40",
       "album": {
-        "name": "It's Ok If You Forget Me",
-        "url": "https://open.spotify.com/album/5gojU2qbIqKDBO7L1Q8OOG"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dybdahl",
-          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
-        },
-        {
-          "name": "Emma Jensen",
-          "url": "https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "It\u00b4s Ok If You Forget Me (feat. Emma Jensen)",
-      "url": "https://open.spotify.com/track/61g5DDHobx9aPCBsKgKiqP"
-    },
-    {
-      "added_at": "2025-04-03 22:00:40",
-      "album": {
         "name": "leilo brenner (Spotify Studio It's Hits Recording)",
         "url": "https://open.spotify.com/album/688lFR0RtS2nxfHQTyCwKi"
       },
@@ -915,22 +947,6 @@
       "duration_ms": 143197,
       "name": "leilo brenner - Spotify Studio It\u00b4s Hits Recording",
       "url": "https://open.spotify.com/track/6ztcxDt6rVmqMGi0t4wOiT"
-    },
-    {
-      "added_at": "2025-04-03 22:00:40",
-      "album": {
-        "name": "these are hard times (Say the Words!)",
-        "url": "https://open.spotify.com/album/7rJMjO37esCFPPddhaDae6"
-      },
-      "artists": [
-        {
-          "name": "Iris Caltwait",
-          "url": "https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz"
-        }
-      ],
-      "duration_ms": 188541,
-      "name": "these are hard times (Say the Words!)",
-      "url": "https://open.spotify.com/track/6TlAYg7V9hiV5Z6a3P5f0f"
     },
     {
       "added_at": "2025-04-03 22:00:40",
@@ -987,22 +1003,6 @@
     {
       "added_at": "2025-04-03 22:00:40",
       "album": {
-        "name": "G\u00e5 bli lykkelig, du",
-        "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
-      },
-      "artists": [
-        {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
-        }
-      ],
-      "duration_ms": 187281,
-      "name": "G\u00e5 bli lykkelig, du",
-      "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
-    },
-    {
-      "added_at": "2025-04-03 22:00:40",
-      "album": {
         "name": "Hva vi kunne bli",
         "url": "https://open.spotify.com/album/0UG3jUBKtxD87IoznNgrev"
       },
@@ -1015,6 +1015,22 @@
       "duration_ms": 175360,
       "name": "Hva vi kunne bli",
       "url": "https://open.spotify.com/track/11A6wBoTeemgHHuCotUL3u"
+    },
+    {
+      "added_at": "2025-04-03 22:00:40",
+      "album": {
+        "name": "Aleine over fjell",
+        "url": "https://open.spotify.com/album/6ghHjXoE6aZUBNa8xRp6QL"
+      },
+      "artists": [
+        {
+          "name": "Br\u00e5tabrann",
+          "url": "https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71"
+        }
+      ],
+      "duration_ms": 173289,
+      "name": "Aleine over fjell",
+      "url": "https://open.spotify.com/track/3hTueanE6FImv3heUnvow8"
     },
     {
       "added_at": "2025-04-03 22:00:40",
@@ -1051,6 +1067,54 @@
     {
       "added_at": "2025-04-03 22:00:40",
       "album": {
+        "name": "BOY",
+        "url": "https://open.spotify.com/album/4QeC0vQhMooQYZMiJizbpi"
+      },
+      "artists": [
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/07OqVLTu7tXELtgFX1jQvZ"
+    },
+    {
+      "added_at": "2025-04-03 22:00:40",
+      "album": {
+        "name": "G\u00e5 bli lykkelig, du",
+        "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "duration_ms": 187281,
+      "name": "G\u00e5 bli lykkelig, du",
+      "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
+    },
+    {
+      "added_at": "2025-04-03 22:00:40",
+      "album": {
+        "name": "Tjue \u00e5r",
+        "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 176808,
+      "name": "F\u00f8r han for",
+      "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
+    },
+    {
+      "added_at": "2025-04-03 22:00:40",
+      "album": {
         "name": "henda i v\u00e6ret",
         "url": "https://open.spotify.com/album/4ryEkaYCH9uIdA4jbdHhIP"
       },
@@ -1067,22 +1131,6 @@
       "duration_ms": 161667,
       "name": "henda i v\u00e6ret",
       "url": "https://open.spotify.com/track/618z8JIYgEQ8q4blcJFsGW"
-    },
-    {
-      "added_at": "2025-04-03 22:00:40",
-      "album": {
-        "name": "BOY",
-        "url": "https://open.spotify.com/album/4QeC0vQhMooQYZMiJizbpi"
-      },
-      "artists": [
-        {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "BOY",
-      "url": "https://open.spotify.com/track/07OqVLTu7tXELtgFX1jQvZ"
     },
     {
       "added_at": "2025-04-03 22:00:40",
@@ -1107,54 +1155,6 @@
     {
       "added_at": "2025-04-03 22:00:40",
       "album": {
-        "name": "Tjue \u00e5r",
-        "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 176808,
-      "name": "F\u00f8r han for",
-      "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
-    },
-    {
-      "added_at": "2025-04-03 22:00:40",
-      "album": {
-        "name": "happy place",
-        "url": "https://open.spotify.com/album/3AVrDEyYGkcf6txru4yDKZ"
-      },
-      "artists": [
-        {
-          "name": "yaeow",
-          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
-        }
-      ],
-      "duration_ms": 211648,
-      "name": "happy place",
-      "url": "https://open.spotify.com/track/3WexcBAuTg6p1XkaUqb3Td"
-    },
-    {
-      "added_at": "2025-04-03 22:00:40",
-      "album": {
-        "name": "Aleine over fjell",
-        "url": "https://open.spotify.com/album/6ghHjXoE6aZUBNa8xRp6QL"
-      },
-      "artists": [
-        {
-          "name": "Br\u00e5tabrann",
-          "url": "https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71"
-        }
-      ],
-      "duration_ms": 173289,
-      "name": "Aleine over fjell",
-      "url": "https://open.spotify.com/track/3hTueanE6FImv3heUnvow8"
-    },
-    {
-      "added_at": "2025-04-03 22:00:40",
-      "album": {
         "name": "Skyfri himmel",
         "url": "https://open.spotify.com/album/1ZMfhQD8MkMGSqydaXAGgN"
       },
@@ -1175,38 +1175,34 @@
     {
       "added_at": "2025-04-03 22:00:40",
       "album": {
-        "name": "HJERTET MITT ER HELT OK",
-        "url": "https://open.spotify.com/album/52qTuKqpnm3PtCtMRFa3i4"
+        "name": "happy place",
+        "url": "https://open.spotify.com/album/3AVrDEyYGkcf6txru4yDKZ"
       },
       "artists": [
         {
-          "name": "Hkeem",
-          "url": "https://open.spotify.com/artist/46XcyK8FnyCJJlvYCUwVZH"
-        },
-        {
-          "name": "Blackie",
-          "url": "https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S"
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
         }
       ],
-      "duration_ms": 144706,
-      "name": "HJERTET MITT ER HELT OK",
-      "url": "https://open.spotify.com/track/4vpI1R5pmRKAS9pbMDb8Vg"
+      "duration_ms": 211648,
+      "name": "happy place",
+      "url": "https://open.spotify.com/track/3WexcBAuTg6p1XkaUqb3Td"
     },
     {
       "added_at": "2025-04-03 22:00:40",
       "album": {
-        "name": "KLIPP MEG I TI OG LIM MEG SAMMEN",
-        "url": "https://open.spotify.com/album/2g0oZHtjgfF5VMQJXR2f2g"
+        "name": "Dans med meg",
+        "url": "https://open.spotify.com/album/0CRtzpxCmfPCpujTsP2pWo"
       },
       "artists": [
         {
-          "name": "Gabrielle",
-          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
         }
       ],
-      "duration_ms": 195202,
-      "name": "Noen som forst\u00e5r",
-      "url": "https://open.spotify.com/track/0skJrhhZqWp7Q0Czpxxrlb"
+      "duration_ms": 174492,
+      "name": "Dans med meg",
+      "url": "https://open.spotify.com/track/4WWC3GHZTLLjP2IPCOFbMh"
     },
     {
       "added_at": "2025-04-03 22:00:40",
@@ -1227,18 +1223,22 @@
     {
       "added_at": "2025-04-03 22:00:40",
       "album": {
-        "name": "Finaste s\u00e5 finns",
-        "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
+        "name": "HJERTET MITT ER HELT OK",
+        "url": "https://open.spotify.com/album/52qTuKqpnm3PtCtMRFa3i4"
       },
       "artists": [
         {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+          "name": "Hkeem",
+          "url": "https://open.spotify.com/artist/46XcyK8FnyCJJlvYCUwVZH"
+        },
+        {
+          "name": "Blackie",
+          "url": "https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S"
         }
       ],
-      "duration_ms": 190405,
-      "name": "Finaste s\u00e5 finns",
-      "url": "https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F"
+      "duration_ms": 144706,
+      "name": "HJERTET MITT ER HELT OK",
+      "url": "https://open.spotify.com/track/4vpI1R5pmRKAS9pbMDb8Vg"
     },
     {
       "added_at": "2025-04-03 22:00:40",
@@ -1267,6 +1267,22 @@
       "duration_ms": 229334,
       "name": "Meri Jaan - LePark Studio, Milan",
       "url": "https://open.spotify.com/track/1nkfNJaIe6XlSQwT1OS7pe"
+    },
+    {
+      "added_at": "2025-04-03 22:00:40",
+      "album": {
+        "name": "Hvalfangerbyen",
+        "url": "https://open.spotify.com/album/6M2nSOHoe58dDU6dGluvWK"
+      },
+      "artists": [
+        {
+          "name": "Zimmermann",
+          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
+        }
+      ],
+      "duration_ms": 200531,
+      "name": "Hvalfangerbyen",
+      "url": "https://open.spotify.com/track/1gWzPGtQeTDbaA1ee8e1Ji"
     },
     {
       "added_at": "2025-04-03 22:00:40",
@@ -1303,6 +1319,22 @@
     {
       "added_at": "2025-04-03 22:00:40",
       "album": {
+        "name": "KLIPP MEG I TI OG LIM MEG SAMMEN",
+        "url": "https://open.spotify.com/album/2g0oZHtjgfF5VMQJXR2f2g"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+        }
+      ],
+      "duration_ms": 195202,
+      "name": "Noen som forst\u00e5r",
+      "url": "https://open.spotify.com/track/0skJrhhZqWp7Q0Czpxxrlb"
+    },
+    {
+      "added_at": "2025-04-03 22:00:40",
+      "album": {
         "name": "Summer Rain",
         "url": "https://open.spotify.com/album/2E1MUrxQRirP7wmVTzE82B"
       },
@@ -1315,22 +1347,6 @@
       "duration_ms": 162930,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/3LVadaj97lffSz5nUD9mWC"
-    },
-    {
-      "added_at": "2025-04-03 22:00:40",
-      "album": {
-        "name": "Hvalfangerbyen",
-        "url": "https://open.spotify.com/album/6M2nSOHoe58dDU6dGluvWK"
-      },
-      "artists": [
-        {
-          "name": "Zimmermann",
-          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
-        }
-      ],
-      "duration_ms": 200531,
-      "name": "Hvalfangerbyen",
-      "url": "https://open.spotify.com/track/1gWzPGtQeTDbaA1ee8e1Ji"
     },
     {
       "added_at": "2025-04-03 22:00:40",
@@ -1351,6 +1367,22 @@
     {
       "added_at": "2025-04-03 22:00:40",
       "album": {
+        "name": "Finaste s\u00e5 finns",
+        "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
+      },
+      "artists": [
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 190405,
+      "name": "Finaste s\u00e5 finns",
+      "url": "https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F"
+    },
+    {
+      "added_at": "2025-04-03 22:00:40",
+      "album": {
         "name": "Oh Love (Acoustic)",
         "url": "https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ"
       },
@@ -1363,22 +1395,6 @@
       "duration_ms": 201774,
       "name": "Oh Love - Acoustic",
       "url": "https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur"
-    },
-    {
-      "added_at": "2025-04-03 22:00:40",
-      "album": {
-        "name": "Dans med meg",
-        "url": "https://open.spotify.com/album/0CRtzpxCmfPCpujTsP2pWo"
-      },
-      "artists": [
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 174492,
-      "name": "Dans med meg",
-      "url": "https://open.spotify.com/track/4WWC3GHZTLLjP2IPCOFbMh"
     },
     {
       "added_at": "2025-04-03 22:00:40",
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2025-04-03 22:00:40",
       "album": {
-        "name": "Keeps Me Going",
-        "url": "https://open.spotify.com/album/2zB2GHP2Su7dGFU4kUPuO2"
-      },
-      "artists": [
-        {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "Keeps Me Going",
-      "url": "https://open.spotify.com/track/14WGGRi84jRQLjwPY2XWIY"
-    },
-    {
-      "added_at": "2025-04-03 22:00:40",
-      "album": {
         "name": "Happy Tears",
         "url": "https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf"
       },
@@ -1427,6 +1427,22 @@
       "duration_ms": 176433,
       "name": "Happy Tears",
       "url": "https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC"
+    },
+    {
+      "added_at": "2025-04-03 22:00:40",
+      "album": {
+        "name": "Keeps Me Going",
+        "url": "https://open.spotify.com/album/2zB2GHP2Su7dGFU4kUPuO2"
+      },
+      "artists": [
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Keeps Me Going",
+      "url": "https://open.spotify.com/track/14WGGRi84jRQLjwPY2XWIY"
     },
     {
       "added_at": "2025-04-03 22:00:40",
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2025-04-03 22:00:40",
       "album": {
-        "name": "Hei p\u00e5 deg",
-        "url": "https://open.spotify.com/album/5GxpzfMjhjPrpk7lFLIhGz"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 163938,
-      "name": "Hei p\u00e5 deg",
-      "url": "https://open.spotify.com/track/7z08TMcTNpMClzFJ1Jo9oQ"
-    },
-    {
-      "added_at": "2025-04-03 22:00:40",
-      "album": {
         "name": "Over deg",
         "url": "https://open.spotify.com/album/0Mctxv1ffjDMh8aWvY8qyR"
       },
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2025-04-03 22:00:40",
       "album": {
-        "name": "B\u00f8lger",
-        "url": "https://open.spotify.com/album/1XKnyAAgscwpB0BgzR09TW"
+        "name": "Hei p\u00e5 deg",
+        "url": "https://open.spotify.com/album/5GxpzfMjhjPrpk7lFLIhGz"
       },
       "artists": [
         {
-          "name": "3TOS",
-          "url": "https://open.spotify.com/artist/4kMHdk4Ci3GoVB1jGZTL4C"
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
         }
       ],
-      "duration_ms": 133875,
-      "name": "B\u00f8lger",
-      "url": "https://open.spotify.com/track/30NBm5D1W1MdfCgDZBuJYY"
+      "duration_ms": 163938,
+      "name": "Hei p\u00e5 deg",
+      "url": "https://open.spotify.com/track/7z08TMcTNpMClzFJ1Jo9oQ"
     }
   ],
   "unique_name": "V\u00e5r i lufta",

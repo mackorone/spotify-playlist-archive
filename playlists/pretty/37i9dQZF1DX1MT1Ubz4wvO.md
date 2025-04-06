@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Quemarlo Todo Por Error en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,719 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,736 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [La distancia se reduce](https://open.spotify.com/track/33RZJL7nkjOLtCch8VpJCS) | [Quemarlo Todo Por Error](https://open.spotify.com/artist/2uBBnvNK2YBWL8Q4f4W8GG) | [La distancia se reduce](https://open.spotify.com/album/4M09EtSfmbcwfeWcUDd80n) | 4:39 |
 | 2 | [TUS OJOS](https://open.spotify.com/track/5UyrF7PB7rni3kVWiajCVr) | [INSITE](https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX) | [TUS OJOS](https://open.spotify.com/album/1KZnt2RfQQhSUKqfGGtOkk) | 3:32 |
-| 3 | [Me cago en el amor](https://open.spotify.com/track/2HacRkVR8a0uO5TTKUHLTM) | [Anabel Lee](https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW), [Magüi](https://open.spotify.com/artist/2yBvefXHfg1iVX6dALbIAL) | [Me cago en el amor](https://open.spotify.com/album/1fEK3rpRawN8R3kCnznIDi) | 3:08 |
+| 3 | [Me cago en el amor](https://open.spotify.com/track/2HacRkVR8a0uO5TTKUHLTM) | [Anabel Lee](https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW), [Magüi](https://open.spotify.com/artist/7m3PAUi8OfLBxBhADiGb1V) | [Me cago en el amor](https://open.spotify.com/album/1fEK3rpRawN8R3kCnznIDi) | 3:08 |
 | 4 | [Te Recuerdo](https://open.spotify.com/track/2ikjBKxuPxgNjgeW1hRHKd) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Te Recuerdo](https://open.spotify.com/album/0WIaqkRmsHjaUE5MxI4KEp) | 3:36 |
 | 5 | [Te puedes a todo acostumbrar](https://open.spotify.com/track/6NHzhExlHxmLJBMKOnPty6) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Te puedes a todo acostumbrar](https://open.spotify.com/album/64Asw7IbIu5u4ryxsKx4ww) | 3:57 |
 | 6 | [No hay nadie](https://open.spotify.com/track/4k57kJC3OqnaTB7mvxoSPu) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2) | [No hay nadie](https://open.spotify.com/album/5l7DyskGWxpJNOiT5l6g6N) | 3:34 |

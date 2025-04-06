@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house  🐀  Tech house technicians, featuring Chris Lake & Ragie Ban
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,069 likes - 150 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,987 likes - 150 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 9 | [BATTERY OPERATED](https://open.spotify.com/track/2P7fnktG0n0P0UN9wUgas9) | [Tigerblind](https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA) | [BATTERY OPERATED](https://open.spotify.com/album/3e2A87CYUkCLsEtpDZXE8v) | 2:07 |
 | 10 | [Malfunktion](https://open.spotify.com/track/1rNUdaRCaO0ibxHBac9IAk) | [Adapter](https://open.spotify.com/artist/4EGRFrnmprB7ikY7EmTQ7V), [FRANCO BA](https://open.spotify.com/artist/4scG3MM222bFgXRcJ7Yajx) | [Malfunktion](https://open.spotify.com/album/7Hm8E2Z9NkBAUSGhjycF1H) | 3:01 |
 | 11 | [I Know You Want To](https://open.spotify.com/track/3qhf5WajCHsJibQ7cQ2qYS) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [I Know You Want To](https://open.spotify.com/album/60xGclNsYuzGqMfhUW4nXE) | 3:13 |
-| 12 | [Dale](https://open.spotify.com/track/2KCJiJuwUehfs7uCX9tmsd) | [Sam Collins](https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx), [Wave Wave](https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9) | [Dale](https://open.spotify.com/album/6xA36mIEvqNf7OWcAn0Sj7) | 2:59 |
+| 12 | [Blow Your Brain Cell](https://open.spotify.com/track/4TNA9DSYCY3Dx5g9s2YgcW) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Blow Your Brain Cell](https://open.spotify.com/album/4sO65jv0pGFWTfLhRKiuq2) | 3:27 |
 | 13 | [Love Me](https://open.spotify.com/track/4vhwHc3HiKbJC3m2glpAm4) | [Seeing Double](https://open.spotify.com/artist/0YwjcHEhy7FPPoFTQ1fEMj) | [Welcome To Hell IV](https://open.spotify.com/album/15jP3hJnY2w2NcAXvEhX8z) | 3:03 |
 | 14 | [Supersonic](https://open.spotify.com/track/7qzNN86nlI4YaslP5lZVb0) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Alex Now \(ES\)](https://open.spotify.com/artist/4eQ3wWnuaLwgtCzcAsgWZf) | [Supersonic](https://open.spotify.com/album/0EeLq0QPw6ogMvv4HZZGkB) | 2:17 |
 | 15 | [Drum Death](https://open.spotify.com/track/1gkTO34Xg6FO8W9HrxYR4E) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [HOSANNA](https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7) | [Drum Death](https://open.spotify.com/album/4vqrNHTMoTgrN4DBH5b81t) | 2:50 |
 | 16 | [Talk To Me](https://open.spotify.com/track/3C36l5eSjFMaziG7buBbQK) | [HILLS](https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB) | [Talk To Me](https://open.spotify.com/album/3URwEJGF4PEt0wjxudHoCS) | 2:24 |
-| 17 | [Blow Your Brain Cell](https://open.spotify.com/track/4TNA9DSYCY3Dx5g9s2YgcW) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Blow Your Brain Cell](https://open.spotify.com/album/4sO65jv0pGFWTfLhRKiuq2) | 3:27 |
+| 17 | [Dale](https://open.spotify.com/track/2KCJiJuwUehfs7uCX9tmsd) | [Sam Collins](https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx), [Wave Wave](https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9) | [Dale](https://open.spotify.com/album/6xA36mIEvqNf7OWcAn0Sj7) | 2:59 |
 | 18 | [Ménage À Trois](https://open.spotify.com/track/2H9SdFmXgiHM5MhwLOuBm3) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [Ménage À Trois](https://open.spotify.com/album/6tdzoV8uezHAmeNXoEIWrl) | 2:55 |
 | 19 | [Dreamin \(feat\. Daya\)](https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Dreamin \(feat\. Daya\)](https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN) | 2:51 |
 | 20 | [2C](https://open.spotify.com/track/2zuuyjhWrgVWCn0bXlBJ2P) | [Apex Martin](https://open.spotify.com/artist/6DcdyoaAmWtdusCIC3iJdR) | [2C](https://open.spotify.com/album/6E6XBmKQ04fG6u0w0ujwAq) | 3:56 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 149 | [Seduction](https://open.spotify.com/track/7qmByNtmXOOSSCUTdUiVex) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Seduction](https://open.spotify.com/album/2Cwn5SU8ubw1CV9DSeGFrm) | 3:31 |
 | 150 | [Jump n' Shout](https://open.spotify.com/track/4Axp6RBfspEXQscqc0MpUp) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Jump n' Shout](https://open.spotify.com/album/6IBHL2BUPxiDCxZi5HrTAW) | 3:54 |
 
-Snapshot ID: `Z/B5jwAAAABrFqRlbrNUN8x/k9c4EEM6`
+Snapshot ID: `Z/E1hgAAAAAMYUo3zkCcvVKLPBbO2xWd`

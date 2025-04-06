@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jDTenPbqLo.md) - [plain]
 
 > daydreaming, an unfinished book, soft sunlight and a fresh pot of tea
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,809 likes - 49 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,838 likes - 49 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

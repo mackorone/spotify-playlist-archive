@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,770 likes - 69 songs - 3 hr 47 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,768 likes - 69 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 48 | [Tenerte](https://open.spotify.com/track/2epd8CEXHNt48tDpA47SMu) | [Vega Almohalla](https://open.spotify.com/artist/5XGMdl7ZEKx6q1WI3i3oWc) | [Tenerte](https://open.spotify.com/album/2VJU5UyK9Qnw6KwZ4dftiR) | 2:40 |
 | 49 | [TWICE REMOVED](https://open.spotify.com/track/6cMaeMxUUtPGZri4qPSQ5Y) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Revengeseekerz](https://open.spotify.com/album/21b4cDNse2AMpj94ykfuON) | 3:59 |
 | 50 | [CCF \(I'm Gonna Stay With You\)](https://open.spotify.com/track/4t5by4BVLMjeoNaOhmweOJ) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [CCF \(I'm Gonna Stay With You\)](https://open.spotify.com/album/0wc4SXmvSckUR402cSg9AK) | 8:11 |
-| 51 | [Me cago en el amor](https://open.spotify.com/track/2HacRkVR8a0uO5TTKUHLTM) | [Anabel Lee](https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW), [Magüi](https://open.spotify.com/artist/2yBvefXHfg1iVX6dALbIAL) | [Me cago en el amor](https://open.spotify.com/album/1fEK3rpRawN8R3kCnznIDi) | 3:08 |
+| 51 | [Me cago en el amor](https://open.spotify.com/track/2HacRkVR8a0uO5TTKUHLTM) | [Anabel Lee](https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW), [Magüi](https://open.spotify.com/artist/7m3PAUi8OfLBxBhADiGb1V) | [Me cago en el amor](https://open.spotify.com/album/1fEK3rpRawN8R3kCnznIDi) | 3:08 |
 | 52 | [Rain in the River](https://open.spotify.com/track/5pbmSyK67ASTZExAX3TrDP) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Rain in the River](https://open.spotify.com/album/3DInaCkwipZmTpN7TviZ7P) | 3:12 |
 | 53 | [DIVA DEL INFIERNO](https://open.spotify.com/track/4bNkU8ORLnKELrigwQ6oNt) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [DIVA DEL INFIERNO](https://open.spotify.com/album/2tP1VXaYvbqUfwF0ch923D) | 3:44 |
 | 54 | [Un petonet](https://open.spotify.com/track/778GQ3Md4lKITSgMPdHU1l) | [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Cafè pels més cafeteros](https://open.spotify.com/album/0tFOdwJIPhSkiHilK2lmb7) | 2:29 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 61 | [Zarigani](https://open.spotify.com/track/0h7QUx68t1bvVeFSrDtKPJ) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Zarigani](https://open.spotify.com/album/2fxUEsxncK8pHfcj3se8Kc) | 4:33 |
 | 62 | [Cuarenta Mil](https://open.spotify.com/track/5m8gxrOo5vlwntpyn75eHF) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Gigante](https://open.spotify.com/album/3jf4hE1DY8n3eE8p7KpBVO) | 3:38 |
 | 63 | [Despedida](https://open.spotify.com/track/110BAOGkDSP4T5hUUius1q) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Despedida](https://open.spotify.com/album/2iYLGQ5pypH737g75mx4yf) | 2:23 |
-| 64 | [UN PLAN](https://open.spotify.com/track/7nfcmPolmFFJF8R57Tc9H4) | [Albany](https://open.spotify.com/artist/6zwUnDx8piIjkU17CgOKh5), [LEÏTI](https://open.spotify.com/artist/5FQJWdcKPAijmEi4uroZ4h) | [UN PLAN](https://open.spotify.com/album/2gsXOPI30iZAIbOJZFt4eN) | 2:58 |
+| 64 | [UN PLAN](https://open.spotify.com/track/7nfcmPolmFFJF8R57Tc9H4) | [Albany](https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu), [LEÏTI](https://open.spotify.com/artist/5FQJWdcKPAijmEi4uroZ4h) | [UN PLAN](https://open.spotify.com/album/2gsXOPI30iZAIbOJZFt4eN) | 2:58 |
 | 65 | [La Brújula \[2018\]](https://open.spotify.com/track/1NRJBv0Kk2eMfPoU5OS5EA) | [MERINO](https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam) | [El Bosque](https://open.spotify.com/album/3Z3nDVA3nbeSRbJY1hAcpq) | 3:58 |
 | 66 | [Tell Me What You Want](https://open.spotify.com/track/7CDQD8mNhMdvxHuwfE1gbW) | [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY) | [Eclairer le monde \- Light the World](https://open.spotify.com/album/7M2i3utcB8cUT9PIDI6Px1) | 4:29 |
 | 67 | [Hoochie Coochie](https://open.spotify.com/track/7ygjfxmmkgPN0nbyYOMD2T) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hoochie Coochie](https://open.spotify.com/album/3AGhrLfPdpOZQnI7s5GBjz) | 2:27 |

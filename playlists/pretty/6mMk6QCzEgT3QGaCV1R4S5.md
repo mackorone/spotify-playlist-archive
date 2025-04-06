@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 
 > Get moving on the dancefloor with some big room beats! Cover: Loud Luxury
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 36,233 likes - 70 songs - 3 hr 49 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 36,232 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 | 19 | [All My Life](https://open.spotify.com/track/6NOlVkuAFtqTiBInHuqlrs) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Paradise](https://open.spotify.com/album/1jWcipGHDLJ94RMB2XUhgK) | 3:22 |
 | 20 | [You](https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [You](https://open.spotify.com/album/4ADw59fMHQFPDty2fjXQZ4) | 2:53 |
 | 21 | [Bodyology](https://open.spotify.com/track/5jbJxbG9cqhRknyCjr741q) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [Bodyology](https://open.spotify.com/album/3TrkqEFslRqaWu7FDhomTU) | 2:28 |
-| 22 | [Long Way Down \(feat\. Badlook\)](https://open.spotify.com/track/5AuZZDslOUpGGSFU4vUJoK) | [Shub](https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A), [Badlook](https://open.spotify.com/artist/0X1pUgwNe1hDigWHccoRvo), [Tia Wood](https://open.spotify.com/artist/0NPcTqtChsRP52BHjPGJLC) | [Long Way Down \(feat\. Badlook\)](https://open.spotify.com/album/1jBMug2yq6r4F4IpLEAL9W) | 3:49 |
+| 22 | [Long Way Down \(feat\. Badlook\)](https://open.spotify.com/track/5AuZZDslOUpGGSFU4vUJoK) | [Shub](https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A), [Badlook](https://open.spotify.com/artist/0X1pUgwNe1hDigWHccoRvo) | [Long Way Down \(feat\. Badlook\)](https://open.spotify.com/album/1jBMug2yq6r4F4IpLEAL9W) | 3:49 |
 | 23 | [never gonna be the same](https://open.spotify.com/track/3ormA7DxsMVGiTRZy0vNZC) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [never gonna be the same](https://open.spotify.com/album/1c4WaKoZFo70eWMs5G4ljM) | 3:35 |
 | 24 | [Often](https://open.spotify.com/track/44QZweE0DwqYkjyAySHY61) | [Takis](https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4) | [Often](https://open.spotify.com/album/5SFDE5073LzAsA0UmkpeKO) | 2:55 |
 | 25 | [Love Is The Only Thing](https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Love Is The Only Thing](https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59) | 2:51 |

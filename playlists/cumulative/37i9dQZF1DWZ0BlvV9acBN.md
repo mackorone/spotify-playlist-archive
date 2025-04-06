@@ -4,14 +4,14 @@
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: AtituD
 
-183 songs - 14 hr 5 min
+184 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 Graus](https://open.spotify.com/track/0eAq2bA89nCxLTDBt9T1b0) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p), [Melyssa Almeida](https://open.spotify.com/artist/2kqKUICMbjxfslD1GkpLAq) | [1000 Graus](https://open.spotify.com/album/1YNEyzlJYU2QCcYbkQNXIB) | 2:48 | 2023-03-11 | 2024-06-01 |
 | [467 \(Cabo da Nau\)](https://open.spotify.com/track/2Vi9LfNvtOrtkTKFUiNinI) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p) | [467 \(Cabo da Nau\)](https://open.spotify.com/album/3lSHJXrLKFXruAg3A156HA) | 2:37 | 2025-03-14 |  |
 | [A Alegria / O Exército de Deus / Caiam por Terra / Autoridade e Poder](https://open.spotify.com/track/1FA2ED4v1F9d15HviInZSO) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Lembre\-se 80's](https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu) | 3:52 | 2022-09-02 | 2024-04-19 |
-| [A Alegria / O Exército de Deus / Caiam por Terra / Autoridade e Poder \- Ao Vivo](https://open.spotify.com/track/2Q1948Kr1w3OIkwSE0r9gn) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [A Alegria / O Exército de Deus / Caiam por Terra / Autoridade e Poder \(Ao Vivo\)](https://open.spotify.com/album/7MjxLoPnQKWGqaYxVKGwlL) | 3:52 | 2024-04-19 |  |
+| [A Alegria / O Exército de Deus / Caiam por Terra / Autoridade e Poder \- Ao Vivo](https://open.spotify.com/track/2Q1948Kr1w3OIkwSE0r9gn) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [A Alegria / O Exército de Deus / Caiam por Terra / Autoridade e Poder \(Ao Vivo\)](https://open.spotify.com/album/7MjxLoPnQKWGqaYxVKGwlL) | 3:52 | 2024-04-19 | 2025-04-06 |
 | [A Alegria do Senhor \- Ao Vivo](https://open.spotify.com/track/7k1jfZcZ7iR2Uo8Iwpb7Mp) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [A Alegria do Senhor \(Ao Vivo\)](https://open.spotify.com/album/66KsjpCinRANmeDJ3ONaiy) | 3:40 | 2022-09-02 |  |
 | [A Carta](https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn) | [Abel Junho](https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn) | [A Carta](https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba) | 4:56 | 2022-09-02 | 2025-03-15 |
 | [A Estátua](https://open.spotify.com/track/5dV1WilekeFKNrDVqmgo0s) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd), [Diego Rox](https://open.spotify.com/artist/1wrVWFQTN7fUh9cR0pUvJg) | [A Estátua](https://open.spotify.com/album/19cl5wWgzJsRjsPdyOBwpK) | 3:27 | 2023-03-18 |  |
@@ -56,6 +56,7 @@
 | [DESMANCHOU](https://open.spotify.com/track/2YJapsTIWBZiIq1ng3jc66) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY) | [DESMANCHOU](https://open.spotify.com/album/0QKuEx3bsOLADuRXcG5GuR) | 4:12 | 2024-03-01 |  |
 | [Deus Me Livre](https://open.spotify.com/track/3xahBuYxkf8xDKOghKDri6) | [Igor Pinheiro de Lima](https://open.spotify.com/artist/1HG2T9YTGz6sreCoAVRfku) | [Deus Me Livre](https://open.spotify.com/album/4Jrber98XBRx0un047U9Wv) | 3:40 | 2024-05-31 | 2024-08-31 |
 | [Dia De Milagres](https://open.spotify.com/track/6O2R8WvZMTqCY8qrzgaHoT) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Ramiro Garcia](https://open.spotify.com/artist/5XsYk2KMZlUPlr2GhELgZx), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Dia De Milagres](https://open.spotify.com/album/5HAEqBs5oAlXReyhPPYYsQ) | 4:22 | 2023-05-19 |  |
+| [Diz \- Ddg Reloaded Tour \- Ao Vivo](https://open.spotify.com/track/4jIS6gYPgjgCBv89phRxCj) | [Oficina G3](https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH) | [Diz \- Ddg Reloaded Tour \(Ao Vivo\)](https://open.spotify.com/album/3PKRtLZxf1EcJxqVC6LvWP) | 5:39 | 2025-04-05 |  |
 | [ELE É EXALTADO](https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [ELE É EXALTADO](https://open.spotify.com/album/103JMiPuCFhMwLccEbFiLZ) | 4:58 | 2023-05-19 | 2024-08-31 |
 | [Ele é o Senhor \- Ao Vivo](https://open.spotify.com/track/3fPesZ6cCEpqAF2oerxrHm) | [Siloé Music](https://open.spotify.com/artist/5LSZWUUeqVk0kctoZYKjoL) | [Ele é o Senhor \(Ao Vivo\)](https://open.spotify.com/album/1AqEPiz5W54fluQeT2c2IU) | 7:41 | 2024-06-28 |  |
 | [Em Coma](https://open.spotify.com/track/7Cvut5AmV0X1O7Xtg8Nd7H) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT), [Vulgo Raph](https://open.spotify.com/artist/31Gjt5HPHlXltWWVh1LmKA) | [Em Coma](https://open.spotify.com/album/3wPtlL06LbcxZnNwwXz4LE) | 3:35 | 2024-05-31 | 2024-10-26 |

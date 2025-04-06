@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,213 likes - 165 songs - 9 hr 2 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,223 likes - 165 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 8 | [WORK THIS \(ON MY D\)](https://open.spotify.com/track/0sfQWJxLwD9qJFrWsDG1hW) | [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O) | [WORK THIS \(ON MY D\)](https://open.spotify.com/album/2yW7ij3XKwrvcodmYvTpy6) | 3:48 |
 | 9 | [Electricity \(salute Remix\)](https://open.spotify.com/track/6OBBLO7lE3E2EaqIv3bJ0i) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Electricity \(salute Remix\)](https://open.spotify.com/album/53vQYSInh7uqhuUd5y6gdk) | 4:10 |
 | 10 | [YOU & I](https://open.spotify.com/track/6cgOdelOyLpjdcOl811Z9t) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Datti](https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q) | [YOU & I](https://open.spotify.com/album/29MLRMFFGmRPxHJ93JeHhZ) | 3:51 |
-| 11 | [Sometimes](https://open.spotify.com/track/65I233XwMBY6EpVHdJL1wQ) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Sometimes](https://open.spotify.com/album/40Z5p8x1Z3e0BJs8Mck3fg) | 2:07 |
+| 11 | [Sometimes](https://open.spotify.com/track/65I233XwMBY6EpVHdJL1wQ) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [Cxssidy](https://open.spotify.com/artist/3Y3lbzoi0F8wQIiTnIbDXq) | [Sometimes](https://open.spotify.com/album/40Z5p8x1Z3e0BJs8Mck3fg) | 2:07 |
 | 12 | [HERZSCHLAG](https://open.spotify.com/track/1qJH8giBk7OawPg5RF5j9A) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [KLUBPARTEI](https://open.spotify.com/album/1uISv19ZmoOXpsqqm48iik) | 3:53 |
 | 13 | [License To Be Bad](https://open.spotify.com/track/3yBdKw7lvhn5u4vpeWRDTV) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Ciszak](https://open.spotify.com/artist/6lf5XKHZHGXxHFPOKSkodA), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [License To Be Bad](https://open.spotify.com/album/5htp5ygxDau4GhLczYA46g) | 3:06 |
 | 14 | [Promise We'll Live Again](https://open.spotify.com/track/7EK734hEQsh28yELMnBOeM) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Promise We'll Live Again](https://open.spotify.com/album/35ZQjuN9ZoAJjdhrLQd3sF) | 3:09 |

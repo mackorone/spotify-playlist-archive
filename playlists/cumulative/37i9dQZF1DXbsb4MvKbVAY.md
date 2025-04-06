@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. 💎 Kannessa OLGA.
 
-1,061 songs - 2 day 4 hr 53 min
+1,062 songs - 2 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,6 +455,7 @@
 | [Kirsikat](https://open.spotify.com/track/0RrtayzwGZd7rCvLgrDmMU) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [Kirsikat](https://open.spotify.com/album/7dWEiZ4iqA45KlrjXosIHQ) | 3:26 | 2025-03-14 |  |
 | [Kiss Kiss](https://open.spotify.com/track/66wHDmeqZQyyRLFa5WCbm4) | [Kaeyra](https://open.spotify.com/artist/3LRqB4U9moDI5yO6e4NrEG) | [Kiss Kiss](https://open.spotify.com/album/78k6mOAHqLR8NrXixdvamj) | 2:53 | 2025-03-20 | 2025-03-28 |
 | [KOHTALO](https://open.spotify.com/track/2WlZzWKyyQRFpXnqV6JepA) | [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF) | [KOHTALO](https://open.spotify.com/album/3gFojaJRDbfyUjUTr4KJ1A) | 3:02 | 2025-01-02 | 2025-02-09 |
+| [Koko City \(feat\. TonoSlono & DJ Ibusal\)](https://open.spotify.com/track/5Ai7hFGfIvdNYLbELNJgaL) | [Juno](https://open.spotify.com/artist/5iFuIxdmHNEiGJaR49TLL9), [TonoSlono](https://open.spotify.com/artist/4vmB7mrarI55VXlMRZWMNq), [DJ Ibusal](https://open.spotify.com/artist/5qVgYJUrdxe6jJIBqG6djX) | [Koko City \(feat\. TonoSlono & DJ Ibusal\)](https://open.spotify.com/album/5OHmRYJZPqr6TxGkrxH7hZ) | 3:30 | 2025-04-05 |  |
 | [Kokonainen](https://open.spotify.com/track/2NAxJ9C0aUPsGTEwUfD8lN) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Kokonainen](https://open.spotify.com/album/50lul7y5PIQ46XQJmcHvwk) | 2:39 | 2024-07-11 | 2024-07-27 |
 | [Kolumbus \(feat\. Mikael Gabriel\)](https://open.spotify.com/track/7KijaUZDwGJTD3TrQeBDMZ) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Kolumbus \(feat\. Mikael Gabriel\)](https://open.spotify.com/album/2cH1c3Wvvy5DUX16UPkcPX) | 2:49 | 2024-08-08 | 2024-08-30 |
 | [Kommentti](https://open.spotify.com/track/617zCnDZpkXdOi8cLXESyw) | [SAFIRA](https://open.spotify.com/artist/4RCgeIzdarhkYPoirlh6YW) | [Kommentti](https://open.spotify.com/album/4F6ehQ52TLRhdRRYehuSCQ) | 2:20 | 2024-07-25 | 2024-08-02 |
@@ -485,7 +486,7 @@
 | [Laskukausi \(feat\. Jore Marjaranta\)](https://open.spotify.com/track/3k7lTMghzg2yyY6BaBiTf4) | [SUOMEN PELI](https://open.spotify.com/artist/27MFM28QS21aphrFWyYfdj), [Jore Marjaranta](https://open.spotify.com/artist/7nHSXwq9ZCP2btdSNc40k1) | [Laskukausi \(feat\. Jore Marjaranta\)](https://open.spotify.com/album/3eUA2JRLKZzKiqB55hDFvM) | 2:31 | 2025-01-30 | 2025-02-07 |
 | [Last Call For The Summer](https://open.spotify.com/track/7EH0yed4eXLBYKyMCzQvP3) | [s m s n](https://open.spotify.com/artist/7fU0fsPj1ovHWHWghGl65T), [NEEA RIVER](https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw) | [Last Call For The Summer](https://open.spotify.com/album/7IGbxzmYRbimmh3vFlBtvb) | 2:18 | 2024-08-08 | 2024-08-16 |
 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 | 2024-11-07 | 2025-02-28 |
-| [Last Song \(feat\. Faouzia\)](https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw) | 2:33 | 2025-01-10 |  |
+| [Last Song \(feat\. Faouzia\)](https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw) | 2:33 | 2025-01-10 | 2025-04-06 |
 | [LE LE LE](https://open.spotify.com/track/0M7WQozVFnh1MncFRPcZdo) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [LE LE LE](https://open.spotify.com/album/4pw34ehZjeYt0fzHSLWtfV) | 3:19 | 2024-09-26 | 2024-10-11 |
 | [Leijonanruokaa](https://open.spotify.com/track/2gYKkaZDgonVODfPQBQtW3) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Leijonanruokaa](https://open.spotify.com/album/3pbw8Ifw6yayhXGLnc1pWj) | 3:14 | 2025-02-21 | 2025-03-15 |
 | [Leima \(feat\. Turisti\)](https://open.spotify.com/track/57Stuvnw9HYOTKsmHxk9gV) | [Jenni Vartiainen](https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [ORIGO](https://open.spotify.com/album/7bH5zo9yUlF6TXk8SpfxPt) | 2:36 | 2025-03-20 |  |

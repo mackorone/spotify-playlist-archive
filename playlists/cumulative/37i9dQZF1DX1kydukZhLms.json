@@ -1467,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "Apocalyptica",
+        "url": "https://open.spotify.com/album/6gWLb5vcuUzWzPli9ubIX4"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333013,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/7b71VGiqL6DdpzCyaaJEaD"
+    },
+    {
+      "album": {
         "name": "The Metal Opera Pt. I",
         "url": "https://open.spotify.com/album/287hOKAfNAt7TPMtl8Au6N"
       },
@@ -1694,7 +1712,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 326000,
       "name": "Givin' Yourself Away",
       "url": "https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP"

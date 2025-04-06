@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Mahmundi",
-  "num_followers": 349639,
+  "num_followers": 349638,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2025-04-04 19:45:24",
       "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 437313,
-      "name": "VELUDO MARROM",
-      "url": "https://open.spotify.com/track/21nV7Brjy93nQPM98QwIfr"
-    },
-    {
-      "added_at": "2025-04-04 19:45:24",
-      "album": {
         "name": "Coisas Naturais",
         "url": "https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 239779,
       "name": "Coisas Naturais",
       "url": "https://open.spotify.com/track/0MAc9pefRKSDEjq8Q85Mky"
+    },
+    {
+      "added_at": "2025-04-04 19:45:24",
+      "album": {
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 437313,
+      "name": "VELUDO MARROM",
+      "url": "https://open.spotify.com/track/21nV7Brjy93nQPM98QwIfr"
     },
     {
       "added_at": "2025-04-04 19:45:24",
@@ -547,22 +547,18 @@
     {
       "added_at": "2025-04-04 19:45:24",
       "album": {
-        "name": "Pagode da Mart'n\u00e1lia",
-        "url": "https://open.spotify.com/album/6TuPkpocUpWzhr8Q91vv1Z"
+        "name": "Olho D'\u00c1gua",
+        "url": "https://open.spotify.com/album/7fCIDiLSw43YDw7suMRqkb"
       },
       "artists": [
         {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
         }
       ],
-      "duration_ms": 180982,
-      "name": "Cheia de Manias",
-      "url": "https://open.spotify.com/track/6m7oHKGEW3cMHrYES1xIbC"
+      "duration_ms": 188064,
+      "name": "Deleita",
+      "url": "https://open.spotify.com/track/6BZGnPjuZTH8znxY7Zp0my"
     },
     {
       "added_at": "2025-04-04 19:45:24",
@@ -587,18 +583,22 @@
     {
       "added_at": "2025-04-04 19:45:24",
       "album": {
-        "name": "Olho D'\u00c1gua",
-        "url": "https://open.spotify.com/album/7fCIDiLSw43YDw7suMRqkb"
+        "name": "Pagode da Mart'n\u00e1lia",
+        "url": "https://open.spotify.com/album/6TuPkpocUpWzhr8Q91vv1Z"
       },
       "artists": [
         {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 188064,
-      "name": "Deleita",
-      "url": "https://open.spotify.com/track/6BZGnPjuZTH8znxY7Zp0my"
+      "duration_ms": 180982,
+      "name": "Cheia de Manias",
+      "url": "https://open.spotify.com/track/6m7oHKGEW3cMHrYES1xIbC"
     },
     {
       "added_at": "2025-04-04 19:45:24",
@@ -619,6 +619,22 @@
       "duration_ms": 213377,
       "name": "Bananeira",
       "url": "https://open.spotify.com/track/4WgmnXbC1AeMIHzzrMY3o0"
+    },
+    {
+      "added_at": "2025-04-04 19:45:24",
+      "album": {
+        "name": "N\u00e3o Mexe Comigo",
+        "url": "https://open.spotify.com/album/0JQof3xR6Txc8OW5SyCa8o"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 219770,
+      "name": "N\u00e3o Mexe Comigo",
+      "url": "https://open.spotify.com/track/39BatjiZgM7JTbzVaDqxJr"
     },
     {
       "added_at": "2025-04-04 19:45:24",
@@ -655,26 +671,6 @@
     {
       "added_at": "2025-04-04 19:45:24",
       "album": {
-        "name": "Ao Persistirem os Sintomas",
-        "url": "https://open.spotify.com/album/3rI9qDN4mbRedX4Zot7p5y"
-      },
-      "artists": [
-        {
-          "name": "T\u00f3 Brandileone",
-          "url": "https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "Salto",
-      "url": "https://open.spotify.com/track/6wei3bZWElX7dUvZOV1ROW"
-    },
-    {
-      "added_at": "2025-04-04 19:45:24",
-      "album": {
         "name": "O amor me fala de voc\u00ea",
         "url": "https://open.spotify.com/album/7kvvIABxvGFT5Cyz6mvgEz"
       },
@@ -707,6 +703,26 @@
     {
       "added_at": "2025-04-04 19:45:24",
       "album": {
+        "name": "Ao Persistirem os Sintomas",
+        "url": "https://open.spotify.com/album/3rI9qDN4mbRedX4Zot7p5y"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3 Brandileone",
+          "url": "https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "Salto",
+      "url": "https://open.spotify.com/track/6wei3bZWElX7dUvZOV1ROW"
+    },
+    {
+      "added_at": "2025-04-04 19:45:24",
+      "album": {
         "name": "KINTSUGI",
         "url": "https://open.spotify.com/album/1Fc9YzTUh4DfZlA3Raqe7t"
       },
@@ -727,6 +743,38 @@
     {
       "added_at": "2025-04-04 19:45:24",
       "album": {
+        "name": "Fullg\u00e1s",
+        "url": "https://open.spotify.com/album/5PaaYWMN2SXYc4kygrfWCQ"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "duration_ms": 172258,
+      "name": "Fullg\u00e1s",
+      "url": "https://open.spotify.com/track/1vFwHGzBsCwlpQe2mU0f91"
+    },
+    {
+      "added_at": "2025-04-04 19:45:24",
+      "album": {
+        "name": "Tanto",
+        "url": "https://open.spotify.com/album/6UnPlaIzrlpTwH40c9Z1R1"
+      },
+      "artists": [
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        }
+      ],
+      "duration_ms": 186465,
+      "name": "Tanto",
+      "url": "https://open.spotify.com/track/39y7YPqa1gxJPq52KkOAzV"
+    },
+    {
+      "added_at": "2025-04-04 19:45:24",
+      "album": {
         "name": "Estrela",
         "url": "https://open.spotify.com/album/3t9mP6TVjZsG6UmvsFQpTI"
       },
@@ -743,22 +791,6 @@
       "duration_ms": 246136,
       "name": "Estrela",
       "url": "https://open.spotify.com/track/0ksvjOeB4HMDAkLIPcVpra"
-    },
-    {
-      "added_at": "2025-04-04 19:45:24",
-      "album": {
-        "name": "Fullg\u00e1s",
-        "url": "https://open.spotify.com/album/5PaaYWMN2SXYc4kygrfWCQ"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 172258,
-      "name": "Fullg\u00e1s",
-      "url": "https://open.spotify.com/track/1vFwHGzBsCwlpQe2mU0f91"
     },
     {
       "added_at": "2025-04-04 19:45:24",
@@ -807,22 +839,6 @@
       "duration_ms": 140000,
       "name": "Ponto De Oxum",
       "url": "https://open.spotify.com/track/5DQi62ho5FjIp5Be3bcGeF"
-    },
-    {
-      "added_at": "2025-04-04 19:45:24",
-      "album": {
-        "name": "Tanto",
-        "url": "https://open.spotify.com/album/6UnPlaIzrlpTwH40c9Z1R1"
-      },
-      "artists": [
-        {
-          "name": "Bruna Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
-        }
-      ],
-      "duration_ms": 186465,
-      "name": "Tanto",
-      "url": "https://open.spotify.com/track/39y7YPqa1gxJPq52KkOAzV"
     },
     {
       "added_at": "2025-04-04 19:45:24",
@@ -879,26 +895,6 @@
     {
       "added_at": "2025-04-04 19:45:24",
       "album": {
-        "name": "Perto de Mim",
-        "url": "https://open.spotify.com/album/6cC2ji5TGHyOcAglcwBDc6"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        },
-        {
-          "name": "Necka Ayala",
-          "url": "https://open.spotify.com/artist/08g55FerICNj0oJ5Jkhmn3"
-        }
-      ],
-      "duration_ms": 200428,
-      "name": "Perto de Mim",
-      "url": "https://open.spotify.com/track/2Kw52vEmPePbbJALpaJawB"
-    },
-    {
-      "added_at": "2025-04-04 19:45:24",
-      "album": {
         "name": "Chuva de Prata",
         "url": "https://open.spotify.com/album/1DQ0noay0EVtLfgvYlpOcK"
       },
@@ -927,6 +923,42 @@
       "duration_ms": 426853,
       "name": "Estrela Misteriosa",
       "url": "https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG"
+    },
+    {
+      "added_at": "2025-04-04 19:45:24",
+      "album": {
+        "name": "big bang",
+        "url": "https://open.spotify.com/album/1CyjLL12GVAhClA6MWJoOe"
+      },
+      "artists": [
+        {
+          "name": "Jadsa",
+          "url": "https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj"
+        }
+      ],
+      "duration_ms": 202329,
+      "name": "big bang",
+      "url": "https://open.spotify.com/track/0GcSihQinQnxuQuP2BDmbw"
+    },
+    {
+      "added_at": "2025-04-04 19:45:24",
+      "album": {
+        "name": "Perto de Mim",
+        "url": "https://open.spotify.com/album/6cC2ji5TGHyOcAglcwBDc6"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Necka Ayala",
+          "url": "https://open.spotify.com/artist/08g55FerICNj0oJ5Jkhmn3"
+        }
+      ],
+      "duration_ms": 200428,
+      "name": "Perto de Mim",
+      "url": "https://open.spotify.com/track/2Kw52vEmPePbbJALpaJawB"
     },
     {
       "added_at": "2025-04-04 19:45:24",
@@ -967,42 +999,18 @@
     {
       "added_at": "2025-04-04 19:45:24",
       "album": {
-        "name": "big bang",
-        "url": "https://open.spotify.com/album/1CyjLL12GVAhClA6MWJoOe"
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/6oxI4U6ahuwziH0vuhY7hi"
       },
       "artists": [
         {
-          "name": "Jadsa",
-          "url": "https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj"
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
         }
       ],
-      "duration_ms": 202329,
-      "name": "big bang",
-      "url": "https://open.spotify.com/track/0GcSihQinQnxuQuP2BDmbw"
-    },
-    {
-      "added_at": "2025-04-04 19:45:24",
-      "album": {
-        "name": "Um Triz",
-        "url": "https://open.spotify.com/album/3NUebQrHVZGIiKMd4KAEq3"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        },
-        {
-          "name": "Tatiana Parra",
-          "url": "https://open.spotify.com/artist/4UPAR5j8CLFlb68v9KFiZV"
-        },
-        {
-          "name": "Ot\u00e1vio Toledo",
-          "url": "https://open.spotify.com/artist/0urNub4uP9SqK6JYZuDEbd"
-        }
-      ],
-      "duration_ms": 224908,
-      "name": "Um Triz",
-      "url": "https://open.spotify.com/track/2902oGw1QmvUqjVA6xkBcL"
+      "duration_ms": 232714,
+      "name": "AURORA",
+      "url": "https://open.spotify.com/track/15EVDrisvrVYHuf0qjclQp"
     },
     {
       "added_at": "2025-04-04 19:45:24",
@@ -1023,18 +1031,18 @@
     {
       "added_at": "2025-04-04 19:45:24",
       "album": {
-        "name": "AURORA",
-        "url": "https://open.spotify.com/album/6oxI4U6ahuwziH0vuhY7hi"
+        "name": "Uma Estrela Misteriosa Revelar\u00e1 o Segredo",
+        "url": "https://open.spotify.com/album/0GHZqCGxBtEO3Z4cCIpPJD"
       },
       "artists": [
         {
-          "name": "LAURO",
-          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
         }
       ],
-      "duration_ms": 232714,
-      "name": "AURORA",
-      "url": "https://open.spotify.com/track/15EVDrisvrVYHuf0qjclQp"
+      "duration_ms": 273139,
+      "name": "Depois de Amanh\u00e3",
+      "url": "https://open.spotify.com/track/5rqq2EhxqkJP77zD1o4FKl"
     },
     {
       "added_at": "2025-04-04 19:45:24",
@@ -1063,22 +1071,6 @@
     {
       "added_at": "2025-04-04 19:45:24",
       "album": {
-        "name": "Uma Estrela Misteriosa Revelar\u00e1 o Segredo",
-        "url": "https://open.spotify.com/album/0GHZqCGxBtEO3Z4cCIpPJD"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 273139,
-      "name": "Depois de Amanh\u00e3",
-      "url": "https://open.spotify.com/track/5rqq2EhxqkJP77zD1o4FKl"
-    },
-    {
-      "added_at": "2025-04-04 19:45:24",
-      "album": {
         "name": "Universo de Paix\u00e3o",
         "url": "https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y"
       },
@@ -1095,8 +1087,8 @@
     {
       "added_at": "2025-04-04 19:45:24",
       "album": {
-        "name": "Alma Turva",
-        "url": "https://open.spotify.com/album/0HiJoWzkfAENzSJcB9oVKQ"
+        "name": "Um Triz",
+        "url": "https://open.spotify.com/album/3NUebQrHVZGIiKMd4KAEq3"
       },
       "artists": [
         {
@@ -1104,13 +1096,17 @@
           "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
         },
         {
-          "name": "Wado",
-          "url": "https://open.spotify.com/artist/3rnWuDRQyfIuj7CdrCWLMo"
+          "name": "Tatiana Parra",
+          "url": "https://open.spotify.com/artist/4UPAR5j8CLFlb68v9KFiZV"
+        },
+        {
+          "name": "Ot\u00e1vio Toledo",
+          "url": "https://open.spotify.com/artist/0urNub4uP9SqK6JYZuDEbd"
         }
       ],
-      "duration_ms": 141874,
-      "name": "Alma Turva",
-      "url": "https://open.spotify.com/track/719yUpGCeImqyzkOgZ4M55"
+      "duration_ms": 224908,
+      "name": "Um Triz",
+      "url": "https://open.spotify.com/track/2902oGw1QmvUqjVA6xkBcL"
     },
     {
       "added_at": "2025-04-04 19:45:24",
@@ -1151,22 +1147,6 @@
     {
       "added_at": "2025-04-04 19:45:24",
       "album": {
-        "name": "Coisas de Viver",
-        "url": "https://open.spotify.com/album/3dJWkE6flvMZ5o0AhjeCPc"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 191941,
-      "name": "Peito Aberto",
-      "url": "https://open.spotify.com/track/3LwpgwdlbC5kCRlPTrf2W8"
-    },
-    {
-      "added_at": "2025-04-04 19:45:24",
-      "album": {
         "name": "50 (Ao Vivo)",
         "url": "https://open.spotify.com/album/542SJci09jqTRFyVoAzCvI"
       },
@@ -1179,6 +1159,22 @@
       "duration_ms": 263014,
       "name": "Divina Com\u00e9dia Humana - Ao Vivo",
       "url": "https://open.spotify.com/track/4inavIQ1YgHIL6K5eG623i"
+    },
+    {
+      "added_at": "2025-04-04 19:45:24",
+      "album": {
+        "name": "Coisas de Viver",
+        "url": "https://open.spotify.com/album/3dJWkE6flvMZ5o0AhjeCPc"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 191941,
+      "name": "Peito Aberto",
+      "url": "https://open.spotify.com/track/3LwpgwdlbC5kCRlPTrf2W8"
     },
     {
       "added_at": "2025-04-04 19:45:24",
@@ -1255,18 +1251,22 @@
     {
       "added_at": "2025-04-04 19:45:24",
       "album": {
-        "name": "Afrobossa",
-        "url": "https://open.spotify.com/album/4nEY7evBuBo6PdadH8qEHn"
+        "name": "Alma Turva",
+        "url": "https://open.spotify.com/album/0HiJoWzkfAENzSJcB9oVKQ"
       },
       "artists": [
         {
-          "name": "Dida Larruscain",
-          "url": "https://open.spotify.com/artist/08c445HWVhYlEdaJ9OiU2u"
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Wado",
+          "url": "https://open.spotify.com/artist/3rnWuDRQyfIuj7CdrCWLMo"
         }
       ],
-      "duration_ms": 179484,
-      "name": "Afrobossa",
-      "url": "https://open.spotify.com/track/4TP59fZEAgSVWBNnARu7qv"
+      "duration_ms": 141874,
+      "name": "Alma Turva",
+      "url": "https://open.spotify.com/track/719yUpGCeImqyzkOgZ4M55"
     },
     {
       "added_at": "2025-04-04 19:45:24",
@@ -1287,6 +1287,42 @@
       "duration_ms": 195152,
       "name": "Cada Canto",
       "url": "https://open.spotify.com/track/22KAEl2Y4umP55nLPA2p2y"
+    },
+    {
+      "added_at": "2025-04-04 19:45:24",
+      "album": {
+        "name": "Afrobossa",
+        "url": "https://open.spotify.com/album/4nEY7evBuBo6PdadH8qEHn"
+      },
+      "artists": [
+        {
+          "name": "Dida Larruscain",
+          "url": "https://open.spotify.com/artist/08c445HWVhYlEdaJ9OiU2u"
+        }
+      ],
+      "duration_ms": 179484,
+      "name": "Afrobossa",
+      "url": "https://open.spotify.com/track/4TP59fZEAgSVWBNnARu7qv"
+    },
+    {
+      "added_at": "2025-04-04 19:45:24",
+      "album": {
+        "name": "Menina da Pomp\u00e9ia",
+        "url": "https://open.spotify.com/album/26hFaJEcvg8iPaoJ1X2NVL"
+      },
+      "artists": [
+        {
+          "name": "Fi Bueno",
+          "url": "https://open.spotify.com/artist/1Fop8IdPd6gLmlAIwRz5W0"
+        },
+        {
+          "name": "Sandra De S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+        }
+      ],
+      "duration_ms": 209432,
+      "name": "Menina da Pomp\u00e9ia",
+      "url": "https://open.spotify.com/track/1MlzqEZcme3f8AixwdJciR"
     },
     {
       "added_at": "2025-04-04 19:45:24",
@@ -1327,26 +1363,6 @@
       "duration_ms": 221015,
       "name": "O Tempo Cuidar\u00e1 de Tudo",
       "url": "https://open.spotify.com/track/403D3zWfPQhtscWY509it9"
-    },
-    {
-      "added_at": "2025-04-04 19:45:24",
-      "album": {
-        "name": "Menina da Pomp\u00e9ia",
-        "url": "https://open.spotify.com/album/26hFaJEcvg8iPaoJ1X2NVL"
-      },
-      "artists": [
-        {
-          "name": "Fi Bueno",
-          "url": "https://open.spotify.com/artist/1Fop8IdPd6gLmlAIwRz5W0"
-        },
-        {
-          "name": "Sandra De S\u00e1",
-          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
-        }
-      ],
-      "duration_ms": 209432,
-      "name": "Menina da Pomp\u00e9ia",
-      "url": "https://open.spotify.com/track/1MlzqEZcme3f8AixwdJciR"
     },
     {
       "added_at": "2025-04-04 19:45:24",
@@ -1515,22 +1531,6 @@
       "duration_ms": 200164,
       "name": "Todo o Amor Que Houver Nessa Vida",
       "url": "https://open.spotify.com/track/57HsNsO2Up5WlLcoyugpcD"
-    },
-    {
-      "added_at": "2025-04-04 19:45:24",
-      "album": {
-        "name": "N\u00e3o Mexe Comigo",
-        "url": "https://open.spotify.com/album/0JQof3xR6Txc8OW5SyCa8o"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 219770,
-      "name": "N\u00e3o Mexe Comigo",
-      "url": "https://open.spotify.com/track/39BatjiZgM7JTbzVaDqxJr"
     },
     {
       "added_at": "2025-04-04 19:45:24",

@@ -20771,6 +20771,24 @@
     },
     {
       "album": {
+        "name": "Night Glow",
+        "url": "https://open.spotify.com/album/41DodAIPE7dUiNth2PJV9P"
+      },
+      "artists": [
+        {
+          "name": "Wandering River",
+          "url": "https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK"
+        }
+      ],
+      "date_added": "2025-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60348,
+      "name": "Night Glow",
+      "url": "https://open.spotify.com/track/1Whlp3An2VUNb5JjXF6cl7"
+    },
+    {
+      "album": {
         "name": "Eternal Sky",
         "url": "https://open.spotify.com/album/1gkgnmM8Sb6C5pSjR9MYfX"
       },

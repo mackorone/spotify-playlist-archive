@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Ayoub Hattab\. Artwork: Isu Kim
 
-405 songs - 21 hr 41 min
+406 songs - 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [3 Shoroot](https://open.spotify.com/track/3nISIjEGMkx6gddsXOcImZ) | [Kokym](https://open.spotify.com/artist/3MgpENFiSr4tPARLzifIZ3) | [3 Shoroot](https://open.spotify.com/album/4ltpcjb8jfevv5AmQDQuKq) | 2:24 | 2023-10-04 | 2024-05-15 |
 | [3ALA BALI](https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [3ALA BALI](https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON) | 2:42 | 2023-03-07 | 2023-05-24 |
 | [3YUN](https://open.spotify.com/track/3ccOgc5CTi7ojPMFEhjj4i) | [KairoKid](https://open.spotify.com/artist/4zmDtmTxro17k6QWwNfheh) | [3YUN](https://open.spotify.com/album/4ooVsSAZab7GwCi98j6w3j) | 2:52 | 2024-06-26 | 2024-10-02 |
+| [70's](https://open.spotify.com/track/4Blh7kOHMqddHNw9dihg3y) | [Dony](https://open.spotify.com/artist/5SPuVApDsQW9TH1UyFWtWu) | [70's](https://open.spotify.com/album/5sWPxAhokrsRcZfKiIaX0v) | 2:51 | 2025-04-05 |  |
 | [7doude](https://open.spotify.com/track/1neLWhWm0gw1pHjb0qdkZh) | [LAÏ](https://open.spotify.com/artist/7uUpJfXcVzBYTyaL55IKe6) | [7doude](https://open.spotify.com/album/2qJw5ynTpaVIFfICGu1fId) | 3:00 | 2022-11-23 | 2023-01-18 |
 | [A7LAM](https://open.spotify.com/track/3jbYNSnx1vFpcA7KkLe9O3) | [KairoKid](https://open.spotify.com/artist/4zmDtmTxro17k6QWwNfheh) | [A7LAM](https://open.spotify.com/album/0xT0gItY4yBFkBofDdYJGf) | 2:40 | 2024-08-13 | 2024-11-27 |
 | [Aadi](https://open.spotify.com/track/4TVVx3bzRfcFLB1U4Zfz2H) | [Husa & Zeyada](https://open.spotify.com/artist/3s47xvcoBSwPTgPizjEwfu) | [Aadi](https://open.spotify.com/album/5XmwW8gJIcjsUM771uXqNP) | 3:45 | 2024-10-01 | 2025-02-18 |
@@ -373,7 +374,7 @@
 | [Who Pulled Up? \(feat\. Jeed\)](https://open.spotify.com/track/4DkNc7OeBsd4a95Sb86Xnt) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF) | [Who Pulled Up? \(feat\. Jeed\)](https://open.spotify.com/album/7FYFckeLTVNxOzCHsMLuNC) | 2:18 | 2022-09-20 | 2022-09-28 |
 | [Words](https://open.spotify.com/track/675Tylxj87tk6TGGubnmT4) | [Nora Toutain](https://open.spotify.com/artist/7LXP2eZLFZYdpUi29xOF1A) | [Words](https://open.spotify.com/album/3qUeC7YPgYsC38OjSkZ7vK) | 6:37 | 2022-09-20 | 2022-10-26 |
 | [WORK](https://open.spotify.com/track/72gAZIf8wnbOuz1GqGUtGF) | [Zahraa](https://open.spotify.com/artist/2dEne6fzRqdfeUce061gtr) | [WORK](https://open.spotify.com/album/7rFFhUon9lIWtvSSH5XYHy) | 2:44 | 2023-09-06 | 2024-05-01 |
-| [Ya Lala](https://open.spotify.com/track/47qNUxTHGDEaXabp6v1OBj) | [Majaz](https://open.spotify.com/artist/6SMbDiMWTUPhoyEhPwzn0H) | [Ya Lala](https://open.spotify.com/album/66lnvwhzM6WKPtIdTuWy8L) | 4:53 | 2024-10-01 |  |
+| [Ya Lala](https://open.spotify.com/track/47qNUxTHGDEaXabp6v1OBj) | [Majaz](https://open.spotify.com/artist/6SMbDiMWTUPhoyEhPwzn0H) | [Ya Lala](https://open.spotify.com/album/66lnvwhzM6WKPtIdTuWy8L) | 4:53 | 2024-10-01 | 2025-04-06 |
 | [Ya Lel](https://open.spotify.com/track/1I1YpnPKkgtt01ETAy2Ku6) | [Bashar Murad](https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql) | [Ya Lel](https://open.spotify.com/album/48V722Zrn4nMGYWKrAFjk3) | 2:55 | 2023-06-20 | 2023-09-07 |
 | [Ya Rabbi](https://open.spotify.com/track/4dZpwLSQAk7IdeOvqEZrjp) | [Najet Ounis](https://open.spotify.com/artist/6Uavw6kHWSqxnqX2TeU1dE) | [Ya Rabbi](https://open.spotify.com/album/0u2wsy0FhnTSFEgMduhQ5W) | 2:32 | 2024-07-09 | 2024-11-07 |
 | [Yabki Wa Yadhak](https://open.spotify.com/track/6eQpjNP77wurPhX40EO8rV) | [SHAH \(EG\)](https://open.spotify.com/artist/7MUIbP7XLg9nsftAV4Eclq), [Obada](https://open.spotify.com/artist/6NeBmluEiGgPZdmGzqpSPq) | [Yabki Wa Yadhak](https://open.spotify.com/album/7uM3myz2mW7peXJQB8r8PA) | 6:46 | 2022-09-27 | 2022-10-26 |

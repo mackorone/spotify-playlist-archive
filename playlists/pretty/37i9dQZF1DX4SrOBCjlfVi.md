@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Lil Yachty, Sexyy Red, Rod Wave and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,007 likes - 48 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,140 likes - 48 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 17 | [Fine Shit](https://open.spotify.com/track/126eIyxh6xAn6TBifXFGwh) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Fine Shit](https://open.spotify.com/album/47mFRAKNhwzBKXFdegOiu8) | 2:57 |
 | 18 | [DOLLAR menu](https://open.spotify.com/track/4uSaaHuvtIo1qIdWgsX4AH) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [DOLLAR menu](https://open.spotify.com/album/2uA1w90cupy2tS1FsUM2rB) | 4:24 |
 | 19 | [How It Goes \(feat\. Hunxho\)](https://open.spotify.com/track/1fL6ABBaUZ2ufUWi2erWvA) | [Chicken P](https://open.spotify.com/artist/1a4lUV1KZJoCAkTUMu7zlr), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [How It Goes \(feat\. Hunxho\)](https://open.spotify.com/album/4H4XyhWS3H8cEcggRec6J3) | 2:41 |
-| 20 | [Yessirski \(feat\. Rob49\)](https://open.spotify.com/track/4GbsLWS9xxXL6DxqCo7S8t) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Yessirski \(feat\. Rob49\)](https://open.spotify.com/album/6VdV3NgUQrA5UNE4ovw6Vs) | 1:43 |
+| 20 | [Yessirski](https://open.spotify.com/track/4GbsLWS9xxXL6DxqCo7S8t) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Yessirski](https://open.spotify.com/album/6VdV3NgUQrA5UNE4ovw6Vs) | 1:43 |
 | 21 | [MICRO DRAC](https://open.spotify.com/track/0PHqJPUqVjVN1kQFjSM6X3) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [MICRO DRAC](https://open.spotify.com/album/4xYXxf5KeJGr4al91PlmTB) | 1:55 |
 | 22 | [5 STAR B\*TCH](https://open.spotify.com/track/5JylpGe01wqdoeJalYHOuR) | [Warhol.SS](https://open.spotify.com/artist/3O7mUqVuHmLJqHXbFiQY62), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [5 STAR B\*TCH](https://open.spotify.com/album/1h4s5L8dqMkIlEOPkUrGrG) | 2:44 |
 | 23 | [Drop Me Tha Lo!](https://open.spotify.com/track/3HmdjnyKt8Kz4WWQSIJIDn) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ), [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4) | [Better Late Than Never](https://open.spotify.com/album/5fb1mDlcTu8AnWkRBBV4fh) | 2:05 |

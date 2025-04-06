@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-933 songs - 2 day 2 hr 43 min
+934 songs - 2 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,7 +417,7 @@
 | [Jay Bird](https://open.spotify.com/track/7zmr0zy0oq5KWEqwbrKjxK) | [Peyotoff](https://open.spotify.com/artist/7pDc59W5HYxYElrjJwsjnN), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Jay Bird](https://open.spotify.com/album/36vhgSU5YmXYFbNKOOjENQ) | 2:49 | 2024-02-09 |  |
 | [Jealous](https://open.spotify.com/track/0MuyhT3nN12w71WurEWSTN) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Jealous](https://open.spotify.com/album/5LTnPoGjyuWwLwOcLJzFL3) | 2:08 | 2021-12-15 | 2022-07-17 |
 | [Jealous](https://open.spotify.com/track/6M3nptRy5w6wiKk5mMjWHN) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Eldorado](https://open.spotify.com/album/5cjB2vtGhbo12x1gAdJvvY) | 2:08 | 2023-02-16 | 2023-08-19 |
-| [JEANS \(fall on my knees\)](https://open.spotify.com/track/4HQRpId1zdfYT9GaZyd58g) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [JEANS \(fall on my knees\)](https://open.spotify.com/album/56wlH7RJiq4cy2HiVVz16g) | 2:58 | 2025-01-24 |  |
+| [Jeans \(fall on my knees\)](https://open.spotify.com/track/4HQRpId1zdfYT9GaZyd58g) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Jeans \(fall on my knees\)](https://open.spotify.com/album/56wlH7RJiq4cy2HiVVz16g) | 2:58 | 2025-01-24 |  |
 | [Jewels in the Night](https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Jewels in the Night](https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P) | 3:45 | 2022-06-30 | 2023-04-05 |
 | [Jonathan L\. Seagull](https://open.spotify.com/track/0jBmIDMdIOOct8T62qBeRh) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 4:34 | 2023-10-20 | 2024-06-16 |
 | [Junebug \(feat\. JPEGMAFIA\)](https://open.spotify.com/track/3E0ulIRg5neojZkEgVM2B7) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Junebug \(feat\. JPEGMAFIA\)](https://open.spotify.com/album/3tNvAR0dlCWi58TQmkwwBz) | 3:45 | 2024-06-07 | 2025-03-08 |
@@ -641,6 +641,7 @@
 | [Pisonia Prologue](https://open.spotify.com/track/2q30Rgmrv7m1WcgIh2JJna) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Pisonia Prologue](https://open.spotify.com/album/5uudHDDRkFnpHNqpFsNdNA) | 1:52 | 2021-12-15 | 2023-04-01 |
 | [PIT STOP](https://open.spotify.com/track/4dEQyFlM6xPqB7UWMbn54x) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [DeShawn Jenkins](https://open.spotify.com/artist/2Dxkrl4da72WpLloFlg6R1) | [En Route](https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5) | 1:31 | 2024-05-31 |  |
 | [Pixie Dust](https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0) | [Pixie Dust](https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8) | 3:03 | 2023-11-10 | 2025-03-30 |
+| [Please](https://open.spotify.com/track/6oVoUjbvtteQ6NFM5KUoyn) | [MAYOR](https://open.spotify.com/artist/08Bt3jkvycLCshAiiEPQko) | [Please](https://open.spotify.com/album/2IP5WUelgVoRgI0zJhMjmj) | 3:12 | 2025-03-21 |  |
 | [Please Don't Make Me Cry \- Jordan Rakei Remix](https://open.spotify.com/track/3fku32mH3zk91khNJcmZDR) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Please Don't Make Me Cry \(Jordan Rakei Remix\)](https://open.spotify.com/album/4qPFh28Iv2d0yRKF0pJE1s) | 4:22 | 2021-12-15 | 2023-12-02 |
 | [Poison](https://open.spotify.com/track/37D9mNHrQTxSkCUhzwo26u) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Poison](https://open.spotify.com/album/07cuDu48HGQ7imcSohcKXc) | 3:23 | 2021-12-15 | 2022-07-29 |
 | [poison \- demo](https://open.spotify.com/track/76y9rYVLGK4Ob2qaruXmhC) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [poison \(demo\)](https://open.spotify.com/album/4qIShsDt5DHqK9WxMwWx8Q) | 2:43 | 2023-04-21 | 2023-09-09 |
@@ -789,7 +790,7 @@
 | [Sweet Little Rainbows](https://open.spotify.com/track/0eFp7ULoYiRgaYZH0xq79i) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Mystery](https://open.spotify.com/album/0zwexK02AqJJnv1KE3Jj2S) | 3:43 | 2024-10-26 |  |
 | [Sweet Nothing](https://open.spotify.com/track/2tF7vtDQKT8SW1E0oxQn2U) | [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u), [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Sweet Nothing](https://open.spotify.com/album/2UWJzgUpIJpurnzuT1bpqT) | 3:29 | 2023-05-26 | 2023-07-15 |
 | [Sweet Nothings](https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Sweet Nothings](https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh) | 2:53 | 2025-03-07 |  |
-| [Sycamore](https://open.spotify.com/track/2QTuF6gcvmI9HPRuGK9gvp) | [Karl Benjamin](https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs) | [Sycamore](https://open.spotify.com/album/5rVHZJGJhPjpszgnY7Pelf) | 4:10 | 2025-01-24 |  |
+| [Sycamore](https://open.spotify.com/track/2QTuF6gcvmI9HPRuGK9gvp) | [Karl Benjamin](https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs) | [Sycamore](https://open.spotify.com/album/5rVHZJGJhPjpszgnY7Pelf) | 4:10 | 2025-01-24 | 2025-04-06 |
 | [Table for Two](https://open.spotify.com/track/4QcoLNjHgwDIoMvKeIm6aK) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Tilly Valentine](https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP), [Bran Mazz](https://open.spotify.com/artist/2gAvPf7H37Rbp6B4DimriZ) | [Table for Two](https://open.spotify.com/album/2n5GM1tmlT3LwTicApBbUG) | 3:27 | 2021-12-15 | 2023-03-10 |
 | [Take 2](https://open.spotify.com/track/4ds7pOjZFtjJaXusB5IOoO) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Moth](https://open.spotify.com/album/3QYrEoeYrBdBNrtsuoCor7) | 2:25 | 2024-06-15 | 2024-09-17 |
 | [Take Care](https://open.spotify.com/track/4a7Yuev0jhPYccwMpBu7kU) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst) | [Take Care](https://open.spotify.com/album/5faDWLrnHIJnnZa38Y3mje) | 2:39 | 2024-10-26 | 2025-02-26 |

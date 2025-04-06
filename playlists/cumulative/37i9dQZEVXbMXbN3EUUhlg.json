@@ -4575,6 +4575,32 @@
     },
     {
       "album": {
+        "name": "ASTRO",
+        "url": "https://open.spotify.com/album/1L3xsjeGzawKLCAohubxBO"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "date_added": "2025-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105588,
+      "name": "BOTA UM FUNK",
+      "url": "https://open.spotify.com/track/5mSprs9Ar10MWtbgJIERhP"
+    },
+    {
+      "album": {
         "name": "Botadinha Saliente",
         "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
       },
@@ -4902,7 +4928,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 149373,
       "name": "Cacos De Vidro (sample: Esperar pra Ver)",
       "url": "https://open.spotify.com/track/0arxXBXzv96Q449DK1SmiX"
@@ -23934,7 +23960,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 246857,
       "name": "Resenha de Ex-Love",
       "url": "https://open.spotify.com/track/5wV5dO1GOI4srs4Um5cJXo"
@@ -26176,7 +26202,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-02",
+      "date_removed": null,
       "duration_ms": 156757,
       "name": "Sofrimento Simult\u00e2neo - Ao Vivo",
       "url": "https://open.spotify.com/track/63Vdw2P2cw1Gf8ABQiEjXD"

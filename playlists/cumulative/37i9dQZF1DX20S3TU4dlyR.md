@@ -4,7 +4,7 @@
 
 > Este es el Reggae, al sur del continente americano\. Foto: Leonchalon.
 
-275 songs - 18 hr 8 min
+276 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [La Ventanita](https://open.spotify.com/track/5xTJCta6EUo8YsTlxuGPmz) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1) | [El Gran Poder, Vol\. 2](https://open.spotify.com/album/34ei7ktYVRfNWrjvmqhR7U) | 3:35 | 2023-10-05 | 2024-03-07 |
 | [La Ventanita](https://open.spotify.com/track/5x7jB6C0kyxGW4SKFnfrk5) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1) | [La Ventanita](https://open.spotify.com/album/185Zz8UKk2q2WfL0OSi2GE) | 3:36 | 2022-05-06 | 2022-07-24 |
 | [La Vida 2021](https://open.spotify.com/track/4sLsDpZynjQ5R20FBwARS9) | [12 Tribus](https://open.spotify.com/artist/7whGu0xfNiwItHQv41NXH4), [Cestar](https://open.spotify.com/artist/1p5MGlN01vwR008ce7818d), [MC Piri](https://open.spotify.com/artist/5W7vbxMex5UtO8ugjXZvwp), [DJ Acres](https://open.spotify.com/artist/6RhHQP5MQPD3waU29h43gZ), [Aflora](https://open.spotify.com/artist/5NoJxqFDzQDQKXglvlHs7l), [Bacayo Brass](https://open.spotify.com/artist/6WOVoiNqsdDZ5sQWrs6FEd) | [La Vida 2021](https://open.spotify.com/album/6MRtPiW2MnP48LXczZpZ1w) | 4:33 | 2022-05-06 | 2022-07-15 |
-| [La Vida te Habla](https://open.spotify.com/track/4oK5MgdWGvfIjICZJf0sCc) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [La Vida te Habla](https://open.spotify.com/album/23aWViVCijrwN9887u0UC0) | 3:43 | 2024-08-16 |  |
+| [La Vida te Habla](https://open.spotify.com/track/4oK5MgdWGvfIjICZJf0sCc) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [La Vida te Habla](https://open.spotify.com/album/23aWViVCijrwN9887u0UC0) | 3:43 | 2024-08-16 | 2025-04-06 |
 | [La Última Gota](https://open.spotify.com/track/1R9g4cfnkoOcbSHsnvKM4Q) | [Amilcar Nadal](https://open.spotify.com/artist/7cN0yTuilvxUpDhMbhYH2d), [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [La Última Gota](https://open.spotify.com/album/7BQUUqBrHhpopSIuX6ukt3) | 3:02 | 2022-05-06 | 2022-07-17 |
 | [Laba Laba Craven](https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [Neigborhood Rules](https://open.spotify.com/album/2JyFsrq6OkrfH0mBRRYAiu) | 3:52 | 2022-05-06 | 2023-10-06 |
 | [Laberintos](https://open.spotify.com/track/0nIMtjFwqqhJxk0cDljxHG) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [En el Sendero](https://open.spotify.com/album/4NzGzDvqUWJPkgzEqCGpnb) | 4:15 | 2022-05-06 |  |
@@ -262,6 +262,7 @@
 | [Va a Servir](https://open.spotify.com/track/1IBXMXsGJZ8SOtydre1sSi) | [Resistencia Suburbana](https://open.spotify.com/artist/0LlH3BrcSkLqcQ1flElWNJ) | [Cosas Que Nadie Oia](https://open.spotify.com/album/5F1p9diLfB873sdRAkFKKK) | 4:05 | 2022-05-06 |  |
 | [Va a Servir](https://open.spotify.com/track/2vFJHDlaEg0xR4dwNuypUW) | [Resistencia Suburbana](https://open.spotify.com/artist/0LlH3BrcSkLqcQ1flElWNJ) | [Cosas Que Nadie Oia](https://open.spotify.com/album/2Wb7ZhNgnQ3cGNPoiqbpka) | 4:05 | 2022-07-01 | 2024-04-19 |
 | [Va Salir](https://open.spotify.com/track/7FF4TyQSAvpukqX66mTGu0) | [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn), [Cuatro Pesos de Propina](https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND) | [Va Salir](https://open.spotify.com/album/4YxwFWxeTj9cqJej7q40Vy) | 4:13 | 2022-05-06 | 2023-10-06 |
+| [Vale la Pena](https://open.spotify.com/track/1AWBu5AXFzNry1wZJan5so) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0), [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Vale la Pena](https://open.spotify.com/album/3WRqiBrtFLAiAEkp2p3l5F) | 2:50 | 2025-04-04 |  |
 | [Vamos Fugir](https://open.spotify.com/track/2Y7nKdgpv2qgn54SOceCaw) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Vamos Fugir](https://open.spotify.com/album/3sPkAX1L9eprN5JP2EZvbS) | 3:47 | 2024-11-11 |  |
 | [Vendedores da Fé](https://open.spotify.com/track/0WtKKoo9qwV1Q2z8THLGRd) | [Bloco do Caos](https://open.spotify.com/artist/44nuOAoL0OIc2QmKfO0nnl), [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Vendedores da Fé](https://open.spotify.com/album/03MWGQ1wufbxPEyguWJk3x) | 4:18 | 2022-05-06 | 2022-07-28 |
 | [Vibra Positiva](https://open.spotify.com/track/061cp08tzW2q8qaqNkad28) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/5N9utFggf0N0DlhnBTt5xM) | 4:19 | 2022-05-06 | 2022-07-29 |

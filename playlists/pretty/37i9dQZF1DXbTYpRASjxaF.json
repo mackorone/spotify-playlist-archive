@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Kyan, Mu540",
-  "num_followers": 132708,
+  "num_followers": 132721,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,42 @@
     {
       "added_at": "2025-04-04 03:01:04",
       "album": {
+        "name": "Sem Sentimento",
+        "url": "https://open.spotify.com/album/6cKl9wlnEI5KTwdBtW3FwG"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 132244,
+      "name": "Sem Sentimento",
+      "url": "https://open.spotify.com/track/37J7T56pGfgnQQMlAqdrGt"
+    },
+    {
+      "added_at": "2025-04-04 03:01:04",
+      "album": {
         "name": "Funk Supera\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/2KvTPBd1l052Tnk3RxU6tt"
       },
@@ -507,42 +543,6 @@
       "duration_ms": 208241,
       "name": "Novos Ricos - Ao Vivo",
       "url": "https://open.spotify.com/track/68eRXsHoxQMBxtTR60hKPv"
-    },
-    {
-      "added_at": "2025-04-04 03:01:04",
-      "album": {
-        "name": "Escolhas e Reflexos",
-        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
-      },
-      "artists": [
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        },
-        {
-          "name": "Dj Yuri Pedrada",
-          "url": "https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi"
-        },
-        {
-          "name": "DJ WN",
-          "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
-        },
-        {
-          "name": "Iuri Rio Branco",
-          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
-        }
-      ],
-      "duration_ms": 248997,
-      "name": "Quarto 28",
-      "url": "https://open.spotify.com/track/3YgqR2xkM3cfAfaBN9pMLv"
     },
     {
       "added_at": "2025-04-04 03:01:04",
@@ -615,6 +615,42 @@
       "duration_ms": 409846,
       "name": "Assault (Carro Bicho)",
       "url": "https://open.spotify.com/track/52K0daI216x97EPGrSA7jB"
+    },
+    {
+      "added_at": "2025-04-04 03:01:04",
+      "album": {
+        "name": "Escolhas e Reflexos",
+        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Dj Yuri Pedrada",
+          "url": "https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi"
+        },
+        {
+          "name": "DJ WN",
+          "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        }
+      ],
+      "duration_ms": 248997,
+      "name": "Quarto 28",
+      "url": "https://open.spotify.com/track/3YgqR2xkM3cfAfaBN9pMLv"
     },
     {
       "added_at": "2025-04-04 03:01:04",
@@ -771,34 +807,6 @@
     {
       "added_at": "2025-04-04 03:01:04",
       "album": {
-        "name": "From Rio",
-        "url": "https://open.spotify.com/album/4MD3dhPh3euRMO8nPFuFLB"
-      },
-      "artists": [
-        {
-          "name": "MG CDD",
-          "url": "https://open.spotify.com/artist/2zjzZE2PUwitmtRDFgrABn"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Derxan",
-          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
-        },
-        {
-          "name": "G. Shao",
-          "url": "https://open.spotify.com/artist/60hsJi04alPOxGuomSHpuz"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "From Rio",
-      "url": "https://open.spotify.com/track/3vYBQiqPu82oD7X0wZjYQV"
-    },
-    {
-      "added_at": "2025-04-04 03:01:04",
-      "album": {
         "name": "Escolhas e Reflexos",
         "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
       },
@@ -875,6 +883,34 @@
     {
       "added_at": "2025-04-04 03:01:04",
       "album": {
+        "name": "From Rio",
+        "url": "https://open.spotify.com/album/4MD3dhPh3euRMO8nPFuFLB"
+      },
+      "artists": [
+        {
+          "name": "MG CDD",
+          "url": "https://open.spotify.com/artist/2zjzZE2PUwitmtRDFgrABn"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "G. Shao",
+          "url": "https://open.spotify.com/artist/60hsJi04alPOxGuomSHpuz"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "From Rio",
+      "url": "https://open.spotify.com/track/3vYBQiqPu82oD7X0wZjYQV"
+    },
+    {
+      "added_at": "2025-04-04 03:01:04",
+      "album": {
         "name": "Sensa\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/0vDwVsdEdnRyL0bsOwom7a"
       },
@@ -915,46 +951,6 @@
       "duration_ms": 192379,
       "name": "Pr\u00f3ximo Milion\u00e1rio",
       "url": "https://open.spotify.com/track/4xGNfvU6WN7xwfT7OKRZF4"
-    },
-    {
-      "added_at": "2025-04-04 03:01:04",
-      "album": {
-        "name": "Falc\u00e3o do Morro",
-        "url": "https://open.spotify.com/album/7dAgNIIV8VVzZFCDSbpnlG"
-      },
-      "artists": [
-        {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Slaasty",
-          "url": "https://open.spotify.com/artist/5f1o3wuKLKC2X4qz3P18f1"
-        },
-        {
-          "name": "Coelho",
-          "url": "https://open.spotify.com/artist/5IQ5ayF3TFHtgMqENq0xPa"
-        },
-        {
-          "name": "Prod Renatinho",
-          "url": "https://open.spotify.com/artist/2Fsxe36GfnJVFM5gM10Y9p"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Blogueira",
-      "url": "https://open.spotify.com/track/5BuFyXTbnTxhR0WlztMjww"
     },
     {
       "added_at": "2025-04-04 03:01:04",
@@ -1007,6 +1003,46 @@
       "duration_ms": 202926,
       "name": "PLACO",
       "url": "https://open.spotify.com/track/3klLSvaW7alyLWJyhcthga"
+    },
+    {
+      "added_at": "2025-04-04 03:01:04",
+      "album": {
+        "name": "Falc\u00e3o do Morro",
+        "url": "https://open.spotify.com/album/7dAgNIIV8VVzZFCDSbpnlG"
+      },
+      "artists": [
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Slaasty",
+          "url": "https://open.spotify.com/artist/5f1o3wuKLKC2X4qz3P18f1"
+        },
+        {
+          "name": "Coelho",
+          "url": "https://open.spotify.com/artist/5IQ5ayF3TFHtgMqENq0xPa"
+        },
+        {
+          "name": "Prod Renatinho",
+          "url": "https://open.spotify.com/artist/2Fsxe36GfnJVFM5gM10Y9p"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Blogueira",
+      "url": "https://open.spotify.com/track/5BuFyXTbnTxhR0WlztMjww"
     },
     {
       "added_at": "2025-04-04 03:01:04",
@@ -1187,26 +1223,6 @@
     {
       "added_at": "2025-04-04 03:01:04",
       "album": {
-        "name": "Thanos",
-        "url": "https://open.spotify.com/album/7Al64HfSoM38DMI3qu0jy9"
-      },
-      "artists": [
-        {
-          "name": "A$HP",
-          "url": "https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9"
-        },
-        {
-          "name": "M'DEP",
-          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
-        }
-      ],
-      "duration_ms": 135111,
-      "name": "Thanos",
-      "url": "https://open.spotify.com/track/4Eku46SnDjAzqoJNN3a99T"
-    },
-    {
-      "added_at": "2025-04-04 03:01:04",
-      "album": {
         "name": "Hennessy",
         "url": "https://open.spotify.com/album/5ahBvjhShtljjmTzo6DvfB"
       },
@@ -1227,6 +1243,26 @@
       "duration_ms": 127200,
       "name": "Hennessy",
       "url": "https://open.spotify.com/track/13plPuxQXo1trpgcoYoYIB"
+    },
+    {
+      "added_at": "2025-04-04 03:01:04",
+      "album": {
+        "name": "Thanos",
+        "url": "https://open.spotify.com/album/7Al64HfSoM38DMI3qu0jy9"
+      },
+      "artists": [
+        {
+          "name": "A$HP",
+          "url": "https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9"
+        },
+        {
+          "name": "M'DEP",
+          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
+        }
+      ],
+      "duration_ms": 135111,
+      "name": "Thanos",
+      "url": "https://open.spotify.com/track/4Eku46SnDjAzqoJNN3a99T"
     },
     {
       "added_at": "2025-04-04 03:01:04",
@@ -1315,42 +1351,6 @@
       "duration_ms": 204137,
       "name": "Bem Vinda a SP",
       "url": "https://open.spotify.com/track/0EdDsbTrDZOaaxctEZiYEl"
-    },
-    {
-      "added_at": "2025-04-04 03:01:04",
-      "album": {
-        "name": "Sem Sentimento",
-        "url": "https://open.spotify.com/album/6cKl9wlnEI5KTwdBtW3FwG"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "DU'L",
-          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Toledo",
-          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 132244,
-      "name": "Sem Sentimento",
-      "url": "https://open.spotify.com/track/37J7T56pGfgnQQMlAqdrGt"
     }
   ],
   "unique_name": "Cop\u00e3o na M\u00e3o",

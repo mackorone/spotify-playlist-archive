@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem PEDRO SAMPAIO com Anitta e Mc Gw, Marina Sena, Mari Fernandez e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,053,592 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,053,897 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 48 | [Confusão Mental](https://open.spotify.com/track/1My6kZNxsfUvdT2IEpwYQI) | [Thiago Freitas](https://open.spotify.com/artist/26u3LeVpw9EOQLkNVX6NUj) | [Confusão Mental](https://open.spotify.com/album/41WIP2cAGiZv2Q4r1AJ7xX) | 2:51 |
 | 49 | [Saudade Pendente \- Ao Vivo](https://open.spotify.com/track/6NBBMHdR6McEt1oxYWOP2T) | [Netto & Henrique](https://open.spotify.com/artist/7a6OmakIInI0Q0VjbYCASe), [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft) | [Saudade Pendente \(Ao Vivo\)](https://open.spotify.com/album/3db9ggChGWpRTdyMh83ecs) | 2:38 |
 | 50 | [CLT](https://open.spotify.com/track/1sDSFJvOgjeaF89KmEU8iZ) | [Kempa](https://open.spotify.com/artist/200idtjWvqtkeXPyqqdFbP), [Bonde do gato preto](https://open.spotify.com/artist/5A6NOdTbk43Jnr0GxFZQei), [Empire Street](https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq) | [CLT](https://open.spotify.com/album/575kDtfuVvp33is7HYfNZB) | 3:17 |
-| 51 | [Déjà\-vu](https://open.spotify.com/track/4qsdiTcpSjurIXKYqt1iF5) | [GREGO](https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X), [Blakbone](https://open.spotify.com/artist/5pmOKG8qbFf3zvOXiRiN1L), [ÉaBest](https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp), [DJ Cash](https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ) | [Déjà\-vu](https://open.spotify.com/album/5ESO6fmtHcFaKYDKuWurIu) | 2:06 |
+| 51 | [Déjà\-vu](https://open.spotify.com/track/4qsdiTcpSjurIXKYqt1iF5) | [GREGO](https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X), [Blakbone](https://open.spotify.com/artist/5pmOKG8qbFf3zvOXiRiN1L), [DJ Cash](https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ), [ÉaBest](https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp) | [Déjà\-vu](https://open.spotify.com/album/5ESO6fmtHcFaKYDKuWurIu) | 2:06 |
 | 52 | [Devagar Não Boto](https://open.spotify.com/track/6rpOMJfcQSCw5OIsTxIcBB) | [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Devagar Não Boto](https://open.spotify.com/album/4HD6p8DIxCfUvGJXWj1tyu) | 2:42 |
 | 53 | [Tira Tira \(No Seu Momento\)](https://open.spotify.com/track/5HkhpAEkMgsYQfYxTyHdWl) | [Igow](https://open.spotify.com/artist/3Uees4yarZxpOrkxJsU8jA), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Tira Tira \(No Seu Momento\)](https://open.spotify.com/album/5N5DmP4xTc720gKbiAONwV) | 2:22 |
 | 54 | [Chega Aí](https://open.spotify.com/track/4RCn4useo5xamInxxy8Grz) | [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp), [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C), [Ciza](https://open.spotify.com/artist/163G2vc5taH11zCUrrbA4w), [DJ SSENA](https://open.spotify.com/artist/00f9oV12wvD3zCUi8SUDea) | [Chega Aí](https://open.spotify.com/album/6kjddM8UbZYAZfGPJdA8HX) | 3:13 |

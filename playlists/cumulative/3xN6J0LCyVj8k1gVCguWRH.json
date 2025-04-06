@@ -2423,6 +2423,24 @@
     },
     {
       "album": {
+        "name": "farther, faster",
+        "url": "https://open.spotify.com/album/48275kyfPY6jjVue3DmmEG"
+      },
+      "artists": [
+        {
+          "name": "hashtag truly",
+          "url": "https://open.spotify.com/artist/3MVXPYquTky2Pt5yHM2GSc"
+        }
+      ],
+      "date_added": "2025-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190900,
+      "name": "afterthought",
+      "url": "https://open.spotify.com/track/6hWs9O6hk0ZDajtNqyhgyx"
+    },
+    {
+      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/5u6xMFMQAahNjsJe5BKCiy"
       },
@@ -32298,7 +32316,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 253533,
       "name": "Gypsy Groove",
       "url": "https://open.spotify.com/track/1RfiOaZ9rjozELTYjOBStk"
@@ -45776,7 +45794,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 197500,
       "name": "LOL",
       "url": "https://open.spotify.com/track/6T2gTe28zZgJbYAw5foxEq"
@@ -52780,7 +52798,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 207226,
       "name": "My Kinda Cowgirl",
       "url": "https://open.spotify.com/track/1kkdyp5T1aYjCnUeOyEFVz"
@@ -59106,6 +59124,24 @@
       "duration_ms": 192880,
       "name": "PARTY",
       "url": "https://open.spotify.com/track/3xjU4Do3YAeqKKy4RUMmX8"
+    },
+    {
+      "album": {
+        "name": "PARTY",
+        "url": "https://open.spotify.com/album/0JRDxilJ8Xgw0km4pqCQQH"
+      },
+      "artists": [
+        {
+          "name": "Scoobert Doobert",
+          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
+        }
+      ],
+      "date_added": "2025-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182340,
+      "name": "PARTY",
+      "url": "https://open.spotify.com/track/3CssDYkElNAvDMSfKrS6YE"
     },
     {
       "album": {
@@ -85696,7 +85732,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 173046,
       "name": "whatalife",
       "url": "https://open.spotify.com/track/6aqg1uQVJvR1WxHXSQpuGS"

@@ -1,12 +1,12 @@
 {
   "description": "This is King Sunny Ade. The essential tracks, all in one playlist.",
-  "num_followers": 6176,
+  "num_followers": 6178,
   "original_name": "This Is King Sunny Ade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+3PgAAAAABJLzLjiLUAeV5xdw5lrv8X",
+  "snapshot_id": "Z+8hAAAAAADKVcCHwzRn0C1dJIcVGSdS",
   "tracks": [
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 236771,
-      "name": "Eni Jesu We",
-      "url": "https://open.spotify.com/track/2lp9ksKCyKpl8EIrcWTQhx"
+      "duration_ms": 148520,
+      "name": "Omo Se Koko",
+      "url": "https://open.spotify.com/track/4G7H7RygxVOueRUdBsYYF9"
     },
     {
       "added_at": null,
@@ -463,18 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classics, Vol. 1: Let Them Say & Edide",
-        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
+        "name": "Sunny Ade and His Green Spot Band, Vol. 4",
+        "url": "https://open.spotify.com/album/6KKQUN5rh80KfwyvlnlkSh"
       },
       "artists": [
         {
           "name": "King Sunny Ade",
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        },
+        {
+          "name": "His Green Spot Band",
+          "url": "https://open.spotify.com/artist/3mpGdNsr8V4u4I0LofKAkF"
         }
       ],
-      "duration_ms": 93578,
-      "name": "E Yi Ga",
-      "url": "https://open.spotify.com/track/7hQWQu6FLh2EtCHtNY9O3M"
+      "duration_ms": 165459,
+      "name": "Akure Nile",
+      "url": "https://open.spotify.com/track/0v0XDTadZVjgo0BY3gWG4P"
     },
     {
       "added_at": null,
@@ -488,9 +492,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 148520,
-      "name": "Omo Se Koko",
-      "url": "https://open.spotify.com/track/4G7H7RygxVOueRUdBsYYF9"
+      "duration_ms": 236771,
+      "name": "Eni Jesu We",
+      "url": "https://open.spotify.com/track/2lp9ksKCyKpl8EIrcWTQhx"
     },
     {
       "added_at": null,
@@ -531,22 +535,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunny Ade and His Green Spot Band, Vol. 4",
-        "url": "https://open.spotify.com/album/6KKQUN5rh80KfwyvlnlkSh"
+        "name": "Classics, Vol. 1: Let Them Say & Edide",
+        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
       },
       "artists": [
         {
           "name": "King Sunny Ade",
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        },
-        {
-          "name": "His Green Spot Band",
-          "url": "https://open.spotify.com/artist/3mpGdNsr8V4u4I0LofKAkF"
         }
       ],
-      "duration_ms": 165459,
-      "name": "Akure Nile",
-      "url": "https://open.spotify.com/track/0v0XDTadZVjgo0BY3gWG4P"
+      "duration_ms": 93578,
+      "name": "E Yi Ga",
+      "url": "https://open.spotify.com/track/7hQWQu6FLh2EtCHtNY9O3M"
     },
     {
       "added_at": null,

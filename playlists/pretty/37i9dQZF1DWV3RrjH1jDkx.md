@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Ny musikk fra Cezinando, AURORA, Broiler & Kamelen, Donkeyboy, Anna Lille og mange flere!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,663 likes - 108 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,672 likes - 108 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 84 | [I'm Ready for Love](https://open.spotify.com/track/6bAHE9IuISQLImsUMO6Jgw) | [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [I'm Ready for Love](https://open.spotify.com/album/0IEWIBmD1A5asUlxclmrX5) | 3:38 |
 | 85 | [Når vinteren er forbi](https://open.spotify.com/track/03YFnDAVvbD62B5ZFCmymx) | [Hjulspinn](https://open.spotify.com/artist/5A1Dp2synjftKRsqAV8Jgr) | [Når vinteren er forbi](https://open.spotify.com/album/2F6wEJJLQBaqW1UaoO69mH) | 4:10 |
 | 86 | [Volcano](https://open.spotify.com/track/6TPvHFQqYLu2yNfCpxNH3e) | [NEEA RIVER](https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw) | [Volcano](https://open.spotify.com/album/7itEYRylIdVXenrq8CdZJu) | 3:03 |
-| 87 | [Bondens skål](https://open.spotify.com/track/5jl4NnyH3hipBoJNidloIE) | [Anne Nørdsti](https://open.spotify.com/artist/0tQjkmRcDxYyexoDzTMzdX) | [Bondens skål](https://open.spotify.com/album/6S92PSc07NFqR2LBb1OeKI) | 3:06 |
+| 87 | [Bondens skål](https://open.spotify.com/track/5jl4NnyH3hipBoJNidloIE) | [Anne Nørdsti](https://open.spotify.com/artist/0tQjkmRcDxYyexoDzTMzdX), [Dåm](https://open.spotify.com/artist/6a3boNVRP6OdiNMp3MItem) | [Bondens skål](https://open.spotify.com/album/6S92PSc07NFqR2LBb1OeKI) | 3:06 |
 | 88 | [Ingenting er som det var](https://open.spotify.com/track/5lwWnI74RFR1eZOK6XDPGu) | [MAS](https://open.spotify.com/artist/4Z4XSjz1CkwhGeBr71abGR) | [Ingenting er som det var](https://open.spotify.com/album/6OxHuMJTD1TjzvficeGoTY) | 4:15 |
 | 89 | [Hurts Like a Mother](https://open.spotify.com/track/2buOnJfGN17NEJht9NPr9d) | [Selina Gin](https://open.spotify.com/artist/5gghGLi5wwcWOeDIgnuVoo) | [Hurts Like a Mother](https://open.spotify.com/album/5TOx1QBG35xUvsuhaNDfsW) | 2:54 |
 | 90 | [Weightless](https://open.spotify.com/track/5sLgL3nHvgZUbtYVAt5FxN) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [LOVEGRUNGE](https://open.spotify.com/album/6GgcxPxxsyPqAlIWkAGyjR) | 3:01 |

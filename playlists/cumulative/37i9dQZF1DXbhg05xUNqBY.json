@@ -2154,7 +2154,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 187264,
       "name": "Known, Seen, Loved (LIVE from the Quarry)",
       "url": "https://open.spotify.com/track/6MNE9n9N3c48kO0BfQb6Fd"
@@ -2889,6 +2889,24 @@
     },
     {
       "album": {
+        "name": "Ordinary Miracle",
+        "url": "https://open.spotify.com/album/2QkrEOaBQb6PxUslSGu3Yu"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "date_added": "2025-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224350,
+      "name": "Ordinary Miracle",
+      "url": "https://open.spotify.com/track/1Tu6GUElqFOmZLvFvv3u0C"
+    },
+    {
+      "album": {
         "name": "Overflow",
         "url": "https://open.spotify.com/album/4XiTbwVZZDjQJOPYUPu4zz"
       },
@@ -3144,6 +3162,28 @@
       "duration_ms": 367465,
       "name": "Precious",
       "url": "https://open.spotify.com/track/2jTjDrh3tF5YEDBTrp29hI"
+    },
+    {
+      "album": {
+        "name": "Precious Gold",
+        "url": "https://open.spotify.com/album/7suFMd6EWH8KZuCHdKa02J"
+      },
+      "artists": [
+        {
+          "name": "Mission House",
+          "url": "https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C"
+        },
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "date_added": "2025-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216400,
+      "name": "Precious Gold",
+      "url": "https://open.spotify.com/track/3PlBhFVssO6n9qfEBnQDT9"
     },
     {
       "album": {
@@ -3408,7 +3448,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 144001,
       "name": "Return",
       "url": "https://open.spotify.com/track/7y4LIfIofUaaf3Oy2lPlFM"

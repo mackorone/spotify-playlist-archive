@@ -1600,7 +1600,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 199334,
       "name": "Bad Behavior",
       "url": "https://open.spotify.com/track/0yaRBGoeOXAwCt6dnpUPnr"
@@ -9693,6 +9693,24 @@
     },
     {
       "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/33k6y0sxFbgW1I0GBcUrN3"
+      },
+      "artists": [
+        {
+          "name": "Sleep Theory",
+          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183187,
+      "name": "III",
+      "url": "https://open.spotify.com/track/4TNV2F6yCqt5ska9ojuEnA"
+    },
+    {
+      "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/147gy4rgELPkH5pZVXVA08"
       },
@@ -11608,7 +11626,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 243538,
       "name": "Love and a Smoking Gun",
       "url": "https://open.spotify.com/track/3yo3ZsW5OmKGEPvuScRWVL"
@@ -14631,6 +14649,24 @@
     },
     {
       "album": {
+        "name": "Paws",
+        "url": "https://open.spotify.com/album/2WTsBo00ik6uknNsm09K9v"
+      },
+      "artists": [
+        {
+          "name": "Badflower",
+          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259088,
+      "name": "Paws",
+      "url": "https://open.spotify.com/track/73bLtrWnmMu15zgkwgxIft"
+    },
+    {
+      "album": {
         "name": "PAY ATTENTION",
         "url": "https://open.spotify.com/album/7mj8VbPfzMTYNnt20FmUFz"
       },
@@ -15180,7 +15216,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 204906,
       "name": "Quitter",
       "url": "https://open.spotify.com/track/6CBzAoZQxtQRijpauBTYRG"
@@ -18176,6 +18212,24 @@
       "duration_ms": 198417,
       "name": "Survivors Guilt",
       "url": "https://open.spotify.com/track/652PlanA5w5iJxTr04Za8U"
+    },
+    {
+      "album": {
+        "name": "Swallow This",
+        "url": "https://open.spotify.com/album/5Qs7xaSy2n64WKlwe8bA3H"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222797,
+      "name": "Swallow This",
+      "url": "https://open.spotify.com/track/2E7DeUw137nP81KgHWns9D"
     },
     {
       "album": {

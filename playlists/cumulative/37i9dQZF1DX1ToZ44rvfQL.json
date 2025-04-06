@@ -685,6 +685,24 @@
     },
     {
       "album": {
+        "name": "Culpable O No",
+        "url": "https://open.spotify.com/album/6nd0TosZlLEvIIEX4NlIas"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253053,
+      "name": "Culpable O No",
+      "url": "https://open.spotify.com/track/4HMPGSpzKG3PrOuoi5gfan"
+    },
+    {
+      "album": {
         "name": "Canci\u00f3n Animal (Remastered)",
         "url": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
       },
@@ -1032,7 +1050,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 259592,
       "name": "Ella Us\u00f3 Mi cabeza Como Un Rev\u00f3lver - Spotify Singles",
       "url": "https://open.spotify.com/track/046TaHr9EePc6M8NQX9vfw"

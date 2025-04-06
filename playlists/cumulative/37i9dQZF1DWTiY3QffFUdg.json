@@ -1375,6 +1375,28 @@
     },
     {
       "album": {
+        "name": "Drip (feat. Eliza Legzdina)",
+        "url": "https://open.spotify.com/album/2CWkLbzoUIRmHsNmJFiYlK"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Eliza Legzdina",
+          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192631,
+      "name": "Drip (feat. Eliza Legzdina)",
+      "url": "https://open.spotify.com/track/030t6Ow4qRRbJQk3TtWLLH"
+    },
+    {
+      "album": {
         "name": "Drip Down",
         "url": "https://open.spotify.com/album/4KhHKbf2EkoIFSYyRLwKNe"
       },
@@ -2092,7 +2114,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 196941,
       "name": "Hype Boy",
       "url": "https://open.spotify.com/track/4I4LIjM7gHmIFQ210Ycx2j"

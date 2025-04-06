@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Mares
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,938 likes - 145 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,935 likes - 145 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

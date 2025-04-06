@@ -1,12 +1,12 @@
 {
   "description": "This is Tony! Toni! Ton\u00e9!. The essential tracks, all in one playlist.",
-  "num_followers": 14891,
+  "num_followers": 14896,
   "original_name": "This Is Tony! Toni! Ton\u00e9!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+3PgAAAAAAR0AmLgSS6gUiv0L0NkdKt",
+  "snapshot_id": "Z+8hAAAAAADZlTgMZXo1KD3MYRYxOmQS",
   "tracks": [
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 346066,
+      "name": "Annie May",
+      "url": "https://open.spotify.com/track/1ZezWEaXuak05CB5jPGw15"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Thump's Hottest Party Hits",
         "url": "https://open.spotify.com/album/6WSbtX9qFTK4LiiOWogV1S"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 238400,
       "name": "Whatever U Want",
       "url": "https://open.spotify.com/track/6bITSikk8EJ3CQaXf7ohEv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hits",
-        "url": "https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 346066,
-      "name": "Annie May",
-      "url": "https://open.spotify.com/track/1ZezWEaXuak05CB5jPGw15"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "House Party II (I Don't Know What You Come To Do)",
-        "url": "https://open.spotify.com/album/4SbpI46qdXCwKnbpjfYLLI"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "House Party II (I Don't Know What You Come To Do) - Single Version",
-      "url": "https://open.spotify.com/track/3VunH0kgoUEcR4Yq6ACgCH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Revival",
         "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 278706,
       "name": "Sky's The Limit",
       "url": "https://open.spotify.com/track/5QxNSef6QOAmBTTwdgTtiV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "House Party II (I Don't Know What You Come To Do)",
+        "url": "https://open.spotify.com/album/4SbpI46qdXCwKnbpjfYLLI"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "House Party II (I Don't Know What You Come To Do) - Single Version",
+      "url": "https://open.spotify.com/track/3VunH0kgoUEcR4Yq6ACgCH"
     },
     {
       "added_at": null,

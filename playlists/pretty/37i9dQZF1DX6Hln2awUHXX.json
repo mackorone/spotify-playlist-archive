@@ -1,6 +1,6 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 105418,
+  "num_followers": 105430,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,34 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Richard Strauss: Four Last Songs / Wagner: Arias from Tannh\u00e4user",
+        "url": "https://open.spotify.com/album/1fsJhFgqGAJiSJo61ALeSO"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Lise Davidsen",
+          "url": "https://open.spotify.com/artist/0D3CJYrRNDUGbkNRw92e7N"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
+        }
+      ],
+      "duration_ms": 453386,
+      "name": "Tannh\u00e4user, WWV 70, Act III: Allm\u00e4cht'ge Jungfrau, h\u00f6r mein Flehen!",
+      "url": "https://open.spotify.com/track/3HoO8VUfyXwkgqwaIrVM7u"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner: Tristan und Isolde",
         "url": "https://open.spotify.com/album/0WhnBDbyzLqYlNn8RZT65H"
       },
@@ -479,34 +507,6 @@
       "duration_ms": 318640,
       "name": "Tristan und Isolde / Act 2: \"O sink hernieder, Nacht der Liebe\"",
       "url": "https://open.spotify.com/track/5tKBByi2iXhWJ0CLouwpvU"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Richard Strauss: Four Last Songs / Wagner: Arias from Tannh\u00e4user",
-        "url": "https://open.spotify.com/album/1fsJhFgqGAJiSJo61ALeSO"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Lise Davidsen",
-          "url": "https://open.spotify.com/artist/0D3CJYrRNDUGbkNRw92e7N"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "Esa-Pekka Salonen",
-          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
-        }
-      ],
-      "duration_ms": 453386,
-      "name": "Tannh\u00e4user, WWV 70, Act III: Allm\u00e4cht'ge Jungfrau, h\u00f6r mein Flehen!",
-      "url": "https://open.spotify.com/track/3HoO8VUfyXwkgqwaIrVM7u"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -631,30 +631,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Symphony in C Major, Tristan und Isolde, Siegfried Idyll",
-        "url": "https://open.spotify.com/album/6wcBMJ8IJ0r59oRUqcpxsZ"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Netherlands Radio Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/5DNIeOqK0YF4H6o3GM2k6C"
-        },
-        {
-          "name": "Edo de Waart",
-          "url": "https://open.spotify.com/artist/6ZI0A8Ffc8are1mphRfpVl"
-        }
-      ],
-      "duration_ms": 899360,
-      "name": "Symphony in C Major: I. Sostenuto e maestoso",
-      "url": "https://open.spotify.com/track/4TjyDeIoLr6HmzdrMBSXow"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner: Die Walk\u00fcre",
         "url": "https://open.spotify.com/album/6sBYzKzbrGncOysgiiL3v1"
       },
@@ -683,6 +659,30 @@
       "duration_ms": 242550,
       "name": "Die Walk\u00fcre, WWV 86B / Act 1: \"Wes Herd dies auch, hier mu\u00df ich rasten\"",
       "url": "https://open.spotify.com/track/6f5EgLutvqBPnBOAFKhEjd"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Symphony in C Major, Tristan und Isolde, Siegfried Idyll",
+        "url": "https://open.spotify.com/album/6wcBMJ8IJ0r59oRUqcpxsZ"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Netherlands Radio Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5DNIeOqK0YF4H6o3GM2k6C"
+        },
+        {
+          "name": "Edo de Waart",
+          "url": "https://open.spotify.com/artist/6ZI0A8Ffc8are1mphRfpVl"
+        }
+      ],
+      "duration_ms": 899360,
+      "name": "Symphony in C Major: I. Sostenuto e maestoso",
+      "url": "https://open.spotify.com/track/4TjyDeIoLr6HmzdrMBSXow"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -779,6 +779,34 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Wagner : Tristan und Isolde",
+        "url": "https://open.spotify.com/album/6BIzBPVDbAw4DdyMOENCFe"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        },
+        {
+          "name": "Marjana Lipovsek",
+          "url": "https://open.spotify.com/artist/3VqRvmqol6junQB7O4qROM"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        }
+      ],
+      "duration_ms": 155573,
+      "name": "Wagner: Tristan und Isolde, Act 2: \"Einsam wachend in der Nacht\" (Brang\u00e4ne)",
+      "url": "https://open.spotify.com/track/7hVykp1rVnRwGrjJkURE3q"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner: Die Meistersinger von N\u00fcrnberg",
         "url": "https://open.spotify.com/album/3hU0XFFZkuUE2sqp9udsBO"
       },
@@ -807,34 +835,6 @@
       "duration_ms": 602266,
       "name": "Die Meistersinger von N\u00fcrnberg, WWV 96 / Act III: \"Morgenlich leuchtend\"",
       "url": "https://open.spotify.com/track/001eyxfoYptAWzvF4ewLrR"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner : Tristan und Isolde",
-        "url": "https://open.spotify.com/album/6BIzBPVDbAw4DdyMOENCFe"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        },
-        {
-          "name": "Marjana Lipovsek",
-          "url": "https://open.spotify.com/artist/3VqRvmqol6junQB7O4qROM"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        }
-      ],
-      "duration_ms": 155573,
-      "name": "Wagner: Tristan und Isolde, Act 2: \"Einsam wachend in der Nacht\" (Brang\u00e4ne)",
-      "url": "https://open.spotify.com/track/7hVykp1rVnRwGrjJkURE3q"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -979,8 +979,8 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Lohengrin (Highlights)",
-        "url": "https://open.spotify.com/album/6ig3L4HlpMqCs30fwhRYyJ"
+        "name": "Wagner: Die Meistersinger",
+        "url": "https://open.spotify.com/album/1UmHT2OLs2m32eU6Fg8o2V"
       },
       "artists": [
         {
@@ -988,25 +988,33 @@
           "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
         },
         {
-          "name": "Pl\u00e1cido Domingo",
-          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+          "name": "Bavarian State Orchestra",
+          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
         },
         {
-          "name": "Jessye Norman",
-          "url": "https://open.spotify.com/artist/0zdBW3w3XzBuPMUEiarUUw"
+          "name": "Wolfgang Sawallisch",
+          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
         },
         {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+          "name": "Cheryl Studer",
+          "url": "https://open.spotify.com/artist/2Owak0BXSN5auAjwTh1N68"
         },
         {
-          "name": "Sir Georg Solti",
-          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+          "name": "Chor der Bayerischen Staatsoper",
+          "url": "https://open.spotify.com/artist/5g4WilZVBOItHcnlLjk5qd"
+        },
+        {
+          "name": "Cornelia Kallisch",
+          "url": "https://open.spotify.com/artist/3wZsZF3NmiMeCqPfPImm8R"
+        },
+        {
+          "name": "Deon Van Der Walt",
+          "url": "https://open.spotify.com/artist/4iWBSLtIJ0PnHuzzjYHcQQ"
         }
       ],
-      "duration_ms": 290026,
-      "name": "Lohengrin, Act III Scene 2: Atmest du nicht mit mir die s\u00fc\u00dfen D\u00fcfte?",
-      "url": "https://open.spotify.com/track/6WIBfonmEpRgXQiaJNXctQ"
+      "duration_ms": 238106,
+      "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 2: \"Johannistag! Johannistag!\" (Chor, David, Magdalena, Sachs)",
+      "url": "https://open.spotify.com/track/57ZtBjJAy0KQ2Zw2YykA70"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1047,8 +1055,8 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Die Meistersinger",
-        "url": "https://open.spotify.com/album/1UmHT2OLs2m32eU6Fg8o2V"
+        "name": "Wagner: Lohengrin (Highlights)",
+        "url": "https://open.spotify.com/album/6ig3L4HlpMqCs30fwhRYyJ"
       },
       "artists": [
         {
@@ -1056,33 +1064,25 @@
           "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
         },
         {
-          "name": "Bavarian State Orchestra",
-          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
         },
         {
-          "name": "Wolfgang Sawallisch",
-          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
+          "name": "Jessye Norman",
+          "url": "https://open.spotify.com/artist/0zdBW3w3XzBuPMUEiarUUw"
         },
         {
-          "name": "Cheryl Studer",
-          "url": "https://open.spotify.com/artist/2Owak0BXSN5auAjwTh1N68"
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
         },
         {
-          "name": "Chor der Bayerischen Staatsoper",
-          "url": "https://open.spotify.com/artist/5g4WilZVBOItHcnlLjk5qd"
-        },
-        {
-          "name": "Cornelia Kallisch",
-          "url": "https://open.spotify.com/artist/3wZsZF3NmiMeCqPfPImm8R"
-        },
-        {
-          "name": "Deon Van Der Walt",
-          "url": "https://open.spotify.com/artist/4iWBSLtIJ0PnHuzzjYHcQQ"
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
         }
       ],
-      "duration_ms": 238106,
-      "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 2: \"Johannistag! Johannistag!\" (Chor, David, Magdalena, Sachs)",
-      "url": "https://open.spotify.com/track/57ZtBjJAy0KQ2Zw2YykA70"
+      "duration_ms": 290026,
+      "name": "Lohengrin, Act III Scene 2: Atmest du nicht mit mir die s\u00fc\u00dfen D\u00fcfte?",
+      "url": "https://open.spotify.com/track/6WIBfonmEpRgXQiaJNXctQ"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1175,50 +1175,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Die Meistersinger von N\u00fcrnberg",
-        "url": "https://open.spotify.com/album/3hU0XFFZkuUE2sqp9udsBO"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Catarina Ligendza",
-          "url": "https://open.spotify.com/artist/5p9RegqOYqZYJ5cHdcUfWH"
-        },
-        {
-          "name": "Christa Ludwig",
-          "url": "https://open.spotify.com/artist/1Jgntox16Lhl0bFoRhV3Ar"
-        },
-        {
-          "name": "Pl\u00e1cido Domingo",
-          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
-        },
-        {
-          "name": "Horst Laubenthal",
-          "url": "https://open.spotify.com/artist/5pLbrfOZHxnu04MPwNoytP"
-        },
-        {
-          "name": "Dietrich Fischer-Dieskau",
-          "url": "https://open.spotify.com/artist/10CN8N2O3FlGlPVJWBiu5D"
-        },
-        {
-          "name": "Orchester der Deutschen Oper Berlin",
-          "url": "https://open.spotify.com/artist/4UH0f8KeI9GR9H403vxsNO"
-        },
-        {
-          "name": "Eugen Jochum",
-          "url": "https://open.spotify.com/artist/6XVxGOzn7c2rLi1GpXxm5v"
-        }
-      ],
-      "duration_ms": 377000,
-      "name": "Die Meistersinger von N\u00fcrnberg, WWV 96 / Act III: \"Selig, wie die Sonne\"",
-      "url": "https://open.spotify.com/track/12i2QXRtwdx7QTL4IDojIp"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner: Die Walk\u00fcre",
         "url": "https://open.spotify.com/album/77X2cJ3JcAAcJi1HKlUwuL"
       },
@@ -1271,6 +1227,50 @@
       "duration_ms": 249265,
       "name": "Die Walk\u00fcre, WWV 86B / Act 3: \"Hier bin ich, Vater\"",
       "url": "https://open.spotify.com/track/2MmgNZf4BX1iTA7zIoGOCI"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Die Meistersinger von N\u00fcrnberg",
+        "url": "https://open.spotify.com/album/3hU0XFFZkuUE2sqp9udsBO"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Catarina Ligendza",
+          "url": "https://open.spotify.com/artist/5p9RegqOYqZYJ5cHdcUfWH"
+        },
+        {
+          "name": "Christa Ludwig",
+          "url": "https://open.spotify.com/artist/1Jgntox16Lhl0bFoRhV3Ar"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+        },
+        {
+          "name": "Horst Laubenthal",
+          "url": "https://open.spotify.com/artist/5pLbrfOZHxnu04MPwNoytP"
+        },
+        {
+          "name": "Dietrich Fischer-Dieskau",
+          "url": "https://open.spotify.com/artist/10CN8N2O3FlGlPVJWBiu5D"
+        },
+        {
+          "name": "Orchester der Deutschen Oper Berlin",
+          "url": "https://open.spotify.com/artist/4UH0f8KeI9GR9H403vxsNO"
+        },
+        {
+          "name": "Eugen Jochum",
+          "url": "https://open.spotify.com/artist/6XVxGOzn7c2rLi1GpXxm5v"
+        }
+      ],
+      "duration_ms": 377000,
+      "name": "Die Meistersinger von N\u00fcrnberg, WWV 96 / Act III: \"Selig, wie die Sonne\"",
+      "url": "https://open.spotify.com/track/12i2QXRtwdx7QTL4IDojIp"
     },
     {
       "added_at": "2022-06-28 08:58:25",

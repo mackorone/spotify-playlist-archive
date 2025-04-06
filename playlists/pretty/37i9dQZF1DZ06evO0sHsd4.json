@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 13010,
+  "num_followers": 13035,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+3PgAAAAACk/eMryv2UAY0soUTx3Duj",
+  "snapshot_id": "Z+8hAAAAAADGJRNjJxyRLpHEH31ZBB9N",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mas Alto Que El Everest",
-        "url": "https://open.spotify.com/album/6rLIcVqblyX9Hpmhuh2ctR"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 181824,
-      "name": "Mas Alto Que El Everest",
-      "url": "https://open.spotify.com/track/4GXiAl2kBRSC7HkeTeBhtq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Loco Es",
         "url": "https://open.spotify.com/album/36UY5ZVRoeNMMVBJ9dtIfr"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 202666,
       "name": "Que Loco Es",
       "url": "https://open.spotify.com/track/21zCMMBtQrkwFwfkrun5Qk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mas Alto Que El Everest",
+        "url": "https://open.spotify.com/album/6rLIcVqblyX9Hpmhuh2ctR"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 181824,
+      "name": "Mas Alto Que El Everest",
+      "url": "https://open.spotify.com/track/4GXiAl2kBRSC7HkeTeBhtq"
     },
     {
       "added_at": null,
@@ -688,15 +688,15 @@
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 145000,
-      "name": "Vivo De Vacaciones",
-      "url": "https://open.spotify.com/track/3cjbBKZR7A9c6hzwjDIOtt"
+      "duration_ms": 149054,
+      "name": "Ya Triunfe",
+      "url": "https://open.spotify.com/track/0cM5xdmligHoXh8evyrHLs"
     },
     {
       "added_at": null,
       "album": {
         "name": "Vueltas De La Vida",
-        "url": "https://open.spotify.com/album/1EwUWq8uTZHRoAfnmo51W7"
+        "url": "https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 136000,
-      "name": "Flow Criminal",
-      "url": "https://open.spotify.com/track/6xpHwnPBjrYACg3PRn5ltL"
+      "duration_ms": 145000,
+      "name": "Vivo De Vacaciones",
+      "url": "https://open.spotify.com/track/3cjbBKZR7A9c6hzwjDIOtt"
     }
   ],
   "unique_name": "This Is Jasiel Nu\u00f1ez",

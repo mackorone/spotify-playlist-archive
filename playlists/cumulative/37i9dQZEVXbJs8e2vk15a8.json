@@ -327,6 +327,28 @@
     },
     {
       "album": {
+        "name": "Pitcher",
+        "url": "https://open.spotify.com/album/2k98cU83ZXIFQpAikP1xyU"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "Young Martino",
+          "url": "https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG"
+        }
+      ],
+      "date_added": "2025-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130670,
+      "name": "18",
+      "url": "https://open.spotify.com/track/5KMfzwgSsB0UETKqceJ6Eu"
+    },
+    {
+      "album": {
         "name": "30 Marches, Hymns and Army Songs. World Military Bands",
         "url": "https://open.spotify.com/album/2IeLOLet5nFvk5efI6PymO"
       },
@@ -10183,6 +10205,24 @@
     },
     {
       "album": {
+        "name": "Malcolm Todd",
+        "url": "https://open.spotify.com/album/6IkS2cDHxaYVkJueCPSdFs"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2025-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200826,
+      "name": "Chest Pain (I Love)",
+      "url": "https://open.spotify.com/track/2XUx8PCXGpP1XhZJMGiUol"
+    },
+    {
+      "album": {
         "name": "Chest Pain (I Love)",
         "url": "https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ"
       },
@@ -10194,7 +10234,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 200826,
       "name": "Chest Pain (I Love)",
       "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
@@ -12002,7 +12042,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 208933,
       "name": "Conv\u00e9ncete (Remix)",
       "url": "https://open.spotify.com/track/4OA8RnYn0HIQMBDgIFnrJu"
@@ -13244,7 +13284,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 199694,
       "name": "Daniela",
       "url": "https://open.spotify.com/track/5WHIJHRMcsNFFi7w1kU24M"
@@ -42334,6 +42374,10 @@
         {
           "name": "Kidd Voodoo",
           "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Swift 047",
+          "url": "https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb"
         }
       ],
       "date_added": "2025-03-04",
@@ -45193,6 +45237,32 @@
     },
     {
       "album": {
+        "name": "ENTRE D\u00d8RMIDO Y DESPIERT\u00d8",
+        "url": "https://open.spotify.com/album/49DOE3wi9BDVPhBbbtYqa5"
+      },
+      "artists": [
+        {
+          "name": "XUKYYLASESENTA",
+          "url": "https://open.spotify.com/artist/4LqL2BaX1G2mzM9N8U3OQd"
+        },
+        {
+          "name": "Big Cvyu",
+          "url": "https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg"
+        },
+        {
+          "name": "Jordan 23",
+          "url": "https://open.spotify.com/artist/4f3hFmdTD4ptbbE4kDegHm"
+        }
+      ],
+      "date_added": "2025-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171990,
+      "name": "REVENTANDO XAPA",
+      "url": "https://open.spotify.com/track/73F70XwDOzbZxeEujpybop"
+    },
+    {
+      "album": {
         "name": "So Close To What",
         "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
       },
@@ -47640,7 +47710,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
@@ -56874,7 +56944,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-03",
+      "date_removed": null,
       "duration_ms": 208743,
       "name": "VITAMINA",
       "url": "https://open.spotify.com/track/0DMJz677XfXiiruhIELu2e"

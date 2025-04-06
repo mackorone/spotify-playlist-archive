@@ -1,6 +1,6 @@
 {
   "description": "Parque Sim\u00f3n Bol\u00edvar, Marzo 27, 28, 29 y 30. Foto: Olivia Rodrigo",
-  "num_followers": 45487,
+  "num_followers": 45486,
   "original_name": "Festival Est\u00e9reo Picnic 2025",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
-        "name": "Bad Dreams",
-        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 184577,
-      "name": "Bad Dreams",
-      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
-    },
-    {
-      "added_at": "2025-03-28 16:02:55",
-      "album": {
         "name": "Walking On A Dream (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 267373,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"
+    },
+    {
+      "added_at": "2025-03-28 16:02:55",
+      "album": {
+        "name": "Bad Dreams",
+        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 184577,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -207,18 +207,18 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
-        "name": "Mon Laferte (Vol. 1)",
-        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+        "name": "Walking On A Dream (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
       },
       "artists": [
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         }
       ],
-      "duration_ms": 278546,
-      "name": "Tu Falta De Querer",
-      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
+      "duration_ms": 198440,
+      "name": "Walking On A Dream",
+      "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -239,6 +239,22 @@
       "duration_ms": 234333,
       "name": "The Thrill",
       "url": "https://open.spotify.com/track/56oGoEjA9eTZYgsttEFKY3"
+    },
+    {
+      "added_at": "2025-03-28 16:02:55",
+      "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 278546,
+      "name": "Tu Falta De Querer",
+      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -275,38 +291,6 @@
       "duration_ms": 159849,
       "name": "Fuera del mercado",
       "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
-    },
-    {
-      "added_at": "2025-03-28 16:02:55",
-      "album": {
-        "name": "Walking On A Dream (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "Walking On A Dream",
-      "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
-    },
-    {
-      "added_at": "2025-03-28 16:02:55",
-      "album": {
-        "name": "Mon Laferte (Vol. 1)",
-        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 202333,
-      "name": "Si T\u00fa Me Quisieras",
-      "url": "https://open.spotify.com/track/7EySX8ldJHoeWjJhJyZ8Tq"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -375,6 +359,22 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 202333,
+      "name": "Si T\u00fa Me Quisieras",
+      "url": "https://open.spotify.com/track/7EySX8ldJHoeWjJhJyZ8Tq"
+    },
+    {
+      "added_at": "2025-03-28 16:02:55",
+      "album": {
         "name": "how could u love somebody like me?",
         "url": "https://open.spotify.com/album/1lUpGoaGcoPhS0uyzpw3mj"
       },
@@ -387,6 +387,22 @@
       "duration_ms": 126447,
       "name": "how could u love somebody like me?",
       "url": "https://open.spotify.com/track/7bn5nXdatftk0CHSrd7NHQ"
+    },
+    {
+      "added_at": "2025-03-28 16:02:55",
+      "album": {
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 202466,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -407,22 +423,6 @@
       "duration_ms": 172506,
       "name": "CUAL ES ESA",
       "url": "https://open.spotify.com/track/05sO6FK8E9l2cfwnEUTjHq"
-    },
-    {
-      "added_at": "2025-03-28 16:02:55",
-      "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 202466,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -483,6 +483,30 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
+        "name": "CARACAS EN EL 2000",
+        "url": "https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/3tveA7l6PmZICdkhBPVvak"
+        }
+      ],
+      "duration_ms": 227784,
+      "name": "CARACAS EN EL 2000",
+      "url": "https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ"
+    },
+    {
+      "added_at": "2025-03-28 16:02:55",
+      "album": {
         "name": "Parcels",
         "url": "https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy"
       },
@@ -511,30 +535,6 @@
       "duration_ms": 290742,
       "name": "La Cita",
       "url": "https://open.spotify.com/track/0XQzw53uo8V4GErre45Az1"
-    },
-    {
-      "added_at": "2025-03-28 16:02:55",
-      "album": {
-        "name": "CARACAS EN EL 2000",
-        "url": "https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/3tveA7l6PmZICdkhBPVvak"
-        }
-      ],
-      "duration_ms": 227784,
-      "name": "CARACAS EN EL 2000",
-      "url": "https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -675,18 +675,18 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
-        "name": "Inhale / Exhale",
-        "url": "https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP"
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
         }
       ],
-      "duration_ms": 236080,
-      "name": "Music is Better",
-      "url": "https://open.spotify.com/track/4NlxBNd38G9nXjCVrbBYre"
+      "duration_ms": 239640,
+      "name": "You Learn - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -707,18 +707,18 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+        "name": "Inhale / Exhale",
+        "url": "https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP"
       },
       "artists": [
         {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 239640,
-      "name": "You Learn - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV"
+      "duration_ms": 236080,
+      "name": "Music is Better",
+      "url": "https://open.spotify.com/track/4NlxBNd38G9nXjCVrbBYre"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
-        "name": "Antia\u00e9reo",
-        "url": "https://open.spotify.com/album/5ZXxw4HE8cmoNsVCesdMKZ"
-      },
-      "artists": [
-        {
-          "name": "Arde Bogot\u00e1",
-          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Antia\u00e9reo",
-      "url": "https://open.spotify.com/track/15tDDogDQ8kOcs5b6G2bN5"
-    },
-    {
-      "added_at": "2025-03-28 16:02:55",
-      "album": {
         "name": "The Midnight Club GT",
         "url": "https://open.spotify.com/album/6a2QtF55Q67Tr69arnzPQW"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 286145,
       "name": "Phonky Tribu",
       "url": "https://open.spotify.com/track/7aIb17DMLcOhLJIc9vF6Aa"
+    },
+    {
+      "added_at": "2025-03-28 16:02:55",
+      "album": {
+        "name": "Antia\u00e9reo",
+        "url": "https://open.spotify.com/album/5ZXxw4HE8cmoNsVCesdMKZ"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Antia\u00e9reo",
+      "url": "https://open.spotify.com/track/15tDDogDQ8kOcs5b6G2bN5"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
-        "name": "LA NOCHE",
-        "url": "https://open.spotify.com/album/6yDXf7d9bcrE0IkookDVak"
-      },
-      "artists": [
-        {
-          "name": "Arde Bogot\u00e1",
-          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
-        }
-      ],
-      "duration_ms": 217128,
-      "name": "Cari\u00f1o",
-      "url": "https://open.spotify.com/track/7uWmMWEBGlBAm5B0oMpcs8"
-    },
-    {
-      "added_at": "2025-03-28 16:02:55",
-      "album": {
         "name": "Superclean, Vol. I",
         "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 176599,
       "name": "Basta Ya",
       "url": "https://open.spotify.com/track/4CUTUsBGjHslu2Bd3AOXGg"
+    },
+    {
+      "added_at": "2025-03-28 16:02:55",
+      "album": {
+        "name": "LA NOCHE",
+        "url": "https://open.spotify.com/album/6yDXf7d9bcrE0IkookDVak"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        }
+      ],
+      "duration_ms": 217128,
+      "name": "Cari\u00f1o",
+      "url": "https://open.spotify.com/track/7uWmMWEBGlBAm5B0oMpcs8"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
+        "name": "Tyrannosaurus Hives",
+        "url": "https://open.spotify.com/album/2Qo8MVIOIyrBrqgoCsHCXV"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "duration_ms": 211813,
+      "name": "Walk Idiot Walk",
+      "url": "https://open.spotify.com/track/5Pdd4QCr0rREXM03zBM2Eh"
+    },
+    {
+      "added_at": "2025-03-28 16:02:55",
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/3yjqJkHqnGlO6wpE9GPxV3"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 198000,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/1FJYX0a18UBzFOWzec43Ih"
-    },
-    {
-      "added_at": "2025-03-28 16:02:55",
-      "album": {
-        "name": "Tyrannosaurus Hives",
-        "url": "https://open.spotify.com/album/2Qo8MVIOIyrBrqgoCsHCXV"
-      },
-      "artists": [
-        {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
-        }
-      ],
-      "duration_ms": 211813,
-      "name": "Walk Idiot Walk",
-      "url": "https://open.spotify.com/track/5Pdd4QCr0rREXM03zBM2Eh"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
-        "name": "Different Way",
-        "url": "https://open.spotify.com/album/3LdFfrNZnL21UJTBIacm7S"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 196829,
-      "name": "Different Way",
-      "url": "https://open.spotify.com/track/163F0Xyv6BaZrACQIwMrcr"
-    },
-    {
-      "added_at": "2025-03-28 16:02:55",
-      "album": {
         "name": "Selecci\u00f3n Natural",
         "url": "https://open.spotify.com/album/128Quqrd9Nqtnq8NtXyQQi"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 208291,
       "name": "No Me Quiero Ba\u00f1ar",
       "url": "https://open.spotify.com/track/3s5vf5jFE3CD8M8ek5vms8"
+    },
+    {
+      "added_at": "2025-03-28 16:02:55",
+      "album": {
+        "name": "Different Way",
+        "url": "https://open.spotify.com/album/3LdFfrNZnL21UJTBIacm7S"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 196829,
+      "name": "Different Way",
+      "url": "https://open.spotify.com/track/163F0Xyv6BaZrACQIwMrcr"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
-        "name": "Lex Hives",
-        "url": "https://open.spotify.com/album/4lmIiunYRYi2A1qJdxnZeM"
-      },
-      "artists": [
-        {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
-        }
-      ],
-      "duration_ms": 68133,
-      "name": "Come On!",
-      "url": "https://open.spotify.com/track/2PCgSYhP1azgvCPPJTVC4F"
-    },
-    {
-      "added_at": "2025-03-28 16:02:55",
-      "album": {
         "name": "MASSEDUCTION",
         "url": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e"
       },
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
-        "name": "Asura EP",
-        "url": "https://open.spotify.com/album/5mVxJJjUM7BKyZG7S2GDKc"
+        "name": "Lex Hives",
+        "url": "https://open.spotify.com/album/4lmIiunYRYi2A1qJdxnZeM"
       },
       "artists": [
         {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
         }
       ],
-      "duration_ms": 469612,
-      "name": "Asura",
-      "url": "https://open.spotify.com/track/0VuuObMpLGGCMGtPNgG1rp"
+      "duration_ms": 68133,
+      "name": "Come On!",
+      "url": "https://open.spotify.com/track/2PCgSYhP1azgvCPPJTVC4F"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -1547,6 +1531,22 @@
       "duration_ms": 218752,
       "name": "Otra Vida",
       "url": "https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3"
+    },
+    {
+      "added_at": "2025-03-28 16:02:55",
+      "album": {
+        "name": "Asura EP",
+        "url": "https://open.spotify.com/album/5mVxJJjUM7BKyZG7S2GDKc"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 469612,
+      "name": "Asura",
+      "url": "https://open.spotify.com/track/0VuuObMpLGGCMGtPNgG1rp"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
-        "name": "Audio, Video, Disco.",
-        "url": "https://open.spotify.com/album/0dLnnm4PjeyqM4CoHqo6DI"
-      },
-      "artists": [
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        }
-      ],
-      "duration_ms": 292360,
-      "name": "Audio, Video, Disco.",
-      "url": "https://open.spotify.com/track/32SkyVfs7k7tTsxoUjUEDa"
-    },
-    {
-      "added_at": "2025-03-28 16:02:55",
-      "album": {
         "name": "acts of rebellion",
         "url": "https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 121030,
       "name": "Lovin'",
       "url": "https://open.spotify.com/track/2fXYNye7sjElTA1JhyKJaG"
+    },
+    {
+      "added_at": "2025-03-28 16:02:55",
+      "album": {
+        "name": "Audio, Video, Disco.",
+        "url": "https://open.spotify.com/album/0dLnnm4PjeyqM4CoHqo6DI"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "duration_ms": 292360,
+      "name": "Audio, Video, Disco.",
+      "url": "https://open.spotify.com/track/32SkyVfs7k7tTsxoUjUEDa"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
+        "name": "Me Hizo un Amarre",
+        "url": "https://open.spotify.com/album/0KMp7IvuciTWlK9D0o0is2"
+      },
+      "artists": [
+        {
+          "name": "Chell",
+          "url": "https://open.spotify.com/artist/26z5jcyErxp9lUdkw28pId"
+        }
+      ],
+      "duration_ms": 200362,
+      "name": "Aunque No Est\u00e9s",
+      "url": "https://open.spotify.com/track/0N258TTgaufqYDGCtBEYZX"
+    },
+    {
+      "added_at": "2025-03-28 16:02:55",
+      "album": {
         "name": "Teddy Boy",
         "url": "https://open.spotify.com/album/1SbguC3zYCsklaIGThmoMt"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 182151,
       "name": "ALGUIEN COMO T\u00da",
       "url": "https://open.spotify.com/track/5u3akOE4Rsf2rxeYWOjUPu"
-    },
-    {
-      "added_at": "2025-03-28 16:02:55",
-      "album": {
-        "name": "Me Hizo un Amarre",
-        "url": "https://open.spotify.com/album/0KMp7IvuciTWlK9D0o0is2"
-      },
-      "artists": [
-        {
-          "name": "Chell",
-          "url": "https://open.spotify.com/artist/26z5jcyErxp9lUdkw28pId"
-        }
-      ],
-      "duration_ms": 200362,
-      "name": "Aunque No Est\u00e9s",
-      "url": "https://open.spotify.com/track/0N258TTgaufqYDGCtBEYZX"
     },
     {
       "added_at": "2025-03-28 16:02:55",

@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Camiseta 22 y Los Miserables en portada.",
-  "num_followers": 478367,
+  "num_followers": 478410,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
+        "name": "Frecuencia Rebelde",
+        "url": "https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj"
+      },
+      "artists": [
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "Total",
+      "url": "https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa"
+    },
+    {
+      "added_at": "2025-04-04 06:00:19",
+      "album": {
         "name": "El \u00daltimo Ska",
         "url": "https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 274653,
       "name": "El \u00daltimo Ska",
       "url": "https://open.spotify.com/track/5xx3UJqIo8SsSc00znFPtK"
-    },
-    {
-      "added_at": "2025-04-04 06:00:19",
-      "album": {
-        "name": "Frecuencia Rebelde",
-        "url": "https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj"
-      },
-      "artists": [
-        {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "Total",
-      "url": "https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa"
     },
     {
       "added_at": "2025-04-04 06:00:19",
@@ -971,42 +971,6 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
-        "name": "Vete Por Donde Viniste",
-        "url": "https://open.spotify.com/album/3u0gAPe5il3ljfI9wUWP0n"
-      },
-      "artists": [
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        },
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Vete Por Donde Viniste",
-      "url": "https://open.spotify.com/track/5Wn97vM7JaTNyp8DQIM60d"
-    },
-    {
-      "added_at": "2025-04-04 06:00:19",
-      "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
-      },
-      "artists": [
-        {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
-        }
-      ],
-      "duration_ms": 243813,
-      "name": "La Zona del Terror",
-      "url": "https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ"
-    },
-    {
-      "added_at": "2025-04-04 06:00:19",
-      "album": {
         "name": "Estoy aqu\u00ed (feat. La Pegatina)",
         "url": "https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL"
       },
@@ -1027,6 +991,22 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 243813,
+      "name": "La Zona del Terror",
+      "url": "https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ"
+    },
+    {
+      "added_at": "2025-04-04 06:00:19",
+      "album": {
         "name": "Desequilibrio",
         "url": "https://open.spotify.com/album/2Px5P5cADenS9K7ectw7AD"
       },
@@ -1043,18 +1023,22 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
-        "name": "As\u00ed No Se Puede Querer",
-        "url": "https://open.spotify.com/album/7hZn0928vV65wuZLP8PgRw"
+        "name": "Vete Por Donde Viniste",
+        "url": "https://open.spotify.com/album/3u0gAPe5il3ljfI9wUWP0n"
       },
       "artists": [
         {
-          "name": "Los Inconformes",
-          "url": "https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy"
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
         }
       ],
-      "duration_ms": 216859,
-      "name": "As\u00ed No Se Puede Querer",
-      "url": "https://open.spotify.com/track/2qqql02hJQMtSmBprjvj3e"
+      "duration_ms": 187000,
+      "name": "Vete Por Donde Viniste",
+      "url": "https://open.spotify.com/track/5Wn97vM7JaTNyp8DQIM60d"
     },
     {
       "added_at": "2025-04-04 06:00:19",
@@ -1075,6 +1059,22 @@
       "duration_ms": 182233,
       "name": "Am\u00e9rica",
       "url": "https://open.spotify.com/track/4xwUANiwIWZ2UkKxXzSSSJ"
+    },
+    {
+      "added_at": "2025-04-04 06:00:19",
+      "album": {
+        "name": "As\u00ed No Se Puede Querer",
+        "url": "https://open.spotify.com/album/7hZn0928vV65wuZLP8PgRw"
+      },
+      "artists": [
+        {
+          "name": "Los Inconformes",
+          "url": "https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy"
+        }
+      ],
+      "duration_ms": 216859,
+      "name": "As\u00ed No Se Puede Querer",
+      "url": "https://open.spotify.com/track/2qqql02hJQMtSmBprjvj3e"
     },
     {
       "added_at": "2025-04-04 06:00:19",
@@ -1195,42 +1195,6 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
-        "name": "Nunca Nos Compusimos",
-        "url": "https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up"
-      },
-      "artists": [
-        {
-          "name": "La Parranda Magna",
-          "url": "https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH"
-        }
-      ],
-      "duration_ms": 230573,
-      "name": "Envenenen a Mis Labios",
-      "url": "https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6"
-    },
-    {
-      "added_at": "2025-04-04 06:00:19",
-      "album": {
-        "name": "Viernes",
-        "url": "https://open.spotify.com/album/5vDyrvR9CRNoCe12SUulC1"
-      },
-      "artists": [
-        {
-          "name": "Camiseta 22",
-          "url": "https://open.spotify.com/artist/32lMy5o72ghZijsNvPOeUf"
-        },
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 248371,
-      "name": "Viernes",
-      "url": "https://open.spotify.com/track/2tunprqnsQiGMmzZh2Lq5q"
-    },
-    {
-      "added_at": "2025-04-04 06:00:19",
-      "album": {
         "name": "Pachuco (feat. \"Sax\" Maldita Vecindad - en Vivo en el Foro Sol - 17.11.17)",
         "url": "https://open.spotify.com/album/6wmAbQ7sRCwzJsPr87EfoC"
       },
@@ -1267,6 +1231,22 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
+        "name": "Nunca Nos Compusimos",
+        "url": "https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up"
+      },
+      "artists": [
+        {
+          "name": "La Parranda Magna",
+          "url": "https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH"
+        }
+      ],
+      "duration_ms": 230573,
+      "name": "Envenenen a Mis Labios",
+      "url": "https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6"
+    },
+    {
+      "added_at": "2025-04-04 06:00:19",
+      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp"
       },
@@ -1279,22 +1259,6 @@
       "duration_ms": 190012,
       "name": "El Peor Momento",
       "url": "https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f"
-    },
-    {
-      "added_at": "2025-04-04 06:00:19",
-      "album": {
-        "name": "Al Final - The Romaphonic Session",
-        "url": "https://open.spotify.com/album/1EZ1RXJ60yEjI45z4WcaY0"
-      },
-      "artists": [
-        {
-          "name": "Sat\u00e9lite Kingston",
-          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
-        }
-      ],
-      "duration_ms": 221887,
-      "name": "Al Final - The Romaphonic Session",
-      "url": "https://open.spotify.com/track/15b5DnRHBUjq8gHaKvWGd4"
     },
     {
       "added_at": "2025-04-04 06:00:19",
@@ -1319,6 +1283,26 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
+        "name": "Viernes",
+        "url": "https://open.spotify.com/album/5vDyrvR9CRNoCe12SUulC1"
+      },
+      "artists": [
+        {
+          "name": "Camiseta 22",
+          "url": "https://open.spotify.com/artist/32lMy5o72ghZijsNvPOeUf"
+        },
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 248371,
+      "name": "Viernes",
+      "url": "https://open.spotify.com/track/2tunprqnsQiGMmzZh2Lq5q"
+    },
+    {
+      "added_at": "2025-04-04 06:00:19",
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0CMRrNDtBSZJ2VPhG3G1XF"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 260250,
       "name": "Im gonna come back to Brixton",
       "url": "https://open.spotify.com/track/2iUnqMPrjZCvrvp2jYS1Wg"
+    },
+    {
+      "added_at": "2025-04-04 06:00:19",
+      "album": {
+        "name": "Al Final - The Romaphonic Session",
+        "url": "https://open.spotify.com/album/1EZ1RXJ60yEjI45z4WcaY0"
+      },
+      "artists": [
+        {
+          "name": "Sat\u00e9lite Kingston",
+          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
+        }
+      ],
+      "duration_ms": 221887,
+      "name": "Al Final - The Romaphonic Session",
+      "url": "https://open.spotify.com/track/15b5DnRHBUjq8gHaKvWGd4"
     },
     {
       "added_at": "2025-04-04 06:00:19",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
-        "name": "Que Carajos Hago Aqu\u00ed?",
-        "url": "https://open.spotify.com/album/1t1JAgTHN6iRqyGM1gPad3"
+        "name": "Este Ritmo",
+        "url": "https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp"
       },
       "artists": [
         {
-          "name": "Gallo Rojo",
-          "url": "https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk"
+          "name": "Los De Abajo",
+          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
         }
       ],
-      "duration_ms": 187039,
-      "name": "Que Carajos Hago Aqu\u00ed?",
-      "url": "https://open.spotify.com/track/28UC4tHKTtsCQ83pwlf7Be"
+      "duration_ms": 167128,
+      "name": "Este Ritmo",
+      "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
     },
     {
       "added_at": "2025-04-04 06:00:19",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
+        "name": "Que Carajos Hago Aqu\u00ed?",
+        "url": "https://open.spotify.com/album/1t1JAgTHN6iRqyGM1gPad3"
+      },
+      "artists": [
+        {
+          "name": "Gallo Rojo",
+          "url": "https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk"
+        }
+      ],
+      "duration_ms": 187039,
+      "name": "Que Carajos Hago Aqu\u00ed?",
+      "url": "https://open.spotify.com/track/28UC4tHKTtsCQ83pwlf7Be"
+    },
+    {
+      "added_at": "2025-04-04 06:00:19",
+      "album": {
         "name": "Revolusound Contra Sistema",
         "url": "https://open.spotify.com/album/6ttamnxtAQ0pSALD625bUH"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 184666,
       "name": "Corrupci\u00f3n Ska",
       "url": "https://open.spotify.com/track/4kl5KRleflL90aIGrhBtqX"
-    },
-    {
-      "added_at": "2025-04-04 06:00:19",
-      "album": {
-        "name": "Este Ritmo",
-        "url": "https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp"
-      },
-      "artists": [
-        {
-          "name": "Los De Abajo",
-          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
-        }
-      ],
-      "duration_ms": 167128,
-      "name": "Este Ritmo",
-      "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
     },
     {
       "added_at": "2025-04-04 06:00:19",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
-        "name": "At\u00e1scate",
-        "url": "https://open.spotify.com/album/2CpMoVr6XnaoYbWWBCrYEP"
+        "name": "Amores Desechables",
+        "url": "https://open.spotify.com/album/2iKOTY9uyBGJ10eBKTTIFa"
       },
       "artists": [
         {
-          "name": "Machingon",
-          "url": "https://open.spotify.com/artist/2mCpnIB9hVbqLCi3Y35suE"
+          "name": "La Inminente Sociedad",
+          "url": "https://open.spotify.com/artist/7n28xyqjxydlNv65OFFwsG"
         }
       ],
-      "duration_ms": 189000,
-      "name": "At\u00e1scate",
-      "url": "https://open.spotify.com/track/5BvJJcOPRfgYqyCKWsnCmD"
+      "duration_ms": 238741,
+      "name": "Amores Desechables",
+      "url": "https://open.spotify.com/track/2FHt2jFXTnemuV1VEEiTQB"
     },
     {
       "added_at": "2025-04-04 06:00:19",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
-        "name": "Amores Desechables",
-        "url": "https://open.spotify.com/album/2iKOTY9uyBGJ10eBKTTIFa"
+        "name": "At\u00e1scate",
+        "url": "https://open.spotify.com/album/2CpMoVr6XnaoYbWWBCrYEP"
       },
       "artists": [
         {
-          "name": "La Inminente Sociedad",
-          "url": "https://open.spotify.com/artist/7n28xyqjxydlNv65OFFwsG"
+          "name": "Machingon",
+          "url": "https://open.spotify.com/artist/2mCpnIB9hVbqLCi3Y35suE"
         }
       ],
-      "duration_ms": 238741,
-      "name": "Amores Desechables",
-      "url": "https://open.spotify.com/track/2FHt2jFXTnemuV1VEEiTQB"
+      "duration_ms": 189000,
+      "name": "At\u00e1scate",
+      "url": "https://open.spotify.com/track/5BvJJcOPRfgYqyCKWsnCmD"
     },
     {
       "added_at": "2025-04-04 06:00:19",
@@ -1619,22 +1619,22 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
-        "name": "Todo Crazy",
-        "url": "https://open.spotify.com/album/1xwLD4K1UR04tqUKcAYy9a"
+        "name": "Paz y Baile",
+        "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
       },
       "artists": [
         {
-          "name": "Gallo Rojo",
-          "url": "https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk"
+          "name": "Roco Pachukote",
+          "url": "https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA"
         },
         {
-          "name": "Triciclo Circus Band",
-          "url": "https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt"
+          "name": "Flavio Cianciarulo",
+          "url": "https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3"
         }
       ],
-      "duration_ms": 175434,
-      "name": "Todo Crazy",
-      "url": "https://open.spotify.com/track/00xO4aLAM1baaX7HX3y1Dw"
+      "duration_ms": 218750,
+      "name": "Paz y Baile",
+      "url": "https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P"
     },
     {
       "added_at": "2025-04-04 06:00:19",
@@ -1671,38 +1671,38 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
-        "name": "No puedo estar sin ti",
-        "url": "https://open.spotify.com/album/2jWigwCEBrqtdMBb1m0MM7"
+        "name": "Todo Crazy",
+        "url": "https://open.spotify.com/album/1xwLD4K1UR04tqUKcAYy9a"
       },
       "artists": [
         {
-          "name": "Salon Victoria",
-          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
+          "name": "Gallo Rojo",
+          "url": "https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk"
+        },
+        {
+          "name": "Triciclo Circus Band",
+          "url": "https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt"
         }
       ],
-      "duration_ms": 182500,
-      "name": "No puedo estar sin ti",
-      "url": "https://open.spotify.com/track/5gwBr5ySgqNIh7D4BCzhwK"
+      "duration_ms": 175434,
+      "name": "Todo Crazy",
+      "url": "https://open.spotify.com/track/00xO4aLAM1baaX7HX3y1Dw"
     },
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
-        "name": "Paz y Baile",
-        "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
+        "name": "Siente El Movimiento",
+        "url": "https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC"
       },
       "artists": [
         {
-          "name": "Roco Pachukote",
-          "url": "https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA"
-        },
-        {
-          "name": "Flavio Cianciarulo",
-          "url": "https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3"
+          "name": "La Sant\u00edsima Voladora",
+          "url": "https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0"
         }
       ],
-      "duration_ms": 218750,
-      "name": "Paz y Baile",
-      "url": "https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P"
+      "duration_ms": 186175,
+      "name": "Siente El Movimiento",
+      "url": "https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3"
     },
     {
       "added_at": "2025-04-04 06:00:19",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
-        "name": "Siente El Movimiento",
-        "url": "https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC"
+        "name": "No puedo estar sin ti",
+        "url": "https://open.spotify.com/album/2jWigwCEBrqtdMBb1m0MM7"
       },
       "artists": [
         {
-          "name": "La Sant\u00edsima Voladora",
-          "url": "https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0"
+          "name": "Salon Victoria",
+          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
         }
       ],
-      "duration_ms": 186175,
-      "name": "Siente El Movimiento",
-      "url": "https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3"
+      "duration_ms": 182500,
+      "name": "No puedo estar sin ti",
+      "url": "https://open.spotify.com/track/5gwBr5ySgqNIh7D4BCzhwK"
     },
     {
       "added_at": "2025-04-04 06:00:19",

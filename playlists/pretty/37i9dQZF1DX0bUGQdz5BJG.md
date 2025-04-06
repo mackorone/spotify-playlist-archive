@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Adrien Nunez
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,250 likes - 210 songs - 11 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,294 likes - 210 songs - 11 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

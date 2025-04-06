@@ -1,12 +1,12 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1015218,
+  "num_followers": 1015589,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+3PgAAAAACoUx7wZxck7EpTzp9LCJWk",
+  "snapshot_id": "Z+8hAAAAAACzFnAxQYfH37n2IQf5XPxA",
   "tracks": [
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El D\u00eda De Los Muertos",
+        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 206813,
+      "name": "La Danza Del Venado",
+      "url": "https://open.spotify.com/track/468U6z141Dy1dVPikBwKfY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu Amor Es M\u00edo",
         "url": "https://open.spotify.com/album/1DjlUNCpNxYHHA6wU1a1Q4"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 250434,
       "name": "Tu Amor Es M\u00edo",
       "url": "https://open.spotify.com/track/69yi8lHc0rjIkzaCYU3xTX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El D\u00eda De Los Muertos",
-        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 206813,
-      "name": "La Danza Del Venado",
-      "url": "https://open.spotify.com/track/468U6z141Dy1dVPikBwKfY"
     },
     {
       "added_at": null,

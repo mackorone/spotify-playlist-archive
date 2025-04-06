@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-265 songs - 14 hr 51 min
+266 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [APTIT](https://open.spotify.com/track/7HXbBLF1gg7r5dD5rctWWU) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E) | [APTIT](https://open.spotify.com/album/29BlAmVIngHpaTayeRWCLm) | 2:48 | 2024-10-04 | 2025-03-15 |
 | [Aqua](https://open.spotify.com/track/4iKJ7hwSzVdoI8MhnS6nAP) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Aqua](https://open.spotify.com/album/3yzdTUPD1Q8gInAZkHP3lm) | 2:33 | 2024-11-08 | 2025-03-03 |
 | [Arena](https://open.spotify.com/track/7MxSe1IUsbfSTyoZ3Vwgm4) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Arena](https://open.spotify.com/album/7IfHAYECjJU9jzopGiOtSq) | 3:58 | 2024-06-28 | 2024-08-23 |
+| [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 | 2025-04-03 |  |
 | [Babymoma](https://open.spotify.com/track/6G2mLd5ZXnqlOyqSbTl6FP) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Babymoma](https://open.spotify.com/album/4nqeoUwXIwq0mGuUUa4oxv) | 2:52 | 2024-06-28 | 2024-08-23 |
 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-08 | 2025-02-24 |
 | [BeReal](https://open.spotify.com/track/2VX7K6KHk5Qx3bcgiO4ugi) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Waterworks](https://open.spotify.com/album/4o329n3fKBiuDuE66t0s1L) | 2:08 | 2024-06-28 | 2024-08-23 |
@@ -84,7 +85,7 @@
 | [Figure Out](https://open.spotify.com/track/7gZxG7pi9UV6Z8Cqx1tSG9) | [Then Argus](https://open.spotify.com/artist/60Rap5PmLfAvGbx10vytgB) | [Figure Out](https://open.spotify.com/album/0zsCcDD4dmZfVeZ5ZX24I2) | 3:03 | 2024-10-10 | 2024-12-22 |
 | [Finish Line](https://open.spotify.com/track/5lU6xoJhNJCdckDU57wxod) | [Tingsek](https://open.spotify.com/artist/7ld5C8ya3nwAnCTHG923VE) | [Finish Line](https://open.spotify.com/album/5xShuuJOSs4zD700DPTRh0) | 3:26 | 2024-08-29 | 2024-10-13 |
 | [Flyga Fram](https://open.spotify.com/track/35buTrFZ00h0svO032k1m2) | [Abstract Crimewave](https://open.spotify.com/artist/3pTrxFmeadGx3bjSVur3m1), [Dungen](https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d) | [Flyga Fram](https://open.spotify.com/album/77y6xFyrGqoFTnlqHoi6ay) | 3:02 | 2024-08-22 | 2024-11-01 |
-| [Flytta på dig](https://open.spotify.com/track/6eR2CClGsFqboQ61epslcx) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Flytta på dig](https://open.spotify.com/album/26CDINQwqeAb8xqceT0fxS) | 2:17 | 2025-03-27 | 2025-04-04 |
+| [Flytta på dig](https://open.spotify.com/track/6eR2CClGsFqboQ61epslcx) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Flytta på dig](https://open.spotify.com/album/26CDINQwqeAb8xqceT0fxS) | 2:17 | 2025-03-27 |  |
 | [Flyttat därifrån](https://open.spotify.com/track/2HC0Y27D9pGyMBMoivUcer) | [Dear Sara](https://open.spotify.com/artist/721YShAWcHkTb98Kn0zi3S) | [Flyttat därifrån](https://open.spotify.com/album/5PDNp1F6qzCnMDp6Q9GSJp) | 2:57 | 2024-06-28 | 2024-09-27 |
 | [Forget,](https://open.spotify.com/track/7cAqg391pJlB8XWcgEWH6W) | [Isac Halldin](https://open.spotify.com/artist/3DvEEc12DMy5peHWgSw2UF) | [Forget,](https://open.spotify.com/album/1CrkjivjCUyyotAissCcqN) | 2:58 | 2025-03-07 | 2025-03-21 |
 | [Fortfarande du](https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Fortfarande du / Tills vi dör \( Akustisk \)](https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am) | 2:39 | 2024-10-10 |  |
@@ -161,7 +162,7 @@
 | [Leave Me Alone](https://open.spotify.com/track/5asaMzNMI7NVR4QUMWjicy) | [Lucky Lou](https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2) | [Leave Me Alone](https://open.spotify.com/album/5w543mJbAupEInVlJC8V6V) | 3:03 | 2024-06-28 | 2024-08-30 |
 | [Leyla](https://open.spotify.com/track/4QIzYCGDTLJxue9HQe4xaY) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Leyla](https://open.spotify.com/album/6pkRBjBGXdVF8b0AUCfuUl) | 2:26 | 2025-03-13 |  |
 | [Lightyears \(with Young Thug\)](https://open.spotify.com/track/7D5JJXdw98saj80xQxukTQ) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [The Pre\-Party](https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4) | 3:12 | 2024-09-13 | 2025-02-17 |
-| [Little Brother](https://open.spotify.com/track/50txkiS3lmOYM0pQqxnNa1) | [Sofia Monroy](https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o) | [Little Brother](https://open.spotify.com/album/6IMtHh5NCek4Lm3UiGJXGa) | 4:56 | 2025-02-27 |  |
+| [Little Brother](https://open.spotify.com/track/50txkiS3lmOYM0pQqxnNa1) | [Sofia Monroy](https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o) | [Little Brother](https://open.spotify.com/album/6IMtHh5NCek4Lm3UiGJXGa) | 4:56 | 2025-02-27 | 2025-04-06 |
 | [Louder](https://open.spotify.com/track/42Obtr1XEYyJGymYW3MIEW) | [Sissy Ford](https://open.spotify.com/artist/2drBoMyirQqpeX80MebU7l) | [Louder](https://open.spotify.com/album/1bECZOtl5rXMMJutsWrf6M) | 2:19 | 2024-06-28 | 2024-08-16 |
 | [Louise](https://open.spotify.com/track/4Nv7Bc4ynm4BtGmgK9EQiP) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Louise](https://open.spotify.com/album/5CLyBOcXURBbil1fDOZ7W9) | 2:41 | 2024-09-19 |  |
 | [Love Myself](https://open.spotify.com/track/6aKgsDfYyCS7LtkCPNelBg) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [Love Myself](https://open.spotify.com/album/4r7m1oNgT25nPU1v0GTbAP) | 2:41 | 2024-06-28 | 2024-09-20 |
@@ -252,7 +253,7 @@
 | [Trouble in Paradise](https://open.spotify.com/track/0YFPpk8QJCKIoLrhqBOj0y) | [XOV](https://open.spotify.com/artist/58jXqrbY8mAk006MNu3NCv) | [Trouble in Paradise](https://open.spotify.com/album/3k2wn8fQ47FSKZVLibgFiY) | 3:24 | 2024-08-22 | 2024-09-25 |
 | [Tu Mirada](https://open.spotify.com/track/59RgXziyTx99zd6pBRzSEr) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Tu Mirada](https://open.spotify.com/album/1RoQIKvC40xS3gWMDtcPp7) | 3:15 | 2024-08-15 | 2024-10-04 |
 | [Tårarna \(feat\. Jackie Mere\)](https://open.spotify.com/track/0JcirT3JdGx29UAECyRhVV) | [Tjejdikter](https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc), [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [Tårarna \(feat\. Jackie Mere\)](https://open.spotify.com/album/4SMIJv8Cc6kxbSTgNKeDKF) | 2:38 | 2024-06-28 | 2024-08-23 |
-| [u will be fine](https://open.spotify.com/track/3QxiHZEbiztQg4ItS8oNnI) | [N.I.K](https://open.spotify.com/artist/5ZxZX70VVUDqKeK0TI1D2l) | [u will be fine](https://open.spotify.com/album/05ak0XyoSu4PGKVRgaCEfr) | 1:26 | 2024-08-22 |  |
+| [u will be fine](https://open.spotify.com/track/3QxiHZEbiztQg4ItS8oNnI) | [N.I.K](https://open.spotify.com/artist/5ZxZX70VVUDqKeK0TI1D2l) | [u will be fine](https://open.spotify.com/album/05ak0XyoSu4PGKVRgaCEfr) | 1:26 | 2024-08-22 | 2025-04-06 |
 | [Underbart](https://open.spotify.com/track/4Mc0gNriyRRS1GpenqF2TL) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Underbart](https://open.spotify.com/album/6WoazjKrlteUKghj03CYDl) | 2:34 | 2024-06-28 | 2024-08-09 |
 | [Upset](https://open.spotify.com/track/1lmESvOXWfDSgVAAaIruLL) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Crying Dove](https://open.spotify.com/album/6xGehMsofWMuFW2nKYdmK7) | 2:38 | 2024-06-28 | 2024-08-23 |
 | [Utan Dig \(oh nej\)](https://open.spotify.com/track/7prmKt30TMo28aiaMSPsbe) | [Laura Toth](https://open.spotify.com/artist/7je1BJ0ktL1zQbQSJhMU22), [Albin Loán](https://open.spotify.com/artist/6n8c8YMCqNbs0veQjYdYga) | [Utan Dig \(oh nej\)](https://open.spotify.com/album/4IuvDIuuhzpP2Vaa6sn7lv) | 2:37 | 2024-06-28 | 2024-09-20 |

@@ -5908,13 +5908,13 @@
           "url": "https://open.spotify.com/artist/519qBjHSkS9jYk2Ktbuy5H"
         },
         {
-          "name": "Chris Duke",
+          "name": "C.DUKE",
           "url": "https://open.spotify.com/artist/6EaOHR3AowFCbhk2sOS2ML"
         }
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "Onsen",
       "url": "https://open.spotify.com/track/51G6wkfxXtqEpRC6CFwZXg"
@@ -6126,7 +6126,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 106829,
       "name": "Parcels",
       "url": "https://open.spotify.com/track/3XH6VLP67eaWY8WE5zpcUW"
@@ -6988,6 +6988,24 @@
       "duration_ms": 230758,
       "name": "Sleeping Norboo - Moods Remix",
       "url": "https://open.spotify.com/track/3Fgpy0rBMZNP4vvJM4ZYEs"
+    },
+    {
+      "album": {
+        "name": "Sleepyhead",
+        "url": "https://open.spotify.com/album/5AtoWsRvIWvSeVQdC3z6Tn"
+      },
+      "artists": [
+        {
+          "name": "Oilix",
+          "url": "https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127792,
+      "name": "Sleepyhead",
+      "url": "https://open.spotify.com/track/3nVPHHcZnLDDZ4nbTLML5u"
     },
     {
       "album": {
@@ -7954,7 +7972,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 152937,
       "name": "Superglue",
       "url": "https://open.spotify.com/track/71o5d6HO6CdRW899OkB0e1"

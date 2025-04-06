@@ -1,6 +1,6 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes.",
-  "num_followers": 319877,
+  "num_followers": 319940,
   "original_name": "Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
@@ -915,6 +915,22 @@
     {
       "added_at": "2025-01-24 05:00:29",
       "album": {
+        "name": "Prophets Of Rage",
+        "url": "https://open.spotify.com/album/2tdK7VRcq6ATSgnxdYV17X"
+      },
+      "artists": [
+        {
+          "name": "Prophets Of Rage",
+          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
+        }
+      ],
+      "duration_ms": 250213,
+      "name": "Unfuck The World",
+      "url": "https://open.spotify.com/track/5wFZTk08YJme74WYjauDzp"
+    },
+    {
+      "added_at": "2025-01-24 05:00:29",
+      "album": {
         "name": "Lemonade (with Denzel Curry)",
         "url": "https://open.spotify.com/album/33BruH4PRrvmtQ7dsBDN0d"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 165685,
       "name": "Lemonade (with Denzel Curry)",
       "url": "https://open.spotify.com/track/4k9it7Buh3IXU7o3oLRjJL"
-    },
-    {
-      "added_at": "2025-01-24 05:00:29",
-      "album": {
-        "name": "Prophets Of Rage",
-        "url": "https://open.spotify.com/album/2tdK7VRcq6ATSgnxdYV17X"
-      },
-      "artists": [
-        {
-          "name": "Prophets Of Rage",
-          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
-        }
-      ],
-      "duration_ms": 250213,
-      "name": "Unfuck The World",
-      "url": "https://open.spotify.com/track/5wFZTk08YJme74WYjauDzp"
     },
     {
       "added_at": "2025-01-24 05:00:29",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-01-24 05:00:29",
       "album": {
-        "name": "Prophets Of Rage",
-        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
-      },
-      "artists": [
-        {
-          "name": "Prophets Of Rage",
-          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
-        }
-      ],
-      "duration_ms": 190180,
-      "name": "Prophets Of Rage",
-      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
-    },
-    {
-      "added_at": "2025-01-24 05:00:29",
-      "album": {
         "name": "Loud Rocks",
         "url": "https://open.spotify.com/album/5PIDHpTCc6iT5WM2JZzFKu"
       },
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2025-01-24 05:00:29",
       "album": {
+        "name": "Prophets Of Rage",
+        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
+      },
+      "artists": [
+        {
+          "name": "Prophets Of Rage",
+          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
+        }
+      ],
+      "duration_ms": 190180,
+      "name": "Prophets Of Rage",
+      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
+    },
+    {
+      "added_at": "2025-01-24 05:00:29",
+      "album": {
         "name": "Skull & Bones",
         "url": "https://open.spotify.com/album/31XG9UWJIXSXSsPUEsh3D2"
       },
@@ -1147,18 +1147,22 @@
     {
       "added_at": "2025-01-24 05:00:29",
       "album": {
-        "name": "The Uplift Mofo Party Plan",
-        "url": "https://open.spotify.com/album/3rHJQrfEcBeSaLPuLwKR6F"
+        "name": "We Made It (feat. Linkin Park)",
+        "url": "https://open.spotify.com/album/1q1KOXjfdXaxbWaRf2r9Di"
       },
       "artists": [
         {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 233760,
-      "name": "Fight Like A Brave",
-      "url": "https://open.spotify.com/track/6NeRpRTcFftvt3j1vF4Pcw"
+      "duration_ms": 238066,
+      "name": "We Made It (feat. Linkin Park)",
+      "url": "https://open.spotify.com/track/26jVcJqG66nj36jRqPBp2U"
     }
   ],
   "unique_name": "Rap 'n' Roll",

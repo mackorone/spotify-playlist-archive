@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 
 > Playlist
 
-[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,499 likes - 592 songs - 1 day 11 hr 9 min
+[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,501 likes - 592 songs - 1 day 11 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -525,8 +525,8 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 515 | [Smokey](https://open.spotify.com/track/1KzuY7mjumjaDFMQOluqRf) | [Kip Nelson](https://open.spotify.com/artist/5k62M5NJX9w9TbHpUKiRTs) | [Such a Life / Smokey](https://open.spotify.com/album/4Xosj0A8e2eeACkNtNjBlQ) | 3:44 |
 | 516 | [Hindsight](https://open.spotify.com/track/1djMy6mgIdrznCtYBTPcNo) | [Kip Nelson](https://open.spotify.com/artist/5k62M5NJX9w9TbHpUKiRTs) | [Hindsight](https://open.spotify.com/album/69l8xCdEYBXB27p0AVdFVh) | 3:06 |
 | 517 | [Song of the Highest Tower](https://open.spotify.com/track/5CD8wM1IsTaNJ02qZ3gkgB) | [Kip Nelson](https://open.spotify.com/artist/5k62M5NJX9w9TbHpUKiRTs) | [Song of the Highest Tower](https://open.spotify.com/album/7xyvbm4u3FrbO12whBkINc) | 4:02 |
-| 518 | [Sometimes](https://open.spotify.com/track/3QMaTNdpmBbPMy6i8fCD4I) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7), [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n) | [Edge of Tassie](https://open.spotify.com/album/7uUx3WAldxbnYBsJAFC3MY) | 3:07 |
-| 519 | [Gotalilfar](https://open.spotify.com/track/1FCVPiCcQxXYJrloRQgKfE) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7), [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n) | [Edge of Tassie](https://open.spotify.com/album/7uUx3WAldxbnYBsJAFC3MY) | 2:52 |
+| 518 | [Sometimes](https://open.spotify.com/track/3QMaTNdpmBbPMy6i8fCD4I) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Edge of Tassie](https://open.spotify.com/album/7uUx3WAldxbnYBsJAFC3MY) | 3:07 |
+| 519 | [Gotalilfar](https://open.spotify.com/track/1FCVPiCcQxXYJrloRQgKfE) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Edge of Tassie](https://open.spotify.com/album/7uUx3WAldxbnYBsJAFC3MY) | 2:52 |
 | 520 | [Next to My Body](https://open.spotify.com/track/1dH9CaLxaUHaNqTxtr7gcA) | [Andre Smith](https://open.spotify.com/artist/1dQpX4lTRErovYaaG6Xj8O), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN), [HEAVY CHEST](https://open.spotify.com/artist/57fgfg6PTbTqtPegX6rXV5), [ives.](https://open.spotify.com/artist/3vYKgJGSZjWgTKATL2Oj6p) | [Next to My Body](https://open.spotify.com/album/3ho7cKe5j5ncGLDTgmYYyg) | 2:29 |
 | 521 | [I Wanna Roll With You](https://open.spotify.com/track/2Kg10OEQCGqyw7p5fqstCv) | [Connan Mockasin](https://open.spotify.com/artist/247AfC9pLuqwgpH8Mo96oA) | [Caramel](https://open.spotify.com/album/1TD2nV7Pp2xwLNE2W413CS) | 5:44 |
 | 522 | [Caramel](https://open.spotify.com/track/3ynKC6AisUqFfO82uxytTU) | [Connan Mockasin](https://open.spotify.com/artist/247AfC9pLuqwgpH8Mo96oA) | [Caramel](https://open.spotify.com/album/1TD2nV7Pp2xwLNE2W413CS) | 1:54 |

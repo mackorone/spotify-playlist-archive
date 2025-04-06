@@ -4,7 +4,7 @@
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-133 songs - 7 hr 3 min
+134 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [I Wanna Dance](https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [I Wanna Dance](https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl) | 3:18 | 2023-11-10 |  |
 | [I'll Follow You](https://open.spotify.com/track/3Ijf2SBZguZPkom811NZTd) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [I'll Follow You](https://open.spotify.com/album/6n8A62fT6vLTMrwuVDQAIp) | 3:39 | 2024-08-25 |  |
 | [Iconic](https://open.spotify.com/track/4sYCPbTRo0AKvFt7RD4ljp) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [John Christian](https://open.spotify.com/artist/4I4ZRmxuOEADKSea0rNq3h) | [Iconic](https://open.spotify.com/album/0gxVaSkfS9gFfqNyOX5H1M) | 2:59 | 2021-12-20 | 2022-10-13 |
-| [In My Head](https://open.spotify.com/track/6vFGJHTdxHzmBy8wD4BeZ0) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [In My Head](https://open.spotify.com/album/5SO1KxfsK1skoei8GucD7D) | 3:58 | 2024-04-07 |  |
+| [In My Head](https://open.spotify.com/track/6vFGJHTdxHzmBy8wD4BeZ0) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [In My Head](https://open.spotify.com/album/5SO1KxfsK1skoei8GucD7D) | 3:58 | 2024-04-07 | 2025-04-06 |
 | [Into The Light](https://open.spotify.com/track/75xY9IS7nE2da6q4207HsW) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Timmo Hendriks](https://open.spotify.com/artist/7rNPTious4qaZVcKH3cmX3), [David Shane](https://open.spotify.com/artist/3Ao6gAvkCZUtj4ALBjNmXV) | [Into The Light](https://open.spotify.com/album/1ATxWnFY5KAry1bKnyP1yi) | 3:11 | 2021-12-20 | 2023-12-14 |
 | [Iron](https://open.spotify.com/track/0uqMUcdMvQtNQLO4jVockW) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:39 | 2021-12-20 |  |
 | [Legacy \- Radio Edit](https://open.spotify.com/track/3SGebd91gbpKanqQ2Yg9F1) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Legacy \(Radio Edit\)](https://open.spotify.com/album/5LQcfsPc0lQMkXhvIPG94y) | 3:15 | 2021-12-20 | 2023-11-11 |
@@ -73,6 +73,7 @@
 | [Like Home \- Radio Edit](https://open.spotify.com/track/3bUbOOpXfkdDlXg5iPGdJC) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Like Home](https://open.spotify.com/album/3knECzpm45ekkrm06q78TJ) | 3:20 | 2021-12-20 | 2024-09-02 |
 | [Like Home \- Radio Edit](https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Like Home](https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW) | 3:20 | 2022-07-06 |  |
 | [Like Home \- Radio Mix](https://open.spotify.com/track/2RBq5Dl68WQXwWNpP77FQY) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Like Home](https://open.spotify.com/album/2vQhahYsf0a2TbGiTX3Uv5) | 3:20 | 2022-03-16 | 2024-11-24 |
+| [Live My Life](https://open.spotify.com/track/2a0Az8oSMkiZjOpWNzXICs) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Live My Life](https://open.spotify.com/album/7C4dHLELP7ivO6HXeLltK3) | 4:01 | 2025-04-06 |  |
 | [Lose My Mind](https://open.spotify.com/track/7vTaAwEWxj5vhhQpuWZpFm) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Lose My Mind](https://open.spotify.com/album/4UohRlSH6iqad6ykrQL2wI) | 3:07 | 2022-03-26 | 2022-12-02 |
 | [Lost In The Dust](https://open.spotify.com/track/6ZL3xfiqRJBBJhkbSTEdy2) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Lost In The Dust](https://open.spotify.com/album/2XOCrLWJZquxGUgkrgNk49) | 2:44 | 2024-10-13 |  |
 | [Love Me Better](https://open.spotify.com/track/5gs8HdtvlvLyVKCWQQ4mbl) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Love Me Better](https://open.spotify.com/album/39b0O5JheGmKYPV9K8z785) | 2:55 | 2021-12-20 | 2023-05-06 |

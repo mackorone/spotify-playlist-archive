@@ -695,6 +695,24 @@
     },
     {
       "album": {
+        "name": "Acid Rain",
+        "url": "https://open.spotify.com/album/4o5yDiykwO8ItIU0acNVfI"
+      },
+      "artists": [
+        {
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Acid Rain",
+      "url": "https://open.spotify.com/track/0zDh3nGjdZQUw4NVTVJiGe"
+    },
+    {
+      "album": {
         "name": "Kings of the New Age",
         "url": "https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9"
       },
@@ -1428,7 +1446,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 191539,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/0ROIqKhl27uiOHlNZZV4XQ"
@@ -1522,7 +1540,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 269721,
       "name": "Application For Release From The Dream",
       "url": "https://open.spotify.com/track/7CFz9bEaKdZ7cQ63duKUXC"
@@ -3034,7 +3052,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-15",
+      "date_removed": null,
       "duration_ms": 200660,
       "name": "Bored of Being Sad",
       "url": "https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY"

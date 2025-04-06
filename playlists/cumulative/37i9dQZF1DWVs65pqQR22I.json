@@ -1821,6 +1821,24 @@
     },
     {
       "album": {
+        "name": "Elegant Black Noise",
+        "url": "https://open.spotify.com/album/5zqJo1EonzprK7DlH0F2wY"
+      },
+      "artists": [
+        {
+          "name": "Brightlo",
+          "url": "https://open.spotify.com/artist/7LrJzvIirmst73Ic48s97g"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239488,
+      "name": "Elegant Black Noise",
+      "url": "https://open.spotify.com/track/5662sRQQxkmyfumSQUOiW8"
+    },
+    {
+      "album": {
         "name": "Dark Tranquility (Black Noise)",
         "url": "https://open.spotify.com/album/4WkGE5z31YKcg45MnFO6Oe"
       },
@@ -1958,7 +1976,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 190894,
       "name": "Focused Mind Black Noise",
       "url": "https://open.spotify.com/track/1CaTOiBEuHSyMtF84KA9qM"

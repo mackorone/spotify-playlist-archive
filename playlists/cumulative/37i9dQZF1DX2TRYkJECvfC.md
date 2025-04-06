@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-586 songs - 2 day 0 hr 41 min
+587 songs - 2 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Ceremony](https://open.spotify.com/track/1jtwpsdVEAxcHMuTDkmsla) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/3h8TA79sGuevEV4PZzQRkz) | 7:00 | 2022-05-03 | 2022-11-16 |
 | [Ceremony](https://open.spotify.com/track/5JQZTqHVXa1ShGEZjOnlgN) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Ceremony](https://open.spotify.com/album/0xeaiWr64U3fCTxizuRi0e) | 7:00 | 2022-02-21 | 2024-08-09 |
 | [Ceremony](https://open.spotify.com/track/5eGHURckWZgrlb88GTkoPD) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If) | 7:00 | 2022-10-28 | 2024-04-19 |
-| [Chabo roof party](https://open.spotify.com/track/5VYpujj2K9CVKEq1Ct8vFe) | [Baron Malice](https://open.spotify.com/artist/4gfiUPAVRdak4CJ8RCxaxe) | [Chabo roof party](https://open.spotify.com/album/1Lr7OWBRmtc1sqETKJD57K) | 2:46 | 2024-04-12 |  |
+| [Chabo roof party](https://open.spotify.com/track/5VYpujj2K9CVKEq1Ct8vFe) | [Baron Malice](https://open.spotify.com/artist/4gfiUPAVRdak4CJ8RCxaxe) | [Chabo roof party](https://open.spotify.com/album/1Lr7OWBRmtc1sqETKJD57K) | 2:46 | 2024-04-12 | 2025-04-06 |
 | [Change The Line](https://open.spotify.com/track/4uSXZyqR4NCZ86BHcO5vIR) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [Change The Line EP](https://open.spotify.com/album/5XUUokFhb5IuDMx6Cr8Dbs) | 7:17 | 2021-12-08 | 2023-01-27 |
 | [Childish](https://open.spotify.com/track/2BMhaksbPZEVPUx4U98WgK) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Childish](https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ) | 4:50 | 2024-10-01 |  |
 | [China Plate](https://open.spotify.com/track/0aGjzEGpEJgBLb5KoZAS8i) | [djimboh](https://open.spotify.com/artist/7cIzAFnvs0ilTGyfFJY8fd) | [China Plate / Sivonium](https://open.spotify.com/album/21bUJXbaJUOewmKrZfxfjE) | 3:48 | 2023-05-26 |  |
@@ -364,6 +364,7 @@
 | [On Your Side](https://open.spotify.com/track/0vypXe8paGmxoY0fxkLh0X) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [On Your Side](https://open.spotify.com/album/0ybSmADzvdW7DUNMwP33dk) | 6:28 | 2023-02-22 | 2025-01-29 |
 | [Ona Ona](https://open.spotify.com/track/3yu5LUE62gGNZOzq1FtzFE) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Ona Ona](https://open.spotify.com/album/14CT2Ia6QvxCP9W4zrb3fa) | 6:12 | 2024-04-12 |  |
 | [Onda](https://open.spotify.com/track/2vHPrrFhhiSH5GZZcGRSFm) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Onda](https://open.spotify.com/album/6SieZ45Tx2LVy0ezpzX290) | 4:11 | 2021-12-08 | 2023-06-01 |
+| [One And Only](https://open.spotify.com/track/4iA5MckI9OGxFgNDGtuRoZ) | [Reznik](https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ), [good guy mikesh](https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [One And Only](https://open.spotify.com/album/59luA9B4MimwKmvTt43lr8) | 3:42 | 2025-04-04 |  |
 | [One Sunrise At A Time](https://open.spotify.com/track/3rgFqdD4inybMUne06ZubD) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [One Sunrise At A Time](https://open.spotify.com/album/615YUEpbaWtii06WTIBWPK) | 5:43 | 2024-07-12 |  |
 | [One\-Sided Love](https://open.spotify.com/track/3mwjb8Ft1DJMOhqfW75Wac) | [Claes Rosen](https://open.spotify.com/artist/0DJbbindURDhi6N4cRf48d) | [Diverse](https://open.spotify.com/album/6PrH4wM9PByiCKEBDe68FF) | 6:25 | 2022-05-03 | 2024-04-13 |
 | [One\-Sided Love](https://open.spotify.com/track/4HdZwmqBAAwmZ2nMkMJw4k) | [Claes Rosen](https://open.spotify.com/artist/0DJbbindURDhi6N4cRf48d) | [Diverse](https://open.spotify.com/album/0HgafCZBcFvtTLvlLz2tJB) | 6:25 | 2021-12-08 | 2022-07-29 |

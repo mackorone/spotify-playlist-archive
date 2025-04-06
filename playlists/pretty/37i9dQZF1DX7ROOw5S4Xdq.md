@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Colo de Deus
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,634 likes - 49 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,666 likes - 49 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 5 | [Face Adorável](https://open.spotify.com/track/6mysyvGbZXBrSnIyvGrVgQ) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin), [Fátima Souza](https://open.spotify.com/artist/5TU9L0iVP8fFMA9QbN0F7m) | [Msh ao Teu Lado 2025](https://open.spotify.com/album/7s4BvmJqfrGZyaAaSMmlcr) | 5:16 |
 | 6 | [Alma Abatida](https://open.spotify.com/track/4LMfauMElPPDgUDejn18O7) | [Jeyzer Maia](https://open.spotify.com/artist/1ibeddC8BqcjmYnfVzjQUh) | [Se Tu Minh'alma](https://open.spotify.com/album/5Pn4fD7h70FIWcJ4JP5f1g) | 4:14 |
 | 7 | [Faz o Seguinte \(Ao Vivo\)](https://open.spotify.com/track/4yKfoW3MnsYGV8E5GWy2WB) | [Samuel Sabinno](https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ), [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Faz o Seguinte \(Ao Vivo\)](https://open.spotify.com/album/2EDQkjEWhMF5MtSepwrVn3) | 4:30 |
-| 8 | [A Presença](https://open.spotify.com/track/4oOWcwpwEuTU7Fewmna98p) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH), [Dalete Hungria](https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [A Presença \(43 Anos Louvor Eterno\)](https://open.spotify.com/album/67wXgN3GtBrGBnIDFc2XxC) | 5:53 |
+| 8 | [A Presença](https://open.spotify.com/track/4oOWcwpwEuTU7Fewmna98p) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH), [Dalete Hungria](https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [A Presença \(43 Anos Louvor Eterno\) \[Ao Vivo, Curitiba, Teatro Positivo, 2025\]](https://open.spotify.com/album/67wXgN3GtBrGBnIDFc2XxC) | 5:53 |
 | 9 | [Quer Vitória](https://open.spotify.com/track/4zQi0z12aZSxxirGUFo5gl) | [Luciano Camargo](https://open.spotify.com/artist/1tOFgcNGgl6DvHFsF5yst3), [Mattos Nascimento](https://open.spotify.com/artist/3koufmP8p8wNLARHjlyAmk) | [Quer Vitória](https://open.spotify.com/album/09IMaq8C5AK4lofQkbzN6i) | 4:28 |
 | 10 | [Majestoso \(Ao Vivo\)](https://open.spotify.com/track/5ZCpz2wtswpyKMoFblb91y) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Majestoso \(Ao Vivo\)](https://open.spotify.com/album/48XqZGHMs2p9iBYiNevkWL) | 5:35 |
 | 11 | [Mais Firme do Que Nunca \- Ao Vivo](https://open.spotify.com/track/2VI0zYsH1XzgYj0nZITK4C) | [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00) | [Mais Firme do Que Nunca \(Ao Vivo\)](https://open.spotify.com/album/0IuPNKprDIhUuzlLJD04sE) | 4:15 |

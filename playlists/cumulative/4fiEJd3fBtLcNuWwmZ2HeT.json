@@ -3693,6 +3693,24 @@
     },
     {
       "album": {
+        "name": "\u5098\u3092\u306a\u304f\u3057\u3066",
+        "url": "https://open.spotify.com/album/5UnX9tVyGbUI7yOgJ5qWBq"
+      },
+      "artists": [
+        {
+          "name": "\u96e8\u5bbf\u308a",
+          "url": "https://open.spotify.com/artist/59BLjrTwyCqE9R4W1BovYK"
+        }
+      ],
+      "date_added": "2025-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154014,
+      "name": "\u30b7\u30b0\u30ca\u30eb",
+      "url": "https://open.spotify.com/track/2vxAPTwp7mIMctVCeqsYMN"
+    },
+    {
+      "album": {
         "name": "orbit",
         "url": "https://open.spotify.com/album/5pdTN60HCRnXnTP3kDUS8Y"
       },

@@ -2,7 +2,7 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> a7san ma kayn f rap maghribi\. Cover: Stormy
+> a7san ma kayn f rap maghribi\. Cover: Baby Gang, ElGrandeToto
 
 375 songs - 19 hr 53 min
 

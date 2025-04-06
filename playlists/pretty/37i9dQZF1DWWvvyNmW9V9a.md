@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > Laufey's coming over to do ROLE MODEL's dishes  🍽️
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,121,796 likes - 96 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,121,640 likes - 96 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

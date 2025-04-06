@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Kaam Bhaari
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,311 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,319 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 20 | [PSA](https://open.spotify.com/track/6H6yFqMZoJfutYdmeiG5Bz) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [3P](https://open.spotify.com/album/14T4gsUbndJOFbEBz4bjmk) | 2:35 |
 | 21 | [RAAWAS](https://open.spotify.com/track/56jRqWE8jzyt859ssYs6c1) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu), [Audiocrackerr](https://open.spotify.com/artist/6R3w3WdJRJqEMRc0qy1z5i) | [RAAWAS](https://open.spotify.com/album/4X0q8KTQ6zA9YWZ1r6aYoz) | 2:38 |
 | 22 | [Paisa](https://open.spotify.com/track/3JXphJ4noYj2a2qGewUE8e) | [Deepak Sarabha](https://open.spotify.com/artist/1cG2MfVDEBZVXWc0N5j38O) | [Paisa](https://open.spotify.com/album/7ntRrgHj6nynwwywMsOXBp) | 1:30 |
-| 23 | [Neon Dreams](https://open.spotify.com/track/1q6rCowPV7Ki1D3iVeKjpt) | [Arjun Bajwa](https://open.spotify.com/artist/3kI857k0xGV8NqCBKWSS8R) | [Neon Dreams](https://open.spotify.com/album/2eaLxa7J4JD2kvMb5HpPfB) | 2:40 |
+| 23 | [Neon Dreams](https://open.spotify.com/track/1q6rCowPV7Ki1D3iVeKjpt) | [Arjun Bajwa](https://open.spotify.com/artist/3kI857k0xGV8NqCBKWSS8R), [Tasho](https://open.spotify.com/artist/00EJduQGC6mDxLA8xP9Ln0), [Big Khan](https://open.spotify.com/artist/2eD4gbzE1IBCdbIsTGu8wM) | [Neon Dreams](https://open.spotify.com/album/2eaLxa7J4JD2kvMb5HpPfB) | 2:40 |
 | 24 | [MR\. RAMBO](https://open.spotify.com/track/3YVxblHOR89srfFJ30liuz) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ) | [MR\. RAMBO](https://open.spotify.com/album/03Mg1MxsoIbNZMeso2Zc3L) | 2:14 |
 | 25 | [6pm](https://open.spotify.com/track/6IjMDasG76zJiJDT97QMZS) | [Archiesman Kundu](https://open.spotify.com/artist/17L6rZzYeBhlhbM2QrP1dp), [Rawhit](https://open.spotify.com/artist/7kgwOK3eQom7HQwkpbRwO9) | [6pm](https://open.spotify.com/album/2u95vuMjEjoAhoa432OCsg) | 3:52 |
 | 26 | [MGMS](https://open.spotify.com/track/6GU3ZBWSClKrNnMmxf8MyM) | [MC Deep](https://open.spotify.com/artist/4TRBMLF0UmlXh5Bt6tWWJX), [BRUTAL BABA](https://open.spotify.com/artist/36cO0grAw5TZDagS9odTPS), [10A](https://open.spotify.com/artist/1qAdkJbLIPX8QCtNh6EJMh) | [MGMS](https://open.spotify.com/album/3RvbGlCWEuzW6o8r7M4arw) | 2:31 |

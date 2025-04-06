@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 
 > Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Maya Amolo & Ywaya Tajiri
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,279 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,301 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 | 3 | [Sweetest Time](https://open.spotify.com/track/2p0Gy479pqaL7GToLiLDhW) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Sweetest Time](https://open.spotify.com/album/1hsqYq7l4qAkEUEbzl1qtW) | 2:34 |
 | 4 | [Heartbreak Song](https://open.spotify.com/track/5EDdDNPEijkgv5ghNQK3Nl) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Heartbreak Song](https://open.spotify.com/album/4s6PcuPpXiHS5XOcZduQJa) | 3:27 |
 | 5 | [Pumua](https://open.spotify.com/track/2Py1BuxAHgOH0bA9w0imQE) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Pumua](https://open.spotify.com/album/5RZLdQdcNmJMm9D0jgeJCk) | 2:39 |
-| 6 | [Afraid, Pt\. 2](https://open.spotify.com/track/19EDXiaUSGE2BOLJQBZtXV) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Afraid, Pt\. 2](https://open.spotify.com/album/6PPLLW6Zbmo6EVz7Gzek9n) | 3:00 |
+| 6 | [Afraid, Pt\. 2 \- feat\. Xenia Manasseh](https://open.spotify.com/track/19EDXiaUSGE2BOLJQBZtXV) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Afraid, Pt\. 2 \(feat\. Xenia Manasseh\)](https://open.spotify.com/album/6PPLLW6Zbmo6EVz7Gzek9n) | 3:00 |
 | 7 | [Sema](https://open.spotify.com/track/4S2LpLITlVGrvOttc4rCtu) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [Sema](https://open.spotify.com/album/7j0fwr3cxUNQH4vz5ISY7F) | 3:03 |
 | 8 | [Niangalie](https://open.spotify.com/track/4r7vOzZFoGWxKPCd3XD95S) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh), [Wanavokali](https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP) | [Niangalie](https://open.spotify.com/album/6gNGKlPgPNgxnqeF8An26m) | 3:49 |
 | 9 | [Swim](https://open.spotify.com/track/0IgoWhyc7cNawpafMJpQ0u) | [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [Swim](https://open.spotify.com/album/4y4ziiOeTnCtd8ysaJ6ABH) | 5:35 |

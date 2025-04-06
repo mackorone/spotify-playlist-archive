@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 
 > 二日酔いに効くサウンド…そんなものがあるのだろうか？でもコレなら確かに効くかも！をテーマに、Spotifyとblock.fmがお届けするチルアウトでスロウなコラボプレイリスト。毎週土曜日更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,564 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,586 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Reflection Station](https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Reflection Station](https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk) | 2:46 |
+| 1 | [Reflection Station](https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Reflection Station](https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk) | 2:45 |
 | 2 | [Love Letter Disclaimer](https://open.spotify.com/track/3qfTFm42uKRykPOzVNxAei) | [Miranda Ma](https://open.spotify.com/artist/7rfbWSt5DtpXNCV2NExEav), [Gestalt](https://open.spotify.com/artist/40ACq1LQmjr2wJaOC6jZT1) | [Love Letter Disclaimer](https://open.spotify.com/album/1h4ofidGXChYarj0GDkxMt) | 4:01 |
 | 3 | [One Call Away](https://open.spotify.com/track/6lSmgxbGLHtzc78NTQzMPO) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [One Call Away](https://open.spotify.com/album/0TpSAuRl8gSYq8ufZFhIwK) | 1:47 |
 | 4 | [GLIDE](https://open.spotify.com/track/6YPbUyX3G064VXVedCFCSL) | [Brendalynn Rae](https://open.spotify.com/artist/1UPT83DS988OqhLwbgkBP6) | [GLIDE](https://open.spotify.com/album/3aGI33QkIUNBNEUJcdCVlB) | 4:29 |

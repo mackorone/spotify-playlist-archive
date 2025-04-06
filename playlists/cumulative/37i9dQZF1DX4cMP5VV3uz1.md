@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-400 songs - 23 hr 18 min
+401 songs - 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Out Of Nowhere](https://open.spotify.com/track/220n79cLlh2NwvlIEEKpKt) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [Out Of Nowhere](https://open.spotify.com/album/0SyfGDD3DX6iiGXPOkH8z9) | 2:51 | 2023-01-25 | 2024-07-27 |
 | [Out of Time](https://open.spotify.com/track/22r0D0nQXyP3Hkzb3qTnhl) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Out of Time](https://open.spotify.com/album/5j1LFq1ZzTBfwPyYWWNjAf) | 3:51 | 2022-09-30 | 2024-02-23 |
 | [Outlaw](https://open.spotify.com/track/45g7ik10mOQ2YCv0lOULLP) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG), [Hoax](https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby) | [Outlaw](https://open.spotify.com/album/4qgo6AVeJsQOqVMYDSoV0U) | 3:29 | 2024-07-25 | 2024-09-20 |
+| [Outlaw](https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [Outlaw](https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ) | 2:57 | 2025-04-03 |  |
 | [Over](https://open.spotify.com/track/5cIhCgoaVhYLWi7Lwm3uhA) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Over](https://open.spotify.com/album/4oat7EzdqhUxGRKcQpulN3) | 3:57 | 2022-09-30 | 2023-05-19 |
 | [Over](https://open.spotify.com/track/6nnt2dTOUnXGTlNeoAUpK1) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Over](https://open.spotify.com/album/2k1HhUKeoG2pLC9fuIHAHQ) | 3:57 | 2023-05-19 | 2023-09-22 |
 | [Over You](https://open.spotify.com/track/7qm3YjedUCXH2p58VLwUHi) | [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Over You](https://open.spotify.com/album/2CGESyjnHOzZiisdclbMLr) | 3:07 | 2022-09-30 | 2024-03-06 |
@@ -333,7 +334,7 @@
 | [SPECTACULAR](https://open.spotify.com/track/2KbYcnZQmfwe8RrCMSMwym) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z) | [Problematik](https://open.spotify.com/album/3omXYWmxB50sNFrnOECCuy) | 2:55 | 2022-09-30 | 2023-09-02 |
 | [Spend The Night](https://open.spotify.com/track/4OoNi7RLLVKGlDcLgWPyKX) | [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [Spend The Night](https://open.spotify.com/album/78JrRQCZ8HppWoAXBkHBe7) | 3:07 | 2024-05-31 | 2024-10-04 |
 | [Spillage](https://open.spotify.com/track/5DOkN9MW96CUYQcF8clpCb) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Spillage](https://open.spotify.com/album/1ZRyG1HPCcnAc74eVUvvcz) | 3:21 | 2024-09-12 | 2024-11-13 |
-| [Spire](https://open.spotify.com/track/7xkyuN2tM8gLQPuEDZFsRy) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [Spire](https://open.spotify.com/album/6VuVnFIFcz9c2egY9kJv6x) | 4:12 | 2024-12-13 |  |
+| [Spire](https://open.spotify.com/track/7xkyuN2tM8gLQPuEDZFsRy) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [Spire](https://open.spotify.com/album/6VuVnFIFcz9c2egY9kJv6x) | 4:12 | 2024-12-13 | 2025-04-06 |
 | [Sprinta \(Bad Bad\)](https://open.spotify.com/track/3KJD2bb7mnH0fnLDGSJ2dn) | [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [KIPPO](https://open.spotify.com/artist/4Bf3pfU2A6dHgR1eZwlE6N) | [Sprinta \(Bad Bad\)](https://open.spotify.com/album/7l0SqJre5CRZcGLcMztXrV) | 3:19 | 2024-09-12 | 2025-03-02 |
 | [Stan Smith](https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai) | [Stan Smith](https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB) | 3:55 | 2022-09-30 | 2024-04-19 |
 | [Star 69 \- Shermanology Remix](https://open.spotify.com/track/1aolkrCy1LD4YBlS4gStSV) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Star 69 \(Shermanology Remix\)](https://open.spotify.com/album/0h9SrjcXezB7KkTDW4ZJpt) | 5:53 | 2023-07-27 | 2023-09-02 |

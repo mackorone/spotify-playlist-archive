@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7yza99mVQaqnk4Hqs4T3kq.md) - [plain]
 
 > Companion playlist for the Metallica documentaries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,902 likes - 30 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,901 likes - 30 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/7yza99mVQaqnk4Hqs4T3kq.md) - [plain]
 | 2 | [Princess of the Night](https://open.spotify.com/track/6SUudbR4vTazN9Jb7QWQn5) | [Saxon](https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU) | [Denim and Leather](https://open.spotify.com/album/40v5zR6YBrjhkodFEjZcKs) | 4:02 |
 | 3 | [Let It Loose](https://open.spotify.com/track/18tWDU2caY4DDd1QbXghy2) | [Savage](https://open.spotify.com/artist/0LRGRmVKnmhwnmAWWTxn8Z) | [Loose 'n' Lethal](https://open.spotify.com/album/6TUS4k98RPfDYzJDODuOXm) | 3:17 |
 | 4 | [Breaking the Law](https://open.spotify.com/track/2RaA6kIcvomt77qlIgGhCT) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [British Steel](https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY) | 2:33 |
-| 5 | [Witchfinder General](https://open.spotify.com/track/6qmIAYQ36jyhTK9Bkej25q) | [Witchfinder General](https://open.spotify.com/artist/1QqtUGvZnULbTYLj6y69vO) | [Death Penalty](https://open.spotify.com/album/0ZcT2WLVCx2jKs1SIlpmm6) | 3:51 |
+| 5 | [Witchfinder General](https://open.spotify.com/track/6qmIAYQ36jyhTK9Bkej25q) | [Witchfinder General](https://open.spotify.com/artist/3tDg9XbUbQS0dbaSnFNvvk) | [Death Penalty](https://open.spotify.com/album/0ZcT2WLVCx2jKs1SIlpmm6) | 3:51 |
 | 6 | [Stand Up And Fight](https://open.spotify.com/track/7Gymb7dYTeVqm9KqxUDF5A) | [Quartz](https://open.spotify.com/artist/4M7L0MO3YY89VSNswstuhl) | [Stand Up And Fight](https://open.spotify.com/album/0HqjoepUbR2OFNfLSccTGZ) | 4:42 |
 | 7 | [Bomber](https://open.spotify.com/track/7KH8u28Ij2ZYKpKHI8Fxvg) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Best Of \(Reissue\)](https://open.spotify.com/album/1oXRkI3rPebyIsYyx7rvY1) | 3:40 |
 | 8 | [Easy Livin'](https://open.spotify.com/track/7vYdIHzbDhUrSKaw54J4cJ) | [Fastway](https://open.spotify.com/artist/7eD005d7pGOEYD3eWVRecb) | [Fastway](https://open.spotify.com/album/1zGmDK7aGwhCvkAZMZUtK0) | 2:47 |

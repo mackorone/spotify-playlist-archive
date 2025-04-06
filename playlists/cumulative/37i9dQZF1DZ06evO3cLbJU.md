@@ -4,7 +4,7 @@
 
 > This is El Mató a un Policía Motorizado\. The essential tracks, all in one playlist.
 
-66 songs - 3 hr 53 min
+67 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Escupíme](https://open.spotify.com/track/6e6aEVwva7CSP55xJRmT2U) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado](https://open.spotify.com/album/4SytbRWPunDiwa1oLCuiEP) | 3:01 | 2023-11-10 | 2025-03-13 |
 | [Escupíme \- Sesión 20° Aniversario En Vivo](https://open.spotify.com/track/7zxctRpTCwePgLqV2tMlg6) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado \(Sesión 20° Aniversario En Vivo\)](https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2) | 3:04 | 2025-03-13 |  |
 | [Espacio Vacío](https://open.spotify.com/track/7yA5MAd2vRuEnSH9LMGoqO) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB), [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Espacio Vacío](https://open.spotify.com/album/2kcjb9G2ME8sF1b8j0DEXp) | 3:53 | 2023-11-10 |  |
+| [Estos últimos días](https://open.spotify.com/track/2ULVAkMEWBCc6e9P7yDX5s) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB), [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Estos últimos días](https://open.spotify.com/album/0wdRgWsWCwOgwGUaa8CBfF) | 3:56 | 2025-04-06 |  |
 | [Fuego](https://open.spotify.com/track/7mhHTogBD9THpIUeLE6atl) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 5:11 | 2023-11-10 |  |
 | [Guitarra Comunista](https://open.spotify.com/track/26WaUJaz1bUVKQ8tnKfxya) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado](https://open.spotify.com/album/4SytbRWPunDiwa1oLCuiEP) | 2:54 | 2023-11-10 | 2025-03-13 |
 | [La Casa Fantasmal](https://open.spotify.com/track/2oNuYHTjwEsZ0GKPHSCxMb) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Otra Dimensión](https://open.spotify.com/album/7ph1wgl97iq2aFdx6L0aSN) | 5:19 | 2025-03-13 |  |

@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-313 songs - 17 hr 17 min
+314 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Lemonade](https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [In The Sun](https://open.spotify.com/album/3TRN4DHzeqsE1UZBq7Ach5) | 4:04 | 2022-10-07 |  |
 | [Levante](https://open.spotify.com/track/35ME0Y7EEMKJ4nSM4SPhAX) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Hidden Treasures EP](https://open.spotify.com/album/1AG7es9vgkIopCWbFtQYpn) | 3:13 | 2021-12-09 | 2023-02-18 |
 | [Liftoff](https://open.spotify.com/track/3uTGlHyPwijzXFQoMaROt1) | [Reel Waves](https://open.spotify.com/artist/3K4BBqiZQW1WEzeBMzfVho) | [Liftoff](https://open.spotify.com/album/0mpEDy0wUtGHbe5lj5nYIv) | 3:25 | 2021-12-09 |  |
-| [Lightwave](https://open.spotify.com/track/06s5vykBOEzheEyLq0AZms) | [Farves](https://open.spotify.com/artist/5xwXeWb8ITd7ESHk3y5PUB) | [Lightwave](https://open.spotify.com/album/2iJ0fDXeOSlhh7hmmCj1Ux) | 3:36 | 2022-09-12 |  |
+| [Lightwave](https://open.spotify.com/track/06s5vykBOEzheEyLq0AZms) | [Farves](https://open.spotify.com/artist/5xwXeWb8ITd7ESHk3y5PUB) | [Lightwave](https://open.spotify.com/album/2iJ0fDXeOSlhh7hmmCj1Ux) | 3:36 | 2022-09-12 | 2025-04-06 |
 | [Like a Dream](https://open.spotify.com/track/6gOFS1DicuJRiLSB4ZDorp) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [Like a Dream](https://open.spotify.com/album/4g5d8VnrJiTZiohvi4WUWL) | 2:31 | 2021-12-09 |  |
 | [Lilac Luster](https://open.spotify.com/track/5CBIJIcjgIhkzyIMWVXSeh) | [wet n salty](https://open.spotify.com/artist/2Ai8jQFx9LfNmToEgFjDbn) | [Lilac Luster](https://open.spotify.com/album/4lhzopVjTgDpOXIaIlzvLH) | 2:56 | 2022-02-26 | 2022-07-27 |
 | [listen love](https://open.spotify.com/track/5oUIrYI0KTZBYh5r9Z5GFA) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [listen love](https://open.spotify.com/album/6zBjkfHOntP2AmRooDkx2O) | 2:47 | 2022-10-07 | 2025-03-29 |
@@ -173,6 +173,7 @@
 | [Lupino](https://open.spotify.com/track/4V8fOkKXGpPcUp7lvFWdS0) | [Magnofield](https://open.spotify.com/artist/4wNM69xY7xVOi8WK46t4tT) | [Lupino](https://open.spotify.com/album/6LNyTa0FtB9YYohiEACjhW) | 3:20 | 2021-12-09 | 2022-05-19 |
 | [Lux](https://open.spotify.com/track/6xCLzgEhnX5lLSBYkyiYnd) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Lux](https://open.spotify.com/album/1w40aoGmgckodC4xEf1nyQ) | 2:22 | 2023-11-14 | 2025-03-29 |
 | [Malin's Song](https://open.spotify.com/track/69FgBAyTOSwswhqea2C6Er) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [For Love](https://open.spotify.com/album/4LBj9X5oIwy48MNG74H8jy) | 4:03 | 2021-12-09 | 2022-05-21 |
+| [Marlboro Sounds](https://open.spotify.com/track/1HujkaN1Tl4uceZqsHUv6w) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Marlboro Sounds](https://open.spotify.com/album/1IRVXzi2j3pP5Ic18P0oDM) | 6:03 | 2025-03-28 |  |
 | [Maze](https://open.spotify.com/track/3fG4uUJ8yTCfe9KHUQM45W) | [Sasupt](https://open.spotify.com/artist/1UZDqEZC20MLeXRrbhtWbq) | [Maze](https://open.spotify.com/album/0803IoVPGn37OTU19kKF7z) | 2:06 | 2021-12-09 | 2022-07-21 |
 | [Midsommar](https://open.spotify.com/track/0f91Dvbc5tc6DN7e2QaNyC) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Midsommar](https://open.spotify.com/album/1hsH4qErR4O6USTu2k7O3w) | 2:36 | 2022-08-05 | 2023-11-16 |
 | [Mirror](https://open.spotify.com/track/3uRAxz8ic40d9IuNe8fnsb) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Mirror](https://open.spotify.com/album/0LcRgOY46NK9q6SSTldhbC) | 4:02 | 2021-12-09 | 2023-09-14 |

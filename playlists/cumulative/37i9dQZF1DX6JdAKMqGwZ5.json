@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 230477,
       "name": "Chicos malos",
       "url": "https://open.spotify.com/track/0sWSfIo0G5QwCWJd6uzkdT"
@@ -1628,7 +1628,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 173332,
       "name": "Desde el amor",
       "url": "https://open.spotify.com/track/5j8lR0X1eTYnlpLNUAyXm0"
@@ -4224,7 +4224,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-04",
+      "date_removed": null,
       "duration_ms": 193829,
       "name": "Mar Menor",
       "url": "https://open.spotify.com/track/05ayk6fobIziUqX3BSslaK"
@@ -5296,6 +5296,28 @@
       "duration_ms": 192850,
       "name": "Nuestra Forma de Hablar",
       "url": "https://open.spotify.com/track/5ygPD4YuTA8Tn1GIaYq1E3"
+    },
+    {
+      "album": {
+        "name": "Nuevas melod\u00edas (feat. Mario Diaz)",
+        "url": "https://open.spotify.com/album/3ENhLw4HeANW13LFIs9caP"
+      },
+      "artists": [
+        {
+          "name": "Colectivo Panamera",
+          "url": "https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw"
+        },
+        {
+          "name": "Mario Diaz",
+          "url": "https://open.spotify.com/artist/0p1xvmO3gEsrCdvRLf4qLh"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206086,
+      "name": "Nuevas melod\u00edas (feat. Mario Diaz)",
+      "url": "https://open.spotify.com/track/7K8lR16djMcWJ1GHcenpVV"
     },
     {
       "album": {

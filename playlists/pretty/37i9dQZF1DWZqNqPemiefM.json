@@ -1,6 +1,6 @@
 {
   "description": "\u4e0a\u8cea\u306a\u30a2\u30f3\u30d3\u30a8\u30f3\u30c8\u3068\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30df\u30e5\u30fc\u30b8\u30c3\u30af / The artisanal ambient and alternative sounds make you float in the air.",
-  "num_followers": 77296,
+  "num_followers": 77302,
   "original_name": "Sora",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,22 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
+        "name": "Inertia",
+        "url": "https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "duration_ms": 168480,
+      "name": "Inertia",
+      "url": "https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23"
+    },
+    {
+      "added_at": "2025-04-04 09:29:46",
+      "album": {
         "name": "NONAGE",
         "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 123953,
       "name": "Yip, Yip, Yip",
       "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"
-    },
-    {
-      "added_at": "2025-04-04 09:29:46",
-      "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 400240,
-      "name": "Storm Crystals",
-      "url": "https://open.spotify.com/track/3J42xcu8GE5D0kAYfRu4WK"
     },
     {
       "added_at": "2025-04-04 09:29:46",
@@ -891,50 +891,18 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
-        "name": "Inertia",
-        "url": "https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm"
+        "name": "Three",
+        "url": "https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF"
       },
       "artists": [
         {
-          "name": "Nobuhiro Okahashi",
-          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 168480,
-      "name": "Inertia",
-      "url": "https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23"
-    },
-    {
-      "added_at": "2025-04-04 09:29:46",
-      "album": {
-        "name": "Cascade",
-        "url": "https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 237168,
-      "name": "Ablaze",
-      "url": "https://open.spotify.com/track/4lSvsybipCBR0KpA9SBrQx"
-    },
-    {
-      "added_at": "2025-04-04 09:29:46",
-      "album": {
-        "name": "Something Ephemeral",
-        "url": "https://open.spotify.com/album/5uHrCYwIf46ftxh7bB6cLL"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Something Ephemeral",
-      "url": "https://open.spotify.com/track/4d42fVzXXDAtv3nRgjNlYY"
+      "duration_ms": 400240,
+      "name": "Storm Crystals",
+      "url": "https://open.spotify.com/track/3J42xcu8GE5D0kAYfRu4WK"
     },
     {
       "added_at": "2025-04-04 09:29:46",
@@ -959,6 +927,22 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
+        "name": "Something Ephemeral",
+        "url": "https://open.spotify.com/album/5uHrCYwIf46ftxh7bB6cLL"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Something Ephemeral",
+      "url": "https://open.spotify.com/track/4d42fVzXXDAtv3nRgjNlYY"
+    },
+    {
+      "added_at": "2025-04-04 09:29:46",
+      "album": {
         "name": "[lust]",
         "url": "https://open.spotify.com/album/5iTBKfzPNHpzZHHWyvXa05"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 67600,
       "name": "long time",
       "url": "https://open.spotify.com/track/1sJwMjRaNPzjSFT0m9ph0q"
+    },
+    {
+      "added_at": "2025-04-04 09:29:46",
+      "album": {
+        "name": "Cascade",
+        "url": "https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 237168,
+      "name": "Ablaze",
+      "url": "https://open.spotify.com/track/4lSvsybipCBR0KpA9SBrQx"
     },
     {
       "added_at": "2025-04-04 09:29:46",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
-        "name": "Opus",
-        "url": "https://open.spotify.com/album/7CZm15HrGX4juBQYf0xsUX"
-      },
-      "artists": [
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        }
-      ],
-      "duration_ms": 349150,
-      "name": "for J\u00f3hann",
-      "url": "https://open.spotify.com/track/2HPui49FMPeeQEQu7hnqjh"
-    },
-    {
-      "added_at": "2025-04-04 09:29:46",
-      "album": {
         "name": "Introspection (Edit)",
         "url": "https://open.spotify.com/album/0v1LQD6fWcMcvvTg6Mbcia"
       },
@@ -1043,34 +1027,18 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
-        "name": "pink misty wave",
-        "url": "https://open.spotify.com/album/3pyCGrRGJ8lsuL2aqzHYXg"
+        "name": "Opus",
+        "url": "https://open.spotify.com/album/7CZm15HrGX4juBQYf0xsUX"
       },
       "artists": [
         {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
         }
       ],
-      "duration_ms": 192048,
-      "name": "pink misty wave",
-      "url": "https://open.spotify.com/track/7mqcCAKHLx0mLWgh7dfQ5w"
-    },
-    {
-      "added_at": "2025-04-04 09:29:46",
-      "album": {
-        "name": "Solaris (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW"
-      },
-      "artists": [
-        {
-          "name": "Cliff Martinez",
-          "url": "https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf"
-        }
-      ],
-      "duration_ms": 172613,
-      "name": "First Sleep",
-      "url": "https://open.spotify.com/track/4kvIhfgXgFIMsxmCbsMB0M"
+      "duration_ms": 349150,
+      "name": "for J\u00f3hann",
+      "url": "https://open.spotify.com/track/2HPui49FMPeeQEQu7hnqjh"
     },
     {
       "added_at": "2025-04-04 09:29:46",
@@ -1091,6 +1059,22 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
+        "name": "Solaris (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW"
+      },
+      "artists": [
+        {
+          "name": "Cliff Martinez",
+          "url": "https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf"
+        }
+      ],
+      "duration_ms": 172613,
+      "name": "First Sleep",
+      "url": "https://open.spotify.com/track/4kvIhfgXgFIMsxmCbsMB0M"
+    },
+    {
+      "added_at": "2025-04-04 09:29:46",
+      "album": {
         "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
         "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 287913,
       "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
       "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
+    },
+    {
+      "added_at": "2025-04-04 09:29:46",
+      "album": {
+        "name": "pink misty wave",
+        "url": "https://open.spotify.com/album/3pyCGrRGJ8lsuL2aqzHYXg"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 192048,
+      "name": "pink misty wave",
+      "url": "https://open.spotify.com/track/7mqcCAKHLx0mLWgh7dfQ5w"
     },
     {
       "added_at": "2025-04-04 09:29:46",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
+        "name": "\u3072\u3068\u3064\u3076\u306e\u6d77",
+        "url": "https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz"
+      },
+      "artists": [
+        {
+          "name": "Toshifumi Hinata",
+          "url": "https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC"
+        }
+      ],
+      "duration_ms": 275133,
+      "name": "\u5149\u3068\u6c34",
+      "url": "https://open.spotify.com/track/2mYJCrSy6VLrDXLi5F28cx"
+    },
+    {
+      "added_at": "2025-04-04 09:29:46",
+      "album": {
         "name": "Big Majestic",
         "url": "https://open.spotify.com/album/54PPhxM0V8V87txFsNVWgb"
       },
@@ -1195,18 +1211,18 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
-        "name": "\u3072\u3068\u3064\u3076\u306e\u6d77",
-        "url": "https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz"
+        "name": "BTTB",
+        "url": "https://open.spotify.com/album/0UPftEfpaTZRZ2qvFmTcCC"
       },
       "artists": [
         {
-          "name": "Toshifumi Hinata",
-          "url": "https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC"
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
         }
       ],
-      "duration_ms": 275133,
-      "name": "\u5149\u3068\u6c34",
-      "url": "https://open.spotify.com/track/2mYJCrSy6VLrDXLi5F28cx"
+      "duration_ms": 265973,
+      "name": "opus",
+      "url": "https://open.spotify.com/track/0Tl42Sk71peiqrZ4slHv9J"
     },
     {
       "added_at": "2025-04-04 09:29:46",
@@ -1223,22 +1239,6 @@
       "duration_ms": 176653,
       "name": "okarun's life",
       "url": "https://open.spotify.com/track/3H2YFr8ESaWSmNGMO8usXe"
-    },
-    {
-      "added_at": "2025-04-04 09:29:46",
-      "album": {
-        "name": "BTTB",
-        "url": "https://open.spotify.com/album/0UPftEfpaTZRZ2qvFmTcCC"
-      },
-      "artists": [
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        }
-      ],
-      "duration_ms": 265973,
-      "name": "opus",
-      "url": "https://open.spotify.com/track/0Tl42Sk71peiqrZ4slHv9J"
     },
     {
       "added_at": "2025-04-04 09:29:46",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
-        "name": "#3 / Rhubarb Orc. 19.53 Rev",
-        "url": "https://open.spotify.com/album/25tU48vYTi5RyyJzElp1Yc"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 401911,
-      "name": "Rhubarb Orc. 19.53 Rev",
-      "url": "https://open.spotify.com/track/7wOsvlAHz8E0ycT6NYto13"
-    },
-    {
-      "added_at": "2025-04-04 09:29:46",
-      "album": {
         "name": "Slow Worm",
         "url": "https://open.spotify.com/album/7cEVIb82TYwy1uhYc6Q9nC"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 152000,
       "name": "Slow Worm",
       "url": "https://open.spotify.com/track/4WDG6wT432I1tacAb4aLiR"
+    },
+    {
+      "added_at": "2025-04-04 09:29:46",
+      "album": {
+        "name": "#3 / Rhubarb Orc. 19.53 Rev",
+        "url": "https://open.spotify.com/album/25tU48vYTi5RyyJzElp1Yc"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 401911,
+      "name": "Rhubarb Orc. 19.53 Rev",
+      "url": "https://open.spotify.com/track/7wOsvlAHz8E0ycT6NYto13"
     },
     {
       "added_at": "2025-04-04 09:29:46",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
+        "name": "Drive My Car Original Soundtrack",
+        "url": "https://open.spotify.com/album/5UX8iI2DhriBFsAJ7Hz8lM"
+      },
+      "artists": [
+        {
+          "name": "Eiko Ishibashi",
+          "url": "https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7"
+        }
+      ],
+      "duration_ms": 175625,
+      "name": "Drive My Car (Cassette)",
+      "url": "https://open.spotify.com/track/0ovYtROJeY4R7DphSJW3Fh"
+    },
+    {
+      "added_at": "2025-04-04 09:29:46",
+      "album": {
         "name": "12",
         "url": "https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M"
       },
@@ -1403,18 +1419,22 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
-        "name": "Drive My Car Original Soundtrack",
-        "url": "https://open.spotify.com/album/5UX8iI2DhriBFsAJ7Hz8lM"
+        "name": "northern wind",
+        "url": "https://open.spotify.com/album/4VtWQBNxhE2xkgiaznyrgD"
       },
       "artists": [
         {
-          "name": "Eiko Ishibashi",
-          "url": "https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7"
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+        },
+        {
+          "name": "Hideyuki Mochizuki",
+          "url": "https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv"
         }
       ],
-      "duration_ms": 175625,
-      "name": "Drive My Car (Cassette)",
-      "url": "https://open.spotify.com/track/0ovYtROJeY4R7DphSJW3Fh"
+      "duration_ms": 179251,
+      "name": "les cinqui\u00e8me altern\u00e9es",
+      "url": "https://open.spotify.com/track/0QPPyF3YNaFcsAgr3TXm68"
     },
     {
       "added_at": "2025-04-04 09:29:46",
@@ -1479,26 +1499,6 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
-        "name": "northern wind",
-        "url": "https://open.spotify.com/album/4VtWQBNxhE2xkgiaznyrgD"
-      },
-      "artists": [
-        {
-          "name": "Seizan Ishigaki",
-          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
-        },
-        {
-          "name": "Hideyuki Mochizuki",
-          "url": "https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv"
-        }
-      ],
-      "duration_ms": 179251,
-      "name": "les cinqui\u00e8me altern\u00e9es",
-      "url": "https://open.spotify.com/track/0QPPyF3YNaFcsAgr3TXm68"
-    },
-    {
-      "added_at": "2025-04-04 09:29:46",
-      "album": {
         "name": "Silver Shadow",
         "url": "https://open.spotify.com/album/77D07PWUVtGQXMW2nBStG2"
       },
@@ -1511,22 +1511,6 @@
       "duration_ms": 173500,
       "name": "When The Sun Comes Out",
       "url": "https://open.spotify.com/track/19fWeHgp9MBX16WMmh3Ayh"
-    },
-    {
-      "added_at": "2025-04-04 09:29:46",
-      "album": {
-        "name": "+puzzle",
-        "url": "https://open.spotify.com/album/7FK9vKwozsNBvoioINxFa7"
-      },
-      "artists": [
-        {
-          "name": "Jupi/ter",
-          "url": "https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x"
-        }
-      ],
-      "duration_ms": 254561,
-      "name": "+puzzle",
-      "url": "https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW"
     },
     {
       "added_at": "2025-04-04 09:29:46",
@@ -1547,18 +1531,18 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
-        "name": "Hoshi No Koe",
-        "url": "https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb"
+        "name": "+puzzle",
+        "url": "https://open.spotify.com/album/7FK9vKwozsNBvoioINxFa7"
       },
       "artists": [
         {
-          "name": "Nobukazu Takemura",
-          "url": "https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9"
+          "name": "Jupi/ter",
+          "url": "https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x"
         }
       ],
-      "duration_ms": 103360,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
+      "duration_ms": 254561,
+      "name": "+puzzle",
+      "url": "https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW"
     },
     {
       "added_at": "2025-04-04 09:29:46",
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
+        "name": "Hoshi No Koe",
+        "url": "https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb"
+      },
+      "artists": [
+        {
+          "name": "Nobukazu Takemura",
+          "url": "https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9"
+        }
+      ],
+      "duration_ms": 103360,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
+    },
+    {
+      "added_at": "2025-04-04 09:29:46",
+      "album": {
         "name": "On the Quakefish",
         "url": "https://open.spotify.com/album/5E5IiKi4x2xFeYsU5KPlKj"
       },
@@ -1595,22 +1595,6 @@
       "duration_ms": 235800,
       "name": "Denden",
       "url": "https://open.spotify.com/track/6yQAC0ou6kYcs5LXFi3VlF"
-    },
-    {
-      "added_at": "2025-04-04 09:29:46",
-      "album": {
-        "name": "\u3010DS\u7248\u3011\u30af\u30ed\u30ce\uff65\u30c8\u30ea\u30ac\u30fc \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/43WD2x17uM3LAAgKIxExlZ"
-      },
-      "artists": [
-        {
-          "name": "Yasunori Mitsuda",
-          "url": "https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "\u6642\u306e\u56de\u5eca",
-      "url": "https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp"
     },
     {
       "added_at": "2025-04-04 09:29:46",
@@ -1635,22 +1619,18 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
-        "name": "Breathless",
-        "url": "https://open.spotify.com/album/6GiIvMLkoLLSBVNiZuqo0w"
+        "name": "\u3010DS\u7248\u3011\u30af\u30ed\u30ce\uff65\u30c8\u30ea\u30ac\u30fc \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/43WD2x17uM3LAAgKIxExlZ"
       },
       "artists": [
         {
-          "name": "Helios",
-          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
-        },
-        {
-          "name": "Hollie Kenniff",
-          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+          "name": "Yasunori Mitsuda",
+          "url": "https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK"
         }
       ],
-      "duration_ms": 185834,
-      "name": "Breathless",
-      "url": "https://open.spotify.com/track/7q7ADZ5huqi7bf0vdWHDwZ"
+      "duration_ms": 183266,
+      "name": "\u6642\u306e\u56de\u5eca",
+      "url": "https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp"
     },
     {
       "added_at": "2025-04-04 09:29:46",
@@ -1671,18 +1651,22 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
-        "name": "The Near End, The Dark Night, The County Line",
-        "url": "https://open.spotify.com/album/1oKvS1J3kCe9CUl4GsLaP9"
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/6GiIvMLkoLLSBVNiZuqo0w"
       },
       "artists": [
         {
-          "name": "Takuro Okada",
-          "url": "https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm"
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+        },
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
         }
       ],
-      "duration_ms": 132761,
-      "name": "The Room",
-      "url": "https://open.spotify.com/track/0C70150gB04nyN9nmTyf1b"
+      "duration_ms": 185834,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/7q7ADZ5huqi7bf0vdWHDwZ"
     },
     {
       "added_at": "2025-04-04 09:29:46",
@@ -1703,6 +1687,22 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
+        "name": "The Near End, The Dark Night, The County Line",
+        "url": "https://open.spotify.com/album/1oKvS1J3kCe9CUl4GsLaP9"
+      },
+      "artists": [
+        {
+          "name": "Takuro Okada",
+          "url": "https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm"
+        }
+      ],
+      "duration_ms": 132761,
+      "name": "The Room",
+      "url": "https://open.spotify.com/track/0C70150gB04nyN9nmTyf1b"
+    },
+    {
+      "added_at": "2025-04-04 09:29:46",
+      "album": {
         "name": "POLY LIFE MULTI SOUL",
         "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
       },
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2025-04-04 09:29:46",
       "album": {
-        "name": "Thinking Iceberg",
-        "url": "https://open.spotify.com/album/39mihYHeLbVIkXwKAgmujI"
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u3088\u3075\u304b\u3057\u306e\u3046\u305f\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0hRquZKDpTRqpi8kjD7lcv"
       },
       "artists": [
         {
-          "name": "Felicia Atkinson",
-          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+          "name": "Yoshiaki Dewa",
+          "url": "https://open.spotify.com/artist/3NWiLtzfi2mh7EB2Fq9TyY"
         }
       ],
-      "duration_ms": 770000,
-      "name": "Thinking Iceberg",
-      "url": "https://open.spotify.com/track/00cs65Ml2o8b245YEkQrsR"
+      "duration_ms": 187531,
+      "name": "\u591c\u306e\u8857",
+      "url": "https://open.spotify.com/track/6GDHhqXm5rRuHyXc6nRpsi"
     }
   ],
   "unique_name": "Sora",

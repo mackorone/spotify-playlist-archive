@@ -1,13 +1,37 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 281782,
+  "num_followers": 281849,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+3PgAAAAAB8b7zYaqArS8mn2CtKRkGZ",
+  "snapshot_id": "Z+8hAAAAAAAz6e3xGYMXpirnUYRbGMPQ",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let It Ride (Jamie Jones Remix)",
+        "url": "https://open.spotify.com/album/69huZFB3RkeoW4VNMd7BdY"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        },
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Alex Tepper",
+          "url": "https://open.spotify.com/artist/1hnHxjL5igxWUUv76I2s4d"
+        }
+      ],
+      "duration_ms": 206785,
+      "name": "Let It Ride - Jamie Jones Remix",
+      "url": "https://open.spotify.com/track/4Qia8t2vNSY3qyMYe6zCU9"
+    },
     {
       "added_at": null,
       "album": {
@@ -371,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baptism",
-        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
+        "name": "Let Love Rule",
+        "url": "https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb"
       },
       "artists": [
         {
@@ -380,9 +404,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 161293,
-      "name": "Where Are We Runnin'?",
-      "url": "https://open.spotify.com/track/4ouIWkFspNZYFO87Gdufxb"
+      "duration_ms": 342160,
+      "name": "Let Love Rule",
+      "url": "https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE"
     },
     {
       "added_at": null,
@@ -403,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Love Rule",
-        "url": "https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb"
+        "name": "Baptism",
+        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
       },
       "artists": [
         {
@@ -412,9 +436,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 342160,
-      "name": "Let Love Rule",
-      "url": "https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE"
+      "duration_ms": 161293,
+      "name": "Where Are We Runnin'?",
+      "url": "https://open.spotify.com/track/4ouIWkFspNZYFO87Gdufxb"
     },
     {
       "added_at": null,
@@ -811,30 +835,6 @@
       "duration_ms": 255573,
       "name": "Lady",
       "url": "https://open.spotify.com/track/4qM2h3xkzwGJiVv6GgL6w0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beautiful Pain",
-        "url": "https://open.spotify.com/album/1HDxgZHLsOFHHj7g6MT7lk"
-      },
-      "artists": [
-        {
-          "name": "Tyrese",
-          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
-        },
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        },
-        {
-          "name": "Le'Andria Johnson",
-          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
-        }
-      ],
-      "duration_ms": 398217,
-      "name": "Don't Think You Ever Loved Me (feat. Lenny Kravitz, Le'Andria Johnson)",
-      "url": "https://open.spotify.com/track/7Hau6gKa1qB6YT4AYtn1qd"
     }
   ],
   "unique_name": "This Is Lenny Kravitz",

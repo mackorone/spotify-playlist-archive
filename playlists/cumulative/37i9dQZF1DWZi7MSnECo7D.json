@@ -7311,6 +7311,24 @@
     },
     {
       "album": {
+        "name": "Estranho Conhecido",
+        "url": "https://open.spotify.com/album/7pTZvbDQgDRKN8zVWEjYRz"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "date_added": "2025-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147016,
+      "name": "Mar\u00e7o ou Abril",
+      "url": "https://open.spotify.com/track/5KGWgccLIXaS4p3z1wRGsi"
+    },
+    {
+      "album": {
         "name": "Colinho",
         "url": "https://open.spotify.com/album/2DphG5HgqpHRRsx1Ec1Wgy"
       },
@@ -7994,6 +8012,28 @@
       "duration_ms": 193658,
       "name": "MONTANHA RUSSA",
       "url": "https://open.spotify.com/track/4dpjIj2Mg9Glx2k67yutvz"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/5qeUMzLRfVFoI0sBB5ZLN2"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Bertoni",
+          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
+        },
+        {
+          "name": "R E L",
+          "url": "https://open.spotify.com/artist/1esV1Kbjb2mU2NuxzRDQ0D"
+        }
+      ],
+      "date_added": "2025-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149013,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/6uQKpZhRqmAXRcrIc203OZ"
     },
     {
       "album": {
@@ -10118,7 +10158,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 232727,
       "name": "Perto da Praia",
       "url": "https://open.spotify.com/track/0sl0lktFawfYBU6oeLFwn7"
@@ -12510,7 +12550,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 201000,
       "name": "S\u00f3 Eu",
       "url": "https://open.spotify.com/track/2HyXdfQI7gpKykyXu2uQbM"

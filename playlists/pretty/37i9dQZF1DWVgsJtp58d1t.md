@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > All Black like the cover of Essence\. Cover: <a href="spotify:artist:4wrzxtBZw20ufDstKyTnnP">Rachel Chinouriri</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,076,704 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,076,931 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 58 | [Garmonbozia](https://open.spotify.com/track/36PIheIp9ceOOW8WuHIcgz) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Spirit Box](https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja) | 3:33 |
 | 59 | [Can We Do This Over](https://open.spotify.com/track/2xNO9VNXpvI84BzphjkYe4) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Can We Do This Over](https://open.spotify.com/album/5b2t3eQ9Tkblewvwv57etT) | 3:28 |
 | 60 | [What Are You Waiting For](https://open.spotify.com/track/10bdqV0CgtHjizrW4rfqAH) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [What Are You Waiting For](https://open.spotify.com/album/5PA7ISOAqIrULa0AAPOJVx) | 2:24 |
-| 61 | [Reflection Station](https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Reflection Station](https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk) | 2:46 |
+| 61 | [Reflection Station](https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Reflection Station](https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk) | 2:45 |
 | 62 | [OH, WHAT A WRETCHED NIGHT](https://open.spotify.com/track/4rIPw3MKPfEoSmZuTbqjhY) | [Heath240](https://open.spotify.com/artist/1ojvdyodoMexNXR8my5FOo) | [OH, WHAT A WRETCHED NIGHT](https://open.spotify.com/album/4mn76GeDM2XhsNFn5Jip3c) | 3:16 |
 | 63 | [swimming in pity](https://open.spotify.com/track/2cBLY3kNAJ2IjygBLpRrli) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [swimming in pity](https://open.spotify.com/album/6ySG6aUUn6g8xujn2xKaM6) | 2:56 |
 | 64 | [DND](https://open.spotify.com/track/59X3CiTwsVyEpTfVNghHG4) | [AKIA](https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06) | [DND](https://open.spotify.com/album/0Ovj6EvLPcUdythgf3NULU) | 2:53 |

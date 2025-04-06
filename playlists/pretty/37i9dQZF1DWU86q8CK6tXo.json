@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Larkin Poe\n",
-  "num_followers": 62281,
+  "num_followers": 62283,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2025-04-01 04:00:02",
       "album": {
+        "name": "First",
+        "url": "https://open.spotify.com/album/2yVoj5oLa2LwoRQfYmhYpj"
+      },
+      "artists": [
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "First",
+      "url": "https://open.spotify.com/track/3SEmYQXL6TYQ6keii5TUiN"
+    },
+    {
+      "added_at": "2025-04-01 04:00:02",
+      "album": {
         "name": "Give Me A Sign (feat. Caroline Kingsbury)",
         "url": "https://open.spotify.com/album/5xbuVE2oApu5EVIbJhLpEc"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 179166,
       "name": "Give Me A Sign (feat. Caroline Kingsbury)",
       "url": "https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ"
-    },
-    {
-      "added_at": "2025-04-01 04:00:02",
-      "album": {
-        "name": "First",
-        "url": "https://open.spotify.com/album/2yVoj5oLa2LwoRQfYmhYpj"
-      },
-      "artists": [
-        {
-          "name": "KenTheMan",
-          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "First",
-      "url": "https://open.spotify.com/track/3SEmYQXL6TYQ6keii5TUiN"
     },
     {
       "added_at": "2025-04-01 04:00:02",
@@ -415,6 +415,26 @@
     {
       "added_at": "2025-04-01 04:00:02",
       "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/3OBsgXDSLQGIa8HZVP4Zk9"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        }
+      ],
+      "duration_ms": 199976,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/4OhBEzAyBJn7D0n1bIXQX7"
+    },
+    {
+      "added_at": "2025-04-01 04:00:02",
+      "album": {
         "name": "Savannah",
         "url": "https://open.spotify.com/album/06RBvB1oS78HYZ6n0zRLwz"
       },
@@ -451,26 +471,6 @@
     {
       "added_at": "2025-04-01 04:00:02",
       "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/3OBsgXDSLQGIa8HZVP4Zk9"
-      },
-      "artists": [
-        {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        },
-        {
-          "name": "Hayley May",
-          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
-        }
-      ],
-      "duration_ms": 199976,
-      "name": "Can't Get Enough",
-      "url": "https://open.spotify.com/track/4OhBEzAyBJn7D0n1bIXQX7"
-    },
-    {
-      "added_at": "2025-04-01 04:00:02",
-      "album": {
         "name": "Bad Boy",
         "url": "https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN"
       },
@@ -503,22 +503,6 @@
     {
       "added_at": "2025-04-01 04:00:02",
       "album": {
-        "name": "Dumb Feeling",
-        "url": "https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi"
-      },
-      "artists": [
-        {
-          "name": "Mei Semones",
-          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
-        }
-      ],
-      "duration_ms": 190264,
-      "name": "Dumb Feeling",
-      "url": "https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd"
-    },
-    {
-      "added_at": "2025-04-01 04:00:02",
-      "album": {
         "name": "T&A",
         "url": "https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 225280,
       "name": "T&A",
       "url": "https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI"
+    },
+    {
+      "added_at": "2025-04-01 04:00:02",
+      "album": {
+        "name": "Dumb Feeling",
+        "url": "https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "duration_ms": 190264,
+      "name": "Dumb Feeling",
+      "url": "https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd"
     },
     {
       "added_at": "2025-04-01 04:00:02",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-04-01 04:00:02",
       "album": {
-        "name": "CAPIC\u00da",
-        "url": "https://open.spotify.com/album/15GbOhBVxAs4T84gCpwlY8"
-      },
-      "artists": [
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 143404,
-      "name": "logout de ri\u00edto con la gata",
-      "url": "https://open.spotify.com/track/5TJjnb0e3yc6T32Ziy5tpF"
-    },
-    {
-      "added_at": "2025-04-01 04:00:02",
-      "album": {
         "name": "Simple Phrase",
         "url": "https://open.spotify.com/album/0tyYbwhOr8mZibgMvYEOq0"
       },
@@ -675,18 +659,18 @@
     {
       "added_at": "2025-04-01 04:00:02",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2KmIKQIxmavgPgAfeQJMqD"
+        "name": "CAPIC\u00da",
+        "url": "https://open.spotify.com/album/15GbOhBVxAs4T84gCpwlY8"
       },
       "artists": [
         {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
         }
       ],
-      "duration_ms": 300045,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/4bGeuZpvvvIldq0daPo9wZ"
+      "duration_ms": 143404,
+      "name": "logout de ri\u00edto con la gata",
+      "url": "https://open.spotify.com/track/5TJjnb0e3yc6T32Ziy5tpF"
     },
     {
       "added_at": "2025-04-01 04:00:02",
@@ -707,18 +691,18 @@
     {
       "added_at": "2025-04-01 04:00:02",
       "album": {
-        "name": "For What It's Worth",
-        "url": "https://open.spotify.com/album/5foVq2JQBB1dX1s3O3gX5E"
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2KmIKQIxmavgPgAfeQJMqD"
       },
       "artists": [
         {
-          "name": "Rachael Lampa",
-          "url": "https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri"
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
         }
       ],
-      "duration_ms": 203824,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/2EuFVrYeCxPIC5xy2bHc47"
+      "duration_ms": 300045,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/4bGeuZpvvvIldq0daPo9wZ"
     },
     {
       "added_at": "2025-04-01 04:00:02",
@@ -771,6 +755,22 @@
     {
       "added_at": "2025-04-01 04:00:02",
       "album": {
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/5foVq2JQBB1dX1s3O3gX5E"
+      },
+      "artists": [
+        {
+          "name": "Rachael Lampa",
+          "url": "https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri"
+        }
+      ],
+      "duration_ms": 203824,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/2EuFVrYeCxPIC5xy2bHc47"
+    },
+    {
+      "added_at": "2025-04-01 04:00:02",
+      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/7zjtPFsj5JwA8yPe4IbcRP"
       },
@@ -783,26 +783,6 @@
       "duration_ms": 180006,
       "name": "24/7",
       "url": "https://open.spotify.com/track/4HR5BN6hc4AmcPO1NK0fgK"
-    },
-    {
-      "added_at": "2025-04-01 04:00:02",
-      "album": {
-        "name": "Come Jesus Come",
-        "url": "https://open.spotify.com/album/0qHcqC09wyyfvnEfE2y3UJ"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        },
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 301130,
-      "name": "Come Jesus Come",
-      "url": "https://open.spotify.com/track/28Snv4xre6AXy3nHgjRJvV"
     },
     {
       "added_at": "2025-04-01 04:00:02",
@@ -823,18 +803,22 @@
     {
       "added_at": "2025-04-01 04:00:02",
       "album": {
-        "name": "Superpowers",
-        "url": "https://open.spotify.com/album/1WeWNF52veaOmfcAagyUr7"
+        "name": "Come Jesus Come",
+        "url": "https://open.spotify.com/album/0qHcqC09wyyfvnEfE2y3UJ"
       },
       "artists": [
         {
-          "name": "Rachael Lampa",
-          "url": "https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri"
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 217216,
-      "name": "Superpowers",
-      "url": "https://open.spotify.com/track/3ZNHrPveoYFrzPK2VYjbqn"
+      "duration_ms": 301130,
+      "name": "Come Jesus Come",
+      "url": "https://open.spotify.com/track/28Snv4xre6AXy3nHgjRJvV"
     },
     {
       "added_at": "2025-04-01 04:00:02",
@@ -867,6 +851,22 @@
       "duration_ms": 161981,
       "name": "GPS",
       "url": "https://open.spotify.com/track/5lfeSwPNWexggo6tXCOQFw"
+    },
+    {
+      "added_at": "2025-04-01 04:00:02",
+      "album": {
+        "name": "Superpowers",
+        "url": "https://open.spotify.com/album/1WeWNF52veaOmfcAagyUr7"
+      },
+      "artists": [
+        {
+          "name": "Rachael Lampa",
+          "url": "https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri"
+        }
+      ],
+      "duration_ms": 217216,
+      "name": "Superpowers",
+      "url": "https://open.spotify.com/track/3ZNHrPveoYFrzPK2VYjbqn"
     },
     {
       "added_at": "2025-04-01 04:00:02",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-04-01 04:00:02",
       "album": {
-        "name": "Shovel",
-        "url": "https://open.spotify.com/album/20inwFAoFRYsDFX4xZGI8J"
-      },
-      "artists": [
-        {
-          "name": "Deep Sea Diver",
-          "url": "https://open.spotify.com/artist/6CD0HbcaKmuVB3NHJJgSdH"
-        }
-      ],
-      "duration_ms": 269373,
-      "name": "Shovel",
-      "url": "https://open.spotify.com/track/0fSXZI1ujijicFIf2gP8pd"
-    },
-    {
-      "added_at": "2025-04-01 04:00:02",
-      "album": {
         "name": "Going Higher",
         "url": "https://open.spotify.com/album/1Wybf9w4RZV1UoO9tqTwVT"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 197929,
       "name": "Going Higher",
       "url": "https://open.spotify.com/track/31gf5uLDwHLSAQUVCoZ5nj"
+    },
+    {
+      "added_at": "2025-04-01 04:00:02",
+      "album": {
+        "name": "Shovel",
+        "url": "https://open.spotify.com/album/20inwFAoFRYsDFX4xZGI8J"
+      },
+      "artists": [
+        {
+          "name": "Deep Sea Diver",
+          "url": "https://open.spotify.com/artist/6CD0HbcaKmuVB3NHJJgSdH"
+        }
+      ],
+      "duration_ms": 269373,
+      "name": "Shovel",
+      "url": "https://open.spotify.com/track/0fSXZI1ujijicFIf2gP8pd"
     },
     {
       "added_at": "2025-04-01 04:00:02",

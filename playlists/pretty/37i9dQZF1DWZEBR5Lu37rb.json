@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 89230,
+  "num_followers": 89323,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2025-02-11 06:19:22",
       "album": {
+        "name": "Midnight Train",
+        "url": "https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK"
+      },
+      "artists": [
+        {
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+        }
+      ],
+      "duration_ms": 237868,
+      "name": "Feel My Love",
+      "url": "https://open.spotify.com/track/7MJias3z7sLBVROiX9yb7m"
+    },
+    {
+      "added_at": "2025-02-11 06:19:22",
+      "album": {
         "name": "Ngimtholile",
         "url": "https://open.spotify.com/album/4QD2ETs2brilp1iVISIcNP"
       },
@@ -603,18 +619,18 @@
     {
       "added_at": "2025-02-11 06:19:22",
       "album": {
-        "name": "Midnight Train",
-        "url": "https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK"
+        "name": "Umuthi",
+        "url": "https://open.spotify.com/album/2bjC0ex3FhejL6cuaLToJU"
       },
       "artists": [
         {
-          "name": "Sauti Sol",
-          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+          "name": "Blaq Diamond",
+          "url": "https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe"
         }
       ],
-      "duration_ms": 237868,
-      "name": "Feel My Love",
-      "url": "https://open.spotify.com/track/7MJias3z7sLBVROiX9yb7m"
+      "duration_ms": 249795,
+      "name": "Ibhanoyi",
+      "url": "https://open.spotify.com/track/1UooO4lFHhFaKX8Jgz9xNI"
     },
     {
       "added_at": "2025-02-11 06:19:22",
@@ -631,22 +647,6 @@
       "duration_ms": 144026,
       "name": "Rhythm & Blues",
       "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
-    },
-    {
-      "added_at": "2025-02-11 06:19:22",
-      "album": {
-        "name": "Umuthi",
-        "url": "https://open.spotify.com/album/2bjC0ex3FhejL6cuaLToJU"
-      },
-      "artists": [
-        {
-          "name": "Blaq Diamond",
-          "url": "https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe"
-        }
-      ],
-      "duration_ms": 249795,
-      "name": "Ibhanoyi",
-      "url": "https://open.spotify.com/track/1UooO4lFHhFaKX8Jgz9xNI"
     },
     {
       "added_at": "2025-02-11 06:19:22",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-02-11 06:19:22",
       "album": {
-        "name": "Love & Light",
-        "url": "https://open.spotify.com/album/5ycopkcsa3kPg1cbw9sDqu"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 158052,
-      "name": "Beginning",
-      "url": "https://open.spotify.com/track/7hKkeswtn0FRLblD4bnrxv"
-    },
-    {
-      "added_at": "2025-02-11 06:19:22",
-      "album": {
         "name": "Alusa Why Are You Topless?",
         "url": "https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 281860,
       "name": "Chikwere",
       "url": "https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu"
+    },
+    {
+      "added_at": "2025-02-11 06:19:22",
+      "album": {
+        "name": "Love & Light",
+        "url": "https://open.spotify.com/album/5ycopkcsa3kPg1cbw9sDqu"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 158052,
+      "name": "Beginning",
+      "url": "https://open.spotify.com/track/7hKkeswtn0FRLblD4bnrxv"
     },
     {
       "added_at": "2025-02-11 06:19:22",
@@ -999,26 +999,6 @@
     {
       "added_at": "2025-02-11 06:19:22",
       "album": {
-        "name": "Black Love",
-        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 223166,
-      "name": "Can't Let You Go (feat. King Promise)",
-      "url": "https://open.spotify.com/track/60HGKB4wbcZhClLTYIjzNw"
-    },
-    {
-      "added_at": "2025-02-11 06:19:22",
-      "album": {
         "name": "Hiyo Lento",
         "url": "https://open.spotify.com/album/5bzpGxfaAfxhaeMRXWjYql"
       },
@@ -1103,6 +1083,26 @@
     {
       "added_at": "2025-02-11 06:19:22",
       "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 223166,
+      "name": "Can't Let You Go (feat. King Promise)",
+      "url": "https://open.spotify.com/track/60HGKB4wbcZhClLTYIjzNw"
+    },
+    {
+      "added_at": "2025-02-11 06:19:22",
+      "album": {
         "name": "uThando",
         "url": "https://open.spotify.com/album/3iFIu4LucpvAw23loKDVOk"
       },
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-02-11 06:19:22",
       "album": {
-        "name": "Odo",
-        "url": "https://open.spotify.com/album/5vr0uK0k3M2o54r95AfPwo"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 186990,
-      "name": "Odo",
-      "url": "https://open.spotify.com/track/2vK93nwA5PNJVQa3OXeg5Y"
-    },
-    {
-      "added_at": "2025-02-11 06:19:22",
-      "album": {
         "name": "Imali",
         "url": "https://open.spotify.com/album/7z67WvNh1LJMAZHvR6T1vy"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 198905,
       "name": "Ubuhle Bakho",
       "url": "https://open.spotify.com/track/4mkfmHDntAJNnfZG033D6O"
+    },
+    {
+      "added_at": "2025-02-11 06:19:22",
+      "album": {
+        "name": "Odo",
+        "url": "https://open.spotify.com/album/5vr0uK0k3M2o54r95AfPwo"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 186990,
+      "name": "Odo",
+      "url": "https://open.spotify.com/track/2vK93nwA5PNJVQa3OXeg5Y"
     },
     {
       "added_at": "2025-02-11 06:19:22",
@@ -1175,26 +1175,6 @@
       "duration_ms": 208721,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/2wmyzZUVCXLQTgJvFsh5ef"
-    },
-    {
-      "added_at": "2025-02-11 06:19:22",
-      "album": {
-        "name": "Gucci (Deleted)",
-        "url": "https://open.spotify.com/album/0k6dVKW5uBGPCW623VFpq8"
-      },
-      "artists": [
-        {
-          "name": "Mthandeni SK",
-          "url": "https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX"
-        },
-        {
-          "name": "MaWhoo",
-          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
-        }
-      ],
-      "duration_ms": 247617,
-      "name": "Gucci",
-      "url": "https://open.spotify.com/track/567NwM1L86vGvZwiZfCsMo"
     },
     {
       "added_at": "2025-02-11 06:19:22",
@@ -1243,6 +1223,26 @@
       "duration_ms": 187285,
       "name": "Angela",
       "url": "https://open.spotify.com/track/7HNCjHpGLQ0GO4Ea6DPdPq"
+    },
+    {
+      "added_at": "2025-02-11 06:19:22",
+      "album": {
+        "name": "Gucci (Deleted)",
+        "url": "https://open.spotify.com/album/0k6dVKW5uBGPCW623VFpq8"
+      },
+      "artists": [
+        {
+          "name": "Mthandeni SK",
+          "url": "https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        }
+      ],
+      "duration_ms": 247617,
+      "name": "Gucci",
+      "url": "https://open.spotify.com/track/567NwM1L86vGvZwiZfCsMo"
     },
     {
       "added_at": "2025-02-11 06:19:22",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2025-02-11 06:19:22",
       "album": {
-        "name": "Maproso",
-        "url": "https://open.spotify.com/album/67YqUfHMxGVkIB7WDcdiZO"
-      },
-      "artists": [
-        {
-          "name": "Wakadinali",
-          "url": "https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK"
-        },
-        {
-          "name": "Suzanna Owiyo",
-          "url": "https://open.spotify.com/artist/3qt1e2EBBNKSzUNAcG8CFG"
-        }
-      ],
-      "duration_ms": 252428,
-      "name": "Maproso",
-      "url": "https://open.spotify.com/track/530sCffzEuhc9zBBztacgf"
-    },
-    {
-      "added_at": "2025-02-11 06:19:22",
-      "album": {
         "name": "FOU DE TOi",
         "url": "https://open.spotify.com/album/2L0LHGMMygz3CEAirJ1I3x"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 237812,
       "name": "FOU DE TOi",
       "url": "https://open.spotify.com/track/7DhruOVt2cgzOzwNLwM18E"
+    },
+    {
+      "added_at": "2025-02-11 06:19:22",
+      "album": {
+        "name": "Maproso",
+        "url": "https://open.spotify.com/album/67YqUfHMxGVkIB7WDcdiZO"
+      },
+      "artists": [
+        {
+          "name": "Wakadinali",
+          "url": "https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK"
+        },
+        {
+          "name": "Suzanna Owiyo",
+          "url": "https://open.spotify.com/artist/3qt1e2EBBNKSzUNAcG8CFG"
+        }
+      ],
+      "duration_ms": 252428,
+      "name": "Maproso",
+      "url": "https://open.spotify.com/track/530sCffzEuhc9zBBztacgf"
     },
     {
       "added_at": "2025-02-11 06:19:22",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2025-02-11 06:19:22",
       "album": {
-        "name": "Asante",
-        "url": "https://open.spotify.com/album/2aY4NZfuqdZxNWVfq0qksF"
-      },
-      "artists": [
-        {
-          "name": "Gilad",
-          "url": "https://open.spotify.com/artist/69X8GGcAC4PnkhReqPFDXQ"
-        },
-        {
-          "name": "Wendy Kimani",
-          "url": "https://open.spotify.com/artist/0Ep2fNEERde3ns2luc8clT"
-        }
-      ],
-      "duration_ms": 261250,
-      "name": "Unajua (feat. Wendy Kimani)",
-      "url": "https://open.spotify.com/track/243H8e9aTy851fjYiXc4k4"
-    },
-    {
-      "added_at": "2025-02-11 06:19:22",
-      "album": {
         "name": "Phakade Lami",
         "url": "https://open.spotify.com/album/44PV16rEIAsEdo4MxT62b9"
       },
@@ -1439,6 +1419,26 @@
     {
       "added_at": "2025-02-11 06:19:22",
       "album": {
+        "name": "Asante",
+        "url": "https://open.spotify.com/album/2aY4NZfuqdZxNWVfq0qksF"
+      },
+      "artists": [
+        {
+          "name": "Gilad",
+          "url": "https://open.spotify.com/artist/69X8GGcAC4PnkhReqPFDXQ"
+        },
+        {
+          "name": "Wendy Kimani",
+          "url": "https://open.spotify.com/artist/0Ep2fNEERde3ns2luc8clT"
+        }
+      ],
+      "duration_ms": 261250,
+      "name": "Unajua (feat. Wendy Kimani)",
+      "url": "https://open.spotify.com/track/243H8e9aTy851fjYiXc4k4"
+    },
+    {
+      "added_at": "2025-02-11 06:19:22",
+      "album": {
         "name": "Fine Wine (feat. King Promise & Joeboy)",
         "url": "https://open.spotify.com/album/3f6FbIilED8NakLgcWAhqi"
       },
@@ -1459,6 +1459,22 @@
       "duration_ms": 230400,
       "name": "Fine Wine (feat. King Promise & Joeboy)",
       "url": "https://open.spotify.com/track/3E3WIVDBt4rX4N2kRrwSah"
+    },
+    {
+      "added_at": "2025-02-11 06:19:22",
+      "album": {
+        "name": "Nadekezwa",
+        "url": "https://open.spotify.com/album/0JqFpB5rG1whb47fAL2yX6"
+      },
+      "artists": [
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "duration_ms": 228128,
+      "name": "Nadekezwa",
+      "url": "https://open.spotify.com/track/3hNmfiQKKwKYi7wKvcN3Lj"
     },
     {
       "added_at": "2025-02-11 06:19:22",
@@ -1495,22 +1511,6 @@
       "duration_ms": 382186,
       "name": "I'd Like",
       "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
-    },
-    {
-      "added_at": "2025-02-11 06:19:22",
-      "album": {
-        "name": "Nadekezwa",
-        "url": "https://open.spotify.com/album/0JqFpB5rG1whb47fAL2yX6"
-      },
-      "artists": [
-        {
-          "name": "Mbosso",
-          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
-        }
-      ],
-      "duration_ms": 228128,
-      "name": "Nadekezwa",
-      "url": "https://open.spotify.com/track/3hNmfiQKKwKYi7wKvcN3Lj"
     },
     {
       "added_at": "2025-02-11 06:19:22",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2025-02-11 06:19:22",
       "album": {
-        "name": "TRUE STORY",
-        "url": "https://open.spotify.com/album/4Pyg9xened5ecpzU6BVYzX"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Jiyane Tree-O",
-          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
-        }
-      ],
-      "duration_ms": 237516,
-      "name": "Baby Ngimanzi Wuthando",
-      "url": "https://open.spotify.com/track/5LRPsio6JkXoOXHNCavnvJ"
-    },
-    {
-      "added_at": "2025-02-11 06:19:22",
-      "album": {
         "name": "Radio & Weasel",
         "url": "https://open.spotify.com/album/2oiaqdD3XKbjEHHiE6pYtC"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 244453,
       "name": "Breath Away",
       "url": "https://open.spotify.com/track/4rfxJw6Ujuqo7swQfjlppQ"
+    },
+    {
+      "added_at": "2025-02-11 06:19:22",
+      "album": {
+        "name": "TRUE STORY",
+        "url": "https://open.spotify.com/album/4Pyg9xened5ecpzU6BVYzX"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Jiyane Tree-O",
+          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
+        }
+      ],
+      "duration_ms": 237516,
+      "name": "Baby Ngimanzi Wuthando",
+      "url": "https://open.spotify.com/track/5LRPsio6JkXoOXHNCavnvJ"
     },
     {
       "added_at": "2025-02-11 06:19:22",

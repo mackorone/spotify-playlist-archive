@@ -459,6 +459,28 @@
     },
     {
       "album": {
+        "name": "Estos \u00faltimos d\u00edas",
+        "url": "https://open.spotify.com/album/0wdRgWsWCwOgwGUaa8CBfF"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        },
+        {
+          "name": "Los Planetas",
+          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
+        }
+      ],
+      "date_added": "2025-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236611,
+      "name": "Estos \u00faltimos d\u00edas",
+      "url": "https://open.spotify.com/track/2ULVAkMEWBCc6e9P7yDX5s"
+    },
+    {
+      "album": {
         "name": "La Sintesis O'Konor",
         "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
       },

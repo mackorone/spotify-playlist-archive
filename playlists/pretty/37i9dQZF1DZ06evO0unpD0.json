@@ -1,12 +1,12 @@
 {
   "description": "This is Salif Keita. The essential tracks, all in one playlist.",
-  "num_followers": 12521,
+  "num_followers": 12527,
   "original_name": "This Is Salif Keita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+3PgAAAAADiZnlhq0/FLCLkfnyrMMZd",
+  "snapshot_id": "Z+8hAAAAAABDdVxdwr3wPgTHnAmhcG95",
   "tracks": [
     {
       "added_at": null,
@@ -767,18 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mansa Of Mali ... A Retrospective",
-        "url": "https://open.spotify.com/album/29ERIEUf3msDNaYcJ9Wk3a"
+        "name": "Mandekalou - Les voix mandingues",
+        "url": "https://open.spotify.com/album/32wkMhaWqwSRcjk79AoTwZ"
       },
       "artists": [
         {
           "name": "Salif Keita",
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        },
+        {
+          "name": "Kemo Kouyat\u00e9",
+          "url": "https://open.spotify.com/artist/1rJGYz9Kvl5gsyoQHyGZTR"
         }
       ],
-      "duration_ms": 302840,
-      "name": "Djembe",
-      "url": "https://open.spotify.com/track/30102u9oWhTedLkAY26isZ"
+      "duration_ms": 488733,
+      "name": "Djigui",
+      "url": "https://open.spotify.com/track/5OU6dx84BEw8OATPgC9kVm"
     },
     {
       "added_at": null,
@@ -799,22 +803,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mandekalou - Les voix mandingues",
-        "url": "https://open.spotify.com/album/32wkMhaWqwSRcjk79AoTwZ"
+        "name": "The Mansa Of Mali ... A Retrospective",
+        "url": "https://open.spotify.com/album/29ERIEUf3msDNaYcJ9Wk3a"
       },
       "artists": [
         {
           "name": "Salif Keita",
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        },
-        {
-          "name": "Kemo Kouyat\u00e9",
-          "url": "https://open.spotify.com/artist/1rJGYz9Kvl5gsyoQHyGZTR"
         }
       ],
-      "duration_ms": 488733,
-      "name": "Djigui",
-      "url": "https://open.spotify.com/track/5OU6dx84BEw8OATPgC9kVm"
+      "duration_ms": 302840,
+      "name": "Djembe",
+      "url": "https://open.spotify.com/track/30102u9oWhTedLkAY26isZ"
     },
     {
       "added_at": null,

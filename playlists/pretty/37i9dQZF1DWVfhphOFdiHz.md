@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Bops and LGBTQIA+ artists only\. Cover: Lucy Dacus
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,292 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,294 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 6 | [Lighter](https://open.spotify.com/track/7ljOGJKQLO3bdsyrbDHTsj) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Big After I Die](https://open.spotify.com/album/65wi9EEeBdOlzjWPxQIG2D) | 4:06 |
 | 7 | [Fantastic \(from the series Arcane League of Legends\)](https://open.spotify.com/track/071uK6V3dKj3BMNNzTEyRu) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 3:04 |
 | 8 | [This Alive](https://open.spotify.com/track/5ZETN3H7ZSbWuYId7djFfz) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [This Alive](https://open.spotify.com/album/4tgz2Bilm2EE2mMHjoXV7I) | 3:45 |
-| 9 | [JEANS \(fall on my knees\)](https://open.spotify.com/track/4HQRpId1zdfYT9GaZyd58g) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [JEANS \(fall on my knees\)](https://open.spotify.com/album/56wlH7RJiq4cy2HiVVz16g) | 2:58 |
+| 9 | [Jeans \(fall on my knees\)](https://open.spotify.com/track/4HQRpId1zdfYT9GaZyd58g) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Jeans \(fall on my knees\)](https://open.spotify.com/album/56wlH7RJiq4cy2HiVVz16g) | 2:58 |
 | 10 | [Feel Better](https://open.spotify.com/track/0StzhtAAdEIAcAMwDWY0kV) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 4:23 |
 | 11 | [Wasted Years](https://open.spotify.com/track/4SSajHadGx9jGLEP6Ex1FM) | [Bunny White](https://open.spotify.com/artist/24AEFLVkeESvvNH6w3B93p) | [Wasted Years](https://open.spotify.com/album/1q79vL6yc6Eyx47b2flsvY) | 3:44 |
 | 12 | [THEY!](https://open.spotify.com/track/2CnNuBOYqMffYcNmV3l4QA) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [THEY!](https://open.spotify.com/album/7HYwDvUWJOrJH5eJzUmGv3) | 3:20 |

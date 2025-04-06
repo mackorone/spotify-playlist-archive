@@ -4,7 +4,7 @@
 
 > wo hen lei \(i'm very tired\)
 
-394 songs - 21 hr 27 min
+395 songs - 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Good Goodbye](https://open.spotify.com/track/44YADxNo3TdpkwEr5DvV2B) | [Joanna Dong](https://open.spotify.com/artist/6uxDuPWsZwqC5tLhmoaAFZ) | [A Good Goodbye](https://open.spotify.com/album/6RG4OSNR3OfIj9R3GiHWiZ) | 3:33 | 2022-06-03 | 2022-07-29 |
 | [A Letter To My Best Friend](https://open.spotify.com/track/5LigKEFa9fmv5wU59gqwfQ) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [A Letter To My Best Friend](https://open.spotify.com/album/3D6nIbAy9AAno9QemT8arp) | 3:53 | 2022-06-10 | 2022-06-17 |
 | [A Little Bit Patient](https://open.spotify.com/track/13eVfN1euUur28OoD5s86X) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [A Little Bit Patient](https://open.spotify.com/album/5KQKBocUoSXhXpqHVvUNzJ) | 2:58 | 2022-05-27 | 2022-07-29 |
+| [Adakah Kau Mendengar?](https://open.spotify.com/track/1fCVK4BOa54cOSufmipxjw) | [ALYPH](https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj) | [Adakah Kau Mendengar?](https://open.spotify.com/album/6X9RuHYpzIcDRcOXGoUXCr) | 3:41 | 2024-08-13 |  |
 | [Afterglow](https://open.spotify.com/track/38wNASXJl6tNRoVFpnctt9) | [Oakë](https://open.spotify.com/artist/5FFEE3urupCaWwOzfAfV4I) | [Afterglow](https://open.spotify.com/album/44WOydQRUhz1JihfRZT6Zi) | 3:29 | 2023-02-21 | 2023-04-11 |
 | [All My Friends Are Fallin' In Love](https://open.spotify.com/track/0tIWk4w1AfinVnGxiaSz5d) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [All My Friends Are Fallin' In Love](https://open.spotify.com/album/75G2tuAvS5Uugrb0TLNTT3) | 3:17 | 2022-07-10 | 2023-12-30 |
 | [All That I Need](https://open.spotify.com/track/7ziBvMT017ycfAxit7j7kf) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [All That I Need](https://open.spotify.com/album/2qfFZJTEuNg6YSpNzoUiIc) | 3:41 | 2022-06-25 | 2022-08-19 |
@@ -388,7 +389,7 @@
 | [Wicked](https://open.spotify.com/track/2Cr2ejswUKJYXeSdJGbOgO) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [A Sea That Never Stops](https://open.spotify.com/album/0HzLcxaTQkEdWSEraRAvKZ) | 3:09 | 2022-06-25 | 2022-07-04 |
 | [Wild Child](https://open.spotify.com/track/0ncdLrRwDcIULjIwyrOoB3) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Wild Child](https://open.spotify.com/album/6IAjg2q4PYkbq6ZvnATP29) | 3:40 | 2022-09-09 | 2022-10-28 |
 | [Wine \(feat\. Charlie Lim\)](https://open.spotify.com/track/6eK9a7pTualI1kapaszaln) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn), [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ) | [fragments](https://open.spotify.com/album/1jAlTiGZA5Hnijw8RpsiB4) | 5:43 | 2022-05-27 | 2022-07-16 |
-| [without me \(sera\)](https://open.spotify.com/track/3Fo63qSrhe1mJNdn9m33LW) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [without me \(sera\)](https://open.spotify.com/album/6tuz5NorXINANet6zv1qM1) | 3:39 | 2023-10-16 |  |
+| [without me \(sera\)](https://open.spotify.com/track/3Fo63qSrhe1mJNdn9m33LW) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [without me \(sera\)](https://open.spotify.com/album/6tuz5NorXINANet6zv1qM1) | 3:39 | 2023-10-16 | 2025-04-06 |
 | [without you](https://open.spotify.com/track/2OLV8r3uk30q6taFSWy6xE) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [without you](https://open.spotify.com/album/0Z4zqTEb5LG1fzEGRI7HMS) | 3:26 | 2024-08-13 | 2024-09-02 |
 | [Won't You Come Around](https://open.spotify.com/track/14PvnvHkccoeZREB0mF9Oy) | [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ), [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [Won't You Come Around](https://open.spotify.com/album/1zoFo9Eyanvhn6en0YprsB) | 3:17 | 2022-05-27 | 2022-07-26 |
 | [would you](https://open.spotify.com/track/74aC7va16YXyhtrreJVeS6) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY) | [would you](https://open.spotify.com/album/6jADu0q30MfPHuofzAXnky) | 2:54 | 2022-05-27 | 2022-07-29 |

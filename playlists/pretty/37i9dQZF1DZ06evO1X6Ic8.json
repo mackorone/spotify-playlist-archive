@@ -1,12 +1,12 @@
 {
   "description": "This is The 1975. The essential tracks, all in one playlist.",
-  "num_followers": 802230,
+  "num_followers": 802287,
   "original_name": "This Is The 1975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+3PgAAAAACRIIGwTWz6wLScUHMcOPl9",
+  "snapshot_id": "Z+8hAAAAAAA51/sUCP/jtlajwzKY5tiM",
   "tracks": [
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 291440,
-      "name": "You (Live From The AO Arena, Manchester, 17.02.24)",
-      "url": "https://open.spotify.com/track/7rh90hM86pRt4vavJb6Mnu"
+      "duration_ms": 47538,
+      "name": "An Encounter (Live From The AO Arena, Manchester, 17.02.24)",
+      "url": "https://open.spotify.com/track/2fsNOvKiVlGWRhL0CA0uXR"
     },
     {
       "added_at": null,
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 47538,
-      "name": "An Encounter (Live From The AO Arena, Manchester, 17.02.24)",
-      "url": "https://open.spotify.com/track/2fsNOvKiVlGWRhL0CA0uXR"
+      "duration_ms": 291440,
+      "name": "You (Live From The AO Arena, Manchester, 17.02.24)",
+      "url": "https://open.spotify.com/track/7rh90hM86pRt4vavJb6Mnu"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
       "duration_ms": 240109,
       "name": "So Far (It's Alright)",
       "url": "https://open.spotify.com/track/0iFktIoaM3qNeguIibIEyB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The 1975 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 221392,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/3W4xpnA5BVg9qduchV1mQy"
     }
   ],
   "unique_name": "This Is The 1975",

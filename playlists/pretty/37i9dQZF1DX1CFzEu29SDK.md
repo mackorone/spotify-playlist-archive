@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CFzEu29SDK.md) - [plain]
 
 > <a href="spotify:artist:7kNqXtgeIwFtelmRjWv205">John Summit</a>'s favorite tracks\. Curated by John Summit\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,035 likes - 60 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,044 likes - 60 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CFzEu29SDK.md) - [plain]
 | 41 | [SeeSaw](https://open.spotify.com/track/6N9NpkIKu7SLAjZd0IewoV) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:28 |
 | 42 | [Mad](https://open.spotify.com/track/1erTw4ZJhfiBjXlGZoVslq) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Mad](https://open.spotify.com/album/68elYkicxZmVqvWEKorroC) | 6:35 |
 | 43 | [Most Wanted](https://open.spotify.com/track/3nhuPms9GiJjt9XXgA3wx0) | [Braydon Terzo](https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq) | [Most Wanted](https://open.spotify.com/album/3j7mtMgbnLhSpQjG2Hy1Te) | 3:23 |
-| 44 | [D.A.N.C.E](https://open.spotify.com/track/2mnQZtS74Agt6mJPv5eqzY) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [D.A.N.C.E](https://open.spotify.com/album/4lT8F3ZtFCmtsiY206o13Y) | 2:37 |
+| 44 | [D.A.N.C.E](https://open.spotify.com/track/2mnQZtS74Agt6mJPv5eqzY) | [Illyus Barrientos ](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [D.A.N.C.E](https://open.spotify.com/album/4lT8F3ZtFCmtsiY206o13Y) | 2:37 |
 | 45 | [Arachnids](https://open.spotify.com/track/4j3EJMATYxJ4ftJbVeAFWu) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Arachnids](https://open.spotify.com/album/3CFGpQT03aFenbXwHdnusQ) | 4:11 |
 | 46 | [Who's That Girl?](https://open.spotify.com/track/5QvM8VE7pqBn73Av704IkA) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Who’s That Girl?](https://open.spotify.com/album/0AdDLWvniz4WSAOAwuMzld) | 3:44 |
 | 47 | [Rattlesnake](https://open.spotify.com/track/1M9VKp4ztBpgT0H2asoY6b) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Rattlesnake](https://open.spotify.com/album/3fziyDAl65gYPtuQVS5r2X) | 2:56 |

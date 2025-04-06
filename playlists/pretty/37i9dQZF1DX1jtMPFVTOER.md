@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,100 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,111 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 23 | [No Self Control \- The Breakglass Version](https://open.spotify.com/track/5sB5IzZu7dsI1GAX2c6QHR) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [No Cosmos](https://open.spotify.com/artist/57mTtmL6bbLx7YD2Ti3pq9), [Ivy Boxall](https://open.spotify.com/artist/04NnyiPqVcXFLXsUfIDf7H) | [No Self Control \(The Breakglass Series: Part 3\)](https://open.spotify.com/album/6KSessSv718noSZBtjBCa3) | 5:52 |
 | 24 | [Won't Change Me](https://open.spotify.com/track/5u7NLofbw8MQc3lpM0tRyu) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [Gravity Pulls You Home](https://open.spotify.com/album/35sSXcHyTzb1LOQIQIcqIz) | 3:32 |
 | 25 | [AI Says I Love You](https://open.spotify.com/track/6S0nfnBby9tBiwBJ02Dbfj) | [Gideon King & City Blog](https://open.spotify.com/artist/33fXxnMHm3wCJk6p1sje7i) | [AI Says I Love You](https://open.spotify.com/album/7g0E5vzbnVQQ9h3u0B4AQa) | 3:09 |
-| 26 | [You, Me and the Devil](https://open.spotify.com/track/1zk2rhytZvbEx37kommEOP) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Emmi](https://open.spotify.com/artist/3eSiyfI9xykA5QtgcLS43b) | [You, Me and the Devil](https://open.spotify.com/album/7rpjY0KQA2OKQLQZzqGVW2) | 2:13 |
+| 26 | [You, Me, and the Devil](https://open.spotify.com/track/1zk2rhytZvbEx37kommEOP) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Emmi](https://open.spotify.com/artist/3eSiyfI9xykA5QtgcLS43b) | [You, Me, and the Devil](https://open.spotify.com/album/7rpjY0KQA2OKQLQZzqGVW2) | 2:13 |
 | 27 | [Neighbourhood](https://open.spotify.com/track/6W69TG13nTxt5owgxYUZuq) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [Neighbourhood](https://open.spotify.com/album/4jHBij1EVtJsB9ZT6l28VB) | 2:44 |
 | 28 | [Mood Swing](https://open.spotify.com/track/6CdHKSFDCkAbbDzZvKZljV) | [RMB Justize](https://open.spotify.com/artist/2xLhxXgR236ZtWjZOfa0Kd), [Eric Diamond](https://open.spotify.com/artist/7uLxDJELvSU1oFe1V7jLhW), [Ski Beatz](https://open.spotify.com/artist/4icNl0ZgMFsvyMb7D0wlAF), [Saxl Rose](https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq) | [Mood Swing](https://open.spotify.com/album/1uWXyAqyQBJUQi9N3HjU55) | 2:50 |
 | 29 | [feel](https://open.spotify.com/track/0FpWFfW0yqpCIfgw4QCuuL) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [feel / i don't know why](https://open.spotify.com/album/54DPVTO675Qnb60v5tmLg0) | 2:10 |

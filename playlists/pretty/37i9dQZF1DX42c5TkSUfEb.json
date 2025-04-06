@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 795649,
+  "num_followers": 795679,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-04-03 22:00:50",
       "album": {
-        "name": "Tracy Chapman",
-        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
-      },
-      "artists": [
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        }
-      ],
-      "duration_ms": 296800,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
-    },
-    {
-      "added_at": "2025-04-03 22:00:50",
-      "album": {
         "name": "Nimrod",
         "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 153466,
       "name": "Good Riddance (Time of Your Life)",
       "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
+    },
+    {
+      "added_at": "2025-04-03 22:00:50",
+      "album": {
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "duration_ms": 296800,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
     },
     {
       "added_at": "2025-04-03 22:00:50",
@@ -191,26 +191,6 @@
     {
       "added_at": "2025-04-03 22:00:50",
       "album": {
-        "name": "Scared Of Loving You",
-        "url": "https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        }
-      ],
-      "duration_ms": 110221,
-      "name": "Scared Of Loving You",
-      "url": "https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct"
-    },
-    {
-      "added_at": "2025-04-03 22:00:50",
-      "album": {
         "name": "Black Friday",
         "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
       },
@@ -223,6 +203,22 @@
       "duration_ms": 221510,
       "name": "Black Friday",
       "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
+    },
+    {
+      "added_at": "2025-04-03 22:00:50",
+      "album": {
+        "name": "do you think you could love me?",
+        "url": "https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "duration_ms": 236140,
+      "name": "do you think you could love me?",
+      "url": "https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS"
     },
     {
       "added_at": "2025-04-03 22:00:50",
@@ -243,18 +239,22 @@
     {
       "added_at": "2025-04-03 22:00:50",
       "album": {
-        "name": "do you think you could love me?",
-        "url": "https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp"
+        "name": "Scared Of Loving You",
+        "url": "https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt"
       },
       "artists": [
         {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
         }
       ],
-      "duration_ms": 236140,
-      "name": "do you think you could love me?",
-      "url": "https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS"
+      "duration_ms": 110221,
+      "name": "Scared Of Loving You",
+      "url": "https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct"
     },
     {
       "added_at": "2025-04-03 22:00:50",
@@ -419,6 +419,22 @@
     {
       "added_at": "2025-04-03 22:00:50",
       "album": {
+        "name": "Old Man",
+        "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 207420,
+      "name": "Old Man",
+      "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
+    },
+    {
+      "added_at": "2025-04-03 22:00:50",
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 264826,
       "name": "Jimmy",
       "url": "https://open.spotify.com/track/6Zw0NBdfr1VlVJjDRFwUe1"
-    },
-    {
-      "added_at": "2025-04-03 22:00:50",
-      "album": {
-        "name": "Old Man",
-        "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 207420,
-      "name": "Old Man",
-      "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
     },
     {
       "added_at": "2025-04-03 22:00:50",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-04-03 22:00:50",
       "album": {
-        "name": "You're All I Got / So Long",
-        "url": "https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 202865,
-      "name": "You're All I Got",
-      "url": "https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88"
-    },
-    {
-      "added_at": "2025-04-03 22:00:50",
-      "album": {
         "name": "Pined For You My Whole Life",
         "url": "https://open.spotify.com/album/47CrI5tzjO4ULXAgf8irey"
       },
@@ -555,18 +539,34 @@
     {
       "added_at": "2025-04-03 22:00:50",
       "album": {
-        "name": "La Biographie de Luka Philipsen",
-        "url": "https://open.spotify.com/album/02o4ipeZALU4EG2RX6d4Ip"
+        "name": "You're All I Got / So Long",
+        "url": "https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz"
       },
       "artists": [
         {
-          "name": "Keren Ann",
-          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 178160,
-      "name": "Jardin d'hiver",
-      "url": "https://open.spotify.com/track/45gpJxviKRBsQo1lDZ03Xf"
+      "duration_ms": 202865,
+      "name": "You're All I Got",
+      "url": "https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88"
+    },
+    {
+      "added_at": "2025-04-03 22:00:50",
+      "album": {
+        "name": "Yael Na\u00efm",
+        "url": "https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7"
+      },
+      "artists": [
+        {
+          "name": "Yael Naim",
+          "url": "https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w"
+        }
+      ],
+      "duration_ms": 225106,
+      "name": "New Soul",
+      "url": "https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm"
     },
     {
       "added_at": "2025-04-03 22:00:50",
@@ -587,18 +587,18 @@
     {
       "added_at": "2025-04-03 22:00:50",
       "album": {
-        "name": "Yael Na\u00efm",
-        "url": "https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7"
+        "name": "La Biographie de Luka Philipsen",
+        "url": "https://open.spotify.com/album/02o4ipeZALU4EG2RX6d4Ip"
       },
       "artists": [
         {
-          "name": "Yael Naim",
-          "url": "https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w"
+          "name": "Keren Ann",
+          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
         }
       ],
-      "duration_ms": 225106,
-      "name": "New Soul",
-      "url": "https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm"
+      "duration_ms": 178160,
+      "name": "Jardin d'hiver",
+      "url": "https://open.spotify.com/track/45gpJxviKRBsQo1lDZ03Xf"
     },
     {
       "added_at": "2025-04-03 22:00:50",
@@ -783,6 +783,22 @@
     {
       "added_at": "2025-04-03 22:00:50",
       "album": {
+        "name": "Falling Into Place",
+        "url": "https://open.spotify.com/album/6kiNbfqDF1N0OVOc58W2EQ"
+      },
+      "artists": [
+        {
+          "name": "Aqyila",
+          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
+        }
+      ],
+      "duration_ms": 144513,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4xlZOKbwM8kHxIjjjOqr4L"
+    },
+    {
+      "added_at": "2025-04-03 22:00:50",
+      "album": {
         "name": "Aliocha Schneider",
         "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
       },
@@ -835,6 +851,22 @@
     {
       "added_at": "2025-04-03 22:00:50",
       "album": {
+        "name": "I Know What I Want",
+        "url": "https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "duration_ms": 230260,
+      "name": "5 More Minutes",
+      "url": "https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd"
+    },
+    {
+      "added_at": "2025-04-03 22:00:50",
+      "album": {
         "name": "Mama's Boy",
         "url": "https://open.spotify.com/album/3NVUYm7edVbzZoDGsusFg9"
       },
@@ -863,22 +895,6 @@
       "duration_ms": 248253,
       "name": "A Trick of the Light",
       "url": "https://open.spotify.com/track/1rCPg5GOtes0FIo1BzgvUi"
-    },
-    {
-      "added_at": "2025-04-03 22:00:50",
-      "album": {
-        "name": "Falling Into Place",
-        "url": "https://open.spotify.com/album/6kiNbfqDF1N0OVOc58W2EQ"
-      },
-      "artists": [
-        {
-          "name": "Aqyila",
-          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
-        }
-      ],
-      "duration_ms": 144513,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/4xlZOKbwM8kHxIjjjOqr4L"
     },
     {
       "added_at": "2025-04-03 22:00:50",
@@ -931,6 +947,22 @@
     {
       "added_at": "2025-04-03 22:00:50",
       "album": {
+        "name": "Making Time",
+        "url": "https://open.spotify.com/album/6ITNDvsL7pS6nv93kwHgwq"
+      },
+      "artists": [
+        {
+          "name": "Jamie Woon",
+          "url": "https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "Sharpness",
+      "url": "https://open.spotify.com/track/2dk5HQv2V6hEVeGGlPvCFA"
+    },
+    {
+      "added_at": "2025-04-03 22:00:50",
+      "album": {
         "name": "Sahar",
         "url": "https://open.spotify.com/album/2MsR68gI6TNZSztsRYgs6p"
       },
@@ -947,22 +979,6 @@
       "duration_ms": 263653,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/6g7cJdDNjCDgqcpVGLzYhh"
-    },
-    {
-      "added_at": "2025-04-03 22:00:50",
-      "album": {
-        "name": "Making Time",
-        "url": "https://open.spotify.com/album/6ITNDvsL7pS6nv93kwHgwq"
-      },
-      "artists": [
-        {
-          "name": "Jamie Woon",
-          "url": "https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL"
-        }
-      ],
-      "duration_ms": 207133,
-      "name": "Sharpness",
-      "url": "https://open.spotify.com/track/2dk5HQv2V6hEVeGGlPvCFA"
     },
     {
       "added_at": "2025-04-03 22:00:50",
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2025-04-03 22:00:50",
       "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 228760,
-      "name": "Black Dog",
-      "url": "https://open.spotify.com/track/37pShAS4iuRXJeRAa9k6xw"
-    },
-    {
-      "added_at": "2025-04-03 22:00:50",
-      "album": {
         "name": "Colour Me Free",
         "url": "https://open.spotify.com/album/3OOpBySVB1weJ90qyLxFKL"
       },
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2025-04-03 22:00:50",
       "album": {
-        "name": "Toujours des fleurs",
-        "url": "https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy"
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
       "artists": [
         {
-          "name": "Janie",
-          "url": "https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 281757,
-      "name": "Mon idole",
-      "url": "https://open.spotify.com/track/7hw9fHpl79i897B0wOmor8"
+      "duration_ms": 228760,
+      "name": "Black Dog",
+      "url": "https://open.spotify.com/track/37pShAS4iuRXJeRAa9k6xw"
     },
     {
       "added_at": "2025-04-03 22:00:50",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2025-04-03 22:00:50",
       "album": {
-        "name": "Not Feeling Up",
-        "url": "https://open.spotify.com/album/3YYy7afHR8wnhEHfuuEAId"
+        "name": "Toujours des fleurs",
+        "url": "https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy"
       },
       "artists": [
         {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+          "name": "Janie",
+          "url": "https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU"
         }
       ],
-      "duration_ms": 182383,
-      "name": "Not Feeling Up",
-      "url": "https://open.spotify.com/track/5RclCv6JSxogJpe4E662cP"
+      "duration_ms": 281757,
+      "name": "Mon idole",
+      "url": "https://open.spotify.com/track/7hw9fHpl79i897B0wOmor8"
     },
     {
       "added_at": "2025-04-03 22:00:50",
@@ -1147,6 +1147,22 @@
       "duration_ms": 180973,
       "name": "You",
       "url": "https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G"
+    },
+    {
+      "added_at": "2025-04-03 22:00:50",
+      "album": {
+        "name": "Not Feeling Up",
+        "url": "https://open.spotify.com/album/3YYy7afHR8wnhEHfuuEAId"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 182383,
+      "name": "Not Feeling Up",
+      "url": "https://open.spotify.com/track/5RclCv6JSxogJpe4E662cP"
     },
     {
       "added_at": "2025-04-03 22:00:50",
@@ -1215,6 +1231,22 @@
     {
       "added_at": "2025-04-03 22:00:50",
       "album": {
+        "name": "Earthstar Mountain",
+        "url": "https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 239895,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/04TCm13pPRL7HqKdWc8Pf6"
+    },
+    {
+      "added_at": "2025-04-03 22:00:50",
+      "album": {
         "name": "Girls",
         "url": "https://open.spotify.com/album/6dXVpOLGM4QJPLCPiY3QLG"
       },
@@ -1267,22 +1299,6 @@
     {
       "added_at": "2025-04-03 22:00:50",
       "album": {
-        "name": "Earthstar Mountain",
-        "url": "https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 239895,
-      "name": "Mountain",
-      "url": "https://open.spotify.com/track/04TCm13pPRL7HqKdWc8Pf6"
-    },
-    {
-      "added_at": "2025-04-03 22:00:50",
-      "album": {
         "name": "Beautiful Thingz",
         "url": "https://open.spotify.com/album/0FUZCikaqg8mlA4MvRcPCZ"
       },
@@ -1295,6 +1311,22 @@
       "duration_ms": 208031,
       "name": "Beautiful Thingz",
       "url": "https://open.spotify.com/track/1y4h1ZxF2sI36abMmFjGiH"
+    },
+    {
+      "added_at": "2025-04-03 22:00:50",
+      "album": {
+        "name": "Qu'en restera-t-il ?",
+        "url": "https://open.spotify.com/album/0MlkTeAZHpHembBGF6ga55"
+      },
+      "artists": [
+        {
+          "name": "Tim Dup",
+          "url": "https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Une autre histoire d'amour",
+      "url": "https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ"
     },
     {
       "added_at": "2025-04-03 22:00:50",
@@ -1315,18 +1347,18 @@
     {
       "added_at": "2025-04-03 22:00:50",
       "album": {
-        "name": "Qu'en restera-t-il ?",
-        "url": "https://open.spotify.com/album/0MlkTeAZHpHembBGF6ga55"
+        "name": "Two Lives",
+        "url": "https://open.spotify.com/album/2iRVSj9OgvwzDVPGoYoG2U"
       },
       "artists": [
         {
-          "name": "Tim Dup",
-          "url": "https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE"
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
         }
       ],
-      "duration_ms": 252413,
-      "name": "Une autre histoire d'amour",
-      "url": "https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ"
+      "duration_ms": 201942,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/7AnKq274KBoXdauPkKqKBk"
     },
     {
       "added_at": "2025-04-03 22:00:50",
@@ -1363,6 +1395,22 @@
       "duration_ms": 219466,
       "name": "Poison & Wine",
       "url": "https://open.spotify.com/track/5eAZSmWJjKNnMposeGbcCh"
+    },
+    {
+      "added_at": "2025-04-03 22:00:50",
+      "album": {
+        "name": "Jellyfish",
+        "url": "https://open.spotify.com/album/5kq0opF9a7h4SFUurruWVE"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "duration_ms": 175738,
+      "name": "Jellyfish",
+      "url": "https://open.spotify.com/track/53tsjlGo2HHmaxDKlXB98N"
     },
     {
       "added_at": "2025-04-03 22:00:50",
@@ -1451,6 +1499,22 @@
     {
       "added_at": "2025-04-03 22:00:50",
       "album": {
+        "name": "Free as a Bird",
+        "url": "https://open.spotify.com/album/6PE1Bl4C9sqAQdlmm5DrB6"
+      },
+      "artists": [
+        {
+          "name": "Soom T",
+          "url": "https://open.spotify.com/artist/0Rb6PZXrcxvzixAwZwFmMu"
+        }
+      ],
+      "duration_ms": 209120,
+      "name": "Free as a Bird",
+      "url": "https://open.spotify.com/track/07miJxopLxBnXuMGyOSLXv"
+    },
+    {
+      "added_at": "2025-04-03 22:00:50",
+      "album": {
         "name": "Elle laisse (Radio Edit)",
         "url": "https://open.spotify.com/album/2iFptJp3EGJagpx0KdWlcr"
       },
@@ -1479,22 +1543,6 @@
       "duration_ms": 228066,
       "name": "Tableau",
       "url": "https://open.spotify.com/track/6d7Nhnnd68Pzdf6Pr476BT"
-    },
-    {
-      "added_at": "2025-04-03 22:00:50",
-      "album": {
-        "name": "Free as a Bird",
-        "url": "https://open.spotify.com/album/6PE1Bl4C9sqAQdlmm5DrB6"
-      },
-      "artists": [
-        {
-          "name": "Soom T",
-          "url": "https://open.spotify.com/artist/0Rb6PZXrcxvzixAwZwFmMu"
-        }
-      ],
-      "duration_ms": 209120,
-      "name": "Free as a Bird",
-      "url": "https://open.spotify.com/track/07miJxopLxBnXuMGyOSLXv"
     },
     {
       "added_at": "2025-04-03 22:00:50",
@@ -1611,54 +1659,6 @@
       "duration_ms": 208010,
       "name": "Future Ghosts",
       "url": "https://open.spotify.com/track/4qAgGrSjZGg1tpSk0wEslY"
-    },
-    {
-      "added_at": "2025-04-03 22:00:50",
-      "album": {
-        "name": "My Favourite Faded Fantasy",
-        "url": "https://open.spotify.com/album/1dMqVfKYgHAjG76ZZufxSW"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 371797,
-      "name": "My Favourite Faded Fantasy",
-      "url": "https://open.spotify.com/track/7tDS5ATQal5W6BqH2w9uS3"
-    },
-    {
-      "added_at": "2025-04-03 22:00:50",
-      "album": {
-        "name": "A Quiet Voice",
-        "url": "https://open.spotify.com/album/6HC0aY6PbUF2zSMMD31xSt"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 282812,
-      "name": "A Quiet Voice",
-      "url": "https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3"
-    },
-    {
-      "added_at": "2025-04-03 22:00:50",
-      "album": {
-        "name": "Things I've Seen",
-        "url": "https://open.spotify.com/album/2ptUS7vVvBKOD5PUSXZsGi"
-      },
-      "artists": [
-        {
-          "name": "Alex Hepburn",
-          "url": "https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO"
-        }
-      ],
-      "duration_ms": 157506,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/2bntXLsnPeFoP4tC6IZGEK"
     }
   ],
   "unique_name": "Au calme",

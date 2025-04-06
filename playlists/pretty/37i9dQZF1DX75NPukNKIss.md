@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75NPukNKIss.md) - [plain]
 
 > Way 2 Slizzy\. Click into the feed to learn all about the movement\. Cover: Playboi Carti
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,073 likes - 94 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,176 likes - 94 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

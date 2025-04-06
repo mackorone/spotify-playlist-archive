@@ -4,7 +4,7 @@
 
 > This is Sleep Token\. The essential tracks, all in one playlist.
 
-32 songs - 2 hr 34 min
+33 songs - 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Aqua Regia](https://open.spotify.com/track/5ub6Cb5yKmgGGwjvqZM1gI) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 3:56 | 2025-03-21 |  |
 | [Atlantic](https://open.spotify.com/track/0asMwoxaKllA4Cm791LGOW) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 4:53 | 2025-03-21 |  |
 | [Calcutta](https://open.spotify.com/track/55H5OIdnR0H5MTsWfTP63E) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Two](https://open.spotify.com/album/0uJFMTUwVP3tunKmWC8INs) | 6:53 | 2025-03-21 |  |
+| [Caramel](https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Caramel](https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m) | 4:50 | 2025-04-06 |  |
 | [Dark Signs](https://open.spotify.com/track/39I8byKcHBzTQbtbxTBSM7) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Sundowning](https://open.spotify.com/album/5XWsBMTe4JPtH4qmvYUm86) | 4:28 | 2025-03-21 |  |
 | [Emergence](https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Emergence](https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH) | 6:26 | 2025-03-21 |  |
 | [Fall For Me](https://open.spotify.com/track/3UwtS13MeMT2Nu2rRwa50I) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 2:26 | 2025-03-21 |  |
@@ -21,7 +22,7 @@
 | [Hey Ya](https://open.spotify.com/track/3DxDNZNMA2H9hnWeblvRgL) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Hey Ya](https://open.spotify.com/album/1UcJBnDdk4djRCrh1Rvaaq) | 3:08 | 2025-03-21 |  |
 | [Higher](https://open.spotify.com/track/2S4q08im3SvocGZulxj2cP) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Sundowning](https://open.spotify.com/album/5XWsBMTe4JPtH4qmvYUm86) | 5:21 | 2025-03-21 |  |
 | [Hypnosis](https://open.spotify.com/track/2UH4BOPtTsRVQBy7abPdat) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 5:35 | 2025-03-21 |  |
-| [I Wanna Dance With Somebody \- from the room below](https://open.spotify.com/track/6YnB0wTkXJOdn2m41yTiXD) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Sundowning \(Deluxe\)](https://open.spotify.com/album/21XQQZZq1cO45mJ2U3vVdp) | 2:49 | 2025-03-21 |  |
+| [I Wanna Dance With Somebody \- from the room below](https://open.spotify.com/track/6YnB0wTkXJOdn2m41yTiXD) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Sundowning \(Deluxe\)](https://open.spotify.com/album/21XQQZZq1cO45mJ2U3vVdp) | 2:49 | 2025-03-21 | 2025-04-06 |
 | [Is It Really You?](https://open.spotify.com/track/7kjcdiknoCUe0OeE3BIw9J) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6), [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Is It Really You?](https://open.spotify.com/album/30KxStn2hzuDWJyNqLa5N1) | 4:39 | 2025-03-21 |  |
 | [Jaws](https://open.spotify.com/track/2GPdGwBnFfruzFbJPd7uQS) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Jaws](https://open.spotify.com/album/2DiX65iiou5VYicpiCnJet) | 5:55 | 2025-03-21 |  |
 | [Jericho](https://open.spotify.com/track/1jTutTLIxJ46mtNsrvWLyT) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Two](https://open.spotify.com/album/0uJFMTUwVP3tunKmWC8INs) | 5:17 | 2025-03-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Bnkr44
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,987 likes - 140 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,984 likes - 140 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

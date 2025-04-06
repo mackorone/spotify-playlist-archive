@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-322 songs - 18 hr 28 min
+323 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Kontakt](https://open.spotify.com/track/0JNzY6AqndqZS9I3q2iHYg) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [Kontakt](https://open.spotify.com/album/1gFh0wZIlYt6R3AeBnDOqL) | 2:44 | 2024-06-27 | 2024-08-09 |
 | [Korset](https://open.spotify.com/track/41bitrPNojeptAll8T0AQj) | [Staffan Hellstrand](https://open.spotify.com/artist/0smhbmfhr1L1vFZskdZIsl) | [Korset](https://open.spotify.com/album/4j0rXpsNxmIEKq5Ln2qHCH) | 3:09 | 2025-04-03 |  |
 | [Kyrie Eleison](https://open.spotify.com/track/6mCYHkyrrLd5bjgOytKHK2) | [Erlend Ropstad](https://open.spotify.com/artist/5DEpvCUOqEagldzoh25m1t), [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Kyrie Eleison](https://open.spotify.com/album/2oZbeImzrZwJgFqUfylFJA) | 4:42 | 2024-09-19 | 2024-12-13 |
-| [Känner ni igen er](https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2) | [Känner ni igen er](https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj) | 4:39 | 2025-03-20 |  |
+| [Känner ni igen er](https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2) | [Känner ni igen er](https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj) | 4:39 | 2025-03-20 | 2025-04-06 |
 | [Känns så längesen](https://open.spotify.com/track/0PNPkWzkRVAEdXDpP1Efkc) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT), [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Känns så längesen](https://open.spotify.com/album/5bAk5VXaU75Cy3J1TlTjw2) | 3:03 | 2024-07-25 |  |
 | [Lagt kort ligger](https://open.spotify.com/track/4f0EwvoGMtj1IQZ4bwTLWF) | [Benny Anderssons Orkester](https://open.spotify.com/artist/5KcJSAFLAEtpCkK5EI0KLS), [Helen Sjöholm](https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx) | [Lagt kort ligger](https://open.spotify.com/album/5TEnh1yxwpajxln13n15Qd) | 3:01 | 2024-09-06 | 2024-10-12 |
 | [Leave the Light On](https://open.spotify.com/track/02VIYx4nxhe8wdmOx79eKu) | [Mattias Tell](https://open.spotify.com/artist/4ED8OpMu5pxWULUB3MpWj5) | [Leave the Light On](https://open.spotify.com/album/5qqzcP5RWRIM73HtHCeVM2) | 3:54 | 2024-08-29 | 2024-09-13 |
@@ -168,6 +168,7 @@
 | [Lily Of The Valley](https://open.spotify.com/track/39xdvtTXTiWnkkLlJOfqTn) | [Elin Lanto](https://open.spotify.com/artist/4sAGoiErI2rWziF96i4eNT) | [Lily Of The Valley](https://open.spotify.com/album/7ivEAEyQvcQPzaRGKMbYcY) | 3:09 | 2024-06-27 | 2024-09-13 |
 | [Lite närmare](https://open.spotify.com/track/2zH9X7B7A5NljWj74lzVFE) | [Lisa Miskovsky](https://open.spotify.com/artist/5J0dXmqEYctfFsmcakqZFH) | [Lite närmare](https://open.spotify.com/album/47LCeoVsNLyAQuibwi5ygf) | 3:27 | 2025-02-20 | 2025-03-11 |
 | [Little Human](https://open.spotify.com/track/2n6BhqcTAahU7NgLK7FFEE) | [Andreas Aleman](https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3) | [Little Human](https://open.spotify.com/album/2TOprA3fQujE2Fb4Yz1j2y) | 3:55 | 2024-11-07 | 2025-02-07 |
+| [Little Richard’s Bible](https://open.spotify.com/track/3AsmUHXoCqeWXP9tRTYGsR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/1Wn7mRdFZfHwmgtRFFR42o) | 2:59 | 2025-04-03 |  |
 | [Living Comes With Dying](https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Living Comes With Dying](https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb) | 3:06 | 2024-06-27 | 2025-04-04 |
 | [Living La Vida](https://open.spotify.com/track/2e1qKKgn66K9Yf4GZLtjrX) | [Andreas Lundstedt](https://open.spotify.com/artist/5vPfSurUhT1t4PmLkAuARc) | [Så Mycket Bättre 2024 \- Tolkningarna](https://open.spotify.com/album/5fzaDwfgQ8wa3sq6Bwy2ww) | 2:59 | 2025-01-02 |  |
 | [Ljusare moln](https://open.spotify.com/track/2TvvVfjKB66mdJYI7CCXXA) | [Viktor Norén](https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe), [Linus Wahlgren](https://open.spotify.com/artist/0AYfmrpYfkwRY1tlatDc2Q) | [Ljusare moln](https://open.spotify.com/album/4vcTwhMZ0INwetdSlTHWWt) | 3:58 | 2024-08-29 |  |

@@ -37,6 +37,6 @@
 | [Stand Up And Fight](https://open.spotify.com/track/7Gymb7dYTeVqm9KqxUDF5A) | [Quartz](https://open.spotify.com/artist/4M7L0MO3YY89VSNswstuhl) | [Stand Up And Fight](https://open.spotify.com/album/0HqjoepUbR2OFNfLSccTGZ) | 4:42 | 2016-08-17 |  |
 | [Total Metal](https://open.spotify.com/track/0RqCb6o9nQSFl7vZvem5RJ) | [Atomkraft](https://open.spotify.com/artist/77sIR1VY06725rzAbF657L) | [Total Metal \- The Neat Anthology \(Bonus Track Edition\)](https://open.spotify.com/album/5qMgDIjorHNcMakTM2HKxE) | 4:11 | 2016-08-17 |  |
 | [What’s The Matter](https://open.spotify.com/track/0SujJL5dbMHIpgI3p61ZrW) | [Gillan](https://open.spotify.com/artist/1PwB6zyZUEjWGDUjnMeS6M) | [Magic](https://open.spotify.com/album/1xgCqisSRLNW75EYPqTC6M) | 3:33 | 2016-08-17 |  |
-| [Witchfinder General](https://open.spotify.com/track/6qmIAYQ36jyhTK9Bkej25q) | [Witchfinder General](https://open.spotify.com/artist/1QqtUGvZnULbTYLj6y69vO) | [Death Penalty](https://open.spotify.com/album/0ZcT2WLVCx2jKs1SIlpmm6) | 3:51 | 2016-08-17 |  |
+| [Witchfinder General](https://open.spotify.com/track/6qmIAYQ36jyhTK9Bkej25q) | [Witchfinder General](https://open.spotify.com/artist/3tDg9XbUbQS0dbaSnFNvvk) | [Death Penalty](https://open.spotify.com/album/0ZcT2WLVCx2jKs1SIlpmm6) | 3:51 | 2016-08-17 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

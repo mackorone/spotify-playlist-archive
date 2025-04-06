@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "fragment",
+        "url": "https://open.spotify.com/album/0RXePjKXiL1bMMiMWNjxNw"
+      },
+      "artists": [
+        {
+          "name": "slxughter",
+          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97857,
+      "name": "fragment - slowed",
+      "url": "https://open.spotify.com/track/3wynI4tCs1XMc4zlmG6pvu"
+    },
+    {
+      "album": {
         "name": "FRESH",
         "url": "https://open.spotify.com/album/5eRHyCycBt78BNaa8vR4Si"
       },
@@ -2400,7 +2418,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 96461,
       "name": "SEQU\u00caNCIA MAL\u00c9FICA 1.0",
       "url": "https://open.spotify.com/track/1v5PQyuSHxPy56xCuCnMQ0"

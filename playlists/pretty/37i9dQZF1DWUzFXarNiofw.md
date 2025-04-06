@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Destin Conrad & Teezo Touchdown
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,073,734 likes - 200 songs - 10 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,073,846 likes - 200 songs - 10 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 11 | [Where You Gonna Go](https://open.spotify.com/track/5Q2TlGxrZAEBJZVsI1qlJA) | [Eric Roberson](https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Where You Gonna Go](https://open.spotify.com/album/4yOY4X7hhNt4V9YeBo8iQ9) | 4:14 |
 | 12 | [Last Call](https://open.spotify.com/track/0RLOuWqclaJ96OZAGoAGak) | [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Alan Sampson](https://open.spotify.com/artist/6jQkBMk5URec0RTNDh8P96), [ADP](https://open.spotify.com/artist/0QAjuB54V29PdceQCHXq2i) | [Last Call](https://open.spotify.com/album/1ch87pOlqHcB5XFP6LsAzT) | 2:46 |
 | 13 | [Roadrunner \(feat\. midwxst\)](https://open.spotify.com/track/2wuYcWEYGxnGWNisxljB1Y) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [SAGEhaven](https://open.spotify.com/album/2N31RbPWaokWd8MTehI7Wn) | 2:56 |
-| 14 | [Reflection Station](https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Reflection Station](https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk) | 2:46 |
+| 14 | [Reflection Station](https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Reflection Station](https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk) | 2:45 |
 | 15 | [Don't Mind](https://open.spotify.com/track/32SOlAXuZN1jmHNVK4tbtj) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [Don't Mind](https://open.spotify.com/album/43vOxntYLEzXR8jvUPCxxu) | 3:00 |
 | 16 | [Cardio \(Remix\)](https://open.spotify.com/track/1GYB0Nql0fBbjzEy5zq84t) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47), [Kennyon Brown](https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5), [Donell Lewis](https://open.spotify.com/artist/6feZH59Dj4tl1bQ8D2gukz) | [Cardio \(Remix\)](https://open.spotify.com/album/0iEgarHNskCMcKFOFQuzUB) | 2:46 |
 | 17 | [UberEX \(feat\. Tkay Maidza\)](https://open.spotify.com/track/4p2iyrQup7GRwzZW35nY2Y) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [UberEX \(feat\. Tkay Maidza\)](https://open.spotify.com/album/3o4MyfyQ5EZzqq572e1gvk) | 3:17 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 88 | [Taste of Ya](https://open.spotify.com/track/0FlsFg9HH5zI2NKyS7gXcC) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [It'll All Make Sense Later \(Deluxe\)](https://open.spotify.com/album/0p3gMzAZcxlKnjxyH8MgFw) | 2:30 |
 | 89 | [FEEL THE BA$S \(Prelude\) \[feat\. BEAM\]](https://open.spotify.com/track/15pe8BxUJUXkCmgzummpM9) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [FEEL THE BA$S \(Prelude\) \[feat\. BEAM\]](https://open.spotify.com/album/6O3UM4OUBoqq7YHgctMBiX) | 1:37 |
 | 90 | [Just As Long As We're Together](https://open.spotify.com/track/6uAt2PE7YB5gHeCAFeD7G6) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just As Long As We're Together](https://open.spotify.com/album/2q05Sy95Dj43lDHqXANajn) | 3:14 |
-| 91 | [Afraid, Pt\. 2](https://open.spotify.com/track/19EDXiaUSGE2BOLJQBZtXV) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Afraid, Pt\. 2](https://open.spotify.com/album/6PPLLW6Zbmo6EVz7Gzek9n) | 3:00 |
+| 91 | [Afraid, Pt\. 2 \- feat\. Xenia Manasseh](https://open.spotify.com/track/19EDXiaUSGE2BOLJQBZtXV) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Afraid, Pt\. 2 \(feat\. Xenia Manasseh\)](https://open.spotify.com/album/6PPLLW6Zbmo6EVz7Gzek9n) | 3:00 |
 | 92 | [Lovers To Enemies](https://open.spotify.com/track/3bkyytDbOVfBw1C4YxxV0B) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Confessions of a Loverboy](https://open.spotify.com/album/7H0YUpWlIxLBzRrHBctaWe) | 2:41 |
 | 93 | [NuDivision](https://open.spotify.com/track/7i6qaskEiQzuDUMaVzYk6c) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [NuDivision](https://open.spotify.com/album/0ttYxD7ZGnc3PtPTEUq8e3) | 2:24 |
 | 94 | [I'll Be Good](https://open.spotify.com/track/7rMIePH9SdYWmWNzuNg26p) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju) | [I'll Be Good](https://open.spotify.com/album/33kFKgbfzbKAh2of45JHVI) | 3:32 |

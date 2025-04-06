@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Ready to chic things up\. Listen to the music from Emily in Paris, streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,982 likes - 136 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,051 likes - 136 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 57 | [Grave](https://open.spotify.com/track/6XkzQptmPDXQxbXHsrB37O) | [Juniore](https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH) | [Un, Deux, Trois](https://open.spotify.com/album/5V1IX1r1VBIn9Z5PNYbR11) | 3:19 |
 | 58 | [À la nage](https://open.spotify.com/track/0StKssEH75m9adaKATRKos) | [UTO](https://open.spotify.com/artist/1qLSzTLKNBRu1byHN1eXoD) | [Touch the Lock](https://open.spotify.com/album/3K83V4wrzvVKhSx9U1teNm) | 2:48 |
 | 59 | [Rendez\-vous](https://open.spotify.com/track/4DTtt3Jq6MMlBGtizLpH5b) | [Fantasydub](https://open.spotify.com/artist/7y68OA2tx69QT3zTkCpXXJ), [Sofia Bolt](https://open.spotify.com/artist/75BsNqFovl5438u7dIoZuv) | [Rendez\-vous](https://open.spotify.com/album/1jE73xirckoL8Wm0cleRgJ) | 2:33 |
-| 60 | [Let her go](https://open.spotify.com/track/3U3ylRKG62HecdbWV0Nm7D) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG), [LUCASV](https://open.spotify.com/artist/4wuJEvClymsGVYXCP00JZB) | [Lost and found](https://open.spotify.com/album/4V5EXwlVZyDgqx5RHLik1z) | 3:02 |
+| 60 | [Let Her Go](https://open.spotify.com/track/3U3ylRKG62HecdbWV0Nm7D) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG), [LUCASV](https://open.spotify.com/artist/4wuJEvClymsGVYXCP00JZB) | [Lost and found](https://open.spotify.com/album/4V5EXwlVZyDgqx5RHLik1z) | 3:02 |
 | 61 | [Side of You](https://open.spotify.com/track/5UVjwEvXQaWCRX1Vq0AGNo) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb), [Laumė](https://open.spotify.com/artist/3ylwSKkgfwc3y1SFa1yVwz) | [Zimmer](https://open.spotify.com/album/5iri9jAHcyXZ3fD0gUoXMO) | 3:27 |
 | 62 | [Jamais Je Ne Viens](https://open.spotify.com/track/5dSLiCcetFe3LGrnhbh9fZ) | [Ottis Cœur](https://open.spotify.com/artist/0hLbUud67RYSocCdgLf6pR) | [Léon](https://open.spotify.com/album/48OOvBs7jVOAWitbHAQ9Ll) | 2:28 |
 | 63 | [Franchement](https://open.spotify.com/track/175Yl76Q0ddCTXmiw7bsxx) | [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6) | [Nini](https://open.spotify.com/album/0KhnZoRrVjk9tkMkviirvh) | 2:31 |

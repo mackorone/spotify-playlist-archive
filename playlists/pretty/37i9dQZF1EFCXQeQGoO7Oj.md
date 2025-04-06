@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,248 likes - 496 songs - 1 day 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,267 likes - 496 songs - 1 day 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,8 +176,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 166 | [3](https://open.spotify.com/track/6pymOcrCnMuCWdgGVTvUgP) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [The Singles Collection](https://open.spotify.com/album/325wcm5wMnlfjmKZ8PXIIn) | 3:33 |
 | 167 | [true story](https://open.spotify.com/track/14kyXBpg91RVq8bNRDS1q2) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:43 |
 | 168 | [Smile](https://open.spotify.com/track/4bia7OWZPoswlzXCqESYrR) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 3:29 |
-| 169 | [I Heard You’re Married \(feat\. Lil Wayne\)](https://open.spotify.com/track/5XbA7TAqsD0fj0dGBrbb0D) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 4:23 |
-| 170 | [Carry You Home](https://open.spotify.com/track/1zVBU0PAj7ZUVmVfG2pgQG) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [All the Lost Souls](https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v) | 3:54 |
+| 169 | [Carry You Home](https://open.spotify.com/track/1zVBU0PAj7ZUVmVfG2pgQG) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [All the Lost Souls](https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v) | 3:54 |
+| 170 | [I Heard You’re Married \(feat\. Lil Wayne\)](https://open.spotify.com/track/5XbA7TAqsD0fj0dGBrbb0D) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 4:23 |
 | 171 | [Fast Forward](https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu) | 2:40 |
 | 172 | [Bad Decisions](https://open.spotify.com/track/4qtXU0epoC3zEmolXdBcu8) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7) | 3:46 |
 | 173 | [imperfect for you](https://open.spotify.com/track/6XXKB32Om6WuXg3uEWwTob) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:02 |
@@ -495,8 +495,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 485 | [Making Out](https://open.spotify.com/track/31omC3Q1Irkpa8OHEVUKFQ) | [Linda Sundblad](https://open.spotify.com/artist/28WJiPB1WvNQzMLwM5Hb7G) | [Manifest](https://open.spotify.com/album/5xZ3XLMOTu5v2A9GV7LeJP) | 3:10 |
 | 486 | [Pretend I'm God \(feat\. Max Martin\)](https://open.spotify.com/track/1SLiGnIdBPZo13jhXyu71W) | [It's Alive](https://open.spotify.com/artist/3j0G99UX0pssC96mLgAPXl), [Max Martin](https://open.spotify.com/artist/1rjeVTt9Ra1ldvN7SpeK0G) | [Earthquake Visions \(feat\. Max Martin\)](https://open.spotify.com/album/2sdgDT0zzzCpuFrWfD8R2Z) | 3:23 |
 | 487 | [Pathetic](https://open.spotify.com/track/3c8Hj8a4awzpgFDQffvaho) | [Lambretta](https://open.spotify.com/artist/6iaSZRGVeh34qUU1FQnQ4T) | [The Fight](https://open.spotify.com/album/7261Iqd6PW82NJynPlJb4H) | 3:19 |
-| 488 | [Pretty Rebels](https://open.spotify.com/track/3LfdiKFURgv6O3OZEwFkvr) | [Linda Sundblad](https://open.spotify.com/artist/28WJiPB1WvNQzMLwM5Hb7G) | [Oh My God!](https://open.spotify.com/album/33PyiaIjNJ555WBLPOsJl5) | 3:01 |
-| 489 | [Bitte mehr Taschengeld](https://open.spotify.com/track/6o9hAUJuvFd9H3u8GYukKG) | [Dominik Schrittesser](https://open.spotify.com/artist/7xnQyD8dC0soUG1PiTx5DK) | [Kiddy Contest Vol\. 16](https://open.spotify.com/album/0TkWTxyMJZuLrtkjLKvtxw) | 3:44 |
+| 488 | [Bitte mehr Taschengeld](https://open.spotify.com/track/6o9hAUJuvFd9H3u8GYukKG) | [Dominik Schrittesser](https://open.spotify.com/artist/7xnQyD8dC0soUG1PiTx5DK) | [Kiddy Contest Vol\. 16](https://open.spotify.com/album/0TkWTxyMJZuLrtkjLKvtxw) | 3:44 |
+| 489 | [Pretty Rebels](https://open.spotify.com/track/3LfdiKFURgv6O3OZEwFkvr) | [Linda Sundblad](https://open.spotify.com/artist/28WJiPB1WvNQzMLwM5Hb7G) | [Oh My God!](https://open.spotify.com/album/33PyiaIjNJ555WBLPOsJl5) | 3:01 |
 | 490 | [Hologram](https://open.spotify.com/track/2TFnMn6FPIWDd8mGVD2CQZ) | [Tobias Regner](https://open.spotify.com/artist/5oPZdjFCIf6ybR8HeUopfb) | [Straight](https://open.spotify.com/album/3Y1NQvNb65qjCmiLKVftp5) | 3:36 |
 | 491 | [Come Together](https://open.spotify.com/track/5ISnrqK9VnQ4YrtIjgDkN0) | [HERBIE](https://open.spotify.com/artist/5PfGQ1ZADHPl42iFtJX1wF) | [Fingers](https://open.spotify.com/album/2KkZKAzcM4njK2nD7TGQwA) | 3:20 |
 | 492 | [Change](https://open.spotify.com/track/3zAIrh7O9nGqCPQrtMYkko) | [HERBIE](https://open.spotify.com/artist/5PfGQ1ZADHPl42iFtJX1wF) | [Fingers](https://open.spotify.com/album/2KkZKAzcM4njK2nD7TGQwA) | 4:25 |
@@ -505,4 +505,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 495 | [Io Non Piango Più](https://open.spotify.com/track/6dVtYE87ODIScZkBLM6nX8) | [Clara Moroni](https://open.spotify.com/artist/1xIa0kM33TSTfQvIeC7Ib8) | [Bambina Brava](https://open.spotify.com/album/4ELJA6fChKI9P7HeuP55gj) | 3:30 |
 | 496 | [Sem Explicacao](https://open.spotify.com/track/00wBx311oIwxJOHVvnybUt) | [Lucas Nathan](https://open.spotify.com/artist/6GBgcZEko9Nn4WJ3NSyVMb) | [Pra Beber 100 Moderacao](https://open.spotify.com/album/4gdu51udpSof8dbMWdQMKm) | 2:56 |
 
-Snapshot ID: `Abt6FAAAAADrUx92VAfAsd4t3gzQoMVt`
+Snapshot ID: `Abt/tQAAAAAKugsfSsAzvPUf+0QbofBZ`

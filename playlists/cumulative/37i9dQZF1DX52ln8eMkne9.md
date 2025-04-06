@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
-348 songs - 1 day 1 hr 56 min
+349 songs - 1 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Cloudy Treasures](https://open.spotify.com/track/5PPyfbyU6d4jgXfvl7jGpA) | [Louise Bøttern](https://open.spotify.com/artist/1Xecqs6WnuEv1E1hyy2O5D) | [Cloudy Treasures](https://open.spotify.com/album/6TBjxVhJqsp1JYgUZbfCkm) | 3:58 | 2022-08-30 |  |
 | [Coming Back To You](https://open.spotify.com/track/1KjTMIDPS9bhCa4VF1odYH) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Coming Back To You](https://open.spotify.com/album/5kHIm8MtwOa6jVGS4nFC31) | 3:40 | 2022-08-11 | 2024-06-29 |
 | [Confession / The Other Woman](https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Confessions](https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG) | 6:43 | 2022-02-18 |  |
+| [cozy you](https://open.spotify.com/track/2HwsleCXo5xW2wnX1j6G4b) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [cozy you](https://open.spotify.com/album/7x6DjIjmEyNT1nYQXkMZWg) | 3:30 | 2025-04-04 |  |
 | [Crazy He Calls Me](https://open.spotify.com/track/0ERXPudDdVEsXesQ8gT8v7) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi), [Greg Phillinganes](https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu) | [Crazy He Calls Me](https://open.spotify.com/album/1S0Arx1e1OK0XWnb41R7fx) | 2:30 | 2022-08-16 |  |
 | [Crazy He Calls Me](https://open.spotify.com/track/4SWkITbLYU0altzaumIU79) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi), [Greg Phillinganes](https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu) | [Nikki By Starlight](https://open.spotify.com/album/6qinGfHy2uxsXICIzwKtnx) | 2:30 | 2024-01-05 | 2024-04-19 |
 | [Câdencia](https://open.spotify.com/track/4Fjx8Mmap3NF4kVMATQ85D) | [Morten Ankarfeldt](https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU), [Edu Neves](https://open.spotify.com/artist/4qomJGjiGCSHTPV3lxQRjY), [Caio Marcio Santos](https://open.spotify.com/artist/0O5ydY5JgI10hLIOEz6184) | [Câdencia](https://open.spotify.com/album/4vqL9Ic575a8taWB6WWju0) | 3:57 | 2022-03-03 |  |
@@ -213,7 +214,7 @@
 | [My Foolish Heart](https://open.spotify.com/track/6yKkA8HzwWTZ5taIMaG4Nm) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 4:57 | 2021-12-17 | 2022-11-09 |
 | [My Funny Valentine](https://open.spotify.com/track/1q573uXh0Rc78qTXDMQ35D) | [Dinah Shore](https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Great Ladies Of Song / Spotlight On Dinah Shore](https://open.spotify.com/album/5ilLtUVtszxkepkVCrqECy) | 3:34 | 2021-12-17 |  |
 | [My Heart Belongs to Daddy](https://open.spotify.com/track/1fbTAHZGgmlnXWcNXyB42G) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW) | 3:03 | 2021-12-17 |  |
-| [My Ship](https://open.spotify.com/track/0rxCbuvEGu9Bk7t1UOO2iu) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places](https://open.spotify.com/album/7lIpEhDFt06b3HdY1oGhIP) | 4:09 | 2022-02-18 |  |
+| [My Ship](https://open.spotify.com/track/0rxCbuvEGu9Bk7t1UOO2iu) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places](https://open.spotify.com/album/7lIpEhDFt06b3HdY1oGhIP) | 4:09 | 2022-02-18 | 2025-04-06 |
 | [My Ship](https://open.spotify.com/track/2CW9ojLmE3GM7h7xdfCXXb) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs from Other Places \(Special Edition\)](https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW) | 4:09 | 2023-02-01 | 2024-04-19 |
 | [My Ship \- Special Edition](https://open.spotify.com/track/4CAfKmZlIn6TPczUUhv2CM) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 4:09 | 2022-07-28 | 2023-01-13 |
 | [My True Love Is You](https://open.spotify.com/track/4oXcpRZGwElyGPcIxLwvBC) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Secrets of My Heart](https://open.spotify.com/album/086KHW1DUXz3QssYk3qXZ5) | 3:12 | 2021-12-17 |  |

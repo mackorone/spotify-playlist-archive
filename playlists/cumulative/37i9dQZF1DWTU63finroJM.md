@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Lotusx.
 
-1,950 songs - 4 day 9 hr 22 min
+1,951 songs - 4 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1344,6 +1344,7 @@
 | [Run](https://open.spotify.com/track/31EQWjQaZlrcOs79RaevI9) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Run](https://open.spotify.com/album/1FajFZ6AJFRaN6itdQ4vhL) | 2:20 | 2024-08-02 | 2024-10-18 |
 | [Run Rabbit](https://open.spotify.com/track/1znGDCclMTeWASFVF8tj2N) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Run Rabbit](https://open.spotify.com/album/5FUeeX24CzLG40MorWm1zK) | 3:06 | 2025-01-17 | 2025-01-25 |
 | [Run Your Mouth](https://open.spotify.com/track/19fKJrO9XdOf6Xla2QHecO) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 2:40 | 2024-06-21 | 2024-12-14 |
+| [RUN!](https://open.spotify.com/track/2FmG0YbnHkycMN4Gbm09Kq) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [RUN!](https://open.spotify.com/album/47fjQAZe0oxVnfP4VoJb0L) | 2:02 | 2025-04-04 |  |
 | [run.](https://open.spotify.com/track/7h0LrbAW3YQf7IIa3Bwzuc) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [run.](https://open.spotify.com/album/6czoxk1n3RVjncUIIP8S9B) | 3:56 | 2022-04-07 | 2022-05-11 |
 | [RUNAWAY W ME](https://open.spotify.com/track/7pzfaLBUK9WvVT2ageCLZ5) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [RUNAWAY W ME](https://open.spotify.com/album/0e5zw8a0EjqapZqc7Fkmv4) | 3:01 | 2022-03-21 | 2022-06-29 |
 | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v) | 3:40 | 2022-11-11 | 2023-05-31 |
@@ -1586,7 +1587,7 @@
 | [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 | 2023-08-18 | 2023-11-18 |
 | [TOSCANA](https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Cardellino](https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC) | 2:49 | 2022-03-24 | 2022-08-20 |
 | [Totoo](https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Kenaniah](https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7) | 4:40 | 2023-07-07 | 2024-03-09 |
-| [TOURIST](https://open.spotify.com/track/6pT4XrJXq3uWYlfaKiflce) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [TOURIST](https://open.spotify.com/album/3rngU1YiZ9z6o6hBNdz99D) | 2:25 | 2024-10-04 |  |
+| [TOURIST](https://open.spotify.com/track/6pT4XrJXq3uWYlfaKiflce) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [TOURIST](https://open.spotify.com/album/3rngU1YiZ9z6o6hBNdz99D) | 2:25 | 2024-10-04 | 2025-04-06 |
 | [Toute la vie](https://open.spotify.com/track/7I8MDzoGI7GVB4bFUwg1hG) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Toute la vie](https://open.spotify.com/album/5AWje3l67axDKOS0RxLzmJ) | 3:29 | 2022-03-24 | 2022-04-17 |
 | [training wheels](https://open.spotify.com/track/15JC7KI98dZxwWCfz1LiH7) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [training wheels](https://open.spotify.com/album/4fDKMftKwXRPw7LJwuEs9h) | 3:30 | 2025-01-10 |  |
 | [Trapped in the rain](https://open.spotify.com/track/7hWkpX57FVw6VfpWG6VucC) | [KUNG 龔敬文](https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R) | [Trapped in the rain](https://open.spotify.com/album/5JZhwyUHYwSVKV5I6sM6c1) | 3:26 | 2022-03-24 | 2022-08-02 |

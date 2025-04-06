@@ -1,6 +1,6 @@
 {
   "description": "Explore the dazzling sound of Japanese City Pop from the \u201880s./ \u90fd\u4f1a\u306e\u591c\u3092\u30af\u30eb\u30fc\u30b8\u30f3\u30b0\u3001\u9031\u672b\u306f\u6d77\u8fba\u3067\u30ea\u30be\u30fc\u30c8\u6c17\u5206\u3002\u714c\u3081\u304d\u306b\u6e80\u3061\u305f\u6bce\u65e5\u3092\u5f69\u3063\u305f\u3001\u9ec4\u91d1\u671f\u306e\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u3002",
-  "num_followers": 160076,
+  "num_followers": 160114,
   "original_name": "City Pop '80s",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-02-02 23:33:48",
       "album": {
-        "name": "PEARL PIERCE",
-        "url": "https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa"
-      },
-      "artists": [
-        {
-          "name": "Yumi Matsutoya",
-          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
-        }
-      ],
-      "duration_ms": 279234,
-      "name": "\u3088\u3046\u3053\u305d\u8f1d\u304f\u6642\u9593\u3078",
-      "url": "https://open.spotify.com/track/359IiO08eIz2kcwoS74EkD"
-    },
-    {
-      "added_at": "2025-02-02 23:33:48",
-      "album": {
         "name": "PLANETARIUM",
         "url": "https://open.spotify.com/album/78tEeRZHI4y3RqdhtqGgoh"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 289893,
       "name": "\u30d5\u30ed\u30f3\u30c8\u30ac\u30e9\u30b9\u8d8a\u3057\u306b",
       "url": "https://open.spotify.com/track/76Jpo5U45kAhTl79JHtHUh"
+    },
+    {
+      "added_at": "2025-02-02 23:33:48",
+      "album": {
+        "name": "PEARL PIERCE",
+        "url": "https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa"
+      },
+      "artists": [
+        {
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+        }
+      ],
+      "duration_ms": 279234,
+      "name": "\u3088\u3046\u3053\u305d\u8f1d\u304f\u6642\u9593\u3078",
+      "url": "https://open.spotify.com/track/359IiO08eIz2kcwoS74EkD"
     },
     {
       "added_at": "2025-02-02 23:33:48",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-02-02 23:33:48",
       "album": {
-        "name": "\u6628\u6669\u304a\u4f1a\u3044\u3057\u307e\u3057\u3087\u3046",
-        "url": "https://open.spotify.com/album/1SOU69vRno4XD2yvz7zqF4"
-      },
-      "artists": [
-        {
-          "name": "Yumi Matsutoya",
-          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
-        }
-      ],
-      "duration_ms": 186820,
-      "name": "\u30bf\u30ef\u30fc\u30fb\u30b5\u30a4\u30c9\u30fb\u30e1\u30e2\u30ea\u30fc",
-      "url": "https://open.spotify.com/track/4DhKgRHv5MzNCzLhTEByZi"
-    },
-    {
-      "added_at": "2025-02-02 23:33:48",
-      "album": {
         "name": "NATURALLY",
         "url": "https://open.spotify.com/album/0jTARGdMppFtS9BO4Z6luv"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 284719,
       "name": "Hi-way 1",
       "url": "https://open.spotify.com/track/72xnTsNT9Ylrkx3QqmHPNZ"
+    },
+    {
+      "added_at": "2025-02-02 23:33:48",
+      "album": {
+        "name": "TOKYO 1980s Victor Edition (The Compilation) Boogie, Funk & Modern Soul from Japan",
+        "url": "https://open.spotify.com/album/0v1MoZARbqi7wOeECMI8Up"
+      },
+      "artists": [
+        {
+          "name": "DEW",
+          "url": "https://open.spotify.com/artist/6s0EJ878jNWwfOMva62XgK"
+        }
+      ],
+      "duration_ms": 254666,
+      "name": "Night Time",
+      "url": "https://open.spotify.com/track/216Fc22fWQxAxlTxjtO8P2"
     }
   ],
   "unique_name": "City Pop '80s",

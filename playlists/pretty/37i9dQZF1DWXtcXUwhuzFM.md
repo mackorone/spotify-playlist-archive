@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia KUUMAAlta, OLGAlta, Turistilta ja Costilta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,583 likes - 117 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,601 likes - 117 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

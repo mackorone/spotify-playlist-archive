@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Chile.",
-  "num_followers": 25639,
+  "num_followers": 25655,
   "original_name": "Top Songs - Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L4NLIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L4Se+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2025-04-04 13:12:17",
@@ -22,6 +22,10 @@
         {
           "name": "Kidd Voodoo",
           "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Swift 047",
+          "url": "https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb"
         }
       ],
       "duration_ms": 183673,

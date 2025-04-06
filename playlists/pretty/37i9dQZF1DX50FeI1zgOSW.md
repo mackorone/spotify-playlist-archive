@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Shravan Sridhar
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,767 likes - 54 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,775 likes - 54 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

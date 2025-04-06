@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 74,965 likes - 350 songs - 12 hr 20 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 74,956 likes - 350 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 91 | [Lunar Lounge](https://open.spotify.com/track/7sbHxEhLxNsdciRkpjS9GE) | [Spective](https://open.spotify.com/artist/2sFPQins7c1Mx7COcPdBUV), [Nathan Kersey\-Wilson](https://open.spotify.com/artist/7i6wUpJElvNxwCs3lP0bAJ) | [Lunar Lounge](https://open.spotify.com/album/3nSFnHiRQGXqgeKXqq3QOz) | 2:47 |
 | 92 | [Going Further](https://open.spotify.com/track/6BAUQX6RAD5j55bJzanuZt) | [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h), [Beautiful Disco](https://open.spotify.com/artist/4bNcfgeja8qTyJFLUE3YF3) | [Going Further](https://open.spotify.com/album/03WFURgZoATgMtOqudkN52) | 2:22 |
 | 93 | [Trip to Okinawa](https://open.spotify.com/track/7hmSCoCEoxbzHp5zje7CHY) | [Matsuyama](https://open.spotify.com/artist/3TgHi7FuyXPEN6IYCU8gvs), [Komachi](https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr) | [Trip to Okinawa](https://open.spotify.com/album/24bEcVWAVNTqq8i1xcZrAO) | 1:40 |
-| 94 | [Sunset Arms House Music](https://open.spotify.com/track/2Vzcuf8k7CLASGqrK7QUy6) | [Decisions](https://open.spotify.com/artist/3juecQH8XvNfubU1vEnNrE), [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG) | [Sunset Arms House Music](https://open.spotify.com/album/5IdsbarP7MP4hdU9ZhGF83) | 2:16 |
+| 94 | [Sunset Arms House Music](https://open.spotify.com/track/2Vzcuf8k7CLASGqrK7QUy6) | [Decisions](https://open.spotify.com/artist/3juecQH8XvNfubU1vEnNrE) | [Sunset Arms House Music](https://open.spotify.com/album/5IdsbarP7MP4hdU9ZhGF83) | 2:16 |
 | 95 | [Streetlight Avenues](https://open.spotify.com/track/2m4eUKn7gtQv57m3MJBFym) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [Streetlight Avenues](https://open.spotify.com/album/4VxdSZLFyFtzSuSe5nhPVZ) | 2:05 |
 | 96 | [dalliance](https://open.spotify.com/track/1nQJfDcYRmMnymdYUkiodN) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc), [flowersun](https://open.spotify.com/artist/6AmiSZSZm9AxKktgapkVAg) | [dalliance](https://open.spotify.com/album/3C1dKemwZb1ztjTU5WB4jq) | 1:38 |
 | 97 | [Fragaria](https://open.spotify.com/track/6J4q0RMkbcwHNfMkbR8TRh) | [Loop Schrauber](https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32), [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [Rooted](https://open.spotify.com/album/27aLFjlNOPW91txHLPSOQF) | 2:28 |

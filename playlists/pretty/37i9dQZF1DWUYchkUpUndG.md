@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc?si=1408a3S7SIKfMBA1quyFvA>Celestine Donkor</a> and https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl?si=TaUc7uTkQWqfi3APmVIJbg>Diana Hamilton</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,208 likes - 102 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,228 likes - 102 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 11 | [God Is Good](https://open.spotify.com/track/5IOd2RGPZcoCBZfcx4mzA4) | [WATI](https://open.spotify.com/artist/3tCIswvTk9tvDVmNxaEs2W), [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [God Is Good](https://open.spotify.com/album/6q9BbMFOegjRY1k9u9d0lq) | 3:25 |
 | 12 | [Tare \(Live\)](https://open.spotify.com/track/4KtT8dN9QaCPNwxtJwhKmB) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Tare \(Live\)](https://open.spotify.com/album/1rlFzowjP2vHdilHAvSU7v) | 7:57 |
 | 13 | [All On You \(Heart of worship\)](https://open.spotify.com/track/6vGTfGws31YplDRYKJc88T) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs) | [All On You \(Heart of worship\)](https://open.spotify.com/album/2eaAM3aBbsBMb1owbruTU5) | 5:56 |
-| 14 | [Mawudunyiswe](https://open.spotify.com/track/11qVrOyuvp9ggKQgUGhsm4) | [NTETHE](https://open.spotify.com/artist/267bYuNaozmRH8pQoRuL15), [Putuma Tiso](https://open.spotify.com/artist/2SRBorwvHv62tsEn2nA5Xm) | [Back To The Altar](https://open.spotify.com/album/1uhkqqgkXLi1A9KwAjAhoS) | 6:02 |
+| 14 | [Mawudunyiswe](https://open.spotify.com/track/11qVrOyuvp9ggKQgUGhsm4) | [NTETHE](https://open.spotify.com/artist/267bYuNaozmRH8pQoRuL15), [Putuma Tiso](https://open.spotify.com/artist/2SRBorwvHv62tsEn2nA5Xm) | [Back To The Altar](https://open.spotify.com/album/1uhkqqgkXLi1A9KwAjAhoS) | 6:04 |
 | 15 | [He Won't \(Worship Medley\)](https://open.spotify.com/track/0zGdGRc5Cv0b89wx3HfiNn) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [He Won't \(Worship Medley\)](https://open.spotify.com/album/04pSAhuoZGv9xW2mdTwbgR) | 11:49 |
 | 16 | [Ngozi \(Blessings fall like rain\)](https://open.spotify.com/track/5EW0tamzcrRRFDJ0hmBkBh) | [King GreatLight](https://open.spotify.com/artist/7CNnBtVHuRg05DyAZQjRF5) | [Ngozi \(Blessings fall like rain\)](https://open.spotify.com/album/01KNNZpSxTVvSHvPmwushE) | 3:42 |
 | 17 | [Everything](https://open.spotify.com/track/2e9ot5pidJZvqsIric6Z62) | [Favrish](https://open.spotify.com/artist/3s1ZKnwkYA76TmSxqHs22E) | [Everything](https://open.spotify.com/album/1NQc5ubtTXZryou282B19i) | 2:38 |

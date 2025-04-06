@@ -1,6 +1,6 @@
 {
   "description": "feel the magic with the gems in r&b right now",
-  "num_followers": 297079,
+  "num_followers": 297086,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2025-04-03 22:00:44",
       "album": {
-        "name": "GOLIATH",
-        "url": "https://open.spotify.com/album/58WQafW2FPSWC3LDe0Jh90"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 185939,
-      "name": "**GOLIATH**",
-      "url": "https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT"
-    },
-    {
-      "added_at": "2025-04-03 22:00:44",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/4LzXjuPhXe5FxeP31CCbkb"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 172294,
       "name": "You",
       "url": "https://open.spotify.com/track/7lv0grRnvqhmnERdn320PX"
+    },
+    {
+      "added_at": "2025-04-03 22:00:44",
+      "album": {
+        "name": "GOLIATH",
+        "url": "https://open.spotify.com/album/58WQafW2FPSWC3LDe0Jh90"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 185939,
+      "name": "**GOLIATH**",
+      "url": "https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT"
     },
     {
       "added_at": "2025-04-03 22:00:44",
@@ -287,62 +287,6 @@
     {
       "added_at": "2025-04-03 22:00:44",
       "album": {
-        "name": "Fuck A Friendzone 2",
-        "url": "https://open.spotify.com/album/0MLdG6HlXagozTFyYQFsoj"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        },
-        {
-          "name": "DeJ Loaf",
-          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
-        }
-      ],
-      "duration_ms": 145074,
-      "name": "Back Door",
-      "url": "https://open.spotify.com/track/60VrrSJ1bdK7VJpM9hHBlJ"
-    },
-    {
-      "added_at": "2025-04-03 22:00:44",
-      "album": {
-        "name": "Back To You",
-        "url": "https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 210051,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD"
-    },
-    {
-      "added_at": "2025-04-03 22:00:44",
-      "album": {
-        "name": "JUST LIKE THAT (with Ari Lennox)",
-        "url": "https://open.spotify.com/album/04paAyoEdoSL1nSUdoMSp1"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 163640,
-      "name": "JUST LIKE THAT (with Ari Lennox)",
-      "url": "https://open.spotify.com/track/2eCIT1yhrYfWdfC5VahUrt"
-    },
-    {
-      "added_at": "2025-04-03 22:00:44",
-      "album": {
         "name": "Access All Areas: Unlocked",
         "url": "https://open.spotify.com/album/4YcgdFu1iKCYPujsKQGKeB"
       },
@@ -367,6 +311,42 @@
     {
       "added_at": "2025-04-03 22:00:44",
       "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 210051,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD"
+    },
+    {
+      "added_at": "2025-04-03 22:00:44",
+      "album": {
+        "name": "Fuck A Friendzone 2",
+        "url": "https://open.spotify.com/album/0MLdG6HlXagozTFyYQFsoj"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+        }
+      ],
+      "duration_ms": 145074,
+      "name": "Back Door",
+      "url": "https://open.spotify.com/track/60VrrSJ1bdK7VJpM9hHBlJ"
+    },
+    {
+      "added_at": "2025-04-03 22:00:44",
+      "album": {
         "name": "guidance",
         "url": "https://open.spotify.com/album/7aC4TYECoF7QKtnJJz3LVs"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 215198,
       "name": "guidance",
       "url": "https://open.spotify.com/track/3rwIujhqyCP3v4mXI7eWN3"
+    },
+    {
+      "added_at": "2025-04-03 22:00:44",
+      "album": {
+        "name": "JUST LIKE THAT (with Ari Lennox)",
+        "url": "https://open.spotify.com/album/04paAyoEdoSL1nSUdoMSp1"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 163640,
+      "name": "JUST LIKE THAT (with Ari Lennox)",
+      "url": "https://open.spotify.com/track/2eCIT1yhrYfWdfC5VahUrt"
     },
     {
       "added_at": "2025-04-03 22:00:44",
@@ -419,6 +419,26 @@
       "duration_ms": 136585,
       "name": "YOU",
       "url": "https://open.spotify.com/track/55PqkTMHwesuVYLQQsbM44"
+    },
+    {
+      "added_at": "2025-04-03 22:00:44",
+      "album": {
+        "name": "Favorite One",
+        "url": "https://open.spotify.com/album/3fJ25Pfd8sdxK5HaPiZZfL"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+        }
+      ],
+      "duration_ms": 176442,
+      "name": "Favorite One",
+      "url": "https://open.spotify.com/track/2t2fiW1SjH8V0vGut64nCE"
     },
     {
       "added_at": "2025-04-03 22:00:44",
@@ -471,26 +491,6 @@
       "duration_ms": 138240,
       "name": "Options",
       "url": "https://open.spotify.com/track/5bikU6p8V41T1bkBAXbu6o"
-    },
-    {
-      "added_at": "2025-04-03 22:00:44",
-      "album": {
-        "name": "Favorite One",
-        "url": "https://open.spotify.com/album/3fJ25Pfd8sdxK5HaPiZZfL"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        },
-        {
-          "name": "DeJ Loaf",
-          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
-        }
-      ],
-      "duration_ms": 176442,
-      "name": "Favorite One",
-      "url": "https://open.spotify.com/track/2t2fiW1SjH8V0vGut64nCE"
     },
     {
       "added_at": "2025-04-03 22:00:44",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-04-03 22:00:44",
       "album": {
-        "name": "Aphrodite",
-        "url": "https://open.spotify.com/album/70Jbxy4UWzsZ7xYyecbjoK"
-      },
-      "artists": [
-        {
-          "name": "Romy Dya",
-          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Aphrodite",
-      "url": "https://open.spotify.com/track/4SJcnSTonIkghW0OTmhu2J"
-    },
-    {
-      "added_at": "2025-04-03 22:00:44",
-      "album": {
         "name": "Baby Boy 2",
         "url": "https://open.spotify.com/album/1HSVRYzepxAx4FAwysjKn7"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 135211,
       "name": "So Fresh So Clean",
       "url": "https://open.spotify.com/track/59QfKeNapjJA7A7A3UKSWU"
+    },
+    {
+      "added_at": "2025-04-03 22:00:44",
+      "album": {
+        "name": "Aphrodite",
+        "url": "https://open.spotify.com/album/70Jbxy4UWzsZ7xYyecbjoK"
+      },
+      "artists": [
+        {
+          "name": "Romy Dya",
+          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Aphrodite",
+      "url": "https://open.spotify.com/track/4SJcnSTonIkghW0OTmhu2J"
     },
     {
       "added_at": "2025-04-03 22:00:44",

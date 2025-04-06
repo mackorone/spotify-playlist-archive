@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3DHtfeD4PsmR9YGhCP4VF7">Nemzzz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,799,910 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,800,051 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 32 | [Life of a Boss](https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE \(DELUXE\)](https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs) | 2:04 |
 | 33 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 |
 | 34 | [HBK \(feat\. 21 Savage\)](https://open.spotify.com/track/6wje3JOEzPz5TqiDNWTVXk) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WICK](https://open.spotify.com/album/7CDKWBqKdCCw0hN1Mmr6d4) | 3:49 |
-| 35 | [Yessirski \(feat\. Rob49\)](https://open.spotify.com/track/4GbsLWS9xxXL6DxqCo7S8t) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Yessirski \(feat\. Rob49\)](https://open.spotify.com/album/6VdV3NgUQrA5UNE4ovw6Vs) | 1:43 |
+| 35 | [Yessirski](https://open.spotify.com/track/4GbsLWS9xxXL6DxqCo7S8t) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Yessirski](https://open.spotify.com/album/6VdV3NgUQrA5UNE4ovw6Vs) | 1:43 |
 | 36 | [All 10](https://open.spotify.com/track/7iCkpEdPra4Dwex4nwguaD) | [Younginsosleaze](https://open.spotify.com/artist/02M8bIxB70TDLqRZGS5g3o) | [Tweaker Mode](https://open.spotify.com/album/5JOH23VgkXBfaGPjVTPcux) | 2:34 |
 | 37 | [Back In Bidness](https://open.spotify.com/track/6XUnPaGAI0W4NCzCKH0ACA) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Back In Bidness](https://open.spotify.com/album/0rmRlQfoSFyeyHWq9H54XB) | 2:17 |
 | 38 | [The Biggest G](https://open.spotify.com/track/1AgxScwu5I2MDVshvPX5cY) | [EBK Jaaybo](https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX) | [The Biggest G](https://open.spotify.com/album/5Y38W6JGNBgUfpTpMgQC8c) | 2:37 |

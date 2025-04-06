@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Sexyy Red
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,720 likes - 79 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,727 likes - 79 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 63 | [S.U](https://open.spotify.com/track/28yziaAmoo7rSKQxHCdYgc) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [S.U](https://open.spotify.com/album/1LahDT3SfYqQQCeRP9Ay4v) | 2:49 |
 | 64 | [Is You Krazy?](https://open.spotify.com/track/1nf6yRFXYtxXOLk2yyMOkY) | [Lady London](https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4) | [Is You Krazy?](https://open.spotify.com/album/6kiAFznOPTp7dcOAEussLE) | 2:07 |
 | 65 | [Just a Little Lovin’ \(Peanut Butter Wolf Remix\) \(feat\. The Koreatown Oddity\)](https://open.spotify.com/track/5mKRW53KaXAeG3wiRXqgyX) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG), [The Koreatown Oddity](https://open.spotify.com/artist/5p2gVFoALyOtm13Fv5TjgQ), [Peanut Butter Wolf](https://open.spotify.com/artist/3KjYnDT3cEQ8ngiCLTCIl9) | [Just a Little Lovin’ \(Peanut Butter Wolf Remix\) \(feat\. The Koreatown Oddity\)](https://open.spotify.com/album/2Ptg5NU8e9jlDpJsBtzNqP) | 2:46 |
-| 66 | [BEAUTIFUL SCARS \(feat\. OBanga\)](https://open.spotify.com/track/6aYUqmT0QPnF8XizA1XhL9) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [OBanga](https://open.spotify.com/artist/4RtafAAxXiQtMI9yZs5DCv) | [BEAUTIFUL SCARS \(feat\. OBanga\)](https://open.spotify.com/album/5kiXUgl20k8SI5a95XLXzp) | 3:46 |
+| 66 | [Beautiful Scars \(feat\. OBanga\)](https://open.spotify.com/track/6aYUqmT0QPnF8XizA1XhL9) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [OBanga](https://open.spotify.com/artist/4RtafAAxXiQtMI9yZs5DCv) | [Beautiful Scars \(feat\. OBanga\)](https://open.spotify.com/album/5kiXUgl20k8SI5a95XLXzp) | 3:46 |
 | 67 | [Hell Woods 2](https://open.spotify.com/track/7pMzAZYQRvoyylbqUCyBdc) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hell Woods 2](https://open.spotify.com/album/1Z3vzcUeRkjeDIGuH3ocic) | 3:10 |
 | 68 | [Trappa Rappa](https://open.spotify.com/track/4QimCCJKXDOancrmCXbbOK) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Trappa Rappa](https://open.spotify.com/album/01e9pFweITqyn2Kr8INdQr) | 2:17 |
 | 69 | [Preference](https://open.spotify.com/track/1P1hInsizxuzxcD1KcIAeE) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Preference](https://open.spotify.com/album/2Ogtd0f4802h80TFCfgUiN) | 2:16 |

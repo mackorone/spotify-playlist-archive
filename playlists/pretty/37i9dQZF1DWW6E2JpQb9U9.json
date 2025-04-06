@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: El Mat\u00f3 a un Polic\u00eda Motorizado.",
-  "num_followers": 121838,
+  "num_followers": 121868,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-03-07 16:35:12",
       "album": {
-        "name": "Ven Aqu\u00ed (MTV Unplugged)",
-        "url": "https://open.spotify.com/album/5eWMfcwxg7jJrftdArP8xu"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 266519,
-      "name": "Ven Aqu\u00ed - MTV Unplugged",
-      "url": "https://open.spotify.com/track/2AUYlk6vKwvvIuzHJCh1v0"
-    },
-    {
-      "added_at": "2025-03-07 16:35:12",
-      "album": {
         "name": "Obsesionario En La Mayor (feat. Abel Pintos) [En Vivo En River Plate]",
         "url": "https://open.spotify.com/album/0Osnyn6jIth0tYOeMCuHoT"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 329865,
       "name": "Obsesionario En La Mayor (feat. Abel Pintos) - En Vivo En River Plate",
       "url": "https://open.spotify.com/track/2HcOKRBxqtfn4ooy4O7b8i"
+    },
+    {
+      "added_at": "2025-03-07 16:35:12",
+      "album": {
+        "name": "Ven Aqu\u00ed (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/5eWMfcwxg7jJrftdArP8xu"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 266519,
+      "name": "Ven Aqu\u00ed - MTV Unplugged",
+      "url": "https://open.spotify.com/track/2AUYlk6vKwvvIuzHJCh1v0"
     },
     {
       "added_at": "2025-03-07 16:35:12",
@@ -899,38 +899,6 @@
     {
       "added_at": "2025-03-07 16:35:12",
       "album": {
-        "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
-        "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 247613,
-      "name": "La Rueda M\u00e1gica - En Vivo",
-      "url": "https://open.spotify.com/track/4lhtqmdz80xSAKWMwDUcuK"
-    },
-    {
-      "added_at": "2025-03-07 16:35:12",
-      "album": {
-        "name": "Vivo A Contraluz (2004 - 2024)",
-        "url": "https://open.spotify.com/album/2H3UUvqkD0htBViquDV5P6"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 268173,
-      "name": "Zafar - Vivo A Contraluz",
-      "url": "https://open.spotify.com/track/4MdDmZOJv9NDy2oBk01vk2"
-    },
-    {
-      "added_at": "2025-03-07 16:35:12",
-      "album": {
         "name": "En Vivo en el Teatro \u00d3pera",
         "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
       },
@@ -951,18 +919,34 @@
     {
       "added_at": "2025-03-07 16:35:12",
       "album": {
-        "name": "Provincia Emergente Estadio Unico de La Plata (En Vivo)",
-        "url": "https://open.spotify.com/album/2VPSdVQuuSNyYPIgzxruqi"
+        "name": "Vivo A Contraluz (2004 - 2024)",
+        "url": "https://open.spotify.com/album/2H3UUvqkD0htBViquDV5P6"
       },
       "artists": [
         {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
         }
       ],
-      "duration_ms": 334320,
-      "name": "Avanti Morocha (En Vivo Provincia Emergente)",
-      "url": "https://open.spotify.com/track/7KEi5XL40fRcqyq9aUcDX6"
+      "duration_ms": 268173,
+      "name": "Zafar - Vivo A Contraluz",
+      "url": "https://open.spotify.com/track/4MdDmZOJv9NDy2oBk01vk2"
+    },
+    {
+      "added_at": "2025-03-07 16:35:12",
+      "album": {
+        "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
+        "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 247613,
+      "name": "La Rueda M\u00e1gica - En Vivo",
+      "url": "https://open.spotify.com/track/4lhtqmdz80xSAKWMwDUcuK"
     },
     {
       "added_at": "2025-03-07 16:35:12",
@@ -983,6 +967,22 @@
       "duration_ms": 244360,
       "name": "Cuando el sol est\u00e1 as\u00ed - En Vivo en La Tangente",
       "url": "https://open.spotify.com/track/70rqhJcGk6SGEaGwUtCFzd"
+    },
+    {
+      "added_at": "2025-03-07 16:35:12",
+      "album": {
+        "name": "Provincia Emergente Estadio Unico de La Plata (En Vivo)",
+        "url": "https://open.spotify.com/album/2VPSdVQuuSNyYPIgzxruqi"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        }
+      ],
+      "duration_ms": 334320,
+      "name": "Avanti Morocha (En Vivo Provincia Emergente)",
+      "url": "https://open.spotify.com/track/7KEi5XL40fRcqyq9aUcDX6"
     },
     {
       "added_at": "2025-03-07 16:35:12",
@@ -1255,38 +1255,6 @@
     {
       "added_at": "2025-03-07 16:35:12",
       "album": {
-        "name": "En Vivo en el Teatro \u00d3pera",
-        "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        }
-      ],
-      "duration_ms": 304386,
-      "name": "Magia Blanca - En Vivo en el Teatro \u00d3pera",
-      "url": "https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0"
-    },
-    {
-      "added_at": "2025-03-07 16:35:12",
-      "album": {
-        "name": "Fuego (En Vivo Luna Park)",
-        "url": "https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 286528,
-      "name": "Fuego - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K"
-    },
-    {
-      "added_at": "2025-03-07 16:35:12",
-      "album": {
         "name": "Yendo de la Cama al Living (En Vivo Teatro \u00d3pera)",
         "url": "https://open.spotify.com/album/3luYZNG2a6Y2qaKtEbZEzc"
       },
@@ -1307,6 +1275,38 @@
       "duration_ms": 298263,
       "name": "Yendo de la Cama al Living - En Vivo Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/08qqssgwcz5zN5L9ev8BkZ"
+    },
+    {
+      "added_at": "2025-03-07 16:35:12",
+      "album": {
+        "name": "Fuego (En Vivo Luna Park)",
+        "url": "https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 286528,
+      "name": "Fuego - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K"
+    },
+    {
+      "added_at": "2025-03-07 16:35:12",
+      "album": {
+        "name": "En Vivo en el Teatro \u00d3pera",
+        "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        }
+      ],
+      "duration_ms": 304386,
+      "name": "Magia Blanca - En Vivo en el Teatro \u00d3pera",
+      "url": "https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0"
     },
     {
       "added_at": "2025-03-07 16:35:12",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-03-07 16:35:12",
       "album": {
-        "name": "De La Hoya (En Vivo en el Luna Park)",
-        "url": "https://open.spotify.com/album/6NH55kSLjV3SosX8HpyG0W"
-      },
-      "artists": [
-        {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "De La Hoya - En Vivo en el Luna Park",
-      "url": "https://open.spotify.com/track/0hbrmOrw58ZraivbpAFybn"
-    },
-    {
-      "added_at": "2025-03-07 16:35:12",
-      "album": {
         "name": "Ahora Vengo (Vivo Luna Park)",
         "url": "https://open.spotify.com/album/2GkgmWl8aK8vCThHX8UWSz"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 171306,
       "name": "Ahora Vengo - Vivo Luna Park",
       "url": "https://open.spotify.com/track/1ZnRsIPcOyiDlua5lEIE0B"
+    },
+    {
+      "added_at": "2025-03-07 16:35:12",
+      "album": {
+        "name": "De La Hoya (En Vivo en el Luna Park)",
+        "url": "https://open.spotify.com/album/6NH55kSLjV3SosX8HpyG0W"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "De La Hoya - En Vivo en el Luna Park",
+      "url": "https://open.spotify.com/track/0hbrmOrw58ZraivbpAFybn"
     },
     {
       "added_at": "2025-03-07 16:35:12",

@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Фото со звездой](https://open.spotify.com/track/5cw12f6sAU2O88o6gn6Rw1) | [Lida](https://open.spotify.com/artist/0ChMIwzbYxHbebgoPeETfV) | [Фото со звездой](https://open.spotify.com/album/3pNY656sagz7e5RxbzsVLn) | 2:02 |
 | 50 | [Who \(Acoustic Remix\)](https://open.spotify.com/track/10I5rhhFoWZDIN3kEc6Dbo) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE \(WONDER ver.\)](https://open.spotify.com/album/5AQc0yFXRcdUdko4sZ1fW9) | 3:04 |
 
-Snapshot ID: `L4NLIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L4Se+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

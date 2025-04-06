@@ -4,7 +4,7 @@
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-328 songs - 1 day 3 hr 35 min
+329 songs - 1 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Fade To Black](https://open.spotify.com/track/12oSzrBIyirNs0aCwk6elL) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning](https://open.spotify.com/album/7a1dlwArQK6OCHkr2SNlZR) | 6:57 | 2022-04-15 | 2022-07-29 |
 | [Fade To Black \(Remastered\)](https://open.spotify.com/track/0dqGfCMAGyDgpUAgLNOjWd) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe Remaster\)](https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr) | 6:57 | 2022-04-15 | 2024-04-19 |
 | [Fall to Pieces](https://open.spotify.com/track/4A9O9e4iTm4bYnOPSzWaGb) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Contraband](https://open.spotify.com/album/5pJSDIgzal89ksQUzcGGFE) | 4:31 | 2022-04-15 |  |
+| [Farewell](https://open.spotify.com/track/7b71VGiqL6DdpzCyaaJEaD) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [Apocalyptica](https://open.spotify.com/album/6gWLb5vcuUzWzPli9ubIX4) | 5:33 | 2024-06-10 |  |
 | [Farewell](https://open.spotify.com/track/3BKfbFphy0pj5zaXZDLmkx) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa) | [The Metal Opera Pt\. I](https://open.spotify.com/album/287hOKAfNAt7TPMtl8Au6N) | 6:32 | 2022-04-15 | 2022-07-29 |
 | [Farewell](https://open.spotify.com/track/4Qe4jyrOpoUeph5U8gwwxA) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa) | [The Metal Opera, Pt\. I](https://open.spotify.com/album/2HA77HLuzBmzeJp0Hc4YFO) | 6:32 | 2022-04-15 | 2022-11-13 |
 | [Father Time](https://open.spotify.com/track/6xaeNLTVajvNTpjkkNNR6L) | [Richie Sambora](https://open.spotify.com/artist/6uNjT2PKDfR7t48JKhajkh) | [Stranger In This Town](https://open.spotify.com/album/3qZxvn6KGvO4vNwjnJmKrA) | 6:05 | 2022-04-15 | 2022-07-29 |
@@ -101,7 +102,7 @@
 | [Forever and One \(Neverland\)](https://open.spotify.com/track/0B6qYQS41EcbC66r7c4DBB) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [The Time of the Oath](https://open.spotify.com/album/5hx4UkhFj4gaUA0mjNr9D4) | 3:54 | 2022-04-15 |  |
 | [Forever and One \(Neverland\)](https://open.spotify.com/track/1hMT8qwcJyFgbsbMwTBcp5) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [The Time of the Oath](https://open.spotify.com/album/1NWq90Tc3ZTnKnpUXT7dTH) | 3:54 | 2023-02-06 | 2024-04-19 |
 | [Ghost of Freedom](https://open.spotify.com/track/2DUz22ncVE4Vw44sn3lvJa) | [Iced Earth](https://open.spotify.com/artist/3KEixcRfBS5K3E91Vn1Kdy) | [Horror Show](https://open.spotify.com/album/2LI1sWcLYsWeN1TwZ6VvNK) | 5:11 | 2022-04-15 | 2024-06-11 |
-| [Givin' Yourself Away](https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Detonator](https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq) | 5:26 | 2022-04-15 |  |
+| [Givin' Yourself Away](https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Detonator](https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq) | 5:26 | 2022-04-15 | 2025-04-06 |
 | [Glory to the Brave](https://open.spotify.com/track/1Z45Falnkv2ikX8aoWGcIh) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Glory to the Brave](https://open.spotify.com/album/0fEJ9kfAhVqTBVCvyFPvWu) | 7:20 | 2022-04-15 | 2022-11-12 |
 | [Glory to the brave](https://open.spotify.com/track/2oeTfLVqRdveurw4nBy6GF) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Glory To The Brave](https://open.spotify.com/album/3KUQJrOnaEZRUQbLnKFrAc) | 7:20 | 2022-04-15 | 2022-07-29 |
 | [God Was Never on Your Side](https://open.spotify.com/track/3zeQSYzaN9kLVypKWr6yUi) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Kiss of Death](https://open.spotify.com/album/4syGSCBIzJWYQB15Msvn1y) | 4:21 | 2022-04-15 |  |

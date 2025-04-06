@@ -4,7 +4,7 @@
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-166 songs - 11 hr 12 min
+167 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF) | 3:30 | 2022-10-24 |  |
 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/4aMIL5JKiu1S4KwKbxRHsW) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [In Harmony](https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr) | 3:30 | 2021-12-28 | 2022-10-06 |
 | [Nkosi Yami Ngabusiswa](https://open.spotify.com/track/4yomu9eL2rK8s9QBcjr6kd) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ulwandle Olungcwele](https://open.spotify.com/album/2auxBwPk8Q0uhBJtzoSaRg) | 4:16 | 2024-11-04 |  |
-| [Nomathemba](https://open.spotify.com/track/3gptqhvLYt8xyL1fwuObYv) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Spirit Of South Africa](https://open.spotify.com/album/3lSXtIZ7BtoMW3e17WxFCy) | 3:32 | 2021-12-28 |  |
+| [Nomathemba](https://open.spotify.com/track/3gptqhvLYt8xyL1fwuObYv) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Spirit Of South Africa](https://open.spotify.com/album/3lSXtIZ7BtoMW3e17WxFCy) | 3:32 | 2021-12-28 | 2025-04-06 |
 | [Nonqonqo](https://open.spotify.com/track/3Wm6LF8NrVDdh2xiAGqCj4) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Zenzile: The Reimagination of Miriam Makeba](https://open.spotify.com/album/4bOmiBWCHR9keNl8nY1297) | 2:20 | 2023-01-14 | 2024-03-06 |
 | [Oh Happy Day](https://open.spotify.com/track/0lLA7dsfDEuokYI0N6J4lw) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Heavenly](https://open.spotify.com/album/4RAgpLIfNKUoRBnsYFjpfw) | 5:42 | 2022-10-24 | 2023-05-19 |
 | [Oh Happy Day](https://open.spotify.com/track/50yuka9B8lppoDIBsIwGLt) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Heavenly](https://open.spotify.com/album/5VuH0pVmWz1UHUNooKFuND) | 5:42 | 2021-12-28 | 2022-10-14 |
@@ -160,6 +160,7 @@
 | [Waters of Hope](https://open.spotify.com/track/0xetNl5ZG7sHernd60me0Q) | [Sainte Barbe](https://open.spotify.com/artist/4zuQKega38PckB0BN20OGJ), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Waters of Hope](https://open.spotify.com/album/12Xj2qEPH1xPfqavhfsdzz) | 4:57 | 2022-12-07 | 2023-02-27 |
 | [Wawukhona Yini E New York \(Henrik Schwarz Rework\)](https://open.spotify.com/track/6YBb18AzBBqnv1IFAvQ3Ts) | [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Gallo Remixed](https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8) | [Wawukhona Yini E New York \(Henrik Schwarz Rework\)](https://open.spotify.com/album/5G687DzENzadV4d7a61VCz) | 6:29 | 2023-05-08 | 2023-06-27 |
 | [Wawusho Kubani? \- Who Were You Talking To?](https://open.spotify.com/track/2Rgm1smFbQKaduQ5Jbm2O0) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Shaka Zulu](https://open.spotify.com/album/6BqoNCQsupSaLBkl8u1uME) | 5:30 | 2025-03-31 | 2025-04-03 |
+| [Wayibambezela \(Don't Wast Her Time\)](https://open.spotify.com/track/69VCHwrbpiJILTEH7IW6Sw) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Journey Of Dreams](https://open.spotify.com/album/3vMHGUT6cjoHD4jIopv9tL) | 5:37 | 2025-04-06 |  |
 | [We Are One \- From "Simba's Pride"](https://open.spotify.com/track/0Qz6rnFScHPUAUfvNAVS5Y) | [Cam Clarke](https://open.spotify.com/artist/3zsO3rIX3eZkJUtHcMcWVS), [Charity Sanoy](https://open.spotify.com/artist/0XdnLYUACJL47W0Zbs7Dyp), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Lion King 2: Simba's Pride](https://open.spotify.com/album/1Qi1XRfG99dwoh7bX1cyQy) | 3:45 | 2021-12-28 |  |
 | [We Will Sing @30](https://open.spotify.com/track/4FpZMe9Hoath6c9K5kggu1) | [Kate Rusby](https://open.spotify.com/artist/3Cf7jFBOVBRDTvFUxGAJgF), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [30 : Happy Returns](https://open.spotify.com/album/2RqzGr5REeTjUOYbT0Pds7) | 4:07 | 2022-05-16 | 2025-01-18 |
 | [We Will Sing @30](https://open.spotify.com/track/6kBMl2D1mUdsPATvOD980l) | [Kate Rusby](https://open.spotify.com/artist/3Cf7jFBOVBRDTvFUxGAJgF), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [We Will Sing @30](https://open.spotify.com/album/6jyXTCLGzWtgJssij4UNnY) | 4:07 | 2022-04-16 | 2022-05-17 |

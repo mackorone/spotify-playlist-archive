@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 12077,
+  "num_followers": 12094,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+3PgAAAAACkbNz37Eje6eVjj5knLyLr",
+  "snapshot_id": "Z+8hAAAAAAAXR9/9WUwJe63NKDfISzdT",
   "tracks": [
     {
       "added_at": null,
@@ -943,6 +943,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "FEBRE AMARELA (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/59JY68uudM8V2Xm26iIZBL"
+      },
+      "artists": [
+        {
+          "name": "WillsBife",
+          "url": "https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3"
+        },
+        {
+          "name": "ONNiKA",
+          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "FREESTYLE DAS FAIXA ROSA",
+      "url": "https://open.spotify.com/track/5wmnvwl9CFEr2Td4xkJ1ZK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tons #3 - Velocidade (BR 101) [feat. CRIVO]",
         "url": "https://open.spotify.com/album/1Qiv1Ia80WJ8ryqXWX5hy5"
       },
@@ -967,30 +991,6 @@
       "duration_ms": 181714,
       "name": "Tons #3 - Velocidade (BR 101) [feat. CRIVO]",
       "url": "https://open.spotify.com/track/55ndEIr4ApcHOtBp67iZ2l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FEBRE AMARELA (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/59JY68uudM8V2Xm26iIZBL"
-      },
-      "artists": [
-        {
-          "name": "WillsBife",
-          "url": "https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3"
-        },
-        {
-          "name": "ONNiKA",
-          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "FREESTYLE DAS FAIXA ROSA",
-      "url": "https://open.spotify.com/track/5wmnvwl9CFEr2Td4xkJ1ZK"
     },
     {
       "added_at": null,
@@ -1135,38 +1135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Ghost",
-        "url": "https://open.spotify.com/album/1L32RsHbJ3RG20sHMbKm5W"
-      },
-      "artists": [
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        },
-        {
-          "name": "I.E.",
-          "url": "https://open.spotify.com/artist/5QRo5WHp5L2UL0o9GkBZaK"
-        },
-        {
-          "name": "Duzz",
-          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Aka Rasta",
-          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
-        }
-      ],
-      "duration_ms": 212740,
-      "name": "Important",
-      "url": "https://open.spotify.com/track/3Xy9l8YmyD3occDvyC15aW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FEBRE AMARELA",
         "url": "https://open.spotify.com/album/6niwDsmhFpUuWWoiT9s3q4"
       },
@@ -1199,6 +1167,38 @@
       "duration_ms": 277500,
       "name": "STRIP",
       "url": "https://open.spotify.com/track/2T7Q50UA0YjrXJuRTLWXi2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Ghost",
+        "url": "https://open.spotify.com/album/1L32RsHbJ3RG20sHMbKm5W"
+      },
+      "artists": [
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "I.E.",
+          "url": "https://open.spotify.com/artist/5QRo5WHp5L2UL0o9GkBZaK"
+        },
+        {
+          "name": "Duzz",
+          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        }
+      ],
+      "duration_ms": 212740,
+      "name": "Important",
+      "url": "https://open.spotify.com/track/3Xy9l8YmyD3occDvyC15aW"
     }
   ],
   "unique_name": "This Is Ebony",

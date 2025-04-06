@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 143176,
+  "num_followers": 143205,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+3PgAAAAACeWarlVCXgKWXx7yFnWjmw",
+  "snapshot_id": "Z+8hAAAAAADYEz1SkcLzKCBEdvQCV6l+",
   "tracks": [
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breathless",
-        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 260760,
-      "name": "The Joy of Life",
-      "url": "https://open.spotify.com/track/5s5w2DYXBWAL1lX7KTCJY2"
+      "duration_ms": 238426,
+      "name": "Innocence",
+      "url": "https://open.spotify.com/track/5zW8p9nOndsKZnhes6PJtM"
     },
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Moment",
-        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 238426,
-      "name": "Innocence",
-      "url": "https://open.spotify.com/track/5zW8p9nOndsKZnhes6PJtM"
+      "duration_ms": 260760,
+      "name": "The Joy of Life",
+      "url": "https://open.spotify.com/track/5s5w2DYXBWAL1lX7KTCJY2"
     },
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 334160,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/28I4YkpPX5MdkgMy9tYm4C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Mother's Lullaby",
         "url": "https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh"
       },
@@ -511,6 +527,34 @@
       "duration_ms": 197125,
       "name": "A Mother\u2019s Lullaby",
       "url": "https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amore (Remastered)",
+        "url": "https://open.spotify.com/album/1sZg35UlVHKJzigDlx2uSJ"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Berlincioni",
+          "url": "https://open.spotify.com/artist/7EI7G45KH76Fdywj5JhX0h"
+        },
+        {
+          "name": "Gianfranco Fasano",
+          "url": "https://open.spotify.com/artist/5hTXF4Di7MKw9UeTIBE52A"
+        },
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 214572,
+      "name": "Mi manchi",
+      "url": "https://open.spotify.com/track/0czae8hEbfn2zSF5iKCZoE"
     },
     {
       "added_at": null,
@@ -548,9 +592,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 334160,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/28I4YkpPX5MdkgMy9tYm4C"
+      "duration_ms": 298066,
+      "name": "Everytime I Close My Eyes (with Babyface)",
+      "url": "https://open.spotify.com/track/3QAWgoXqVTJ77tmy4ctoyB"
     },
     {
       "added_at": null,
@@ -575,34 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amore (Remastered)",
-        "url": "https://open.spotify.com/album/1sZg35UlVHKJzigDlx2uSJ"
-      },
-      "artists": [
-        {
-          "name": "Fabrizio Berlincioni",
-          "url": "https://open.spotify.com/artist/7EI7G45KH76Fdywj5JhX0h"
-        },
-        {
-          "name": "Gianfranco Fasano",
-          "url": "https://open.spotify.com/artist/5hTXF4Di7MKw9UeTIBE52A"
-        },
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        },
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 214572,
-      "name": "Mi manchi",
-      "url": "https://open.spotify.com/track/0czae8hEbfn2zSF5iKCZoE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rhythm & Romance",
         "url": "https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 431893,
       "name": "Besame Mucho",
       "url": "https://open.spotify.com/track/7DnNhtCHZlhbXaLSebOFso"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Moment",
-        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 298066,
-      "name": "Everytime I Close My Eyes (with Babyface)",
-      "url": "https://open.spotify.com/track/3QAWgoXqVTJ77tmy4ctoyB"
     },
     {
       "added_at": null,
@@ -747,26 +747,6 @@
       "duration_ms": 315293,
       "name": "The Look Of Love",
       "url": "https://open.spotify.com/track/3k9Yi9FsAUrpOVTgyQOIDa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Classics In The Key Of G",
-        "url": "https://open.spotify.com/album/6z3utjo3iGofLUnxWL9zXh"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        },
-        {
-          "name": "Bebel Gilberto",
-          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "The Girl from Ipanema (feat. Bebel Gilberto)",
-      "url": "https://open.spotify.com/track/0UEGw7vWxDoF1TykX88qeQ"
     }
   ],
   "unique_name": "This Is Kenny G",

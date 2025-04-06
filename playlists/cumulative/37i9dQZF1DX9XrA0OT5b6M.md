@@ -4,7 +4,7 @@
 
 > Music from TV Anime "ONE PIECE" /TVアニメ「ONE PIECE」の楽曲を1つのプレイリストで。©️尾田栄一郎／集英社・フジテレビ・東映アニメーション
 
-66 songs - 4 hr 29 min
+67 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [ワノ国 幕開け、幕引きのテーマ](https://open.spotify.com/track/15WLsibdUCBTyN6a9YUajB) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE オリジナルサウンドトラック"WANOKUNI"](https://open.spotify.com/album/0DyIQWyWWthQ3f9xRP1hXa) | 3:39 | 2023-08-23 |  |
 | [ワノ国・終幕](https://open.spotify.com/track/2oCvU0RlxPl74aV08Ro5P3) | [東家一太郎](https://open.spotify.com/artist/2XSIUbee4i0jOyL3vwUmZH) | [ONE PIECE Original Soundtrack"GEAR5"](https://open.spotify.com/album/1jmR8jrRGykXMhptwhyUY0) | 7:16 | 2024-01-25 |  |
 | [兄弟の思い出](https://open.spotify.com/track/03YlDaNVWz2aztRYpS3bHv) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE MUSIC MATERIAL \(Vol.2\)](https://open.spotify.com/album/4ws5nZWlUQ50f3wt2zho95) | 1:51 | 2023-08-23 |  |
+| [天使と悪魔](https://open.spotify.com/track/614SrzamJ4d8gJOLkiZbRn) | [GRe4N BOYZ](https://open.spotify.com/artist/5OodWcD7f7OOXvNUG2HqbC) | [天使と悪魔](https://open.spotify.com/album/5NZlBgPBgInls0xXbeLxUW) | 3:39 | 2025-04-05 |  |
 | [新生!麦わらの一味](https://open.spotify.com/track/0Blyxo1u0TWbK0RUXPlfgf) | [井内啓二](https://open.spotify.com/artist/5lV6kCxBzbADTYthjLSveR) | [ONE PIECE MUSIC MATERIAL \(Vol.1\)](https://open.spotify.com/album/3e3bVLPrES1o1X0rN4Oiyu) | 2:18 | 2023-08-23 |  |
 | [最高到達点](https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最高到達点](https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN) | 3:47 | 2023-09-16 |  |
 | [次回予告 〜ウィーゴー!ver.〜](https://open.spotify.com/track/5qQWy2iK8bTlECxHRfKama) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE MUSIC MATERIAL \(Vol.2\)](https://open.spotify.com/album/4ws5nZWlUQ50f3wt2zho95) | 0:34 | 2023-08-23 |  |

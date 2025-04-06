@@ -1,6 +1,6 @@
 {
   "description": "Cozy tunes for big winter chilling ",
-  "num_followers": 2066303,
+  "num_followers": 2066315,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2025-01-16 17:49:04",
       "album": {
+        "name": "Lose You Now",
+        "url": "https://open.spotify.com/album/1s2RfYJTmgabctpG6GJBOG"
+      },
+      "artists": [
+        {
+          "name": "Lily Fitts",
+          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
+        }
+      ],
+      "duration_ms": 198572,
+      "name": "Lose You Now",
+      "url": "https://open.spotify.com/track/4WurkARkUZaKRXiPjYioHe"
+    },
+    {
+      "added_at": "2025-01-16 17:49:04",
+      "album": {
         "name": "Nina Cried Power - EP",
         "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
       },
@@ -383,18 +399,22 @@
     {
       "added_at": "2025-01-16 17:49:04",
       "album": {
-        "name": "Lose You Now",
-        "url": "https://open.spotify.com/album/1s2RfYJTmgabctpG6GJBOG"
+        "name": "I Lied",
+        "url": "https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq"
       },
       "artists": [
         {
-          "name": "Lily Fitts",
-          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        },
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
         }
       ],
-      "duration_ms": 198572,
-      "name": "Lose You Now",
-      "url": "https://open.spotify.com/track/4WurkARkUZaKRXiPjYioHe"
+      "duration_ms": 234383,
+      "name": "I Lied (with Allison Ponthier)",
+      "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
     },
     {
       "added_at": "2025-01-16 17:49:04",
@@ -431,26 +451,6 @@
       "duration_ms": 206146,
       "name": "Room On Your Shoulder",
       "url": "https://open.spotify.com/track/5T6ZMk67Sk3gimfuY73tDA"
-    },
-    {
-      "added_at": "2025-01-16 17:49:04",
-      "album": {
-        "name": "I Lied",
-        "url": "https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        },
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 234383,
-      "name": "I Lied (with Allison Ponthier)",
-      "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
     },
     {
       "added_at": "2025-01-16 17:49:04",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-01-16 17:49:04",
       "album": {
-        "name": "Solstice",
-        "url": "https://open.spotify.com/album/2B1TsRb3uycachEmnppqsZ"
-      },
-      "artists": [
-        {
-          "name": "Anna Graves",
-          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
-        }
-      ],
-      "duration_ms": 206543,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/02KzF8vFmNIhtPW8XKTdHe"
-    },
-    {
-      "added_at": "2025-01-16 17:49:04",
-      "album": {
         "name": "Sapling / Signs Of Life",
         "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 257853,
       "name": "Sapling",
       "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
+    },
+    {
+      "added_at": "2025-01-16 17:49:04",
+      "album": {
+        "name": "Solstice",
+        "url": "https://open.spotify.com/album/2B1TsRb3uycachEmnppqsZ"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "duration_ms": 206543,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/02KzF8vFmNIhtPW8XKTdHe"
     },
     {
       "added_at": "2025-01-16 17:49:04",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-01-16 17:49:04",
       "album": {
-        "name": "Goodnight Summerland",
-        "url": "https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 219507,
-      "name": "Bright Green Vibrant Gray",
-      "url": "https://open.spotify.com/track/6OvymCZ4OgIYA7MSXvPIsM"
-    },
-    {
-      "added_at": "2025-01-16 17:49:04",
-      "album": {
         "name": "Weathervanes",
         "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
       },
@@ -811,22 +795,6 @@
       "duration_ms": 250574,
       "name": "Strawberry Woman",
       "url": "https://open.spotify.com/track/4ABeiTbfMPzISpIeehvxRg"
-    },
-    {
-      "added_at": "2025-01-16 17:49:04",
-      "album": {
-        "name": "Flag Day (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "I Think Of Angels",
-      "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
     },
     {
       "added_at": "2025-01-16 17:49:04",
@@ -847,6 +815,38 @@
       "duration_ms": 210546,
       "name": "Seed of Joy",
       "url": "https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx"
+    },
+    {
+      "added_at": "2025-01-16 17:49:04",
+      "album": {
+        "name": "Goodnight Summerland",
+        "url": "https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 219507,
+      "name": "Bright Green Vibrant Gray",
+      "url": "https://open.spotify.com/track/6OvymCZ4OgIYA7MSXvPIsM"
+    },
+    {
+      "added_at": "2025-01-16 17:49:04",
+      "album": {
+        "name": "Flag Day (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 212546,
+      "name": "I Think Of Angels",
+      "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
     },
     {
       "added_at": "2025-01-16 17:49:04",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-01-16 17:49:04",
       "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 198266,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA"
-    },
-    {
-      "added_at": "2025-01-16 17:49:04",
-      "album": {
         "name": "Rosemary",
         "url": "https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 254200,
       "name": "Feel Alive Again",
       "url": "https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2"
+    },
+    {
+      "added_at": "2025-01-16 17:49:04",
+      "album": {
+        "name": "This Is Really Going To Hurt",
+        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 198266,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA"
     },
     {
       "added_at": "2025-01-16 17:49:04",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-01-16 17:49:04",
       "album": {
-        "name": "We're Starting to Look Like Each Other",
-        "url": "https://open.spotify.com/album/12AH5gxA0gwvON2H1ce72w"
-      },
-      "artists": [
-        {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
-        }
-      ],
-      "duration_ms": 243969,
-      "name": "Hitchhiking",
-      "url": "https://open.spotify.com/track/4Xus7PhuqSihGgFJJZ1Ayu"
-    },
-    {
-      "added_at": "2025-01-16 17:49:04",
-      "album": {
         "name": "From The Valley",
         "url": "https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 163403,
       "name": "On Wrong Side (with Bon Iver)",
       "url": "https://open.spotify.com/track/1ZANsLH33oCf6ofTFT6HJy"
+    },
+    {
+      "added_at": "2025-01-16 17:49:04",
+      "album": {
+        "name": "We're Starting to Look Like Each Other",
+        "url": "https://open.spotify.com/album/12AH5gxA0gwvON2H1ce72w"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "duration_ms": 243969,
+      "name": "Hitchhiking",
+      "url": "https://open.spotify.com/track/4Xus7PhuqSihGgFJJZ1Ayu"
     },
     {
       "added_at": "2025-01-16 17:49:04",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2025-01-16 17:49:04",
       "album": {
+        "name": "Ellen",
+        "url": "https://open.spotify.com/album/6BATuu8z9yFBk41UeHe9E0"
+      },
+      "artists": [
+        {
+          "name": "Jill Andrews",
+          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "Could\u2019ve Been",
+      "url": "https://open.spotify.com/track/2bmYuAIAGJEgLwwIHtusHR"
+    },
+    {
+      "added_at": "2025-01-16 17:49:04",
+      "album": {
         "name": "Breathing",
         "url": "https://open.spotify.com/album/5wq15TYfzXlZMbVBGceVhV"
       },
@@ -1175,22 +1191,6 @@
     {
       "added_at": "2025-01-16 17:49:04",
       "album": {
-        "name": "Same Sun EP",
-        "url": "https://open.spotify.com/album/3Qe2tQ4wk8f6wzSMgzjebH"
-      },
-      "artists": [
-        {
-          "name": "Ryan Harris",
-          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
-        }
-      ],
-      "duration_ms": 159010,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/3TejUMaOZWJS2WynHIZnOW"
-    },
-    {
-      "added_at": "2025-01-16 17:49:04",
-      "album": {
         "name": "Helpless",
         "url": "https://open.spotify.com/album/396OTSPq4V7Rxw6y8RmvGA"
       },
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2025-01-16 17:49:04",
       "album": {
-        "name": "Ellen",
-        "url": "https://open.spotify.com/album/6BATuu8z9yFBk41UeHe9E0"
+        "name": "Same Sun EP",
+        "url": "https://open.spotify.com/album/3Qe2tQ4wk8f6wzSMgzjebH"
       },
       "artists": [
         {
-          "name": "Jill Andrews",
-          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
+          "name": "Ryan Harris",
+          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
         }
       ],
-      "duration_ms": 205280,
-      "name": "Could\u2019ve Been",
-      "url": "https://open.spotify.com/track/2bmYuAIAGJEgLwwIHtusHR"
+      "duration_ms": 159010,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/3TejUMaOZWJS2WynHIZnOW"
     },
     {
       "added_at": "2025-01-16 17:49:04",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-01-16 17:49:04",
       "album": {
-        "name": "ellipsis",
-        "url": "https://open.spotify.com/album/3n60c52OZfy9rrlPgEVruQ"
-      },
-      "artists": [
-        {
-          "name": "Pem",
-          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
-        }
-      ],
-      "duration_ms": 243314,
-      "name": "ellipsis",
-      "url": "https://open.spotify.com/track/7nHtlqsooMoimCnxQx36bV"
-    },
-    {
-      "added_at": "2025-01-16 17:49:04",
-      "album": {
         "name": "Heigh Ho",
         "url": "https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 319706,
       "name": "Don't Tell Our Friends About Me",
       "url": "https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK"
+    },
+    {
+      "added_at": "2025-01-16 17:49:04",
+      "album": {
+        "name": "ellipsis",
+        "url": "https://open.spotify.com/album/3n60c52OZfy9rrlPgEVruQ"
+      },
+      "artists": [
+        {
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+        }
+      ],
+      "duration_ms": 243314,
+      "name": "ellipsis",
+      "url": "https://open.spotify.com/track/7nHtlqsooMoimCnxQx36bV"
     },
     {
       "added_at": "2025-01-16 17:49:04",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-01-16 17:49:04",
       "album": {
-        "name": "Here Comes The Comeback",
-        "url": "https://open.spotify.com/album/7An2n1nwYUoH8JpmQMEjB7"
-      },
-      "artists": [
-        {
-          "name": "Mitch Rowland",
-          "url": "https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ"
-        }
-      ],
-      "duration_ms": 162101,
-      "name": "Here Comes The Comeback",
-      "url": "https://open.spotify.com/track/42X7jGOwOJIW1cEFLvaytf"
-    },
-    {
-      "added_at": "2025-01-16 17:49:04",
-      "album": {
         "name": "Burden",
         "url": "https://open.spotify.com/album/6F0IlXWoKvO6YOS1v7PIhF"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 221000,
       "name": "Burden",
       "url": "https://open.spotify.com/track/7HOTm58hiTnCjpSJq4OvJs"
+    },
+    {
+      "added_at": "2025-01-16 17:49:04",
+      "album": {
+        "name": "Here Comes The Comeback",
+        "url": "https://open.spotify.com/album/7An2n1nwYUoH8JpmQMEjB7"
+      },
+      "artists": [
+        {
+          "name": "Mitch Rowland",
+          "url": "https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ"
+        }
+      ],
+      "duration_ms": 162101,
+      "name": "Here Comes The Comeback",
+      "url": "https://open.spotify.com/track/42X7jGOwOJIW1cEFLvaytf"
     },
     {
       "added_at": "2025-01-16 17:49:04",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2025-01-16 17:49:04",
       "album": {
-        "name": "family party",
-        "url": "https://open.spotify.com/album/6W5VZbgjiI0SyoL9p3GKD0"
+        "name": "Carolina Rolling By",
+        "url": "https://open.spotify.com/album/09vc762pu9mS1mnKBIK9Sj"
       },
       "artists": [
         {
-          "name": "Kevin Atwater",
-          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
         }
       ],
-      "duration_ms": 139185,
-      "name": "family party",
-      "url": "https://open.spotify.com/track/4WXhsnnPXl3EtRElw9G4EF"
+      "duration_ms": 295380,
+      "name": "Carolina Rolling By",
+      "url": "https://open.spotify.com/track/3KPbfMIQy43Wc9XbhmaIFy"
     },
     {
       "added_at": "2025-01-16 17:49:04",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2025-01-16 17:49:04",
       "album": {
-        "name": "Carolina Rolling By",
-        "url": "https://open.spotify.com/album/09vc762pu9mS1mnKBIK9Sj"
+        "name": "family party",
+        "url": "https://open.spotify.com/album/6W5VZbgjiI0SyoL9p3GKD0"
       },
       "artists": [
         {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+          "name": "Kevin Atwater",
+          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
         }
       ],
-      "duration_ms": 295380,
-      "name": "Carolina Rolling By",
-      "url": "https://open.spotify.com/track/3KPbfMIQy43Wc9XbhmaIFy"
+      "duration_ms": 139185,
+      "name": "family party",
+      "url": "https://open.spotify.com/track/4WXhsnnPXl3EtRElw9G4EF"
     },
     {
       "added_at": "2025-01-16 17:49:04",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2025-01-16 17:49:04",
       "album": {
+        "name": "Every Feeling On A Loop",
+        "url": "https://open.spotify.com/album/17MXfeDk8JUKn7gPoWYfZz"
+      },
+      "artists": [
+        {
+          "name": "Josiah Johnson",
+          "url": "https://open.spotify.com/artist/1Vii05hSGW51heihg6h2Gg"
+        }
+      ],
+      "duration_ms": 285333,
+      "name": "I Wish I Had",
+      "url": "https://open.spotify.com/track/0KkLD3H6kYylkLLVyFWX31"
+    },
+    {
+      "added_at": "2025-01-16 17:49:04",
+      "album": {
         "name": "Six Years",
         "url": "https://open.spotify.com/album/09h1Ua90MNSAay3tru8GkS"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 187815,
       "name": "Down (Exit Song)",
       "url": "https://open.spotify.com/track/4mw2XX72WZ43X7QcrrlIf9"
-    },
-    {
-      "added_at": "2025-01-16 17:49:04",
-      "album": {
-        "name": "Every Feeling On A Loop",
-        "url": "https://open.spotify.com/album/17MXfeDk8JUKn7gPoWYfZz"
-      },
-      "artists": [
-        {
-          "name": "Josiah Johnson",
-          "url": "https://open.spotify.com/artist/1Vii05hSGW51heihg6h2Gg"
-        }
-      ],
-      "duration_ms": 285333,
-      "name": "I Wish I Had",
-      "url": "https://open.spotify.com/track/0KkLD3H6kYylkLLVyFWX31"
     },
     {
       "added_at": "2025-01-16 17:49:04",

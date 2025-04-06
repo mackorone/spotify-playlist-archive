@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-676 songs - 1 day 15 hr 48 min
+677 songs - 1 day 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [Flama](https://open.spotify.com/track/6NpGYnHsT8nN9FIDg0zJfC) | [ASTOR](https://open.spotify.com/artist/5HOLlBg0CiYtDCkml6ysqC) | [Flama](https://open.spotify.com/album/4g8Ib0P4gTaHeyFbK8BsCt) | 4:51 | 2022-07-01 | 2023-04-30 |
 | [FLASH/TRASH](https://open.spotify.com/track/1AB2VzsMPHdGZqnOFNrXBr) | [Corvex](https://open.spotify.com/artist/2E94EJ7lzS7wlcvpYMelWy) | [FLASH/TRASH](https://open.spotify.com/album/5VcMoARL6Cb8OW6fX2cjUI) | 7:43 | 2023-08-11 | 2023-10-10 |
 | [Flores Sobre las Piedras](https://open.spotify.com/track/4WzYFb4DuCsBdSxwuc5AnZ) | [Carla Rivarola](https://open.spotify.com/artist/2zx6gMuW2mPXl4WJx4lgGK) | [Flores Sobre las Piedras](https://open.spotify.com/album/2NDbkXbi16sS49LigcSd4n) | 5:02 | 2022-06-03 | 2022-07-29 |
-| [Flotante](https://open.spotify.com/track/6UuoM5OOo4cCsUrscUdEsc) | [Alem](https://open.spotify.com/artist/4Y4iQxPJ1BV03LEkW3vrTS) | [Flotante](https://open.spotify.com/album/7wTKcW7WTTZiIuxTvIQw8s) | 3:56 | 2024-10-01 |  |
+| [Flotante](https://open.spotify.com/track/6UuoM5OOo4cCsUrscUdEsc) | [Alem](https://open.spotify.com/artist/4Y4iQxPJ1BV03LEkW3vrTS) | [Flotante](https://open.spotify.com/album/7wTKcW7WTTZiIuxTvIQw8s) | 3:56 | 2024-10-01 | 2025-04-06 |
 | [Fluir](https://open.spotify.com/track/5qKiEzT74lSMBdyPOtnlPb) | [Hipnotica](https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY) | [Clásico](https://open.spotify.com/album/6SBMBonYpCmJUIPlwSnL6G) | 3:52 | 2022-06-03 | 2023-06-10 |
 | [Fortalecido](https://open.spotify.com/track/3sq9PDYOoEU37aQRzqtycs) | [Los Monos de la China](https://open.spotify.com/artist/0c1o1fAr8LhpZ8r0reNajD) | [Fortalecido](https://open.spotify.com/album/3anfHh0hIxjOdhZQWa8P3j) | 4:09 | 2022-07-01 | 2022-07-13 |
 | [Fotos y Videos](https://open.spotify.com/track/4FqqOPeMZDiHXkDWakgjN5) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [Fotos y Videos](https://open.spotify.com/album/0SlIh51qhhnp3FcqYqCLCL) | 2:56 | 2022-06-03 | 2022-07-29 |
@@ -414,6 +414,7 @@
 | [Mordisco](https://open.spotify.com/track/6FBzbqhYjRilxEM2Kss8Bv) | [Soy Irracional](https://open.spotify.com/artist/6PKKXAHepFCoV4cAtwPUna) | [Modernica](https://open.spotify.com/album/785tbYjj5baApQGkSIiMkq) | 3:09 | 2022-07-01 | 2023-10-23 |
 | [Morir por Vos \(No Puedo\)](https://open.spotify.com/track/6tECZ1eUtbe3mPq61BCYkW) | [Sol Bassa](https://open.spotify.com/artist/1cttIh2Jh0yR5nxfBmRF6O), [Ravioli Juan](https://open.spotify.com/artist/66NrjJ1V6I3BL8tkYMg8OU) | [Errores Coleccionables](https://open.spotify.com/album/224G5BiBybfnDOvVzmvCPG) | 3:08 | 2022-06-03 | 2022-07-23 |
 | [Moto](https://open.spotify.com/track/1AeMG2TNofR1A8xoJ7Nl5O) | [Las Preguntas](https://open.spotify.com/artist/7sFSNryNgWCJTI1Vao95LP), [Dani Umpi](https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI) | [Estrellas, Piernas y Serpientes](https://open.spotify.com/album/4ji5kipvo6MkhrjVAdboZl) | 3:27 | 2023-07-07 | 2023-08-20 |
+| [Muerde](https://open.spotify.com/track/52UEFtf0kXBjjzCJgqsC19) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7), [Ivanewbie](https://open.spotify.com/artist/6qsBlUBsW7t91aiHfBushw) | [Muerde](https://open.spotify.com/album/3s4KfDYzx43oz29SdLdkAc) | 2:59 | 2025-04-04 |  |
 | [Multiverso](https://open.spotify.com/track/6fPmHiU0CXGbk2JfljoAe6) | [Portobel](https://open.spotify.com/artist/4D4LYABcCVmUcodiy86goS), [Alfonso El Pintor](https://open.spotify.com/artist/1wGhNVSFMYSNhp0tsvzauZ) | [Preludio](https://open.spotify.com/album/0rKDiwLNpdoJGUAolXyuYU) | 4:21 | 2022-06-03 | 2022-07-27 |
 | [mutar la piel](https://open.spotify.com/track/3c6htQWeWgxzXYVrqg2ABk) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum), [Aluhé](https://open.spotify.com/artist/5reGHhq0cPEOW5nYDj1Dge) | [mutar la piel](https://open.spotify.com/album/3FpUrtVBDvGQKwzvFqOkMd) | 2:53 | 2024-01-04 | 2024-07-13 |
 | [My Way](https://open.spotify.com/track/3UayvXfu3vC36Kzea4uxhT) | [Vera Nois](https://open.spotify.com/artist/2PfumsJv10WNf48i5L6ncG) | [Musicaland](https://open.spotify.com/album/4qD8Iomhwn77qqlhpXlBwD) | 3:35 | 2022-11-11 | 2022-12-06 |

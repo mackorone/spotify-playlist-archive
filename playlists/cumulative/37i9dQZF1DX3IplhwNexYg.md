@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Ain't
 
-704 songs - 1 day 15 hr 51 min
+705 songs - 1 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,7 +358,7 @@
 | [Knuckles](https://open.spotify.com/track/7k0dSGTAvbmKmpB6qRQKCn) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Knuckles](https://open.spotify.com/album/0K5aDBQbnRuZsXItf7qPEj) | 2:40 | 2022-09-08 | 2022-10-14 |
 | [Kool Aid](https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Kool Aid](https://open.spotify.com/album/5yBahiPHetqnjC6oKYMJph) | 3:36 | 2022-10-13 | 2023-09-29 |
 | [Labrador](https://open.spotify.com/track/06LiHAhneCsoLvRPDHPrJR) | [WAAX](https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi) | [Labrador](https://open.spotify.com/album/19nKwENJSpAHPUmTjEn0pC) | 3:41 | 2021-03-09 | 2022-01-17 |
-| [Lady Messiah](https://open.spotify.com/track/0hYP2EZeqbq9Kh0AHY0JWB) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Lady Messiah](https://open.spotify.com/album/2wFYnARRz82hDG4udhjz7q) | 3:26 | 2024-04-12 |  |
+| [Lady Messiah](https://open.spotify.com/track/0hYP2EZeqbq9Kh0AHY0JWB) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Lady Messiah](https://open.spotify.com/album/2wFYnARRz82hDG4udhjz7q) | 3:26 | 2024-04-12 | 2025-04-06 |
 | [Lain \(phone clone\)](https://open.spotify.com/track/3aq2HJqPhVH3D8jcbAQJvT) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Lain \(phone clone\)](https://open.spotify.com/album/6kVkofYbaUHoPO1YKObr3k) | 4:01 | 2023-01-13 | 2023-02-26 |
 | [last july](https://open.spotify.com/track/3vC1FzGYGsjUDEeZahvaRt) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [If I never know you like this again](https://open.spotify.com/album/7nMKqegypHLrmj9fN98Tyx) | 3:46 | 2022-08-18 | 2022-11-18 |
 | [Last Night I Held Your Hand](https://open.spotify.com/track/6NL6zL6uc5GmJLETAK6hn0) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Last Night I Held Your Hand](https://open.spotify.com/album/6ZvDph2g4dJnla8YJgkGA6) | 3:40 | 2025-01-17 |  |
@@ -423,6 +423,7 @@
 | [Nervous](https://open.spotify.com/track/3JaI7w5XQuJni4fX03MZIb) | [HUSHPUPPY](https://open.spotify.com/artist/40OzWU8bIYirFgmNSy6qct) | [Nervous](https://open.spotify.com/album/3qLRGWTOndzbYgUDi2kd85) | 1:30 | 2022-03-10 | 2022-09-02 |
 | [Never Going Under](https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:14 | 2023-01-13 | 2025-01-18 |
 | [Never Good Enough](https://open.spotify.com/track/1pGqAguykp8zDDqXggYMOg) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Never Good Enough](https://open.spotify.com/album/1maaBTu2ouZNKanqe8Foap) | 3:47 | 2022-08-18 | 2023-01-15 |
+| [Neverwannago](https://open.spotify.com/track/0AUimdRq6b1BItNvPLzs7q) | [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [Neverwannago](https://open.spotify.com/album/7MLcNxTR9If4ssF2b9CF6L) | 2:56 | 2025-03-27 |  |
 | [New Used Car \(feat\. Jamie T\)](https://open.spotify.com/track/6shC3fkv6A46ZM6fR8UA9V) | [86TVs](https://open.spotify.com/artist/6jKNhOt3ygu1yvmEEVacTx), [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [86TVs](https://open.spotify.com/album/5XpLHF74WCwQdWGao3ahjh) | 2:55 | 2024-08-09 | 2024-10-02 |
 | [Night Sweats \- Edit](https://open.spotify.com/track/3xC3BD4TNapP4PNOtMgTpH) | [Plague Vendor](https://open.spotify.com/artist/680qtSVCs3xqNWqZd4khh5) | [Night Sweats \(Edit\) / SPF](https://open.spotify.com/album/4f36muAgsiBsQG1zVkRFuJ) | 2:46 | 2021-03-09 | 2022-01-17 |
 | [Nighttime](https://open.spotify.com/track/73Hh7xuXyKdBChmavyFz0b) | [Fresh](https://open.spotify.com/artist/0q2GJGveytu4IRflsL05Xg) | [Daytime / Nighttime](https://open.spotify.com/album/5ZlFbKdcEz3B8dz1i8x65B) | 2:42 | 2021-03-09 | 2022-01-17 |

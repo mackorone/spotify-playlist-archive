@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: GUADA.",
-  "num_followers": 128840,
+  "num_followers": 128846,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,26 @@
     {
       "added_at": "2025-03-28 03:00:14",
       "album": {
+        "name": "Te Espero Ac\u00e1",
+        "url": "https://open.spotify.com/album/6YbmT9jeswfplJXhXglA4V"
+      },
+      "artists": [
+        {
+          "name": "Mateo Bello",
+          "url": "https://open.spotify.com/artist/47jnmV5l8x5UZtsifCJAaU"
+        },
+        {
+          "name": "TERE!",
+          "url": "https://open.spotify.com/artist/1XFRJsXT3y66uR2YlMMjlT"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Te Espero Ac\u00e1",
+      "url": "https://open.spotify.com/track/2JTXZrTfvtcaKyRwDjhtZN"
+    },
+    {
+      "added_at": "2025-03-28 03:00:14",
+      "album": {
         "name": "Un Golpe de Suerte",
         "url": "https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4"
       },
@@ -923,22 +943,22 @@
     {
       "added_at": "2025-03-28 03:00:14",
       "album": {
-        "name": "Te Espero Ac\u00e1",
-        "url": "https://open.spotify.com/album/6YbmT9jeswfplJXhXglA4V"
+        "name": "Tinc una sort",
+        "url": "https://open.spotify.com/album/6oYyGPYH9YHz7OE9G6aRYm"
       },
       "artists": [
         {
-          "name": "Mateo Bello",
-          "url": "https://open.spotify.com/artist/47jnmV5l8x5UZtsifCJAaU"
+          "name": "Aleix Triad\u00f3",
+          "url": "https://open.spotify.com/artist/6YaYNz8cKOJRisbaCzjcJE"
         },
         {
-          "name": "TERE!",
-          "url": "https://open.spotify.com/artist/1XFRJsXT3y66uR2YlMMjlT"
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Te Espero Ac\u00e1",
-      "url": "https://open.spotify.com/track/2JTXZrTfvtcaKyRwDjhtZN"
+      "duration_ms": 146333,
+      "name": "Tinc una sort",
+      "url": "https://open.spotify.com/track/5dj3bJhcCxa5903Jno8gMq"
     },
     {
       "added_at": "2025-03-28 03:00:14",
@@ -983,42 +1003,6 @@
     {
       "added_at": "2025-03-28 03:00:14",
       "album": {
-        "name": "Tinc una sort",
-        "url": "https://open.spotify.com/album/6oYyGPYH9YHz7OE9G6aRYm"
-      },
-      "artists": [
-        {
-          "name": "Aleix Triad\u00f3",
-          "url": "https://open.spotify.com/artist/6YaYNz8cKOJRisbaCzjcJE"
-        },
-        {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
-        }
-      ],
-      "duration_ms": 146333,
-      "name": "Tinc una sort",
-      "url": "https://open.spotify.com/track/5dj3bJhcCxa5903Jno8gMq"
-    },
-    {
-      "added_at": "2025-03-28 03:00:14",
-      "album": {
-        "name": "Todo te parece normal",
-        "url": "https://open.spotify.com/album/6w60jUW5MJdacklytIan1H"
-      },
-      "artists": [
-        {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
-        }
-      ],
-      "duration_ms": 296669,
-      "name": "Todo te parece normal",
-      "url": "https://open.spotify.com/track/1jQ695vF4J7RQz9vHhHj80"
-    },
-    {
-      "added_at": "2025-03-28 03:00:14",
-      "album": {
         "name": "Mundo Nuevo",
         "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 201346,
       "name": "Mundo Nuevo",
       "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
+    },
+    {
+      "added_at": "2025-03-28 03:00:14",
+      "album": {
+        "name": "Todo te parece normal",
+        "url": "https://open.spotify.com/album/6w60jUW5MJdacklytIan1H"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "duration_ms": 296669,
+      "name": "Todo te parece normal",
+      "url": "https://open.spotify.com/track/1jQ695vF4J7RQz9vHhHj80"
     },
     {
       "added_at": "2025-03-28 03:00:14",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2025-03-28 03:00:14",
       "album": {
-        "name": "Esto No Es un Disco Vol.2",
-        "url": "https://open.spotify.com/album/3FmBATesZ9njggDI8wDseS"
-      },
-      "artists": [
-        {
-          "name": "El Ni\u00f1o de la Hipoteca",
-          "url": "https://open.spotify.com/artist/3Znu3IpegNZzamLA9vRsE0"
-        },
-        {
-          "name": "Sandra Bautista",
-          "url": "https://open.spotify.com/artist/2jenRVqNHK4NWoAjz19q5w"
-        }
-      ],
-      "duration_ms": 158341,
-      "name": "Testamento - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0FcjJaexti8Duj7o7Oglj3"
-    },
-    {
-      "added_at": "2025-03-28 03:00:14",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/523A7IjwBmOfIAk0xh3DUx"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 275551,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/5BsKfH1KSogiWBUA93Ovbp"
+    },
+    {
+      "added_at": "2025-03-28 03:00:14",
+      "album": {
+        "name": "Esto No Es un Disco Vol.2",
+        "url": "https://open.spotify.com/album/3FmBATesZ9njggDI8wDseS"
+      },
+      "artists": [
+        {
+          "name": "El Ni\u00f1o de la Hipoteca",
+          "url": "https://open.spotify.com/artist/3Znu3IpegNZzamLA9vRsE0"
+        },
+        {
+          "name": "Sandra Bautista",
+          "url": "https://open.spotify.com/artist/2jenRVqNHK4NWoAjz19q5w"
+        }
+      ],
+      "duration_ms": 158341,
+      "name": "Testamento - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0FcjJaexti8Duj7o7Oglj3"
     },
     {
       "added_at": "2025-03-28 03:00:14",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2025-03-28 03:00:14",
       "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3QfGs7DDFiZo4bv5HELUaD"
+      },
+      "artists": [
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        },
+        {
+          "name": "Guillem Roma",
+          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
+        }
+      ],
+      "duration_ms": 212019,
+      "name": "T\u00f3came",
+      "url": "https://open.spotify.com/track/2TDPkO4JsdkMeAsCLIQwY2"
+    },
+    {
+      "added_at": "2025-03-28 03:00:14",
+      "album": {
         "name": "Y YA NADA",
         "url": "https://open.spotify.com/album/4bMMiMiAK4jAkiSIg36hcJ"
       },
@@ -1319,26 +1339,6 @@
       "duration_ms": 234144,
       "name": "Y YA NADA",
       "url": "https://open.spotify.com/track/3IBYBGzIvrLj8mdJBDXKFr"
-    },
-    {
-      "added_at": "2025-03-28 03:00:14",
-      "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/3QfGs7DDFiZo4bv5HELUaD"
-      },
-      "artists": [
-        {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
-        },
-        {
-          "name": "Guillem Roma",
-          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
-        }
-      ],
-      "duration_ms": 212019,
-      "name": "T\u00f3came",
-      "url": "https://open.spotify.com/track/2TDPkO4JsdkMeAsCLIQwY2"
     },
     {
       "added_at": "2025-03-28 03:00:14",
@@ -1379,22 +1379,6 @@
       "duration_ms": 251856,
       "name": "Hoy no tengo nada que hacer",
       "url": "https://open.spotify.com/track/4ZhM1JjdSSJs0QVv7EDcBu"
-    },
-    {
-      "added_at": "2025-03-28 03:00:14",
-      "album": {
-        "name": "HAZ LO TUYO",
-        "url": "https://open.spotify.com/album/6VE5UqcuVG0PacWRntOXTZ"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Yfeu",
-          "url": "https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "nada es para siempre (As\u00ed)",
-      "url": "https://open.spotify.com/track/7fgj71d0CvNdo8hB5Yl4oB"
     },
     {
       "added_at": "2025-03-28 03:00:14",
@@ -1451,6 +1435,22 @@
     {
       "added_at": "2025-03-28 03:00:14",
       "album": {
+        "name": "HAZ LO TUYO",
+        "url": "https://open.spotify.com/album/6VE5UqcuVG0PacWRntOXTZ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Yfeu",
+          "url": "https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "nada es para siempre (As\u00ed)",
+      "url": "https://open.spotify.com/track/7fgj71d0CvNdo8hB5Yl4oB"
+    },
+    {
+      "added_at": "2025-03-28 03:00:14",
+      "album": {
         "name": "Cerca cerca",
         "url": "https://open.spotify.com/album/1TGAQzVDCs2Nye6JYVZPtf"
       },
@@ -1463,6 +1463,26 @@
       "duration_ms": 189605,
       "name": "Cerca cerca",
       "url": "https://open.spotify.com/track/6YL7Z4OWDp8OxZyQn16Jgr"
+    },
+    {
+      "added_at": "2025-03-28 03:00:14",
+      "album": {
+        "name": "Continuar",
+        "url": "https://open.spotify.com/album/5SBfVpckwITuqJI6PKRfxL"
+      },
+      "artists": [
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        },
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        }
+      ],
+      "duration_ms": 157928,
+      "name": "Continuar",
+      "url": "https://open.spotify.com/track/18PTMhSPFPlHl1aY1vUqjL"
     },
     {
       "added_at": "2025-03-28 03:00:14",
@@ -1507,22 +1527,18 @@
     {
       "added_at": "2025-03-28 03:00:14",
       "album": {
-        "name": "Continuar",
-        "url": "https://open.spotify.com/album/5SBfVpckwITuqJI6PKRfxL"
+        "name": "Vidrieritas",
+        "url": "https://open.spotify.com/album/7coLrKNPKAPDZfgLotJ1VW"
       },
       "artists": [
         {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
-        },
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+          "name": "Mar\u00eda de la Flor",
+          "url": "https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3"
         }
       ],
-      "duration_ms": 157928,
-      "name": "Continuar",
-      "url": "https://open.spotify.com/track/18PTMhSPFPlHl1aY1vUqjL"
+      "duration_ms": 215786,
+      "name": "Vidrieritas",
+      "url": "https://open.spotify.com/track/0iII2cRRg31qEKRmfKx545"
     },
     {
       "added_at": "2025-03-28 03:00:14",
@@ -1539,22 +1555,6 @@
       "duration_ms": 181125,
       "name": "Ay Madrid",
       "url": "https://open.spotify.com/track/0xbrUmlaNHYD7LHjMyVZgJ"
-    },
-    {
-      "added_at": "2025-03-28 03:00:14",
-      "album": {
-        "name": "Vidrieritas",
-        "url": "https://open.spotify.com/album/7coLrKNPKAPDZfgLotJ1VW"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda de la Flor",
-          "url": "https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3"
-        }
-      ],
-      "duration_ms": 215786,
-      "name": "Vidrieritas",
-      "url": "https://open.spotify.com/track/0iII2cRRg31qEKRmfKx545"
     },
     {
       "added_at": "2025-03-28 03:00:14",
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2025-03-28 03:00:14",
       "album": {
+        "name": "Todas Las Banderas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3k4BeOYCwnx0Y843y0P3mF"
+      },
+      "artists": [
+        {
+          "name": "Carla Collado",
+          "url": "https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S"
+        },
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        }
+      ],
+      "duration_ms": 180250,
+      "name": "Todas Las Banderas (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/0GE2jclS5RVs3SDV5MZJK3"
+    },
+    {
+      "added_at": "2025-03-28 03:00:14",
+      "album": {
         "name": "Ya No He Visto las Flores",
         "url": "https://open.spotify.com/album/6vxHBTDraUOT5MR5mjANwF"
       },
@@ -1619,26 +1639,6 @@
       "duration_ms": 252668,
       "name": "REMOLINO",
       "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
-    },
-    {
-      "added_at": "2025-03-28 03:00:14",
-      "album": {
-        "name": "Todas Las Banderas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3k4BeOYCwnx0Y843y0P3mF"
-      },
-      "artists": [
-        {
-          "name": "Carla Collado",
-          "url": "https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S"
-        },
-        {
-          "name": "Pedro Pastor",
-          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
-        }
-      ],
-      "duration_ms": 180250,
-      "name": "Todas Las Banderas (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/0GE2jclS5RVs3SDV5MZJK3"
     },
     {
       "added_at": "2025-03-28 03:00:14",
@@ -1807,26 +1807,6 @@
     {
       "added_at": "2025-03-28 03:00:14",
       "album": {
-        "name": "Jurema Blanca",
-        "url": "https://open.spotify.com/album/1nulZh8RGIFieaS6m7G7Xd"
-      },
-      "artists": [
-        {
-          "name": "Ronroneo",
-          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
-        },
-        {
-          "name": "ASH.RYNN",
-          "url": "https://open.spotify.com/artist/14pUScokA9iCquc4lQ8ey3"
-        }
-      ],
-      "duration_ms": 229655,
-      "name": "Jurema Blanca",
-      "url": "https://open.spotify.com/track/3okjDbZn0vuuKYUTyVt6DB"
-    },
-    {
-      "added_at": "2025-03-28 03:00:14",
-      "album": {
         "name": "Lobo",
         "url": "https://open.spotify.com/album/4d3I9khxaMn5J7RxbpBkJk"
       },
@@ -1839,6 +1819,22 @@
       "duration_ms": 186181,
       "name": "Lobo",
       "url": "https://open.spotify.com/track/5S7SNJqC03c5D9WgG2Agr6"
+    },
+    {
+      "added_at": "2025-03-28 03:00:14",
+      "album": {
+        "name": "La Fuerza",
+        "url": "https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld"
+      },
+      "artists": [
+        {
+          "name": "Paz Court",
+          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
+        }
+      ],
+      "duration_ms": 240771,
+      "name": "Pajarillo Negro",
+      "url": "https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc"
     }
   ],
   "unique_name": "Cancionistas",

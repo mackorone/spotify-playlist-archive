@@ -1,12 +1,12 @@
 {
   "description": "This is Jessie Murph. The essential tracks, all in one playlist.",
-  "num_followers": 34666,
+  "num_followers": 34709,
   "original_name": "This Is Jessie Murph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+3PgAAAAADS0x/JXznXM+6EwEijM77A",
+  "snapshot_id": "Z+8hAAAAAADhPZyRwhfMKWK7a67XJxEB",
   "tracks": [
     {
       "added_at": null,
@@ -231,6 +231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gucci Mane",
+        "url": "https://open.spotify.com/album/6ixnfAvvM9Wdjb0hEPIUIW"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 166955,
+      "name": "Gucci Mane",
+      "url": "https://open.spotify.com/track/4uK4BCS6H19pOAknY1qj0K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Look Who's Cryin' Now",
         "url": "https://open.spotify.com/album/539ihh7Uywx0dY2NFAJbID"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 141724,
       "name": "Look Who's Cryin' Now",
       "url": "https://open.spotify.com/track/6Q0j526ymBAvizdCHmoM9x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Upgrade",
-        "url": "https://open.spotify.com/album/52ohvbnHKQp8iMybNwDd4e"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 157662,
-      "name": "Upgrade",
-      "url": "https://open.spotify.com/track/72jFoOulGip53D9qZWMvi2"
     },
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Upgrade",
+        "url": "https://open.spotify.com/album/52ohvbnHKQp8iMybNwDd4e"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 157662,
+      "name": "Upgrade",
+      "url": "https://open.spotify.com/track/72jFoOulGip53D9qZWMvi2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sobriety",
         "url": "https://open.spotify.com/album/74Q7pNFVMRZRgLf256Uewk"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 126361,
       "name": "Sobriety",
       "url": "https://open.spotify.com/track/0UOb1XYYj9iByVnCgLazcX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When I'm Not Around",
-        "url": "https://open.spotify.com/album/7xtZSKGsF3f4QagaNjaGKz"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 201310,
-      "name": "When I'm Not Around",
-      "url": "https://open.spotify.com/track/2NIYKZkwuDKylxcGja4fAe"
     },
     {
       "added_at": null,
@@ -359,6 +359,22 @@
       "duration_ms": 127293,
       "name": "While You're At It",
       "url": "https://open.spotify.com/track/3SQJJ5wTW8y40TE0abStR6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When I'm Not Around",
+        "url": "https://open.spotify.com/album/7xtZSKGsF3f4QagaNjaGKz"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 201310,
+      "name": "When I'm Not Around",
+      "url": "https://open.spotify.com/track/2NIYKZkwuDKylxcGja4fAe"
     },
     {
       "added_at": null,

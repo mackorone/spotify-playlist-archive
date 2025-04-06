@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 43 | [Gold](https://open.spotify.com/track/6GiUUbLouPiQglWFawWdpI) | [Phil Soda](https://open.spotify.com/artist/6oOURapauLCNtDmaYMv78O), [Aaron Pfeiffer](https://open.spotify.com/artist/3wrwt7OMZwE39s7YD3NZVF) | [Gold](https://open.spotify.com/album/5FnLDxa3uXueONAYV41Zpp) | 2:18 |
 | 44 | [We Are the Misfits](https://open.spotify.com/track/0DL6GTZ1WRIzIc5ciS6dzX) | [Selina Mour](https://open.spotify.com/artist/1zYkThtxlEsHksItd3YHlb) | [We Are the Misfits](https://open.spotify.com/album/5qoB0JB5ZLQS1VJs8YesPY) | 2:53 |
 | 45 | [Fast Lane](https://open.spotify.com/track/5Q79xM1viK36w808nH17S4) | [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo) | [Fast Lane](https://open.spotify.com/album/5HCQ1g5WrQuojo1eRv8FP6) | 2:00 |
-| 46 | [Modern Melancholia](https://open.spotify.com/track/3brEzLUzMaCtfcSKrKqyIg) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6eZHeiNCsuok4Tg5xxRwZa) | 4:12 |
-| 47 | [Positions](https://open.spotify.com/track/0cBJaK5TrHIcdI0YH1cOAw) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N), [whoismoli](https://open.spotify.com/artist/4htty7YSmUIs1GeGBwwgRa) | [Positions](https://open.spotify.com/album/5Q9ohKVm82e9Pj61uXrJkY) | 2:38 |
+| 46 | [Positions](https://open.spotify.com/track/0cBJaK5TrHIcdI0YH1cOAw) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N), [whoismoli](https://open.spotify.com/artist/4htty7YSmUIs1GeGBwwgRa) | [Positions](https://open.spotify.com/album/5Q9ohKVm82e9Pj61uXrJkY) | 2:38 |
+| 47 | [Modern Melancholia](https://open.spotify.com/track/3brEzLUzMaCtfcSKrKqyIg) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6eZHeiNCsuok4Tg5xxRwZa) | 4:12 |
 | 48 | [Like You Do](https://open.spotify.com/track/4vS4ciFalEcCgwJR0hG5ro) | [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo) | [Like You Do](https://open.spotify.com/album/0sPG1RSfhPiOTOYx1rXwk5) | 2:24 |
 | 49 | [Never Came Back](https://open.spotify.com/track/0F0d7kqzkL3liLZghYAhRY) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi) | [Never Came Back](https://open.spotify.com/album/7lYnNiYEwLi9XZyaNz2axi) | 3:14 |
 | 50 | [Pretty When You Lie](https://open.spotify.com/track/2Bl0J01BAk7JkMGCtLdRz5) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Pretty When You Lie](https://open.spotify.com/album/7xEXzVF62ib2CVTIqKZGJa) | 2:15 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 127 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
 | 128 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `Abt6HgAAAAA10iTpKA5TOZQ+KVkchp11`
+Snapshot ID: `Abt/qgAAAAAjqbGwIaOlEzAzcnMy9kh8`

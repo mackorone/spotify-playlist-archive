@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Ed Sheeran, Miley Cyrus et KeBlack au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,581 likes - 87 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,628 likes - 87 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 75 | [23:42](https://open.spotify.com/track/0I1WEMYSU0dfENElriMamz) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/5pDnBe24XMck0UQnDGD8WL) | 3:01 |
 | 76 | [LÉLÉA](https://open.spotify.com/track/6dYUrOzhiJDAEovR8fzRIt) | [Karmen](https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq), [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [LÉLÉA](https://open.spotify.com/album/73HzDwakrC3t3uFTVhPbW2) | 2:24 |
 | 77 | [À cœur](https://open.spotify.com/track/6VPgFyWNMihoS5hbLLmXpS) | [Stony Stone](https://open.spotify.com/artist/39eNWcMW3ts3zXEQQ34jgR), [Boumidjal X](https://open.spotify.com/artist/3i2AdhSP4YeSYY1m5JoUnK) | [À cœur](https://open.spotify.com/album/0aar4fxLFpITccXQpZr5Vg) | 2:12 |
-| 78 | [Domaye](https://open.spotify.com/track/79hliJaIj0CYOPAKf5NzZA) | [3xdavs](https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr) | [Ma facon \(DELUXE\)](https://open.spotify.com/album/7xDkJIFa6CZztIZ3vWA3HS) | 3:03 |
+| 78 | [Domaye](https://open.spotify.com/track/79hliJaIj0CYOPAKf5NzZA) | [3xdavs](https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr) | [Ma façon \(DELUXE\)](https://open.spotify.com/album/7xDkJIFa6CZztIZ3vWA3HS) | 3:03 |
 | 79 | [Slip & Slide](https://open.spotify.com/track/60Inxb7R2S4RyzQg31IsCq) | [Alex Chapman](https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Slip & Slide](https://open.spotify.com/album/6JFPl54dXCJWWfuRgCfoL6) | 2:26 |
 | 80 | [Casques rouges](https://open.spotify.com/track/4Nq2CGksPgcuxBOYHEu3pF) | [Ludwig Von 88](https://open.spotify.com/artist/1oVjBus2DBRTQmPEb0XhWQ) | [Les quatre saisons : les bonus](https://open.spotify.com/album/2QfwsDxyQNCoGlBbaUh2k1) | 2:39 |
 | 81 | [Last Girls At The Party](https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Last Girls At The Party](https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU) | 2:42 |

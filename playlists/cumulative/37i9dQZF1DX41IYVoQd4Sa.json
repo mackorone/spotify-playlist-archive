@@ -858,7 +858,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 214100,
       "name": "My Favorite",
       "url": "https://open.spotify.com/track/2qZe91uEYF5ALh5M7Nm7XX"
@@ -3160,6 +3160,28 @@
       "duration_ms": 199176,
       "name": "\u05de\u05d4 \u05e9\u05e6\u05e8\u05d9\u05da \u05e2\u05db\u05e9\u05d9\u05d5",
       "url": "https://open.spotify.com/track/5bIpv0uWRNzpyCIgtMfZbo"
+    },
+    {
+      "album": {
+        "name": "\u05de\u05e8\u05d7\u05d1 \u05de\u05d5\u05d2\u05df",
+        "url": "https://open.spotify.com/album/3GCd94fF78hbZbJIvrgA2X"
+      },
+      "artists": [
+        {
+          "name": "Safe Space Sessions",
+          "url": "https://open.spotify.com/artist/53iEneWNCdwCeXL5zde6Pg"
+        },
+        {
+          "name": "Shlomi Shaban",
+          "url": "https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279375,
+      "name": "\u05de\u05d5\u05d3\u05d4 \u05d0\u05e0\u05d9",
+      "url": "https://open.spotify.com/track/1yGzl0CqjQOqdVcFX94gic"
     },
     {
       "album": {

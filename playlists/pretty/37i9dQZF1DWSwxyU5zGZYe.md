@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 
 > Tender, thoughtful & stripped down versions of your favourite Bollywood songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,517 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,527 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kho Gaye Hum Kahan](https://open.spotify.com/track/7nPCAO0Q9AHbM7PWyj9O98) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Baar Baar Dekho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/110yeLSV0XY4Wtu7DnenNq) | 3:33 |
+| 1 | [Kho Gaye Hum Kahan](https://open.spotify.com/track/7nPCAO0Q9AHbM7PWyj9O98) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Baar Baar Dekho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/110yeLSV0XY4Wtu7DnenNq) | 3:33 |
 | 2 | [Tenu Sang Rakhna \(From "Jigra"\)](https://open.spotify.com/track/0Yf9Tgv5f55njDQeuRUnQH) | [Achint](https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ), [Varun Grover](https://open.spotify.com/artist/23tDn4nvBiCQroeeCwwCWT) | [Tenu Sang Rakhna \(From "Jigra"\)](https://open.spotify.com/album/3Yi3HyE86jKrOJQBhIRKO5) | 4:09 |
 | 3 | [Marham \(Pehle Bhi Main\) \[From "ANIMAL"\]](https://open.spotify.com/track/1fGXJZny7HUQnLKwttxmYw) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK) | [Marham \(Pehle Bhi Main\) \[From "ANIMAL"\]](https://open.spotify.com/album/4pfx72zSpnKIr6ADPN3htn) | 1:53 |
 | 4 | [Teri Chaahat \(From "Chhaava"\)](https://open.spotify.com/track/1By5OBVJcuvs5NncDZPwRM) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Seeta Qasemie](https://open.spotify.com/artist/7xt94tFU9c8NgnJrTu4UVJ), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Chhaava \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/237a62e5OURRgvJ9G3yHM3) | 3:05 |

@@ -6,40 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAB1NOfHk+kxzF8aaBUMi3J9",
+  "snapshot_id": "AAAAAAAAAABhDj4rznkA29rDoAEzc/ZG",
   "tracks": [
-    {
-      "added_at": "2025-04-04 03:00:00",
-      "album": {
-        "name": "Sultans Of Swing (San Antonio Live In 85)",
-        "url": "https://open.spotify.com/album/1Xug5yrULzRuGmBabfHQun"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 711338,
-      "name": "Sultans Of Swing - San Antonio Live In 85",
-      "url": "https://open.spotify.com/track/4ZGNASWXsFAPVsGMJuUElt"
-    },
-    {
-      "added_at": "2025-04-04 03:00:00",
-      "album": {
-        "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/6wSfrkBLBrN619oQx8OYTq"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 200204,
-      "name": "Prizefighter",
-      "url": "https://open.spotify.com/track/1mvStaNiiO38hfsdWs5d2F"
-    },
     {
       "added_at": "2025-04-04 03:00:00",
       "album": {
@@ -63,6 +31,22 @@
     {
       "added_at": "2025-04-04 03:00:00",
       "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/7m6GmsvljjPqLPhEHBuwmE"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 241833,
+      "name": "The Seeker - Unedited Version / Steven Wilson Stereo Mix",
+      "url": "https://open.spotify.com/track/4LfAPBYpVBTaAJ5R3C0PQf"
+    },
+    {
+      "added_at": "2025-04-04 03:00:00",
+      "album": {
         "name": "Enough Is Enough",
         "url": "https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ"
       },
@@ -75,6 +59,38 @@
       "duration_ms": 169133,
       "name": "Enough Is Enough",
       "url": "https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF"
+    },
+    {
+      "added_at": "2025-04-04 03:00:00",
+      "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/6wSfrkBLBrN619oQx8OYTq"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 200204,
+      "name": "Prizefighter",
+      "url": "https://open.spotify.com/track/1mvStaNiiO38hfsdWs5d2F"
+    },
+    {
+      "added_at": "2025-04-04 03:00:00",
+      "album": {
+        "name": "Sultans Of Swing (San Antonio Live In 85)",
+        "url": "https://open.spotify.com/album/1Xug5yrULzRuGmBabfHQun"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 711338,
+      "name": "Sultans Of Swing - San Antonio Live In 85",
+      "url": "https://open.spotify.com/track/4ZGNASWXsFAPVsGMJuUElt"
     },
     {
       "added_at": "2025-04-04 03:00:00",
@@ -95,26 +111,6 @@
     {
       "added_at": "2025-04-04 03:00:00",
       "album": {
-        "name": "Radiccio (2025)",
-        "url": "https://open.spotify.com/album/4LqPDFXWMczdBqzW46ja5N"
-      },
-      "artists": [
-        {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
-        },
-        {
-          "name": "Tilda Swinton",
-          "url": "https://open.spotify.com/artist/6MIvzbV3vHoilc0qKVKMrX"
-        }
-      ],
-      "duration_ms": 412869,
-      "name": "Deepest",
-      "url": "https://open.spotify.com/track/7sII5LhqIqXYfrOFa0ndVF"
-    },
-    {
-      "added_at": "2025-04-04 03:00:00",
-      "album": {
         "name": "Rain in the River",
         "url": "https://open.spotify.com/album/3DInaCkwipZmTpN7TviZ7P"
       },
@@ -131,22 +127,42 @@
     {
       "added_at": "2025-04-04 03:00:00",
       "album": {
-        "name": "Who Believes In Angels?",
-        "url": "https://open.spotify.com/album/1Wn7mRdFZfHwmgtRFFR42o"
+        "name": "Yo Gabba Gabba! Hey! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7t5Y12xiVvhdxpd9kfXPBW"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Yo Gabba Gabba",
+          "url": "https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF"
         },
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 179719,
-      "name": "Little Richard\u2019s Bible",
-      "url": "https://open.spotify.com/track/3AsmUHXoCqeWXP9tRTYGsR"
+      "duration_ms": 117440,
+      "name": "Every Snowflake Is Different (Just Like You) - feat. My Chemical Romance - Extended Version",
+      "url": "https://open.spotify.com/track/4V9ZLcdO0pElzHVGfXR0EB"
+    },
+    {
+      "added_at": "2025-04-04 03:00:00",
+      "album": {
+        "name": "Radiccio (2025)",
+        "url": "https://open.spotify.com/album/4LqPDFXWMczdBqzW46ja5N"
+      },
+      "artists": [
+        {
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+        },
+        {
+          "name": "Tilda Swinton",
+          "url": "https://open.spotify.com/artist/6MIvzbV3vHoilc0qKVKMrX"
+        }
+      ],
+      "duration_ms": 412869,
+      "name": "Deepest",
+      "url": "https://open.spotify.com/track/7sII5LhqIqXYfrOFa0ndVF"
     },
     {
       "added_at": "2025-04-04 03:00:00",
@@ -179,42 +195,6 @@
     {
       "added_at": "2025-04-04 03:00:00",
       "album": {
-        "name": "Shock Dem",
-        "url": "https://open.spotify.com/album/0kQdiul7Ppc5yvG6HfTutx"
-      },
-      "artists": [
-        {
-          "name": "Rhodecy",
-          "url": "https://open.spotify.com/artist/3dPUaskObXRULN4wlqDMaW"
-        },
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Shock Dem",
-      "url": "https://open.spotify.com/track/2xGlVRFxbrGPrpplSfEfgY"
-    },
-    {
-      "added_at": "2025-04-04 03:00:00",
-      "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/7m6GmsvljjPqLPhEHBuwmE"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 342674,
-      "name": "Real Good Looking Boy - Live",
-      "url": "https://open.spotify.com/track/0LYkDKcpDOqtjwTuRVsiJV"
-    },
-    {
-      "added_at": "2025-04-04 03:00:00",
-      "album": {
         "name": "Tchaikovsky: The Seasons, October - Autumn Song (Excerpt)",
         "url": "https://open.spotify.com/album/7wlX5cLApZysg8UdQYG0VU"
       },
@@ -235,22 +215,42 @@
     {
       "added_at": "2025-04-04 03:00:00",
       "album": {
-        "name": "Yo Gabba Gabba! Hey! (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7t5Y12xiVvhdxpd9kfXPBW"
+        "name": "Shock Dem",
+        "url": "https://open.spotify.com/album/0kQdiul7Ppc5yvG6HfTutx"
       },
       "artists": [
         {
-          "name": "Yo Gabba Gabba",
-          "url": "https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF"
+          "name": "Rhodecy",
+          "url": "https://open.spotify.com/artist/3dPUaskObXRULN4wlqDMaW"
         },
         {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 117440,
-      "name": "Every Snowflake Is Different (Just Like You) - feat. My Chemical Romance - Extended Version",
-      "url": "https://open.spotify.com/track/4V9ZLcdO0pElzHVGfXR0EB"
+      "duration_ms": 184800,
+      "name": "Shock Dem",
+      "url": "https://open.spotify.com/track/2xGlVRFxbrGPrpplSfEfgY"
+    },
+    {
+      "added_at": "2025-04-04 03:00:00",
+      "album": {
+        "name": "Who Believes In Angels?",
+        "url": "https://open.spotify.com/album/1Wn7mRdFZfHwmgtRFFR42o"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 179719,
+      "name": "Little Richard\u2019s Bible",
+      "url": "https://open.spotify.com/track/3AsmUHXoCqeWXP9tRTYGsR"
     },
     {
       "added_at": "2025-04-04 03:00:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2025-04-04 03:00:00",
       "album": {
-        "name": "Lament",
-        "url": "https://open.spotify.com/album/69u8fJRhAoYjaiuj5sac14"
-      },
-      "artists": [
-        {
-          "name": "Lacrimosa",
-          "url": "https://open.spotify.com/artist/57ekbx9PSS4ORs5wTZMSYp"
-        }
-      ],
-      "duration_ms": 572600,
-      "name": "Lament",
-      "url": "https://open.spotify.com/track/4onSGbFyDBfo5vfodJghCz"
-    },
-    {
-      "added_at": "2025-04-04 03:00:00",
-      "album": {
         "name": "The Screaming Of The Valkyries",
         "url": "https://open.spotify.com/album/3qwLRjvY7IYpv6N248PIAi"
       },
@@ -335,54 +319,6 @@
       "duration_ms": 376680,
       "name": "Demagoguery",
       "url": "https://open.spotify.com/track/1x77ughFOY7YgArlkGZeZB"
-    },
-    {
-      "added_at": "2025-04-04 03:00:00",
-      "album": {
-        "name": "Awen",
-        "url": "https://open.spotify.com/album/6ZxBSS6hPV1IDtnAQ2Cjuw"
-      },
-      "artists": [
-        {
-          "name": "Eluveitie",
-          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
-        }
-      ],
-      "duration_ms": 262400,
-      "name": "Awen",
-      "url": "https://open.spotify.com/track/2zYSX6VrJLcLhGKydo5asu"
-    },
-    {
-      "added_at": "2025-04-04 03:00:00",
-      "album": {
-        "name": "T.I.M.E.",
-        "url": "https://open.spotify.com/album/632ug91PGPg5ODJIJYNAUY"
-      },
-      "artists": [
-        {
-          "name": "Epica",
-          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
-        }
-      ],
-      "duration_ms": 238407,
-      "name": "T.I.M.E.",
-      "url": "https://open.spotify.com/track/6Wxesnvvvh44UMXCBF7wMa"
-    },
-    {
-      "added_at": "2025-04-04 03:00:00",
-      "album": {
-        "name": "The Squirrely Years Revisited",
-        "url": "https://open.spotify.com/album/6Wkf21TuFg0tEVFkCyMQp7"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "Revenge - Squirrely Version",
-      "url": "https://open.spotify.com/track/3Xonzm3aPRlNdrudJEXnkX"
     },
     {
       "added_at": "2025-04-04 03:00:00",
@@ -403,18 +339,18 @@
     {
       "added_at": "2025-04-04 03:00:00",
       "album": {
-        "name": "MAYHEM",
-        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+        "name": "The Squirrely Years Revisited",
+        "url": "https://open.spotify.com/album/6Wkf21TuFg0tEVFkCyMQp7"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
         }
       ],
-      "duration_ms": 244915,
-      "name": "Vanish Into You",
-      "url": "https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL"
+      "duration_ms": 238333,
+      "name": "Revenge - Squirrely Version",
+      "url": "https://open.spotify.com/track/3Xonzm3aPRlNdrudJEXnkX"
     },
     {
       "added_at": "2025-04-04 03:00:00",
@@ -431,22 +367,6 @@
       "duration_ms": 225840,
       "name": "A Million Suns",
       "url": "https://open.spotify.com/track/0RXtkfxtmUFb7kcDTXQfYk"
-    },
-    {
-      "added_at": "2025-04-04 03:00:00",
-      "album": {
-        "name": "Even If It Kills Me (Reimagined)",
-        "url": "https://open.spotify.com/album/5vr5sIFJuqCzyybwpQQamc"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 174755,
-      "name": "Even If It Kills Me (Reimagined)",
-      "url": "https://open.spotify.com/track/29Nr1P9e3ukDqs9MuiqEhD"
     },
     {
       "added_at": "2025-04-04 03:00:00",
@@ -487,18 +407,18 @@
     {
       "added_at": "2025-04-04 03:00:00",
       "album": {
-        "name": "Un Caf\u00e9 para Plat\u00f3n",
-        "url": "https://open.spotify.com/album/5j78xA9mNtOC6vhaLnqq7K"
+        "name": "Even If It Kills Me (Reimagined)",
+        "url": "https://open.spotify.com/album/5vr5sIFJuqCzyybwpQQamc"
       },
       "artists": [
         {
-          "name": "Javiera Parra",
-          "url": "https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8"
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
         }
       ],
-      "duration_ms": 242948,
-      "name": "Un Caf\u00e9 para Plat\u00f3n",
-      "url": "https://open.spotify.com/track/2ssIy0nSLyeF8zfpTDCqyE"
+      "duration_ms": 174755,
+      "name": "Even If It Kills Me (Reimagined)",
+      "url": "https://open.spotify.com/track/29Nr1P9e3ukDqs9MuiqEhD"
     },
     {
       "added_at": "2025-04-04 03:00:00",
@@ -519,34 +439,18 @@
     {
       "added_at": "2025-04-04 03:00:00",
       "album": {
-        "name": "Myths of Fate (Orchestral Version)",
-        "url": "https://open.spotify.com/album/2Z9fSgsQQFIu2XpSQ6urKt"
+        "name": "Un Caf\u00e9 para Plat\u00f3n",
+        "url": "https://open.spotify.com/album/5j78xA9mNtOC6vhaLnqq7K"
       },
       "artists": [
         {
-          "name": "Leaves' Eyes",
-          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
+          "name": "Javiera Parra",
+          "url": "https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8"
         }
       ],
-      "duration_ms": 312590,
-      "name": "Einherjar - Orchestral Version",
-      "url": "https://open.spotify.com/track/2JJ0Blx2BvU1Z42TWzSrGY"
-    },
-    {
-      "added_at": "2025-04-04 03:00:00",
-      "album": {
-        "name": "Curious Ruminant",
-        "url": "https://open.spotify.com/album/1m5tTXkBOzJEiwDz1TyPIG"
-      },
-      "artists": [
-        {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
-        }
-      ],
-      "duration_ms": 355680,
-      "name": "Over Jerusalem",
-      "url": "https://open.spotify.com/track/3PcSN0Crczqq6WHCGlUyiq"
+      "duration_ms": 242948,
+      "name": "Un Caf\u00e9 para Plat\u00f3n",
+      "url": "https://open.spotify.com/track/2ssIy0nSLyeF8zfpTDCqyE"
     },
     {
       "added_at": "2025-04-04 03:00:00",
@@ -584,61 +488,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 175961,
-      "name": "Landmines - Spotify Singles",
-      "url": "https://open.spotify.com/track/4RMPZ1dyIw3852YiaE57ag"
-    },
-    {
-      "added_at": "2025-04-04 03:00:00",
-      "album": {
-        "name": "Harvest of Sorrow (All Versions)",
-        "url": "https://open.spotify.com/album/3gnOkMUVQ9gX8Fh7YOLqqi"
-      },
-      "artists": [
-        {
-          "name": "Blind Guardian",
-          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
-        }
-      ],
-      "duration_ms": 219600,
-      "name": "Mies Del Dolor",
-      "url": "https://open.spotify.com/track/3hnoHYb1sBnQgTbQKSblj6"
-    },
-    {
-      "added_at": "2025-04-04 03:00:00",
-      "album": {
-        "name": "Oceanside Countryside",
-        "url": "https://open.spotify.com/album/40ChvqM7J5wXo5SgducJwt"
-      },
-      "artists": [
-        {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        }
-      ],
-      "duration_ms": 152998,
-      "name": "Dance Dance Dance",
-      "url": "https://open.spotify.com/track/7aoThRoN8Rj3Y7N9p0hNsN"
-    },
-    {
-      "added_at": "2025-04-04 03:00:00",
-      "album": {
-        "name": "Angels For Each Other",
-        "url": "https://open.spotify.com/album/1bOANBDFMPylV75pmNK4l3"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "duration_ms": 215076,
-      "name": "Angels For Each Other",
-      "url": "https://open.spotify.com/track/7KPcippmg9MvPzb3dzNpQW"
+      "duration_ms": 200440,
+      "name": "Sleep Now In The Fire - Spotify Singles",
+      "url": "https://open.spotify.com/track/5mMjqL7JI1BQQWBVFevFsN"
     },
     {
       "added_at": "2025-04-04 03:00:00",
@@ -683,6 +535,22 @@
     {
       "added_at": "2025-04-04 03:00:00",
       "album": {
+        "name": "The Place After This One",
+        "url": "https://open.spotify.com/album/5qEOO4BX3s3amNgFashUs0"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 181017,
+      "name": "Loss",
+      "url": "https://open.spotify.com/track/7B6ddTSICdNYKAlNTIhZSb"
+    },
+    {
+      "added_at": "2025-04-04 03:00:00",
+      "album": {
         "name": "Private Dancer (40th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0grIG45v0JWy5N46z4As0B"
       },
@@ -690,19 +558,31 @@
         {
           "name": "Tina Turner",
           "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        },
-        {
-          "name": "Greg Walsh",
-          "url": "https://open.spotify.com/artist/1oVGKaQu7WJwgR6668lrrI"
-        },
-        {
-          "name": "Martyn Ware",
-          "url": "https://open.spotify.com/artist/0g4bxJkNeoMi0rRJw5hGPV"
         }
       ],
-      "duration_ms": 230146,
-      "name": "Let's Stay Together - Alternative Radio Mix, 1983",
-      "url": "https://open.spotify.com/track/4uW9miGI2E7d1aAvcEyVp3"
+      "duration_ms": 243253,
+      "name": "Private Dancer - Sterling Version",
+      "url": "https://open.spotify.com/track/2zCpxRVfOBkwWoDt2lpbfj"
+    },
+    {
+      "added_at": "2025-04-04 03:00:00",
+      "album": {
+        "name": "Oculus Maximus",
+        "url": "https://open.spotify.com/album/6AM8F6nueCKT8QXNADxSHq"
+      },
+      "artists": [
+        {
+          "name": "ScarLid Vibez",
+          "url": "https://open.spotify.com/artist/5kNDp8ViqFRVvMDbHrhfzq"
+        },
+        {
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+        }
+      ],
+      "duration_ms": 71157,
+      "name": "Xeroxs",
+      "url": "https://open.spotify.com/track/1y8uRz1qLUAZcuiWFmezFW"
     },
     {
       "added_at": "2025-04-04 03:00:00",
@@ -755,42 +635,6 @@
     {
       "added_at": "2025-04-04 03:00:00",
       "album": {
-        "name": "The Place After This One",
-        "url": "https://open.spotify.com/album/5qEOO4BX3s3amNgFashUs0"
-      },
-      "artists": [
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 181017,
-      "name": "Loss",
-      "url": "https://open.spotify.com/track/7B6ddTSICdNYKAlNTIhZSb"
-    },
-    {
-      "added_at": "2025-04-04 03:00:00",
-      "album": {
-        "name": "Oculus Maximus",
-        "url": "https://open.spotify.com/album/6AM8F6nueCKT8QXNADxSHq"
-      },
-      "artists": [
-        {
-          "name": "ScarLid Vibez",
-          "url": "https://open.spotify.com/artist/5kNDp8ViqFRVvMDbHrhfzq"
-        },
-        {
-          "name": "Dark Tranquillity",
-          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
-        }
-      ],
-      "duration_ms": 71157,
-      "name": "Xeroxs",
-      "url": "https://open.spotify.com/track/1y8uRz1qLUAZcuiWFmezFW"
-    },
-    {
-      "added_at": "2025-04-04 03:00:00",
-      "album": {
         "name": "Pink + White",
         "url": "https://open.spotify.com/album/3FumX8Rc1bIO57p41mmf0i"
       },
@@ -819,26 +663,6 @@
       "duration_ms": 149199,
       "name": "Fly Me to the Moon",
       "url": "https://open.spotify.com/track/1orbpXnRLZOLTWADeOkBz1"
-    },
-    {
-      "added_at": "2025-04-04 03:00:00",
-      "album": {
-        "name": "Hyakka Ryouran (from \"The Apothecary Diaries\") [En Espa\u00f1ol]",
-        "url": "https://open.spotify.com/album/4kq35NPgiGYz44sySBThgk"
-      },
-      "artists": [
-        {
-          "name": "Iris ~Pamela Calvo~",
-          "url": "https://open.spotify.com/artist/6qWXcGYNEAmUxFWLA5uFwM"
-        },
-        {
-          "name": "Lufca",
-          "url": "https://open.spotify.com/artist/5LzTcLf1lyJ9ic2xBtREcg"
-        }
-      ],
-      "duration_ms": 179500,
-      "name": "Hyakka Ryouran (from \"The Apothecary Diaries\") - En Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/63fHP1xHozbuZNcdEKSj8x"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

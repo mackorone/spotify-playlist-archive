@@ -226,7 +226,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 168922,
       "name": "Bandit",
       "url": "https://open.spotify.com/track/2DGpmvXxBZ7VYo38WjGfea"
@@ -598,7 +598,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-27",
+      "date_removed": null,
       "duration_ms": 182857,
       "name": "Early Worms Get Birds",
       "url": "https://open.spotify.com/track/2Jhku0aj90zNf1d1S8HECm"
@@ -672,7 +672,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 181132,
       "name": "Evil Genius",
       "url": "https://open.spotify.com/track/1QJzaFcIyh8EJ6SJ3itXRf"
@@ -878,6 +878,32 @@
       "duration_ms": 68193,
       "name": "GREAT APE",
       "url": "https://open.spotify.com/track/3pak6hjqgQwTpdVknGSem0"
+    },
+    {
+      "album": {
+        "name": "High Winds",
+        "url": "https://open.spotify.com/album/2sbm3v5x18dG7QoVHTzNUf"
+      },
+      "artists": [
+        {
+          "name": "Jimmie D",
+          "url": "https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Koncept Jack$on",
+          "url": "https://open.spotify.com/artist/2SHO0IPq0mfwPxwquNx8Qa"
+        }
+      ],
+      "date_added": "2025-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143685,
+      "name": "High Winds",
+      "url": "https://open.spotify.com/track/7HPDbITY0cS65MntSLdFue"
     },
     {
       "album": {

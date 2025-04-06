@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 124571,
+  "num_followers": 124614,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+3PgAAAAAA6p1T9u50wPljyzX3FK9nB",
+  "snapshot_id": "Z+8hAAAAAADx2iPw/d4dCrILVcuwY4gp",
   "tracks": [
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 35386,
-      "name": "In This Temple As in The Hearts of Man For Whom He Saved The Earth",
-      "url": "https://open.spotify.com/track/4AXlxpofniQO0rJrXuc3U5"
+      "duration_ms": 47640,
+      "name": "A short reprise for Mary Todd, who went insane, but for very good reasons",
+      "url": "https://open.spotify.com/track/6hfxGStZ4L3IBvRaCqmPQc"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 47640,
-      "name": "A short reprise for Mary Todd, who went insane, but for very good reasons",
-      "url": "https://open.spotify.com/track/6hfxGStZ4L3IBvRaCqmPQc"
+      "duration_ms": 35386,
+      "name": "In This Temple As in The Hearts of Man For Whom He Saved The Earth",
+      "url": "https://open.spotify.com/track/4AXlxpofniQO0rJrXuc3U5"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Greatest Gift",
-        "url": "https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 111716,
-      "name": "The Greatest Gift",
-      "url": "https://open.spotify.com/track/14VWPYWaemUTwfy1G1Nnoe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seven Swans (Deluxe Edition)",
         "url": "https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa"
       },
@@ -671,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Greatest Gift",
+        "url": "https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 111716,
+      "name": "The Greatest Gift",
+      "url": "https://open.spotify.com/track/14VWPYWaemUTwfy1G1Nnoe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seven Swans",
         "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
       },
@@ -683,38 +683,6 @@
       "duration_ms": 254053,
       "name": "All the Trees of the Field Will Clap Their Hands",
       "url": "https://open.spotify.com/track/5OjpdQLQNF59wsZx9S9b10"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Favorite Dream",
-        "url": "https://open.spotify.com/album/2Na5BI4pks8yFrWNvEK6zW"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        },
-        {
-          "name": "Chrissy",
-          "url": "https://open.spotify.com/artist/0UkJmTvoKcOI4YnBc6jeYf"
-        },
-        {
-          "name": "Luna",
-          "url": "https://open.spotify.com/artist/4z48U0ddm5KpIJZyUaFbWw"
-        },
-        {
-          "name": "MILES",
-          "url": "https://open.spotify.com/artist/2fHmvBw01MQs9FpEaBXglg"
-        }
-      ],
-      "duration_ms": 152644,
-      "name": "L-O-V-E (feat. Chrissy, Luna & Miles)",
-      "url": "https://open.spotify.com/track/1CoHxW1sHR4BKoBIz3B1Qb"
     },
     {
       "added_at": null,
@@ -755,6 +723,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Favorite Dream",
+        "url": "https://open.spotify.com/album/2Na5BI4pks8yFrWNvEK6zW"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        {
+          "name": "Chrissy",
+          "url": "https://open.spotify.com/artist/0UkJmTvoKcOI4YnBc6jeYf"
+        },
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/4z48U0ddm5KpIJZyUaFbWw"
+        },
+        {
+          "name": "MILES",
+          "url": "https://open.spotify.com/artist/2fHmvBw01MQs9FpEaBXglg"
+        }
+      ],
+      "duration_ms": 152644,
+      "name": "L-O-V-E (feat. Chrissy, Luna & Miles)",
+      "url": "https://open.spotify.com/track/1CoHxW1sHR4BKoBIz3B1Qb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Michigan",
         "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
       },
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ascension",
-        "url": "https://open.spotify.com/album/2Bd6trS7kIZOXujYdVP8Xd"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 255721,
-      "name": "Video Game",
-      "url": "https://open.spotify.com/track/3Q8B1nnUBlJz0VTajyk1IS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seven Swans (Deluxe Edition)",
         "url": "https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 136186,
       "name": "We Won't Need Legs To Stand",
       "url": "https://open.spotify.com/track/447cvPxyRThQdy0W9w4kkN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ascension",
+        "url": "https://open.spotify.com/album/2Bd6trS7kIZOXujYdVP8Xd"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 255721,
+      "name": "Video Game",
+      "url": "https://open.spotify.com/track/3Q8B1nnUBlJz0VTajyk1IS"
     },
     {
       "added_at": null,
@@ -851,22 +851,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Focus Ring",
-        "url": "https://open.spotify.com/album/1tQNXI0HKvZRNIGCwsY11u"
+        "name": "Seven Swans (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa"
       },
       "artists": [
-        {
-          "name": "Denison Witmer",
-          "url": "https://open.spotify.com/artist/2sJ5Iicthbc9d8Sl1dpeSB"
-        },
         {
           "name": "Sufjan Stevens",
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 147586,
-      "name": "Focus Ring",
-      "url": "https://open.spotify.com/track/0iEAcbaxs4v3HHnAWFoswA"
+      "duration_ms": 297626,
+      "name": "In the Devil's Territory",
+      "url": "https://open.spotify.com/track/3NCddFMOQ32FuJQjqRIzQy"
     }
   ],
   "unique_name": "This Is Sufjan Stevens",

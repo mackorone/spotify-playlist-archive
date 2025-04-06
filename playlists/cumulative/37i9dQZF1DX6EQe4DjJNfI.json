@@ -1292,7 +1292,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 145714,
       "name": "DE REPENTE",
       "url": "https://open.spotify.com/track/2cupDkLxPFyG7jWgzEDQ9Y"
@@ -1782,7 +1782,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 104988,
       "name": "Fala a Verdade",
       "url": "https://open.spotify.com/track/6R0shYSjgWuLheHn8l61bj"
@@ -2012,6 +2012,24 @@
       "duration_ms": 195285,
       "name": "Garota Nota 100",
       "url": "https://open.spotify.com/track/7eA6fYJFYjGLrqpMYhRTAo"
+    },
+    {
+      "album": {
+        "name": "Golpe",
+        "url": "https://open.spotify.com/album/5zEnp2Q439CV7RhDYe8oqW"
+      },
+      "artists": [
+        {
+          "name": "Emovy",
+          "url": "https://open.spotify.com/artist/5Fhn5tGcRvKPO6XmDw1wHA"
+        }
+      ],
+      "date_added": "2025-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143741,
+      "name": "Golpe",
+      "url": "https://open.spotify.com/track/08ZMOYMV4PK54Vb4XuiVYN"
     },
     {
       "album": {
@@ -2782,6 +2800,32 @@
       "duration_ms": 185263,
       "name": "Mais Um Pouco",
       "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
+    },
+    {
+      "album": {
+        "name": "Mais uma Vez",
+        "url": "https://open.spotify.com/album/0jhBAoUYv0xYxhXRg1MsE2"
+      },
+      "artists": [
+        {
+          "name": "Gu Original",
+          "url": "https://open.spotify.com/artist/0UWWzCSgkPAMiwIk0O0Aqi"
+        },
+        {
+          "name": "Cyclope Beatz",
+          "url": "https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e"
+        },
+        {
+          "name": "JHXW",
+          "url": "https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV"
+        }
+      ],
+      "date_added": "2025-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129896,
+      "name": "Mais uma Vez",
+      "url": "https://open.spotify.com/track/5z1ilt9ZerSnXCuclChbHt"
     },
     {
       "album": {

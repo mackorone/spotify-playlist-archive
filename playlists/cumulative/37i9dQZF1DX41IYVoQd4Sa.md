@@ -4,7 +4,7 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : שקל וגלעד כהנא
 
-213 songs - 12 hr 32 min
+214 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Match](https://open.spotify.com/track/20eHfZYjCdmDG3MgGTRB0u) | [Yael S\. Copeland](https://open.spotify.com/artist/29dECJ6stIo8IpuSnIVISv) | [Match](https://open.spotify.com/album/5tm2DzrFSTO4VyvUB9XPZK) | 3:11 | 2025-03-13 | 2025-03-28 |
 | [Mon Amour Fou](https://open.spotify.com/track/3UBtgU4NVwM9eShMqiOzJC) | [PA'AM](https://open.spotify.com/artist/39Xp68AEeQ9Ykb02vMcjP0), [Anat Moshkovski](https://open.spotify.com/artist/1b8wOY9TQjOLjxAsXvwi49), [Shir Frum](https://open.spotify.com/artist/31Cz2bC0pRyLQ7Xpsu16L9) | [Mon Amour Fou](https://open.spotify.com/album/54dZ9gGpwdgeqGKmD3IGA0) | 2:37 | 2024-09-12 | 2024-09-27 |
 | [My Baby Won't Laugh \- From "Butterfly Kiss" Soundtrack](https://open.spotify.com/track/6c0KDQ3bUfuPrA6reRbPGk) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [My Baby Won't Laugh \(From "Butterfly Kiss" Soundtrack\)](https://open.spotify.com/album/7KgGi8iL8Asy3Q18ycG93Q) | 4:04 | 2024-11-28 | 2025-01-30 |
-| [My Favorite](https://open.spotify.com/track/2qZe91uEYF5ALh5M7Nm7XX) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Tomer Yosef](https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd), [Work In Progress](https://open.spotify.com/artist/7pHBxGkkgqsCGVALLT6EMp) | [Work in Progress](https://open.spotify.com/album/2vN8V0sPEQZNd3ylKuxmTH) | 3:34 | 2024-12-05 |  |
+| [My Favorite](https://open.spotify.com/track/2qZe91uEYF5ALh5M7Nm7XX) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Tomer Yosef](https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd), [Work In Progress](https://open.spotify.com/artist/7pHBxGkkgqsCGVALLT6EMp) | [Work in Progress](https://open.spotify.com/album/2vN8V0sPEQZNd3ylKuxmTH) | 3:34 | 2024-12-05 | 2025-04-06 |
 | [Not in Vain \- In A Box III Version](https://open.spotify.com/track/5Yc2fKkRskvU7l2f8gRiHh) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [In A Box III: Acoustic Recordings](https://open.spotify.com/album/28FLk4QDTvSQWJoSS6NNoM) | 4:44 | 2024-06-27 | 2024-07-27 |
 | [Nouvelle vie](https://open.spotify.com/track/7iGYmHYKpyjVvTKy7URgwO) | [PA'AM](https://open.spotify.com/artist/39Xp68AEeQ9Ykb02vMcjP0), [Odelly](https://open.spotify.com/artist/7hUrMnwET3LXeTpvpMUjZx) | [Nouvelle vie](https://open.spotify.com/album/0FA6jayNcSOoO1NTQWZ9zX) | 2:50 | 2024-08-01 | 2024-09-20 |
 | [Ocean view](https://open.spotify.com/track/3gOT9DepPBYMzgAqZsDL8J) | [Shelly Perel](https://open.spotify.com/artist/7A8NMpDvHEMt4NJgx83xWp), [Golde](https://open.spotify.com/artist/5ptEKxOfcTaQkgUa2CT059) | [Patience and Stuff](https://open.spotify.com/album/4tOhbVzUnfcLYXR7XNfyKf) | 3:33 | 2024-11-28 | 2024-12-13 |
@@ -167,6 +167,7 @@
 | [מה קורה](https://open.spotify.com/track/5znDBBWwpKxdtg2aK8vxPZ) | [Assaf Amdursky](https://open.spotify.com/artist/7ncSeJV3xl2Q2HnWvllj4B) | [שירים שלא נכנסו לאלבום הראשון](https://open.spotify.com/album/0bPqS7b3y1MCdBXFEBSvxs) | 5:06 | 2024-06-27 | 2024-07-19 |
 | [מה שלא יהיה](https://open.spotify.com/track/7JHBkNrXPRUsc1iIvHqQp6) | [Zizi Trippo](https://open.spotify.com/artist/3kkdQvmidzhAvqMGsob3ci), [גיאגיא](https://open.spotify.com/artist/4xWv94BdANzJMSiZekJ5hJ) | [31](https://open.spotify.com/album/0qolI1GEXgRGmRZEhTbaU7) | 3:17 | 2024-11-21 | 2025-02-14 |
 | [מה שצריך עכשיו](https://open.spotify.com/track/5bIpv0uWRNzpyCIgtMfZbo) | [ניצן אלון](https://open.spotify.com/artist/0GHCd1IWetBFg2HuAelOSy), [Aviv Peck](https://open.spotify.com/artist/5fw6WCTMo2YveO5IP6cz6W) | [מה שצריך עכשיו](https://open.spotify.com/album/7ySfWffSk48imvNnivpPhd) | 3:19 | 2024-06-27 | 2024-07-12 |
+| [מודה אני](https://open.spotify.com/track/1yGzl0CqjQOqdVcFX94gic) | [Safe Space Sessions](https://open.spotify.com/artist/53iEneWNCdwCeXL5zde6Pg), [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [מרחב מוגן](https://open.spotify.com/album/3GCd94fF78hbZbJIvrgA2X) | 4:39 | 2025-04-03 |  |
 | [מילים אהבה ויין](https://open.spotify.com/track/374aREzUFyZJRE3Arr0Iix) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [מילים אהבה ויין](https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ) | 6:48 | 2025-01-09 |  |
 | [מים על הסלע](https://open.spotify.com/track/60gGs8Qm93hUwLLjkXgTJX) | [Yali Sobol](https://open.spotify.com/artist/3cPFiAwdwlzCq7gBVIlBfa) | [מים על הסלע](https://open.spotify.com/album/5fTwKWtWPzu2zVp9rPSpn2) | 2:48 | 2025-01-02 | 2025-01-31 |
 | [מנגב לך את הדמעות](https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [בית אבי חי](https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH) | [מנגב לך את הדמעות](https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3) | 2:39 | 2024-06-27 |  |

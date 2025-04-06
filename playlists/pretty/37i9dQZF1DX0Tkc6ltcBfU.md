@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south: J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,247,299 likes - 99 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,247,368 likes - 99 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 14 | [Mr Pot Scraper](https://open.spotify.com/track/6PmqCt2fO80OojY5eGS2X3) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Mr Pot Scraper](https://open.spotify.com/album/4yhIfYT0AYm9hGHZxvttaZ) | 2:25 |
 | 15 | [one of wun](https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 2:24 |
 | 16 | [Trappa Rappa](https://open.spotify.com/track/4QimCCJKXDOancrmCXbbOK) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Trappa Rappa](https://open.spotify.com/album/01e9pFweITqyn2Kr8INdQr) | 2:17 |
-| 17 | [Yessirski \(feat\. Rob49\)](https://open.spotify.com/track/4GbsLWS9xxXL6DxqCo7S8t) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Yessirski \(feat\. Rob49\)](https://open.spotify.com/album/6VdV3NgUQrA5UNE4ovw6Vs) | 1:43 |
+| 17 | [Yessirski](https://open.spotify.com/track/4GbsLWS9xxXL6DxqCo7S8t) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Yessirski](https://open.spotify.com/album/6VdV3NgUQrA5UNE4ovw6Vs) | 1:43 |
 | 18 | [Dave Blunts](https://open.spotify.com/track/6DQ4OZfzOuuiIJhfkCZY4t) | [El Snappo](https://open.spotify.com/artist/0GJvhbSzCx9kT4jb7yd4eS) | [Dave Blunts](https://open.spotify.com/album/6KGbrz5h4QLNxhkmWIdf9g) | 2:03 |
 | 19 | [Bring Bac Act \(feat\. Rio Da Yung OG\)](https://open.spotify.com/track/2ErulGehAyGFfyB9N4HDHP) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Bring Bac Act \(feat\. Rio Da Yung OG\)](https://open.spotify.com/album/4O44K2ujQxScyBAfvzhVQY) | 2:49 |
 | 20 | [Swing My Way](https://open.spotify.com/track/4wFiEt5XdXVcUAxcMRZnCR) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Swing My Way](https://open.spotify.com/album/48wyjtn53vHqRuQsusH04z) | 2:59 |

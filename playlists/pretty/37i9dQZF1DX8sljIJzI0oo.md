@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > 🔥 A new mixtape drop every Thursday 🔥  Victor Mendivil is bringing the heat this week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,931,168 likes - 20 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,931,113 likes - 20 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 13 | [MI FOO](https://open.spotify.com/track/73aG6rlaaop5NlOmy6bChX) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [LOSDELAPIÑA](https://open.spotify.com/artist/2iBOGelkG71LdacVy7jztE) | [MI FOO](https://open.spotify.com/album/2IrJprbkwfVxZJaIwzZwIo) | 3:14 |
 | 14 | [Otra Vida](https://open.spotify.com/track/0Q2fGgApg3XMNRNnjQU6wX) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Otra Vida](https://open.spotify.com/album/34hnyjteFa5wiLROaR4Ch1) | 2:33 |
 | 15 | [Si Las Gatas Se Amotinan](https://open.spotify.com/track/76lXtXJP6VqX6r9Ks3AUy0) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [Si Las Gatas Se Amotinan](https://open.spotify.com/album/6PZ15lW4EViFarqvxsLrew) | 2:44 |
-| 16 | [PONTE LOKITA](https://open.spotify.com/track/0Lahr7sUDdtYnX3n3KobR6) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [PONTE LOKITA](https://open.spotify.com/album/23x1J2mnb1oMcD1ib0gCVx) | 3:03 |
+| 16 | [PONTE LOKITA](https://open.spotify.com/track/0Lahr7sUDdtYnX3n3KobR6) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb) | [PONTE LOKITA](https://open.spotify.com/album/23x1J2mnb1oMcD1ib0gCVx) | 3:03 |
 | 17 | [Panas](https://open.spotify.com/track/1ce0KvZOhRL0O6x1YYQPS8) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Panas](https://open.spotify.com/album/5HETiPl8SfoMxsQLRFoI1C) | 4:07 |
 | 18 | [Guao Guao](https://open.spotify.com/track/230T4LWoFiM2qOTU1Q4ygT) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Guao Guao](https://open.spotify.com/album/3S5vRWGMHqn3zjSSNQhWST) | 2:06 |
 | 19 | [TE CANTO BAJITO](https://open.spotify.com/track/3I1jcOmPwnzUR5yduDK3yb) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [TE CANTO BAJITO](https://open.spotify.com/album/7BATLek9MLvWQmb6BWGzJh) | 2:58 |

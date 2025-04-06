@@ -7764,7 +7764,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 733906,
       "name": "Cello Concerto No. 1 in E-Flat Major, Op. 107: II. Moderato",
       "url": "https://open.spotify.com/track/0RIpJhhZnKwZ7auSZP2Jmz"
@@ -7794,7 +7794,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-02",
+      "date_removed": null,
       "duration_ms": 800506,
       "name": "Cello Concerto No. 2 in G Major, Op. 126: I. Largo",
       "url": "https://open.spotify.com/track/3nMrQcx64lzE92X6B1d0dh"
@@ -17919,6 +17919,28 @@
     },
     {
       "album": {
+        "name": "Death Hilarious",
+        "url": "https://open.spotify.com/album/3ayehNLPtO03kFwPnkOhgx"
+      },
+      "artists": [
+        {
+          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
+          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
+        },
+        {
+          "name": "El-P",
+          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223908,
+      "name": "Glib Tongued",
+      "url": "https://open.spotify.com/track/0E2TyBWRAk5YYNKL5YTLjC"
+    },
+    {
+      "album": {
         "name": "Glib Tongued",
         "url": "https://open.spotify.com/album/2GPo3dNO4wZeBRC0DnjdG9"
       },
@@ -17956,7 +17978,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 223908,
       "name": "Glib Tongued",
       "url": "https://open.spotify.com/track/4rSyP1AMJsQAmdZZqTDuj3"
@@ -28056,7 +28078,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 268630,
       "name": "Mandingo",
       "url": "https://open.spotify.com/track/0JvDcQ2LAzuhV1HujQrAHR"
@@ -47298,10 +47320,28 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 198320,
       "name": "twilight zone",
       "url": "https://open.spotify.com/track/1YRbAonLvmuUILvQso0gUM"
+    },
+    {
+      "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead (a cappella version)",
+        "url": "https://open.spotify.com/album/2xqTa2dCR54yYHEcttiXyD"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198320,
+      "name": "twilight zone",
+      "url": "https://open.spotify.com/track/1edcyazKIdKrIuz9cWpXU6"
     },
     {
       "album": {

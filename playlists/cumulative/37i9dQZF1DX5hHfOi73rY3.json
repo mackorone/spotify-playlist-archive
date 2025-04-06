@@ -3189,6 +3189,24 @@
     },
     {
       "album": {
+        "name": "Revolver",
+        "url": "https://open.spotify.com/album/3SGiYiOb88avGWt27pXmWX"
+      },
+      "artists": [
+        {
+          "name": "Airwolf Paradise",
+          "url": "https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193171,
+      "name": "Revolver",
+      "url": "https://open.spotify.com/track/39KkGrkTwD0MIZAnWr9AkY"
+    },
+    {
+      "album": {
         "name": "Rhymes",
         "url": "https://open.spotify.com/album/4hqlx8mdrCorDXsdzQfmX1"
       },
@@ -3890,7 +3908,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 236987,
       "name": "To The Beat",
       "url": "https://open.spotify.com/track/1D3jKMGvMr9NmirT6cnMyO"

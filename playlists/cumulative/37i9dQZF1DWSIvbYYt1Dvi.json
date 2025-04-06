@@ -5397,6 +5397,32 @@
     },
     {
       "album": {
+        "name": "Quanto Mais Eu Como, Mais Fome Eu Sinto !",
+        "url": "https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Los Hermanos",
+          "url": "https://open.spotify.com/artist/7Brxri4l1ATShikyHXsEr6"
+        },
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
+        }
+      ],
+      "date_added": "2025-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210571,
+      "name": "MELHOR QUE ONTEM",
+      "url": "https://open.spotify.com/track/7kwjhB3KqfvjVrQPBawEmq"
+    },
+    {
+      "album": {
         "name": "Melhor Que Ontem",
         "url": "https://open.spotify.com/album/3z75GAmcVXisxqwnQod4EM"
       },
@@ -9304,7 +9330,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 219178,
       "name": "SOLTO",
       "url": "https://open.spotify.com/track/5MjB4phpJsKhm8yCXdTIDN"

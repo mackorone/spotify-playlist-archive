@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 
 > Bienvenidx a la trampa mexa\. Krusha G en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,093 likes - 82 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,100 likes - 82 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

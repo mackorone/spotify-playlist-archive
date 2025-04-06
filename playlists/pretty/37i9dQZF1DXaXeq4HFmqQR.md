@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen, con Mamma Soul en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,407 likes - 35 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,405 likes - 35 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 16 | [Volver a los 17](https://open.spotify.com/track/22BcmMzT3mY5CmstuCXSBD) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [Las Últimas Composiciones](https://open.spotify.com/album/6hCWXZNwVtLk8vcEFiCmfE) | 4:09 |
 | 17 | [La Experiencia](https://open.spotify.com/track/5qdztRteIy0iATHFFYIBPs) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Bestia](https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9) | 4:20 |
 | 18 | [Vapor](https://open.spotify.com/track/0EYQhfsTUtViwb0BgygGHF) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Vapor](https://open.spotify.com/album/1PD0j0wcGaOLHzKu9Gim9e) | 3:02 |
-| 19 | [La Mariposa](https://open.spotify.com/track/3RTWU4ApWqWGZu3rBrG0oa) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [Sopita de pan](https://open.spotify.com/album/1XobnPbudhBcVUhdvosE7g) | 4:24 |
-| 20 | [Proverbios](https://open.spotify.com/track/5PqnqnJjlby6TQb05jwxG0) | [Javiera & Los Imposibles](https://open.spotify.com/artist/6IEAyaXCPxZoPtCAYZXOxz) | [La Suerte](https://open.spotify.com/album/3nkzokTijxaORG4srJc2bO) | 4:02 |
+| 19 | [Proverbios](https://open.spotify.com/track/5PqnqnJjlby6TQb05jwxG0) | [Javiera & Los Imposibles](https://open.spotify.com/artist/6IEAyaXCPxZoPtCAYZXOxz) | [La Suerte](https://open.spotify.com/album/3nkzokTijxaORG4srJc2bO) | 4:02 |
+| 20 | [La Mariposa](https://open.spotify.com/track/3RTWU4ApWqWGZu3rBrG0oa) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [Sopita de pan](https://open.spotify.com/album/1XobnPbudhBcVUhdvosE7g) | 4:24 |
 | 21 | [Con los Pies Sobre la Tierra](https://open.spotify.com/track/047xrMTkNMLHqpz9IPqYZR) | [Isabel Parra](https://open.spotify.com/artist/2aRPBh4HSVPmevvlsCySOt) | [Con los Pies Sobre la Tierra](https://open.spotify.com/album/3wCZNKak482e3SvU3CJVa4) | 2:26 |
 | 22 | [Arauco Tiene una Pena](https://open.spotify.com/track/5VEn738GxQ0CGF3c0zpu6p) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [Canciones Reencontradas en París](https://open.spotify.com/album/1ps5BA5hN2pCCtDFVZF341) | 2:57 |
 | 23 | [A la Mar Fui por Naranjas](https://open.spotify.com/track/55vHYlcaslpFY3ZTSkYT48) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Loza](https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt) | 2:56 |

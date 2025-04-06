@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 89364,
+  "num_followers": 89483,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+3PgAAAAACWm9AfeaVgKxKG8plzlRiS",
+  "snapshot_id": "Z+8hAAAAAADZt0ZAw+hVW3smC8+RTAdp",
   "tracks": [
     {
       "added_at": null,
@@ -891,6 +891,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "We Love You Tecca 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 116129,
+      "name": "VIRGO",
+      "url": "https://open.spotify.com/track/6pq1cvSNT9nuhvRPJ6UPE4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "prada (Remix)",
         "url": "https://open.spotify.com/album/33mzi9tnIWkjOQYIi7b242"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 112413,
       "name": "prada (Remix) (feat. Lil Tecca)",
       "url": "https://open.spotify.com/track/6W1aqjLCj3O4M1Pko8Bq6f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Love You Tecca 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 116129,
-      "name": "VIRGO",
-      "url": "https://open.spotify.com/track/6pq1cvSNT9nuhvRPJ6UPE4"
     }
   ],
   "unique_name": "This Is Lil Tecca",

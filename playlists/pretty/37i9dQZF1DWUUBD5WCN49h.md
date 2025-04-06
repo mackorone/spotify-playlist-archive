@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Keziah Mallam & Tim Lyre
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,525 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,537 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Trouble](https://open.spotify.com/track/3Dw2KQ25px8I1pFVyKDVVO) | [Keziah Mallam](https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Trouble](https://open.spotify.com/album/3c6unOML6k41c3dkN9pxDe) | 3:28 |
 | 2 | [Hurt](https://open.spotify.com/track/6iF7xOU7oyzahJZEcAt2UX) | [TAYORISTAR](https://open.spotify.com/artist/7a3geJwKwstBq2ZEarVcA6), [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If), [PISHON](https://open.spotify.com/artist/5UwnnlEa1IDJQ0IJK1ZAJe) | [Hurt](https://open.spotify.com/album/2FLZXXnM5fkm98vuSfNq7i) | 2:52 |
 | 3 | [Move On](https://open.spotify.com/track/6gAjh6EaozXcNGNIgmhcLa) | [Rigo Kamp](https://open.spotify.com/artist/0n0e9TWjXHyTN3G1zU6Y6i) | [RIGO KAMP](https://open.spotify.com/album/0Grq9e7Cct75x5kzpUjFuP) | 2:55 |
-| 4 | [Reflection Station](https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Reflection Station](https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk) | 2:46 |
+| 4 | [Reflection Station](https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Reflection Station](https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk) | 2:45 |
 | 5 | [Before](https://open.spotify.com/track/4FNInDPeqluA6e7CefIsjK) | [Twelve XII](https://open.spotify.com/artist/5Xy5YahwMWeQneQEjYnzHi) | [Before](https://open.spotify.com/album/08HFDiYAAD9wgOYqpTgBr8) | 2:38 |
 | 6 | [Boyfriend In Paris](https://open.spotify.com/track/5NArp8DOWDrK4iP8Jyh40H) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G) | [girl](https://open.spotify.com/album/3LkN5uWcg8RbjFT1UbBTAG) | 2:55 |
 | 7 | [Comforter](https://open.spotify.com/track/12uJDbjH0gwh0fs4gFgDhQ) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Homeless](https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP) | 2:18 |

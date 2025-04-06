@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Ariel",
+        "url": "https://open.spotify.com/album/1yAQzhD2VMgJQ71rIvLuE6"
+      },
+      "artists": [
+        {
+          "name": "Moon Safari",
+          "url": "https://open.spotify.com/artist/79PnPgpRqswq4eBx8PSohy"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Ariel",
+      "url": "https://open.spotify.com/track/1aTbEQ3fPmKGfFQR6mMGgw"
+    },
+    {
+      "album": {
         "name": "Armon\u00eda Serena",
         "url": "https://open.spotify.com/album/1S06SLy0ZHrSrbHFsPsNBD"
       },
@@ -762,6 +780,24 @@
       "duration_ms": 170560,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/4dUdnalJalKkzu2fKDM3NF"
+    },
+    {
+      "album": {
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/42vrYOv2bbFPQp9pku4loa"
+      },
+      "artists": [
+        {
+          "name": "Lake Nebula",
+          "url": "https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171375,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/1FPjiDSqB5qYzLy77eQqMU"
     },
     {
       "album": {
@@ -1210,7 +1246,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 295384,
       "name": "Ember (Circle 52)",
       "url": "https://open.spotify.com/track/1uWthhIazUVavafVC5GG9r"
@@ -3472,7 +3508,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 163092,
       "name": "Shamanic",
       "url": "https://open.spotify.com/track/0DDD0cFxLVkKbdYLeYb7WP"

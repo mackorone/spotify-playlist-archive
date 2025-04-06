@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H?si=qpEdyn9VQP6Tse4m4NpkaA">Nontokozo Mkhize</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,383 likes - 100 songs - 10 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,463 likes - 100 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 | 15 | [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 |
 | 16 | [Ngena Noah](https://open.spotify.com/track/2ZPtBDzHnuT7CJMVX5ILG7) | [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Gospel Africa \- A Joyous Easter Celebration With Top Gospel Stars](https://open.spotify.com/album/6idKZfHxl854ucNRHqIEoc) | 4:31 |
 | 17 | [Yibanathi](https://open.spotify.com/track/4rPSpeKJekm5pJNabHi0MK) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Yibanathi](https://open.spotify.com/album/76un37X1FHebVoU6wUzTcm) | 5:07 |
-| 18 | [Mawudunyiswe](https://open.spotify.com/track/11qVrOyuvp9ggKQgUGhsm4) | [NTETHE](https://open.spotify.com/artist/267bYuNaozmRH8pQoRuL15), [Putuma Tiso](https://open.spotify.com/artist/2SRBorwvHv62tsEn2nA5Xm) | [Back To The Altar](https://open.spotify.com/album/1uhkqqgkXLi1A9KwAjAhoS) | 6:02 |
+| 18 | [Mawudunyiswe](https://open.spotify.com/track/11qVrOyuvp9ggKQgUGhsm4) | [NTETHE](https://open.spotify.com/artist/267bYuNaozmRH8pQoRuL15), [Putuma Tiso](https://open.spotify.com/artist/2SRBorwvHv62tsEn2nA5Xm) | [Back To The Altar](https://open.spotify.com/album/1uhkqqgkXLi1A9KwAjAhoS) | 6:04 |
 | 19 | [lona baratang ho Phela \(Live\)](https://open.spotify.com/track/6lgAf5YMMFzEcpXONtEfVf) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Hymns and Worship \(Live\)](https://open.spotify.com/album/2d1bYNsfu8mqvARixcuOC0) | 6:21 |
 | 20 | [Thulungakhali](https://open.spotify.com/track/0bPE6VOWoQ69OpmCtPek8M) | [Ikhona](https://open.spotify.com/artist/56tDpXsWbtHowCzQxqurvW), [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Thulungakhali](https://open.spotify.com/album/4ttNmn9gKQm0m7jjadtyLE) | 5:46 |
 | 21 | [Umbhedesho \- Live](https://open.spotify.com/track/7jfZmf6vXtVyum8Fh8blx9) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 17 \(Grateful\) \[Live\]](https://open.spotify.com/album/7gTaZx47Gn8gh9n4p1KkHY) | 4:32 |

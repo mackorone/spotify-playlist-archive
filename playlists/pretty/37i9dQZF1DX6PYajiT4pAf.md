@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Eladio Carrion, Leiva, Omar Montes, Ed Sheeran, Miley Cyrus, Vanesa Martín y más novedades importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,124 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,188 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 18 | [Te Pido Perdón](https://open.spotify.com/track/7JA94IRk2Y8gL1wLXIG9ub) | [Zaira](https://open.spotify.com/artist/2Tr0LY0zF1a6wvOYP42zg5) | [Te Pido Perdón](https://open.spotify.com/album/4sFd24aO6CVgv45fH4GTgS) | 2:40 |
 | 19 | [VULNERABLE](https://open.spotify.com/track/5Oho7bpidKVaMJaK5oXI2c) | [Joana Santos](https://open.spotify.com/artist/0GRisUOxNeaGB4XZs7TBRm), [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [VULNERABLE](https://open.spotify.com/album/5GZEbN9ZirEFYLrRsubpHN) | 3:20 |
 | 20 | [ECHO DE MENOS](https://open.spotify.com/track/4pycU0Z1vWdAF1bp26rIBI) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [ECHO DE MENOS](https://open.spotify.com/album/3JzsZL21V7bMwGhYpRZqbK) | 3:18 |
-| 21 | [VALENTINO](https://open.spotify.com/track/5xkD169LHyEmpZAdoQOaMN) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374) | [VALENTINO](https://open.spotify.com/album/1cVIr15MqnIYUrmBMA0W8j) | 2:17 |
-| 22 | [UN PLAN](https://open.spotify.com/track/7nfcmPolmFFJF8R57Tc9H4) | [Albany](https://open.spotify.com/artist/6zwUnDx8piIjkU17CgOKh5), [LEÏTI](https://open.spotify.com/artist/5FQJWdcKPAijmEi4uroZ4h) | [UN PLAN](https://open.spotify.com/album/2gsXOPI30iZAIbOJZFt4eN) | 2:58 |
+| 21 | [VALENTINO](https://open.spotify.com/track/5xkD169LHyEmpZAdoQOaMN) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374), [Nake](https://open.spotify.com/artist/6hJnrA58ELi64NP1TDyzQG) | [VALENTINO](https://open.spotify.com/album/1cVIr15MqnIYUrmBMA0W8j) | 2:17 |
+| 22 | [UN PLAN](https://open.spotify.com/track/7nfcmPolmFFJF8R57Tc9H4) | [Albany](https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu), [LEÏTI](https://open.spotify.com/artist/5FQJWdcKPAijmEi4uroZ4h) | [UN PLAN](https://open.spotify.com/album/2gsXOPI30iZAIbOJZFt4eN) | 2:58 |
 | 23 | [Hugo Bozz](https://open.spotify.com/track/5Z00rHfWwTteOUPy8k5B9P) | [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4), [JCC](https://open.spotify.com/artist/7rbogZhjRh7OvlNYjeyy8U) | [GRECONETA](https://open.spotify.com/album/2r2mPvOEcLLzKPXikEOmuQ) | 1:57 |
 | 24 | [LA OFI](https://open.spotify.com/track/53AajxWExq9VfKvyKy8Jk3) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [LA OFI](https://open.spotify.com/album/7iP5M9ga4GOqDsH7HJpK93) | 2:00 |
 | 25 | [en mi balcon](https://open.spotify.com/track/5i8iq8jm968xuFzJoKv13q) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [en mi balcon](https://open.spotify.com/album/5YahJL2QGbpuBRk4qivluq) | 2:54 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 76 | [SEXTO SENTIDO](https://open.spotify.com/track/5qV0rdWA2Fn86EECQT9Q1Q) | [DENNA](https://open.spotify.com/artist/0giXcUshXQbUZmiKFMlHEs) | [SEXTO SENTIDO](https://open.spotify.com/album/4feRJxEwN97Z93T8oVf3fC) | 2:41 |
 | 77 | [LUCIFER](https://open.spotify.com/track/5s6tqeFSxXAEiBhFNwKRRC) | [Yeico](https://open.spotify.com/artist/5hjHdxNPS2SGCNQM80eFhl), [LI4M](https://open.spotify.com/artist/0ItFkNpFwk5M1GEWtZzhbs), [Yeico X Toni](https://open.spotify.com/artist/5ZwHSnkRmmVg73BeI4Ne4f) | [LUCIFER](https://open.spotify.com/album/1CWaqtZuhHYnkySZJlknGc) | 1:17 |
 | 78 | [¿Dónde estará?](https://open.spotify.com/track/7nIaeJv29EdsleOcWirgW7) | [Joanna Crass](https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD) | [Vértigo](https://open.spotify.com/album/4AYwKtacAvAB9qUCcVOUgf) | 2:46 |
-| 79 | [Me cago en el amor](https://open.spotify.com/track/2HacRkVR8a0uO5TTKUHLTM) | [Anabel Lee](https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW), [Magüi](https://open.spotify.com/artist/2yBvefXHfg1iVX6dALbIAL) | [Me cago en el amor](https://open.spotify.com/album/1fEK3rpRawN8R3kCnznIDi) | 3:08 |
+| 79 | [Me cago en el amor](https://open.spotify.com/track/2HacRkVR8a0uO5TTKUHLTM) | [Anabel Lee](https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW), [Magüi](https://open.spotify.com/artist/7m3PAUi8OfLBxBhADiGb1V) | [Me cago en el amor](https://open.spotify.com/album/1fEK3rpRawN8R3kCnznIDi) | 3:08 |
 | 80 | [Tenerte](https://open.spotify.com/track/2epd8CEXHNt48tDpA47SMu) | [Vega Almohalla](https://open.spotify.com/artist/5XGMdl7ZEKx6q1WI3i3oWc) | [Tenerte](https://open.spotify.com/album/2VJU5UyK9Qnw6KwZ4dftiR) | 2:40 |
 
 Snapshot ID: `Z+8hKQAAAABZ1sTi5l/1v0V6vJrJEb9R`

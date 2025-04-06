@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes ♣️
 
-760 songs - 2 day 2 hr 51 min
+761 songs - 2 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Altair](https://open.spotify.com/track/4U95OXDYDP37bDPQmQAjYO) | [3WA](https://open.spotify.com/artist/2HWBW5CHvjEMqmPL5HmPgp) | [Altair](https://open.spotify.com/album/4ysjvZUUh0pBHJL78QXjqa) | 5:01 | 2022-02-17 | 2022-07-28 |
 | [Always](https://open.spotify.com/track/7aMmDj30GXfnSxuiKuyxBE) | [Circumference](https://open.spotify.com/artist/55WGXEp1qUerac8ChlL5Ii) | [Time](https://open.spotify.com/album/2YCC1Rk5v1QvXRDrPQBTZD) | 4:11 | 2024-05-10 | 2024-11-01 |
 | [Ancient Secrets](https://open.spotify.com/track/1ReUQBuR6rPojwvZJYyepT) | [Nyrus](https://open.spotify.com/artist/4K129VU520mAbin25QcKfH), [Serpentis](https://open.spotify.com/artist/7GDTaBQ5irjbkqAg8JIvbi) | [Ancient Secrets](https://open.spotify.com/album/1VWls87v6qVn7S9tXS0M1o) | 3:42 | 2024-10-11 |  |
-| [Anex](https://open.spotify.com/track/5V8SOMlVqsb99wHRVd5IQH) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7), [ColtCuts](https://open.spotify.com/artist/7B7K7clWpHy7DkuIX7d9xd) | [Anex](https://open.spotify.com/album/3sAk2b4mwCZmMQ4JuAVlvB) | 3:10 | 2024-09-13 |  |
+| [Anex](https://open.spotify.com/track/5V8SOMlVqsb99wHRVd5IQH) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7), [ColtCuts](https://open.spotify.com/artist/7B7K7clWpHy7DkuIX7d9xd) | [Anex](https://open.spotify.com/album/3sAk2b4mwCZmMQ4JuAVlvB) | 3:10 | 2024-09-13 | 2025-04-06 |
 | [Ange](https://open.spotify.com/track/4TvmFIi8lcfZBnuU9omTYN) | [Monty](https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ), [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [Ange](https://open.spotify.com/album/2nT20AFqNcpq1HDuqU2xHW) | 5:54 | 2023-03-10 | 2024-08-10 |
 | [Angel Above](https://open.spotify.com/track/10hYODoxosJRO9VaWIvi18) | [ZEKE BEATS](https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl), [Barclay Crenshaw](https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR) | [Angel Above](https://open.spotify.com/album/0BBlkwYEunT5J8Bt74MrBW) | 2:53 | 2024-07-26 |  |
 | [Animalistic](https://open.spotify.com/track/7s3ZsZ1AfCgGVLTsrduJfE) | [Milano](https://open.spotify.com/artist/53ok35nquVSO2ie4OQBgBU), [Daggz](https://open.spotify.com/artist/3S5aXjH9pDeyD7BDMkLbiF) | [Animalistic](https://open.spotify.com/album/7y0nfLxeDl2JkbOJ0VpW1u) | 2:22 | 2024-10-25 | 2024-12-29 |
@@ -722,6 +722,7 @@
 | [Vandals](https://open.spotify.com/track/7oJo6A2Cio3pmWsav3S9dw) | [Onhell](https://open.spotify.com/artist/66SJhirDGiBwr3tfvu3a0t), [Fracture](https://open.spotify.com/artist/5imJlmURJJk9wicePHiqvo) | [Vandals](https://open.spotify.com/album/0M61LEcH5CknOTQxZQ677Y) | 2:20 | 2022-02-17 | 2022-07-09 |
 | [vaskur](https://open.spotify.com/track/4EsDiqFzGxDiONJJyZYOu3) | [moghee](https://open.spotify.com/artist/1uT92Y4kLWAzcJyYpiatvh), [all your friends](https://open.spotify.com/artist/5OTWpj6XtRKC3jIR1zFdKI) | [MISSION 03](https://open.spotify.com/album/0WNGMI7NsAtveM63xmeDWM) | 3:36 | 2025-03-21 |  |
 | [Versatile](https://open.spotify.com/track/2r14e9QOSGqi3Cp0GJ5sbE) | [Thys](https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR) | [Versatile](https://open.spotify.com/album/7DlTHZAuCBTEauF1um9Rqh) | 4:28 | 2024-05-10 | 2024-08-10 |
+| [VERTIGO](https://open.spotify.com/track/7gKY7POH3quFyxdWRXwQI0) | [FLY](https://open.spotify.com/artist/5uzvRvcTtbA3JqZxglgTda), [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [VERTIGO](https://open.spotify.com/album/3PnKguPgwwHWzGZcFOJBt3) | 3:32 | 2025-04-04 |  |
 | [Voices in the Wall](https://open.spotify.com/track/3Jh5bcDIKfzGOngSzk0GEP) | [SUAHN](https://open.spotify.com/artist/2mXnoSfgaBsMz8cbVWBkDX) | [Voices in the Wall](https://open.spotify.com/album/41zETbeohy47Bqp1ebKUXf) | 4:56 | 2024-05-10 | 2024-06-08 |
 | [Void](https://open.spotify.com/track/6XkIosvL893aYi8lD5KDVy) | [Leat'eq](https://open.spotify.com/artist/1iBxtU5394iPOzmot1FDUD) | [Void](https://open.spotify.com/album/46zHod6Ohy5qzsX7nc9fcO) | 2:16 | 2023-03-17 | 2023-05-08 |
 | [Voodoo Ish](https://open.spotify.com/track/7inGk5zHtRI27UfgI9esff) | [Hypho](https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7), [Donnie Danko](https://open.spotify.com/artist/6rxntQEFOoobBvTGd1MNFX) | [Voodoo Ish](https://open.spotify.com/album/7nTF9NDGtd5qHQNfQF8uJh) | 3:17 | 2023-01-13 | 2024-05-25 |

@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the Nordic queendom. ",
-  "num_followers": 7388,
+  "num_followers": 7389,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "Z9A1aAAAAABq+URhPyia8VQWabJ+IAmx",
   "tracks": [
-    {
-      "added_at": "2025-03-11 13:06:47",
-      "album": {
-        "name": "On and On and On",
-        "url": "https://open.spotify.com/album/5WVwKAUf52Lo1QxZLOYTFj"
-      },
-      "artists": [
-        {
-          "name": "Klara Hammarstr\u00f6m",
-          "url": "https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6"
-        }
-      ],
-      "duration_ms": 179930,
-      "name": "On and On and On",
-      "url": "https://open.spotify.com/track/7aLXAoR6RB5qQmBRvKE2kO"
-    },
     {
       "added_at": "2025-03-11 13:06:47",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 151979,
       "name": "Who are you?",
       "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
+    },
+    {
+      "added_at": "2025-03-11 13:06:47",
+      "album": {
+        "name": "On and On and On",
+        "url": "https://open.spotify.com/album/5WVwKAUf52Lo1QxZLOYTFj"
+      },
+      "artists": [
+        {
+          "name": "Klara Hammarstr\u00f6m",
+          "url": "https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6"
+        }
+      ],
+      "duration_ms": 179930,
+      "name": "On and On and On",
+      "url": "https://open.spotify.com/track/7aLXAoR6RB5qQmBRvKE2kO"
     },
     {
       "added_at": "2025-03-11 13:06:47",
@@ -547,38 +547,6 @@
     {
       "added_at": "2025-03-11 13:06:47",
       "album": {
-        "name": "Euronites",
-        "url": "https://open.spotify.com/album/2X2wLhDxQF1HGunasIEdjr"
-      },
-      "artists": [
-        {
-          "name": "Julie Bergan",
-          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
-        }
-      ],
-      "duration_ms": 175746,
-      "name": "Dance All Night",
-      "url": "https://open.spotify.com/track/4g9HX5pBd1CHk4oq7vM9B0"
-    },
-    {
-      "added_at": "2025-03-11 13:06:47",
-      "album": {
-        "name": "Habits (Stay High) - Spotify Singles",
-        "url": "https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk"
-      },
-      "artists": [
-        {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
-        }
-      ],
-      "duration_ms": 211153,
-      "name": "Habits (Stay High) - Spotify Singles",
-      "url": "https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH"
-    },
-    {
-      "added_at": "2025-03-11 13:06:47",
-      "album": {
         "name": "Feel This Way",
         "url": "https://open.spotify.com/album/1krHx6VqHRNlHXI1ShycIU"
       },
@@ -599,6 +567,22 @@
     {
       "added_at": "2025-03-11 13:06:47",
       "album": {
+        "name": "Euronites",
+        "url": "https://open.spotify.com/album/2X2wLhDxQF1HGunasIEdjr"
+      },
+      "artists": [
+        {
+          "name": "Julie Bergan",
+          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
+        }
+      ],
+      "duration_ms": 175746,
+      "name": "Dance All Night",
+      "url": "https://open.spotify.com/track/4g9HX5pBd1CHk4oq7vM9B0"
+    },
+    {
+      "added_at": "2025-03-11 13:06:47",
+      "album": {
         "name": "MANIC",
         "url": "https://open.spotify.com/album/7aZzOXdbZOl9A8FL3z1c20"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 138461,
       "name": "MANIC",
       "url": "https://open.spotify.com/track/68M0lk2tYUaQf1TVsEYSXS"
+    },
+    {
+      "added_at": "2025-03-11 13:06:47",
+      "album": {
+        "name": "Habits (Stay High) - Spotify Singles",
+        "url": "https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "duration_ms": 211153,
+      "name": "Habits (Stay High) - Spotify Singles",
+      "url": "https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH"
     },
     {
       "added_at": "2025-03-11 13:06:47",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-03-11 13:06:47",
       "album": {
+        "name": "Strawberry Dream",
+        "url": "https://open.spotify.com/album/7CQX6aejSNeztkuDRmkRhV"
+      },
+      "artists": [
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "duration_ms": 191940,
+      "name": "Strawberry Dream",
+      "url": "https://open.spotify.com/track/4IvZvCRIZ38fFL5kAPjeOB"
+    },
+    {
+      "added_at": "2025-03-11 13:06:47",
+      "album": {
         "name": "Pornography",
         "url": "https://open.spotify.com/album/5bUZab9H9HH4z0RBwaRWuK"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 226666,
       "name": "Pornography",
       "url": "https://open.spotify.com/track/3WYYCy17XlR8BXpwdU2Qd8"
-    },
-    {
-      "added_at": "2025-03-11 13:06:47",
-      "album": {
-        "name": "Strawberry Dream",
-        "url": "https://open.spotify.com/album/7CQX6aejSNeztkuDRmkRhV"
-      },
-      "artists": [
-        {
-          "name": "Dagny",
-          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
-        }
-      ],
-      "duration_ms": 191940,
-      "name": "Strawberry Dream",
-      "url": "https://open.spotify.com/track/4IvZvCRIZ38fFL5kAPjeOB"
     },
     {
       "added_at": "2025-03-11 13:06:47",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-03-11 13:06:47",
       "album": {
-        "name": "Desires",
-        "url": "https://open.spotify.com/album/5a8vdQ9RT5KvGmwGqWy3jD"
-      },
-      "artists": [
-        {
-          "name": "Giift",
-          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
-        }
-      ],
-      "duration_ms": 162695,
-      "name": "All I need",
-      "url": "https://open.spotify.com/track/0DLnqDq2PvM2SNxBUgAnlU"
-    },
-    {
-      "added_at": "2025-03-11 13:06:47",
-      "album": {
         "name": "Fight Like A Girl",
         "url": "https://open.spotify.com/album/2HblPY60rDzBDoL2T5Gw5e"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 212553,
       "name": "Fight Like A Girl",
       "url": "https://open.spotify.com/track/75NdnAn8d1YrjFwcWRoBM6"
+    },
+    {
+      "added_at": "2025-03-11 13:06:47",
+      "album": {
+        "name": "Desires",
+        "url": "https://open.spotify.com/album/5a8vdQ9RT5KvGmwGqWy3jD"
+      },
+      "artists": [
+        {
+          "name": "Giift",
+          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
+        }
+      ],
+      "duration_ms": 162695,
+      "name": "All I need",
+      "url": "https://open.spotify.com/track/0DLnqDq2PvM2SNxBUgAnlU"
     },
     {
       "added_at": "2025-03-11 13:06:47",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-03-11 13:06:47",
       "album": {
-        "name": "Beginning of the end",
-        "url": "https://open.spotify.com/album/4Y1iz8SPcwtT6fqJIwWMOg"
-      },
-      "artists": [
-        {
-          "name": "Markella",
-          "url": "https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt"
-        }
-      ],
-      "duration_ms": 190645,
-      "name": "Beginning of the end",
-      "url": "https://open.spotify.com/track/7hcaBE52IGte9DmvULYeY3"
-    },
-    {
-      "added_at": "2025-03-11 13:06:47",
-      "album": {
         "name": "Happy Tears",
         "url": "https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 176433,
       "name": "Happy Tears",
       "url": "https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC"
+    },
+    {
+      "added_at": "2025-03-11 13:06:47",
+      "album": {
+        "name": "Beginning of the end",
+        "url": "https://open.spotify.com/album/4Y1iz8SPcwtT6fqJIwWMOg"
+      },
+      "artists": [
+        {
+          "name": "Markella",
+          "url": "https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt"
+        }
+      ],
+      "duration_ms": 190645,
+      "name": "Beginning of the end",
+      "url": "https://open.spotify.com/track/7hcaBE52IGte9DmvULYeY3"
     },
     {
       "added_at": "2025-03-11 13:06:47",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-03-11 13:06:47",
       "album": {
-        "name": "Drip",
-        "url": "https://open.spotify.com/album/3tdrJYHelQjyttVmulOG8R"
-      },
-      "artists": [
-        {
-          "name": "Tamara Mneney",
-          "url": "https://open.spotify.com/artist/2UfHLDuOKojtDAWIvnK0yV"
-        }
-      ],
-      "duration_ms": 230276,
-      "name": "Drip",
-      "url": "https://open.spotify.com/track/1MtWF5FUDx8cZZIDUo7fbw"
-    },
-    {
-      "added_at": "2025-03-11 13:06:47",
-      "album": {
         "name": "No Room For Love",
         "url": "https://open.spotify.com/album/75Vumdz8ONJyJX3LGXHpf8"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 177818,
       "name": "No Room For Love",
       "url": "https://open.spotify.com/track/3Xz5IqnHEeyJ9xnMJwXtla"
+    },
+    {
+      "added_at": "2025-03-11 13:06:47",
+      "album": {
+        "name": "Drip",
+        "url": "https://open.spotify.com/album/3tdrJYHelQjyttVmulOG8R"
+      },
+      "artists": [
+        {
+          "name": "Tamara Mneney",
+          "url": "https://open.spotify.com/artist/2UfHLDuOKojtDAWIvnK0yV"
+        }
+      ],
+      "duration_ms": 230276,
+      "name": "Drip",
+      "url": "https://open.spotify.com/track/1MtWF5FUDx8cZZIDUo7fbw"
     },
     {
       "added_at": "2025-03-11 13:06:47",
@@ -1167,38 +1167,6 @@
     {
       "added_at": "2025-03-11 13:06:47",
       "album": {
-        "name": "Lazy",
-        "url": "https://open.spotify.com/album/2xjF3kxMxZtgPYGc3amcQu"
-      },
-      "artists": [
-        {
-          "name": "Ameli Dot",
-          "url": "https://open.spotify.com/artist/6rX000PthIdtHGAlvGZODh"
-        }
-      ],
-      "duration_ms": 136895,
-      "name": "Lazy",
-      "url": "https://open.spotify.com/track/4uFSthUW4PTiYT89ShAvpC"
-    },
-    {
-      "added_at": "2025-03-11 13:06:47",
-      "album": {
-        "name": "Little Brother",
-        "url": "https://open.spotify.com/album/6IMtHh5NCek4Lm3UiGJXGa"
-      },
-      "artists": [
-        {
-          "name": "Sofia Monroy",
-          "url": "https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o"
-        }
-      ],
-      "duration_ms": 296261,
-      "name": "Little Brother",
-      "url": "https://open.spotify.com/track/50txkiS3lmOYM0pQqxnNa1"
-    },
-    {
-      "added_at": "2025-03-11 13:06:47",
-      "album": {
         "name": "HURT PEOPLE",
         "url": "https://open.spotify.com/album/5Ui2vqU9Ta35ZeiM8kjoNY"
       },
@@ -1215,6 +1183,22 @@
     {
       "added_at": "2025-03-11 13:06:47",
       "album": {
+        "name": "Lazy",
+        "url": "https://open.spotify.com/album/2xjF3kxMxZtgPYGc3amcQu"
+      },
+      "artists": [
+        {
+          "name": "Ameli Dot",
+          "url": "https://open.spotify.com/artist/6rX000PthIdtHGAlvGZODh"
+        }
+      ],
+      "duration_ms": 136895,
+      "name": "Lazy",
+      "url": "https://open.spotify.com/track/4uFSthUW4PTiYT89ShAvpC"
+    },
+    {
+      "added_at": "2025-03-11 13:06:47",
+      "album": {
         "name": "Happy Again",
         "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 154125,
       "name": "Happy Again",
       "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
+    },
+    {
+      "added_at": "2025-03-11 13:06:47",
+      "album": {
+        "name": "Little Brother",
+        "url": "https://open.spotify.com/album/6IMtHh5NCek4Lm3UiGJXGa"
+      },
+      "artists": [
+        {
+          "name": "Sofia Monroy",
+          "url": "https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o"
+        }
+      ],
+      "duration_ms": 296261,
+      "name": "Little Brother",
+      "url": "https://open.spotify.com/track/50txkiS3lmOYM0pQqxnNa1"
     },
     {
       "added_at": "2025-03-11 13:06:47",

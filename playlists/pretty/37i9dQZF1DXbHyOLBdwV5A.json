@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 127452,
+  "num_followers": 127463,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -651,30 +651,6 @@
     {
       "added_at": "2025-02-14 03:01:21",
       "album": {
-        "name": "Onde Eu Quero Habitar",
-        "url": "https://open.spotify.com/album/0MfpVRkb3k8zJTFw8NfPmR"
-      },
-      "artists": [
-        {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
-        },
-        {
-          "name": "Amanda Loyola",
-          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
-        },
-        {
-          "name": "Guilherme Galdino",
-          "url": "https://open.spotify.com/artist/7bHkQ6LugcJxdpLCPn9LRA"
-        }
-      ],
-      "duration_ms": 242990,
-      "name": "Onde Eu Quero Habitar",
-      "url": "https://open.spotify.com/track/6W4DedZJXKRSR9zlpvL2cY"
-    },
-    {
-      "added_at": "2025-02-14 03:01:21",
-      "album": {
         "name": "A Vida \u00c9 Boa (Remix)",
         "url": "https://open.spotify.com/album/0MUQZQTFRdeUzzuG5oE3w7"
       },
@@ -695,6 +671,30 @@
       "duration_ms": 129836,
       "name": "A Vida \u00c9 Boa - Remix",
       "url": "https://open.spotify.com/track/6dMhYMlH4dmeklYm04a6DU"
+    },
+    {
+      "added_at": "2025-02-14 03:01:21",
+      "album": {
+        "name": "Onde Eu Quero Habitar",
+        "url": "https://open.spotify.com/album/0MfpVRkb3k8zJTFw8NfPmR"
+      },
+      "artists": [
+        {
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "Amanda Loyola",
+          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
+        },
+        {
+          "name": "Guilherme Galdino",
+          "url": "https://open.spotify.com/artist/7bHkQ6LugcJxdpLCPn9LRA"
+        }
+      ],
+      "duration_ms": 242990,
+      "name": "Onde Eu Quero Habitar",
+      "url": "https://open.spotify.com/track/6W4DedZJXKRSR9zlpvL2cY"
     },
     {
       "added_at": "2025-02-14 03:01:21",
@@ -1215,8 +1215,8 @@
     {
       "added_at": "2025-02-14 03:01:21",
       "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/55jG2m5ui9g5Szx8idFaTr"
+        "name": "Impar\u00e1vel",
+        "url": "https://open.spotify.com/album/0XX6szHMJ1b5sfzIC8kCGj"
       },
       "artists": [
         {
@@ -1224,21 +1224,17 @@
           "url": "https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll"
         },
         {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
-        },
-        {
           "name": "Michaell D",
           "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
         },
         {
-          "name": "Jeovana Menezes",
-          "url": "https://open.spotify.com/artist/5NaPoQ3RKd5KoEAVeO5zqA"
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
         }
       ],
-      "duration_ms": 156093,
-      "name": "Gra\u00e7a",
-      "url": "https://open.spotify.com/track/0ethtHl4ngZ6NGgaZm4J8e"
+      "duration_ms": 163125,
+      "name": "Impar\u00e1vel",
+      "url": "https://open.spotify.com/track/13uOw9VAS34D34jx64rGEk"
     },
     {
       "added_at": "2025-02-14 03:01:21",
@@ -1371,8 +1367,8 @@
     {
       "added_at": "2025-02-14 03:01:21",
       "album": {
-        "name": "Impar\u00e1vel",
-        "url": "https://open.spotify.com/album/0XX6szHMJ1b5sfzIC8kCGj"
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/55jG2m5ui9g5Szx8idFaTr"
       },
       "artists": [
         {
@@ -1380,17 +1376,21 @@
           "url": "https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll"
         },
         {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+        },
+        {
           "name": "Michaell D",
           "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
         },
         {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+          "name": "Jeovana Menezes",
+          "url": "https://open.spotify.com/artist/5NaPoQ3RKd5KoEAVeO5zqA"
         }
       ],
-      "duration_ms": 163125,
-      "name": "Impar\u00e1vel",
-      "url": "https://open.spotify.com/track/13uOw9VAS34D34jx64rGEk"
+      "duration_ms": 156093,
+      "name": "Gra\u00e7a",
+      "url": "https://open.spotify.com/track/0ethtHl4ngZ6NGgaZm4J8e"
     },
     {
       "added_at": "2025-02-14 03:01:21",

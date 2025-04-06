@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 4395,
+  "num_followers": 4398,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+3PgAAAAAANUZBLJWS2FpAPh1aE3CTc",
+  "snapshot_id": "Z+8hAAAAAAAviPdqby4GwVor3GMc38H8",
   "tracks": [
     {
       "added_at": null,
@@ -399,26 +399,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MULTI",
-        "url": "https://open.spotify.com/album/01Gyi3UvIcbXejlgpjAYyD"
+        "name": "FCK GIRL SZN",
+        "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
       },
       "artists": [
-        {
-          "name": "DJ Chose",
-          "url": "https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq"
-        },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         },
         {
-          "name": "KenTheMan",
-          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 208770,
-      "name": "Where She At (feat. Kali, KenTheMan)",
-      "url": "https://open.spotify.com/track/0ou1POV1L5meXTc8HeELNP"
+      "duration_ms": 137880,
+      "name": "Can\u2019t Get \u2018Em",
+      "url": "https://open.spotify.com/track/2aG3cPs5o9QTvVDSs6h1Gw"
     },
     {
       "added_at": null,
@@ -439,22 +435,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "FCK GIRL SZN",
-        "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
+        "name": "MULTI",
+        "url": "https://open.spotify.com/album/01Gyi3UvIcbXejlgpjAYyD"
       },
       "artists": [
+        {
+          "name": "DJ Chose",
+          "url": "https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq"
+        },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         },
         {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
         }
       ],
-      "duration_ms": 137880,
-      "name": "Can\u2019t Get \u2018Em",
-      "url": "https://open.spotify.com/track/2aG3cPs5o9QTvVDSs6h1Gw"
+      "duration_ms": 208770,
+      "name": "Where She At (feat. Kali, KenTheMan)",
+      "url": "https://open.spotify.com/track/0ou1POV1L5meXTc8HeELNP"
     },
     {
       "added_at": null,
@@ -543,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Luv",
-        "url": "https://open.spotify.com/album/3dWR4DigMGjegp0NPBfAV7"
-      },
-      "artists": [
-        {
-          "name": "Enchanting",
-          "url": "https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 138001,
-      "name": "Track & Field (feat. Kaliii)",
-      "url": "https://open.spotify.com/track/2VEqGWCSJaQeQlwToXSB36"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What's Tea? (with Kaliii)",
         "url": "https://open.spotify.com/album/1229iPo1z4zKGLiruatn7c"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 169186,
       "name": "What's Tea? - with Kaliii",
       "url": "https://open.spotify.com/track/79Qfwf0duzJhAPhW65apXn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Luv",
+        "url": "https://open.spotify.com/album/3dWR4DigMGjegp0NPBfAV7"
+      },
+      "artists": [
+        {
+          "name": "Enchanting",
+          "url": "https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 138001,
+      "name": "Track & Field (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/2VEqGWCSJaQeQlwToXSB36"
     },
     {
       "added_at": null,
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 153652,
-      "name": "Bad Bad Bad",
-      "url": "https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO"
+      "duration_ms": 144983,
+      "name": "Nasty Bitch",
+      "url": "https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y"
     },
     {
       "added_at": null,
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 144983,
-      "name": "Nasty Bitch",
-      "url": "https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y"
+      "duration_ms": 153652,
+      "name": "Bad Bad Bad",
+      "url": "https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO"
     },
     {
       "added_at": null,

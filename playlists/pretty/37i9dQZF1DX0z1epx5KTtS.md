@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from the continent to Paris\. Photo : 3xdavs
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,214 likes - 40 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,256 likes - 40 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Domaye](https://open.spotify.com/track/79hliJaIj0CYOPAKf5NzZA) | [3xdavs](https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr) | [Ma facon \(DELUXE\)](https://open.spotify.com/album/7xDkJIFa6CZztIZ3vWA3HS) | 3:03 |
+| 1 | [Domaye](https://open.spotify.com/track/79hliJaIj0CYOPAKf5NzZA) | [3xdavs](https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr) | [Ma façon \(DELUXE\)](https://open.spotify.com/album/7xDkJIFa6CZztIZ3vWA3HS) | 3:03 |
 | 2 | [Biama Brut Reverse](https://open.spotify.com/track/2cql6AVi8ktgedXr4RAFR0) | [Oyoki Onanayo](https://open.spotify.com/artist/4aKN9IVVCH0haHMdFhfw7L), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [Biama Brut Reverse](https://open.spotify.com/album/3xoYfNYq0K6abXFOyAIhIO) | 3:01 |
 | 3 | [Môkôdô](https://open.spotify.com/track/6h8y0m2kxxmmpqWRnRIQ6h) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Môkôdô](https://open.spotify.com/album/0EyG4YFFoRm8WJyXvHRJfD) | 3:38 |
 | 4 | [EN KINMIN RELOADED \- New Version](https://open.spotify.com/track/3beJrR1QYMxbKx1GK8FKVq) | [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Grand Homme](https://open.spotify.com/artist/2F3A4fm1tsB1kBe6idGcO9) | [EN KINMIN RELOADED \(New Version\)](https://open.spotify.com/album/08dv4vJl0yQlNL6BmMc8in) | 2:25 |

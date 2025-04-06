@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Ed Sheeran, Djo, hingga
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,178 likes - 82 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,226 likes - 82 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

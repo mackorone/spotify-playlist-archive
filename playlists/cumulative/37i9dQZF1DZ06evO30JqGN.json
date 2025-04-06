@@ -745,6 +745,32 @@
     },
     {
       "album": {
+        "name": "Something Real (with London On Da Track & Chris Brown)",
+        "url": "https://open.spotify.com/album/3sKfMROqgj9nNxOuyPDndH"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "London On Da Track",
+          "url": "https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2025-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183137,
+      "name": "Something Real (with London On Da Track & Chris Brown)",
+      "url": "https://open.spotify.com/track/4otQJBpb8okSeykALR3eCH"
+    },
+    {
+      "album": {
         "name": "Songs About U",
         "url": "https://open.spotify.com/album/4F6grP1bKnxdEDkwecx3IM"
       },

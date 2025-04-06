@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-265 songs - 18 hr 16 min
+266 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Spaces](https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4) | [Spaces](https://open.spotify.com/album/79BuUC7A4UwuFOcSz9BNhB) | 3:44 | 2022-01-14 | 2024-07-19 |
 | [Starz](https://open.spotify.com/track/2rCXC1o4QkyWlKgl19VMjg) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Starz](https://open.spotify.com/album/16zN1g3AqZ38n9FTxViwG9) | 5:00 | 2022-11-25 | 2023-03-23 |
 | [Starz](https://open.spotify.com/track/4QdrjvWnftlEW1tlRwxYvx) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Starz](https://open.spotify.com/album/6ABh7hs4z4lrjmp1R22R9t) | 5:00 | 2022-11-25 | 2024-03-08 |
+| [State Of Mind](https://open.spotify.com/track/769a3KrWIeyqIeAsKSyq2Y) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA) | [State Of Mind](https://open.spotify.com/album/3l1Cs2OVHkj5aLiFHyOlDg) | 4:39 | 2025-04-03 |  |
 | [Stay Still](https://open.spotify.com/track/1tM2jivvLKpF5TNtwKKyEB) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Stay Still](https://open.spotify.com/album/1Liw9JDxORvLa5ZQnWJbdX) | 4:33 | 2024-04-12 |  |
 | [Still Feel \(Home Edit\)](https://open.spotify.com/track/0mBdNrpS6UkxDusXE4actk) | [Elaine Mai](https://open.spotify.com/artist/0wRHsCARScopB5WmbQzMcy), [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Home](https://open.spotify.com/album/3PxjuDDfOWcW3oQITgX1Ru) | 3:56 | 2022-01-14 | 2022-11-26 |
 | [Stolen Glances \(feat\. Låpsley\)](https://open.spotify.com/track/4EnqqwxwKavuv0mQMMgFE5) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Stolen Glances \(feat\. Låpsley\)](https://open.spotify.com/album/5DObus73yw027Z2SM972b3) | 3:08 | 2024-06-21 | 2024-09-29 |
@@ -262,7 +263,7 @@
 | [Wayside](https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [We Are Always Under The Same Sky](https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ) | 4:09 | 2025-01-17 |  |
 | [When Everything Was New](https://open.spotify.com/track/3RvZSJe1YFaCR34mRnABDX) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [When Everything Was New](https://open.spotify.com/album/42OTAsIABBpoxlgibM6rye) | 4:27 | 2024-04-05 | 2024-06-26 |
 | [Where The Mountains Grow](https://open.spotify.com/track/4VG2Aq26xZWJUoUywi4x4r) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Chris Howard](https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9) | [Where The Mountains Grow](https://open.spotify.com/album/7Ky5LYmNqG33DayRxkXaOu) | 3:51 | 2024-07-05 | 2024-08-10 |
-| [Where's The Music Gone](https://open.spotify.com/track/0W2DNZ8ttfFvhlGCBgMq0s) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Paul Rogers](https://open.spotify.com/artist/6QkoiP5TNAX3xPGTYDLpAg) | [Where's The Music Gone](https://open.spotify.com/album/2gcKpdIcK8DTt99uPWZkxp) | 3:48 | 2024-07-05 |  |
+| [Where's The Music Gone](https://open.spotify.com/track/0W2DNZ8ttfFvhlGCBgMq0s) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Paul Rogers](https://open.spotify.com/artist/6QkoiP5TNAX3xPGTYDLpAg) | [Where's The Music Gone](https://open.spotify.com/album/2gcKpdIcK8DTt99uPWZkxp) | 3:48 | 2024-07-05 | 2025-04-06 |
 | [Whispers](https://open.spotify.com/track/0Rz8DdxSqMuYDzTrzXSQNG) | [Martin Badder](https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8), [IDA fLO](https://open.spotify.com/artist/1lnuLr8sTuDB4ghdZZ4uHV) | [Whispers](https://open.spotify.com/album/2TG8n4sZ0loBauataq3rwg) | 3:10 | 2022-01-14 | 2024-02-16 |
 | [White Ghost](https://open.spotify.com/track/6dcOMgnBkzfj4WZcNziVIq) | [J\_ulio](https://open.spotify.com/artist/1otLqs9oi7mIGYERdhM9b2) | [Far Away Connections](https://open.spotify.com/album/34ZraMBlp39ntdY7IUnCfH) | 6:30 | 2022-01-14 | 2022-11-26 |
 | [Won't Give Up](https://open.spotify.com/track/26jQz1uxGLamG6naDNzjD4) | [Supernature](https://open.spotify.com/artist/46svYCPiWA3zQdU0zoO2re) | [Won't Give Up](https://open.spotify.com/album/1C75sxyZq3SXukAbfN7VQl) | 3:52 | 2024-02-23 | 2024-02-26 |

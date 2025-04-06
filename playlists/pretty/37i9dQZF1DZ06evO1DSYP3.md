@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,563 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,565 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 8 | [same squad](https://open.spotify.com/track/0YCl0i8CTDqtISiphhLIE8) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [PRIME](https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL) | 2:31 |
 | 9 | [GIVE ME A BEAT!](https://open.spotify.com/track/4h4kvQ00knFH2BrTITdEv4) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [MAJORLY INDEPENDENT](https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b) | 3:18 |
 | 10 | [Too Big](https://open.spotify.com/track/5CSKc1MTcGNx5DF9Yo6DqF) | [MOUNT WESTMORE](https://open.spotify.com/artist/3DELNHPLdJgXkDHOTt3ok8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SNOOP CUBE 40 $HORT](https://open.spotify.com/album/0W8eSVMCkF6C4CpvtDtOyZ) | 3:36 |
-| 11 | [Suede](https://open.spotify.com/track/7rE63u9OUe86CJbBF0jdAN) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME), [Goapele](https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq) | [For The Soil](https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3) | 3:37 |
-| 12 | [Going Off](https://open.spotify.com/track/0ptpL3gNn7Z8c2LoV4VthT) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Going Off](https://open.spotify.com/album/4U7mZO24WBKhnjXWpFhHFS) | 2:03 |
+| 11 | [Going Off](https://open.spotify.com/track/0ptpL3gNn7Z8c2LoV4VthT) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Going Off](https://open.spotify.com/album/4U7mZO24WBKhnjXWpFhHFS) | 2:03 |
+| 12 | [Suede](https://open.spotify.com/track/7rE63u9OUe86CJbBF0jdAN) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME), [Goapele](https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq) | [For The Soil](https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3) | 3:37 |
 | 13 | [YANKIN!](https://open.spotify.com/track/7xkfjJyZbGXTDG9NnXF7aP) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [D\-LO](https://open.spotify.com/artist/40uPOeOQVWuNb6imBRJWjR), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Raymon Marco](https://open.spotify.com/artist/2hk2X7xeg4QEQwKdnvl0JG), [MALACHI](https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb) | [MAJORLY INDEPENDENT](https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b) | 3:58 |
 | 14 | [Too Faded](https://open.spotify.com/track/5D0zbCq9DqP3CgMZ6R6Msv) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Stone Cold](https://open.spotify.com/album/7GWiqdhbq7uAl33KYuMr7f) | 3:22 |
 | 15 | [100 Days \(Feat\. YG, P\-Lo\)](https://open.spotify.com/track/5asOAhaqBPpKyljdVBbbJl) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [THE ONE YOU WANTED](https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 49 | [Level](https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Good Life](https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j) | 2:55 |
 | 50 | [Luh U](https://open.spotify.com/track/4eDRjjFdu1g6Q4Z4i9Dvjm) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Bosko](https://open.spotify.com/artist/520s2qSqvmjVMEW31EHmYJ) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 3:02 |
 
-Snapshot ID: `Z+3PgAAAAADTWxJtu7nKSYe9ZprM87wZ`
+Snapshot ID: `Z+8hAAAAAAAcd6cWeT1EwMzbUlfvkDQx`

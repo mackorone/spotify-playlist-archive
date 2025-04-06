@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,173 songs - 2 day 11 hr 12 min
+1,174 songs - 2 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [HAVHAVHAV](https://open.spotify.com/track/0126WdGxnrNEqzgUb1wgQH) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [HAVHAVHAV](https://open.spotify.com/album/1fmxQwyTIL74PrfZQwg6nu) | 2:06 | 2025-01-25 | 2025-03-11 |
 | [Hay Hay](https://open.spotify.com/track/0awjgmoviztbv4tnHUUzUE) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Hay Hay](https://open.spotify.com/album/2Ziw3fTldn7Q0HHUFTXYpe) | 3:38 | 2021-06-20 | 2021-09-12 |
 | [Hayalet](https://open.spotify.com/track/3NWhRNp75M7bEZZH1nWzMw) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [Hayalet](https://open.spotify.com/album/02PUeAZeieBC4Sd1LUEdjj) | 2:42 | 2024-01-06 | 2024-01-22 |
+| [Hayat Şaşırtır!](https://open.spotify.com/track/2IPxsVjAkqoFXrzwGwUVia) | [Aydilge](https://open.spotify.com/artist/0cjA9XY1jx3RlniZbMkCWy) | [Hayat Şaşırtır!](https://open.spotify.com/album/3apM8VTMPcxfc2ogK3xP4G) | 3:25 | 2025-04-05 |  |
 | [Hayatım Kaymış](https://open.spotify.com/track/7dxlHPdMeGZQDX70TK0jB5) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Hayatım Kaymış](https://open.spotify.com/album/0glBp4JJvAthxFRfklMOde) | 4:06 | 2021-08-16 | 2022-01-15 |
 | [Haydi Gel Benimle Ol](https://open.spotify.com/track/6wE2kwWJpEWuKGxlN1DMKi) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Haydi Gel Benimle Ol](https://open.spotify.com/album/65Op2SMVGbXfT4FE1BuHlj) | 2:35 | 2023-06-07 | 2023-06-18 |
 | [HAYIR](https://open.spotify.com/track/2V4rAqDOrVzthQXJ0PpoNW) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Eftalya Yağcı](https://open.spotify.com/artist/27JkefjyyNpoRTWGDIt6Tc) | [HAYIR](https://open.spotify.com/album/2hWeZlMbzNGdSAZo33Pahi) | 2:21 | 2023-01-28 | 2023-02-26 |
@@ -538,7 +539,7 @@
 | [HER YER FAVELA](https://open.spotify.com/track/5fuPdS5jBncmRu9uu1MLOr) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [HER YER FAVELA](https://open.spotify.com/album/3PWIyRztWQE0AICzbD3Dpb) | 3:33 | 2024-09-21 | 2024-09-24 |
 | [Her Şeyi Yak](https://open.spotify.com/track/4uqlFpMPTKO6uAsX6qvK0l) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Belki Alışman Lazım](https://open.spotify.com/album/5TQ4ZTyFM7FTDpnfSjE54l) | 4:30 | 2021-07-17 | 2021-11-10 |
 | [Herkes Gibisin](https://open.spotify.com/track/7jnN5sT8rk6PIvBZRWYdJj) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Herkes Gibisin](https://open.spotify.com/album/0xR4GPMWizCtxkTjouDqra) | 3:05 | 2022-05-15 | 2023-06-16 |
-| [Herkesin Bir Derdi Var \(Cerrahpaşa\)](https://open.spotify.com/track/64VsL24YXDx46V9gMCK2CY) | [Volkan Konak](https://open.spotify.com/artist/48CUA59SDed3IdCctKndud) | [Maranda](https://open.spotify.com/album/3fQb7X41OaZWNmB31gBRsn) | 4:16 | 2025-04-01 |  |
+| [Herkesin Bir Derdi Var \(Cerrahpaşa\)](https://open.spotify.com/track/64VsL24YXDx46V9gMCK2CY) | [Volkan Konak](https://open.spotify.com/artist/48CUA59SDed3IdCctKndud) | [Maranda](https://open.spotify.com/album/3fQb7X41OaZWNmB31gBRsn) | 4:16 | 2025-04-01 | 2025-04-06 |
 | [HESAP](https://open.spotify.com/track/4bG57u7XhAA9ilg6FONPOP) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:38 | 2022-09-10 | 2022-09-15 |
 | [Heyecanlanman Normal](https://open.spotify.com/track/0RQFjwIdFaI7DghfjonJUL) | [Ben Fero](https://open.spotify.com/artist/2kS0jWMkkFBL0mrl0VotD0), [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [Heyecanlanman Normal](https://open.spotify.com/album/2PfvoBY67oVsXhFdKhFQsg) | 2:29 | 2022-10-22 | 2022-10-28 |
 | [Hikaye Bitti Çoktan](https://open.spotify.com/track/2mgN0kh91PY3hlY88s3Zz5) | [Kayra](https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3) | [Ömrümün Son Güzel Günleri](https://open.spotify.com/album/36wDwn7fld4l2Qw77qXnvX) | 2:17 | 2024-11-12 | 2024-12-19 |
@@ -920,7 +921,7 @@
 | [Sahte Sonbahar](https://open.spotify.com/track/1ACI7zmoUY34xcrKrYeypb) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:55 | 2024-08-10 | 2024-11-11 |
 | [Sakatat](https://open.spotify.com/track/1r56JjG9mRobTXWfb7UGvO) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Sakatat](https://open.spotify.com/album/775yVS4bLXoaJj1TiaxD66) | 2:36 | 2021-04-04 | 2021-07-05 |
 | [SAKIN OLA](https://open.spotify.com/track/1pDtgy08kaciI0c9z52Udt) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [SAKIN OLA](https://open.spotify.com/album/2CHcRXtH2WK6TcPHpoaP1G) | 2:47 | 2021-10-24 | 2021-11-14 |
-| [Sakladığın Bir Şeyler Var](https://open.spotify.com/track/6t18CcJVpnFAoWfcZxiZtk) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Sakladığın Bir Şeyler Var](https://open.spotify.com/album/4Q9gbvetq0DATn0W7OIfZ8) | 3:16 | 2022-10-17 |  |
+| [Sakladığın Bir Şeyler Var](https://open.spotify.com/track/6t18CcJVpnFAoWfcZxiZtk) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Sakladığın Bir Şeyler Var](https://open.spotify.com/album/4Q9gbvetq0DATn0W7OIfZ8) | 3:16 | 2022-10-17 | 2025-04-06 |
 | [SALAH](https://open.spotify.com/track/1hoI5KrTn5aEyBZJnVwdr0) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [SALAH](https://open.spotify.com/album/69JpxQN95CyG5gX6zdN2PE) | 2:01 | 2021-10-03 | 2021-10-04 |
 | [Salam Alaykum](https://open.spotify.com/track/69YWQXUtlAlir0zRcFrPyr) | [Hypzex](https://open.spotify.com/artist/42jeWT1YU3yKejPa704z25), [RECO](https://open.spotify.com/artist/6W9GklXF52RYMTtbPbty7q) | [Salam Alaykum](https://open.spotify.com/album/2cp6COEaiPoaNQzDmQNzLO) | 2:36 | 2021-04-26 | 2021-06-14 |
 | [Salla Salla](https://open.spotify.com/track/3BMS2ZxodzjxPKzb2iHxze) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Salla Salla](https://open.spotify.com/album/3vSlUhmre7ioPlQn424IYD) | 2:26 | 2023-11-25 | 2024-08-11 |
@@ -1099,7 +1100,7 @@
 | [Yara](https://open.spotify.com/track/1IquNFg2RRH1CLRAHNVgQ9) | [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [Sonsuza Kadar](https://open.spotify.com/album/3ETbFTNmbuKtqoRtnmjTI0) | 3:33 | 2022-03-21 | 2025-03-26 |
 | [Yaralarını Ben Sarayım](https://open.spotify.com/track/2pTwhAbZHkM1CyDYe1k8hl) | [Berk Baysal](https://open.spotify.com/artist/54R13HT0PZ7sa6xMm9YpDS) | [Olmuyor Böyle](https://open.spotify.com/album/0UKC1bSDFuCunQZudf6jnt) | 3:58 | 2022-03-08 | 2022-06-05 |
 | [Yarasalar](https://open.spotify.com/track/7rB7UrKvW1yfFEiRrZsrXt) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 4:17 | 2024-10-12 | 2024-12-13 |
-| [Yarim Yarim](https://open.spotify.com/track/6tXzYIjN0OsHWwMPNU6GVN) | [Volkan Konak](https://open.spotify.com/artist/48CUA59SDed3IdCctKndud) | [Mimoza](https://open.spotify.com/album/3RWkbmmWBeUzPFrXuTV4n7) | 4:23 | 2025-04-01 | 2025-04-05 |
+| [Yarim Yarim](https://open.spotify.com/track/6tXzYIjN0OsHWwMPNU6GVN) | [Volkan Konak](https://open.spotify.com/artist/48CUA59SDed3IdCctKndud) | [Mimoza](https://open.spotify.com/album/3RWkbmmWBeUzPFrXuTV4n7) | 4:23 | 2025-04-01 |  |
 | [Yarı Çıplak](https://open.spotify.com/track/5D6KCRhCyBuzO4EMO0B0Yf) | [Gülben Ergen](https://open.spotify.com/artist/6hypPYDPSsgioRRfBXve38) | [Hayat Bi Gün...](https://open.spotify.com/album/6WHSoGdaSQtjTYc0dR6hhN) | 4:23 | 2025-03-22 | 2025-03-29 |
 | [Yarım](https://open.spotify.com/track/57rovEuHglDmpx84Oir2Nu) | [Didomido](https://open.spotify.com/artist/4n07t89zwwIvAfHvgvdCWf) | [Yarım](https://open.spotify.com/album/1qfUQl8m2UfTawiCrwHgsd) | 2:14 | 2021-05-23 | 2021-06-24 |
 | [Yarım Kalan Sigara](https://open.spotify.com/track/0HbKbkAMK7Wnps5vpZW4j2) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y), [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Kron1k](https://open.spotify.com/album/5f1l54Z4YUjdxhR7DqDZIS) | 3:03 | 2022-01-17 | 2022-12-28 |

@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,956 songs - 1 day 15 hr 43 min
+1,957 songs - 1 day 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1159,6 +1159,7 @@
 | [Night](https://open.spotify.com/track/23zsr7wGueCok1sHABOq4y) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Night](https://open.spotify.com/album/5as3YQ1oUzCu9SCii56xU1) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Night Again](https://open.spotify.com/track/5btJIKphes1IIIhiD25h78) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Night Again](https://open.spotify.com/album/2HJ22BGq1Ze0lDHRYcHnMM) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Night Arr\. For Cello And Felt Piano](https://open.spotify.com/track/4rrPxD6u2Zxn8B5fyb4qdr) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Night Arr\. For Cello And Felt Piano](https://open.spotify.com/album/1AG0XSja4iLG0JRDaesFt1) | 1:01 | 2023-04-19 | 2024-02-13 |
+| [Night Glow](https://open.spotify.com/track/1Whlp3An2VUNb5JjXF6cl7) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Night Glow](https://open.spotify.com/album/41DodAIPE7dUiNth2PJV9P) | 1:00 | 2025-04-05 |  |
 | [Night Light](https://open.spotify.com/track/2Qq9FnBPkk5Q4y0oSwY5hU) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Eternal Sky](https://open.spotify.com/album/1gkgnmM8Sb6C5pSjR9MYfX) | 1:00 | 2022-05-17 |  |
 | [Night Light](https://open.spotify.com/track/48EvGZAEDgy6wiZ45NUHuo) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Night Light](https://open.spotify.com/album/1GUxE9kPBISEQoNieBfyKp) | 1:00 | 2022-06-18 |  |
 | [Night Shadows](https://open.spotify.com/track/3og18fPPHvVnv1NoUuyOeZ) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Innerscape](https://open.spotify.com/album/7Irucj3F7RZXtGA5ePsBig) | 1:13 | 2022-01-12 |  |

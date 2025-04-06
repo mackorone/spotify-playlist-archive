@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "ricochet",
+        "url": "https://open.spotify.com/album/1OTf7RvlqRhUqLHnzeFBEV"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "date_added": "2025-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187029,
+      "name": "ricochet",
+      "url": "https://open.spotify.com/track/76xzDSAEc0bnRykhiOaekb"
+    },
+    {
+      "album": {
         "name": "Sick",
         "url": "https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J"
       },

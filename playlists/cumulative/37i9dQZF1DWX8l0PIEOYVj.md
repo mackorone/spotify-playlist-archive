@@ -4,7 +4,7 @@
 
 > Future & melodic bass 🛸 with Dabin
 
-749 songs - 1 day 20 hr 48 min
+750 songs - 1 day 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Hypnotize](https://open.spotify.com/track/67Sb5mCfhpMDiD2ZbIGh4S) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Grant](https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus) | [Hypnotize](https://open.spotify.com/album/4WvJjrZQhOLCTNnPUdZpQw) | 3:07 | 2023-01-13 | 2024-04-19 |
 | [Hysteria](https://open.spotify.com/track/45PDrg2UUXCCDBTihLbvX2) | [KDrew](https://open.spotify.com/artist/1DLsogyGi0pwPtwV78D8uZ) | [Hysteria](https://open.spotify.com/album/5vfssDdkPeC0AAXkOvsKNa) | 2:27 | 2024-06-28 | 2024-08-22 |
 | [I Can Feel](https://open.spotify.com/track/6vAghAitNFHoGUEbhJPI6n) | [R3YAN](https://open.spotify.com/artist/6oRmvag0pQojcoSnLNsZel) | [I Can Feel](https://open.spotify.com/album/57l0rDfB4jXEepSeuuE56H) | 2:31 | 2022-07-08 | 2022-09-03 |
+| [I Don't Want Anyone](https://open.spotify.com/track/1vuEcoZWe4Uf8lTXWbFV57) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [I Don't Want Anyone](https://open.spotify.com/album/5VnDhmEqGYMGy6uImtx3WL) | 3:54 | 2025-04-04 |  |
 | [i don’t wanna write sad songs anymore](https://open.spotify.com/track/1mDAyIXR1GlQRsSr0c2YQ4) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW), [whyislavndr](https://open.spotify.com/artist/1vat1U9C93HzmZFkUyPB9E) | [create together vol\. 3](https://open.spotify.com/album/4G599lsqp9XBStqTtloBg2) | 4:01 | 2022-07-08 | 2023-03-01 |
 | [I Feel Alive](https://open.spotify.com/track/42yauBSK4hCNL88yMHM5dV) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC), [The Lie Within Callie](https://open.spotify.com/artist/32YAQiSabpBR3DYM5xBlUX) | [I Feel Alive](https://open.spotify.com/album/3cKs83Pz9RlNILp4JZen07) | 3:39 | 2024-12-20 |  |
 | [I Know](https://open.spotify.com/track/0fSEQCnHfXZIu5j7qJMjZD) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Awakening](https://open.spotify.com/album/6gMYX0rJ9tdR1B53cj2wPT) | 3:44 | 2022-07-29 | 2022-09-10 |
@@ -414,7 +415,7 @@
 | [Losing My Mind](https://open.spotify.com/track/2kXvk84Udu5hCOizgQCBmU) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [Brooke Williams](https://open.spotify.com/artist/47eA8knxvpD9CZsqHn4Mxz) | [Losing My Mind](https://open.spotify.com/album/5tEMN11A8LyAzummT8irHV) | 3:12 | 2022-07-08 | 2023-09-02 |
 | [LOST](https://open.spotify.com/track/2bgFEoaY6r4CqDPjllvKsl) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [LOST](https://open.spotify.com/album/7JzcPhDBznSOo5V4SZExpK) | 4:34 | 2025-02-28 |  |
 | [Lost](https://open.spotify.com/track/3fH6sfaWJ9Ji6sqbcqdPmf) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Lost](https://open.spotify.com/album/4718f8p5I2EHop2LwcPHah) | 3:08 | 2022-07-08 | 2022-07-29 |
-| [Lost \(Meant To Be\)](https://open.spotify.com/track/7HPMTFu90wrp31dNAQ7EgF) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Lost \(Meant To Be\)](https://open.spotify.com/album/0EEt1MWkPYfNOzKrAtRivg) | 3:29 | 2024-03-29 |  |
+| [Lost \(Meant To Be\)](https://open.spotify.com/track/7HPMTFu90wrp31dNAQ7EgF) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Lost \(Meant To Be\)](https://open.spotify.com/album/0EEt1MWkPYfNOzKrAtRivg) | 3:29 | 2024-03-29 | 2025-04-06 |
 | [Lost Control](https://open.spotify.com/track/4wKf4F0N5fz1ziHw5u6BWB) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Two Worlds Apart](https://open.spotify.com/album/3IDwApCed2IedcLFrw15jm) | 1:58 | 2023-09-22 | 2024-03-13 |
 | [Lost Time](https://open.spotify.com/track/6eVVBm3RlVeNReLG9EEFTI) | [Cinema Kid](https://open.spotify.com/artist/0zPDD8eFOxihKPKPI0uZEz) | [Lost Time](https://open.spotify.com/album/5lnine5W9NSTbrfBH1F6u3) | 3:50 | 2024-05-03 | 2024-06-22 |
 | [Lost With You](https://open.spotify.com/track/6WpyVqYpxKmZtKyUvHJIK3) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [Lost With You](https://open.spotify.com/album/3YXPXr6pTSr5G8orBamN9c) | 3:10 | 2025-02-28 |  |

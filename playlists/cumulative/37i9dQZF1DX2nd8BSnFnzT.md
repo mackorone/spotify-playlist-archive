@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Terno Rei
 
-527 songs - 1 day 5 hr 22 min
+528 songs - 1 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Infame](https://open.spotify.com/track/1yJoSwOtQPXcGf3Vzm5DSe) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1), [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Infame](https://open.spotify.com/album/5ajNNK3Yk53P8040QnuhOT) | 4:10 | 2023-03-31 | 2024-04-13 |
 | [Insista](https://open.spotify.com/track/0980mKBfxJvhtSMY53IgRy) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Insane Trip](https://open.spotify.com/artist/6K8lSvzKBta3pZLT3jdMrI) | [Insista](https://open.spotify.com/album/5jU9NOnTqzMd5JDfiOq6Ad) | 4:12 | 2022-09-30 | 2023-01-14 |
 | [Instantes no Tempo](https://open.spotify.com/track/0bDmOcahJ9Ju3PvvDqERuJ) | [Triunfe](https://open.spotify.com/artist/3mqeU6xC1G68L38l8Aogpu) | [Instantes no Tempo](https://open.spotify.com/album/7sLlsbTPomSXDp9QLm4OF8) | 3:44 | 2023-07-14 | 2023-09-16 |
-| [Intervenção](https://open.spotify.com/track/4DX27vK2TVab3xjm4lghF5) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Intervenção](https://open.spotify.com/album/3QygnjTFSXdP5cvNdOBDbs) | 3:33 | 2023-03-03 |  |
+| [Intervenção](https://open.spotify.com/track/4DX27vK2TVab3xjm4lghF5) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Intervenção](https://open.spotify.com/album/3QygnjTFSXdP5cvNdOBDbs) | 3:33 | 2023-03-03 | 2025-04-06 |
 | [Jaded](https://open.spotify.com/track/504p0k0JD2PrQ1JP9SzSKS) | [Garage Fuzz](https://open.spotify.com/artist/5CxFdJDDcUDl0oa0DjrqJs) | [Jaded](https://open.spotify.com/album/3ILX46fPP7ZXAVpdUu7Lkz) | 4:26 | 2024-07-12 | 2025-02-15 |
 | [Jimi](https://open.spotify.com/track/0aLlb5nrQaAsbygcnTRxrX) | [Varandão](https://open.spotify.com/artist/6szGc0bzf7tY6HXwBVyNZ0) | [Jimi](https://open.spotify.com/album/5B3IJVAnRAnWjL8KbrqvMP) | 2:30 | 2022-09-17 | 2022-10-01 |
 | [Jovem Desertor](https://open.spotify.com/track/5yHy3T3Zqrabh6tRF9VeAm) | [Cólera](https://open.spotify.com/artist/6S6ll1Wa6FYvAgThEBX6qJ) | [Está na Hora de Mudar!](https://open.spotify.com/album/5z4HmQEvLbheG9GlfzsJYR) | 3:03 | 2023-06-30 | 2023-07-22 |
@@ -439,6 +439,7 @@
 | [Se Divertir](https://open.spotify.com/track/0SlGvj1SPXarziNUdQpOcD) | [Terra Celta](https://open.spotify.com/artist/2DBsooS9qDY79dtnqMBRuF) | [Se Divertir](https://open.spotify.com/album/6lrWb8lGht50fWq6PbHDo9) | 6:13 | 2022-03-18 | 2022-03-26 |
 | [Se Lembrar de Mim](https://open.spotify.com/track/13JRJM8CcGhyTzgGCiAFWf) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Se Lembrar de Mim](https://open.spotify.com/album/4ow3axuDmPUKCnUXH3imuM) | 3:09 | 2022-04-29 | 2022-05-14 |
 | [Seja Quem Você Quiser](https://open.spotify.com/track/1uMkN9lKqPE2HymaAM0IVm) | [O Grilo](https://open.spotify.com/artist/22KEpOwThQ5q1DGochfayO) | [Seja Quem Você Quiser](https://open.spotify.com/album/0TFiaL4ItKp7ELM5Jo7GAT) | 3:57 | 2024-04-05 |  |
+| [Seleção Natural](https://open.spotify.com/track/7rqlfTEYb189hzMLm4PN3y) | [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t) | [Seleção Natural](https://open.spotify.com/album/47hOPiDMmvkefR8GS02HaZ) | 2:50 | 2025-04-05 |  |
 | [Selva de Concreto](https://open.spotify.com/track/2ZHLPehoFYRKLwJCxotHYw) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07) | [Selva de Concreto](https://open.spotify.com/album/3kgRDWQ5lPQcJZqQV4YO2n) | 3:32 | 2022-05-20 | 2022-08-02 |
 | [Sem Parar](https://open.spotify.com/track/3TuBiOhnrNRfDOHuA4Lgss) | [RPM](https://open.spotify.com/artist/7lfmakKFOeQWdUrbmVK6EQ) | [Sem Parar](https://open.spotify.com/album/0tQCvne4fue2q9lIecac4B) | 3:35 | 2023-03-10 | 2023-07-15 |
 | [Sem Pensar \- Ao Vivo](https://open.spotify.com/track/4B8ZYIPUh7YKNrYpzb8TLo) | [Izzi Louise](https://open.spotify.com/artist/7IKyfB7CQfU6tgv6c4iwnV) | [Sem Pensar \(Ao Vivo\)](https://open.spotify.com/album/6MOUKlQW1Qslv0uTPIn9fX) | 3:32 | 2022-01-14 | 2022-02-05 |

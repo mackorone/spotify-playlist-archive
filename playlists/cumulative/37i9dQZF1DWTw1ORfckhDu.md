@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯 Kannessa Costi.
 
-850 songs - 1 day 16 hr 21 min
+851 songs - 1 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [Jos Mä Oisin Bämä](https://open.spotify.com/track/338Se8AykwAEuu4wawaaDB) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP) | [Goat Talk](https://open.spotify.com/album/7m9ZYGQdXMX1mZbaO3vg4T) | 2:50 | 2024-11-21 | 2025-01-24 |
 | [Jos mä oisin sä](https://open.spotify.com/track/1gSb8215VMM7zqVq1ihvjl) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Jos mä oisin sä](https://open.spotify.com/album/2D3eZu6obirchhjctY1Oq3) | 2:08 | 2023-11-30 | 2024-03-08 |
 | [jos sä tahdot niin \(feat\. koira\)](https://open.spotify.com/track/3uhmFaAajDvhc3Q39ARBxi) | [whereismike](https://open.spotify.com/artist/6EbpHfQA5YHcyDKT0Ghaim), [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo) | [jos sä tahdot niin \(feat\. koira\)](https://open.spotify.com/album/1Ybv3x8FwQYHaUeZM44c12) | 2:55 | 2023-11-30 | 2024-01-26 |
-| [Juhlittavaa \(feat\. Lyttä\)](https://open.spotify.com/track/025yrw6g4e5OM4R9TpJqhQ) | [Rosvo](https://open.spotify.com/artist/17E9HKanfFAw5InWXjf5R1), [Lyttä](https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn) | [Juhlittavaa \(feat\. Lyttä\)](https://open.spotify.com/album/27f3BuFXVj423LXp423lTd) | 2:46 | 2024-10-17 |  |
+| [Juhlittavaa \(feat\. Lyttä\)](https://open.spotify.com/track/025yrw6g4e5OM4R9TpJqhQ) | [Rosvo](https://open.spotify.com/artist/17E9HKanfFAw5InWXjf5R1), [Lyttä](https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn) | [Juhlittavaa \(feat\. Lyttä\)](https://open.spotify.com/album/27f3BuFXVj423LXp423lTd) | 2:46 | 2024-10-17 | 2025-04-06 |
 | [Jumala on muija](https://open.spotify.com/track/73oMNbt5BkihL2uAs0qpWA) | [BÄMÄ](https://open.spotify.com/artist/1nDMB5M5uBTt0SQWFgZtc1), [Marja\-Sisko Aalto](https://open.spotify.com/artist/5mgV0qvKeC2iSdHMQhjMtL) | [Jumala on muija](https://open.spotify.com/album/44LdOELOcVN9OcDoEo2EeC) | 2:37 | 2024-03-21 | 2024-05-03 |
 | [Junaraiteilla](https://open.spotify.com/track/4bWl21qS8JMFA4bi4y1idZ) | [Olli Antonio](https://open.spotify.com/artist/5UzvBU2UU03rt1kSLGGZa9) | [Junaraiteilla](https://open.spotify.com/album/2FyOmPXPusPnOX4N9vn4mg) | 2:42 | 2023-12-14 | 2024-01-05 |
 | [Juostaan \(feat\. Sexmane\)](https://open.spotify.com/track/5Yn8jOYR59KhHQdhwiQdXO) | [Sara Siipola](https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Juostaan \(feat\. Sexmane\)](https://open.spotify.com/album/7iRrwEdTiGkPZN8foy5XQ7) | 3:21 | 2024-05-16 | 2024-09-13 |
@@ -318,6 +318,7 @@
 | [KLIK KLAK BOOM](https://open.spotify.com/track/0qYkrqSegnHtw2WxaYU4ts) | [Mäkki](https://open.spotify.com/artist/2510ceejHZpIpxbGpiovch) | [KLIK KLAK BOOM](https://open.spotify.com/album/7fMOkrkXs2EJ1fT2gYfDGE) | 2:06 | 2024-04-25 | 2024-05-10 |
 | [Kohottaa](https://open.spotify.com/track/67lRPImCch3SwKz2gk3aaa) | [Chebaleba](https://open.spotify.com/artist/7FXHLGDZv4fx2vg3LHLoGJ), [Jivefunk](https://open.spotify.com/artist/5z8wjGd1fnvewcoj9XFCox) | [Kohottaa](https://open.spotify.com/album/1ic4TQbQAsIw90qjUcjXKD) | 2:41 | 2024-07-25 | 2024-08-09 |
 | [Koira De Bruyne](https://open.spotify.com/track/0ngzab8Nyz98RBkWIPtFX9) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo) | [Koira De Bruyne](https://open.spotify.com/album/6RCsSeKy0aOYjs4gvd3k1m) | 2:11 | 2024-03-21 | 2024-04-05 |
+| [Koko City \(feat\. TonoSlono & DJ Ibusal\)](https://open.spotify.com/track/5Ai7hFGfIvdNYLbELNJgaL) | [Juno](https://open.spotify.com/artist/5iFuIxdmHNEiGJaR49TLL9), [TonoSlono](https://open.spotify.com/artist/4vmB7mrarI55VXlMRZWMNq), [DJ Ibusal](https://open.spotify.com/artist/5qVgYJUrdxe6jJIBqG6djX) | [Koko City \(feat\. TonoSlono & DJ Ibusal\)](https://open.spotify.com/album/5OHmRYJZPqr6TxGkrxH7hZ) | 3:30 | 2025-04-05 |  |
 | [Koko illan](https://open.spotify.com/track/3mNfGSypq55jVK01NubxWV) | [Are](https://open.spotify.com/artist/16X4XStfwmDUkI98lVGj4Z), [Rekami](https://open.spotify.com/artist/25SDUzCXVuk0Va1iinM5aB), [Joosu J](https://open.spotify.com/artist/2zbQ8DbFuJiXSd8Sjc33qa) | [Koko illan](https://open.spotify.com/album/1of0P2fIlHOYdKAmmhUZmr) | 3:51 | 2024-04-11 | 2024-04-26 |
 | [Koko Ilta](https://open.spotify.com/track/1GdTpbJcVCL8ZVYzeV4ca6) | [Yzzy](https://open.spotify.com/artist/6zhABQrEaXCWh7L721KVPd) | [Koko Ilta](https://open.spotify.com/album/6wCYWtrvlaqsDeZ4rrhkXE) | 2:52 | 2024-06-20 | 2024-07-02 |
 | [Koko Matka](https://open.spotify.com/track/1x9zBPRoS4HoUnqsot1GCK) | [LEFT](https://open.spotify.com/artist/7wBs3TAGVfLOV094RVMWiG) | [Koko Matka](https://open.spotify.com/album/0NSZwNM6z7im7xOr4inNwA) | 2:55 | 2024-04-11 | 2024-04-26 |

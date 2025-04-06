@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-316 songs - 12 hr 44 min
+317 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [landscape](https://open.spotify.com/track/3lt1srJ0SvOilCAgcRUlFU) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [landscape](https://open.spotify.com/album/4zaY1wdjvIx5DaZgvg2KOY) | 2:42 | 2023-10-27 |  |
 | [Last Night](https://open.spotify.com/track/078xh9ZaaEt12G04mzyrqp) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [anbuu](https://open.spotify.com/artist/00i4PzAbt6fpwgBqdtSP0q), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [Last Night](https://open.spotify.com/album/2zoRfOYmkIGJmTTv0sbAuJ) | 2:10 | 2020-11-12 | 2024-03-17 |
 | [late night walking](https://open.spotify.com/track/0jaGw9MKg6t9z9wfzWAK0a) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [here for the night](https://open.spotify.com/album/56tYkRHV0lVGnbamKT2LJw) | 1:59 | 2023-10-27 |  |
-| [Level 2](https://open.spotify.com/track/7AchGChq5lR5NkfO4oy9zz) | [Demurely](https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j) | [Level 2](https://open.spotify.com/album/0AGZiTS1jfAVo0kk4UPCPr) | 3:11 | 2024-01-12 |  |
+| [Level 2](https://open.spotify.com/track/7AchGChq5lR5NkfO4oy9zz) | [Demurely](https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j) | [Level 2](https://open.spotify.com/album/0AGZiTS1jfAVo0kk4UPCPr) | 3:11 | 2024-01-12 | 2025-04-06 |
 | [Levitate](https://open.spotify.com/track/7dxp8lVzYsTLmXol1sAOKh) | [Convivial](https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH) | [Levitate](https://open.spotify.com/album/7Ha54KNva8eRTES9LrnudX) | 2:11 | 2023-10-27 |  |
 | [LEVITATE](https://open.spotify.com/track/6Rs5lwpEVM3GN2h6XTItgZ) | [Mel Atonin](https://open.spotify.com/artist/5cuSwXym2KzOlDwHui2v5g) | [LEVITATE](https://open.spotify.com/album/5SSzQLL7JrhpBQ60DDgKZk) | 2:19 | 2024-08-23 |  |
 | [lightweight](https://open.spotify.com/track/3b546lgRsZJ7TFlXdmiQ7u) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [lightweight](https://open.spotify.com/album/2EYX11kUH7SUsVpKWUePDD) | 2:00 | 2023-10-27 |  |
@@ -195,6 +195,7 @@
 | [Nightcrawler](https://open.spotify.com/track/6D3YkHy51Mn7Ijdiz9WaIP) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Nightcrawler](https://open.spotify.com/album/79ogVC2RRrdipDKIXNf8zt) | 3:45 | 2020-11-12 | 2023-02-02 |
 | [NightSky](https://open.spotify.com/track/5fpsn9LdAGXQbZcOwTs0WV) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC) | [NightSky](https://open.spotify.com/album/3i2d5SvAl9KbdvKDcbqwHu) | 3:04 | 2021-10-29 | 2024-06-01 |
 | [No Awake Zone](https://open.spotify.com/track/1CjQkzy5U9tfFioVFXBqvp) | [Pat Laine](https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g) | [No Awake Zone](https://open.spotify.com/album/3Le5RTJqJ8uPcK3XEdOYC3) | 2:18 | 2023-10-27 |  |
+| [No Doubt](https://open.spotify.com/track/4zo86agUhtHHBHD5AVNHFN) | [Lil Leaf](https://open.spotify.com/artist/1GXcMejVQYwn2UstbQ0eHY) | [No Doubt](https://open.spotify.com/album/08iL6VfzbJb1C4YKQBfBfP) | 2:28 | 2025-04-04 |  |
 | [no reply](https://open.spotify.com/track/3Ji8JYWfwb48AxDvlpLmtB) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [no reply](https://open.spotify.com/album/0wBSKUgKu6jsZRE3NPBaPw) | 2:10 | 2023-10-27 |  |
 | [not noise](https://open.spotify.com/track/1gT5Xf60TPfCwxMhTdqrfe) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [not noise](https://open.spotify.com/album/0YKQ9sSjkyHFGgr8Pp1SDt) | 2:28 | 2024-08-23 |  |
 | [NotThatBad](https://open.spotify.com/track/6lqnK8lLs27uXoXHbSSLvg) | [knight knight](https://open.spotify.com/artist/7ykZNsdah5u9qzEJ6cvrgg) | [NotThatBad](https://open.spotify.com/album/2Q5byoAREuhxwwLm5qSia8) | 2:26 | 2024-06-13 | 2024-06-28 |

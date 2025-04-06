@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: CERES, LUNAX
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,216 likes - 82 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,316 likes - 82 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 57 | [No One Like You](https://open.spotify.com/track/4bCJGJvXUWIzwKKO2uFqi6) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif), [Michael Roman](https://open.spotify.com/artist/6ymKRGN5gpJNYqUGkxHyFH) | [No One Like You](https://open.spotify.com/album/12hFpH4y32tZBK4N0VdNML) | 2:11 |
 | 58 | [Dare Me](https://open.spotify.com/track/6oq1HsnvYE6cEb9ZjpbTOZ) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [PET3RPUNX](https://open.spotify.com/artist/1Z0DRUany5l8E7J6XNRlmC), [HYPER BOYZ](https://open.spotify.com/artist/6ZEqI6H3n5xzdKJdJEUw5o) | [Dare Me](https://open.spotify.com/album/4ELGfDMkFAI0rScVci7SH9) | 2:05 |
 | 59 | [Weekend! 2K25](https://open.spotify.com/track/1KK9ZXaCHQlOYxAZMVT9dw) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ) | [Weekend! 2k25](https://open.spotify.com/album/6Rlofny4PPgovzLjKQBdO4) | 2:32 |
-| 60 | [Nothing Without You \- Lt Night Mix](https://open.spotify.com/track/7b4ctXYyK1qNc83eN3xREB) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Mattway](https://open.spotify.com/artist/4bMfmLZkYQgbINq90VPS1X), [ADN](https://open.spotify.com/artist/6UCoB3aG4NkPndznGSiRIc) | [Nothing Without You \(Lt Night Mix\)](https://open.spotify.com/album/3x1Wr4fUJIeX5JflDYDgxU) | 2:58 |
+| 60 | [Nothing Without You \- LT Night Mix](https://open.spotify.com/track/7b4ctXYyK1qNc83eN3xREB) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Mattway](https://open.spotify.com/artist/4bMfmLZkYQgbINq90VPS1X), [ADN Lewis](https://open.spotify.com/artist/31nTqmoul7C40KrSmk6WYl) | [Nothing Without You \(Luca Testa Night Mix\)](https://open.spotify.com/album/3x1Wr4fUJIeX5JflDYDgxU) | 2:58 |
 | 61 | [Lost In The Sun](https://open.spotify.com/track/2tKnIEdSmVJ4dRzU3mKUnT) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a), [Lucky Rose](https://open.spotify.com/artist/5ShkaitLUorYdZgJMqTF5E) | [Lost In The Sun](https://open.spotify.com/album/7G6gn0CNNrwVkTiyMFv53O) | 3:05 |
 | 62 | [Thong Song \(with Sisqo\)](https://open.spotify.com/track/3TPBlHxV9hPKRQIpcqia79) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [ADAME \(US\)](https://open.spotify.com/artist/5ciK0pfast3uHtwtQgk7gW), [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg) | [Thong Song \(with Sisqo\)](https://open.spotify.com/album/7qZbztobMbghX2XWHbmppu) | 3:17 |
 | 63 | [Breaking My Heart](https://open.spotify.com/track/4AjQ297iKw5hd4utL9eEcG) | [Chris El Greco](https://open.spotify.com/artist/3TvatwVBsckmLkhtoaxp3K) | [Breaking My Heart](https://open.spotify.com/album/53zNzqdzSao8y7VGi4mgV9) | 2:07 |

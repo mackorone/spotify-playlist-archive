@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 440 likes - 195 songs - 14 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 441 likes - 195 songs - 14 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 88 | [Porgy and Bess, Symphonic Picture \(Arr\. Robert Russell Bennett\)](https://open.spotify.com/track/6rS85lyKUXcJE5fBMze00w) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Detroit Symphony Orchestra](https://open.spotify.com/artist/1TuMl6QKOFwgQZzzhzuds4), [Antal Doráti](https://open.spotify.com/artist/3kBrUZAp2FVhkN5bcTu0QL) | [Grofé: Grand Canyon Suite/Gershwin: Porgy & Bess](https://open.spotify.com/album/0DVAMwBCbYJbKqq6cB1BSF) | 23:54 |
 | 89 | [Demon Rum](https://open.spotify.com/track/0vSMbse7WYzQQQjiAwdCod) | [Judy Kaye](https://open.spotify.com/artist/4VPf6TBwy3pnMvJaI191zO), [Stanley Wayne Mathis](https://open.spotify.com/artist/7IwQ8Cr68eQr3UxrLzcmlv), [Terry Beaver](https://open.spotify.com/artist/7wFGB7AluYMAptyYcXGvi7), [Vice Squad](https://open.spotify.com/artist/2bnpJ3162H9AjVDukIheOn) | [Nice Work If You Can Get It \(Original Broadway Cast Recording\)](https://open.spotify.com/album/4cFwFSQpmvLr4UwmU3dXbw) | 2:48 |
 | 90 | [Swiss](https://open.spotify.com/track/6LNylt9EzE30piPuCoadmc) | [DJ Fuck](https://open.spotify.com/artist/371mselXgmLAOXZVbcXA06), [MC Totally Rad](https://open.spotify.com/artist/3WCPU7MU4SdAqu7YI8SnFA) | [MC Totally Rad & DJ Fuck Are Fuck'N'Rad](https://open.spotify.com/album/2DdFagXSxZ78DoyIM2BJu6) | 3:48 |
-| 91 | [Will You Remember Me?](https://open.spotify.com/track/08XnODSnsFbMmXZ5NDGddx) | [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9), [Matthew Broderick](https://open.spotify.com/artist/67e4oTnYalF7cutrWJB7dG) | [Nice Work If You Can Get It \(Original Broadway Cast Recording\)](https://open.spotify.com/album/4cFwFSQpmvLr4UwmU3dXbw) | 2:55 |
-| 92 | [King of Swing \- Quickstep / 50 BPM](https://open.spotify.com/track/0MIMPdE7YaanuLldAJmHfq) | [Dancelife](https://open.spotify.com/artist/44Hppr7s8DtpopWygoFRrj) | [Dancelife presents: Bring 14 Smiles to Your Feet](https://open.spotify.com/album/7Fuw2rzz5VV0Qen2QKGYO0) | 2:01 |
+| 91 | [King of Swing \- Quickstep / 50 BPM](https://open.spotify.com/track/0MIMPdE7YaanuLldAJmHfq) | [Dancelife](https://open.spotify.com/artist/44Hppr7s8DtpopWygoFRrj) | [Dancelife presents: Bring 14 Smiles to Your Feet](https://open.spotify.com/album/7Fuw2rzz5VV0Qen2QKGYO0) | 2:01 |
+| 92 | [Will You Remember Me?](https://open.spotify.com/track/08XnODSnsFbMmXZ5NDGddx) | [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9), [Matthew Broderick](https://open.spotify.com/artist/67e4oTnYalF7cutrWJB7dG) | [Nice Work If You Can Get It \(Original Broadway Cast Recording\)](https://open.spotify.com/album/4cFwFSQpmvLr4UwmU3dXbw) | 2:55 |
 | 93 | [Impromptu in Two Keys](https://open.spotify.com/track/1jvsvbfQfCwh6maXlLzsnV) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Public Domain](https://open.spotify.com/artist/4iFb0urZ0WBT8L4oWFeNvq), [Shai Wosner](https://open.spotify.com/artist/6gQUTKFY4X92FtgRfTqL2m) | [Impromptu](https://open.spotify.com/album/2UYasjewDpuyNVxO32ytnD) | 2:27 |
 | 94 | [Porgy and Bess, Act I: Summertime \(Arr\. for Brass Ensemble\)](https://open.spotify.com/track/74ZcW7JtXYb2qkG6o0VMdD) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [German Brass](https://open.spotify.com/artist/23OFuPJgFz1jGnHFW4WBiM) | [Porgy and Bess, Act I: Summertime \(Arr\. for Brass Ensemble\)](https://open.spotify.com/album/7urCvnR8XDmLV3o3wJofYF) | 3:25 |
 | 95 | [Under the Cinnamon Tree \- From "East is West"](https://open.spotify.com/track/3GTU7NfZ7mQt00vJfyhsKv) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Gershwin Rhapsody](https://open.spotify.com/album/4H3sICPKEhVcepYaIdb4LD) | 1:13 |
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 194 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
 | 195 | [Man](https://open.spotify.com/track/3nMDOiuqvSIwCxRrxn7OOG) | [The Moonlight Fairy's Manuru Home run](https://open.spotify.com/artist/53phTNQTwRpSxcK7oBwfY6) | [Love OST](https://open.spotify.com/album/6Uo8YynM7evPWl13t6r3Ud) | 2:19 |
 
-Snapshot ID: `Abt6FAAAAAAAVO+AH3gfXSpB+XbixekM`
+Snapshot ID: `Abt/tQAAAABAUSJgxj/5kOyWflTnDHUY`

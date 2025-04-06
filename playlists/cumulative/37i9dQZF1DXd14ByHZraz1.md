@@ -4,7 +4,7 @@
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Juicce
 
-230 songs - 12 hr 0 min
+231 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Connect](https://open.spotify.com/track/6H1fjrF5zmxUUdLerA7HkF) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Connect](https://open.spotify.com/album/4nLK2scPvvoKozMofiVPxr) | 2:51 | 2024-10-04 |  |
 | [Connected](https://open.spotify.com/track/0vEG1losSiPHkoL6GQrG9x) | [Juicce](https://open.spotify.com/artist/63arbh8ZF2mvGFINe50Byi) | [Connected](https://open.spotify.com/album/27uRexjrQMOashAfxZuCM0) | 2:25 | 2025-01-24 |  |
 | [Contente](https://open.spotify.com/track/7bCtMzxN2weUNWgVRi3wcm) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn), [Gangbang](https://open.spotify.com/artist/4xAlQ5oAnU0WpbN23f9Dkz) | [Contente](https://open.spotify.com/album/363uLSNZ5QMFDmGRKDgfek) | 3:03 | 2023-01-20 | 2023-03-25 |
-| [Cuerpo Pegado](https://open.spotify.com/track/5Aquk2RpKdwaMK7s6yFGLA) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Cuerpo Pegado EP](https://open.spotify.com/album/4eJUoi8EvwvCLtXSLmRHvq) | 4:07 | 2024-06-07 |  |
+| [Cuerpo Pegado](https://open.spotify.com/track/5Aquk2RpKdwaMK7s6yFGLA) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Cuerpo Pegado EP](https://open.spotify.com/album/4eJUoi8EvwvCLtXSLmRHvq) | 4:07 | 2024-06-07 | 2025-04-06 |
 | [Dance](https://open.spotify.com/track/2MsjElxTVXkpt1w5ujRxvC) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Dance](https://open.spotify.com/album/3MTZEOI0xmQtguhQ0y4AiU) | 2:28 | 2023-01-27 | 2023-11-11 |
 | [DANCE](https://open.spotify.com/track/5GCM43WZSWNxVh7JD6XN6b) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [DANCE](https://open.spotify.com/album/4T3lheq92o9cUCB7bnNQ6Q) | 2:28 | 2021-12-24 | 2023-01-30 |
 | [Dance With Me](https://open.spotify.com/track/4yYc5agQLrzA1uJJat8EYe) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [2MUCH FUTURE](https://open.spotify.com/artist/6tnK96h4vIqPwVvyIqwDCw) | [Dance With Me](https://open.spotify.com/album/5vrZAOIpf4l4uYdsX9xAx0) | 3:41 | 2024-10-18 |  |
@@ -117,6 +117,7 @@
 | [In My Mind](https://open.spotify.com/track/4JUjUe1zor1myq8f2eq3Kq) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [In My Mind](https://open.spotify.com/album/0ns8wB6mJDe5AZbYDnlPSG) | 2:55 | 2021-12-24 | 2022-07-29 |
 | [In My Mind](https://open.spotify.com/track/7uoxJCPiqiEa3fvOQQQbyn) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [In My Mind](https://open.spotify.com/album/412mL0hMStgwl1ukZjLxR8) | 2:55 | 2022-07-08 | 2022-11-26 |
 | [In the Night \- Sevek Remix](https://open.spotify.com/track/69B1qgfaaXirGSbdx3otxJ) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [In the Night \(Sevek Remix\)](https://open.spotify.com/album/3A7MxmucODffpO7GgAPqgC) | 3:04 | 2022-05-20 | 2022-10-29 |
+| [Infinity \(Bhaskar Remix\)](https://open.spotify.com/track/4ytfVjVEXfJIe0uZj4WoTF) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [Infinity \(Bhaskar Remix\)](https://open.spotify.com/album/1hQ4ooJU4Qof6MDgExzqbI) | 2:56 | 2025-04-05 |  |
 | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc) | 2:53 | 2021-12-24 | 2022-09-06 |
 | [It's Ours \- Short Mix](https://open.spotify.com/track/26RfGZj3z5Y25w6tQDcAyM) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [It's Ours](https://open.spotify.com/album/11Z7v788eMOAVcWvsKAMG8) | 3:20 | 2022-11-11 | 2023-01-21 |
 | [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 | 2023-08-25 | 2024-08-17 |

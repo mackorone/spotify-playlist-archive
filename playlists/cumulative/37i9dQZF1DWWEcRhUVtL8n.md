@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Malcom Todd
 
-2,085 songs - 4 day 14 hr 24 min
+2,086 songs - 4 day 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1622,7 +1622,7 @@
 | [Shook](https://open.spotify.com/track/2ei1umCvdqtDMG8zfC9GRY) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Shook](https://open.spotify.com/album/0uKOb1sntZv5UcXt9XwwWv) | 2:29 | 2021-06-25 | 2022-04-13 |
 | [Shooting Star](https://open.spotify.com/track/2qYVrnuPTVaZGuTxkzW4ow) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Shooting Star](https://open.spotify.com/album/3vXZeXvMBIgqEQaPeQ57f0) | 2:26 | 2024-04-22 | 2024-05-16 |
 | [Shoplifting From Nike](https://open.spotify.com/track/5EXIUR2WuZPGp5unl9or0V) | [Harmony](https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW) | [Shoplifting From Nike](https://open.spotify.com/album/2qt1TfPRUFkI6qJzsZMOvC) | 2:21 | 2023-07-21 | 2023-07-29 |
-| [shoreline](https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [shoreline](https://open.spotify.com/album/4mY8RZxeT3z2iWbjDSEUH2) | 4:04 | 2025-01-17 |  |
+| [shoreline](https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [shoreline](https://open.spotify.com/album/4mY8RZxeT3z2iWbjDSEUH2) | 4:04 | 2025-01-17 | 2025-04-06 |
 | [Shot Shot Cherry](https://open.spotify.com/track/1gib2zY48RjxVCXcpKuwPW) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Shot Shot Cherry](https://open.spotify.com/album/7cQHL2l6ObMycLqdhifclg) | 2:32 | 2022-10-28 | 2022-12-10 |
 | [Shotput](https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Shotput](https://open.spotify.com/album/4d6gnwGphGyx6ZPZRbs5Ir) | 2:50 | 2024-03-22 | 2024-09-19 |
 | [should i get my ears pierced?](https://open.spotify.com/track/3F86hfA7Afrya4LTKckWKM) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [should i get my ears pierced?](https://open.spotify.com/album/7DNALWifdczn56CQ0IrAa9) | 2:31 | 2021-10-11 | 2021-10-14 |
@@ -1913,6 +1913,7 @@
 | [To the Ground](https://open.spotify.com/track/748KtqPgj2bwznX2GSbWQu) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [To The Ground](https://open.spotify.com/album/1gfpjv2Xu9GjMD7gW19j9r) | 2:58 | 2022-04-15 | 2022-04-24 |
 | [To The Ground](https://open.spotify.com/track/4Mw9ttlAEtIlrrfeRj0m3c) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [To The Ground](https://open.spotify.com/album/0VUPw9fUqV6FvqWX05ATBx) | 2:58 | 2022-04-15 | 2022-07-29 |
 | [Toast with the Butter](https://open.spotify.com/track/34hdwAVK7oA3OswpGv5gVX) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [How Did We Get Here?](https://open.spotify.com/album/05SVSMRmcL2ESnkwQFlgyt) | 3:26 | 2021-03-06 | 2021-10-19 |
+| [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:56 | 2025-04-04 |  |
 | [TONIGHT](https://open.spotify.com/track/2lPmo9YAf3am3Y8IkN4QLJ) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [TONIGHT](https://open.spotify.com/album/5E8bNRJ8zfuiCLn5pKqwAX) | 2:34 | 2022-06-17 | 2022-07-26 |
 | [Too Fast](https://open.spotify.com/track/5MJ47IaaEMMKsgUqYEaCCv) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38) | [Too Fast](https://open.spotify.com/album/7xeKLRPVHhBn5WoJAAK8a8) | 2:33 | 2020-10-13\* | 2021-06-02 |
 | [Too Late](https://open.spotify.com/track/4YHuPWY3yxGo5eftu1Ixm8) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Too Late](https://open.spotify.com/album/4VhSINv5l9dJN1t781T6sX) | 4:12 | 2021-02-23 | 2021-05-28 |

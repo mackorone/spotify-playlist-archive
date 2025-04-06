@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 277 songs - 15 hr 45 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 278 songs - 15 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -285,5 +285,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 275 | [Reflections on Existence](https://open.spotify.com/track/0WxOZ8ArjHaB5unslWtdfN) | [HoshiTakuto](https://open.spotify.com/artist/6ysfmdaAdc2ob5A4o5L2Gh) | [Reflections on Existence](https://open.spotify.com/album/1CQ6V1nHg0JTQv5AwDzIHn) | 3:36 |
 | 276 | [失楽園ダイブ](https://open.spotify.com/track/7910oN5hlBbGcphkOvfvvh) | [REISAI](https://open.spotify.com/artist/43y4C3MKdOnurkfODdJE2P) | [失楽園ダイブ](https://open.spotify.com/album/6jtMVhjo3bDtacfNHGJrGn) | 3:05 |
 | 277 | [HAREBARE](https://open.spotify.com/track/6qRXiDBpqYSNziFaHLl8tV) | [CULUA](https://open.spotify.com/artist/3sQqFA3jHUjGGUoUvwX7B2) | [HAREBARE](https://open.spotify.com/album/65MUZrDqQenpzqBgcaJPNk) | 3:08 |
+| 278 | [シグナル](https://open.spotify.com/track/2vxAPTwp7mIMctVCeqsYMN) | [雨宿り](https://open.spotify.com/artist/59BLjrTwyCqE9R4W1BovYK) | [傘をなくして](https://open.spotify.com/album/5UnX9tVyGbUI7yOgJ5qWBq) | 2:34 |
 
-Snapshot ID: `AAAI9WLCTJnzrwrRzkC7K5DFA8mhCnYF`
+Snapshot ID: `AAAI9hzlWcZQrhU2gJTMQsWFfBq2xGu8`

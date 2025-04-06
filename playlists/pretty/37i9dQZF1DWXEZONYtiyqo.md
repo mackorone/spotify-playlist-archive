@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: MIRA
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,694 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,708 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 7 | [Ancora](https://open.spotify.com/track/1f10V97lhKIRK5rW2aS6iH) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Ancora](https://open.spotify.com/album/0jqONN6IGgRduCbg0Oyuan) | 3:25 |
 | 8 | [Cine, cine](https://open.spotify.com/track/6paw0zreuIzEn8CmhPGwct) | [Andrei Banuta](https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2), [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [Cine, cine](https://open.spotify.com/album/5xTwLaYlDYZFxqWTFeOLV9) | 2:53 |
 | 9 | [Fostu'](https://open.spotify.com/track/2JbeodXdyFyGFcPFY4jSEi) | [Feli](https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX), [Grasu XXL](https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG) | [Fostu'](https://open.spotify.com/album/41iBFhMZNyrgjQWxsVIajf) | 2:55 |
-| 10 | [ALL'ITALIANA](https://open.spotify.com/track/4yIiooWtS931UX9peRWdS0) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [ALL'ITALIANA](https://open.spotify.com/album/1aLBKBN0Lfro6lZ601xQIk) | 2:27 |
+| 10 | [All’Italiana](https://open.spotify.com/track/4yIiooWtS931UX9peRWdS0) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [All’Italiana](https://open.spotify.com/album/1aLBKBN0Lfro6lZ601xQIk) | 2:27 |
 | 11 | [Mă întorc la tine](https://open.spotify.com/track/09L3GDFTV9vjImtRwMwoix) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn) | [Mă întorc la tine](https://open.spotify.com/album/2er7Px1OKn273DhwVTcygH) | 2:36 |
 | 12 | [Maria, Maria](https://open.spotify.com/track/4ut3pv8Po5KNXRrfKQ39IX) | [Lidia Buble](https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH) | [Maria, Maria](https://open.spotify.com/album/2WXwrDnPKMh6DbB1ICbCGE) | 2:40 |
 | 13 | [Bus Station](https://open.spotify.com/track/4SVO6an1H4SfvoHJxf37dl) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Mixed Feelings \(opening season\)](https://open.spotify.com/album/2F9o96gJGhX2z1ggQNOG0p) | 2:25 |

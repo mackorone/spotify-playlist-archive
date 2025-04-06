@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-703 songs - 1 day 10 hr 20 min
+704 songs - 1 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Dawel](https://open.spotify.com/track/6imPjyaeTkegHqHQCY7pOr) | [Charles Sardo](https://open.spotify.com/artist/7t9MmdQBNxgFACHuBih61V) | [Dawel](https://open.spotify.com/album/2Xkc6rAzSAI1hTfwQb5HHu) | 2:45 | 2024-05-04 | 2025-01-24 |
 | [Deep breaths](https://open.spotify.com/track/1XhhBtMKmNGM4yfgMZQVxf) | [Jirou Soller](https://open.spotify.com/artist/0gTSb6SH0iohVVodJGSUlH) | [Deep breaths](https://open.spotify.com/album/3JEiMxMBlySWYU9dpuSMoA) | 2:11 | 2023-03-23 | 2024-02-09 |
 | [Deep Down The Cave](https://open.spotify.com/track/4IBQllOXx6Ct9Bidmj3yyF) | [Xavier Ortando](https://open.spotify.com/artist/5DUWKbIv5XlkqcmXNqZYme) | [Deep Down The Cave](https://open.spotify.com/album/31o5l9eR13wwNBTJzCJ1Jt) | 3:14 | 2023-03-23 | 2024-04-06 |
-| [Deep Under](https://open.spotify.com/track/4nEprHHwdUBLPprFIZD18B) | [Starstrum](https://open.spotify.com/artist/1UeSZoTyfTgvI34TuJIjJ3) | [Deep Under](https://open.spotify.com/album/1aKq8VxKXbd53QhabHk8r0) | 2:29 | 2024-10-14 |  |
+| [Deep Under](https://open.spotify.com/track/4nEprHHwdUBLPprFIZD18B) | [Starstrum](https://open.spotify.com/artist/1UeSZoTyfTgvI34TuJIjJ3) | [Deep Under](https://open.spotify.com/album/1aKq8VxKXbd53QhabHk8r0) | 2:29 | 2024-10-14 | 2025-04-06 |
 | [Deep Waters](https://open.spotify.com/track/2I4CdMdb7m5VSFjVtYBPLP) | [Mind Explorer](https://open.spotify.com/artist/22v0hyVYFwW9gLflr83IF8) | [Deep Waters](https://open.spotify.com/album/18MTNwzRQUk1HHTHI3k5Bf) | 2:42 | 2023-03-23 | 2024-03-21 |
 | [Definite](https://open.spotify.com/track/5yCIRoiQ4DatjmySLxm20e) | [Arietis](https://open.spotify.com/artist/03NS5oA1PstBjCg4kwn6lH) | [Definite](https://open.spotify.com/album/4lkKRBJ6o0mrMgh1Wcn2AV) | 2:45 | 2024-06-18 | 2025-01-03 |
 | [delta state](https://open.spotify.com/track/6D2fyFDu59UbQJO2rgcO9N) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [binaural beat delta states](https://open.spotify.com/album/3mErlO0lfjqgwGenHL5tdF) | 3:01 | 2023-03-23 | 2024-02-09 |
@@ -440,6 +440,7 @@
 | [Northern Sirenes](https://open.spotify.com/track/6wELTXkMA16b4sOgFl7011) | [Malie Aolani](https://open.spotify.com/artist/0MHLh3lEKY42exyifjlDbf) | [Northern Sirenes](https://open.spotify.com/album/02yNGBTR9KMkk6iBlbsuxZ) | 2:09 | 2023-03-23 | 2024-05-05 |
 | [Northern Vision](https://open.spotify.com/track/5YOZJuXBLkMiOakT0xi0CA) | [Elie Elie](https://open.spotify.com/artist/4n4uZ65TRiHl7622KzgTIE) | [Northern Vision](https://open.spotify.com/album/7i5sFYMam5oo9R8yxaFG25) | 3:18 | 2024-05-20 | 2024-09-14 |
 | [Nostalgia](https://open.spotify.com/track/3SPPdz0CTI2RSZ8HROkHy8) | [Will Carano](https://open.spotify.com/artist/6J60g4WW0jL1uCe6cwyAZd) | [Nostalgia](https://open.spotify.com/album/4ctuDxjwJGSMsgJG8EOeQV) | 2:41 | 2023-03-23 | 2024-02-09 |
+| [Nostalgic](https://open.spotify.com/track/4vOnlLWIGRfxBDEWr4vICC) | [Magnolia Dreams](https://open.spotify.com/artist/2uLfUntzbfHRmPO51ofZtt) | [Nostalgic](https://open.spotify.com/album/5TaRLHhBUoSw8CbrgI9X5a) | 2:59 | 2025-03-27 |  |
 | [Novastar](https://open.spotify.com/track/14pCak2cBXOqZHQ2MQIUoW) | [Galaxarastra](https://open.spotify.com/artist/4dLb1ptXOGo5ibde68Jy2b) | [Novastar](https://open.spotify.com/album/1xP3LaVgXtIoMgdlQIli0r) | 2:57 | 2024-03-06 | 2025-01-09 |
 | [Novation](https://open.spotify.com/track/04UlDODpopyY0bZ6rhJtXB) | [Abi Burkholder](https://open.spotify.com/artist/1sVWQGvblGt6xTMFwIT6Ta) | [Novation](https://open.spotify.com/album/0CCRyVo2yblONJcn10hTRV) | 2:57 | 2024-05-04 | 2025-01-23 |
 | [Nox](https://open.spotify.com/track/2l5RGPbH2eq93zMytmGZ4n) | [Esotherum](https://open.spotify.com/artist/2UMsy6qAcmjU3yYbTSJuwb) | [Nox](https://open.spotify.com/album/133wimkpma9DpRyIEgS5dV) | 2:46 | 2025-02-04 |  |

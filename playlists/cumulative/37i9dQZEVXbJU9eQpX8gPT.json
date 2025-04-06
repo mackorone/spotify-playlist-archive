@@ -5396,7 +5396,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-05",
+      "date_removed": null,
       "duration_ms": 193657,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/1ThaPy4W188i5SFdjXl64J"
@@ -11558,7 +11558,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 128000,
       "name": "Go",
       "url": "https://open.spotify.com/track/2g2x70gCZb31tUFcACNeL5"
@@ -17202,6 +17202,24 @@
       "duration_ms": 246133,
       "name": "Locked Up (feat. Zamdane)",
       "url": "https://open.spotify.com/track/1tofq4B2lvmSXVJliNzDnK"
+    },
+    {
+      "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2XCAFhzTvaqKFJogtaJnz1"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2025-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210762,
+      "name": "Loose",
+      "url": "https://open.spotify.com/track/3YNjvUXgfQznx5IZHAXk6i"
     },
     {
       "album": {
@@ -25047,6 +25065,32 @@
     },
     {
       "album": {
+        "name": "Rassi (feat. ElGrandeToto)",
+        "url": "https://open.spotify.com/album/58SNMyClBKyTzSRQLaGHzv"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Chahid",
+          "url": "https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb"
+        }
+      ],
+      "date_added": "2025-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180744,
+      "name": "Rassi (feat. ElGrandeToto)",
+      "url": "https://open.spotify.com/track/4MqDpQPykbFcJeF8xruknN"
+    },
+    {
+      "album": {
         "name": "SUE\u00d1O MAGNIFICO",
         "url": "https://open.spotify.com/album/1LCrYZK1gnCydeiRLOsqU7"
       },
@@ -26248,7 +26292,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 204350,
       "name": "San Siro",
       "url": "https://open.spotify.com/track/20CeXYgWoJdheBiI89QgcK"
@@ -32094,7 +32138,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"

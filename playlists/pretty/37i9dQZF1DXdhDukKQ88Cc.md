@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 <a href="spotify:artist:4ZwOlDVAGXQo66ykbLQ8dP">Lamin</a> 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,103 likes - 61 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,131 likes - 61 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

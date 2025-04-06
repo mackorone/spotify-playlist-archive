@@ -4,7 +4,7 @@
 
 > Klassik &amp; Instrumental Soundtrack Konzentration, Entspannen
 
-147 songs - 7 hr 58 min
+148 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Arrival \(From "Lion" Soundtrack\)](https://open.spotify.com/track/0UKPx1cawzkUsMhX1lvpYt) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Lion \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6UtJtWa2IqLnRYHRPIhaNC) | 4:26 | 2022-12-01 |  |
 | [Ave Maria, CG 89a](https://open.spotify.com/track/6WZfWTrVPlMxECk2GYZEm7) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50), [Julian Riem](https://open.spotify.com/artist/7xblEPvRNj5mqQ1vzV0g2D) | [Ave Maria, CG 89a](https://open.spotify.com/album/4l3rl0NWMomjn1QrQeCtw3) | 2:43 | 2019-12-21 |  |
 | [Avril 14th](https://open.spotify.com/track/6LiHbWmbsI0QIA3nhc5Phr) | [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp) | [Avril 14th](https://open.spotify.com/album/1oCLhF1msyosStJwWuc7kX) | 1:42 | 2019-07-05 |  |
+| [Bach Brandenburg Concerto Revisited \(From BWV 1046: I\. Allegro, Arr\. for Violin, String Quintet & Piano by Jarkko Riihimäki\)](https://open.spotify.com/track/0qZZUF1YbuBpB4zBl6NiBU) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Eldbjørg Hemsing](https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F), [Norwegian String Quintet](https://open.spotify.com/artist/2e7YyU25R6B4frcn8lHz4B), [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY) | [Bach Brandenburg Concerto Revisited \(From BWV 1046: I\. Allegro, Arr\. for Violin, String Quintet & Piano by Jarkko Riihimäki\)](https://open.spotify.com/album/04kAsrKaEyFwJzIEH0hqiZ) | 2:13 | 2025-04-05 |  |
 | [Bach: Prelude Piano Variation \(After Cello Suite No\. 1, BWV 1007, Arr\. for Piano by Tim Allhoff\)](https://open.spotify.com/track/6NShOKK9OiFQoM3vwAnDvu) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Bach: Prelude Piano Variation \(From Cello Suite No\. 1, BWV 1007, Arr\. for Piano by Tim Allhoff\)](https://open.spotify.com/album/1H98oHKyP6vU6CLkfjSACM) | 1:58 | 2023-08-29 |  |
 | [Beautiful Blossoms](https://open.spotify.com/track/44LzfRe95WyZGf2U5LJT4F) | [Lauri Porra](https://open.spotify.com/artist/6PcS0mIfMV5JOY3NX2bkTn), [Mumintrollen](https://open.spotify.com/artist/6SXUdE8lwqmLKPQgyGrpUP) | [Beautiful Blossoms](https://open.spotify.com/album/6MaxQWVji2jW4GlyyErVhl) | 2:33 | 2025-02-01 |  |
 | [Belle de Nuit](https://open.spotify.com/track/1kz9kj5yn4fIfzAjtxDhp3) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Belle de Nuit](https://open.spotify.com/album/6uvEZdsKn7Rqa7W24y5O5X) | 5:12 | 2023-03-17 | 2025-02-06 |

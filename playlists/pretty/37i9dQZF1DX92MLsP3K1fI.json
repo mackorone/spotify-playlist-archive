@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Morat & Camilo en portada.",
-  "num_followers": 90445,
+  "num_followers": 90468,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,42 @@
     {
       "added_at": "2025-04-04 06:00:23",
       "album": {
+        "name": "Un Beso Menos",
+        "url": "https://open.spotify.com/album/6zubHY30q9LfWVJYX7KPQR"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 220702,
+      "name": "Un Beso Menos",
+      "url": "https://open.spotify.com/track/107UcGiqICT0mWhzvDCZMK"
+    },
+    {
+      "added_at": "2025-04-04 06:00:23",
+      "album": {
+        "name": "Busc\u00e1ndote A Ti",
+        "url": "https://open.spotify.com/album/6h6korJPEHmHNq1tNCcJ45"
+      },
+      "artists": [
+        {
+          "name": "Pambo",
+          "url": "https://open.spotify.com/artist/6ck4dwtkuGXEJEfWekkx8P"
+        }
+      ],
+      "duration_ms": 142822,
+      "name": "Busc\u00e1ndote A Ti",
+      "url": "https://open.spotify.com/track/0RJ9McwfcSScP4uurdSRtO"
+    },
+    {
+      "added_at": "2025-04-04 06:00:23",
+      "album": {
         "name": "Coraz\u00f3n Puro",
         "url": "https://open.spotify.com/album/5VxwWfcKYIpcp4OCjjaIQp"
       },
@@ -271,54 +307,22 @@
     {
       "added_at": "2025-04-04 06:00:23",
       "album": {
-        "name": "Busc\u00e1ndote A Ti",
-        "url": "https://open.spotify.com/album/6h6korJPEHmHNq1tNCcJ45"
+        "name": "Lejos de la Ciudad (con Camilo)",
+        "url": "https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu"
       },
       "artists": [
         {
-          "name": "Pambo",
-          "url": "https://open.spotify.com/artist/6ck4dwtkuGXEJEfWekkx8P"
-        }
-      ],
-      "duration_ms": 142822,
-      "name": "Busc\u00e1ndote A Ti",
-      "url": "https://open.spotify.com/track/0RJ9McwfcSScP4uurdSRtO"
-    },
-    {
-      "added_at": "2025-04-04 06:00:23",
-      "album": {
-        "name": "Un Beso Menos",
-        "url": "https://open.spotify.com/album/6zubHY30q9LfWVJYX7KPQR"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         },
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 220702,
-      "name": "Un Beso Menos",
-      "url": "https://open.spotify.com/track/107UcGiqICT0mWhzvDCZMK"
-    },
-    {
-      "added_at": "2025-04-04 06:00:23",
-      "album": {
-        "name": "SEGUNDO INTENTO",
-        "url": "https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 191368,
-      "name": "SEGUNDO INTENTO",
-      "url": "https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ"
+      "duration_ms": 187358,
+      "name": "Lejos de la Ciudad - con Camilo",
+      "url": "https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9"
     },
     {
       "added_at": "2025-04-04 06:00:23",
@@ -339,22 +343,18 @@
     {
       "added_at": "2025-04-04 06:00:23",
       "album": {
-        "name": "Lejos de la Ciudad (con Camilo)",
-        "url": "https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu"
+        "name": "SEGUNDO INTENTO",
+        "url": "https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux"
       },
       "artists": [
         {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 187358,
-      "name": "Lejos de la Ciudad - con Camilo",
-      "url": "https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9"
+      "duration_ms": 191368,
+      "name": "SEGUNDO INTENTO",
+      "url": "https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ"
     },
     {
       "added_at": "2025-04-04 06:00:23",
@@ -823,26 +823,6 @@
     {
       "added_at": "2025-04-04 06:00:23",
       "album": {
-        "name": "N.I.T.",
-        "url": "https://open.spotify.com/album/2LrRxe5gOKn43mAUWqcAnr"
-      },
-      "artists": [
-        {
-          "name": "Mikel Izal",
-          "url": "https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 209220,
-      "name": "N.I.T.",
-      "url": "https://open.spotify.com/track/6YkjeXjD4WHs2tVsoiDSwM"
-    },
-    {
-      "added_at": "2025-04-04 06:00:23",
-      "album": {
         "name": "Noche de Luna",
         "url": "https://open.spotify.com/album/40CKCca9JcuNQmItQ5nh2R"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 184763,
       "name": "Noche de Luna",
       "url": "https://open.spotify.com/track/4JKmOu2ChCgrmP7aGQS48i"
+    },
+    {
+      "added_at": "2025-04-04 06:00:23",
+      "album": {
+        "name": "N.I.T.",
+        "url": "https://open.spotify.com/album/2LrRxe5gOKn43mAUWqcAnr"
+      },
+      "artists": [
+        {
+          "name": "Mikel Izal",
+          "url": "https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 209220,
+      "name": "N.I.T.",
+      "url": "https://open.spotify.com/track/6YkjeXjD4WHs2tVsoiDSwM"
     },
     {
       "added_at": "2025-04-04 06:00:23",

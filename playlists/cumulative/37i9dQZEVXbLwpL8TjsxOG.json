@@ -3394,7 +3394,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 190806,
       "name": "earthquake",
       "url": "https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx"
@@ -3412,7 +3412,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-03",
+      "date_removed": null,
       "duration_ms": 190806,
       "name": "earthquake",
       "url": "https://open.spotify.com/track/1Ah8dQEPYpmtl7FRvXJOOU"
@@ -12794,7 +12794,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 153664,
       "name": "TOO BAD",
       "url": "https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm"
@@ -12986,10 +12986,28 @@
       ],
       "date_added": "2025-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 198320,
       "name": "twilight zone",
       "url": "https://open.spotify.com/track/1YRbAonLvmuUILvQso0gUM"
+    },
+    {
+      "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead (a cappella version)",
+        "url": "https://open.spotify.com/album/2xqTa2dCR54yYHEcttiXyD"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2025-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198320,
+      "name": "twilight zone",
+      "url": "https://open.spotify.com/track/1edcyazKIdKrIuz9cWpXU6"
     },
     {
       "album": {
@@ -13590,7 +13608,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
@@ -13608,7 +13626,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-03",
+      "date_removed": null,
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/6uPnrBgweGOcwjFL4ItAvV"
@@ -16325,6 +16343,24 @@
     },
     {
       "album": {
+        "name": "\u5929\u5929\u90fd\u662f\u611a\u4eba\u7bc0",
+        "url": "https://open.spotify.com/album/1Kx6FP5Imt9u8AlReBIaPq"
+      },
+      "artists": [
+        {
+          "name": "Edan \u5442\u7235\u5b89",
+          "url": "https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo"
+        }
+      ],
+      "date_added": "2025-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293941,
+      "name": "\u5929\u5929\u90fd\u662f\u611a\u4eba\u7bc0",
+      "url": "https://open.spotify.com/track/5HqkQEUOOXoMmmbcndy5IU"
+    },
+    {
+      "album": {
         "name": "\u592a\u5e73\u9053",
         "url": "https://open.spotify.com/album/5sWnVGDboOP0pCWDZdzVSn"
       },
@@ -16542,7 +16578,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-06",
       "duration_ms": 257557,
       "name": "\u5c0f\u5fc3\u78b0\u982d",
       "url": "https://open.spotify.com/track/4UVccKUI1aiZ17lecEfbNu"
@@ -19714,7 +19750,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-03",
+      "date_removed": null,
       "duration_ms": 222668,
       "name": "\u7dca\u6025\u806f\u7d61\u4eba",
       "url": "https://open.spotify.com/track/1sb71AvysPMJlsx4qYtTpG"

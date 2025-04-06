@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Rigo Kamp
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,429 likes - 85 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,455 likes - 85 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 2 | [drama](https://open.spotify.com/track/4TcqRshB65xpl9Ip9cTzsb) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [By Any Minz](https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP) | 3:13 |
 | 3 | [Painless Melody](https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Painless Melody](https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2) | 3:05 |
 | 4 | [Passport](https://open.spotify.com/track/65Dr9kKMScOqdjGGjU01ui) | [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [Passport](https://open.spotify.com/album/7wG3slay5oeAb5hBTW1Itd) | 3:05 |
-| 5 | [Reflection Station](https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Reflection Station](https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk) | 2:46 |
+| 5 | [Reflection Station](https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Reflection Station](https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk) | 2:45 |
 | 6 | [Keep On Loving Me \(Biko Biko\)](https://open.spotify.com/track/6P6NBxeNQTQIu1ZGpoTwks) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Keep On Loving Me \(Biko Biko\)](https://open.spotify.com/album/2uRLG0A0JXYaXfe0zLCbrR) | 2:14 |
 | 7 | [FEELINGS](https://open.spotify.com/track/1ksmsfxb4XCOKD0JdYaznz) | [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Nobody Badder](https://open.spotify.com/album/1noSivqDiu16wO4i99I9u0) | 2:40 |
 | 8 | [London Girl](https://open.spotify.com/track/16gePMnstRp7cVNeHTT7cP) | [M3lon](https://open.spotify.com/artist/1VLCUqqGqOM1tL59axRUNf), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [London Girl](https://open.spotify.com/album/2uyF33o6b18qEYofn0wUju) | 2:14 |

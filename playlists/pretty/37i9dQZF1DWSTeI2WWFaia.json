@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Saba",
-  "num_followers": 1592107,
+  "num_followers": 1592110,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2025-04-04 04:00:28",
       "album": {
-        "name": "Balloonerism",
-        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 204564,
-      "name": "Do You Have A Destination?",
-      "url": "https://open.spotify.com/track/1KwIDHEK3CYbHPJUTMxxNu"
-    },
-    {
-      "added_at": "2025-04-04 04:00:28",
-      "album": {
         "name": "Life Is Beautiful",
         "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 186360,
       "name": "Life Is Beautiful",
       "url": "https://open.spotify.com/track/6hh74g3EXXM8dF1Boamcyn"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 204564,
+      "name": "Do You Have A Destination?",
+      "url": "https://open.spotify.com/track/1KwIDHEK3CYbHPJUTMxxNu"
     },
     {
       "added_at": "2025-04-04 04:00:28",
@@ -459,18 +459,26 @@
     {
       "added_at": "2025-04-04 04:00:28",
       "album": {
-        "name": "Balloonerism",
-        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+        "name": "Life Is Beautiful",
+        "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
       },
       "artists": [
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 285805,
-      "name": "Friendly Hallucinations",
-      "url": "https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK"
+      "duration_ms": 222640,
+      "name": "Munyon Canyon",
+      "url": "https://open.spotify.com/track/65F3PDyVWG6sYeiMJJEBly"
     },
     {
       "added_at": "2025-04-04 04:00:28",
@@ -507,26 +515,18 @@
     {
       "added_at": "2025-04-04 04:00:28",
       "album": {
-        "name": "Life Is Beautiful",
-        "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
       },
       "artists": [
         {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 222640,
-      "name": "Munyon Canyon",
-      "url": "https://open.spotify.com/track/65F3PDyVWG6sYeiMJJEBly"
+      "duration_ms": 285805,
+      "name": "Friendly Hallucinations",
+      "url": "https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK"
     },
     {
       "added_at": "2025-04-04 04:00:28",
@@ -555,6 +555,30 @@
       "duration_ms": 147626,
       "name": "30secchop (feat. Joseph Chilliams and Jean Deaux)",
       "url": "https://open.spotify.com/track/7wflBf6P8TFqpPkkxK5UXE"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "Life Is Beautiful",
+        "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "LLC",
+      "url": "https://open.spotify.com/track/4JI768EyJBdmpQdc4oL9uP"
     },
     {
       "added_at": "2025-04-04 04:00:28",
@@ -607,6 +631,22 @@
     {
       "added_at": "2025-04-04 04:00:28",
       "album": {
+        "name": "2014 Forest Hills Drive (10 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 194489,
+      "name": "Judgement Day",
+      "url": "https://open.spotify.com/track/0EfSMdCzfbDsQpq7gnyYi4"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
         "name": "BLAH",
         "url": "https://open.spotify.com/album/7mQxz688kGblo1TPYp40VM"
       },
@@ -627,42 +667,6 @@
       "duration_ms": 147906,
       "name": "BLAH",
       "url": "https://open.spotify.com/track/7zsSnv9ff1GMvf0LxXHpnP"
-    },
-    {
-      "added_at": "2025-04-04 04:00:28",
-      "album": {
-        "name": "2014 Forest Hills Drive (10 Year Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 194489,
-      "name": "Judgement Day",
-      "url": "https://open.spotify.com/track/0EfSMdCzfbDsQpq7gnyYi4"
-    },
-    {
-      "added_at": "2025-04-04 04:00:28",
-      "album": {
-        "name": "Please Don't Cry",
-        "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
-      },
-      "artists": [
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 213566,
-      "name": "3:AM (feat. Erykah Badu)",
-      "url": "https://open.spotify.com/track/44BRidSOFkXcKH3oZzHKdR"
     },
     {
       "added_at": "2025-04-04 04:00:28",
@@ -691,62 +695,22 @@
     {
       "added_at": "2025-04-04 04:00:28",
       "album": {
-        "name": "Life Is Beautiful",
-        "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
+        "name": "Please Don't Cry",
+        "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
       },
       "artists": [
         {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
         },
         {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         }
       ],
-      "duration_ms": 198466,
-      "name": "LLC",
-      "url": "https://open.spotify.com/track/4JI768EyJBdmpQdc4oL9uP"
-    },
-    {
-      "added_at": "2025-04-04 04:00:28",
-      "album": {
-        "name": "shadowbox",
-        "url": "https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ"
-      },
-      "artists": [
-        {
-          "name": "MAVI",
-          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
-        }
-      ],
-      "duration_ms": 128780,
-      "name": "grindstone",
-      "url": "https://open.spotify.com/track/7GS1fVRRvFXlCobWkLhgGu"
-    },
-    {
-      "added_at": "2025-04-04 04:00:28",
-      "album": {
-        "name": "Syrup Sandwiches (feat. Joey Bada$$)",
-        "url": "https://open.spotify.com/album/1w9YQWImmASvP0wGitaF4i"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 173320,
-      "name": "Syrup Sandwiches (feat. Joey Bada$$)",
-      "url": "https://open.spotify.com/track/2BYffiV0F3ZGKVLuQjmjY2"
+      "duration_ms": 213566,
+      "name": "3:AM (feat. Erykah Badu)",
+      "url": "https://open.spotify.com/track/44BRidSOFkXcKH3oZzHKdR"
     },
     {
       "added_at": "2025-04-04 04:00:28",
@@ -775,6 +739,50 @@
     {
       "added_at": "2025-04-04 04:00:28",
       "album": {
+        "name": "Syrup Sandwiches (feat. Joey Bada$$)",
+        "url": "https://open.spotify.com/album/1w9YQWImmASvP0wGitaF4i"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 173320,
+      "name": "Syrup Sandwiches (feat. Joey Bada$$)",
+      "url": "https://open.spotify.com/track/2BYffiV0F3ZGKVLuQjmjY2"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "I Been",
+        "url": "https://open.spotify.com/album/35A7fWLFHyE36KKAOazele"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 154466,
+      "name": "I Been",
+      "url": "https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
         "name": "Samurai",
         "url": "https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e"
       },
@@ -787,6 +795,22 @@
       "duration_ms": 225760,
       "name": "Palaces",
       "url": "https://open.spotify.com/track/4ZMkvjr7y8M9Jv3lN87lff"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "shadowbox",
+        "url": "https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ"
+      },
+      "artists": [
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "duration_ms": 128780,
+      "name": "grindstone",
+      "url": "https://open.spotify.com/track/7GS1fVRRvFXlCobWkLhgGu"
     },
     {
       "added_at": "2025-04-04 04:00:28",
@@ -831,6 +855,30 @@
       "duration_ms": 240000,
       "name": "THE FINAL CALL (feat. Jay Electronica)",
       "url": "https://open.spotify.com/track/7eIAKM9rfW6CWvRehVlpBL"
+    },
+    {
+      "added_at": "2025-04-04 04:00:28",
+      "album": {
+        "name": "Bad Choices",
+        "url": "https://open.spotify.com/album/4X6ifMiovznIkvjZ4Ti98g"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 184600,
+      "name": "Bad Choices",
+      "url": "https://open.spotify.com/track/7bFXjldFpiHnXqM38oSi50"
     },
     {
       "added_at": "2025-04-04 04:00:28",
@@ -899,30 +947,6 @@
     {
       "added_at": "2025-04-04 04:00:28",
       "album": {
-        "name": "I Been",
-        "url": "https://open.spotify.com/album/35A7fWLFHyE36KKAOazele"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 154466,
-      "name": "I Been",
-      "url": "https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys"
-    },
-    {
-      "added_at": "2025-04-04 04:00:28",
-      "album": {
         "name": "Long Live J Dilla (feat. Westside Gunn & Busta Rhymes)",
         "url": "https://open.spotify.com/album/78sjCz3km5DH9G99u8VnOi"
       },
@@ -943,22 +967,6 @@
       "duration_ms": 194040,
       "name": "Long Live J Dilla (feat. Westside Gunn & Busta Rhymes)",
       "url": "https://open.spotify.com/track/6XeOVikH7XkydXrQWVvA6b"
-    },
-    {
-      "added_at": "2025-04-04 04:00:28",
-      "album": {
-        "name": "MARiO COINS",
-        "url": "https://open.spotify.com/album/3Gk2ExRZ3EKhed50aAKV6g"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        }
-      ],
-      "duration_ms": 125851,
-      "name": "MARiO COINS",
-      "url": "https://open.spotify.com/track/2LVbnegSACV8zu8QDslysQ"
     },
     {
       "added_at": "2025-04-04 04:00:28",

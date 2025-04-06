@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 401 likes - 405 songs - 21 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 402 likes - 405 songs - 21 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -306,8 +306,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 296 | [Träume heißen du \- I Concentrate on You \- Remastered](https://open.spotify.com/track/5NWgSeLUcp4jDlj2wWMlDO) | [Hildegard Knef](https://open.spotify.com/artist/66aVJ4ocSmKcdrRUCXR8j0) | [Hildegard Knef singt Cole Porter \(Remastered\)](https://open.spotify.com/album/33AGapq36esdBwQwgbFFoL) | 3:28 |
 | 297 | [Medley \- Fated to be Mated \(Extended Version\) \- All of You](https://open.spotify.com/track/51DVphMXwtZ6LlSQx4Cf4V) | [Fred Astaire \(performer\), Cyd Charisse \(performer\)](https://open.spotify.com/artist/6PKlEl4CrbrOc1Dp3G5rB0) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 6:34 |
 | 298 | [I Loved Him but He Didn't Love Me](https://open.spotify.com/track/070yPZkLaRjTq3cEXcS0wS) | [Tom Andersen](https://open.spotify.com/artist/5d9yqyyepW4VwhVrKN6Jio) | [Chip Deffaa's Gay Love](https://open.spotify.com/album/0JewOhdXw7FGuDoOX0CLt6) | 2:35 |
-| 299 | [Wouldn't It Be Fun](https://open.spotify.com/track/6yPs0weK7zk6lJuWBjbI55) | [Basil Rathbone](https://open.spotify.com/artist/10CL0EkknPWZykQvIMemD6) | [Cole Porter's Aladdin](https://open.spotify.com/album/33nD6TAu9nI4y3bO7HjX6h) | 3:12 |
-| 300 | [Waltz Down the Aisle](https://open.spotify.com/track/5yVd5RaMGMwQhCasnMKxIU) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Xavier Cugat Orchestra](https://open.spotify.com/artist/0GywhPccRQuGztB35ZnE0Z) | [Porter, Cole: Let's Misbehave! \(1927\-1940\)](https://open.spotify.com/album/7DsbZB88NYHjCpOZBvrx4m) | 3:06 |
+| 299 | [Waltz Down the Aisle](https://open.spotify.com/track/5yVd5RaMGMwQhCasnMKxIU) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Xavier Cugat Orchestra](https://open.spotify.com/artist/0GywhPccRQuGztB35ZnE0Z) | [Porter, Cole: Let's Misbehave! \(1927\-1940\)](https://open.spotify.com/album/7DsbZB88NYHjCpOZBvrx4m) | 3:06 |
+| 300 | [Wouldn't It Be Fun](https://open.spotify.com/track/6yPs0weK7zk6lJuWBjbI55) | [Basil Rathbone](https://open.spotify.com/artist/10CL0EkknPWZykQvIMemD6) | [Cole Porter's Aladdin](https://open.spotify.com/album/33nD6TAu9nI4y3bO7HjX6h) | 3:12 |
 | 301 | [I Feel Better Now](https://open.spotify.com/track/1SweO32QbPNADsokVOUOPS) | [Cole Porter \(composer\), The MGM Studio Orchestra](https://open.spotify.com/artist/10DmwGZhrgdeAaxPIx4y2O) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 2:09 |
 | 302 | [Trust Your Destiny To Your Star](https://open.spotify.com/track/33Z39OcUkuuRP37WfJw4uW) | [Dennis King](https://open.spotify.com/artist/5VbWEIYKi6Xx4rWXDWMWZV) | [Cole Porter's Aladdin](https://open.spotify.com/album/33nD6TAu9nI4y3bO7HjX6h) | 3:01 |
 | 303 | [When Me, Mowgli Love](https://open.spotify.com/track/3saqnxVZGcTInOifB5y6FL) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole \- Cole Sings Porter \- Recordings Of Cole Porter Singing Music From Can\-can And Jubilee](https://open.spotify.com/album/32QWIcKipvxNykK5bnwcFs) | 1:48 |
@@ -414,4 +414,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 404 | [To Think That This Could Happen to Me](https://open.spotify.com/track/4NHtcwJ74MtwXcciySVMy5) | [Wilfried Van Den Brande](https://open.spotify.com/artist/0SWts3H6XfovTeyTpePeYE) | [When Love Comes to Call](https://open.spotify.com/album/3UNm9uCpK0Q8bFn5NZ5hRJ) | 4:46 |
 | 405 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `Abt6CgAAAAACY8JhFGDcf3ApCJvepQd2`
+Snapshot ID: `Abt/qgAAAABBXw0rDbs0HUnf7QTP4OI0`

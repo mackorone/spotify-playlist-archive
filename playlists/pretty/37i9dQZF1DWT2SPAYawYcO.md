@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Feat: Marlon Williams, Ed Sheeran, Miley Cyrus, Rudimental & Khalid, The Marias + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,940 likes - 103 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,977 likes - 103 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 68 | [My Expense](https://open.spotify.com/track/6CI6UohMB7T9AbKPltin9i) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [My Expense](https://open.spotify.com/album/4HWNcfegPrg2vmIaxqK3KL) | 3:46 |
 | 69 | [CCF \(I'm Gonna Stay With You\)](https://open.spotify.com/track/4t5by4BVLMjeoNaOhmweOJ) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [CCF \(I'm Gonna Stay With You\)](https://open.spotify.com/album/0wc4SXmvSckUR402cSg9AK) | 8:11 |
 | 70 | [Rainbow Colours](https://open.spotify.com/track/67Hoti7e5064QlpzCS4w29) | [Tim Hart](https://open.spotify.com/artist/1XUmEGWZ7MpBZ5jkb0l4iP) | [The Kingdom by the Sea](https://open.spotify.com/album/4FwnBKPXQxNoXMxpGD3qfD) | 3:23 |
-| 71 | [Reflection Station](https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Reflection Station](https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk) | 2:46 |
+| 71 | [Reflection Station](https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Reflection Station](https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk) | 2:45 |
 | 72 | [Shoreline Twins](https://open.spotify.com/track/1BGcKnc7phXhHy0WXTLtAs) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Back In Bidness](https://open.spotify.com/album/4HSp7P3k3jmgx4jsycE7of) | 3:20 |
 | 73 | [Stay With Me](https://open.spotify.com/track/56Ac1BrsemrOOqqC9Zkysb) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Stay With Me](https://open.spotify.com/album/1Z8nPCiVOjdyOq6mWon9fl) | 3:04 |
 | 74 | [Blessed Generation](https://open.spotify.com/track/28deBkYpmOHthrKBWW01ua) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Kinder](https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm) | [Blessed Generation](https://open.spotify.com/album/6PU4OlrLCZ5vCHNBjxSey9) | 3:00 |

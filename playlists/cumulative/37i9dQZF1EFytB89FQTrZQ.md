@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-522 songs - 1 day 5 hr 51 min
+523 songs - 1 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,7 @@
 | [Mistakes](https://open.spotify.com/track/7sFWHYHbk3S5jKIG3rXjPd) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [EST\. 1989](https://open.spotify.com/album/7uua9VeRYOlEooVGZR53Is) | 3:06 | 2022-09-08 |  |
 | [Money](https://open.spotify.com/track/7MaFzoiWh1RYRY17R8HoTw) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Foreign Ororo \(Special Edition\)](https://open.spotify.com/album/5wfam3DHsK7cduTO0VCHQB) | 3:22 | 2023-09-25 | 2023-12-24 |
 | [Money \(feat\. Kah\-Lo, Mr Eazi & Davido\)](https://open.spotify.com/track/0GaSolMcA26ZUpOqpWeNt9) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Money \(feat\. Kah\-Lo, Mr Eazi & Davido\)](https://open.spotify.com/album/049oFpZ37qrysrGET84wH3) | 3:25 | 2022-09-08 | 2023-09-26 |
-| [Money \- Shrine VIP](https://open.spotify.com/track/2k9TzKgYl4Ty6yqWDvgGms) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Foreign Ororo \(Special Edition\)](https://open.spotify.com/album/5oKOIiqFThV4doCMFA5Y4z) | 3:12 | 2023-12-23 |  |
+| [Money \- Shrine VIP](https://open.spotify.com/track/2k9TzKgYl4Ty6yqWDvgGms) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Foreign Ororo \(Special Edition\)](https://open.spotify.com/album/5oKOIiqFThV4doCMFA5Y4z) | 3:12 | 2023-12-23 | 2025-04-06 |
 | [Monster](https://open.spotify.com/track/0HibscTifrgtT2zgqdKjC2) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Infinite Things](https://open.spotify.com/album/4ynl3QNO1lnfJWqWDJmb1A) | 3:11 | 2022-09-08 |  |
 | [Monster](https://open.spotify.com/track/5HmOCHUZOC6QZpsFBZ5rcC) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Monster \(Official Video\)](https://open.spotify.com/album/5eytXh1dPIlJ0XVzUc0nk5) | 3:17 | 2023-12-15 | 2024-02-02 |
 | [Mood](https://open.spotify.com/track/1CM3iPAkh18R4hFtZic86O) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [Mood](https://open.spotify.com/album/2SuTPaMTSmZzFKk2btXQuA) | 2:37 | 2022-09-08 |  |
@@ -447,6 +447,7 @@
 | [The Giver \(Reprise\)](https://open.spotify.com/track/0ccSl4LZ7dksMNmJgkN7NO) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [The Giver \(Reprise\)](https://open.spotify.com/album/4SQqe6ACemVTNNOcq7Ql4A) | 3:15 | 2025-01-09 |  |
 | [THE LONELIEST](https://open.spotify.com/track/7exHT4swWOKL5addPeqkLP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 4:07 | 2023-06-30 |  |
 | [THE LONELIEST](https://open.spotify.com/track/2EUG6ZVhodmzk9mQq9Axbp) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST \(Official Video\)](https://open.spotify.com/album/5nXyzL5pQXZg2ows2dSKyW) | 4:47 | 2023-12-15 | 2024-01-26 |
+| [The Money](https://open.spotify.com/track/0TlHywt8QI15kDuJd7SRnL) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [The Money](https://open.spotify.com/album/3KXsVMSNzqLBmncmIqE4RY) | 3:41 | 2025-04-05 |  |
 | [The Rhythm](https://open.spotify.com/track/4laPvATil8SrIAlysZazYN) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Small Talk \- EP](https://open.spotify.com/album/6adnqzJgMLO8oJmzP0Kp28) | 4:06 | 2022-09-08 |  |
 | [The Rhythm](https://open.spotify.com/track/0k9KhK3PCrI5c7Q5biOUIs) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [The Rhythm](https://open.spotify.com/album/4sitRmXDuq6H90ghVDOVxw) | 4:15 | 2023-12-14 | 2024-02-01 |
 | [the road](https://open.spotify.com/track/4bXPup4TDlsOf5YJA4xgoC) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [the road](https://open.spotify.com/album/3zOwc9sjMgxZeMV9AaLVKW) | 3:38 | 2022-09-08 | 2025-03-27 |

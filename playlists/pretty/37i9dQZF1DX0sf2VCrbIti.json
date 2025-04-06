@@ -347,22 +347,6 @@
     {
       "added_at": "2024-12-16 20:55:09",
       "album": {
-        "name": "Mujeriego",
-        "url": "https://open.spotify.com/album/43sxUsU622oLloqafw61vN"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Mujeriego",
-      "url": "https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1"
-    },
-    {
-      "added_at": "2024-12-16 20:55:09",
-      "album": {
         "name": "La Leyenda (Version Super Deluxe)",
         "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 187524,
       "name": "Bidi Bidi Bom Bom",
       "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
+    },
+    {
+      "added_at": "2024-12-16 20:55:09",
+      "album": {
+        "name": "Mujeriego",
+        "url": "https://open.spotify.com/album/43sxUsU622oLloqafw61vN"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "Mujeriego",
+      "url": "https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1"
     },
     {
       "added_at": "2024-12-16 20:55:09",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-12-16 20:55:09",
       "album": {
-        "name": "Am\u00e9rica Sin Queja",
-        "url": "https://open.spotify.com/album/5iHMlPownkV9K9VBR2GCoo"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n Orlando",
-          "url": "https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt"
-        }
-      ],
-      "duration_ms": 267706,
-      "name": "Te Compro Tu Novia",
-      "url": "https://open.spotify.com/track/5DrdMZSiRKOVQszXln9VMO"
-    },
-    {
-      "added_at": "2024-12-16 20:55:09",
-      "album": {
         "name": "32 Ca\u00f1onazos",
         "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 312480,
       "name": "En Barranquilla Me Quedo",
       "url": "https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR"
+    },
+    {
+      "added_at": "2024-12-16 20:55:09",
+      "album": {
+        "name": "Am\u00e9rica Sin Queja",
+        "url": "https://open.spotify.com/album/5iHMlPownkV9K9VBR2GCoo"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n Orlando",
+          "url": "https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt"
+        }
+      ],
+      "duration_ms": 267706,
+      "name": "Te Compro Tu Novia",
+      "url": "https://open.spotify.com/track/5DrdMZSiRKOVQszXln9VMO"
     },
     {
       "added_at": "2024-12-16 20:55:09",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-12-16 20:55:09",
       "album": {
+        "name": "El Baile",
+        "url": "https://open.spotify.com/album/3yUu8PQm3x32cqOSjpHGWC"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 275252,
+      "name": "El Mono",
+      "url": "https://open.spotify.com/track/5L8xWjak06ON5UdfSDYLBj"
+    },
+    {
+      "added_at": "2024-12-16 20:55:09",
+      "album": {
         "name": "El Chucu Chucu",
         "url": "https://open.spotify.com/album/1MWi7BMI9eTMb8a7RXNNHu"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 163865,
       "name": "El Chucu Chucu",
       "url": "https://open.spotify.com/track/2t3IaHduf8zVqnfBetiJnU"
-    },
-    {
-      "added_at": "2024-12-16 20:55:09",
-      "album": {
-        "name": "El Baile",
-        "url": "https://open.spotify.com/album/3yUu8PQm3x32cqOSjpHGWC"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 275252,
-      "name": "El Mono",
-      "url": "https://open.spotify.com/track/5L8xWjak06ON5UdfSDYLBj"
     },
     {
       "added_at": "2024-12-16 20:55:09",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-12-16 20:55:09",
       "album": {
-        "name": "Los A\u00f1os Dorados",
-        "url": "https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 259812,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/6THn83A87GCDaDZp9UQsPl"
-    },
-    {
-      "added_at": "2024-12-16 20:55:09",
-      "album": {
         "name": "Los Sabanales 3.0",
         "url": "https://open.spotify.com/album/2blRzFXYdX7EVTReawNzUt"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 188467,
       "name": "Los Sabanales 3.0",
       "url": "https://open.spotify.com/track/4vPOPz82WsE1KHxl1r0HnS"
+    },
+    {
+      "added_at": "2024-12-16 20:55:09",
+      "album": {
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 259812,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/6THn83A87GCDaDZp9UQsPl"
     },
     {
       "added_at": "2024-12-16 20:55:09",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-12-16 20:55:09",
       "album": {
-        "name": "Super \u00c9xitos Maracaibo 15",
-        "url": "https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5"
-      },
-      "artists": [
-        {
-          "name": "Maracaibo 15",
-          "url": "https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Amparito",
-      "url": "https://open.spotify.com/track/7JROzRIIqOlXCLeqKUMhb2"
-    },
-    {
-      "added_at": "2024-12-16 20:55:09",
-      "album": {
         "name": "Amores Perros (Soundtrack)",
         "url": "https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 276040,
       "name": "La Vida Es Un Carnaval",
       "url": "https://open.spotify.com/track/22YrEL6IbDx4axzr8Wpw9M"
+    },
+    {
+      "added_at": "2024-12-16 20:55:09",
+      "album": {
+        "name": "Super \u00c9xitos Maracaibo 15",
+        "url": "https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5"
+      },
+      "artists": [
+        {
+          "name": "Maracaibo 15",
+          "url": "https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Amparito",
+      "url": "https://open.spotify.com/track/7JROzRIIqOlXCLeqKUMhb2"
     },
     {
       "added_at": "2024-12-16 20:55:09",
@@ -995,22 +995,6 @@
       "duration_ms": 171200,
       "name": "El Bote",
       "url": "https://open.spotify.com/track/6wNchNOFCqymfejC9So4d1"
-    },
-    {
-      "added_at": "2024-12-16 20:55:09",
-      "album": {
-        "name": "Serie 2000",
-        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 249813,
-      "name": "Abusadora",
-      "url": "https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al"
     },
     {
       "added_at": "2024-12-16 20:55:09",
@@ -1059,6 +1043,22 @@
       "duration_ms": 184360,
       "name": "El A\u00f1o Viejo",
       "url": "https://open.spotify.com/track/6lXXaW5RkLN5Ids6lYdrA9"
+    },
+    {
+      "added_at": "2024-12-16 20:55:09",
+      "album": {
+        "name": "Serie 2000",
+        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 249813,
+      "name": "Abusadora",
+      "url": "https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al"
     },
     {
       "added_at": "2024-12-16 20:55:09",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-12-16 20:55:09",
       "album": {
-        "name": "Super \u00c9xitos Maracaibo 15",
-        "url": "https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5"
-      },
-      "artists": [
-        {
-          "name": "Maracaibo 15",
-          "url": "https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz"
-        }
-      ],
-      "duration_ms": 194533,
-      "name": "Venga un Abrazo",
-      "url": "https://open.spotify.com/track/2G2ZMxJ7Fqoocm3jQTfm8P"
-    },
-    {
-      "added_at": "2024-12-16 20:55:09",
-      "album": {
         "name": "st. Pedro's Christmas Special",
         "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 198829,
       "name": "Blanca Navidad",
       "url": "https://open.spotify.com/track/5wGw97pjNm9kdtv9DbpvYF"
+    },
+    {
+      "added_at": "2024-12-16 20:55:09",
+      "album": {
+        "name": "Super \u00c9xitos Maracaibo 15",
+        "url": "https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5"
+      },
+      "artists": [
+        {
+          "name": "Maracaibo 15",
+          "url": "https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz"
+        }
+      ],
+      "duration_ms": 194533,
+      "name": "Venga un Abrazo",
+      "url": "https://open.spotify.com/track/2G2ZMxJ7Fqoocm3jQTfm8P"
     },
     {
       "added_at": "2024-12-16 20:55:09",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-12-16 20:55:09",
       "album": {
-        "name": "Las Mejores Gaitas Vol.2",
-        "url": "https://open.spotify.com/album/7eDVGI2esAhKDPeNiOYx3S"
-      },
-      "artists": [
-        {
-          "name": "Maracaibo 15",
-          "url": "https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz"
-        }
-      ],
-      "duration_ms": 196266,
-      "name": "Viejo A\u00f1o",
-      "url": "https://open.spotify.com/track/3RLWyrjTXerpJrIXsuVxLr"
-    },
-    {
-      "added_at": "2024-12-16 20:55:09",
-      "album": {
         "name": "Merengue Navide\u00f1o",
         "url": "https://open.spotify.com/album/723wthgUpMymoNyzovCz5e"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 275018,
       "name": "En Estas Navidades",
       "url": "https://open.spotify.com/track/710cHHvEWf2gBkCzXnjnww"
+    },
+    {
+      "added_at": "2024-12-16 20:55:09",
+      "album": {
+        "name": "Las Mejores Gaitas Vol.2",
+        "url": "https://open.spotify.com/album/7eDVGI2esAhKDPeNiOYx3S"
+      },
+      "artists": [
+        {
+          "name": "Maracaibo 15",
+          "url": "https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz"
+        }
+      ],
+      "duration_ms": 196266,
+      "name": "Viejo A\u00f1o",
+      "url": "https://open.spotify.com/track/3RLWyrjTXerpJrIXsuVxLr"
     }
   ],
   "unique_name": "\u00a1Felices Fiestas!",
