@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3yZJfp37SK7V6yHh3oAGoB?si=\_OxBvkS2QN\-tYpDvQVTwvQ"> EJ Ross</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,600 likes - 300 songs - 15 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,646 likes - 300 songs - 15 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

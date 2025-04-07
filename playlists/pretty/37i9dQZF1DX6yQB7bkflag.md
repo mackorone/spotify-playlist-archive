@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Djo
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,188 likes - 114 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,184 likes - 114 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

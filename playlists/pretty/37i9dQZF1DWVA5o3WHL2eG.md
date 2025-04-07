@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Jamila
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,362 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,415 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 6 | [Lay Low](https://open.spotify.com/track/4Pi2uAbu29ro4kckXpi30u) | [Nola Kin](https://open.spotify.com/artist/4rr8k0k3ZojhAxZuz1fJ9w) | [Lay Low](https://open.spotify.com/album/2Eh78kGNndSogbAf3hWCng) | 3:05 |
 | 7 | [ELLA](https://open.spotify.com/track/07B2CmYPHTjI6Cv5z4dazl) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [ELLA](https://open.spotify.com/album/6i9CQKkqBHumFjUaW5XHF9) | 2:10 |
 | 8 | [Hey Hübscher](https://open.spotify.com/track/5dulYsLWKRiYKUnfNuPckL) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Hey Hübscher](https://open.spotify.com/album/07U2UeVs7ng6xrgqw4adUl) | 2:27 |
-| 9 | [ICH GEH MIT MIR](https://open.spotify.com/track/21dfwDOI57dqW8LLqV5Ypk) | [LORI](https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x) | [ICH GEH MIT MIR](https://open.spotify.com/album/5XVnX6GnATq2EgjfNlVjvb) | 3:07 |
+| 9 | [glücklich ohne dich](https://open.spotify.com/track/64eMg1XPRTKjtoW6ohdN6S) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [glücklich ohne dich](https://open.spotify.com/album/7LvFdCU6m28MfVDgEwy5HQ) | 2:33 |
 | 10 | [Dynamite](https://open.spotify.com/track/2iTeu3RvIw8HvSbi0F2JV4) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Dynamite](https://open.spotify.com/album/7K7sMLtNzHgsA8u4Gzdqb9) | 3:55 |
-| 11 | [glücklich ohne dich](https://open.spotify.com/track/64eMg1XPRTKjtoW6ohdN6S) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [glücklich ohne dich](https://open.spotify.com/album/7LvFdCU6m28MfVDgEwy5HQ) | 2:33 |
-| 12 | [Girl Boss feat\. Alice Go \(Dream Wife\)](https://open.spotify.com/track/1qNusEyJHZzDCDCruOpjvo) | [Blond](https://open.spotify.com/artist/4WnfD0e5J91W7zyHBK6svA), [Alice Go](https://open.spotify.com/artist/2GnhliY6Ffs0GnUiGFWva7) | [Girl Boss feat\. Alice Go \(Dream Wife\)](https://open.spotify.com/album/7DC5LvzxgSgamFjaB7uh9h) | 3:04 |
-| 13 | [rio \(freestyle\)](https://open.spotify.com/track/79vgCEXXq7mAhx3glHEnRF) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [rio \(freestyle\)](https://open.spotify.com/album/20ePOXAZ866l5W4gkaR2Ut) | 1:59 |
+| 11 | [ICH GEH MIT MIR](https://open.spotify.com/track/21dfwDOI57dqW8LLqV5Ypk) | [LORI](https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x) | [ICH GEH MIT MIR](https://open.spotify.com/album/5XVnX6GnATq2EgjfNlVjvb) | 3:07 |
+| 12 | [rio \(freestyle\)](https://open.spotify.com/track/79vgCEXXq7mAhx3glHEnRF) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [rio \(freestyle\)](https://open.spotify.com/album/20ePOXAZ866l5W4gkaR2Ut) | 1:59 |
+| 13 | [Girl Boss feat\. Alice Go \(Dream Wife\)](https://open.spotify.com/track/1qNusEyJHZzDCDCruOpjvo) | [Blond](https://open.spotify.com/artist/4WnfD0e5J91W7zyHBK6svA), [Alice Go](https://open.spotify.com/artist/2GnhliY6Ffs0GnUiGFWva7) | [Girl Boss feat\. Alice Go \(Dream Wife\)](https://open.spotify.com/album/7DC5LvzxgSgamFjaB7uh9h) | 3:04 |
 | 14 | [Brich einer Künstlerin niemals das Herz](https://open.spotify.com/track/75CwO7xQWpHJ3FeGDCBL7u) | [Lara Hulo](https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0) | [Brich einer Künstlerin niemals das Herz](https://open.spotify.com/album/0Nh3wGkxrWplzwjmxUgOxt) | 2:58 |
 | 15 | [ANGRY WOMEN](https://open.spotify.com/track/40HwdYtqpmJ7XIqQDDJ7Q0) | [YAENNIVER](https://open.spotify.com/artist/62yGrNS5EcrAnBVlDtlBEw), [Eunique](https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe) | [ANGRY WOMEN](https://open.spotify.com/album/3hmwxH7Nke7G5rjZA7QFZ3) | 3:31 |
 | 16 | [genz love](https://open.spotify.com/track/7EiKfwc35sEW4jng2BC2Oe) | [Ellice](https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl) | [genz love](https://open.spotify.com/album/03u1mH9QFVYIPOecDys9v2) | 1:53 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 28 | [wir heben ab](https://open.spotify.com/track/0rDPHtQHu7a0s3Z6yyb6vL) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH) | [wir heben ab](https://open.spotify.com/album/11L7TEwaDg7VFA4kr6xCx0) | 2:33 |
 | 29 | [Begging](https://open.spotify.com/track/6OyVm6NMV3aMNGiI1yn2iI) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [Begging](https://open.spotify.com/album/79sVfNpFmrcJyZdOS9jnMC) | 3:02 |
 | 30 | [Silberfische](https://open.spotify.com/track/6GmasoDkBzH9D7GfRzDFSI) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Silberfische](https://open.spotify.com/album/13VhY5ecSvC7kBX86hOjSj) | 2:47 |
-| 31 | [neverland](https://open.spotify.com/track/6WZ0Vp8J4Au2bwepdt7atJ) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [neverland](https://open.spotify.com/album/7tkFtYPY8old1HRyAsQ7zL) | 2:16 |
-| 32 | [So much worse](https://open.spotify.com/track/53xhoI60X5BE0xYOqsGuiR) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [So much worse](https://open.spotify.com/album/73kvrZB4ck7G1Ka7YZcqyB) | 2:24 |
+| 31 | [So much worse](https://open.spotify.com/track/53xhoI60X5BE0xYOqsGuiR) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [So much worse](https://open.spotify.com/album/73kvrZB4ck7G1Ka7YZcqyB) | 2:24 |
+| 32 | [neverland](https://open.spotify.com/track/6WZ0Vp8J4Au2bwepdt7atJ) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [neverland](https://open.spotify.com/album/7tkFtYPY8old1HRyAsQ7zL) | 2:16 |
 | 33 | [Fiction](https://open.spotify.com/track/2mcO2qndSRpwGiWxr9UjIG) | [Muryel](https://open.spotify.com/artist/4Ha661RJU3Gd2Rsd6mVmYn) | [Fiction](https://open.spotify.com/album/7asrT6SKGiRH84z6UvoI9A) | 3:09 |
 | 34 | [Celestial Gate](https://open.spotify.com/track/7IdpL6RHfk2T7JAIlPKcdB) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Celestial Gate](https://open.spotify.com/album/4ZnhP4eksMKjjtSSTyR1mY) | 3:27 |
 | 35 | [Funken](https://open.spotify.com/track/3UK14tJPljA8ZQKICKe7cz) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [Funken](https://open.spotify.com/album/6wugW8D1hFDRDOqxrTud60) | 3:11 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 37 | [echte männer](https://open.spotify.com/track/7GQXbqNI7eNMO92qPs8JyN) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [echte männer](https://open.spotify.com/album/5ZyNpg0rC1qDrne5aw2e2W) | 1:40 |
 | 38 | [Doechii Type Beat \(Lohnen\)](https://open.spotify.com/track/04RBUVzGhX3xO048vRnp2u) | [Kitana](https://open.spotify.com/artist/1FBJzPfimpHWiTrKDoOwDK) | [Doechii Type Beat \(Lohnen\)](https://open.spotify.com/album/2EfLPSErmuAmABkXzEL4gF) | 2:03 |
 | 39 | [ego](https://open.spotify.com/track/3P6OM3banpZj231sFOt9JF) | [EMELIA](https://open.spotify.com/artist/0uYu9QLcueuZeyLsDsXXMn) | [ego](https://open.spotify.com/album/1bda3fchsX1HQXQNTZDrta) | 2:25 |
-| 40 | [A Waste Of Time](https://open.spotify.com/track/3TG8Rl5GmwdmfUUi9dtZ79) | [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f) | [A Waste Of Time](https://open.spotify.com/album/1APjRfyuRNo5XMewpw1ndB) | 3:44 |
-| 41 | [Hot Match](https://open.spotify.com/track/1QBwezIfN3BP7CF1vN7wCk) | [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Hot Match](https://open.spotify.com/album/49X49MHkrFvSnaeRH9Yq5j) | 2:50 |
+| 40 | [Hot Match](https://open.spotify.com/track/1QBwezIfN3BP7CF1vN7wCk) | [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Hot Match](https://open.spotify.com/album/49X49MHkrFvSnaeRH9Yq5j) | 2:50 |
+| 41 | [A Waste Of Time](https://open.spotify.com/track/3TG8Rl5GmwdmfUUi9dtZ79) | [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f) | [A Waste Of Time](https://open.spotify.com/album/1APjRfyuRNo5XMewpw1ndB) | 3:44 |
 | 42 | [Tristessa West\-Berlin](https://open.spotify.com/track/7I6HCuuqHFuJz5F5o6YSVA) | [SERPENTIN](https://open.spotify.com/artist/5OqZTCIS0UcVN7tPiUtGEF) | [Tristessa West\-Berlin](https://open.spotify.com/album/1W4q301wMOLXM7cFHhfgao) | 2:48 |
 | 43 | [Irgendwie Kalt](https://open.spotify.com/track/4xd7CpiEwp5j809LYUBGoB) | [Hanna Noir](https://open.spotify.com/artist/53Z34OeYHMxe1sj3V1zHTU) | [Irgendwie Kalt](https://open.spotify.com/album/73ZJtCAaWxuvBUYWBqAGlM) | 2:04 |
 | 44 | [Birds in da House](https://open.spotify.com/track/2hq6QIAizio0Tf8eLM4YAH) | [Klaudia Gawlas](https://open.spotify.com/artist/2xiTOSr9ymuHpWFAgSw6sR) | [Birds in da House](https://open.spotify.com/album/0SkJGbFSnTlrlGOkjHlnnO) | 3:02 |

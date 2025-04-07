@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > where folk flowers bloom 🍃 cover: Black Country, New Road
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,362 likes - 121 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,405 likes - 121 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

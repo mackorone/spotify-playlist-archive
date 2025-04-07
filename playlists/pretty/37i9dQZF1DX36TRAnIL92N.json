@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 405538,
+  "num_followers": 405781,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -199,26 +199,6 @@
     {
       "added_at": "2025-03-21 14:48:25",
       "album": {
-        "name": "Bombacid",
-        "url": "https://open.spotify.com/album/2wuhp5q5agJgqllJdBpJdN"
-      },
-      "artists": [
-        {
-          "name": "T78",
-          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
-        },
-        {
-          "name": "Roberto Molinaro",
-          "url": "https://open.spotify.com/artist/0mAQ0glGOQwK489YCodem9"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Bombacid",
-      "url": "https://open.spotify.com/track/1DdByft8QSr5sf8ZhdxcXE"
-    },
-    {
-      "added_at": "2025-03-21 14:48:25",
-      "album": {
         "name": "4am In A Rave / Speed Is A Deed",
         "url": "https://open.spotify.com/album/7ngZxqJrBFRp5ijYA68orJ"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 147121,
       "name": "4am In A Rave (feat. rhys from the sticks)",
       "url": "https://open.spotify.com/track/5Q7g7bfuumI3oF9GaVtxWP"
+    },
+    {
+      "added_at": "2025-03-21 14:48:25",
+      "album": {
+        "name": "Bombacid",
+        "url": "https://open.spotify.com/album/2wuhp5q5agJgqllJdBpJdN"
+      },
+      "artists": [
+        {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        },
+        {
+          "name": "Roberto Molinaro",
+          "url": "https://open.spotify.com/artist/0mAQ0glGOQwK489YCodem9"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Bombacid",
+      "url": "https://open.spotify.com/track/1DdByft8QSr5sf8ZhdxcXE"
     },
     {
       "added_at": "2025-03-21 14:48:25",
@@ -391,6 +391,22 @@
     {
       "added_at": "2025-03-21 14:48:25",
       "album": {
+        "name": "Diamonds On My Mind",
+        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 168529,
+      "name": "Diamonds On My Mind",
+      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
+    },
+    {
+      "added_at": "2025-03-21 14:48:25",
+      "album": {
         "name": "Where I'm From",
         "url": "https://open.spotify.com/album/71N6oT6Vtqs5xjn9b1xxYK"
       },
@@ -411,38 +427,6 @@
       "duration_ms": 202500,
       "name": "Where I'm From",
       "url": "https://open.spotify.com/track/0JFNTfRWLqQ09z9ZHldX8d"
-    },
-    {
-      "added_at": "2025-03-21 14:48:25",
-      "album": {
-        "name": "Bigroom Sensual",
-        "url": "https://open.spotify.com/album/7gRQwhJTbAl6qHXz2efLCF"
-      },
-      "artists": [
-        {
-          "name": "DJ Gigola",
-          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
-        }
-      ],
-      "duration_ms": 294866,
-      "name": "Siente (el Ritmo)",
-      "url": "https://open.spotify.com/track/4V8VKDe62ZdGZAn551JdTz"
-    },
-    {
-      "added_at": "2025-03-21 14:48:25",
-      "album": {
-        "name": "Diamonds On My Mind",
-        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 168529,
-      "name": "Diamonds On My Mind",
-      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
     },
     {
       "added_at": "2025-03-21 14:48:25",
@@ -479,6 +463,22 @@
       "duration_ms": 351992,
       "name": "Sanctum (feat. Marion Di Napoli)",
       "url": "https://open.spotify.com/track/43smiSsmoONd2gAXBqJKVj"
+    },
+    {
+      "added_at": "2025-03-21 14:48:25",
+      "album": {
+        "name": "Bigroom Sensual",
+        "url": "https://open.spotify.com/album/7gRQwhJTbAl6qHXz2efLCF"
+      },
+      "artists": [
+        {
+          "name": "DJ Gigola",
+          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+        }
+      ],
+      "duration_ms": 294866,
+      "name": "Siente (el Ritmo)",
+      "url": "https://open.spotify.com/track/4V8VKDe62ZdGZAn551JdTz"
     },
     {
       "added_at": "2025-03-21 14:48:25",
@@ -571,26 +571,6 @@
     {
       "added_at": "2025-03-21 14:48:25",
       "album": {
-        "name": "Reflection EP",
-        "url": "https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "Enrico Sangiuliano",
-          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
-        }
-      ],
-      "duration_ms": 406584,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT"
-    },
-    {
-      "added_at": "2025-03-21 14:48:25",
-      "album": {
         "name": "Chaos",
         "url": "https://open.spotify.com/album/3n5tnuCnn0pRpwIc1E3GEs"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 199727,
       "name": "Hare Ram",
       "url": "https://open.spotify.com/track/3eUkFpfKGOxqdDjCrXIg0B"
+    },
+    {
+      "added_at": "2025-03-21 14:48:25",
+      "album": {
+        "name": "Reflection EP",
+        "url": "https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+        }
+      ],
+      "duration_ms": 406584,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT"
     },
     {
       "added_at": "2025-03-21 14:48:25",
@@ -763,26 +763,6 @@
     {
       "added_at": "2025-03-21 14:48:25",
       "album": {
-        "name": "Universal Nation (Charlotte de Witte Rework)",
-        "url": "https://open.spotify.com/album/0xlI8P19mLSH5gPqO2UzPq"
-      },
-      "artists": [
-        {
-          "name": "Push",
-          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
-        },
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 452317,
-      "name": "Universal Nation - Charlotte de Witte Rework",
-      "url": "https://open.spotify.com/track/4OrY514bfwTTtykP7s049a"
-    },
-    {
-      "added_at": "2025-03-21 14:48:25",
-      "album": {
         "name": "Party Don\u2019t Stop",
         "url": "https://open.spotify.com/album/4edYdG2DNar0u4Yi2GdjAy"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 201245,
       "name": "Party Don\u2019t Stop",
       "url": "https://open.spotify.com/track/0wHvrVW47PQORaLEwjsGup"
+    },
+    {
+      "added_at": "2025-03-21 14:48:25",
+      "album": {
+        "name": "Universal Nation (Charlotte de Witte Rework)",
+        "url": "https://open.spotify.com/album/0xlI8P19mLSH5gPqO2UzPq"
+      },
+      "artists": [
+        {
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+        },
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 452317,
+      "name": "Universal Nation - Charlotte de Witte Rework",
+      "url": "https://open.spotify.com/track/4OrY514bfwTTtykP7s049a"
     },
     {
       "added_at": "2025-03-21 14:48:25",
@@ -843,6 +843,22 @@
     {
       "added_at": "2025-03-21 14:48:25",
       "album": {
+        "name": "MNML",
+        "url": "https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "duration_ms": 390447,
+      "name": "Minimal",
+      "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
+    },
+    {
+      "added_at": "2025-03-21 14:48:25",
+      "album": {
         "name": "How You Move",
         "url": "https://open.spotify.com/album/4niVd6YJlKn3EST1SUoOwn"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 169614,
       "name": "How You Move - Edit",
       "url": "https://open.spotify.com/track/1biKqdOsiIo2JekJ8UPX1x"
-    },
-    {
-      "added_at": "2025-03-21 14:48:25",
-      "album": {
-        "name": "Love Is Free",
-        "url": "https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 172563,
-      "name": "Love Is Free",
-      "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
     },
     {
       "added_at": "2025-03-21 14:48:25",
@@ -891,6 +891,22 @@
     {
       "added_at": "2025-03-21 14:48:25",
       "album": {
+        "name": "Love Is Free",
+        "url": "https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 172563,
+      "name": "Love Is Free",
+      "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
+    },
+    {
+      "added_at": "2025-03-21 14:48:25",
+      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/4n2DzX9Ow9SA7L2dKVy4Mc"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 232000,
       "name": "Luna",
       "url": "https://open.spotify.com/track/4KEsZFbFgEdaBfBjCijKnX"
-    },
-    {
-      "added_at": "2025-03-21 14:48:25",
-      "album": {
-        "name": "MNML",
-        "url": "https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 390447,
-      "name": "Minimal",
-      "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
     }
   ],
   "unique_name": "Techno Workout",

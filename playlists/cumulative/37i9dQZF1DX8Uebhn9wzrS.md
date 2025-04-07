@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,295 songs - 3 day 15 hr 27 min
+2,296 songs - 3 day 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,7 +504,7 @@
 | [Deploy](https://open.spotify.com/track/2UYDi8xrBMkWhzjLe6phna) | [Gradient Island](https://open.spotify.com/artist/2L6LmEsTHaUiSr1cxjbT0U) | [The Lost Tapes](https://open.spotify.com/album/7vKH3FSTOeST6BdCNorsdy) | 1:27 | 2022-04-15 | 2022-06-10 |
 | [Deux Issues](https://open.spotify.com/track/5rEZbTGUKmxNpfdqaQkd36) | [Major Mélanger](https://open.spotify.com/artist/3QSBaA0B5mA2WrHmUR3GoH) | [Deux Issues](https://open.spotify.com/album/1JFbMzfDYFX0LrJpfCzipd) | 2:44 | 2023-12-08 |  |
 | [Devolving](https://open.spotify.com/track/1o11MvTRPD8vW7BhAQmWLw) | [Muni](https://open.spotify.com/artist/2VcTkhXOXidpqh4MfiQA5p) | [Devolving](https://open.spotify.com/album/7DhS7EenGeLLAJPwfuEVMA) | 1:56 | 2022-05-13 | 2022-11-12 |
-| [Devoted to Violet](https://open.spotify.com/track/7Kn2u3i65LuebgyWqYuJoe) | [Julia Groves](https://open.spotify.com/artist/2kobiVcFE5QbsUbkxkrFq3) | [Devoted to Violet](https://open.spotify.com/album/1OVPJvZwcoKctLbBNfvJ4a) | 2:15 | 2024-07-12 |  |
+| [Devoted to Violet](https://open.spotify.com/track/7Kn2u3i65LuebgyWqYuJoe) | [Julia Groves](https://open.spotify.com/artist/2kobiVcFE5QbsUbkxkrFq3) | [Devoted to Violet](https://open.spotify.com/album/1OVPJvZwcoKctLbBNfvJ4a) | 2:15 | 2024-07-12 | 2025-04-07 |
 | [devotion](https://open.spotify.com/track/7iweprVaUQfqGwhe1nPH9T) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [devotion](https://open.spotify.com/album/5270aNWFhaa6Gi9sKExzJU) | 2:23 | 2025-02-07 |  |
 | [devotion](https://open.spotify.com/track/2LgVhJxRPvs9sNxMbsZPX5) | [Summer Clarke](https://open.spotify.com/artist/5VJreBDjx8zamtY3YyZyMr) | [devotion](https://open.spotify.com/album/3yO0qSDkaa1SLKawgxWeNE) | 2:22 | 2024-03-22 |  |
 | [Diaphane](https://open.spotify.com/track/00oTqcKHoGsI2RpajOg0hh) | [Naute](https://open.spotify.com/artist/2LfwnXXH6HdeP825h4u7lt) | [Diaphane](https://open.spotify.com/album/7F92gWMkU59j6wlOLXUCs4) | 2:17 | 2023-01-13 | 2023-10-20 |
@@ -865,7 +865,7 @@
 | [Happy Camper](https://open.spotify.com/track/65Aih3UTZ71FYy1IFX9yai) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Happy Camper](https://open.spotify.com/album/0dGweGrhJHrI7b2aZzrlbP) | 2:00 | 2023-06-06 | 2023-12-08 |
 | [happy moggie](https://open.spotify.com/track/6mnuzqUm6MObdHHk59Tg4E) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [happy moggie](https://open.spotify.com/album/5HRw1jjjlShVFhlyNlyjpi) | 2:18 | 2023-12-08 |  |
 | [Harpiness](https://open.spotify.com/track/73EllKCl8YXhxV1dEXxF0U) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Harpiness](https://open.spotify.com/album/6znqVk3rBkqkouCbLH8wLV) | 2:09 | 2023-09-08 | 2024-05-14 |
-| [Hash with 2,8](https://open.spotify.com/track/3OruYgXvTvTVVSKwSY71VD) | [Krims Krams](https://open.spotify.com/artist/2h9Xl98MO21fGnWbheeKuu) | [Hash with 2,8](https://open.spotify.com/album/1tt6e06BzChloRVr08jC2K) | 2:13 | 2023-07-13 | 2025-04-01 |
+| [Hash with 2,8](https://open.spotify.com/track/3OruYgXvTvTVVSKwSY71VD) | [Krims Krams](https://open.spotify.com/artist/2h9Xl98MO21fGnWbheeKuu) | [Hash with 2,8](https://open.spotify.com/album/1tt6e06BzChloRVr08jC2K) | 2:13 | 2023-07-13 |  |
 | [hatten](https://open.spotify.com/track/0nPa8iAD5XHvwAuh7dND32) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [hatten](https://open.spotify.com/album/00xZabDtZSUmnM8ODVHA7e) | 2:35 | 2023-01-06 | 2024-02-02 |
 | [Hauga](https://open.spotify.com/track/4Zt4YhDZ0SoMIR8lzXZw7I) | [J Mariou](https://open.spotify.com/artist/0EtOuwnEN1iBz6miiq5NfW) | [Hauga](https://open.spotify.com/album/08Hy3qIJEDIvUDw1oaoT7g) | 2:01 | 2023-04-03 | 2024-10-18 |
 | [Hazel Eyes](https://open.spotify.com/track/18te6JAwwL6xrKnVgYgXvA) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Hazel Eyes](https://open.spotify.com/album/3Fses3uRSqH6ODu45oPCwH) | 2:22 | 2023-11-24 |  |
@@ -1178,7 +1178,7 @@
 | [Lower East Side](https://open.spotify.com/track/0HP3RxQPPdLmpSQJQZHl9Z) | [Chase Beats](https://open.spotify.com/artist/6rjVfqmICjUb56U9D9KR6h) | [Lower East Side](https://open.spotify.com/album/1abGAhcGC1jATomzDE85dT) | 1:55 | 2025-03-28 |  |
 | [Lowride River](https://open.spotify.com/track/2SqIwESq04iFODwdyzVYoy) | [Tigerpalm\*Bay](https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J) | [Lowride River](https://open.spotify.com/album/2joB6WYW30agKgPmd8NYSl) | 3:24 | 2022-04-15 | 2022-11-12 |
 | [lucid air](https://open.spotify.com/track/6suiglC9EEWunpmOkJagzj) | [Surdég Broed](https://open.spotify.com/artist/7mKovR2MtFaB4qRQhfzcSx) | [lucid air](https://open.spotify.com/album/5zQ8bKhgfXeMeCoP4PL7gH) | 2:12 | 2023-03-01 | 2025-01-24 |
-| [Lucky 7](https://open.spotify.com/track/7uTx78QPwbsA6ZGzv8whYN) | [Samara Milli](https://open.spotify.com/artist/3sZomG9CbKFGghCfMXwhhv) | [Lucky 7](https://open.spotify.com/album/6OpO74wlEiYGCbuf1TimUb) | 2:07 | 2025-03-14 |  |
+| [Lucky 7](https://open.spotify.com/track/7uTx78QPwbsA6ZGzv8whYN) | [Samara Milli](https://open.spotify.com/artist/3sZomG9CbKFGghCfMXwhhv) | [Lucky 7](https://open.spotify.com/album/6OpO74wlEiYGCbuf1TimUb) | 2:07 | 2025-03-14 | 2025-04-07 |
 | [lucky charms](https://open.spotify.com/track/4JnGvG2qXVDwAArJkZvZwJ) | [slowburn](https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo) | [lucky charms](https://open.spotify.com/album/04zMzCmGyAhMlziRYcd0MA) | 2:19 | 2025-03-07 |  |
 | [lullabi](https://open.spotify.com/track/3o4CP6tTnBcQMIEsCS9rME) | [dozeoff](https://open.spotify.com/artist/1DDkZGlHuj5FFsrieyvsHW) | [lullabi / midnight](https://open.spotify.com/album/0pDSPrCWW6uHGBcfm9G3zS) | 2:54 | 2024-07-12 |  |
 | [Lullaby](https://open.spotify.com/track/3vr0v9Vn5ELEYbwzKdKyTX) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Lullaby](https://open.spotify.com/album/3cSq1BpCyixnSAxS2PRcYp) | 2:05 | 2023-12-22 |  |
@@ -1495,6 +1495,7 @@
 | [Parades](https://open.spotify.com/track/2ApTu6hFTnNI4OgspbovcK) | [Maxømøa](https://open.spotify.com/artist/2XfqCD3Rlv8LxJ0p05QNXa), [Coloured Rocks](https://open.spotify.com/artist/4CMUg0w1aGMdiWjfl3zI8t) | [Parades](https://open.spotify.com/album/31LiiyocxjrRlfQS5jRoPx) | 2:17 | 2022-06-10 | 2022-11-06 |
 | [Parades](https://open.spotify.com/track/0AxZVTvTZqjC6lGDfELZkY) | [Maxømøa](https://open.spotify.com/artist/2XfqCD3Rlv8LxJ0p05QNXa), [Coloured Rocks](https://open.spotify.com/artist/4CMUg0w1aGMdiWjfl3zI8t) | [Parades](https://open.spotify.com/album/04XbkOcu8kPYzD58sUv5Wc) | 2:17 | 2022-10-28 | 2022-11-19 |
 | [Parallax](https://open.spotify.com/track/2wtAveNu0CDS788jUw9vT1) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Parallax](https://open.spotify.com/album/2REZP9taA539SwDMnWd8TZ) | 2:57 | 2023-07-13 | 2023-09-29 |
+| [parallel kids](https://open.spotify.com/track/0K5O7UsRsk6Euf1F9pNJ3T) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [parallel kids](https://open.spotify.com/album/1oUj7S1SelkHIjJIleBTIf) | 2:10 | 2025-04-04 |  |
 | [Pareidolia](https://open.spotify.com/track/6jhIjPKENwizw0sKmJNiUO) | [Alrik Lagom](https://open.spotify.com/artist/3hre26wvV7Cy00fDfbJBbn) | [Pareidolia](https://open.spotify.com/album/3CjKtpWA51sPu7tiir84nX) | 2:20 | 2022-12-09 | 2024-02-02 |
 | [Paris](https://open.spotify.com/track/6lAh5CErP733AMCPR83AUB) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Paris](https://open.spotify.com/album/1QRLiEOoQICtjiYEchWQ41) | 2:04 | 2023-10-13 |  |
 | [Paris, 6am](https://open.spotify.com/track/5E7uJCas10EoTpYrUpSHGw) | [Beats Per City](https://open.spotify.com/artist/1EZk4Yqacy9q6psmXiQR3G) | [Paris, 6am](https://open.spotify.com/album/42LhDRO7i0ewJ1mmhQSkYa) | 1:50 | 2022-04-15 | 2022-05-27 |

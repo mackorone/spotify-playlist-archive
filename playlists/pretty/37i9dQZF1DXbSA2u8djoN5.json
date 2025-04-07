@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: AOUR, M.G.L",
-  "num_followers": 20449,
+  "num_followers": 20460,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -131,18 +131,22 @@
     {
       "added_at": "2025-03-27 22:00:30",
       "album": {
-        "name": "Direct din Tei",
-        "url": "https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr"
+        "name": "Voila",
+        "url": "https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP"
       },
       "artists": [
         {
-          "name": "Petre Stefan",
-          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        },
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
         }
       ],
-      "duration_ms": 159244,
-      "name": "Sunt fratii tai",
-      "url": "https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a"
+      "duration_ms": 139200,
+      "name": "Voila",
+      "url": "https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D"
     },
     {
       "added_at": "2025-03-27 22:00:30",
@@ -207,6 +211,22 @@
     {
       "added_at": "2025-03-27 22:00:30",
       "album": {
+        "name": "Direct din Tei",
+        "url": "https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr"
+      },
+      "artists": [
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        }
+      ],
+      "duration_ms": 159244,
+      "name": "Sunt fratii tai",
+      "url": "https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a"
+    },
+    {
+      "added_at": "2025-03-27 22:00:30",
+      "album": {
         "name": "LUCIFER",
         "url": "https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS"
       },
@@ -227,26 +247,6 @@
       "duration_ms": 186000,
       "name": "PLOAIA",
       "url": "https://open.spotify.com/track/7j0IVHEgklnA3TjfZSuMBs"
-    },
-    {
-      "added_at": "2025-03-27 22:00:30",
-      "album": {
-        "name": "Antidot",
-        "url": "https://open.spotify.com/album/7JfKqjzqD5Lf5yYfZBEQOm"
-      },
-      "artists": [
-        {
-          "name": "Pepy",
-          "url": "https://open.spotify.com/artist/2xcZ2Y1cDPqycDAQI0oIRM"
-        },
-        {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
-        }
-      ],
-      "duration_ms": 166363,
-      "name": "Antidot",
-      "url": "https://open.spotify.com/track/1elG9fCIfhyBouqhwadB7v"
     },
     {
       "added_at": "2025-03-27 22:00:30",
@@ -295,6 +295,26 @@
     {
       "added_at": "2025-03-27 22:00:30",
       "album": {
+        "name": "Antidot",
+        "url": "https://open.spotify.com/album/7JfKqjzqD5Lf5yYfZBEQOm"
+      },
+      "artists": [
+        {
+          "name": "Pepy",
+          "url": "https://open.spotify.com/artist/2xcZ2Y1cDPqycDAQI0oIRM"
+        },
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        }
+      ],
+      "duration_ms": 166363,
+      "name": "Antidot",
+      "url": "https://open.spotify.com/track/1elG9fCIfhyBouqhwadB7v"
+    },
+    {
+      "added_at": "2025-03-27 22:00:30",
+      "album": {
         "name": "\u0218tefan IV",
         "url": "https://open.spotify.com/album/1j2XXVOk5fk60ZRm5QpqFp"
       },
@@ -319,26 +339,6 @@
     {
       "added_at": "2025-03-27 22:00:30",
       "album": {
-        "name": "Voila",
-        "url": "https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP"
-      },
-      "artists": [
-        {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
-        },
-        {
-          "name": "Erika Isac",
-          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Voila",
-      "url": "https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D"
-    },
-    {
-      "added_at": "2025-03-27 22:00:30",
-      "album": {
         "name": "BIPOLAR",
         "url": "https://open.spotify.com/album/7lbbq1I52g04xbldIDxpvn"
       },
@@ -355,22 +355,34 @@
     {
       "added_at": "2025-03-27 22:00:30",
       "album": {
-        "name": "OCHI ALBA\u0218TRI",
-        "url": "https://open.spotify.com/album/6ZhrWAL2jz0MqctVKSayK3"
+        "name": "PESTE TOT",
+        "url": "https://open.spotify.com/album/6yX2Obn7R5hpjXs9VA7aNd"
       },
       "artists": [
         {
-          "name": "Petre Stefan",
-          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
-        },
-        {
-          "name": "Bianca Ionescu",
-          "url": "https://open.spotify.com/artist/6FjEnxqyibwj2OM2WQg8hU"
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
         }
       ],
-      "duration_ms": 232000,
-      "name": "OCHI ALBA\u0218TRI",
-      "url": "https://open.spotify.com/track/2TPCbtaXlKvgyBOedKQ3yX"
+      "duration_ms": 146526,
+      "name": "PESTE TOT",
+      "url": "https://open.spotify.com/track/2akD1C98hzYuUnqslTor11"
+    },
+    {
+      "added_at": "2025-03-27 22:00:30",
+      "album": {
+        "name": "Ofiter la pamant",
+        "url": "https://open.spotify.com/album/2N2IwwEhBAOvLnaf12XWTl"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Ofiter la pamant",
+      "url": "https://open.spotify.com/track/1BbXHat6Zlcg4bpFL2qEBE"
     },
     {
       "added_at": "2025-03-27 22:00:30",
@@ -391,18 +403,22 @@
     {
       "added_at": "2025-03-27 22:00:30",
       "album": {
-        "name": "Ofiter la pamant",
-        "url": "https://open.spotify.com/album/2N2IwwEhBAOvLnaf12XWTl"
+        "name": "OCHI ALBA\u0218TRI",
+        "url": "https://open.spotify.com/album/6ZhrWAL2jz0MqctVKSayK3"
       },
       "artists": [
         {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        },
+        {
+          "name": "Bianca Ionescu",
+          "url": "https://open.spotify.com/artist/6FjEnxqyibwj2OM2WQg8hU"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Ofiter la pamant",
-      "url": "https://open.spotify.com/track/1BbXHat6Zlcg4bpFL2qEBE"
+      "duration_ms": 232000,
+      "name": "OCHI ALBA\u0218TRI",
+      "url": "https://open.spotify.com/track/2TPCbtaXlKvgyBOedKQ3yX"
     },
     {
       "added_at": "2025-03-27 22:00:30",
@@ -483,6 +499,42 @@
     {
       "added_at": "2025-03-27 22:00:30",
       "album": {
+        "name": "Triton",
+        "url": "https://open.spotify.com/album/6D4zgd0qRdk5dEiL8ClMR0"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        },
+        {
+          "name": "Rheda",
+          "url": "https://open.spotify.com/artist/3CpzJbFUGyuWn8rkW46gct"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Triton",
+      "url": "https://open.spotify.com/track/4DrMJI9DGrZlgygVrMC1cp"
+    },
+    {
+      "added_at": "2025-03-27 22:00:30",
+      "album": {
+        "name": "ZERO",
+        "url": "https://open.spotify.com/album/6I5JKDtiXS8HvlLznCRfcY"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "ZERO",
+      "url": "https://open.spotify.com/track/3vDNT5H8VtKFgaDL0zD68Z"
+    },
+    {
+      "added_at": "2025-03-27 22:00:30",
+      "album": {
         "name": "Birkin Baby",
         "url": "https://open.spotify.com/album/3UNEAcsPz9U56hoFUMQ5FH"
       },
@@ -503,42 +555,6 @@
       "duration_ms": 194118,
       "name": "Birkin Baby",
       "url": "https://open.spotify.com/track/521THfI6NqtFIkrbIbo4vc"
-    },
-    {
-      "added_at": "2025-03-27 22:00:30",
-      "album": {
-        "name": "PESTE TOT",
-        "url": "https://open.spotify.com/album/6yX2Obn7R5hpjXs9VA7aNd"
-      },
-      "artists": [
-        {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
-        }
-      ],
-      "duration_ms": 146526,
-      "name": "PESTE TOT",
-      "url": "https://open.spotify.com/track/2akD1C98hzYuUnqslTor11"
-    },
-    {
-      "added_at": "2025-03-27 22:00:30",
-      "album": {
-        "name": "Triton",
-        "url": "https://open.spotify.com/album/6D4zgd0qRdk5dEiL8ClMR0"
-      },
-      "artists": [
-        {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
-        },
-        {
-          "name": "Rheda",
-          "url": "https://open.spotify.com/artist/3CpzJbFUGyuWn8rkW46gct"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Triton",
-      "url": "https://open.spotify.com/track/4DrMJI9DGrZlgygVrMC1cp"
     },
     {
       "added_at": "2025-03-27 22:00:30",
@@ -595,6 +611,26 @@
     {
       "added_at": "2025-03-27 22:00:30",
       "album": {
+        "name": "\u00ceNCASEZ",
+        "url": "https://open.spotify.com/album/5KeGYMhZv6tk2W1x7nM7Tk"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        },
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/3aiNFfqqHURbyhzN5tOdp9"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "\u00ceNCASEZ",
+      "url": "https://open.spotify.com/track/6eNbonlVmj3JnRHjqfHE62"
+    },
+    {
+      "added_at": "2025-03-27 22:00:30",
+      "album": {
         "name": "Copiii Care Am Fost",
         "url": "https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT"
       },
@@ -631,18 +667,18 @@
     {
       "added_at": "2025-03-27 22:00:30",
       "album": {
-        "name": "BOSS",
-        "url": "https://open.spotify.com/album/18IepYLuiT5JJHYymFiEw8"
+        "name": "Toata lumea moare",
+        "url": "https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2"
       },
       "artists": [
         {
-          "name": "DZWS",
-          "url": "https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV"
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
         }
       ],
-      "duration_ms": 90612,
-      "name": "BOSS",
-      "url": "https://open.spotify.com/track/5EGtEaDy1AZnMxtymaqc3e"
+      "duration_ms": 144000,
+      "name": "Operatiunea GhostGun",
+      "url": "https://open.spotify.com/track/6ZvxHr1I4tofQp3WOh68j4"
     },
     {
       "added_at": "2025-03-27 22:00:30",
@@ -663,6 +699,38 @@
       "duration_ms": 167302,
       "name": "Lacrimi",
       "url": "https://open.spotify.com/track/7wT5gc9AaTqRwZzrITMNFn"
+    },
+    {
+      "added_at": "2025-03-27 22:00:30",
+      "album": {
+        "name": "BOSS",
+        "url": "https://open.spotify.com/album/18IepYLuiT5JJHYymFiEw8"
+      },
+      "artists": [
+        {
+          "name": "DZWS",
+          "url": "https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV"
+        }
+      ],
+      "duration_ms": 90612,
+      "name": "BOSS",
+      "url": "https://open.spotify.com/track/5EGtEaDy1AZnMxtymaqc3e"
+    },
+    {
+      "added_at": "2025-03-27 22:00:30",
+      "album": {
+        "name": "Femei \u00een Parlament",
+        "url": "https://open.spotify.com/album/1uHW21qweyX6zr85irBPaD"
+      },
+      "artists": [
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Femei \u00een Parlament",
+      "url": "https://open.spotify.com/track/2xwMZvVmWGYV4rreWqE2z6"
     },
     {
       "added_at": "2025-03-27 22:00:30",
@@ -691,54 +759,6 @@
       "duration_ms": 228884,
       "name": "Shot",
       "url": "https://open.spotify.com/track/7oRs530KPTYBT8NdSIh6Kx"
-    },
-    {
-      "added_at": "2025-03-27 22:00:30",
-      "album": {
-        "name": "Toata lumea moare",
-        "url": "https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2"
-      },
-      "artists": [
-        {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Operatiunea GhostGun",
-      "url": "https://open.spotify.com/track/6ZvxHr1I4tofQp3WOh68j4"
-    },
-    {
-      "added_at": "2025-03-27 22:00:30",
-      "album": {
-        "name": "ZERO",
-        "url": "https://open.spotify.com/album/6I5JKDtiXS8HvlLznCRfcY"
-      },
-      "artists": [
-        {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "ZERO",
-      "url": "https://open.spotify.com/track/3vDNT5H8VtKFgaDL0zD68Z"
-    },
-    {
-      "added_at": "2025-03-27 22:00:30",
-      "album": {
-        "name": "Femei \u00een Parlament",
-        "url": "https://open.spotify.com/album/1uHW21qweyX6zr85irBPaD"
-      },
-      "artists": [
-        {
-          "name": "Erika Isac",
-          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Femei \u00een Parlament",
-      "url": "https://open.spotify.com/track/2xwMZvVmWGYV4rreWqE2z6"
     },
     {
       "added_at": "2025-03-27 22:00:30",
@@ -779,26 +799,6 @@
     {
       "added_at": "2025-03-27 22:00:30",
       "album": {
-        "name": "Blur",
-        "url": "https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV"
-      },
-      "artists": [
-        {
-          "name": "Endru",
-          "url": "https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l"
-        },
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Poate",
-      "url": "https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu"
-    },
-    {
-      "added_at": "2025-03-27 22:00:30",
-      "album": {
         "name": "CHARLEROI",
         "url": "https://open.spotify.com/album/18Qsg0RdnZGUF78HNPwhGD"
       },
@@ -823,22 +823,22 @@
     {
       "added_at": "2025-03-27 22:00:30",
       "album": {
-        "name": "\u00ceNCASEZ",
-        "url": "https://open.spotify.com/album/5KeGYMhZv6tk2W1x7nM7Tk"
+        "name": "Blur",
+        "url": "https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV"
       },
       "artists": [
         {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+          "name": "Endru",
+          "url": "https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l"
         },
         {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/3aiNFfqqHURbyhzN5tOdp9"
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
         }
       ],
-      "duration_ms": 149000,
-      "name": "\u00ceNCASEZ",
-      "url": "https://open.spotify.com/track/6eNbonlVmj3JnRHjqfHE62"
+      "duration_ms": 152000,
+      "name": "Poate",
+      "url": "https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu"
     },
     {
       "added_at": "2025-03-27 22:00:30",
@@ -939,6 +939,26 @@
     {
       "added_at": "2025-03-27 22:00:30",
       "album": {
+        "name": "Am Zis Ceva",
+        "url": "https://open.spotify.com/album/3pwj7bk6zW9DCIlSPQYzDY"
+      },
+      "artists": [
+        {
+          "name": "B.U.G. Mafia",
+          "url": "https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0"
+        },
+        {
+          "name": "Lexi Cali",
+          "url": "https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8"
+        }
+      ],
+      "duration_ms": 247113,
+      "name": "Am Zis Ceva",
+      "url": "https://open.spotify.com/track/2u52GXrozwZePQ6EIVgz8C"
+    },
+    {
+      "added_at": "2025-03-27 22:00:30",
+      "album": {
         "name": "BIPOLAR",
         "url": "https://open.spotify.com/album/7lbbq1I52g04xbldIDxpvn"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 168351,
       "name": "F\u0102R\u0102 SUFLET",
       "url": "https://open.spotify.com/track/6pHFBc5d5GrTX5ZE3whuxz"
-    },
-    {
-      "added_at": "2025-03-27 22:00:30",
-      "album": {
-        "name": "Am Zis Ceva",
-        "url": "https://open.spotify.com/album/3pwj7bk6zW9DCIlSPQYzDY"
-      },
-      "artists": [
-        {
-          "name": "B.U.G. Mafia",
-          "url": "https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0"
-        },
-        {
-          "name": "Lexi Cali",
-          "url": "https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8"
-        }
-      ],
-      "duration_ms": 247113,
-      "name": "Am Zis Ceva",
-      "url": "https://open.spotify.com/track/2u52GXrozwZePQ6EIVgz8C"
     },
     {
       "added_at": "2025-03-27 22:00:30",

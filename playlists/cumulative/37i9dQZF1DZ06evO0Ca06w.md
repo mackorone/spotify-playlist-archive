@@ -4,7 +4,7 @@
 
 > This is Miriam Makeba\. The essential tracks, all in one playlist.
 
-184 songs - 9 hr 34 min
+185 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Luta Continua](https://open.spotify.com/track/3mH0Lmh3xjk16INiPISHq7) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4) | 4:49 | 2021-12-28 |  |
 | [A Piece of Ground \- Stereo Version](https://open.spotify.com/track/0UO6j3Nyor7zuJdB3ldNxQ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 3:39 | 2023-06-09 |  |
 | [A Promise](https://open.spotify.com/track/6OunW3jvvQ1W5JX59HIUnl) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [A Promise](https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT) | 4:26 | 2021-12-28 | 2022-12-03 |
-| [Africa](https://open.spotify.com/track/1Xf60iHndHz5X20e9Kd9RY) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4) | 4:24 | 2024-06-06 |  |
+| [Africa](https://open.spotify.com/track/1Xf60iHndHz5X20e9Kd9RY) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4) | 4:24 | 2024-06-06 | 2025-04-07 |
 | [African Sunset](https://open.spotify.com/track/5426Q6firRdP2b7VI2puMZ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4) | 5:46 | 2022-06-24 |  |
 | [Aluta Continua](https://open.spotify.com/track/2iRyWE1WNGPC4tGybziX7b) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/1180eoJLK2TTwI6D8DIiJX) | 4:49 | 2021-12-28 |  |
 | [Amampondo](https://open.spotify.com/track/1Z3lTQYt14dfcZAl7AckQP) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The World of Miriam Makeba](https://open.spotify.com/album/5i8fUCReOD0nJUDUdij6um) | 1:56 | 2023-11-10 | 2024-05-08 |
@@ -121,6 +121,7 @@
 | [Moulouyame](https://open.spotify.com/track/2s7fBGYvJaTFoBq28Vl2v5) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [A Promise](https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT) | 4:03 | 2022-01-02 | 2022-01-04 |
 | [Moôlouyame](https://open.spotify.com/track/2gVuAsynd1TbaZSDVgtGXx) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Guinea Years](https://open.spotify.com/album/2bL3sBngYPOBSOwZH1A90H) | 3:36 | 2021-12-28 | 2022-10-02 |
 | [Moôlouyame](https://open.spotify.com/track/322aPb3GHH1HaHjzR7eBBJ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Guinea Years](https://open.spotify.com/album/75dcJ9u25tOpf2hfb5EL10) | 3:36 | 2022-10-04 | 2023-09-19 |
+| [Mvibe Ekutye](https://open.spotify.com/track/39buWcVkSStyjcqHY9SIjD) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Mvibe Ekutye](https://open.spotify.com/album/3AUoiZfnEybXKqNXdTooj9) | 2:56 | 2025-04-07 |  |
 | [My Angel \(Malaika\)](https://open.spotify.com/track/0eP52OQtijQQzZBXDc923Z) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [An Evening With Belafonte/Makeba](https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc) | 3:15 | 2021-12-28 |  |
 | [Ndamcenga \- Original Mix](https://open.spotify.com/track/04gZUPuWcZ7OsE708yy0Lv) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Music Was My First Love](https://open.spotify.com/album/4lKKS0zckorp9STAJsr1Gp) | 2:31 | 2022-03-09 | 2022-03-11 |
 | [Ndiarabi](https://open.spotify.com/track/1rcWedOQYluzxH8xr8vQ0U) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sing Me a Song](https://open.spotify.com/album/2lsdI6XXHl04AxfTA7200B) | 4:28 | 2024-03-15 |  |

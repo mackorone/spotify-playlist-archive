@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 304,480 likes - 155 songs - 9 hr 0 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 304,468 likes - 155 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 | 4 | [Did I Ever Tell You](https://open.spotify.com/track/3q3bjcd4SHSRNoafyK4MMl) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1 \- The Solo Piano Collection](https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F) | 4:35 |
 | 5 | [Solitude \(Arr\. for Violin and Piano by Esther Abrami\)](https://open.spotify.com/track/5EwjZdBsOEhMY0VHZOjPda) | [Rita Strohl](https://open.spotify.com/artist/6jfL9QnoNFBdO1Dr0QPlWY), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [Kim Barbier](https://open.spotify.com/artist/4rBenz5sFjZJ0IBVELwTNw) | [Solitude \(Arr\. for Violin and Piano by Esther Abrami\)](https://open.spotify.com/album/1eTpuw9e8URQNh4hFGWyFU) | 3:49 |
 | 6 | [Kyo](https://open.spotify.com/track/0LjazH98i2iH7TCkKPX4m3) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Kyo](https://open.spotify.com/album/0lwPCjEyY3TOE93TYeeFq8) | 2:57 |
-| 7 | [Last Foray](https://open.spotify.com/track/5q4fYSBdqQJ8bS08FYDs7w) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [Last Foray](https://open.spotify.com/album/18TWiATPDTTzTLA253Uv0c) | 1:40 |
+| 7 | [Last Foray \(From "Last Swim" Soundtrack\)](https://open.spotify.com/track/5q4fYSBdqQJ8bS08FYDs7w) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [Last Foray \(From "Last Swim" Soundtrack\)](https://open.spotify.com/album/18TWiATPDTTzTLA253Uv0c) | 1:40 |
 | 8 | [Bach Brandenburg Concerto Revisited \(From BWV 1046: I\. Allegro, Arr\. for Violin, String Quintet & Piano by Jarkko Riihimäki\)](https://open.spotify.com/track/0qZZUF1YbuBpB4zBl6NiBU) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Eldbjørg Hemsing](https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F), [Norwegian String Quintet](https://open.spotify.com/artist/2e7YyU25R6B4frcn8lHz4B), [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY) | [Bach Brandenburg Concerto Revisited \(From BWV 1046: I\. Allegro, Arr\. for Violin, String Quintet & Piano by Jarkko Riihimäki\)](https://open.spotify.com/album/04kAsrKaEyFwJzIEH0hqiZ) | 2:13 |
 | 9 | [Nocturne in E\-Flat Major, Op\. 9, No\. 2](https://open.spotify.com/track/5vHdzeEjuK5ZQnOyFqUTDH) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Pablo Ferrandez](https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt), [Julien Quentin](https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR) | [Nocturne in E\-Flat Major, Op\. 9, No\. 2](https://open.spotify.com/album/03BGb4cBD5kWEg8Dng7pFs) | 4:07 |
 | 10 | [Piano Sonata in A major](https://open.spotify.com/track/63ayBaJeqgp9GmRnc4ewmF) | [Thomas Enhco](https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK) | [Piano Sonata in A major](https://open.spotify.com/album/4W3y0BJ9PG73pL5kAXl2Vu) | 4:36 |

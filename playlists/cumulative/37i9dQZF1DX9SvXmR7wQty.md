@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: thaïs
 
-3,212 songs - 7 day 2 hr 27 min
+3,213 songs - 7 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [amour](https://open.spotify.com/track/47kA4ykK0Rlwjf8oV2HMo7) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [aubades](https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo) | 4:37 | 2022-02-04 | 2022-02-19 |
 | [Amour cyclone](https://open.spotify.com/track/7BoQ3BKIGuJ7jNELvegsdb) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Fille lacrymale](https://open.spotify.com/album/0CUK4fhtoGwwjh18Q02LMd) | 2:58 | 2025-03-14 |  |
 | [Amour, Haine & Danger](https://open.spotify.com/track/0AwExghm7adTvBm2N8fiuX) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Amour, Haine & Danger](https://open.spotify.com/album/6XXGJ69eGc1pjZCWcPuKm3) | 3:18 | 2022-09-30 | 2022-10-15 |
+| [Amoureuse](https://open.spotify.com/track/3rrYJegUcvKTRCaiQz6rXn) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [Amoureuse](https://open.spotify.com/album/4L5eH3XhpdBLat8JOyPtCS) | 2:30 | 2025-04-04 |  |
 | [Amours et Contradictions](https://open.spotify.com/track/0QvndhdnzK1S5nDH5mBaMW) | [Joe Rocca](https://open.spotify.com/artist/02nyUoWQbKuMviHAb3PSmi), [Malia Laura](https://open.spotify.com/artist/5mR2fZvW33l03cg7mzlwsG) | [Amours et Contradictions](https://open.spotify.com/album/5S8FScCHYUnn7FTvU7iI1I) | 2:59 | 2024-04-19 | 2024-04-27 |
 | [AMÉRICA](https://open.spotify.com/track/4SlHJDVnBmKPzlUFKkebIv) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [América](https://open.spotify.com/album/7oUfp7K3bbzupkxaXBNtdi) | 3:00 | 2022-09-30 | 2022-10-15 |
 | [An Introduction](https://open.spotify.com/track/544zLRnG6aYLUWan8XWlkp) | [Mimo](https://open.spotify.com/artist/3eIJIZKEFoBYxr8A12M00k) | [An Introduction](https://open.spotify.com/album/2tWhEALTbr4KFkuI3TZ17d) | 2:26 | 2022-03-04 | 2022-03-12 |
@@ -364,7 +365,7 @@
 | [Brrr \(feat\. Alonzo & ElGrandeToto\)](https://open.spotify.com/track/5AsFXMwPS6zMIGY8MSFn5L) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Brrr \(feat\. Alonzo & ElGrandeToto\)](https://open.spotify.com/album/1NjDEG7GvcTtiNH2EIBG3s) | 2:10 | 2025-01-10 | 2025-03-22 |
 | [Bruits blancs](https://open.spotify.com/track/6WmOMC9ejoUfB8EG12O9Jq) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Bruits blancs](https://open.spotify.com/album/4RmrJpCLQu8GmVldWnGT3j) | 3:06 | 2022-09-23 | 2022-10-08 |
 | [Brûler des condos](https://open.spotify.com/track/3o4iZUEJHGlx9JKE8qePm1) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [Brûler des condos](https://open.spotify.com/album/0yBwEzSPkDb65RQplrMOwk) | 2:03 | 2022-02-04 | 2022-02-19 |
-| [Buggy](https://open.spotify.com/track/1tdw03JuoGckGhRhHXP3PY) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Buggy](https://open.spotify.com/album/4RucnCxQeWCuiuhOwFw7w9) | 3:04 | 2025-02-14 |  |
+| [Buggy](https://open.spotify.com/track/1tdw03JuoGckGhRhHXP3PY) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Buggy](https://open.spotify.com/album/4RucnCxQeWCuiuhOwFw7w9) | 3:04 | 2025-02-14 | 2025-04-07 |
 | [Bulletproof](https://open.spotify.com/track/7bHdCsoQTOn7Hd5r5wKTKm) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Brasco](https://open.spotify.com/artist/3tKR0XXN0pW0Kl7UDAVSHL), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ) | [Bulletproof](https://open.spotify.com/album/0aDr8UBbaSXDFziZvCrRpo) | 5:04 | 2022-12-16 | 2023-01-21 |
 | [Bulletproof](https://open.spotify.com/track/7zjnbWmrYenEq0RH00JDeU) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Bulletproof](https://open.spotify.com/album/6At8VogWxotaF0CEc9hHX4) | 3:19 | 2023-01-27 | 2023-02-11 |
 | [Burbur](https://open.spotify.com/track/5enoxGPrGxhYR0hQPbYb6U) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Mourir en Essayant](https://open.spotify.com/album/14SrZvsojiHw4cod9OPXOu) | 3:40 | 2022-02-18 | 2022-03-05 |

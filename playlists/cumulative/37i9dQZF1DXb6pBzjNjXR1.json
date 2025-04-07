@@ -457,6 +457,32 @@
     },
     {
       "album": {
+        "name": "Amore Profondo",
+        "url": "https://open.spotify.com/album/6hSGThzzS1GW6N55CUBCw8"
+      },
+      "artists": [
+        {
+          "name": "Sparrow & Barbossa",
+          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+        },
+        {
+          "name": "Nomvula SA",
+          "url": "https://open.spotify.com/artist/6DPIZZxzcwWmBiTMmVYbyY"
+        },
+        {
+          "name": "Caiiro",
+          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436715,
+      "name": "Amore Profondo - Caiiro Remix",
+      "url": "https://open.spotify.com/track/2AcXyRqOejVCaEVsC88iEw"
+    },
+    {
+      "album": {
         "name": "Ancestor's Calling",
         "url": "https://open.spotify.com/album/4Q4rD8SV9U7rdoxStKHYB5"
       },
@@ -1306,7 +1332,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-07",
       "duration_ms": 368429,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/3uSSEJShIOgk2h0apyvbSR"

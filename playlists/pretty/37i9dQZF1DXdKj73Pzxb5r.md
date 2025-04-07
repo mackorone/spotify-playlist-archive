@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: HEINS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,155 likes - 98 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,162 likes - 98 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

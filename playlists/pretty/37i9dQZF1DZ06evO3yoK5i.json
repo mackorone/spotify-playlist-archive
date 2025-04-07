@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 236674,
+  "num_followers": 236718,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+8hAAAAAAASWJ+9T7lE6KjVhHZ18Lg/",
+  "snapshot_id": "Z/BygAAAAACR5e3dJnR/rxlmPC6a/hvf",
   "tracks": [
     {
       "added_at": null,
@@ -339,6 +339,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eros 30 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 251413,
+      "name": "Pi\u00f9 che puoi (feat. Cher)",
+      "url": "https://open.spotify.com/track/7nPYCeSyi1Chcr2o95Eqe1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Somos",
         "url": "https://open.spotify.com/album/3h5yQVDuEGV0Xu0vVKe0Fk"
       },
@@ -367,26 +387,6 @@
       "duration_ms": 335533,
       "name": "La Aurora",
       "url": "https://open.spotify.com/track/7lJ7Sv7lWJQ5KmhZa5nITJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eros 30 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        },
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 251413,
-      "name": "Pi\u00f9 che puoi (feat. Cher)",
-      "url": "https://open.spotify.com/track/7nPYCeSyi1Chcr2o95Eqe1"
     },
     {
       "added_at": null,
@@ -759,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eros 30 (Spanish/Latin Version)",
-        "url": "https://open.spotify.com/album/7aCxSW8pYwE5v1lRdw89tF"
+        "name": "9 (Remastered 192 khz)",
+        "url": "https://open.spotify.com/album/17ZTVTpJqUfCsk8DdCevD0"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 271093,
-      "name": "Un Angel No Es",
-      "url": "https://open.spotify.com/track/76vjX2eeCQyuFWHAyuo4Lu"
+      "duration_ms": 220120,
+      "name": "Cancion para Ella - Remastered 2021",
+      "url": "https://open.spotify.com/track/3UABn4DBSTTvdyKFZVg9BW"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "9 (Remastered 192 khz)",
-        "url": "https://open.spotify.com/album/17ZTVTpJqUfCsk8DdCevD0"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 220120,
-      "name": "Cancion para Ella - Remastered 2021",
-      "url": "https://open.spotify.com/track/3UABn4DBSTTvdyKFZVg9BW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vita Ce N'\u00e8",
         "url": "https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 191013,
       "name": "Vita Ce N'\u00e8",
       "url": "https://open.spotify.com/track/2I5W8kZfEqNhKspk7Ot6Gb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estilolibre",
+        "url": "https://open.spotify.com/album/2f3T6MTtosgsvOUa4a7PHk"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 278693,
+      "name": "Un Angel No Es",
+      "url": "https://open.spotify.com/track/2dQbR9FMqNdHGsbGErEAuF"
     },
     {
       "added_at": null,

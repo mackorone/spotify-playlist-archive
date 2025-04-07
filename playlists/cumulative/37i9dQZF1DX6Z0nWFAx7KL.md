@@ -4,7 +4,7 @@
 
 > easy breezy dance music
 
-308 songs - 15 hr 14 min
+309 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Dreams](https://open.spotify.com/track/0Zy6JoXzMdjEkLI48x3Fuy) | [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy), [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om) | [Dreams](https://open.spotify.com/album/0hPymjd6bx5kr8UQkRNAQZ) | 3:09 | 2023-06-01 |  |
 | [Drift](https://open.spotify.com/track/1nN4hImiv5VUApR5bnqrvS) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Drift](https://open.spotify.com/album/56C5BBBjgrQrjUIvyLYI4J) | 2:44 | 2022-09-15 | 2024-08-31 |
 | [Drown](https://open.spotify.com/track/7Mff36ABo7BQquS3XRCLCA) | [Scity](https://open.spotify.com/artist/7nXwmKcvxkrvlq6QcxgUSZ) | [Drown](https://open.spotify.com/album/4PfxvIOGvyZomFIclSdPhJ) | 2:45 | 2024-07-26 | 2024-12-13 |
+| [Drown In Your Love](https://open.spotify.com/track/4bY2GvE2w4L4R283b3JbwT) | [Fargro](https://open.spotify.com/artist/0hMNjPwxOmRNtIl2kh16sj), [RVLE](https://open.spotify.com/artist/3NuBjDTnxJ5OHh0Xz3hzxy) | [Drown In Your Love](https://open.spotify.com/album/5pSr0pullqIfBjoIyws2Rl) | 2:04 | 2025-04-03 |  |
 | [Eagle](https://open.spotify.com/track/5Hvj61IXD0Y4MBGossQ2Zk) | [Mats Westbroek](https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA) | [Eagle](https://open.spotify.com/album/4Crz6njLs2cLjs3OTdpzKs) | 3:04 | 2024-02-07 | 2024-12-06 |
 | [Ease My Mind](https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Ease My Mind](https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h) | 3:11 | 2025-03-13 |  |
 | [Easy On Me](https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS) | [Cookie Crumble](https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V) | [Easy On Me](https://open.spotify.com/album/3O73IvF4b98mCzFXAbVUQg) | 2:55 | 2022-09-15 | 2024-08-02 |
@@ -287,7 +288,7 @@
 | [Together](https://open.spotify.com/track/50FC8Y5QFcRA8VtI2qiGDV) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Momentum](https://open.spotify.com/album/2h0Dp9MCVUU0Vp8wyHAMt8) | 2:22 | 2024-11-14 |  |
 | [Together](https://open.spotify.com/track/1f1DsFJHpMugn3zuRACUos) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Together](https://open.spotify.com/album/68kXIO39vMHYsJ0OcMa6mx) | 3:44 | 2022-09-15 | 2022-09-30 |
 | [Tomorrow Never Comes](https://open.spotify.com/track/6zAyDlVfft6Ghu2ddj0Mbh) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Tomorrow Never Comes](https://open.spotify.com/album/0c28IqwIVfV0gRpZOltI17) | 2:57 | 2023-03-02 | 2024-09-20 |
-| [Touch The Sun](https://open.spotify.com/track/249rJJaqaJQZj2OgxgkyAJ) | [Wontu](https://open.spotify.com/artist/2AgZ1BzHABUD9ZbuyI4aEb), [Woodworks](https://open.spotify.com/artist/52dU9TOW9QU33Cky6EV62Z) | [Touch The Sun](https://open.spotify.com/album/0gsRhITzyVtDhNN49igts8) | 2:25 | 2024-09-19 |  |
+| [Touch The Sun](https://open.spotify.com/track/249rJJaqaJQZj2OgxgkyAJ) | [Wontu](https://open.spotify.com/artist/2AgZ1BzHABUD9ZbuyI4aEb), [Woodworks](https://open.spotify.com/artist/52dU9TOW9QU33Cky6EV62Z) | [Touch The Sun](https://open.spotify.com/album/0gsRhITzyVtDhNN49igts8) | 2:25 | 2024-09-19 | 2025-04-07 |
 | [Toxic](https://open.spotify.com/track/15DlPYUnP84cvA4zC2zMDa) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L) | [Toxic](https://open.spotify.com/album/2pcgvMdOZHUHVWT5JAC6gA) | 3:17 | 2022-09-29 | 2022-11-18 |
 | [Turning Blind](https://open.spotify.com/track/1mPqkPH49x4jSGa4pIvqvr) | [Bondi](https://open.spotify.com/artist/0ZPxafqcgMv07OtNWFapKk), [Jacob Drescher](https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv) | [Turning Blind](https://open.spotify.com/album/4e39VrmCqVtP0N4jGocQl7) | 5:38 | 2024-07-26 | 2024-12-13 |
 | [Underwater](https://open.spotify.com/track/1PwlrZradTFeRQg23BUZyv) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV) | [Underwater](https://open.spotify.com/album/1xH1qluXzXDhZFeaIUx5ud) | 3:33 | 2025-03-13 |  |

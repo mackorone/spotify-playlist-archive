@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Boney James
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,780 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,819 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 50 | [Diamond Dress](https://open.spotify.com/track/5ztGtwsntbsMThEzb6xahM) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U) | [Diamond Dress](https://open.spotify.com/album/32YVZO2ZJ7UDJyGJkx4k7N) | 3:57 |
 | 51 | [A Kind Heart \(Radio Edit\)](https://open.spotify.com/track/2T1r2HCWcbqGQumVbypbLO) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [A Kind Heart \(Radio Edit\)](https://open.spotify.com/album/45MukUOa8AzLy9mmMWQEcW) | 3:51 |
 | 52 | [First Class \(Radio Mix\)](https://open.spotify.com/track/2oExUGAS5aBhsZw2eRicwq) | [U\-Nam](https://open.spotify.com/artist/2zZfDVGDSqHQTeITZzJRqs) | [First Class \- Radio Single](https://open.spotify.com/album/5HdhCtgwEmctR0Dp5AbXkw) | 3:40 |
-| 53 | [Brisa Del Mar \(Radio Edit\)](https://open.spotify.com/track/3Sc0gxmKAs6WoVtuGZqts6) | [The Smooth Jazz Alley](https://open.spotify.com/artist/3rpiTLuutXBtuveSbsmpkJ) | [Brisa Del Mar \(Radio Edit\)](https://open.spotify.com/album/4HBgBRxqBUFKV3lT9eHPyK) | 4:26 |
+| 53 | [Brisa Del Mar \(Radio Edit\)](https://open.spotify.com/track/3Sc0gxmKAs6WoVtuGZqts6) | [Smooth Jazz Alley](https://open.spotify.com/artist/3rpiTLuutXBtuveSbsmpkJ) | [Brisa Del Mar \(Radio Edit\)](https://open.spotify.com/album/4HBgBRxqBUFKV3lT9eHPyK) | 4:26 |
 | 54 | [Ocean Breeze](https://open.spotify.com/track/4Le65jSJtaXIPNDG9RE5wK) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [Ocean Breeze](https://open.spotify.com/album/2nE1n1tx0levn1VJmS7VMe) | 4:12 |
 | 55 | [Glow](https://open.spotify.com/track/0SqKAPOW90ZlQEkZUINTB7) | [Ilya Serov](https://open.spotify.com/artist/1iffcHDU0oWJvEXhufA71G) | [Glow](https://open.spotify.com/album/5Dywi2jSnHLfrx8TO08RqW) | 4:18 |
 | 56 | [Absolutely!](https://open.spotify.com/track/1HNnwy8YxzS3lQo062OJ0n) | [Ben Tankard](https://open.spotify.com/artist/60nfj9O2pKtlqIPfxp3FEg), [Kyle Schroeder](https://open.spotify.com/artist/0bMyCP9f8RvsY6Oe8LkiRC) | [Absolutely!](https://open.spotify.com/album/3hMTyoSx31EbQ5TKx883f5) | 3:42 |

@@ -1,6 +1,6 @@
 {
   "description": "Songs to make you run, not walk, to the dancefloor",
-  "num_followers": 151569,
+  "num_followers": 151654,
   "original_name": "Espresso Martini",
   "owner": {
     "name": "Spotify",
@@ -500,24 +500,16 @@
       },
       "artists": [
         {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
           "name": "Pharrell Williams",
           "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         },
         {
           "name": "Nile Rodgers",
           "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        },
-        {
-          "name": "Thomas Bangalter",
-          "url": "https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi"
-        },
-        {
-          "name": "Guy-Manuel de Homem-Christo",
-          "url": "https://open.spotify.com/artist/2NvZ35VexRu6LmfVlArMPq"
-        },
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
         }
       ],
       "duration_ms": 248413,

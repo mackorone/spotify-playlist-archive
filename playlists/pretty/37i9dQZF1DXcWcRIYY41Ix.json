@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: GUADA.",
-  "num_followers": 128846,
+  "num_followers": 128854,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2025-03-28 03:00:14",
       "album": {
+        "name": "la corriente",
+        "url": "https://open.spotify.com/album/2KgE1HMACwm7Q0L0KmwrR5"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 175642,
+      "name": "la corriente",
+      "url": "https://open.spotify.com/track/0ba2ivMbQf3VC62yseBbRO"
+    },
+    {
+      "added_at": "2025-03-28 03:00:14",
+      "album": {
         "name": "No supe verme",
         "url": "https://open.spotify.com/album/5UklZCjxd3FybV0D7Dmyda"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 211459,
       "name": "No supe verme",
       "url": "https://open.spotify.com/track/27E8QSVZ1u1IM7L7Va6GO1"
-    },
-    {
-      "added_at": "2025-03-28 03:00:14",
-      "album": {
-        "name": "TANDA",
-        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 240904,
-      "name": "Como Viene Se Va",
-      "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
     },
     {
       "added_at": "2025-03-28 03:00:14",
@@ -247,18 +247,18 @@
     {
       "added_at": "2025-03-28 03:00:14",
       "album": {
-        "name": "la corriente",
-        "url": "https://open.spotify.com/album/2KgE1HMACwm7Q0L0KmwrR5"
+        "name": "TANDA",
+        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
       },
       "artists": [
         {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
         }
       ],
-      "duration_ms": 175642,
-      "name": "la corriente",
-      "url": "https://open.spotify.com/track/0ba2ivMbQf3VC62yseBbRO"
+      "duration_ms": 240904,
+      "name": "Como Viene Se Va",
+      "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
     },
     {
       "added_at": "2025-03-28 03:00:14",
@@ -775,18 +775,22 @@
     {
       "added_at": "2025-03-28 03:00:14",
       "album": {
-        "name": "Me mudo de casa",
-        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
+        "name": "Te Espero Ac\u00e1",
+        "url": "https://open.spotify.com/album/6YbmT9jeswfplJXhXglA4V"
       },
       "artists": [
         {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+          "name": "Mateo Bello",
+          "url": "https://open.spotify.com/artist/47jnmV5l8x5UZtsifCJAaU"
+        },
+        {
+          "name": "TERE!",
+          "url": "https://open.spotify.com/artist/1XFRJsXT3y66uR2YlMMjlT"
         }
       ],
-      "duration_ms": 244636,
-      "name": "Me mudo de casa",
-      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
+      "duration_ms": 224000,
+      "name": "Te Espero Ac\u00e1",
+      "url": "https://open.spotify.com/track/2JTXZrTfvtcaKyRwDjhtZN"
     },
     {
       "added_at": "2025-03-28 03:00:14",
@@ -811,6 +815,22 @@
     {
       "added_at": "2025-03-28 03:00:14",
       "album": {
+        "name": "Me mudo de casa",
+        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "duration_ms": 244636,
+      "name": "Me mudo de casa",
+      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
+    },
+    {
+      "added_at": "2025-03-28 03:00:14",
+      "album": {
         "name": "Vig\u00edlia",
         "url": "https://open.spotify.com/album/0kEz72TCwSQkox8LYEs613"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 182360,
       "name": "Roja i espessa",
       "url": "https://open.spotify.com/track/5ardt9jFPHkJX8rLo7Nsdk"
-    },
-    {
-      "added_at": "2025-03-28 03:00:14",
-      "album": {
-        "name": "Te Espero Ac\u00e1",
-        "url": "https://open.spotify.com/album/6YbmT9jeswfplJXhXglA4V"
-      },
-      "artists": [
-        {
-          "name": "Mateo Bello",
-          "url": "https://open.spotify.com/artist/47jnmV5l8x5UZtsifCJAaU"
-        },
-        {
-          "name": "TERE!",
-          "url": "https://open.spotify.com/artist/1XFRJsXT3y66uR2YlMMjlT"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Te Espero Ac\u00e1",
-      "url": "https://open.spotify.com/track/2JTXZrTfvtcaKyRwDjhtZN"
     },
     {
       "added_at": "2025-03-28 03:00:14",
@@ -943,26 +943,6 @@
     {
       "added_at": "2025-03-28 03:00:14",
       "album": {
-        "name": "Tinc una sort",
-        "url": "https://open.spotify.com/album/6oYyGPYH9YHz7OE9G6aRYm"
-      },
-      "artists": [
-        {
-          "name": "Aleix Triad\u00f3",
-          "url": "https://open.spotify.com/artist/6YaYNz8cKOJRisbaCzjcJE"
-        },
-        {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
-        }
-      ],
-      "duration_ms": 146333,
-      "name": "Tinc una sort",
-      "url": "https://open.spotify.com/track/5dj3bJhcCxa5903Jno8gMq"
-    },
-    {
-      "added_at": "2025-03-28 03:00:14",
-      "album": {
         "name": "Tan solo una se\u00f1al",
         "url": "https://open.spotify.com/album/4PTOkZH8IEFd3Jo4nGsSNr"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 218106,
       "name": "Tan solo una se\u00f1al",
       "url": "https://open.spotify.com/track/7vjeDyZ2oYSbOsIx7ogBbv"
+    },
+    {
+      "added_at": "2025-03-28 03:00:14",
+      "album": {
+        "name": "Tinc una sort",
+        "url": "https://open.spotify.com/album/6oYyGPYH9YHz7OE9G6aRYm"
+      },
+      "artists": [
+        {
+          "name": "Aleix Triad\u00f3",
+          "url": "https://open.spotify.com/artist/6YaYNz8cKOJRisbaCzjcJE"
+        },
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        }
+      ],
+      "duration_ms": 146333,
+      "name": "Tinc una sort",
+      "url": "https://open.spotify.com/track/5dj3bJhcCxa5903Jno8gMq"
     },
     {
       "added_at": "2025-03-28 03:00:14",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-03-28 03:00:14",
       "album": {
-        "name": "Agua Bendita",
-        "url": "https://open.spotify.com/album/1YHNITXwZzVsP5u7dVbxB0"
-      },
-      "artists": [
-        {
-          "name": "Marilia Monz\u00f3n",
-          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
-        }
-      ],
-      "duration_ms": 167967,
-      "name": "Agua Bendita",
-      "url": "https://open.spotify.com/track/6Ss1caRfflUVDIdcFCMCkN"
-    },
-    {
-      "added_at": "2025-03-28 03:00:14",
-      "album": {
         "name": "Fins a maig no revisc",
         "url": "https://open.spotify.com/album/0nfAMwME4AZNOSaYuBVdWu"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 167513,
       "name": "Terra banyada",
       "url": "https://open.spotify.com/track/5z1r7JONnKjiZiJEHpaRVg"
+    },
+    {
+      "added_at": "2025-03-28 03:00:14",
+      "album": {
+        "name": "Agua Bendita",
+        "url": "https://open.spotify.com/album/1YHNITXwZzVsP5u7dVbxB0"
+      },
+      "artists": [
+        {
+          "name": "Marilia Monz\u00f3n",
+          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
+        }
+      ],
+      "duration_ms": 167967,
+      "name": "Agua Bendita",
+      "url": "https://open.spotify.com/track/6Ss1caRfflUVDIdcFCMCkN"
     },
     {
       "added_at": "2025-03-28 03:00:14",
@@ -1279,22 +1279,22 @@
     {
       "added_at": "2025-03-28 03:00:14",
       "album": {
-        "name": "A la deriva",
-        "url": "https://open.spotify.com/album/63EtKfnVExFTiSWXiXgC5e"
+        "name": "Deshielo",
+        "url": "https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ"
       },
       "artists": [
         {
-          "name": "Pablo Joaqu\u00edn",
-          "url": "https://open.spotify.com/artist/2tMIvv0GPX0DMYzV4hEpBG"
+          "name": "Mar\u00eda Ruiz",
+          "url": "https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI"
         },
         {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+          "name": "Chambao",
+          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
         }
       ],
-      "duration_ms": 186597,
-      "name": "A la deriva",
-      "url": "https://open.spotify.com/track/51Ja3NyA8qg70aMCFjZU2B"
+      "duration_ms": 221712,
+      "name": "Oye mi Voz",
+      "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
     },
     {
       "added_at": "2025-03-28 03:00:14",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2025-03-28 03:00:14",
       "album": {
+        "name": "A la deriva",
+        "url": "https://open.spotify.com/album/63EtKfnVExFTiSWXiXgC5e"
+      },
+      "artists": [
+        {
+          "name": "Pablo Joaqu\u00edn",
+          "url": "https://open.spotify.com/artist/2tMIvv0GPX0DMYzV4hEpBG"
+        },
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 186597,
+      "name": "A la deriva",
+      "url": "https://open.spotify.com/track/51Ja3NyA8qg70aMCFjZU2B"
+    },
+    {
+      "added_at": "2025-03-28 03:00:14",
+      "album": {
         "name": "Y YA NADA",
         "url": "https://open.spotify.com/album/4bMMiMiAK4jAkiSIg36hcJ"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 234144,
       "name": "Y YA NADA",
       "url": "https://open.spotify.com/track/3IBYBGzIvrLj8mdJBDXKFr"
-    },
-    {
-      "added_at": "2025-03-28 03:00:14",
-      "album": {
-        "name": "Deshielo",
-        "url": "https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Ruiz",
-          "url": "https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI"
-        },
-        {
-          "name": "Chambao",
-          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
-        }
-      ],
-      "duration_ms": 221712,
-      "name": "Oye mi Voz",
-      "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
     },
     {
       "added_at": "2025-03-28 03:00:14",
@@ -1403,6 +1403,26 @@
     {
       "added_at": "2025-03-28 03:00:14",
       "album": {
+        "name": "Continuar",
+        "url": "https://open.spotify.com/album/5SBfVpckwITuqJI6PKRfxL"
+      },
+      "artists": [
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        },
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        }
+      ],
+      "duration_ms": 157928,
+      "name": "Continuar",
+      "url": "https://open.spotify.com/track/18PTMhSPFPlHl1aY1vUqjL"
+    },
+    {
+      "added_at": "2025-03-28 03:00:14",
+      "album": {
         "name": "Casida de la Rosa",
         "url": "https://open.spotify.com/album/0qrGsG3sUTVCgYtNQI8LHI"
       },
@@ -1435,22 +1455,6 @@
     {
       "added_at": "2025-03-28 03:00:14",
       "album": {
-        "name": "HAZ LO TUYO",
-        "url": "https://open.spotify.com/album/6VE5UqcuVG0PacWRntOXTZ"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Yfeu",
-          "url": "https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "nada es para siempre (As\u00ed)",
-      "url": "https://open.spotify.com/track/7fgj71d0CvNdo8hB5Yl4oB"
-    },
-    {
-      "added_at": "2025-03-28 03:00:14",
-      "album": {
         "name": "Cerca cerca",
         "url": "https://open.spotify.com/album/1TGAQzVDCs2Nye6JYVZPtf"
       },
@@ -1463,26 +1467,6 @@
       "duration_ms": 189605,
       "name": "Cerca cerca",
       "url": "https://open.spotify.com/track/6YL7Z4OWDp8OxZyQn16Jgr"
-    },
-    {
-      "added_at": "2025-03-28 03:00:14",
-      "album": {
-        "name": "Continuar",
-        "url": "https://open.spotify.com/album/5SBfVpckwITuqJI6PKRfxL"
-      },
-      "artists": [
-        {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
-        },
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        }
-      ],
-      "duration_ms": 157928,
-      "name": "Continuar",
-      "url": "https://open.spotify.com/track/18PTMhSPFPlHl1aY1vUqjL"
     },
     {
       "added_at": "2025-03-28 03:00:14",
@@ -1503,6 +1487,22 @@
       "duration_ms": 195024,
       "name": "Due\u00f1a",
       "url": "https://open.spotify.com/track/4rqgkVxIgfYVnCtaQNdN0o"
+    },
+    {
+      "added_at": "2025-03-28 03:00:14",
+      "album": {
+        "name": "HAZ LO TUYO",
+        "url": "https://open.spotify.com/album/6VE5UqcuVG0PacWRntOXTZ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Yfeu",
+          "url": "https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "nada es para siempre (As\u00ed)",
+      "url": "https://open.spotify.com/track/7fgj71d0CvNdo8hB5Yl4oB"
     },
     {
       "added_at": "2025-03-28 03:00:14",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-03-28 03:00:14",
       "album": {
-        "name": "ENCORE",
-        "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
-      },
-      "artists": [
-        {
-          "name": "Carmen Boza",
-          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
-        }
-      ],
-      "duration_ms": 252668,
-      "name": "REMOLINO",
-      "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
-    },
-    {
-      "added_at": "2025-03-28 03:00:14",
-      "album": {
         "name": "As vidas caladas",
         "url": "https://open.spotify.com/album/13khQGThr8cw5jaKqlIipO"
       },
@@ -1659,6 +1643,38 @@
       "duration_ms": 212698,
       "name": "As vidas caladas",
       "url": "https://open.spotify.com/track/4Efc5WGKeeEVruEsTq36r2"
+    },
+    {
+      "added_at": "2025-03-28 03:00:14",
+      "album": {
+        "name": "ENCORE",
+        "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
+      },
+      "artists": [
+        {
+          "name": "Carmen Boza",
+          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
+        }
+      ],
+      "duration_ms": 252668,
+      "name": "REMOLINO",
+      "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
+    },
+    {
+      "added_at": "2025-03-28 03:00:14",
+      "album": {
+        "name": "Agua Viva",
+        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Errandonea",
+          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
+        }
+      ],
+      "duration_ms": 110762,
+      "name": "Iuju",
+      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
     },
     {
       "added_at": "2025-03-28 03:00:14",
@@ -1695,22 +1711,6 @@
     {
       "added_at": "2025-03-28 03:00:14",
       "album": {
-        "name": "Agua Viva",
-        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
-      },
-      "artists": [
-        {
-          "name": "In\u00e9s Errandonea",
-          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
-        }
-      ],
-      "duration_ms": 110762,
-      "name": "Iuju",
-      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
-    },
-    {
-      "added_at": "2025-03-28 03:00:14",
-      "album": {
         "name": "Arrullito",
         "url": "https://open.spotify.com/album/4kASZ1hMeBCDM1bE61NQLz"
       },
@@ -1727,6 +1727,22 @@
       "duration_ms": 228271,
       "name": "Arrullito",
       "url": "https://open.spotify.com/track/3UQhsG1P4KM2cueYmYMWRi"
+    },
+    {
+      "added_at": "2025-03-28 03:00:14",
+      "album": {
+        "name": "S\u00edgueme",
+        "url": "https://open.spotify.com/album/3ii6PrA2My1Pz2nnOzmUs9"
+      },
+      "artists": [
+        {
+          "name": "Ove",
+          "url": "https://open.spotify.com/artist/5NtBFd3dVH5mwEtVaA6UCY"
+        }
+      ],
+      "duration_ms": 231642,
+      "name": "S\u00edgueme",
+      "url": "https://open.spotify.com/track/5RQOPW6ktU849iLLxRRMAs"
     },
     {
       "added_at": "2025-03-28 03:00:14",
@@ -1819,22 +1835,6 @@
       "duration_ms": 186181,
       "name": "Lobo",
       "url": "https://open.spotify.com/track/5S7SNJqC03c5D9WgG2Agr6"
-    },
-    {
-      "added_at": "2025-03-28 03:00:14",
-      "album": {
-        "name": "La Fuerza",
-        "url": "https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld"
-      },
-      "artists": [
-        {
-          "name": "Paz Court",
-          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
-        }
-      ],
-      "duration_ms": 240771,
-      "name": "Pajarillo Negro",
-      "url": "https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc"
     }
   ],
   "unique_name": "Cancionistas",

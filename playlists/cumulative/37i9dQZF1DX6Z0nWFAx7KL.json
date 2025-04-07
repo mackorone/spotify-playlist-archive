@@ -1723,6 +1723,28 @@
     },
     {
       "album": {
+        "name": "Drown In Your Love",
+        "url": "https://open.spotify.com/album/5pSr0pullqIfBjoIyws2Rl"
+      },
+      "artists": [
+        {
+          "name": "Fargro",
+          "url": "https://open.spotify.com/artist/0hMNjPwxOmRNtIl2kh16sj"
+        },
+        {
+          "name": "RVLE",
+          "url": "https://open.spotify.com/artist/3NuBjDTnxJ5OHh0Xz3hzxy"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124616,
+      "name": "Drown In Your Love",
+      "url": "https://open.spotify.com/track/4bY2GvE2w4L4R283b3JbwT"
+    },
+    {
+      "album": {
         "name": "Eagle",
         "url": "https://open.spotify.com/album/4Crz6njLs2cLjs3OTdpzKs"
       },
@@ -6046,7 +6068,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-07",
       "duration_ms": 145365,
       "name": "Touch The Sun",
       "url": "https://open.spotify.com/track/249rJJaqaJQZj2OgxgkyAJ"

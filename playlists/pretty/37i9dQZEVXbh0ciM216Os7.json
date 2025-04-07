@@ -6,8 +6,28 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABWNUCeOHHcnwmTBocHOdwj",
+  "snapshot_id": "AAAAAAAAAACyAf8Ao69tNtoX8XVHmXu+",
   "tracks": [
+    {
+      "added_at": "2025-04-04 04:00:00",
+      "album": {
+        "name": "from me to u (feat. Poppy)",
+        "url": "https://open.spotify.com/album/2oxRRkR4Rj2aPCB63NsjZn"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 204526,
+      "name": "from me to u (feat. Poppy)",
+      "url": "https://open.spotify.com/track/6ILVeNgfsOG41ioscRql5P"
+    },
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
@@ -131,22 +151,6 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
-        "name": "NPC",
-        "url": "https://open.spotify.com/album/3huYKWBrjxU3ayUkAQHNuY"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 213586,
-      "name": "NPC",
-      "url": "https://open.spotify.com/track/7dy2aVlNO91laWbvfP8KY6"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
         "name": "Spirit Box",
         "url": "https://open.spotify.com/album/3PJHdTwoBNb0RUSaHd6gFP"
       },
@@ -167,22 +171,18 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
-        "name": "from me to u (feat. Poppy)",
-        "url": "https://open.spotify.com/album/2oxRRkR4Rj2aPCB63NsjZn"
+        "name": "NPC",
+        "url": "https://open.spotify.com/album/3huYKWBrjxU3ayUkAQHNuY"
       },
       "artists": [
         {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        },
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
         }
       ],
-      "duration_ms": 204526,
-      "name": "from me to u (feat. Poppy)",
-      "url": "https://open.spotify.com/track/6ILVeNgfsOG41ioscRql5P"
+      "duration_ms": 213586,
+      "name": "NPC",
+      "url": "https://open.spotify.com/track/7dy2aVlNO91laWbvfP8KY6"
     },
     {
       "added_at": "2025-04-04 04:00:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
-        "name": "Ballad of the Last Payphone",
-        "url": "https://open.spotify.com/album/5sNAzykESrOkQ7kFlRdNs2"
-      },
-      "artists": [
-        {
-          "name": "The New Pornographers",
-          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
-        }
-      ],
-      "duration_ms": 235453,
-      "name": "Ballad of the Last Payphone",
-      "url": "https://open.spotify.com/track/7vyW4yBldhKGnUsPPDSUWV"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
         "name": "Loco (feat. Migos) [Remix]",
         "url": "https://open.spotify.com/album/1B2pHhRl3P87uOq5ZE1n6Q"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 157648,
       "name": "Loco (feat. Migos) - Remix",
       "url": "https://open.spotify.com/track/7CPBtVz4tgocTfTmgrBZ6M"
+    },
+    {
+      "added_at": "2025-04-04 04:00:00",
+      "album": {
+        "name": "Ballad of the Last Payphone",
+        "url": "https://open.spotify.com/album/5sNAzykESrOkQ7kFlRdNs2"
+      },
+      "artists": [
+        {
+          "name": "The New Pornographers",
+          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
+        }
+      ],
+      "duration_ms": 235453,
+      "name": "Ballad of the Last Payphone",
+      "url": "https://open.spotify.com/track/7vyW4yBldhKGnUsPPDSUWV"
     },
     {
       "added_at": "2025-04-04 04:00:00",
@@ -295,6 +295,22 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead (a cappella version)",
+        "url": "https://open.spotify.com/album/2xqTa2dCR54yYHEcttiXyD"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 198320,
+      "name": "twilight zone",
+      "url": "https://open.spotify.com/track/1edcyazKIdKrIuz9cWpXU6"
+    },
+    {
+      "added_at": "2025-04-04 04:00:00",
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 94825,
       "name": "TWIN TRIM (with Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/3surY3LebvLLdJezmiKUBO"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "eternal sunshine deluxe: brighter days ahead (a cappella version)",
-        "url": "https://open.spotify.com/album/2xqTa2dCR54yYHEcttiXyD"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 198320,
-      "name": "twilight zone",
-      "url": "https://open.spotify.com/track/1edcyazKIdKrIuz9cWpXU6"
     },
     {
       "added_at": "2025-04-04 04:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
-        "name": "RDV",
-        "url": "https://open.spotify.com/album/6akYqv2xiUKwSG6mu9AFJm"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        }
-      ],
-      "duration_ms": 205719,
-      "name": "RDV",
-      "url": "https://open.spotify.com/track/1Dg3BWfcM1pE7YPmzMkjET"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
         "name": "Lalala (DJ Premier Remix)",
         "url": "https://open.spotify.com/album/3NjM6SR1pFljxauIy1dnQt"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 161856,
       "name": "Lalala - DJ Premier Remix",
       "url": "https://open.spotify.com/track/61IQ6K43WxTnWfOXmffrGw"
+    },
+    {
+      "added_at": "2025-04-04 04:00:00",
+      "album": {
+        "name": "RDV",
+        "url": "https://open.spotify.com/album/6akYqv2xiUKwSG6mu9AFJm"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "duration_ms": 205719,
+      "name": "RDV",
+      "url": "https://open.spotify.com/track/1Dg3BWfcM1pE7YPmzMkjET"
     },
     {
       "added_at": "2025-04-04 04:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
-        "name": "Vortex (from \"LAZARUS\" Soundtrack)",
-        "url": "https://open.spotify.com/album/6SmmaTkAGqhVtvsgwHSRuX"
-      },
-      "artists": [
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        }
-      ],
-      "duration_ms": 383631,
-      "name": "Vortex (from \"LAZARUS\" Soundtrack)",
-      "url": "https://open.spotify.com/track/70gLTdoX1syfNjvo2pytVy"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
         "name": "Little Death Wishes",
         "url": "https://open.spotify.com/album/6kpOIKEFaI7CNXV0QQUlKZ"
       },
@@ -563,6 +547,42 @@
       "duration_ms": 215871,
       "name": "Girl In Town",
       "url": "https://open.spotify.com/track/0kVJgm9Mqin3WDUTixdDX7"
+    },
+    {
+      "added_at": "2025-04-04 04:00:00",
+      "album": {
+        "name": "Vortex (from \"LAZARUS\" Soundtrack)",
+        "url": "https://open.spotify.com/album/6SmmaTkAGqhVtvsgwHSRuX"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "duration_ms": 383631,
+      "name": "Vortex (from \"LAZARUS\" Soundtrack)",
+      "url": "https://open.spotify.com/track/70gLTdoX1syfNjvo2pytVy"
+    },
+    {
+      "added_at": "2025-04-04 04:00:00",
+      "album": {
+        "name": "Death Hilarious",
+        "url": "https://open.spotify.com/album/3ayehNLPtO03kFwPnkOhgx"
+      },
+      "artists": [
+        {
+          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
+          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
+        },
+        {
+          "name": "El-P",
+          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+        }
+      ],
+      "duration_ms": 223908,
+      "name": "Glib Tongued",
+      "url": "https://open.spotify.com/track/0E2TyBWRAk5YYNKL5YTLjC"
     },
     {
       "added_at": "2025-04-04 04:00:00",
@@ -603,26 +623,6 @@
       "duration_ms": 548480,
       "name": "Dexion (from \"LAZARUS\" Soundtrack)",
       "url": "https://open.spotify.com/track/1S4VJpB3i8k2Y5m1fmgELM"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "Death Hilarious",
-        "url": "https://open.spotify.com/album/3ayehNLPtO03kFwPnkOhgx"
-      },
-      "artists": [
-        {
-          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
-          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
-        },
-        {
-          "name": "El-P",
-          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
-        }
-      ],
-      "duration_ms": 223908,
-      "name": "Glib Tongued",
-      "url": "https://open.spotify.com/track/0E2TyBWRAk5YYNKL5YTLjC"
     },
     {
       "added_at": "2025-04-04 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 50016,
+  "num_followers": 50029,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
@@ -519,18 +519,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "You Never Visit Me",
-        "url": "https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr"
+        "name": "Summer Moon (feat. Kevin Kaarl)",
+        "url": "https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV"
       },
       "artists": [
         {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        },
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 230906,
-      "name": "You Never Visit Me - Single Version",
-      "url": "https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd"
+      "duration_ms": 177673,
+      "name": "Summer Moon (feat. Kevin Kaarl)",
+      "url": "https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -551,6 +555,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "You Never Visit Me",
+        "url": "https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "You Never Visit Me - Single Version",
+      "url": "https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "Us Without Me",
         "url": "https://open.spotify.com/album/7rQcfmaOYzHKmAlyeuwdTt"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 200039,
       "name": "Us Without Me",
       "url": "https://open.spotify.com/track/7fEI29hmaWcCMPi8VJf33C"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
-        "name": "Summer Moon (feat. Kevin Kaarl)",
-        "url": "https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        },
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 177673,
-      "name": "Summer Moon (feat. Kevin Kaarl)",
-      "url": "https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Universe",
-        "url": "https://open.spotify.com/album/1FQFL3StdKqMQctfhN4DR2"
-      },
-      "artists": [
-        {
-          "name": "Ash Minor",
-          "url": "https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG"
-        }
-      ],
-      "duration_ms": 246857,
-      "name": "Universe",
-      "url": "https://open.spotify.com/track/2DXQReXfqOI5nduLGRQQoF"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Find My Way",
         "url": "https://open.spotify.com/album/6NWwBZ308qTBXufqWAboMe"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 222945,
       "name": "Find My Way",
       "url": "https://open.spotify.com/track/3PuprZB2YcBEg8Zg511yvr"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Universe",
+        "url": "https://open.spotify.com/album/1FQFL3StdKqMQctfhN4DR2"
+      },
+      "artists": [
+        {
+          "name": "Ash Minor",
+          "url": "https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG"
+        }
+      ],
+      "duration_ms": 246857,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/2DXQReXfqOI5nduLGRQQoF"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "Fall Like The Rain",
+        "url": "https://open.spotify.com/album/6VFDGYo1TQRAI23mpxFP9Q"
+      },
+      "artists": [
+        {
+          "name": "Ash Minor",
+          "url": "https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "Fall Like The Rain",
+      "url": "https://open.spotify.com/track/6IIcLW1w7vbUFYOic7JNRk"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "you already know [demo_2021].wav",
         "url": "https://open.spotify.com/album/4iXRAGPayHGQyBCfGvG210"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 205354,
       "name": "exodus the north star",
       "url": "https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
-        "name": "Fall Like The Rain",
-        "url": "https://open.spotify.com/album/6VFDGYo1TQRAI23mpxFP9Q"
-      },
-      "artists": [
-        {
-          "name": "Ash Minor",
-          "url": "https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "Fall Like The Rain",
-      "url": "https://open.spotify.com/track/6IIcLW1w7vbUFYOic7JNRk"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "Love's For Fools",
+        "url": "https://open.spotify.com/album/3XMftUyGqfMztGHnxftUl6"
+      },
+      "artists": [
+        {
+          "name": "Ash Minor",
+          "url": "https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG"
+        }
+      ],
+      "duration_ms": 290000,
+      "name": "Love's For Fools",
+      "url": "https://open.spotify.com/track/4GMPhvJowPmhwOGXCVd1JD"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ"
       },
@@ -1167,22 +1183,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "catch the night",
-        "url": "https://open.spotify.com/album/5l2k8k5EZeC1qcRKz0wzIs"
-      },
-      "artists": [
-        {
-          "name": "Kee'ahn",
-          "url": "https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL"
-        }
-      ],
-      "duration_ms": 175595,
-      "name": "catch the night",
-      "url": "https://open.spotify.com/track/1m9yB7P1Ba9cuBEMXPHg3n"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Autumn Girl",
         "url": "https://open.spotify.com/album/7Ii762nNXDDzkMP51jZ8cE"
       },
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Love's For Fools",
-        "url": "https://open.spotify.com/album/3XMftUyGqfMztGHnxftUl6"
+        "name": "catch the night",
+        "url": "https://open.spotify.com/album/5l2k8k5EZeC1qcRKz0wzIs"
       },
       "artists": [
         {
-          "name": "Ash Minor",
-          "url": "https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG"
+          "name": "Kee'ahn",
+          "url": "https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL"
         }
       ],
-      "duration_ms": 290000,
-      "name": "Love's For Fools",
-      "url": "https://open.spotify.com/track/4GMPhvJowPmhwOGXCVd1JD"
+      "duration_ms": 175595,
+      "name": "catch the night",
+      "url": "https://open.spotify.com/track/1m9yB7P1Ba9cuBEMXPHg3n"
     }
   ],
   "unique_name": "Soulful",

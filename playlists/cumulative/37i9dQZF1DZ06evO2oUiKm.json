@@ -761,6 +761,28 @@
     },
     {
       "album": {
+        "name": "Wicked: The Soundtrack (Commentary)",
+        "url": "https://open.spotify.com/album/3SKe78ljCWiaGA2znAmGEs"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88320,
+      "name": "Ozdust Duet (Bonus Track) - Commentary",
+      "url": "https://open.spotify.com/track/58eg6kFZP3JLPoKOGCD6Ln"
+    },
+    {
+      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/4semmJ7mprNnU8m2MfucQc"
       },

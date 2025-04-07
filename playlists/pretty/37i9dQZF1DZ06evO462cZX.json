@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 43282,
+  "num_followers": 43294,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+8hAAAAAAD6xwoscNZnEkMRt6FLWekg",
+  "snapshot_id": "Z/BygAAAAABVG7105UxcB/m6ufIIo7SP",
   "tracks": [
     {
       "added_at": null,
@@ -659,6 +659,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "BAMBOLE - TAAO REMIX",
+        "url": "https://open.spotify.com/album/5myy2cSK0vcmyS8LvhwJN2"
+      },
+      "artists": [
+        {
+          "name": "Vikina",
+          "url": "https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Taao",
+          "url": "https://open.spotify.com/artist/00I4wKx2BvStGK00Y3Kw5k"
+        }
+      ],
+      "duration_ms": 167555,
+      "name": "BAMBOLE - TAAO REMIX",
+      "url": "https://open.spotify.com/track/3MI1U6UFOm2ZH6F9xGqbkr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PINK",
         "url": "https://open.spotify.com/album/07ZVt89JXh0m1h8pCGYQgo"
       },
@@ -807,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Mucha Honra",
-        "url": "https://open.spotify.com/album/1IbcDpHFX8oKYnipXxeZmG"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 194010,
-      "name": "Te Va a Doler - Deorro Remix",
-      "url": "https://open.spotify.com/track/3fGULDOpjc4bmDvTvPrvaP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shakalaka (feat. Max Styler)",
         "url": "https://open.spotify.com/album/7eeEr1m8ULIGEzoYLNh4HY"
       },
@@ -851,6 +855,26 @@
       "duration_ms": 176571,
       "name": "Shakalaka (feat. Max Styler)",
       "url": "https://open.spotify.com/track/6d1fBXY4DRbPPzQTMYN0ap"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Mucha Honra",
+        "url": "https://open.spotify.com/album/1IbcDpHFX8oKYnipXxeZmG"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 194010,
+      "name": "Te Va a Doler - Deorro Remix",
+      "url": "https://open.spotify.com/track/3fGULDOpjc4bmDvTvPrvaP"
     },
     {
       "added_at": null,
@@ -903,26 +927,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BAMBOLE - TAAO REMIX",
-        "url": "https://open.spotify.com/album/5myy2cSK0vcmyS8LvhwJN2"
+        "name": "Descontrol",
+        "url": "https://open.spotify.com/album/0XKw3J3n6t0l2rpvkyIR1J"
       },
       "artists": [
         {
-          "name": "Vikina",
-          "url": "https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE"
+          "name": "El Abelito",
+          "url": "https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9"
         },
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Taao",
-          "url": "https://open.spotify.com/artist/00I4wKx2BvStGK00Y3Kw5k"
         }
       ],
-      "duration_ms": 167555,
-      "name": "BAMBOLE - TAAO REMIX",
-      "url": "https://open.spotify.com/track/3MI1U6UFOm2ZH6F9xGqbkr"
+      "duration_ms": 154761,
+      "name": "Descontrol",
+      "url": "https://open.spotify.com/track/4OqHEI5UzCzBhFMQ8lGTk5"
     },
     {
       "added_at": null,
@@ -947,26 +967,6 @@
       "duration_ms": 238125,
       "name": "When The Funk Drops",
       "url": "https://open.spotify.com/track/6qPCcyAHEEvPp1QDCcMpPn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Descontrol",
-        "url": "https://open.spotify.com/album/0XKw3J3n6t0l2rpvkyIR1J"
-      },
-      "artists": [
-        {
-          "name": "El Abelito",
-          "url": "https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 154761,
-      "name": "Descontrol",
-      "url": "https://open.spotify.com/track/4OqHEI5UzCzBhFMQ8lGTk5"
     },
     {
       "added_at": null,
@@ -1063,26 +1063,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Agradece",
-        "url": "https://open.spotify.com/album/3qOtTVQrOweneiMPwaRme2"
+        "name": "2 Da Floor",
+        "url": "https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L"
       },
       "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         },
         {
-          "name": "The Change",
-          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "J. Cruze",
+          "url": "https://open.spotify.com/artist/4GiK8nFWRB2wXQRmXwHd1V"
         }
       ],
-      "duration_ms": 215963,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/0viGP2KObHj3kYPnUt8OcK"
+      "duration_ms": 185600,
+      "name": "2 Da Floor",
+      "url": "https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb"
     }
   ],
   "unique_name": "This Is Deorro",

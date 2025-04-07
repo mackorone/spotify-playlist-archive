@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 73303,
+  "num_followers": 73414,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2025-04-04 04:46:05",
       "album": {
+        "name": "Pliva",
+        "url": "https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "duration_ms": 244570,
+      "name": "Pliva",
+      "url": "https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk"
+    },
+    {
+      "added_at": "2025-04-04 04:46:05",
+      "album": {
         "name": "Reflection",
         "url": "https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh"
       },
@@ -1431,22 +1451,22 @@
     {
       "added_at": "2025-04-04 04:46:05",
       "album": {
-        "name": "Pliva",
-        "url": "https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh"
+        "name": "PAPI",
+        "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
       },
       "artists": [
         {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
         },
         {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+          "name": "Sam Collins",
+          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
         }
       ],
-      "duration_ms": 244570,
-      "name": "Pliva",
-      "url": "https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk"
+      "duration_ms": 155100,
+      "name": "PAPI",
+      "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
     },
     {
       "added_at": "2025-04-04 04:46:05",
@@ -1467,26 +1487,6 @@
       "duration_ms": 136088,
       "name": "Coroa",
       "url": "https://open.spotify.com/track/7tgVdw3YmgZe2JyFHxpmq3"
-    },
-    {
-      "added_at": "2025-04-04 04:46:05",
-      "album": {
-        "name": "PAPI",
-        "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Sam Collins",
-          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
-        }
-      ],
-      "duration_ms": 155100,
-      "name": "PAPI",
-      "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
     },
     {
       "added_at": "2025-04-04 04:46:05",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-04-04 04:46:05",
       "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
-    },
-    {
-      "added_at": "2025-04-04 04:46:05",
-      "album": {
         "name": "Dame De Eso",
         "url": "https://open.spotify.com/album/4WvuIoyZFw4jLWCUNcQXEy"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 212142,
       "name": "Dale Rollo",
       "url": "https://open.spotify.com/track/7lhmeGlNcF564eSIMy0s3A"
+    },
+    {
+      "added_at": "2025-04-04 04:46:05",
+      "album": {
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
     },
     {
       "added_at": "2025-04-04 04:46:05",
@@ -1699,6 +1699,26 @@
     {
       "added_at": "2025-04-04 04:46:05",
       "album": {
+        "name": "No Sleep (No Me Dejan Dormir)",
+        "url": "https://open.spotify.com/album/2wdqTB5LqyomeohvBYjVaH"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Cato Anaya",
+          "url": "https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec"
+        }
+      ],
+      "duration_ms": 158387,
+      "name": "No Sleep (No Me Dejan Dormir)",
+      "url": "https://open.spotify.com/track/1JwMrp7fkOKHQRimzi8tuL"
+    },
+    {
+      "added_at": "2025-04-04 04:46:05",
+      "album": {
         "name": "Matadora (Radio Edit)",
         "url": "https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV"
       },
@@ -1743,26 +1763,6 @@
       "duration_ms": 137963,
       "name": "La Buena Vida (feat. Tayson Kryss)",
       "url": "https://open.spotify.com/track/0VpQieuQ6vS00yknO16eGy"
-    },
-    {
-      "added_at": "2025-04-04 04:46:05",
-      "album": {
-        "name": "No Sleep (No Me Dejan Dormir)",
-        "url": "https://open.spotify.com/album/2wdqTB5LqyomeohvBYjVaH"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Cato Anaya",
-          "url": "https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec"
-        }
-      ],
-      "duration_ms": 158387,
-      "name": "No Sleep (No Me Dejan Dormir)",
-      "url": "https://open.spotify.com/track/1JwMrp7fkOKHQRimzi8tuL"
     },
     {
       "added_at": "2025-04-04 04:46:05",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2025-04-04 04:46:05",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/0epECTdYNNmR6Sos4cpR7a"
-      },
-      "artists": [
-        {
-          "name": "BADDIES ONLY",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        },
-        {
-          "name": "Morry",
-          "url": "https://open.spotify.com/artist/1CXa8YMTen75u0n1rvtk0u"
-        }
-      ],
-      "duration_ms": 120120,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/5V2PCIRRf5doCDhOkCp7Ke"
-    },
-    {
-      "added_at": "2025-04-04 04:46:05",
-      "album": {
         "name": "OBRIGADO",
         "url": "https://open.spotify.com/album/0EoZk9OPqTPYIPId511MtB"
       },
@@ -1867,26 +1847,22 @@
     {
       "added_at": "2025-04-04 04:46:05",
       "album": {
-        "name": "Pasto Y Perico (feat Jay Vazquez)",
-        "url": "https://open.spotify.com/album/301NeU6R2RZXAN5Q8S5qud"
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/0epECTdYNNmR6Sos4cpR7a"
       },
       "artists": [
         {
-          "name": "TWENTY SIX",
-          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+          "name": "BADDIES ONLY",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
         },
         {
-          "name": "Hotel Dieu",
-          "url": "https://open.spotify.com/artist/3QDq76AYkHaotSMANOG1W9"
-        },
-        {
-          "name": "Jay V\u00e1zquez",
-          "url": "https://open.spotify.com/artist/65it9QYg2Trf2APW4GjpQj"
+          "name": "Morry",
+          "url": "https://open.spotify.com/artist/1CXa8YMTen75u0n1rvtk0u"
         }
       ],
-      "duration_ms": 167441,
-      "name": "Pasto Y Perico",
-      "url": "https://open.spotify.com/track/1JtqmmPyjuSS6mgYDuvtP9"
+      "duration_ms": 120120,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/5V2PCIRRf5doCDhOkCp7Ke"
     },
     {
       "added_at": "2025-04-04 04:46:05",
@@ -1915,6 +1891,46 @@
     {
       "added_at": "2025-04-04 04:46:05",
       "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/1MDjMf33C7YxU456xDgbcy"
+      },
+      "artists": [
+        {
+          "name": "Juos",
+          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
+        }
+      ],
+      "duration_ms": 163124,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/3CH1bhe5w2yu2BtVrKDJ13"
+    },
+    {
+      "added_at": "2025-04-04 04:46:05",
+      "album": {
+        "name": "Pasto Y Perico (feat Jay Vazquez)",
+        "url": "https://open.spotify.com/album/301NeU6R2RZXAN5Q8S5qud"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Hotel Dieu",
+          "url": "https://open.spotify.com/artist/3QDq76AYkHaotSMANOG1W9"
+        },
+        {
+          "name": "Jay V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/65it9QYg2Trf2APW4GjpQj"
+        }
+      ],
+      "duration_ms": 167441,
+      "name": "Pasto Y Perico",
+      "url": "https://open.spotify.com/track/1JtqmmPyjuSS6mgYDuvtP9"
+    },
+    {
+      "added_at": "2025-04-04 04:46:05",
+      "album": {
         "name": "Al Ritmo",
         "url": "https://open.spotify.com/album/3RGDu7Pxih1KKGsdXJGQsY"
       },
@@ -1931,22 +1947,6 @@
       "duration_ms": 199838,
       "name": "Al Ritmo",
       "url": "https://open.spotify.com/track/6SCzCASlPjjoMifPZlxfpL"
-    },
-    {
-      "added_at": "2025-04-04 04:46:05",
-      "album": {
-        "name": "Down",
-        "url": "https://open.spotify.com/album/1MDjMf33C7YxU456xDgbcy"
-      },
-      "artists": [
-        {
-          "name": "Juos",
-          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
-        }
-      ],
-      "duration_ms": 163124,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/3CH1bhe5w2yu2BtVrKDJ13"
     },
     {
       "added_at": "2025-04-04 04:46:05",
@@ -2007,30 +2007,26 @@
     {
       "added_at": "2025-04-04 04:46:05",
       "album": {
-        "name": "Arrebatao",
-        "url": "https://open.spotify.com/album/4AHUp3FsMi7XQqiYQJz4e8"
+        "name": "Dame Mas",
+        "url": "https://open.spotify.com/album/1F5d2cfWJjOYIiDnxtmm2B"
       },
       "artists": [
         {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+          "name": "BADDIES ONLY",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
         },
         {
-          "name": "Sebastian Ledher",
-          "url": "https://open.spotify.com/artist/6KUSLPXO8e94sZWVksv4nn"
+          "name": "CAVALLI",
+          "url": "https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4"
         },
         {
-          "name": "Joseph Ren",
-          "url": "https://open.spotify.com/artist/0TG7p0ATDDBfhBjl9EBvIb"
-        },
-        {
-          "name": "Tayson Kryss",
-          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+          "name": "Mathieu Ruz",
+          "url": "https://open.spotify.com/artist/3ZGI3NmbFQIhEDMiYekU08"
         }
       ],
-      "duration_ms": 167611,
-      "name": "Arrebatao (feat. Tayson Kryss)",
-      "url": "https://open.spotify.com/track/4X98vdZ7WXOCFyzC05PPOv"
+      "duration_ms": 185476,
+      "name": "Dame Mas",
+      "url": "https://open.spotify.com/track/5lCS7wZgRyCvJia3VSAvpu"
     }
   ],
   "unique_name": "Latin House",

@@ -7031,6 +7031,24 @@
     },
     {
       "album": {
+        "name": "I CAN FLY",
+        "url": "https://open.spotify.com/album/097wSxyqz0IQAlpLaCRBe7"
+      },
+      "artists": [
+        {
+          "name": "Pasha Technique",
+          "url": "https://open.spotify.com/artist/0xbf4eZw8nrLPsPaQ1D59d"
+        }
+      ],
+      "date_added": "2025-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157142,
+      "name": "I CAN FLY",
+      "url": "https://open.spotify.com/track/0KS1GD8e5TWctYRJbAXZRC"
+    },
+    {
+      "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
         "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
       },
@@ -9870,7 +9888,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-06",
+      "date_removed": null,
       "duration_ms": 98192,
       "name": "MONTAGEM GREEN RENITCH V1",
       "url": "https://open.spotify.com/track/6c3S8RrE30QQKG8TqwIAMG"
@@ -11596,10 +11614,28 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-07",
       "duration_ms": 139357,
       "name": "Party Girl",
       "url": "https://open.spotify.com/track/7kGxq205bhv50mEdpx37FX"
+    },
+    {
+      "album": {
+        "name": "It's Not You, It's Me",
+        "url": "https://open.spotify.com/album/3GxgZAbZTbFfGtyg5c1oLh"
+      },
+      "artists": [
+        {
+          "name": "Kee Nola",
+          "url": "https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER"
+        }
+      ],
+      "date_added": "2025-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139412,
+      "name": "Party Girl",
+      "url": "https://open.spotify.com/track/3mMAh850QRGEZSVw6E0P9f"
     },
     {
       "album": {
@@ -13072,7 +13108,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-07",
       "duration_ms": 164398,
       "name": "Seoul City",
       "url": "https://open.spotify.com/track/4zUob9iYFS9TgAR0hgo5pR"
@@ -18281,6 +18317,24 @@
     },
     {
       "album": {
+        "name": "\u041e\u0441\u043d\u043e\u0432\u0430",
+        "url": "https://open.spotify.com/album/0hoxrS6LsBNW5bdVDCdpYh"
+      },
+      "artists": [
+        {
+          "name": "Kunteynir",
+          "url": "https://open.spotify.com/artist/2r1BEyXsFh0XyxAueAUqmy"
+        }
+      ],
+      "date_added": "2025-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281226,
+      "name": "\u0412 \u0430\u043a\u0432\u0430\u043f\u0430\u0440\u043a\u0435",
+      "url": "https://open.spotify.com/track/0oX6ucsx4KrgOXUC5hivFi"
+    },
+    {
+      "album": {
         "name": "\u0412 \u0437\u0434\u0430\u043d\u0438\u0438",
         "url": "https://open.spotify.com/album/24O6uLnfpA1DzvxBUafb83"
       },
@@ -18652,7 +18706,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-07",
       "duration_ms": 152884,
       "name": "\u0412\u0438\u043d\u043e\u0432\u0430\u0442",
       "url": "https://open.spotify.com/track/3LP3dBDhUFAcn0SiUraxtu"
@@ -20018,7 +20072,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-07",
       "duration_ms": 144000,
       "name": "\u0414\u044b\u0448\u0443",
       "url": "https://open.spotify.com/track/6rdv7fal1fOLRLU5W5Ppbn"
@@ -20200,6 +20254,28 @@
       "duration_ms": 133894,
       "name": "\u0437\u0430\u0432\u044f\u0436\u0438 \u043c\u043d\u0435 \u0433\u043b\u0430\u0437\u0430",
       "url": "https://open.spotify.com/track/5sMooLbNF0JWdQtJQKQyQq"
+    },
+    {
+      "album": {
+        "name": "\u0412 \u043a\u0440\u043e\u0432\u0438",
+        "url": "https://open.spotify.com/album/3NydqxPM79J9Q1X2xl5iQl"
+      },
+      "artists": [
+        {
+          "name": "Pasha Technique",
+          "url": "https://open.spotify.com/artist/0xbf4eZw8nrLPsPaQ1D59d"
+        },
+        {
+          "name": "LuckyProduction",
+          "url": "https://open.spotify.com/artist/6UYYp9D956Ut4UCmkLbWjK"
+        }
+      ],
+      "date_added": "2025-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134147,
+      "name": "\u0417\u0430\u0435\u0431\u0438\u0441\u044c",
+      "url": "https://open.spotify.com/track/7fi3Iails9ClXRM1srlE6L"
     },
     {
       "album": {
@@ -20418,7 +20494,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-17",
+      "date_removed": null,
       "duration_ms": 79562,
       "name": "\u0438\u0433\u0440\u043e\u043a",
       "url": "https://open.spotify.com/track/75E6UvfTp7zJ91VhUTE8lk"
@@ -20676,7 +20752,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-26",
+      "date_removed": null,
       "duration_ms": 207692,
       "name": "\u041a\u0430\u0440\u0444\u0430\u0433\u0435\u043d",
       "url": "https://open.spotify.com/track/2E3AjDjfiXJgK8xbjIA2QO"
@@ -20868,7 +20944,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-07",
       "duration_ms": 207000,
       "name": "\u041a\u043e\u043b\u044b\u0431\u0435\u043b\u044c\u043d\u0430\u044f \u041d\u0430\u0442\u0430\u0448\u0438 - \u0418\u0437 \u0444\u0438\u043b\u044c\u043c\u0430 \u00ab\u041f\u0440\u043e\u0440\u043e\u043a. \u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u041f\u0443\u0448\u043a\u0438\u043d\u0430\u00bb",
       "url": "https://open.spotify.com/track/65VosCeX59ncL9m7sBiMZi"
@@ -21358,7 +21434,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-07",
       "duration_ms": 240093,
       "name": "\u041b\u0438\u0441\u0442\u0456\u0432\u043a\u0438",
       "url": "https://open.spotify.com/track/1tNqb1rI59w1VUefRTsTmt"
@@ -22298,7 +22374,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-07",
       "duration_ms": 266520,
       "name": "\u041d\u0435 \u0432\u0441\u0435 \u0434\u043e\u043c\u0430",
       "url": "https://open.spotify.com/track/53DzsowXO9Q6mbY9hE2B6f"
@@ -24778,7 +24854,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-07",
       "duration_ms": 176409,
       "name": "\u041f\u0440\u043e\u0442\u0438\u0432 \u0446\u0430\u0440\u044f",
       "url": "https://open.spotify.com/track/0DvM6OhAMflNe8RqtPpnie"
@@ -25348,7 +25424,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-07",
       "duration_ms": 150769,
       "name": "\u0421\u0435\u043b\u0444\u043b\u0430\u0432",
       "url": "https://open.spotify.com/track/70deUhnQDkaLGgTo3hSg1T"
@@ -26474,7 +26550,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-02",
+      "date_removed": null,
       "duration_ms": 160212,
       "name": "\u0442\u0443\u043f\u0430\u044f \u0441\u0443\u043a\u0430",
       "url": "https://open.spotify.com/track/4TZFCd8KlukOhQQu5mDei1"
@@ -27666,6 +27742,24 @@
       "duration_ms": 193750,
       "name": "\u0427\u0443\u043c\u0430\u0447\u0435\u0447\u0430\u044f \u0432\u0435\u0441\u043d\u0430",
       "url": "https://open.spotify.com/track/2QnwsJpx1fkRts6etIgisp"
+    },
+    {
+      "album": {
+        "name": "\u041e\u0441\u043d\u043e\u0432\u0430",
+        "url": "https://open.spotify.com/album/0hoxrS6LsBNW5bdVDCdpYh"
+      },
+      "artists": [
+        {
+          "name": "Kunteynir",
+          "url": "https://open.spotify.com/artist/2r1BEyXsFh0XyxAueAUqmy"
+        }
+      ],
+      "date_added": "2025-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329706,
+      "name": "\u0427\u0451\u0440\u043d\u0430\u044f \u0434\u044b\u0440\u0430",
+      "url": "https://open.spotify.com/track/2UzuFnmgegZ1sKE6rqfo3s"
     },
     {
       "album": {

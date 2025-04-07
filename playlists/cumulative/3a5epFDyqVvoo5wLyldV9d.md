@@ -4,7 +4,7 @@
 
 > 
 
-848 songs - 2 day 18 hr 45 min
+849 songs - 2 day 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -797,6 +797,7 @@
 | [Win Terram](https://open.spotify.com/track/21SdDged8mWRNvDnwPzxH1) | [Majid Soula](https://open.spotify.com/artist/3ZSwzyUGtKBQtr1RFmqyiY) | [Chant Amazigh \(Habibi Funk 017\)](https://open.spotify.com/album/3xFJIj1WvMTDEMEGzFAeuW) | 4:07 | 2024-01-09 |  |
 | [Woody's Blue](https://open.spotify.com/track/4paWz4k4HFXrdnmxm1ECYw) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Future](https://open.spotify.com/album/1Fv6H1R3c0qlujTi74i9p9) | 5:04 | 2024-04-11 |  |
 | [Xangô](https://open.spotify.com/track/6UuzGgbN8Ifz5fvL1m2H0f) | [Magalhães e sua Guitarra](https://open.spotify.com/artist/0gbErAnyXCDqoXk9B6VQGH) | [Jambú \- e os míticos sons da amazônia \(Analog Africa No\. 28\)](https://open.spotify.com/album/5wxGNf3jSMNbp1xpmGKg06) | 3:23 | 2021-10-11 |  |
+| [Xica Da Silva](https://open.spotify.com/track/6Hn9ZU7hZKAh1HsYMA26o8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 4:02 | 2025-04-07 |  |
 | [Y...](https://open.spotify.com/track/2BPPkdy7BJ2VQPrZMeaGkN) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:46 | 2022-01-08 |  |
 | [Ya Bismillah](https://open.spotify.com/track/1WYZN7h2By4JKSN3GVQ1J0) | [Mamman Sani](https://open.spotify.com/artist/3AWprtbEToKCq6Xzz0tTX4) | [Taaritt \(1985 \- 1988\)](https://open.spotify.com/album/3tHAN9x4zBr3YXViELwGOO) | 4:21 | 2022-07-04 |  |
 | [Ya Farhe Beek](https://open.spotify.com/track/62hsw3nKkUVLmB9dMVPCda) | [Ahmed Fakroun](https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652) | [Shawara Al Madina](https://open.spotify.com/album/7qL7UP4inAbeSGTtbRPZqG) | 5:23 | 2020-06-25 |  |

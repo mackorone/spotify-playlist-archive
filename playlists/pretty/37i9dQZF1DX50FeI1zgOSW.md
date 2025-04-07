@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Shravan Sridhar
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,775 likes - 54 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,774 likes - 54 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 8 | [Padhe Padhe \(1mm Originals\)](https://open.spotify.com/track/0jMWvP1cdTtvLheCUJSMss) | [Dinesh Chandrasekhar](https://open.spotify.com/artist/1JQFKVPnyx86axpdxADe7K), [Sashank S](https://open.spotify.com/artist/4rv5ShQhoPBKGiuydRLdTH), [Kapa Chaitanya](https://open.spotify.com/artist/0bxFXFHqxa9soCq3lwXEPk) | [Padhe Padhe \(1mm Originals\)](https://open.spotify.com/album/6SsmTthKyQAf2gK214dL4v) | 2:51 |
 | 9 | [Dream Girl](https://open.spotify.com/track/5dlPRbAb026MPXtnTj9DaL) | [Ilamaran](https://open.spotify.com/artist/3xCqQMAX3OhFIT6L4KBq1q), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Ku Karthik](https://open.spotify.com/artist/7L5BLP9ezpFtEOas3AR0Ny) | [Dream Girl](https://open.spotify.com/album/3buuOcGH7pmdMF6Ck0xwOX) | 3:54 |
 | 10 | [Love is in the Air](https://open.spotify.com/track/5D9EkbGjkhJ6lDmwputr7Q) | [Thajmola](https://open.spotify.com/artist/361xEllKxAW0hPs2wEtGzV), [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Love is in the Air](https://open.spotify.com/album/1MzLOn8o3xNWqe8TdIjtT6) | 3:04 |
-| 11 | [En Kaadhal Theadi Odinen](https://open.spotify.com/track/0ozEoFS0MHjI098ZUZkDhU) | [Naveen Chelladurai](https://open.spotify.com/artist/55xjbKMt7Vsw2vTcyfnILB) | [En Kaadhal Theadi Odinen](https://open.spotify.com/album/76EcZzs2v7sB9GyjT0Ix6D) | 4:15 |
+| 11 | [En Kaadhal Thaedi Odinen](https://open.spotify.com/track/0ozEoFS0MHjI098ZUZkDhU) | [Naveen Chelladurai](https://open.spotify.com/artist/55xjbKMt7Vsw2vTcyfnILB) | [En Kaadhal Thaedi Odinen](https://open.spotify.com/album/76EcZzs2v7sB9GyjT0Ix6D) | 4:15 |
 | 12 | [Adiye Paduthadha](https://open.spotify.com/track/0eJfW6OvnpAlU4c7j3Y7Sj) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g), [V2 Vijay Vicky](https://open.spotify.com/artist/7zyTYIiNKFMRW0NlZZAeBF), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma) | [Adiye Paduthadha](https://open.spotify.com/album/0ENQp0ak7FMjhgTWvstp0F) | 3:38 |
 | 13 | [Mazhayila](https://open.spotify.com/track/2Hb77FkwkkNzM3UUPKCOt9) | [$carce](https://open.spotify.com/artist/71LOuajUcL1fBqE6rA1nTc), [Ryan Prakash](https://open.spotify.com/artist/3bUkxt5tJamYjcG4qM0pBp), [NANDHITAXX](https://open.spotify.com/artist/4MLKYLMWvFnrCA8TvuNIO0) | [Mazhayila](https://open.spotify.com/album/55zweKakkL0wXdqg9nKeKg) | 2:33 |
 | 14 | [Empty hand](https://open.spotify.com/track/3njyySsHr7viXEfgxv5v3U) | [Hidden frequencies](https://open.spotify.com/artist/5rAZDoXWpwb5v3pqstP4WB), [Guru Gopalan](https://open.spotify.com/artist/3ZCZd3bpEeDoCczZUBNPYW) | [Empty hand](https://open.spotify.com/album/2IDykOuQ2l1S5knqnGP2Ri) | 3:01 |

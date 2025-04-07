@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Lotusx.
 
-1,951 songs - 4 day 9 hr 24 min
+1,952 songs - 4 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1446,6 +1446,7 @@
 | [Something I Can't Have](https://open.spotify.com/track/6PDiZpqgb1vr2cwShq4wKb) | [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Something I Can't Have](https://open.spotify.com/album/2ADJ24FY84dYOphLYnrZ7i) | 2:32 | 2024-08-02 | 2025-02-09 |
 | [Sometimes](https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Sometimes](https://open.spotify.com/album/1H1vOkQfBS8XXPCN62GG2p) | 2:55 | 2023-10-05 | 2024-03-16 |
 | [Sorry](https://open.spotify.com/track/5qaCnFvjHw3P4qL02pFSlR) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Still Nervous](https://open.spotify.com/album/6PWrD6nfaFP8DEJNCvz9Eh) | 3:02 | 2024-05-31 | 2024-11-01 |
+| [Sorry呢度係香港](https://open.spotify.com/track/1RVoiNHphu8IfIJK8T1b2Q) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [Sorry呢度係香港](https://open.spotify.com/album/5FajEbPVB8XfS5TfpSy5Ui) | 3:26 | 2025-04-04 |  |
 | [sotto casa tua](https://open.spotify.com/track/1IRpiETZQGRNecgAfJOmHe) | [Frada](https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY), [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [sotto casa tua](https://open.spotify.com/album/4kLQ38DsCUQ4RPDwmWweWu) | 2:42 | 2022-06-29 | 2022-08-02 |
 | [SOTTOVUOTO](https://open.spotify.com/track/199Svha19bRqiXZZmjELF6) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [SOTTOVUOTO](https://open.spotify.com/album/4rlD5BCaW8ZybnIcxsrOx1) | 3:23 | 2022-03-24 | 2022-04-17 |
 | [SOUL](https://open.spotify.com/track/6AzLKOoOuDELNmLFW9LUQi) | [Jeune Lion](https://open.spotify.com/artist/4tTvRdLVGAsJyk9lEEx3Xb) | [HIGHLY SPIRITUAL](https://open.spotify.com/album/1CwzOslLfNRXhVX84btF7B) | 2:44 | 2024-04-19 | 2024-08-31 |
@@ -1915,7 +1916,7 @@
 | [猿芝居](https://open.spotify.com/track/3LY9pxrkW6J3TTAL5ZwNuI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [猿芝居](https://open.spotify.com/album/70T4FWkth5x4r4cAfUSxR7) | 2:55 | 2023-12-19 | 2024-05-11 |
 | [現在的事我說不出口](https://open.spotify.com/track/75WtSq52wyMDHjG8lwoSgO) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [現在的事我說不出口](https://open.spotify.com/album/29pXrrKNLjdBp2HjIvKyvZ) | 3:58 | 2023-12-15 | 2024-03-19 |
 | [生活復常](https://open.spotify.com/track/3cMG9t7dzGwcFs4vnU5Xa0) | [Aiden Hung 洪助昇](https://open.spotify.com/artist/7GkuBhIVejk4CThUIuW392) | [生活復常](https://open.spotify.com/album/0kjVZySk9kDsn9nhybF8cL) | 3:49 | 2023-05-30 | 2023-10-06 |
-| [男孩子不要流淚](https://open.spotify.com/track/49JnTU209Y3NCNMzOIdxaB) | [Rover](https://open.spotify.com/artist/7chGhfZr3Es6GiMqJ55bcB) | [男孩子不要流淚](https://open.spotify.com/album/1jOVX6H4BIZaVTDq95b1ML) | 4:39 | 2025-04-04 |  |
+| [男孩子不要流淚](https://open.spotify.com/track/49JnTU209Y3NCNMzOIdxaB) | [Rover](https://open.spotify.com/artist/7chGhfZr3Es6GiMqJ55bcB) | [男孩子不要流淚](https://open.spotify.com/album/1jOVX6H4BIZaVTDq95b1ML) | 4:39 | 2025-04-04 | 2025-04-07 |
 | [皮外傷](https://open.spotify.com/track/67e3Jd8pMdEOGdV7XGUkQQ) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [皮外傷](https://open.spotify.com/album/0DK2EbDRBTkJpFhJWv4yo2) | 3:09 | 2022-03-24 | 2022-04-26 |
 | [相逢實驗](https://open.spotify.com/track/6eblAIsM4cnlGAdxFKJFwY) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [相逢實驗](https://open.spotify.com/album/6lRE98Vlhmr7TzZ4jgc8ay) | 4:05 | 2024-04-19 | 2024-05-18 |
 | [真夏の恋は気まぐれ](https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [真夏の恋は気まぐれ](https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk) | 4:09 | 2022-08-26 | 2023-05-31 |

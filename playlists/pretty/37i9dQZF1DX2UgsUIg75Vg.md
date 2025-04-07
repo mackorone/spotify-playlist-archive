@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b vibes for your most relaxed moods\. Cover: Joe Kay
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,385,509 likes - 176 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,385,619 likes - 176 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

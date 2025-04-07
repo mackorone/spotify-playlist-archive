@@ -4,7 +4,7 @@
 
 > La banda sonora de tu orgullo\. Foto: Juanjo Bona.
 
-173 songs - 8 hr 33 min
+174 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [estonovabien](https://open.spotify.com/track/0BIS2dEAuLOxAyfC1lvzsD) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [estonovabien](https://open.spotify.com/album/3v1KsYYv3bgQJujQqPuDuW) | 2:41 | 2024-07-03 | 2024-08-26 |
 | [FANCY](https://open.spotify.com/track/6treInJPJ9kZ5DAZXpcfDU) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [FANCY](https://open.spotify.com/album/0gh2rvUwM99NWFabo9ELUH) | 2:23 | 2024-10-01 |  |
 | [Fanática](https://open.spotify.com/track/4VRu0FfUGVndeFQyONyW8A) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Fanática](https://open.spotify.com/album/6U0rmYxueHM9qD6kME30Bb) | 2:56 | 2025-04-01 |  |
+| [Fatty Fairy](https://open.spotify.com/track/7yZrh7dzQLjYrGZ4NdDTfN) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN) | [Fatty Fairy](https://open.spotify.com/album/06331uDlz3m9Uliot3gZmb) | 2:27 | 2025-04-01 |  |
 | [Flow deskiciada](https://open.spotify.com/track/40qsscMhIjUNzq1ZwDkTjp) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Flow deskiciada](https://open.spotify.com/album/7emrmUiVMMj5sQ3xt02d0Z) | 2:42 | 2024-12-04 |  |
 | [FOTOMATÓN](https://open.spotify.com/track/4nOYt1P3xyq9LhC8DYCC8T) | [Luna Zuazu](https://open.spotify.com/artist/0aIiiEWwpITfHLl0JPtl0J) | [FOTOMATÓN](https://open.spotify.com/album/5mJTu2hHXeFE8tBNxIuZVA) | 2:43 | 2025-01-07 | 2025-02-05 |
 | [Full time papi](https://open.spotify.com/track/0a8rvYEGeBv8gLCEpRsFcJ) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Full time papi](https://open.spotify.com/album/1Ed3cPiyucgrHAiIohB63I) | 2:47 | 2025-03-04 |  |
@@ -150,7 +151,7 @@
 | [Resaca](https://open.spotify.com/track/0kB41opCLgtqDI4llb9s30) | [Turista Sueca](https://open.spotify.com/artist/7oj5rE2gs45DoAIxkHO3z7), [antimorbo](https://open.spotify.com/artist/4qSSfcyAi4jaUNXl3ayXcS) | [Resaca](https://open.spotify.com/album/4tHNQxQgs1UcncwUI8oiIi) | 3:10 | 2024-06-05 | 2024-08-07 |
 | [Reset](https://open.spotify.com/track/77CM7X0G61viIVZ4Wbfpo8) | [Nancys Rubias](https://open.spotify.com/artist/7DHglFER2ajzSXJvNRwHJl) | [Reset](https://open.spotify.com/album/0Nsp1WVHr59vBYZvns3l8s) | 2:57 | 2025-04-01 |  |
 | [SAHARA](https://open.spotify.com/track/4NuYE4exbvPeJgr4gJiFUS) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [SAHARA](https://open.spotify.com/album/7B5RSeXqwIBWobYh3GRTjk) | 2:26 | 2024-08-06 | 2024-09-04 |
-| [Santuario](https://open.spotify.com/track/416afSQD3NDwt1ffNuq5IY) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [Santuario](https://open.spotify.com/album/2kP3unBy9C84B506t97yAe) | 3:11 | 2025-03-04 |  |
+| [Santuario](https://open.spotify.com/track/416afSQD3NDwt1ffNuq5IY) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [Santuario](https://open.spotify.com/album/2kP3unBy9C84B506t97yAe) | 3:11 | 2025-03-04 | 2025-04-07 |
 | [Sex Tape](https://open.spotify.com/track/7Iku20a8bDT1bMs2JOnaku) | [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Pipo Beatz](https://open.spotify.com/artist/5zDVnUun4YSqFlbGk0W1kZ) | [Sex Tape](https://open.spotify.com/album/4PwLR9s5OokLJnsS9HcZ3t) | 1:58 | 2024-06-05 | 2024-07-04 |
 | [Sexting](https://open.spotify.com/track/4wqbCjNjzs0bJAWogrkfLZ) | [Fimosix](https://open.spotify.com/artist/2PfB8mF3lBnEECfyXgHUgI) | [Sexting](https://open.spotify.com/album/20VPRNHwsq7p9GUZiPSHoy) | 4:32 | 2025-04-01 |  |
 | [Si es contigo si](https://open.spotify.com/track/3e4v184cFsZZdy9gEk9S6f) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Si es contigo si](https://open.spotify.com/album/3GzUwScv8d3UskxWWj6480) | 2:26 | 2024-06-05 | 2024-11-06 |

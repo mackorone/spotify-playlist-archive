@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Obongjayar
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,199 likes - 86 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,193 likes - 86 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

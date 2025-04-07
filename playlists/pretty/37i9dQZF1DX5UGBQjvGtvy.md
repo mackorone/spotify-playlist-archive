@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UGBQjvGtvy.md) - [plain]
 
 > Listen to the soundtracks of Disney+'s original drama Big Bet\. \(디즈니+ 오리지널 드라마 카지노의 사운드 트랙들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,520 likes - 96 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,519 likes - 96 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: ROA
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,978 likes - 125 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,114 likes - 125 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 23 | [Nena Goga \- Remix](https://open.spotify.com/track/0LuvfHu9iZqtgzJG3fgGs9) | [Auleen GT](https://open.spotify.com/artist/6rgxrIX9yETOXVAuPnAd4m), [Young Gang](https://open.spotify.com/artist/4bhocj59UpsFMCoJXehnk0), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Afro Ñery](https://open.spotify.com/artist/4OduSW5ROxy0t8hIQrjaPm), [El Creador](https://open.spotify.com/artist/6MTtp0uIUspswHdGvYvV4u) | [Nena Goga \(Remix\)](https://open.spotify.com/album/1thjrXBrEf4TtnC0EYnuIR) | 4:26 |
 | 24 | [Aguita](https://open.spotify.com/track/4RZvp2LCEIw7H6uDlH5lKc) | [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Harold South](https://open.spotify.com/artist/3nC3ZaOYsKpmgvvPJfmzZI) | [Aguita](https://open.spotify.com/album/0jQj5awMZ9iwKzBsxX56UG) | 3:09 |
 | 25 | [ESO](https://open.spotify.com/track/0qRR1f37KmmQAeu53tSa2a) | [Luis Brown](https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L) | [ESO](https://open.spotify.com/album/2Y7T7rbkePgi2qujIrmuzW) | 2:10 |
-| 26 | [4 Negros \(feat\. El Melly & Dinero En El Beat\)](https://open.spotify.com/track/57h2amMPzXRpLun3hYCt2g) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY), [Fili Wey](https://open.spotify.com/artist/77pCqwW8HaKBjkTHe395eo), [El Melly](https://open.spotify.com/artist/2i7GSjYwOiijK8FSgIYwYk), [Dinero en el Beat](https://open.spotify.com/artist/0eqtb736YfhBNOqTqOxGKZ) | [4 Negros \(feat\. El Melly & Dinero En El Beat\)](https://open.spotify.com/album/7yukEcjtAiO8M4ayhfmvVL) | 4:39 |
+| 26 | [4 Negros \(feat\. Dinero En El Beat\)](https://open.spotify.com/track/57h2amMPzXRpLun3hYCt2g) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY), [Fili Wey](https://open.spotify.com/artist/77pCqwW8HaKBjkTHe395eo), [El Melly](https://open.spotify.com/artist/2i7GSjYwOiijK8FSgIYwYk), [Dinero en el Beat](https://open.spotify.com/artist/0eqtb736YfhBNOqTqOxGKZ) | [4 Negros \(feat\. Dinero En El Beat\)](https://open.spotify.com/album/7yukEcjtAiO8M4ayhfmvVL) | 4:39 |
 | 27 | [Vulgary](https://open.spotify.com/track/2L7a3BKnj6ZhNtbAtXwXRC) | [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Vulgary](https://open.spotify.com/album/66YjPyBQMzuWM7jXNCiswc) | 2:38 |
 | 28 | [2021](https://open.spotify.com/track/4yAPbMMlSmypwzCpfnNKKG) | [STRANGEHUMAN](https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD) | [2021](https://open.spotify.com/album/70lFJqnCUsprGx53iqnAVZ) | 1:59 |
 | 29 | [Al Garete](https://open.spotify.com/track/50oyjEXfZZSTweTAgxAqaD) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b), [Samir Guerrero](https://open.spotify.com/artist/48GvKgVJh2wvVwNy2sfUWU), [Razzer Buccarelli](https://open.spotify.com/artist/3nG7Nk7yEN9VFChtCux2wL), [YIYI](https://open.spotify.com/artist/7AN8elJtTMhsDuKjTZOYKZ) | [Al Garete](https://open.spotify.com/album/26NAXEl4g5h0faeCKpR0rG) | 3:17 |

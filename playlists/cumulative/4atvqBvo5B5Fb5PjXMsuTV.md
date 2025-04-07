@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 06 Apr 03:03 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 06 Apr 18:03 UTC.
 
-4,500 songs - 10 day 9 hr 50 min
+4,503 songs - 10 day 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -660,7 +660,7 @@
 | [Can we talk about Isaac?](https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Can we talk about Isaac?](https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8) | 4:03 | 2025-03-06 | 2025-03-16 |
 | [Can You Feel It?](https://open.spotify.com/track/6qtZfvO7NvBdNWrBNIKhjT) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Can You Feel It?](https://open.spotify.com/album/06DH6jX2ftg2uYpxRKYypi) | 3:04 | 2024-05-31 | 2024-06-04 |
 | [Can't Be Still](https://open.spotify.com/track/38aNl1TpX3wSrl0yqBhvOX) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Can't Be Still](https://open.spotify.com/album/1x8CYRugVpcyD4JEeJtRa0) | 2:58 | 2024-05-02 | 2024-05-04 |
-| [Can't Cancel All Of Us](https://open.spotify.com/track/2oSfCBw6GQM1bGAxVtrN3O) | [Tom MacDonald](https://open.spotify.com/artist/6DvlemMOlMH6VD9tB7BPRf) | [Can't Cancel All Of Us](https://open.spotify.com/album/7J77NVBS7K4yUQg7sj4PqN) | 3:02 | 2025-03-30 |  |
+| [Can't Cancel All Of Us](https://open.spotify.com/track/2oSfCBw6GQM1bGAxVtrN3O) | [Tom MacDonald](https://open.spotify.com/artist/6DvlemMOlMH6VD9tB7BPRf) | [Can't Cancel All Of Us](https://open.spotify.com/album/7J77NVBS7K4yUQg7sj4PqN) | 3:02 | 2025-03-30 | 2025-04-07 |
 | [Can't Come Back](https://open.spotify.com/track/6s4C2WNpnL1YwGaiJl2x3i) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Can't Come Back](https://open.spotify.com/album/1s4XNQH7ueLnRD1egC4d2p) | 2:34 | 2024-04-26 | 2024-04-28 |
 | [Can't Even Hate You](https://open.spotify.com/track/0NEUahGKmsRwHQLN9YeIOL) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Can’t Even Hate You](https://open.spotify.com/album/1t0tUAlK4qQC71NiwwjFOf) | 3:57 | 2024-08-30 | 2024-09-05 |
 | [Can't Hold Me Down](https://open.spotify.com/track/1sGKLpzG59d2aoXT8V2CDw) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Can't Hold Me Down](https://open.spotify.com/album/7ioK2ZwDQF6pvH3E7VpSJn) | 3:45 | 2024-12-06 | 2024-12-10 |
@@ -1579,6 +1579,7 @@
 | [go home](https://open.spotify.com/track/5S4JHubPsfj5x5SmVFQFgA) | [h!tex](https://open.spotify.com/artist/03RNbfo25PLqg0EYLx1XXS) | [go home](https://open.spotify.com/album/7DXfwzyOTrSqAkEFoly4bv) | 2:00 | 2024-09-03 | 2024-09-06 |
 | [Go Richey](https://open.spotify.com/track/5GjbxdqyiXJcorXuZ99tu0) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Go Richey](https://open.spotify.com/album/5WfJuFVSiRCc3TfoR1N2Gx) | 2:39 | 2024-10-04 | 2024-10-09 |
 | [Go Stupid](https://open.spotify.com/track/08cSrWKeWhO6gHL3E3l0c6) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Soltan](https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa) | [Go Stupid](https://open.spotify.com/album/1Ff3Kx4DU8dSoHwRK38yDt) | 2:27 | 2024-09-16 | 2024-09-19 |
+| [GO!](https://open.spotify.com/track/0BQYS5J3L6gohmBZuxJvA4) | [Glorb](https://open.spotify.com/artist/6YeB9qnbI47owfAXWhctih) | [GO!](https://open.spotify.com/album/2oW6pFmbFRSW8NGIRYRXiC) | 1:56 | 2025-04-06 |  |
 | [Go\-Getters](https://open.spotify.com/track/1tAEybqqZ7d58wdgCwB9M9) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [Go\-Getters](https://open.spotify.com/album/7BLZ0IWHj61SqqsEcOEUTa) | 3:15 | 2024-06-27 | 2024-06-29 |
 | [GOAT](https://open.spotify.com/track/2dK8SenYqhYu35cS8fGU7U) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [GOAT](https://open.spotify.com/album/4dvooNiLjhspaZnOxk1yA0) | 5:46 | 2024-07-26 | 2024-08-01 |
 | [God Complex](https://open.spotify.com/track/1JearbDMqLCkKDBBxUGw5p) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [God Complex](https://open.spotify.com/album/3uYcGEKaKcofblWnPWz25N) | 4:05 | 2025-02-26 | 2025-03-05 |
@@ -2335,6 +2336,7 @@
 | [Lotus](https://open.spotify.com/track/0Ztb6gvfzYnmD8HqBZaIVR) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Lotus](https://open.spotify.com/album/3sbOgcdCl22ybRGsygeh4W) | 5:00 | 2024-07-26 | 2024-07-31 |
 | [Lotus Eater](https://open.spotify.com/track/3Y6yJhnGJdNTQwgIyKMLE8) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Lotus Eater](https://open.spotify.com/album/494g1fkelfoloDvUuqdAED) | 3:51 | 2024-10-01 | 2024-10-04 |
 | [Lotus Eater](https://open.spotify.com/track/34oEV6mTMcWjWecSigl12M) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [Lotus Eater](https://open.spotify.com/album/4k4Y1fWU3zhrLyYWEYo2TO) | 7:13 | 2024-12-04 | 2024-12-07 |
+| [louie.](https://open.spotify.com/track/3I6u3amsG234CMXf1hGrTy) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [louie.](https://open.spotify.com/album/4YxP3j9qf4IxfPl9HZgiaz) | 2:12 | 2025-04-06 |  |
 | [Louis V Everything!](https://open.spotify.com/track/1YEmp5J2h3dUJg98dFGMnr) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Louis V Everything!](https://open.spotify.com/album/59TP9qgdbF9qPaoopKLyb9) | 2:20 | 2024-10-25 | 2024-10-30 |
 | [Love \(MKB\)](https://open.spotify.com/track/55sHeRRTqwdtO4xRtFet0S) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [Love \(MKB\)](https://open.spotify.com/album/3bXf5d2HIuCMzurxLHdvm9) | 3:12 | 2025-03-17 | 2025-03-28 |
 | [LOVE 2](https://open.spotify.com/track/59IQKPXEbdOdRxx889fBBO) | [BBGIRLS](https://open.spotify.com/artist/7yXtdZLKdtwH5FrxduK7ti) | [LOVE 2](https://open.spotify.com/album/6CXe6T3fygwEdPdIAquWuS) | 2:49 | 2025-01-20 | 2025-01-24 |
@@ -2586,7 +2588,7 @@
 | [Move To America](https://open.spotify.com/track/1nePdmgADpJlgXoBlTTdbr) | [nascar aloe](https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv) | [Move To America](https://open.spotify.com/album/3MN6zbDXyGk0gJsPbWFmix) | 0:57 | 2024-10-23 | 2024-10-26 |
 | [Movements](https://open.spotify.com/track/7lMYRwvhweOmiuVfKFf0Sq) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [Laminar](https://open.spotify.com/artist/7KR2Kk6DSExT2gK5vDHgTr), [Purple Velvet Curtains](https://open.spotify.com/artist/5UNXmWQKKqqBCxmcotxXmO) | [Movements](https://open.spotify.com/album/0upBLCWzxoULIoP6oiMNab) | 4:15 | 2024-08-13 | 2024-08-15 |
 | [Moviestar](https://open.spotify.com/track/5saMdClnsVoDlEwST3qhOA) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Moviestar](https://open.spotify.com/album/4u3A6VN0zZRwBzjvF2MWwk) | 4:09 | 2024-08-08 | 2024-08-10 |
-| [Movin](https://open.spotify.com/track/5zE0MWD2oT84LDKjDRoywG) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Movin](https://open.spotify.com/album/0XyNyOHDMGu2XHJ3Ch7Yk8) | 2:03 | 2025-04-01 |  |
+| [Movin](https://open.spotify.com/track/5zE0MWD2oT84LDKjDRoywG) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Movin](https://open.spotify.com/album/0XyNyOHDMGu2XHJ3Ch7Yk8) | 2:03 | 2025-04-01 | 2025-04-07 |
 | [Moving Day](https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Moving Day](https://open.spotify.com/album/6704YouVguYBevesjOlyC3) | 2:50 | 2024-05-03 | 2024-05-07 |
 | [Moving Point P](https://open.spotify.com/track/27LNM0PKOv9SDZee7mmoDz) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Moving Point P](https://open.spotify.com/album/56nATcQmrGNh9l1czPcTOz) | 3:16 | 2024-12-09 | 2024-12-13 |
 | [MPH](https://open.spotify.com/track/6ziMwlEb8Q7vytSn4hYTe9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [MPH](https://open.spotify.com/album/05VbJ2wHHANXOdvEHiBr3q) | 1:59 | 2024-06-06 | 2024-06-09 |
@@ -2768,7 +2770,7 @@
 | [not/lost](https://open.spotify.com/track/5EVqaXDACZZPYPbNwZOJA8) | [Temachii](https://open.spotify.com/artist/6C28zKEQyk8yNoiQcqWbcQ) | [not/lost](https://open.spotify.com/album/7eDpQTdGkiJkWlE6XpoFPP) | 3:06 | 2024-12-22 | 2024-12-26 |
 | [Note To Self](https://open.spotify.com/track/47SV283bRGDz95w4G9UErl) | [The Airborne Toxic Event](https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z) | [Note To Self](https://open.spotify.com/album/7GFk4CqSsmdLSXUqMt7qeo) | 3:15 | 2024-08-27 | 2024-08-30 |
 | [Nothing For Free](https://open.spotify.com/track/0XgWkTbe4G9mQHkPv9mhzS) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS), [808 Wigguh](https://open.spotify.com/artist/5FLD7rDhW2tNfYIymZXPsJ) | [Nothing For Free](https://open.spotify.com/album/6QjzoSdwuKMeMdeomvaZhQ) | 2:24 | 2025-01-10 | 2025-01-17 |
-| [Nothing I Need](https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Nothing I Need](https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8) | 3:33 | 2025-03-31 |  |
+| [Nothing I Need](https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Nothing I Need](https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8) | 3:33 | 2025-03-31 | 2025-04-07 |
 | [nothing like uuu](https://open.spotify.com/track/7tHXd3CsT7VGZAJ5Jkqt61) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [nothing like uuu](https://open.spotify.com/album/128pEVu7AFfVkyiIw9lN33) | 1:52 | 2024-04-29 | 2024-05-01 |
 | [Nothing Original](https://open.spotify.com/track/2i6QohbTv4ExMhJDJ68ZpI) | [MC Virgins](https://open.spotify.com/artist/3iNL7rw7fpmysjZvhB8vi7) | [Nothing Original](https://open.spotify.com/album/1YDIJvBxFNJoATPZfJdJ2O) | 2:45 | 2025-03-28 | 2025-04-06 |
 | [Nothing Would Change](https://open.spotify.com/track/3o3f9agMiUxMGm4p60Ni3b) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Nothing Would Change](https://open.spotify.com/album/3kQY3Ha4otCRlvzukPPNaH) | 3:23 | 2024-10-07 | 2024-10-11 |
@@ -3429,6 +3431,7 @@
 | [Sink Deeper In](https://open.spotify.com/track/7j7enafqCLx75tvE8kEH0C) | [Shadrow](https://open.spotify.com/artist/2fZ2nHEB3va8LTHXX8oKgU), [DHeusta](https://open.spotify.com/artist/1dYLcY8kRTQ2l2Gsvq96MY) | [Sink Deeper In](https://open.spotify.com/album/4wz6bIjgERtEbJG96lPLRK) | 3:57 | 2024-10-10 | 2024-10-12 |
 | [SINKER](https://open.spotify.com/track/4YNTytjcMLm61O3SkxMPJl) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [SINKER](https://open.spotify.com/album/0DMLgcwiOQLlwd9jIfynWU) | 3:00 | 2024-07-17 | 2024-07-19 |
 | [Sinner](https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Sinner](https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU) | 3:03 | 2024-10-08 | 2024-10-11 |
+| [Sinners](https://open.spotify.com/track/0OyWRjMMbPKwnBtWdLg4Ws) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Sinners](https://open.spotify.com/album/3aUKmF2jQ0QPBe9QrNFLFr) | 3:08 | 2025-04-06 |  |
 | [Siren](https://open.spotify.com/track/3RirF6gScGyo22AUdGUmHG) | [AmaLee](https://open.spotify.com/artist/4sf4DrAOkheqktxTyKm7tO) | [Siren](https://open.spotify.com/album/3wMqXd8NCqfkSQzSHfR3o5) | 4:02 | 2024-12-11 | 2024-12-14 |
 | [Sirens](https://open.spotify.com/track/3PNjH4Jcodq0m1V7PtQMFB) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Sirens](https://open.spotify.com/album/6nC3sa24KRjmd3HHLfx8Re) | 5:00 | 2024-09-12 | 2024-09-14 |
 | [Sirius Part\. 2](https://open.spotify.com/track/0w5Vo3mmjlmfNHsyIb8XYn) | [The Wind](https://open.spotify.com/artist/3q4h0WRGyR0Qcx88vwyzkd) | [Sirius Part\. 2](https://open.spotify.com/album/54CAF171eue1I3MTrsEY43) | 3:04 | 2024-05-15 | 2024-05-17 |

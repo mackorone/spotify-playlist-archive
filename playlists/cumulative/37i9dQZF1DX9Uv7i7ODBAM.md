@@ -4,7 +4,7 @@
 
 > Enjoy music from "My Hero Academia"! ©堀越耕平／集英社・僕のヒーローアカデミア製作委員会
 
-149 songs - 8 hr 45 min
+150 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [You Say Run \-Succession\-](https://open.spotify.com/track/79pUjmHv3aAN8aWyvTqrvk) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』7thオリジナルサウンドトラック〜Pre\-release〜](https://open.spotify.com/album/0vl6bXwWnFEujAIzbGKvDT) | 10:37 | 2024-07-07 |  |
 | [You two are weird](https://open.spotify.com/track/7N2IuVkHtWUeybtFcmBJCp) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』7thオリジナルサウンドトラック〜Pre\-release〜](https://open.spotify.com/album/0vl6bXwWnFEujAIzbGKvDT) | 3:22 | 2024-07-07 |  |
 | [「好敵手」たちと書いて「同級生」と読む](https://open.spotify.com/track/5uO0HUPwd7AUSXze0wC6z8) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』5th オリジナルサウンドトラック](https://open.spotify.com/album/6qCjxP9ABgwgEdSNfmQgbI) | 3:00 | 2023-03-14 |  |
+| [けっかおーらい \- Kekka Orai](https://open.spotify.com/track/7Ea65yIjXDZDfg39hsvcE6) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [けっかおーらい \- Kekka Orai \- My Hero Academia: Vigilantes Opening Theme Song](https://open.spotify.com/album/4ywLGordDneexrcRNp2uw0) | 2:52 | 2025-04-07 |  |
 | [それいけさらに向こうへ](https://open.spotify.com/track/5xc1EuYl9QC3jraWO59aGg) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』5th オリジナルサウンドトラック](https://open.spotify.com/album/6qCjxP9ABgwgEdSNfmQgbI) | 1:59 | 2023-03-14 |  |
 | [だから、ひとりじゃない](https://open.spotify.com/track/3UoI3mhZI5kyrMaptYsvLq) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [juice](https://open.spotify.com/album/6pvDjBrBvDGGKi3KyWwPDj) | 3:51 | 2022-10-11 | 2022-11-13 |
 | [だから、ひとりじゃない](https://open.spotify.com/track/3zQGFO31x6LEuRpCPNjBGQ) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Juice](https://open.spotify.com/album/5Q0lmAq1XqwRLqbd3GisBC) | 3:51 | 2022-10-01 | 2024-04-19 |

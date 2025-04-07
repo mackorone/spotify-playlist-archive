@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,806 songs - 3 day 21 hr 42 min
+1,808 songs - 3 day 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -517,7 +517,7 @@
 | [Fooled by September](https://open.spotify.com/track/2dtaWYzmEj4d3IJ601glS2) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Fooled by September](https://open.spotify.com/album/52WD0YibkXc9CRfih5pDwK) | 2:53 | 2023-10-05 | 2023-12-23 |
 | [For Myself](https://open.spotify.com/track/5ZoeL2XT9knQOUjhhwkoJJ) | [Gabi Goldman](https://open.spotify.com/artist/5QCwKKyeCdNCSIJSWQpLHJ) | [For Myself](https://open.spotify.com/album/3ObQAtlGdLUJa8hFafb60G) | 2:47 | 2024-05-16 | 2024-06-14 |
 | [Forever](https://open.spotify.com/track/2kt6eZpklbhOPxAqkcNHYz) | [AMADEUS](https://open.spotify.com/artist/2t7THYoDAV1wXEmsp7HNH1) | [Forever](https://open.spotify.com/album/5nkPAhhUXp9FQlsQSC4fD4) | 2:50 | 2022-04-28 | 2022-07-28 |
-| [Forever Is Not That Long](https://open.spotify.com/track/7jNodDaB30i6W03yxzhBgQ) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP), [Nicole Sabouné](https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk) | [Forever Is Not That Long](https://open.spotify.com/album/0T1ISornBJUnYNnrYRI4Ju) | 4:18 | 2025-02-06 |  |
+| [Forever Is Not That Long](https://open.spotify.com/track/7jNodDaB30i6W03yxzhBgQ) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP), [Nicole Sabouné](https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk) | [Forever Is Not That Long](https://open.spotify.com/album/0T1ISornBJUnYNnrYRI4Ju) | 4:18 | 2025-02-06 | 2025-04-07 |
 | [Forget about her](https://open.spotify.com/track/1rG5cppCcbTtzLfnSq7QFt) | [Sanna Martinez](https://open.spotify.com/artist/0z4mzMTeYkA6xdybmSgdkn) | [Forget about her](https://open.spotify.com/album/1GTGUDjYetYoqWMPU5mBxl) | 3:51 | 2024-02-08 | 2024-02-25 |
 | [Fortfarande du](https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Fortfarande du / Tills vi dör \( Akustisk \)](https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am) | 2:39 | 2024-10-10 |  |
 | [Framåt](https://open.spotify.com/track/3jG2DVbOteREs74udyVzJG) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Framåt](https://open.spotify.com/album/6xEyVshiedA5zL2uUrGGig) | 2:58 | 2023-03-30 | 2023-10-20 |
@@ -779,6 +779,7 @@
 | [IGEN IGEN IGEN](https://open.spotify.com/track/72AsuB2gKeQGDKEsjXdjls) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE) | [IGEN IGEN IGEN](https://open.spotify.com/album/7nKcbzRHoxG6uhXymDpgaj) | 2:10 | 2024-04-19 | 2024-05-24 |
 | [IKNOW IKNOW](https://open.spotify.com/track/5w7VnCARb24upPxk3Q9nMW) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 3:53 | 2024-10-24 |  |
 | [Ikväll gör jag vad som helst...](https://open.spotify.com/track/0DDcohQ8MvYNZ114EYoudo) | [Frida Lif](https://open.spotify.com/artist/69qWf1qLvLjd5Pu9APRL0Y) | [Ikväll gör jag vad som helst...](https://open.spotify.com/album/4lyiMRIT2bhctP9hTJ2s3K) | 2:58 | 2024-06-06 | 2024-06-28 |
+| [Ikväll måste nånting hända](https://open.spotify.com/track/2jaXOhm7dmmsokJjj2DsUA) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Ikväll måste nånting hända](https://open.spotify.com/album/0yaCpQvJffjcBuD4JFbXzI) | 3:39 | 2025-04-03 |  |
 | [Ikväll tar vi över stan](https://open.spotify.com/track/0WlEryRlIqzywLjTYcnSun) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Så mycket bättre 2024 – Tolkningarna](https://open.spotify.com/album/4q7BqIIjzZULlSBEGbdprz) | 3:30 | 2024-11-07 |  |
 | [Imagine](https://open.spotify.com/track/6negLw2oP4RRS9mQJPKXM6) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Imagine](https://open.spotify.com/album/6hvg6l17kva8IRQBe6mgS6) | 3:12 | 2023-06-22 | 2023-10-20 |
 | [Imagine Paradise](https://open.spotify.com/track/0TXoLkIqtEqb9mPv3ReBEX) | [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc) | [Imagine Paradise](https://open.spotify.com/album/58vBq0ClQQ9mvouhUoBw2b) | 3:57 | 2024-06-07 | 2024-08-09 |
@@ -1433,6 +1434,7 @@
 | [SOVA ME NÅN ANNAN](https://open.spotify.com/track/7nXfkFG6fNIPwE8DcAw5PT) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [SOVA ME NÅN ANNAN](https://open.spotify.com/album/6MUzMkt675hx5r08JPuqpx) | 2:17 | 2024-04-19 | 2024-05-24 |
 | [Sover du själv?](https://open.spotify.com/track/5GH9muGVnPshF2mtmDQPfO) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Sover du själv?](https://open.spotify.com/album/5btCIgc2cAr64WfxeKxgXP) | 3:03 | 2023-01-19 | 2023-10-06 |
 | [space](https://open.spotify.com/track/4nstXEMLPc7P3lZcGuHKUI) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH), [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR), [YOG$](https://open.spotify.com/artist/22PiLADkpKIOBgYDt10UXI) | [space / emma](https://open.spotify.com/album/7zKoHoObscvApk5HXFMJi1) | 2:48 | 2022-09-15 | 2022-12-25 |
+| [SPACEBOY](https://open.spotify.com/track/0340AFk1HE5Za7urTUwk18) | [Arwin](https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q) | [SPACEBOY](https://open.spotify.com/album/0klNLXWxb8FA4wknzVRr2J) | 3:07 | 2025-04-03 |  |
 | [Sparks](https://open.spotify.com/track/2pk58ypvSyuuZXYd3TRfwA) | [Charlie South](https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e) | [Sparks](https://open.spotify.com/album/0VNonTIFVaBXmKo3GLktRQ) | 3:34 | 2024-08-29 | 2024-09-29 |
 | [Spartas Svarta Hjärta](https://open.spotify.com/track/3Ezo5xeahAV0s0JBiHlEey) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Vita Skelett](https://open.spotify.com/album/3DSky97p2svAX6gNnyqUOl) | 3:03 | 2025-03-20 |  |
 | [Sparvöga](https://open.spotify.com/track/7Ad48doEcyyr91oRgTg2sz) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Sparvöga / I skydd av mörkret](https://open.spotify.com/album/3fmuDEVEgtEIYqEYEaDF1f) | 3:20 | 2025-01-23 |  |
@@ -1548,7 +1550,7 @@
 | [Tempo](https://open.spotify.com/track/26gPOGI1XfspV0qkIB82rZ) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Tempo](https://open.spotify.com/album/1tmpqcQo2ELxzhAogvUjDT) | 2:31 | 2022-07-28 | 2022-12-08 |
 | [Tenerife Sea](https://open.spotify.com/track/5bimLyQiJGIphZSs1e0HPB) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [living room sessions](https://open.spotify.com/album/7nyjhmJfuB4xyfx0lVx3A0) | 4:31 | 2021-12-16 | 2022-03-09 |
 | [Tennis](https://open.spotify.com/track/5HjMrOB5mWB8F8Uh3wu58E) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/1sTbqsjJft5XrgnGRN2Y05) | 2:19 | 2023-11-02 | 2024-02-09 |
-| [Terapi](https://open.spotify.com/track/7Ck9S4q8vVfdyEkggerGB0) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Terapi](https://open.spotify.com/album/1PclVXly9xQi0c2U1pcbVZ) | 2:52 | 2025-01-02 |  |
+| [Terapi](https://open.spotify.com/track/7Ck9S4q8vVfdyEkggerGB0) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Terapi](https://open.spotify.com/album/1PclVXly9xQi0c2U1pcbVZ) | 2:52 | 2025-01-02 | 2025-04-07 |
 | [Terminal \(feat\. Haley Bridge\)](https://open.spotify.com/track/3y4ygtOnJjvxvS8PSpZmDv) | [FELIX SANDMAN](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy), [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [Terminal \(feat\. Haley Bridge\)](https://open.spotify.com/album/6gHfQ7fZIFmFCxbeTJcuU4) | 3:45 | 2024-04-04 | 2024-05-10 |
 | [Tesla](https://open.spotify.com/track/7MYNQvmkh1tbXKKoZ20XG7) | [MIMI](https://open.spotify.com/artist/4GCwfakdZdo3KkBNtzU5vn) | [Tesla](https://open.spotify.com/album/52ZvAIoqN8UrStekZ19BCW) | 3:05 | 2022-04-28 | 2022-07-20 |
 | [Thank God These Walls Can’t Talk](https://open.spotify.com/track/2MwXBLVcSS4HqG2pAxpOOi) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Thank God These Walls Can’t Talk](https://open.spotify.com/album/4jKI3dZzuwtp3yqt7iyAk7) | 2:35 | 2023-06-01 | 2023-08-01 |

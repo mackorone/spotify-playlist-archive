@@ -2,7 +2,7 @@
 
 ### [Fryderyk 2025](https://open.spotify.com/playlist/37i9dQZF1DX9YOBVbaj8Mw)
 
-> Posłuchaj nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
+> Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
 169 songs - 11 hr 47 min
 

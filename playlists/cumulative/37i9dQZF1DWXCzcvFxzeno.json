@@ -3985,6 +3985,32 @@
     },
     {
       "album": {
+        "name": "SHIVA",
+        "url": "https://open.spotify.com/album/4pgOQhCIH376eZLAeKOv0u"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        },
+        {
+          "name": "Flawx",
+          "url": "https://open.spotify.com/artist/11qVwA5mziMzwH4s7A1Wqq"
+        },
+        {
+          "name": "Samuel Moriero",
+          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220714,
+      "name": "SHIVA",
+      "url": "https://open.spotify.com/track/6NOMfX95ei3MYvs7pIbUzL"
+    },
+    {
+      "album": {
         "name": "Shivaya (Remix)",
         "url": "https://open.spotify.com/album/6yfZ47yb1kEVBDjPatR0cn"
       },
@@ -5032,7 +5058,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-07",
       "duration_ms": 223343,
       "name": "XTCWTF",
       "url": "https://open.spotify.com/track/6fHZZaGk4QBwVQDc9oMKKR"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Riky Rick, Miley Cyrus,  Nomfundo Moh & Blaq Diamond and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,469 likes - 83 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,509 likes - 83 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

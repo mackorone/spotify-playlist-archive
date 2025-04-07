@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=lybU8UbGSVa\_4xkQ\_Gde1Q"> Nomfundo Moh</a>, <a href="https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe?si=JNQSLjoEQQyGL1Fh\-8m2dw"> Blaq Diamond</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,308 likes - 84 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,468 likes - 84 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

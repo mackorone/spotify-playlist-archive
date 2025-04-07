@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-401 songs - 23 hr 21 min
+402 songs - 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Don't Call Me Baby](https://open.spotify.com/track/2uQzyvEzpJvGxeJF8lUNHu) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Madison Avenue](https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh) | [Don't Call Me Baby](https://open.spotify.com/album/4IV5ABvvLEZKTNG6WJ44Tu) | 3:07 | 2024-03-01 | 2024-07-27 |
 | [Don't Let Me Go](https://open.spotify.com/track/3UGNkp6UluxzrztoMu9q1C) | [Captain Bass](https://open.spotify.com/artist/1XS6lKOHQLnfn6HKRwU5VG), [Amplify](https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n) | [Don't Let Me Go](https://open.spotify.com/album/4whr45Olu7a2aO7GLEVWWP) | 3:05 | 2024-08-02 | 2024-11-22 |
 | [Don't Stop](https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Don't Stop](https://open.spotify.com/album/0PPTQ6w442u34twxct76hc) | 2:56 | 2024-05-31 | 2024-10-04 |
-| [Don't Wanna Wake Up](https://open.spotify.com/track/5Hjb5dh9ze2rI9RfnoBGpS) | [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP) | [Don't Wanna Wake Up](https://open.spotify.com/album/041BgCygr8ruF5sCYmxdBi) | 4:49 | 2024-11-22 |  |
+| [Don't Wanna Wake Up](https://open.spotify.com/track/5Hjb5dh9ze2rI9RfnoBGpS) | [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP) | [Don't Wanna Wake Up](https://open.spotify.com/album/041BgCygr8ruF5sCYmxdBi) | 4:49 | 2024-11-22 | 2025-04-07 |
 | [Don't You Worry About Me](https://open.spotify.com/track/4cJgjjWMjf4nfLRuSr4hVl) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Don't You Worry About Me](https://open.spotify.com/album/0he225d6QYERCPgyagltqw) | 3:40 | 2022-09-30 | 2023-11-06 |
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2022-09-30 | 2024-06-28 |
 | [Downers \- Rework](https://open.spotify.com/track/3ZHw4fR70ep2fjqa14RcBi) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Downers \(Rework\)](https://open.spotify.com/album/6wLqsCijGoDRJ1RZYSPqCk) | 3:01 | 2023-05-19 | 2024-07-27 |
@@ -390,6 +390,7 @@
 | [Wassup](https://open.spotify.com/track/6fkhc54YV2TpWaYiFUcGUJ) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Wassup](https://open.spotify.com/album/1eEL1av8bJtv07FWJ2oK83) | 3:01 | 2024-11-22 | 2025-01-18 |
 | [Wasted Youth \(feat\. Cat Burns\) \- \[IVY\] Remix](https://open.spotify.com/track/0bJV0wJnOCHNGetX12UX9t) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [Wasted Youth \(feat\. Cat Burns\) \[\[IVY\] Remix\]](https://open.spotify.com/album/4skDqItwjbLSSLQlp5IdvE) | 3:09 | 2024-02-23 | 2025-01-11 |
 | [Wave](https://open.spotify.com/track/1g0qWlFYfzGxQpQn43DdKP) | [3BULLETS](https://open.spotify.com/artist/6LRMEcsM3RNPkRkfQyfcR7), [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR), [Pat](https://open.spotify.com/artist/68WgJ9sAiZP6T6CIL5t5QL) | [Wave](https://open.spotify.com/album/1pmhtYrqBJZafUymULlRiv) | 2:00 | 2025-01-10 |  |
+| [We Love Drum & Bass](https://open.spotify.com/track/31DqPeaEO0tiYLz4u1U4mb) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm), [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [We Love Drum & Bass](https://open.spotify.com/album/29z2vONpk9RyvPueUGwTNF) | 2:45 | 2025-04-03 |  |
 | [We No Care](https://open.spotify.com/track/15NecrhXvyr5lm5Fh9jRmF) | [Exile](https://open.spotify.com/artist/021nLKqHhOqmUUMWt0EkDG), [Sola](https://open.spotify.com/artist/48Ndw6JlG5UMDTwuvCqr0u), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [We No Care](https://open.spotify.com/album/6p9bKNupWppnpL3DC6lNh9) | 4:09 | 2024-10-03 | 2025-02-28 |
 | [Wearing My Tracky](https://open.spotify.com/track/3TIyaYkKMobsb4xW76eBW4) | [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m) | [Wearing My Tracky](https://open.spotify.com/album/4Ec2pA8NiSIl9OlvTwBKxH) | 1:45 | 2024-07-25 | 2025-02-03 |
 | [When It Rains, It Pours](https://open.spotify.com/track/0Qb8vbig4Wky0RKhOWh2Ze) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [When It Rains, It Pours](https://open.spotify.com/album/7gw75X0Cp4ya2yz6tW0Rio) | 3:17 | 2022-09-30 | 2024-06-01 |

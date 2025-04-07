@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 106447,
+  "num_followers": 106535,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
+        "name": "Where There's Smoke... (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "duration_ms": 352920,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
         "name": "You'll Lose A Good Thing",
         "url": "https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ"
       },
@@ -211,18 +227,18 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Where There's Smoke... (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
+        "name": "Oogum Boogum",
+        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
       },
       "artists": [
         {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
         }
       ],
-      "duration_ms": 352920,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
+      "duration_ms": 163302,
+      "name": "I Like The Way You Love Me",
+      "url": "https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -291,22 +307,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Oogum Boogum",
-        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 163302,
-      "name": "I Like The Way You Love Me",
-      "url": "https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "I Do Love You",
         "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
       },
@@ -335,6 +335,22 @@
       "duration_ms": 240466,
       "name": "Natural High",
       "url": "https://open.spotify.com/track/7aKrysuyZvDnU3JwnlO3dd"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Baby You Got It",
+        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Me And You",
+      "url": "https://open.spotify.com/track/6HTFY66ZttBULqR1108Zmy"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -383,22 +399,6 @@
       "duration_ms": 227624,
       "name": "Angel Baby",
       "url": "https://open.spotify.com/track/71keN33KR0rS5jwKi4JNLE"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
-        "name": "Oogum Boogum",
-        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 141329,
-      "name": "Gimme Little Sign",
-      "url": "https://open.spotify.com/track/1h4XVjt26ZCDKmeEoHxT07"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -467,8 +467,8 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Baby You Got It",
-        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
+        "name": "Oogum Boogum",
+        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
         }
       ],
-      "duration_ms": 182266,
-      "name": "Me And You",
-      "url": "https://open.spotify.com/track/6HTFY66ZttBULqR1108Zmy"
+      "duration_ms": 141329,
+      "name": "Gimme Little Sign",
+      "url": "https://open.spotify.com/track/1h4XVjt26ZCDKmeEoHxT07"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Baby You Got It",
-        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 128546,
-      "name": "Baby You Got It",
-      "url": "https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Hello Stranger",
         "url": "https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "With Love",
-        "url": "https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud"
+        "name": "Baby You Got It",
+        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
       },
       "artists": [
         {
-          "name": "Ralfi Pagan",
-          "url": "https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz"
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
         }
       ],
-      "duration_ms": 285098,
-      "name": "Make It With You",
-      "url": "https://open.spotify.com/track/1MTjPvCioj81IsSX66IB2a"
+      "duration_ms": 128546,
+      "name": "Baby You Got It",
+      "url": "https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -675,6 +659,22 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
+        "name": "With Love",
+        "url": "https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud"
+      },
+      "artists": [
+        {
+          "name": "Ralfi Pagan",
+          "url": "https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz"
+        }
+      ],
+      "duration_ms": 285098,
+      "name": "Make It With You",
+      "url": "https://open.spotify.com/track/1MTjPvCioj81IsSX66IB2a"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
         "name": "A Quiet Storm",
         "url": "https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 289240,
       "name": "The Agony And The Ecstasy",
       "url": "https://open.spotify.com/track/5tJtbMylDCdtsQf4R02qer"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
-        "name": "Workin' On A Groovy Thing....The Best Of",
-        "url": "https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb"
-      },
-      "artists": [
-        {
-          "name": "Patti Drew",
-          "url": "https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c"
-        }
-      ],
-      "duration_ms": 151453,
-      "name": "Tell Him",
-      "url": "https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -723,6 +707,22 @@
       "duration_ms": 437933,
       "name": "Fire And Desire",
       "url": "https://open.spotify.com/track/6XJdmdiLRvvQXRLMenQmjx"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Workin' On A Groovy Thing....The Best Of",
+        "url": "https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb"
+      },
+      "artists": [
+        {
+          "name": "Patti Drew",
+          "url": "https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c"
+        }
+      ],
+      "duration_ms": 151453,
+      "name": "Tell Him",
+      "url": "https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The Never Ending Impressions",
-        "url": "https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF"
-      },
-      "artists": [
-        {
-          "name": "The Impressions",
-          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
-        }
-      ],
-      "duration_ms": 171506,
-      "name": "I'm So Proud",
-      "url": "https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Why Can't We Be Friends?",
         "url": "https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 240866,
       "name": "Don't Let No One Get You Down",
       "url": "https://open.spotify.com/track/08aSprc2fv1viNls6RmLdN"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "The Never Ending Impressions",
+        "url": "https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF"
+      },
+      "artists": [
+        {
+          "name": "The Impressions",
+          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
+        }
+      ],
+      "duration_ms": 171506,
+      "name": "I'm So Proud",
+      "url": "https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Breakfast Special",
-        "url": "https://open.spotify.com/album/0x2Hgl58dtwTdA1AdgG0Zb"
-      },
-      "artists": [
-        {
-          "name": "Pete Wingfield",
-          "url": "https://open.spotify.com/artist/3aXekkmx3vITr2rZSgpVDb"
-        }
-      ],
-      "duration_ms": 211001,
-      "name": "Eighteen With A Bullet",
-      "url": "https://open.spotify.com/track/5Db6sVQqeSoe8SN7JZrpPz"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Don't Tell Me",
         "url": "https://open.spotify.com/album/7mwaHlZf72E7QOdNo6kcyl"
       },
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
+        "name": "Breakfast Special",
+        "url": "https://open.spotify.com/album/0x2Hgl58dtwTdA1AdgG0Zb"
+      },
+      "artists": [
+        {
+          "name": "Pete Wingfield",
+          "url": "https://open.spotify.com/artist/3aXekkmx3vITr2rZSgpVDb"
+        }
+      ],
+      "duration_ms": 211001,
+      "name": "Eighteen With A Bullet",
+      "url": "https://open.spotify.com/track/5Db6sVQqeSoe8SN7JZrpPz"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
         "name": "Warm & Tender Soul",
         "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
       },
@@ -1055,6 +1055,22 @@
       "duration_ms": 173893,
       "name": "You Really Got a Hold on Me",
       "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Cowboys to Girls",
+        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 117133,
+      "name": "Sad Girl",
+      "url": "https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Cowboys to Girls",
-        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 117133,
-      "name": "Sad Girl",
-      "url": "https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Grazin'",
         "url": "https://open.spotify.com/album/3LPgvdYSDRmaRmZV0KA0Kw"
       },
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Presenting The Danleers",
-        "url": "https://open.spotify.com/album/2wkPlFZWjudOYq89zuFX9R"
-      },
-      "artists": [
-        {
-          "name": "The Danleers",
-          "url": "https://open.spotify.com/artist/1W0oUYvRe6jjI2SuaiigFv"
-        }
-      ],
-      "duration_ms": 133226,
-      "name": "One Summer Night",
-      "url": "https://open.spotify.com/track/5GEsOz5Pbln0j2RcmBGLa4"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Two Lovers",
         "url": "https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 166732,
       "name": "Two Lovers",
       "url": "https://open.spotify.com/track/00CmjeeHvAVKvx3tcIiZTy"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Presenting The Danleers",
+        "url": "https://open.spotify.com/album/2wkPlFZWjudOYq89zuFX9R"
+      },
+      "artists": [
+        {
+          "name": "The Danleers",
+          "url": "https://open.spotify.com/artist/1W0oUYvRe6jjI2SuaiigFv"
+        }
+      ],
+      "duration_ms": 133226,
+      "name": "One Summer Night",
+      "url": "https://open.spotify.com/track/5GEsOz5Pbln0j2RcmBGLa4"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The Essential Delfonics",
-        "url": "https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 125386,
-      "name": "Going Out of My Head - Remastered",
-      "url": "https://open.spotify.com/track/4KNR8w9Y16CoJh7ZEbiMAh"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Irons In The Fire",
         "url": "https://open.spotify.com/album/5xkX5ZagTMNm1xEYNHht5a"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 329146,
       "name": "Young Love",
       "url": "https://open.spotify.com/track/0gGGMJtavPCoD5Ydobp6JV"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "The Essential Delfonics",
+        "url": "https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 125386,
+      "name": "Going Out of My Head - Remastered",
+      "url": "https://open.spotify.com/track/4KNR8w9Y16CoJh7ZEbiMAh"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Tonight's The Night",
-        "url": "https://open.spotify.com/album/6mWE1yQJVHa6JnDCLjz1Mk"
-      },
-      "artists": [
-        {
-          "name": "The Shirelles",
-          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
-        }
-      ],
-      "duration_ms": 120306,
-      "name": "Dedicated To The One I Love",
-      "url": "https://open.spotify.com/track/36f5xtZ2CXIc1WOirnnD3j"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Sweet Thing",
         "url": "https://open.spotify.com/album/4UDP4rLKDeLOFxzPPyoNI9"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 188671,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/1YvNzsK7eD8Bu7JShCjD90"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Tonight's The Night",
+        "url": "https://open.spotify.com/album/6mWE1yQJVHa6JnDCLjz1Mk"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "duration_ms": 120306,
+      "name": "Dedicated To The One I Love",
+      "url": "https://open.spotify.com/track/36f5xtZ2CXIc1WOirnnD3j"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -2391,6 +2391,22 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
+        "name": "The Best Of The Stylistics",
+        "url": "https://open.spotify.com/album/1rt8wY3v7jjrB9eLBlLCq0"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Betcha By Golly, Wow",
+      "url": "https://open.spotify.com/track/7KvkB61JnNKsCUDOMrqVcJ"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
         "name": "Dead Presidents Vol. 1/Music From The Motion Picture",
         "url": "https://open.spotify.com/album/09yaGU6AaYLHAONWqhWmMk"
       },
@@ -2419,22 +2435,6 @@
       "duration_ms": 233373,
       "name": "Just My Imagination (Running Away With Me)",
       "url": "https://open.spotify.com/track/3gbwcu7E9ACpJsLm7vEpuN"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
-        "name": "The Best Of The Stylistics",
-        "url": "https://open.spotify.com/album/1rt8wY3v7jjrB9eLBlLCq0"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Betcha By Golly, Wow",
-      "url": "https://open.spotify.com/track/7KvkB61JnNKsCUDOMrqVcJ"
     },
     {
       "added_at": "2024-08-14 08:31:40",

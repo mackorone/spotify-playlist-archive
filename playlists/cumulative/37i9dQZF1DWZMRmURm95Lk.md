@@ -4,7 +4,7 @@
 
 > Beat e rime, oggi come una volta\. Cover: Chicoria
 
-535 songs - 1 day 6 hr 34 min
+536 songs - 1 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Diario di bordo, Pt\. IV \(BOG \- MXP\)](https://open.spotify.com/track/6BQB4aW5YEu4zrqKgtuQbT) | [Egreen](https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4), [Sina Tekle](https://open.spotify.com/artist/5VmuzT089SXxDm3tC45rZn) | [Nicolás \- MXP \(Deluxe Edition\)](https://open.spotify.com/album/3QCzjnrGRZu8qiZMAMUK9r) | 2:41 | 2022-09-22 | 2022-11-25 |
 | [Dicembre](https://open.spotify.com/track/2WMHW2QFllDvd4cnHGOLRS) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW) | [Dicembre](https://open.spotify.com/album/4G2eAZALBmVCxGw3sKxNfy) | 2:42 | 2022-05-12 | 2022-07-29 |
 | [DINDIRINDINA](https://open.spotify.com/track/3VneYDrRAlvLQJ7c5jG3ht) | [Mattak](https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK), [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT) | [2](https://open.spotify.com/album/5lVNbfwUszjl6opsZw29J5) | 2:46 | 2022-05-05 | 2023-10-06 |
-| [Dio lodato per sta chanche](https://open.spotify.com/track/114hZLY1cAfvd9gFaDAxoN) | [Joe Cassano](https://open.spotify.com/artist/5ZPb4m701cVcj87M0qbqtL) | [Dio lodato](https://open.spotify.com/album/1LYlr506rnjgDipxwXwkzV) | 4:20 | 2022-05-12 |  |
+| [Dio lodato per sta chanche](https://open.spotify.com/track/114hZLY1cAfvd9gFaDAxoN) | [Joe Cassano](https://open.spotify.com/artist/5ZPb4m701cVcj87M0qbqtL) | [Dio lodato](https://open.spotify.com/album/1LYlr506rnjgDipxwXwkzV) | 4:20 | 2022-05-12 | 2025-04-07 |
 | [Disegni nella mente](https://open.spotify.com/track/0C34kU6d7no87x9dgBsyyq) | [La Crème](https://open.spotify.com/artist/4aYVHIbCQ3TV25w41GWhfu), [Jack The Smoker](https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS), [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [L'Alba](https://open.spotify.com/album/1Y22jyfbmfTrjb9m1CB3Xk) | 5:04 | 2024-04-25 |  |
 | [Disegni nella mente](https://open.spotify.com/track/6CTfiEvB6f6B36XATiv43W) | [La Crème](https://open.spotify.com/artist/4aYVHIbCQ3TV25w41GWhfu), [Jack The Smoker](https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS), [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [L'Alba](https://open.spotify.com/album/6WEgf4mSX61uKevk0ZvFts) | 5:04 | 2022-05-12 | 2024-05-03 |
 | [Disertore](https://open.spotify.com/track/1d3GzThn2EwfTO8LARoQzT) | [DJ Skizo](https://open.spotify.com/artist/22ZKZgLocbcA5rGu5KgXBZ), [Colle Der Fomento](https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u), [Dj Baro](https://open.spotify.com/artist/5MwhzzkTUrx7HzFqreGMoj) | [Disertore](https://open.spotify.com/album/04v0GY5PNVHIJjhmDTlNGW) | 3:21 | 2024-09-26 | 2025-02-28 |
@@ -467,6 +467,7 @@
 | [Solo nebbia](https://open.spotify.com/track/1XrNtowdY71ERfdm8snVKQ) | [Blue Virus](https://open.spotify.com/artist/7H9TcusDoz60eSTxB0Avxn) | [Solo nebbia](https://open.spotify.com/album/6ZcPJ8ZpRNmKkc9R5VoZ8s) | 3:11 | 2023-03-02 | 2023-04-11 |
 | [Solo Pollo](https://open.spotify.com/track/4jsCuELpXvxCFYPAlHnGcd) | [Giovane Feddini](https://open.spotify.com/artist/2Q9Z5LbKXiImqMdnZiLT3u), [Ric de Large](https://open.spotify.com/artist/6It8QDcivbTwJ46Gk9WUvu), [Drimer](https://open.spotify.com/artist/3Qz694qtRw2d9yKFr8zK8u) | [Solo Pollo](https://open.spotify.com/album/14qMVgdkBj3snOeLWwSYZO) | 4:26 | 2023-03-23 | 2023-05-26 |
 | [Sono un Disastro](https://open.spotify.com/track/1KNQthJkG9zmVGwftZyXSV) | [Mezzosangue](https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB) | [SETE](https://open.spotify.com/album/5gENxlnXv9piRcg60MIRsT) | 3:08 | 2022-12-17 | 2024-03-15 |
+| [Sottoeffetto con Tormento](https://open.spotify.com/track/41dRks6URKuFwJliJhBjZS) | [Doro Gjat](https://open.spotify.com/artist/49uTYcWJTqaPYKGUYB3Qbb), [Dee Jay Park](https://open.spotify.com/artist/3dJIHjJFoNkWyPUfdqOpel) | [Biancoscuro](https://open.spotify.com/album/1os2yJdv9hnhUnLtKBvNDz) | 3:00 | 2025-04-03 |  |
 | [Sound Fi Dead](https://open.spotify.com/track/2uACaAvI5voYrCcqmZEK7D) | [Macro Marco](https://open.spotify.com/artist/4W7U7bpnH1h0VKxMIRSzTn), [Musteeno](https://open.spotify.com/artist/1yoExE4F5Rzxf0vbxs2DuE), [William Pascal](https://open.spotify.com/artist/2c9fnECE6Zsh01kUjJhN6U), [XL Mad](https://open.spotify.com/artist/1A4YwQMDSQ8DnliFWNa4EK) | [Sound Fi Dead](https://open.spotify.com/album/4aw0V9iSboXwBVPKkwWjAT) | 3:12 | 2022-05-12 | 2022-07-27 |
 | [Sour Cream](https://open.spotify.com/track/3m47zKE5YlyHTmWj19C9ZJ) | [Jangy Leeon](https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7), [Dj MS](https://open.spotify.com/artist/2zx8hW1HdhkTCMa6V2GGNa) | [Sour Cream](https://open.spotify.com/album/79nA84bRrXJuDAp4VjH16Z) | 3:11 | 2024-05-02 | 2024-07-19 |
 | [SPECIALIST](https://open.spotify.com/track/00ziDepoTjKU8DJ3lXnh4T) | [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP) | [SPECIALIST](https://open.spotify.com/album/0ffd8nDXYLBtCWVNOujCQV) | 2:25 | 2022-05-05 | 2024-04-19 |

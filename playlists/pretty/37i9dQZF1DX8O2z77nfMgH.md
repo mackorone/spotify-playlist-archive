@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Eladio Carrión
 
-[Spotify](https://open.spotify.com/user/spotify) - 891,854 likes - 64 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 891,842 likes - 64 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 17 | [Stylacho](https://open.spotify.com/track/5t0GQz0k1NW89N0cxFqlth) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Stylacho](https://open.spotify.com/album/5Y15IFNMM01qtXOHS9bnXi) | 2:45 |
 | 18 | [Super](https://open.spotify.com/track/1rSf5hRY0WREuRfiDLETqZ) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Super](https://open.spotify.com/album/4tPyjMTlhXtroKXgm67zT0) | 1:43 |
 | 19 | [Doçura](https://open.spotify.com/track/5p48T2Tqm7xX3ym7uslGOg) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln) | [Coisas Naturais](https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE) | 2:34 |
-| 20 | [4 Negros \(feat\. El Melly & Dinero En El Beat\)](https://open.spotify.com/track/57h2amMPzXRpLun3hYCt2g) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY), [Fili Wey](https://open.spotify.com/artist/77pCqwW8HaKBjkTHe395eo), [El Melly](https://open.spotify.com/artist/2i7GSjYwOiijK8FSgIYwYk), [Dinero en el Beat](https://open.spotify.com/artist/0eqtb736YfhBNOqTqOxGKZ) | [4 Negros \(feat\. El Melly & Dinero En El Beat\)](https://open.spotify.com/album/7yukEcjtAiO8M4ayhfmvVL) | 4:39 |
+| 20 | [4 Negros \(feat\. Dinero En El Beat\)](https://open.spotify.com/track/57h2amMPzXRpLun3hYCt2g) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY), [Fili Wey](https://open.spotify.com/artist/77pCqwW8HaKBjkTHe395eo), [El Melly](https://open.spotify.com/artist/2i7GSjYwOiijK8FSgIYwYk), [Dinero en el Beat](https://open.spotify.com/artist/0eqtb736YfhBNOqTqOxGKZ) | [4 Negros \(feat\. Dinero En El Beat\)](https://open.spotify.com/album/7yukEcjtAiO8M4ayhfmvVL) | 4:39 |
 | 21 | [Yo Me Consiento](https://open.spotify.com/track/2kji9DnnKcwwQb1RPyq2NA) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yo Me Consiento](https://open.spotify.com/album/1vkWSOJCklozznNvK9hvkw) | 2:32 |
 | 22 | [Querido Rey](https://open.spotify.com/track/5qGP6zgyavDjMuZ57YO9jS) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Querido Rey](https://open.spotify.com/album/6SRK19vCyNaT2p88vi6EeY) | 2:48 |
 | 23 | [Me Gustan Los Hombres](https://open.spotify.com/track/4xAdTVNxTWHNMiS7k1Xdvs) | [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ), [Ana del Castillo](https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7) | [Me Gustan Los Hombres](https://open.spotify.com/album/0U0SoItZGkL6F0JrUejXiP) | 3:21 |

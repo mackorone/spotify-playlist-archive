@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 163068,
+  "num_followers": 163083,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,26 @@
     {
       "added_at": "2025-04-03 23:00:32",
       "album": {
+        "name": "Final Breath",
+        "url": "https://open.spotify.com/album/2zzZimoreQVoJksCnl7suu"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "A Little Sound",
+          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
+        }
+      ],
+      "duration_ms": 229028,
+      "name": "Final Breath",
+      "url": "https://open.spotify.com/track/0KmWcBQsiZgiKqzfgjxC6x"
+    },
+    {
+      "added_at": "2025-04-03 23:00:32",
+      "album": {
         "name": "Savage",
         "url": "https://open.spotify.com/album/6wTizwMekuDFKmDejb1z3S"
       },
@@ -699,26 +719,6 @@
     {
       "added_at": "2025-04-03 23:00:32",
       "album": {
-        "name": "Final Breath",
-        "url": "https://open.spotify.com/album/2zzZimoreQVoJksCnl7suu"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "A Little Sound",
-          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
-        }
-      ],
-      "duration_ms": 229028,
-      "name": "Final Breath",
-      "url": "https://open.spotify.com/track/0KmWcBQsiZgiKqzfgjxC6x"
-    },
-    {
-      "added_at": "2025-04-03 23:00:32",
-      "album": {
         "name": "Break It Down (feat. Emily Makis)",
         "url": "https://open.spotify.com/album/3rVUj16tkYgoUShijrDkO7"
       },
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-04-03 23:00:32",
       "album": {
-        "name": "To The Limit",
-        "url": "https://open.spotify.com/album/7kdeCxqXIipxJ1bJyrcyM1"
-      },
-      "artists": [
-        {
-          "name": "[IVY]",
-          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
-        }
-      ],
-      "duration_ms": 161206,
-      "name": "To The Limit",
-      "url": "https://open.spotify.com/track/1aaz5QC5JW5YuyYq8AGHTI"
-    },
-    {
-      "added_at": "2025-04-03 23:00:32",
-      "album": {
         "name": "Yapa Yapa (Shut It Pls) [feat. Dr Ofori]",
         "url": "https://open.spotify.com/album/3Z9MUVPl8LX8k61pp53zdz"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 114158,
       "name": "Yapa Yapa (Shut It Pls) [feat. Dr Ofori]",
       "url": "https://open.spotify.com/track/6j2ahxtJ0tzWX6ElZUGiHj"
+    },
+    {
+      "added_at": "2025-04-03 23:00:32",
+      "album": {
+        "name": "To The Limit",
+        "url": "https://open.spotify.com/album/7kdeCxqXIipxJ1bJyrcyM1"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        }
+      ],
+      "duration_ms": 161206,
+      "name": "To The Limit",
+      "url": "https://open.spotify.com/track/1aaz5QC5JW5YuyYq8AGHTI"
     },
     {
       "added_at": "2025-04-03 23:00:32",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-04-03 23:00:32",
       "album": {
-        "name": "Eyes On Me (VIP)",
-        "url": "https://open.spotify.com/album/4xAZ9I19zSBJIpXdANdmj1"
-      },
-      "artists": [
-        {
-          "name": "Rova",
-          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
-        }
-      ],
-      "duration_ms": 223636,
-      "name": "Eyes On Me - VIP",
-      "url": "https://open.spotify.com/track/51NB3wz43oc8U2tUmXPH7F"
-    },
-    {
-      "added_at": "2025-04-03 23:00:32",
-      "album": {
         "name": "Orchid",
         "url": "https://open.spotify.com/album/1H7kMYpmTl0M3bzpVlY941"
       },
@@ -935,6 +919,22 @@
     {
       "added_at": "2025-04-03 23:00:32",
       "album": {
+        "name": "Eyes On Me (VIP)",
+        "url": "https://open.spotify.com/album/4xAZ9I19zSBJIpXdANdmj1"
+      },
+      "artists": [
+        {
+          "name": "Rova",
+          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
+        }
+      ],
+      "duration_ms": 223636,
+      "name": "Eyes On Me - VIP",
+      "url": "https://open.spotify.com/track/51NB3wz43oc8U2tUmXPH7F"
+    },
+    {
+      "added_at": "2025-04-03 23:00:32",
+      "album": {
         "name": "In The Echo / Change",
         "url": "https://open.spotify.com/album/7ejctK0J4t2OSt0OFjZFsj"
       },
@@ -947,26 +947,6 @@
       "duration_ms": 183448,
       "name": "In The Echo",
       "url": "https://open.spotify.com/track/3umnS58B88O7O7tW2pIfqw"
-    },
-    {
-      "added_at": "2025-04-03 23:00:32",
-      "album": {
-        "name": "Slumber",
-        "url": "https://open.spotify.com/album/4iX57BmbUQ6UyFvZ18YTdI"
-      },
-      "artists": [
-        {
-          "name": "DNMO",
-          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
-        },
-        {
-          "name": "Confz",
-          "url": "https://open.spotify.com/artist/0rDKqHGVAr2uveD7FEyVCE"
-        }
-      ],
-      "duration_ms": 180689,
-      "name": "Slumber",
-      "url": "https://open.spotify.com/track/4lGEf5Lfh2T5MYT4H5Atr6"
     },
     {
       "added_at": "2025-04-03 23:00:32",
@@ -987,6 +967,26 @@
       "duration_ms": 220124,
       "name": "Patterns",
       "url": "https://open.spotify.com/track/23xE27jW7X7Tl2Y3favXv8"
+    },
+    {
+      "added_at": "2025-04-03 23:00:32",
+      "album": {
+        "name": "Slumber",
+        "url": "https://open.spotify.com/album/4iX57BmbUQ6UyFvZ18YTdI"
+      },
+      "artists": [
+        {
+          "name": "DNMO",
+          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
+        },
+        {
+          "name": "Confz",
+          "url": "https://open.spotify.com/artist/0rDKqHGVAr2uveD7FEyVCE"
+        }
+      ],
+      "duration_ms": 180689,
+      "name": "Slumber",
+      "url": "https://open.spotify.com/track/4lGEf5Lfh2T5MYT4H5Atr6"
     },
     {
       "added_at": "2025-04-03 23:00:32",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2025-04-03 23:00:32",
       "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/6kkuauy1P7R77eJxQ3F2pD"
+      },
+      "artists": [
+        {
+          "name": "Rova",
+          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
+        }
+      ],
+      "duration_ms": 159545,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/2kFEAt6h5leSlJlgmo71Dr"
+    },
+    {
+      "added_at": "2025-04-03 23:00:32",
+      "album": {
         "name": "Beamin\u2019",
         "url": "https://open.spotify.com/album/11sXnogjgJ8nlpwwpHrsEa"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 140724,
       "name": "Beamin\u2019",
       "url": "https://open.spotify.com/track/7LUftIuD039hNS4CevDHdn"
-    },
-    {
-      "added_at": "2025-04-03 23:00:32",
-      "album": {
-        "name": "Say My Name",
-        "url": "https://open.spotify.com/album/6kkuauy1P7R77eJxQ3F2pD"
-      },
-      "artists": [
-        {
-          "name": "Rova",
-          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
-        }
-      ],
-      "duration_ms": 159545,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/2kFEAt6h5leSlJlgmo71Dr"
     },
     {
       "added_at": "2025-04-03 23:00:32",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2025-04-03 23:00:32",
       "album": {
-        "name": "Lies",
-        "url": "https://open.spotify.com/album/2T8U5mFu64bzFqi4rkTbqs"
-      },
-      "artists": [
-        {
-          "name": "Camo & Krooked",
-          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
-        },
-        {
-          "name": "Mefjus",
-          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
-        }
-      ],
-      "duration_ms": 184457,
-      "name": "Lies",
-      "url": "https://open.spotify.com/track/0cNL4jWf1723O9XI14KBus"
-    },
-    {
-      "added_at": "2025-04-03 23:00:32",
-      "album": {
         "name": "99 Octane",
         "url": "https://open.spotify.com/album/2Nk6wy0nWd7uAsi6X0bVr0"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 180147,
       "name": "99 Octane",
       "url": "https://open.spotify.com/track/7L3a1pYYJ6eJGUgZyxnLYQ"
+    },
+    {
+      "added_at": "2025-04-03 23:00:32",
+      "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/2T8U5mFu64bzFqi4rkTbqs"
+      },
+      "artists": [
+        {
+          "name": "Camo & Krooked",
+          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
+        },
+        {
+          "name": "Mefjus",
+          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+        }
+      ],
+      "duration_ms": 184457,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/0cNL4jWf1723O9XI14KBus"
     },
     {
       "added_at": "2025-04-03 23:00:32",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2025-04-03 23:00:32",
       "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ"
+      },
+      "artists": [
+        {
+          "name": "Flowidus",
+          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+        },
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+        }
+      ],
+      "duration_ms": 177136,
+      "name": "Outlaw",
+      "url": "https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a"
+    },
+    {
+      "added_at": "2025-04-03 23:00:32",
+      "album": {
         "name": "Bass & Treble",
         "url": "https://open.spotify.com/album/3RM2olXS37uK142eIS5DgH"
       },
@@ -1307,22 +1327,6 @@
     {
       "added_at": "2025-04-03 23:00:32",
       "album": {
-        "name": "I Miss The Old Macky",
-        "url": "https://open.spotify.com/album/1dWGmCM3soNePkWxM0Saca"
-      },
-      "artists": [
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        }
-      ],
-      "duration_ms": 155056,
-      "name": "I Miss The Old Macky",
-      "url": "https://open.spotify.com/track/3QwJmwvUKOnlmoeHDn8MVN"
-    },
-    {
-      "added_at": "2025-04-03 23:00:32",
-      "album": {
         "name": "Jungle Diva",
         "url": "https://open.spotify.com/album/0hYssqIhcO38ksOscEwsoK"
       },
@@ -1351,22 +1355,18 @@
     {
       "added_at": "2025-04-03 23:00:32",
       "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ"
+        "name": "I Miss The Old Macky",
+        "url": "https://open.spotify.com/album/1dWGmCM3soNePkWxM0Saca"
       },
       "artists": [
         {
-          "name": "Flowidus",
-          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
-        },
-        {
-          "name": "Frisco",
-          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
         }
       ],
-      "duration_ms": 177136,
-      "name": "Outlaw",
-      "url": "https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a"
+      "duration_ms": 155056,
+      "name": "I Miss The Old Macky",
+      "url": "https://open.spotify.com/track/3QwJmwvUKOnlmoeHDn8MVN"
     },
     {
       "added_at": "2025-04-03 23:00:32",
@@ -1427,6 +1427,26 @@
     {
       "added_at": "2025-04-03 23:00:32",
       "album": {
+        "name": "Big Fi Dem",
+        "url": "https://open.spotify.com/album/5eQ1dxfitzQG3SX4p0tXCe"
+      },
+      "artists": [
+        {
+          "name": "Cesco",
+          "url": "https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3"
+        },
+        {
+          "name": "Sparkz",
+          "url": "https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf"
+        }
+      ],
+      "duration_ms": 232567,
+      "name": "Big Fi Dem",
+      "url": "https://open.spotify.com/track/3hAODoyUQ34xzoiKMgVbgH"
+    },
+    {
+      "added_at": "2025-04-03 23:00:32",
+      "album": {
         "name": "Bad Boy Horns",
         "url": "https://open.spotify.com/album/3W8GgxqEIZyiE4sOdGbCCt"
       },
@@ -1447,26 +1467,6 @@
       "duration_ms": 252342,
       "name": "Bad Boy Horns",
       "url": "https://open.spotify.com/track/3aAPSZ94zVWGPWcjDUjze8"
-    },
-    {
-      "added_at": "2025-04-03 23:00:32",
-      "album": {
-        "name": "Big Fi Dem",
-        "url": "https://open.spotify.com/album/5eQ1dxfitzQG3SX4p0tXCe"
-      },
-      "artists": [
-        {
-          "name": "Cesco",
-          "url": "https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3"
-        },
-        {
-          "name": "Sparkz",
-          "url": "https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf"
-        }
-      ],
-      "duration_ms": 232567,
-      "name": "Big Fi Dem",
-      "url": "https://open.spotify.com/track/3hAODoyUQ34xzoiKMgVbgH"
     },
     {
       "added_at": "2025-04-03 23:00:32",
@@ -1495,6 +1495,30 @@
     {
       "added_at": "2025-04-03 23:00:32",
       "album": {
+        "name": "We Love Drum & Bass",
+        "url": "https://open.spotify.com/album/29z2vONpk9RyvPueUGwTNF"
+      },
+      "artists": [
+        {
+          "name": "Teddy Killerz",
+          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+        },
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        }
+      ],
+      "duration_ms": 165257,
+      "name": "We Love Drum & Bass",
+      "url": "https://open.spotify.com/track/31DqPeaEO0tiYLz4u1U4mb"
+    },
+    {
+      "added_at": "2025-04-03 23:00:32",
+      "album": {
         "name": "KNOCKIN",
         "url": "https://open.spotify.com/album/6SjpAmtMUwFTcPaeJZksTN"
       },
@@ -1507,6 +1531,30 @@
       "duration_ms": 137142,
       "name": "KNOCKIN",
       "url": "https://open.spotify.com/track/3zrA3t7TNwfzl23xXlHR2N"
+    },
+    {
+      "added_at": "2025-04-03 23:00:32",
+      "album": {
+        "name": "Stay In Your Lane",
+        "url": "https://open.spotify.com/album/2dTuPSiqoig7V7WIaTKtOl"
+      },
+      "artists": [
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Jolie P",
+          "url": "https://open.spotify.com/artist/7LoympcZMyx1ySTpekLmzB"
+        }
+      ],
+      "duration_ms": 167973,
+      "name": "Stay In Your Lane",
+      "url": "https://open.spotify.com/track/3d1KpLb8INoik31nIlIUke"
     },
     {
       "added_at": "2025-04-03 23:00:32",
@@ -1543,46 +1591,6 @@
       "duration_ms": 367976,
       "name": "If We Ever - Unglued VIP Remix",
       "url": "https://open.spotify.com/track/0b6KX6JqqiFt4T1yWwr4LD"
-    },
-    {
-      "added_at": "2025-04-03 23:00:32",
-      "album": {
-        "name": "Stay In Your Lane",
-        "url": "https://open.spotify.com/album/2dTuPSiqoig7V7WIaTKtOl"
-      },
-      "artists": [
-        {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        },
-        {
-          "name": "Jolie P",
-          "url": "https://open.spotify.com/artist/7LoympcZMyx1ySTpekLmzB"
-        }
-      ],
-      "duration_ms": 167973,
-      "name": "Stay In Your Lane",
-      "url": "https://open.spotify.com/track/3d1KpLb8INoik31nIlIUke"
-    },
-    {
-      "added_at": "2025-04-03 23:00:32",
-      "album": {
-        "name": "Don't Wanna Wake Up",
-        "url": "https://open.spotify.com/album/041BgCygr8ruF5sCYmxdBi"
-      },
-      "artists": [
-        {
-          "name": "Kings Of The Rollers",
-          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
-        }
-      ],
-      "duration_ms": 289371,
-      "name": "Don't Wanna Wake Up",
-      "url": "https://open.spotify.com/track/5Hjb5dh9ze2rI9RfnoBGpS"
     }
   ],
   "unique_name": "Proper Naughty ",

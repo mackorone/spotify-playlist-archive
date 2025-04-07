@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Por Nuestro Bien",
+        "url": "https://open.spotify.com/album/6vu03Cw5oDyd3rS4cmsB1a"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193946,
+      "name": "Cuenta Cobrada",
+      "url": "https://open.spotify.com/track/4UytravBJOMST6t7qoa31Z"
+    },
+    {
+      "album": {
         "name": "15 \u00c9xitos De (Vol. 2)",
         "url": "https://open.spotify.com/album/7LDBCeInFVYwylBAC3mqpW"
       },
@@ -574,7 +592,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-07",
       "duration_ms": 190333,
       "name": "El Gavilan De Aguaprieta",
       "url": "https://open.spotify.com/track/4hk3488nPDQS3btUXS2Xyq"
@@ -754,10 +772,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-07",
       "duration_ms": 188440,
       "name": "El Rico Pobre",
       "url": "https://open.spotify.com/track/1ECgAz9uzij134mOSvARmb"
+    },
+    {
+      "album": {
+        "name": "15 Claves En Corrido",
+        "url": "https://open.spotify.com/album/3M4A3npKRXpMB14aZXh8B7"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188440,
+      "name": "El Rico Pobre",
+      "url": "https://open.spotify.com/track/6h1IFfO76PWR1D1LS3MZQt"
     },
     {
       "album": {

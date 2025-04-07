@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,038 likes - 530 songs - 1 day 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,037 likes - 530 songs - 1 day 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -539,4 +539,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 529 | [A Pink Lady Strikes Back](https://open.spotify.com/track/7oC6aniTH48y5rG3QL49k1) | [Nick Sena](https://open.spotify.com/artist/1X7NTimlJ4ViHqyF4pbJBL), [Zachary Dawes](https://open.spotify.com/artist/1CZejX1UWfKLW0BncrZDc5) | [Grease: Rise of the Pink Ladies \(A Paramount+ Original Series Score\)](https://open.spotify.com/album/7vdKIcMpLX6vAUKeHGcQI9) | 1:42 |
 | 530 | [Living A Lie](https://open.spotify.com/track/2mI14DzPxj1TZ3xIn5YQmI) | [Justin A\. G.](https://open.spotify.com/artist/5hEVcpUrC8MQdXTPv502jC) | [Here's To You, Here's To Me](https://open.spotify.com/album/1AlBjy74LvUvDCWXlgiJpb) | 2:29 |
 
-Snapshot ID: `Abt/vgAAAADiqTQjxPWSDG7FHLZvhWY5`
+Snapshot ID: `AbuFXgAAAADlIvtYM3h92dpyeez0GYJS`

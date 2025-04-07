@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Rafaga. The essential tracks, all in one playlist.",
-  "num_followers": 8257,
+  "num_followers": 8262,
   "original_name": "This Is Banda Rafaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+8hAAAAAACgdbKGoDb2+fEC+nJJb7pS",
+  "snapshot_id": "Z/BygAAAAACRF565pvEIkzJNnbWqRi9J",
   "tracks": [
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde Pico Rivera!",
-        "url": "https://open.spotify.com/album/757G9Xm99Wt6DrdgTusxhU"
+        "name": "Para Ellas",
+        "url": "https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 221006,
-      "name": "Una Noche de Banda - En Vivo",
-      "url": "https://open.spotify.com/track/2bnW1HKDaRsalZiAZWgPo1"
+      "duration_ms": 217186,
+      "name": "Hoja en Blanco",
+      "url": "https://open.spotify.com/track/4uOfm8oGMeY0oagM3IHZGI"
     },
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Ellas",
-        "url": "https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39"
+        "name": "Desde Pico Rivera!",
+        "url": "https://open.spotify.com/album/757G9Xm99Wt6DrdgTusxhU"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 217186,
-      "name": "Hoja en Blanco",
-      "url": "https://open.spotify.com/track/4uOfm8oGMeY0oagM3IHZGI"
+      "duration_ms": 221006,
+      "name": "Una Noche de Banda - En Vivo",
+      "url": "https://open.spotify.com/track/2bnW1HKDaRsalZiAZWgPo1"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
       "duration_ms": 167020,
       "name": "Morenita - En Vivo",
       "url": "https://open.spotify.com/track/5JE8FvmSOnudMDgbcLk4yZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y Todav\u00eda Hay Amor",
-        "url": "https://open.spotify.com/album/4DnkB5NeZ51czGipXVAkWF"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 179306,
-      "name": "Ay Maria",
-      "url": "https://open.spotify.com/track/3bp4N1zh3mq0nSX2NXv6Yd"
     },
     {
       "added_at": null,
@@ -560,7 +544,7 @@
       "added_at": null,
       "album": {
         "name": "Y Todav\u00eda Hay Amor",
-        "url": "https://open.spotify.com/album/4DnkB5NeZ51czGipXVAkWF"
+        "url": "https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl"
       },
       "artists": [
         {
@@ -570,7 +554,7 @@
       ],
       "duration_ms": 157600,
       "name": "Y Todav\u00eda Hay Amor",
-      "url": "https://open.spotify.com/track/06lla8LEMeZ7zV4YILOpA2"
+      "url": "https://open.spotify.com/track/066wvPX3h2s51ttZk6XOfA"
     },
     {
       "added_at": null,
@@ -632,9 +616,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 208773,
-      "name": "Algo Sin Igual",
-      "url": "https://open.spotify.com/track/0rpugJvfFm3y9UQ244wfXX"
+      "duration_ms": 179306,
+      "name": "Ay Maria",
+      "url": "https://open.spotify.com/track/3bp4N1zh3mq0nSX2NXv6Yd"
     },
     {
       "added_at": null,
@@ -687,8 +671,24 @@
     {
       "added_at": null,
       "album": {
+        "name": "Y Todav\u00eda Hay Amor",
+        "url": "https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 137493,
+      "name": "De Que Me Sirve",
+      "url": "https://open.spotify.com/track/2QmqGGck3wh0vfKRFUpdP0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para Ellas",
-        "url": "https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39"
+        "url": "https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv"
       },
       "artists": [
         {
@@ -698,7 +698,7 @@
       ],
       "duration_ms": 184653,
       "name": "Mi Amor Bendito",
-      "url": "https://open.spotify.com/track/5gIPwxhkCDameLVPiykU8n"
+      "url": "https://open.spotify.com/track/0A7bJdzkWDMTCZKkj2GTvU"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Todav\u00eda Hay Amor",
-        "url": "https://open.spotify.com/album/4DnkB5NeZ51czGipXVAkWF"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Merezco Tu Olvido",
-      "url": "https://open.spotify.com/track/18ioQcnn3CE7WL7yDA3MGR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Banda Rafaga en Vivo! , Vol.2 (En Vivo)",
         "url": "https://open.spotify.com/album/3vetEbHsr2ELGdsA7yE2WI"
       },
@@ -751,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Ellas",
-        "url": "https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39"
+        "name": "Y Todav\u00eda Hay Amor",
+        "url": "https://open.spotify.com/album/4DnkB5NeZ51czGipXVAkWF"
       },
       "artists": [
         {
@@ -760,9 +744,25 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 193720,
-      "name": "Para Ellas",
-      "url": "https://open.spotify.com/track/0NB5GkAROV33z5pDY7GGpu"
+      "duration_ms": 208773,
+      "name": "Algo Sin Igual",
+      "url": "https://open.spotify.com/track/0rpugJvfFm3y9UQ244wfXX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Ellas",
+        "url": "https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 170520,
+      "name": "Oh Gran Dios",
+      "url": "https://open.spotify.com/track/4Qi9mG5VOrr9rcjo8vCVuN"
     },
     {
       "added_at": null,
@@ -784,7 +784,7 @@
       "added_at": null,
       "album": {
         "name": "Y Todav\u00eda Hay Amor",
-        "url": "https://open.spotify.com/album/4DnkB5NeZ51czGipXVAkWF"
+        "url": "https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 137493,
-      "name": "De Que Me Sirve",
-      "url": "https://open.spotify.com/track/20WWOcsooLMpsxCroHVAEP"
+      "duration_ms": 196800,
+      "name": "Merezco Tu Olvido",
+      "url": "https://open.spotify.com/track/5nr4GX8nllvylj38HBSrTH"
     },
     {
       "added_at": null,
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 178346,
-      "name": "Anhelo",
-      "url": "https://open.spotify.com/track/27O9E19mmoq8vzMmju1cYi"
+      "duration_ms": 193720,
+      "name": "Para Ellas",
+      "url": "https://open.spotify.com/track/0NB5GkAROV33z5pDY7GGpu"
     }
   ],
   "unique_name": "This Is Banda Rafaga",

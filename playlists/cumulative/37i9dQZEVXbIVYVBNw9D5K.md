@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,174 songs - 2 day 11 hr 16 min
+1,175 songs - 2 day 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Ateşe Düştüm](https://open.spotify.com/track/3auN910HHNYykQo8i9q5J1) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Ateşe Düştüm](https://open.spotify.com/album/1lvm6v5QA0VkNPw58h8Ezi) | 3:50 | 2023-10-04 | 2024-05-05 |
 | [Avaz Avaz](https://open.spotify.com/track/1bYbiK0GZbRoCw8S2nq4pw) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Kara Tiyatro](https://open.spotify.com/album/2XAdcXHwb3SnZLmr0z2eTe) | 2:22 | 2021-05-30 | 2021-05-31 |
 | [Ayaza Serdim](https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Ayaza Serdim](https://open.spotify.com/album/3xDzaEo83O8jaKlvYzUboF) | 3:38 | 2025-01-25 |  |
+| [Ayletme Beni](https://open.spotify.com/track/4N2cu2dVF4xUcqKFMr96hM) | [Volkan Konak](https://open.spotify.com/artist/48CUA59SDed3IdCctKndud) | [Lifor](https://open.spotify.com/album/795JBiwl8VPLQ4Et9ACD3f) | 4:09 | 2025-04-06 |  |
 | [Aynalı Kemer](https://open.spotify.com/track/5kbX6QlSDGgprK3jVuxGt7) | [Barış Manço](https://open.spotify.com/artist/3eVuump9qyK0YCQQo4mKbc) | [Sarı Çizmeli Mehmet Ağa](https://open.spotify.com/album/4CTYIDfsIC4uSdzPaL9f4I) | 3:05 | 2024-08-04 | 2024-08-09 |
 | [Aynen](https://open.spotify.com/track/72HD3OMs70hTZlbKVVd1rG) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Hermano](https://open.spotify.com/album/75VicDyzJQYjtYdtDyGxn4) | 3:06 | 2023-05-07 | 2023-09-24 |
 | [Aynen Öyle](https://open.spotify.com/track/2AwLtOEK3qqZlYTPdBFhke) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Aynen Öyle](https://open.spotify.com/album/1Lp0ckfAeugrkLWr3zde68) | 2:33 | 2021-09-10 | 2022-01-23 |
@@ -677,7 +678,7 @@
 | [Kufi](https://open.spotify.com/track/7AbbuiP5vKiuyFl47Z5jY3) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Kufi](https://open.spotify.com/album/5Y2a9iCvO8nflR7838wkrz) | 4:25 | 2024-12-14 |  |
 | [Kufi](https://open.spotify.com/track/4JqP7JwWNG8I7xY40E6IWh) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Kufi](https://open.spotify.com/album/3FpJOsSnsSziu7JFmAzRPc) | 4:26 | 2024-06-25 | 2024-09-08 |
 | [KUM SAATİ](https://open.spotify.com/track/7dC9xFO2FYKmnRwJsa936V) | [Can7](https://open.spotify.com/artist/17AQsa7DW5ANQdRTV83cEJ) | [KUM SAATİ](https://open.spotify.com/album/28ExGabncl1Aa7nC4mrBJ8) | 1:56 | 2023-04-10 | 2023-05-31 |
-| [Kumralım](https://open.spotify.com/track/3tCCD2qQLdC99YkRwGPSsx) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Divane](https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp) | 3:30 | 2023-05-22 |  |
+| [Kumralım](https://open.spotify.com/track/3tCCD2qQLdC99YkRwGPSsx) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Divane](https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp) | 3:30 | 2023-05-22 | 2025-04-07 |
 | [KURSUN DELIKLERI](https://open.spotify.com/track/7f7u6tinuOcJhY7mDpEYTq) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Hypzex](https://open.spotify.com/artist/42jeWT1YU3yKejPa704z25) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:42 | 2022-09-10 | 2022-09-12 |
 | [Kusura Bakma](https://open.spotify.com/track/7ng3MkDXpSUVFQEhN6vtqG) | [Tuğkan](https://open.spotify.com/artist/2h1EEQ0lD01lPKDRGisvL4) | [Kusura Bakma](https://open.spotify.com/album/2wQTy5lZxRCArc6UScs8zt) | 2:35 | 2021-03-27\* | 2021-12-19 |
 | [Kuytu Köşelerde](https://open.spotify.com/track/145jqpXnJcombk47TB8305) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86) | [Kuytu Köşelerde](https://open.spotify.com/album/66fQ1OfL3g4o2aOzLn247q) | 3:55 | 2021-04-15 | 2021-04-20 |

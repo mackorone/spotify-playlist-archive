@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcKbRenf7f0wN.md) - [plain]
 | 29 | [Burn in Hell](https://open.spotify.com/track/0TT5rG6JOdzv5FkujZ4O9B) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Puritanical Euphoric Misanthropia](https://open.spotify.com/album/6sDdbLoIOzGwR61lL2jGN2) | 5:05 |
 | 30 | [Psalm 9 \- Remastered 2020](https://open.spotify.com/track/1OPXYIHuDMfhmXccXOQIo4) | [Trouble](https://open.spotify.com/artist/0eayuW5zGMgvXCEmcP7ivq) | [Psalm 9 \(Remastered 2020\)](https://open.spotify.com/album/36Ml1dybEUn95Ka3f6c3hn) | 4:48 |
 
-Snapshot ID: `Z+oFMAAAAAANCTkOoQLLwxBO5VP48Nq6`
+Snapshot ID: `Z+oFMAAAAADSvkOLvhU+n3mMKaXbcEYI`

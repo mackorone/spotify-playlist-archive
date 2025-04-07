@@ -1,6 +1,6 @@
 {
   "description": "Fearless sounds at the crossroads of country and folk. Cover: Goldie Boutilier",
-  "num_followers": 66753,
+  "num_followers": 66760,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2025-04-04 04:00:33",
       "album": {
+        "name": "Wanna Be Loved",
+        "url": "https://open.spotify.com/album/3gkwDd6hohNwtgET2IpJLZ"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "duration_ms": 217307,
+      "name": "Wanna Be Loved",
+      "url": "https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb"
+    },
+    {
+      "added_at": "2025-04-04 04:00:33",
+      "album": {
         "name": "White Horse",
         "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
       },
@@ -355,18 +371,18 @@
     {
       "added_at": "2025-04-04 04:00:33",
       "album": {
-        "name": "Wanna Be Loved",
-        "url": "https://open.spotify.com/album/3gkwDd6hohNwtgET2IpJLZ"
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
       },
       "artists": [
         {
-          "name": "The Red Clay Strays",
-          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 217307,
-      "name": "Wanna Be Loved",
-      "url": "https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb"
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
       "added_at": "2025-04-04 04:00:33",
@@ -419,54 +435,6 @@
     {
       "added_at": "2025-04-04 04:00:33",
       "album": {
-        "name": "Something in the Orange",
-        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "Something in the Orange",
-      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
-    },
-    {
-      "added_at": "2025-04-04 04:00:33",
-      "album": {
-        "name": "In Your Love",
-        "url": "https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 225826,
-      "name": "In Your Love",
-      "url": "https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9"
-    },
-    {
-      "added_at": "2025-04-04 04:00:33",
-      "album": {
-        "name": "Made by These Moments",
-        "url": "https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe"
-      },
-      "artists": [
-        {
-          "name": "The Red Clay Strays",
-          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
-        }
-      ],
-      "duration_ms": 257372,
-      "name": "No One Else Like Me",
-      "url": "https://open.spotify.com/track/5XlMj49P3jjmXpAdVGOLyW"
-    },
-    {
-      "added_at": "2025-04-04 04:00:33",
-      "album": {
         "name": "Million Eyes",
         "url": "https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY"
       },
@@ -515,6 +483,38 @@
     {
       "added_at": "2025-04-04 04:00:33",
       "album": {
+        "name": "Made by These Moments",
+        "url": "https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "duration_ms": 257372,
+      "name": "No One Else Like Me",
+      "url": "https://open.spotify.com/track/5XlMj49P3jjmXpAdVGOLyW"
+    },
+    {
+      "added_at": "2025-04-04 04:00:33",
+      "album": {
+        "name": "In Your Love",
+        "url": "https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "In Your Love",
+      "url": "https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9"
+    },
+    {
+      "added_at": "2025-04-04 04:00:33",
+      "album": {
         "name": "Bitter Winds",
         "url": "https://open.spotify.com/album/3IMFjhO4GoOADq0tFXhvGg"
       },
@@ -527,6 +527,22 @@
       "duration_ms": 261294,
       "name": "Bitter Winds",
       "url": "https://open.spotify.com/track/4X9UTklC74F5hnlVjrPbnN"
+    },
+    {
+      "added_at": "2025-04-04 04:00:33",
+      "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "28",
+      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
     },
     {
       "added_at": "2025-04-04 04:00:33",
@@ -555,22 +571,6 @@
     {
       "added_at": "2025-04-04 04:00:33",
       "album": {
-        "name": "Rustin' In The Rain",
-        "url": "https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Space and Time",
-      "url": "https://open.spotify.com/track/49ox9rycOdJrbQlWGAJRBL"
-    },
-    {
-      "added_at": "2025-04-04 04:00:33",
-      "album": {
         "name": "A Hard up Life",
         "url": "https://open.spotify.com/album/4hxny6RxCa9kJjdXkpXlPi"
       },
@@ -583,22 +583,6 @@
       "duration_ms": 227366,
       "name": "Pitchin' fits",
       "url": "https://open.spotify.com/track/2m4Rz3Pn5tN7MFth0kHgSL"
-    },
-    {
-      "added_at": "2025-04-04 04:00:33",
-      "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "28",
-      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
     },
     {
       "added_at": "2025-04-04 04:00:33",
@@ -643,6 +627,38 @@
       "duration_ms": 211525,
       "name": "Midnight Ride",
       "url": "https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO"
+    },
+    {
+      "added_at": "2025-04-04 04:00:33",
+      "album": {
+        "name": "Rustin' In The Rain",
+        "url": "https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Space and Time",
+      "url": "https://open.spotify.com/track/49ox9rycOdJrbQlWGAJRBL"
+    },
+    {
+      "added_at": "2025-04-04 04:00:33",
+      "album": {
+        "name": "Burn, Burn, Burn",
+        "url": "https://open.spotify.com/album/4popczz4SYRg2NPcgwKHsR"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 268856,
+      "name": "Burn, Burn, Burn",
+      "url": "https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G"
     },
     {
       "added_at": "2025-04-04 04:00:33",
@@ -727,22 +743,6 @@
       "duration_ms": 194093,
       "name": "Find Your People",
       "url": "https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ"
-    },
-    {
-      "added_at": "2025-04-04 04:00:33",
-      "album": {
-        "name": "Burn, Burn, Burn",
-        "url": "https://open.spotify.com/album/4popczz4SYRg2NPcgwKHsR"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 268856,
-      "name": "Burn, Burn, Burn",
-      "url": "https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G"
     },
     {
       "added_at": "2025-04-04 04:00:33",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2025-04-04 04:00:33",
       "album": {
+        "name": "Trail Of Flowers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 209176,
+      "name": "Dollar Bill Bar",
+      "url": "https://open.spotify.com/track/6YmqrvUwNRWZZWNvPuDpRT"
+    },
+    {
+      "added_at": "2025-04-04 04:00:33",
+      "album": {
         "name": "Where My Wild Things Are",
         "url": "https://open.spotify.com/album/6oWKCBaxJvccxzbe6shr9N"
       },
@@ -1183,6 +1199,22 @@
       "duration_ms": 237781,
       "name": "Where My Wild Things Are",
       "url": "https://open.spotify.com/track/208hyGbFtTa7I7zYzOm13P"
+    },
+    {
+      "added_at": "2025-04-04 04:00:33",
+      "album": {
+        "name": "The Man from Waco",
+        "url": "https://open.spotify.com/album/2CegSVMbZ18cUUUBAhpesV"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "I'm Just a Clown",
+      "url": "https://open.spotify.com/track/6jmnCjWfoX3n6lcLOI7L6Z"
     },
     {
       "added_at": "2025-04-04 04:00:33",
@@ -1219,8 +1251,8 @@
     {
       "added_at": "2025-04-04 04:00:33",
       "album": {
-        "name": "Trail Of Flowers (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4IwuJ8IsQbZhLBZdRsUO2D"
       },
       "artists": [
         {
@@ -1228,9 +1260,9 @@
           "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 209176,
-      "name": "Dollar Bill Bar",
-      "url": "https://open.spotify.com/track/6YmqrvUwNRWZZWNvPuDpRT"
+      "duration_ms": 250801,
+      "name": "Seven Spanish Angels (Recorded at Luck Reunion) - Spotify Singles",
+      "url": "https://open.spotify.com/track/4LRYmJbb3dzHi8Hp48i3KR"
     },
     {
       "added_at": "2025-04-04 04:00:33",
@@ -1247,22 +1279,6 @@
       "duration_ms": 190026,
       "name": "Bloodline",
       "url": "https://open.spotify.com/track/5oPvYIe6n8qkqooSrejkFh"
-    },
-    {
-      "added_at": "2025-04-04 04:00:33",
-      "album": {
-        "name": "The Man from Waco",
-        "url": "https://open.spotify.com/album/2CegSVMbZ18cUUUBAhpesV"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "I'm Just a Clown",
-      "url": "https://open.spotify.com/track/6jmnCjWfoX3n6lcLOI7L6Z"
     },
     {
       "added_at": "2025-04-04 04:00:33",
@@ -1315,22 +1331,6 @@
       "duration_ms": 218266,
       "name": "Twin Flame (feat. Goldie Boutilier)",
       "url": "https://open.spotify.com/track/4QYNd9eqc1GtfLrI0rMP8o"
-    },
-    {
-      "added_at": "2025-04-04 04:00:33",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4IwuJ8IsQbZhLBZdRsUO2D"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 250801,
-      "name": "Seven Spanish Angels (Recorded at Luck Reunion) - Spotify Singles",
-      "url": "https://open.spotify.com/track/4LRYmJbb3dzHi8Hp48i3KR"
     },
     {
       "added_at": "2025-04-04 04:00:33",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2025-04-04 04:00:33",
       "album": {
+        "name": "Misty Morning",
+        "url": "https://open.spotify.com/album/6s63TEd5EIUdni4l1HjK1W"
+      },
+      "artists": [
+        {
+          "name": "The East Pointers",
+          "url": "https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3"
+        }
+      ],
+      "duration_ms": 182866,
+      "name": "Misty Morning",
+      "url": "https://open.spotify.com/track/1Kdlm8PzHhF2ZxULjLZVxc"
+    },
+    {
+      "added_at": "2025-04-04 04:00:33",
+      "album": {
         "name": "Working On My Tan",
         "url": "https://open.spotify.com/album/0Bao2JWD4FrEx495tuftGc"
       },
@@ -1451,22 +1467,6 @@
     {
       "added_at": "2025-04-04 04:00:33",
       "album": {
-        "name": "Hey There, Dolly",
-        "url": "https://open.spotify.com/album/0B2CXYIcGPmwblaZvKbueY"
-      },
-      "artists": [
-        {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
-        }
-      ],
-      "duration_ms": 193834,
-      "name": "Hey There, Dolly",
-      "url": "https://open.spotify.com/track/6iu1XGjLr5xXPPCp0mrxc9"
-    },
-    {
-      "added_at": "2025-04-04 04:00:33",
-      "album": {
         "name": "Thus Spoke the Fool",
         "url": "https://open.spotify.com/album/4K8fgkZb2es57x2enGQa9n"
       },
@@ -1479,6 +1479,22 @@
       "duration_ms": 184985,
       "name": "Going to Water",
       "url": "https://open.spotify.com/track/3HCWK9dtiQ6X2yP5952dvl"
+    },
+    {
+      "added_at": "2025-04-04 04:00:33",
+      "album": {
+        "name": "Hey There, Dolly",
+        "url": "https://open.spotify.com/album/0B2CXYIcGPmwblaZvKbueY"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "duration_ms": 193834,
+      "name": "Hey There, Dolly",
+      "url": "https://open.spotify.com/track/6iu1XGjLr5xXPPCp0mrxc9"
     },
     {
       "added_at": "2025-04-04 04:00:33",
@@ -1531,6 +1547,22 @@
     {
       "added_at": "2025-04-04 04:00:33",
       "album": {
+        "name": "Our Time In The Sun",
+        "url": "https://open.spotify.com/album/3nmv2z7uaNxaJ4vMlwbHhn"
+      },
+      "artists": [
+        {
+          "name": "Jeremie Albino",
+          "url": "https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY"
+        }
+      ],
+      "duration_ms": 180475,
+      "name": "Our Time In The Sun",
+      "url": "https://open.spotify.com/track/1EpwYfnVysMGx9sDoePtTM"
+    },
+    {
+      "added_at": "2025-04-04 04:00:33",
+      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/3gHZ4w03gbuZtGTEwztrtw"
       },
@@ -1547,22 +1579,6 @@
       "duration_ms": 186861,
       "name": "Never Love You Again (Feat. Sierra Ferrell)",
       "url": "https://open.spotify.com/track/1hpeLq6qX83kCsfh9C8RNI"
-    },
-    {
-      "added_at": "2025-04-04 04:00:33",
-      "album": {
-        "name": "Our Time In The Sun",
-        "url": "https://open.spotify.com/album/3nmv2z7uaNxaJ4vMlwbHhn"
-      },
-      "artists": [
-        {
-          "name": "Jeremie Albino",
-          "url": "https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY"
-        }
-      ],
-      "duration_ms": 180475,
-      "name": "Our Time In The Sun",
-      "url": "https://open.spotify.com/track/1EpwYfnVysMGx9sDoePtTM"
     },
     {
       "added_at": "2025-04-04 04:00:33",
@@ -1623,22 +1639,6 @@
       "duration_ms": 230920,
       "name": "The Returner",
       "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
-    },
-    {
-      "added_at": "2025-04-04 04:00:33",
-      "album": {
-        "name": "Misty Morning",
-        "url": "https://open.spotify.com/album/6s63TEd5EIUdni4l1HjK1W"
-      },
-      "artists": [
-        {
-          "name": "The East Pointers",
-          "url": "https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3"
-        }
-      ],
-      "duration_ms": 182866,
-      "name": "Misty Morning",
-      "url": "https://open.spotify.com/track/1Kdlm8PzHhF2ZxULjLZVxc"
     },
     {
       "added_at": "2025-04-04 04:00:33",

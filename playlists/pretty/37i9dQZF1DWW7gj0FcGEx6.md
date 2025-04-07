@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,740 likes - 193 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,765 likes - 193 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Last Foray](https://open.spotify.com/track/5q4fYSBdqQJ8bS08FYDs7w) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [Last Foray](https://open.spotify.com/album/18TWiATPDTTzTLA253Uv0c) | 1:40 |
+| 1 | [Last Foray \(From "Last Swim" Soundtrack\)](https://open.spotify.com/track/5q4fYSBdqQJ8bS08FYDs7w) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [Last Foray \(From "Last Swim" Soundtrack\)](https://open.spotify.com/album/18TWiATPDTTzTLA253Uv0c) | 1:40 |
 | 2 | [All Things Come To An End](https://open.spotify.com/track/2N1ojXzBB59igxRAiftQoG) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [The Woman in the Yard \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2C8qgpqL0nP8OqECPK0Qiu) | 2:41 |
 | 3 | [The Oak Tree](https://open.spotify.com/track/0MNcYf3ulB0dN71exLMwZ2) | [Tóti Guðnason](https://open.spotify.com/artist/0kaJrGb5y76paoIX6A8SWc), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Surface: Season 2 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/2i4Y3KPqI6Id3sHahhXBzA) | 1:31 |
 | 4 | [Home](https://open.spotify.com/track/03dJLOR6HlYLBVajj5cxA2) | [Gints Zilbalodis](https://open.spotify.com/artist/4q9ORXtwSESmnqDUdBUqMi), [Rihards Zalupe](https://open.spotify.com/artist/4nI8qjYW0A1QO0ycB4OHFu) | [Flow \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7q9YwO9ldgxUXi1H9M9cuY) | 2:04 |

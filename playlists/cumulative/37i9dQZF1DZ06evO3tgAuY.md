@@ -4,7 +4,7 @@
 
 > This is Alex Favela\. The essential tracks, all in one playlist.
 
-66 songs - 3 hr 1 min
+67 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [La Corona](https://open.spotify.com/track/6Ac90AFmBbFz9WnqSHfflv) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [La Corona](https://open.spotify.com/album/0TIk2KKgH0w7qVXzlkolnN) | 1:59 | 2024-08-08 |  |
 | [Levemente Cotorreando \- En Vivo](https://open.spotify.com/track/2SafJyuG87XZ0ox5CdrCaz) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [LA Live Session](https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX) | 2:52 | 2024-08-18 | 2024-08-21 |
 | [Lujos Y Damitas](https://open.spotify.com/track/2KQ0C4lOzVFl5GhqjwIM01) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Jr Heguertty](https://open.spotify.com/artist/6KQXDUqaYVFJznNYMtjkpU) | [Lujos Y Damitas](https://open.spotify.com/album/59HNGHaqXy5l1ML6O7DKtU) | 2:34 | 2024-08-08 |  |
-| [Mas Que Amigos](https://open.spotify.com/track/4pHiqPxCRQeNMgoPqdXvJ3) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Mas Que Amigos](https://open.spotify.com/album/7jNlQ6ps2bh1OzROWHL08Z) | 2:02 | 2024-08-08 |  |
+| [Mas Que Amigos](https://open.spotify.com/track/4pHiqPxCRQeNMgoPqdXvJ3) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Mas Que Amigos](https://open.spotify.com/album/7jNlQ6ps2bh1OzROWHL08Z) | 2:02 | 2024-08-08 | 2025-04-07 |
+| [Mas Que Amigos](https://open.spotify.com/track/6sn09nuikBOJeiQ4r89ZBA) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Mas Que Amigos](https://open.spotify.com/album/3ElDKpuuskZdLpbkfOsKmh) | 2:02 | 2025-04-07 |  |
 | [Medio Fresa \- En Vivo](https://open.spotify.com/track/4epfxYcztlxebaoBOQvddw) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [En Vivo Desde CLN Tololoche Edition](https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z) | 1:59 | 2024-08-08 |  |
 | [Mi Credo](https://open.spotify.com/track/5GitO3AT8NbzUQKcXRApLy) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Mi Credo](https://open.spotify.com/album/47h0H9ZyHTvncTvxU11zuY) | 2:07 | 2025-01-19 |  |
 | [Mr\. Seal The Deal](https://open.spotify.com/track/12ecK1xV4KZ1fHiGo6MlIt) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 4:35 | 2024-08-08 |  |

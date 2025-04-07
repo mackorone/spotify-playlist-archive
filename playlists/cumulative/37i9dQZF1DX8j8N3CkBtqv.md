@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Akanksha Sethi, Nikita Ahuja, Himonshu Parikh and other exciting artists.
 
-1,022 songs - 2 day 7 hr 44 min
+1,023 songs - 2 day 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [Dil Mera \(feat\. Yashraj\)](https://open.spotify.com/track/1nVSxDyWTQbRrn3PudCibw) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb), [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST) | [Dil Mera \(feat\. Yashraj\)](https://open.spotify.com/album/7GlA1ckwyopYmRxvSZs4Hs) | 2:40 | 2023-07-21 | 2023-08-25 |
 | [Dil Mera Hai Awara](https://open.spotify.com/track/4xrEkMa5xRigJYM2ocRlzs) | [Aayush Jain](https://open.spotify.com/artist/5B52AQGhlrLIgAggn9diT3) | [Dil Mera Hai Awara](https://open.spotify.com/album/59g5dtmlECW7SWQWvHWsRl) | 2:31 | 2024-11-22 | 2025-01-11 |
 | [Dil Na Laage](https://open.spotify.com/track/1iQ06QdWjaaPKmwQrJCx49) | [Mitraz](https://open.spotify.com/artist/06FW0iaX7FJHn0Kgt7X5Wb), [Ravneet Singh](https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX) | [Dil Na Laage](https://open.spotify.com/album/707iJF1SzEcGPytosRmLJD) | 3:14 | 2024-01-12 | 2024-02-17 |
-| [Dil Qaabu Mein](https://open.spotify.com/track/2qsllXmDFtGdwSQDsnnJgg) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Dil Qaabu Mein](https://open.spotify.com/album/5RqfHFucuVZ8OqsI0h2a58) | 3:02 | 2025-02-28 |  |
+| [Dil Qaabu Mein](https://open.spotify.com/track/2qsllXmDFtGdwSQDsnnJgg) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Dil Qaabu Mein](https://open.spotify.com/album/5RqfHFucuVZ8OqsI0h2a58) | 3:02 | 2025-02-28 | 2025-04-07 |
 | [Dil Tedha](https://open.spotify.com/track/3a8lAZQ33Q8xM8sdpTdSb9) | [Aman Sagar](https://open.spotify.com/artist/44RHVQwXmrmkfsOnSuURmF), [Shivam Sengupta](https://open.spotify.com/artist/3p9iqVv8YUPK53CfSdS9uq) | [Dil Tedha](https://open.spotify.com/album/1Cnetgvo0bozSEkZJ131si) | 2:18 | 2024-06-14 | 2024-07-13 |
 | [Dil Teri Raah](https://open.spotify.com/track/5vVKNkvj6fXRAoE0St3KYm) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Dil Teri Raah](https://open.spotify.com/album/1LNNBZeapnbYniiRj1BWuZ) | 3:03 | 2023-05-19 | 2023-06-17 |
 | [Dil Yeh Mera](https://open.spotify.com/track/0k4Fk5FcPIRAYzZ2zno2zF) | [Palak Mohan](https://open.spotify.com/artist/6d7IrbbWLqy5kz0K2Ogi4z), [ER](https://open.spotify.com/artist/7uhWXYh7CNH1M9Dwko8qll) | [Dil Yeh Mera](https://open.spotify.com/album/57OZRw7esQujeKfjWspvA0) | 3:01 | 2024-08-02 | 2024-09-28 |
@@ -999,6 +999,7 @@
 | [When You Smile](https://open.spotify.com/track/7drZ27Wes5FgldRmanF50m) | [Aniirban Saha](https://open.spotify.com/artist/4UTFMGL1wJ8jFvapqEXdJH) | [When You Smile](https://open.spotify.com/album/2qhnGMvs8Tk9QLEdwhVQ1B) | 3:38 | 2024-06-14 | 2024-07-13 |
 | [wine & chill](https://open.spotify.com/track/7s3XwJTLkIdX7XsLjbttzq) | [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [wine & chill](https://open.spotify.com/album/1zefQRMCMUfhzc1amKryYw) | 3:59 | 2023-05-26 | 2023-07-08 |
 | [Woh Kitaab](https://open.spotify.com/track/01f9F1FFwOcwZeqogOlCVJ) | [Rishi Dutta](https://open.spotify.com/artist/4fmbLKWLB2luqzJXcevWkW), [Anand Bhaskar](https://open.spotify.com/artist/4aykldlxvwj6cRQfhbfNMO) | [Woh Kitaab](https://open.spotify.com/album/1C63lZP0nVG3IvWzplLuth) | 4:15 | 2025-02-28 | 2025-03-08 |
+| [Woh Ladka](https://open.spotify.com/track/4d6JwfhVEVxF9HvVhjG9yc) | [Shai](https://open.spotify.com/artist/4fXKzFtrAGS3gGyM0BKoKq), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Woh Ladka](https://open.spotify.com/album/48pPTKLp4pgpTY7foQkfk9) | 2:05 | 2025-04-04 |  |
 | [Woh Main Hoon](https://open.spotify.com/track/1RxbNlquEzPxXO2O20axxp) | [Chirag Soni](https://open.spotify.com/artist/3UMC3IINcoIuI0GeNb6Jm3), [Vishal Pande](https://open.spotify.com/artist/579y8QAT8i0Tr5G2D4kuN3) | [Woh Main Hoon](https://open.spotify.com/album/0CGt8RyaUvA0cZO9NMYkZR) | 3:32 | 2023-08-18 | 2023-09-16 |
 | [Yaad](https://open.spotify.com/track/4P0LkIqpdn3v9udP5yWRl9) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [Rajat Arora](https://open.spotify.com/artist/2ubmAXEE8tHwcw8xRHDSh7) | [Yaad](https://open.spotify.com/album/0AvvCzztJAisAUEbkHz6Cx) | 2:36 | 2023-05-26 | 2023-07-15 |
 | [Yaad Aayegi](https://open.spotify.com/track/7iut9E1S3wF6poT8aopIdY) | [Priyanshi Srivastava](https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo) | [Yaad Aayegi](https://open.spotify.com/album/7t1B0AMRNSVBsvoHmp7V0U) | 2:16 | 2025-01-31 | 2025-02-11 |

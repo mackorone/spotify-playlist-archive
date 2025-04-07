@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 29654,
+  "num_followers": 29679,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2025-02-19 09:10:16",
       "album": {
+        "name": "Lai Bhari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/63X8oYDqhvjJyfVDy4SiSX"
+      },
+      "artists": [
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        }
+      ],
+      "duration_ms": 305805,
+      "name": "Mauli Mauli",
+      "url": "https://open.spotify.com/track/2wlvvOjuDENy0b7DbdZ6Dr"
+    },
+    {
+      "added_at": "2025-02-19 09:10:16",
+      "album": {
         "name": "Angaat Aalaya - Zombivli",
         "url": "https://open.spotify.com/album/5GJgMooWCCoTVFJ4TOyIkx"
       },
@@ -263,6 +279,26 @@
       "duration_ms": 226008,
       "name": "Angaat Aalaya",
       "url": "https://open.spotify.com/track/3CdyqQCvlKJLVr9II5XIDT"
+    },
+    {
+      "added_at": "2025-02-19 09:10:16",
+      "album": {
+        "name": "Rege (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0i1f1m6uGlS7LoL2WtOCEP"
+      },
+      "artists": [
+        {
+          "name": "Anand Shinde",
+          "url": "https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd"
+        },
+        {
+          "name": "Avadhoot Gupte",
+          "url": "https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock"
+        }
+      ],
+      "duration_ms": 307304,
+      "name": "Shitti Wajali Gaadi Sutali",
+      "url": "https://open.spotify.com/track/44FmJZhQSghzLkKd2E5kMy"
     },
     {
       "added_at": "2025-02-19 09:10:16",
@@ -331,22 +367,6 @@
     {
       "added_at": "2025-02-19 09:10:16",
       "album": {
-        "name": "Lai Bhari (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/63X8oYDqhvjJyfVDy4SiSX"
-      },
-      "artists": [
-        {
-          "name": "Ajay Gogavale",
-          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
-        }
-      ],
-      "duration_ms": 305805,
-      "name": "Mauli Mauli",
-      "url": "https://open.spotify.com/track/2wlvvOjuDENy0b7DbdZ6Dr"
-    },
-    {
-      "added_at": "2025-02-19 09:10:16",
-      "album": {
         "name": "Majhi Navri",
         "url": "https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT"
       },
@@ -387,26 +407,6 @@
       "duration_ms": 195333,
       "name": "Koligeet Mashup 3",
       "url": "https://open.spotify.com/track/2jtBlW0nxItmYL03yG0gQ1"
-    },
-    {
-      "added_at": "2025-02-19 09:10:16",
-      "album": {
-        "name": "Rege (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0i1f1m6uGlS7LoL2WtOCEP"
-      },
-      "artists": [
-        {
-          "name": "Anand Shinde",
-          "url": "https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd"
-        },
-        {
-          "name": "Avadhoot Gupte",
-          "url": "https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock"
-        }
-      ],
-      "duration_ms": 307304,
-      "name": "Shitti Wajali Gaadi Sutali",
-      "url": "https://open.spotify.com/track/44FmJZhQSghzLkKd2E5kMy"
     },
     {
       "added_at": "2025-02-19 09:10:16",
@@ -579,6 +579,22 @@
     {
       "added_at": "2025-02-19 09:10:16",
       "album": {
+        "name": "Zenda (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3oCYJ9yh2VfLl5lBVfGeIq"
+      },
+      "artists": [
+        {
+          "name": "Vaishali Samant",
+          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Patil Aala",
+      "url": "https://open.spotify.com/track/6EdZ7a4LCQhKgiFLG0lzMu"
+    },
+    {
+      "added_at": "2025-02-19 09:10:16",
+      "album": {
         "name": "Lagan",
         "url": "https://open.spotify.com/album/5OA5DqcolSFRMtaC57179R"
       },
@@ -607,46 +623,6 @@
       "duration_ms": 179573,
       "name": "Shantabai DJ",
       "url": "https://open.spotify.com/track/0UPVbrPxCWR41qk9uG75gJ"
-    },
-    {
-      "added_at": "2025-02-19 09:10:16",
-      "album": {
-        "name": "Zenda (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3oCYJ9yh2VfLl5lBVfGeIq"
-      },
-      "artists": [
-        {
-          "name": "Vaishali Samant",
-          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Patil Aala",
-      "url": "https://open.spotify.com/track/6EdZ7a4LCQhKgiFLG0lzMu"
-    },
-    {
-      "added_at": "2025-02-19 09:10:16",
-      "album": {
-        "name": "Maharashtra Shaheer",
-        "url": "https://open.spotify.com/album/4XK80Uj04Z0zrTT5qTyjBk"
-      },
-      "artists": [
-        {
-          "name": "Ajay-Atul",
-          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
-        },
-        {
-          "name": "Ajay Gogavale",
-          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 223831,
-      "name": "Baharla Ha Madhumas",
-      "url": "https://open.spotify.com/track/1j2cBWHYNaN6dB8QAMY8mw"
     },
     {
       "added_at": "2025-02-19 09:10:16",
@@ -723,6 +699,46 @@
     {
       "added_at": "2025-02-19 09:10:16",
       "album": {
+        "name": "Maharashtra Shaheer",
+        "url": "https://open.spotify.com/album/4XK80Uj04Z0zrTT5qTyjBk"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 223831,
+      "name": "Baharla Ha Madhumas",
+      "url": "https://open.spotify.com/track/1j2cBWHYNaN6dB8QAMY8mw"
+    },
+    {
+      "added_at": "2025-02-19 09:10:16",
+      "album": {
+        "name": "Aika Dajiba",
+        "url": "https://open.spotify.com/album/2W0MLcqkRs0DbS3kXq4d7C"
+      },
+      "artists": [
+        {
+          "name": "Vaishali Samant",
+          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "Aika Dajiba",
+      "url": "https://open.spotify.com/track/5FjtI1VamgonPsylqnQWNZ"
+    },
+    {
+      "added_at": "2025-02-19 09:10:16",
+      "album": {
         "name": "Zindagi Virat",
         "url": "https://open.spotify.com/album/3u5zc2DFWyWph8CZSW96ra"
       },
@@ -735,34 +751,6 @@
       "duration_ms": 249444,
       "name": "Malhar",
       "url": "https://open.spotify.com/track/6ULjFqw6RqaadGwCMFT3wJ"
-    },
-    {
-      "added_at": "2025-02-19 09:10:16",
-      "album": {
-        "name": "Maharashtra Shaheer",
-        "url": "https://open.spotify.com/album/4XK80Uj04Z0zrTT5qTyjBk"
-      },
-      "artists": [
-        {
-          "name": "Ajay-Atul",
-          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
-        },
-        {
-          "name": "Jayesh Khare",
-          "url": "https://open.spotify.com/artist/6vndO4bnE3pXSPZ3xKkZ2U"
-        },
-        {
-          "name": "Mayur Sukale",
-          "url": "https://open.spotify.com/artist/0ET8FP6HX14K2uZWHjDq2s"
-        },
-        {
-          "name": "Ajay Gogavale",
-          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
-        }
-      ],
-      "duration_ms": 304001,
-      "name": "Gau Nako Kisna",
-      "url": "https://open.spotify.com/track/5frla1hLU3JgNbj3O3xb6M"
     },
     {
       "added_at": "2025-02-19 09:10:16",
@@ -811,18 +799,30 @@
     {
       "added_at": "2025-02-19 09:10:16",
       "album": {
-        "name": "Aika Dajiba",
-        "url": "https://open.spotify.com/album/2W0MLcqkRs0DbS3kXq4d7C"
+        "name": "Maharashtra Shaheer",
+        "url": "https://open.spotify.com/album/4XK80Uj04Z0zrTT5qTyjBk"
       },
       "artists": [
         {
-          "name": "Vaishali Samant",
-          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "Jayesh Khare",
+          "url": "https://open.spotify.com/artist/6vndO4bnE3pXSPZ3xKkZ2U"
+        },
+        {
+          "name": "Mayur Sukale",
+          "url": "https://open.spotify.com/artist/0ET8FP6HX14K2uZWHjDq2s"
+        },
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
         }
       ],
-      "duration_ms": 285000,
-      "name": "Aika Dajiba",
-      "url": "https://open.spotify.com/track/5FjtI1VamgonPsylqnQWNZ"
+      "duration_ms": 304001,
+      "name": "Gau Nako Kisna",
+      "url": "https://open.spotify.com/track/5frla1hLU3JgNbj3O3xb6M"
     },
     {
       "added_at": "2025-02-19 09:10:16",

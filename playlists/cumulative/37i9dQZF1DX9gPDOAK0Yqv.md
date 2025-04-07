@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-708 songs - 2 day 6 hr 41 min
+709 songs - 2 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,7 @@
 | [Future Self](https://open.spotify.com/track/7rXOjC0ZGvNwUdkQ7Uazq0) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [LEO ISLO](https://open.spotify.com/artist/5VqnicC0xT5ja3283N8Yde) | [Future Self](https://open.spotify.com/album/0Up3Hg8E7Kx4VCWeF2v3Oi) | 4:25 | 2023-06-16 | 2023-07-01 |
 | [Futuro](https://open.spotify.com/track/302izEeCgAxrLEpnXM4nNP) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Ilan Bluestone](https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn) | [Futuro](https://open.spotify.com/album/1DazgXEcICNcTtmYp5SK7H) | 2:55 | 2023-07-07 | 2024-08-24 |
 | [Gamma \(Joyhauser Remix\)](https://open.spotify.com/track/4NvPv0tX9JU0Z8aY9e05T0) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Gamma \(Joyhauser Remix\)](https://open.spotify.com/album/4IpmI7v3nTcGSw4YLKEMrw) | 7:02 | 2022-12-09 | 2023-10-20 |
-| [Gate](https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Gate / Masterplan](https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI) | 5:43 | 2023-06-02 |  |
+| [Gate](https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Gate / Masterplan](https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI) | 5:43 | 2023-06-02 | 2025-04-07 |
 | [Genie's Wish](https://open.spotify.com/track/7qcFBluDDX9xUTN0SZ5uci) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Genie's Wish](https://open.spotify.com/album/2Ad7Qtp9eNY0DYuaUHmw2C) | 6:07 | 2023-02-10 | 2023-02-18 |
 | [Ghosts Again \- Massano Remix](https://open.spotify.com/track/2sQLabj3BSALTq2FmTrDXC) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Ghosts Again \(Remixes\)](https://open.spotify.com/album/24fKIcwvP22B7F4q96jL12) | 6:42 | 2023-05-12 |  |
 | [girl$ \- Layton Giordani Remix](https://open.spotify.com/track/3ZzafniLjEBqRM7GeyRcvz) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [girl$ \(Layton Giordani Remix\)](https://open.spotify.com/album/2vcisyP9y8jUFqI7W6x7BN) | 3:04 | 2024-07-19 |  |
@@ -604,6 +604,7 @@
 | [Tatanka](https://open.spotify.com/track/7F6B3zGnultHVnJXdNo66j) | [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX) | [Tatanka](https://open.spotify.com/album/3N5NIDmGT4ZMtqyiOA9okM) | 6:22 | 2023-03-22 | 2023-03-25 |
 | [Teardrops](https://open.spotify.com/track/1ooF1GtoHziUctFM94iRVW) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [Karin Park](https://open.spotify.com/artist/5uBdYy8QRabKEL1MtDPXfr) | [Teardrops](https://open.spotify.com/album/2Xy2W6IDyQUrPQmJ470i9A) | 3:24 | 2025-03-27 |  |
 | [Telepathic](https://open.spotify.com/track/0MyztaslwZeqsnYPaLmREB) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Telepathic](https://open.spotify.com/album/1yLe2H0i64bqaH8dGYg70O) | 4:38 | 2024-05-08 | 2024-09-06 |
+| [Tell Me \- Agents Of Time Remix](https://open.spotify.com/track/2ynHJcxkFdocBHpW40ujLB) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Tell Me \(Agents Of Time Remix\)](https://open.spotify.com/album/32a7vonlW2nBISBwdrK4MJ) | 4:04 | 2025-04-03 |  |
 | [Tell Me Why \- MEDUZA Remix](https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Tell Me Why \(MEDUZA Remix\)](https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM) | 2:51 | 2022-12-28 | 2023-01-06 |
 | [Tension \(feat\. MERYLL\)](https://open.spotify.com/track/0QBQuBJf1xowOhV7lLldc7) | [Maison Ware](https://open.spotify.com/artist/0A85Mz9YHumTq1HgNtt6aA), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Tension \(feat\. MERYLL\)](https://open.spotify.com/album/5oucec1kxcsbBTE13wQfoJ) | 4:22 | 2023-08-04 | 2023-09-08 |
 | [Termination](https://open.spotify.com/track/7j6mghgIJz1FYXe9Gw8kqb) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C) | [Termination](https://open.spotify.com/album/6GxQv9hlNVAB2G0SpbjQpK) | 4:07 | 2024-01-05 | 2024-04-26 |

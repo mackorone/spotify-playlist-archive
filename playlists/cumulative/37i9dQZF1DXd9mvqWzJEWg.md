@@ -4,7 +4,7 @@
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn?si=0LW\-b38KSByGXzkB8DJPxg">DJ Tira</a>
 
-355 songs - 1 day 7 hr 30 min
+357 songs - 1 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Skuta](https://open.spotify.com/track/1dKFNGAVWW8DpYX6sqqjox) | [Vanger Boyz](https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx) | [Skuta](https://open.spotify.com/album/6ezXzucGsajEXUumeFVWDL) | 5:36 | 2024-05-31 | 2025-02-07 |
 | [Snow Bros](https://open.spotify.com/track/5Aawrd4ZfIKXxhaTuRyppF) | [Dj Pepe x KwaH\[NSG\]](https://open.spotify.com/artist/546hC8zx0fLkqS8hnFgcTp), [King Lee](https://open.spotify.com/artist/12UHQYDKcmmmk3WFsQhp6T) | [Musical Gqom Ep](https://open.spotify.com/album/28tX0wCaVrzOzX2EklwSly) | 6:04 | 2025-02-06 |  |
 | [So Far Ahead](https://open.spotify.com/track/7E2j5Dy1dtxO8nTltjcukx) | [Surreal Sessions](https://open.spotify.com/artist/4kF0844GqqOkj7bvFTlW6E) | [Hayabusa EP](https://open.spotify.com/album/0xKjG7UJ9U4PzYKHX30kYF) | 5:20 | 2025-02-06 | 2025-02-21 |
+| [Sobonana Emathuneni \- Gqom Remix](https://open.spotify.com/track/3r8k7NrNNHKetDyoF3jCpi) | [Deejay Zebra SA](https://open.spotify.com/artist/0DN2ALL09rLmHQtX26BntG), [Pro\-Tee](https://open.spotify.com/artist/73BxSTlHA75wmlJ4yPxaBc) | [Sobonana Emathuneni \(Gqom Remix\)](https://open.spotify.com/album/37BVvp5arZAgEQvHZgT81f) | 4:34 | 2025-04-03 |  |
 | [Something Different](https://open.spotify.com/track/3EIhq0ezoBWiuB1pH7glxZ) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO) | [Meeting With The King](https://open.spotify.com/album/66ZkSQI3roUFYVDYy5kp9e) | 5:49 | 2022-02-17 | 2023-05-26 |
 | [Soundbwoy Killa](https://open.spotify.com/track/3W2X3ZD0MGVmfnlnBbrvqT) | [STATE OFFF](https://open.spotify.com/artist/4NHX5R0Td6ooWh1a34AhtB) | [Simulacra](https://open.spotify.com/album/6DW42TxsvHrlt5UTc7gXg5) | 4:25 | 2024-07-25 | 2024-12-06 |
 | [Speak Of The Town](https://open.spotify.com/track/1YPBILT8eQNbWK7MN6MsUC) | [Cairo CPT](https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr) | [Speak Of The Town](https://open.spotify.com/album/2vH7GWWu6svyaMkWNKvyvb) | 6:04 | 2021-08-19 | 2022-11-08 |
@@ -327,6 +328,7 @@
 | [Uskhothenii 2.0](https://open.spotify.com/track/6IJBMTSzttVD3fAfiK7oC5) | [DJ Thera S.A](https://open.spotify.com/artist/2K2VFYuYYTRu2ILpWP79Q9), [Asithi Uzok'Dlallela Wena](https://open.spotify.com/artist/3fSW8iSiLsqso5DXeIdTYU) | [Uskhothenii 2.0](https://open.spotify.com/album/4PaR71yX2FijS9aQiLk58l) | 5:40 | 2023-08-24 | 2023-11-11 |
 | [Uswazi](https://open.spotify.com/track/3doLZmoiwsooXGiSWOB645) | [Dominowe](https://open.spotify.com/artist/2mXVs20lxJxTJzpLywkX8e) | [State of Mind](https://open.spotify.com/album/3qRRaKC2D8NBLF49dBvd9U) | 5:04 | 2023-05-25 | 2023-08-25 |
 | [Uyangihlanyisa](https://open.spotify.com/track/02S09Z0HT5SJpP9nGVXoqW) | [Abangani Bethu](https://open.spotify.com/artist/4K8D2RZjEKU0ZXrqrtEwXT) | [From Now On](https://open.spotify.com/album/3SR1M6ZjdiaonOv9dS009G) | 4:07 | 2021-02-11 | 2022-11-08 |
+| [Uze Nenye \- Gqom Mix](https://open.spotify.com/track/0EusfJElB31aSRIfgduF3H) | [Deejay Zebra SA](https://open.spotify.com/artist/0DN2ALL09rLmHQtX26BntG) | [Uze Nenye \(Gqom Mix\)](https://open.spotify.com/album/6BcqGh3EJsgoH6unRj1ZBK) | 5:41 | 2025-04-03 |  |
 | [uZosala](https://open.spotify.com/track/1S3QiJeXpptj7aath0JOpf) | [Omagoqa](https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy), [ZVRI](https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn), [The Ascension](https://open.spotify.com/artist/69l0v3QQfyIR61ve0kWMjF), [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Umqhumo Wethu](https://open.spotify.com/album/2Dl8jKEAdAe81ifBg5uhNx) | 5:25 | 2024-05-23 | 2024-12-06 |
 | [Valelisa](https://open.spotify.com/track/09ByXasXFE06jjwivBHcbz) | [TheGqomBoss](https://open.spotify.com/artist/292Cl4hITfjeJUtUDVokdh), [M&W](https://open.spotify.com/artist/2WZyVaje3YupWEsmfLx8P3), [Futha Mfethu](https://open.spotify.com/artist/55fWysjHc92RdhloXM3OnL) | [Lost Projects 2.0 \(2024 Tracks\)](https://open.spotify.com/album/61jbFRZllsp8pxtkrZS1pu) | 5:32 | 2025-02-06 | 2025-02-21 |
 | [Vanger](https://open.spotify.com/track/7898fSh9GRby5qGAMt8o7c) | [Gigg's MusiQ](https://open.spotify.com/artist/5m7in23VjBB1PyG40HXPMe), [GermKidd\-SA](https://open.spotify.com/artist/3b0ZM7oq0FIMoOkhVpJItv), [GqoMLorD](https://open.spotify.com/artist/6vFMjOEA3AVavs4vc2qcE5) | [Vanger](https://open.spotify.com/album/02zuKG6AQHvMECJLxC3Xl6) | 5:40 | 2023-08-24 | 2024-01-26 |

@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 311884,
+  "num_followers": 311952,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -183,70 +183,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "DOMINATION",
-        "url": "https://open.spotify.com/album/2jTIMYQcx87QLi8eBFmIob"
-      },
-      "artists": [
-        {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 168800,
-      "name": "DOMINATION",
-      "url": "https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "AFRAID TO DIE",
-        "url": "https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        },
-        {
-          "name": "Tatiana Shmayluk",
-          "url": "https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa"
-        },
-        {
-          "name": "Jinjer",
-          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
-        }
-      ],
-      "duration_ms": 184215,
-      "name": "AFRAID TO DIE (feat. Tatiana Shmayluk from Jinjer)",
-      "url": "https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Curse",
-        "url": "https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 181134,
-      "name": "Curse",
-      "url": "https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
         "url": "https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA"
       },
@@ -275,6 +211,30 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "DOMINATION",
+        "url": "https://open.spotify.com/album/2jTIMYQcx87QLi8eBFmIob"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 168800,
+      "name": "DOMINATION",
+      "url": "https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "FAIRY PHONK",
         "url": "https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj"
       },
@@ -291,6 +251,30 @@
       "duration_ms": 125454,
       "name": "KILL ALL PREDATORS",
       "url": "https://open.spotify.com/track/0mH0iiNINYULYFwszeqWnW"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "AFRAID TO DIE",
+        "url": "https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        },
+        {
+          "name": "Tatiana Shmayluk",
+          "url": "https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa"
+        },
+        {
+          "name": "Jinjer",
+          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
+        }
+      ],
+      "duration_ms": 184215,
+      "name": "AFRAID TO DIE (feat. Tatiana Shmayluk from Jinjer)",
+      "url": "https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -319,18 +303,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Handshakes With Snakes",
-        "url": "https://open.spotify.com/album/08DuxbIKQxGyVv35305TrD"
+        "name": "Curse",
+        "url": "https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe"
       },
       "artists": [
         {
-          "name": "Attila",
-          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 117857,
-      "name": "Handshakes With Snakes",
-      "url": "https://open.spotify.com/track/4oztf7RcwAIxhd1gBp0pjg"
+      "duration_ms": 181134,
+      "name": "Curse",
+      "url": "https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -351,6 +335,22 @@
       "duration_ms": 222145,
       "name": "70% Dead (with Corey Taylor)",
       "url": "https://open.spotify.com/track/4gFhDuhoCailJyDV99V0Ww"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Handshakes With Snakes",
+        "url": "https://open.spotify.com/album/08DuxbIKQxGyVv35305TrD"
+      },
+      "artists": [
+        {
+          "name": "Attila",
+          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
+        }
+      ],
+      "duration_ms": 117857,
+      "name": "Handshakes With Snakes",
+      "url": "https://open.spotify.com/track/4oztf7RcwAIxhd1gBp0pjg"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Fear Network II",
-        "url": "https://open.spotify.com/album/79oY2cGYhbXlh537p1hpVS"
-      },
-      "artists": [
-        {
-          "name": "Ghostemane",
-          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
-        }
-      ],
-      "duration_ms": 87774,
-      "name": "Crash 'n Learn",
-      "url": "https://open.spotify.com/track/7a9LlgnBXO5qOOdrRJALfb"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Learn To Forget",
         "url": "https://open.spotify.com/album/0wYHmySvVY3n0W9L2UX1T5"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 181466,
       "name": "Learn To Forget",
       "url": "https://open.spotify.com/track/5hxWel7I4T6mlEMP1YFG2m"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Fear Network II",
+        "url": "https://open.spotify.com/album/79oY2cGYhbXlh537p1hpVS"
+      },
+      "artists": [
+        {
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+        }
+      ],
+      "duration_ms": 87774,
+      "name": "Crash 'n Learn",
+      "url": "https://open.spotify.com/track/7a9LlgnBXO5qOOdrRJALfb"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "FLATLINE",
-        "url": "https://open.spotify.com/album/0ntAkOuUZbtb6LtccaZoMA"
-      },
-      "artists": [
-        {
-          "name": "Blind Channel",
-          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
-        }
-      ],
-      "duration_ms": 172067,
-      "name": "FLATLINE",
-      "url": "https://open.spotify.com/track/7eavNfBDdDIj3nkQb6yOxZ"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "As They Bloom",
         "url": "https://open.spotify.com/album/0SjpmCExNNFTd4zHxXuMFJ"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 237259,
       "name": "As They Bloom",
       "url": "https://open.spotify.com/track/2VXox441YYAPS1srSR7mGI"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "FLATLINE",
+        "url": "https://open.spotify.com/album/0ntAkOuUZbtb6LtccaZoMA"
+      },
+      "artists": [
+        {
+          "name": "Blind Channel",
+          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
+        }
+      ],
+      "duration_ms": 172067,
+      "name": "FLATLINE",
+      "url": "https://open.spotify.com/track/7eavNfBDdDIj3nkQb6yOxZ"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Azure",
-        "url": "https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN"
-      },
-      "artists": [
-        {
-          "name": "Love Is Noise",
-          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
-        }
-      ],
-      "duration_ms": 254722,
-      "name": "Azure",
-      "url": "https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Whispers of Your Death",
         "url": "https://open.spotify.com/album/4t0YjU738vLtyaBlQvrxp5"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 235000,
       "name": "Russian Doll",
       "url": "https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN"
+      },
+      "artists": [
+        {
+          "name": "Love Is Noise",
+          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
+        }
+      ],
+      "duration_ms": 254722,
+      "name": "Azure",
+      "url": "https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
+      },
+      "artists": [
+        {
+          "name": "Crippled Black Phoenix",
+          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
+        }
+      ],
+      "duration_ms": 491180,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Make It Out Alive",
         "url": "https://open.spotify.com/album/3QpZhoEwPACrnTWTmSil9K"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 202105,
       "name": "Make It Out Alive",
       "url": "https://open.spotify.com/track/6lBIyFHLLDe30Rg4kvt9Kw"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
-      },
-      "artists": [
-        {
-          "name": "Crippled Black Phoenix",
-          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
-        }
-      ],
-      "duration_ms": 491180,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Shut Up",
+        "url": "https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9"
+      },
+      "artists": [
+        {
+          "name": "Death Blooms",
+          "url": "https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j"
+        }
+      ],
+      "duration_ms": 204848,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Don't Wait",
         "url": "https://open.spotify.com/album/6kw0XsjkS9XYTmNtxrb9eO"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 128371,
       "name": "Don't Wait",
       "url": "https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Shut Up",
-        "url": "https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9"
-      },
-      "artists": [
-        {
-          "name": "Death Blooms",
-          "url": "https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j"
-        }
-      ],
-      "duration_ms": 204848,
-      "name": "Shut Up",
-      "url": "https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "80486DX",
-        "url": "https://open.spotify.com/album/7KEr4XNYaRFzpF0qjVr72f"
-      },
-      "artists": [
-        {
-          "name": "MASTER BOOT RECORD",
-          "url": "https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "80486DX",
-      "url": "https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Fight Alone",
         "url": "https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 220333,
       "name": "Fight Alone",
       "url": "https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "80486DX",
+        "url": "https://open.spotify.com/album/7KEr4XNYaRFzpF0qjVr72f"
+      },
+      "artists": [
+        {
+          "name": "MASTER BOOT RECORD",
+          "url": "https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "80486DX",
+      "url": "https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Breaks",
-        "url": "https://open.spotify.com/album/6oV4M5y0UgPJBe1QlQAuFP"
-      },
-      "artists": [
-        {
-          "name": "Gone Is Gone",
-          "url": "https://open.spotify.com/artist/1xLSa28V0Sl3EMyS6CiKIg"
-        }
-      ],
-      "duration_ms": 235214,
-      "name": "Breaks",
-      "url": "https://open.spotify.com/track/23nUxEzx3pCaxLPBB9MwPE"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "open water",
         "url": "https://open.spotify.com/album/1zmVVYStJqZZWxcsjfb9uT"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 126912,
       "name": "open water",
       "url": "https://open.spotify.com/track/592JTl3UlQvZyBd2329Sgf"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Breaks",
+        "url": "https://open.spotify.com/album/6oV4M5y0UgPJBe1QlQAuFP"
+      },
+      "artists": [
+        {
+          "name": "Gone Is Gone",
+          "url": "https://open.spotify.com/artist/1xLSa28V0Sl3EMyS6CiKIg"
+        }
+      ],
+      "duration_ms": 235214,
+      "name": "Breaks",
+      "url": "https://open.spotify.com/track/23nUxEzx3pCaxLPBB9MwPE"
     },
     {
       "added_at": "2024-07-19 10:51:43",

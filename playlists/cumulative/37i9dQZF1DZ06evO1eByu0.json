@@ -815,6 +815,24 @@
     },
     {
       "album": {
+        "name": "Aline Barros e Cia 3",
+        "url": "https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250543,
+      "name": "Eu Li na B\u00edblia",
+      "url": "https://open.spotify.com/track/73ACUt1xfsU6HAolULv9Fp"
+    },
+    {
+      "album": {
         "name": "ImaginAline - Uma Viagem no Tempo",
         "url": "https://open.spotify.com/album/2YyBG9g0IIqQEGrTiByg4Y"
       },
@@ -1906,7 +1924,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-07",
       "duration_ms": 308268,
       "name": "Vento do Esp\u00edrito",
       "url": "https://open.spotify.com/track/68bMEiYsaVqdO35XLWEz5z"

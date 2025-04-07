@@ -1975,6 +1975,24 @@
     },
     {
       "album": {
+        "name": "Alkaloides",
+        "url": "https://open.spotify.com/album/77342fzBC7UqYsuhDCdX5Z"
+      },
+      "artists": [
+        {
+          "name": "Alkaloides",
+          "url": "https://open.spotify.com/artist/3EuxYSlJqnkPSr0adIH0kK"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255786,
+      "name": "Ella viene del futuro",
+      "url": "https://open.spotify.com/track/4z8Kp7IB4pcIIOfbH6thYy"
+    },
+    {
+      "album": {
         "name": "Impronta",
         "url": "https://open.spotify.com/album/7cQBUtJwVAKluOLttrga9m"
       },
@@ -2624,7 +2642,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-07",
       "duration_ms": 231840,
       "name": "Inteligencia Dormida",
       "url": "https://open.spotify.com/track/1mMIvrn5k8K6hsjbFgH6fM"

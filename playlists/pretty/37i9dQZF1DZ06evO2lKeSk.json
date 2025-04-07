@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 350966,
+  "num_followers": 351040,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+8hAAAAAACQghdHFFx+LhhYOTLFlkRE",
+  "snapshot_id": "Z/BygAAAAAD1Mls+X0QnYHYFDSxD6J+8",
   "tracks": [
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Esencial De Ana Gabriel",
-        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 171013,
-      "name": "Mi Gusto Es",
-      "url": "https://open.spotify.com/track/7nxcuxZdkAtkrTkleoUi9S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ayer Y Hoy",
         "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 193733,
       "name": "No Tengo Dinero",
       "url": "https://open.spotify.com/track/2S7OHGloZFKDo034vN3tVi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Esencial De Ana Gabriel",
+        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 171013,
+      "name": "Mi Gusto Es",
+      "url": "https://open.spotify.com/track/7nxcuxZdkAtkrTkleoUi9S"
     },
     {
       "added_at": null,

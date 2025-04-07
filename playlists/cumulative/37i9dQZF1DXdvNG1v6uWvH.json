@@ -566,7 +566,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-06",
+      "date_removed": null,
       "duration_ms": 197546,
       "name": "23",
       "url": "https://open.spotify.com/track/5ma3navnVMGOQ5c52XB8kZ"
@@ -15626,7 +15626,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-07",
       "duration_ms": 192014,
       "name": "carve",
       "url": "https://open.spotify.com/track/4Js9xjLaI7KbPP8JaYzurZ"
@@ -63734,7 +63734,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-07",
       "duration_ms": 240465,
       "name": "Neuroballad",
       "url": "https://open.spotify.com/track/1kfykAFgiD19ssYP3u4w9O"
@@ -65936,7 +65936,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-06",
+      "date_removed": null,
       "duration_ms": 177251,
       "name": "NOT AGAIN",
       "url": "https://open.spotify.com/track/7i2vzKSKKS71ldmB3vRlAQ"
@@ -73492,7 +73492,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-07",
       "duration_ms": 219727,
       "name": "Pulla Upp",
       "url": "https://open.spotify.com/track/0LDpu0tCaW98tQPW4lqKS7"
@@ -81068,6 +81068,24 @@
       "duration_ms": 206675,
       "name": "Sinkin",
       "url": "https://open.spotify.com/track/5opTpapyE4tiRwhdr1dSgj"
+    },
+    {
+      "album": {
+        "name": "where it melts away",
+        "url": "https://open.spotify.com/album/3xHwEDVAeZjpnDg4PRmaBl"
+      },
+      "artists": [
+        {
+          "name": "Nova Varnrable",
+          "url": "https://open.spotify.com/artist/7eXnw7Cn85i2s9aYNAERcR"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "sinking stone",
+      "url": "https://open.spotify.com/track/6HO2Ak18blRMCY7ePLRW5W"
     },
     {
       "album": {
@@ -93502,7 +93520,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-07",
       "duration_ms": 218240,
       "name": "Time breaks gently",
       "url": "https://open.spotify.com/track/4MHUvr8zpz1Bx1DQEPh10h"
@@ -95140,7 +95158,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-06",
+      "date_removed": null,
       "duration_ms": 254563,
       "name": "Trippin",
       "url": "https://open.spotify.com/track/0FfxdTl35WUEy0oVkSCLUC"

@@ -34451,6 +34451,24 @@
     },
     {
       "album": {
+        "name": "\u8d85\u3048\u308b",
+        "url": "https://open.spotify.com/album/1cxtxEcH2IIboiHWYYALoE"
+      },
+      "artists": [
+        {
+          "name": "[Alexandros]",
+          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
+        }
+      ],
+      "date_added": "2025-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242433,
+      "name": "\u8d85\u3048\u308b",
+      "url": "https://open.spotify.com/track/1TH4Kmyu3QPe2J2BAe18FP"
+    },
+    {
+      "album": {
         "name": "\u8ecc\u8de1",
         "url": "https://open.spotify.com/album/3DffhFQupk8k115ROCm7IV"
       },

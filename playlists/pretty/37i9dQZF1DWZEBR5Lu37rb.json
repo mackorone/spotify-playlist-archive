@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 89323,
+  "num_followers": 89398,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2025-02-11 06:19:22",
       "album": {
+        "name": "Emakhaya",
+        "url": "https://open.spotify.com/album/3YPT8bW8XTiZIjMEhryLEU"
+      },
+      "artists": [
+        {
+          "name": "Mlindo The Vocalist",
+          "url": "https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI"
+        }
+      ],
+      "duration_ms": 223520,
+      "name": "Emakhaya",
+      "url": "https://open.spotify.com/track/4eLFAxZWiV4Mfp8mpzdrdT"
+    },
+    {
+      "added_at": "2025-02-11 06:19:22",
+      "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/7g3LFWfWuAdhaDt49N0cuM"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 257959,
       "name": "Paris",
       "url": "https://open.spotify.com/track/7JbLSEDlRdoJaXk5ddZae2"
-    },
-    {
-      "added_at": "2025-02-11 06:19:22",
-      "album": {
-        "name": "Emakhaya",
-        "url": "https://open.spotify.com/album/3YPT8bW8XTiZIjMEhryLEU"
-      },
-      "artists": [
-        {
-          "name": "Mlindo The Vocalist",
-          "url": "https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI"
-        }
-      ],
-      "duration_ms": 223520,
-      "name": "Emakhaya",
-      "url": "https://open.spotify.com/track/4eLFAxZWiV4Mfp8mpzdrdT"
     },
     {
       "added_at": "2025-02-11 06:19:22",
@@ -599,6 +599,22 @@
     {
       "added_at": "2025-02-11 06:19:22",
       "album": {
+        "name": "Umuthi",
+        "url": "https://open.spotify.com/album/2bjC0ex3FhejL6cuaLToJU"
+      },
+      "artists": [
+        {
+          "name": "Blaq Diamond",
+          "url": "https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe"
+        }
+      ],
+      "duration_ms": 249795,
+      "name": "Ibhanoyi",
+      "url": "https://open.spotify.com/track/1UooO4lFHhFaKX8Jgz9xNI"
+    },
+    {
+      "added_at": "2025-02-11 06:19:22",
+      "album": {
         "name": "Ngimtholile",
         "url": "https://open.spotify.com/album/4QD2ETs2brilp1iVISIcNP"
       },
@@ -619,22 +635,6 @@
     {
       "added_at": "2025-02-11 06:19:22",
       "album": {
-        "name": "Umuthi",
-        "url": "https://open.spotify.com/album/2bjC0ex3FhejL6cuaLToJU"
-      },
-      "artists": [
-        {
-          "name": "Blaq Diamond",
-          "url": "https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe"
-        }
-      ],
-      "duration_ms": 249795,
-      "name": "Ibhanoyi",
-      "url": "https://open.spotify.com/track/1UooO4lFHhFaKX8Jgz9xNI"
-    },
-    {
-      "added_at": "2025-02-11 06:19:22",
-      "album": {
         "name": "Rhythm & Blues",
         "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
       },
@@ -647,22 +647,6 @@
       "duration_ms": 144026,
       "name": "Rhythm & Blues",
       "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
-    },
-    {
-      "added_at": "2025-02-11 06:19:22",
-      "album": {
-        "name": "Seed - EP",
-        "url": "https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 196162,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l"
     },
     {
       "added_at": "2025-02-11 06:19:22",
@@ -683,6 +667,22 @@
       "duration_ms": 328226,
       "name": "Ngiyaz'fela Ngawe (feat. Thabsie)",
       "url": "https://open.spotify.com/track/1un5fgTEsqfK5VSzDlDggU"
+    },
+    {
+      "added_at": "2025-02-11 06:19:22",
+      "album": {
+        "name": "Seed - EP",
+        "url": "https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 196162,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l"
     },
     {
       "added_at": "2025-02-11 06:19:22",
@@ -751,30 +751,6 @@
     {
       "added_at": "2025-02-11 06:19:22",
       "album": {
-        "name": "To the World & Beyond",
-        "url": "https://open.spotify.com/album/7gERIWecqik3KK62zUvXJc"
-      },
-      "artists": [
-        {
-          "name": "Sun-El Musician",
-          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
-        },
-        {
-          "name": "Simmy",
-          "url": "https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA"
-        },
-        {
-          "name": "Sino Msolo",
-          "url": "https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI"
-        }
-      ],
-      "duration_ms": 269520,
-      "name": "Kwalula",
-      "url": "https://open.spotify.com/track/3Rq1cgwfOjGCH8oxb9jiOz"
-    },
-    {
-      "added_at": "2025-02-11 06:19:22",
-      "album": {
         "name": "Tender Love (feat. DJ Maphorisa & Kabza De Small)",
         "url": "https://open.spotify.com/album/3rwjHfjfkHzuyt2h9UK5IZ"
       },
@@ -795,6 +771,30 @@
       "duration_ms": 444474,
       "name": "Tender Love (feat. DJ Maphorisa & Kabza De Small)",
       "url": "https://open.spotify.com/track/7ckWQdFniRR7CNsIA1VIML"
+    },
+    {
+      "added_at": "2025-02-11 06:19:22",
+      "album": {
+        "name": "To the World & Beyond",
+        "url": "https://open.spotify.com/album/7gERIWecqik3KK62zUvXJc"
+      },
+      "artists": [
+        {
+          "name": "Sun-El Musician",
+          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
+        },
+        {
+          "name": "Simmy",
+          "url": "https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA"
+        },
+        {
+          "name": "Sino Msolo",
+          "url": "https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI"
+        }
+      ],
+      "duration_ms": 269520,
+      "name": "Kwalula",
+      "url": "https://open.spotify.com/track/3Rq1cgwfOjGCH8oxb9jiOz"
     },
     {
       "added_at": "2025-02-11 06:19:22",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-02-11 06:19:22",
       "album": {
-        "name": "Touch My Blood",
-        "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
-      },
-      "artists": [
-        {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
-        }
-      ],
-      "duration_ms": 304140,
-      "name": "Jika",
-      "url": "https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG"
-    },
-    {
-      "added_at": "2025-02-11 06:19:22",
-      "album": {
         "name": "Princess of House (Easy to Love)",
         "url": "https://open.spotify.com/album/5iGGJm7wvIQpCbDWMahdcR"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 335466,
       "name": "Easy to Love",
       "url": "https://open.spotify.com/track/2SHcPk6yW3WbS1tJGH2h8v"
+    },
+    {
+      "added_at": "2025-02-11 06:19:22",
+      "album": {
+        "name": "Touch My Blood",
+        "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        }
+      ],
+      "duration_ms": 304140,
+      "name": "Jika",
+      "url": "https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG"
     },
     {
       "added_at": "2025-02-11 06:19:22",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-02-11 06:19:22",
       "album": {
-        "name": "Hawataweza",
-        "url": "https://open.spotify.com/album/5DS0VEV7sltoi329nDx1I0"
-      },
-      "artists": [
-        {
-          "name": "Wanavokali",
-          "url": "https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Hawataweza",
-      "url": "https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0"
-    },
-    {
-      "added_at": "2025-02-11 06:19:22",
-      "album": {
         "name": "Malaika",
         "url": "https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 442533,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT"
+    },
+    {
+      "added_at": "2025-02-11 06:19:22",
+      "album": {
+        "name": "Hawataweza",
+        "url": "https://open.spotify.com/album/5DS0VEV7sltoi329nDx1I0"
+      },
+      "artists": [
+        {
+          "name": "Wanavokali",
+          "url": "https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Hawataweza",
+      "url": "https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0"
     },
     {
       "added_at": "2025-02-11 06:19:22",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2025-02-11 06:19:22",
       "album": {
-        "name": "Black Love",
-        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 223166,
-      "name": "Can't Let You Go (feat. King Promise)",
-      "url": "https://open.spotify.com/track/60HGKB4wbcZhClLTYIjzNw"
-    },
-    {
-      "added_at": "2025-02-11 06:19:22",
-      "album": {
         "name": "uThando",
         "url": "https://open.spotify.com/album/3iFIu4LucpvAw23loKDVOk"
       },
@@ -1127,18 +1107,22 @@
     {
       "added_at": "2025-02-11 06:19:22",
       "album": {
-        "name": "Imali",
-        "url": "https://open.spotify.com/album/7z67WvNh1LJMAZHvR6T1vy"
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
       },
       "artists": [
         {
-          "name": "Ami Faku",
-          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
         }
       ],
-      "duration_ms": 198905,
-      "name": "Ubuhle Bakho",
-      "url": "https://open.spotify.com/track/4mkfmHDntAJNnfZG033D6O"
+      "duration_ms": 223166,
+      "name": "Can't Let You Go (feat. King Promise)",
+      "url": "https://open.spotify.com/track/60HGKB4wbcZhClLTYIjzNw"
     },
     {
       "added_at": "2025-02-11 06:19:22",
@@ -1155,6 +1139,22 @@
       "duration_ms": 186990,
       "name": "Odo",
       "url": "https://open.spotify.com/track/2vK93nwA5PNJVQa3OXeg5Y"
+    },
+    {
+      "added_at": "2025-02-11 06:19:22",
+      "album": {
+        "name": "Imali",
+        "url": "https://open.spotify.com/album/7z67WvNh1LJMAZHvR6T1vy"
+      },
+      "artists": [
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        }
+      ],
+      "duration_ms": 198905,
+      "name": "Ubuhle Bakho",
+      "url": "https://open.spotify.com/track/4mkfmHDntAJNnfZG033D6O"
     },
     {
       "added_at": "2025-02-11 06:19:22",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2025-02-11 06:19:22",
       "album": {
+        "name": "Perfect Design",
+        "url": "https://open.spotify.com/album/6Ieq9KPpDhLHz2D9Uy0zob"
+      },
+      "artists": [
+        {
+          "name": "Nyashinski",
+          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "Perfect Design",
+      "url": "https://open.spotify.com/track/645fc9CPquxRrFm6Ch3Wzu"
+    },
+    {
+      "added_at": "2025-02-11 06:19:22",
+      "album": {
         "name": "Gucci (Deleted)",
         "url": "https://open.spotify.com/album/0k6dVKW5uBGPCW623VFpq8"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 247617,
       "name": "Gucci",
       "url": "https://open.spotify.com/track/567NwM1L86vGvZwiZfCsMo"
-    },
-    {
-      "added_at": "2025-02-11 06:19:22",
-      "album": {
-        "name": "Perfect Design",
-        "url": "https://open.spotify.com/album/6Ieq9KPpDhLHz2D9Uy0zob"
-      },
-      "artists": [
-        {
-          "name": "Nyashinski",
-          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "Perfect Design",
-      "url": "https://open.spotify.com/track/645fc9CPquxRrFm6Ch3Wzu"
     },
     {
       "added_at": "2025-02-11 06:19:22",

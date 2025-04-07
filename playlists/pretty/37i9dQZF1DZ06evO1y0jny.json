@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+8hAAAAAABwHtaxRTihPrtYo+sk2qlz",
+  "snapshot_id": "Z/BygAAAAADd4qJLjHNjcM4c1ebalQHv",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 163073,
-      "name": "Aloha Maunalua",
-      "url": "https://open.spotify.com/track/7aJyIjBzgbnK88VNZXf6gO"
+      "duration_ms": 150467,
+      "name": "Ho\u02bboheno Moloka\u02bbi",
+      "url": "https://open.spotify.com/track/1bQZDoRz5z1xv3WO9GtFWc"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 150467,
-      "name": "Ho\u02bboheno Moloka\u02bbi",
-      "url": "https://open.spotify.com/track/1bQZDoRz5z1xv3WO9GtFWc"
+      "duration_ms": 163073,
+      "name": "Aloha Maunalua",
+      "url": "https://open.spotify.com/track/7aJyIjBzgbnK88VNZXf6gO"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 150819,
-      "name": "Koni Au i ka Wai / Ka Ipo Laua\u02bbe",
-      "url": "https://open.spotify.com/track/3NIoUqAtDrrLT8nFpndYmT"
+      "duration_ms": 172741,
+      "name": "Pua \u02bb\u014chai",
+      "url": "https://open.spotify.com/track/2KgZ1m7xuvjrxu6SlTqQwG"
     },
     {
       "added_at": null,
@@ -476,25 +476,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 141916,
-      "name": "Aloha Kuu Aina o Kauaula",
-      "url": "https://open.spotify.com/track/0s3YBKhXcbIVe4tlNC94Ir"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "K\u0101wili",
-        "url": "https://open.spotify.com/album/5Jrfi28fF8l3NK0coDarNC"
-      },
-      "artists": [
-        {
-          "name": "Keauhou",
-          "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
-        }
-      ],
-      "duration_ms": 159020,
-      "name": "He Aloha Wau i\u0101 \u02bbOe",
-      "url": "https://open.spotify.com/track/0xu4HQ3huYGtg3Gy12GROP"
+      "duration_ms": 202202,
+      "name": "O Ukumehame",
+      "url": "https://open.spotify.com/track/4Ys4eKlU4mKNE2l5N1qZTy"
     },
     {
       "added_at": null,
@@ -508,9 +492,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 202202,
-      "name": "O Ukumehame",
-      "url": "https://open.spotify.com/track/4Ys4eKlU4mKNE2l5N1qZTy"
+      "duration_ms": 141916,
+      "name": "Aloha Kuu Aina o Kauaula",
+      "url": "https://open.spotify.com/track/0s3YBKhXcbIVe4tlNC94Ir"
     }
   ],
   "unique_name": "This Is Keauhou",

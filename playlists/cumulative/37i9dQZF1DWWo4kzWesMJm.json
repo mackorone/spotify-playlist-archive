@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Jenifer",
+        "url": "https://open.spotify.com/album/73RETPwGf1IsowLIA7yfJD"
+      },
+      "artists": [
+        {
+          "name": "Jenifer",
+          "url": "https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv"
+        }
+      ],
+      "date_added": "2025-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219266,
+      "name": "Au soleil",
+      "url": "https://open.spotify.com/track/3J7L4214bjQfnry4dKjZZt"
+    },
+    {
+      "album": {
         "name": "Charango",
         "url": "https://open.spotify.com/album/6poeQP5Vsy8V8cRdqLbn8c"
       },
@@ -118,7 +136,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-07",
       "duration_ms": 185280,
       "name": "Avenir - Radio Edit",
       "url": "https://open.spotify.com/track/7culxZiBjN3w3yXqxgKIpD"

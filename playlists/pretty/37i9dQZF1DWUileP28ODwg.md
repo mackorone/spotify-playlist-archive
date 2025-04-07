@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: TobyMac
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,413 likes - 90 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,631 likes - 90 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 12 | [Hard Fought Hallelujah](https://open.spotify.com/track/6ye2zG3DhdwDf6VRVyj4jx) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Hard Fought Hallelujah](https://open.spotify.com/album/2ZRoUKXGiyxc63Q6xLAIh5) | 5:16 |
 | 13 | [Better Yet](https://open.spotify.com/track/09B7bzzmF8nWZnBlyWO6cE) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Still Waters \(Deluxe\)](https://open.spotify.com/album/7pQOANzJHd49X22IgJvjIf) | 3:10 |
 | 14 | [Only For A Moment \- Radio Version](https://open.spotify.com/track/6DKcuCEUZ4hfJ38tgHnR0Z) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Only For A Moment](https://open.spotify.com/album/6KuSfPfkOBU3w2ec4pZrx4) | 3:21 |
-| 15 | [Live Like That \(from "The King of Kings" Soundtrack\)](https://open.spotify.com/track/6BPvhntQLwxuxJxmbdSKKB) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [Live Like That \(from "The King of Kings" Soundtrack\)](https://open.spotify.com/album/5D2ZaDebPPjA7LJkMehk1C) | 4:16 |
+| 15 | [Live Like That](https://open.spotify.com/track/6BPvhntQLwxuxJxmbdSKKB) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [Live Like That \(from "The King of Kings" Soundtrack\)](https://open.spotify.com/album/5D2ZaDebPPjA7LJkMehk1C) | 4:16 |
 | 16 | [Grave Robber](https://open.spotify.com/track/53P5xqwZWOPAuF68mgRD9R) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Grave Robber](https://open.spotify.com/album/7vgffV0RZJhvaQ5PqBK81e) | 2:50 |
 | 17 | [ONE OF A KIND](https://open.spotify.com/track/0JgVTB2jPyfLXZxEBdMPeO) | [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls) | [SuperHuman](https://open.spotify.com/album/2amlX7JcF29WbwXko61GCC) | 4:33 |
 | 18 | [Burn](https://open.spotify.com/track/7CnDX6GF94ZkZ9Yr6VMWDF) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [FOLK! \(Pt\. 2\)](https://open.spotify.com/album/2OrjNqYxi3gSY22YMkE081) | 3:09 |

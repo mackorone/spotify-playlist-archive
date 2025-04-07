@@ -4,7 +4,7 @@
 
 > Listen to the best in AfroTech that was born in Southern Africa, as it travels the world's dancefloors.
 
-225 songs - 23 hr 38 min
+226 songs - 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [AMAZWI](https://open.spotify.com/track/2q92nuY3WtRGtlvxAaPNz0) | [Skye Wanda](https://open.spotify.com/artist/7BwrJs4E8L2r4FiavhNFa1) | [AMAZWI](https://open.spotify.com/album/1KygMxVjnXbnuqqKlDx3f4) | 4:28 | 2022-10-31 | 2024-01-26 |
 | [Amen](https://open.spotify.com/track/4StUSthpVX304GEjdTnI0i) | [Afrikan Roots](https://open.spotify.com/artist/4wl9UDbyFoBgCNG34ugdge), [Dj Wonderboy](https://open.spotify.com/artist/5WiLGiZee73dHXkqEQjKBF), [Maz Sings](https://open.spotify.com/artist/5F7Fe07I1f1mlW312a4dmk) | [Amen](https://open.spotify.com/album/1qeES9QZaq1xfHfvSTtuo7) | 6:13 | 2024-06-28 | 2025-04-04 |
 | [American Storyteller](https://open.spotify.com/track/4NpWFSt3bLD6OHpDGvztkV) | [Dlala Chass](https://open.spotify.com/artist/2BuFIwEOV547lKQhOapZU3) | [American Storyteller](https://open.spotify.com/album/4ZG5gs2kGSZIZNVunNinC2) | 6:35 | 2022-12-02 | 2023-11-01 |
+| [Amore Profondo \- Caiiro Remix](https://open.spotify.com/track/2AcXyRqOejVCaEVsC88iEw) | [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [Nomvula SA](https://open.spotify.com/artist/6DPIZZxzcwWmBiTMmVYbyY), [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY) | [Amore Profondo](https://open.spotify.com/album/6hSGThzzS1GW6N55CUBCw8) | 7:16 | 2025-04-03 |  |
 | [Ancestor's Calling \- Saint Evo Extended Mix](https://open.spotify.com/track/231Jki1MhgGaEV2JrAUA1Q) | [Native Tribe](https://open.spotify.com/artist/0UERNMh2GUYxeNlI151GfE), [TTAN](https://open.spotify.com/artist/5vibD3EJMpimJpl6o0PJTr), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Ancestor's Calling](https://open.spotify.com/album/4Q4rD8SV9U7rdoxStKHYB5) | 8:27 | 2022-08-11 | 2022-11-11 |
 | [Andifuni Ngawe](https://open.spotify.com/track/5owaEYXYYnTvw15uOl5E6S) | [Lemon & Herb](https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w), [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq), [Yallunder](https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo) | [Aura](https://open.spotify.com/album/60qadrHOmLoafmRjgRw3BS) | 5:13 | 2022-08-11 | 2022-11-11 |
 | [Angimazi Ubabalo](https://open.spotify.com/track/35LVqbC4mflUDt9b9thC1C) | [Aero Manyelo](https://open.spotify.com/artist/637OrGlmcAsqUNdFQPj79Z), [Terrance Motsepe](https://open.spotify.com/artist/3TRjJTgBK1Mfb9exYwiq4C), [Eltonnick](https://open.spotify.com/artist/2vFVuGhKe7bJfuc9Oq3m9G) | [Angimazi Ubabalo](https://open.spotify.com/album/0zRbVHjRimy7UEN5cmWJZP) | 7:39 | 2022-12-02 | 2024-01-26 |
@@ -65,7 +66,7 @@
 | [Ghost](https://open.spotify.com/track/4k1BkXgLSbrEQ7r5YKWSZc) | [Bekzin Terris](https://open.spotify.com/artist/5bxu1WA3009bxj00yHRcMm), [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ), [Argento Dust](https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt) | [The Ghost EP](https://open.spotify.com/album/0rrxFVclSDhEjpw4zQuQKf) | 7:03 | 2025-01-30 | 2025-04-04 |
 | [Gijima](https://open.spotify.com/track/3E65YvukVP6AYXoJPqLugO) | [Ed\-Ward](https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ) | [Dreamer](https://open.spotify.com/album/3NqxhXWGKHp5XqeUD1vnzc) | 6:04 | 2025-02-27 | 2025-04-04 |
 | [Hajikwai](https://open.spotify.com/track/15YgWqEEqXBafFdKHPIcDo) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [Thabza De Soul](https://open.spotify.com/artist/3FCL7AQnXR5pCWrceDPFhH), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Hajikwai](https://open.spotify.com/album/1KjMMPgog7xd7c3VQBu2GD) | 6:03 | 2024-07-18 | 2025-01-24 |
-| [Hallelujah](https://open.spotify.com/track/3uSSEJShIOgk2h0apyvbSR) | [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [UNRELEASED x ADE](https://open.spotify.com/album/27GLsMZqMBSZiGANuOR2h9) | 6:08 | 2025-04-03 |  |
+| [Hallelujah](https://open.spotify.com/track/3uSSEJShIOgk2h0apyvbSR) | [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [UNRELEASED x ADE](https://open.spotify.com/album/27GLsMZqMBSZiGANuOR2h9) | 6:08 | 2025-04-03 | 2025-04-07 |
 | [HAYII](https://open.spotify.com/track/3NdtOKVyuOO5GwhU7Ts4iI) | [Mzux Maen](https://open.spotify.com/artist/3AqE17ZUeQYdJuQhb1gFZ0), [Yasmin Levy](https://open.spotify.com/artist/1XDkuk3pjmco8Mkd93Qxbu) | [HAYII](https://open.spotify.com/album/73IrTAOufu4VMnQqcKw1za) | 7:39 | 2022-08-11 | 2023-03-18 |
 | [Heal Africa](https://open.spotify.com/track/2elLI0XImQvNjxEOHXP2Lb) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Heal Africa](https://open.spotify.com/album/0ALpHTXkMLJ6TDHEUJ34WD) | 13:31 | 2024-03-15 | 2024-06-01 |
 | [Heaven Choir](https://open.spotify.com/track/5W1hKVJm3UsUF79FnNiWWI) | [DJ Kabila](https://open.spotify.com/artist/7iweQ4hUpLLRpSyQmY2J2K), [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Heaven Choir](https://open.spotify.com/album/59LMrryq80XBbv3DpiwXOM) | 3:40 | 2025-03-27 | 2025-04-04 |

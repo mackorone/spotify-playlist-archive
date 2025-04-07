@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4?si=YB4nAtxyQWWBQE3FQuHX1Q">Halo Yagami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,041 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,050 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

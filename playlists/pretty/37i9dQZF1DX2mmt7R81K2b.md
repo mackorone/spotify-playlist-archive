@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 
 > Where jazz meets classical, and classical meets jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,958 likes - 72 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,001 likes - 72 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 | 18 | [Moonlight Sonata Blues](https://open.spotify.com/track/6nU1TMJWrF4Sm5I3kq4ISG) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Beethoven Blues](https://open.spotify.com/album/3eXr4s3rCLxNJpxqaIDyqJ) | 4:13 |
 | 19 | [Lascia ch’io pianga](https://open.spotify.com/track/1mb90qwNLNgOTtGBwkTVi1) | [Filip Jers](https://open.spotify.com/artist/6W86U8ofm64IaGxSTBvMtl), [Henrik Hallberg](https://open.spotify.com/artist/3pu695ZYqRFY0Gy1aZXdPE), [Wille Alin](https://open.spotify.com/artist/1t4ttLG6j0jzMppEYnCGzg) | [Lascia ch’io pianga](https://open.spotify.com/album/1kDOPnnHOo6jKtRRMdvsd4) | 4:12 |
 | 20 | [Comme un blues](https://open.spotify.com/track/0F5fcKEU2zGakZlTleVsHU) | [Fiona Monbet](https://open.spotify.com/artist/1xIOPl8xFpFNMVx6PGjc9W) | [Maelström](https://open.spotify.com/album/4SJUJTrkMvIl4E8tZqwxJz) | 6:55 |
-| 21 | [Overture](https://open.spotify.com/track/3pZvvT5nZbg3pjxKfDAv50) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Nutcracker Suite \(Expanded Edition\)](https://open.spotify.com/album/6QHkNHDNvVkR3G8CDvF1Ug) | 3:22 |
+| 21 | [Overture](https://open.spotify.com/track/3pZvvT5nZbg3pjxKfDAv50) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Nutcracker Suite \(Expanded Edition\)](https://open.spotify.com/album/6QHkNHDNvVkR3G8CDvF1Ug) | 3:22 |
 | 22 | [Prelude in E Minor](https://open.spotify.com/track/44ZIZqZyUSJciKQzKlGvZf) | [Shahin Novrasli](https://open.spotify.com/artist/1JeMulk2aODVLXA7qtiUS2) | [BAYATI](https://open.spotify.com/album/1IaXNjdDAOVD1Y1eXLP92c) | 6:42 |
 | 23 | [Let's Fall in Love \(Arr\. Haginomori for Flute and Piano\)](https://open.spotify.com/track/0vMENu9wXi1Sced0XbPqhc) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA), [Cocomi](https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV), [山中惇史](https://open.spotify.com/artist/55RWizcWD2mduyBwTDoHRe) | [Neos](https://open.spotify.com/album/1gb5ayTVtIYlLzAJYY7NBY) | 3:11 |
 | 24 | [Munich Afternoon](https://open.spotify.com/track/1g6WFBWZWcelqtpBoSNagG) | [Nils Wülker](https://open.spotify.com/artist/0GvUvYAa4rXdQt217NuE7o), [Munich Radio Orchestra](https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX), [Patrick Hahn](https://open.spotify.com/artist/31BzMXuwWSXeEDfmr8KKnK) | [Munich Afternoon](https://open.spotify.com/album/2CjaV6jqeaUFGUhKx6vaoa) | 4:58 |

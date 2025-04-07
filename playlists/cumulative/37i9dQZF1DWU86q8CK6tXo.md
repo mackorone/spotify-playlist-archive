@@ -2,9 +2,9 @@
 
 ### [EQUAL US](https://open.spotify.com/playlist/37i9dQZF1DWU86q8CK6tXo)
 
-> Listen to women at full volume\. Cover: Larkin Poe
+> Listen to women at full volume\. Cover: Halsey
 
-1,794 songs - 4 day 0 hr 54 min
+1,797 songs - 4 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,7 @@
 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 | 2023-09-06 | 2023-10-05 |
 | [Bops](https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Bops](https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM) | 2:08 | 2023-05-03 | 2023-06-08 |
 | [Bounce](https://open.spotify.com/track/7bkKI9UPmLGvZIXucvADTK) | [OG MarlynMonROLLUP](https://open.spotify.com/artist/5WL4ngAXr946yPkXFvUkax) | [Bounce](https://open.spotify.com/album/4wUHk5cCjBATO6meJXsUmf) | 2:07 | 2024-06-01 | 2024-06-06 |
-| [Bound In Leather](https://open.spotify.com/track/6hdOjbV6ZSx9KDZsTFGCXQ) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Bound In Leather](https://open.spotify.com/album/3zRn20gzVsklwHGWarmjj7) | 3:50 | 2025-01-17 |  |
+| [Bound In Leather](https://open.spotify.com/track/6hdOjbV6ZSx9KDZsTFGCXQ) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Bound In Leather](https://open.spotify.com/album/3zRn20gzVsklwHGWarmjj7) | 3:50 | 2025-01-17 | 2025-04-07 |
 | [Bovine Excision](https://open.spotify.com/track/1ASUVRxADu66bSIKV9XN9r) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Bovine Excision](https://open.spotify.com/album/6CMquIsmPgGoeLRAHTiVSt) | 2:53 | 2025-01-17 |  |
 | [boy crazy.](https://open.spotify.com/track/6GlMlyTTDhzMJO1EzvAa5H) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [boy crazy.](https://open.spotify.com/album/1QbzS32RcFDFKLWzD0ovf0) | 2:37 | 2022-07-06 | 2022-08-04 |
 | [Boy From Carolina](https://open.spotify.com/track/2ZAqDuU6rBiZhWIfngM8Ca) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Boy From Carolina](https://open.spotify.com/album/2adTi2GIqAnmt7SxppjWzN) | 4:02 | 2023-08-02 | 2023-09-07 |
@@ -523,6 +523,7 @@
 | [Face Down](https://open.spotify.com/track/0DEjFljgDbPjkm5460EJnA) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Face Down](https://open.spotify.com/album/5c1HMH7bxAm1Qd60Ku0Ia1) | 2:07 | 2023-09-06 | 2023-10-05 |
 | [Faded and Golden](https://open.spotify.com/track/5qQXvUly1CMnqUR2NHIlcj) | [Caroline Says](https://open.spotify.com/artist/10U1DbsjhgAqUMcouK267Q) | [The Lucky One](https://open.spotify.com/album/6Vt48PwJ6AbnKpR9pS93y9) | 3:13 | 2024-11-01 | 2024-12-05 |
 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 | 2022-04-06 | 2022-05-05 |
+| [FAJITAS](https://open.spotify.com/track/0ZQN1KuT5rPC0U4RqN7Tmd) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ), [Teaawhy](https://open.spotify.com/artist/7ikaWAiot7KxyQQx8LICbt), [Tony Shhnow](https://open.spotify.com/artist/3CUXLf0CXv5cUONz2Ep22p), [Milly Mo](https://open.spotify.com/artist/1FbNRjYXMW1sZGjlxaOO9u) | [FAJITAS](https://open.spotify.com/album/4yHtUMtFzyt7AYLEppogeH) | 2:52 | 2025-04-07 |  |
 | [FALL BACK](https://open.spotify.com/track/2vbrodbHlus3zzc1Ai3ooO) | [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [FALL BACK](https://open.spotify.com/album/4Ujy3pnuLg6FpXt8D5L7iS) | 1:51 | 2022-09-07 | 2022-10-06 |
 | [Faltó](https://open.spotify.com/track/3YMbT29QAQNiuC6VWP1uic) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Falto](https://open.spotify.com/album/5Zg6mTfVdWz6UQcdEwRaHk) | 2:36 | 2023-10-04 | 2023-11-09 |
 | [Fanfiction](https://open.spotify.com/track/2o3M4XOC7Z9nNz4v5xWL9h) | [CIB](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Fanfiction](https://open.spotify.com/album/2bmG0uP4DSjUszNu5NbfIT) | 3:14 | 2022-09-07 | 2022-10-06 |
@@ -889,7 +890,7 @@
 | [Keep The Change](https://open.spotify.com/track/2VlR46jqhpWZKmD8RmZCWl) | [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [Keep The Change](https://open.spotify.com/album/0KePZJdZrkswyYtFmY4ZzC) | 3:07 | 2022-11-02 | 2022-12-01 |
 | [Killing Me](https://open.spotify.com/track/01cAvCmXqqHEnKzaQXkhzN) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Killing Me](https://open.spotify.com/album/5yeTnVxNU9I1rdfvVN26Fm) | 3:14 | 2023-04-05 | 2023-05-04 |
 | [Kiss My \(Ah\)](https://open.spotify.com/track/5zgyVeHTCXBnLGI3xRvb0s) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Kiss My \(Ah\)](https://open.spotify.com/album/4LtELtq7yXRdE5A8jNIef0) | 2:18 | 2024-10-01 | 2024-11-02 |
-| [Komorebi](https://open.spotify.com/track/3wjJfYAHTbYGCRG7qqlLMK) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [Komorebi](https://open.spotify.com/album/1x51CSL5uqbcjtkKTMN2H5) | 5:41 | 2025-02-08 |  |
+| [Komorebi](https://open.spotify.com/track/3wjJfYAHTbYGCRG7qqlLMK) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [Komorebi](https://open.spotify.com/album/1x51CSL5uqbcjtkKTMN2H5) | 5:41 | 2025-02-08 | 2025-04-07 |
 | [L](https://open.spotify.com/track/1ZrmC67tOnkAv5dGl2ixxL) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h) | [L](https://open.spotify.com/album/6Tx1PIZy8fS28sxPtKIjRL) | 2:50 | 2023-04-24 | 2023-05-04 |
 | [LA FALTA QUE ME HACES \- Bachata Version](https://open.spotify.com/track/2L7Fd4XIh0uxgqYoFt1pT3) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [LA FALTA QUE ME HACES \(Bachata Version\)](https://open.spotify.com/album/0bBc5FTXAPIWwKWzX0oy6x) | 2:51 | 2023-06-07 | 2023-07-06 |
 | [La Loto](https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [La Loto](https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y) | 3:10 | 2022-08-03 | 2022-09-09 |
@@ -1097,6 +1098,7 @@
 | [new way out](https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [new way out](https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD) | 3:22 | 2024-11-01 | 2024-12-05 |
 | [Ni Muerta](https://open.spotify.com/track/1i6t6hQBpdzrXElkROHNfp) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Ni Muerta](https://open.spotify.com/album/45ID2WdGfnY0a0d9kjMdzE) | 2:58 | 2023-08-02 | 2023-09-07 |
 | [Nice To See You](https://open.spotify.com/track/29h1JvmqLYta6weden9cIm) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Nice To See You](https://open.spotify.com/album/0kCB7D2VKmhnlAEdTo0ixc) | 5:02 | 2023-01-04 | 2023-02-02 |
+| [Nichel](https://open.spotify.com/track/6USIYSkp1Fu2URHE1ptEuf) | [Alahsin](https://open.spotify.com/artist/1WIZEUGvpwPabtLcGTVFrF) | [Nichel](https://open.spotify.com/album/7GdtvwkG1Zd42hsS9FM03f) | 3:56 | 2025-04-07 |  |
 | [nicotine](https://open.spotify.com/track/0fKAYdwDXbyhHnveCLxHxR) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [nicotine](https://open.spotify.com/album/2v0JLejYwSc81UPDU1cI4v) | 3:36 | 2024-04-01 | 2024-05-02 |
 | [Nightcrawler](https://open.spotify.com/track/6BOtNckIPp753CWYFj9fin) | [Aye Nako](https://open.spotify.com/artist/73SIbPT9u0sHTR2SrwTXZE) | [Silver Haze](https://open.spotify.com/album/41V2PB3l3S3CxNgPWkW9z6) | 3:21 | 2022-06-01 | 2022-07-07 |
 | [Nightvisions](https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Nightvisions](https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt) | 3:56 | 2024-06-01 | 2024-08-02 |
@@ -1329,7 +1331,7 @@
 | [roadhead](https://open.spotify.com/track/3wNTgsllDN3WMqgCAxvGOw) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [roadhead](https://open.spotify.com/album/78gARamOGVuP4BfkPTfvx7) | 2:37 | 2024-03-01 | 2024-04-02 |
 | [Roadkill](https://open.spotify.com/track/4UV8lFpuRuIS3UXJ1AbmTM) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Roadkill](https://open.spotify.com/album/4I6KtoBDbRNR7R5DvQA7Nv) | 2:04 | 2023-01-04 | 2023-02-02 |
 | [Roadkill](https://open.spotify.com/track/6GlrfpSsWOdjeD9K1ziFzi) | [VIAL](https://open.spotify.com/artist/7soK35m8BosPkMQ67t7bqf) | [LOUDMOUTH](https://open.spotify.com/album/6YIMA2QvnMepRD7FwKsygm) | 2:37 | 2021-12-01 | 2022-01-06 |
-| [Roc Steady \(feat\. Flo Milli\)](https://open.spotify.com/track/3un3wRHzA77vlkWIXTWxNW) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [MEGAN: ACT II](https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa) | 2:19 | 2025-01-17 |  |
+| [Roc Steady \(feat\. Flo Milli\)](https://open.spotify.com/track/3un3wRHzA77vlkWIXTWxNW) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [MEGAN: ACT II](https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa) | 2:19 | 2025-01-17 | 2025-04-07 |
 | [ROCKET](https://open.spotify.com/track/7wgZCec9TpT6OPH8gKK0fG) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ROCKET](https://open.spotify.com/album/6AJH32yVIKjKu93tSgn0El) | 2:46 | 2024-08-01 | 2024-09-04 |
 | [Rockstar](https://open.spotify.com/track/220FuxHU2wcLLqUNRDglzm) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Rockstar](https://open.spotify.com/album/10kinVEnlFkRub41F304V7) | 3:09 | 2022-03-08 | 2022-04-07 |
 | [ROMEO](https://open.spotify.com/track/5KloY4dqqARqRPavfyRmRE) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [ROMEO](https://open.spotify.com/album/7mRkuJO3wFrp1CKKVPsodh) | 3:10 | 2025-04-01 |  |
@@ -1350,6 +1352,7 @@
 | [sad disco](https://open.spotify.com/track/4L9CJKKoqJO2ryiVDnJiiQ) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 3:03 | 2022-11-30 | 2022-12-08 |
 | [Sad Girl Summer](https://open.spotify.com/track/5KnhMcUwUatvRHzIXQEVOG) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Sad Girl Summer](https://open.spotify.com/album/5tRiNa7N3ILmcbx0EFaSse) | 2:58 | 2024-06-01 | 2024-07-02 |
 | [Sadness As A Gift](https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Sadness As A Gift](https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD) | 4:19 | 2024-12-04 | 2025-01-18 |
+| [safeword](https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [safeword](https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu) | 2:13 | 2025-04-07 |  |
 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-08-01 | 2024-10-02 |
 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2025-03-16 | 2025-03-19 |
 | [Salivate](https://open.spotify.com/track/00ieljc71OVNDOvJ22tbiN) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Salivate](https://open.spotify.com/album/5wEDBwUDtEWwuPKTT8Y77g) | 2:27 | 2023-04-05 | 2023-05-04 |

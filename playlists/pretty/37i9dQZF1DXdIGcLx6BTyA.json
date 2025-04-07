@@ -1,6 +1,6 @@
 {
   "description": "take the road less traveled ",
-  "num_followers": 35439,
+  "num_followers": 35444,
   "original_name": "Americana Drive ",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2025-03-14 04:00:21",
       "album": {
+        "name": "Faye Webster",
+        "url": "https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 251666,
+      "name": "I Know You",
+      "url": "https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o"
+    },
+    {
+      "added_at": "2025-03-14 04:00:21",
+      "album": {
         "name": "Imaginary Appalachia",
         "url": "https://open.spotify.com/album/6kV0NSYFjIMVgkhWRDI0bS"
       },
@@ -227,38 +243,6 @@
     {
       "added_at": "2025-03-14 04:00:21",
       "album": {
-        "name": "Purgatory",
-        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 280786,
-      "name": "Whitehouse Road",
-      "url": "https://open.spotify.com/track/0fbR95FEaJUxiQYaqZZukv"
-    },
-    {
-      "added_at": "2025-03-14 04:00:21",
-      "album": {
-        "name": "Faye Webster",
-        "url": "https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 251666,
-      "name": "I Know You",
-      "url": "https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o"
-    },
-    {
-      "added_at": "2025-03-14 04:00:21",
-      "album": {
         "name": "Coming Home (Deluxe)",
         "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 206386,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
+    },
+    {
+      "added_at": "2025-03-14 04:00:21",
+      "album": {
+        "name": "Purgatory",
+        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 280786,
+      "name": "Whitehouse Road",
+      "url": "https://open.spotify.com/track/0fbR95FEaJUxiQYaqZZukv"
     },
     {
       "added_at": "2025-03-14 04:00:21",
@@ -327,22 +327,6 @@
     {
       "added_at": "2025-03-14 04:00:21",
       "album": {
-        "name": "Western Swing & Waltzes and Other Punchy Songs",
-        "url": "https://open.spotify.com/album/2YpWqM7XcDt45IQWYL6Y0t"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 192626,
-      "name": "Cowpoke",
-      "url": "https://open.spotify.com/track/0QJKUh0ga2ubfuVs8DM7bq"
-    },
-    {
-      "added_at": "2025-03-14 04:00:21",
-      "album": {
         "name": "Copperhead Road",
         "url": "https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 129463,
       "name": "Vagabond",
       "url": "https://open.spotify.com/track/2R3I5DiDf8bLz2QjrPmUpk"
+    },
+    {
+      "added_at": "2025-03-14 04:00:21",
+      "album": {
+        "name": "Western Swing & Waltzes and Other Punchy Songs",
+        "url": "https://open.spotify.com/album/2YpWqM7XcDt45IQWYL6Y0t"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 192626,
+      "name": "Cowpoke",
+      "url": "https://open.spotify.com/track/0QJKUh0ga2ubfuVs8DM7bq"
     },
     {
       "added_at": "2025-03-14 04:00:21",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-03-14 04:00:21",
       "album": {
-        "name": "Pony",
-        "url": "https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 239001,
-      "name": "Dead of Night",
-      "url": "https://open.spotify.com/track/08unC8N1V1dEcqiyi06g6W"
-    },
-    {
-      "added_at": "2025-03-14 04:00:21",
-      "album": {
         "name": "Streetlights",
         "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 239240,
       "name": "Angel from Montgomery - 2008 Remaster",
       "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
+    },
+    {
+      "added_at": "2025-03-14 04:00:21",
+      "album": {
+        "name": "Pony",
+        "url": "https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 239001,
+      "name": "Dead of Night",
+      "url": "https://open.spotify.com/track/08unC8N1V1dEcqiyi06g6W"
     },
     {
       "added_at": "2025-03-14 04:00:21",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-03-14 04:00:21",
       "album": {
-        "name": "Shine On Rainy Day",
-        "url": "https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg"
-      },
-      "artists": [
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        }
-      ],
-      "duration_ms": 270413,
-      "name": "Black Crow",
-      "url": "https://open.spotify.com/track/4UmYFqPfd11pZiUMJHCFvG"
-    },
-    {
-      "added_at": "2025-03-14 04:00:21",
-      "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 168480,
       "name": "The Frost",
       "url": "https://open.spotify.com/track/41nIJErYY9goKvnCyG7ov6"
+    },
+    {
+      "added_at": "2025-03-14 04:00:21",
+      "album": {
+        "name": "Shine On Rainy Day",
+        "url": "https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "duration_ms": 270413,
+      "name": "Black Crow",
+      "url": "https://open.spotify.com/track/4UmYFqPfd11pZiUMJHCFvG"
     },
     {
       "added_at": "2025-03-14 04:00:21",
@@ -731,8 +731,8 @@
     {
       "added_at": "2025-03-14 04:00:21",
       "album": {
-        "name": "Lonesome Drifter",
-        "url": "https://open.spotify.com/album/64lDGn2XUSnXAncXh9Zzow"
+        "name": "$10 Cowboy",
+        "url": "https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
         }
       ],
-      "duration_ms": 198577,
-      "name": "Night Rider",
-      "url": "https://open.spotify.com/track/2ZAVci8nZRqLEWV60mogWV"
+      "duration_ms": 215744,
+      "name": "$10 Cowboy",
+      "url": "https://open.spotify.com/track/77tSuH7nEYx2IWJm9TboDX"
     },
     {
       "added_at": "2025-03-14 04:00:21",
@@ -887,8 +887,8 @@
     {
       "added_at": "2025-03-14 04:00:21",
       "album": {
-        "name": "$10 Cowboy",
-        "url": "https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za"
+        "name": "Lonesome Drifter",
+        "url": "https://open.spotify.com/album/64lDGn2XUSnXAncXh9Zzow"
       },
       "artists": [
         {
@@ -896,9 +896,25 @@
           "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
         }
       ],
-      "duration_ms": 215744,
-      "name": "$10 Cowboy",
-      "url": "https://open.spotify.com/track/77tSuH7nEYx2IWJm9TboDX"
+      "duration_ms": 198577,
+      "name": "Night Rider",
+      "url": "https://open.spotify.com/track/2ZAVci8nZRqLEWV60mogWV"
+    },
+    {
+      "added_at": "2025-03-14 04:00:21",
+      "album": {
+        "name": "In Dreams (Alternative Version)",
+        "url": "https://open.spotify.com/album/0CvZulEryG0ohlt1QFVHhM"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 163149,
+      "name": "In Dreams - Alternative Version",
+      "url": "https://open.spotify.com/track/0xJDTRuEuSlP95wHnrLnLx"
     },
     {
       "added_at": "2025-03-14 04:00:21",
@@ -935,22 +951,6 @@
     {
       "added_at": "2025-03-14 04:00:21",
       "album": {
-        "name": "In Dreams (Alternative Version)",
-        "url": "https://open.spotify.com/album/0CvZulEryG0ohlt1QFVHhM"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 163149,
-      "name": "In Dreams - Alternative Version",
-      "url": "https://open.spotify.com/track/0xJDTRuEuSlP95wHnrLnLx"
-    },
-    {
-      "added_at": "2025-03-14 04:00:21",
-      "album": {
         "name": "The Late Great Townes Van Zandt",
         "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
       },
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-03-14 04:00:21",
       "album": {
-        "name": "The Man from Waco",
-        "url": "https://open.spotify.com/album/2CegSVMbZ18cUUUBAhpesV"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "The Man from Waco",
-      "url": "https://open.spotify.com/track/76AM6t1aDE12g7cjzEexER"
-    },
-    {
-      "added_at": "2025-03-14 04:00:21",
-      "album": {
         "name": "Sky Blue Sky",
         "url": "https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 357160,
       "name": "Impossible Germany",
       "url": "https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA"
+    },
+    {
+      "added_at": "2025-03-14 04:00:21",
+      "album": {
+        "name": "Trail Of Flowers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 218967,
+      "name": "Don\u2019t Let Your Deal Go Down",
+      "url": "https://open.spotify.com/track/6xshRwvEkTAJQoClIFGyFS"
     },
     {
       "added_at": "2025-03-14 04:00:21",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2025-03-14 04:00:21",
       "album": {
+        "name": "The Man from Waco",
+        "url": "https://open.spotify.com/album/2CegSVMbZ18cUUUBAhpesV"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "The Man from Waco",
+      "url": "https://open.spotify.com/track/76AM6t1aDE12g7cjzEexER"
+    },
+    {
+      "added_at": "2025-03-14 04:00:21",
+      "album": {
         "name": "Sweet Symphony",
         "url": "https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7"
       },
@@ -1063,38 +1079,6 @@
       "duration_ms": 228076,
       "name": "Sweet Symphony (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS"
-    },
-    {
-      "added_at": "2025-03-14 04:00:21",
-      "album": {
-        "name": "Trail Of Flowers (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 218967,
-      "name": "Don\u2019t Let Your Deal Go Down",
-      "url": "https://open.spotify.com/track/6xshRwvEkTAJQoClIFGyFS"
-    },
-    {
-      "added_at": "2025-03-14 04:00:21",
-      "album": {
-        "name": "Jamestown Ferry",
-        "url": "https://open.spotify.com/album/7vbP6fdpAvEdxYwpOa4RqL"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 206455,
-      "name": "Jamestown Ferry",
-      "url": "https://open.spotify.com/track/3QbLX9ij8b4ip2ohQN9CZi"
     },
     {
       "added_at": "2025-03-14 04:00:21",
@@ -1131,22 +1115,6 @@
     {
       "added_at": "2025-03-14 04:00:21",
       "album": {
-        "name": "Dragon New Warm Mountain I Believe In You",
-        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 334802,
-      "name": "Spud Infinity",
-      "url": "https://open.spotify.com/track/3Q6VfeIZ1bTjWiNe2Or4LQ"
-    },
-    {
-      "added_at": "2025-03-14 04:00:21",
-      "album": {
         "name": "Middle",
         "url": "https://open.spotify.com/album/66esRfCq1pX9ofsg4wwp3Q"
       },
@@ -1159,6 +1127,22 @@
       "duration_ms": 215236,
       "name": "Horses",
       "url": "https://open.spotify.com/track/2xvIz18sQhhNWsjnVTo8OS"
+    },
+    {
+      "added_at": "2025-03-14 04:00:21",
+      "album": {
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 334802,
+      "name": "Spud Infinity",
+      "url": "https://open.spotify.com/track/3Q6VfeIZ1bTjWiNe2Or4LQ"
     },
     {
       "added_at": "2025-03-14 04:00:21",
@@ -1207,6 +1191,22 @@
       "duration_ms": 288000,
       "name": "Everything Is Free",
       "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
+    },
+    {
+      "added_at": "2025-03-14 04:00:21",
+      "album": {
+        "name": "Jamestown Ferry",
+        "url": "https://open.spotify.com/album/7vbP6fdpAvEdxYwpOa4RqL"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 206455,
+      "name": "Jamestown Ferry",
+      "url": "https://open.spotify.com/track/3QbLX9ij8b4ip2ohQN9CZi"
     },
     {
       "added_at": "2025-03-14 04:00:21",
@@ -1311,22 +1311,18 @@
     {
       "added_at": "2025-03-14 04:00:21",
       "album": {
-        "name": "Cunningham Bird",
-        "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
       },
       "artists": [
         {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
         }
       ],
-      "duration_ms": 156040,
-      "name": "Crying In The Night",
-      "url": "https://open.spotify.com/track/5wyr3mSfFAzLOZF50jEcqt"
+      "duration_ms": 155226,
+      "name": "Satisfy Me",
+      "url": "https://open.spotify.com/track/0OsGdYAv9kY6BxLlMg9622"
     }
   ],
   "unique_name": "Americana Drive ",

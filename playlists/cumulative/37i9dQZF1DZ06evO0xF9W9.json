@@ -6,6 +6,32 @@
     {
       "album": {
         "name": "A 120",
+        "url": "https://open.spotify.com/album/7KL5QFMlASd1NL1m7VTG3y"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Kuv507",
+          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
+        },
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184215,
+      "name": "A 120",
+      "url": "https://open.spotify.com/track/1i4FLDStI66sJRHbRhojlz"
+    },
+    {
+      "album": {
+        "name": "A 120",
         "url": "https://open.spotify.com/album/6JcFpKkFg2knFRoFyefJib"
       },
       "artists": [
@@ -50,7 +76,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-07",
       "duration_ms": 184215,
       "name": "A 120",
       "url": "https://open.spotify.com/track/4kQujiq5GIgUuQoqGZvnDA"
@@ -588,10 +614,36 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-07",
       "duration_ms": 178369,
       "name": "irango",
       "url": "https://open.spotify.com/track/4oXK3uJN2uEWy6E8IIX6vm"
+    },
+    {
+      "album": {
+        "name": "irango",
+        "url": "https://open.spotify.com/album/41CQI6zBIWg1xzRmVnlYFh"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Dj Astilo",
+          "url": "https://open.spotify.com/artist/7zxmgQASpOUVux7JhFHlLK"
+        },
+        {
+          "name": "El Bloonel",
+          "url": "https://open.spotify.com/artist/78CU7fjwAyxSX6DJFT2khV"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178369,
+      "name": "irango",
+      "url": "https://open.spotify.com/track/4s3Ax0OnqdpsTODo3Iy4cR"
     },
     {
       "album": {
@@ -1188,10 +1240,28 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-07",
       "duration_ms": 206785,
       "name": "Provoca",
       "url": "https://open.spotify.com/track/2Y465FoRY9L9mKVHn325Zm"
+    },
+    {
+      "album": {
+        "name": "Provoca",
+        "url": "https://open.spotify.com/album/61KINxMTi3tqeCEppDskc4"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206785,
+      "name": "Provoca",
+      "url": "https://open.spotify.com/track/3I7DArlMv8E8FiRslMLvVz"
     },
     {
       "album": {
@@ -1268,10 +1338,28 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-07",
       "duration_ms": 150508,
       "name": "Ruta",
       "url": "https://open.spotify.com/track/4rNX5hOw4IAPuSlEZ71m5i"
+    },
+    {
+      "album": {
+        "name": "Ruta",
+        "url": "https://open.spotify.com/album/53rI2kESC0eAG3jkVfFS5I"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150508,
+      "name": "Ruta",
+      "url": "https://open.spotify.com/track/6yToupHMF7KRbAthyR5POJ"
     },
     {
       "album": {

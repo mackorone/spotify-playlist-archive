@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-251 songs - 18 hr 40 min
+252 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Shadow Man](https://open.spotify.com/track/1HQ4pTykHMsV0KLJt0eJIk) | [ARENCI](https://open.spotify.com/artist/6flaiu7aIHXBsmy6ntI6PQ), [Karashnikov](https://open.spotify.com/artist/0H6wjgFfHI7vf5SaX2T14n), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [Shadow Man](https://open.spotify.com/album/78bCe5Ms70ueQhdt3H1V1U) | 5:00 | 2024-04-09 | 2024-05-23 |
 | [Shadows Come Alive](https://open.spotify.com/track/6QZCslOxp8ARvtHNsoNdxg) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Shadows Come Alive](https://open.spotify.com/album/62nVzVAdTHPY2nwGwRGt0L) | 2:59 | 2024-11-29 |  |
 | [Shanti](https://open.spotify.com/track/2lV0ugOkfP0vQ4Z4oKEsF4) | [CARAVEL](https://open.spotify.com/artist/5od72ceH2aN3pS4hcHNzRy) | [Shanti](https://open.spotify.com/album/3qwT2VYkWGjg79LdHTIhWb) | 4:37 | 2025-03-19 | 2025-04-05 |
+| [SHIVA](https://open.spotify.com/track/6NOMfX95ei3MYvs7pIbUzL) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [Flawx](https://open.spotify.com/artist/11qVwA5mziMzwH4s7A1Wqq), [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [SHIVA](https://open.spotify.com/album/4pgOQhCIH376eZLAeKOv0u) | 3:40 | 2025-04-04 |  |
 | [Shivaya \- Remix](https://open.spotify.com/track/3IGStl3M5BrxGyD01kZJ7Q) | [BYØRN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD), [Per Pleks](https://open.spotify.com/artist/2R3wb1vbfcX7igEpay4uPV) | [Shivaya \(Remix\)](https://open.spotify.com/album/6yfZ47yb1kEVBDjPatR0cn) | 3:22 | 2024-10-24 |  |
 | [SHOUT IT](https://open.spotify.com/track/08TB2KbFxrzU6XBbg2D2al) | [Bunker](https://open.spotify.com/artist/3Ak4Weuk8uhYAXbTe5RNy5), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7) | [SHOUT IT](https://open.spotify.com/album/1n4rIAcLbuGnCsejoHIHsx) | 2:45 | 2024-10-04 |  |
 | [Silence Is Oppression](https://open.spotify.com/track/5ggRtRm7mLxjTekV0KWbdO) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [Various Artists \- EP 5](https://open.spotify.com/album/3Au8eyQxvtvbxPwZlJ3Al8) | 5:54 | 2024-04-09 | 2024-11-11 |
@@ -254,7 +255,7 @@
 | [WTF?](https://open.spotify.com/track/5DaHRGpgfmx7mcCYrXmlxT) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW) | [WTF?](https://open.spotify.com/album/1GbFabrDm9f8oFuwWhRjj5) | 3:42 | 2025-02-07 |  |
 | [XTC](https://open.spotify.com/track/5EwP2h6i4N5durNel1b5Qw) | [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [GLØCK](https://open.spotify.com/artist/5ogsJfXsVSStkB58OGqXPG) | [Dier van de Nacht](https://open.spotify.com/album/3w0Zui4lx2r6Hez5qH0GVG) | 3:12 | 2024-05-22 | 2024-06-24 |
 | [XTC Love](https://open.spotify.com/track/46oG3q3ZvNvEWQOPJcs8Oh) | [XRTN](https://open.spotify.com/artist/5oXWx1ZjiyWTt4fhjUQgKR), [JSTN](https://open.spotify.com/artist/6eGp2AIQ3TjdRZ7uxdbaY2) | [For your mind](https://open.spotify.com/album/3BwnFfvOQKkIVvRw0BlwsG) | 4:48 | 2024-04-09 | 2025-02-14 |
-| [XTCWTF](https://open.spotify.com/track/6fHZZaGk4QBwVQDc9oMKKR) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [XTCWTF](https://open.spotify.com/album/5ujH6sqRszexztTVL3Qjho) | 3:43 | 2024-11-29 |  |
+| [XTCWTF](https://open.spotify.com/track/6fHZZaGk4QBwVQDc9oMKKR) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [XTCWTF](https://open.spotify.com/album/5ujH6sqRszexztTVL3Qjho) | 3:43 | 2024-11-29 | 2025-04-07 |
 | [YOU ARE MINE](https://open.spotify.com/track/2aCZnpXlTBZFL7YrhQbzgS) | [Kruelty](https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD) | [YOU ARE MINE](https://open.spotify.com/album/1iFfeclCvyoctBXLDYLiAg) | 3:16 | 2025-03-19 |  |
 | [You Make Me Horny](https://open.spotify.com/track/52tyA5PDC5veclwTVmvEEx) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Laren](https://open.spotify.com/artist/6ScQdKv62h1YalS7o7FhsS) | [You Make Me Horny](https://open.spotify.com/album/2iqGNeAbv3AnXgaE3Ayzmv) | 4:54 | 2024-04-09 |  |
 | [Young Birds \- Hard Duck Edit](https://open.spotify.com/track/1jxgFyyTRgoMGKRZsJ27bi) | [DJ Weirdo](https://open.spotify.com/artist/6Vt68J5KBWTgaKNqKKL3Fc), [Dr\. Phil Omanski](https://open.spotify.com/artist/7jW78RDarQBikuSXe9WkLD), [Hard Duck](https://open.spotify.com/artist/1JE2VS4iNTz6kMekTzaeh1) | [Young Birds \(Hard Duck Edit\)](https://open.spotify.com/album/58h1FUbmLeelL6Tk0kYsLb) | 5:01 | 2024-07-14 | 2024-07-22 |

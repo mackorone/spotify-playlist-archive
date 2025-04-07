@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Sultaan, Sidhu Jatt, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,162 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,178 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 10 | [Surmedaanii](https://open.spotify.com/track/660KOcB6zUFTcjX5eC6cfv) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Surmedaanii](https://open.spotify.com/album/2N2yUIv3IHvtq9iija5KUZ) | 3:27 |
 | 11 | [Parinde](https://open.spotify.com/track/6rMl88I3XBBTpmxOD2Ac13) | [Mixman Shawn](https://open.spotify.com/artist/3R6sD3M5ZGVU7nQJUmQ9SA), [CheemaBeatz](https://open.spotify.com/artist/3QEIlc0qx1Aq84jCd8RfXu) | [Parinde](https://open.spotify.com/album/00SRt1KoZzn1jyZ2By01qr) | 3:08 |
 | 12 | [Surrey Connection](https://open.spotify.com/track/4Pe5HvYcEE9ce0faCSNvOU) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Prem Lata](https://open.spotify.com/artist/3ufBSdoViRPzJXqGPVy8rH), [JSL Singh](https://open.spotify.com/artist/1411qE3e3uMmyj0XQ2CeoA) | [WITHOUT PREJUDICE](https://open.spotify.com/album/1wspMsQ2eMXqo5gs6vEHzi) | 2:45 |
-| 13 | [Dil Khulle](https://open.spotify.com/track/5KVa8FVRHlyOHw3vwgmJRd) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge), [Sahil Thapar](https://open.spotify.com/artist/3bze3etaYqANIcGf6y6ohD) | [Dil Khulle](https://open.spotify.com/album/177GULyhIdtR3SbLAZ0yWY) | 2:12 |
+| 13 | [Dil Khulle](https://open.spotify.com/track/5KVa8FVRHlyOHw3vwgmJRd) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge), [Sahil Thapar](https://open.spotify.com/artist/3bze3etaYqANIcGf6y6ohD), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0) | [Dil Khulle](https://open.spotify.com/album/177GULyhIdtR3SbLAZ0yWY) | 2:12 |
 | 14 | [DAUR](https://open.spotify.com/track/2nKTCnKSJQD54PvuqPgcrX) | [TERA MUSAFIRR](https://open.spotify.com/artist/6GD40pnf6z91XAxh1j2EWj) | [DAUR](https://open.spotify.com/album/0l61fDKOLhYH8N1LQ5oxfs) | 3:17 |
 | 15 | [Raat da Time](https://open.spotify.com/track/67dJV3idtBksu5R4igT0b3) | [Anmol Gandhi](https://open.spotify.com/artist/5M1haB6evRDGnm3O0Mib2s) | [Raat da Time](https://open.spotify.com/album/0Pil91hsRL6bHw9vKCzxME) | 2:15 |
 | 16 | [DINAR](https://open.spotify.com/track/6GnD1bb60WcHwPKYYrvTuc) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Kaka Sady](https://open.spotify.com/artist/4MkyBr9fmRHVsOmeyjk3N8), [Andy Grewal](https://open.spotify.com/artist/5PCB0eH1q1vRmI70ibdTeh), [Goldy Kingmeker](https://open.spotify.com/artist/3Py94OVGyh6M4Y5sNW5S7q), [Ajooba SHS](https://open.spotify.com/artist/3pEXG78Tu733lUcZlvDYHy) | [SKS](https://open.spotify.com/album/3No66PcT9nDuamVTFdWgj3) | 4:34 |

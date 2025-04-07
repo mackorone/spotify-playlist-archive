@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 21870,
+  "num_followers": 21872,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+8hAAAAAAAwl8S2tqcbvE0q4TE6+pdC",
+  "snapshot_id": "Z/BygAAAAAACiCc72dZgV8EGpuA1qGNE",
   "tracks": [
     {
       "added_at": null,
@@ -443,18 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Here to Infirmary",
-        "url": "https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh"
+        "name": "Agony & Irony (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l"
       },
       "artists": [
         {
           "name": "Alkaline Trio",
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        },
+        {
+          "name": "Douglas P",
+          "url": "https://open.spotify.com/artist/3j9Whe9AB0MoBumHAgko7S"
         }
       ],
-      "duration_ms": 138693,
-      "name": "I'm Dying Tomorrow",
-      "url": "https://open.spotify.com/track/4cIFLerFqmenkf3qzn1UPz"
+      "duration_ms": 240760,
+      "name": "I Found Away",
+      "url": "https://open.spotify.com/track/3ylngIyRJLoXVFxJr5xnW3"
     },
     {
       "added_at": null,
@@ -475,22 +479,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agony & Irony (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l"
+        "name": "From Here to Infirmary",
+        "url": "https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh"
       },
       "artists": [
         {
           "name": "Alkaline Trio",
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        },
-        {
-          "name": "Douglas P",
-          "url": "https://open.spotify.com/artist/3j9Whe9AB0MoBumHAgko7S"
         }
       ],
-      "duration_ms": 240760,
-      "name": "I Found Away",
-      "url": "https://open.spotify.com/track/3ylngIyRJLoXVFxJr5xnW3"
+      "duration_ms": 138693,
+      "name": "I'm Dying Tomorrow",
+      "url": "https://open.spotify.com/track/4cIFLerFqmenkf3qzn1UPz"
     },
     {
       "added_at": null,
