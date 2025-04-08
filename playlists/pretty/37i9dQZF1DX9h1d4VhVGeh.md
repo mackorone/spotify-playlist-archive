@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 
 > Sabah al khair, start your day with extra cardamom and mellow tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,395 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,465 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 36 | [Ya Zaman](https://open.spotify.com/track/5V9UYttxpcWXeHNyZRaZPV) | [Mike Massy](https://open.spotify.com/artist/4g5NYCLpdbph9wm6QUaFmd) | [Ya Zaman](https://open.spotify.com/album/5xSrFopsZNVGYXaucue8cW) | 4:17 |
 | 37 | [Shim el Yasmine](https://open.spotify.com/track/1CUZeCu2qMHSteKpFkQD4m) | [Mashrou' Leila](https://open.spotify.com/artist/2RIrl9cApI8HwM6aF4Jt5m) | [Mashrou' Leila](https://open.spotify.com/album/4bOxUbTKHcHrkEJqNjeJir) | 5:09 |
 | 38 | [My Mother](https://open.spotify.com/track/3WxUI6F09yVhLMLksKMjQJ) | [Marcel Khalife](https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ) | [Promises of the Storm](https://open.spotify.com/album/3IDJ1T4PJ3fgp2Q1vQ2Ytk) | 9:17 |
-| 39 | [Wein Rayheen](https://open.spotify.com/track/7mHpjI49tleTX9YezPPqS6) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU), [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Wein Rayheen](https://open.spotify.com/album/4bcHZwnRYGf63bmvfpUFDq) | 3:05 |
-| 40 | [Estesna'i](https://open.spotify.com/track/2ZR3Vb01kfWlNDQ6P16Qjv) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv) | [Hadis El Layl](https://open.spotify.com/album/01Gq3fakZdS0h4sk6pKwea) | 3:41 |
+| 39 | [Estesna'i](https://open.spotify.com/track/2ZR3Vb01kfWlNDQ6P16Qjv) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv) | [Hadis El Layl](https://open.spotify.com/album/01Gq3fakZdS0h4sk6pKwea) | 3:41 |
+| 40 | [Wein Rayheen](https://open.spotify.com/track/7mHpjI49tleTX9YezPPqS6) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU), [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Wein Rayheen](https://open.spotify.com/album/4bcHZwnRYGf63bmvfpUFDq) | 3:05 |
 | 41 | [Poco a Poco](https://open.spotify.com/track/58IXUe8FloHamXLpSsj9tH) | [Sonia Noor](https://open.spotify.com/artist/1bV7AGkUHkPO1AQpsxMrbX) | [Poco a Poco](https://open.spotify.com/album/5w0dZ7uEgnSUzPBgwiItLC) | 3:42 |
 | 42 | [Sabahek](https://open.spotify.com/track/4cnTGRpVDnBXgD2MQYQOfS) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4) | [Tokaa We Tkoom](https://open.spotify.com/album/7APkDKEvXGWOWtr76tBOJM) | 3:38 |
 | 43 | [Lazim Ahkeelak](https://open.spotify.com/track/5bovnlTevkS4gSSYhCnlUI) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [Lazim Ahkeelak](https://open.spotify.com/album/5lP0mAnk1RMLrEhpaIu5TG) | 3:18 |
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 46 | [Shou Hal Ayyam \- 2008 Remastered](https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4) | [Ziad Rahbani](https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT) | [Ana Moush Kafer](https://open.spotify.com/album/4A3pPnIVNk84KqJODnLu7N) | 5:46 |
 | 47 | [Helwa Ya Baladi حلوة يا بلدي \- Cover](https://open.spotify.com/track/3WVU8Hqnp45QfgtVZu36He) | [Lina Sleibi](https://open.spotify.com/artist/4V7rYFRvFUe9t0D4wPCxrz) | [Helwa Ya Baladi حلوة يا بلدي \(Cover\)](https://open.spotify.com/album/3DkQKBXouCLFM1xrl3R667) | 3:24 |
 | 48 | [Sucre](https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [HANNET LEKLOUB](https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql) | 3:55 |
-| 49 | [Law Fina](https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Law Fina](https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB) | 6:11 |
-| 50 | [Fe Albi Makan](https://open.spotify.com/track/7hxNdifkLusSYHUroOlRDX) | [Mohamed Mohsen](https://open.spotify.com/artist/4zCfs2jBKiQEFIXhxRUGEv) | [Habayeb Zaman](https://open.spotify.com/album/3SnlKpVPHO3C9Zg1TzL18h) | 5:07 |
-| 51 | [The Sun of Love \- Remix](https://open.spotify.com/track/0ssucGvDVIMzkZsdeEkLks) | [Rim Banna](https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO), [Bruno Cruz](https://open.spotify.com/artist/0yIJhvdaYRB4dOJskdpqxW), [Ministry of Dub\-Key](https://open.spotify.com/artist/1XW2NTbJjpWDcZioxGuzVT) | [R.I.M.I.X](https://open.spotify.com/album/2OVAzbPUeWOdrmcZ9Lr0Fc) | 3:26 |
-| 52 | [Bahwak](https://open.spotify.com/track/7D8m6yXM2yIITCjMrlEPOu) | [Sama Shoufani](https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr) | [Bahwak](https://open.spotify.com/album/4qz2Q8NdUlkKckkRmFDhtl) | 3:18 |
-| 53 | [Rouh Ya Amar](https://open.spotify.com/track/2lIKMzHpP3KzZpxK6QwM5O) | [Hiba Tawaji](https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX) | [Rouh Ya Amar](https://open.spotify.com/album/6Se4NtTSbdIK9tQToOcQB6) | 4:02 |
+| 49 | [Fe Albi Makan](https://open.spotify.com/track/7hxNdifkLusSYHUroOlRDX) | [Mohamed Mohsen](https://open.spotify.com/artist/4zCfs2jBKiQEFIXhxRUGEv) | [Habayeb Zaman](https://open.spotify.com/album/3SnlKpVPHO3C9Zg1TzL18h) | 5:07 |
+| 50 | [Law Fina](https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Law Fina](https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB) | 6:11 |
+| 51 | [Rouh Ya Amar](https://open.spotify.com/track/2lIKMzHpP3KzZpxK6QwM5O) | [Hiba Tawaji](https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX) | [Rouh Ya Amar](https://open.spotify.com/album/6Se4NtTSbdIK9tQToOcQB6) | 4:02 |
+| 52 | [The Sun of Love \- Remix](https://open.spotify.com/track/0ssucGvDVIMzkZsdeEkLks) | [Rim Banna](https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO), [Bruno Cruz](https://open.spotify.com/artist/0yIJhvdaYRB4dOJskdpqxW), [Ministry of Dub\-Key](https://open.spotify.com/artist/1XW2NTbJjpWDcZioxGuzVT) | [R.I.M.I.X](https://open.spotify.com/album/2OVAzbPUeWOdrmcZ9Lr0Fc) | 3:26 |
+| 53 | [Bahwak](https://open.spotify.com/track/7D8m6yXM2yIITCjMrlEPOu) | [Sama Shoufani](https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr) | [Bahwak](https://open.spotify.com/album/4qz2Q8NdUlkKckkRmFDhtl) | 3:18 |
 | 54 | [Bahebek Lelsama](https://open.spotify.com/track/6J4xPcKd2BdyCYdCIspKTg) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Bahebek Lelsama](https://open.spotify.com/album/2426NrM8n5hNONlavrlbkn) | 3:20 |
 | 55 | [Al Kawn Janni Maak](https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Al Kawn Janni Maak](https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG) | 2:15 |
 | 56 | [Shou Byeb'a](https://open.spotify.com/track/5BuuNKK47ns8EkBBNT9LWn) | [Carla Chamoun](https://open.spotify.com/artist/0StdV1uuvaOhOG4xR6lynG) | [Shou Byeb'a](https://open.spotify.com/album/3oyjqPAgYJfJ3uP8vEgbfB) | 3:43 |

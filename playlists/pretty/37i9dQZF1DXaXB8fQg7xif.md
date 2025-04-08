@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXB8fQg7xif.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,162,451 likes - 150 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,162,745 likes - 150 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXB8fQg7xif.md) - [plain]
 | 113 | [Tears \(with Paige Cavell\)](https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 3:56 |
 | 114 | [VHS RAVE](https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [VHS RAVE](https://open.spotify.com/album/6jBRSFPY0Kbg7V3Ey2uDYX) | 3:11 |
 | 115 | [Active](https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Active](https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP) | 2:52 |
-| 116 | [Chills \(Feel My Love\)](https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Chills \(Feel My Love\)](https://open.spotify.com/album/5D3qYKt4IFBEQENqzzlh1Y) | 2:43 |
-| 117 | [On & On](https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [On & On](https://open.spotify.com/album/2R1IseXguOsELhULk1H60P) | 2:50 |
+| 116 | [On & On](https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [On & On](https://open.spotify.com/album/2R1IseXguOsELhULk1H60P) | 2:50 |
+| 117 | [Chills \(Feel My Love\)](https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Chills \(Feel My Love\)](https://open.spotify.com/album/5D3qYKt4IFBEQENqzzlh1Y) | 2:43 |
 | 118 | [Stay High](https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Stay High](https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ) | 3:08 |
 | 119 | [Moment](https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ) | [Nicolas Binder](https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA) | [Moment](https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV) | 3:24 |
 | 120 | [Your Love \- Diplo Remix](https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Your Love \(Diplo Remix\)](https://open.spotify.com/album/7F4BBbbkJKAa0xxGKpzcvV) | 2:35 |

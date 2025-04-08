@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Victor Leksell, Miley Cyrus, Laleh och Ed Sheeran med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,885 likes - 104 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,887 likes - 104 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

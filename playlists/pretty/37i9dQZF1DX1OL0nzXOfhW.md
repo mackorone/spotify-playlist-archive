@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 > 2025 RADAR登場！持續發掘香港未來新聲！Cover: Arvin曾傲棐同學
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,305 likes - 31 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,309 likes - 31 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 30 | [Phantom](https://open.spotify.com/track/6LFVyHxIjazDvSQvLYDGLQ) | [Uchu Yurei](https://open.spotify.com/artist/12qOUG1SCqsMtXNPbng8rl) | [不可逆都市 Irreversible City](https://open.spotify.com/album/1nBkBfza1AaqD5ROaLVRxA) | 4:49 |
 | 31 | [Jinsei](https://open.spotify.com/track/5UyBOOAlO9jWarSpR2UERr) | [Uchu Yurei](https://open.spotify.com/artist/12qOUG1SCqsMtXNPbng8rl) | [Jinsei](https://open.spotify.com/album/1AK3cvJyXk5L8Jwnq7rKmd) | 4:44 |
 
-Snapshot ID: `Z+/EvgAAAACyzxAO9kpsM4Ruj+8/Yqfx`
+Snapshot ID: `Z/NxawAAAABjGbVcrSBdP59UCtzIo13T`

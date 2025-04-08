@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 
 > This is Barry White\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,822 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,850 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 6 | [Just The Way You Are](https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 4:49 |
 | 7 | [You See The Trouble With Me](https://open.spotify.com/track/3O48gtvD20jxiNtT7tWr4C) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Let The Music Play](https://open.spotify.com/album/2e9sKnS0ISiTbrrn181xlM) | 3:29 |
 | 8 | [I'm Gonna Love You Just A Little More Baby](https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [I've Got So Much To Give](https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI) | 7:11 |
-| 9 | [Never, Never Gonna Give Ya Up](https://open.spotify.com/track/3pepZAOvUCBt3qWi9Ax6Aq) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White's Greatest Hits](https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0) | 4:50 |
+| 9 | [What Am I Gonna Do With You](https://open.spotify.com/track/097OvOx07eXC4UmdnywvoE) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Just Another Way To Say I Love You](https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U) | 3:39 |
 | 10 | [Can't Get Enough Of Your Love, Babe](https://open.spotify.com/track/7LaCgCP7FCol0RYwMDQKwK) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 4:02 |
-| 11 | [What Am I Gonna Do With You](https://open.spotify.com/track/097OvOx07eXC4UmdnywvoE) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Just Another Way To Say I Love You](https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U) | 3:39 |
+| 11 | [Never, Never Gonna Give Ya Up](https://open.spotify.com/track/3pepZAOvUCBt3qWi9Ax6Aq) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White's Greatest Hits](https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0) | 4:50 |
 | 12 | [Baby We Better Try To Get It Together](https://open.spotify.com/track/1JUjt5q1mlm7DvvkaFpkEh) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Let The Music Play](https://open.spotify.com/album/2e9sKnS0ISiTbrrn181xlM) | 4:25 |
 | 13 | [The Secret Garden \(Sweet Seduction Suite\)](https://open.spotify.com/track/3PZW66625MiyEmZaat7tce) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt), [Al B\. Sure!](https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk), [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo), [El DeBarge](https://open.spotify.com/artist/5xO4f5QyPMYnCPRyRveBSD) | [Back On The Block](https://open.spotify.com/album/5DR4gcd3fj3E6XhbPTaF82) | 6:41 |
 | 14 | [It's Ecstasy When You Lay Down Next To Me](https://open.spotify.com/track/3QXNBUYJX2aekx6mHQ14GZ) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Sings For Someone You Love](https://open.spotify.com/album/65orbyfwR353KTYqz3seIu) | 6:57 |
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 32 | [I've Found Someone](https://open.spotify.com/track/4RlRqOg8hNWvJ0sY3gCimo) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White's Greatest Hits](https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0) | 3:40 |
 | 33 | [Oh Love, Well We Finally Made It](https://open.spotify.com/track/4ylPgukQzmpX7TZ1NcxAbm) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 3:54 |
 | 34 | [I Love To Sing The Songs I Sing](https://open.spotify.com/track/3rOd76CYlqmGzp1TssXANo) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [I Love To Sing The Songs I Sing](https://open.spotify.com/album/4sf3cW8M6OAq1sd11fpVLo) | 2:50 |
-| 35 | [Heavenly, That's What You Are To Me](https://open.spotify.com/track/2Zkfn9RlK67gTpiUZcDIvQ) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Just Another Way To Say I Love You](https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U) | 5:02 |
+| 35 | [Dark And Lovely \(You Over There\)](https://open.spotify.com/track/2v3lZgW5CV4zQ5PEsyIl5I) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt), [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [The Ultimate Collection](https://open.spotify.com/album/7daqbcrvuJHpS2Xm3IHaxL) | 4:54 |
 | 36 | [Honey Please, Can't Ya See](https://open.spotify.com/track/6yPBONQzToDpSP5302UjTJ) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White's Greatest Hits](https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0) | 3:14 |
-| 37 | [Dark And Lovely \(You Over There\)](https://open.spotify.com/track/2v3lZgW5CV4zQ5PEsyIl5I) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt), [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [The Ultimate Collection](https://open.spotify.com/album/7daqbcrvuJHpS2Xm3IHaxL) | 4:54 |
+| 37 | [Heavenly, That's What You Are To Me](https://open.spotify.com/track/2Zkfn9RlK67gTpiUZcDIvQ) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Just Another Way To Say I Love You](https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U) | 5:02 |
 | 38 | [You Turned My Whole World Around](https://open.spotify.com/track/1CHYcb0rNFrqf4dWsVmI82) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Sings For Someone You Love](https://open.spotify.com/album/65orbyfwR353KTYqz3seIu) | 7:47 |
 | 39 | [Volare](https://open.spotify.com/track/1LqKlCrgljbKSrjwIfF6cy) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Put Me In Your Mix](https://open.spotify.com/album/6ZB7sec84vKJ6mBXocdfwL) | 5:45 |
 | 40 | [I've Got So Much To Give](https://open.spotify.com/track/30BIQMWprmAlVae1W4BRBw) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White's Greatest Hits](https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 49 | [I Only Want To Be With You](https://open.spotify.com/track/550wW69MCbtYYEAbKIwEnu) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Icon Is Love](https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ) | 5:01 |
 | 50 | [Standing In The Shadows Of Love](https://open.spotify.com/track/1MFy8oFHdtCiAnyueQ5ffI) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White's Greatest Hits](https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0) | 5:23 |
 
-Snapshot ID: `Z/BygAAAAAACUIsIuhUeRzaNL9FpJaOg`
+Snapshot ID: `Z/HEAAAAAAD64a4S8dFJD7347wyLNLLO`

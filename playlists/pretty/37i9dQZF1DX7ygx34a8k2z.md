@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 
 > dig through the record bin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,109 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,217 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 51 | [Novocaine For The Soul](https://open.spotify.com/track/2fKdsBazcOLLIzDiZUQCih) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Beautiful Freak](https://open.spotify.com/album/6WEY2G6OgFXLqO0hYUBuii) | 3:08 |
 | 52 | [Iceblink Luck](https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:18 |
 | 53 | [Get It Together](https://open.spotify.com/track/6aaPceG6TnixvAZQ1wBMdp) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Ill Communication](https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8) | 4:05 |
-| 54 | [Pets](https://open.spotify.com/track/5kcQEPksJHTOLQ4In5oGN2) | [Porno for Pyros](https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL) | [Porno For Pyros](https://open.spotify.com/album/1wTVRmgk25jTh6VsrxCFDr) | 3:36 |
-| 55 | [Stars](https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3) | [Hum](https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX) | [You'd Prefer An Astronaut](https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o) | 5:09 |
+| 54 | [Stars](https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3) | [Hum](https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX) | [You'd Prefer An Astronaut](https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o) | 5:09 |
+| 55 | [Pets](https://open.spotify.com/track/5kcQEPksJHTOLQ4In5oGN2) | [Porno for Pyros](https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL) | [Porno For Pyros](https://open.spotify.com/album/1wTVRmgk25jTh6VsrxCFDr) | 3:36 |
 | 56 | [She Don't Use Jelly](https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Transmissions From the Satellite Heart](https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw) | 3:42 |
 | 57 | [Nearly Lost You](https://open.spotify.com/track/7qzFXUvBk7lELXuxVREypV) | [Screaming Trees](https://open.spotify.com/artist/3Ukr3Ufjg8ygRJv7Ww887f) | [Sweet Oblivion](https://open.spotify.com/album/3SOcm48I0DOX1KEHF2IEVY) | 4:07 |
 | 58 | [No Distance Left to Run](https://open.spotify.com/track/0SaRvx9eYudSCQYNjuCQKX) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 3:28 |
@@ -91,15 +91,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 81 | [Sugar Kane](https://open.spotify.com/track/6q03mlzKsM1m3TLpi6T6Cw) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Dirty](https://open.spotify.com/album/05Zo2yt4reflRVNXFOYxDD) | 5:57 |
 | 82 | [Game Of Pricks](https://open.spotify.com/track/7E99aG3oPQslXHHdnKFAmB) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Alien Lanes](https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE) | 1:33 |
 | 83 | [Son Of A Gun](https://open.spotify.com/track/7FQcCVNK4AttPgYjQbetL8) | [The Vaselines](https://open.spotify.com/artist/4wWQkHhmUNlXvhbHRUSqZW) | [Enter The Vaselines \(Deluxe Edition\)](https://open.spotify.com/album/630p98oUEIBRflGJRRInCt) | 3:45 |
-| 84 | [Feed the Tree](https://open.spotify.com/track/3L19vBWH4jTHNXbuBaHbUN) | [Belly](https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL) | [Star](https://open.spotify.com/album/2b5r3YRZYwSAeXd7aWZjWp) | 3:29 |
-| 85 | [Shady Lane](https://open.spotify.com/track/0JZAGUbzkwWSnoInuWoBgd) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Brighten the Corners](https://open.spotify.com/album/1Q6ikDUK4RFtLI3N9Lll9h) | 3:50 |
-| 86 | [Plainclothes Man](https://open.spotify.com/track/7yYf5GF0jX6M6KywKygE0c) | [Heatmiser](https://open.spotify.com/artist/59IPo3F7aZifhZtHnoGHbo) | [Mic City Sons](https://open.spotify.com/album/0D3hElyxCMZnBVI4pDMSAL) | 3:28 |
+| 84 | [Shady Lane](https://open.spotify.com/track/0JZAGUbzkwWSnoInuWoBgd) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Brighten the Corners](https://open.spotify.com/album/1Q6ikDUK4RFtLI3N9Lll9h) | 3:50 |
+| 85 | [Plainclothes Man](https://open.spotify.com/track/7yYf5GF0jX6M6KywKygE0c) | [Heatmiser](https://open.spotify.com/artist/59IPo3F7aZifhZtHnoGHbo) | [Mic City Sons](https://open.spotify.com/album/0D3hElyxCMZnBVI4pDMSAL) | 3:28 |
+| 86 | [Feed the Tree](https://open.spotify.com/track/3L19vBWH4jTHNXbuBaHbUN) | [Belly](https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL) | [Star](https://open.spotify.com/album/2b5r3YRZYwSAeXd7aWZjWp) | 3:29 |
 | 87 | [Iron Man](https://open.spotify.com/track/2cpJAVteVpeXFCiOgjcx7m) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 4:19 |
 | 88 | [Supernova](https://open.spotify.com/track/0xQ8FPMnv2mG9VhTgpxn2R) | [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Whip\-Smart](https://open.spotify.com/album/7b2JNONmqJRtIKTofRdcFp) | 2:48 |
 | 89 | [Sometimes Always](https://open.spotify.com/track/16vuZiAS0YQkQvAkRtI2d3) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Stoned and Dethroned \(Expanded Version\)](https://open.spotify.com/album/6ufoOtpwsgx0wpbQBQOH7H) | 2:31 |
 | 90 | [Movin' on Up](https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 3:50 |
-| 91 | [The Hunger](https://open.spotify.com/track/7vUuOdabDtkAGRbdZGshsZ) | [The Distillers](https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT) | [Coral Fang \(PA Version\)](https://open.spotify.com/album/23MOdUJkZlG971DVuEINMr) | 5:28 |
-| 92 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 |
+| 91 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 |
+| 92 | [The Hunger](https://open.spotify.com/track/7vUuOdabDtkAGRbdZGshsZ) | [The Distillers](https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT) | [Coral Fang \(PA Version\)](https://open.spotify.com/album/23MOdUJkZlG971DVuEINMr) | 5:28 |
 | 93 | [What’s The Frequency, Kenneth? \- Remastered 2013](https://open.spotify.com/track/2ElyyOi86SHyMKcUrv2f8e) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Monster \(Remastered\)](https://open.spotify.com/album/17mS71JVgCCYLVdVcG0aUT) | 4:00 |
 | 94 | [Is This Desire?](https://open.spotify.com/track/3bHnxT5KHWPOb7Pl34jmzG) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Is This Desire?](https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD) | 3:25 |
 | 95 | [I'm Shakin'](https://open.spotify.com/track/6pfdB0WcH6y22C3enLfFrq) | [Rooney](https://open.spotify.com/artist/78inRkIIF0n9R9I2HPoWP7) | [Rooney](https://open.spotify.com/album/5LuGotW9TOicW2o2Q7iO50) | 3:34 |

@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-356 songs - 19 hr 56 min
+357 songs - 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Like Day](https://open.spotify.com/track/46Big8S0OY9mlJBI4DfLox) | [Cheri Indigo](https://open.spotify.com/artist/7xfSpg2jjE8rY2nFCWrM8S) | [Like Day](https://open.spotify.com/album/6d9ChilohiP3UyqMY6ev6a) | 3:34 | 2022-06-06 | 2022-07-29 |
 | [Live or Die](https://open.spotify.com/track/0OiXVxQHUFxvYxQew4xyhD) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Lil Xan](https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW) | [Live or Die](https://open.spotify.com/album/2HwsBLoqCa1vUDwKU3km72) | 3:14 | 2022-07-25 |  |
 | [Lonely](https://open.spotify.com/track/7vyLtxhvxrmqQ0rhUDkzDs) | [daze](https://open.spotify.com/artist/3mNnPqsHVbJSTxQtD74z4Z) | [Lonely](https://open.spotify.com/album/3AMdze7Q4rRbiinwPA47mY) | 3:36 | 2022-07-04 | 2022-07-09 |
+| [Lonely Road](https://open.spotify.com/track/22W2hL07wNFLxoAceaEJkt) | [Doctor Flake](https://open.spotify.com/artist/5DZr9dQj9KPd62WuMeIPqK), [Malika](https://open.spotify.com/artist/4kEd51gggillWwuzr1rpM6) | [Acchordance](https://open.spotify.com/album/3adRFNS6sAgApn9uuKDXYF) | 4:36 | 2025-04-07 |  |
 | [Long Gone](https://open.spotify.com/track/13RpoUelvsqdFyUUqZfxwo) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Long Gone](https://open.spotify.com/album/49oTtc4LFmSrX6kpLVkKMk) | 3:40 | 2022-06-06 | 2022-07-29 |
 | [Long Nights, Slow Mornings](https://open.spotify.com/track/2OUtGQvXdLW0QJ226AmOKv) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [It's Personal](https://open.spotify.com/album/7i3fjDLM0IUgQVewdDZitV) | 3:26 | 2022-06-06 | 2022-07-29 |
 | [Lost Cause](https://open.spotify.com/track/4191RXFPa7Ge9XkA4cWlna) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:32 | 2022-07-25 | 2024-04-19 |
@@ -354,7 +355,7 @@
 | [Where Were You In The Morning?](https://open.spotify.com/track/376Gg7Oxo5C5jUWDWpVXeI) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 3:20 | 2022-07-25 | 2024-04-19 |
 | [Wicked Dreams](https://open.spotify.com/track/6dvHjr6kOqEnKeQyd3Tozs) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Spirit](https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG) | 4:31 | 2024-04-08 |  |
 | [Wildflower](https://open.spotify.com/track/4jIa3kabSPNY0oOy3Hs9P6) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [TWENTY FIVE](https://open.spotify.com/album/1mDaY48ESUPxGNBleBlTKg) | 3:27 | 2022-06-06 | 2022-07-28 |
-| [WINE](https://open.spotify.com/track/4HljKZwdFkWYISiyfzdbQR) | [via.](https://open.spotify.com/artist/57xDI3VtF6ua02FfFQpPb5) | [WINE](https://open.spotify.com/album/10bEr4txHrSj4oi8KzOUSy) | 2:56 | 2022-07-18 |  |
+| [WINE](https://open.spotify.com/track/4HljKZwdFkWYISiyfzdbQR) | [via.](https://open.spotify.com/artist/57xDI3VtF6ua02FfFQpPb5) | [WINE](https://open.spotify.com/album/10bEr4txHrSj4oi8KzOUSy) | 2:56 | 2022-07-18 | 2025-04-08 |
 | [Wish I Was Better](https://open.spotify.com/track/1kAkUHFb7ryeVkVSRD6Nkj) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Wish I Was Better](https://open.spotify.com/album/0dbCEm3gL91TgF2Gihuexr) | 2:20 | 2022-07-25 |  |
 | [wish you were gay](https://open.spotify.com/track/3Fj47GNK2kUF0uaEDgXLaD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:41 | 2022-07-25 | 2024-04-19 |
 | [Woo Woo](https://open.spotify.com/track/5WnAOIwhl9dxdzNmBhW4hK) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj) | [Woo Woo](https://open.spotify.com/album/3oTWydF6FVRShRa2ynHpsm) | 3:16 | 2022-06-06 | 2022-07-26 |

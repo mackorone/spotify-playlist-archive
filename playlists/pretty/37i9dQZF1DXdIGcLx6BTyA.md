@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 
 > take the road less traveled
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,444 likes - 80 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,523 likes - 80 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 37 | [Cardinal](https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 |
 | 38 | [After The Setting Sun](https://open.spotify.com/track/2F9T7qKqhmZeAR7fdKBQF1) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [After The Setting Sun](https://open.spotify.com/album/3fdqRZ0j8t8EW351K4H1Or) | 4:30 |
 | 39 | [The Frost](https://open.spotify.com/track/41nIJErYY9goKvnCyG7ov6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:48 |
-| 40 | [Black Crow](https://open.spotify.com/track/4UmYFqPfd11pZiUMJHCFvG) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Shine On Rainy Day](https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg) | 4:30 |
-| 41 | [Humbug Mountain Song](https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:04 |
+| 40 | [Humbug Mountain Song](https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:04 |
+| 41 | [Black Crow](https://open.spotify.com/track/4UmYFqPfd11pZiUMJHCFvG) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Shine On Rainy Day](https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg) | 4:30 |
 | 42 | [Certainty](https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:07 |
 | 43 | [Jersey Giant](https://open.spotify.com/track/1oJlSoI4K4nMZXioXfJyf3) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Country Covers](https://open.spotify.com/album/3inAoKD50LFy6Y5PWZCH8N) | 3:18 |
 | 44 | [Blood](https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC) | [The Middle East](https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2) | [The Recordings of the Middle East](https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ) | 5:26 |
 | 45 | [$10 Cowboy](https://open.spotify.com/track/77tSuH7nEYx2IWJm9TboDX) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [$10 Cowboy](https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za) | 3:35 |
 | 46 | [Joker Lips](https://open.spotify.com/track/2zFtMNj2s82nml4wSKbtyL) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:01 |
 | 47 | [American Dreaming](https://open.spotify.com/track/00cGNx0otxcMeD4GZHAJtq) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Trail Of Flowers](https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz) | 4:17 |
-| 48 | [I Was Born To Love You](https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/02MVHB8DuzSjoU3pXTg8N6) | 4:25 |
-| 49 | [Nobody Knows My Trouble](https://open.spotify.com/track/5qyIIrOLV5CCi4YzicRdwT) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Fear and Saturday Night](https://open.spotify.com/album/6mf8iFx30NUcwRQ9TB0KO1) | 4:15 |
+| 48 | [Nobody Knows My Trouble](https://open.spotify.com/track/5qyIIrOLV5CCi4YzicRdwT) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Fear and Saturday Night](https://open.spotify.com/album/6mf8iFx30NUcwRQ9TB0KO1) | 4:15 |
+| 49 | [I Was Born To Love You](https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/02MVHB8DuzSjoU3pXTg8N6) | 4:25 |
 | 50 | [Harlem River](https://open.spotify.com/track/3InicSZVr4usKZg1ePJEDz) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Harlem River](https://open.spotify.com/album/5daVkcQ91GoxhyxHPH2A6O) | 9:15 |
 | 51 | [Blood Red Sentimental Blues](https://open.spotify.com/track/2akMYW6w4sOWL1nhTzPJWu) | [Cotton Jones](https://open.spotify.com/artist/6RHDASo3OVNiNY2nrGx3qc) | [Paranoid Cocoon](https://open.spotify.com/album/44TwNftgA3QYaX3BBJAvGO) | 4:36 |
 | 52 | [Dollar Store \(feat\. Waxahatchee\)](https://open.spotify.com/track/4SjmBBhCee7FVc3xsw3FXo) | [Ben Kweller](https://open.spotify.com/artist/7bhMBjjQhgPX0q9S4Ajncn), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Dollar Store \(feat\. Waxahatchee\)](https://open.spotify.com/album/3jD1Dxg9pwGak8QZhNN7zR) | 3:24 |

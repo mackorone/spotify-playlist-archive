@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q8JGw.md) - [plain]
 
 > This is Pearl Jam\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,446 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,506 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q8JGw.md) - [plain]
 | 31 | [Go \- Remastered](https://open.spotify.com/track/7M1L2Cv5025QeywNsdfPDK) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:13 |
 | 32 | [Unthought Known](https://open.spotify.com/track/0mGBA5vtFH58DucfqaW6oG) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 4:08 |
 | 33 | [Won't Tell](https://open.spotify.com/track/4Lv7QegfYqPHTqBTH1WJ83) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 3:28 |
-| 34 | [Man of the Hour](https://open.spotify.com/track/6WcIDvzwZDqarmaHDy3DoR) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [rearviewmirror \(greatest hits 1991\-2003\)](https://open.spotify.com/album/1G1R5dY01DSyti3NaWnOp3) | 3:43 |
-| 35 | [Future Days](https://open.spotify.com/track/22sDLvlzAJzH0BHiMSOfRP) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 4:22 |
+| 34 | [Future Days](https://open.spotify.com/track/22sDLvlzAJzH0BHiMSOfRP) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 4:22 |
+| 35 | [Man of the Hour](https://open.spotify.com/track/6WcIDvzwZDqarmaHDy3DoR) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [rearviewmirror \(greatest hits 1991\-2003\)](https://open.spotify.com/album/1G1R5dY01DSyti3NaWnOp3) | 3:43 |
 | 36 | [Smile](https://open.spotify.com/track/5707A8XNKQT26Ciek7H9KV) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [No Code](https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0) | 3:51 |
 | 37 | [Waiting For Stevie](https://open.spotify.com/track/7LMXRhf27EwcBQo2oLkcBa) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 5:41 |
 | 38 | [Dance Of The Clairvoyants](https://open.spotify.com/track/58AraOVFl5hUtZuPvaOXFw) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Gigaton](https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut) | 4:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q8JGw.md) - [plain]
 | 49 | [Spin the Black Circle](https://open.spotify.com/track/7Al0ADUt8SCPiQIBbTcNdR) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vitalogy](https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy) | 2:47 |
 | 50 | [Pendulum](https://open.spotify.com/track/0boFvkCUiF1NonaqJzhSiP) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 3:41 |
 
-Snapshot ID: `Z/BygAAAAABdYhZTEZtKIR0UZFMf8wll`
+Snapshot ID: `Z/HEAAAAAAAZLx4+IcBu5GKWMBDI5iGZ`

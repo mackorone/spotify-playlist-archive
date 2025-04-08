@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 
 > Diese Beats machen garantiert gute Laune!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,343,926 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,344,032 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 | 54 | [Craving 4 U \(feat\. bbyclose\)](https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Craving 4 U \(feat\. bbyclose\)](https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0) | 2:19 |
 | 55 | [We Could Be Together](https://open.spotify.com/track/3ElGRG3DqSzzkh1b2wnbzf) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Daddy DJ](https://open.spotify.com/artist/2Bc52Zzq4Hx7Dqm0Qw8bJL) | [We Could Be Together \(feat\. Daddy DJ\)](https://open.spotify.com/album/7xgmfo0gHFJk9DNdOfqBNn) | 2:29 |
 | 56 | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/track/1NpIUD4KqHaMT91kw0YV40) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/album/0WWjvPdLmnwYrTi03XJ9ib) | 3:47 |
-| 57 | [Deja Vu \- Schtuka](https://open.spotify.com/track/0aoOmxWETiAnX6oyotEPik) | [FERDY](https://open.spotify.com/artist/208RE1Kcvc7w4N1dqnhJPw), [Sleiken](https://open.spotify.com/artist/0l2QmwUY1pWAjK8RcoXQ2v) | [Deja Vu \(Schtuka\)](https://open.spotify.com/album/6qvvaxC9FJkD310DK1mAgJ) | 2:26 |
-| 58 | [You](https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [You](https://open.spotify.com/album/4ADw59fMHQFPDty2fjXQZ4) | 2:53 |
+| 57 | [You](https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [You](https://open.spotify.com/album/4ADw59fMHQFPDty2fjXQZ4) | 2:53 |
+| 58 | [Deja Vu \- Schtuka](https://open.spotify.com/track/0aoOmxWETiAnX6oyotEPik) | [FERDY](https://open.spotify.com/artist/208RE1Kcvc7w4N1dqnhJPw), [Sleiken](https://open.spotify.com/artist/0l2QmwUY1pWAjK8RcoXQ2v) | [Deja Vu \(Schtuka\)](https://open.spotify.com/album/6qvvaxC9FJkD310DK1mAgJ) | 2:26 |
 | 59 | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o) | 2:50 |
-| 60 | [Drink in Moderation](https://open.spotify.com/track/13vW2uIXG0H3IpL4faoPNZ) | [BOY LOCO](https://open.spotify.com/artist/6VemVOal7ebbuYJZSSCPvX) | [Drink in Moderation](https://open.spotify.com/album/5NUUa5rNKMGLgOC7eRIaL8) | 2:20 |
+| 60 | [Ritmo De La Noche \(Vamos A La Playa\)](https://open.spotify.com/track/3APyTiWzqQtT8vd0kRz6lo) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Ritmo De La Noche \(Vamos A La Playa\)](https://open.spotify.com/album/0cti2FC4fjKghKMv8JDPUj) | 2:51 |
 
 Snapshot ID: `Z+FoswAAAADQg8yAy46IOi5ogS5cnI9x`

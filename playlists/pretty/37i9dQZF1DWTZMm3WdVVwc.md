@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 
 > 肌寒い日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,123 likes - 80 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,122 likes - 80 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 25 | [Slow time lover](https://open.spotify.com/track/3RN23f4eu6flCYbmqam9Xl) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Slow time lover](https://open.spotify.com/album/0SXfEdjFOCmyQwhS8oAbGG) | 4:01 |
 | 26 | [City Love City Love City Love](https://open.spotify.com/track/5LnWFzlhchc0ruF3tRcb3J) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [City Love City Love City Love](https://open.spotify.com/album/4ilkK1WGXup1RfvD01flUe) | 3:24 |
 | 27 | [恋人じゃなくなった日](https://open.spotify.com/track/7fQYRdNX6y8BpfmHvWVPm8) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [恋人じゃなくなった日](https://open.spotify.com/album/0E6KtMRFXw2LDyV38I3nNQ) | 3:44 |
-| 28 | [Wintering](https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:45 |
-| 29 | [Faster than me](https://open.spotify.com/track/7lg9hwxLEZMoPOANzRmxLv) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Faster than me](https://open.spotify.com/album/5Mz8YFNCV1zqFwnWGCkSw5) | 2:38 |
+| 28 | [Faster than me](https://open.spotify.com/track/7lg9hwxLEZMoPOANzRmxLv) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Faster than me](https://open.spotify.com/album/5Mz8YFNCV1zqFwnWGCkSw5) | 2:38 |
+| 29 | [Wintering](https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:45 |
 | 30 | [ホットレモン \- Remix](https://open.spotify.com/track/21Bu6arnjs8MqLqn3jcuzc) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM) | [ホットレモン \(feat\. SKRYU\) \[Remix\]](https://open.spotify.com/album/4H6iCi60v697g56AlfyV2q) | 2:33 |
 | 31 | [snow moon](https://open.spotify.com/track/5lPqjvCzMvEA5vtvhnol0c) | [Ryosuke Yamada](https://open.spotify.com/artist/5fc4bs6XESpstwZCLCKA4q) | [snow moon](https://open.spotify.com/album/4USKwXE1Wmb5KqsJquxqgm) | 3:52 |
 | 32 | [冬がはじまるよ](https://open.spotify.com/track/3l7GLaE6NRaPJHMcy4rYRD) | [Noriyuki Makihara](https://open.spotify.com/artist/3vVDusnDA0LcPH3NvZpoyM) | [君は僕の宝物](https://open.spotify.com/album/3a5aKQqcG1rTAUcs3qYFda) | 3:50 |

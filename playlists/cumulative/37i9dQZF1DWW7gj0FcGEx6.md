@@ -4,7 +4,7 @@
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-544 songs - 1 day 2 hr 24 min
+545 songs - 1 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [I Importune You \(feat\. Percival Schuttenbach\)](https://open.spotify.com/track/7muq4xFFXRAZ7Kl3ZFPZNf) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [Percival Schuttenbach](https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM) | [The Witcher: Season 3 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v) | 1:12 | 2023-07-21 | 2024-04-19 |
 | [I Loved You First](https://open.spotify.com/track/3oKK4OBgOs0WSvpaQZ9Fdy) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [The Flash \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Iwcke5WByZdDlIv0WucmX) | 1:34 | 2023-06-23 | 2025-01-11 |
 | [I Was in the Fire](https://open.spotify.com/track/5RzuscEAO9AjlyNC9GXmDp) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Stowaway \(Music from the Netflix Film\)](https://open.spotify.com/album/3DCXB1BcqnaRnvJLEiAlBs) | 2:35 | 2021-12-20 | 2024-09-14 |
+| [I'm Coming With / Minecraft](https://open.spotify.com/track/4Tf9KrHQZHF0KAQqX8zEw2) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 2:58 | 2025-04-07 |  |
 | [Ich bin Heinz](https://open.spotify.com/track/6QqCdN1f3JkQhFVUUmag77) | [Segun Akinola](https://open.spotify.com/artist/6AoVAVoJmW1VsrcTQ63Til) | [Alter Weisser Mann \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5sqzKT6s0kaoNTTz0Wjmpq) | 2:01 | 2024-11-06 |  |
 | [Il Treno dei Bambini \- Korovev](https://open.spotify.com/track/1sz54XgoSp5PuW8QCundLm) | [Nicola Piovani](https://open.spotify.com/artist/11XlNd1KqePugYImzM1ZKJ) | [Il Treno dei Bambini \(Colonna sonora del film Netflix\)](https://open.spotify.com/album/7hnB9DRjshOOmtdG4uC6ql) | 2:35 | 2025-01-07 |  |
 | [Il Tuo Fiato d'Aurora \- From "La Tresse" Soundtrack](https://open.spotify.com/track/5Yn2jvt4JFHugH4UPVOa4u) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Il Tuo Fiato d’Aurora \(From "La Tresse" Soundtrack\)](https://open.spotify.com/album/7Mtrg7FYUcmlh0r8C1DGxI) | 2:17 | 2024-01-19 |  |

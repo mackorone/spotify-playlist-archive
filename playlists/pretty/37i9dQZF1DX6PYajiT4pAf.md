@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Eladio Carrion, Leiva, Omar Montes, Ed Sheeran, Miley Cyrus, Vanesa Martín y más novedades importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,232 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,251 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

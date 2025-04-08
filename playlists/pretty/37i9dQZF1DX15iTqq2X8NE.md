@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 
 > A journey in the modern & old Sudanese sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,234 likes - 120 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,237 likes - 120 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 56 | [Tuna](https://open.spotify.com/track/6zX6YvuzrPl0jzZ6EmBtaQ) | [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Tuna](https://open.spotify.com/album/0HZVyBD9JHeViJEPJ5tWbs) | 2:45 |
 | 57 | [DUM TIK TIK](https://open.spotify.com/track/4rXMDVHEmlCywEJD2AHgk3) | [Taha Suliman](https://open.spotify.com/artist/0f8AQFo3xYsmSvDIrLG94a) | [DUM TIK TIK](https://open.spotify.com/album/2ZZidnczOk5PdAkGbef9Ec) | 3:25 |
 | 58 | [Gatluak](https://open.spotify.com/track/4hO1yAA2fkmAAEhjkUhZOj) | [Nyaruach](https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3), [Friday](https://open.spotify.com/artist/514K0z1r3agJbyK5VfqUGx) | [Naath](https://open.spotify.com/album/0wPRCemh0eIjlowDg6yE6k) | 3:26 |
-| 59 | [Hatred](https://open.spotify.com/track/3YqraMIdzw8WLE8Ipy5Ekq) | [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Hatred](https://open.spotify.com/album/0x8GN6HjP2qfgjrYS6uxfG) | 1:52 |
-| 60 | [Ya Dunya](https://open.spotify.com/track/6zbd0o0ESiB9VDJrdDOFKm) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [Ya Dunya](https://open.spotify.com/album/6GuQYwTJWJ9JOBCPI91ulR) | 7:11 |
+| 59 | [Ya Dunya](https://open.spotify.com/track/6zbd0o0ESiB9VDJrdDOFKm) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [Ya Dunya](https://open.spotify.com/album/6GuQYwTJWJ9JOBCPI91ulR) | 7:11 |
+| 60 | [Hatred](https://open.spotify.com/track/3YqraMIdzw8WLE8Ipy5Ekq) | [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Hatred](https://open.spotify.com/album/0x8GN6HjP2qfgjrYS6uxfG) | 1:52 |
 | 61 | [بسحروك](https://open.spotify.com/track/0nOAJ6NOwB8JVPMKBae4GU) | [طه سليمان](https://open.spotify.com/artist/0RsFnQRoeQXmyhWzNqWvYJ) | [بسحروك](https://open.spotify.com/album/374yLPef14svHDy8PJ8WRQ) | 3:21 |
 | 62 | [Mashy](https://open.spotify.com/track/5apy8FTSLpwUU06Dbrsp6T) | [Adiga Music Band](https://open.spotify.com/artist/5U7XnFuuPanGY0TnJfqtlK) | [Hegira](https://open.spotify.com/album/7LPjjzAikDcyN8IDa7W0px) | 3:47 |
 | 63 | [Salimmik](https://open.spotify.com/track/0XjLYmJCLA1kLMLaNQpRX7) | [Maha AJ](https://open.spotify.com/artist/2b2pd5yYGRTqvCRzgg1xsz), [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX), [Nijeery](https://open.spotify.com/artist/481yBm7CxhRBaMPeQLq7KC) | [Salimmik](https://open.spotify.com/album/6EJM5YoCfhGRbNgRBGkB7d) | 3:22 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 75 | [Fuego](https://open.spotify.com/track/02Ddh1rBZbk5dmsfBWp6hn) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So) | [Fuego](https://open.spotify.com/album/1AsD9IvZZjFvhrpTpTBDW2) | 3:30 |
 | 76 | [Bidaya](https://open.spotify.com/track/64T6QPLwO6W6WuJEW2UomN) | [Hiba Elgizouli](https://open.spotify.com/artist/6FyW17aFgoQAy4Rc6Zf0X4) | [Bidaya](https://open.spotify.com/album/5L4r6YgZUgHlu8aDaJDbwg) | 3:50 |
 | 77 | [Ascension](https://open.spotify.com/track/14r1JJrfqFar4ZP3WelS33) | [Sufyvn](https://open.spotify.com/artist/5uO9QrR5mvPdJ7uPIESbr6) | [Ascension EP](https://open.spotify.com/album/581kDZ2X4nbK53dn3WzYon) | 3:15 |
-| 78 | [Sudania](https://open.spotify.com/track/5NeVCUBVudh9rPpDik5amG) | [Omar Majid](https://open.spotify.com/artist/30kqjrpTAZryMkMjk1FbK2), [AKA Keyz](https://open.spotify.com/artist/4JrLK4tGHTmLkof4Gn6gMT), [G Salih](https://open.spotify.com/artist/7k6dtdPdypqE2KXYWWl4tH), [Aidyproof](https://open.spotify.com/artist/7uzLUplPMKoZZ8ZC5XoeIN) | [Sudania](https://open.spotify.com/album/5HtVbnnYh94EB0HLkdrrVo) | 4:27 |
-| 79 | [Labis Toubo](https://open.spotify.com/track/0WCI3M50oW3caK58gB4uZf) | [Setona](https://open.spotify.com/artist/7onpo1rmu1ntYWiRSHaQq9), [Said Ahmed](https://open.spotify.com/artist/5BbKEtc0HwubSydwtnOxfF) | [Queen of Hena](https://open.spotify.com/album/6f17UYNXDEEUeyvK7BF41O) | 4:16 |
+| 78 | [Labis Toubo](https://open.spotify.com/track/0WCI3M50oW3caK58gB4uZf) | [Setona](https://open.spotify.com/artist/7onpo1rmu1ntYWiRSHaQq9), [Said Ahmed](https://open.spotify.com/artist/5BbKEtc0HwubSydwtnOxfF) | [Queen of Hena](https://open.spotify.com/album/6f17UYNXDEEUeyvK7BF41O) | 4:16 |
+| 79 | [Sudania](https://open.spotify.com/track/5NeVCUBVudh9rPpDik5amG) | [Omar Majid](https://open.spotify.com/artist/30kqjrpTAZryMkMjk1FbK2), [AKA Keyz](https://open.spotify.com/artist/4JrLK4tGHTmLkof4Gn6gMT), [G Salih](https://open.spotify.com/artist/7k6dtdPdypqE2KXYWWl4tH), [Aidyproof](https://open.spotify.com/artist/7uzLUplPMKoZZ8ZC5XoeIN) | [Sudania](https://open.spotify.com/album/5HtVbnnYh94EB0HLkdrrVo) | 4:27 |
 | 80 | [سارينة](https://open.spotify.com/track/2lglRe92A9P1ORVqkI2LI4) | [Wd3vtif](https://open.spotify.com/artist/0EIDNRtegsDirjwXFLuae5) | [سارينة](https://open.spotify.com/album/1vCzCD9bEfYFNnDw6gDAv6) | 3:22 |
 | 81 | [Afta'h Albab](https://open.spotify.com/track/0GE8ZWfe1ohvn1Rf5FbxLC) | [Rasha](https://open.spotify.com/artist/6grYfB8l8WZo0NOtdcWWls) | [Let Me Be](https://open.spotify.com/album/2b8jkXLchoqaLrY2tHFNxG) | 4:32 |
 | 82 | [My Girl](https://open.spotify.com/track/0YYZD5ntcIRy5QlI8F0B7s) | [AKA Keyz](https://open.spotify.com/artist/4JrLK4tGHTmLkof4Gn6gMT) | [My Girl](https://open.spotify.com/album/6Sz0YzCU8jAwGMEf60KiRx) | 4:03 |

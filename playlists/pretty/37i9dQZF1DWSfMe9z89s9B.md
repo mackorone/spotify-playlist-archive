@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 
 ### [Vanguard](https://open.spotify.com/playlist/37i9dQZF1DWSfMe9z89s9B)
 
-> Leaders of the new school...Alternative R&B\. Cover: Casper Sage
+> The new school \- Alternative R&B\. Cover: Casper Sage
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,363,181 likes - 150 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,363,576 likes - 150 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,9 +154,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 | 144 | [Slow Fade](https://open.spotify.com/track/5GWEfTYjFrHctThz0sfGJE) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Slow Fade](https://open.spotify.com/album/5I85tkoofOEByI8VudyLmk) | 3:31 |
 | 145 | [Delirium](https://open.spotify.com/track/6U09H7CVra0HbNPJGnQDDU) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Delirium](https://open.spotify.com/album/5OPY6W6jsdSuSX7ymEFboE) | 1:49 |
 | 146 | [VALENTINE](https://open.spotify.com/track/0L7SOBsLC4jZ9X4bTs6XnL) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [VALENTINE](https://open.spotify.com/album/7eFtQJ9kKAA1z27Tc0DYzg) | 2:13 |
-| 147 | [Petty Pete](https://open.spotify.com/track/3AoRetRPhYJ9dcBCXIXBD5) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Petty Pete](https://open.spotify.com/album/4Ofb1xAGY7BRXi5CCcWNg1) | 2:40 |
-| 148 | [Caught by a wind \- BFF Remix](https://open.spotify.com/track/3rWhcc83PqPmQhQdYnysW8) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Caught by a wind \(BFF Remix\)](https://open.spotify.com/album/5bc056yR8YXTmZIzioAEz4) | 3:31 |
+| 147 | [Caught by a wind \- BFF Remix](https://open.spotify.com/track/3rWhcc83PqPmQhQdYnysW8) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Caught by a wind \(BFF Remix\)](https://open.spotify.com/album/5bc056yR8YXTmZIzioAEz4) | 3:31 |
+| 148 | [Petty Pete](https://open.spotify.com/track/3AoRetRPhYJ9dcBCXIXBD5) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Petty Pete](https://open.spotify.com/album/4Ofb1xAGY7BRXi5CCcWNg1) | 2:40 |
 | 149 | [Might As Well Be Watching](https://open.spotify.com/track/5SfNS3bx82rXYXHtH5FNE9) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Might As Well Be Watching](https://open.spotify.com/album/4U9loPOJifAA6qjM4JpwYR) | 3:23 |
 | 150 | [First Time](https://open.spotify.com/track/1KUAR4EL6XLMwQKjnKhVRn) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Cruzafied](https://open.spotify.com/album/1QZpj0VyOifnOFn49qEeKv) | 3:37 |
 
-Snapshot ID: `Z+9jfwAAAABgE6VEOcrRJxivw5nkIUkM`
+Snapshot ID: `Z/REVgAAAAAdP/auqNWxCfW3s+AnmZhV`

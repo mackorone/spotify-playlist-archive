@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Lil Durk
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,326 likes - 99 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,372 likes - 99 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

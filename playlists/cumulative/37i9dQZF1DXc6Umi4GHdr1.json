@@ -1871,6 +1871,24 @@
     },
     {
       "album": {
+        "name": "Endgame",
+        "url": "https://open.spotify.com/album/5IwXI2UHldpAqroGqKUEKT"
+      },
+      "artists": [
+        {
+          "name": "Quinn Sage",
+          "url": "https://open.spotify.com/artist/4k3ooZfSTsaIT5DPGL2dhz"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156597,
+      "name": "Endgame",
+      "url": "https://open.spotify.com/track/6EyZTUkXVvaoT8ZkAEck4E"
+    },
+    {
+      "album": {
         "name": "Endlessly",
         "url": "https://open.spotify.com/album/6SR2y0cQ60pCES83O4oIAN"
       },

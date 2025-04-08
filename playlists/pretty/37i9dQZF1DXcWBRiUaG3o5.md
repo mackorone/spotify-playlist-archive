@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 
 > Keep your night easy and light with this acoustic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,232,874 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,232,852 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 30 | [The Dream Song](https://open.spotify.com/track/4VzC9UCasqtH2lMsYNyLbF) | [Nathan Reich](https://open.spotify.com/artist/3kyJ9Dtcfsww8eXKdmLvtf) | [All Night Pharmacy](https://open.spotify.com/album/7rnzB9PcNqoE3A0JrYXh3s) | 4:15 |
 | 31 | [Young Bodies](https://open.spotify.com/track/4BhEQsifqbzCdknLf52O1G) | [Sea Wolf](https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x) | [Song Spells, No.1: Cedarsmoke](https://open.spotify.com/album/3Q4S1bRlEEeztfrM4KsMFQ) | 3:29 |
 | 32 | [Thousand \- Acoustic](https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Thousand \(acoustic\)](https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI) | 3:22 |
-| 33 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
-| 34 | [Waiting](https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Waiting](https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe) | 3:32 |
+| 33 | [Waiting](https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Waiting](https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe) | 3:32 |
+| 34 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
 | 35 | [Maybe Tomorrow](https://open.spotify.com/track/7xObdqm0oTTUyerRM4EB1N) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Maybe Tomorrow](https://open.spotify.com/album/5UfmWpaxxhLd6f0ZdKnHaT) | 3:45 |
 | 36 | [Soft Line](https://open.spotify.com/track/34UBnCWhUMlGEsMr8MfenE) | [Lucy Wainwright Roche](https://open.spotify.com/artist/7wozU91V443wj9l0YlISmE) | [Little Beast](https://open.spotify.com/album/3Ni8Q9514Uxct5WoI2dLyh) | 4:19 |
 | 37 | [Silk \(feat\. Thelma Plum\)](https://open.spotify.com/track/2smKkz9SSKxe16NuscYxq5) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX), [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Home](https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe) | 4:01 |
@@ -75,16 +75,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 65 | [I Can’t Hide](https://open.spotify.com/track/56wQ8oN1RxGkTDw1lV7RSM) | [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Waiting](https://open.spotify.com/album/42PYcXkN5YS40eOmFFU2XW) | 2:57 |
 | 66 | [The First Time](https://open.spotify.com/track/1KYTFMhgTad8OGgmjkU6rn) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 2:40 |
 | 67 | [The Sun Oh Yeah](https://open.spotify.com/track/3U57mXqMsaCGEWU2KlGRc9) | [Dave Simonett](https://open.spotify.com/artist/6CKy7Do4kT6GmeDoHTSvdr) | [The Sun Oh Yeah](https://open.spotify.com/album/19zgVzRekB6Iga2nn5pc39) | 4:32 |
-| 68 | [Cherry In Tacoma](https://open.spotify.com/track/09oUu07p0Hp845lehhYsYG) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Cherry In Tacoma](https://open.spotify.com/album/32peyMgk2J7Ro7X6rLjxZR) | 3:42 |
-| 69 | [Zebra](https://open.spotify.com/track/0TazAJfiga0yScZ8rT61rD) | [COLETON RUBIN](https://open.spotify.com/artist/7Krl9mcONPsEv1stFtsWL7) | [Zebra](https://open.spotify.com/album/6QmnGl7Bj5U4bbXVQSbR37) | 3:05 |
+| 68 | [Zebra](https://open.spotify.com/track/0TazAJfiga0yScZ8rT61rD) | [COLETON RUBIN](https://open.spotify.com/artist/7Krl9mcONPsEv1stFtsWL7) | [Zebra](https://open.spotify.com/album/6QmnGl7Bj5U4bbXVQSbR37) | 3:05 |
+| 69 | [Cherry In Tacoma](https://open.spotify.com/track/09oUu07p0Hp845lehhYsYG) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Cherry In Tacoma](https://open.spotify.com/album/32peyMgk2J7Ro7X6rLjxZR) | 3:42 |
 | 70 | [Love You Blind \- Windowsill Version](https://open.spotify.com/track/2CDPoedvXCCnPuzZe5KB8W) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Love You Blind \(Windowsill Version\)](https://open.spotify.com/album/7MQfEwXY0TuMvHGxGjJFhy) | 3:44 |
 | 71 | [Two Sons](https://open.spotify.com/track/0rGLTBQ2CKQubPEznIEyFt) | [Beth Whitney](https://open.spotify.com/artist/5LASBhBbwWl7iTNL2HQVbu) | [Two Sons](https://open.spotify.com/album/27WcPIFcazGvtat19XtncT) | 3:20 |
 | 72 | [And You Evade Him/Born in the Blood](https://open.spotify.com/track/3QPb4YCMslM3omndws57Cr) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [And You Evade Him / Born in the Blood](https://open.spotify.com/album/6oHSZUOpJDThDiHdLQbskr) | 4:57 |
 | 73 | [Stop Your Tears](https://open.spotify.com/track/1ipOWUZFRUbHF0IVb00QAh) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/2Kecdv9NPLSHoIjZvARyWz) | 5:38 |
 | 74 | [Does Not Heal \- Christian Lee Hutson Version](https://open.spotify.com/track/74NaeSFbUmYIeaRYlqwvrv) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR), [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Does Not Heal \(Christian Lee Hutson Version\)](https://open.spotify.com/album/23noaeLrXaiLBRVOyalN1a) | 4:26 |
 | 75 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 |
-| 76 | [September Song, pt\. ii](https://open.spotify.com/track/4tM4hSwyXO0Q6wWLknh7YJ) | [Lightning Bug](https://open.spotify.com/artist/14Fd3BXAV8ipHmfQoGNIj4) | [September Song, pt\. ii](https://open.spotify.com/album/4dFYEqNWRCrzMWUjrRWGzg) | 3:57 |
-| 77 | [Bad Dream](https://open.spotify.com/track/2pqKEd7Lbz6EcySnBnGRsA) | [Azure Ray](https://open.spotify.com/artist/70UZ254VvtSUmrfqPOkUQZ) | [Bad Dream](https://open.spotify.com/album/2Kbf7AqWqqAAol13mXAjJD) | 4:10 |
+| 76 | [Bad Dream](https://open.spotify.com/track/2pqKEd7Lbz6EcySnBnGRsA) | [Azure Ray](https://open.spotify.com/artist/70UZ254VvtSUmrfqPOkUQZ) | [Bad Dream](https://open.spotify.com/album/2Kbf7AqWqqAAol13mXAjJD) | 4:10 |
+| 77 | [September Song, pt\. ii](https://open.spotify.com/track/4tM4hSwyXO0Q6wWLknh7YJ) | [Lightning Bug](https://open.spotify.com/artist/14Fd3BXAV8ipHmfQoGNIj4) | [September Song, pt\. ii](https://open.spotify.com/album/4dFYEqNWRCrzMWUjrRWGzg) | 3:57 |
 | 78 | [Sinking Ship](https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Sinking Ship / Back & Forth](https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt) | 4:07 |
 | 79 | [Anchor](https://open.spotify.com/track/6x6XKEUcCJGUACD4Xh7KuP) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Anchor](https://open.spotify.com/album/7FTALPLhRQiMuMyaSd1M5d) | 4:16 |
 | 80 | [Poison & Wine](https://open.spotify.com/track/3wsZYuHJrk3lssa7V7jvye) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:39 |

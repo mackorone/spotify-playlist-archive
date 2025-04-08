@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Ed Sheeran, Yuna, DIOR 大穎 Calum Scott, Gracie Abrams, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,315 likes - 98 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,317 likes - 98 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 27 | [Porsche](https://open.spotify.com/track/0RS3rznmPFbWe0rebtjnQ4) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Porsche](https://open.spotify.com/album/2101DOYOCxa63jUh1f6mvf) | 3:17 |
 | 28 | [Karaoke](https://open.spotify.com/track/2kUwVaaNh6xX7iaAzPIK5Y) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Karaoke](https://open.spotify.com/album/24mDmuNu8kGAUHn7xEfBbk) | 2:43 |
 | 29 | [cool](https://open.spotify.com/track/7BicWDX4TJX09ps0XhNmrS) | [Michael Clifford](https://open.spotify.com/artist/5xnIHjofV8JpeKaWfFMcj0) | [cool](https://open.spotify.com/album/1Ohj7SrdoUOqQ3zgAdClPv) | 2:43 |
-| 30 | [Drip Drip](https://open.spotify.com/track/0YrUz44GV53SvRMQUFIpps) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [WUKONG](https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T), [MUSIC](https://open.spotify.com/artist/6tmvEui9RlpwAFJA8tNkxM) | [Drip Drip](https://open.spotify.com/album/14jZsLakgI8TLW8PMdkFxC) | 2:25 |
+| 30 | [Drip Drip](https://open.spotify.com/track/0YrUz44GV53SvRMQUFIpps) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [WUKONG](https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T), [$MUSIC](https://open.spotify.com/artist/0zx8yW9E6H5pwqAnWrDepm) | [Drip Drip](https://open.spotify.com/album/14jZsLakgI8TLW8PMdkFxC) | 2:25 |
 | 31 | [我天生 \- 有夢版](https://open.spotify.com/track/2YtxuYoG085nAa0F23c8Ln) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我天生 \- 有夢版](https://open.spotify.com/album/28W9uyxA4MIu5npe8Rt1sI) | 4:40 |
 | 32 | [Learning Slow](https://open.spotify.com/track/5rdkwo609K30QsDwIBuwzB) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Learning Slow](https://open.spotify.com/album/66DyOnUvPJFxZ77Z1jw8JX) | 2:56 |
 | 33 | [瘋了](https://open.spotify.com/track/5XweuJGd833nLo6h0jGobt) | [Moon Chew](https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq) | [瘋了](https://open.spotify.com/album/6iaim5xGkwS4xtPXCnMfus) | 3:39 |

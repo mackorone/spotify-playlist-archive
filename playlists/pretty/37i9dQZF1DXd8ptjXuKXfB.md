@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > Cool és trendi dalok Magyarországon\. Hallgass még több TNT zenét a <a href="https://open.spotify.com/playlist/37i9dQZF1DX7x8PM5aMA4f">100% Retró </a>lejátszási listában!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,287 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,291 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 27 | [LoveHate Thing \(feat\. Sam Dew\)](https://open.spotify.com/track/6kx16R0LMAyoXDvGqddZFy) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [The Gifted](https://open.spotify.com/album/2m1DkB7oqaZu8BzAAUfwlq) | 4:27 |
 | 28 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 |
 | 29 | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2) | 3:38 |
-| 30 | [Espresso Macchiato](https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns) | 2:53 |
-| 31 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 |
+| 30 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 |
+| 31 | [Espresso Macchiato](https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns) | 2:53 |
 | 32 | [CRUSH](https://open.spotify.com/track/5GKsUqnQ90T5kkvG6u30wZ) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Natte Visstick](https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli), [RHYME](https://open.spotify.com/artist/5soNcAUPxpWwipU594dlqZ) | [CRUSH](https://open.spotify.com/album/3fAbIQ4KlgfrbFmIPDJQO0) | 2:46 |
 | 33 | [SUV](https://open.spotify.com/track/6jIOiFrWhqvDGzwONFKl3j) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [BAKPAKK](https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT) | 1:49 |
 | 34 | [díva](https://open.spotify.com/track/52kBWybNy033009vfeYu5n) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [rabiga](https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH) | 2:15 |

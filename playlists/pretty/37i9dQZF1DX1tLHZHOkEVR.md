@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tLHZHOkEVR.md) - [plain]
 
 > Floor fillers to soundtrack the happiest day of your life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,132 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,198 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tLHZHOkEVR.md) - [plain]
 | 81 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/4rmPQGwcLQjCoFq5NrTA0D) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/album/0tWBtc7le3TMo1gDdGyJVI) | 4:30 |
 | 82 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 |
 | 83 | [Respect](https://open.spotify.com/track/3XIobZuLDpWea6Ig36ItRw) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Very Best Of Aretha Franklin \- The 60's](https://open.spotify.com/album/1R11sCrAEB6FkvuWBia8cT) | 2:25 |
-| 84 | [Roxanne \- Remastered 2003](https://open.spotify.com/track/3FmAUR4SPWa3P1KyDf21Fu) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered\)](https://open.spotify.com/album/3D9JqZG5Q1ptOJr8ZQ0j7I) | 3:11 |
-| 85 | [We Found Love](https://open.spotify.com/track/5uImkHXfTLkNYwemtGH7kB) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Talk That Talk \(Deluxe\)](https://open.spotify.com/album/0MYABBSxz6JqujXq2JBvsF) | 3:35 |
+| 84 | [We Found Love](https://open.spotify.com/track/5uImkHXfTLkNYwemtGH7kB) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Talk That Talk \(Deluxe\)](https://open.spotify.com/album/0MYABBSxz6JqujXq2JBvsF) | 3:35 |
+| 85 | [Roxanne \- Remastered 2003](https://open.spotify.com/track/3FmAUR4SPWa3P1KyDf21Fu) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered\)](https://open.spotify.com/album/3D9JqZG5Q1ptOJr8ZQ0j7I) | 3:11 |
 | 86 | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed, Sealed And Delivered](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) | 2:41 |
 | 87 | [Don't Go Breaking My Heart](https://open.spotify.com/track/5nPdMALTEd7HOjn16oNf2X) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Rock Of The Westies \(Remastered\)](https://open.spotify.com/album/6tKgjhjWDMVlgb3a6KoI1x) | 4:35 |
 | 88 | [Never Gonna Give You Up](https://open.spotify.com/track/4uLU6hMCjMI75M1A2tKUQC) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/6N9PS4QXF1D0OWPk0Sxtb4) | 3:33 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tLHZHOkEVR.md) - [plain]
 | 94 | [Twist And Shout \- Remastered](https://open.spotify.com/track/4Z1fbYp0HuxLBje4MOZcSD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/7gDXyW16byCQOgK965BRzn) | 2:35 |
 | 95 | [Mambo No\. 5 \(A Little Bit of...\)](https://open.spotify.com/track/5lA6mFOvaiienokVbTZEQx) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [King of Mambo](https://open.spotify.com/album/2ZYW7Gnq62sNuZi1hDqgwC) | 3:39 |
 | 96 | [Rolling in the Deep](https://open.spotify.com/track/1eq1wUnLVLg4pdEfx9kajC) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8) | 3:48 |
-| 97 | [Celebration \- Single Version](https://open.spotify.com/track/6pc8xULSlsMdFB3OrqbvZ4) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Celebration / Morning Star](https://open.spotify.com/album/5RyMdc2cQbURYCUDbzjR6w) | 3:35 |
+| 97 | [Livin' On A Prayer](https://open.spotify.com/track/2tyW1uBUnYMKAFEfKDKi9B) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/3gORsZp3xSbkN1ymRNonp1) | 4:10 |
 | 98 | [Wake Me Up Before You Go\-Go](https://open.spotify.com/track/5XsMz0YfEaHZE0MTb1aujs) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Make It Big](https://open.spotify.com/album/0CpBTGH3Eewlbw35IclPdm) | 3:50 |
-| 99 | [Livin' On A Prayer](https://open.spotify.com/track/2tyW1uBUnYMKAFEfKDKi9B) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/3gORsZp3xSbkN1ymRNonp1) | 4:10 |
+| 99 | [Celebration \- Single Version](https://open.spotify.com/track/6pc8xULSlsMdFB3OrqbvZ4) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Celebration / Morning Star](https://open.spotify.com/album/5RyMdc2cQbURYCUDbzjR6w) | 3:35 |
 | 100 | [Stayin' Alive \- 2007 Remastered Version Saturday Night Fever](https://open.spotify.com/track/5cP52DlDN9yryuZVQDg3iq) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Saturday Night Fever \[The Original Movie Soundtrack\]](https://open.spotify.com/album/0taUwU7qjtc9lvwmd7FKac) | 4:45 |
 
 Snapshot ID: `ZogNlgAAAACSHUYpA2Wcg2SUSKHauO4h`

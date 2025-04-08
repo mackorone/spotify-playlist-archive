@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,951 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,954 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 29 | [Hollup](https://open.spotify.com/track/7qecdQmvEVTmpJQMjteuVW) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Dammy Krane](https://open.spotify.com/artist/6yZI3dhleWYTqJjf11rDCc), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Hollup](https://open.spotify.com/album/4X9ME05TzIGSBuHx5rYQuj) | 4:20 |
 | 30 | [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 |
 | 31 | [Dame Un Break \- Remix](https://open.spotify.com/track/1GrpcJyJteho5VRPr70mYu) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Dame Un Break \(Remix\)](https://open.spotify.com/album/6nLjjJAYSRzGOb3fy2FUcN) | 4:22 |
-| 32 | [Fààjí](https://open.spotify.com/track/1ObFmDHL5oeVzRf9uIcn09) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Fààjí](https://open.spotify.com/album/6qPmOuoHmx9U4ZBCvMUxHt) | 2:29 |
-| 33 | [Short Skirt](https://open.spotify.com/track/2Udl0TzzW2pYjPmf6P9M2W) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Life is Eazi, Vol\. 1 \- Accra To Lagos](https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU) | 2:48 |
+| 32 | [Short Skirt](https://open.spotify.com/track/2Udl0TzzW2pYjPmf6P9M2W) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Life is Eazi, Vol\. 1 \- Accra To Lagos](https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU) | 2:48 |
+| 33 | [Fààjí](https://open.spotify.com/track/1ObFmDHL5oeVzRf9uIcn09) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Fààjí](https://open.spotify.com/album/6qPmOuoHmx9U4ZBCvMUxHt) | 2:29 |
 | 34 | [Dabebi](https://open.spotify.com/track/63wuVACH3s92oXqKzvYBke) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:58 |
 | 35 | [Call Waiting](https://open.spotify.com/track/6E7inQoWgdOxhFw4GmNS4c) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Call Waiting](https://open.spotify.com/album/5JkpF4etIZ5IOrAPzCcfjI) | 2:30 |
 | 36 | [Supernova](https://open.spotify.com/track/4Vo3oCRHQI8KT7kv9Ayism) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Supernova](https://open.spotify.com/album/0wDPXirmkaRKLWIfYAsnKH) | 1:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 49 | [Panadol](https://open.spotify.com/track/2VkxvwW5Vb3hWrB9so0cQ4) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Evil Genius](https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG) | 2:29 |
 | 50 | [Tony Montana](https://open.spotify.com/track/6uqAcjD0a81jJkJJD6NzCC) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Tony Montana](https://open.spotify.com/album/1lntDqc2Wxb1iRERQIzYaL) | 2:33 |
 
-Snapshot ID: `Z/BygAAAAABWgoi9TwHhp31jJ4QlUMBO`
+Snapshot ID: `Z/HEAAAAAAA5TyiVkQUf6DVrUlBL/o07`

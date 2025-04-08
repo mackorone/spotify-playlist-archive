@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,655 likes - 70 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,693 likes - 70 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 8 | [Palermo](https://open.spotify.com/track/3rtPfogqDQQB392GBadZ3C) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Palermo / Fractals](https://open.spotify.com/album/2yfg6aVt4CCtc8AH3YuRqM) | 3:15 |
 | 9 | [Allein Allein](https://open.spotify.com/track/2bpHc7nCduKQWJVNqJ4mDj) | [INNERVERSE](https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Allein Allein](https://open.spotify.com/album/2oLn47kWsw7iYC3NOtNEx2) | 3:41 |
 | 10 | [NO SKIN](https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [NO SKIN](https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ) | 4:38 |
-| 11 | [Ghost \- Fejká Remix](https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Ghost \(Fejká Remix\)](https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV) | 4:43 |
+| 11 | [Marabelle](https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 4:12 |
 | 12 | [Next to Me](https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Next to Me](https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN) | 5:14 |
-| 13 | [Marabelle](https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 4:12 |
+| 13 | [Ghost \- Fejká Remix](https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Ghost \(Fejká Remix\)](https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV) | 4:43 |
 | 14 | [This Version Of You \- Joseph Ray Remix](https://open.spotify.com/track/1oWf71EPQVlawCcygiCbMy) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [The Last Goodbye Remixes N°.2](https://open.spotify.com/album/6DKA6hXo5KPvSBGLUL1kky) | 4:11 |
 | 15 | [Hiding](https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Hiding](https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx) | 3:42 |
 | 16 | [Asa](https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Asa](https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf) | 4:37 |
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 23 | [Copal](https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Copal](https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn) | 6:04 |
 | 24 | [Let You In \(feat\. East Forest\)](https://open.spotify.com/track/2weK6bsvMtRaYWydEnMhfw) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Let You In \(feat\. East Forest\)](https://open.spotify.com/album/5HxnTLT7UjQ2DQxtaYqG1T) | 5:56 |
 | 25 | [Movement](https://open.spotify.com/track/2eqjFIb55WVN7iYx8ixUZY) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Movement](https://open.spotify.com/album/5PgQAA0U4L0NuLLslJ9hqq) | 6:11 |
-| 26 | [Spectrum](https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Unspoken Words](https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk) | 4:45 |
+| 26 | [Baume](https://open.spotify.com/track/2EDg4ZWpHuR7R5u9UfGotf) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Baume](https://open.spotify.com/album/7v6fD9x1QdVMaIWKTYzoF9) | 4:20 |
 | 27 | [Brave](https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Brave](https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk) | 3:50 |
-| 28 | [Baume](https://open.spotify.com/track/2EDg4ZWpHuR7R5u9UfGotf) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Baume](https://open.spotify.com/album/7v6fD9x1QdVMaIWKTYzoF9) | 4:20 |
+| 28 | [Spectrum](https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Unspoken Words](https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk) | 4:45 |
 | 29 | [Marimba](https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Marimba](https://open.spotify.com/album/3i2oCggOTBqY30JWJTkqgU) | 3:46 |
 | 30 | [Heartless](https://open.spotify.com/track/6eHQ2jZEzEyyBeO7K7KPyy) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Heartless](https://open.spotify.com/album/6RD6iZjyKNlZuhXKqmSo6J) | 4:19 |
 | 31 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 |

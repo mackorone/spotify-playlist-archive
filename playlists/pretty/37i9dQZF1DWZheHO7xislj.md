@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 
 > Perfect music for perfect food.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,310 likes - 200 songs - 13 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,313 likes - 200 songs - 13 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 | 44 | [Alright](https://open.spotify.com/track/3fVoaJNF8ALQlL0MG5XpWa) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Groove Curse](https://open.spotify.com/album/2uWJhbEKI42yC1GZR8GaXx) | 4:35 |
 | 45 | [Groove Me](https://open.spotify.com/track/0gtTfaz5zzbJA28Ypu7k0W) | [King Floyd](https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz) | [Choice Cuts](https://open.spotify.com/album/6omfXjVxM6zIroFzyHjNkY) | 3:04 |
 | 46 | [The Sweetest Taboo \- Remastered](https://open.spotify.com/track/5SRvh35HZmN5bNe8iT4ST5) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 4:25 |
-| 47 | [Am I The Same Girl](https://open.spotify.com/track/6NVzt2cA5Mgjd3pQjU1xwD) | [Barbara Acklin](https://open.spotify.com/artist/5cIS9VdHDj2fozLl19Gg2A) | [20 Greatest Hits](https://open.spotify.com/album/1FjPiiZ0qeq7GZ0nnuvHpH) | 2:58 |
-| 48 | [Lowdown](https://open.spotify.com/track/20MxJN12WEqU5eWsuCrwM5) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [My Time: A Boz Scaggs Anthology \(1969\-1997\)](https://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo) | 5:16 |
+| 47 | [Lowdown](https://open.spotify.com/track/20MxJN12WEqU5eWsuCrwM5) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [My Time: A Boz Scaggs Anthology \(1969\-1997\)](https://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo) | 5:16 |
+| 48 | [Am I The Same Girl](https://open.spotify.com/track/6NVzt2cA5Mgjd3pQjU1xwD) | [Barbara Acklin](https://open.spotify.com/artist/5cIS9VdHDj2fozLl19Gg2A) | [20 Greatest Hits](https://open.spotify.com/album/1FjPiiZ0qeq7GZ0nnuvHpH) | 2:58 |
 | 49 | [Rhythm Of Life](https://open.spotify.com/track/3jOwA8XZplvTVsV0SdLWhc) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Circle Of One](https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO) | 4:19 |
 | 50 | [Wake up Everybody \(feat\. Common & Melanie Fiona\)](https://open.spotify.com/track/7lVxWMH0C3Bj8b8JLkh9EN) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [Wake Up!](https://open.spotify.com/album/06UOP7uyZN8AIYH6U20VkP) | 4:24 |
 | 51 | [Wonderful World](https://open.spotify.com/track/61xW0GqeX38uF0elO3jjql) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Otis Blue: Otis Redding Sings Soul \(Collector's Edition\)](https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz) | 3:30 |

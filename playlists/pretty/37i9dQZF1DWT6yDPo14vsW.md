@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 
 > ¿Qué es lo que está pasando? ¿Amor o Desamor?
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,945 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,986 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 | 24 | [La Media Vuelta](https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 2:41 |
 | 25 | [Yo Te Amo](https://open.spotify.com/track/2sKo5u6IppUEudIz265wYa) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Simplemente](https://open.spotify.com/album/5ktMfzQRYlQawZcnmIB1VW) | 4:48 |
 | 26 | [Otra Noche de Llorar](https://open.spotify.com/track/5F8pOPLxQBJK6am1pNcN79) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Otra Noche de Llorar](https://open.spotify.com/album/2kSB4gQHyJmEfC8jDrwbeX) | 3:39 |
-| 27 | [Otra Como Tu](https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias](https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4) | 4:41 |
-| 28 | [Volví a Nacer](https://open.spotify.com/track/6Al0Kpd4VrRZ0Z4kTThNPa) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Corazón Profundo \(Versión Deluxe\)](https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl) | 3:42 |
+| 27 | [Volví a Nacer](https://open.spotify.com/track/6Al0Kpd4VrRZ0Z4kTThNPa) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Corazón Profundo \(Versión Deluxe\)](https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl) | 3:42 |
+| 28 | [Otra Como Tu](https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias](https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4) | 4:41 |
 | 29 | [Culpable O No \- Miénteme Como Siempre](https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 3:57 |
 | 30 | [Será Mejor Que Te Vayas](https://open.spotify.com/track/6rtHT1rKFnDZL4EksdLY0t) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Por Amor A Mi Pueblo](https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od) | 4:59 |
 | 31 | [Dreaming Of You](https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 5:14 |

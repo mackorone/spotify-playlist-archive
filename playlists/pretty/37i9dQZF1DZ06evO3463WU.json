@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 152405,
+  "num_followers": 152421,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAAC2bnvQ7J3ZWqH4vTnEmZz+",
+  "snapshot_id": "Z/HEAAAAAACaBXxSDhX0501MzBYUdgvw",
   "tracks": [
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 182613,
-      "name": "Te Amo Y Te Lo Digo",
-      "url": "https://open.spotify.com/track/6HQTfGCo5O2itJ25D1yytt"
+      "duration_ms": 209374,
+      "name": "Adi\u00f3s Mi Vida",
+      "url": "https://open.spotify.com/track/0T64rl0btWefSvCJIEPnZm"
     },
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 209374,
-      "name": "Adi\u00f3s Mi Vida",
-      "url": "https://open.spotify.com/track/0T64rl0btWefSvCJIEPnZm"
+      "duration_ms": 182613,
+      "name": "Te Amo Y Te Lo Digo",
+      "url": "https://open.spotify.com/track/6HQTfGCo5O2itJ25D1yytt"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ya Se Fue",
+        "url": "https://open.spotify.com/album/6ELneqe2qiMyINLBS28cCH"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 206169,
+      "name": "Compa\u00f1era M\u00eda",
+      "url": "https://open.spotify.com/track/7evRe8RAam9sUjPKe46C2Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Qu\u00e9 Bonito",
         "url": "https://open.spotify.com/album/0Z05URN9ad0MN2TuakJH0u"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 167986,
       "name": "Qu\u00e9 Bonito",
       "url": "https://open.spotify.com/track/3AG3kaV6b3DDQDCEDN1HdS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya Se Fue",
-        "url": "https://open.spotify.com/album/6ELneqe2qiMyINLBS28cCH"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 206169,
-      "name": "Compa\u00f1era M\u00eda",
-      "url": "https://open.spotify.com/track/7evRe8RAam9sUjPKe46C2Z"
     },
     {
       "added_at": null,

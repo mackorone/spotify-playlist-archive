@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 
 > Nacimos para rodar en el asfalto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,962 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,090 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 | 44 | [Blame It on the Boom Boom](https://open.spotify.com/track/58VTMFtsoe0E0vSX1pV03h) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Between the Devil & the Deep Blue Sea \(Special Edition\)](https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H) | 3:09 |
 | 45 | [Orgasmatron](https://open.spotify.com/track/5RKNHGP5Nv526dJ5LmgcjX) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Arise](https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM) | 4:14 |
 | 46 | [Rock N Roller](https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Rock N Roller](https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K) | 3:43 |
-| 47 | [Surrender](https://open.spotify.com/track/669cOBjpY4Y5O98Nmk6139) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [The Essential Cheap Trick](https://open.spotify.com/album/37P9MBdJRekfOIbPSX9alR) | 4:13 |
-| 48 | [Generator](https://open.spotify.com/track/1a42up3NBd91HTCbmYKMq4) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Generator](https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr) | 3:22 |
+| 47 | [Generator](https://open.spotify.com/track/1a42up3NBd91HTCbmYKMq4) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Generator](https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr) | 3:22 |
+| 48 | [Surrender](https://open.spotify.com/track/669cOBjpY4Y5O98Nmk6139) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [The Essential Cheap Trick](https://open.spotify.com/album/37P9MBdJRekfOIbPSX9alR) | 4:13 |
 | 49 | [Rainbow In The Dark](https://open.spotify.com/track/4ggy61YkrNendRHDi8fmNF) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Holy Diver](https://open.spotify.com/album/2wkqGL9LivRgE9K523kizA) | 4:14 |
 | 50 | [Dirty Little Thing](https://open.spotify.com/track/2NJ5fMRTfFZofOaTccEN9k) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Contraband](https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB) | 3:56 |
 | 51 | [Automatic Sun](https://open.spotify.com/track/3p8SLhMdp3M5cusqAp6H3L) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Automatic Sun](https://open.spotify.com/album/1j7amuuid5B0Hf9I6I1PLZ) | 3:10 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 | 62 | [Ain't Talkin' 'Bout Love \- 2004 Remaster](https://open.spotify.com/track/1tZdrScspGPI4cdkSChrcX) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [The Very Best of Van Halen \(UK Release\)](https://open.spotify.com/album/4RJcoQhc3aupccH9YnZ69o) | 3:47 |
 | 63 | [I Should Have Known It](https://open.spotify.com/track/7goONmj0ATR8usS7dWB41U) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [I Should Have Known It](https://open.spotify.com/album/4SrJW0Gn1JJ6lH5J7fj5kO) | 3:56 |
 | 64 | [Old Time Rock n\\' Roll](https://open.spotify.com/track/1MDgKH2MKCcWjV5UUrobHY) | [Sam Morrison and Turn The Page](https://open.spotify.com/artist/7csps3rrXHbv6Xnom2Ntjl) | [A Tribute to the Music of Bob Seger](https://open.spotify.com/album/7iptHw4NqVUSd4XnexhlTU) | 3:10 |
-| 65 | [You're So Impatient](https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [You're So Impatient](https://open.spotify.com/album/75hBHuaFQCVisHjw2l892X) | 2:08 |
-| 66 | [No More, No More](https://open.spotify.com/track/0dJGtR6vhnxkaWyg2FOuy5) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Contraband \(Deluxe Edition\)](https://open.spotify.com/album/19oa2tIRvZg4dSUD8Dyt8t) | 5:38 |
+| 65 | [No More, No More](https://open.spotify.com/track/0dJGtR6vhnxkaWyg2FOuy5) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Contraband \(Deluxe Edition\)](https://open.spotify.com/album/19oa2tIRvZg4dSUD8Dyt8t) | 5:38 |
+| 66 | [You're So Impatient](https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [You're So Impatient](https://open.spotify.com/album/75hBHuaFQCVisHjw2l892X) | 2:08 |
 | 67 | [BANSHEE](https://open.spotify.com/track/3iz15hcoonf1n0xC5qJfik) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [BANSHEE/\#REBEL](https://open.spotify.com/album/750mAcVXVw0PdHspB3uLeC) | 3:34 |
 | 68 | [Holy Ground \(Shake the Memory\)](https://open.spotify.com/track/3Z5IHP0Eib8jZeQ6Lcrx7a) | [The Dead Daisies](https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH) | [Holy Ground](https://open.spotify.com/album/6asdJhdhhhcvvo2u3le3dp) | 4:49 |
 | 69 | [Stone Cold Killer](https://open.spotify.com/track/19upAEqeqyWplsN9UXcA12) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [Stone Cold Killer](https://open.spotify.com/album/513s8ALXQ5VxaIYNXTUKUb) | 3:08 |

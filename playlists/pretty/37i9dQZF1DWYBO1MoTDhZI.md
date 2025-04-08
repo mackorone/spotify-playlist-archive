@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBO1MoTDhZI.md) - [plain]
 
 > Just good vibes all day long
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,576,566 likes - 93 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,576,732 likes - 93 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

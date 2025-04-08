@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,753 likes - 400 songs - 1 day 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,793 likes - 400 songs - 1 day 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Short Intermission](https://open.spotify.com/track/2RLd480e9nMzuvgds9fSqg) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Short Intermission](https://open.spotify.com/album/6bDsTyNw02QSceWcDRmNKd) | 2:32 |
 | 2 | [Prelude](https://open.spotify.com/track/39g0c8gVtrjk88LkwTvaek) | [Luke Marantz Trio](https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo) | [Prelude](https://open.spotify.com/album/5wa0g0eCwlUbSWclZtTp4E) | 2:51 |
-| 3 | [You Never Say You're Sorry](https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Lazy Art](https://open.spotify.com/album/0nwE46ZJn2ggRiBKmrN7Vi) | 4:18 |
-| 4 | [Nocturnal Whispers](https://open.spotify.com/track/5fhMizFsBXmXcSeJKVNvrt) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Nocturnal Whispers](https://open.spotify.com/album/05VITsYb1YmKoBQuZCoGr9) | 4:27 |
+| 3 | [Nocturnal Whispers](https://open.spotify.com/track/5fhMizFsBXmXcSeJKVNvrt) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Nocturnal Whispers](https://open.spotify.com/album/05VITsYb1YmKoBQuZCoGr9) | 4:27 |
+| 4 | [You Never Say You're Sorry](https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Lazy Art](https://open.spotify.com/album/0nwE46ZJn2ggRiBKmrN7Vi) | 4:18 |
 | 5 | [Out of Wilma](https://open.spotify.com/track/3al4xzBnTjTpcnZsfRiE0y) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Out of Wilma](https://open.spotify.com/album/1xHX7TFDWntXbStEw02s5Y) | 2:49 |
 | 6 | [Fools Rush In](https://open.spotify.com/track/1POSSxzIB7fLcHDDfbmjDZ) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [Fools Rush In](https://open.spotify.com/album/2L8LchgYAzo2n0vuR5kYk7) | 4:33 |
 | 7 | [When You're Near](https://open.spotify.com/track/0DTowMkNIYpSZpccbahA7f) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [When You're Near](https://open.spotify.com/album/1AfSswzeUZp98XWmslxzI6) | 4:07 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 59 | [Clear Sight](https://open.spotify.com/track/6LLyyfz8BYrHtd3yPkrPad) | [Midtown Trio](https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT) | [Clear Sight](https://open.spotify.com/album/7HPrgW1TsSF5rZAUoGKX4S) | 2:47 |
 | 60 | [May This Dance Last Forever](https://open.spotify.com/track/7o5OtG2KwcXObjebVXJNG4) | [The Belleville Band](https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW) | [May This Dance Last Forever](https://open.spotify.com/album/52jObqeeDAtFOT9sQ5O1Kq) | 2:49 |
 | 61 | [You Know Its Me](https://open.spotify.com/track/05fdpG9n1YmQU1wOTCLaj8) | [The Ebbing Tides](https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3) | [You Know Its Me](https://open.spotify.com/album/2ET8mBknnRZFO1gea0toYN) | 2:28 |
-| 62 | [Down the Pawn Shop](https://open.spotify.com/track/1WmMwuEQqOM3VU7aQghrFI) | [Louie Hobbs Trio](https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U) | [Down the Pawn Shop](https://open.spotify.com/album/5pG51SPfHyYTAalrIYkzSb) | 3:26 |
-| 63 | [Moon Side](https://open.spotify.com/track/4gZIqCz8djBkwsT5yFsVSb) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Rue Crémieux](https://open.spotify.com/album/31veFoscAjzxxGosNo2DaO) | 3:03 |
+| 62 | [Moon Side](https://open.spotify.com/track/4gZIqCz8djBkwsT5yFsVSb) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Rue Crémieux](https://open.spotify.com/album/31veFoscAjzxxGosNo2DaO) | 3:03 |
+| 63 | [Down the Pawn Shop](https://open.spotify.com/track/1WmMwuEQqOM3VU7aQghrFI) | [Louie Hobbs Trio](https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U) | [Down the Pawn Shop](https://open.spotify.com/album/5pG51SPfHyYTAalrIYkzSb) | 3:26 |
 | 64 | [A Thousand Candles](https://open.spotify.com/track/6FPlA5HOSAyEv7QzfCAVy6) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [A Thousand Candles](https://open.spotify.com/album/49KX5Vrlrqx9q1VmzyBoPa) | 3:35 |
 | 65 | [You're Just Full of Inspiration](https://open.spotify.com/track/2Y79E6uTFHlZWhF6m2tYyO) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [The Flow of Your Way](https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq) | 2:24 |
 | 66 | [Windless Waters](https://open.spotify.com/track/7FMsiew09v6ICDI5MU1Jc5) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Windless Waters](https://open.spotify.com/album/4VavAVgUen9lslDOZtqizc) | 3:30 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 80 | [The Law of Attraction](https://open.spotify.com/track/5f2btCjcN87enR8OBijRBz) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [The Law of Attraction](https://open.spotify.com/album/2otEcJ7pOUvnnX4nO34aJL) | 2:31 |
 | 81 | [You Softly Breathe](https://open.spotify.com/track/71sykxrXDUVEDA4TkHeIzh) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [You Softly Breathe](https://open.spotify.com/album/4CQl0m4bI32Ffjbmap9VCI) | 3:16 |
 | 82 | [Midnight Fairytale](https://open.spotify.com/track/7cZxQ0m9bK0TLsaUD2UoQd) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Midnight Fairytale](https://open.spotify.com/album/3buXxoeXLMcwS9LQbzRGev) | 2:09 |
-| 83 | [Light Wave](https://open.spotify.com/track/7F3h33seOeoDMEW65Vz2mj) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Light Wave](https://open.spotify.com/album/04WmEv2QCADVuxTOEKKIb9) | 3:45 |
-| 84 | [Willow](https://open.spotify.com/track/0E30aSv1GFX0SG0zbsCxGH) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Willow](https://open.spotify.com/album/594swB6PoPzgC7NcHFMRB8) | 3:16 |
+| 83 | [Willow](https://open.spotify.com/track/0E30aSv1GFX0SG0zbsCxGH) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Willow](https://open.spotify.com/album/594swB6PoPzgC7NcHFMRB8) | 3:16 |
+| 84 | [Light Wave](https://open.spotify.com/track/7F3h33seOeoDMEW65Vz2mj) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Light Wave](https://open.spotify.com/album/04WmEv2QCADVuxTOEKKIb9) | 3:45 |
 | 85 | [First Day on Set](https://open.spotify.com/track/3xhMWYa8ricKp1NN8TVQyS) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [First Day on Set](https://open.spotify.com/album/5makhM7JhUfTSWwBNq90Nv) | 2:47 |
 | 86 | [The Fate of Love](https://open.spotify.com/track/59VY0huVKd5pSuJLI9RrMO) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [The Fate of Love](https://open.spotify.com/album/4LYUSTQLCYtx3DZTfsXFly) | 2:50 |
 | 87 | [Let's Not](https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,981 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,994 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 33 | [A Tu Lado](https://open.spotify.com/track/4CB6Ih8Zuj8XqA9Z0dv0dw) | [Flou](https://open.spotify.com/artist/0YubN7dhD1kcJe7KtALAHk) | [Tácito](https://open.spotify.com/album/4AmKPsiZ7EfXD753LkqFj3) | 4:03 |
 | 34 | [El Solo](https://open.spotify.com/track/06CeEkSJ834D9jTT3posh6) | [Revolber](https://open.spotify.com/artist/2s7biaf5EUXCa08iWBL3Kn) | [Kaimonomacaco](https://open.spotify.com/album/2U1Nf26RYrUngfJxeyszk1) | 4:27 |
 | 35 | [Soy De Mi Tierra](https://open.spotify.com/track/74DxLHmbHDSsUQhs3v8kqI) | [Pablo Benegas](https://open.spotify.com/artist/1w3h0mrPhK98mFPP6eiMgp) | [Canciones Rotas](https://open.spotify.com/album/0gzoNPu1co0CfO6Bmoz2yM) | 3:30 |
-| 36 | [En Las Calles](https://open.spotify.com/track/5xeWKH7GcUCKM6aLtzkSm5) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [En Las Calles](https://open.spotify.com/album/03dGvr1nMBKbUUlTAEDgFF) | 2:41 |
-| 37 | [Tu Loquito Vos Mi Loquita](https://open.spotify.com/track/3NC2VUVsR6BsM1qC3qtqvk) | [Japiaguar](https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK) | [Tu Loquito Vos Mi Loquita](https://open.spotify.com/album/3mo2JuYksoOoGepCCFyyhE) | 3:18 |
+| 36 | [Tu Loquito Vos Mi Loquita](https://open.spotify.com/track/3NC2VUVsR6BsM1qC3qtqvk) | [Japiaguar](https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK) | [Tu Loquito Vos Mi Loquita](https://open.spotify.com/album/3mo2JuYksoOoGepCCFyyhE) | 3:18 |
+| 37 | [En Las Calles](https://open.spotify.com/track/5xeWKH7GcUCKM6aLtzkSm5) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [En Las Calles](https://open.spotify.com/album/03dGvr1nMBKbUUlTAEDgFF) | 2:41 |
 | 38 | [No Llores por Mí](https://open.spotify.com/track/7BZSJ9WnmFStbcwSv6j0In) | [Chapa C](https://open.spotify.com/artist/6x87eYql5aUn7gBRe1KEKb) | [I Will Be: Like Big Stars!](https://open.spotify.com/album/502vjSngsd5WnCtyK1gxjn) | 3:37 |
 | 39 | [Vallenatos para el Cora: Obsesion Mi Estrella Niña Bonita](https://open.spotify.com/track/62bl9t4TYgy7aFeyADxUpT) | [Marcelo Gabriel](https://open.spotify.com/artist/20QPpARaho6RDmUVyzScvf) | [Vallenatos para el Cora: Obsesion Mi Estrella Niña Bonita](https://open.spotify.com/album/0xGrd5MsHHFwZQurYMKbSr) | 4:39 |
 | 40 | [Aguije](https://open.spotify.com/track/5jMW9bjIpyziEv5mu5Next) | [Tierra Adentro](https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4) | [Aguije](https://open.spotify.com/album/6S3Z8Z3WcCRegp66EA5gMh) | 3:11 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 43 | [Pense Que Te Olvide](https://open.spotify.com/track/6mcKcKUigHBg8z2tz7AKOR) | [Lalo Monte](https://open.spotify.com/artist/3SB8njtBUMJOVsNZ37xB53) | [Pense Que Te Olvide](https://open.spotify.com/album/4gDQufSUCOgyk8EZVMyhyE) | 3:39 |
 | 44 | [Verano ´99](https://open.spotify.com/track/18NgnGTlHgdKnjq0FKXvoe) | [VILLAGRÁN](https://open.spotify.com/artist/7j4EDoy89FLUbaeJuV1gNY), [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [Verano ´99](https://open.spotify.com/album/4rFyWkT6MhskGdHSAiNd0A) | 2:43 |
 | 45 | [Si Tú Te Vas \- Acústico en Vivo](https://open.spotify.com/track/4OTFNviyg8qHuASnJX0O9S) | [Diego Ríos](https://open.spotify.com/artist/1IYPsxunWpJvDYA1Por8dI), [So pra Voce](https://open.spotify.com/artist/6jxVE6pphzdM6pRIaxKr2y), [Talento De Barrio](https://open.spotify.com/artist/4475BmzzuqYgDqvJZCySZ3) | [Acústico en Paraguay \(En Vivo\)](https://open.spotify.com/album/4yspRKo0YaXP6MwxK1OaFV) | 4:08 |
-| 46 | [La Semilla](https://open.spotify.com/track/4fzVmLfaolqU7L6J8i8byS) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [El Equilibrio](https://open.spotify.com/album/2k1L3yDGHfoWxqYvgcY2fJ) | 2:49 |
-| 47 | [Soy Latino](https://open.spotify.com/track/2knkDzKZ4VTwSbdnHxVSbI) | [Tierra Adentro](https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Cruz](https://open.spotify.com/artist/1JZpCeGFkcB3EJi3Dejxlp) | [Soy Latino](https://open.spotify.com/album/1CiFEielADxVaFI0o1cb7e) | 3:09 |
+| 46 | [Soy Latino](https://open.spotify.com/track/2knkDzKZ4VTwSbdnHxVSbI) | [Tierra Adentro](https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Cruz](https://open.spotify.com/artist/1JZpCeGFkcB3EJi3Dejxlp) | [Soy Latino](https://open.spotify.com/album/1CiFEielADxVaFI0o1cb7e) | 3:09 |
+| 47 | [La Semilla](https://open.spotify.com/track/4fzVmLfaolqU7L6J8i8byS) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [El Equilibrio](https://open.spotify.com/album/2k1L3yDGHfoWxqYvgcY2fJ) | 2:49 |
 | 48 | [Porque Te Vas](https://open.spotify.com/track/0zZTDvd4QeWd4PHrEXNQ8T) | [Japiaguar](https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK) | [Porque Te Vas](https://open.spotify.com/album/35bkjlH5s7kSayeSJGDAju) | 2:33 |
 | 49 | [Es Mi Culpa](https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Es Mi Culpa](https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH) | 3:35 |
 | 50 | [Que Loco Amor](https://open.spotify.com/track/51LmGYcyw9WRnR2zopCF2C) | [Cumbia Juan](https://open.spotify.com/artist/0RvwiHVv0BAFFw9jeNzHGL) | [Revolution](https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE) | 3:23 |

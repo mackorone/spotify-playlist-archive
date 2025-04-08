@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 
 > This is Glassjaw\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,263 likes - 34 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,264 likes - 34 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,13 +34,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 | 24 | [Piano \- 2009 Remaster](https://open.spotify.com/track/03SO85UVkV11h83YU8qJa5) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Everything You Ever Wanted To Know About Silence Remaster](https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8) | 4:58 |
 | 25 | [Jesus Glue](https://open.spotify.com/track/1aLd9GXy4kOZzCJsyIfTZT) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Our Color Green \(The Singles\)](https://open.spotify.com/album/1GC93XfkXlBFNJ9MaLRmjH) | 5:07 |
 | 26 | [El Mark](https://open.spotify.com/track/6qzrABvo4DnUiDlg3nuJsf) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [El Mark](https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl) | 3:39 |
-| 27 | [golgotha](https://open.spotify.com/track/4sZuIfdLBqNXSUuNaAhw5j) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 3:04 |
-| 28 | [Daytona White](https://open.spotify.com/track/5tFZsDPwf4WNkIxq5i18Od) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Coloring Book](https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry) | 5:22 |
+| 27 | [Daytona White](https://open.spotify.com/track/5tFZsDPwf4WNkIxq5i18Od) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Coloring Book](https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry) | 5:22 |
+| 28 | [golgotha](https://open.spotify.com/track/4sZuIfdLBqNXSUuNaAhw5j) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 3:04 |
 | 29 | [You Think You're \(John Fucking Lennon\)](https://open.spotify.com/track/09VDpaucF3nSyTznLePzI7) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Our Color Green \(The Singles\)](https://open.spotify.com/album/1GC93XfkXlBFNJ9MaLRmjH) | 5:16 |
 | 30 | [Oxycodone](https://open.spotify.com/track/0wZqLhJhaAxlDr8tVvpj9O) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [El Mark](https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl) | 5:44 |
-| 31 | [strange hours](https://open.spotify.com/track/1m78OHYCAluDPjCfF5J4r5) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 4:09 |
-| 32 | [Stations of the New Cross](https://open.spotify.com/track/5O7oghNlSQe2DqLQejogQO) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Coloring Book](https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry) | 6:55 |
+| 31 | [Stations of the New Cross](https://open.spotify.com/track/5O7oghNlSQe2DqLQejogQO) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Coloring Book](https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry) | 6:55 |
+| 32 | [strange hours](https://open.spotify.com/track/1m78OHYCAluDPjCfF5J4r5) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 4:09 |
 | 33 | [The Choice Is Yours](https://open.spotify.com/track/3RTRfCPMOVnmHUtvnJ1f9s) | [Bad Rabbits](https://open.spotify.com/artist/534rgZ76LDMlM7xLt9xSGR), [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0), [Black Sheep](https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf), [Justin Beck](https://open.spotify.com/artist/6Hdgvg4uQprLkVgPe5p5Nq), [Dres](https://open.spotify.com/artist/1lwe4A6M5NIIAx7BiMoCUg) | [Black Rabbits](https://open.spotify.com/album/4chJfqrlyXTDBVfVWH1nat) | 3:47 |
 | 34 | [The Number No Good Things Can Come Of](https://open.spotify.com/track/6dw1ALjnu29L8XrxTEvLg3) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [El Mark](https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl) | 5:03 |
 
-Snapshot ID: `Z/BygAAAAAAFeLvHm2hC3Atk+QvX3Glg`
+Snapshot ID: `Z/HEAAAAAABZWl4X/N7YOxR+zyBdCsqf`

@@ -304,7 +304,7 @@
       ],
       "date_added": "2024-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-24",
+      "date_removed": null,
       "duration_ms": 219466,
       "name": "Birmingham Special",
       "url": "https://open.spotify.com/track/0hukA4rlRrPn1fqh5zSxKg"
@@ -3490,7 +3490,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 184216,
       "name": "O Lord, Search My Heart",
       "url": "https://open.spotify.com/track/3R5AhtweeDN7eRhijbvVss"
@@ -3512,6 +3512,24 @@
       "duration_ms": 185293,
       "name": "O Lord, Search My Heart",
       "url": "https://open.spotify.com/track/32zidKZ81Jd6eK22Mkadqb"
+    },
+    {
+      "album": {
+        "name": "Worried Blues",
+        "url": "https://open.spotify.com/album/7CQunRo99uLi7XYbCtooHz"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236266,
+      "name": "O, Glory",
+      "url": "https://open.spotify.com/track/00s1kea6k7bajsz80Yeuvb"
     },
     {
       "album": {
@@ -5434,7 +5452,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 236466,
       "name": "Wall Hollow Blues",
       "url": "https://open.spotify.com/track/0fkGnfmNL6Z6IL6wLu7TkL"

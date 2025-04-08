@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 
 > A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 \- Possible Musics'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,614 likes - 70 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,620 likes - 70 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 65 | [Blåne II](https://open.spotify.com/track/0cEcZNgg0ErP53MjZ9HkkK) | [Inge Weatherhead Breistein](https://open.spotify.com/artist/31R4oqL2Aeic9iwpOHsxqG), [Haav](https://open.spotify.com/artist/1qLtmt4U8aOgERNMfqNlyy) | [Blåne II](https://open.spotify.com/album/2uhS4oZEuvDqcb5lKBUVcx) | 4:31 |
 | 66 | [Mirrored Solitude](https://open.spotify.com/track/52vNlD5YZT1yUmZUnukAbT) | [Kalia Vandever](https://open.spotify.com/artist/2eFIJMz1OPMcyyqxVbh8tL) | [Mirrored Solitude](https://open.spotify.com/album/4bd0O6ioCKu3uh3d89rtpB) | 3:26 |
 | 67 | [Glass Chattering](https://open.spotify.com/track/6lGHPfFmZGcjNv7tmTYzZ0) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 5:56 |
-| 68 | [Porpita](https://open.spotify.com/track/753ILqOdh4VSmGahUIi4oM) | [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri) | [Les Jardins Mystiques Vol.1](https://open.spotify.com/album/4oIYiCrzOUVZvpxCopDB7e) | 3:26 |
-| 69 | [IX: Nature That's It That's All.](https://open.spotify.com/track/07SvpoJ9TFywCmSYmOeSfF) | [Bell Orchestre](https://open.spotify.com/artist/1eGeixtxaPiyKM6CPVANqr) | [House Music](https://open.spotify.com/album/2WJQfOY8wCM012nVHcfURF) | 4:36 |
-| 70 | [Wanderer](https://open.spotify.com/track/36KtiVehi3BrwDIzneRhGq) | [Lotte Pen](https://open.spotify.com/artist/09klzeoydwwlN5eyyQNNss) | [Wanderer](https://open.spotify.com/album/52MSO7IZTjGJnawiQ0R8tl) | 6:04 |
+| 68 | [IX: Nature That's It That's All.](https://open.spotify.com/track/07SvpoJ9TFywCmSYmOeSfF) | [Bell Orchestre](https://open.spotify.com/artist/1eGeixtxaPiyKM6CPVANqr) | [House Music](https://open.spotify.com/album/2WJQfOY8wCM012nVHcfURF) | 4:36 |
+| 69 | [Wanderer](https://open.spotify.com/track/36KtiVehi3BrwDIzneRhGq) | [Lotte Pen](https://open.spotify.com/artist/09klzeoydwwlN5eyyQNNss) | [Wanderer](https://open.spotify.com/album/52MSO7IZTjGJnawiQ0R8tl) | 6:04 |
+| 70 | [Porpita](https://open.spotify.com/track/753ILqOdh4VSmGahUIi4oM) | [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri) | [Les Jardins Mystiques Vol.1](https://open.spotify.com/album/4oIYiCrzOUVZvpxCopDB7e) | 3:26 |
 
 Snapshot ID: `Z5Vm3wAAAAA5KmZePXk29cH1IM47mQ7D`

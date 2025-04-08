@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 284630,
+  "num_followers": 284759,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAACrbfjVe4ZOCHhffTw09b5C",
+  "snapshot_id": "Z/HEAAAAAAAMscLXuZo9b6Tc8OHesGcc",
   "tracks": [
     {
       "added_at": null,
@@ -796,13 +796,13 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         },
         {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
         }
       ],
-      "duration_ms": 220520,
-      "name": "Take A Bow (with Halsey)",
-      "url": "https://open.spotify.com/track/0DkWJ9I5diiEuVoGUzSTHh"
+      "duration_ms": 185480,
+      "name": "Really Gone (with Russ)",
+      "url": "https://open.spotify.com/track/3m5skOgX8UizlHiTTduVvA"
     },
     {
       "added_at": null,
@@ -868,13 +868,13 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         },
         {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 185480,
-      "name": "Really Gone (with Russ)",
-      "url": "https://open.spotify.com/track/3m5skOgX8UizlHiTTduVvA"
+      "duration_ms": 220520,
+      "name": "Take A Bow (with Halsey)",
+      "url": "https://open.spotify.com/track/0DkWJ9I5diiEuVoGUzSTHh"
     },
     {
       "added_at": null,

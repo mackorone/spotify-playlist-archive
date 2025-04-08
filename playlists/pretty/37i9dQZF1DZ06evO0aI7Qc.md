@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,691 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,802 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 28 | [SU CASA](https://open.spotify.com/track/1tGGJ4SRZnd2H0E2dV05iM) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:18 |
 | 29 | [Me Metí En El Ruedo](https://open.spotify.com/track/2u6xsHnwRURYXCqAMGHi4t) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/6geYhsANDTi0IoZR30Y5tb) | 2:54 |
 | 30 | [Así Lo Quiso Dios](https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:25 |
-| 31 | [La Fiesta](https://open.spotify.com/track/26ffMA2QIHjbQZpBlv6GmA) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [José Guicho](https://open.spotify.com/artist/7IiCm7VkqzW7vN0MY9AzHe), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [La Fiesta](https://open.spotify.com/album/4kAXXZpIKhMlmj62OBnj7g) | 2:32 |
-| 32 | [F\*%K U Baby](https://open.spotify.com/track/0vZmz50wDnBhILCE1eHNyB) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [F\*%K U Baby](https://open.spotify.com/album/6Kozw1RDnshSWyZaaAZagg) | 2:33 |
+| 31 | [F\*%K U Baby](https://open.spotify.com/track/0vZmz50wDnBhILCE1eHNyB) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [F\*%K U Baby](https://open.spotify.com/album/6Kozw1RDnshSWyZaaAZagg) | 2:33 |
+| 32 | [La Fiesta](https://open.spotify.com/track/26ffMA2QIHjbQZpBlv6GmA) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [José Guicho](https://open.spotify.com/artist/7IiCm7VkqzW7vN0MY9AzHe), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [La Fiesta](https://open.spotify.com/album/4kAXXZpIKhMlmj62OBnj7g) | 2:32 |
 | 33 | [LA 701](https://open.spotify.com/track/7Jk86fYuucnJRzp3XlYK4C) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 2:44 |
 | 34 | [Malas Rachas \- En Vivo](https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas](https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG) | 4:20 |
 | 35 | [Con Todo Respetillo](https://open.spotify.com/track/7LPcTHeoskQiZ6tv84ZYTa) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mis Compas Vol\. 1](https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 49 | [A Punta de Balazos](https://open.spotify.com/track/30jSzrU2QGEVG623M6x63V) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 3:31 |
 | 50 | [Baccarat](https://open.spotify.com/track/0xKYzVe655Sd39IWpbIko6) | [Said Norzagaray](https://open.spotify.com/artist/3hK6sVmdFt15ORCDg503Yp), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [Metanoia](https://open.spotify.com/album/1Vnd8By5TxomwDHRPONbzX) | 2:43 |
 
-Snapshot ID: `Z/BygAAAAAD/w3Le1Ohb3JMTPYEx0kxJ`
+Snapshot ID: `Z/HEAAAAAABGcURh4wBgVfNq0GEjHipl`

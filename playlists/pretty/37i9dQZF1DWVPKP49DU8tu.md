@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPKP49DU8tu.md) - [plain]
 
 > Solo hit da cantare \(anche fuori dalla doccia\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,043 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,039 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPKP49DU8tu.md) - [plain]
 | 70 | [Pastello Bianco](https://open.spotify.com/track/0bKDQionn4VKcgNKbs4SWX) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 3:56 |
 | 71 | [Let You Love Me](https://open.spotify.com/track/5Fla3zyOCcIRqrDoKLU0DP) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Phoenix \(Deluxe Edition\)](https://open.spotify.com/album/6Vn8F3hERVHYYz5RfKmsAN) | 3:11 |
 | 72 | [Life](https://open.spotify.com/track/5LGqFIVBf3ZUeFBpc87CFS) | [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [Supernatural](https://open.spotify.com/album/3SwBajIGtIPylPqzWS9V1i) | 3:36 |
-| 73 | [Superclassico](https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Gemelli](https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9) | 2:52 |
-| 74 | [Per dimenticare](https://open.spotify.com/track/6lrlFMu06aGPDH0phlCnct) | [Zero Assoluto](https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe) | [Sotto una pioggia di parole](https://open.spotify.com/album/2hym5VSeKDVm7TP2eAvVKr) | 3:31 |
+| 73 | [Per dimenticare](https://open.spotify.com/track/6lrlFMu06aGPDH0phlCnct) | [Zero Assoluto](https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe) | [Sotto una pioggia di parole](https://open.spotify.com/album/2hym5VSeKDVm7TP2eAvVKr) | 3:31 |
+| 74 | [Superclassico](https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Gemelli](https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9) | 2:52 |
 | 75 | [La tua canzone](https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [È sempre bello](https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy) | 3:12 |
 | 76 | [UN RAGAZZO UNA RAGAZZA](https://open.spotify.com/track/60NDVF7fFIq13aO9rIN80c) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [UN RAGAZZO UNA RAGAZZA](https://open.spotify.com/album/3tNnKTFodG4lOLiGM39yvV) | 3:37 |
 | 77 | [I P’ ME, TU P’ TE](https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [I P’ ME, TU P’ TE](https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13) | 3:07 |

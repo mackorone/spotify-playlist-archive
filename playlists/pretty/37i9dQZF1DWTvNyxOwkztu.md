@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,000,158 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,000,246 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 39 | [I Love You](https://open.spotify.com/track/0O4fJqz7sptID3Q3p4yaeL) | [Blewbird](https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W) | [I Love You](https://open.spotify.com/album/3WJvjcVRXWWoY5a1ZZ9k14) | 2:18 |
 | 40 | [A Glitch](https://open.spotify.com/track/2aIkJY5Fqg5F5r09nk47GG) | [Miller Ford](https://open.spotify.com/artist/6CsVE4PENAADboY4Pzq5Xy) | [A Glitch](https://open.spotify.com/album/3m5DMoORrvBiIaBDzDjDrv) | 3:18 |
 | 41 | [In Deep](https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds) | [Beachwax](https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr) | [In Deep](https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm) | 2:51 |
-| 42 | [Barracudas](https://open.spotify.com/track/64x1uZe5weXDU9S8dwyWYk) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Barracudas EP](https://open.spotify.com/album/1B0KEF9AAm5mesLSGo5hhJ) | 4:13 |
-| 43 | [Morning Workout](https://open.spotify.com/track/4ZWO4l9zqiT7S35qjvusjE) | [Luca Tong](https://open.spotify.com/artist/78nTrXqznv6NYSjGy1dLfl) | [Morning Workout](https://open.spotify.com/album/1rkT9Y5aXjnyBW44DhAh2L) | 2:42 |
-| 44 | [The Dream](https://open.spotify.com/track/6xtd91nRRlk0Qim5GjoaLF) | [Harry Cho](https://open.spotify.com/artist/1Fe0hOTqiOxyxu1nTdHq3q) | [The Dream](https://open.spotify.com/album/7ABM5ukoc9HtRaDCHGTiwk) | 2:46 |
+| 42 | [The Dream](https://open.spotify.com/track/6xtd91nRRlk0Qim5GjoaLF) | [Harry Cho](https://open.spotify.com/artist/1Fe0hOTqiOxyxu1nTdHq3q) | [The Dream](https://open.spotify.com/album/7ABM5ukoc9HtRaDCHGTiwk) | 2:46 |
+| 43 | [Barracudas](https://open.spotify.com/track/64x1uZe5weXDU9S8dwyWYk) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Barracudas EP](https://open.spotify.com/album/1B0KEF9AAm5mesLSGo5hhJ) | 4:13 |
+| 44 | [Morning Workout](https://open.spotify.com/track/4ZWO4l9zqiT7S35qjvusjE) | [Luca Tong](https://open.spotify.com/artist/78nTrXqznv6NYSjGy1dLfl) | [Morning Workout](https://open.spotify.com/album/1rkT9Y5aXjnyBW44DhAh2L) | 2:42 |
 | 45 | [Karma](https://open.spotify.com/track/7FoyKoMhQyDCSomTBYKVP1) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Karma](https://open.spotify.com/album/6AFwibLKtWYJVKdY9ChZGh) | 3:04 |
 | 46 | [Ghost \- Fejká Remix](https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Ghost \(Fejká Remix\)](https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV) | 4:43 |
 | 47 | [Beau](https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Beau](https://open.spotify.com/album/5BiZr5UfayYF60iP9624TT) | 2:32 |
@@ -72,14 +72,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 62 | [Liftoff](https://open.spotify.com/track/3uTGlHyPwijzXFQoMaROt1) | [Reel Waves](https://open.spotify.com/artist/3K4BBqiZQW1WEzeBMzfVho) | [Liftoff](https://open.spotify.com/album/0mpEDy0wUtGHbe5lj5nYIv) | 3:25 |
 | 63 | [Dreams](https://open.spotify.com/track/2HcHfWexQZ2UcjIvpZbxVI) | [Bjarne Hendrik](https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2) | [Dreams](https://open.spotify.com/album/61e2gK909Y2JMapY2jPw1b) | 3:27 |
 | 64 | [Running Faster](https://open.spotify.com/track/3vzdR4GaLtV4i0h5QKoSHv) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Running Faster](https://open.spotify.com/album/4EfzsnrxTIK5qMLZXSRHlK) | 2:20 |
-| 65 | [Discovery](https://open.spotify.com/track/4agnjzu5UKVuxPAiq6gre8) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Discovery](https://open.spotify.com/album/0T75iZGdnWmBK32aQA0i4f) | 2:31 |
-| 66 | [Calm](https://open.spotify.com/track/254ovkt2YPJeMAHdvuz5oe) | [Midnight Pass](https://open.spotify.com/artist/2F8qRDc5o9tYPuRiT4cvN6), [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf) | [Calm](https://open.spotify.com/album/78IwPOkrLSxRINhZS6iSKg) | 3:18 |
-| 67 | [The right mood](https://open.spotify.com/track/0lzMp9DVxuCFUXE1eztXjc) | [Alan Devale](https://open.spotify.com/artist/5KuppFlfwpXUiNaNsRwIiY) | [The right mood](https://open.spotify.com/album/3KXn4vx4FKBFhCpiWgzx3f) | 3:12 |
+| 65 | [Calm](https://open.spotify.com/track/254ovkt2YPJeMAHdvuz5oe) | [Midnight Pass](https://open.spotify.com/artist/2F8qRDc5o9tYPuRiT4cvN6), [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf) | [Calm](https://open.spotify.com/album/78IwPOkrLSxRINhZS6iSKg) | 3:18 |
+| 66 | [The right mood](https://open.spotify.com/track/0lzMp9DVxuCFUXE1eztXjc) | [Alan Devale](https://open.spotify.com/artist/5KuppFlfwpXUiNaNsRwIiY) | [The right mood](https://open.spotify.com/album/3KXn4vx4FKBFhCpiWgzx3f) | 3:12 |
+| 67 | [Waiting For](https://open.spotify.com/track/6WqVq2NOScKWQVlSwkPVj5) | [Eijk](https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Waiting For](https://open.spotify.com/album/4bs49fjwyDPQDYsPn5Qvji) | 2:24 |
 | 68 | [Hold Me Down](https://open.spotify.com/track/7ctUeZ8kwBfwS3ymOxqdWt) | [D.Polo](https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB) | [Hold Me Down](https://open.spotify.com/album/7MYSe2fPyBji4jffRM9L94) | 2:28 |
-| 69 | [Waiting For](https://open.spotify.com/track/6WqVq2NOScKWQVlSwkPVj5) | [Eijk](https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Waiting For](https://open.spotify.com/album/4bs49fjwyDPQDYsPn5Qvji) | 2:24 |
-| 70 | [Healing](https://open.spotify.com/track/7cSUVpfdsK8usnXfoAmA1s) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Healing](https://open.spotify.com/album/3DXtWneHovYGlzXMXsiB0c) | 2:50 |
-| 71 | [Curvature](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Curvature](https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5) | 2:33 |
-| 72 | [Floating In Space](https://open.spotify.com/track/4iUX9qCWkcwLkZCH8AFzCc) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V) | [Floating In Space](https://open.spotify.com/album/1bMdQiOFa3WLbiRmfO5GTb) | 2:32 |
+| 69 | [Healing](https://open.spotify.com/track/7cSUVpfdsK8usnXfoAmA1s) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Healing](https://open.spotify.com/album/3DXtWneHovYGlzXMXsiB0c) | 2:50 |
+| 70 | [Discovery](https://open.spotify.com/track/4agnjzu5UKVuxPAiq6gre8) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Discovery](https://open.spotify.com/album/0T75iZGdnWmBK32aQA0i4f) | 2:31 |
+| 71 | [Floating In Space](https://open.spotify.com/track/4iUX9qCWkcwLkZCH8AFzCc) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V) | [Floating In Space](https://open.spotify.com/album/1bMdQiOFa3WLbiRmfO5GTb) | 2:32 |
+| 72 | [Curvature](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Curvature](https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5) | 2:33 |
 | 73 | [Aquarium](https://open.spotify.com/track/3kAlWNK9bo5pEMwKvpgzNE) | [Kharfi](https://open.spotify.com/artist/0f8a3ifFUu8Cd2NVs4KPVC) | [AQUARIUM](https://open.spotify.com/album/4FtyDXorsIluXMZxpEAR4I) | 3:07 |
 | 74 | [Heaven](https://open.spotify.com/track/715a5BoI21BDN8GNbrJJ8G) | [fuse.](https://open.spotify.com/artist/7yLOR62W5h5j5Y4M8nHnAY) | [Heaven](https://open.spotify.com/album/1ZK9E83HhkuDmcqG8kXL51) | 2:16 |
 | 75 | [Lemonade](https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [In The Sun](https://open.spotify.com/album/3TRN4DHzeqsE1UZBq7Ach5) | 4:04 |
@@ -102,10 +102,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 92 | [Glassy Haze](https://open.spotify.com/track/4FILjWLfV7XwMXzIoJ5XH6) | [Kubicova](https://open.spotify.com/artist/4ml57BmL2HqNklJZjCbqYr) | [Glassy Haze](https://open.spotify.com/album/0lUWXiHBeZ9aW7TjY81pWf) | 2:33 |
 | 93 | [Your Light](https://open.spotify.com/track/15zgTTprtCpllRcMPUWG4f) | [Sunmoon](https://open.spotify.com/artist/5AUNYfOEjduhpVTnozqYxv), [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS) | [Your Light](https://open.spotify.com/album/6HZj6UYuBMmQFnj3Al8z6v) | 2:42 |
 | 94 | [Sunset Serene](https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Sunset Serene](https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG) | 2:06 |
-| 95 | [Calmy](https://open.spotify.com/track/4j18Cq3PmR4TmOz9ooec2P) | [Chris Luno](https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq) | [Calmy / Slowly](https://open.spotify.com/album/3UyHlhjnsAOdoxKoA5CpH0) | 3:28 |
-| 96 | [Looking For the Answer](https://open.spotify.com/track/2EKaizMj9CNyQQT72Fxo32) | [Camel Power Club](https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG) | [Looking For the Answer](https://open.spotify.com/album/5zPrKYINTfLGwbOg1HPzZ4) | 5:02 |
-| 97 | [lazy days](https://open.spotify.com/track/5fJoCtqF88ahLix2iwAHtz) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [lazy days](https://open.spotify.com/album/7kVqLYOuteo8X1RFyGdHEC) | 2:04 |
-| 98 | [Marlboro Sounds](https://open.spotify.com/track/1HujkaN1Tl4uceZqsHUv6w) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Marlboro Sounds](https://open.spotify.com/album/1IRVXzi2j3pP5Ic18P0oDM) | 6:03 |
+| 95 | [Looking For the Answer](https://open.spotify.com/track/2EKaizMj9CNyQQT72Fxo32) | [Camel Power Club](https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG) | [Looking For the Answer](https://open.spotify.com/album/5zPrKYINTfLGwbOg1HPzZ4) | 5:02 |
+| 96 | [Calmy](https://open.spotify.com/track/4j18Cq3PmR4TmOz9ooec2P) | [Chris Luno](https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq) | [Calmy / Slowly](https://open.spotify.com/album/3UyHlhjnsAOdoxKoA5CpH0) | 3:28 |
+| 97 | [Marlboro Sounds](https://open.spotify.com/track/1HujkaN1Tl4uceZqsHUv6w) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Marlboro Sounds](https://open.spotify.com/album/1IRVXzi2j3pP5Ic18P0oDM) | 6:03 |
+| 98 | [lazy days](https://open.spotify.com/track/5fJoCtqF88ahLix2iwAHtz) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [lazy days](https://open.spotify.com/album/7kVqLYOuteo8X1RFyGdHEC) | 2:04 |
 | 99 | [Distance](https://open.spotify.com/track/1t7dnSgClxQdMB4NYonJLn) | [Dreweybear](https://open.spotify.com/artist/5HDqj7lexto9EPJ42uS2dM) | [Distance](https://open.spotify.com/album/4CT0135sHX4XqxcZk2TYx9) | 3:49 |
 | 100 | [Cynnes](https://open.spotify.com/track/6EjqmQ7tyQUIOYo4jXDiX9) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Cynnes](https://open.spotify.com/album/1gBWP6CbeIFWedMHaR5FJ4) | 5:24 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 
 > This is Panter Bélico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,518 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,565 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 | 49 | [40 Años Y Contando](https://open.spotify.com/track/1lye9qYp6p05Boa4Jugn9P) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 3:41 |
 | 50 | [Acá Entre Nos](https://open.spotify.com/track/6EkflBPiKJi7JYfKq6Zpp9) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Mexicano](https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl) | 3:23 |
 
-Snapshot ID: `Z/BygAAAAAAZeiqha6tyMdQWTWGsvhHS`
+Snapshot ID: `Z/HEAAAAAADTR4BvJQ4hEvFzLBm98L5y`

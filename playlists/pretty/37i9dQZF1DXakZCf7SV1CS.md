@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,577 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,599 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 38 | [1:15](https://open.spotify.com/track/0TNFCRzOnlgu7W1K47sFnY) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [1:15](https://open.spotify.com/album/1UyLZP0hiJA0A2b6CWmQbU) | 2:10 |
 | 39 | [Dial Tone](https://open.spotify.com/track/4l5PZhHAxCnq5EAOdN0Clh) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Dial Tone](https://open.spotify.com/album/2ulrx76RxcL2JEVXh1igZI) | 2:58 |
 | 40 | [serialkilled](https://open.spotify.com/track/4DC73wRVLzJLollwd9LlLs) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [serialkilled](https://open.spotify.com/album/0oypx1kiUN5cstm7U5SO5i) | 1:47 |
-| 41 | [ihonestlymightjustgiveup](https://open.spotify.com/track/6AGhG5sCxbepvyjFilAVHq) | [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc) | [ihonestlymightjustgiveup](https://open.spotify.com/album/0QGw2PBUWwsxlbIP84SO7J) | 2:06 |
-| 42 | [Friday Night](https://open.spotify.com/track/1lgIlt243DVXg597hMx3Uf) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC) | [GFOTYBUCKS](https://open.spotify.com/album/2k5HlmocImUDMDh80YXFXH) | 3:25 |
+| 41 | [Friday Night](https://open.spotify.com/track/1lgIlt243DVXg597hMx3Uf) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC) | [GFOTYBUCKS](https://open.spotify.com/album/2k5HlmocImUDMDh80YXFXH) | 3:25 |
+| 42 | [ihonestlymightjustgiveup](https://open.spotify.com/track/6AGhG5sCxbepvyjFilAVHq) | [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc) | [ihonestlymightjustgiveup](https://open.spotify.com/album/0QGw2PBUWwsxlbIP84SO7J) | 2:06 |
 | 43 | [800 db cloud](https://open.spotify.com/track/2MLuFz9Y3Vg3PF0Yf93M5c) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:20 |
 | 44 | [detest me](https://open.spotify.com/track/0XZ5gv6EBByIEuSOIiYaon) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [detest me](https://open.spotify.com/album/4HeO25Tx14zJgMwiDO8NkV) | 1:58 |
 | 45 | [movinglikeazombie](https://open.spotify.com/track/2BVNa4XQsy01eGNJrdVwe1) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [hi, i'm dante](https://open.spotify.com/album/7y89IwnXil6Rg4Vw6LVKnV) | 1:56 |

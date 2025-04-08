@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 
 > This is Shane & Shane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,988 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,994 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,14 +22,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 | 12 | [I Will Wait for You \(Psalm 130\) \[Live\]](https://open.spotify.com/track/4FwOCO9W6aH5QSh7dix8ey) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns Live](https://open.spotify.com/album/4q4dWDNJcrxHnjO8zo3spx) | 6:18 |
 | 13 | [He Will Hold Me Fast](https://open.spotify.com/track/1Mp90z16Mneiqthtf7fOf9) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 4:42 |
 | 14 | [Before the Throne of God Above](https://open.spotify.com/track/3ELvknrrLz8QL36CeIb6Je) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 3](https://open.spotify.com/album/2qqe9Y7HEiUE4SKIa9EEgQ) | 5:42 |
-| 15 | [Psalm 139 \(Far Too Wonderful\)](https://open.spotify.com/track/3MS8o3UWQkGdFmhQ8vrFDP) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Vol\. 2](https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu) | 5:12 |
+| 15 | [Mighty to Save](https://open.spotify.com/track/30YQbcVnagrZXrFojO8cOT) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 7](https://open.spotify.com/album/3G89R4Q9ml11o8G646UeMv) | 4:58 |
 | 16 | [His Mercy Is More \(Live\)](https://open.spotify.com/track/663E0Tn2w7TyDSO4ATGiPD) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns Live](https://open.spotify.com/album/4q4dWDNJcrxHnjO8zo3spx) | 4:46 |
 | 17 | [In Christ Alone](https://open.spotify.com/track/5fPwGIyhL82FEuX3ITXyuX) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 4:36 |
-| 18 | [Mighty to Save](https://open.spotify.com/track/30YQbcVnagrZXrFojO8cOT) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 7](https://open.spotify.com/album/3G89R4Q9ml11o8G646UeMv) | 4:58 |
-| 19 | [Psalm 91 \(On Eagles' Wings\)](https://open.spotify.com/track/572afBiucwePeZgB1BBRfC) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Vol\. 2](https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu) | 4:04 |
-| 20 | [Worthy of It All \- Live](https://open.spotify.com/track/0adk2kXGdxRVILjoFUUeX4) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 25 \(Live\)](https://open.spotify.com/album/6AaJ2dqRVXDBEDC4HsaP7Q) | 6:21 |
-| 21 | [Is He Worthy \(Live\)](https://open.spotify.com/track/2biU8EO9TFZ6lMz8q6A92W) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns Live](https://open.spotify.com/album/4q4dWDNJcrxHnjO8zo3spx) | 4:53 |
-| 22 | [You're Beautiful](https://open.spotify.com/track/6PExqNUN5D4nqBTamndm6k) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 7](https://open.spotify.com/album/3G89R4Q9ml11o8G646UeMv) | 5:37 |
+| 18 | [Psalm 139 \(Far Too Wonderful\)](https://open.spotify.com/track/3MS8o3UWQkGdFmhQ8vrFDP) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Vol\. 2](https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu) | 5:12 |
+| 19 | [Worthy of It All \- Live](https://open.spotify.com/track/0adk2kXGdxRVILjoFUUeX4) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 25 \(Live\)](https://open.spotify.com/album/6AaJ2dqRVXDBEDC4HsaP7Q) | 6:21 |
+| 20 | [Is He Worthy \(Live\)](https://open.spotify.com/track/2biU8EO9TFZ6lMz8q6A92W) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns Live](https://open.spotify.com/album/4q4dWDNJcrxHnjO8zo3spx) | 4:53 |
+| 21 | [You're Beautiful](https://open.spotify.com/track/6PExqNUN5D4nqBTamndm6k) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 7](https://open.spotify.com/album/3G89R4Q9ml11o8G646UeMv) | 5:37 |
+| 22 | [Psalm 91 \(On Eagles' Wings\)](https://open.spotify.com/track/572afBiucwePeZgB1BBRfC) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Vol\. 2](https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu) | 4:04 |
 | 23 | [Come Thou Fount \(Above All Else\)](https://open.spotify.com/track/5yZcK6LIBxD6Ia5vYuEr6v) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 5:51 |
 | 24 | [Breathe](https://open.spotify.com/track/3GrMFCWoIh0YHULGsAuHj0) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage](https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu) | 5:38 |
 | 25 | [Promises](https://open.spotify.com/track/4lCpzh6KbskACgEx1OAPHu) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Trenton Bell](https://open.spotify.com/artist/5erQxNPoPplRxZ7eS4c37M), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [The Worship Initiative, Vol\. 22](https://open.spotify.com/album/0CmnHXF54fEkpmW2qNwwSp) | 5:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 | 49 | [Psalm 84 \(I'm Home\)](https://open.spotify.com/track/6BaCssQMVGSLNElXyrmmGF) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 5:02 |
 | 50 | [Be Thou My Vision \(Lord You Are\) \[Acoustic\]](https://open.spotify.com/track/73O5yQB96iucUM1EGwVNhK) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns in the Round](https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf) | 4:13 |
 
-Snapshot ID: `Z/BygAAAAAC19VrBNJqpVjUvu2+nE9/z`
+Snapshot ID: `Z/HEAAAAAAC+q+svw/6Lm5QuugdeSkZ6`

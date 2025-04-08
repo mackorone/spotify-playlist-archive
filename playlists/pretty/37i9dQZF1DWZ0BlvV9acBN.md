@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: AtituD
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,402 likes - 70 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,416 likes - 70 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

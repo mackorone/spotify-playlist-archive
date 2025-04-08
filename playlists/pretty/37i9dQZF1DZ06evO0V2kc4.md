@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 
 > This is Joan Baez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,330 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,354 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 49 | [One Too Many Mornings](https://open.spotify.com/track/2EEwfPipVVar4QgttlX7UR) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 3:13 |
 | 50 | [O Brother!](https://open.spotify.com/track/3jCJ7aVeifPBOz85jocPFo) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gulf Winds](https://open.spotify.com/album/54L1BlmPFkgJ2HznanXsRG) | 3:20 |
 
-Snapshot ID: `Z/BygAAAAACrLbUacvOI5FDSDtG+nmCr`
+Snapshot ID: `Z/HEAAAAAACXaOfrfPZcoiKTfErh2rnh`

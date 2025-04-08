@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,645 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,659 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 49 | [Yo sé](https://open.spotify.com/track/5DdLSEyKh8zgCrJq2hFj92) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E) | [Yo sé](https://open.spotify.com/album/4NHI7kUT9UsxlgKgDnaJdv) | 2:09 |
 | 50 | [Orion](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Orion](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 |
 
-Snapshot ID: `L4XuIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L4c/oAAAAAAAAAAAAAAAAAAAAAAAAGVu`

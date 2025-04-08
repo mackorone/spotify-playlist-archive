@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 ### [노래방 인기가요 \(Karaoke K\-Pop Bests\)](https://open.spotify.com/playlist/37i9dQZF1DWXaehqeJpkro)
 
-> 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: Hwang Ga Ram\(황가람\)\)
+> 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: ZO ZAZZ\(조째즈\)\)
 
 [Spotify](https://open.spotify.com/user/spotify) - 228,544 likes - 212 songs - 14 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I\`m Firefly](https://open.spotify.com/track/27QLNrvWbFcwOYr8RpOpxg) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [I\`m Firefly](https://open.spotify.com/album/1GJArSrDSNTyWeTvGeenAT) | 3:35 |
-| 2 | [Don\`t you know\(PROD.ROCOBERRY\)](https://open.spotify.com/track/5jviSlh6YAznFM8JtMBEqV) | [ZO ZAZZ](https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf) | [Don\`t you know](https://open.spotify.com/album/2z9U8RSPOJnFZcHbQbh9Gw) | 5:01 |
+| 1 | [Don\`t you know\(PROD.ROCOBERRY\)](https://open.spotify.com/track/5jviSlh6YAznFM8JtMBEqV) | [ZO ZAZZ](https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf) | [Don\`t you know](https://open.spotify.com/album/2z9U8RSPOJnFZcHbQbh9Gw) | 5:01 |
+| 2 | [I\`m Firefly](https://open.spotify.com/track/27QLNrvWbFcwOYr8RpOpxg) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [I\`m Firefly](https://open.spotify.com/album/1GJArSrDSNTyWeTvGeenAT) | 3:35 |
 | 3 | [Drowning](https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [OO\-LI](https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4) | 4:04 |
 | 4 | [Heavenly fate](https://open.spotify.com/track/4mqfe9XrgEOSsofvq5MyjR) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [Heavenly fate \(Original Soundtrack from the Webtoon A Not So Fairy Tale\)](https://open.spotify.com/album/6R3XGAZh7OzZBQiN8Ucbkq) | 4:31 |
 | 5 | [남자를 몰라](https://open.spotify.com/track/14X8vgIFfedRp3Yh8ocLYw) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [Perfect](https://open.spotify.com/album/3REFgNSvxgTma5ABhy3u4W) | 4:12 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 58 | [AK47](https://open.spotify.com/track/58JkIC1jK1NZNSJeLXfpWt) | [Men's Tear](https://open.spotify.com/artist/3Kf9OnmHudWe9wrpPOtEtc), [뷰티풀너드](https://open.spotify.com/artist/7pA8ZjAUu7fzSOd8uQgQJY) | [AK47](https://open.spotify.com/album/4EjOYpSg7rQvMxz74rb4mc) | 2:40 |
 | 59 | [Event Horizon](https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album Repackage 'END THEORY : Final Edition'](https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c) | 5:00 |
 | 60 | [Flower in the Desert \- Kor Version](https://open.spotify.com/track/7M3POeMOBCs6pwtDkVhBTi) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Flower in the Desert](https://open.spotify.com/album/5MJEKw6CnDkmjDBl4LwVnM) | 4:19 |
-| 61 | [그런 일은](https://open.spotify.com/track/7EuKuQoLBvmoWU4gkzf7QR) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [THE GOLD](https://open.spotify.com/album/7yuXDQSaXIn9OrS6XidewE) | 4:22 |
+| 61 | [그런 일은](https://open.spotify.com/track/7EuKuQoLBvmoWU4gkzf7QR) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [THE GOLD \(ORIGINAL RECORDING REMASTERED\)](https://open.spotify.com/album/7yuXDQSaXIn9OrS6XidewE) | 4:22 |
 | 62 | [이미 슬픈 사랑](https://open.spotify.com/track/4OKJVnIyO8KRq182dstNOI) | [야다](https://open.spotify.com/artist/3YB77fanbqqyPS7NstYpOE) | [Wear To Healing](https://open.spotify.com/album/2AnkRwvtuLl5DwmrwSRndo) | 4:03 |
 | 63 | [Dial Your Number](https://open.spotify.com/track/2WRag4aQzatDf8SZV7ohbb) | [\#Annyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Dial Your Number](https://open.spotify.com/album/6CpymtDyQXAKL3GNYZlCtj) | 4:09 |
 | 64 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 |
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 211 | [미워요 I Hate You](https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [정인 Jung In from Andromeda](https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD) | 3:22 |
 | 212 | [시작](https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9) | 3:22 |
 
-Snapshot ID: `Z+4YhwAAAAC0zotGyUL4WchRoo6PV0Qq`
+Snapshot ID: `Z/NvhAAAAABdECvDoFFpn3V4uNXqHoKl`

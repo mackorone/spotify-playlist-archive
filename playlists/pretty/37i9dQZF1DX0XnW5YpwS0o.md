@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 
 > The Indie highlights of 2016\. Cover: AURORA
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,860 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,897 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 | 94 | [Sleep On The Floor](https://open.spotify.com/track/44uOreAESeRIBaxkuCW4wN) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO) | 3:31 |
 | 95 | [Guru](https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Coast Modern](https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2) | 3:24 |
 | 96 | [Somebody Else](https://open.spotify.com/track/34i4yxPrHWquuR4kjiivFO) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Somebody Else](https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU) | 3:53 |
-| 97 | [Shut Up Kiss Me](https://open.spotify.com/track/5uZLsGY9fknBd5Rxr7AIss) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [MY WOMAN](https://open.spotify.com/album/5M8xQaQZuW2LZGVXZ3mlKN) | 3:22 |
-| 98 | [8 \(circle\)](https://open.spotify.com/track/47IklCMgkgWvI4jpkdrop0) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG) | 5:09 |
+| 97 | [8 \(circle\)](https://open.spotify.com/track/47IklCMgkgWvI4jpkdrop0) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG) | 5:09 |
+| 98 | [Drunk Drivers/Killer Whales](https://open.spotify.com/track/2os0aK782bakCPmjow0SU0) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Teens of Denial](https://open.spotify.com/album/26DseQO366JfXwIP7dIgQj) | 6:14 |
 | 99 | [Cleopatra](https://open.spotify.com/track/5bzf1xrbqr1ttjAJuRz2xY) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO) | 3:21 |
-| 100 | [Flame](https://open.spotify.com/track/2yf63OXOJ7F7dYz9UbwlBB) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Flame](https://open.spotify.com/album/2iZkVBCd88F8qnnJV9Vxje) | 3:47 |
+| 100 | [Your Best American Girl](https://open.spotify.com/track/172rW45GEnGoJUuWfm1drt) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/16i5KnBjWgUtwOO7sVMnJB) | 3:32 |
 
 Snapshot ID: `Z9NVYQAAAADdFAMCtO6haDYEgb6j5pTs`

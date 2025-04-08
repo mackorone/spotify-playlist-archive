@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 6,570 songs - 17 day 4 hr 29 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 6,571 songs - 17 day 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3322,8 +3322,8 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 3312 | [Impurities](https://open.spotify.com/track/7mYwDmbbp8UPLlnRjTJ54X) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:16 |
 | 3313 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
 | 3314 | [Bittersweet \- Live](https://open.spotify.com/track/7xHJfpe6qc7FI1naQPDNDp) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Live At The Roundhouse](https://open.spotify.com/album/0FBoE1ZlpLdy29UGDOQyB6) | 4:42 |
-| 3315 | [샴푸의 요정](https://open.spotify.com/track/6V9C5rcCQkf3eJSmcAkCf4) | [Light & Salt](https://open.spotify.com/artist/0jhgI3xU8n2o1W6EOw9dIf) | [빛과 소금](https://open.spotify.com/album/43StLW2LdY30M1GIf7xSh7) | 3:47 |
-| 3316 | [내곁에서 떠나가지 말아요](https://open.spotify.com/track/5Fueys8hH4sRnRrDa1l8GR) | [Light & Salt](https://open.spotify.com/artist/0jhgI3xU8n2o1W6EOw9dIf) | [빛과 소금 \(꿈\)](https://open.spotify.com/album/7cyTBPJPne4c6pJPedwZDO) | 4:19 |
+| 3315 | [샴푸의 요정](https://open.spotify.com/track/6V9C5rcCQkf3eJSmcAkCf4) | [Light & Salt](https://open.spotify.com/artist/0jhgI3xU8n2o1W6EOw9dIf) | [빛과 소금 1](https://open.spotify.com/album/43StLW2LdY30M1GIf7xSh7) | 3:47 |
+| 3316 | [모터 사이클 \- inst.](https://open.spotify.com/track/5Fueys8hH4sRnRrDa1l8GR) | [Light & Salt](https://open.spotify.com/artist/0jhgI3xU8n2o1W6EOw9dIf) | [내곁에서 떠나가지 말아요](https://open.spotify.com/album/7cyTBPJPne4c6pJPedwZDO) | 4:13 |
 | 3317 | [ラブレター](https://open.spotify.com/track/4epEfVufvFE6MRLRSAsRcs) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Jukebox](https://open.spotify.com/album/1r811zsBkeiS2leBNkg7YN) | 5:43 |
 | 3318 | [SWEET MEMORIES](https://open.spotify.com/track/0r2Z0tJBVtN0PFbIZGGTDj) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [SWEET MEMORIES](https://open.spotify.com/album/5LXTYJDNC7ISWYhXusJQbb) | 4:09 |
 | 3319 | [スパークル](https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [スパークル](https://open.spotify.com/album/0HmvMEiGowPfT2UvYNRDcv) | 3:33 |
@@ -4314,7 +4314,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 4304 | [흩어진 나날들](https://open.spotify.com/track/59LCK6UpQY1qhGPEp66AZp) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Neo Classicism](https://open.spotify.com/album/26KTR4BV6sZ7jh0BxO3zIj) | 3:51 |
 | 4305 | [눈의 꽃](https://open.spotify.com/track/2fRFwWwZG7Qfkui7GcxTMy) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Sorry, I Love You \(Original Television Soundtrack\)](https://open.spotify.com/album/6n02ahS5uuUlGCZCwDcGf3) | 5:39 |
 | 4306 | [오늘같은 밤이면\(그리움\)](https://open.spotify.com/track/1u7iNnJrdfJcuqSvtFIo3P) | [Park Jungwoon](https://open.spotify.com/artist/3tn8Fgx0RgS2Peo0juHV0h) | [먼훗날에/오늘 같은 밤이면](https://open.spotify.com/album/4BmQrl6p80eNzhRfG1WeN9) | 4:48 |
-| 4307 | [오늘같은 밤이면](https://open.spotify.com/track/6yOlcQulu1zEg0vBRIyVL9) | [Park Jungwoon](https://open.spotify.com/artist/3tn8Fgx0RgS2Peo0juHV0h) | [박정운 Live & Single](https://open.spotify.com/album/0dE8ws1ojmSQeVRWVolDPG) | 4:54 |
+| 4307 | [오늘 같은 밤이면 \- Live](https://open.spotify.com/track/6yOlcQulu1zEg0vBRIyVL9) | [Park Jungwoon](https://open.spotify.com/artist/3tn8Fgx0RgS2Peo0juHV0h) | [박정운 Live & Single](https://open.spotify.com/album/0dE8ws1ojmSQeVRWVolDPG) | 4:54 |
 | 4308 | [Blue Sky](https://open.spotify.com/track/0x1Gb4xZZb4257E8SW2wBb) | [Park Ki Young](https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN) | [Acoustic + Best](https://open.spotify.com/album/6P8zCau4f54xVFKiJ2on9V) | 3:33 |
 | 4309 | [Lonely Night \(하트다 하트여왕\)](https://open.spotify.com/track/2rms1ck3DMOEVgi5ulRZne) | [Park Ki Young](https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN) | [Mask Singer 90th \(Live Version\)](https://open.spotify.com/album/5ln5pjg7Get7VF52w7cpkP) | 4:17 |
 | 4310 | [beginning](https://open.spotify.com/track/2BtlbxJF9yfPNbza29VmoR) | [Park Ki Young](https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN) | [Promise](https://open.spotify.com/album/5teS918UxfihkdCYzHIwde) | 3:26 |
@@ -6578,5 +6578,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 6568 | [Great Gatsby](https://open.spotify.com/track/4M68xjcc42oxyphhzpOWXS) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Nostalgia](https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv) | 2:26 |
 | 6569 | [STREET SWEEPER \(feat\. Future\)](https://open.spotify.com/track/3pjzb1lnMOJbWbghMGSp23) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 3:12 |
 | 6570 | [The Way](https://open.spotify.com/track/06EL94D0TA27Ik0Ke5usbj) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Yours Truly](https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A) | 3:47 |
+| 6571 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 |
 
-Snapshot ID: `AAAEDuiMr2jeDw7u+m2XQbfxMjeqjjal`
+Snapshot ID: `AAAEDxJe6fV8ooyAmd0xotDgg/FBirCf`

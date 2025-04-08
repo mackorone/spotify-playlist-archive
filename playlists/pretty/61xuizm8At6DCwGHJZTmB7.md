@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2025 \| Happy Easter 2025! Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 119,054 likes - 97 songs - 8 hr 30 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 119,052 likes - 97 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 55 | [Home \- Live](https://open.spotify.com/track/2H4oT4MBg4Y3chgEOj5M6G) | [The Heritage](https://open.spotify.com/artist/7MHGumVnrmZttVe3ez5VSJ) | [Home \(Live\)](https://open.spotify.com/album/2VvgiNougNmTHTalEMDqsz) | 4:07 |
 | 56 | [Firm Foundation \(He Won't\) / Great Are You Lord \- Live From Europe](https://open.spotify.com/track/4sU6H9CJDHOuzNjKoP1rsV) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Live From Europe](https://open.spotify.com/album/5htXe6Yr7XvTglqWJs2JBB) | 8:30 |
 | 57 | [Pray You Never Leave](https://open.spotify.com/track/2VfuplNtg5McYruOmm90QM) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [Without You & Pray You Never Leave](https://open.spotify.com/album/6wwnMCgf9B8Y3DxqKONZsi) | 4:00 |
-| 58 | [There's Nothing That Our God Can't Do \- Live](https://open.spotify.com/track/5aUqYhmMFK5EtwTontD4Qg) | [Lauren Scott](https://open.spotify.com/artist/0Vq8DEWnKp1Z4SlfYxyQIa), [Women Who Worship](https://open.spotify.com/artist/7JHvic6eP3yMrUCrRFtdbp) | [There's Nothing That Our God Can't Do \(Live\)](https://open.spotify.com/album/3byTbxSvcexHWoEsF9xCyX) | 4:27 |
+| 58 | [There's Nothing That Our God Can't Do \- Live](https://open.spotify.com/track/5aUqYhmMFK5EtwTontD4Qg) | [Lauren Scott](https://open.spotify.com/artist/0g5idGNUMcwFCAYsHtRDaX), [Women Who Worship](https://open.spotify.com/artist/7JHvic6eP3yMrUCrRFtdbp) | [There's Nothing That Our God Can't Do \(Live\)](https://open.spotify.com/album/3byTbxSvcexHWoEsF9xCyX) | 4:27 |
 | 59 | [Known By You \- Live](https://open.spotify.com/track/0vOw510PyX1EIuRZwURX9H) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Known By You \(Live\)](https://open.spotify.com/album/3CJaSJ6sruq0ntn4BzbQfl) | 10:59 |
 | 60 | [Happily Hidden \(with John Mark McMillan\)](https://open.spotify.com/track/1KSbEDEuafGfz2fuioe5uK) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Happily Hidden](https://open.spotify.com/album/5fCirlLG6ch2MFWyOA5B9b) | 3:53 |
 | 61 | [One Thing Remains](https://open.spotify.com/track/1bVVKpdOuQ77Ti3kcTdfTy) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [One Thing Remains](https://open.spotify.com/album/7ssexdoSq9DKVkKXR0b4Sm) | 3:59 |

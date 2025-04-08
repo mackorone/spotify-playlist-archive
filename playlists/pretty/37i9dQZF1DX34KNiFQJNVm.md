@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem PEDRO SAMPAIO com Anitta e Mc Gw, Marina Sena, Mari Fernandez e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,054,146 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,054,249 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

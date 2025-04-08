@@ -4,7 +4,7 @@
 
 > put it on and let it play.
 
-905 songs - 2 day 5 hr 41 min
+906 songs - 2 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Dear To Me](https://open.spotify.com/track/5n2kAftaxSkdW4443xGxy4) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Plural](https://open.spotify.com/album/3Vk3O4odIVWLzg2hWFfMVy) | 4:01 | 2020-10-05\* | 2021-05-27 |
 | [Deep Down \- Blood Orange Remix](https://open.spotify.com/track/1qDXiACY4IrRsQ6mfTXrqA) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [McCartney III Imagined](https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT) | 4:24 | 2021-05-08 | 2022-07-29 |
 | [Deep Green](https://open.spotify.com/track/6olfcPXDS2hOulkVtthQFt) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Deep Green](https://open.spotify.com/album/43wRQ283s6gZf533jvbAY6) | 3:59 | 2020-10-05\* | 2020-10-06 |
+| [DEEP IN YOUR SOUL](https://open.spotify.com/track/0tbar3AoobXRjfhlh7b95g) | [alan vuong](https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8) | [DEEP IN YOUR SOUL](https://open.spotify.com/album/6JLiizUymfvS5qOqO0hdGW) | 3:11 | 2025-04-07 |  |
 | [Delete Forever](https://open.spotify.com/track/6pBaH4u4WIFDxzwDaazekR) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/1ZKbjlrUC5REoa13uSH5KL) | 3:57 | 2020-10-16 | 2022-04-21 |
 | [Deliverance](https://open.spotify.com/track/1ul6ZsL4SybkiVTCzYTLyN) | [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [Deliverance](https://open.spotify.com/album/4n31uRezdDxre4a1WN9Mp0) | 2:44 | 2021-04-15 | 2022-07-28 |
 | [Deserve You](https://open.spotify.com/track/0SYvQ4QBVJhsAEUPonXh63) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Deserve You](https://open.spotify.com/album/4GJLgga05CwlkBSHrR4eIp) | 2:31 | 2021-05-04 | 2022-04-20 |
@@ -509,7 +510,7 @@
 | [Lucy](https://open.spotify.com/track/0nXyCNdS6fkZNP11DwGq1i) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Lucy](https://open.spotify.com/album/5hM5ssh6iYFAQSPerkaWbx) | 2:22 | 2020-10-16 | 2022-04-20 |
 | [Lucy](https://open.spotify.com/track/5RxpYHVbGJPOvSEATQyg9P) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Lucy](https://open.spotify.com/album/4VPzKudemKpbuuyEHIhFSU) | 2:22 | 2022-07-25 | 2022-11-19 |
 | [Lung](https://open.spotify.com/track/4Pi72tLDcxfsIlYgoDYlcY) | [j\. pastel](https://open.spotify.com/artist/4e0F3Bqyp0BpE3VmNh4qKS) | [Lung](https://open.spotify.com/album/0pnr5IIqUTcYdHx2wGGxAw) | 2:49 | 2022-03-07 | 2022-04-15 |
-| [lvl 6 \- VIDEO GAMES](https://open.spotify.com/track/4rUzVbdbpROiDvrn6EqMsH) | [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [lvl 6 \- VIDEO GAMES](https://open.spotify.com/album/4qqSFJ9ylEJoW2PB0vid5I) | 3:39 | 2025-03-14 |  |
+| [lvl 6 \- VIDEO GAMES](https://open.spotify.com/track/4rUzVbdbpROiDvrn6EqMsH) | [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [lvl 6 \- VIDEO GAMES](https://open.spotify.com/album/4qqSFJ9ylEJoW2PB0vid5I) | 3:39 | 2025-03-14 | 2025-04-08 |
 | [Mad](https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Mad](https://open.spotify.com/album/268yQJnYEw2Zdu8ZPwyifa) | 3:48 | 2021-06-25 | 2022-04-11 |
 | [Madonna](https://open.spotify.com/track/3FvmEqbtSbggcZUnevF5Ng) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Madonna](https://open.spotify.com/album/36SBlWuy1LGn4GAOfVeJFb) | 3:03 | 2024-01-02 | 2024-05-07 |
 | [Madonna](https://open.spotify.com/track/0cmFvQp6vy6TuwcGGdACZ6) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Hole Erth](https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe) | 2:52 | 2024-10-04 | 2025-03-13 |

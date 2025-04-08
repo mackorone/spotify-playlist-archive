@@ -4,7 +4,7 @@
 
 > Celebrating women at the center of innovation in electronic music\. Featuring KI/KI.
 
-554 songs - 1 day 11 hr 7 min
+555 songs - 1 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [2k Garage](https://open.spotify.com/track/00X8YRar9dwc5GB6kPOv9f) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Skylines \- Citylights](https://open.spotify.com/album/2DZy15GXtChjNiM5tH2hKV) | 5:21 | 2022-03-08 | 2024-03-02 |
 | [2k Garage](https://open.spotify.com/track/3mSqPPhBXQ7oPZ3IUa1TtC) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Skylines \- Citylights](https://open.spotify.com/album/5GQK9Gh0x3h8kGJLnID2S0) | 5:21 | 2021-03-01 | 2022-07-29 |
 | [360](https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [360](https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6) | 2:13 | 2024-05-10 | 2024-07-13 |
-| [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 | 2024-07-05 |  |
+| [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 | 2024-07-05 | 2025-04-08 |
 | [365 featuring shygirl](https://open.spotify.com/track/5xyaPwLmgoyGlDDu2H0Uix) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:01 | 2024-10-11 |  |
 | [4 My Soul](https://open.spotify.com/track/329KrhYueaSPsJj8gX9EGo) | [SOHMI](https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK) | [4 My Soul](https://open.spotify.com/album/3XdUpYv7ghYvgaKwn8BBdn) | 3:00 | 2024-10-25 | 2025-03-22 |
 | [About Work The Dancefloor \- The Blessed Madonna Remix \(Edit\)](https://open.spotify.com/track/58uvwTRUJLYy7dCe4L052M) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [About Work The Dancefloor \(The Blessed Madonna Remix\)](https://open.spotify.com/album/1gb9PQawrh5AldGrdrlzxP) | 3:29 | 2021-03-01 | 2023-03-08 |
@@ -28,6 +28,7 @@
 | [Air Tight](https://open.spotify.com/track/0gethz2jDq9MFbhvRc9tk9) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [Prism of Pleasure](https://open.spotify.com/album/0fGG1bH61jnLMW2cvpB6Er) | 3:54 | 2024-06-07 | 2024-07-13 |
 | [All Away](https://open.spotify.com/track/5NuCPZenjbGUFoU1VaxGLr) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [All Away](https://open.spotify.com/album/2rHpVUUXgtzSLs3c71qYAQ) | 3:40 | 2024-03-01 | 2024-04-27 |
 | [All Good](https://open.spotify.com/track/0E1R3RC1YxQ6nIJ2ZDbDjF) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [All Good](https://open.spotify.com/album/4KyYJbYmodLczcw5HLkkzI) | 4:31 | 2023-03-07 | 2024-03-02 |
+| [All I Am](https://open.spotify.com/track/7z1knymHRO7iuMys6dnanT) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [All I Am](https://open.spotify.com/album/1F5otXEI2rOJD3LOJafnM4) | 3:02 | 2025-04-07 |  |
 | [All My Friends Are Hot](https://open.spotify.com/track/2bRM3rvHhI9cb2TCnnZIAR) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [All My Friends Are Hot](https://open.spotify.com/album/73VTNr5Sfek6XuuudiVaM0) | 2:59 | 2024-06-07 |  |
 | [All my friends know \- Anz Remix](https://open.spotify.com/track/1U6hIpPWukivILVMgkzpAp) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [to hell with it \(Remixes\)](https://open.spotify.com/album/3KP55PNM7vdlrIm1LavDzb) | 5:11 | 2022-03-08 | 2023-03-08 |
 | [All Of Me](https://open.spotify.com/track/07H6zHibXp6CkzTiRoc5Nh) | [Carly Wilford](https://open.spotify.com/artist/0kDLD7hkKb5cLyEMMi8iFN), [Mary Leay](https://open.spotify.com/artist/1qBdIvxju8AHbU7Zes7yF7) | [All Of Me](https://open.spotify.com/album/2yPbsIMTxSlmO4AW2w89Yd) | 3:17 | 2024-03-01 | 2024-06-08 |

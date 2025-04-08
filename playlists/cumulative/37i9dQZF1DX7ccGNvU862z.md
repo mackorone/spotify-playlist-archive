@@ -2,9 +2,9 @@
 
 ### [ฮิปฮอป R.E.A.L\. ](https://open.spotify.com/playlist/37i9dQZF1DX7ccGNvU862z)
 
-> เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: Saran, Z9
+> เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: MILLI
 
-600 songs - 1 day 9 hr 8 min
+602 songs - 1 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [No Joke](https://open.spotify.com/track/7AIapZx4j6AvZ0R9xXqH5E) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX), [4BANG](https://open.spotify.com/artist/79jZrupKGTRsyOsJV1OwGK) | [No Joke](https://open.spotify.com/album/1eh7jRTdamrQ869WvhzOQk) | 2:32 | 2023-12-15 | 2023-12-22 |
 | [NO MORE](https://open.spotify.com/track/5z5hxac1RUFISePu7zcUCz) | [LIL X](https://open.spotify.com/artist/019QowkYEQYYiV8rhNg4ZT) | [NO MORE](https://open.spotify.com/album/7Idybnf7T1il67ONQTUrI8) | 2:34 | 2024-03-29 | 2025-03-23 |
 | [No more lie](https://open.spotify.com/track/0WA2aprPA5mSr49EI4Rm3W) | [NICECNX](https://open.spotify.com/artist/0BFJirAb0i0oxwxTNINooQ) | [No more lie](https://open.spotify.com/album/2gO113zuLOSiUp1xORzGSj) | 2:34 | 2025-03-07 | 2025-03-22 |
-| [No more pills](https://open.spotify.com/track/10UtKCFK3n6JDo3LDaZKMA) | [Young J](https://open.spotify.com/artist/5nYImteGVIjH7sXrD9quLp) | [No more pills](https://open.spotify.com/album/2ajm8w8n24dJ4fMFJ0b5N5) | 2:32 | 2025-03-28 |  |
+| [No more pills](https://open.spotify.com/track/10UtKCFK3n6JDo3LDaZKMA) | [Young J](https://open.spotify.com/artist/5nYImteGVIjH7sXrD9quLp) | [No more pills](https://open.spotify.com/album/2ajm8w8n24dJ4fMFJ0b5N5) | 2:32 | 2025-03-28 | 2025-04-08 |
 | [No Ticket For Haters](https://open.spotify.com/track/4ImW2yBela9S0sVPRJojMa) | [S2](https://open.spotify.com/artist/1LArok4vLyLUV16idPqEWf) | [No Ticket For Haters](https://open.spotify.com/album/09PWjPIwWlpLN7bN01AS7d) | 2:11 | 2024-09-27 | 2024-10-05 |
 | [Nobap](https://open.spotify.com/track/6afj1Hm7tb1lh0JDmByrMR) | [UNLITLED](https://open.spotify.com/artist/2C2dcZZgvkii4wU2Z0l6Dt) | [Nobap](https://open.spotify.com/album/3GdV4Pjn8Rz0VowVwxtFdF) | 2:58 | 2023-12-28 | 2024-01-06 |
 | [NOBODY CARES](https://open.spotify.com/track/03mv4FBSZ2o3uhwtv9I7c0) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr), [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [DREAMGALS](https://open.spotify.com/album/1wO0DoelfsTdP5v858tgEB) | 3:00 | 2024-08-02 | 2024-08-10 |
@@ -190,6 +190,7 @@
 | [One Day](https://open.spotify.com/track/4JjsTrUcrLM8OGuJjjfXKk) | [Ben Bizzy](https://open.spotify.com/artist/7IFeTLxFc5Qn00yznSbNO6) | [One Day](https://open.spotify.com/album/3jVjKSg3PSdq1shyMIa9Rz) | 2:15 | 2024-05-31 | 2024-07-13 |
 | [ONE GIRL](https://open.spotify.com/track/021QfEXbcQjwwUHmXuDswD) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [2T FLOW](https://open.spotify.com/artist/1ymRpNPlxJRVT00kmJk8AZ), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [ONE GIRL](https://open.spotify.com/album/64UN1Mt9T5qVw21N7JVpEA) | 4:22 | 2024-09-06 |  |
 | [One Of My Life](https://open.spotify.com/track/6Mm77XGJld1QxvKyMrYbFj) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [K6Y](https://open.spotify.com/artist/0QxCgzdTynqgvj1OWRllYt) | [One Of My Life](https://open.spotify.com/album/1CoVcH5nmOxaKBc6Z6TJMQ) | 3:36 | 2024-12-20 |  |
+| [ONE PUNCH](https://open.spotify.com/track/44C7nyBi1lM7fFUV0v0aoh) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [ONE PUNCH](https://open.spotify.com/album/42IzizWuuGBaE3wpC3iRBX) | 2:20 | 2025-04-07 |  |
 | [Orchids](https://open.spotify.com/track/6fMVcgkOxy7qz0qhpSaygy) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [Orchids](https://open.spotify.com/album/0nXX5JcfzRM5LNl2UOSffB) | 2:57 | 2024-10-04 | 2024-10-19 |
 | [Panda](https://open.spotify.com/track/0byfjONn73qk3OpcKLpvdh) | [DIAMOND MQT](https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c) | [Panda](https://open.spotify.com/album/0vj7tKmyu6jVhyK2X13IvZ) | 2:34 | 2023-12-21 | 2024-03-30 |
 | [Paradise](https://open.spotify.com/track/2c9RqPjO25loSYoDBGsTfz) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [1ST](https://open.spotify.com/artist/6GEqJ0hYYy7rnPPnCm1zV0) | [Paradise](https://open.spotify.com/album/2theBhvWuCslSsbDRn7mPm) | 4:08 | 2023-09-22 | 2024-03-30 |
@@ -264,7 +265,7 @@
 | [Victoria's Secret](https://open.spotify.com/track/6fON5gco8TNy1di0oBUr1Y) | [DIAMOND MQT](https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c) | [Victoria's Secret](https://open.spotify.com/album/7JBb6bcmMzDErwyR6u5YJs) | 3:54 | 2023-09-22 | 2024-10-05 |
 | [Vivienne Westwood](https://open.spotify.com/track/6gf3gCFZloUNpXnrZZd15z) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [Vivienne Westwood](https://open.spotify.com/album/6yRUPMoKD3euuXHpnyJsRY) | 2:37 | 2024-03-01 | 2024-03-15 |
 | [W.R.U](https://open.spotify.com/track/3TNY1J6fOPVhiGcnMluLwL) | [DIAMOND MQT](https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [W.R.U](https://open.spotify.com/album/1f2s3KUwsPLLy22vbOXg7g) | 4:17 | 2023-09-22 | 2025-03-22 |
-| [Wannabe](https://open.spotify.com/track/2iir5VG9u3K4Oqs2R4Vdf2) | [Rap Is Now](https://open.spotify.com/artist/6WEHKzjzHXaAv9M9bJRYxj), [FTP Southboy](https://open.spotify.com/artist/0pRg4hm8kbkjvvkUQaRekP) | [Wannabe](https://open.spotify.com/album/3XaOTJRtz2JOI1LC5yY1JR) | 4:04 | 2025-03-21 |  |
+| [Wannabe](https://open.spotify.com/track/2iir5VG9u3K4Oqs2R4Vdf2) | [Rap Is Now](https://open.spotify.com/artist/6WEHKzjzHXaAv9M9bJRYxj), [FTP Southboy](https://open.spotify.com/artist/0pRg4hm8kbkjvvkUQaRekP) | [Wannabe](https://open.spotify.com/album/3XaOTJRtz2JOI1LC5yY1JR) | 4:04 | 2025-03-21 | 2025-04-08 |
 | [Want Me](https://open.spotify.com/track/2CRck7tuDTa354QpXij69Q) | [Chanan](https://open.spotify.com/artist/4nu9leC0f0YAqDLLlYD0bc), [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX), [Mr.T STNG](https://open.spotify.com/artist/2z0JKcVUWA46t5Rm5Fo90n) | [Want Me](https://open.spotify.com/album/3PHo3N5eYkkVbO6qNq0zva) | 3:19 | 2024-11-07 | 2024-12-14 |
 | [WAT U WANT](https://open.spotify.com/track/55fd8tvjN8u4uYqxA9yuAR) | [FIIXD](https://open.spotify.com/artist/3E2RbO6J3JSYa9VgP5iGMH), [1MILL](https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco) | [BIG SHLIME](https://open.spotify.com/album/6ZrVZ7sZVfrF9gYQq7aF5E) | 2:38 | 2023-12-28 | 2024-08-10 |
 | [What I Want](https://open.spotify.com/track/2uz1YCfVlRgpwcxvik5SJo) | [BABY ROCKY](https://open.spotify.com/artist/3ANMzDN6QHTKp9yr6eYxDX) | [What I Want](https://open.spotify.com/album/4Nn9YdVaDHsYvAVqdoa4rQ) | 2:13 | 2025-01-24 | 2025-02-08 |
@@ -485,6 +486,7 @@
 | [หวังว่าจะดี](https://open.spotify.com/track/4x8v9usS4BBpWZVE080Dc2) | [T!NE](https://open.spotify.com/artist/325C5PNmvA8luRIOYy1dmQ), [VIPER](https://open.spotify.com/artist/3FVgKNTkG9wYoJONzU2QuL) | [หวังว่าจะดี](https://open.spotify.com/album/3zy7LxS0OpFSV8F10LNK0n) | 4:02 | 2024-06-20 | 2024-07-13 |
 | [หัวใจว้าวุ่น](https://open.spotify.com/track/7bPl0qB6bEIXFOnGdWDWPV) | [Pondering](https://open.spotify.com/artist/5vzCTzMec4uL6JCNkOFcZ2) | [หัวใจว้าวุ่น](https://open.spotify.com/album/5YoNKdpE9Q3eWlS5qfCwLM) | 2:37 | 2023-12-08 | 2023-12-30 |
 | [ห้องที่ว่างเปล่า](https://open.spotify.com/track/2W17wDsmVimJMMGT8UgVfi) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [ห้องที่ว่างเปล่า](https://open.spotify.com/album/5E35Zeo0hMyHLqNE4rlvI2) | 3:08 | 2024-11-17 |  |
+| [ห้องปกครอง](https://open.spotify.com/track/4GK5seU6Fyi1Kstn4QZ5vU) | [Rap Is Now](https://open.spotify.com/artist/6WEHKzjzHXaAv9M9bJRYxj), [$LUTTYP](https://open.spotify.com/artist/2ZG0PBRopuCGFDBWdrVaYb) | [ห้องปกครอง](https://open.spotify.com/album/27KfBX3KpSEkBK3ypyraAx) | 2:28 | 2025-04-07 |  |
 | [อนาคอนด้า](https://open.spotify.com/track/4YL3JwgWt0FhnJBcLFhxI7) | [M\-Pee](https://open.spotify.com/artist/2LhJBUC3yGxXNK3gBLZidT), [JV.JARVIS](https://open.spotify.com/artist/3RukKIu27TAGLJ4VT5mNRz) | [อนาคอนด้า](https://open.spotify.com/album/7Kfp4NiXiHZW1sOtS3a8IT) | 2:53 | 2024-03-01 | 2024-03-09 |
 | [อยากจะพาเธอไปดูคอนเสิร์ตวันมิล](https://open.spotify.com/track/5wC0pEdfBw4ugv41doWRWh) | [LIL YOKY](https://open.spotify.com/artist/4KbDLzX6a16gvgFqV20kL4) | [อยากจะพาเธอไปดูคอนเสิร์ตวันมิล](https://open.spotify.com/album/66yQqq3PLlxzJ3h7lniKSS) | 2:31 | 2024-01-26 | 2024-02-02 |
 | [อยากร้องเดี๋ยวร้องเอง](https://open.spotify.com/track/6XsEjeRe3qhe5m1JIYQsZX) | [N/A](https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40) | [อยากร้องเดี๋ยวร้องเอง](https://open.spotify.com/album/29VRG9RsWj7zW9toqZcSGg) | 3:07 | 2023-11-17 | 2023-12-02 |

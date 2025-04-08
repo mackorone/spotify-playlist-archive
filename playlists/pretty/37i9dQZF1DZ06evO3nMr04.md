@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3nMr04.md) - [plain]
 
 > This is Kanye West\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,400,745 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,400,893 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3nMr04.md) - [plain]
 | 28 | [Follow God](https://open.spotify.com/track/2QpGZOhTCHHiKmpSO9FW4h) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 1:44 |
 | 29 | [POWER](https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:52 |
 | 30 | [Touch The Sky](https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 3:56 |
-| 31 | [Forever](https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Relapse: Refill](https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z) | 5:57 |
-| 32 | [No Church In The Wild](https://open.spotify.com/track/7r6PigmGzlB3YPB7wvBBbi) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [Watch The Throne](https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS) | 4:32 |
+| 31 | [No Church In The Wild](https://open.spotify.com/track/7r6PigmGzlB3YPB7wvBBbi) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [Watch The Throne](https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS) | 4:32 |
+| 32 | [Forever](https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Relapse: Refill](https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z) | 5:57 |
 | 33 | [On Sight](https://open.spotify.com/track/1gqkRc9WtOpnGIqxf2Hvzr) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 2:36 |
 | 34 | [FUK SUMN](https://open.spotify.com/track/0cbVD7WpHVdHUKwoolzhCZ) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/4DOsPwJtokv6HEifZ6t5j6) | 3:29 |
 | 35 | [Moon](https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 2:36 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3nMr04.md) - [plain]
 | 47 | [Famous](https://open.spotify.com/track/19a3JfW8BQwqHWUMbcqSx8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 3:16 |
 | 48 | [Gorgeous](https://open.spotify.com/track/23SZWX2IaDnxmhFsSLvkG2) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 5:57 |
 | 49 | [I Love It \(& Lil Pump\)](https://open.spotify.com/track/4S8d14HvHb70ImctNgVzQQ) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY) | [I Love It](https://open.spotify.com/album/185Tm1g5U7eMOrm3m9SQUh) | 2:07 |
-| 50 | [PROMOTION](https://open.spotify.com/track/6bSfeCXlUaGa3eWCy5qPTb) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 2](https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ) | 2:38 |
+| 50 | [Mixed Personalities \(feat\. Kanye West\)](https://open.spotify.com/track/6vWEAOUSxohKxhp0K1BsxL) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [We All Shine](https://open.spotify.com/album/09b9NC1oQbYaHcacgXn66k) | 3:50 |
 
-Snapshot ID: `Z/BygAAAAAAExs6isL5+JP+yHxVeo9IT`
+Snapshot ID: `Z/HEAAAAAAA2HgACpbxrHAkE6Eig8Xfs`

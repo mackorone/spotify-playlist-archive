@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Indian Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,380 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,414 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

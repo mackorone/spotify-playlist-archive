@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 
 > ¡Oi nomás ese cumbión!
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,525 likes - 125 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,577 likes - 125 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,11 +104,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 94 | [Amor Sin Primavera](https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Gigantes De La Cumbia, Vol\. 1, Disco 1](https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly) | 3:52 |
 | 95 | [El Diario De Un Borracho](https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S) | [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [El Condor Legendario](https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG) | 4:26 |
 | 96 | [Corazón Solitario](https://open.spotify.com/track/7pxs0seevgCsp3h23lUGBw) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI) | 4:03 |
-| 97 | [Tus Jefes No Me Quieren](https://open.spotify.com/track/16OHjORdq0UoVilD02ZzXN) | [Grupo Ensamble](https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI) | [Tus Jefes No Me Quieren](https://open.spotify.com/album/0cuK61I1W8lfJy6MYHUNMh) | 3:44 |
+| 97 | [Cumbia Francesa](https://open.spotify.com/track/74VcBE1CXvIIOMGqHJn74z) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sólo Éxitos](https://open.spotify.com/album/7Ibdi3zT6t4mmzCGsjxwN3) | 3:40 |
 | 98 | [Qué Locura Enamorarme De Ti](https://open.spotify.com/track/4yPxW8J2cW4JS1pcHvZzp6) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Qué Locura Enamorarme De Ti](https://open.spotify.com/album/5ijwnQqyOmHfz6H4KLd0Ua) | 3:58 |
 | 99 | [Tiene Espinas El Rosal](https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 3:57 |
-| 100 | [Cumbia Francesa](https://open.spotify.com/track/74VcBE1CXvIIOMGqHJn74z) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sólo Éxitos](https://open.spotify.com/album/7Ibdi3zT6t4mmzCGsjxwN3) | 3:40 |
-| 101 | [El Verde De Tus Ojos](https://open.spotify.com/track/1UKNDMySEIHiCSXDWkDfX3) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Serie 20 Exitos Los Yes Yes](https://open.spotify.com/album/7AD9IxY8zyCNjGqyut7p1t) | 5:13 |
+| 100 | [El Verde De Tus Ojos](https://open.spotify.com/track/1UKNDMySEIHiCSXDWkDfX3) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Serie 20 Exitos Los Yes Yes](https://open.spotify.com/album/7AD9IxY8zyCNjGqyut7p1t) | 5:13 |
+| 101 | [Tus Jefes No Me Quieren](https://open.spotify.com/track/16OHjORdq0UoVilD02ZzXN) | [Grupo Ensamble](https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI) | [Tus Jefes No Me Quieren](https://open.spotify.com/album/0cuK61I1W8lfJy6MYHUNMh) | 3:44 |
 | 102 | [Conga Y Timbal](https://open.spotify.com/track/7LXEJkLmNUCXD4WNbshFdy) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Conga Y Timbal](https://open.spotify.com/album/0KkFcyHUrtHjSjrdMmX7Wi) | 3:39 |
 | 103 | [Las Amo a Las Dos](https://open.spotify.com/track/0jhtqu6qU7UU4qEfQuv634) | [Cumbias Poblanas](https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4) | [Cumbia Pa' seguir Bailando](https://open.spotify.com/album/0XgaEEDzNf5VjXlaSV1eHK) | 4:49 |
 | 104 | [El Baile De San Juan](https://open.spotify.com/track/3OWgaoLMcjnF6RRbzZrS7O) | [Grupo La Chomba](https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd) | [Con Musica Del Barrio y Para El Barrio](https://open.spotify.com/album/35L0etvGB9w2whJfmkkXQo) | 4:14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: Arca & Tokischa
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,036 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,045 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 31 | [Pensando en Ti](https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Pensando en Ti](https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH) | 2:53 |
 | 32 | [Bellakosa](https://open.spotify.com/track/3zmjT7DVb5s01CC8Iy8BlN) | [Sailorfag](https://open.spotify.com/artist/3YvJLKikEKjbzNBk9rfIKE) | [Bellakosa](https://open.spotify.com/album/5tUZWuzaD4vnLJRnH5zxPc) | 2:53 |
 | 33 | [PERREO FURIOSO](https://open.spotify.com/track/2NAjBeyMUrba97IXdLVMqp) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 2:32 |
-| 34 | [Te Queria](https://open.spotify.com/track/10Jr2PJeIMPYYRWsWximsP) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:02 |
-| 35 | [EASY BOY](https://open.spotify.com/track/4f6bRqMzm8HEJIbZI2RkbB) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [EASY BOY](https://open.spotify.com/album/0HhtQpQQZE43qLFJ9TJ2pd) | 2:56 |
+| 34 | [EASY BOY](https://open.spotify.com/track/4f6bRqMzm8HEJIbZI2RkbB) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [EASY BOY](https://open.spotify.com/album/0HhtQpQQZE43qLFJ9TJ2pd) | 2:56 |
+| 35 | [Te Queria](https://open.spotify.com/track/10Jr2PJeIMPYYRWsWximsP) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:02 |
 | 36 | [Noches De Verano](https://open.spotify.com/track/5LgasjuMHee4NZ4LsoaOh0) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Noches De Verano](https://open.spotify.com/album/1ktGnE8t1PSzCRELZJTChF) | 3:06 |
 | 37 | [Reina de la Selva](https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Reina de la Selva](https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6) | 2:56 |
 | 38 | [Ácido Sabor](https://open.spotify.com/track/0a2giOzEw6DnH2V9bt3GP3) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ácido Sabor](https://open.spotify.com/album/6VUd6HAFSkMyUYxe26MOSh) | 3:30 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 90 | [Canciones de Amor](https://open.spotify.com/track/1RjmeNxL0KNM0KTH8aySAO) | [Lesbiandrama](https://open.spotify.com/artist/0LZwj8XbxIwTjaDX478RXl), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Canciones de Amor](https://open.spotify.com/album/1xyRm4Ti9USkm9sVTwVfXU) | 3:14 |
 | 91 | [Besos](https://open.spotify.com/track/0WIOsnOOJlIDN095VDlSOk) | [Macha Kiddo](https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv) | [Lesbihonest](https://open.spotify.com/album/5C5rCLBjwHPNF112Xuea9t) | 3:27 |
 | 92 | [Vacation Bae](https://open.spotify.com/track/6IIc7LQm8bcshVRbZvMvJ5) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Radio Sunshine](https://open.spotify.com/album/6EqV9d8O0KlLBRGMLwHa23) | 2:34 |
-| 93 | [Don't Let Me Go](https://open.spotify.com/track/4bCZHjTRVlWOxoOIcz4sx4) | [Nikky Bourbon](https://open.spotify.com/artist/7akxqX9dq5DIqO0VwHo1jL), [Stylolive](https://open.spotify.com/artist/3EaujiKlOBEK1KK6fUa3rJ) | [Don't Let Me Go](https://open.spotify.com/album/2k3GiqtqWr8OG20dliRc8a) | 3:15 |
-| 94 | [me gusta que me gustes](https://open.spotify.com/track/5gQvExQc6zyJnI11AoNJMM) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Así Me Siento Hoy](https://open.spotify.com/album/0kefZe88v1Muy6YFe0adCe) | 2:35 |
-| 95 | [Perdón](https://open.spotify.com/track/2Dt9XzdTyfHjQlz7aAraor) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Perdón](https://open.spotify.com/album/26H0Ji3Lr8GUXdUBfphCZu) | 3:42 |
+| 93 | [Perdón](https://open.spotify.com/track/2Dt9XzdTyfHjQlz7aAraor) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Perdón](https://open.spotify.com/album/26H0Ji3Lr8GUXdUBfphCZu) | 3:42 |
+| 94 | [Don't Let Me Go](https://open.spotify.com/track/4bCZHjTRVlWOxoOIcz4sx4) | [Nikky Bourbon](https://open.spotify.com/artist/7akxqX9dq5DIqO0VwHo1jL), [Stylolive](https://open.spotify.com/artist/3EaujiKlOBEK1KK6fUa3rJ) | [Don't Let Me Go](https://open.spotify.com/album/2k3GiqtqWr8OG20dliRc8a) | 3:15 |
+| 95 | [me gusta que me gustes](https://open.spotify.com/track/5gQvExQc6zyJnI11AoNJMM) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Así Me Siento Hoy](https://open.spotify.com/album/0kefZe88v1Muy6YFe0adCe) | 2:35 |
 | 96 | [Nobody Got It](https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [Nobody Got It](https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue) | 2:48 |
 | 97 | [PXRNX](https://open.spotify.com/track/2d5TRfD5tIAs6R2gqN0g2X) | [Macha Kiddo](https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv) | [Mala Crianza](https://open.spotify.com/album/2szxWyRwu1MyzrRaJsDehS) | 2:24 |
 | 98 | [vivir en los dosmil](https://open.spotify.com/track/3WUlTT5mSRZNmPfbtkvwAS) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [vivir en los dosmil](https://open.spotify.com/album/0XXM9pJOGUKNJHwiLkExak) | 2:22 |
-| 99 | [Cielo de Colores](https://open.spotify.com/track/5yG41x0CERmmOXF5g1lgvX) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Cielo de Colores](https://open.spotify.com/album/0o6Cae0g5Wo8UwPnhguAGB) | 3:04 |
-| 100 | [Mujer Contra Mujer](https://open.spotify.com/track/2AFriDnr8KrU9d39Hd9UHV) | [Señorita Novio](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [quediostesalve](https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI) | [Mujer Contra Mujer](https://open.spotify.com/album/4mvqSipxmat1wzNTJzSEZy) | 3:26 |
+| 99 | [Mujer Contra Mujer](https://open.spotify.com/track/2AFriDnr8KrU9d39Hd9UHV) | [Señorita Novio](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [quediostesalve](https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI) | [Mujer Contra Mujer](https://open.spotify.com/album/4mvqSipxmat1wzNTJzSEZy) | 3:26 |
+| 100 | [Cielo de Colores](https://open.spotify.com/track/5yG41x0CERmmOXF5g1lgvX) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Cielo de Colores](https://open.spotify.com/album/0o6Cae0g5Wo8UwPnhguAGB) | 3:04 |
 
 Snapshot ID: `Z5OmkwAAAADL2GBSBTEhYzZ4d3AQWrPk`

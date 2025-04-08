@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mcByN.md) - [plain]
 
 > This is Kemilly Santos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,325 likes - 46 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,332 likes - 46 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mcByN.md) - [plain]
 | 15 | [Nas Mãos do Oleiro](https://open.spotify.com/track/28fcOzkWlYVKVJDQntl4eO) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Fica Tranquilo](https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV) | 4:50 |
 | 16 | [Sonhador \(Ao Vivo\)](https://open.spotify.com/track/115fT6bA6oiR4mHVrnZzG2) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Sonhador \(Ao Vivo\)](https://open.spotify.com/album/5BBal0yfHCqk2WMBS3wiRb) | 3:53 |
 | 17 | [O Jogo Virou](https://open.spotify.com/track/6cSnZYtQqScxcQmlbC9FS7) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Vai Valer a Pena](https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx) | 3:32 |
-| 18 | [Farás Outra Vez](https://open.spotify.com/track/3DFHmoWf6DvDlYQWpSGOrj) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Farás Outra Vez](https://open.spotify.com/album/7G8XGVmyU4c0ZOeX5nyzPK) | 4:06 |
-| 19 | [Contando os Dias \- Ao Vivo](https://open.spotify.com/track/3nEw3prYLtFzNsnrsoxrTm) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Contando os Dias \(Ao Vivo\)](https://open.spotify.com/album/3rq11lZvriTpqaXq7deK4X) | 6:43 |
+| 18 | [Contando os Dias \- Ao Vivo](https://open.spotify.com/track/3nEw3prYLtFzNsnrsoxrTm) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Contando os Dias \(Ao Vivo\)](https://open.spotify.com/album/3rq11lZvriTpqaXq7deK4X) | 6:43 |
+| 19 | [Farás Outra Vez](https://open.spotify.com/track/3DFHmoWf6DvDlYQWpSGOrj) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Farás Outra Vez](https://open.spotify.com/album/7G8XGVmyU4c0ZOeX5nyzPK) | 4:06 |
 | 20 | [Calma](https://open.spotify.com/track/2jpAVrNOYTHLguyC7ccPGj) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Plano Original](https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI) | 3:37 |
 | 21 | [Presença](https://open.spotify.com/track/349BKIWoKEa8QyobTc4O20) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Presença](https://open.spotify.com/album/0YJjGJRMMW4iLKzVkTaE9t) | 5:56 |
 | 22 | [Limite \(Ao Vivo\)](https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Limite \(Ao Vivo\)](https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC) | 4:38 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mcByN.md) - [plain]
 | 45 | [Vai Acontecer](https://open.spotify.com/track/4FBSQX1tKKfsIkW8rmvuQ7) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Plano Original](https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI) | 3:57 |
 | 46 | [La Paloma](https://open.spotify.com/track/4eGqQrzZnq85k876sjVJkO) | [Dianette Mendez](https://open.spotify.com/artist/3jRJ0ZwP995rXGeeB0EjNL), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [La Paloma](https://open.spotify.com/album/16MAWdvY4cAKki9UB4X9W6) | 11:56 |
 
-Snapshot ID: `Z/BygAAAAACL3G3RbuZTdra0mTUjMqnd`
+Snapshot ID: `Z/HEAAAAAABneqD+/dwquDewDUhpUMvP`

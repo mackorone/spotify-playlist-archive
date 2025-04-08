@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,936 likes - 125 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,002 likes - 125 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 | 10 | [Evocation](https://open.spotify.com/track/6UqivyrMttGK1JAjDRcoVv) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Evocation](https://open.spotify.com/album/3VcRjGflbm5jB2vPqafc6v) | 4:38 |
 | 11 | [Where I'm From](https://open.spotify.com/track/0JFNTfRWLqQ09z9ZHldX8d) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz), [Belladonna \(ofc\) ](https://open.spotify.com/artist/1ECGFhfV6SJLbKnTvBFsaQ) | [Where I'm From](https://open.spotify.com/album/71N6oT6Vtqs5xjn9b1xxYK) | 3:22 |
 | 12 | [U Want It](https://open.spotify.com/track/27nMz34zGy9unSz6VpQ9E3) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [AISKA](https://open.spotify.com/artist/6ZA8fsdjN3o5ZUGs9avvwI) | [U Want It](https://open.spotify.com/album/2aUCgf9EvnN6WzZuJpyU5Y) | 2:41 |
-| 13 | [Addicted \- Argy & Omnya Remix](https://open.spotify.com/track/4Y67RGQnwP30Puzh7aKMlD) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI) | [Addicted \(Argy & Omnya Remix\)](https://open.spotify.com/album/4ybzfLamUp8HWp3F8YYnoJ) | 2:22 |
+| 13 | [Addicted \- Argy & Omnya Remix](https://open.spotify.com/track/4Y67RGQnwP30Puzh7aKMlD) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted \(Argy & Omnya Remix\)](https://open.spotify.com/album/4ybzfLamUp8HWp3F8YYnoJ) | 2:22 |
 | 14 | [Weightless](https://open.spotify.com/track/65EggkdDWHv0HcijDXcjhk) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Weightless](https://open.spotify.com/album/4PeopsVYBPuPyr83e3T0H0) | 3:45 |
 | 15 | [Neverland \(From Japan\)](https://open.spotify.com/track/4GkGjg7uYvqcZvkTV4rrnu) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Baset](https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl) | [Neverland \(From Japan\)](https://open.spotify.com/album/4zPZDCB6p9Jv2YyqdCuhSH) | 3:10 |
 | 16 | [Going Under](https://open.spotify.com/track/4b3tHFus0ulksoyDpSrGYY) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Andrea Botez](https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Going Under](https://open.spotify.com/album/18qd9Qz8xCZzTnsWnHkp7v) | 2:41 |

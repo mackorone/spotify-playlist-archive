@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > The latest of R&B in the UK\. Cover: Leah Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,121 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,142 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 36 | [i know](https://open.spotify.com/track/6HWsd6fqeamiFulSQhxKsD) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [i know](https://open.spotify.com/album/6gAZoVbmPADyQaGsV94obD) | 2:22 |
 | 37 | [Mine](https://open.spotify.com/track/0AFi9z7GXJU8rK6rDF8Qmb) | [Zion Foster](https://open.spotify.com/artist/7z5nU71I7KTEdTHiPMfwL6), [Jesy Nelson](https://open.spotify.com/artist/73KwqWuob0R53I14Vs56p9) | [Mine](https://open.spotify.com/album/4EUnbMqIwNcYKccQt2NC7z) | 2:38 |
 | 38 | [Lost Myself \(23\)](https://open.spotify.com/track/7E3Sty398iN8VTg8EEGf17) | [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [Emotional Gangster](https://open.spotify.com/album/78yO2AOVjrtvfFf8dvHrGE) | 4:01 |
-| 39 | [Closer](https://open.spotify.com/track/1I5hhujd8OgWO5SZLEtOPk) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Hamartia](https://open.spotify.com/album/6mzeTCb0ty0ufadqSaZzfW) | 2:49 |
+| 39 | [Lay With Me](https://open.spotify.com/track/0ELxuwozi70IAT4lGEkuZD) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [Lay With Me](https://open.spotify.com/album/3M5JronLMReR15Fw21tpzA) | 3:44 |
 | 40 | [F.N.F.](https://open.spotify.com/track/62U8RzKdwxhEKfJc9t0NYg) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [F.N.F.](https://open.spotify.com/album/7gzqH0PKc53laMxTX3UxpR) | 2:09 |
 | 41 | [Follow You](https://open.spotify.com/track/3YhmZC4QRnlLn87XuWWRUW) | [ALIA LARA](https://open.spotify.com/artist/7LZtbcOzfx11Fhapw8iiOO) | [Follow You](https://open.spotify.com/album/4LX6oVgc0dBtUzAxcjmDwM) | 3:32 |
-| 42 | [tell em](https://open.spotify.com/track/2gtkWGSTSsB2KcUsff6t5A) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [tell em / time flies](https://open.spotify.com/album/5ZNxP2stKHm1YvNz7ONQC4) | 2:38 |
+| 42 | [Closer](https://open.spotify.com/track/1I5hhujd8OgWO5SZLEtOPk) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Hamartia](https://open.spotify.com/album/6mzeTCb0ty0ufadqSaZzfW) | 2:49 |
 | 43 | [self respect](https://open.spotify.com/track/1DdgO0Ag96Hx34Qd5dHvKD) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [self respect](https://open.spotify.com/album/0eiGunQk1mDtmanz6Abv5V) | 3:29 |
-| 44 | [Lay With Me](https://open.spotify.com/track/0ELxuwozi70IAT4lGEkuZD) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [Lay With Me](https://open.spotify.com/album/3M5JronLMReR15Fw21tpzA) | 3:44 |
+| 44 | [tell em](https://open.spotify.com/track/2gtkWGSTSsB2KcUsff6t5A) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [tell em / time flies](https://open.spotify.com/album/5ZNxP2stKHm1YvNz7ONQC4) | 2:38 |
 | 45 | [All 4 You](https://open.spotify.com/track/2i3VVtSjyZIVOBJxFSZpPe) | [Mellina Tey](https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx) | [CH4iNS](https://open.spotify.com/album/6UmlT8Su6kDHEkvTmituqR) | 2:50 |
 | 46 | [Only Ever](https://open.spotify.com/track/6pFHqQE6VJnkG5TtBFIaXj) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Only Ever](https://open.spotify.com/album/01gYXq7TagyrOHOK3KvlfY) | 2:42 |
 | 47 | [LDN](https://open.spotify.com/track/1hyfDqeOomUgiDZZehFP3D) | [Jamilah Barry](https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv) | [Full Circle](https://open.spotify.com/album/74QAmMwD0zVIDaNXzm6o0Z) | 1:52 |
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 49 | [Tonight](https://open.spotify.com/track/07tj5gy6TKsQ7x0fCjrovr) | [Bex](https://open.spotify.com/artist/2PLgHkAWIico5HHJIq5Trl) | [Tonight](https://open.spotify.com/album/2vidWPfA1GXSB43GhELEB5) | 2:42 |
 | 50 | [Don Dada](https://open.spotify.com/track/2DKq8UkPWQ0sY5tqA1QEY8) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [Don Dada](https://open.spotify.com/album/6N7ueVpR75m3vunC9ugTnm) | 2:48 |
 | 51 | [MET YOU AT A BAR](https://open.spotify.com/track/4OBgCqoGas1dSNyRXRtRpK) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [SAFE FLIGHT](https://open.spotify.com/album/37FUdgp35njUxws7l0WCep) | 2:40 |
-| 52 | [Ebbs & Flows](https://open.spotify.com/track/3i3YsmD5wrtjeE9qunmgu6) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Love's Letter \(Deluxe\)](https://open.spotify.com/album/1wmUwj9AEOuWtq9eyZjvy2) | 3:15 |
-| 53 | [Don't Cry Mama](https://open.spotify.com/track/6FRR67NLpX4lUjnCVhwfe4) | [Saskia](https://open.spotify.com/artist/400qpwg5b70L39fD95JSaB) | [Don't Cry Mama](https://open.spotify.com/album/79GK5Ec1fgvxqUGkgwkg77) | 3:37 |
-| 54 | [vinland](https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [XONGZ አስቀያሚ ጡብ](https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC) | 2:49 |
-| 55 | [Better Now](https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii) | [Len Blake](https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7) | [Better Now](https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC) | 3:16 |
+| 52 | [Don't Cry Mama](https://open.spotify.com/track/6FRR67NLpX4lUjnCVhwfe4) | [Saskia](https://open.spotify.com/artist/400qpwg5b70L39fD95JSaB) | [Don't Cry Mama](https://open.spotify.com/album/79GK5Ec1fgvxqUGkgwkg77) | 3:37 |
+| 53 | [Ebbs & Flows](https://open.spotify.com/track/3i3YsmD5wrtjeE9qunmgu6) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Love's Letter \(Deluxe\)](https://open.spotify.com/album/1wmUwj9AEOuWtq9eyZjvy2) | 3:15 |
+| 54 | [Better Now](https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii) | [Len Blake](https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7) | [Better Now](https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC) | 3:16 |
+| 55 | [vinland](https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [XONGZ አስቀያሚ ጡብ](https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC) | 2:49 |
 | 56 | [There I Go](https://open.spotify.com/track/6wiwsJJuk5u6sdag6iShOu) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [There I Go](https://open.spotify.com/album/2hltrUvBM4MpFTwpLJUhDq) | 2:32 |
 | 57 | [Where Have You Been All My Life?](https://open.spotify.com/track/3AkSHcsF5E3EXg4FBuRf5r) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Where Have You Been All My Life?](https://open.spotify.com/album/5MaD8ctpy7eAo56up2zF20) | 3:03 |
 | 58 | [Good Riddance](https://open.spotify.com/track/6Uq3K7OEbCs9t7H1beQEnt) | [Leah Music](https://open.spotify.com/artist/3FrtVf61eHTo2BZNG1qTOK) | [Good Riddance](https://open.spotify.com/album/6qZVF2D19JP9f5C1ElS5lz) | 2:09 |
 | 59 | [Wanna Know](https://open.spotify.com/track/4DlFEmR9aTXJ0VsREeimrM) | [Stefan Mahendra](https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF), [Walker](https://open.spotify.com/artist/6VWmuRhDSoyqiftAnlNFXz) | [Wanna Know](https://open.spotify.com/album/65N53BDKqAMXSHILGYEHTn) | 4:26 |
-| 60 | [Regular Girl](https://open.spotify.com/track/6n3IrXv89bChBzjbRJRmUq) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Regular Girl](https://open.spotify.com/album/3OhFLv2iX72yrfnSHpilN5) | 2:31 |
+| 60 | [stick around](https://open.spotify.com/track/4QB4OhHRXjaSAa2FjLURGw) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [how did we end up here? \(Deluxe\)](https://open.spotify.com/album/7x9hKDNgOWyzn3OrKVixBt) | 2:43 |
 
 Snapshot ID: `Z+8hKAAAAACpdqCsw3hWZN8vBd1uS6FD`

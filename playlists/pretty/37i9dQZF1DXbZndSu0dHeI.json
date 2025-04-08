@@ -1,6 +1,6 @@
 {
   "description": "Really lovely songs.",
-  "num_followers": 231859,
+  "num_followers": 231880,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "Z+e9pgAAAABAXodpGUAPLOTxok5p87m1",
   "tracks": [
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
-        "name": "So Long Forever",
-        "url": "https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 249840,
-      "name": "Live Well",
-      "url": "https://open.spotify.com/track/2H30WL3exSctlDC9GyRbD4"
-    },
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 203490,
       "name": "Bullseye (with Hozier)",
       "url": "https://open.spotify.com/track/6hwzlorpMDQsHtIhwoNPP9"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "So Long Forever",
+        "url": "https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 249840,
+      "name": "Live Well",
+      "url": "https://open.spotify.com/track/2H30WL3exSctlDC9GyRbD4"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -467,6 +467,22 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
+        "name": "Hole In A Frame / Pants",
+        "url": "https://open.spotify.com/album/2UlP6ggb5jkWOOQROaPRaX"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 183392,
+      "name": "Hole In A Frame",
+      "url": "https://open.spotify.com/track/21cWL7lvLaKQfPbC30Aejs"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
         "name": "I Should Go (Solo Version)",
         "url": "https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 220208,
       "name": "More Like You",
       "url": "https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
-        "name": "Hole In A Frame / Pants",
-        "url": "https://open.spotify.com/album/2UlP6ggb5jkWOOQROaPRaX"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 183392,
-      "name": "Hole In A Frame",
-      "url": "https://open.spotify.com/track/21cWL7lvLaKQfPbC30Aejs"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Drive to Goldenhammer",
-        "url": "https://open.spotify.com/album/1JlbWPlZef4pXOdFBsK994"
-      },
-      "artists": [
-        {
-          "name": "Divorce",
-          "url": "https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo"
-        }
-      ],
-      "duration_ms": 210732,
-      "name": "Lord",
-      "url": "https://open.spotify.com/track/0ZVIp8P740Vq8ZXdBwNURI"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Everybody",
         "url": "https://open.spotify.com/album/2QRzc3cbXi3DjaVk30t5Vj"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 394906,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/5nRaLv8g2AAtEf92IuQJyG"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Drive to Goldenhammer",
+        "url": "https://open.spotify.com/album/1JlbWPlZef4pXOdFBsK994"
+      },
+      "artists": [
+        {
+          "name": "Divorce",
+          "url": "https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo"
+        }
+      ],
+      "duration_ms": 210732,
+      "name": "Lord",
+      "url": "https://open.spotify.com/track/0ZVIp8P740Vq8ZXdBwNURI"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Jessie's House",
-        "url": "https://open.spotify.com/album/4CChj4YlzZQ7qCWfZYSuiH"
-      },
-      "artists": [
-        {
-          "name": "Findlay",
-          "url": "https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn"
-        }
-      ],
-      "duration_ms": 196892,
-      "name": "Jessie's House",
-      "url": "https://open.spotify.com/track/5XqflTC9Cn3YCdDvIXSDFK"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "it's a landslide",
         "url": "https://open.spotify.com/album/1Oc7fvNL3yxeXfLbYN17ER"
       },
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "when you leave / when you were around",
-        "url": "https://open.spotify.com/album/78993tLrhaUBssEaScVp0k"
+        "name": "Jessie's House",
+        "url": "https://open.spotify.com/album/4CChj4YlzZQ7qCWfZYSuiH"
       },
       "artists": [
         {
-          "name": "woody",
-          "url": "https://open.spotify.com/artist/1MOlxrTqAReNKA5a5uFvC4"
+          "name": "Findlay",
+          "url": "https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn"
         }
       ],
-      "duration_ms": 183889,
-      "name": "when you were around",
-      "url": "https://open.spotify.com/track/2gSbgd7htvGJJwAnTOgIbX"
+      "duration_ms": 196892,
+      "name": "Jessie's House",
+      "url": "https://open.spotify.com/track/5XqflTC9Cn3YCdDvIXSDFK"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1159,22 +1143,18 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "2much2soon",
-        "url": "https://open.spotify.com/album/6lelFbCH0ZJ80em8wganZo"
+        "name": "when you leave / when you were around",
+        "url": "https://open.spotify.com/album/78993tLrhaUBssEaScVp0k"
       },
       "artists": [
         {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        },
-        {
-          "name": "AJSF",
-          "url": "https://open.spotify.com/artist/00WIyZKC5hWNyrW92VzAj1"
+          "name": "woody",
+          "url": "https://open.spotify.com/artist/1MOlxrTqAReNKA5a5uFvC4"
         }
       ],
-      "duration_ms": 181920,
-      "name": "2much2soon",
-      "url": "https://open.spotify.com/track/6siBdjNAiPG4V4pZMFNvac"
+      "duration_ms": 183889,
+      "name": "when you were around",
+      "url": "https://open.spotify.com/track/2gSbgd7htvGJJwAnTOgIbX"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1207,6 +1187,26 @@
       "duration_ms": 177814,
       "name": "welcome to the sidelines",
       "url": "https://open.spotify.com/track/1uL7ztGHir7vgUgjydISln"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "2much2soon",
+        "url": "https://open.spotify.com/album/6lelFbCH0ZJ80em8wganZo"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        },
+        {
+          "name": "AJSF",
+          "url": "https://open.spotify.com/artist/00WIyZKC5hWNyrW92VzAj1"
+        }
+      ],
+      "duration_ms": 181920,
+      "name": "2much2soon",
+      "url": "https://open.spotify.com/track/6siBdjNAiPG4V4pZMFNvac"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "a leith ross song",
-        "url": "https://open.spotify.com/album/3HbZ4Auys97D5iSTsjYJP4"
-      },
-      "artists": [
-        {
-          "name": "Kayla Grace",
-          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
-        }
-      ],
-      "duration_ms": 147133,
-      "name": "a leith ross song",
-      "url": "https://open.spotify.com/track/1TUlVxsllap9YEh7KMGUTi"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Fool's Spring",
         "url": "https://open.spotify.com/album/0f8EIH7gSkXhiUxXHb6TLw"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 210371,
       "name": "Little River",
       "url": "https://open.spotify.com/track/1K3NM16ja1PtCxoKJC32zm"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "a leith ross song",
+        "url": "https://open.spotify.com/album/3HbZ4Auys97D5iSTsjYJP4"
+      },
+      "artists": [
+        {
+          "name": "Kayla Grace",
+          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
+        }
+      ],
+      "duration_ms": 147133,
+      "name": "a leith ross song",
+      "url": "https://open.spotify.com/track/1TUlVxsllap9YEh7KMGUTi"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Walking Like We Do",
-        "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
-      },
-      "artists": [
-        {
-          "name": "The Big Moon",
-          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
-        }
-      ],
-      "duration_ms": 209822,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/4t778t8afctJv2Wc3H85HU"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Where Sky Becomes Sea",
         "url": "https://open.spotify.com/album/5HnWBgUMo42JHHsDMOkAdD"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 317270,
       "name": "Where Sky Becomes Sea",
       "url": "https://open.spotify.com/track/4R9CJUZVrHTyL8L1bkVlAT"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Walking Like We Do",
+        "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
+      },
+      "artists": [
+        {
+          "name": "The Big Moon",
+          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
+        }
+      ],
+      "duration_ms": 209822,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/4t778t8afctJv2Wc3H85HU"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Halloween Costume",
-        "url": "https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 149426,
-      "name": "Halloween Costume",
-      "url": "https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Everything Has A Heartbeat",
         "url": "https://open.spotify.com/album/6yUrt3h3xobOoETo88dNjv"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 282529,
       "name": "Everything At Once",
       "url": "https://open.spotify.com/track/1DjdeAcAT1ztBJBxI9VUFo"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Halloween Costume",
+        "url": "https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "duration_ms": 149426,
+      "name": "Halloween Costume",
+      "url": "https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh"
     },
     {
       "added_at": "2025-03-29 09:30:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,735 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,730 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 86 | [Morir Soñando](https://open.spotify.com/track/63dcYPuE3PEauC0t480FKn) | [Mariachi Nuevo Tecalitlán](https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS) | [Dia de los Muertos \(Con Mariachi\)](https://open.spotify.com/album/2jhrvg3VaRCvGwEvhLLsmw) | 3:40 |
 | 87 | [Para Cuando Muera](https://open.spotify.com/track/3zvvoPUq6g5vcO8M9LAMG1) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Amorosas, Divertidas y Horrorosisímas Canciones de la Calaca Flaca](https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8) | 3:13 |
 | 88 | [A Mi Me Mató La Vida](https://open.spotify.com/track/6IXhgZRpbrZULT8aqNrC43) | [Astrid Hadad](https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3) | [Vivir Muriendo](https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1) | 4:04 |
-| 89 | [Los Esqueletos](https://open.spotify.com/track/2evbt2sweKafw1Xx6tUVq6) | [Espanto](https://open.spotify.com/artist/4m2iq2WEoxSFvOZd130HIQ) | [Tres Canciones Nuevas](https://open.spotify.com/album/1t3hGZtxBBXWmWGCuFM6QH) | 3:04 |
-| 90 | [Que Me Importa Morir](https://open.spotify.com/track/1W1wyCjpDdJ1VbZI2Yb55f) | [Wilbert Pere y Mariachi Tanampa](https://open.spotify.com/artist/0VWRpbGtIhxbRkrLX0Gp2n) | [Día de los Muertos: El Mariachi](https://open.spotify.com/album/7jqmdkq2YAaKY6U8ej89mB) | 3:21 |
+| 89 | [Que Me Importa Morir](https://open.spotify.com/track/1W1wyCjpDdJ1VbZI2Yb55f) | [Wilbert Pere y Mariachi Tanampa](https://open.spotify.com/artist/0VWRpbGtIhxbRkrLX0Gp2n) | [Día de los Muertos: El Mariachi](https://open.spotify.com/album/7jqmdkq2YAaKY6U8ej89mB) | 3:21 |
+| 90 | [Los Esqueletos](https://open.spotify.com/track/2evbt2sweKafw1Xx6tUVq6) | [Espanto](https://open.spotify.com/artist/4m2iq2WEoxSFvOZd130HIQ) | [Tres Canciones Nuevas](https://open.spotify.com/album/1t3hGZtxBBXWmWGCuFM6QH) | 3:04 |
 | 91 | [La huesuda](https://open.spotify.com/track/45Qh9HP3UPOhrkoFNPyKvM) | [Ariel Rot](https://open.spotify.com/artist/5kXK8waG1JeBQ8b5leWNSu) | [La huesuda](https://open.spotify.com/album/1EURs2L4xEKmMtnEvBPjS9) | 3:37 |
 | 92 | [El Corrido de Miguel Rivera \- En Vivo](https://open.spotify.com/track/5hX714XFVzo8n6pUtIovFc) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Especial de Día de Muertos \(En Vivo\)](https://open.spotify.com/album/7rMipwOaDCAanINiqam8M8) | 3:39 |
 | 93 | [Romance del Enamorado y la Muerte](https://open.spotify.com/track/0PQoLyBIZyBFZLvbLpJqfY) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Romance del Enamorado y la Muerte](https://open.spotify.com/album/1KkQO5xOhLvog2bR7hk2Js) | 3:34 |

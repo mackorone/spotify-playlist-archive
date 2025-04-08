@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 
 > This is Celia Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,420 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,424 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 | 8 | [Dile Que Por Mí No Tema](https://open.spotify.com/track/2nti8TuVhtp3Gk53WUnnM4) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Boleros](https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj) | 2:33 |
 | 9 | [Te Busco](https://open.spotify.com/track/5AuS5Nk1vs2vJNPlwB04F1) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:09 |
 | 10 | [Yo Viviré \- I Will Survive](https://open.spotify.com/track/2btnzgT8ARxKjcdOTdqj37) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Regalo Del Alma](https://open.spotify.com/album/7ipsYdh5KxIjrM3gH66T0Q) | 4:31 |
-| 11 | [Cuando Estoy Contigo](https://open.spotify.com/track/33AAoOl6DIWwO2ll2bxpBq) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [A Todos Mis Amigos](https://open.spotify.com/album/47SmOmDoPlaUD9BMoflw2A) | 2:26 |
+| 11 | [Burundanga](https://open.spotify.com/track/396apIIwi2la2MY4vWDxOM) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Canta Celia Cruz](https://open.spotify.com/album/6fARm1KlseDeikTw6xYIop) | 2:40 |
 | 12 | [Tu Voz](https://open.spotify.com/track/1lQWRMxlvahpRLzrwSIXNH) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Boleros](https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj) | 3:10 |
-| 13 | [Burundanga](https://open.spotify.com/track/396apIIwi2la2MY4vWDxOM) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Canta Celia Cruz](https://open.spotify.com/album/6fARm1KlseDeikTw6xYIop) | 2:40 |
+| 13 | [Cuando Estoy Contigo](https://open.spotify.com/track/33AAoOl6DIWwO2ll2bxpBq) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [A Todos Mis Amigos](https://open.spotify.com/album/47SmOmDoPlaUD9BMoflw2A) | 2:26 |
 | 14 | [Toro Mata](https://open.spotify.com/track/0lXxj5T6jeovmtd460qrFN) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 5:42 |
 | 15 | [Yerbero Moderno](https://open.spotify.com/track/49ARQi1FGSN7ZT13VTAOYf) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Justo Betancourt](https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689), [Papo Lucca](https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv) | [Viva la Reina de la Salsa](https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU) | 4:34 |
 | 16 | [Quizás, Quizás, Quizás](https://open.spotify.com/track/7FES7rrRiopj1YLqIUyyGO) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Boleros](https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 | 49 | [La Sopa En Botella](https://open.spotify.com/track/5NXGZe3SV9z8G4JlDt6Thy) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Tremendo Cache](https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN) | 5:08 |
 | 50 | [Oye Cómo Va](https://open.spotify.com/track/4C94C44OC2CI2acYitbGGE) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Fania Records: The 60's, Vol\. Three](https://open.spotify.com/album/7Hb26qi6ORGMxTxh24WRsK) | 4:32 |
 
-Snapshot ID: `Z/BygAAAAACf2Ak8fHthBR3ATfatDovO`
+Snapshot ID: `Z/HEAAAAAAAn4KLuuwP3girdGonFyusT`

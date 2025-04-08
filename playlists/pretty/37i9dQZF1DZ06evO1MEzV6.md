@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1MEzV6.md) - [plain]
 
 > This is beabadoobee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,857 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,907 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1MEzV6.md) - [plain]
 | 33 | [Animal Noises](https://open.spotify.com/track/3KENEwjmiRoWoW3HTE9JNb) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Our Extended Play](https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv) | 3:34 |
 | 34 | [Worth It](https://open.spotify.com/track/3r1qdSsvJEwiMKHeCWapMM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 3:14 |
 | 35 | [Art Class](https://open.spotify.com/track/5R4u3LgAC2BNkxo0bKQmS5) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 4:07 |
-| 36 | [Spacing Out](https://open.spotify.com/track/6Jmr2w49vC2cj4fPgmkjfH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lice](https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s) | 1:40 |
-| 37 | [I Wish I Was Stephen Malkmus](https://open.spotify.com/track/0MXwuLvZU9cauIEXlMZcdC) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [I Wish I Was Stephen Malkmus](https://open.spotify.com/album/75TCL3IpDAOclMk0PveSNM) | 3:51 |
+| 36 | [I Wish I Was Stephen Malkmus](https://open.spotify.com/track/0MXwuLvZU9cauIEXlMZcdC) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [I Wish I Was Stephen Malkmus](https://open.spotify.com/album/75TCL3IpDAOclMk0PveSNM) | 3:51 |
+| 37 | [Spacing Out](https://open.spotify.com/track/6Jmr2w49vC2cj4fPgmkjfH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lice](https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s) | 1:40 |
 | 38 | [How Was Your Day?](https://open.spotify.com/track/1FnaRNR5YLddYYd6xwJ3DX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 4:20 |
 | 39 | [Angel](https://open.spotify.com/track/6mZPt7IcgSaqk5H4NX9a6f) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Loveworm](https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP) | 3:13 |
 | 40 | [Last Day On Earth](https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Last Day On Earth](https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj) | 3:42 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1MEzV6.md) - [plain]
 | 43 | [Ceilings](https://open.spotify.com/track/5GP8cNzgiMG5Sm8of4zQ6c) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Loveworm](https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP) | 3:59 |
 | 44 | [The Way I Spoke](https://open.spotify.com/track/4NuAQGfKJhrJnTtBSMNrtz) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 4:15 |
 | 45 | [Home Alone](https://open.spotify.com/track/1TUff6XKeK8DoVxdPIJnT3) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lice](https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s) | 2:20 |
-| 46 | [Together](https://open.spotify.com/track/0QSPFCvGJlu0xR51gXG70M) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 3:20 |
+| 46 | [Charlie Brown](https://open.spotify.com/track/1NBQUtKSQdu7Nlw2isLxAV) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 2:32 |
 | 47 | [Disappear](https://open.spotify.com/track/1vKPCcclqSIHpMIh4YieQG) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Loveworm](https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP) | 4:08 |
 | 48 | [Silver Into Rain](https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:21 |
 | 49 | [Angry Song](https://open.spotify.com/track/3b8FrA74Tm4y22Zzi01Yk4) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lice](https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s) | 1:08 |
-| 50 | [Charlie Brown](https://open.spotify.com/track/1NBQUtKSQdu7Nlw2isLxAV) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 2:32 |
+| 50 | [Together](https://open.spotify.com/track/0QSPFCvGJlu0xR51gXG70M) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 3:20 |
 
-Snapshot ID: `Z/BygAAAAABO3BPp7ATAgdZ14i6Y4Ii7`
+Snapshot ID: `Z/HEAAAAAAApyuwLiOBABLA2w/RCFTvK`

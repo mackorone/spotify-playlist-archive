@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,314 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,365 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 44 | [Cold Hands](https://open.spotify.com/track/5gNwUVmtSSxrM1TyvGJ9kn) | [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Cold Hands](https://open.spotify.com/album/54TzyNB4wYJZ5UKIFIsmoo) | 3:14 |
 | 45 | [Promise](https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Promise](https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6) | 2:55 |
 | 46 | [Winter Blossom \(feat\. SAAY\) \(Prod\. by 0channel\)](https://open.spotify.com/track/5BVjsCcDlYgJG2bB2jsOeI) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [ordinary.](https://open.spotify.com/album/5KxykJIMpVCFZ7zow2Td0k) | 3:37 |
-| 47 | [Jenga \(feat\. Gaeko\)](https://open.spotify.com/track/1dA1tlzwcJ3YDYsSul1m06) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Wish & Wind](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) | 3:30 |
-| 48 | [INFJ \(Feat\. B.I, BANG YEDAM\)](https://open.spotify.com/track/77GfQKz4WzULTEoLL286cT) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [Dingo X BIG Naughty](https://open.spotify.com/album/1bksL87asiBGZYwVyGR3kp) | 3:29 |
-| 49 | [Paint on Spring](https://open.spotify.com/track/6HpDaHOApCbCgu5AyyRv6v) | [Martin Smith](https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd) | [Paint on Spring](https://open.spotify.com/album/3wHPgbPG7fuBktQszASI1I) | 3:52 |
+| 47 | [Paint on Spring](https://open.spotify.com/track/6HpDaHOApCbCgu5AyyRv6v) | [Martin Smith](https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd) | [Paint on Spring](https://open.spotify.com/album/3wHPgbPG7fuBktQszASI1I) | 3:52 |
+| 48 | [Jenga \(feat\. Gaeko\)](https://open.spotify.com/track/1dA1tlzwcJ3YDYsSul1m06) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Wish & Wind](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) | 3:30 |
+| 49 | [INFJ \(Feat\. B.I, BANG YEDAM\)](https://open.spotify.com/track/77GfQKz4WzULTEoLL286cT) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [Dingo X BIG Naughty](https://open.spotify.com/album/1bksL87asiBGZYwVyGR3kp) | 3:29 |
 | 50 | [You Might \(Feat\. SHIRT\)](https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [You Might \(Feat\. SHIRT\)](https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD) | 3:07 |
 
 Snapshot ID: `Z+4MRAAAAAA6mUKEMg7FKibE/xT6zYm9`

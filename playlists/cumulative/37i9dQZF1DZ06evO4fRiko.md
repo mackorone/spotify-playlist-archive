@@ -4,7 +4,7 @@
 
 > This is Chris Brown\. The essential tracks, all in one playlist.
 
-65 songs - 3 hr 54 min
+66 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Take You Down](https://open.spotify.com/track/1vwUsp52io0AGQ5yv470IC) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Exclusive \(Expanded Edition\)](https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI) | 4:05 | 2024-07-13 |  |
 | [The Take \(feat\. Chris Brown\)](https://open.spotify.com/track/0Odu228D0yGcFySGuxU4rY) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Chixtape 5](https://open.spotify.com/album/6vVhekA9LRg0MWIQaxI37f) | 3:41 | 2024-10-08 | 2025-01-16 |
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2024-07-13 |  |
-| [Wait On It \(feat\. Bryson Tiller & Chris Brown\)](https://open.spotify.com/track/6NCtzHANN8GwvxdrSzJBB9) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Wait On It \(feat\. Bryson Tiller & Chris Brown\)](https://open.spotify.com/album/4KIsBJev5R0VLIL3qAVDhx) | 3:25 | 2024-07-13 |  |
+| [Use Me](https://open.spotify.com/track/284ZpnuroE0r9AvjFUm1LC) | [Bow Wow](https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Use Me](https://open.spotify.com/album/43ZpO57bUaMIboKT00s0Fb) | 2:57 | 2025-04-08 |  |
+| [Wait On It \(feat\. Bryson Tiller & Chris Brown\)](https://open.spotify.com/track/6NCtzHANN8GwvxdrSzJBB9) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Wait On It \(feat\. Bryson Tiller & Chris Brown\)](https://open.spotify.com/album/4KIsBJev5R0VLIL3qAVDhx) | 3:25 | 2024-07-13 | 2025-04-08 |
 | [Wake Up \(feat\. Chris Brown\)](https://open.spotify.com/track/6pMHL7A5CEPzHHKDRAAMEM) | [Skylar Blatt](https://open.spotify.com/artist/5B0hUg80AXXuTKryq9mFs1), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Wake Up \(feat\. Chris Brown\)](https://open.spotify.com/album/6GxAhYaeBYubxjZn0KkpZY) | 2:53 | 2024-07-13 | 2024-10-08 |
 | [Wet The Bed \(feat\. Ludacris\)](https://open.spotify.com/track/2xRGPubKBTHX6iyrpQvtCy) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [F.A.M.E\. \(Expanded Edition\)](https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb) | 4:26 | 2024-07-13 |  |
 | [Whatchamacallit \(feat\. Chris Brown\)](https://open.spotify.com/track/1YLfaRr3QIW1fF3nvDO0gX) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 2:59 | 2024-12-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Ed Sheeran \(pictured\), Miley Cyrus, Nemo and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,544 likes - 105 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,549 likes - 105 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 66 | [Live Big, Love Fast](https://open.spotify.com/track/6K6QKDnDptftlui2ZEaBL6) | [Phake](https://open.spotify.com/artist/3UNdNPvBcX8gFPbxyLchRC) | [Live Big, Love Fast](https://open.spotify.com/album/7mMeq7yGJ8ISrVKj0w7Phb) | 2:38 |
 | 67 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:56 |
 | 68 | [LALA](https://open.spotify.com/track/00q0RED4RZIAlXGJ3cjxIw) | [KASIMIR1441](https://open.spotify.com/artist/7ADRm1oT7VmhRRZrZqycV6) | [LALA](https://open.spotify.com/album/47ccfuhthaonmDFvutKJo7) | 2:29 |
-| 69 | [Drip Drip](https://open.spotify.com/track/0YrUz44GV53SvRMQUFIpps) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [WUKONG](https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T), [MUSIC](https://open.spotify.com/artist/6tmvEui9RlpwAFJA8tNkxM) | [Drip Drip](https://open.spotify.com/album/14jZsLakgI8TLW8PMdkFxC) | 2:25 |
+| 69 | [Drip Drip](https://open.spotify.com/track/0YrUz44GV53SvRMQUFIpps) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [WUKONG](https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T), [$MUSIC](https://open.spotify.com/artist/0zx8yW9E6H5pwqAnWrDepm) | [Drip Drip](https://open.spotify.com/album/14jZsLakgI8TLW8PMdkFxC) | 2:25 |
 | 70 | [Juliusstraße](https://open.spotify.com/track/0nCVfuPPE47zWWnSCH10kH) | [PA Sports](https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt), [Mucco](https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y) | [PARHAM](https://open.spotify.com/album/4MhO7LgFP6GvQo5KJS62Yn) | 2:15 |
 | 71 | [Running From Myself](https://open.spotify.com/track/2oWQin3JziO4aw4IrEkAmF) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Running From Myself](https://open.spotify.com/album/2UeR4nyka780fWnwgabZLe) | 2:36 |
 | 72 | [Heavy Hearts](https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Nobody Lives Here](https://open.spotify.com/album/779IZOhupymkjX6dzygMl9) | 2:57 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 
 > Para cantar y recordar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,653 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,707 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,16 +46,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 | 36 | [Tierra Mala](https://open.spotify.com/track/0fVroVR0FTRID4WoeQ6Jko) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Grandes Hits \- Los Chiches Vallenatos](https://open.spotify.com/album/3Qe48E9iOz23ranA7IlWgx) | 4:48 |
 | 37 | [Quiero Que Seas Mi Estrella](https://open.spotify.com/track/1BId2hCYqsaajdDYbwZc1p) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Grandes Hits](https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R) | 4:58 |
 | 38 | [Una Hoja En Blanco](https://open.spotify.com/track/0LfnaW1b5ZumdsjVbJf5YK) | [Omar Geles](https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR) | [Nace Del Alma](https://open.spotify.com/album/5zkLDGfwYl6i5v0WQxp6po) | 4:45 |
-| 39 | [A Besitos](https://open.spotify.com/track/5qlIIog5kwh0hhiSO5yGv0) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Mas Vallenato](https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o) | 4:27 |
+| 39 | [Los Caminos De La Vida](https://open.spotify.com/track/5lWEvj1lWNwC5lJdaSerHi) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Sólo Clásicos](https://open.spotify.com/album/3iKjZoqGQKfJ9zUDBE5Jzr) | 4:35 |
 | 40 | [Todo No Puede Llamarse Amor \(with Víctor Manuelle\)](https://open.spotify.com/track/6h6TfBUXiUBOvgwz2boo9r) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Son Para El Mundo](https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3) | 4:52 |
 | 41 | [Cuando Quieras Quiero \- En Vivo](https://open.spotify.com/track/7mne6vl01FpHSn1r1S2BCk) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [Felipe Peláez 30 Grandes Éxitos](https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw) | 5:11 |
 | 42 | [Niña Bonita](https://open.spotify.com/track/3sMUVwOyhOuQYFmpHfzBZn) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Grandes Hits](https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R) | 5:08 |
-| 43 | [Que Me Puedas Amar](https://open.spotify.com/track/3AS4n5gPVuRXwgVvsFzVtm) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Sólo Clásicos \- Miguel Morales](https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF) | 4:27 |
+| 43 | [Esa](https://open.spotify.com/track/03Z88hoXdp1QinkHGmkSLn) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco..\. Vive](https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r) | 3:51 |
 | 44 | [Entregame Tu Amor](https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños de Colombia](https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn) | 5:17 |
-| 45 | [Las Razones Del Amor](https://open.spotify.com/track/220sNWEEnJnX2J8vnwuM1W) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Mas Vallenato](https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o) | 5:07 |
-| 46 | [Como duele el frio](https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx) | [Jose Luis Carrascal](https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 4:57 |
-| 47 | [Dime que me quieres](https://open.spotify.com/track/44LHIHaC3UrhSt0KuYAfIR) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 5:16 |
-| 48 | [Esa](https://open.spotify.com/track/03Z88hoXdp1QinkHGmkSLn) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco..\. Vive](https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r) | 3:51 |
+| 45 | [A Besitos](https://open.spotify.com/track/5qlIIog5kwh0hhiSO5yGv0) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Mas Vallenato](https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o) | 4:27 |
+| 46 | [Sirena Encantadora](https://open.spotify.com/track/3wVuD02J4ErPU2jp5QtX10) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Sólo Clásicos \- Miguel Morales](https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF) | 5:10 |
+| 47 | [Como duele el frio](https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx) | [Jose Luis Carrascal](https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 4:57 |
+| 48 | [Dime que me quieres](https://open.spotify.com/track/44LHIHaC3UrhSt0KuYAfIR) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 5:16 |
 | 49 | [Señora](https://open.spotify.com/track/5tY5SZELFkC8VTlHAp9HPx) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 3:58 |
 | 50 | [Me Vas A Extrañar](https://open.spotify.com/track/0pgnRjCupIUPCscgwTFTZ2) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Mas Cerca De Tí](https://open.spotify.com/album/7kKtbhe3YnMB4XyyE0fvtE) | 4:47 |
 

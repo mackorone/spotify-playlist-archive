@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-600 songs - 1 day 5 hr 14 min
+601 songs - 1 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/3LChzqpjz7F8niPmwuJ6q3) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz) | 2:43 | 2024-02-09 | 2024-05-01 |
 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/4mKqiS1UBOZ6hGpUXokcsN) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV) | 2:43 | 2024-02-16 | 2024-03-03 |
 | [Anticipate](https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Anticipate](https://open.spotify.com/album/1gjvuirxy43mXAc6O7UNLD) | 2:47 | 2023-07-28 | 2024-02-07 |
+| [Après Minuit \(feat\. Tiakola\)](https://open.spotify.com/track/7JKGyMt8qkTaUHXFpxgjY2) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:57 | 2025-04-07 |  |
 | [ARABAMBI](https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [ARABAMBI](https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1) | 3:10 | 2024-06-14 |  |
 | [AREA BOYZ PRAYER \(feat\. Seyi Vibez\)](https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 4:10 | 2023-10-20 | 2024-08-26 |
 | [Arike](https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Arike](https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw) | 2:04 | 2025-02-26 |  |
@@ -300,7 +301,7 @@
 | [Love Don't Cost A Dime](https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Magixx](https://open.spotify.com/album/4FZn99wJYWhH3sczHcDJDD) | 3:25 | 2022-06-09 | 2024-06-07 |
 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 | 2022-06-09 | 2024-11-22 |
 | [Love Garden](https://open.spotify.com/track/2Q0XIOSmJ8DAONrIimShb6) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Love Garden](https://open.spotify.com/album/6fT729N2aJQUsIJvY2L0N3) | 2:30 | 2024-05-10 | 2024-08-30 |
-| [Love Me](https://open.spotify.com/track/4A8dgDmHBhEiDtEGJcvU2g) | [DJames](https://open.spotify.com/artist/5okIIcFP9Tm05dnmf3qWij), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Grateful](https://open.spotify.com/album/7KGoHDGPheSrwC13ETbhmZ) | 2:16 | 2024-09-27 |  |
+| [Love Me](https://open.spotify.com/track/4A8dgDmHBhEiDtEGJcvU2g) | [DJames](https://open.spotify.com/artist/5okIIcFP9Tm05dnmf3qWij), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Grateful](https://open.spotify.com/album/7KGoHDGPheSrwC13ETbhmZ) | 2:16 | 2024-09-27 | 2025-04-08 |
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-04-26 | 2024-11-22 |
 | [LOVE POTION](https://open.spotify.com/track/72KHps8mMNjGwrgpylXVhP) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [LOVE POTION](https://open.spotify.com/album/6gRcRXz1b8wjUPc1PTwYeN) | 3:19 | 2024-10-18 | 2025-01-31 |
 | [Love Takes Me Higher](https://open.spotify.com/track/1VwvA88UpQZXbYAxlNMMeD) | [Josh X](https://open.spotify.com/artist/2h2eheYRqB6maoKoP76zsc) | [Love Takes Me Higher](https://open.spotify.com/album/02TpC9jzJjMYvZBRU9R9oy) | 2:22 | 2023-04-21 | 2023-06-10 |

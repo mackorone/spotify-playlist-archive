@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa57Li9i9TJK.md) - [plain]
 
 > Potras, rancherxs y la 🧀 Con Edith Márquez  en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,561 likes - 99 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,600 likes - 99 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,13 +89,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa57Li9i9TJK.md) - [plain]
 | 79 | [Te Perdonaría](https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Perdonaría](https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz) | 2:36 |
 | 80 | [Amarte A La Antigua](https://open.spotify.com/track/7y4HLPy4f0TJpmX3rqDjHH) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Amarte A La Antigua](https://open.spotify.com/album/76v9bSTYDGwEu2X1nDxUhd) | 3:38 |
 | 81 | [Tu Amor Es Mío](https://open.spotify.com/track/69yi8lHc0rjIkzaCYU3xTX) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Tu Amor Es Mío](https://open.spotify.com/album/1DjlUNCpNxYHHA6wU1a1Q4) | 4:10 |
-| 82 | [Otra Mentira](https://open.spotify.com/track/1diUOdyPLzaEIefeOstM8q) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Otra Mentira](https://open.spotify.com/album/0QyUcWE0FaFOZTfSCNyfBl) | 4:18 |
-| 83 | [Cupido](https://open.spotify.com/track/7fednqsa5zvg3zfHbBRU8E) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Cupido](https://open.spotify.com/album/7qMNzewXjolYaKDlaSIBqY) | 2:46 |
+| 82 | [Cupido](https://open.spotify.com/track/7fednqsa5zvg3zfHbBRU8E) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Cupido](https://open.spotify.com/album/7qMNzewXjolYaKDlaSIBqY) | 2:46 |
+| 83 | [Otra Mentira](https://open.spotify.com/track/1diUOdyPLzaEIefeOstM8q) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Otra Mentira](https://open.spotify.com/album/0QyUcWE0FaFOZTfSCNyfBl) | 4:18 |
 | 84 | [Ni Fiestas, Ni Flores \- Spotify Single](https://open.spotify.com/track/1oHwG6fCf9dydOfHqO2Xhx) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Ni Fiestas, Ni Flores \- Spotify Single](https://open.spotify.com/album/120GvzgCQeq4nYW1cKVi7r) | 3:05 |
 | 85 | [Mi Corazón](https://open.spotify.com/track/02EckzshsKodeAfZQF3cDP) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Mi Corazón](https://open.spotify.com/album/5iFkzGv5idTW7deC3hdnoJ) | 2:06 |
 | 86 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Eterno Amor Secreto](https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c) | 3:52 |
-| 87 | [Con La Misma Piedra](https://open.spotify.com/track/0hMFR6ilUckSVYvsDpDPLg) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [Por Puro Amor](https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe) | 3:41 |
-| 88 | [La niña fresa](https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Fiesta Mexicana Con La Banda](https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K) | 2:40 |
+| 87 | [La niña fresa](https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Fiesta Mexicana Con La Banda](https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K) | 2:40 |
+| 88 | [Con La Misma Piedra](https://open.spotify.com/track/0hMFR6ilUckSVYvsDpDPLg) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [Por Puro Amor](https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe) | 3:41 |
 | 89 | [Dos Locos](https://open.spotify.com/track/4GzrlsibHiAfMqyWvSBvgh) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Locos De Amor](https://open.spotify.com/album/68mkOfI8mKH9HULGOBO3O8) | 3:26 |
 | 90 | [Quítame Ese Hombre Del Corazón \- Norteña Version](https://open.spotify.com/track/1JffhRkcjxOEN2fDDVWCHA) | [Pilar Montenegro](https://open.spotify.com/artist/5CSbKdrAQne1Jaen7pMkPF) | [La Historia De Los Exitos Pop A La Mexicana \(Version Mexico\)](https://open.spotify.com/album/7MKVC6X35HgOEhE2Pp61oK) | 4:00 |
 | 91 | [Un Besito Más](https://open.spotify.com/track/15EbEcyVuKFKsQFLVQPjrr) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [PA'L CORA EP\. 01](https://open.spotify.com/album/0CcqlfIynthDbMOXbc8cIV) | 3:04 |

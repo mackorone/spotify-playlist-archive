@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 
 > Press play on the ultimate Sims playlist: iconic tracks that will inspire you to unleash your imagination & creativity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,783 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,883 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 32 | [Run Away With Me](https://open.spotify.com/track/0FS7B5o3QyvOD8eWjnbLoO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion \(Deluxe Expanded Edition\)](https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou) | 4:11 |
 | 33 | [The Big Bang](https://open.spotify.com/track/0SGojwNP2zUrgDyeoBQxYO) | [Rock Mafia](https://open.spotify.com/artist/4pzAvicKWenQtv9zIQim47) | [The Big Bang](https://open.spotify.com/album/4KiFoNGSzCB5vxGrobuUcv) | 2:40 |
 | 34 | [Too Shy](https://open.spotify.com/track/6WEBIVqiEsevfgJefTyuQQ) | [Kajagoogoo](https://open.spotify.com/artist/0f3kLT4wvi2mFHlHJgV8Hl) | [White Feathers](https://open.spotify.com/album/52koatNHePHRWEmmkP0z2Z) | 3:41 |
-| 35 | [Hot & Heavy](https://open.spotify.com/track/6SIooImkHGKCIwgUZ3WDvD) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 4:10 |
-| 36 | [ハルジオン](https://open.spotify.com/track/7HneEBTvTra2CRYsxgMOAi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [ハルジオン](https://open.spotify.com/album/4sKqN5y5RydUVgSSccH13q) | 3:18 |
+| 35 | [ハルジオン](https://open.spotify.com/track/7HneEBTvTra2CRYsxgMOAi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [ハルジオン](https://open.spotify.com/album/4sKqN5y5RydUVgSSccH13q) | 3:18 |
+| 36 | [Hot & Heavy](https://open.spotify.com/track/6SIooImkHGKCIwgUZ3WDvD) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 4:10 |
 | 37 | [Dulce Locura](https://open.spotify.com/track/1I3O8YESvj6G6TqHaJTvEU) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Guapa](https://open.spotify.com/album/5UdHC0G64TmwovfaGY8U2P) | 3:50 |
 | 38 | [Moonlight](https://open.spotify.com/track/4XrvRf68c9H4orZZ9KoldQ) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Just The Beginning](https://open.spotify.com/album/55LUvkPPMUgwQVmypS3Wex) | 2:54 |
 | 39 | [4am](https://open.spotify.com/track/75enpZYDT6k0PNKu6SJ4W5) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [4am](https://open.spotify.com/album/5MBdFr25fkVqYMDCGWyvTT) | 1:50 |
@@ -52,15 +52,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 42 | [Brindo](https://open.spotify.com/track/1abN81EF3BNKoVpSxvQXPi) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [5](https://open.spotify.com/album/158sVr4HeR7ukWJMDGmdFw) | 3:05 |
 | 43 | [Happy Face](https://open.spotify.com/track/3YYTCTlM2K3GoRz3X3d4ES) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Happy Face](https://open.spotify.com/album/7lYCoXM88rbCAePNgR6L1I) | 2:49 |
 | 44 | [Let's Get It Started](https://open.spotify.com/track/37LEkmNdegFwoS55DdL6Ov) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Sport](https://open.spotify.com/album/5zoMTFng02JOaUaa5BldKT) | 3:38 |
-| 45 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 |
-| 46 | [San Francisco](https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Waiting For The Dawn](https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG) | 2:53 |
+| 45 | [San Francisco](https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Waiting For The Dawn](https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG) | 2:53 |
+| 46 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 |
 | 47 | [The Way I Do](https://open.spotify.com/track/4HXmYG1IR5xduvxTnr7fAp) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Bishop Briggs](https://open.spotify.com/album/3mN4QrBX6pOg0LcdhzT5Bi) | 4:03 |
 | 48 | [Manos Al Aire](https://open.spotify.com/track/6x3QIoNigqF82XJAFxTsya) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Mi Plan](https://open.spotify.com/album/0Z9unTBF7JAlURJAMtrqyV) | 3:29 |
 | 49 | [Bom Bom \- Radio Edit](https://open.spotify.com/track/0d5f6gzzW1Pgx9uJsLrSDP) | [Sam And The Womp](https://open.spotify.com/artist/3tgiOZXeC1DIimfprvfL64) | [Bom Bom](https://open.spotify.com/album/69onf0drqjCpyjgJsIb8BJ) | 2:54 |
 | 50 | [This Too Shall Pass](https://open.spotify.com/track/0OETmammlGosgW2SkaFeYl) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Of the Blue Colour of the Sky](https://open.spotify.com/album/41VPP2i2Yrwe8bXs5NNpM9) | 3:08 |
 | 51 | [Love Is Wicked](https://open.spotify.com/track/5kEfk2sb4xoEvk2zWbTGpt) | [Brick & Lace](https://open.spotify.com/artist/42zM1Af1Wgt8ftcda1sJxW) | [Love Is Wicked](https://open.spotify.com/album/5QrzQczc1WR25yn4u1PX5x) | 3:42 |
-| 52 | [Halloweenie VI: Possess Me](https://open.spotify.com/track/7kkZdXNVFUxtRVtwSQTnqU) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Halloweenie I\-VI](https://open.spotify.com/album/01SvqQgWJr51L72qAWsRCc) | 2:57 |
-| 53 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 |
+| 52 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 |
+| 53 | [Halloweenie VI: Possess Me](https://open.spotify.com/track/7kkZdXNVFUxtRVtwSQTnqU) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Halloweenie I\-VI](https://open.spotify.com/album/01SvqQgWJr51L72qAWsRCc) | 2:57 |
 | 54 | [All the Time](https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [All the Time](https://open.spotify.com/album/4x79GTZCS7XsmxK9qxxMmV) | 3:48 |
 | 55 | [Kiss Me Slowly](https://open.spotify.com/track/72R0X0h8YaxYNpegeoOl0M) | [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [The Way It Was](https://open.spotify.com/album/7drIw3eAGaFbqjAQe9EMYF) | 3:55 |
 | 56 | [Tonight](https://open.spotify.com/track/290yPLUQhUqZd1OlmPWGRI) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Holding Onto Strings Better Left To Fray](https://open.spotify.com/album/1Bjmcy5hWGdGQ0zANfgIzh) | 3:44 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 81 | [Double Vision](https://open.spotify.com/track/3o2ESAMet1zR1aASlzrIxO) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F) | [Streets Of Gold](https://open.spotify.com/album/1W9toxqtPfieKk6cft0f7R) | 3:10 |
 | 82 | [Malibu](https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Malibu](https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk) | 3:11 |
 | 83 | [Entropy](https://open.spotify.com/track/5Dp8m5EWFkNc3TbCSxKSzu) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:41 |
-| 84 | [newbury park](https://open.spotify.com/track/4ZeMEs9lhf7s83QHeqR432) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [newbury park](https://open.spotify.com/album/5vRetraxEpG9IAvq46a1j1) | 2:54 |
-| 85 | [City Boy](https://open.spotify.com/track/4bIRKImTd8vH9Ks79l7Rz8) | [Donkeyboy](https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO) | [Silver Moon](https://open.spotify.com/album/6vNVvWECWw4lYzwGLOEW6B) | 3:25 |
+| 84 | [City Boy](https://open.spotify.com/track/4bIRKImTd8vH9Ks79l7Rz8) | [Donkeyboy](https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO) | [Silver Moon](https://open.spotify.com/album/6vNVvWECWw4lYzwGLOEW6B) | 3:25 |
+| 85 | [newbury park](https://open.spotify.com/track/4ZeMEs9lhf7s83QHeqR432) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [newbury park](https://open.spotify.com/album/5vRetraxEpG9IAvq46a1j1) | 2:54 |
 | 86 | [Ring Pop](https://open.spotify.com/track/7AN15jOombgNojiAQ5IUG0) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Ring Pop](https://open.spotify.com/album/2QnV02lsqnLhqMnewjcAsH) | 2:26 |
 | 87 | [Shotgun](https://open.spotify.com/track/5gG1tBzjqPWXTevct5kaLX) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 4:10 |
 | 88 | [When It All Falls Apart](https://open.spotify.com/track/2lxXXI3hF46APE0wZlTeUZ) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [The Secret Life Of...](https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to) | 3:12 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 94 | [Time\-Bomb](https://open.spotify.com/track/2qqn52sp9dDk2F9PdTrpwZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work](https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8) | 3:29 |
 | 95 | [Welcome to Your Life](https://open.spotify.com/track/4hAhyE1iL07EIUJnqw2bsV) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Big Mess](https://open.spotify.com/album/6OTry12C08dF4Snq4rcE6E) | 3:47 |
 | 96 | [Te Vi Na Rua](https://open.spotify.com/track/7sJhzlcx24p2qjCl4gjhPw) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [RDD](https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW) | [Te Vi Na Rua](https://open.spotify.com/album/2xDzFdUkHFdckctVp9eFSB) | 2:54 |
-| 97 | [Everybody Wants To Be Famous](https://open.spotify.com/track/4BVFVaa1fDo20Ud1q5Gd2N) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Superorganism](https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix) | 3:04 |
-| 98 | [BONG](https://open.spotify.com/track/7BalknaAGYtzUjIGOSkGBr) | [OG BOBBY](https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe), [VannDa](https://open.spotify.com/artist/6XYPDozxzEi0iu380aAYnL) | [BONG](https://open.spotify.com/album/20fOOAZJGEDymwuWrImgL7) | 4:01 |
+| 97 | [BONG](https://open.spotify.com/track/7BalknaAGYtzUjIGOSkGBr) | [OG BOBBY](https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe), [VannDa](https://open.spotify.com/artist/6XYPDozxzEi0iu380aAYnL) | [BONG](https://open.spotify.com/album/20fOOAZJGEDymwuWrImgL7) | 4:01 |
+| 98 | [Everybody Wants To Be Famous](https://open.spotify.com/track/4BVFVaa1fDo20Ud1q5Gd2N) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Superorganism](https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix) | 3:04 |
 | 99 | [Faith Healer](https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:54 |
 | 100 | [enknee1](https://open.spotify.com/track/4F7lnSgxGKifUoWOppBJ8W) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [going...going...GONE!](https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf) | 3:44 |
 

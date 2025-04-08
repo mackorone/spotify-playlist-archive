@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 
 > 音楽家、俳優、文筆家として幅広く活躍する星野源のオールタイム・ベスト！Check out all the essentials from superstar singer\-songwriter, Gen Hoshino!
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,920 likes - 71 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,963 likes - 71 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 | 70 | [Gen Hoshino \- 不思議 \(FUSHIGI\) \- Go Stream Live ver.](https://open.spotify.com/episode/2g2kFHrb2bFWdWe2I59IIM) | [Gen Hoshino \- 不思議 \(FUSHIGI\) \- Go Stream Live ver.](https://open.spotify.com/show/0BLVSv3WdigtRGaZwaWnM9) | [Gen Hoshino \- 不思議 \(FUSHIGI\) \- Go Stream Live ver.](https://open.spotify.com/album/0BLVSv3WdigtRGaZwaWnM9) | 5:15 |
 | 71 | [Gen Hoshino \- 異世界混合大舞踏会 \(I Wanna Be Your Ghost\) \- Go Stream Live ver.](https://open.spotify.com/episode/1zQZIMixATUl1sHH5ZN9nf) | [Gen Hoshino \- 異世界混合大舞踏会 \(I Wanna Be Your Ghost\) \- Go Stream Live ver.](https://open.spotify.com/show/7nW6YMuNBl9gG5IMlYNrur) | [Gen Hoshino \- 異世界混合大舞踏会 \(I Wanna Be Your Ghost\) \- Go Stream Live ver.](https://open.spotify.com/album/7nW6YMuNBl9gG5IMlYNrur) | 4:10 |
 
-Snapshot ID: `Z5efkgAAAAA7X17dKCbw9qiGqio9T/ed`
+Snapshot ID: `Z/PhMAAAAAA8PhDGQncC+Il1WfAfIXks`

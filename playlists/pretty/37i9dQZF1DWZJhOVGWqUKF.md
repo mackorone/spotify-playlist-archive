@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJhOVGWqUKF.md) - [plain]
 
 > Sechs Saiten für ein Halleluja\. Cover: Rise Against
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,311 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,351 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

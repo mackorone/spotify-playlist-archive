@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 70728,
+  "num_followers": 70735,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2025-03-31 01:42:56",
       "album": {
-        "name": "Tr\u00e4umerei",
-        "url": "https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ"
-      },
-      "artists": [
-        {
-          "name": "J\u00f8rg Sorensen",
-          "url": "https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b"
-        }
-      ],
-      "duration_ms": 127250,
-      "name": "Tr\u00e4umerei",
-      "url": "https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb"
-    },
-    {
-      "added_at": "2025-03-31 01:42:56",
-      "album": {
         "name": "Anya",
         "url": "https://open.spotify.com/album/24ovooxolcP6FKYdb3d33f"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 223157,
       "name": "Anya",
       "url": "https://open.spotify.com/track/7wJFntvhETfYAvg5r4lOzX"
+    },
+    {
+      "added_at": "2025-03-31 01:42:56",
+      "album": {
+        "name": "Tr\u00e4umerei",
+        "url": "https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ"
+      },
+      "artists": [
+        {
+          "name": "J\u00f8rg Sorensen",
+          "url": "https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b"
+        }
+      ],
+      "duration_ms": 127250,
+      "name": "Tr\u00e4umerei",
+      "url": "https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb"
     },
     {
       "added_at": "2025-03-31 01:42:56",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-03-31 01:42:56",
       "album": {
-        "name": "T\u00f4t le matin",
-        "url": "https://open.spotify.com/album/2B1QcyRTxAJZiF9pwln7jR"
-      },
-      "artists": [
-        {
-          "name": "Alonzo Gautier",
-          "url": "https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3"
-        }
-      ],
-      "duration_ms": 130889,
-      "name": "T\u00f4t le matin",
-      "url": "https://open.spotify.com/track/5TRzmeTTbtVrsblB0HTZn7"
-    },
-    {
-      "added_at": "2025-03-31 01:42:56",
-      "album": {
         "name": "Goodnight",
         "url": "https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT"
       },
@@ -315,18 +299,18 @@
     {
       "added_at": "2025-03-31 01:42:56",
       "album": {
-        "name": "Clear Day",
-        "url": "https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH"
+        "name": "T\u00f4t le matin",
+        "url": "https://open.spotify.com/album/2B1QcyRTxAJZiF9pwln7jR"
       },
       "artists": [
         {
-          "name": "Ima Rayner",
-          "url": "https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D"
+          "name": "Alonzo Gautier",
+          "url": "https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Clear Day",
-      "url": "https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70"
+      "duration_ms": 130889,
+      "name": "T\u00f4t le matin",
+      "url": "https://open.spotify.com/track/5TRzmeTTbtVrsblB0HTZn7"
     },
     {
       "added_at": "2025-03-31 01:42:56",
@@ -347,6 +331,22 @@
     {
       "added_at": "2025-03-31 01:42:56",
       "album": {
+        "name": "Clear Day",
+        "url": "https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH"
+      },
+      "artists": [
+        {
+          "name": "Ima Rayner",
+          "url": "https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Clear Day",
+      "url": "https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70"
+    },
+    {
+      "added_at": "2025-03-31 01:42:56",
+      "album": {
         "name": "Softly Spoken",
         "url": "https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw"
       },
@@ -359,22 +359,6 @@
       "duration_ms": 136691,
       "name": "Softly Spoken",
       "url": "https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ"
-    },
-    {
-      "added_at": "2025-03-31 01:42:56",
-      "album": {
-        "name": "Reggimi",
-        "url": "https://open.spotify.com/album/3HAfEplO7S9T5qMWhs6YPR"
-      },
-      "artists": [
-        {
-          "name": "Natalino Serafin",
-          "url": "https://open.spotify.com/artist/57OZxCSUWvp2RgCCaz1AJh"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Reggimi",
-      "url": "https://open.spotify.com/track/6YLD5UAaxYG9w4D7rI6PaQ"
     },
     {
       "added_at": "2025-03-31 01:42:56",
@@ -395,18 +379,18 @@
     {
       "added_at": "2025-03-31 01:42:56",
       "album": {
-        "name": "Qu\u00e9rete a ti mesmo",
-        "url": "https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6"
+        "name": "Reggimi",
+        "url": "https://open.spotify.com/album/3HAfEplO7S9T5qMWhs6YPR"
       },
       "artists": [
         {
-          "name": "Coralia del Villar",
-          "url": "https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P"
+          "name": "Natalino Serafin",
+          "url": "https://open.spotify.com/artist/57OZxCSUWvp2RgCCaz1AJh"
         }
       ],
-      "duration_ms": 165511,
-      "name": "Qu\u00e9rete a ti mesmo",
-      "url": "https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm"
+      "duration_ms": 157000,
+      "name": "Reggimi",
+      "url": "https://open.spotify.com/track/6YLD5UAaxYG9w4D7rI6PaQ"
     },
     {
       "added_at": "2025-03-31 01:42:56",
@@ -423,6 +407,22 @@
       "duration_ms": 205611,
       "name": "Willow",
       "url": "https://open.spotify.com/track/3SYpNSW2sXVghgwW1Ffm6I"
+    },
+    {
+      "added_at": "2025-03-31 01:42:56",
+      "album": {
+        "name": "Qu\u00e9rete a ti mesmo",
+        "url": "https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6"
+      },
+      "artists": [
+        {
+          "name": "Coralia del Villar",
+          "url": "https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P"
+        }
+      ],
+      "duration_ms": 165511,
+      "name": "Qu\u00e9rete a ti mesmo",
+      "url": "https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm"
     },
     {
       "added_at": "2025-03-31 01:42:56",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-03-31 01:42:56",
       "album": {
-        "name": "Growing Old",
-        "url": "https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Johnson",
-          "url": "https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC"
-        }
-      ],
-      "duration_ms": 126250,
-      "name": "Growing Old",
-      "url": "https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2"
-    },
-    {
-      "added_at": "2025-03-31 01:42:56",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/6SwXGGKrl4gD6yLPJMXgM6"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 177071,
       "name": "Break My Heart, Love",
       "url": "https://open.spotify.com/track/2YJ50GpsJlWTmKBe5Mqk6y"
+    },
+    {
+      "added_at": "2025-03-31 01:42:56",
+      "album": {
+        "name": "Growing Old",
+        "url": "https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Johnson",
+          "url": "https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC"
+        }
+      ],
+      "duration_ms": 126250,
+      "name": "Growing Old",
+      "url": "https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2"
     },
     {
       "added_at": "2025-03-31 01:42:56",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-03-31 01:42:56",
       "album": {
-        "name": "Oyasumi Nasai",
-        "url": "https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4"
-      },
-      "artists": [
-        {
-          "name": "Marlon Guild",
-          "url": "https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl"
-        }
-      ],
-      "duration_ms": 164522,
-      "name": "Oyasumi Nasai",
-      "url": "https://open.spotify.com/track/6EtJU8JmcF7v8sLBEIO9tK"
-    },
-    {
-      "added_at": "2025-03-31 01:42:56",
-      "album": {
         "name": "Nibiru",
         "url": "https://open.spotify.com/album/0KTuufd6EhriIPzBnQ3gE7"
       },
@@ -763,6 +747,22 @@
     {
       "added_at": "2025-03-31 01:42:56",
       "album": {
+        "name": "Oyasumi Nasai",
+        "url": "https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4"
+      },
+      "artists": [
+        {
+          "name": "Marlon Guild",
+          "url": "https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl"
+        }
+      ],
+      "duration_ms": 164522,
+      "name": "Oyasumi Nasai",
+      "url": "https://open.spotify.com/track/6EtJU8JmcF7v8sLBEIO9tK"
+    },
+    {
+      "added_at": "2025-03-31 01:42:56",
+      "album": {
         "name": "Cheek to Cheek",
         "url": "https://open.spotify.com/album/7ex7nfyDTp2UDpYxKWKsPh"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 182398,
       "name": "Cheek to Cheek",
       "url": "https://open.spotify.com/track/4Fsl78MLuUrqJMnFXBctW8"
-    },
-    {
-      "added_at": "2025-03-31 01:42:56",
-      "album": {
-        "name": "L\u2019herbe verte",
-        "url": "https://open.spotify.com/album/5rPSm5zRMNh2iDrcWY0QAI"
-      },
-      "artists": [
-        {
-          "name": "Marceau Sartre",
-          "url": "https://open.spotify.com/artist/3WUn0TYXefhcLNOs4BMW6l"
-        }
-      ],
-      "duration_ms": 141374,
-      "name": "L\u2019herbe verte",
-      "url": "https://open.spotify.com/track/1Pjy5zOeaXPieqUfiSdGEb"
     },
     {
       "added_at": "2025-03-31 01:42:56",
@@ -855,6 +839,22 @@
       "duration_ms": 212000,
       "name": "First Sunrise",
       "url": "https://open.spotify.com/track/6gDt7eZjJNIkzLj9jVEBZo"
+    },
+    {
+      "added_at": "2025-03-31 01:42:56",
+      "album": {
+        "name": "L\u2019herbe verte",
+        "url": "https://open.spotify.com/album/5rPSm5zRMNh2iDrcWY0QAI"
+      },
+      "artists": [
+        {
+          "name": "Marceau Sartre",
+          "url": "https://open.spotify.com/artist/3WUn0TYXefhcLNOs4BMW6l"
+        }
+      ],
+      "duration_ms": 141374,
+      "name": "L\u2019herbe verte",
+      "url": "https://open.spotify.com/track/1Pjy5zOeaXPieqUfiSdGEb"
     },
     {
       "added_at": "2025-03-31 01:42:56",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-03-31 01:42:56",
       "album": {
-        "name": "Petals",
-        "url": "https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L"
-      },
-      "artists": [
-        {
-          "name": "Floriscope",
-          "url": "https://open.spotify.com/artist/0G4MXHhzyHUB9XexNNg2Sw"
-        }
-      ],
-      "duration_ms": 157979,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1"
-    },
-    {
-      "added_at": "2025-03-31 01:42:56",
-      "album": {
         "name": "Sagittabondo",
         "url": "https://open.spotify.com/album/5xA0kiXHUSL1wFWY52fu5O"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 133500,
       "name": "Sagittabondo",
       "url": "https://open.spotify.com/track/6L73Pb4dv5p9OOlY1ja32c"
+    },
+    {
+      "added_at": "2025-03-31 01:42:56",
+      "album": {
+        "name": "Petals",
+        "url": "https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L"
+      },
+      "artists": [
+        {
+          "name": "Floriscope",
+          "url": "https://open.spotify.com/artist/0G4MXHhzyHUB9XexNNg2Sw"
+        }
+      ],
+      "duration_ms": 157979,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1"
     },
     {
       "added_at": "2025-03-31 01:42:56",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2025-03-31 01:42:56",
       "album": {
-        "name": "They Keep Asking",
-        "url": "https://open.spotify.com/album/6v1pneOr3DwY05Mk90l5v0"
+        "name": "Nostalgia.",
+        "url": "https://open.spotify.com/album/0Rhl9X8qKI2dFBfjMiZcn8"
       },
       "artists": [
         {
-          "name": "Gottfried Barber",
-          "url": "https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl"
+          "name": "Kittikhun P.",
+          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
         }
       ],
-      "duration_ms": 151557,
-      "name": "They Keep Asking",
-      "url": "https://open.spotify.com/track/2gY1SFySK9FC7Nq41kBoOd"
+      "duration_ms": 104199,
+      "name": "Nostalgia.",
+      "url": "https://open.spotify.com/track/7bMtZNoOv7snSZvzL9cqrp"
     },
     {
       "added_at": "2025-03-31 01:42:56",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2025-03-31 01:42:56",
       "album": {
-        "name": "Avenues",
-        "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
+        "name": "They Keep Asking",
+        "url": "https://open.spotify.com/album/6v1pneOr3DwY05Mk90l5v0"
       },
       "artists": [
         {
-          "name": "Seth Fernsby",
-          "url": "https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX"
+          "name": "Gottfried Barber",
+          "url": "https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl"
         }
       ],
-      "duration_ms": 139663,
-      "name": "Avenues",
-      "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
+      "duration_ms": 151557,
+      "name": "They Keep Asking",
+      "url": "https://open.spotify.com/track/2gY1SFySK9FC7Nq41kBoOd"
     },
     {
       "added_at": "2025-03-31 01:42:56",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2025-03-31 01:42:56",
       "album": {
-        "name": "Nostalgia.",
-        "url": "https://open.spotify.com/album/0Rhl9X8qKI2dFBfjMiZcn8"
+        "name": "Avenues",
+        "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
       },
       "artists": [
         {
-          "name": "Kittikhun P.",
-          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
+          "name": "Seth Fernsby",
+          "url": "https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX"
         }
       ],
-      "duration_ms": 104199,
-      "name": "Nostalgia.",
-      "url": "https://open.spotify.com/track/7bMtZNoOv7snSZvzL9cqrp"
+      "duration_ms": 139663,
+      "name": "Avenues",
+      "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
     },
     {
       "added_at": "2025-03-31 01:42:56",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2025-03-31 01:42:56",
       "album": {
-        "name": "A Gift To Share",
-        "url": "https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy"
-      },
-      "artists": [
-        {
-          "name": "Joni Bernier",
-          "url": "https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J"
-        }
-      ],
-      "duration_ms": 139500,
-      "name": "A Gift To Share",
-      "url": "https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6"
-    },
-    {
-      "added_at": "2025-03-31 01:42:56",
-      "album": {
         "name": "The Ember",
         "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 198298,
       "name": "Trail of Light",
       "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
+    },
+    {
+      "added_at": "2025-03-31 01:42:56",
+      "album": {
+        "name": "A Gift To Share",
+        "url": "https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy"
+      },
+      "artists": [
+        {
+          "name": "Joni Bernier",
+          "url": "https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "A Gift To Share",
+      "url": "https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6"
     },
     {
       "added_at": "2025-03-31 01:42:56",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-03-31 01:42:56",
       "album": {
-        "name": "\u00c8 ora di dormire",
-        "url": "https://open.spotify.com/album/5NxTeHSVaG6jklmvpabxKY"
-      },
-      "artists": [
-        {
-          "name": "Scintillante",
-          "url": "https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "\u00c8 ora di dormire",
-      "url": "https://open.spotify.com/track/2dtIoZ0tJ3EH3EcxAkGNE8"
-    },
-    {
-      "added_at": "2025-03-31 01:42:56",
-      "album": {
         "name": "Variante Alta",
         "url": "https://open.spotify.com/album/5qUvWqRfwxFdyKN5B0iS0K"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 232934,
       "name": "Variante Alta",
       "url": "https://open.spotify.com/track/3sq3gjQNigyTGlkwkFrZ3S"
+    },
+    {
+      "added_at": "2025-03-31 01:42:56",
+      "album": {
+        "name": "\u00c8 ora di dormire",
+        "url": "https://open.spotify.com/album/5NxTeHSVaG6jklmvpabxKY"
+      },
+      "artists": [
+        {
+          "name": "Scintillante",
+          "url": "https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "\u00c8 ora di dormire",
+      "url": "https://open.spotify.com/track/2dtIoZ0tJ3EH3EcxAkGNE8"
     },
     {
       "added_at": "2025-03-31 01:42:56",

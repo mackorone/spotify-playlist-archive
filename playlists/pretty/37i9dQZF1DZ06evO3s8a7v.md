@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 
 > This is MYA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,560 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,567 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 9 | [MYA LIVE P4: Prisionero](https://open.spotify.com/track/6QOrQAXGNn82dQd5tOCtTA) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [MYA LIVE P4: Prisionero](https://open.spotify.com/album/4TD3spO6LpCNJFl7usMCqG) | 2:57 |
 | 10 | [MYA LIVE P5: Si Tú La Ves](https://open.spotify.com/track/02EOwlpC4Oo8n9FYSYYkjH) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [MYA LIVE P5: Si Tú La Ves](https://open.spotify.com/album/6odcBxR8P9lK9NiV0h7MJF) | 3:10 |
 | 11 | [Quiero Llorar](https://open.spotify.com/track/2GYNtFzTPxPDvDGpaaRrQs) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Quiero Llorar](https://open.spotify.com/album/5hRIZ1HQpBJIuU1x0FQPJP) | 3:21 |
-| 12 | [Lado Triste \- Remix](https://open.spotify.com/track/7gNClxHxDnazoQvgFhLMKr) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Lado Triste \(Remix\)](https://open.spotify.com/album/75sX87O97X5BFJ4uvnlUhN) | 2:47 |
-| 13 | [Nunca Soltamos](https://open.spotify.com/track/3gxFNiUvyb3F2BJ2EGMRtd) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Nunca Soltamos](https://open.spotify.com/album/6ghHqKuBy0ZgGWeva8XF7E) | 3:18 |
+| 12 | [Nunca Soltamos](https://open.spotify.com/track/3gxFNiUvyb3F2BJ2EGMRtd) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Nunca Soltamos](https://open.spotify.com/album/6ghHqKuBy0ZgGWeva8XF7E) | 3:18 |
+| 13 | [Lado Triste \- Remix](https://open.spotify.com/track/7gNClxHxDnazoQvgFhLMKr) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Lado Triste \(Remix\)](https://open.spotify.com/album/75sX87O97X5BFJ4uvnlUhN) | 2:47 |
 | 14 | [Corazón Guerrero \(En Vivo\)](https://open.spotify.com/track/5UHDpDK2zHJJFObMEfNk2b) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Corazón Guerrero \(En Vivo\)](https://open.spotify.com/album/1P3h9bf0TZNzLarS1G6CsX) | 3:06 |
 | 15 | [BLANCO Y NEGRO](https://open.spotify.com/track/0JOlK42EFo4ulGEQQzAPVC) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [BLANCO Y NEGRO](https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB) | 2:50 |
 | 16 | [HISTERIQUEO](https://open.spotify.com/track/3z4y1bSwBoz21QuVqKVnEM) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [HISTERIQUEO](https://open.spotify.com/album/0ajHIug4wUF4TowpnpQoPc) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 49 | [Piénsalo \(feat\. Rombai\)](https://open.spotify.com/track/72FJxkwyBde4oyntw4m66u) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:22 |
 | 50 | [Ta Pa Estar](https://open.spotify.com/track/2kS92A6GBEsI1KOfY0x9p5) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:30 |
 
-Snapshot ID: `Z/BygAAAAAC7P3l9Oe6QfXUb81aPuPFX`
+Snapshot ID: `Z/HEAAAAAAD/6rJjhRlHYRIBrsQlFbNO`

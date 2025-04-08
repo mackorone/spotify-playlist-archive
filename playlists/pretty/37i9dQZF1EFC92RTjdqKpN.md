@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,026 likes - 198 songs - 10 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,027 likes - 198 songs - 10 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,8 +158,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 148 | [Where We Left](https://open.spotify.com/track/3z9yT94FvmgWOgXZHuE0b6) | [CADE](https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV) | [Where We Left](https://open.spotify.com/album/5a5ywLo0LuBmnOO1hb28P7) | 3:40 |
 | 149 | [Infinity](https://open.spotify.com/track/6bE0Y8d0xTaXrrRUVkyD8u) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 3:10 |
 | 150 | [Baby Don't Dance](https://open.spotify.com/track/1fZ5HV5Qv5aQSV9dXWZ1vy) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [Love, Sax & Flashbacks \(Track by Track\)](https://open.spotify.com/album/1nFgJpjh2doGfve56uADlm) | 3:24 |
-| 151 | [Why Does It Hurt](https://open.spotify.com/track/3Vr2LVreIKr9aHy0x7Swmz) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Why Does It Hurt](https://open.spotify.com/album/3Zbab5E4YrBcBZPgcXpE05) | 3:18 |
-| 152 | [WET DREAM](https://open.spotify.com/track/2pTid5WZTf6PajZUaWlwyJ) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [LUBE // WET DREAM](https://open.spotify.com/album/3393nwx0uNyCzPEgvSBXJy) | 2:59 |
+| 151 | [WET DREAM](https://open.spotify.com/track/2pTid5WZTf6PajZUaWlwyJ) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [LUBE // WET DREAM](https://open.spotify.com/album/3393nwx0uNyCzPEgvSBXJy) | 2:59 |
+| 152 | [Why Does It Hurt](https://open.spotify.com/track/3Vr2LVreIKr9aHy0x7Swmz) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Why Does It Hurt](https://open.spotify.com/album/3Zbab5E4YrBcBZPgcXpE05) | 3:18 |
 | 153 | [MUSCLE](https://open.spotify.com/track/2feyIPw7iHgdaMYRskMTuK) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [MUSCLE](https://open.spotify.com/album/7bzkCKNKQQTlHKbEdEuOBH) | 2:29 |
 | 154 | [Who's It Gonna Be](https://open.spotify.com/track/53B756r7H1DB0l0jia4p5x) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Girl Problems](https://open.spotify.com/album/6toYxO6NCaUTUI0g5w2CEq) | 3:27 |
 | 155 | [Move Me](https://open.spotify.com/track/6wS1Gy6As0gt7s8LAdb7E7) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Brendan Reilly](https://open.spotify.com/artist/5JO2xhC4QRDrMam4oJHx4z) | [Red Lips](https://open.spotify.com/album/6huDs4K7QvGIkFvHBYbfd1) | 3:36 |
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 197 | [Tonight](https://open.spotify.com/track/4aTAQCJIGLU5RRcnZNPftn) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/6ohDfN4WqQolD87G6s3j3U) | 3:53 |
 | 198 | [Impossible](https://open.spotify.com/track/42gXlZEqFQ6Slmo9jxATv5) | [Shin Giwon Piano](https://open.spotify.com/artist/0hKq3u04JU5IuGNSTGyngJ) | [Kpop Piano \#69](https://open.spotify.com/album/5p1EcRrbWRuuCL8hlitUXQ) | 3:06 |
 
-Snapshot ID: `AbuFSgAAAABYaAgJ36f89E6s5Ve+/sWo`
+Snapshot ID: `AbuKzAAAAAD/EdKbR08DWhQoXm7iCBOc`

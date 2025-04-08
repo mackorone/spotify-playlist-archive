@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: Linying
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,549 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,554 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

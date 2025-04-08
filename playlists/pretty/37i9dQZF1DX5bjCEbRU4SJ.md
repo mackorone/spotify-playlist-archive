@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,732 likes - 70 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,751 likes - 70 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 45 | [Can't Take You With Me](https://open.spotify.com/track/4nRW6NCV3eKlqI1B7oUgxI) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas is Afie](https://open.spotify.com/album/5UXWs03dk4KTJioTAqQKWv) | 3:10 |
 | 46 | [Perfect Day](https://open.spotify.com/track/3egOYMcML1gY2yM9GOvuXU) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Perfect Day](https://open.spotify.com/album/64SYukAhDXMKhtFJRoFqUg) | 3:44 |
 | 47 | [Blue Moon](https://open.spotify.com/track/3aL353hFdpA6eOcDUL5sOH) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Blue Moon](https://open.spotify.com/album/5TafbNrL62AecbmD4lC1zc) | 4:02 |
-| 48 | [I Hope That I Don't Fall In Love With You](https://open.spotify.com/track/0oYo06FRCBtrE3kWrDcsDF) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Closing Time](https://open.spotify.com/album/4ENah6iWByAVrxQS7uiF87) | 3:54 |
-| 49 | [Berlin](https://open.spotify.com/track/123W7snVRuONLwn2uMdJB3) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Berlin EP](https://open.spotify.com/album/2d90pcby1VFHjXUGYJNBJc) | 2:50 |
-| 50 | [Your Song](https://open.spotify.com/track/55uHgEQV1BVtTbI72uEpOq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Golden Moments](https://open.spotify.com/album/4XIbmP53zK67wpaADb3ErR) | 4:03 |
+| 48 | [Your Song](https://open.spotify.com/track/55uHgEQV1BVtTbI72uEpOq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Golden Moments](https://open.spotify.com/album/4XIbmP53zK67wpaADb3ErR) | 4:03 |
+| 49 | [I Hope That I Don't Fall In Love With You](https://open.spotify.com/track/0oYo06FRCBtrE3kWrDcsDF) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Closing Time](https://open.spotify.com/album/4ENah6iWByAVrxQS7uiF87) | 3:54 |
+| 50 | [Berlin](https://open.spotify.com/track/123W7snVRuONLwn2uMdJB3) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Berlin EP](https://open.spotify.com/album/2d90pcby1VFHjXUGYJNBJc) | 2:50 |
 | 51 | [Postcards From Italy](https://open.spotify.com/track/2ThEm5QN5UrJzmpAAMaH1Y) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Gulag Orkestar](https://open.spotify.com/album/3WNU7rbYexFHj9DPOZMdLR) | 4:17 |
 | 52 | [There Can Be Only One](https://open.spotify.com/track/6mbbXTBC7ADcjh5RCNrooU) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Big Wheel and Others](https://open.spotify.com/album/56KG63TFrh23oy9lcqPEnt) | 4:17 |
 | 53 | [This Must Be The Place](https://open.spotify.com/track/6nRenEga4WTc8Da7kigrBO) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Ben Bridwell](https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W) | [This Must Be The Place](https://open.spotify.com/album/36GkOSZ11diC92mBGJBRrQ) | 3:32 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Good Bad Ugly
 
-[Spotify](https://open.spotify.com/user/spotify) - 698,683 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 698,723 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 16 | [Please Yenna Appadi Paakadhey \(From "Bad Girl"\)](https://open.spotify.com/track/37f4gjeOsqAu63UoHvtXdl) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Maalavika Manoj](https://open.spotify.com/artist/2SgO4umIM8n8COlSKUnahL) | [Please Yenna Appadi Paakadhey \(From "Bad Girl"\)](https://open.spotify.com/album/3o7qC6KApXCgGR5K1cexdx) | 3:00 |
 | 17 | [En Uyire](https://open.spotify.com/track/18RWJYKcaXYRscnJeUNEh3) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Nilavuku En Mel Ennadi Kobam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/40e0n7SpErizpJh4A4X0ME) | 1:48 |
 | 18 | [Blud Is On His Way \- From "PR04"](https://open.spotify.com/track/0AIuNCZrate6MIxM2djNI9) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc) | [Blud Is On His Way \(From "PR04"\)](https://open.spotify.com/album/1scvYLK8VHrroOWnZhu4Qx) | 1:17 |
-| 19 | [Setaagaade \(From"KD Tamil"\)](https://open.spotify.com/track/7kG2zizIJ0pLjwXMYlr2u7) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Setaagaade \(From"KD Tamil"\)](https://open.spotify.com/album/6kcywkPKicewjlO4fAeOdT) | 3:24 |
+| 19 | [Azrael \(From "L2: Empuraan"\) \- Tamil Version](https://open.spotify.com/track/5JXtO0SGWwR3c9doFDwKSk) | [Deepak Dev](https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3), [Usha Uthup](https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma) | [Azrael \(From "L2: Empuraan"\) \[Tamil Version\]](https://open.spotify.com/album/78gfRevHDORSrIw7qjs3IV) | 4:52 |
 | 20 | [Love Song \(From "Kannappa"\) \[TAMIL\]](https://open.spotify.com/track/3GDlAdPKt2gBUF80A9EFqv) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Stephen Devassy](https://open.spotify.com/artist/1bJWW46CNRUpySTWeks99j), [Shashank Vennelakanti](https://open.spotify.com/artist/0upyKNxrOpiMbccA7Olohq) | [Love Song \(From "Kannappa"\) \[TAMIL\]](https://open.spotify.com/album/0BDfcOkjUGdpf7AvAvHeuc) | 4:13 |
 | 21 | [I'm from Ulundurpettai \- From "Yolo"](https://open.spotify.com/track/2bOa8XkTVWhZreyjl6gJiJ) | [Sagishna Xavier](https://open.spotify.com/artist/6Jdi3gLwRWKNEyCQDUQnex), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [I'm from Ulundurpettai \(From "Yolo"\)](https://open.spotify.com/album/4vJLKn6mTft8w5aNGaoWYF) | 3:37 |
 | 22 | [Ayla Allela](https://open.spotify.com/track/6Dz7WgsWwFUFPioUB3c596) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Velmurugan](https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi) | [Veera Dheera Sooran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hqxdOOQtLnoqoh1tL36Y6) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 49 | [Perseverance Theme](https://open.spotify.com/track/30XXtZvRUdMHoVgnGu28LO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Amogh Balaji](https://open.spotify.com/artist/6PRnZDNLsPAwsOqMk41XUz) | [Vidaamuyarchi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1nbDSTLKDO9SvjQ2cOQglE) | 2:54 |
 | 50 | [Iraivaa](https://open.spotify.com/track/2vVc9hS3bCnSsk7maXuICM) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [KO\. Sesha](https://open.spotify.com/artist/0XB0vcIw0i7bKrjqYIk5a7) | [Dragon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nnIfhnQEZouWC7Stu3AY9) | 3:19 |
 
-Snapshot ID: `Z++wwAAAAACprfNi9O2zGN5vCeJ3bivx`
+Snapshot ID: `Z/PGDgAAAACO8MbtXI8JW0hJFfx4qErB`

@@ -1,12 +1,12 @@
 {
   "description": "This is Lana Del Rey. The essential tracks, all in one playlist.",
-  "num_followers": 2616285,
+  "num_followers": 2616894,
   "original_name": "This Is Lana Del Rey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAACzbPNU6tElydUY8zl1pPoB",
+  "snapshot_id": "Z/HEAAAAAADFlh6TqJqs1bnpdlxgdNZm",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tough",
-        "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
       "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
         {
           "name": "Lana Del Rey",
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 188828,
-      "name": "Tough",
-      "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
+      "duration_ms": 272485,
+      "name": "Happiness is a butterfly",
+      "url": "https://open.spotify.com/track/3lG6OtGDsYAOALxEmubQQm"
     },
     {
       "added_at": null,
@@ -383,18 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+        "name": "Tough",
+        "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
       },
       "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
         {
           "name": "Lana Del Rey",
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 272485,
-      "name": "Happiness is a butterfly",
-      "url": "https://open.spotify.com/track/3lG6OtGDsYAOALxEmubQQm"
+      "duration_ms": 188828,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
     },
     {
       "added_at": null,

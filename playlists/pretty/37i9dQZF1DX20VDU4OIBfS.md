@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20VDU4OIBfS.md) - [plain]
 
 > Temas inolvidables del baúl de los recuerdos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,064,800 likes - 150 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,064,901 likes - 150 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20VDU4OIBfS.md) - [plain]
 | 36 | [Frente a Frente](https://open.spotify.com/track/38sK8PSXXgZMLZujwgvNUH) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Originales \- 20 Exitos](https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o) | 3:12 |
 | 37 | [Detalles \(Detalhes\)](https://open.spotify.com/track/4tAwP9QKeLEQJ2fgd1RWcY) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Un Gato En La Oscuridad](https://open.spotify.com/album/6QehPjFB3Q8uH2btA35cQm) | 5:08 |
 | 38 | [Déjenme Si Estoy Llorando](https://open.spotify.com/track/0YvKdz58OcwgYdS67NJkkU) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Serie De Oro](https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d) | 2:48 |
-| 39 | [El Rey](https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Idolo De Mexico](https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru) | 2:37 |
-| 40 | [El Día Que Me Quieras](https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 4:01 |
-| 41 | [Melina](https://open.spotify.com/track/3utK0tH0YhlB5fIjdy3em7) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Amor Libre](https://open.spotify.com/album/2EKOijjOeD2UQ9gXAp1xF8) | 2:50 |
+| 39 | [El Día Que Me Quieras](https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 4:01 |
+| 40 | [Melina](https://open.spotify.com/track/3utK0tH0YhlB5fIjdy3em7) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Amor Libre](https://open.spotify.com/album/2EKOijjOeD2UQ9gXAp1xF8) | 2:50 |
+| 41 | [El Rey](https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Idolo De Mexico](https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru) | 2:37 |
 | 42 | [Llorarás](https://open.spotify.com/track/2avnbTB2bVyKI2nz553XuH) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Llorarás](https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7) | 3:37 |
 | 43 | [Piel Canela](https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:17 |
 | 44 | [Sueños Compartidos](https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [El Angel Del Rock Vol\. 2](https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x) | 4:14 |

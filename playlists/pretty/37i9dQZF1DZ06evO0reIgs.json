@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 81860,
+  "num_followers": 81863,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAAB/KZj3JcvlNcdERS5GddRw",
+  "snapshot_id": "Z/HEAAAAAACMcctr2Qf+s46NWg0qDb7Q",
   "tracks": [
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gado",
-        "url": "https://open.spotify.com/album/4ONyrxW3mWMLASTjpKq2ak"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Psiu",
-      "url": "https://open.spotify.com/track/3jtDOL6YOJpZpp1wABKoLp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "As 25 Horas de Le Mans",
         "url": "https://open.spotify.com/album/0bH3nq5jLOk2PwSqUA3A5Z"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 194965,
       "name": "As 25 Horas de Le Mans",
       "url": "https://open.spotify.com/track/4I5M8Y32OkiQ3YIakP0HTN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gado",
+        "url": "https://open.spotify.com/album/4ONyrxW3mWMLASTjpKq2ak"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Psiu",
+      "url": "https://open.spotify.com/track/3jtDOL6YOJpZpp1wABKoLp"
     },
     {
       "added_at": null,

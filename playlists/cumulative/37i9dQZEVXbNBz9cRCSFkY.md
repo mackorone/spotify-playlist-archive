@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-982 songs - 2 day 11 hr 6 min
+983 songs - 2 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,7 +411,8 @@
 | [intro \(end of the world\)](https://open.spotify.com/track/2o1pb13quMReXZqE7jWsgq) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 1:32 | 2024-03-18 | 2025-03-31 |
 | [intro \(end of the world\) \- extended](https://open.spotify.com/track/33cRPtUHTjMG90FZV76S8T) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead \(instrumental version\)](https://open.spotify.com/album/7saicsozAZSsKEVQh4WAig) | 2:41 | 2025-04-05 | 2025-04-07 |
 | [intro \(end of the world\) \- extended](https://open.spotify.com/track/5BBkvXH2jYROUzKIB7WX7S) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd) | 2:41 | 2025-03-29 | 2025-04-06 |
-| [intro \(end of the world\) \- extended](https://open.spotify.com/track/7tsfS4TNh9E20v7pkimwGp) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead \(a cappella version\)](https://open.spotify.com/album/2xqTa2dCR54yYHEcttiXyD) | 2:41 | 2025-04-06 |  |
+| [intro \(end of the world\) \- extended](https://open.spotify.com/track/7tsfS4TNh9E20v7pkimwGp) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead \(a cappella version\)](https://open.spotify.com/album/2xqTa2dCR54yYHEcttiXyD) | 2:41 | 2025-04-06 | 2025-04-08 |
+| [Ipagdadamot Kita](https://open.spotify.com/track/4F1lbAADITrGQaHh0F6g58) | [OLG Zak](https://open.spotify.com/artist/3cAaV8C5Lgdvtib9ub4EGs), [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5), [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE), [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2) | [Ipagdadamot Kita](https://open.spotify.com/album/4iM2r1bgQ2XqHDVVCyKyyF) | 4:07 | 2025-04-07 |  |
 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 | 2025-03-07 |  |
 | [Is It Over Now? \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:49 | 2023-10-28 | 2023-12-03 |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2023-02-25 | 2023-06-21 |

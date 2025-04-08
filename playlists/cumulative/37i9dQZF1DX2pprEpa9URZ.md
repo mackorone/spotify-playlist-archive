@@ -4,7 +4,7 @@
 
 > Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.
 
-461 songs - 1 day 23 hr 34 min
+462 songs - 1 day 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Efsun](https://open.spotify.com/track/4qpm26kuDkeIRICuQ34Q1U) | [Ali Kuru](https://open.spotify.com/artist/4ljGdf7WSUgs2gc0TVGNGV) | [Merhaba](https://open.spotify.com/album/0MWRx1a4Z2MaaWqn4rqY94) | 6:21 | 2019-11-02 | 2021-02-27 |
 | [Ekata](https://open.spotify.com/track/45nyiS7Q2fJaY9AuNDZDee) | [The Advocate](https://open.spotify.com/artist/2BoWW5buEf2tz4NlKVknvm), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Ekata](https://open.spotify.com/album/15NQB0wgAcH6pStxyo0rCb) | 5:34 | 2021-02-28 | 2022-04-21 |
 | [El Aguante](https://open.spotify.com/track/7iBDzIdjku2fVyxtnhAS4p) | [Acado](https://open.spotify.com/artist/1z6fgjuCMlbaHSM0xqApwM), [Vincent Marlice](https://open.spotify.com/artist/61yRe9dnniWdRmZZiuL1bf) | [Como te Llamai](https://open.spotify.com/album/7nCj9u1kbQcRWdjOiRTVz7) | 5:16 | 2022-04-04 | 2022-04-19 |
+| [El Bala](https://open.spotify.com/track/0Bty4l91bbM8KiXL10A1sf) | [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [El Bala](https://open.spotify.com/album/6RANOE12X51tkuxLKuf9WA) | 5:33 | 2025-03-28 |  |
 | [El Cant Dels Ocells](https://open.spotify.com/track/1GVFgF4N5nJuzZZOIJpjNT) | [Cee ElAssaad](https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH), [Mario Bianco](https://open.spotify.com/artist/6vp30rsPWd5MoA7ATA4Fz4) | [El Cant Dels Ocells](https://open.spotify.com/album/0FCiQRJgrp54sexhOuGf9z) | 8:42 | 2019-08-02\* | 2020-05-14 |
 | [El Dolor](https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu) | [Mux](https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE) | [Ancestry](https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP) | 4:54 | 2021-05-08 |  |
 | [El Malevo \(La Noche\)](https://open.spotify.com/track/0E2yRva7UxLtzeDxtbASxx) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl), [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [El Malevo \(La Noche\)](https://open.spotify.com/album/4MUV8CxPhQkugbCBFwghuC) | 6:08 | 2024-08-05 | 2024-08-22 |
@@ -365,7 +366,7 @@
 | [Scena](https://open.spotify.com/track/3JARIWKhqDUQ0LDxCD75U5) | [Angelov](https://open.spotify.com/artist/1gfKoKe7IlVgI1rL6qG7J2) | [Scena EP](https://open.spotify.com/album/1XaQkW4nR9nUNJSG6L8A6M) | 5:41 | 2020-06-12 | 2020-08-20 |
 | [Se Va, Se Va](https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO) | [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC) | [Se Va, Se Va](https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba) | 7:29 | 2023-01-30 |  |
 | [Searching for God](https://open.spotify.com/track/4SZWmVyhFYzpYt0NYmsVFR) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF), [David Satori](https://open.spotify.com/artist/7B0gYSjdSuAYoQB0REnkhF), [GLITTER COWBOY](https://open.spotify.com/artist/1Yy5RYgVvNZRA6ghwpxTuZ) | [Searching for God](https://open.spotify.com/album/10O5gRr7y9K9F9JGB8CH7Y) | 3:12 | 2024-08-22 | 2025-03-29 |
-| [Searching For Myself](https://open.spotify.com/track/3pRne1ASI82w3bkFcsmBeo) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Searching For Myself](https://open.spotify.com/album/0mg6CGvY71DL7rckHvCzl5) | 6:34 | 2025-01-27 |  |
+| [Searching For Myself](https://open.spotify.com/track/3pRne1ASI82w3bkFcsmBeo) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Searching For Myself](https://open.spotify.com/album/0mg6CGvY71DL7rckHvCzl5) | 6:34 | 2025-01-27 | 2025-04-08 |
 | [Secreto](https://open.spotify.com/track/5KjqHWEssr7QRnRnTZfOQN) | [Saive](https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ), [MUTA](https://open.spotify.com/artist/62LBdSPU8iqcGV4tSKruO9) | [Secreto](https://open.spotify.com/album/5FmgMaL2u61aYGCp9E7PwT) | 5:21 | 2022-09-09 | 2024-12-19 |
 | [Senhor Carangeju \- Dengue Dengue Dengue Remix](https://open.spotify.com/track/76WbdLgFwXC1ZwMzWDTNxt) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Na Lagoa \(Remixes\)](https://open.spotify.com/album/3yumAJDkK8phPkQYGXJFDm) | 4:24 | 2022-11-25 | 2024-09-19 |
 | [Serbet](https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw) | [Dim Angelo](https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2), [Christos Papadopoulos](https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn), [Meditelectro](https://open.spotify.com/artist/4ht1IrZ4XwPooQ7C4rUNvg) | [Serbet](https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17) | 5:12 | 2021-12-17 |  |

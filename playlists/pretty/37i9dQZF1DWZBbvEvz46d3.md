@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,580 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,592 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 40 | [Tęskno Mi](https://open.spotify.com/track/4GQ393HmZYv14Ol4N1keYf) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Zakryj \(Deluxe\)](https://open.spotify.com/album/24dltoKXLEyuYs2XyzWA6T) | 3:35 |
 | 41 | [Trudno Tak \(Razem Być Nam Ze Sobą\)](https://open.spotify.com/track/2XaWRFfWAopw4MjhWzuJ15) | [Krzysztof Krawczyk](https://open.spotify.com/artist/1SKeSGQ3LMHYCEgqFGvJbE), [Edyta Bartosiewicz](https://open.spotify.com/artist/1MrKvFb6ie6bTXGpSEYx0g) | [Duety](https://open.spotify.com/album/2ubxdOP13B5rWDTeEHPw1t) | 4:23 |
 | 42 | [Nic dwa razy \(W\. Szymborska\)](https://open.spotify.com/track/6C5A0xV8tvW8NqzLUb2xt1) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Nic dwa razy \(W\. Szymborska\)](https://open.spotify.com/album/3gZB6h09sZvWlhzZaqtf6t) | 3:09 |
-| 43 | [Peron](https://open.spotify.com/track/77eqkdC6DXRUIT09syzW5d) | [Jamal](https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3) | [Milosc](https://open.spotify.com/album/6JMq8W8uo45Mpt3uMAoWcB) | 3:15 |
-| 44 | [Kocham cię jak irlandię](https://open.spotify.com/track/4fJGiLOU3etMQTOE3HFIEz) | [Kobranocka](https://open.spotify.com/artist/55bqpWJMazkqj8A3iziuuF) | [Póki to nie zabronione \(The Best\)](https://open.spotify.com/album/7xCZKYPaLXg3G23Ci7a71V) | 4:54 |
+| 43 | [Kocham cię jak irlandię](https://open.spotify.com/track/4fJGiLOU3etMQTOE3HFIEz) | [Kobranocka](https://open.spotify.com/artist/55bqpWJMazkqj8A3iziuuF) | [Póki to nie zabronione \(The Best\)](https://open.spotify.com/album/7xCZKYPaLXg3G23Ci7a71V) | 4:54 |
+| 44 | [Peron](https://open.spotify.com/track/77eqkdC6DXRUIT09syzW5d) | [Jamal](https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3) | [Milosc](https://open.spotify.com/album/6JMq8W8uo45Mpt3uMAoWcB) | 3:15 |
 | 45 | [Miales Byc](https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Album](https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E) | 3:29 |
 | 46 | [Nikt tak pięknie nie mówił, że się boi miłości](https://open.spotify.com/track/1kNPvVDqN2KZZrOhyqEiux) | [Pidżama Porno](https://open.spotify.com/artist/0qibngGI3EFCen6abY5hqY) | [Bułgarskie centrum](https://open.spotify.com/album/30EQdPcM7Lf3IuKBw2WCau) | 6:14 |
 | 47 | [Wkręceni nie ufaj mi](https://open.spotify.com/track/4Wjdk72dzEOynrdTQGBac8) | [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX) | [Wkręceni nie ufaj mi](https://open.spotify.com/album/6LrjH2C1uuYPgqktMpKcWU) | 2:58 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 70 | [Zapomnij Mi](https://open.spotify.com/track/5Dk03tfXBF8zYlJOUSaKe9) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Zapomnij Mi](https://open.spotify.com/album/3II6EqtqCnYV5IPW0axuOn) | 3:37 |
 | 71 | [Dobrze, że Cię mam](https://open.spotify.com/track/3zkRnBtA9RYxjkwEdDdfXF) | [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Mój dom](https://open.spotify.com/album/6j3XzrGQ3yatMc9hqAM5DJ) | 3:32 |
 | 72 | [Chodź, pomaluj mój świat](https://open.spotify.com/track/4ugeq72uzChJZAgvqwD9ub) | [2 + 1](https://open.spotify.com/artist/0QEpcs3nm7UnAMcqL2zrcW) | [Polska nostalgia 60+ Cz\. 4](https://open.spotify.com/album/4qsfOticmzQEfDRED5nsx4) | 2:24 |
-| 73 | [Silacz](https://open.spotify.com/track/2anIL8mQb31ZlxLMEjwhG9) | [Marcin Rozynek](https://open.spotify.com/artist/0K0Sa7amVwCmQKz7ZHRRim) | [Ksiega Urodzaju](https://open.spotify.com/album/5OWhE19fiFeQLFY9mD0UQr) | 3:59 |
-| 74 | [Jesteś lekiem na całe zło \- 1994](https://open.spotify.com/track/6hqftK2O6t2sI5AmwLhnLs) | [Krystyna Prońko](https://open.spotify.com/artist/4SCH2LpYYD5iKpc1xtDJ4Y) | [Osobista kolekcja 2](https://open.spotify.com/album/7g9OXZbrJyAkeYv7VWR9wh) | 4:40 |
+| 73 | [Jesteś lekiem na całe zło \- 1994](https://open.spotify.com/track/6hqftK2O6t2sI5AmwLhnLs) | [Krystyna Prońko](https://open.spotify.com/artist/4SCH2LpYYD5iKpc1xtDJ4Y) | [Osobista kolekcja 2](https://open.spotify.com/album/7g9OXZbrJyAkeYv7VWR9wh) | 4:40 |
+| 74 | [Silacz](https://open.spotify.com/track/2anIL8mQb31ZlxLMEjwhG9) | [Marcin Rozynek](https://open.spotify.com/artist/0K0Sa7amVwCmQKz7ZHRRim) | [Ksiega Urodzaju](https://open.spotify.com/album/5OWhE19fiFeQLFY9mD0UQr) | 3:59 |
 | 75 | [Śpij Kochanie Śpij](https://open.spotify.com/track/77ppwEoKPhNZx8h3Nskr7H) | [Kayah](https://open.spotify.com/artist/2v295z585SM68pluEKXKSM), [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Kayah & Bregovic](https://open.spotify.com/album/20ewUNNrxkKjMgNd2Ax7lX) | 4:31 |
 
 Snapshot ID: `Z6YmyAAAAADDjYREEKYAAMOdOBU8Ljqv`

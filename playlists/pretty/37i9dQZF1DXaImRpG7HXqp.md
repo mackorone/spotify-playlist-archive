@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 
 > Keep calm with instrumental acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,322 likes - 233 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,422 likes - 233 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 5 | [French Town](https://open.spotify.com/track/4KVbd3DdAlN6soY6VlsyQm) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [French Town](https://open.spotify.com/album/0GtfbWiV49Sk0KPFKy4E0z) | 2:22 |
 | 6 | [Angel](https://open.spotify.com/track/53buLGflmrjon42rFFwcj8) | [Kaspar Mann](https://open.spotify.com/artist/7hZPqfKfcyqVgLOQ5vOGk8) | [Angel](https://open.spotify.com/album/4mrl491t5RV2RpqKgt5YuG) | 2:24 |
 | 7 | [Palermo](https://open.spotify.com/track/1xXbu3j1JPlMOLpfo6aVPJ) | [Lorenzo Campagnoli](https://open.spotify.com/artist/1pOPhkviofSIVzyPUrqXzc) | [Palermo](https://open.spotify.com/album/3LpA8GNdQmLhpmgUf5rRda) | 1:46 |
-| 8 | [Winding Round](https://open.spotify.com/track/6tAMRb5B9arxFxGwdU3AQ0) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Winding Round](https://open.spotify.com/album/0hZVB1UgQA8RYnjEx1oq8s) | 1:43 |
-| 9 | [Vacation](https://open.spotify.com/track/5uS2gw5SMyh6CiwkHXdsqI) | [Miles Higgins](https://open.spotify.com/artist/5tdW8sDHJ3jsFUSrEjJkn4) | [Vacation](https://open.spotify.com/album/4EKKw5CPenPkpEeM6X8bww) | 2:04 |
-| 10 | [Darkwood](https://open.spotify.com/track/06zZnFCJmYjLDtdlPxTyw6) | [Immanuel](https://open.spotify.com/artist/7K4eXxDLiJxRllsBhu5C09) | [Darkwood](https://open.spotify.com/album/2MBbsM2B4AN8yBq50i5yE4) | 2:18 |
-| 11 | [On This Day](https://open.spotify.com/track/0ROxScNcNq6OrE6g8ImdgP) | [Em Monet](https://open.spotify.com/artist/2hzlSHfKcUQMB1B3wTwOd0) | [On This Day](https://open.spotify.com/album/3U1uyg3ua3Euynzq7juUch) | 2:07 |
+| 8 | [Darkwood](https://open.spotify.com/track/06zZnFCJmYjLDtdlPxTyw6) | [Immanuel](https://open.spotify.com/artist/7K4eXxDLiJxRllsBhu5C09) | [Darkwood](https://open.spotify.com/album/2MBbsM2B4AN8yBq50i5yE4) | 2:18 |
+| 9 | [On This Day](https://open.spotify.com/track/0ROxScNcNq6OrE6g8ImdgP) | [Em Monet](https://open.spotify.com/artist/2hzlSHfKcUQMB1B3wTwOd0) | [On This Day](https://open.spotify.com/album/3U1uyg3ua3Euynzq7juUch) | 2:07 |
+| 10 | [Winding Round](https://open.spotify.com/track/6tAMRb5B9arxFxGwdU3AQ0) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Winding Round](https://open.spotify.com/album/0hZVB1UgQA8RYnjEx1oq8s) | 1:43 |
+| 11 | [Vacation](https://open.spotify.com/track/5uS2gw5SMyh6CiwkHXdsqI) | [Miles Higgins](https://open.spotify.com/artist/5tdW8sDHJ3jsFUSrEjJkn4) | [Vacation](https://open.spotify.com/album/4EKKw5CPenPkpEeM6X8bww) | 2:04 |
 | 12 | [The Garden](https://open.spotify.com/track/7h4T0DIJj037PyasRaNz1f) | [Patrick Leon](https://open.spotify.com/artist/7EU9C8bv0IKb2lRUxzhAXO) | [The Garden](https://open.spotify.com/album/1qVQJt1mbYXuxk9R0xpyFe) | 2:23 |
 | 13 | [Leben](https://open.spotify.com/track/64Fui69wRsnb7DGj00asBt) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Leben](https://open.spotify.com/album/7uzp1YQSlqHwlFOzjxRwoS) | 2:38 |
 | 14 | [Bilbo](https://open.spotify.com/track/6iDSCK18tX5CCloZyhE2KR) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Bilbo](https://open.spotify.com/album/6SB4qQhsTWvtYmlLceZS37) | 2:45 |
@@ -32,16 +32,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 22 | [Turnaround](https://open.spotify.com/track/0Fom1LEwWsSa0YvfbzWV7V) | [Quinn Sage](https://open.spotify.com/artist/4k3ooZfSTsaIT5DPGL2dhz) | [Turnaround](https://open.spotify.com/album/7jHtTKAsyB8q2nIRS2EEa3) | 2:31 |
 | 23 | [Daybreak](https://open.spotify.com/track/07N5NE0fL2Mr8GZ3CZNxoD) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Daybreak](https://open.spotify.com/album/0ClB01rHJW4BkMmxxUOli2) | 2:14 |
 | 24 | [Elys](https://open.spotify.com/track/1GsZaVvJ8K8vrB3QSZElgw) | [Dorian Skye](https://open.spotify.com/artist/2PqHZufHAfKQKnL2C76Dnq) | [Elys](https://open.spotify.com/album/3ueM6PUUzuMvqcyWTpInkL) | 2:45 |
-| 25 | [Morning Light](https://open.spotify.com/track/1PXpZEeDqgKauNuhssSgWs) | [Phil Stent](https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G) | [Morning Light](https://open.spotify.com/album/08uEmJ2I1N8pgxPgbpZJC4) | 2:18 |
-| 26 | [Day and Night](https://open.spotify.com/track/3upnQFF0KAINKmGa4T1EBC) | [David Isner](https://open.spotify.com/artist/2WGXK53ulKkW9Cmi7anYRI) | [Day and Night](https://open.spotify.com/album/5QGRkrCipgaDXU7dCKDYmg) | 2:37 |
-| 27 | [Another Lifetime](https://open.spotify.com/track/6CVu8xdBu0PfhLilBSflKK) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Another Lifetime](https://open.spotify.com/album/4MP5HL0GXG8NyTXZV8Tazt) | 2:08 |
-| 28 | [The Story](https://open.spotify.com/track/4vYEsiKuRke7P1vWFVkzRy) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [The Story](https://open.spotify.com/album/6u9AB61ZY30Igi1oC0BRgj) | 2:30 |
-| 29 | [Petals](https://open.spotify.com/track/2qxVO2JX4ayyUjdvTjEpmX) | [Leo Ask](https://open.spotify.com/artist/0blkB99ucLKIuuXSLsSguY) | [Petals](https://open.spotify.com/album/0dOqSiYaRrSbXzTB4z9iKp) | 2:29 |
-| 30 | [For the joys](https://open.spotify.com/track/1t1TI1DinDcwVZv5Ea188l) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [For the joys](https://open.spotify.com/album/4Jb0gJidq3hehJwEJm69ym) | 1:44 |
-| 31 | [Gentle Wind](https://open.spotify.com/track/3fdtUvagmwESIuBwwGH0WK) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Gentle Wind](https://open.spotify.com/album/4HsimABSaILxtSOmAIxlpk) | 2:19 |
+| 25 | [Another Lifetime](https://open.spotify.com/track/6CVu8xdBu0PfhLilBSflKK) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Another Lifetime](https://open.spotify.com/album/4MP5HL0GXG8NyTXZV8Tazt) | 2:08 |
+| 26 | [Drifting Feathers](https://open.spotify.com/track/6ectiSKVdKSsWTK2MU4UPj) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Drifting Feathers](https://open.spotify.com/album/44tNOMKSsOJDn7Vi4r5OUm) | 2:47 |
+| 27 | [Gentle Wind](https://open.spotify.com/track/3fdtUvagmwESIuBwwGH0WK) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Gentle Wind](https://open.spotify.com/album/4HsimABSaILxtSOmAIxlpk) | 2:19 |
+| 28 | [Homely Stars](https://open.spotify.com/track/6kZnm4YsiqJ7QYEKbjwvej) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [Homely Stars](https://open.spotify.com/album/3em8T5dt55VvYTauS8eUFy) | 2:50 |
+| 29 | [The Story](https://open.spotify.com/track/4vYEsiKuRke7P1vWFVkzRy) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [The Story](https://open.spotify.com/album/6u9AB61ZY30Igi1oC0BRgj) | 2:30 |
+| 30 | [Petals](https://open.spotify.com/track/2qxVO2JX4ayyUjdvTjEpmX) | [Leo Ask](https://open.spotify.com/artist/0blkB99ucLKIuuXSLsSguY) | [Petals](https://open.spotify.com/album/0dOqSiYaRrSbXzTB4z9iKp) | 2:29 |
+| 31 | [For the joys](https://open.spotify.com/track/1t1TI1DinDcwVZv5Ea188l) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [For the joys](https://open.spotify.com/album/4Jb0gJidq3hehJwEJm69ym) | 1:44 |
 | 32 | [Serenna Vale](https://open.spotify.com/track/2wFah7Gqdl9AU6SOzPcLym) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Serenna Vale](https://open.spotify.com/album/6HVT7lmc1v5TMA8ZA6ADor) | 3:12 |
 | 33 | [Droplets](https://open.spotify.com/track/4jiLmkrPY1FBPrQH4OINHb) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Droplets](https://open.spotify.com/album/3Kwg8RafrMsS05OQSuRRqP) | 3:06 |
-| 34 | [Drifting Feathers](https://open.spotify.com/track/6ectiSKVdKSsWTK2MU4UPj) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Drifting Feathers](https://open.spotify.com/album/44tNOMKSsOJDn7Vi4r5OUm) | 2:47 |
+| 34 | [Morning Light](https://open.spotify.com/track/1PXpZEeDqgKauNuhssSgWs) | [Phil Stent](https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G) | [Morning Light](https://open.spotify.com/album/08uEmJ2I1N8pgxPgbpZJC4) | 2:18 |
 | 35 | [Soft Light](https://open.spotify.com/track/6iOK4ucHfN8MQqvcrgUnLt) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Soft Light](https://open.spotify.com/album/6lHWfP2Z5MLnARki97QjR4) | 2:15 |
 | 36 | [Spur of The Moment](https://open.spotify.com/track/3cMRR2kJDgid4lsNhfKGmg) | [Matthew Kaff](https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk) | [Spur of The Moment](https://open.spotify.com/album/6FTSLJ4Bhn49LP745m0oTl) | 2:32 |
 | 37 | [Across the Divide](https://open.spotify.com/track/5rTd1AF8EiGKXjKXES3qJA) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Across the Divide](https://open.spotify.com/album/0rpdwEoKUFcOBLg3bibZqJ) | 2:28 |
@@ -242,4 +242,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 232 | [Signum](https://open.spotify.com/track/70Z6rUWqzQha0RMFcyJIiJ) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Signum](https://open.spotify.com/album/49dELtri6eKyk7Dq2zIqQB) | 2:35 |
 | 233 | [Love Forever](https://open.spotify.com/track/62in71BXkesE9Y5nGCvHSY) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Love Forever](https://open.spotify.com/album/4h2qFwZR8EDXUpN7cBSw6d) | 2:24 |
 
-Snapshot ID: `Z+03CAAAAADQ6k9PqVxHINlD4WhfcHB4`
+Snapshot ID: `Z/PTMgAAAACSmbolnj3o/QqybRNsChLl`

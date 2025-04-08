@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,093 songs - 4 day 16 hr 2 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,095 songs - 4 day 16 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2100,6 +2100,8 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2090 | [1991](https://open.spotify.com/track/0UTmS76yJwuCpiKEn16uN5) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [1991 \- EP](https://open.spotify.com/album/5fkZoSOBJyj0PaDo1LUabM) | 3:30 |
 | 2091 | [take it offff](https://open.spotify.com/track/4FT34LPn1NfZizeWQ7G6Oz) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [take it offff](https://open.spotify.com/album/4bLX9szK5qIl3f9qzRs49O) | 2:10 |
 | 2092 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 |
-| 2093 | [Swang](https://open.spotify.com/track/6mapJIPnQ23RTAevUoE0DL) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [SremmLife 2 \(Deluxe\)](https://open.spotify.com/album/5v6iBhIlflzR9rEd1LAMbd) | 3:28 |
+| 2093 | [Homecoming](https://open.spotify.com/track/6vxU64pcIuQ38O015Zy4qj) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake](https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m) | 3:33 |
+| 2094 | [Swang](https://open.spotify.com/track/6mapJIPnQ23RTAevUoE0DL) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [SremmLife 2 \(Deluxe\)](https://open.spotify.com/album/5v6iBhIlflzR9rEd1LAMbd) | 3:28 |
+| 2095 | [CADILLAC DREAMS](https://open.spotify.com/track/1CKpqV7rC3cPNVRnEWsurC) | [Birdy Nam Nam](https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT) | [Defiant Order](https://open.spotify.com/album/1MsCuVWBWkuk7sORdaFL4B) | 4:21 |
 
-Snapshot ID: `AAAD+9PBXsEfxfHb7nUbyi/Xe4uin5qQ`
+Snapshot ID: `AAAD/ndBxelgi71gvTCe6SgnBKYFw0xc`

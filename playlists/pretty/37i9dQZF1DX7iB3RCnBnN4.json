@@ -1,6 +1,6 @@
 {
   "description": "All the songs with more than 1 Billion streams on Spotify. Cover: Metallica",
-  "num_followers": 743470,
+  "num_followers": 743647,
   "original_name": "BILLIONS CLUB",
   "owner": {
     "name": "Spotify",
@@ -3853,6 +3853,22 @@
       "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
     },
     {
+      "added_at": "2023-07-11 19:57:40",
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
       "added_at": "2024-03-15 14:20:13",
       "album": {
         "name": "The 20/20 Experience (Deluxe Version)",
@@ -3907,22 +3923,6 @@
       "duration_ms": 236413,
       "name": "Don\u2019t Blame Me",
       "url": "https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE"
-    },
-    {
-      "added_at": "2023-07-11 19:57:40",
-      "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 291293,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "added_at": "2021-07-21 15:35:04",
@@ -5325,6 +5325,22 @@
       "url": "https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN"
     },
     {
+      "added_at": "2024-01-02 15:32:48",
+      "album": {
+        "name": "She's So Unusual",
+        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 238266,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
+    },
+    {
       "added_at": "2021-10-12 15:07:57",
       "album": {
         "name": "Future Nostalgia",
@@ -5375,22 +5391,6 @@
       "duration_ms": 175426,
       "name": "Classic",
       "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
-    },
-    {
-      "added_at": "2024-01-02 15:32:48",
-      "album": {
-        "name": "She's So Unusual",
-        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 238266,
-      "name": "Girls Just Want to Have Fun",
-      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
     },
     {
       "added_at": "2022-12-16 18:03:08",
@@ -5977,22 +5977,6 @@
       "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY"
     },
     {
-      "added_at": "2025-01-24 19:52:37",
-      "album": {
-        "name": "Jealous",
-        "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 122338,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
-    },
-    {
       "added_at": "2024-11-05 14:42:30",
       "album": {
         "name": "Use Your Illusion I",
@@ -6023,6 +6007,22 @@
       "duration_ms": 235546,
       "name": "Hold the Line",
       "url": "https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"
+    },
+    {
+      "added_at": "2025-01-24 19:52:37",
+      "album": {
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 122338,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
     },
     {
       "added_at": "2024-03-31 15:08:35",
@@ -6405,6 +6405,26 @@
       "url": "https://open.spotify.com/track/6mQLN3zRtAp6ovjusyYKrV"
     },
     {
+      "added_at": "2021-07-21 15:35:04",
+      "album": {
+        "name": "VIDA",
+        "url": "https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 229360,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb"
+    },
+    {
       "added_at": "2024-09-17 19:06:01",
       "album": {
         "name": "Bangerz (Deluxe Version)",
@@ -6471,26 +6491,6 @@
       "duration_ms": 218364,
       "name": "Jimmy Cooks (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
-    },
-    {
-      "added_at": "2021-07-21 15:35:04",
-      "album": {
-        "name": "VIDA",
-        "url": "https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 229360,
-      "name": "Despacito",
-      "url": "https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb"
     },
     {
       "added_at": "2023-06-20 18:33:38",
@@ -8405,6 +8405,22 @@
       "url": "https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy"
     },
     {
+      "added_at": "2021-10-05 06:00:00",
+      "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
+    },
+    {
       "added_at": "2023-10-30 17:51:11",
       "album": {
         "name": "Seven (feat. Latto)",
@@ -8423,22 +8439,6 @@
       "duration_ms": 184400,
       "name": "Seven (feat. Latto)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
-    },
-    {
-      "added_at": "2021-10-05 06:00:00",
-      "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
     },
     {
       "added_at": "2023-04-08 23:41:18",
@@ -9085,22 +9085,6 @@
       "url": "https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep"
     },
     {
-      "added_at": "2023-02-17 17:14:27",
-      "album": {
-        "name": "Pure Heroine",
-        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 190185,
-      "name": "Royals",
-      "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
-    },
-    {
       "added_at": "2023-03-29 18:00:38",
       "album": {
         "name": "Freudian",
@@ -9119,6 +9103,22 @@
       "duration_ms": 209831,
       "name": "Best Part (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
+    },
+    {
+      "added_at": "2023-02-17 17:14:27",
+      "album": {
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 190185,
+      "name": "Royals",
+      "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
     },
     {
       "added_at": "2022-02-14 19:16:21",
@@ -9953,30 +9953,6 @@
       "url": "https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck"
     },
     {
-      "added_at": "2021-07-21 15:35:04",
-      "album": {
-        "name": "Everybody",
-        "url": "https://open.spotify.com/album/1HiN2YXZcc3EjmVZ4WjfBk"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 250173,
-      "name": "1-800-273-8255",
-      "url": "https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV"
-    },
-    {
       "added_at": "2022-01-26 16:14:45",
       "album": {
         "name": "Nervous System",
@@ -10011,6 +9987,30 @@
       "duration_ms": 212459,
       "name": "Symphony (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8"
+    },
+    {
+      "added_at": "2021-07-21 15:35:04",
+      "album": {
+        "name": "Everybody",
+        "url": "https://open.spotify.com/album/1HiN2YXZcc3EjmVZ4WjfBk"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 250173,
+      "name": "1-800-273-8255",
+      "url": "https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV"
     },
     {
       "added_at": "2023-12-19 20:58:20",
@@ -12301,6 +12301,22 @@
       "url": "https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p"
     },
     {
+      "added_at": "2021-08-09 15:13:22",
+      "album": {
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 261640,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1"
+    },
+    {
       "added_at": "2023-12-29 16:41:57",
       "album": {
         "name": "Merry Christmas From Brenda Lee",
@@ -12331,22 +12347,6 @@
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
-    },
-    {
-      "added_at": "2021-08-09 15:13:22",
-      "album": {
-        "name": "I AM...SASHA FIERCE",
-        "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 261640,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1"
     },
     {
       "added_at": "2021-07-21 15:35:04",
@@ -13039,22 +13039,6 @@
     {
       "added_at": "2021-07-21 15:35:04",
       "album": {
-        "name": "Hot Fuss",
-        "url": "https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 222586,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/7oK9VyNzrYvRFo7nQEYkWN"
-    },
-    {
-      "added_at": "2021-07-21 15:35:04",
-      "album": {
         "name": "Happier",
         "url": "https://open.spotify.com/album/78EicdHZr5XBWD7llEZ1Jh"
       },
@@ -13071,6 +13055,22 @@
       "duration_ms": 214289,
       "name": "Happier",
       "url": "https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99"
+    },
+    {
+      "added_at": "2021-07-21 15:35:04",
+      "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 222586,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/7oK9VyNzrYvRFo7nQEYkWN"
     },
     {
       "added_at": "2023-05-19 16:54:55",
@@ -14097,22 +14097,6 @@
       "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
     },
     {
-      "added_at": "2023-11-06 21:56:18",
-      "album": {
-        "name": "dont smile at me",
-        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 203569,
-      "name": "idontwannabeyouanymore",
-      "url": "https://open.spotify.com/track/41zXlQxzTi6cGAjpOXyLYH"
-    },
-    {
       "added_at": "2024-12-05 15:18:41",
       "album": {
         "name": "YHLQMDLG",
@@ -14131,6 +14115,22 @@
       "duration_ms": 206420,
       "name": "La Santa",
       "url": "https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK"
+    },
+    {
+      "added_at": "2023-11-06 21:56:18",
+      "album": {
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 203569,
+      "name": "idontwannabeyouanymore",
+      "url": "https://open.spotify.com/track/41zXlQxzTi6cGAjpOXyLYH"
     },
     {
       "added_at": "2025-03-29 19:46:24",
@@ -16077,26 +16077,6 @@
       "url": "https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM"
     },
     {
-      "added_at": "2021-12-13 17:15:16",
-      "album": {
-        "name": "MIA (feat. Drake)",
-        "url": "https://open.spotify.com/album/0p0W4RXcnc59jgatcdZozO"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 210367,
-      "name": "MIA (feat. Drake)",
-      "url": "https://open.spotify.com/track/116H0KvKr2Zl4RPuVBruDO"
-    },
-    {
       "added_at": "2021-07-21 15:35:04",
       "album": {
         "name": "Dangerous Woman",
@@ -16115,6 +16095,26 @@
       "duration_ms": 226160,
       "name": "Side To Side",
       "url": "https://open.spotify.com/track/1pKeFVVUOPjFsOABub0OaV"
+    },
+    {
+      "added_at": "2021-12-13 17:15:16",
+      "album": {
+        "name": "MIA (feat. Drake)",
+        "url": "https://open.spotify.com/album/0p0W4RXcnc59jgatcdZozO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 210367,
+      "name": "MIA (feat. Drake)",
+      "url": "https://open.spotify.com/track/116H0KvKr2Zl4RPuVBruDO"
     },
     {
       "added_at": "2021-07-21 15:35:04",

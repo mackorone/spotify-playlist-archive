@@ -1,12 +1,12 @@
 {
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
-  "num_followers": 1400745,
+  "num_followers": 1400893,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAAAExs6isL5+JP+yHxVeo9IT",
+  "snapshot_id": "Z/HEAAAAAAA2HgACpbxrHAkE6Eig8Xfs",
   "tracks": [
     {
       "added_at": null,
@@ -587,34 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Relapse: Refill",
-        "url": "https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 357706,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Watch The Throne",
         "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
       },
@@ -639,6 +611,34 @@
       "duration_ms": 272506,
       "name": "No Church In The Wild",
       "url": "https://open.spotify.com/track/7r6PigmGzlB3YPB7wvBBbi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Relapse: Refill",
+        "url": "https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 357706,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX"
     },
     {
       "added_at": null,
@@ -963,26 +963,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "VULTURES 2",
-        "url": "https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ"
+        "name": "We All Shine",
+        "url": "https://open.spotify.com/album/09b9NC1oQbYaHcacgXn66k"
       },
       "artists": [
         {
-          "name": "\u00a5$",
-          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+          "name": "YNW Melly",
+          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
         },
         {
           "name": "Kanye West",
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 158980,
-      "name": "PROMOTION",
-      "url": "https://open.spotify.com/track/6bSfeCXlUaGa3eWCy5qPTb"
+      "duration_ms": 230400,
+      "name": "Mixed Personalities (feat. Kanye West)",
+      "url": "https://open.spotify.com/track/6vWEAOUSxohKxhp0K1BsxL"
     }
   ],
   "unique_name": "This Is Kanye West",

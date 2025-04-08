@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 
 > Sit back and relax to our favorite local indie and R&B sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,509 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,500 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 30 | [Buko](https://open.spotify.com/track/5uH5Gl7brNoFCpR9Ds9k94) | [Jireh Lim](https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q) | [Love And Soul](https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl) | 5:12 |
 | 31 | [Maharani](https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Pasulong](https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2) | 3:30 |
 | 32 | [tila tala](https://open.spotify.com/track/4ESVeOSa7asoWhkAg6aTB2) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [tila tala](https://open.spotify.com/album/5leaLgCdTTc6idyVEdBEGP) | 4:41 |
-| 33 | [Weak](https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3) | [Khel Pangilinan](https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l) | [Weak](https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed) | 3:31 |
-| 34 | [Bakit?](https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bakit?](https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI) | 3:14 |
+| 33 | [Bakit?](https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bakit?](https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI) | 3:14 |
+| 34 | [Weak](https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3) | [Khel Pangilinan](https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l) | [Weak](https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed) | 3:31 |
 | 35 | [Rainbow](https://open.spotify.com/track/3VcVQmMivq2ISfKUmIuvMK) | [South Border](https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv) | [Episode III](https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX) | 5:47 |
 | 36 | [Ex](https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Ex](https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA) | 4:39 |
 | 37 | [Simula Pa Nung Una](https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm) | [Patch Quiwa](https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn) | [Simula Pa Nung Una](https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC) | 4:15 |

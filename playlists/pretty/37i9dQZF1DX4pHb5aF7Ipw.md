@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Sultaan, Sidhu Jatt, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,178 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,193 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

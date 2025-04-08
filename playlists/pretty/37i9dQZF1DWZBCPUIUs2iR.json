@@ -1,6 +1,6 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 743551,
+  "num_followers": 743629,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 161533,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
-    },
-    {
-      "added_at": "2024-06-13 21:28:36",
-      "album": {
         "name": "Goldmine",
         "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 210772,
       "name": "I Hope",
       "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
+    },
+    {
+      "added_at": "2024-06-13 21:28:36",
+      "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
     },
     {
       "added_at": "2024-06-13 21:28:36",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "If You're Going Through Hell",
-        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
-      },
-      "artists": [
-        {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
-        }
-      ],
-      "duration_ms": 235426,
-      "name": "Watching You",
-      "url": "https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5"
-    },
-    {
-      "added_at": "2024-06-13 21:28:36",
-      "album": {
         "name": "Haywire",
         "url": "https://open.spotify.com/album/4AwUix40p2isD6wvEBPpQ8"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 192800,
       "name": "Why Don't We Just Dance",
       "url": "https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS"
+    },
+    {
+      "added_at": "2024-06-13 21:28:36",
+      "album": {
+        "name": "If You're Going Through Hell",
+        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
+      },
+      "artists": [
+        {
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+        }
+      ],
+      "duration_ms": 235426,
+      "name": "Watching You",
+      "url": "https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5"
     },
     {
       "added_at": "2024-06-13 21:28:36",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "The Essential Johnny Cash",
-        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
+        "name": "Number One Hits",
+        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
         }
       ],
-      "duration_ms": 140440,
-      "name": "Daddy Sang Bass",
-      "url": "https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8"
+      "duration_ms": 171653,
+      "name": "Every Which Way but Loose - 2009 Remaster",
+      "url": "https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3"
     },
     {
       "added_at": "2024-06-13 21:28:36",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "Number One Hits",
-        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
+        "name": "The Essential Johnny Cash",
+        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
       },
       "artists": [
         {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 171653,
-      "name": "Every Which Way but Loose - 2009 Remaster",
-      "url": "https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3"
+      "duration_ms": 140440,
+      "name": "Daddy Sang Bass",
+      "url": "https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8"
     },
     {
       "added_at": "2024-06-13 21:28:36",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
+        "name": "Ultimate Waylon Jennings",
+        "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 200493,
+      "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/6ANPIv5r3vdWntrmFa6H6M"
+    },
+    {
+      "added_at": "2024-06-13 21:28:36",
+      "album": {
         "name": "A Country Boy Can Survive (Box Set)",
         "url": "https://open.spotify.com/album/2mUqVFSr5l4W2Hpm8t3Gfm"
       },
@@ -1367,26 +1387,6 @@
       "duration_ms": 148440,
       "name": "Mind Your Own Business",
       "url": "https://open.spotify.com/track/4raGevWiW8i1gactXulebp"
-    },
-    {
-      "added_at": "2024-06-13 21:28:36",
-      "album": {
-        "name": "Ultimate Waylon Jennings",
-        "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 200493,
-      "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
-      "url": "https://open.spotify.com/track/6ANPIv5r3vdWntrmFa6H6M"
     },
     {
       "added_at": "2024-06-13 21:28:36",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "Behind Closed Doors (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79s7QjTPGEFwbpQsMhAYGw"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rich",
-          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
-        }
-      ],
-      "duration_ms": 174826,
-      "name": "Behind Closed Doors",
-      "url": "https://open.spotify.com/track/4NRFiS0pHjTFDjOm1LWTZj"
-    },
-    {
-      "added_at": "2024-06-13 21:28:36",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5Fx4B1UYRtbc3sbhca9OZo"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 178600,
       "name": "A Good Hearted Woman - Live at Western Place, Dallas, Texas - September 25, 1974",
       "url": "https://open.spotify.com/track/1B3wswoDyVdEbWO9lmEzSk"
+    },
+    {
+      "added_at": "2024-06-13 21:28:36",
+      "album": {
+        "name": "Behind Closed Doors (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79s7QjTPGEFwbpQsMhAYGw"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rich",
+          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
+        }
+      ],
+      "duration_ms": 174826,
+      "name": "Behind Closed Doors",
+      "url": "https://open.spotify.com/track/4NRFiS0pHjTFDjOm1LWTZj"
     },
     {
       "added_at": "2024-06-13 21:28:36",

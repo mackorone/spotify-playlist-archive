@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2avZ2E.md) - [plain]
 
 > This is Vanessa Zamora\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,780 likes - 47 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,782 likes - 47 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2avZ2E.md) - [plain]
 | 28 | [RESISTOL +](https://open.spotify.com/track/4V0dz6IJM3l4iBgZfR15av) | [chicano wei](https://open.spotify.com/artist/7EqiVYwHFYEKr843rp3NVt), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Chiquete](https://open.spotify.com/artist/0XOIm8UCjrzJHRmSRzVRTP) | [RESISTOL +](https://open.spotify.com/album/4tdlFK1DXTtho4qMB5U0uz) | 3:10 |
 | 29 | [Fue Solo un Sueño](https://open.spotify.com/track/5M9oyyKsP415AExylVG1Tv) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Fue Solo un Sueño](https://open.spotify.com/album/6K7AkVSKQgpFuXYbzJmtfC) | 3:49 |
 | 30 | [OJO DE DIOS](https://open.spotify.com/track/71KjTsyGt8v43JMFtg82Aj) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [DAMALEONA](https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 1:31 |
-| 31 | [Puro Pasado](https://open.spotify.com/track/3pjRiGXyrXcRwrcHHhyzO0) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Tornaluna](https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8) | 4:20 |
+| 31 | [Al Fondo de Mí](https://open.spotify.com/track/2t22iahk3SWvR3GU9oquRI) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Tornaluna](https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8) | 3:53 |
 | 32 | [Sonidos y Leyendas \(feat\. Vanessa Zamora\)](https://open.spotify.com/track/5swZ6J3habONISd330y55t) | [Aurum](https://open.spotify.com/artist/4c0Bp0wMrzxY4LbvrBQnHB), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Atlántica](https://open.spotify.com/album/0PuoGSBHsnkCWKtZQSQXLi) | 3:35 |
 | 33 | [lilia](https://open.spotify.com/track/4kJYQdHsUomKEXFuT0Vyfj) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [música para una película que no existe](https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd) | 1:34 |
 | 34 | [Like Giants in The Sky \- Le Tour Du Monde \- Austin](https://open.spotify.com/track/60BflIegTdhXQrXjlpUdpd) | [Lucas Mayer](https://open.spotify.com/artist/724jACjbdJB5S18AqUAOQw), [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Le Tour Du Monde](https://open.spotify.com/artist/1OYogyFdWXR48xDjmgt0hQ), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Joe Harvey\-Whyte](https://open.spotify.com/artist/63ud5HSE9cDZlEwQzw0C2j) | [Like Giants in The Sky \(Le Tour Du Monde \- Austin\)](https://open.spotify.com/album/4wIgKW4bpkn3NU0YpBy2wX) | 3:02 |
-| 35 | [Al Fondo de Mí](https://open.spotify.com/track/2t22iahk3SWvR3GU9oquRI) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Tornaluna](https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8) | 3:53 |
+| 35 | [Puro Pasado](https://open.spotify.com/track/3pjRiGXyrXcRwrcHHhyzO0) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Tornaluna](https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8) | 4:20 |
 | 36 | [OPTEMOS](https://open.spotify.com/track/1HIYdD0rhwRZUKMY93BzlR) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [OPTEMOS](https://open.spotify.com/album/4lx2E70Ba3zqrWgNph9FbR) | 2:58 |
 | 37 | [caballos](https://open.spotify.com/track/4nB5jUpHTAsUb3JTQWffTx) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [música para una película que no existe](https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd) | 1:30 |
 | 38 | [Nada Se Perdió \- Live Acoustic](https://open.spotify.com/track/2INVWQtIkJ2099o9qJOMgU) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Live At Claustro de Sor Juana — Mexico City \(Live Acoustic\)](https://open.spotify.com/album/7x4dshpPcTtYuEPJF2iRLN) | 3:59 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2avZ2E.md) - [plain]
 | 46 | [Volver a Comenzar](https://open.spotify.com/track/2laeYSKqa9rFsoVuPKmOo6) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Volver a Comenzar](https://open.spotify.com/album/03RbdxiAdZEVBelOjPKZJp) | 3:07 |
 | 47 | [Venus \(Remix\)](https://open.spotify.com/track/41BmFZ0sXtgl86kpmHvVtW) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Venus \(Remix\)](https://open.spotify.com/album/0Kin0Tn3MRzzWhqs4FlOgN) | 3:52 |
 
-Snapshot ID: `Z/BygAAAAABhpQl/7HZYH+sJCsdRBjN2`
+Snapshot ID: `Z/HEAAAAAAAYkbyWr2fbe6GE0oPD3SbJ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Heat that will make you sweat 🥵 Cover: Hamilton & Nanpa Básico
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,260 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,295 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 83 | [Si Mami Supiera](https://open.spotify.com/track/5NjPjjIMcZpTq9pAzAhYYc) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Si Mami Supiera](https://open.spotify.com/album/5VpzCs2WdWVYWltfREOM9V) | 2:40 |
 | 84 | [Aroma](https://open.spotify.com/track/0h3siPcPcHfmSr6n4wloZW) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Afro Vibes](https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ) | 3:09 |
 | 85 | [Thalía](https://open.spotify.com/track/03O0bVezEElAy8AWXGTAOo) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Thalía](https://open.spotify.com/album/5F35IoIamW84YFm7eT22Og) | 3:03 |
-| 86 | [Curame](https://open.spotify.com/track/5iI3EZ30ehidBbXe2jqOLF) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk), [Alexis Play](https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv) | [Curame](https://open.spotify.com/album/70Gzwb0yzk3e3SH22lWP6H) | 2:49 |
-| 87 | [Dame Un Break \- Remix](https://open.spotify.com/track/1GrpcJyJteho5VRPr70mYu) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Dame Un Break \(Remix\)](https://open.spotify.com/album/6nLjjJAYSRzGOb3fy2FUcN) | 4:22 |
+| 86 | [Dame Un Break \- Remix](https://open.spotify.com/track/1GrpcJyJteho5VRPr70mYu) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Dame Un Break \(Remix\)](https://open.spotify.com/album/6nLjjJAYSRzGOb3fy2FUcN) | 4:22 |
+| 87 | [Curame](https://open.spotify.com/track/5iI3EZ30ehidBbXe2jqOLF) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk), [Alexis Play](https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv) | [Curame](https://open.spotify.com/album/70Gzwb0yzk3e3SH22lWP6H) | 2:49 |
 | 88 | [Salento](https://open.spotify.com/track/7qSEAGqvs9ZLKpM1kcw6ui) | [FLEIVA MUSIC](https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN), [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf) | [Salento](https://open.spotify.com/album/6zimYDDblEO4RVRVvRetGL) | 3:09 |
 | 89 | [Afrobocelli](https://open.spotify.com/track/3LEBmIOGQutE3mrGob7Ud3) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [ULLOΛ](https://open.spotify.com/artist/3z4gWkynJfhlRmpULOrNEt), [Frank Miami](https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K) | [Transition](https://open.spotify.com/album/61PUASiDNYYrePoCrDvGGX) | 3:38 |
 | 90 | [Obsesión](https://open.spotify.com/track/7sllDb8lSLGnubFanPcU1h) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Obsesión](https://open.spotify.com/album/0bJ54lmTdYGrjvB4q0IZbq) | 2:16 |

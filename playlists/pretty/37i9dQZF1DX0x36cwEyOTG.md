@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this mix of peaceful, ambient, indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,391 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,404 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 12 | [Masollan](https://open.spotify.com/track/3F8K6njJIKvuMkAzItLzDz) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Stranger](https://open.spotify.com/album/2DQgDdMRNtvMKVEoFPdNFy) | 5:13 |
 | 13 | [Aeroplane Bathroom](https://open.spotify.com/track/7h4zBf5NntSiGrYy2hmDJE) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Our Two Skins](https://open.spotify.com/album/2E9Blcx45loakuMKKsn5lw) | 5:44 |
 | 14 | [Petrichor](https://open.spotify.com/track/1RWRfknqqgTNNPO1EoP7Wo) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Romantic Works](https://open.spotify.com/album/0DmaYVn58Dnq79ymSPPVYm) | 3:20 |
-| 15 | [Statue Of A Woman](https://open.spotify.com/track/6b68aviQQgq22JuK2CDno6) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 1:57 |
-| 16 | [Watching the Storm](https://open.spotify.com/track/5Ormcdpk9HXgPyTmEH8LQ1) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 5:07 |
+| 15 | [Watching the Storm](https://open.spotify.com/track/5Ormcdpk9HXgPyTmEH8LQ1) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 5:07 |
+| 16 | [Statue Of A Woman](https://open.spotify.com/track/6b68aviQQgq22JuK2CDno6) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 1:57 |
 | 17 | [Dungtitled \(In a Major\)](https://open.spotify.com/track/3OgkfYg13Jj96E982moWje) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [And Their Refinement of the Decline](https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo) | 5:54 |
 | 18 | [Broken](https://open.spotify.com/track/1k7ZAtPOzRw49KL6CT4MXa) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Broken](https://open.spotify.com/album/6hvnQ9TLd5txakEGIij7R0) | 4:37 |
 | 19 | [Ascend and Try Again](https://open.spotify.com/track/6ngeEvA6aq0e8f1KyGTTGR) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Watch This Liquid Pour Itself](https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ) | 2:13 |

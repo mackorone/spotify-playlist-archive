@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,767 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,794 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 23 | [Minha Voz](https://open.spotify.com/track/1IStorlI3jeYGN5agXweMa) | [Versos Que Compomos Na Estrada](https://open.spotify.com/artist/4rwTeE0LZKlPm6d8N4w5ME), [Eu Me Chamo Antônio](https://open.spotify.com/artist/5VPWkoRQuCpvtvH1cB0MUh) | [Um Verão Qualquer](https://open.spotify.com/album/48K0xdUQuGVzVj3FbNVOQX) | 2:42 |
 | 24 | [Certeza \- Acústico](https://open.spotify.com/track/1GK98aTl2dzvvHqpFw0euo) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Certeza](https://open.spotify.com/album/6x8Xo3rloxQEy8xIBumNvC) | 2:48 |
 | 25 | [Roll it on Home](https://open.spotify.com/track/0Zrug5Ry3x6x60lohpEU0C) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:22 |
-| 26 | [Rock It](https://open.spotify.com/track/0is4ka3uSbBT04pC2WFsp3) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Rock It](https://open.spotify.com/album/5fyS9Y9LRLC4TYdEZn9AtY) | 3:27 |
+| 26 | [Don't Fade \- Single Version](https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Don't Fade](https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx) | 3:10 |
 | 27 | [Cafuné](https://open.spotify.com/track/7zjKBYb0C2NxGWLBmrveQl) | [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW) | [Cafuné](https://open.spotify.com/album/5iSqDjYcmolXIVFqInrgFl) | 2:02 |
 | 28 | [Ponto de Vista](https://open.spotify.com/track/1UMDEJN3JtYmSQXoO1HUc5) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [FIM](https://open.spotify.com/album/2jh6gWgvkanar5rjM3g1ow) | 3:02 |
 | 29 | [Cigana](https://open.spotify.com/track/30LW6tUCnkLZXuJHNB3bLJ) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Suricateando](https://open.spotify.com/album/7oVcPsDEOAMcuAferDjzTx) | 2:42 |
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 31 | [A Encomenda da Minha Vida](https://open.spotify.com/track/4hYcZfeUkOw4GoV5APKMdV) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [A Encomenda da Minha Vida](https://open.spotify.com/album/3qdT1eBgzXQjaAwsys5zvR) | 2:58 |
 | 32 | [A Day in the Life](https://open.spotify.com/track/3bRBaAPIdMqP53D29w19d5) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Milton + esperanza](https://open.spotify.com/album/6lVRgFz4vQ3qoNT2nJfsar) | 4:36 |
 | 33 | [Não Te Largo, Não Te Troco \- Acústico](https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Não Te Largo, Não Te Troco \(Acústico\)](https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX) | 3:50 |
-| 34 | [Dia de Sorte](https://open.spotify.com/track/0bJ5Pa8GqcyC4PNYcHQDeN) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [UM SÓ](https://open.spotify.com/album/3NEwEbyUBvhPNoil4FFta9) | 3:02 |
+| 34 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 |
 | 35 | [VEJA BABY \- Versão Alternativa](https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [VEJA BABY \(Versão Alternativa\)](https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ) | 3:22 |
-| 36 | [Don't Fade \- Single Version](https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Don't Fade](https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx) | 3:10 |
-| 37 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 |
+| 36 | [Rock It](https://open.spotify.com/track/0is4ka3uSbBT04pC2WFsp3) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Rock It](https://open.spotify.com/album/5fyS9Y9LRLC4TYdEZn9AtY) | 3:27 |
+| 37 | [Dia de Sorte](https://open.spotify.com/track/0bJ5Pa8GqcyC4PNYcHQDeN) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [UM SÓ](https://open.spotify.com/album/3NEwEbyUBvhPNoil4FFta9) | 3:02 |
 | 38 | [Calma](https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Calma](https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5) | 3:06 |
 | 39 | [Ensolarada](https://open.spotify.com/track/0LVKnNkJE3bL8ieVHps6Hd) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Ensolarada](https://open.spotify.com/album/1krAtwKNtJFqrwMUKREtS7) | 2:55 |
 | 40 | [We Deserve To Dream](https://open.spotify.com/track/4uxap3PpnxFo7BeNcXtEnq) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [We Deserve To Dream](https://open.spotify.com/album/2J5kTcG1hkK1E1n1uS0ONx) | 5:17 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 57 | [Meu Primeiro Amor](https://open.spotify.com/track/5Ui1KfWnjRAl3gCM6mrkVN) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Meu Primeiro Amor](https://open.spotify.com/album/4XzvYXmxuOyV0gXpVVz5pT) | 3:13 |
 | 58 | [Um Tanto](https://open.spotify.com/track/1BQhXbN8AzvHQrS7SvH58x) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Sol\-Te](https://open.spotify.com/album/3wk0JZQ0eTP1rpiAlMpuV6) | 3:37 |
 | 59 | [Mesma Sensação](https://open.spotify.com/track/7agqUicjzuTmStccvAwG1f) | [Georgia Castro](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ) | [Mesma Sensação](https://open.spotify.com/album/1ese8tfg7dYxhWnWhAp500) | 3:14 |
-| 60 | [Águas do Teu Mar](https://open.spotify.com/track/4P2sNrma2uZhZR1ohth4VU) | [Erick Roza](https://open.spotify.com/artist/47JFoPclff1d4gHsR7lQG3) | [Águas do Teu Mar](https://open.spotify.com/album/3W1DLnpz0egsPFHcJdnoEB) | 2:28 |
+| 60 | [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 |
 
 Snapshot ID: `Z+91QwAAAACo49LrKdm3PihdYA2m1TIG`

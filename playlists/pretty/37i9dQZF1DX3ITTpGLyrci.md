@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITTpGLyrci.md) - [plain]
 
 > Get the drinks on ice, this one is on us!
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,490 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,551 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

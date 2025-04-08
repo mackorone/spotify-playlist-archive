@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zH3lfyDPJl.md) - [plain]
 
 > 센치한 감정을 노래하는 얼터네이티브 록과 함께 물 멍에 잠겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,452 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,456 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,15 +30,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zH3lfyDPJl.md) - [plain]
 | 20 | [Medicate Me](https://open.spotify.com/track/1EusMjYm7PZftlZn87vPWE) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Medicate Me](https://open.spotify.com/album/5IVuTn7LffwxIzCx2Ii3Bp) | 2:47 |
 | 21 | [Mary Boone](https://open.spotify.com/track/6OjwIdLlkjCLuOThOwODEY) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:26 |
 | 22 | [Spectator](https://open.spotify.com/track/0W9jWMTASe0JmydIrXwSEz) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Nowhere](https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO) | 3:03 |
-| 23 | [Dead To Me](https://open.spotify.com/track/5BxC04q61icn0SHinQCBeR) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Dead To Me](https://open.spotify.com/album/3wwd2L3ATRhjkbmnGUhsJG) | 3:49 |
-| 24 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 |
+| 23 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 |
+| 24 | [Dead To Me](https://open.spotify.com/track/5BxC04q61icn0SHinQCBeR) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Dead To Me](https://open.spotify.com/album/3wwd2L3ATRhjkbmnGUhsJG) | 3:49 |
 | 25 | [The Craving \(Jenna's version\)](https://open.spotify.com/track/4hfqe20vqkuRv1RDsA1LbQ) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 2:54 |
 | 26 | [lovememore.](https://open.spotify.com/track/0P9XwjnnIPQFTwdqvu01Mf) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 3:51 |
 | 27 | [1:05](https://open.spotify.com/track/4bjNOhOMvqFPflwHIaS7Fw) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEAM BABY](https://open.spotify.com/album/4x4xyLYUjyyBqKlkFT4YdY) | 4:00 |
 | 28 | [Superstar](https://open.spotify.com/track/2H28TK2PMVBeRZKelRJewg) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Love Hate Music Box](https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj) | 3:13 |
-| 29 | [Lost In Space](https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lost In Space](https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl) | 4:18 |
+| 29 | [She](https://open.spotify.com/track/57rt6Jj7woE21ae3Ml2vw8) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [She](https://open.spotify.com/album/3LwTiul097ARDdI02bgKO9) | 3:14 |
 | 30 | [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 |
-| 31 | [She](https://open.spotify.com/track/57rt6Jj7woE21ae3Ml2vw8) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [She](https://open.spotify.com/album/3LwTiul097ARDdI02bgKO9) | 3:14 |
+| 31 | [Lost In Space](https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lost In Space](https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl) | 4:18 |
 | 32 | [Over You](https://open.spotify.com/track/1y1EwXHdAIyt23LJs96bhH) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [No Place Like Home](https://open.spotify.com/album/2GGqnsXKyCzNzlRql3QusN) | 2:26 |
 | 33 | [Taking Off](https://open.spotify.com/track/6rH7DwITrq2MhxSSuL91r9) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Ambitions](https://open.spotify.com/album/0p1YL9nzIuKTonZH6Gq58i) | 3:38 |
 | 34 | [Paralyzed](https://open.spotify.com/track/3q44HY8PBUSUVFuy8Uboxh) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Blue Electric Light](https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi) | 4:28 |

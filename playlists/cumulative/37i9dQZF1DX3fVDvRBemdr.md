@@ -4,7 +4,7 @@
 
 > Wekelijkse update met Hollands en volks\. Cover: Samuel Welten
 
-273 songs - 13 hr 24 min
+274 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Insta Live](https://open.spotify.com/track/7sfwT3gehKU9LmdWw6iZGd) | [Ray Slagter](https://open.spotify.com/artist/6ie6I6YKco4YVOzECVm5eg) | [Insta Live](https://open.spotify.com/album/4bgZfovTAw0aoHNykiFPP6) | 2:08 | 2024-07-11 | 2024-10-04 |
 | [Is Dit Alles](https://open.spotify.com/track/7zTTsQNcLtxIsX3CdGq5fp) | [Pascal Redeker](https://open.spotify.com/artist/2pPlC5pHDMwx9vCtEszoub) | [Is Dit Alles](https://open.spotify.com/album/4XrDMgi0wd1hlh374SKCVG) | 2:35 | 2024-08-29 | 2024-10-11 |
 | [Italiaanse Meid](https://open.spotify.com/track/0ncncrEXDauS5zR0Uk5wG7) | [Danny van der Heijden](https://open.spotify.com/artist/0ciExUygv7H32DhCffCKbA) | [Italiaanse Meid](https://open.spotify.com/album/7fDHn04wbKBrjmpeMjhkl0) | 3:07 | 2025-03-20 |  |
+| [Jaimy](https://open.spotify.com/track/2nrBe1KzuR5M5KFv2NI70M) | [Andy Van der Leek](https://open.spotify.com/artist/7nCWWJ31tKrrzCfDbzKvqu) | [Jaimy](https://open.spotify.com/album/5KlSbTSWDtk6qLbEAHLdBI) | 2:52 | 2025-04-03 |  |
 | [Je Bent Hier Nooit Alleen](https://open.spotify.com/track/2TyGIyrjaXrKbOTXR6RXQG) | [Mike Appelhof](https://open.spotify.com/artist/0bw5QUWR6fvaH1b5xf1CeQ) | [Je Bent Hier Nooit Alleen](https://open.spotify.com/album/2ehEspTQwWCFpvXjzw1KHH) | 2:30 | 2024-08-29 | 2024-10-19 |
 | [Je Ziet Me Morgenvroeg](https://open.spotify.com/track/4gC9aEz4Kd0OoRF5rstp3t) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Turk Uit De Kroeg \(Deluxe\)](https://open.spotify.com/album/6qFHbFhVpNcZg5BDDlmumT) | 3:19 | 2025-03-13 |  |
 | [Jij bent voor mij die ene](https://open.spotify.com/track/4SAJHWcspotBnGBakSbwJy) | [Jaman](https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD) | [Jij bent voor mij die ene](https://open.spotify.com/album/1rU0GTweRlbje8CWPOPfF8) | 3:19 | 2024-06-13 | 2024-08-30 |

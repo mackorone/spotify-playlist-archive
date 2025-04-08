@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-385 songs - 17 hr 24 min
+387 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Electric Bell](https://open.spotify.com/track/73Dn5KXykn7zPlwN41u8sl) | [Flynn Simmons](https://open.spotify.com/artist/50KiISa7MC3LSlXZmn30Go) | [Electric Bell](https://open.spotify.com/album/7L7ZULdyivBdSeHQHbcTq9) | 1:56 | 2022-05-13 | 2022-06-10 |
 | [Elise's Autumn](https://open.spotify.com/track/03sZBPPuTTAYBvGv2jWw6L) | [Cassian Haines](https://open.spotify.com/artist/6q2o3TWKwqqVzVO9aGstM7) | [Elise's Autumn](https://open.spotify.com/album/2euPNgFzRFotvaAP4jWzUU) | 2:42 | 2024-11-26 | 2025-04-03 |
 | [End of Summer](https://open.spotify.com/track/0OwNmUxckzrNFjHGEf90Od) | [Ivan Nevau](https://open.spotify.com/artist/4Y1du6z4ekLOKho3kj1pLD) | [End of Summer](https://open.spotify.com/album/05fPHnXgdmvtMf1nDn1wck) | 2:15 | 2024-09-25 |  |
+| [Endgame](https://open.spotify.com/track/6EyZTUkXVvaoT8ZkAEck4E) | [Quinn Sage](https://open.spotify.com/artist/4k3ooZfSTsaIT5DPGL2dhz) | [Endgame](https://open.spotify.com/album/5IwXI2UHldpAqroGqKUEKT) | 2:36 | 2025-04-07 |  |
 | [Etude](https://open.spotify.com/track/3b0fiwh8g5UubvOVlEWJSx) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Etude](https://open.spotify.com/album/6tgFS8XA8GXQswzyNHS6jf) | 2:27 | 2022-05-13 | 2022-07-15 |
 | [Evening Stroll](https://open.spotify.com/track/5MV9mc5YjwVuWoZZDc1cB1) | [Billy\-Joe](https://open.spotify.com/artist/4yuk88pPSJUYCbSVJGiOYD) | [Evening Stroll](https://open.spotify.com/album/0b40NntOGFAMvyJS2ytJGd) | 3:28 | 2022-06-10 | 2022-07-22 |
 | [Evenings at Point Reyes](https://open.spotify.com/track/2OZrAhYxb2v5ZCFGb7QrD6) | [Riverkin](https://open.spotify.com/artist/4xsqwbF6mpNckpRPn4AEBr) | [Two Trees](https://open.spotify.com/album/2qNkOL7MgmDaFpTGCiqUZd) | 2:54 | 2022-05-13 | 2023-03-31 |
@@ -182,6 +183,7 @@
 | [Isaar im Mondschein](https://open.spotify.com/track/0wyxPRiJzaNkJ3KmiqXaQq) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Frühlings Erwachen](https://open.spotify.com/album/2qUMNFnnZUzoyQbYo3jvWc) | 3:41 | 2022-05-13 | 2024-05-25 |
 | [Je Te Manque?](https://open.spotify.com/track/3OH8rKFY3rNV6Y7HMIate7) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Je Te Manque?](https://open.spotify.com/album/5VepAU0NTh96kQZmkFIvEb) | 2:56 | 2022-05-27 | 2024-07-30 |
 | [Journey Home](https://open.spotify.com/track/1n8JIhb5wq50ZNvuas4ceq) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [Journey Home](https://open.spotify.com/album/2KGpAwyPvctqPpcpzLpRwh) | 3:08 | 2022-05-13 | 2023-09-01 |
+| [Just Between Us](https://open.spotify.com/track/40qwl5MmhYasmV2yJtqWAQ) | [Mattias Blom](https://open.spotify.com/artist/1BaxgJpBm81CBBpUhRnVO9) | [Just Between Us](https://open.spotify.com/album/7tYdxSv7POPsdMVWEONPJ5) | 2:06 | 2025-04-07 |  |
 | [Keep On Moving](https://open.spotify.com/track/5tJ57yb6Q9PfJI3CBqeKNl) | [Michael Blaese](https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq) | [Keep On Moving](https://open.spotify.com/album/596VrDMDmG48YKdcAnSvm9) | 1:36 | 2023-03-31 | 2023-09-16 |
 | [Keirin](https://open.spotify.com/track/0ZlIp06FN57EBXDO1oYeUp) | [Paris Little](https://open.spotify.com/artist/2Set9fzetOO5FobntPuLwl) | [Keirin](https://open.spotify.com/album/16u16SQul659X2qT4tc8Zw) | 3:06 | 2022-05-13 | 2023-09-01 |
 | [Kite](https://open.spotify.com/track/2m4SUJunHatkZtI51ba3f5) | [Owen Larsson](https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8) | [Kite](https://open.spotify.com/album/4ggfPdW3RSf4eCDzL6EfGQ) | 2:28 | 2024-05-24 |  |
@@ -338,7 +340,7 @@
 | [The Pioneers](https://open.spotify.com/track/6cuKQazicx5r7o5NQEp1uL) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 4:13 | 2022-05-13 | 2023-04-28 |
 | [The Rainbow](https://open.spotify.com/track/17RZOpjS9as3aMnvMA976O) | [Cary Bestwood](https://open.spotify.com/artist/1qE78k5MwKFre0e74P3lQV) | [The Rainbow](https://open.spotify.com/album/0UBviprrJBKJPfjrfDTqqI) | 2:07 | 2022-05-27 | 2023-03-31 |
 | [The Safflower Harvest](https://open.spotify.com/track/2Bb66gsw9HlLjMLrVjSJv8) | [Faircamp](https://open.spotify.com/artist/1xxKCb2lrYVUmTL6EbD0Pu) | [Into the Wind](https://open.spotify.com/album/4qrpQBGCS95ekF7eEvZRue) | 2:57 | 2022-05-13 | 2023-02-25 |
-| [The second day of the year](https://open.spotify.com/track/4t0dPZpKTEwhrp86jFq0Oy) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [The second day of the year](https://open.spotify.com/album/0J9M3YE2BiynCk10uuKkNO) | 2:03 | 2025-03-25 |  |
+| [The second day of the year](https://open.spotify.com/track/4t0dPZpKTEwhrp86jFq0Oy) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [The second day of the year](https://open.spotify.com/album/0J9M3YE2BiynCk10uuKkNO) | 2:03 | 2025-03-25 | 2025-04-08 |
 | [The Spring Bird](https://open.spotify.com/track/1PvZZloPxrC4q2nh3LCj4O) | [Tim Philis](https://open.spotify.com/artist/1OFXBk4WZ7ZF3I98uJ9T6j) | [The Spring Bird](https://open.spotify.com/album/1zBJdIFX92nSLrv5ek5YqP) | 2:20 | 2022-05-13 | 2024-05-10 |
 | [The sweeping wind](https://open.spotify.com/track/4ME6RzLbiTxN4sz9qKceAM) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [The sweeping wind](https://open.spotify.com/album/1zAw0rdmcMrWlFrhtb37kj) | 2:41 | 2024-11-20 |  |
 | [The Wait Is Finally Over](https://open.spotify.com/track/7845ttrSnatgaUwevW7mAX) | [Wanderer's Trove](https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1) | [The Wait Is Finally Over](https://open.spotify.com/album/6eKi4KS6HBKCrtjUznDdZZ) | 3:49 | 2022-05-13 | 2022-06-10 |

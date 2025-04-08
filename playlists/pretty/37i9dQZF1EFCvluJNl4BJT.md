@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Ak2P6rRpuVPTPAvHSuVDQ">Leon Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,857 likes - 105 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,860 likes - 105 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 26 | [Another Heartbreak](https://open.spotify.com/track/1TuSfYnKU5uKbYK1esQDLj) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 4:09 |
 | 27 | [Woah \(feat\. Miguel & Ty Dolla $ign\)](https://open.spotify.com/track/2lAUMDyWq80slJVsrYyD7N) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The World Is Yours 2](https://open.spotify.com/album/6GDXnx6AUDGH0tpxXQX0Kn) | 2:52 |
 | 28 | [Love Is Everything](https://open.spotify.com/track/25tkPPlBrYCXkSIAASibtL) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas Kisses](https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr) | 3:32 |
-| 29 | [Rent Free](https://open.spotify.com/track/5PdroJNSxYfhN4QYV8eJpF) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:22 |
-| 30 | [Treasure In The Hills](https://open.spotify.com/track/64TJKMfx0QxpuR7rTXL05c) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:09 |
+| 29 | [Treasure In The Hills](https://open.spotify.com/track/64TJKMfx0QxpuR7rTXL05c) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:09 |
+| 30 | [Rent Free](https://open.spotify.com/track/5PdroJNSxYfhN4QYV8eJpF) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:22 |
 | 31 | [Poison \(feat\. Lil Wayne\)](https://open.spotify.com/track/1hs54MGy1J69I52GvzsrbB) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 3:42 |
 | 32 | [Get To You](https://open.spotify.com/track/2D5syPC60v8voqHqo9kUtn) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:25 |
 | 33 | [This Will Do](https://open.spotify.com/track/7GypRHZMWmb81zN90Phu9y) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 2:55 |
@@ -69,12 +69,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 59 | [Andrea](https://open.spotify.com/track/6YVOBobtevVQPMQgbSC8kF) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [You Only Live 2wice](https://open.spotify.com/album/2LCCg172ZNVAA9aFH2EPst) | 3:12 |
 | 60 | [Forever](https://open.spotify.com/track/3ZhJM8BNznUtuQsMFu2TV4) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Cyan Blue](https://open.spotify.com/album/2ugywYl3kXs39enikXdsTV) | 3:16 |
 | 61 | [FEELINGS ON SILENT \(feat\. Wale\)](https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:29 |
-| 62 | [Earth Girls](https://open.spotify.com/track/4fFW2R6sfxi83VumhTuKDa) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [Bartholomew](https://open.spotify.com/album/4DCQ1KDwnkPgh5Yj1eMQGz) | 4:09 |
-| 63 | [SAFE PLACE](https://open.spotify.com/track/2R6jF4DMNAFKuhYgXZxqMu) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 2:39 |
+| 62 | [SAFE PLACE](https://open.spotify.com/track/2R6jF4DMNAFKuhYgXZxqMu) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 2:39 |
+| 63 | [Earth Girls](https://open.spotify.com/track/4fFW2R6sfxi83VumhTuKDa) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [Bartholomew](https://open.spotify.com/album/4DCQ1KDwnkPgh5Yj1eMQGz) | 4:09 |
 | 64 | [Sneak](https://open.spotify.com/track/17InvVlFT4I30J7mdeuorn) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:59 |
 | 65 | [FAR FETCHED \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/5UqICqub1deTe918NnxtwZ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 4:07 |
-| 66 | [Slow Down](https://open.spotify.com/track/4DfCzjuGvK8xq6g6e1EpoE) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:14 |
-| 67 | [I DO](https://open.spotify.com/track/0dbxJcMy8Yd3fCBYCD3lU2) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/6gXOscJIR9wBb3OvNmeAGk) | 2:41 |
+| 66 | [I DO](https://open.spotify.com/track/0dbxJcMy8Yd3fCBYCD3lU2) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/6gXOscJIR9wBb3OvNmeAGk) | 2:41 |
+| 67 | [Slow Down](https://open.spotify.com/track/4DfCzjuGvK8xq6g6e1EpoE) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:14 |
 | 68 | [I'd Rather Be Broke](https://open.spotify.com/track/4GhRns9gZpQol9evF1dqQ8) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 3:37 |
 | 69 | [Superstar](https://open.spotify.com/track/4musQfBRjlfN6pfJNpchpC) | [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [12 AM in Atlanta 2](https://open.spotify.com/album/76ke5GIkFCFyJTYbBbMXuq) | 3:39 |
 | 70 | [Homesick](https://open.spotify.com/track/1P52hTSOxBb4SULJYDWrwg) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [You Only Live 2wice](https://open.spotify.com/album/2LCCg172ZNVAA9aFH2EPst) | 4:29 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 104 | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/2w6NKpDk88j5WhmAOggYNx) | [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/4kX602tlPIQUCM8K9mtjAK) | 3:38 |
 | 105 | [All Wolves Go To Heaven](https://open.spotify.com/track/0FnKGnChseb8z8rta9nHQk) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Raised By Wolves](https://open.spotify.com/album/61gYrHZvvs4tHesla7RTNz) | 2:33 |
 
-Snapshot ID: `AbuFXgAAAACCMlKLFB7Pwnrzxi0OKnmz`
+Snapshot ID: `AbuK9AAAAAAWTwGg31NtBcs2gBRNdjiu`

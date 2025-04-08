@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 
 > Para ahogar las penas en el fondo de una botella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,277 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,321 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 92 | [Dulce Pecado](https://open.spotify.com/track/1dcPvuDlIyEZSCtYXtZlMm) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/6GMiVgtsRUVMb1ZCIxQoYi) | 2:55 |
 | 93 | [Cupido Falló](https://open.spotify.com/track/42RKuMMmSjr4AX3m5RRm8L) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Cupido Falló](https://open.spotify.com/album/5dhqkA6KOXgukDTilRTAj0) | 3:17 |
 | 94 | [Qué Mal Te Ves Sin Mí](https://open.spotify.com/track/4lc3SmNj0FBtPGygUfeGc4) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h) | 3:17 |
-| 95 | [Mi Venganza](https://open.spotify.com/track/0z7h1C28EemMAFcpkp0iWL) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mi Venganza](https://open.spotify.com/album/4GrlF2rRb3Xg9o4aPPKOik) | 3:11 |
+| 95 | [Murió El Amor](https://open.spotify.com/track/09H7KZfOO0PMNLwsUDG2BI) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [En Tus Manos](https://open.spotify.com/album/0gkKTHSGp4ckN2XPVi4GUL) | 3:00 |
 | 96 | [No Es Por Acá](https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [No Es Por Acá](https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k) | 2:47 |
-| 97 | [Murió El Amor](https://open.spotify.com/track/09H7KZfOO0PMNLwsUDG2BI) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [En Tus Manos](https://open.spotify.com/album/0gkKTHSGp4ckN2XPVi4GUL) | 3:00 |
-| 98 | [Usted No Me Olvida](https://open.spotify.com/track/6adK8xCmHfwko5N1FEDqoT) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [Usted No Me Olvida](https://open.spotify.com/album/3hwujUBUE4JRL4E7SXoJPY) | 3:13 |
+| 97 | [Mi Venganza](https://open.spotify.com/track/0z7h1C28EemMAFcpkp0iWL) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mi Venganza](https://open.spotify.com/album/4GrlF2rRb3Xg9o4aPPKOik) | 3:11 |
+| 98 | [Sobreviviré](https://open.spotify.com/track/7w1oxfGb7RuXJUeo7BXIeP) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [El Rey del Despecho \- Internacional](https://open.spotify.com/album/1Boj3OklpAJEVqarl7EVnw) | 3:44 |
 | 99 | [Aventurero](https://open.spotify.com/track/49dwc91esnpPYpVNPS01bX) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mi Promesa](https://open.spotify.com/album/3IJDtKfCEZcMgDJePCiXFa) | 3:10 |
-| 100 | [El Precio de Tu Error](https://open.spotify.com/track/3I1lXaKt0XKgAKx6u1hlE8) | [Luis Alberto Posada](https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX) | [Lo Mejor de Luis Alberto Posada](https://open.spotify.com/album/2E1pvbJzRLX1ldbSHXYP08) | 3:30 |
+| 100 | [Usted No Me Olvida](https://open.spotify.com/track/6adK8xCmHfwko5N1FEDqoT) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [Usted No Me Olvida](https://open.spotify.com/album/3hwujUBUE4JRL4E7SXoJPY) | 3:13 |
 
 Snapshot ID: `Zo859gAAAADvnAYH1LywTryGGMBeI40M`

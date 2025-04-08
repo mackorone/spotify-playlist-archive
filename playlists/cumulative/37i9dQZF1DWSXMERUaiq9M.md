@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: Marlon Hoffstadt aka DJ Daddy Trance
 
-457 songs - 1 day 4 hr 54 min
+458 songs - 1 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,7 +283,7 @@
 | [My Mama Dropped LSD in the 90's](https://open.spotify.com/track/0MeGiBDDodJwa1iHnCgG3q) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM), [blazey](https://open.spotify.com/artist/66Vn5izERxqMuZz9QB5Dyh) | [My Mama Dropped LSD in the 90's](https://open.spotify.com/album/0X12iWSZ0DQrn35GgTEjrT) | 2:56 | 2024-05-23 | 2025-03-13 |
 | [NEED ME](https://open.spotify.com/track/3C1Ulqf87XI0fBAdlVsIGV) | [JANNICK](https://open.spotify.com/artist/1ekJQRvsXujUbEtMYEBUns) | [NEED ME](https://open.spotify.com/album/16ViikQ9O2zvUsYOxC3nhu) | 2:50 | 2024-03-22 | 2024-04-06 |
 | [Need Me \- Short Mix](https://open.spotify.com/track/18foj3KoiCQSEyXzOyy0kh) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [Dangerous Dreaming](https://open.spotify.com/artist/0vWXZcuwvJKsjqzpunhy4i) | [Faded Memories](https://open.spotify.com/album/6z2uULslBFfxK9cCGuK8XV) | 3:50 | 2024-07-25 | 2024-08-02 |
-| [Needed You](https://open.spotify.com/track/7jeNDxcVWuexlp92tFlpBo) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Needed You](https://open.spotify.com/album/61A8H7HWSGoqszTaWx5Btk) | 3:48 | 2025-03-06 |  |
+| [Needed You](https://open.spotify.com/track/7jeNDxcVWuexlp92tFlpBo) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Needed You](https://open.spotify.com/album/61A8H7HWSGoqszTaWx5Btk) | 3:48 | 2025-03-06 | 2025-04-08 |
 | [Neo Eros](https://open.spotify.com/track/1OWIJ8oVoeoKto8vNKQs5R) | [BXTR](https://open.spotify.com/artist/5DVHsT32QqMheNUahCSEAA), [Trudge](https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG) | [Neo Eros](https://open.spotify.com/album/6ouucH3hin2Y2IKUUAi3cD) | 5:27 | 2023-05-05 | 2023-05-11 |
 | [Neon](https://open.spotify.com/track/6G05ZcekqawoNe34fl8Kq8) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy) | [44009](https://open.spotify.com/album/3fDSKVn2cR6bx3gHYkqqtY) | 4:21 | 2024-12-28 | 2025-01-07 |
 | [Neon Bliss](https://open.spotify.com/track/6p7Xa2jRoOgcV5g0ZVuR4g) | [KARVA](https://open.spotify.com/artist/01IuZ5qGBbM7vc6IglCSLM) | [Neon Bliss](https://open.spotify.com/album/6hKsXj3CZ8YuyJfGd3oNuh) | 5:24 | 2023-09-21 | 2023-09-30 |
@@ -292,6 +292,7 @@
 | [New Phone Who Dis?](https://open.spotify.com/track/2BvIM3SbricsKs4ECnnsMF) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [New Phone Who Dis?](https://open.spotify.com/album/66dctQsI7Ra8bP5uUJ3eej) | 2:00 | 2024-10-10 | 2024-10-26 |
 | [No Air](https://open.spotify.com/track/2gs6SQlgCap3dW1nLm8WNb) | [FZA](https://open.spotify.com/artist/2H6aOJ4VEbPsFr8OD3KWg2) | [No Air](https://open.spotify.com/album/4gFzlb733pLB8lT6cfjHwn) | 3:21 | 2024-01-29 | 2024-02-24 |
 | [No More \- Original Mix](https://open.spotify.com/track/21xponj6jDAFNyDv0VyJcT) | [Alpha Tracks](https://open.spotify.com/artist/4gpRsvUmRXVH2BhobvdJC3) | [slash 001](https://open.spotify.com/album/7mwCXIc5XkgaISn5UBQTwn) | 7:01 | 2023-07-03 | 2023-07-14 |
+| [No Regrets](https://open.spotify.com/track/5UGWtEHRbi3Y44RcSJER3B) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [No Regrets](https://open.spotify.com/album/1Yp44nuzZFD65GoZYxfsAx) | 2:31 | 2025-04-03 |  |
 | [No Regrets](https://open.spotify.com/track/2PcIrMvSc1GwokYR7EHDxY) | [HARD CANDY](https://open.spotify.com/artist/1I1LcKWdBImFCt4DOW2s5O) | [No Regrets](https://open.spotify.com/album/2Cn8UBI1tyhLsuGLsAXK3I) | 2:54 | 2024-02-22 | 2024-04-06 |
 | [No Summer Hit 2024](https://open.spotify.com/track/3v27Jcdn1D3FqGyprnSVg7) | [Frederic.](https://open.spotify.com/artist/7fgTo2QxxmxGZI2YIjV6Vq), [HEISSS Berlin](https://open.spotify.com/artist/4WGG9x0FqlRRkdKixyddHK) | [No Summer Hit 2024](https://open.spotify.com/album/68nfzGY6zUGOeRtdcTq1eU) | 4:38 | 2023-11-30 | 2024-02-23 |
 | [No Type](https://open.spotify.com/track/4tNCSo5ZDCDWjUnlggKqnU) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [No Type](https://open.spotify.com/album/4yUyghTTQlMlqs162AacBO) | 3:23 | 2023-03-10 | 2024-06-14 |

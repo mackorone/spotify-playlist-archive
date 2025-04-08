@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cQIWrmrWbE.md) - [plain]
 
 > Las canciones que suenan en todas partes están aquí 🔥  🎧
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,844 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,850 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cQIWrmrWbE.md) - [plain]
 | 25 | [Khé?](https://open.spotify.com/track/0Rerqpf0rXnz6ndP7ytQ6O) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Khé?](https://open.spotify.com/album/6Wwr1AUMP6bWzPHOi6S7Tg) | 3:26 |
 | 26 | [Volando \- Remix](https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Volando \(Remix\)](https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX) | 4:33 |
 | 27 | [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/track/4xISUrw0t2elabEhKrtAJ0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/album/2ONEbIxBKRNvD2x4kCdsO4) | 2:10 |
-| 28 | [Cry](https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:16 |
-| 29 | [Me Hace Daño Verte](https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti) | [Fresto Music](https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB) | [Trovando El Son](https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu) | 5:00 |
+| 28 | [Me Hace Daño Verte](https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti) | [Fresto Music](https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB) | [Trovando El Son](https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu) | 5:00 |
+| 29 | [Cry](https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:16 |
 | 30 | [Volví](https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Volví](https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK) | 3:50 |
 | 31 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 |
 | 32 | [TULUM](https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:29 |

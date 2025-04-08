@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 
 > The songs that defined Nigeria's Alté era\. Cover: Cruel Santino
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,348 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,372 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 10 | [star signs](https://open.spotify.com/track/26AI33STXsKwtuV9hmzDPG) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Runtown](https://open.spotify.com/artist/4hg9bMurq8TvayGHYk9Mid) | [rare.](https://open.spotify.com/album/2rCQfEwg1KO3gksFF2Wq48) | 2:59 |
 | 11 | [Princess Going Digital](https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 3:09 |
 | 12 | [Repercussions](https://open.spotify.com/track/69kEVA5svAeoREFoNVeumH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Repercussions](https://open.spotify.com/album/2Hp6RUBiRKNzXUy6jZfFlu) | 3:00 |
-| 13 | [FINAL CHAMPION](https://open.spotify.com/track/3glpc7pE2ARlH1rnCxNohE) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Subaru Boys : FINAL HEAVEN](https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl) | 3:07 |
+| 13 | [Sparky](https://open.spotify.com/track/19FcrKMpCp4bZOxcPkTMsZ) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 2:24 |
 | 14 | [Head Start](https://open.spotify.com/track/4N7alCheeoFUxAAKkuTzU5) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Head Start](https://open.spotify.com/album/02OOD9WmhXOFZEUsZ7CYQb) | 2:14 |
 | 15 | ['00 Nostalgia](https://open.spotify.com/track/5lF0OJHp09PfZofnC9ZrBH) | [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7), [Andrę Wolff](https://open.spotify.com/artist/5oOskrwWHIzrhb0DBCor85) | [Mango Juice & Bad Decisions](https://open.spotify.com/album/0YKc3XhPcRHiM9ofkNn1eL) | 2:41 |
 | 16 | [No Days Off](https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [No Days Off](https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS) | 3:15 |
 | 17 | [Radio](https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Radio](https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0) | 3:10 |
-| 18 | [Sparky](https://open.spotify.com/track/19FcrKMpCp4bZOxcPkTMsZ) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 2:24 |
+| 18 | [FINAL CHAMPION](https://open.spotify.com/track/3glpc7pE2ARlH1rnCxNohE) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Subaru Boys : FINAL HEAVEN](https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl) | 3:07 |
 | 19 | [Mad Apology](https://open.spotify.com/track/4rl3QSAy9yZ0n6yc0vLQF0) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Anger Management](https://open.spotify.com/album/3wI3YjXudpkiPQLQUNEyU4) | 3:00 |
 | 20 | [Wetin Dey](https://open.spotify.com/track/6rB1KkvMlXl5hPB7EbTWw5) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Better Days / Wetin Dey](https://open.spotify.com/album/2iiLSjMEVjkUnpWrNQ8Qun) | 2:26 |
 | 21 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 34 | [showmetheway !!](https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc) | [showmetheway !!](https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G) | 2:20 |
 | 35 | [After Six](https://open.spotify.com/track/7F6qYyok4jAAabN9mDIVig) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tomi Agape](https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd), [Santi](https://open.spotify.com/artist/4TksvAnPyPpUidSjaJQJL6) | [Leap of Faith](https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl) | 3:51 |
 | 36 | [In The Morning](https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [In The Morning](https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW) | 3:07 |
-| 37 | [Confess](https://open.spotify.com/track/39SPbq7NgY7ZzKQUf1G0sr) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [MASTA](https://open.spotify.com/album/2iP4ZuUASwpZUVW0IMYIIw) | 2:40 |
-| 38 | [Magic](https://open.spotify.com/track/2dWEzqyLmdbUTTzf8TXn9Z) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Magic](https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A) | 3:11 |
+| 37 | [Magic](https://open.spotify.com/track/2dWEzqyLmdbUTTzf8TXn9Z) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Magic](https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A) | 3:11 |
+| 38 | [Confess](https://open.spotify.com/track/39SPbq7NgY7ZzKQUf1G0sr) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [MASTA](https://open.spotify.com/album/2iP4ZuUASwpZUVW0IMYIIw) | 2:40 |
 | 39 | [Skedaddle](https://open.spotify.com/track/58cAdQzxl5avwnhYpJg8C7) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Skedaddle](https://open.spotify.com/album/4sFlx19QsShdNFbRS1PwrO) | 2:30 |
 | 40 | [Broken Promises](https://open.spotify.com/track/0Pt9qTpPhwNV8qmbYWYv4V) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Summer Breeze](https://open.spotify.com/album/2YZpIbvbQ8XSJbak4KeocR) | 3:11 |
 | 41 | [Breathing](https://open.spotify.com/track/70Vi4xM9hhWhby2TH2IsGg) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [First Signs Of Me](https://open.spotify.com/album/2vIJ06C2k4jqCL4jT5ckfo) | 3:49 |

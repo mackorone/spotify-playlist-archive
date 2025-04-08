@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B meets Hip\-Hop, Pop, Afrobeats and everything in between !  Cover: Jessie Reyez
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,743,087 likes - 187 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,743,049 likes - 187 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

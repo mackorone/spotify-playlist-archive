@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-1,023 songs - 1 day 15 hr 38 min
+1,024 songs - 1 day 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,6 +455,7 @@
 | [Lazy Days](https://open.spotify.com/track/7suskOPZ8onOtynAzhT0Qg) | [My Ol' Man](https://open.spotify.com/artist/37j2MNjIAKO9lXKTXlhxJM) | [Lazy Days](https://open.spotify.com/album/66aCELdbiAYIzRN55S0SyN) | 2:43 | 2022-04-15 | 2022-07-08 |
 | [Lazy Dreams](https://open.spotify.com/track/0MeDQSiROjluPfu8hF00bT) | [Goslow](https://open.spotify.com/artist/4vc0hwDIdfnY7qAYAk9hqn), [VOLKHIN](https://open.spotify.com/artist/4zLct3dcGnskzifqZebi2p) | [Lazy Dreams](https://open.spotify.com/album/0dsR4JBGi6wYvVh8NF9PB9) | 2:12 | 2022-08-19 | 2023-09-11 |
 | [Lazy Wave](https://open.spotify.com/track/0NnNuDaIWS2aPRkKCgTDvE) | [Zeyn](https://open.spotify.com/artist/1NR5IwCw7nBTNjTQSKOb7Z) | [Lazy Wave](https://open.spotify.com/album/1gXyrT30rMvmePGUziVIVO) | 2:26 | 2022-10-14 |  |
+| [le bistrot](https://open.spotify.com/track/6x4czyQixc4Ul3rL02jdOs) | [three wheeler](https://open.spotify.com/artist/046W3kc1sJRUj2pOqfDssn) | [le bistrot](https://open.spotify.com/album/6PM3t1gtqMKJLCSv6NLmH9) | 3:09 | 2025-04-03 |  |
 | [Leaves in the Wind](https://open.spotify.com/track/5M9p88M16vOx2r4WzDWghD) | [Tristan Wolf](https://open.spotify.com/artist/5IAm7Y4cKtHu7UC0ctNi7f), [Odd Panda](https://open.spotify.com/artist/0Sd0BsazzL4j7U88C3v2iB) | [Leaves in the Wind](https://open.spotify.com/album/3cK3SJKB0XOsULFz01Sx2r) | 2:18 | 2022-08-05 | 2022-08-12 |
 | [Left Behind](https://open.spotify.com/track/5nerxClu54joJ7YWik41y8) | [Son Of Arn](https://open.spotify.com/artist/725aXOndVSiKmldfKJ6Rnr) | [Left Behind](https://open.spotify.com/album/0FMVhAsPlHxnzT1IFSjyot) | 2:05 | 2023-12-08 | 2025-02-15 |
 | [lemon](https://open.spotify.com/track/5ACcn12wzLSQb7OqfXvX0w) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [lemon](https://open.spotify.com/album/5k0NV7xszABRC2JSFcE5Lz) | 1:54 | 2022-04-15 | 2022-07-29 |
@@ -544,7 +545,7 @@
 | [Morning Sax](https://open.spotify.com/track/13jHt6ATRkoxbmdjh3U3tz) | [Years From Now](https://open.spotify.com/artist/2KkmGVdGFnNKQeVbf69Fp4) | [Morning Sax](https://open.spotify.com/album/3HeKfEFoaAEgRgIhA8D7SQ) | 3:03 | 2022-09-30 | 2022-12-10 |
 | [Morning Stroll](https://open.spotify.com/track/3iIJ5WP1c6TuvTpJ2GJ8UD) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Insights](https://open.spotify.com/album/2JnOxnGfgXP5CwoiZXKQFE) | 2:20 | 2022-12-16 |  |
 | [Morse](https://open.spotify.com/track/4Od4ZRReLhtOLjOk5WwniX) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Morse](https://open.spotify.com/album/6HhukpHgPeBhjwTAKYieJ0) | 2:48 | 2025-02-14 |  |
-| [Mosaic](https://open.spotify.com/track/3rDpqMkNK2YLWlGF8bKBmh) | [Lipstick Fest](https://open.spotify.com/artist/3b8kyF1PeVIOlo16gJUee1) | [Mosaic](https://open.spotify.com/album/3F1uxNrHxx5BMb7qUzFWpA) | 3:16 | 2022-04-15 | 2025-04-07 |
+| [Mosaic](https://open.spotify.com/track/3rDpqMkNK2YLWlGF8bKBmh) | [Lipstick Fest](https://open.spotify.com/artist/3b8kyF1PeVIOlo16gJUee1) | [Mosaic](https://open.spotify.com/album/3F1uxNrHxx5BMb7qUzFWpA) | 3:16 | 2022-04-15 |  |
 | [Motions](https://open.spotify.com/track/29VTaoe555T9II0veG9SCi) | [midnight alpha.](https://open.spotify.com/artist/5bGpu7IGzmlPjg4cCx85tK), [Needraw](https://open.spotify.com/artist/0RLfDzqlvXQT6C5yyfOD6z) | [Motions](https://open.spotify.com/album/34D8KTNlCjzuRSFY5Mv5vi) | 2:56 | 2022-07-08 | 2022-10-29 |
 | [Motto](https://open.spotify.com/track/1ENJ8Fg32aGAxoh8mZdfCX) | [Happy Chap](https://open.spotify.com/artist/1a6c3Rh1y3kQ1KKfy58EyZ) | [Motto](https://open.spotify.com/album/0innXMWH0PqamCZQIFSTSa) | 3:52 | 2022-04-15 | 2022-07-01 |
 | [mountain peak](https://open.spotify.com/track/0VGLPDmgUWpoUjStj7Csvc) | [fly\_by\_wire](https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj) | [mountain peak](https://open.spotify.com/album/39X3V9LCL3hqHDiUqjUpH6) | 2:26 | 2023-09-22 |  |
@@ -740,7 +741,7 @@
 | [Say So](https://open.spotify.com/track/4cXMR7W8SZEL0Nw180Ue0Y) | [Lazarus best for us](https://open.spotify.com/artist/7Jo5bYYstYsWilLkB9zFGH) | [Don't Start Now](https://open.spotify.com/album/4cZQzq6eQwg2xnh2oWuQEp) | 3:34 | 2022-11-11 | 2023-10-27 |
 | [School Of Rytmus](https://open.spotify.com/track/14BAmiynFdqR5mTp6yd6d9) | [Valgre](https://open.spotify.com/artist/4Car9HylNpk3hdArsuEQOp) | [School Of Rytmus](https://open.spotify.com/album/6HTcP4oqAtPPK6gFMyzQ3f) | 2:25 | 2024-03-01 |  |
 | [Sea of Thoughts](https://open.spotify.com/track/22z4OBkJ2VmGA7dSssWsy7) | [Soft Vessels](https://open.spotify.com/artist/6O4ZIYrg1s0J5HP8Z1oitv) | [Sea of Thoughts](https://open.spotify.com/album/795sBvT2shhNGKZJoEcb6B) | 3:02 | 2023-09-22 |  |
-| [Seals](https://open.spotify.com/track/6hhDdAhtUbPkvPsLbp1KPP) | [kust](https://open.spotify.com/artist/2HTMpw5UmlJ2sUap8z5ZbU) | [Seals](https://open.spotify.com/album/7eDjDYsBjvvaatdJyxmzhY) | 2:14 | 2022-11-11 |  |
+| [Seals](https://open.spotify.com/track/6hhDdAhtUbPkvPsLbp1KPP) | [kust](https://open.spotify.com/artist/2HTMpw5UmlJ2sUap8z5ZbU) | [Seals](https://open.spotify.com/album/7eDjDYsBjvvaatdJyxmzhY) | 2:14 | 2022-11-11 | 2025-04-08 |
 | [searching](https://open.spotify.com/track/5dxj79aIERpUFnd13G1GfY) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [searching](https://open.spotify.com/album/1RmmxwrRiiGuIpFjhkVuL5) | 2:23 | 2023-04-03 | 2025-01-30 |
 | [Seasonal Love](https://open.spotify.com/track/4Z9Zuq40Vq6exAXxgcvqTv) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy) | [Seasonal Love](https://open.spotify.com/album/3FJTcw8nFi6279pIUipMA7) | 2:00 | 2022-10-14 | 2023-10-06 |
 | [Seasons](https://open.spotify.com/track/6RUXqsK0MlNGXFWBfZs400) | [M.I Hakone](https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v) | [Seasons](https://open.spotify.com/album/1Gi40W4rRup1t8B0p5Y5Yf) | 2:04 | 2023-10-20 |  |
@@ -773,7 +774,7 @@
 | [Sit Down Paddle](https://open.spotify.com/track/166r3eE8dhuEZJygvDjBbI) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Sit Down Paddle](https://open.spotify.com/album/1xVHBqls055uf97wWqtZE6) | 2:00 | 2024-03-08 |  |
 | [Skippy](https://open.spotify.com/track/2LHxUoqCPDbroBUzYJvIMi) | [Skipclass](https://open.spotify.com/artist/27cq2WN6MbO7i9788ZKFIr) | [Skippy](https://open.spotify.com/album/4TIbONnA1JbjdbQcUAppg5) | 2:28 | 2025-03-21 |  |
 | [Skyline](https://open.spotify.com/track/0LprOZNXWLJdhVAkkykikL) | [Miss u Lots](https://open.spotify.com/artist/526OmKT6s2Lyjb2INyF047) | [Skyline](https://open.spotify.com/album/304DbtylJr8aVZPPNbMwvZ) | 2:15 | 2022-12-09 | 2025-02-23 |
-| [Skyscraper](https://open.spotify.com/track/3AYHI7qsr1lVLGieNgCpkf) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [Skyscraper](https://open.spotify.com/album/46g8XVgUHxSjLWahjTDBHZ) | 1:47 | 2024-08-23 |  |
+| [Skyscraper](https://open.spotify.com/track/3AYHI7qsr1lVLGieNgCpkf) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [Skyscraper](https://open.spotify.com/album/46g8XVgUHxSjLWahjTDBHZ) | 1:47 | 2024-08-23 | 2025-04-08 |
 | [Slapperoni Pizza](https://open.spotify.com/track/6IGI55MLcRfsr9SwspazhZ) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Sisel](https://open.spotify.com/album/0j6HgcImiDOjaQeXK4utp7) | 2:11 | 2022-04-15 | 2022-05-20 |
 | [sleep tight](https://open.spotify.com/track/6K18f74xVdKOulHIO7iKqx) | [seeya](https://open.spotify.com/artist/4hAs0JKg5MGRdpdwzurMR9) | [sleep tight](https://open.spotify.com/album/6ZRMc50tIWcf7VWZlyKp9L) | 2:44 | 2024-10-16 | 2024-11-28 |
 | [Sleepless Times](https://open.spotify.com/track/0SIjNbculfq6PiPg1PkggT) | [Mike Oliver](https://open.spotify.com/artist/19K0OLGUGXU9PGvbJ2aAHn) | [Sleepless Times](https://open.spotify.com/album/5QTYGdQ4X4lUNpf7cV5Z6d) | 2:32 | 2022-11-11 |  |
@@ -836,7 +837,7 @@
 | [Stream of Consciousness](https://open.spotify.com/track/5zCwGSdX2et9QL5bvCNEp3) | [Lightover](https://open.spotify.com/artist/3YArYgoxRyJPcpSLjKJeX3) | [Stream of Consciousness](https://open.spotify.com/album/4dKDzOF6I8IMZqKFEInpcn) | 2:32 | 2022-06-10 | 2022-07-08 |
 | [Street Of Gold](https://open.spotify.com/track/5z0o7Ep4MktEA00g804pC3) | [ShinE](https://open.spotify.com/artist/100EZpJ3gfxPHtKnIBnSHH) | [Street Of Gold](https://open.spotify.com/album/3kzQO9LsVqE2qcSRcOw1LH) | 3:03 | 2022-04-15 | 2022-05-20 |
 | [Streets](https://open.spotify.com/track/7s5AKPdIFRAKhwNdTdsAcH) | [Adbeel](https://open.spotify.com/artist/7i5bDhrZDrpdLX9XHGjkbj), [Agx12](https://open.spotify.com/artist/49UL7yljFCnRKP4ZDVY6q5) | [Streets](https://open.spotify.com/album/6eAlAb0BGG1DxKvBhFW7SG) | 2:00 | 2023-04-03 | 2023-11-24 |
-| [String Lights](https://open.spotify.com/track/7jFZuxwCwaVmzAHaOfjKkF) | [Dimension 09](https://open.spotify.com/artist/6iuTugq19D6JIxJWQwLlr0) | [Charms](https://open.spotify.com/album/12wz2J41ZvWQrIdDOeoJrg) | 2:37 | 2022-06-10 |  |
+| [String Lights](https://open.spotify.com/track/7jFZuxwCwaVmzAHaOfjKkF) | [Dimension 09](https://open.spotify.com/artist/6iuTugq19D6JIxJWQwLlr0) | [Charms](https://open.spotify.com/album/12wz2J41ZvWQrIdDOeoJrg) | 2:37 | 2022-06-10 | 2025-04-08 |
 | [strolling](https://open.spotify.com/track/1d4ZvL8uuUPTEAnocC3zEa) | [!nvite](https://open.spotify.com/artist/6KJtK1U4TEYXQgg65JYAJI) | [strolling](https://open.spotify.com/album/6AxCT4NDfeK3WCzmQnZ2fF) | 2:18 | 2022-04-15 | 2022-07-08 |
 | [Suave Park](https://open.spotify.com/track/2npdD0HQaiAgneU6uilsx5) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Suave Park / Mikasa](https://open.spotify.com/album/3IQJ2h5ZjKdeDhxowpu3wf) | 1:46 | 2022-04-15 | 2023-10-13 |
 | [Subliminal](https://open.spotify.com/track/3VLSJ5VvSBGVXoC5cQo0Fg) | [FOCUS inc.](https://open.spotify.com/artist/5KhJljlbtsSaGGbRwYVp2n) | [Subliminal](https://open.spotify.com/album/56EXm35Vqwysafnh14WaNT) | 2:14 | 2022-04-15 | 2025-01-31 |
@@ -906,7 +907,7 @@
 | [The Switch](https://open.spotify.com/track/79pbGSryQzEqI97ydfig8Q) | [Knuckles & Tails](https://open.spotify.com/artist/2KUPQ8T5999f2EoqJ5VczV) | [The Switch](https://open.spotify.com/album/318fCjjJxB1lxUOunFD5RY) | 2:53 | 2022-04-15 | 2022-06-10 |
 | [The Truth](https://open.spotify.com/track/5FQippF8g8Nb5n7Gd9e2x3) | [MVR Music](https://open.spotify.com/artist/6JKyNrD4ZdPRFbZIY1TES8) | [The Truth](https://open.spotify.com/album/59p5oWiIgoqKdaJuVrrgap) | 2:20 | 2022-04-15 | 2023-10-13 |
 | [The Warmup](https://open.spotify.com/track/1EgG7IPC4yKKERNx9caeck) | [Cereal Party](https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX) | [The Warmup](https://open.spotify.com/album/6xTEwiGet96XGYpkLoWf2j) | 2:30 | 2022-04-15 |  |
-| [The Way](https://open.spotify.com/track/7op5NFvJzRLffdGkYzJpUX) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Sensei](https://open.spotify.com/album/76s8dxo8JFBoyLmVOu6esq) | 2:19 | 2022-05-27 | 2025-04-07 |
+| [The Way](https://open.spotify.com/track/7op5NFvJzRLffdGkYzJpUX) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Sensei](https://open.spotify.com/album/76s8dxo8JFBoyLmVOu6esq) | 2:19 | 2022-05-27 |  |
 | [Their Name Is Jazz](https://open.spotify.com/track/7k489KmPZjNkvEMgSZdY2g) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Their Name Is Jazz](https://open.spotify.com/album/1Z8CkZUbO8MXbOGEP9k7zj) | 2:15 | 2023-09-29 |  |
 | [Therzea](https://open.spotify.com/track/79stCffEHFel5pekrddLj2) | [Milo Fries](https://open.spotify.com/artist/6cgYbw5pf0WpoBED5N0pLb) | [Therzea](https://open.spotify.com/album/2RrVbRuRhmiAfhGc6v3jHl) | 1:58 | 2022-04-15 | 2022-05-20 |
 | [These people I met](https://open.spotify.com/track/6Uga4Lwrw4rPORjwytgVRn) | [plutones](https://open.spotify.com/artist/5F5aValve5LdJk3f9KBL5u) | [These people I met](https://open.spotify.com/album/6uCg5uHOd8gQDY3ino2Sgp) | 1:50 | 2024-09-13 | 2024-11-09 |

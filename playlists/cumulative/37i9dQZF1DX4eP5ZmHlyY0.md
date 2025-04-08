@@ -4,13 +4,14 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: ENHYPEN
 
-517 songs - 1 day 5 hr 5 min
+518 songs - 1 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+82 Pressin'](https://open.spotify.com/track/1gh9hWNAzDR46rn52uyoiV) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O), [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [+82 Pressin'](https://open.spotify.com/album/4BHK4cuYnptvcw0yOCzh8Y) | 3:22 | 2025-03-20 | 2025-04-07 |
 | [100!](https://open.spotify.com/track/2Zd5mKEDcw4I5ykv5ZQGyZ) | [ONE PACT](https://open.spotify.com/artist/6ypgjfzuOVkVw9FEyh2UD5) | [PINK CRUSH](https://open.spotify.com/album/6w7J6E5wHhGDWPIVRaoAvl) | 3:13 | 2025-03-06 | 2025-04-07 |
 | [15分](https://open.spotify.com/track/0vlxTcz1kjz6GjudTYl8Ye) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [15分](https://open.spotify.com/album/75YVfifI9CEnG92jKPEr3j) | 4:24 | 2023-11-23 | 2024-01-10 |
+| [1999](https://open.spotify.com/track/4irSoWVMefjnL4ZjmmM25t) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [The Firstfruit \- The 1st Album](https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s) | 3:25 | 2025-04-07 |  |
 | [1st SONG](https://open.spotify.com/track/1CEhK1YwRkkDNmDD90mJld) | [DOBERMAN INFINITY](https://open.spotify.com/artist/25X0RB2EWCmj9u0Pnj1uW5) | [1st SONG](https://open.spotify.com/album/2xVMZnRPnNuczI88IgVtnA) | 5:04 | 2024-06-25 | 2024-07-31 |
 | [1番星](https://open.spotify.com/track/0xNetekd6Pmws8beynMr7m) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [1番星](https://open.spotify.com/album/6N95femA9sg14zixSmaDfm) | 4:50 | 2024-12-24 | 2025-01-08 |
 | [24karats GOLD GENESIS](https://open.spotify.com/track/3DOBALd9w4fDZ122HzF7CC) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [24karats GOLD GENESIS](https://open.spotify.com/album/2um16q15odwpmhiAjf8pqi) | 4:17 | 2024-06-12 | 2024-07-10 |

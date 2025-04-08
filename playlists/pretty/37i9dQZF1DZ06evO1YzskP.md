@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 
 > This is La Receta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,424 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,462 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 49 | [El Niño De La Tuna](https://open.spotify.com/track/5PKyJ6jMIqtSPfR7vmDOC2) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Pizza Está En El Horno](https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG) | 2:47 |
 | 50 | [Chalo Araujo \(Pistolero De Arturo Beltrán\)](https://open.spotify.com/track/2Jw4p4WIIxl8BwLyZ78HJ3) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [La Expansion](https://open.spotify.com/artist/3TMPTLwsdt24hPu8TActJN) | [Chalo Araujo \(Pistolero De Arturo Beltrán\)](https://open.spotify.com/album/5WMWsNeKATwiYcN6u1XCz3) | 2:15 |
 
-Snapshot ID: `Z/BygAAAAABj4M03EHucWwducuMggMH9`
+Snapshot ID: `Z/HEAAAAAABwDNrCWtIMuh3nlPiBCCSW`

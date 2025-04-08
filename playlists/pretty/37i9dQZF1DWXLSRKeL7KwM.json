@@ -1,6 +1,6 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 495556,
+  "num_followers": 495705,
   "original_name": "Energy Booster: Country",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/3yHHbz0wapmu6xF82vHkCU"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "I Like The Sound Of That",
-      "url": "https://open.spotify.com/track/5S5rw0WLVCAux5B5bWCehK"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/2z3R7CZ04HkT7425h5xyNV"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Home State",
-        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/3yHHbz0wapmu6xF82vHkCU"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
         }
       ],
-      "duration_ms": 174254,
-      "name": "Take It From Me",
-      "url": "https://open.spotify.com/track/3dCZm5HrG0jIXAHfNkg2H0"
+      "duration_ms": 209280,
+      "name": "I Like The Sound Of That",
+      "url": "https://open.spotify.com/track/5S5rw0WLVCAux5B5bWCehK"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -855,6 +839,22 @@
       "duration_ms": 223832,
       "name": "Wide Open Spaces",
       "url": "https://open.spotify.com/track/6cjwec9ii5uLK7CDfPBYt1"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Home State",
+        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 174254,
+      "name": "Take It From Me",
+      "url": "https://open.spotify.com/track/3dCZm5HrG0jIXAHfNkg2H0"
     },
     {
       "added_at": "2024-11-15 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 463 likes - 342 songs - 20 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 464 likes - 342 songs - 20 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 92 | [A Beautiful Noise](https://open.spotify.com/track/4Z8DyhYIN47p8LgrPVOYeL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:19 |
 | 93 | [End of the World](https://open.spotify.com/track/60myXm48xMbtq52nQRgEWc) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically](https://open.spotify.com/album/76TPKafjzyzB1PjXOuvRtT) | 3:28 |
 | 94 | [WildHorse](https://open.spotify.com/track/3jA2ZjqyX7JuQ0Z8IwVxEw) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:20 |
-| 95 | [Stretchy Pants](https://open.spotify.com/track/4nEo5fRitrMAf8VBfRBAWQ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Stretchy Pants](https://open.spotify.com/album/6yMUbq6Ij65DrdAApMDgvD) | 3:07 |
-| 96 | [Denim & Rhinestones](https://open.spotify.com/track/3gC7D3VOB6zIeMG6lVNuTY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 2:48 |
+| 95 | [Denim & Rhinestones](https://open.spotify.com/track/3gC7D3VOB6zIeMG6lVNuTY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 2:48 |
+| 96 | [Stretchy Pants](https://open.spotify.com/track/4nEo5fRitrMAf8VBfRBAWQ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Stretchy Pants](https://open.spotify.com/album/6yMUbq6Ij65DrdAApMDgvD) | 3:07 |
 | 97 | [Over Drinking](https://open.spotify.com/track/6pmUZU4mDjodUy7LEbxKYZ) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Nightfall](https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q) | 3:10 |
 | 98 | [SO CLOSE \(feat\. Ashland Craft\)](https://open.spotify.com/track/3VNbQeU5THaYyB6Ayh7vIX) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [A ROCK](https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y) | 3:45 |
 | 99 | [You Can't Bring Me Down](https://open.spotify.com/track/1Ov9aXTcZomQ8wUmgns3Ul) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [The Mountain](https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO) | 4:46 |
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 107 | [Broken](https://open.spotify.com/track/65VulgoHJGsL7l3eRIXzRC) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype Broken](https://open.spotify.com/album/0rsIuMdNjcwbnS9kL4DKAf) | 2:57 |
 | 108 | [Take Me Out](https://open.spotify.com/track/4Fdn6pClZqqubxguo8KqxN) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones \(Deluxe Edition\)](https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy) | 4:03 |
 | 109 | [Plain Jane](https://open.spotify.com/track/1vooH2ubQm33QhksSPLFGY) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Raised](https://open.spotify.com/album/2fbpiahbZmJqg2KDK9JEVJ) | 3:28 |
-| 110 | [Runnin’ Away From Home](https://open.spotify.com/track/3S1ml6NqVkVBjYNB8QgXE7) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Ticket To L.A.](https://open.spotify.com/album/3TJSHb2z7Zo2K8ff8bMSik) | 3:08 |
-| 111 | [Cheap Wine & Cigarettes](https://open.spotify.com/track/0XLFn1nogKrTOp70huYjw1) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Light Up The Night](https://open.spotify.com/album/5rS288rPuXrXGuy5djlS9G) | 2:43 |
+| 110 | [Cheap Wine & Cigarettes](https://open.spotify.com/track/0XLFn1nogKrTOp70huYjw1) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Light Up The Night](https://open.spotify.com/album/5rS288rPuXrXGuy5djlS9G) | 2:43 |
+| 111 | [Runnin’ Away From Home](https://open.spotify.com/track/3S1ml6NqVkVBjYNB8QgXE7) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Ticket To L.A.](https://open.spotify.com/album/3TJSHb2z7Zo2K8ff8bMSik) | 3:08 |
 | 112 | [Hold On Me](https://open.spotify.com/track/498mz1TlZyPbyEEbF0YScP) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:36 |
 | 113 | [Low](https://open.spotify.com/track/72pvSf3nSjqB4Fuph46kJK) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:31 |
 | 114 | [Better Off](https://open.spotify.com/track/2Si7GvIT6drGqNGR4MNEVz) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Ain't That Kind of Cowboy](https://open.spotify.com/album/1e1kJ1OxfK3lHhqx9XFNE4) | 3:09 |
@@ -164,8 +164,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 154 | [Free](https://open.spotify.com/track/7E56b3ywRXa1AjfhZNDtrw) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Breaker](https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh) | 3:28 |
 | 155 | [Tumble And Fall](https://open.spotify.com/track/5yIhd010M1qEjc8AmkFcak) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Pain Killer](https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H) | 4:41 |
 | 156 | [Three Whiskeys And The Truth](https://open.spotify.com/track/2PMtsOOk1JD7yGT7E1ZK6Q) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Mr\. Sun](https://open.spotify.com/album/1zb7kVc7JA7ew7OIdj0wOB) | 3:53 |
-| 157 | [Bless My Heart](https://open.spotify.com/track/7u82QfsfMKS79Sr9k57A4w) | [Leah Turner](https://open.spotify.com/artist/04hpJHF9uqnRNDpjULw0zh) | [Leah Turner \- EP](https://open.spotify.com/album/2o7RvcJctIBoe16Tz4JwcC) | 4:01 |
-| 158 | [Kansas](https://open.spotify.com/track/4z6dUXoilOKQSwH21Z4MLL) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Mind Of A Country Boy](https://open.spotify.com/album/0SyEsGffJ9ZqvRkuVrzOlB) | 3:08 |
+| 157 | [Kansas](https://open.spotify.com/track/4z6dUXoilOKQSwH21Z4MLL) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Mind Of A Country Boy](https://open.spotify.com/album/0SyEsGffJ9ZqvRkuVrzOlB) | 3:08 |
+| 158 | [Bless My Heart](https://open.spotify.com/track/7u82QfsfMKS79Sr9k57A4w) | [Leah Turner](https://open.spotify.com/artist/04hpJHF9uqnRNDpjULw0zh) | [Leah Turner \- EP](https://open.spotify.com/album/2o7RvcJctIBoe16Tz4JwcC) | 4:01 |
 | 159 | [How Far Can It Go? \(feat\. Trisha Yearwood\)](https://open.spotify.com/track/0XceOz98G0knax82kA2BTw) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/7eictMoL2O0921qQH3aG8K) | 2:55 |
 | 160 | [Faster](https://open.spotify.com/track/6l1hUDw8WhmAtdDyrzUTtm) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:17 |
 | 161 | [Real Talk](https://open.spotify.com/track/7wTu1LogP8hGm0wYoiS73m) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Real Talk](https://open.spotify.com/album/3siJExEI1ib1c1gUqjwqFa) | 3:06 |
@@ -192,8 +192,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 182 | [Shut Me Up](https://open.spotify.com/track/0wX4YMWniDeyuZg65aVcV1) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Shut Me Up](https://open.spotify.com/album/4uTnjLNnItKKJfGX54hRxU) | 3:09 |
 | 183 | [Very Last Moment In Time](https://open.spotify.com/track/7gTSY2oOJAXSACadaMX4aq) | [Lindsay Lohan](https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF) | [Speak](https://open.spotify.com/album/3ZxcXB6JtLDAEUDLVkiIRe) | 3:28 |
 | 184 | [Lonely Alone](https://open.spotify.com/track/1tDJdQc60knIRGXwOlfSIN) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 4:37 |
-| 185 | [The Faker](https://open.spotify.com/track/4puoCLTBJlX4007xQLf1Am) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [The Dream](https://open.spotify.com/album/0uJHZD1qFZwvO1GyMzDA1G) | 3:49 |
-| 186 | [Casseroles](https://open.spotify.com/track/3hOd6gdb1GDaeA1qEstzoh) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Casseroles](https://open.spotify.com/album/6HAn1loKc6GRDhQtsHRDAR) | 3:40 |
+| 185 | [Casseroles](https://open.spotify.com/track/3hOd6gdb1GDaeA1qEstzoh) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Casseroles](https://open.spotify.com/album/6HAn1loKc6GRDhQtsHRDAR) | 3:40 |
+| 186 | [The Faker](https://open.spotify.com/track/4puoCLTBJlX4007xQLf1Am) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [The Dream](https://open.spotify.com/album/0uJHZD1qFZwvO1GyMzDA1G) | 3:49 |
 | 187 | [Looking For A Lighter](https://open.spotify.com/track/4AzJiwev9fmVbw0X8mWb1P) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [If It Wasn't For You](https://open.spotify.com/album/7ge2IbF35OIlj7Yimy14H7) | 3:03 |
 | 188 | [The Other Side](https://open.spotify.com/track/6eQTRxtUTIAZ8lv1J4s6KA) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Through The Madness Vol\. 1](https://open.spotify.com/album/5N9ZHay9lZWfle8m5mTPiK) | 3:29 |
 | 189 | [Getaway Car](https://open.spotify.com/track/15cLsxeItpUKOIXXJVjYaW) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Welcome To Diverse City](https://open.spotify.com/album/08J3ZjZXN1J5qNbla71PYI) | 4:26 |
@@ -351,4 +351,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 341 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
 | 342 | [I Won't Lie](https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z) | [BFM Hits](https://open.spotify.com/artist/6Xdp9Oz4PJJB9O0yoZmg7r) | [Karaoke: Country Hits 1998, Vol\. 11](https://open.spotify.com/album/0QvHzG6xAWCUjxzuoIuyUb) | 3:20 |
 
-Snapshot ID: `AbuFcgAAAADpjwmO+L2mjZS/11GyKE7l`
+Snapshot ID: `AbuK1gAAAABvCapgvIpcA1JJrNdy+Fx/`

@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,951 likes - 111 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,955 likes - 111 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Thug \(feat\. ADAAM\)](https://open.spotify.com/track/0ktvJdYHDM30akporoNJkM) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [Thug \(feat\. ADAAM\)](https://open.spotify.com/album/4eHXo9XkPM1UaDGHRSoflf) | 2:42 |
 | 2 | [Don Julio](https://open.spotify.com/track/17XpwVB67mYAaYjKtoOpP3) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Don Julio](https://open.spotify.com/album/2RmBJrwoTQsw5Dm3kRtWWk) | 2:18 |
-| 3 | [Pop](https://open.spotify.com/track/1YJK6GWw0dcR8izmNETFYo) | [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD) | [Pop](https://open.spotify.com/album/2zyEZfz8EA0LywFH7BOVB9) | 2:48 |
+| 3 | [Maradona](https://open.spotify.com/track/1gwnYp4LVSgwJevjiu5Fld) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW) | [Maradona](https://open.spotify.com/album/2xxSgY1O5cnVmOJEjJLZd4) | 1:56 |
 | 4 | [Gonatt](https://open.spotify.com/track/42TXad92bshoPjqlRzqtbQ) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP) | [Gonatt](https://open.spotify.com/album/4dgaI7P0OEhTum6AnGIIDS) | 2:34 |
-| 5 | [Maradona](https://open.spotify.com/track/1gwnYp4LVSgwJevjiu5Fld) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW) | [Maradona](https://open.spotify.com/album/2xxSgY1O5cnVmOJEjJLZd4) | 1:56 |
-| 6 | [Fantastic 4](https://open.spotify.com/track/5pBvnjyClaOKtANOlnmLhx) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD) | [Fantastic 4](https://open.spotify.com/album/26MRFfThYjP3apDKglnXEt) | 2:08 |
+| 5 | [Fantastic 4](https://open.spotify.com/track/5pBvnjyClaOKtANOlnmLhx) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD) | [Fantastic 4](https://open.spotify.com/album/26MRFfThYjP3apDKglnXEt) | 2:08 |
+| 6 | [Pop](https://open.spotify.com/track/1YJK6GWw0dcR8izmNETFYo) | [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD) | [Pop](https://open.spotify.com/album/2zyEZfz8EA0LywFH7BOVB9) | 2:48 |
 | 7 | [Torka Dina Tårar](https://open.spotify.com/track/20cbKAXiZU02j5JPgzee1A) | [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv), [Valentin](https://open.spotify.com/artist/4wyiRaOaZMbqROCIEJjcPs), [Zius](https://open.spotify.com/artist/2fuavXGFyYPgM3UrbCnBKA) | [Torka Dina Tårar](https://open.spotify.com/album/4IRZUrt5BFBqVmjTtcw9ip) | 2:34 |
 | 8 | [Leyla](https://open.spotify.com/track/4QIzYCGDTLJxue9HQe4xaY) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Leyla](https://open.spotify.com/album/6pkRBjBGXdVF8b0AUCfuUl) | 2:26 |
 | 9 | [Socker & Salt](https://open.spotify.com/track/41KVBntdQxv5lmtkNGHMi7) | [S.T](https://open.spotify.com/artist/5997IALokFdMdLd1cPxzAD) | [Socker & Salt](https://open.spotify.com/album/44E5GqTNJajNutVBdQY1Li) | 2:16 |
-| 10 | [Andas](https://open.spotify.com/track/3uGBGduzG2Wy5C3jRQOatB) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Andas](https://open.spotify.com/album/1RG65pwv31lbwjOfdEmfJR) | 2:21 |
-| 11 | [I Parken](https://open.spotify.com/track/6K9FuhOGa7VgjO7Hn9tG1K) | [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv) | [I Parken](https://open.spotify.com/album/7InYSxatuS5otKgF240iLr) | 2:44 |
-| 12 | [Hakuna matata](https://open.spotify.com/track/0hcCLGeSARq5NH39mICnCg) | [Kayye](https://open.spotify.com/artist/6jhWtuoDN6F5xFrEBLpobu), [LLoke](https://open.spotify.com/artist/6ng8zL1LSR6gntI00mGS2Z) | [Hakuna matata](https://open.spotify.com/album/0KkgptJX1ERcfN5FmUPNjI) | 2:43 |
+| 10 | [Hakuna matata](https://open.spotify.com/track/0hcCLGeSARq5NH39mICnCg) | [Kayye](https://open.spotify.com/artist/6jhWtuoDN6F5xFrEBLpobu), [LLoke](https://open.spotify.com/artist/6ng8zL1LSR6gntI00mGS2Z) | [Hakuna matata](https://open.spotify.com/album/0KkgptJX1ERcfN5FmUPNjI) | 2:43 |
+| 11 | [Andas](https://open.spotify.com/track/3uGBGduzG2Wy5C3jRQOatB) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Andas](https://open.spotify.com/album/1RG65pwv31lbwjOfdEmfJR) | 2:21 |
+| 12 | [I Parken](https://open.spotify.com/track/6K9FuhOGa7VgjO7Hn9tG1K) | [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv) | [I Parken](https://open.spotify.com/album/7InYSxatuS5otKgF240iLr) | 2:44 |
 | 13 | [SAVANNAH](https://open.spotify.com/track/1R7PIO2VxlCh3mI8BXetdQ) | [Solo](https://open.spotify.com/artist/3U2nefv8SP86Y3fI47xfxh) | [SAVANNAH](https://open.spotify.com/album/3EjIPJHQuI4n7X0XwWy5Hp) | 2:40 |
 | 14 | [MER ÄN KÄRLEK](https://open.spotify.com/track/3YQFlD7ff3RsP2T2qHVgO7) | [NOËL](https://open.spotify.com/artist/4nUSL3ONua6ReBSIuYDKmf), [ABOW](https://open.spotify.com/artist/3y3dsdD0zyorLGIXds3JrB) | [MER ÄN KÄRLEK](https://open.spotify.com/album/5GyKDkQwLpednSPjYB6PG3) | 2:14 |
 | 15 | [Mayweather](https://open.spotify.com/track/615FB5ZUAMK5W0pdxblSke) | [3Z](https://open.spotify.com/artist/6Q08v2ke3H6mEfIy263Zei), [OB2](https://open.spotify.com/artist/4DXqEVxdQCYHTeSIrfWNOq) | [Mayweather](https://open.spotify.com/album/3PtiPMqPNtJGzQimy8C8l9) | 1:59 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 110 | [Aj Aj Aj](https://open.spotify.com/track/55M6DeR1dnoeYU9Ig4nP3m) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR), [DnoteOnDaBeat](https://open.spotify.com/artist/4wsqTX9xCVoObzRPvjoV4H) | [Aj Aj Aj](https://open.spotify.com/album/1orU6gnKffJv1mg14FNVcl) | 2:07 |
 | 111 | [Avänsjuk \(Avundsjuk\)](https://open.spotify.com/track/1QA0z8FYzITv6Y8INYxaqI) | [Jashua K](https://open.spotify.com/artist/2nIAGKzAZOR0PsM6jsA9Jj) | [Avänsjuk \(Avundsjuk\)](https://open.spotify.com/album/1Ksjb3SqRFvfn1PbvWgU5X) | 2:31 |
 
-Snapshot ID: `Z+8FDgAAAAAqJNGdlTdGh0PgSrpP0Fnw`
+Snapshot ID: `Z/OMkwAAAACuLto6pdhjC6fNlayUEmuG`

@@ -1,6 +1,6 @@
 {
   "description": "When my mouth has no words, let my spirit sing",
-  "num_followers": 41382,
+  "num_followers": 41484,
   "original_name": "Worship Chants",
   "owner": {
     "name": "Spotify",
@@ -217,22 +217,6 @@
       "url": "https://open.spotify.com/track/10FpYQLJ3urAr7tPJOnFy5"
     },
     {
-      "added_at": "2025-02-14 00:01:09",
-      "album": {
-        "name": "Alignment Chant",
-        "url": "https://open.spotify.com/album/1aDMbqtd24f2gedKY5D17e"
-      },
-      "artists": [
-        {
-          "name": "Lawrence Oyor",
-          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
-        }
-      ],
-      "duration_ms": 810956,
-      "name": "Alignment Chant - EP",
-      "url": "https://open.spotify.com/track/0t7faQrQwjAZYxQyODCj6z"
-    },
-    {
       "added_at": "2024-07-26 00:01:00",
       "album": {
         "name": "Worship Chant",
@@ -247,6 +231,22 @@
       "duration_ms": 104687,
       "name": "Worship Chant",
       "url": "https://open.spotify.com/track/3gdA2i1dq7rGy0j6dwoEhE"
+    },
+    {
+      "added_at": "2025-02-14 00:01:09",
+      "album": {
+        "name": "Alignment Chant",
+        "url": "https://open.spotify.com/album/1aDMbqtd24f2gedKY5D17e"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Oyor",
+          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
+        }
+      ],
+      "duration_ms": 810956,
+      "name": "Alignment Chant - EP",
+      "url": "https://open.spotify.com/track/0t7faQrQwjAZYxQyODCj6z"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Chants of Ascension",
-        "url": "https://open.spotify.com/album/3TX9A7yDSZfrOMvUIvbAVV"
-      },
-      "artists": [
-        {
-          "name": "JOSHUA BANJO",
-          "url": "https://open.spotify.com/artist/4V02aAFEwBwBrVgPnSV49E"
-        }
-      ],
-      "duration_ms": 570070,
-      "name": "Chants of Ascension",
-      "url": "https://open.spotify.com/track/6Rkip7RaOfsHjJlOb3UY4N"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Names of God",
         "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 478664,
       "name": "Yeshua Hamashiach (Overture)",
       "url": "https://open.spotify.com/track/3hbjwNtFbsRjjPA08oeSLS"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Chants of Ascension",
+        "url": "https://open.spotify.com/album/3TX9A7yDSZfrOMvUIvbAVV"
+      },
+      "artists": [
+        {
+          "name": "JOSHUA BANJO",
+          "url": "https://open.spotify.com/artist/4V02aAFEwBwBrVgPnSV49E"
+        }
+      ],
+      "duration_ms": 570070,
+      "name": "Chants of Ascension",
+      "url": "https://open.spotify.com/track/6Rkip7RaOfsHjJlOb3UY4N"
     },
     {
       "added_at": "2024-08-23 00:01:00",
@@ -1026,23 +1026,11 @@
         {
           "name": "Ty Bello",
           "url": "https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J"
-        },
-        {
-          "name": "Greatman Takit",
-          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
-        },
-        {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
-        },
-        {
-          "name": "121 Selah",
-          "url": "https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5"
         }
       ],
-      "duration_ms": 398329,
-      "name": "Revival Revival",
-      "url": "https://open.spotify.com/track/7eUF82gjc4HpJM80aI6Rp8"
+      "duration_ms": 329262,
+      "name": "Burning with the Holy Ghost",
+      "url": "https://open.spotify.com/track/6etwAw9xwGZzr9Te2Mp9Dw"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1142,11 +1130,23 @@
         {
           "name": "Ty Bello",
           "url": "https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J"
+        },
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        },
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        },
+        {
+          "name": "121 Selah",
+          "url": "https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5"
         }
       ],
-      "duration_ms": 329262,
-      "name": "Burning with the Holy Ghost",
-      "url": "https://open.spotify.com/track/6etwAw9xwGZzr9Te2Mp9Dw"
+      "duration_ms": 398329,
+      "name": "Revival Revival",
+      "url": "https://open.spotify.com/track/7eUF82gjc4HpJM80aI6Rp8"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1379,8 +1379,8 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Strings of Glory (Prayer Chant)",
-        "url": "https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb"
+        "name": "Journey To The Deep (Prayer Chants)",
+        "url": "https://open.spotify.com/album/4DV8nKdwqWlUXaVynHWJag"
       },
       "artists": [
         {
@@ -1388,9 +1388,9 @@
           "url": "https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h"
         }
       ],
-      "duration_ms": 320000,
-      "name": "I'm Available (Prayer Chant)",
-      "url": "https://open.spotify.com/track/0ANipW0kAZ1RIocfpL1u4u"
+      "duration_ms": 131640,
+      "name": "Eyes of The Spirit Chant (Cover Version)",
+      "url": "https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B"
     },
     {
       "added_at": "2024-07-26 00:01:00",

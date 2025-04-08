@@ -1,12 +1,12 @@
 {
   "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
-  "num_followers": 4206,
+  "num_followers": 4208,
   "original_name": "This Is Hyperanhas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAACVeKfZB66d5xvq4JSfK7Ai",
+  "snapshot_id": "Z/HEAAAAAAAKtqvd+ygxBPrCIFvAcGFl",
   "tracks": [
     {
       "added_at": null,
@@ -439,6 +439,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Faixa Anjo",
+        "url": "https://open.spotify.com/album/6mXBXROsepez0WD2YBnCZV"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        },
+        {
+          "name": "Dj Nene",
+          "url": "https://open.spotify.com/artist/5iR3NEmAFbIBa7v8y3fRbM"
+        }
+      ],
+      "duration_ms": 246620,
+      "name": "Faixa Anjo",
+      "url": "https://open.spotify.com/track/2sH7zkMT5mtKNEK2j4Oqgy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MINAS DE OURO",
         "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
       },
@@ -463,30 +487,6 @@
       "duration_ms": 168961,
       "name": "FALSA FANTASIA",
       "url": "https://open.spotify.com/track/2cHow13oEjdUhLwj1PyCJd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Faixa Anjo",
-        "url": "https://open.spotify.com/album/6mXBXROsepez0WD2YBnCZV"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
-        },
-        {
-          "name": "Dj Nene",
-          "url": "https://open.spotify.com/artist/5iR3NEmAFbIBa7v8y3fRbM"
-        }
-      ],
-      "duration_ms": 246620,
-      "name": "Faixa Anjo",
-      "url": "https://open.spotify.com/track/2sH7zkMT5mtKNEK2j4Oqgy"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Enquanto",
+        "url": "https://open.spotify.com/album/2WhQ5e5IxfkUSEWCIjZz2w"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 183243,
+      "name": "Enquanto",
+      "url": "https://open.spotify.com/track/2utvil6oMSQHMfX3Z6eEED"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Donas do Jogo",
         "url": "https://open.spotify.com/album/7MBjkpeqRT5iQeff5uhcP9"
       },
@@ -587,18 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enquanto",
-        "url": "https://open.spotify.com/album/2WhQ5e5IxfkUSEWCIjZz2w"
+        "name": "V\u00caNUS\u2260netuno",
+        "url": "https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8"
       },
       "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
         {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
         }
       ],
-      "duration_ms": 183243,
-      "name": "Enquanto",
-      "url": "https://open.spotify.com/track/2utvil6oMSQHMfX3Z6eEED"
+      "duration_ms": 183380,
+      "name": "APOCAL\u00cdPTIKA",
+      "url": "https://open.spotify.com/track/4pdHinWMilOcFb65irdH8w"
     },
     {
       "added_at": null,
@@ -619,26 +639,6 @@
       "duration_ms": 280946,
       "name": "Quer Ir no Meu Show ?",
       "url": "https://open.spotify.com/track/4bni91rf5R2zF6xElZY5la"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "V\u00caNUS\u2260netuno",
-        "url": "https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 183380,
-      "name": "APOCAL\u00cdPTIKA",
-      "url": "https://open.spotify.com/track/4pdHinWMilOcFb65irdH8w"
     },
     {
       "added_at": null,
@@ -715,30 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Que Isso?",
-        "url": "https://open.spotify.com/album/3T7eJi23fg8xpUUAnZ3pra"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 145979,
-      "name": "Por Que Isso?",
-      "url": "https://open.spotify.com/track/5DmbR451VqRfUhzAnCS5VH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "24 Horas",
         "url": "https://open.spotify.com/album/5KEL8i8d5c4Bkd8v1YC3Ms"
       },
@@ -759,6 +735,30 @@
       "duration_ms": 206197,
       "name": "24 Horas",
       "url": "https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Que Isso?",
+        "url": "https://open.spotify.com/album/3T7eJi23fg8xpUUAnZ3pra"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 145979,
+      "name": "Por Que Isso?",
+      "url": "https://open.spotify.com/track/5DmbR451VqRfUhzAnCS5VH"
     },
     {
       "added_at": null,
@@ -807,6 +807,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Na Onda do Boldo",
+        "url": "https://open.spotify.com/album/1FEunMxrUJ7sJigVe74cL4"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Thammy",
+          "url": "https://open.spotify.com/artist/69AJjk7Kr9O05pUtJjGxF0"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Na Onda do Boldo",
+      "url": "https://open.spotify.com/track/42BwDKygmTWy01npggoFhl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Terror das Faixa Rosa",
         "url": "https://open.spotify.com/album/3NYjHyeci4UIvLJ2wLDkpi"
       },
@@ -835,30 +859,6 @@
       "duration_ms": 201600,
       "name": "Terror das Faixa Rosa",
       "url": "https://open.spotify.com/track/4g0gHjrnumFFPIOGt0NmWr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Na Onda do Boldo",
-        "url": "https://open.spotify.com/album/1FEunMxrUJ7sJigVe74cL4"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Thammy",
-          "url": "https://open.spotify.com/artist/69AJjk7Kr9O05pUtJjGxF0"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Na Onda do Boldo",
-      "url": "https://open.spotify.com/track/42BwDKygmTWy01npggoFhl"
     },
     {
       "added_at": null,
@@ -939,26 +939,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desfecho",
-        "url": "https://open.spotify.com/album/6V2bSKag8gME9P1cT2f021"
+        "name": "Poc Poc",
+        "url": "https://open.spotify.com/album/2xaNuhVlP39plZFv7kRjrc"
       },
       "artists": [
         {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "JP Diazz",
-          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
         }
       ],
-      "duration_ms": 142941,
-      "name": "Desfecho",
-      "url": "https://open.spotify.com/track/0tyR7y2Zz9J7BMZ2PqpmN5"
+      "duration_ms": 212375,
+      "name": "Poc Poc",
+      "url": "https://open.spotify.com/track/6NXlMgjZkhqnAecJSuA90v"
     },
     {
       "added_at": null,
@@ -987,18 +979,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poc Poc",
-        "url": "https://open.spotify.com/album/2xaNuhVlP39plZFv7kRjrc"
+        "name": "Desfecho",
+        "url": "https://open.spotify.com/album/6V2bSKag8gME9P1cT2f021"
       },
       "artists": [
         {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "JP Diazz",
+          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
         }
       ],
-      "duration_ms": 212375,
-      "name": "Poc Poc",
-      "url": "https://open.spotify.com/track/6NXlMgjZkhqnAecJSuA90v"
+      "duration_ms": 142941,
+      "name": "Desfecho",
+      "url": "https://open.spotify.com/track/0tyR7y2Zz9J7BMZ2PqpmN5"
     },
     {
       "added_at": null,

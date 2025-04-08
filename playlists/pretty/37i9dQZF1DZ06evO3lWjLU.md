@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 
 > This is Danny Ocean\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,973 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,152 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 | 30 | [Medio friends](https://open.spotify.com/track/1WpWQJnnZL8qGNOUoF1wE9) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:29 |
 | 31 | [EIVISSA](https://open.spotify.com/track/3kcj2zzabr8qnR4MnMeWv2) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:20 |
 | 32 | [Me rehúso \- 2024 acústico](https://open.spotify.com/track/6VXvnqNNJ5ivmiFLlBH4Qz) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 3:31 |
-| 33 | [YELIANA \- Cap\. 3 \- ZHA](https://open.spotify.com/track/0sE9TAChRS7zah4yhp5KJW) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [YELIANA\-Cap.3\-ZHA](https://open.spotify.com/album/36vkQCUHA1y3qvjzsmqw5H) | 2:20 |
+| 33 | [No Eres Tu Soy Yo \(feat\. Danny Ocean\)](https://open.spotify.com/track/32MgTutHhEgjn25vyD2PRZ) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Animal](https://open.spotify.com/album/2OXeXtTp8KR8TO21LbBIWP) | 3:07 |
 | 34 | [No te enamores de él](https://open.spotify.com/track/4HHmfquDNTjYSnj6BHTNjg) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 3:17 |
-| 35 | [No Eres Tu Soy Yo \(feat\. Danny Ocean\)](https://open.spotify.com/track/32MgTutHhEgjn25vyD2PRZ) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Animal](https://open.spotify.com/album/2OXeXtTp8KR8TO21LbBIWP) | 3:07 |
+| 35 | [YELIANA \- Cap\. 3 \- ZHA](https://open.spotify.com/track/0sE9TAChRS7zah4yhp5KJW) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [YELIANA\-Cap.3\-ZHA](https://open.spotify.com/album/36vkQCUHA1y3qvjzsmqw5H) | 2:20 |
 | 36 | [escala en Panamá](https://open.spotify.com/track/7KhdmSkSsouQhiSCFad0Ou) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 2:12 |
 | 37 | [Tú no me conoces](https://open.spotify.com/track/0JzUsZUR6ZySpPNrWRvcL3) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [TINI](https://open.spotify.com/artist/7hfky5cSLmniAq4fyJiQ99) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:29 |
 | 38 | [Tauro y Piscis](https://open.spotify.com/track/0saR6zgPZPIDxVxujDX2Ah) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 | 49 | [Baby I Won't](https://open.spotify.com/track/1G0xFA3KNiKdbjhT2asL43) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Baby I Won't](https://open.spotify.com/album/25S2NFMHnTQhB0oQmi6ghq) | 3:25 |
 | 50 | [a mi también me duele](https://open.spotify.com/track/443NlczMsHNzZuTX3cTQtz) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 2:50 |
 
-Snapshot ID: `Z/BygAAAAACz6c8QALXscRphDY4pOb14`
+Snapshot ID: `Z/HEAAAAAADGv5GK4MTq6Jvqjal1DTtY`

@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 46773,
+  "num_followers": 46782,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -345,26 +345,6 @@
       "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Hijo de Tigre",
-        "url": "https://open.spotify.com/album/1QpR9x1tMvitsrR48Fd7dB"
-      },
-      "artists": [
-        {
-          "name": "La Cumbia Chicharra",
-          "url": "https://open.spotify.com/artist/5DT5ozQExex14fHR7KtrEr"
-        },
-        {
-          "name": "Emilie Rambaud",
-          "url": "https://open.spotify.com/artist/6zSjAU2RuN3iBx8dcqcBgG"
-        }
-      ],
-      "duration_ms": 356693,
-      "name": "La We\u00e1",
-      "url": "https://open.spotify.com/track/4WYTHHlht6Dd9v9fG497u9"
-    },
-    {
       "added_at": "2023-03-23 22:10:50",
       "album": {
         "name": "Agujas en el pecho",
@@ -383,6 +363,26 @@
       "duration_ms": 320682,
       "name": "Agujas en el pecho",
       "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Hijo de Tigre",
+        "url": "https://open.spotify.com/album/1QpR9x1tMvitsrR48Fd7dB"
+      },
+      "artists": [
+        {
+          "name": "La Cumbia Chicharra",
+          "url": "https://open.spotify.com/artist/5DT5ozQExex14fHR7KtrEr"
+        },
+        {
+          "name": "Emilie Rambaud",
+          "url": "https://open.spotify.com/artist/6zSjAU2RuN3iBx8dcqcBgG"
+        }
+      ],
+      "duration_ms": 356693,
+      "name": "La We\u00e1",
+      "url": "https://open.spotify.com/track/4WYTHHlht6Dd9v9fG497u9"
     },
     {
       "added_at": "2023-03-23 22:04:18",
@@ -561,30 +561,6 @@
       "url": "https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny"
     },
     {
-      "added_at": "2024-08-07 02:59:25",
-      "album": {
-        "name": "Onda tropical (Cumbia Version)",
-        "url": "https://open.spotify.com/album/6xrn1xN8mBj1rvPaSrE3o8"
-      },
-      "artists": [
-        {
-          "name": "La Corea\u00f1era",
-          "url": "https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7"
-        },
-        {
-          "name": "Doble Play",
-          "url": "https://open.spotify.com/artist/3vy6O47cuQ2Q9gEtmnG8S8"
-        },
-        {
-          "name": "Rodrigo Mart\u00ednez Torres",
-          "url": "https://open.spotify.com/artist/6ShKSeyhrhCraDsF8V6lQK"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Onda tropical - Cumbia Version",
-      "url": "https://open.spotify.com/track/6jN40i3UnbYaQ10cvgEzci"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Eclipse",
@@ -617,22 +593,6 @@
       "url": "https://open.spotify.com/track/3LWywxs7H28pgy0PCqIiPd"
     },
     {
-      "added_at": "2024-10-04 18:38:32",
-      "album": {
-        "name": "Lotus",
-        "url": "https://open.spotify.com/album/0Z9uE1lFTTQVwPPuaKYbdJ"
-      },
-      "artists": [
-        {
-          "name": "Gia Fu",
-          "url": "https://open.spotify.com/artist/3dwN2G3cx8i7rEFDvYhRLi"
-        }
-      ],
-      "duration_ms": 297468,
-      "name": "Lotus",
-      "url": "https://open.spotify.com/track/4wx8KI6mcAT2yjab2hgeul"
-    },
-    {
       "added_at": "2023-03-10 22:34:25",
       "album": {
         "name": "Chimborazo",
@@ -647,6 +607,46 @@
       "duration_ms": 208250,
       "name": "Selva Negra",
       "url": "https://open.spotify.com/track/0Lo4WKDnkroJqWIECAZcEW"
+    },
+    {
+      "added_at": "2024-08-07 02:59:25",
+      "album": {
+        "name": "Onda tropical (Cumbia Version)",
+        "url": "https://open.spotify.com/album/6xrn1xN8mBj1rvPaSrE3o8"
+      },
+      "artists": [
+        {
+          "name": "La Corea\u00f1era",
+          "url": "https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7"
+        },
+        {
+          "name": "Doble Play",
+          "url": "https://open.spotify.com/artist/3vy6O47cuQ2Q9gEtmnG8S8"
+        },
+        {
+          "name": "Rodrigo Mart\u00ednez Torres",
+          "url": "https://open.spotify.com/artist/6ShKSeyhrhCraDsF8V6lQK"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Onda tropical - Cumbia Version",
+      "url": "https://open.spotify.com/track/6jN40i3UnbYaQ10cvgEzci"
+    },
+    {
+      "added_at": "2024-10-04 18:38:32",
+      "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/0Z9uE1lFTTQVwPPuaKYbdJ"
+      },
+      "artists": [
+        {
+          "name": "Gia Fu",
+          "url": "https://open.spotify.com/artist/3dwN2G3cx8i7rEFDvYhRLi"
+        }
+      ],
+      "duration_ms": 297468,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/4wx8KI6mcAT2yjab2hgeul"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -913,10 +913,10 @@
       "url": "https://open.spotify.com/track/5ze6zmZ1sEIIFPSvrNi75n"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
+      "added_at": "2024-06-27 17:44:26",
       "album": {
-        "name": "Caminito de mi Pueblo",
-        "url": "https://open.spotify.com/album/4XCBF0qS4YuvzVekwGRKHo"
+        "name": "Tequila!",
+        "url": "https://open.spotify.com/album/6PutDqugsUJbznt1Ef2eym"
       },
       "artists": [
         {
@@ -924,33 +924,13 @@
           "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
         },
         {
-          "name": "La Sonora Mazur\u00e9n",
-          "url": "https://open.spotify.com/artist/2IsqVzltUoufEu3q1yUmTX"
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
         }
       ],
-      "duration_ms": 243114,
-      "name": "Caminito de mi Pueblo",
-      "url": "https://open.spotify.com/track/7dQdBFS066ZEQfiwcZd3Rp"
-    },
-    {
-      "added_at": "2024-03-16 00:36:22",
-      "album": {
-        "name": "Cumbia Disco Energy",
-        "url": "https://open.spotify.com/album/7t4dB442nNp87febQyO9Ur"
-      },
-      "artists": [
-        {
-          "name": "Sonido Gallo Negro",
-          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
-        },
-        {
-          "name": "Polymarchs",
-          "url": "https://open.spotify.com/artist/0r0MDdN441rIsekmG6fi99"
-        }
-      ],
-      "duration_ms": 237674,
-      "name": "Cumbia Disco Energy",
-      "url": "https://open.spotify.com/track/4I4JOjfW35xlyEgjiyswGJ"
+      "duration_ms": 286455,
+      "name": "Tequila!",
+      "url": "https://open.spotify.com/track/2BoWBdHXrLpGw16FAoDnOT"
     },
     {
       "added_at": "2023-02-14 03:09:22",
@@ -971,6 +951,26 @@
       "duration_ms": 216000,
       "name": "Cumbia Espectro",
       "url": "https://open.spotify.com/track/6ekY2SsOYzo0TwlTvm6ulV"
+    },
+    {
+      "added_at": "2024-03-16 00:36:22",
+      "album": {
+        "name": "Cumbia Disco Energy",
+        "url": "https://open.spotify.com/album/7t4dB442nNp87febQyO9Ur"
+      },
+      "artists": [
+        {
+          "name": "Sonido Gallo Negro",
+          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
+        },
+        {
+          "name": "Polymarchs",
+          "url": "https://open.spotify.com/artist/0r0MDdN441rIsekmG6fi99"
+        }
+      ],
+      "duration_ms": 237674,
+      "name": "Cumbia Disco Energy",
+      "url": "https://open.spotify.com/track/4I4JOjfW35xlyEgjiyswGJ"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1089,10 +1089,10 @@
       "url": "https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D"
     },
     {
-      "added_at": "2024-06-27 17:44:26",
+      "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Tequila!",
-        "url": "https://open.spotify.com/album/6PutDqugsUJbznt1Ef2eym"
+        "name": "Caminito de mi Pueblo",
+        "url": "https://open.spotify.com/album/4XCBF0qS4YuvzVekwGRKHo"
       },
       "artists": [
         {
@@ -1100,13 +1100,13 @@
           "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
         },
         {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+          "name": "La Sonora Mazur\u00e9n",
+          "url": "https://open.spotify.com/artist/2IsqVzltUoufEu3q1yUmTX"
         }
       ],
-      "duration_ms": 286455,
-      "name": "Tequila!",
-      "url": "https://open.spotify.com/track/2BoWBdHXrLpGw16FAoDnOT"
+      "duration_ms": 243114,
+      "name": "Caminito de mi Pueblo",
+      "url": "https://open.spotify.com/track/7dQdBFS066ZEQfiwcZd3Rp"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "El Nuevo Bugalu",
-        "url": "https://open.spotify.com/album/2SwzUlWaxbpEVr5GWURihF"
-      },
-      "artists": [
-        {
-          "name": "Bacalao Men",
-          "url": "https://open.spotify.com/artist/601e30gtHzQJEPnxcQDwKk"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Bicicleta Intergalactica",
-      "url": "https://open.spotify.com/track/4TWACVrN1zq2x16kABBBaU"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Dale Mel\u00f3n",
         "url": "https://open.spotify.com/album/4JaUBwYHmzxxqTiC7WOFJg"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 260678,
       "name": "Dale Mel\u00f3n",
       "url": "https://open.spotify.com/track/6N5InQVKjsRlof8moRIv5I"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "El Nuevo Bugalu",
+        "url": "https://open.spotify.com/album/2SwzUlWaxbpEVr5GWURihF"
+      },
+      "artists": [
+        {
+          "name": "Bacalao Men",
+          "url": "https://open.spotify.com/artist/601e30gtHzQJEPnxcQDwKk"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Bicicleta Intergalactica",
+      "url": "https://open.spotify.com/track/4TWACVrN1zq2x16kABBBaU"
     },
     {
       "added_at": "2022-02-25 02:13:50",
@@ -1585,6 +1585,22 @@
       "url": "https://open.spotify.com/track/3VrE3hqJAqZ6vOcIKDQaF5"
     },
     {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Cuando tengo fiebre veo la cabeza de un leopardo magn\u00edfico",
+        "url": "https://open.spotify.com/album/41OUIwrSh0rnfRHYVKUNdU"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Mayorga",
+          "url": "https://open.spotify.com/artist/2TcRGEZR3tYPVDe71l5Fui"
+        }
+      ],
+      "duration_ms": 234231,
+      "name": "Cuando tengo fiebre veo la cabeza de un leopardo magn\u00edfico",
+      "url": "https://open.spotify.com/track/5klF20vzC2HpEQbhn7CdKE"
+    },
+    {
       "added_at": "2023-03-17 17:16:44",
       "album": {
         "name": "Con Otros Ojos",
@@ -1605,22 +1621,6 @@
       "url": "https://open.spotify.com/track/2pqg6LbsUiHdEvNkQHD8H5"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Cuando tengo fiebre veo la cabeza de un leopardo magn\u00edfico",
-        "url": "https://open.spotify.com/album/41OUIwrSh0rnfRHYVKUNdU"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00e1n Mayorga",
-          "url": "https://open.spotify.com/artist/2TcRGEZR3tYPVDe71l5Fui"
-        }
-      ],
-      "duration_ms": 234231,
-      "name": "Cuando tengo fiebre veo la cabeza de un leopardo magn\u00edfico",
-      "url": "https://open.spotify.com/track/5klF20vzC2HpEQbhn7CdKE"
-    },
-    {
       "added_at": "2022-02-15 02:03:20",
       "album": {
         "name": "Para Poderte Olvidar",
@@ -1637,20 +1637,20 @@
       "url": "https://open.spotify.com/track/7MOwjyBrU0hMRCDwkSoKAx"
     },
     {
-      "added_at": "2025-01-16 17:40:08",
+      "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Capricornio: Ven a mi amor",
-        "url": "https://open.spotify.com/album/1dGVnxTvqZ6FF7lPocvCrF"
+        "name": "Dios",
+        "url": "https://open.spotify.com/album/4y1NSE3BTF7B08jd0v212w"
       },
       "artists": [
         {
-          "name": "Sonido Desconocido 2",
-          "url": "https://open.spotify.com/artist/7vn9gosQwaC0ca5C4wRVUA"
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Capricornio: Ven a mi amor",
-      "url": "https://open.spotify.com/track/5klxe1nweL6Ak1LsNSlHte"
+      "duration_ms": 193955,
+      "name": "Dios",
+      "url": "https://open.spotify.com/track/1hTGXQD56NSef0JYfJi9U1"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1669,20 +1669,20 @@
       "url": "https://open.spotify.com/track/1dYgoBJEkIHfhKGebTRioT"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
+      "added_at": "2025-01-16 17:40:08",
       "album": {
-        "name": "Dios",
-        "url": "https://open.spotify.com/album/4y1NSE3BTF7B08jd0v212w"
+        "name": "Capricornio: Ven a mi amor",
+        "url": "https://open.spotify.com/album/1dGVnxTvqZ6FF7lPocvCrF"
       },
       "artists": [
         {
-          "name": "Mexican Institute Of Sound",
-          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+          "name": "Sonido Desconocido 2",
+          "url": "https://open.spotify.com/artist/7vn9gosQwaC0ca5C4wRVUA"
         }
       ],
-      "duration_ms": 193955,
-      "name": "Dios",
-      "url": "https://open.spotify.com/track/1hTGXQD56NSef0JYfJi9U1"
+      "duration_ms": 170000,
+      "name": "Capricornio: Ven a mi amor",
+      "url": "https://open.spotify.com/track/5klxe1nweL6Ak1LsNSlHte"
     },
     {
       "added_at": "2023-05-25 19:15:17",

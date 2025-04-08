@@ -1,12 +1,12 @@
 {
   "description": "This is Dean Martin. The essential tracks, all in one playlist.",
-  "num_followers": 123790,
+  "num_followers": 123796,
   "original_name": "This Is Dean Martin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAAAnQhsIXZBRSnJdjV+jU4Aw",
+  "snapshot_id": "Z/HEAAAAAABv7TGEv+sKYyqHgFchIRXh",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",
-        "url": "https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF"
+        "name": "Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)",
+        "url": "https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 147293,
-      "name": "Ain't That A Kick In The Head",
-      "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
+      "duration_ms": 190400,
+      "name": "That's Amore",
+      "url": "https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR"
     },
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)",
-        "url": "https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I"
+        "name": "Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",
+        "url": "https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 190400,
-      "name": "That's Amore",
-      "url": "https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR"
+      "duration_ms": 147293,
+      "name": "Ain't That A Kick In The Head",
+      "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 135253,
-      "name": "Just In Time - Remastered 1998",
-      "url": "https://open.spotify.com/track/5MHAl3WVEOYgEmA7RXIrSv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dream with Dean",
         "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 184453,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/1ccv4yQDq8ouWV3fhwlVIX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Time I'm Swingin'",
+        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 135253,
+      "name": "Just In Time - Remastered 1998",
+      "url": "https://open.spotify.com/track/5MHAl3WVEOYgEmA7RXIrSv"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 162866,
-      "name": "I've Grown Accustomed To Her Face - Remastered 1998",
-      "url": "https://open.spotify.com/track/0BFCbH1cxzeUSJBVwJGRLg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sleep Warm",
         "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 166066,
       "name": "All I Do Is Dream Of You - Remastered 1991",
       "url": "https://open.spotify.com/track/4e6JJ0mppGJmSG9TOTYVoM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Time I'm Swingin'",
+        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 162866,
+      "name": "I've Grown Accustomed To Her Face - Remastered 1998",
+      "url": "https://open.spotify.com/track/0BFCbH1cxzeUSJBVwJGRLg"
     },
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Is Dean Martin",
+        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 183560,
+      "name": "When You're Smiling (The Whole World Smiles With You) - Digitally Remastered 97",
+      "url": "https://open.spotify.com/track/11tOuFtY7njtSzA5wr07xp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Time I'm Swingin'",
         "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
       },
@@ -311,6 +327,38 @@
       "duration_ms": 130253,
       "name": "Mean To Me - Remastered/1998",
       "url": "https://open.spotify.com/track/4R6rf3KbP45JST6Cr3Enry"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 12 (1961)",
+        "url": "https://open.spotify.com/album/7yfeP3Bnhe4mE1rZiLqQWh"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 185760,
+      "name": "I Have But One Heart ('O Marenariello)",
+      "url": "https://open.spotify.com/track/4B2PkwShniUthCG4UiAYtd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 3 (1951-1952)",
+        "url": "https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 145066,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1"
     },
     {
       "added_at": null,
@@ -343,54 +391,6 @@
       "duration_ms": 142893,
       "name": "King of the Road",
       "url": "https://open.spotify.com/track/1swJ3f1M4HL4qLOp2phhcq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 3 (1951-1952)",
-        "url": "https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 145066,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 12 (1961)",
-        "url": "https://open.spotify.com/album/7yfeP3Bnhe4mE1rZiLqQWh"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 185760,
-      "name": "I Have But One Heart ('O Marenariello)",
-      "url": "https://open.spotify.com/track/4B2PkwShniUthCG4UiAYtd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is Dean Martin",
-        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 183560,
-      "name": "When You're Smiling (The Whole World Smiles With You) - Digitally Remastered 97",
-      "url": "https://open.spotify.com/track/11tOuFtY7njtSzA5wr07xp"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 6 (1955-1956)",
-        "url": "https://open.spotify.com/album/6jq5UCuuPwaCZIwLQlLhT6"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 176960,
-      "name": "In Napoli",
-      "url": "https://open.spotify.com/track/6hqopvCkT7JW6sSwMw2tFD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dean Martin: The Capitol Recordings, Vol. 7 (1956-1957)",
         "url": "https://open.spotify.com/album/4OnCOdXX9tpuQD0zCMiGwz"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 175506,
       "name": "The Man Who Plays The Mandolino",
       "url": "https://open.spotify.com/track/4pwqOUmyITGGRjYEnHfxuu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 6 (1955-1956)",
+        "url": "https://open.spotify.com/album/6jq5UCuuPwaCZIwLQlLhT6"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 176960,
+      "name": "In Napoli",
+      "url": "https://open.spotify.com/track/6hqopvCkT7JW6sSwMw2tFD"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleep Warm",
-        "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Goodnight Sweetheart",
-      "url": "https://open.spotify.com/track/455eJSxXbR1NVNucLVXayS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "French Style",
         "url": "https://open.spotify.com/album/64Hm00agTC7eMQZuFQNnLm"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 172626,
       "name": "C'est si bon",
       "url": "https://open.spotify.com/track/0ksZYoJXNN1QmgUQdvbK0z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sleep Warm",
+        "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Goodnight Sweetheart",
+      "url": "https://open.spotify.com/track/455eJSxXbR1NVNucLVXayS"
     },
     {
       "added_at": null,

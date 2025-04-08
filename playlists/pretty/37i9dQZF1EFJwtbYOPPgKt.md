@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJwtbYOPPgKt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4faXS5M3wmHrYeRCoMXyUg">Katharina Emendoerfer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30 likes - 66 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 30 likes - 67 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJwtbYOPPgKt.md) - [plain]
 | 15 | [Walk Away \(feat\. Harina\)](https://open.spotify.com/track/32EmnwWkI6hzzZUiuJuGlW) | [Rammor](https://open.spotify.com/artist/73147xL7gw2ilXfbVPzTuw), [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Walk Away \(feat\. Harina\)](https://open.spotify.com/album/75fUl15ZiJkYkbbnW77kKc) | 2:37 |
 | 16 | [Drive](https://open.spotify.com/track/3rxAGH0bZVwBnB6EZD6tiE) | [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV), [LRMEO](https://open.spotify.com/artist/5gTqc3p5WdszJ2AtGElosu) | [Drive](https://open.spotify.com/album/4sQWWuwbOJvpoLVMXjVPRl) | 2:36 |
 | 17 | [You Give Me Something](https://open.spotify.com/track/2pHD1Bf8bNI7irXb3m6DPi) | [Ninski](https://open.spotify.com/artist/5iZQ4hUlybikkKjWv3LuXS), [xoxo](https://open.spotify.com/artist/39TA8es1L8uctnTtB7TBpa), [Ben Attic](https://open.spotify.com/artist/7AtSIkvYZ5VZKGmFYXQJ5B), [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [The Beach House](https://open.spotify.com/album/4dpGegCDRiNp7zmjeMkK32) | 3:33 |
-| 18 | [Boom Boom](https://open.spotify.com/track/0WJblMHthgE1EZNwKk2Rlh) | [HADES](https://open.spotify.com/artist/10MePwUrEFRfJ3lN2FLs4b), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs), [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [Boom Boom](https://open.spotify.com/album/1fChPEAP4ZYDbMu7aluGtn) | 2:34 |
-| 19 | [Another Galaxy](https://open.spotify.com/track/7w0YikkZoA9h8d06IxrobU) | [KREMIK](https://open.spotify.com/artist/6JWRJCM7ErCEi55aWhHodD), [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [Another Galaxy](https://open.spotify.com/album/4yNYesDLNVRKgq8p8l2ORi) | 2:11 |
+| 18 | [Another Galaxy](https://open.spotify.com/track/7w0YikkZoA9h8d06IxrobU) | [KREMIK](https://open.spotify.com/artist/6JWRJCM7ErCEi55aWhHodD), [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [Another Galaxy](https://open.spotify.com/album/4yNYesDLNVRKgq8p8l2ORi) | 2:11 |
+| 19 | [Boom Boom](https://open.spotify.com/track/0WJblMHthgE1EZNwKk2Rlh) | [HADES](https://open.spotify.com/artist/10MePwUrEFRfJ3lN2FLs4b), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs), [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [Boom Boom](https://open.spotify.com/album/1fChPEAP4ZYDbMu7aluGtn) | 2:34 |
 | 20 | [following the sun](https://open.spotify.com/track/74hbbkkUoVYOZAuGuo7YoN) | [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM), [julien](https://open.spotify.com/artist/0Er19QHYcwlekKGGUPd3xU), [cloudseven](https://open.spotify.com/artist/127ajarXOJFUfRFivWi49v) | [following the sun](https://open.spotify.com/album/5JfGHc9PJTUkB9sZxny5EH) | 2:17 |
 | 21 | [Monsters](https://open.spotify.com/track/4wXTrKQC06wXvpVw2mW0GK) | [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [Monsters](https://open.spotify.com/album/4tB3lRVKFxgKsgNT2jJHDA) | 1:57 |
 | 22 | [my boo](https://open.spotify.com/track/121ZXvwHx8g1z3o4nu1Xqv) | [Ninski](https://open.spotify.com/artist/5iZQ4hUlybikkKjWv3LuXS), [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [my boo](https://open.spotify.com/album/1yhEMXH9Ow6r1kfnBL5qn6) | 2:55 |
@@ -73,6 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJwtbYOPPgKt.md) - [plain]
 | 63 | [It's You](https://open.spotify.com/track/6pbAV8UDevvh8GaWtiylzA) | [Allenx](https://open.spotify.com/artist/6MRiy2aJOrZwKRcgdAZ2oH) | [It's You](https://open.spotify.com/album/6yNCLRluSrZPxK8f5PHWa6) | 2:25 |
 | 64 | [5/10](https://open.spotify.com/track/5rIYn6fgIIraBGl6kvY3g3) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Moody](https://open.spotify.com/album/3NeQAa6mtrJdgvbu2pEaAN) | 2:29 |
 | 65 | [Tonight I'm Gonna Dance](https://open.spotify.com/track/3kFcllup1aucn7AWLDKqA3) | [Sanzach](https://open.spotify.com/artist/62GsFBdGVenYYlclZgtXDD) | [Tonight I'm Gonna Dance](https://open.spotify.com/album/3vgkuOQieRHCrNkrloKZSW) | 2:56 |
-| 66 | [Nobody But Me](https://open.spotify.com/track/4i9PcmhTevRokKqri21Bcz) | [AEROBIK](https://open.spotify.com/artist/6KvIFrZa8inF4QNJMLj51t) | [Nobody But Me](https://open.spotify.com/album/6PmrSyZkI96DNLj4dK0uZs) | 3:00 |
+| 66 | [OMG](https://open.spotify.com/track/1xAzz3m58ri8gYLwx4sTGc) | [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [OMG](https://open.spotify.com/album/71KATnAYEzdIEsFlXq0Ogy) | 2:16 |
+| 67 | [Nobody But Me](https://open.spotify.com/track/4i9PcmhTevRokKqri21Bcz) | [AEROBIK](https://open.spotify.com/artist/6KvIFrZa8inF4QNJMLj51t) | [Nobody But Me](https://open.spotify.com/album/6PmrSyZkI96DNLj4dK0uZs) | 3:00 |
 
-Snapshot ID: `AbuFSgAAAAAQJBzejbSBpvSvl75G+azb`
+Snapshot ID: `AbuK4AAAAACmrh1gfl7lFMBVGFOWhjCH`

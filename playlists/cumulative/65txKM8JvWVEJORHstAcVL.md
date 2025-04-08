@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/65txKM8JvWVEJORHstAcVL.md) - cumulative - [plain](/playlists/plain/65txKM8JvWVEJORHstAcVL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/65txKM8JvWVEJORHstAcVL)
 
-### [LA LLISTA DE FLAIXBAC \(30/3/2025\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
+### [LA LLISTA DE FLAIXBAC \(7/4/2025\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-153 songs - 7 hr 36 min
+155 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 | 2025-02-17 |  |
 | [By Your Side \(In My Mind\)](https://open.spotify.com/track/0pSwhT654HC2knBvjn5f89) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [By Your Side \(In My Mind\)](https://open.spotify.com/album/2WN1hoD8UtrSHItI9QO5Qy) | 2:57 | 2025-02-24 |  |
 | [Cada Tren](https://open.spotify.com/track/2bSli26Z7XgEC5QQqOl2nB) | [Flashy Ice Cream](https://open.spotify.com/artist/24yN33FZM27S4x4EJCFsjR) | [Cada Tren](https://open.spotify.com/album/67QD150Sgbh0Z2qG6HQvtH) | 3:23 | 2024-02-18 | 2024-03-25 |
+| [capaz \(merengueton\)](https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:53 | 2025-04-07 |  |
 | [Casanova](https://open.spotify.com/track/0qZhK4gFB5c1Wxsnd6WA8U) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Casanova](https://open.spotify.com/album/0igR3TtSOtN4dCTFH9wA71) | 4:03 | 2024-01-28 | 2024-08-05 |
 | [Catalan Society](https://open.spotify.com/track/5dW8Wj31UNYm42B2XXXfY1) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo) | [Catalan Society](https://open.spotify.com/album/6fYFt0ILIOkoET1a8imbM9) | 2:11 | 2025-02-24 |  |
 | [COM ESTÀ EL PATI](https://open.spotify.com/track/3hHDpby70b29o2T9v26RNX) | [Oques Grasses](https://open.spotify.com/artist/5qPeAT4ikl6gJNUexAOEy0) | [COM ESTÀ EL PATI](https://open.spotify.com/album/6KuUJeCMEAdYj8Lqaq4E2r) | 2:25 | 2024-04-07 | 2024-08-26 |
@@ -81,7 +82,7 @@
 | [L'amor no està de moda](https://open.spotify.com/track/6TaI6JIjyveCJHHXpBwn2U) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo), [Joan Garriga i el Mariatxi galàctic](https://open.spotify.com/artist/0EQqEBz10VJZ8QHaJweeNE) | [Segur que m'equivoco](https://open.spotify.com/album/4awdI4rXM5frg5VH6Zkk7k) | 2:13 | 2023-12-31 | 2024-05-06 |
 | [La Faràndula](https://open.spotify.com/track/061GP3myKZzbztHmOivT7Q) | [Sexenni](https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR) | [La Faràndula](https://open.spotify.com/album/2RND9IXMik2mDxa3In7nCC) | 3:06 | 2024-06-09 | 2024-10-14 |
 | [LA FORTUNA](https://open.spotify.com/track/4t8rCI5xepgmjr8vRwK27z) | [Els Catarres](https://open.spotify.com/artist/0InCPtI0kadS7s3cZrcbbY) | [LA FORTUNA](https://open.spotify.com/album/2D8b1ZilPcObSL6TO318EC) | 3:21 | 2025-03-24 |  |
-| [LA MARINA STA MORENA](https://open.spotify.com/track/0HIbm4W6C8Ar2Cnen0tE44) | [Figa Flawas](https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3) | [LA MARINA STA MORENA](https://open.spotify.com/album/5znQOqzQhL9GNJoXaxG2aw) | 2:11 | 2024-07-14 |  |
+| [LA MARINA STA MORENA](https://open.spotify.com/track/0HIbm4W6C8Ar2Cnen0tE44) | [Figa Flawas](https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3) | [LA MARINA STA MORENA](https://open.spotify.com/album/5znQOqzQhL9GNJoXaxG2aw) | 2:11 | 2024-07-14 | 2025-04-08 |
 | [La meva sort](https://open.spotify.com/track/01q7SgslZuHOGFkuzcIZgS) | [Ginestà](https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6) | [La meva sort](https://open.spotify.com/album/75Slg29gzVtmrEM5kQ9DH9) | 2:34 | 2024-02-18 | 2024-10-28 |
 | [la noia](https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [la noia](https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI) | 3:09 | 2024-05-26 | 2024-08-19 |
 | [La Razón](https://open.spotify.com/track/3CmSv76KDKsvtiyrdgHZHH) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [La Razón](https://open.spotify.com/album/1BfH1Sen3V361yL4Yck3Rg) | 2:42 | 2024-05-19 | 2024-11-18 |
@@ -99,9 +100,10 @@
 | [Menys mal que ja és Nadal](https://open.spotify.com/track/6r4wi7GincZxxQq12ZnRWv) | [Siderland](https://open.spotify.com/artist/0J4ED5b2q2T3B6OhOvNFru) | [Menys mal que ja és Nadal](https://open.spotify.com/album/4RAv69esnKNHWnX6esgUAf) | 2:39 | 2024-12-15 | 2025-01-13 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2025-01-19 |  |
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-11-03 | 2025-02-10 |
+| [Mòbil, claus i cartera](https://open.spotify.com/track/6IAHliI122x980aplpGvie) | [Sexenni](https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR) | [Joc de nens](https://open.spotify.com/album/5SoJX0KUIsSEv97sVVfn9P) | 2:48 | 2025-04-07 |  |
 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 | 2025-03-24 |  |
 | [No\_se\_ve.mp3](https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [No\_se\_ve.mp3](https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN) | 3:23 | 2023-09-24 | 2024-05-27 |
-| [Només viure](https://open.spotify.com/track/1JElpM8NFE6PzsTRkca0ru) | [Ginestà](https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6) | [Només viure](https://open.spotify.com/album/3mM29JednHFHMa4JCMDxvg) | 2:16 | 2024-11-17 |  |
+| [Només viure](https://open.spotify.com/track/1JElpM8NFE6PzsTRkca0ru) | [Ginestà](https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6) | [Només viure](https://open.spotify.com/album/3mM29JednHFHMa4JCMDxvg) | 2:16 | 2024-11-17 | 2025-04-08 |
 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 | 2025-01-26 |  |
 | [Octubre del 24](https://open.spotify.com/track/5ZpJgKS6rTMoP78WMlsUFg) | [Joan Dausà](https://open.spotify.com/artist/1GRFao1QTh0i5Wx5Ms0A3I), [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Octubre del 24](https://open.spotify.com/album/3qEuV0K77UIdIbtojbrvlK) | 3:10 | 2024-09-08 | 2025-03-10 |
 | [Ohnana](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Ohnana](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 | 2024-09-08 | 2025-03-18 |

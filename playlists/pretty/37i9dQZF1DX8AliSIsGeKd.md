@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Reznik, good guy mikesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,892 likes - 91 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,010 likes - 91 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 81 | [Passion Overdrive](https://open.spotify.com/track/2kJqgGD1TJMF4fosavGSjD) | [Ignez](https://open.spotify.com/artist/35vEDafV45d7QN0D5rRwYV) | [Passion Overdrive](https://open.spotify.com/album/1rDEMVamgJzRrLUzUREHkP) | 5:46 |
 | 82 | [Trancewave](https://open.spotify.com/track/0tlQaNH7wVFloIf6EpdhcB) | [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [Trancewave](https://open.spotify.com/album/1oPGXaspqDfRecQNfRhWZe) | 3:47 |
 | 83 | [Dance Desire](https://open.spotify.com/track/2LGuIswBY4kVN9iRUiVz9W) | [Benjamin Fröhlich](https://open.spotify.com/artist/3FT44aaqR7vqBzvXCZPjn1) | [The Love Dilemma Remixes, Vol\. 2](https://open.spotify.com/album/6k94YvZX4A8AhearWJ6lZK) | 5:26 |
-| 84 | [Ballet\-Fusion \- Speedy J Remix](https://open.spotify.com/track/48frmxkaRlUmAwE37KWZWL) | [Sven Väth](https://open.spotify.com/artist/5TQaBSTOSypp7S4jfSnN3F) | [Retrospective Collection](https://open.spotify.com/album/6LHaxEoEOxKF9uRmZKKvFV) | 10:24 |
+| 84 | [Ballet\-Fusion \- Speedy J Remix](https://open.spotify.com/track/48frmxkaRlUmAwE37KWZWL) | [Sven Väth](https://open.spotify.com/artist/5TQaBSTOSypp7S4jfSnN3F), [Speedy J](https://open.spotify.com/artist/4zOEbGsiNi7qGWdyDv43gx) | [Retrospective Collection](https://open.spotify.com/album/6LHaxEoEOxKF9uRmZKKvFV) | 10:24 |
 | 85 | [Gesamtklärwerk Deutschland](https://open.spotify.com/track/582XZWr3FgGOTRWqUpX74Z) | [Meese X Hell](https://open.spotify.com/artist/6bgC0hzjlWH47Sw1Wd89iW), [DJ Hell](https://open.spotify.com/artist/4WgFczZafuUFBvsCuSK44C), [Jonathan Meese](https://open.spotify.com/artist/6gyyxYX54Rqeqxu7tgdket) | [Gesamtklärwerk Deutschland](https://open.spotify.com/album/1gh5Tkwwor85FhlmggI2DF) | 4:49 |
 | 86 | [Monitor](https://open.spotify.com/track/0YrpanoYXATO3ZD58FuOm6) | [David Mayer](https://open.spotify.com/artist/7Mf7RKErlQ5maEdHTXNexf), [ILYICH](https://open.spotify.com/artist/0I5FrDFBPRiUk9Vii5ggR5) | [Monitor](https://open.spotify.com/album/4PtF65FEROANlE5fojfP3e) | 8:03 |
 | 87 | [Mental Health Problems](https://open.spotify.com/track/6CCZ3uOBysvdGpUFlvudXW) | [Frederic.](https://open.spotify.com/artist/7fgTo2QxxmxGZI2YIjV6Vq) | [Rather Be With You](https://open.spotify.com/album/29BDjk3al0YPjq3YJZbM67) | 4:27 |

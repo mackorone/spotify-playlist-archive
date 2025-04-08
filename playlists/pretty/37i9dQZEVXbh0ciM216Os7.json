@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACyAf8Ao69tNtoX8XVHmXu+",
+  "snapshot_id": "AAAAAAAAAABgKvmM8fJ/3peoVtBbd5GJ",
   "tracks": [
     {
       "added_at": "2025-04-04 04:00:00",
@@ -31,6 +31,26 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
+        "name": "Ch\u00e8lb\u00e8",
+        "url": "https://open.spotify.com/album/4vKup5g5YoD5blHlYdvy5p"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        },
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        }
+      ],
+      "duration_ms": 175582,
+      "name": "After i (feat. GoldLink)",
+      "url": "https://open.spotify.com/track/56w3vOeetEyHj3PD4xzQu7"
+    },
+    {
+      "added_at": "2025-04-04 04:00:00",
+      "album": {
         "name": "Another Classic",
         "url": "https://open.spotify.com/album/1zcspCOTeOgUo7Wsqa2Vcc"
       },
@@ -51,22 +71,34 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
-        "name": "Ch\u00e8lb\u00e8",
-        "url": "https://open.spotify.com/album/4vKup5g5YoD5blHlYdvy5p"
+        "name": "Say Yes",
+        "url": "https://open.spotify.com/album/3KvajQirBv0q6FPpD3JNag"
       },
       "artists": [
         {
-          "name": "Lou Phelps",
-          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+          "name": "Melanie Fiona",
+          "url": "https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM"
         },
         {
-          "name": "GoldLink",
-          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Charlie Bereal",
+          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
+        },
+        {
+          "name": "Chris Dave",
+          "url": "https://open.spotify.com/artist/0ty2lxzPnKWRfQd18OuAvM"
         }
       ],
-      "duration_ms": 175582,
-      "name": "After i (feat. GoldLink)",
-      "url": "https://open.spotify.com/track/56w3vOeetEyHj3PD4xzQu7"
+      "duration_ms": 414306,
+      "name": "Say Yes (extended jam) (Feat. SiR, Andre Dre Harris, Thundercat, Charlie Bereal, Chris Dave)",
+      "url": "https://open.spotify.com/track/0TcjXS0oZsDbu7AVX1jYAT"
     },
     {
       "added_at": "2025-04-04 04:00:00",
@@ -119,38 +151,6 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
-        "name": "Say Yes",
-        "url": "https://open.spotify.com/album/3KvajQirBv0q6FPpD3JNag"
-      },
-      "artists": [
-        {
-          "name": "Melanie Fiona",
-          "url": "https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM"
-        },
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        },
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "Charlie Bereal",
-          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
-        },
-        {
-          "name": "Chris Dave",
-          "url": "https://open.spotify.com/artist/0ty2lxzPnKWRfQd18OuAvM"
-        }
-      ],
-      "duration_ms": 414306,
-      "name": "Say Yes (extended jam) (Feat. SiR, Andre Dre Harris, Thundercat, Charlie Bereal, Chris Dave)",
-      "url": "https://open.spotify.com/track/0TcjXS0oZsDbu7AVX1jYAT"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
         "name": "Spirit Box",
         "url": "https://open.spotify.com/album/3PJHdTwoBNb0RUSaHd6gFP"
       },
@@ -183,34 +183,6 @@
       "duration_ms": 213586,
       "name": "NPC",
       "url": "https://open.spotify.com/track/7dy2aVlNO91laWbvfP8KY6"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "Ilusi\u00f3n \u00d3ptica",
-        "url": "https://open.spotify.com/album/534Wu539dtJDnjnGKOdFGp"
-      },
-      "artists": [
-        {
-          "name": "Pedrito Martinez",
-          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
-        },
-        {
-          "name": "Alexander Abreu",
-          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
-        },
-        {
-          "name": "Yomil",
-          "url": "https://open.spotify.com/artist/0U0oUxOfhtjkfoJ3ZNWEfU"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 308400,
-      "name": "Ilusi\u00f3n \u00d3ptica",
-      "url": "https://open.spotify.com/track/5u62fwqYgQenVaOqzTKoBi"
     },
     {
       "added_at": "2025-04-04 04:00:00",
@@ -259,6 +231,34 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
+        "name": "Ilusi\u00f3n \u00d3ptica",
+        "url": "https://open.spotify.com/album/534Wu539dtJDnjnGKOdFGp"
+      },
+      "artists": [
+        {
+          "name": "Pedrito Martinez",
+          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
+        },
+        {
+          "name": "Alexander Abreu",
+          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        },
+        {
+          "name": "Yomil",
+          "url": "https://open.spotify.com/artist/0U0oUxOfhtjkfoJ3ZNWEfU"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 308400,
+      "name": "Ilusi\u00f3n \u00d3ptica",
+      "url": "https://open.spotify.com/track/5u62fwqYgQenVaOqzTKoBi"
+    },
+    {
+      "added_at": "2025-04-04 04:00:00",
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -295,22 +295,6 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
-        "name": "eternal sunshine deluxe: brighter days ahead (a cappella version)",
-        "url": "https://open.spotify.com/album/2xqTa2dCR54yYHEcttiXyD"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 198320,
-      "name": "twilight zone",
-      "url": "https://open.spotify.com/track/1edcyazKIdKrIuz9cWpXU6"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -343,6 +327,38 @@
       "duration_ms": 107563,
       "name": "Familiar",
       "url": "https://open.spotify.com/track/1bHjlcErAwz7qh8ME68iIR"
+    },
+    {
+      "added_at": "2025-04-04 04:00:00",
+      "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead (a cappella version)",
+        "url": "https://open.spotify.com/album/2xqTa2dCR54yYHEcttiXyD"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 198320,
+      "name": "twilight zone",
+      "url": "https://open.spotify.com/track/1edcyazKIdKrIuz9cWpXU6"
+    },
+    {
+      "added_at": "2025-04-04 04:00:00",
+      "album": {
+        "name": "The Big One",
+        "url": "https://open.spotify.com/album/6zWd21VBaksMJJM2UrCLo6"
+      },
+      "artists": [
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        }
+      ],
+      "duration_ms": 177586,
+      "name": "The Big One",
+      "url": "https://open.spotify.com/track/7DU7p7DXcOOfJMkDzeDSGU"
     },
     {
       "added_at": "2025-04-04 04:00:00",
@@ -391,38 +407,6 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
-        "name": "The Big One",
-        "url": "https://open.spotify.com/album/6zWd21VBaksMJJM2UrCLo6"
-      },
-      "artists": [
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        }
-      ],
-      "duration_ms": 177586,
-      "name": "The Big One",
-      "url": "https://open.spotify.com/track/7DU7p7DXcOOfJMkDzeDSGU"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "Part of the Dream",
-        "url": "https://open.spotify.com/album/2a8WvcJFoyJSUSDDhYa85L"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 139995,
-      "name": "Part of the Dream",
-      "url": "https://open.spotify.com/track/1kTCuSzhaYdMY4hj8l2pWn"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
         "name": "Lalala (DJ Premier Remix)",
         "url": "https://open.spotify.com/album/3NjM6SR1pFljxauIy1dnQt"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 161856,
       "name": "Lalala - DJ Premier Remix",
       "url": "https://open.spotify.com/track/61IQ6K43WxTnWfOXmffrGw"
+    },
+    {
+      "added_at": "2025-04-04 04:00:00",
+      "album": {
+        "name": "Part of the Dream",
+        "url": "https://open.spotify.com/album/2a8WvcJFoyJSUSDDhYa85L"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 139995,
+      "name": "Part of the Dream",
+      "url": "https://open.spotify.com/track/1kTCuSzhaYdMY4hj8l2pWn"
     },
     {
       "added_at": "2025-04-04 04:00:00",
@@ -503,34 +503,6 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
-        "name": "H to the Wu",
-        "url": "https://open.spotify.com/album/7fXrzspJ8XcnVABEZS5nsM"
-      },
-      "artists": [
-        {
-          "name": "Alex Quazr",
-          "url": "https://open.spotify.com/artist/3iuHcp95JkLTnOidieJz7z"
-        },
-        {
-          "name": "Lil\u2019 Flip",
-          "url": "https://open.spotify.com/artist/46RzxI0fB1oNb4k0dItWN9"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        },
-        {
-          "name": "Masta Killa",
-          "url": "https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh"
-        }
-      ],
-      "duration_ms": 156861,
-      "name": "H to the Wu",
-      "url": "https://open.spotify.com/track/2HX8oEPPmLYezVrGE7KhO2"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
         "name": "Little Death Wishes",
         "url": "https://open.spotify.com/album/6kpOIKEFaI7CNXV0QQUlKZ"
       },
@@ -567,26 +539,6 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
-        "name": "Death Hilarious",
-        "url": "https://open.spotify.com/album/3ayehNLPtO03kFwPnkOhgx"
-      },
-      "artists": [
-        {
-          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
-          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
-        },
-        {
-          "name": "El-P",
-          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
-        }
-      ],
-      "duration_ms": 223908,
-      "name": "Glib Tongued",
-      "url": "https://open.spotify.com/track/0E2TyBWRAk5YYNKL5YTLjC"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
         "name": "Anthem",
         "url": "https://open.spotify.com/album/7CTKP2Zz7Zfqoake0lB5ei"
       },
@@ -611,6 +563,34 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
+        "name": "H to the Wu",
+        "url": "https://open.spotify.com/album/7fXrzspJ8XcnVABEZS5nsM"
+      },
+      "artists": [
+        {
+          "name": "Alex Quazr",
+          "url": "https://open.spotify.com/artist/3iuHcp95JkLTnOidieJz7z"
+        },
+        {
+          "name": "Lil\u2019 Flip",
+          "url": "https://open.spotify.com/artist/46RzxI0fB1oNb4k0dItWN9"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "Masta Killa",
+          "url": "https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh"
+        }
+      ],
+      "duration_ms": 156861,
+      "name": "H to the Wu",
+      "url": "https://open.spotify.com/track/2HX8oEPPmLYezVrGE7KhO2"
+    },
+    {
+      "added_at": "2025-04-04 04:00:00",
+      "album": {
         "name": "Dexion (from \"LAZARUS\" Soundtrack)",
         "url": "https://open.spotify.com/album/3o0JLon9nA1g2CidIZdojj"
       },
@@ -627,18 +607,22 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
-        "name": "Doppler Affection",
-        "url": "https://open.spotify.com/album/3c5rCd8nQe3WkDTm869aUM"
+        "name": "Death Hilarious",
+        "url": "https://open.spotify.com/album/3ayehNLPtO03kFwPnkOhgx"
       },
       "artists": [
         {
-          "name": "The Cost",
-          "url": "https://open.spotify.com/artist/2ri95nI6rqJLWhn6VifREp"
+          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
+          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
+        },
+        {
+          "name": "El-P",
+          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
         }
       ],
-      "duration_ms": 229125,
-      "name": "One of a Kind",
-      "url": "https://open.spotify.com/track/3rjP5E00ajzEQoZVTxLOQS"
+      "duration_ms": 223908,
+      "name": "Glib Tongued",
+      "url": "https://open.spotify.com/track/0E2TyBWRAk5YYNKL5YTLjC"
     },
     {
       "added_at": "2025-04-04 04:00:00",
@@ -663,22 +647,42 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
-        "name": "10 jours, 10 nuits",
-        "url": "https://open.spotify.com/album/7CsBIG369hdLQBUeDaFHNu"
+        "name": "Of Corners & Bridges",
+        "url": "https://open.spotify.com/album/3pqLCXccTTE1Gal4vrrdPP"
       },
       "artists": [
         {
-          "name": "Scylla",
-          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
+          "name": "Brian Jackson",
+          "url": "https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU"
         },
         {
-          "name": "Furax Barbarossa",
-          "url": "https://open.spotify.com/artist/4LujPNfyrtunY5noju2iIa"
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        },
+        {
+          "name": "Paulo Santos Uakti",
+          "url": "https://open.spotify.com/artist/5r9ft8dY06CpB1pFi5i1Sd"
         }
       ],
-      "duration_ms": 230533,
-      "name": "10 jours, 10 nuits",
-      "url": "https://open.spotify.com/track/0Swisqu1xdKUrjDIz2tS33"
+      "duration_ms": 310314,
+      "name": "Bridges (Sunrise)",
+      "url": "https://open.spotify.com/track/1X3gv0XyFqhuCUUa3USPcE"
+    },
+    {
+      "added_at": "2025-04-04 04:00:00",
+      "album": {
+        "name": "Doppler Affection",
+        "url": "https://open.spotify.com/album/3c5rCd8nQe3WkDTm869aUM"
+      },
+      "artists": [
+        {
+          "name": "The Cost",
+          "url": "https://open.spotify.com/artist/2ri95nI6rqJLWhn6VifREp"
+        }
+      ],
+      "duration_ms": 229125,
+      "name": "One of a Kind",
+      "url": "https://open.spotify.com/track/3rjP5E00ajzEQoZVTxLOQS"
     },
     {
       "added_at": "2025-04-04 04:00:00",
@@ -704,33 +708,29 @@
           "url": "https://open.spotify.com/artist/6fkV4LaygxybcMjo4cJLrI"
         }
       ],
-      "duration_ms": 800506,
-      "name": "Cello Concerto No. 2 in G Major, Op. 126: I. Largo",
-      "url": "https://open.spotify.com/track/3nMrQcx64lzE92X6B1d0dh"
+      "duration_ms": 336306,
+      "name": "Cello Concerto No. 1 in E-Flat Major, Op. 107: III. Cadenza \u2013",
+      "url": "https://open.spotify.com/track/30qMMtye6LSqODNHem5sW5"
     },
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
-        "name": "Of Corners & Bridges",
-        "url": "https://open.spotify.com/album/3pqLCXccTTE1Gal4vrrdPP"
+        "name": "10 jours, 10 nuits",
+        "url": "https://open.spotify.com/album/7CsBIG369hdLQBUeDaFHNu"
       },
       "artists": [
         {
-          "name": "Brian Jackson",
-          "url": "https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU"
+          "name": "Scylla",
+          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
         },
         {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
-        },
-        {
-          "name": "Paulo Santos Uakti",
-          "url": "https://open.spotify.com/artist/5r9ft8dY06CpB1pFi5i1Sd"
+          "name": "Furax Barbarossa",
+          "url": "https://open.spotify.com/artist/4LujPNfyrtunY5noju2iIa"
         }
       ],
-      "duration_ms": 310314,
-      "name": "Bridges (Sunrise)",
-      "url": "https://open.spotify.com/track/1X3gv0XyFqhuCUUa3USPcE"
+      "duration_ms": 230533,
+      "name": "10 jours, 10 nuits",
+      "url": "https://open.spotify.com/track/0Swisqu1xdKUrjDIz2tS33"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

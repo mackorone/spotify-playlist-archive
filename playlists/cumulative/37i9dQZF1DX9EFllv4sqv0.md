@@ -4,7 +4,7 @@
 
 > Level up your gaming with these afro tracks\. Cover: Asake
 
-128 songs - 6 hr 49 min
+130 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,9 @@
 | [mo de ma \[by any minz\]](https://open.spotify.com/track/7oVWT7ZTM9TqK6NrEoGyUR) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [By Any Minz](https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP) | 2:57 | 2024-10-21 | 2025-03-15 |
 | [Money & Love](https://open.spotify.com/track/213Ymlnss7DUsqG7Ut1HW0) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:11 | 2024-10-21 | 2025-03-15 |
 | [Morowore](https://open.spotify.com/track/3W3y3pGDnfhUQHeCoUwFLe) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 3:28 | 2024-10-21 |  |
+| [Most Wanted](https://open.spotify.com/track/5rFZHAhav5kGsSAKtQHRHq) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Most Wanted](https://open.spotify.com/album/1PVWEuIW46WKRMtBnNu0Hv) | 2:22 | 2025-04-07 |  |
 | [Moving](https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Moving](https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV) | 2:20 | 2024-10-21 |  |
+| [My Darling](https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [My Darling](https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9) | 2:26 | 2025-04-07 |  |
 | [Na Scra](https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [Na Scra](https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B) | 2:30 | 2025-03-14 |  |
 | [NO COMPETITION \(feat\. Asake\)](https://open.spotify.com/track/5DttTktPy0RMZPz4UNfFm4) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:36 | 2024-10-21 |  |
 | [No Joke](https://open.spotify.com/track/2HvW7GzIbiRQGAGytSBQz6) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [No Joke](https://open.spotify.com/album/6N9L2cPBhx54BGLIQBZzvj) | 2:42 | 2024-10-21 | 2025-03-15 |

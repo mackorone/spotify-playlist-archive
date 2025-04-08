@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,566 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,565 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 34 | [On One](https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar) | [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi) | [Moovie!](https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN) | 3:25 |
 | 35 | [Boy \(feat\. P\-Lo\)](https://open.spotify.com/track/2YjFfpWIEWu4F7BFxevDqv) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [B\-Legit](https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Connected And Respected](https://open.spotify.com/album/2BThd0FFROidBahO46lH1y) | 3:41 |
 | 36 | [What's That?](https://open.spotify.com/track/1Li6CZYv1B8PWMDz31vj3A) | [Will Hill ](https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [What's That?](https://open.spotify.com/album/1ZfxtRezVuhfuabevLbFAN) | 2:20 |
-| 37 | [About That Time \(with G\-Eazy, P\-Lo & White Dave\)](https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ) | [Dame D.O.L.L.A](https://open.spotify.com/artist/6H6svVOQLsIH1uK7KedZoQ), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [OG DAYV](https://open.spotify.com/artist/2eSQStXY58BrvMNOWJcIrr) | [Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP) | 3:11 |
-| 38 | [Walked In](https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Walked In](https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq) | 2:20 |
+| 37 | [Walked In](https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Walked In](https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq) | 2:20 |
+| 38 | [About That Time \(with G\-Eazy, P\-Lo & White Dave\)](https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ) | [Dame D.O.L.L.A](https://open.spotify.com/artist/6H6svVOQLsIH1uK7KedZoQ), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [OG DAYV](https://open.spotify.com/artist/2eSQStXY58BrvMNOWJcIrr) | [Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP) | 3:11 |
 | 39 | [LIL LAD \(UNIMPRESSED\)](https://open.spotify.com/track/5nTZU4TjLizQDmbOcqRtlh) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [MAJORLY INDEPENDENT](https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b) | 2:32 |
 | 40 | [Mad](https://open.spotify.com/track/1fv8SOmc4mzmV6STxsHaK2) | [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Moovie!](https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN) | 3:38 |
 | 41 | [Light This Bitch Up](https://open.spotify.com/track/5DhuSnYKmoHrzfEtLsQHwQ) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Jay Anthony](https://open.spotify.com/artist/6PhukEDmCNt2jyDZnM4TrK) | [Before Anything \- EP](https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 49 | [Make a Move](https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx) | [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Make a Move](https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX) | 2:24 |
 | 50 | [Luh U](https://open.spotify.com/track/4eDRjjFdu1g6Q4Z4i9Dvjm) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Bosko](https://open.spotify.com/artist/520s2qSqvmjVMEW31EHmYJ) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 3:02 |
 
-Snapshot ID: `Z/BygAAAAAA7Ly40TKdCpiyFV32u+X2O`
+Snapshot ID: `Z/HEAAAAAAAg+pzrwmCGuzq0HMTWaTH6`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 
 > This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,860 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,863 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 23 | [Deixa Ela](https://open.spotify.com/track/6Ko0LtUSamxOleNdwcM5DL) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [Do Caos ao Nirvana](https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43) | 3:58 |
 | 24 | [SALA VERMELHA \#20 \- Cynthia Luz](https://open.spotify.com/track/7jCAyZWThBcg1IWdSLWKWw) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ) | [SALA VERMELHA \#20 \- Cynthia Luz](https://open.spotify.com/album/5wZg7OKvX8y2sMcjyAdVTL) | 2:41 |
 | 25 | [Liberta](https://open.spotify.com/track/6tsmtDa7CAXIMSwWpXRUGQ) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [GREGO](https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X) | [Oriente Acústico](https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1) | 4:10 |
-| 26 | [Psiu](https://open.spotify.com/track/3jtDOL6YOJpZpp1wABKoLp) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Gado](https://open.spotify.com/album/4ONyrxW3mWMLASTjpKq2ak) | 2:29 |
-| 27 | [As 25 Horas de Le Mans](https://open.spotify.com/track/4I5M8Y32OkiQ3YIakP0HTN) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [As 25 Horas de Le Mans](https://open.spotify.com/album/0bH3nq5jLOk2PwSqUA3A5Z) | 3:14 |
+| 26 | [As 25 Horas de Le Mans](https://open.spotify.com/track/4I5M8Y32OkiQ3YIakP0HTN) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [As 25 Horas de Le Mans](https://open.spotify.com/album/0bH3nq5jLOk2PwSqUA3A5Z) | 3:14 |
+| 27 | [Psiu](https://open.spotify.com/track/3jtDOL6YOJpZpp1wABKoLp) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Gado](https://open.spotify.com/album/4ONyrxW3mWMLASTjpKq2ak) | 2:29 |
 | 28 | [O Que Você Faz](https://open.spotify.com/track/3HTyLPUwl9e2gUp6Ewgd7e) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [O Que Você Faz](https://open.spotify.com/album/3nVHkr0UYH2LIGvNzkazNd) | 3:01 |
 | 29 | [Mô\-Zaico](https://open.spotify.com/track/2nR85tpgwRpO8ogN5ZfhnD) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Mô\-Zaico](https://open.spotify.com/album/5dhlzcGI3mrhm08aDWjWPM) | 2:38 |
 | 30 | [Esquece de Mim \(Rap\) \- Ao Vivo](https://open.spotify.com/track/4EyYjb6RGev9qvgh2Eld00) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Diferentão \(Ao Vivo\)](https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 49 | [Te Adoro](https://open.spotify.com/track/1QTGb30ZhoXhoWGbD2TpTE) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Ciclo Vicioso \(Deluxe\)](https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a) | 2:53 |
 | 50 | [Eu Penso](https://open.spotify.com/track/2mdV9aef4MkBJ9Mmnilqa0) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Sol](https://open.spotify.com/album/2BAJGWOgcjDYz9b3tGPuNo) | 3:03 |
 
-Snapshot ID: `Z/BygAAAAAB/KZj3JcvlNcdERS5GddRw`
+Snapshot ID: `Z/HEAAAAAACMcctr2Qf+s46NWg0qDb7Q`

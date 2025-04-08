@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLq8FgDUnAg.md) - [plain]
 
 > New Dutch podcasters on the horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,050 likes - 9 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,049 likes - 8 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,6 +16,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLq8FgDUnAg.md) - [plain]
 | 6 | [Lotte = Gedumpt Door Deze Podcast](https://open.spotify.com/episode/6PcCgfZGWS15dZtn5IMlbf) | [Brokko met Korthom & Friends](https://open.spotify.com/show/1tXV3hVOnOb9JKq15Yut9c) | [Brokko met Korthom & Friends](https://open.spotify.com/album/1tXV3hVOnOb9JKq15Yut9c) | 32:11 |
 | 7 | [S1.E8 Roué Verveer x Life Dreamers](https://open.spotify.com/episode/2CErsYYlYcV4htiwNenJNd) | [Life Dreamers ](https://open.spotify.com/show/77cvo3CV67sUwKHluaCG99) | [Life Dreamers ](https://open.spotify.com/album/77cvo3CV67sUwKHluaCG99) | 1:19:13 |
 | 8 | [S1.E7 Talisia Misiedjan x Life Dreamers](https://open.spotify.com/episode/6OgIdb3LtUDCq0KP5JY0Yq) | [Life Dreamers ](https://open.spotify.com/show/77cvo3CV67sUwKHluaCG99) | [Life Dreamers ](https://open.spotify.com/album/77cvo3CV67sUwKHluaCG99) | 53:43 |
-| 9 | [S1.E1 Timor Steffens x Life Dreamers](https://open.spotify.com/episode/2zjXDH6Gv1l7ZCDJP4DS2L) | [Life Dreamers ](https://open.spotify.com/show/77cvo3CV67sUwKHluaCG99) | [Life Dreamers ](https://open.spotify.com/album/77cvo3CV67sUwKHluaCG99) | 1:01:46 |
 
 Snapshot ID: `ZIsTEwAAAACE5OLw7dVxq3NiEkm/cMQS`

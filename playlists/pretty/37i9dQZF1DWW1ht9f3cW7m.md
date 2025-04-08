@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 > sweet and fresh emerging indie pop, featuring Luvcat 🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,690 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,693 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 31 | [Airplane](https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Romanticism](https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8) | 3:54 |
 | 32 | [Feral](https://open.spotify.com/track/22iHFRz6uGaWpeThdeww09) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [Feral](https://open.spotify.com/album/53fLgn5m83bKdJ1Bszg5en) | 3:04 |
 | 33 | [Anything](https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW) | [Polly Money](https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON) | [Anything](https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR) | 3:25 |
-| 34 | [in for the kill](https://open.spotify.com/track/3aTPG3soNZ7UImihfDABXx) | [Kayla Grace](https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T) | [in for the kill](https://open.spotify.com/album/2nVnNDYvKM2VbiorqJRw18) | 3:18 |
-| 35 | [Use Me](https://open.spotify.com/track/2JNyAzlRgfcxfwCCf8Ayo5) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Use Me](https://open.spotify.com/album/1Ay2dHPKk5NPtsAJwUvS2V) | 3:39 |
-| 36 | [hold fire](https://open.spotify.com/track/0JN4ZgDo8KN8cg3mVPID3G) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u) | [hold fire](https://open.spotify.com/album/5maXQ4mckXhYt8CCWkf1kR) | 2:29 |
+| 34 | [Use Me](https://open.spotify.com/track/2JNyAzlRgfcxfwCCf8Ayo5) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Use Me](https://open.spotify.com/album/1Ay2dHPKk5NPtsAJwUvS2V) | 3:39 |
+| 35 | [hold fire](https://open.spotify.com/track/0JN4ZgDo8KN8cg3mVPID3G) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u) | [hold fire](https://open.spotify.com/album/5maXQ4mckXhYt8CCWkf1kR) | 2:29 |
+| 36 | [in for the kill](https://open.spotify.com/track/3aTPG3soNZ7UImihfDABXx) | [Kayla Grace](https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T) | [in for the kill](https://open.spotify.com/album/2nVnNDYvKM2VbiorqJRw18) | 3:18 |
 | 37 | [Change Your Mind](https://open.spotify.com/track/5SujjrlWuM2EAqMrutFdrK) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Winner](https://open.spotify.com/album/6fxXvk5swHKZa554iuVo6B) | 2:59 |
 | 38 | [everything about her](https://open.spotify.com/track/4cQ2xighvUJyg7DHpzySPu) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [everything about her](https://open.spotify.com/album/13rfoNMlBqL3ZTxOqiGLGk) | 2:51 |
 | 39 | [Girl](https://open.spotify.com/track/6N7u0W1wIBiANEvDvBD7lC) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Girl](https://open.spotify.com/album/29TdLg1fTzIS8taqkLky7B) | 3:37 |

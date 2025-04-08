@@ -4,7 +4,7 @@
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-213 songs - 12 hr 39 min
+214 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [MI VIEJO](https://open.spotify.com/track/4sN0m8KGkPsyBEDhEE2oBm) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [MI VIEJO](https://open.spotify.com/album/681q2pGU7k5hFiEABZPdAZ) | 3:13 | 2024-06-14 | 2024-07-10 |
 | [Mix Mario Luis](https://open.spotify.com/track/7KOxY0PLyGp4TX8AZYYgMp) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx), [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB) | [Mix Mario Luis](https://open.spotify.com/album/3wCS6ofFvoetcmLFl84vhe) | 8:06 | 2023-06-16 | 2023-09-27 |
 | [Muero por Tí](https://open.spotify.com/track/2d9l94V66SgMgvOu0DKdwl) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Muero por Ti](https://open.spotify.com/album/5HsMAwmKL4scPfwIiDEbNj) | 3:56 | 2023-05-05 |  |
-| [Mujer Que Mal Me Pagas](https://open.spotify.com/track/3AkjGkz4mT0fvOLMSUlCyV) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Mujer Que Mal Me Pagas](https://open.spotify.com/album/3OScm1nKAb2EMUKI1n8Bj6) | 3:38 | 2024-04-19 |  |
+| [Mujer Que Mal Me Pagas](https://open.spotify.com/track/3AkjGkz4mT0fvOLMSUlCyV) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Mujer Que Mal Me Pagas](https://open.spotify.com/album/3OScm1nKAb2EMUKI1n8Bj6) | 3:38 | 2024-04-19 | 2025-04-08 |
 | [Ni Una Ni Dos](https://open.spotify.com/track/0H9WU0OIXPpbOVgzzOanXb) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Ni Una Ni Dos](https://open.spotify.com/album/2BrbrEMfRYAMmNPprw4Jey) | 2:38 | 2023-07-03 |  |
 | [No Aguanto Más](https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [No Aguanto Más](https://open.spotify.com/album/3sgBdgPI4BrUHGpgLEvYgF) | 3:14 | 2024-05-24 |  |
 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No Me Arrepiento De Este Amor](https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17) | 3:47 | 2023-05-05 | 2024-04-19 |
@@ -174,6 +174,7 @@
 | [Si Esta Casa Hablara](https://open.spotify.com/track/2F3j0BgLcRjuAd7gAvrlQp) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Pablito HC](https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Si Esta Casa Hablara](https://open.spotify.com/album/7JTFZ8I4RPHodlhmX2faiP) | 3:20 | 2023-05-05 |  |
 | [Si Me Tomo Una Cerveza](https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Alico](https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF) | [Si Me Tomo una Cerveza](https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2) | 3:02 | 2023-05-05 |  |
 | [Si Me Tomo una Cerveza \- Remix](https://open.spotify.com/track/7oySelE0Cb5q1TBBSPZJT2) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1), [Alico](https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Si Me Tomo una Cerveza \(Remix\)](https://open.spotify.com/album/7lDnwvTQGoFOCRD7GGRpks) | 3:57 | 2023-05-05 |  |
+| [Si Me Ves Llorar por Ti](https://open.spotify.com/track/0XFn0YkjPrKMSLLU4jsLAS) | [Los Del Maranaho](https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs) | [Después de Tí, Que](https://open.spotify.com/album/3Mz010MHaDI7vdl546QozX) | 3:55 | 2025-03-14 |  |
 | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND) | 7:08 | 2023-05-05 |  |
 | [Sin Documentos \- Cover](https://open.spotify.com/track/2jDDaOlTlPIj14ogDGeQO6) | [THE PALMERS](https://open.spotify.com/artist/4ACQyAX2r9xt9k1y1t7jXN) | [Sin Documentos \(Cover\)](https://open.spotify.com/album/57jYr82JRXrEQlt8CWl7lL) | 2:49 | 2023-06-09 | 2023-07-04 |
 | [Sin Valentín](https://open.spotify.com/track/4qjw6B9bJWb3jd0RInF1RY) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Sin Valentín](https://open.spotify.com/album/1ZPwG0m0QpSpsPKcmqAJdj) | 2:41 | 2024-02-16 | 2024-06-08 |

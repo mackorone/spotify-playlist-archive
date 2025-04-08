@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 201242,
+  "num_followers": 201246,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAADgtagSGM0GFDf9e7o7Pwhe",
+  "snapshot_id": "Z/HEAAAAAAAa2b57P5S6ZxF1fl1oHfdQ",
   "tracks": [
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DUMMY BOY (Revised)",
-        "url": "https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr"
-      },
-      "artists": [
-        {
-          "name": "6ix9ine",
-          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 128769,
-      "name": "WAKA (feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/4uax9U22ZAdqUxTMF1beUf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
         "url": "https://open.spotify.com/album/1O3wGX19uKgXZZuW7uKb9l"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 158994,
       "name": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/0HLhptvI8NozbOHRLNniFz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DUMMY BOY (Revised)",
+        "url": "https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr"
+      },
+      "artists": [
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 128769,
+      "name": "WAKA (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/4uax9U22ZAdqUxTMF1beUf"
     },
     {
       "added_at": null,

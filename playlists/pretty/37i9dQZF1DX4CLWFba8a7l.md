@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 
 > The home of Australian music\. Cover: Royel Otis
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,723 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,731 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 | 74 | [Everyone Will See It](https://open.spotify.com/track/1m0KHgKO5q5jpttt0m3ESO) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Everyone Will See It](https://open.spotify.com/album/5dR2HScThHzyN9wggxsl8x) | 3:24 |
 | 75 | [Hideaway](https://open.spotify.com/track/6whwQsAorYI2N8iFLWUhfb) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP) | 2:57 |
 
-Snapshot ID: `Z+6GXgAAAAAkYWVj5UOjM5Pk8gss4moc`
+Snapshot ID: `Z/R7kAAAAACvxLMWQx8Je8LPm9BoWO25`

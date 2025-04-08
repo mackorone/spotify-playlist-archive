@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,307 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,310 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 17 | [Recent Report Ⅲ](https://open.spotify.com/track/4A5UC9TfrhhgZeyhgmttHv) | [後藤正文](https://open.spotify.com/artist/7z6bGLRzEf48d1km5BU4sn) | [Recent Report Ⅲ](https://open.spotify.com/album/3ptifoQOsBInMvIAsqsD08) | 10:46 |
 | 18 | [Continuum 3](https://open.spotify.com/track/0AXfx8KBcjY3TlrHmApvNr) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 4:07 |
 | 19 | [Jicama](https://open.spotify.com/track/47RGxJ1g9UwQNAQ53kRwKy) | [Gregory Uhlmann](https://open.spotify.com/artist/3apnkNwaHdhoNIvKVMiC5S), [Josh Johnson](https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [Uhlmann Johnson Wilkes](https://open.spotify.com/album/4gYxsgdSL1NsEjgw9yZPvf) | 2:32 |
-| 20 | [Bewitched \- Rework](https://open.spotify.com/track/5pdc3oeoqidUv0pem5xenZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bewitched \(Rework\)](https://open.spotify.com/album/4gC9HHS8VYAlVUw1gqxUQB) | 4:22 |
+| 20 | [sweet dreams](https://open.spotify.com/track/1SiTJWmO416vuOw3nUl1jw) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.1 \(Episode 1\-3\)](https://open.spotify.com/album/5SSghC1WJVRm05ohNFZScq) | 2:29 |
 | 21 | [blue sky and yellow sunflower](https://open.spotify.com/track/3TSK1p0Vi6utUaMnfDWh7Y) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Symbol](https://open.spotify.com/album/1wvp8g8sgOXVeipPMt0UX4) | 3:59 |
-| 22 | [sweet dreams](https://open.spotify.com/track/1SiTJWmO416vuOw3nUl1jw) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.1 \(Episode 1\-3\)](https://open.spotify.com/album/5SSghC1WJVRm05ohNFZScq) | 2:29 |
+| 22 | [Bewitched \- Rework](https://open.spotify.com/track/5pdc3oeoqidUv0pem5xenZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bewitched \(Rework\)](https://open.spotify.com/album/4gC9HHS8VYAlVUw1gqxUQB) | 4:22 |
 | 23 | [Norton](https://open.spotify.com/track/4z9jqw3j2exNVCouafDQzE) | [The Vernon Spring](https://open.spotify.com/artist/2gzcB4vMIStEDZiQlvywGm) | [Norton](https://open.spotify.com/album/25wgcyPri2UD4PZ6iVk7jH) | 2:01 |
 | 24 | [24° 3' 27.0" N, 123° 47' 7.5" E](https://open.spotify.com/track/5x0jf0GphPeaRpdmbL8Yr0) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Luminescent Creatures](https://open.spotify.com/album/2mLrmtSEmIWLO6sLAq4lNH) | 1:07 |
 | 25 | [Melting Ice](https://open.spotify.com/track/1WGQ4VOueKeSEYAyGdxzL5) | [Slow Attack Ensemble](https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As) | [Delay Music](https://open.spotify.com/album/0DM40FD0tB4t0NIKpgBAWn) | 1:52 |

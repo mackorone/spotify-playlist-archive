@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,502,214 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,502,635 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 13 | [3 am walk \- Slowed & Reverb Version](https://open.spotify.com/track/1miBMMwRKSCL6RItKHbXuR) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [3 am walk](https://open.spotify.com/album/3sSvAReP5cObFgTj4NRYcT) | 3:19 |
 | 14 | [i was only temporary \(Slowed + Reverb\)](https://open.spotify.com/track/4XAilWzhZM0uyR4vtERfHi) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [i was only temporary \(Remixes\)](https://open.spotify.com/album/4eFB3zNX35w1029DW0XxRm) | 1:42 |
 | 15 | [Heat Waves \- Slowed](https://open.spotify.com/track/1K2RnVhm3eauKnA8PAcPu1) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves \(Expansion Pack\)](https://open.spotify.com/album/4SRt3uGUROnTFCw41dzHIh) | 4:22 |
-| 16 | [SUNRISE \(Slowed + Reverb\)](https://open.spotify.com/track/0G17UriYHMjXnZE2OJJSMR) | [Xantesha](https://open.spotify.com/artist/2rgcNuLkn8pPBdKZhjZ8Em) | [SUNRISE \(Slowed + Reverb\)](https://open.spotify.com/album/2tiHE58yMuZI1wiygJxxSM) | 2:18 |
-| 17 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 |
+| 16 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 |
+| 17 | [SUNRISE \(Slowed + Reverb\)](https://open.spotify.com/track/0G17UriYHMjXnZE2OJJSMR) | [Xantesha](https://open.spotify.com/artist/2rgcNuLkn8pPBdKZhjZ8Em) | [SUNRISE \(Slowed + Reverb\)](https://open.spotify.com/album/2tiHE58yMuZI1wiygJxxSM) | 2:18 |
 | 18 | [Dandelions \- slowed + reverb](https://open.spotify.com/track/6cii6vbf1gITzGEpDrc5BP) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl), [slater](https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7) | [Dandelions \(slowed + reverb\)](https://open.spotify.com/album/1UtDjgbJnpqtAhfeMrb4Qm) | 4:28 |
 | 19 | [METAMORPHOSIS \- Slowed + Reverb](https://open.spotify.com/track/02oUvHd9QhVUO4YYb7t9JM) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS \(Slowed + Reverb\)](https://open.spotify.com/album/4z0nL9bblVphvhmt8o15yO) | 2:52 |
 | 20 | [Close Eyes \- Slowed + Reverb](https://open.spotify.com/track/5RE3w3M9g5vsotdIVtLONq) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes \(Slowed + Reverb\)](https://open.spotify.com/album/12zL1YZJeADPb6hPdD9Mqm) | 2:23 |

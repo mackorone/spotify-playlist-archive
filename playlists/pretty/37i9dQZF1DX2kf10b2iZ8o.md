@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アTHE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,773 likes - 75 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,772 likes - 75 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 53 | [À La Carte FREEDOM](https://open.spotify.com/track/0BuEquD7ftojKONu8kHGjv) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM ST@RTING LINE \-BEST \(VOCAL Edition\)](https://open.spotify.com/album/5W4q9TO7CUxRQ7QeqMqlXU) | 4:20 |
 | 54 | [Radiant Letter](https://open.spotify.com/track/40R5PKT1WKL8W0k9bJB4So) | [Jupiter](https://open.spotify.com/artist/7yIZvf93cvym5UEV2IGd8D) | [THE IDOLM@STER SideM NEW STAGE EPISODE：03 Jupiter](https://open.spotify.com/album/41FMIe73fP3RyJlue8Gpzk) | 4:05 |
 | 55 | [Multiple Entertainment Show!](https://open.spotify.com/track/2TntR07b85I4VG8htD397u) | [S.E.M](https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj) | [THE IDOLM@STER SideM GROWING SIGN@L 13 S.E.M](https://open.spotify.com/album/0UGtgMGUTtpAGR0LdzXDWE) | 3:45 |
-| 56 | [Not Alone](https://open.spotify.com/track/0DMWqErybyah6CoWS1H2q5) | [C.FIRST](https://open.spotify.com/artist/601o8klLY0Bsm1YIbVggfL) | [THE IDOLM@STER SideM GROWING SIGN@L 02 C.FIRST](https://open.spotify.com/album/5OvSepSC3wL0Ok1sBzPNHt) | 4:07 |
-| 57 | [オレたちの最強伝説～一世一代、破羅駄威棲！～](https://open.spotify.com/track/33tX1p5ZILarwKKb1Lg0dD) | [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd) | [THE IDOLM@STER SideM ST@RTING LINE \-BEST \(VOCAL Edition\)](https://open.spotify.com/album/5W4q9TO7CUxRQ7QeqMqlXU) | 3:15 |
+| 56 | [オレたちの最強伝説～一世一代、破羅駄威棲！～](https://open.spotify.com/track/33tX1p5ZILarwKKb1Lg0dD) | [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd) | [THE IDOLM@STER SideM ST@RTING LINE \-BEST \(VOCAL Edition\)](https://open.spotify.com/album/5W4q9TO7CUxRQ7QeqMqlXU) | 3:15 |
+| 57 | [Not Alone](https://open.spotify.com/track/0DMWqErybyah6CoWS1H2q5) | [C.FIRST](https://open.spotify.com/artist/601o8klLY0Bsm1YIbVggfL) | [THE IDOLM@STER SideM GROWING SIGN@L 02 C.FIRST](https://open.spotify.com/album/5OvSepSC3wL0Ok1sBzPNHt) | 4:07 |
 | 58 | [Tone's Destiny](https://open.spotify.com/track/3L0J09Vkwx7OupyfRNAv22) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 01](https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG) | 4:39 |
 | 59 | [夏時間グラフィティ](https://open.spotify.com/track/2fFyk58FJRGKL40fAa9R1A) | [Beit](https://open.spotify.com/artist/1AZCEPWgL4qpqfc86wi9Ah), [High Joker](https://open.spotify.com/artist/3Lc97VS2398JpmflP7xblo), [W](https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK) | [THE IDOLM@STER SideM ANIMATION PROJECT 01 Reason!!](https://open.spotify.com/album/2dWuenMwbM25FIFG8K7ACG) | 4:05 |
 | 60 | [GIVE ME FUSION](https://open.spotify.com/track/2u88brqMvhPCrtFqSzxO61) | [卯月巻緒 \(CV.児玉卓也\)](https://open.spotify.com/artist/33NFAXM9xKkQrPmFvb6omi) | [THE IDOLM@STER SideM 49 ELEMENTS \-08 Café Parade](https://open.spotify.com/album/00vbT7zTPrbtgaaAQom31L) | 3:40 |

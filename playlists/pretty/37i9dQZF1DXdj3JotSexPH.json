@@ -1,6 +1,6 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 36235,
+  "num_followers": 36233,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
@@ -899,30 +899,6 @@
     {
       "added_at": "2024-09-30 12:18:54",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Starrah",
-          "url": "https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 195937,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE"
-    },
-    {
-      "added_at": "2024-09-30 12:18:54",
-      "album": {
         "name": "3la Wara2a",
         "url": "https://open.spotify.com/album/419f6PDJdRxfmCFBaTHwND"
       },
@@ -943,6 +919,30 @@
       "duration_ms": 172961,
       "name": "3la Wara2a",
       "url": "https://open.spotify.com/track/20KrweTJAU2y90iMkj78Lk"
+    },
+    {
+      "added_at": "2024-09-30 12:18:54",
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Starrah",
+          "url": "https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 195937,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE"
     },
     {
       "added_at": "2024-09-30 12:18:54",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-09-30 12:18:54",
       "album": {
-        "name": "\u0634\u0641\u062a",
-        "url": "https://open.spotify.com/album/6CnP4TxSVUVg13UrMTPRfX"
-      },
-      "artists": [
-        {
-          "name": "BrownMusic",
-          "url": "https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw"
-        }
-      ],
-      "duration_ms": 123503,
-      "name": "\u0634\u0641\u062a",
-      "url": "https://open.spotify.com/track/6NAlHGjMcLv1JBfmJCabKs"
-    },
-    {
-      "added_at": "2024-09-30 12:18:54",
-      "album": {
         "name": "Floating",
         "url": "https://open.spotify.com/album/2VRJeL1urQDxXkIvPCCa6s"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 191838,
       "name": "FLOATING",
       "url": "https://open.spotify.com/track/6dH6sNqJ0V70apdyR7mMSZ"
+    },
+    {
+      "added_at": "2024-09-30 12:18:54",
+      "album": {
+        "name": "\u0634\u0641\u062a",
+        "url": "https://open.spotify.com/album/6CnP4TxSVUVg13UrMTPRfX"
+      },
+      "artists": [
+        {
+          "name": "BrownMusic",
+          "url": "https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw"
+        }
+      ],
+      "duration_ms": 123503,
+      "name": "\u0634\u0641\u062a",
+      "url": "https://open.spotify.com/track/6NAlHGjMcLv1JBfmJCabKs"
     },
     {
       "added_at": "2024-09-30 12:18:54",

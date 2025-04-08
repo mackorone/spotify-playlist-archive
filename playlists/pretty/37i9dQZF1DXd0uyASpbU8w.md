@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Riky Rick, Miley Cyrus,  Nomfundo Moh & Blaq Diamond and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,509 likes - 83 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,548 likes - 83 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 16 | [Ms\. Goody Two Shoes](https://open.spotify.com/track/7eiY7TxrwFgWEYPmbwnbTP) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Ms\. Goody Two Shoes](https://open.spotify.com/album/2wXE2aphd1Rah3fbrUIGfV) | 3:02 |
 | 17 | [SEE YOU AGAIN VIP](https://open.spotify.com/track/4RuJK9EOL8xsuHHwXsYHI2) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [swedm®](https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK), [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [F\*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3](https://open.spotify.com/album/784znju28Nz5zSuRuthPcO) | 1:16 |
 | 18 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:56 |
-| 19 | [Kautamu Flani \(feat\. Vijana Barubaru\)](https://open.spotify.com/track/7w5pR36kqvcUgqkdEajIOk) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Vijana BaruBaru](https://open.spotify.com/artist/5pfXmgnuv1lS2mp8mKx7JW) | [Kautamu Flani \(feat\. Vijana Barubaru\)](https://open.spotify.com/album/6s29SD51M3n6A6nBoEPNgd) | 4:18 |
+| 19 | [Kautamu Flani \(feat\. V\-Be\)](https://open.spotify.com/track/7w5pR36kqvcUgqkdEajIOk) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW) | [Kautamu Flani \(feat\. V\-Be\)](https://open.spotify.com/album/6s29SD51M3n6A6nBoEPNgd) | 4:18 |
 | 20 | [NUMBER ONE \(feat\. Minz\)](https://open.spotify.com/track/1uOd46FEiW7ritNBNgNdBK) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [NUMBER ONE \(feat\. Minz\)](https://open.spotify.com/album/7qsbzgt7rxG82wr7qi0v6T) | 4:03 |
 | 21 | [MVP](https://open.spotify.com/track/0NEVYvt0Evz01fy43n29R2) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [MVP](https://open.spotify.com/album/7D4R7vF5RsHLebaC00iR1Z) | 2:02 |
 | 22 | [Potion](https://open.spotify.com/track/2mEgBXBksVpGBotlB1yGZD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Potion](https://open.spotify.com/album/1ip3kwOjeoIXzxVwpqfL17) | 2:47 |

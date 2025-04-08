@@ -4,7 +4,7 @@
 
 > Las canciones esenciales de la escena alternativa en español\. Con Diamante Eléctrico en portada.
 
-283 songs - 16 hr 32 min
+284 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [El Tesoro](https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 4:31 | 2024-03-08 |  |
 | [El Tiempo Pasará](https://open.spotify.com/track/6t6knHmmUVGnYHqQy7lTij) | [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi) | [Impronta](https://open.spotify.com/album/7cQBUtJwVAKluOLttrga9m) | 4:02 | 2024-03-08 |  |
 | [Ella se burló de mí](https://open.spotify.com/track/4A7e3xbhvbktOXCgVYBCDZ) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [3D](https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz) | 2:30 | 2023-10-13 | 2024-03-09 |
-| [Ella viene del futuro](https://open.spotify.com/track/4z8Kp7IB4pcIIOfbH6thYy) | [Alkaloides](https://open.spotify.com/artist/3EuxYSlJqnkPSr0adIH0kK) | [Alkaloides](https://open.spotify.com/album/77342fzBC7UqYsuhDCdX5Z) | 4:15 | 2024-06-14 |  |
+| [Ella viene del futuro](https://open.spotify.com/track/4z8Kp7IB4pcIIOfbH6thYy) | [Alkaloides](https://open.spotify.com/artist/3EuxYSlJqnkPSr0adIH0kK) | [Alkaloides](https://open.spotify.com/album/77342fzBC7UqYsuhDCdX5Z) | 4:15 | 2024-06-14 | 2025-04-08 |
 | [Emborracharme](https://open.spotify.com/track/67DveIUUjToBiKJwMnFZiJ) | [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi) | [Impronta](https://open.spotify.com/album/7cQBUtJwVAKluOLttrga9m) | 3:32 | 2024-03-08 | 2024-04-19 |
 | [EME](https://open.spotify.com/track/4Zsk8bKl9FIvaDPBO464BI) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [EME](https://open.spotify.com/album/7LNPWPlfY52Lfip0mubSNx) | 2:27 | 2023-05-31 | 2023-09-04 |
 | [En Avenidas](https://open.spotify.com/track/5GgmtaUrV9qk6aBTbcupcd) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Ruli](https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq) | 3:15 | 2024-03-08 | 2024-06-15 |
@@ -121,6 +121,7 @@
 | [Eres](https://open.spotify.com/track/0GD3HmHYuyW2h1XS6Gdzt3) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Óleos](https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z) | 3:50 | 2024-03-08 |  |
 | [Eres para Mí \(with Anita Tijoux\)](https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:12 | 2024-03-08 |  |
 | [Eres Tú](https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:48 | 2024-03-08 | 2024-04-19 |
+| [Espada](https://open.spotify.com/track/74JGKtGEQjx2gXZgSR4v93) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Otra Era](https://open.spotify.com/album/1Ag7xE38iyJ4NzzbRSpvah) | 4:14 | 2024-06-14 |  |
 | [Espiral](https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 5:22 | 2024-03-08 |  |
 | [Estero](https://open.spotify.com/track/424e07rT5aQ3e3zoS6c4fF) | [Renee Mooi](https://open.spotify.com/artist/6pDpSqJDuF6J6jxfAz4sTB) | [Estero](https://open.spotify.com/album/1KwYSPl2UNEQfdSlFZk5gJ) | 3:44 | 2023-03-19 | 2023-05-09 |
 | [Explotar Contigo](https://open.spotify.com/track/4ZCRkqTO36YSyMEjQukC9s) | [TOURISTA](https://open.spotify.com/artist/5gOlm0kBmadY4qgw4UssxM) | [Colores Paganos](https://open.spotify.com/album/52qqkgnvRbNW9wW0VT3OgY) | 3:24 | 2024-05-02 | 2024-06-01 |

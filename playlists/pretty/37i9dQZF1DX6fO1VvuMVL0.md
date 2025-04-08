@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 
 > The cool sound of Cool Jazz\. Cover: Paul Desmond
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,114 likes - 75 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,177 likes - 75 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 39 | [Where or When](https://open.spotify.com/track/48dI69jaXNhBlysBv9o7mb) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q) | [Moonlight In Vermont](https://open.spotify.com/album/46m2vVGJn0cSaVBsHMzYgW) | 2:26 |
 | 40 | [Under Capricorn](https://open.spotify.com/track/5Sv0wvyx7b2u7O4oj0iNJx) | [Gil Melle](https://open.spotify.com/artist/7zaZzk9UMSUyFMX1zxUraX) | [New Faces \- New Sounds](https://open.spotify.com/album/1QSjIFszDmlznqk7Zs28Tw) | 3:01 |
 | 41 | [Thanks For The Memory](https://open.spotify.com/track/6eBEARA33jF1lPXoPGhSqG) | [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Jazz Guitar](https://open.spotify.com/album/5RfC4bI1lfV7PFOyVxawiM) | 5:19 |
-| 42 | [Waltz Me Blues](https://open.spotify.com/track/6Mi3MsunPLMhJ6wl09RZEP) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper Meets The Rhythm Section \(OJC Remaster\)](https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX) | 2:58 |
+| 42 | [Walkin' Out Blues](https://open.spotify.com/track/7vKWeu6VMsG0Lc303NU68l) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [The Return Of Art Pepper](https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT) | 5:56 |
 | 43 | [It Had To Be You \- Live At The Half Note, NYC, 1959](https://open.spotify.com/track/2qSaqU4oifGvpq4bP5VOyc) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap), [Al Cohn](https://open.spotify.com/artist/4yPUoMbYxVJ6XNJWZVJV7Y) | [Jazz Alive! A Night At The Half Note \(Live\)](https://open.spotify.com/album/7JG3HQ0se1jy6zJLQvHfrn) | 10:14 |
 | 44 | [Rising Sun](https://open.spotify.com/track/4nYxNjXiOCl1QzjSu9H9ip) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Jazz Impressions Of Japan](https://open.spotify.com/album/1Rb6B6oexFpWWfGoclK4bX) | 4:39 |
 | 45 | [Ergo \- Remastered 2004](https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Ensemble \(Expanded Edition / Remastered\)](https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c) | 3:11 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 47 | [One Bass Hit](https://open.spotify.com/track/2LkCr3r5s8uyGaZunVB00y) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Django \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp) | 2:59 |
 | 48 | [Quintessence \- Remastered](https://open.spotify.com/track/2CMmZJwUiiQXVro8lDB7ZE) | [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Intuition](https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc) | 4:16 |
 | 49 | [Laura](https://open.spotify.com/track/0pdajpmRwVX10gYQgZUYbO) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Jazz Masters Deluxe Collection: Gerry Mulligan](https://open.spotify.com/album/2hK2NVvfVEflYkNNC33dDd) | 4:10 |
-| 50 | [Walkin' Out Blues](https://open.spotify.com/track/7vKWeu6VMsG0Lc303NU68l) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [The Return Of Art Pepper](https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT) | 5:56 |
+| 50 | [Waltz Me Blues](https://open.spotify.com/track/6Mi3MsunPLMhJ6wl09RZEP) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper Meets The Rhythm Section \(OJC Remaster\)](https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX) | 2:58 |
 | 51 | [Show Me \- Instrumental](https://open.spotify.com/track/3ExXFwzM0E3PZr9Lmiu88E) | [Shelly Manne And His Friends](https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf) | [My Fair Lady](https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza) | 3:41 |
 | 52 | [Kathy's Waltz](https://open.spotify.com/track/7kknJtlKKE4Njdmy1IK7cQ) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/4jEfuEYJ34e3N8AHccUJ7u) | 4:47 |
 | 53 | [The Queen's Fancy](https://open.spotify.com/track/0jKWfUHO1Zy4wPPiRZLT9F) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Django \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp) | 3:12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > We're celebrating the 40th anniversary of The Judd's album "Why Not Me" on 80s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 675,703 likes - 150 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 675,809 likes - 150 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 27 | [Why'd You Come in Here Lookin' Like That](https://open.spotify.com/track/5oheUEVCpJllnImTs5nNiS) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [White Limozeen](https://open.spotify.com/album/10jK6LkJr9Dav78dhsXZJY) | 2:32 |
 | 28 | [Simple Man](https://open.spotify.com/track/4O7sDupv5V7qEBk96qOZyi) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [Simple Man](https://open.spotify.com/album/3ntl3KgaLDbSnnuai9AusB) | 3:22 |
 | 29 | [I Was Country When Country Wasn't Cool \- Live At The Roy Acuff Theater Nashville, TN, 1981](https://open.spotify.com/track/2jQw7zMJO4fekTbP7iVA4v) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg), [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Barbara Mandrell Live \(Live At The Roy Acuff Theater Nashville, TN, 1981\)](https://open.spotify.com/album/7ebVeMz1gjFIhINj22oLx7) | 3:43 |
-| 30 | [I Wouldn't Have Missed It For The World](https://open.spotify.com/track/7sNKhnl4MZnHdMzvmC4jG5) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [There's No Gettin' Over Me](https://open.spotify.com/album/4rfNPJR54mFLPz6FzV2TI8) | 3:37 |
-| 31 | [Pancho and Lefty](https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 4:47 |
+| 30 | [Pancho and Lefty](https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 4:47 |
+| 31 | [I Wouldn't Have Missed It For The World](https://open.spotify.com/track/7sNKhnl4MZnHdMzvmC4jG5) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [There's No Gettin' Over Me](https://open.spotify.com/album/4rfNPJR54mFLPz6FzV2TI8) | 3:37 |
 | 32 | [Guitar Town](https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Guitar Town](https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy) | 2:35 |
 | 33 | [The Fireman](https://open.spotify.com/track/5CwZU4BVFX0dyqG1gKfHHr) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Does Fort Worth Ever Cross Your Mind](https://open.spotify.com/album/40FQbBUr9JVZ5pWIQMG9JF) | 2:34 |
 | 34 | [Country Club](https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Country Club](https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo) | 3:10 |

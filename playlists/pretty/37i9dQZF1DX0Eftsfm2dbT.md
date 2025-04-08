@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: Young Coco
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,330 likes - 81 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,336 likes - 81 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [She Knows](https://open.spotify.com/track/7wjKYOF5B2ebYVzFiDpkK3) | [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6) | [BIG C](https://open.spotify.com/album/53QpvoPooI5XLKHOs4rdxz) | 3:38 |
 | 2 | [HANEDA \(feat\. Kvi Baba & ELIONE\)](https://open.spotify.com/track/4XV1FDxQSdMnqCY2Bpsm5v) | [G\-k.i.d](https://open.spotify.com/artist/50xj3nfsSMeJ046DOsee0v), [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [ELIONE](https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg) | [Hood Melody](https://open.spotify.com/album/5IcWRGsA5XaQAtV5msVoqL) | 2:54 |
-| 3 | [No.5 \- Remix \-feat\. Vingo](https://open.spotify.com/track/120f9PsOUuI1yDNhC60JCe) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [dubby bunny](https://open.spotify.com/artist/244odVvt89Qx3RNgzeXdMF) | [20 +](https://open.spotify.com/album/03g7NI2Dzsu9TycWPQlev5) | 3:05 |
+| 3 | [No.5 \- Remix \-feat\. Vingo](https://open.spotify.com/track/120f9PsOUuI1yDNhC60JCe) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH) | [20 +](https://open.spotify.com/album/03g7NI2Dzsu9TycWPQlev5) | 3:05 |
 | 4 | [バグり \(feat\. kZm, Awich, PETZ, MonyHorse & JNKMN\)](https://open.spotify.com/track/3FdZ6MCqA9y0Hhlc8U9uSw) | [YENTOWN](https://open.spotify.com/artist/5MZKzz8nnucMHhJq34UZwe), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [PETZ](https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L) | [バグり \(feat\. kZm, Awich, PETZ, MonyHorse & JNKMN\)](https://open.spotify.com/album/2fPFTelUOr9Nw72DW55aHU) | 3:06 |
 | 5 | [Noraneko](https://open.spotify.com/track/6TZpDKmOUd4qyKnd6qmw4i) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [YUKAKO](https://open.spotify.com/album/3iAhfsGy6MoXFv5fQqQ6f7) | 4:01 |
 | 6 | [稼ごう](https://open.spotify.com/track/4JMvzpPGlIaYUGapXxAJ1h) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [億万長者](https://open.spotify.com/album/2eZvursJChaG1LSVwXaQ3c) | 2:26 |

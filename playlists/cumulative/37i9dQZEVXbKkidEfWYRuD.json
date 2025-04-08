@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-07",
+      "date_removed": null,
       "duration_ms": 150588,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/35pAZQU6X9WjIlUyuej4DF"
@@ -1538,7 +1538,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -3686,6 +3686,44 @@
       "duration_ms": 157626,
       "name": "Collision",
       "url": "https://open.spotify.com/track/2vukoriV9e7oyOojN1NtsB"
+    },
+    {
+      "album": {
+        "name": "Come Play (Kordhell Remix) (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/5jlXwBAmwRDW7RP7mUjpmN"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130573,
+      "name": "Come Play (Kordhell Remix) (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/73KUB8Ofoeby9vd3bSeyZR"
     },
     {
       "album": {
@@ -7752,7 +7790,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-26",
+      "date_removed": null,
       "duration_ms": 215338,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou"
@@ -23682,7 +23720,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 164210,
       "name": "\u0414\u043e\u043b\u043e\u043d\u0456",
       "url": "https://open.spotify.com/track/28nCv762IfyLVB2OGGQcMb"
@@ -26170,7 +26208,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-04",
+      "date_removed": null,
       "duration_ms": 169130,
       "name": "\u041b\u0410\u0411\u0418\u0420\u0418\u041d\u0422",
       "url": "https://open.spotify.com/track/7biChppM3c8q7qcVl7ceb2"
@@ -26854,7 +26892,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 178857,
       "name": "\u041c\u0438\u043b\u0430 \u043c\u043e\u044f",
       "url": "https://open.spotify.com/track/4gmYoD8EB3ATqJJHuj354Q"
@@ -27548,7 +27586,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 159567,
       "name": "\u041d\u0430 \u043f\u043e\u0440\u043e\u0437\u0456",
       "url": "https://open.spotify.com/track/4SbcktBkOk1YgAyQvjC8kl"
@@ -28532,7 +28570,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 189000,
       "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
       "url": "https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9"
@@ -31654,7 +31692,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-05",
+      "date_removed": null,
       "duration_ms": 110168,
       "name": "\u0421\u0442\u0440\u0430\u0448\u043d\u044b\u0439 \u0441\u043e\u043d 2",
       "url": "https://open.spotify.com/track/1GaJ8rxMQPzCfdZeMGH82G"

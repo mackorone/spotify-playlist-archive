@@ -4351,6 +4351,28 @@
     },
     {
       "album": {
+        "name": "Mono No Aware",
+        "url": "https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx"
+      },
+      "artists": [
+        {
+          "name": "Martin Roth",
+          "url": "https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1"
+        },
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278174,
+      "name": "Sine Waves",
+      "url": "https://open.spotify.com/track/3iLbERuL98HVj4utkn7U04"
+    },
+    {
+      "album": {
         "name": "Music For Psychedelic Therapy",
         "url": "https://open.spotify.com/album/2zY5p176SfmupXceLKT6bH"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 
 > Versiones acústicas de tus canciones favoritas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,259 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,347 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 48 | [Andar Conmigo](https://open.spotify.com/track/5usKouO9EPZnbzztaZd9jw) | [Leopoldo Lopez](https://open.spotify.com/artist/4eiT8IHB1FaTzRyvkyyI3q) | [Andar Conmigo](https://open.spotify.com/album/5ItestUQ48ki9aagEmthYn) | 3:58 |
 | 49 | [Calma](https://open.spotify.com/track/5Z52mAR8UvfDNmm6xMvIIR) | [Ledes Diaz](https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV) | [Calma](https://open.spotify.com/album/3F0daqlEpGUxXQCRIjMwql) | 3:05 |
 | 50 | [Ahora Dice](https://open.spotify.com/track/08sswdOXk4nu7sYFIVU6f6) | [Alex Coppel](https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM) | [Ahora Dice](https://open.spotify.com/album/2xB066cl8FPGnXxMQfB8JL) | 3:21 |
-| 51 | [Lucha De Gigantes](https://open.spotify.com/track/0xq83JuGO0zzaUuIAJXKMQ) | [Mac Gregor](https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF) | [Lucha De Gigantes](https://open.spotify.com/album/47rUQhjmVyqm9Yut7fegrl) | 3:46 |
-| 52 | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/track/4gICYVqe0drMCOVgj0OeTA) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/album/0DX0y2NJhzvD9igiBgbzTg) | 4:10 |
-| 53 | [Chantaje](https://open.spotify.com/track/3P6oKxLPu8AMIB6y1wF86y) | [Aberola](https://open.spotify.com/artist/261dXSTP2fxbtRTGmg4VTr) | [Chantaje](https://open.spotify.com/album/2QO086Ci3QxG7LVEdeYqhl) | 3:27 |
-| 54 | [Amor Tumbado](https://open.spotify.com/track/20LD0AeIa1d1PHipSyK6nC) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Amor Tumbado](https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n) | 2:28 |
+| 51 | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/track/4gICYVqe0drMCOVgj0OeTA) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/album/0DX0y2NJhzvD9igiBgbzTg) | 4:10 |
+| 52 | [Lucha De Gigantes](https://open.spotify.com/track/0xq83JuGO0zzaUuIAJXKMQ) | [Mac Gregor](https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF) | [Lucha De Gigantes](https://open.spotify.com/album/47rUQhjmVyqm9Yut7fegrl) | 3:46 |
+| 53 | [Amor Tumbado](https://open.spotify.com/track/20LD0AeIa1d1PHipSyK6nC) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Amor Tumbado](https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n) | 2:28 |
+| 54 | [Chantaje](https://open.spotify.com/track/3P6oKxLPu8AMIB6y1wF86y) | [Aberola](https://open.spotify.com/artist/261dXSTP2fxbtRTGmg4VTr) | [Chantaje](https://open.spotify.com/album/2QO086Ci3QxG7LVEdeYqhl) | 3:27 |
 | 55 | [Dembow \- Acoustic Version](https://open.spotify.com/track/2DpBQ4fq4bEr2IZJ40s9Dy) | [Rebeca Luna](https://open.spotify.com/artist/5haTMRhcwfF9yHRJGTMvbi) | [Acoustic Sessions](https://open.spotify.com/album/3mYIi2EtIUUVWsMlEUzrUb) | 3:34 |
 | 56 | [Calma \- Remix](https://open.spotify.com/track/01afy14WMg3JohCIAb3oTe) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Calma \(Remix\)](https://open.spotify.com/album/6kSXYCwKZbkzwDhcls7tlQ) | 2:52 |
 | 57 | [Felices los 4 \- Acoustic version](https://open.spotify.com/track/4N0Md19ln8Fq3O7Up0lqme) | [Aberola](https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC) | [Felices los 4 \(Acoustic Version\)](https://open.spotify.com/album/5ywUlCNTlkwvnnpZ5uXNd7) | 4:09 |

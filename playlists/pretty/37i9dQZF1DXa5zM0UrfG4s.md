@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > rølp og sånt
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,683 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,688 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,17 +50,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 40 | [Är det kärlek du behöver \- N!NE EPA Bass Boosted Remix](https://open.spotify.com/track/45MJ4bysE50sOo2AXrk3tj) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu), [N!NE](https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro) | [Är det kärlek du behöver \(EPA Remixes\)](https://open.spotify.com/album/1iIvpW6StpS5bwdYl5hbjp) | 2:53 |
 | 41 | [Siste Kveld](https://open.spotify.com/track/3qLNHejkuopLaI0HaLl081) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Siste Kveld](https://open.spotify.com/album/57e4YYv5JDQULceiS7x0my) | 2:39 |
 | 42 | [Hej, hallå \(Fylla banker på\)](https://open.spotify.com/track/77njX2H1TKxfuQEUpvC8Aa) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Hej, hallå \(Fylla banker på\)](https://open.spotify.com/album/7IQDes4hzYHoIR9c4FV6gi) | 2:17 |
-| 43 | [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI), [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x) | 2:38 |
+| 43 | [Nå er det helg](https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Nå er det helg](https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius) | 3:03 |
 | 44 | [29 tonn](https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [29 tonn](https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv) | 3:18 |
-| 45 | [Nå er det helg](https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Nå er det helg](https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius) | 3:03 |
+| 45 | [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI), [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x) | 2:38 |
 | 46 | [Polare](https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM) | [Prilla Generalen](https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak) | [Polare](https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr) | 3:25 |
 | 47 | [Bara vara med dig](https://open.spotify.com/track/6XyttiDC9XtzILqteIADau) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bara vara med dig](https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY) | 2:41 |
-| 48 | [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI) | [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3) | 2:17 |
+| 48 | [Svære Pupper](https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD) | [KOKKOS](https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk) | [Svære Pupper](https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h) | 2:18 |
 | 49 | [De gærne har det godt](https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [De gærne har det godt](https://open.spotify.com/album/517ciheoZHAntktdQcBaxx) | 2:08 |
 | 50 | [Gamle helter](https://open.spotify.com/track/5UStrdTMXC3qwEQSEv1HWo) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Gamle helter](https://open.spotify.com/album/0XaNCDVHK9Ug1SKKu2ZBPl) | 3:28 |
 | 51 | [Er det lov å leva](https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Er det lov å leva](https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU) | 2:11 |
-| 52 | [Svære Pupper](https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD) | [KOKKOS](https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk) | [Svære Pupper](https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h) | 2:18 |
-| 53 | [Bare for i kveld](https://open.spotify.com/track/41HlW4QfsbuWK2OD8fb4Yl) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bare for i kveld](https://open.spotify.com/album/2ezcQMPJ2ko3laaOsa3Ifo) | 3:16 |
+| 52 | [Bare for i kveld](https://open.spotify.com/track/41HlW4QfsbuWK2OD8fb4Yl) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bare for i kveld](https://open.spotify.com/album/2ezcQMPJ2ko3laaOsa3Ifo) | 3:16 |
+| 53 | [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI) | [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3) | 2:17 |
 | 54 | [Hej skål!](https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Hej skål!](https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS) | 2:09 |
 | 55 | [Zetor’n](https://open.spotify.com/track/2eknHfWE6fkw1fxcjEMD5t) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU) | 2:47 |
 | 56 | [Håper du er lykkelig nå](https://open.spotify.com/track/6JOoTX5e0TAHCTWWpC7HrH) | [River](https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5), [Spelloppmaker](https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi) | [Håper du er lykkelig nå](https://open.spotify.com/album/3GZGmMzsRlOjxLthv0pvd7) | 2:59 |

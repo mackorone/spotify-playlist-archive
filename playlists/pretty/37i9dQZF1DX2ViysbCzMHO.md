@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,565 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,598 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 48 | [Buy Dirt \- Alternate Version](https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd) | 2:50 |
 | 49 | [World on Fire \- Bonfire Version](https://open.spotify.com/track/2k2mdBAB0pPPadKPKwEIQE) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [World on Fire \(Bonfire Version\)](https://open.spotify.com/album/5dXRi4991APofJJZS3g0KR) | 3:05 |
 | 50 | [I'm Not Pretty \- Acoustic](https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [I'm Not Prettier](https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy) | 2:58 |
-| 51 | [We Got History \- Acoustic](https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [We Got History \(Acoustic\)](https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa) | 3:36 |
-| 52 | [That's Why \(Acoustic Version\)](https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [That's Why \(Acoustic Version\)](https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx) | 2:57 |
+| 51 | [That's Why \(Acoustic Version\)](https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [That's Why \(Acoustic Version\)](https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx) | 2:57 |
+| 52 | [We Got History \- Acoustic](https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [We Got History \(Acoustic\)](https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa) | 3:36 |
 | 53 | [Tucson Too Late \- Live Acoustic](https://open.spotify.com/track/27iEURX7ffTh0O6ULtqhRW) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Tucson Too Late \(Live Acoustic\)](https://open.spotify.com/album/4fa2cd0EzHd4g92IY2fn5G) | 3:06 |
 | 54 | [All I Know About Girls](https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [All I Know About Girls](https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR) | 2:42 |
 | 55 | [Wild as Her \(feat\. Carter Faith\) \- Acoustic One\-Take](https://open.spotify.com/track/0huxrD4MV3OAyEizla4JZT) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Wild as Her \(feat\. Carter Faith\) \[Acoustic One\-Take\]](https://open.spotify.com/album/2m9TD8enfTQRn8NIAC2tTf) | 3:33 |

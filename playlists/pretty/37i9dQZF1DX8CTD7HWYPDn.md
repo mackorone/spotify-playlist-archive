@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CTD7HWYPDn.md) - [plain]
 
 > Tu karaoke personal para darlo todo cantando.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,697,104 likes - 200 songs - 13 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,697,041 likes - 200 songs - 13 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,8 +204,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CTD7HWYPDn.md) - [plain]
 | 194 | [Walk Of Life](https://open.spotify.com/track/4tyl9OMKMG8F2L0RUYQMH3) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Brothers In Arms \(Remastered\)](https://open.spotify.com/album/1NF8WUbdC632SIwixiWrLh) | 4:09 |
 | 195 | [Someone Like You](https://open.spotify.com/track/4kflIGfjdZJW4ot2ioixTB) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147) | 4:45 |
 | 196 | [What's Up?](https://open.spotify.com/track/7f0jXNMu2xjQUtmKMuWhGA) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/7oqXnxR9Xg9Okhs17hL9aS) | 4:55 |
-| 197 | [Freed from Desire](https://open.spotify.com/track/5n56ImOTTDbUORTq3Eyong) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come into My Life \(10th Anniversary\)](https://open.spotify.com/album/4EMKH4lI4pyUYxCsPl4cag) | 3:33 |
-| 198 | [Losing My Religion](https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(U.S\. Version\)](https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD) | 4:27 |
+| 197 | [Losing My Religion](https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(U.S\. Version\)](https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD) | 4:27 |
+| 198 | [Freed from Desire](https://open.spotify.com/track/5n56ImOTTDbUORTq3Eyong) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come into My Life \(10th Anniversary\)](https://open.spotify.com/album/4EMKH4lI4pyUYxCsPl4cag) | 3:33 |
 | 199 | [Me Rehúso](https://open.spotify.com/track/6Zosz8w6CmdGMZM6p4JlbQ) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Me Rehúso](https://open.spotify.com/album/6qIOlt2SVkfs9NynvpaQ1j) | 3:25 |
 | 200 | [What Is Love \- 7" Mix](https://open.spotify.com/track/3NvS0SxNWIPiAJoPWUpZzr) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [The Album 2nd Edition](https://open.spotify.com/album/7iJaLP2Wqt624nD3esC08f) | 4:30 |
 

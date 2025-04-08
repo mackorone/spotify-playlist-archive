@@ -12434,7 +12434,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-07",
+      "date_removed": null,
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -21505,6 +21505,24 @@
     },
     {
       "album": {
+        "name": "Silakbo",
+        "url": "https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237692,
+      "name": "Multo",
+      "url": "https://open.spotify.com/track/5tlb0AxuzsMWL2GtEppXGX"
+    },
+    {
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -25538,7 +25556,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 156825,
       "name": "PUSH 2 START",
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
@@ -30964,7 +30982,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 301623,
       "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"

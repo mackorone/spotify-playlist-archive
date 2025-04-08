@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 116455,
+  "num_followers": 116452,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAABqFjYz28WPG1bYiaUywYYZ",
+  "snapshot_id": "Z/HEAAAAAABcp4qRhvFNZxFJnV9A7YN8",
   "tracks": [
     {
       "added_at": null,
@@ -1183,34 +1183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recome\u00e7o",
-        "url": "https://open.spotify.com/album/5MoBxDzlYReoWJMSRwxFDp"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "DUNDUM NTS",
-          "url": "https://open.spotify.com/artist/0gGRfgyjJayTbNkikRPMYQ"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Recome\u00e7o",
-      "url": "https://open.spotify.com/track/7cOZisYC7MaDLfavfq86Ed"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sigo na F\u00e9 do Pai",
         "url": "https://open.spotify.com/album/7iC162RW3i4GYeyEcuFUUJ"
       },
@@ -1235,6 +1207,34 @@
       "duration_ms": 264827,
       "name": "Sigo na F\u00e9 do Pai",
       "url": "https://open.spotify.com/track/4KxjRjzK24EQXbM4qoOz4X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recome\u00e7o",
+        "url": "https://open.spotify.com/album/5MoBxDzlYReoWJMSRwxFDp"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "DUNDUM NTS",
+          "url": "https://open.spotify.com/artist/0gGRfgyjJayTbNkikRPMYQ"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Recome\u00e7o",
+      "url": "https://open.spotify.com/track/7cOZisYC7MaDLfavfq86Ed"
     },
     {
       "added_at": null,

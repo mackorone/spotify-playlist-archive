@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,618,767 likes - 125 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,619,012 likes - 125 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

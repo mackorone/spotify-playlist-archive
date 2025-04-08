@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 25483,
+  "num_followers": 25499,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAAAsoyk4cxnayHXd2cI6cXEF",
+  "snapshot_id": "Z/HEAAAAAADy8yN36N0bYvmdCIo3ulpz",
   "tracks": [
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hoochie Coochie",
+        "url": "https://open.spotify.com/album/3AGhrLfPdpOZQnI7s5GBjz"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 147450,
+      "name": "Hoochie Coochie",
+      "url": "https://open.spotify.com/track/7ygjfxmmkgPN0nbyYOMD2T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Somethin' (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/0HkzOucR55zv6wQWIWOPBs"
       },
@@ -495,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hood Hottest Princess (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 177902,
+      "name": "Shake Yo Dreads",
+      "url": "https://open.spotify.com/track/3CPu3e1CVKItYWdoCgSXzm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Don\u2019t Love Me",
         "url": "https://open.spotify.com/album/6T05dhhfw907E2DZTEuwp9"
       },
@@ -511,22 +543,6 @@
       "duration_ms": 157332,
       "name": "You Don\u2019t Love Me",
       "url": "https://open.spotify.com/track/6ACJ86qxrE31AErgE3AjDV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hood Hottest Princess (Deluxe)",
-        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 177902,
-      "name": "Shake Yo Dreads",
-      "url": "https://open.spotify.com/track/3CPu3e1CVKItYWdoCgSXzm"
     },
     {
       "added_at": null,
@@ -559,22 +575,6 @@
       "duration_ms": 231075,
       "name": "YN",
       "url": "https://open.spotify.com/track/1Ulsd6jncBPvkY9JnFBTPp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hoochie Coochie",
-        "url": "https://open.spotify.com/album/3AGhrLfPdpOZQnI7s5GBjz"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 147450,
-      "name": "Hoochie Coochie",
-      "url": "https://open.spotify.com/track/7ygjfxmmkgPN0nbyYOMD2T"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Sexyy We Trust",
+        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 131965,
+      "name": "Ova Bad",
+      "url": "https://open.spotify.com/track/7eP2aGOcagXwchZIIKX0QO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shiesty (feat. Kaliii & Sexyy Red)",
         "url": "https://open.spotify.com/album/5KAMwIkKnQW0GLJK2wm83T"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 216541,
       "name": "Shiesty (feat. Kaliii & Sexyy Red)",
       "url": "https://open.spotify.com/track/3erWnQRZiMmOzRqnVhHaox"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Sexyy We Trust",
-        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 131965,
-      "name": "Ova Bad",
-      "url": "https://open.spotify.com/track/7eP2aGOcagXwchZIIKX0QO"
     },
     {
       "added_at": null,

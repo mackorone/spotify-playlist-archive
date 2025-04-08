@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,877 likes - 296 songs - 18 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,878 likes - 296 songs - 18 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -270,8 +270,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 260 | [Another Dose](https://open.spotify.com/track/1UA7A9ipmYOYXMtJGjShzy) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Hollywood: A Story of a Dozen Roses \(Deluxe Version\)](https://open.spotify.com/album/79EyqF9taW9XFPKci2U5D9) | 3:54 |
 | 261 | [Lifestyles of the Rich & Hated \(feat\. Rick Ross\)](https://open.spotify.com/track/1KvKPSssiIgALGatBVmlCj) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [When It's Dark Out \(Deluxe Edition\)](https://open.spotify.com/album/5a4Yx5hc7VRHUBeNX56euP) | 3:54 |
 | 262 | [Pressure](https://open.spotify.com/track/54MQ4xMvsIfWpJ314JytMD) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [A 64 East Saga](https://open.spotify.com/album/6rNaEOcCOyzFJfNTAp1SS8) | 2:39 |
-| 263 | [Suicidal Thoughts](https://open.spotify.com/track/5Sr7LOgvXpogQurC38FKcN) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Kiss The Ring \(Deluxe\)](https://open.spotify.com/album/1KDc01X8ZF9VYqVW6c4lvr) | 3:14 |
-| 264 | [Who Could Say No](https://open.spotify.com/track/0pU2k7y4udh04s0sV9GyX4) | [Olivia Lunny](https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9) | [Olivia Lunny](https://open.spotify.com/album/6kfUJPOuxwbF3zanaleesQ) | 2:00 |
+| 263 | [Who Could Say No](https://open.spotify.com/track/0pU2k7y4udh04s0sV9GyX4) | [Olivia Lunny](https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9) | [Olivia Lunny](https://open.spotify.com/album/6kfUJPOuxwbF3zanaleesQ) | 2:00 |
+| 264 | [Suicidal Thoughts](https://open.spotify.com/track/5Sr7LOgvXpogQurC38FKcN) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Kiss The Ring \(Deluxe\)](https://open.spotify.com/album/1KDc01X8ZF9VYqVW6c4lvr) | 3:14 |
 | 265 | [Can't Stop](https://open.spotify.com/track/31BoeyQtnaoqRHsCMKyOtK) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs) | [We The Best Forever](https://open.spotify.com/album/7FyxsUO4kVqRfo2ne1aUOg) | 2:49 |
 | 266 | [Options](https://open.spotify.com/track/5AbFf7bcqyFFCSQh3az5XX) | [Quincy](https://open.spotify.com/artist/19dpHprxtijzCuWbrtmGrL), [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda) | [Options](https://open.spotify.com/album/3bna9MFciOVPiqMzjZ24AO) | 2:59 |
 | 267 | [Maison](https://open.spotify.com/track/5Fp1CtbZMoCKyIyojRRjC8) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [Up For Days](https://open.spotify.com/album/7MH5ah4TuR5b7ENaloxEtr) | 3:18 |
@@ -281,8 +281,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 271 | [PLANET BEAM](https://open.spotify.com/track/39e9hkMX40YCILJqWEyBKp) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [ALIEN](https://open.spotify.com/album/6To6T5lr8PLhCQ8ik3vPdv) | 6:22 |
 | 272 | [WTF](https://open.spotify.com/track/7HLjZNXC0BhteqncIigRX1) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [No Weapons](https://open.spotify.com/album/6qCsH9hHN8PPVLvlswoaNt) | 2:30 |
 | 273 | [Somebody to Miss You](https://open.spotify.com/track/4iYIvu41J5amGqwy61ERaG) | [Travis Mills](https://open.spotify.com/artist/5fzbfP3jLDaJZe7TdFDXRY) | [All I Wanna Do \(EP\)](https://open.spotify.com/album/7qKgvQvJP7P1uKbSl19Fft) | 3:04 |
-| 274 | [It's Better This Way](https://open.spotify.com/track/1bNOdjMdGUH59zsWl93IEu) | [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Don't Let Them See You Cry](https://open.spotify.com/album/3jJg20HwumSwJH0GcG5VbC) | 2:37 |
-| 275 | [Professional](https://open.spotify.com/track/7F9gf1K7xZAhNal2Djl9Wi) | [Down With Webster](https://open.spotify.com/artist/6eMqM0bpqakYd4EA857uD9) | [Time To Win, Vol\. II](https://open.spotify.com/album/7bZA089W4OGmw6ySJXY6fp) | 2:37 |
+| 274 | [Professional](https://open.spotify.com/track/7F9gf1K7xZAhNal2Djl9Wi) | [Down With Webster](https://open.spotify.com/artist/6eMqM0bpqakYd4EA857uD9) | [Time To Win, Vol\. II](https://open.spotify.com/album/7bZA089W4OGmw6ySJXY6fp) | 2:37 |
+| 275 | [It's Better This Way](https://open.spotify.com/track/1bNOdjMdGUH59zsWl93IEu) | [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Don't Let Them See You Cry](https://open.spotify.com/album/3jJg20HwumSwJH0GcG5VbC) | 2:37 |
 | 276 | [On A Wave](https://open.spotify.com/track/0GuhX81IqyufFB3VdVzUbj) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [Off The Books EP \(2016\)](https://open.spotify.com/album/5seVG1s2oc5piRtsixp4g0) | 3:02 |
 | 277 | [I Want It All](https://open.spotify.com/track/6V8RKCCfZiPPZpzt5IWQSh) | [Down With Webster](https://open.spotify.com/artist/6eMqM0bpqakYd4EA857uD9) | [Time To Win, Vol\. II](https://open.spotify.com/album/7bZA089W4OGmw6ySJXY6fp) | 4:26 |
 | 278 | [ANTI QUEEN](https://open.spotify.com/track/4qOnwxS8U9eQavhXtAcxeN) | [Bri Steves](https://open.spotify.com/artist/26PGLwvDbs1jVA6tAv1lLj) | [ANTI QUEEN](https://open.spotify.com/album/3ZMd53Gj5MnpppM4HVwAru) | 2:25 |
@@ -305,4 +305,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 295 | [My Life](https://open.spotify.com/track/659VW7lp1PC9EogVmyy2NW) | [KO](https://open.spotify.com/artist/0QsGiZaEitDoqU4AQJhPqF) | [My Life](https://open.spotify.com/album/62ZHBhUPSiyGbG9TFE5BPk) | 3:20 |
 | 296 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AbuFXgAAAAAIRoBeqqB/Bv0cWJl849Qm`
+Snapshot ID: `AbuK9AAAAADXFc5m/PUK3a2sMWxeAMVp`

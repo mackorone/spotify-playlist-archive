@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,661 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,666 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 | 49 | [Throw \(feat\. G Herbo\)](https://open.spotify.com/track/4GPdoLd1cWW8vgmij3mxLb) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [BIG SCOOM \(Vol\. 1\)](https://open.spotify.com/album/08IxpbkS8U33weBUBYOy49) | 2:53 |
 | 50 | [Being Honest \(Remix\) \[feat\. G Herbo\]](https://open.spotify.com/track/2344qwORd0Q3bZhwssd2mw) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [The D.O.A\. Tape](https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD) | 2:33 |
 
-Snapshot ID: `Z/BygAAAAACh7H3I5ED+EpL1UWs9jonI`
+Snapshot ID: `Z/HEAAAAAABHp8axoN/l8oHl//mC/Shv`

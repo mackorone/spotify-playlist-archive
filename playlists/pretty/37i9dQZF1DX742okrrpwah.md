@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Ed Sheeran, Miley Cyrus et KeBlack au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,645 likes - 87 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,677 likes - 87 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 38 | [TOUT DROIT](https://open.spotify.com/track/41VdmKuecGgLr07y5XeHBN) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W) | [TOUT DROIT](https://open.spotify.com/album/31l6tEo7MN8Mr6BDn2xw3j) | 2:45 |
 | 39 | [Same Process \- Inspiré du film "Zion"](https://open.spotify.com/track/2NSLrInvjBu9LH9qQzpd7L) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [B.mad](https://open.spotify.com/artist/5rzmG6OxYGiKvoVC3fxVaQ) | [Same Process \(Inspiré du film "Zion"\)](https://open.spotify.com/album/54eEhTwifxlSOK3YUPrYkI) | 2:00 |
 | 40 | [Samba De Janeiro \- Dimitri Vegas & Like Mike Edit](https://open.spotify.com/track/01sPlJlb2lXNe5w2IkpmvV) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Bellini](https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Samba De Janeiro \(Dimitri Vegas & Like Mike Edit\)](https://open.spotify.com/album/6jK1XRFzMkuGYn4iIweQ0M) | 2:24 |
-| 41 | [Drip Drip](https://open.spotify.com/track/0YrUz44GV53SvRMQUFIpps) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [WUKONG](https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T), [MUSIC](https://open.spotify.com/artist/6tmvEui9RlpwAFJA8tNkxM) | [Drip Drip](https://open.spotify.com/album/14jZsLakgI8TLW8PMdkFxC) | 2:25 |
+| 41 | [Drip Drip](https://open.spotify.com/track/0YrUz44GV53SvRMQUFIpps) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [WUKONG](https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T), [$MUSIC](https://open.spotify.com/artist/0zx8yW9E6H5pwqAnWrDepm) | [Drip Drip](https://open.spotify.com/album/14jZsLakgI8TLW8PMdkFxC) | 2:25 |
 | 42 | [Little Richard’s Bible](https://open.spotify.com/track/3AsmUHXoCqeWXP9tRTYGsR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/1Wn7mRdFZfHwmgtRFFR42o) | 2:59 |
 | 43 | [My Hero](https://open.spotify.com/track/2oyBvQDVgsiiZ9i0cusjbR) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq) | [1997](https://open.spotify.com/album/6OUJxofNyMo3qiiCOV5y9S) | 2:40 |
 | 44 | [Monday, Monday](https://open.spotify.com/track/14joz9oqnhYORgpKOmE0Aj) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Neggy Gemmy](https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW) | [Fauxllennium \(Japanese Deluxe Edition\)](https://open.spotify.com/album/5MQx9UktIiM86OYBZh1c4M) | 3:33 |

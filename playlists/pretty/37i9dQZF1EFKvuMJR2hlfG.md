@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKvuMJR2hlfG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6wovS7exdnjHhyYZxYK4b5">Niall Horan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,134 likes - 56 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,136 likes - 56 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKvuMJR2hlfG.md) - [plain]
 | 55 | [Dress](https://open.spotify.com/track/5RPq4WPdn53v53m72dLBBf) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather \(5 Year Anniversary Edition\)](https://open.spotify.com/album/1lF6IT0hjkqjJ32o8Jz3P9) | 3:26 |
 | 56 | [Nothing](https://open.spotify.com/track/3V97CljOzjfQEf00yoSVXg) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather \(5 Year Anniversary Edition\)](https://open.spotify.com/album/1lF6IT0hjkqjJ32o8Jz3P9) | 2:45 |
 
-Snapshot ID: `AbuFSgAAAACE8sLUuEhNpj1IDbTpQzc9`
+Snapshot ID: `AbuLCAAAAACib/r/VSKT5DKl2O0skDKR`

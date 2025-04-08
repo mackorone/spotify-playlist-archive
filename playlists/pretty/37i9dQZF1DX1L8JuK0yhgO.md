@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,550 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,551 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 7 | [week by week](https://open.spotify.com/track/3G4iUu5rVdgnSpX5zLgunc) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ) | [MOMENT](https://open.spotify.com/album/6Kss1QyaTDtwXHuIMmSVHq) | 3:19 |
 | 8 | [She Knows](https://open.spotify.com/track/7wjKYOF5B2ebYVzFiDpkK3) | [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6) | [BIG C](https://open.spotify.com/album/53QpvoPooI5XLKHOs4rdxz) | 3:38 |
 | 9 | [ENVY](https://open.spotify.com/track/1H91uSVm7gwJP3mK4pgt06) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [ENVY / HELLO HATER](https://open.spotify.com/album/1b7Ix01BuW2ONRTCjo5cfE) | 2:55 |
-| 10 | [No.5 \- Remix \-feat\. Vingo](https://open.spotify.com/track/120f9PsOUuI1yDNhC60JCe) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [dubby bunny](https://open.spotify.com/artist/244odVvt89Qx3RNgzeXdMF) | [20 +](https://open.spotify.com/album/03g7NI2Dzsu9TycWPQlev5) | 3:05 |
+| 10 | [No.5 \- Remix \-feat\. Vingo](https://open.spotify.com/track/120f9PsOUuI1yDNhC60JCe) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH) | [20 +](https://open.spotify.com/album/03g7NI2Dzsu9TycWPQlev5) | 3:05 |
 | 11 | [流星群 \(feat\. AIRIE\)](https://open.spotify.com/track/6pj89d1xJrPusGFFC0OeBe) | [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D), [AIRIE](https://open.spotify.com/artist/2xN2Y7hBcfqQiy3qI7j1Py) | [流星群 \(feat\. AIRIE\)](https://open.spotify.com/album/1G21dTysCSqTuKCNT0Goms) | 2:46 |
 | 12 | [チョコミント](https://open.spotify.com/track/7MtkDfStPcnWCRukFpoPcx) | [Hayato Yoshida](https://open.spotify.com/artist/2oHsgOCrUTQmTqqeOoxdVX) | [平成2025](https://open.spotify.com/album/3MhcozH7oZ4fmvnRo4a2pM) | 3:07 |
 | 13 | [青い](https://open.spotify.com/track/4luzbLvPm0n7QKdhrminvs) | [シラフ](https://open.spotify.com/artist/4NTgCBuUgWbeOPuUwj2I5V) | [青い](https://open.spotify.com/album/6sikuNWJ7SAvwMwIRjs4fo) | 3:00 |

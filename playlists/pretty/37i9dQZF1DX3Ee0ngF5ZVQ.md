@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Jake Worthington
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,467 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,455 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 39 | [County Road 123](https://open.spotify.com/track/0YzmIrYwxjhUCEzrRmhTH4) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [County Road 123](https://open.spotify.com/album/77QZTXu1DoZcAZuJNi55Ft) | 3:46 |
 | 40 | [Texas Hold 'Em](https://open.spotify.com/track/5e0h38dIcXdVLoLXKxFRYb) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Texas Hold 'Em](https://open.spotify.com/album/1V0WoAMcL38iGQYyDfgxzL) | 3:02 |
 | 41 | [Hearts Don't](https://open.spotify.com/track/4VBk1mhcQkyPvnZ34cTThr) | [Tristan Roberson](https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR) | [Hearts Don't](https://open.spotify.com/album/0jmlQOEAFUKwmaT6xfMoGz) | 3:38 |
-| 42 | [Start at the End](https://open.spotify.com/track/08eDkqav6EEKUZDy7dlGWI) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Start at the End](https://open.spotify.com/album/4d3tswcnN8RBSIeVaDwHH1) | 3:28 |
-| 43 | [Hello Shitty Day](https://open.spotify.com/track/4aQxac535ve7JhAbyeBAT6) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Hello Shitty Day](https://open.spotify.com/album/3BZOmOYxTKHHfoxTJD4Yw2) | 4:24 |
+| 42 | [Hello Shitty Day](https://open.spotify.com/track/4aQxac535ve7JhAbyeBAT6) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Hello Shitty Day](https://open.spotify.com/album/3BZOmOYxTKHHfoxTJD4Yw2) | 4:24 |
+| 43 | [Start at the End](https://open.spotify.com/track/08eDkqav6EEKUZDy7dlGWI) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Start at the End](https://open.spotify.com/album/4d3tswcnN8RBSIeVaDwHH1) | 3:28 |
 | 44 | [Mean Old Sun](https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Mean Old Sun](https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk) | 4:08 |
 | 45 | [Hang of Hangin’ On](https://open.spotify.com/track/2viDvDsv8BksWQdL5JKYAT) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Hang of Hangin’ On](https://open.spotify.com/album/2v4JTwSalSwSUxMwAajHoD) | 3:16 |
 | 46 | [Hello Highway](https://open.spotify.com/track/4VZtc1T7NzTsFQfdnJZK7p) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Corazón y Cabeza](https://open.spotify.com/album/6yZOlNv2YKskr93XnhtY0a) | 3:42 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 97 | [Pancho and Lefty](https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ), [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Pancho and Lefty](https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX) | 5:09 |
 | 98 | [A Few Years Back](https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [A Few Years Back](https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4) | 3:40 |
 | 99 | [Haggard Blues](https://open.spotify.com/track/36h7sbu4iGnHkQg7KlOrcW) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Haggard Blues](https://open.spotify.com/album/5v2BdBLvdMc3gUj6plY9lK) | 3:07 |
-| 100 | [Denver to Dallas](https://open.spotify.com/track/1waF2JcZIKEZQvYWygCv81) | [Wynn Williams](https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4) | [Denver to Dallas](https://open.spotify.com/album/2Ifn48ww9AmWjpH3wjCrsV) | 3:28 |
+| 100 | [Starts in a Bar](https://open.spotify.com/track/5Qpq6TsAObkMLfB7q1z4Qc) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Built Different](https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ) | 2:59 |
 
 Snapshot ID: `Z+bCngAAAABaCtJ7mEW7aB06bSArHeyc`

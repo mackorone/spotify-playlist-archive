@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: ROA
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,114 likes - 125 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,269 likes - 125 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

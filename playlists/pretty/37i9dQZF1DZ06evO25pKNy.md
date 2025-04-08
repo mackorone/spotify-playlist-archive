@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 
 > This is Los Hijos De Garcia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,513 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,514 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 | 24 | [Bohemio de Afición \- En Vivo](https://open.spotify.com/track/4i0SFmcMd79sCXfnuFKqlf) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [En Vivo Con Tololoche](https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9) | 2:57 |
 | 25 | [Quintana Roo](https://open.spotify.com/track/527qFT8pKSgaULC82IAuCs) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Desde La 48](https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD) | 3:10 |
 | 26 | [Cabezones Azules](https://open.spotify.com/track/05y6GAASJNXAOAyk4dZVKQ) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Cabezones Azules](https://open.spotify.com/album/1Lkokal6RcHYzxDfqMrPY9) | 3:36 |
-| 27 | [Jardin Verde](https://open.spotify.com/track/2hO3w9dSz1FLgzXFdA0Bzv) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos De La Vida](https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f) | 2:29 |
-| 28 | [6 Colores](https://open.spotify.com/track/74B8W79gWO3nswzkVE7vLi) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 2:47 |
+| 27 | [6 Colores](https://open.spotify.com/track/74B8W79gWO3nswzkVE7vLi) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 2:47 |
+| 28 | [Jardin Verde](https://open.spotify.com/track/2hO3w9dSz1FLgzXFdA0Bzv) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos De La Vida](https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f) | 2:29 |
 | 29 | [Classroom Love](https://open.spotify.com/track/7yFDHXEb7UseHnH3hEWR29) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Classroom Love](https://open.spotify.com/album/0cbyUdPh5smj24zGOuwF5o) | 4:16 |
 | 30 | [La Querian Facil](https://open.spotify.com/track/4JlwxYmewZay9BAbLsBHK6) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [La Querian Facil](https://open.spotify.com/album/4tp7hs9DwBnKmFtrTUjflY) | 3:45 |
 | 31 | [El Taliban](https://open.spotify.com/track/0N3ffTqqz9fzuxVt8EY341) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [El Taliban](https://open.spotify.com/album/40EEdGVKmA7zcMOr5HGP6r) | 3:04 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 | 44 | [Mundo Desgraciado](https://open.spotify.com/track/3hiximGfpxNy8fgsbWm4hm) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Nuestro Estilo](https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r) | 3:36 |
 | 45 | [COMPTON](https://open.spotify.com/track/2hoOS2ABkC8JrcN69owHYE) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 2:45 |
 | 46 | [Aqui Nada Me Va Mal](https://open.spotify.com/track/3EKCwgqtzhNRD51XOHkjzM) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Aqui Nada Me Va Mal](https://open.spotify.com/album/3QfoLOlTy4yUlO7R1HWadb) | 2:58 |
-| 47 | [Debajo De La Gorra](https://open.spotify.com/track/37jvbQaDuG76ZXPRPHnjSl) | [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Debajo De La Gorra](https://open.spotify.com/album/6KoTqQ3CRPUOgt9iMbe1cw) | 3:05 |
-| 48 | [Recordando Al Chavalon](https://open.spotify.com/track/6hUXWt86hN6CktnTHanG06) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Recordando Al Chavalon](https://open.spotify.com/album/6uO6AxhUMDd06Un78tIZr8) | 2:12 |
+| 47 | [Recordando Al Chavalon](https://open.spotify.com/track/6hUXWt86hN6CktnTHanG06) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Recordando Al Chavalon](https://open.spotify.com/album/6uO6AxhUMDd06Un78tIZr8) | 2:12 |
+| 48 | [Debajo De La Gorra](https://open.spotify.com/track/37jvbQaDuG76ZXPRPHnjSl) | [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Debajo De La Gorra](https://open.spotify.com/album/6KoTqQ3CRPUOgt9iMbe1cw) | 3:05 |
 | 49 | [El Cimarron](https://open.spotify.com/track/3mBI9q2AWvbEEGLnxjmdBg) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 2:36 |
 | 50 | [Historia Personal](https://open.spotify.com/track/0LjJoRueKZJCdz31eZCVnI) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Historia Personal](https://open.spotify.com/album/4L6pnNGvsAOaku8qqJaIlA) | 4:21 |
 
-Snapshot ID: `Z/BygAAAAAAyoRY4eADWLspDdhy8bPEu`
+Snapshot ID: `Z/HEAAAAAABoCfllNSdoPNli9LuTSsVo`

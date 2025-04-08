@@ -4,7 +4,7 @@
 
 > Sing\-along to your favorite songs from Disney Jr\. shows including music from SuperKitties.
 
-217 songs - 5 hr 36 min
+218 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [My Bath, My Bubbles and Me](https://open.spotify.com/track/0b01VtXleyxg2nxTomTmqg) | [SuperKitties \- Cast](https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: SuperKitties](https://open.spotify.com/album/1Xcthm7WfSRGy3WaYe7R02) | 1:06 | 2023-02-03 | 2023-08-19 |
 | [My Bath, My Bubbles and Me](https://open.spotify.com/track/3iSsbdnJwnCKlpSSKFZ29l) | [SuperKitties \- Cast](https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: SuperKitties](https://open.spotify.com/album/1sl5YQ3LHpZOmKx9mdNPdI) | 1:06 | 2023-01-27 | 2023-02-05 |
 | [My Bath, My Bubbles and Me](https://open.spotify.com/track/5ymLrgUBktYcb79BXlMfoj) | [SuperKitties \- Cast](https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: SuperKitties Su\-Purr Edition](https://open.spotify.com/album/5RghnhLU5w8Ludol7Bys33) | 1:06 | 2023-08-18 |  |
+| [My Favorite Food](https://open.spotify.com/track/2QYcUm1NSsuHO6e6xDMSQG) | [Kindergarten: The Musical \- Cast](https://open.spotify.com/artist/2bePrKPCqkcAE8rVdDDBxO), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Jr\. Music: Kindergarten: The Musical](https://open.spotify.com/album/0NpgeY8xKDEhpNVkYZCnCD) | 1:17 | 2025-04-07 |  |
 | [My Time](https://open.spotify.com/track/4zglWHeCshgQRaBmmMsoOj) | ["Elena Of Avalor" Cast](https://open.spotify.com/artist/0p6iNlkB41r1JtxZ3F6JMJ) | [Elena of Avalor \(Original Soundtrack\)](https://open.spotify.com/album/42OLLIcdDeCiLitu9o3FYw) | 2:31 | 2022-03-18 |  |
 | [Mystery in the Sky](https://open.spotify.com/track/5iKZAwDvrBQMCwJ7jnZjqG) | [Mira, Royal Detective \- Cast](https://open.spotify.com/artist/4wz6QHgIkdmvQwhEmzwWZj) | [Disney Junior Music: Mira, Royal Detective Vol\. 2](https://open.spotify.com/album/114Dr2e40MUQcClW6nEEK4) | 1:08 | 2022-03-18 |  |
 | [Never Too Late](https://open.spotify.com/track/2C068jzbxCUJIfDSYVq2RT) | ["Elena Of Avalor" Cast](https://open.spotify.com/artist/0p6iNlkB41r1JtxZ3F6JMJ) | [Disney Junior Music: Elena of Avalor \- A Royal Celebration](https://open.spotify.com/album/1KIyVsSMujyeSL8CROmi9I) | 3:35 | 2022-03-18 |  |

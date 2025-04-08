@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. Cover: izna \(이즈나\)
+> All your girl crushes\(걸크러쉬\) in one place\. Cover: FIFTY FIFTY
 
-529 songs - 1 day 3 hr 39 min
+530 songs - 1 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Addicted](https://open.spotify.com/track/2ffVhWaUuu5IRaoogJOGFz) | [PIXY](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) | [Fairyforest : Temptation](https://open.spotify.com/album/3999VmQrZOafu4NjYkc0rj) | 3:17 | 2021-10-13 | 2022-04-12 |
 | [Adios](https://open.spotify.com/track/5uHl2eYaITSX6xEX8bmaXy) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [HUSH](https://open.spotify.com/album/7tMpbKXDLlHPSCoPdF2OBv) | 3:09 | 2020-10-20 | 2022-04-21 |
 | [Adios](https://open.spotify.com/track/07IlTJZln2vfZtJ7vR4IMf) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Departure](https://open.spotify.com/album/3lj9479k4MvQckJEzhlZL7) | 3:20 | 2021-02-28 | 2022-04-18 |
-| [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 | 2022-08-22 |  |
+| [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 | 2022-08-22 | 2025-04-08 |
 | [AGASSY](https://open.spotify.com/track/2DkO9y7DB9S9nBg5u0VDoW) | [SOOJIN](https://open.spotify.com/artist/0kB3Vlf3xDNZQz6NjAPJV8) | [AGASSY](https://open.spotify.com/album/5FzkGrCoC8PIz1yz6oy8RK) | 2:45 | 2023-11-08 | 2024-01-09 |
 | [Air](https://open.spotify.com/track/6OOEQb3Su7Khcw9rDcJ07L) | [YEJI](https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m) | [AIR](https://open.spotify.com/album/23y79XSiFI1M0g9XcC3P42) | 3:14 | 2025-03-10 |  |
 | [Algorithm](https://open.spotify.com/track/26z9YaukqS3xtQm2fhm4UV) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Algorithm](https://open.spotify.com/album/2jvfjweOGDWg2P8VuPCp4G) | 2:27 | 2024-08-30 | 2024-10-16 |
@@ -151,7 +151,7 @@
 | [ESPER](https://open.spotify.com/track/1zJRBZUlkdfvSP1071YkZF) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [ESPER](https://open.spotify.com/album/6A2dUUgMfNcqklkYq7ehTo) | 3:12 | 2022-03-10 | 2022-05-28 |
 | [ESPRESSO](https://open.spotify.com/track/61iEzLnJzBnMwumWtn0nFp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:07 | 2021-11-19 | 2022-04-17 |
 | [ETA](https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:31 | 2023-07-25 | 2025-03-17 |
-| [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 | 2023-07-05 |  |
+| [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 | 2023-07-05 | 2025-04-08 |
 | [Fade Away 늘어진 우리의 연애](https://open.spotify.com/track/6NSIIaRoDgXEIwCFqyoJGw) | [SOYA](https://open.spotify.com/artist/37tYw03HDBaE0o4JtP2ZVc) | [Fade Away 늘어진 우리의 연애](https://open.spotify.com/album/4IN5uH5pjVSlZhbevpuu5T) | 3:06 | 2021-02-16 | 2022-04-19 |
 | [Fantasy](https://open.spotify.com/track/3p6tX23sAlkq2yAQ3Btq2B) | [PinkFantasy](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) | [Fantasy](https://open.spotify.com/album/5Z9TjiRFMhU5pbUvZJIXTB) | 3:24 | 2021-03-11 | 2022-04-13 |
 | [Fast Forward](https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu) | 2:40 | 2023-08-10 | 2023-11-11 |
@@ -220,7 +220,7 @@
 | [How You Like That](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:02 | 2022-07-25 | 2024-04-19 |
 | [HURRICANE](https://open.spotify.com/track/6oOQzwWhv7RW0QmuPupgQX) | [BADVILLAIN](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) | [HURRICANE](https://open.spotify.com/album/7sRIyO45mBnqimcG7Sk4k4) | 2:29 | 2024-06-24 | 2024-07-01 |
 | [HWAA](https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 3:17 | 2021-01-18 | 2022-07-29 |
-| [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-12 | 2025-04-07 |
+| [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-12 |  |
 | [I \(Feat\. DAWN\)](https://open.spotify.com/track/6md6ZAdNYB356gXFFW7GXV) | [Park Bom](https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt) | [I \(Feat\. DAWN\)](https://open.spotify.com/album/4yCLOlSNlSuwvzGVkYsLwU) | 3:53 | 2023-11-22 | 2024-01-09 |
 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 | 2023-04-20 | 2024-04-19 |
 | [I CAN'T STOP ME](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:25 | 2020-11-09 | 2025-03-05 |
@@ -357,6 +357,7 @@
 | [PANDORA](https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf) | [MAVE:](https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx) | [PANDORA'S BOX](https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz) | 3:16 | 2023-01-27 | 2023-07-19 |
 | [Party O'Clock](https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [A Midsummer NMIXX’s Dream](https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke) | 3:03 | 2023-07-12 | 2023-08-22 |
 | [Passionate Love 열A\-야](https://open.spotify.com/track/0OnrBE4rqwpul8IBSJrcB4) | [Kang xiwon](https://open.spotify.com/artist/2Y5wddf5A6jv6MVB6aH90e) | [SUPA DIVA](https://open.spotify.com/album/5dxaaGgyuZrfXjTWFKvuOZ) | 3:26 | 2021-03-01 | 2022-04-13 |
+| [Perfect Crime](https://open.spotify.com/track/4yJSTICwkb1yEHaTJwMtPJ) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Perfect Crime](https://open.spotify.com/album/5JhzWK5USSOibCz5xbwuKx) | 3:16 | 2025-04-07 |  |
 | [Pick Me Up](https://open.spotify.com/track/15cn8Ps4IGPzYZpa1dL8XC) | [KIARA](https://open.spotify.com/artist/4zgwEbAQXg18E1rgx4jeOb) | [Pick Me Up](https://open.spotify.com/album/6YEJlBkNryNhKhIWjvfmpN) | 3:16 | 2021-12-08 | 2022-07-24 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-19 | 2024-06-19 |
 | [PINK YOUR MOMENT](https://open.spotify.com/track/0Z4g9s48umnsfDYGKj7jOT) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [PINK YOUR MOMENT](https://open.spotify.com/album/0XJXxqADyzn0ed4QbTvsBD) | 2:57 | 2023-04-26 | 2023-05-17 |

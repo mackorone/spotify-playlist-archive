@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > a experimental mix of rock, punk, alt & indie\. Cover: Model/Actriz
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,966 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,987 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 30 | [ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 |
 | 31 | [Goon Show](https://open.spotify.com/track/7Exj4IIvicWakJsjdUDoXp) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Goon Show](https://open.spotify.com/album/4HZk7i5XbdWNM0pgiXm2Ut) | 5:06 |
 | 32 | [Afraid](https://open.spotify.com/track/0TesiDBRH4ZOatQf4OMuHA) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Afraid](https://open.spotify.com/album/4CFQDi0NqT2pCe2mcHi9Ut) | 2:40 |
-| 33 | [Ceathair](https://open.spotify.com/track/2vOMRmQ3Jlh5iA7krw6uXS) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Tír na nÓg](https://open.spotify.com/album/2iD7JYKrmAAT0erQWjkj96) | 5:20 |
-| 34 | [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 |
+| 33 | [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 |
+| 34 | [Ceathair](https://open.spotify.com/track/2vOMRmQ3Jlh5iA7krw6uXS) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Tír na nÓg](https://open.spotify.com/album/2iD7JYKrmAAT0erQWjkj96) | 5:20 |
 | 35 | [Running](https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Running](https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL) | 5:17 |
 | 36 | [Gift Horse](https://open.spotify.com/track/67CrKLE8d3Qhm4gcltiKs1) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [TANGK](https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p) | 4:09 |
 | 37 | [Starchild](https://open.spotify.com/track/2ONJqI5a3K4NCyc6Q8zJvm) | [Death By Unga Bunga](https://open.spotify.com/artist/3GbYOxp3xc7O9lpuJQRi9K), [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Raw Muscular Power](https://open.spotify.com/album/2BvKVJUekDhsnxW2jPBmxM) | 2:14 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 60 | [Le feu](https://open.spotify.com/track/2pVgoxeZhnCLyLDac0wc3Q) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Feu de garde](https://open.spotify.com/album/4mylCMxsXSVvUbnbK6N8Fn) | 3:50 |
 | 61 | [Smile](https://open.spotify.com/track/4H0waWcvFnIp4DRqV7kDHg) | [Wand](https://open.spotify.com/artist/53by9P3tpXOW1diWCI6MNu) | [Vertigo](https://open.spotify.com/album/6sjjo0VgBM2jFk5mIcnGPX) | 6:29 |
 | 62 | [Maybe Maybe](https://open.spotify.com/track/256MAkjR6G8bj14WM3whE0) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4) | [I Promise](https://open.spotify.com/album/0OICGkWLi8mHWn6fQIOPpo) | 2:53 |
-| 63 | [Return](https://open.spotify.com/track/3481DrT3d5MZXjo5sa11TO) | [No Windows](https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr) | [Return](https://open.spotify.com/album/2MEIAI8ldOUBT4qaRRkW8y) | 3:02 |
-| 64 | [Earthling](https://open.spotify.com/track/5scSMxJz1jQfgJDPVGgZ8l) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh), [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS) | [Earthling](https://open.spotify.com/album/3hexPg1F7lMWXJFDpHSlOQ) | 3:31 |
+| 63 | [Earthling](https://open.spotify.com/track/5scSMxJz1jQfgJDPVGgZ8l) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh), [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS) | [Earthling](https://open.spotify.com/album/3hexPg1F7lMWXJFDpHSlOQ) | 3:31 |
+| 64 | [Return](https://open.spotify.com/track/3481DrT3d5MZXjo5sa11TO) | [No Windows](https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr) | [Return](https://open.spotify.com/album/2MEIAI8ldOUBT4qaRRkW8y) | 3:02 |
 | 65 | [Blue Kite](https://open.spotify.com/track/1wcO4LAHHq4swYyAGsDEbi) | [Crack Cloud](https://open.spotify.com/artist/10butpS2A0V5nRIu2YDrKI) | [Red Mile](https://open.spotify.com/album/6VD4YOtrGNaVfGoIetOqHb) | 6:11 |
 | 66 | [Moving On](https://open.spotify.com/track/1Of3zosPbcRV7ivFZzjIta) | [Pissed Jeans](https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V) | [Half Divorced](https://open.spotify.com/album/4oTZaBT6SoZ9NURR8p42xr) | 4:28 |
 | 67 | [Itch](https://open.spotify.com/track/0V2HSaP1Ggp3QJfkEziLAH) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Itch](https://open.spotify.com/album/0KE59HJHyCa6otEhuSLtOt) | 2:24 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 84 | [Going In Circles](https://open.spotify.com/track/1KvaKJyIhoIIL0fI7PTSOA) | [GIFT](https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op) | [Going In Circles](https://open.spotify.com/album/4LF7YJLUCR9Y10SuaypEY0) | 3:35 |
 | 85 | [Burn It Away](https://open.spotify.com/track/69bJGbmDoTzpgbrfsuF2Ii) | [Will Butler + Sister Squares](https://open.spotify.com/artist/2PoDtU1peduJm6HDYtNuaj), [Will Butler](https://open.spotify.com/artist/1POwuKLQ9xhMZzIYElNtWp), [Sister Squares](https://open.spotify.com/artist/1TOW2EEmDmqHe2i7gt2NLZ) | [Burn It Away](https://open.spotify.com/album/32tuGofvxiyOCpx1SfoNBj) | 4:04 |
 | 86 | [Hourglass](https://open.spotify.com/track/4xz812KZKSW4AewiBoYWWP) | [CIVIC](https://open.spotify.com/artist/7ATw5ZiG6dfYFUUVpCsyFe) | [Hourglass](https://open.spotify.com/album/6YN3jTgx4d03QBgLgeSBPu) | 4:02 |
-| 87 | [I Wanna Be On Your Mind](https://open.spotify.com/track/57YrZGiM3VeXV1jWWSuuwD) | [2nd Grade](https://open.spotify.com/artist/6mG7RLvtGBHIg4jdb8urYb) | [I Wanna Be On Your Mind](https://open.spotify.com/album/3eBSE3aibxYGrWQNCpTTFa) | 2:28 |
-| 88 | [Cockpit](https://open.spotify.com/track/2sDNl24Qmjani2isK1xm5R) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Cockpit](https://open.spotify.com/album/0gkzzfLU4VvSrpakV6IM8i) | 4:16 |
+| 87 | [Cockpit](https://open.spotify.com/track/2sDNl24Qmjani2isK1xm5R) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Cockpit](https://open.spotify.com/album/0gkzzfLU4VvSrpakV6IM8i) | 4:16 |
+| 88 | [I Wanna Be On Your Mind](https://open.spotify.com/track/57YrZGiM3VeXV1jWWSuuwD) | [2nd Grade](https://open.spotify.com/artist/6mG7RLvtGBHIg4jdb8urYb) | [I Wanna Be On Your Mind](https://open.spotify.com/album/3eBSE3aibxYGrWQNCpTTFa) | 2:28 |
 | 89 | [Default Parody](https://open.spotify.com/track/1H92yQ4R0sreZR0kDvTE2s) | [Drahla](https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR) | [Default Parody](https://open.spotify.com/album/2zHGFKgsqN5tYmpPGoxWK8) | 3:27 |
 | 90 | [Big Dogs](https://open.spotify.com/track/6kkRGWw1IlO0VboVlZPMah) | [Sour Widows](https://open.spotify.com/artist/5NvbTsi0Mi1mdeDchU2YkG) | [Big Dogs](https://open.spotify.com/album/1gC7edlkh3u9AvdG9hUfRX) | 5:31 |
 | 91 | [Cosmic Leash](https://open.spotify.com/track/0irMOFfqBjlDPZXKL3v9XH) | [Chris Farren](https://open.spotify.com/artist/6wnLSjE93qaj9uf3rVaM3N) | [Cosmic Leash](https://open.spotify.com/album/6P2EWBqxU91oy4ydMRQyOt) | 4:41 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 96 | [Stare At The Sun](https://open.spotify.com/track/0dNuX5ft4fSSgKsRau3JEP) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Stare At The Sun](https://open.spotify.com/album/238Qlq3yh7LNfO3e5TD1uu) | 3:32 |
 | 97 | [Gold](https://open.spotify.com/track/2EonwBGjylKZocutExSRzY) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Gold](https://open.spotify.com/album/41Thjpf8tfM3U0UHwrP0EK) | 4:19 |
 | 98 | [Tongues ii](https://open.spotify.com/track/5hsiKHlyGKPgJgxKRzU01O) | [Slomo Sapiens](https://open.spotify.com/artist/1TDdS4QH1Z5hNQNe4YeM3Q) | [Tongues ii](https://open.spotify.com/album/39eb7GTOFKzbixXcKZBA3p) | 5:36 |
-| 99 | [Hourglass](https://open.spotify.com/track/5Hbsyi33p4eptpcTAqNHm8) | [Celebrity Sighting](https://open.spotify.com/artist/1oK8ZGSUkLNP1WADzLSJe4) | [...They're Just Like Us](https://open.spotify.com/album/1eTHV7oC89Y0wJKICTwEX1) | 2:19 |
-| 100 | [Four Leaf Clover](https://open.spotify.com/track/1DcwU4YZNlruivfMakFEJC) | [Color Green](https://open.spotify.com/artist/42Aj8msFQ4idllOK09Jj8Z) | [Four Leaf Clover](https://open.spotify.com/album/7CftsuUoHUasICQmRA44xB) | 4:34 |
+| 99 | [Four Leaf Clover](https://open.spotify.com/track/1DcwU4YZNlruivfMakFEJC) | [Color Green](https://open.spotify.com/artist/42Aj8msFQ4idllOK09Jj8Z) | [Four Leaf Clover](https://open.spotify.com/album/7CftsuUoHUasICQmRA44xB) | 4:34 |
+| 100 | [Hourglass](https://open.spotify.com/track/5Hbsyi33p4eptpcTAqNHm8) | [Celebrity Sighting](https://open.spotify.com/artist/1oK8ZGSUkLNP1WADzLSJe4) | [...They're Just Like Us](https://open.spotify.com/album/1eTHV7oC89Y0wJKICTwEX1) | 2:19 |
 
 Snapshot ID: `Z75NPgAAAADKyx5Q4hQ1KZPqWWlAFCuu`

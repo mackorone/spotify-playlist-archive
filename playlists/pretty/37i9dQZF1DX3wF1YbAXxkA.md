@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 
 > The official soundtrack for EA SPORTS FC 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,347 likes - 114 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,447 likes - 114 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 | 47 | [Trouble](https://open.spotify.com/track/1tuAG0SRJUvRCUEU3O7c3j) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Owl Eyes](https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f) | [Trouble](https://open.spotify.com/album/7rmPhckC8SMZBnA12dbAWz) | 3:20 |
 | 48 | [Cards On The Table](https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Cards On The Table](https://open.spotify.com/album/3QOKfNss8qymLZprTy2jox) | 2:56 |
 | 49 | [King of Sweden](https://open.spotify.com/track/3UBUSMQXobHQMXkKsv9dgy) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [King of Sweden](https://open.spotify.com/album/7IqORU6gxOldCJUbQP1Bf8) | 4:11 |
-| 50 | [God Gave Me Feet For Dancing \- feat\. Yazmin Lacey](https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe) | 3:59 |
-| 51 | [Gardens III](https://open.spotify.com/track/52Howm9AUZTymhgCKoF4O5) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Ultra 85](https://open.spotify.com/album/6vVOpqIXPbM9vZWzesdTax) | 5:14 |
-| 52 | [Shook Up](https://open.spotify.com/track/1lF2SRGtxswe1MZvRRvgTA) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Shook Up](https://open.spotify.com/album/3vfUmX8ynO8GEdo45M5KHN) | 2:36 |
+| 50 | [Gardens III](https://open.spotify.com/track/52Howm9AUZTymhgCKoF4O5) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Ultra 85](https://open.spotify.com/album/6vVOpqIXPbM9vZWzesdTax) | 5:14 |
+| 51 | [Shook Up](https://open.spotify.com/track/1lF2SRGtxswe1MZvRRvgTA) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Shook Up](https://open.spotify.com/album/3vfUmX8ynO8GEdo45M5KHN) | 2:36 |
+| 52 | [God Gave Me Feet For Dancing \- feat\. Yazmin Lacey](https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe) | 3:59 |
 | 53 | [Call](https://open.spotify.com/track/1nNqKHLoMMzpQNhsZihMgC) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Call](https://open.spotify.com/album/0T8Y7EDE0nHQOVHq0rCZXu) | 2:30 |
 | 54 | [Vem](https://open.spotify.com/track/2Ga6DGCB9Lt5b8ls5UCSNp) | [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Vem](https://open.spotify.com/album/4DOhTRGHx7Y3xoIRgbFyAR) | 2:55 |
 | 55 | [Tainted](https://open.spotify.com/track/6TMNz3UL1piuHox8CNvtgr) | [Dpart](https://open.spotify.com/artist/0k9fRHTbRsLI6w0qYbGzO9), [Niall T](https://open.spotify.com/artist/7moBHCptFUmIhDYr9B2H0X) | [Tainted](https://open.spotify.com/album/52M151r9w3K3vSlpBv4k6h) | 3:01 |

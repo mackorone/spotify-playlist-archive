@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,362 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,443 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 6 | [Bundle By Bundle](https://open.spotify.com/track/2gtg4jTNUqC4akFqWZZXcV) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Bundle By Bundle](https://open.spotify.com/album/3ViLRtCLd9pxkZ2w25hFwK) | 2:56 |
 | 7 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 |
 | 8 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 |
-| 9 | [Update](https://open.spotify.com/track/1ZedegcFMjMTyIngsQbXjb) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Update](https://open.spotify.com/album/4iPMVG9LtYQ2ENLIglSo7B) | 3:27 |
-| 10 | [Alone](https://open.spotify.com/track/0AoBY2Y3qs6dtGgOD6c91N) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:41 |
+| 9 | [Alone](https://open.spotify.com/track/0AoBY2Y3qs6dtGgOD6c91N) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:41 |
+| 10 | [Update](https://open.spotify.com/track/1ZedegcFMjMTyIngsQbXjb) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Update](https://open.spotify.com/album/4iPMVG9LtYQ2ENLIglSo7B) | 3:27 |
 | 11 | [Be Honest \(feat\. Burna Boy\)](https://open.spotify.com/track/5pAbCxt9e3f81lOmjIXwzd) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Be Honest \(feat\. Burna Boy\)](https://open.spotify.com/album/4d2oTHRFwGifGFgve7zSGC) | 3:27 |
 | 12 | [Last Last](https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:52 |
 | 13 | [On the Low](https://open.spotify.com/track/1zIk8RJEKGvoH4FioFnGyJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 49 | [Jerusalema \(feat\. Burna Boy & Nomcebo Zikode\) \- Remix](https://open.spotify.com/track/1dmES1X8l1AnFBy2gR3wYA) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Jerusalema \(Deluxe\)](https://open.spotify.com/album/4Kf2NqytdWUKXgnvsRVlLR) | 5:28 |
 | 50 | [Masculine \(feat\. Burna Boy\)](https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:24 |
 
-Snapshot ID: `Z/BygAAAAAB+ATnnSD18s90L2QyJv2H2`
+Snapshot ID: `Z/HEAAAAAAAylj/tZPcof66O5FdnPAH6`

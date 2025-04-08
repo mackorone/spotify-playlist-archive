@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlJG7YPUBHF.md) - [plain]
 
 > Face\-melters only\. Cover: Eddie Van Halen
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,511,464 likes - 50 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,511,641 likes - 50 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

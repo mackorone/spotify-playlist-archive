@@ -4,7 +4,7 @@
 
 > Today's top Latin hits, elevando nuestra música\. Cover: Eladio Carrion
 
-789 songs - 1 day 18 hr 6 min
+790 songs - 1 day 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,7 @@
 | [GRACIAS POR NADA](https://open.spotify.com/track/7dinxNQg4Pfl2ahvMRenBQ) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [GRACIAS POR NADA](https://open.spotify.com/album/1dqTVJ6xNIAG1GQZ7PGssr) | 3:39 | 2022-02-25 | 2022-04-16 |
 | [GRAN VÍA](https://open.spotify.com/track/2kQ1OvmMzs1xdlH020aJJh) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [BUENAS NOCHES](https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh) | 3:33 | 2024-11-29 | 2025-02-01 |
 | [GTA.mp3](https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [GTA.mp3](https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2) | 2:31 | 2023-09-08 | 2023-11-04 |
-| [H.I.M.](https://open.spotify.com/track/1raPPxkstNnTmg6EmFCX0j) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [H.I.M.](https://open.spotify.com/album/6ZQICkkwdOzHuS8OHYIGxF) | 2:10 | 2025-04-04 |  |
+| [H.I.M.](https://open.spotify.com/track/1raPPxkstNnTmg6EmFCX0j) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [H.I.M.](https://open.spotify.com/album/6ZQICkkwdOzHuS8OHYIGxF) | 2:10 | 2025-04-04 | 2025-04-08 |
 | [HABLAME CLARO](https://open.spotify.com/track/6ZCfGA0bPM50DPmcSlJKGY) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [HABLAME CLARO](https://open.spotify.com/album/2uAs0cfev3WKGaotTsREhI) | 2:34 | 2024-09-13 | 2024-11-09 |
 | [HARLEY QUINN](https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:23 | 2023-10-27 | 2024-03-02 |
 | [Hasta Aquí Llegué](https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Hasta Aquí Llegué](https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5) | 3:08 | 2024-08-16 | 2024-11-09 |
@@ -751,6 +751,7 @@
 | [Vaquero \- Remix](https://open.spotify.com/track/7l3UuUZEqvxjhKYD2QBxOU) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Andres Castillo](https://open.spotify.com/artist/6swtbYCVvjJIjCb5MWaIT2), [La Dinastia](https://open.spotify.com/artist/4HUY0hELnxz4RC6VvJzRyc), [Riky Produce](https://open.spotify.com/artist/74mXQ4kCTwvcY9FtSrNm9c) | [Vaquero \- Remix](https://open.spotify.com/album/6BmfAaHoSJ7efARgJTLrAt) | 5:00 | 2024-08-30 | 2024-10-05 |
 | [VeLDÁ](https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:55 | 2025-01-10 | 2025-01-18 |
 | [VENTE CONMIGO](https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [VENTE CONMIGO](https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB) | 3:06 | 2023-08-04 | 2023-09-30 |
+| [Vetements](https://open.spotify.com/track/4gpmLUDfGsswNteXyGJOqP) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Vetements](https://open.spotify.com/album/3AyNcukkt0jcB2OrkqjXLG) | 3:20 | 2025-04-07 |  |
 | [Viaje](https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Viaje](https://open.spotify.com/album/2Bm9LtZ5cQoxNmrHhqQtjO) | 5:03 | 2022-10-14 | 2023-01-06 |
 | [Vida Gangster](https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [Vida Gangster](https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX) | 2:50 | 2023-03-17 | 2023-07-15 |
 | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR) | 3:07 | 2022-06-17 | 2022-11-12 |

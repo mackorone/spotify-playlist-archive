@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVRCxkZCaEUc.md) - [plain]
 
 > windows down, elbows out & bass UP ⬆️ rap + r&b anthems for your commute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,042 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,051 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVRCxkZCaEUc.md) - [plain]
 | 69 | [Juicy \- 2005 Remaster](https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \(The Remaster\)](https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2) | 5:02 |
 | 70 | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) | 3:07 |
 | 71 | [What's Luv? \(feat\. Ja\-Rule & Ashanti\)](https://open.spotify.com/track/2mKouqwAIdQnMP43zxR89r) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Jealous Ones Still Envy \(J.O.S.E\)](https://open.spotify.com/album/6vMgb2mih3pPiWUxF8VEdI) | 4:27 |
-| 72 | [Forever Yours](https://open.spotify.com/track/2JqkpMe2eJToJNHEqkJeCu) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 1:36 |
-| 73 | [So Fresh, So Clean](https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:00 |
-| 74 | [Yeah Glo!](https://open.spotify.com/track/5A8xI7PN4WDe9e61xEdt94) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 2:22 |
+| 72 | [So Fresh, So Clean](https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:00 |
+| 73 | [Yeah Glo!](https://open.spotify.com/track/5A8xI7PN4WDe9e61xEdt94) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 2:22 |
+| 74 | [Forever Yours](https://open.spotify.com/track/2JqkpMe2eJToJNHEqkJeCu) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 1:36 |
 | 75 | [Spinnin \(feat\. Nemzzz\) \- Segway Remix](https://open.spotify.com/track/5H7JrQsT47tMwNFiPLSnEi) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Segway](https://open.spotify.com/artist/7emE9DFe8qmCjk4Od7Ruak) | [SPINNIN \(Segway Remix\)](https://open.spotify.com/album/30fTwlAHWOXQD3xjykulWu) | 2:42 |
 
 Snapshot ID: `Z7aQvAAAAADter2uzP7kLVBYT9HMWOEJ`

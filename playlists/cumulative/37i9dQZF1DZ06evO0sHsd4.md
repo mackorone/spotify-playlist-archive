@@ -4,7 +4,7 @@
 
 > This is Jasiel Nuñez\. The essential tracks, all in one playlist.
 
-58 songs - 2 hr 58 min
+59 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [CALIFORNIA SUNSET](https://open.spotify.com/track/7Jw2UlbClhyuWzmfv9yWtD) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 3:03 | 2024-11-10 |  |
 | [Cielo Eterno](https://open.spotify.com/track/2kbVIAXEqZybRPxLUvqx0q) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Cielo Eterno \- Spotify Singles](https://open.spotify.com/album/2t1sBdEdduEEpw4fQo4mme) | 4:04 | 2024-08-30 |  |
 | [Corazón Frío](https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Corazón Frío](https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1) | 4:23 | 2024-08-08 |  |
-| [Donde Estamos Hoy](https://open.spotify.com/track/2KTDrrv2xh8pjb2DgQmj6A) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/1EwUWq8uTZHRoAfnmo51W7) | 2:42 | 2024-08-08 |  |
+| [Donde Estamos Hoy](https://open.spotify.com/track/2KTDrrv2xh8pjb2DgQmj6A) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/1EwUWq8uTZHRoAfnmo51W7) | 2:42 | 2024-08-08 | 2025-04-08 |
+| [Donde Estamos Hoy](https://open.spotify.com/track/4PmB3C9y4zsTuRgz91JUHD) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 2:42 | 2025-04-08 |  |
 | [En Mi Mundo](https://open.spotify.com/track/46wSVrQx60Qmv4y4f4GIsq) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/1EwUWq8uTZHRoAfnmo51W7) | 4:06 | 2024-08-08 | 2024-11-10 |
 | [EN MI MUNDO](https://open.spotify.com/track/0lQogzZgV4XwuUTasz3nPL) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 5:07 | 2024-11-10 |  |
 | [EPA](https://open.spotify.com/track/30hjAIB08HXjBbEHgR1sAq) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [EPA](https://open.spotify.com/album/4jG0S9k29ovli79Un9ojOq) | 2:57 | 2024-08-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック  Ed Sheeran, Elton John & Brandi Carlile, PinkPantheress, Wet Leg,  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,843 likes - 86 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,865 likes - 86 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

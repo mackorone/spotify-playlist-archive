@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXyq4CJGeZ5.md) - [plain]
 
 > Piano music for fall vibes and autumnal moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,031 likes - 226 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,030 likes - 226 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXyq4CJGeZ5.md) - [plain]
 | 32 | [Blue Skies Are Coming](https://open.spotify.com/track/29WaVQCJPqk7thJmKPNhQv) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [Lupi](https://open.spotify.com/album/5NMoaa8SgFEwrCKK3gJN68) | 2:52 |
 | 33 | [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 |
 | 34 | [Sequoia](https://open.spotify.com/track/0w5Kd5Vqg37VZupZCEZVhi) | [Amos Coelllo](https://open.spotify.com/artist/2YbV6GhzqjW9j2ebq8ua5X) | [Sequoia](https://open.spotify.com/album/6cczip33Jhl51tkYf5tS8E) | 2:46 |
-| 35 | [Impressions](https://open.spotify.com/track/2IxfYyUQFZWoopvcfOmKnV) | [Joseph Vaux](https://open.spotify.com/artist/3xeLXw1KYDFIZlod0XGHr1) | [Impressions](https://open.spotify.com/album/319m1F9IJTZ6ups51e1m4N) | 2:43 |
-| 36 | [Apart](https://open.spotify.com/track/1Eqlx3dtG65l9KI0uF3zuP) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Apart](https://open.spotify.com/album/0dIFaSYu3tI7NohFzFf3sr) | 3:01 |
+| 35 | [Apart](https://open.spotify.com/track/1Eqlx3dtG65l9KI0uF3zuP) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Apart](https://open.spotify.com/album/0dIFaSYu3tI7NohFzFf3sr) | 3:01 |
+| 36 | [Impressions](https://open.spotify.com/track/2IxfYyUQFZWoopvcfOmKnV) | [Joseph Vaux](https://open.spotify.com/artist/3xeLXw1KYDFIZlod0XGHr1) | [Impressions](https://open.spotify.com/album/319m1F9IJTZ6ups51e1m4N) | 2:43 |
 | 37 | [Where Stars Are Born](https://open.spotify.com/track/5hWiDRCRKtf8TDpoX1Idk4) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [Where Stars Are Born](https://open.spotify.com/album/37eYaKUwjBSJaO15PIrc7L) | 3:07 |
 | 38 | [Synchronicity](https://open.spotify.com/track/0nk3vSKIYGQV6CK6pShUDQ) | [Ellie\-May Robertson](https://open.spotify.com/artist/7Ce1uDyyat0uJpzu7CDaEI) | [Synchronicity](https://open.spotify.com/album/3K5o4pXNsxdxW8MEn2jtel) | 2:30 |
 | 39 | [Lämna](https://open.spotify.com/track/3CQN71R8GSjtdBKodHBai2) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Lämna](https://open.spotify.com/album/3KGZgOnsQPjHYVHF4vAMni) | 3:15 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXyq4CJGeZ5.md) - [plain]
 | 47 | [Mitternacht](https://open.spotify.com/track/61LRf67gHGilGO4DbIecZz) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Mitternacht](https://open.spotify.com/album/0LZwgyNIT6ZFHBSUGwAz39) | 2:35 |
 | 48 | [For Kate](https://open.spotify.com/track/4uNQlDhz4fIKvjvdSESKou) | [Ed Chinaski](https://open.spotify.com/artist/1uiURs2L2yxv1vr5vGwbSt) | [For Kate](https://open.spotify.com/album/1eGuJ5nZme9vfMMyb5B07S) | 2:17 |
 | 49 | [Little blue girl](https://open.spotify.com/track/3pj9S5PnK0mEDIsjuCFr9U) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Little blue girl](https://open.spotify.com/album/0XGqrSEMHcsJTSuhdn8IbA) | 2:47 |
-| 50 | [Merci et Désolé](https://open.spotify.com/track/4v2zzo3kQO0zSniW39Qc6b) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Merci et Désolé](https://open.spotify.com/album/4lt8DDWZ1cVzGVAVTnXq09) | 2:45 |
-| 51 | [Pourquoi](https://open.spotify.com/track/23DPhQu9w09Vc4PkAd3zv2) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Pourquoi](https://open.spotify.com/album/1OWuvV6W1ajl6Lp0Lncp4Z) | 2:58 |
+| 50 | [Pourquoi](https://open.spotify.com/track/23DPhQu9w09Vc4PkAd3zv2) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Pourquoi](https://open.spotify.com/album/1OWuvV6W1ajl6Lp0Lncp4Z) | 2:58 |
+| 51 | [Merci et Désolé](https://open.spotify.com/track/4v2zzo3kQO0zSniW39Qc6b) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Merci et Désolé](https://open.spotify.com/album/4lt8DDWZ1cVzGVAVTnXq09) | 2:45 |
 | 52 | [Evening Inn](https://open.spotify.com/track/04GkZnxmBFf8GXBvIGkAzj) | [Corinne Beilinson](https://open.spotify.com/artist/4HZ8y4n8CYXv5BaEY1ILKi) | [Chasing Grace](https://open.spotify.com/album/2MTntXzOQRcmBk44uL87ed) | 2:15 |
 | 53 | [Nuxe](https://open.spotify.com/track/6h0V5bM7dDmwvrrmqHVlPE) | [Valla](https://open.spotify.com/artist/1nrQ489GYy77LqrmBOmtfh) | [lachlan](https://open.spotify.com/album/4upy9Hil2WVSEwu8eYEVWB) | 2:18 |
 | 54 | [Herz gebrochen](https://open.spotify.com/track/2x6qK1oorFfWjIZ9bRf1MZ) | [Frida Frisk](https://open.spotify.com/artist/7xLTHxwZlyswxyMpdZzI8C) | [Herz gebrochen](https://open.spotify.com/album/6MMQUxAJVvAbp1Vi3Rx2oL) | 2:14 |

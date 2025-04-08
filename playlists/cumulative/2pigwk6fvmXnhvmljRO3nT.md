@@ -4,7 +4,7 @@
 
 > 
 
-6,569 songs - 17 day 4 hr 23 min
+6,570 songs - 17 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3880,6 +3880,7 @@
 | [Player's Ball](https://open.spotify.com/track/1RXEb6UTxJ05RffnAWfUOE) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 4:21 | 2025-01-15 |  |
 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2024-12-14 |  |
 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 | 2024-12-14 |  |
+| [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2025-04-07 |  |
 | [Please Shut Up \(feat\. A$AP Rocky, KEY! & Gucci Mane\)](https://open.spotify.com/track/3LyNsopPP3hXf8bZBE7cDk) | [A$AP Mob](https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [KEY!](https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Cozy Tapes Vol\. 2: Too Cozy](https://open.spotify.com/album/0qr1Fvi1haEDWVbFtekZLb) | 3:30 | 2024-12-05 |  |
 | [Plug and Play](https://open.spotify.com/track/3sGzxUaKtRJh3o7dvTbrPb) | [KARUT](https://open.spotify.com/artist/2RVXnU56kIClg1UbAW9ehz) | [Blue Archive 1st Anniversary \(Original Soundtrack\)](https://open.spotify.com/album/1SSgN0kVcWjFGkqMq8zdvz) | 2:07 | 2025-03-08 |  |
 | [Plug Walk](https://open.spotify.com/track/1ZAyjvIk9YiD76yYy0TEG6) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [The World Is Yours](https://open.spotify.com/album/1Hno6CtKbaFNAEPjRHDrc6) | 2:55 | 2025-01-15 |  |
@@ -6323,7 +6324,6 @@
 | [내가 저지른 사랑](https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [I'M](https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa) | 3:58 | 2025-01-03 |  |
 | [내게 오는 길 \- Bonus Track](https://open.spotify.com/track/5rfOHC8IMqyvqAi4TUrnsn) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [처음처럼](https://open.spotify.com/album/2Pgvz4Apdr3ORROIaW2ZdH) | 3:59 | 2025-01-15 |  |
 | [내게 와 줘](https://open.spotify.com/track/5n6XDt43EpXIVxt1pyslIj) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) | [Un Urbanite](https://open.spotify.com/album/6ULNJ3uohkBFzsHLowkS12) | 4:21 | 2025-01-15 |  |
-| [내곁에서 떠나가지 말아요](https://open.spotify.com/track/5Fueys8hH4sRnRrDa1l8GR) | [Light & Salt](https://open.spotify.com/artist/0jhgI3xU8n2o1W6EOw9dIf) | [빛과 소금 \(꿈\)](https://open.spotify.com/album/7cyTBPJPne4c6pJPedwZDO) | 4:19 | 2025-01-03 |  |
 | [내생에 봄날은...](https://open.spotify.com/track/5WnA63jyZTbKL9PeDaWh9O) | [CAN](https://open.spotify.com/artist/2c1h7Xz5KxOeVuwfz8HTGQ) | [Can With Piano](https://open.spotify.com/album/4mOrf2rLfLAVuiKIxEyMtE) | 4:02 | 2024-12-14 |  |
 | [너를 보내고 Ⅱ](https://open.spotify.com/track/328sKlO92L7JZX0luc9Sey) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [가을 우체국 앞에서](https://open.spotify.com/album/78rKb6IVqCQRpfQPBJwKTt) | 3:57 | 2025-01-15 |  |
 | [너를 보내고\(윤도현\)](https://open.spotify.com/track/4surMkWZGQqb9NHcD80o7K) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [나홀로 가는 음악 여행](https://open.spotify.com/album/0imqY8D6dAITenfIOZUBib) | 3:57 | 2025-01-15 |  |
@@ -6371,6 +6371,7 @@
 | [먼 훗날](https://open.spotify.com/track/7s5wLBop2stFi3ESiULbeO) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) | [Destitute](https://open.spotify.com/album/5n7H2BKGE34RggAeZOFbin) | 3:53 | 2025-01-15 |  |
 | [먼지가 되어](https://open.spotify.com/track/0TjV6Zi66f2ARFRsfd76Jr) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 Best](https://open.spotify.com/album/3xhQDmoeVwZG4giwQ2xQFF) | 3:26 | 2025-01-03 |  |
 | [멀어져간 사람아](https://open.spotify.com/track/3qm6FaibNnvv1jKZ77U31F) | [Park Sang Min](https://open.spotify.com/artist/7nbE2lMt1tbp5y3Uivn0bu) | [Park Sang Min Best Album](https://open.spotify.com/album/4AWlmtbSmAs8DUjrg1g4Ua) | 4:39 | 2025-01-15 |  |
+| [모터 사이클 \- inst.](https://open.spotify.com/track/5Fueys8hH4sRnRrDa1l8GR) | [Light & Salt](https://open.spotify.com/artist/0jhgI3xU8n2o1W6EOw9dIf) | [내곁에서 떠나가지 말아요](https://open.spotify.com/album/7cyTBPJPne4c6pJPedwZDO) | 4:13 | 2025-01-03 |  |
 | [못난이 컴플렉스](https://open.spotify.com/track/2ODg2QoLSHT8LUjEbiPC5s) | [YTC](https://open.spotify.com/artist/6IbJD9PQK5n7etiYsu0fi7) | [1집\-정](https://open.spotify.com/album/6zYo3j6F026UDXTw6is0kU) | 3:48 | 2025-01-15 |  |
 | [못다핀 꽃 한송이](https://open.spotify.com/track/6JA1N57f3ShTGJJsy4MXFS) | [Kim Kyung Ho](https://open.spotify.com/artist/15Tra1ytu0naoNByIhZArl) | [나는 가수다 경연 15\-1](https://open.spotify.com/album/2mR4WleOdvPndMw7FDo7iz) | 4:57 | 2025-01-03 |  |
 | [못다핀 꽃한송이](https://open.spotify.com/track/4FG1uHQAVPsYiXIn3tcGRs) | [김수철](https://open.spotify.com/artist/0EmfHeitNJW1MjPBVvy8uR) | [못다핀 꽃한송이](https://open.spotify.com/album/0OG7Sc2UuT3Im3tXeu1UMg) | 3:09 | 2025-01-15 |  |
@@ -6437,7 +6438,7 @@
 | [사진속에담긴추억](https://open.spotify.com/track/41YnkHBTRaWGIx9JhtEdho) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [임재범1집](https://open.spotify.com/album/5bRAb4iY8eF180lWtfsd2n) | 3:28 | 2025-01-03 |  |
 | [살다가](https://open.spotify.com/track/0qqHi5iyYkcbvCpnWwHKLl) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [살다가](https://open.spotify.com/album/0BneVJK0dUlj0q9RRjADQe) | 4:43 | 2025-01-15 |  |
 | [새들처럼](https://open.spotify.com/track/6T7ou259GBVcC3bOCjiFwP) | [Byun Jin\-Sub](https://open.spotify.com/artist/19TSeYJNZVClzoWb6hUVr7) | [변진섭 GREAT HITS](https://open.spotify.com/album/3XkxLUi2NnZfMBDExgQ34M) | 4:16 | 2024-12-14 |  |
-| [샴푸의 요정](https://open.spotify.com/track/6V9C5rcCQkf3eJSmcAkCf4) | [Light & Salt](https://open.spotify.com/artist/0jhgI3xU8n2o1W6EOw9dIf) | [빛과 소금](https://open.spotify.com/album/43StLW2LdY30M1GIf7xSh7) | 3:47 | 2025-01-03 |  |
+| [샴푸의 요정](https://open.spotify.com/track/6V9C5rcCQkf3eJSmcAkCf4) | [Light & Salt](https://open.spotify.com/artist/0jhgI3xU8n2o1W6EOw9dIf) | [빛과 소금 1](https://open.spotify.com/album/43StLW2LdY30M1GIf7xSh7) | 3:47 | 2025-01-03 |  |
 | [서른 즈음에](https://open.spotify.com/track/22hQftFZWw1XIowMmT8tAP) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 4집 리마스터링앨범](https://open.spotify.com/album/1Yk9jrcx4JQpSmyqpvakvV) | 4:42 | 2025-01-03 |  |
 | [서시](https://open.spotify.com/track/2L7BInu08uxTbnSUPUMcAc) | [신성우](https://open.spotify.com/artist/1MIfKoCxp9GZlygivx6gMG) | [서시](https://open.spotify.com/album/0sYbKlWmO3Ze6lJGUpis6d) | 3:43 | 2025-01-15 |  |
 | [서쪽 하늘](https://open.spotify.com/track/2wKnGjAnQxH9rFDiTSBTyp) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [청연 \(Original Soundtrack\)](https://open.spotify.com/album/51Up0SNMGyG6lWKPM7bJ5X) | 4:03 | 2025-01-03 |  |
@@ -6479,7 +6480,7 @@
 | [영원](https://open.spotify.com/track/7Fi8gr20s1CngYWJFUL27m) | [SKY](https://open.spotify.com/artist/0w93fGITMF8hyPxVkh2AU5) | [Final Fantasy \-The Best Is Yet To Come](https://open.spotify.com/album/5iIizqydJAR7YYItY7kSwe) | 4:33 | 2025-01-15 |  |
 | [옛 사랑](https://open.spotify.com/track/4ceWmKRPe3PGXz4ZyEt3le) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [이문세 7집 VII](https://open.spotify.com/album/0AtA5WA9wdMmoaIGjPobJ5) | 4:46 | 2025-01-03 |  |
 | [옛사랑](https://open.spotify.com/track/4bIXDxPN1ddswIpU8WstIT) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [독창회 1981\-1999](https://open.spotify.com/album/3qz7MykVuwkGdyI24VfDYF) | 4:37 | 2025-01-03 |  |
-| [오늘같은 밤이면](https://open.spotify.com/track/6yOlcQulu1zEg0vBRIyVL9) | [Park Jungwoon](https://open.spotify.com/artist/3tn8Fgx0RgS2Peo0juHV0h) | [박정운 Live & Single](https://open.spotify.com/album/0dE8ws1ojmSQeVRWVolDPG) | 4:54 | 2025-01-15 |  |
+| [오늘 같은 밤이면 \- Live](https://open.spotify.com/track/6yOlcQulu1zEg0vBRIyVL9) | [Park Jungwoon](https://open.spotify.com/artist/3tn8Fgx0RgS2Peo0juHV0h) | [박정운 Live & Single](https://open.spotify.com/album/0dE8ws1ojmSQeVRWVolDPG) | 4:54 | 2025-01-15 |  |
 | [오늘같은 밤이면\(그리움\)](https://open.spotify.com/track/1u7iNnJrdfJcuqSvtFIo3P) | [Park Jungwoon](https://open.spotify.com/artist/3tn8Fgx0RgS2Peo0juHV0h) | [먼훗날에/오늘 같은 밤이면](https://open.spotify.com/album/4BmQrl6p80eNzhRfG1WeN9) | 4:48 | 2025-01-15 |  |
 | [오늘도 난](https://open.spotify.com/track/4nxZcWJrBDBbZmYko1Qx1Q) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [이승철 Best of Best](https://open.spotify.com/album/5eojAp2VzqCMynrqxI7GAr) | 3:35 | 2025-01-03 |  |
 | [오래된 노래](https://open.spotify.com/track/1YlTjvNlsRBvSOcCqv5xm4) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [오래된 노래](https://open.spotify.com/album/0Qo4SwPnDQNL7AMiDSlisL) | 4:32 | 2025-01-15 |  |

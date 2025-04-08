@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,417 likes - 199 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,650 likes - 199 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

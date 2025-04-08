@@ -4,7 +4,7 @@
 
 > This is Babyface\. The essential tracks, all in one playlist.
 
-93 songs - 6 hr 36 min
+94 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [I Care About You](https://open.spotify.com/track/0u5NhbNEcSxSA5wjmOfJyq) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Babyface Unplugged NYC 1997](https://open.spotify.com/album/6mREwcBMN0h6bNLAyEZtEs) | 5:05 | 2022-06-04 |  |
 | [I Got You](https://open.spotify.com/track/50qdz0zvqVdhh4zG0CN0cN) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [I Got You](https://open.spotify.com/album/7i7AHPpvFCpE1LxNMaiHxa) | 2:14 | 2024-12-01 | 2025-02-04 |
 | [I Honestly Love You](https://open.spotify.com/track/2kCIwSz0JoYQPrT4Ykr1MZ) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Back With A Heart](https://open.spotify.com/album/0AGBh7qLk5x8puPv7sH721) | 4:06 | 2022-06-04 | 2023-04-17 |
-| [I Honestly Love You](https://open.spotify.com/track/586aJTfgYDYOkYcoApmsXp) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Back With A Heart](https://open.spotify.com/album/3WOgAppeszaqNnvNeQGX90) | 4:06 | 2022-07-25 |  |
+| [I Honestly Love You](https://open.spotify.com/track/586aJTfgYDYOkYcoApmsXp) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Back With A Heart](https://open.spotify.com/album/3WOgAppeszaqNnvNeQGX90) | 4:06 | 2022-07-25 | 2025-04-08 |
 | [I Hope That You're Okay](https://open.spotify.com/track/1It1muRI7amf04F8W3Ufiy) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 3:53 | 2022-06-04 |  |
 | [I Love You Babe](https://open.spotify.com/track/64hQ8WQCdVuilwwIbyPuPn) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Lovers](https://open.spotify.com/album/74OF6f8hif6ZNLAh1JxRvF) | 4:09 | 2022-06-04 | 2022-10-13 |
 | [I Said I Love You](https://open.spotify.com/track/3psQ66oTuTZrDeixYxZclj) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:05 | 2022-06-04 |  |
@@ -74,6 +74,7 @@
 | [Sometimes \(with Jenevieve\)](https://open.spotify.com/track/6PKUK8e414fvSvVDGTdirr) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Girls Night Out \(Extended\)](https://open.spotify.com/album/4PXpm2KQF7XLi1ngOhkdNb) | 3:15 | 2023-03-06 |  |
 | [Soon as I Get Home](https://open.spotify.com/track/2yZxdm4Fdi8B5UGVqv8IgP) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 5:09 | 2022-06-04 |  |
 | [Sorry For The Stupid Things \- Main](https://open.spotify.com/track/4T26YGUHTE5LLbb8xnTHPL) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Grown & Sexy](https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog) | 4:13 | 2022-06-04 |  |
+| [Standing Ovation](https://open.spotify.com/track/2s8808a3WKmshVjkhtiL7c) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 4:45 | 2025-04-08 |  |
 | [Stressed Out](https://open.spotify.com/track/4ES2gMcCQshE8EWU0FY8vW) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Face 2 Face](https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB) | 3:35 | 2022-11-23 |  |
 | [Sunshine](https://open.spotify.com/track/0NbzLcQ5pXAu71lH7Xmdoe) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 5:11 | 2022-06-04 |  |
 | [Sweat](https://open.spotify.com/track/1eRp0Gyiv7UY7an1VWYGi6) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 4:27 | 2022-06-07 | 2024-09-20 |

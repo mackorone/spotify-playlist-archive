@@ -4,7 +4,7 @@
 
 > 歌詞を見ながら、ヒット曲を歌い尽くそう ！
 
-284 songs - 17 hr 22 min
+286 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,15 +115,17 @@
 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 | 2023-10-13 | 2024-04-19 |
 | [Psycho](https://open.spotify.com/track/3ifDwg8GUpVtBzfk3FBc22) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Psycho](https://open.spotify.com/album/39CCXCE9ccNdvzc00JfYdn) | 2:49 | 2023-10-13 | 2023-11-23 |
 | [PUPPET SHOW](https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DNA](https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj) | 3:19 | 2023-10-13 | 2024-12-22 |
+| [PUZZLE](https://open.spotify.com/track/09O5p1IP5i2xldBScLpXX7) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [PUZZLE](https://open.spotify.com/album/7L8b9ERkqqs8F0rtjYrofV) | 4:36 | 2025-04-07 |  |
 | [rendez\-vous](https://open.spotify.com/track/5i8lwhzx9FyilInJWa5lhn) | [shy taupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [kidnapping / rendez\-vous](https://open.spotify.com/album/0TxOw3GSb01frvQeBbP8MP) | 3:57 | 2023-10-13 | 2024-01-11 |
 | [rendez\-vous](https://open.spotify.com/track/77mI5OSGIIPKxHXBkHOySy) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [Hors d'oeuvre](https://open.spotify.com/album/2xoDg0aFWHgzxMKvTetH4D) | 3:58 | 2024-03-19 | 2024-04-19 |
 | [Rock this Party](https://open.spotify.com/track/3ca5Q1gTQI3Alaiutw2DDo) | [timelesz](https://open.spotify.com/artist/1ZFfhzyXjPvbzSYPlCIwo3) | [Rock this Party](https://open.spotify.com/album/7ImXa5wWsZP3WuFBqcYxGf) | 3:45 | 2025-03-10 |  |
 | [Romantic](https://open.spotify.com/track/61DzuO5GOWbN9aX9G4Pop9) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Romantic](https://open.spotify.com/album/5W8LmYnKgTQCTpRbR4cP3G) | 4:10 | 2024-05-24 | 2024-12-22 |
+| [ROSE](https://open.spotify.com/track/5JTNhYqB0eG0ivgZcBviJ0) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [ROSE](https://open.spotify.com/album/55t0oiGukh64vuhsACgjtE) | 2:44 | 2025-04-07 |  |
 | [rose \- feat\. Vaundy](https://open.spotify.com/track/1GHRempxln5XiNEYYvPz7f) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [rose \(feat\. Vaundy\)](https://open.spotify.com/album/4dF1UtRhD4zW3w0h6MXerB) | 3:07 | 2023-11-16 | 2023-12-04 |
 | [RUN FOR YOU](https://open.spotify.com/track/2ev4YByQEhb3TbsxqyNF1N) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [RUN FOR YOU](https://open.spotify.com/album/4pyPXipdnMSHxekhwuJNJG) | 2:58 | 2023-10-13 | 2023-10-25 |
 | [Runner's High](https://open.spotify.com/track/5EJtcLqzhGixak6vG0JstR) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Runner's High](https://open.spotify.com/album/1tpOYlbVsbkjXRASB6GJia) | 3:42 | 2023-10-13 | 2023-11-08 |
 | [SAD SONG](https://open.spotify.com/track/0mlCDt9UWfQNY0pxk5jbJK) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [SAD SONG](https://open.spotify.com/album/7wHPzUGEz8co9LDUeqyqeE) | 3:37 | 2025-02-03 | 2025-02-05 |
-| [SAD SONG](https://open.spotify.com/track/2zxK14g3shGRbgjUmKaj2x) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Never Grow Up](https://open.spotify.com/album/5b4nK135Z5T9Z62k7804LH) | 3:37 | 2025-02-05 |  |
+| [SAD SONG](https://open.spotify.com/track/2zxK14g3shGRbgjUmKaj2x) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Never Grow Up](https://open.spotify.com/album/5b4nK135Z5T9Z62k7804LH) | 3:37 | 2025-02-05 | 2025-04-08 |
 | [SAY YES](https://open.spotify.com/track/6NTUooWOWjw5A20pm9oyor) | [CHAGE and ASKA](https://open.spotify.com/artist/1jsmqw6pME0Yj47diPFh0C) | [VERY BEST ROLL OVER 20TH](https://open.spotify.com/album/3u9ZFJXLKKZ5ImLzFPtEWW) | 4:43 | 2024-08-24 | 2024-12-04 |
 | [Set Sail](https://open.spotify.com/track/3r4kSAvYtaJVwOMZlRbz9r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Set Sail](https://open.spotify.com/album/47O8KlrVbHaKT72WDG2Vm4) | 3:13 | 2024-03-14 | 2024-06-28 |
 | [Seven \(feat\. Latto\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-10-13 |  |
@@ -177,7 +179,7 @@
 | [わたしに花束](https://open.spotify.com/track/1vLQ5s4eumtmUcov4cP9jt) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [わたしに花束](https://open.spotify.com/album/2QNHCEUiNTXtcHSjoVWvNl) | 3:48 | 2025-03-30 |  |
 | [アイサレタイ](https://open.spotify.com/track/0HJ4bOxL3wvJIk5a0j5OMm) | [Yumcha](https://open.spotify.com/artist/2xZeyR38yb0Wru7qwAeT1g) | [アイサレタイ](https://open.spotify.com/album/0OgFvzaWhbU9ey9gniMzWi) | 1:44 | 2025-01-09 |  |
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-10-13 |  |
-| [アイラブユー](https://open.spotify.com/track/34ayWAUrQcrjlKZOJAzqke) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ユーモア](https://open.spotify.com/album/4Owee1i5rIFJvQczZXSdiQ) | 3:55 | 2023-11-18 |  |
+| [アイラブユー](https://open.spotify.com/track/34ayWAUrQcrjlKZOJAzqke) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ユーモア](https://open.spotify.com/album/4Owee1i5rIFJvQczZXSdiQ) | 3:55 | 2023-11-18 | 2025-04-08 |
 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 | 2024-02-01 | 2024-08-09 |
 | [イイじゃん](https://open.spotify.com/track/0jj4mLjwYcos3PPzjQwVzh) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [M!Ⅹ](https://open.spotify.com/album/53EabvOlVDeKXH1A5uBX0o) | 3:18 | 2025-03-30 |  |
 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 | 2024-02-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 
 > 듣고만 있어도 행복한 노래들과 더더욱 행복하세요 ;\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,046 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,047 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 57 | [WATCH ME !](https://open.spotify.com/track/7GJAyy2kGrQ6GdfNUUjyTN) | [Wynn](https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI), [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR) | [WATCH ME !](https://open.spotify.com/album/32FwrQyrSpcjo8831ZzhLY) | 3:06 |
 | 58 | [SKIP \(Feat\. Wonstein\)](https://open.spotify.com/track/1RMu8HCu8CgsKxweS14mdK) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 2:51 |
 | 59 | [You and I in this hard day](https://open.spotify.com/track/6V8sFpmQd1NiK7mGxZiWW7) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Rewind](https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ) | 3:34 |
-| 60 | [The star](https://open.spotify.com/track/6dJE26yEAPMqGF5U6HaHbC) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg), [Petra](https://open.spotify.com/artist/3VWH0jNShIR12uJ55lchbw) | [The star](https://open.spotify.com/album/7srtgA0xnFqNLnrAnfjsQg) | 4:03 |
+| 60 | [It's Love](https://open.spotify.com/track/2pqlJF13zbO268SNONERS4) | [Mew](https://open.spotify.com/artist/4Y74dNwvq5TMzDHMtlcmYI) | [It's Love](https://open.spotify.com/album/4KdgbFmE2xn5be7sUMzFDe) | 3:11 |
 
 Snapshot ID: `ZysVQAAAAACzPYJkyOnnFZXs8bMGbRiq`

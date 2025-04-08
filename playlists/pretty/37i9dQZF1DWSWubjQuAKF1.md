@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 
 > świeże brzmienia na horyzoncie ✨ Cover: MAJA
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,152 likes - 65 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,169 likes - 65 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,15 +59,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 49 | [Sad But True](https://open.spotify.com/track/0gdQvpd0knhJmcIbF3jSOM) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Sad But True](https://open.spotify.com/album/79pXYIrBC0AClFOPDK1xzL) | 3:36 |
 | 50 | [Psy](https://open.spotify.com/track/2EAjmK1F2Rb9afmzRUmdCB) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Psy](https://open.spotify.com/album/5JnhZB6ht5DA1YV9SbQxjB) | 3:20 |
 | 51 | [Ty to Ja](https://open.spotify.com/track/44XvWHUZcYWvzMWhqhYLl6) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Ty to Ja](https://open.spotify.com/album/5DqH7F3PynlPtXYx6sqX7K) | 3:33 |
-| 52 | [Nie tonę](https://open.spotify.com/track/4mr8qzhUJ7PVPRJdoROaEI) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Destroy Me, Today](https://open.spotify.com/album/3QUSazSeQvb4HsjkqIOtQ4) | 3:04 |
-| 53 | [bilet beze mnie](https://open.spotify.com/track/3kZcv5aJNHdGWTe565b2On) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf), [dybiński](https://open.spotify.com/artist/39Mn9rf5qlNOjnaeu6O5RP) | [bilet beze mnie](https://open.spotify.com/album/21kMgZgkNc6AtBG86VnxMZ) | 2:50 |
-| 54 | [MAZZY STAR](https://open.spotify.com/track/6opbogQthtVP3KyPlMJXJK) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [MAZZY STAR](https://open.spotify.com/album/0alyr4UdNAcPFa0IPHfQ0k) | 2:34 |
-| 55 | [TENSION](https://open.spotify.com/track/0rgCob7qSVjoDBNXKRUUQH) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [TENSION](https://open.spotify.com/album/7dpfQ3sHIarczKj3Ccz8zc) | 2:27 |
-| 56 | [Nie bolało](https://open.spotify.com/track/1RJfHolln7fiPAOBWleNFL) | [Klaudia Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Nie bolało](https://open.spotify.com/album/6iWtrne7gJQfcsmbtcmuPL) | 2:48 |
-| 57 | [Kurz](https://open.spotify.com/track/2D7PmhrojDfJgQPj6VwRef) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui) | [Kurz](https://open.spotify.com/album/3K5qLgKZmqc87o5jxiPNbg) | 2:35 |
-| 58 | [o tobie wers](https://open.spotify.com/track/4uN1jM22d2v3l2IRIJe1Af) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [o tobie wers](https://open.spotify.com/album/3nAZGqA6gK1p546TGFuL1E) | 2:45 |
-| 59 | [Duch](https://open.spotify.com/track/6rWIDZ3kqUuGYPvR68wuER) | [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [Pomiędzy](https://open.spotify.com/album/6CXy0mzT8UGklAJXykNtHY) | 3:00 |
-| 60 | [Running From Myself](https://open.spotify.com/track/2oWQin3JziO4aw4IrEkAmF) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Running From Myself](https://open.spotify.com/album/2UeR4nyka780fWnwgabZLe) | 2:36 |
+| 52 | [Running From Myself](https://open.spotify.com/track/2oWQin3JziO4aw4IrEkAmF) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Running From Myself](https://open.spotify.com/album/2UeR4nyka780fWnwgabZLe) | 2:36 |
+| 53 | [Nie tonę](https://open.spotify.com/track/4mr8qzhUJ7PVPRJdoROaEI) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Destroy Me, Today](https://open.spotify.com/album/3QUSazSeQvb4HsjkqIOtQ4) | 3:04 |
+| 54 | [bilet beze mnie](https://open.spotify.com/track/3kZcv5aJNHdGWTe565b2On) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf), [dybiński](https://open.spotify.com/artist/39Mn9rf5qlNOjnaeu6O5RP) | [bilet beze mnie](https://open.spotify.com/album/21kMgZgkNc6AtBG86VnxMZ) | 2:50 |
+| 55 | [MAZZY STAR](https://open.spotify.com/track/6opbogQthtVP3KyPlMJXJK) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [MAZZY STAR](https://open.spotify.com/album/0alyr4UdNAcPFa0IPHfQ0k) | 2:34 |
+| 56 | [TENSION](https://open.spotify.com/track/0rgCob7qSVjoDBNXKRUUQH) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [TENSION](https://open.spotify.com/album/7dpfQ3sHIarczKj3Ccz8zc) | 2:27 |
+| 57 | [Nie bolało](https://open.spotify.com/track/1RJfHolln7fiPAOBWleNFL) | [Klaudia Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Nie bolało](https://open.spotify.com/album/6iWtrne7gJQfcsmbtcmuPL) | 2:48 |
+| 58 | [Kurz](https://open.spotify.com/track/2D7PmhrojDfJgQPj6VwRef) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui) | [Kurz](https://open.spotify.com/album/3K5qLgKZmqc87o5jxiPNbg) | 2:35 |
+| 59 | [o tobie wers](https://open.spotify.com/track/4uN1jM22d2v3l2IRIJe1Af) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [o tobie wers](https://open.spotify.com/album/3nAZGqA6gK1p546TGFuL1E) | 2:45 |
+| 60 | [Duch](https://open.spotify.com/track/6rWIDZ3kqUuGYPvR68wuER) | [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [Pomiędzy](https://open.spotify.com/album/6CXy0mzT8UGklAJXykNtHY) | 3:00 |
 | 61 | [Łez](https://open.spotify.com/track/3XwbXBdDfmpjlwpyuTPzv3) | [Effy](https://open.spotify.com/artist/662m0WrjxDl2ZrWAghojh2) | [Łez](https://open.spotify.com/album/5ei7THv6SDlyGburhlR8Qf) | 2:37 |
 | 62 | [Zawsze](https://open.spotify.com/track/3OLUmPycj7LGskLHNLoQGd) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [Def Jam World Tour](https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16) | [Zawsze](https://open.spotify.com/album/3WQ2cHU59lxOpc9JVgT7qr) | 2:29 |
 | 63 | [Arkadia](https://open.spotify.com/track/3PMYCND2OpaEV74EQkWrOZ) | [WOLSKA](https://open.spotify.com/artist/6W535X9Sk4zYwdMeXQ8LwM) | [Arkadia](https://open.spotify.com/album/2p4Udkis07aTRZIDjpyNTQ) | 3:34 |

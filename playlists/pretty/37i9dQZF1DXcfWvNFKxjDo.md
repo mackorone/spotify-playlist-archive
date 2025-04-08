@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: CERES, LUNAX
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,373 likes - 82 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,443 likes - 82 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 7 | [HERZSCHLAG](https://open.spotify.com/track/1qJH8giBk7OawPg5RF5j9A) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [KLUBPARTEI](https://open.spotify.com/album/1uISv19ZmoOXpsqqm48iik) | 3:53 |
 | 8 | [One And Only](https://open.spotify.com/track/4iA5MckI9OGxFgNDGtuRoZ) | [Reznik](https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ), [good guy mikesh](https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [One And Only](https://open.spotify.com/album/59luA9B4MimwKmvTt43lr8) | 3:42 |
 | 9 | [Champs In The Rave](https://open.spotify.com/track/5DZe6T5CbGtlwt47zG6eXZ) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [TEDDY\-O](https://open.spotify.com/artist/7G1pOSE6cde2iXenQsMMe3) | [Champs In The Rave](https://open.spotify.com/album/40EDrDTKQNvTAlPXZCml1B) | 2:51 |
-| 10 | [Drip Drip](https://open.spotify.com/track/0YrUz44GV53SvRMQUFIpps) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [WUKONG](https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T), [MUSIC](https://open.spotify.com/artist/6tmvEui9RlpwAFJA8tNkxM) | [Drip Drip](https://open.spotify.com/album/14jZsLakgI8TLW8PMdkFxC) | 2:25 |
+| 10 | [Drip Drip](https://open.spotify.com/track/0YrUz44GV53SvRMQUFIpps) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [WUKONG](https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T), [$MUSIC](https://open.spotify.com/artist/0zx8yW9E6H5pwqAnWrDepm) | [Drip Drip](https://open.spotify.com/album/14jZsLakgI8TLW8PMdkFxC) | 2:25 |
 | 11 | [It Must Have Been Love \(feat\. Charla K\)](https://open.spotify.com/track/4xZcO6Kb9LikXY6OBT0WWF) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Charla K](https://open.spotify.com/artist/1nKYzgyVrpiCrKdlUiNR8E) | [It Must Have Been Love \(feat\. Charla K\)](https://open.spotify.com/album/2L5EXh101zt0yB67o2SYWy) | 2:56 |
 | 12 | [Higher Calling](https://open.spotify.com/track/3wZXYxSl00Yp59fvXSvjiC) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Julia Sanina](https://open.spotify.com/artist/0efc3nE6FItdogB7HGWlst) | [Higher Calling](https://open.spotify.com/album/2EwBTFIpaCDny9RDaVROyr) | 3:37 |
 | 13 | [Kick It With You](https://open.spotify.com/track/5XeT6esdcC700dngtrumkx) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Kick It With You](https://open.spotify.com/album/4OU9Lmrl0X8gUZ259HuljR) | 3:32 |

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 44090,
+  "num_followers": 44150,
   "original_name": "When depression hits hard",
   "owner": {
     "name": "ada",
     "url": "https://open.spotify.com/user/adadoro"
   },
-  "snapshot_id": "AAABQY8inFi5bToScxSh+RAPix/D86Ck",
+  "snapshot_id": "AAABX2ngRURWfd5rZalxH6FVFjXP04QL",
   "tracks": [
     {
       "added_at": "2023-01-13 09:23:19",
@@ -145,22 +145,6 @@
       "url": "https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK"
     },
     {
-      "added_at": "2024-12-10 01:47:07",
-      "album": {
-        "name": "Back to Myself",
-        "url": "https://open.spotify.com/album/0sQZu1G9Le2m1IWeFdOg7e"
-      },
-      "artists": [
-        {
-          "name": "Ben Thal",
-          "url": "https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB"
-        }
-      ],
-      "duration_ms": 180799,
-      "name": "Back to Myself",
-      "url": "https://open.spotify.com/track/1ElyI0fk1FJAscrGs3F8Wu"
-    },
-    {
       "added_at": "2023-01-13 09:47:28",
       "album": {
         "name": "drowning",
@@ -177,20 +161,20 @@
       "url": "https://open.spotify.com/track/32xjgqHt76Q8sipEop3Bci"
     },
     {
-      "added_at": "2024-12-11 21:09:23",
+      "added_at": "2024-12-24 08:18:26",
       "album": {
-        "name": "Fracturas",
-        "url": "https://open.spotify.com/album/3I1Z4DycLgxSpKAR4RvvbE"
+        "name": "Silent Rooms",
+        "url": "https://open.spotify.com/album/7tuLWi8OBxW7nrYiKSl8oc"
       },
       "artists": [
         {
-          "name": "Glassir",
-          "url": "https://open.spotify.com/artist/3xzuCP5KljMlxom5WDa7V9"
+          "name": "Ben Thal",
+          "url": "https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB"
         }
       ],
-      "duration_ms": 193999,
-      "name": "Velvet Alibi",
-      "url": "https://open.spotify.com/track/7syPTABWrO1KnnVtistjmt"
+      "duration_ms": 234799,
+      "name": "The Quiet Between Us",
+      "url": "https://open.spotify.com/track/5IgCdFscdQEWarHWqPNAEj"
     },
     {
       "added_at": "2023-01-13 09:49:33",
@@ -207,6 +191,22 @@
       "duration_ms": 168572,
       "name": "Dark Side Of The Moon",
       "url": "https://open.spotify.com/track/33iv4ikGd0KboI6xNPL80i"
+    },
+    {
+      "added_at": "2024-12-10 01:47:07",
+      "album": {
+        "name": "Back to Myself",
+        "url": "https://open.spotify.com/album/0sQZu1G9Le2m1IWeFdOg7e"
+      },
+      "artists": [
+        {
+          "name": "Ben Thal",
+          "url": "https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB"
+        }
+      ],
+      "duration_ms": 180799,
+      "name": "Back to Myself",
+      "url": "https://open.spotify.com/track/1ElyI0fk1FJAscrGs3F8Wu"
     },
     {
       "added_at": "2023-01-13 10:09:06",
@@ -241,20 +241,36 @@
       "url": "https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6"
     },
     {
-      "added_at": "2024-12-10 01:47:13",
+      "added_at": "2023-01-13 10:34:49",
       "album": {
-        "name": "Back to Myself",
-        "url": "https://open.spotify.com/album/0sQZu1G9Le2m1IWeFdOg7e"
+        "name": "Predestiny",
+        "url": "https://open.spotify.com/album/2zQOPsraFfY83OtDoaOjo4"
       },
       "artists": [
         {
-          "name": "Ben Thal",
-          "url": "https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB"
+          "name": "Mareux",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
         }
       ],
-      "duration_ms": 174799,
-      "name": "A Voice from Afar",
-      "url": "https://open.spotify.com/track/3aZYpIYjqbbyE1R1QWvbkX"
+      "duration_ms": 217651,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/109rpPw9mmFN1KhQ38zyt0"
+    },
+    {
+      "added_at": "2024-12-11 21:09:23",
+      "album": {
+        "name": "Fracturas",
+        "url": "https://open.spotify.com/album/3I1Z4DycLgxSpKAR4RvvbE"
+      },
+      "artists": [
+        {
+          "name": "Glassir",
+          "url": "https://open.spotify.com/artist/3xzuCP5KljMlxom5WDa7V9"
+        }
+      ],
+      "duration_ms": 193999,
+      "name": "Velvet Alibi",
+      "url": "https://open.spotify.com/track/7syPTABWrO1KnnVtistjmt"
     },
     {
       "added_at": "2025-03-27 01:48:00",
@@ -277,42 +293,6 @@
       "url": "https://open.spotify.com/track/2xVk5Sr5GNUE5fneLOK3Nh"
     },
     {
-      "added_at": "2023-01-13 10:34:49",
-      "album": {
-        "name": "Predestiny",
-        "url": "https://open.spotify.com/album/2zQOPsraFfY83OtDoaOjo4"
-      },
-      "artists": [
-        {
-          "name": "Mareux",
-          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
-        }
-      ],
-      "duration_ms": 217651,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/109rpPw9mmFN1KhQ38zyt0"
-    },
-    {
-      "added_at": "2025-01-20 07:36:59",
-      "album": {
-        "name": "DUSKWEAVER",
-        "url": "https://open.spotify.com/album/2SK2qhrt9TyRB1lEdxibcZ"
-      },
-      "artists": [
-        {
-          "name": "Ben Thal",
-          "url": "https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB"
-        },
-        {
-          "name": "Finn Lavo",
-          "url": "https://open.spotify.com/artist/7JgWqXwxseehoRu33qxWCR"
-        }
-      ],
-      "duration_ms": 163799,
-      "name": "Ashborne Letters",
-      "url": "https://open.spotify.com/track/5cTG0D5lVSsWmXnKBcvRzf"
-    },
-    {
       "added_at": "2023-01-13 12:18:26",
       "album": {
         "name": "Sensitive G",
@@ -327,22 +307,6 @@
       "duration_ms": 168739,
       "name": "Cocaine Sunday",
       "url": "https://open.spotify.com/track/5HzrX4aKVfb1NQCsaqf6R0"
-    },
-    {
-      "added_at": "2024-12-05 21:58:36",
-      "album": {
-        "name": "Witness",
-        "url": "https://open.spotify.com/album/4Za0P7gc45f8ABtjBbNA69"
-      },
-      "artists": [
-        {
-          "name": "Deny Hanz",
-          "url": "https://open.spotify.com/artist/1I9NG5cKonyiu9xJVghDvh"
-        }
-      ],
-      "duration_ms": 193999,
-      "name": "Witness Reprise",
-      "url": "https://open.spotify.com/track/27CDPbGNgkMaKxYKbAAZMM"
     },
     {
       "added_at": "2023-01-13 13:29:39",
@@ -369,36 +333,20 @@
       "url": "https://open.spotify.com/track/7iMWAkz8g5dxtTueDeG0zs"
     },
     {
-      "added_at": "2025-03-10 18:37:28",
+      "added_at": "2025-04-07 03:55:50",
       "album": {
-        "name": "THE RISE",
-        "url": "https://open.spotify.com/album/6u1HCsBewUBMef0mxbG0hA"
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/30woklkKadyGtPaHHELF6f"
       },
       "artists": [
         {
-          "name": "Aime Simone",
-          "url": "https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM"
+          "name": "Bellamy Trevor",
+          "url": "https://open.spotify.com/artist/4piLbslIVY3r0EHMAAqipD"
         }
       ],
-      "duration_ms": 159207,
-      "name": "THE RISE",
-      "url": "https://open.spotify.com/track/2Rxz3iCuoe1kU1REqI6NUt"
-    },
-    {
-      "added_at": "2024-12-05 18:39:59",
-      "album": {
-        "name": "Slow Burn",
-        "url": "https://open.spotify.com/album/22h5UFnm575l3TvpPREPp8"
-      },
-      "artists": [
-        {
-          "name": "Jaden Rivers",
-          "url": "https://open.spotify.com/artist/1dFOsKx4P9gg22CZ9Co2Ts"
-        }
-      ],
-      "duration_ms": 235919,
-      "name": "Slow Burn",
-      "url": "https://open.spotify.com/track/1iYkXST6VK7fF4OPdsZL9x"
+      "duration_ms": 175387,
+      "name": "Fever Dream",
+      "url": "https://open.spotify.com/track/2hO6CqpWjPBEzOGDk4eXIw"
     },
     {
       "added_at": "2023-01-13 15:21:27",
@@ -437,22 +385,6 @@
       "url": "https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP"
     },
     {
-      "added_at": "2024-12-24 08:18:26",
-      "album": {
-        "name": "Silent Rooms",
-        "url": "https://open.spotify.com/album/7tuLWi8OBxW7nrYiKSl8oc"
-      },
-      "artists": [
-        {
-          "name": "Ben Thal",
-          "url": "https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB"
-        }
-      ],
-      "duration_ms": 234799,
-      "name": "The Quiet Between Us",
-      "url": "https://open.spotify.com/track/5IgCdFscdQEWarHWqPNAEj"
-    },
-    {
       "added_at": "2023-01-14 09:31:32",
       "album": {
         "name": "snowfall (Sped Up)",
@@ -473,36 +405,20 @@
       "url": "https://open.spotify.com/track/2kU3tL5BVXkFLefXLy8pBi"
     },
     {
-      "added_at": "2025-03-27 01:35:45",
+      "added_at": "2024-12-10 01:47:13",
       "album": {
-        "name": "Should've Been (Me & You)",
-        "url": "https://open.spotify.com/album/2vftGFlV6aVuhQGi1KefNB"
+        "name": "Back to Myself",
+        "url": "https://open.spotify.com/album/0sQZu1G9Le2m1IWeFdOg7e"
       },
       "artists": [
         {
-          "name": "SHIKO",
-          "url": "https://open.spotify.com/artist/2iPDY2fsrFaWhd4f0mQrZD"
+          "name": "Ben Thal",
+          "url": "https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB"
         }
       ],
-      "duration_ms": 148500,
-      "name": "Should've Been (Me & You)",
-      "url": "https://open.spotify.com/track/41cQpfQoM7gv0VX59IPozI"
-    },
-    {
-      "added_at": "2024-12-11 20:41:06",
-      "album": {
-        "name": "NoWay",
-        "url": "https://open.spotify.com/album/7iwvfwhAMQWAUFVsUyIvJH"
-      },
-      "artists": [
-        {
-          "name": "Menout",
-          "url": "https://open.spotify.com/artist/5yLxRlkVouCNe6ooY6vC6r"
-        }
-      ],
-      "duration_ms": 143319,
-      "name": "Breaking Chains",
-      "url": "https://open.spotify.com/track/3AyOqcaikAJbbhXj70s9VS"
+      "duration_ms": 174799,
+      "name": "A Voice from Afar",
+      "url": "https://open.spotify.com/track/3aZYpIYjqbbyE1R1QWvbkX"
     },
     {
       "added_at": "2023-01-14 10:36:22",
@@ -525,7 +441,7 @@
       "url": "https://open.spotify.com/track/2gcDTNu5NHQpv25DVLIou0"
     },
     {
-      "added_at": "2025-01-18 10:02:18",
+      "added_at": "2025-01-20 07:36:59",
       "album": {
         "name": "DUSKWEAVER",
         "url": "https://open.spotify.com/album/2SK2qhrt9TyRB1lEdxibcZ"
@@ -540,9 +456,25 @@
           "url": "https://open.spotify.com/artist/7JgWqXwxseehoRu33qxWCR"
         }
       ],
-      "duration_ms": 144879,
-      "name": "Ivory Descent",
-      "url": "https://open.spotify.com/track/3BODItmW74qn90hULauUym"
+      "duration_ms": 163799,
+      "name": "Ashborne Letters",
+      "url": "https://open.spotify.com/track/5cTG0D5lVSsWmXnKBcvRzf"
+    },
+    {
+      "added_at": "2025-03-27 01:35:45",
+      "album": {
+        "name": "Should've Been (Me & You)",
+        "url": "https://open.spotify.com/album/2vftGFlV6aVuhQGi1KefNB"
+      },
+      "artists": [
+        {
+          "name": "SHIKO",
+          "url": "https://open.spotify.com/artist/2iPDY2fsrFaWhd4f0mQrZD"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Should've Been (Me & You)",
+      "url": "https://open.spotify.com/track/41cQpfQoM7gv0VX59IPozI"
     },
     {
       "added_at": "2023-01-14 11:11:38",
@@ -561,22 +493,6 @@
       "url": "https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe"
     },
     {
-      "added_at": "2025-03-27 01:35:04",
-      "album": {
-        "name": "Absent",
-        "url": "https://open.spotify.com/album/5skAjxo3bQZLUFI0P4JQCC"
-      },
-      "artists": [
-        {
-          "name": "SHIKO",
-          "url": "https://open.spotify.com/artist/2iPDY2fsrFaWhd4f0mQrZD"
-        }
-      ],
-      "duration_ms": 174183,
-      "name": "Absent",
-      "url": "https://open.spotify.com/track/5xFCvuQljmExMweJdsHFsA"
-    },
-    {
       "added_at": "2025-03-23 20:58:03",
       "album": {
         "name": "Dreaming, Ella.",
@@ -591,6 +507,38 @@
       "duration_ms": 200000,
       "name": "Dreaming, Ella.",
       "url": "https://open.spotify.com/track/1pKNHn7JV2YV77CvmsoXcY"
+    },
+    {
+      "added_at": "2024-12-11 20:41:06",
+      "album": {
+        "name": "NoWay",
+        "url": "https://open.spotify.com/album/7iwvfwhAMQWAUFVsUyIvJH"
+      },
+      "artists": [
+        {
+          "name": "Menout",
+          "url": "https://open.spotify.com/artist/5yLxRlkVouCNe6ooY6vC6r"
+        }
+      ],
+      "duration_ms": 143319,
+      "name": "Breaking Chains",
+      "url": "https://open.spotify.com/track/3AyOqcaikAJbbhXj70s9VS"
+    },
+    {
+      "added_at": "2025-03-27 01:35:04",
+      "album": {
+        "name": "Absent",
+        "url": "https://open.spotify.com/album/5skAjxo3bQZLUFI0P4JQCC"
+      },
+      "artists": [
+        {
+          "name": "SHIKO",
+          "url": "https://open.spotify.com/artist/2iPDY2fsrFaWhd4f0mQrZD"
+        }
+      ],
+      "duration_ms": 174183,
+      "name": "Absent",
+      "url": "https://open.spotify.com/track/5xFCvuQljmExMweJdsHFsA"
     },
     {
       "added_at": "2023-01-14 11:26:31",
@@ -625,20 +573,40 @@
       "url": "https://open.spotify.com/track/3CpoeW0cZSDzIRv5z34F87"
     },
     {
-      "added_at": "2024-12-11 21:02:43",
+      "added_at": "2025-01-18 10:02:18",
       "album": {
-        "name": "Fracturas",
-        "url": "https://open.spotify.com/album/3I1Z4DycLgxSpKAR4RvvbE"
+        "name": "DUSKWEAVER",
+        "url": "https://open.spotify.com/album/2SK2qhrt9TyRB1lEdxibcZ"
       },
       "artists": [
         {
-          "name": "Glassir",
-          "url": "https://open.spotify.com/artist/3xzuCP5KljMlxom5WDa7V9"
+          "name": "Ben Thal",
+          "url": "https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB"
+        },
+        {
+          "name": "Finn Lavo",
+          "url": "https://open.spotify.com/artist/7JgWqXwxseehoRu33qxWCR"
         }
       ],
-      "duration_ms": 193999,
-      "name": "Fractures of Glass",
-      "url": "https://open.spotify.com/track/3YRFdoQeGRFI4uC1hNtpA0"
+      "duration_ms": 144879,
+      "name": "Ivory Descent",
+      "url": "https://open.spotify.com/track/3BODItmW74qn90hULauUym"
+    },
+    {
+      "added_at": "2025-03-10 18:37:28",
+      "album": {
+        "name": "THE RISE",
+        "url": "https://open.spotify.com/album/6u1HCsBewUBMef0mxbG0hA"
+      },
+      "artists": [
+        {
+          "name": "Aime Simone",
+          "url": "https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM"
+        }
+      ],
+      "duration_ms": 159207,
+      "name": "THE RISE",
+      "url": "https://open.spotify.com/track/2Rxz3iCuoe1kU1REqI6NUt"
     },
     {
       "added_at": "2025-03-18 13:52:21",
@@ -801,6 +769,22 @@
       "url": "https://open.spotify.com/track/7MGMBPO30CeR2KrRX94SO3"
     },
     {
+      "added_at": "2024-12-11 21:02:43",
+      "album": {
+        "name": "Fracturas",
+        "url": "https://open.spotify.com/album/3I1Z4DycLgxSpKAR4RvvbE"
+      },
+      "artists": [
+        {
+          "name": "Glassir",
+          "url": "https://open.spotify.com/artist/3xzuCP5KljMlxom5WDa7V9"
+        }
+      ],
+      "duration_ms": 193999,
+      "name": "Fractures of Glass",
+      "url": "https://open.spotify.com/track/3YRFdoQeGRFI4uC1hNtpA0"
+    },
+    {
       "added_at": "2023-01-16 14:30:56",
       "album": {
         "name": "IV",
@@ -837,6 +821,22 @@
       "url": "https://open.spotify.com/track/2uXlHiOE4o5xHOCiob8DKn"
     },
     {
+      "added_at": "2024-12-05 18:39:59",
+      "album": {
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/22h5UFnm575l3TvpPREPp8"
+      },
+      "artists": [
+        {
+          "name": "Jaden Rivers",
+          "url": "https://open.spotify.com/artist/1dFOsKx4P9gg22CZ9Co2Ts"
+        }
+      ],
+      "duration_ms": 235919,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/1iYkXST6VK7fF4OPdsZL9x"
+    },
+    {
       "added_at": "2023-01-16 18:31:18",
       "album": {
         "name": "Miki Matsubara Best Collection",
@@ -867,6 +867,22 @@
       "duration_ms": 223746,
       "name": "Always Forever",
       "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
+    },
+    {
+      "added_at": "2024-12-05 21:58:36",
+      "album": {
+        "name": "Witness",
+        "url": "https://open.spotify.com/album/4Za0P7gc45f8ABtjBbNA69"
+      },
+      "artists": [
+        {
+          "name": "Deny Hanz",
+          "url": "https://open.spotify.com/artist/1I9NG5cKonyiu9xJVghDvh"
+        }
+      ],
+      "duration_ms": 193999,
+      "name": "Witness Reprise",
+      "url": "https://open.spotify.com/track/27CDPbGNgkMaKxYKbAAZMM"
     },
     {
       "added_at": "2023-01-23 14:26:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,750 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,964 likes - 50 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 21 | [The Prodigal](https://open.spotify.com/track/3ui3UHjpXpWiQjoLwuENB8) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [The Prodigal](https://open.spotify.com/album/6hHKMT1KggeWWTr6N2JQPr) | 3:13 |
 | 22 | [I Surrender \- Live](https://open.spotify.com/track/4irEfIEfEXuaPVOYDCw5Rm) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [Cornerstone \(Live\)](https://open.spotify.com/album/5wBEavD9XYCXY6ALqFHeLW) | 5:46 |
 | 23 | [In The Room \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [In The Room \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/album/5i1NR3jkUECMwEgABF0iSS) | 9:57 |
-| 24 | [I Smile](https://open.spotify.com/track/0UQDSP8cz6WmLJckO5jqUQ) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Hello Fear](https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N) | 5:07 |
-| 25 | [The Blood \(Live\)](https://open.spotify.com/track/71cDTlRal4bmGUcu213rYt) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Moments: Wait \(Live\)](https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL) | 5:12 |
+| 24 | [The Blood \(Live\)](https://open.spotify.com/track/71cDTlRal4bmGUcu213rYt) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Moments: Wait \(Live\)](https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL) | 5:12 |
+| 25 | [I Smile](https://open.spotify.com/track/0UQDSP8cz6WmLJckO5jqUQ) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Hello Fear](https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N) | 5:07 |
 | 26 | [Been So Good \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/4dEUfBPs6bydmssKnnqDMV) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 7:44 |
 | 27 | [Running Back To You](https://open.spotify.com/track/6Kfd3XrgqJ0M50O3Z5KN9c) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Counting My Blessings](https://open.spotify.com/album/4t6WQgunJKOb6ieHMXDD2P) | 3:20 |
 | 28 | [Up + Up](https://open.spotify.com/track/4pyIuEQo27lFOEMBJagRAv) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Up + Up](https://open.spotify.com/album/6q5zDjRliJ0Soj8XDnZlVU) | 2:43 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 47 | [Big God](https://open.spotify.com/track/4Zpw0Yb8T8hfyQht5pQ4HG) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Fearless Community](https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A), [Anderson](https://open.spotify.com/artist/7dbUWZryjCvpQ4g1VdUsXi) | [Chapter Two](https://open.spotify.com/album/4gkygS0bybfrSmP7TElwIm) | 10:57 |
 | 48 | [THIS YEAR \(Blessings\) \- Remix](https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \[Remix\]](https://open.spotify.com/album/4TZI8LgMjrmTlOhy7nFa2U) | 2:40 |
 | 49 | [Take Me to the King \(feat\. Kirk Franklin\)](https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Best Days](https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ) | 4:47 |
-| 50 | [Take It All Back](https://open.spotify.com/track/3ojnCCs5izqgJlRMIBfENI) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Take It All Back](https://open.spotify.com/album/0CmaxOquxepYKzJjDJCmvt) | 3:13 |
+| 50 | [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 |
 
 Snapshot ID: `Z+8hTwAAAADpWNG0WUse1XlmMWzvvp+Y`

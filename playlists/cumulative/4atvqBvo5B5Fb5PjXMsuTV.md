@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 06 Apr 18:03 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 08 Apr 22:04 UTC.
 
-4,503 songs - 10 day 9 hr 57 min
+4,505 songs - 10 day 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3410,7 +3410,7 @@
 | [Siege Lord](https://open.spotify.com/track/4vmT3Rruzg7N0SCKJTI96u) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Siege Lord](https://open.spotify.com/album/3O1MrlUbcvMZgXlwbZKEuP) | 3:25 | 2024-05-02 | 2024-05-04 |
 | [SIGMA](https://open.spotify.com/track/4vfm50GzceHAl5bIN05vrM) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [SIGMA](https://open.spotify.com/album/6HfYRGgHEoPNvsDJhQOoAL) | 4:48 | 2024-06-14 | 2024-06-17 |
 | [Sign](https://open.spotify.com/track/0d0K90wpp2CDfy7923mZ00) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sign](https://open.spotify.com/album/2er0Xi4lRpqY20aCvDnw3p) | 3:35 | 2024-07-08 | 2024-07-10 |
-| [SIGN](https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [SIGN](https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd) | 2:46 | 2025-04-01 |  |
+| [SIGN](https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [SIGN](https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd) | 2:46 | 2025-04-01 | 2025-04-08 |
 | [Sign](https://open.spotify.com/track/5n7dcUUhuP7t5gCW8QTEEU) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Sign](https://open.spotify.com/album/4MEhn3oECu0jzdQaisxRrc) | 4:20 | 2024-09-16 | 2024-09-19 |
 | [Signed & Sealed](https://open.spotify.com/track/4DW38GEUXXg9jaEeEwkJUE) | [HalaCG](https://open.spotify.com/artist/0Tbadays3Z2K3BxmvjL34J) | [Signed & Sealed](https://open.spotify.com/album/6MVugXfdiM91rPMrGAebfi) | 3:33 | 2024-07-28 | 2024-08-01 |
 | [Silent Night](https://open.spotify.com/track/1Pie0XRrhl6ScGS1loOzUd) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Silent Night](https://open.spotify.com/album/4KnOD9K8C2FdYUrRK4uWmG) | 2:26 | 2024-10-18 | 2024-10-24 |
@@ -3696,6 +3696,7 @@
 | [Sweet](https://open.spotify.com/track/4GPlVxGyUFfuuZExYPp4mP) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Sweet](https://open.spotify.com/album/5vaYdxmwVwmKXpXRWX3oQp) | 2:15 | 2024-12-06 | 2024-12-12 |
 | [Sweet Anecdote](https://open.spotify.com/track/068KPJISmxyjh0pdetMKdP) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Sweet Anecdote](https://open.spotify.com/album/4xRY5qShEwYdF3QwB33Q6C) | 3:36 | 2024-10-31 | 2024-11-02 |
 | [Sweet Celine](https://open.spotify.com/track/0MP8QNJMpjQVzrA9zlP7zm) | [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8), [Real Bad Man](https://open.spotify.com/artist/1AmknJ29fbA6ahZXxFCNLE) | [Sweet Celine](https://open.spotify.com/album/7Giv8ox5kihYKQfCwEtE7N) | 2:51 | 2025-02-01 | 2025-02-08 |
+| [Sweet Danger](https://open.spotify.com/track/1IPRwv7FqZvdaawA2YWCcQ) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Sweet Danger](https://open.spotify.com/album/6pIdfb0OaCvfzN6QxKOJQ2) | 2:40 | 2025-04-07 |  |
 | [Sweet Delusion](https://open.spotify.com/track/7gioCtrhV0sSWw9EHipt9h) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Sweet Delusion](https://open.spotify.com/album/69voT9oEaLrFUzfJGUMwLZ) | 2:52 | 2024-10-18 | 2024-10-23 |
 | [Sweet Eyes](https://open.spotify.com/track/2cblWZLH8NAVR3ss2LUobR) | [addie dunworth](https://open.spotify.com/artist/1G8yksGII2Hsb8tEIqD6zf), [Luke Witting](https://open.spotify.com/artist/7g65Dfwgg4wXDVBgUr0acf), [HYPNOTIC](https://open.spotify.com/artist/5rsN9KdZ9Wem8GWyfMbWly) | [Sweet Eyes](https://open.spotify.com/album/5eSZZJBQZ8rIl2Xz5FfiVs) | 3:55 | 2024-06-12 | 2024-06-14 |
 | [Sweet Like](https://open.spotify.com/track/5AUVeUcBYoL7SGd8ZWMfqK) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [Sweet Like](https://open.spotify.com/album/6dkrgJVu2rfIE8iPpUyIoG) | 2:26 | 2024-12-18 | 2024-12-21 |
@@ -4070,7 +4071,7 @@
 | [TV Star](https://open.spotify.com/track/2buU8psfahKHsNb1gu6bYs) | [Du Blonde](https://open.spotify.com/artist/46MOKAqmDsUILZl3iXyPmw) | [TV Star](https://open.spotify.com/album/3DyuJj8DDnbl0tLSe3N4ga) | 3:46 | 2024-08-22 | 2024-08-24 |
 | [Tweaker](https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn) | [G3 GELO](https://open.spotify.com/artist/6Pfep8fkqFHQ87DjvWu54J) | [Tweaker](https://open.spotify.com/album/3xB16GTlwKloB2Ip22N2an) | 3:09 | 2025-01-07 | 2025-01-16 |
 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 | 2025-02-07 | 2025-02-15 |
-| [Twilight Zone \- Techno Version](https://open.spotify.com/track/4sdxn6DPlWDanjJADO1Eng) | [Fran Garro](https://open.spotify.com/artist/51pJDlC1KMvT0jKR51zoUi), [Techno Bangers](https://open.spotify.com/artist/2L7T1LvflfOJPXOEfNN1wr), [Technoglobal](https://open.spotify.com/artist/2RKhPPpnZvAJL9nLRDzUWm) | [Twilight Zone](https://open.spotify.com/album/1KTwD0cZnxYMKZBmhqJ098) | 2:41 | 2025-04-01 |  |
+| [Twilight Zone \- Techno Version](https://open.spotify.com/track/4sdxn6DPlWDanjJADO1Eng) | [Fran Garro](https://open.spotify.com/artist/51pJDlC1KMvT0jKR51zoUi), [Techno Bangers](https://open.spotify.com/artist/2L7T1LvflfOJPXOEfNN1wr), [Technoglobal](https://open.spotify.com/artist/2RKhPPpnZvAJL9nLRDzUWm) | [Twilight Zone](https://open.spotify.com/album/1KTwD0cZnxYMKZBmhqJ098) | 2:41 | 2025-04-01 | 2025-04-08 |
 | [Twisting Our Fingers](https://open.spotify.com/track/0M46V5WC2euVqHh80ey1Hw) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Twisting Our Fingers](https://open.spotify.com/album/5d61Y5uPCU4QvJCX2axHj6) | 3:36 | 2024-06-14 | 2024-06-16 |
 | [two](https://open.spotify.com/track/18ENCZw5lQc10UwwFiH1QK) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [two](https://open.spotify.com/album/1ooRAUPQgUixYyS8yHLirr) | 2:15 | 2024-10-04 | 2024-10-10 |
 | [Two Afternoons](https://open.spotify.com/track/3oJzuyFbbmGUWO5EYDbOJ6) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Two Afternoons](https://open.spotify.com/album/5TPYlOYwrZABLehLONy4D9) | 8:36 | 2024-08-20 | 2024-08-23 |
@@ -4189,6 +4190,7 @@
 | [Wanna Fxck \- Lost Tapes 2022](https://open.spotify.com/track/42cO8qdboMxJPtgOSNtygx) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Wanna Fxck \(Lost Tapes 2022\)](https://open.spotify.com/album/1M0LH6TE618SQMU62yoCC8) | 2:40 | 2024-11-29 | 2024-12-06 |
 | [WANNA SEE WHAT A KNOCK DOES](https://open.spotify.com/track/54oWOEdGmHJRc5TUMCciz3) | [BBY GOYARD](https://open.spotify.com/artist/3V5tndgREjXGlJZEvYl3Xs) | [WANNA SEE WHAT A KNOCK DOES](https://open.spotify.com/album/2xIexMDppS0y3UGrcHyYTm) | 1:56 | 2025-02-11 | 2025-02-14 |
 | [Wanna Start A Band?](https://open.spotify.com/track/34ZmfrVwRAgTFSgMSmifbD) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [Wanna Start A Band?](https://open.spotify.com/album/7keV9C1PycJqwXce1awUwZ) | 2:53 | 2025-01-31 | 2025-02-07 |
+| [WANT](https://open.spotify.com/track/4G8rbofCc2vyGZ3pbCHiUH) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [WANT](https://open.spotify.com/album/5Nz1GLdhSyy88BOSOpoNap) | 3:31 | 2025-04-07 |  |
 | [Want U](https://open.spotify.com/track/3lFbM9JdipWtVRzohsaOWk) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Want U / Safe To Say](https://open.spotify.com/album/7oPUGuvIS4164TJFayPYuJ) | 2:16 | 2024-09-21 | 2024-09-26 |
 | [WANT U AROUND](https://open.spotify.com/track/48kDKhXoZfxUUSj1JVGSbq) | [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA), [Rocci](https://open.spotify.com/artist/7JuMRNIHpmyFPoihd7NB7T) | [WANT U AROUND](https://open.spotify.com/album/09FHekp2XnxI3RpHgq17vF) | 2:53 | 2024-08-22 | 2024-08-24 |
 | [Want You to Want Me](https://open.spotify.com/track/5fhQ9KM2eWaUSWZ5S0loir) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Want You to Want Me](https://open.spotify.com/album/38bdiq4h9OWcx6kciA6EUt) | 2:33 | 2024-09-20 | 2024-09-26 |

@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 221866,
+  "num_followers": 221905,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAAA/4wC2oB4GhwO5zKi4sCTg",
+  "snapshot_id": "Z/HEAAAAAABhc8v6fOG6Myl09khQ/9pd",
   "tracks": [
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 148093,
-      "name": "El Ejecutor (Bonus Track)",
-      "url": "https://open.spotify.com/track/1DhA9CMyDg1XogiU3KLQej"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Desde Mi Ranchito",
         "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 270318,
       "name": "Un Frisian Llamado El Centenario - En Vivo",
       "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 148093,
+      "name": "El Ejecutor (Bonus Track)",
+      "url": "https://open.spotify.com/track/1DhA9CMyDg1XogiU3KLQej"
     },
     {
       "added_at": null,
@@ -887,22 +887,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Chapiza (En Vivo)",
-        "url": "https://open.spotify.com/album/0wP13AMhGNtY0GWQICl4T6"
+        "name": "El cantador (En vivo)",
+        "url": "https://open.spotify.com/album/214cTuturC6CHUNgH5P9E3"
       },
       "artists": [
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        },
-        {
-          "name": "Wil Caro",
-          "url": "https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4"
         }
       ],
-      "duration_ms": 125956,
-      "name": "La Chapiza - En Vivo",
-      "url": "https://open.spotify.com/track/3mHFLPUuMgKHjPNmOS2XTg"
+      "duration_ms": 200093,
+      "name": "El cantador - En vivo",
+      "url": "https://open.spotify.com/track/2cidQAJb7tlZqWSmUbkLgr"
     }
   ],
   "unique_name": "This Is El Komander",

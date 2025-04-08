@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 
 > This is The Offspring\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,684 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,731 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 | 44 | [Secrets From The Underground](https://open.spotify.com/track/1KblaMkte0ZEyk9k6kLW92) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Days Go By](https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9) | 3:09 |
 | 45 | [Truth In Fiction](https://open.spotify.com/track/1gx6wJfh9vN3kez2xsGDbN) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [SUPERCHARGED](https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g) | 2:00 |
 | 46 | [Cool To Hate](https://open.spotify.com/track/3M3gKehdtIR2krOZfkw2iK) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 2:47 |
-| 47 | [Behind Your Walls](https://open.spotify.com/track/0bfpMVuGjXbkZonmvymDSv) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:21 |
+| 47 | [Takes Me Nowhere](https://open.spotify.com/track/0IsjJJXTH3DzoQ13M3kK2A) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 2:59 |
 | 48 | [Dividing By Zero](https://open.spotify.com/track/2BWt8ozzFptUlrnCilgK6l) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Days Go By](https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9) | 2:22 |
-| 49 | [Takes Me Nowhere](https://open.spotify.com/track/0IsjJJXTH3DzoQ13M3kK2A) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 2:59 |
+| 49 | [Behind Your Walls](https://open.spotify.com/track/0bfpMVuGjXbkZonmvymDSv) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:21 |
 | 50 | [The Noose](https://open.spotify.com/track/0ir4rLQH0Ye3yCpWDFL1J7) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Splinter](https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL) | 3:18 |
 
-Snapshot ID: `Z/BygAAAAADRDellanE63gW1tD9i9GNG`
+Snapshot ID: `Z/HEAAAAAABBZyWCVB5wd+fA9wBKQFiE`

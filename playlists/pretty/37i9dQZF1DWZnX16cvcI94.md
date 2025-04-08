@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 
 > Los clásicos no pasan de moda\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,321 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,406 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 | 12 | [Ay Vamos](https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia B Sides](https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp) | 3:46 |
 | 13 | [Permitame \(feat\. Yandel\)](https://open.spotify.com/track/2Dbq5moIguMsbRZa9SB7gD) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [La Melodia de la Calle \(Remastered\)](https://open.spotify.com/album/3gvDroaxVajs2EDUABP3C7) | 3:04 |
 | 14 | [Ven Bailalo \- Reggaeton Mix](https://open.spotify.com/track/0e8DgtfJnWTBarF9YGMd0N) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo) | [Ven Bailalo \(Reggaeton Mix\)](https://open.spotify.com/album/6FVaqUBQlhPrGoLCllQk4y) | 4:12 |
-| 15 | [Rakata](https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Pa'l Mundo](https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP) | 2:52 |
+| 15 | [Noche De Sexo](https://open.spotify.com/track/4kAtRwNRLMKuoCbxMSxUGI) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Pa'l Mundo](https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP) | 3:25 |
 | 16 | [Zun Da Da](https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [The Perfect Melody](https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v) | 5:04 |
 | 17 | [Atrévete\-Te\-Te](https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Calle 13 \(Explicit Version\)](https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16) | 3:59 |
 | 18 | [En La Cama \(feat\. Daddy Yankee\)](https://open.spotify.com/track/2Eg6dOam7cAe5turf2bnCg) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Exitos](https://open.spotify.com/album/2qSyMVTIKLArOx4GNcvutB) | 2:37 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 | 20 | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Primera Cita](https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld) | 3:42 |
 | 21 | [Mis Ojos Lloran Por Ti](https://open.spotify.com/track/4fFgpzgSkmn3wajioLBPOr) | [Big Boy](https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG), [Angel Lopez](https://open.spotify.com/artist/0w57qOEVTcqs0bLyFJ7Q52) | [Mis Ojos Lloran Por Ti](https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc) | 4:55 |
 | 22 | [Solos \(feat\. Plan B\)](https://open.spotify.com/track/2ItA7kOg5NH6AygzU30sEv) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [La Melodia de la Calle \(Remastered\)](https://open.spotify.com/album/3gvDroaxVajs2EDUABP3C7) | 3:08 |
-| 23 | [Noche De Sexo](https://open.spotify.com/track/4kAtRwNRLMKuoCbxMSxUGI) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Pa'l Mundo](https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP) | 3:25 |
+| 23 | [Rakata](https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Pa'l Mundo](https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP) | 2:52 |
 | 24 | [Fiebre \- Prod\. King DouDou](https://open.spotify.com/track/5xtxxuIqInrLDSfjA6Co3o) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Slow Wine Mixtape](https://open.spotify.com/album/0ShnVtpw8BRsf8vzHVQvas) | 4:07 |
 | 25 | [Igual Que Ayer](https://open.spotify.com/track/2WHctubxf8LzrGr62cLz3d) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Masterpiece: Nuestra Obra Maestra](https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE) | 3:52 |
 | 26 | [Dale Don Dale](https://open.spotify.com/track/1PZrHbJjt5t7dP9OGRxcD0) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:32 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 | 47 | [Ella Se Contradice \(feat\. Plan B\)](https://open.spotify.com/track/4nNeRNXmdZWfw3IjAnITZR) | [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN), [Gringo](https://open.spotify.com/artist/29cNzWXrkNaGVL74hZK0jU), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Ella Se Contradice \(feat\. Plan B\)](https://open.spotify.com/album/3JYVc0zcw01y9Xjq16266O) | 4:16 |
 | 48 | [Lejos de Aquí](https://open.spotify.com/track/7fzErW0dRVRaTWjNLPFwUn) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Farruko Presents Los Menores](https://open.spotify.com/album/4ic94lYuJ37YBXfgsMDUWf) | 3:41 |
 | 49 | [Na De Na](https://open.spotify.com/track/5oQDYIpN3ieXNHwXAr8TXf) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo), [Gocho "El Lápiz De Platino"](https://open.spotify.com/artist/65VADjjC47dZbyOyrgNWJA), [John Eric](https://open.spotify.com/artist/0IUvQ8DrCymt5IHywZsda2) | [Showtime](https://open.spotify.com/album/03UcnEB1GF99BGjNWbybrN) | 3:22 |
-| 50 | [Gata Oficial](https://open.spotify.com/track/4jdwQISB7rhP1EO4JiwnJF) | [Luigi 21 Plus](https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v) | [El Bokisucio](https://open.spotify.com/album/6z9x1lTBNUSF8qCZ7kMiWd) | 3:54 |
+| 50 | [Sexo Seguro](https://open.spotify.com/track/5pOu3vSiKrEmj65N1CWqOI) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Welcome To The Jungle](https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz) | 3:38 |
 
 Snapshot ID: `Zl86zAAAAAAq5kwLrer/SchNzdOD6kgO`

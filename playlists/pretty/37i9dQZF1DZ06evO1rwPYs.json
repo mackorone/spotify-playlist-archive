@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 105420,
+  "num_followers": 105424,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAACf2Ak8fHthBR3ATfatDovO",
+  "snapshot_id": "Z/HEAAAAAAAn4KLuuwP3girdGonFyusT",
   "tracks": [
     {
       "added_at": null,
@@ -267,18 +267,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Todos Mis Amigos",
-        "url": "https://open.spotify.com/album/47SmOmDoPlaUD9BMoflw2A"
+        "name": "Canta Celia Cruz",
+        "url": "https://open.spotify.com/album/6fARm1KlseDeikTw6xYIop"
       },
       "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
         {
           "name": "Celia Cruz",
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 146893,
-      "name": "Cuando Estoy Contigo",
-      "url": "https://open.spotify.com/track/33AAoOl6DIWwO2ll2bxpBq"
+      "duration_ms": 160866,
+      "name": "Burundanga",
+      "url": "https://open.spotify.com/track/396apIIwi2la2MY4vWDxOM"
     },
     {
       "added_at": null,
@@ -299,22 +303,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canta Celia Cruz",
-        "url": "https://open.spotify.com/album/6fARm1KlseDeikTw6xYIop"
+        "name": "A Todos Mis Amigos",
+        "url": "https://open.spotify.com/album/47SmOmDoPlaUD9BMoflw2A"
       },
       "artists": [
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        },
         {
           "name": "Celia Cruz",
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 160866,
-      "name": "Burundanga",
-      "url": "https://open.spotify.com/track/396apIIwi2la2MY4vWDxOM"
+      "duration_ms": 146893,
+      "name": "Cuando Estoy Contigo",
+      "url": "https://open.spotify.com/track/33AAoOl6DIWwO2ll2bxpBq"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,311 likes - 50 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,345 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 47 | [Little Darlin'](https://open.spotify.com/track/0f7JTPN46BnWiRGb5A1fft) | [The Diamonds](https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga) | [The Best Of The Diamonds](https://open.spotify.com/album/5zsNB8XxgBrMHJeQjYJ7QH) | 2:09 |
 | 48 | [Love Potion No\. 9](https://open.spotify.com/track/4Frd6VT1lsdjiwfAQaSldS) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [United Artists Black Singles 1959\-1967: ''Motor City To Central Park''](https://open.spotify.com/album/0QIsqKfh4h5dWicuHWSxOC) | 1:52 |
 | 49 | [Don't Ask Me to Be Lonely](https://open.spotify.com/track/0AFnv5nhaov4aiWyl81Yb6) | [The Dubs](https://open.spotify.com/artist/33rjua7RFjy9GwqKWnbnGJ) | [The Dubs Meet The Shells](https://open.spotify.com/album/66OAMu3Uhm62dda1U22OZQ) | 2:19 |
-| 50 | [Mama Said](https://open.spotify.com/track/5sGeyWYDvUIF7QjERNCY7L) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Because I Said So \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/70gDHlCYONYFiaHZj98hLY) | 2:10 |
+| 50 | [Why Do Fools Fall In Love? \- Single Version](https://open.spotify.com/track/0QlHvmgHQ66FFaSbKkVYJM) | [Frankie Lymon & The Teenagers](https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt) | [American Graffiti](https://open.spotify.com/album/3ZQMECQRA5pu9YP6LtiiIC) | 2:19 |
 
 Snapshot ID: `ZpO4VAAAAAAvC6W2DfdxuSCrqiZeVguI`

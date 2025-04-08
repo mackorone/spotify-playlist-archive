@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 
 > soft, chewy & good for the soul\. uwu
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,756 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,829 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 65 | [The Way You Look At Me](https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Way You Look At Me](https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng) | 4:11 |
 | 66 | [Good Care](https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Good Care](https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d) | 3:14 |
 | 67 | [keepyousafe](https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b) | [Yahya](https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R) | [keepyousafe](https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9) | 4:21 |
-| 68 | [But Not For Me](https://open.spotify.com/track/6YJ7mhlmnU4kcxOsdrW0ri) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [But Not For Me](https://open.spotify.com/album/0Ja89bV6PXqLzPqE80uoXj) | 2:09 |
-| 69 | [Dancing in the Dark](https://open.spotify.com/track/7BubCfFAY8usLpIubuUxXN) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu), [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [Dancing in the Dark](https://open.spotify.com/album/7rOMHjsj1NGX26xag6rOro) | 3:18 |
+| 68 | [Dancing in the Dark](https://open.spotify.com/track/7BubCfFAY8usLpIubuUxXN) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu), [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [Dancing in the Dark](https://open.spotify.com/album/7rOMHjsj1NGX26xag6rOro) | 3:18 |
+| 69 | [But Not For Me](https://open.spotify.com/track/6YJ7mhlmnU4kcxOsdrW0ri) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [But Not For Me](https://open.spotify.com/album/0Ja89bV6PXqLzPqE80uoXj) | 2:09 |
 | 70 | [talk to me](https://open.spotify.com/track/4m1Qw2bLggqiXjasXVp28N) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [talk to me](https://open.spotify.com/album/1IVucKXEFoi7YTwrBNBA9b) | 2:40 |
 | 71 | [sweet nothings](https://open.spotify.com/track/5aC91iyzOTL31zeZOHsmip) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [Sweet Nothings \(Chapter 2\)](https://open.spotify.com/album/6JrI2T7Lx9OJn6DXnu19Bj) | 2:39 |
 | 72 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
-| 73 | [It's Okay To Not Be Okay](https://open.spotify.com/track/5Lckue0qhDiqTBKAp72BL2) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [It's Okay To Not Be Okay](https://open.spotify.com/album/3drslecLxKxhkqFX3JRQbe) | 3:29 |
-| 74 | [when the rain stops](https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 3:21 |
+| 73 | [when the rain stops](https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 3:21 |
+| 74 | [It's Okay To Not Be Okay](https://open.spotify.com/track/5Lckue0qhDiqTBKAp72BL2) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [It's Okay To Not Be Okay](https://open.spotify.com/album/3drslecLxKxhkqFX3JRQbe) | 3:29 |
 | 75 | [24](https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [24](https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR) | 4:06 |
 | 76 | [A Room Up In The Sky \(feat\. The Marías\)](https://open.spotify.com/track/2b6tGpbflP62TnzKx9TSDu) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [A Room Up In The Sky \(feat\. The Marías\)](https://open.spotify.com/album/0S4c1T8qWm1ZnCUj9edQq2) | 2:45 |
 | 77 | [I'm Blessed](https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [I'm Blessed](https://open.spotify.com/album/5EWpB07ahlO57i3zRRaIsK) | 3:38 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 95 | [MAKING MY WAY](https://open.spotify.com/track/6HGOxrNik4iPurqStawTFQ) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [MAKING MY WAY](https://open.spotify.com/album/371NWHWKJxyUYwOywWpTal) | 4:18 |
 | 96 | [grateful](https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 4:01 |
 | 97 | [dream\. \(좋은 분위기\)](https://open.spotify.com/track/5WmamrCOl3XGANufD9WmOe) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [YENTED](https://open.spotify.com/artist/4tM1FV7wm8Tp4bXhtWjBmX), [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [dream\. \(좋은 분위기\)](https://open.spotify.com/album/0LAesrqOEXIjs2285IXVis) | 3:06 |
-| 98 | [confidence in me](https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [confidence in me](https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv) | 2:42 |
+| 98 | [i confess](https://open.spotify.com/track/1HIZCdpxgYsYyCAqYi5Vtf) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [i confess](https://open.spotify.com/album/7GKaoGhCA4LBmwRxnsMTdz) | 3:13 |
 | 99 | [would you be mine?](https://open.spotify.com/track/4JXFK04oMgM5HPKOQnUWuK) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [would you be mine?](https://open.spotify.com/album/14JDs9VWM6IhPYn11VmZjp) | 3:10 |
 | 100 | [Deja Vu](https://open.spotify.com/track/6yHZVOMyiHvTJDU700B5d3) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [Deja Vu](https://open.spotify.com/album/3aB1d4YjUoxiIAq6jDo9e9) | 2:42 |
 

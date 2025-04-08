@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Halsey\n",
-  "num_followers": 62279,
+  "num_followers": 62282,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2025-04-07 01:15:44",
       "album": {
-        "name": "still love you (todav\u00eda)",
-        "url": "https://open.spotify.com/album/70DlKk4QDj2NdYnB1BL5P3"
-      },
-      "artists": [
-        {
-          "name": "The Tulips",
-          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
-        }
-      ],
-      "duration_ms": 152234,
-      "name": "still love you (todav\u00eda)",
-      "url": "https://open.spotify.com/track/4rYUOu5vQ8pjBCYZL24Gfx"
-    },
-    {
-      "added_at": "2025-04-07 01:15:44",
-      "album": {
         "name": "Don't Put It All On Me (feat. Fleet Foxes)",
         "url": "https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 247306,
       "name": "Don't Put It All On Me (feat. Fleet Foxes)",
       "url": "https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul"
+    },
+    {
+      "added_at": "2025-04-07 01:15:44",
+      "album": {
+        "name": "still love you (todav\u00eda)",
+        "url": "https://open.spotify.com/album/70DlKk4QDj2NdYnB1BL5P3"
+      },
+      "artists": [
+        {
+          "name": "The Tulips",
+          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
+        }
+      ],
+      "duration_ms": 152234,
+      "name": "still love you (todav\u00eda)",
+      "url": "https://open.spotify.com/track/4rYUOu5vQ8pjBCYZL24Gfx"
     },
     {
       "added_at": "2025-04-07 01:15:44",
@@ -295,22 +295,6 @@
     {
       "added_at": "2025-04-07 01:15:44",
       "album": {
-        "name": "Hello, Hi",
-        "url": "https://open.spotify.com/album/10HfbJ0arWU8m6YOg85Q9y"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 135996,
-      "name": "Hello, Hi",
-      "url": "https://open.spotify.com/track/3zIqekohxiaS4HF79pxHzt"
-    },
-    {
-      "added_at": "2025-04-07 01:15:44",
-      "album": {
         "name": "First",
         "url": "https://open.spotify.com/album/2yVoj5oLa2LwoRQfYmhYpj"
       },
@@ -327,22 +311,18 @@
     {
       "added_at": "2025-04-07 01:15:44",
       "album": {
-        "name": "Give Me A Sign (feat. Caroline Kingsbury)",
-        "url": "https://open.spotify.com/album/5xbuVE2oApu5EVIbJhLpEc"
+        "name": "Hello, Hi",
+        "url": "https://open.spotify.com/album/10HfbJ0arWU8m6YOg85Q9y"
       },
       "artists": [
         {
-          "name": "MARIS",
-          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
-        },
-        {
-          "name": "Caroline Kingsbury",
-          "url": "https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 179166,
-      "name": "Give Me A Sign (feat. Caroline Kingsbury)",
-      "url": "https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ"
+      "duration_ms": 135996,
+      "name": "Hello, Hi",
+      "url": "https://open.spotify.com/track/3zIqekohxiaS4HF79pxHzt"
     },
     {
       "added_at": "2025-04-07 01:15:44",
@@ -363,6 +343,26 @@
       "duration_ms": 214921,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/0hlddFDTZxC81BMFC2WINw"
+    },
+    {
+      "added_at": "2025-04-07 01:15:44",
+      "album": {
+        "name": "Give Me A Sign (feat. Caroline Kingsbury)",
+        "url": "https://open.spotify.com/album/5xbuVE2oApu5EVIbJhLpEc"
+      },
+      "artists": [
+        {
+          "name": "MARIS",
+          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
+        },
+        {
+          "name": "Caroline Kingsbury",
+          "url": "https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg"
+        }
+      ],
+      "duration_ms": 179166,
+      "name": "Give Me A Sign (feat. Caroline Kingsbury)",
+      "url": "https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ"
     },
     {
       "added_at": "2025-04-07 01:15:44",
@@ -503,22 +503,6 @@
     {
       "added_at": "2025-04-07 01:15:44",
       "album": {
-        "name": "T&A",
-        "url": "https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 225280,
-      "name": "T&A",
-      "url": "https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI"
-    },
-    {
-      "added_at": "2025-04-07 01:15:44",
-      "album": {
         "name": "Dumb Feeling",
         "url": "https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi"
       },
@@ -535,18 +519,18 @@
     {
       "added_at": "2025-04-07 01:15:44",
       "album": {
-        "name": "Bovine Excision",
-        "url": "https://open.spotify.com/album/6CMquIsmPgGoeLRAHTiVSt"
+        "name": "T&A",
+        "url": "https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2"
       },
       "artists": [
         {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
         }
       ],
-      "duration_ms": 173177,
-      "name": "Bovine Excision",
-      "url": "https://open.spotify.com/track/1ASUVRxADu66bSIKV9XN9r"
+      "duration_ms": 225280,
+      "name": "T&A",
+      "url": "https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI"
     },
     {
       "added_at": "2025-04-07 01:15:44",
@@ -563,6 +547,22 @@
       "duration_ms": 185433,
       "name": "Galt",
       "url": "https://open.spotify.com/track/7j5hpfBlM5TqY3DkXTpGq6"
+    },
+    {
+      "added_at": "2025-04-07 01:15:44",
+      "album": {
+        "name": "Bovine Excision",
+        "url": "https://open.spotify.com/album/6CMquIsmPgGoeLRAHTiVSt"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 173177,
+      "name": "Bovine Excision",
+      "url": "https://open.spotify.com/track/1ASUVRxADu66bSIKV9XN9r"
     },
     {
       "added_at": "2025-04-07 01:15:44",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-04-07 01:15:44",
       "album": {
-        "name": "Portrait of My Heart",
-        "url": "https://open.spotify.com/album/4jAkrzJD6q10Xu97025aAC"
-      },
-      "artists": [
-        {
-          "name": "SPELLLING",
-          "url": "https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh"
-        }
-      ],
-      "duration_ms": 282850,
-      "name": "Portrait of My Heart",
-      "url": "https://open.spotify.com/track/7GlExXS4otYR7sntsPMcMd"
-    },
-    {
-      "added_at": "2025-04-07 01:15:44",
-      "album": {
         "name": "Nichel",
         "url": "https://open.spotify.com/album/7GdtvwkG1Zd42hsS9FM03f"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 236923,
       "name": "Nichel",
       "url": "https://open.spotify.com/track/6USIYSkp1Fu2URHE1ptEuf"
+    },
+    {
+      "added_at": "2025-04-07 01:15:44",
+      "album": {
+        "name": "Portrait of My Heart",
+        "url": "https://open.spotify.com/album/4jAkrzJD6q10Xu97025aAC"
+      },
+      "artists": [
+        {
+          "name": "SPELLLING",
+          "url": "https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh"
+        }
+      ],
+      "duration_ms": 282850,
+      "name": "Portrait of My Heart",
+      "url": "https://open.spotify.com/track/7GlExXS4otYR7sntsPMcMd"
     },
     {
       "added_at": "2025-04-07 01:15:44",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-04-07 01:15:44",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/4mOnUAViaWVgbJJB8syth2"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 205962,
-      "name": "If God Is a Woman",
-      "url": "https://open.spotify.com/track/0u5MLiarQBMVQ01986KqsC"
-    },
-    {
-      "added_at": "2025-04-07 01:15:44",
-      "album": {
         "name": "Going Higher",
         "url": "https://open.spotify.com/album/1Wybf9w4RZV1UoO9tqTwVT"
       },
@@ -1019,6 +1003,22 @@
     {
       "added_at": "2025-04-07 01:15:44",
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4mOnUAViaWVgbJJB8syth2"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 205962,
+      "name": "If God Is a Woman",
+      "url": "https://open.spotify.com/track/0u5MLiarQBMVQ01986KqsC"
+    },
+    {
+      "added_at": "2025-04-07 01:15:44",
+      "album": {
         "name": "Shovel",
         "url": "https://open.spotify.com/album/20inwFAoFRYsDFX4xZGI8J"
       },
@@ -1031,22 +1031,6 @@
       "duration_ms": 269373,
       "name": "Shovel",
       "url": "https://open.spotify.com/track/0fSXZI1ujijicFIf2gP8pd"
-    },
-    {
-      "added_at": "2025-04-07 01:15:44",
-      "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/3kUuaCcH2A6FDjYAZ8H89H"
-      },
-      "artists": [
-        {
-          "name": "Anna Vaus",
-          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
-        }
-      ],
-      "duration_ms": 178327,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/29wV9roYIEAbZidbfOQbC7"
     },
     {
       "added_at": "2025-04-07 01:15:44",
@@ -1091,6 +1075,22 @@
       "duration_ms": 203872,
       "name": "Wherever You Are - Radio Mix",
       "url": "https://open.spotify.com/track/7x1WL4uE97GjAdWe9IMiNE"
+    },
+    {
+      "added_at": "2025-04-07 01:15:44",
+      "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/3kUuaCcH2A6FDjYAZ8H89H"
+      },
+      "artists": [
+        {
+          "name": "Anna Vaus",
+          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
+        }
+      ],
+      "duration_ms": 178327,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/29wV9roYIEAbZidbfOQbC7"
     }
   ],
   "unique_name": "EQUAL US",

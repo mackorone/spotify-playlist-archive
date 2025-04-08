@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 
 > This is Kenny G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,248 likes - 44 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,295 likes - 44 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 9 | [Loving You \- Edit](https://open.spotify.com/track/0KH4lkNCzPACif93d7u7A9) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 3:19 |
 | 10 | [You're Beautiful](https://open.spotify.com/track/0Wt0LiQPwDLEu6d1iH4b1k) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 4:12 |
 | 11 | [Morning](https://open.spotify.com/track/34U2gC6p6jFnoY4ts5imyb) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 5:13 |
-| 12 | [Missing You Now \(feat\. Kenny G\)](https://open.spotify.com/track/7ho5FKdNqmmbCpXYcyDH8c) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Time, Love & Tenderness](https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm) | 4:33 |
-| 13 | [Havana](https://open.spotify.com/track/3h94vp5QyqopAwVolKhM5l) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 7:20 |
+| 12 | [Havana](https://open.spotify.com/track/3h94vp5QyqopAwVolKhM5l) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 7:20 |
+| 13 | [Missing You Now \(feat\. Kenny G\)](https://open.spotify.com/track/7ho5FKdNqmmbCpXYcyDH8c) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Time, Love & Tenderness](https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm) | 4:33 |
 | 14 | [If](https://open.spotify.com/track/05CovbrGQALQUh4yVonNfa) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [I'm In The Mood For Love ..\. The Most Romantic Melodies Of All Time](https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM) | 3:25 |
 | 15 | [In The Rain](https://open.spotify.com/track/41bWhFyo0NndpMMedZGMl0) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 5:00 |
 | 16 | [Everlasting](https://open.spotify.com/track/4wukH3ea6NqekDg98qB9F2) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Ultimate Kenny G](https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P) | 4:16 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 43 | [That Somebody Was You \(with Toni Braxton\)](https://open.spotify.com/track/3xLKkJUafOtel0oe25XABQ) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 5:02 |
 | 44 | [The Look Of Love](https://open.spotify.com/track/3k9Yi9FsAUrpOVTgyQOIDa) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Ultimate Kenny G](https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P) | 5:15 |
 
-Snapshot ID: `Z/BygAAAAAADprslV9zSnN5AOKmN6Va8`
+Snapshot ID: `Z/HEAAAAAAAxzYXRaS7+45fqkMX9Mhtd`

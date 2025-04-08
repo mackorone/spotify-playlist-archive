@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pUKG1kS0Ac.md) - [plain]
 
 > You say guilty, we say non stop bangers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,392,226 likes - 150 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,392,224 likes - 150 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,11 +125,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pUKG1kS0Ac.md) - [plain]
 | 115 | [I Kissed A Girl](https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 2:59 |
 | 116 | [Two Princes](https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:16 |
 | 117 | [Centerfold](https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [Freeze Frame](https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch) | 3:36 |
-| 118 | [Love Shack](https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Cosmic Thing](https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS) | 5:20 |
-| 119 | [Angeleyes](https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:20 |
+| 118 | [Angeleyes](https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:20 |
+| 119 | [Love Shack](https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Cosmic Thing](https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS) | 5:20 |
 | 120 | [Video Killed The Radio Star](https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX) | [The Buggles](https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal) | [The Age Of Plastic](https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ) | 4:12 |
-| 121 | [Cruise](https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:28 |
-| 122 | [Gonna Make You Sweat \(Everybody Dance Now\) \(feat\. Freedom Williams\)](https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF) | [C & C Music Factory](https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF), [Freedom Williams](https://open.spotify.com/artist/08MVPakTEdRJimQNV61NFR) | [Super Hits](https://open.spotify.com/album/7wlnHCWKkBXBWtYgpaCaz7) | 4:04 |
+| 121 | [Gonna Make You Sweat \(Everybody Dance Now\) \(feat\. Freedom Williams\)](https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF) | [C & C Music Factory](https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF), [Freedom Williams](https://open.spotify.com/artist/08MVPakTEdRJimQNV61NFR) | [Super Hits](https://open.spotify.com/album/7wlnHCWKkBXBWtYgpaCaz7) | 4:04 |
+| 122 | [Cruise](https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:28 |
 | 123 | [Sexy And I Know It](https://open.spotify.com/track/70Vdd1gx5tn84jkAU31ASv) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl) | [Sorry For Party Rocking](https://open.spotify.com/album/0D49RvtlLCKyxeDKDnBU2R) | 3:19 |
 | 124 | [Truly Madly Deeply](https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 4:37 |
 | 125 | [Give It Up](https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [All In a Night's Work \(Expanded Version\)](https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2) | 4:14 |

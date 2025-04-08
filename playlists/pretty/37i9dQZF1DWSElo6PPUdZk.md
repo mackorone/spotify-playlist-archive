@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Simiran Kaur Dhadli
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,581 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,592 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 33 | [Sajjan Chale Gaye](https://open.spotify.com/track/29RfARPUckT0h2VwaCG8jb) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [Little Boi](https://open.spotify.com/artist/4rgTolxMdRlzcWwUNz7seh) | [Sajjan Chale Gaye](https://open.spotify.com/album/578cr7TmZADIGksSb46Omo) | 3:54 |
 | 34 | [Rafflan](https://open.spotify.com/track/64LiKpnfoGb5E6h3TsTnEP) | [Sahiba Aulakh](https://open.spotify.com/artist/1dOU4M0v0yeTczwMOhIBWh), [Gurbilling](https://open.spotify.com/artist/5Ae4guOm8OzoaSunZvltCq) | [Rafflan](https://open.spotify.com/album/0H24XMNw4pK8lyXrTgHYMD) | 2:12 |
 | 35 | [Babul](https://open.spotify.com/track/6b7Nn2mkfXeS4Ij0PjySu4) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Ranjha Rajan](https://open.spotify.com/artist/4dHeX7BNfbSKdO8qAs555N), [Piyush Chhabra](https://open.spotify.com/artist/7cErzZIv8GyIE1SQwGRCOO) | [Babul](https://open.spotify.com/album/18CM5e5toairZKnviHUVWC) | 5:25 |
-| 36 | [Nattiyaan](https://open.spotify.com/track/1oEczJPtEiZb1RfJDDdZ16) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Kavvy Riyaaz](https://open.spotify.com/artist/4NQtFuGJoyFup7YPfqOInx), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Nattiyaan](https://open.spotify.com/album/1uohMZNC2AJ0AsjHyKbB7w) | 3:30 |
+| 36 | [Nattiyaan](https://open.spotify.com/track/1oEczJPtEiZb1RfJDDdZ16) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Kavy Riyyaaz](https://open.spotify.com/artist/3E3EEtTlriPOWoIdyPTiX7), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Nattiyaan](https://open.spotify.com/album/1uohMZNC2AJ0AsjHyKbB7w) | 3:30 |
 | 37 | [Bomb Girls](https://open.spotify.com/track/6lzT9XZmdDnGhHQO35NsxO) | [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [Jashan Heer](https://open.spotify.com/artist/1be4zPbQAEj3xPKMwzqYK3), [Ritu Jass](https://open.spotify.com/artist/2FxBavpSzU5ZeSdeirCw7D) | [Bomb Girls](https://open.spotify.com/album/0WRy57nLzCeCoy1u8CzQRT) | 2:43 |
 | 38 | [Jodi Teri Meri](https://open.spotify.com/track/4eVi7UxmpSIPiQ989dd8R2) | [Ajooni Dhillon](https://open.spotify.com/artist/5w2yqx7lnbYkZIgB3MouZa) | [Jodi Teri Meri](https://open.spotify.com/album/2hbCssH7iU6qRETkBlIyiP) | 2:46 |
 | 39 | [Yaari](https://open.spotify.com/track/5qMOxQs2vj9b5Vdh4pj8bi) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX), [Lucas](https://open.spotify.com/artist/7y1Z5RFuhmn0L1in87Hayd) | [Flowers](https://open.spotify.com/album/2u13scMhPhD0LvK1ZZFXhH) | 2:19 |

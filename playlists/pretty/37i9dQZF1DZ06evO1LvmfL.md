@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 
 > This is Teddy Swims\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,726 likes - 49 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,152 likes - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 | 27 | [Tell Me](https://open.spotify.com/track/3WyUluIcDGvi2sCAOpiJUH) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 2:56 |
 | 28 | [Easy To Love](https://open.spotify.com/track/0BLxPjFEOG8G1q8AKLuz3V) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Feel Again](https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM) | 2:31 |
 | 29 | [Blinding Lights](https://open.spotify.com/track/66aMnwdhkEc1V0AAnyYchX) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Blinding Lights](https://open.spotify.com/album/4vh9LW3igRT6NayBnmb8fZ) | 3:34 |
-| 30 | [Your Kind of Crazy](https://open.spotify.com/track/4WJ6n3hm5R5vOuDno4UqZv) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 3:02 |
-| 31 | [Someone You Loved](https://open.spotify.com/track/0voD3AU9IVGAyCXeV8GeSz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Someone You Loved](https://open.spotify.com/album/2e5jps2AoZA1q89RCCocHR) | 2:59 |
+| 30 | [Someone You Loved](https://open.spotify.com/track/0voD3AU9IVGAyCXeV8GeSz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Someone You Loved](https://open.spotify.com/album/2e5jps2AoZA1q89RCCocHR) | 2:59 |
+| 31 | [Your Kind of Crazy](https://open.spotify.com/track/4WJ6n3hm5R5vOuDno4UqZv) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 3:02 |
 | 32 | [Sometimes](https://open.spotify.com/track/0Pfk6RzGNhwEP6HeEGH7Ya) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sometimes](https://open.spotify.com/album/7zF4bGdgix6bS2d1Fank0g) | 2:58 |
 | 33 | [Amazing](https://open.spotify.com/track/1UlaB17A3XYcsObZaXqUjF) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 2:55 |
 | 34 | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/0mHk41X0RRc6pqrcq1gQAr) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 3:33 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 | 48 | [What's Going On](https://open.spotify.com/track/4hEAuRbB3YsnCw7DE2nJZV) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [What's Going On](https://open.spotify.com/album/6FM3DFNTx8Xzke2ucmNY7N) | 3:49 |
 | 49 | [Someone Who Loved You](https://open.spotify.com/track/144wciVMFV19YTkmZ50g4z) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:57 |
 
-Snapshot ID: `Z/BygAAAAABPg78ev0x6MH+keK/2YjgK`
+Snapshot ID: `Z/HEAAAAAACHXb57goSWI3urYZcMehx7`

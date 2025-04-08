@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,350 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,353 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [BIG DEAL \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/1bt7CW9eLvrgYqMuBFqHOf) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:33 |
 | 50 | [LIFELINE](https://open.spotify.com/track/7jmSuVVemJ0ixY1Xcd3F3t) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 3:21 |
 
-Snapshot ID: `Z/BygAAAAAAaDWl+fYTaDrwVNZ9WEvGp`
+Snapshot ID: `Z/HEAAAAAADaR2YP7iZC33coMutsFo+h`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lb5gk.md) - [plain]
 
 > This is Gojira\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,152 likes - 43 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,179 likes - 43 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lb5gk.md) - [plain]
 | 42 | [Wisdom comes](https://open.spotify.com/track/7CqxbQZNgiXlkryKzWLh6I) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The link](https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz) | 2:25 |
 | 43 | [The link](https://open.spotify.com/track/41lvb0OvnkBSDnbSvy3qlt) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The link](https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz) | 5:00 |
 
-Snapshot ID: `Z/BygAAAAABr0ulGcSz+slI9RFeKKg6Q`
+Snapshot ID: `Z/HEAAAAAAD9kmGNOiOYyv+ikH1+2kLR`

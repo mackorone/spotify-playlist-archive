@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,051 songs - 3 day 3 hr 38 min
+1,052 songs - 3 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,6 +441,7 @@
 | [Icy Blue Coral](https://open.spotify.com/track/5PpPdaQ8GRL4Gqe1uPgQiM) | [RRUCCULLA](https://open.spotify.com/artist/4DyRwqRYLu9youbREKFzNU) | [Icy Blue Coral](https://open.spotify.com/album/7atJTBDdLCwGeTZS7jeDg6) | 3:48 | 2019-06-19\* | 2020-10-22 |
 | [If It Gets Too Much](https://open.spotify.com/track/3vWW4WpAcWIny0Va4TsB1B) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi) | [If It Gets Too Much](https://open.spotify.com/album/7xESmXF1SKMnNr5eO9l7qP) | 3:52 | 2021-07-23 | 2022-07-29 |
 | [If You Come Back \(Aerocity Rework\)](https://open.spotify.com/track/7CgMevmCBwaGAEjXtvaj0e) | [Aerocity](https://open.spotify.com/artist/7okjj9cvvx9TZJWPyhCYK0), [Luis Miehlich](https://open.spotify.com/artist/5Svhb6ldQU7zDxl7awpuWO) | [If You Come Back \(Aerocity Rework\)](https://open.spotify.com/album/6lM9lNJ5ZQDDj1CiOkF6TW) | 4:31 | 2019-06-19\* | 2022-04-18 |
+| [If you love solitude, you don’t love freedom](https://open.spotify.com/track/68ehun5XeirwMPnwTSyefV) | [Tomat](https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa) | [OHT Frankenstein](https://open.spotify.com/album/4MKhYeAecBQHpHMy2bH12f) | 4:52 | 2025-04-04 |  |
 | [Ignite](https://open.spotify.com/track/4rASL3i2iDgSbWbs2PaEYO) | [Anki](https://open.spotify.com/artist/6IDgN356to8svgrWLUAIoC) | [Circadian](https://open.spotify.com/album/7gWbOaIkcSkpcyPoNZycW6) | 4:05 | 2019-05-26\* | 2020-08-26 |
 | [Ignorant](https://open.spotify.com/track/51Ewo6PHmCgt17vHxSUOIi) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Persistence](https://open.spotify.com/album/0M8hVQmgiXv7mr8TkmWHSA) | 3:03 | 2019-06-19\* | 2020-10-19 |
 | [Imagination](https://open.spotify.com/track/4jsWwL5JRWrHrWRqid2Jvg) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Imagination](https://open.spotify.com/album/15R2xjP52mnJkWztc1pgCo) | 5:49 | 2021-04-24 |  |
@@ -635,7 +636,7 @@
 | [Nuova Atlantide](https://open.spotify.com/track/7obbiHF6noRBSzVpJxSMkx) | [Francesca Heart](https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT) | [Eurybia](https://open.spotify.com/album/4ZqTaLiWcfUe2focRp293x) | 3:18 | 2023-10-13 | 2024-06-28 |
 | [NYCBB](https://open.spotify.com/track/2ElopavsuSGqBoBclJfQs2) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Célia Tiab](https://open.spotify.com/artist/4CGHZ152neZaJf6gqAsxoZ) | [NYCBB](https://open.spotify.com/album/0IFVaajtSom4dIKY8oLHg8) | 4:16 | 2021-07-23 | 2022-07-29 |
 | [Nyquist](https://open.spotify.com/track/2vPlEZrLXYhZkMzEFyfroi) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [mau5ville: Level 1](https://open.spotify.com/album/1DH1jrRHjCyAEDwTmHmMZe) | 3:18 | 2019-06-19\* | 2020-10-21 |
-| [Nº2 Adaptación](https://open.spotify.com/track/1XgValRSxaW12elJuaQE83) | [Nau Leone](https://open.spotify.com/artist/4xf4u86Lsh1D8rIJxeuV7b) | [Nº2 Adaptación](https://open.spotify.com/album/2KP8Jaags6lftDCfsIIZ9B) | 3:26 | 2025-02-14 |  |
+| [Nº2 Adaptación](https://open.spotify.com/track/1XgValRSxaW12elJuaQE83) | [Nau Leone](https://open.spotify.com/artist/4xf4u86Lsh1D8rIJxeuV7b) | [Nº2 Adaptación](https://open.spotify.com/album/2KP8Jaags6lftDCfsIIZ9B) | 3:26 | 2025-02-14 | 2025-04-08 |
 | [Objetos enterrados](https://open.spotify.com/track/7FaExpIZZk59EspBTrp1G0) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Objetos enterrados](https://open.spotify.com/album/6bzxe3foKkJVAuZsFkPdRk) | 4:50 | 2024-11-15 |  |
 | [Observatory](https://open.spotify.com/track/03cokFHBxSgFZxfVJ0N8U6) | [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [Observatory](https://open.spotify.com/album/4LJiWGLyWHTGouMFDRVoom) | 2:14 | 2019-06-19\* | 2020-10-21 |
 | [Observer](https://open.spotify.com/track/5WFbxlg2dUDhSMGkP6VTZe) | [DigiDogz](https://open.spotify.com/artist/1dcQEHWXq8rz6vcSxHiaCY) | [Observer](https://open.spotify.com/album/72P46Z6pwyFLaZChEfqHKG) | 3:42 | 2019-06-19\* | 2022-04-21 |

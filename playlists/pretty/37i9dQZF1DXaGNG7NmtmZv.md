@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 
 > Classic songs from the legends of the hardcore scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,979 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,009 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 18 | [Let's Pretend](https://open.spotify.com/track/2fnHEggVPhncefeyheMsfw) | [Life Of Agony](https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl) | [Ugly](https://open.spotify.com/album/0DfwAJXDy8TzMgRuPNsjkc) | 3:58 |
 | 19 | [Wake the Dead](https://open.spotify.com/track/0Ux0LyZRoLFiXfyKZtt6IE) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [Wake The Dead](https://open.spotify.com/album/12E474LltJ7NCZD2L2kvR0) | 3:17 |
 | 20 | [Over the Years](https://open.spotify.com/track/3svN7piEFZc4fn5paLZOOJ) | [25 Ta Life](https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew) | [Friendship Loyalty Commitment](https://open.spotify.com/album/7GxJgugUEG0uVauoECAi7I) | 2:05 |
-| 21 | [Total War](https://open.spotify.com/track/6ssujYDvWvyC5H8ZBjRW3K) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Neutralize the Threat](https://open.spotify.com/album/1cvZ2jWkoHj5uxdl3P8VP1) | 3:38 |
+| 21 | [Take a Stand](https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ) | [Youth Of Today](https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL) | [Break Down The Walls](https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX) | 1:40 |
 | 22 | [Get This Right!](https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv) | [Raised Fist](https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm) | [Dedication](https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G) | 3:30 |
-| 23 | [Take a Stand](https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ) | [Youth Of Today](https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL) | [Break Down The Walls](https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX) | 1:40 |
+| 23 | [Total War](https://open.spotify.com/track/6ssujYDvWvyC5H8ZBjRW3K) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Neutralize the Threat](https://open.spotify.com/album/1cvZ2jWkoHj5uxdl3P8VP1) | 3:38 |
 | 24 | [Blood](https://open.spotify.com/track/0ai9xvb85BylFJ9JP2ogxe) | [Candiria](https://open.spotify.com/artist/2HlW9aXquEwJ3ywGlPEUPp) | [What Doesn't Kill You Will Make You Stronger](https://open.spotify.com/album/4TOosWzdrqh1WxHkRbvxMZ) | 3:16 |
 | 25 | [Element](https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65) | [Vision Of Disorder](https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil) | [Vision of Disorder](https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD) | 3:13 |
 | 26 | [Break Through It All](https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB) | [Death Before Dishonor](https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5) | [Count Me In](https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv) | 3:01 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 39 | [In The Blood](https://open.spotify.com/track/1xeq7bGqYQr89IH2dUwnJf) | [One King Down](https://open.spotify.com/artist/782HAMHn2gK7WqWZZ7aJ9D) | [God Loves Man Kills](https://open.spotify.com/album/74mZMod95TaB70r5reWSdm) | 3:37 |
 | 40 | [Ransom Note](https://open.spotify.com/track/6hLqoz9CEzw6zKKE4gWYSQ) | [Endicott](https://open.spotify.com/artist/4TTcoDVJp3NdA6lfQXcWKF) | [Words in Ink Don't Lie](https://open.spotify.com/album/5qPhk8Oqdd4VxJCwH7pJEu) | 2:39 |
 | 41 | [Caboose](https://open.spotify.com/track/4XetuNNt2wx5lkZGS4L5r5) | [Snapcase](https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W) | [Progression Through Unlearning](https://open.spotify.com/album/7rIYvEhntzeIkIE78b486h) | 2:33 |
-| 42 | [Choices Made](https://open.spotify.com/track/6RwlqbbXVy8DjRmTgxxRx5) | [CIV](https://open.spotify.com/artist/1PyldAvwu9cUk9wn2wBWh9) | [Solid Bond: The Complete Discography](https://open.spotify.com/album/4e36aYT7dRveOWWd5HPAgY) | 2:28 |
-| 43 | [Somebody's Gonna Get Their Head Kicked In](https://open.spotify.com/track/4sX8M88xU9mDZxEFAdUuyL) | [Murphy's Law](https://open.spotify.com/artist/3EVzblmlRt3zPoB982Gr0G) | [Punk Rock Jukebox](https://open.spotify.com/album/21nSjjFjAhQAUO1smiuQJS) | 2:04 |
+| 42 | [Somebody's Gonna Get Their Head Kicked In](https://open.spotify.com/track/4sX8M88xU9mDZxEFAdUuyL) | [Murphy's Law](https://open.spotify.com/artist/3EVzblmlRt3zPoB982Gr0G) | [Punk Rock Jukebox](https://open.spotify.com/album/21nSjjFjAhQAUO1smiuQJS) | 2:04 |
+| 43 | [Choices Made](https://open.spotify.com/track/6RwlqbbXVy8DjRmTgxxRx5) | [CIV](https://open.spotify.com/artist/1PyldAvwu9cUk9wn2wBWh9) | [Solid Bond: The Complete Discography](https://open.spotify.com/album/4e36aYT7dRveOWWd5HPAgY) | 2:28 |
 | 44 | [Step Down](https://open.spotify.com/track/2t4jzAAzlt4BasOuHPrJ0k) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Scratch The Surface](https://open.spotify.com/album/76TWjo9O40anFFnKtyACcd) | 3:10 |
 | 45 | [I Know Why](https://open.spotify.com/track/1caybCua72nNZzvFYQ3Yzy) | [H2O](https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo) | [H2O](https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC) | 2:50 |
 | 46 | [Shark Ethic](https://open.spotify.com/track/5o4ZaZnfWGRr7GWXU4LsXm) | [Most Precious Blood](https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu) | [Merciless](https://open.spotify.com/album/2FAsfrChg9GvQAa1wDGsEV) | 3:40 |

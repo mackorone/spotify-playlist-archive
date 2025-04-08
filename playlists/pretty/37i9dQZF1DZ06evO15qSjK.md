@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15qSjK.md) - [plain]
 
 > This is Kidz Bop Kids\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,851 likes - 47 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,859 likes - 47 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15qSjK.md) - [plain]
 | 32 | [Kings & Queens](https://open.spotify.com/track/4wbEBmAhxOchkSdfltzavr) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:26 |
 | 33 | [Where Have You Been](https://open.spotify.com/track/4ct4lFBPFzEiXYsYGG8zv8) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Megapop](https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW) | 3:43 |
 | 34 | [abc](https://open.spotify.com/track/0QzUsAQRKzzDWXffugmOja) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Super POP!](https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK) | 2:47 |
-| 35 | [Good 4 U](https://open.spotify.com/track/2WiPuzLGu2LKOjYQ2SMLcf) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:46 |
-| 36 | [Havana](https://open.spotify.com/track/1dnJkyBbi3gDPoT1IFYR9j) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 37](https://open.spotify.com/album/48NOB9lIic6YIouK1B4GMj) | 2:41 |
+| 35 | [Havana](https://open.spotify.com/track/1dnJkyBbi3gDPoT1IFYR9j) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 37](https://open.spotify.com/album/48NOB9lIic6YIouK1B4GMj) | 2:41 |
+| 36 | [Good 4 U](https://open.spotify.com/track/2WiPuzLGu2LKOjYQ2SMLcf) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:46 |
 | 37 | [10,000 Hours](https://open.spotify.com/track/3swVZl6ayrUkNaujFC9XeS) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Megapop](https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW) | 2:48 |
 | 38 | [I Don't Care](https://open.spotify.com/track/2iJJ6xdKdaLkFB6qVNaFsS) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 40](https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ) | 3:41 |
 | 39 | [About That Time](https://open.spotify.com/track/57dJa4G5Iaz26OMpGeJqmj) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 3:12 |
-| 40 | [Intentions](https://open.spotify.com/track/6gnkJg4PI3nFB2dH0p7Zcg) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:42 |
-| 41 | [Thunder](https://open.spotify.com/track/6zJiQz6bAScLMLn2OzhN6o) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 37](https://open.spotify.com/album/48NOB9lIic6YIouK1B4GMj) | 2:26 |
+| 40 | [Thunder](https://open.spotify.com/track/6zJiQz6bAScLMLn2OzhN6o) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 37](https://open.spotify.com/album/48NOB9lIic6YIouK1B4GMj) | 2:26 |
+| 41 | [Intentions](https://open.spotify.com/track/6gnkJg4PI3nFB2dH0p7Zcg) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:42 |
 | 42 | [I Gotta Feeling \- Redo Version](https://open.spotify.com/track/1Svh4ExakKVb26eflqL6KO) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:39 |
 | 43 | [Certified BOP](https://open.spotify.com/track/641ANdwXeeUu6QLkgXqGb3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 50](https://open.spotify.com/album/1N7y2uOiGxoza5nabKtsMA) | 2:30 |
 | 44 | [The Middle](https://open.spotify.com/track/02hItgiP8fFBLHCJ4fhhUy) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 38](https://open.spotify.com/album/45kCF1eONbksVLaWkorZLF) | 2:49 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15qSjK.md) - [plain]
 | 46 | [Party In The USA \- Redo Version](https://open.spotify.com/track/5tvBQ9zlAxMzAt7GI7ik2n) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:26 |
 | 47 | [As It Was](https://open.spotify.com/track/7FRpO17fjYvHTniQmq3Rav) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Super POP!](https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK) | 2:42 |
 
-Snapshot ID: `Z/BygAAAAADXW4a8WresgvU0FsK0vFP3`
+Snapshot ID: `Z/HEAAAAAACVIzshCMidMIL15s6o3L1B`

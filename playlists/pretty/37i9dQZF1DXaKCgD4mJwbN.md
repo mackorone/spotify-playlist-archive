@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKCgD4mJwbN.md) - [plain]
 
 > Puras rolitas pa' empinar el codo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,139,667 likes - 125 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,139,749 likes - 125 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKCgD4mJwbN.md) - [plain]
 | 73 | [Felicidades](https://open.spotify.com/track/3RxqFMGljx897MC9yApidW) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Felicidades](https://open.spotify.com/album/6yZG4ygkTClT7lTi73n9fl) | 3:09 |
 | 74 | [Tranquilito](https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Décimo Aniversario](https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca) | 2:44 |
 | 75 | [Modo DND](https://open.spotify.com/track/1TEKUj8c5iyRNUUxo9SdSD) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Modo DND](https://open.spotify.com/album/0HkgYr2M6KeK2dWgIJE6AC) | 3:40 |
-| 76 | [CCC \- Remix](https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CCC \(Remix\)](https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo) | 2:27 |
-| 77 | [Como Quieras Quiero](https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 2:02 |
+| 76 | [Como Quieras Quiero](https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 2:02 |
+| 77 | [CCC \- Remix](https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CCC \(Remix\)](https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo) | 2:27 |
 | 78 | [La Historia \(En Vivo\)](https://open.spotify.com/track/0SnYsuBjmOlqdPQQQGcx7Z) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Desde La Playa "En Vivo desde Mazatlan, Sinaloa"](https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI) | 4:00 |
 | 79 | [Di Que Si](https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Di Que Si](https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e) | 3:10 |
 | 80 | [Proyecto X](https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Proyecto X](https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs) | 2:38 |

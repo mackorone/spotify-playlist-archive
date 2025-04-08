@@ -4,7 +4,7 @@
 
 > Made in Morocco, 100% hits marocains.
 
-447 songs - 23 hr 54 min
+448 songs - 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [Psychologue](https://open.spotify.com/track/0qS4qhRKL177FnJofUIwQx) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Psychologue](https://open.spotify.com/album/6Ro6eqJkkWKKbYef8pKdOh) | 3:02 | 2024-12-10 |  |
 | [QUÉ LO QUE](https://open.spotify.com/track/0q6LKoEDUwO7DJZsuZcxcN) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [QUÉ LO QUE](https://open.spotify.com/album/0KU4bZdJPmvXqwgdjORrtx) | 3:01 | 2024-07-02 | 2024-08-29 |
 | [Rah Ditou](https://open.spotify.com/track/2DSbRIizPDDoexJgSbxQzo) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Nar](https://open.spotify.com/album/6k1p2MPYhbk1Uk83yOJmFd) | 2:52 | 2023-04-28 | 2023-06-09 |
+| [Rassi \(feat\. ElGrandeToto\)](https://open.spotify.com/track/4MqDpQPykbFcJeF8xruknN) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Chahid](https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb) | [Rassi \(feat\. ElGrandeToto\)](https://open.spotify.com/album/58SNMyClBKyTzSRQLaGHzv) | 3:00 | 2025-04-07 |  |
 | [RAZONES \(feat\. Morad\)](https://open.spotify.com/track/62OmBF30kfTb0XLbGZPeTS) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:04 | 2024-08-28 | 2024-10-02 |
 | [Reg Deg](https://open.spotify.com/track/0nDv1POQ4pYeqjwmBT5LFC) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 3:01 | 2023-06-08 | 2023-07-10 |
 | [Rmadi](https://open.spotify.com/track/0muYqG3zcO7STxOBSErQ7s) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [Rmadi](https://open.spotify.com/album/0nRgtWj4KcY9ZMSWepds3P) | 3:48 | 2023-07-09 | 2025-02-13 |
@@ -435,7 +436,7 @@
 | [Ykoun Li Ykoun](https://open.spotify.com/track/6NMJafTjSDcjwX3rYwvSug) | [Chirin](https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv) | [Ykoun Li Ykoun](https://open.spotify.com/album/6ddXQnvwLEAM06VJI51TJ8) | 2:42 | 2022-11-10 | 2022-11-24 |
 | [Zahri](https://open.spotify.com/track/2zNX2jsAoYjWoSWNvdVzRr) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Zahri](https://open.spotify.com/album/6Y1e0RlGzHc4GGIu8bOePo) | 3:04 | 2023-12-15 | 2024-06-14 |
 | [ZAHRI \| زهري](https://open.spotify.com/track/5GOHFjp04ixjNNyYIPXAWG) | [Bad Flow](https://open.spotify.com/artist/3fqD9Tt4MGyX90t2qoBQuq) | [ZAHRI \| زهري](https://open.spotify.com/album/7l7wXK5T2PoechAItHaNHE) | 3:26 | 2022-01-04 | 2022-04-08 |
-| [Zarzour](https://open.spotify.com/track/7t4XOS9MpF1pC0OBLnMiDy) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Zarzour](https://open.spotify.com/album/49KXJUuZOIXZSi79qEP1Pe) | 3:19 | 2023-06-22 |  |
+| [Zarzour](https://open.spotify.com/track/7t4XOS9MpF1pC0OBLnMiDy) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Zarzour](https://open.spotify.com/album/49KXJUuZOIXZSi79qEP1Pe) | 3:19 | 2023-06-22 | 2025-04-08 |
 | [Zawali](https://open.spotify.com/track/4YjQb4TGxnBaGDxzVxoHcP) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Zawali](https://open.spotify.com/album/5DY406iJLXtKIw11Jvd9N4) | 3:02 | 2022-06-11 | 2023-04-29 |
 | [ZEKARA](https://open.spotify.com/track/3qe9cnNbkv4zqUPAPASf1S) | [Mr\. Crazy](https://open.spotify.com/artist/3T0mKZYTDmRODhPJYsQNoz) | [ZEKARA](https://open.spotify.com/album/14yyNsJnlVmBp5ACuuSsNa) | 2:22 | 2022-08-16 | 2022-09-13 |
 | [Zerba](https://open.spotify.com/track/4kVeCnMy5d1sh8WPyGFTMQ) | [Echbiy](https://open.spotify.com/artist/6BwGFQFM6wA6vPgjjFo34K) | [Zerba](https://open.spotify.com/album/0rk4KargHTEdXsEz1FxQKt) | 2:45 | 2022-08-05 | 2022-09-27 |

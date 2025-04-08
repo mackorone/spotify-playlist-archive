@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,070 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,075 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 41 | [Left In Your Love](https://open.spotify.com/track/5dIW2ogrgeDlOPIEM0dNcb) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Left In Your Love](https://open.spotify.com/album/6arzu8DvG6JH3m48ieuCNt) | 3:03 |
 | 42 | [Ready For Love](https://open.spotify.com/track/22P3JuYQGYQxD5jagzc9dC) | [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI) | [Ready For Love](https://open.spotify.com/album/5mhZIc8Il70byoez6HeoDG) | 3:19 |
 | 43 | [Sycamore](https://open.spotify.com/track/3qwxZ8ygOYSWE790KcfgU1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 2:50 |
-| 44 | [SAFE](https://open.spotify.com/track/0Bd3qt36q8Je7W6jGYYITL) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [SAFE](https://open.spotify.com/album/3RIdpPPRMQgqWTK0nk3sT4) | 2:59 |
-| 45 | [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 |
-| 46 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
+| 44 | [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 |
+| 45 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
+| 46 | [SAFE](https://open.spotify.com/track/0Bd3qt36q8Je7W6jGYYITL) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [SAFE](https://open.spotify.com/album/3RIdpPPRMQgqWTK0nk3sT4) | 2:59 |
 | 47 | [overthinking about you](https://open.spotify.com/track/3uxPJckvg3g5B686iNgqXU) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [overthinking about you](https://open.spotify.com/album/6HoiPGlbAGOrJRJ5ZRVnzn) | 3:16 |
 | 48 | [not my job anymore](https://open.spotify.com/track/4i7mcbkECX4kqRvfjbBGQz) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [not my job anymore](https://open.spotify.com/album/4q2D6dkCSdkkTQ8Jqvh6VI) | 3:08 |
 | 49 | [Learning To Fly](https://open.spotify.com/track/7K17Bf15jq4EGfqhYc8Zjv) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Learning To Fly](https://open.spotify.com/album/3blsbvbusz2BUmqVCqwb06) | 2:56 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 58 | [Only Love](https://open.spotify.com/track/6fu8kFePHPqOz4WOOG0trB) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [hi, it's nice to meet me](https://open.spotify.com/album/0MMEETFIql7BICSfsIfoBF) | 4:19 |
 | 59 | [Kāhore He Manu E](https://open.spotify.com/track/41m7XS3swYTSZDR1rbfP8T) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Kāhore He Manu E](https://open.spotify.com/album/3faF34VLFPLjbJqfhknVDB) | 2:21 |
 | 60 | [Anywhere](https://open.spotify.com/track/4wKrpu9sDhiSe7jWXhKelm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:11 |
-| 61 | [Enough](https://open.spotify.com/track/7xGfUFdnjjkKjNaIzicum6) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Enough](https://open.spotify.com/album/2chEGfaMozvHc1GJuFF2Wg) | 3:51 |
-| 62 | [I Can't Wait Anymore](https://open.spotify.com/track/2mhZCXKVCX39DAoRsAiSTn) | [Sarah Blasko](https://open.spotify.com/artist/75jU2q0uEWzSIlqRJtedJV) | [I Can't Wait Anymore](https://open.spotify.com/album/3yAvj1ZvpxqkqeoFfvMDE9) | 4:09 |
+| 61 | [I Can't Wait Anymore](https://open.spotify.com/track/2mhZCXKVCX39DAoRsAiSTn) | [Sarah Blasko](https://open.spotify.com/artist/75jU2q0uEWzSIlqRJtedJV) | [I Can't Wait Anymore](https://open.spotify.com/album/3yAvj1ZvpxqkqeoFfvMDE9) | 4:09 |
+| 62 | [Enough](https://open.spotify.com/track/7xGfUFdnjjkKjNaIzicum6) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Enough](https://open.spotify.com/album/2chEGfaMozvHc1GJuFF2Wg) | 3:51 |
 | 63 | [Face in the Crowd](https://open.spotify.com/track/0V9QY6NnXtAMwjltgMP0pl) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Face in the Crowd](https://open.spotify.com/album/5e811Cmtlnt225AQO1tIiu) | 3:24 |
 | 64 | [Watching TV](https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Watching TV](https://open.spotify.com/album/2AMv7OLRdtbifINJFTpRuD) | 2:40 |
 | 65 | [Smoking Lessons](https://open.spotify.com/track/52zlr5j372qsgHhmvrni4w) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Introverted Extrovert](https://open.spotify.com/album/0LlRW4Z7dQfUodtABNh9Zk) | 2:59 |

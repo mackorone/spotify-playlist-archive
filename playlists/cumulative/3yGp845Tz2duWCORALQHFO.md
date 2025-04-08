@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-2,453 songs - 5 day 12 hr 33 min
+2,455 songs - 5 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2290,6 +2290,7 @@
 | [US](https://open.spotify.com/track/2t0OjDBYNZvoXFvKsYwlG7) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Byron Stingily](https://open.spotify.com/artist/3EoFVszwsvsw0Cr7b4ncaD) | [US](https://open.spotify.com/album/6gckBTuyU6u8DTXgv3rzfo) | 3:06 | 2024-08-08 | 2024-08-16 |
 | [Used To Be](https://open.spotify.com/track/040UljSpRhPWMyrSv867mF) | [Philink](https://open.spotify.com/artist/7gpKdoJe0Ka19bTSPVuInO) | [Used To Be](https://open.spotify.com/album/5ix6dzCwK8htBZMH6aldh9) | 2:59 | 2024-11-29 | 2024-12-06 |
 | [Uthando Lwami](https://open.spotify.com/track/77k0PDyWaRbZbmztvVCRC9) | [Mshado](https://open.spotify.com/artist/132R6TYyhnugigIY9k65BX) | [Gqomzart](https://open.spotify.com/album/6viV6fozmPsSmjBSrH9kZ0) | 3:34 | 2025-03-10 | 2025-03-15 |
+| [Vacancy](https://open.spotify.com/track/6Oln16WrjbGCWrHj3YRN7Z) | [DEUX SAINTS](https://open.spotify.com/artist/44iewsGL35Do6lH81Isndl) | [Vacancy](https://open.spotify.com/album/69atzRuY5w512iCA4u7DdG) | 3:25 | 2025-04-08 |  |
 | [Valerie](https://open.spotify.com/track/78IApFVx1V4KINyZnIXjoi) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [Valerie](https://open.spotify.com/album/4dYCFK8K9PQSL0SZ1DSgJD) | 2:21 | 2024-12-05 | 2024-12-14 |
 | [VAMPIRE](https://open.spotify.com/track/4nDQP2tdsxDsqpzA42lp3b) | [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB) | [VAMPIRE](https://open.spotify.com/album/44bLwAuqP3yWduonfrklF7) | 3:05 | 2024-08-08 | 2024-08-16 |
 | [Variant \- HI\-LO Variant](https://open.spotify.com/track/2MG68DbWyzostiPDDS8B2i) | [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd) | [Variant \(HI\-LO Variant\)](https://open.spotify.com/album/3DEQorUt1DJE2GiFdpLFgL) | 3:03 | 2024-06-16 | 2024-06-21 |
@@ -2298,6 +2299,7 @@
 | [Verano Y Playa](https://open.spotify.com/track/2o8N2RmPiFFAUpGzIr8yd1) | [James Hallen](https://open.spotify.com/artist/6TBxuaAUNr6dwXolHPrFNn) | [Verano Y Playa](https://open.spotify.com/album/61fPk4gJ63m3ITECgTGlsX) | 2:14 | 2024-10-25 | 2024-11-09 |
 | [Veridis Quo](https://open.spotify.com/track/65lWuCiYjpbSZ0mKBKfNBw) | [Shinovi](https://open.spotify.com/artist/0eYA9Bj18q2fPSiimozfbv) | [Veridis Quo](https://open.spotify.com/album/3ImwI7VFrwyH9XZag3gOaP) | 3:15 | 2025-03-07 | 2025-03-15 |
 | [Verified](https://open.spotify.com/track/1u4ouv3VvVk87iV1GigTnb) | [Lowke](https://open.spotify.com/artist/1qCQF0OXEwcYJ4hSmeKNsk), [RØNAN](https://open.spotify.com/artist/4hr35IZgAg6mylpvu609Qs) | [King Energy EP](https://open.spotify.com/album/3WsGBsnA3c31FX8H5YLbk1) | 2:45 | 2024-05-22 | 2024-05-25 |
+| [Verrat \- Hanuman Tribe Remix](https://open.spotify.com/track/4gudbJCLJzYSSW4sb3em14) | [gsco](https://open.spotify.com/artist/6uaounUbWXc3MR35KLI4Fz), [Hanuman Tribe](https://open.spotify.com/artist/35Kfu6WDgNGVdSengOg8E2) | [Verrat \(Hanuman Tribe Remix\)](https://open.spotify.com/album/6eWoebyPxnWhr9920aas7a) | 3:16 | 2025-04-08 |  |
 | [Vertigo](https://open.spotify.com/track/3jVo350GBcozw5OrXySv5N) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Vertigo](https://open.spotify.com/album/4LJhKUgLG4w4uM99XyAkMz) | 3:54 | 2024-07-19 | 2024-07-27 |
 | [Vertigo \(feat\. Ed Graves\)](https://open.spotify.com/track/7F03sInpzWDRMC4k4U0Pxj) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Ed Graves](https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI) | [Vertigo \(feat\. Ed Graves\)](https://open.spotify.com/album/3z8WLzALtiavIJrUB22xGB) | 2:28 | 2024-10-04 | 2024-10-12 |
 | [Verve](https://open.spotify.com/track/562LyEdOjqFnraa3HACtjY) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [Verve](https://open.spotify.com/album/54XwVbMOy0u3jugE7BJj9n) | 3:35 | 2024-06-07 | 2024-06-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 
 > This is Julieta Venegas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,151 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,215 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 | 49 | [Suaves son los Días](https://open.spotify.com/track/4eXD6eLWhEv87ZAYBXADPW) | [Belafonte Sensacional](https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [No para siempre](https://open.spotify.com/artist/2oxeLuG3ieRRYlHqQjqixS), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [Suaves son los Días](https://open.spotify.com/album/4QPB6sLJPK1VU9mJ0mepji) | 3:21 |
 | 50 | [Si ella me faltara alguna vez](https://open.spotify.com/track/1rr1RA3lFsqe6Q0taiT1TM) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [AMOR Haydée Milanés a dúo con Pablo Milanés \(EDICIÓN DELUXE\)](https://open.spotify.com/album/0Vsyz7buUSrsvUTcBsiL9F) | 2:54 |
 
-Snapshot ID: `Z/BygAAAAAC2yfIWu+Q2zTrPwB1CdWX2`
+Snapshot ID: `Z/HEAAAAAABKbU2SAkTb3Ytv3TEi4/JP`

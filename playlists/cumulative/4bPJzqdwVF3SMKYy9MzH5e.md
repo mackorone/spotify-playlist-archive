@@ -4,7 +4,7 @@
 
 > 
 
-2,110 songs - 4 day 17 hr 6 min
+2,112 songs - 4 day 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [c2.0](https://open.spotify.com/track/5gNTRfMRPZg1U07j7KSSaG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 3:40 | 2022-04-03 |  |
 | [C3L3STIAL\_CITY](https://open.spotify.com/track/7qfIfb1Wh9K1gVsVzz99jx) | [bliss3three](https://open.spotify.com/artist/5tP9MksSHHb59vV4N6HMHI) | [C3L3STIAL天の](https://open.spotify.com/album/6yiGXFTyMYPu8EabAjSaud) | 1:08 | 2022-10-11 |  |
 | [CADILLAC](https://open.spotify.com/track/49w1lG2H3ygwY7CCXZuQJU) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [LOVE LASTS FOREVER](https://open.spotify.com/album/6BQgHrnJsXjBiuD1Q8zrmv) | 2:25 | 2025-01-13 |  |
+| [CADILLAC DREAMS](https://open.spotify.com/track/1CKpqV7rC3cPNVRnEWsurC) | [Birdy Nam Nam](https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT) | [Defiant Order](https://open.spotify.com/album/1MsCuVWBWkuk7sORdaFL4B) | 4:21 | 2025-04-07 |  |
 | [CAFé CON RON](https://open.spotify.com/track/6VNXmo59yDYgcwLS17UNAW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:48 | 2025-01-11 |  |
 | [California Here We Go](https://open.spotify.com/track/0GARqhVTsP5GA6q1G3xWph) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [California Here We Go](https://open.spotify.com/album/7kNOKBIpn1PGOWPEoRcgMl) | 2:06 | 2023-02-07 |  |
 | [California Uber Alles](https://open.spotify.com/track/5szJ8SMwQVEvvdk65w6M6g) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Give Me Convenience or Give Me Death](https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V) | 3:27 | 2021-08-05 |  |
@@ -844,6 +845,7 @@
 | [Hollywood](https://open.spotify.com/track/7qwiyFyXDTp7aqxboN4bqO) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Making a Door Less Open](https://open.spotify.com/album/0p6P42zHY2W8Zd7BKBcKQg) | 3:22 | 2021-11-14 |  |
 | [holy angel](https://open.spotify.com/track/7uIA3pMftnSUHxhuzT45Rj) | [DJ Kuroneko](https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl) | [kuroneko](https://open.spotify.com/album/1a9GKdu2sPv7bvGg1efnx4) | 2:43 | 2022-02-04 |  |
 | [Home](https://open.spotify.com/track/2JGSYOFs3qNgd4hhvhrkf8) | [Islandis](https://open.spotify.com/artist/4GJ0oJKgvJmxX4BEBIT2pa) | [Home](https://open.spotify.com/album/5e7PSpJob1NERxuYBzgpfH) | 3:50 | 2021-08-05 |  |
+| [Homecoming](https://open.spotify.com/track/6vxU64pcIuQ38O015Zy4qj) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake](https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m) | 3:33 | 2025-04-08 |  |
 | [homeswitcher](https://open.spotify.com/track/0QVjM0jL1OwDxUw4KfATKy) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu), [kmoe](https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz) | [Teen Week](https://open.spotify.com/album/0I4Mj0o5tw56sHVYkS6pm3) | 2:25 | 2022-04-03 |  |
 | [hometown](https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [hometown](https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni) | 4:16 | 2022-02-04 |  |
 | [HONEY](https://open.spotify.com/track/3k0iCsB9pZJ86yVWwQ16jS) | [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [THREE CHEERS FOR THE AMERICAN BEAUTY](https://open.spotify.com/album/76HILyNi5osIyJraAhmVWz) | 2:35 | 2021-08-05 |  |

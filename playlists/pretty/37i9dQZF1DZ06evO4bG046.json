@@ -1,12 +1,12 @@
 {
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
-  "num_followers": 34766,
+  "num_followers": 34776,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAADDLh2OQiRk5wWDEyttTOE9",
+  "snapshot_id": "Z/HEAAAAAAD4lcCUvPAuh2hr8Ku5dm5D",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obras de Violeta Parra",
-        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 667266,
-      "name": "Arauco Tiene una Pena",
-      "url": "https://open.spotify.com/track/1YyXDlQOYt0JNyxEapmv0U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arrebol",
         "url": "https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 408000,
       "name": "Arrebol",
       "url": "https://open.spotify.com/track/6jKbQFXeH2rzcR7t6wdOJ4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Obras de Violeta Parra",
+        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 667266,
+      "name": "Arauco Tiene una Pena",
+      "url": "https://open.spotify.com/track/1YyXDlQOYt0JNyxEapmv0U"
     },
     {
       "added_at": null,

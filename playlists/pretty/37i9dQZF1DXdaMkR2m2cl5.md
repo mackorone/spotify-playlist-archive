@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 
 > Soft, smoky undertones of singer\-songwriter sounds give way to lingering notes of rich, earthy chamber folk\. Cover: Glen Hansard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,068 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,067 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 91 | [The Right Track](https://open.spotify.com/track/2M7UF2fo4AC93VpZXBK6nk) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [The Right Track](https://open.spotify.com/album/0Yc69e9d5M0txUciOA6w2J) | 3:26 |
 | 92 | [Spark](https://open.spotify.com/track/579WcpfX8CuujP9UfNBPUU) | [WYNDHAM](https://open.spotify.com/artist/7m5NuY2IG5NWA9TUrPtcV7) | [Spark](https://open.spotify.com/album/2NTFOA0XTCIjzbRjpUxdK9) | 3:38 |
 | 93 | [Late Riser](https://open.spotify.com/track/0pwi4ZfOYqBWFwnf3yhT43) | [Frances Cone](https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh) | [Late Riser](https://open.spotify.com/album/2AyUp138VeD0Wm2UFwAljO) | 3:17 |
-| 94 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
-| 95 | [Floral Dresses](https://open.spotify.com/track/6IjxaBQs1NGkPTNttWvAat) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl), [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Something's Changing](https://open.spotify.com/album/7wc8JVfc4CY9H1xThYJABJ) | 2:33 |
+| 94 | [Floral Dresses](https://open.spotify.com/track/6IjxaBQs1NGkPTNttWvAat) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl), [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Something's Changing](https://open.spotify.com/album/7wc8JVfc4CY9H1xThYJABJ) | 2:33 |
+| 95 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
 | 96 | [Find a Way \(Acoustic\)](https://open.spotify.com/track/7H0yB7Tm1GmLdjpDDLSISE) | [Quiet Arrows](https://open.spotify.com/artist/7KRnRH8bRvoX4ebQwHw2EI) | [Find a Way \(Acoustic\) / Filling Up Our Lungs \(Acoustic\)](https://open.spotify.com/album/2ffjsINnl0jzADOrgivpXL) | 3:38 |
 | 97 | [Summer's End](https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [The Tree of Forgiveness](https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg) | 3:29 |
 | 98 | [when i look at you.](https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [when i look at you.](https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC) | 3:52 |
 | 99 | [Officer of Love](https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT) | 3:59 |
-| 100 | [Movement](https://open.spotify.com/track/6zmANU5l4qCHQrI5cZhSS2) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Movement](https://open.spotify.com/album/3EYAtUUsQ6egH0a3bycyyW) | 3:57 |
+| 100 | [The Woods \- Acoustic](https://open.spotify.com/track/6uaIMhUZXMuT2Zz0vxrFiR) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [The Woods \(Acoustic\)](https://open.spotify.com/album/1YkP0hYlF5E4il2VPTFFGZ) | 3:59 |
 
 Snapshot ID: `ZQPWwAAAAACZkq4b1fml/+N54QzwWkL0`

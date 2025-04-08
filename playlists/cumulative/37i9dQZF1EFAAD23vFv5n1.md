@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-143 songs - 6 hr 52 min
+144 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Lasciatemi Piangere](https://open.spotify.com/track/2z0CYJsv2779T7I82bazKj) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 3:18 | 2024-04-29 |  |
 | [Leave Me!](https://open.spotify.com/track/0UDielSIu8r36UEsKLvSDt) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [projections on a human screen](https://open.spotify.com/album/6l6gC5OMQRjxPQFunLNRCP) | 2:54 | 2024-04-29 |  |
 | [Londra](https://open.spotify.com/track/3f8Afp4ayOM9UPAwSYTkWE) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Londra](https://open.spotify.com/album/3oClS9LXJ5py2WVOS3mAgW) | 3:23 | 2025-01-09 |  |
+| [Lontano](https://open.spotify.com/track/6Y9k0eqeWM6CFTRXmllK2H) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [Lontano](https://open.spotify.com/album/5xIkwmOvPatDLwwbDmj1GO) | 2:36 | 2025-04-07 |  |
 | [Male](https://open.spotify.com/track/26HVAOi74rSqtArB3AwR8v) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw) | [Male](https://open.spotify.com/album/3r06PlP8UOSokqGzE0XWxW) | 2:27 | 2024-09-11 |  |
 | [Maremoto](https://open.spotify.com/track/7FGx98tYHKGabYTTf5rMjd) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ), [See Maw](https://open.spotify.com/artist/6EpzsiQuQ3dJas4vA6drGQ) | [Maremoto](https://open.spotify.com/album/5qiLpQpRR0eF2fkV3qTJP4) | 2:49 | 2024-04-29 |  |
 | [MARGHERITA v11](https://open.spotify.com/track/3rsFDYxfupH9kXBnHSZJsx) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 2:31 | 2024-04-29 |  |

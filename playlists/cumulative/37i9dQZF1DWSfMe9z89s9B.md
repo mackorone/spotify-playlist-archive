@@ -2,7 +2,7 @@
 
 ### [Vanguard](https://open.spotify.com/playlist/37i9dQZF1DWSfMe9z89s9B)
 
-> Leaders of the new school...Alternative R&B\. Cover: Casper Sage
+> The new school \- Alternative R&B\. Cover: Casper Sage
 
 1,407 songs - 3 day 2 hr 6 min
 

@@ -658,7 +658,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 140105,
       "name": "Apopsi Freestyle",
       "url": "https://open.spotify.com/track/73NOvydPsDndLvF04av3RP"
@@ -800,7 +800,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 132000,
       "name": "Aristourgima",
       "url": "https://open.spotify.com/track/4lwRh4qMQvANHm1OcgB4Tg"
@@ -938,7 +938,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -1668,7 +1668,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 190426,
       "name": "Cristiano Ronaldo (From \"4 Blocks\")",
       "url": "https://open.spotify.com/track/2WA4xbWmuS9fhcQfApnNeR"
@@ -2235,6 +2235,24 @@
     },
     {
       "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204768,
+      "name": "EoO",
+      "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
+    },
+    {
+      "album": {
         "name": "ETSI DE GINETE (Strat)",
         "url": "https://open.spotify.com/album/7vcNL5KRu9wnfo8aCGB3Cg"
       },
@@ -2308,7 +2326,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 167754,
       "name": "ExtraL (feat. Doechii)",
       "url": "https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG"
@@ -2476,6 +2494,28 @@
       "duration_ms": 212733,
       "name": "FONOS",
       "url": "https://open.spotify.com/track/6QZnvAqU8qfyjdMWpSEsxl"
+    },
+    {
+      "album": {
+        "name": "Adolescence (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0HvbwMQL0F5q2gchEEciLa"
+      },
+      "artists": [
+        {
+          "name": "Aaron May",
+          "url": "https://open.spotify.com/artist/5xePrZnEOHnveUMqzDsNPu"
+        },
+        {
+          "name": "David Ridley",
+          "url": "https://open.spotify.com/artist/053ZuMYAo6RyVOEcFbcZ1r"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Fragile (Sting Cover)",
+      "url": "https://open.spotify.com/track/6bXUgIlVo3Ofj5UmPCnl2g"
     },
     {
       "album": {
@@ -3689,6 +3729,24 @@
     },
     {
       "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123517,
+      "name": "like JENNIE",
+      "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
+    },
+    {
+      "album": {
         "name": "Definitely Maybe",
         "url": "https://open.spotify.com/album/5zfhhKXHK0YQdvacCs1ErM"
       },
@@ -3842,6 +3900,32 @@
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
+    },
+    {
+      "album": {
+        "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147973,
+      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
     },
     {
       "album": {
@@ -4249,6 +4333,28 @@
     },
     {
       "album": {
+        "name": "Miss Me (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/2NEuobTWRKGzvyPaind9m2"
+      },
+      "artists": [
+        {
+          "name": "svmy",
+          "url": "https://open.spotify.com/artist/5t8Yw1bYWCfmF2M1GyLKDZ"
+        },
+        {
+          "name": "trefuego1",
+          "url": "https://open.spotify.com/artist/6reXgtyluLaF5M04MiRI43"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187663,
+      "name": "Miss Me - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/5DlsEd6oGvxn32M0dHMoFE"
+    },
+    {
+      "album": {
         "name": "Moi",
         "url": "https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw"
       },
@@ -4268,6 +4374,24 @@
       "duration_ms": 174533,
       "name": "Moi",
       "url": "https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH"
+    },
+    {
+      "album": {
+        "name": "MONA LISA",
+        "url": "https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137191,
+      "name": "MONA LISA",
+      "url": "https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ"
     },
     {
       "album": {
@@ -4690,6 +4814,24 @@
       "duration_ms": 230500,
       "name": "Nikiastike",
       "url": "https://open.spotify.com/track/6rMlvuQVyfMYFjjfILi3Jb"
+    },
+    {
+      "album": {
+        "name": "NINAO",
+        "url": "https://open.spotify.com/album/7mcrW5GLhiY9RbNJzAIzRk"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167813,
+      "name": "NINAO",
+      "url": "https://open.spotify.com/track/5lXLzaZoj4j4hfCYO687bN"
     },
     {
       "album": {
@@ -5126,6 +5268,32 @@
       "duration_ms": 182400,
       "name": "Pes",
       "url": "https://open.spotify.com/track/4sltRhFlzu0BwXq9OUnwSG"
+    },
+    {
+      "album": {
+        "name": "KLIRONOMOI TOU TIPOTA",
+        "url": "https://open.spotify.com/album/0Hplr3f02tgaWxo6cdSzzU"
+      },
+      "artists": [
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "Th Mark",
+          "url": "https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm"
+        },
+        {
+          "name": "DJ Marvel",
+          "url": "https://open.spotify.com/artist/4V0ywNkd8Ca96rMNhAem0G"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196285,
+      "name": "PINELLI",
+      "url": "https://open.spotify.com/track/5PB5TadVdpjkHqGdrL9n9C"
     },
     {
       "album": {
@@ -5588,7 +5756,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 159664,
       "name": "Shik Shak Shock",
       "url": "https://open.spotify.com/track/6rddBYzxNSIzwMeksQKV8q"
@@ -5902,7 +6070,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 148608,
       "name": "Syrtaki 2.0",
       "url": "https://open.spotify.com/track/23BDKwnki393h12zCmDjfX"
@@ -6226,7 +6394,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 202768,
       "name": "The Giver",
       "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
@@ -6978,7 +7146,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 167379,
       "name": "Ypervoles",
       "url": "https://open.spotify.com/track/1WrpcYZsJkzJw5l95ECvpp"
@@ -7040,6 +7208,28 @@
       "duration_ms": 173571,
       "name": "\u00c7a Je",
       "url": "https://open.spotify.com/track/4K3mX6c0UTrE2IRmlqYGoN"
+    },
+    {
+      "album": {
+        "name": "\u0391\u03c4\u03b5\u03bb\u03b9\u03ad",
+        "url": "https://open.spotify.com/album/1t3Rq81hOEJsIEDJMfo5dc"
+      },
+      "artists": [
+        {
+          "name": "Papaz\u00f3",
+          "url": "https://open.spotify.com/artist/31z8duLz87iJxfXN5PoltZ"
+        },
+        {
+          "name": "Akylas",
+          "url": "https://open.spotify.com/artist/0ryXG4cu4Ac81CojYsKcTL"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "\u0391\u03c4\u03b5\u03bb\u03b9\u03ad",
+      "url": "https://open.spotify.com/track/5qU5Az2xIFExZ7xkfLmodJ"
     },
     {
       "album": {
@@ -7116,7 +7306,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 262736,
       "name": "\u0398\u03b1 \u039d\u03b9\u03ba\u03ae\u03c3\u03bf\u03c5\u03bc\u03b5",
       "url": "https://open.spotify.com/track/4SA9VcYuNJWgBlCjVdIRz5"
@@ -7138,6 +7328,28 @@
       "duration_ms": 206769,
       "name": "\u03a0\u03ac\u03c1\u03c4\u03c5",
       "url": "https://open.spotify.com/track/3WkZ44nflkY1Fb5wrkJuMM"
+    },
+    {
+      "album": {
+        "name": "\u03a3' \u0391\u03b3\u03b1\u03c0\u03ac\u03c9",
+        "url": "https://open.spotify.com/album/1AGI2Geh96QkurtqjWBp8f"
+      },
+      "artists": [
+        {
+          "name": "Nivo",
+          "url": "https://open.spotify.com/artist/2hOOHzVN6Hd1ljiCyPLf7W"
+        },
+        {
+          "name": "Giorgos Alkaios",
+          "url": "https://open.spotify.com/artist/4GGb3OX1N7mFJlAAjc4TKe"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "\u03a3' \u0391\u03b3\u03b1\u03c0\u03ac\u03c9",
+      "url": "https://open.spotify.com/track/5p8mv1MDXMnriIo1XaD19E"
     },
     {
       "album": {

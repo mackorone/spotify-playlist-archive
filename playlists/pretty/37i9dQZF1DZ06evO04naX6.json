@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 171701,
+  "num_followers": 171709,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAACij/mn/SEtebmSAXq6SdEG",
+  "snapshot_id": "Z/HEAAAAAAA8BG7yy5Ja3l5oNIE2r7pT",
   "tracks": [
     {
       "added_at": null,
@@ -443,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEXO ES LA MODA",
-        "url": "https://open.spotify.com/album/4bJWxZQFLrz2IW79KheuXD"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 165901,
-      "name": "SEXO ES LA MODA",
-      "url": "https://open.spotify.com/track/4U80gkwi6Qk0fBRcDuzn3E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DEMBO$$",
         "url": "https://open.spotify.com/album/7bp8TEGxs1Q8bCB3HbzghV"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 248589,
       "name": "Dembow y Reggaeton",
       "url": "https://open.spotify.com/track/3OB01aM0Nf7tWds1TLEL3j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SEXO ES LA MODA",
+        "url": "https://open.spotify.com/album/4bJWxZQFLrz2IW79KheuXD"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 165901,
+      "name": "SEXO ES LA MODA",
+      "url": "https://open.spotify.com/track/4U80gkwi6Qk0fBRcDuzn3E"
     },
     {
       "added_at": null,
@@ -763,6 +763,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MANIFESTING 20-05",
+        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 214253,
+      "name": "De Negro",
+      "url": "https://open.spotify.com/track/4vAAGNZAjmCUc51qjhFZdM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LA MAYBACH",
         "url": "https://open.spotify.com/album/1jz29Rm1NMO3xpeMotUgff"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 240778,
       "name": "LA MAYBACH",
       "url": "https://open.spotify.com/track/0kJAsLcG0lPlYTwGbCwcvt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MANIFESTING 20-05",
-        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 214253,
-      "name": "De Negro",
-      "url": "https://open.spotify.com/track/4vAAGNZAjmCUc51qjhFZdM"
     },
     {
       "added_at": null,

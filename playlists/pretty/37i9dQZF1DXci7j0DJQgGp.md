@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 
 > The perfect playlist to just sit back and chill out with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,755,897 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,755,883 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 | 21 | [Out of My Head](https://open.spotify.com/track/5LgguaX9k42ruNIHNZA6Re) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino](https://open.spotify.com/album/7oiUfuyk01h71NTmBUSk6D) | 3:33 |
 | 22 | [Slide Tackle](https://open.spotify.com/track/5ksM8r8u4AjMwvtqUif9W1) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:39 |
 | 23 | [I Don't Know You](https://open.spotify.com/track/2VO8CVuLDVXynM8tQECALM) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 3:44 |
-| 24 | [My Father's Daughter](https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu) | [Olivia Vedder](https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [My Father's Daughter \(From The “Flag Day” Original Soundtrack\)](https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1) | 2:50 |
-| 25 | [Manifest](https://open.spotify.com/track/7oChm7YC5PS1NvEkRCgswG) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [My Finest Work Yet](https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51) | 5:17 |
+| 24 | [Manifest](https://open.spotify.com/track/7oChm7YC5PS1NvEkRCgswG) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [My Finest Work Yet](https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51) | 5:17 |
+| 25 | [My Father's Daughter](https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu) | [Olivia Vedder](https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [My Father's Daughter \(From The “Flag Day” Original Soundtrack\)](https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1) | 2:50 |
 | 26 | [Work Out](https://open.spotify.com/track/1wQhpsuVJFxrvESjqUvlkt) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Work Out](https://open.spotify.com/album/1YBO4zKTVcNxP1VREsBc3h) | 4:51 |
 | 27 | [Phoenix](https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:15 |
 | 28 | [Tom Barrett](https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [River Fools & Mountain Saints](https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl) | 3:13 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 | 94 | [Grace](https://open.spotify.com/track/6w6rXsCnYcvDcHU6GMq8fZ) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk) | 4:13 |
 | 95 | [Joy'All](https://open.spotify.com/track/5bzMnlKnmaitjCAaJed3Oj) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Joy'All](https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1) | 3:44 |
 | 96 | [Distant Axis](https://open.spotify.com/track/4ysVx7wS2J8dvk77ON8jVI) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Distant Axis](https://open.spotify.com/album/0sy4l7BHcw0a50DjvvZz0Q) | 4:25 |
-| 97 | [Football](https://open.spotify.com/track/3rnMROSxN8mkZebMW5PpBb) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Football](https://open.spotify.com/album/7197yCpJpW7OIgPWVXE58h) | 3:24 |
-| 98 | [Fake Empire](https://open.spotify.com/track/0YZWUkELGlFigAxGLMnfj8) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:25 |
-| 99 | [South For The Winter \(feat\. Matt Berninger\)](https://open.spotify.com/track/5WD7NduZx58sry7EbodMve) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl), [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [A Southern Gothic](https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n) | 3:15 |
+| 97 | [Fake Empire](https://open.spotify.com/track/0YZWUkELGlFigAxGLMnfj8) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:25 |
+| 98 | [South For The Winter \(feat\. Matt Berninger\)](https://open.spotify.com/track/5WD7NduZx58sry7EbodMve) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl), [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [A Southern Gothic](https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n) | 3:15 |
+| 99 | [Football](https://open.spotify.com/track/3rnMROSxN8mkZebMW5PpBb) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Football](https://open.spotify.com/album/7197yCpJpW7OIgPWVXE58h) | 3:24 |
 | 100 | [Send My Regards](https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Send My Regards](https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH) | 4:07 |
 
 Snapshot ID: `ZohvNQAAAAA+5SkHkAEq4fXjyvkQdTPA`

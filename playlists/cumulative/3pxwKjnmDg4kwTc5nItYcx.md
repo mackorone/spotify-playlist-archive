@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-834 songs - 1 day 20 hr 45 min
+835 songs - 1 day 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -557,6 +557,7 @@
 | [Out of the Blue](https://open.spotify.com/track/3fEIHWNPl6XS6G5HuQ6jpc) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Out of the Blue](https://open.spotify.com/album/7DFeuBHmb53FSm1Q9drvn5) | 3:17 | 2020-10-02 | 2021-05-12 |
 | [Out of the Blue \(feat\. EARTHGANG\)](https://open.spotify.com/track/0niBsypWBqO4VS8wzUdTQJ) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Out of the Blue \(feat\. EARTHGANG\)](https://open.spotify.com/album/4HIfjjsTkBjX2i69Tq7jCI) | 3:27 | 2021-04-24 | 2021-06-23 |
 | [Outta Space \(feat\. Allday & Fossa Beats\)](https://open.spotify.com/track/1ey9sUYblG0wURc8JjDrKW) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU), [Allday](https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs), [Fossa Beats](https://open.spotify.com/artist/2J7Bw3q4TQwPwSjNPmASKt) | [Outta Space \(feat\. Allday & Fossa Beats\)](https://open.spotify.com/album/78dOwLapvrig4as9XEMMTM) | 3:14 | 2020-02-28 | 2021-05-12 |
+| [Over Romantic](https://open.spotify.com/track/6bikAE6AHrUx9BLsQhjDTi) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Over Romantic](https://open.spotify.com/album/5kOgUdOeE3vaZnwT2FaHLa) | 3:13 | 2025-04-08 |  |
 | [Overdue](https://open.spotify.com/track/4yVAILN8YQdzViN5D4r11K) | [Ojikae](https://open.spotify.com/artist/3moDp3eFeUgBTCqUSxcPZF) | [Overdue](https://open.spotify.com/album/2tatGNU9fakzvGtoFi5KyP) | 4:13 | 2019-08-27\* | 2020-02-12 |
 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 | 2021-10-29 |  |
 | [overwhelmed](https://open.spotify.com/track/5jjZikDrEd0by1o7V3fO4y) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Overwhelmed](https://open.spotify.com/album/7E7HRywUyuqW5qH793yPbP) | 2:39 | 2020-08-27 | 2021-05-12 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 
 > I più grandi successi della storia del festival 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,719 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,717 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Felicità](https://open.spotify.com/track/7sXTcibuNYugjjYNfgf2kY) | [Al Bano And Romina Power](https://open.spotify.com/artist/1c0wBsDBu0NqpvxBqjYjZS) | [Felicità](https://open.spotify.com/album/6rYKh2EVXdWs5Pe8MugvSM) | 3:13 |
+| 1 | [Felicità](https://open.spotify.com/track/7sXTcibuNYugjjYNfgf2kY) | [Al Bano And Romina Power](https://open.spotify.com/artist/1c0wBsDBu0NqpvxBqjYjZS) | [Felicità \(Ariola Express Gold\-Serie\)](https://open.spotify.com/album/6rYKh2EVXdWs5Pe8MugvSM) | 3:13 |
 | 2 | [Brividi](https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Brividi](https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7) | 3:19 |
 | 3 | [Almeno tu nell'universo \- Original Version](https://open.spotify.com/track/3p7cBuKJZptTsumpOxOxo9) | [Mia Martini](https://open.spotify.com/artist/05JkDGFMHqlIz0GPjLh2p3) | [Martini Mia...](https://open.spotify.com/album/6ZcYdet7FJ0MjzhLeOh4k4) | 5:06 |
 | 4 | [Laura non c'è](https://open.spotify.com/track/7anRsNjcOSrNYf2FjYopCH) | [Nek](https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ) | [Lei, gli amici e tutto il resto](https://open.spotify.com/album/3yGAdaEbdDBo37XuLwm2YB) | 3:46 |

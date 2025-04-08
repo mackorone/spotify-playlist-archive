@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Maria Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,887 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,876 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 47 | [Llegué a Navidad](https://open.spotify.com/track/4e4wrhbqdj6CKxHEgWjPfw) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Llegué a Navidad](https://open.spotify.com/album/0IHUZrmVQfFWNkZUnWF4c6) | 2:41 |
 | 48 | [Navidad En Pr](https://open.spotify.com/track/13mE3Skl0hCb1oigQzobQl) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Dalmata](https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3) | [Navidad En Pr](https://open.spotify.com/album/7p7YqBXRbW5vEohzUDB6eq) | 4:11 |
 | 49 | [mi único deseo](https://open.spotify.com/track/4HHBSCjY9BYUF8HFGxnXGE) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx), [NEON16](https://open.spotify.com/artist/7HacB3OpkiYI4VFwbvBLD8) | [mi único deseo](https://open.spotify.com/album/6USiBPFQmZydXaPPaLzH92) | 3:06 |
-| 50 | [El Año Que Vendrá Querido Amigo](https://open.spotify.com/track/18eH7YZhoIrTX0vp5mLjM9) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Emmanuel Jingle Bell Rocks](https://open.spotify.com/album/0H4AsgaAU7WqbtTvj2ah55) | 5:25 |
-| 51 | [Diciembre](https://open.spotify.com/track/2VMEtD2E4Fh8gBe9UuJ7Px) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [Diciembre](https://open.spotify.com/album/1oZ3it2Hd6dNEm3ErNYzAi) | 2:40 |
+| 50 | [Diciembre](https://open.spotify.com/track/2VMEtD2E4Fh8gBe9UuJ7Px) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [Diciembre](https://open.spotify.com/album/1oZ3it2Hd6dNEm3ErNYzAi) | 2:40 |
+| 51 | [El Año Que Vendrá Querido Amigo](https://open.spotify.com/track/18eH7YZhoIrTX0vp5mLjM9) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Emmanuel Jingle Bell Rocks](https://open.spotify.com/album/0H4AsgaAU7WqbtTvj2ah55) | 5:25 |
 | 52 | [Viva La Navidad](https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Love & Christmas](https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn) | 3:37 |
 | 53 | [All I Want For Christmas Is You](https://open.spotify.com/track/4C2WMkrsgCgLHG9wH41rZN) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 3:56 |
 | 54 | [Lista De Regalos \(Feat\. Nabález, Majo Aguilar, Banda Fortuna, Jary Franco, Fátima Campo, Ricardo Murillo\)](https://open.spotify.com/track/7ElLuzVUuPMV0urEfAPBit) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5), [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY), [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6), [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn), [Ricardo Murillo](https://open.spotify.com/artist/0IJGy4mM0W1uOTWQGVsrzx) | [Lista De Regalos \(Feat\. Nabález, Majo Aguilar, Banda Fortuna, Jary Franco, Fátima Campo, Ricardo Murillo\)](https://open.spotify.com/album/1Z8NCuH0GmRWEfxbWrZQLW) | 2:05 |

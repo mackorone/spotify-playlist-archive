@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Municipal Waste
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,913 likes - 200 songs - 14 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,970 likes - 200 songs - 14 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -202,8 +202,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 192 | [Under No Illusions](https://open.spotify.com/track/1KAOO6KffrhVPo7BI36qK6) | [Savage Messiah](https://open.spotify.com/artist/1kOg7VnU8brFniiq9RnR9X) | [Under No Illusions](https://open.spotify.com/album/7fZzlt7IIm4EHWWOorQ3Im) | 4:10 |
 | 193 | [As We Breach](https://open.spotify.com/track/5yttcK85rYSClFzPC9v1N7) | [Harlott](https://open.spotify.com/artist/55P952flfiJs68ellyqFHU) | [As We Breach](https://open.spotify.com/album/513Lp3HTQfozEabGEGaG9f) | 4:52 |
 | 194 | [Witching Hour](https://open.spotify.com/track/1V36Hxv16qWjGvnK2FV4cO) | [Witchery](https://open.spotify.com/artist/0ucuxyPTAHv0TPkA1WBV10) | [Witching Hour](https://open.spotify.com/album/5pBhA2ZnRbP16R4mQ6xh9z) | 3:03 |
-| 195 | [The Descending](https://open.spotify.com/track/72keEkoiv1LfF83ZImJd4g) | [Evildead](https://open.spotify.com/artist/0A97olVepqtH6CCUoSaGEl) | [The Descending](https://open.spotify.com/album/5wMW5X0vaDerQZxctW50KF) | 3:11 |
-| 196 | [Piranha \- Live](https://open.spotify.com/track/15b5ocz8mCRI0IskD8uXn7) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [British Disaster: The Battle of '89 \(Live At The Astoria\)](https://open.spotify.com/album/4y3wHWrVls89q0BbncJ8Ny) | 3:56 |
+| 195 | [Piranha \- Live](https://open.spotify.com/track/15b5ocz8mCRI0IskD8uXn7) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [British Disaster: The Battle of '89 \(Live At The Astoria\)](https://open.spotify.com/album/4y3wHWrVls89q0BbncJ8Ny) | 3:56 |
+| 196 | [The Descending](https://open.spotify.com/track/72keEkoiv1LfF83ZImJd4g) | [Evildead](https://open.spotify.com/artist/0A97olVepqtH6CCUoSaGEl) | [The Descending](https://open.spotify.com/album/5wMW5X0vaDerQZxctW50KF) | 3:11 |
 | 197 | [State of Apathy](https://open.spotify.com/track/5hgN5IYDZGN1Fjkf8EfXII) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [State of Apathy](https://open.spotify.com/album/490dTJ1j5UsKGnFXV1QnLj) | 3:46 |
 | 198 | [Illusion of Existence](https://open.spotify.com/track/1T7pML1JBYs1IQ50uE2wwy) | [Refore](https://open.spotify.com/artist/4MmDues4Gop2TTlDJLQNBF) | [Illusion of Existence](https://open.spotify.com/album/5QJVXAmX39ddZtJNwq3vnq) | 3:53 |
 | 199 | [Recycled Hate](https://open.spotify.com/track/35a7t2h5N2ewK9r18l8S0k) | [Inhuman Condition](https://open.spotify.com/artist/3unugXDIgyLGDkorSoRTfm) | [Recycled Hate](https://open.spotify.com/album/4i8j5yuwU0ytacVJnUujp7) | 3:25 |

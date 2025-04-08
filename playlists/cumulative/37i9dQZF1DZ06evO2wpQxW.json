@@ -974,6 +974,24 @@
     {
       "album": {
         "name": "Historias de la Calle",
+        "url": "https://open.spotify.com/album/18NZvh16Lj0HIhv0YgaSsZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213051,
+      "name": "Pr\u00e9stamela A M\u00ed",
+      "url": "https://open.spotify.com/track/53ZeTI1ypKdYGlWRv0bG2S"
+    },
+    {
+      "album": {
+        "name": "Historias de la Calle",
         "url": "https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T"
       },
       "artists": [
@@ -984,7 +1002,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 213173,
       "name": "Pr\u00e9stamela a M\u00ed",
       "url": "https://open.spotify.com/track/2EGqa4yp5xGfu3sppG0oFy"

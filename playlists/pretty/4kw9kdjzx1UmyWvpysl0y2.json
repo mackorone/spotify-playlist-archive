@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125464,
+  "num_followers": 125457,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAT5iPiHM6dlUB0iGtrldd991yzMP42",
+  "snapshot_id": "AAAT56wHwbhXi5gIiJfMC9X30kSo0t35",
   "tracks": [
+    {
+      "added_at": "2025-04-07 15:53:04",
+      "album": {
+        "name": "Flatline",
+        "url": "https://open.spotify.com/album/1u233gR5ztuIFT27g3uJVQ"
+      },
+      "artists": [
+        {
+          "name": "Bossfight",
+          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "Flatline",
+      "url": "https://open.spotify.com/track/4Ww6lRhfa8rXS3FpvHXaEF"
+    },
     {
       "added_at": "2025-04-04 13:55:37",
       "album": {

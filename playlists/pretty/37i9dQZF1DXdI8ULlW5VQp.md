@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Sueña lindo, corazón..\. 💖✨ Kevin Kaarl en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,312 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,322 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 46 | [Ké MaL \- versión tierna](https://open.spotify.com/track/4j1gnPCFutZxNh9oZWCLA3) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ké MaL \(versión tierna\)](https://open.spotify.com/album/36XM3kja0ssZwO5UIEiIrt) | 4:17 |
 | 47 | [Buenos Aires](https://open.spotify.com/track/0rpDCKxlhQYbUbGVPi6JZL) | [Tony Mils](https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt) | [Buenos Aires](https://open.spotify.com/album/2yVinEvqFnj39CdY8oRDl7) | 2:48 |
 | 48 | [Había Olvidado \(feat\. José Maria Napoleón\)](https://open.spotify.com/track/13BbOFg8aYZBTw4vOPK1Qa) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Había Olvidado \(feat\. José Maria Napoleón\)](https://open.spotify.com/album/0xTx8go2fsysiJnH79Fqu6) | 3:25 |
-| 49 | [Rinconcito en el Cielo](https://open.spotify.com/track/0W3gf3txFJ6i5pzAzBVHVc) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Rinconcito en el Cielo](https://open.spotify.com/album/6Lg4611g3RNYjn8oe9zcsL) | 3:42 |
-| 50 | [Calle Sin Salida](https://open.spotify.com/track/7u64Ni9wtAz1D5LOOth2TH) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Calle Sin Salida](https://open.spotify.com/album/1Ke6IPJ6jyHU7iSB8zfoJL) | 2:50 |
+| 49 | [Calle Sin Salida](https://open.spotify.com/track/7u64Ni9wtAz1D5LOOth2TH) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Calle Sin Salida](https://open.spotify.com/album/1Ke6IPJ6jyHU7iSB8zfoJL) | 2:50 |
+| 50 | [Rinconcito en el Cielo](https://open.spotify.com/track/0W3gf3txFJ6i5pzAzBVHVc) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Rinconcito en el Cielo](https://open.spotify.com/album/6Lg4611g3RNYjn8oe9zcsL) | 3:42 |
 | 51 | [Lo Que Mis Ojos Ven](https://open.spotify.com/track/31nYyIoeDUHkTvZ0bguvhr) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Lo Que Mis Ojos Ven](https://open.spotify.com/album/0Em4TdhQo6KXPF23HJWXKA) | 3:27 |
 | 52 | [palacio <3](https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [palacio <3](https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I) | 2:36 |
 | 53 | [Cuanto antes \(feat\. Lali\)](https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Cuanto antes \(feat\. Lali\)](https://open.spotify.com/album/7tvTZlX7UOKrQnhKOy84UV) | 3:46 |
@@ -66,10 +66,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 56 | [Juego De Feria](https://open.spotify.com/track/5tVNRjHFayBzyOPSpUniDF) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Juego De Feria](https://open.spotify.com/album/4mFw8K0Ts3T6yQourMWESD) | 2:37 |
 | 57 | [Hola, Me Llamo María](https://open.spotify.com/track/2J5AcNu1g9UHgWjDVMok5q) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc) | [Hola, Me Llamo María](https://open.spotify.com/album/0hPPueaVFAIrjdMAx1z7P1) | 2:36 |
 | 58 | [Lento](https://open.spotify.com/track/5rVLnr4TNrOPJqdqoX6L7g) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Lento](https://open.spotify.com/album/3BQv2rmS1m8uEbl85M1ywI) | 2:54 |
-| 59 | [Necios](https://open.spotify.com/track/4yrizFXoIRJQ94QQKiJqIx) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/5tquufgGqNZBek4qn3Zngj) | 2:42 |
-| 60 | [Compañera](https://open.spotify.com/track/4OPLWuafZDX9jQnc4gZn3y) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [SanJuan](https://open.spotify.com/artist/5COk5Ii3aTVBA7DsJLlNBq) | [Compañera](https://open.spotify.com/album/5h84UO1R50sJvoPpt5EHeR) | 3:13 |
-| 61 | [No es el final](https://open.spotify.com/track/0qybqPqKipt9jlyeuo4ueq) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup) | [No es el final](https://open.spotify.com/album/1Z2rxyZayQaEMBojqzj53q) | 3:17 |
-| 62 | [MUJER MARAVILLA](https://open.spotify.com/track/1AGQa2mcc0EdSrWALwpqXB) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz) | [MUJER MARAVILLA](https://open.spotify.com/album/2o0V68kbkNTXKP1OgS5TJ0) | 3:06 |
+| 59 | [Compañera](https://open.spotify.com/track/4OPLWuafZDX9jQnc4gZn3y) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [SanJuan](https://open.spotify.com/artist/5COk5Ii3aTVBA7DsJLlNBq) | [Compañera](https://open.spotify.com/album/5h84UO1R50sJvoPpt5EHeR) | 3:13 |
+| 60 | [Necios](https://open.spotify.com/track/4yrizFXoIRJQ94QQKiJqIx) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/5tquufgGqNZBek4qn3Zngj) | 2:42 |
+| 61 | [MUJER MARAVILLA](https://open.spotify.com/track/1AGQa2mcc0EdSrWALwpqXB) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz) | [MUJER MARAVILLA](https://open.spotify.com/album/2o0V68kbkNTXKP1OgS5TJ0) | 3:06 |
+| 62 | [No es el final](https://open.spotify.com/track/0qybqPqKipt9jlyeuo4ueq) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup) | [No es el final](https://open.spotify.com/album/1Z2rxyZayQaEMBojqzj53q) | 3:17 |
 | 63 | [Qué Suerte](https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Qué Suerte](https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6) | 2:45 |
 | 64 | [año nuevo](https://open.spotify.com/track/7ajLeP8dofCboY5MpQ5ymP) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Vangan](https://open.spotify.com/artist/7k5pkos4SfOSL1o0VMQzU0) | [año nuevo](https://open.spotify.com/album/56Mx91RHVVImdY8mCcR4Bm) | 3:17 |
 | 65 | [Hola, Buenas Noches](https://open.spotify.com/track/7kRRsr7Wdfru5o7wWjJPUb) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Hola, Buenas Noches](https://open.spotify.com/album/37UpKSYkiLfgNAINIxl8YK) | 3:13 |

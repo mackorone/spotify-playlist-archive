@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Luis Mexia, El Rabbanito en portada.",
-  "num_followers": 245913,
+  "num_followers": 245994,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
+        "name": "EVO LUXURY 2",
+        "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Los Nuevos Ilegales",
+          "url": "https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac"
+        }
+      ],
+      "duration_ms": 189754,
+      "name": "El N\u00famero",
+      "url": "https://open.spotify.com/track/2S1L7g0N4ZH4DEzKoetT5N"
+    },
+    {
+      "added_at": "2025-03-28 18:15:05",
+      "album": {
         "name": "D\u00e9jenlos Pasar",
         "url": "https://open.spotify.com/album/4P66jwFhheR29rXvoV6fZO"
       },
@@ -1607,26 +1627,6 @@
       "duration_ms": 165242,
       "name": "Nos Gusto La Mafia \"EXOTIC\u00d3N 2.0\"",
       "url": "https://open.spotify.com/track/34ivsTSHJiSlnQ3ROqDLpg"
-    },
-    {
-      "added_at": "2025-03-28 18:15:05",
-      "album": {
-        "name": "EVO LUXURY 2",
-        "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Los Nuevos Ilegales",
-          "url": "https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac"
-        }
-      ],
-      "duration_ms": 189754,
-      "name": "El N\u00famero",
-      "url": "https://open.spotify.com/track/2S1L7g0N4ZH4DEzKoetT5N"
     },
     {
       "added_at": "2025-03-28 18:15:05",

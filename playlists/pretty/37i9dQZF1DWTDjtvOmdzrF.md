@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 
 > Manisnya petikan akustik dalam semangkuk kolak teman berbuka puasamu
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,383 likes - 75 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,356 likes - 75 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 44 | [Tuhan Sebut Sia\-Sia](https://open.spotify.com/track/5qZRyl3QDa1PbNXuYfBCEP) | [Amigdala](https://open.spotify.com/artist/40wi3VPurw0e4t3Yggo2Fk) | [Tuhan Sebut Sia\-Sia](https://open.spotify.com/album/4Fo0gJruvAGDIY9j6e4BVJ) | 5:17 |
 | 45 | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX) | [Banda Neira](https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc) | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa) | 6:33 |
 | 46 | [Di Atas Meja](https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Ruang Tunggu](https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX) | 5:29 |
-| 47 | [Sesuatu Di Jogja](https://open.spotify.com/track/0MAIxtXWimwhAAQOST9jp7) | [Adhitia Sofyan](https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR) | [8 Tahun](https://open.spotify.com/album/32SLZ72En7DvxafTDhdk28) | 4:47 |
-| 48 | [Walking Back Home](https://open.spotify.com/track/43A8VtuqZuJHn8CCtnSL2l) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Walking Back Home](https://open.spotify.com/album/103U1ni9LPA8TkD4Q7U1q3) | 2:12 |
+| 47 | [Walking Back Home](https://open.spotify.com/track/43A8VtuqZuJHn8CCtnSL2l) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Walking Back Home](https://open.spotify.com/album/103U1ni9LPA8TkD4Q7U1q3) | 2:12 |
+| 48 | [Sesuatu Di Jogja](https://open.spotify.com/track/0MAIxtXWimwhAAQOST9jp7) | [Adhitia Sofyan](https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR) | [8 Tahun](https://open.spotify.com/album/32SLZ72En7DvxafTDhdk28) | 4:47 |
 | 49 | [Kusut](https://open.spotify.com/track/3diD8b3u6oEn74BezQpujj) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Ego & Fungsi Otak](https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz) | 4:20 |
 | 50 | [Mesra\-mesraannya kecil\-kecilan dulu](https://open.spotify.com/track/3TW8XLF8PyA3kFsV1l5713) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH](https://open.spotify.com/album/6pEUguV7EoReCpbQQE6QrE) | 3:29 |
 | 51 | [Pelukku Untuk Pelikmu \- OST Imperfect: Karier, Cinta, & Timbangan](https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Pelukku Untuk Pelikmu \(OST Imperfect: Karier, Cinta, & Timbangan\)](https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh) | 4:09 |

@@ -4,7 +4,7 @@
 
 > This is Rich Homie Quan\. The essential tracks, all in one playlist.
 
-68 songs - 4 hr 2 min
+69 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Authentic \(feat\. Clever\)](https://open.spotify.com/track/3476C9I5Qad2eqlGnrRspF) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Clever](https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1), [Matt Monaco](https://open.spotify.com/artist/5HNAKwy6K9OwZO1zkO6vax) | [Authentic \(feat\. Clever\)](https://open.spotify.com/album/1uAmD5f6sOUFpPnPDaR7ns) | 3:12 | 2024-09-07 | 2025-02-16 |
 | [Blah Blah Blah](https://open.spotify.com/track/2NR2i4RnPZNKs85Anpyqel) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [I Promise I Will Never Stop Going In \(Deluxe Edition\)](https://open.spotify.com/album/2swWrUelezIoSdBWStNisb) | 3:12 | 2024-09-07 |  |
 | [Can't Judge Her](https://open.spotify.com/track/5CYxGXwAl0rFol5Tc8dDLD) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Still Goin In](https://open.spotify.com/album/5RhyJl0ok0NDKiHjDVg9Z9) | 3:32 | 2024-09-14 | 2024-10-09 |
-| [Celebrate \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/7uxbabRF4omY1MhmIgaZ6Y) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Baby On Baby](https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0) | 3:12 | 2024-09-07 |  |
+| [Celebrate \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/7uxbabRF4omY1MhmIgaZ6Y) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Baby On Baby](https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0) | 3:12 | 2024-09-07 | 2025-04-08 |
 | [Come Thru](https://open.spotify.com/track/65PzThqBjHbXZqhkg0XLQr) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Come Thru](https://open.spotify.com/album/5WNxh5zG6G5KtxAPkmPK1X) | 4:00 | 2024-09-07 |  |
 | [Daddy](https://open.spotify.com/track/2UDvJRFkOFCXbsnf9CsMbe) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Summer Sampler](https://open.spotify.com/album/236GZxcyha7tPOExcuFFBK) | 3:59 | 2024-09-07 |  |
 | [Daily Bread](https://open.spotify.com/track/2q8w0FVUapLrSuOMtZ5Evh) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Daily Bread](https://open.spotify.com/album/2AzQFWR0a5KE3ZpI1rfPvq) | 2:51 | 2024-09-07 |  |
@@ -40,6 +40,7 @@
 | [Imma Ride](https://open.spotify.com/track/0FwezIaHwoxFy8IOLbF2UQ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Rich Homie Cartel Vol 1](https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt) | 4:47 | 2024-09-07 |  |
 | [Intro](https://open.spotify.com/track/4ivbsok0LJFpPkFauN0vfF) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Forever Goin In](https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh) | 4:12 | 2024-10-08 |  |
 | [Investment](https://open.spotify.com/track/45qBK268Mjy6JnOE6mx179) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Still Goin In](https://open.spotify.com/album/5RhyJl0ok0NDKiHjDVg9Z9) | 3:40 | 2024-09-09 | 2024-11-14 |
+| [Klay Thompson](https://open.spotify.com/track/7D1nmzV1FOscrL8UyIuXDY) | [Ricch Bastard](https://open.spotify.com/artist/4VOt7QE8yAzTKOD3SL3Yfz), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Klay Thompson](https://open.spotify.com/album/7743H4b8PvziadCljbC05U) | 2:27 | 2025-04-08 |  |
 | [Krazy](https://open.spotify.com/track/7xhOLtSMUUfZHTK0QVLFnU) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Family & Mula](https://open.spotify.com/album/5qUom4uwQJLIbmRUEgv0pa) | 2:24 | 2024-09-07 | 2025-04-01 |
 | [Lifestyle](https://open.spotify.com/track/7DTlsMOQjGysXHpwwpHuPl) | [Rich Gang](https://open.spotify.com/artist/5pU9lKGn9IUnVvOCONrcIS), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Lifestyle](https://open.spotify.com/album/4EZDdNda2DHRyqoDgTpS4l) | 4:29 | 2024-09-07 |  |
 | [Like a Man \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/27PtszzqiR0o7rLyOOiVNZ) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Touch Down 2 Cause Hell](https://open.spotify.com/album/6Wa9UU70x85ldCo4aeYD2N) | 4:27 | 2024-09-07 |  |

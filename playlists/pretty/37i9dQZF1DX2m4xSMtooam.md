@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,493 likes - 150 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,651 likes - 150 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

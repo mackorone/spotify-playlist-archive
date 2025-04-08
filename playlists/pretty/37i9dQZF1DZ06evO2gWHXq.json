@@ -1,12 +1,12 @@
 {
   "description": "This is MC Davo. The essential tracks, all in one playlist.",
-  "num_followers": 224983,
+  "num_followers": 225002,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAABwP1HcKGcnyga4Fd0EY5fH",
+  "snapshot_id": "Z/HEAAAAAADtJwMVjWQhPxUisKB6OyXn",
   "tracks": [
     {
       "added_at": null,
@@ -395,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mijo\u2026 \u00bfy la novia?",
-        "url": "https://open.spotify.com/album/4EXuUB10jPvlUnmQ28Iv2u"
-      },
-      "artists": [
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 188855,
-      "name": "Mijo\u2026 \u00bfy la novia?",
-      "url": "https://open.spotify.com/track/27Qf1TpvAk59kURJkoOuJB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Psicosis 2",
         "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 201000,
       "name": "Round 2",
       "url": "https://open.spotify.com/track/3CVEOynsYT7V9lrNFPaZ8Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mijo\u2026 \u00bfy la novia?",
+        "url": "https://open.spotify.com/album/4EXuUB10jPvlUnmQ28Iv2u"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 188855,
+      "name": "Mijo\u2026 \u00bfy la novia?",
+      "url": "https://open.spotify.com/track/27Qf1TpvAk59kURJkoOuJB"
     },
     {
       "added_at": null,
@@ -487,18 +487,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psicosis 2",
-        "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
+        "name": "De Plaza en Plaza",
+        "url": "https://open.spotify.com/album/1j1nVyoW6gnZaj8ucEQl3o"
       },
       "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Ana Torroja",
+          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
+        },
         {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         }
       ],
-      "duration_ms": 205430,
-      "name": "Ella Es Una Amenaza",
-      "url": "https://open.spotify.com/track/1lhlIrjvx7855s8JXZg5pF"
+      "duration_ms": 222720,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/6ok8RAvW1sPRIGkLN8iP3N"
     },
     {
       "added_at": null,
@@ -535,26 +543,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Plaza en Plaza",
-        "url": "https://open.spotify.com/album/1j1nVyoW6gnZaj8ucEQl3o"
+        "name": "Psicosis 2",
+        "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
       },
       "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Ana Torroja",
-          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
-        },
         {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         }
       ],
-      "duration_ms": 222720,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/6ok8RAvW1sPRIGkLN8iP3N"
+      "duration_ms": 205430,
+      "name": "Ella Es Una Amenaza",
+      "url": "https://open.spotify.com/track/1lhlIrjvx7855s8JXZg5pF"
     },
     {
       "added_at": null,

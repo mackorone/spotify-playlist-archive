@@ -2,7 +2,7 @@
 
 ### [노래방 인기가요 \(Karaoke K\-Pop Bests\)](https://open.spotify.com/playlist/37i9dQZF1DWXaehqeJpkro)
 
-> 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: Hwang Ga Ram\(황가람\)\)
+> 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: ZO ZAZZ\(조째즈\)\)
 
 323 songs - 21 hr 5 min
 
@@ -280,7 +280,7 @@
 | [그녀를 사랑해줘요](https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Stand Alone](https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i) | 4:19 | 2022-02-17 |  |
 | [그대 없는 밤에](https://open.spotify.com/track/2TUJCx6yTKeMfo7Vw29R3V) | [H:CODE](https://open.spotify.com/artist/3wi60BA6UhRuaNc1Dj548w), [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [네 번째 이야기](https://open.spotify.com/album/5l5mvQkue0o4SJARSYJU0G) | 4:59 | 2022-02-17 |  |
 | [그래서 그대는](https://open.spotify.com/track/5aVuzoktGBQRedWuHqRhLC) | [Yarn](https://open.spotify.com/artist/3226f2U0gI31nf1pUdNO8t) | [Yarn's Best Vol.1](https://open.spotify.com/album/43fHwMitZWvkOAN4aeI4jP) | 4:24 | 2023-10-04 |  |
-| [그런 일은](https://open.spotify.com/track/7EuKuQoLBvmoWU4gkzf7QR) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [THE GOLD](https://open.spotify.com/album/7yuXDQSaXIn9OrS6XidewE) | 4:22 | 2023-11-14 |  |
+| [그런 일은](https://open.spotify.com/track/7EuKuQoLBvmoWU4gkzf7QR) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [THE GOLD \(ORIGINAL RECORDING REMASTERED\)](https://open.spotify.com/album/7yuXDQSaXIn9OrS6XidewE) | 4:22 | 2023-11-14 |  |
 | [기다리다](https://open.spotify.com/track/3XTcTwWPQZg9Ob0u4RBIfP) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Audition \(Time2Rock\)](https://open.spotify.com/album/3nAt9ncRZ7wW3sytjNtXTj) | 4:37 | 2023-11-14 |  |
 | [깊은 밤을 날아서](https://open.spotify.com/track/5vVL45nncczKCWS0uIQpzN) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [이문세 4집](https://open.spotify.com/album/031envKZiWUDD9cRdb0ZbX) | 3:02 | 2024-05-09 |  |
 | [까만 안경](https://open.spotify.com/track/0IPZBKJ5PfYR2y7nmCMDIb) | [Eru](https://open.spotify.com/artist/3mifQJuBZSvh5KRwRptZO0) | [SBS Archive K \- K\-POP](https://open.spotify.com/album/0wQi0RmbvIZIEkLDjjE5x5) | 3:52 | 2022-02-17 |  |

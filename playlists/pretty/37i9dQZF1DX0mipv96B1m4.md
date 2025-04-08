@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 
 > Top flight Caribbean influenced bangers made in Uganda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,472 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,473 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 24 | [Gemazima](https://open.spotify.com/track/6ctNl82yEypzLqeeMzrTkL) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u) | [Gemazima](https://open.spotify.com/album/02QbNNia59RV4jwu00khDg) | 3:01 |
 | 25 | [The One](https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld) | [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Jackie Chandiru](https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ) | [The One](https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU) | 3:28 |
 | 26 | [Hot Like Dat](https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0) | [Beenie Gunter](https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE), [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [Hot Like Dat](https://open.spotify.com/album/7p3qOfzFYyntTw0gEeDyBj) | 2:46 |
-| 27 | [Bajooga](https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Bajooga](https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH) | 2:55 |
-| 28 | [Rambada](https://open.spotify.com/track/05snCTfapTB6et7XoqIUDB) | [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ) | [Rambada](https://open.spotify.com/album/3CemRlISKRsUZTfpexaEK0) | 2:41 |
+| 27 | [Getting Better](https://open.spotify.com/track/6fkrSntANiQEQhFMkswCrd) | [Ambassada](https://open.spotify.com/artist/6qpyACpw41RivvvNo2LjsS), [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Ps Wilson Bugembe](https://open.spotify.com/artist/0klkSQ9nnuVVrURzP6QKzD) | [Getting Better](https://open.spotify.com/album/4k0zaChGbs479PYPo1EWUC) | 4:05 |
+| 28 | [Bajooga](https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Bajooga](https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH) | 2:55 |
 | 29 | [LIFIST](https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [LIFIST](https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO) | 3:34 |
-| 30 | [Getting Better](https://open.spotify.com/track/6fkrSntANiQEQhFMkswCrd) | [Ambassada](https://open.spotify.com/artist/6qpyACpw41RivvvNo2LjsS), [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Ps Wilson Bugembe](https://open.spotify.com/artist/0klkSQ9nnuVVrURzP6QKzD) | [Getting Better](https://open.spotify.com/album/4k0zaChGbs479PYPo1EWUC) | 4:05 |
+| 30 | [Rambada](https://open.spotify.com/track/05snCTfapTB6et7XoqIUDB) | [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ) | [Rambada](https://open.spotify.com/album/3CemRlISKRsUZTfpexaEK0) | 2:41 |
 | 31 | [Pull Up On Mi Bumpa](https://open.spotify.com/track/6yephdkcHXCve6irrcrQMp) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv), [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK) | [Pull Up On Mi Bumpa](https://open.spotify.com/album/7rD99RB3gdmvDFzRVs2cWc) | 3:47 |
 | 32 | [Doctor](https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Doctor](https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4) | 3:13 |
 | 33 | [Stupid](https://open.spotify.com/track/2GQFN64gmx6tGYW5y3VLFA) | [selecta jef](https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv), [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [Stupid](https://open.spotify.com/album/0dNQmVpyFpFjazSiMwyvpW) | 3:37 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 43 | [Marijuana](https://open.spotify.com/track/3KknqI9ODWVO7IeUGf2nuR) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Bruno K](https://open.spotify.com/artist/0DToGxUXxyiGk3sAbwwCtD), [Jackie Chandiru](https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ) | [Marijuana](https://open.spotify.com/album/4Digf6fW7I9SjMeyB9VHdg) | 3:39 |
 | 44 | [Tebali Ready](https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Tebali Ready](https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P) | 2:39 |
 | 45 | [Juicy Body](https://open.spotify.com/track/7184e5XguzlsBAN5T6WDqg) | [Ziza Bafana](https://open.spotify.com/artist/0rF2MfjTZWvmRsrdsVcdF3), [Ritah Danchall](https://open.spotify.com/artist/1Kl5zXFqEYaAjxvPr0xvMl) | [JUICY BODY](https://open.spotify.com/album/1YMB6UajEhgTZgpoNJsuns) | 2:30 |
-| 46 | [Oli Wamanyi](https://open.spotify.com/track/5rRlxoSTCymLQpR1Ry8Auw) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5) | [Oli Wamanyi](https://open.spotify.com/album/2mDRR9bvkyJ1hvh3PLdSo0) | 3:53 |
+| 46 | [Bway](https://open.spotify.com/track/6uxpaa14GscoCL8kY8X81j) | [Quin Smile Music](https://open.spotify.com/artist/1InILV09fJQzl6DLz72Dao), [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho) | [Bway](https://open.spotify.com/album/2oyPRzbOFDVKeyfab6xyhL) | 2:38 |
 | 47 | [Semi Final](https://open.spotify.com/track/3UqJPo5PgQTS6kdMRMnczm) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Dush](https://open.spotify.com/artist/1jIysipyPAKkHyIQvIZwBQ) | [Semi Final](https://open.spotify.com/album/0YRa3fnnHj4KWfamSubtl0) | 2:52 |
-| 48 | [Bway](https://open.spotify.com/track/6uxpaa14GscoCL8kY8X81j) | [Quin Smile Music](https://open.spotify.com/artist/1InILV09fJQzl6DLz72Dao), [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho) | [Bway](https://open.spotify.com/album/2oyPRzbOFDVKeyfab6xyhL) | 2:38 |
+| 48 | [Oli Wamanyi](https://open.spotify.com/track/5rRlxoSTCymLQpR1Ry8Auw) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5) | [Oli Wamanyi](https://open.spotify.com/album/2mDRR9bvkyJ1hvh3PLdSo0) | 3:53 |
 | 49 | [Offline](https://open.spotify.com/track/1RG1d70HrUzbGljyF2wjlI) | [Riff](https://open.spotify.com/artist/2T29CQjXjyp2RAEXUVz6Qh) | [Offline](https://open.spotify.com/album/4BtgtXxG8BujT1B8qVZNRL) | 2:43 |
 | 50 | [Cyaa Sidung](https://open.spotify.com/track/0gWxlOlMh7FuWgczwM9kZG) | [Beenie Gunter](https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE) | [Cyaa Sidung](https://open.spotify.com/album/5UBTZbCjSZLOA7LsqyDnYa) | 2:47 |
 

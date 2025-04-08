@@ -110,7 +110,7 @@
 | [그댄 달라요](https://open.spotify.com/track/7xCGCm45Ohc5ExxxqVjucg) | [Han ye seul](https://open.spotify.com/artist/7306EctnRvOMVb4U6Id0qz) | [Nonstop 04 \(Original Soundtrack\)](https://open.spotify.com/album/4IotbdYKavbbQyjrYdyv7Z) | 3:38 | 2024-06-21 |  |
 | [뒷모습](https://open.spotify.com/track/5mZVQ8HeA5kkvEPF9btBRA) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [후](https://open.spotify.com/album/6q1wp8cszfuxglawf5RvB0) | 4:41 | 2024-06-21 |  |
 | [오래도록 고맙도록](https://open.spotify.com/track/2RGZjmWzjqHQwTcaHCRCtz) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [The Wind, The Sea, The Rain](https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL) | 3:57 | 2024-06-21 |  |
-| [왜 그래](https://open.spotify.com/track/2klcj9Vf9fW0djdMzfi9ny) | [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb) | [김현철 Best + 총각파티](https://open.spotify.com/album/7vYWgr3AToTQm83mcrl652) | 6:13 | 2024-06-21 |  |
+| [왜그래](https://open.spotify.com/track/2klcj9Vf9fW0djdMzfi9ny) | [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb) | [김현철 Best + 총각파티](https://open.spotify.com/album/7vYWgr3AToTQm83mcrl652) | 6:13 | 2024-06-21 |  |
 | [우린 제법 잘 어울려요](https://open.spotify.com/track/2eEhmaLIFWdbfqhqiZnu04) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Melodie D’ Amour](https://open.spotify.com/album/5kOTpcNuOvXuAxFFAIOdSA) | 3:34 | 2024-06-21 |  |
 
 \*This playlist was first scraped on 2024-06-22. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-822 songs - 1 day 11 hr 42 min
+823 songs - 1 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [Das Kaleidoskop](https://open.spotify.com/track/1Lpp0iLabE9C5J1aQJkYS9) | [Albert Kraus](https://open.spotify.com/artist/63ueGtFxRPWEhEqweSglrM) | [Romina](https://open.spotify.com/album/5cEsMVp5pTN5clLQYMj3sy) | 3:14 | 2021-12-08 | 2022-08-05 |
 | [Davos](https://open.spotify.com/track/1HysgmozgWjfu83BAbEdtc) | [Salcao](https://open.spotify.com/artist/4eVKlYwBe7gA40wiemmlNb) | [City Lights](https://open.spotify.com/album/3pB85c4xe6G94NlxPsAALn) | 2:26 | 2021-12-08 | 2022-07-08 |
 | [Day & Night](https://open.spotify.com/track/0STOod1idSRY8V0cHyoAkF) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Day & Night](https://open.spotify.com/album/1VJHc2kD8VRJXYeK39dfga) | 2:26 | 2022-11-18 | 2023-04-22 |
-| [Day and Night](https://open.spotify.com/track/3upnQFF0KAINKmGa4T1EBC) | [David Isner](https://open.spotify.com/artist/2WGXK53ulKkW9Cmi7anYRI) | [Day and Night](https://open.spotify.com/album/5QGRkrCipgaDXU7dCKDYmg) | 2:37 | 2025-04-02 |  |
+| [Day and Night](https://open.spotify.com/track/3upnQFF0KAINKmGa4T1EBC) | [David Isner](https://open.spotify.com/artist/2WGXK53ulKkW9Cmi7anYRI) | [Day and Night](https://open.spotify.com/album/5QGRkrCipgaDXU7dCKDYmg) | 2:37 | 2025-04-02 | 2025-04-08 |
 | [DayBreak](https://open.spotify.com/track/36808teFyYEdLykzyq3MMx) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [DayBreak](https://open.spotify.com/album/38CNDhV5vmuWR8OYEkXngo) | 2:35 | 2025-01-27 |  |
 | [Daybreak](https://open.spotify.com/track/07N5NE0fL2Mr8GZ3CZNxoD) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Daybreak](https://open.spotify.com/album/0ClB01rHJW4BkMmxxUOli2) | 2:14 | 2025-02-24 |  |
 | [Dayspring Dew](https://open.spotify.com/track/2B5MVIV4kzaS4ehtL1UWFB) | [River Foxcroft](https://open.spotify.com/artist/5Ew1humnVO2uALMyV8OB1h) | [Dayspring Dew](https://open.spotify.com/album/6ZJOzTo1OgudWntdAVZLTN) | 2:54 | 2021-12-08 | 2022-06-10 |
@@ -307,6 +307,7 @@
 | [Highway 62](https://open.spotify.com/track/7kDoc5DGGuXzQBRVDA2c6G) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Highway 62](https://open.spotify.com/album/6YUK9h48JpAekhqABmFafD) | 2:41 | 2023-03-10 | 2024-07-19 |
 | [Hold Back The River](https://open.spotify.com/track/52X6M2Kp4HvpHup3tafEF5) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Hold Back The River](https://open.spotify.com/album/4mUjWwSGmnqzhLzTgqa3mH) | 2:28 | 2023-02-24 | 2024-05-04 |
 | [Homage to Mr Rodriguez](https://open.spotify.com/track/2qhdCn9YpnLF6nILfEB56W) | [Brandon Marcelo](https://open.spotify.com/artist/2VtBXPLGJRY6dgNwHue5y4) | [Homage to Mr Rodriguez](https://open.spotify.com/album/6C7HFwnvU3vFI12Z6viGtp) | 4:04 | 2021-12-08 | 2022-02-02 |
+| [Homely Stars](https://open.spotify.com/track/6kZnm4YsiqJ7QYEKbjwvej) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [Homely Stars](https://open.spotify.com/album/3em8T5dt55VvYTauS8eUFy) | 2:50 | 2025-04-07 |  |
 | [Homesick](https://open.spotify.com/track/5EO5Sx8n15p2f3SURF8Pcw) | [Celestial Conscience](https://open.spotify.com/artist/0UG5sCzTJoQXp7RvjoypkI), [Sykomori](https://open.spotify.com/artist/6mURhfwb2vKHmYD9aICMMC) | [Homesick](https://open.spotify.com/album/6rO8Jn9exEBWv9pUBC5wSc) | 2:25 | 2021-12-08 | 2022-06-10 |
 | [Hope Is The Thing With Feathers](https://open.spotify.com/track/3bfqaJtj53DnO5pJn3DUw1) | [Verona Cassidy](https://open.spotify.com/artist/6yDAXIdSTIU3nLU6MeYIz0) | [Hope Is The Thing With Feathers](https://open.spotify.com/album/2R3SdXnRlzP5xE1MvkYjMD) | 2:05 | 2023-01-06 | 2023-09-01 |
 | [Horizonte Tranquilo](https://open.spotify.com/track/1kPz0CM7h5yaQh7ctGV9r6) | [Emanuel Costa](https://open.spotify.com/artist/6iQweq1LCgRS4IEuTzRHQJ) | [Horizonte Tranquilo](https://open.spotify.com/album/3F8rQfhgRWroSrid5gar5M) | 1:41 | 2023-04-21 | 2023-08-19 |

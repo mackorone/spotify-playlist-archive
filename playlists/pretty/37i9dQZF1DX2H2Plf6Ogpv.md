@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 
 > Unearth the year's most exciting rock and alternative hidden gems\. Cover: Chloe Slater
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,283 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,299 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 | 65 | [pinky boy](https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky boy](https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9) | 4:45 |
 | 66 | [Floods](https://open.spotify.com/track/2coR8cnby3QnwRR1eH9Lg0) | [Telescreens](https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz) | [7](https://open.spotify.com/album/60blq04fivxFDr2whVvM5r) | 4:03 |
 | 67 | [Suck The Cherry](https://open.spotify.com/track/5A0h8ERfGBpChu89c2x6gi) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Suck The Cherry](https://open.spotify.com/album/6HoHlAFjY9X2xpPudaclQk) | 3:03 |
-| 68 | [The Curb](https://open.spotify.com/track/33w5GjWZ6HfR4UPtxmuEq2) | [Humane The Moon](https://open.spotify.com/artist/0Xto4nOxUoniMdqKhyVJ2m) | [Debris Joice](https://open.spotify.com/album/78yiDQnS2cf6zoS6pSTOa4) | 3:45 |
-| 69 | [Cold World](https://open.spotify.com/track/0aPx5BNEE3BGBCnZBso0Wt) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Cold World](https://open.spotify.com/album/3puZVzk32SvGkXZd7P4FXI) | 3:17 |
+| 68 | [Cold World](https://open.spotify.com/track/0aPx5BNEE3BGBCnZBso0Wt) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Cold World](https://open.spotify.com/album/3puZVzk32SvGkXZd7P4FXI) | 3:17 |
+| 69 | [The Curb](https://open.spotify.com/track/33w5GjWZ6HfR4UPtxmuEq2) | [Humane The Moon](https://open.spotify.com/artist/0Xto4nOxUoniMdqKhyVJ2m) | [Debris Joice](https://open.spotify.com/album/78yiDQnS2cf6zoS6pSTOa4) | 3:45 |
 | 70 | [Close Call](https://open.spotify.com/track/0F2MGkdHHRCCY38LSZ6WRN) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Come And See](https://open.spotify.com/album/4DHXkFCDz154lGUlAWvLPE) | 2:43 |
 | 71 | [Plant Pot Song](https://open.spotify.com/track/5GYlldi6Qa1Px83vRKCuDj) | [Indoor Foxes](https://open.spotify.com/artist/6wsisvgmHy85OWQWa4TeBo) | [Plant Pot Song](https://open.spotify.com/album/57Xwk8VAERpxv7fYtXoRT1) | 3:09 |
 | 72 | [Ode To Clio](https://open.spotify.com/track/6gJaZclCQVvDdHl4m5reGj) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Ode To Clio](https://open.spotify.com/album/7vNo8NiWR3gco9DhEYg4sP) | 3:17 |

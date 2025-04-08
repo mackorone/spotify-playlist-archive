@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZzPn1Y1VEWq.md) - [plain]
 
 > 100 canciones de la época nostálgica más reciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,735 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,761 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZzPn1Y1VEWq.md) - [plain]
 | 76 | [Western](https://open.spotify.com/track/2UVXBlqRLUJD60L3unaMyS) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Antihumano](https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz) | 4:08 |
 | 77 | [Llegamos Los Pibes Chorros](https://open.spotify.com/track/7sp3ANvVq6FH67nXb6q1yA) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Discografía Completa Vol.1](https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP) | 3:49 |
 | 78 | [Calaveras Y Diablitos \- Versión Remasterizada 2008](https://open.spotify.com/track/2lDcq6gFN9W5yXHk0NU7ve) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Fabulosos Calavera](https://open.spotify.com/album/7FKr6OHxY05uURhgQ86fm4) | 4:23 |
-| 79 | [Amanece en la Ruta](https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:14 |
-| 80 | [Amores Como el Nuestro](https://open.spotify.com/track/0D5AiwyGN6UdrGNThCQgC3) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Corazon de Papel \(Edicion Especial Remasterizada\)](https://open.spotify.com/album/3cAjRkxhlPdzmK7jhPT2XU) | 3:16 |
+| 79 | [Amores Como el Nuestro](https://open.spotify.com/track/0D5AiwyGN6UdrGNThCQgC3) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Corazon de Papel \(Edicion Especial Remasterizada\)](https://open.spotify.com/album/3cAjRkxhlPdzmK7jhPT2XU) | 3:16 |
+| 80 | [Amanece en la Ruta](https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:14 |
 | 81 | [Calavera](https://open.spotify.com/track/5QLbG1uIdSQyiKOY69SN4v) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Viaje](https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i) | 3:32 |
 | 82 | [Pepe Lui](https://open.spotify.com/track/3dYlW2oy1sBMVCH5zst8le) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Vengo Del Placard De Otro](https://open.spotify.com/album/3ljsgnB9LYYXmVmXIk5sby) | 4:04 |
 | 83 | [Viviré por Siempre](https://open.spotify.com/track/5SDPJjP3G1U2ipKcDwvqv8) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Sigue Tu Camino](https://open.spotify.com/album/0RvMRxxQUVQp2jb3CIbg5g) | 4:32 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Shelby Lynne
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,207 likes - 150 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,249 likes - 150 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 111 | [The City of New Orleans \- Original Version](https://open.spotify.com/track/7jbb0XkDk6cuif7AVu3gdW) | [Arlo Guthrie](https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw) | [Hobo's Lullaby \(remastered 2004\)](https://open.spotify.com/album/513P0CXEvPuSG4MCOGHt0y) | 4:34 |
 | 112 | [Down To The River To Pray \- From “O Brother, Where Art Thou” Soundtrack](https://open.spotify.com/track/5HVHKtP234OzwCSrZlVS30) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [O Brother, Where Art Thou? \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7mNWca5S6eg21krZzHAoZt) | 2:56 |
 | 113 | [The Galway Girl](https://open.spotify.com/track/0gUzbeEtJLUzmNwHwREjrF) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Transendental Blues](https://open.spotify.com/album/5WLv6eZPhJuNsZnUOFRWBm) | 3:05 |
-| 114 | [The Muse](https://open.spotify.com/track/2WKY4USjFOT36XpRD8SD6X) | [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [The Muse](https://open.spotify.com/album/6eq3ap2wTob9CGEoPQsuH3) | 3:21 |
-| 115 | [I Feel the Earth Move](https://open.spotify.com/track/7onOpypcFWFc2YjMIcJnx9) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry \(Legacy Edition\)](https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K) | 2:58 |
+| 114 | [I Feel the Earth Move](https://open.spotify.com/track/7onOpypcFWFc2YjMIcJnx9) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry \(Legacy Edition\)](https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K) | 2:58 |
+| 115 | [The Muse](https://open.spotify.com/track/2WKY4USjFOT36XpRD8SD6X) | [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [The Muse](https://open.spotify.com/album/6eq3ap2wTob9CGEoPQsuH3) | 3:21 |
 | 116 | [Lungs](https://open.spotify.com/track/1p3ZBdx6XCXZEu7OoO0zW2) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Live at the Old Quarter](https://open.spotify.com/album/2drUynocyGveMTFheprmJy) | 2:34 |
 | 117 | [Who's Gonna Take the Garbage Out \(feat\. Iris Dement\)](https://open.spotify.com/track/727Ric7BCNuahIETyOALEU) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [Who's Gonna Take the Garbage Out \(feat\. Iris Dement\)](https://open.spotify.com/album/78B8UFzhXSTF7aCbwyDmbt) | 2:41 |
 | 118 | [East Virginia Blues](https://open.spotify.com/track/1fqHUqYBIsG2Ssz4CaHiKZ) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [Happy Prisoner: The Bluegrass Sessions](https://open.spotify.com/album/3WVvNhEvAjTKjYUNubfHtd) | 3:34 |

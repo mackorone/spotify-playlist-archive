@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 237 songs - 12 hr 1 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 238 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -245,5 +245,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 235 | [Life Is Better](https://open.spotify.com/track/4GRxW50GO0Yc5Pp9LK62Rw) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [The Renaissance](https://open.spotify.com/album/0EMbzFBRoIt0fmTsowZ8Zv) | 4:41 |
 | 236 | [On Doe, On Phil \(feat\. Trae The Truth\)](https://open.spotify.com/track/5s0wuLy1M1XsRCvnnzksfj) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy) | [Paperwork \(Deluxe Explicit\)](https://open.spotify.com/album/4FADvCXok2GhepAWLE8Fs1) | 5:24 |
 | 237 | [Free Mr\. Banks](https://open.spotify.com/track/0Prv7tKONwFjjoJ2KswCoR) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Free Mr\. Banks](https://open.spotify.com/album/0hSUTpnHqOgP8hy7XKBPyg) | 1:59 |
+| 238 | [Chicago Zoo](https://open.spotify.com/track/3wehrmgzXoyZxV5JeIwerp) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rollin 2 \(Deluxe Edition\)](https://open.spotify.com/album/0BaBF43wCi33REVTeSiTlN) | 3:28 |
 
-Snapshot ID: `AAAeDgJuuFC/vGw1je3B8DvK2hjYg81V`
+Snapshot ID: `AAAeDw7RJPnioI7kzVhMS3lZ5yjIYLEO`

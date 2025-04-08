@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 
 > warm and cozy beats to watch the leaves fall, focus, study or chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,992 likes - 73 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,993 likes - 73 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hazy](https://open.spotify.com/track/40frhLpVMThTogyowcdNtb) | [Sihu](https://open.spotify.com/artist/0IDfPC86tctwQaHkc9tVfX) | [Hazy](https://open.spotify.com/album/7cKu4mdSXXN5f4LRBI2i9G) | 2:20 |
-| 2 | [Airy Dream](https://open.spotify.com/track/0EO2YsUyTRDvXgET97TEsF) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Airy Dream](https://open.spotify.com/album/1WlSFbBa2pcFYD6fuMe8l3) | 2:09 |
+| 1 | [Airy Dream](https://open.spotify.com/track/0EO2YsUyTRDvXgET97TEsF) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Airy Dream](https://open.spotify.com/album/1WlSFbBa2pcFYD6fuMe8l3) | 2:09 |
+| 2 | [Hazy](https://open.spotify.com/track/40frhLpVMThTogyowcdNtb) | [Sihu](https://open.spotify.com/artist/0IDfPC86tctwQaHkc9tVfX) | [Hazy](https://open.spotify.com/album/7cKu4mdSXXN5f4LRBI2i9G) | 2:20 |
 | 3 | [ghee](https://open.spotify.com/track/2tIuYjDRwnJfJEt4uDEjRl) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [ghee](https://open.spotify.com/album/2u7bj6y7s28vB8Vsa0QhCg) | 3:00 |
 | 4 | [Dream Drift](https://open.spotify.com/track/5yQXLsJZJBcQQV3mhuWDE4) | [Dozy Duzzn](https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY) | [Dream Drift](https://open.spotify.com/album/3tEO0ArWLOU1t0kNVIoTwi) | 2:04 |
 | 5 | [nightvision](https://open.spotify.com/track/574p3oZ9clAcRkM74jhj4d) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [nightvision](https://open.spotify.com/album/6F2olvguA8qhb9u3XJ7zP5) | 2:23 |
@@ -47,14 +47,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 | 37 | [Open Doors](https://open.spotify.com/track/7GhpBmlLkehIvowAgeU7wU) | [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [At Ease](https://open.spotify.com/album/16qoJEqdBZ3s71UCX3GfaG) | 2:30 |
 | 38 | [Renaissance](https://open.spotify.com/track/6rjWO9LcpRRAovhVpJ93pr) | [SumPlusOne](https://open.spotify.com/artist/0cER211mwgbpBAMlqyXNi4) | [Renaissance](https://open.spotify.com/album/1j1RJtqUsyL4P9ATPCIf2x) | 2:08 |
 | 39 | [mirror maze](https://open.spotify.com/track/1N3CGy4TEPeF7ROJcztkEq) | [C\-90](https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq) | [mirror maze](https://open.spotify.com/album/7J86EmXsS5IBGNPXzsRENp) | 2:28 |
-| 40 | [lohmar](https://open.spotify.com/track/4Gio3O6huypk15Z2CLtJ6J) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Orion Express](https://open.spotify.com/album/3nscIeb38p7djVAGqeIY3y) | 1:43 |
-| 41 | [Inconspicuous](https://open.spotify.com/track/2OnnVbgVtWHzLLSne6IXT8) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [Inconspicuous](https://open.spotify.com/album/7njxinH6A0xtEB5QPO3A6b) | 1:57 |
+| 40 | [Inconspicuous](https://open.spotify.com/track/2OnnVbgVtWHzLLSne6IXT8) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [Inconspicuous](https://open.spotify.com/album/7njxinH6A0xtEB5QPO3A6b) | 1:57 |
+| 41 | [lohmar](https://open.spotify.com/track/4Gio3O6huypk15Z2CLtJ6J) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Orion Express](https://open.spotify.com/album/3nscIeb38p7djVAGqeIY3y) | 1:43 |
 | 42 | [So Very Much](https://open.spotify.com/track/5dN8phxVcvz7BAIMuI4wqv) | [nora haze](https://open.spotify.com/artist/1pcopnUDTLC87zfDfV16es) | [So Very Much](https://open.spotify.com/album/3EhNEOMhyAweUU6beirfnQ) | 2:05 |
 | 43 | [chime in](https://open.spotify.com/track/5h5NfrIjeZifGJkZs34WQt) | [robomoque](https://open.spotify.com/artist/2ebmZztT6aXM00u6MEnD5v) | [chime in](https://open.spotify.com/album/1fl0OTa13ShDyOcZVlLDca) | 2:14 |
 | 44 | [flying on the clouds](https://open.spotify.com/track/4cwRE9jaIOcAsuuTpelpC4) | [Chapter IX](https://open.spotify.com/artist/6mKDo2EqkJiOtF3cs1CIZV) | [flying on the clouds](https://open.spotify.com/album/6ERlD8xNArGmJwqvzmWRQr) | 2:25 |
-| 45 | [Deep Blue Dream](https://open.spotify.com/track/4f9InuUz4uZuN2970RymXW) | [Curli Loxx](https://open.spotify.com/artist/72VXvG3lgyD6jsQyr6J05m) | [Deep Blue Dream](https://open.spotify.com/album/3CFaRM1b3dehFSsBaBcseB) | 3:01 |
-| 46 | [routine](https://open.spotify.com/track/0HZsLTBHkIrtDC0qmCOAtg) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [routine](https://open.spotify.com/album/0z1s7c5kahemDRbOVe0YOP) | 2:02 |
-| 47 | [Now](https://open.spotify.com/track/4VixPNMZMDJ9qV0KUUuxBf) | [Touristique](https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2) | [Now](https://open.spotify.com/album/3mSLe7fzKHHVpGxfy4Z4oG) | 2:07 |
+| 45 | [routine](https://open.spotify.com/track/0HZsLTBHkIrtDC0qmCOAtg) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [routine](https://open.spotify.com/album/0z1s7c5kahemDRbOVe0YOP) | 2:02 |
+| 46 | [Now](https://open.spotify.com/track/4VixPNMZMDJ9qV0KUUuxBf) | [Touristique](https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2) | [Now](https://open.spotify.com/album/3mSLe7fzKHHVpGxfy4Z4oG) | 2:07 |
+| 47 | [Deep Blue Dream](https://open.spotify.com/track/4f9InuUz4uZuN2970RymXW) | [Curli Loxx](https://open.spotify.com/artist/72VXvG3lgyD6jsQyr6J05m) | [Deep Blue Dream](https://open.spotify.com/album/3CFaRM1b3dehFSsBaBcseB) | 3:01 |
 | 48 | [Cherry Orchards](https://open.spotify.com/track/5U3OfS34ggwIzho56omJzv) | [Fuzzy Donut](https://open.spotify.com/artist/0ubixProKmcD9MP7XJfkfY) | [Northern Lights](https://open.spotify.com/album/4BxtzD2DCHFUaGoPqfCCfY) | 2:29 |
 | 49 | [Short of Breath](https://open.spotify.com/track/3nChuUgl4otmgu0u0ZueWj) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r) | [Short of Breath](https://open.spotify.com/album/1PntOd2Nr7y3CtOoPCFJnc) | 2:32 |
 | 50 | [decorate](https://open.spotify.com/track/5VlhG140Gp9NhWhS9Dky1y) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [decorate](https://open.spotify.com/album/3T1DwyLHdDde5oOxNGmwyt) | 2:25 |

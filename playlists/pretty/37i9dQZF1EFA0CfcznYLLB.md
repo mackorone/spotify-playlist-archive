@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,803 likes - 330 songs - 17 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,804 likes - 330 songs - 17 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,9 +171,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 161 | [Line Em Up](https://open.spotify.com/track/0pl50PBq8jXKl4Tg4tF7G1) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Funeral](https://open.spotify.com/album/2x657XotA7LCsPElXmXX4W) | 2:59 |
 | 162 | [Contacts](https://open.spotify.com/track/5AhNq2KzWTlgJwx5oKybwD) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:23 |
 | 163 | [Air](https://open.spotify.com/track/3D7Zit3sPdOQMHpWnHtAQY) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [riBBon](https://open.spotify.com/album/4257hXQ3Msts5H4RZGrVHw) | 2:55 |
-| 164 | [Special](https://open.spotify.com/track/1NstxZBzRTJ9kUjwvnDWbi) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Delusions of Grandeur](https://open.spotify.com/album/2FDYcU1NTibzvrv4XDJofN) | 4:03 |
-| 165 | [Same Niggas](https://open.spotify.com/track/5QKOme2dkvt6P3J0makF7b) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:18 |
-| 166 | [Thank You Come Again](https://open.spotify.com/track/2TzzuP16s181AccGrXcDu7) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [BAMESIS](https://open.spotify.com/album/402aahHNiFYPoNKZRg7GaF) | 2:45 |
+| 164 | [Thank You Come Again](https://open.spotify.com/track/2TzzuP16s181AccGrXcDu7) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [BAMESIS](https://open.spotify.com/album/402aahHNiFYPoNKZRg7GaF) | 2:45 |
+| 165 | [Special](https://open.spotify.com/track/1NstxZBzRTJ9kUjwvnDWbi) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Delusions of Grandeur](https://open.spotify.com/album/2FDYcU1NTibzvrv4XDJofN) | 4:03 |
+| 166 | [Same Niggas](https://open.spotify.com/track/5QKOme2dkvt6P3J0makF7b) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:18 |
 | 167 | [CUFFED UP \(feat\. Quavo\)](https://open.spotify.com/track/1Fvwwdc1OMPXXelzEot3mk) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 1:55 |
 | 168 | [Yet](https://open.spotify.com/track/0tGZPaV2bO7ED43Ll0MlSZ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [The Return of East Atlanta Santa](https://open.spotify.com/album/4MoVPs5mVFmZ4N6RmNTFWB) | 3:08 |
 | 169 | [McQueen](https://open.spotify.com/track/4vLRgSxcRmhnhAl9dKb0jl) | [TrifeDrew](https://open.spotify.com/artist/3cWGilyM7pw2Q1bGbTXuBr), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [McQueen](https://open.spotify.com/album/3kCfNWxtVZI9UuUXLGv0an) | 2:36 |
@@ -230,8 +230,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 220 | [Before The Checks \(feat\. Casey Veggies\)](https://open.spotify.com/track/53e92lm5ZHU0aeLmTzbMcu) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy) | [RSS2](https://open.spotify.com/album/2IfA1yfK7cw3nEOGsadYGd) | 3:44 |
 | 221 | [What Type of Games](https://open.spotify.com/track/2u1ctOsUchwMbWd2kyDgfu) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [TANTRA](https://open.spotify.com/album/2m9d5jfphaM15b58uYYRcK) | 3:03 |
 | 222 | [Trap Star](https://open.spotify.com/track/39MJKyP5VPNP3kattTx9iO) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:22 |
-| 223 | [No Jewelry](https://open.spotify.com/track/6HOttKB0jFwrrcwdOIDXQc) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:36 |
-| 224 | [Aint Hard To Love](https://open.spotify.com/track/2KOr4KwQhSUdREDKj7Jdtf) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [For Her \(Deluxe\)](https://open.spotify.com/album/1fMrXrKmZlzH6uM2O76Zz8) | 2:51 |
+| 223 | [Aint Hard To Love](https://open.spotify.com/track/2KOr4KwQhSUdREDKj7Jdtf) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [For Her \(Deluxe\)](https://open.spotify.com/album/1fMrXrKmZlzH6uM2O76Zz8) | 2:51 |
+| 224 | [No Jewelry](https://open.spotify.com/track/6HOttKB0jFwrrcwdOIDXQc) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:36 |
 | 225 | [A Lot of Miles](https://open.spotify.com/track/2a9ShljvDrhFRE8DHjJnYu) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:57 |
 | 226 | [Big Dog](https://open.spotify.com/track/7FRMyc0lIplQaI3hdDvA61) | [MoeIsBetter](https://open.spotify.com/artist/4s03DfC6cLxCYirblvaKlO) | [Big Dog](https://open.spotify.com/album/0rLpjEZaIvtqY1kqfK5ylv) | 2:30 |
 | 227 | [Ride With Shordie, Pt\. 2](https://open.spotify.com/track/05uAvu6nskpw3PNjsOStGd) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:50 |
@@ -339,4 +339,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 329 | [On God](https://open.spotify.com/track/1rmWQqmKWRtm9bks6Lr0Sp) | [Majin Murda](https://open.spotify.com/artist/7LLv3nfvIIYTqBAV8XjlO9) | [3K](https://open.spotify.com/album/7zjBIckQRALycP2MCWEYUg) | 3:27 |
 | 330 | [Peace Of Mind](https://open.spotify.com/track/6xISF2zBnsQ8SGWT4KmWsC) | [Heightsbaby](https://open.spotify.com/artist/4fEE1O32L50PqVbKhnfkCD) | [Peace Of Mind](https://open.spotify.com/album/1Kqzy0cn7DIKQKkHqTqQD6) | 2:55 |
 
-Snapshot ID: `AbuFSgAAAAAB4ip2hqoi2U59f0LygxYh`
+Snapshot ID: `AbuK6gAAAAC1s7uzQ4a994K0pC+MLN5P`

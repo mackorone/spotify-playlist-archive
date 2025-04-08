@@ -1,12 +1,12 @@
 {
   "description": "This is EARTHGANG. The essential tracks, all in one playlist.",
-  "num_followers": 22123,
+  "num_followers": 22124,
   "original_name": "This Is EARTHGANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAAA9kUBRhE5Acoq2p/eJyH+y",
+  "snapshot_id": "Z/HEAAAAAAB7mBm6bg7ygOts/joQw3qn",
   "tracks": [
     {
       "added_at": null,
@@ -163,30 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERFECT FANTASY",
-        "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Spillage Village",
-          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
-        },
-        {
-          "name": "Benji.",
-          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "BOBBY BOUCHER (feat. Benji.)",
-      "url": "https://open.spotify.com/track/37zzOqUUXvKxKns9Ri0JUh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Been A Minute...",
         "url": "https://open.spotify.com/album/7381wOtgfTOq2x3pSjkmub"
       },
@@ -207,6 +183,30 @@
       "duration_ms": 189947,
       "name": "Been A Minute...",
       "url": "https://open.spotify.com/track/4QRRjCZLbmnqDGtsKNEiOh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERFECT FANTASY",
+        "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        },
+        {
+          "name": "Benji.",
+          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "BOBBY BOUCHER (feat. Benji.)",
+      "url": "https://open.spotify.com/track/37zzOqUUXvKxKns9Ri0JUh"
     },
     {
       "added_at": null,
@@ -834,15 +834,11 @@
         {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
         }
       ],
-      "duration_ms": 270986,
-      "name": "Stuck (feat. Arin Ray)",
-      "url": "https://open.spotify.com/track/37lsV513gD04gFvKIPCw4N"
+      "duration_ms": 196493,
+      "name": "Top Down",
+      "url": "https://open.spotify.com/track/6o2YQhGPwCdYBPpisPFInv"
     },
     {
       "added_at": null,
@@ -918,11 +914,15 @@
         {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
         }
       ],
-      "duration_ms": 196493,
-      "name": "Top Down",
-      "url": "https://open.spotify.com/track/6o2YQhGPwCdYBPpisPFInv"
+      "duration_ms": 270986,
+      "name": "Stuck (feat. Arin Ray)",
+      "url": "https://open.spotify.com/track/37lsV513gD04gFvKIPCw4N"
     },
     {
       "added_at": null,

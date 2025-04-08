@@ -2,7 +2,7 @@
 
 ### [Soul 'n' the City](https://open.spotify.com/playlist/37i9dQZF1DWSXWSaQmvWOB)
 
-> New soul\-infused music! Cover: Jalen Ngonda
+> New soul\-infused music! Cover: Ben l'Oncle Soul
 
 1,071 songs - 2 day 17 hr 14 min
 

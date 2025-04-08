@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 
 > This is Esteman\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,533 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,552 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 | 5 | [Mr.Trance](https://open.spotify.com/track/1EmplgI51VcVtLHYOHOfHc) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Mr.Trance \(Soundtrack From The Animated Series\)](https://open.spotify.com/album/7osyDyziI2EhWM60gcPtlV) | 2:49 |
 | 6 | [Mar](https://open.spotify.com/track/6YQG62T687TCDrTVyK3DK2) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Si Volviera A Nacer](https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq) | 3:58 |
 | 7 | [El Distractor](https://open.spotify.com/track/2U9clWgCEFDCwUM5Rdw6dv) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [1er Acto](https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg) | 3:05 |
-| 8 | [Reina Leona](https://open.spotify.com/track/4ZvX5haKXaawEVvKtArV4X) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Reina Leona](https://open.spotify.com/album/6mH7ns15s68fnpdvM22kLE) | 3:07 |
-| 9 | [Noche Sensorial](https://open.spotify.com/track/3GezDPu1wDhp31VMqgGwox) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 3:21 |
+| 8 | [Noche Sensorial](https://open.spotify.com/track/3GezDPu1wDhp31VMqgGwox) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 3:21 |
+| 9 | [Reina Leona](https://open.spotify.com/track/4ZvX5haKXaawEVvKtArV4X) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Reina Leona](https://open.spotify.com/album/6mH7ns15s68fnpdvM22kLE) | 3:07 |
 | 10 | [Besos y Pendientes](https://open.spotify.com/track/2Gdy6E2u62bWSyGyTh4qxg) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [DARA](https://open.spotify.com/album/5VGyOaFFu2uXZJybipzjft) | 2:51 |
 | 11 | [Caótica Belleza](https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:57 |
 | 12 | [Hasta Morir](https://open.spotify.com/track/7CK7oTOmccQz7VJZ4Ajcqv) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Secretos](https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD) | 2:48 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 | 40 | [Secreto](https://open.spotify.com/track/0BJxnZcGYv7ZQMBLdOUzmY) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Secretos](https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD) | 3:03 |
 | 41 | [Frenesí](https://open.spotify.com/track/6xLUhTLKjdDrfbiTOonT6e) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:32 |
 | 42 | [Eso Que Me Das](https://open.spotify.com/track/76Xv0phxmn6MyCxY3K00Wa) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Eso Que Me Das](https://open.spotify.com/album/0WQ1ixBjLMPw4uK0vZnIh3) | 3:47 |
-| 43 | [Solo \- Remix](https://open.spotify.com/track/0P4hFzJlR3ZMEXz92mrk1b) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Solo \(Remix\)](https://open.spotify.com/album/0aEEuIWU7eZZdRk1cw5kYg) | 2:40 |
+| 43 | [Burkina Faso](https://open.spotify.com/track/0oYlFcq0DgLXMzzBSZuPfR) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 3:55 |
 | 44 | [Vacío](https://open.spotify.com/track/31FQspjo54Q66HPdSceOtm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Secretos](https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD) | 3:17 |
-| 45 | [Burkina Faso](https://open.spotify.com/track/0oYlFcq0DgLXMzzBSZuPfR) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 3:55 |
+| 45 | [Solo \- Remix](https://open.spotify.com/track/0P4hFzJlR3ZMEXz92mrk1b) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Solo \(Remix\)](https://open.spotify.com/album/0aEEuIWU7eZZdRk1cw5kYg) | 2:40 |
 | 46 | [ANSIEDÁ](https://open.spotify.com/track/1U9EdGWeTlw1qoaJ0GoMxH) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [ANSIEDÁ](https://open.spotify.com/album/5RugI8qVcl0Fu1Xr2A2fWv) | 2:36 |
 | 47 | [De Otro Planeta](https://open.spotify.com/track/1XfgQpZQqDVNu2edxeyw3h) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [1er Acto](https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg) | 3:10 |
 | 48 | [Desconocidos](https://open.spotify.com/track/2dyP9LDKtL2QpU7No6Zxri) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r) | [Desconocidos](https://open.spotify.com/album/24milmfp1Ttd2ZYjRjezWC) | 3:15 |
 | 49 | [7 Días](https://open.spotify.com/track/0iQ5TF0YYNCuDfUOZ0ASoD) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 3:19 |
 | 50 | [Pobre Corazón](https://open.spotify.com/track/6FogkmJRkh4AoGZ4NBXZ4G) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Pobre Corazón](https://open.spotify.com/album/7uGhAfUDxsISXHgNTVb8S2) | 3:02 |
 
-Snapshot ID: `Z/BygAAAAACO9vzN26Llnhd+9xk0MCa4`
+Snapshot ID: `Z/HEAAAAAABSdew1Q28WenFyetDpu6RU`

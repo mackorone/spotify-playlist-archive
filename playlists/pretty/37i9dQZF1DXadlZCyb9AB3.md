@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 
 > Defining songs of the riot grrrl era and the artists keeping its spirit alive
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,923 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,993 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 60 | [Ready](https://open.spotify.com/track/0ApetCfTrTByDIMGZWJW48) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Ready](https://open.spotify.com/album/2Ov3hZe30CUzA8N4KkL76i) | 1:47 |
 | 61 | [Racist, Sexist Boy \- Live at LA Public Library](https://open.spotify.com/track/6GeiA9XxITMHM3jk1hkNjY) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Racist, Sexist Boy \(Live at LA Public Library\)](https://open.spotify.com/album/7MFXmsdx6um8n72tdReH3C) | 2:05 |
 | 62 | [Where the Girls Are](https://open.spotify.com/track/3LAsmmdRNi6qoZDSclv2iD) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [That's Not What I Heard](https://open.spotify.com/album/1nemQafNn0dGHjXFylg8Kf) | 1:44 |
-| 63 | [Mr\. Moneybag$](https://open.spotify.com/track/72mCIwzPQ7sxfuINA3HjzH) | [Emily's Sassy Lime](https://open.spotify.com/artist/4AMBk6oS2Z1nhqEXIxIJxe) | [Desperate, Scared, but Social](https://open.spotify.com/album/0graDwkgKXdsKKGxyjXpcq) | 1:51 |
-| 64 | [Love Thing](https://open.spotify.com/track/0Tun80hNL7L2kwQlroehnb) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth \(Remastered\)](https://open.spotify.com/album/0gslg0u8VjLBWPBuInwjsr) | 1:39 |
+| 63 | [Love Thing](https://open.spotify.com/track/0Tun80hNL7L2kwQlroehnb) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth \(Remastered\)](https://open.spotify.com/album/0gslg0u8VjLBWPBuInwjsr) | 1:39 |
+| 64 | [Mr\. Moneybag$](https://open.spotify.com/track/72mCIwzPQ7sxfuINA3HjzH) | [Emily's Sassy Lime](https://open.spotify.com/artist/4AMBk6oS2Z1nhqEXIxIJxe) | [Desperate, Scared, but Social](https://open.spotify.com/album/0graDwkgKXdsKKGxyjXpcq) | 1:51 |
 | 65 | [Be Yr Mama](https://open.spotify.com/track/1KwBL4bOPurrC2ZqUEo4QY) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Sleater\-Kinney \(Remastered\)](https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM) | 2:52 |
 | 66 | [Complicated](https://open.spotify.com/track/3XvrUSWE6QZvCv4scH43JA) | [Heavens To Betsy](https://open.spotify.com/artist/0nMGtVCtOB828z1CYKDzGZ) | [Calculated](https://open.spotify.com/album/7j1FVjRMoFdboNookYCXQB) | 6:24 |
 | 67 | [My Baby \(Axe Nice\)](https://open.spotify.com/track/1yGOXn0GWEcXTejNMHYoR4) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Mannequin Pussy](https://open.spotify.com/album/3JWT3gPoEcgonA0Y2JREmK) | 0:59 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 94 | [Celebrity Skin](https://open.spotify.com/track/2VTQAjZr7FPoEJD2sNoH3o) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/0ZIlM7A6pZyNhfohaWjauj) | 2:42 |
 | 95 | [Pillow Case Kisser](https://open.spotify.com/track/1uXSrZF3qd7ZLXURZw1BzP) | [Skinned Teen](https://open.spotify.com/artist/7os5CJbSzqsNlcVJd99aV1) | [Bazooka Smooth!](https://open.spotify.com/album/3J9UlDltpkop6xK3Ew8sBj) | 1:38 |
 | 96 | [Worship The Whip](https://open.spotify.com/track/0yeUQzN4ym60kmeiga9XSZ) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Worship The Whip](https://open.spotify.com/album/1vIPDQMaaSaGCxMqvq9MFB) | 3:01 |
-| 97 | [Oh Me I'm Never](https://open.spotify.com/track/7M8kwE3DzZgTHJG8DHEfr6) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [Oh Me I'm Never](https://open.spotify.com/album/4D8uWnkkXw0hBIUe4AYvIU) | 2:57 |
-| 98 | [Bright Yellow Gun](https://open.spotify.com/track/5B4M7SIVdfoclqKoSbvykA) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [University](https://open.spotify.com/album/5DrPmYzVSJwbRboOJQbqqS) | 3:43 |
+| 97 | [Bright Yellow Gun](https://open.spotify.com/track/5B4M7SIVdfoclqKoSbvykA) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [University](https://open.spotify.com/album/5DrPmYzVSJwbRboOJQbqqS) | 3:43 |
+| 98 | [Oh Me I'm Never](https://open.spotify.com/track/7M8kwE3DzZgTHJG8DHEfr6) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [Oh Me I'm Never](https://open.spotify.com/album/4D8uWnkkXw0hBIUe4AYvIU) | 2:57 |
 | 99 | [Current Affair](https://open.spotify.com/track/0HINeS16DfBP7DGCSC6QVx) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56), [Sienna](https://open.spotify.com/artist/0aiQeYnP7FNRD8BwG90wdG) | [Current Affair \(feat\. Sienna\)](https://open.spotify.com/album/3pyiSjhhlYmUvGo3i8Mhy9) | 2:49 |
 | 100 | [And Breeding](https://open.spotify.com/track/3pYiZe0qoZBmJqqqBmXwFm) | [Priests](https://open.spotify.com/artist/5DT78nxI4rAHYddufPUOBx) | [Bodies and Control and Money and Power](https://open.spotify.com/album/7utZxewdKg098arjQSCuXS) | 3:11 |
 

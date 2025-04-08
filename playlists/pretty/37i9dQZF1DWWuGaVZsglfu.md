@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 
 > The best tracks from the world of music\. Cover: Mimifly
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,792 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,904 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

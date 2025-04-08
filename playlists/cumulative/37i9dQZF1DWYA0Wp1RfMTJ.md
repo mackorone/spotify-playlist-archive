@@ -4,7 +4,7 @@
 
 > Music from "Blue Box"! /アニメ「アオのハコ」の世界を彩る楽曲をプレイリストで。©三浦糀／集英社・「アオのハコ」製作委員会
 
-77 songs - 16 hr 13 min
+78 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Nostalgic Place](https://open.spotify.com/track/2Vdh2BC8nndwPv96rOFRYU) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.2\)](https://open.spotify.com/album/3O8vhwBUBtl53arxGI1Qeq) | 1:29 | 2025-04-04 |  |
 | [Same Blue](https://open.spotify.com/track/3tRgmNTaFYgtbt7XCy6Les) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Same Blue](https://open.spotify.com/album/7Mq690kTHBMnLHdi8WWlUF) | 3:57 | 2025-04-03 |  |
 | [「アオのハコ」スペシャルボイスコメント（上田麗奈、鬼頭明里）](https://open.spotify.com/track/1FzOFyPSEqAY7q6CpYM3wA) | [アオのハコ](https://open.spotify.com/artist/0ynuDsM1fzRQTRSVogDu6q) | [「アオのハコ」スペシャルボイスコメント（上田麗奈、鬼頭明里）](https://open.spotify.com/album/3oVwwPZBcsRNcRSPjTlMz2) | 0:48 | 2025-04-03 |  |
+| [【 第0回】TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」](https://open.spotify.com/episode/3xw5UHkdBD36t3mhipUi6L) | [TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」](https://open.spotify.com/show/6Fpisry3SHA4ofSN0aTHj9) | [TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」](https://open.spotify.com/album/6Fpisry3SHA4ofSN0aTHj9) | 44:22 | 2025-04-07 |  |
 | [【 第10回】TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」【鬼頭明里＆坂田将吾】](https://open.spotify.com/episode/4C6NUqqZ6zFkAcScqciGsN) | [TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」](https://open.spotify.com/show/6Fpisry3SHA4ofSN0aTHj9) | [TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」](https://open.spotify.com/album/6Fpisry3SHA4ofSN0aTHj9) | 49:48 | 2025-04-04 |  |
 | [【 第11回】TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」【上田麗奈＆梶裕貴】](https://open.spotify.com/episode/7b1qmo9JYONGzrESHtGMVZ) | [TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」](https://open.spotify.com/show/6Fpisry3SHA4ofSN0aTHj9) | [TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」](https://open.spotify.com/album/6Fpisry3SHA4ofSN0aTHj9) | 54:11 | 2025-04-04 |  |
 | [【 第12回】TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」【鬼頭明里＆TOMOO】](https://open.spotify.com/episode/0fTP0xNR6qi34a71QtqChN) | [TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」](https://open.spotify.com/show/6Fpisry3SHA4ofSN0aTHj9) | [TVアニメ「アオのハコ」公式WEBラジオ、略して「ハコラジ！」](https://open.spotify.com/album/6Fpisry3SHA4ofSN0aTHj9) | 50:08 | 2025-04-04 |  |

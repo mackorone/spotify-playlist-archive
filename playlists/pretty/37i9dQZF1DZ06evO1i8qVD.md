@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 
 > This is Buddy Guy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,131 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,136 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 | 18 | [Rememberin' Stevie](https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Damn Right, I've Got The Blues](https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj) | 6:58 |
 | 19 | [The Blues Is Alive And Well](https://open.spotify.com/track/0TuPaGnVZ9wwv0qAjCLEin) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Is Alive And Well](https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk) | 5:13 |
 | 20 | [Mary Had A Little Lamb](https://open.spotify.com/track/6TNNss0QAjTi14I5CVfMpJ) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 2:32 |
-| 21 | [Messin' with the Kid](https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Buddy Guy & Junior Wells Play The Blues](https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu) | 2:15 |
-| 22 | [Texas Louisiana](https://open.spotify.com/track/6OdFdXQR5gm1uCJYzA5RqH) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Real Gone](https://open.spotify.com/album/53kQpuZzu1Yd5gyBtfgvr6) | 2:55 |
+| 21 | [Texas Louisiana](https://open.spotify.com/track/6OdFdXQR5gm1uCJYzA5RqH) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Real Gone](https://open.spotify.com/album/53kQpuZzu1Yd5gyBtfgvr6) | 2:55 |
+| 22 | [Messin' with the Kid](https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Buddy Guy & Junior Wells Play The Blues](https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu) | 2:15 |
 | 23 | [Last Man Standing](https://open.spotify.com/track/1ra4PQfZO9AbLTT0V8xu1D) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Last Man Standing](https://open.spotify.com/album/3DL8TS4vqj6jVeyCnbMdgn) | 3:32 |
 | 24 | [Snatch It Back And Hold It](https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:54 |
 | 25 | [\(Baby\) You Got What It Takes \(feat\. Joss Stone\)](https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 | 49 | [The Price You Gotta Pay](https://open.spotify.com/track/34JrJDLnQSCdcvX54bRYys) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Keith Richards](https://open.spotify.com/artist/08avsqaGIlK2x3i2Cu7rKH) | [Bring 'Em In](https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6) | 3:40 |
 | 50 | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/track/5fqugbggilsnWCohZhTSdA) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [The Blues Don't Lie](https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp) | 3:08 |
 
-Snapshot ID: `Z/BygAAAAAA6tFbCvRdE1+mn3zm3CJP9`
+Snapshot ID: `Z/HEAAAAAAA43e9ISevGvK1FYPHYmoIS`

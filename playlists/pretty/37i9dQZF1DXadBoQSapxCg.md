@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 
 > Apaga a luz e deixa rolar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,199 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,297 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 25 | [Você Tem](https://open.spotify.com/track/6MMeHHFx8H30NoxkfAD5Bn) | [Dreicon](https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv), [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Você Tem](https://open.spotify.com/album/1HlIJFkzruHJ0LsgVth2tX) | 2:44 |
 | 26 | [encontro de alma](https://open.spotify.com/track/0MdwaLcYuSOslnLYj3KwSb) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [encontro de alma](https://open.spotify.com/album/0HtqGveQhYxnORlsbToqEz) | 3:05 |
 | 27 | [Clichê](https://open.spotify.com/track/4eK0Z2KoqIvsyg0gbuZOvg) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Day](https://open.spotify.com/album/1H9uCuBYQzu2n5j0i728YF) | 2:41 |
-| 28 | [São Paulo](https://open.spotify.com/track/0UVNwFoQioR960YIHd5f2D) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [São Paulo](https://open.spotify.com/album/1zfb69TVle95DrRItAr9vq) | 3:52 |
-| 29 | [Ser](https://open.spotify.com/track/5fPop0vfmloMnDXZuYltB9) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [S](https://open.spotify.com/album/4d4AHMB5JSbeYRfRSd2AO8) | 3:31 |
+| 28 | [Ser](https://open.spotify.com/track/5fPop0vfmloMnDXZuYltB9) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [S](https://open.spotify.com/album/4d4AHMB5JSbeYRfRSd2AO8) | 3:31 |
+| 29 | [São Paulo](https://open.spotify.com/track/0UVNwFoQioR960YIHd5f2D) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [São Paulo](https://open.spotify.com/album/1zfb69TVle95DrRItAr9vq) | 3:52 |
 | 30 | [Peito Aberto](https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Peito Aberto](https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u) | 2:36 |
 | 31 | [Vício](https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 3:55 |
 | 32 | [Codinome](https://open.spotify.com/track/4NQwX44ditNnlFwdnz1Iqm) | [Maria](https://open.spotify.com/artist/1fcS44jH4wr0qwxSVdxWyX) | [Codinome](https://open.spotify.com/album/55pQ5LfBEgTcIti8XvfdwM) | 3:29 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 42 | [Você não vive sem](https://open.spotify.com/track/1WHeEGj7gbd834Ema8PHU0) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 3:17 |
 | 43 | [Meia Noite](https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [VemK](https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N) | 3:05 |
 | 44 | [FLOW](https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [FLOW](https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6) | 3:25 |
-| 45 | [DISK](https://open.spotify.com/track/33IqDnVi4c8OkqlXM1iOkP) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [DISK](https://open.spotify.com/album/7AlFDQgoQ3UOVhbdItG33T) | 2:37 |
-| 46 | [Noite de Verão](https://open.spotify.com/track/2dmOggzA39k4KF82uhLvjw) | [Gabz](https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq) | [Noite de Verão](https://open.spotify.com/album/1kfuU47zWJR5lNm0XdCYxd) | 4:13 |
+| 45 | [Noite de Verão](https://open.spotify.com/track/2dmOggzA39k4KF82uhLvjw) | [Gabz](https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq) | [Noite de Verão](https://open.spotify.com/album/1kfuU47zWJR5lNm0XdCYxd) | 4:13 |
+| 46 | [DISK](https://open.spotify.com/track/33IqDnVi4c8OkqlXM1iOkP) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [DISK](https://open.spotify.com/album/7AlFDQgoQ3UOVhbdItG33T) | 2:37 |
 | 47 | [Apelação](https://open.spotify.com/track/0IN3WGJIqcwnypFHtGpoZJ) | [Yan Cloud](https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP), [Zamba](https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW), [Chibatinha](https://open.spotify.com/artist/1ugAp6InWzuA4mPxWz3Pkt) | [Apelação](https://open.spotify.com/album/1dFNG3V6K51mOWtwZAPO4v) | 2:17 |
 | 48 | [Nenhuma Outra Mulher](https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Nenhuma Outra Mulher](https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n) | 2:27 |
 | 49 | [Tara](https://open.spotify.com/track/4s2hl8ZqSkWHH9tGJ72F21) | [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [Tara](https://open.spotify.com/album/6QvwRnOHrisFhMo9fSmLVV) | 2:46 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 57 | [Cupido](https://open.spotify.com/track/5bfimwK5FYHMlaa93448w5) | [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE), [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Cupido](https://open.spotify.com/album/4ikm2H16e81LGmGL1VykAw) | 2:45 |
 | 58 | [Dona do Rolê](https://open.spotify.com/track/5PIppheInDGkAo5W68w1ow) | [Bárbara Labres](https://open.spotify.com/artist/0trHMgCbRohjsr2uzM6scS), [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81) | [Dona do Rolê](https://open.spotify.com/album/4RyMPAOzowymsswvzetDwU) | 2:40 |
 | 59 | [Slow Motion](https://open.spotify.com/track/3jbrQ70noEPkUyiYvZkOHe) | [Nêssa](https://open.spotify.com/artist/2nBhcSkmkP34W4oWJc9pcr) | [Slow Motion](https://open.spotify.com/album/2R6pUKYNA3c2ph5dTkaa06) | 3:26 |
-| 60 | [Toque Na Pele](https://open.spotify.com/track/2mGcVoOXeVHwwACz9GulPB) | [24por7](https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF) | [Toque Na Pele](https://open.spotify.com/album/2Jxq9gOEEVxCHjDQKwmz0H) | 2:41 |
+| 60 | [Blues](https://open.spotify.com/track/2ruShEBiopKBFINEu2Vo1C) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Blues](https://open.spotify.com/album/18WNVbLIVw09redTOkfpO0) | 3:13 |
 
 Snapshot ID: `Z7isOQAAAAAgOFG33V5uxRAbNWE3zhsJ`

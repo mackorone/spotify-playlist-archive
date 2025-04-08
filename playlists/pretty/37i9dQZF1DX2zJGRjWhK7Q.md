@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 
 > Lo mejor de los '70\. Foto: Ismael Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,803 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,852 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 4 | [Jibaro Soy](https://open.spotify.com/track/26KRkeRDHUH73zwgohnoDv) | [Rapphy Levitt Orquesta La Selecta](https://open.spotify.com/artist/2iKZL4iDwGCUUqZcG5okOg) | [Jibaro Soy..\. Dg1236](https://open.spotify.com/album/3QoLk4smlcw55snXcRwGTP) | 5:01 |
 | 5 | [Siempre Seré Guajiro](https://open.spotify.com/track/2PQMhXmBx5h2jDsgZYHTfx) | [William Millan](https://open.spotify.com/artist/2RYP0CUL9ezyuVt13yMzVj), [Saoco](https://open.spotify.com/artist/5w8CzZs1645N7nVRmbVdF1) | [Siempre Seré Guajiro](https://open.spotify.com/album/5a7isqzKSbZ8ugfrqq8d8d) | 5:27 |
 | 6 | [La Rueda](https://open.spotify.com/track/5dOWipP9winLed8B0Ajoxa) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero \(Vol 2\)](https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh) | 6:26 |
-| 7 | [Quimbara](https://open.spotify.com/track/3GDna1GrUkkjZTaoysolGQ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Celia y Johnny](https://open.spotify.com/album/3ETmy7JfoqlvAwVg1sopmg) | 4:51 |
+| 7 | [Pedro Navaja](https://open.spotify.com/track/09PGyODYYlVsL49N7TR914) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colon Y Ruben Blades](https://open.spotify.com/artist/3j2xUU9GSvJLBKhp7maKaO) | [Anthology](https://open.spotify.com/album/1mJroViGaNhgmckqDiIfBU) | 7:23 |
 | 8 | [Un verano en Nueva York](https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Numero 7](https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS) | 4:58 |
-| 9 | [Pedro Navaja](https://open.spotify.com/track/09PGyODYYlVsL49N7TR914) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colon Y Ruben Blades](https://open.spotify.com/artist/3j2xUU9GSvJLBKhp7maKaO) | [Anthology](https://open.spotify.com/album/1mJroViGaNhgmckqDiIfBU) | 7:23 |
+| 9 | [Quimbara](https://open.spotify.com/track/3GDna1GrUkkjZTaoysolGQ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Celia y Johnny](https://open.spotify.com/album/3ETmy7JfoqlvAwVg1sopmg) | 4:51 |
 | 10 | [El Negro Bembon](https://open.spotify.com/track/1xVSHCVq7yfjl3txyq9dsw) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [El Sonero Mayor](https://open.spotify.com/album/2lV3Tmgb4lIv6CbVJKJmjZ) | 3:03 |
 | 11 | [Che Che Cole](https://open.spotify.com/track/0FriNBfZnUzIAXRkYH1SHH) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Cosa Nuestra](https://open.spotify.com/album/7h9smttvUvPPLLQeRWOPbI) | 3:32 |
 | 12 | [Que Pena](https://open.spotify.com/track/7H6TbcATjUfP6gkJ7vxfp5) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Loco Por Ti](https://open.spotify.com/album/4xDo2losNBAidTX68sPdeM) | 4:55 |

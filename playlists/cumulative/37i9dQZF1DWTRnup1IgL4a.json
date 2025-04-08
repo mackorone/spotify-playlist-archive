@@ -250,7 +250,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 84750,
       "name": "Amanda's dream",
       "url": "https://open.spotify.com/track/410wWW3Ng4O5qMGECf1zLk"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 103000,
       "name": "April Snow",
       "url": "https://open.spotify.com/track/32dB0ESIxhqJHS5d2XExmO"
@@ -2219,6 +2219,24 @@
     },
     {
       "album": {
+        "name": "Just Between Us",
+        "url": "https://open.spotify.com/album/7tYdxSv7POPsdMVWEONPJ5"
+      },
+      "artists": [
+        {
+          "name": "Mattias Blom",
+          "url": "https://open.spotify.com/artist/1BaxgJpBm81CBBpUhRnVO9"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126192,
+      "name": "Just Between Us",
+      "url": "https://open.spotify.com/track/40qwl5MmhYasmV2yJtqWAQ"
+    },
+    {
+      "album": {
         "name": "Kalon",
         "url": "https://open.spotify.com/album/3lfOzzTyavf27SUAy3zyss"
       },
@@ -2918,7 +2936,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 183500,
       "name": "More Human",
       "url": "https://open.spotify.com/track/4A0JgmSpjwZbN5plH0JDzg"
@@ -3930,7 +3948,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 159693,
       "name": "Silhouette Skies",
       "url": "https://open.spotify.com/track/78C9AYb8YTvptbLb5BxK8U"
@@ -4830,7 +4848,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 107872,
       "name": "Under the moon",
       "url": "https://open.spotify.com/track/1eqiRWOIfG4Y4D6JTrUN1C"

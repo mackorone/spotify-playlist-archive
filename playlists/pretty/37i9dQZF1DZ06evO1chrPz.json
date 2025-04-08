@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 203689,
+  "num_followers": 203694,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAADEhZUWmdIfYEpNNH7S8GWN",
+  "snapshot_id": "Z/HEAAAAAAB3IZ/mx+uUfdk63HNGUOMv",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stand In Your Love (Radio Version)",
-        "url": "https://open.spotify.com/album/2Hj6wZap379k7FpV2totRj"
+        "name": "Victory (Live)",
+        "url": "https://open.spotify.com/album/06EbhB1VVdMre8BVfEpkOz"
       },
       "artists": [
         {
@@ -164,13 +164,17 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
         }
       ],
-      "duration_ms": 221333,
-      "name": "Stand In Your Love (Radio Version)",
-      "url": "https://open.spotify.com/track/4d6i3I2AgCx8CD54Tjr5pF"
+      "duration_ms": 470880,
+      "name": "Raise a Hallelujah (Live)",
+      "url": "https://open.spotify.com/track/2NLjbOQWD20oy0WpZJByap"
     },
     {
       "added_at": null,
@@ -195,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victory (Live)",
-        "url": "https://open.spotify.com/album/06EbhB1VVdMre8BVfEpkOz"
+        "name": "Stand In Your Love (Radio Version)",
+        "url": "https://open.spotify.com/album/2Hj6wZap379k7FpV2totRj"
       },
       "artists": [
         {
@@ -204,17 +208,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        },
-        {
-          "name": "Melissa Helser",
-          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
         }
       ],
-      "duration_ms": 470880,
-      "name": "Raise a Hallelujah (Live)",
-      "url": "https://open.spotify.com/track/2NLjbOQWD20oy0WpZJByap"
+      "duration_ms": 221333,
+      "name": "Stand In Your Love (Radio Version)",
+      "url": "https://open.spotify.com/track/4d6i3I2AgCx8CD54Tjr5pF"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Make Me Brave (Live)",
-        "url": "https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        }
-      ],
-      "duration_ms": 366160,
-      "name": "You Make Me Brave (Live)",
-      "url": "https://open.spotify.com/track/3IgSDKkHpfLBEbBNoygoqb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No One Like The Lord (Live)",
         "url": "https://open.spotify.com/album/0zKlGpmcShEFFSvWeWR8B0"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 500300,
       "name": "No One Like The Lord (Live)",
       "url": "https://open.spotify.com/track/6R3Zp0J2CMp1CgZEQcfWPa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Make Me Brave (Live)",
+        "url": "https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "duration_ms": 366160,
+      "name": "You Make Me Brave (Live)",
+      "url": "https://open.spotify.com/track/3IgSDKkHpfLBEbBNoygoqb"
     },
     {
       "added_at": null,
@@ -959,6 +959,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come Up Here",
+        "url": "https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+        }
+      ],
+      "duration_ms": 294155,
+      "name": "Surrounded By Holy",
+      "url": "https://open.spotify.com/track/0YCOTbsLcODzITM0WsSnD7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Homecoming (Live)",
         "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 519770,
       "name": "I Belong To Jesus (Live)",
       "url": "https://open.spotify.com/track/3PO1bLMdUGmpRWnNuraEsn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come Up Here",
-        "url": "https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Zahriya Zachary",
-          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
-        }
-      ],
-      "duration_ms": 294155,
-      "name": "Surrounded By Holy",
-      "url": "https://open.spotify.com/track/0YCOTbsLcODzITM0WsSnD7"
     },
     {
       "added_at": null,

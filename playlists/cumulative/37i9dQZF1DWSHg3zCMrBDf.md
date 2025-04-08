@@ -4,7 +4,7 @@
 
 > The hottest tracks in Ghana\. Cover: Black Sherif
 
-362 songs - 18 hr 30 min
+364 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Door](https://open.spotify.com/track/0Ad6okyKc5qGtECNQa3IFH) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Somewhere Between Beauty & Magic \(Deluxe\)](https://open.spotify.com/album/7zkbRyrQV7GaWs1aR9IeYp) | 2:32 | 2023-05-19 | 2023-05-27 |
 | [Door](https://open.spotify.com/track/4ahI2IdM0Z1e7dLopcNJQi) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Door](https://open.spotify.com/album/3NEfHN5barIoNRNa4vPXh1) | 2:32 | 2021-04-23 | 2023-05-26 |
 | [Down Flat](https://open.spotify.com/track/0eqmxkeJHQs3mdOEFluYXB) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Down Flat](https://open.spotify.com/album/6eeaFgahrUj7bPRyLkPuAV) | 2:52 | 2022-01-27 | 2023-05-27 |
+| [Dreamer](https://open.spotify.com/track/2kLiFLe4F3YCBqOd3YrWED) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:20 | 2025-04-07 |  |
 | [Duffel Bag](https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Duffel Bag](https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0) | 2:07 | 2023-05-26 | 2023-09-28 |
 | [E Choke](https://open.spotify.com/track/0dfhS0eJu5a3OB6TVMdYlA) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI), [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [E Choke](https://open.spotify.com/album/0bBL9agqk6xyPy88LWuS1b) | 3:03 | 2021-06-11 | 2022-12-09 |
 | [Effiakuma Broken Heart](https://open.spotify.com/track/3ebcYH7mX3q6muQUBiWhNT) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Effiakuma Broken Heart](https://open.spotify.com/album/4lpN5pNVf6HDWpIrBFd3aC) | 3:09 | 2024-05-14 | 2025-03-15 |
@@ -288,7 +289,7 @@
 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2022-10-13 | 2023-05-27 |
 | [Sa Me](https://open.spotify.com/track/0BJBJ6hwuRhdjLwLPn5Usa) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Sa Me](https://open.spotify.com/album/3oUyfdqXsO6o81sEHeiPtU) | 2:48 | 2025-03-14 |  |
 | [Sability](https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sability](https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy) | 2:46 | 2023-02-23 | 2023-09-10 |
-| [Sacrifice](https://open.spotify.com/track/3bdntVS2dHPTPitwms9gLK) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:33 | 2025-04-04 |  |
+| [Sacrifice](https://open.spotify.com/track/3bdntVS2dHPTPitwms9gLK) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:33 | 2025-04-04 | 2025-04-08 |
 | [Sankofa \- Remix](https://open.spotify.com/track/0CmnXFWyp6lBVhEXYzLWa9) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Sankofa \(5 Star Remix\)](https://open.spotify.com/album/7vuWMKZUPRYEy5YWdloX5K) | 3:14 | 2022-12-01 | 2023-01-17 |
 | [SCAR](https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy) | [Song bird](https://open.spotify.com/artist/4QLKyJHQZs4nlsQIEFb8Gt), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [SCAR](https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5) | 3:23 | 2023-04-20 | 2023-11-14 |
 | [Second Sermon](https://open.spotify.com/track/6quFWbUf88BS0pWUNrwVCR) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Second Sermon](https://open.spotify.com/album/1WtUCwDqTypySaG8c5yC8C) | 2:46 | 2021-07-16 | 2023-02-24 |
@@ -311,6 +312,7 @@
 | [Soja](https://open.spotify.com/track/0rkpKiWmsAs2VApWKJQRuY) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 3:01 | 2023-01-16 | 2023-03-04 |
 | [Soja](https://open.spotify.com/track/5F7imvl6nIRWoMCejdR4Sk) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Soja](https://open.spotify.com/album/0WrpYqyMi0ZU8EY9AzCdht) | 3:01 | 2022-09-23 | 2023-05-27 |
 | [Sokoo](https://open.spotify.com/track/33ZZooDjBxsIhVKCDxfdrB) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Sokoo](https://open.spotify.com/album/6XgnxgnBbRHToFqPQtMKRV) | 2:47 | 2023-09-14 | 2023-09-22 |
+| [Soma Obi](https://open.spotify.com/track/6QLkRE9Px8RvInJGvms5X6) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:41 | 2025-04-07 |  |
 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 | 2022-06-20 | 2024-05-15 |
 | [soso](https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:03 | 2023-01-16 | 2024-04-19 |
 | [soso](https://open.spotify.com/track/6rTC6IsG0y0TYoGggKpccz) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN) | 3:03 | 2024-04-19 | 2024-05-15 |
@@ -334,7 +336,7 @@
 | [Tested, Approved & Trusted](https://open.spotify.com/track/05A6mr7C2bP7uPrEQrj9qk) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/51r39Gm18d7yIS3PC1QD8B) | 3:40 | 2023-11-13 | 2024-03-01 |
 | [Therapy](https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Therapy](https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp) | 3:05 | 2022-05-05 | 2023-05-27 |
 | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY) | 3:03 | 2023-10-27 | 2024-05-15 |
-| [TIME CATCH](https://open.spotify.com/track/0XUoGWZ0XXPlOuCZ1seFGZ) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [NEW ROAD AND GUAVA TREES](https://open.spotify.com/album/4p7Y6nHD0gwwS0GMCabOlI) | 1:33 | 2025-03-14 |  |
+| [TIME CATCH](https://open.spotify.com/track/0XUoGWZ0XXPlOuCZ1seFGZ) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [NEW ROAD AND GUAVA TREES](https://open.spotify.com/album/4p7Y6nHD0gwwS0GMCabOlI) | 1:33 | 2025-03-14 | 2025-04-08 |
 | [Ting Ting](https://open.spotify.com/track/4pPjtltszSbjBFzM0KCEqs) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Ting Ting](https://open.spotify.com/album/5SovjJsCQZwm4zGoVCq2TK) | 3:02 | 2024-02-22 | 2025-01-17 |
 | [Tomorrow](https://open.spotify.com/track/4F1qhy14MdQoYcgrJUGt3a) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Tomorrow](https://open.spotify.com/album/6rXRhlh1NEEI5eLb6UdRVk) | 2:28 | 2023-05-11 | 2023-07-21 |
 | [Tornado](https://open.spotify.com/track/52L1OTjUe8Zmz8xQH9HENi) | [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Tornado](https://open.spotify.com/album/339rnWvetNqZTAZzxrlv35) | 2:38 | 2023-04-27 | 2023-05-27 |

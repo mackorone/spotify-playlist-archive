@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 
 > Así como lo pediste, ponte cursi con las canciones más románticas\. La Adictiva en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,032,058 likes - 125 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,032,122 likes - 125 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 | 109 | [Te Amo](https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Te Amo](https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq) | 3:13 |
 | 110 | [Bonita](https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [Bonita](https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu) | 3:21 |
 | 111 | [Aliado Del Tiempo](https://open.spotify.com/track/4KeTe10W4xvAOxfRC0kxpF) | [Mariano Barba](https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo) | [Un Cantautor Con Alma de Triunfador](https://open.spotify.com/album/0XTaNhlqfiRdXLYJ7ZL7TS) | 4:32 |
-| 112 | [Tú](https://open.spotify.com/track/24HxLpw8Zz3U0tFEUuHNqo) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [Deluxe Edition](https://open.spotify.com/album/5YRqVAEYjDqnzWkiqwJibI) | 3:14 |
-| 113 | [365](https://open.spotify.com/track/7GhBtaLThD3Sa0zLJdGRhQ) | [Los Reales Del Rio](https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc) | [365](https://open.spotify.com/album/6z1DSgDs9h0shDhQYJSA3e) | 3:08 |
+| 112 | [365](https://open.spotify.com/track/7GhBtaLThD3Sa0zLJdGRhQ) | [Los Reales Del Rio](https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc) | [365](https://open.spotify.com/album/6z1DSgDs9h0shDhQYJSA3e) | 3:08 |
+| 113 | [Tú](https://open.spotify.com/track/24HxLpw8Zz3U0tFEUuHNqo) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [Deluxe Edition](https://open.spotify.com/album/5YRqVAEYjDqnzWkiqwJibI) | 3:14 |
 | 114 | [Mas Alla Del Sol](https://open.spotify.com/track/21Yn3cSdzaPQuOEs2kt4jQ) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Mas Alla Del Sol](https://open.spotify.com/album/1wRhBK4ubZMPanXtjFIi6V) | 2:43 |
 | 115 | [Escondidos](https://open.spotify.com/track/2v2totojcWdvtjy7lAvl9o) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [30 Aniversario](https://open.spotify.com/album/7bvOvntSA0iqc0BmOy8wz2) | 3:11 |
 | 116 | [Amorcito Mio](https://open.spotify.com/track/70Gg7ZAnrEzhcIB2zOiyVt) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados \(Live Vol\. 1\)](https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj) | 3:23 |

@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 371593,
+  "num_followers": 371622,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2025-04-05 18:10:36",
       "album": {
+        "name": "M\u00edstico",
+        "url": "https://open.spotify.com/album/7DhXujQxCEiiTMpfkrnUzX"
+      },
+      "artists": [
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        }
+      ],
+      "duration_ms": 187459,
+      "name": "M\u00edstico",
+      "url": "https://open.spotify.com/track/0AZJ2bWZwvgLH59jaxJScv"
+    },
+    {
+      "added_at": "2025-04-05 18:10:36",
+      "album": {
         "name": "Pra Que Fazer Assim? (Vers\u00e3o Instrumental)",
         "url": "https://open.spotify.com/album/79ZK3MKk56dn4iNp3esrtf"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 242948,
       "name": "Flying High",
       "url": "https://open.spotify.com/track/7CJpiMB7cKSuV4BYgtkV6C"
-    },
-    {
-      "added_at": "2025-04-05 18:10:36",
-      "album": {
-        "name": "M\u00edstico",
-        "url": "https://open.spotify.com/album/7DhXujQxCEiiTMpfkrnUzX"
-      },
-      "artists": [
-        {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
-        }
-      ],
-      "duration_ms": 187459,
-      "name": "M\u00edstico",
-      "url": "https://open.spotify.com/track/0AZJ2bWZwvgLH59jaxJScv"
     }
   ],
   "unique_name": "Praiana",

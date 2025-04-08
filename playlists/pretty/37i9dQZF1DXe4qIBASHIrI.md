@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 
 > Los temas esenciales de la escena independiente nacional\. Furland en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,371 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,419 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 89 | [Mi Chica](https://open.spotify.com/track/7tIFZKrcPgzNUKBEU3Dvkc) | [Los Reyes del Falsete](https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd) | [La Fiesta de la Forma](https://open.spotify.com/album/5HRqHWTveNLtgJ1jOqmDey) | 6:51 |
 | 90 | [Palapa](https://open.spotify.com/track/2vofpKYoBvc2uiV2yHYrHW) | [Porter](https://open.spotify.com/artist/4mUAuFmWYLWUsE85XlXZUU) | [Moctezuma](https://open.spotify.com/album/70nk1mvQAQ1Tpf6j7gudRW) | 5:45 |
 | 91 | [Todo](https://open.spotify.com/track/5fAArZM8ZLQPTwIvJLYacv) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Todo](https://open.spotify.com/album/5noph1AdprfKF6MZuLJyVO) | 3:39 |
-| 92 | [Vámonos](https://open.spotify.com/track/14dxDAiZ1YMfT0s0urR5Zh) | [Súper Tigre](https://open.spotify.com/artist/2k7XXrxlqG3H27BueuiQW3) | [Súper Tigre](https://open.spotify.com/album/6j4jrKSq0iYQ2uhjZGYDs3) | 3:26 |
-| 93 | [Natural](https://open.spotify.com/track/3fa70p1SE2URA6Uf7EMI6c) | [Sol Flamingo](https://open.spotify.com/artist/2Ya7gUo3eaJQy56EZHOIhr) | [Natural](https://open.spotify.com/album/0eNxFw87IuvCA01UpYYp4X) | 3:38 |
+| 92 | [Natural](https://open.spotify.com/track/3fa70p1SE2URA6Uf7EMI6c) | [Sol Flamingo](https://open.spotify.com/artist/2Ya7gUo3eaJQy56EZHOIhr) | [Natural](https://open.spotify.com/album/0eNxFw87IuvCA01UpYYp4X) | 3:38 |
+| 93 | [Vámonos](https://open.spotify.com/track/14dxDAiZ1YMfT0s0urR5Zh) | [Súper Tigre](https://open.spotify.com/artist/2k7XXrxlqG3H27BueuiQW3) | [Súper Tigre](https://open.spotify.com/album/6j4jrKSq0iYQ2uhjZGYDs3) | 3:26 |
 | 94 | [Curse the Space](https://open.spotify.com/track/2Ryk5DzBoaJsIVtAUFfd95) | [Hey Chica!](https://open.spotify.com/artist/0YmDnVrTRCTPHYkOyK5m7T) | [Antología](https://open.spotify.com/album/5UDoOYylqlJqoitSCg2Cps) | 3:11 |
 | 95 | [A la Distancia](https://open.spotify.com/track/6lyOVxJw4WwJRmbSwzr2tQ) | [La Banderville](https://open.spotify.com/artist/5bHvEzZCBiHrBWMiwXFLgD) | [El Seminuevo de Manzana](https://open.spotify.com/album/4c8flSsuzU1QEYBMIoCQWd) | 3:15 |
 | 96 | [Copycat](https://open.spotify.com/track/1PK1LcF9pKYurDjOA17WmR) | [Los Fancy Free](https://open.spotify.com/artist/2fEk73iGQuzvW93I9Tp1bt) | [Out of Place](https://open.spotify.com/album/4FW4QtvN7lDWxiKAjWIe7k) | 3:05 |

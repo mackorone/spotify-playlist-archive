@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 
 > Ouça e conheça as revelações da música gospel\. Foto: Alexsander Lucio
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,204 likes - 60 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,245 likes - 60 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

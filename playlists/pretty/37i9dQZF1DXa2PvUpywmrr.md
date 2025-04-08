@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PvUpywmrr.md) - [plain]
 
 > trust Charli and co to get your party jumping 🎉🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,214,553 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,214,467 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

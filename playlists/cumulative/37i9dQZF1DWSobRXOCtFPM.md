@@ -4,7 +4,7 @@
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-395 songs - 1 day 14 hr 36 min
+396 songs - 1 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Bring It Back](https://open.spotify.com/track/4AbXMTMcXbnJ9YDYHFcDpo) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Electronic Generations](https://open.spotify.com/album/6tvLPBwE0Yd4VLwsTvGL3Z) | 4:05 | 2023-02-13 | 2023-08-04 |
 | [Butoh](https://open.spotify.com/track/44nO3IZH64y0gSNoOPOlXb) | [Sven Väth](https://open.spotify.com/artist/5TQaBSTOSypp7S4jfSnN3F) | [Catharsis](https://open.spotify.com/album/6FJwU5sRNThNol3w2NDARx) | 7:59 | 2022-08-15 | 2023-02-14 |
 | [Can't Feel My Body](https://open.spotify.com/track/5GRxThDbBZDUz9nM0v84IE) | [Michele Conte](https://open.spotify.com/artist/5Ua2M4hhWcm1y2ADgGp92q) | [100](https://open.spotify.com/album/43HoJzIVxNKZsHR09CJjNs) | 6:00 | 2024-11-20 |  |
+| [Chasing Ghosts](https://open.spotify.com/track/1uQyGmWaMEgsGlhWKjGKHs) | [Carlo Lio](https://open.spotify.com/artist/51NwQz5MA32kigUGYjdA3z), [M.I.T.A.](https://open.spotify.com/artist/21z6y3SBHItI8CjIJzPdlo) | [Chasing Ghosts](https://open.spotify.com/album/0SjSS81VVQREwIeBaTd5ar) | 6:18 | 2025-04-07 |  |
 | [City Nights](https://open.spotify.com/track/1g0e3aEiuZ8kPh5waWTi2r) | [Carlo Lio](https://open.spotify.com/artist/51NwQz5MA32kigUGYjdA3z), [DJ Boris](https://open.spotify.com/artist/0CwEv3FWLZi5UomNNYUn0u) | [City Nights](https://open.spotify.com/album/3IILZmt6FMHXKiltTRdOC2) | 6:27 | 2022-08-15 | 2023-02-14 |
 | [City's Face \- Carl Cox Remix](https://open.spotify.com/track/5dPzLiUkKC7hKVRTeRBVIZ) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [ALAYA Remixes EP 3](https://open.spotify.com/album/4GQ6eaGxmFB2g1LFe4HuK7) | 5:52 | 2022-08-15 | 2023-02-14 |
 | [Cliff Face](https://open.spotify.com/track/4bJpuqoZ6WsKhFDwQkrPfv) | [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP) | [MNTNS of SLNC](https://open.spotify.com/album/2lqCAVOaxGA3TI64lLXc2Y) | 10:14 | 2023-02-13 | 2023-06-27 |

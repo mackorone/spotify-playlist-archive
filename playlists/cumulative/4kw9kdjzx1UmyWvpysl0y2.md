@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-953 songs - 2 day 5 hr 53 min
+954 songs - 2 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Fire In Your Eyes](https://open.spotify.com/track/4YpynGMDLvDLLgjzmKNTMj) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3) | [Fire In Your Eyes](https://open.spotify.com/album/37ujeU0QdOtVYjmHZGj90W) | 2:10 | 2023-03-13 | 2023-06-02 |
 | [First Place](https://open.spotify.com/track/21kVD9H40rRQkGmcMi01Fl) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Caslow](https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq), [Lexi Scatena](https://open.spotify.com/artist/6OrvGE61MCrOZJM5naN4Vd) | [First Place](https://open.spotify.com/album/05cVnyWLCNRyeXJUQHutXZ) | 3:13 | 2022-04-22 | 2022-07-02 |
 | [Fix Me](https://open.spotify.com/track/1HLTcIaCy7teNg5HAifIwV) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Fix Me](https://open.spotify.com/album/4Iis1Eijoob88ojKdYQL6X) | 3:45 | 2023-03-13 | 2023-06-03 |
+| [Flatline](https://open.spotify.com/track/4Ww6lRhfa8rXS3FpvHXaEF) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Flatline](https://open.spotify.com/album/1u233gR5ztuIFT27g3uJVQ) | 2:42 | 2025-04-07 |  |
 | [Flex](https://open.spotify.com/track/1Vvkof5rm2wD0IAqy1x1XP) | [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi) | [Flex](https://open.spotify.com/album/0PrzlKhTCHT493lpKK8tCQ) | 3:54 | 2024-04-03 | 2024-06-21 |
 | [Flow](https://open.spotify.com/track/4v43DTptT6aZheUUrACW2K) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Flow](https://open.spotify.com/album/6XwawQBMFv5iuFwsXOnyYn) | 3:23 | 2023-04-17 | 2023-07-11 |
 | [Flow \- VIP](https://open.spotify.com/track/3WOVZm1MMQvrQw9wbzlOg2) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Flow \(VIP\)](https://open.spotify.com/album/2U5naTzOW7wVMr4e5x3Zir) | 3:33 | 2024-10-11 | 2025-01-21 |

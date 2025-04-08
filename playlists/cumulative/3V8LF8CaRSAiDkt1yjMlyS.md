@@ -4,7 +4,7 @@
 
 > 
 
-179 songs - 9 hr 36 min
+180 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [F Song](https://open.spotify.com/track/4z9KVNX4hmk672SJfhtQNz) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [F Song](https://open.spotify.com/album/5ZacQ1N3XCqVC1urIKTAWH) | 3:44 | 2023-09-21 |  |
 | [Fallen Down](https://open.spotify.com/track/1jDMi92a9zNQuPD3uPMkla) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [UNDERTALE Soundtrack](https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z) | 0:57 | 2024-09-05 |  |
 | [Falling Memories](https://open.spotify.com/track/38CjZ6gTrmCQlDasWzvO8x) | [Finn Lavo](https://open.spotify.com/artist/7JgWqXwxseehoRu33qxWCR) | [Falling Memories](https://open.spotify.com/album/04okqLrzeyF4BGOxAPBsnW) | 3:09 | 2024-12-05 |  |
+| [Fever Dream](https://open.spotify.com/track/2hO6CqpWjPBEzOGDk4eXIw) | [Bellamy Trevor](https://open.spotify.com/artist/4piLbslIVY3r0EHMAAqipD) | [Yesterday](https://open.spotify.com/album/30woklkKadyGtPaHHELF6f) | 2:55 | 2025-04-07 |  |
 | [Fly\-day Chinatown](https://open.spotify.com/track/2uXlHiOE4o5xHOCiob8DKn) | [泰葉](https://open.spotify.com/artist/0W2BSNBblzlWTk4bD2A9uR) | [Fly\-day Chinatown](https://open.spotify.com/album/0dO2tsQmsZzsPnR9qDWTlP) | 3:28 | 2023-01-16 |  |
 | [Flying :\)\)](https://open.spotify.com/track/6gDrPmfRqagFxMK1DZiRV4) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 2:59 | 2023-05-26 |  |
 | [For the First Time](https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:02 | 2023-09-25 |  |

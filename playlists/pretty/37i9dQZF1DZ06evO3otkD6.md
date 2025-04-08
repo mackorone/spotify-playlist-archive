@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 
 > This is Belinda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,522 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,556 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 14 | [Si No Te Quisiera](https://open.spotify.com/track/0wLqXnCLseMice1Hwq6yLz) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Lapiz Conciente](https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t) | [The King Is Back](https://open.spotify.com/album/5N6P3Eh36VTePIz2g2n3Pu) | 3:05 |
 | 15 | [Si Nos Dejan](https://open.spotify.com/track/77OLLnRUGQtf0HH626f0Vj) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Si Nos Dejan](https://open.spotify.com/album/3O4xt3iXa8vVAfXA2xltSe) | 2:29 |
 | 16 | [Déjate Llevar](https://open.spotify.com/track/784NEMxBpeH9MxWF1qr4iu) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Snova](https://open.spotify.com/artist/5oOyEfGd8NxAKA41zGQhoj), [B\-Case](https://open.spotify.com/artist/1o9x7ez0NvhDb7gBqrYnUj) | [4.0](https://open.spotify.com/album/7zCW1I02UgkVjg0UYd5rOq) | 3:53 |
-| 17 | [Blink Twice \- Dos Veces Remix](https://open.spotify.com/track/6SNHfk6CipQOSALhblynof) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Blink Twice \(Dos Veces Remix\)](https://open.spotify.com/album/29rcLP1Uni7elTtxuiXF1J) | 2:34 |
-| 18 | [Flamenkito](https://open.spotify.com/track/2oRtscLLwdLMiDpRoQOSWW) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Cocoterapia](https://open.spotify.com/album/0vmNJ8cSNDKIOSOuYSnIz1) | 3:22 |
+| 17 | [Flamenkito](https://open.spotify.com/track/2oRtscLLwdLMiDpRoQOSWW) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Cocoterapia](https://open.spotify.com/album/0vmNJ8cSNDKIOSOuYSnIz1) | 3:22 |
+| 18 | [Blink Twice \- Dos Veces Remix](https://open.spotify.com/track/6SNHfk6CipQOSALhblynof) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Blink Twice \(Dos Veces Remix\)](https://open.spotify.com/album/29rcLP1Uni7elTtxuiXF1J) | 2:34 |
 | 19 | [No Estamos Tan Locos](https://open.spotify.com/track/1uZJgxYvEOTlyY2baL0m17) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [No Estamos Tan Locos](https://open.spotify.com/album/7gZvRRiER5mk2ZtqBfaTu3) | 3:26 |
 | 20 | [LA MALA](https://open.spotify.com/track/4qd4H8TaQRtPE3yfyQWk8B) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [LA MALA](https://open.spotify.com/album/4R2sQCI4LfP0SVFdm8kobO) | 2:24 |
 | 21 | [Egoista](https://open.spotify.com/track/1e6L0EbCaG0TraK7LtbcXE) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Carpe Diem](https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 49 | [Te Quiero \(feat\. Belinda\) \- Spanglish](https://open.spotify.com/track/5vD1PU8G39zpTB0J4LWJhm) | [Nigga](https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd), [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Te Quiero Maxi Single](https://open.spotify.com/album/6YZ2lSsfCVzabCnAOLNs7H) | 3:25 |
 | 50 | [Why Wait](https://open.spotify.com/track/55PYZ56l4MBXTLTFUjzU7u) | [The Cheetah Girls](https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [The Cheetah Girls 2](https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG) | 3:01 |
 
-Snapshot ID: `Z/BygAAAAADz7wIM+XjpcX28bsYxPT2n`
+Snapshot ID: `Z/HEAAAAAAD2xK6t2Qko6y35XMpTxNhW`

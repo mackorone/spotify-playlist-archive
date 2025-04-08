@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 
 > Pa' cantar, bailar y pistear\. ¡Qué suene el mariachi! En portada: Lola Beltrán
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,326 likes - 150 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,440 likes - 150 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 93 | [No Me Queda Más](https://open.spotify.com/track/3xW3exLpM6NTHdp2wkg1LR) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ones](https://open.spotify.com/album/4Djr1mj7dBvYElBFCLO6P6) | 3:19 |
 | 94 | [Te He Prometido](https://open.spotify.com/track/0EEch8uGilw3eU2Dzoy32U) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Lo Mejor de Leo Dan Ahora con Mariachi](https://open.spotify.com/album/4fDFnEA8wMJ4gekOh3HC1b) | 2:42 |
 | 95 | [No Discutamos](https://open.spotify.com/track/1kEWmwBPNkG1LtMb1H0xtZ) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lucha Villa Y Aida](https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica) | 2:16 |
-| 96 | [Golondrina De Ojos Negros \- Versión Mariachi](https://open.spotify.com/track/3syPKM9ORE0fyb7tucLR58) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Con Mariachi](https://open.spotify.com/album/6ZmAvrZsc7atoSDqqODDVF) | 3:13 |
-| 97 | [Tata Dios](https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:29 |
+| 96 | [Tata Dios](https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:29 |
+| 97 | [Golondrina De Ojos Negros \- Versión Mariachi](https://open.spotify.com/track/3syPKM9ORE0fyb7tucLR58) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Con Mariachi](https://open.spotify.com/album/6ZmAvrZsc7atoSDqqODDVF) | 3:13 |
 | 98 | [Desde Hoy \- Con Mariachi](https://open.spotify.com/track/3xpcxYUs20mA2qAh0tsx48) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [16 Exitos De Oro](https://open.spotify.com/album/0H7gQr029I6IVxfcHNXS3d) | 3:21 |
 | 99 | [Tu Retirada](https://open.spotify.com/track/7sLlAe3At46cVEemoQ7dKA) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [El Indomable](https://open.spotify.com/album/37rzDLkGoIcqXAW7fZ9LJ0) | 4:03 |
 | 100 | [Te He Prometido](https://open.spotify.com/track/1sqtCRFaeXlqiMxM5MGMdC) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Te He Prometido](https://open.spotify.com/album/5akcpTEFuh8Ey7laB8c3TR) | 3:06 |

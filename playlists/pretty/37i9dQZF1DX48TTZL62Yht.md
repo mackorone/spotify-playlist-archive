@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48TTZL62Yht.md) - [plain]
 
 > The tracks you just keep pulling up\. Cover: Kendrick Lamar
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,785 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,779 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

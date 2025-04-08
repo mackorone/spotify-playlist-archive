@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-431 songs - 21 hr 55 min
+432 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [On the Avenue](https://open.spotify.com/track/0u7UgMUozKWy90L4ndcAKO) | [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii) | [Irving Berlin](https://open.spotify.com/album/2SDRpgeExbbsEXGC9hibtJ) | 1:48 | 2024-07-26 |  |
 | [Once Upon a Time Today](https://open.spotify.com/track/5wAvxhoU2F0675zispvzIo) | [Russell Nype](https://open.spotify.com/artist/4cerD92u3RJET1mB07UoGp) | [Call Me Madam](https://open.spotify.com/album/5sqze5Mh00RrTEp1gasM1u) | 3:15 | 2024-07-26 |  |
 | [Only For Americans](https://open.spotify.com/track/4OlSG08uiQnQBSaAesJtug) | [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [Some Sunny Day \- The Songbook, The Energy And The Blend](https://open.spotify.com/album/5BeoWMtKwyiL1t2pDUG6nA) | 2:31 | 2024-07-26 |  |
+| [Ooh! Maybe It's You](https://open.spotify.com/track/1ZAc9CTdBKSgUsjMeVrJDl) | [Paul Whiteman](https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r) | [King of Jazz: The Complete A to Z Collection, Vol\. 32](https://open.spotify.com/album/7xDycDL2p7FqgmneJCtHm0) | 2:33 | 2025-04-07 |  |
 | [Our Wedding Day](https://open.spotify.com/track/6bw0woH10zbpPyGvFcs1Dk) | ['As Thousands Cheer: The Hit Musical Comedy Revue!' 1998 New York Revival Cast](https://open.spotify.com/artist/5Lt9AkGuzKxaqVItWFWZGa) | [As Thousands Cheer \(1998 Off\-Broadway Cast Recording\)](https://open.spotify.com/album/2g4UW6AF3FhbUH6SIU53b7) | 3:18 | 2024-07-26 |  |
 | [Outside Of Loving You \- I Like You](https://open.spotify.com/track/5CtzvLhO9pe877zjcMENej) | [Emily Loesser](https://open.spotify.com/artist/37hEcl0R9PVPfTxbsYrV53) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 3:43 | 2024-07-26 |  |
 | [Outside of That, I Love You](https://open.spotify.com/track/0fRTUSnjCNgOCULYR2aiHZ) | [Vivien Parry](https://open.spotify.com/artist/3xGck3avHaksZisPQlvEXP), [Martin Ball](https://open.spotify.com/artist/2QtfV8rPcFaFgQWfLgVk8d) | [Top Hat: The Musical \(Original London Cast Recording\)](https://open.spotify.com/album/2Jyv99HYnlhy0Fut0k4Yls) | 3:09 | 2024-07-26 |  |

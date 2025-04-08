@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tKTQI.md) - [plain]
 
 > This is Bratty\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,018 likes - 45 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,017 likes - 45 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bichota \- Spotify Singles](https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Bichota – Spotify Singles](https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq) | 2:37 |
 | 2 | [Ropa De Bazar](https://open.spotify.com/track/7kWFRZdedr2gtfE8JDumVZ) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Ropa De Bazar](https://open.spotify.com/album/7z9qYJVpdYt9zplriyrrZI) | 3:17 |
-| 3 | [Shh](https://open.spotify.com/track/2FoUIyGK8ddv0LQQWrd5Ie) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 3:10 |
-| 4 | [Honey, No Estás](https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:27 |
+| 3 | [Honey, No Estás](https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:27 |
+| 4 | [Shh](https://open.spotify.com/track/2FoUIyGK8ddv0LQQWrd5Ie) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 3:10 |
 | 5 | [Continental](https://open.spotify.com/track/4ZawkW77BlnpIRMfy2Ur0I) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Continental](https://open.spotify.com/album/7sruuQX41NKTVl5kAzp5ME) | 3:24 |
 | 6 | [Fin Del Mundo \(with Bratty\)](https://open.spotify.com/track/4bWKxHYB7QGYobbiQawHXQ) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 2:54 |
-| 7 | [seguiremos siendo](https://open.spotify.com/track/6zX7KSFicewSnSeT3W2tvN) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [seguiremos siendo](https://open.spotify.com/album/4KkPCRsBQnbv25qKv8dkpI) | 3:14 |
-| 8 | [Quédate](https://open.spotify.com/track/7tm1BebE71tHtJmbJKvvxq) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:45 |
+| 7 | [Quédate](https://open.spotify.com/track/7tm1BebE71tHtJmbJKvvxq) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:45 |
+| 8 | [seguiremos siendo](https://open.spotify.com/track/6zX7KSFicewSnSeT3W2tvN) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [seguiremos siendo](https://open.spotify.com/album/4KkPCRsBQnbv25qKv8dkpI) | 3:14 |
 | 9 | [La Última Vez](https://open.spotify.com/track/18H0STg2CPkVKx0AqRsoLQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [TRES](https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu) | 3:34 |
 | 10 | [lejos](https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:22 |
-| 11 | [NADA ME LEVANTA](https://open.spotify.com/track/7npg53FrMEJC1VCdLk3seG) | [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [KOR KOR LAKE](https://open.spotify.com/album/5oAqoeVSSkUgq52mNXfppk) | 3:13 |
-| 12 | [Quiero Estar](https://open.spotify.com/track/7EjYMczG2zkInd4Rs5Y2Oc) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:13 |
+| 11 | [Quiero Estar](https://open.spotify.com/track/7EjYMczG2zkInd4Rs5Y2Oc) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:13 |
+| 12 | [NADA ME LEVANTA](https://open.spotify.com/track/7npg53FrMEJC1VCdLk3seG) | [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [KOR KOR LAKE](https://open.spotify.com/album/5oAqoeVSSkUgq52mNXfppk) | 3:13 |
 | 13 | [Que Yo A Tí](https://open.spotify.com/track/7gd0O7jx54YvV7dbQKxwVu) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [TRES](https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu) | 3:28 |
 | 14 | [jules](https://open.spotify.com/track/5FEcWUQNGBNuHtZnBqgxD3) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 4:27 |
 | 15 | [inocencia interrumpida](https://open.spotify.com/track/0qCyVa5ASsxtkGY9uQtvRB) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [donde van los perros](https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O) | 2:16 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tKTQI.md) - [plain]
 | 30 | [friend](https://open.spotify.com/track/6POsLQxXvK9HIjS4CS2iRI) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 4:17 |
 | 31 | [Delusión](https://open.spotify.com/track/26Xfr8rrWVnoUfzIT0QfQP) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:33 |
 | 32 | [tiempo](https://open.spotify.com/track/0TeOSjjpN80jyyZLc4RiLn) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn \(Deluxe\)](https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH) | 3:51 |
-| 33 | [Interlude](https://open.spotify.com/track/6GsDBG00OVi33YA89WJmoP) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Todo Está Cambiando](https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g) | 1:23 |
-| 34 | [Voy en Auto](https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Voy en Auto](https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu) | 2:58 |
+| 33 | [Voy en Auto](https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Voy en Auto](https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu) | 2:58 |
+| 34 | [Interlude](https://open.spotify.com/track/6GsDBG00OVi33YA89WJmoP) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Todo Está Cambiando](https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g) | 1:23 |
 | 35 | [Cruel](https://open.spotify.com/track/4ZauniOK70YyV27WfhIBYK) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:38 |
 | 36 | [u.c.m.c.d.n.](https://open.spotify.com/track/0c6yROB8ARIwEGJXU8w0Dn) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn \(Deluxe\)](https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH) | 2:37 |
 | 37 | [Mi Habitación](https://open.spotify.com/track/7iF9WZqCVKUHV93XykSFgZ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Yawners](https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC) | [Es Mi Fiesta Y Si Quiero Hago Un EP](https://open.spotify.com/album/1eDAIIm6ZE4FzNSjirEtkt) | 2:35 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tKTQI.md) - [plain]
 | 44 | [Before Seeing Green](https://open.spotify.com/track/5QUegNZBmf8GbGz1gYWcl3) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Todo Está Cambiando](https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g) | 2:35 |
 | 45 | [Charlie](https://open.spotify.com/track/3Hb1Nmc4Bil5yyO0g03hLZ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Todo Está Cambiando](https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g) | 2:57 |
 
-Snapshot ID: `Z/BygAAAAAADvLXzK6IarUSifP9UOyKK`
+Snapshot ID: `Z/HEAAAAAADcwMxJlXXRSJ4ZuSS750dC`

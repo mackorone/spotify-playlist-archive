@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4VL4QRgUHPpilJ4CRhCW1I">Pablo Bowman Navarro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 828 likes - 134 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 829 likes - 134 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 59 | [In The Night](https://open.spotify.com/track/3WiLJNcLc7LC7IxVGFQZYK) | [Joy Club](https://open.spotify.com/artist/2pl0xmKbMZHncAxBcYUs79) | [In The Night](https://open.spotify.com/album/2XmcywRb1e7pkN7kkgLPgg) | 2:37 |
 | 60 | [FRIENDS \- A Boogie Wit Da Hoodie Remix](https://open.spotify.com/track/4dCumGK60yfBKJnKwM8FtO) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [FRIENDS \(A Boogie Wit Da Hoodie Remix\)](https://open.spotify.com/album/48yQwHhuCrcQa299qV0qiC) | 3:22 |
 | 61 | [The Look \(feat\. Kehlani\)](https://open.spotify.com/track/3POcBJvOCO5Xeov9F3cpgh) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [WHO HURT YOU?](https://open.spotify.com/album/5KOqAAM9SMO0LLbT5apaur) | 3:36 |
-| 62 | [Kendine Gel](https://open.spotify.com/track/33M46WVzB3S94em09c9kkG) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 1\)](https://open.spotify.com/album/5AkqkeuP9dc0j8jl1z54rE) | 3:31 |
-| 63 | [The Night](https://open.spotify.com/track/0N0NC1efHb304JX93dPltf) | [Owen Norton](https://open.spotify.com/artist/4ZjJmxiWDURUeXl9erCsE5) | [The Night](https://open.spotify.com/album/6G0WSQeCvxZJzPBnByqux5) | 2:56 |
+| 62 | [The Night](https://open.spotify.com/track/0N0NC1efHb304JX93dPltf) | [Owen Norton](https://open.spotify.com/artist/4ZjJmxiWDURUeXl9erCsE5) | [The Night](https://open.spotify.com/album/6G0WSQeCvxZJzPBnByqux5) | 2:56 |
+| 63 | [Kendine Gel](https://open.spotify.com/track/33M46WVzB3S94em09c9kkG) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 1\)](https://open.spotify.com/album/5AkqkeuP9dc0j8jl1z54rE) | 3:31 |
 | 64 | [Start Walking](https://open.spotify.com/track/3rCnBkJlXQMDvivFU4NEtC) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [HARD](https://open.spotify.com/album/3b1SWPjpkf4jEDtnNQdfu4) | 3:14 |
 | 65 | [Baby, I'm Jealous \(feat\. Doja Cat\) \- Natti Natasha Remix](https://open.spotify.com/track/1ukcBrTJUEGmSmANE4Pf4A) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Baby, I'm Jealous \(feat\. Doja Cat\) \[Natti Natasha Remix\]](https://open.spotify.com/album/7sOD9D9S485QMfKVOc3DBc) | 2:33 |
 | 66 | [Won't Forget You \(Donk Edit Featuring The Blackout Crew\)](https://open.spotify.com/track/0SDeRncYFKK7Q0taUn6KNk) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3), [The Blackout Crew](https://open.spotify.com/artist/2wM4w5wKzgAOBd0cDyBbsi) | [Won't Forget You \(Donk Edit Featuring The Blackout Crew\)](https://open.spotify.com/album/4L55NyxwQbWNzerZaxhaZt) | 2:36 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 133 | [The View](https://open.spotify.com/track/0038fnjL6UVsKq5jzV5QGm) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [The View](https://open.spotify.com/album/4y8f3Y73QLPyoqGTzAn9qG) | 2:59 |
 | 134 | [Season of Our Love](https://open.spotify.com/track/0lpJumwXtUE3xD8RP0oll4) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Season of Our Love](https://open.spotify.com/album/4M15n8kQVAQkGrP6XoBhyi) | 2:08 |
 
-Snapshot ID: `AbuFSgAAAABv48br+kZqtP6HwNwsnx/a`
+Snapshot ID: `AbuK1gAAAABiTFFD6uhlmPMAzb591YfK`

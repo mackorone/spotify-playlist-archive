@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,510 likes - 75 songs - 14 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,561 likes - 75 songs - 14 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 74 | [Sahaswara Mantra for Crown Chakra with AUM Sound](https://open.spotify.com/track/72jQQX6TwitG7CVRAk8g3D) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Ancient Chakra Healing Meditation Mantras](https://open.spotify.com/album/6mNn6zZJzjJeRRbuAjJbuy) | 1:02:33 |
 | 75 | [Ganesh Mantra](https://open.spotify.com/track/16nKhvMOqdeGrYQF3vurog) | [Raghav Sarangal](https://open.spotify.com/artist/6670l7bZPECHs6RgUhLLu9) | [Ganesh Mantra](https://open.spotify.com/album/5CVVbGzAkku6oG0AI7bE4B) | 26:40 |
 
-Snapshot ID: `Z+zk8wAAAAA496Ma5J0QV+oFFnFv6TFE`
+Snapshot ID: `Z/NW0gAAAAAJe4+EqhIn+Be9M/CcSS1x`

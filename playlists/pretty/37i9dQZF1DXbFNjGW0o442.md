@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 
 > Guerreras del rock latinoamericano\. Foto: Dum Chica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,870 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,880 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 94 | [Mi Playa](https://open.spotify.com/track/3C8l5qDzec8poDxsCUIZXp) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Singles](https://open.spotify.com/album/106XzTHi11oscO7mlXmqKg) | 3:42 |
 | 95 | [Escapar](https://open.spotify.com/track/4ipgJtYhCTrsGnkL1XRRET) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Escapar](https://open.spotify.com/album/3z0nWOxV7wwnX4wfgVUXGR) | 4:01 |
 | 96 | [Dentro](https://open.spotify.com/track/4597p3R2HZ24bvpussazH9) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Dentro](https://open.spotify.com/album/79e018qEM9iN76IwjDbHTy) | 2:25 |
-| 97 | [RANDOM](https://open.spotify.com/track/5MWKgFwsd5tQNiq7O46XVP) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [RANDOM](https://open.spotify.com/album/0GHsQyhxiIRO3R9h7rIVR1) | 2:08 |
-| 98 | [Te agradezco el amor](https://open.spotify.com/track/46BaZ59np0gv09H31naITO) | [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb) | [El lado sur de mi corazón](https://open.spotify.com/album/2Ds1yMcaZxlqq5qh3Uun8o) | 2:55 |
-| 99 | [Promesa](https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48) | [Maria Durante](https://open.spotify.com/artist/6B4Tjeum0gQN48UJWgtnRx) | [Promesa](https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO) | 3:28 |
-| 100 | [Ghost in the Machine](https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 2:25 |
+| 97 | [Te agradezco el amor](https://open.spotify.com/track/46BaZ59np0gv09H31naITO) | [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb) | [El lado sur de mi corazón](https://open.spotify.com/album/2Ds1yMcaZxlqq5qh3Uun8o) | 2:55 |
+| 98 | [RANDOM](https://open.spotify.com/track/5MWKgFwsd5tQNiq7O46XVP) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [RANDOM](https://open.spotify.com/album/0GHsQyhxiIRO3R9h7rIVR1) | 2:08 |
+| 99 | [Ghost in the Machine](https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 2:25 |
+| 100 | [Promesa](https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48) | [Maria Durante](https://open.spotify.com/artist/6B4Tjeum0gQN48UJWgtnRx) | [Promesa](https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO) | 3:28 |
 
 Snapshot ID: `ZuNWZAAAAADTnwlp31doGmYrc08TAQ43`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 
 > The Hottest Arabic Music.<br/>Cover: Tamer Ashour
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,949 likes - 45 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,983 likes - 45 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

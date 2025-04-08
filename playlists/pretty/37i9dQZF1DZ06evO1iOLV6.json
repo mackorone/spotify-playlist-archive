@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 11019,
+  "num_followers": 11021,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAADjrsM79f73FH5uMqxLaoDB",
+  "snapshot_id": "Z/HEAAAAAAA6vDPRq5aVPZzZWEVRp4mY",
   "tracks": [
     {
       "added_at": null,
@@ -515,6 +515,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 224028,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/08ukHlIbOzAthGktxveTSi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One Love (in support of UNICEF)",
         "url": "https://open.spotify.com/album/0GYG8mzT02965RRFiBxfxX"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 207341,
       "name": "One Love (in support of UNICEF)",
       "url": "https://open.spotify.com/track/1KA7SVX5x7TqYvCusGxmc7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "God Over Everything",
-        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 224028,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/08ukHlIbOzAthGktxveTSi"
     },
     {
       "added_at": null,
@@ -887,42 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TONIGHT",
-        "url": "https://open.spotify.com/album/5S1jcA8VvY8XRyW9VRUelb"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 196260,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/7BwkvLDMcBX6cMjvsbjvlQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 189598,
-      "name": "Yo Body",
-      "url": "https://open.spotify.com/track/7gw2JZuedwF7jQEaoG8vPP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do Better",
         "url": "https://open.spotify.com/album/56f5Gq8bsHwIWak9Odfxxk"
       },
@@ -951,6 +915,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 189598,
+      "name": "Yo Body",
+      "url": "https://open.spotify.com/track/7gw2JZuedwF7jQEaoG8vPP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TONIGHT",
+        "url": "https://open.spotify.com/album/5S1jcA8VvY8XRyW9VRUelb"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 196260,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/7BwkvLDMcBX6cMjvsbjvlQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Godson",
         "url": "https://open.spotify.com/album/1zdIcgQ7EZqAF3f48De4fi"
       },
@@ -971,26 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ONLY ONE KING",
-        "url": "https://open.spotify.com/album/0u649Gff5qgywplGmwA74P"
-      },
-      "artists": [
-        {
-          "name": "Alikiba",
-          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 205137,
-      "name": "Bwana Mdogo (feat. Patoranking)",
-      "url": "https://open.spotify.com/track/7MsF2wr8ZVkZoT6Xi5BQ14"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Make Am (feat. Ebonyi State Band)",
         "url": "https://open.spotify.com/album/0ansMS1zm0JoxSpDVOGCHS"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 232893,
       "name": "Make Am (feat. Ebonyi State Band)",
       "url": "https://open.spotify.com/track/0URKYeAgtNb9WPf8OCGo7O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ONLY ONE KING",
+        "url": "https://open.spotify.com/album/0u649Gff5qgywplGmwA74P"
+      },
+      "artists": [
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 205137,
+      "name": "Bwana Mdogo (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/7MsF2wr8ZVkZoT6Xi5BQ14"
     },
     {
       "added_at": null,

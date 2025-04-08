@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 
 > Tropical nature sounds for bedtime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,089 likes - 90 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,146 likes - 90 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,20 +70,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 | 60 | [Rain Falling On Tree](https://open.spotify.com/track/0obt0uwGoJXkktxoSylXVz) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rain Sounds Vol\. 1](https://open.spotify.com/album/5W5jd58bjWGTReUGzbJzG1) | 3:23 |
 | 61 | [Waterfall Constant Roar of a Mountain Waterfall to Reduce Stress\. Nature Sounds Relaxing](https://open.spotify.com/track/0A71OLE9BN4ImZ3XTCOHP7) | [Nature Caldwell](https://open.spotify.com/artist/1FyZPdqmGE8uZrH7I5deeS) | [Green Escape \- Water Sound Natural and Relaxing Sounds of Nature](https://open.spotify.com/album/1te6990GFMS4RRg7gJzPUF) | 13:16 |
 | 62 | [The Swing of the Forest](https://open.spotify.com/track/6zHlA4ul8Tbgc7VKo5gEZW) | [Sounds Of The World](https://open.spotify.com/artist/1I48Szo0ovLGZJG3q12EWC) | [Songs of the Forest](https://open.spotify.com/album/2mIncYGaadbTt4698eL9Ow) | 4:16 |
-| 63 | [Forest River](https://open.spotify.com/track/31aIT2C2m1JOA11bc2UR7G) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Nature's Peaceful Sounds](https://open.spotify.com/album/3OmH5IoMCLOK4ehfVhc21y) | 3:03 |
-| 64 | [Wet Leaves](https://open.spotify.com/track/167TgOFpMob0vFh5yvTCqM) | [Mandalay Hill](https://open.spotify.com/artist/5RIo6BjGDrEu3OVt0INvtP) | [Sounds of Burma](https://open.spotify.com/album/66dgbk5BAbZ7TCR3cp9D5h) | 3:32 |
+| 63 | [Wet Leaves](https://open.spotify.com/track/167TgOFpMob0vFh5yvTCqM) | [Mandalay Hill](https://open.spotify.com/artist/5RIo6BjGDrEu3OVt0INvtP) | [Sounds of Burma](https://open.spotify.com/album/66dgbk5BAbZ7TCR3cp9D5h) | 3:32 |
+| 64 | [Forest River](https://open.spotify.com/track/31aIT2C2m1JOA11bc2UR7G) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Nature's Peaceful Sounds](https://open.spotify.com/album/3OmH5IoMCLOK4ehfVhc21y) | 3:03 |
 | 65 | [Howler Monkeys and Bird Songs in the Tropical Wet Forest](https://open.spotify.com/track/4RGPG1DbWsUS6uBNxUkTnv) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Howler Monkeys and Bird Songs in the Tropical Wet Forest](https://open.spotify.com/album/6VvWeQKdLlo7BiLQXBsp8k) | 2:35 |
 | 66 | [Early Morning Rain](https://open.spotify.com/track/50cVjrNMWV8ZZ8DWlNImQB) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Sounds of the Jungle](https://open.spotify.com/album/6KR8ekx3goy7PjLYhINlgQ) | 3:02 |
-| 67 | [Humid Trail](https://open.spotify.com/track/0sXVczy0THItL74ACWvRdF) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Nap in the Wild](https://open.spotify.com/album/0OCN5QxiQoRZI4Oz0IMYr9) | 3:30 |
-| 68 | [Nights In The Forest](https://open.spotify.com/track/6s0YtX2hSVOoHJfgwnWhW9) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Deep in the Rainforest](https://open.spotify.com/album/26DdElvaLPpa91ymGXlSeV) | 3:32 |
+| 67 | [Nights In The Forest](https://open.spotify.com/track/6s0YtX2hSVOoHJfgwnWhW9) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Deep in the Rainforest](https://open.spotify.com/album/26DdElvaLPpa91ymGXlSeV) | 3:32 |
+| 68 | [Humid Trail](https://open.spotify.com/track/0sXVczy0THItL74ACWvRdF) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Nap in the Wild](https://open.spotify.com/album/0OCN5QxiQoRZI4Oz0IMYr9) | 3:30 |
 | 69 | [Jungle Rain](https://open.spotify.com/track/225puEONdqqHyOfVXyLQO9) | [Earth's Rain](https://open.spotify.com/artist/0ZLtBstrrgOcaDzUkGy9il) | [Jungle Rain](https://open.spotify.com/album/15Tks2gP5mcSbcSRcAb10x) | 2:24 |
 | 70 | [Pouring Forest](https://open.spotify.com/track/7MWXKEqFGcCV2k9EKeuYd0) | [Neoaves](https://open.spotify.com/artist/6fWfY05xUKeB3AGEbqMzFK) | [Pouring Forest](https://open.spotify.com/album/2bHq8aLgcn4r73M5GOhzgw) | 2:02 |
 | 71 | [Pluie Nocturne](https://open.spotify.com/track/5PcMDn9rYtXjebDSYpkHeh) | [Birdieu](https://open.spotify.com/artist/1nXNa1ENIdB7fGKeqSAyjr) | [Pluie Nocturne](https://open.spotify.com/album/1lduLJdv1PQOwxnVdwVbJC) | 2:08 |
 | 72 | [Night Rain](https://open.spotify.com/track/5gLZB1i22XDHiHQwhXCYrQ) | [Sounds of the Forest](https://open.spotify.com/artist/1Ip11InkOnNCOLpDIw5mu6) | [Thicket Winging](https://open.spotify.com/album/2x4Qi7jqGL5dW8BiOwU28l) | 6:18 |
 | 73 | [El Sonido De La Jungla](https://open.spotify.com/track/3X9fYeMzViZNTg3FptCZZq) | [Nerea Llopis](https://open.spotify.com/artist/45DFCRFgVJdYToAWjPau6O) | [El Sonido De La Jungla](https://open.spotify.com/album/4UpQkIb1B3HDThLzEKI0DT) | 2:02 |
 | 74 | [Soothing Sounds Of The Forest](https://open.spotify.com/track/66i2MpxMRrYegF4Ca68egW) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Let the forest talk](https://open.spotify.com/album/5vemnKTIVMtdfZGDo1mcvk) | 3:32 |
-| 75 | [Forest Rain With Peaceful Insects](https://open.spotify.com/track/049WKlz7iZ8zfEoFverXS5) | [Cloudburst Forest](https://open.spotify.com/artist/0h9lHXI4UngNxtjICMRXmq) | [Cloudburst Forest Rain](https://open.spotify.com/album/45GkTb5MDmeNQfKS5g6RuZ) | 3:12 |
-| 76 | [Deep Forest Soft Rain Birds Chirp Away](https://open.spotify.com/track/0KJdVfQkMHZn9rJB8PlBnH) | [Nature Noise](https://open.spotify.com/artist/6DRwKWnvWIApUcEUqbyM5Z) | [Rain Sounds & White Noise](https://open.spotify.com/album/1Jxxz6IARapq4T2QDZrLsI) | 4:00 |
+| 75 | [Deep Forest Soft Rain Birds Chirp Away](https://open.spotify.com/track/0KJdVfQkMHZn9rJB8PlBnH) | [Nature Noise](https://open.spotify.com/artist/6DRwKWnvWIApUcEUqbyM5Z) | [Rain Sounds & White Noise](https://open.spotify.com/album/1Jxxz6IARapq4T2QDZrLsI) | 4:00 |
+| 76 | [Forest Rain With Peaceful Insects](https://open.spotify.com/track/049WKlz7iZ8zfEoFverXS5) | [Cloudburst Forest](https://open.spotify.com/artist/0h9lHXI4UngNxtjICMRXmq) | [Cloudburst Forest Rain](https://open.spotify.com/album/45GkTb5MDmeNQfKS5g6RuZ) | 3:12 |
 | 77 | [Rainforest Dreaming](https://open.spotify.com/track/1SrBrcJ4GfJqabZyM8WoNo) | [Mandalay Hill](https://open.spotify.com/artist/5RIo6BjGDrEu3OVt0INvtP) | [Out in Myeik](https://open.spotify.com/album/0DUnBjceNZZisaUMFxQz39) | 3:32 |
 | 78 | [What Does The Bird Say?](https://open.spotify.com/track/1reaGaSxvi0wjAjKyzvDfX) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Nap in the Wild](https://open.spotify.com/album/0OCN5QxiQoRZI4Oz0IMYr9) | 3:32 |
 | 79 | [Rain and Bird Noise for Sleep](https://open.spotify.com/track/0BA90uMfA9Y0Ccoz1ywKf5) | [Majestic Waters](https://open.spotify.com/artist/0RZfw1ZeGZtv6XVk46okGk) | [Green Noise Elements](https://open.spotify.com/album/0rfnM3fcNzAvv0bqMv2K1k) | 3:08 |

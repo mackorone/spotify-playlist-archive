@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,035 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,107 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 89 | [aisatsana \[102\]](https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 5:21 |
 | 90 | [Places](https://open.spotify.com/track/3oGqaG8lbdMzw4kgRb0CYz) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [Bad Vibes](https://open.spotify.com/album/3VpOUMVf32y2WQasgqmGPn) | 5:02 |
 | 91 | [Smokebelch II \- Beatless Mix](https://open.spotify.com/track/0WvOTOVdItdQgWB6hEvIqQ) | [The Sabres Of Paradise](https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS) | [Sabresonic](https://open.spotify.com/album/3MeNCEVxsgW3JkPDBMh1OA) | 4:16 |
-| 92 | [I Will Make Room for You \- Four Tet Remix](https://open.spotify.com/track/5veNZCICsWMKLzykjlWurt) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [I Will Make Room for You \(Four Tet Remix\)](https://open.spotify.com/album/4Gm7PiDeS6TYPKy8iRjRiX) | 8:17 |
-| 93 | [Permanence](https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC) | [Lomea](https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx) | [Permanence](https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3) | 3:49 |
+| 92 | [Permanence](https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC) | [Lomea](https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx) | [Permanence](https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3) | 3:49 |
+| 93 | [I Will Make Room for You \- Four Tet Remix](https://open.spotify.com/track/5veNZCICsWMKLzykjlWurt) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [I Will Make Room for You \(Four Tet Remix\)](https://open.spotify.com/album/4Gm7PiDeS6TYPKy8iRjRiX) | 8:17 |
 | 94 | [Another Girl](https://open.spotify.com/track/0eHYHJ7tpSXYvka4zgejeG) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Another Girl](https://open.spotify.com/album/3AQwqy7mrNS5InBDlDSDIA) | 6:42 |
 | 95 | [Saccade](https://open.spotify.com/track/5ajrKj2QzWMVNTkqTaZgJq) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Dissolvi](https://open.spotify.com/album/3SayP9khvJ3VK0w0fJ1mnE) | 4:09 |
 | 96 | [All the Way Down](https://open.spotify.com/track/6JT37WmQRQawN2By1ZQR0N) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Hallucinogen](https://open.spotify.com/album/5vI1UvJLIPAKf1kvzgPaTO) | 4:28 |

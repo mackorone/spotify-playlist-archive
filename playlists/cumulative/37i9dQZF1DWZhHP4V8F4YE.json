@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "1 AM",
+        "url": "https://open.spotify.com/album/6EEuOu9JTZxw9UbTghE7UR"
+      },
+      "artists": [
+        {
+          "name": "Civ",
+          "url": "https://open.spotify.com/artist/7qXQhtVwPF2ze2dLKpb5LT"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133565,
+      "name": "1 AM",
+      "url": "https://open.spotify.com/track/6rL8u0RmBmL1Mp5rK33tQA"
+    },
+    {
+      "album": {
         "name": "2 days into college",
         "url": "https://open.spotify.com/album/1RzErf193ngBH4DRAFZvz3"
       },
@@ -154,7 +172,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-01",
+      "date_removed": null,
       "duration_ms": 214971,
       "name": "4 Kamp\u00e9",
       "url": "https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ"
@@ -176,7 +194,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 211304,
       "name": "4 Kamp\u00e9 II",
       "url": "https://open.spotify.com/track/2fhVsI54lSCFyW7sw5WPfR"
@@ -10141,6 +10159,56 @@
     },
     {
       "album": {
+        "name": "Ngibolekeni (feat. Seun1401, LeeMcKrazy, Blxckie, Pcee, Madumane & Kabelo Sings)",
+        "url": "https://open.spotify.com/album/3AXBbWsHeukq7B3ojJbfI0"
+      },
+      "artists": [
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "Seun1401",
+          "url": "https://open.spotify.com/artist/0CPfPl6Fy7ueqMoxjZjmYb"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Pcee",
+          "url": "https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4"
+        },
+        {
+          "name": "Madumane",
+          "url": "https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd"
+        },
+        {
+          "name": "Kabelo Sings",
+          "url": "https://open.spotify.com/artist/3YOKEbNmcMxvIDpZxw4jvn"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 578571,
+      "name": "Ngibolekeni (feat. Seun1401, LeeMcKrazy, Blxckie, Pcee, Madumane & Kabelo Sings)",
+      "url": "https://open.spotify.com/track/4QdFYz1hjkDVDTqAKmIdOx"
+    },
+    {
+      "album": {
         "name": "Ngilele E Hotel",
         "url": "https://open.spotify.com/album/2MfdD5QI4AJFZvXuouNTDS"
       },
@@ -12666,7 +12734,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 148203,
       "name": "SCRAA",
       "url": "https://open.spotify.com/track/3dt4MnC3TPYewRV7YK2acn"
@@ -15664,7 +15732,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 164100,
       "name": "What If",
       "url": "https://open.spotify.com/track/76F0abqCujup0jqxbVlobH"

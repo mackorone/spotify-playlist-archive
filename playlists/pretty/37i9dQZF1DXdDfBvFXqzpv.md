@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDfBvFXqzpv.md) - [plain]
 
 > Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,819 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,810 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDfBvFXqzpv.md) - [plain]
 | 53 | [anthems](https://open.spotify.com/track/2ljvO8ZpKFMT3HXwCjW4Yw) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:51 |
 | 54 | [Walk](https://open.spotify.com/track/2ZvsMMI4aOkMUo92MKQzFI) | [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Walk](https://open.spotify.com/album/0BgqTlqcgaDljoUlVrOzwO) | 3:34 |
 | 55 | [Same Old Story](https://open.spotify.com/track/6kh17zXl4MM4AzSeJP02hB) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Ignorance is Bliss](https://open.spotify.com/album/22zpCX6Nb9ppOVklalvGec) | 3:20 |
-| 56 | [Me Gusta \(with Cardi B & Myke Towers\)](https://open.spotify.com/track/7e1VoRlNumuEkXlITMHKLE) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Me Gusta \(with Cardi B & Myke Towers\)](https://open.spotify.com/album/5J7bWCachL4Q662xAfzyJd) | 3:00 |
-| 57 | [Sell Out](https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Turn The Radio Off](https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn) | 3:47 |
+| 56 | [Sell Out](https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Turn The Radio Off](https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn) | 3:47 |
+| 57 | [Me Gusta \(with Cardi B & Myke Towers\)](https://open.spotify.com/track/7e1VoRlNumuEkXlITMHKLE) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Me Gusta \(with Cardi B & Myke Towers\)](https://open.spotify.com/album/5J7bWCachL4Q662xAfzyJd) | 3:00 |
 | 58 | [Oliver Twist](https://open.spotify.com/track/6mSzsSdu0CWIV70jEjWMhI) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Oliver Twist](https://open.spotify.com/album/6d8MlD2NJyzLtnRSprliO5) | 2:54 |
 | 59 | [Ticket To Ride](https://open.spotify.com/track/4AGjD3R8ch6JmvDLAwFw7P) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Ticket To Ride](https://open.spotify.com/album/12uAbTxdZt1fKkHZVx5iCq) | 3:02 |
 | 60 | [papi bones \(feat\. shygirl\)](https://open.spotify.com/track/5W2s4S60GoNsUthU51aUb8) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:40 |
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDfBvFXqzpv.md) - [plain]
 | 83 | [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 |
 | 84 | [Deadcrush](https://open.spotify.com/track/7gn0MfkV4ZuMkqbPlmhIlx) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [RELAXER](https://open.spotify.com/album/3uHMSQ1cC1fFAi4WMnelQP) | 3:51 |
 | 85 | [Postpone](https://open.spotify.com/track/1IMtCtSqlw3VJv3IvCxkaz) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 4:05 |
-| 86 | [Let It Roll](https://open.spotify.com/track/0W0FFzJ1lhTxt0JLrsiULh) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 3:14 |
-| 87 | [International Love](https://open.spotify.com/track/2O282x8rik9PMihQAx6bAq) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [International Love](https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48) | 4:06 |
-| 88 | [Malemolencia](https://open.spotify.com/track/3voQ4FSnDNKEKuBNeJjAR5) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN) | 2:54 |
+| 86 | [International Love](https://open.spotify.com/track/2O282x8rik9PMihQAx6bAq) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [International Love](https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48) | 4:06 |
+| 87 | [Malemolencia](https://open.spotify.com/track/3voQ4FSnDNKEKuBNeJjAR5) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN) | 2:54 |
+| 88 | [Let It Roll](https://open.spotify.com/track/0W0FFzJ1lhTxt0JLrsiULh) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 3:14 |
 | 89 | [We Got That Cool \(feat\. Afrojack & Icona Pop\)](https://open.spotify.com/track/2cFK03sObtI6AK3QKeOT5g) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [We Got That Cool \(feat\. Afrojack & Icona Pop\)](https://open.spotify.com/album/1WowOfXnw3DlwgjyzlAU4Q) | 3:33 |
 | 90 | [Ordinary People \(feat\. JP Cooper\)](https://open.spotify.com/track/5YmmqeU1a7KsNzvbj4aCGS) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [B\. Inspired](https://open.spotify.com/album/2hnJVh7gOSbRDHanTb5Lnr) | 4:30 |
 | 91 | [Angel](https://open.spotify.com/track/4pjcxC0qgXWZWmcBjzn1az) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Not Waving, But Drowning](https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV) | 4:43 |

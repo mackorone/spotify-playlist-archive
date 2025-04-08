@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ioqEUKqxAm.md) - [plain]
 
 > 次世代のポッドキャストカルチャーを担う新進気鋭のクリエイター5組を特集 \(Cover: 上坂あゆ美の「私より先に丁寧に暮らすな」\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 404 likes - 15 songs - 12 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 405 likes - 15 songs - 12 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

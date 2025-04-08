@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,684,227 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,684,286 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 63 | [First Person Shooter \(feat\. J\. Cole\)](https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:07 |
 | 64 | [GOT DAMN](https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [GOT DAMN](https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec) | 2:36 |
 | 65 | [Set You Free](https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Set You Free](https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY) | 2:13 |
-| 66 | [HIGHJACK](https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [HIGHJACK](https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL) | 3:10 |
-| 67 | [kAHpE](https://open.spotify.com/track/1oOkZEqPrAQLpwBsiYKRl8) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [kAHpE](https://open.spotify.com/album/4LJKT3syN0IUiZY4PIz2EQ) | 2:21 |
+| 66 | [kAHpE](https://open.spotify.com/track/1oOkZEqPrAQLpwBsiYKRl8) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [kAHpE](https://open.spotify.com/album/4LJKT3syN0IUiZY4PIz2EQ) | 2:21 |
+| 67 | [HIGHJACK](https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [HIGHJACK](https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL) | 3:10 |
 | 68 | [Life of a Boss](https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE \(DELUXE\)](https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs) | 2:04 |
 | 69 | [Classy Girl](https://open.spotify.com/track/5MQw4sDFeFub72PLbRvsZv) | [Turbo](https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Classy Girl](https://open.spotify.com/album/3zdBXSO8dEkYG5aVPfpOdk) | 2:53 |
 | 70 | [Can You Please \(feat\. GloRilla\)](https://open.spotify.com/track/1T86xlq1vFvWWUq1Wl2EiH) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Can You Please](https://open.spotify.com/album/0AuybXvfoqzt1NPpCKiiuI) | 2:34 |

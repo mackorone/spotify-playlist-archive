@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 75522,
+  "num_followers": 75556,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAADz7wIM+XjpcX28bsYxPT2n",
+  "snapshot_id": "Z/HEAAAAAAD2xK6t2Qko6y35XMpTxNhW",
   "tracks": [
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blink Twice (Dos Veces Remix)",
-        "url": "https://open.spotify.com/album/29rcLP1Uni7elTtxuiXF1J"
-      },
-      "artists": [
-        {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 154134,
-      "name": "Blink Twice - Dos Veces Remix",
-      "url": "https://open.spotify.com/track/6SNHfk6CipQOSALhblynof"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cocoterapia",
         "url": "https://open.spotify.com/album/0vmNJ8cSNDKIOSOuYSnIz1"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 202153,
       "name": "Flamenkito",
       "url": "https://open.spotify.com/track/2oRtscLLwdLMiDpRoQOSWW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blink Twice (Dos Veces Remix)",
+        "url": "https://open.spotify.com/album/29rcLP1Uni7elTtxuiXF1J"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 154134,
+      "name": "Blink Twice - Dos Veces Remix",
+      "url": "https://open.spotify.com/track/6SNHfk6CipQOSALhblynof"
     },
     {
       "added_at": null,

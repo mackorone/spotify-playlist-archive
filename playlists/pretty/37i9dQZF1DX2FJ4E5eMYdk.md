@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,701 likes - 60 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,740 likes - 60 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 51 | [Loading Zones](https://open.spotify.com/track/69o00fGvsei250jH7bF781) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Bottle It In](https://open.spotify.com/album/7lXj7neMWuwD4PTYkaToes) | 3:23 |
 | 52 | [Went for a Ride](https://open.spotify.com/track/4SmAxBuCEOJDx1mbPSq1Kg) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Went for a Ride](https://open.spotify.com/album/1qih4iADyuiyL7HzN38v1h) | 4:49 |
 | 53 | [Real You](https://open.spotify.com/track/3eDpqXBwKK5AE0blKPpitN) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Caught It from the Rye](https://open.spotify.com/album/2PaV8pGlT02BHgGIQ571Ag) | 2:49 |
-| 54 | [Habbie Doobie](https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Habbie Doobie](https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk) | 6:16 |
-| 55 | [250 Miles](https://open.spotify.com/track/3drJvEvfMS5mnJ4JtmkM5S) | [Radio Moscow](https://open.spotify.com/artist/692VvGTch5OLXj4zEE6H3y) | [Brain Cycles](https://open.spotify.com/album/7BpKrz38kMmgSTLrRU17ZO) | 4:52 |
+| 54 | [250 Miles](https://open.spotify.com/track/3drJvEvfMS5mnJ4JtmkM5S) | [Radio Moscow](https://open.spotify.com/artist/692VvGTch5OLXj4zEE6H3y) | [Brain Cycles](https://open.spotify.com/album/7BpKrz38kMmgSTLrRU17ZO) | 4:52 |
+| 55 | [Habbie Doobie](https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Habbie Doobie](https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk) | 6:16 |
 | 56 | [Century City](https://open.spotify.com/track/2vuH8laWDuNYmckYXkC2zs) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Movie Of The Week](https://open.spotify.com/album/73LowHfDrVcX165ZnPcRzU) | 4:33 |
 | 57 | [Windows](https://open.spotify.com/track/6jvqaaUtBmcnxQnf5XKzFo) | [Sugar Candy Mountain](https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3) | [666](https://open.spotify.com/album/1Utz6IHVssHoFwNWrXLoFe) | 3:12 |
 | 58 | [Nighthawks](https://open.spotify.com/track/3eTCd9Vrjl3EwaitvfcmbG) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [Panther in the Dollhouse](https://open.spotify.com/album/6uFReUE0X1oqtumrJLdy26) | 3:23 |

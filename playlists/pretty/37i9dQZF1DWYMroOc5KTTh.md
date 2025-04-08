@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 691,858 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 692,021 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 26 | [Can't Get You out of My Head \- Peggy Gou’s Midnight Remix](https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Can't Get You out of My Head \(Peggy Gou’s Midnight Remix\)](https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3) | 4:31 |
 | 27 | [Paradis Blanc](https://open.spotify.com/track/1our0OFQADCr6XRU0dYPtt) | [Me & George](https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv) | [Paradis Blanc](https://open.spotify.com/album/0eMmindBwUVDW3lyCsPi6N) | 2:59 |
 | 28 | [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 |
-| 29 | [Friday \(Alone Right Now\)](https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI II \(Mixtape\)](https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR) | 2:31 |
-| 30 | [Feel](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Feel](https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm) | 3:39 |
+| 29 | [Feel](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Feel](https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm) | 3:39 |
+| 30 | [Friday \(Alone Right Now\)](https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI II \(Mixtape\)](https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR) | 2:31 |
 | 31 | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 |
 | 32 | [Blackoak](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Blackoak](https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9) | 4:48 |
 | 33 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 46 | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 2:30 |
 | 47 | [Peace of Mind](https://open.spotify.com/track/7h8qrDfxBzUGcXXiR4Jxea) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Peace of Mind](https://open.spotify.com/album/6yF8JrEp3yBfFJptdIPLi7) | 3:09 |
 | 48 | [JOY \(By My Side\)](https://open.spotify.com/track/61SkRhKUIDaUG3CiP0XQU3) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [JOY \(By My Side\)](https://open.spotify.com/album/1pTMDMH44oAjkBArRruE3g) | 3:42 |
-| 49 | [JUMP](https://open.spotify.com/track/4WejDFaJx72saURVWVgOB8) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [JUMP](https://open.spotify.com/album/0uZgOU0f8jn1zSIwSaWLKs) | 3:00 |
-| 50 | [Have U](https://open.spotify.com/track/39x2AFARnc2ovMRtxw272B) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Have U](https://open.spotify.com/album/4WblkRJ8yUZ7OAG2Klyb9h) | 2:41 |
+| 49 | [Nothing Better Than Music](https://open.spotify.com/track/4eZafPjosGlJF6QVxeTdUS) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Nothing Better Than Music](https://open.spotify.com/album/0cBWTiLeGxFpAk5JwbX9S3) | 2:35 |
+| 50 | [Hold On](https://open.spotify.com/track/6pCrx0kmrXsXlMfKK9KksT) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Hold On](https://open.spotify.com/album/5EE83YjGBKzM6x5O9AT9rN) | 4:13 |
 
 Snapshot ID: `Z9ysDgAAAAByvOsWpYtXnLzwgpRp8sAh`

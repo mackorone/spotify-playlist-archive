@@ -4,7 +4,7 @@
 
 > depressing piano covers of hit songs 🥺💔 music can fix us
 
-53 songs - 2 hr 49 min
+54 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Holy](https://open.spotify.com/track/39iUn2KhFa7aKiI0mJrrv5) | [Jade Crowley](https://open.spotify.com/artist/5TrocNkTBQ5FOssBB0BXfB) | [Holy](https://open.spotify.com/album/5Zrfscw6w38zpd0AYGfW27) | 2:41 | 2025-02-20 |  |
 | [I Love You, Im Sorry](https://open.spotify.com/track/47y3zMQjzUGjNiEK51Y9pk) | [Marc Ventus](https://open.spotify.com/artist/5QpVRIIbhz7b7DSghK0aTH) | [Piano covers of dreams we love](https://open.spotify.com/album/1rjdRpkDRrJFRKi3QoXMKt) | 2:57 | 2025-02-20 |  |
 | [INDUSTRY BABY](https://open.spotify.com/track/551IYhuA3GdDy35qn0VAjL) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [INDUSTRY BABY](https://open.spotify.com/album/4aUWDI0XA6M75Yfu3LD7tr) | 2:32 | 2025-02-20 |  |
-| [Jolene](https://open.spotify.com/track/0IUMSra0B0igbpr8OynKfB) | [Elin Porsinger](https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK) | [Jolene](https://open.spotify.com/album/6vacirqzYmkXMdo38CTenR) | 2:17 | 2025-02-20 |  |
+| [Jolene](https://open.spotify.com/track/0IUMSra0B0igbpr8OynKfB) | [Elin Porsinger](https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK) | [Jolene](https://open.spotify.com/album/6vacirqzYmkXMdo38CTenR) | 2:17 | 2025-02-20 | 2025-04-08 |
 | [Karma Police](https://open.spotify.com/track/6TfRwAeK4bmctFV1GR2qme) | [Amy Bynes](https://open.spotify.com/artist/4KF2aXLvwOGirz0H1vg30S) | [lovely](https://open.spotify.com/album/7uha18MvMpkh2sF1NqBIxS) | 3:21 | 2025-02-20 |  |
 | [Lover \- Piano](https://open.spotify.com/track/6SLbPpHePkvoQvgrvazQuD) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Midnight Rain & Lover \(Piano\)](https://open.spotify.com/album/3tuqnyoZ4SCBa5q2KwjVJH) | 3:14 | 2025-02-20 |  |
 | [Messy](https://open.spotify.com/track/4I1wozDwzAFJTM7UYTJWq7) | [Jón Araujo](https://open.spotify.com/artist/3yVtxFWtzQHdSK2lPkX3M8) | [Messy](https://open.spotify.com/album/6R005fo5kfudPwHT6JcyYS) | 3:18 | 2025-03-28 |  |
@@ -54,6 +54,7 @@
 | [STAY \- Piano Cover](https://open.spotify.com/track/1CmppZTbQicdsK3Wvf1pZh) | [Milo Grande](https://open.spotify.com/artist/182Ff74ykrt6AQ716FsefI) | [Small Parts of big Parts](https://open.spotify.com/album/2kw5VPT7h3LHWAj6Dafq9t) | 2:08 | 2025-02-20 |  |
 | [Summertime Sadness](https://open.spotify.com/track/2YryAeTzc3Ka8FDQlCEWF2) | [Marc Ventus](https://open.spotify.com/artist/5QpVRIIbhz7b7DSghK0aTH) | [As It Goes](https://open.spotify.com/album/59Y3FjjAAV4P9U4ZrldQth) | 2:43 | 2025-02-20 |  |
 | [Sunflower](https://open.spotify.com/track/0Q3UrvVVAPzv72nTWLzTRv) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Sunflower](https://open.spotify.com/album/5jOXGrdg6dzNWAc2YmpPfm) | 3:10 | 2025-02-20 |  |
+| [Taste](https://open.spotify.com/track/17y22f5dFjcSMkjsA4OjwJ) | [Ellery Hughes](https://open.spotify.com/artist/5py7utGDgkOSj26N1boPUc) | [Taste](https://open.spotify.com/album/0orAB0e58uiyyrRMGmxQMX) | 3:32 | 2025-04-07 |  |
 | [Texas Hold EM](https://open.spotify.com/track/3KjegNTJ84MxLDXpoHWWcg) | [Marc Ventus](https://open.spotify.com/artist/5QpVRIIbhz7b7DSghK0aTH) | [As It Goes](https://open.spotify.com/album/59Y3FjjAAV4P9U4ZrldQth) | 3:23 | 2025-02-20 |  |
 | [Too Good At Goodbyes](https://open.spotify.com/track/0YDllquMDrYKSeH34vGODj) | [Piano Fruits Music](https://open.spotify.com/artist/5vpWEdK9C28uOX8jjfRi1v), [Magnus Eriksson](https://open.spotify.com/artist/5Y92W0Mxk53w1ozspH7zZb) | [Pop Piano Covers Vol\. 1](https://open.spotify.com/album/0Y0oYVkTYrJ1UzEkhmnXjt) | 2:15 | 2025-02-20 | 2025-03-11 |
 | [We Don't Talk Anymore](https://open.spotify.com/track/4OgNKXz4YMu9tDm8giWkwy) | [Carl Fredman](https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU) | [We Don't Talk Anymore](https://open.spotify.com/album/4DWAGQ8cHUTFLZKbl1geK9) | 3:43 | 2025-02-20 |  |

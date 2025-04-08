@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6iSJxWbeWLf.md) - [plain]
 
 > Get your brain waves aligned and productive with white noise
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,516 likes - 54 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,673 likes - 54 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,28 +1,32 @@
 {
   "description": "Today's top Latin hits, elevando nuestra m\u00fasica. Cover: Eladio Carrion",
-  "num_followers": 15563581,
+  "num_followers": 15564631,
   "original_name": "Viva Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+9amgAAAAC5tSaUd+n8YGG5tjCBrfpc",
+  "snapshot_id": "Z/PoEgAAAABzRufIc+3tKnL6EOfvXHlj",
   "tracks": [
     {
-      "added_at": "2025-04-04 04:05:46",
+      "added_at": "2025-04-07 14:58:26",
       "album": {
-        "name": "H.I.M.",
-        "url": "https://open.spotify.com/album/6ZQICkkwdOzHuS8OHYIGxF"
+        "name": "Vetements",
+        "url": "https://open.spotify.com/album/3AyNcukkt0jcB2OrkqjXLG"
       },
       "artists": [
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 130459,
-      "name": "H.I.M.",
-      "url": "https://open.spotify.com/track/1raPPxkstNnTmg6EmFCX0j"
+      "duration_ms": 200000,
+      "name": "Vetements",
+      "url": "https://open.spotify.com/track/4gpmLUDfGsswNteXyGJOqP"
     },
     {
       "added_at": "2025-04-04 04:05:46",

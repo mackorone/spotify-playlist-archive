@@ -4,7 +4,7 @@
 
 > A happy place 🪩🪩
 
-536 songs - 1 day 8 hr 41 min
+537 songs - 1 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Burning Down The House](https://open.spotify.com/track/1O6q3jz8Br1Wh3kgyS6ebe) | [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD), [Zen Freeman](https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG), [Ampersounds](https://open.spotify.com/artist/37kgO7O0OonRq0zQ7WcWWl) | [Burning Down The House](https://open.spotify.com/album/59iMjVwJBrP8CQMj11wud0) | 4:44 | 2022-01-14 | 2022-07-28 |
 | [Butter](https://open.spotify.com/track/3B7hSnr8orVp9tMF5Nt8we) | [Disco Dom](https://open.spotify.com/artist/3q8DkzC4UfA5lKG1YG4004), [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Inferno \(No\. 2\)](https://open.spotify.com/album/2rY5Z3ismUfHQqxZhZRPFN) | 2:34 | 2024-06-28 |  |
 | [Buy Yourself friends](https://open.spotify.com/track/4kR4TenQVl9u5Emckj0fmX) | [Dan Shake](https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg) | [Shake Edits 1](https://open.spotify.com/album/6AnMnkiTrAAISLnkoHEpMk) | 8:16 | 2022-04-06 | 2022-04-19 |
+| [Call Me](https://open.spotify.com/track/61q6Vp9MuL6iLBxZ5GwLHU) | [Thys](https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR) | [Call Me](https://open.spotify.com/album/2PwxBgnzCPnoZIJQ2o7JA7) | 3:56 | 2025-04-07 |  |
 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:18 | 2023-06-16 |  |
 | [Calling Out Your Name \(I Can't Sleep\)](https://open.spotify.com/track/6zFjilXmasxhO0woY1ZgBo) | [Ben Rau](https://open.spotify.com/artist/1TnMHkjDz4jm8H8QxnyAAC) | [Calling Out Your Name \(I Can't Sleep\)](https://open.spotify.com/album/4I56zzyUFllXY2KPf1ycO1) | 3:31 | 2022-05-10 | 2022-07-15 |
 | [Can't Break Free \- Edit](https://open.spotify.com/track/3VtCXwElp4xqxjDhGAcQHE) | [Hatiras](https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO) | [Can't Break Free](https://open.spotify.com/album/6rvAPUSlf34tA7GgVpJJr8) | 2:33 | 2025-03-28 |  |
@@ -91,7 +92,7 @@
 | [Dance With You](https://open.spotify.com/track/1SF2Yv4eZgtd7q6ygLqKc9) | [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Dance With You](https://open.spotify.com/album/6tBYHEsGKuUmzXMxwQxLN3) | 2:24 | 2024-07-26 |  |
 | [Dance With You \(All Night\)](https://open.spotify.com/track/6XhziaA2fyAnIy9NgnHxqX) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [Dance With You \(All Night\)](https://open.spotify.com/album/2tnfANxib7urtE2qaqt9zG) | 3:08 | 2024-08-23 |  |
 | [dancebaby](https://open.spotify.com/track/7vHIbQY5czfIYIq6rHuvyK) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [dancebaby](https://open.spotify.com/album/44s0sDQMiz6M0XOzmfikAk) | 2:54 | 2024-08-02 |  |
-| [Dancing Down The Path](https://open.spotify.com/track/1jtAputapT9efP7VO88zaJ) | [The Coney Island Rhythm Band](https://open.spotify.com/artist/5kml8KV4qmcGVDF4Co2tAi), [Jerk Boy](https://open.spotify.com/artist/4w5bgvbaOepmRv2CQ0x1iA) | [Dancing Down The Path](https://open.spotify.com/album/35wPcnLcQuxqDIV0VlfELS) | 6:21 | 2024-02-23 |  |
+| [Dancing Down The Path](https://open.spotify.com/track/1jtAputapT9efP7VO88zaJ) | [The Coney Island Rhythm Band](https://open.spotify.com/artist/5kml8KV4qmcGVDF4Co2tAi), [Jerk Boy](https://open.spotify.com/artist/4w5bgvbaOepmRv2CQ0x1iA) | [Dancing Down The Path](https://open.spotify.com/album/35wPcnLcQuxqDIV0VlfELS) | 6:21 | 2024-02-23 | 2025-04-08 |
 | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK) | 2:34 | 2023-06-09 | 2025-03-29 |
 | [Dare Myself](https://open.spotify.com/track/5dshM1MWptTNO28moXy3OL) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7), [Amy Douglas](https://open.spotify.com/artist/6lm52aALA9NKQv1ChQmSBr) | [Dare Myself](https://open.spotify.com/album/7r3ElS2Mx1qcnqAkSRb0Tc) | 3:19 | 2024-05-17 | 2024-06-01 |
 | [Daydreaming \- Sgt Slick Remix](https://open.spotify.com/track/1FCBtlxyee0yiZn0EnxtTk) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l), [Sgt Slick](https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll) | [Daydreaming \(Sgt Slick Remix\)](https://open.spotify.com/album/0pb2S4bdo6TTYa1cYGSsT6) | 3:04 | 2024-01-12 | 2024-05-03 |

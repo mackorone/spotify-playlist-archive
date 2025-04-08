@@ -4063,6 +4063,24 @@
     },
     {
       "album": {
+        "name": "DEEP IN YOUR SOUL",
+        "url": "https://open.spotify.com/album/6JLiizUymfvS5qOqO0hdGW"
+      },
+      "artists": [
+        {
+          "name": "alan vuong",
+          "url": "https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191515,
+      "name": "DEEP IN YOUR SOUL",
+      "url": "https://open.spotify.com/track/0tbar3AoobXRjfhlh7b95g"
+    },
+    {
+      "album": {
         "name": "Miss Anthropocene (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1ZKbjlrUC5REoa13uSH5KL"
       },
@@ -9426,7 +9444,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 219299,
       "name": "lvl 6 - VIDEO GAMES",
       "url": "https://open.spotify.com/track/4rUzVbdbpROiDvrn6EqMsH"

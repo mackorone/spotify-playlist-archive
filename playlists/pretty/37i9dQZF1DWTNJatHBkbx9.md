@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 
 > From the alternative scene in Ghana\. Cover: Lali x Lola
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,385 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,392 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

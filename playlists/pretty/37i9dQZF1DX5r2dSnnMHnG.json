@@ -1,6 +1,6 @@
 {
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 8426,
+  "num_followers": 8466,
   "original_name": "*\ubd04 \uc124\ub808\uc784",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2025-04-02 06:03:48",
       "album": {
+        "name": "Spring",
+        "url": "https://open.spotify.com/album/1wGIkXzSpJd7VfoGJBkVbs"
+      },
+      "artists": [
+        {
+          "name": "Joob A",
+          "url": "https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP"
+        }
+      ],
+      "duration_ms": 173880,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/2jqFUiYryAqZRbCNA5D1oM"
+    },
+    {
+      "added_at": "2025-04-02 06:03:48",
+      "album": {
         "name": "Ten Reasons I Love You(2021)",
         "url": "https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 250813,
       "name": "Ten Reasons I Love You(2021)",
       "url": "https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD"
-    },
-    {
-      "added_at": "2025-04-02 06:03:48",
-      "album": {
-        "name": "Spring",
-        "url": "https://open.spotify.com/album/1wGIkXzSpJd7VfoGJBkVbs"
-      },
-      "artists": [
-        {
-          "name": "Joob A",
-          "url": "https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP"
-        }
-      ],
-      "duration_ms": 173880,
-      "name": "Spring",
-      "url": "https://open.spotify.com/track/2jqFUiYryAqZRbCNA5D1oM"
     },
     {
       "added_at": "2025-04-02 06:03:48",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-04-02 06:03:48",
       "album": {
-        "name": "Love Catcher in Bali, Pt. 3 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/439TfzqRqaIX84wfVmSrg4"
-      },
-      "artists": [
-        {
-          "name": "KIM YO HAN",
-          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
-        }
-      ],
-      "duration_ms": 194786,
-      "name": "My Destiny",
-      "url": "https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA"
-    },
-    {
-      "added_at": "2025-04-02 06:03:48",
-      "album": {
         "name": "A daily adventurer",
         "url": "https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2025-04-02 06:03:48",
       "album": {
-        "name": "AFTER THE LIGHT",
-        "url": "https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv"
+        "name": "Love Catcher in Bali, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/439TfzqRqaIX84wfVmSrg4"
       },
       "artists": [
         {
-          "name": "Kang Butter",
-          "url": "https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7"
+          "name": "KIM YO HAN",
+          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
         }
       ],
-      "duration_ms": 194453,
-      "name": "AFTER THE LIGHT",
-      "url": "https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh"
+      "duration_ms": 194786,
+      "name": "My Destiny",
+      "url": "https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA"
     },
     {
       "added_at": "2025-04-02 06:03:48",
@@ -1035,22 +1019,18 @@
     {
       "added_at": "2025-04-02 06:03:48",
       "album": {
-        "name": "Is this love?",
-        "url": "https://open.spotify.com/album/1FUgKWwkD6La6MGm0Ndh5K"
+        "name": "AFTER THE LIGHT",
+        "url": "https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv"
       },
       "artists": [
         {
-          "name": "JUNIEL",
-          "url": "https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6"
-        },
-        {
-          "name": "YOUN TOVEN",
-          "url": "https://open.spotify.com/artist/6AXmdfKN5XhluSBP5wCrEr"
+          "name": "Kang Butter",
+          "url": "https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7"
         }
       ],
-      "duration_ms": 183296,
-      "name": "Is this love? (with YOUN TOVEN)",
-      "url": "https://open.spotify.com/track/6AzNmQzi4gFwlbcfCUemJ2"
+      "duration_ms": 194453,
+      "name": "AFTER THE LIGHT",
+      "url": "https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh"
     },
     {
       "added_at": "2025-04-02 06:03:48",
@@ -1071,6 +1051,26 @@
       "duration_ms": 193514,
       "name": "Thinking of you (Feat. Lee Yu Bin)",
       "url": "https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr"
+    },
+    {
+      "added_at": "2025-04-02 06:03:48",
+      "album": {
+        "name": "Is this love?",
+        "url": "https://open.spotify.com/album/1FUgKWwkD6La6MGm0Ndh5K"
+      },
+      "artists": [
+        {
+          "name": "JUNIEL",
+          "url": "https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6"
+        },
+        {
+          "name": "YOUN TOVEN",
+          "url": "https://open.spotify.com/artist/6AXmdfKN5XhluSBP5wCrEr"
+        }
+      ],
+      "duration_ms": 183296,
+      "name": "Is this love? (with YOUN TOVEN)",
+      "url": "https://open.spotify.com/track/6AzNmQzi4gFwlbcfCUemJ2"
     },
     {
       "added_at": "2025-04-02 06:03:48",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2025-04-02 06:03:48",
       "album": {
-        "name": "Night thinking 'bout you",
-        "url": "https://open.spotify.com/album/3b4Ruv48lyKdWpWDHHHAam"
+        "name": "Whenever",
+        "url": "https://open.spotify.com/album/4eROUE77uAdbbmGQIHxe9V"
       },
       "artists": [
         {
-          "name": "CITI",
-          "url": "https://open.spotify.com/artist/18Ddi2iVxvOlH08AZrP0PE"
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
         }
       ],
-      "duration_ms": 221613,
-      "name": "Night thinking 'bout you",
-      "url": "https://open.spotify.com/track/42m5jkIH5GzWdZM1V9JJQs"
+      "duration_ms": 200880,
+      "name": "Whenever",
+      "url": "https://open.spotify.com/track/2kWXuRojPl7wWoo7DqBEPe"
     },
     {
       "added_at": "2025-04-02 06:03:48",
@@ -1247,34 +1247,34 @@
     {
       "added_at": "2025-04-02 06:03:48",
       "album": {
-        "name": "Whenever",
-        "url": "https://open.spotify.com/album/4eROUE77uAdbbmGQIHxe9V"
+        "name": "Night thinking 'bout you",
+        "url": "https://open.spotify.com/album/3b4Ruv48lyKdWpWDHHHAam"
       },
       "artists": [
         {
-          "name": "Izykite",
-          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+          "name": "CITI",
+          "url": "https://open.spotify.com/artist/18Ddi2iVxvOlH08AZrP0PE"
         }
       ],
-      "duration_ms": 200880,
-      "name": "Whenever",
-      "url": "https://open.spotify.com/track/2kWXuRojPl7wWoo7DqBEPe"
+      "duration_ms": 221613,
+      "name": "Night thinking 'bout you",
+      "url": "https://open.spotify.com/track/42m5jkIH5GzWdZM1V9JJQs"
     },
     {
       "added_at": "2025-04-02 06:03:48",
       "album": {
-        "name": "talks about blossoms",
-        "url": "https://open.spotify.com/album/3oBveuOG0aDo51pjttETiP"
+        "name": "Weird Boy",
+        "url": "https://open.spotify.com/album/6EJ0l23dnuI89XY09Vbh9s"
       },
       "artists": [
         {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+          "name": "murmoom",
+          "url": "https://open.spotify.com/artist/2vsaAlNouG0tPd8CMKj7l3"
         }
       ],
-      "duration_ms": 218666,
-      "name": "Flower",
-      "url": "https://open.spotify.com/track/7jnv33i1cWvBeSKJd6bVRt"
+      "duration_ms": 217035,
+      "name": "Weird Boy",
+      "url": "https://open.spotify.com/track/1S6Kx6dOOWlJecLe1fM3Sm"
     }
   ],
   "unique_name": "*\ubd04 \uc124\ub808\uc784",

@@ -1,12 +1,12 @@
 {
   "description": "This is El Potro De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 9485,
+  "num_followers": 9488,
   "original_name": "This Is El Potro De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAAACCiEDgwyBWrmTyy2IzcFd",
+  "snapshot_id": "Z/HEAAAAAACa+YcUtymOJSNdPXNUFHiX",
   "tracks": [
     {
       "added_at": null,
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Maz Poderoso",
+        "url": "https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 138453,
+      "name": "Yo Fui el Se\u00f1or de los Llanos",
+      "url": "https://open.spotify.com/track/5nQspokXaBMX7266LF0Ynt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Con Banda",
         "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 189033,
       "name": "La Vida Prestada - En Vivo",
       "url": "https://open.spotify.com/track/4LrBqsCyeLFmI1KIzcp2r6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Maz Poderoso",
-        "url": "https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 138453,
-      "name": "Yo Fui el Se\u00f1or de los Llanos",
-      "url": "https://open.spotify.com/track/5nQspokXaBMX7266LF0Ynt"
     },
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Con Banda",
-        "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        },
-        {
-          "name": "Banda Los Pioneros",
-          "url": "https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni"
-        }
-      ],
-      "duration_ms": 200596,
-      "name": "Los 3 Gallos - En Vivo",
-      "url": "https://open.spotify.com/track/3lTc0IeRqlcbZIARKyVrvZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde el Rancho Bella Vista",
         "url": "https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 230038,
       "name": "Ni el Dinero Ni Nada",
       "url": "https://open.spotify.com/track/0YiNEnEmLo3gHc7w2USFua"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Con Banda",
+        "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        },
+        {
+          "name": "Banda Los Pioneros",
+          "url": "https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni"
+        }
+      ],
+      "duration_ms": 200596,
+      "name": "Los 3 Gallos - En Vivo",
+      "url": "https://open.spotify.com/track/3lTc0IeRqlcbZIARKyVrvZ"
     },
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Comandante Fuentes",
+        "url": "https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 140053,
+      "name": "La Compra y Venta",
+      "url": "https://open.spotify.com/track/5uPapq4kYFFP7V1oa5XW4P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Con Banda",
         "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 216850,
       "name": "La Clave 7 - En Vivo",
       "url": "https://open.spotify.com/track/2Lre4ZEa0TEPR45lO42T0g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Comandante Fuentes",
-        "url": "https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 140053,
-      "name": "La Compra y Venta",
-      "url": "https://open.spotify.com/track/5uPapq4kYFFP7V1oa5XW4P"
     },
     {
       "added_at": null,

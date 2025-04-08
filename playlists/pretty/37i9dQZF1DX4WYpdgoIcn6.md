@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WYpdgoIcn6.md) - [plain]
 
 > Kick back to the best new and recent chill hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,031,603 likes - 130 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,031,685 likes - 130 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

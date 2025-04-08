@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 350411,
+  "num_followers": 350441,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "The Funeral",
-        "url": "https://open.spotify.com/album/7pxmCQcwGsVa2IhPFRiRer"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 213882,
-      "name": "The Funeral - Acoustic",
-      "url": "https://open.spotify.com/track/7jfP3nGBIYW4EFqubo6OUs"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Look At Us Now (Honeycomb) [Acoustic Demo]",
         "url": "https://open.spotify.com/album/49p1GJegoFfu4I1ltBmgY9"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 231653,
       "name": "Look At Us Now (Honeycomb) - Acoustic Demo",
       "url": "https://open.spotify.com/track/4DuGcxb3gRaefxya5lBYzb"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "The Funeral",
+        "url": "https://open.spotify.com/album/7pxmCQcwGsVa2IhPFRiRer"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 213882,
+      "name": "The Funeral - Acoustic",
+      "url": "https://open.spotify.com/track/7jfP3nGBIYW4EFqubo6OUs"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "The Liars Club (Acoustic)",
-        "url": "https://open.spotify.com/album/2dVo0IsuLdNLY5h9E5GPhG"
-      },
-      "artists": [
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "duration_ms": 252295,
-      "name": "The Liars Club - Acoustic",
-      "url": "https://open.spotify.com/track/08mKTpxraUOeFzEP3lhFU4"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Soul Revolution: ACOUSTIC VIBES",
         "url": "https://open.spotify.com/album/5fQo26HkxJFLIVcHRG8slu"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 249274,
       "name": "Be Free - Acoustic",
       "url": "https://open.spotify.com/track/3lClnKfSfuK785QC4QXEUi"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "The Liars Club (Acoustic)",
+        "url": "https://open.spotify.com/album/2dVo0IsuLdNLY5h9E5GPhG"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "duration_ms": 252295,
+      "name": "The Liars Club - Acoustic",
+      "url": "https://open.spotify.com/track/08mKTpxraUOeFzEP3lhFU4"
     },
     {
       "added_at": "2024-07-05 19:40:49",

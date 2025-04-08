@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy music\. Cover: Static Dress
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,160 likes - 272 songs - 16 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,146 likes - 272 songs - 16 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -237,8 +237,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 227 | [From Ashes](https://open.spotify.com/track/07DkIsX0MdvrIOiiXVAAet) | [Kill The Lights](https://open.spotify.com/artist/2b2c6xP76y8HCLiovv7kIZ) | [From Ashes](https://open.spotify.com/album/0sjgaie2YSLpA4lLaiMc0b) | 2:47 |
 | 228 | [Shoot](https://open.spotify.com/track/1QFerkEWR1GAqmppYqIxpN) | [Equal Idiots](https://open.spotify.com/artist/4nljEo4gnUFgczxjNt5KOR) | [Shoot](https://open.spotify.com/album/5TUatnY0Q5BF7de6pvFkuZ) | 2:07 |
 | 229 | [BED OF NAILS](https://open.spotify.com/track/2D3DJWvbt96sgDYR8rHcpR) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [BED OF NAILS](https://open.spotify.com/album/5hNrR9DKWi3HDavme0qTkd) | 4:13 |
-| 230 | [Funeral Pyre](https://open.spotify.com/track/2oJwPMsHAMmsfpPFWEDrpP) | [Forlorn](https://open.spotify.com/artist/4aOGVF2gQb9TY4raTPjLWf) | [Funeral Pyre](https://open.spotify.com/album/5R7ydNkplsFRSalqmiUjnE) | 4:00 |
-| 231 | [Limousine](https://open.spotify.com/track/3lqHuM3Fx4tqG2WYRY7RUM) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Limousine](https://open.spotify.com/album/1VPZZCdbX5Op6uDB1l1eqh) | 3:21 |
+| 230 | [Limousine](https://open.spotify.com/track/3lqHuM3Fx4tqG2WYRY7RUM) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Limousine](https://open.spotify.com/album/1VPZZCdbX5Op6uDB1l1eqh) | 3:21 |
+| 231 | [Funeral Pyre](https://open.spotify.com/track/2oJwPMsHAMmsfpPFWEDrpP) | [Forlorn](https://open.spotify.com/artist/4aOGVF2gQb9TY4raTPjLWf) | [Funeral Pyre](https://open.spotify.com/album/5R7ydNkplsFRSalqmiUjnE) | 4:00 |
 | 232 | [Weird Punx](https://open.spotify.com/track/5hK5nfKniPWE0JZdhRZphz) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Weird Punx](https://open.spotify.com/album/404OOBBDIsU6wiu5scQw7L) | 2:34 |
 | 233 | [You Will Never Get Me](https://open.spotify.com/track/42MMJB5rgQu5X0P4nA8W6a) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl), [Justice Tripp](https://open.spotify.com/artist/008UbL8nKPVp5qTOVzG6S2) | [You Will Never Get Me](https://open.spotify.com/album/3YXZGlXuZHRdttyYShJRGn) | 2:19 |
 | 234 | [Pathetic Apathetic](https://open.spotify.com/track/5OcMcGcKszTIqQCL5Ibx1Y) | [Indoor Pets](https://open.spotify.com/artist/5abBw7CgjR22S31JWg0g84) | [Pathetic Apathetic](https://open.spotify.com/album/6idGcmlGvvwJaE778FO6UX) | 3:35 |
@@ -253,9 +253,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 243 | [Blossom](https://open.spotify.com/track/55QKgQKHffpFemjyt0B9iV) | [Liquid State](https://open.spotify.com/artist/5Bn0UxpJyKDg5mpcDOaS3p) | [Blossom](https://open.spotify.com/album/5gnwimgoo4S9wBkS3FK1F1) | 4:04 |
 | 244 | [Dissimulator](https://open.spotify.com/track/2CyfukQBuNQo1DJ31ho50G) | [Sessions](https://open.spotify.com/artist/4EYXC856iZB8nZSNWkcD9J) | [Vol 1](https://open.spotify.com/album/4wZdeXgDnLpThhw0soTKgy) | 3:16 |
 | 245 | [Leather Jacket](https://open.spotify.com/track/5OVcPK3UpZNFusQ9FXZJmC) | [BOIDS](https://open.spotify.com/artist/4viRfDJk73chpatX5M6rrA) | [BOIDS](https://open.spotify.com/album/6cGkK70dc228K7AGPc5zPZ) | 3:39 |
-| 246 | [For Katie](https://open.spotify.com/track/0WMnzSVA3SKdGHJCtu87nb) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [How To Disappear](https://open.spotify.com/album/1zwEmwHMjcL6eFesggCTOR) | 3:56 |
-| 247 | [See You Fall](https://open.spotify.com/track/1PcDdD3RzV2mb9sgu8uAHN) | [Blackwater](https://open.spotify.com/artist/01G6kkvEqxty6exErXNJQF) | [Heard It All Before?](https://open.spotify.com/album/2nvD1Pc4EiwvSoyQGLvspe) | 4:22 |
-| 248 | [Heaven Knows I'm Trolling you Now](https://open.spotify.com/track/5uM9dCc4LjGCbgJs4u40Kr) | [THEBIGHELL](https://open.spotify.com/artist/1cqHZRRUw2nT0Bh2pEsx28) | [Heaven Knows I'm Trolling you Now](https://open.spotify.com/album/7LBYk85520OLOMhzgTQOSU) | 2:32 |
+| 246 | [Heaven Knows I'm Trolling you Now](https://open.spotify.com/track/5uM9dCc4LjGCbgJs4u40Kr) | [THEBIGHELL](https://open.spotify.com/artist/1cqHZRRUw2nT0Bh2pEsx28) | [Heaven Knows I'm Trolling you Now](https://open.spotify.com/album/7LBYk85520OLOMhzgTQOSU) | 2:32 |
+| 247 | [For Katie](https://open.spotify.com/track/0WMnzSVA3SKdGHJCtu87nb) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [How To Disappear](https://open.spotify.com/album/1zwEmwHMjcL6eFesggCTOR) | 3:56 |
+| 248 | [See You Fall](https://open.spotify.com/track/1PcDdD3RzV2mb9sgu8uAHN) | [Blackwater](https://open.spotify.com/artist/01G6kkvEqxty6exErXNJQF) | [Heard It All Before?](https://open.spotify.com/album/2nvD1Pc4EiwvSoyQGLvspe) | 4:22 |
 | 249 | [Still Sickness](https://open.spotify.com/track/2ZnTLUHchoB4NCKl1sY64K) | [Hidden Mothers](https://open.spotify.com/artist/4ngzSYix3OAL3ph7OjDXzn) | [Still Sickness](https://open.spotify.com/album/6J3Wbt9tz90adM5nALLzVP) | 6:00 |
 | 250 | [HEX](https://open.spotify.com/track/0MrXchooeS8n6m6xFYT1ax) | [Crimson Veil](https://open.spotify.com/artist/2PM21vTrqaUvtvZcUNZ1B2) | [Hex](https://open.spotify.com/album/7gKqJH0pDuiFRoOHmEKqeT) | 5:27 |
 | 251 | [QWERTY](https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Papercuts](https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl) | 3:21 |

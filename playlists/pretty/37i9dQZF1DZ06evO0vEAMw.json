@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 91019,
+  "num_followers": 91066,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAAALeT4NO3BiksmANecgB+Gk",
+  "snapshot_id": "Z/HEAAAAAADfUC/WdrMtcFLKSrInX0IG",
   "tracks": [
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/7GWGllaCoQInhrOadZ79LQ"
-      },
-      "artists": [
-        {
-          "name": "Yung Alpha",
-          "url": "https://open.spotify.com/artist/0lL3q4F7F3Zv6TdwefmcR6"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 185396,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/5at2Abc6gzWtxakXn7GNfE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afro",
         "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
       },
@@ -487,6 +467,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/7GWGllaCoQInhrOadZ79LQ"
+      },
+      "artists": [
+        {
+          "name": "Yung Alpha",
+          "url": "https://open.spotify.com/artist/0lL3q4F7F3Zv6TdwefmcR6"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 185396,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/5at2Abc6gzWtxakXn7GNfE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
       },
@@ -499,26 +499,6 @@
       "duration_ms": 198801,
       "name": "OVER DEM",
       "url": "https://open.spotify.com/track/1KCCxeit3q5wJXxDmRgbl3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TESTIMONY.",
-        "url": "https://open.spotify.com/album/2CsVUBVLZU6216kq7HQWXK"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 217069,
-      "name": "PrAy",
-      "url": "https://open.spotify.com/track/2NLZskCPIYnG2vwiEBXLpC"
     },
     {
       "added_at": null,
@@ -555,6 +535,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "TESTIMONY.",
+        "url": "https://open.spotify.com/album/2CsVUBVLZU6216kq7HQWXK"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 217069,
+      "name": "PrAy",
+      "url": "https://open.spotify.com/track/2NLZskCPIYnG2vwiEBXLpC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
@@ -571,22 +571,6 @@
       "duration_ms": 162285,
       "name": "Holy Ground (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nwa Baby",
-        "url": "https://open.spotify.com/album/2ginnTdwjq3y0c5aYhUvzn"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 222327,
-      "name": "Nwa Baby",
-      "url": "https://open.spotify.com/track/5LQ4gy76WKL3yH7eClwM5m"
     },
     {
       "added_at": null,
@@ -611,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "FIA",
-        "url": "https://open.spotify.com/album/7kknjkTumdJA57Ogy0Fq7Z"
+        "name": "Nwa Baby",
+        "url": "https://open.spotify.com/album/2ginnTdwjq3y0c5aYhUvzn"
       },
       "artists": [
         {
@@ -620,9 +604,25 @@
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 214205,
-      "name": "FIA",
-      "url": "https://open.spotify.com/track/6sfdU1tGLpXhjjLjGJa0zA"
+      "duration_ms": 222327,
+      "name": "Nwa Baby",
+      "url": "https://open.spotify.com/track/5LQ4gy76WKL3yH7eClwM5m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/2XqFAn4dRXjHOAQnslNR8s"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 235171,
+      "name": "Aye",
+      "url": "https://open.spotify.com/track/4bsuDNPQkP4mQWzoXglF52"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aye",
-        "url": "https://open.spotify.com/album/2XqFAn4dRXjHOAQnslNR8s"
+        "name": "FIA",
+        "url": "https://open.spotify.com/album/7kknjkTumdJA57Ogy0Fq7Z"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 235171,
-      "name": "Aye",
-      "url": "https://open.spotify.com/track/4bsuDNPQkP4mQWzoXglF52"
+      "duration_ms": 214205,
+      "name": "FIA",
+      "url": "https://open.spotify.com/track/6sfdU1tGLpXhjjLjGJa0zA"
     },
     {
       "added_at": null,

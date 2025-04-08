@@ -1,12 +1,12 @@
 {
   "description": "This is Wizkid. The essential tracks, all in one playlist.",
-  "num_followers": 150965,
+  "num_followers": 151003,
   "original_name": "This Is Wizkid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAACZGv3EFvIvobRgkqpH2pzH",
+  "snapshot_id": "Z/HEAAAAAABa+nQtCxBP9FSyyNgzDBxi",
   "tracks": [
     {
       "added_at": null,
@@ -247,34 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "APALA DISCO (feat. Wizkid, Seyi Vibez & Terry Apala) [Remix]",
-        "url": "https://open.spotify.com/album/0MgGzcX0gkln7VFFmH25yf"
-      },
-      "artists": [
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "Terry Apala",
-          "url": "https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM"
-        }
-      ],
-      "duration_ms": 215516,
-      "name": "APALA DISCO (feat. Wizkid, Seyi Vibez & Terry Apala) - Remix",
-      "url": "https://open.spotify.com/track/55nKxeuQ63YLqhtxPWMCgN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
@@ -303,6 +275,34 @@
       "duration_ms": 195386,
       "name": "Link Up (Metro Boomin & Don Toliver, Wizkid feat. BEAM & Toian) - Spider-Verse Remix (Spider-Man: Across the Spider-Verse )",
       "url": "https://open.spotify.com/track/0y8Pu7x5jXgUjOIJvQIF5L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "APALA DISCO (feat. Wizkid, Seyi Vibez & Terry Apala) [Remix]",
+        "url": "https://open.spotify.com/album/0MgGzcX0gkln7VFFmH25yf"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Terry Apala",
+          "url": "https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM"
+        }
+      ],
+      "duration_ms": 215516,
+      "name": "APALA DISCO (feat. Wizkid, Seyi Vibez & Terry Apala) - Remix",
+      "url": "https://open.spotify.com/track/55nKxeuQ63YLqhtxPWMCgN"
     },
     {
       "added_at": null,
@@ -468,13 +468,13 @@
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
         }
       ],
-      "duration_ms": 259359,
-      "name": "Piece of My Heart (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/7Ijsqi4y74qZB04PaxnYBq"
+      "duration_ms": 177013,
+      "name": "Apr\u00e8s Minuit (feat. Tiakola)",
+      "url": "https://open.spotify.com/track/7JKGyMt8qkTaUHXFpxgjY2"
     },
     {
       "added_at": null,

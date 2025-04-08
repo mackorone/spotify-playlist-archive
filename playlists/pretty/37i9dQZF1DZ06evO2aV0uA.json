@@ -1,12 +1,12 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 135045,
+  "num_followers": 135064,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAAD6GRkrvoVI5hMXlY/aKLtE",
+  "snapshot_id": "Z/HEAAAAAABh6jyEKAbd/ptsKKr8oS/I",
   "tracks": [
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "VII: Sturm und Drang",
+        "url": "https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 296453,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/5EP6OcWKPVTFgKH0cFFtys"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DISCO4 :: PART II",
         "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 326771,
       "name": "COLD BLOOD",
       "url": "https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VII: Sturm und Drang",
-        "url": "https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 296453,
-      "name": "Embers",
-      "url": "https://open.spotify.com/track/5EP6OcWKPVTFgKH0cFFtys"
     },
     {
       "added_at": null,

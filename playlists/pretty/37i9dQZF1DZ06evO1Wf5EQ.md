@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 
 > This is Carlos Rafael Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 703 likes - 16 songs - 35 min 15 sec
+[Spotify](https://open.spotify.com/user/spotify) - 702 likes - 16 songs - 35 min 15 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 | 15 | [The Scholar's Mate](https://open.spotify.com/track/2qKga0VHaH41ajUMbVofcb) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 1:18 |
 | 16 | [Breaking Horses](https://open.spotify.com/track/2skAWuKTCEDglrXJtHD0Dv) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 5:58 |
 
-Snapshot ID: `Z/BygAAAAADSH1z+5RmAZUVetDP1itgA`
+Snapshot ID: `Z/HEAAAAAABlqKtPeVYit8d/mEGURG38`

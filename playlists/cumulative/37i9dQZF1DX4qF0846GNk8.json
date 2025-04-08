@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0623\u062c\u0645\u062f \u0627\u0644\u0645\u0647\u0631\u062c\u0627\u0646\u0627\u062a \u0641\u064a \u0645\u0635\u0631\ud83d\udd25 \n \u0643\u0648\u0641\u0631:  <a href=\"https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB?si=wpk2V5C7TeOmye8MjNunpg\"> \u0627\u0633\u0644\u0627\u0645 \u0643\u0627\u0628\u0648\u0646\u062d\u0627 </a> \n",
+  "description": "\u0623\u062c\u0645\u062f \u0627\u0644\u0645\u0647\u0631\u062c\u0627\u0646\u0627\u062a \u0641\u064a \u0645\u0635\u0631\ud83d\udd25\ud83d\udd25 \n \u0645\u0639 <a href=\"https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu?si=V8RHquLRQFSyO20CvBcNIg\"> \u0639\u0635\u0627\u0645 \u0635\u0627\u0635\u0627 </a> \n",
   "name": "\u0623\u0642\u0648\u0649 \u0627\u0644\u0645\u0647\u0631\u062c\u0627\u0646\u0627\u062a",
   "tracks": [
     {
@@ -202,7 +202,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-17",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "Dawla",
       "url": "https://open.spotify.com/track/5BedaQpN3d92CLUVewl94E"
@@ -417,6 +417,24 @@
     },
     {
       "album": {
+        "name": "Fayek Sa7y Fe Edy Sela7y",
+        "url": "https://open.spotify.com/album/5U5CIEMt7qqxFKUZfnOzgP"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Moza",
+          "url": "https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379344,
+      "name": "Fayek Sa7y Fe Edy Sela7y",
+      "url": "https://open.spotify.com/track/4FAZpAvOEKhoVY3l37ozsF"
+    },
+    {
+      "album": {
         "name": "Fe Elarayeb Zany Khayeb",
         "url": "https://open.spotify.com/album/1za2yPFwwgsjbrMADIBLSV"
       },
@@ -548,7 +566,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 165000,
       "name": "Khamsa kol Khames",
       "url": "https://open.spotify.com/track/1g4Ma3KYOCnILWUpC7lwem"
@@ -668,7 +686,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-03",
+      "date_removed": null,
       "duration_ms": 157682,
       "name": "On Fire",
       "url": "https://open.spotify.com/track/4gQ6fFX5GwpUc7TdthnnKw"
@@ -722,7 +740,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 156770,
       "name": "Salt El Zein - \u0635\u0644\u0627\u0629 \u0627\u0644\u0632\u064a\u0646",
       "url": "https://open.spotify.com/track/5o7YSTsbNeo98lSacuNIi5"
@@ -1267,6 +1285,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u0644\u062f\u0646\u064a\u0627 \u0642\u0627\u0633\u064a\u0647 \u0627\u062a\u0634\u0642\u0644\u0628\u062a \u0628\u064a\u0627 \u0641\u064a \u062b\u0648\u0627\u0646\u064a",
+        "url": "https://open.spotify.com/album/5Alf5kSqGBco48J89enBIf"
+      },
+      "artists": [
+        {
+          "name": "Esaam Saasa",
+          "url": "https://open.spotify.com/artist/6Zvk1o5BoBH9uZ89bK6TuG"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206495,
+      "name": "\u0627\u0644\u062f\u0646\u064a\u0627 \u0642\u0627\u0633\u064a\u0647 \u0627\u062a\u0634\u0642\u0644\u0628\u062a \u0628\u064a\u0627 \u0641\u064a \u062b\u0648\u0627\u0646\u064a",
+      "url": "https://open.spotify.com/track/4IS4AYwUc96yYger9dMCow"
+    },
+    {
+      "album": {
         "name": "\u0627\u0644\u0633\u0643\u0631 \u062c\u064a (\u062e\u0648\u062c\u0629 \u0641\u064a \u0627\u0644\u062c\u0645\u0628)",
         "url": "https://open.spotify.com/album/1hzQl9blk5h3tZI5BGbqS7"
       },
@@ -1362,7 +1398,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 173333,
       "name": "\u0627\u0644\u0639\u0645\u0631 \u0631\u0627\u062d \u062c\u0645\u0627\u064a\u0644",
       "url": "https://open.spotify.com/track/2tDHfhOcCyIlT2cMc2MbLs"
@@ -1496,7 +1532,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-13",
+      "date_removed": null,
       "duration_ms": 385068,
       "name": "\u0627\u0644\u0644\u064a \u0646\u0641\u0633\u0647 \u0641\u064a\u0627 \u0628\u064a\u062a\u064a \u0645\u064a\u062a\u0648\u0647\u0634",
       "url": "https://open.spotify.com/track/1qhODkCMlYY22JflCKJQnz"
@@ -1944,7 +1980,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-14",
+      "date_removed": null,
       "duration_ms": 229111,
       "name": "\u0627\u0646\u0627 \u0645\u0634 \u063a\u0627\u064a\u0628 \u0639\u0644\u0634\u0627\u0646 \u0627\u0639\u0648\u062f - \u0627\u062e\u0648\u064a\u0627 \u0645\u0627\u0636\u064a \u0639 \u0627\u0644\u0627\u062d\u0627\u0644\u0629",
       "url": "https://open.spotify.com/track/3GOYPVrfSurAsLCg3MhIOO"
@@ -2050,7 +2086,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 243716,
       "name": "\u0627\u0646\u062f\u0627\u0644 \u0627\u0646\u062f\u0627\u0644",
       "url": "https://open.spotify.com/track/6RpPYyGGMyDL9xfRcQfffj"
@@ -2772,7 +2808,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 206425,
       "name": "\u0632\u0649 \u0645\u0646\u0627 \u0627\u0646\u0627 \u0648 \u0645\u0644\u064a\u0634 \u0632\u0627\u0649",
       "url": "https://open.spotify.com/track/1Xmp87DwHLtZd1fqIEsfVC"
@@ -2962,7 +2998,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 227474,
       "name": "\u0634\u0627\u064a\u0641\u0646\u0649 \u0628\u0633 \u0645\u0634 \u0634\u0627\u064a\u0641\u0643",
       "url": "https://open.spotify.com/track/7yZMTFgZKb1EFNKYSai1yS"
@@ -3450,7 +3486,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 162687,
       "name": "\u0639\u0630\u0631\u0627 \u0642\u062f \u062d\u0636\u0631 \u0627\u0644\u0639\u0648",
       "url": "https://open.spotify.com/track/4sN9tEkslUyImMrckTqjut"
@@ -3472,7 +3508,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 253648,
       "name": "\u0639\u0631\u0643\u0647 \u0648\u0631\u0627 \u0639\u0631\u0643\u0647 ( \u0627\u062d\u0644\u064a \u0645\u0633\u0627 \u0645\u0646\u064a \u0644\u0644\u064a \u0643\u0627\u0646\u0648 \u0645\u0646\u064a )",
       "url": "https://open.spotify.com/track/7LwOJlfpNauyf4h7IvHFIi"
@@ -3831,6 +3867,24 @@
     },
     {
       "album": {
+        "name": "\u0641\u0649 \u0632\u0646\u0632\u0627\u0646\u062a\u0649 \u064a\u0627\u0646\u0641\u0633\u064a \u062a\u0639\u0628\u062a\u0649 \u0648\u0627\u062a\u0647\u0627\u0646\u062a\u0649",
+        "url": "https://open.spotify.com/album/4XPO8gzXlXmUehFmOlw4Df"
+      },
+      "artists": [
+        {
+          "name": "Essam Sasa",
+          "url": "https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233592,
+      "name": "\u0641\u0649 \u0632\u0646\u0632\u0627\u0646\u062a\u0649 \u064a\u0627\u0646\u0641\u0633\u064a \u062a\u0639\u0628\u062a\u0649 \u0648\u0627\u062a\u0647\u0627\u0646\u062a\u0649",
+      "url": "https://open.spotify.com/track/7dJquFdunElI5hwj8HVnZ6"
+    },
+    {
+      "album": {
         "name": "\u0641\u064a \u062f\u0627\u0647\u064a\u0629",
         "url": "https://open.spotify.com/album/4xWr4AHJ1Y2h2P3bQA8uNz"
       },
@@ -3893,6 +3947,36 @@
     },
     {
       "album": {
+        "name": "\u0642\u0627\u0633\u064a \u0642\u0627\u0633\u064a",
+        "url": "https://open.spotify.com/album/7FuOGjg3w81gJhvDjNALTF"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Moza",
+          "url": "https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl"
+        },
+        {
+          "name": "Moustafa El Gen",
+          "url": "https://open.spotify.com/artist/12cHUAT7k9oAy4pfefniL4"
+        },
+        {
+          "name": "Halakolo",
+          "url": "https://open.spotify.com/artist/2KxH1Zg0uBqT4tQ0vNiIOI"
+        },
+        {
+          "name": "Islam El gamal",
+          "url": "https://open.spotify.com/artist/2NvyPNN1nAgBq8PzW3QpLS"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434430,
+      "name": "\u0642\u0627\u0633\u064a \u0642\u0627\u0633\u064a",
+      "url": "https://open.spotify.com/track/1gxujfeeffSgLoUkxw2FKJ"
+    },
+    {
+      "album": {
         "name": "\u0642\u0627\u0639\u062f \u0648\u0628\u062a\u0641\u0631\u062c",
         "url": "https://open.spotify.com/album/0R5x0p6thoiMolIIHWhxKw"
       },
@@ -3904,7 +3988,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 198504,
       "name": "\u0642\u0627\u0639\u062f \u0648\u0628\u062a\u0641\u0631\u062c",
       "url": "https://open.spotify.com/track/45UhzjLtR3VMPgx7xO2plv"
@@ -3962,7 +4046,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 198765,
       "name": "\u0642\u0644\u0628\u064a \u064a\u0627\u0644\u0644\u064a \u0643\u0644\u0627\u0645\u064a \u0639\u0646\u062f\u0643",
       "url": "https://open.spotify.com/track/2TDgNk26VOAV4ioDUB9wSh"
@@ -4230,7 +4314,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 157200,
       "name": "\u0644\u0633\u0647 \u0648\u062d\u062f\u0627\u0646\u0649",
       "url": "https://open.spotify.com/track/41ljJk2xNQxrz92cOQPebP"
@@ -4488,7 +4572,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-20",
+      "date_removed": null,
       "duration_ms": 219813,
       "name": "\u0645\u0633\u0627 \u0645\u0646\u064a \u0644\u064a\u0643\u0648\u0627",
       "url": "https://open.spotify.com/track/7qnR06N2Ekj9iBOQHiFqdq"
@@ -4528,7 +4612,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 274390,
       "name": "\u0645\u0633\u064a\u0644\u0649 \u0639\u0644\u0649 \u0646\u0641\u0633\u0643 \u0645\u0633\u0627",
       "url": "https://open.spotify.com/track/6CQNzeaZaiHNI6B8UTl5EE"
@@ -4546,7 +4630,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 141583,
       "name": "\u0645\u0634 \u0634\u0627\u064a\u0641\u0643",
       "url": "https://open.spotify.com/track/348qlmHvImqrjdgqlwvPjr"
@@ -5047,6 +5131,28 @@
     },
     {
       "album": {
+        "name": "\u0645\u0647\u0631\u062c\u0627\u0646 \u0645\u0646 \u0628\u0639\u064a\u062f \u0633\u0627\u0645\u0639 \u0633\u0631\u064a\u0646\u0647",
+        "url": "https://open.spotify.com/album/4BFNCWDh2Y09LL92JP1qRf"
+      },
+      "artists": [
+        {
+          "name": "Ameen Khattab",
+          "url": "https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d"
+        },
+        {
+          "name": "Tata Elnoby",
+          "url": "https://open.spotify.com/artist/2LTdiRvKh5mn5Y8Q8vJuRD"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253401,
+      "name": "\u0645\u0647\u0631\u062c\u0627\u0646 \u0645\u0646 \u0628\u0639\u064a\u062f \u0633\u0627\u0645\u0639 \u0633\u0631\u064a\u0646\u0647",
+      "url": "https://open.spotify.com/track/04ojB5Jwou19OxEqf4cKMC"
+    },
+    {
+      "album": {
         "name": "\u0645\u0647\u0631\u062c\u0627\u0646 \u064a\u0627\u0632\u0645\u064a\u0643\u0633 \u0627\u0644\u0628\u062a \u0628\u062a\u0627\u0639\u062a\u0643 \u062f\u064a \u0627\u0644\u0627\u0643\u0633",
         "url": "https://open.spotify.com/album/65k9Omt0JOPURvHffhSMjR"
       },
@@ -5178,7 +5284,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 184973,
       "name": "\u0646\u0635 \u0633\u064a\u0637\u0648 \u0645\u0646\u064a ( \u0627\u062d\u0646\u0627 \u0635\u062d\u0627\u0628 \u0628\u0644\u0627\u062f\u0646\u0627 )",
       "url": "https://open.spotify.com/track/7FhwM9XJeuVHbmpOcuZxxs"
@@ -5306,8 +5412,8 @@
       },
       "artists": [
         {
-          "name": "\u062d\u0645\u0648 \u0627\u0644\u0637\u064a\u062e\u0627",
-          "url": "https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t"
+          "name": "Hamo ElTikha",
+          "url": "https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7"
         },
         {
           "name": "\u0645\u0648\u062f\u064a \u0627\u0645\u064a\u0646",
@@ -5316,7 +5422,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-31",
+      "date_removed": null,
       "duration_ms": 385880,
       "name": "\u0647\u0644\u0627 \u0627\u0646\u0627 \u062c\u064a\u062a \u062a\u0631\u064a\u062d \u064a\u0644\u0627",
       "url": "https://open.spotify.com/track/17H3IfzbBDHZQsR49cCqkA"
@@ -5454,7 +5560,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 293477,
       "name": "\u0648\u0631\u064a\u062a\u0643 \u0627\u0644\u062e\u064a\u0631",
       "url": "https://open.spotify.com/track/2PLF2ROeHnF9k2CJ4hKCJ1"

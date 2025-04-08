@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 
 > This is Julia Vitória\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,490 likes - 50 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,491 likes - 50 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 45 | [Essência Da Adoração \- Ao Vivo](https://open.spotify.com/track/5zKbPk3SYmPAGM0yxoIo1C) | [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Essência Da Adoração \(Ao Vivo\)](https://open.spotify.com/album/4eHRqZGfau4CfUQ7oWF6t3) | 5:17 |
 | 46 | [Risen Savior \(Sing My Soul\) \- Live](https://open.spotify.com/track/3QyqnZ99aTFijvIfUJKScD) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [The Mystery Of Christ \(Live\)](https://open.spotify.com/album/4WqqAAsOclKygm5hhIVkU6) | 7:29 |
 | 47 | [Hambre Y Sed](https://open.spotify.com/track/4uMXCCRjkxvw0M8qhbtmtp) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Hambre Y Sed](https://open.spotify.com/album/39B0NsZrMpotIGetBEWNPB) | 6:01 |
-| 48 | [Manto de Cristo](https://open.spotify.com/track/2bMHtSO06SG7qiyDJXfQPC) | [Lagoinha Music](https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Luz da Luz](https://open.spotify.com/album/45v1bM63jvlyprxBdnsMMf) | 10:37 |
-| 49 | [Cantarei \(Meu Salvador\) / Risen Savior \(Sing My Soul\)](https://open.spotify.com/track/0TmADjyCs3sgR39ayjJFkQ) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Lucy Grimble](https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Dwan Hill](https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ), [Ana Tristão](https://open.spotify.com/artist/04sHHdilT7bBAzYRTtKLKC) | [REVERE: Unscripted Portuguese](https://open.spotify.com/album/41kS6H8A18CIWT5DaYsLlu) | 9:14 |
+| 48 | [Cantarei \(Meu Salvador\) / Risen Savior \(Sing My Soul\)](https://open.spotify.com/track/0TmADjyCs3sgR39ayjJFkQ) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Lucy Grimble](https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Dwan Hill](https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ), [Ana Tristão](https://open.spotify.com/artist/04sHHdilT7bBAzYRTtKLKC) | [REVERE: Unscripted Portuguese](https://open.spotify.com/album/41kS6H8A18CIWT5DaYsLlu) | 9:14 |
+| 49 | [Manto de Cristo](https://open.spotify.com/track/2bMHtSO06SG7qiyDJXfQPC) | [Lagoinha Music](https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Luz da Luz](https://open.spotify.com/album/45v1bM63jvlyprxBdnsMMf) | 10:37 |
 | 50 | [Eu Canto \- Ao Vivo](https://open.spotify.com/track/2DvGSZOhnGbDSCxpdKtO5o) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Para as Nações \(Ao Vivo\)](https://open.spotify.com/album/7bLCWNWHg75071PLkegCJS) | 8:19 |
 
-Snapshot ID: `Z/BygAAAAADcZpORIM98Ln0r8hWvywxx`
+Snapshot ID: `Z/HEAAAAAAA2TsNjGei1GwOqM6YL9NsY`

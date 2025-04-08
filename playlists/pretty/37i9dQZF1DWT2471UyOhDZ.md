@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2471UyOhDZ.md) - [plain]
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Panchiko
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,105 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,109 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2471UyOhDZ.md) - [plain]
 | 45 | [Baby Brazil feat\. Las Palabras](https://open.spotify.com/track/4J5zalm3Wa04SZ9g3wy1s1) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Las Palabras](https://open.spotify.com/artist/6j0bjK0T68pJOWGvqRD7ls) | [Baby Brazil feat\. Las Palabras](https://open.spotify.com/album/3pvzgOeKcyPUOmAsaVB5tH) | 3:46 |
 | 46 | [Lotta Love](https://open.spotify.com/track/2n9y3UtCDmRUD94jlPTJCz) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Lotta Love](https://open.spotify.com/album/0oVhAs8HZP3UE1G3ptBBa0) | 2:49 |
 | 47 | [Whatcha Mean](https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [TELL DEM IT'S SUNNY](https://open.spotify.com/album/4XnYQphM4RxxVAFlzKjvAQ) | 2:38 |
-| 48 | [But I'll Keep Trying](https://open.spotify.com/track/5WRTFJtlDo2xjHF8LpEpGo) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [But I'll Keep Trying](https://open.spotify.com/album/3VLwV4o2WGARLpANnoPe57) | 3:11 |
-| 49 | [Emily and Me](https://open.spotify.com/track/67cpAwhrwj0MQoidTigHVX) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Emily and Me](https://open.spotify.com/album/4WOMRf6IGT91cVl2wybIoY) | 4:12 |
+| 48 | [Emily and Me](https://open.spotify.com/track/67cpAwhrwj0MQoidTigHVX) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Emily and Me](https://open.spotify.com/album/4WOMRf6IGT91cVl2wybIoY) | 4:12 |
+| 49 | [But I'll Keep Trying](https://open.spotify.com/track/5WRTFJtlDo2xjHF8LpEpGo) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [But I'll Keep Trying](https://open.spotify.com/album/3VLwV4o2WGARLpANnoPe57) | 3:11 |
 | 50 | [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 |
 | 51 | [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 |
 | 52 | [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2471UyOhDZ.md) - [plain]
 | 63 | [AMAMA](https://open.spotify.com/track/2v0M1pCugLIImmFGZNkydS) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [AMAMA](https://open.spotify.com/album/6V4aP2jvCLc1McVX6HPmdo) | 3:10 |
 | 64 | [Lucid Girl](https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Lucid Girl](https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w) | 3:22 |
 | 65 | [Honeycomb](https://open.spotify.com/track/0z8Z0sQiBgww2toWEf5A40) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Honeycomb](https://open.spotify.com/album/1bXymWHWPNubbjT9Pi2HBH) | 3:14 |
-| 66 | [Earthstar](https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar](https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4) | 4:03 |
-| 67 | [Back in the Game](https://open.spotify.com/track/0tPJ289BckiSSlIanTQnVa) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Back in the Game](https://open.spotify.com/album/2kBN9sDKSl5vfCnKMl0XtN) | 4:41 |
+| 66 | [Back in the Game](https://open.spotify.com/track/0tPJ289BckiSSlIanTQnVa) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Back in the Game](https://open.spotify.com/album/2kBN9sDKSl5vfCnKMl0XtN) | 4:41 |
+| 67 | [Earthstar](https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar](https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4) | 4:03 |
 | 68 | [80 Days](https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:36 |
 | 69 | [Tuesday](https://open.spotify.com/track/5Sqe9F65lHHLpkwPt1RYL4) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Tuesday](https://open.spotify.com/album/3iHof8TKLpT0XtVZl3sEHZ) | 3:36 |
 | 70 | [Guy Fawkes Tesco Dissociation](https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:36 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2471UyOhDZ.md) - [plain]
 | 96 | [Cold Dreaming](https://open.spotify.com/track/32gOXeiuZo01yiLeY8tHON) | [Doves](https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY) | [Cold Dreaming](https://open.spotify.com/album/5D22FZEUtC73xui9g1iQqz) | 5:02 |
 | 97 | [Snares](https://open.spotify.com/track/382qAtuQEUpqa4ILGWfeWY) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Microtonic](https://open.spotify.com/album/2a7WAptRLsXA4dOnGIdn5a) | 4:41 |
 | 98 | [Waxwing](https://open.spotify.com/track/4gGh7b3nKa4rlxyPLWcfTd) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Waxwing](https://open.spotify.com/album/49vsrHjBAKKFj6PMjwQu6h) | 3:35 |
-| 99 | [I Wanna Live With You](https://open.spotify.com/track/3myyZdktVep8TRBRbJvKLW) | [Opus Kink](https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3) | [I Wanna Live With You](https://open.spotify.com/album/7qAkVUXr3P9Cb1i9D6lR7L) | 2:54 |
+| 99 | [Rafters](https://open.spotify.com/track/3wyYvUZfeJRUPVW5PLaF4r) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [Rafters](https://open.spotify.com/album/2Mycw8jnB4YUQyxejVx8Ov) | 3:07 |
 | 100 | [Ariel](https://open.spotify.com/track/0n1lGgQqkx54zXlqd3Mxir) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [Ariel](https://open.spotify.com/album/4v6ChdlO0j6hhBSr321FpE) | 5:22 |
 
 Snapshot ID: `Z++m8QAAAAAYWLzKOo0QqH6kqiolt/9a`

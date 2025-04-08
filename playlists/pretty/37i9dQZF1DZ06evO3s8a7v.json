@@ -1,12 +1,12 @@
 {
   "description": "This is MYA. The essential tracks, all in one playlist.",
-  "num_followers": 43560,
+  "num_followers": 43567,
   "original_name": "This Is MYA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAAC7P3l9Oe6QfXUb81aPuPFX",
+  "snapshot_id": "Z/HEAAAAAAD/6rJjhRlHYRIBrsQlFbNO",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nunca Soltamos",
+        "url": "https://open.spotify.com/album/6ghHqKuBy0ZgGWeva8XF7E"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 198353,
+      "name": "Nunca Soltamos",
+      "url": "https://open.spotify.com/track/3gxFNiUvyb3F2BJ2EGMRtd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lado Triste (Remix)",
         "url": "https://open.spotify.com/album/75sX87O97X5BFJ4uvnlUhN"
       },
@@ -259,26 +279,6 @@
       "duration_ms": 167038,
       "name": "Lado Triste - Remix",
       "url": "https://open.spotify.com/track/7gNClxHxDnazoQvgFhLMKr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nunca Soltamos",
-        "url": "https://open.spotify.com/album/6ghHqKuBy0ZgGWeva8XF7E"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 198353,
-      "name": "Nunca Soltamos",
-      "url": "https://open.spotify.com/track/3gxFNiUvyb3F2BJ2EGMRtd"
     },
     {
       "added_at": null,

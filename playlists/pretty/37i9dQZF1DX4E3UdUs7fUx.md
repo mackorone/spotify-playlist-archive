@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 
 > Unwind and let the afternoon unfold.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,163,781 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,163,734 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 93 | [Top to Toe](https://open.spotify.com/track/1I6hI9D2b1UXZUGoP8ixM0) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Top to Toe](https://open.spotify.com/album/0QdnZNP2WTEGrmKSyMZ6d1) | 3:36 |
 | 94 | [Naked As We Came](https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt) | 2:32 |
 | 95 | [Undertow](https://open.spotify.com/track/00C5llfInrmXgjBrT40L1J) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm) | 3:24 |
-| 96 | [Tiger Striped Sky](https://open.spotify.com/track/6FOyzhp375u8DapDyQqGTh) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/7fqZrcQ53NpZugjmXHtLK3) | 4:01 |
-| 97 | [Two of Us on the Run](https://open.spotify.com/track/7eI7Y41wcPfqzAxqv1jogS) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman](https://open.spotify.com/album/3B6Xa8QdnsvMByLV9ooWz3) | 4:35 |
+| 96 | [Two of Us on the Run](https://open.spotify.com/track/7eI7Y41wcPfqzAxqv1jogS) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman](https://open.spotify.com/album/3B6Xa8QdnsvMByLV9ooWz3) | 4:35 |
+| 97 | [Tiger Striped Sky](https://open.spotify.com/track/6FOyzhp375u8DapDyQqGTh) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/7fqZrcQ53NpZugjmXHtLK3) | 4:01 |
 | 98 | [Love Anyway](https://open.spotify.com/track/0swFW9sHhCVS892gh8ec2L) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Love Anyway](https://open.spotify.com/album/1rwvzuvmzRe7OFynMY7jDe) | 3:03 |
 | 99 | [Heartbeats](https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Imperial Recordings Best Of](https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV) | 2:40 |
 | 100 | [The Way Back Home](https://open.spotify.com/track/52Xwn8r3KLcwgHO0wyDNbC) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/0Hx4AIsLgkYCDZgsdb4pdi) | 3:34 |

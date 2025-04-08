@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 
 > Today's top Latin hits, elevando nuestra música\. Cover: Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,563,581 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,564,631 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [H.I.M.](https://open.spotify.com/track/1raPPxkstNnTmg6EmFCX0j) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [H.I.M.](https://open.spotify.com/album/6ZQICkkwdOzHuS8OHYIGxF) | 2:10 |
+| 1 | [Vetements](https://open.spotify.com/track/4gpmLUDfGsswNteXyGJOqP) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Vetements](https://open.spotify.com/album/3AyNcukkt0jcB2OrkqjXLG) | 3:20 |
 | 2 | [Te Quería Ver](https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Te Quería Ver](https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF) | 2:56 |
 | 3 | [La Plena \- W Sound 05](https://open.spotify.com/track/6xOEgzkMSZJKz6qtCJsQL5) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Plena \(W Sound 05\)](https://open.spotify.com/album/6mCCkmAs0Q3RNFD8dp2Pw8) | 2:30 |
 | 4 | [Por Esos Ojos](https://open.spotify.com/track/5jHozZMWbrExAFni95mvvH) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Por Esos Ojos](https://open.spotify.com/album/3ZaYiXwSEqq5iZ6xt8RAwp) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 | 49 | [Que Pedo](https://open.spotify.com/track/5ZNQU2PIp5KItB73TUft2B) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [Que Pedo](https://open.spotify.com/album/1i1It41Q2QnkUU2duPxfzy) | 3:14 |
 | 50 | [Ya No Estás](https://open.spotify.com/track/60nOmFyaDvEeb8v8D6Y6gx) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Ya No Estás](https://open.spotify.com/album/7KgIRu2wQh0z8S3x41KnK6) | 4:22 |
 
-Snapshot ID: `Z+9amgAAAAC5tSaUd+n8YGG5tjCBrfpc`
+Snapshot ID: `Z/PoEgAAAABzRufIc+3tKnL6EOfvXHlj`

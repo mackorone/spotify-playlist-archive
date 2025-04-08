@@ -415,6 +415,42 @@
     },
     {
       "album": {
+        "name": "Pas facile",
+        "url": "https://open.spotify.com/album/1j3iGC3DHnfA9D2UsWNona"
+      },
+      "artists": [
+        {
+          "name": "soap",
+          "url": "https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128399,
+      "name": "Amore viscerale (charnel)",
+      "url": "https://open.spotify.com/track/34R0X1WwO2D3Sl3nJr8ayz"
+    },
+    {
+      "album": {
+        "name": "Am\u00e9lie",
+        "url": "https://open.spotify.com/album/3SK4X4pGo8xa620tGmyIng"
+      },
+      "artists": [
+        {
+          "name": "soap",
+          "url": "https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145625,
+      "name": "Am\u00e9lie",
+      "url": "https://open.spotify.com/track/6D65BBGrs7uuHptiwfNpIS"
+    },
+    {
+      "album": {
         "name": "Mi Senti",
         "url": "https://open.spotify.com/album/6gnG4Hov60aXPblNpKpumI"
       },

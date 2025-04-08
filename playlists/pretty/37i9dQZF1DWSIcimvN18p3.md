@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Paris Paloma
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,121 likes - 150 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,183 likes - 150 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 | 93 | [I Could Drive You Crazy](https://open.spotify.com/track/41FgxEQPfzOWhyzb3vSmKi) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Could Drive You Crazy](https://open.spotify.com/album/3io77WHK4cVk4JKKcFS4Kq) | 3:36 |
 | 94 | [Wreck You](https://open.spotify.com/track/1Ee33iUeDRUA5sGshbsOWM) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Bird & the Rifle](https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk) | 3:18 |
 | 95 | [Banshee Moan](https://open.spotify.com/track/5HjMZLtFasGq1zqeP4kWMU) | [Shannon McNally](https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T) | [Black Irish](https://open.spotify.com/album/5Tk9aO6Qu39iHU57nldhtl) | 4:01 |
-| 96 | [The Wave](https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:45 |
-| 97 | [Heart Like a Wheel](https://open.spotify.com/track/7ctYp2gIPnE79lRzov5k2n) | [Kate & Anna McGarrigle](https://open.spotify.com/artist/7krh6ZjG7i7jvLGiG3YNJF) | [Kate & Anna McGarrigle](https://open.spotify.com/album/4PtJUyTpyy4pkiNsPYfW0J) | 3:12 |
+| 96 | [Heart Like a Wheel](https://open.spotify.com/track/7ctYp2gIPnE79lRzov5k2n) | [Kate & Anna McGarrigle](https://open.spotify.com/artist/7krh6ZjG7i7jvLGiG3YNJF) | [Kate & Anna McGarrigle](https://open.spotify.com/album/4PtJUyTpyy4pkiNsPYfW0J) | 3:12 |
+| 97 | [The Wave](https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:45 |
 | 98 | [Universal Soldier](https://open.spotify.com/track/35oPNtWETGELk0CguDIfKr) | [Buffy Sainte\-Marie](https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x) | [The Best Of](https://open.spotify.com/album/3KkxlIx2jtJYW2nOIjnkAw) | 2:19 |
 | 99 | [Boardwalks](https://open.spotify.com/track/7sTdeM1DsL2V5caPFfcrDO) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [Little May](https://open.spotify.com/album/15h8DXuEUUU8FKcElRPf4S) | 3:15 |
 | 100 | [Jeremiah](https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Jeremiah / Why’d Ya Do It](https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ) | 3:04 |
@@ -142,9 +142,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 | 132 | [Stand In](https://open.spotify.com/track/2WCtBAhKakTG4YT3hKpAbh) | [Deva Mahal](https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0) | [Stand In](https://open.spotify.com/album/2RWRXkpztNYWDRy73TJ49H) | 4:46 |
 | 133 | [Fire, Water, Earth And Air](https://open.spotify.com/track/08HfNqZtFpypCW5luKg0uX) | [Julie Felix](https://open.spotify.com/artist/7jqjvT22ycFRTQD0lI6Vi8) | [Clotho's Web](https://open.spotify.com/album/5unf8DycGu4dBjZwFdPMjd) | 3:06 |
 | 134 | [Who Knows Where The Time Goes? \- BBC Session \- John Peel 11/9/73](https://open.spotify.com/track/0DDVBCMpype90FZ4fNTsbp) | [Sandy Denny](https://open.spotify.com/artist/1kYd37riIExqdm9g0juqGJ) | [The Best Of The BBC Recordings](https://open.spotify.com/album/1OSu5UcCqwDlN4wNmNsoK4) | 5:36 |
-| 135 | [Crosshairs](https://open.spotify.com/track/7qIt6ymGZPn8DWVtv1DcMI) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE) | 4:03 |
+| 135 | [A Feather's Not A Bird](https://open.spotify.com/track/2GVnWRdLxud7OJBlvD4AFP) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The River & The Thread \(Deluxe\)](https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF) | 3:18 |
 | 136 | [Can't See Stars \(feat\. Kevin Morby\)](https://open.spotify.com/track/4vDEQxivxtfbgmEHtsJ29H) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6), [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Lighten Up](https://open.spotify.com/album/5MT2lgCDRZ1AfHrQ3pklHI) | 3:36 |
-| 137 | [A Feather's Not A Bird](https://open.spotify.com/track/2GVnWRdLxud7OJBlvD4AFP) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The River & The Thread \(Deluxe\)](https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF) | 3:18 |
+| 137 | [Crosshairs](https://open.spotify.com/track/7qIt6ymGZPn8DWVtv1DcMI) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE) | 4:03 |
 | 138 | [Be Careful](https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Be Careful](https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf) | 5:42 |
 | 139 | [Will the Circle Be Unbroken](https://open.spotify.com/track/2XQlZQGMQKIElKRYSf5NWx) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Freedom Highway](https://open.spotify.com/album/5613XvsC5XhGi3gfNWXpjg) | 2:37 |
 | 140 | [Atomic Number](https://open.spotify.com/track/36BvxxHlY6JPjmvbp43CMc) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED), [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586), [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Atomic Number](https://open.spotify.com/album/2KUkCcrWIdNe4tqAdsHFyk) | 2:57 |

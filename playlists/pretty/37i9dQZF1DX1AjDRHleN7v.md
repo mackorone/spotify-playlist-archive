@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,593 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,622 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 54 | [Enquanto Houver](https://open.spotify.com/track/3tMOge7zmbH20bw78vWTGj) | [Walace Fonseca](https://open.spotify.com/artist/4xgWOvc4WXipnXYfA3JYIW), [Bruno Harry](https://open.spotify.com/artist/4t793GwdVTpumLvvKDkVsF) | [Enquanto Houver](https://open.spotify.com/album/2MXJJpkpyxiUHO1c0Y405O) | 3:00 |
 | 55 | [Minha Ilha](https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v) | [Gabriel Oliveira](https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr) | [Minha Ilha](https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj) | 3:43 |
 | 56 | [Eu e Você](https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Eu e Você](https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO) | 3:05 |
-| 57 | [Pra Que Fazer Assim? \- Versão Instrumental](https://open.spotify.com/track/2JHOyiQHkUsIhr75VdCDaT) | [Mateus Menezes](https://open.spotify.com/artist/2OmkPZFRWq9lBwUEtTF5Wz) | [Pra Que Fazer Assim? \(Versão Instrumental\)](https://open.spotify.com/album/79ZK3MKk56dn4iNp3esrtf) | 2:49 |
-| 58 | [Quanto Pesa](https://open.spotify.com/track/7mu58r9s9WcL2uRvTqvUmk) | [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf), [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Jhayam](https://open.spotify.com/artist/4Ekm84CINBTMHbhVJXh16I) | [Quanto Pesa](https://open.spotify.com/album/7CPzJ1j9napqwK1g5hRgei) | 3:43 |
-| 59 | [Flying High](https://open.spotify.com/track/7CJpiMB7cKSuV4BYgtkV6C) | [Solano Jacob](https://open.spotify.com/artist/2Z5qm6vzoFzV2FfdDQ8kKm), [Rafael Senegal](https://open.spotify.com/artist/2H2ov0xQLpg5fg6nCElBCK) | [Flying High](https://open.spotify.com/album/75aD61Mdn46by45roKljUL) | 4:02 |
-| 60 | [Místico](https://open.spotify.com/track/0AZJ2bWZwvgLH59jaxJScv) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [Místico](https://open.spotify.com/album/7DhXujQxCEiiTMpfkrnUzX) | 3:07 |
+| 57 | [Místico](https://open.spotify.com/track/0AZJ2bWZwvgLH59jaxJScv) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [Místico](https://open.spotify.com/album/7DhXujQxCEiiTMpfkrnUzX) | 3:07 |
+| 58 | [Pra Que Fazer Assim? \- Versão Instrumental](https://open.spotify.com/track/2JHOyiQHkUsIhr75VdCDaT) | [Mateus Menezes](https://open.spotify.com/artist/2OmkPZFRWq9lBwUEtTF5Wz) | [Pra Que Fazer Assim? \(Versão Instrumental\)](https://open.spotify.com/album/79ZK3MKk56dn4iNp3esrtf) | 2:49 |
+| 59 | [Quanto Pesa](https://open.spotify.com/track/7mu58r9s9WcL2uRvTqvUmk) | [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf), [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Jhayam](https://open.spotify.com/artist/4Ekm84CINBTMHbhVJXh16I) | [Quanto Pesa](https://open.spotify.com/album/7CPzJ1j9napqwK1g5hRgei) | 3:43 |
+| 60 | [Flying High](https://open.spotify.com/track/7CJpiMB7cKSuV4BYgtkV6C) | [Solano Jacob](https://open.spotify.com/artist/2Z5qm6vzoFzV2FfdDQ8kKm), [Rafael Senegal](https://open.spotify.com/artist/2H2ov0xQLpg5fg6nCElBCK) | [Flying High](https://open.spotify.com/album/75aD61Mdn46by45roKljUL) | 4:02 |
 
 Snapshot ID: `Z/FyHAAAAADv3h8vLARWTwjI7S2QUXNW`

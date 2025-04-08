@@ -519,6 +519,24 @@
     },
     {
       "album": {
+        "name": "Heal EP",
+        "url": "https://open.spotify.com/album/2qdxKEcWDbs61f6oRDqHAW"
+      },
+      "artists": [
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303929,
+      "name": "Light Through The Leaves",
+      "url": "https://open.spotify.com/track/4Yq7rlqu3mvqe5lDiTlbWq"
+    },
+    {
+      "album": {
         "name": "Love Will Save Me",
         "url": "https://open.spotify.com/album/2QNFtpX9BzNTrzRF0A4tbe"
       },
@@ -658,7 +676,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 440721,
       "name": "Mu - Iorie Remix",
       "url": "https://open.spotify.com/track/0y5qFnl3NrRUrvICJsUW06"

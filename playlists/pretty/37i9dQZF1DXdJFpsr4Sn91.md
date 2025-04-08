@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa Ed Sheeran.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,824 likes - 84 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,820 likes - 84 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 8 | [Kirsikat](https://open.spotify.com/track/0RrtayzwGZd7rCvLgrDmMU) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [Kirsikat](https://open.spotify.com/album/7dWEiZ4iqA45KlrjXosIHQ) | 3:26 |
 | 9 | [Valot kamera action](https://open.spotify.com/track/7iXarUBY2dGYlnBdGbVo9m) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [Valot kamera action](https://open.spotify.com/album/4NH4Ywxj9JN89F7vLnX2hU) | 2:24 |
 | 10 | [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/track/1SdQjKRW52cHg2SEesQLvH) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/album/6I0FquHLCtYJqAgQMmtyr7) | 3:12 |
-| 11 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 |
-| 12 | [Piranha \(feat\. Averagekidluke\)](https://open.spotify.com/track/1A6RgcdbYVEbuvSzSdB1vV) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Klondike](https://open.spotify.com/album/7a4fLkQ68c5gT72gQOPlBl) | 2:31 |
+| 11 | [Piranha \(feat\. Averagekidluke\)](https://open.spotify.com/track/1A6RgcdbYVEbuvSzSdB1vV) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Klondike](https://open.spotify.com/album/7a4fLkQ68c5gT72gQOPlBl) | 2:31 |
+| 12 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 |
 | 13 | [kauhuleffa](https://open.spotify.com/track/4Dsg064k2FUfeh4TttxilR) | [kia](https://open.spotify.com/artist/5QZXagvKfzU8FznFvIQEOW) | [kauhuleffa](https://open.spotify.com/album/2TdW5MgyHIPTJD5v1Yyzle) | 3:03 |
 | 14 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 |
 | 15 | [Sisko](https://open.spotify.com/track/5GsPlZhyZhpYWqFQagfySb) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Sisko](https://open.spotify.com/album/726cvsMISBANq4GBdUzBKL) | 3:29 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 83 | [Sekaisin](https://open.spotify.com/track/17MJxFMzJkmy1f9m1ubTS3) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Sekaisin](https://open.spotify.com/album/1FPmzpbf0RY6x5ermqKC8q) | 2:43 |
 | 84 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 |
 
-Snapshot ID: `Z/FKuQAAAACU5IodfcuyfdPCvnHwec7u`
+Snapshot ID: `Z/N2HQAAAABN5ajGucruBdWv19RJdYmg`

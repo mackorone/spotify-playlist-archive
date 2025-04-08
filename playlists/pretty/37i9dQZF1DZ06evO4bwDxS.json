@@ -1,12 +1,12 @@
 {
   "description": "This is Sabrina Carpenter. The essential tracks, all in one playlist.",
-  "num_followers": 527471,
+  "num_followers": 528070,
   "original_name": "This Is Sabrina Carpenter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAABb++YfkQHm31fPTmzb51Lf",
+  "snapshot_id": "Z/HEAAAAAABfO+hswr3J6pOwo3SWX9f/",
   "tracks": [
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "emails i can\u2019t send fwd:",
-        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 168170,
-      "name": "opposite",
-      "url": "https://open.spotify.com/track/27Jko74ZSVY1kwt0vMY6Pu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EVOLution",
         "url": "https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 216466,
       "name": "Thumbs",
       "url": "https://open.spotify.com/track/6WC5fhc9XMaCrUNKNjm9xE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "emails i can\u2019t send fwd:",
+        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 168170,
+      "name": "opposite",
+      "url": "https://open.spotify.com/track/27Jko74ZSVY1kwt0vMY6Pu"
     },
     {
       "added_at": null,

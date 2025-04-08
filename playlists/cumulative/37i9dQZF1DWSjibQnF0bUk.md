@@ -4,7 +4,7 @@
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-453 songs - 1 day 2 hr 22 min
+454 songs - 1 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Mood](https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Mood](https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp) | 2:36 | 2021-09-10 | 2023-03-18 |
 | [Mood \(feat\. BNXN\)](https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:29 | 2021-09-10 | 2024-02-23 |
 | [MORE PRETTY GIRLS](https://open.spotify.com/track/5hZ9jFs0xXxklLk7zaULNm) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [PINK SUMMER](https://open.spotify.com/album/12MvsNfFvDBDEZTbCfpPpJ) | 3:18 | 2025-03-19 |  |
+| [Most Wanted](https://open.spotify.com/track/5rFZHAhav5kGsSAKtQHRHq) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Most Wanted](https://open.spotify.com/album/1PVWEuIW46WKRMtBnNu0Hv) | 2:22 | 2025-04-07 |  |
 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 | 2023-02-03 |  |
 | [Move](https://open.spotify.com/track/6g8Ztyoym7VNLEzl8alsJK) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Move](https://open.spotify.com/album/3Nt7p3GrkB4QeT1AKONY8U) | 2:30 | 2021-10-15 | 2022-07-17 |
 | [Moyo \(feat\. Costa Titch & Phantom Steeze\)](https://open.spotify.com/track/7ekrjUWevBEalqmms6kM3K) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa), [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S) | [Moyo \(feat\. Costa Titch & Phantom Steeze\)](https://open.spotify.com/album/12PHIJ7XJEjiclcDuljOtE) | 4:12 | 2022-06-16 | 2022-06-25 |
@@ -373,7 +374,7 @@
 | [Smile \(feat\. H.E.R.\)](https://open.spotify.com/track/3Rp8FNCr3yxM3fGFy99LN8) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Smile \(feat\. H.E.R.\)](https://open.spotify.com/album/0QzHIYIoMCUnCKwHqZOmqs) | 4:11 | 2020-08-18 | 2022-04-20 |
 | [So Mi So](https://open.spotify.com/track/2KG2MggKHSVTKR8nLJX8DV) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [So Mi So](https://open.spotify.com/album/3CFZlHqQYt2gEKKc3PcP2Z) | 4:05 | 2020-01-14 |  |
 | [soso](https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:03 | 2023-12-21 | 2024-04-19 |
-| [soso](https://open.spotify.com/track/6rTC6IsG0y0TYoGggKpccz) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN) | 3:03 | 2025-03-19 |  |
+| [soso](https://open.spotify.com/track/6rTC6IsG0y0TYoGggKpccz) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN) | 3:03 | 2025-03-19 | 2025-04-08 |
 | [Southy Love](https://open.spotify.com/track/5fNuSX2WFLQgJ4X5b5qexN) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Southy Love](https://open.spotify.com/album/0IYiZqSbFcLxa5xPMSwKEG) | 3:30 | 2021-03-25 | 2022-07-29 |
 | [Southy Love](https://open.spotify.com/track/06mcgnr3eJ8cF8ed0WfdPA) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Rum & Boogie](https://open.spotify.com/album/0XVVlqghvytvnjjIeZakYC) | 3:30 | 2022-06-09 | 2023-02-12 |
 | [Soweto \(with Don Toliver, Rema & Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 | 2023-03-25 |  |

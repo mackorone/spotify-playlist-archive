@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Feine Sahne Fischfilet
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,168 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,192 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 91 | [Dead Man's Party](https://open.spotify.com/track/3rRpozx2ZA7M3wFpA46BX6) | [Ludo](https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL) | [Dead Man's Party](https://open.spotify.com/album/38oI82wRnQPtqzrnKvPFWO) | 4:18 |
 | 92 | [Sally Brown](https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE) | [Bad Manners](https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx) | [Return Of The Ugly](https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD) | 3:02 |
 | 93 | [Dye My Heart Red](https://open.spotify.com/track/4Hh4Sd8qie1mhNXnrEnyUo) | [Nonoka Obuchi](https://open.spotify.com/artist/3wjWAGHn9Y5dY0JWlsbJz1) | [Dye My Heart Red](https://open.spotify.com/album/6MR2GXhMzVdIbofsollRcm) | 3:14 |
-| 94 | [Bella ciao](https://open.spotify.com/track/5UyQfZSiHhlgEkIHODofsM) | [Skassapunka](https://open.spotify.com/artist/2YkorgCq6sZ6nIcIxaOTsG) | [Rudes Against](https://open.spotify.com/album/4yj9wYRWK5oPOy4cmVMB8j) | 2:48 |
-| 95 | [Lights Out In The Reptile House](https://open.spotify.com/track/0Jh0lA8GmgbfIh0VkMpOp1) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [Lights Out In The Reptile House](https://open.spotify.com/album/0I2NMVIK0TZB5cZMn9gbfa) | 3:04 |
+| 94 | [Lights Out In The Reptile House](https://open.spotify.com/track/0Jh0lA8GmgbfIh0VkMpOp1) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [Lights Out In The Reptile House](https://open.spotify.com/album/0I2NMVIK0TZB5cZMn9gbfa) | 3:04 |
+| 95 | [Bella ciao](https://open.spotify.com/track/5UyQfZSiHhlgEkIHODofsM) | [Skassapunka](https://open.spotify.com/artist/2YkorgCq6sZ6nIcIxaOTsG) | [Rudes Against](https://open.spotify.com/album/4yj9wYRWK5oPOy4cmVMB8j) | 2:48 |
 | 96 | [Guapa](https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl) | [Los Tres Puntos](https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P) | [Si Oh !](https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB) | 2:31 |
 | 97 | [Sweet Loneliness](https://open.spotify.com/track/0CS6MtBUa48ZzYgqJaNf9F) | [Travelers All Stars](https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH) | [Reggae gordo for days and extra days](https://open.spotify.com/album/7AaDhCvk72WXKICLHYDuHC) | 3:52 |
-| 98 | [Yes It's True](https://open.spotify.com/track/7otmuOjM6VPcBbagbJznIw) | [Catbite](https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP), [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Yes It's True](https://open.spotify.com/album/6D70PLpzfIDrILrQDNGsqQ) | 4:03 |
-| 99 | [Katupoikien laulu \(Vain elämää kausi 15\)](https://open.spotify.com/track/6YOvYtaDf0l3kTLYCbmzHW) | [Costello](https://open.spotify.com/artist/6zhuyOhf4YRpaH8cgn6Kxx) | [Katupoikien laulu \(Vain elämää kausi 15\)](https://open.spotify.com/album/3kmAYJO0xJ3L2YVbDCiZTy) | 2:54 |
-| 100 | [Forza St\. Pauli](https://open.spotify.com/track/1vIVckRe3c3AG8gZcmkpwJ) | [Dubtari](https://open.spotify.com/artist/6wuEyZqdfakazd93VqO0YC) | [St\. Pauli \- Einhundert](https://open.spotify.com/album/0y43oaQeNBUccV41cHrBqs) | 3:45 |
+| 98 | [Forza St\. Pauli](https://open.spotify.com/track/1vIVckRe3c3AG8gZcmkpwJ) | [Dubtari](https://open.spotify.com/artist/6wuEyZqdfakazd93VqO0YC) | [St\. Pauli \- Einhundert](https://open.spotify.com/album/0y43oaQeNBUccV41cHrBqs) | 3:45 |
+| 99 | [Yes It's True](https://open.spotify.com/track/7otmuOjM6VPcBbagbJznIw) | [Catbite](https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP), [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Yes It's True](https://open.spotify.com/album/6D70PLpzfIDrILrQDNGsqQ) | 4:03 |
+| 100 | [Katupoikien laulu \(Vain elämää kausi 15\)](https://open.spotify.com/track/6YOvYtaDf0l3kTLYCbmzHW) | [Costello](https://open.spotify.com/artist/6zhuyOhf4YRpaH8cgn6Kxx) | [Katupoikien laulu \(Vain elämää kausi 15\)](https://open.spotify.com/album/3kmAYJO0xJ3L2YVbDCiZTy) | 2:54 |
 
 Snapshot ID: `Z7gWbQAAAAAG/3KE7uzoY7xjxdax6FX6`

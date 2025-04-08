@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2ckx1BRKkKzM7KyRZ3iKZo">Ester Dean</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,459 likes - 164 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,462 likes - 164 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 76 | [Love Suicide \(feat\. Ester Dean\)](https://open.spotify.com/track/6WVXYeXd1O0bCEKxaEh6Si) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Ester Dean](https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM) | [Disc\-Overy](https://open.spotify.com/album/5vfUKFja5yx8a3TlrxjsjW) | 4:07 |
 | 77 | [\(Drop Dead\) Beautiful \(feat\. Sabi\)](https://open.spotify.com/track/5Zvzva2gweeEU46XEeeFSa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Sabi](https://open.spotify.com/artist/3tB8VKd0rtEnc9x8l78ymo) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:36 |
 | 78 | [love gang \(feat\. Charli XCX\)](https://open.spotify.com/track/3jjUphDBlbPzWD3Ft3tya1) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [love gang \(feat\. Charli XCX\)](https://open.spotify.com/album/78fh7LFI68DsHBe5Xt8XFE) | 2:58 |
-| 79 | [We Got The Power](https://open.spotify.com/track/6MW4ahXNEHaIUZ2cdSaslK) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Heal \(2013 Edition\)](https://open.spotify.com/album/7FySrxbb8xtskFg9XbLPc4) | 3:27 |
-| 80 | [Back To The Crib](https://open.spotify.com/track/3PtlDRj2jzwDnAfLgvqaSd) | [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Back To The Crib](https://open.spotify.com/album/0nOS7PmLQLHeNeYd0Iis83) | 4:24 |
+| 79 | [Back To The Crib](https://open.spotify.com/track/3PtlDRj2jzwDnAfLgvqaSd) | [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Back To The Crib](https://open.spotify.com/album/0nOS7PmLQLHeNeYd0Iis83) | 4:24 |
+| 80 | [We Got The Power](https://open.spotify.com/track/6MW4ahXNEHaIUZ2cdSaslK) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Heal \(2013 Edition\)](https://open.spotify.com/album/7FySrxbb8xtskFg9XbLPc4) | 3:27 |
 | 81 | [Lose Control / Let Me Down](https://open.spotify.com/track/4ymZUCAf5qTenKxeOfRSB5) | [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1) | [No Boys Allowed \(All International Partners Deluxe Version\)](https://open.spotify.com/album/7r8oxL7DEEvRGnuKxEKsGe) | 4:49 |
 | 82 | [We Are \- From "Ice Age: Continental Drift"/Theme](https://open.spotify.com/track/6ackm07YejQB4DwuSRjFvR) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [We Are \(From "Ice Age: Continental Drift"/Theme\)](https://open.spotify.com/album/5zeZOKZQwl2nKUEEuUDZTL) | 3:09 |
 | 83 | [Woohoo \(feat\. Nicki Minaj\)](https://open.spotify.com/track/3b7jMtkPU3aPulz6AvBGBD) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Bionic \(Deluxe Version\)](https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H) | 5:28 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 163 | [Hurt Me](https://open.spotify.com/track/18LmvXtZWlNLzuQIqYi3IY) | [Remedy A Cappella](https://open.spotify.com/artist/3JvshbwnBNF1ESTeUVEgcN) | [Waves](https://open.spotify.com/album/7zup9UzCjOqh6wjVfuvpDV) | 3:20 |
 | 164 | [Stay](https://open.spotify.com/track/4bOScAqLDtf06SvJVhOEnw) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Stronger withEach Tear](https://open.spotify.com/album/2W99mgDwgiJRNJnXliJ6uA) | 3:49 |
 
-Snapshot ID: `AbuFXgAAAAAHnRz8TLjTR5tf0YbRDO3R`
+Snapshot ID: `AbuK9AAAAAD2GvMCG33hgALIIf552Vkx`

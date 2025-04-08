@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Lil Yachty, Sexyy Red, Rod Wave and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,233 likes - 48 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,341 likes - 48 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 
 > The cinnamon\-infused, crisp\-air\-breathing, crunchy\-leaves\-walking, chunky\-knit\-wearing, seasonal\-latte\-drinking playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,283 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,247 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 | 43 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 |
 | 44 | [Mess Is Mine](https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:43 |
 | 45 | [Georgia](https://open.spotify.com/track/5YTJXAM6j8jEQ5vC8Q67GL) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 4:07 |
-| 46 | [Autumn Town Leaves](https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Weed Garden](https://open.spotify.com/album/7HsQnwEa1RXoPanfrRPbb3) | 3:15 |
-| 47 | [Maybe October](https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [I Won't Be Your Foe](https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV) | 2:44 |
+| 46 | [Maybe October](https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [I Won't Be Your Foe](https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV) | 2:44 |
+| 47 | [Autumn Town Leaves](https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Weed Garden](https://open.spotify.com/album/7HsQnwEa1RXoPanfrRPbb3) | 3:15 |
 | 48 | [Above the Clouds of Pompeii](https://open.spotify.com/track/4WFh8KiLmaCLu7QwFgTzA2) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Above the Clouds of Pompeii](https://open.spotify.com/album/5dFQx8kMykeP970uW0zlNq) | 4:00 |
 | 49 | [Right Back to It](https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 4:33 |
 | 50 | [Elephant](https://open.spotify.com/track/6eIoIF1c8zjyKg7Yk5n8pA) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [Elephant](https://open.spotify.com/album/0PGtSQPXJc2iZtDcOgiied) | 4:05 |

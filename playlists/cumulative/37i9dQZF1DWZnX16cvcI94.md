@@ -4,7 +4,7 @@
 
 > Los clásicos no pasan de moda\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-84 songs - 5 hr 3 min
+85 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Fiebre \- Prod\. King DouDou](https://open.spotify.com/track/5xtxxuIqInrLDSfjA6Co3o) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Slow Wine Mixtape](https://open.spotify.com/album/0ShnVtpw8BRsf8vzHVQvas) | 4:07 | 2023-05-24 |  |
 | [Flow Natural](https://open.spotify.com/track/2oeyvFG0mFFDHUxhPVObNk) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Deevani](https://open.spotify.com/artist/0vLywSuTQGaeNiq9pN8sD0) | [Top Of The Line](https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb) | 2:53 | 2023-05-24 |  |
 | [Gasolina](https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:12 | 2023-05-24 | 2025-03-11 |
-| [Gata Oficial](https://open.spotify.com/track/4jdwQISB7rhP1EO4JiwnJF) | [Luigi 21 Plus](https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v) | [El Bokisucio](https://open.spotify.com/album/6z9x1lTBNUSF8qCZ7kMiWd) | 3:54 | 2023-05-24 |  |
+| [Gata Oficial](https://open.spotify.com/track/4jdwQISB7rhP1EO4JiwnJF) | [Luigi 21 Plus](https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v) | [El Bokisucio](https://open.spotify.com/album/6z9x1lTBNUSF8qCZ7kMiWd) | 3:54 | 2023-05-24 | 2025-04-08 |
 | [Guaya Guaya](https://open.spotify.com/track/79zvVrn65ksbiGQxrtV4I5) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don II](https://open.spotify.com/album/57mWSm5UtRGT08KeJuyZqu) | 3:13 | 2023-05-24 |  |
 | [Hooka](https://open.spotify.com/track/0BenZn1xELuxhb7Pjwyjxv) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:57 | 2023-05-24 |  |
 | [Igual Que Ayer](https://open.spotify.com/track/2WHctubxf8LzrGr62cLz3d) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Masterpiece: Nuestra Obra Maestra](https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE) | 3:52 | 2023-05-24 |  |
@@ -77,6 +77,7 @@
 | [Rompe](https://open.spotify.com/track/4Xtlw8oXkIOvzV7crUBKeZ) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino En Directo](https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy) | 3:08 | 2023-05-24 |  |
 | [Salió El Sol](https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [King Of Kings](https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5) | 5:15 | 2023-05-24 |  |
 | [Sensacion Del Bloque](https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Randy](https://open.spotify.com/artist/6J4e8oWHITp1msfeyZg66B) | [Reggaeton Rulers: Los Que Ponen](https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da) | 3:02 | 2023-05-24 | 2025-01-26 |
+| [Sexo Seguro](https://open.spotify.com/track/5pOu3vSiKrEmj65N1CWqOI) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Welcome To The Jungle](https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz) | 3:38 | 2023-05-24 |  |
 | [Sexo, Sudor y Calor](https://open.spotify.com/track/4eDjNcAyIuJFhQ31Fvvoc1) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Ñejo & Dalmata](https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I) | [Timeless](https://open.spotify.com/album/2SMYRfGiwQyBgvkpCA2mJU) | 4:10 | 2023-05-24 | 2024-04-19 |
 | [Sexy Movimiento](https://open.spotify.com/track/1Kgyx7NLtzsa3gWV1efGHu) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Wisin Vs Yandel "Los Extraterrestres"](https://open.spotify.com/album/1wqojXZPs45MXFSPlqcVkh) | 3:29 | 2023-05-24 |  |
 | [Shorty](https://open.spotify.com/track/7d05Cx72W1WsWUw7MAD7ia) | [Casa De Leones](https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL) | [Casa De Leones](https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A) | 4:06 | 2023-05-24 | 2025-01-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,485 likes - 18 songs - 58 min 55 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,486 likes - 18 songs - 58 min 55 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

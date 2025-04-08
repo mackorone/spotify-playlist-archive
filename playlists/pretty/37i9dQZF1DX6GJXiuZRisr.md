@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,600,871 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,600,986 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 | 53 | [Quezacotl](https://open.spotify.com/track/24jPquymYcAxmOUXwjJwLk) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Quezacotl](https://open.spotify.com/album/1wU8NaPgbgLvsK8tUA2t2z) | 7:15 |
 | 54 | [Getting Lost](https://open.spotify.com/track/71IxdxUXlRpBrRASkihDZ4) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [GRATIFY](https://open.spotify.com/artist/5vLZlXIqghQxwSIiq3lgnh), [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr) | [Getting Lost](https://open.spotify.com/album/0qdinh0sxfnzRxRa9mzgeB) | 2:41 |
 | 55 | [U&ME](https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [U&ME](https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq) | 3:15 |
-| 56 | [Bloom At Night](https://open.spotify.com/track/1Hz5ZPQxC6esErNVN4cxr6) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Bloom At Night](https://open.spotify.com/album/2Z7t6PxnrVwUICV3qUBRtj) | 3:19 |
-| 57 | [Home](https://open.spotify.com/track/0MgD3dF1BSVHMlVxSUIqJ4) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kiko](https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N), [Olivier Giacomotto](https://open.spotify.com/artist/5tIMc0MdfB2OV6sULOmeao) | [Home](https://open.spotify.com/album/1MRtiNKI4azFae56DMUzRp) | 2:47 |
+| 56 | [Home](https://open.spotify.com/track/0MgD3dF1BSVHMlVxSUIqJ4) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kiko](https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N), [Olivier Giacomotto](https://open.spotify.com/artist/5tIMc0MdfB2OV6sULOmeao) | [Home](https://open.spotify.com/album/1MRtiNKI4azFae56DMUzRp) | 2:47 |
+| 57 | [Bloom At Night](https://open.spotify.com/track/1Hz5ZPQxC6esErNVN4cxr6) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Bloom At Night](https://open.spotify.com/album/2Z7t6PxnrVwUICV3qUBRtj) | 3:19 |
 | 58 | [Biochemical](https://open.spotify.com/track/7nlK1F6iJ3Aih70YkltfJS) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7) | [Biochemical](https://open.spotify.com/album/1oNttAQgPEuS0NfPsdWhaS) | 2:43 |
 | 59 | [Humans](https://open.spotify.com/track/09uGZlo756Ndzq0WIJQ9eS) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Humans](https://open.spotify.com/album/3IMeZdfa9akLXvM2mqJQad) | 4:00 |
 | 60 | [Blue Symphony](https://open.spotify.com/track/6YztQYF4h3cqtF8rNcVWM5) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Blue Symphony](https://open.spotify.com/album/6n7gP0fXV4kDGAEGwJ0xpv) | 3:23 |

@@ -4,7 +4,7 @@
 
 > Dinlemekten vazgeçemediklerin ve en yeni hitler\. Kapak: Gülden
 
-130 songs - 6 hr 43 min
+132 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Ben Değilim](https://open.spotify.com/track/4Fcoc1T0sMSATaxoidF4ei) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Ben Değilim](https://open.spotify.com/album/7sJGFksC9dYJlNG2wELOjt) | 3:42 | 2025-02-03 |  |
 | [Ben Sana Gelemem](https://open.spotify.com/track/3gdY5WFt7i6BWVLie3t6hQ) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Ben Sana Gelemem](https://open.spotify.com/album/6VotTGGtlSzAuy8q5JCSsV) | 3:12 | 2024-07-02 | 2025-01-31 |
 | [Benden Sonra](https://open.spotify.com/track/5uh8vQEAZeIFEYhAg52BNS) | [Rıza Tamer](https://open.spotify.com/artist/6QG6gseQYnxZfSoq42yINJ) | [Benden Sonra](https://open.spotify.com/album/0nvknd97mQC4LvfqwHB6hi) | 2:43 | 2025-04-01 |  |
-| [Beni Hatırla](https://open.spotify.com/track/4mwKj8jNSq8eTp3ylpcBAE) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Yan Yana Fotoğraf Çektirelim](https://open.spotify.com/album/1oZlJEOEkBGW5XxiXKTfdm) | 5:12 | 2024-09-24 |  |
+| [Beni Hatırla](https://open.spotify.com/track/4mwKj8jNSq8eTp3ylpcBAE) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Yan Yana Fotoğraf Çektirelim](https://open.spotify.com/album/1oZlJEOEkBGW5XxiXKTfdm) | 5:12 | 2024-09-24 | 2025-04-08 |
 | [Bir Gün Ol Yerimde](https://open.spotify.com/track/4NYYwPTLIgoyPNG2iu3OrG) | [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Bir Gün Ol Yerimde](https://open.spotify.com/album/2GnkPSkkWAE1tmdHwSLa0b) | 2:49 | 2024-07-02 | 2025-01-31 |
 | [Bir İmkansız Var](https://open.spotify.com/track/6dcYNJRora79VEpUj5S2w4) | [Emrah Karaduman](https://open.spotify.com/artist/7FvMAbdiffitFmbuJN3Vsk), [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Bir İmkansız Var](https://open.spotify.com/album/2nVfIifuijOR2SLCrZecIZ) | 2:32 | 2024-07-02 | 2024-09-25 |
 | [Bir Karanfil](https://open.spotify.com/track/0a56Y5XrlRQ0JYg6jse5QJ) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Bir Karanfil](https://open.spotify.com/album/3Yb6RlZyEkrXfbYjsqFzPb) | 2:53 | 2024-07-02 | 2025-01-14 |
@@ -59,6 +59,7 @@
 | [ESC\*BAR](https://open.spotify.com/track/6kWF1fWqA2ZuWn70TQvtmQ) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [ESC\*BAR](https://open.spotify.com/album/2tTgc2Nt5VOExrRYybuZuI) | 2:16 | 2024-07-08 | 2025-01-21 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-07-02 | 2024-07-09 |
 | [Fark Ettim](https://open.spotify.com/track/4rbXJipz3CaSQwtG3xXzzT) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Fark Ettim](https://open.spotify.com/album/4hnVK5UgO5xWJdwxBwmsFv) | 2:35 | 2024-07-02 | 2024-07-27 |
+| [Farzet](https://open.spotify.com/track/5mL3lm7htBJ2TOlvHm2c5S) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Ben Yaşarım](https://open.spotify.com/album/70jZNJODlWajFGhTRqwCgR) | 4:09 | 2025-04-07 |  |
 | [favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 | 2024-07-02 | 2024-07-30 |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-07-18 | 2024-08-15 |
 | [GELME İSTEMEM](https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [GELME İSTEMEM](https://open.spotify.com/album/3tZxBZL1BaJajOariJZHVF) | 3:06 | 2024-11-04 |  |
@@ -67,7 +68,8 @@
 | [Gözlerinden Gözlerine](https://open.spotify.com/track/3XZDLNS43nxBJ6HmAlVMGp) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Gözlerinden Gözlerine](https://open.spotify.com/album/2FMZfDpMhD6ZCzb1eolrYU) | 2:56 | 2025-02-03 |  |
 | [Güldüğün Gün](https://open.spotify.com/track/4SCe7B8JmbXrrSxphhddPo) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Güldüğün Gün](https://open.spotify.com/album/59NS8Aqr6usY5H6Z5kwCJA) | 2:48 | 2025-01-13 | 2025-02-19 |
 | [Habibi](https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Habibi](https://open.spotify.com/album/0Sy076cJj3zNhy6nEr1PwZ) | 2:40 | 2024-07-02 | 2024-09-25 |
-| [HAVHAVHAV](https://open.spotify.com/track/0126WdGxnrNEqzgUb1wgQH) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [HAVHAVHAV](https://open.spotify.com/album/1fmxQwyTIL74PrfZQwg6nu) | 2:06 | 2025-01-27 |  |
+| [HAVHAVHAV](https://open.spotify.com/track/0126WdGxnrNEqzgUb1wgQH) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [HAVHAVHAV](https://open.spotify.com/album/1fmxQwyTIL74PrfZQwg6nu) | 2:06 | 2025-01-27 | 2025-04-08 |
+| [Hayat Şaşırtır!](https://open.spotify.com/track/2IPxsVjAkqoFXrzwGwUVia) | [Aydilge](https://open.spotify.com/artist/0cjA9XY1jx3RlniZbMkCWy) | [Hayat Şaşırtır!](https://open.spotify.com/album/3apM8VTMPcxfc2ogK3xP4G) | 3:25 | 2025-04-07 |  |
 | [Hayırlı Günler](https://open.spotify.com/track/3ExN5IQsWu2otaXOI3EJGt) | [Aydın Kurtoğlu](https://open.spotify.com/artist/7ymCV8co6nSwmYFEyGmVvJ) | [Pişman](https://open.spotify.com/album/2d36jqTxkiuvdoHCBefUNg) | 3:16 | 2024-07-02 | 2024-11-29 |
 | [HER GÜN AĞLADIM](https://open.spotify.com/track/4K64OOHItyspEsQFLobJqn) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [HER GÜN AĞLADIM](https://open.spotify.com/album/5GaZBROdkVIR1dDGJTLAqS) | 3:52 | 2025-01-20 |  |
 | [HUQQA](https://open.spotify.com/track/3xZxb7EIcNyRmDc8ECaWTl) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [HUQQA](https://open.spotify.com/album/0N9DqfmAxbZreJlgf8eXiU) | 2:07 | 2025-03-11 |  |

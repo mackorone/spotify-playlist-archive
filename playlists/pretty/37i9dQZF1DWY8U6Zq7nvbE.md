@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > Soft and cozy acoustic covers of famous songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,432,499 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,432,457 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 28 | [Closer](https://open.spotify.com/track/2w2pewokxDHk6bktVmz7GH) | [Eric Serenade](https://open.spotify.com/artist/6Hqfwx2sW2vYX6tvA1SMda) | [Closer](https://open.spotify.com/album/1EfRK5vjQxeRyFiDKGgNih) | 3:08 |
 | 29 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 |
 | 30 | [Hell N Back](https://open.spotify.com/track/6ZwapbdaYHnbZ0ZJr79SP7) | [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Hell N Back](https://open.spotify.com/album/7yLDElxlTWwOKPaZ3fTMH6) | 3:21 |
-| 31 | [Somebody That I Used To Know](https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Somebody That I Used To Know](https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl) | 2:52 |
-| 32 | [Chemical](https://open.spotify.com/track/5Gcd6lMtEEW6V9GpmQk6Rk) | [Abbie Parker](https://open.spotify.com/artist/4WL3KimNe6kNw0abLnzpko) | [Chemical](https://open.spotify.com/album/6yqPDHuIhpvgsb6ZCLSi64) | 3:07 |
+| 31 | [Chemical](https://open.spotify.com/track/5Gcd6lMtEEW6V9GpmQk6Rk) | [Abbie Parker](https://open.spotify.com/artist/4WL3KimNe6kNw0abLnzpko) | [Chemical](https://open.spotify.com/album/6yqPDHuIhpvgsb6ZCLSi64) | 3:07 |
+| 32 | [Somebody That I Used To Know](https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Somebody That I Used To Know](https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl) | 2:52 |
 | 33 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/7cMg25mIUyWRpyiFDTdiPi) | [Brassfield](https://open.spotify.com/artist/4VWdngsndsvJd348vi76I0) | [Don't You \(Forget About Me\)](https://open.spotify.com/album/2GGSKP9yuyZRAsygbY8prb) | 2:55 |
 | 34 | [Call Me Maybe \- Acoustic](https://open.spotify.com/track/1CSi4vh5zKb3bN2FtXHa8O) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Call Me Maybe \- Acoustic](https://open.spotify.com/album/1iOPpvvfeNAslLpKHjw9Vr) | 3:30 |
 | 35 | [Heaven](https://open.spotify.com/track/4VY8ztiVMTBjDqaAXCOu9c) | [Claire McCarty](https://open.spotify.com/artist/28GfREYBUSkSAz6dloYO6K) | [Heaven](https://open.spotify.com/album/5iDeC4ftOj2Uy3ed0vGy7x) | 2:49 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dyzSiETSEk.md) - [plain]
 
 > The whole family will enjoy popular hits from yesterday and today!
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,264 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,296 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dyzSiETSEk.md) - [plain]
 | 52 | [Nice to Meet You](https://open.spotify.com/track/6KmrCHbuNOsdoeDOpwetr7) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 3:10 |
 | 53 | [Surface Pressure](https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:22 |
 | 54 | [GOOD FEELiNGS](https://open.spotify.com/track/65wzicJctsW9GwnTnLWxQO) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:37 |
-| 55 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 |
-| 56 | [Speechless](https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:33 |
+| 55 | [Speechless](https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:33 |
+| 56 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 |
 | 57 | [What's My Name](https://open.spotify.com/track/53xAT6jud1w0NqlBjSW4VB) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV), [Thomas Doherty](https://open.spotify.com/artist/4QS6MMKct3F3LkN7cr6vHg), [Dylan Playfair](https://open.spotify.com/artist/3kJ7YsRgaO8ggKD1lw4C2T), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants 2 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/4Rk63Jz61wwbmQru0PdltI) | 3:10 |
 | 58 | [Peaches](https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 1:35 |
 | 59 | [broken](https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [finding it hard to smile](https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4) | 3:24 |

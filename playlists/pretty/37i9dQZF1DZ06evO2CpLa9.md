@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 
 > This is Santa Fe Klan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,670 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,693 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 | 32 | [Mar y Tierra](https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Mar y Tierra](https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w) | 3:05 |
 | 33 | [Todos en la Cuadra Bien Locos \(feat\. C\-kan, Gera MX, Santa Fe Klan & Neto Peña\)](https://open.spotify.com/track/0w1C8mth2DlHIdwMAIxtrl) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 5:49 |
 | 34 | [Mi Religión](https://open.spotify.com/track/3eWUn60vLUf5ibODEpSxat) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Bendecido](https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0) | 3:20 |
-| 35 | [Está Caliente](https://open.spotify.com/track/40q3AqR9WiKOTlA79Iyv9h) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 3:47 |
-| 36 | [De Pies a Cabeza](https://open.spotify.com/track/7iBioaqKNozrqB88QQVoBD) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [De Pies a Cabeza](https://open.spotify.com/album/4eXjEM5eGaxmoRBOYti17F) | 3:18 |
-| 37 | [LMPDGTO](https://open.spotify.com/track/2bHzhgRITAIaZJt3zxe7TY) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [LMPDGTO](https://open.spotify.com/album/70ZFuIv9jzQT0tVlQNeQ9w) | 2:41 |
+| 35 | [De Pies a Cabeza](https://open.spotify.com/track/7iBioaqKNozrqB88QQVoBD) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [De Pies a Cabeza](https://open.spotify.com/album/4eXjEM5eGaxmoRBOYti17F) | 3:18 |
+| 36 | [Está Caliente](https://open.spotify.com/track/40q3AqR9WiKOTlA79Iyv9h) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 3:47 |
+| 37 | [Algo más](https://open.spotify.com/track/6FE1NAMYwkuNJDNPEZ8xez) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [TODO](https://open.spotify.com/album/1ga2yneTMtHivfc7wDKl1W) | 3:12 |
 | 38 | [Hambre](https://open.spotify.com/track/5YketB6cyT36cjgzc0ldu7) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Bendecido](https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0) | 3:13 |
-| 39 | [Algo más](https://open.spotify.com/track/6FE1NAMYwkuNJDNPEZ8xez) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [TODO](https://open.spotify.com/album/1ga2yneTMtHivfc7wDKl1W) | 3:12 |
+| 39 | [LMPDGTO](https://open.spotify.com/track/2bHzhgRITAIaZJt3zxe7TY) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [LMPDGTO](https://open.spotify.com/album/70ZFuIv9jzQT0tVlQNeQ9w) | 2:41 |
 | 40 | [Planta Medicinal](https://open.spotify.com/track/1UpJMfx6fGd6HvZxz9fFjt) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Bubaseta](https://open.spotify.com/artist/7AiFAkvE8VYLDdsmLC78ik) | [Planta Medicinal](https://open.spotify.com/album/34IUdftCspXWGfSQXIvu5E) | 3:47 |
 | 41 | [No Te Metas](https://open.spotify.com/track/341IhTrfJQujky7ovX3hlV) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [No Te Metas](https://open.spotify.com/album/5MHhCvivczCfxuhItlYgbS) | 3:39 |
 | 42 | [Si Aquí Estuvieras](https://open.spotify.com/track/2uH7BbKKG9bzVBuHdL5TB2) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Lich Weezy](https://open.spotify.com/artist/4XiMUcMQp7CjjUX0728Bqu) | [Si Aquí Estuvieras](https://open.spotify.com/album/2BpP4gT2GjPzHNHwlZqlmU) | 5:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 | 49 | [Fotos y Recuerdos](https://open.spotify.com/track/1kW9YAt1Tl5xp1fZZZQ4KL) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Fotos y Recuerdos](https://open.spotify.com/album/70d43jUvjO0nwHpv5jy9Qo) | 3:18 |
 | 50 | [Silencio En El Callejon](https://open.spotify.com/track/4erYu7HwocPKfx8EqcPY9f) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Silencio En El Callejon](https://open.spotify.com/album/60HUuuZMNdeWtayq06B0NG) | 3:00 |
 
-Snapshot ID: `Z/BygAAAAAC6jr/pmBASOdN1i9Momq+I`
+Snapshot ID: `Z/HEAAAAAAAKOJzVNuzZe6iXysTyFJih`

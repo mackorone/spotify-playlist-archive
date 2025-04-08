@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 
 > This is Bastille\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,054 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,063 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,18 +35,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 25 | [The Anchor](https://open.spotify.com/track/0qwpBiu4uhW9hiQ6P4NePz) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:24 |
 | 26 | [Laura Palmer](https://open.spotify.com/track/0V8W7phYnepJBNeSMp8fGd) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:06 |
 | 27 | [Drawbridge & The Baroness](https://open.spotify.com/track/36wxxeCHvKWpTYfNQGkiZW) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w) | 3:41 |
-| 28 | [Quarter Past Midnight](https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Quarter Past Midnight](https://open.spotify.com/album/70p5NvBOkvaxU1UeIxhE1Z) | 3:21 |
-| 29 | [Eurydice \- Dan's Demo](https://open.spotify.com/track/63VenSVwLaeGjG54WM5nYg) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [KAOS \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0pR2sxAtndmhMDOysq0x5j) | 3:29 |
-| 30 | [Those Nights](https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 4:30 |
+| 28 | [Those Nights](https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 4:30 |
+| 29 | [Quarter Past Midnight](https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Quarter Past Midnight](https://open.spotify.com/album/70p5NvBOkvaxU1UeIxhE1Z) | 3:21 |
+| 30 | [Eurydice \- Dan's Demo](https://open.spotify.com/track/63VenSVwLaeGjG54WM5nYg) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [KAOS \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0pR2sxAtndmhMDOysq0x5j) | 3:29 |
 | 31 | [Mademoiselle & The Nunnery Blaze](https://open.spotify.com/track/49FDINhZBMEOguBHw3niyz) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w) | 3:59 |
-| 32 | [Shut Off The Lights](https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Shut Off The Lights](https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7) | 3:07 |
-| 33 | [Thelma + Louise](https://open.spotify.com/track/2BzVkisodhQOPOPVJ9UKEI) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future](https://open.spotify.com/album/2A3BFOsrRHn0VQuafW2zYs) | 2:17 |
+| 32 | [Thelma + Louise](https://open.spotify.com/track/2BzVkisodhQOPOPVJ9UKEI) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future](https://open.spotify.com/album/2A3BFOsrRHn0VQuafW2zYs) | 2:17 |
+| 33 | [Shut Off The Lights](https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Shut Off The Lights](https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7) | 3:07 |
 | 34 | [Won't Let You Go](https://open.spotify.com/track/70F7cMgI25aFyipi4HsjoJ) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Vacation](https://open.spotify.com/album/08RH5oSOsDss5CuJBzaPzz) | 3:54 |
 | 35 | [Intros & Narrators](https://open.spotify.com/track/7pvRue7idajnqTVn0j66A5) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w) | 3:53 |
 | 36 | [Happier \- Sped Up](https://open.spotify.com/track/2as5BO0eobxm7Zvelm2nHN) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Happier \(Slowed + Reverb\)](https://open.spotify.com/album/13w2ClweyAqn0sAdeyLnyQ) | 3:07 |
 | 37 | [Bad Decisions](https://open.spotify.com/track/4OAxg8dC0yvuTp2A6vHrPF) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 3:09 |
 | 38 | [Blame](https://open.spotify.com/track/7yrx5A6zDOsd7Bn02WvbLH) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 2:55 |
-| 39 | [Red Wine & Wilde](https://open.spotify.com/track/32M3aV3sNRsNQpzuEhh9T6) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w) | 3:41 |
+| 39 | [Essie & Paul](https://open.spotify.com/track/0CjGEiQSSzaewLVuvKTj1d) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w) | 3:37 |
 | 40 | [Back To The Future](https://open.spotify.com/track/2i6j4kdRKZV4Y62I2bD1QC) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future](https://open.spotify.com/album/2Jxhndt77Zu0Y5TVXM37ho) | 2:53 |
 | 41 | [Pompeii \- Audien Remix](https://open.spotify.com/track/2Kl1E3NdbzT7vVi93TffoX) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE) | [Pompeii \(Audien Remix\)](https://open.spotify.com/album/4QJKyqHqUUBWEGYD7wekvU) | 5:52 |
 | 42 | [Lethargy](https://open.spotify.com/track/28mBT1l5sJrfSWn8KM3JLT) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 49 | [WHAT YOU GONNA DO???](https://open.spotify.com/track/31brGBYDq5N15VxIn5juop) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC) | [WHAT YOU GONNA DO???](https://open.spotify.com/album/60qrudaXQ3p7R3gX4ctAdD) | 2:11 |
 | 50 | [Warmth](https://open.spotify.com/track/4hVJIlulH29qKVYGCT6cky) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:49 |
 
-Snapshot ID: `Z/BygAAAAADRDrhnOaTxIRg07DjycG6b`
+Snapshot ID: `Z/HEAAAAAAALFhqU7Rl+dUn+CGWy5oF7`

@@ -4,7 +4,7 @@
 
 > All the best instrumentals & sounds from the internet gathered in one perfect chill out playlist 🫀
 
-99 songs - 5 hr 1 min
+101 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [American Beauty](https://open.spotify.com/track/6XJGpirOP4Bgurcvkdanxb) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [American Beauty \(Original Motion Picture Score\)](https://open.spotify.com/album/11y3Dzg44npGsTWKtmuzTW) | 3:06 | 2025-03-21 |  |
 | [Another Year](https://open.spotify.com/track/1yNM4fnj0ixfRn6EIPJi9F) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Another Year](https://open.spotify.com/album/6O6RtPJPOFiQvYeGXFJzBN) | 2:07 | 2025-02-27 |  |
 | [aquatic ambience](https://open.spotify.com/track/1AeAJE0BNsq9jyssQDsUZ9) | [Scizzie](https://open.spotify.com/artist/53msUMObYuyAsfh4IUsO9P) | [aquatic ambience](https://open.spotify.com/album/37TyoGJBPVUWVCILvLQ3rj) | 2:03 | 2025-02-27 |  |
+| [Aria Math](https://open.spotify.com/track/4K0odcECsBvgzv9Lr9z4kd) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Beta](https://open.spotify.com/album/7CYDRyFCKtAYJBSpfovLyX) | 5:10 | 2025-04-07 |  |
 | [Arizona Dreaming \(Remastered\)](https://open.spotify.com/track/6Nm0rAKmNftfSu5EWjPgH5) | [Piero Piccioni](https://open.spotify.com/artist/2WPn0emjr8XPmMOT0bBcPe) | [Se incontri Sartana prega per la tua morte \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4uxfz2buC4oVMGxKbeI9ET) | 1:08 | 2025-03-07 |  |
 | [Autumn Leaves](https://open.spotify.com/track/2iUrcZcAuVIahQD0dg9HLe) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [My Funny Valentine: The Best Of Chet Baker](https://open.spotify.com/album/1N1slntg5Bz5fe9S5S1R3t) | 7:03 | 2025-02-27 |  |
 | [Birds of a Feather \- Vibey](https://open.spotify.com/track/1nhyEpLzRM7FshFSzPIPe4) | [Sunset Party](https://open.spotify.com/artist/0iZJq4OfXSTsfrC7OdUjQh) | [Birds of a Feather \(Vibey\)](https://open.spotify.com/album/7Kys4LZudmEHG0FZl30djo) | 2:50 | 2025-03-07 |  |
@@ -91,6 +92,7 @@
 | [Someplace](https://open.spotify.com/track/53oPqhuArTdYQt4RE1GdFM) | [Emiliano Blangero](https://open.spotify.com/artist/0ozINzRhAnzU4nRWUGJBcc) | [Someplace](https://open.spotify.com/album/54IK9h4s6jh9yMqGrtEdn5) | 3:01 | 2025-04-04 |  |
 | [staring contest](https://open.spotify.com/track/5X3KZZrT6nBpwSBr0SY26L) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy) | [don't look down](https://open.spotify.com/album/0pIgfIY5VrYdzAlliFnWdl) | 1:25 | 2025-02-27 |  |
 | [stellar](https://open.spotify.com/track/2PpYJcgJN6PzozUv7rU669) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur), [énouement](https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU) | [stellar](https://open.spotify.com/album/4gF0aKdd26DsLMbDcLdJdc) | 1:39 | 2025-03-07 |  |
+| [Subwoofer Lullaby](https://open.spotify.com/track/1OJxI8lIWRqBvouJxW1nzN) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 3:28 | 2025-04-07 |  |
 | [Succession \(Main Title Theme\)](https://open.spotify.com/track/0bSHwuTOZVJUXWT03H9oD2) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Succession: Season 1 \(HBO Original Series Soundtrack\)](https://open.spotify.com/album/7IONINkxycqA3eIKlVZ7Bj) | 1:42 | 2025-02-27 |  |
 | [Sunday](https://open.spotify.com/track/6hljcHcXCHYsYJph2WmENk) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8) | 3:00 | 2025-02-27 |  |
 | [Swimming](https://open.spotify.com/track/0sTjyzgd2K5htQpU8ienNe) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Swimming](https://open.spotify.com/album/7dGLag4xmWGKjyokzYJP8q) | 3:08 | 2025-02-27 |  |

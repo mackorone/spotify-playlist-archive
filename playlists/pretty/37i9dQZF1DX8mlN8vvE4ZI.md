@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 
 > Intertwine with the soul stirring strings of the Sitar, from Indian maestros & modern geniuses\. Cover : Mehtab Ali Niazi
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,370 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,373 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 | 17 | [5th Gear](https://open.spotify.com/track/5kQzb3hVQUBa5pk5WhT1KU) | [Rajhesh Vaidhya](https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL) | [5th Gear](https://open.spotify.com/album/3ZIc6Y7x7ETamH9b2nF4px) | 5:19 |
 | 18 | [Shankara](https://open.spotify.com/track/5jHb5VUjOepNc8DbwXkhYQ) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu) | [Shankara](https://open.spotify.com/album/3CekrxmBD7TNAi9Ddok85O) | 1:55 |
 | 19 | [Sitar Desh](https://open.spotify.com/track/74KQTFppDkD7jYakAgdQ5Q) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 5](https://open.spotify.com/album/5lSKOHtzMpxfh1nVr53dGI) | 3:35 |
-| 20 | [Yentha Prema \(Sitar Instrumental\)](https://open.spotify.com/track/6LxJvtF1DPZtCDj60DIWul) | [Raj Prakash Paul](https://open.spotify.com/artist/5pCZk4EhxyQ17HZS5Vom2e) | [Prakshalana](https://open.spotify.com/album/4V6pKFwkz1mtvVAmMCcoTD) | 1:35 |
-| 21 | [Stoney Sitar](https://open.spotify.com/track/3Jm1yN30e4Q1BVdnpsAPpW) | [Sitar Water](https://open.spotify.com/artist/48heZtys7Y8VCsIdVLQ6Ak) | [Stoney Sitar](https://open.spotify.com/album/3l4WUfnEoaPxoUC0JSjYCV) | 9:03 |
+| 20 | [Stoney Sitar](https://open.spotify.com/track/3Jm1yN30e4Q1BVdnpsAPpW) | [Sitar Water](https://open.spotify.com/artist/48heZtys7Y8VCsIdVLQ6Ak) | [Stoney Sitar](https://open.spotify.com/album/3l4WUfnEoaPxoUC0JSjYCV) | 9:03 |
+| 21 | [Yentha Prema \(Sitar Instrumental\)](https://open.spotify.com/track/6LxJvtF1DPZtCDj60DIWul) | [Raj Prakash Paul](https://open.spotify.com/artist/5pCZk4EhxyQ17HZS5Vom2e) | [Prakshalana](https://open.spotify.com/album/4V6pKFwkz1mtvVAmMCcoTD) | 1:35 |
 | 22 | [Hum Bewafa Hargiz Na Thay \- Unwind Instrumental](https://open.spotify.com/track/3VoE9lBw3UO1rBSg0Z31KY) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Amazing Sitar](https://open.spotify.com/album/6rBwhmo3y8z62CWFyzE2s0) | 4:47 |
 | 23 | [Tantric Bliss / Sitar and Tabla](https://open.spotify.com/track/4ni1OURmXaoq3YWxfK9e2D) | [Relaxing Guitar for Massage, Yoga, and Meditation](https://open.spotify.com/artist/4WODuSdwIPGqA4HfBU8bag) | [Acoustic Ascension 3](https://open.spotify.com/album/71LW4bsnEwuJ6BjgcZRz2H) | 9:06 |
 | 24 | [Roslyn](https://open.spotify.com/track/22cBDYBb3HYmp3aCxvJQEI) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu) | [Roslyn](https://open.spotify.com/album/3bsbAbviduNFYBPMzVoMGp) | 3:17 |
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 | 33 | [Rag: Piloo](https://open.spotify.com/track/6OhLKq3TEFW0JAYFXtzEwa) | [The Silver Sitar](https://open.spotify.com/artist/1Ja5V07Xm1AS9HKg7uaJO0) | [Sitar & Tabla: Music of India](https://open.spotify.com/album/1XcwgOx2s1ksPVPrVnn7Kk) | 5:16 |
 | 34 | [Inspiration](https://open.spotify.com/track/67XJ39k65gnMALcoiKLe9r) | [Chirag Katti](https://open.spotify.com/artist/10TUORRjZ8DeHwsa5DLzvo) | [Inspiration](https://open.spotify.com/album/69qEVU3jV5p0NVpfA5q8rO) | 6:56 |
 | 35 | [Sitar Todi](https://open.spotify.com/track/0OhQFqc2Gfvv8qr7Z3Kzlw) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 5](https://open.spotify.com/album/5lSKOHtzMpxfh1nVr53dGI) | 2:46 |
-| 36 | [Raga Gaoti](https://open.spotify.com/track/4slENTEDQUIeyeSU8OnZsE) | [Nishat Khan](https://open.spotify.com/artist/44XDC1eZWRjnCvpiAFSRQm) | [Raga Khan](https://open.spotify.com/album/6WtSHMIpnsc3MNAgiyQ4N4) | 8:51 |
-| 37 | [Ayyappa Ashtakam](https://open.spotify.com/track/0D4ihckiXf3dIKhBm2YXaH) | [Sitar Heroes](https://open.spotify.com/artist/4HrMXro3GNDu8YBAjc9doe) | [Buddha Sitar Favorites](https://open.spotify.com/album/2kCpZPBUMJVjBavzZcc6qO) | 2:52 |
-| 38 | [Beauty of Sitar](https://open.spotify.com/track/2oiDabX1G8jnfHFp0DKSCs) | [Mystical Guide, Loner Wolf](https://open.spotify.com/artist/03HrV5fn9Geiko3dYxp5V6) | [The Pleasurable Mind in Healing Music](https://open.spotify.com/album/4RYWdk5wvqf4GHRDI8fy8x) | 2:20 |
+| 36 | [Ayyappa Ashtakam](https://open.spotify.com/track/0D4ihckiXf3dIKhBm2YXaH) | [Sitar Heroes](https://open.spotify.com/artist/4HrMXro3GNDu8YBAjc9doe) | [Buddha Sitar Favorites](https://open.spotify.com/album/2kCpZPBUMJVjBavzZcc6qO) | 2:52 |
+| 37 | [Raga Gaoti](https://open.spotify.com/track/4slENTEDQUIeyeSU8OnZsE) | [Nishat Khan](https://open.spotify.com/artist/44XDC1eZWRjnCvpiAFSRQm) | [Raga Khan](https://open.spotify.com/album/6WtSHMIpnsc3MNAgiyQ4N4) | 8:51 |
+| 38 | [Devotion](https://open.spotify.com/track/0yTG25aRENPb5LZ6gLrnIp) | [Sitar A Seyer Otsenre](https://open.spotify.com/artist/7s77nmdi7381TXW14TdSmk) | [Sitar Eternal Circle](https://open.spotify.com/album/7bIFyBoxUZ0sWNyGQhrfTz) | 6:53 |
 | 39 | [Raag Hansadhwani \- Raag \- Hansadhwani \- Live](https://open.spotify.com/track/0JQX9g5zVXcqtzJksDF7qD) | [Mehtab Ali Niazi](https://open.spotify.com/artist/0VeyExXFhPsEQAqH9uyKWK) | [Raag Hansadhwani \(Live\)](https://open.spotify.com/album/0x0ixMEcuN7Qoa9m0bgYp5) | 9:34 |
-| 40 | [Devotion](https://open.spotify.com/track/0yTG25aRENPb5LZ6gLrnIp) | [Sitar A Seyer Otsenre](https://open.spotify.com/artist/7s77nmdi7381TXW14TdSmk) | [Sitar Eternal Circle](https://open.spotify.com/album/7bIFyBoxUZ0sWNyGQhrfTz) | 6:53 |
+| 40 | [Beauty of Sitar](https://open.spotify.com/track/2oiDabX1G8jnfHFp0DKSCs) | [Mystical Guide, Loner Wolf](https://open.spotify.com/artist/03HrV5fn9Geiko3dYxp5V6) | [The Pleasurable Mind in Healing Music](https://open.spotify.com/album/4RYWdk5wvqf4GHRDI8fy8x) | 2:20 |
 | 41 | [Best Sitar Music](https://open.spotify.com/track/4RvwQkxmTl1SjNH1WXWFgS) | [Adho Vrikshasana](https://open.spotify.com/artist/3HEuFjuF3gbxD2pj6evcHx) | [Indian Instrumental Music: Indian Soft Music for Relaxation, Indian Yoga Music](https://open.spotify.com/album/2wMo20oHMXtq5yV9ymis44) | 6:12 |
 | 42 | [Sanctuary \- Sitar Meditation](https://open.spotify.com/track/5YXTDeGgp7U8pMLZIhQq52) | [Meditation Mantras Guru](https://open.spotify.com/artist/1bF3IgxBQw61FRqeyuvq7b) | [Quin Yin: Many Faces of the Goddess, 50 Reiki Healing Music & Relaxing Sounds \(Absolute Feng Shui, Life in Harmony, Chakra of the Heart, Yoga & Meditation\)](https://open.spotify.com/album/4lov37f9GSk3d2snAYruCu) | 3:49 |
 | 43 | [Sitar Theme](https://open.spotify.com/track/3d97zTIcKA0mDhx53c1uix) | [ROR](https://open.spotify.com/artist/0r6xzCyrNCABaaNTAgJiyK) | [Indian Spirit \- Best In Lounge & Fusion](https://open.spotify.com/album/4AmtN0w852r7Qzz0bPBz4j) | 5:41 |

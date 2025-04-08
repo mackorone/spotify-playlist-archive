@@ -350,7 +350,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 312000,
       "name": "Beni Hat\u0131rla",
       "url": "https://open.spotify.com/track/4mwKj8jNSq8eTp3ylpcBAE"
@@ -995,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Ben Ya\u015far\u0131m",
+        "url": "https://open.spotify.com/album/70jZNJODlWajFGhTRqwCgR"
+      },
+      "artists": [
+        {
+          "name": "Sertab Erener",
+          "url": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249226,
+      "name": "Farzet",
+      "url": "https://open.spotify.com/track/5mL3lm7htBJ2TOlvHm2c5S"
+    },
+    {
+      "album": {
         "name": "favorite",
         "url": "https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7"
       },
@@ -1158,10 +1176,28 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 126255,
       "name": "HAVHAVHAV",
       "url": "https://open.spotify.com/track/0126WdGxnrNEqzgUb1wgQH"
+    },
+    {
+      "album": {
+        "name": "Hayat \u015ea\u015f\u0131rt\u0131r!",
+        "url": "https://open.spotify.com/album/3apM8VTMPcxfc2ogK3xP4G"
+      },
+      "artists": [
+        {
+          "name": "Aydilge",
+          "url": "https://open.spotify.com/artist/0cjA9XY1jx3RlniZbMkCWy"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205699,
+      "name": "Hayat \u015ea\u015f\u0131rt\u0131r!",
+      "url": "https://open.spotify.com/track/2IPxsVjAkqoFXrzwGwUVia"
     },
     {
       "album": {

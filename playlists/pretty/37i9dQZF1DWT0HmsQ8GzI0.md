@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 
 > Zenék, amik félreugranak a műfaji határok elől\. Cover: Aron Andras
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,597 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,600 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,097,191 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,097,580 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 87 | [Waiting In Vain](https://open.spotify.com/track/7FILn9Akg2468HPNsRZCkq) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(The Definitive Remasters\)](https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9) | 4:16 |
 | 88 | [Murder She Wrote \(Original Mix\)](https://open.spotify.com/track/0p4uJwIIGfN3tfTFvwALwB) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm), [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Murder She Wrote Single](https://open.spotify.com/album/4cEHufQKt2Mqojs9SMwUWQ) | 4:07 |
 | 89 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/7kTvXtMERxvwCGcWv68ssH) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Bad To The Bone](https://open.spotify.com/album/5YEv101kdWy8liOvCZWtzy) | 3:46 |
-| 90 | [Pressure Drop](https://open.spotify.com/track/7cfILJJHW9ZSkbM2ywLhiN) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Reggae Greats \- Toots & The Maytals](https://open.spotify.com/album/3XeZ3oRelxBvhhHzfzlRMj) | 2:54 |
+| 90 | [Police & Thieves](https://open.spotify.com/track/3cnvTMZRhkbzea0KC4Y4We) | [Junior Murvin](https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34) | [Police And Thieves](https://open.spotify.com/album/6iLaRkExmcC6BvxqCk2BTt) | 4:04 |
 | 91 | [Travelling Man \- Version 1](https://open.spotify.com/track/5uhpcQw9HfN4TMmYaAgxmh) | [Techniques](https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:32 |
-| 92 | [Police & Thieves](https://open.spotify.com/track/3cnvTMZRhkbzea0KC4Y4We) | [Junior Murvin](https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34) | [Police And Thieves](https://open.spotify.com/album/6iLaRkExmcC6BvxqCk2BTt) | 4:04 |
+| 92 | [Pressure Drop](https://open.spotify.com/track/7cfILJJHW9ZSkbM2ywLhiN) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Reggae Greats \- Toots & The Maytals](https://open.spotify.com/album/3XeZ3oRelxBvhhHzfzlRMj) | 2:54 |
 | 93 | [You Can Get It If You Really Want](https://open.spotify.com/track/2QKh6t4JnWeTnzQpkNXhzW) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come](https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K) | 2:38 |
 | 94 | [I Shot The Sheriff](https://open.spotify.com/track/7bnRX1ObyGzzSuOWrNFLWw) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(The Definitive Remasters\)](https://open.spotify.com/album/6axWF6fhMuB7pXAUONbGLE) | 4:41 |
 | 95 | [Jamming](https://open.spotify.com/track/0fF0HtZGSXZgGrC6b7Pq4I) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Gold](https://open.spotify.com/album/3Nvfpup2KU1NjD4uVEbxzz) | 3:34 |
-| 96 | [Lips of Wine](https://open.spotify.com/track/2Wv7ETWvaAmsQT2hk0Hk76) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Super Reggae & Soul Hits](https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP) | 2:43 |
-| 97 | [54\-46 Was My Number](https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:10 |
-| 98 | [Life](https://open.spotify.com/track/2OW7O0i5KH33BUiDod0gve) | [Bob Andy](https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4) | [Pied Piper \- The Best of Bob & Marcia](https://open.spotify.com/album/0G2bhhYFafOJExUbKOVcsA) | 3:42 |
-| 99 | [The Tide Is High \- Stereo Version](https://open.spotify.com/track/7056gVvC7P3PpltHgippd2) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 2:41 |
-| 100 | [Dream Land](https://open.spotify.com/track/1haHZa75ytryLGUOtHiGl5) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Blackheart Man](https://open.spotify.com/album/0Z3LzsnqFDWU10sTu31Cfm) | 2:45 |
+| 96 | [54\-46 Was My Number](https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:10 |
+| 97 | [Lips of Wine](https://open.spotify.com/track/2Wv7ETWvaAmsQT2hk0Hk76) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Super Reggae & Soul Hits](https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP) | 2:43 |
+| 98 | [Sky Larking](https://open.spotify.com/track/5xMGVCPC8fptCrhBGqeFxa) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Super Best](https://open.spotify.com/album/3VJPuMBy1fB1LzT7Uf9CBH) | 3:01 |
+| 99 | [Life](https://open.spotify.com/track/2OW7O0i5KH33BUiDod0gve) | [Bob Andy](https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4) | [Pied Piper \- The Best of Bob & Marcia](https://open.spotify.com/album/0G2bhhYFafOJExUbKOVcsA) | 3:42 |
+| 100 | [The Tide Is High \- Stereo Version](https://open.spotify.com/track/7056gVvC7P3PpltHgippd2) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 2:41 |
 
 Snapshot ID: `ZpD3ewAAAAACK7wL7fZWgqex9tmET56j`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,054 likes - 70 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,106 likes - 70 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [She Was a Doorman](https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Trilogy, Vol\. 1](https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP) | 4:03 |
 | 2 | [Rollin' On](https://open.spotify.com/track/4PrEiwUcs8jMOAk1b5BueL) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends](https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2) | 5:08 |
-| 3 | [Good Love Had To Die](https://open.spotify.com/track/3waUNDqqEcv8GFLr6w3YNz) | [Gráinne Duffy](https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y) | [Out Of The Dark](https://open.spotify.com/album/00EueLV9XQ46OWV5EnOPlt) | 3:35 |
-| 4 | [Train](https://open.spotify.com/track/2OSgMSxdu1OgPWZmjSICtt) | [Shanice Green](https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb) | [Train](https://open.spotify.com/album/30441czI78xULystFpO9p5) | 3:52 |
+| 3 | [Train](https://open.spotify.com/track/2OSgMSxdu1OgPWZmjSICtt) | [Shanice Green](https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb) | [Train](https://open.spotify.com/album/30441czI78xULystFpO9p5) | 3:52 |
+| 4 | [Good Love Had To Die](https://open.spotify.com/track/3waUNDqqEcv8GFLr6w3YNz) | [Gráinne Duffy](https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y) | [Out Of The Dark](https://open.spotify.com/album/00EueLV9XQ46OWV5EnOPlt) | 3:35 |
 | 5 | [Blues Is My Best Friend](https://open.spotify.com/track/7mojGTeQExwHDVLPAecQVJ) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM) | [Real Gone](https://open.spotify.com/album/53kQpuZzu1Yd5gyBtfgvr6) | 3:39 |
 | 6 | [Fire](https://open.spotify.com/track/70VSFe3tTnCLpue9StG69U) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Fire](https://open.spotify.com/album/2RisnGnqdl2KmkWlskYfdt) | 3:48 |
 | 7 | [Black Myself](https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:21 |
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 17 | [That's All Right](https://open.spotify.com/track/6mnNzspvGs07xahHtjKShp) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [That's All Right](https://open.spotify.com/album/2asRe9Gst5dPh1OPwdHg2R) | 2:59 |
 | 18 | [Open Eyes](https://open.spotify.com/track/27Hps0EsBwR2ImKIiJfC95) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Moon Goes Missing](https://open.spotify.com/album/3HTWMRiLGpWPb0YYNAHprh) | 5:21 |
 | 19 | [Sweet 'Lil Lies](https://open.spotify.com/track/4nhOHTX4tKPt0qLAjwPkz8) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Heavy Soul](https://open.spotify.com/album/5aB8PFHLBHOLWfrSGGGIjF) | 5:17 |
-| 20 | [It Ain't Easy](https://open.spotify.com/track/2e58JCJzmWLtlLt0320MVp) | [Muddy Magnolias](https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X) | [Broken People](https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr) | 4:11 |
-| 21 | [Please Come On Inside](https://open.spotify.com/track/2DdpwpB9Pw4yiPQmrijHYj) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Please Come On Inside](https://open.spotify.com/album/0e9xNTI1NdsipqtLvJPPFu) | 4:52 |
+| 20 | [Please Come On Inside](https://open.spotify.com/track/2DdpwpB9Pw4yiPQmrijHYj) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Please Come On Inside](https://open.spotify.com/album/0e9xNTI1NdsipqtLvJPPFu) | 4:52 |
+| 21 | [It Ain't Easy](https://open.spotify.com/track/2e58JCJzmWLtlLt0320MVp) | [Muddy Magnolias](https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X) | [Broken People](https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr) | 4:11 |
 | 22 | [Shut Your Mouth and Do Something](https://open.spotify.com/track/5rbX4du6LNRAvMm0zCIPCV) | [Ali Handal](https://open.spotify.com/artist/5JG9RkDazTt64kyVpQDc5N) | [Shut Your Mouth and Do Something](https://open.spotify.com/album/7iMlb5kEboQwsdOjbaa6of) | 3:20 |
 | 23 | [How Did We Get To Goodbye](https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [How Did We Get To Goodbye](https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq) | 4:39 |
-| 24 | [Leave Me Alone](https://open.spotify.com/track/4pvtn6rUZEL9hranwiaZ5d) | [Eden Brent](https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx) | [Ain't Got No Troubles](https://open.spotify.com/album/6JEnQsmFamUPoYEWn3HW8x) | 3:52 |
-| 25 | [Made Up Mind](https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Made Up Mind](https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh) | 3:40 |
+| 24 | [Made Up Mind](https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Made Up Mind](https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh) | 3:40 |
+| 25 | [Leave Me Alone](https://open.spotify.com/track/4pvtn6rUZEL9hranwiaZ5d) | [Eden Brent](https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx) | [Ain't Got No Troubles](https://open.spotify.com/album/6JEnQsmFamUPoYEWn3HW8x) | 3:52 |
 | 26 | [Drag Me Back In](https://open.spotify.com/track/1NBT9s0MCm99zja0rfoUpd) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [State of Mind](https://open.spotify.com/album/5VbKTiwTdqTSRsHGlY8lyO) | 2:44 |
 | 27 | [Release and Be Free](https://open.spotify.com/track/7d1ZzOIyACB64aEibmWfH7) | [Kelley Hunt](https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv) | [The Beautiful Bones](https://open.spotify.com/album/5a1VvpMgW0Mz0FDVOYOV38) | 4:24 |
 | 28 | [Woman](https://open.spotify.com/track/5yAGJ1mWBFihXhvOJ4VYU8) | [Wiyaala](https://open.spotify.com/artist/0Ttf480Uumk6ylOAokG2h7) | [Woman](https://open.spotify.com/album/3HWjeQxqdhEPVyoKgGYse2) | 4:28 |

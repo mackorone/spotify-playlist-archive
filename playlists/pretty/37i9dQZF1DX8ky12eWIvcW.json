@@ -1,6 +1,6 @@
 {
   "description": "Turn up with the biggest party tracks of yesteryear.",
-  "num_followers": 2712664,
+  "num_followers": 2712945,
   "original_name": "Throwback Jams",
   "owner": {
     "name": "Spotify",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-03-18 22:43:53",
       "album": {
+        "name": "Good Girl Gone Bad",
+        "url": "https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 267080,
+      "name": "Don't Stop The Music",
+      "url": "https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn"
+    },
+    {
+      "added_at": "2025-03-18 22:43:53",
+      "album": {
         "name": "Life After Death (2014 Remastered Edition)",
         "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 257399,
       "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
       "url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz"
-    },
-    {
-      "added_at": "2025-03-18 22:43:53",
-      "album": {
-        "name": "Good Girl Gone Bad",
-        "url": "https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 267080,
-      "name": "Don't Stop The Music",
-      "url": "https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn"
     },
     {
       "added_at": "2025-03-18 22:43:53",

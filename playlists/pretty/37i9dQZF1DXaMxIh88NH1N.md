@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMxIh88NH1N.md) - [plain]
 
 > ¡Al cien para un buen ejercicio!
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,909 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,010 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMxIh88NH1N.md) - [plain]
 | 79 | [El Vals Del Olvido](https://open.spotify.com/track/71V6u8mPSydvEokO7XYqG6) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:29 |
 | 80 | [GTA](https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Corridos Bélicos, Vol\. IV \(Versión Deluxe\)](https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8) | 2:33 |
 | 81 | [El Amor De Mi Herida](https://open.spotify.com/track/0QCTjU9xOvdDfe9LXEmxeT) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 2:07 |
-| 82 | [Lo Que Hay X Aquí](https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Lo Que Hay X Aquí](https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN) | 2:38 |
+| 82 | [FIRST LOVE](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [FIRST LOVE](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 |
 | 83 | [Si Fuera Fácil](https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Si Fuera Fácil](https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE) | 2:50 |
-| 84 | [FIRST LOVE](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [FIRST LOVE](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 |
+| 84 | [Lo Que Hay X Aquí](https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Lo Que Hay X Aquí](https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN) | 2:38 |
 | 85 | [Sin Ti](https://open.spotify.com/track/22CILLfATiWSO8NsyOhJp3) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:45 |
 | 86 | [El Gordo Trae El Mando](https://open.spotify.com/track/6SvAvDIzS5ZWBagkc7XOgp) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Que Sigan Llegando Las Pacas \(Extended\)](https://open.spotify.com/album/0IeCqguWKSslODbwnrelhq) | 1:52 |
 | 87 | [La Víctima](https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Víctima](https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr) | 2:36 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMxIh88NH1N.md) - [plain]
 | 96 | [Que Te Vaya Bien](https://open.spotify.com/track/5Ei8EK2uXNkqqVSe2QYsFp) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh) | 2:31 |
 | 97 | [Corazón de Piedra](https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Corazón de Piedra](https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so) | 3:13 |
 | 98 | [Natanael Cano: Bzrp Music Sessions, Vol\. 59](https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Natanael Cano: Bzrp Music Sessions, Vol\. 59](https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90) | 2:35 |
-| 99 | [Aquí Hay Para Llevar](https://open.spotify.com/track/5Lz26MOU0fyTS1vEThTaUf) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Aquí Hay Para Llevar](https://open.spotify.com/album/3KJItKYr9JhxYjYI4U5J7E) | 2:59 |
-| 100 | [Mentiras](https://open.spotify.com/track/3jRZg6U0m9Ir115Wt66ebU) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Pura Manzanita Vol\. 3](https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7) | 3:54 |
+| 99 | [Mentiras](https://open.spotify.com/track/3jRZg6U0m9Ir115Wt66ebU) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Pura Manzanita Vol\. 3](https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7) | 3:54 |
+| 100 | [Aquí Hay Para Llevar](https://open.spotify.com/track/5Lz26MOU0fyTS1vEThTaUf) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Aquí Hay Para Llevar](https://open.spotify.com/album/3KJItKYr9JhxYjYI4U5J7E) | 2:59 |
 
 Snapshot ID: `Z9O/OAAAAACJbiEiGoN+iF0N1OiNNV6K`

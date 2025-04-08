@@ -961,6 +961,24 @@
     },
     {
       "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/30woklkKadyGtPaHHELF6f"
+      },
+      "artists": [
+        {
+          "name": "Bellamy Trevor",
+          "url": "https://open.spotify.com/artist/4piLbslIVY3r0EHMAAqipD"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175387,
+      "name": "Fever Dream",
+      "url": "https://open.spotify.com/track/2hO6CqpWjPBEzOGDk4eXIw"
+    },
+    {
+      "album": {
         "name": "Fly-day Chinatown",
         "url": "https://open.spotify.com/album/0dO2tsQmsZzsPnR9qDWTlP"
       },

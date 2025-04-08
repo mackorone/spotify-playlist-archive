@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸  KALASET
 
-188 songs - 9 hr 55 min
+189 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [4\. sal](https://open.spotify.com/track/0c4Wvo36qvLm1G2GzIhWY3) | [Gunge](https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN) | [4\. sal](https://open.spotify.com/album/6QXbMT5OaF07K6AcDc8SZK) | 2:39 | 2025-02-13 | 2025-02-23 |
 | [A thousand lies](https://open.spotify.com/track/3g0lxrU7wv7j64QLAt2Krc) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [A thousand lies](https://open.spotify.com/album/11xRSNFhiIlci4YT9rXrBc) | 4:11 | 2025-02-20 |  |
 | [All I need](https://open.spotify.com/track/0DLnqDq2PvM2SNxBUgAnlU) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Desires](https://open.spotify.com/album/5a8vdQ9RT5KvGmwGqWy3jD) | 2:42 | 2025-02-20 | 2025-03-28 |
-| [Alt hvad jeg vil](https://open.spotify.com/track/7LXkZBJYXjXIYCV9sUpNNk) | [Von Quar](https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3) | [Alt hvad jeg vil](https://open.spotify.com/album/1TqxFYrfpBc3OYJTPatQhF) | 3:44 | 2025-04-03 |  |
+| [Alt hvad jeg vil](https://open.spotify.com/track/7LXkZBJYXjXIYCV9sUpNNk) | [Von Quar](https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3) | [Alt hvad jeg vil](https://open.spotify.com/album/1TqxFYrfpBc3OYJTPatQhF) | 3:44 | 2025-04-03 | 2025-04-08 |
 | [Ambulance](https://open.spotify.com/track/5Dy6tX5fNswTndKlysuBJr) | [Gunge](https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN) | [Ambulance](https://open.spotify.com/album/22A62knHn06HMNeyOAHPS4) | 3:03 | 2024-09-12 | 2024-10-29 |
 | [Amor](https://open.spotify.com/track/0r3mhkCvXHaIrfh6Fh0ICH) | [LUCY](https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw) | [Amor](https://open.spotify.com/album/22Es0Jeka50VvECPh4TOpu) | 2:49 | 2024-06-27 | 2025-02-12 |
 | [ATTITUDE](https://open.spotify.com/track/6SX2HQYSAtdHL4z9ooKgfg) | [Kris](https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw), [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [ATTITUDE](https://open.spotify.com/album/3OzfQT3HXKSMWWZYRwp4bN) | 2:56 | 2025-02-27 |  |
@@ -172,6 +172,7 @@
 | [Sætter Alt På Spil](https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d) | [Bifald](https://open.spotify.com/artist/0digldp7orPQLSfADZojvH) | [Sætter Alt På Spil](https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA) | 3:17 | 2024-10-24 |  |
 | [Tag Mig Som Jeg Er](https://open.spotify.com/track/7aSvvFYDuR8fCurPx6hqwl) | [KALASET](https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7) | [Tag Mig Som Jeg Er](https://open.spotify.com/album/5cgv7qdPVxJS9jN50kr3nH) | 3:15 | 2025-01-06 |  |
 | [Tandlæge](https://open.spotify.com/track/44RZ2zrp3rfeUL9yrboOxB) | [BUKURU](https://open.spotify.com/artist/3ihqaAb6mlqx7JYCgo8mSN) | [Tandlæge](https://open.spotify.com/album/39knlRfz425t69wjmm0por) | 2:54 | 2025-01-30 |  |
+| [Telefonperson](https://open.spotify.com/track/625UsSgQrZOSKUxdW5gUbQ) | [Zar Paulo](https://open.spotify.com/artist/5Org3M2mFFEFd8A57h9Yv2) | [Telefonperson](https://open.spotify.com/album/3VX5LZ87CqqjvPbX4OBqxi) | 2:57 | 2025-04-07 |  |
 | [The Game](https://open.spotify.com/track/364mT4h3GcKYrfkdR6kLK4) | [Dopha](https://open.spotify.com/artist/7KNTK1VIkAqbjrFWGhYSwn) | [The Game](https://open.spotify.com/album/7fguP8EMcSuGjet7VIwBMr) | 3:05 | 2024-06-27 | 2025-01-24 |
 | [Til Enden Og Tilbage \(feat\. Ungklang\)](https://open.spotify.com/track/6YBPH4jB34gdSdDJE1ktKc) | [Cyd](https://open.spotify.com/artist/6JYcDUfoOtgxTCnAJU9O3A), [Ungklang](https://open.spotify.com/artist/4g6UJfNBiSyqnvK3sJOSnD) | [Til Enden Og Tilbage \(feat\. Ungklang\)](https://open.spotify.com/album/6AyEcAj5lzs9BxxavSUpAu) | 3:09 | 2025-03-27 | 2025-04-04 |
 | [Til Mit Hjerte Stopper \(feat\. Kundo\)](https://open.spotify.com/track/5aZzTieCOHU3CfhLJ7FSyS) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [</3](https://open.spotify.com/album/5eLaGyEggzHmcTzRQyGkzq) | 3:23 | 2024-06-27 | 2024-09-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop italiana ✨ cover: Mimì
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,660 likes - 122 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,677 likes - 122 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

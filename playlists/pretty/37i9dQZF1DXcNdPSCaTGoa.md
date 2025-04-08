@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > South African gems across the decades\. Cover: <a href="https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO?si=xNsTekhYSbq9QpHhQwG4zA">Riky Rick</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,077 likes - 60 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,136 likes - 60 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 4 | [Boss Zonke](https://open.spotify.com/track/40k035nx9YwLSpfDhEyKwM) | [Riky Rick](https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO) | [Family Values](https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC) | 4:00 |
 | 5 | [All Eyes on Me \(feat\. Burna Boy, Da L.E.S\. & JR\)](https://open.spotify.com/track/6oAWlzrEbXFis7Z0kyeX0h) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Da Les](https://open.spotify.com/artist/4on53ORBym2GEnRhIptZwy), [JR](https://open.spotify.com/artist/1a0Wc4pzPAFe5ZFiL1glrr) | [Levels \(Explicit\)](https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe) | 4:18 |
 | 6 | [Pluto \(Remember You\)](https://open.spotify.com/track/3rl0m4eV5brBp1ER1uHUhN) | [DJ Clock](https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [The 4th Tick \- A Clockumentary](https://open.spotify.com/album/466CzP9nhIV9C1rXd46oud) | 6:06 |
-| 7 | [Ngud' \(feat\. Cassper Nyovest\)](https://open.spotify.com/track/0i2EASYXRiIMjKmExaOk6v) | [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [DaKAR II](https://open.spotify.com/album/0dVMCPy4qwJoVxHP3qVgHC) | 4:31 |
+| 7 | [Nomakanjani](https://open.spotify.com/track/7sAaRNhvkHH87PnV5ArZ98) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Greatest Hits 1964\-2004](https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0) | 3:40 |
 | 8 | [Nafukwa \(Fok Julle Naaiers\)](https://open.spotify.com/track/43nqAOOjecTtyOVmAI27RX) | [Riky Rick](https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO) | [Family Values](https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC) | 4:08 |
-| 9 | [Nomakanjani](https://open.spotify.com/track/7sAaRNhvkHH87PnV5ArZ98) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Greatest Hits 1964\-2004](https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0) | 3:40 |
+| 9 | [Ngud' \(feat\. Cassper Nyovest\)](https://open.spotify.com/track/0i2EASYXRiIMjKmExaOk6v) | [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [DaKAR II](https://open.spotify.com/album/0dVMCPy4qwJoVxHP3qVgHC) | 4:31 |
 | 10 | [Jika](https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX) | [Touch My Blood](https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O) | 5:04 |
 | 11 | [Loliwe](https://open.spotify.com/track/1y9bfiGVKNMLoN0XR54S4z) | [Zahara](https://open.spotify.com/artist/6kw5sT8a7bcS9u7uVckgJq) | [Loliwe](https://open.spotify.com/album/7CLSR9UOYjRAQuDPxBckR0) | 4:32 |
 | 12 | [Destiny](https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT) | [Malaika](https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM) | [Malaika](https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z) | 7:22 |

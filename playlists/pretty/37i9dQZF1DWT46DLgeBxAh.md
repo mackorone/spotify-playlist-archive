@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT46DLgeBxAh.md) - [plain]
 
 > Una mezcla sabrosa, picosita y refrescante.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,079 likes - 125 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,204 likes - 125 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT46DLgeBxAh.md) - [plain]
 | 81 | [Tus Mentiras](https://open.spotify.com/track/40PLgjgLNIbrLCdX3wVN1k) | [Grupo Cumbia Nova](https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw) | [Tus Mentiras](https://open.spotify.com/album/0ghcboa6syByFczkpDsnwZ) | 4:13 |
 | 82 | [La Intención](https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Intención](https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2) | 4:09 |
 | 83 | [El Rescate](https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP) | 2:40 |
-| 84 | [FRESITA](https://open.spotify.com/track/4kB3A1XfiN2Sb4gleEyI7X) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [FRESITA](https://open.spotify.com/album/2OgjZsEsqgnD0JjjyKMQ9Z) | 2:22 |
-| 85 | [La Suma](https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Lupe Borbon y su Blindaje 7](https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl) | [La Suma](https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR) | 3:18 |
+| 84 | [La Suma](https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Lupe Borbon y su Blindaje 7](https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl) | [La Suma](https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR) | 3:18 |
+| 85 | [FRESITA](https://open.spotify.com/track/4kB3A1XfiN2Sb4gleEyI7X) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [FRESITA](https://open.spotify.com/album/2OgjZsEsqgnD0JjjyKMQ9Z) | 2:22 |
 | 86 | [Llorar y Llorar \- con Carin Leon](https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Llorar y Llorar \(con Carin Leon\)](https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn) | 2:49 |
 | 87 | [Apaga El Cel](https://open.spotify.com/track/1sXr6moCwVxwKEgSPxhVvF) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Apaga El Cel](https://open.spotify.com/album/5Isy5T3w9NjggarK5RxrQZ) | 2:50 |
 | 88 | [Pocos Años Mil Errores](https://open.spotify.com/track/05eWLa61PMRibhFtIHsD0D) | [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew), [Carlos Manjarrez](https://open.spotify.com/artist/3nmpoFfQfHCsqho4taq5FK) | [Pocos Años Mil Errores](https://open.spotify.com/album/3Ss2agKWd4oBWEBcdKsZPe) | 3:18 |
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT46DLgeBxAh.md) - [plain]
 | 119 | [Si No Le Contesto](https://open.spotify.com/track/3XaWuYsTtnkzCSBr0RmROc) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu) | 3:40 |
 | 120 | [LADY GAGA](https://open.spotify.com/track/0WCxpmafw3tOlUmiilGbsy) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/7DOIN787fF8Jv9KFZEBcW6) | 3:32 |
 | 121 | [No Se Va \- En Vivo](https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(En Vivo\)](https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A) | 3:14 |
-| 122 | [Manos de Tijera](https://open.spotify.com/track/5bbDOmtSTUeAmzYDUv8eVF) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Manos de Tijera](https://open.spotify.com/album/6ZgE3A6SXIPCEvhVpLOwv9) | 3:50 |
-| 123 | [Me La Avente](https://open.spotify.com/track/2QwMXe5zbqymDZGYsMDVqZ) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/7kTcIz6EDhc8G0QCyvpOpH) | 2:35 |
+| 122 | [Me La Avente](https://open.spotify.com/track/2QwMXe5zbqymDZGYsMDVqZ) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/7kTcIz6EDhc8G0QCyvpOpH) | 2:35 |
+| 123 | [Manos de Tijera](https://open.spotify.com/track/5bbDOmtSTUeAmzYDUv8eVF) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Manos de Tijera](https://open.spotify.com/album/6ZgE3A6SXIPCEvhVpLOwv9) | 3:50 |
 | 124 | [En Tu Perra Vida](https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Tu Perra Vida](https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp) | 3:58 |
 | 125 | [Mi Enemigo El Amor](https://open.spotify.com/track/1jpMQqcqmYBGCkAtNNLy4z) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/6IW904Y2lu2IWmTGdyt7CF) | 3:52 |
 

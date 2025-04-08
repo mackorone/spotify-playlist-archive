@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5DCuoVuFY3.md) - [plain]
 
 > For your lounge room DF!
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,381 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,423 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5DCuoVuFY3.md) - [plain]
 | 36 | [Around the World](https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 7:09 |
 | 37 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
 | 38 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 |
-| 39 | [Rainfall \(Praise You\)](https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rainfall \(Praise You\)](https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95) | 2:46 |
-| 40 | [Pursuit Of Happiness \(Nightmare\)](https://open.spotify.com/track/4kTLpAbhuEGHAAdDjOIWaa) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Man On The Moon: The End Of Day \(Int'l Version\)](https://open.spotify.com/album/6oPPKtAwNNlkW4wwHfQDfM) | 4:55 |
+| 39 | [Pursuit Of Happiness \(Nightmare\)](https://open.spotify.com/track/4kTLpAbhuEGHAAdDjOIWaa) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Man On The Moon: The End Of Day \(Int'l Version\)](https://open.spotify.com/album/6oPPKtAwNNlkW4wwHfQDfM) | 4:55 |
+| 40 | [Rainfall \(Praise You\)](https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rainfall \(Praise You\)](https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95) | 2:46 |
 | 41 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [I Follow Rivers \(The Magician Remix\)](https://open.spotify.com/album/3Lp1pBV5Lao3Ry6CiEb7Y1) | 4:40 |
 | 42 | [Sandstorm](https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Before the Storm, Special Edition](https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo) | 3:45 |
 | 43 | [Turn Down for What](https://open.spotify.com/track/67awxiNHNyjMXhVgsHuIrs) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Turn Down for What](https://open.spotify.com/album/3zo0Hxh9rjJsdw2JAKReE3) | 3:33 |

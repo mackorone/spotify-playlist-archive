@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 
 > Get me to God's country
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,878 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,131 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,10 +72,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 | 62 | [Thoughts of You](https://open.spotify.com/track/0Xw2qqQDAm2uDJZI02UDix) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [Songs About You](https://open.spotify.com/album/5MTY6WqQu7prI2Y2dEu81n) | 2:52 |
 | 63 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 |
 | 64 | [No Caller ID](https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [No Caller ID](https://open.spotify.com/album/5plO8l5Kz0QC3fOGdHDzrW) | 3:28 |
-| 65 | [Your Heart Or Mine](https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa) | 2:41 |
-| 66 | [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ) | 3:28 |
+| 65 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 |
+| 66 | [Your Heart Or Mine](https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa) | 2:41 |
 | 67 | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU) | 3:50 |
-| 68 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 |
+| 68 | [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ) | 3:28 |
 | 69 | [Bye Bye Bye](https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now? \(Deluxe\)](https://open.spotify.com/album/12bTJ4RqxjUEhVg8vSMx9d) | 2:29 |
 | 70 | [Outskirts](https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Outskirts](https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh) | 3:02 |
 | 71 | [I Will \(When You Do\)](https://open.spotify.com/track/7BH39iq4k2366YgJgbf8b4) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D), [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [I Will \(When You Do\)](https://open.spotify.com/album/3k21cPHIBHoevXbpvLrgoH) | 3:27 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 | 87 | [Wildflowers and Wild Horses \(Single Version\)](https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Wildflowers and Wild Horses](https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV) | 3:36 |
 | 88 | [Remember Him That Way](https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:56 |
 | 89 | [Mamaw's House](https://open.spotify.com/track/3eNOyXmzuA46bUvi8FkIoW) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Mamaw's House](https://open.spotify.com/album/33U85sBjvKsbCsYo5DeEUa) | 3:07 |
-| 90 | [Halfway To Hell](https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 2:58 |
-| 91 | [Ain't Doin' Jack](https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Ain't Doin' Jack](https://open.spotify.com/album/1URccwrkhVDXNb8uowWWhk) | 2:40 |
+| 90 | [Ain't Doin' Jack](https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Ain't Doin' Jack](https://open.spotify.com/album/1URccwrkhVDXNb8uowWWhk) | 2:40 |
+| 91 | [Halfway To Hell](https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 2:58 |
 | 92 | [23](https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [23](https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl) | 3:48 |
 | 93 | [Burn It Down](https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:53 |
 | 94 | [Hell Of A View](https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Soul](https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz) | 2:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Ed Sheeran, Djo, hingga
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,280 likes - 82 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,324 likes - 82 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 72 | [SUBTITLE](https://open.spotify.com/track/4PUVFsRvS2YtU0Pr9euHDb) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [SUBTITLE](https://open.spotify.com/album/73wEMmC3vdqqRdDfM4lh0l) | 2:58 |
 | 73 | [Last Call](https://open.spotify.com/track/0RLOuWqclaJ96OZAGoAGak) | [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Alan Sampson](https://open.spotify.com/artist/6jQkBMk5URec0RTNDh8P96), [ADP](https://open.spotify.com/artist/0QAjuB54V29PdceQCHXq2i) | [Last Call](https://open.spotify.com/album/1ch87pOlqHcB5XFP6LsAzT) | 2:46 |
 | 74 | [Surrender](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Surrender](https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd) | 2:24 |
-| 75 | [Drip Drip](https://open.spotify.com/track/0YrUz44GV53SvRMQUFIpps) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [WUKONG](https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T), [MUSIC](https://open.spotify.com/artist/6tmvEui9RlpwAFJA8tNkxM) | [Drip Drip](https://open.spotify.com/album/14jZsLakgI8TLW8PMdkFxC) | 2:25 |
+| 75 | [Drip Drip](https://open.spotify.com/track/0YrUz44GV53SvRMQUFIpps) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [WUKONG](https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T), [$MUSIC](https://open.spotify.com/artist/0zx8yW9E6H5pwqAnWrDepm) | [Drip Drip](https://open.spotify.com/album/14jZsLakgI8TLW8PMdkFxC) | 2:25 |
 | 76 | [Live My Life](https://open.spotify.com/track/2a0Az8oSMkiZjOpWNzXICs) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Live My Life](https://open.spotify.com/album/7C4dHLELP7ivO6HXeLltK3) | 4:01 |
 | 77 | [Cool 'N Calm](https://open.spotify.com/track/7puBhOuLu7ftK0X19t0gRr) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2) | [Cool 'N Calm](https://open.spotify.com/album/38V1SjBIRIN2ZJtM4LowSp) | 3:35 |
 | 78 | [Learning Slow](https://open.spotify.com/track/5rdkwo609K30QsDwIBuwzB) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Learning Slow](https://open.spotify.com/album/66DyOnUvPJFxZ77Z1jw8JX) | 2:56 |

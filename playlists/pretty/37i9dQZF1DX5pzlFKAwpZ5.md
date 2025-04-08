@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 
 > The calming space of Japanese Ambient and Environmental music\. Kenichiro Isoda on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,865 likes - 150 songs - 11 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,995 likes - 150 songs - 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,9 +151,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 141 | [château](https://open.spotify.com/track/7GGF2U7bZP3LhM2IojZYoE) | [attic](https://open.spotify.com/artist/51VqZtvqCcpFPdEPN1X1Ku) | [château](https://open.spotify.com/album/3DLJo4t8P1Hcs0verzEuNf) | 2:45 |
 | 142 | [shibuya](https://open.spotify.com/track/2cKWlY2DGnPMT5ZOWPpm1T) | [Masayuki Ishii](https://open.spotify.com/artist/4GxXuTsoHfRRqhpYzxJ7zN), [Naohisa Taniguchi](https://open.spotify.com/artist/6J1WlaCpbUL1sak8JPlIVL) | [shibuya](https://open.spotify.com/album/5r8pTArU0UdC1K5PSPqX2x) | 4:24 |
 | 143 | [Plants Feast](https://open.spotify.com/track/5o9roDxnHFxzGgA0zLfSF4) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Plants Feast](https://open.spotify.com/album/3HAH0Vl5Fbu0eoM5wgUH2W) | 3:26 |
-| 144 | [Ecliptic Drift](https://open.spotify.com/track/0Etrh1T0HeWk2C7vXODxm8) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Mono Spectrum](https://open.spotify.com/album/0MArGYb9frtOAfhjhk64WL) | 2:26 |
-| 145 | [精霊の踊り \(Dance of Spirits\)](https://open.spotify.com/track/6RLy01kjD0u0s71VsepdKS) | [松﨑裕子](https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a) | [精霊の踊り \(Dance of Spirits\)](https://open.spotify.com/album/0EnqLksnO1ri2diRxUXeSm) | 6:12 |
-| 146 | [森のざわめき](https://open.spotify.com/track/13Qy7Tjeiwv8lHK6zI8Bpj) | [CROIX HEALING](https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG) | [メンタルトレーナーがすすめる不安解消、安眠ヒーリング 〜自然とつながる音楽〜](https://open.spotify.com/album/2ybjutfqiEx8u3QZ5XfJ17) | 5:12 |
+| 144 | [精霊の踊り \(Dance of Spirits\)](https://open.spotify.com/track/6RLy01kjD0u0s71VsepdKS) | [松﨑裕子](https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a) | [精霊の踊り \(Dance of Spirits\)](https://open.spotify.com/album/0EnqLksnO1ri2diRxUXeSm) | 6:12 |
+| 145 | [森のざわめき](https://open.spotify.com/track/13Qy7Tjeiwv8lHK6zI8Bpj) | [CROIX HEALING](https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG) | [メンタルトレーナーがすすめる不安解消、安眠ヒーリング 〜自然とつながる音楽〜](https://open.spotify.com/album/2ybjutfqiEx8u3QZ5XfJ17) | 5:12 |
+| 146 | [Ecliptic Drift](https://open.spotify.com/track/0Etrh1T0HeWk2C7vXODxm8) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Mono Spectrum](https://open.spotify.com/album/0MArGYb9frtOAfhjhk64WL) | 2:26 |
 | 147 | [FEET](https://open.spotify.com/track/2XBXn7yluQZ6bFReesUjrt) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 6:13 |
 | 148 | [Still Space](https://open.spotify.com/track/7e7HTzbFsmLR0mg9QkwMPr) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 3:59 |
 | 149 | [Moon](https://open.spotify.com/track/6rOc7kTPNL6SxSVugGlPoG) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Moon](https://open.spotify.com/album/45cho4OqwcoNEvhFbI6Tpt) | 2:43 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day\. Cover: Cleo Sol
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,781 likes - 80 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,821 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,10 +83,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 73 | [Love You All My Lifetime](https://open.spotify.com/track/2yTswsiLkNGzzzX54WroNS) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [The Woman I Am](https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz) | 4:44 |
 | 74 | [Space](https://open.spotify.com/track/1e6PNxI4pymbrv25cmKX9T) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Space](https://open.spotify.com/album/4JfgTYw8nZBgNycTB97Zpp) | 2:56 |
 | 75 | [Nobody’s Perfect](https://open.spotify.com/track/4gGuLljBIa0c3Buk4aGT0H) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Suite Escape](https://open.spotify.com/album/5o6C3eDwWn5GJN0DKZN45i) | 4:00 |
-| 76 | [All I Need](https://open.spotify.com/track/2mGWmvIIvs7jKEXxyh7Wfb) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Emma Jean](https://open.spotify.com/album/3u38Zm1pGlCrGZSsUk2396) | 3:34 |
-| 77 | [I've Got A Right](https://open.spotify.com/track/79oVaKQxheWhtZqtVqqiJS) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Circle Of One](https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO) | 3:58 |
-| 78 | [Glimmer](https://open.spotify.com/track/5Ddhny03U9xVCanImqrwju) | [Velvet Bloom](https://open.spotify.com/artist/1HiDrUs73y9fUOt8DjBH55) | [Glimmer](https://open.spotify.com/album/3FawGubjyjO7TxDISCalRD) | 3:11 |
-| 79 | [Lift Me Up](https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Roxie Ray](https://open.spotify.com/artist/6ZbBl2PqUW7wMAU2DnsDCG) | [Take from Me](https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3) | 4:29 |
-| 80 | [Strong](https://open.spotify.com/track/0oaSAqD0cYGc9KiSOQbWC3) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Mystery](https://open.spotify.com/album/0zwexK02AqJJnv1KE3Jj2S) | 3:22 |
 
-Snapshot ID: `Z/F3JQAAAADQRGjW57eJxlO/0uIzAiho`
+Snapshot ID: `Z/RNiAAAAABfWdHHbAw0WtfP4LiNKSBk`

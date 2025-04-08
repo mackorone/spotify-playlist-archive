@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 
 > Drift away with enthralling instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,179 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,357 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 46 | [Divinity](https://open.spotify.com/track/4CiLp22MqtNOx8aY2pxXHA) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Divinity](https://open.spotify.com/album/01r2Bj3gFjGAkHcmi4OueG) | 2:52 |
 | 47 | [The Gentle Current](https://open.spotify.com/track/58c5Ei4cJVs3S3jmRizdsQ) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [The Gentle Current](https://open.spotify.com/album/0FkVeieQkuGlqL7Y2Ojqpm) | 3:11 |
 | 48 | [Lively Bluebottle](https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS) | [Mari Cafferty](https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU) | [Silk Under Rain](https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV) | 3:12 |
-| 49 | [Quiet Motions](https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Quiet Motions](https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr) | 3:15 |
-| 50 | [Orbital Oasis](https://open.spotify.com/track/6zGZtDSM0FSol4zakv14CS) | [Ruben Ortega](https://open.spotify.com/artist/7orAQsVnGSHS7bsPShdMjl) | [Orbital Oasis](https://open.spotify.com/album/1yspBlFboddEbivYv2VSpu) | 3:07 |
+| 49 | [Orbital Oasis](https://open.spotify.com/track/6zGZtDSM0FSol4zakv14CS) | [Ruben Ortega](https://open.spotify.com/artist/7orAQsVnGSHS7bsPShdMjl) | [Orbital Oasis](https://open.spotify.com/album/1yspBlFboddEbivYv2VSpu) | 3:07 |
+| 50 | [Quiet Motions](https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Quiet Motions](https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr) | 3:15 |
 | 51 | [Intrinsic Silence](https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Intrinsic Silence](https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03) | 2:44 |
 | 52 | [Faded Years](https://open.spotify.com/track/6gZexfxBmAqMiQ4KJOxHvD) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Faded Years](https://open.spotify.com/album/1mpt0f45e3ln9qazTfubfz) | 2:50 |
 | 53 | [Gleam](https://open.spotify.com/track/7oA6HCPv6DK944HwoKB7fN) | [Aiden Gaarder](https://open.spotify.com/artist/5Ke2xVrUo5hNYxTp5fx5XS) | [Reflections](https://open.spotify.com/album/25SUYXz9bAwVFt4BZ5my5B) | 3:46 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 56 | [Healing State](https://open.spotify.com/track/01bdjWszWID47jX6HZ8iNJ) | [Johan Davidsson](https://open.spotify.com/artist/0i70m6QJcItJ6uOmxZwuWi) | [Healing State](https://open.spotify.com/album/7tqTYLioSmQA1QZeCqupqU) | 4:29 |
 | 57 | [Deep Thoughts](https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH) | [Danny Shamoun](https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F) | [Deep Thoughts](https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI) | 3:12 |
 | 58 | [Rugare](https://open.spotify.com/track/5569KJlvGen1T50aIJWEeC) | [Tendai Marwan](https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD) | [Rugare](https://open.spotify.com/album/1SIRnia8LqkQTglfIPVkbM) | 3:08 |
-| 59 | [Waterfalls](https://open.spotify.com/track/5ZmtBofitcnMfYxJgHrKtO) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Waterfalls](https://open.spotify.com/album/5oyxhOO2eBysNT7K5cZIvf) | 3:25 |
-| 60 | [Kadunud Taevasse](https://open.spotify.com/track/7az3fA5PzUlxjlIntHmFMU) | [Kikolu](https://open.spotify.com/artist/0ecJPDWWtfkKyVHPX6DlJ5) | [Kadunud Taevasse](https://open.spotify.com/album/2rFsIzSruGBdB8HnQ1VdPA) | 3:00 |
+| 59 | [Kadunud Taevasse](https://open.spotify.com/track/7az3fA5PzUlxjlIntHmFMU) | [Kikolu](https://open.spotify.com/artist/0ecJPDWWtfkKyVHPX6DlJ5) | [Kadunud Taevasse](https://open.spotify.com/album/2rFsIzSruGBdB8HnQ1VdPA) | 3:00 |
+| 60 | [Waterfalls](https://open.spotify.com/track/5ZmtBofitcnMfYxJgHrKtO) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Waterfalls](https://open.spotify.com/album/5oyxhOO2eBysNT7K5cZIvf) | 3:25 |
 | 61 | [Immersion](https://open.spotify.com/track/0UoCxmQeN0C53KdSh4QQ6b) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Eruptive Love](https://open.spotify.com/album/6vLBNsXnG8LT8e6hJ0IgCr) | 5:42 |
 | 62 | [You're Filled With Courage](https://open.spotify.com/track/1yXCViJlRh40uDDaA3xOl0) | [Geneviève Corin](https://open.spotify.com/artist/2OZcj5SwwY93YZWnNdzD38) | [You're Filled With Courage](https://open.spotify.com/album/3lkh1bioKa9l6mBFgqm2Y2) | 2:37 |
 | 63 | [Niveous](https://open.spotify.com/track/7BUGxPLX6XvKzugRlFTR3j) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [Niveous](https://open.spotify.com/album/3qzsqNWbjA8iCRHFQChZeF) | 2:48 |
@@ -82,10 +82,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 72 | [arches](https://open.spotify.com/track/27kZcqkjDk78N7yvOi2MJ5) | [Aquas](https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej) | [arches](https://open.spotify.com/album/1TUCzm7JXD5OSkodobhn1I) | 3:03 |
 | 73 | [Drifting Together](https://open.spotify.com/track/1nhmqBkGh4FDraowHKxRNA) | [Jeremy Siegel](https://open.spotify.com/artist/2t7xGHSArMZLWeCq2p6phE), [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [Drifting Together](https://open.spotify.com/album/4Fm2uRfIEx9fIjdVjsUOzu) | 3:13 |
 | 74 | [Always Sleepy](https://open.spotify.com/track/7j6asqjTGFFpjg9TR0H5us) | [Warren Blues](https://open.spotify.com/artist/3YG7KJgAF3q7udoynLzWXU) | [The East Wind](https://open.spotify.com/album/14GlV5L5ms2sQx8TQ2ygYW) | 3:22 |
-| 75 | [Dawning of a New Age](https://open.spotify.com/track/4xG9jPm8cwoojFXDkfXDwd) | [Retland](https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj), [Center of Attention](https://open.spotify.com/artist/4xp0qN8C2Og0QbD3GxxfCs) | [Dawning of a New Age](https://open.spotify.com/album/13RJqouOZFbkINg35pHskE) | 3:00 |
-| 76 | [A brand new day](https://open.spotify.com/track/5ixqBWnkYkXr6VDWq3fxM0) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [A brand new day](https://open.spotify.com/album/13KQj6JkW1CD8uvUeiIfU6) | 2:55 |
-| 77 | [Frozen Sunlight \- No Nature Ambience](https://open.spotify.com/track/4IG0iveYAR1U0WL1YW60ad) | [Sun Echo](https://open.spotify.com/artist/4jhzzWw1hUD1WeZT73WW4D) | [Frozen Sunlight](https://open.spotify.com/album/585o7QhQ8LporxUlnbMR8b) | 3:30 |
-| 78 | [Quiet Shores](https://open.spotify.com/track/76acjhQWM5NOBiWoZ4Xnzv) | [Sömngrus](https://open.spotify.com/artist/4LuuDmiOLGrAHanlvqX5k8) | [Quiet Shores](https://open.spotify.com/album/0lQVgrgb8H2EdcHEEoP40i) | 3:43 |
+| 75 | [A brand new day](https://open.spotify.com/track/5ixqBWnkYkXr6VDWq3fxM0) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [A brand new day](https://open.spotify.com/album/13KQj6JkW1CD8uvUeiIfU6) | 2:55 |
+| 76 | [Frozen Sunlight \- No Nature Ambience](https://open.spotify.com/track/4IG0iveYAR1U0WL1YW60ad) | [Sun Echo](https://open.spotify.com/artist/4jhzzWw1hUD1WeZT73WW4D) | [Frozen Sunlight](https://open.spotify.com/album/585o7QhQ8LporxUlnbMR8b) | 3:30 |
+| 77 | [Quiet Shores](https://open.spotify.com/track/76acjhQWM5NOBiWoZ4Xnzv) | [Sömngrus](https://open.spotify.com/artist/4LuuDmiOLGrAHanlvqX5k8) | [Quiet Shores](https://open.spotify.com/album/0lQVgrgb8H2EdcHEEoP40i) | 3:43 |
+| 78 | [Dawning of a New Age](https://open.spotify.com/track/4xG9jPm8cwoojFXDkfXDwd) | [Retland](https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj), [Center of Attention](https://open.spotify.com/artist/4xp0qN8C2Og0QbD3GxxfCs) | [Dawning of a New Age](https://open.spotify.com/album/13RJqouOZFbkINg35pHskE) | 3:00 |
 | 79 | [Nyvälle](https://open.spotify.com/track/39AhLachgMFZNzznsaqBdO) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Nyvälle](https://open.spotify.com/album/2fSbdyf4zNHJ7NhSfC4eke) | 2:42 |
 | 80 | [Luminous Dusk](https://open.spotify.com/track/1npHOLMRCqO4PURfTgked3) | [Indigo Rae](https://open.spotify.com/artist/3SQ3DMIEjVndS48GUhrYV3) | [Luminous Dusk](https://open.spotify.com/album/2YIWnBvu9TXVRbyl2yJtPI) | 2:17 |
 | 81 | [Eupheme](https://open.spotify.com/track/6JHqScV6hvbjKlk1vunb1q) | [Marc Veil](https://open.spotify.com/artist/5YHPMNDsxSX4O6XVgnCukg) | [Eupheme](https://open.spotify.com/album/3sQdlZdewv3gCI3PFTT1zi) | 2:56 |
@@ -97,9 +97,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 87 | [Behind Your Eyes](https://open.spotify.com/track/20zqqXhSfIHp8mMrjmzDUX) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Behind Your Eyes](https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh) | 3:17 |
 | 88 | [Morgongåva](https://open.spotify.com/track/0A5sKduEa9fPbluRBWMwNb) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Morgongåva](https://open.spotify.com/album/4y1mxc7piaWoZ6aSLmcRRP) | 2:46 |
 | 89 | [Clear\-Headed](https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu) | [Zonyoh](https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx) | [Theta Sleep](https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ) | 2:46 |
-| 90 | [Hvis du bare vidste](https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL) | [Silas Mathiasen](https://open.spotify.com/artist/0zVBmr5OKI6Lg6t44pipN5) | [Hvis du bare vidste](https://open.spotify.com/album/6EDbhc47346WIRKuBXuZGk) | 2:42 |
-| 91 | [Dreams of Mercury](https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o) | [Chim Suri](https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg) | [Dreams of Mercury](https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL) | 3:12 |
-| 92 | [Sketches](https://open.spotify.com/track/5ytbuBtoL3hHrhyuS6ATww) | [Arico Mist](https://open.spotify.com/artist/1zIRktVgkdLx17ZSqsKRYu) | [Sketches](https://open.spotify.com/album/0R8pifsvqOqjnc5wAE3fbN) | 2:52 |
+| 90 | [Dreams of Mercury](https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o) | [Chim Suri](https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg) | [Dreams of Mercury](https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL) | 3:12 |
+| 91 | [Sketches](https://open.spotify.com/track/5ytbuBtoL3hHrhyuS6ATww) | [Arico Mist](https://open.spotify.com/artist/1zIRktVgkdLx17ZSqsKRYu) | [Sketches](https://open.spotify.com/album/0R8pifsvqOqjnc5wAE3fbN) | 2:52 |
+| 92 | [Hvis du bare vidste](https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL) | [Silas Mathiasen](https://open.spotify.com/artist/0zVBmr5OKI6Lg6t44pipN5) | [Hvis du bare vidste](https://open.spotify.com/album/6EDbhc47346WIRKuBXuZGk) | 2:42 |
 | 93 | [Prevision](https://open.spotify.com/track/4TVExjDdlGMDnGxyTpOISo) | [Sadie Hume](https://open.spotify.com/artist/7E6gWrogjZbxjYpmSjAa1C) | [Prevision](https://open.spotify.com/album/7xkou16CqQKZCHamqP2idQ) | 2:26 |
 | 94 | [Sweven](https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Sweven](https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS) | 3:13 |
 | 95 | [Awakening](https://open.spotify.com/track/5MVVGFVHWhjGpg2ZKPxWHh) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Awakening](https://open.spotify.com/album/6G9t6knI1NlkFAYsNzGYLH) | 3:11 |

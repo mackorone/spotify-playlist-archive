@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 446785,
+  "num_followers": 446781,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2025-04-04 06:02:01",
       "album": {
+        "name": "Saudade Proibida (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0dBMGKZldtmOrLaF2h5jSa"
+      },
+      "artists": [
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "duration_ms": 160634,
+      "name": "Saudade Proibida - Ao Vivo",
+      "url": "https://open.spotify.com/track/40WZQRA3T6WZFIgskIAAz7"
+    },
+    {
+      "added_at": "2025-04-04 06:02:01",
+      "album": {
         "name": "Jo\u00e3o Bosco & Vinicius E Seus \u00cddolos - Estrada De Ch\u00e3o",
         "url": "https://open.spotify.com/album/5ktSlHT6uyJIDRjAg8rHtd"
       },
@@ -263,22 +279,6 @@
     {
       "added_at": "2025-04-04 06:02:01",
       "album": {
-        "name": "Milu",
-        "url": "https://open.spotify.com/album/3oqVZoqdqNmaSQkJF9mMfI"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 224997,
-      "name": "Milu",
-      "url": "https://open.spotify.com/track/1nqaSoiLuqevDes4S18sO7"
-    },
-    {
-      "added_at": "2025-04-04 06:02:01",
-      "album": {
         "name": "Depr\u00ea",
         "url": "https://open.spotify.com/album/3IFyXLAeUE09BDgfCgnbFx"
       },
@@ -291,6 +291,22 @@
       "duration_ms": 180515,
       "name": "Depr\u00ea",
       "url": "https://open.spotify.com/track/2BRGOqLBHFJclDM6PB2dnd"
+    },
+    {
+      "added_at": "2025-04-04 06:02:01",
+      "album": {
+        "name": "Milu",
+        "url": "https://open.spotify.com/album/3oqVZoqdqNmaSQkJF9mMfI"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 224997,
+      "name": "Milu",
+      "url": "https://open.spotify.com/track/1nqaSoiLuqevDes4S18sO7"
     },
     {
       "added_at": "2025-04-04 06:02:01",
@@ -363,26 +379,6 @@
     {
       "added_at": "2025-04-04 06:02:01",
       "album": {
-        "name": "Errejota (ao Vivo)",
-        "url": "https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k"
-      },
-      "artists": [
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        },
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 231680,
-      "name": "Algo Mais (Amante) - Ao Vivo",
-      "url": "https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P"
-    },
-    {
-      "added_at": "2025-04-04 06:02:01",
-      "album": {
         "name": "Um Novo Sonho - Deluxe",
         "url": "https://open.spotify.com/album/2uWVAReCZBKft4bKCDSEMy"
       },
@@ -415,18 +411,22 @@
     {
       "added_at": "2025-04-04 06:02:01",
       "album": {
-        "name": "Rel\u00f3gio Parado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/60uEVgPGWNBFOYH8EcJglb"
+        "name": "Errejota (ao Vivo)",
+        "url": "https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k"
       },
       "artists": [
         {
-          "name": "Diego & Arnaldo",
-          "url": "https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft"
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        },
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
         }
       ],
-      "duration_ms": 180736,
-      "name": "Rel\u00f3gio Parado (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5n8Y78Pl5q8lqS7sJP61qw"
+      "duration_ms": 231680,
+      "name": "Algo Mais (Amante) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P"
     },
     {
       "added_at": "2025-04-04 06:02:01",
@@ -447,6 +447,42 @@
       "duration_ms": 180304,
       "name": "Ao Vivo E A Cores",
       "url": "https://open.spotify.com/track/6jhZTGGw37atbaHoLsY9TD"
+    },
+    {
+      "added_at": "2025-04-04 06:02:01",
+      "album": {
+        "name": "Rel\u00f3gio Parado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/60uEVgPGWNBFOYH8EcJglb"
+      },
+      "artists": [
+        {
+          "name": "Diego & Arnaldo",
+          "url": "https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft"
+        }
+      ],
+      "duration_ms": 180736,
+      "name": "Rel\u00f3gio Parado (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5n8Y78Pl5q8lqS7sJP61qw"
+    },
+    {
+      "added_at": "2025-04-04 06:02:01",
+      "album": {
+        "name": "Live-M\u00f3vel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 187378,
+      "name": "Sofazinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/2PMLdLt5QeOuOgxfAvx1in"
     },
     {
       "added_at": "2025-04-04 06:02:01",
@@ -483,42 +519,6 @@
       "duration_ms": 187998,
       "name": "Dona Maria",
       "url": "https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre"
-    },
-    {
-      "added_at": "2025-04-04 06:02:01",
-      "album": {
-        "name": "Saudade Proibida (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0dBMGKZldtmOrLaF2h5jSa"
-      },
-      "artists": [
-        {
-          "name": "Simone Mendes",
-          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
-        }
-      ],
-      "duration_ms": 160634,
-      "name": "Saudade Proibida - Ao Vivo",
-      "url": "https://open.spotify.com/track/40WZQRA3T6WZFIgskIAAz7"
-    },
-    {
-      "added_at": "2025-04-04 06:02:01",
-      "album": {
-        "name": "Live-M\u00f3vel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        },
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 187378,
-      "name": "Sofazinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/2PMLdLt5QeOuOgxfAvx1in"
     },
     {
       "added_at": "2025-04-04 06:02:01",
@@ -571,18 +571,22 @@
     {
       "added_at": "2025-04-04 06:02:01",
       "album": {
-        "name": "Made in Ro\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3rRfJJYjeoqranLMo1udIU"
+        "name": "Ao Vivo Em Macei\u00f3",
+        "url": "https://open.spotify.com/album/0ua7snDhitmW4xhrNODuFC"
       },
       "artists": [
         {
-          "name": "Loubet",
-          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
+          "name": "Mano Walter",
+          "url": "https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 187595,
-      "name": "Mui\u00e9, Chap\u00e9u e Butina - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ZB3pjR7MdkIBbBzz4Fg9C"
+      "duration_ms": 279810,
+      "name": "O Que Houve? - Ao Vivo",
+      "url": "https://open.spotify.com/track/6fDadQZ5QlZgYqpZhDfwek"
     },
     {
       "added_at": "2025-04-04 06:02:01",
@@ -603,22 +607,18 @@
     {
       "added_at": "2025-04-04 06:02:01",
       "album": {
-        "name": "Ao Vivo Em Macei\u00f3",
-        "url": "https://open.spotify.com/album/0ua7snDhitmW4xhrNODuFC"
+        "name": "Made in Ro\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3rRfJJYjeoqranLMo1udIU"
       },
       "artists": [
         {
-          "name": "Mano Walter",
-          "url": "https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+          "name": "Loubet",
+          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
         }
       ],
-      "duration_ms": 279810,
-      "name": "O Que Houve? - Ao Vivo",
-      "url": "https://open.spotify.com/track/6fDadQZ5QlZgYqpZhDfwek"
+      "duration_ms": 187595,
+      "name": "Mui\u00e9, Chap\u00e9u e Butina - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ZB3pjR7MdkIBbBzz4Fg9C"
     },
     {
       "added_at": "2025-04-04 06:02:01",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2025-04-04 06:02:01",
       "album": {
-        "name": "Moleque",
-        "url": "https://open.spotify.com/album/4QIhY16gSJ8F2kf2eDvGUt"
-      },
-      "artists": [
-        {
-          "name": "Pacheco",
-          "url": "https://open.spotify.com/artist/6L8qkVcwxbMShYXrQHy5Uy"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/6QxHENQOzTLnj0gs1sLRL7"
-        }
-      ],
-      "duration_ms": 194781,
-      "name": "Moleque",
-      "url": "https://open.spotify.com/track/0oMaaZT0hHsy7QMfpidYtI"
-    },
-    {
-      "added_at": "2025-04-04 06:02:01",
-      "album": {
         "name": "Do Jeito que N\u00f3is Gosta 2",
         "url": "https://open.spotify.com/album/3i7XBb2cgTp2QCCv3xcQwM"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 155661,
       "name": "Sofro Onde Eu Quiser",
       "url": "https://open.spotify.com/track/2Xr33epIjw1fbwOhrng4Pd"
+    },
+    {
+      "added_at": "2025-04-04 06:02:01",
+      "album": {
+        "name": "Moleque",
+        "url": "https://open.spotify.com/album/4QIhY16gSJ8F2kf2eDvGUt"
+      },
+      "artists": [
+        {
+          "name": "Pacheco",
+          "url": "https://open.spotify.com/artist/6L8qkVcwxbMShYXrQHy5Uy"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/6QxHENQOzTLnj0gs1sLRL7"
+        }
+      ],
+      "duration_ms": 194781,
+      "name": "Moleque",
+      "url": "https://open.spotify.com/track/0oMaaZT0hHsy7QMfpidYtI"
     },
     {
       "added_at": "2025-04-04 06:02:01",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-04-04 06:02:01",
       "album": {
-        "name": "Aperte O Play! (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7aTa9z5YclUkR84FcTjsGI"
-      },
-      "artists": [
-        {
-          "name": "Simone & Simaria",
-          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
-        }
-      ],
-      "duration_ms": 201669,
-      "name": "Aperte O Play - Ao Vivo",
-      "url": "https://open.spotify.com/track/5M8qHiAV6b0jo3phlyhxcR"
-    },
-    {
-      "added_at": "2025-04-04 06:02:01",
-      "album": {
         "name": "Pronta pra Trair",
         "url": "https://open.spotify.com/album/0SqRCFYtVCJAG92UD2VQpJ"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 177144,
       "name": "Pronta pra Trair",
       "url": "https://open.spotify.com/track/3IdXfXbXcbEe3LP9ClIZw8"
+    },
+    {
+      "added_at": "2025-04-04 06:02:01",
+      "album": {
+        "name": "Aperte O Play! (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7aTa9z5YclUkR84FcTjsGI"
+      },
+      "artists": [
+        {
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+        }
+      ],
+      "duration_ms": 201669,
+      "name": "Aperte O Play - Ao Vivo",
+      "url": "https://open.spotify.com/track/5M8qHiAV6b0jo3phlyhxcR"
     },
     {
       "added_at": "2025-04-04 06:02:01",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-04-04 06:02:01",
       "album": {
-        "name": "Quem \u00c9 Que Chora por Mim? (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1ouVcfM2cZO9rz3xcm5OxJ"
-      },
-      "artists": [
-        {
-          "name": "Leonardo",
-          "url": "https://open.spotify.com/artist/2YWOP324cKGfkTo2PydgJR"
-        }
-      ],
-      "duration_ms": 233316,
-      "name": "Quem \u00c9 Que Chora por Mim? - Ao Vivo",
-      "url": "https://open.spotify.com/track/4TlOLjhHZjoVGF0qbQc996"
-    },
-    {
-      "added_at": "2025-04-04 06:02:01",
-      "album": {
         "name": "Surra de Cama",
         "url": "https://open.spotify.com/album/7AYYczZNBEyORW1pvWr7kf"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 144071,
       "name": "Do Copo Eu Vim (feat. Mar\u00edlia Mendon\u00e7a) - Ao Vivo em Bras\u00edlia",
       "url": "https://open.spotify.com/track/7sl95MXCpM8WWsaH1BqvR3"
+    },
+    {
+      "added_at": "2025-04-04 06:02:01",
+      "album": {
+        "name": "Quem \u00c9 Que Chora por Mim? (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ouVcfM2cZO9rz3xcm5OxJ"
+      },
+      "artists": [
+        {
+          "name": "Leonardo",
+          "url": "https://open.spotify.com/artist/2YWOP324cKGfkTo2PydgJR"
+        }
+      ],
+      "duration_ms": 233316,
+      "name": "Quem \u00c9 Que Chora por Mim? - Ao Vivo",
+      "url": "https://open.spotify.com/track/4TlOLjhHZjoVGF0qbQc996"
     },
     {
       "added_at": "2025-04-04 06:02:01",

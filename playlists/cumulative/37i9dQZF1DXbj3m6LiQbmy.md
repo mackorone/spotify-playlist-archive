@@ -4,7 +4,7 @@
 
 > Musica dalla comunità LGBQTIA+ 🇮🇹 Ethan in cover ✨
 
-369 songs - 21 hr 37 min
+371 songs - 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,8 @@
 | [Amami \- La Tosa Disco Remix](https://open.spotify.com/track/4hN5nPKf7hxBJK6shDieXf) | [Lilith Primavera](https://open.spotify.com/artist/5rEatTNJ4Wg968RKZeE019), [La Tosa](https://open.spotify.com/artist/4ewa6gzbDQiCfDgjVpOGYl) | [Amami \(La Tosa Disco Remix\)](https://open.spotify.com/album/77ZpekbQJKAUBSrWDgLJQc) | 3:16 | 2023-07-20 | 2024-01-09 |
 | [Amami \- La Tosa Disco Remix](https://open.spotify.com/track/17x9hPgr15m3Sfvj2rZjf8) | [Lilith Primavera](https://open.spotify.com/artist/5rEatTNJ4Wg968RKZeE019), [La Tosa](https://open.spotify.com/artist/4ewa6gzbDQiCfDgjVpOGYl) | [Nuda](https://open.spotify.com/album/5q3Qt3eOUcVfSxeeWrVIHs) | 3:16 | 2021-11-19 | 2023-08-08 |
 | [Amami Adesso](https://open.spotify.com/track/5D2PUWAXgPJsfJLrYfiRhb) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB), [Blue Phelix](https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt), [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW), [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD), [Andrea Di Giovanni](https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa) | [Effetto Domino](https://open.spotify.com/album/0uWOZ23C7xs3jmcDTbcY6K) | 3:08 | 2024-06-03 |  |
+| [Amore viscerale \(charnel\)](https://open.spotify.com/track/34R0X1WwO2D3Sl3nJr8ayz) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Pas facile](https://open.spotify.com/album/1j3iGC3DHnfA9D2UsWNona) | 2:08 | 2025-04-07 |  |
+| [Amélie](https://open.spotify.com/track/6D65BBGrs7uuHptiwfNpIS) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Amélie](https://open.spotify.com/album/3SK4X4pGo8xa620tGmyIng) | 2:25 | 2025-04-07 |  |
 | [Ancora Tu \- Original Mix](https://open.spotify.com/track/1XMvmOyw3Rxu76Rr1BXYR7) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Mi Senti](https://open.spotify.com/album/6gnG4Hov60aXPblNpKpumI) | 5:07 | 2022-06-26 | 2023-01-28 |
 | [Androgyny](https://open.spotify.com/track/0hAGRr8EIDRkBlwS3laJFs) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Beautiful Garbage](https://open.spotify.com/album/4qm3Qamjfbv5sgw2qDSrup) | 3:09 | 2022-06-26 | 2022-07-16 |
 | [Androgyny](https://open.spotify.com/track/0dNhECjrHx4fMdUUKB3gDI) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Beautiful Garbage \(Remastered\)](https://open.spotify.com/album/0NVuRvkKyJU72UAADRQ1nq) | 3:09 | 2022-07-21 | 2023-01-25 |

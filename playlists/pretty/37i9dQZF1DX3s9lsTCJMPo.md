@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but the classics, the best in Soca anthems from the Caribbean\. Cover: Alison Hinds
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,443 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,481 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 43 | [Rampage](https://open.spotify.com/track/2jCJKQHfbuoMj01xDsqB5p) | [Maestro](https://open.spotify.com/artist/6FFcD5eq6f0dqKxwmExmFA) | [Greatest Hitz](https://open.spotify.com/album/4J2FzGCWuQa4Ug1XI5INGS) | 3:23 |
 | 44 | [Famalay](https://open.spotify.com/track/48OrQFkuuFtlQHtq35xjJ9) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Famalay](https://open.spotify.com/album/0br9N1t4whHPB4Ad7DfHX6) | 3:19 |
 | 45 | [Hello](https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/6eRhLfRy1CbGTD0fkSrJob) | 3:18 |
-| 46 | [Pump Me Up](https://open.spotify.com/track/3koPhZBQ9zWxOhgabspnmg) | [Krosfyah](https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 4:45 |
-| 47 | [Carnival](https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [The Xtatik Circus](https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I) | 3:47 |
+| 46 | [Carnival](https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [The Xtatik Circus](https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I) | 3:47 |
+| 47 | [Pump Me Up](https://open.spotify.com/track/3koPhZBQ9zWxOhgabspnmg) | [Krosfyah](https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 4:45 |
 | 48 | [Nani Wine](https://open.spotify.com/track/67nNlpQ2skJNnSZ9G5q0E7) | [Crazy](https://open.spotify.com/artist/09tdBgP6yxiWD6DOHIT3j5) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 7:12 |
 | 49 | [Follow The Leader, Leader](https://open.spotify.com/track/5dSyyEkLtuirZgxqt1E7fz) | [Nigell & Marvinn](https://open.spotify.com/artist/7IZ8LfX3oesvfUQxMpGtKa) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 5:05 |
 | 50 | [Ragga, Ragga](https://open.spotify.com/track/2eXmkQJ6N9DUkMbMMFTDf8) | [Red Plastic Bag](https://open.spotify.com/artist/4NkT7aguznCxEThCoGDX1L) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 5:36 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 53 | [Lift Ya Leg Up](https://open.spotify.com/track/6pHBIt92RkPztpBh3PW2v1) | [Spice & Co.](https://open.spotify.com/artist/1Iz2YzkS477m4Jd3lvf7S9) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 4:20 |
 | 54 | [Movin'](https://open.spotify.com/track/6c5fzIabjARvfleaqkz8Bb) | [Nigell & Marvinn](https://open.spotify.com/artist/7IZ8LfX3oesvfUQxMpGtKa) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 5:19 |
 | 55 | [Savannah Grass](https://open.spotify.com/track/7aWK2UmGXMeOAfcVMxj8NX) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Savannah Grass](https://open.spotify.com/album/6PBFX1vkmiHtd04gcsXGVA) | 2:59 |
-| 56 | [Bicycle Ride \(Soca Remix\)](https://open.spotify.com/track/4jTg5rkTWI0unkNHrETb86) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Bicycle Ride \(Soca Remix\) \- Single](https://open.spotify.com/album/4rlWbFkNykBqgPDttjYqIs) | 2:52 |
-| 57 | [Soca](https://open.spotify.com/track/0xr6Ne2mFyNAb0HpRExl9V) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm) | [Any Minute Now](https://open.spotify.com/album/7hlfoUiPoxYbecW5SirJOU) | 4:03 |
+| 56 | [Soca](https://open.spotify.com/track/0xr6Ne2mFyNAb0HpRExl9V) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm) | [Any Minute Now](https://open.spotify.com/album/7hlfoUiPoxYbecW5SirJOU) | 4:03 |
+| 57 | [Bicycle Ride \(Soca Remix\)](https://open.spotify.com/track/4jTg5rkTWI0unkNHrETb86) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Bicycle Ride \(Soca Remix\) \- Single](https://open.spotify.com/album/4rlWbFkNykBqgPDttjYqIs) | 2:52 |
 | 58 | [Hold Ya Foot Up & Jump](https://open.spotify.com/track/4WDWYD604qHwJl1lVIZuTc) | [Zulu Lightening](https://open.spotify.com/artist/1V5FoECHc43ZNqVryryd9F) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 4:19 |
 | 59 | [Ouch!](https://open.spotify.com/track/4L4eSiLG59FF7JqWypabPp) | [Prince Unique](https://open.spotify.com/artist/5Q15Bhx82J7gdO7W409gnp) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 6:08 |
 | 60 | [So Long](https://open.spotify.com/track/3VMqM5ryQlsQEH3CWSLLhQ) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [The Purple Heart Riddim](https://open.spotify.com/album/06m6nNsRzCFsb84ULwgdiZ) | 3:03 |

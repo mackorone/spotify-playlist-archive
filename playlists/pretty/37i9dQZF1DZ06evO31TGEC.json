@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 49910,
+  "num_followers": 49916,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAABE9gKA1EU8hhybgZcAWaOZ",
+  "snapshot_id": "Z/HEAAAAAACiOPXU6YC624N+I8EZb/s/",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Besos Tatuados",
-        "url": "https://open.spotify.com/album/1uOOieN551ZN4TPF79lZ4I"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 188836,
-      "name": "Besos Tatuados",
-      "url": "https://open.spotify.com/track/6VnLJq3N4yOK51KQEOD3UA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Bandas Rom\u00e1nticas",
         "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 176626,
       "name": "Esa Muchacha Me Gusta",
       "url": "https://open.spotify.com/track/6gpuslIhDRrUk64OdhdcPU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Besos Tatuados",
+        "url": "https://open.spotify.com/album/1uOOieN551ZN4TPF79lZ4I"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 188836,
+      "name": "Besos Tatuados",
+      "url": "https://open.spotify.com/track/6VnLJq3N4yOK51KQEOD3UA"
     },
     {
       "added_at": null,
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 206133,
-      "name": "Bendito Amor",
-      "url": "https://open.spotify.com/track/2q90JXPdfexbgjWGWHvHOP"
+      "duration_ms": 170853,
+      "name": "Hice De Todo",
+      "url": "https://open.spotify.com/track/2Et0OmVLcyP72ZSmHxQT4J"
     },
     {
       "added_at": null,
@@ -656,25 +656,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 170853,
-      "name": "Hice De Todo",
-      "url": "https://open.spotify.com/track/2Et0OmVLcyP72ZSmHxQT4J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hola Mi Amor (Version Banda)",
-        "url": "https://open.spotify.com/album/33CX3GLSZlALBIkTeVQWDR"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 181816,
-      "name": "Hola Mi Amor (Version Banda)",
-      "url": "https://open.spotify.com/track/0W8A629FGbUBVrHaGB0vZZ"
+      "duration_ms": 206133,
+      "name": "Bendito Amor",
+      "url": "https://open.spotify.com/track/2q90JXPdfexbgjWGWHvHOP"
     },
     {
       "added_at": null,
@@ -691,6 +675,22 @@
       "duration_ms": 168153,
       "name": "Ense\u00f1ame a Olvidar",
       "url": "https://open.spotify.com/track/55xhJyoY3cbUzQIZOtea7i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hola Mi Amor (Version Banda)",
+        "url": "https://open.spotify.com/album/33CX3GLSZlALBIkTeVQWDR"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 181816,
+      "name": "Hola Mi Amor (Version Banda)",
+      "url": "https://open.spotify.com/track/0W8A629FGbUBVrHaGB0vZZ"
     },
     {
       "added_at": null,

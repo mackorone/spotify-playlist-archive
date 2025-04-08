@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 
 > Les classiques du zouk\. Photo : Fanny J
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,628 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,676 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 | 35 | [Ou Lè](https://open.spotify.com/track/45p64coOj1vJMsg9r0TfhR) | [Kassav'](https://open.spotify.com/artist/3y21aFfQQ1Y9dALQLIJ4vj), [Jacob Desvarieux](https://open.spotify.com/artist/3rF9KKd6aPZvLa2NbQsiKH), [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi) | [Ou Lè \- Single](https://open.spotify.com/album/0y5T8Fyz8Ig6J03Ldnwpq3) | 3:17 |
 | 36 | [Laisse parler les gens](https://open.spotify.com/track/3L3XmqvdOZiCoqpfASyoYh) | [Jocelyne Labylle](https://open.spotify.com/artist/6wWz1xebbpDxpRH7BniPwW), [Cheela](https://open.spotify.com/artist/3kWQOU1cd1vJXytVoWgJhy), [Jacob Desvarieux](https://open.spotify.com/artist/3rF9KKd6aPZvLa2NbQsiKH), [Passi](https://open.spotify.com/artist/41o2A93SPxIUxsy5HQjvul) | [An ti fanm Gwada](https://open.spotify.com/album/3Dy9RKhFkzhpFvVr7ORSc6) | 3:21 |
 | 37 | [Softcore](https://open.spotify.com/track/5LztlzY4RCTIeOFqf8fwLC) | [V\-Ro](https://open.spotify.com/artist/684q4KjyZWoCp0Qibd30RY) | [Bien glacé \- Fresh Party](https://open.spotify.com/album/6bDwtgfMFyqxiI2QXvsg2z) | 4:44 |
-| 38 | [La nuit](https://open.spotify.com/track/1qV4eB7KbDS2iD9BrSBcl6) | [Abysse](https://open.spotify.com/artist/6TTSeRokOC64UlPtSx38gV), [Lino](https://open.spotify.com/artist/6RM5eA0SSP7B8UV3qHbLa8) | [Kimberlite Zouk, Vol\. 1](https://open.spotify.com/album/4nP76jWLdl2i2Sm9lN8qUp) | 3:51 |
+| 38 | [La nuit](https://open.spotify.com/track/1qV4eB7KbDS2iD9BrSBcl6) | [Abysse](https://open.spotify.com/artist/6TTSeRokOC64UlPtSx38gV), [Lino](https://open.spotify.com/artist/50XQMobXASNNGho6iHHpFH) | [Kimberlite Zouk, Vol\. 1](https://open.spotify.com/album/4nP76jWLdl2i2Sm9lN8qUp) | 3:51 |
 | 39 | [Femmes fatales, vol\. 3](https://open.spotify.com/track/7q9zssoBwzepWhmP6z98uj) | [Kénédy](https://open.spotify.com/artist/4UQw6LI7i8sdQQMYhwQd71), [Lylah](https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF) | [Femmes fatales, vol\. 3](https://open.spotify.com/album/5s4IeohOHunBRHFWhAopKk) | 4:27 |
 | 40 | [J'ai trouvé l'erreur](https://open.spotify.com/track/6U8V3gE0GhNcixbRzHt8oB) | [Warren](https://open.spotify.com/artist/6pJdJSI3HsmjyL1wccGqxI), [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw) | [E\-zouk](https://open.spotify.com/album/3rDIHpjFKSpPnU4UlAaNmv) | 3:53 |
 | 41 | [Pa Bizwen Palé](https://open.spotify.com/track/0Gn6BjTdojJYxgPN6hJGV6) | [Jocelyne Beroard](https://open.spotify.com/artist/5YZXvHrAg6BE549FF4x6jB), [Kassav'](https://open.spotify.com/artist/3y21aFfQQ1Y9dALQLIJ4vj) | [Yen ki lanmou](https://open.spotify.com/album/1e78o5EFQCBtTEUveWazR7) | 4:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xefHaU0hYd.md) - [plain]
 
 > Listen to the soundtracks of Lovely Runner\. \(선재 업고 튀어의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the ost singers\. \(Ost 가창자들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,167 likes - 104 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,241 likes - 104 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xefHaU0hYd.md) - [plain]
 | 62 | [오래도록 고맙도록](https://open.spotify.com/track/2RGZjmWzjqHQwTcaHCRCtz) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [The Wind, The Sea, The Rain](https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL) | 3:57 |
 | 63 | [우린 제법 잘 어울려요](https://open.spotify.com/track/2eEhmaLIFWdbfqhqiZnu04) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Melodie D’ Amour](https://open.spotify.com/album/5kOTpcNuOvXuAxFFAIOdSA) | 3:34 |
 | 64 | [Curated by UMJI](https://open.spotify.com/track/6pA5coZkiU6SKPVW9CRGVf) | [Lovely Runner](https://open.spotify.com/artist/6oGMJ0SXxbUHhxfwHKsccd) | [Lovely Runner Audio liners](https://open.spotify.com/album/34VqYgGxDnaDjNHyoZE3Ut) | 0:29 |
-| 65 | [왜 그래](https://open.spotify.com/track/2klcj9Vf9fW0djdMzfi9ny) | [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb) | [김현철 Best + 총각파티](https://open.spotify.com/album/7vYWgr3AToTQm83mcrl652) | 6:13 |
+| 65 | [왜그래](https://open.spotify.com/track/2klcj9Vf9fW0djdMzfi9ny) | [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb) | [김현철 Best + 총각파티](https://open.spotify.com/album/7vYWgr3AToTQm83mcrl652) | 6:13 |
 | 66 | [After a long time\(Digging Club Seoul Ver.\)](https://open.spotify.com/track/3Kb84HFyDf5YRCt3GbbywY) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Onstage Digging Club Seoul THEME 01](https://open.spotify.com/album/0VlHbj4WLWabmo5NlIvLBq) | 4:10 |
 | 67 | [The Grand Dreams](https://open.spotify.com/track/534rUMWbKRyzcCSNDCWw5B) | [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [The Grand Dreams](https://open.spotify.com/album/3HX42FuFRH0Pb4lFZFV7uW) | 4:28 |
 | 68 | [Confetti and Balloons](https://open.spotify.com/track/3P3guXf2RRhjPK0R2UlLZV) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEAM BABY](https://open.spotify.com/album/4x4xyLYUjyyBqKlkFT4YdY) | 3:21 |

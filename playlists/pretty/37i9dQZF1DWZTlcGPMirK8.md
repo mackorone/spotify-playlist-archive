@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 
 > The biggest pop hits to come from the land down under.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,035 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,042 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 57 | [UFO](https://open.spotify.com/track/0gsLWzySRe81KoY4LENNY4) | [Sneaky Sound System](https://open.spotify.com/artist/6ieVhWXtOmK6DO6dmX7Eko) | [Sneaky Sound System](https://open.spotify.com/album/3POXlpDv0cikb180eu6k5j) | 4:29 |
 | 58 | [Amnesia](https://open.spotify.com/track/2TY8WCR5gdOwsNOJuOeduG) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5 Seconds Of Summer](https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE) | 3:57 |
 | 59 | [Boom Boom](https://open.spotify.com/track/0UmXSUCoE2I67n8ERd0Hdi) | [Justice Crew](https://open.spotify.com/artist/07Q9n9pbwR6jQ8xH4SA46b) | [Live By The Words](https://open.spotify.com/album/4kc6vrABh87kQ4onFSDPLq) | 3:07 |
-| 60 | [Shiver](https://open.spotify.com/track/2ZudaDYcCTgqqYPV0TrNn8) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Counting Down The Days](https://open.spotify.com/album/1PD3hNs0PRMtOeU11DPpim) | 3:42 |
-| 61 | [Better in Blak](https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better in Blak](https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34) | 3:12 |
+| 60 | [Better in Blak](https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better in Blak](https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34) | 3:12 |
+| 61 | [Shiver](https://open.spotify.com/track/2ZudaDYcCTgqqYPV0TrNn8) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Counting Down The Days](https://open.spotify.com/album/1PD3hNs0PRMtOeU11DPpim) | 3:42 |
 | 62 | [This Heart Attack](https://open.spotify.com/track/2HwlvOkwACOGFySnp16b9l) | [Faker](https://open.spotify.com/artist/0RaO9p4AomXaVUXzV8SPVW) | [Be The Twilight](https://open.spotify.com/album/0AOg1ZrWAG6es29UAhrWyS) | 3:47 |
 | 63 | [Pressure Down](https://open.spotify.com/track/6OKxpfca25E4UC23VR7E73) | [John Farnham](https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y) | [Whispering Jack](https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd) | 3:47 |
 | 64 | [Burn](https://open.spotify.com/track/1XsFwPxVyhouqW6Qu71Ygm) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Greatest Hits 1994 \- 2004](https://open.spotify.com/album/3eArVEbkPCtNGoCFkFCftz) | 4:24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 
 > The best indie songs from all decades for your Halloween party
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,153 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,142 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,12 +78,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 68 | [Halloween Blues](https://open.spotify.com/track/3Wby5EleliIk9ZF9aYynX9) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [We Need Medicine](https://open.spotify.com/album/20K4oohZg7r3nYN8VSBtj6) | 3:16 |
 | 69 | [Hunting for Witches](https://open.spotify.com/track/0ZXCTJS5QaNQcYK4PgTvYl) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend In the City](https://open.spotify.com/album/3OiE2agv6jj4K0vh6wOh7y) | 3:31 |
 | 70 | [Black Magic](https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [By Default](https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn) | 2:48 |
-| 71 | [Halloween](https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Plastic Surgery Disasters/In God We Trust, Inc.](https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug) | 3:35 |
-| 72 | [Witches! Witches! Rest Now in the Fire](https://open.spotify.com/track/7a6SaJ71Kwn1caXPAY3OsB) | [Get Well Soon](https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s) | [Rest Now, Weary Head! You Will Get Well Soon](https://open.spotify.com/album/48ypMHut6U8zn4AQlJdtcF) | 3:59 |
-| 73 | [They are night zombies! They are neighbours!! They have come back from the dead!! Ahhhh!](https://open.spotify.com/track/6JjhXkzgVYwXznTwsG79Uj) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/4T9nh9EEDX3XGt11hyim9o) | 5:09 |
-| 74 | [Evil Eye](https://open.spotify.com/track/2F3dEXRcLx9nQT8qCnHj1j) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Right Thoughts, Right Words, Right Action \(Deluxe Edition\)](https://open.spotify.com/album/4X6YC6PgSMt5s7ARwGpLJ7) | 2:47 |
-| 75 | [Superstition](https://open.spotify.com/track/5Cl0OsI6tM9hakvx0GJMGQ) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Keep On Your Mean Side](https://open.spotify.com/album/7yosQ283GvPYGzKBjp6gzk) | 4:40 |
-| 76 | [Let's Have A Satanic Orgy](https://open.spotify.com/track/1wJCQOm2LmQVTfO0d2Ax87) | [Twin Temple](https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc) | [Let's Have A Satanic Orgy](https://open.spotify.com/album/6wKzNT7iuR06KiXJBTpkuV) | 4:04 |
+| 71 | [Let's Have A Satanic Orgy](https://open.spotify.com/track/1wJCQOm2LmQVTfO0d2Ax87) | [Twin Temple](https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc) | [Let's Have A Satanic Orgy](https://open.spotify.com/album/6wKzNT7iuR06KiXJBTpkuV) | 4:04 |
+| 72 | [Halloween](https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Plastic Surgery Disasters/In God We Trust, Inc.](https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug) | 3:35 |
+| 73 | [Witches! Witches! Rest Now in the Fire](https://open.spotify.com/track/7a6SaJ71Kwn1caXPAY3OsB) | [Get Well Soon](https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s) | [Rest Now, Weary Head! You Will Get Well Soon](https://open.spotify.com/album/48ypMHut6U8zn4AQlJdtcF) | 3:59 |
+| 74 | [They are night zombies! They are neighbours!! They have come back from the dead!! Ahhhh!](https://open.spotify.com/track/6JjhXkzgVYwXznTwsG79Uj) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/4T9nh9EEDX3XGt11hyim9o) | 5:09 |
+| 75 | [Evil Eye](https://open.spotify.com/track/2F3dEXRcLx9nQT8qCnHj1j) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Right Thoughts, Right Words, Right Action \(Deluxe Edition\)](https://open.spotify.com/album/4X6YC6PgSMt5s7ARwGpLJ7) | 2:47 |
+| 76 | [Superstition](https://open.spotify.com/track/5Cl0OsI6tM9hakvx0GJMGQ) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Keep On Your Mean Side](https://open.spotify.com/album/7yosQ283GvPYGzKBjp6gzk) | 4:40 |
 | 77 | [I Died So I Could Haunt You](https://open.spotify.com/track/4KgMpCMGIQYWvCqwRHlwIJ) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [The Five Ghosts](https://open.spotify.com/album/1VNSdysVD6rAJKsW7IInNU) | 3:05 |
 | 78 | [Blood Red Moon](https://open.spotify.com/track/6PlzmahLfw9VTRARbIdGT7) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Blood Red Moon](https://open.spotify.com/album/3clEQCPrQ7MAfW3vUasGpj) | 4:31 |
 | 79 | [A Girl Like You](https://open.spotify.com/track/3KrIoPBs9kptUnczFNg9tW) | [Anna B Savage](https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi) | [A Girl Like You](https://open.spotify.com/album/6vtVr80gX551QRmXU6QZJ4) | 3:12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 547 songs - 1 day 12 hr 22 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 548 songs - 1 day 12 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -555,5 +555,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 545 | [Light Bath](https://open.spotify.com/track/720pdWg4AIjiYSpY7kT8YY) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [The Complete Score from "The Catherine Wheel"](https://open.spotify.com/album/5DyoXk3EjmrhbqUv0FiFA6) | 1:11 |
 | 546 | [Now I'm Your Mom](https://open.spotify.com/track/63PFGLwfK3AMCiqp7H0SV1) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [Uh\-Oh](https://open.spotify.com/album/6haW3z5RoXNQCRqHuIhu6C) | 4:43 |
 | 547 | [Kitchen](https://open.spotify.com/track/72ylauA1S1X3Yz9l5aufhu) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 2:44 |
+| 548 | [CSS Suxxx](https://open.spotify.com/track/74gtCn2IdvChppm9YCdiZY) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD) | 1:56 |
 
-Snapshot ID: `AAAHDwsilwlUm4EGY++qeBthhPtG28Kb`
+Snapshot ID: `AAAHEOnlfEyIvVhdlcehLHWBZCDmRFwz`

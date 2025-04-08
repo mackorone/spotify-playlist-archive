@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 
 > Piezas acústicas que te ayudarán a enfocarte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,860 likes - 99 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,871 likes - 99 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cuando Brille El Sol](https://open.spotify.com/track/1ySHobU6CwzjPlcBs54bWd) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:25 |
-| 2 | [San Lorenzo](https://open.spotify.com/track/5Uos52MYyea9qBSqImO99M) | [Serenity State of Mind](https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ) | [San Lorenzo](https://open.spotify.com/album/31g2RCgCvod7x94rdNWwtW) | 2:08 |
+| 1 | [San Lorenzo](https://open.spotify.com/track/5Uos52MYyea9qBSqImO99M) | [Serenity State of Mind](https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ) | [San Lorenzo](https://open.spotify.com/album/31g2RCgCvod7x94rdNWwtW) | 2:08 |
+| 2 | [Cuando Brille El Sol](https://open.spotify.com/track/1ySHobU6CwzjPlcBs54bWd) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:25 |
 | 3 | [Ya Te Confirmo Corazon](https://open.spotify.com/track/1VKBKydyLGhHvtwMCgbK4s) | [Playa Calentoncito](https://open.spotify.com/artist/34kFB8juxWjmp0ZlMtbYFH) | [Ya Te Confirmo Corazon](https://open.spotify.com/album/50KtoPA5CRcxogCGZHzkt6) | 2:51 |
 | 4 | [Carnival](https://open.spotify.com/track/1l6hNZj7MbV2CUqDuWblY3) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [Carnival](https://open.spotify.com/album/25Kmydp2QIq58lXjCMO0xX) | 2:06 |
 | 5 | [Bolero Mientras Tanto](https://open.spotify.com/track/0iKHZPDNJBn9o4tPawbjQU) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Bolero Mientras Tanto](https://open.spotify.com/album/4L055vgTYvevOpwOXPTR6Z) | 2:59 |
@@ -27,20 +27,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 | 17 | [Pedacinhos do Ceu \- Laid\-back Chorinho Cover](https://open.spotify.com/track/1RK5gURQXdDOJwr9mSmTYj) | [Sandro Rebel](https://open.spotify.com/artist/6wirKUVyFpkpWR5ZZjECq8) | [Chorinho Alegre](https://open.spotify.com/album/0XgWIggXCqXxZu6eNoewje) | 4:43 |
 | 18 | [Una Luz en el Silencio](https://open.spotify.com/track/5sKLWKEA2OEhBKdERE70vu) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Una Luz en el Silencio](https://open.spotify.com/album/0tuw4ClrE9s1IIsMb8Qgld) | 4:55 |
 | 19 | [Pão de Açúcar](https://open.spotify.com/track/07ZdqvJ37JIGrbybE2iVPZ) | [El Equipo Del Norte](https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U) | [Pão de Açúcar](https://open.spotify.com/album/5qz7sVtLSdqQatSiYUpJWM) | 3:42 |
-| 20 | [Andorra](https://open.spotify.com/track/3DUSb184SgmSoaogc936jo) | [Lexi Silver](https://open.spotify.com/artist/1xs4hNvOlaVhbnA6OeCp9B) | [Andorra](https://open.spotify.com/album/2Qo97FlkMgmjeaoaCjqQ8e) | 3:34 |
-| 21 | [Salta La Linda](https://open.spotify.com/track/75KwjASkRESPwRAaYuBQmB) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Salta La Linda](https://open.spotify.com/album/1MNQjdKTRRKMHTedD3s7WB) | 3:21 |
-| 22 | [Quiereme Corazon Quiereme](https://open.spotify.com/track/0K38jgUjNNXz6AEgQneS6M) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Quiereme Corazon Quiereme](https://open.spotify.com/album/7z9wIysqZqoUNFso68D3zK) | 2:54 |
-| 23 | [El Carretero](https://open.spotify.com/track/3GAFugCvoutIwEAAzbeB74) | [Los Hermanos Cabaiguan](https://open.spotify.com/artist/3lD25kA4bqSWreXLA4sT5g) | [El Carretero](https://open.spotify.com/album/1VP2nwTHbf6K98NnAGtkjW) | 3:28 |
-| 24 | [El Pedro](https://open.spotify.com/track/5iskfQEmsSMqsXaSqaHFZM) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [El Pedro](https://open.spotify.com/album/0G8DZq836R0rIisEZtxlrj) | 4:36 |
-| 25 | [Remember](https://open.spotify.com/track/4mPissvGQIf8590ldIJQu3) | [Adrian Muriel](https://open.spotify.com/artist/0JSV9pQZCkhOL2pLXOGO3T) | [White Nights](https://open.spotify.com/album/2OOVDZBJZmeyXxg2OzhlL7) | 3:07 |
-| 26 | [Runaway](https://open.spotify.com/track/0VwA4OOrK4K0qrfaFBHCoi) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Runaway](https://open.spotify.com/album/2R6ToEr49KC9zrmE3zevdV) | 2:50 |
-| 27 | [If I Hold Her Tight](https://open.spotify.com/track/7DyqszQV23g2raAm9hYskl) | [Adrian Muriel](https://open.spotify.com/artist/0JSV9pQZCkhOL2pLXOGO3T) | [White Nights](https://open.spotify.com/album/2OOVDZBJZmeyXxg2OzhlL7) | 3:41 |
-| 28 | [Fred's Theme](https://open.spotify.com/track/5xTaxs4Dk2oMBIVH4PXW8U) | [Jeff Paul](https://open.spotify.com/artist/6wlWoM5FRXLtNgl04EkZyN) | [Fred's Theme](https://open.spotify.com/album/066gCzWyicE5jaGH0uvTRR) | 2:05 |
-| 29 | [Beber](https://open.spotify.com/track/6zdOx3LZzFC2N8sktS9Q9d) | [Simon Oliveira](https://open.spotify.com/artist/2XakqbuJZsTHDXb0NbSqvr) | [Beber](https://open.spotify.com/album/3cY2rn8DBLUH2JCI4w15km) | 4:13 |
-| 30 | [Te Echo De Menos](https://open.spotify.com/track/1u2C4fLwsMerlZCqumCl6z) | [Gabriel Vilente](https://open.spotify.com/artist/5sXiB1kUrPOBBWf3SqrCYO) | [Te Echo De Menos](https://open.spotify.com/album/7FS6hAIyRA7VJ7ELMKH6gb) | 3:04 |
-| 31 | [Apaixonar](https://open.spotify.com/track/5Ib0qJa6M6DXzjwbZB7CKo) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [Apaixonar](https://open.spotify.com/album/03axOJ5rnB6C91PKcnLyWA) | 2:18 |
-| 32 | [No Te Mentí](https://open.spotify.com/track/1YsobFyJPJXt0B1EGizzNv) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:04 |
-| 33 | [In The Morning Sun](https://open.spotify.com/track/3GK06PqC7srEok5b6tlfAc) | [Mario Regio](https://open.spotify.com/artist/37J9hiCCgzUYyi8V46abD2) | [Pinus Halepensis](https://open.spotify.com/album/5VbSF6F1JbowAFGpB3YB9C) | 3:33 |
+| 20 | [Te Echo De Menos](https://open.spotify.com/track/1u2C4fLwsMerlZCqumCl6z) | [Gabriel Vilente](https://open.spotify.com/artist/5sXiB1kUrPOBBWf3SqrCYO) | [Te Echo De Menos](https://open.spotify.com/album/7FS6hAIyRA7VJ7ELMKH6gb) | 3:04 |
+| 21 | [Andorra](https://open.spotify.com/track/3DUSb184SgmSoaogc936jo) | [Lexi Silver](https://open.spotify.com/artist/1xs4hNvOlaVhbnA6OeCp9B) | [Andorra](https://open.spotify.com/album/2Qo97FlkMgmjeaoaCjqQ8e) | 3:34 |
+| 22 | [Salta La Linda](https://open.spotify.com/track/75KwjASkRESPwRAaYuBQmB) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Salta La Linda](https://open.spotify.com/album/1MNQjdKTRRKMHTedD3s7WB) | 3:21 |
+| 23 | [Quiereme Corazon Quiereme](https://open.spotify.com/track/0K38jgUjNNXz6AEgQneS6M) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Quiereme Corazon Quiereme](https://open.spotify.com/album/7z9wIysqZqoUNFso68D3zK) | 2:54 |
+| 24 | [El Carretero](https://open.spotify.com/track/3GAFugCvoutIwEAAzbeB74) | [Los Hermanos Cabaiguan](https://open.spotify.com/artist/3lD25kA4bqSWreXLA4sT5g) | [El Carretero](https://open.spotify.com/album/1VP2nwTHbf6K98NnAGtkjW) | 3:28 |
+| 25 | [El Pedro](https://open.spotify.com/track/5iskfQEmsSMqsXaSqaHFZM) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [El Pedro](https://open.spotify.com/album/0G8DZq836R0rIisEZtxlrj) | 4:36 |
+| 26 | [Remember](https://open.spotify.com/track/4mPissvGQIf8590ldIJQu3) | [Adrian Muriel](https://open.spotify.com/artist/0JSV9pQZCkhOL2pLXOGO3T) | [White Nights](https://open.spotify.com/album/2OOVDZBJZmeyXxg2OzhlL7) | 3:07 |
+| 27 | [Runaway](https://open.spotify.com/track/0VwA4OOrK4K0qrfaFBHCoi) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Runaway](https://open.spotify.com/album/2R6ToEr49KC9zrmE3zevdV) | 2:50 |
+| 28 | [In The Morning Sun](https://open.spotify.com/track/3GK06PqC7srEok5b6tlfAc) | [Mario Regio](https://open.spotify.com/artist/37J9hiCCgzUYyi8V46abD2) | [Pinus Halepensis](https://open.spotify.com/album/5VbSF6F1JbowAFGpB3YB9C) | 3:33 |
+| 29 | [If I Hold Her Tight](https://open.spotify.com/track/7DyqszQV23g2raAm9hYskl) | [Adrian Muriel](https://open.spotify.com/artist/0JSV9pQZCkhOL2pLXOGO3T) | [White Nights](https://open.spotify.com/album/2OOVDZBJZmeyXxg2OzhlL7) | 3:41 |
+| 30 | [Fred's Theme](https://open.spotify.com/track/5xTaxs4Dk2oMBIVH4PXW8U) | [Jeff Paul](https://open.spotify.com/artist/6wlWoM5FRXLtNgl04EkZyN) | [Fred's Theme](https://open.spotify.com/album/066gCzWyicE5jaGH0uvTRR) | 2:05 |
+| 31 | [Beber](https://open.spotify.com/track/6zdOx3LZzFC2N8sktS9Q9d) | [Simon Oliveira](https://open.spotify.com/artist/2XakqbuJZsTHDXb0NbSqvr) | [Beber](https://open.spotify.com/album/3cY2rn8DBLUH2JCI4w15km) | 4:13 |
+| 32 | [Apaixonar](https://open.spotify.com/track/5Ib0qJa6M6DXzjwbZB7CKo) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [Apaixonar](https://open.spotify.com/album/03axOJ5rnB6C91PKcnLyWA) | 2:18 |
+| 33 | [No Te Mentí](https://open.spotify.com/track/1YsobFyJPJXt0B1EGizzNv) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:04 |
 | 34 | [Guajira En F](https://open.spotify.com/track/4F6Nt1JNncQFuvUQfPX3a3) | [Los Hermanos Cabaiguan](https://open.spotify.com/artist/3lD25kA4bqSWreXLA4sT5g) | [Guajira En F](https://open.spotify.com/album/77PDkLl1ZBM7L6RmikwgQW) | 2:48 |
 | 35 | [Shorter days in Vermont](https://open.spotify.com/track/1XeFG3laFnydriKUlyBtOr) | [Sylvia Warren](https://open.spotify.com/artist/0Jvjt5h5TJPxU0hsoTljL7) | [Die Donau](https://open.spotify.com/album/1hcqmGoCbBo79hyTfMLnl9) | 3:16 |
 | 36 | [Tierra del Fuego](https://open.spotify.com/track/5Yonb4VS0jBm67bXr4iY5M) | [Luth](https://open.spotify.com/artist/4gLCaEykpiJdImDlT5O3am) | [Tierra del Fuego](https://open.spotify.com/album/0WV6eh9KvKbrFiNSRHgbS1) | 2:59 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 | 98 | [Verano](https://open.spotify.com/track/4AIi8Q87OYukdx1K27k5D1) | [Juan Carlos Allende](https://open.spotify.com/artist/1Ra3B3zt4TA4fzXpSW4oAR) | [Moods](https://open.spotify.com/album/7iMQJdh4iX3SbvA7x9HxID) | 4:30 |
 | 99 | [silver lining](https://open.spotify.com/track/6HjCf5a7Zw9VrIxTjL15Z0) | [Andrew Savignon](https://open.spotify.com/artist/64RGjNCHRYOPxY93HKm2pZ) | [Lonely Sailor](https://open.spotify.com/album/6pEABLFpolzNbmvXnrBYEL) | 3:04 |
 
-Snapshot ID: `Z+1LgAAAAAC67FTKMXk5JjFy9WFzJRMP`
+Snapshot ID: `Z/PnGAAAAABMoAHVVUykFqs0wW52qNEE`

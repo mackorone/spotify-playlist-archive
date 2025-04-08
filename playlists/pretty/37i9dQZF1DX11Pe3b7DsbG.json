@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 231841,
+  "num_followers": 231839,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2025-04-04 14:30:42",
       "album": {
+        "name": "Espiral de Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/6IczDBDR1kf2VyLjipgCPT"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 220240,
+      "name": "L\u00e1 Vem Voc\u00ea",
+      "url": "https://open.spotify.com/track/7n0OAb9pyMzUKCp7LpONFT"
+    },
+    {
+      "added_at": "2025-04-04 14:30:42",
+      "album": {
         "name": "Mundu\u00ea",
         "url": "https://open.spotify.com/album/6kJ0JRouLgeP9Pg45kev9v"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 200026,
       "name": "Mulheres - Ao Vivo",
       "url": "https://open.spotify.com/track/6Kjil04DcA70F6h3WjLz2e"
-    },
-    {
-      "added_at": "2025-04-04 14:30:42",
-      "album": {
-        "name": "Espiral de Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/6IczDBDR1kf2VyLjipgCPT"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 220240,
-      "name": "L\u00e1 Vem Voc\u00ea",
-      "url": "https://open.spotify.com/track/7n0OAb9pyMzUKCp7LpONFT"
     },
     {
       "added_at": "2025-04-04 14:30:42",

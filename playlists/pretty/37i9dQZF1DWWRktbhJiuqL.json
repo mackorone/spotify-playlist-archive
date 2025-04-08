@@ -1,6 +1,6 @@
 {
   "description": "Various sounds, various decades, but with one thing in common.",
-  "num_followers": 2023338,
+  "num_followers": 2023443,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "Audioslave",
-        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
-      },
-      "artists": [
-        {
-          "name": "Audioslave",
-          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
-        }
-      ],
-      "duration_ms": 277840,
-      "name": "Show Me How to Live",
-      "url": "https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "The Joker",
         "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 264503,
       "name": "The Joker",
       "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Audioslave",
+        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
+      },
+      "artists": [
+        {
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+        }
+      ],
+      "duration_ms": 277840,
+      "name": "Show Me How to Live",
+      "url": "https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "Metal Health",
-        "url": "https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK"
-      },
-      "artists": [
-        {
-          "name": "Quiet Riot",
-          "url": "https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3"
-        }
-      ],
-      "duration_ms": 290960,
-      "name": "Cum on Feel the Noize",
-      "url": "https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "Led Zeppelin IV (Deluxe Edition)",
         "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 220560,
       "name": "Rock and Roll - Remaster",
       "url": "https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Metal Health",
+        "url": "https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK"
+      },
+      "artists": [
+        {
+          "name": "Quiet Riot",
+          "url": "https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3"
+        }
+      ],
+      "duration_ms": 290960,
+      "name": "Cum on Feel the Noize",
+      "url": "https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
+        "name": "No Name",
+        "url": "https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 191746,
+      "name": "That's How I'm Feeling",
+      "url": "https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
         "name": "One Last Dance (From \"Venom: The Last Dance\")",
         "url": "https://open.spotify.com/album/1jpbeJtRIMU4zgnZfh48rz"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 150636,
       "name": "One Last Dance (From \"Venom: The Last Dance\")",
       "url": "https://open.spotify.com/track/4vJk5lD1Lk89jgBOk8E7zK"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
-        "name": "No Name",
-        "url": "https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 191746,
-      "name": "That's How I'm Feeling",
-      "url": "https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
+        "name": "The Essential Billy Joel",
+        "url": "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 177266,
+      "name": "It's Still Rock and Roll to Me",
+      "url": "https://open.spotify.com/track/7LbOQt7isddrw3Bs3Czl7E"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
         "name": "TOMBSTONE TOWN (feat. Slash)",
         "url": "https://open.spotify.com/album/6ADtO6kde5TxMseMn2r7WO"
       },
@@ -1479,22 +1495,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "The Essential Billy Joel",
-        "url": "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 177266,
-      "name": "It's Still Rock and Roll to Me",
-      "url": "https://open.spotify.com/track/7LbOQt7isddrw3Bs3Czl7E"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "See Where The Night Goes",
         "url": "https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg"
       },
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "Hear Me Out",
-        "url": "https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK"
-      },
-      "artists": [
-        {
-          "name": "Reignwolf",
-          "url": "https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK"
-        }
-      ],
-      "duration_ms": 186992,
-      "name": "Keeper",
-      "url": "https://open.spotify.com/track/7wZc7nmPQIoJ4xTW0iJcAd"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "Blunderbuss",
         "url": "https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 155720,
       "name": "Sixteen Saltines",
       "url": "https://open.spotify.com/track/3XBPCbTU9rSGuyuK7Xbj4B"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Hear Me Out",
+        "url": "https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK"
+      },
+      "artists": [
+        {
+          "name": "Reignwolf",
+          "url": "https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK"
+        }
+      ],
+      "duration_ms": 186992,
+      "name": "Keeper",
+      "url": "https://open.spotify.com/track/7wZc7nmPQIoJ4xTW0iJcAd"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 224480,
-      "name": "Sinister Kid",
-      "url": "https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "Orgy of the Damned",
         "url": "https://open.spotify.com/album/6aTrDhVw5QgXSz2JM4V8hc"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 273520,
       "name": "Oh Well feat. Chris Stapleton",
       "url": "https://open.spotify.com/track/0o16V4WswA4aknX8WmVDsQ"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 224480,
+      "name": "Sinister Kid",
+      "url": "https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/7h4yt2jXMs1WSzMn1EecLd"
-      },
-      "artists": [
-        {
-          "name": "BRKN LOVE",
-          "url": "https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp"
-        }
-      ],
-      "duration_ms": 227064,
-      "name": "20/20 Vision",
-      "url": "https://open.spotify.com/track/3rzUxFVoUazdBrFkslPmYx"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "Mammoth II",
         "url": "https://open.spotify.com/album/4IBqnUmKDyB8WUv1q8ElSi"
       },
@@ -2119,18 +2103,18 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "One Foot In The Grave",
-        "url": "https://open.spotify.com/album/1WMolNCGsDhGvhD0Nd0phw"
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/7h4yt2jXMs1WSzMn1EecLd"
       },
       "artists": [
         {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+          "name": "BRKN LOVE",
+          "url": "https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp"
         }
       ],
-      "duration_ms": 222153,
-      "name": "One Foot In The Grave",
-      "url": "https://open.spotify.com/track/54fPJ9UDx68KkayeuskyAJ"
+      "duration_ms": 227064,
+      "name": "20/20 Vision",
+      "url": "https://open.spotify.com/track/3rzUxFVoUazdBrFkslPmYx"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -2147,6 +2131,22 @@
       "duration_ms": 217066,
       "name": "Hard Working Man",
       "url": "https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "One Foot In The Grave",
+        "url": "https://open.spotify.com/album/1WMolNCGsDhGvhD0Nd0phw"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 222153,
+      "name": "One Foot In The Grave",
+      "url": "https://open.spotify.com/track/54fPJ9UDx68KkayeuskyAJ"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "The Perfume of Decay",
-        "url": "https://open.spotify.com/album/2ZRUCUx9ZFhwbXqyMeoR6y"
-      },
-      "artists": [
-        {
-          "name": "Tigercub",
-          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
-        }
-      ],
-      "duration_ms": 155603,
-      "name": "Play My Favourite Song",
-      "url": "https://open.spotify.com/track/4fNlUk5SjD5bltAlOZDCSC"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "Superblood Wolfmoon",
         "url": "https://open.spotify.com/album/7B3s01FXwxQR7vUqajnLpg"
       },
@@ -2315,18 +2299,18 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "Squid Ink",
-        "url": "https://open.spotify.com/album/7h0AP7QpmmPaMCyTqJETI7"
+        "name": "The Perfume of Decay",
+        "url": "https://open.spotify.com/album/2ZRUCUx9ZFhwbXqyMeoR6y"
       },
       "artists": [
         {
-          "name": "My Morning Jacket",
-          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+          "name": "Tigercub",
+          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
         }
       ],
-      "duration_ms": 199693,
-      "name": "Squid Ink",
-      "url": "https://open.spotify.com/track/7q80ZB7b3n1ScWbXNNmAVs"
+      "duration_ms": 155603,
+      "name": "Play My Favourite Song",
+      "url": "https://open.spotify.com/track/4fNlUk5SjD5bltAlOZDCSC"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -2343,6 +2327,22 @@
       "duration_ms": 225466,
       "name": "Just What the Doctor Ordered",
       "url": "https://open.spotify.com/track/6uufS093628MRruPbXiW5g"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Squid Ink",
+        "url": "https://open.spotify.com/album/7h0AP7QpmmPaMCyTqJETI7"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "Squid Ink",
+      "url": "https://open.spotify.com/track/7q80ZB7b3n1ScWbXNNmAVs"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -2411,6 +2411,22 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
+        "name": "\"Filthy\"",
+        "url": "https://open.spotify.com/album/0Br6de1bBO1f2FStNS2Vl5"
+      },
+      "artists": [
+        {
+          "name": "Ayron Jones",
+          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
+        }
+      ],
+      "duration_ms": 181447,
+      "name": "\"Filthy\"",
+      "url": "https://open.spotify.com/track/2KkglYERoV6dGi9ME4iYsw"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
         "name": "Black Haired Girl",
         "url": "https://open.spotify.com/album/7qbPwATVYs5drh2TcURDt7"
       },
@@ -2427,22 +2443,6 @@
       "duration_ms": 177160,
       "name": "Black Haired Girl",
       "url": "https://open.spotify.com/track/2TwPYiJmam0lmuscobFGML"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
-        "name": "\"Filthy\"",
-        "url": "https://open.spotify.com/album/0Br6de1bBO1f2FStNS2Vl5"
-      },
-      "artists": [
-        {
-          "name": "Ayron Jones",
-          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
-        }
-      ],
-      "duration_ms": 181447,
-      "name": "\"Filthy\"",
-      "url": "https://open.spotify.com/track/2KkglYERoV6dGi9ME4iYsw"
     },
     {
       "added_at": "2025-02-14 05:00:20",

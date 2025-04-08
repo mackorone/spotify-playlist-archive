@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 
 > Las favoritas de los patrones\. Luis Mexia, El Rabbanito en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,913 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,994 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 | 80 | [El Señor De La Montaña \- Live](https://open.spotify.com/track/1eWdYjw95seoa2kSlEaLQE) | [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Señor De La Montaña \(Live\)](https://open.spotify.com/album/6ADjYjAhIbCuWOLj8uDF97) | 4:00 |
 | 81 | [Serafín](https://open.spotify.com/track/7s9pcSenofBwaNfI0vjisP) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 3:09 |
 | 82 | [El Muchacho de la Barba](https://open.spotify.com/track/7fBIGbmh5x4K8tBaBCK5iD) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [El Muchacho de la Barba](https://open.spotify.com/album/18YC6REM3qcCvpDlFB0TgQ) | 2:34 |
-| 83 | [Déjenlos Pasar](https://open.spotify.com/track/0qsvu01LWI7F2MIVA0kjQm) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Déjenlos Pasar](https://open.spotify.com/album/4P66jwFhheR29rXvoV6fZO) | 2:04 |
-| 84 | [Nos Gusto La Mafia "EXOTICÓN 2.0"](https://open.spotify.com/track/34ivsTSHJiSlnQ3ROqDLpg) | [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1), [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r) | [Nos Gusto La Mafia "EXOTICÓN 2.0"](https://open.spotify.com/album/4V6dAxy3fxZSWnQsiLETSj) | 2:45 |
-| 85 | [El Número](https://open.spotify.com/track/2S1L7g0N4ZH4DEzKoetT5N) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac) | [EVO LUXURY 2](https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ) | 3:09 |
+| 83 | [El Número](https://open.spotify.com/track/2S1L7g0N4ZH4DEzKoetT5N) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac) | [EVO LUXURY 2](https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ) | 3:09 |
+| 84 | [Déjenlos Pasar](https://open.spotify.com/track/0qsvu01LWI7F2MIVA0kjQm) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Déjenlos Pasar](https://open.spotify.com/album/4P66jwFhheR29rXvoV6fZO) | 2:04 |
+| 85 | [Nos Gusto La Mafia "EXOTICÓN 2.0"](https://open.spotify.com/track/34ivsTSHJiSlnQ3ROqDLpg) | [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1), [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r) | [Nos Gusto La Mafia "EXOTICÓN 2.0"](https://open.spotify.com/album/4V6dAxy3fxZSWnQsiLETSj) | 2:45 |
 | 86 | [Vice City](https://open.spotify.com/track/5vCvXUhlrqjNdDSXZpl1vi) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Vice City](https://open.spotify.com/album/23LPkEHsmyraqgagmBLvfK) | 3:03 |
 | 87 | [El Panu \(En Vivo\)](https://open.spotify.com/track/0W1ifaL01aXznVi6ZhMWir) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [La Cruda Deluxe \(En Vivo\)](https://open.spotify.com/album/7FULQRQbO2j0c3uqpr4N5u) | 2:37 |
 | 88 | [El Mago Merlín](https://open.spotify.com/track/4dbH1Md7KseiHuzWAyE3Y3) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Mago Merlín](https://open.spotify.com/album/2tkBG4kM8b2punqvupfFSm) | 2:41 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 
 > el primer tonto de tu vida quiero ser 🥺🥀😭
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,598 likes - 125 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,854 likes - 125 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,8 +126,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 116 | [Navidad Sin Ti](https://open.spotify.com/track/0BgKO3jvcTWhJ8Y8egyAn1) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 4:14 |
 | 117 | [Dos Cosas](https://open.spotify.com/track/6845FMlsehRJIXLnzfYRSb) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Amor Traicionero](https://open.spotify.com/album/3MGs5JYhn0A2Zpukzq45tq) | 3:49 |
 | 118 | [Viviras](https://open.spotify.com/track/7fhkGd7BHMhf8tLSolEsBM) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Viviras](https://open.spotify.com/album/3pXxiwjoWdrXWLVWiJYDee) | 3:35 |
-| 119 | [Falso Amor](https://open.spotify.com/track/4UcizizNU6ek3gYr59DX2j) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Falso Amor](https://open.spotify.com/album/2Df8guHfWqzoQQAhzMhUOr) | 2:56 |
-| 120 | [Deja de Llorar Chiquilla](https://open.spotify.com/track/5tPNtzaWcxqPKZIp4CJoTU) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [En Mexico](https://open.spotify.com/album/0Dwx2FDxz0puFHQGATzOiZ) | 3:40 |
+| 119 | [Deja de Llorar Chiquilla](https://open.spotify.com/track/5tPNtzaWcxqPKZIp4CJoTU) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [En Mexico](https://open.spotify.com/album/0Dwx2FDxz0puFHQGATzOiZ) | 3:40 |
+| 120 | [Falso Amor](https://open.spotify.com/track/4UcizizNU6ek3gYr59DX2j) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Falso Amor](https://open.spotify.com/album/2Df8guHfWqzoQQAhzMhUOr) | 2:56 |
 | 121 | [Lo que te queda](https://open.spotify.com/track/6aS1aIY9bpyYRvRRtaG5cq) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [25 Exitos](https://open.spotify.com/album/3vhcKso4jXKeXF5TfJDNwo) | 2:28 |
 | 122 | [Hay cosas inolvidables](https://open.spotify.com/track/5Hjuu63Z7WiQ6hUYx9nTXl) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Antología\. \. \. Los Solitarios](https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg) | 2:52 |
 | 123 | [Yo Sé Que No Es Feliz](https://open.spotify.com/track/7JRJrFh2ZupDLQ9R1blNY3) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Canta Trovador](https://open.spotify.com/album/5N2NkUNtknVxG1BtWy45U8) | 3:25 |

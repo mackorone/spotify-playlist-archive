@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 
 > layan je
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,649 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,721 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 45 | [Cinta Dalam Hati](https://open.spotify.com/track/4NOniDRyYcBjF6m1x3U8TK) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Untukmu Selamanya](https://open.spotify.com/album/0JFtcuEuZqdurpqOY65Pva) | 4:43 |
 | 46 | [Kasih Tak Sampai](https://open.spotify.com/track/1oAWbr6TXkRajJKgSm1vF5) | [Padi](https://open.spotify.com/artist/6PL8FkAt5nOZwYpPIhuAJg) | [Sesuatu Yang Tertunda](https://open.spotify.com/album/6mkU1z9nlxjLcmFHz7TsX1) | 4:53 |
 | 47 | [Terpatah Terluka](https://open.spotify.com/track/7wsAlbsjk0unxRsB4Sug4B) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Terpatah Terluka](https://open.spotify.com/album/2IpdxbEmOcllJBByXu3AAB) | 3:34 |
-| 48 | [Tak Dianggap](https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Dianggap](https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j) | 2:59 |
-| 49 | [Bukan Dia Tapi Aku](https://open.spotify.com/track/5dhJhL42WWQLYBUTbMtLF7) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Setengah Mati Merindu](https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF) | 4:36 |
+| 48 | [Bukan Dia Tapi Aku](https://open.spotify.com/track/5dhJhL42WWQLYBUTbMtLF7) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Setengah Mati Merindu](https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF) | 4:36 |
+| 49 | [Tak Dianggap](https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Dianggap](https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j) | 2:59 |
 | 50 | [Terlintas](https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:55 |
 
 Snapshot ID: `Z+6miwAAAACDxopB/D2Sp+Hwwu6wu6/y`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 
 > Take it easy with these laid back tracks from the eighties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,487,893 likes - 80 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,487,978 likes - 80 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 | 18 | [Hungry Heart](https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 3:19 |
 | 19 | [Break My Stride](https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | [I Don't Speak The Language](https://open.spotify.com/album/2coqGqbnSCAy740mClWesA) | 3:04 |
 | 20 | [All Out of Love](https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Lost in Love](https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW) | 4:03 |
-| 21 | [I'll Stand by You](https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Last of the Independents](https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf) | 4:00 |
-| 22 | [Black Velvet](https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N) | [Alannah Myles](https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj) | [Alannah Myles](https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv) | 4:47 |
+| 21 | [Black Velvet](https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N) | [Alannah Myles](https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj) | [Alannah Myles](https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv) | 4:47 |
+| 22 | [I'll Stand by You](https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Last of the Independents](https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf) | 4:00 |
 | 23 | [True Colors](https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [True Colors](https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn) | 3:47 |
 | 24 | [Kingston Town](https://open.spotify.com/track/1YnVYHXoak0syv4xBRHQRb) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Labour Of Love II](https://open.spotify.com/album/1mMfvPS1HZsxtU958F4Eq9) | 3:51 |
 | 25 | [Holding Back the Years \- 2008 Remaster](https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Picture Book \(Expanded Version\)](https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT) | 4:29 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 | 61 | [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/6qB7YcFpeBEQa0D6QO482y) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 4:19 |
 | 62 | [Coming Around Again](https://open.spotify.com/track/4YVjOnSTkv0ZVdgI6sS7Wb) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Coming Around Again](https://open.spotify.com/album/4e8tywT8lMIUakJnX6aFcc) | 3:38 |
 | 63 | [I Got You Babe](https://open.spotify.com/track/07itbZUgkAmBi4CEH5NniJ) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5), [Chrissie Hynde](https://open.spotify.com/artist/2ozLlEZTdSV3pjHgWwZMsi) | [Baggariddim](https://open.spotify.com/album/6UjYrQhvKY0dq6nos8TVc8) | 3:09 |
-| 64 | [All Around the World \- Remastered](https://open.spotify.com/track/1DapqOfkDAQCiKnvfwKo0g) | [Lisa Stansfield](https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1), [Ian Devaney](https://open.spotify.com/artist/6Ufm4BHf4ZdolpvcvYgH2S), [Andy Morris](https://open.spotify.com/artist/0A1FSG9WZ2dQ5JSkQYJHIp) | [Affection](https://open.spotify.com/album/2NGdpRuh0JgRLrdAK8AyNR) | 4:25 |
-| 65 | [Through the Fire](https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 4:48 |
+| 64 | [Through the Fire](https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 4:48 |
+| 65 | [All Around the World \- Remastered](https://open.spotify.com/track/1DapqOfkDAQCiKnvfwKo0g) | [Lisa Stansfield](https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1), [Ian Devaney](https://open.spotify.com/artist/6Ufm4BHf4ZdolpvcvYgH2S), [Andy Morris](https://open.spotify.com/artist/0A1FSG9WZ2dQ5JSkQYJHIp) | [Affection](https://open.spotify.com/album/2NGdpRuh0JgRLrdAK8AyNR) | 4:25 |
 | 66 | [Think of Laura](https://open.spotify.com/track/5jLq63jMFWg0dKHnht6YI0) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Another Page](https://open.spotify.com/album/0o9hrKTjZk0O3QAGYDSDD2) | 3:26 |
 | 67 | [When I See You Smile](https://open.spotify.com/track/0tKjVEJlX3IZ5L1rEJc5hh) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [Bad English](https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69) | 4:17 |
 | 68 | [Have I Told You Lately](https://open.spotify.com/track/1VsGYaCBFjCVudtX9IGqDg) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Avalon Sunset](https://open.spotify.com/album/2vE3SSFPxYt7jRu93j6rsi) | 4:20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 
 > Music to help you concentrate during your homework.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,858 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,855 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 | 61 | [Hold Me Tight](https://open.spotify.com/track/3JQ1n3bt7Hl6ilW46i8QOf) | [Berlinist](https://open.spotify.com/artist/6EUPmAvpY341eXZwJVy6dn) | [Landscapes](https://open.spotify.com/album/3C7A7XuwIMVMyuCAZKtZ0x) | 4:31 |
 | 62 | [Flirting at the Masquerade](https://open.spotify.com/track/0fKzvRqaS34EtPeDBS6rwQ) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Flirting at the Masquerade](https://open.spotify.com/album/3ZswBFfSj9IiHpwqPFwyaB) | 3:14 |
 | 63 | [The Inner World](https://open.spotify.com/track/7epEaJZ5mRAZ4Mou1EvsAu) | [Ruben Galloway](https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX) | [Origins](https://open.spotify.com/album/7fWiqtWkzxNvkuQU98Lh4A) | 3:22 |
-| 64 | [Seascape](https://open.spotify.com/track/55CV2zAzc0R9M31IRTm2vA) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [Seascape](https://open.spotify.com/album/1dnQVRgmoyYxwxRWPf9aBY) | 2:05 |
-| 65 | [Dream in Eb](https://open.spotify.com/track/14g7oKsfbokvFDtDtP77Ir) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Dreams](https://open.spotify.com/album/4nVkpMo4vu96mvzWXtQt1t) | 2:25 |
+| 64 | [Dream in Eb](https://open.spotify.com/track/14g7oKsfbokvFDtDtP77Ir) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Dreams](https://open.spotify.com/album/4nVkpMo4vu96mvzWXtQt1t) | 2:25 |
+| 65 | [Seascape](https://open.spotify.com/track/55CV2zAzc0R9M31IRTm2vA) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [Seascape](https://open.spotify.com/album/1dnQVRgmoyYxwxRWPf9aBY) | 2:05 |
 | 66 | [Cassiopeia](https://open.spotify.com/track/3MsVmtQmjTnEtOzr2w8tLY) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Cassiopeia](https://open.spotify.com/album/0gubGxfpz8pDbvZZdtlX18) | 2:48 |
 | 67 | [Ice Dance](https://open.spotify.com/track/3jUTFbimuRWC1pnikGG3YP) | [Robin Bennich](https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM) | [Piano 1 \(Extended\)](https://open.spotify.com/album/2HdTrxH48hXXj5kMxZDoWP) | 3:13 |
 | 68 | [Kjæreste](https://open.spotify.com/track/5b8dvbC8nIGMmagzqXbaTD) | [Alida Sørby](https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9) | [Kjæreste](https://open.spotify.com/album/49D65b0mvk8YoVFukbDrhm) | 2:23 |
@@ -85,11 +85,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 | 75 | [Silentium](https://open.spotify.com/track/3fyrhR9Wup3zvKnAhwkS2k) | [VIbeke Holst\-Tofte](https://open.spotify.com/artist/2vwQEppB6ZLxvDBMuZjv7h) | [Silentium](https://open.spotify.com/album/5hy969sJ3PHIXTBtlLEY1d) | 2:21 |
 | 76 | [Winter Birds](https://open.spotify.com/track/0sAgJJf8kr1NcwrWGrh0NN) | [Algoth Holmes](https://open.spotify.com/artist/1T6WU2UcLZhrtMLEva6RJl) | [Way Back Home](https://open.spotify.com/album/07R3bhJLKUd2GyrjOlAOzh) | 2:50 |
 | 77 | [Fallboard](https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Fallboard](https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2) | 2:40 |
-| 78 | [Tient qu'à un fil](https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO) | [Gaspar Parentau](https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ) | [Tient qu'à un fil](https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr) | 2:47 |
-| 79 | [Amorzinho \- Piano Version](https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp) | [Tip Ferreira](https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw) | [Amorzinho \(Piano Version\)](https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ) | 3:36 |
+| 78 | [Amorzinho \- Piano Version](https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp) | [Tip Ferreira](https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw) | [Amorzinho \(Piano Version\)](https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ) | 3:36 |
+| 79 | [Tient qu'à un fil](https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO) | [Gaspar Parentau](https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ) | [Tient qu'à un fil](https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr) | 2:47 |
 | 80 | [Maiestas](https://open.spotify.com/track/0rZYsX5OgshLXSj4zumlxx) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Maiestas](https://open.spotify.com/album/7oCpbL8Bgz9eoaYXc4Lyok) | 2:51 |
-| 81 | [Exhibitions](https://open.spotify.com/track/5YyuiRIA1yDtS6ojdUvnUB) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Pour Vous](https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD) | 3:31 |
-| 82 | [Truly Yours](https://open.spotify.com/track/0G1cg2Ezj39U7GI5K0A7ia) | [Eamonn Watt](https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7) | [Truly Yours](https://open.spotify.com/album/67h6iAyVDbAr0baVzyAAG7) | 3:05 |
+| 81 | [Truly Yours](https://open.spotify.com/track/0G1cg2Ezj39U7GI5K0A7ia) | [Eamonn Watt](https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7) | [Truly Yours](https://open.spotify.com/album/67h6iAyVDbAr0baVzyAAG7) | 3:05 |
+| 82 | [Exhibitions](https://open.spotify.com/track/5YyuiRIA1yDtS6ojdUvnUB) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Pour Vous](https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD) | 3:31 |
 | 83 | [Ocean And 17th](https://open.spotify.com/track/2IUuk04dZVG8KRBJpcrpzt) | [Lummus Park](https://open.spotify.com/artist/6aLdEQv4u2nemqw1v3cQmH) | [Ocean And 17th](https://open.spotify.com/album/4YEDcRREGpiZpyziVG4jIh) | 3:09 |
 | 84 | [Hearts of Us](https://open.spotify.com/track/2aVPRmQnQ95n2lPG1QjXr2) | [Niels Wang](https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT) | [Hearts of Us](https://open.spotify.com/album/4PgiOdtd12ASXZcnG24F1e) | 2:16 |
 | 85 | [Midnight Musette](https://open.spotify.com/track/1wC7zd8ZiRgiRaIT2THV8c) | [De Maynes](https://open.spotify.com/artist/46rRHXeWejBCxgPv6Sdjcn) | [Midnight Musette](https://open.spotify.com/album/1t0632m5eesD6Fbanaqfnb) | 3:17 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 | 88 | [Floating Dreams](https://open.spotify.com/track/3muPbNvaD8Vl4cMCHRZzpE) | [Kacienn](https://open.spotify.com/artist/5UIkDKjkkvoRukwsTc4hh7) | [Floating Dreams](https://open.spotify.com/album/6c0Bj4Qzvjww0AR3GXWoaG) | 2:51 |
 | 89 | [Palette](https://open.spotify.com/track/44OOm3Op6tXw3gePWBtiI2) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Palette](https://open.spotify.com/album/72ail4RoAjee7GtdCcOOTY) | 3:46 |
 | 90 | [Inner Child](https://open.spotify.com/track/68nmWUVocivtdIOe9dYTH5) | [Louise Lennehan](https://open.spotify.com/artist/3qDXOw6W1ocOSAJQoE4TPW) | [The Sacred Self](https://open.spotify.com/album/65DCR1ubmwGmG5u0ijqPbm) | 3:08 |
-| 91 | [Synchronicity](https://open.spotify.com/track/5wFGu1dl3Lw08doFu0gVmA) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Synchronicity](https://open.spotify.com/album/5W3dGpqFKJCRZxH0uCaXck) | 3:09 |
-| 92 | [Elevate](https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Elevate](https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO) | 3:08 |
+| 91 | [Endless Summer](https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA) | [Alexander Motovilov](https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw) | [Endless Summer](https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ) | 2:45 |
+| 92 | [Synchronicity](https://open.spotify.com/track/5wFGu1dl3Lw08doFu0gVmA) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Synchronicity](https://open.spotify.com/album/5W3dGpqFKJCRZxH0uCaXck) | 3:09 |
 | 93 | [Sunday Morning](https://open.spotify.com/track/0rlR7gBOx5jfIvVsPfGQsC) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Sunday Morning](https://open.spotify.com/album/0BNnVpYY4xnQkmUNEMUhuO) | 2:14 |
-| 94 | [Endless Summer](https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA) | [Alexander Motovilov](https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw) | [Endless Summer](https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ) | 2:45 |
+| 94 | [Elevate](https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Elevate](https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO) | 3:08 |
 | 95 | [Hideaway](https://open.spotify.com/track/3y4t41pbQBDpmD60HdCMRN) | [Dunham Froebel](https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT) | [Hideaway](https://open.spotify.com/album/2Ng37Ew03H9E7Q01Oao765) | 2:39 |
 | 96 | [Roots](https://open.spotify.com/track/4PzCduZiQfY4E4661r2V3u) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Roots](https://open.spotify.com/album/5wXRhc0L07nItoMPgEAso3) | 2:47 |
 | 97 | [Is it Over](https://open.spotify.com/track/2CK7J3mSxn2KBfgbDoGcW2) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Amuse Bouche](https://open.spotify.com/album/1N8DybvTCUqWBkEUvqUS5q) | 3:17 |
-| 98 | [The Great Plains Hymn](https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Seasons Changing](https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu) | 1:59 |
-| 99 | [Six Etudes for Piano \- q = 96](https://open.spotify.com/track/7bYwm4LQaOsardfDdbVZg6) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Bruce Brubaker](https://open.spotify.com/artist/400JXdqRhBKf0A6qNoLCSJ) | [Time Curve: Music for Piano by Philip Glass and William Duckworth](https://open.spotify.com/album/1kGhTPdqFxysr6qHRv32MR) | 4:48 |
-| 100 | [Harps](https://open.spotify.com/track/454XRIwlukSSffvRihn6RR) | [Heinz Goldblatt](https://open.spotify.com/artist/2huinmkGMFzltmc7Pe7fgf) | [Tampa](https://open.spotify.com/album/4lL79tsCuEZN5ClQjoNVDr) | 3:19 |
+| 98 | [Six Etudes for Piano \- q = 96](https://open.spotify.com/track/7bYwm4LQaOsardfDdbVZg6) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Bruce Brubaker](https://open.spotify.com/artist/400JXdqRhBKf0A6qNoLCSJ) | [Time Curve: Music for Piano by Philip Glass and William Duckworth](https://open.spotify.com/album/1kGhTPdqFxysr6qHRv32MR) | 4:48 |
+| 99 | [Harps](https://open.spotify.com/track/454XRIwlukSSffvRihn6RR) | [Heinz Goldblatt](https://open.spotify.com/artist/2huinmkGMFzltmc7Pe7fgf) | [Tampa](https://open.spotify.com/album/4lL79tsCuEZN5ClQjoNVDr) | 3:19 |
+| 100 | [Variations on a Polish Theme, Op\. 10: No\. 5 Andantino](https://open.spotify.com/track/3bcdLMrAxrfn5dxInjIdI2) | [Karol Szymanowski](https://open.spotify.com/artist/3WLh1Qe8WgEBbb2QJWYYal), [Martin Roscoe](https://open.spotify.com/artist/1OBvHJmcD6MzAWSIIErwPM) | [Szymanowski: Piano Works, Vol\. 2](https://open.spotify.com/album/2PMbM22YPJ2jvqenwrY8qO) | 1:16 |
 
 Snapshot ID: `ZIsWvwAAAADTC2195ggPKXn/cfNJcieb`

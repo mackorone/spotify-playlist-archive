@@ -1005,6 +1005,28 @@
     },
     {
       "album": {
+        "name": "Chasing Ghosts",
+        "url": "https://open.spotify.com/album/0SjSS81VVQREwIeBaTd5ar"
+      },
+      "artists": [
+        {
+          "name": "Carlo Lio",
+          "url": "https://open.spotify.com/artist/51NwQz5MA32kigUGYjdA3z"
+        },
+        {
+          "name": "M.I.T.A.",
+          "url": "https://open.spotify.com/artist/21z6y3SBHItI8CjIJzPdlo"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378857,
+      "name": "Chasing Ghosts",
+      "url": "https://open.spotify.com/track/1uQyGmWaMEgsGlhWKjGKHs"
+    },
+    {
+      "album": {
         "name": "City Nights",
         "url": "https://open.spotify.com/album/3IILZmt6FMHXKiltTRdOC2"
       },

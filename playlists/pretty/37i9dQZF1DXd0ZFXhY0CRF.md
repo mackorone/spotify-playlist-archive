@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 
 > The women whose music and influence rock our world\. Cover: Rico Nasty
 
-[Spotify](https://open.spotify.com/user/spotify) - 768,973 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 768,998 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 49 | [Rid Of Me](https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 4:28 |
 | 50 | [All In My Head](https://open.spotify.com/track/7uHpXA3rYfs1EqFHogCwDj) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [No Obligation](https://open.spotify.com/album/0hHBHXLrTlYfLXrp8yb6N6) | 3:21 |
 | 51 | [Wireless](https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 4:41 |
-| 52 | [catalogue](https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [my anti\-aircraft friend](https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ) | 3:14 |
-| 53 | [Monsters](https://open.spotify.com/track/1SRg5WImDS1LbjbWR24Ln4) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Monsters](https://open.spotify.com/album/2NSBVVafbPaqtcTKP5QTqI) | 3:31 |
-| 54 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
-| 55 | [Take Your Aim](https://open.spotify.com/track/0rDq4W12BQzwKYYuYP0EIj) | [Rocket](https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO) | [Take Your Aim](https://open.spotify.com/album/3ZYRmGFXWmTHDu08QRPuM0) | 3:20 |
+| 52 | [Monsters](https://open.spotify.com/track/1SRg5WImDS1LbjbWR24Ln4) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Monsters](https://open.spotify.com/album/2NSBVVafbPaqtcTKP5QTqI) | 3:31 |
+| 53 | [catalogue](https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [my anti\-aircraft friend](https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ) | 3:14 |
+| 54 | [Take Your Aim](https://open.spotify.com/track/0rDq4W12BQzwKYYuYP0EIj) | [Rocket](https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO) | [Take Your Aim](https://open.spotify.com/album/3ZYRmGFXWmTHDu08QRPuM0) | 3:20 |
+| 55 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
 | 56 | [All Comes Crashing](https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 4:23 |
 | 57 | [Broken Horses](https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 5:03 |
 | 58 | [Take It From The Top](https://open.spotify.com/track/6nmK3NF1rek4lCTpRoH6DO) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [A Million Knives](https://open.spotify.com/album/3HWdBSozGCPDONMpCmnKDf) | 3:52 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 94 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 |
 | 95 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
 | 96 | [Hole In My Head](https://open.spotify.com/track/7mjUp08YJ4V2U732WBYPAi) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Birds Talk Too](https://open.spotify.com/album/3XUrzC6Oh6Z77SV87PYEip) | 1:41 |
-| 97 | [Bring Me To Life](https://open.spotify.com/track/2gpffYGJGvhgqgA0Aw8wKi) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/3nuLaHUml2Ul4Vu1hv7iT4) | 3:55 |
-| 98 | [u turn me on \(but u give me depression\)](https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u turn me on \(but u give me depression\)](https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8) | 2:27 |
+| 97 | [u turn me on \(but u give me depression\)](https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u turn me on \(but u give me depression\)](https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8) | 2:27 |
+| 98 | [Bring Me To Life](https://open.spotify.com/track/2gpffYGJGvhgqgA0Aw8wKi) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/3nuLaHUml2Ul4Vu1hv7iT4) | 3:55 |
 | 99 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Love Abuser \(Save Me\)](https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J) | 3:07 |
 | 100 | [Piece of My Heart](https://open.spotify.com/track/2RWraN4ZkuqjcNQAlBNGEH) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Janis](https://open.spotify.com/album/294SMYuchjGEbo3bko8QVt) | 4:26 |
 

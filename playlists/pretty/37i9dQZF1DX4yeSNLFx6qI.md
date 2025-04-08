@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Sad songs 4 sad days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,758,086 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,758,083 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 6 | [Mirada](https://open.spotify.com/track/0tXFWZC3ZF44vgi0h2o4iI) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [MIRADA](https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM) | 2:47 |
 | 7 | [Corazón Frío](https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Corazón Frío](https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1) | 4:23 |
 | 8 | [Extrañándote](https://open.spotify.com/track/6pTKWN96v1dpEaBMzDYlww) | [Zhamira Zambrano](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Extrañándote](https://open.spotify.com/album/5wyMJ9XYRHetHFcu8tOowP) | 3:03 |
-| 9 | [Otra Noche de Llorar](https://open.spotify.com/track/5F8pOPLxQBJK6am1pNcN79) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Otra Noche de Llorar](https://open.spotify.com/album/2kSB4gQHyJmEfC8jDrwbeX) | 3:39 |
-| 10 | [Yo siempre contesto.](https://open.spotify.com/track/1ZunPTRc0PUFfdSWa3qMB1) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [TODOS LOS DÍAS TODO EL DÍA](https://open.spotify.com/album/0DMDbZtZT028siJ0GEdLrQ) | 3:19 |
+| 9 | [Yo siempre contesto.](https://open.spotify.com/track/1ZunPTRc0PUFfdSWa3qMB1) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [TODOS LOS DÍAS TODO EL DÍA](https://open.spotify.com/album/0DMDbZtZT028siJ0GEdLrQ) | 3:19 |
+| 10 | [Otra Noche de Llorar](https://open.spotify.com/track/5F8pOPLxQBJK6am1pNcN79) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Otra Noche de Llorar](https://open.spotify.com/album/2kSB4gQHyJmEfC8jDrwbeX) | 3:39 |
 | 11 | [Última](https://open.spotify.com/track/3FEIMzqeq5EXqaMi3mHP6L) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:58 |
 | 12 | [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 |
 | 13 | [ARRANCÁRMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCÁRMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 |
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 15 | [El Triste](https://open.spotify.com/track/0u7u1vVxQHagcqOK1lANhL) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [El Triste](https://open.spotify.com/album/6ZvocIvlt006fUlDF1d7Nq) | 4:45 |
 | 16 | [pa](https://open.spotify.com/track/490e7PHsxkzMot8qCO36Bt) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 3:10 |
 | 17 | [NADIE MÁS!](https://open.spotify.com/track/5DtnCKnQ8nmRX1JL8N90Ua) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [SÍSIFO / NADIE MÁS!](https://open.spotify.com/album/6p8AhSbmlsrAaqqV1BnBGD) | 4:09 |
-| 18 | [Mi Corazón](https://open.spotify.com/track/7vjG5IXd5ApgPTEVjo8zJu) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Mi Corazón](https://open.spotify.com/album/5e8zaDNGYEs72yRCuPrr4w) | 2:44 |
-| 19 | [REM](https://open.spotify.com/track/2rLHjGObK4sfhIatgR6l6h) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [REM](https://open.spotify.com/album/5fW2F8q05MQh5jxCYpVgTX) | 3:39 |
-| 20 | [tengo mucho ruido.](https://open.spotify.com/track/4mwNF24DEyF9QUSB7hVoqq) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [TODOS LOS DÍAS TODO EL DÍA](https://open.spotify.com/album/0DMDbZtZT028siJ0GEdLrQ) | 3:21 |
-| 21 | [amantes y amigos](https://open.spotify.com/track/2Ye3wsl794JOx6Miklej48) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ya no somos los mismos](https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH) | 3:51 |
+| 18 | [amantes y amigos](https://open.spotify.com/track/2Ye3wsl794JOx6Miklej48) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ya no somos los mismos](https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH) | 3:51 |
+| 19 | [tengo mucho ruido.](https://open.spotify.com/track/4mwNF24DEyF9QUSB7hVoqq) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [TODOS LOS DÍAS TODO EL DÍA](https://open.spotify.com/album/0DMDbZtZT028siJ0GEdLrQ) | 3:21 |
+| 20 | [Mi Corazón](https://open.spotify.com/track/7vjG5IXd5ApgPTEVjo8zJu) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Mi Corazón](https://open.spotify.com/album/5e8zaDNGYEs72yRCuPrr4w) | 2:44 |
+| 21 | [REM](https://open.spotify.com/track/2rLHjGObK4sfhIatgR6l6h) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [REM](https://open.spotify.com/album/5fW2F8q05MQh5jxCYpVgTX) | 3:39 |
 | 22 | [Ni 1 Complejo](https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Ni 1 Complejo](https://open.spotify.com/album/0gzD0rupIe407RHRQY9GPk) | 2:54 |
 | 23 | [Aveces Siempre](https://open.spotify.com/track/6sjJcNGklrIHox82sRxRpp) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [GIRASOLES](https://open.spotify.com/album/2mk78J70fArsjx0EG7Xi6R) | 2:55 |
 | 24 | [Intercambio Injusto](https://open.spotify.com/track/0Jv1VuDC57QUvMEd1CpkNW) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Intercambio Injusto](https://open.spotify.com/album/6GFqNV8XbAMPkXZeW81z2Y) | 3:25 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 34 | [Demasiado Lejos](https://open.spotify.com/track/1ydCxlXVCoMOzl3a1ePBjg) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Antes De Que Amanezca](https://open.spotify.com/album/2gg7wgRW4yK27ex7rNvWuW) | 2:59 |
 | 35 | [Ferrari](https://open.spotify.com/track/4kT2Jw1LlqYEWev9JpIExG) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 3:14 |
 | 36 | [CÓMO ESTÁS?](https://open.spotify.com/track/3MiWPPBu5PQ6Oamd3KxrAr) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [CÓMO ESTÁS?](https://open.spotify.com/album/5cMvIB5lKlbQtBoKd13p2I) | 2:27 |
-| 37 | [tus manias](https://open.spotify.com/track/5GSYRjrn12Wdh1V38b8hVR) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [tus manias](https://open.spotify.com/album/4GY58zCDUjHq9H0QrUI39T) | 3:19 |
-| 38 | [Romancera](https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Romancera](https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9) | 3:52 |
+| 37 | [Romancera](https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Romancera](https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9) | 3:52 |
+| 38 | [tus manias](https://open.spotify.com/track/5GSYRjrn12Wdh1V38b8hVR) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [tus manias](https://open.spotify.com/album/4GY58zCDUjHq9H0QrUI39T) | 3:19 |
 | 39 | [Turbulencia](https://open.spotify.com/track/4t2Pqr2C1yRuvZ2YCLTVcx) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Música Buena Para Días Malos](https://open.spotify.com/album/2PEIXega9N5OkMHBrcvcHG) | 3:49 |
 | 40 | [Viernes 13 V](https://open.spotify.com/track/1qD7smrCuA14ujnTCdkgBJ) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [Viernes 13 V](https://open.spotify.com/album/3D6zUPk0w4Q1W8rdpMA4D6) | 3:40 |
 | 41 | [mi momento](https://open.spotify.com/track/5P9a5jGMKjVU2rixgF5C3o) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [mi momento](https://open.spotify.com/album/35AJvGtijtlB8DlJSeipjo) | 2:10 |

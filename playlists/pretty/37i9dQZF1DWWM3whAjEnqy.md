@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 
 > Sun, sand, salt water and the perfect songs to match.
 
-[Spotify](https://open.spotify.com/user/spotify) - 710 likes - 85 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 715 likes - 85 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 68 | [Opportunity](https://open.spotify.com/track/64c45et47VnSv04LvzLt4C) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [See The Sun](https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy) | 3:37 |
 | 69 | [I Get Up](https://open.spotify.com/track/3clLiFEchrm0ElggigjADF) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Half Mile Harvest \(Deluxe\)](https://open.spotify.com/album/0GzSn50tkYFrV1RqxHclwe) | 4:23 |
 | 70 | [Golden](https://open.spotify.com/track/6YKo8apCHPODSwnTiZTTV5) | [Kingswood](https://open.spotify.com/artist/4zOw0E0NA7B4lIYyc3XNt5) | [After Hours, Close To Dawn](https://open.spotify.com/album/3Ep9YB9ShW8DpbQNfI8hhG) | 3:22 |
-| 71 | [Deeper Water](https://open.spotify.com/track/5CVjniZP6bYZEoC92A4sEf) | [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Deeper Water](https://open.spotify.com/album/2mrVJ60WIjwRgzLwVMyJDM) | 4:32 |
-| 72 | [Smile](https://open.spotify.com/track/4faiTk0Vx86PcE5TJ3sQnz) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Apple Crumble](https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr) | 3:23 |
+| 71 | [Smile](https://open.spotify.com/track/4faiTk0Vx86PcE5TJ3sQnz) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Apple Crumble](https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr) | 3:23 |
+| 72 | [Deeper Water](https://open.spotify.com/track/5CVjniZP6bYZEoC92A4sEf) | [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Deeper Water](https://open.spotify.com/album/2mrVJ60WIjwRgzLwVMyJDM) | 4:32 |
 | 73 | [You're My Window To The Sky](https://open.spotify.com/track/0DpNBQAHa6S6GDZARSe9TF) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [The Wanderings Of The Avener](https://open.spotify.com/album/7DxvbZIXVgixTbo3sZ15Gy) | 3:21 |
 | 74 | [These Days](https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [These Days](https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS) | 3:23 |
 | 75 | [Middle Of The Hill](https://open.spotify.com/track/0MIoXOgLcUKRJEtb1rKh17) | [Josh Pyke](https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH) | [Memories & Dust](https://open.spotify.com/album/0ovM6UlAXcNWgLygQfX6xE) | 2:27 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 78 | [Better Days](https://open.spotify.com/track/2vDW5s3RpQNJp9gkhMB1da) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [See The Sun](https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy) | 3:43 |
 | 79 | [Inappropriate Behaviour](https://open.spotify.com/track/0Ma58HrmhNi0UrOCnAXXBt) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Inappropriate Behaviour](https://open.spotify.com/album/5ba8H8cdgeBRItvryKyzoY) | 4:13 |
 | 80 | [Skin](https://open.spotify.com/track/1pZaknf90sVRGNiftfF9X3) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0) | [Between You and Me](https://open.spotify.com/album/5dJM7tzRS4BBHUxROSOn26) | 4:26 |
-| 81 | [Palo Alto](https://open.spotify.com/track/0zSPHyEar2FuCSKP2BD3FF) | [Jack River](https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS) | [Palo Alto](https://open.spotify.com/album/5z0zjbNK6hYM2FC3tWXwlp) | 3:19 |
-| 82 | [That Place](https://open.spotify.com/track/1s9N5E3uF07BMuwP83kgIU) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [That Place](https://open.spotify.com/album/26Y8e2ikaQtEVgZTFPtkvi) | 4:38 |
+| 81 | [That Place](https://open.spotify.com/track/1s9N5E3uF07BMuwP83kgIU) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [That Place](https://open.spotify.com/album/26Y8e2ikaQtEVgZTFPtkvi) | 4:38 |
+| 82 | [Palo Alto](https://open.spotify.com/track/0zSPHyEar2FuCSKP2BD3FF) | [Jack River](https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS) | [Palo Alto](https://open.spotify.com/album/5z0zjbNK6hYM2FC3tWXwlp) | 3:19 |
 | 83 | [Leave That](https://open.spotify.com/track/3YuAWFpVawNf23ZN7OlfD8) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Give It Up](https://open.spotify.com/album/1A3A8WdrkktsDANff6H9mt) | 3:20 |
 | 84 | [Green Limousine](https://open.spotify.com/track/4lMG8ihd1XUJthjdUhc6hR) | [The Badloves](https://open.spotify.com/artist/64czVVta8TqMAqkZ0M0Avc) | [Get On Board](https://open.spotify.com/album/7wMveqZ5OKqz5cFxaJ8PHq) | 3:45 |
 | 85 | [Groovin' Slowly](https://open.spotify.com/track/5ubpN0TsocmT6qhQv7Ibgx) | [John Butler Trio](https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt) | [Grand National](https://open.spotify.com/album/4J3pXm5ARFn6qiUePyJsqw) | 4:33 |

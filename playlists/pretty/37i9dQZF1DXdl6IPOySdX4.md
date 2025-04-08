@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 
 > you up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,993,769 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,994,170 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 80 | [Heaven](https://open.spotify.com/track/1T575AhHueYinKSDflEsGK) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 3:11 |
 | 81 | [White Tee \(with NO1\-NOAH\)](https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:31 |
 | 82 | [Dead Man Walking](https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Dead Man Walking](https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc) | 4:07 |
-| 83 | [Nothing's Gonna Hurt You Baby](https://open.spotify.com/track/7cs7MLtAWvsdf3w5kBvfK2) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [I.](https://open.spotify.com/album/12UGkXT4z3ajgq6xheCGDk) | 4:46 |
-| 84 | [touchin’ me](https://open.spotify.com/track/5Vwkt7zvEcj5riL46ZbM5K) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [touchin’ me](https://open.spotify.com/album/5QuI0tJc8MziD6jMD0bUm0) | 2:29 |
-| 85 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 |
+| 83 | [touchin’ me](https://open.spotify.com/track/5Vwkt7zvEcj5riL46ZbM5K) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [touchin’ me](https://open.spotify.com/album/5QuI0tJc8MziD6jMD0bUm0) | 2:29 |
+| 84 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 |
+| 85 | [Nothing's Gonna Hurt You Baby](https://open.spotify.com/track/7cs7MLtAWvsdf3w5kBvfK2) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [I.](https://open.spotify.com/album/12UGkXT4z3ajgq6xheCGDk) | 4:46 |
 | 86 | [Over](https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Over](https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H) | 3:25 |
 | 87 | [Kiss Kiss Goodbye](https://open.spotify.com/track/2ceIi1kJxozE30OURIMkfN) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Kiss Kiss Goodbye](https://open.spotify.com/album/2YR32G3rgCmK8MmUsSUsXD) | 2:56 |
 | 88 | [Make Me Forget](https://open.spotify.com/track/5jbtWfTsTVOeZFI0aEg1tf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Make Me Forget](https://open.spotify.com/album/6UGdC8WPbCnc116gorUmAk) | 3:05 |

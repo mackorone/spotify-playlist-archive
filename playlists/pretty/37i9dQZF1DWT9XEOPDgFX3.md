@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 
 > Walk the bridge between indie and folk\. Cover: Genevieve Stokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,977 likes - 125 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,030 likes - 125 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 65 | [Planet Song](https://open.spotify.com/track/3PG8fHedXu9L0JOcBGt4EA) | [Margot Liotta](https://open.spotify.com/artist/56WiHoGRrAnik3ru29V8pM) | [Planet Song](https://open.spotify.com/album/55diFtOoLrNqGpuffZwSCK) | 3:30 |
 | 66 | [Shell](https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Shell](https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL) | 2:20 |
 | 67 | [Pretender](https://open.spotify.com/track/2qIc2lDtHJte4EpEx7nKXn) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Pretender](https://open.spotify.com/album/7B79vUpu3jvPlRcP9n7RKm) | 2:57 |
-| 68 | [Blouse \- Recorded At Electric Lady Studios](https://open.spotify.com/track/127CAKy0KyYoR0r7QNbvVR) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Live at Electric Lady](https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6) | 3:13 |
-| 69 | [Early to the Party](https://open.spotify.com/track/7bHW6RpriqTGOla0Zdt3TZ) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 4:05 |
+| 68 | [Early to the Party](https://open.spotify.com/track/7bHW6RpriqTGOla0Zdt3TZ) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 4:05 |
+| 69 | [Blouse \- Recorded At Electric Lady Studios](https://open.spotify.com/track/127CAKy0KyYoR0r7QNbvVR) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Live at Electric Lady](https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6) | 3:13 |
 | 70 | [Change \(feat\. Remi Wolf\)](https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Spotify Singles](https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U) | 4:49 |
 | 71 | [Blue Sea](https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Blue Sea](https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz) | 3:15 |
 | 72 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 |

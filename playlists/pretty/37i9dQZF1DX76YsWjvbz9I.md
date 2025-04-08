@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 
 > The unforgettable romantic Jazz songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,160 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,203 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 42 | [The Way You Look Tonight](https://open.spotify.com/track/3mADbrwcu80uRhrgrAaPTz) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [The Silver Lining \- The Songs of Jerome Kern](https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m) | 2:54 |
 | 43 | [You Do Something To Me](https://open.spotify.com/track/7lZagRCKskAjzZ40Kdx4bB) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 2:22 |
 | 44 | [How Long Has This Been Going On?](https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [In Blue](https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp) | 5:39 |
-| 45 | [You Better Go Now](https://open.spotify.com/track/5AkSRiCUdA4ozdXslHez1j) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [You Better Go Now](https://open.spotify.com/album/7jMUkrz9wcdHbW67l1gm8i) | 3:02 |
-| 46 | [You Make Me Feel so Young](https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [The Essential Rosemary Clooney](https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP) | 2:52 |
+| 45 | [You Make Me Feel so Young](https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [The Essential Rosemary Clooney](https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP) | 2:52 |
+| 46 | [You Better Go Now](https://open.spotify.com/track/5AkSRiCUdA4ozdXslHez1j) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [You Better Go Now](https://open.spotify.com/album/7jMUkrz9wcdHbW67l1gm8i) | 3:02 |
 | 47 | [Fools Rush In](https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dream with Dean](https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL) | 3:02 |
 | 48 | [When I Fall In Love](https://open.spotify.com/track/3qo1rizHmEmLPZbCwYSiKX) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Carmen McRae For Lovers](https://open.spotify.com/album/7clmDaiCZ59KoFu05W6CAU) | 3:49 |
 | 49 | [Let's Do It \(Let's Fall In Love\)](https://open.spotify.com/track/5mRF9wpnR4j6QnRXJCNgoO) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 8:41 |

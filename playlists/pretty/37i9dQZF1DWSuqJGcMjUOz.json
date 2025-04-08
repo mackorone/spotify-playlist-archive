@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6866,
+  "num_followers": 6868,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -335,18 +335,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Banlieue",
-        "url": "https://open.spotify.com/album/55jx7wdVwNSGViAbdl2G1d"
+        "name": "R\u00e9silience",
+        "url": "https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2"
       },
       "artists": [
         {
-          "name": "Aswell",
-          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+          "name": "Zaho",
+          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
+        },
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
         }
       ],
-      "duration_ms": 170500,
-      "name": "Next",
-      "url": "https://open.spotify.com/track/4WpxkB1l5qbBRJ7BHBJSHb"
+      "duration_ms": 182426,
+      "name": "On s'fait du mal (feat. Dadju)",
+      "url": "https://open.spotify.com/track/0wzYG3c6CaroEAz4wTPNVD"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -375,22 +379,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "R\u00e9silience",
-        "url": "https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2"
+        "name": "Banlieue",
+        "url": "https://open.spotify.com/album/55jx7wdVwNSGViAbdl2G1d"
       },
       "artists": [
         {
-          "name": "Zaho",
-          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
-        },
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
         }
       ],
-      "duration_ms": 182426,
-      "name": "On s'fait du mal (feat. Dadju)",
-      "url": "https://open.spotify.com/track/0wzYG3c6CaroEAz4wTPNVD"
+      "duration_ms": 170500,
+      "name": "Next",
+      "url": "https://open.spotify.com/track/4WpxkB1l5qbBRJ7BHBJSHb"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "\u00c7A VA ALLER",
-        "url": "https://open.spotify.com/album/3lS3KwXeNATyc9d76zbGwF"
+        "name": "J'ai Bu",
+        "url": "https://open.spotify.com/album/36Nlk84bj3ZLeQNB8q2fmK"
       },
       "artists": [
         {
-          "name": "NeS",
-          "url": "https://open.spotify.com/artist/2MbFuUcFSJlVAbvORsuYM9"
+          "name": "Qu\u00e9bec Redneck Bluegrass Project",
+          "url": "https://open.spotify.com/artist/6QafnqFGVO80DazTYj5fAz"
         }
       ],
-      "duration_ms": 173000,
-      "name": "LE SOURIRE D'UNE TOMBE",
-      "url": "https://open.spotify.com/track/4yIlzOPjaaEPsF3RyivxQD"
+      "duration_ms": 347855,
+      "name": "Me d'mandait ma blonde",
+      "url": "https://open.spotify.com/track/617uIR54eouaAaLMj2Zef9"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -595,18 +595,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "J'ai Bu",
-        "url": "https://open.spotify.com/album/36Nlk84bj3ZLeQNB8q2fmK"
+        "name": "\u00c7A VA ALLER",
+        "url": "https://open.spotify.com/album/3lS3KwXeNATyc9d76zbGwF"
       },
       "artists": [
         {
-          "name": "Qu\u00e9bec Redneck Bluegrass Project",
-          "url": "https://open.spotify.com/artist/6QafnqFGVO80DazTYj5fAz"
+          "name": "NeS",
+          "url": "https://open.spotify.com/artist/2MbFuUcFSJlVAbvORsuYM9"
         }
       ],
-      "duration_ms": 347855,
-      "name": "Me d'mandait ma blonde",
-      "url": "https://open.spotify.com/track/617uIR54eouaAaLMj2Zef9"
+      "duration_ms": 173000,
+      "name": "LE SOURIRE D'UNE TOMBE",
+      "url": "https://open.spotify.com/track/4yIlzOPjaaEPsF3RyivxQD"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Suite pour personne",
+        "url": "https://open.spotify.com/album/3s0746U6SBRp6vcisxxtcV"
+      },
+      "artists": [
+        {
+          "name": "Jeanne C\u00f4t\u00e9",
+          "url": "https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7"
+        }
+      ],
+      "duration_ms": 276662,
+      "name": "Y peut mouiller",
+      "url": "https://open.spotify.com/track/7oQdX58s6Hec7jH3CDEfge"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "\u00c9l\u00e9vaZIIION (Soci\u00e9t\u00e9 distincte)",
         "url": "https://open.spotify.com/album/7sjiQnZKBAU6etTZUeFfR8"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 293760,
       "name": "L\u00e9gendaire",
       "url": "https://open.spotify.com/track/2dMS1TDVseVattgEVMvURB"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Suite pour personne",
-        "url": "https://open.spotify.com/album/3s0746U6SBRp6vcisxxtcV"
-      },
-      "artists": [
-        {
-          "name": "Jeanne C\u00f4t\u00e9",
-          "url": "https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7"
-        }
-      ],
-      "duration_ms": 276662,
-      "name": "Y peut mouiller",
-      "url": "https://open.spotify.com/track/7oQdX58s6Hec7jH3CDEfge"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Quand il est seul",
-        "url": "https://open.spotify.com/album/7LnW6iz8kqZvVPhQw67ZxK"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9m\u00e9 Tan",
-          "url": "https://open.spotify.com/artist/257G4gJ7XVp8Ec8TrjGyMW"
-        }
-      ],
-      "duration_ms": 207868,
-      "name": "un grand plat de riz",
-      "url": "https://open.spotify.com/track/7cdfQb6ekMLykA2Av1xIZg"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Le monde est fou",
         "url": "https://open.spotify.com/album/5zw2EYeEDWW53kmmksiAM6"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 171428,
       "name": "Ailleurs",
       "url": "https://open.spotify.com/track/6c6DYfUdwCPciEPPsxJN2P"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Quand il est seul",
+        "url": "https://open.spotify.com/album/7LnW6iz8kqZvVPhQw67ZxK"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9m\u00e9 Tan",
+          "url": "https://open.spotify.com/artist/257G4gJ7XVp8Ec8TrjGyMW"
+        }
+      ],
+      "duration_ms": 207868,
+      "name": "un grand plat de riz",
+      "url": "https://open.spotify.com/track/7cdfQb6ekMLykA2Av1xIZg"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "La clairi\u00e8re",
-        "url": "https://open.spotify.com/album/6Q5X9RmkPOay3CQQMYTplq"
-      },
-      "artists": [
-        {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
-        }
-      ],
-      "duration_ms": 179833,
-      "name": "Le bois",
-      "url": "https://open.spotify.com/track/7rDjKfbvrjrhCgQVQoSE6V"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Tralala",
         "url": "https://open.spotify.com/album/4XXJC6DVgxRnbdcTfJTQXV"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 263440,
       "name": "Tralala",
       "url": "https://open.spotify.com/track/0iLVqqB6eQGyvQnQ1QcLGx"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "La clairi\u00e8re",
+        "url": "https://open.spotify.com/album/6Q5X9RmkPOay3CQQMYTplq"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "duration_ms": 179833,
+      "name": "Le bois",
+      "url": "https://open.spotify.com/track/7rDjKfbvrjrhCgQVQoSE6V"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Oniromancie",
-        "url": "https://open.spotify.com/album/4BWbIevVWM9xQrd0KEHupI"
-      },
-      "artists": [
-        {
-          "name": "Laurence-Anne",
-          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
-        }
-      ],
-      "duration_ms": 216146,
-      "name": "Polymorphe",
-      "url": "https://open.spotify.com/track/2A8mCfjcGkxaAqnSEhCkwJ"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/20hYXKljxpp3OB34PHcaIo"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 250813,
       "name": "Il a plu il a neig\u00e9",
       "url": "https://open.spotify.com/track/5tKtMAzHT1wm9FFK5XSME0"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Oniromancie",
+        "url": "https://open.spotify.com/album/4BWbIevVWM9xQrd0KEHupI"
+      },
+      "artists": [
+        {
+          "name": "Laurence-Anne",
+          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
+        }
+      ],
+      "duration_ms": 216146,
+      "name": "Polymorphe",
+      "url": "https://open.spotify.com/track/2A8mCfjcGkxaAqnSEhCkwJ"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -2159,6 +2159,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Mort de rire",
+        "url": "https://open.spotify.com/album/4kZKcEYXarLLoVZIyEhGY7"
+      },
+      "artists": [
+        {
+          "name": "Radiant Baby",
+          "url": "https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM"
+        }
+      ],
+      "duration_ms": 246818,
+      "name": "Mort de rire",
+      "url": "https://open.spotify.com/track/1YMyJOWvg161nP3yP2ViAn"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "DVTR",
         "url": "https://open.spotify.com/album/0FQ99J1DvLNYP6x1uwHPYW"
       },
@@ -2171,22 +2187,6 @@
       "duration_ms": 136973,
       "name": "DVTR",
       "url": "https://open.spotify.com/track/6kyU5s2JQj3kqjZ225Hwjv"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Feux de joie",
-        "url": "https://open.spotify.com/album/69un5QeWz6xSBF7dc7cROC"
-      },
-      "artists": [
-        {
-          "name": "Marie C\u00e9leste",
-          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
-        }
-      ],
-      "duration_ms": 209570,
-      "name": "Elle vit dans les bois",
-      "url": "https://open.spotify.com/track/0VBzJIYJey6MvcNH8Set2U"
     }
   ],
   "unique_name": "Francos de Montr\u00e9al 2024",

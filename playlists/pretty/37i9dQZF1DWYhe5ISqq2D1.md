@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 
 > たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: 大橋ちっぽけ
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,571 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,580 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

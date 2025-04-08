@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: HANA
 
-1,424 songs - 3 day 3 hr 57 min
+1,425 songs - 3 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -882,6 +882,7 @@
 | [Patbingsu](https://open.spotify.com/track/3B6t6zKMa959qbWvLUWxxl) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0), [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [track by YOON: Patbingsu](https://open.spotify.com/album/6c6wbjLgOX3crURuTPfaL8) | 3:29 | 2022-07-15 | 2022-08-26 |
 | [Peaches](https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:18 | 2021-12-23 | 2022-01-26 |
 | [People, Pt\. 2 \(feat\. IU\)](https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [People, Pt\. 2 \(feat\. IU\)](https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo) | 3:33 | 2023-04-06 | 2023-04-11 |
+| [Perfect Crime](https://open.spotify.com/track/4yJSTICwkb1yEHaTJwMtPJ) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Perfect Crime](https://open.spotify.com/album/5JhzWK5USSOibCz5xbwuKx) | 3:16 | 2025-04-07 |  |
 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 | 2023-10-27 | 2024-04-27 |
 | [Perfect Night \(Holiday Remix\)](https://open.spotify.com/track/40CJrEAyXS8qe0BBFbYbJO) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night \(Holiday Remix\)](https://open.spotify.com/album/0YaaIvxu7OH0OxUSnM9WFH) | 2:42 | 2023-11-23 | 2024-02-07 |
 | [Perfect Storm \(feat\. TAEHYUN of TOMORROW X TOGETHER\)](https://open.spotify.com/track/2gZnCAEMmZ5kgZqNVuanWm) | [YAMASHITA TOMOHISA](https://open.spotify.com/artist/3guYSm9Rp77d1f2ZKt2ZZF), [TAEHYUN](https://open.spotify.com/artist/2fjOLqKPx5dQ4Af4iMIZf4) | [Perfect Storm \(feat\. TAEHYUN of TOMORROW X TOGETHER\)](https://open.spotify.com/album/75LigNRTuWd1Mp7dNt9hQ4) | 3:04 | 2024-06-04 | 2024-08-07 |

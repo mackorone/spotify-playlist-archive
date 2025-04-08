@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5SUu7au16Jd2bvqWVN09HM">Jon "MAGS" Maguire</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-95 songs - 4 hr 57 min
+96 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Freaks](https://open.spotify.com/track/06moNojepTMSDnlzyD2k52) | [Jordan Clarke](https://open.spotify.com/artist/14Y3trk7LaslSFTk1G35rx) | [Freaks](https://open.spotify.com/album/1hrDsoJsqfvx2pYjL9CYpy) | 2:54 | 2024-05-01 | 2024-11-27 |
 | [Freaks](https://open.spotify.com/track/0GVA7K6nGHPQWVJZTkh1ux) | [Jordan Clarke](https://open.spotify.com/artist/14Y3trk7LaslSFTk1G35rx) | [Freaks](https://open.spotify.com/album/2SoARMxMmtscj9sfpCIGKF) | 2:54 | 2024-11-26 |  |
 | [Given up, Giving Up](https://open.spotify.com/track/0boftIU5ryywsX1teSAcsl) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Have a Good Time All the Time](https://open.spotify.com/album/3XxiTHnlXW5uWW4I6P3D90) | 3:51 | 2024-05-01 |  |
+| [God Knows](https://open.spotify.com/track/0yOwc5hOnEQSgDTApRPgzC) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [God Knows](https://open.spotify.com/album/3G3sTPzTb0R6OQTt3nJI7i) | 2:50 | 2025-04-07 |  |
 | [Half A Man](https://open.spotify.com/track/4EebHwo2KUzB75cl0WSZgi) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Bridges](https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO) | 3:25 | 2024-05-01 |  |
 | [Hide & Seek \(feat\. Joe Housley\)](https://open.spotify.com/track/0b4bqukSKvpx4wBnM5Y8ar) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Joe Housley](https://open.spotify.com/artist/0heaTfPYgeYsyw7SokGni7) | [Hide & Seek \(feat\. Joe Housley\)](https://open.spotify.com/album/6JMnkPQtpRmMyk2yF7AKeo) | 2:43 | 2024-05-01 |  |
 | [Hole in My Heart](https://open.spotify.com/track/6KOCCvjH3DEyUPhjjfOsP3) | [Luke Friend](https://open.spotify.com/artist/0fN6T4AfuRK8fWrENakh5U) | [Hole in My Heart](https://open.spotify.com/album/1vKIu5jM2MeRMo6aCfNvIi) | 3:08 | 2024-05-01 |  |

@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle piano covers.
 
-433 songs - 22 hr 54 min
+434 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Clown](https://open.spotify.com/track/5An9TSZ5KmfsCLwBxq1VRA) | [Ron Marks](https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX) | [Clown](https://open.spotify.com/album/2vVEFVUPxPeiok2a1JEXCo) | 3:47 | 2023-01-20 |  |
 | [Cold Heart](https://open.spotify.com/track/2JR1wrR7VqWbVHjwuXl6uG) | [Samantha Foster](https://open.spotify.com/artist/0YBUHAWLRIYv0e1aTE6lJx) | [Cold Heart](https://open.spotify.com/album/2MiytJKrSJKjN8pdleNbyS) | 3:02 | 2022-08-01 |  |
 | [Cover Me In Sunshine](https://open.spotify.com/track/2mHrHpt27sgpNUsU99PvyJ) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Cover Me In Sunshine](https://open.spotify.com/album/425Ukjw4bvzkamUWmuck8t) | 2:40 | 2022-09-05 | 2023-05-06 |
-| [Dance The Night](https://open.spotify.com/track/7GXvUIgrh8eGCdCbT9jt6O) | [Jón Araujo](https://open.spotify.com/artist/3yVtxFWtzQHdSK2lPkX3M8) | [Dance The Night](https://open.spotify.com/album/5OaPOolZ6M9k8tWI9XO66K) | 2:50 | 2023-11-17 |  |
+| [Dance The Night](https://open.spotify.com/track/7GXvUIgrh8eGCdCbT9jt6O) | [Jón Araujo](https://open.spotify.com/artist/3yVtxFWtzQHdSK2lPkX3M8) | [Dance The Night](https://open.spotify.com/album/5OaPOolZ6M9k8tWI9XO66K) | 2:50 | 2023-11-17 | 2025-04-08 |
 | [Dancing on my own](https://open.spotify.com/track/3x85o71j8PyDEhvnQJEtUn) | [Nicholas Wright](https://open.spotify.com/artist/1c8mJjhHsXxGw0QxlEHLm3) | [All of me](https://open.spotify.com/album/5uMn4dATqQx38OCji41pYu) | 3:38 | 2022-09-30 | 2023-04-29 |
 | [Dancing on my own](https://open.spotify.com/track/122XrAD5sOasFPY1eKUfCt) | [Zach Flash](https://open.spotify.com/artist/245BfbwD5kOa5wFTd0Bl5w) | [Dancing on my own](https://open.spotify.com/album/0PiSxlbMEumz9h8WYM3zQJ) | 3:10 | 2023-11-17 |  |
 | [Dancing queen](https://open.spotify.com/track/2Ms4SBm3AnznOBX0n4Wrr8) | [Joseph Vaux](https://open.spotify.com/artist/3xeLXw1KYDFIZlod0XGHr1) | [Yesterday](https://open.spotify.com/album/3vH4vxMmOITNPGaORvzGdT) | 4:10 | 2022-11-18 | 2023-04-15 |
@@ -143,7 +143,7 @@
 | [good 4 u](https://open.spotify.com/track/2QhEuuK0jdjWrhUrouMIuz) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [good 4 u](https://open.spotify.com/album/3WjUXzSAY62ypc7b7ON8e6) | 3:21 | 2024-04-15 | 2024-10-19 |
 | [good 4 u](https://open.spotify.com/track/75tn6WWZg2fiMVXwalRKDs) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [Calm Piano Covers \(Volume 3\)](https://open.spotify.com/album/1snNEn4IXOOgkKkWNoKvca) | 3:21 | 2022-12-16 | 2024-04-19 |
 | [Goodbye Yellow Brick Road](https://open.spotify.com/track/2qJsAAXFRJDzBDPnGD1HgA) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/3NQazGgBW6d4uioUvaaYx7) | 2:14 | 2023-12-22 |  |
-| [Groovy Kind Of Love](https://open.spotify.com/track/6faVa20KtdwfyzsJ6PaohE) | [Pequeño Casero](https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9) | [Groovy Kind Of Love](https://open.spotify.com/album/6swG5Fj4XarYTsnOm3CVAk) | 3:12 | 2022-11-18 |  |
+| [Groovy Kind Of Love](https://open.spotify.com/track/6faVa20KtdwfyzsJ6PaohE) | [Pequeño Casero](https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9) | [Groovy Kind Of Love](https://open.spotify.com/album/6swG5Fj4XarYTsnOm3CVAk) | 3:12 | 2022-11-18 | 2025-04-08 |
 | [Hallelujah](https://open.spotify.com/track/4YZwWfva9YsKx2Xoo5eCBK) | [Brian Crain](https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb) | [Piano and Light](https://open.spotify.com/album/0X03bt3jajm7DMCZ2L2SAl) | 4:11 | 2022-08-01 | 2022-10-15 |
 | [Hallelujah](https://open.spotify.com/track/5Ejj6d6NWhR1g9oymWBlm2) | [Ron Lopata](https://open.spotify.com/artist/126P8vRqW1X8AOS0LfKbtA) | [Hallelujah](https://open.spotify.com/album/1pQ8qDBJqljz1SzaYXswJt) | 2:54 | 2024-03-22 |  |
 | [Hallelujah](https://open.spotify.com/track/4vXkT1Dgel9Y3W9V3IvM74) | [William Chu](https://open.spotify.com/artist/1OMbaqIBBz86y7FdoMcwMv) | [Hallelujah](https://open.spotify.com/album/38alZxIo99eD19U9ldrQSl) | 2:44 | 2022-10-14 | 2022-11-19 |
@@ -229,7 +229,7 @@
 | [Let somebody go](https://open.spotify.com/track/2qDVma0LKZAQTf2JQA58UK) | [Miriam Modest](https://open.spotify.com/artist/1pNPm4X2b7wMtlZ2CQQcvb) | [Let somebody go](https://open.spotify.com/album/1c31HkBc3ogWX2yBcuoT11) | 2:41 | 2023-01-20 |  |
 | [Lift Me Up \- Piano Version](https://open.spotify.com/track/0ZZzAPbwFZcAbSg4mZTmJL) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Lift Me Up \(Piano Version\)](https://open.spotify.com/album/3M2wA7kvyghCBHnpLCpXrC) | 2:28 | 2022-12-16 |  |
 | [Lift Me Up \- Piano Version](https://open.spotify.com/track/3x8MGNhdm5VUVQD7ynpf8F) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Lift Me Up \(Piano Version\)](https://open.spotify.com/album/3ZbvHn0IRGGEJiH3CJoggk) | 2:28 | 2023-03-17 | 2024-04-19 |
-| [Little Talks](https://open.spotify.com/track/64jOt18VnBBYJ9YNTjU28c) | [Tinnie Ramone](https://open.spotify.com/artist/69VAc4NZE3mNUtPVw3GHCA) | [Little Talks](https://open.spotify.com/album/5Cz4oaW0RZpO8ubFfNsG2k) | 2:08 | 2022-09-30 |  |
+| [Little Talks](https://open.spotify.com/track/64jOt18VnBBYJ9YNTjU28c) | [Tinnie Ramone](https://open.spotify.com/artist/69VAc4NZE3mNUtPVw3GHCA) | [Little Talks](https://open.spotify.com/album/5Cz4oaW0RZpO8ubFfNsG2k) | 2:08 | 2022-09-30 | 2025-04-08 |
 | [Livin' On A Prayer](https://open.spotify.com/track/0UE3uOkiuc2FtehvtqMqEU) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Livin' On A Prayer](https://open.spotify.com/album/5B8pdZdF6CvENv0QmurD8n) | 3:24 | 2023-05-26 | 2024-08-31 |
 | [Love Is All Around](https://open.spotify.com/track/1wQ07OlblAtBNxWGNun2vw) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [Love Is All Around](https://open.spotify.com/album/07yQmykXzjBt0hghIZVPyF) | 3:23 | 2023-06-08 | 2025-01-10 |
 | [Love Me Like You Do](https://open.spotify.com/track/1ocUQUnGLOGIW0n3ModD5K) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [Love Me Like You Do](https://open.spotify.com/album/3R76jNp6Od0Ot20mw3k74J) | 3:13 | 2023-01-20 |  |
@@ -246,6 +246,7 @@
 | [Memories](https://open.spotify.com/track/61oKiMsDlliDe6Io3nUccm) | [Lenowa Parson](https://open.spotify.com/artist/3zSc3Docwdph96gfgwmxNp) | [Memories](https://open.spotify.com/album/5AYdoDESQhBcLhbdmepnLD) | 3:22 | 2023-05-26 | 2023-06-09 |
 | [Memories](https://open.spotify.com/track/2SfvU9NbPAiYgLHWjp5Xqc) | [Sarah Bowman](https://open.spotify.com/artist/2Wz8oWJF4XcdrxJeFkkWJI) | [Memories](https://open.spotify.com/album/6mHaTfEd8SfwreuI0Lh9AJ) | 4:00 | 2022-08-01 | 2023-02-25 |
 | [Memory](https://open.spotify.com/track/39NCTTGsonWEzH0UjuYQsx) | [Alva Nørgaard](https://open.spotify.com/artist/7HIFfx126uBOqh9lGH8z2b) | [Memory](https://open.spotify.com/album/3HOiwKAEH7XRZQThMUm6yZ) | 3:43 | 2022-10-14 |  |
+| [Messy](https://open.spotify.com/track/4I1wozDwzAFJTM7UYTJWq7) | [Jón Araujo](https://open.spotify.com/artist/3yVtxFWtzQHdSK2lPkX3M8) | [Messy](https://open.spotify.com/album/6R005fo5kfudPwHT6JcyYS) | 3:18 | 2025-04-07 |  |
 | [Michelle](https://open.spotify.com/track/426m22xIyYxlPJJdWUJVLG) | [Anton Byers](https://open.spotify.com/artist/3EXHOUECuF5L9svlzdsnBu) | [Michelle](https://open.spotify.com/album/6q7FMxN2FpBotFqLnioQck) | 3:32 | 2022-12-16 | 2024-07-19 |
 | [Middle](https://open.spotify.com/track/7iwXlyPLGukVO3nT3jGyfi) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Middle](https://open.spotify.com/album/1yx6YgJXcUDn7eU5ZTT1uF) | 3:25 | 2024-10-18 |  |
 | [Middle of the Night \- Piano](https://open.spotify.com/track/2K97GriUyHINnzuDsmTfkP) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Middle of the Night \(Piano\)](https://open.spotify.com/album/4xjraR8hKCk9hmUAQt5ipb) | 2:56 | 2022-10-14 |  |
@@ -320,7 +321,7 @@
 | [Set Fire to the Rain](https://open.spotify.com/track/2zRuYBTt3XZaWb7dnejJm3) | [Jón Araujo](https://open.spotify.com/artist/3yVtxFWtzQHdSK2lPkX3M8) | [Set Fire to the Rain](https://open.spotify.com/album/6xbEpp8U2Mm36fPRsU631N) | 2:58 | 2024-02-09 |  |
 | [Shallow](https://open.spotify.com/track/71MLdZtvy7QJq9XH2hbDf1) | [Samuel Davids](https://open.spotify.com/artist/56TUZEQJVupybMUEyP3qgY) | [Shallow](https://open.spotify.com/album/3RcPaH9lePzVGTUdK2KGQ8) | 3:08 | 2022-08-01 | 2023-05-06 |
 | [Shallow \- Piano Version](https://open.spotify.com/track/5zqW1M5Tkl07Nl2kGznE7F) | [Figgy Malone](https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl) | [Piano Covers Part I](https://open.spotify.com/album/0WXTylU55NFcO4gLH2e4JP) | 3:56 | 2022-11-18 |  |
-| [Shape Of You](https://open.spotify.com/track/4SXxhTeElT0VzF5ZCrc1Fj) | [Lenowa Parson](https://open.spotify.com/artist/3zSc3Docwdph96gfgwmxNp) | [Flowers](https://open.spotify.com/album/1vSL1Nh777cMwnHw7wUYGj) | 4:29 | 2023-04-28 |  |
+| [Shape Of You](https://open.spotify.com/track/4SXxhTeElT0VzF5ZCrc1Fj) | [Lenowa Parson](https://open.spotify.com/artist/3zSc3Docwdph96gfgwmxNp) | [Flowers](https://open.spotify.com/album/1vSL1Nh777cMwnHw7wUYGj) | 4:29 | 2023-04-28 | 2025-04-08 |
 | [Shape of You \(Cover\)](https://open.spotify.com/track/4D6hQqPWhVfiVsOyUbhVbg) | [Piano Peace](https://open.spotify.com/artist/7qKxhFTGcJ7w7JEFGqqWwK) | [Relaxing Piano Covers, Vol\. 1 \(Best of 2017\)](https://open.spotify.com/album/1IRBLlv9NLMaF7ibUlrWvf) | 3:33 | 2022-08-01 | 2023-05-06 |
 | [Show Me Heaven](https://open.spotify.com/track/6yeQfgy7CMBhemwVUdP9ZL) | [Simone Morelli](https://open.spotify.com/artist/0fwledftqxvzcog7xziwbY) | [Show Me Heaven](https://open.spotify.com/album/2MG6IXeavoPmwRuRVzqnnX) | 3:13 | 2022-09-30 |  |
 | [Sign Of The Times](https://open.spotify.com/track/2noRYyj5apVtjNY9fW7QOI) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Sign Of The Times](https://open.spotify.com/album/0zlNupUFmgK7jFCC5LhgWy) | 3:42 | 2022-11-18 |  |
@@ -419,7 +420,7 @@
 | [Wish You Were Here](https://open.spotify.com/track/6n5T4ydeemQpFqud9WzMjz) | [Dustin Tomas](https://open.spotify.com/artist/2uflvyKj2mPIzddN3MEjLs) | [Wish You Were Here](https://open.spotify.com/album/59fiCzXNly8qmfrLdxbP4Z) | 3:02 | 2025-02-14 |  |
 | [With or without you](https://open.spotify.com/track/5ySNvjc6U7c4TDhRgqNdJh) | [Anissa Henderson](https://open.spotify.com/artist/7hWN9tSQOmj0pafX5UWsjE) | [With or without you](https://open.spotify.com/album/2hzBunUPQX0klUidFYR9Ux) | 2:36 | 2023-11-17 |  |
 | [Without you](https://open.spotify.com/track/1Pplkqiz45fRq73OxgrHQL) | [Leona Boyd](https://open.spotify.com/artist/7jEJ0zKV57ryzZm5tEVGJe) | [Without you](https://open.spotify.com/album/1zyivnqvuiBNnVS8YoAmtK) | 3:11 | 2022-10-14 |  |
-| [Without You \- Piano](https://open.spotify.com/track/6uec8Q21Q85N9lj0fDLiYA) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Without You \(Piano\)](https://open.spotify.com/album/0fyycke18sjAPaJ36osEa0) | 2:22 | 2022-12-16 |  |
+| [Without You \- Piano](https://open.spotify.com/track/6uec8Q21Q85N9lj0fDLiYA) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Without You \(Piano\)](https://open.spotify.com/album/0fyycke18sjAPaJ36osEa0) | 2:22 | 2022-12-16 | 2025-04-08 |
 | [Without You \- Piano](https://open.spotify.com/track/6uhQBsYdVTJGTCYYnAwpTt) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy) | 2:22 | 2023-03-17 | 2024-04-19 |
 | [Woke Up in Love](https://open.spotify.com/track/00VGDS10lKLKXyKCrvcj53) | [Pia Plonner](https://open.spotify.com/artist/42HyEtsQzXNdX6aBjxdOaO) | [Woke Up in Love](https://open.spotify.com/album/64Pan695xJqJcya0LiFsQU) | 2:56 | 2022-11-18 | 2023-06-23 |
 | [Woman In Love](https://open.spotify.com/track/0gsahF2JQ6vX7ZihCfNALe) | [Lilas Délice](https://open.spotify.com/artist/0x2Cy9CJekH8kYi8gLWHOM) | [Woman In Love](https://open.spotify.com/album/2QxnnLhu9ae17ToOdnHPNh) | 3:08 | 2023-02-24 | 2023-09-22 |

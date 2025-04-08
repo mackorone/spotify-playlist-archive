@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-621 songs - 1 day 7 hr 36 min
+623 songs - 1 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Don't Let Me Down \(Instrumental\)](https://open.spotify.com/track/18RRTF9SbEOM9h3aoMKeNc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Don't Let Me Down](https://open.spotify.com/album/1mwgnCkCGVwPbp6CpFAqIp) | 3:00 | 2022-01-21 | 2023-04-29 |
 | [Don't Look Back In Anger](https://open.spotify.com/track/1wSjtNZH4XRBU0KpjrYIYB) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Don't Look Back In Anger](https://open.spotify.com/album/4oHlMLyej1Sb1UPvoDCezc) | 3:46 | 2022-12-02 | 2023-06-03 |
 | [Don't You Worry Child](https://open.spotify.com/track/3J7sFURDzIfnRmyLW8xAzF) | [Steve Dawson](https://open.spotify.com/artist/0k7ltXZL0tbVfeO3Qhp21c) | [Don't You Worry Child](https://open.spotify.com/album/3lkTUg2cqPr4Mqt4uXienx) | 3:38 | 2023-05-12 |  |
-| [Don´t Speak](https://open.spotify.com/track/4dHbpaYpTfoms8zFBLjJxC) | [Lilly Michaels](https://open.spotify.com/artist/2B5oA1gYMMH9PqHWeJM93k) | [Don´t Speak](https://open.spotify.com/album/5F0qAUqoTQZbhjfyDkRyIx) | 3:42 | 2023-12-08 |  |
+| [Don´t Speak](https://open.spotify.com/track/4dHbpaYpTfoms8zFBLjJxC) | [Lilly Michaels](https://open.spotify.com/artist/2B5oA1gYMMH9PqHWeJM93k) | [Don´t Speak](https://open.spotify.com/album/5F0qAUqoTQZbhjfyDkRyIx) | 3:42 | 2023-12-08 | 2025-04-08 |
 | [Don’t stop me now](https://open.spotify.com/track/1auQkWPjDjIRXhch3hpIsc) | [Dan Goten](https://open.spotify.com/artist/7zXPCJltIcz9RxTp01GyeC) | [Don’t stop me now](https://open.spotify.com/album/4g2jAAdcnEzrYtjtD7SORm) | 2:42 | 2024-08-09 |  |
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/6xIidCUt8vNnGHYfXH9hVU) | [Daniel Murphy](https://open.spotify.com/artist/3U09BkBTECPYMhXsbTuVXD) | [Dream A Little Dream Of Me](https://open.spotify.com/album/482fvXp5PuWSHqR01zR0xd) | 3:15 | 2023-12-08 | 2025-02-15 |
 | [Dreams](https://open.spotify.com/track/7pdumwOPFHj0SvHNNShtxc) | [Hans Mölle](https://open.spotify.com/artist/7mfBLnW1eJRw9uYBT3f9ut) | [Hans Mölle](https://open.spotify.com/album/0uneLltOy1UqoLrXpmYb4D) | 4:37 | 2022-01-21 |  |
@@ -193,6 +193,7 @@
 | [Fourth of July](https://open.spotify.com/track/6H5jppUwWGcmFIkXjHdJRJ) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [Fourth of July](https://open.spotify.com/album/6yvKTtoMbOahCHIsX5dQd5) | 3:19 | 2023-04-28 |  |
 | [Fragile](https://open.spotify.com/track/536KX7LmY2wEBY1XbWaTbR) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Guitar Covers](https://open.spotify.com/album/41FqGppViwn20HibrPfdmx) | 3:30 | 2023-04-14 | 2023-06-09 |
 | [From Both Sides Now](https://open.spotify.com/track/0y1QJXvmb5iRXd11JJf9Hi) | [Mats Tärnfors](https://open.spotify.com/artist/5PkNELD0DuzkqW2I7X0ND1) | [From Both Sides Now](https://open.spotify.com/album/7leRuOJAVfQIAPkVFBhEKz) | 4:12 | 2023-02-24 |  |
+| [Frozen](https://open.spotify.com/track/0P6sZGgNjafAYt9mNLzmgC) | [Pia Nouvelle](https://open.spotify.com/artist/2uJNVfvvlpXghZQ2sNzVq9) | [Frozen](https://open.spotify.com/album/1wW9CUmaPYDnRnmt9E2eUV) | 3:30 | 2025-04-07 |  |
 | [För Kärlekens Skull](https://open.spotify.com/track/4rCJlK3Uw8Cv80AZWaWQBO) | [Douglas Simmons](https://open.spotify.com/artist/165sed6LuybeRD22A8kzPS) | [För Kärlekens Skull](https://open.spotify.com/album/5SjcOhVGjH8apOCeajW8Yf) | 4:14 | 2023-01-20 | 2023-04-29 |
 | [Get Lucky](https://open.spotify.com/track/4CvzxUEgqlN2aHUQHDRnls) | [Troy Mair](https://open.spotify.com/artist/5veMU6D1o2oIb7fOcg5VAZ) | [Get Lucky](https://open.spotify.com/album/4WEgJcuTLcG5JlcvWA4OJC) | 2:47 | 2023-02-24 | 2023-06-16 |
 | [Ghost](https://open.spotify.com/track/7DCs0VpiINdXfpz8VgC4sD) | [Jennifer Toledo](https://open.spotify.com/artist/6r0yeyjdGpvfPhPVeaq877) | [Ghost](https://open.spotify.com/album/7Fq1BHzu1qsdmUsIGMrJU2) | 2:34 | 2023-11-17 |  |
@@ -341,7 +342,7 @@
 | [Locked Out Of Heaven](https://open.spotify.com/track/3pp6suswnTTv8ztpGFKW45) | [Laszlo Teofil](https://open.spotify.com/artist/2b9trXzxgbOKfsHAJoZo9a) | [Locked Out Of Heaven](https://open.spotify.com/album/0qHDoQ7InnnQIBFvX8GL1E) | 3:21 | 2025-02-14 |  |
 | [Lose Somebody](https://open.spotify.com/track/01QSyY5c1mET5j9mNeqmnM) | [Gary Trunket](https://open.spotify.com/artist/0O5CYvPvY4crcuQPSmCPIJ) | [Lose Somebody](https://open.spotify.com/album/0JvfrbbduOvLgVRtvYgruz) | 3:19 | 2022-01-21 | 2022-12-02 |
 | [Lose You To Love Me](https://open.spotify.com/track/0R9KMCqqe2YVA5dEWQMqzP) | [Amy Bynes](https://open.spotify.com/artist/4KF2aXLvwOGirz0H1vg30S) | [Lose You To Love Me](https://open.spotify.com/album/4uFMkF6JI6EXjYx7eOaU9L) | 4:22 | 2022-01-21 | 2023-09-08 |
-| [Losing My Religion](https://open.spotify.com/track/4usJdxuuZ5YXuxaFMkHVNU) | [Alan Jameson](https://open.spotify.com/artist/6Bvte6kob0IxSHFkIK3tZw) | [Losing My Religion](https://open.spotify.com/album/1l6yEEy9rRZSpbCdo2EW63) | 3:37 | 2024-02-09 |  |
+| [Losing My Religion](https://open.spotify.com/track/4usJdxuuZ5YXuxaFMkHVNU) | [Alan Jameson](https://open.spotify.com/artist/6Bvte6kob0IxSHFkIK3tZw) | [Losing My Religion](https://open.spotify.com/album/1l6yEEy9rRZSpbCdo2EW63) | 3:37 | 2024-02-09 | 2025-04-08 |
 | [Love Me Like You Do](https://open.spotify.com/track/1ocUQUnGLOGIW0n3ModD5K) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [Love Me Like You Do](https://open.spotify.com/album/3R76jNp6Od0Ot20mw3k74J) | 3:13 | 2023-01-20 |  |
 | [Love Me Tender](https://open.spotify.com/track/5VdDhaWyHgrnmZe3JVE27Y) | [Roly\-Poly](https://open.spotify.com/artist/5a9O7IJkApBb6B35ldcalw) | [Love Me Tender](https://open.spotify.com/album/59tSdWVmOuJU2TGDmKpQk9) | 2:20 | 2023-04-28 | 2023-08-18 |
 | [Love theme from "The Godfather"](https://open.spotify.com/track/3Blqcm6DphSHU4fog2Vojc) | [Dieter Klose](https://open.spotify.com/artist/1PqvPP0ke9tphLuxWcrLLG) | [Love theme from "The Godfather"](https://open.spotify.com/album/7dXHc7kGRDY21PhB4BjOT4) | 2:25 | 2022-01-21 | 2022-05-03 |
@@ -359,6 +360,7 @@
 | [Maniac](https://open.spotify.com/track/6UiDUHOQk8BVnPuYWWcvMw) | [Simone Morelli](https://open.spotify.com/artist/0fwledftqxvzcog7xziwbY) | [Maniac](https://open.spotify.com/album/5gXmTWp9saddHSZ1EaLZ2V) | 3:14 | 2023-05-12 |  |
 | [Memories](https://open.spotify.com/track/6EEFUnAypbEwE4GgYD6b6U) | [Love Falk](https://open.spotify.com/artist/7xkvpbm8tfh02pFrqHV4aK) | [Memories](https://open.spotify.com/album/0KpBrDZSwmXHkmd3ffhQEn) | 3:35 | 2022-01-21 | 2023-06-03 |
 | [Memory](https://open.spotify.com/track/39NCTTGsonWEzH0UjuYQsx) | [Alva Nørgaard](https://open.spotify.com/artist/7HIFfx126uBOqh9lGH8z2b) | [Memory](https://open.spotify.com/album/3HOiwKAEH7XRZQThMUm6yZ) | 3:43 | 2022-10-14 | 2023-11-17 |
+| [Messy](https://open.spotify.com/track/4I1wozDwzAFJTM7UYTJWq7) | [Jón Araujo](https://open.spotify.com/artist/3yVtxFWtzQHdSK2lPkX3M8) | [Messy](https://open.spotify.com/album/6R005fo5kfudPwHT6JcyYS) | 3:18 | 2025-04-07 |  |
 | [Michelle](https://open.spotify.com/track/426m22xIyYxlPJJdWUJVLG) | [Anton Byers](https://open.spotify.com/artist/3EXHOUECuF5L9svlzdsnBu) | [Michelle](https://open.spotify.com/album/6q7FMxN2FpBotFqLnioQck) | 3:32 | 2022-12-02 | 2024-06-21 |
 | [Middle of the Night \- Piano](https://open.spotify.com/track/2K97GriUyHINnzuDsmTfkP) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Middle of the Night \(Piano\)](https://open.spotify.com/album/4xjraR8hKCk9hmUAQt5ipb) | 2:56 | 2022-10-14 |  |
 | [Middle of the Night \- Piano](https://open.spotify.com/track/7F3DCWB2PsadGC0iE1btUU) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Middle of the Night \(Piano\)](https://open.spotify.com/album/0ngulRajtwlyMSvhvkeIIh) | 2:56 | 2023-03-24 | 2024-04-19 |
@@ -570,7 +572,7 @@
 | [Waterloo](https://open.spotify.com/track/310hk7yFoeAwmwHG7uBoXZ) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [Waterloo](https://open.spotify.com/album/3Dmo284cTPhCvZnhwb6s0a) | 3:23 | 2023-05-12 |  |
 | [We Are The World](https://open.spotify.com/track/0jmuypH5mXKfPQzORdMbUt) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [A Thousand Miles](https://open.spotify.com/album/0dZ2dXRU6ET4oFCA9Csr45) | 2:47 | 2022-12-16 |  |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/2P26iKecxHzsb03fAtTYPq) | [Léon Mignard](https://open.spotify.com/artist/1qwQOqXTSElUUKTCdwkfHL) | [we can't be friends \(wait for your love\)](https://open.spotify.com/album/7C0jw71ON3r4bEEOx1MyLg) | 3:31 | 2024-05-07 |  |
-| [We Don't Need Another Hero](https://open.spotify.com/track/73SFXFqWBlrwN8gLWLrqmS) | [Jorelyn Ariza](https://open.spotify.com/artist/6eSynFyqk6TbDwoodngL5w) | [We Don't Need Another Hero](https://open.spotify.com/album/0FzChdtV0Xt18jAAhuB9Jd) | 2:56 | 2022-10-14 |  |
+| [We Don't Need Another Hero](https://open.spotify.com/track/73SFXFqWBlrwN8gLWLrqmS) | [Jorelyn Ariza](https://open.spotify.com/artist/6eSynFyqk6TbDwoodngL5w) | [We Don't Need Another Hero](https://open.spotify.com/album/0FzChdtV0Xt18jAAhuB9Jd) | 2:56 | 2022-10-14 | 2025-04-08 |
 | [We Don't Talk Anymore](https://open.spotify.com/track/4OgNKXz4YMu9tDm8giWkwy) | [Carl Fredman](https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU) | [We Don't Talk Anymore](https://open.spotify.com/album/4DWAGQ8cHUTFLZKbl1geK9) | 3:43 | 2025-01-09 |  |
 | [We Dont talk anymore](https://open.spotify.com/track/6thKbfQ1vrawtg7L69FWfG) | [Alicia West](https://open.spotify.com/artist/4rY1r047Kp9NhePRYln96V) | [We Dont talk anymore](https://open.spotify.com/album/5sODmOL3t06qX9xcNoNIKh) | 3:05 | 2023-04-14 | 2023-09-01 |
 | [We Found Love](https://open.spotify.com/track/4JfQOPFcJBaG2P0EnquSlV) | [Josiah Burton](https://open.spotify.com/artist/7kHFdYLloUUlagYelqPEQ7) | [We Found Love](https://open.spotify.com/album/6cgaV6vKjXx8ca75asRIni) | 3:15 | 2023-04-14 |  |

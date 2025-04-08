@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Alaba al Seńor con estas canciones clásicas! Foto: Marcos Witt
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,291 likes - 125 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,419 likes - 125 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 104 | [Si Tu Presencia Conmigo No Va](https://open.spotify.com/track/4GSSysU56FdBKhnv9HlTnT) | [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p) | [Si Tu Presencia Conmigo No Va](https://open.spotify.com/album/46KmpiuPAvHcuXGQrmFPbq) | 4:48 |
 | 105 | [Perfume a Tus Pies](https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Glorioso Rey](https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa) | 5:10 |
 | 106 | [Ganas de Vivir](https://open.spotify.com/track/6367glu3JEfj7oJ03oAe7L) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Ganas de Vivir](https://open.spotify.com/album/1LX6lEi66BNQEV4GgxcvXk) | 3:57 |
-| 107 | [Creo En Ti](https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy) | 7:03 |
-| 108 | [El Nombre De Jesús \(feat\. Christine D'clario\)](https://open.spotify.com/track/1cMTzjQOTt3wVAbFgTGPYN) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Operación Mundial](https://open.spotify.com/album/13cS6xvlMND2HFSphWWINT) | 4:30 |
+| 107 | [El Nombre De Jesús \(feat\. Christine D'clario\)](https://open.spotify.com/track/1cMTzjQOTt3wVAbFgTGPYN) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Operación Mundial](https://open.spotify.com/album/13cS6xvlMND2HFSphWWINT) | 4:30 |
+| 108 | [Creo En Ti](https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy) | 7:03 |
 | 109 | [Me Llevas Más Alto \(feat\. Alex Campos & Redimi2\)](https://open.spotify.com/track/0IBSKqWL16eHHqXl6HoPWy) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Me Llevas Más Alto \(feat\. Alex Campos & Redimi2\)](https://open.spotify.com/album/7fAjCNONQytoQTifBuDkwC) | 3:19 |
 | 110 | [Mi Vida \- Live](https://open.spotify.com/track/7qK1vnYEemCXgkNbFOjuVU) | [North Point En Vivo](https://open.spotify.com/artist/5sZzaeeDYDV1qNLlJZ6ICd), [Ronnie Piñeiro](https://open.spotify.com/artist/0aGoOuMYVLHrlPejwxvcmi) | [Él Es Cristo \(Live\)](https://open.spotify.com/album/40P49UCDj7lxcUCXILCuYK) | 5:46 |
 | 111 | [El Cielo Gobierna](https://open.spotify.com/track/3RlEEd4YLEbpUSEo7o6wLH) | [David Scarpeta](https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd) | [El Cielo Gobierna](https://open.spotify.com/album/0jJt3oV7ptqObZj9ktTaBW) | 4:25 |

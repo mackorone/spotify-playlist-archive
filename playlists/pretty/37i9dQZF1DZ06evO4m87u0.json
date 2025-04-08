@@ -1,12 +1,12 @@
 {
   "description": "This is The Black Keys. The essential tracks, all in one playlist.",
-  "num_followers": 292417,
+  "num_followers": 292441,
   "original_name": "This Is The Black Keys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAACTlpwR95lylyUOgZcJlNto",
+  "snapshot_id": "Z/HEAAAAAABFX0PCIhhHuIpyRlhF29Zw",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Magic Potion",
-        "url": "https://open.spotify.com/album/4jFfuHyKmhGeipjRmKIh8O"
+        "name": "Attack & Release",
+        "url": "https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 162586,
-      "name": "Your Touch",
-      "url": "https://open.spotify.com/track/5lJUXSjRjevVy7I3P87wuK"
+      "duration_ms": 239146,
+      "name": "I Got Mine",
+      "url": "https://open.spotify.com/track/319zpJMCzpz50Uz0PsjlJN"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Attack & Release",
-        "url": "https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi"
+        "name": "Magic Potion",
+        "url": "https://open.spotify.com/album/4jFfuHyKmhGeipjRmKIh8O"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 239146,
-      "name": "I Got Mine",
-      "url": "https://open.spotify.com/track/319zpJMCzpz50Uz0PsjlJN"
+      "duration_ms": 162586,
+      "name": "Your Touch",
+      "url": "https://open.spotify.com/track/5lJUXSjRjevVy7I3P87wuK"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Big Come Up",
-        "url": "https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 128893,
-      "name": "Heavy Soul",
-      "url": "https://open.spotify.com/track/5GZq8P4Iy2smHngL07Pcuo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ohio Players",
         "url": "https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 167312,
       "name": "Beautiful People (Stay High)",
       "url": "https://open.spotify.com/track/2meH4dMuvGlooo2tpiPjJp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Big Come Up",
+        "url": "https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 128893,
+      "name": "Heavy Soul",
+      "url": "https://open.spotify.com/track/5GZq8P4Iy2smHngL07Pcuo"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Big Come Up",
-        "url": "https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 140933,
-      "name": "I'll Be Your Man",
-      "url": "https://open.spotify.com/track/7ve0nLuGlLfqw0EbL2UZEV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ohio Players",
         "url": "https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 147985,
       "name": "I Forgot To Be Your Lover",
       "url": "https://open.spotify.com/track/7DHlJLCXFlny3WhjnEL9qY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Big Come Up",
+        "url": "https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 140933,
+      "name": "I'll Be Your Man",
+      "url": "https://open.spotify.com/track/7ve0nLuGlLfqw0EbL2UZEV"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Big Come Up",
-        "url": "https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 153986,
-      "name": "Busted",
-      "url": "https://open.spotify.com/track/5qnOCQW9EwKd6kG6HVecHo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ohio Players",
         "url": "https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 154512,
       "name": "Don't Let Me Go",
       "url": "https://open.spotify.com/track/1zCNzZTRsou6TFpe8nsmnK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Big Come Up",
+        "url": "https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 153986,
+      "name": "Busted",
+      "url": "https://open.spotify.com/track/5qnOCQW9EwKd6kG6HVecHo"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 207040,
-      "name": "Nova Baby",
-      "url": "https://open.spotify.com/track/5S7kFUo496CoItemffWQb9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turn Blue",
         "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 213226,
       "name": "10 Lovers",
       "url": "https://open.spotify.com/track/5HPnumlogzZtpLEaORZjz1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 207040,
+      "name": "Nova Baby",
+      "url": "https://open.spotify.com/track/5S7kFUo496CoItemffWQb9"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 225013,
-      "name": "Hell of a Season",
-      "url": "https://open.spotify.com/track/2ONpXycQzFmWiutUm7vpIC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turn Blue",
         "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 222960,
       "name": "Turn Blue",
       "url": "https://open.spotify.com/track/1pwWrPxonLIE12WWu9NzgU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 225013,
+      "name": "Hell of a Season",
+      "url": "https://open.spotify.com/track/2ONpXycQzFmWiutUm7vpIC"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 194586,
-      "name": "Mind Eraser",
-      "url": "https://open.spotify.com/track/0hzBN7DGgtjBsTyZwTTKRS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turn Blue",
         "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 180173,
       "name": "Gotta Get Away",
       "url": "https://open.spotify.com/track/0zo4T5c5VV42554ySEc5J6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 194586,
+      "name": "Mind Eraser",
+      "url": "https://open.spotify.com/track/0hzBN7DGgtjBsTyZwTTKRS"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ohio Players (Trophy Edition)",
-        "url": "https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 203874,
-      "name": "Read Em And Weep",
-      "url": "https://open.spotify.com/track/2u89yyB1DUGqGSYhFVSqy7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turn Blue",
         "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
       },
@@ -687,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ohio Players",
-        "url": "https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI"
+        "name": "Ohio Players (Trophy Edition)",
+        "url": "https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo"
       },
       "artists": [
         {
@@ -696,9 +680,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 202354,
-      "name": "Only Love Matters",
-      "url": "https://open.spotify.com/track/1SA1S31wud6Qoq8rxkqbSt"
+      "duration_ms": 203874,
+      "name": "Read Em And Weep",
+      "url": "https://open.spotify.com/track/2u89yyB1DUGqGSYhFVSqy7"
     },
     {
       "added_at": null,
@@ -719,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ohio Players (Trophy Edition)",
-        "url": "https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo"
+        "name": "Ohio Players",
+        "url": "https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI"
       },
       "artists": [
         {
@@ -728,9 +712,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 177637,
-      "name": "Every Time You Leave",
-      "url": "https://open.spotify.com/track/4XMz6QU2koOZY4RflWCT99"
+      "duration_ms": 202354,
+      "name": "Only Love Matters",
+      "url": "https://open.spotify.com/track/1SA1S31wud6Qoq8rxkqbSt"
     },
     {
       "added_at": null,
@@ -747,6 +731,22 @@
       "duration_ms": 300611,
       "name": "The Only One",
       "url": "https://open.spotify.com/track/65PE3GVXjkiQOTM7V7NbfY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ohio Players (Trophy Edition)",
+        "url": "https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 177637,
+      "name": "Every Time You Leave",
+      "url": "https://open.spotify.com/track/4XMz6QU2koOZY4RflWCT99"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ohio Players (Trophy Edition)",
-        "url": "https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 165252,
-      "name": "You'll Pay",
-      "url": "https://open.spotify.com/track/0lyfI7eXg8k3Hu9hfl0Z2I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dropout Boogie",
         "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 217640,
       "name": "Good Love (feat. Billy F Gibbons)",
       "url": "https://open.spotify.com/track/49Mvj8Ohz1uu0AcZ7Ri70Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ohio Players (Trophy Edition)",
+        "url": "https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 165252,
+      "name": "You'll Pay",
+      "url": "https://open.spotify.com/track/0lyfI7eXg8k3Hu9hfl0Z2I"
     }
   ],
   "unique_name": "This Is The Black Keys",

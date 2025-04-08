@@ -4,7 +4,7 @@
 
 > This is Los Relampagos Del Norte\. The essential tracks, all in one playlist.
 
-89 songs - 4 hr 27 min
+90 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [La Criminal](https://open.spotify.com/track/06sDSQea3CjpaAcmNn2ITE) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Los Relampagos del Norte, Ramon Ayala y Cornelio Reyna](https://open.spotify.com/album/1MaRN2mekXavT4ZiLL1TQZ) | 2:23 | 2023-01-27 | 2023-02-01 |
 | [Llorar por Amor](https://open.spotify.com/track/1m8DK7AJnDmY96v35EzfC3) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [El Disco de Oro](https://open.spotify.com/album/4L5987PRJ0lgS1J2BmwMB7) | 2:55 | 2023-03-02 | 2023-03-04 |
 | [Llorar por Amor](https://open.spotify.com/track/6DoYsoFeICbUoq9nNddaH1) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Boleros de Oro: Grandes Éxitos de la Música Norteña](https://open.spotify.com/album/3jVJfLNB5xchADrjUir1fr) | 2:55 | 2022-06-01 | 2023-02-08 |
-| [Llorar por Amor](https://open.spotify.com/track/6RZ4h4fA1gljr2QGYThXzR) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Exitos Llorar por Amor](https://open.spotify.com/album/14LGdezPXdhHYL7a2CTvlO) | 2:55 | 2024-12-17 | 2025-04-07 |
+| [Llorar por Amor](https://open.spotify.com/track/6RZ4h4fA1gljr2QGYThXzR) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Exitos Llorar por Amor](https://open.spotify.com/album/14LGdezPXdhHYL7a2CTvlO) | 2:55 | 2024-12-17 |  |
 | [Mandato Divino](https://open.spotify.com/track/6aAz6vKrqgnakvmzhwjQ6C) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw), [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Explosion Norteña](https://open.spotify.com/album/2R6VICqmXcj45VuwQ6G5Hr) | 3:01 | 2022-06-01 | 2022-06-04 |
 | [Me Cai De La Nube](https://open.spotify.com/track/1CTAefqqsURDEHX8CCBMcf) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [15 Clasicas De Leyenda](https://open.spotify.com/album/1dDR0N4IbnIejNEzhm9e69) | 3:08 | 2023-02-07 |  |
 | [Me Cai De La Nube](https://open.spotify.com/track/5duBpK9vaRenDIdXZP5EMq) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Doble 2 En 1](https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy) | 3:04 | 2022-06-01 | 2024-02-29 |
@@ -91,6 +91,7 @@
 | [Ven a Decirme](https://open.spotify.com/track/5JPYHivczvHw5bjav4COLC) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Puras Cantineras, Vol\. 1](https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX) | 2:12 | 2022-06-01 | 2024-09-21 |
 | [Vengo a Llevarte](https://open.spotify.com/track/3ZkbdZPuWewYNzwhTumX2E) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx), [Ramón Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Cornelio Reyna Con Ramón Ayala y los Relámpagos del Norte](https://open.spotify.com/album/3QqP4X0qTnexiRDaDSe5dS) | 3:08 | 2022-06-01 |  |
 | [Vengo A Verte](https://open.spotify.com/track/3lL6NdQ4XNTc0CTEca4U1i) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Súper Éxitos](https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk) | 2:41 | 2023-11-10 | 2024-03-05 |
+| [Vengo a Verte](https://open.spotify.com/track/6Zcty2oRBTfQJ8Z12RzZMZ) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [12 Mejores Éxitos con](https://open.spotify.com/album/6aJTJ4ab0HAdCjF2tY4xs2) | 2:42 | 2025-04-08 |  |
 | [Vida Truncada](https://open.spotify.com/track/2CU8NCuaegfybJQZco8YBU) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Súper Éxitos](https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk) | 3:24 | 2023-11-10 | 2025-04-06 |
 | [Vida truncada](https://open.spotify.com/track/4qEJrAeN9gsU5PCNDQWUmS) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [22 Exitos de Oro, vol\. 2](https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU) | 3:26 | 2022-06-01 | 2023-08-09 |
 | [Vuelve Gaviota](https://open.spotify.com/track/3D9EZqnh00hJPmaM2akMsd) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Súper Éxitos](https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk) | 2:56 | 2024-04-09 |  |

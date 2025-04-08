@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > All the sunny surf rock you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,456 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,446 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 56 | [Naga Damai](https://open.spotify.com/track/67JfEpAFRL9ODmfh0LI1Yf) | [Cocobolo](https://open.spotify.com/artist/2KL4LWA8Ed7B5SscFbaLsu) | [Naga Damai](https://open.spotify.com/album/1eEyJyPSx9PLnkm6K9qyBo) | 3:37 |
 | 57 | [MOVING ON](https://open.spotify.com/track/52gV8gK6iG1QXBbAZmrskz) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [MOVING ON](https://open.spotify.com/album/2PaJHZzyi7UZJBX57mdbMW) | 4:08 |
 | 58 | [Carol](https://open.spotify.com/track/4NX5VjHmaaFTMMSXh4LcTd) | [SweetLipp](https://open.spotify.com/artist/7tBfbnypPbK5fYNPBV0vCV) | [Carol](https://open.spotify.com/album/2HdWhxRkD2gNGVwV7Xd1X7) | 2:40 |
-| 59 | [My Grandma Says We Have No Future](https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [My Grandma Says We Have No Future](https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o) | 2:54 |
-| 60 | [Bali Nights](https://open.spotify.com/track/0DbCQ19qemrwPFPeoXsZRP) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Cigarettes In Space](https://open.spotify.com/album/6j0YmnGZ7Qm2ZdtPMT1Gxu) | 3:30 |
-| 61 | [Floating By](https://open.spotify.com/track/1GecdBfUVVohc8wdSaHvtg) | [Dawson James](https://open.spotify.com/artist/07SRAC48eP073ob1v7iEuL) | [Floating By](https://open.spotify.com/album/1yYbgy37ZesTj0feuFkzJT) | 2:40 |
+| 59 | [Bali Nights](https://open.spotify.com/track/0DbCQ19qemrwPFPeoXsZRP) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Cigarettes In Space](https://open.spotify.com/album/6j0YmnGZ7Qm2ZdtPMT1Gxu) | 3:30 |
+| 60 | [Floating By](https://open.spotify.com/track/1GecdBfUVVohc8wdSaHvtg) | [Dawson James](https://open.spotify.com/artist/07SRAC48eP073ob1v7iEuL) | [Floating By](https://open.spotify.com/album/1yYbgy37ZesTj0feuFkzJT) | 2:40 |
+| 61 | [My Grandma Says We Have No Future](https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [My Grandma Says We Have No Future](https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o) | 2:54 |
 | 62 | [Heat Stroke](https://open.spotify.com/track/1ZvzQq578WQgPyzCQrMaVA) | [Heat Wave](https://open.spotify.com/artist/1qgzqqiimEzSEPHSWfbT3s) | [Heat Stroke](https://open.spotify.com/album/2u2ZygHTu7w8XICnj4fXZR) | 3:27 |
 | 63 | [Ceviche](https://open.spotify.com/track/5HCF5NaxKCb0CniAsqvzAE) | [The Audio Visual Drop Kicks](https://open.spotify.com/artist/0eCbFQwL3GpvgaW1wrjLSI) | [Ceviche](https://open.spotify.com/album/15vi8YHbu0Lfl3o1IGI80i) | 4:05 |
 | 64 | [Bees](https://open.spotify.com/track/0KyMzgnV6wtuiSXNrSwbmF) | [Wholesome](https://open.spotify.com/artist/2PLqBXGI8EeWZx2asQJIvl) | [Bees](https://open.spotify.com/album/1Q8zgTeNGKynVlI6a1j5Uc) | 3:33 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/02Zegjy92TEyYM8PSxvf8Y">Luther Vandross</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154 likes - 119 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 156 likes - 119 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 29 | [Promise Me](https://open.spotify.com/track/4R1DpQ9KA9ov9gXrdmDaaQ) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Forever, For Always, For Love](https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi) | 4:42 |
 | 30 | [Keeping My Faith In You](https://open.spotify.com/track/7ji63VKn7BttCU7hqnbZxF) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 4:55 |
 | 31 | [I Want Your Love](https://open.spotify.com/track/6CJzsJdJgYQc6NbsKngXGz) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Night Drive](https://open.spotify.com/album/6m0UuVV0fOC6m4p8J4ozRy) | 6:40 |
-| 32 | [Jump to It \- Single Version](https://open.spotify.com/track/1DWTFcfjHR8I98KSRk2ntW) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Jump to It \(Expanded Edition\)](https://open.spotify.com/album/10uiEA15LdTEsjO1xJZVt4) | 4:17 |
-| 33 | [Now That I Have You](https://open.spotify.com/track/6vWs38PNWldAaIWLfYXbI4) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 5:01 |
+| 32 | [Now That I Have You](https://open.spotify.com/track/6vWs38PNWldAaIWLfYXbI4) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 5:01 |
+| 33 | [Jump to It \- Single Version](https://open.spotify.com/track/1DWTFcfjHR8I98KSRk2ntW) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Jump to It \(Expanded Edition\)](https://open.spotify.com/album/10uiEA15LdTEsjO1xJZVt4) | 4:17 |
 | 34 | [Got Me Waiting](https://open.spotify.com/track/7lqwSAP2isafyCokjZd7aE) | [Heavy D & The Boyz](https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3) | [Nuttin' But Love](https://open.spotify.com/album/3WIm2cGDu6bRWAJDFhbgeK) | 4:31 |
 | 35 | [The Mistletoe Jam \(Everybody Kiss Somebody\)](https://open.spotify.com/track/74jkZEvi1iCmfmYvCUQ2JS) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [This Is Christmas](https://open.spotify.com/album/6QkoN5LPk7PbD5c9RVrey6) | 4:45 |
 | 36 | [This Is Christmas](https://open.spotify.com/track/7C4RBEOL8OpWVxrxt02Xb8) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [This Is Christmas](https://open.spotify.com/album/6QkoN5LPk7PbD5c9RVrey6) | 4:45 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 60 | [Lick My Lips](https://open.spotify.com/track/3ZOPCuRMpsHoTx2Qbo0zmi) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Hysteria](https://open.spotify.com/album/2vaD3Zl5XcFMWL2KU0R1VX) | 2:34 |
 | 61 | [She Saw You](https://open.spotify.com/track/7dN6LdEvKdvwoZquYIVNEP) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 5:44 |
 | 62 | [Are You Using Me?](https://open.spotify.com/track/1QtxGA8cWVJPLEslj9CrL3) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 5:21 |
-| 63 | [You're My Choice Tonight \(Choose Me\) \- Remastered](https://open.spotify.com/track/1flI5thjv7Y8e8t14FXOIF) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Bedroom Classics, Vol\. 1](https://open.spotify.com/album/4dzEBeERyrsFl59LcPYOEC) | 4:42 |
-| 64 | [If I...](https://open.spotify.com/track/3lZpFRnVx0eaO0IY3Y6tR9) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 3:42 |
+| 63 | [If I...](https://open.spotify.com/track/3lZpFRnVx0eaO0IY3Y6tR9) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 3:42 |
+| 64 | [You're My Choice Tonight \(Choose Me\) \- Remastered](https://open.spotify.com/track/1flI5thjv7Y8e8t14FXOIF) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Bedroom Classics, Vol\. 1](https://open.spotify.com/album/4dzEBeERyrsFl59LcPYOEC) | 4:42 |
 | 65 | [I Know You Want To](https://open.spotify.com/track/4yQmFbJenNeTqKwFzvdYnS) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Any Love](https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC) | 4:26 |
 | 66 | [Right in the Middle](https://open.spotify.com/track/3DRT8CMXAh76fOzblti1lV) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 4:50 |
 | 67 | [Little Miracles \(Happen Every Day\)](https://open.spotify.com/track/4vgxvqlt55AJHhUxMIUgJA) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Let Me Go](https://open.spotify.com/album/6LKej6X33QEOH1IIL9FWX5) | 4:41 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 118 | [A Brand New Day \- Radio Mix](https://open.spotify.com/track/4NrRL6djROkYxWrfYidbee) | [Emerald](https://open.spotify.com/artist/4PdFh3s3gKyoCB1Pcpci9l) | [A Brand New Day](https://open.spotify.com/album/3qkEyGnitBPZpFL9aqimXl) | 3:14 |
 | 119 | [In This Lonely Hour](https://open.spotify.com/track/1lYOzU0fzs3yQuhXB9bHlj) | [Delores Hall](https://open.spotify.com/artist/0EpH9VlSM5qidHHnDORvS6) | [Hall\-Mark!!](https://open.spotify.com/album/7vWxgfco70D8I6ZslLZHcd) | 2:34 |
 
-Snapshot ID: `AbuFcgAAAACOcW6mare4N8xHLncH6BXT`
+Snapshot ID: `AbuK1gAAAACXI4/mUK/3/JraP5rdWlpi`

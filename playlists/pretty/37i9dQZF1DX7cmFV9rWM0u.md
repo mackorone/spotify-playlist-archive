@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cmFV9rWM0u.md) - [plain]
 
 > Break a sweat with this Zumba\-inspired playlist! Find a class at Zumba.com
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,793,653 likes - 65 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,793,706 likes - 65 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cmFV9rWM0u.md) - [plain]
 | 45 | [COCO LOCO](https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [COCO LOCO](https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB) | 2:46 |
 | 46 | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE) | 3:21 |
 | 47 | [Loco](https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Loco](https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI) | 3:51 |
-| 48 | [FERXXO 30](https://open.spotify.com/track/2LWM5Ft0TdX24GeSq1u6PV) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:53 |
-| 49 | [Canción Bonita](https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Canción Bonita](https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U) | 2:49 |
+| 48 | [Canción Bonita](https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Canción Bonita](https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U) | 2:49 |
+| 49 | [FERXXO 30](https://open.spotify.com/track/2LWM5Ft0TdX24GeSq1u6PV) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:53 |
 | 50 | [Chica Ideal](https://open.spotify.com/track/21N4Buj4xsyLb218lYle61) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Chica Ideal](https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct) | 3:03 |
 | 51 | [El Conjuntito](https://open.spotify.com/track/2bipvepI8ridFvIAImR5Xf) | [El Bobe](https://open.spotify.com/artist/3FtVhV92rZyHa7ot2ioG5a), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [El Conjuntito](https://open.spotify.com/album/2gDoGr6IjyCIKuKNM6rmZZ) | 2:38 |
 | 52 | [Maradona \(Tatara\)](https://open.spotify.com/track/3P8siIOHzjtOA8oCglURzL) | [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i) | [Maradona \(Tatara\)](https://open.spotify.com/album/7k2xukz06wN3vKdaRHprPW) | 2:30 |
@@ -72,6 +72,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cmFV9rWM0u.md) - [plain]
 | 62 | [COBARDE](https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [COBARDE](https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6) | 2:46 |
 | 63 | [TEKA](https://open.spotify.com/track/6CWwdHPWZDshoiplMtx2Jb) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 2:43 |
 | 64 | [Brisa](https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Brisa](https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE) | 4:19 |
-| 65 | [Djadja \(feat\. Maluma\) \- Remix](https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Djadja \(feat\. Maluma\) \[Remix\]](https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV) | 2:46 |
+| 65 | [Dientes](https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Dientes](https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O) | 2:46 |
 
 Snapshot ID: `Z+GxUQAAAAA8+ThpqcihGDXpzX5fIa5I`

@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Ruby Plume
 
-835 songs - 1 day 20 hr 35 min
+836 songs - 1 day 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Dream Girl](https://open.spotify.com/track/7zF3Vmh0KRdw4lSRZtXCuP) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Dream Girl](https://open.spotify.com/album/5wSFHnE20dPUeOVE9AGx6w) | 3:40 | 2022-02-11 | 2022-04-29 |
 | [Drunk in the Bathtub](https://open.spotify.com/track/1EFfOdupn1DbhX9WLP5efs) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Drunk in the Bathtub](https://open.spotify.com/album/7sbfuEc5X1TwieMFPRXn6t) | 2:46 | 2022-12-02 | 2023-02-25 |
 | [drunk text me](https://open.spotify.com/track/2tbu7dOzCjM5JrPGr0sIes) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [drunk text me](https://open.spotify.com/album/5UnfL0nJwrdb5th8GyZArU) | 3:33 | 2022-01-14 | 2022-07-16 |
+| [Duel](https://open.spotify.com/track/2BeBp0IazmkqGVc0PxxDye) | [Ruby Plume](https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84) | [Duel](https://open.spotify.com/album/5fi1Z4VzXeNAYg4BxNCWgR) | 2:55 | 2025-04-07 |  |
 | [Dumb Love](https://open.spotify.com/track/2Ms8MDDtYBw7M3K5F3EqPX) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Dumb Love](https://open.spotify.com/album/0xU5lh9KbThw5Y7b50Ilm8) | 3:27 | 2022-01-14 | 2022-03-05 |
 | [Easy](https://open.spotify.com/track/1eMN4JbZgKyksJNkEL7eb9) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Comedy & Tragedy: Act 1](https://open.spotify.com/album/0miTgAlKXFn0IGE0axbSOh) | 2:47 | 2023-06-02 | 2023-10-01 |
 | [Easy](https://open.spotify.com/track/2e9OcSUPm48Eo1JqGf9z0b) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Easy](https://open.spotify.com/album/5KEfMWnIzvVRaDZtHdrpkb) | 2:47 | 2023-05-05 | 2023-08-04 |
@@ -605,7 +606,7 @@
 | [Rearview Mirror](https://open.spotify.com/track/2SSgYTvesgv4JbLtb6pMD9) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Rearview Mirror](https://open.spotify.com/album/6Yjc1ormevTi3c5lZb4rqF) | 2:33 | 2024-05-17 | 2024-11-02 |
 | [reckless driving \(feat\. Ben Kessler\)](https://open.spotify.com/track/3rX7jCeMKpyHH6bFohXcWd) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [reckless driving \(feat\. Ben Kessler\)](https://open.spotify.com/album/3L9UO9abdjQko3suZnjDdr) | 3:09 | 2022-02-25 | 2022-04-09 |
 | [RECOVER](https://open.spotify.com/track/1xM16w1mELJud010Pu69Vw) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [RECOVER](https://open.spotify.com/album/3erra5YLQlS35zS8U3BNr1) | 2:41 | 2023-11-10 | 2024-02-10 |
-| [Red Bandana](https://open.spotify.com/track/2VIOg87P7QCmIyYBEwEgvy) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Red Bandana](https://open.spotify.com/album/6ftosjsIUxKZWrxCVEWrI0) | 3:47 | 2024-11-08 |  |
+| [Red Bandana](https://open.spotify.com/track/2VIOg87P7QCmIyYBEwEgvy) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Red Bandana](https://open.spotify.com/album/6ftosjsIUxKZWrxCVEWrI0) | 3:47 | 2024-11-08 | 2025-04-08 |
 | [Remember me Happy](https://open.spotify.com/track/6LmgJRJKksk4FlSWBBLWpw) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Remember me Happy](https://open.spotify.com/album/1mtobYhOLhqQzk9V5zSxKj) | 2:21 | 2022-01-14 | 2022-09-03 |
 | [remind me](https://open.spotify.com/track/1pEqRNNm1wqEOVKpXe5Am8) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [remind me](https://open.spotify.com/album/0SPF8x1JgBFsfxO64ARLKC) | 2:17 | 2023-04-07 | 2023-05-20 |
 | [rest in peace](https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [rest in peace](https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE) | 3:11 | 2022-05-20 | 2022-10-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Wek.md) - [plain]
 
 > This is Halestorm\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,520 likes - 45 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,532 likes - 45 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Wek.md) - [plain]
 | 18 | [Get Lucky](https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate 2.0: The CoVeRs eP](https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA) | 3:08 |
 | 19 | [Song of Women \(feat\. Lzzy Hale of Halestorm\)](https://open.spotify.com/track/1OZ2eE4InmLDhl5KVG002w) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc), [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [The Gereg \(Deluxe Edition\)](https://open.spotify.com/album/4Lge00PEnR7Xb2ZKPItrys) | 5:49 |
 | 20 | [Apocalyptic](https://open.spotify.com/track/4DveRhd1VBtZyPodE3sbLj) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Into the Wild Life \(Deluxe\)](https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0) | 3:13 |
-| 21 | [You Call Me a Bitch Like It's a Bad Thing](https://open.spotify.com/track/1DxHCaS1d3ctyQVO70z1rk) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:11 |
-| 22 | [Wicked Ways](https://open.spotify.com/track/7dIObUjmQfXbs56UsaBIHT) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:26 |
+| 21 | [Wicked Ways](https://open.spotify.com/track/7dIObUjmQfXbs56UsaBIHT) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:26 |
+| 22 | [You Call Me a Bitch Like It's a Bad Thing](https://open.spotify.com/track/1DxHCaS1d3ctyQVO70z1rk) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:11 |
 | 23 | [All I Wanna Do Is Make Love to You \- EP Version](https://open.spotify.com/track/0TqBBrdwai3zdM90Tmyt8J) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate: The CoVeRs eP](https://open.spotify.com/album/2fwH1QL0wgnbbXiHWCYs1D) | 5:02 |
 | 24 | [Mayhem](https://open.spotify.com/track/6ubqrTIJwspBSqx8XQHN2K) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Into the Wild Life \(Deluxe\)](https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0) | 3:36 |
 | 25 | [Innocence](https://open.spotify.com/track/2wcOAWdnv22pYwRHscYfz2) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Halestorm \(Deluxe\)](https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS) | 3:15 |
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Wek.md) - [plain]
 | 36 | [Sick Individual](https://open.spotify.com/track/5dPRMnwZ7CeQF4oolO8lYo) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Into the Wild Life \(Deluxe\)](https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0) | 3:27 |
 | 37 | [Bet U Wish U Had Me Back](https://open.spotify.com/track/1ubMuTK0tZPAA1DqQia1WY) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Halestorm \(Deluxe\)](https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS) | 3:43 |
 | 38 | [Killing Ourselves to Live](https://open.spotify.com/track/44eIe8EuF5DCM50hgWLR3b) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 4:00 |
-| 39 | [Gold Dust Woman](https://open.spotify.com/track/4UyYS7Vjte02mASH4h7Oer) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate 2.0: The CoVeRs eP](https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA) | 4:10 |
-| 40 | [I Hate Myself for Loving You](https://open.spotify.com/track/77Fg4U5G7kejajeLbBh9HK) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate 3.0: The CoVeRs eP](https://open.spotify.com/album/5WKmPd9CsLopbhYQMM4rxI) | 4:09 |
+| 39 | [I Hate Myself for Loving You](https://open.spotify.com/track/77Fg4U5G7kejajeLbBh9HK) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate 3.0: The CoVeRs eP](https://open.spotify.com/album/5WKmPd9CsLopbhYQMM4rxI) | 4:09 |
+| 40 | [Gold Dust Woman](https://open.spotify.com/track/4UyYS7Vjte02mASH4h7Oer) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate 2.0: The CoVeRs eP](https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA) | 4:10 |
 | 41 | [Boot Scootin' Boogie \(with Halestorm\)](https://open.spotify.com/track/6CU78ZRTNZRomC7o6K0gFh) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 2:56 |
 | 42 | [Heart of Novocaine](https://open.spotify.com/track/6QQg9ttMJjUuUYAM3Nzaq7) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 3:33 |
-| 43 | [Terrible Things \(feat\. Ashley McBryde\)](https://open.spotify.com/track/0WxnOLr3M8kI7eRdVKuZm3) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Terrible Things \(feat\. Ashley McBryde\)](https://open.spotify.com/album/2eplD0qk51Hs52ngmjwRl2) | 3:30 |
-| 44 | [Still of the Night](https://open.spotify.com/track/7ooVEVJp4yECVnTrYWCKfw) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate 3.0: The CoVeRs eP](https://open.spotify.com/album/5WKmPd9CsLopbhYQMM4rxI) | 4:24 |
+| 43 | [Still of the Night](https://open.spotify.com/track/7ooVEVJp4yECVnTrYWCKfw) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate 3.0: The CoVeRs eP](https://open.spotify.com/album/5WKmPd9CsLopbhYQMM4rxI) | 4:24 |
+| 44 | [Terrible Things \(feat\. Ashley McBryde\)](https://open.spotify.com/track/0WxnOLr3M8kI7eRdVKuZm3) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Terrible Things \(feat\. Ashley McBryde\)](https://open.spotify.com/album/2eplD0qk51Hs52ngmjwRl2) | 3:30 |
 | 45 | [Mine](https://open.spotify.com/track/3238Ck8nZUFvTqh4fKv8cY) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Mine](https://open.spotify.com/album/2JzsMlDbOOZbiXmfHAOREG) | 4:19 |
 
-Snapshot ID: `Z/BygAAAAADF2KQmlra31WG1mmLGwDps`
+Snapshot ID: `Z/HEAAAAAAD/InCLAJUPz4BfG/Fwdwyt`

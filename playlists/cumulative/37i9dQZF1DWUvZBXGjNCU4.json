@@ -1755,6 +1755,24 @@
     },
     {
       "album": {
+        "name": "Endgame",
+        "url": "https://open.spotify.com/album/5IwXI2UHldpAqroGqKUEKT"
+      },
+      "artists": [
+        {
+          "name": "Quinn Sage",
+          "url": "https://open.spotify.com/artist/4k3ooZfSTsaIT5DPGL2dhz"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156597,
+      "name": "Endgame",
+      "url": "https://open.spotify.com/track/6EyZTUkXVvaoT8ZkAEck4E"
+    },
+    {
+      "album": {
         "name": "Etude",
         "url": "https://open.spotify.com/album/6tgFS8XA8GXQswzyNHS6jf"
       },
@@ -3142,6 +3160,24 @@
       "duration_ms": 188239,
       "name": "Journey Home",
       "url": "https://open.spotify.com/track/1n8JIhb5wq50ZNvuas4ceq"
+    },
+    {
+      "album": {
+        "name": "Just Between Us",
+        "url": "https://open.spotify.com/album/7tYdxSv7POPsdMVWEONPJ5"
+      },
+      "artists": [
+        {
+          "name": "Mattias Blom",
+          "url": "https://open.spotify.com/artist/1BaxgJpBm81CBBpUhRnVO9"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126192,
+      "name": "Just Between Us",
+      "url": "https://open.spotify.com/track/40qwl5MmhYasmV2yJtqWAQ"
     },
     {
       "album": {
@@ -5964,7 +6000,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 123361,
       "name": "The second day of the year",
       "url": "https://open.spotify.com/track/4t0dPZpKTEwhrp86jFq0Oy"

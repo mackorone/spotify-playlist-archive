@@ -1,12 +1,12 @@
 {
   "description": "This is FLOW. The essential tracks, all in one playlist.",
-  "num_followers": 30209,
+  "num_followers": 30215,
   "original_name": "This Is FLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAACF2EGVGyH0rzYqsf9x0DY4",
+  "snapshot_id": "Z/HEAAAAAACsWy4JKykNuQFZvFnMo12E",
   "tracks": [
     {
       "added_at": null,
@@ -427,26 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLOW ANIME BEST \u6975",
-        "url": "https://open.spotify.com/album/44oxh50xgNjefTkN94ZXUG"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        },
-        {
-          "name": "Diana Garnet",
-          "url": "https://open.spotify.com/artist/3H7zTgVfGK3oXE0j33UatD"
-        }
-      ],
-      "duration_ms": 235813,
-      "name": "\u30d6\u30eb\u30fc\u30d0\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/5mdvXxeJTn71DzTtTyOfxQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LOVE & JUSTICE/\u8d85\u4eba",
         "url": "https://open.spotify.com/album/4ebTHusKua4S15NXgAVbFX"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 267173,
       "name": "LOVE & JUSTICE",
       "url": "https://open.spotify.com/track/5g8RurzBblZMTsM69wnyCv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FLOW ANIME BEST \u6975",
+        "url": "https://open.spotify.com/album/44oxh50xgNjefTkN94ZXUG"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
+        {
+          "name": "Diana Garnet",
+          "url": "https://open.spotify.com/artist/3H7zTgVfGK3oXE0j33UatD"
+        }
+      ],
+      "duration_ms": 235813,
+      "name": "\u30d6\u30eb\u30fc\u30d0\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/5mdvXxeJTn71DzTtTyOfxQ"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Golden Coast",
+        "url": "https://open.spotify.com/album/4uxBcrKApgTExBfq07yulB"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/4pwLHkVcHkLNPl8GjwEft1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u30e2\u30e1\u30f3\u30c8",
         "url": "https://open.spotify.com/album/4RTmbNBIQKliym9xSlGLlT"
       },
@@ -687,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden Coast",
-        "url": "https://open.spotify.com/album/4uxBcrKApgTExBfq07yulB"
+        "name": "\u30c7\u30a4\u30c9\u30ea\u30fc\u30e0 \u30d3\u30ea\u30fc\u30f4\u30a1\u30fc (Complete Edition)",
+        "url": "https://open.spotify.com/album/0lyTVQuqKMhQDoedVeaxEW"
       },
       "artists": [
         {
@@ -696,9 +712,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 213600,
-      "name": "Realize",
-      "url": "https://open.spotify.com/track/4pwLHkVcHkLNPl8GjwEft1"
+      "duration_ms": 239933,
+      "name": "O2",
+      "url": "https://open.spotify.com/track/3OMBXsuVWujn3bPQXZgHvh"
     },
     {
       "added_at": null,
@@ -723,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30c7\u30a4\u30c9\u30ea\u30fc\u30e0 \u30d3\u30ea\u30fc\u30f4\u30a1\u30fc (Complete Edition)",
-        "url": "https://open.spotify.com/album/0lyTVQuqKMhQDoedVeaxEW"
+        "name": "LOST",
+        "url": "https://open.spotify.com/album/5LAeTXhPrXuYtoufcplUDu"
       },
       "artists": [
         {
@@ -732,9 +748,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 239933,
-      "name": "O2",
-      "url": "https://open.spotify.com/track/3OMBXsuVWujn3bPQXZgHvh"
+      "duration_ms": 243134,
+      "name": "LOST",
+      "url": "https://open.spotify.com/track/6aVfbXl9xV7de7vaFxnYb6"
     },
     {
       "added_at": null,
@@ -751,22 +767,6 @@
       "duration_ms": 243640,
       "name": "\u30b7\u30eb\u30a8\u30c3\u30c8",
       "url": "https://open.spotify.com/track/0XMSzGi3pf0CcfYaw7nyGt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LOST",
-        "url": "https://open.spotify.com/album/5LAeTXhPrXuYtoufcplUDu"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 243134,
-      "name": "LOST",
-      "url": "https://open.spotify.com/track/6aVfbXl9xV7de7vaFxnYb6"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "United Sparrows",
-        "url": "https://open.spotify.com/album/6rv9sxkAuqiclA89jciJWj"
+        "name": "Alright!!!",
+        "url": "https://open.spotify.com/album/2LAtZAVqBu5mwWOXuvecxs"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 222693,
-      "name": "United Sparrows",
-      "url": "https://open.spotify.com/track/5wyos90sic0mFUD6SXHAVx"
+      "duration_ms": 219160,
+      "name": "Alright!!!",
+      "url": "https://open.spotify.com/track/3tPk1doXdKGzwHP3HsghPg"
     }
   ],
   "unique_name": "This Is FLOW",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 
 > Feiern mit den größten aktuellen und zeitlosen Partyhits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,000,421 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,000,360 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 | 80 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 |
 | 81 | [MONEY ON THE DASH \- SPED UP](https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [MONEY ON THE DASH](https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd) | 1:56 |
 | 82 | [Mockingbird](https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Mockingbird](https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg) | 2:34 |
-| 83 | [World Gone Wild \(feat\. Sam Martin\)](https://open.spotify.com/track/4arNFfHtD5FPYcpUUiUOM1) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK) | [World Gone Wild \(feat\. Sam Martin\)](https://open.spotify.com/album/1e1baOsSG422OeuXVWGNRt) | 2:26 |
-| 84 | [Like a Prayer](https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:42 |
+| 83 | [Like a Prayer](https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:42 |
+| 84 | [World Gone Wild \(feat\. Sam Martin\)](https://open.spotify.com/track/4arNFfHtD5FPYcpUUiUOM1) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK) | [World Gone Wild \(feat\. Sam Martin\)](https://open.spotify.com/album/1e1baOsSG422OeuXVWGNRt) | 2:26 |
 | 85 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 | 86 | [She Doesn't Mind](https://open.spotify.com/track/4odiyU3myG29Ld0wurMfE8) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Tomahawk Technique](https://open.spotify.com/album/25o3xNsjPJahI22xQENaPd) | 3:47 |
 | 87 | [Cynical](https://open.spotify.com/track/4fLnoXqsxHZFvGKppc7kCr) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Cynical](https://open.spotify.com/album/4vkCsDg2I4j0vo2lpBgiWa) | 3:11 |

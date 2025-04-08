@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Elizabeth Wong\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,967 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,965 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

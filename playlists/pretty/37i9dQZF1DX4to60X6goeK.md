@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Georgie Riot
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,371 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,390 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,13 +14,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 4 | [Get Outta Here](https://open.spotify.com/track/495Wq1TcHmzEfDOym4BqCr) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Basslayerz](https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew) | [Get Outta Here](https://open.spotify.com/album/21HJSnokIUBrff02ohoMGh) | 2:38 |
 | 5 | [Beamin’ \- K Motionz & skantia Remix](https://open.spotify.com/track/56qOWeHCiS8EbdYc39sjEr) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [skantia](https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Beamin’ \(K Motionz & skantia Remix\)](https://open.spotify.com/album/4gmV6lUCXyhnOcUglQ0qPQ) | 4:03 |
 | 6 | [Don't Stop](https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Don't Stop](https://open.spotify.com/album/0PPTQ6w442u34twxct76hc) | 2:56 |
-| 7 | [Nan Slapper](https://open.spotify.com/track/3119sJaLXEShGT5e8frnMj) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U) | [Nan Slapper](https://open.spotify.com/album/0w3qxx32q76Rmx5UK58bEH) | 4:23 |
+| 7 | [F\*ck Jump Up \(feat\. B Live\)](https://open.spotify.com/track/0XaKIs5sTAhmhUfwsqTKiB) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U) | [F\*ck Jump Up \(feat\. B Live\)](https://open.spotify.com/album/1MPpDGXMybp6qXjA41frqh) | 3:44 |
 | 8 | [2 Much](https://open.spotify.com/track/64qQti4HXS675mKEx4ZAz3) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [2 Much](https://open.spotify.com/album/7ur7fZjNses6mB1JBjs7Pc) | 2:56 |
 | 9 | [Home Run](https://open.spotify.com/track/3Viz3RJtlaQcML3N9FwM1K) | [T\-Lex](https://open.spotify.com/artist/3diWJAdGxsO9OT4cRe0khL) | [Home Run / The Inspector](https://open.spotify.com/album/4PB7CBFGjWQ6pLvRXVkB5e) | 3:44 |
 | 10 | [Drop It](https://open.spotify.com/track/4I9vO5QOgxfGCOo3iwyW6v) | [Georgie Riot](https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi) | [Drop It](https://open.spotify.com/album/4KHGh98gIT10KOj65f9jEC) | 4:09 |
 | 11 | [Rhythm & Gash VIP](https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [Rhythm & Gash VIP](https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg) | 2:44 |
 | 12 | [Listen](https://open.spotify.com/track/05D17BU7wl5D6LdAYiKZvn) | [Tesen](https://open.spotify.com/artist/0Z1k9vyIR05I1clIoH1wKP) | [Listen](https://open.spotify.com/album/5AqD3DHCwtloPO0oInSadE) | 4:25 |
-| 13 | [F\*ck Jump Up \(feat\. B Live\)](https://open.spotify.com/track/0XaKIs5sTAhmhUfwsqTKiB) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U) | [F\*ck Jump Up \(feat\. B Live\)](https://open.spotify.com/album/1MPpDGXMybp6qXjA41frqh) | 3:44 |
+| 13 | [Nan Slapper](https://open.spotify.com/track/3119sJaLXEShGT5e8frnMj) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U) | [Nan Slapper](https://open.spotify.com/album/0w3qxx32q76Rmx5UK58bEH) | 4:23 |
 | 14 | [Light Up](https://open.spotify.com/track/76nEx8wI5dCH3RKM2v0c2y) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Original Sin](https://open.spotify.com/artist/3D71zH4KfjyILeWehJheDV) | [Light Up](https://open.spotify.com/album/6CpfHRVUlOcrskTcK6lh7V) | 3:20 |
 | 15 | [Take Off](https://open.spotify.com/track/79qQRlz62gtNL7pkOhKupN) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Take Off](https://open.spotify.com/album/2u8bTNOKdeLjBAmIQkRkpB) | 2:40 |
 | 16 | [Alarm \(feat\. MC ID\)](https://open.spotify.com/track/4lI38Kj91ahnFG48FwVSrS) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [MC ID](https://open.spotify.com/artist/71p78rJ0sEwTMlNjqln74R) | [Evolve](https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y) | 3:07 |

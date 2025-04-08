@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Kleber Lucas
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,186 likes - 80 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,218 likes - 80 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 25 | [Medley: Dom Supremo](https://open.spotify.com/track/2niQsGMsrqw5sYWRaqAKPO) | [Luciano Claw](https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu) | [Por Amor a Ti](https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx) | 2:43 |
 | 26 | [O Que Há Por Dentro](https://open.spotify.com/track/7rJEuCj9iX6BYnhfI2eJWi) | [Rafa Blauth](https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU) | [Sobre Deixar](https://open.spotify.com/album/3WPXMHvq0OIQBABBukqimt) | 3:40 |
 | 27 | [Santo, Santo, Santo \- Ao Vivo](https://open.spotify.com/track/07mrWfYD6KW61BQMa7Niav) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Memóri4s Groove \(Ao Vivo\)](https://open.spotify.com/album/6GAd3DjcN9LYhev1IRCbQ9) | 4:37 |
-| 28 | [Pela Fé \- Ao Vivo](https://open.spotify.com/track/5WY6sqvKb3MnrrhrHDR5VQ) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Pela Fé \(Ao Vivo\)](https://open.spotify.com/album/09V3bEnCxW34i5XkCRl4o4) | 4:12 |
-| 29 | [Sossegai \- Ao Vivo](https://open.spotify.com/track/6iZdTEd3zJ8UpO6hFQMvTG) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leandro Rodrigues](https://open.spotify.com/artist/3sPrLEud945nswy3EMr7YK), [PVAP](https://open.spotify.com/artist/7L6zOJDqVGy8lf7nesvo1a) | [Piano e Voz, Amigos e Pertences 3a \(Ao Vivo\)](https://open.spotify.com/album/1SVQIMyfmdpVeSiaT1w2OF) | 5:32 |
+| 28 | [Sossegai \- Ao Vivo](https://open.spotify.com/track/6iZdTEd3zJ8UpO6hFQMvTG) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leandro Rodrigues](https://open.spotify.com/artist/3sPrLEud945nswy3EMr7YK), [PVAP](https://open.spotify.com/artist/7L6zOJDqVGy8lf7nesvo1a) | [Piano e Voz, Amigos e Pertences 3a \(Ao Vivo\)](https://open.spotify.com/album/1SVQIMyfmdpVeSiaT1w2OF) | 5:32 |
+| 29 | [Pela Fé \- Ao Vivo](https://open.spotify.com/track/5WY6sqvKb3MnrrhrHDR5VQ) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Pela Fé \(Ao Vivo\)](https://open.spotify.com/album/09V3bEnCxW34i5XkCRl4o4) | 4:12 |
 | 30 | [Zanzando](https://open.spotify.com/track/48hX8UdgWHuTcvamPbYDqr) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Luz \- Parte 1](https://open.spotify.com/album/1gobDPGHKYfG2yFf3jlCRX) | 3:41 |
 | 31 | [Jesus Cristo Mudou Meu Viver \(What a Difference You've Made in My Life\)](https://open.spotify.com/track/1PwbhJqb9IucLGt7NXF4oo) | [Pablo Simplicio](https://open.spotify.com/artist/6ftRI57Dy5WBwjZb8bk4f5) | [Jesus Cristo Mudou Meu Viver \(What a Difference You've Made in My Life\)](https://open.spotify.com/album/0q1ZWtWIRqQyZfr9RX1Ws4) | 2:49 |
 | 32 | [Brighter Day \- Kirk's Mix](https://open.spotify.com/track/1LM3tWoGx2tRMDKMnEwBjC) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [A Season Of Remixes](https://open.spotify.com/album/7jI7E2aLZZucXkAQQlJMEV) | 4:11 |

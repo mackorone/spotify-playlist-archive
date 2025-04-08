@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,756 likes - 161 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,757 likes - 161 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,10 +151,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 | 141 | [set me free](https://open.spotify.com/track/2C3oAqU1XpVO2a7MssURkk) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [set me free](https://open.spotify.com/album/004HrUsnT6v50zlNn2g153) | 3:38 |
 | 142 | [Where Did You Go](https://open.spotify.com/track/69UhNEZfdWZ2e1nmIaJtUa) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Where Did You Go](https://open.spotify.com/album/5DYxA2kmNLhwiGauOOFtPK) | 3:44 |
 | 143 | [Love Again](https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W) | [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ) | [Love Again](https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs) | 3:50 |
-| 144 | [Bleu \(better with time\)](https://open.spotify.com/track/42RIuav2MTQs3TEelnQDa3) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Bleu \(better with time\)](https://open.spotify.com/album/15vlMi5OpGkF6JSxwUTYjF) | 3:16 |
-| 145 | [Starbright](https://open.spotify.com/track/5LuQvkBG365ue36BMujtSz) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Between Broken](https://open.spotify.com/album/4zUW6lwQf3wHRdYawFEEWQ) | 4:03 |
-| 146 | [Another Time](https://open.spotify.com/track/2W9zh4QNFmuOyKHbtYYNm0) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Another Time](https://open.spotify.com/album/6puL9vl482M9AKa3fm7v3B) | 4:15 |
-| 147 | [We Know Who We Are](https://open.spotify.com/track/40KNxBXDuACwNkRjPIR34r) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Olivver the Kid](https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7) | [We Know Who We Are](https://open.spotify.com/album/5L3XtVZvY6vRiWKIxkZkTz) | 4:07 |
+| 144 | [Another Time](https://open.spotify.com/track/2W9zh4QNFmuOyKHbtYYNm0) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Another Time](https://open.spotify.com/album/6puL9vl482M9AKa3fm7v3B) | 4:15 |
+| 145 | [We Know Who We Are](https://open.spotify.com/track/40KNxBXDuACwNkRjPIR34r) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Olivver the Kid](https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7) | [We Know Who We Are](https://open.spotify.com/album/5L3XtVZvY6vRiWKIxkZkTz) | 4:07 |
+| 146 | [Bleu \(better with time\)](https://open.spotify.com/track/42RIuav2MTQs3TEelnQDa3) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Bleu \(better with time\)](https://open.spotify.com/album/15vlMi5OpGkF6JSxwUTYjF) | 3:16 |
+| 147 | [Starbright](https://open.spotify.com/track/5LuQvkBG365ue36BMujtSz) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Between Broken](https://open.spotify.com/album/4zUW6lwQf3wHRdYawFEEWQ) | 4:03 |
 | 148 | [Waiting For You](https://open.spotify.com/track/67cSFn3SLBoKqGW20bswdw) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Waiting For You](https://open.spotify.com/album/6nNwHKu6VPH8XNSoLXOyGg) | 3:45 |
 | 149 | [FOREVER](https://open.spotify.com/track/1Oi354OePPmpvCsfZayQrC) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [FOREVER \(feat\. BROODS\)](https://open.spotify.com/album/2OYPLFa8fn8oR4KoaasV69) | 3:48 |
 | 150 | [I Don't Wanna Know](https://open.spotify.com/track/33VTOL8M86sq1qJOL6rNIm) | [Silience](https://open.spotify.com/artist/7yk8lN0B2B5wBdb4DJfQLI) | [I Don't Wanna Know](https://open.spotify.com/album/3mfq4FoNGi29lLyMxhXARc) | 3:00 |

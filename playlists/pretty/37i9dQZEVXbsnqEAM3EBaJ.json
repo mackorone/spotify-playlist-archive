@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACz1ifxmnMsBomuIsVIyudH",
+  "snapshot_id": "AAAAAAAAAACVG9qw4KPWJUeForq1nMPT",
   "tracks": [
     {
       "added_at": "2025-04-04 04:00:00",
@@ -59,22 +59,18 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
-        "name": "Ni Un Segundo M\u00e1s",
-        "url": "https://open.spotify.com/album/6bN09QGl9EMUQZjZJhH787"
+        "name": "Rain in the River",
+        "url": "https://open.spotify.com/album/3DInaCkwipZmTpN7TviZ7P"
       },
       "artists": [
         {
-          "name": "Camiseta 22",
-          "url": "https://open.spotify.com/artist/32lMy5o72ghZijsNvPOeUf"
-        },
-        {
-          "name": "Los Miserables",
-          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 184219,
-      "name": "Ni Un Segundo M\u00e1s",
-      "url": "https://open.spotify.com/track/4UnXfxtpUp5TRgYiWLBB2W"
+      "duration_ms": 192226,
+      "name": "Rain in the River",
+      "url": "https://open.spotify.com/track/5pbmSyK67ASTZExAX3TrDP"
     },
     {
       "added_at": "2025-04-04 04:00:00",
@@ -95,18 +91,22 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
-        "name": "Rain in the River",
-        "url": "https://open.spotify.com/album/3DInaCkwipZmTpN7TviZ7P"
+        "name": "Ni Un Segundo M\u00e1s",
+        "url": "https://open.spotify.com/album/6bN09QGl9EMUQZjZJhH787"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Camiseta 22",
+          "url": "https://open.spotify.com/artist/32lMy5o72ghZijsNvPOeUf"
+        },
+        {
+          "name": "Los Miserables",
+          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
         }
       ],
-      "duration_ms": 192226,
-      "name": "Rain in the River",
-      "url": "https://open.spotify.com/track/5pbmSyK67ASTZExAX3TrDP"
+      "duration_ms": 184219,
+      "name": "Ni Un Segundo M\u00e1s",
+      "url": "https://open.spotify.com/track/4UnXfxtpUp5TRgYiWLBB2W"
     },
     {
       "added_at": "2025-04-04 04:00:00",
@@ -167,6 +167,26 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 144664,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY"
+    },
+    {
+      "added_at": "2025-04-04 04:00:00",
+      "album": {
         "name": "PISANDO FUERTE",
         "url": "https://open.spotify.com/album/7Dty2jjx3zMCikYGcVdIf5"
       },
@@ -211,26 +231,6 @@
       "duration_ms": 91192,
       "name": "Tchaikovsky: The Seasons, October - Autumn Song - Excerpt",
       "url": "https://open.spotify.com/track/1mbCDpmmz3ZQF0nmcsslSo"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 144664,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY"
     },
     {
       "added_at": "2025-04-04 04:00:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
-        "name": "Otra Noche de Llorar",
-        "url": "https://open.spotify.com/album/2kSB4gQHyJmEfC8jDrwbeX"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 219949,
-      "name": "Otra Noche de Llorar",
-      "url": "https://open.spotify.com/track/5F8pOPLxQBJK6am1pNcN79"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
         "name": "The Squirrely Years Revisited",
         "url": "https://open.spotify.com/album/6Wkf21TuFg0tEVFkCyMQp7"
       },
@@ -355,6 +339,22 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
+        "name": "Otra Noche de Llorar",
+        "url": "https://open.spotify.com/album/2kSB4gQHyJmEfC8jDrwbeX"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 219949,
+      "name": "Otra Noche de Llorar",
+      "url": "https://open.spotify.com/track/5F8pOPLxQBJK6am1pNcN79"
+    },
+    {
+      "added_at": "2025-04-04 04:00:00",
+      "album": {
         "name": "Blood Dynasty",
         "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
       },
@@ -367,22 +367,6 @@
       "duration_ms": 225840,
       "name": "A Million Suns",
       "url": "https://open.spotify.com/track/0RXtkfxtmUFb7kcDTXQfYk"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "Creatures of Chaos",
-        "url": "https://open.spotify.com/album/417069DxvdXoov1vxICCNs"
-      },
-      "artists": [
-        {
-          "name": "The Rasmus",
-          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
-        }
-      ],
-      "duration_ms": 200483,
-      "name": "Creatures of Chaos",
-      "url": "https://open.spotify.com/track/4r3jUruTmJT5N4I99wHnFU"
     },
     {
       "added_at": "2025-04-04 04:00:00",
@@ -407,50 +391,34 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
-        "name": "Even If It Kills Me (Reimagined)",
-        "url": "https://open.spotify.com/album/5vr5sIFJuqCzyybwpQQamc"
+        "name": "Creatures of Chaos",
+        "url": "https://open.spotify.com/album/417069DxvdXoov1vxICCNs"
       },
       "artists": [
         {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "The Rasmus",
+          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
         }
       ],
-      "duration_ms": 174755,
-      "name": "Even If It Kills Me (Reimagined)",
-      "url": "https://open.spotify.com/track/29Nr1P9e3ukDqs9MuiqEhD"
+      "duration_ms": 200483,
+      "name": "Creatures of Chaos",
+      "url": "https://open.spotify.com/track/4r3jUruTmJT5N4I99wHnFU"
     },
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
-        "name": "Big Ole Album Vol. 1",
-        "url": "https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/37mPOJFmLSgqIE90CdAsT6"
       },
       "artists": [
         {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 181806,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/2wdqcce0DKklq4aSD8zADU"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "Un Caf\u00e9 para Plat\u00f3n",
-        "url": "https://open.spotify.com/album/5j78xA9mNtOC6vhaLnqq7K"
-      },
-      "artists": [
-        {
-          "name": "Javiera Parra",
-          "url": "https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8"
-        }
-      ],
-      "duration_ms": 242948,
-      "name": "Un Caf\u00e9 para Plat\u00f3n",
-      "url": "https://open.spotify.com/track/2ssIy0nSLyeF8zfpTDCqyE"
+      "duration_ms": 200440,
+      "name": "Sleep Now In The Fire - Spotify Singles",
+      "url": "https://open.spotify.com/track/5mMjqL7JI1BQQWBVFevFsN"
     },
     {
       "added_at": "2025-04-04 04:00:00",
@@ -479,6 +447,54 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
+        "name": "Un Caf\u00e9 para Plat\u00f3n",
+        "url": "https://open.spotify.com/album/5j78xA9mNtOC6vhaLnqq7K"
+      },
+      "artists": [
+        {
+          "name": "Javiera Parra",
+          "url": "https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8"
+        }
+      ],
+      "duration_ms": 242948,
+      "name": "Un Caf\u00e9 para Plat\u00f3n",
+      "url": "https://open.spotify.com/track/2ssIy0nSLyeF8zfpTDCqyE"
+    },
+    {
+      "added_at": "2025-04-04 04:00:00",
+      "album": {
+        "name": "Big Ole Album Vol. 1",
+        "url": "https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 181806,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/2wdqcce0DKklq4aSD8zADU"
+    },
+    {
+      "added_at": "2025-04-04 04:00:00",
+      "album": {
+        "name": "Even If It Kills Me (Reimagined)",
+        "url": "https://open.spotify.com/album/5vr5sIFJuqCzyybwpQQamc"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 174755,
+      "name": "Even If It Kills Me (Reimagined)",
+      "url": "https://open.spotify.com/track/29Nr1P9e3ukDqs9MuiqEhD"
+    },
+    {
+      "added_at": "2025-04-04 04:00:00",
+      "album": {
         "name": "Shapeshifter",
         "url": "https://open.spotify.com/album/7c4xJPkWyEyLFhscmPbhl7"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 220660,
       "name": "Love Is War",
       "url": "https://open.spotify.com/track/2iKYgFZXyC5GBxCbg2HCD7"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/37mPOJFmLSgqIE90CdAsT6"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "Sleep Now In The Fire - Spotify Singles",
-      "url": "https://open.spotify.com/track/5mMjqL7JI1BQQWBVFevFsN"
     },
     {
       "added_at": "2025-04-04 04:00:00",
@@ -531,6 +531,42 @@
       "duration_ms": 198035,
       "name": "T/R/A/P/P/E/D",
       "url": "https://open.spotify.com/track/27z4fMs35bbdH3xDf3G2BN"
+    },
+    {
+      "added_at": "2025-04-04 04:00:00",
+      "album": {
+        "name": "My Way (The Best Of Frank Sinatra)",
+        "url": "https://open.spotify.com/album/3xpGJeKAVe79XWMwf1x6TV"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 149199,
+      "name": "Fly Me to the Moon",
+      "url": "https://open.spotify.com/track/1orbpXnRLZOLTWADeOkBz1"
+    },
+    {
+      "added_at": "2025-04-04 04:00:00",
+      "album": {
+        "name": "Oculus Maximus",
+        "url": "https://open.spotify.com/album/6AM8F6nueCKT8QXNADxSHq"
+      },
+      "artists": [
+        {
+          "name": "ScarLid Vibez",
+          "url": "https://open.spotify.com/artist/5kNDp8ViqFRVvMDbHrhfzq"
+        },
+        {
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+        }
+      ],
+      "duration_ms": 71157,
+      "name": "Xeroxs",
+      "url": "https://open.spotify.com/track/1y8uRz1qLUAZcuiWFmezFW"
     },
     {
       "added_at": "2025-04-04 04:00:00",
@@ -615,26 +651,6 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
-        "name": "Oculus Maximus",
-        "url": "https://open.spotify.com/album/6AM8F6nueCKT8QXNADxSHq"
-      },
-      "artists": [
-        {
-          "name": "ScarLid Vibez",
-          "url": "https://open.spotify.com/artist/5kNDp8ViqFRVvMDbHrhfzq"
-        },
-        {
-          "name": "Dark Tranquillity",
-          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
-        }
-      ],
-      "duration_ms": 71157,
-      "name": "Xeroxs",
-      "url": "https://open.spotify.com/track/1y8uRz1qLUAZcuiWFmezFW"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
         "name": "Pink + White",
         "url": "https://open.spotify.com/album/3FumX8Rc1bIO57p41mmf0i"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 176333,
       "name": "Pink + White",
       "url": "https://open.spotify.com/track/6QkbqPBoXQCEkXdeAqYa7Y"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "My Way (The Best Of Frank Sinatra)",
-        "url": "https://open.spotify.com/album/3xpGJeKAVe79XWMwf1x6TV"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 149199,
-      "name": "Fly Me to the Moon",
-      "url": "https://open.spotify.com/track/1orbpXnRLZOLTWADeOkBz1"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

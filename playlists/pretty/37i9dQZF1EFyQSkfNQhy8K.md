@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,616 likes - 186 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,613 likes - 186 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 47 | [Como Yo :\(](https://open.spotify.com/track/7FH64DotxbhbnAzhN3ztje) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Sugar Papi](https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH) | 2:21 |
 | 48 | [Feeling](https://open.spotify.com/track/41MTEQrdiERPZfddek3iSQ) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Unisex](https://open.spotify.com/album/1jBQp6pMhXit5aTC494d9z) | 3:09 |
 | 49 | [Imposible Amor](https://open.spotify.com/track/5oHLjXFztNrS1A1HQ0XFvZ) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [NATTIVIDAD](https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM) | 2:53 |
-| 50 | [QueLoQue \(feat\. Paloma Mami\)](https://open.spotify.com/track/7em97lNMDo7LbIZ4Ys5TqV) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Music Is The Weapon](https://open.spotify.com/album/5sfr7pnsTBW9wcQPbxuitJ) | 2:45 |
-| 51 | [Dámelo To’ \(feat\. Myke Towers\)](https://open.spotify.com/track/36CiGk9oRdwTnBDMgKEfjl) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:04 |
-| 52 | [Ley universal](https://open.spotify.com/track/3LajiduYalkeMeYbYJQP0s) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 3:09 |
+| 50 | [Ley universal](https://open.spotify.com/track/3LajiduYalkeMeYbYJQP0s) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 3:09 |
+| 51 | [QueLoQue \(feat\. Paloma Mami\)](https://open.spotify.com/track/7em97lNMDo7LbIZ4Ys5TqV) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Music Is The Weapon](https://open.spotify.com/album/5sfr7pnsTBW9wcQPbxuitJ) | 2:45 |
+| 52 | [Dámelo To’ \(feat\. Myke Towers\)](https://open.spotify.com/track/36CiGk9oRdwTnBDMgKEfjl) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:04 |
 | 53 | [Rotate](https://open.spotify.com/track/6wwT3PgG3eFuKCpxzjMJFs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Rotate](https://open.spotify.com/album/5FlP8dwJCTGLFk38tHDEiX) | 3:21 |
 | 54 | [The one \(Pero no como yo\)](https://open.spotify.com/track/03J82tGipvxwFZ14smkuVj) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 2:56 |
 | 55 | [Istanbul](https://open.spotify.com/track/3gU9FbBKkLB23WvmSXpca2) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:28 |
@@ -172,8 +172,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 162 | [Exclusivos](https://open.spotify.com/track/0mgWP7XJ4yxwZzUmRX0HGW) | [Periko & Jessi Leon](https://open.spotify.com/artist/31d96XTKL3soxtdxzUVEP6) | [Exclusivos](https://open.spotify.com/album/3H10cEHm6jQyozDBn3NiAe) | 2:50 |
 | 163 | [La Partiste Con Tu Regalo](https://open.spotify.com/track/0RWEHFVi52OBbZmfGx1ANm) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [La Partiste Con Tu Regalo](https://open.spotify.com/album/4pzaKXE25bruaPwda3BM11) | 3:36 |
 | 164 | [Chimbita](https://open.spotify.com/track/1YNEfc1XUXKoR12dsHL1OI) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Chimbita](https://open.spotify.com/album/43eryQivpY07mW42LUkJu1) | 2:10 |
-| 165 | [De Donde Vengo](https://open.spotify.com/track/1zxO2zDpTbOkzxNkxxk5S2) | [Mila](https://open.spotify.com/artist/3w1KTqetFroZp8sL55Mmrp) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:34 |
-| 166 | [Vogue](https://open.spotify.com/track/7vYp30GiDVh3QQPdNsBWRo) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Vogue](https://open.spotify.com/album/0rRzrUT0vUVG9V7qyLpxPy) | 3:02 |
+| 165 | [Vogue](https://open.spotify.com/track/7vYp30GiDVh3QQPdNsBWRo) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Vogue](https://open.spotify.com/album/0rRzrUT0vUVG9V7qyLpxPy) | 3:02 |
+| 166 | [De Donde Vengo](https://open.spotify.com/track/1zxO2zDpTbOkzxNkxxk5S2) | [Mila](https://open.spotify.com/artist/3w1KTqetFroZp8sL55Mmrp) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:34 |
 | 167 | [Para Ti No](https://open.spotify.com/track/0HWBXSJ2HAdINCZS7pDTzV) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Para Ti No](https://open.spotify.com/album/3KlCYfjv2GuUmqMUmLTWNO) | 3:19 |
 | 168 | [Santa Para Que Porfa](https://open.spotify.com/track/52qnXpspvSfn6VK96iADHG) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Santa Para Que Porfa](https://open.spotify.com/album/6y60Q4HPD3K9V0anQN0y2P) | 2:56 |
 | 169 | [Anillo](https://open.spotify.com/track/3BOvThJyP2y1rS5IYxYToZ) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Anillo](https://open.spotify.com/album/055pQ4oHabSbcFkoXSzfpg) | 2:40 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 185 | [Neruda](https://open.spotify.com/track/1OMonvPrtr2Y50MJje52A0) | [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Dimelo, Mike](https://open.spotify.com/album/6hINc8GXHTJDpe5jtRslvY) | 2:29 |
 | 186 | [Tango](https://open.spotify.com/track/1KSWO08GFqAzmfUSfKfwNl) | [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [Alaya](https://open.spotify.com/album/4nXbn9OTGwVGOBumFSF7Ul) | 3:25 |
 
-Snapshot ID: `AbuFSgAAAABxUYOQZUyC2YQOEJVRykzM`
+Snapshot ID: `AbuK6gAAAABgF/DfJ9jqMJUy8Jnoz9pM`

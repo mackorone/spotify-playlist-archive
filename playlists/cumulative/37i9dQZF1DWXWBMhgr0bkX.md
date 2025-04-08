@@ -4,7 +4,7 @@
 
 > Brand new music from homegrown talent ft\. Nina Cobham
 
-337 songs - 17 hr 10 min
+338 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [charm bracelet](https://open.spotify.com/track/1VnJctj1fsfZFXeFkk4dVz) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [charm bracelet](https://open.spotify.com/album/7hIWydGtQ3uPp1Olv0m0yc) | 2:12 | 2025-03-07 | 2025-04-04 |
 | [Cheap Talk](https://open.spotify.com/track/5UJje9nqxGDm1Pvb556quL) | [Baobei](https://open.spotify.com/artist/2Pj6Ot77F8iLP6H0QkXt1h) | [Sync / Cheap Talk](https://open.spotify.com/album/41tdBk5LOnrM2FhNKNiQ8b) | 2:25 | 2025-03-21 |  |
 | [Check](https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Check](https://open.spotify.com/album/3uhK5DdHbrr30wPwEIRTTW) | 2:45 | 2024-08-08 | 2024-11-09 |
+| [Church in the Morning](https://open.spotify.com/track/3xSRAS1Phe2NuC6xq7IS9V) | [Jack Dean](https://open.spotify.com/artist/4Qqd73y2C4EJsGkM1HfElZ) | [Church in the Morning](https://open.spotify.com/album/3JGjyCYhWBO9aVnUBdrDUE) | 2:38 | 2025-04-07 |  |
 | [clover](https://open.spotify.com/track/2xUMt6RPghz7Bn26LDAuCX) | [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [clover](https://open.spotify.com/album/3MRQgU4tdcLOuXtFaomOSS) | 3:03 | 2025-03-14 |  |
 | [come to the party](https://open.spotify.com/track/2oKL87EkBCiTowV1ZCgZIh) | [ISABELLA](https://open.spotify.com/artist/5A4DUMbVKNqflzW5Dpa43Q), [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [come to the party](https://open.spotify.com/album/5RgWoL5eiTQPFfj7wf9Zer) | 2:14 | 2025-03-21 |  |
 | [contentwithitall](https://open.spotify.com/track/2V2IUljrG4PjUK23csDUHK) | [Ben Stafford](https://open.spotify.com/artist/3pWZ3BMPDAaoNd1DciVMyd) | [HAPPIER TODAY](https://open.spotify.com/album/5lEMi2N6zNt3fuisYicI0J) | 3:18 | 2025-03-21 |  |
@@ -292,7 +293,7 @@
 | [Shangri\-La](https://open.spotify.com/track/1nXXqWvZUYXUyM9HCrXt1V) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Shangri\-La](https://open.spotify.com/album/2mLuqaQ5K6L67MvxukHCTd) | 3:22 | 2025-03-28 |  |
 | [She Knows I'm Nice](https://open.spotify.com/track/20XDCUqj008V72g1BpJJ8U) | [Finn Mungo](https://open.spotify.com/artist/2iusqS4txEVVJupH4r7tS9) | [She Knows I'm Nice](https://open.spotify.com/album/5a1tT8UMhikG7Ehs0RFlNQ) | 3:53 | 2025-03-28 |  |
 | [Short Enough](https://open.spotify.com/track/7beWZqeIrKivVpZeD18nQQ) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Short Enough](https://open.spotify.com/album/3Atq0e1cvNKTrIqDopE1Rj) | 3:01 | 2025-03-07 | 2025-04-04 |
-| [Shy](https://open.spotify.com/track/1BB9jFJzGGl3VdRJ0TGY7M) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [Shy](https://open.spotify.com/album/26TG9YhjDwqY4mr7cFTaq9) | 2:50 | 2025-03-14 |  |
+| [Shy](https://open.spotify.com/track/1BB9jFJzGGl3VdRJ0TGY7M) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [Shy](https://open.spotify.com/album/26TG9YhjDwqY4mr7cFTaq9) | 2:50 | 2025-03-14 | 2025-04-08 |
 | [Silver Spoon](https://open.spotify.com/track/6hO8bfYNOb97gzVDgcYVND) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [Silver Spoon](https://open.spotify.com/album/3ziaoXrlwiwwJXwRtoeyPJ) | 4:14 | 2025-02-07 | 2025-03-14 |
 | [Snug as a Bug](https://open.spotify.com/track/3xSw2RvLeI4nh9NGDIUIUh) | [Bug Eyed](https://open.spotify.com/artist/3TXIv7fmIXavggO3n0AUtL) | [Snug as a Bug](https://open.spotify.com/album/4O6J7Ii7c31DrnOzg4tHHn) | 2:59 | 2025-01-31 | 2025-02-28 |
 | [Somebody To Love](https://open.spotify.com/track/5jGUkT2SlERLGacoy85kU1) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Poppy](https://open.spotify.com/album/2TtI8fMyIhPwTtGc1xlLnv) | 3:13 | 2024-11-22 | 2025-02-07 |

@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-555 songs - 23 hr 29 min
+556 songs - 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,7 +388,7 @@
 | [Punta del Este](https://open.spotify.com/track/2H4s5RiBoxyqMucFsbiheq) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Punta del Este](https://open.spotify.com/album/0I4tflykLajbFVzzALnSgp) | 2:51 | 2024-09-25 | 2025-01-14 |
 | [Pure As You](https://open.spotify.com/track/3bPbiu9rSQou2Iqx5dT5z8) | [Blanche Genet](https://open.spotify.com/artist/2HKdCLXiYvnSQyujGm9Nkk) | [Pure As You](https://open.spotify.com/album/2om6nDeDbESNIsKmMNOIp6) | 2:17 | 2023-04-28 | 2023-06-23 |
 | [Put Some Coins In My Guitar Case](https://open.spotify.com/track/1VKSVewoEeEZSWGMmIHqJp) | [Charlie Miller](https://open.spotify.com/artist/4gedU51ks1jf6BRwzCWosG) | [Put Some Coins In My Guitar Case](https://open.spotify.com/album/7fmKjvUk9dVpPdaYgSu3TV) | 3:33 | 2022-10-28 | 2023-08-25 |
-| [Quality time](https://open.spotify.com/track/6bQX3qvIjRXcOgG6uNBsKX) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Quality time](https://open.spotify.com/album/4vCwxMUz9PNyzGd1NqGtm4) | 2:44 | 2024-04-19 |  |
+| [Quality time](https://open.spotify.com/track/6bQX3qvIjRXcOgG6uNBsKX) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Quality time](https://open.spotify.com/album/4vCwxMUz9PNyzGd1NqGtm4) | 2:44 | 2024-04-19 | 2025-04-08 |
 | [Quietude](https://open.spotify.com/track/0z4GTxxdYujL32uYYLjWoT) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Quietude](https://open.spotify.com/album/1IfBfNQBcRUKm52sspE319) | 2:40 | 2024-03-08 |  |
 | [Quiver and Wince](https://open.spotify.com/track/06lkOWre18zq2lSEX23pzb) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Quiver and Wince](https://open.spotify.com/album/6w3OZdViK1m8vmZSGZNGAH) | 2:19 | 2023-02-24 | 2023-06-23 |
 | [Raconteur](https://open.spotify.com/track/06qPEPcQwF1tZWWxRvDVPI) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [Raconteur](https://open.spotify.com/album/3XWGX9Y84mIXoSYAUXRN0u) | 2:17 | 2022-06-17 | 2025-03-12 |
@@ -446,6 +446,7 @@
 | [Slowmood](https://open.spotify.com/track/2uBdx5OBEQmRIBcM7FSnSB) | [Mike Duff](https://open.spotify.com/artist/3CCA4rgJaywSdKgYyuBzQy) | [Slowmood](https://open.spotify.com/album/5E4adlY3rgcjvPrA3jqE0L) | 2:15 | 2023-02-24 | 2023-06-23 |
 | [Smiled Upon](https://open.spotify.com/track/3LkFqXeJ7HFsQBBDgZ3ay1) | [Matthew Kaff](https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk) | [Smiled Upon](https://open.spotify.com/album/2ScFSQPRG8cYlX90aTbbpt) | 2:13 | 2024-11-06 |  |
 | [Sol](https://open.spotify.com/track/7iySYm4OYpamlQbv1CcoXj) | [Maitre](https://open.spotify.com/artist/4lz66um9dJ0YB7ugJHeoZe) | [Sol](https://open.spotify.com/album/16QpKi6zRqxJxKVGjf3gOH) | 2:05 | 2023-09-08 |  |
+| [Solis](https://open.spotify.com/track/1szHxvHkt6Q5AOmhy3waph) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Solis](https://open.spotify.com/album/7nIUMBa5guEzQ3YqZiwG6Q) | 2:14 | 2025-04-07 |  |
 | [Solitaire](https://open.spotify.com/track/78z9A93mkKiW9QyhWazsli) | [Anayah Burke](https://open.spotify.com/artist/56snJZ1Nb0tP4197xTHV68) | [Solitaire](https://open.spotify.com/album/4pgQkUGJx1hijH9zqfun2f) | 3:01 | 2022-06-17 | 2024-05-10 |
 | [Solitude](https://open.spotify.com/track/7j0CIdk9sYC3PAjpYXTSq5) | [Casper Hatlestad](https://open.spotify.com/artist/7D7NbqWGN2AYy4zLHxcvLU) | [Solitude](https://open.spotify.com/album/7KEgObSmwqkN9ByjXvAVhL) | 2:24 | 2024-05-10 |  |
 | [Sommersby](https://open.spotify.com/track/01n9zpPrEWCKsH6o27WwWR) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Sommersby](https://open.spotify.com/album/5q7aaYPfvt8uOpaLJudHjH) | 1:48 | 2023-04-28 | 2023-06-23 |

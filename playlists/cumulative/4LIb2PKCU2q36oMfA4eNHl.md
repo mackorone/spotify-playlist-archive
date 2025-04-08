@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-285 songs - 18 hr 18 min
+286 songs - 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Silence](https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Silence](https://open.spotify.com/album/7izgzmJXgDFAHiLDBxqkBF) | 4:05 | 2025-01-13 | 2025-01-18 |
 | [Silence Never Heard](https://open.spotify.com/track/6gXVYQPiANfArzaJcV4Gu4) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Stick By This](https://open.spotify.com/album/5C4sHl92Z43ipKMgZ5jlcm) | 2:51 | 2025-01-17 |  |
 | [Silhouette](https://open.spotify.com/track/4yXRghXZcf9GMsxoErXEHb) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 3:35 | 2023-12-08 | 2024-02-17 |
+| [Sine Waves](https://open.spotify.com/track/3iLbERuL98HVj4utkn7U04) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1), [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Mono No Aware](https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx) | 4:38 | 2025-04-07 |  |
 | [Sit Around The Fire](https://open.spotify.com/track/7Bl1GdYbcJ0QSffErVWOnv) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Ram Dass](https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Music For Psychedelic Therapy](https://open.spotify.com/album/2zY5p176SfmupXceLKT6bH) | 8:22 | 2025-01-13 |  |
 | [Sleep Is Sacrament](https://open.spotify.com/track/6wdiugsx4HdCiNvEQXh41Y) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Sleep Is Sacrament](https://open.spotify.com/album/7ySRbBRPt31mah1cwD29g0) | 3:52 | 2024-08-16 | 2025-03-15 |
 | [Slow Mo](https://open.spotify.com/track/5rTbzUPDurLGxzWWrqbhhU) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Anjunadeep pres\. Reflections Vol\. 1](https://open.spotify.com/album/1RXVre6fieggWFyN7dKg6j) | 3:27 | 2025-01-13 |  |

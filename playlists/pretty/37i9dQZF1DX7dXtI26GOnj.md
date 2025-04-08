@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 
 > Todo o calor latino está aqui! 🔥  foto: Anitta
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,694 likes - 90 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,720 likes - 90 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 | 11 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 |
 | 12 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 |
 | 13 | [bunda 🍑](https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [bunda 🍑](https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ) | 3:43 |
-| 14 | [SE ME OLVIDA](https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SE ME OLVIDA](https://open.spotify.com/album/00ESTj1vBUkIbaTHaXaXu3) | 3:45 |
-| 15 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 |
+| 14 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 |
+| 15 | [SE ME OLVIDA](https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SE ME OLVIDA](https://open.spotify.com/album/00ESTj1vBUkIbaTHaXaXu3) | 3:45 |
 | 16 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 |
 | 17 | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u) | 3:18 |
 | 18 | [Cosas Pendientes](https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cosas Pendientes](https://open.spotify.com/album/0MW80IhxQCfhIiIqBwWvov) | 3:04 |

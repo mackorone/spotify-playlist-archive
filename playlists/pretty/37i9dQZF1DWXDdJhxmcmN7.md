@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 
 > los mejores beats producidos en tierras mexicanas 🌵
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,187 likes - 100 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,198 likes - 100 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 | 90 | [Lost Memories](https://open.spotify.com/track/4C6LHfiS7pnYDW0PR0Tkap) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8), [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Lost Memories](https://open.spotify.com/album/4mq1McASoEBuDUfWh9iNdR) | 2:26 |
 | 91 | [Midnight Celadon](https://open.spotify.com/track/7xDl7RH0Gk6JkHx4Zi3xSX) | [Jav Cast](https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj) | [Midnight Celadon](https://open.spotify.com/album/2MjAbv2xEUKyaySEy6jaua) | 1:52 |
 | 92 | [Viscaria Corto](https://open.spotify.com/track/3PvE0frfXEPQj8gE0zu0DJ) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [Viscaria Corto](https://open.spotify.com/album/0qQvzPPPt3zSBK2M8vRYJI) | 2:24 |
-| 93 | [todas las mañanas](https://open.spotify.com/track/6IHjrdyb7o1YxQ1tXlvjvv) | [Jose Bautista](https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB) | [todas las mañanas](https://open.spotify.com/album/2C8HdbAXTfMZamykf1ptqs) | 2:27 |
-| 94 | [Buena Onda](https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M) | [Stereo Fear](https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM) | [Buena Onda](https://open.spotify.com/album/4TEvHPFbmROcLhe5qb1OlT) | 2:20 |
+| 93 | [Buena Onda](https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M) | [Stereo Fear](https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM) | [Buena Onda](https://open.spotify.com/album/4TEvHPFbmROcLhe5qb1OlT) | 2:20 |
+| 94 | [todas las mañanas](https://open.spotify.com/track/6IHjrdyb7o1YxQ1tXlvjvv) | [Jose Bautista](https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB) | [todas las mañanas](https://open.spotify.com/album/2C8HdbAXTfMZamykf1ptqs) | 2:27 |
 | 95 | [Night Train](https://open.spotify.com/track/2txTRQWT4P2DB6CrYrVK17) | [saint rumi](https://open.spotify.com/artist/4KZj9rS07i3nfijzVtkqMQ), [MoonEra](https://open.spotify.com/artist/5FlU3MqoHYlSneG3GEhLMn) | [Night Train](https://open.spotify.com/album/4n9c9NxDoXM8RVJyyxL94G) | 2:09 |
 | 96 | [El Corazón](https://open.spotify.com/track/7q8CNO6bRExzHx197q0oS1) | [Aguachill](https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB), [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [El Corazón](https://open.spotify.com/album/2k8iUgRjS8e9feuoPmb1eQ) | 2:20 |
 | 97 | [Imagine](https://open.spotify.com/track/5FT43yC4o55EyXvxLP7hGj) | [Jav Cast](https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj) | [Imagine](https://open.spotify.com/album/10LXAGvBjlrqePC37zQ3kc) | 2:37 |

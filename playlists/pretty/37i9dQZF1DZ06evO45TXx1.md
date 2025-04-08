@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 
 > This is Mc Luanna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,335 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,352 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 32 | [Bandida](https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [BANDIDA](https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj) | 2:59 |
 | 33 | [Fofoca](https://open.spotify.com/track/0Wy3fjbBiIuCIF8UDzADov) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 2:41 |
 | 34 | [Atacante](https://open.spotify.com/track/4IJJsRnEZOXgglgVEXyyAi) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [JayP](https://open.spotify.com/artist/1lHdqt2eVlrG5ZYyWujdu3) | [44](https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr) | 1:46 |
-| 35 | [Ácido na Boca](https://open.spotify.com/track/0vmAjXhJSBKmMMkoEXu2CI) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mc Menorzinha](https://open.spotify.com/artist/3RJgdABmH81bLY7UPixlnZ), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Ácido na Boca](https://open.spotify.com/album/2aseP6ITCcqf11e9Y97w01) | 2:50 |
-| 36 | [Versão Brasileira](https://open.spotify.com/track/5g8LJXyeEiO8p9RCYlhXC9) | [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [DJ Maxnosbeatz](https://open.spotify.com/artist/4FMpb2dZnasTgrWwyKCQuN) | [Versão Brasileira, Vol\. 1](https://open.spotify.com/album/20JID6P0gPvvtRzmcMdsmK) | 2:16 |
+| 35 | [Versão Brasileira](https://open.spotify.com/track/5g8LJXyeEiO8p9RCYlhXC9) | [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [DJ Maxnosbeatz](https://open.spotify.com/artist/4FMpb2dZnasTgrWwyKCQuN) | [Versão Brasileira, Vol\. 1](https://open.spotify.com/album/20JID6P0gPvvtRzmcMdsmK) | 2:16 |
+| 36 | [Ácido na Boca](https://open.spotify.com/track/0vmAjXhJSBKmMMkoEXu2CI) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mc Menorzinha](https://open.spotify.com/artist/3RJgdABmH81bLY7UPixlnZ), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Ácido na Boca](https://open.spotify.com/album/2aseP6ITCcqf11e9Y97w01) | 2:50 |
 | 37 | [Sexto Sentido](https://open.spotify.com/track/34j5aln1VAyWwqqENvrPBS) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 1:44 |
 | 38 | [Rude](https://open.spotify.com/track/76uuhlsoVlG3F6Umr8mnHX) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Vitin.wav](https://open.spotify.com/artist/4dVWrqP3FM2o5Bcocsrvwp), [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT) | [44](https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr) | 2:43 |
 | 39 | [Última Vez](https://open.spotify.com/track/6750ETCZArnUYN2KQbXGE7) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Maldita](https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu) | 1:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 49 | [Pétalas](https://open.spotify.com/track/0LVGGVzzPqArsRUq3PoZa5) | [Thiago Kelbert](https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS) | [Pétalas](https://open.spotify.com/album/1sq1EdgUiQ8jYxWnBAIaNv) | 3:12 |
 | 50 | [Podepá](https://open.spotify.com/track/6jriETT3aG0EdRVB3bQna7) | [Cassol](https://open.spotify.com/artist/0hg0SDpSJsbcMjsRoHdnsu), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Nativo](https://open.spotify.com/album/2FGqHsA9CM6A1mPnu53g0k) | 3:01 |
 
-Snapshot ID: `Z/BygAAAAACiBMAd+xSqgXxOeZaZiUL7`
+Snapshot ID: `Z/HEAAAAAADn9V2mji+ADMm8znmJMH7a`

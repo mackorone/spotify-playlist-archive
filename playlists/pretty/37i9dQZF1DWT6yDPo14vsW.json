@@ -1,6 +1,6 @@
 {
   "description": "\u00bfQu\u00e9 es lo que est\u00e1 pasando? \u00bfAmor o Desamor?",
-  "num_followers": 339945,
+  "num_followers": 339986,
   "original_name": "Amor y Desamor",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-03-28 03:00:17",
       "album": {
-        "name": "Todo Historias",
-        "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 281226,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7"
-    },
-    {
-      "added_at": "2025-03-28 03:00:17",
-      "album": {
         "name": "Coraz\u00f3n Profundo (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 222213,
       "name": "Volv\u00ed a Nacer",
       "url": "https://open.spotify.com/track/6Al0Kpd4VrRZ0Z4kTThNPa"
+    },
+    {
+      "added_at": "2025-03-28 03:00:17",
+      "album": {
+        "name": "Todo Historias",
+        "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 281226,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7"
     },
     {
       "added_at": "2025-03-28 03:00:17",

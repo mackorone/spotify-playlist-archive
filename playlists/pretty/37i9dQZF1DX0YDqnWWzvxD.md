@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,881 likes - 100 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,096 likes - 100 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 5 | [Quietness](https://open.spotify.com/track/5BU2yxv2XhQlTvkBoeGYZY) | [Pavitr Udyaan](https://open.spotify.com/artist/7LK5H0UCpAQvUA90Ga3E5K) | [Quietness](https://open.spotify.com/album/2M8w3Qj0dTaLPt1q0ZP4jR) | 3:46 |
 | 6 | [The Southern Sea](https://open.spotify.com/track/13DDTT9eGK66diG2a4j5hE) | [Garth Stevenson](https://open.spotify.com/artist/0SFz7AVtevccdhXj6aeVka) | [Flying](https://open.spotify.com/album/4FViVwipetWhzoq8Topg0P) | 8:59 |
 | 7 | [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 |
-| 8 | [Atman](https://open.spotify.com/track/4VxBlGryb8qI5X3x2FfOW5) | [Shaanti Dhvani](https://open.spotify.com/artist/1dT771je9qOYSwruMXIkn7) | [Atman](https://open.spotify.com/album/6p4iQ4XzoXSBbZXsQvqiVA) | 3:06 |
+| 8 | [Core Of The Truth](https://open.spotify.com/track/3DNakDCMuqiAruLyfFpGo2) | [Dhyaan Sangeet](https://open.spotify.com/artist/0oNBpryPTA3j6vZcTSMHZI) | [Core Of The Truth](https://open.spotify.com/album/2F2QlV18Oyqqdi2rUa7KFS) | 3:26 |
 | 9 | [Lost In The Moment](https://open.spotify.com/track/1EQjRFsujGt5MXWcZ3e41d) | [Bansuri Tribe](https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0) | [Lost In The Moment](https://open.spotify.com/album/0XyDvrRxaVpme3G218gzJ5) | 3:32 |
-| 10 | [Core Of The Truth](https://open.spotify.com/track/3DNakDCMuqiAruLyfFpGo2) | [Dhyaan Sangeet](https://open.spotify.com/artist/0oNBpryPTA3j6vZcTSMHZI) | [Core Of The Truth](https://open.spotify.com/album/2F2QlV18Oyqqdi2rUa7KFS) | 3:26 |
+| 10 | [Atman](https://open.spotify.com/track/4VxBlGryb8qI5X3x2FfOW5) | [Shaanti Dhvani](https://open.spotify.com/artist/1dT771je9qOYSwruMXIkn7) | [Atman](https://open.spotify.com/album/6p4iQ4XzoXSBbZXsQvqiVA) | 3:06 |
 | 11 | [The Healing Process](https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [The Healing Process](https://open.spotify.com/album/6Rx2jbmQ5RWp5aCabk5LJq) | 2:41 |
 | 12 | [The Sweetest Bansuri](https://open.spotify.com/track/61dYKNEcKbV6Cq494FuOcv) | [Golgon Kami](https://open.spotify.com/artist/1tkEL3kkz3cp0QnCPKuomr) | [The Sweetest Bansuri](https://open.spotify.com/album/5Yq1yNWHSgiFFAcrKUu0JY) | 2:46 |
 | 13 | [Gratitude at 432 Hz](https://open.spotify.com/track/210uN31E64RF58k4j6Gh4f) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Reiki Healing Music \- at 432 Hz](https://open.spotify.com/album/7rLbPLK82F44CHtVwhV5uT) | 9:56 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 31 | [Still Moment](https://open.spotify.com/track/2vAqcKkTSGUAkpu2kRKorM) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Still Moment](https://open.spotify.com/album/03uMfQNIFSHVwcxCngFdT5) | 5:43 |
 | 32 | [Sea Waves](https://open.spotify.com/track/6lY4tHBKd7aVQW7X4TXtxt) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Ambient Nature \- Sounds of Nature, Natural Pain Relief, Healing Nature Sounds](https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe) | 3:13 |
 | 33 | [Savasana Sunrise \- Dawn Flow](https://open.spotify.com/track/2dzq1Q3e8ojTtuaB70DT9j) | [Stevin McNamara](https://open.spotify.com/artist/3n25Lt7Pj891H5zFEywMX8) | [Savasana Yoga Music: Healing Guitar for Massage, Sleep and Yoga Nidra](https://open.spotify.com/album/1bH7BSpVdLz36rQ8S3eGRn) | 5:45 |
-| 34 | [Endless Sleep](https://open.spotify.com/track/62ZB9B4xjhcckPa2cgnRPj) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk), [Yoga Savasana](https://open.spotify.com/artist/7JzaqHa1JiixMzAQsMNgEq), [Moon Tunes](https://open.spotify.com/artist/2CrKYctaeLX0vhSesbWyTD) | [Endless Meditation](https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK) | 2:43 |
-| 35 | [Sacred Breath](https://open.spotify.com/track/2nwknls2umYQSh3flvnA4m) | [Sacred Bansuri](https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD) | [Sacred Breath](https://open.spotify.com/album/0jk0S1srvlCB4yuYCA7813) | 3:12 |
+| 34 | [Sacred Breath](https://open.spotify.com/track/2nwknls2umYQSh3flvnA4m) | [Sacred Bansuri](https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD) | [Sacred Breath](https://open.spotify.com/album/0jk0S1srvlCB4yuYCA7813) | 3:12 |
+| 35 | [Endless Sleep](https://open.spotify.com/track/62ZB9B4xjhcckPa2cgnRPj) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk), [Yoga Savasana](https://open.spotify.com/artist/7JzaqHa1JiixMzAQsMNgEq), [Moon Tunes](https://open.spotify.com/artist/2CrKYctaeLX0vhSesbWyTD) | [Endless Meditation](https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK) | 2:43 |
 | 36 | [Atlas](https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Atlas](https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO) | 2:45 |
 | 37 | [Earth and Sky](https://open.spotify.com/track/0J6sAnH5FE4wHFr3W7qrmQ) | [Terry Oldfield](https://open.spotify.com/artist/0DhTHSo00qVa3OQRWLzA8j) | [Yoga Harmony](https://open.spotify.com/album/5kT8kbTfvjIkRNM129gjai) | 8:19 |
 | 38 | [Long Long Sleep](https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Long Long Sleep](https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6) | 2:17 |

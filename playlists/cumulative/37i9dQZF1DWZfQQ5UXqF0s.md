@@ -4,7 +4,7 @@
 
 > ¡Nuestros amados 90 los recordamos así! Café Tacvba en portada.
 
-140 songs - 9 hr 47 min
+141 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Amiga mía](https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:50 | 2021-09-07 |  |
 | [Amnesia](https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:01 | 2021-09-07 | 2024-04-19 |
 | [Amor De Papel](https://open.spotify.com/track/6RTlokHIiobtIsthCLm3as) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Viento A Favor](https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz) | 4:08 | 2021-09-07 |  |
+| [Amores de barra](https://open.spotify.com/track/2fa3F4PVj2GR5SbcIMI65Y) | [Ella Baila Sola](https://open.spotify.com/artist/6xvRfsmnwd0qcDUomtlmAt) | [Ella Baila Sola](https://open.spotify.com/album/7bxkE1uwNfUmBpDPyhHh2R) | 3:14 | 2021-09-07 |  |
 | [Amores extraños](https://open.spotify.com/track/3HPF8PGYVMRczBwPufGaYb) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini \- Spanish Version](https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm) | 4:15 | 2021-09-07 |  |
 | [Antologia](https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 4:14 | 2021-09-07 |  |
 | [Aquí No Es Así](https://open.spotify.com/track/02KG9DpLT3bV4fzUM1bORW) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Nervio Del Volcan](https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf) | 4:54 | 2021-09-07 |  |
@@ -111,7 +112,7 @@
 | [Odio Amarte](https://open.spotify.com/track/0x6kwMLhwr0w4xjdv6tVqG) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH](https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8) | 3:30 | 2021-09-07 |  |
 | [Otro Día Más Sin Verte](https://open.spotify.com/track/7i38EXhbFJjF5tGvTsJMmx) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Jon Secada](https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL) | 5:27 | 2021-09-07 |  |
 | [Oye Mi Amor](https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:23 | 2021-09-07 |  |
-| [Oyeme](https://open.spotify.com/track/0LK5UiJz9vAxhg2BqUb8EO) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Monica Naranjo](https://open.spotify.com/album/1JM9myoPgh1n5Hn0RWLKlz) | 4:59 | 2021-09-07 |  |
+| [Oyeme](https://open.spotify.com/track/0LK5UiJz9vAxhg2BqUb8EO) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Monica Naranjo](https://open.spotify.com/album/1JM9myoPgh1n5Hn0RWLKlz) | 4:59 | 2021-09-07 | 2025-04-08 |
 | [Pachuco](https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:14 | 2021-09-07 |  |
 | [Pelo Suelto](https://open.spotify.com/track/1H8aAoRO817bygKpgvAcpf) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Angel De La Guarda](https://open.spotify.com/album/4CdCwTNFcMTxVt7ugotlkL) | 3:26 | 2021-09-07 | 2025-01-06 |
 | [Piel Morena](https://open.spotify.com/track/2Lv1EpgTXrZ2gzJfoNGVnw) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [En Extasis](https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp) | 4:42 | 2021-09-07 |  |

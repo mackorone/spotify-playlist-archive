@@ -4,13 +4,14 @@
 
 > This is FLOW\. The essential tracks, all in one playlist.
 
-111 songs - 7 hr 14 min
+112 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1/3の純情な感情](https://open.spotify.com/track/3TCMnZY6XV6xNBDRzl7fdm) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW ANIME BEST](https://open.spotify.com/album/7GMKu72g0P38Zb4A3U80UA) | 3:53 | 2022-06-09 |  |
 | [7 \-seven\- \-TV SIZE\-](https://open.spotify.com/track/1WGPIbjStYfSEwE4d9yNBu) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [7 \-seven\- \-TV SIZE\-](https://open.spotify.com/album/645qSo6qBTQVr9P3554fRf) | 1:29 | 2022-10-28 | 2023-03-02 |
 | [7\-seven\-](https://open.spotify.com/track/780QeWn8OYJXSqpNTgt5pY) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [FLOW ANIME BEST 極](https://open.spotify.com/album/44oxh50xgNjefTkN94ZXUG) | 4:18 | 2022-06-09 |  |
+| [Alright!!!](https://open.spotify.com/track/3tPk1doXdKGzwHP3HsghPg) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Alright!!!](https://open.spotify.com/album/2LAtZAVqBu5mwWOXuvecxs) | 3:39 | 2025-04-08 |  |
 | [Answer](https://open.spotify.com/track/0lDEkAEv0QuxJGZ1nn4JIx) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [アイル](https://open.spotify.com/album/1tFNscYr6PKailCy9Wralg) | 4:39 | 2022-06-09 |  |
 | [Around the world](https://open.spotify.com/track/77HKgMnchdm8QwCO4RhXck) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜Single Collection〜](https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc) | 4:24 | 2022-06-18 | 2022-09-01 |
 | [AWAKE](https://open.spotify.com/track/4gSCA9MWYMEiSnmuB0r2DY) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW ANIME BEST 極](https://open.spotify.com/album/44oxh50xgNjefTkN94ZXUG) | 4:03 | 2022-06-09 | 2022-12-13 |
@@ -76,7 +77,7 @@
 | [THE FUTURE DAYBREAK \- \(映画 『仮面ライダーガッチャード ザ・フューチャー・デイブレイク』主題歌\)](https://open.spotify.com/track/7uHGpZqq9UN7g6U6lME03O) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [THE FUTURE DAYBREAK \(映画 『仮面ライダーガッチャード ザ・フューチャー・デイブレイク』主題歌\)](https://open.spotify.com/album/2pApDw9WgFXlwV7AD1qoNS) | 4:14 | 2024-07-27 |  |
 | [UNION](https://open.spotify.com/track/44pT8b44JEKUU5UdGVf2br) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [MICROCOSM](https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa) | 4:31 | 2022-06-09 | 2022-10-13 |
 | [United Sparrows](https://open.spotify.com/track/49KkIt4ilha2JSCkeUI0eR) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [United Sparrows](https://open.spotify.com/album/3eF5AwP5KQ7us5cHudHttS) | 3:39 | 2022-06-09 | 2023-10-11 |
-| [United Sparrows](https://open.spotify.com/track/5wyos90sic0mFUD6SXHAVx) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [United Sparrows](https://open.spotify.com/album/6rv9sxkAuqiclA89jciJWj) | 3:42 | 2024-08-13 |  |
+| [United Sparrows](https://open.spotify.com/track/5wyos90sic0mFUD6SXHAVx) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [United Sparrows](https://open.spotify.com/album/6rv9sxkAuqiclA89jciJWj) | 3:42 | 2024-08-13 | 2025-04-08 |
 | [Voyage](https://open.spotify.com/track/4omDxqC1xPp6wFfs7UZHVv) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Voyage](https://open.spotify.com/album/5zSvFaWhWwksDGOLYkKOb5) | 3:39 | 2023-02-16 | 2024-08-06 |
 | [Winter Story](https://open.spotify.com/track/5v5eCRsO7yJXcq2DGtlhVB) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Winter Story](https://open.spotify.com/album/2jFjmAgTNaduGZ77qN72Js) | 3:39 | 2022-12-23 | 2023-05-23 |
 | [WORD OF THE VOICE](https://open.spotify.com/track/0kESE99ri5BLsgtxCaYdiM) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [\#5](https://open.spotify.com/album/0Q1yRFAqGMM58SjTyPT3xV) | 3:47 | 2022-06-11 | 2024-08-13 |

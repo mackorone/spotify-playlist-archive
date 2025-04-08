@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAADTDlcyfu0v5TVXdh7SLBNH",
+  "snapshot_id": "Z/HEAAAAAACCVvLZlV2CuIvaSkjDsmAn",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves in Wolves' Clothing",
-        "url": "https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 133933,
-      "name": "Usa-Holes",
-      "url": "https://open.spotify.com/track/4AI2o7lsEDj5eEjE2qgT1b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Longest Line",
         "url": "https://open.spotify.com/album/0pwLAY3H4kkrldJTCMe3vt"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 124026,
       "name": "The Longest Line",
       "url": "https://open.spotify.com/track/3IWxhcxfOIUN25f4HryRfJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolves in Wolves' Clothing",
+        "url": "https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 133933,
+      "name": "Usa-Holes",
+      "url": "https://open.spotify.com/track/4AI2o7lsEDj5eEjE2qgT1b"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Double Album",
-        "url": "https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n"
+        "name": "War on Errorism",
+        "url": "https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 144878,
-      "name": "Darby Crashing Your Party",
-      "url": "https://open.spotify.com/track/7HCSNplNjvyPOXAH4MhXT6"
+      "duration_ms": 125000,
+      "name": "She's Nubs",
+      "url": "https://open.spotify.com/track/2D38ZBnSMwhH48kMmZwaEP"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "War on Errorism",
-        "url": "https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV"
+        "name": "Double Album",
+        "url": "https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 125000,
-      "name": "She's Nubs",
-      "url": "https://open.spotify.com/track/2D38ZBnSMwhH48kMmZwaEP"
+      "duration_ms": 144878,
+      "name": "Darby Crashing Your Party",
+      "url": "https://open.spotify.com/track/7HCSNplNjvyPOXAH4MhXT6"
     },
     {
       "added_at": null,

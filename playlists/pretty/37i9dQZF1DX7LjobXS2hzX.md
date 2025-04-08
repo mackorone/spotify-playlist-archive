@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 
 > Voici les hits du moment\. Photo: Joé Dwèt Filé, Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,899 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,913 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

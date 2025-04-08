@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 636,624 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 636,588 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,16 +74,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 64 | [Roto](https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Roto](https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf) | 2:45 |
 | 65 | [pero qué cosa](https://open.spotify.com/track/3lIPnDNKdk3NJzRa6EJRlc) | [Fer](https://open.spotify.com/artist/4Y3nku1hJZADNFyHeS3A6J) | [pero qué cosa](https://open.spotify.com/album/38T7QRU3ArAPJnlkKE9cNr) | 2:45 |
 | 66 | [Amá](https://open.spotify.com/track/3RKuu8pgaGr2yhZFDtpOi9) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [Amá](https://open.spotify.com/album/1l2vOwtFeylsUJLf5ZDwOZ) | 2:56 |
-| 67 | [Nunca Te Olvido](https://open.spotify.com/track/3XXZerYu2j34Z7eUh56F6K) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH), [Lulú Bulos](https://open.spotify.com/artist/3GnE3KJ3V1YO5IhindQrkj) | [Byebye Sayonara, Nunca Sabrás Que Esto Fue para Ti](https://open.spotify.com/album/5Uv6SEehbntf84qXBZyT56) | 3:51 |
-| 68 | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z) | 3:29 |
+| 67 | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z) | 3:29 |
+| 68 | [Nunca Te Olvido](https://open.spotify.com/track/3XXZerYu2j34Z7eUh56F6K) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH), [Lulú Bulos](https://open.spotify.com/artist/3GnE3KJ3V1YO5IhindQrkj) | [Byebye Sayonara, Nunca Sabrás Que Esto Fue para Ti](https://open.spotify.com/album/5Uv6SEehbntf84qXBZyT56) | 3:51 |
 | 69 | [Refugio](https://open.spotify.com/track/2XHOcpj3XkYsv9aa4inXVQ) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Refugio](https://open.spotify.com/album/6rb0q66fl0KXNB9SXW5Ycc) | 3:50 |
 | 70 | [Otros Colores](https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Otros Colores](https://open.spotify.com/album/3LhYjyYhsZlN7x1YinJpbS) | 5:51 |
 | 71 | [Mapas](https://open.spotify.com/track/5ArTOxzJNOk9ysWwbhAuro) | [Planetario](https://open.spotify.com/artist/4KyZLSFxk5EZnqkceVEvga) | [La Próxima Tormenta](https://open.spotify.com/album/1EfzoqrguBOQMd0hBjHghg) | 4:20 |
 | 72 | [Duerme En Paz](https://open.spotify.com/track/7cWBIjCBlHSC8q6OND9GUz) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Duerme En Paz](https://open.spotify.com/album/63RkToY6nto4dKQDxqgMrG) | 3:04 |
 | 73 | [por qué está tan cabrón crecer?](https://open.spotify.com/track/5ikrdrobOr9caHurkH1Gap) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [por qué está tan cabrón crecer?](https://open.spotify.com/album/05HxRACqWlAbJAS531E0s7) | 3:46 |
 | 74 | [Ni Modo](https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Ni Modo](https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX) | 3:05 |
-| 75 | [Olvidarme](https://open.spotify.com/track/52XioIzucenybSvvimJ1hk) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Olvidarme](https://open.spotify.com/album/6T1ZAoP7VkeDbdKwlwI1q1) | 2:51 |
-| 76 | [Nunca Sabrás](https://open.spotify.com/track/4PgbgWa4umBGYbJfy10U8e) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Nunca Sabrás](https://open.spotify.com/album/6ova79lcaiV9HgZN3qVrMX) | 3:36 |
+| 75 | [Nunca Sabrás](https://open.spotify.com/track/4PgbgWa4umBGYbJfy10U8e) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Nunca Sabrás](https://open.spotify.com/album/6ova79lcaiV9HgZN3qVrMX) | 3:36 |
+| 76 | [Olvidarme](https://open.spotify.com/track/52XioIzucenybSvvimJ1hk) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Olvidarme](https://open.spotify.com/album/6T1ZAoP7VkeDbdKwlwI1q1) | 2:51 |
 | 77 | [Nunca me encontré ;\(](https://open.spotify.com/track/1jlFpN2QVjsEGF8FcopjaQ) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Ausente](https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc) | 3:22 |
 | 78 | [Qué más da \(feat\. Charlie Rodd\)](https://open.spotify.com/track/48ynQ6ebXb7KC6TuQmVfdb) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a), [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Qué más da \(feat\. Charlie Rodd\)](https://open.spotify.com/album/4J9rqXc6sk1UmjOPFvhuL9) | 3:05 |
 | 79 | [Perdí](https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Perdí](https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme) | 2:24 |

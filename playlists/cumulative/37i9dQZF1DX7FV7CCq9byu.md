@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-712 songs - 1 day 12 hr 19 min
+713 songs - 1 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [HEAT](https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [HEAT](https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG) | 3:37 | 2024-06-27 | 2024-08-16 |
 | [Heathrow](https://open.spotify.com/track/0iNlcioLpaFNEpL0OkN2oa) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Heathrow](https://open.spotify.com/album/4RGF1g5xJjfcd809OFyN4F) | 3:55 | 2024-09-13 | 2024-10-25 |
 | [Heatstroke](https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Sincere](https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq) | 3:54 | 2024-08-01 | 2024-09-13 |
+| [Heavy Hearts](https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Nobody Lives Here](https://open.spotify.com/album/779IZOhupymkjX6dzygMl9) | 2:57 | 2025-04-07 |  |
 | [Hello](https://open.spotify.com/track/4PTh4Tu8zgGZKTLD9uWwM0) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Hello](https://open.spotify.com/album/3bkxRtwYubbi6EVygo6HRt) | 2:55 | 2025-03-20 |  |
 | [Hello Miss Johnson](https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Hello Miss Johnson](https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy) | 2:44 | 2024-11-21 | 2025-01-31 |
 | [Helluva life](https://open.spotify.com/track/1lxnQq2RI4UXqXXegmiiVY) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Jag önskar jag brydde mig mer](https://open.spotify.com/album/5TPuPsRCf4FN29mAYqTToD) | 3:05 | 2024-06-27 | 2024-07-19 |

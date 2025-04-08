@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-415 songs - 17 hr 50 min
+416 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Changing Lanes](https://open.spotify.com/track/40a0wkGSxv6TNCi1OXD0H8) | [Billie Mercedez](https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG) | [Changing Lanes](https://open.spotify.com/album/0CcHvBvzD1OURSeikpZYA4) | 3:01 | 2022-03-04 | 2022-04-06 |
 | [Ciudad nueva](https://open.spotify.com/track/2tOy5Z4ECTD5AaEDqR4Khb) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Ciudad nueva](https://open.spotify.com/album/5hEsUfEEb8BtmGvo0iJgFp) | 2:36 | 2022-03-04 | 2023-01-20 |
 | [Close Your Eyes](https://open.spotify.com/track/04OVXcc3yoj4loJXtMh5UW) | [Tom Blund](https://open.spotify.com/artist/715D4M785npyWgVKLgtXdX) | [Close your eyes](https://open.spotify.com/album/6LPSUfq1T05kBNqa7ZCCRO) | 3:05 | 2022-12-23 | 2024-04-06 |
-| [Closer Between](https://open.spotify.com/track/1O8tshcWQvfZfs9H4R4ipq) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Closer Between](https://open.spotify.com/album/3xgjyaQ8fz26lLx0BtFERm) | 2:51 | 2025-01-07 |  |
+| [Closer Between](https://open.spotify.com/track/1O8tshcWQvfZfs9H4R4ipq) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Closer Between](https://open.spotify.com/album/3xgjyaQ8fz26lLx0BtFERm) | 2:51 | 2025-01-07 | 2025-04-08 |
 | [Clouded Reflection](https://open.spotify.com/track/0BTLhUHKgEi7Jx8uRjTAii) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Clouded Reflection](https://open.spotify.com/album/6KwQj931Z6T7Q6xg9Ldbge) | 2:03 | 2023-03-24 |  |
 | [Cloudless](https://open.spotify.com/track/76PhNwBIgoytLw14EXOLXs) | [Sigrid Vass](https://open.spotify.com/artist/1vIOObvjDYAiXHCkLOFCOT) | [Cloudless](https://open.spotify.com/album/3YjZojRZHOiEIALoZey4tp) | 2:23 | 2022-03-04 | 2022-07-01 |
 | [Coldwater Lake](https://open.spotify.com/track/7ps62gX69Lc1VWZQgkjVjd) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Coldwater Lake](https://open.spotify.com/album/3ig1yiWm5srGPDJ9cqgKwm) | 2:41 | 2024-03-08 |  |
@@ -89,7 +89,7 @@
 | [Count On Me](https://open.spotify.com/track/3DuIiNd3wmmFShjBJ7JwT8) | [Benjamin Fitzpatrick](https://open.spotify.com/artist/3IXaliW54FH8AanaBHlqnW) | [Count On Me](https://open.spotify.com/album/40SJHFJFV60bKRT7A0Wcv6) | 3:09 | 2022-03-04 | 2022-10-29 |
 | [Courtyard Caverns](https://open.spotify.com/track/5NV09w1TsRYEndFnbnGDrB) | [Faircamp](https://open.spotify.com/artist/1xxKCb2lrYVUmTL6EbD0Pu) | [Into the Wind](https://open.spotify.com/album/4qrpQBGCS95ekF7eEvZRue) | 2:30 | 2022-03-04 | 2022-07-22 |
 | [Cozy](https://open.spotify.com/track/0X0h2w5ZSArxZOcs3k2HAV) | [Marucs Winford](https://open.spotify.com/artist/4olra7Ebf6ENkggpYzVJtW) | [Cozy](https://open.spotify.com/album/0e8TxgBqfiCWhbLPjaaKA7) | 2:04 | 2022-05-27 | 2024-04-06 |
-| [Crimson sunset](https://open.spotify.com/track/0MaFpCeo9BL7M9arKLdThw) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Crimson sunset](https://open.spotify.com/album/4elmegwwSrsoIqpqL0ZLYg) | 2:37 | 2024-06-28 |  |
+| [Crimson sunset](https://open.spotify.com/track/0MaFpCeo9BL7M9arKLdThw) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Crimson sunset](https://open.spotify.com/album/4elmegwwSrsoIqpqL0ZLYg) | 2:37 | 2024-06-28 | 2025-04-08 |
 | [Cusco](https://open.spotify.com/track/4Wmqw7rjTOtIaLRtfxQkYq) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Cusco](https://open.spotify.com/album/0DPEbP1FPdqTr8HKxrZ7LO) | 2:49 | 2025-01-13 | 2025-02-25 |
 | [Dahlia](https://open.spotify.com/track/6ZUiOA4kUpxwHoqgTq502w) | [Raoul Raffino](https://open.spotify.com/artist/4OMeqxm2R62xPoMeoZ8EQB) | [Dahlia](https://open.spotify.com/album/1hez2OnBpf1Kxqr6QLthV5) | 2:20 | 2023-09-29 | 2024-06-28 |
 | [Daily Rituals](https://open.spotify.com/track/7aJyGy2IZ4CmQc41wHuNcB) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Daily Rituals](https://open.spotify.com/album/5pgq4CuRKTisd4Vx5r1UFB) | 2:22 | 2024-07-19 |  |
@@ -132,7 +132,7 @@
 | [Excelsior](https://open.spotify.com/track/4iFR7YK1CfJDoLlUde5WnP) | [River Foxcroft](https://open.spotify.com/artist/5Ew1humnVO2uALMyV8OB1h) | [Happy Days Are Long Awaited](https://open.spotify.com/album/5wdIAlVfMZD8wk927tNQgf) | 3:26 | 2022-03-04 | 2022-04-06 |
 | [Fair Game](https://open.spotify.com/track/2FPEeTcNxk9qk8TxwwcxOL) | [Vadim Cervenka](https://open.spotify.com/artist/13mof4l15J56TzfoMsY99Y) | [Fair Game](https://open.spotify.com/album/7rSE3kCkuQwPHaIXyJU3L8) | 2:51 | 2022-03-04 | 2022-07-08 |
 | [Fallen Apples’ Scent](https://open.spotify.com/track/0kXnPmPo443VeP7XOi2Mai) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Fallen Apples’ Scent](https://open.spotify.com/album/7y4unim8M3o09r7QjegH8p) | 2:32 | 2023-02-24 |  |
-| [Falling whisper](https://open.spotify.com/track/6iRoDo2n1mEzQxJ8dyapzI) | [Jesse Rostad](https://open.spotify.com/artist/1A4uhZo28pk8VoTEHrMQlg) | [Falling whisper](https://open.spotify.com/album/2fnkNpDjfaIlGgep0jsdPj) | 2:45 | 2025-03-25 |  |
+| [Falling whisper](https://open.spotify.com/track/6iRoDo2n1mEzQxJ8dyapzI) | [Jesse Rostad](https://open.spotify.com/artist/1A4uhZo28pk8VoTEHrMQlg) | [Falling whisper](https://open.spotify.com/album/2fnkNpDjfaIlGgep0jsdPj) | 2:45 | 2025-03-25 | 2025-04-08 |
 | [Familiar Dedication](https://open.spotify.com/track/2t1FX8onvc1vTVwDaQemS7) | [Judah Mays](https://open.spotify.com/artist/7aoDjyRnPnMgjlrmlJo4zb) | [Tumbleweed](https://open.spotify.com/album/3jKywll76lblb3pSBLmaya) | 2:45 | 2022-03-04 | 2024-05-10 |
 | [Fantasia in Bb Major](https://open.spotify.com/track/6eExSQ2BD9wBt1P05zKmHv) | [Caylee Luna](https://open.spotify.com/artist/6gEGHbKHwwG0aslwsdWKL8) | [Fantasia in Bb Major](https://open.spotify.com/album/7HHccRDjuN27tMFgHG6jpj) | 2:05 | 2023-02-24 |  |
 | [Favor from the Wind](https://open.spotify.com/track/6jhxoEzxae8CW2ScL7ehsT) | [Janet Noguera](https://open.spotify.com/artist/7BX5I0rBq9BLKCyJHQr2GD) | [Favor from the Wind](https://open.spotify.com/album/6EQJJ0BLotBsUpafBhjfR1) | 4:43 | 2024-02-02 | 2024-04-20 |
@@ -209,7 +209,7 @@
 | [Innocent Face](https://open.spotify.com/track/1b9Rw5b1fcJFhj70ffmrTb) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Easy Guitar](https://open.spotify.com/album/14NKXsFEn4gODC4D5pOUzJ) | 2:02 | 2023-10-13 | 2023-10-14 |
 | [Inside the stone](https://open.spotify.com/track/1TgZWTvjhmFiHh7A7ld6kl) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [Inside the stone](https://open.spotify.com/album/2u9U3J5NzpPSPds9VsP5xi) | 2:04 | 2023-03-24 |  |
 | [Intention](https://open.spotify.com/track/5Qsc3ubq1pdHIdhnuITXf9) | [Harper Adams](https://open.spotify.com/artist/4vq84CaNbP8QBiKp5xEK7e) | [Intention](https://open.spotify.com/album/20kiTmsqXc6Dhipmt1YDNL) | 2:16 | 2022-03-04 | 2022-04-22 |
-| [Intergalactic Peace](https://open.spotify.com/track/0EAmMrdgLaPNTc5yM12B6w) | [G\. Samuelsson](https://open.spotify.com/artist/6deDKTj0xS9JYvmDrgzSPn) | [Intergalactic Peace](https://open.spotify.com/album/0yhcTV4RCWZxk94BsxDYv4) | 3:24 | 2024-06-14 |  |
+| [Intergalactic Peace](https://open.spotify.com/track/0EAmMrdgLaPNTc5yM12B6w) | [G\. Samuelsson](https://open.spotify.com/artist/6deDKTj0xS9JYvmDrgzSPn) | [Intergalactic Peace](https://open.spotify.com/album/0yhcTV4RCWZxk94BsxDYv4) | 3:24 | 2024-06-14 | 2025-04-08 |
 | [Into the Well](https://open.spotify.com/track/0cSbVRsr50elwoPcp6m2XA) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Limitless](https://open.spotify.com/album/3Fj1XxYEFoqgXMP2JalxB8) | 2:35 | 2022-07-08 | 2022-10-29 |
 | [Jasmine Spring](https://open.spotify.com/track/0rvAQQgVhaUsbl9oF4pmlQ) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Jasmine Spring](https://open.spotify.com/album/5jTFUQwgbtF73qI3Qky9sF) | 2:26 | 2022-07-22 | 2023-01-20 |
 | [Journey Home](https://open.spotify.com/track/1n8JIhb5wq50ZNvuas4ceq) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [Journey Home](https://open.spotify.com/album/2KGpAwyPvctqPpcpzLpRwh) | 3:08 | 2022-03-04 | 2022-04-06 |
@@ -271,6 +271,7 @@
 | [Ocean Pictures](https://open.spotify.com/track/7ts8hnrKzGffpFt418kehA) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Ocean Pictures](https://open.spotify.com/album/4PVvpYuh6xQWV2rIHIeDu3) | 2:38 | 2025-01-20 | 2025-04-03 |
 | [Ocean View](https://open.spotify.com/track/5pBeteeE2OuxTCkPbykuhb) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Ocean View](https://open.spotify.com/album/1IWqrzNu8FNPasLEbQgojS) | 2:43 | 2023-01-13 | 2024-04-20 |
 | [on this journey together](https://open.spotify.com/track/2pamcBZCeXARtQIpEpKIHj) | [Roberto Cabello Jr.](https://open.spotify.com/artist/3wCRv2qzTQDamiPfSc2zPp) | [on this journey together](https://open.spotify.com/album/5A0LT6wdjPKktyFxGKIp46) | 2:49 | 2022-03-04 | 2023-02-25 |
+| [Once Upon a Summer](https://open.spotify.com/track/6rb2wUYGbRAtz6gG0kMU97) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Once Upon a Summer](https://open.spotify.com/album/0N1rtLe8DE7INB2oth9jlk) | 2:57 | 2025-04-07 |  |
 | [One Step Forward](https://open.spotify.com/track/40UcSAp9GZFzUnczV5tlJc) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [One Step Forward](https://open.spotify.com/album/67dpIE3fJV0poBoxzHAF8e) | 2:19 | 2024-11-11 | 2025-03-12 |
 | [Open Fields](https://open.spotify.com/track/2FsGdBUGGU2gE7myOODMOv) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Graceful Moment & Open Fields](https://open.spotify.com/album/4ozWLRqVgvL3CJivu2Idzf) | 2:13 | 2022-03-04 |  |
 | [OSLO](https://open.spotify.com/track/5XbIIAvqy5vubofa0xLdct) | [Owen Larsson](https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8) | [OSLO](https://open.spotify.com/album/1T9tYM87dnPUXomXcb7Pwf) | 2:23 | 2024-12-17 | 2025-03-12 |

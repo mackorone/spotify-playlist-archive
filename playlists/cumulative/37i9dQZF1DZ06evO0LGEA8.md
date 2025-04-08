@@ -4,7 +4,7 @@
 
 > This is La Santa Grifa\. The essential tracks, all in one playlist.
 
-67 songs - 4 hr 40 min
+68 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Compatible Contigo](https://open.spotify.com/track/0PLZFSquuNT9mKd2wpOEzF) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Santos Grifos, Vol\. 1](https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H) | 4:35 | 2023-12-13 |  |
 | [Cumbia Morena](https://open.spotify.com/track/3Ce6AFsoLV98pysPJ8OgVs) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 3:30 | 2023-11-10 |  |
 | [De Mexico Song](https://open.spotify.com/track/6xMZFpORmifhj8lbB5RGH9) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Bear Busby](https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [De Mexico Song](https://open.spotify.com/album/5Fiig4Q85kNWPm4aSztfBy) | 3:33 | 2023-11-10 |  |
+| [El Borracho Y La Ruca](https://open.spotify.com/track/7aEhagyhf38ZE6PiLKbya3) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Éxitos, Vol\. 2](https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7) | 4:24 | 2025-04-08 |  |
 | [El Diablo Anda Suelto](https://open.spotify.com/track/1uSj6BBujIU1oaZFqIyZg7) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Santos Grifos, Vol\. 1](https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H) | 6:20 | 2023-11-10 |  |
 | [En el Espacio](https://open.spotify.com/track/2m04Nl3l3Q5u3XfosRDQ6p) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [En el Espacio](https://open.spotify.com/album/63DPGQHAUt7Uv9e1pn9APj) | 4:55 | 2023-11-10 |  |
 | [Escucho Voces](https://open.spotify.com/track/76JIRMXbAiOrpBVAy2ieYP) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hasta Donde Se Pueda, Vol\. 2](https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk) | 5:28 | 2024-08-31 | 2024-09-05 |
@@ -48,7 +49,7 @@
 | [Monalisa](https://open.spotify.com/track/56ZMnyvW7uO9sJoTVHNBxs) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [ElReghosg](https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3), [Mickey Ojo Rojo Sg](https://open.spotify.com/artist/0oxYBzQwBy2nmTquzJ447r) | [Monalisa](https://open.spotify.com/album/67gixCAUn6Sd1BXHr3xg3s) | 4:07 | 2023-11-10 |  |
 | [Muerto En Vida](https://open.spotify.com/track/6fUvI9lKWniwvioNewRWOr) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hits Visuales, Vol\. 3](https://open.spotify.com/album/016skxbuyQuGo26uPdNUTr) | 3:10 | 2023-11-10 | 2024-03-04 |
 | [Niña Elegante](https://open.spotify.com/track/2pPjtn3Pd3nTueJXeizwGk) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Niña Elegante](https://open.spotify.com/album/0h0GPh2jkZANpj0Oxj1J8T) | 3:02 | 2023-11-10 |  |
-| [No Cambio](https://open.spotify.com/track/7ArwxXsucZMkx6iSD8fQTk) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Éxitos, Vol\. 2](https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7) | 4:41 | 2023-11-10 |  |
+| [No Cambio](https://open.spotify.com/track/7ArwxXsucZMkx6iSD8fQTk) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Éxitos, Vol\. 2](https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7) | 4:41 | 2023-11-10 | 2025-04-08 |
 | [No Me Hablen de Penas](https://open.spotify.com/track/6bSeGQcsve915cgePuw2bZ) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [No Me Hablen de Penas](https://open.spotify.com/album/7HoDdcb8bHonDW0v9yUtL5) | 1:55 | 2023-11-10 |  |
 | [No que no eras fan](https://open.spotify.com/track/3NPQw5kgc3U6nMIy7oXgPW) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4) | [México 20s](https://open.spotify.com/album/4argPRWfGI3UkwodqRA7Um) | 3:22 | 2024-09-14 |  |
 | [No Que No Eras Fan](https://open.spotify.com/track/41Y8W6QoYpAHO0vw0FpoqM) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4) | [Canciones Mamalonas 2](https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX) | 3:22 | 2023-12-13 | 2024-05-19 |

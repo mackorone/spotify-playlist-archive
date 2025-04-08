@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 
 > ¡Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,321 likes - 75 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,417 likes - 75 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 | 65 | [Enamorado ¿Y Qué?](https://open.spotify.com/track/3SHxpoqH97ODVLsWdmtnQe) | [Morist Jiménez](https://open.spotify.com/artist/4vMHqTfGSyUnTJWXXyxDiV) | [Amor Exagerado](https://open.spotify.com/album/15sVH88nISJQmSDSsDGTIE) | 3:33 |
 | 66 | [Busca El Ritmo](https://open.spotify.com/track/5jeimudsdih5ZC1BC6Qsad) | [Willie Rosario](https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J) | [The Greatest Salsa Ever](https://open.spotify.com/album/2WgO5zD6fOYD9LwLwPzfiC) | 5:34 |
 | 67 | [La Cita](https://open.spotify.com/track/54eCgeI2qOXjAbKwnZ2UK0) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Solo Salsa](https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O) | 4:50 |
-| 68 | [Caricias Prohibidas](https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ) | [Viti Ruiz](https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT) | [Sedúceme](https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy) | 5:21 |
-| 69 | [Te Voy a Hacer Feliz](https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf) | [Mariano Civico](https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q) | [De Costa a Costa](https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN) | 5:09 |
+| 68 | [Te Voy a Hacer Feliz](https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf) | [Mariano Civico](https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q) | [De Costa a Costa](https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN) | 5:09 |
+| 69 | [Caricias Prohibidas](https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ) | [Viti Ruiz](https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT) | [Sedúceme](https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy) | 5:21 |
 | 70 | [Fantasia Herida](https://open.spotify.com/track/64IXm03vNARlDsFdT1H6R2) | [Salseando](https://open.spotify.com/artist/2GV8emlDQZ9U3xbDPsGsv0) | [SALSEANDO CON..\. UNO](https://open.spotify.com/album/3bPX120qXpWjTiBhLE5VP6) | 5:09 |
 | 71 | [Cantante de Cartel](https://open.spotify.com/track/0RBwK6GDmq2CACUzlsBw7B) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Good Vibrations](https://open.spotify.com/album/0viAbizcy2QtBHd5ubN1G7) | 4:33 |
 | 72 | [De Punta a Punta](https://open.spotify.com/track/1nB9ydATeeVCG3wrre1jcH) | [Grupo Caneo](https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z) | [Original](https://open.spotify.com/album/10qbEhy86blV66VOIVuxw6) | 4:25 |

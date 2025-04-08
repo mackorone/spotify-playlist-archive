@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: AOUR, M.G.L
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,460 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,470 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

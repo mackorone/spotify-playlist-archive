@@ -2,9 +2,9 @@
 
 ### [Hot Hits Magyarország](https://open.spotify.com/playlist/37i9dQZF1DXddoYHYnHJ9N)
 
-> Az 50 legnépszerűbb dal Magyarországon\. Cover: Azahriah
+> Az 50 legnépszerűbb dal Magyarországon\. Cover: Alex Warren
 
-107 songs - 5 hr 21 min
+108 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Jézus kérlek hívjál fel](https://open.spotify.com/track/5iAfEsRxQ6LjMZ7p2cWeOJ) | [Zakeus](https://open.spotify.com/artist/50lp8qhb7cVGIj7YpCQ16B) | [Jézus kérlek hívjál fel](https://open.spotify.com/album/0FUvBz087oUFhM6EslUWBI) | 2:40 | 2024-10-07 | 2024-12-03 |
 | [kapu](https://open.spotify.com/track/4IIEKJ3RVCc7z3PZdD5PZu) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [skatulya I](https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw) | 2:46 | 2024-07-01 | 2024-11-05 |
 | [kelet](https://open.spotify.com/track/50oIkRQqZvOUIyW2x88FlD) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Signo](https://open.spotify.com/artist/7p7yZa25So6b8lbCijHW4s) | [kelet](https://open.spotify.com/album/4DfgMtt4dICgV02uUxLyW3) | 3:27 | 2024-07-01 | 2024-09-10 |
-| [Kettesben](https://open.spotify.com/track/29BG2WmjGcikewITCPTP9G) | [ÉBERKÓMA](https://open.spotify.com/artist/45u5WLva3klzXW3rQuJ9U1) | [Kettesben](https://open.spotify.com/album/5bRbI8eixiSaKNUGviC8gM) | 2:39 | 2024-12-16 |  |
+| [Kettesben](https://open.spotify.com/track/29BG2WmjGcikewITCPTP9G) | [ÉBERKÓMA](https://open.spotify.com/artist/45u5WLva3klzXW3rQuJ9U1) | [Kettesben](https://open.spotify.com/album/5bRbI8eixiSaKNUGviC8gM) | 2:39 | 2024-12-16 | 2025-04-08 |
+| [KETTŐ/KETTŐ](https://open.spotify.com/track/5kYCuv93MHR0w7Gs3CG5F6) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [KETTŐ/KETTŐ](https://open.spotify.com/album/5slcrNg1ERALgUDkdwYiRk) | 2:57 | 2025-04-07 |  |
 | [LEVÉL](https://open.spotify.com/track/1wYyJvMvmVUpCi7MA41HB8) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [LEVÉL](https://open.spotify.com/album/7qJhkRTRgQOCk5wiPqx2Kh) | 2:37 | 2024-12-30 |  |
 | [Lidokain](https://open.spotify.com/track/2lQkm39mnvJWhEABSRduHx) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [Lidokain](https://open.spotify.com/album/0epDJ4zO5ZSQtLYcqJ8Z2b) | 2:57 | 2024-08-19 |  |
 | [Loca](https://open.spotify.com/track/4VXiDjCRkKHvXFhSX7OEri) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [KÚTVÖLGYI SÁRA](https://open.spotify.com/artist/2HFVT3TbcVZW8lWVE4eIka) | [Loca](https://open.spotify.com/album/2nKNusskARBW5lMEt3996z) | 1:54 | 2024-07-01 |  |

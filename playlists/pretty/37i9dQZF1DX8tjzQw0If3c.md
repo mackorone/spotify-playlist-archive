@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Listen to the future\. Cover: rhyu
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,889 likes - 66 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,890 likes - 66 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

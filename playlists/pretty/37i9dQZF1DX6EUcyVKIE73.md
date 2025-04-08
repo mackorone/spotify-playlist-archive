@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 
 > Selections of North Indian classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,017 likes - 50 songs - 13 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,026 likes - 50 songs - 13 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 | 35 | [Raga Sampurna Malkaus](https://open.spotify.com/track/7mvf24bJZ4cw4dM4uxAWgd) | [Kishori Amonkar](https://open.spotify.com/artist/0tLjWOxzh42O8gr0nFzv45) | [Maestro's Choice: Kishori Amonkar](https://open.spotify.com/album/6cKWaE4V3zAnDOzE4wwemT) | 28:30 |
 | 36 | [Thumri in Raga Misra Mand 'Morey Saiyan Bedardi' in Keherva \(8 beats\)](https://open.spotify.com/track/7sPDjmoQ9GmERO4BQvpM8x) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI) | [Pure](https://open.spotify.com/album/0xqFR4roHbYLOtB3rvMnOl) | 17:25 |
 | 37 | [Romantic Dhun](https://open.spotify.com/track/6HFwTGXheOsphUyrzlfJ8S) | [Vishwa Mohan Bhatt](https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl), [Sukhvinder Singh Namdhari](https://open.spotify.com/artist/64kV6d1FsEgESOui5dms5h) | [Saradamani](https://open.spotify.com/album/52oDl4LALSJlv1jsrqexII) | 10:43 |
-| 38 | [Jin Ke Man Ram Biraaje \- Raga Malkauns \- Khayal Vilambit \- Ektaal / Angan Aaye Balama \- Raga Malakauns \- Khayal Drut \- Ektaal](https://open.spotify.com/track/0SHJokbf80YliyvxnEzlOO) | [Rajan Mishra](https://open.spotify.com/artist/5ctgUVR3rh12mXvFckKVp9), [Sajan Mishra](https://open.spotify.com/artist/4s03GMsBoEBO7LnPhawd9p) | [Rajan / Sajan Mishra](https://open.spotify.com/album/1PlXFYiSiIviftsPQ3S14m) | 10:03 |
+| 38 | [Rag Gurjari Todi](https://open.spotify.com/track/0KWUBMhTeC5SObkrJPACZS) | [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Saptrang](https://open.spotify.com/album/4kk6vnU9ULoi5LxdwUohQJ) | 31:36 |
 | 39 | [Tarana Yaman](https://open.spotify.com/track/1lQpVO8T2CQETWCIVKBI9X) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4) | [Tarana Yaman](https://open.spotify.com/album/020y6hRQk2CaWSZ1IHAy5J) | 10:08 |
-| 40 | [Rag Gurjari Todi](https://open.spotify.com/track/0KWUBMhTeC5SObkrJPACZS) | [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Saptrang](https://open.spotify.com/album/4kk6vnU9ULoi5LxdwUohQJ) | 31:36 |
+| 40 | [Jin Ke Man Ram Biraaje \- Raga Malkauns \- Khayal Vilambit \- Ektaal / Angan Aaye Balama \- Raga Malakauns \- Khayal Drut \- Ektaal](https://open.spotify.com/track/0SHJokbf80YliyvxnEzlOO) | [Rajan Mishra](https://open.spotify.com/artist/5ctgUVR3rh12mXvFckKVp9), [Sajan Mishra](https://open.spotify.com/artist/4s03GMsBoEBO7LnPhawd9p) | [Rajan / Sajan Mishra](https://open.spotify.com/album/1PlXFYiSiIviftsPQ3S14m) | 10:03 |
 | 41 | [Jhama Jham \- Thumri](https://open.spotify.com/track/2pxyb3CvMfCyvYZcnojMZW) | [Girija Devi, Kishan Maharaj, Ramesh Mishra](https://open.spotify.com/artist/2x2lBeqwikK3oXYxtyDlmF) | [The Best Of Girija Deva](https://open.spotify.com/album/1oe93SNJ9tdqrTpkrkz5dH) | 9:02 |
 | 42 | [Meditative Gurjari Todi](https://open.spotify.com/track/1RVbuCSwWwp6PD1UlhopjV) | [Nirali Kartik](https://open.spotify.com/artist/7IZS9jFXr3rC8mZ9Ly2Npc) | [Navyaa](https://open.spotify.com/album/5M0jkj9MotirQVBzBxpK49) | 11:33 |
 | 43 | [Dhun \(Dadra And Fast Teental\) \- Live](https://open.spotify.com/track/68H7Gfjexf4wuGswkcwfdU) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [The Ravi Shankar Collection: Live: Ravi Shankar At The Monterey International Pop Festival](https://open.spotify.com/album/3sXkygk2kpWlNAA2neCvW0) | 19:41 |

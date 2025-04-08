@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > raw feels,  emotional beats to cry out to ☁️❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,477 likes - 75 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,486 likes - 75 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 44 | [falling behind](https://open.spotify.com/track/01IdQkdBqnyp4mhCDRGx5D) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [falling behind](https://open.spotify.com/album/78Xt50bJ6SeWBoXjL8wpGK) | 2:17 |
 | 45 | [Free Trees](https://open.spotify.com/track/23xwWliB2C9ebh21I7kD0U) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Free Trees](https://open.spotify.com/album/377keRBbyFcp49RdaFw90Z) | 2:30 |
 | 46 | [Hydra](https://open.spotify.com/track/3rWFeNkAIxfHy0MvHdzvAj) | [Smith Village Beat Street](https://open.spotify.com/artist/40rTd7D3ud1Q9BB4Qop0WF) | [21st Trail](https://open.spotify.com/album/2TYiO5QeDiFYvPy0NzajDb) | 1:47 |
-| 47 | [roadtrip](https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [roadtrip](https://open.spotify.com/album/4QiEuN6Pu7bPE64XmZDqpy) | 2:17 |
-| 48 | [Anything Like Her \(feat\. Tiffi\)](https://open.spotify.com/track/1naqrWNoxyi6PEXz3NOXW0) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ), [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [Snow Rose](https://open.spotify.com/album/3RQQK5575LOEB9MS6UgNt9) | 3:11 |
+| 47 | [Anything Like Her \(feat\. Tiffi\)](https://open.spotify.com/track/1naqrWNoxyi6PEXz3NOXW0) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ), [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [Snow Rose](https://open.spotify.com/album/3RQQK5575LOEB9MS6UgNt9) | 3:11 |
+| 48 | [roadtrip](https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [roadtrip](https://open.spotify.com/album/4QiEuN6Pu7bPE64XmZDqpy) | 2:17 |
 | 49 | [lunar walk](https://open.spotify.com/track/6ZJjAycopbrK5ab4Q2YImx) | [laura ploy](https://open.spotify.com/artist/3pzECkhcxMJJSIsi1ZIAaD) | [lunar walk](https://open.spotify.com/album/155VVaMjlTDghYkltp5CUE) | 2:00 |
 | 50 | [sad music](https://open.spotify.com/track/1mZDmX2U780ucdnGB78Qzr) | [sumthin](https://open.spotify.com/artist/1m1oQ84LqqtpGvE3Omv8Rd) | [call me when ur lonely](https://open.spotify.com/album/5ypeVEv4lRQhg3wXZKaIf5) | 1:22 |
 | 51 | [Silent Sky](https://open.spotify.com/track/1CwEJgKOytEZgRt7XmYdd0) | [Lofi Leif](https://open.spotify.com/artist/4rPu3mEDy7ZWvjAsNE6q0N) | [Silent Sky](https://open.spotify.com/album/0YxKDYxkNGU6qbnVtLN9PV) | 2:19 |

@@ -4,7 +4,7 @@
 
 > 
 
-922 songs - 1 day 20 hr 53 min
+923 songs - 1 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Cheat Code \(No Depot\)](https://open.spotify.com/track/2lSA6cClf7t810h84yg756) | [F3GA](https://open.spotify.com/artist/1aYNbH4PFBfcbEvuvHDMkf) | [Cheat Code \(No Depot\)](https://open.spotify.com/album/67ffzSzQAXheEWJaW9tGPK) | 1:58 | 2023-04-05 | 2023-12-14 |
 | [Cheese and Dope](https://open.spotify.com/track/5o0GRUA7okGPALKyEyQabz) | [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Mista Don't Play: Everythangs Workin](https://open.spotify.com/album/71GZEl78TMbuZ1sBbjDGZw) | 3:25 | 2024-12-15 |  |
 | [Chess Players \(feat\. DaBoii\)](https://open.spotify.com/track/6V6fObNpllxOL1edp0i7uY) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Megatron](https://open.spotify.com/album/02OJapNdO1Dd4sGCbKVSiX) | 2:11 | 2022-08-25 | 2024-04-24 |
+| [Chicago Zoo](https://open.spotify.com/track/3wehrmgzXoyZxV5JeIwerp) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rollin 2 \(Deluxe Edition\)](https://open.spotify.com/album/0BaBF43wCi33REVTeSiTlN) | 3:28 | 2025-04-07 |  |
 | [Child \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/4hyETm3W2ie4D0kFH0tMQ6) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Long Live Mexico](https://open.spotify.com/album/3JDiBSlLalqzv0GTEDRi8i) | 2:36 | 2023-12-27 | 2024-03-05 |
 | [Cinema](https://open.spotify.com/track/5Xjh7Ew2mqrajmvTTZN231) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [TOTEP](https://open.spotify.com/album/1JRe4BK6irt43VvOESllLv) | 2:06 | 2024-04-23 | 2024-11-06 |
 | [clap](https://open.spotify.com/track/28EZNysBMBi2VXMZJhJ5by) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [Texako](https://open.spotify.com/artist/23tAJ7sIqmvk4AIdECYTdg), [Lawsy](https://open.spotify.com/artist/4uhLYYGnG9XAH7gW0VXj9f) | [plugg!](https://open.spotify.com/album/0vLpff8oFPiZxqBOxbGsEV) | 3:21 | 2022-12-21 | 2023-05-09 |

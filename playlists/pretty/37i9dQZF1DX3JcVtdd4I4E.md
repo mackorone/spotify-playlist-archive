@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 
 > Welcome to the Nordic queendom.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,393 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,397 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 24 | [Record Deal](https://open.spotify.com/track/6FdrYNu0r4XEK2jHTMq6Yx) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Record Deal](https://open.spotify.com/album/6mEUw9i8bI2eXDevJJHiVv) | 3:07 |
 | 25 | [Picking Up](https://open.spotify.com/track/6tNIRsPksF7AO6dzE2zjlP) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Romeo](https://open.spotify.com/album/4JILgQ2bXqNFc0QvIGb0LR) | 3:19 |
 | 26 | [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 |
-| 27 | [TIME TO GO](https://open.spotify.com/track/32He7V1I86jo3oWGzlxwov) | [Martine Farstad](https://open.spotify.com/artist/1IfVdzvb1iqVh4ZKceC3PC) | [TIME TO GO](https://open.spotify.com/album/520ZEhZtTivehjdQswHoyF) | 2:36 |
-| 28 | [Volare](https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Volare](https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg) | 2:38 |
+| 27 | [Volare](https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Volare](https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg) | 2:38 |
+| 28 | [TIME TO GO](https://open.spotify.com/track/32He7V1I86jo3oWGzlxwov) | [Martine Farstad](https://open.spotify.com/artist/1IfVdzvb1iqVh4ZKceC3PC) | [TIME TO GO](https://open.spotify.com/album/520ZEhZtTivehjdQswHoyF) | 2:36 |
 | 29 | [Pretty Boy](https://open.spotify.com/track/557jdZsn0FAltJXgenminf) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Pretty Boy](https://open.spotify.com/album/4gEi05Cy4bNjoa3Dme7tH5) | 3:51 |
 | 30 | [Venus](https://open.spotify.com/track/1RaVANIegur4WaZTscvVS4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:27 |
 | 31 | [Wild Geese, Wild Love](https://open.spotify.com/track/7wNUuMw0R3gtYBpxaoGb64) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Your Hand Forever Checking On My Fever](https://open.spotify.com/album/3NEBgveq4crE0VXBZVw4Q9) | 5:23 |

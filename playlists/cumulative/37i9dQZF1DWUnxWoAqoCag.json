@@ -1999,6 +1999,24 @@
     },
     {
       "album": {
+        "name": "PUZZLE",
+        "url": "https://open.spotify.com/album/7L8b9ERkqqs8F0rtjYrofV"
+      },
+      "artists": [
+        {
+          "name": "Shota Shimizu",
+          "url": "https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276800,
+      "name": "PUZZLE",
+      "url": "https://open.spotify.com/track/09O5p1IP5i2xldBScLpXX7"
+    },
+    {
+      "album": {
         "name": "kidnapping / rendez-vous",
         "url": "https://open.spotify.com/album/0TxOw3GSb01frvQeBbP8MP"
       },
@@ -2068,6 +2086,24 @@
       "duration_ms": 250595,
       "name": "Romantic",
       "url": "https://open.spotify.com/track/61DzuO5GOWbN9aX9G4Pop9"
+    },
+    {
+      "album": {
+        "name": "ROSE",
+        "url": "https://open.spotify.com/album/55t0oiGukh64vuhsACgjtE"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164782,
+      "name": "ROSE",
+      "url": "https://open.spotify.com/track/5JTNhYqB0eG0ivgZcBviJ0"
     },
     {
       "album": {
@@ -2158,7 +2194,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 217120,
       "name": "SAD SONG",
       "url": "https://open.spotify.com/track/2zxK14g3shGRbgjUmKaj2x"
@@ -3182,7 +3218,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 235693,
       "name": "\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc",
       "url": "https://open.spotify.com/track/34ayWAUrQcrjlKZOJAzqke"

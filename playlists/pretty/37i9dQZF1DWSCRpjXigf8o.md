@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,132 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,130 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 54 | [Warwick Avenue](https://open.spotify.com/track/3K4r00KlXytLJDfuytngmx) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g) | 3:46 |
 | 55 | [this is what autumn feels like](https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what autumn feels like](https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI) | 3:39 |
 | 56 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 |
-| 57 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 |
-| 58 | [Free](https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Free](https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J) | 3:35 |
+| 57 | [Free](https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Free](https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J) | 3:35 |
+| 58 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 |
 | 59 | [Like A Star](https://open.spotify.com/track/5Anh8jULgeUgciLHCR25Mk) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 4:03 |
 | 60 | [Back Pocket](https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Thrill of the Arts](https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7) | 3:01 |
 | 61 | [Lucy In The Sky With Diamonds \- Remastered 2009](https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 3:28 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 94 | [One Step Ahead](https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [One Step Ahead](https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt) | 3:11 |
 | 95 | [Love on the Weekend](https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Love on the Weekend](https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA) | 3:32 |
 | 96 | [The Bridge](https://open.spotify.com/track/7MTHpsxtKVJaBL6e9WXzqD) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 3:01 |
-| 97 | [I Tried](https://open.spotify.com/track/4Dhic5lCf3U1nefagM5zwy) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [I Tried](https://open.spotify.com/album/6DVwmuhAq0HAq0k4hntOZH) | 2:16 |
-| 98 | [Green & Gold](https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK) | 4:38 |
+| 97 | [Green & Gold](https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK) | 4:38 |
+| 98 | [I Tried](https://open.spotify.com/track/4Dhic5lCf3U1nefagM5zwy) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [I Tried](https://open.spotify.com/album/6DVwmuhAq0HAq0k4hntOZH) | 2:16 |
 | 99 | [Easy](https://open.spotify.com/track/0wtHjEAzLYYyGuk2WtpGwS) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Very Best Of The Commodores](https://open.spotify.com/album/7wexfT6sZsdsrKuMaoH7Mn) | 4:20 |
 | 100 | [So Much Wine](https://open.spotify.com/track/4ZPNGLtydYARKP681L3TAF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [So Much Wine](https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC) | 4:03 |
 

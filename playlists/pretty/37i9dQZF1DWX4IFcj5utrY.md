@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp?si=mgEuGcu\_RBCLL6wEkKRbKw">Malumz On Decks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,886 likes - 65 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,894 likes - 65 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

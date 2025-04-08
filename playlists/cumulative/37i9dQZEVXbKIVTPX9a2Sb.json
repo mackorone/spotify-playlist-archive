@@ -2870,7 +2870,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-30",
+      "date_removed": null,
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -18371,6 +18371,28 @@
     },
     {
       "album": {
+        "name": "blue.",
+        "url": "https://open.spotify.com/album/21WNqI8VHCWS5vA8cJg7YU"
+      },
+      "artists": [
+        {
+          "name": "KOJO",
+          "url": "https://open.spotify.com/artist/0edxmbwC1I57fIyRCuz2FY"
+        },
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152112,
+      "name": "Jenom a\u0165 nesn\u00edm.. (feat. Calin)",
+      "url": "https://open.spotify.com/track/1xqRQAe2Gic8HJgg6uGKO2"
+    },
+    {
+      "album": {
         "name": "Symphonic Album",
         "url": "https://open.spotify.com/album/6l4Cyr1wf5YgN8aWbeawZ1"
       },
@@ -23958,7 +23980,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 218000,
       "name": "MISSHIT",
       "url": "https://open.spotify.com/track/2D94mdEcGQQuBHAQb6A5wx"
@@ -31216,7 +31238,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 149118,
       "name": "Pre v\u00e1s hr\u00e1m",
       "url": "https://open.spotify.com/track/5pltfpIVFmQdLbb1H20HeD"
@@ -34034,7 +34056,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-07",
+      "date_removed": null,
       "duration_ms": 149589,
       "name": "Saf\u00edr",
       "url": "https://open.spotify.com/track/1tpWtFdAuY9chjl5YhzsTP"
@@ -37786,7 +37808,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 121846,
       "name": "Suave",
       "url": "https://open.spotify.com/track/5E1tL0zofGATKf1cthCxwf"

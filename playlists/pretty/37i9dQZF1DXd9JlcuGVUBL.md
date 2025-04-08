@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 
 > Die beste country musiek\. Omslag: <a href="https://open.spotify.com/artist/006t5IfX5IGVA19yVoJxaR?si=pZ\_UaHelShSJE5e1Ke81rg">Lisie Basson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,238 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,304 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,11 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 | 41 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 |
 | 42 | [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 |
 | 43 | [Slow Dancing In A Burning Room \- Spotify Singles](https://open.spotify.com/track/1fZlXmas6ZBnFxUA4laNXN) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Slow Dancing In A Burning Room \(Spotify Singles\)](https://open.spotify.com/album/1apmKnloK5S1j6lovAqcad) | 3:42 |
-| 44 | [Backseat Driver](https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Backseat Driver](https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm) | 3:48 |
-| 45 | [She Hurts Like Tequila](https://open.spotify.com/track/0STyXMnPEAN9Y8F2AB2W3L) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [She Hurts Like Tequila](https://open.spotify.com/album/1rkFmAJVDy10lLw7st5bwd) | 3:22 |
+| 44 | [She Hurts Like Tequila](https://open.spotify.com/track/0STyXMnPEAN9Y8F2AB2W3L) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [She Hurts Like Tequila](https://open.spotify.com/album/1rkFmAJVDy10lLw7st5bwd) | 3:22 |
+| 45 | [Backseat Driver](https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Backseat Driver](https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm) | 3:48 |
 | 46 | [Hundred Mile High](https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Hundred Mile High](https://open.spotify.com/album/28lM7VxvsuOUVjElk0pvMr) | 2:52 |
-| 47 | [I Dare You](https://open.spotify.com/track/3QcZ0HiwWxwQYT2F17DCTm) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [I Dare You](https://open.spotify.com/album/5XSUjqKWdL4H36HkOni7zX) | 3:48 |
-| 48 | [Remember Him That Way](https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:56 |
+| 47 | [Remember Him That Way](https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:56 |
+| 48 | [I Dare You](https://open.spotify.com/track/3QcZ0HiwWxwQYT2F17DCTm) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [I Dare You](https://open.spotify.com/album/5XSUjqKWdL4H36HkOni7zX) | 3:48 |
 | 49 | [Hell Of A View](https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Soul](https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz) | 2:55 |
 | 50 | [Whirlwind](https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 4:00 |
 

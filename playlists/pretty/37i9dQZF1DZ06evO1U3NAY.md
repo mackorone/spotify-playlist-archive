@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1U3NAY.md) - [plain]
 
 > This is Within Temptation\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,211 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,228 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1U3NAY.md) - [plain]
 | 32 | [Raise Your Banner](https://open.spotify.com/track/0lNhWQBiA483reJSVovSWF) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Anders Friden](https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf) | [Resist \(Extended Deluxe\)](https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR) | 5:34 |
 | 33 | [Mother Earth](https://open.spotify.com/track/0vZzCD8Gy1w6ph5PzLctVo) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Mother Earth](https://open.spotify.com/album/1Ly5R8riIWwOfcugMwC7t3) | 5:31 |
 | 34 | [Radioactive](https://open.spotify.com/track/1H1U3PbWhxkUUG9HNEZEn7) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Q\-Music Sessions](https://open.spotify.com/album/1MjWXMQjJUaNzhpur6nzdb) | 3:14 |
-| 35 | [The Fire Within](https://open.spotify.com/track/21rY9mKlKWRD6aHsdT5Pqu) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Forgotten Songs](https://open.spotify.com/album/1zKoozwfsotBJcZjYUXmE7) | 3:33 |
+| 35 | [Don't Pray For Me](https://open.spotify.com/track/2ritJRsOmjlyVvTt1LtMY5) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 3:41 |
 | 36 | [Mercy Mirror](https://open.spotify.com/track/7uWTPqNMZxXi6AgVh00OPz) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Resist \(Extended Deluxe\)](https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR) | 3:49 |
-| 37 | [Don't Pray For Me](https://open.spotify.com/track/2ritJRsOmjlyVvTt1LtMY5) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 3:41 |
+| 37 | [The Fire Within](https://open.spotify.com/track/21rY9mKlKWRD6aHsdT5Pqu) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Forgotten Songs](https://open.spotify.com/album/1zKoozwfsotBJcZjYUXmE7) | 3:33 |
 | 38 | [Covered by Roses](https://open.spotify.com/track/4Lg1lKgxeR0UeGBVShfs6N) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Hydra \(Deluxe Edition\)](https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI) | 4:47 |
 | 39 | [The Howling](https://open.spotify.com/track/4EJLjbM1gGjy8UlhtMY44C) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Heart Of Everything](https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM) | 5:33 |
-| 40 | [See Who I Am](https://open.spotify.com/track/5KRuT1HU5BtXELm6zXKhfQ) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:51 |
-| 41 | [Cyanide Love](https://open.spotify.com/track/7c5JuIrBDoaSbzIzAr7AxN) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 4:04 |
+| 40 | [Cyanide Love](https://open.spotify.com/track/7c5JuIrBDoaSbzIzAr7AxN) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 4:04 |
+| 41 | [See Who I Am](https://open.spotify.com/track/5KRuT1HU5BtXELm6zXKhfQ) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:51 |
 | 42 | [Dangerous \(feat\. Howard Jones\)](https://open.spotify.com/track/3BYtn1zK991rGwWo5TW9e6) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Howard Jones](https://open.spotify.com/artist/5T0Vi8WwwfjX9tmUI9Mae9) | [Hydra \(Deluxe Edition\)](https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI) | 4:53 |
 | 43 | [Frozen](https://open.spotify.com/track/1uo6IzolNNLFNpyQGDZwJ5) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Heart Of Everything](https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM) | 4:28 |
-| 44 | [Somewhere](https://open.spotify.com/track/0h46IYZnCzjROtiegnYC0Z) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:13 |
-| 45 | [Worth Dying For](https://open.spotify.com/track/1Q5chsQiz6iC0edatkj3KM) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 4:53 |
+| 44 | [Worth Dying For](https://open.spotify.com/track/1Q5chsQiz6iC0edatkj3KM) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 4:53 |
+| 45 | [Somewhere](https://open.spotify.com/track/0h46IYZnCzjROtiegnYC0Z) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:13 |
 | 46 | [Let Us Burn](https://open.spotify.com/track/5ZMZrIPhlf5oMHwzw6RMre) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Hydra \(Deluxe Edition\)](https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI) | 5:31 |
 | 47 | [Hand of Sorrow](https://open.spotify.com/track/41j3TmJuJuSlHsqoX6L3dr) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Heart Of Everything](https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM) | 5:36 |
-| 48 | [Forsaken \- The Aftermath](https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Forsaken \(The Aftermath\)](https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06) | 4:58 |
-| 49 | [Unbroken](https://open.spotify.com/track/7p54w8swC934fosq86wnRS) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 5:08 |
+| 48 | [Unbroken](https://open.spotify.com/track/7p54w8swC934fosq86wnRS) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 5:08 |
+| 49 | [Forsaken \- The Aftermath](https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Forsaken \(The Aftermath\)](https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06) | 4:58 |
 | 50 | [Labyrinth](https://open.spotify.com/track/48xGyT3j2AgkomjWutb0Y1) | [BLIND8](https://open.spotify.com/artist/6Cp7Edmrgw7XA8duPOFmtz), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Labyrinth](https://open.spotify.com/album/5Kuwp2cLjCBCSjU9USGdQI) | 3:39 |
 
-Snapshot ID: `Z/BygAAAAAAU0mlhGSAAEZNMelT3Xerk`
+Snapshot ID: `Z/HEAAAAAAC67Iv61+drUfBJP2GUHpXl`

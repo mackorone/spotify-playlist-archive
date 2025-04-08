@@ -4,7 +4,7 @@
 
 > Laufey's coming over to do ROLE MODEL's dishes  🍽️
 
-2,038 songs - 4 day 10 hr 17 min
+2,040 songs - 4 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1639,6 +1639,7 @@
 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 | 2022-02-11 | 2022-04-02 |
 | [Stealin' Love](https://open.spotify.com/track/7c41OkV2tVXVsjgCl9chVq) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Stealin' Love](https://open.spotify.com/album/75gTyTvJm2apvHEc4hOt4S) | 2:20 | 2024-03-29 | 2024-04-19 |
 | [Step Mom](https://open.spotify.com/track/33yL9mCGvvVCjLKCZsnm1w) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Step Mom](https://open.spotify.com/album/6KTdmgQ3PwBVgZfc6j2R8I) | 3:34 | 2022-07-01 | 2022-07-20 |
+| [Steve's Lava Chicken](https://open.spotify.com/track/2n5sAzeWh5LqnV9cGBjgGr) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 0:34 | 2025-04-07 |  |
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2023-10-16 | 2024-12-14 |
 | [Still Alive \- From the Original Motion Picture Scream VI](https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Still Alive \(From the Original Motion Picture Scream VI\)](https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q) | 3:05 | 2023-03-03 | 2023-03-11 |
 | [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 | 2022-03-04 | 2022-04-23 |
@@ -2040,6 +2041,7 @@
 | [yoyo](https://open.spotify.com/track/6DNVY8fSGfbK28aO0qhIbG) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV) | [about dancing](https://open.spotify.com/album/3w7vFCsg2T4ft0HjvoDTdy) | 2:37 | 2024-11-08 | 2025-02-08 |
 | [Zero](https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Zero](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) | 2:34 | 2023-04-04 | 2023-05-10 |
 | [Zero Pressure](https://open.spotify.com/track/4xWZwHrIn5uS3Nft08Rk5O) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [BINIverse](https://open.spotify.com/album/0N41GI4E4w6irltx8mJhY5) | 2:50 | 2025-02-28 | 2025-03-29 |
+| [Zero to Hero](https://open.spotify.com/track/2Q2kfXA7lUuBsMAbBUDo4w) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 2:22 | 2025-04-07 |  |
 | [zombieland \(feat\. HARDY\)](https://open.spotify.com/track/3xGi8NYBHKM8mKsheBWV0G) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [zombieland \(feat\. HARDY\)](https://open.spotify.com/album/1HB5u33KcIukGAlu6lTu2Y) | 3:12 | 2024-05-03 | 2024-05-25 |
 | [ZOO](https://open.spotify.com/track/7eVu7FI02cTicLEgVtUvwF) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V), [HENDERY](https://open.spotify.com/artist/5wrZ59w1ndSBlPeUj2f6Fs), [YANGYANG](https://open.spotify.com/artist/5yyf4YDCKGaa71SC7KRw2L), [GISELLE](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) | [2021 Winter SMTOWN : SMCU EXPRESS](https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ) | 2:57 | 2022-01-28 | 2022-02-12 |
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-04-27 | 2022-07-23 |

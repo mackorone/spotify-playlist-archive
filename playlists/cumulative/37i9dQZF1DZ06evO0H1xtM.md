@@ -4,7 +4,7 @@
 
 > This is Grupo Marca Registrada\. The essential tracks, all in one playlist.
 
-111 songs - 5 hr 43 min
+112 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [El Niño](https://open.spotify.com/track/3gEolrSD883RXFsgiruxEm) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [El Niño](https://open.spotify.com/album/752bhrEwJA4s5o39zAACNy) | 3:10 | 2023-08-08 |  |
 | [El Número](https://open.spotify.com/track/2S1L7g0N4ZH4DEzKoetT5N) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac) | [EVO LUXURY 2](https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ) | 3:09 | 2024-11-09 | 2025-01-10 |
 | [El Paisa](https://open.spotify.com/track/5bihD1yhbA9NsIQRBxgcl1) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 2:53 | 2023-08-08 | 2024-04-24 |
-| [El Pickles](https://open.spotify.com/track/1xcFgv2NqLU17sc2ri5TTG) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Pickles](https://open.spotify.com/album/2zJwQTD8HeEMsnxVIa4ssq) | 3:02 | 2023-08-08 |  |
+| [El Pickles](https://open.spotify.com/track/1xcFgv2NqLU17sc2ri5TTG) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Pickles](https://open.spotify.com/album/2zJwQTD8HeEMsnxVIa4ssq) | 3:02 | 2023-08-08 | 2025-04-08 |
+| [El Pickles](https://open.spotify.com/track/24QFCrOqc9XKHO1gXBtQwG) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Don't Stop The Magic](https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7) | 3:02 | 2025-04-08 |  |
 | [El Primo](https://open.spotify.com/track/13kE65qNSOfOCek24303WY) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [THE GOAT](https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb) | 2:56 | 2024-06-06 |  |
 | [El Rescate](https://open.spotify.com/track/5xzGmQsjbPuIZ6GtPdVuEq) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Don't Stop The Magic](https://open.spotify.com/album/6JhU55VzRGxceE9Co927oj) | 2:34 | 2024-01-31 | 2024-03-15 |
 | [El Rescate](https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP) | 2:40 | 2023-08-08 |  |

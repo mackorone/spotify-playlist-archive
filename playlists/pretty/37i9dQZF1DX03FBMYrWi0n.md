@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: Population II
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,407 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,406 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

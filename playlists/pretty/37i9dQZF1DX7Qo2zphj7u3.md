@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Qo2zphj7u3.md) - [plain]
 
 > Las románticas de hoy con las de siempre\. Foto: Morat & Camilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,993,203 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,993,167 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,20 +79,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Qo2zphj7u3.md) - [plain]
 | 69 | [Hoy Tengo Ganas De Ti](https://open.spotify.com/track/0qO4GfXADY9QfgcgtrasT9) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Confidencias](https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk) | 4:51 |
 | 70 | [En cambio no](https://open.spotify.com/track/6ea3gVkbrhghwfoio3NFpi) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Primavera anticipada](https://open.spotify.com/album/6zAy8yhXyey4JitXpszFh7) | 3:57 |
 | 71 | [Faltas Tú](https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Faltas Tú](https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia) | 3:21 |
-| 72 | [Me Enamoré de Ti](https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [No Hay Imposibles](https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07) | 4:23 |
-| 73 | [El Triste](https://open.spotify.com/track/0aTMBEfPCCkKkneU6gLmDD) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Jose Jose \(1\)](https://open.spotify.com/album/7wZCFbWRkh5mneWJfAK2LD) | 4:13 |
+| 72 | [El Triste](https://open.spotify.com/track/0aTMBEfPCCkKkneU6gLmDD) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Jose Jose \(1\)](https://open.spotify.com/album/7wZCFbWRkh5mneWJfAK2LD) | 4:13 |
+| 73 | [Me Enamoré de Ti](https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [No Hay Imposibles](https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07) | 4:23 |
 | 74 | [Quiero Dormir Cansado](https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 4:01 |
 | 75 | [Y sólo se me ocurre amarte](https://open.spotify.com/track/05Zcw1sWmSu3wfbaLTeosp) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [MTV Unplugged](https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo) | 4:37 |
 | 76 | [Llegaste Tú](https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 3:41 |
-| 77 | [Por Que Te Conocí](https://open.spotify.com/track/5scw7DWTRzsKzeA05QtCQB) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Como Te Recuerdo](https://open.spotify.com/album/4VwV8hjVXteVkVNDCYPN1M) | 4:04 |
-| 78 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 |
+| 77 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 |
+| 78 | [Por Que Te Conocí](https://open.spotify.com/track/5scw7DWTRzsKzeA05QtCQB) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Como Te Recuerdo](https://open.spotify.com/album/4VwV8hjVXteVkVNDCYPN1M) | 4:04 |
 | 79 | [Que Lo Nuestro Se Quede Nuestro](https://open.spotify.com/track/3rtxFFGZ10e2vYBo7PsPf2) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:42 |
-| 80 | [Vuelve](https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 5:07 |
-| 81 | [Amor Clandestino](https://open.spotify.com/track/5etssK2rpk4SnHWWD1Q6xn) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Drama Y Luz](https://open.spotify.com/album/1sqgDb8MhdXgKAdGGLny9g) | 4:51 |
-| 82 | [Lo Que No Fue No Será](https://open.spotify.com/track/3nlBG0lCutyuRX3jDRALw0) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Lo Pasado Pasado](https://open.spotify.com/album/5oddKuDpZE5aTn2uZ98Bbq) | 3:33 |
+| 80 | [Lo Que No Fue No Será](https://open.spotify.com/track/3nlBG0lCutyuRX3jDRALw0) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Lo Pasado Pasado](https://open.spotify.com/album/5oddKuDpZE5aTn2uZ98Bbq) | 3:33 |
+| 81 | [Vuelve](https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 5:07 |
+| 82 | [Amor Clandestino](https://open.spotify.com/track/5etssK2rpk4SnHWWD1Q6xn) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Drama Y Luz](https://open.spotify.com/album/1sqgDb8MhdXgKAdGGLny9g) | 4:51 |
 | 83 | [Olvídame y Pega la Vuelta](https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Pimpinela](https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id) | 3:05 |
-| 84 | [Te Quiero](https://open.spotify.com/track/5sO5U27s6EUGMBj4fkqUyz) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Te Quiero](https://open.spotify.com/album/0YmzPJsNmuM10SAWwjhIBR) | 3:12 |
-| 85 | [El Recuento de los Daños](https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Mas Turbada Que Nunca](https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh) | 3:55 |
+| 84 | [El Recuento de los Daños](https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Mas Turbada Que Nunca](https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh) | 3:55 |
+| 85 | [Te Quiero](https://open.spotify.com/track/5sO5U27s6EUGMBj4fkqUyz) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Te Quiero](https://open.spotify.com/album/0YmzPJsNmuM10SAWwjhIBR) | 3:12 |
 | 86 | [Asi Fue](https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 5:25 |
 | 87 | [Te Esperaba](https://open.spotify.com/track/22t10FTx8y3pC5fjLuKJ8K) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Guerra \(+ Sessions Recorded at Abbey Road\)](https://open.spotify.com/album/0sGgHg4QRIBACnetu6z45Z) | 3:33 |
 | 88 | [Energía Bacana](https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Energía Bacana](https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq) | 2:27 |

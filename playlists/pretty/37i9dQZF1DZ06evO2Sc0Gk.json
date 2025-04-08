@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 19951,
+  "num_followers": 19954,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAABWgoi9TwHhp31jJ4QlUMBO",
+  "snapshot_id": "Z/HEAAAAAAA5TyiVkQUf6DVrUlBL/o07",
   "tracks": [
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00e0\u00e0j\u00ed",
-        "url": "https://open.spotify.com/album/6qPmOuoHmx9U4ZBCvMUxHt"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 149741,
-      "name": "F\u00e0\u00e0j\u00ed",
-      "url": "https://open.spotify.com/track/1ObFmDHL5oeVzRf9uIcn09"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
         "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 168461,
       "name": "Short Skirt",
       "url": "https://open.spotify.com/track/2Udl0TzzW2pYjPmf6P9M2W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F\u00e0\u00e0j\u00ed",
+        "url": "https://open.spotify.com/album/6qPmOuoHmx9U4ZBCvMUxHt"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 149741,
+      "name": "F\u00e0\u00e0j\u00ed",
+      "url": "https://open.spotify.com/track/1ObFmDHL5oeVzRf9uIcn09"
     },
     {
       "added_at": null,

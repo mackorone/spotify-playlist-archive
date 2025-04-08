@@ -4,7 +4,7 @@
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Keziah Mallam & Tim Lyre
 
-1,223 songs - 2 day 10 hr 54 min
+1,224 songs - 2 day 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Afro Bass](https://open.spotify.com/track/57SIbxmrWA7GsMtv5micLJ) | [Cznbaby](https://open.spotify.com/artist/5m2vJFnLqbBvu4cm3Zn0Rf) | [Afro Bass](https://open.spotify.com/album/5OFYLCyFCuhR4hnTlqQtvn) | 2:32 | 2024-03-08 | 2024-06-15 |
 | [Afro\-LOVA](https://open.spotify.com/track/4aHMsX9xIIvupKNGf9DsA0) | [LXMi](https://open.spotify.com/artist/6vtS6JgTKsGgWd7G6yfHGB) | [Afro\-LOVA](https://open.spotify.com/album/55KrKeIZRt7ZBx5cTHqNsp) | 2:46 | 2024-03-22 | 2024-04-19 |
 | [Again](https://open.spotify.com/track/6zDZvJJRxofaA7c9ombPIH) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [Again](https://open.spotify.com/album/0FbNfX2DcyFNvgrSe0ZLba) | 3:04 | 2023-03-10 | 2023-12-08 |
-| [Ah Well](https://open.spotify.com/track/2JtaWZbCiOA0i09pTWH2JQ) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Ah Well](https://open.spotify.com/album/1PZMEss8Vhv50mIZKu6jho) | 3:12 | 2024-09-20 |  |
+| [Ah Well](https://open.spotify.com/track/2JtaWZbCiOA0i09pTWH2JQ) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Ah Well](https://open.spotify.com/album/1PZMEss8Vhv50mIZKu6jho) | 3:12 | 2024-09-20 | 2025-04-08 |
 | [Ain't Shit](https://open.spotify.com/track/4XObjc7nQCCMarEjTrrnxL) | [Niambi](https://open.spotify.com/artist/18VjYL567PiS4rphPwzWA6) | [Ain't Shit](https://open.spotify.com/album/44Qy2nUgkwik1iRaNAaSOd) | 3:13 | 2024-11-22 | 2025-04-05 |
 | [Ajoke](https://open.spotify.com/track/6PM8LP6tFAaPHy7NsOEJDX) | [Shine Bm](https://open.spotify.com/artist/3D0aT4H2RqLXYzuWjcm2Wl) | [Ajoke](https://open.spotify.com/album/1vn2Ff4nccR4bmPiZZ6eS7) | 3:58 | 2025-01-31 | 2025-03-22 |
 | [Align \(Sorry\)](https://open.spotify.com/track/5X0Zgtq35C1aaqySYuIWua) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Align \(Sorry\)](https://open.spotify.com/album/7B5hF0ad6sxUVsMZSuQLV6) | 2:37 | 2024-05-31 | 2024-08-26 |
@@ -1143,6 +1143,7 @@
 | [Up](https://open.spotify.com/track/7teGDQrvZE1B8BEaS5XXFO) | [Lago](https://open.spotify.com/artist/5RBlz43vo3ELD9x0dwxYTf) | [Wake Up](https://open.spotify.com/album/4HNwdJc7EtRK1fjfVm1jpe) | 2:09 | 2023-10-27 | 2023-11-24 |
 | [Uptown Girl](https://open.spotify.com/track/6Dcg4JEZgSS4YOeSpu4S76) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Uptown Girl](https://open.spotify.com/album/6Z7llQEJK2H6PRxK5gOIYs) | 2:34 | 2022-09-29 | 2022-10-29 |
 | [Us](https://open.spotify.com/track/1CbhFk1ayCQqg9AxgPjDCF) | [Br3nya](https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Us](https://open.spotify.com/album/36vRBOExGT1fT7DQbjAEf8) | 2:46 | 2023-07-28 | 2023-10-05 |
+| [US](https://open.spotify.com/track/1xonJzRr8OL83dQdxMOqRU) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es) | [US](https://open.spotify.com/album/0ESCKKZ7PjrVPaKeP3too3) | 1:16 | 2025-04-07 |  |
 | [Uuu](https://open.spotify.com/track/7Dtp0C2m1yivLDqZvtPuUn) | [Dehveen](https://open.spotify.com/artist/7msNWcgGY3UZnY3nGgDc9R), [Ewaä](https://open.spotify.com/artist/7jdpjapwyXXYLgGf9nopFd) | [Sobr](https://open.spotify.com/album/3PjikAyImqAkqo44rcPZz9) | 2:35 | 2023-08-03 | 2023-09-15 |
 | [Vanilla](https://open.spotify.com/track/5CFIAgBLBm53lMElR7oaVJ) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [A Wonderful Time](https://open.spotify.com/album/0qbHtNyI6S1uDvIi3alx6N) | 1:33 | 2023-11-10 | 2024-02-23 |
 | [Venus](https://open.spotify.com/track/2pNjk1fIZTMtj8ry6SdEmB) | [Faceless](https://open.spotify.com/artist/4kwkSF1jJalibmNlh4Z8Of), [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [Venus](https://open.spotify.com/album/6VbLBFjsXbH8AP3MIgqB2n) | 2:19 | 2025-02-19 |  |

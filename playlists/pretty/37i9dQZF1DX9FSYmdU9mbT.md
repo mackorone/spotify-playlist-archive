@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Tim Maia
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,396,644 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,396,902 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 44 | [A Festa \- Acústico](https://open.spotify.com/track/3YM4WkQaQhzjf40skwwadH) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [A Festa \(Acústico\)](https://open.spotify.com/album/1DtKWa3ZQLTmmN3nGuKPZ1) | 5:30 |
 | 45 | [Ex\-Amor](https://open.spotify.com/track/5eN58yh1jG1af8DWgZELk0) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Ex\-Amor](https://open.spotify.com/album/4fOylDdAzEOm0idOZlXVDf) | 4:05 |
 | 46 | [Chão de Giz](https://open.spotify.com/track/1VNBEmjVEaS6BedHSdYxKS) | [Zé Ramalho](https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S) | [Antologia Acustica \- Vol\. 1](https://open.spotify.com/album/5wHlY7AE8cBuRkMMiv9E8G) | 4:31 |
-| 47 | [Lenha](https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Top Hits](https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8) | 4:09 |
-| 48 | [Exagerado 3.0](https://open.spotify.com/track/4D3HlCklYQQgTEuPDso96G) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Exagerado 3.0 \- Single](https://open.spotify.com/album/7CJhsjfz2e9FujsupS99y3) | 3:46 |
+| 47 | [Exagerado 3.0](https://open.spotify.com/track/4D3HlCklYQQgTEuPDso96G) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Exagerado 3.0 \- Single](https://open.spotify.com/album/7CJhsjfz2e9FujsupS99y3) | 3:46 |
+| 48 | [Lenha](https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Top Hits](https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8) | 4:09 |
 | 49 | [Andar Com Fé](https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Andar Com Fé](https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w) | 3:14 |
 | 50 | [O Que É Que Há](https://open.spotify.com/track/4UPhXYKlkMcmGqoEamcABC) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [O Que É Que Há](https://open.spotify.com/album/5GY5057U8mZPzaqLXZj8Sa) | 3:45 |
 | 51 | [Brasil Pandeiro](https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:55 |

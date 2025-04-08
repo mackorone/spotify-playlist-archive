@@ -4,7 +4,7 @@
 
 > Nigeria's hottest tracks\.  Cover: ODUMODUBLVCK
 
-464 songs - 22 hr 18 min
+465 songs - 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,9 +287,10 @@
 | [Monalisa](https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [LV N ATTN](https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8) | 3:33 | 2021-11-15 | 2023-03-18 |
 | [Money](https://open.spotify.com/track/258dAAbHbmjEuxZCPT3YqC) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Money](https://open.spotify.com/album/2HfRsmVTm9PFW7QDPoAtVj) | 3:26 | 2025-02-19 |  |
 | [Money & Love](https://open.spotify.com/track/3nIj7jkWVKKmmKPdhgrddu) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Money & Love](https://open.spotify.com/album/1a936IexPb6wtpMlymctZz) | 3:11 | 2022-10-28 | 2023-02-02 |
+| [Most Wanted](https://open.spotify.com/track/5rFZHAhav5kGsSAKtQHRHq) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Most Wanted](https://open.spotify.com/album/1PVWEuIW46WKRMtBnNu0Hv) | 2:22 | 2025-04-07 |  |
 | [MOTO](https://open.spotify.com/track/0P2ytSdEAFp0FICrJwnu4Y) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [GANGSTER ROMANTIC](https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G) | 2:58 | 2023-03-17 | 2023-09-27 |
 | [Moving](https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Moving](https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV) | 2:20 | 2024-08-29 | 2025-02-27 |
-| [Mulla](https://open.spotify.com/track/7x9Jg12Lu8hxhGZlLkj6eD) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI) | [Mulla](https://open.spotify.com/album/2ygIsRaS6dDmGRQdNHFCSZ) | 2:45 | 2025-04-04 |  |
+| [Mulla](https://open.spotify.com/track/7x9Jg12Lu8hxhGZlLkj6eD) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI) | [Mulla](https://open.spotify.com/album/2ygIsRaS6dDmGRQdNHFCSZ) | 2:45 | 2025-04-04 | 2025-04-08 |
 | [Mumu](https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Mumu](https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU) | 2:53 | 2023-10-13 | 2023-12-08 |
 | [My Brother](https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [My Brother](https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6) | 2:38 | 2023-10-17 | 2023-11-03 |
 | [My Darling](https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [My Darling](https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9) | 2:26 | 2025-04-02 |  |

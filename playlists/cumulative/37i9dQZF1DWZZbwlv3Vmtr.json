@@ -8479,6 +8479,24 @@
     },
     {
       "album": {
+        "name": "le bistrot",
+        "url": "https://open.spotify.com/album/6PM3t1gtqMKJLCSv6NLmH9"
+      },
+      "artists": [
+        {
+          "name": "three wheeler",
+          "url": "https://open.spotify.com/artist/046W3kc1sJRUj2pOqfDssn"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189803,
+      "name": "le bistrot",
+      "url": "https://open.spotify.com/track/6x4czyQixc4Ul3rL02jdOs"
+    },
+    {
+      "album": {
         "name": "Leaves in the Wind",
         "url": "https://open.spotify.com/album/3cK3SJKB0XOsULFz01Sx2r"
       },
@@ -10196,7 +10214,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-07",
+      "date_removed": null,
       "duration_ms": 196770,
       "name": "Mosaic",
       "url": "https://open.spotify.com/track/3rDpqMkNK2YLWlGF8bKBmh"
@@ -13872,7 +13890,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 134831,
       "name": "Seals",
       "url": "https://open.spotify.com/track/6hhDdAhtUbPkvPsLbp1KPP"
@@ -14482,7 +14500,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 107294,
       "name": "Skyscraper",
       "url": "https://open.spotify.com/track/3AYHI7qsr1lVLGieNgCpkf"
@@ -15672,7 +15690,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 157500,
       "name": "String Lights",
       "url": "https://open.spotify.com/track/7jFZuxwCwaVmzAHaOfjKkF"
@@ -16996,7 +17014,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-07",
+      "date_removed": null,
       "duration_ms": 139058,
       "name": "The Way",
       "url": "https://open.spotify.com/track/7op5NFvJzRLffdGkYzJpUX"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4q6087QOpL9.md) - [plain]
 
 > That real soulful house sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,221 likes - 150 songs - 14 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,254 likes - 150 songs - 14 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,8 +145,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4q6087QOpL9.md) - [plain]
 | 135 | [Love Affair \(Phunk Farmers Music Vocal Mix\) \[the Adlib\]](https://open.spotify.com/track/7gOS1uKFHNQnH0AAM8QPum) | [Doni Nicole](https://open.spotify.com/artist/5PkfWR1CpRXnPVIXVQX1PR) | [Love Affair](https://open.spotify.com/album/549Wblx6GfyuyVenZ2Ct7f) | 9:55 |
 | 136 | [Let It Go \- Richard Earnshaw Radio Remix Edit](https://open.spotify.com/track/4pLwRwyidTPRHvkZT3If4F) | [Swaylo](https://open.spotify.com/artist/1WOLLSR3zNmE14XGHANuBf), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r), [Richard Earnshaw](https://open.spotify.com/artist/7g1UCyeUY5EDPlLLIu16ra) | [Let It Go](https://open.spotify.com/album/0qxmp3a4COJjsGNyp0eVmH) | 3:54 |
 | 137 | [Is It True? \- Radio Mix](https://open.spotify.com/track/2aRZSM2blNUnjoJOtwfvts) | [Ernesto & The Basement Gospel](https://open.spotify.com/artist/3ms98XTpJt0rXpOWPOfS6J) | [Is It True?](https://open.spotify.com/album/5Q5JOnIIrTSXPnWJXkF253) | 3:30 |
-| 138 | [Never Stop Dancing \- Kelly G\. Shelter Dub](https://open.spotify.com/track/1zNCpcff5c6nzdUsG83Lzv) | [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw), [Aaron K\. Gray](https://open.spotify.com/artist/6TgzrtBwlDUTEcYLF8corT), [Kelly G](https://open.spotify.com/artist/0xJk3iLNm8oNfKfrocZdwz) | [Never Stop Dancing \(Kelly G\. Shelter Dub\)](https://open.spotify.com/album/2vEj6hSjxWOBwiFwCyc47J) | 3:23 |
-| 139 | [Jaiva](https://open.spotify.com/track/0t354TlNr7mxHMFJQaXljc) | [Timmy Regisford](https://open.spotify.com/artist/4L8Ca9KjtTXUr9iD0s6asH), [Soul Jay](https://open.spotify.com/artist/55l7Vl5OWzGX5aVEPM539i) | [Secret World of Gravity](https://open.spotify.com/album/07QIZoBtl9IQ6pHxBOI94V) | 4:33 |
+| 138 | [Jaiva](https://open.spotify.com/track/0t354TlNr7mxHMFJQaXljc) | [Timmy Regisford](https://open.spotify.com/artist/4L8Ca9KjtTXUr9iD0s6asH), [Soul Jay](https://open.spotify.com/artist/55l7Vl5OWzGX5aVEPM539i) | [Secret World of Gravity](https://open.spotify.com/album/07QIZoBtl9IQ6pHxBOI94V) | 4:33 |
+| 139 | [Never Stop Dancing \- Kelly G\. Shelter Dub](https://open.spotify.com/track/1zNCpcff5c6nzdUsG83Lzv) | [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw), [Aaron K\. Gray](https://open.spotify.com/artist/6TgzrtBwlDUTEcYLF8corT), [Kelly G](https://open.spotify.com/artist/0xJk3iLNm8oNfKfrocZdwz) | [Never Stop Dancing \(Kelly G\. Shelter Dub\)](https://open.spotify.com/album/2vEj6hSjxWOBwiFwCyc47J) | 3:23 |
 | 140 | [Rekindled](https://open.spotify.com/track/7al4dZR5uPs09wrYmMHdtC) | [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Rekindled](https://open.spotify.com/album/5TImCleOgK4gc9QcogM8Zo) | 4:05 |
 | 141 | [Freedom](https://open.spotify.com/track/4scBie3GmexE62QpfQ7cEY) | [Yooks](https://open.spotify.com/artist/3nKX35cdnfzZGWN0KcPzXp), [Ed Ramsey](https://open.spotify.com/artist/5Kjh35pEuh6zeJCdMd3DYf) | [Freedom](https://open.spotify.com/album/6ungcJVRqedJdY0VsAoNXf) | 8:13 |
 | 142 | [BACK TO BASIC \- Soul Clap groove remix](https://open.spotify.com/track/24vhDkFu0X0XVq5E13eSZi) | [Amp Fiddler](https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU), [Orlando Voorn](https://open.spotify.com/artist/4Kv4vEaYZEcrJoXqeMpN2u), [Soul Clap](https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD) | [BACK TO BASIC](https://open.spotify.com/album/6vn8AFZ29OxHh4YXucchb3) | 6:45 |

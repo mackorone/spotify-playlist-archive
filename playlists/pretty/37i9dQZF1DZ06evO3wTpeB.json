@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Aka Mind. The essential tracks, all in one playlist.",
-  "num_followers": 4486,
+  "num_followers": 4488,
   "original_name": "This Is Ali Aka Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAAC0N8cG91gU1fcWMvNYhx8U",
+  "snapshot_id": "Z/HEAAAAAAAhk+CaShummfJ7p6TYHYCi",
   "tracks": [
     {
       "added_at": null,
@@ -1043,22 +1043,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manjit",
-        "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 169194,
-      "name": "Recreo",
-      "url": "https://open.spotify.com/track/0vzTHnDY9h03jTosxJbE8V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mientras",
         "url": "https://open.spotify.com/album/1IrZA69cG0rXC4F4bKB5su"
       },
@@ -1079,22 +1063,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s & Menos",
-        "url": "https://open.spotify.com/album/6PF5Nfua8PnfihIwSxdwus"
+        "name": "Manjit",
+        "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
       },
       "artists": [
-        {
-          "name": "Akil Ammar",
-          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
-        },
         {
           "name": "Ali Aka Mind",
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         }
       ],
-      "duration_ms": 269413,
-      "name": "M\u00e1s & Menos",
-      "url": "https://open.spotify.com/track/3JccwWX1NKkIGQYppnjtCA"
+      "duration_ms": 169194,
+      "name": "Recreo",
+      "url": "https://open.spotify.com/track/0vzTHnDY9h03jTosxJbE8V"
     },
     {
       "added_at": null,
@@ -1111,6 +1091,26 @@
       "duration_ms": 234056,
       "name": "Emancipaci\u00f3n",
       "url": "https://open.spotify.com/track/2zfhbG3kCZdsQpwmVCnDhb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1s & Menos",
+        "url": "https://open.spotify.com/album/6PF5Nfua8PnfihIwSxdwus"
+      },
+      "artists": [
+        {
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+        },
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 269413,
+      "name": "M\u00e1s & Menos",
+      "url": "https://open.spotify.com/track/3JccwWX1NKkIGQYppnjtCA"
     }
   ],
   "unique_name": "This Is Ali Aka Mind",

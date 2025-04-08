@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house  🐀  Tech house technicians, featuring Chris Lake & Ragie Ban
 
-[Spotify](https://open.spotify.com/user/spotify) - 663,624 likes - 150 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 664,503 likes - 150 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Toxic](https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Toxic](https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn) | 2:44 |
-| 2 | [Let It Ride \- Jamie Jones Remix](https://open.spotify.com/track/4Qia8t2vNSY3qyMYe6zCU9) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Alex Tepper](https://open.spotify.com/artist/1hnHxjL5igxWUUv76I2s4d) | [Let It Ride \(Jamie Jones Remix\)](https://open.spotify.com/album/69huZFB3RkeoW4VNMd7BdY) | 3:26 |
+| 2 | [Let It Ride \- Jamie Jones Remix](https://open.spotify.com/track/4Qia8t2vNSY3qyMYe6zCU9) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Let It Ride \(Jamie Jones Remix\)](https://open.spotify.com/album/69huZFB3RkeoW4VNMd7BdY) | 3:26 |
 | 3 | [Stay](https://open.spotify.com/track/4EyIt50f46KvqdJphEPg8U) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Stay](https://open.spotify.com/album/73A8cKzllUa1BwNebMT7xB) | 2:45 |
 | 4 | [Can't Get Enough](https://open.spotify.com/track/4OhBEzAyBJn7D0n1bIXQX7) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Can't Get Enough](https://open.spotify.com/album/3OBsgXDSLQGIa8HZVP4Zk9) | 3:19 |
 | 5 | [Stephanie \- HNTR Remix](https://open.spotify.com/track/3flWoQdYrWyqUsHbURIJby) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [InntRaw](https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU) | [Stephanie \(HNTR Remix\)](https://open.spotify.com/album/2bOMvfR44jh4eIeUB230ES) | 2:25 |

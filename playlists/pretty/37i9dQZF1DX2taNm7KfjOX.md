@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Sufjan Stevens
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,399,826 likes - 150 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,399,804 likes - 150 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -10,9 +10,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 |---|---|---|---|---|
 | 1 | [I Lie And I Cheat \- Uit Liefde Voor Muziek](https://open.spotify.com/track/4aZApUwxDSZ0HXcLFtChd0) | [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl) | [I Lie And I Cheat \(Uit Liefde Voor Muziek\)](https://open.spotify.com/album/553Hbuqp1xBj5yw6BaNelj) | 2:21 |
 | 2 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 |
-| 3 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 |
-| 4 | [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/track/1SdQjKRW52cHg2SEesQLvH) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/album/6I0FquHLCtYJqAgQMmtyr7) | 3:12 |
-| 5 | [Hopeful](https://open.spotify.com/track/4PvO068sn6ciXDDv7LQHpp) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Hopeful](https://open.spotify.com/album/24JB71qwsB96Z7JOWuGKsW) | 3:34 |
+| 3 | [Hopeful](https://open.spotify.com/track/4PvO068sn6ciXDDv7LQHpp) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Hopeful](https://open.spotify.com/album/24JB71qwsB96Z7JOWuGKsW) | 3:34 |
+| 4 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 |
+| 5 | [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/track/1SdQjKRW52cHg2SEesQLvH) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/album/6I0FquHLCtYJqAgQMmtyr7) | 3:12 |
 | 6 | [5 More Minutes](https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [I Know What I Want](https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va) | 3:50 |
 | 7 | [Darker Days](https://open.spotify.com/track/7vAsTkBkGkk39wZe1fbDJk) | [Gustaph](https://open.spotify.com/artist/55L5ivgJXuhhrPw3pdEph7) | [Look At Us Now](https://open.spotify.com/album/4Ig4RuhqZV8gtYq3CuJFAf) | 3:55 |
 | 8 | [warm](https://open.spotify.com/track/0BeR2fJmYnKNn7IORw3GR9) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 99 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
 | 100 | [Pray](https://open.spotify.com/track/5wqUqv9p6EAmtIvmG2nAVV) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Pray](https://open.spotify.com/album/7Ms4cfUbrmV4KaC4UDj3cL) | 2:58 |
 
-Snapshot ID: `Z+8FDgAAAACaGNugwIdi28AF/zbYnCvt`
+Snapshot ID: `Z/Ow1gAAAAC9AVlOtNJ61ymRvHV6hk9C`

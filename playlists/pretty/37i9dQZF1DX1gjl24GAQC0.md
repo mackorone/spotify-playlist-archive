@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 
 > Is it your favorite oppa or dongsaeng? \(Cover:xikers\(싸이커스\)\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,931 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,881 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 | 10 | [CINEMA \(Lee Know & Seungmin\)](https://open.spotify.com/track/2StQuhn6KdemQlwsvLgwBy) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP) | 3:41 |
 | 11 | [Bite Me](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:37 |
 | 12 | [Burnin’ Tires \(Changbin & I.N\)](https://open.spotify.com/track/4Sz5KwMxHQnJPf64wJW5aq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP) | 2:53 |
-| 13 | [PYTHON](https://open.spotify.com/track/2kol6tv2jcinBERq425Ahv) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [WINTER HEPTAGON](https://open.spotify.com/album/2TtVKZ7e40MVhqNbtYuT5z) | 2:31 |
-| 14 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 |
+| 13 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 |
+| 14 | [PYTHON](https://open.spotify.com/track/2kol6tv2jcinBERq425Ahv) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [WINTER HEPTAGON](https://open.spotify.com/album/2TtVKZ7e40MVhqNbtYuT5z) | 2:31 |
 | 15 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 |
 | 16 | [IF I SAY, I LOVE YOU](https://open.spotify.com/track/7GOIrZTegzVty8mhNhRuA0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [IF I SAY, I LOVE YOU](https://open.spotify.com/album/0oG7GdJqiwdDcVfz1FwZEe) | 2:41 |
 | 17 | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq) | 3:31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 
 > This is Descendents\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,450 likes - 46 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,456 likes - 46 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 24 | [Feel This](https://open.spotify.com/track/2xYTsFE2JcJEZFBYfV2x56) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 1:14 |
 | 25 | [She Don't Care](https://open.spotify.com/track/1YvA35HudRjB00cQxYGUNa) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 1:51 |
 | 26 | [Nightage](https://open.spotify.com/track/0gNDfOiFi2HLe2uZerMAB7) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 2:22 |
-| 27 | [In Love This Way](https://open.spotify.com/track/1wvQFyYkXrEAqkR22UugcJ) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 2:32 |
+| 27 | [I Don't Want to Grow Up](https://open.spotify.com/track/5agRly96hAJywJYZlZRiuA) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 1:21 |
 | 28 | [Victim Of Me](https://open.spotify.com/track/40ifWLszUQT675PpXGFH4T) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 1:36 |
 | 29 | [Mass Nerder](https://open.spotify.com/track/7u972MeFIdqkmQodkqbBcx) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 2:47 |
 | 30 | [Lullaby](https://open.spotify.com/track/2E9ttxZB1OpSmdkasZpYND) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:01 |
-| 31 | [I Don't Want to Grow Up](https://open.spotify.com/track/5agRly96hAJywJYZlZRiuA) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 1:21 |
+| 31 | [In Love This Way](https://open.spotify.com/track/1wvQFyYkXrEAqkR22UugcJ) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 2:32 |
 | 32 | [Smile](https://open.spotify.com/track/5bgrq2ys7hfJXEdP6ZlrDR) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 3:10 |
 | 33 | [Catalina](https://open.spotify.com/track/5XOFzbdObS7ASc0MFrCHcY) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4), [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Dead Tracks, Vol\. 2](https://open.spotify.com/album/4ErXAsdor9LnNuLW4xyzRI) | 1:51 |
 | 34 | [Baby Doncha Know](https://open.spotify.com/track/1JlWpNVAhJ3bh6ofyW5gjU) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 0:56 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 45 | [Grudge](https://open.spotify.com/track/4YpjGR5zqcDfxAhpAYbnG6) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:28 |
 | 46 | [Cheer](https://open.spotify.com/track/60PehYqowykS4BzqhE8UEi) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy](https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA) | 3:03 |
 
-Snapshot ID: `Z/BygAAAAAAxFmog+0ZkoKB3xjkyuINx`
+Snapshot ID: `Z/HEAAAAAADOcsH7tXOFrUx+QxO+S0s3`

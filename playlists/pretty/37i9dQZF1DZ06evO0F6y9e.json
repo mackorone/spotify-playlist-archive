@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1029232,
+  "num_followers": 1029366,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAAAfhjsbCjdlA5ZB1a1cm1rP",
+  "snapshot_id": "Z/HEAAAAAADHmtUlHZE1fMA8Qd6kdfny",
   "tracks": [
     {
       "added_at": null,
@@ -923,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuera de Servicio (En Vivo)",
-        "url": "https://open.spotify.com/album/1lGSzvt2T0zKMTZgHL9NCV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "Fuera de Servicio (En Vivo)",
-      "url": "https://open.spotify.com/track/126OceJdkcpvQre3orMumy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vali\u00f3 La Pena Equivocarme (En Vivo)",
         "url": "https://open.spotify.com/album/7adBn21cJiGl0qGhmFy12R"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 241536,
       "name": "Vali\u00f3 La Pena Equivocarme (En Vivo)",
       "url": "https://open.spotify.com/track/6bANxR8naOx4pnq1795q31"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuera de Servicio (En Vivo)",
+        "url": "https://open.spotify.com/album/1lGSzvt2T0zKMTZgHL9NCV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "Fuera de Servicio (En Vivo)",
+      "url": "https://open.spotify.com/track/126OceJdkcpvQre3orMumy"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 
 > The Country Coffeehouse is open! Grab a cup and lean back to some low\-key country.
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,523 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,584 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 18 | [The Only Boy Awake](https://open.spotify.com/track/4tRt91OQSbE9eFA3RwgqSd) | [Meadows](https://open.spotify.com/artist/5jN2q5MCOQJaBAYIF7Os4J) | [The Only Boy Awake](https://open.spotify.com/album/0SCTqWnQqJFtgOewaNW062) | 2:43 |
 | 19 | [2016](https://open.spotify.com/track/5ehN5A3B3lDwmFCYO63Wk6) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 3:55 |
 | 20 | [Where You Are \- Acoustic](https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Living Room Worktapes](https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3) | 4:03 |
-| 21 | [Wait Up For Me](https://open.spotify.com/track/1pLbS57mLE8iG4njSQIAtX) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD) | 3:45 |
-| 22 | [Girl Goin' Nowhere](https://open.spotify.com/track/2lyEpuvVOnNGzV5c89Vnpf) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 3:27 |
+| 21 | [Girl Goin' Nowhere](https://open.spotify.com/track/2lyEpuvVOnNGzV5c89Vnpf) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 3:27 |
+| 22 | [Wait Up For Me](https://open.spotify.com/track/1pLbS57mLE8iG4njSQIAtX) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD) | 3:45 |
 | 23 | [Leave Me Again](https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:58 |
 | 24 | [Far From Home](https://open.spotify.com/track/54tkmrvf1ejo3ejAHuVgq1) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Far from Home](https://open.spotify.com/album/6EgZXWhzIYtXFo1vhKg5Ch) | 3:07 |
 | 25 | [Sunday Drive](https://open.spotify.com/track/2TIdEu4aruzo33MTEUDGcf) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 4:53 |
-| 26 | [Love You To Death](https://open.spotify.com/track/5xQTEPjGsLuvwnnvyK3fAA) | [Chord Overstreet](https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0) | [Love You To Death](https://open.spotify.com/album/4vP2ZDfafpuIZoAI9rofKv) | 3:19 |
-| 27 | [Pack My Hometown](https://open.spotify.com/track/7IAmh4baSztXaPd0gncWwK) | [Eli Winders](https://open.spotify.com/artist/1FrotTX0L8LcXNxuigzB0w) | [Pack My Hometown](https://open.spotify.com/album/7hqgRwJjA5rjc4XL61T20i) | 3:11 |
+| 26 | [Pack My Hometown](https://open.spotify.com/track/7IAmh4baSztXaPd0gncWwK) | [Eli Winders](https://open.spotify.com/artist/1FrotTX0L8LcXNxuigzB0w) | [Pack My Hometown](https://open.spotify.com/album/7hqgRwJjA5rjc4XL61T20i) | 3:11 |
+| 27 | [Love You To Death](https://open.spotify.com/track/5xQTEPjGsLuvwnnvyK3fAA) | [Chord Overstreet](https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0) | [Love You To Death](https://open.spotify.com/album/4vP2ZDfafpuIZoAI9rofKv) | 3:19 |
 | 28 | [Nothing Like You](https://open.spotify.com/track/52GgfKWo0tdSbq8trVhgUj) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Carry on, San Vicente](https://open.spotify.com/album/5gcKaSiUo4sMkDwD8yO71Z) | 4:22 |
 | 29 | [WHAT I HAVE](https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [WHAT I HAVE](https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC) | 2:58 |
 | 30 | [MARILYN](https://open.spotify.com/track/6XKJyrLsAJh65mQCWttTtg) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:26 |

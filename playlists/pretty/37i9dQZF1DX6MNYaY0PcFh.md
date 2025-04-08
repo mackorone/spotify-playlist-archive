@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,297 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,319 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 16 | [Little Man \(Proud Of You\)](https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Little Man \(Proud Of You\)](https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU) | 2:00 |
 | 17 | [MR\. SANDMAN](https://open.spotify.com/track/1Y2eoRAhwsjCKcdNnrZOzV) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [MR\. SANDMAN](https://open.spotify.com/album/5DGMidRNgao4B4iJNW6gAb) | 2:25 |
 | 18 | [Counting \- Sammy Virji Remix](https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Counting \(Sammy Virji Remix\)](https://open.spotify.com/album/2xgQT3uMk4sAalIAEsVG8n) | 3:34 |
-| 19 | [GETAWAY](https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao), [Ellis Moss](https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ) | [GETAWAY](https://open.spotify.com/album/6HtqNgGjK86kJ8orgIccpt) | 2:43 |
-| 20 | [Gunman](https://open.spotify.com/track/581XtO5wVBE75sIbhsi3E2) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [ATW007](https://open.spotify.com/album/5vWIMn3AuJsvAZoOQe0CQk) | 3:31 |
+| 19 | [Gunman](https://open.spotify.com/track/581XtO5wVBE75sIbhsi3E2) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [ATW007](https://open.spotify.com/album/5vWIMn3AuJsvAZoOQe0CQk) | 3:31 |
+| 20 | [GETAWAY](https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao), [Ellis Moss](https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ) | [GETAWAY](https://open.spotify.com/album/6HtqNgGjK86kJ8orgIccpt) | 2:43 |
 | 21 | [True](https://open.spotify.com/track/21SUW6VqiPSwSumXMPYQtz) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [True](https://open.spotify.com/album/4DZW1POsJE6ge80HXUfsfs) | 3:56 |
 | 22 | [Body Type](https://open.spotify.com/track/7iD8SlzwQB6zOVEA4wm3oN) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Body Type](https://open.spotify.com/album/6pteqWmVaX9tkjvzUbdmvG) | 2:12 |
 | 23 | [Moonlight](https://open.spotify.com/track/3gVks4tc3TzqQYdDCPj7f2) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Moonlight](https://open.spotify.com/album/4UPgkPHybekr5XezWaG8fE) | 5:46 |

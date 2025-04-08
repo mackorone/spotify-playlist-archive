@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 ### [Soul 'n' the City](https://open.spotify.com/playlist/37i9dQZF1DWSXWSaQmvWOB)
 
-> New soul\-infused music! Cover: Jalen Ngonda
+> New soul\-infused music! Cover: Ben l'Oncle Soul
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,289 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,323 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Just As Long As We're Together](https://open.spotify.com/track/6uAt2PE7YB5gHeCAFeD7G6) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just As Long As We're Together](https://open.spotify.com/album/2q05Sy95Dj43lDHqXANajn) | 3:14 |
-| 2 | [Give Us Some Time](https://open.spotify.com/track/1rVAuA1iGNTOUOLbLg0HtS) | [AMANZI](https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4) | [AMANZI](https://open.spotify.com/album/1KCg6ZTO1YMCRqjJecxXPS) | 3:12 |
-| 3 | [I GØT HOME](https://open.spotify.com/track/5VxqabAotndQmMTlsWrNS7) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [I GØT HOME](https://open.spotify.com/album/1i9dFWQahF4K6IbUCopjFS) | 2:16 |
+| 1 | [I GØT HOME](https://open.spotify.com/track/5VxqabAotndQmMTlsWrNS7) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [I GØT HOME](https://open.spotify.com/album/1i9dFWQahF4K6IbUCopjFS) | 2:16 |
+| 2 | [Just As Long As We're Together](https://open.spotify.com/track/6uAt2PE7YB5gHeCAFeD7G6) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just As Long As We're Together](https://open.spotify.com/album/2q05Sy95Dj43lDHqXANajn) | 3:14 |
+| 3 | [Give Us Some Time](https://open.spotify.com/track/1rVAuA1iGNTOUOLbLg0HtS) | [AMANZI](https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4) | [AMANZI](https://open.spotify.com/album/1KCg6ZTO1YMCRqjJecxXPS) | 3:12 |
 | 4 | [The Way](https://open.spotify.com/track/0qsbY9Jx0uqIs4QxhX0pLd) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [The Way](https://open.spotify.com/album/0SdP6YpDHTyVlSjkgBQJvZ) | 3:01 |
 | 5 | [Twice as nice](https://open.spotify.com/track/1xsqObyeie9HpnpwKfLsbr) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Let Love Run These Streets](https://open.spotify.com/album/2jx4iOLwvICnrahCOXhdvY) | 4:10 |
 | 6 | [Been So Long](https://open.spotify.com/track/2VNxBDZwqkEjUhik7ADY1g) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Been So Long](https://open.spotify.com/album/6Qg0fXUJBLbzE2OBcTIXfd) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 99 | [Lay Down On Me](https://open.spotify.com/track/2cwbam2veKyxOtBaAxJb5u) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Lay Down On Me](https://open.spotify.com/album/37ZtO2XORqbU9ZpGc8XtXW) | 3:02 |
 | 100 | [Dangerous](https://open.spotify.com/track/268djBQRIo7zHIsVwuCuCd) | [Rik Mol](https://open.spotify.com/artist/6r2GlGO2PIi6TRfcfl3TJF) | [Dangerous](https://open.spotify.com/album/6shbJqgLaUAfzNU7alGP1j) | 3:06 |
 
-Snapshot ID: `Z+8TCgAAAADEHSwhlVYi3WALt6dCOlnY`
+Snapshot ID: `Z/OzIQAAAAByGWZXVKD+j0yc+bPVSRJ6`

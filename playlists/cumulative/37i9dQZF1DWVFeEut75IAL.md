@@ -4,7 +4,7 @@
 
 > The most calming classical music.
 
-178 songs - 11 hr 40 min
+179 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Communion](https://open.spotify.com/track/2wzELGqAgBigmgI0VdkRnx) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Communion](https://open.spotify.com/album/1gcVNPFNem5Pe5TCcLNwtj) | 4:15 | 2024-03-15 | 2024-07-20 |
 | [Comptine d'un autre été : L'Après\-midi \(Arr\. for Guitar by Sérgio Assad\) \- From "Amélie"](https://open.spotify.com/track/11mMxszI9b0Q7THI49jbkE) | [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [Cinema](https://open.spotify.com/album/4b4nboVDurZKBFzaL9lJdS) | 3:36 | 2024-07-23 |  |
 | [Concerto en ré mineur, BWV 974: II\. Adagio](https://open.spotify.com/track/3CkbfNMYISwMGg2guJtTe4) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Alexandre Tharaud: Baroque](https://open.spotify.com/album/43QScdpgNzcF9vw3dcSWmn) | 4:13 | 2022-07-22 | 2024-04-19 |
+| [Concerto for Clarinet and Orchestra in A Major, K\. 622: II\. Adagio](https://open.spotify.com/track/37OKSGvgkVFZzZg8ip6Z8w) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Alan Gilbert](https://open.spotify.com/artist/50qd7mKJ6SenQX15s6Fk0o), [Wenzel Fuchs](https://open.spotify.com/artist/0ynq9dY0UMbnPaV6Eg93V0) | [Mozart: Concerto for Clarinet and Orchestra in A Major, K\. 622, II\. Adagio](https://open.spotify.com/album/5lVpqdphsuwj66PEEdDX6v) | 7:02 | 2025-04-07 |  |
 | [Concerto for Lute, 2 Violins and Continuo in D major, RV 93: 2\. Largo \(Arr\. for Guitar\)](https://open.spotify.com/track/42LRjYQYJeogQINxQo0BcJ) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Eduardo Fernandez](https://open.spotify.com/artist/2nZNjnN8m5yQHvatKBCHIf), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF), [George Malcolm](https://open.spotify.com/artist/5ccyh1kIfmtUfJf4d5wchx) | [Giuliani & Vivaldi: Guitar Concertos](https://open.spotify.com/album/5mJUEg7X66N27nkv2MRlJr) | 5:08 | 2021-11-15 | 2022-04-13 |
 | [Concerto in D Major, Op\. 77: II\. Adagio](https://open.spotify.com/track/0HVX7Itc5H4CnOZP8683Km) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Francesca Dego](https://open.spotify.com/artist/3yb6cUrMO05D2GrrUW8lde), [BBC Symphony Orchestra](https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO), [Dalia Stasevska](https://open.spotify.com/artist/12EHoI6DNDCus6Vte4WopP) | [Brahms & Busoni Violin Concertos](https://open.spotify.com/album/192CqdyyKrnFuO8U3E0nYZ) | 8:41 | 2024-03-01 |  |
 | [Concerto in D Minor, BWV 974: II\. Adagio \(After Marcello\)](https://open.spotify.com/track/6Jw84k8V43OH4rOP3RJg1F) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m), [Azul Lima](https://open.spotify.com/artist/4yFp2S4pGvGLXyNct6e2Q3) | [Venice](https://open.spotify.com/album/1NpDsdlLsF9LjjdapSYmnz) | 3:25 | 2024-02-08 |  |

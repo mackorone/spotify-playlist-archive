@@ -1,6 +1,6 @@
 {
   "description": "Easy listening for a comfortable drive.",
-  "num_followers": 253451,
+  "num_followers": 253567,
   "original_name": "Mellow Drive",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
+        "name": "Back from the Edge",
+        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 211466,
+      "name": "Say You Won't Let Go",
+      "url": "https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
         "name": "The Truth About Love",
         "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 242733,
       "name": "Just Give Me a Reason (feat. Nate Ruess)",
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
-        "name": "Back from the Edge",
-        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 211466,
-      "name": "Say You Won't Let Go",
-      "url": "https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Songs About Jane: 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "This Love",
-      "url": "https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 215733,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Songs About Jane: 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Songs About Jane: 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 259453,
-      "name": "She Will Be Loved - Radio Mix",
-      "url": "https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "The Diary Of Alicia Keys",
         "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 296800,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Songs About Jane: 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 259453,
+      "name": "She Will Be Loved - Radio Mix",
+      "url": "https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Coco",
-        "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
+        "name": "America Town",
+        "url": "https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY"
       },
       "artists": [
         {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+          "name": "Five For Fighting",
+          "url": "https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA"
         }
       ],
-      "duration_ms": 196280,
-      "name": "Bubbly",
-      "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
+      "duration_ms": 221693,
+      "name": "Superman (It's Not Easy)",
+      "url": "https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "America Town",
-        "url": "https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY"
+        "name": "Coco",
+        "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
       },
       "artists": [
         {
-          "name": "Five For Fighting",
-          "url": "https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA"
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
         }
       ],
-      "duration_ms": 221693,
-      "name": "Superman (It's Not Easy)",
-      "url": "https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp"
+      "duration_ms": 196280,
+      "name": "Bubbly",
+      "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
+        "name": "Some Type of Love",
+        "url": "https://open.spotify.com/album/5t4A7Loq1pKRFlkBOs1O2O"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 190453,
+      "name": "Marvin Gaye (feat. Meghan Trainor)",
+      "url": "https://open.spotify.com/track/6ukMqDxnOPOgoHdak7Kyp3"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
         "name": "Some Mad Hope",
         "url": "https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu"
       },
@@ -1299,26 +1319,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Some Type of Love",
-        "url": "https://open.spotify.com/album/5t4A7Loq1pKRFlkBOs1O2O"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        },
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 190453,
-      "name": "Marvin Gaye (feat. Meghan Trainor)",
-      "url": "https://open.spotify.com/track/6ukMqDxnOPOgoHdak7Kyp3"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "To Be Loved",
         "url": "https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07"
       },
@@ -1331,22 +1331,6 @@
       "duration_ms": 199266,
       "name": "It's a Beautiful Day",
       "url": "https://open.spotify.com/track/0mvkwaZMP2gAy2ApQLtZRv"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
-        "name": "Rude",
-        "url": "https://open.spotify.com/album/2Qm9AzJHWLG9vbJCeXRaAW"
-      },
-      "artists": [
-        {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
-        }
-      ],
-      "duration_ms": 224773,
-      "name": "Rude",
-      "url": "https://open.spotify.com/track/3tCwjWLicbjsMCvXhN0WOE"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1367,6 +1351,22 @@
       "duration_ms": 149706,
       "name": "City Of Stars - From \"La La Land\" Soundtrack",
       "url": "https://open.spotify.com/track/6XQHlsNu6so4PdglFkJQRJ"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Rude",
+        "url": "https://open.spotify.com/album/2Qm9AzJHWLG9vbJCeXRaAW"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "duration_ms": 224773,
+      "name": "Rude",
+      "url": "https://open.spotify.com/track/3tCwjWLicbjsMCvXhN0WOE"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "The Blessed Unrest",
-        "url": "https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 218573,
-      "name": "I Choose You",
-      "url": "https://open.spotify.com/track/7jJH8F3PHlNvxfqEAAfFDl"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "I And Love And You",
         "url": "https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 300840,
       "name": "I And Love And You",
       "url": "https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "The Blessed Unrest",
+        "url": "https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 218573,
+      "name": "I Choose You",
+      "url": "https://open.spotify.com/track/7jJH8F3PHlNvxfqEAAfFDl"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Foreword",
-        "url": "https://open.spotify.com/album/44D28vK3JSIQ7oQNAfoeBD"
-      },
-      "artists": [
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        }
-      ],
-      "duration_ms": 197846,
-      "name": "Dear No One",
-      "url": "https://open.spotify.com/track/2wWboDFZJPWXVNlHUbdSVQ"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Atlantic 60th: Soul, Sweat And Strut",
         "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 166826,
       "name": "(Sittin' On) the Dock of the Bay",
       "url": "https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Foreword",
+        "url": "https://open.spotify.com/album/44D28vK3JSIQ7oQNAfoeBD"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "duration_ms": 197846,
+      "name": "Dear No One",
+      "url": "https://open.spotify.com/track/2wWboDFZJPWXVNlHUbdSVQ"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -3239,22 +3239,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/2Jg7JZ0ZXOGje1bkq7CVgK"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5Db9VIdDsN5yu3Eu7CT0i4"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Up from Below",
         "url": "https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32"
       },
@@ -3267,6 +3251,22 @@
       "duration_ms": 303200,
       "name": "Home",
       "url": "https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/2Jg7JZ0ZXOGje1bkq7CVgK"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5Db9VIdDsN5yu3Eu7CT0i4"
     },
     {
       "added_at": "2024-07-05 23:01:26",

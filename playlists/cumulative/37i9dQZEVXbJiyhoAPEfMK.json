@@ -3962,7 +3962,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-06",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -13608,7 +13608,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -17402,7 +17402,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 204768,
       "name": "EoO",
       "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
@@ -49716,7 +49716,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 165978,
       "name": "SOIS PAS TIMIDE",
       "url": "https://open.spotify.com/track/1sccu8ze6ETRiNbNH9pj5N"
@@ -56720,7 +56720,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-04",
+      "date_removed": null,
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -58324,6 +58324,24 @@
       "duration_ms": 150610,
       "name": "Wazabi Gang",
       "url": "https://open.spotify.com/track/3gyTiHJjHACw97nwhWx4fn"
+    },
+    {
+      "album": {
+        "name": "Walking On A Dream",
+        "url": "https://open.spotify.com/album/3qFui1PcteHFky44CeUflG"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267354,
+      "name": "We Are The People",
+      "url": "https://open.spotify.com/track/0rhoLQVFCojDGFyl0nsdVZ"
     },
     {
       "album": {

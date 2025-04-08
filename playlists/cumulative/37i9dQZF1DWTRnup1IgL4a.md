@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-294 songs - 12 hr 33 min
+295 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,10 +21,10 @@
 | [All Is Calm](https://open.spotify.com/track/0CBLqVCOalzlHumLvX0IEd) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [All Is Calm](https://open.spotify.com/album/1D4gPj0UQbdxBvPYdb0qcO) | 1:15 | 2022-07-01 | 2023-01-20 |
 | [AM](https://open.spotify.com/track/3LeQBzk5JpoUJbQ6p2WQEJ) | [Daniela Rusinda](https://open.spotify.com/artist/1OAU4WkqW7J1JtssReHRd0) | [AM](https://open.spotify.com/album/6f5nSiGBUmjnFs12rMVbCy) | 1:49 | 2022-12-09 | 2023-03-18 |
 | [Amalie](https://open.spotify.com/track/4tBduWZZ2toaLm1rfJ4Ju0) | [Lane Westland](https://open.spotify.com/artist/2SQWcfUh4dpLWj5J72YdAH) | [Amalie](https://open.spotify.com/album/0uK2lE2FMY1FK0nTHXoLXe) | 3:13 | 2021-12-09 |  |
-| [Amanda's dream](https://open.spotify.com/track/410wWW3Ng4O5qMGECf1zLk) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Amanda's dream](https://open.spotify.com/album/4zoOiGW5M19UdcoBKJ9cIq) | 1:24 | 2024-05-03 |  |
+| [Amanda's dream](https://open.spotify.com/track/410wWW3Ng4O5qMGECf1zLk) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Amanda's dream](https://open.spotify.com/album/4zoOiGW5M19UdcoBKJ9cIq) | 1:24 | 2024-05-03 | 2025-04-08 |
 | [Any Day Now](https://open.spotify.com/track/1nQc7JxHc1cg1hPVqCnQ04) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Any Day Now](https://open.spotify.com/album/3PLBn83wOzdXLaJBej3kuX) | 2:56 | 2023-04-28 | 2023-06-09 |
 | [Apricus](https://open.spotify.com/track/1Qx9oBeA9rFB67iVBmykMN) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Apricus](https://open.spotify.com/album/5qZtRNKynn3NSGfe76wNWG) | 2:45 | 2024-04-19 |  |
-| [April Snow](https://open.spotify.com/track/32dB0ESIxhqJHS5d2XExmO) | [Leo Ek](https://open.spotify.com/artist/0X9FoBNRpQYrWqcDPVBtRm) | [April Snow](https://open.spotify.com/album/4v2KKu2YVfketVBSLq2jQl) | 1:43 | 2024-05-24 |  |
+| [April Snow](https://open.spotify.com/track/32dB0ESIxhqJHS5d2XExmO) | [Leo Ek](https://open.spotify.com/artist/0X9FoBNRpQYrWqcDPVBtRm) | [April Snow](https://open.spotify.com/album/4v2KKu2YVfketVBSLq2jQl) | 1:43 | 2024-05-24 | 2025-04-08 |
 | [Arrow Point Port](https://open.spotify.com/track/06RkpwK6SqE0CWNM3lOvmZ) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [Arrow Point Port](https://open.spotify.com/album/69rrbdsxBJmEegJZLc63Zz) | 1:53 | 2022-08-19 | 2023-08-26 |
 | [Arroyos Y Valles](https://open.spotify.com/track/3deEZxzspdmQ8HmcGLhhOK) | [Xavier Suarez](https://open.spotify.com/artist/4qxGMBS25xDymfWz3kkKOE) | [Arroyos Y Valles](https://open.spotify.com/album/7mMinee1Kiy1lxSjs1beRc) | 2:38 | 2022-10-07 |  |
 | [Au Revoir](https://open.spotify.com/track/205qtb3ouMjfPrvxiqBG5v) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Au revoir](https://open.spotify.com/album/3cMpbmbHDRFojvimdEOIlV) | 1:44 | 2022-07-08 | 2023-08-26 |
@@ -131,6 +131,7 @@
 | [Intergalactic Peace](https://open.spotify.com/track/0EAmMrdgLaPNTc5yM12B6w) | [G\. Samuelsson](https://open.spotify.com/artist/6deDKTj0xS9JYvmDrgzSPn) | [Intergalactic Peace](https://open.spotify.com/album/0yhcTV4RCWZxk94BsxDYv4) | 3:24 | 2024-06-21 |  |
 | [Into The Blue](https://open.spotify.com/track/6Lar44lBB2POrKh3B58qXl) | [Michael Blaese](https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq) | [Into The Blue](https://open.spotify.com/album/7xjfyKbOPYJeLgCQ2LGTy0) | 3:56 | 2022-10-07 | 2023-12-15 |
 | [Introspection](https://open.spotify.com/track/2cZJIUh0N1GkzZr3YjL5zN) | [Ron Well](https://open.spotify.com/artist/3SEmNWyAadupLPO2WOcw0W) | [Introspection](https://open.spotify.com/album/2y68AHyHcrTlqtbsAINzbo) | 2:42 | 2023-01-20 |  |
+| [Just Between Us](https://open.spotify.com/track/40qwl5MmhYasmV2yJtqWAQ) | [Mattias Blom](https://open.spotify.com/artist/1BaxgJpBm81CBBpUhRnVO9) | [Just Between Us](https://open.spotify.com/album/7tYdxSv7POPsdMVWEONPJ5) | 2:06 | 2025-04-07 |  |
 | [Kalon](https://open.spotify.com/track/3kVLbsa0LduXAdna4E8VI6) | [Jose Luis Minguez](https://open.spotify.com/artist/6SGQqtwYmt7PRq59A3N0kY) | [Kalon](https://open.spotify.com/album/3lfOzzTyavf27SUAy3zyss) | 2:22 | 2022-09-16 | 2023-03-18 |
 | [Keep On Moving](https://open.spotify.com/track/5tJ57yb6Q9PfJI3CBqeKNl) | [Michael Blaese](https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq) | [Keep On Moving](https://open.spotify.com/album/596VrDMDmG48YKdcAnSvm9) | 1:36 | 2023-03-17 | 2023-08-11 |
 | [Kinderszenen, Op\. 15: No\. 7, Träumerei \(Arr\. for Guitar Solo\)](https://open.spotify.com/track/1JiY9LLalnplQAxweTXTUt) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Luise Walker](https://open.spotify.com/artist/3AYcgtMYsOooZwBF6vI4XI) | [Segovia & Contemporaries, Vol\. 3: Luise Walker](https://open.spotify.com/album/2O9whRvwQ5Mdq0T3q2lMP3) | 2:51 | 2021-12-09 | 2023-08-31 |
@@ -169,7 +170,7 @@
 | [Moinhos de Vento](https://open.spotify.com/track/52614dZTEBCtg0SKV3Z45z) | [Raphaella Dominga](https://open.spotify.com/artist/3T2kkpx0Wn93vlxjaMnq81) | [Moinhos de Vento](https://open.spotify.com/album/2p7tpI6QcAlnCLzuG60ES4) | 2:44 | 2021-12-09 | 2024-05-24 |
 | [Moments Like This](https://open.spotify.com/track/2R5OUBm0m9mbXfHaMpCGgD) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [Break Of Day](https://open.spotify.com/album/1izp4JeZb5r3bPSIQVCv0o) | 2:33 | 2021-12-09 | 2022-05-27 |
 | [Mond Stille](https://open.spotify.com/track/4R5W9Oq91uYpal40VdTGTl) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Mond Stille](https://open.spotify.com/album/3Uil3hqZzTEUHRVZ9aBE9Y) | 2:51 | 2022-08-19 |  |
-| [More Human](https://open.spotify.com/track/4A0JgmSpjwZbN5plH0JDzg) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [More Human](https://open.spotify.com/album/445YVx7F9QnBhN21h8FNRl) | 3:03 | 2025-02-24 |  |
+| [More Human](https://open.spotify.com/track/4A0JgmSpjwZbN5plH0JDzg) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [More Human](https://open.spotify.com/album/445YVx7F9QnBhN21h8FNRl) | 3:03 | 2025-02-24 | 2025-04-08 |
 | [Morning Sunshine](https://open.spotify.com/track/5rsWf7mkphWxE4cssWhRxM) | [Patrick Leon](https://open.spotify.com/artist/7EU9C8bv0IKb2lRUxzhAXO) | [Morning Sunshine](https://open.spotify.com/album/0JFar9Iob4H6VNpItVj5oS) | 1:56 | 2024-06-07 | 2024-07-18 |
 | [Murmur](https://open.spotify.com/track/0P24CykJ6WxN5WxgRYiTA2) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Murmur](https://open.spotify.com/album/6vh2k6aGdFOJoCecp8qlhh) | 2:55 | 2021-12-09 | 2023-03-18 |
 | [My Lily](https://open.spotify.com/track/6CK7lYN56EyRiNbBCJd5MH) | [Astrid Everdahl](https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz) | [My Lily](https://open.spotify.com/album/4hOTsk6CmC7ND7WLccFf7N) | 2:23 | 2022-10-14 |  |
@@ -225,7 +226,7 @@
 | [Signum](https://open.spotify.com/track/70Z6rUWqzQha0RMFcyJIiJ) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Signum](https://open.spotify.com/album/49dELtri6eKyk7Dq2zIqQB) | 2:35 | 2022-08-12 | 2024-07-18 |
 | [Silent Ridge](https://open.spotify.com/track/6kVuf8HWMytcy6LHMfXxyG) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Silent Ridge](https://open.spotify.com/album/18I4PeFcnSBgm77OKMdGdy) | 2:33 | 2025-01-13 |  |
 | [Silent Solitude](https://open.spotify.com/track/2du2s6ogKrsGQ22p2NlRhl) | [Wanderer's Trove](https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1) | [Silent Solitude](https://open.spotify.com/album/59LQA9efBHSC1chERqC74o) | 2:33 | 2024-08-08 |  |
-| [Silhouette Skies](https://open.spotify.com/track/78C9AYb8YTvptbLb5BxK8U) | [Enzo Costa](https://open.spotify.com/artist/08bZKTxSPaQAvmzc5YvDAQ) | [Silhouette Skies](https://open.spotify.com/album/5fUeEN4zSwvSAUDGCpdekb) | 2:39 | 2025-01-20 |  |
+| [Silhouette Skies](https://open.spotify.com/track/78C9AYb8YTvptbLb5BxK8U) | [Enzo Costa](https://open.spotify.com/artist/08bZKTxSPaQAvmzc5YvDAQ) | [Silhouette Skies](https://open.spotify.com/album/5fUeEN4zSwvSAUDGCpdekb) | 2:39 | 2025-01-20 | 2025-04-08 |
 | [Sirène](https://open.spotify.com/track/5Jn40Qnf4EwXEdpJbJeX7y) | [Yanis Bernard](https://open.spotify.com/artist/3WCrMlMMPdM3jS5GsWyXlC) | [Sirène](https://open.spotify.com/album/1OAOGMX9WGCcf61JhhPHn3) | 2:48 | 2021-12-09 | 2022-04-06 |
 | [Slaap Niet Meer](https://open.spotify.com/track/17zkvQZwuaKdZkSyR1MmV3) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Slaap Niet Meer](https://open.spotify.com/album/2ZyTh0oFrwe5HhUUKPQmw4) | 2:27 | 2022-09-02 |  |
 | [Sleeping Petals](https://open.spotify.com/track/1ySgmcM7rIXu5QbVr17F61) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Sleeping Petals](https://open.spotify.com/album/5vIEQ4I8N1Nowe6s25HWL4) | 2:21 | 2024-05-24 |  |
@@ -275,7 +276,7 @@
 | [Tranquille](https://open.spotify.com/track/2aSvGgyhVRgQYDzhBbWJ51) | [Cordell Zoe](https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc) | [Tranquille](https://open.spotify.com/album/6QYtL1c2hj8S0EcBpFbNYP) | 2:50 | 2022-06-10 |  |
 | [Transcriptions](https://open.spotify.com/track/3ATzG4vitn9sofXnijDnC4) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Transcriptions](https://open.spotify.com/album/3hupzNirqWswKUEO17rz6s) | 2:50 | 2024-05-03 |  |
 | [Traveling Memories](https://open.spotify.com/track/3LnTONDMXfR3DW2hiWuQy8) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Traveling Memories](https://open.spotify.com/album/1QExmNDBcvbcE2LFytL2vp) | 2:21 | 2022-10-28 | 2023-04-29 |
-| [Under the moon](https://open.spotify.com/track/1eqiRWOIfG4Y4D6JTrUN1C) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Under the moon](https://open.spotify.com/album/4D4G7DbuDRMUbrIHvbJJNi) | 1:47 | 2024-05-03 |  |
+| [Under the moon](https://open.spotify.com/track/1eqiRWOIfG4Y4D6JTrUN1C) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Under the moon](https://open.spotify.com/album/4D4G7DbuDRMUbrIHvbJJNi) | 1:47 | 2024-05-03 | 2025-04-08 |
 | [Under the Stars](https://open.spotify.com/track/4hBZeB6q56Jzq3wDh1MuPF) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Under the Stars](https://open.spotify.com/album/51EkjvbQPcZksWNjfrUi91) | 2:16 | 2023-02-24 |  |
 | [Underling](https://open.spotify.com/track/04GCX56L2mtzmoQviPUYqO) | [Vincent Shaub](https://open.spotify.com/artist/1xwN2rlkEDeCMi5w2SB6Kk) | [Underling](https://open.spotify.com/album/7fr39Jc2cRvvH0jrcwIhed) | 2:47 | 2021-12-09 |  |
 | [Undisclosed](https://open.spotify.com/track/4dhFpcYkC1ZPoWOZk8vibv) | [Cécile Rose](https://open.spotify.com/artist/2j8mNHrkExvwIQGsEdsTcP) | [Undisclosed](https://open.spotify.com/album/5aEic1eQ20DIc4ZJ9QyA6U) | 2:09 | 2022-12-16 |  |

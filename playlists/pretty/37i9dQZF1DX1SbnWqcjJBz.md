@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 
 > this should have been her espresso<br/><br/>See also: <a href="spotify:playlist:37i9dQZF1DX7YE2tQ4q86h">OBSESSED</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,541 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,575 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 60 | [Heart to Break](https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Heart to Break](https://open.spotify.com/album/1EIqxxK1683sjRXjx2MXyD) | 3:45 |
 | 61 | [Dirty Talk](https://open.spotify.com/track/0MX8RxbgtZWRGZRE0Z6zNS) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [With The Music I Die \(Deluxe\)](https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4) | 3:17 |
 | 62 | [Holler](https://open.spotify.com/track/1NwDWbpg9dPH12xBd2ibrv) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Forever](https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh) | 4:15 |
-| 63 | [Daddy AF](https://open.spotify.com/track/5Pj9iXYfe607U62YwSF5rC) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Daddy AF](https://open.spotify.com/album/3GWdoCGEZLjrsofidLFwgV) | 2:31 |
-| 64 | [Upside Down](https://open.spotify.com/track/3lfLAToNl2Ibcuo9U6UTSd) | [A\*Teens](https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9) | [Teen Spirit](https://open.spotify.com/album/4Puwtzbl10V90RTsk8XzWF) | 3:17 |
+| 63 | [Upside Down](https://open.spotify.com/track/3lfLAToNl2Ibcuo9U6UTSd) | [A\*Teens](https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9) | [Teen Spirit](https://open.spotify.com/album/4Puwtzbl10V90RTsk8XzWF) | 3:17 |
+| 64 | [Daddy AF](https://open.spotify.com/track/5Pj9iXYfe607U62YwSF5rC) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Daddy AF](https://open.spotify.com/album/3GWdoCGEZLjrsofidLFwgV) | 2:31 |
 | 65 | [Cherry \(feat\. Hayley Kiyoko\)](https://open.spotify.com/track/1o9kTjiWJ5lTgKonUK6jAU) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Cherry \(feat\. Hayley Kiyoko\)](https://open.spotify.com/album/1h0qJIukGxKxxG4lfT0UOf) | 2:32 |
 | 66 | [Move in the Right Direction](https://open.spotify.com/track/4hjfOnzzrrrDAGt286htU6) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [A Joyful Noise](https://open.spotify.com/album/6AKGyIfiwcptAUUzLDB0Gd) | 3:31 |
 | 67 | [What I Need \(feat\. Kehlani\)](https://open.spotify.com/track/5nFyaoBWwwMJ9fv33tZ2MB) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:39 |

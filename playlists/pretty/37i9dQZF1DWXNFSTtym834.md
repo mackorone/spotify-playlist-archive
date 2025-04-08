@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 
 > The biggest metal songs of the 2000s\. Cover: Bullet For My Valentine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,295,714 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,295,778 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,18 +77,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 67 | [Murmaider](https://open.spotify.com/track/5ghMfHMHakVS0omjj2cBSA) | [Metalocalypse: Dethklok](https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8) | [The Dethalbum](https://open.spotify.com/album/6YVSzU89AisNDfVK4HUt69) | 3:24 |
 | 68 | [Linchpin](https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Digimortal](https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN) | 3:24 |
 | 69 | [Nemesis](https://open.spotify.com/track/27sTzAelgljD6Uxp88BqA3) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 4:12 |
-| 70 | [Guardians Of Asgaard](https://open.spotify.com/track/2DR9AzDhYeStkHupvU08FC) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Twilight Of The Thunder God](https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz) | 4:23 |
-| 71 | [Bleed It Out](https://open.spotify.com/track/78gsvivelCP8Kh0tSRTy8D) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/7pgs38iLfEqUtwgCRgvbND) | 2:44 |
+| 70 | [Bleed It Out](https://open.spotify.com/track/78gsvivelCP8Kh0tSRTy8D) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/7pgs38iLfEqUtwgCRgvbND) | 2:44 |
+| 71 | [Guardians Of Asgaard](https://open.spotify.com/track/2DR9AzDhYeStkHupvU08FC) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Twilight Of The Thunder God](https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz) | 4:23 |
 | 72 | [Inis Mona](https://open.spotify.com/track/1KmeyQfVjX1odybN9aEfWt) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Slania](https://open.spotify.com/album/4UEyHAjtjEs3JNjR4NyyMJ) | 4:09 |
 | 73 | [mOBSCENE](https://open.spotify.com/track/1YVuJrfHHmD4ilULhAVqPW) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [The Golden Age Of Grotesque](https://open.spotify.com/album/3KExM8E3KgpsS2bHVSJzTc) | 3:25 |
 | 74 | [The art of dying](https://open.spotify.com/track/7iMQChXFK33TS49QWhE4tt) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The way of all flesh](https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2) | 9:54 |
 | 75 | [I Will Be Heard](https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Perseverance](https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG) | 2:58 |
 | 76 | [Right Side Of The Bed](https://open.spotify.com/track/2cxbNLOKc9CtQ7hcH88ma3) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Curse \(Deluxe Edition\)](https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL) | 3:42 |
-| 77 | [The Pursuit Of Vikings](https://open.spotify.com/track/0sObxZUKqdPfgjG9ahSlP5) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Fate of Norns](https://open.spotify.com/album/6eQNR9fAkQUFiIwJOVLt8N) | 4:30 |
-| 78 | [Enjoy the Silence \- cover version](https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 4:05 |
+| 77 | [Enjoy the Silence \- cover version](https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 4:05 |
+| 78 | [Bloodline](https://open.spotify.com/track/27uDL5cAoMijxbDLfaz9Xv) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [God Hates Us All](https://open.spotify.com/album/3MuaoZgcAFuanhg04e75LK) | 3:36 |
 | 79 | [Rasputin](https://open.spotify.com/track/0W43LnKXzRivi0WPaoBLVO) | [Turisas](https://open.spotify.com/artist/0ykT1si9XRFPmEvWOnf4YI) | [Rasputin](https://open.spotify.com/album/5nUmL2EDOT3uoZQJOC2kYC) | 3:53 |
-| 80 | [Bloodline](https://open.spotify.com/track/27uDL5cAoMijxbDLfaz9Xv) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [God Hates Us All](https://open.spotify.com/album/3MuaoZgcAFuanhg04e75LK) | 3:36 |
-| 81 | [As I Am](https://open.spotify.com/track/6hz6lrQtLcxOOjflnYjF9o) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Train of Thought](https://open.spotify.com/album/1yAbzShRcY4muLKsX8UWxj) | 7:47 |
+| 80 | [As I Am](https://open.spotify.com/track/6hz6lrQtLcxOOjflnYjF9o) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Train of Thought](https://open.spotify.com/album/1yAbzShRcY4muLKsX8UWxj) | 7:47 |
+| 81 | [The Pursuit Of Vikings](https://open.spotify.com/track/0sObxZUKqdPfgjG9ahSlP5) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Fate of Norns](https://open.spotify.com/album/6eQNR9fAkQUFiIwJOVLt8N) | 4:30 |
 | 82 | [Nymphetamine Fix](https://open.spotify.com/track/6WuqJLVZcyJklg7lIozAO8) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Nymphetamine Special Edition](https://open.spotify.com/album/0e5cBxKWQYe52fyu23P01P) | 5:02 |
 | 83 | [Step Up](https://open.spotify.com/track/4Q1w4Ryyi8KNxxaFlOQClK) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Desensitized](https://open.spotify.com/album/2rLw6qyXE3fx4abX8acmhy) | 3:17 |
 | 84 | [Destroy Everything](https://open.spotify.com/track/501CSzS4gwNOJnlWHuBt9r) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Supremacy](https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky) | 3:29 |

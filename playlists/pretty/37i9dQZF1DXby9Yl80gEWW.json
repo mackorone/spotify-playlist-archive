@@ -1,6 +1,6 @@
 {
   "description": "A taste of today's best bluegrass instrumentals. ",
-  "num_followers": 55682,
+  "num_followers": 55706,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Stealing Second",
-        "url": "https://open.spotify.com/album/63sHuqQ8uMSC6BTuOIp39I"
-      },
-      "artists": [
-        {
-          "name": "Chris Thile",
-          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
-        }
-      ],
-      "duration_ms": 192733,
-      "name": "Golden Pond",
-      "url": "https://open.spotify.com/track/2T0FSlZIf2IYtbH1y2DEvJ"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Watchhouse",
         "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 260863,
       "name": "Coming Down from Green Mountain",
       "url": "https://open.spotify.com/track/6mQ3VQn9TEZaIuzvnkQm2I"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Stealing Second",
+        "url": "https://open.spotify.com/album/63sHuqQ8uMSC6BTuOIp39I"
+      },
+      "artists": [
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        }
+      ],
+      "duration_ms": 192733,
+      "name": "Golden Pond",
+      "url": "https://open.spotify.com/track/2T0FSlZIf2IYtbH1y2DEvJ"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -487,6 +487,22 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
+        "name": "Fork In The Road",
+        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 288480,
+      "name": "No Resolution",
+      "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/0KclPgeyUzBKU4pic1to9z"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 243973,
       "name": "See Rock City",
       "url": "https://open.spotify.com/track/7k0NSUvHpFNcAaMff6ZdXu"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "Fork In The Road",
-        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 288480,
-      "name": "No Resolution",
-      "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -575,30 +575,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Lonesome Whistle",
-        "url": "https://open.spotify.com/album/70j39BrYZ8wglzYVvpPflz"
-      },
-      "artists": [
-        {
-          "name": "Mark Howard",
-          "url": "https://open.spotify.com/artist/7xn0dNayS3daHN5MrgmIrc"
-        },
-        {
-          "name": "Stuart Duncan",
-          "url": "https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2"
-        },
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        }
-      ],
-      "duration_ms": 166720,
-      "name": "City Of New Orleans - Instrumental",
-      "url": "https://open.spotify.com/track/2rrPQlivP17rTDAaRopUsE"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Songs For The Sparrows",
         "url": "https://open.spotify.com/album/4dRUKAQWlfGK9AlmsJlS78"
       },
@@ -619,6 +595,30 @@
       "duration_ms": 269733,
       "name": "Big Mountain",
       "url": "https://open.spotify.com/track/7AcJDi9pjGHLE1OMiWmLED"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Lonesome Whistle",
+        "url": "https://open.spotify.com/album/70j39BrYZ8wglzYVvpPflz"
+      },
+      "artists": [
+        {
+          "name": "Mark Howard",
+          "url": "https://open.spotify.com/artist/7xn0dNayS3daHN5MrgmIrc"
+        },
+        {
+          "name": "Stuart Duncan",
+          "url": "https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 166720,
+      "name": "City Of New Orleans - Instrumental",
+      "url": "https://open.spotify.com/track/2rrPQlivP17rTDAaRopUsE"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -911,6 +911,46 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
+        "name": "Spider on the Banjo",
+        "url": "https://open.spotify.com/album/5e7OPZmIzZVQO7xiFWD9W3"
+      },
+      "artists": [
+        {
+          "name": "The Steve Pettit Band",
+          "url": "https://open.spotify.com/artist/6LheT9oG6ZhkIAduxoijGV"
+        },
+        {
+          "name": "Andy Leftwich",
+          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
+        },
+        {
+          "name": "Cody Kilby",
+          "url": "https://open.spotify.com/artist/128a425UwZIlWs3LTWeRpP"
+        }
+      ],
+      "duration_ms": 272586,
+      "name": "Spider on the Banjo",
+      "url": "https://open.spotify.com/track/55OXI7lLQRoS9FhSw54CHC"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Americana Master Series: Best Of The Sugar Hill Years",
+        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 392200,
+      "name": "We Hide And Seek",
+      "url": "https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
         "name": "Get Lost",
         "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
       },
@@ -943,46 +983,6 @@
       "duration_ms": 156932,
       "name": "Blackberry Blossom",
       "url": "https://open.spotify.com/track/3rGzzWcBktMg6x1yyTiTLA"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "Americana Master Series: Best Of The Sugar Hill Years",
-        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
-      },
-      "artists": [
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 392200,
-      "name": "We Hide And Seek",
-      "url": "https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "Spider on the Banjo",
-        "url": "https://open.spotify.com/album/5e7OPZmIzZVQO7xiFWD9W3"
-      },
-      "artists": [
-        {
-          "name": "The Steve Pettit Band",
-          "url": "https://open.spotify.com/artist/6LheT9oG6ZhkIAduxoijGV"
-        },
-        {
-          "name": "Andy Leftwich",
-          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
-        },
-        {
-          "name": "Cody Kilby",
-          "url": "https://open.spotify.com/artist/128a425UwZIlWs3LTWeRpP"
-        }
-      ],
-      "duration_ms": 272586,
-      "name": "Spider on the Banjo",
-      "url": "https://open.spotify.com/track/55OXI7lLQRoS9FhSw54CHC"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1051,38 +1051,18 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Marigold Hair",
-        "url": "https://open.spotify.com/album/494Hi8VBSjlfPs8a7BKKtZ"
+        "name": "Noam Pikelny Plays Kenny Baker Plays Bill Monroe",
+        "url": "https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP"
       },
       "artists": [
         {
-          "name": "David Brimer",
-          "url": "https://open.spotify.com/artist/668Oojl6P3J0BOUymsWnOh"
-        },
-        {
-          "name": "Mark Grundhoefer",
-          "url": "https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w"
+          "name": "Noam Pikelny",
+          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
         }
       ],
-      "duration_ms": 153622,
-      "name": "Marigold Hair",
-      "url": "https://open.spotify.com/track/4evoXHr5WuKuSWR7nAFAtD"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "Jubilation",
-        "url": "https://open.spotify.com/album/2pMmU3fvjvXpS8F7OhsDqh"
-      },
-      "artists": [
-        {
-          "name": "Appalachian Road Show",
-          "url": "https://open.spotify.com/artist/2QbK1N86iI11jUiRG2JgSM"
-        }
-      ],
-      "duration_ms": 179140,
-      "name": "Graveyard Fields",
-      "url": "https://open.spotify.com/track/1ONtkZXZZQSluHq68xq90p"
+      "duration_ms": 221706,
+      "name": "Stoney Lonesome",
+      "url": "https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1103,6 +1083,42 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
+        "name": "Jubilation",
+        "url": "https://open.spotify.com/album/2pMmU3fvjvXpS8F7OhsDqh"
+      },
+      "artists": [
+        {
+          "name": "Appalachian Road Show",
+          "url": "https://open.spotify.com/artist/2QbK1N86iI11jUiRG2JgSM"
+        }
+      ],
+      "duration_ms": 179140,
+      "name": "Graveyard Fields",
+      "url": "https://open.spotify.com/track/1ONtkZXZZQSluHq68xq90p"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Marigold Hair",
+        "url": "https://open.spotify.com/album/494Hi8VBSjlfPs8a7BKKtZ"
+      },
+      "artists": [
+        {
+          "name": "David Brimer",
+          "url": "https://open.spotify.com/artist/668Oojl6P3J0BOUymsWnOh"
+        },
+        {
+          "name": "Mark Grundhoefer",
+          "url": "https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w"
+        }
+      ],
+      "duration_ms": 153622,
+      "name": "Marigold Hair",
+      "url": "https://open.spotify.com/track/4evoXHr5WuKuSWR7nAFAtD"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
         "name": "Chasin' Skies",
         "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 158693,
       "name": "Chasin' Skies",
       "url": "https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "Noam Pikelny Plays Kenny Baker Plays Bill Monroe",
-        "url": "https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP"
-      },
-      "artists": [
-        {
-          "name": "Noam Pikelny",
-          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
-        }
-      ],
-      "duration_ms": 221706,
-      "name": "Stoney Lonesome",
-      "url": "https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Toward the Fray",
-        "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 301786,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "The View From Here",
         "url": "https://open.spotify.com/album/6AAVj79p20sOf0LKBeqZyQ"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 281386,
       "name": "Squirrelville",
       "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Toward the Fray",
+        "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 301786,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Concrete and Steel",
-        "url": "https://open.spotify.com/album/0T9mLuAz73gyFfAiyEBfCD"
-      },
-      "artists": [
-        {
-          "name": "Off the Rails",
-          "url": "https://open.spotify.com/artist/5IQJ1whqwZ6KxBfEhTwAQn"
-        }
-      ],
-      "duration_ms": 251047,
-      "name": "Concrete and Steel",
-      "url": "https://open.spotify.com/track/4py2tahEW31c0KfKIZFVE1"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Up in Bigfoot Country",
         "url": "https://open.spotify.com/album/0QSvfzBJuCws0VQIf7r4f4"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 195493,
       "name": "Up in Bigfoot Country",
       "url": "https://open.spotify.com/track/27QOxKWxwR1XmFjDuHyD4T"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Concrete and Steel",
+        "url": "https://open.spotify.com/album/0T9mLuAz73gyFfAiyEBfCD"
+      },
+      "artists": [
+        {
+          "name": "Off the Rails",
+          "url": "https://open.spotify.com/artist/5IQJ1whqwZ6KxBfEhTwAQn"
+        }
+      ],
+      "duration_ms": 251047,
+      "name": "Concrete and Steel",
+      "url": "https://open.spotify.com/track/4py2tahEW31c0KfKIZFVE1"
     },
     {
       "added_at": "2025-02-21 05:00:42",

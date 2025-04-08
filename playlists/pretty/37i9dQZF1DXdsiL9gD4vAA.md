@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Pankaj Udhas
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,292 likes - 75 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,323 likes - 75 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,12 +70,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 60 | [Tere Jane Se](https://open.spotify.com/track/5zfKHMv3fIwCdaz4H3f6Uz) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB), [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [Sunset Point](https://open.spotify.com/album/21LwESMM1kqVnuhxuArokv) | 6:01 |
 | 61 | [Parakhana Mat](https://open.spotify.com/track/6J3TdrT50xyN2BaYTSF2VF) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Aaeena](https://open.spotify.com/album/6Qs8oNyb6hc0GoUQfAbUe5) | 5:05 |
 | 62 | [Zikr](https://open.spotify.com/track/1XIlRRkIx6H3kcTrwO5RoX) | [Sharib Hashmi](https://open.spotify.com/artist/1MU1MnjAkAgRuLVwdajXPr) | [Zikr](https://open.spotify.com/album/7vaFZCYHyJsobB8E32m7Z8) | 2:50 |
-| 63 | [Pahle Dil Ko \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/track/3h6BgkcUhYK28dBs6Ta7iw) | [Meenal Jain](https://open.spotify.com/artist/0DoAmjaArtujfigIshqsj6) | [Pahle Dil Ko \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/album/3xTZsfjAsnNnELuRQYYFFZ) | 4:52 |
-| 64 | [Aankho Mein Raha](https://open.spotify.com/track/2FD9gvBqK3adif1uPLGJ5v) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Yaadein](https://open.spotify.com/album/7aXLKwwQu93yP2OFfKWZph) | 7:54 |
+| 63 | [Aankho Mein Raha](https://open.spotify.com/track/2FD9gvBqK3adif1uPLGJ5v) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Yaadein](https://open.spotify.com/album/7aXLKwwQu93yP2OFfKWZph) | 7:54 |
+| 64 | [Pahle Dil Ko \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/track/3h6BgkcUhYK28dBs6Ta7iw) | [Meenal Jain](https://open.spotify.com/artist/0DoAmjaArtujfigIshqsj6) | [Pahle Dil Ko \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/album/3xTZsfjAsnNnELuRQYYFFZ) | 4:52 |
 | 65 | [Agar Talash Karun](https://open.spotify.com/track/1YQOVnwr0DA9EotDneK265) | [Sougata Banerjee](https://open.spotify.com/artist/1eF9TwBnbfEFQZvC98Lg56) | [Agar Talash Karun](https://open.spotify.com/album/0x5Ikt5Z2cxhA23aEhSch6) | 6:30 |
 | 66 | [Is Nahin Ka](https://open.spotify.com/track/0NShVQ20TXqbOtGP3uCh8k) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB) | [Lafzon Ke Darmiyaan](https://open.spotify.com/album/26tlS3PKOEDi6yq6GQIKEE) | 4:34 |
-| 67 | [Samandar](https://open.spotify.com/track/2aAyT3c7fuLPMTYvkmiIYG) | [Sumeet Tappoo](https://open.spotify.com/artist/6xOOEKbsrxfFVJ1hsso3Zf), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Dil Pareshan Karta Hai](https://open.spotify.com/album/0QShTKNJ3BzzNkny1w2qu3) | 5:39 |
-| 68 | [Hai Isi Mein Pyar Ki Aabru](https://open.spotify.com/track/50BxNNhj65O32shF7cpKEn) | [Arpita Chakraborty](https://open.spotify.com/artist/37qkV6Tep5CIGcRk1hJJhk) | [Hai Isi Mein Pyar Ki Aabru \- Arpita Chakraborty](https://open.spotify.com/album/0HPrmIfIqqYpz3sumFDtGW) | 3:43 |
+| 67 | [Hai Isi Mein Pyar Ki Aabru](https://open.spotify.com/track/50BxNNhj65O32shF7cpKEn) | [Arpita Chakraborty](https://open.spotify.com/artist/37qkV6Tep5CIGcRk1hJJhk) | [Hai Isi Mein Pyar Ki Aabru \- Arpita Chakraborty](https://open.spotify.com/album/0HPrmIfIqqYpz3sumFDtGW) | 3:43 |
+| 68 | [Samandar](https://open.spotify.com/track/2aAyT3c7fuLPMTYvkmiIYG) | [Sumeet Tappoo](https://open.spotify.com/artist/6xOOEKbsrxfFVJ1hsso3Zf), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Dil Pareshan Karta Hai](https://open.spotify.com/album/0QShTKNJ3BzzNkny1w2qu3) | 5:39 |
 | 69 | [Khudaayaa](https://open.spotify.com/track/1a6DsCiooKH1PLKP6eDOAE) | [Avra Banerjee](https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH) | [Khudaayaa](https://open.spotify.com/album/4bATha5n5JjVwlrxxt5sbZ) | 4:56 |
 | 70 | [Vo Haseen Raat](https://open.spotify.com/track/0oww8BfxxmCAoIxK7OTPxw) | [Daboo Malik](https://open.spotify.com/artist/5pizYgjzyLFGdSQp80rQF1), [Sarrika Singh](https://open.spotify.com/artist/4e6Tas6HkzcBbFvL611Qq7) | [Vo Haseen Raat](https://open.spotify.com/album/3lgSHYWQ83jzYB5uOSiV5v) | 4:06 |
 | 71 | [Naadaniyon Mai Kya Kya \(Innocent Love\)](https://open.spotify.com/track/4K5vkeHcSBPz0Ro0v3ixWt) | [Sanjay Chitale](https://open.spotify.com/artist/20ZicqcJYd2buGoWLNNRWw) | [Naadaniyon Mai Kya Kya \(Innocent Love\)](https://open.spotify.com/album/7tjbfdzVXtrpshvSHVBEGQ) | 4:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. La Receta, Adrian L Santos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,581 likes - 125 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,631 likes - 125 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 39 | [Eres Ese Algo](https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Al Derecho Y Al Reverso](https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN) | 2:53 |
 | 40 | [Sin Equipaje](https://open.spotify.com/track/0bVtKbzLzlwV1IPPFqIWWy) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CORAZÓN ERRANTE](https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X) | 2:29 |
 | 41 | [Terco Soy](https://open.spotify.com/track/4mbWLsNAgFcB8Rvue936rN) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [Terco Soy](https://open.spotify.com/album/0gbPj0cLCgu76Ewl6izxe2) | 3:17 |
-| 42 | [Tu Forma De Ser](https://open.spotify.com/track/6DVF8N91Z4yHLbX7J5DK5j) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Tu Forma De Ser](https://open.spotify.com/album/0GtF6udeFeF6wpWobXCQFQ) | 2:57 |
-| 43 | [Bandera Mexicana](https://open.spotify.com/track/6esgHFKVfaNq0RWplhBjvl) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Bandera Mexicana](https://open.spotify.com/album/5EFAkOVA89QTmvTVBGGGMq) | 2:10 |
+| 42 | [Bandera Mexicana](https://open.spotify.com/track/6esgHFKVfaNq0RWplhBjvl) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Bandera Mexicana](https://open.spotify.com/album/5EFAkOVA89QTmvTVBGGGMq) | 2:10 |
+| 43 | [Tu Forma De Ser](https://open.spotify.com/track/6DVF8N91Z4yHLbX7J5DK5j) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Tu Forma De Ser](https://open.spotify.com/album/0GtF6udeFeF6wpWobXCQFQ) | 2:57 |
 | 44 | [Pienso En Ella](https://open.spotify.com/track/2A7bKx16cVAOkLla98qzMx) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Pienso En Ella](https://open.spotify.com/album/1xucgHdQuYiGBrvrmoLnaC) | 2:39 |
 | 45 | [Mi Amor Por Ti](https://open.spotify.com/track/46oEwUHvlrd038HuB5EW8z) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mi Amor Por Ti](https://open.spotify.com/album/2CcT2BdRw18jS7SYZI10Nf) | 3:47 |
 | 46 | [Que Sea](https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Que Sea](https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR) | 2:50 |

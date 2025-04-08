@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 
 > Parque Simón Bolívar, Marzo 27, 28, 29 y 30\. Foto: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,487 likes - 150 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,488 likes - 150 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 | 37 | [Let Me Go](https://open.spotify.com/track/4X27CYcGvCfy75TkVJehSG) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Walk Me Home...](https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz) | 2:39 |
 | 38 | [My Honest Face](https://open.spotify.com/track/3xKsGYkJKy0bbQuUHRYrei) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu) | 4:32 |
 | 39 | [Me Bebí Tu Recuerdo](https://open.spotify.com/track/4qDw65LRA3tT1ZDmghkgFA) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Me Bebi Tu Recuerdo](https://open.spotify.com/album/3th8wWPqpBjw4pzGuf0OqS) | 3:19 |
-| 40 | [Kimbara](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Kimbara](https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu) | 3:09 |
-| 41 | [You Learn \- 2015 Remaster](https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:59 |
+| 40 | [You Learn \- 2015 Remaster](https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:59 |
+| 41 | [Kimbara](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Kimbara](https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu) | 3:09 |
 | 42 | [Music is Better](https://open.spotify.com/track/4NlxBNd38G9nXjCVrbBYre) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 3:56 |
 | 43 | [PELINEGRA](https://open.spotify.com/track/17WSken6b0y5qbwGhUquSk) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [TU OG FAVORITO](https://open.spotify.com/album/0vceBw0AhXy5IcDFlnOLza) | 3:37 |
 | 44 | [Low Sun](https://open.spotify.com/track/1siRw9E67ouBWsORObDuhZ) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t) | 3:08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 
 > ¡Las mujeres de la Música Mexicana! Majo Aguilar en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,581 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,643 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 70 | [La Que Baje La Guardia](https://open.spotify.com/track/0Bns3v6umxVjOxgg0nD5yZ) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [16 Éxitos De Oro](https://open.spotify.com/album/4Y0ngjTprxXbjjjzVw1rDR) | 3:51 |
 | 71 | [Las Rejas No Matan](https://open.spotify.com/track/65QAEew8Hanp9jv41K0Wkm) | [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Las Rejas No Matan](https://open.spotify.com/album/2HbREHvhYxmjUuWGFys3M9) | 2:58 |
 | 72 | [Perdóname](https://open.spotify.com/track/4Tq20RgZQXRAqekScOU4I7) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [...Y Llegó Para Quedarse](https://open.spotify.com/album/1CYA2MjGmAUvoNG5rUMYxf) | 3:07 |
-| 73 | [Me Gustas Mucho](https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 2:50 |
+| 73 | [Amor, Amor de Mis Amores](https://open.spotify.com/track/4TETxb4ElOE3AtrNgQO6PO) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Que No Se Apague La Música](https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl) | 1:53 |
 | 74 | [Decide Qué Somos](https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 2:49 |
 | 75 | [A Veces](https://open.spotify.com/track/4kbOL7UQmIsdlFPIIHHCkt) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [A Veces](https://open.spotify.com/album/1zTWVEo0ilHDPymUVxA7ZC) | 2:38 |
 | 76 | [Cucurrucucu Paloma](https://open.spotify.com/track/4SYjzX3PaRgTxPlwI9lAJx) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [La Reina de la Canción Mexicana](https://open.spotify.com/album/4BLddBWl0kBBxGQnQQ9Sas) | 3:51 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 80 | [Mi Destino Fue Quererte](https://open.spotify.com/track/23kIUnmZJKFElrg5fXlqSR) | [Flor Silvestre](https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO) | [Flor Silvestre](https://open.spotify.com/album/44J9myM94DyzmFhctig6zd) | 3:30 |
 | 81 | [La Feria de las Flores](https://open.spotify.com/track/4eMRomGN3VT0YXMrTqkWe7) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Lola Beltrán en Concierto \- 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris](https://open.spotify.com/album/5s2FnaKvePvxbVaBt1qZMF) | 3:07 |
 | 82 | [Uno Y Uno](https://open.spotify.com/track/0icE6mNTDgKULNLMZuLebj) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 3:53 |
-| 83 | [Paloma Negra](https://open.spotify.com/track/3WfouFwIhmo4p3tgZMUnXM) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Que No Se Apague La Música](https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl) | 3:27 |
+| 83 | [Me Gustas Mucho](https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 2:50 |
 | 84 | [Te Solte La Rienda](https://open.spotify.com/track/5vWniApCCY3PXFHY70pN8Q) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lucha Villa Interpreta A Jose Alfredo Jimenez](https://open.spotify.com/album/2WclW17u0Wwa3DLdSmwekb) | 2:53 |
 | 85 | [Y Volveré...](https://open.spotify.com/track/2jLCF9svTRPh0dF2Ugv1AB) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Cariño de Mis Cariños](https://open.spotify.com/album/6v7iTP4Lh5C9adz8mXIi7G) | 3:19 |
 | 86 | [Por Si Me Olvidas](https://open.spotify.com/track/2Kibj5KtMqbXDgtrN3Oqmw) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [Chelo Interpreta A Jose Alfredo Jimenez](https://open.spotify.com/album/08sekdK1Y2funzXBqM2bNz) | 2:25 |

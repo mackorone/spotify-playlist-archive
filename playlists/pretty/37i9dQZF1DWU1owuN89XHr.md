@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,719 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,759 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 45 | [Al Doblar la Esquina](https://open.spotify.com/track/20Z6RhspI9iQOGPwJ6oDl9) | [Juan Salvador](https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2) | [La Gran Coleccion Del 60 Aniversario CBS \-Juan Salvador](https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx) | 2:54 |
 | 46 | [Coincidir](https://open.spotify.com/track/5dlC3IfY7JHpQhhhBWnH4P) | [Alberto Escobar](https://open.spotify.com/artist/3bZiqqT0b4rEuU0IZgspIM) | [Coincidir](https://open.spotify.com/album/42Ls1ElKBppdAbUM7aw2Vf) | 4:06 |
 | 47 | [De Vez en Cuando \- Acústica](https://open.spotify.com/track/65dCQYpdfGA1Cuj72krPov) | [Miguel Inzunza](https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb), [Pavel Nuñez](https://open.spotify.com/artist/1hXeYjc99nEtjQmzp75IPN) | [De Vez en Cuando](https://open.spotify.com/album/6WgEvTz5MwBvud1zzVoETc) | 4:13 |
-| 48 | [Todo El Año](https://open.spotify.com/track/7usrCxShd2epjMs0GDClGP) | [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Solo Exitos](https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1) | 4:00 |
-| 49 | [Hasta Donde tu vayas](https://open.spotify.com/track/2xldlQfIZeDGsDztec4FkI) | [Tres de Copas](https://open.spotify.com/artist/2lCFn8Sdm6YQYmFXzrZItY) | [Tres De Copas](https://open.spotify.com/album/0KDMxNFaMvMwc58iRZul3i) | 4:14 |
+| 48 | [Hasta Donde tu vayas](https://open.spotify.com/track/2xldlQfIZeDGsDztec4FkI) | [Tres de Copas](https://open.spotify.com/artist/2lCFn8Sdm6YQYmFXzrZItY) | [Tres De Copas](https://open.spotify.com/album/0KDMxNFaMvMwc58iRZul3i) | 4:14 |
+| 49 | [Todo El Año](https://open.spotify.com/track/7usrCxShd2epjMs0GDClGP) | [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Solo Exitos](https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1) | 4:00 |
 | 50 | [De Alguna Manera](https://open.spotify.com/track/7MtdhnO67fNwuF7Bes1xOh) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 3:32 |
 | 51 | [Obsceno](https://open.spotify.com/track/5fqLZkJiVyAPWJs7oc4YC1) | [Alejandro Santiago](https://open.spotify.com/artist/7yc8RHPDlQji4ztS6pgrk0) | [Nómada](https://open.spotify.com/album/2OQpoFrcbrhVCWzjNFJF4l) | 3:32 |
 | 52 | [Destino](https://open.spotify.com/track/0Tvel29tfH38v5q9CXQC3y) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Destino](https://open.spotify.com/album/1ryt69ZHjBPDS9ytMxxh3g) | 3:25 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 66 | [Espectro](https://open.spotify.com/track/4JtwqHO8budsBHlr9XRWUH) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Kelvis Ochoa](https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm), [Joe Demikeli](https://open.spotify.com/artist/6eTKdlYtVBJQbwdsgsxm1J) | [Más Alto](https://open.spotify.com/album/2Gxxed1c45BQTqHbfBbmsG) | 4:19 |
 | 67 | [Todo Cambia](https://open.spotify.com/track/4ZOomo8OwEczYXh0I9qOGU) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Será Posible El Sur?](https://open.spotify.com/album/2U6CJqnFntxEWLSLBoeCs1) | 4:50 |
 | 68 | [Yolanda](https://open.spotify.com/track/2FtwxY4ZIzqkIX3EQn9sC4) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Amo Esta Isla](https://open.spotify.com/album/7jvAtbqVoxKAS9vR7vr4qG) | 4:38 |
-| 69 | [Lo Niego Todo](https://open.spotify.com/track/4OpjKvt0ZXA117dqzOrV1y) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Lo Niego Todo](https://open.spotify.com/album/5hkq8Af2XQd5wYSQwscjOs) | 4:42 |
-| 70 | [Una Palabra](https://open.spotify.com/track/4OdjDo0fQUNDYWvxsHqLdi) | [Carlos Varela](https://open.spotify.com/artist/2KVT6XgP2vgdUat355J7hy) | [Sounds of Havana, Vol\. 1](https://open.spotify.com/album/6LAgHUV1qLh2jQUyK3AGbU) | 2:30 |
+| 69 | [Una Palabra](https://open.spotify.com/track/4OdjDo0fQUNDYWvxsHqLdi) | [Carlos Varela](https://open.spotify.com/artist/2KVT6XgP2vgdUat355J7hy) | [Sounds of Havana, Vol\. 1](https://open.spotify.com/album/6LAgHUV1qLh2jQUyK3AGbU) | 2:30 |
+| 70 | [Lo Niego Todo](https://open.spotify.com/track/4OpjKvt0ZXA117dqzOrV1y) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Lo Niego Todo](https://open.spotify.com/album/5hkq8Af2XQd5wYSQwscjOs) | 4:42 |
 | 71 | [Días de Junio](https://open.spotify.com/track/4NvTDPBXZk4CKH5KyHQ0z9) | [Yordano](https://open.spotify.com/artist/207wrLMuGP7znQqdIaMCaJ), [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Días de Junio](https://open.spotify.com/album/1mwi4HuLUtD1YyOqof2iZk) | 3:20 |
 | 72 | [Alfonsina Y El Mar](https://open.spotify.com/track/1dsG4CwDogYQ6Lfnca9PpX) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Ariel Ramírez](https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW), [Hector Zeoli](https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN) | [30 Años](https://open.spotify.com/album/5k9z28Gw7Nf6FtHp8UIXSE) | 4:40 |
 | 73 | [Guapa](https://open.spotify.com/track/3KQDPSO8QYeqjQNphIf8ef) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl), [Diego Ojeda](https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl) | [Guapa](https://open.spotify.com/album/4RkNRTFEPawbKupoxCz3US) | 4:45 |

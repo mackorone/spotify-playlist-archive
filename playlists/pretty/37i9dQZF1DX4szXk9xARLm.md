@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > Your essential Ramadan Series songs! Cover: Elissa
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,260 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,270 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,17 +40,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 30 | [\(عيني على الشرف \(تتر مسلسل شباب إمرأة](https://open.spotify.com/track/16zRpjwFoTUXnIcX4GRwBG) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [\(عيني على الشرف \(تتر مسلسل شباب إمرأة](https://open.spotify.com/album/5eMq6ekk4nZ2YTemocOJqq) | 4:20 |
 | 31 | [فيك سر \- من مسلسل في لحظة](https://open.spotify.com/track/2Cy2I1IWv7J3tBwc7p30vi) | [Ahmed Fahmi](https://open.spotify.com/artist/76Rq7hIe7VzoXmNFnySa1j) | [فيك سر \(من مسلسل في لحظة\)](https://open.spotify.com/album/1R46ohQ0Ljs8cyk9sn8brq) | 2:32 |
 | 32 | [El ahd](https://open.spotify.com/track/0s5HhG8oEfNqkwOnIYIAEy) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [El ahd](https://open.spotify.com/album/4fv6qg0BGmI0gyrzRhV9Sq) | 4:59 |
-| 33 | [سواد على الكل \- تتر نهاية مسلسل العتاولة 2](https://open.spotify.com/track/6jm0hFRYUmkVzwhWzD1PFo) | [Showkey](https://open.spotify.com/artist/3xQ3WqraSnv3qd9Ni7vlQx), [Felo](https://open.spotify.com/artist/4JhWEqWfwTQywn7lKkNWt5), [Eslam Saso](https://open.spotify.com/artist/5wqG0tvzxTrS4iGciGGIDk) | [سواد على الكل \(تتر نهاية مسلسل العتاولة 2\)](https://open.spotify.com/album/4IKjxF1G9I5cU8NEmi3pFu) | 2:37 |
+| 33 | [Al Najdain \(النجدين\)](https://open.spotify.com/track/2wX6tRMGNryOFsc8vuqZ4B) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Al Najdain \(النجدين\)](https://open.spotify.com/album/54N1rRSxWZlAqkEnslrOf1) | 4:13 |
 | 34 | [Chehal S3ib](https://open.spotify.com/track/2XwZYLH0bvpk3DanCENM00) | [Asma Lmnawar](https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3) | [Chehal S3ib](https://open.spotify.com/album/5wZvCZrZHa7LiOpwkwoGty) | 3:15 |
-| 35 | [Al Najdain \(النجدين\)](https://open.spotify.com/track/2wX6tRMGNryOFsc8vuqZ4B) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Al Najdain \(النجدين\)](https://open.spotify.com/album/54N1rRSxWZlAqkEnslrOf1) | 4:13 |
+| 35 | [سواد على الكل \- تتر نهاية مسلسل العتاولة 2](https://open.spotify.com/track/6jm0hFRYUmkVzwhWzD1PFo) | [Showkey](https://open.spotify.com/artist/3xQ3WqraSnv3qd9Ni7vlQx), [Felo](https://open.spotify.com/artist/4JhWEqWfwTQywn7lKkNWt5), [Eslam Saso](https://open.spotify.com/artist/5wqG0tvzxTrS4iGciGGIDk) | [سواد على الكل \(تتر نهاية مسلسل العتاولة 2\)](https://open.spotify.com/album/4IKjxF1G9I5cU8NEmi3pFu) | 2:37 |
 | 36 | [بطل يا بطل](https://open.spotify.com/track/7LjE8S8nbujtiktd9pVur9) | [Mido Gad](https://open.spotify.com/artist/6ZcugQ1o2uf7lkFEage28f) | [بطل يا بطل](https://open.spotify.com/album/4KsZrkBA3ysOgaHULylQjf) | 3:10 |
 | 37 | [Tetr Mosalsal Layali AL Shemaisy](https://open.spotify.com/track/3ADHv3poD95cLwiQUbY2d7) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Tetr Mosalsal Layali AL Shemaisy](https://open.spotify.com/album/0xvlOd8fvLrWIp4hDM9PY1) | 3:58 |
 | 38 | [Titanic](https://open.spotify.com/track/4hmE5n6FXjXipmfTIIQP8c) | [Samad Officiel](https://open.spotify.com/artist/0PugkIpOnPjZTEEcrLO3PB) | [Titanic](https://open.spotify.com/album/62AOGBLuBhM3a47OFRQyRL) | 2:46 |
 | 39 | [Al Eshrin](https://open.spotify.com/track/2lsACaA6SJEaZfsJQgNqkq) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Al Eshrin](https://open.spotify.com/album/663sqKvRzDmNsSMqICmCU6) | 3:03 |
 | 40 | [Al Atawla](https://open.spotify.com/track/23z3Oekq7ye9TAaTldpc5q) | [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK) | [Al Atawla \(Music from the Original TV Series\)](https://open.spotify.com/album/1heYsl3CCuRWB1x58eu8CF) | 2:46 |
 | 41 | [Khatyah Ani](https://open.spotify.com/track/4FXdcubswDigCSIdx9IFNA) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Mosalsal Seher Aswad](https://open.spotify.com/album/0EqNrd5iUYdBRPZt9w9IG4) | 3:28 |
-| 42 | [Ala Allah](https://open.spotify.com/track/14JaIJEJOfCBO0gL7b2oE4) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Ala Allah](https://open.spotify.com/album/4mKbrclkqbx6NBmA2hVdGh) | 3:14 |
-| 43 | [Mashyeen Be Elzak](https://open.spotify.com/track/7giK9ESAiO1gOgjNcuJjZu) | [Sabren Elnegily](https://open.spotify.com/artist/235oUgJq1DUHH7PXVmI7oJ) | [Mashyeen Be Elzak](https://open.spotify.com/album/7FWoWblYxaS8aey1Zubji9) | 3:20 |
+| 42 | [Mashyeen Be Elzak](https://open.spotify.com/track/7giK9ESAiO1gOgjNcuJjZu) | [Sabren Elnegily](https://open.spotify.com/artist/235oUgJq1DUHH7PXVmI7oJ) | [Mashyeen Be Elzak](https://open.spotify.com/album/7FWoWblYxaS8aey1Zubji9) | 3:20 |
+| 43 | [Ala Allah](https://open.spotify.com/track/14JaIJEJOfCBO0gL7b2oE4) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Ala Allah](https://open.spotify.com/album/4mKbrclkqbx6NBmA2hVdGh) | 3:14 |
 | 44 | [Atmena \- Générique d'émission](https://open.spotify.com/track/0G8JL3sBjMVM9tpH8O3hut) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Atmena \(Générique d'émission\)](https://open.spotify.com/album/5vimfmG5i8pU8mEoAwCvmD) | 2:09 |
 | 45 | [Ya Harema \( Moslsl Zahra Omri \)](https://open.spotify.com/track/1QcjJYJzOFtfO8HLiodEWW) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Ya Harema \( Moslsl Zahra Omri \)](https://open.spotify.com/album/6WRRi0pMCPGnYmYPNEALLJ) | 3:23 |
 | 46 | [Safen Ala Al Ayam](https://open.spotify.com/track/2u5spfhhfyWf5VeDuse0nP) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Safen Ala Al Ayam \(Mosalsal Dar Almansyeen\)](https://open.spotify.com/album/3is6HtqKma80wLKHSY4GKS) | 3:27 |

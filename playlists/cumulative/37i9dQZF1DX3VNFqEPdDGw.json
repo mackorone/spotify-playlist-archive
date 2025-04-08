@@ -85,6 +85,36 @@
     },
     {
       "album": {
+        "name": "3 Round (feat. Gurlez Akhtar)",
+        "url": "https://open.spotify.com/album/1tu3KN0G0zadsL5Upidu0D"
+      },
+      "artists": [
+        {
+          "name": "Wilson Brar",
+          "url": "https://open.spotify.com/artist/0j7J3wf8J3uAHjsS80IEjd"
+        },
+        {
+          "name": "Beatcop",
+          "url": "https://open.spotify.com/artist/2sGUVwZqJzeySVgEw7KTaV"
+        },
+        {
+          "name": "Gurbilling",
+          "url": "https://open.spotify.com/artist/5Ae4guOm8OzoaSunZvltCq"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176122,
+      "name": "3 Round (feat. Gurlez Akhtar)",
+      "url": "https://open.spotify.com/track/2ZOqIZEA5nLtWotbAEaGZv"
+    },
+    {
+      "album": {
         "name": "31,10",
         "url": "https://open.spotify.com/album/64DXvZLQn47dURuggDCeA5"
       },
@@ -1100,7 +1130,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 146500,
       "name": "Dalle Bande",
       "url": "https://open.spotify.com/track/43fT0fcn0OQigmlcj1IlQ9"
@@ -1226,6 +1256,32 @@
       "duration_ms": 183149,
       "name": "Defender",
       "url": "https://open.spotify.com/track/695j3oqRL6a4o0oJR2rHS1"
+    },
+    {
+      "album": {
+        "name": "Demand",
+        "url": "https://open.spotify.com/album/2ODOIBhmLdyCaHc85qNv77"
+      },
+      "artists": [
+        {
+          "name": "Kabir Gill",
+          "url": "https://open.spotify.com/artist/577jqpbvlYxyeleJ8UfIGt"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        },
+        {
+          "name": "Kulshan Sandhu",
+          "url": "https://open.spotify.com/artist/0SZK7xzvvaFBWfLvp90nKN"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172678,
+      "name": "Demand",
+      "url": "https://open.spotify.com/track/1j4MY97r53snJD8gvlv3gJ"
     },
     {
       "album": {
@@ -1790,7 +1846,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 202340,
       "name": "Gundagardi (\u201cDakuaan Da Munda 2\")",
       "url": "https://open.spotify.com/track/6mcKuKxSM8AwZWiX3gcS4Q"
@@ -3094,7 +3150,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 141923,
       "name": "Leeran",
       "url": "https://open.spotify.com/track/14K9uoBKLESF07UYpLPiSN"
@@ -4170,7 +4226,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-06",
+      "date_removed": null,
       "duration_ms": 179800,
       "name": "Qatil Surma",
       "url": "https://open.spotify.com/track/4IGM0oeUfaSmJknMjwOWKe"

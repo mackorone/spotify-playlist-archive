@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rdzeb.md) - [plain]
 
 > This is Adrianne Lenker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,456 likes - 40 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,477 likes - 40 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rdzeb.md) - [plain]
 | 34 | [Feel Better](https://open.spotify.com/track/0uAjs9DbEIKI1uz0hIGaxm) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Feel Better](https://open.spotify.com/album/0hc8g5I4hvtuD3GPYkK7he) | 4:23 |
 | 35 | [what can you say](https://open.spotify.com/track/3WZWhKFFfIrs6ykt8kO9Ua) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 2:28 |
 | 36 | [Ringing Bells](https://open.spotify.com/track/5xjqIJjjrLgTD2GBHkDQtJ) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [b\-sides](https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK) | 3:49 |
-| 37 | [Snow Song](https://open.spotify.com/track/0Cb1Ltn7Gc84D8x0SKmAZX) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 3:56 |
+| 37 | [Disappear](https://open.spotify.com/track/4T0d6S1Moe4x25pxBUcqeP) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 3:51 |
 | 38 | [Once A Bunch](https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Once A Bunch](https://open.spotify.com/album/1TckrkAuaA4tkLqgOVzvdC) | 4:59 |
 | 39 | [music for indigo](https://open.spotify.com/track/1OzuAHfmr8Vg3eVvEbAR0p) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [instrumentals](https://open.spotify.com/album/71q46YDkSq6uXS5WJy4WMk) | 21:12 |
 | 40 | [Carolina](https://open.spotify.com/track/2wEFuTCFRBvUTet1gomQGa) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [b\-sides](https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK) | 2:30 |
 
-Snapshot ID: `Z/BygAAAAAA94G9ABfmYhUhlciQ9yPv7`
+Snapshot ID: `Z/HEAAAAAABzxBxt3vy+4QtTCdJBqWQt`

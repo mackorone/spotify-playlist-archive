@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayDMsJG9ZBv.md) - [plain]
 
 > 世界中のトレンドと日本の最新ヒット曲をまとめてお届けします。Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,032 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,044 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

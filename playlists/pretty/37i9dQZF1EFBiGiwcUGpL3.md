@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1kss636YZWThqotgyApqMj">Keith Urban</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 565 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 564 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 | 9 | [Tonight I Wanna Cry](https://open.spotify.com/track/61hmCqoIlTJjcVMMLhcH5n) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Be Here](https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89) | 4:19 |
 | 10 | [Coming Home](https://open.spotify.com/track/4pWb8UZ6IPVJA3CPjCNgzq) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:33 |
 | 11 | [Wild Hearts](https://open.spotify.com/track/0BQpyaFrb78b9uobWNheqx) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Wild Hearts](https://open.spotify.com/album/4zxsqQuLQMHfG48BZI3A2Y) | 3:02 |
-| 12 | [Never Comin Down](https://open.spotify.com/track/1QJvq84l7YcVCyIkGA602c) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:34 |
-| 13 | [Kiss A Girl](https://open.spotify.com/track/4DyKZmONpoggnn3piyjad2) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Defying Gravity](https://open.spotify.com/album/59iMA7L7Vab6md5dlm83fy) | 3:46 |
+| 12 | [Kiss A Girl](https://open.spotify.com/track/4DyKZmONpoggnn3piyjad2) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Defying Gravity](https://open.spotify.com/album/59iMA7L7Vab6md5dlm83fy) | 3:46 |
+| 13 | [Never Comin Down](https://open.spotify.com/track/1QJvq84l7YcVCyIkGA602c) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:34 |
 | 14 | [Better Life](https://open.spotify.com/track/29Qqb1qYSjC1pSK8QPDnkp) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Be Here](https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89) | 4:43 |
 | 15 | [Who Wouldn't Wanna Be Me](https://open.spotify.com/track/7MtZJEuIZ6GEKGSN7ttTkX) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 3:41 |
 | 16 | [For You](https://open.spotify.com/track/48sjrZMBJEGRj4UMwc3IvA) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [The Story So Far](https://open.spotify.com/album/4yaWoYzuaNWgshF1lvjs2F) | 4:49 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 | 47 | [Song For Dad](https://open.spotify.com/track/0l2G2yxjpE9zgUA8rJlAMu) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 3:56 |
 | 48 | [Got It Right This Time \(The Celebration\)](https://open.spotify.com/track/443zJTvmOBwUBO3DB2IWdf) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 4:44 |
 | 49 | [Crimson Blue \- From Nine Perfect Strangers](https://open.spotify.com/track/1Nk6DKF1eXNCNKCj6aJLNV) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Crimson Blue \(From Nine Perfect Strangers\)](https://open.spotify.com/album/5KQHWweJ4zY9GQLQUsKNFY) | 3:27 |
-| 50 | [Right On Back To You](https://open.spotify.com/track/7GUTR8gtKl5sd2mg4Q2V4U) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 4:48 |
-| 51 | [CHUCK TAYLORS](https://open.spotify.com/track/5LCwWKC7mc2naS8aG503oG) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 3:34 |
+| 50 | [CHUCK TAYLORS](https://open.spotify.com/track/5LCwWKC7mc2naS8aG503oG) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 3:34 |
+| 51 | [Right On Back To You](https://open.spotify.com/track/7GUTR8gtKl5sd2mg4Q2V4U) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 4:48 |
 | 52 | [Walk In The Country](https://open.spotify.com/track/7FJMIplxMvLO4hPsfISQ8q) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Clear As Day](https://open.spotify.com/album/0molQ0VuhniiiYNZ1iAJrc) | 2:58 |
 | 53 | [If Ever I Could Love](https://open.spotify.com/track/12avE3xXFRcJuYDwNg9ZIU) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Defying Gravity](https://open.spotify.com/album/59iMA7L7Vab6md5dlm83fy) | 5:00 |
 | 54 | [Say Something](https://open.spotify.com/track/61FUzJLSseC54gCw6pBqDr) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [THE SPEED OF NOW Part 1](https://open.spotify.com/album/4F3rUFQcKJm6b1BsJRwAbf) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 | 99 | [Sunburned Country](https://open.spotify.com/track/6jem5ayssg5LZ3q7mewnr1) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [\(2\)](https://open.spotify.com/album/1ERi78WxPuTTHMKvxV4Wts) | 5:37 |
 | 100 | [Waar is de tijd?](https://open.spotify.com/track/3IJEooHq7SDbPgB728FSyz) | [Dana Winner](https://open.spotify.com/artist/6pmObcotPmooyBYA0PbxPW) | [Als je lacht](https://open.spotify.com/album/3ilpS9EFDCWz6Eqjeks3mS) | 3:46 |
 
-Snapshot ID: `AbuFXgAAAADw5Ermpcwlt9pdKPBatsAc`
+Snapshot ID: `AbuK4AAAAACBKqnaa/nO3XvZZbwhs8TQ`

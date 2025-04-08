@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Robe con Leiva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,896 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,974 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

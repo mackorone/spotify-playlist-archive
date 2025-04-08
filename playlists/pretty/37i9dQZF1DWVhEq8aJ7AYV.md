@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 
 > Enmascarados, Pin\-Up Girls, Engrasados y Surfers en un mismo lugar
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,506 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,516 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 35 | [The Trouble With Those Mothra Girls](https://open.spotify.com/track/5DS76z4SSW8MWAyl9NVqMg) | [Daikaiju](https://open.spotify.com/artist/1boMjUeqvfISOyhMtR89QC) | [Daikaiju](https://open.spotify.com/album/2JeW42eEkcpxw1UHvZFfVG) | 3:29 |
 | 36 | [Antimatter Man](https://open.spotify.com/track/6pLfrcn8DfDLW0tV3UYFjE) | [Man Or Astro\-Man?](https://open.spotify.com/artist/3z3lEz2qH5h6qJa8DYukxY) | [Defcon 5...4...3...2...1](https://open.spotify.com/album/5b59CWlbRYqdAJkoj1gQKe) | 2:35 |
 | 37 | [Popcorno Revenge](https://open.spotify.com/track/2Ix5WVkZhrljeTTiKDPUcP) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [Surf Riders from the Swamp Lagoon](https://open.spotify.com/album/1PvhsuI9Rp7UA0Y4aFaeGp) | 2:34 |
-| 38 | [Ojos De Araña](https://open.spotify.com/track/6E8nd5q7M7JP380DeXO8Mh) | [Los K’comxtles](https://open.spotify.com/artist/73CTe8KuKRZkoFdbyDyauj) | [Ojos De Araña](https://open.spotify.com/album/4oODMitt0jMrUWuzoFOEmV) | 2:29 |
+| 38 | [Surfin Beer](https://open.spotify.com/track/230qkv2nzn62ejlAFo3flv) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Surf Extremo](https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK) | 2:06 |
 | 39 | [Hombre Lobo Adolescente](https://open.spotify.com/track/1lVcqcdXrOqqtKyF8HoCWF) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Fráncisco Familiar](https://open.spotify.com/artist/6inDzeziUIxChspv3DEKtJ) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 2:42 |
-| 40 | [Surfin Beer](https://open.spotify.com/track/230qkv2nzn62ejlAFo3flv) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Surf Extremo](https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK) | 2:06 |
+| 40 | [Ojos De Araña](https://open.spotify.com/track/6E8nd5q7M7JP380DeXO8Mh) | [Los K’comxtles](https://open.spotify.com/artist/73CTe8KuKRZkoFdbyDyauj) | [Ojos De Araña](https://open.spotify.com/album/4oODMitt0jMrUWuzoFOEmV) | 2:29 |
 | 41 | [Pirakor](https://open.spotify.com/track/28WuMTR0P01MYIlK11uUsE) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Los Elásticos](https://open.spotify.com/album/4U6G03jSc18QPPxkx9ksBD) | 3:13 |
 | 42 | [Bocanegra](https://open.spotify.com/track/6tz2mMoLyvbpjZglG1WqYp) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Cañonazo Electrocumbiero](https://open.spotify.com/album/0j4xaPrlXNtLIpC9gUILju) | 4:24 |
 | 43 | [Surf De L'amour](https://open.spotify.com/track/08qSIeJEOg3aQaDN4xii9C) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [Taste the Blood of Guitaracula](https://open.spotify.com/album/36Zg5IWSFPezDutbYpwrfB) | 2:45 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 68 | [The Falcon Sleeps Tonight](https://open.spotify.com/track/4toFjXCMOTkZrw36kzixHy) | [Corizonas](https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP) | [The News Today](https://open.spotify.com/album/5RHDJFdQC90EIRn682wXXN) | 3:10 |
 | 69 | [Blue Demon Jr.](https://open.spotify.com/track/5xMxiKym9ruYX1VkP55IO0) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Dr\. Malicia / 10 Años Elásticos](https://open.spotify.com/album/0JiiIU9cYqCKB821qpySss) | 2:14 |
 | 70 | [Fathom This!](https://open.spotify.com/track/7fiTe4XWrQbJpAhnxqmM4U) | [The Fathoms](https://open.spotify.com/artist/0doqn5jnYAYSpkhmafrmkl) | [Fathom This!](https://open.spotify.com/album/2o0iSopA79scEHq1vvNasA) | 3:15 |
-| 71 | [Twist Del Elefante](https://open.spotify.com/track/58kYjQzf6V58d4j2gQH2yN) | [The Cavernarios](https://open.spotify.com/artist/6fsKu7O1tqv4la4xy0fIOZ) | [Sangre en el Atlántico](https://open.spotify.com/album/0dGcnozdWfdgdPez34CCbp) | 2:47 |
-| 72 | [Drácula ”Ye\-ye”](https://open.spotify.com/track/28mq9dICF4XavmY50cyOgX) | [Doctor Explosion](https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q) | [Aquellos Maravillosos 90](https://open.spotify.com/album/5m7J3RUeI099XYUzjlajT5) | 2:22 |
+| 71 | [Drácula ”Ye\-ye”](https://open.spotify.com/track/28mq9dICF4XavmY50cyOgX) | [Doctor Explosion](https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q) | [Aquellos Maravillosos 90](https://open.spotify.com/album/5m7J3RUeI099XYUzjlajT5) | 2:22 |
+| 72 | [Twist Del Elefante](https://open.spotify.com/track/58kYjQzf6V58d4j2gQH2yN) | [The Cavernarios](https://open.spotify.com/artist/6fsKu7O1tqv4la4xy0fIOZ) | [Sangre en el Atlántico](https://open.spotify.com/album/0dGcnozdWfdgdPez34CCbp) | 2:47 |
 | 73 | [Spy Cam](https://open.spotify.com/track/0zeMgUcxLn0KvXcC8hGZCA) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Las Mejores Olas](https://open.spotify.com/album/3ZWimjUwLvF5ONvMj2gWYt) | 3:05 |
 | 74 | [Taco Truck](https://open.spotify.com/track/42DfJPSogxXKzK8TfaVlxz) | [Satan's Pilgrims](https://open.spotify.com/artist/7LQPLh6XX8uGuU8WKkHYIM) | [Taco Truck](https://open.spotify.com/album/3eOSmxAVlouqLEgzeiTt4O) | 2:48 |
 | 75 | [Volar](https://open.spotify.com/track/3sfk92mTJYV2L9bcvW8d2Z) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Sábado](https://open.spotify.com/album/7kuSs5f1rvSnxTm5Xccjiq) | 3:44 |

@@ -4,7 +4,7 @@
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=lybU8UbGSVa\_4xkQ\_Gde1Q"> Nomfundo Moh</a>, <a href="https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe?si=JNQSLjoEQQyGL1Fh\-8m2dw"> Blaq Diamond</a>
 
-636 songs - 1 day 21 hr 37 min
+637 songs - 1 day 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,6 +440,7 @@
 | [Othanda Mina](https://open.spotify.com/track/7CBGbm4zPNGe0sbCEf1SA5) | [Zādok](https://open.spotify.com/artist/72wC9dzKpqHCdw8fQwYpea), [S.O.N](https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6) | [Othanda Mina](https://open.spotify.com/album/0OILOtl8viER0JAkRKiORB) | 4:43 | 2021-10-21 | 2022-02-18 |
 | [Outro \(Impi\)](https://open.spotify.com/track/5CZbzl4YZhDIzee6vnZwKN) | [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq) | [Emakhosini](https://open.spotify.com/album/0sUls8oOzLRqW6xIEtzCdz) | 3:32 | 2022-09-15 | 2022-11-18 |
 | [Owa Mntwana](https://open.spotify.com/track/75WWCDj6Xk65gCaVjztWrL) | [Mpumi](https://open.spotify.com/artist/7IoFnVmSBtCK528aCfFQdJ) | [Owa Mntwana](https://open.spotify.com/album/2YyC7CGRi19wnXZ87esccw) | 6:17 | 2023-11-16 | 2023-12-08 |
+| [Owami \(feat\. Baby S.O.N, Lwah Ndlunkulu & Lawd Weezy\)](https://open.spotify.com/track/3AGeZOxaCxhG7k2DKMoIH4) | [Riky Rick](https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO), [Baby S.O.N](https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6), [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1), [Lawd Weezy](https://open.spotify.com/artist/0aP1ZzvGhXjejlBmy1Gk6G) | [Boss Zonke Forever](https://open.spotify.com/album/1OxiVsJTxKRHkkQhBaCdgb) | 4:17 | 2025-04-07 |  |
 | [OWAMI \(feat\. Msaki\)](https://open.spotify.com/track/79XTMk8TGJZYpYEvLv0DHq) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [SR3](https://open.spotify.com/album/6Si2FMyfksVv0PHoSmWGUT) | 3:13 | 2022-09-15 | 2022-10-21 |
 | [Pain Ya Jealous](https://open.spotify.com/track/4Y8jM82FUOyltRrqSELVPS) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs) | [Pain Ya Jealous](https://open.spotify.com/album/5qz2j8ZfrgsggSqq6ildGe) | 5:13 | 2022-03-24 | 2022-09-23 |
 | [Paradise](https://open.spotify.com/track/2mdqivSHJWsbTR6rIwSUWO) | [Lloyd Cele](https://open.spotify.com/artist/3Ep2ZktnezHzTyx4oAFddg) | [Paradise](https://open.spotify.com/album/1ME1ZG3wIh8rVWjTJLUmWU) | 3:42 | 2022-06-16 | 2022-07-01 |

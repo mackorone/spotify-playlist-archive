@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,483 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,524 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 90 | [Bipolar Rhapsody](https://open.spotify.com/track/7ELka9OSxvZo4AkpIhd9CF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Bipolar Rhapsody](https://open.spotify.com/album/0O1ipfhDdMueuyRl2RfWLG) | 4:48 |
 | 91 | [Upgrade](https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Upgrade](https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7) | 2:41 |
 | 92 | [Dead](https://open.spotify.com/track/6H3NSyefUL4tm6yvWuQ8FR) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [Dead](https://open.spotify.com/album/6yhPN6jzku1HlV8rZF6oZb) | 3:30 |
-| 93 | [Leave A Message \(w/ aldn\)](https://open.spotify.com/track/0WEfQELwVnvx7NutDMr8JZ) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [Leave A Message \(w/ aldn\)](https://open.spotify.com/album/0x9LF4xvgEPN511yeQCC3V) | 2:27 |
-| 94 | [Body Bag \- ROMES Remix](https://open.spotify.com/track/0xX6RLKMriNDru30G8RsQU) | [DEVORA](https://open.spotify.com/artist/2rV7OHV7pnQxQPkLbY7LoY), [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [Body Bag \(ROMES Remix\)](https://open.spotify.com/album/43559YWMyLG88SyxIfvHtM) | 3:15 |
-| 95 | [Heatdeath](https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [HeatDeath](https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n) | 5:17 |
-| 96 | [Can't Get You Out of My Head](https://open.spotify.com/track/6mtTiVREzK3kV0E65MXCZo) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Can't Get You Out of My Head](https://open.spotify.com/album/3BE31HD0sbdeIBL791ayyV) | 3:10 |
-| 97 | [Have Fun](https://open.spotify.com/track/0CUDJNdyr5XhIblZRYIpe9) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Have Fun](https://open.spotify.com/album/1xbi36lPp1gIjz9q8hL06C) | 3:56 |
+| 93 | [Body Bag \- ROMES Remix](https://open.spotify.com/track/0xX6RLKMriNDru30G8RsQU) | [DEVORA](https://open.spotify.com/artist/2rV7OHV7pnQxQPkLbY7LoY), [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [Body Bag \(ROMES Remix\)](https://open.spotify.com/album/43559YWMyLG88SyxIfvHtM) | 3:15 |
+| 94 | [Leave A Message \(w/ aldn\)](https://open.spotify.com/track/0WEfQELwVnvx7NutDMr8JZ) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [Leave A Message \(w/ aldn\)](https://open.spotify.com/album/0x9LF4xvgEPN511yeQCC3V) | 2:27 |
+| 95 | [Can't Get You Out of My Head](https://open.spotify.com/track/6mtTiVREzK3kV0E65MXCZo) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Can't Get You Out of My Head](https://open.spotify.com/album/3BE31HD0sbdeIBL791ayyV) | 3:10 |
+| 96 | [Have Fun](https://open.spotify.com/track/0CUDJNdyr5XhIblZRYIpe9) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Have Fun](https://open.spotify.com/album/1xbi36lPp1gIjz9q8hL06C) | 3:56 |
+| 97 | [Heatdeath](https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [HeatDeath](https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n) | 5:17 |
 | 98 | [Same](https://open.spotify.com/track/5B1xsEG0hVZZETedxzTXrY) | [Kyd the Band](https://open.spotify.com/artist/0NHArXVgYnHIxtWGIS7xWS) | [Same](https://open.spotify.com/album/5xnwqBkujlYam87TmsD6qe) | 3:15 |
-| 99 | [Nightmare](https://open.spotify.com/track/7EsbZDWgR5abkQJ9EYyeeK) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [BROKEN HEARTS](https://open.spotify.com/album/2p0CrNn7iJNopOsJmAoSD7) | 3:29 |
-| 100 | [What, Me Worry? \- LP Giobbi Remix](https://open.spotify.com/track/3YwsjD1ckhneoesIqaHYZi) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [What, Me Worry? \(LP Giobbi Remix\)](https://open.spotify.com/album/3HTcnFicUtNTAuZFI5ublk) | 3:32 |
+| 99 | [What, Me Worry? \- LP Giobbi Remix](https://open.spotify.com/track/3YwsjD1ckhneoesIqaHYZi) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [What, Me Worry? \(LP Giobbi Remix\)](https://open.spotify.com/album/3HTcnFicUtNTAuZFI5ublk) | 3:32 |
+| 100 | [Nightmare](https://open.spotify.com/track/7EsbZDWgR5abkQJ9EYyeeK) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [BROKEN HEARTS](https://open.spotify.com/album/2p0CrNn7iJNopOsJmAoSD7) | 3:29 |
 
 Snapshot ID: `Z9Op1wAAAAAVGuCgQaqjyAUSQ7d8abY6`

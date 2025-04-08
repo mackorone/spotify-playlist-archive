@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 
 > This is El Potro De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,485 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,488 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,16 +29,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 | 19 | [El Mes De Enero](https://open.spotify.com/track/0UuZpS71KT3ezLp8tdC5Ru) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Déjame Vacío](https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU) | 3:36 |
 | 20 | [Se Equivocó El Pistolero](https://open.spotify.com/track/6h8mrn4tKFtPSfvd9N7RMB) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Cargamento Del Diablo](https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF) | 2:42 |
 | 21 | [Por Que No Vienes](https://open.spotify.com/track/5VgUoHUEPmWg93aX2CgXrf) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Que Se Fue](https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB) | 2:29 |
-| 22 | [La Vida Prestada \- En Vivo](https://open.spotify.com/track/4LrBqsCyeLFmI1KIzcp2r6) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 3:09 |
-| 23 | [Yo Fui el Señor de los Llanos](https://open.spotify.com/track/5nQspokXaBMX7266LF0Ynt) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Maz Poderoso](https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ) | 2:18 |
+| 22 | [Yo Fui el Señor de los Llanos](https://open.spotify.com/track/5nQspokXaBMX7266LF0Ynt) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Maz Poderoso](https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ) | 2:18 |
+| 23 | [La Vida Prestada \- En Vivo](https://open.spotify.com/track/4LrBqsCyeLFmI1KIzcp2r6) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 3:09 |
 | 24 | [Cien Por Uno](https://open.spotify.com/track/3Q2XC6VEwTXYVyrRO25csQ) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Cargamento Del Diablo](https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF) | 3:30 |
 | 25 | [Dejame](https://open.spotify.com/track/6rLYzSPsrs95tamhZ6oGrf) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Sinaloense](https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq) | [Dejame](https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn) | 2:25 |
-| 26 | [Los 3 Gallos \- En Vivo](https://open.spotify.com/track/3lTc0IeRqlcbZIARKyVrvZ) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 3:20 |
-| 27 | [Ni el Dinero Ni Nada](https://open.spotify.com/track/0YiNEnEmLo3gHc7w2USFua) | [Inteligencia Norteña](https://open.spotify.com/artist/5x6p1H8xPpWRSEbkO2lHHs), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Desde el Rancho Bella Vista](https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS) | 3:50 |
+| 26 | [Ni el Dinero Ni Nada](https://open.spotify.com/track/0YiNEnEmLo3gHc7w2USFua) | [Inteligencia Norteña](https://open.spotify.com/artist/5x6p1H8xPpWRSEbkO2lHHs), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Desde el Rancho Bella Vista](https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS) | 3:50 |
+| 27 | [Los 3 Gallos \- En Vivo](https://open.spotify.com/track/3lTc0IeRqlcbZIARKyVrvZ) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 3:20 |
 | 28 | [La Carrucha](https://open.spotify.com/track/55mqlCzGFS1szEKuaxL8mI) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Cargamento Del Diablo](https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF) | 3:30 |
 | 29 | [El Inicio...](https://open.spotify.com/track/4Cc8CxUVyq0ZjXy6gH8vKx) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Déjame Vacío](https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU) | 3:48 |
-| 30 | [La Clave 7 \- En Vivo](https://open.spotify.com/track/2Lre4ZEa0TEPR45lO42T0g) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 3:36 |
-| 31 | [La Compra y Venta](https://open.spotify.com/track/5uPapq4kYFFP7V1oa5XW4P) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Comandante Fuentes](https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn) | 2:20 |
+| 30 | [La Compra y Venta](https://open.spotify.com/track/5uPapq4kYFFP7V1oa5XW4P) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Comandante Fuentes](https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn) | 2:20 |
+| 31 | [La Clave 7 \- En Vivo](https://open.spotify.com/track/2Lre4ZEa0TEPR45lO42T0g) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 3:36 |
 | 32 | [La Puerta Del Infierno](https://open.spotify.com/track/5GQDiNkiaQLG8CPSBZrJ9C) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Enemigo Público](https://open.spotify.com/album/7bNnQTposh3BeN2Hz3Xd53) | 2:48 |
 | 33 | [Que No Se Apague la Lumbre](https://open.spotify.com/track/5Bwet1Stw98vVFi2kNX5uZ) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Maz Poderoso](https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ) | 3:06 |
 | 34 | [El Cargamento Del Diablo](https://open.spotify.com/track/7sGWaqVuPGvfmXtnF71frT) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Cargamento Del Diablo](https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 | 49 | [El Hueso Del Perron](https://open.spotify.com/track/2Ej3bkt5TJ5fGeSeQTYvjD) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Cargamento Del Diablo](https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF) | 3:11 |
 | 50 | [El Licenciado](https://open.spotify.com/track/3Z6HAOYGo0za5tpU7X7Rg3) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Enemigo Público](https://open.spotify.com/album/7bNnQTposh3BeN2Hz3Xd53) | 4:08 |
 
-Snapshot ID: `Z/BygAAAAAACCiEDgwyBWrmTyy2IzcFd`
+Snapshot ID: `Z/HEAAAAAACa+YcUtymOJSNdPXNUFHiX`

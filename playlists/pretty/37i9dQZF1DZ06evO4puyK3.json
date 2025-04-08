@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 164638,
+  "num_followers": 164651,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/BygAAAAABY0JQHtgtuHXlmxgFsmia/",
+  "snapshot_id": "Z/HEAAAAAABZleOn9DJMchxzAbr8Djjx",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A QUEDA",
+        "url": "https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "A QUEDA",
+      "url": "https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deve ser horr\u00edvel dormir sem mim",
         "url": "https://open.spotify.com/album/3FJKxI2TAjifuaiNNQXzvU"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 155052,
       "name": "Deve ser horr\u00edvel dormir sem mim",
       "url": "https://open.spotify.com/track/6Q9NH5cNBY58nJkp5Jbs9j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A QUEDA",
-        "url": "https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "A QUEDA",
-      "url": "https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17"
     },
     {
       "added_at": null,
@@ -755,6 +755,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LADY LESTE",
+        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "MC Tchelinho",
+          "url": "https://open.spotify.com/artist/2OMImVZQlaVtav9HoKxrbv"
+        }
+      ],
+      "duration_ms": 145056,
+      "name": "FOGO NO BARRACO",
+      "url": "https://open.spotify.com/track/1GN6FB6MuUlB0Q1TuIAwiS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
@@ -799,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LADY LESTE",
-        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "MC Tchelinho",
-          "url": "https://open.spotify.com/artist/2OMImVZQlaVtav9HoKxrbv"
-        }
-      ],
-      "duration_ms": 145056,
-      "name": "FOGO NO BARRACO",
-      "url": "https://open.spotify.com/track/1GN6FB6MuUlB0Q1TuIAwiS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S\u00f3 o Amor",
         "url": "https://open.spotify.com/album/2gZUcyRw3gKqRGuFdY2deZ"
       },
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Provocar",
-        "url": "https://open.spotify.com/album/332UyyUgVxTrm29u44ZvtO"
-      },
-      "artists": [
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 168138,
-      "name": "Provocar",
-      "url": "https://open.spotify.com/track/28SWsF1IQxfc9bP5yua35K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LADY LESTE",
         "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 230907,
       "name": "TUA INDECIS\u00c3O",
       "url": "https://open.spotify.com/track/00Ofee5Bbfstz49RfSL0oM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Provocar",
+        "url": "https://open.spotify.com/album/332UyyUgVxTrm29u44ZvtO"
+      },
+      "artists": [
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 168138,
+      "name": "Provocar",
+      "url": "https://open.spotify.com/track/28SWsF1IQxfc9bP5yua35K"
     },
     {
       "added_at": null,

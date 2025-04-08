@@ -1339,6 +1339,24 @@
     },
     {
       "album": {
+        "name": "Lontano",
+        "url": "https://open.spotify.com/album/5xIkwmOvPatDLwwbDmj1GO"
+      },
+      "artists": [
+        {
+          "name": "H\u00c5N",
+          "url": "https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156968,
+      "name": "Lontano",
+      "url": "https://open.spotify.com/track/6Y9k0eqeWM6CFTRXmllK2H"
+    },
+    {
+      "album": {
         "name": "Male",
         "url": "https://open.spotify.com/album/3r06PlP8UOSokqGzE0XWxW"
       },

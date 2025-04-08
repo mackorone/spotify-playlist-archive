@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-422 songs - 18 hr 43 min
+423 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Echoes of the Past](https://open.spotify.com/track/2St2TvHIluz7NkdgTcEMEv) | [Xavier Carrington](https://open.spotify.com/artist/0JDZapKabh58jXFvcSqZRB) | [Echoes of the Past](https://open.spotify.com/album/6EZc29CJCqoxrDqMUzxVBQ) | 2:36 | 2024-06-14 |  |
 | [Eclipse](https://open.spotify.com/track/12UPVt8jLdT27AuL6GNMW1) | [Pablo Nadal](https://open.spotify.com/artist/2M7fknVkDTQ47zsPTLKIqX) | [Eclipse](https://open.spotify.com/album/0YMcisX2oCm0YRXIeBu4Ux) | 2:39 | 2024-10-23 |  |
 | [Eclipse](https://open.spotify.com/track/4jsclhn5Q5oYDdV8uFa1DS) | [Taylor Owen](https://open.spotify.com/artist/6ZjCGd6OJIo6RTmtY8Kz0v) | [Eclipse](https://open.spotify.com/album/526Ra8D1uYLW8XcpT0Tw29) | 2:04 | 2024-02-02 |  |
+| [Endgame](https://open.spotify.com/track/6EyZTUkXVvaoT8ZkAEck4E) | [Quinn Sage](https://open.spotify.com/artist/4k3ooZfSTsaIT5DPGL2dhz) | [Endgame](https://open.spotify.com/album/5IwXI2UHldpAqroGqKUEKT) | 2:36 | 2025-04-07 |  |
 | [Endlessly](https://open.spotify.com/track/2tVlSbzameLECtSMMfCslf) | [Ronald Emery](https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j) | [Endlessly](https://open.spotify.com/album/6SR2y0cQ60pCES83O4oIAN) | 2:37 | 2024-09-25 |  |
 | [Enrejado](https://open.spotify.com/track/30qtyIShVMKBJ2BzHdHOpz) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Enrejado](https://open.spotify.com/album/7qlWfiqgc8galnEyU9AFO1) | 3:37 | 2021-12-10 | 2022-07-08 |
 | [Erwachen der Berge](https://open.spotify.com/track/05VGUOV68jMyJEc2iTRId8) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Salzburger Winter](https://open.spotify.com/album/5vYvjK1qarprGS6dmqb8xr) | 3:04 | 2022-11-25 | 2024-05-10 |

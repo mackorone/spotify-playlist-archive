@@ -251,6 +251,24 @@
     },
     {
       "album": {
+        "name": "A\u00fan Queda Esperanza",
+        "url": "https://open.spotify.com/album/5jKnxgsj9a5Hj73gG4yGgk"
+      },
+      "artists": [
+        {
+          "name": "Francisco Chavez",
+          "url": "https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157082,
+      "name": "A\u00fan Queda Esperanza",
+      "url": "https://open.spotify.com/track/1HZcCCtG85KLI0pQi3Vjr2"
+    },
+    {
+      "album": {
         "name": "Cafe Ol\u00e9",
         "url": "https://open.spotify.com/album/4vTKwJlyyvNtqVT3tKK52D"
       },
@@ -422,7 +440,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 191108,
       "name": "B\u00e9same Mucho",
       "url": "https://open.spotify.com/track/0WlaFDGrsRstbIF44eWLVP"
@@ -440,7 +458,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 285366,
       "name": "Camino blanco (Grana\u00ednas)",
       "url": "https://open.spotify.com/track/447HtR7a5Rp0TE4DmWlUOE"
@@ -1264,7 +1282,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 172720,
       "name": "Lluvia de plata",
       "url": "https://open.spotify.com/track/27m9KY1k0T2tvrOlvnWKZS"
@@ -1340,7 +1358,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 299000,
       "name": "Lluvia y Fuego",
       "url": "https://open.spotify.com/track/3TgwdNzeyBDULQegzflZpN"
@@ -1394,7 +1412,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 419480,
       "name": "Malaguena",
       "url": "https://open.spotify.com/track/7fhqEnnUSfREXfYwDlaU8d"
@@ -2020,7 +2038,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-08",
       "duration_ms": 133437,
       "name": "Tu Perfume",
       "url": "https://open.spotify.com/track/091UBqLSNqZzoJ7q5XbhVO"

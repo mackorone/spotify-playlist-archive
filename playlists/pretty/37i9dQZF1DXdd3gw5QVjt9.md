@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 
 > Rise with a relaxing blend of folk and acoustic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,157,482 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,157,469 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 29 | [Like Gold](https://open.spotify.com/track/0IcYIjsfFEOIY1GI4t7dLu) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Like Gold](https://open.spotify.com/album/6yRUQ6BsMwy64HN85KDOol) | 3:43 |
 | 30 | [Red And Gold](https://open.spotify.com/track/0t0RCYwio7OT0mtCAmv5mS) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Some People I Know](https://open.spotify.com/album/1BpdKszhtmmlaOqG3McH0g) | 2:19 |
 | 31 | [Lemon \[Feat\. Sharon Van Etten\]](https://open.spotify.com/track/2WphjSfmTbX4wZ48SzYwaH) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Lemon \[Feat\. Sharon Van Etten\]](https://open.spotify.com/album/5TQRtgQRRNiXb2fIah2lE4) | 3:17 |
-| 32 | [Lonelier Together](https://open.spotify.com/track/3fAWcqhon7NaKQc7f7bl4V) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Lonelier Together](https://open.spotify.com/album/3DpUSzJn3TcSDBGyTHxnoW) | 1:45 |
-| 33 | [Summer Somewhere](https://open.spotify.com/track/0O6t5iea0DrY9mDmohS94t) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Summer Somewhere](https://open.spotify.com/album/7tFFrfykBAkvVW4VX638U3) | 3:03 |
+| 32 | [Summer Somewhere](https://open.spotify.com/track/0O6t5iea0DrY9mDmohS94t) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Summer Somewhere](https://open.spotify.com/album/7tFFrfykBAkvVW4VX638U3) | 3:03 |
+| 33 | [Lonelier Together](https://open.spotify.com/track/3fAWcqhon7NaKQc7f7bl4V) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Lonelier Together](https://open.spotify.com/album/3DpUSzJn3TcSDBGyTHxnoW) | 1:45 |
 | 34 | [Old Town](https://open.spotify.com/track/62wUcF268nKH9HcMaY247d) | [Luis Trindade](https://open.spotify.com/artist/2g84j7g5nypsaX8wm1BgMk) | [Dead Leaves](https://open.spotify.com/album/0o2IV3vdXZPKlra69nlZNZ) | 3:07 |
 | 35 | [Oh Ohio](https://open.spotify.com/track/7C6J0ZRMJnkpU3T4XPBUOl) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Oh Ohio](https://open.spotify.com/album/7hXB5KdtSNNwns8lMyjkY5) | 2:58 |
 | 36 | [Flash in the Pan](https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Eleven Songs](https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76) | 2:49 |
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 50 | [Futures](https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Extralife](https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E) | 4:45 |
 | 51 | [Asylum](https://open.spotify.com/track/736Jy0aC33icgo4VWXgnU6) | [Chloe Foy](https://open.spotify.com/artist/3KSEcvpvbR40uwA4eiSJUa) | [Asylum](https://open.spotify.com/album/72lIVHTGWdypCkAqXuaZI3) | 3:51 |
 | 52 | [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 |
-| 53 | [Better Way](https://open.spotify.com/track/74XfNFAVAxZrTUupTlQ5SB) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Better Way](https://open.spotify.com/album/3wodOxvLjVE7JmMPqOtS1M) | 5:56 |
-| 54 | [Cormorant Bird](https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [Cormorant Bird](https://open.spotify.com/album/6TfLPZhtwAxbeWMuCLxPYq) | 3:27 |
-| 55 | [Orange Tree](https://open.spotify.com/track/46wdJgqQWFTFRcLSBzSSB8) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Orange Tree](https://open.spotify.com/album/7EaE1uo0K2t9uy6qrmVOCc) | 3:12 |
-| 56 | [Don’t Give Up](https://open.spotify.com/track/0VMArnkTGXu901bqlKmJJY) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Don’t Give Up](https://open.spotify.com/album/6RRhcCl75f2mEGzxk0Y9qz) | 5:07 |
+| 53 | [Cormorant Bird](https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [Cormorant Bird](https://open.spotify.com/album/6TfLPZhtwAxbeWMuCLxPYq) | 3:27 |
+| 54 | [Better Way](https://open.spotify.com/track/74XfNFAVAxZrTUupTlQ5SB) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Better Way](https://open.spotify.com/album/3wodOxvLjVE7JmMPqOtS1M) | 5:56 |
+| 55 | [Don’t Give Up](https://open.spotify.com/track/0VMArnkTGXu901bqlKmJJY) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Don’t Give Up](https://open.spotify.com/album/6RRhcCl75f2mEGzxk0Y9qz) | 5:07 |
+| 56 | [Orange Tree](https://open.spotify.com/track/46wdJgqQWFTFRcLSBzSSB8) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Orange Tree](https://open.spotify.com/album/7EaE1uo0K2t9uy6qrmVOCc) | 3:12 |
 | 57 | [Persephone](https://open.spotify.com/track/2icih9ttMWVZCIJRHmdUA0) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Persephone](https://open.spotify.com/album/6YefG0DventwCUhX8PgzP9) | 4:22 |
 | 58 | [IOU](https://open.spotify.com/track/566x9tfHqcnSM2LgxdIjR8) | [Olivia Chaney](https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e) | [Shelter](https://open.spotify.com/album/6LLJ8sHSiPlTXBNcNTiKOC) | 4:03 |
 | 59 | [Precious Days](https://open.spotify.com/track/5axqvLkin2hooZIOkMAz68) | [Forest Sun](https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf) | [Precious Days](https://open.spotify.com/album/2P7AC2PBAtVtcm9JZgdDUC) | 2:45 |

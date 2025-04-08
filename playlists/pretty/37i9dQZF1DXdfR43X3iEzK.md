@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > my alt/pop could mean anything \~<br/>rachel chinouriri on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,050 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,045 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Last Girls At The Party](https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Last Girls At The Party](https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU) | 2:42 |
 | 2 | [23:42](https://open.spotify.com/track/0I1WEMYSU0dfENElriMamz) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/5pDnBe24XMck0UQnDGD8WL) | 3:01 |
-| 3 | [LCA](https://open.spotify.com/track/2UnBCcS2IhYdOzh3ACOnSS) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [LCA](https://open.spotify.com/album/5kp76qchpeMxS0EmeOdNkv) | 2:39 |
-| 4 | [Issues](https://open.spotify.com/track/72I9mUGnrnuTLQNwBGNiWr) | [Nii](https://open.spotify.com/artist/4EuozD5gx5k8S76xh8XwnV) | [Issues](https://open.spotify.com/album/0k6TvGI67qgblSaY1QWxC6) | 4:07 |
-| 5 | [catch these fists](https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [catch these fists](https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496) | 3:08 |
-| 6 | [Chapel of Salt](https://open.spotify.com/track/3j5KrZaaNOdHRydQ8w4Ck8) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Ginkgo](https://open.spotify.com/album/1YO3Eb228rrhTC0gKgGxSW) | 3:08 |
-| 7 | [MDE](https://open.spotify.com/track/2jDFXO72LEFopl2IM4vZoI) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [MDE](https://open.spotify.com/album/6hF8DcIpra4pbkhcgakDlm) | 4:47 |
+| 3 | [MDE](https://open.spotify.com/track/2jDFXO72LEFopl2IM4vZoI) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [MDE](https://open.spotify.com/album/6hF8DcIpra4pbkhcgakDlm) | 4:47 |
+| 4 | [catch these fists](https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [catch these fists](https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496) | 3:08 |
+| 5 | [eighteen](https://open.spotify.com/track/4Nbl1AJEFlECs2PhpxU7o9) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [eighteen](https://open.spotify.com/album/5YRU0weFWelGixTTLqqdoR) | 3:34 |
+| 6 | [Issues](https://open.spotify.com/track/72I9mUGnrnuTLQNwBGNiWr) | [Nii](https://open.spotify.com/artist/4EuozD5gx5k8S76xh8XwnV) | [Issues](https://open.spotify.com/album/0k6TvGI67qgblSaY1QWxC6) | 4:07 |
+| 7 | [LCA](https://open.spotify.com/track/2UnBCcS2IhYdOzh3ACOnSS) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [LCA](https://open.spotify.com/album/5kp76qchpeMxS0EmeOdNkv) | 2:39 |
 | 8 | [Psycho](https://open.spotify.com/track/3yTI3OvnXDJsTusEqkVaNt) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Psycho](https://open.spotify.com/album/6bqus3Y14ybl1sI3B49EOb) | 3:32 |
-| 9 | [eighteen](https://open.spotify.com/track/4Nbl1AJEFlECs2PhpxU7o9) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [eighteen](https://open.spotify.com/album/5YRU0weFWelGixTTLqqdoR) | 3:34 |
-| 10 | [My Everything](https://open.spotify.com/track/7AnKq274KBoXdauPkKqKBk) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Two Lives](https://open.spotify.com/album/2iRVSj9OgvwzDVPGoYoG2U) | 3:21 |
+| 9 | [My Everything](https://open.spotify.com/track/7AnKq274KBoXdauPkKqKBk) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Two Lives](https://open.spotify.com/album/2iRVSj9OgvwzDVPGoYoG2U) | 3:21 |
+| 10 | [Chapel of Salt](https://open.spotify.com/track/3j5KrZaaNOdHRydQ8w4Ck8) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Ginkgo](https://open.spotify.com/album/1YO3Eb228rrhTC0gKgGxSW) | 3:08 |
 | 11 | [Crushing!](https://open.spotify.com/track/6h4m0ZZhvGnFPrRJ8qmax1) | [Ziggy 2000](https://open.spotify.com/artist/1QTanwqlZCwb5kbYbkFI2r) | [Crushing!](https://open.spotify.com/album/1JxCqmjMtWU2HXPSNNoWgA) | 3:05 |
 | 12 | [Can we talk about Isaac?](https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Can we talk about Isaac?](https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8) | 4:03 |
-| 13 | [when you leave](https://open.spotify.com/track/4dF54aAxNcXkoyDzzuGEJz) | [woody](https://open.spotify.com/artist/1MOlxrTqAReNKA5a5uFvC4) | [when you leave / when you were around](https://open.spotify.com/album/78993tLrhaUBssEaScVp0k) | 3:12 |
-| 14 | [babygirl \(like n01 else\)](https://open.spotify.com/track/3kBOW8cxHKciSs8fesdjho) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [babygirl \(like n01 else\)](https://open.spotify.com/album/1UE8gmKJrfPoeXhzvMTZlG) | 3:44 |
+| 13 | [babygirl \(like n01 else\)](https://open.spotify.com/track/3kBOW8cxHKciSs8fesdjho) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [babygirl \(like n01 else\)](https://open.spotify.com/album/1UE8gmKJrfPoeXhzvMTZlG) | 3:44 |
+| 14 | [when you leave](https://open.spotify.com/track/4dF54aAxNcXkoyDzzuGEJz) | [woody](https://open.spotify.com/artist/1MOlxrTqAReNKA5a5uFvC4) | [when you leave / when you were around](https://open.spotify.com/album/78993tLrhaUBssEaScVp0k) | 3:12 |
 | 15 | [Lucy](https://open.spotify.com/track/2djMadJLhufUl397ravYvO) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Lucy](https://open.spotify.com/album/1ayJQYYEf8irFc5UVR82f8) | 2:41 |
 | 16 | [Floods](https://open.spotify.com/track/4GHTJzG3FV8TptOoPJPoo2) | [Paige Bea](https://open.spotify.com/artist/13OFf8e9FsAgMtdhivPhTA) | [Flutters](https://open.spotify.com/album/0yG6w4iiylJyAGcR9TsdzZ) | 3:21 |
 | 17 | [Alone With You](https://open.spotify.com/track/4twZYaycgkHGouSHWd6coG) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Slow Crush](https://open.spotify.com/album/0g0bAZkZDREcGkAo5jzuYU) | 3:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 59 | [Jim](https://open.spotify.com/track/4p5sL5mKAdMP0w4aAkUQY2) | [Jordan Patterson](https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G) | [Jim](https://open.spotify.com/album/2OkJPYBYQCTlRkzknoZTdF) | 4:49 |
 | 60 | [LOOK GOOD NAKED](https://open.spotify.com/track/76Yz3qIe8Rh9gdU3LgCqI2) | [DEMISANTÉ](https://open.spotify.com/artist/7GpNPLZ5JiluMbMZxh1EUq), [Demi Yo'ko](https://open.spotify.com/artist/7KFJi5XXBTrDfn7mhkcHpf) | [LOOK GOOD NAKED](https://open.spotify.com/album/2iGrvWNSvE0Z1b2wDEbNd3) | 2:16 |
 
-Snapshot ID: `Z++x2gAAAAAvqci/hgXByML1bGPPmHmS`
+Snapshot ID: `Z/O8MQAAAABcOysDCkRIJhQwtQ7vfzn0`
