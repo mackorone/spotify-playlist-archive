@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-892 songs - 3 day 5 hr 18 min
+893 songs - 3 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -489,6 +489,7 @@
 | [Marimba](https://open.spotify.com/track/1RiRfhBguCU7nmxkdK1cdW) | [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Marimba](https://open.spotify.com/album/4f7UUXCh9WUMTstz8PMLcx) | 5:59 | 2021-04-21 | 2023-04-01 |
 | [Mariposa](https://open.spotify.com/track/4vBoDgmhEeGd8mNBS9gTso) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA), [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Mariposa](https://open.spotify.com/album/7c431xYw1mJqGslm1DkQ3g) | 7:31 | 2021-07-09 | 2022-07-10 |
 | [Masterclass](https://open.spotify.com/track/043vqBDn7RzuxJ1FF35Qht) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Masterclass](https://open.spotify.com/album/0EnaDpMlUTsWUVRPhwxPCD) | 3:32 | 2025-03-21 |  |
+| [Matador](https://open.spotify.com/track/7u7uU8jZ9ZVjgy1SZTBTMh) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ), [Vibarco](https://open.spotify.com/artist/1oVPt5RzxWvUjZKCgnbQul) | [Matador](https://open.spotify.com/album/1s44DLWFcVvwNNfE45KKPr) | 3:27 | 2025-04-04 |  |
 | [Matahale](https://open.spotify.com/track/1t2prKx2l2b4mxsk3rlhaD) | [Goldcher](https://open.spotify.com/artist/1n9K41Jye8s8F0z1hb1Qhz), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj), [Manuel Riva](https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99) | [Matahale](https://open.spotify.com/album/4h8slpY81obL56W9pz0Umj) | 3:12 | 2024-11-15 |  |
 | [Matangi](https://open.spotify.com/track/07nVOOusinceXoUPH4ko89) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Matangi](https://open.spotify.com/album/45Q1bss7wlmJI3rxVXgXS4) | 7:45 | 2021-12-10 | 2022-07-29 |
 | [Maundu](https://open.spotify.com/track/3M9zD6847EoxgW0b2YEvBs) | [Banyan](https://open.spotify.com/artist/7tAaeOOFJ3i5EGaiacyDei) | [Maundu](https://open.spotify.com/album/4qnrLtbLwfZoiyLogZOubO) | 2:16 | 2024-01-19 | 2024-10-16 |
@@ -803,7 +804,7 @@
 | [Time \- Edit](https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Time](https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp) | 2:04 | 2024-04-26 | 2025-01-11 |
 | [Titatite \- Radio Edit](https://open.spotify.com/track/2K0oKmsSeBoCp6dEjfv98T) | [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp) | [Titatite](https://open.spotify.com/album/2FYzhHxTqcvHffJWkjQPbJ) | 2:41 | 2024-08-30 |  |
 | [To The Light \- Fideles Remix](https://open.spotify.com/track/4dnmKgkhPvrRrDYjajpPS5) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [To The Light \(Fideles Remix\)](https://open.spotify.com/album/6jNIuiKaLvkGloJnqq40Cp) | 4:30 | 2022-07-01 | 2022-12-17 |
-| [Toca's Miracle \- Vidojean X Oliver Loenn Edit](https://open.spotify.com/track/5ossegb3v0QlneLi8lg2Js) | [Fragma](https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ), [Vidojean X Oliver Loenn](https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH) | [Toca's Miracle \(Vidojean X Oliver Loenn Remix\)](https://open.spotify.com/album/3iZiVixxOHI3UqRnRSRzGN) | 2:35 | 2024-12-20 |  |
+| [Toca's Miracle \- Vidojean X Oliver Loenn Edit](https://open.spotify.com/track/5ossegb3v0QlneLi8lg2Js) | [Fragma](https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ), [Vidojean X Oliver Loenn](https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH) | [Toca's Miracle \(Vidojean X Oliver Loenn Remix\)](https://open.spotify.com/album/3iZiVixxOHI3UqRnRSRzGN) | 2:35 | 2024-12-20 | 2025-04-09 |
 | [Together We Stand \- Chambord Remix](https://open.spotify.com/track/6HmUobqcMJAYAZUIiUdtNF) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Chambord](https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ) | [Together We Stand \(Chambord Remix\)](https://open.spotify.com/album/1XUl9gl3vigwmepOxjTBml) | 6:59 | 2024-04-19 | 2024-07-06 |
 | [Told You](https://open.spotify.com/track/4UHPdV0a90USlUxUgnXIU2) | [Kiko Franco](https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2), [Moser](https://open.spotify.com/artist/65SpeN8U0BX9M36pxgiigT), [Dyve](https://open.spotify.com/artist/1u2imct5j7WJaYoVCA1sKE) | [Told You](https://open.spotify.com/album/1pBrVcrcW1nUUZIT3w2xUN) | 4:02 | 2024-02-02 | 2024-10-26 |
 | [Tomorrow Never Comes](https://open.spotify.com/track/4Tvaj8JLT7ZJirW0ecS5fj) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA), [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Tomorrow Never Comes](https://open.spotify.com/album/1079gJBzcgvMazB8hlc2if) | 7:48 | 2021-04-21 | 2022-07-14 |

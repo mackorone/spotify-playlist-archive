@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWRBn5XivGEJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWRBn5XivGEJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWRBn5XivGEJ)
 
-### [デッドデッドデーモンズデデデデデストラクション Dead Dead Demon's Dededede Destruction ](https://open.spotify.com/playlist/37i9dQZF1DWWRBn5XivGEJ)
+### [Dead Dead Demon's Dededede Destruction ](https://open.spotify.com/playlist/37i9dQZF1DWWRBn5XivGEJ)
 
-> アニメ「デッドデッドデーモンズデデデデデストラクション」の世界を彩る楽曲をプレイリストで。Music from "Dead Dead Demon's Dededede Destruction"! ©︎浅野いにお／小学館／DeDeDeDe Committee
+> Music from "Dead Dead Demon's Dededede Destruction"! ©︎浅野いにお／小学館／DeDeDeDe Committee
 
 29 songs - 1 hr 14 min
 

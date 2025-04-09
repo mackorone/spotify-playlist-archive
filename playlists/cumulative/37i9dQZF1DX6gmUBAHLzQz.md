@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6gmUBAHLzQz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6gmUBAHLzQz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6gmUBAHLzQz)
 
-### [Let's Aikatsu! \-アイカツ\-！](https://open.spotify.com/playlist/37i9dQZF1DX6gmUBAHLzQz)
+### [Let's Aikatsu!](https://open.spotify.com/playlist/37i9dQZF1DX6gmUBAHLzQz)
 
-> Music from "Aikatsu!", a story of young girls dreaming of becoming a top idol\. トップアイドルを目指す少女達の物語、<a href="http://www.aikatsu.net/01/">アイカツ！</a>の煌めく世界へ。\(C\)BNP/BANDAI, DENTSU, TV TOKYO
+> Music from "Aikatsu!", a story of young girls dreaming of becoming a top idol\. \(C\)BNP/BANDAI, DENTSU, TV TOKYO
 
 144 songs - 10 hr 36 min
 

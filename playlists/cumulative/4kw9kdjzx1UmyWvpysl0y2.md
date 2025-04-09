@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-954 songs - 2 day 5 hr 56 min
+955 songs - 2 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Daisies](https://open.spotify.com/track/67k9neQm9nlnMnejMpRXSN) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Olmos](https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV) | [Daisies](https://open.spotify.com/album/37kDHVg9VwJgW5fbKkwzls) | 3:39 | 2022-07-05 | 2022-09-17 |
 | [Damage](https://open.spotify.com/track/6S0nRvCvWPpYg07vDqf1gM) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [Damage](https://open.spotify.com/album/4NqxRinZeiR45um7j2AHC1) | 3:21 | 2024-05-13 | 2024-08-02 |
 | [DAMAGE](https://open.spotify.com/track/0afxbRf1Xy7IwYuzoJtDZy) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q) | [DAMAGE](https://open.spotify.com/album/6aCtnpIFYQIzSbH8suxXYR) | 3:33 | 2022-09-06 | 2022-11-05 |
-| [Damage](https://open.spotify.com/track/4uwscfpPs3qMpswueaKISw) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Damage](https://open.spotify.com/album/1nYaZZovs0DuMxyYn79XP9) | 3:15 | 2025-02-03 |  |
+| [Damage](https://open.spotify.com/track/4uwscfpPs3qMpswueaKISw) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [DJ DIESEL](https://open.spotify.com/artist/1HBcSNYKyatbUP0cC8usCv), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Damage](https://open.spotify.com/album/1nYaZZovs0DuMxyYn79XP9) | 3:15 | 2025-02-03 |  |
 | [Dance](https://open.spotify.com/track/2CJ3C71X04uLmbRGkyOThc) | [Sophon](https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV) | [Dance](https://open.spotify.com/album/0CySejF1LV9VLTwvLR39F4) | 3:46 | 2022-05-16 | 2022-07-27 |
 | [Dancing With Myself](https://open.spotify.com/track/3V0WvIVH1TgKTf2ouORpVR) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Dancing With Myself](https://open.spotify.com/album/22NZ46wBNwrQRWFe9qyq00) | 2:43 | 2024-03-06 | 2024-06-01 |
 | [Daybreak](https://open.spotify.com/track/3JRTdqas2IpIXLGdrLhRUG) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [Daybreak](https://open.spotify.com/album/3H3s8lkiSk2psIyUf5T0eh) | 3:06 | 2023-07-26 | 2023-12-14 |
@@ -356,6 +356,7 @@
 | [Grimoire](https://open.spotify.com/track/7fa5wc6BKbAvEHrV2muKGx) | [Caster](https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox) | [Grimoire](https://open.spotify.com/album/5PnPerL51mnpKq9HOo7vS0) | 3:51 | 2022-07-04 | 2022-09-17 |
 | [Grit](https://open.spotify.com/track/0LvnA5s3ks9pVKnRnEo4dl) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Grit](https://open.spotify.com/album/1sb0N6xaPvu2mX0BLhMnmU) | 4:43 | 2022-06-06 | 2022-08-16 |
 | [Groovemasta](https://open.spotify.com/track/26wsiUVYF5M42ikSihxWBl) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa) | [Groovemasta / Beat It Up](https://open.spotify.com/album/6KhQTzoIA3aOtNZuydQ80J) | 4:12 | 2023-08-16 | 2023-12-14 |
+| [Growing](https://open.spotify.com/track/0FhhB1WsXkfUyq1eWkUxAw) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc) | [Growing](https://open.spotify.com/album/1lQwhGH4EobT1h4YXTWuMb) | 3:04 | 2025-04-08 |  |
 | [Guesses](https://open.spotify.com/track/1MHmJo43gtIN6TQdyuudUB) | [Foxela](https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu), [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Guesses](https://open.spotify.com/album/2jWPkteLzjDBXLJMbmiaI6) | 3:21 | 2023-02-17 | 2023-05-13 |
 | [Guiding Light](https://open.spotify.com/track/6dbRhELPiOv4nUNu65lTUJ) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Guiding Light](https://open.spotify.com/album/0myJX8G6tOvCxCR4jiWWJR) | 2:57 | 2022-06-28 | 2022-09-10 |
 | [Happiness \(Just A Pursuit\)](https://open.spotify.com/track/0yyH8JYSfGEDJRUyllg4CG) | [Mick Mazoo](https://open.spotify.com/artist/1Yx2K8SQD3JPnPesUxNqve), [Leela Rosa](https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66) | [Happiness \(Just A Pursuit\)](https://open.spotify.com/album/26llcMMM2WioNcKNlmrFIk) | 2:44 | 2022-07-12 | 2022-09-23 |

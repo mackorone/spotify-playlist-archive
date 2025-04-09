@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6tKzjxaqjVq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6tKzjxaqjVq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6tKzjxaqjVq)
 
-### [Shangri\-La Frontier シャングリラ・フロンティア](https://open.spotify.com/playlist/37i9dQZF1DX6tKzjxaqjVq)
+### [Shangri\-La Frontier](https://open.spotify.com/playlist/37i9dQZF1DX6tKzjxaqjVq)
 
-> Enjoy music from "Shangri\-La Frontier"!  TVアニメ『シャングリラ・フロンティア』シリーズの楽曲を1つのプレイリストに。©硬梨菜・不二涼介・講談社／「シャングリラ・フロンティア」製作委員会
+> Enjoy music from "Shangri\-La Frontier"!©硬梨菜・不二涼介・講談社／「シャングリラ・フロンティア」製作委員会
 
 50 songs - 2 hr 7 min
 

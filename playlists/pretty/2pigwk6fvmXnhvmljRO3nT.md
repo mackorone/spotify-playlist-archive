@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 6,571 songs - 17 day 4 hr 32 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 6,572 songs - 17 day 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5509,7 +5509,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 5499 | [シュガーソングとビターステップ](https://open.spotify.com/track/6bfjEGSR7DyC8MK8cp3ZCp) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [Dr.Izzy](https://open.spotify.com/album/66AWCzSxxBUxLlN5Mw3YdW) | 4:13 |
 | 5500 | [Catch up, latency](https://open.spotify.com/track/1OS3kgxIBgYqkCfUCkfakM) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [UNISON SQUARE GARDEN The 1st Collection for streaming](https://open.spotify.com/album/6Rm9rTuxsvukGVowLHP93c) | 4:45 |
 | 5501 | [So Good at Being in Trouble](https://open.spotify.com/track/3DXHaJzqRCgv3rd5U9EoXU) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II \(10 Year Anniversary Edition\)](https://open.spotify.com/album/1boMSpoKkFe901QZaU7Gb3) | 3:50 |
-| 5502 | [뿌요뿌요](https://open.spotify.com/track/4FyJtlsvCNO8uS58aqI354) | [UP](https://open.spotify.com/artist/1gjzJCtXM9MERO7IyUNLUN) | [Second Birth](https://open.spotify.com/album/62tR9ZoFJr4GcfTMgjDacm) | 4:00 |
+| 5502 | [Pyo Pyo](https://open.spotify.com/track/4FyJtlsvCNO8uS58aqI354) | [UP](https://open.spotify.com/artist/1gjzJCtXM9MERO7IyUNLUN) | [Second Birth](https://open.spotify.com/album/62tR9ZoFJr4GcfTMgjDacm) | 4:00 |
 | 5503 | [바다](https://open.spotify.com/track/4jRAFSysiQ7Tw4QwUB5zgm) | [UP](https://open.spotify.com/artist/1gjzJCtXM9MERO7IyUNLUN) | [Second Birth](https://open.spotify.com/album/62tR9ZoFJr4GcfTMgjDacm) | 3:46 |
 | 5504 | [Yeah! \(feat\. Lil Jon & Ludacris\)](https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:10 |
 | 5505 | [My Boo](https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:43 |
@@ -5935,10 +5935,10 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 5925 | [사랑이 슬픔에게](https://open.spotify.com/track/41IpMIfSgmj3lIsFEvlYzd) | [야다](https://open.spotify.com/artist/3YB77fanbqqyPS7NstYpOE) | [Restructure](https://open.spotify.com/album/6NEUkvavXv0GoJYxWPpfLp) | 5:09 |
 | 5926 | [이미 슬픈 사랑](https://open.spotify.com/track/4OKJVnIyO8KRq182dstNOI) | [야다](https://open.spotify.com/artist/3YB77fanbqqyPS7NstYpOE) | [Wear To Healing](https://open.spotify.com/album/2AnkRwvtuLl5DwmrwSRndo) | 4:03 |
 | 5927 | [발걸음](https://open.spotify.com/track/7JN8HvhCflgYz0ZqZeoljj) | [에메랄드 캐슬](https://open.spotify.com/artist/7zPGoXRG2xvV99yRfzM3Yp) | [Invitation](https://open.spotify.com/album/1E1VNOZbbsnKxEpRgXP5Jd) | 4:09 |
-| 5928 | [굿바이데이](https://open.spotify.com/track/4Xjs8WcNzUgDuIybvDXaAU) | [울랄라세션](https://open.spotify.com/artist/4r4f4hYXqvB1xGMxm6JcF7) | [각시탈 \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/6UrKATpz7QOhJPN6IH2K1A) | 3:54 |
+| 5928 | [굿바이데이](https://open.spotify.com/track/4Xjs8WcNzUgDuIybvDXaAU) | [Ulala Session](https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A) | [Bridal Mask \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/6UrKATpz7QOhJPN6IH2K1A) | 3:54 |
 | 5929 | [사랑해도 될까요](https://open.spotify.com/track/46QicdshnZWfK03S5Qumax) | [유리상자](https://open.spotify.com/artist/0XT8epaZZMkIeYcu17Ie2Z) | [All That Yurisangja](https://open.spotify.com/album/4Tx0odGJYdzB6eCZGbU1De) | 3:47 |
 | 5930 | [아름다운 세상](https://open.spotify.com/track/1U7aeIHtT712qmF4NnqxS6) | [유리상자](https://open.spotify.com/artist/0XT8epaZZMkIeYcu17Ie2Z) | [All That Yurisangja](https://open.spotify.com/album/4Tx0odGJYdzB6eCZGbU1De) | 3:34 |
-| 5931 | [내가 아는 한가지](https://open.spotify.com/track/6SMMA1ZyE6S2GiOszPqM1a) | [이덕진](https://open.spotify.com/artist/2H8WDXWqRaOo9SxL4jvZ2F) | [Sad Wings Of Destiny](https://open.spotify.com/album/2cJlroOuD4A9sd8b9JdzI4) | 4:19 |
+| 5931 | [내가 아는 한가지](https://open.spotify.com/track/6SMMA1ZyE6S2GiOszPqM1a) | [Lee Duke Jean](https://open.spotify.com/artist/3bA11L05OKpXOFgLAYtLcG) | [Sad Wings Of Destiny](https://open.spotify.com/album/2cJlroOuD4A9sd8b9JdzI4) | 4:19 |
 | 5932 | [이별 아닌 이별](https://open.spotify.com/track/1Yh71bGWlW136ihjQJWHvh) | [이범학](https://open.spotify.com/artist/6yPyifVug5stYR6tOQ7vbs) | [Farewell without Separation](https://open.spotify.com/album/1sUjtOPORdQe0mwmdmfIj3) | 3:31 |
 | 5933 | [한사람을 위한 마음](https://open.spotify.com/track/1fGUw7TnamgzuHk1k4GnFC) | [이오공감](https://open.spotify.com/artist/5EWJwQ7a65qxUY7oXUwjBo) | [2.5.共.感 \(이오공감\)](https://open.spotify.com/album/4VfS86n0Tjr1Y5tuHKMV6j) | 4:24 |
 | 5934 | [시작되는 연인들을 위해](https://open.spotify.com/track/2fQdvi7IsZ8SpowaXXyOPV) | [이원진](https://open.spotify.com/artist/7JEAj7noJi4DpCwHMzQDUL) | [이원진](https://open.spotify.com/album/3Qaf1vKLdymQiAef3OXZFp) | 3:59 |
@@ -6579,5 +6579,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 6569 | [STREET SWEEPER \(feat\. Future\)](https://open.spotify.com/track/3pjzb1lnMOJbWbghMGSp23) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 3:12 |
 | 6570 | [The Way](https://open.spotify.com/track/06EL94D0TA27Ik0Ke5usbj) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Yours Truly](https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A) | 3:47 |
 | 6571 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 |
+| 6572 | [On & On](https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 3:46 |
 
-Snapshot ID: `AAAEDxJe6fV8ooyAmd0xotDgg/FBirCf`
+Snapshot ID: `AAAEELVpNmnXq/kWTDsKSX+mLNFeM3zM`

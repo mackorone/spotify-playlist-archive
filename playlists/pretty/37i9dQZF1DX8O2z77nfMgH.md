@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Eladio Carrión
 
-[Spotify](https://open.spotify.com/user/spotify) - 891,817 likes - 64 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 891,802 likes - 64 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 14 | [Somos Panas](https://open.spotify.com/track/0KTyOklBhZUNKIIAhAhADl) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Somos Panas](https://open.spotify.com/album/3N8SyEAoZePlB2uQmVS9J6) | 2:45 |
 | 15 | [Despedida](https://open.spotify.com/track/110BAOGkDSP4T5hUUius1q) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Despedida](https://open.spotify.com/album/2iYLGQ5pypH737g75mx4yf) | 2:23 |
 | 16 | [Cosas Pendientes](https://open.spotify.com/track/4C1GR4t5ZVMtmbnLgKukgG) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [La Penúltima](https://open.spotify.com/artist/07y4PkqTJCaJAjQ1jCKoJx) | [Cosas Pendientes](https://open.spotify.com/album/05Yk0tdqFcB15BSEs9nYNq) | 2:11 |
-| 17 | [2x1](https://open.spotify.com/track/6xXLOe3aR1iN1UFj9J1Iln) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg), [Valdi](https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK) | [LOS GALÁCTICOS](https://open.spotify.com/album/5jhX4ZQyGLJZG40Ifrzyma) | 3:15 |
+| 17 | [2x1](https://open.spotify.com/track/6xXLOe3aR1iN1UFj9J1Iln) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Valdi](https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [LOS GALÁCTICOS](https://open.spotify.com/album/5jhX4ZQyGLJZG40Ifrzyma) | 3:15 |
 | 18 | [Me Gustan Los Hombres](https://open.spotify.com/track/4xAdTVNxTWHNMiS7k1Xdvs) | [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ), [Ana del Castillo](https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7) | [Me Gustan Los Hombres](https://open.spotify.com/album/0U0SoItZGkL6F0JrUejXiP) | 3:21 |
 | 19 | [Loco Enamorao](https://open.spotify.com/track/2C9wgqVgp2a8mfYDy0cBdG) | [Henry Mendez](https://open.spotify.com/artist/4mnY9Vvz3GXQIyHljvWnY1), [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [Loco Enamorao](https://open.spotify.com/album/7CPL4wlEuAjNfubaCRrJlN) | 2:55 |
 | 20 | [Eres](https://open.spotify.com/track/5dOxmkHjQ0xJIyRzEJsn6e) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Eres](https://open.spotify.com/album/0KiWWTMscBa4ypgrTc8QVQ) | 3:06 |

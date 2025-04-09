@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > Wekelijkse update met Hollands en volks\. Cover: Samuel Welten
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,722 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,727 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Echte Liefde Is Te Koop](https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Echte Liefde Is Te Koop](https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR) | 2:32 |
-| 2 | [Tegen Beter Weten In](https://open.spotify.com/track/4ahKsSkiM4VKoQYEZyhipC) | [Danilo Kuiters](https://open.spotify.com/artist/4kTi1Mu4eeie3aIRImqdyu) | [Tegen Beter Weten In](https://open.spotify.com/album/2fDbec6RW4kp8vBB0TZAO7) | 2:31 |
-| 3 | [Laat Mij Nu Alleen](https://open.spotify.com/track/1Zrp43yN8u5awpag0A3DQo) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp), [ChildsPlay](https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel), [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Laat Mij Nu Alleen](https://open.spotify.com/album/1o1IoR0EyRn13MwJil3kzR) | 2:15 |
-| 4 | [Maximaal](https://open.spotify.com/track/1rzQBh4zaNFZTQmJcTMLKb) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [Maximaal](https://open.spotify.com/album/6Fzj70RX7JTJhXQxHFdWCS) | 2:37 |
-| 5 | [Zeg Me Dat Je Bij Me Blijft](https://open.spotify.com/track/2KcB24vcI1gK03y6Sg5Vgo) | [Donny Ponsen](https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N) | [Zeg Me Dat Je Bij Me Blijft](https://open.spotify.com/album/6p541uFw3xyX3SNTcq6vYy) | 2:34 |
+| 2 | [Zeg Me Dat Je Bij Me Blijft](https://open.spotify.com/track/2KcB24vcI1gK03y6Sg5Vgo) | [Donny Ponsen](https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N) | [Zeg Me Dat Je Bij Me Blijft](https://open.spotify.com/album/6p541uFw3xyX3SNTcq6vYy) | 2:34 |
+| 3 | [Tegen Beter Weten In](https://open.spotify.com/track/4ahKsSkiM4VKoQYEZyhipC) | [Danilo Kuiters](https://open.spotify.com/artist/4kTi1Mu4eeie3aIRImqdyu) | [Tegen Beter Weten In](https://open.spotify.com/album/2fDbec6RW4kp8vBB0TZAO7) | 2:31 |
+| 4 | [Laat Mij Nu Alleen](https://open.spotify.com/track/1Zrp43yN8u5awpag0A3DQo) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp), [ChildsPlay](https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel), [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Laat Mij Nu Alleen](https://open.spotify.com/album/1o1IoR0EyRn13MwJil3kzR) | 2:15 |
+| 5 | [Maximaal](https://open.spotify.com/track/1rzQBh4zaNFZTQmJcTMLKb) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [Maximaal](https://open.spotify.com/album/6Fzj70RX7JTJhXQxHFdWCS) | 2:37 |
 | 6 | [Ruud & Mieke](https://open.spotify.com/track/0oen0qWr9cBEbkytniF5gF) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Ruud & Mieke](https://open.spotify.com/album/5ACmcbFkvQUNmthG07qRBw) | 2:45 |
 | 7 | [Wat liefde is](https://open.spotify.com/track/7pF5SrBs97tPSPhPHBLNQz) | [Ray Benjamin](https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ) | [Wat liefde is](https://open.spotify.com/album/7aMxk1elKgZfZgfpW39XNK) | 3:03 |
 | 8 | [Als De Bob Maar Rijdt](https://open.spotify.com/track/3JZfXDlkfFM2Kj3zWnUhZM) | [Peter Beense](https://open.spotify.com/artist/3upVW49Vj8DqUrkrCYmi86) | [Als De Bob Maar Rijdt](https://open.spotify.com/album/5rlaZzfH3tpiAC52YyhNwZ) | 2:44 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 69 | [Proosten](https://open.spotify.com/track/7h2Qe5LqSK0Eg055lWoF6w) | [Tim Schalkx](https://open.spotify.com/artist/1QW14VwiXvCTlCqqbnOSpG) | [Proosten](https://open.spotify.com/album/4GYvBbBYibkCB4QDlKB23c) | 3:09 |
 | 70 | [Ik wil dat we samen zijn](https://open.spotify.com/track/0sozOmKW166qWsOr8LpUiM) | [Tom Haver](https://open.spotify.com/artist/3bpto27j3QXb2vRPFEVDTK) | [Ik wil dat we samen zijn](https://open.spotify.com/album/2lLv3FpAFwfV9K0gVAchh4) | 2:46 |
 
-Snapshot ID: `Z+8FEAAAAAAQcDkNyFlcHzgZQezkQ3Lm`
+Snapshot ID: `Z/T9fQAAAADHJLXBSfzlznZ3n9iLixgd`

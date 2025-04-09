@@ -4,7 +4,7 @@
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Paris Texas
 
-1,227 songs - 2 day 10 hr 5 min
+1,228 songs - 2 day 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -852,6 +852,7 @@
 | [POPTHATRUNK](https://open.spotify.com/track/4BLbZo3DCqQXMzogWV1GNP) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [POPTHATRUNK](https://open.spotify.com/album/2eFWG2ZnDaiiesSNssfaVc) | 2:13 | 2023-12-15 | 2024-04-19 |
 | [POPTHATRUNK](https://open.spotify.com/track/6FxxGoSCC9UaX8loeVwrcs) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [POPTHATRUNK](https://open.spotify.com/album/0brdkkqwVS8Y4v4s3xCZ7S) | 2:13 | 2023-08-25 | 2024-08-17 |
 | [POS](https://open.spotify.com/track/42ADnFPhERC2Gy1BXb3ehv) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [POS](https://open.spotify.com/album/623ScMbAhkNmOvAUxpZzOT) | 1:49 | 2024-07-12 | 2024-08-31 |
+| [poser](https://open.spotify.com/track/13nMWX9yA13HoDvnQgmgSn) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [we owe you an explanation](https://open.spotify.com/album/0tGQmsJGYRXLXTEVyWZgM1) | 2:23 | 2025-04-08 |  |
 | [Positive](https://open.spotify.com/track/6e3pgQU3ejuK8sqRSHo6su) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ), [YOG$](https://open.spotify.com/artist/22PiLADkpKIOBgYDt10UXI) | [Positive](https://open.spotify.com/album/4hK6GXrRsNajwG0KIPE2vn) | 3:30 | 2023-09-29 | 2023-10-28 |
 | [potentially the interlude](https://open.spotify.com/track/4TzRq3VeLAeIkdLa96QaRl) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Sundial](https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt) | 2:07 | 2023-08-11 | 2023-08-26 |
 | [Power Power \(feat\. Shaun Ross\)](https://open.spotify.com/track/5XzBAMcPTnB3p1xzYyVhxc) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Shaun Ross](https://open.spotify.com/artist/6GaWtlUT3oavD9SEzhZrA1) | [Power Power \(feat\. Shaun Ross\)](https://open.spotify.com/album/1ftvN3M5OehacrwQ0XJ5cP) | 3:08 | 2022-02-25 | 2023-03-11 |
@@ -1168,7 +1169,7 @@
 | [Westside Story \(with Duckwrth\)](https://open.spotify.com/track/11tIIx1IhWCa4CzMtKhvai) | [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [ESCAPISM](https://open.spotify.com/album/5UnNsDfzwec5DDlSYKD03p) | 3:41 | 2023-04-07 | 2023-12-16 |
 | [WHAT DO U LIKE](https://open.spotify.com/track/6FWN1CXHBsePcbztrZI30o) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [SOULCRUSHER](https://open.spotify.com/album/0OkDwD8xxrcR7EF4qno5hC) | 2:16 | 2024-02-09 | 2024-03-02 |
 | [What It Do](https://open.spotify.com/track/1VWoUgwdh1FSuF0KKRJU1E) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [What It Do](https://open.spotify.com/album/7CPV08Fhdf7N8SYyMdhnes) | 1:51 | 2023-12-01 | 2024-08-17 |
-| [WHAT UU BOUT](https://open.spotify.com/track/0z4NThYUZIddYouEIkTINM) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [THEY COULD NEVER MAKE ME HATE YOU](https://open.spotify.com/album/0boiq1S8S5SaCmEuISz8Jt) | 2:36 | 2024-08-16 |  |
+| [WHAT UU BOUT](https://open.spotify.com/track/0z4NThYUZIddYouEIkTINM) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [THEY COULD NEVER MAKE ME HATE YOU](https://open.spotify.com/album/0boiq1S8S5SaCmEuISz8Jt) | 2:36 | 2024-08-16 | 2025-04-09 |
 | [WHAT YOU WANT](https://open.spotify.com/track/1uPdPYQV4S2kl1IXjosbe8) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [WHAT YOU WANT](https://open.spotify.com/album/7c8JXgO8g5gs8ZYzI8eOBJ) | 2:07 | 2024-06-28 | 2024-09-14 |
 | [When "My Way" Kills](https://open.spotify.com/track/7hqTKqBAfUYWldRp4UKYI4) | [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Dangerously Close](https://open.spotify.com/album/3bcwyC3URJ73Jo6xBh8ctc) | 2:28 | 2024-09-13 | 2024-09-28 |
 | [When I Get My Turn?](https://open.spotify.com/track/0BGhMJvmPwf8nWGNpLWFiH) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [When I Get My Turn?](https://open.spotify.com/album/4r1zS7SDOvvnWiKJyakfyr) | 2:49 | 2023-07-28 | 2024-02-17 |

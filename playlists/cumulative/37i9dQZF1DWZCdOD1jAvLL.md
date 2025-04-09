@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: CHYL
 
-794 songs - 1 day 19 hr 17 min
+795 songs - 1 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,7 +442,7 @@
 | [Maria Maria](https://open.spotify.com/track/3aQFj0dc2vv6sAhHSVGoFi) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [Maria Maria](https://open.spotify.com/album/115d9MPpcQT2sKnjpIW12G) | 2:41 | 2023-01-06 | 2023-02-18 |
 | [Maria Maria](https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [Maria Maria](https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd) | 2:41 | 2023-01-06 | 2023-09-09 |
 | [MAS GASOLINA \(feat\. N.F.I\) \- Raffa FL Remix](https://open.spotify.com/track/2bN2G0rRvutCS9VscUvdtr) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7), [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [N.F.I](https://open.spotify.com/artist/1UmSNiqXtkwAXtzdejWypd) | [MAS GASOLINA \(feat\. N.F.I\) \[Raffa FL Remix\]](https://open.spotify.com/album/1MYLHN9B1U64X1S2ffZBhn) | 3:15 | 2022-12-09 | 2023-04-03 |
-| [MASK OFF](https://open.spotify.com/track/33Ik4MjhfHmHsWg26HcsC1) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [MASK OFF](https://open.spotify.com/album/3lCaRV6wRlnqeT1KJUfM2W) | 2:09 | 2024-07-05 |  |
+| [MASK OFF](https://open.spotify.com/track/33Ik4MjhfHmHsWg26HcsC1) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [MASK OFF](https://open.spotify.com/album/3lCaRV6wRlnqeT1KJUfM2W) | 2:09 | 2024-07-05 | 2025-04-09 |
 | [Me Without You](https://open.spotify.com/track/4E5jCl0d2Kz7foKzPHeMch) | [Piques](https://open.spotify.com/artist/1ELhwVuttnZmGrSCTYHTfH), [Lash](https://open.spotify.com/artist/29yIRv8gkNZbAX1J1RlfXx), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Me Without You](https://open.spotify.com/album/646pzrW0lCEgE8kMxZ6CtT) | 2:45 | 2022-01-28 | 2022-06-18 |
 | [Meet Me At The Rave](https://open.spotify.com/track/5xPocHaGYDKtxrqOnbWPLF) | [Friendly Fire](https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK), [Max Low](https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP) | [Meet Me At The Rave](https://open.spotify.com/album/2wEzHPGyTNbDfF9VhrpFIQ) | 2:43 | 2023-07-14 | 2023-09-14 |
 | [Melting \(feat\. Vania\)](https://open.spotify.com/track/0zpYEepBtxt5DRjSukwJ9X) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Vania](https://open.spotify.com/artist/6h3MHimQgTrJFz3UIrXgcC) | [Block Party EP](https://open.spotify.com/album/4FzRIPDFKyeObIV7gcF8ca) | 3:07 | 2022-09-02 | 2023-01-21 |
@@ -591,6 +591,7 @@
 | [Remember](https://open.spotify.com/track/4LcQsNphmEdfDzYmQYNeBb) | [Merger](https://open.spotify.com/artist/6ibRf7SDr5Vj50Wny4XCV7), [Brocofski](https://open.spotify.com/artist/0ZDmmQEgQZ0AVY2OQ1f0LV) | [Remember](https://open.spotify.com/album/2bEbCC6j3wC7u9ebfskF5x) | 3:10 | 2022-01-14 | 2022-02-12 |
 | [Remember Me](https://open.spotify.com/track/6miku1r04c7k6Si5YsPBQV) | [Ekali](https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd), [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [Remember Me](https://open.spotify.com/album/625yDsem91i2TTG029lreQ) | 4:18 | 2022-03-11 | 2022-06-25 |
 | [Renegade](https://open.spotify.com/track/0ciBdxlofdSf1AePCpXGVF) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Renegade](https://open.spotify.com/album/1QXFEHH8wWGzKFAOcuWsbd) | 4:45 | 2022-12-02 | 2023-10-14 |
+| [Reset](https://open.spotify.com/track/6tRdv220YVrCTppDGqQ9zW) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Dave Summer](https://open.spotify.com/artist/24qTxxQWmyOY28ZtW5z7O5) | [Reset](https://open.spotify.com/album/4L4JxHgkjZQcUTfQ7HaA2Q) | 3:11 | 2025-04-04 |  |
 | [Resist](https://open.spotify.com/track/3y3XOxFORmCpcnuEGSyJau) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Resist](https://open.spotify.com/album/3DKGDP3kgAPPIQYXo5ZdI3) | 3:23 | 2022-09-23 | 2023-01-21 |
 | [Resonate](https://open.spotify.com/track/0mXFXApXwB0dlP1Adh9ne7) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Resonate](https://open.spotify.com/album/2rvovGXmXLiwIbX4i2lTKn) | 3:41 | 2022-10-28 | 2023-05-20 |
 | [Reunite](https://open.spotify.com/track/2LzBgINM6AAjUHTflU4OiU) | [Minicied](https://open.spotify.com/artist/49UZ0RBgUl86yJ99YgQPhi) | [Reunite](https://open.spotify.com/album/6moBpoGzGg6wkyhks1tyZa) | 3:35 | 2022-12-16 | 2023-02-26 |

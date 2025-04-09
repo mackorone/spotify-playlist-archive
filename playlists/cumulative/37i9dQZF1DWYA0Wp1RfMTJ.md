@@ -4,7 +4,7 @@
 
 > Music from "Blue Box"! /アニメ「アオのハコ」の世界を彩る楽曲をプレイリストで。©三浦糀／集英社・「アオのハコ」製作委員会
 
-78 songs - 16 hr 57 min
+79 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [おせっかい？](https://open.spotify.com/track/0XJRIn3ryVfWbXCQyL2vqj) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.2\)](https://open.spotify.com/album/3O8vhwBUBtl53arxGI1Qeq) | 1:23 | 2025-04-04 |  |
 | [ため息](https://open.spotify.com/track/0UVQNBk5x3GpP178olNSqI) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.2\)](https://open.spotify.com/album/3O8vhwBUBtl53arxGI1Qeq) | 1:41 | 2025-04-04 |  |
 | [ちょっかい](https://open.spotify.com/track/0D5hLRzuXgWj6N0mfupsoL) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.2\)](https://open.spotify.com/album/3O8vhwBUBtl53arxGI1Qeq) | 1:35 | 2025-04-04 |  |
+| [とりあえず今は](https://open.spotify.com/track/3Xt6fCTkqUVAqg8EpC0aUv) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [とりあえず今は](https://open.spotify.com/album/1dBKcsV0XIhCvtijBoYBoD) | 4:29 | 2025-04-08 |  |
 | [なになに恋バナ！？](https://open.spotify.com/track/7eXNccT3Ku0d1V4WhbkRg4) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 1:30 | 2025-04-03 |  |
 | [なんだって〜！？](https://open.spotify.com/track/1l1V2HmdvG30JMtZjzjFTb) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D) | 1:33 | 2025-04-03 |  |
 | [はじまりのアオ](https://open.spotify.com/track/5qy9whP9U0B3bJkZmYvFz5) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [アオのハコ オリジナルサウンドトラック \(Vol.2\)](https://open.spotify.com/album/3O8vhwBUBtl53arxGI1Qeq) | 4:00 | 2025-04-04 |  |

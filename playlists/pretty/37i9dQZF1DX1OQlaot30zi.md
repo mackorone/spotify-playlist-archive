@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Neffa e Izi, Silent Bob, Baby Gang, Mambolosco, Beba e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,377 likes - 119 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,379 likes - 119 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 72 | [IN MOTION..\. NO EMOTIONS](https://open.spotify.com/track/3l1JZdGZV8nZcSpxm98deO) | [Razer.Rah](https://open.spotify.com/artist/48N1AD5ggZAa5tq6br2mZb), [Enomoney](https://open.spotify.com/artist/0ciz7qq9gZJKmjxvi38IL8) | [IN MOTION..\. NO EMOTIONS](https://open.spotify.com/album/3mxUDqTQFAXRkexiMk019s) | 2:46 |
 | 73 | [QUATTRO MUSTANG](https://open.spotify.com/track/0q9HPdoXqGQAqYZQd74tzk) | [Kid Baby](https://open.spotify.com/artist/31Uc2EdmuVfsgTXkGDqpxd), [LB GANG](https://open.spotify.com/artist/20m7OA0skSZHQi2nLt29wV), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [PRIMOGENITO](https://open.spotify.com/album/2hiL1iqMcsJxzpXIqGF9A3) | 2:49 |
 | 74 | [Goccia Dopo Goccia](https://open.spotify.com/track/0GyeA3H7THVGB2tw58Vx8x) | [Aira](https://open.spotify.com/artist/2qL2WexCXgAAThz83mOXy6) | [Goccia Dopo Goccia](https://open.spotify.com/album/3Z8JSyW2kmr2oo7UAf7bce) | 2:40 |
-| 75 | [COSÌ TANTO SWAG](https://open.spotify.com/track/3MdfUqrJLQ8OWPweIbSrka) | [EXXIA](https://open.spotify.com/artist/2YJcNIoAmRFFdVcvhMZHDr), [Maury North](https://open.spotify.com/artist/4HxI6ooJCfn4mJmvOzgyry) | [COSÌ TANTO SWAG](https://open.spotify.com/album/3luwQI3o01p1cZNOGGk28Y) | 2:08 |
+| 75 | [COSÌ TANTO SWAG](https://open.spotify.com/track/3MdfUqrJLQ8OWPweIbSrka) | [EXXIA](https://open.spotify.com/artist/2YJcNIoAmRFFdVcvhMZHDr), [Maury North](https://open.spotify.com/artist/4HxI6ooJCfn4mJmvOzgyry), [Brama](https://open.spotify.com/artist/2b2rgwCPsopAIsOkxLJnp2) | [COSÌ TANTO SWAG](https://open.spotify.com/album/3luwQI3o01p1cZNOGGk28Y) | 2:08 |
 | 76 | [BIRKIN](https://open.spotify.com/track/1JV4TJEZc07wJG6aNbooJ9) | [Candyvan](https://open.spotify.com/artist/2FdQbKMXV59OJR3YE3KkrN) | [BIRKIN](https://open.spotify.com/album/1m89cyec91tDfn3bqD0Hu2) | 2:01 |
 | 77 | [NUN O SAJE \(feat\. Random, Peppe Soks, O'Tsunami\)](https://open.spotify.com/track/4rnfktdAzVrpQc7bwhHeF9) | [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [Random](https://open.spotify.com/artist/05kigUQCchmbJDmhDiYiS0), [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm) | [PRIMOGENITO](https://open.spotify.com/album/3GoF5AMSzUXTnOGyIpI1dH) | 2:59 |
 | 78 | [No escort](https://open.spotify.com/track/39HtNhC2ug7fAdTZbDMFaD) | [Chicoria](https://open.spotify.com/artist/5OzBpKiOsMFpuwvbJpUGce), [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F) | [Due lettere dopo](https://open.spotify.com/album/1bMmwDbX9CLTBBQMz1Fp1S) | 2:37 |

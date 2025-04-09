@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABgKvmM8fJ/3peoVtBbd5GJ",
+  "snapshot_id": "AAAAAAAAAABx0Jp6pMgME5z3ieJgVMEN",
   "tracks": [
     {
       "added_at": "2025-04-04 04:00:00",
@@ -31,26 +31,6 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
-        "name": "Ch\u00e8lb\u00e8",
-        "url": "https://open.spotify.com/album/4vKup5g5YoD5blHlYdvy5p"
-      },
-      "artists": [
-        {
-          "name": "Lou Phelps",
-          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
-        },
-        {
-          "name": "GoldLink",
-          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
-        }
-      ],
-      "duration_ms": 175582,
-      "name": "After i (feat. GoldLink)",
-      "url": "https://open.spotify.com/track/56w3vOeetEyHj3PD4xzQu7"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
         "name": "Another Classic",
         "url": "https://open.spotify.com/album/1zcspCOTeOgUo7Wsqa2Vcc"
       },
@@ -67,6 +47,26 @@
       "duration_ms": 139648,
       "name": "Snake In The Grass",
       "url": "https://open.spotify.com/track/6VdV1BsVeXMIp9r9Evfag9"
+    },
+    {
+      "added_at": "2025-04-04 04:00:00",
+      "album": {
+        "name": "Ch\u00e8lb\u00e8",
+        "url": "https://open.spotify.com/album/4vKup5g5YoD5blHlYdvy5p"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        },
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        }
+      ],
+      "duration_ms": 175582,
+      "name": "After i (feat. GoldLink)",
+      "url": "https://open.spotify.com/track/56w3vOeetEyHj3PD4xzQu7"
     },
     {
       "added_at": "2025-04-04 04:00:00",
@@ -99,54 +99,6 @@
       "duration_ms": 414306,
       "name": "Say Yes (extended jam) (Feat. SiR, Andre Dre Harris, Thundercat, Charlie Bereal, Chris Dave)",
       "url": "https://open.spotify.com/track/0TcjXS0oZsDbu7AVX1jYAT"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "Yo Gabba Gabba! Hey! (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7t5Y12xiVvhdxpd9kfXPBW"
-      },
-      "artists": [
-        {
-          "name": "Yo Gabba Gabba",
-          "url": "https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF"
-        },
-        {
-          "name": "DJ Lance Rock",
-          "url": "https://open.spotify.com/artist/1a1jBUtDEfJtI8B1myCPnn"
-        },
-        {
-          "name": "Biz Markie",
-          "url": "https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4"
-        },
-        {
-          "name": "Bootsy Collins",
-          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        },
-        {
-          "name": "Kemba Russell",
-          "url": "https://open.spotify.com/artist/0z2T1NKtH7GnHjYt1TXujh"
-        },
-        {
-          "name": "Leslie Hall",
-          "url": "https://open.spotify.com/artist/6qojFeNZnpVQxdL2IFSDEy"
-        },
-        {
-          "name": "Mark Mothersbaugh",
-          "url": "https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb"
-        },
-        {
-          "name": "?uestlove",
-          "url": "https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf"
-        }
-      ],
-      "duration_ms": 131346,
-      "name": "We're Gonna Party Today",
-      "url": "https://open.spotify.com/track/3KmShUGT13Q7U25pQlHT0f"
     },
     {
       "added_at": "2025-04-04 04:00:00",
@@ -407,6 +359,22 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
+        "name": "Part of the Dream",
+        "url": "https://open.spotify.com/album/2a8WvcJFoyJSUSDDhYa85L"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 139995,
+      "name": "Part of the Dream",
+      "url": "https://open.spotify.com/track/1kTCuSzhaYdMY4hj8l2pWn"
+    },
+    {
+      "added_at": "2025-04-04 04:00:00",
+      "album": {
         "name": "Lalala (DJ Premier Remix)",
         "url": "https://open.spotify.com/album/3NjM6SR1pFljxauIy1dnQt"
       },
@@ -427,22 +395,6 @@
       "duration_ms": 161856,
       "name": "Lalala - DJ Premier Remix",
       "url": "https://open.spotify.com/track/61IQ6K43WxTnWfOXmffrGw"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "Part of the Dream",
-        "url": "https://open.spotify.com/album/2a8WvcJFoyJSUSDDhYa85L"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 139995,
-      "name": "Part of the Dream",
-      "url": "https://open.spotify.com/track/1kTCuSzhaYdMY4hj8l2pWn"
     },
     {
       "added_at": "2025-04-04 04:00:00",
@@ -523,22 +475,6 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
-        "name": "Vortex (from \"LAZARUS\" Soundtrack)",
-        "url": "https://open.spotify.com/album/6SmmaTkAGqhVtvsgwHSRuX"
-      },
-      "artists": [
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        }
-      ],
-      "duration_ms": 383631,
-      "name": "Vortex (from \"LAZARUS\" Soundtrack)",
-      "url": "https://open.spotify.com/track/70gLTdoX1syfNjvo2pytVy"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
         "name": "Anthem",
         "url": "https://open.spotify.com/album/7CTKP2Zz7Zfqoake0lB5ei"
       },
@@ -559,6 +495,22 @@
       "duration_ms": 363619,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/32a8jbDTdYxLy489EwfK5Z"
+    },
+    {
+      "added_at": "2025-04-04 04:00:00",
+      "album": {
+        "name": "Vortex (from \"LAZARUS\" Soundtrack)",
+        "url": "https://open.spotify.com/album/6SmmaTkAGqhVtvsgwHSRuX"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "duration_ms": 383631,
+      "name": "Vortex (from \"LAZARUS\" Soundtrack)",
+      "url": "https://open.spotify.com/track/70gLTdoX1syfNjvo2pytVy"
     },
     {
       "added_at": "2025-04-04 04:00:00",
@@ -591,42 +543,6 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
-        "name": "Dexion (from \"LAZARUS\" Soundtrack)",
-        "url": "https://open.spotify.com/album/3o0JLon9nA1g2CidIZdojj"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 548480,
-      "name": "Dexion (from \"LAZARUS\" Soundtrack)",
-      "url": "https://open.spotify.com/track/1S4VJpB3i8k2Y5m1fmgELM"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "Death Hilarious",
-        "url": "https://open.spotify.com/album/3ayehNLPtO03kFwPnkOhgx"
-      },
-      "artists": [
-        {
-          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
-          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
-        },
-        {
-          "name": "El-P",
-          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
-        }
-      ],
-      "duration_ms": 223908,
-      "name": "Glib Tongued",
-      "url": "https://open.spotify.com/track/0E2TyBWRAk5YYNKL5YTLjC"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
         "name": "LOBBY",
         "url": "https://open.spotify.com/album/78fUKHidecZPV1xvxKpobm"
       },
@@ -643,6 +559,22 @@
       "duration_ms": 181117,
       "name": "KME (Solaar Outro)",
       "url": "https://open.spotify.com/track/33Qk0mh8daf29cKE1Cqw9k"
+    },
+    {
+      "added_at": "2025-04-04 04:00:00",
+      "album": {
+        "name": "Dexion (from \"LAZARUS\" Soundtrack)",
+        "url": "https://open.spotify.com/album/3o0JLon9nA1g2CidIZdojj"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 548480,
+      "name": "Dexion (from \"LAZARUS\" Soundtrack)",
+      "url": "https://open.spotify.com/track/1S4VJpB3i8k2Y5m1fmgELM"
     },
     {
       "added_at": "2025-04-04 04:00:00",

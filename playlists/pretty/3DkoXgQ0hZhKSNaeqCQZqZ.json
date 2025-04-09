@@ -1,13 +1,29 @@
 {
   "description": "All songs made for furs, by furs.  Request @ spotify.furrest.net",
-  "num_followers": 548,
+  "num_followers": 550,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADcoTbgskqyPswaQwyw7IYZEMxeWVV",
+  "snapshot_id": "AAADc7AZC/AxXNvkQEVwQhk9/5r+Qzbe",
   "tracks": [
+    {
+      "added_at": "2025-04-08 05:43:59",
+      "album": {
+        "name": "Neverland",
+        "url": "https://open.spotify.com/album/3EDAJhK1lYeXEzoHnf56he"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        }
+      ],
+      "duration_ms": 244150,
+      "name": "Neverland",
+      "url": "https://open.spotify.com/track/3xzsr8XPt2grKWJeNZzFqv"
+    },
     {
       "added_at": "2025-04-03 02:02:19",
       "album": {

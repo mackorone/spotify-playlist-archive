@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,390 likes - 75 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,400 likes - 75 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 43 | [In Da Clouds \- Da Dub](https://open.spotify.com/track/74Rs89DEfIgsSQQfE4Vi1d) | [Sneak Essentials](https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K) | [In Da Clouds](https://open.spotify.com/album/4JiK0Do2dRT5UK6WpIi6bm) | 8:38 |
 | 44 | [Hey! \- The Rhythm Hype Mix](https://open.spotify.com/track/1iaEun88QJb6k3MCe3PKve) | [Bass Hitt](https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR) | [The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC \(Unmixed\)](https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr) | 7:07 |
 | 45 | [Jump & Sing \- Hard Metro Mix](https://open.spotify.com/track/2028K7usL1aImoGvaFhyGx) | [Scram](https://open.spotify.com/artist/00OeT8g2l7bAwFH9oD9TEu) | [The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC \(Unmixed\)](https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr) | 5:41 |
-| 46 | [I Get Lifted \- The Underground Network Mix](https://open.spotify.com/track/5wH0Jg5a4WOL5elQhOPSDc) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Strictly Rhythm Est\. 1989: 20 Years of Classics](https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn) | 7:13 |
+| 46 | [Stay Together \- Armand's ''Crazy'' Trauma Mix](https://open.spotify.com/track/20WvAQIQW714BqsdLScIIs) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Stay Together](https://open.spotify.com/album/6wuP78U4t60sCYOvA4kqUt) | 12:57 |
 | 47 | [Get Up](https://open.spotify.com/track/2zP57ODfOyIIGfjhfK4L5Q) | [Krimp](https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz) | [Get Up](https://open.spotify.com/album/7vEb16cbQRZ9EPywWeIgLK) | 6:50 |
 | 48 | [Muevete Mama \- Broder Mix](https://open.spotify.com/track/5j1UuKogoBifaCtspPmcvZ) | [Afro\-Cube](https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u) | [Muevete Mama](https://open.spotify.com/album/4LGon28IgqEplZZjgnxbqr) | 6:54 |
 | 49 | [Tyler Moore Mary](https://open.spotify.com/track/3kqbMgU6RVpKDylWgs5mZk) | [Rageous](https://open.spotify.com/artist/7FcHRtcIFMG9cm4XRbimJe), [Franklin Fuentes](https://open.spotify.com/artist/0lzpqEG0Oz0WOC8WrFseZG) | [The Lost Tapes: Pride 95 \(Mixed by Lil' Louis\) \[DJ Edition; Unmixed\]](https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I) | 7:51 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 53 | [Just Us \- B.O.P\. Radio Joint](https://open.spotify.com/track/1hfX4Y0u3MqizJdjnnjHdZ) | [Joey Washington](https://open.spotify.com/artist/24Pdayi4BAMrgqWVOdhojJ), [The Men's Club](https://open.spotify.com/artist/58lQYKHylrFHj6VrCsqpB6) | [Just Us](https://open.spotify.com/album/5hdwOlTkUYKkPaaiZ7d47r) | 3:47 |
 | 54 | [Shine \- Sundown Dub](https://open.spotify.com/track/2s2bVNK44NPctaxBMCg2Z6) | [Barbara Douglas](https://open.spotify.com/artist/6lCEiSHsqoAZ61AiHbTw6w) | [The Lost Tapes: Pride 95 \(Mixed by Lil' Louis\) \[DJ Edition; Unmixed\]](https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I) | 4:20 |
 | 55 | [Muzik \- The Siren Mix](https://open.spotify.com/track/6IqCfijEdjDSKHN3ZCBEOU) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU) | [Muzik](https://open.spotify.com/album/22swBlMglQzlAP1G0GeXJJ) | 6:19 |
-| 56 | [Stay Together \- Armand's ''Crazy'' Trauma Mix](https://open.spotify.com/track/20WvAQIQW714BqsdLScIIs) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Stay Together](https://open.spotify.com/album/6wuP78U4t60sCYOvA4kqUt) | 12:57 |
+| 56 | [I Get Lifted \- The Underground Network Mix](https://open.spotify.com/track/5wH0Jg5a4WOL5elQhOPSDc) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Strictly Rhythm Est\. 1989: 20 Years of Classics](https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn) | 7:13 |
 | 57 | [The Sound \- The Studio 54 Mix](https://open.spotify.com/track/3NYlKhLDWNe99VXWspYFIO) | [Motion Lotion](https://open.spotify.com/artist/6zNLfnKYj3cf2dw6S0aJxn) | [The Lost Tapes: 'Little' Louie Vega Strictly Rhythm Mix](https://open.spotify.com/album/5styrn4ZNjvGasDd6Y4sam) | 9:14 |
 | 58 | [Give A Little Love \- Photon's Deep Vocal Mix](https://open.spotify.com/track/6xIov8kouD1IwbquXX1tYF) | [Photon Inc.](https://open.spotify.com/artist/7zDNKiiS6xgYtgDUUgfRCP) | [Give A Little Love](https://open.spotify.com/album/1YMG0R1t7BKaFKNDRbztKz) | 6:17 |
 | 59 | [Give It All To You \- 92 Remix](https://open.spotify.com/track/49RSvh6silwveTzfQwSbLj) | [DV8](https://open.spotify.com/artist/3C2rdG9aJ0CBfFSKmdzcTf) | [C'mon](https://open.spotify.com/album/5eBXQcItnTE8LVg3CBIzCe) | 4:18 |

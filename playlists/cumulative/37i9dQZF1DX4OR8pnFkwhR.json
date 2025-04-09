@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: \u30a8\u30a4\u30cf\u30d6",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: CLAN QUEEN",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -3026,6 +3026,24 @@
       "duration_ms": 235346,
       "name": "Calm",
       "url": "https://open.spotify.com/track/0B4QXKyErj0nhM2WZZeUoR"
+    },
+    {
+      "album": {
+        "name": "Can We Talk",
+        "url": "https://open.spotify.com/album/45Bac2vSakpdzirVVWM82Q"
+      },
+      "artists": [
+        {
+          "name": "HALLEY",
+          "url": "https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Can We Talk",
+      "url": "https://open.spotify.com/track/4FqWPNuNGjLwDnhXlLm1yA"
     },
     {
       "album": {
@@ -13095,6 +13113,24 @@
     },
     {
       "album": {
+        "name": "ORDER",
+        "url": "https://open.spotify.com/album/4gSj3yW1GT6SO0kC1RPBqM"
+      },
+      "artists": [
+        {
+          "name": "CLAN QUEEN",
+          "url": "https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173745,
+      "name": "ORDER",
+      "url": "https://open.spotify.com/track/2tKQ8fa5rP0rFXEfFSdfwS"
+    },
+    {
+      "album": {
         "name": "ORERAWABAKA",
         "url": "https://open.spotify.com/album/6GxDhLN3ROhZNHyX0BhLnM"
       },
@@ -19140,7 +19176,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 256999,
       "name": "Vitaminc",
       "url": "https://open.spotify.com/track/1RRStPuOU2WJKmFtip59Yn"
@@ -20200,7 +20236,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 211327,
       "name": "YOUNG & ADULT",
       "url": "https://open.spotify.com/track/2oxXv40QM9nwX5nRXqWbEy"
@@ -23355,6 +23391,24 @@
     },
     {
       "album": {
+        "name": "\u30ad\u30e3\u30e9\u30e1\u30eb\u30d1\u30a4",
+        "url": "https://open.spotify.com/album/4W412FdVRRX5RFRVGgiPPh"
+      },
+      "artists": [
+        {
+          "name": "35.7",
+          "url": "https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218413,
+      "name": "\u30ad\u30e3\u30e9\u30e1\u30eb\u30d1\u30a4",
+      "url": "https://open.spotify.com/track/2WCCNii7NpoIgPdVOeu8Dy"
+    },
+    {
+      "album": {
         "name": "\u30ad\u30e9\u30dc\u30b7",
         "url": "https://open.spotify.com/album/4VdxIfLBEu7K9gZZwyIxwx"
       },
@@ -23546,7 +23600,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 230506,
       "name": "\u30b2\u30eb\u30cb\u30ab",
       "url": "https://open.spotify.com/track/5HS5UodfHqBq09VZG3unuk"
@@ -31918,7 +31972,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 528000,
       "name": "\u706f\u53f0",
       "url": "https://open.spotify.com/track/2RI8OzdlI3oBUjt7xWnyUB"
@@ -34602,6 +34656,24 @@
       "duration_ms": 220833,
       "name": "\u9b54\u6027\u306e\u5973A",
       "url": "https://open.spotify.com/track/5HxH3gGdJx18CUuCFg61Lg"
+    },
+    {
+      "album": {
+        "name": "New,man",
+        "url": "https://open.spotify.com/album/01eQ9HFCruI153s1FeukcU"
+      },
+      "artists": [
+        {
+          "name": "Meg Bonus",
+          "url": "https://open.spotify.com/artist/0BEEpuk86319ft7cb4jxei"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282194,
+      "name": "\u9b54\u6cd5",
+      "url": "https://open.spotify.com/track/65MyFesoLI2PBF8QVKMZwZ"
     },
     {
       "album": {

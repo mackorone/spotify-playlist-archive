@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4jN8Su7sLaI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4jN8Su7sLaI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4jN8Su7sLaI)
 
-### [弱虫ペダル \-Yowamushi Pedal\-](https://open.spotify.com/playlist/37i9dQZF1DX4jN8Su7sLaI)
+### [Yowamushi Pedal](https://open.spotify.com/playlist/37i9dQZF1DX4jN8Su7sLaI)
 
-> Music from "Yowamushi Pedal", a series of cycle road race manga\. /自転車ロードレースアニメの金字塔、<a href="http://yowapeda.com/">『弱虫ペダル』</a>公式プレイリスト！©渡辺航（週刊少年チャンピオン）／弱虫ペダル04製作委員会
+> Music from "Yowamushi Pedal", a series of cycle road race manga\. ©渡辺航（週刊少年チャンピオン）／弱虫ペダル04製作委員会
 
 43 songs - 2 hr 41 min
 

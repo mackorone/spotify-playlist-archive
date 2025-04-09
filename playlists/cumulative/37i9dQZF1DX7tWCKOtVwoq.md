@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7tWCKOtVwoq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7tWCKOtVwoq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7tWCKOtVwoq)
 
-### [Solo Leveling 俺だけレベルアップな件 ](https://open.spotify.com/playlist/37i9dQZF1DX7tWCKOtVwoq)
+### [Solo Leveling](https://open.spotify.com/playlist/37i9dQZF1DX7tWCKOtVwoq)
 
-> Music from "Solo Leveling"! /アニメ「俺だけレベルアップな件」の世界を彩る楽曲をプレイリストで。©Solo Leveling Animation Partners
+> Music from "Solo Leveling"! ©Solo Leveling Animation Partners
 
 28 songs - 2 hr 6 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Porque no to' e' Dembow en RD loco\. Portada: Lil Naay
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,540 likes - 105 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,648 likes - 105 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 25 | [Exotika](https://open.spotify.com/track/4XXpWLPI86oEYst5Fc7cOX) | [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Exotika](https://open.spotify.com/album/6rU0WVTEMUZ7mAOGYSyatU) | 2:34 |
 | 26 | [Yo No Te Sigo](https://open.spotify.com/track/67ux76n9caFXgF9OF5cRWM) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Yo No Te Sigo](https://open.spotify.com/album/5VcvcWO6NNavnbXfDecsG1) | 2:05 |
 | 27 | [Anda Duro](https://open.spotify.com/track/2FPG211judVyezcyFN2RAc) | [Papera](https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW) | [Anda Duro](https://open.spotify.com/album/5VUc9lIjhWMXS4oTXLfLh1) | 2:31 |
-| 28 | [Ay Bobo \- Remix](https://open.spotify.com/track/1u79aB04RsxmLmaQZRpy9N) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Yeral El De Lo Palo](https://open.spotify.com/artist/0gNBwt2gBwViwnZKRYoPJb) | [Ay bobo \(Remix\)](https://open.spotify.com/album/668Fast4QzyySi7G6bxDdL) | 2:04 |
+| 28 | [AY BOBO MAMI](https://open.spotify.com/track/1u79aB04RsxmLmaQZRpy9N) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Yeral El De Lo Palo](https://open.spotify.com/artist/0gNBwt2gBwViwnZKRYoPJb), [El Virus El Preso](https://open.spotify.com/artist/1BG2RHTHidRvR6LhOuFCn3) | [AY BOBO MAMI](https://open.spotify.com/album/668Fast4QzyySi7G6bxDdL) | 2:22 |
 | 29 | [Divino](https://open.spotify.com/track/2pVgmby0wfULOytCtpmaQK) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Divino](https://open.spotify.com/album/6DAidc3PnHFfZRcNDCpILu) | 2:43 |
 | 30 | [No Mama](https://open.spotify.com/track/0hIuF4NW9CfJti7bpcGXUE) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV), [Three Seven Music](https://open.spotify.com/artist/6WpyChzOE17EotLrDxy3Cb) | [No Mama](https://open.spotify.com/album/23saTfo1zjlSDCKNAJ9Klf) | 2:31 |
 | 31 | [La Calle \(feat\. Lp King\)](https://open.spotify.com/track/1v46GV44U1UIHp9gycjtjv) | [Luis Brown](https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L), [Lp King](https://open.spotify.com/artist/7tfKpLtXZ4s8opLe8fHrsz) | [La Calle \(feat\. Lp King\)](https://open.spotify.com/album/2vdehcH3vw2pa30LGUvGah) | 2:18 |

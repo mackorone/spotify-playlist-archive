@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 유다빈밴드\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: LØREN\) \(핫한 국내 록 음악을 만나보세요!\)
 
-921 songs - 2 day 8 hr 17 min
+923 songs - 2 day 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Freddy](https://open.spotify.com/track/4NCukrisJy9l4ZMDEkBnn2) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [And yet, We still](https://open.spotify.com/album/59ZIOlyrgX38hQTdZnOcfC) | 3:57 | 2024-08-12 | 2024-09-03 |
 | [Freedom](https://open.spotify.com/track/0C64OAzFqP8d3s14qf1p9Q) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [DOCTOR LAWYER \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/0LJz8YtfJoqzsW2sL3CIh1) | 3:47 | 2022-06-18 | 2022-07-20 |
 | [From You](https://open.spotify.com/track/34qvU10EU2RsoBRX5qYlpb) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Alice \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/1pmEVARxxmA6polrjOqREk) | 3:47 | 2022-04-22 | 2022-07-16 |
+| [Fuck Your Neighbor \(FYN\)](https://open.spotify.com/track/6IxBnLGaM1bykNV9g2OxC3) | [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [Fuck Your Neighbor \(FYN\)](https://open.spotify.com/album/448X9wJCby4Sqdb6fxlH3d) | 3:09 | 2025-04-08 |  |
 | [Fuckers Are Everywhere](https://open.spotify.com/track/6UgjTJdHdoMT5hOr9nF10G) | [Deadbuttons](https://open.spotify.com/artist/1QOnYPjbIcHGpBetj5Szfb) | [Fuckers Are Everywhere](https://open.spotify.com/album/1fPsgAQLSulmieALAGythC) | 2:55 | 2022-05-03 | 2022-07-14 |
 | [FULL MOON \(with NAM WOO HYUN\)](https://open.spotify.com/track/26gNGFadZKRyaYCbsORUE5) | [Kwon Soonkwan](https://open.spotify.com/artist/4QLDKHOPL4cISjOBek1ZP7), [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [FULL MOON \(with NAM WOO HYUN\)](https://open.spotify.com/album/60cdyydHGHG8cj8HTfU4xX) | 4:13 | 2025-02-10 | 2025-03-18 |
 | [Gaia](https://open.spotify.com/track/4y7WDTY7z2GBAhSNkCbHH2) | [BØJEONG](https://open.spotify.com/artist/16kfFwTVflpU672fr6Z1cA) | [kin](https://open.spotify.com/album/6wFw220zFDwivl2i8sONE5) | 3:55 | 2024-11-06 | 2024-12-03 |
@@ -412,7 +413,7 @@
 | [Lack of love](https://open.spotify.com/track/77iYFyHq2TNcGDbn1cW2y7) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [On your mark](https://open.spotify.com/album/3M6ElKBthezpD7HUs4eLJl) | 3:40 | 2022-04-12 | 2022-07-27 |
 | [LALALALA \(Rock Ver.\)](https://open.spotify.com/track/20FfCMC46eOIIrxCUdSNZT) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:07 | 2024-05-09 | 2024-11-07 |
 | [Landed](https://open.spotify.com/track/1BH2UbAeAVTcODPFQjX5gw) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing Can Tear Us Apart](https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc) | 3:55 | 2022-04-12 | 2022-07-22 |
-| [Landing in Love](https://open.spotify.com/track/3WvM2dIR9iIxMGNMP7WsNw) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Take\-off](https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV) | 2:45 | 2025-03-24 |  |
+| [Landing in Love](https://open.spotify.com/track/3WvM2dIR9iIxMGNMP7WsNw) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Take\-off](https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV) | 2:45 | 2025-03-24 | 2025-04-09 |
 | [Lantern](https://open.spotify.com/track/3qN4gxKTvsFtqUqmiwhVM4) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Lantern](https://open.spotify.com/album/48Rcd6XWew0vf44nlczvnT) | 3:05 | 2024-11-06 | 2024-12-14 |
 | [Last Day](https://open.spotify.com/track/12cQzyeSvhbxjFRlBhwwav) | [TOUCHED](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [Last Day](https://open.spotify.com/album/74gJ4H9gwHOGIu3KSOiuHP) | 5:36 | 2024-12-18 | 2025-03-07 |
 | [Last Hope](https://open.spotify.com/track/0vrbIBeWT2knGYgkKyJJ9D) | [LAYBRICKS](https://open.spotify.com/artist/39BxPIVyvmpwNFfyMQS41u) | [Paradise](https://open.spotify.com/album/655I4UTlYsOOr0StbIU36j) | 3:54 | 2022-06-09 | 2022-06-15 |
@@ -923,8 +924,9 @@
 | [시작](https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9) | 3:22 | 2022-07-22 | 2023-04-06 |
 | [시작](https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293) | 3:22 | 2024-05-09 | 2024-11-07 |
 | [아름다웠던 너에게 \(Feat\. 추서준\)](https://open.spotify.com/track/14RITV3hrIexqMrp1jVMpF) | [Biyun](https://open.spotify.com/artist/4KOCZCiuT66e6lEpYEkNBk), [Chu Seo Jun](https://open.spotify.com/artist/1rVGJZbfXkVcGv0qpOprl2) | [아름다웠던 너에게 \(Feat\. 추서준\)](https://open.spotify.com/album/42NNKD5OS2Dm6OM0FDKAjZ) | 3:17 | 2024-04-09 | 2024-05-10 |
-| [예뻤어](https://open.spotify.com/track/3Pqp7yCHo6hbxMS0ZGc93N) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Every DAY6 February](https://open.spotify.com/album/6q6po3K2OuDvyPtpgzSlE1) | 4:43 | 2025-03-17 |  |
+| [예뻤어](https://open.spotify.com/track/3Pqp7yCHo6hbxMS0ZGc93N) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Every DAY6 February](https://open.spotify.com/album/6q6po3K2OuDvyPtpgzSlE1) | 4:43 | 2025-03-17 | 2025-04-09 |
 | [우릴 그린 수채화 \(The watercolor painting that painted us\)](https://open.spotify.com/track/3DHFekUUsp4BJgBarYkaTz) | [이하린 \(Lee Harin\)](https://open.spotify.com/artist/7C7rGYM1vMw9BLtDshd6vL) | [우릴 그린 수채화 \(The watercolor painting that painted us\)](https://open.spotify.com/album/6BjGNoe6PnR8BvN6pfTsLT) | 3:02 | 2024-11-06 | 2024-12-04 |
+| [작은 봄](https://open.spotify.com/track/6EIejWXtCAxXCPrxID1VFq) | [고추잠자리](https://open.spotify.com/artist/6P39ZC1SVRiunXwdJ0P11H) | [작은 봄](https://open.spotify.com/album/7xUqTrlB37TJbtVcBvrEOH) | 3:42 | 2025-04-08 |  |
 | [잠에취해 Be drunk with sleep](https://open.spotify.com/track/22OJac3FekTtngEkmR4rCU) | [이브 EVE](https://open.spotify.com/artist/4ZC1J8g5z3x2M8MWimkZlH) | [잠에취해 Be drunk with sleep](https://open.spotify.com/album/45qYuV8MgIoVtV1GNM38T8) | 3:47 | 2022-05-03 | 2022-05-08 |
 | [제자리 \(loop\)](https://open.spotify.com/track/2tnKd2R6zWHXL65EkruiZM) | [Kim Jeong\_uk](https://open.spotify.com/artist/1BqP8ZPk9adgbcmkoW7dP4) | [제자리 \(loop\)](https://open.spotify.com/album/5AMPNy9dnzhc3vKyYWqrSh) | 3:20 | 2022-05-11 | 2022-07-15 |
 | [중2 \(모두의 우주를 Respect\)](https://open.spotify.com/track/2VsieHO9dhPrP8VwubHozt) | [Kim Chang\-Wan](https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH), [Changbin \(Stray Kids\)](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) | [중2 \(모두의 우주를 Respect\)](https://open.spotify.com/album/3BrwayMpLO8t5HADvz2h31) | 3:20 | 2024-02-06 | 2024-03-28 |

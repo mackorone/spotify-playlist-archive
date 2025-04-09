@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,917 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,946 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Sofrimento Simultâneo \- Ao Vivo](https://open.spotify.com/track/63Vdw2P2cw1Gf8ABQiEjXD) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Sofrimento Simultâneo \(Ao Vivo\)](https://open.spotify.com/album/5JmnINttqCxjbKh3gFdFFm) | 2:36 |
 | 50 | [Opa Cadê Eu \- Ao Vivo](https://open.spotify.com/track/3R8dmcSyROSR73XsdeSd7g) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Ao Vivo em Brasília \(Vol.2\)](https://open.spotify.com/album/0kVr8PFSSxtjM4AxdY0WFV) | 2:34 |
 
-Snapshot ID: `L4c/oAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L4iRIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

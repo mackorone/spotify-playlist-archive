@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: Energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,029 likes - 70 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,032 likes - 70 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 49 | [傷心摩托車](https://open.spotify.com/track/4Tjgg37Mya4csqcq6minfz) | [來者何人 Whoou!](https://open.spotify.com/artist/7aKtsdVpc4ae6PGZKfmqPs) | [傷心摩托車](https://open.spotify.com/album/6Cy70qzpBFoTOqMhooUc0a) | 3:08 |
 | 50 | [冰雕](https://open.spotify.com/track/7Fr3izu9O0GWfH42IgOYTc) | [烏流](https://open.spotify.com/artist/2jyPtGFcFyVwoWcNmZaBia) | [冰雕](https://open.spotify.com/album/72dwLd4HBKtn9BiJDtwyb0) | 3:57 |
 | 51 | [快樂的形狀](https://open.spotify.com/track/5UQAH7sV6tZdk9W8A9uCRW) | [溫室雜草](https://open.spotify.com/artist/6DZ6tvZTWTDO1vEBvUYfbP) | [快樂的形狀](https://open.spotify.com/album/2435Ldds4GOcZNhn1QRp0U) | 5:10 |
-| 52 | [你在哪裡？我去找你](https://open.spotify.com/track/21F9e8pZojab8YhehXnzPl) | [庸俗救星Vulgar Savior](https://open.spotify.com/artist/0yxKjRdHdfEZvsypUkROaq) | [你在哪裡？我去找你](https://open.spotify.com/album/5KktxYRKroZGbjwU63cI6Y) | 4:37 |
+| 52 | [你在哪裡？我去找你](https://open.spotify.com/track/21F9e8pZojab8YhehXnzPl) | [庸俗救星Vulgar Savior](https://open.spotify.com/artist/0yxKjRdHdfEZvsypUkROaq) | [你在哪裡？我去找你](https://open.spotify.com/album/5KktxYRKroZGbjwU63cI6Y) | 4:36 |
 | 53 | [最後還是成為這個模樣](https://open.spotify.com/track/1K41T1F9lG5jvFrVI9y6ps) | [黃花 Yellow Flower](https://open.spotify.com/artist/6Rm5VnEe1STYvTaW7YOqP4) | [最後還是成為這個模樣](https://open.spotify.com/album/3ILKZfK6psSA0lo5pvG0tT) | 5:12 |
 | 54 | [給你聽的歌](https://open.spotify.com/track/1L0EzhqDJx5dUXIFsNJp5i) | [空心鮟鱇魚](https://open.spotify.com/artist/1T0vblKFGW5doCb8VqAOxR) | [給你聽的歌](https://open.spotify.com/album/16KtxM4tQDVifdifPF9yrN) | 5:54 |
 | 55 | [Don't Call Me](https://open.spotify.com/track/0gNV8GLMBOZohkuz3ZPoX8) | [Destroyers](https://open.spotify.com/artist/0n2SzMMLz0dcLCTFvKkxO7) | [Don't Call Me](https://open.spotify.com/album/09h7llsgw3jIrb962FVeab) | 3:31 |

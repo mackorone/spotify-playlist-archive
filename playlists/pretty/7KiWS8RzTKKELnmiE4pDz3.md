@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 238 songs - 12 hr 4 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 239 songs - 12 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -246,5 +246,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 236 | [On Doe, On Phil \(feat\. Trae The Truth\)](https://open.spotify.com/track/5s0wuLy1M1XsRCvnnzksfj) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy) | [Paperwork \(Deluxe Explicit\)](https://open.spotify.com/album/4FADvCXok2GhepAWLE8Fs1) | 5:24 |
 | 237 | [Free Mr\. Banks](https://open.spotify.com/track/0Prv7tKONwFjjoJ2KswCoR) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Free Mr\. Banks](https://open.spotify.com/album/0hSUTpnHqOgP8hy7XKBPyg) | 1:59 |
 | 238 | [Chicago Zoo](https://open.spotify.com/track/3wehrmgzXoyZxV5JeIwerp) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rollin 2 \(Deluxe Edition\)](https://open.spotify.com/album/0BaBF43wCi33REVTeSiTlN) | 3:28 |
+| 239 | [Burn](https://open.spotify.com/track/1X8E4vVoOM3BpSQlEDSjjM) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:37 |
 
-Snapshot ID: `AAAeDw7RJPnioI7kzVhMS3lZ5yjIYLEO`
+Snapshot ID: `AAAeEAdY1Wvb1uoRm8xWxeXF8rUQb23S`

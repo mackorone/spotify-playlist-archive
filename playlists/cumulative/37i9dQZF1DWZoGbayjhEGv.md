@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZoGbayjhEGv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZoGbayjhEGv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZoGbayjhEGv)
 
-### [鋼の錬金術師 / FULLMETAL ALCHEMIST](https://open.spotify.com/playlist/37i9dQZF1DWZoGbayjhEGv)
+### [FULLMETAL ALCHEMIST](https://open.spotify.com/playlist/37i9dQZF1DWZoGbayjhEGv)
 
-> Enjoy music from "FULLMETAL ALCHEMIST"! / 音楽で辿る、2003年放送開始のアニメ「鋼の錬金術師 」の世界。<a href="https://open.spotify.com/playlist/37i9dQZF1DX6EruMUbdfEp?si=21971c436ec644c2">鋼の錬金術師 FULLMETAL ALCHEMIST</a>\(2009年放送開始\)はこちら ©荒川弘／スクウェアエニックス・毎日放送・アニプレックス・ボンズ・電通 2003 \(C\)HIROMU ARAKAWA / SQUARE ENIX, MBS, ANX, BONES, dentsu 2004
+> Enjoy music from "FULLMETAL ALCHEMIST"!  ©荒川弘／スクウェアエニックス・毎日放送・アニプレックス・ボンズ・電通 2003 \(C\)HIROMU ARAKAWA / SQUARE ENIX, MBS, ANX, BONES, dentsu 2004
 
 75 songs - 3 hr 58 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > ROCKSTAR LIFE!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,593 likes - 100 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,623 likes - 100 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 71 | [Salut \- Sped Up Remix](https://open.spotify.com/track/3WBuGQ1ZQi72TY8HXrcK7V) | [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Salut \(Sped Up Remix\)](https://open.spotify.com/album/5x9vEH7SOMu1l1xUyfAGpP) | 2:16 |
 | 72 | [DU RINGER BARA MIG NÄR DU ÄR FULL](https://open.spotify.com/track/6ZTRwdfGYl3p7orE7YUSZt) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [DU RINGER BARA MIG NÄR DU ÄR FULL](https://open.spotify.com/album/4cs46G7ofVKpq0xowcHQkI) | 2:15 |
 | 73 | [DRÄNK DEN](https://open.spotify.com/track/73XyQNqhhxNuGS8pYlMRJO) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [DRÄNK DEN](https://open.spotify.com/album/18WGEvBmphNmp9ncQ08S5M) | 3:14 |
-| 74 | [SVENSKA MODELLEN](https://open.spotify.com/track/6UBPIa6mQRtEPAwAUOzPwK) | [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow), [Akin Jensen](https://open.spotify.com/artist/07wIp9CHYFGgNTlm0XmdvX), [MOTSTÅNDET](https://open.spotify.com/artist/24cX24UEMEKK1d8gfaSvh4) | [SVENSKA MODELLEN](https://open.spotify.com/album/3p8W2Ai8PWudT43PlZwjAr) | 2:00 |
+| 74 | [SVENSKA MODELLEN](https://open.spotify.com/track/6UBPIa6mQRtEPAwAUOzPwK) | [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow), [Akin Jensen](https://open.spotify.com/artist/07wIp9CHYFGgNTlm0XmdvX), [demz](https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj) | [SVENSKA MODELLEN](https://open.spotify.com/album/3p8W2Ai8PWudT43PlZwjAr) | 2:00 |
 | 75 | [Ljuger jag för mig själv igen?](https://open.spotify.com/track/3GNugq8Z47vv3t8M9WsfyC) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE), [DJ BERIT](https://open.spotify.com/artist/2Ens93DBGHbUTJUm83TQRI) | [Ljuger jag för mig själv igen?](https://open.spotify.com/album/1ODJZ5v5iVTJsJ4VVrXUBC) | 2:15 |
 | 76 | [VI FESTAR \- JulleMeck Remix](https://open.spotify.com/track/52RtjOuJ4ua1qqHQh2uSZe) | [SteelniX](https://open.spotify.com/artist/4F3gw5Br6AsEtT2RWIqmm6), [JulleMeck](https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32) | [VI FESTAR \(JulleMeck Remix\)](https://open.spotify.com/album/53gvNJy2uHKPLbInBddd7b) | 2:29 |
 | 77 | [Nöjd?](https://open.spotify.com/track/1pB4tRSrJzdBF7PHa3zUiZ) | [emoemy](https://open.spotify.com/artist/6kOYIk57Dcel1IrTxYNP9i) | [Nöjd?](https://open.spotify.com/album/3FWxQi1BtDg1jtfqkNDd74) | 2:30 |

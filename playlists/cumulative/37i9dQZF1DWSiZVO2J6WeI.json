@@ -1161,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "Blooming Daze",
+        "url": "https://open.spotify.com/album/6O8NndYqdd8GgQWIs8A0Xa"
+      },
+      "artists": [
+        {
+          "name": "Pause Infinite",
+          "url": "https://open.spotify.com/artist/4NTIPVymM4fpFJe8RfWb4h"
+        }
+      ],
+      "date_added": "2025-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212570,
+      "name": "Blooming Daze",
+      "url": "https://open.spotify.com/track/2IK0o41yNFBaBvO4dRGEP9"
+    },
+    {
+      "album": {
         "name": "Blossom",
         "url": "https://open.spotify.com/album/6O4lKQO0YEkq94DWElpHNG"
       },
@@ -2696,7 +2714,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 174000,
       "name": "Equilibrium - Loopable with No Fade",
       "url": "https://open.spotify.com/track/0xyrEAILLZmrkF2mHU1itT"

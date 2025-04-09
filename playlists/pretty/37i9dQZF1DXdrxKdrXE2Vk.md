@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: UPPERROOM
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,626 likes - 79 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,742 likes - 79 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 37 | [The Stand](https://open.spotify.com/track/1LVD0DMUHOSi5B8PPYPj6r) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J), [Chase Wagner](https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy) | [The Well: An Acoustic Project](https://open.spotify.com/album/4nfOgcGLkleelHSXy8E5WT) | 5:25 |
 | 38 | [The Lord Almighty Reigns \- Live](https://open.spotify.com/track/01U4uDzyNXcNoLBGiCQeHF) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Sing! Christ Our Hope In Life And Death \(Live At The Getty Music Worship Conference\)](https://open.spotify.com/album/6Yc2IDSVhI1i0kxGYBtDTG) | 4:03 |
 | 39 | [Here Is Our Hallelujah \- Live](https://open.spotify.com/track/6oSxwAZN0ce6iDYI891eL7) | [Village Lights](https://open.spotify.com/artist/63Hnq5ylvVEXWaw07FWrp1), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Ike Ndolo](https://open.spotify.com/artist/7GybhnbNqgYBkIIU7zE90W), [Ricky Vazquez](https://open.spotify.com/artist/1JNFZ2QcDKJbAPYwgCvgRb) | [Here Is Our Hallelujah](https://open.spotify.com/album/6jtQa95XthgzYaVCOTHSKS) | 5:00 |
-| 40 | [Open \(Spontaneous\) \- Live](https://open.spotify.com/track/4F2hfeg5ZrWHTHyJnxcaWI) | [LO Worship](https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW), [Chidima](https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a) | [Steady Light \(Live from LO Conference\) \[Deluxe\]](https://open.spotify.com/album/6ZEB1zRmcJqnLMRKpkWLGt) | 10:25 |
+| 40 | [Open \(Spontaneous\) \- Live](https://open.spotify.com/track/4F2hfeg5ZrWHTHyJnxcaWI) | [LO Worship](https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW), [Chidima](https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a) | [Steady Light \(Live from LO Conference\)](https://open.spotify.com/album/6ZEB1zRmcJqnLMRKpkWLGt) | 10:25 |
 | 41 | [Burn \- Live](https://open.spotify.com/track/2XqPzwbRFaOVxOPzOUSY2d) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [SEVEN \(Live\)](https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt) | 4:51 |
 | 42 | [Every Season Is Holy Ground \(Live\)](https://open.spotify.com/track/4df54lW3hCbohXGctOx6HG) | [Jacob Cantrell](https://open.spotify.com/artist/3vRlp48MEXs2uuVGKhZtro), [Capital City Music](https://open.spotify.com/artist/1LpieXNHBu8d1hEAmr4rvH) | [Every Season Is Holy Ground \(Live\)](https://open.spotify.com/album/6y1YPH0kyXCV1WN18Zjkfu) | 7:21 |
 | 43 | [It is Done \- Live](https://open.spotify.com/track/737zghobTBR0SauNxmcXrt) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Marya Adé](https://open.spotify.com/artist/0ng9uodX69rzP8nm6VnuLJ) | [It is Done](https://open.spotify.com/album/5JykxP8EoWW9A9LhaUmLkG) | 5:55 |

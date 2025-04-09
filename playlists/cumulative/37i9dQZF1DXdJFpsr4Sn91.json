@@ -10215,6 +10215,24 @@
     },
     {
       "album": {
+        "name": "Suomineito",
+        "url": "https://open.spotify.com/album/5XnhtzHxPX9sVTkZ6tFIxx"
+      },
+      "artists": [
+        {
+          "name": "Olli Halonen",
+          "url": "https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179186,
+      "name": "Suomineito",
+      "url": "https://open.spotify.com/track/188EnbTWzh3gJPEo5gzvwF"
+    },
+    {
+      "album": {
         "name": "Suuria tarinoita",
         "url": "https://open.spotify.com/album/26XMsvBWYRJzSv8VBt1dw3"
       },

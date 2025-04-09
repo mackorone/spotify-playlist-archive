@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: Nicolò Filippucci
 
-671 songs - 1 day 7 hr 7 min
+672 songs - 1 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Converse / Nike \(feat.Tancredi\)](https://open.spotify.com/track/45eksCUmYYaGuwRmYnVAAz) | [Sina](https://open.spotify.com/artist/2BYuUplSlEUC7pg9W05d3F), [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [Cupido Senza Ali](https://open.spotify.com/album/3x3vS767sbgvMnAEgZctdx) | 2:28 | 2024-07-04 | 2024-10-04 |
 | [COSE CHE NON SAI](https://open.spotify.com/track/6qd8pqUuKwmzmv30nTe7i6) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng), [Cripo](https://open.spotify.com/artist/4gStQ4qUXS6NLN8N7GThb0) | [COSE CHE NON SAI](https://open.spotify.com/album/73TFa19BEx0BEhfHbswCDn) | 2:30 | 2023-11-30 | 2023-12-22 |
 | [Cose Irrisolte](https://open.spotify.com/track/1Qce0xOIZkROcZ9WdkkolH) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU) | [Cose Irrisolte](https://open.spotify.com/album/2GXUbX988I5nxVRQKTywWO) | 2:41 | 2023-08-24 | 2023-09-01 |
-| [COSPLAY LOVE](https://open.spotify.com/track/5W6GyPzoPYuOMQRrz7rOhy) | [CARO WOW](https://open.spotify.com/artist/6kyGmHxzIq5UcqAYS6BWUs) | [COSPLAY LOVE](https://open.spotify.com/album/4LjJJLU4qibDKGAxHFpxKE) | 3:02 | 2025-03-13 |  |
+| [COSPLAY LOVE](https://open.spotify.com/track/5W6GyPzoPYuOMQRrz7rOhy) | [CARO WOW](https://open.spotify.com/artist/6kyGmHxzIq5UcqAYS6BWUs) | [COSPLAY LOVE](https://open.spotify.com/album/4LjJJLU4qibDKGAxHFpxKE) | 3:02 | 2025-03-13 | 2025-04-09 |
 | [Così Come Sei](https://open.spotify.com/track/39refPH7JbYZZZ1NrBEa0f) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Così Come Sei](https://open.spotify.com/album/6a4FSCfn5xOXi2TSTH03DR) | 2:28 | 2023-05-25 | 2023-09-15 |
 | [Creatura bellissima](https://open.spotify.com/track/0X8RXxTg4p2Uxn1QMaPaqR) | [Drama](https://open.spotify.com/artist/2h16TAqr8VkUs8ddUxOS6w), [PATRIK](https://open.spotify.com/artist/5Mwqi2MUNHBzXIVuOuO8ca) | [Creatura bellissima](https://open.spotify.com/album/2dD8MKY6wdNvCv1hgM3LDX) | 3:39 | 2023-05-18 | 2023-06-09 |
 | [crush](https://open.spotify.com/track/0evHbtc2spfyNIODfG7Cxa) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [poké melodrama](https://open.spotify.com/album/2wTktpdvwoQdSYVhw54Lbz) | 2:32 | 2024-05-31 | 2024-09-06 |
@@ -159,7 +159,7 @@
 | [DAMMI UN BACIO JA’](https://open.spotify.com/track/3OCCmqxxlz7AXI1Ns7gY2C) | [Leo Gassmann](https://open.spotify.com/artist/5i0snp4GKBLiFsAZAwuJ5b) | [DAMMI UN BACIO JA’](https://open.spotify.com/album/63Lct71NrJl6FjsJSgBRp5) | 2:45 | 2023-11-16 | 2024-01-05 |
 | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/track/5zFRzVwX8mRofUGZ65u4ML) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/album/3S22xabBnIoCaVxZOIqUtz) | 2:57 | 2024-12-05 |  |
 | [Danimarca](https://open.spotify.com/track/5bkUPNhCQ3LlUEnOT9jQW3) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [Danimarca](https://open.spotify.com/album/01yiaCziEOgYtQZggS6hYA) | 2:46 | 2024-06-13 | 2024-07-05 |
-| [datti tempo](https://open.spotify.com/track/57s4FJIjHtzrDy3amuxdl2) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [abbatteremo i motel e torneremo a far l’amore in mezzo ai campi](https://open.spotify.com/album/6zBVlFWATphRVpz1rxyWvF) | 2:51 | 2025-01-16 |  |
+| [datti tempo](https://open.spotify.com/track/57s4FJIjHtzrDy3amuxdl2) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [abbatteremo i motel e torneremo a far l’amore in mezzo ai campi](https://open.spotify.com/album/6zBVlFWATphRVpz1rxyWvF) | 2:51 | 2025-01-16 | 2025-04-09 |
 | [Del + e del \-](https://open.spotify.com/track/3XLiJfgPLGbOhemWzuNpHO) | [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [Del + e del \-](https://open.spotify.com/album/6biAzgZtwwShblArNSSzPs) | 2:56 | 2023-10-19 | 2023-11-03 |
 | [DESNUDA](https://open.spotify.com/track/35BRwHz18c75LnbPq1IvTQ) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [DESNUDA](https://open.spotify.com/album/2lTfLDo6406WLjYUY9nUIM) | 2:54 | 2024-06-20 | 2024-10-04 |
 | [Devastante](https://open.spotify.com/track/01XexSX2HDgVDxnnHEBblB) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Devastante](https://open.spotify.com/album/4kcXg1nme5PmpGe9Jqjd8n) | 3:10 | 2024-03-07 |  |
@@ -320,6 +320,7 @@
 | [LO FARÒ DOMANI \(feat\. MAGENTA FLORA\)](https://open.spotify.com/track/2SiacQcn31WMD8CfWbsGUZ) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B), [MAGENTA FLORA](https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs) | [LO FARÒ DOMANI \(feat\. MAGENTA FLORA\)](https://open.spotify.com/album/3bzeG9bHPD8VzJWGjw31l7) | 2:25 | 2024-07-11 | 2024-07-19 |
 | [LONTANO DA TUTTO](https://open.spotify.com/track/2ba7fBRDrqrXYmgHa81Pdx) | [Rondine](https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l) | [LONTANO DA TUTTO](https://open.spotify.com/album/29ehCxzxREyf0z4zKoYQsp) | 2:42 | 2024-09-19 | 2025-02-12 |
 | [LOVE SONG](https://open.spotify.com/track/5OlOi3sB9hMntMhg6N7ERn) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv) | [LOVE SONG](https://open.spotify.com/album/24RwKTp7zQqYhOTUMkkUt1) | 3:11 | 2023-09-21 | 2023-10-20 |
+| [luci allo xeno](https://open.spotify.com/track/3zBsXyqrOj6QVVoGJtjOaZ) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [luci allo xeno](https://open.spotify.com/album/78ItbaiDnbYt7cy9ecMUmN) | 2:53 | 2025-04-08 |  |
 | [luci dell'autostrada](https://open.spotify.com/track/1njaBfkZQy1zFZVdBRevzU) | [Biava](https://open.spotify.com/artist/3tnRz0rA9YnwZ7BUv958vk) | [luci dell'autostrada](https://open.spotify.com/album/2RWLqaalwSC4qK9nCKokZF) | 2:44 | 2024-07-25 | 2024-10-04 |
 | [LUNA](https://open.spotify.com/track/40FRMdRcEgEVEIzcNxZZ2z) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [LUNA](https://open.spotify.com/album/6yOQL2yXTuqNpLrzBPYXQa) | 2:29 | 2024-12-19 | 2025-01-24 |
 | [luna di miele](https://open.spotify.com/track/4Imr6mUIXASXBSFrw1FCfI) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [PER IL MIO BENE](https://open.spotify.com/album/6BftqBLM4fJ7alFzUhGuOw) | 3:02 | 2024-05-23 | 2024-10-18 |

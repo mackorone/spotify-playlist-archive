@@ -2751,6 +2751,24 @@
     },
     {
       "album": {
+        "name": "Kaihosielu",
+        "url": "https://open.spotify.com/album/3DrQkAh6kHbcxVPJd71vaI"
+      },
+      "artists": [
+        {
+          "name": "Komiat",
+          "url": "https://open.spotify.com/artist/3AmLhgSu80YTQarQMWXwna"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165185,
+      "name": "Kaihosielu",
+      "url": "https://open.spotify.com/track/6bh5bVJ3agYEEZAduje0Zu"
+    },
+    {
+      "album": {
         "name": "Kaikesta puolet saat",
         "url": "https://open.spotify.com/album/4Z5eyDEWouCsw2xpGZu2Cg"
       },

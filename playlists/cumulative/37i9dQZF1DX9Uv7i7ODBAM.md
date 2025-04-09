@@ -4,7 +4,7 @@
 
 > Enjoy music from "My Hero Academia"! ©堀越耕平／集英社・僕のヒーローアカデミア製作委員会
 
-150 songs - 8 hr 47 min
+152 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [ODD FUTURE](https://open.spotify.com/track/1lzOJ1bIBkdUQEH8Yo9pa4) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ALL TIME BEST \-FAN BEST\- \(EXTRA EDITION\)](https://open.spotify.com/album/4N9oCWIrFbIv6OPMp3Cik0) | 3:45 | 2023-03-14 |  |
 | [ODD FUTURE](https://open.spotify.com/track/4uiLsrJvcJRNxPBJhXqiPE) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ALL TIME BEST \-FAN BEST\- \(EXTRA EDITION\)](https://open.spotify.com/album/3Vvhcz4SbV4KoGL4cRGhZz) | 3:45 | 2022-10-11 | 2022-11-13 |
 | [ODD FUTURE](https://open.spotify.com/track/5tHp131qFB3T7e01x1xsO2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 3:46 | 2022-10-01 | 2024-04-19 |
+| [POP☆STEP](https://open.spotify.com/track/0UtruuaYSyn6it8d8RNua1) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [ポップ☆ステップ](https://open.spotify.com/artist/4acDr2jLgAGAFtRDeTr4cq) | [POP☆STEP](https://open.spotify.com/album/6OITpIlNZY6BnNTBzIuLuj) | 1:42 | 2025-04-08 |  |
 | [Revengers](https://open.spotify.com/track/0qWg7OtwyOJCWon829FVO0) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 6 \(Original Series Soundtrack EP\)](https://open.spotify.com/album/2QrBpX5sscvwtYuRgig6hS) | 2:27 | 2022-12-13 | 2023-03-18 |
 | [Revengers](https://open.spotify.com/track/0yjWzZLNHDXa1BIsPhZu98) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [「僕のヒーローアカデミア」サウンドトラックセレクション 2021\-2023](https://open.spotify.com/album/3MRlskbgnU3ULFv2fJmKq9) | 2:27 | 2023-03-14 |  |
 | [Revengers](https://open.spotify.com/track/3ZwA5xXDVek02SKxz3upNU) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』6th オリジナルサウンドトラック](https://open.spotify.com/album/7d3zzvGeMjqUSFo6qnEz2U) | 2:27 | 2022-12-13 | 2022-12-15 |
@@ -122,6 +123,7 @@
 | [スターマーカー](https://open.spotify.com/track/0pQm5AbAaVy9XrOLf7rgSF) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [スターマーカー](https://open.spotify.com/album/3i5qvSK7NKmpeLT0a76qXN) | 3:33 | 2022-10-11 | 2022-11-14 |
 | [スターマーカー](https://open.spotify.com/track/3YRfX5voPogRjEbbS6eonR) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [スターマーカー](https://open.spotify.com/album/6gxhnUoB5JzbkZcD94CSMh) | 3:33 | 2023-03-14 |  |
 | [スターマーカー \(Album Mix\)](https://open.spotify.com/track/6NAtVhZ5LrvoKy2Gijr5gj) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [Honey & Darling](https://open.spotify.com/album/3IuxHkC9II53tjmZCIRwsL) | 3:33 | 2022-10-01 | 2024-04-19 |
+| [スピード \- Speed](https://open.spotify.com/track/2D3jMiMkKMmvchLMLXLG4T) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [スピード \- Speed](https://open.spotify.com/album/1b468g18LpNbntgka81SCM) | 3:38 | 2025-04-08 |  |
 | [ハイヤーグラウンド](https://open.spotify.com/track/6kRLCygHi8SvEL2MWbfzcg) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [AMUSIC](https://open.spotify.com/album/77S1EmlVIWKiXrtwt21sZ1) | 3:47 | 2022-10-01 | 2024-04-19 |
 | [ハイヤーグラウンド](https://open.spotify.com/track/7l00nyQmAx0DEE9XRFaHxG) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [願い / ハイヤーグラウンド](https://open.spotify.com/album/7MjxSTygRkz6YBmHOEwlx5) | 3:49 | 2023-03-14 |  |
 | [ヒーロー活動推奨プロジェクト](https://open.spotify.com/track/72msobpP38fWgnky38JU1J) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [「僕のヒーローアカデミア THE MOVIE ヒーローズ:ライジング」オリジナルサウンドトラック](https://open.spotify.com/album/4fjerhn0bTIL7kLJC6nmlP) | 3:15 | 2023-03-14 |  |

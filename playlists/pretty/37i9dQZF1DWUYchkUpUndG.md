@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc?si=1408a3S7SIKfMBA1quyFvA>Celestine Donkor</a> and https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl?si=TaUc7uTkQWqfi3APmVIJbg>Diana Hamilton</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,252 likes - 102 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,258 likes - 102 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

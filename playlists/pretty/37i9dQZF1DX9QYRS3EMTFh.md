@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Blaiz Fayah
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,516 likes - 40 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,620 likes - 40 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 33 | [Tic](https://open.spotify.com/track/15asbiNkK4d3KQu1fEXNvN) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [Tic](https://open.spotify.com/album/3mZXvkX8YsR3MI33seIECN) | 2:25 |
 | 34 | [MANICOU](https://open.spotify.com/track/7FQHzAp0aBPljNddzAvCul) | [Admiral T](https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE) | [MAESTRO](https://open.spotify.com/album/6hYuhOmArT5XZJWAxeQs6S) | 2:53 |
 | 35 | [Ring Ring](https://open.spotify.com/track/4yj9WM6YoBq4Klxlp3xEZG) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [Ring Ring](https://open.spotify.com/album/19HAQPFPdbXtJDooirCguy) | 2:13 |
-| 36 | [Scélérat](https://open.spotify.com/track/2Kuif785CxqZdTQ7RZ1w3R) | [Elji](https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s), [DJ V\. Trine](https://open.spotify.com/artist/5icUzHElWE8qf9hxxU1nd2) | [Scélérat](https://open.spotify.com/album/3WAUdjiuBfi6ffPmBBjH3A) | 2:24 |
+| 36 | [Scélérat](https://open.spotify.com/track/2Kuif785CxqZdTQ7RZ1w3R) | [Elji](https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s), [DJ Vtrine](https://open.spotify.com/artist/5icUzHElWE8qf9hxxU1nd2) | [Scélérat](https://open.spotify.com/album/3WAUdjiuBfi6ffPmBBjH3A) | 2:24 |
 | 37 | [Mon L'ex](https://open.spotify.com/track/2hoAynhMlNUv6YPf6Xtzvk) | [DJ SEBB](https://open.spotify.com/artist/6tWA0KYYzAiQzgKzImRQGF), [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf) | [Mon L'ex](https://open.spotify.com/album/1gUFGC726v0j0H3CiTp24i) | 2:32 |
 | 38 | [Breakfast](https://open.spotify.com/track/2vrgHyhWUAr5tgvkKgmo4I) | [SAÏK](https://open.spotify.com/artist/395spUELWr54gJKYr3EE0I) | [Breakfast](https://open.spotify.com/album/4bdP43zmEqcUsWgrFZs7z6) | 2:48 |
 | 39 | [ANLÈ SA](https://open.spotify.com/track/3MHTydM3wHCxNQa8wMm029) | [Malcolm](https://open.spotify.com/artist/1c3s9SZHgBWS8mpo8DpdUb) | [ANLÈ SA](https://open.spotify.com/album/7oijYRYH18dEEERtdniWjS) | 1:35 |

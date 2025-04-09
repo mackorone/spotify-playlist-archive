@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films.
 
-184 songs - 12 hr 37 min
+186 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Grenzlinie](https://open.spotify.com/track/7AA3ECkK5bJWVGpNwKrwAT) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [甲鉄城のカバネリ ORIGINAL SOUNDTRACK](https://open.spotify.com/album/3g5qoaQMLMpDOnfof2RPCn) | 4:56 | 2022-06-07 |  |
 | [His/Story](https://open.spotify.com/track/01StvYUbEIBwTHYdAXljct) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz) | [SINGularity](https://open.spotify.com/album/0z6d7zSYf9ZFkQA9kFsmEe) | 3:53 | 2022-06-21 | 2024-04-19 |
 | [His/Story](https://open.spotify.com/track/2PvKDoq2wPHhY4oqicrBwJ) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz) | [His/Story / Roll The Dice](https://open.spotify.com/album/36kha76MJobek1T7CzFASG) | 3:54 | 2022-06-07 |  |
+| [INERTIA](https://open.spotify.com/track/2joT0CjcGqc1fr8Fvk7itj) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Rei](https://open.spotify.com/artist/4CVs8ZjthgN0YuzXz7yXZ6) | [INERTIA](https://open.spotify.com/album/0tjOB1djtnx8VIkISrO6cb) | 3:19 | 2025-04-08 |  |
 | [Inferno](https://open.spotify.com/track/6ZXVnfb7cIIDxg1DfLCP1M) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「プロメア」オリジナルサウンドトラック](https://open.spotify.com/album/1QZBK8EZ4KSQTlunvEwL7o) | 3:54 | 2022-06-21 | 2024-04-19 |
 | [Inferno](https://open.spotify.com/track/1haosXb8XNSXWBuNirom1g) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「プロメア」オリジナルサウンドトラック](https://open.spotify.com/album/69VJ66DL7INzABSeI90Ufh) | 3:54 | 2022-06-07 |  |
 | [Into the Sky](https://open.spotify.com/track/24BcGYViz1fPTXgqpp1sel) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [2V\-ALK](https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc) | 3:51 | 2022-09-29 | 2024-04-19 |
@@ -109,6 +110,7 @@
 | [Odd One Out](https://open.spotify.com/track/6o6jwULGrWIZkn5Uvs4dg2) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [NAQT](https://open.spotify.com/album/05spQrl3ztKENm71NLLpyO) | 2:43 | 2023-05-12 |  |
 | [odd:I](https://open.spotify.com/track/1MnJPiY2LT0noxGco8UsRC) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Akihito Okano](https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD) | [odd:I](https://open.spotify.com/album/0QoFTpJ94Rz6PaHsdPj5zl) | 2:57 | 2023-08-08 |  |
 | [OUTSIDERS](https://open.spotify.com/track/2p8RSh9uibR5I17T6z5XGY) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [河野純喜 \(JO1\)](https://open.spotify.com/artist/0a8JF5VNmJZhkLmSbfCFnQ), [與那城奨 \(JO1\)](https://open.spotify.com/artist/2iqvC0dewDnljdNTF4sSSp) | [OUTSIDERS](https://open.spotify.com/album/3kdvGxfmWPU7OV8qPhbbmI) | 2:51 | 2022-06-07 |  |
+| [PARAGON](https://open.spotify.com/track/5XbhCs9IBWBRJwsJoU3BeD) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [PARAGON](https://open.spotify.com/album/31mNUa6zQ3dAbW6xl0VP4Y) | 2:45 | 2025-04-08 |  |
 | [pARTs](https://open.spotify.com/track/1cntqKtS7OZSERyDShGfQw) | [Natumi.](https://open.spotify.com/artist/3D3jHECUbYggG2AOzcL4Ub) | [pARTs](https://open.spotify.com/album/6PyyBnPSZnliOSvHoM8mEN) | 3:40 | 2022-06-07 |  |
 | [Perfect Time](https://open.spotify.com/track/1upmGVmHvx0MEHEVdvnBCK) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [七つの大罪 オリジナル・サウンドトラック](https://open.spotify.com/album/4OHuwh9kd4b38gyrP5YMmP) | 4:43 | 2022-06-07 |  |
 | [Perfect Time <HNMT>](https://open.spotify.com/track/1shauNfcBzaAR8pu1kBZgR) | [Eliana](https://open.spotify.com/artist/5gLLotXhk8QIBIi4oxaFmP), [mpi](https://open.spotify.com/artist/0M8XP8YqaT4sUTFR6O6EKz) | [The Seven Deadly Sins：Cursed by Light ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7zNVkr0h3sj7LVnMntNhfQ) | 6:20 | 2022-06-21 | 2023-12-05 |

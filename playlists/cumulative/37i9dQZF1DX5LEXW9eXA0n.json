@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: 2AM) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: \uacbd\uc11c) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -1061,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "All I ask",
+        "url": "https://open.spotify.com/album/2kxbxk3rUuKLTFvDTcUAzl"
+      },
+      "artists": [
+        {
+          "name": "DK",
+          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275026,
+      "name": "All I ask",
+      "url": "https://open.spotify.com/track/3G0d3wMJ281GhbmiB8lZZH"
+    },
+    {
+      "album": {
         "name": "Ghost Doctor, Pt. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5Y9r0IoRE4uftS7lSprK8e"
       },
@@ -1162,7 +1180,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 288046,
       "name": "All Our Days",
       "url": "https://open.spotify.com/track/6SCzQNXZpExdFIJ5vsX04y"
@@ -3162,6 +3180,24 @@
       "duration_ms": 219222,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/6FUFNToiiQKYqhPvWKVy9u"
+    },
+    {
+      "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/202mC12o8Px1mbBaGdQyku"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223373,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/7gnX5DpYwAguO3sfF4b7fY"
     },
     {
       "album": {
@@ -5300,7 +5336,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 225360,
       "name": "End of the Sea",
       "url": "https://open.spotify.com/track/08hMKk7B17UtXjpFd2TEGy"
@@ -10250,7 +10286,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 241720,
       "name": "If it happens, it happens",
       "url": "https://open.spotify.com/track/6pIcRq4yFP210gACpblAO6"
@@ -11664,7 +11700,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 201903,
       "name": "Karaoke",
       "url": "https://open.spotify.com/track/79tpcoJe0n5uKGPXCq8TGM"
@@ -11776,6 +11812,24 @@
       "duration_ms": 262000,
       "name": "Last Scene",
       "url": "https://open.spotify.com/track/72b8XXM0GEo1TtJ2aPe79R"
+    },
+    {
+      "album": {
+        "name": "Buried Hearts (Original Television Soundtrack) Pt. 7",
+        "url": "https://open.spotify.com/album/5KHAL2dWTEWhhcUNSvgUKG"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245080,
+      "name": "Last Story",
+      "url": "https://open.spotify.com/track/7nxZFKs0CEzQrPj97P6B4W"
     },
     {
       "album": {
@@ -16533,6 +16587,28 @@
     },
     {
       "album": {
+        "name": "Our Memories (with JONGHO)",
+        "url": "https://open.spotify.com/album/7JOkn4AF2p8e5V0tD6tjmU"
+      },
+      "artists": [
+        {
+          "name": "Kwon Soonkwan",
+          "url": "https://open.spotify.com/artist/4QLDKHOPL4cISjOBek1ZP7"
+        },
+        {
+          "name": "Jong Ho",
+          "url": "https://open.spotify.com/artist/5gecqU5FZgxVdz1AtLumT0"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249040,
+      "name": "Our Memories (with JONGHO)",
+      "url": "https://open.spotify.com/track/0vIYoCVXGfuZX0xTo4w0jG"
+    },
+    {
+      "album": {
         "name": "Our Night is more beautiful than your Day",
         "url": "https://open.spotify.com/album/5GQw3mn3wr4asTSR73VHTq"
       },
@@ -17835,6 +17911,24 @@
     },
     {
       "album": {
+        "name": "Sadder Than Yesterday",
+        "url": "https://open.spotify.com/album/13aoKP5epMSJuTQuvM6N5N"
+      },
+      "artists": [
+        {
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236240,
+      "name": "Sadder Than Yesterday",
+      "url": "https://open.spotify.com/track/4PBtSN6dNFXA9RUkx5e3W9"
+    },
+    {
+      "album": {
         "name": "Same as Your Ex (Marriage Or Death X Leehwamyeong)",
         "url": "https://open.spotify.com/album/3vjIEUPuHBfWmp7CBXPSzq"
       },
@@ -18334,6 +18428,24 @@
       "duration_ms": 255546,
       "name": "Silent Dial",
       "url": "https://open.spotify.com/track/0b48ZGG7Pu3cfNXXiQbOwF"
+    },
+    {
+      "album": {
+        "name": "Similar Person",
+        "url": "https://open.spotify.com/album/0FWAT2uT59sz1fRka7aUaK"
+      },
+      "artists": [
+        {
+          "name": "Lee Ki-chan",
+          "url": "https://open.spotify.com/artist/06lmDAKbe4tXjN9m7bRaQj"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220040,
+      "name": "Similar Person",
+      "url": "https://open.spotify.com/track/4zl4DfIOdBCsb4rQuDrpXk"
     },
     {
       "album": {
@@ -26088,7 +26200,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 218638,
       "name": "\uc774\ubcc4\uc774 \uc774\ub807\uac8c \ud798\ub4e4 \uac70\ub77c\uace0",
       "url": "https://open.spotify.com/track/6ixDSzvVMinZIxuQ8Lq5Yn"
@@ -26218,7 +26330,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 213653,
       "name": "\uc81c\ubc1c \ub0b4\uac8c \ub9d0\ud574\uc8fc\ub77c (Please tell me)",
       "url": "https://open.spotify.com/track/0BeyMR83qdrHlIM52jprNC"

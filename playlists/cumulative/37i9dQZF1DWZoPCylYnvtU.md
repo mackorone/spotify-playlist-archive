@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZoPCylYnvtU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZoPCylYnvtU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZoPCylYnvtU)
 
-### [Sonido de Lluvia Relajante](https://open.spotify.com/playlist/37i9dQZF1DWZoPCylYnvtU)
+### [Sonido de Lluvia](https://open.spotify.com/playlist/37i9dQZF1DWZoPCylYnvtU)
 
 > Lluvia sin más
 

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZ6DrGMb0BWJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZ6DrGMb0BWJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZ6DrGMb0BWJ)
 
-### [シティーハンター \-CITY HUNTER\-](https://open.spotify.com/playlist/37i9dQZF1DWZ6DrGMb0BWJ)
+### [CITY HUNTER](https://open.spotify.com/playlist/37i9dQZF1DWZ6DrGMb0BWJ)
 
-> <a href="https://cityhunter\-movie.com/">劇場版シティーハンター</a>公開記念！20年の時を経て、伝説のアニメの記憶がプレイリストで甦る！\(C\)T.HOJO/N,C
+> Music from "CITY HUNTER"! \(C\)T.HOJO/N,C
 
 42 songs - 3 hr 8 min
 

@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: Colectivo Da Silva.
 
-396 songs - 20 hr 39 min
+397 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Más Profundidad](https://open.spotify.com/track/5goijdL65FQHzDws8ctgri) | [Miree](https://open.spotify.com/artist/3ltRp2hE6eDAHQlkwWfpxD) | [Más Profundidad](https://open.spotify.com/album/1ez2SUyH6Ms2nPCw9mEZI1) | 3:02 | 2025-01-09 | 2025-02-14 |
 | [más que eso](https://open.spotify.com/track/0M0q7YYdSsaZH4DzUWqLxs) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [más que eso](https://open.spotify.com/album/03yM5Am9k6INvtdhh76CtJ) | 3:07 | 2024-11-28 | 2025-01-03 |
 | [MÚSICA PARA TERMINAR](https://open.spotify.com/track/1crNNzBR6UlPsOogylRITQ) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [MÚSICA PARA TERMINAR](https://open.spotify.com/album/0eyrP0NeDOmbfLlynLHGbi) | 2:42 | 2025-03-07 | 2025-03-28 |
-| [nada importa](https://open.spotify.com/track/6ZMyikTYNuTAx7kYPgHrUW) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [nada importa](https://open.spotify.com/album/2bTaFjfeNdUP4o21HMfIV3) | 2:58 | 2025-01-23 |  |
+| [nada importa](https://open.spotify.com/track/6ZMyikTYNuTAx7kYPgHrUW) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [nada importa](https://open.spotify.com/album/2bTaFjfeNdUP4o21HMfIV3) | 2:58 | 2025-01-23 | 2025-04-09 |
 | [Nada Nuevo](https://open.spotify.com/track/4DcWD1rC1xRGNxig8kYwgX) | [Janire](https://open.spotify.com/artist/4sD4ggYulUsZmOxGyQK0Sj) | [Las Huidas](https://open.spotify.com/album/2nj0oHnEEi5mS8GwX7TqwD) | 2:57 | 2024-10-31 | 2024-11-22 |
 | [Nada Que Perder](https://open.spotify.com/track/5IM7yXx4B65vDnuGipiZs2) | [REYKO](https://open.spotify.com/artist/1asECxd7DPIjTLu8NTc3ZA) | [Nada Que Perder](https://open.spotify.com/album/3If9g84i9PdsjEkFiiF0TH) | 3:24 | 2024-12-05 | 2025-01-10 |
 | [Nadie Sabe](https://open.spotify.com/track/07Zg8kkvdzJDhWZYpqgZAE) | [Ciutat](https://open.spotify.com/artist/6mopaAcodk04EGM8lJ2AnW), [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Nadie Sabe](https://open.spotify.com/album/3IoYLb8LhxNQj5fczxJx1w) | 4:12 | 2024-06-27 | 2024-07-12 |
@@ -309,6 +309,7 @@
 | [PROFECÍA](https://open.spotify.com/track/3UrgV10Vn0AfjhR6zL4Wby) | [Confeti de Odio](https://open.spotify.com/artist/3C1CPJ9K2aeHuj1x22B0qJ) | [CIELO1](https://open.spotify.com/album/7MGC4d8d7aBnYudQNq6KQB) | 2:30 | 2025-03-20 |  |
 | [PRÍNCIPE](https://open.spotify.com/track/48puBWvqOsEwv1kcmMR8Ah) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [PRÍNCIPE](https://open.spotify.com/album/1L6SLEogRrudf8IN1H3muW) | 2:51 | 2024-07-18 | 2024-08-16 |
 | [Pura geografia](https://open.spotify.com/track/7hO8gFY9xTofMHbZIoSRGv) | [Maria Jaume](https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO) | [Nostàlgia Airlines](https://open.spotify.com/album/5csb7A1tX7g8GCvar9WuLV) | 2:56 | 2024-06-27 | 2025-03-28 |
+| [QUE ME DES TU CARIÑO](https://open.spotify.com/track/7ftyYZhrM3gEOpjvUY0LKu) | [Los Vinagres](https://open.spotify.com/artist/7lh3aN5caO7mEyllMcGeuS) | [QUE ME DES TU CARIÑO](https://open.spotify.com/album/23n2Pwpm4y2x67xHIMCLcl) | 3:27 | 2025-04-03 |  |
 | [quebrantarse](https://open.spotify.com/track/1wFHLkUscbfPoliv0FLCJu) | [Fillas de Cassandra](https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5) | [quebrantarse](https://open.spotify.com/album/3L27wAdMFX7RXyX7AnIwfG) | 2:40 | 2025-03-27 |  |
 | [QUEMARLO TODO](https://open.spotify.com/track/4BR7wVkXymTFKcDkYkSTtC) | [Suave](https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [QUEMARLO TODO](https://open.spotify.com/album/2n0iynESypPLAPOVu4GVj9) | 2:30 | 2024-10-10 | 2025-03-07 |
 | [Quiero Hacer Música](https://open.spotify.com/track/2oHSAxKWJF2Qt19fauOIuM) | [lusillón](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Quiero Hacer Música](https://open.spotify.com/album/3F4VGPvZtsPk0kgW8FudCc) | 3:20 | 2024-06-27 | 2024-10-16 |

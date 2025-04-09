@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: ROA
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,269 likes - 125 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,403 likes - 125 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 18 | [HELLCAT](https://open.spotify.com/track/60RuWGSrs4oSiludo0J8oq) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [HELLCAT](https://open.spotify.com/album/5I53owIDbvSOLlNcjxw7Nv) | 2:44 |
 | 19 | [Interlude N.001 La Combi](https://open.spotify.com/track/0OYmX5M4PPwrwHchuZuTsd) | [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB) | [Interlude N.001 La Combi](https://open.spotify.com/album/65IRdafS9PoptnSxtOUJIo) | 2:35 |
 | 20 | [Bando](https://open.spotify.com/track/0CyJuu1z03pJtWI7loX9va) | [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A), [Jowa](https://open.spotify.com/artist/5ljLrsS46u9DD1e2rWvcc5) | [Bando](https://open.spotify.com/album/61SFJyZpNmvtOb32mtROrD) | 2:15 |
-| 21 | [2x1](https://open.spotify.com/track/6xXLOe3aR1iN1UFj9J1Iln) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg), [Valdi](https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK) | [LOS GALÁCTICOS](https://open.spotify.com/album/5jhX4ZQyGLJZG40Ifrzyma) | 3:15 |
+| 21 | [2x1](https://open.spotify.com/track/6xXLOe3aR1iN1UFj9J1Iln) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Valdi](https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [LOS GALÁCTICOS](https://open.spotify.com/album/5jhX4ZQyGLJZG40Ifrzyma) | 3:15 |
 | 22 | [Rosas](https://open.spotify.com/track/1biS1S1fGITOc1eYBi8t1x) | [D2OS](https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz) | [Rosas](https://open.spotify.com/album/1RtS4i8Diy3bY26ir0GNrA) | 2:25 |
 | 23 | [Nena Goga \- Remix](https://open.spotify.com/track/0LuvfHu9iZqtgzJG3fgGs9) | [Auleen GT](https://open.spotify.com/artist/6rgxrIX9yETOXVAuPnAd4m), [Young Gang](https://open.spotify.com/artist/4bhocj59UpsFMCoJXehnk0), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Afro Ñery](https://open.spotify.com/artist/4OduSW5ROxy0t8hIQrjaPm), [El Creador](https://open.spotify.com/artist/6MTtp0uIUspswHdGvYvV4u) | [Nena Goga \(Remix\)](https://open.spotify.com/album/1thjrXBrEf4TtnC0EYnuIR) | 4:26 |
 | 24 | [Aguita](https://open.spotify.com/track/4RZvp2LCEIw7H6uDlH5lKc) | [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Harold South](https://open.spotify.com/artist/3nC3ZaOYsKpmgvvPJfmzZI) | [Aguita](https://open.spotify.com/album/0jQj5awMZ9iwKzBsxX56UG) | 3:09 |

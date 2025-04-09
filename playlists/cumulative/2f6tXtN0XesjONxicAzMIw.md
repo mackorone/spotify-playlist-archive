@@ -2,7 +2,7 @@
 
 ### [2000s HITS Y2K THROWBACKS](https://open.spotify.com/playlist/2f6tXtN0XesjONxicAzMIw)
 
-> The best of 2000s Y2K nostalgia, from \*NSYNC's Bye Bye Bye, to Shakira, Usher, The White Stripes, Beyonce, Outkast, Wheatus, The Fray, Avril Lavigne + more.
+> The best of 2000s Y2K nostalgia! Coachella, Stagecoach from \*NSYNC's Bye Bye Bye, to Shakira, Usher, The White Stripes, Beyonce, Outkast, Wheatus, The Fray, Avril Lavigne + more.
 
 269 songs - 17 hr 29 min
 

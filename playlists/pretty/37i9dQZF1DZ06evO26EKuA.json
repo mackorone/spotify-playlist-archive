@@ -1,12 +1,12 @@
 {
   "description": "This is Valent\u00edn Elizalde. The essential tracks, all in one playlist.",
-  "num_followers": 447240,
+  "num_followers": 447288,
   "original_name": "This Is Valent\u00edn Elizalde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/HEAAAAAABwqQpKI/uCbyYKNr56MGSH",
+  "snapshot_id": "Z/MVgAAAAADZXOjR8POFvPyj2/qpfZ+7",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Regresan Los Mafiosos",
-        "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Ni Dada La Quiero",
-      "url": "https://open.spotify.com/track/7rBuDjBKbF7Ld0FEbepGy4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Desde Villa Juarez Sonora",
         "url": "https://open.spotify.com/album/0QkFGha0sQ1mFhuUEOKlxy"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 232600,
       "name": "El Sinaloense",
       "url": "https://open.spotify.com/track/64s6BmkogWiJCeFyzSveiM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Regresan Los Mafiosos",
+        "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "Ni Dada La Quiero",
+      "url": "https://open.spotify.com/track/7rBuDjBKbF7Ld0FEbepGy4"
     },
     {
       "added_at": null,

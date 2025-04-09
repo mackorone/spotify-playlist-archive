@@ -1,6 +1,6 @@
 {
   "description": "The best new dance music by independent artists and labels, featuring Harry Hayes. Artwork by Rewina Beshue.",
-  "num_followers": 197475,
+  "num_followers": 197501,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
@@ -496,12 +496,12 @@
       },
       "artists": [
         {
-          "name": "STRAWBRY",
-          "url": "https://open.spotify.com/artist/6JcapcUefqZ2azH0T5BRSi"
-        },
-        {
           "name": "SHAKING",
           "url": "https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6"
+        },
+        {
+          "name": "STRAWBRY",
+          "url": "https://open.spotify.com/artist/6JcapcUefqZ2azH0T5BRSi"
         }
       ],
       "duration_ms": 201428,

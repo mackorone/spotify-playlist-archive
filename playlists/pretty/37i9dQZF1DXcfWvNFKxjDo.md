@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: CERES, LUNAX
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,443 likes - 82 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,475 likes - 82 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 46 | [Every Day and Every Night](https://open.spotify.com/track/6a7pvrnzPpaY2ckXMXHrny) | [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj) | [Every Day and Every Night](https://open.spotify.com/album/4r66RGs7LVFAWbMfbD4MLi) | 2:40 |
 | 47 | [QUIZUMBA](https://open.spotify.com/track/44ij2fvPiaOwuCdvqpCIQh) | [DJ Katch](https://open.spotify.com/artist/1AAfkmCFRTSDg18GQ3itgl) | [QUIZUMBA](https://open.spotify.com/album/6uvbPE7qXA2QFOTdXMcmxA) | 2:44 |
 | 48 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:56 |
-| 49 | [Shake That](https://open.spotify.com/track/3t854jxXLppSGbOEYGQ3mI) | [Danimal](https://open.spotify.com/artist/6SQ1RYZmxJGxii56ou9RQj), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [okafuwa](https://open.spotify.com/artist/34MSwSLRID464bAqEzGrFj) | [Shake That](https://open.spotify.com/album/5fopLePPfYk56Ei99jOmLv) | 2:00 |
+| 49 | [Shake That](https://open.spotify.com/track/3t854jxXLppSGbOEYGQ3mI) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Danimal](https://open.spotify.com/artist/6SQ1RYZmxJGxii56ou9RQj), [okafuwa](https://open.spotify.com/artist/34MSwSLRID464bAqEzGrFj) | [Shake That](https://open.spotify.com/album/5fopLePPfYk56Ei99jOmLv) | 2:00 |
 | 50 | [Dreaming Of You](https://open.spotify.com/track/6irqAJQjRS0uW2dxDXyaj8) | [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV) | [Dreaming Of You](https://open.spotify.com/album/27kNgbEXGxOYQp5hagA18Y) | 3:01 |
 | 51 | [Into You](https://open.spotify.com/track/177x84FNffqjqphWXrfdQY) | [KALUMA](https://open.spotify.com/artist/4dgLZMavMm3danubiJxbtw) | [Into You](https://open.spotify.com/album/1utvuUZCsa5ioIFEA5QHXW) | 3:02 |
 | 52 | [Lethal Industry](https://open.spotify.com/track/65d7UzXoe2NV07HML578H9) | [GYMBRO](https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D), [Shuhandz](https://open.spotify.com/artist/2sXAc7uyVF7HwCwPa1ATuT) | [Lethal Industry](https://open.spotify.com/album/6ZhwbdtFpUcWoFRlKTR196) | 2:08 |

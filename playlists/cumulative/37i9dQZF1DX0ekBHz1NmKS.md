@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,808 songs - 3 day 21 hr 49 min
+1,809 songs - 3 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [All My Life](https://open.spotify.com/track/7KvTwW9i8f6RYk5hdcq32z) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [All My Life](https://open.spotify.com/album/2TLYWMHBDYn3Qor0pC0Rjp) | 3:02 | 2024-08-08 | 2025-03-14 |
 | [All My Life \- and then…](https://open.spotify.com/track/3YXzBX4UsYFPe11sUty9yS) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 4:35 | 2024-10-24 | 2025-04-02 |
 | [All Over Town](https://open.spotify.com/track/4fQaAVDoLg2QauZPMu2Lne) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [All Over Town](https://open.spotify.com/album/321cYact51YEkdO42GqeVe) | 3:47 | 2024-09-05 | 2025-03-28 |
+| [Alla Glömda Nätter](https://open.spotify.com/track/2fynD15EUzMbPtuKScAiNV) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Vita Skelett & Vita Pärlor](https://open.spotify.com/album/5rzvik02bW2rHsyaPGyS0f) | 4:16 | 2025-04-03 |  |
 | [Alla måste älska mig](https://open.spotify.com/track/3xahTikNV7Arb70nJcavwM) | [Emma\-Lee Andersson](https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY) | [Alla måste älska mig](https://open.spotify.com/album/7DViMnpL50xK4xAUYmECH1) | 2:44 | 2022-06-09 | 2022-07-28 |
 | [Alla Ska Dö](https://open.spotify.com/track/42JjxAcdxkqNOkx1HpPizt) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Alla Ska Dö](https://open.spotify.com/album/4FGa0t6nw3MaVpLGs0cIif) | 2:46 | 2025-03-20 |  |
 | [Alla Tittar På Mig](https://open.spotify.com/track/1NTRILHCdM1JLeLJZ6lAYG) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Alla Tittar På Mig](https://open.spotify.com/album/5S1ATUDgqCdYRei7UEIxkr) | 2:24 | 2025-01-16 |  |
@@ -1710,7 +1711,7 @@
 | [Vita Boots](https://open.spotify.com/track/5iV8CK3jqcaYKFqaOXcNij) | [Mia Elfqvist](https://open.spotify.com/artist/3fBR86TB3VE259lsDTjvoC) | [Vita Boots](https://open.spotify.com/album/5lLze5NZIcCrP95UZarcZ4) | 2:16 | 2024-08-29 | 2025-01-04 |
 | [Vita väggar](https://open.spotify.com/track/5JxfUSVHz6Icx4CUXj5mTQ) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg) | [Claras dagbok](https://open.spotify.com/album/3U4LDho4X3lDdgZV0O5gwV) | 3:41 | 2021-12-16 | 2022-04-01 |
 | [Vittran \- Radio Edit](https://open.spotify.com/track/6elAv52VzdVC7TUsaSvo9Q) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n), [Sara Parkman](https://open.spotify.com/artist/3QKspYZWuPR8sJ6WW1zAdw) | [Vittran](https://open.spotify.com/album/1NiKWKJk2cDbpo0kQm26pv) | 3:33 | 2021-12-16 | 2022-03-01 |
-| [volar](https://open.spotify.com/track/3TkjaTJWWSrkMvrqVVLX0b) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [The Driving Towards The Sunset Tapes](https://open.spotify.com/album/1diK3l5nm4uSocAPQugQlL) | 3:59 | 2025-01-23 |  |
+| [volar](https://open.spotify.com/track/3TkjaTJWWSrkMvrqVVLX0b) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [The Driving Towards The Sunset Tapes](https://open.spotify.com/album/1diK3l5nm4uSocAPQugQlL) | 3:59 | 2025-01-23 | 2025-04-09 |
 | [Väck mig](https://open.spotify.com/track/1TnsKoURsEMCOTwITqSHg5) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Konsten att fly](https://open.spotify.com/album/6px7zvuCY3QhjzbD15W8bt) | 2:57 | 2023-10-19 | 2024-01-19 |
 | [Väck mig](https://open.spotify.com/track/3ghOgeif39Qct3OWdRJdZD) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Konsten att fly](https://open.spotify.com/album/7I7LQA7ITDQz76qwgwrxGs) | 2:57 | 2023-08-25 | 2023-10-11 |
 | [Välkommen ner](https://open.spotify.com/track/29YN98sTVSpfYMpPzFXaGU) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Välkommen ner](https://open.spotify.com/album/2g6uhhynepaJyUn5eFR4qN) | 2:38 | 2024-04-11 | 2024-05-17 |

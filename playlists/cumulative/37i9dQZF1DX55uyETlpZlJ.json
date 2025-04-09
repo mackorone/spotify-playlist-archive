@@ -63,6 +63,32 @@
     },
     {
       "album": {
+        "name": "Aa Gagana Surya",
+        "url": "https://open.spotify.com/album/0vh60UvkM1FjAI7S4nqIJH"
+      },
+      "artists": [
+        {
+          "name": "Pancham Jeeva",
+          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
+        },
+        {
+          "name": "Kinnal Raj",
+          "url": "https://open.spotify.com/artist/6fYwsvBDdHgmAtfnjGJqOD"
+        },
+        {
+          "name": "Sathya Radhakrishna",
+          "url": "https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332307,
+      "name": "Aa Gagana Surya",
+      "url": "https://open.spotify.com/track/6kVcB3nyCRme2opxgffHFb"
+    },
+    {
+      "album": {
         "name": "Aa Gagana Surya (feat. Pancham Jeeva, Kinnal Raj)",
         "url": "https://open.spotify.com/album/2ahIFjlvrc8twTzfYj1ftg"
       },
@@ -6334,7 +6360,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 198347,
       "name": "Nanna Hudugi Nenapu",
       "url": "https://open.spotify.com/track/2DaCNqtHUw6tAdNBLhIoZR"

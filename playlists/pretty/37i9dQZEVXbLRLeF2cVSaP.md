@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,606 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,605 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Фото со звездой](https://open.spotify.com/track/5cw12f6sAU2O88o6gn6Rw1) | [Lida](https://open.spotify.com/artist/0ChMIwzbYxHbebgoPeETfV) | [Фото со звездой](https://open.spotify.com/album/3pNY656sagz7e5RxbzsVLn) | 2:02 |
 | 50 | [Who \(Acoustic Remix\)](https://open.spotify.com/track/10I5rhhFoWZDIN3kEc6Dbo) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE \(WONDER ver.\)](https://open.spotify.com/album/5AQc0yFXRcdUdko4sZ1fW9) | 3:04 |
 
-Snapshot ID: `L4c/oAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L4iRIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-08-20",
-  "description": "Enjoy music from \"Macross Series\"! SF\u8d85\u5927\u4f5c\u30a2\u30cb\u30e1\u3001\u30de\u30af\u30ed\u30b9\u30b7\u30ea\u30fc\u30ba\u306e\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c /\u30b5\u30f3\u30c8\u30e9\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\uff01\u00a9\ufe0e1984,1994,2015 BIGWEST \u00a9\ufe0e2007 BIGWEST/MACROSS F PROJECT\u30fbMBS\u00a9\ufe0e12015\u00a0\u30d3\u30c3\u30af\u30a6\u30a8\u30b9\u30c8\uff0f\u30de\u30af\u30ed\u30b9\u0394\u88fd\u4f5c\u59d4\u54e1\u4f1a\n\u00a9\ufe0e2015 BW/MDP\n",
-  "name": "Macross Series -\u30de\u30af\u30ed\u30b9\u30b7\u30ea\u30fc\u30ba -",
+  "description": "Enjoy music from \"Macross Series\"! \u00a9\ufe0e1984,1994,2015 BIGWEST \u00a9\ufe0e2007 BIGWEST/MACROSS F PROJECT\u30fbMBS\u00a9\ufe0e12015\u00a0\u30d3\u30c3\u30af\u30a6\u30a8\u30b9\u30c8\uff0f\u30de\u30af\u30ed\u30b9\u0394\u88fd\u4f5c\u59d4\u54e1\u4f1a\n\u00a9\ufe0e2015 BW/MDP\n",
+  "name": "Macross Series",
   "tracks": [
     {
       "album": {
@@ -660,6 +660,28 @@
       "duration_ms": 97333,
       "name": "\u308a\u3093\u3054\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/62MS0grt1BwP2hhx8mR8OI"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30a4 to \u30a2\u30a4 -KENN ver.-",
+        "url": "https://open.spotify.com/album/0MrIlbqbUl8OlfxRvS5UpC"
+      },
+      "artists": [
+        {
+          "name": "\u65b0\u30de\u30af\u30ed\u30b9 \u8d85\u6642\u7a7a\u6b4c\u59eb\u30aa\u30fc\u30c7\u30a3\u30b7\u30e7\u30f32025",
+          "url": "https://open.spotify.com/artist/6r9zA1GdXUZuoUrllbUYR6"
+        },
+        {
+          "name": "KENN",
+          "url": "https://open.spotify.com/artist/3oNnnGfd5B9b2MshVkwruX"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84170,
+      "name": "\u30a2\u30a4 to \u30a2\u30a4 -KENN ver.-",
+      "url": "https://open.spotify.com/track/3cVdTYN0dewhR0xpGsk7Ko"
     },
     {
       "album": {

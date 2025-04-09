@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e9\u05e7\u05dc \u05d5\u05d2\u05dc\u05e2\u05d3 \u05db\u05d4\u05e0\u05d0 ",
-  "num_followers": 31759,
+  "num_followers": 31764,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -47,26 +47,6 @@
     {
       "added_at": "2025-04-03 21:01:04",
       "album": {
-        "name": "\u05d7\u05dc\u05e7 \u05dc\u05d0 \u05e0\u05e4\u05e8\u05d3 \u05de\u05d0\u05d7\u05e8\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/1X7A7EhntT8Lk4c61oPFUL"
-      },
-      "artists": [
-        {
-          "name": "Ivri Lider",
-          "url": "https://open.spotify.com/artist/1L8QE7iUTf9330wcKxnieK"
-        },
-        {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "\u05d7\u05dc\u05e7 \u05dc\u05d0 \u05e0\u05e4\u05e8\u05d3 \u05de\u05d0\u05d7\u05e8\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/7aOFrZTExl780REZ3CIFiN"
-    },
-    {
-      "added_at": "2025-04-03 21:01:04",
-      "album": {
         "name": "GODMOTHER (feat. Eden Ben Zaken)",
         "url": "https://open.spotify.com/album/2epktylpW82pRgLMu0FSHo"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 191516,
       "name": "GODMOTHER (feat. Eden Ben Zaken)",
       "url": "https://open.spotify.com/track/72yhMb8kkkzWxM4UEPywPC"
+    },
+    {
+      "added_at": "2025-04-03 21:01:04",
+      "album": {
+        "name": "\u05d7\u05dc\u05e7 \u05dc\u05d0 \u05e0\u05e4\u05e8\u05d3 \u05de\u05d0\u05d7\u05e8\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/1X7A7EhntT8Lk4c61oPFUL"
+      },
+      "artists": [
+        {
+          "name": "Ivri Lider",
+          "url": "https://open.spotify.com/artist/1L8QE7iUTf9330wcKxnieK"
+        },
+        {
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "\u05d7\u05dc\u05e7 \u05dc\u05d0 \u05e0\u05e4\u05e8\u05d3 \u05de\u05d0\u05d7\u05e8\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/7aOFrZTExl780REZ3CIFiN"
     },
     {
       "added_at": "2025-04-03 21:01:04",
@@ -539,6 +539,26 @@
     {
       "added_at": "2025-04-03 21:01:04",
       "album": {
+        "name": "\u05db\u05e0\u05e4\u05d9 \u05e8\u05d5\u05d7",
+        "url": "https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U"
+      },
+      "artists": [
+        {
+          "name": "Pulkes",
+          "url": "https://open.spotify.com/artist/3GuD5lqoDUYEPVx5lyC5gP"
+        },
+        {
+          "name": "Berry Sakharof",
+          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+        }
+      ],
+      "duration_ms": 239411,
+      "name": "\u05db\u05e0\u05e4\u05d9 \u05e8\u05d5\u05d7",
+      "url": "https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW"
+    },
+    {
+      "added_at": "2025-04-03 21:01:04",
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg"
       },
@@ -551,22 +571,6 @@
       "duration_ms": 167000,
       "name": "Only Love is Real",
       "url": "https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m"
-    },
-    {
-      "added_at": "2025-04-03 21:01:04",
-      "album": {
-        "name": "Caviar",
-        "url": "https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ"
-      },
-      "artists": [
-        {
-          "name": "Moscoman",
-          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
-        }
-      ],
-      "duration_ms": 246040,
-      "name": "Caviar",
-      "url": "https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa"
     },
     {
       "added_at": "2025-04-03 21:01:04",
@@ -591,22 +595,18 @@
     {
       "added_at": "2025-04-03 21:01:04",
       "album": {
-        "name": "\u05db\u05e0\u05e4\u05d9 \u05e8\u05d5\u05d7",
-        "url": "https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U"
+        "name": "Caviar",
+        "url": "https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ"
       },
       "artists": [
         {
-          "name": "Pulkes",
-          "url": "https://open.spotify.com/artist/3GuD5lqoDUYEPVx5lyC5gP"
-        },
-        {
-          "name": "Berry Sakharof",
-          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+          "name": "Moscoman",
+          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
         }
       ],
-      "duration_ms": 239411,
-      "name": "\u05db\u05e0\u05e4\u05d9 \u05e8\u05d5\u05d7",
-      "url": "https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW"
+      "duration_ms": 246040,
+      "name": "Caviar",
+      "url": "https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa"
     },
     {
       "added_at": "2025-04-03 21:01:04",
@@ -659,22 +659,18 @@
     {
       "added_at": "2025-04-03 21:01:04",
       "album": {
-        "name": "Down for a Moment",
-        "url": "https://open.spotify.com/album/5lTKPUUyncECFr1dQxK8D9"
+        "name": "\u05d4\u05db\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05d9",
+        "url": "https://open.spotify.com/album/3eV2YgJCNNwGLFRRx6bC8C"
       },
       "artists": [
         {
-          "name": "Jimit",
-          "url": "https://open.spotify.com/artist/0hc1IxPxpmUgEIZGGUGrvm"
-        },
-        {
-          "name": "Shelly Archer",
-          "url": "https://open.spotify.com/artist/30bKK8WANSnIYZJ4Yt7OhM"
+          "name": "\u05e7\u05d9\u05e7\u05d9 \u05de\u05dc\u05d9\u05e0\u05e7\u05d9",
+          "url": "https://open.spotify.com/artist/3IC3e7Xim7DpP5jBbzqdmo"
         }
       ],
-      "duration_ms": 199875,
-      "name": "Down for a Moment",
-      "url": "https://open.spotify.com/track/53yQVmN8DcwZan0iVEd5Rz"
+      "duration_ms": 150829,
+      "name": "\u05d4\u05db\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05d9",
+      "url": "https://open.spotify.com/track/4C8fqtZdD1uvmO1JKMs0zy"
     },
     {
       "added_at": "2025-04-03 21:01:04",
@@ -699,22 +695,6 @@
     {
       "added_at": "2025-04-03 21:01:04",
       "album": {
-        "name": "\u05d4\u05db\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05d9",
-        "url": "https://open.spotify.com/album/3eV2YgJCNNwGLFRRx6bC8C"
-      },
-      "artists": [
-        {
-          "name": "\u05e7\u05d9\u05e7\u05d9 \u05de\u05dc\u05d9\u05e0\u05e7\u05d9",
-          "url": "https://open.spotify.com/artist/3IC3e7Xim7DpP5jBbzqdmo"
-        }
-      ],
-      "duration_ms": 150829,
-      "name": "\u05d4\u05db\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05d9",
-      "url": "https://open.spotify.com/track/4C8fqtZdD1uvmO1JKMs0zy"
-    },
-    {
-      "added_at": "2025-04-03 21:01:04",
-      "album": {
         "name": "\u05d0\u05dd \u05d6\u05d4 \u05d2\u05d3\u05d5\u05dc \u05e2\u05dc\u05d9",
         "url": "https://open.spotify.com/album/389FWhGSyHar0vOHq2MFPy"
       },
@@ -727,6 +707,42 @@
       "duration_ms": 153600,
       "name": "\u05d0\u05dd \u05d6\u05d4 \u05d2\u05d3\u05d5\u05dc \u05e2\u05dc\u05d9",
       "url": "https://open.spotify.com/track/3HGdkY1fiewKxUU5dGQFv3"
+    },
+    {
+      "added_at": "2025-04-03 21:01:04",
+      "album": {
+        "name": "Down for a Moment",
+        "url": "https://open.spotify.com/album/5lTKPUUyncECFr1dQxK8D9"
+      },
+      "artists": [
+        {
+          "name": "Jimit",
+          "url": "https://open.spotify.com/artist/0hc1IxPxpmUgEIZGGUGrvm"
+        },
+        {
+          "name": "Shelly Archer",
+          "url": "https://open.spotify.com/artist/30bKK8WANSnIYZJ4Yt7OhM"
+        }
+      ],
+      "duration_ms": 199875,
+      "name": "Down for a Moment",
+      "url": "https://open.spotify.com/track/53yQVmN8DcwZan0iVEd5Rz"
+    },
+    {
+      "added_at": "2025-04-03 21:01:04",
+      "album": {
+        "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
+        "url": "https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq"
+      },
+      "artists": [
+        {
+          "name": "Ehud Banai",
+          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
+        }
+      ],
+      "duration_ms": 362108,
+      "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
+      "url": "https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF"
     },
     {
       "added_at": "2025-04-03 21:01:04",
@@ -751,38 +767,6 @@
     {
       "added_at": "2025-04-03 21:01:04",
       "album": {
-        "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
-        "url": "https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq"
-      },
-      "artists": [
-        {
-          "name": "Ehud Banai",
-          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
-        }
-      ],
-      "duration_ms": 362108,
-      "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
-      "url": "https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF"
-    },
-    {
-      "added_at": "2025-04-03 21:01:04",
-      "album": {
-        "name": "Hate You Instead",
-        "url": "https://open.spotify.com/album/6Cf9d1LVW904lriLs8TNF1"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guy",
-          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
-        }
-      ],
-      "duration_ms": 181185,
-      "name": "Hate You Instead",
-      "url": "https://open.spotify.com/track/77AGoCzOrj72qFgQDM0H8D"
-    },
-    {
-      "added_at": "2025-04-03 21:01:04",
-      "album": {
         "name": "\u05e1\u05d9\u05de\u05e0\u05d9\u05dd \u05de\u05e7\u05d3\u05d9\u05de\u05d9\u05dd",
         "url": "https://open.spotify.com/album/3mPB7mDLvFypbUpMDX7FEd"
       },
@@ -803,18 +787,38 @@
     {
       "added_at": "2025-04-03 21:01:04",
       "album": {
-        "name": "\u05d9\u05d5\u05de\u05d4",
-        "url": "https://open.spotify.com/album/5hW3gJJtJpndoaMAASs6tC"
+        "name": "Hate You Instead",
+        "url": "https://open.spotify.com/album/6Cf9d1LVW904lriLs8TNF1"
       },
       "artists": [
         {
-          "name": "Tohar Gadasi",
-          "url": "https://open.spotify.com/artist/67erASlln0EDGRxHQiePNa"
+          "name": "Gabriel Guy",
+          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
         }
       ],
-      "duration_ms": 145000,
-      "name": "\u05d9\u05d5\u05de\u05d4",
-      "url": "https://open.spotify.com/track/5APVA4YjS7v452lUvnf3mS"
+      "duration_ms": 181185,
+      "name": "Hate You Instead",
+      "url": "https://open.spotify.com/track/77AGoCzOrj72qFgQDM0H8D"
+    },
+    {
+      "added_at": "2025-04-03 21:01:04",
+      "album": {
+        "name": "\u05de\u05e8\u05d7\u05d1 \u05de\u05d5\u05d2\u05df",
+        "url": "https://open.spotify.com/album/3GCd94fF78hbZbJIvrgA2X"
+      },
+      "artists": [
+        {
+          "name": "Safe Space Sessions",
+          "url": "https://open.spotify.com/artist/53iEneWNCdwCeXL5zde6Pg"
+        },
+        {
+          "name": "Shlomi Shaban",
+          "url": "https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX"
+        }
+      ],
+      "duration_ms": 279375,
+      "name": "\u05de\u05d5\u05d3\u05d4 \u05d0\u05e0\u05d9",
+      "url": "https://open.spotify.com/track/1yGzl0CqjQOqdVcFX94gic"
     },
     {
       "added_at": "2025-04-03 21:01:04",
@@ -831,6 +835,22 @@
       "duration_ms": 180224,
       "name": "\u05d4\u05d9\u05d9 \u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05dc\u05d4\u05d2\u05d9\u05d3 \u05dc\u05da - \u05de\u05ea\u05d5\u05da \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
       "url": "https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH"
+    },
+    {
+      "added_at": "2025-04-03 21:01:04",
+      "album": {
+        "name": "\u05d9\u05d5\u05de\u05d4",
+        "url": "https://open.spotify.com/album/5hW3gJJtJpndoaMAASs6tC"
+      },
+      "artists": [
+        {
+          "name": "Tohar Gadasi",
+          "url": "https://open.spotify.com/artist/67erASlln0EDGRxHQiePNa"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "\u05d9\u05d5\u05de\u05d4",
+      "url": "https://open.spotify.com/track/5APVA4YjS7v452lUvnf3mS"
     },
     {
       "added_at": "2025-04-03 21:01:04",
@@ -887,26 +907,6 @@
     {
       "added_at": "2025-04-03 21:01:04",
       "album": {
-        "name": "\u05de\u05e8\u05d7\u05d1 \u05de\u05d5\u05d2\u05df",
-        "url": "https://open.spotify.com/album/3GCd94fF78hbZbJIvrgA2X"
-      },
-      "artists": [
-        {
-          "name": "Safe Space Sessions",
-          "url": "https://open.spotify.com/artist/53iEneWNCdwCeXL5zde6Pg"
-        },
-        {
-          "name": "Shlomi Shaban",
-          "url": "https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX"
-        }
-      ],
-      "duration_ms": 279375,
-      "name": "\u05de\u05d5\u05d3\u05d4 \u05d0\u05e0\u05d9",
-      "url": "https://open.spotify.com/track/1yGzl0CqjQOqdVcFX94gic"
-    },
-    {
-      "added_at": "2025-04-03 21:01:04",
-      "album": {
         "name": "\u05e0\u05e9\u05de\u05d4 \u05d9\u05e7\u05e8\u05d4",
         "url": "https://open.spotify.com/album/7sAM2w4rfxqovH8Ypudtdk"
       },
@@ -959,18 +959,18 @@
     {
       "added_at": "2025-04-03 21:01:04",
       "album": {
-        "name": "A Knight\u2019s Tale",
-        "url": "https://open.spotify.com/album/5vWYUCEKVEUj8KBnTIbcwX"
+        "name": "\u05e7\u05d5\u05de\u05d9 \u05d0\u05d5\u05e8\u05d9 Kumi Ori",
+        "url": "https://open.spotify.com/album/06NWZGpy4LHAAajTtMiTjU"
       },
       "artists": [
         {
-          "name": "Tamir",
-          "url": "https://open.spotify.com/artist/5FCbf39u4swxvJaxC2ZcDf"
+          "name": "Orka",
+          "url": "https://open.spotify.com/artist/694axYJ7pjeqqmZOl6NALd"
         }
       ],
-      "duration_ms": 153200,
-      "name": "Big Wolf",
-      "url": "https://open.spotify.com/track/5oyh5aHumv5soKCDA1f9B5"
+      "duration_ms": 232500,
+      "name": "\u05e7\u05d5\u05de\u05d9 \u05d0\u05d5\u05e8\u05d9 Kumi Ori",
+      "url": "https://open.spotify.com/track/4i6v0i4BrvbMevPY2Qwh5n"
     },
     {
       "added_at": "2025-04-03 21:01:04",
@@ -995,18 +995,18 @@
     {
       "added_at": "2025-04-03 21:01:04",
       "album": {
-        "name": "\u05e7\u05d5\u05de\u05d9 \u05d0\u05d5\u05e8\u05d9 Kumi Ori",
-        "url": "https://open.spotify.com/album/06NWZGpy4LHAAajTtMiTjU"
+        "name": "A Knight\u2019s Tale",
+        "url": "https://open.spotify.com/album/5vWYUCEKVEUj8KBnTIbcwX"
       },
       "artists": [
         {
-          "name": "Orka",
-          "url": "https://open.spotify.com/artist/694axYJ7pjeqqmZOl6NALd"
+          "name": "Tamir",
+          "url": "https://open.spotify.com/artist/5FCbf39u4swxvJaxC2ZcDf"
         }
       ],
-      "duration_ms": 232500,
-      "name": "\u05e7\u05d5\u05de\u05d9 \u05d0\u05d5\u05e8\u05d9 Kumi Ori",
-      "url": "https://open.spotify.com/track/4i6v0i4BrvbMevPY2Qwh5n"
+      "duration_ms": 153200,
+      "name": "Big Wolf",
+      "url": "https://open.spotify.com/track/5oyh5aHumv5soKCDA1f9B5"
     },
     {
       "added_at": "2025-04-03 21:01:04",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-04-03 21:01:04",
       "album": {
-        "name": "\u05d0\u05e0\u05d8\u05d9\u05e9\u05d9\u05d9\u05de\u05d9\u05e0\u05d2",
-        "url": "https://open.spotify.com/album/5uMM1xurwe9fMm3DygjZ9P"
-      },
-      "artists": [
-        {
-          "name": "Roy Rieck",
-          "url": "https://open.spotify.com/artist/3BrPNWMlwJ2ZZWSQZksoqI"
-        }
-      ],
-      "duration_ms": 161011,
-      "name": "\u05d0\u05e0\u05d8\u05d9\u05e9\u05d9\u05d9\u05de\u05d9\u05e0\u05d2",
-      "url": "https://open.spotify.com/track/5IoMR30yNAAqk2WL7CrBOu"
-    },
-    {
-      "added_at": "2025-04-03 21:01:04",
-      "album": {
         "name": "\u05de\u05d4 \u05d0\u05de\u05d9\u05ea\u05d9",
         "url": "https://open.spotify.com/album/22fJie47DUFGtk5z09hHpx"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 183750,
       "name": "\u05de\u05d4 \u05d0\u05de\u05d9\u05ea\u05d9",
       "url": "https://open.spotify.com/track/7feVXCRXPondzNwVP9UWH7"
+    },
+    {
+      "added_at": "2025-04-03 21:01:04",
+      "album": {
+        "name": "\u05d0\u05e0\u05d8\u05d9\u05e9\u05d9\u05d9\u05de\u05d9\u05e0\u05d2",
+        "url": "https://open.spotify.com/album/5uMM1xurwe9fMm3DygjZ9P"
+      },
+      "artists": [
+        {
+          "name": "Roy Rieck",
+          "url": "https://open.spotify.com/artist/3BrPNWMlwJ2ZZWSQZksoqI"
+        }
+      ],
+      "duration_ms": 161011,
+      "name": "\u05d0\u05e0\u05d8\u05d9\u05e9\u05d9\u05d9\u05de\u05d9\u05e0\u05d2",
+      "url": "https://open.spotify.com/track/5IoMR30yNAAqk2WL7CrBOu"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

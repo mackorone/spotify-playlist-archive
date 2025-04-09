@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125457,
+  "num_followers": 125456,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAT56wHwbhXi5gIiJfMC9X30kSo0t35",
+  "snapshot_id": "AAAT6CaAvnOWOZQS/yR6Gnrn8JDLXbMB",
   "tracks": [
+    {
+      "added_at": "2025-04-08 15:15:01",
+      "album": {
+        "name": "Growing",
+        "url": "https://open.spotify.com/album/1lQwhGH4EobT1h4YXTWuMb"
+      },
+      "artists": [
+        {
+          "name": "A.M.R",
+          "url": "https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Growing",
+      "url": "https://open.spotify.com/track/0FhhB1WsXkfUyq1eWkUxAw"
+    },
     {
       "added_at": "2025-04-07 15:53:04",
       "album": {
@@ -908,8 +924,8 @@
           "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
         },
         {
-          "name": "DIESEL",
-          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+          "name": "DJ DIESEL",
+          "url": "https://open.spotify.com/artist/1HBcSNYKyatbUP0cC8usCv"
         },
         {
           "name": "Shaquille O'Neal",

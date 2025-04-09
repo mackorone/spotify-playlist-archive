@@ -1,6 +1,6 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 904517,
+  "num_followers": 904729,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-12-02 16:32:42",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "Way down We Go",
-      "url": "https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6"
-    },
-    {
-      "added_at": "2024-12-02 16:32:42",
-      "album": {
         "name": "Californication (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 215906,
       "name": "Scar Tissue",
       "url": "https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1"
+    },
+    {
+      "added_at": "2024-12-02 16:32:42",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "Way down We Go",
+      "url": "https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6"
     },
     {
       "added_at": "2025-04-04 18:51:17",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-12-02 16:32:42",
       "album": {
-        "name": "blink-182",
-        "url": "https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 227250,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl"
-    },
-    {
-      "added_at": "2024-12-02 16:32:42",
-      "album": {
         "name": "14:59",
         "url": "https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 219866,
       "name": "Every Morning",
       "url": "https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5"
+    },
+    {
+      "added_at": "2024-12-02 16:32:42",
+      "album": {
+        "name": "blink-182",
+        "url": "https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 227250,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl"
     },
     {
       "added_at": "2024-12-02 16:32:42",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-12-02 16:32:42",
       "album": {
-        "name": "Break the Cycle",
-        "url": "https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE"
-      },
-      "artists": [
-        {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
-        }
-      ],
-      "duration_ms": 293133,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/5D6rk7Zr7FRy5m2fDte5fp"
-    },
-    {
-      "added_at": "2024-12-02 16:32:42",
-      "album": {
         "name": "amo",
         "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 271186,
       "name": "in the dark",
       "url": "https://open.spotify.com/track/4swVflM7KtMxzfHBWqPv9S"
+    },
+    {
+      "added_at": "2024-12-02 16:32:42",
+      "album": {
+        "name": "Break the Cycle",
+        "url": "https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "duration_ms": 293133,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/5D6rk7Zr7FRy5m2fDte5fp"
     },
     {
       "added_at": "2024-12-02 16:32:42",
@@ -747,18 +747,18 @@
     {
       "added_at": "2024-12-02 16:32:42",
       "album": {
-        "name": "A Celebration Of Endings",
-        "url": "https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw"
+        "name": "Scream Above the Sounds (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3BiwYdv0OQRdCFB4OqUMiI"
       },
       "artists": [
         {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
         }
       ],
-      "duration_ms": 235946,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM"
+      "duration_ms": 317186,
+      "name": "All In One Night",
+      "url": "https://open.spotify.com/track/5JZdu2fK7qvJgg0DfVmJe5"
     },
     {
       "added_at": "2024-12-02 16:32:42",
@@ -779,18 +779,18 @@
     {
       "added_at": "2024-12-02 16:32:42",
       "album": {
-        "name": "Scream Above the Sounds (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3BiwYdv0OQRdCFB4OqUMiI"
+        "name": "A Celebration Of Endings",
+        "url": "https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw"
       },
       "artists": [
         {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
         }
       ],
-      "duration_ms": 317186,
-      "name": "All In One Night",
-      "url": "https://open.spotify.com/track/5JZdu2fK7qvJgg0DfVmJe5"
+      "duration_ms": 235946,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM"
     },
     {
       "added_at": "2024-12-02 16:32:42",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-12-02 16:32:42",
       "album": {
-        "name": "Echoes, Silence, Patience & Grace",
-        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 293453,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2fDVMNQmFuMORDD3dP7GkN"
-    },
-    {
-      "added_at": "2024-12-02 16:32:42",
-      "album": {
         "name": "Carry On",
         "url": "https://open.spotify.com/album/125bv7EBFzsaqeW2LzY6QP"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 281373,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/3t4p9vIhemAhCMr6hfL2pa"
+    },
+    {
+      "added_at": "2024-12-02 16:32:42",
+      "album": {
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 293453,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2fDVMNQmFuMORDD3dP7GkN"
     },
     {
       "added_at": "2024-12-02 16:32:42",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-12-02 16:32:42",
       "album": {
-        "name": "Hypersonic Missiles",
-        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 236653,
-      "name": "Two People",
-      "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
-    },
-    {
-      "added_at": "2024-12-02 16:32:42",
-      "album": {
         "name": "Morning View",
         "url": "https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 258306,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/53qf90GmWQ70MH7LNzJHZb"
+    },
+    {
+      "added_at": "2024-12-02 16:32:42",
+      "album": {
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 236653,
+      "name": "Two People",
+      "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
     },
     {
       "added_at": "2024-12-02 16:32:42",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-12-02 16:32:42",
       "album": {
-        "name": "A Symptom Of Being Human (Live)",
-        "url": "https://open.spotify.com/album/68MJEv5noaG9yRUhIg5zKn"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 248454,
-      "name": "A Symptom Of Being Human",
-      "url": "https://open.spotify.com/track/3ZswWTKkEz0kj1rA0uRIi1"
-    },
-    {
-      "added_at": "2024-12-02 16:32:42",
-      "album": {
         "name": "Let The Bad Times Roll (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 196146,
       "name": "Gone Away - 2021",
       "url": "https://open.spotify.com/track/01mRJG8JVQnzGpVnGhNQKC"
+    },
+    {
+      "added_at": "2024-12-02 16:32:42",
+      "album": {
+        "name": "A Symptom Of Being Human (Live)",
+        "url": "https://open.spotify.com/album/68MJEv5noaG9yRUhIg5zKn"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 248454,
+      "name": "A Symptom Of Being Human",
+      "url": "https://open.spotify.com/track/3ZswWTKkEz0kj1rA0uRIi1"
     },
     {
       "added_at": "2024-12-02 16:32:42",
@@ -1179,8 +1179,8 @@
     {
       "added_at": "2024-12-02 16:32:42",
       "album": {
-        "name": "A Thousand Suns (Bonus Edition)",
-        "url": "https://open.spotify.com/album/4fy0SXW5G8evBCo2A3kn02"
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/7pgs38iLfEqUtwgCRgvbND"
       },
       "artists": [
         {
@@ -1188,9 +1188,9 @@
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 181893,
-      "name": "The Messenger",
-      "url": "https://open.spotify.com/track/0ee40G4B8b2qjY0mWWc6ss"
+      "duration_ms": 383506,
+      "name": "The Little Things Give You Away",
+      "url": "https://open.spotify.com/track/6zCaXHIV60YIuDe9qJ9MOo"
     },
     {
       "added_at": "2024-12-02 16:32:42",
@@ -1209,22 +1209,6 @@
       "url": "https://open.spotify.com/track/2jKnUcyrCADkeSy6gcN1qa"
     },
     {
-      "added_at": "2025-02-06 20:57:40",
-      "album": {
-        "name": "Time Waited",
-        "url": "https://open.spotify.com/album/7KAQ5nrJbMGqLtfCVWH1dF"
-      },
-      "artists": [
-        {
-          "name": "My Morning Jacket",
-          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
-        }
-      ],
-      "duration_ms": 219400,
-      "name": "Time Waited",
-      "url": "https://open.spotify.com/track/3YvHeJwoLvl06hHDKHRVDR"
-    },
-    {
       "added_at": "2024-12-02 16:32:42",
       "album": {
         "name": "Screaming Bloody Murder",
@@ -1239,6 +1223,22 @@
       "duration_ms": 199920,
       "name": "Crash",
       "url": "https://open.spotify.com/track/20x1lxz8foqlzvMct4cPYT"
+    },
+    {
+      "added_at": "2025-02-06 20:57:40",
+      "album": {
+        "name": "Time Waited",
+        "url": "https://open.spotify.com/album/7KAQ5nrJbMGqLtfCVWH1dF"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "duration_ms": 219400,
+      "name": "Time Waited",
+      "url": "https://open.spotify.com/track/3YvHeJwoLvl06hHDKHRVDR"
     },
     {
       "added_at": "2024-12-02 16:32:42",

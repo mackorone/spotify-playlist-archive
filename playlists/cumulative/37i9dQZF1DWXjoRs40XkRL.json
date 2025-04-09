@@ -3449,6 +3449,36 @@
     },
     {
       "album": {
+        "name": "Koyal",
+        "url": "https://open.spotify.com/album/6ADOm1jO7iLSc7amxdv5Vw"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "name": "digV",
+          "url": "https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK"
+        },
+        {
+          "name": "Ravator",
+          "url": "https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs"
+        },
+        {
+          "name": "Vidhya Gopal",
+          "url": "https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208721,
+      "name": "Koyal",
+      "url": "https://open.spotify.com/track/0D45HQbt7taPiyDv6ISCul"
+    },
+    {
+      "album": {
         "name": "Koyeliya Kook Sunave",
         "url": "https://open.spotify.com/album/37skkokcDhxPvqWodKGJlg"
       },
@@ -5616,7 +5646,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 1309387,
       "name": "Raag Mishra Shirvranjani Taal Deepchandi",
       "url": "https://open.spotify.com/track/21CxzCrRgjPe5nFFe3ks9j"

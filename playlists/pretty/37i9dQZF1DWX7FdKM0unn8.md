@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 
 > 70\-80년대를 수 놓았던 노래들을 즐겨보세요! \(Listen Korea's classic & old songs from 70's to 80's.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,498 likes - 105 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,503 likes - 105 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 | 66 | [한잔의 추억 \(with 조영남\)](https://open.spotify.com/track/0gBAIBaZ481BdNMRqWNbOT) | [이장희](https://open.spotify.com/artist/6RaOgJ216eUZZOVaoEXoCi), [조영남](https://open.spotify.com/artist/1qCPEEpdoqQCuOm4NU61CH) | [무교동 포크음악의 전설 7080 쎄시봉](https://open.spotify.com/album/64XP78CpgnY62Rxpayt6ks) | 3:17 |
 | 67 | [동행](https://open.spotify.com/track/1pCEfpDzK7SRppaPTJUxMB) | [Choi Sung\-Soo](https://open.spotify.com/artist/6z9myYOnV4TlVRyIhpaesB) | [2집 동행, 해후](https://open.spotify.com/album/1yZGg2eVMagSzx3VkuI3wO) | 3:48 |
 | 68 | [작은 새](https://open.spotify.com/track/4ZoEpOqq9HvF4UKL2bQek4) | [어니언스](https://open.spotify.com/artist/59zx3YgjQtVTDsECGUROAE) | [편지 / 작은새](https://open.spotify.com/album/6ET5IZtxn1DIb5KkjLl6Af) | 4:09 |
-| 69 | [첫눈이 온다구요](https://open.spotify.com/track/2OJ5ZYqYkArQJFYIHtnWqs) | [이정석](https://open.spotify.com/artist/32R8sZMuoan0Uf19J0mVOS) | [대학가요제 Golden Best](https://open.spotify.com/album/2ivChL943d97iLJ5Vk5va0) | 3:54 |
+| 69 | [첫눈이 온다구요](https://open.spotify.com/track/2OJ5ZYqYkArQJFYIHtnWqs) | [Lee Jung Seok](https://open.spotify.com/artist/0HBHIB6FSrvY28ZLo02ARP) | [대학가요제 Golden Best](https://open.spotify.com/album/2ivChL943d97iLJ5Vk5va0) | 3:54 |
 | 70 | [잃어버린우산](https://open.spotify.com/track/0jGXPpcwHKUJwlOQUPeFo1) | [우순실](https://open.spotify.com/artist/2bG8eYCtAp4JdN52bD3adx) | [잊혀지지 않아요/커텐을 젖히면](https://open.spotify.com/album/5FW0q40q0EO9o2wiPNgbC3) | 4:00 |
 | 71 | [나 그대에게 모두 드리리](https://open.spotify.com/track/0uOrzH6emqx9JPW7PQmdHn) | [이장희](https://open.spotify.com/artist/6RaOgJ216eUZZOVaoEXoCi) | [무교동 포크음악의 전설 7080 쎄시봉](https://open.spotify.com/album/64XP78CpgnY62Rxpayt6ks) | 3:41 |
 | 72 | [한번쯤](https://open.spotify.com/track/6SaL6N0segkkLKpMStDRkw) | [Song Chang Sik](https://open.spotify.com/artist/6uKCrM3dtEuH1azKTcuLdy) | [무교동 포크음악의 전설 7080 쎄시봉](https://open.spotify.com/album/64XP78CpgnY62Rxpayt6ks) | 2:46 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 | 87 | [내마음의 보석상자](https://open.spotify.com/track/5nSBcnvB8fbgu0xJLPYdkl) | [해바라기](https://open.spotify.com/artist/1d0JcDAe4qjqpNzPJuf9uB) | [사랑은 언제나 그자리에](https://open.spotify.com/album/78lqaBjh6s38tBSwghSuon) | 4:05 |
 | 88 | [Let's Meet in the Sad Season](https://open.spotify.com/track/5anOeudFztkcy0XnV1VptC) | [백영규](https://open.spotify.com/artist/6d4AeVitN7PmGjpw9RyYqm) | [Golden Best](https://open.spotify.com/album/4qYudcauy6OergWMZN7rL0) | 3:58 |
 | 89 | [사랑의 미로](https://open.spotify.com/track/3u1C6nWVRoP5F0w8gGrDL3) | [Choi JinHee](https://open.spotify.com/artist/49DGPmqxHN3yg2s2Mt8hdL) | [최진희 골든 Vol.15](https://open.spotify.com/album/4svmSx1y3BAwotoMJGHQue) | 3:42 |
-| 90 | [꿈의 대화](https://open.spotify.com/track/1oHP3Z1Rb7JUbcZyg0FTSz) | [이범용](https://open.spotify.com/artist/00Ej9IBAAdWLGEjApDsHWI), [한명훈](https://open.spotify.com/artist/2DiwlZotoyv4Bj4uFNfXde) | [대학가요제 Golden Best](https://open.spotify.com/album/2ivChL943d97iLJ5Vk5va0) | 4:00 |
+| 90 | [꿈의 대화](https://open.spotify.com/track/1oHP3Z1Rb7JUbcZyg0FTSz) | [Lee Beom\-yong](https://open.spotify.com/artist/2jPxNQoTas0PETwJPWeZvN), [Han Myeong\-hoon](https://open.spotify.com/artist/1z9Ka6QiDc8Nb8oVXy0PKS) | [대학가요제 Golden Best](https://open.spotify.com/album/2ivChL943d97iLJ5Vk5va0) | 4:00 |
 | 91 | [카페에서](https://open.spotify.com/track/3cSpvBYVWzZTYpVP3WNu3y) | [Choi JinHee](https://open.spotify.com/artist/49DGPmqxHN3yg2s2Mt8hdL) | [최진희 골든 Vol.15](https://open.spotify.com/album/4svmSx1y3BAwotoMJGHQue) | 2:47 |
 | 92 | [사랑의 썰물](https://open.spotify.com/track/6K1zMggwnvMwK95uGt1ACY) | [임지훈](https://open.spotify.com/artist/2rs2jfteusTR1LJOpNU3Fo) | [사랑의 썰물 \(임지훈 1집\)](https://open.spotify.com/album/6fR9bp3RXBu8hQe82Ssdx2) | 3:52 |
 | 93 | [그날](https://open.spotify.com/track/1X78vrLCZYpCp4uRnLoBjO) | [Kim Yeon Sook](https://open.spotify.com/artist/4IwG7svgNRZcWZEz9uHrno) | [오리지날 가요 베스트 Vol.1](https://open.spotify.com/album/5h7OD39zBpsNB5Ob2JSJyD) | 4:08 |

@@ -4,7 +4,7 @@
 
 > Ανακάλυψε κομμάτια Ελληνίδων ερμηνευτριών όπως τα επέλεξαν οι editors μας\. Εξώφυλλο: Evangelia
 
-789 songs - 1 day 19 hr 15 min
+790 songs - 1 day 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -618,7 +618,8 @@
 | [Savvatovrada](https://open.spotify.com/track/3xBhplDzLDMJxxmUrIJgjb) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU) | [Savvatovrada](https://open.spotify.com/album/3SELPNptUHterDArBg1EKt) | 3:03 | 2022-01-04 | 2022-06-01 |
 | [Se Eho Kanei Theo](https://open.spotify.com/track/0YyU1kBadEK0fTloBpR2WI) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU) | [Se Eho Kanei Theo](https://open.spotify.com/album/2Ig1YOlcuvg05GlVfL5m5V) | 2:02 | 2024-05-01 | 2024-07-03 |
 | [Se Kano Kefi](https://open.spotify.com/track/2SxlaMj4Ro3pBKxVqEwyhi) | [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Se Kano Kefi](https://open.spotify.com/album/1CJzCYSazFh3clPsI66fZa) | 2:53 | 2022-08-02 | 2023-02-01 |
-| [Se Latrevο](https://open.spotify.com/track/7xQFNeMtE9MqtmpfdbYUdm) | [Tina Alexopoulou](https://open.spotify.com/artist/2a6EAMtU6zdw2DOxGAKmJo) | [Se Latrevo](https://open.spotify.com/album/1x0eOKlCoVfmPcrsYCRrFC) | 3:30 | 2025-04-01 |  |
+| [Se Latrevo](https://open.spotify.com/track/43iE2pgbbvjVjgXkPpGSR0) | [Tina Alexopoulou](https://open.spotify.com/artist/2a6EAMtU6zdw2DOxGAKmJo) | [Se Latrevo](https://open.spotify.com/album/1491IViMWEl7PGyCzjEPBx) | 3:34 | 2025-04-08 |  |
+| [Se Latrevο](https://open.spotify.com/track/7xQFNeMtE9MqtmpfdbYUdm) | [Tina Alexopoulou](https://open.spotify.com/artist/2a6EAMtU6zdw2DOxGAKmJo) | [Se Latrevo](https://open.spotify.com/album/1x0eOKlCoVfmPcrsYCRrFC) | 3:30 | 2025-04-01 | 2025-04-09 |
 | [Se Perimeno](https://open.spotify.com/track/2lkx0EFvuKKl4cinCM92nf) | [Maria Papageorgiou](https://open.spotify.com/artist/3WQuwa7Flok3CNsMTia7oK), [Ypogeia Revmata](https://open.spotify.com/artist/4xbr3XX253Pyc7UiPCWEGh) | [Se Perimeno](https://open.spotify.com/album/7vDZtfNRkymltuKJHmbUku) | 2:48 | 2024-05-01 | 2025-01-08 |
 | [Se Periptosi Pou](https://open.spotify.com/track/4iJkeikfkJ7EzkR2xUu0m4) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Se Periptosi Pou](https://open.spotify.com/album/5aPSVgtTRWQd7DJNS746Dn) | 3:58 | 2024-12-04 | 2025-03-05 |
 | [Se Pira Sovara](https://open.spotify.com/track/728qx78UuEMdvq3UD25Ztc) | [Eleftheria Eleftheriou](https://open.spotify.com/artist/1xN3Gghqr2BsjaAG37EVM4) | [Se Pira Sovara](https://open.spotify.com/album/0fGA5louQ8pB1nnxUS5zyA) | 3:22 | 2024-04-02 | 2024-06-05 |

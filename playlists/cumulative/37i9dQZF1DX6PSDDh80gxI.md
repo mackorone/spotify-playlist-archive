@@ -4,7 +4,7 @@
 
 > È tornato Coez ed è su Indie Italia 🥹 \(che ha una nuova grafica 👀\)
 
-247 songs - 12 hr 59 min
+248 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,10 +59,11 @@
 | [Cosa Faremo Da Grandi?](https://open.spotify.com/track/1fi6WJYdiFQ7gEtAtJ8NH6) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Cosa Faremo Da Grandi?](https://open.spotify.com/album/0lVUjh0JQVfpUlengR8PwQ) | 3:00 | 2025-02-20 | 2025-03-21 |
 | [Cu'mme](https://open.spotify.com/track/7o4YxPFeOBZHTncM1HgvPx) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw), [Damiank](https://open.spotify.com/artist/0HK1JtedHdz3a76ZpWaEsc) | [Cu'mme](https://open.spotify.com/album/25FWNzlqZOdjS78c1ewthP) | 2:42 | 2024-07-25 | 2024-08-16 |
 | [Cuori infranti](https://open.spotify.com/track/0D0ZSyiqzZcuvbXqMi76fg) | [Giorgieness](https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA) | [Cuori infranti](https://open.spotify.com/album/03CBDXT35cavl0TY2evqBl) | 2:47 | 2024-09-13 | 2024-10-02 |
-| [CUORICINI](https://open.spotify.com/track/0A9FAzeaUEMHB68FPk3GYc) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [CUORICINI](https://open.spotify.com/album/5iab7EULiYrp2rgp5PsdzK) | 3:14 | 2025-02-12 |  |
+| [CUORICINI](https://open.spotify.com/track/0A9FAzeaUEMHB68FPk3GYc) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [CUORICINI](https://open.spotify.com/album/5iab7EULiYrp2rgp5PsdzK) | 3:14 | 2025-02-12 | 2025-04-09 |
 | [cupido](https://open.spotify.com/track/2rxv2y7ojb4HmXrno8KWp3) | [GINEVRA](https://open.spotify.com/artist/7tzZSvedYboTHuyJgkaG0U) | [cupido](https://open.spotify.com/album/2GhSl6PaFKVTe0YBibFfds) | 3:09 | 2024-12-12 | 2025-01-24 |
 | [Cupido](https://open.spotify.com/track/4OFqJ6OnEYXNNcFZl2fOPJ) | [Legno](https://open.spotify.com/artist/0IMy1yZn21uzYi7nHVVAzy) | [Cupido](https://open.spotify.com/album/4Tr7myKPPvoxijKwuDjLdi) | 2:47 | 2024-06-27 | 2024-10-18 |
 | [Decostruire](https://open.spotify.com/track/6WoR1LIrwT7fhah2JVYtEK) | [Anna Castiglia](https://open.spotify.com/artist/3BSckhNAabodVgd9NkHyJV) | [Decostruire](https://open.spotify.com/album/4ZHVYWm8nQKkqAkNcBTdKB) | 2:49 | 2025-02-27 |  |
+| [Distratta](https://open.spotify.com/track/37dylnfUvikMtKmgbbjtss) | [Any Other](https://open.spotify.com/artist/5RECxqPUWytzhwKabZ1lWx) | [Distratta](https://open.spotify.com/album/0E0i11rmqpis0BD5qYCWpC) | 5:05 | 2025-04-08 |  |
 | [Divisi \(feat\. Franco126\)](https://open.spotify.com/track/1UA2pTCJHhO9mW0aC7MfBX) | [Asp126](https://open.spotify.com/artist/7eNMxs7VUuMBoGNipu7z5G), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc) | [Divisi \(feat\. Franco126\)](https://open.spotify.com/album/6WDXDNXgxoc6rbW3dMduU1) | 2:58 | 2024-09-19 | 2024-10-04 |
 | [Dolceamara malinconia](https://open.spotify.com/track/6j58CYPJ5mD58tNftnsA0O) | [Peter White](https://open.spotify.com/artist/3YygU1SuVx6bJVRrlE0WUL) | [Aperitivo](https://open.spotify.com/album/5FG4uvGYqzCdh5LCpxkYfp) | 2:32 | 2024-12-05 | 2025-04-04 |
 | [Domani \(feat\. Nashley\)](https://open.spotify.com/track/2m2XT5ZaWwfNg6Rk0a278j) | [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh), [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Domani \(feat\. Nashley\)](https://open.spotify.com/album/5ExwoHtva59kw3nIzFcrnn) | 2:57 | 2024-07-11 | 2024-08-16 |

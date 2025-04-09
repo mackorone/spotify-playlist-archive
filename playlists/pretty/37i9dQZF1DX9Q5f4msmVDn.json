@@ -207,22 +207,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Playboi Carti",
-        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 184964,
-      "name": "dothatshit!",
-      "url": "https://open.spotify.com/track/1KzNsOkpQthVwpCJrADJEQ"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Victory Lap",
         "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 361280,
       "name": "Double Up (feat. Belly and Dom Kennedy)",
       "url": "https://open.spotify.com/track/4iVD0fTHGxV9JWloujsL3s"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Playboi Carti",
+        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 184964,
+      "name": "dothatshit!",
+      "url": "https://open.spotify.com/track/1KzNsOkpQthVwpCJrADJEQ"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Action Speaks Louder Than Words",
-        "url": "https://open.spotify.com/album/2rcNrTFw6XnV95kVwmbyjc"
-      },
-      "artists": [
-        {
-          "name": "Chocolate Milk",
-          "url": "https://open.spotify.com/artist/3R2oR0SQba16AZZaoG94xe"
-        }
-      ],
-      "duration_ms": 211186,
-      "name": "Action Speaks Louder Than Words",
-      "url": "https://open.spotify.com/track/2vMMyG4iw5OppGOh23kXIe"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Beyond Bulletproof",
         "url": "https://open.spotify.com/album/3Ud5r7QHfMF1UhH8a5M1cH"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 155968,
       "name": "Boyz To Men",
       "url": "https://open.spotify.com/track/4SCZOft290qQSfl4MLUMId"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Action Speaks Louder Than Words",
+        "url": "https://open.spotify.com/album/2rcNrTFw6XnV95kVwmbyjc"
+      },
+      "artists": [
+        {
+          "name": "Chocolate Milk",
+          "url": "https://open.spotify.com/artist/3R2oR0SQba16AZZaoG94xe"
+        }
+      ],
+      "duration_ms": 211186,
+      "name": "Action Speaks Louder Than Words",
+      "url": "https://open.spotify.com/track/2vMMyG4iw5OppGOh23kXIe"
     }
   ],
   "unique_name": "Archie Davis' Taste",

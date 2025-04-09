@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "11.04.2025",
+        "url": "https://open.spotify.com/album/2C4WqHFA79pqQ8oG8FObTM"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113868,
+      "name": "11.04.2025",
+      "url": "https://open.spotify.com/track/0Cg7O2u7TTWe3dLpcYfGxW"
+    },
+    {
+      "album": {
         "name": "Rookie",
         "url": "https://open.spotify.com/album/2uBDE2RlFbAZwxDICMtE2O"
       },
@@ -6182,7 +6200,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 171226,
       "name": "Boucan",
       "url": "https://open.spotify.com/track/7zPIPJKmtJxK6CpVOntCxL"
@@ -7034,7 +7052,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-07",
+      "date_removed": null,
       "duration_ms": 120894,
       "name": "C'EST RELOU",
       "url": "https://open.spotify.com/track/7y2QZ1hwexDmq8LCOMut3G"
@@ -22127,6 +22145,32 @@
     },
     {
       "album": {
+        "name": "La piraterie",
+        "url": "https://open.spotify.com/album/1AEqrjs8dvbBH8mmE7U9Zy"
+      },
+      "artists": [
+        {
+          "name": "K-Rosif",
+          "url": "https://open.spotify.com/artist/5gFPNO9iQl6MI5vUawFGcV"
+        },
+        {
+          "name": "BIGDA",
+          "url": "https://open.spotify.com/artist/7zVRNjTpd96uUDsDbRr879"
+        },
+        {
+          "name": "Loeil",
+          "url": "https://open.spotify.com/artist/4AOjG0hai0eDiUdy1TEuaN"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170135,
+      "name": "La piraterie",
+      "url": "https://open.spotify.com/track/6sJncGrdz5lcomB5D2Te9C"
+    },
+    {
+      "album": {
         "name": "R\u00e9elle vie 3.0",
         "url": "https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw"
       },
@@ -22161,7 +22205,7 @@
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 236415,
+      "duration_ms": 235666,
       "name": "La Pluie",
       "url": "https://open.spotify.com/track/2PcRPX3wHqfNYCo7gmD4Zp"
     },
@@ -22502,7 +22546,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 193443,
       "name": "La vie qu'on m\u00e8ne",
       "url": "https://open.spotify.com/track/0Jh6iWjna1wk5le0Ahn7No"
@@ -28108,7 +28152,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 141320,
       "name": "Monaco",
       "url": "https://open.spotify.com/track/2iEXkEB32esmNExcEyKjKc"
@@ -30774,7 +30818,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-07",
+      "date_removed": null,
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -33698,7 +33742,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 184800,
       "name": "Putana",
       "url": "https://open.spotify.com/track/5oePa8PlOTPAlRaGs2OZ3A"
@@ -37016,10 +37060,32 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 147692,
       "name": "Shamballa",
       "url": "https://open.spotify.com/track/00iG5sAUI0DGedMuGvyKo1"
+    },
+    {
+      "album": {
+        "name": "Shamballa",
+        "url": "https://open.spotify.com/album/5rKOmNx7sXSmXfjI2QKGjg"
+      },
+      "artists": [
+        {
+          "name": "Anyme023",
+          "url": "https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P"
+        },
+        {
+          "name": "Shaydee's",
+          "url": "https://open.spotify.com/artist/7pRuKj6sGMBmDmmem653fg"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Shamballa",
+      "url": "https://open.spotify.com/track/6hl9Tc95QrqDk4Q3uWLHls"
     },
     {
       "album": {
@@ -40090,7 +40156,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-08",
+      "date_removed": null,
       "duration_ms": 166300,
       "name": "That\u2019s So True",
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
@@ -41996,7 +42062,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 212373,
       "name": "Tu la love",
       "url": "https://open.spotify.com/track/5I2FIj9EDp0Fz32CJ9lZNF"

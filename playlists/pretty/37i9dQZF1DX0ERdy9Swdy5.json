@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la d\u00e9cada. En portada: Joe Arroyo",
-  "num_followers": 762307,
+  "num_followers": 762409,
   "original_name": "Salsa: Los 90s",
   "owner": {
     "name": "Spotify",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Otra Nota",
-        "url": "https://open.spotify.com/album/4NiUxGgt2iSsbRa6Nf2ocq"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 293266,
-      "name": "Necesito Amarte",
-      "url": "https://open.spotify.com/track/6k7mfR2JMnfyLb2t3mcTJo"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 296720,
       "name": "Juliana",
       "url": "https://open.spotify.com/track/1Lm4aFolaeESmsGSzgpCuK"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Otra Nota",
+        "url": "https://open.spotify.com/album/4NiUxGgt2iSsbRa6Nf2ocq"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 293266,
+      "name": "Necesito Amarte",
+      "url": "https://open.spotify.com/track/6k7mfR2JMnfyLb2t3mcTJo"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Sus Exitos",
-        "url": "https://open.spotify.com/album/34dZAoWWPEVQVbJBtZil6E"
-      },
-      "artists": [
-        {
-          "name": "Orlando Collado",
-          "url": "https://open.spotify.com/artist/1d8qTTb4e1ZR1EuKzlhIeh"
-        }
-      ],
-      "duration_ms": 304280,
-      "name": "Llorando",
-      "url": "https://open.spotify.com/track/3xt4LD7CTYxTA5kJSnGeI4"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz"
       },
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
+        "name": "Sus Exitos",
+        "url": "https://open.spotify.com/album/34dZAoWWPEVQVbJBtZil6E"
+      },
+      "artists": [
+        {
+          "name": "Orlando Collado",
+          "url": "https://open.spotify.com/artist/1d8qTTb4e1ZR1EuKzlhIeh"
+        }
+      ],
+      "duration_ms": 304280,
+      "name": "Llorando",
+      "url": "https://open.spotify.com/track/3xt4LD7CTYxTA5kJSnGeI4"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/0nU31Hhb13gaveZXXw1wkj"
       },
@@ -1227,22 +1227,6 @@
       "duration_ms": 372133,
       "name": "Eres La Unica",
       "url": "https://open.spotify.com/track/07YmP86ySInF4VLZnAOESp"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
-        "name": "Ciclos",
-        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "Yo No S\u00e9 Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Grandes Exitos de Salsa",
-        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
+        "name": "Ciclos",
+        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
       },
       "artists": [
         {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
         }
       ],
-      "duration_ms": 262053,
-      "name": "Zodiaco",
-      "url": "https://open.spotify.com/track/1RomkFIk4vXjvmjJaoOGc2"
+      "duration_ms": 259853,
+      "name": "Yo No S\u00e9 Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1311,6 +1295,22 @@
       "duration_ms": 293240,
       "name": "Remolino",
       "url": "https://open.spotify.com/track/00bGrgNvhYh3zt5PC0co3K"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Grandes Exitos de Salsa",
+        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        }
+      ],
+      "duration_ms": 262053,
+      "name": "Zodiaco",
+      "url": "https://open.spotify.com/track/1RomkFIk4vXjvmjJaoOGc2"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
+        "name": "Salsa de Amor Vol. 3",
+        "url": "https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ"
+      },
+      "artists": [
+        {
+          "name": "Willie Rosario",
+          "url": "https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 258133,
+      "name": "El Apartamento",
+      "url": "https://open.spotify.com/track/6ilUvSefuUnXgEqxj7SD5Z"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
         "name": "20th Anniversary",
         "url": "https://open.spotify.com/album/6T8WrnfmEISgQiDThcNGwW"
       },
@@ -1375,6 +1395,22 @@
       "duration_ms": 286626,
       "name": "Date un Chance",
       "url": "https://open.spotify.com/track/0mW2TeZmav4gTBzsMcy811"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/2tG9CZgoAY04Rr1iR5OstZ"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 305093,
+      "name": "Aparentemente",
+      "url": "https://open.spotify.com/track/4SipDsIDlvpv37P41D7Ec3"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1415,26 +1451,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Salsa de Amor Vol. 3",
-        "url": "https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ"
-      },
-      "artists": [
-        {
-          "name": "Willie Rosario",
-          "url": "https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J"
-        },
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 258133,
-      "name": "El Apartamento",
-      "url": "https://open.spotify.com/track/6ilUvSefuUnXgEqxj7SD5Z"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "Esencia",
         "url": "https://open.spotify.com/album/7elaoChLnXM4QN2O6pT47w"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 293066,
       "name": "Yo No Te Pido",
       "url": "https://open.spotify.com/track/6fmiVPcmN2tBw5gi2gBY5o"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/2tG9CZgoAY04Rr1iR5OstZ"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 305093,
-      "name": "Aparentemente",
-      "url": "https://open.spotify.com/track/4SipDsIDlvpv37P41D7Ec3"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1515,38 +1515,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Nacimiento Y Recuerdos",
-        "url": "https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 259360,
-      "name": "Vuelvo A Nacer",
-      "url": "https://open.spotify.com/track/2TBq7TNK5LaNcwUNAhP90E"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
-        "name": "Con Amor Se Gana",
-        "url": "https://open.spotify.com/album/3MaqSrmpWmDkg3kFo7nhbV"
-      },
-      "artists": [
-        {
-          "name": "Frankie Negr\u00f3n",
-          "url": "https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16"
-        }
-      ],
-      "duration_ms": 257933,
-      "name": "Hoy Me He Vuelto a Enamorar",
-      "url": "https://open.spotify.com/track/49TAVpzyEtdSQBYH71Uhed"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "Greatest Hits (Serie Cristal)",
         "url": "https://open.spotify.com/album/2zWUGZTsdpLSDIQDasNUv6"
       },
@@ -1575,6 +1543,38 @@
       "duration_ms": 306373,
       "name": "Penas Penas",
       "url": "https://open.spotify.com/track/1rBFZSviyShjZuF27YDsbn"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Nacimiento Y Recuerdos",
+        "url": "https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 259360,
+      "name": "Vuelvo A Nacer",
+      "url": "https://open.spotify.com/track/2TBq7TNK5LaNcwUNAhP90E"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Con Amor Se Gana",
+        "url": "https://open.spotify.com/album/3MaqSrmpWmDkg3kFo7nhbV"
+      },
+      "artists": [
+        {
+          "name": "Frankie Negr\u00f3n",
+          "url": "https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16"
+        }
+      ],
+      "duration_ms": 257933,
+      "name": "Hoy Me He Vuelto a Enamorar",
+      "url": "https://open.spotify.com/track/49TAVpzyEtdSQBYH71Uhed"
     },
     {
       "added_at": "2024-07-12 19:20:44",

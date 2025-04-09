@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9UKb6auC53b.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9UKb6auC53b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9UKb6auC53b)
 
-### [DAN DA DAN ダンダダン](https://open.spotify.com/playlist/37i9dQZF1DX9UKb6auC53b)
+### [DAN DA DAN](https://open.spotify.com/playlist/37i9dQZF1DX9UKb6auC53b)
 
-> Music from "DAN DA DAN"! /アニメ「ダンダダン」の世界を彩る楽曲をプレイリストで。©龍幸伸／集英社・ダンダダン製作委員会
+> Music from "DAN DA DAN"! ©龍幸伸／集英社・ダンダダン製作委員会
 
 35 songs - 1 hr 23 min
 

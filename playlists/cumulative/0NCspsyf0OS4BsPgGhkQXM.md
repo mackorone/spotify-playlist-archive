@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,114 songs - 2 day 9 hr 24 min
+1,115 songs - 2 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [Feel It Too](https://open.spotify.com/track/4ipYaPxGlktCG1zQzJK1cn) | [CHPTR.](https://open.spotify.com/artist/15ha0mOZUeMNOMJuL9ea3e), [Melissa Lamm](https://open.spotify.com/artist/334LO02AucGEYUBb4Rhx4K) | [Feel It Too](https://open.spotify.com/album/2jX8dydPGLPgXE6XvAvWfI) | 3:44 | 2023-10-13 | 2023-10-28 |
 | [Feel Like That](https://open.spotify.com/track/3CIR15wMACnDSj4okplkKm) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Idarose](https://open.spotify.com/artist/1KtWTt471icGsQwTn6z9ls) | [Overstimulated](https://open.spotify.com/album/2HNrUJc3c1HBRN4W0zZrQ3) | 2:57 | 2022-01-14 | 2022-02-05 |
 | [Feel the Fire \- MEMBA Remix](https://open.spotify.com/track/1PzNqhDtJYHVBMOI9Xmx2c) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [pronouncedyea](https://open.spotify.com/artist/1gydLLHpbmraVz1LVZCW83), [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [Feel the Fire \(Remixes\)](https://open.spotify.com/album/50qxOX19dlnR6SgmJom01Y) | 2:46 | 2022-11-22 |  |
+| [FESTA DA SEMANA](https://open.spotify.com/track/2ENiS5npzqhYTclLP3uFT0) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4) | [FESTA DA SEMANA](https://open.spotify.com/album/211wplIytjX1CgmwnE4PKE) | 1:50 | 2025-04-08 |  |
 | [Fever](https://open.spotify.com/track/4pvWt924QkOKQmdpWLvVBg) | [Prince Of Wales](https://open.spotify.com/artist/36QwxgUBttVtRUvASUdr1i), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Moments](https://open.spotify.com/album/4xW1nrr4SvSdTksaU1UcZF) | 3:46 | 2023-08-11 | 2023-09-07 |
 | [Fight for It](https://open.spotify.com/track/4T0ogybMZD4TgI6XUcU4gR) | [Synchronice](https://open.spotify.com/artist/1pOmjpg4X03jcvS2R0FY53) | [Fight for It](https://open.spotify.com/album/6fvKeq1LJDFhU5RB0d1KGG) | 3:29 | 2022-01-14 | 2022-02-17 |
 | [FINAL BATTLE](https://open.spotify.com/track/4xVkOBJL2A5VyesteKDWwr) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [Rizó](https://open.spotify.com/artist/7hyFSqlT3o7RdXFnUtJ7C2), [NØCTRIS](https://open.spotify.com/artist/3uCuNmBGWFSBuXX8xstvoz) | [FINAL BATTLE](https://open.spotify.com/album/2ksIraEFB0gKashlTRrRi0) | 2:07 | 2023-04-21 | 2023-11-11 |

@@ -4,7 +4,7 @@
 
 > let the dj set u free ❤️‍🩹
 
-474 songs - 1 day 4 hr 31 min
+475 songs - 1 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -474,7 +474,8 @@
 | [win your love](https://open.spotify.com/track/3sw09qpH0FM5PRKcgJ358h) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [win your love](https://open.spotify.com/album/7rgMBpHoFHoyMFmoDmblst) | 3:35 | 2023-10-06 | 2024-08-17 |
 | [without u](https://open.spotify.com/track/2VHMxDk7cTzeZOIZozfTfi) | [LSR/CITY](https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2), [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Annabel](https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l) | [without u](https://open.spotify.com/album/69IL9BtvOJJpiLtQ30QCPf) | 3:20 | 2024-11-22 |  |
 | [Without You](https://open.spotify.com/track/4ynRYz5CzTeSqsOPZOKWEQ) | [OTTAGON](https://open.spotify.com/artist/49b9crFClEofQmf5078d31), [Adriana Stone](https://open.spotify.com/artist/5s8VWRoP7qFE4SVRaIdStT), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [Without You](https://open.spotify.com/album/0HyySC938YX2eHQTlnywYc) | 3:41 | 2025-03-21 |  |
-| [Without You](https://open.spotify.com/track/139NAM8Pozv6J7us3Gnr1y) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Without You](https://open.spotify.com/album/2aF7ZqZsOq3VchQimJRRHe) | 2:55 | 2024-12-06 |  |
+| [Without You](https://open.spotify.com/track/139NAM8Pozv6J7us3Gnr1y) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Without You](https://open.spotify.com/album/2aF7ZqZsOq3VchQimJRRHe) | 2:55 | 2024-12-06 | 2025-04-09 |
+| [Without You \- Dance Version](https://open.spotify.com/track/5F5RsRxq6mdUK6EiqU6vLe) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Without You \(Dance Version\)](https://open.spotify.com/album/18yIcXrbSzX8PZ17szSmp2) | 3:05 | 2025-04-04 |  |
 | [without youuuuuu](https://open.spotify.com/track/17roRXWz1PpKHSAfa9loSM) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [without youuuuuu](https://open.spotify.com/album/0azPkhbOmfVecSTCAzWC0w) | 1:55 | 2024-05-10 | 2024-08-10 |
 | [Yet](https://open.spotify.com/track/4K2d0N0nL1HI4y2fz7qdIS) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Yet](https://open.spotify.com/album/6aGHDGc3r4PTdLshNImYgy) | 3:26 | 2024-04-19 |  |
 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 | 2021-04-16 | 2024-03-30 |

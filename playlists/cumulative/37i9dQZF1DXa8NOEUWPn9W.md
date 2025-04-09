@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring Maesic & Marshall Jefferson
 
-1,130 songs - 2 day 17 hr 55 min
+1,131 songs - 2 day 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [Complicated \(with Fridayy\)](https://open.spotify.com/track/59AY7LaU5NR62aJNqtYSyJ) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Complicated \(with Fridayy\)](https://open.spotify.com/album/5Bp70oIMy6xDdm1GRjSxU3) | 4:30 | 2024-08-16 | 2024-12-14 |
 | [Conga Rock](https://open.spotify.com/track/28nynuyo2jMTzMyT146Bvu) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mat.Joe](https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ), [Toto Bona Lokua](https://open.spotify.com/artist/5y4XN2SJVH1eWbXhRS7lbK) | [Conga Rock](https://open.spotify.com/album/3rnrgH0bOWn4nQDF8EuKu5) | 4:30 | 2021-03-27\* | 2021-08-28 |
 | [Conspiracy](https://open.spotify.com/track/6onf7sfOexU1s9F8733kJy) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [Conspiracy](https://open.spotify.com/album/4DqTnfnTAxjnoAAG7aUscH) | 6:13 | 2021-03-27\* | 2021-05-03 |
-| [Control Yourself \- Radio Edit](https://open.spotify.com/track/49cvev2GTehnDkEGXYgcZ0) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Control Yourself EP](https://open.spotify.com/album/6tznRqtsPQgYo8YXYB5g19) | 3:35 | 2025-02-28 |  |
+| [Control Yourself \- Radio Edit](https://open.spotify.com/track/49cvev2GTehnDkEGXYgcZ0) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Control Yourself EP](https://open.spotify.com/album/6tznRqtsPQgYo8YXYB5g19) | 3:35 | 2025-02-28 | 2025-04-09 |
 | [Coolin](https://open.spotify.com/track/6ol2ZKZgFE7jV2rv6KsB11) | [HILLS](https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB) | [Coolin](https://open.spotify.com/album/67mdVbF5GykYcxqXhTHagp) | 2:35 | 2025-02-14 |  |
 | [CORAÇAO \- 20th Anniversary Mix](https://open.spotify.com/track/2KVAO2OAH6a9Tr2DqYL65g) | [Jerry Ropero](https://open.spotify.com/artist/73rKG9PlOR46yTmu2IqnSG), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Mijangos](https://open.spotify.com/artist/55Y97uxwaGhvalkzZbxyzf), [Jesús Fernández](https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum) | [CORAÇAO \(20th Anniversary Mix\)](https://open.spotify.com/album/76jQdtc4MNArbcZxWgZU3p) | 2:55 | 2024-08-23 |  |
 | [Cosmic Witch \(feat\. Anané\) \- Todd Terry Remix](https://open.spotify.com/track/7astMho5kK4qRN4uBywtWJ) | [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [Anane](https://open.spotify.com/artist/3cGghqrVTd3niWn9olcGYS), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Cosmic Witch \(feat\. Anané\) \[Todd Terry Remix\]](https://open.spotify.com/album/5dhJFz3gS57KjqKanFWlRV) | 6:17 | 2022-12-28 | 2023-01-06 |
@@ -425,6 +425,7 @@
 | [Gotta Let You Go](https://open.spotify.com/track/7Ikf5qsW8GxJq0ZfpZUHsX) | [Felix Leiter](https://open.spotify.com/artist/0NgdQNyMEbiVR0HBpzMptO), [Ango Tamarin](https://open.spotify.com/artist/7uSgmPTHeYgIu7Q5JwQpQy), [Dominica](https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh) | [Gotta Let You Go](https://open.spotify.com/album/6yCg2t2ZZ7LBjIHsR3DVND) | 2:47 | 2023-04-07 | 2023-08-05 |
 | [Green](https://open.spotify.com/track/2nVivsN3qpFbYUtvDNzi6v) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Green](https://open.spotify.com/album/00ACuCXVSKxpsG0BtIfD0g) | 4:05 | 2024-09-20 | 2024-10-05 |
 | [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 | 2022-12-28 | 2023-01-06 |
+| [Groove On](https://open.spotify.com/track/0iCRScqAaVd4VZlXpJLtHH) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX) | [Groove On](https://open.spotify.com/album/3gcuJIU2Tw2SrMkjCgzqWZ) | 3:29 | 2025-04-04 |  |
 | [Groove Society](https://open.spotify.com/track/2nFHaucEPE1dJp6A1AaBgV) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91) | [Groove Society](https://open.spotify.com/album/2Wo73jPoFsRo6LNldU3GnP) | 3:03 | 2021-08-28 | 2022-07-24 |
 | [Groove Thang](https://open.spotify.com/track/6pyjUNNPUAHqRkvD0ZEDFz) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Groove Thang](https://open.spotify.com/album/1PPPSHY19tixIaMCbDJihZ) | 3:40 | 2023-08-11 | 2024-05-03 |
 | [Guddi Riddim](https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Guddi Riddim](https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN) | 3:30 | 2023-01-06 | 2023-07-08 |

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Lola Indigo",
-  "num_followers": 1060168,
+  "num_followers": 1060163,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/O3gAAAAACAAvK1POvjzMUvGTqeLDa4",
+  "snapshot_id": "Z/TbnQAAAABaRLPx2rFCdRubMpmNGep5",
   "tracks": [
     {
       "added_at": "2025-04-07 11:31:12",
@@ -591,6 +591,22 @@
     {
       "added_at": "2025-04-07 11:31:12",
       "album": {
+        "name": "CLICKBAIT",
+        "url": "https://open.spotify.com/album/6E3B8nI1boK9d7aFHUohWP"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 160431,
+      "name": "CLICKBAIT",
+      "url": "https://open.spotify.com/track/6KxI6NASKcMLfX6Hgr2F7p"
+    },
+    {
+      "added_at": "2025-04-07 11:31:12",
+      "album": {
         "name": "SENTIMIENTO NATURAL",
         "url": "https://open.spotify.com/album/155BdaQ76Y4yxxfKgljH4E"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 181271,
       "name": "Mi Casa",
       "url": "https://open.spotify.com/track/2MmQp3JZbkGzf86Zxuot1p"
-    },
-    {
-      "added_at": "2025-04-07 11:31:12",
-      "album": {
-        "name": "CLICKBAIT",
-        "url": "https://open.spotify.com/album/6E3B8nI1boK9d7aFHUohWP"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 160431,
-      "name": "CLICKBAIT",
-      "url": "https://open.spotify.com/track/6KxI6NASKcMLfX6Hgr2F7p"
     },
     {
       "added_at": "2025-04-07 11:31:12",

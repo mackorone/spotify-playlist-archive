@@ -2567,6 +2567,28 @@
     },
     {
       "album": {
+        "name": "EQUIPPED",
+        "url": "https://open.spotify.com/album/3HHwEjokrMarNVt8RkozQE"
+      },
+      "artists": [
+        {
+          "name": "Ajitesh",
+          "url": "https://open.spotify.com/artist/2QflLKBdw8HuzSNVCuIFE3"
+        },
+        {
+          "name": "Addy Nagar",
+          "url": "https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198943,
+      "name": "EQUIPPED",
+      "url": "https://open.spotify.com/track/5HbtnotxApPj0jhxvZTlOF"
+    },
+    {
+      "album": {
         "name": "Expelled",
         "url": "https://open.spotify.com/album/5OKWtPFNxhuGaRjxZBeF3n"
       },
@@ -3888,7 +3910,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 150006,
       "name": "Jaat Devta",
       "url": "https://open.spotify.com/track/5uUJaoi31e48BSyqjRb2Zk"
@@ -5626,7 +5648,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 154100,
       "name": "Nakhrala Reloaded",
       "url": "https://open.spotify.com/track/3gmjxxXzNjtGK2NebRGZSI"
@@ -8224,6 +8246,28 @@
       "duration_ms": 139859,
       "name": "Waah Meri Jaan",
       "url": "https://open.spotify.com/track/55ysXJbDMFiNSHY9fX9LY7"
+    },
+    {
+      "album": {
+        "name": "WANT IT ALL",
+        "url": "https://open.spotify.com/album/0ZVXnVKH3pjOnl7uoEHHD3"
+      },
+      "artists": [
+        {
+          "name": "Tsumyoki",
+          "url": "https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X"
+        },
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168727,
+      "name": "WANT IT ALL",
+      "url": "https://open.spotify.com/track/1kdwHH4Vmv0u8ZrlWGEpG1"
     },
     {
       "album": {

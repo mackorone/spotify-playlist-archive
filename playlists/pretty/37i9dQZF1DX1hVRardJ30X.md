@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Hamilton & Nampa Básico, Eladio Carrion, De La Rose & Omar Courtz, Yuridia and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,023 likes - 54 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,036 likes - 54 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 15 | [CHERRY](https://open.spotify.com/track/4NiAD7L3ztGSxyS7muc2hf) | [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [CHERRY](https://open.spotify.com/album/6aCPwKRdjP9K5GMUcCCmds) | 3:24 |
 | 16 | [Querido Rey](https://open.spotify.com/track/5qGP6zgyavDjMuZ57YO9jS) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Querido Rey](https://open.spotify.com/album/6SRK19vCyNaT2p88vi6EeY) | 2:48 |
 | 17 | [Selfie](https://open.spotify.com/track/0oBnWqf8EmbZv9q4Bo5OEk) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Directo Al Corazón](https://open.spotify.com/album/2MjM2y9U7GXuJAEeiaQRRF) | 2:52 |
-| 18 | [2x1](https://open.spotify.com/track/6xXLOe3aR1iN1UFj9J1Iln) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg), [Valdi](https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK) | [LOS GALÁCTICOS](https://open.spotify.com/album/5jhX4ZQyGLJZG40Ifrzyma) | 3:15 |
+| 18 | [2x1](https://open.spotify.com/track/6xXLOe3aR1iN1UFj9J1Iln) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Valdi](https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [LOS GALÁCTICOS](https://open.spotify.com/album/5jhX4ZQyGLJZG40Ifrzyma) | 3:15 |
 | 19 | [INVENCIBLES](https://open.spotify.com/track/1wdBQEtQXfzMrzEKYbZ548) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [INVENCIBLES](https://open.spotify.com/album/2mNwGeWhgEIOe9ZN0gaBHa) | 2:49 |
 | 20 | [Un Error](https://open.spotify.com/track/0qd4hgHopdvPbE64jxn8Vp) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Un Error](https://open.spotify.com/album/3bam1fPM22B554Tj1KyCIm) | 3:12 |
 | 21 | [Un Millón de Primaveras \- En Vivo Desde La Plaza de Toros La México, 2024](https://open.spotify.com/track/3gLpE07HHc5pMToWnHnR4I) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Un Millón de Primaveras \(En Vivo Desde La Plaza de Toros La México, 2024\)](https://open.spotify.com/album/52n0QZM9FyHHUUr8fCfGD9) | 3:09 |

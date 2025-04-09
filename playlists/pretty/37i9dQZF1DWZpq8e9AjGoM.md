@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpq8e9AjGoM.md) - [plain]
 
 > The sound of spring.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,321 likes - 206 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,334 likes - 206 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,22 +17,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpq8e9AjGoM.md) - [plain]
 | 7 | [Root Flower](https://open.spotify.com/track/2zzO7vk8Z8SuguCHydFnkg) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Root Flower](https://open.spotify.com/album/488shae3ei66l5yQvTP0Fz) | 2:10 |
 | 8 | [Fiesso d’Artico](https://open.spotify.com/track/5GbvPWxgru1Pxx7vLuyZmO) | [Joviano Carrera](https://open.spotify.com/artist/7CP9gWsfC3ZmfDnGdspj93) | [Fiesso d’Artico](https://open.spotify.com/album/1v7IPSwcdq7wcIFDfcFJSs) | 2:39 |
 | 9 | [The Leaf](https://open.spotify.com/track/50w3ns6IRRfOChZbOMxC2W) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [The Leaf](https://open.spotify.com/album/098cZTzYQnnjgzghoLzX7R) | 2:43 |
-| 10 | [A place of peace](https://open.spotify.com/track/1BhXzIRZGi3qdKoFUFfFfs) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [A place of peace](https://open.spotify.com/album/6cgDCpcdalyujS9oZjK7f4) | 2:40 |
-| 11 | [Just As I Imagined](https://open.spotify.com/track/5oJJGbEDS8kWwr92m3GREr) | [Thiago Izan](https://open.spotify.com/artist/0Q0myhwEBVvGaX7xTOpAyt) | [Just As I Imagined](https://open.spotify.com/album/5HhNV0gvi5FILnL562n1Rv) | 2:17 |
-| 12 | [Ray](https://open.spotify.com/track/2DGFV4U3tPuoTq0vTRfYja) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Ray](https://open.spotify.com/album/47ce8yosa7ZuuLDpQfzGtp) | 2:10 |
-| 13 | [Window to Another Life](https://open.spotify.com/track/78tOr1AwBWFK9I6MyhS180) | [Fleur Bloom](https://open.spotify.com/artist/0jKbA25jr47ARj2fA7CEjR) | [Window to Another Life](https://open.spotify.com/album/485gyREge1p5jbfNpPn7OZ) | 2:24 |
-| 14 | [Eyes Closes](https://open.spotify.com/track/0c4x6XhKGWuXA0H7nScxRE) | [Melanié Poret](https://open.spotify.com/artist/1qP02f6jA0m3AZ8devpRNu) | [Eyes Closes](https://open.spotify.com/album/5Oy3n0YjvLO074yXZuNlfx) | 2:30 |
+| 10 | [Just As I Imagined](https://open.spotify.com/track/5oJJGbEDS8kWwr92m3GREr) | [Thiago Izan](https://open.spotify.com/artist/0Q0myhwEBVvGaX7xTOpAyt) | [Just As I Imagined](https://open.spotify.com/album/5HhNV0gvi5FILnL562n1Rv) | 2:17 |
+| 11 | [Ray](https://open.spotify.com/track/2DGFV4U3tPuoTq0vTRfYja) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Ray](https://open.spotify.com/album/47ce8yosa7ZuuLDpQfzGtp) | 2:10 |
+| 12 | [Window to Another Life](https://open.spotify.com/track/78tOr1AwBWFK9I6MyhS180) | [Fleur Bloom](https://open.spotify.com/artist/0jKbA25jr47ARj2fA7CEjR) | [Window to Another Life](https://open.spotify.com/album/485gyREge1p5jbfNpPn7OZ) | 2:24 |
+| 13 | [Eyes Closes](https://open.spotify.com/track/0c4x6XhKGWuXA0H7nScxRE) | [Melanié Poret](https://open.spotify.com/artist/1qP02f6jA0m3AZ8devpRNu) | [Eyes Closes](https://open.spotify.com/album/5Oy3n0YjvLO074yXZuNlfx) | 2:30 |
+| 14 | [A place of peace](https://open.spotify.com/track/1BhXzIRZGi3qdKoFUFfFfs) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [A place of peace](https://open.spotify.com/album/6cgDCpcdalyujS9oZjK7f4) | 2:40 |
 | 15 | [Overthinking](https://open.spotify.com/track/7iZUYJmbGmKvoQtsrEqLtG) | [Martes Fiore](https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W) | [Overthinking](https://open.spotify.com/album/1Vq5TtquMxnDCwdlkqG5KL) | 2:16 |
 | 16 | [Falling Into You](https://open.spotify.com/track/07az0EJ4iIVajGjdAZlPIg) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Falling Into You](https://open.spotify.com/album/4gPCAoHao4O8zYd25H0ERh) | 3:13 |
-| 17 | [Lavender Skies](https://open.spotify.com/track/22yEmRR2DDKKD9CLUZP3xh) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [Lavender Skies](https://open.spotify.com/album/1hseo3B4fwrN9GmKhvw7gC) | 2:34 |
-| 18 | [Strosande](https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Strosande](https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM) | 3:02 |
+| 17 | [Strosande](https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Strosande](https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM) | 3:02 |
+| 18 | [Lavender Skies](https://open.spotify.com/track/22yEmRR2DDKKD9CLUZP3xh) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [Lavender Skies](https://open.spotify.com/album/1hseo3B4fwrN9GmKhvw7gC) | 2:34 |
 | 19 | [Amiable](https://open.spotify.com/track/1WNj5OaWzAZyyAeumYFWPn) | [Sonja Elliott](https://open.spotify.com/artist/7kKuC431bgNSQmNpEUBbbr) | [Amiable](https://open.spotify.com/album/3rWRFWT7dErO0kTLSeqgJn) | 2:37 |
-| 20 | [Years Gone By](https://open.spotify.com/track/4Wh4CEwY02vdiErroICrIS) | [Gale Moore](https://open.spotify.com/artist/7D4pGxfKDvTyt90fAAQXxw) | [Years Gone By](https://open.spotify.com/album/0ms9pTEwVNrZ2lu3Cd1ago) | 2:36 |
-| 21 | [Mornings](https://open.spotify.com/track/5daGd5PsrHGyfp1oK4hFsF) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Mornings](https://open.spotify.com/album/71U2C4uF4c9CdvtwbLev7o) | 2:36 |
-| 22 | [Sojourn](https://open.spotify.com/track/7FBcY1tXW5gAv8kF4nvYq6) | [Henri Fleur](https://open.spotify.com/artist/15cHdlUWr4RxcrF0gyfcCw) | [Sojourn](https://open.spotify.com/album/4wFSklfLWMiu8DlVvPD0nF) | 2:19 |
+| 20 | [Ethereal Echo](https://open.spotify.com/track/3b69dyUMr81gp1lOqhTMam) | [Panner Garlix](https://open.spotify.com/artist/64ixo2TVhbwcDgM7n4koOR) | [Ethereal Echo](https://open.spotify.com/album/58wTkyo7i284z4BWv4bf0d) | 3:33 |
+| 21 | [Years Gone By](https://open.spotify.com/track/4Wh4CEwY02vdiErroICrIS) | [Gale Moore](https://open.spotify.com/artist/7D4pGxfKDvTyt90fAAQXxw) | [Years Gone By](https://open.spotify.com/album/0ms9pTEwVNrZ2lu3Cd1ago) | 2:36 |
+| 22 | [Mornings](https://open.spotify.com/track/5daGd5PsrHGyfp1oK4hFsF) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Mornings](https://open.spotify.com/album/71U2C4uF4c9CdvtwbLev7o) | 2:36 |
 | 23 | [Childhood Memories](https://open.spotify.com/track/62C9Rt07bfOSH1AKkty7WU) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [Childhood Memories](https://open.spotify.com/album/2Eb9hZtded4wrEKI2IrQnc) | 2:25 |
-| 24 | [Invisible tree lines](https://open.spotify.com/track/688k2JnU3kzi41ONkmz1vT) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Invisible tree lines](https://open.spotify.com/album/3FOwxVjj8WK09WsA4JCdMf) | 2:08 |
-| 25 | [Ethereal Echo](https://open.spotify.com/track/3b69dyUMr81gp1lOqhTMam) | [Panner Garlix](https://open.spotify.com/artist/64ixo2TVhbwcDgM7n4koOR) | [Ethereal Echo](https://open.spotify.com/album/58wTkyo7i284z4BWv4bf0d) | 3:33 |
+| 24 | [Sojourn](https://open.spotify.com/track/7FBcY1tXW5gAv8kF4nvYq6) | [Henri Fleur](https://open.spotify.com/artist/15cHdlUWr4RxcrF0gyfcCw) | [Sojourn](https://open.spotify.com/album/4wFSklfLWMiu8DlVvPD0nF) | 2:19 |
+| 25 | [Invisible tree lines](https://open.spotify.com/track/688k2JnU3kzi41ONkmz1vT) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Invisible tree lines](https://open.spotify.com/album/3FOwxVjj8WK09WsA4JCdMf) | 2:08 |
 | 26 | [Homebound](https://open.spotify.com/track/7IcMrQoAG375c6vOPYvo8Z) | [Nora Vale](https://open.spotify.com/artist/0fPeAHb11dnVfKVXoUBYZE) | [Homebound](https://open.spotify.com/album/096aOFTAhHfunfw0Y3DjPz) | 2:06 |
 | 27 | [Summer Nights](https://open.spotify.com/track/45BcuKF5ILiWrIoa4owvTg) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Summer Nights](https://open.spotify.com/album/2iy4xz7MDiw6WTBIs3B91t) | 2:03 |
 | 28 | [Hope Reborn](https://open.spotify.com/track/1m0QXCui2cddXERsmwOEjG) | [Nia Amara](https://open.spotify.com/artist/66zVxJqnaCuSkUimaB2WZS) | [Hope Reborn](https://open.spotify.com/album/3Nlkiki77PqTuE4oGi5vYD) | 2:19 |
@@ -215,4 +215,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpq8e9AjGoM.md) - [plain]
 | 205 | [Early Memories](https://open.spotify.com/track/0yAgdDXxal3Em3W4X1bkGq) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Early Memories](https://open.spotify.com/album/0jFxPV4j7bMwugDCJsMt7g) | 2:33 |
 | 206 | [Fifth Season](https://open.spotify.com/track/1ZBFbDeigSeewJ4fjslV0p) | [Dani Mezzo](https://open.spotify.com/artist/6zRcJmTuAiLb7AHX7WLB1n) | [Fifth Season](https://open.spotify.com/album/7ljI3UpeR4ewS323IfBQQV) | 2:47 |
 
-Snapshot ID: `Z+9ZTQAAAACl1zWDplfeMvkhs3kTQWzq`
+Snapshot ID: `Z/Us7wAAAAA3jY+yRf56oQQG36GwCgVw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance music by independent artists and labels, featuring Harry Hayes\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,475 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,501 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 26 | [Do You Wrong](https://open.spotify.com/track/1fVMPkM0jXEZQj9s9GXWzw) | [Desmond](https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY) | [Do You Wrong](https://open.spotify.com/album/3UIwnlyuYiCSXk0WL6nKL2) | 3:46 |
 | 27 | [Feel Free](https://open.spotify.com/track/3pcnWOEq5ma8C1L3vR19Lt) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [Feel Free](https://open.spotify.com/album/6xwNQOnPKZfUVeSV9A8vVf) | 3:02 |
 | 28 | [just a feeling](https://open.spotify.com/track/5b6BUda5b3JGm7ForCOQL0) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl) | [just a feeling](https://open.spotify.com/album/4j0wvCuZDQk2kfhiAM1Twv) | 2:54 |
-| 29 | [SAVE ME](https://open.spotify.com/track/2jhHn52N4AJzM14SZlAcPd) | [STRAWBRY](https://open.spotify.com/artist/6JcapcUefqZ2azH0T5BRSi), [SHAKING](https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6) | [SAVE ME](https://open.spotify.com/album/6N4OC2eXGvKGlNj8MtwH82) | 3:21 |
+| 29 | [SAVE ME](https://open.spotify.com/track/2jhHn52N4AJzM14SZlAcPd) | [SHAKING](https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6), [STRAWBRY](https://open.spotify.com/artist/6JcapcUefqZ2azH0T5BRSi) | [SAVE ME](https://open.spotify.com/album/6N4OC2eXGvKGlNj8MtwH82) | 3:21 |
 | 30 | [Mercedes](https://open.spotify.com/track/6TFFbWPwjgjsANcFhQ8gaA) | [Jorg Kuning](https://open.spotify.com/artist/2GTRNls3GvsfwLW39oAZ5S) | [Elvers Pass](https://open.spotify.com/album/7JQg4ESYvmA28UFvqswIRG) | 6:41 |
 | 31 | [Voyage](https://open.spotify.com/track/5nw6aXuSZWn4ZFbeIH3M3O) | [Island Hill](https://open.spotify.com/artist/5kClp5xtCJqb9oYkCZN96g), [Komilev](https://open.spotify.com/artist/3oSBSYCfoXnN1MhvEdhrc6) | [Lunar Love Affair](https://open.spotify.com/album/7EOdMubtrB5oALt8xkghVq) | 5:54 |
 | 32 | [Sweatbox](https://open.spotify.com/track/7rrE7xPl4rE26gvcXagLf3) | [Harry Wills](https://open.spotify.com/artist/5AE52XrC6wM9wzhtSQDupS), [Mikey Sebastian](https://open.spotify.com/artist/5ZelZTeJ3VpDZ2geKawS1E) | [Sweatbox](https://open.spotify.com/album/2Aasb38FJph28iq6R0JCAQ) | 2:46 |

@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa Ed Sheeran.
 
-632 songs - 1 day 7 hr 34 min
+633 songs - 1 day 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,6 +527,7 @@
 | [Sunset Blvd](https://open.spotify.com/track/2kpUNuingcchFIhLrbWxIO) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Sunset Blvd](https://open.spotify.com/album/4JCaqlPDBeT9kizAc3PGwL) | 2:47 | 2025-03-13 | 2025-03-21 |
 | [Suomalainen Superstara](https://open.spotify.com/track/4S61u0InVCx79RqYYMLTgC) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0), [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO) | [Suomalainen Superstara](https://open.spotify.com/album/7tLEy14aDUE1SQNd7yMQyW) | 3:02 | 2024-08-15 | 2024-10-18 |
 | [Suomileijona](https://open.spotify.com/track/2VrulJUteGq31RtnshZ495) | [TIPPA](https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59), [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Suomileijona](https://open.spotify.com/album/4zPKNrGSYD766Dyr8jAsf5) | 2:38 | 2025-02-27 | 2025-03-21 |
+| [Suomineito](https://open.spotify.com/track/188EnbTWzh3gJPEo5gzvwF) | [Olli Halonen](https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts) | [Suomineito](https://open.spotify.com/album/5XnhtzHxPX9sVTkZ6tFIxx) | 2:59 | 2025-04-08 |  |
 | [Suuria tarinoita](https://open.spotify.com/track/4ZPgBmWL0HQ87T1E8dHoHk) | [Arttu Wiskari](https://open.spotify.com/artist/3XqH4FcUOrw2gw7L3BBaDn) | [Suuria tarinoita](https://open.spotify.com/album/26XMsvBWYRJzSv8VBt1dw3) | 3:06 | 2025-01-16 | 2025-02-14 |
 | [Suutele mun silmii](https://open.spotify.com/track/5HOb0pplKABfRqQc2RyPdR) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Suutele mun silmii](https://open.spotify.com/album/7EXuqXgy9fDCUAS2aHVVdr) | 2:25 | 2025-01-02 | 2025-02-28 |
 | [Swallow My Tears](https://open.spotify.com/track/2EZd0TdGBQGy0yZB0DEh93) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Swallow My Tears](https://open.spotify.com/album/0tDIhm78N9TV435gJtj9R8) | 2:54 | 2024-10-24 | 2024-11-08 |

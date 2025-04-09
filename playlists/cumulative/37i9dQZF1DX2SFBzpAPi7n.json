@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: \uc720\ub2e4\ube48\ubc34\ub4dc) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: L\u00d8REN) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -4645,6 +4645,24 @@
     },
     {
       "album": {
+        "name": "Fuck Your Neighbor (FYN)",
+        "url": "https://open.spotify.com/album/448X9wJCby4Sqdb6fxlH3d"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8REN",
+          "url": "https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189403,
+      "name": "Fuck Your Neighbor (FYN)",
+      "url": "https://open.spotify.com/track/6IxBnLGaM1bykNV9g2OxC3"
+    },
+    {
+      "album": {
         "name": "Fuckers Are Everywhere",
         "url": "https://open.spotify.com/album/1fPsgAQLSulmieALAGythC"
       },
@@ -7520,7 +7538,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 165000,
       "name": "Landing in Love",
       "url": "https://open.spotify.com/track/3WvM2dIR9iIxMGNMP7WsNw"
@@ -16934,7 +16952,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 283160,
       "name": "\uc608\ubee4\uc5b4",
       "url": "https://open.spotify.com/track/3Pqp7yCHo6hbxMS0ZGc93N"
@@ -16956,6 +16974,24 @@
       "duration_ms": 182466,
       "name": "\uc6b0\ub9b4 \uadf8\ub9b0 \uc218\ucc44\ud654 (The watercolor painting that painted us)",
       "url": "https://open.spotify.com/track/3DHFekUUsp4BJgBarYkaTz"
+    },
+    {
+      "album": {
+        "name": "\uc791\uc740 \ubd04",
+        "url": "https://open.spotify.com/album/7xUqTrlB37TJbtVcBvrEOH"
+      },
+      "artists": [
+        {
+          "name": "\uace0\ucd94\uc7a0\uc790\ub9ac",
+          "url": "https://open.spotify.com/artist/6P39ZC1SVRiunXwdJ0P11H"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222040,
+      "name": "\uc791\uc740 \ubd04",
+      "url": "https://open.spotify.com/track/6EIejWXtCAxXCPrxID1VFq"
     },
     {
       "album": {

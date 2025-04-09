@@ -385,6 +385,28 @@
     },
     {
       "album": {
+        "name": "DEEP SNOW",
+        "url": "https://open.spotify.com/album/7GJGT11AxRg4wXBVqy2ASf"
+      },
+      "artists": [
+        {
+          "name": "niki reverse",
+          "url": "https://open.spotify.com/artist/3HWGrVefRsLiC7tn44jVLX"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194250,
+      "name": "DEEP SNOW (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/7zBi1jiutFX4Xen5Q6AFDa"
+    },
+    {
+      "album": {
         "name": "departure EP",
         "url": "https://open.spotify.com/album/48LkmkQ67zedQog2YKkKnT"
       },
@@ -484,7 +506,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 261543,
       "name": "El rebano de Gish",
       "url": "https://open.spotify.com/track/4PzLNgrDI2oGbMWDuJHdff"
@@ -1506,7 +1528,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 194285,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/72m0AT9qSoAlBUVFKmyoHI"
@@ -1626,7 +1648,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 131341,
       "name": "\u304a\u308a\u304c\u307f\u62ab\u9732 (feat. SF-A2 \u958b\u767a\u30b3\u30fc\u30c9 miki)",
       "url": "https://open.spotify.com/track/7b8SkY3pJPIboQDh0ml8Tr"
@@ -2001,6 +2023,28 @@
     },
     {
       "album": {
+        "name": "\u3072\u308d\u304c\u308b\u4e16\u754c\u3078\u306f\u3053\u3076\u98a8",
+        "url": "https://open.spotify.com/album/1at9E8FkhuQu7GCtgL6CYU"
+      },
+      "artists": [
+        {
+          "name": "\u4e00\u4e8c\u4e09",
+          "url": "https://open.spotify.com/artist/5vItHKjQjXHkIpgt4MEchO"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "\u3072\u308d\u304c\u308b\u4e16\u754c\u3078\u306f\u3053\u3076\u98a8 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/1AnWFVOnllq62E93I1zPZj"
+    },
+    {
+      "album": {
         "name": "flicker",
         "url": "https://open.spotify.com/album/3wcyduAT0lFwVGHyaEyS6Z"
       },
@@ -2056,7 +2100,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 205423,
       "name": "\u307e\u3063\u304f\u3089\u306b\u304a\u307c\u308c\u3066 (feat. \u88cf\u547d)",
       "url": "https://open.spotify.com/track/3jUWddjT4z6qnDdm8HkMXU"
@@ -4121,6 +4165,24 @@
     },
     {
       "album": {
+        "name": "SOULUKATRAIN",
+        "url": "https://open.spotify.com/album/7K5glwqAQ7JixfUJpbGcw6"
+      },
+      "artists": [
+        {
+          "name": "\u308a\u3087\u3046@\u30b7\u30e3\u30ec\u30aa\u30c4P",
+          "url": "https://open.spotify.com/artist/6lHZa0EOP91DjrOuzdhrPM"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348923,
+      "name": "\u5de1\u685c\u6b4c - junouka -",
+      "url": "https://open.spotify.com/track/7IelCE0g18HYzlMZxcuta8"
+    },
+    {
+      "album": {
         "name": "\u5de1\u970a\u6b4c",
         "url": "https://open.spotify.com/album/3ArghHnPxXlDL4mRpf2VMv"
       },
@@ -4136,7 +4198,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 269307,
       "name": "\u5de1\u970a\u6b4c (feat. \u5de1\u97f3\u30eb\u30ab)",
       "url": "https://open.spotify.com/track/3wMuf1KLRVYexLlWas2v46"
@@ -4285,6 +4347,28 @@
     },
     {
       "album": {
+        "name": "\u6625\u306e\u5316\u8eab",
+        "url": "https://open.spotify.com/album/49ORkkcvxRCa6lZDgEmrgK"
+      },
+      "artists": [
+        {
+          "name": "\u304b\u3057\u3053\u3002",
+          "url": "https://open.spotify.com/artist/5ciOr5komOpL3pDJKVYpT7"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249454,
+      "name": "\u6625\u306e\u5316\u8eab (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/1nKGq4MHDVamAN9mGPZ74v"
+    },
+    {
+      "album": {
         "name": "\u6625\u3092\u5f85\u3064\u4eba",
         "url": "https://open.spotify.com/album/7LHRwd0Wcz698WdMs7DdCB"
       },
@@ -4344,6 +4428,24 @@
       "duration_ms": 209638,
       "name": "\u6700\u4f4e\u9650\u5ea6\u306e\u751f\u6d3b\u3092 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5NgYqtOyjG4bLFbMEHQs03"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30b3\u30a5\u30b9\u30c6\u30a3\u30ab",
+        "url": "https://open.spotify.com/album/3uvSyhlyS1IyWZeO2AHdW1"
+      },
+      "artists": [
+        {
+          "name": "BIRUGE",
+          "url": "https://open.spotify.com/artist/2jrnB5Z2ceAnrYsL607cQo"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289865,
+      "name": "\u6727\u6708\u591c\u3068\u6625\u4e59\u5973",
+      "url": "https://open.spotify.com/track/4yp49AyXvUV9bJnEINbaYG"
     },
     {
       "album": {

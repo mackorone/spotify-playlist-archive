@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0g7dAq6cAPA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0g7dAq6cAPA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0g7dAq6cAPA)
 
-### [Puella Magi Madoka Magica \-魔法少女まどか☆マギカ\-](https://open.spotify.com/playlist/37i9dQZF1DX0g7dAq6cAPA)
+### [Puella Magi Madoka Magica](https://open.spotify.com/playlist/37i9dQZF1DX0g7dAq6cAPA)
 
-> Music From "Puella Magi Madoka Magica"! 音楽で辿る「魔法少女まどか☆マギカ」の世界! ©Magica Quartet／Aniplex・Madoka Movie Project Rebellio
+> Music From "Puella Magi Madoka Magica"! ©Magica Quartet／Aniplex・Madoka Movie Project Rebellio
 
 84 songs - 4 hr 20 min
 

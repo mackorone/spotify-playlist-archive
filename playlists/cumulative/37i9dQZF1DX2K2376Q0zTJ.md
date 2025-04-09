@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: 青葉市子
 
-1,319 songs - 3 day 5 hr 43 min
+1,320 songs - 3 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Don't light my fire](https://open.spotify.com/track/1mCzk2LKAI3IGVX4fxcLYj) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Don't Light My Fire](https://open.spotify.com/album/2ZMKg7hcYi3lNXOv8gjjkb) | 2:16 | 2022-03-07 | 2022-04-06 |
 | [Don't Look Back In Anger](https://open.spotify.com/track/1GdWzPtXa2oji1Az5DH7rQ) | [Shione Yukawa](https://open.spotify.com/artist/7IFf66bWoJsaAmMXRUR3vG) | [Sweet Children O'Mine](https://open.spotify.com/album/3aph4y0lW19jSnsee8hvKP) | 5:16 | 2023-01-03 | 2023-02-02 |
 | [Don't Own Me](https://open.spotify.com/track/5VDUsouyH0n8RflwF5dLc6) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Search + Destroy](https://open.spotify.com/album/3wDguisEiAJzZkeaILX46v) | 3:20 | 2022-07-05 | 2022-08-03 |
+| [Donkey Song](https://open.spotify.com/track/07t6ciK5LXxrCoHfAQoaUj) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Donkey Song](https://open.spotify.com/album/0r8BiIoWJWUMliO4LUkKK0) | 3:35 | 2025-04-08 |  |
 | [Donuts Mind If I Do](https://open.spotify.com/track/1zT7GD8H6aZmkkbk395cbq) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [WINK](https://open.spotify.com/album/105329tEvmR4S5ofi0EZig) | 3:48 | 2024-12-04 | 2025-01-18 |
 | [Donuts Mind If I Do](https://open.spotify.com/track/7dVsIb37EhgpQ4Wg07h7c2) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [WINK](https://open.spotify.com/album/0OVqSFvnMWiYgeMfu6VJsB) | 3:48 | 2024-06-20 |  |
 | [Don’t Poy Me!](https://open.spotify.com/track/3NSmQajuG4igfFEJ07cafX) | [℃\-want you!](https://open.spotify.com/artist/1oePCCijpoxaCwJSzNahwa) | [Don’t Poy Me!](https://open.spotify.com/album/7Hi9846O5h1toP1Mf6d1eB) | 3:51 | 2022-07-05 | 2022-08-03 |
@@ -710,7 +711,7 @@
 | [Search + Destroy](https://open.spotify.com/track/5hCqYXndamqqxqQQtPvURn) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Search + Destroy](https://open.spotify.com/album/3wDguisEiAJzZkeaILX46v) | 4:49 | 2022-07-05 | 2022-08-03 |
 | [Season](https://open.spotify.com/track/59ZJXXQ0VeLtBK5EfW0KLJ) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:28 | 2023-05-10 | 2023-06-07 |
 | [Season](https://open.spotify.com/track/5mIJzqBwYM3SSVuCCCC3gg) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Season](https://open.spotify.com/album/0oNra3mg2Pon6DWljxx8WR) | 3:28 | 2023-05-02 | 2023-05-13 |
-| [Secret March](https://open.spotify.com/track/5Fci2d48pDH1Gye0JoeIUa) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Secret March](https://open.spotify.com/album/3ofPfckgxWzq4b9QR4y7V9) | 3:31 | 2025-01-17 |  |
+| [Secret March](https://open.spotify.com/track/5Fci2d48pDH1Gye0JoeIUa) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Secret March](https://open.spotify.com/album/3ofPfckgxWzq4b9QR4y7V9) | 3:31 | 2025-01-17 | 2025-04-09 |
 | [Seed](https://open.spotify.com/track/57oVY3KrjM7DNiMwMcPCDl) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Bloom](https://open.spotify.com/album/7q37XpOyHaEbmsmGJpFrCi) | 4:08 | 2023-01-03 | 2024-04-19 |
 | [Seed](https://open.spotify.com/track/6lqxRu3b2EkoupvUpEXEmm) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Bloom](https://open.spotify.com/album/3zAxTb1VGHR5c6O6T6Jtvi) | 4:08 | 2024-04-02 | 2024-06-21 |
 | [Sentiment](https://open.spotify.com/track/5F7shYRRh82Ikcjija4wqd) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Sentiment / Your Song](https://open.spotify.com/album/6F8hynSC3oLBpTqcdSjK8a) | 3:53 | 2023-01-03 | 2023-02-02 |

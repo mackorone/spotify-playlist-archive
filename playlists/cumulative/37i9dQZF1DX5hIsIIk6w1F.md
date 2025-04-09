@@ -4,7 +4,7 @@
 
 > Este Flow tiene otro Flow\. Foto: FloyyMenor.
 
-924 songs - 2 day 1 hr 48 min
+925 songs - 2 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [2012](https://open.spotify.com/track/31WbqE7t7XT8U6GBq4BOtw) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [EL NIÑO BENDITO](https://open.spotify.com/album/5pSazlKAjiS4GxMWVVw2Ja) | 3:12 | 2024-05-03 | 2024-09-07 |
 | [2012](https://open.spotify.com/track/48fZvr6qOW0GwxYV5o6AEN) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK) | [Minion Mixtape](https://open.spotify.com/album/0mlzT7AnWFy75UAyqhD2f2) | 3:05 | 2022-12-09 | 2023-01-14 |
 | [28](https://open.spotify.com/track/5jfDBp9jmQ9rfviQZSEGSW) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [28](https://open.spotify.com/album/3wutFV7g5B2NbRPmJUjewl) | 3:20 | 2022-10-06 | 2022-12-17 |
+| [2x1](https://open.spotify.com/track/6xXLOe3aR1iN1UFj9J1Iln) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Valdi](https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [LOS GALÁCTICOS](https://open.spotify.com/album/5jhX4ZQyGLJZG40Ifrzyma) | 3:15 | 2025-04-08 |  |
 | [3+1](https://open.spotify.com/track/1kBLmb9VHjuBuriVBa1k2a) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [3+1](https://open.spotify.com/album/5e3AQeyqQrvUJ5c9rtoTQR) | 3:57 | 2023-12-08 | 2024-02-24 |
 | [333](https://open.spotify.com/track/5NlRqUTd4tv8AegeU7RW5x) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [333](https://open.spotify.com/album/6KDLws7nb97FLIZw1VHisk) | 2:45 | 2023-09-29 |  |
 | [3D](https://open.spotify.com/track/5HtYVhthYMAs9QxLSjG4pQ) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [3D](https://open.spotify.com/album/0tlRno64qEC6paxXI6NnZY) | 2:45 | 2024-12-06 |  |

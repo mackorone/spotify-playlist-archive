@@ -615,6 +615,26 @@
     {
       "added_at": "2025-04-03 22:00:41",
       "album": {
+        "name": "TIGUERON",
+        "url": "https://open.spotify.com/album/1TGEBtXLS1FmV7DbJ4AwtU"
+      },
+      "artists": [
+        {
+          "name": "nusar3000",
+          "url": "https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex"
+        },
+        {
+          "name": "RIXXIA",
+          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "TIGUERON",
+      "url": "https://open.spotify.com/track/2p5ZlayysokZqCY0SBp9Jx"
+    },
+    {
+      "added_at": "2025-04-03 22:00:41",
+      "album": {
         "name": "LA LUZ DEL SOL ME DESLUMBR\u00d3",
         "url": "https://open.spotify.com/album/6H7WX3CF7WqM1xojZHVe5Q"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 147505,
       "name": "LA LUZ DEL SOL ME DESLUMBR\u00d3",
       "url": "https://open.spotify.com/track/5IfKJaO1xwrRIsyInhBq5V"
-    },
-    {
-      "added_at": "2025-04-03 22:00:41",
-      "album": {
-        "name": "TIGUERON",
-        "url": "https://open.spotify.com/album/1TGEBtXLS1FmV7DbJ4AwtU"
-      },
-      "artists": [
-        {
-          "name": "nusar3000",
-          "url": "https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex"
-        },
-        {
-          "name": "RIXXIA",
-          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "TIGUERON",
-      "url": "https://open.spotify.com/track/2p5ZlayysokZqCY0SBp9Jx"
     },
     {
       "added_at": "2025-04-03 22:00:41",
@@ -791,30 +791,6 @@
     {
       "added_at": "2025-04-03 22:00:41",
       "album": {
-        "name": "Hannah Montana",
-        "url": "https://open.spotify.com/album/7dvB78IUDpwyj5Ctlb9DQu"
-      },
-      "artists": [
-        {
-          "name": "SUOB",
-          "url": "https://open.spotify.com/artist/5uLRssoTItOawD6NZKvGnH"
-        },
-        {
-          "name": "alequi",
-          "url": "https://open.spotify.com/artist/4Rg6w1AZFPOeY8SurpUTPH"
-        },
-        {
-          "name": "ru0001",
-          "url": "https://open.spotify.com/artist/2mKl8gU4ZLvNQdYk55wLOu"
-        }
-      ],
-      "duration_ms": 129776,
-      "name": "Hannah Montana",
-      "url": "https://open.spotify.com/track/2F5krJgw7A1rQucMvLri3A"
-    },
-    {
-      "added_at": "2025-04-03 22:00:41",
-      "album": {
         "name": "ESTAR VIVO DUELE PERO NO ME MATA",
         "url": "https://open.spotify.com/album/2BE0eznqMPkhw2FZJ3dDwn"
       },
@@ -835,6 +811,30 @@
       "duration_ms": 155477,
       "name": "ESTAR VIVO DUELE PERO NO ME MATA",
       "url": "https://open.spotify.com/track/1VVUQuSLSeyexEjIeN18aU"
+    },
+    {
+      "added_at": "2025-04-03 22:00:41",
+      "album": {
+        "name": "Hannah Montana",
+        "url": "https://open.spotify.com/album/7dvB78IUDpwyj5Ctlb9DQu"
+      },
+      "artists": [
+        {
+          "name": "SUOB",
+          "url": "https://open.spotify.com/artist/5uLRssoTItOawD6NZKvGnH"
+        },
+        {
+          "name": "alequi",
+          "url": "https://open.spotify.com/artist/4Rg6w1AZFPOeY8SurpUTPH"
+        },
+        {
+          "name": "ru0001",
+          "url": "https://open.spotify.com/artist/2mKl8gU4ZLvNQdYk55wLOu"
+        }
+      ],
+      "duration_ms": 129776,
+      "name": "Hannah Montana",
+      "url": "https://open.spotify.com/track/2F5krJgw7A1rQucMvLri3A"
     },
     {
       "added_at": "2025-04-03 22:00:41",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-04-03 22:00:41",
       "album": {
-        "name": "resurrecci\u00f3n",
-        "url": "https://open.spotify.com/album/1rucdQzAcVqylG4W1aUyVI"
-      },
-      "artists": [
-        {
-          "name": "Cariatydes",
-          "url": "https://open.spotify.com/artist/21D4leQCTCqoikrOT6V84W"
-        }
-      ],
-      "duration_ms": 125052,
-      "name": "resurrecci\u00f3n",
-      "url": "https://open.spotify.com/track/7ArdDTr4xHyOy9btUb6GTE"
-    },
-    {
-      "added_at": "2025-04-03 22:00:41",
-      "album": {
         "name": "Coraz\u00f3n de trapo",
         "url": "https://open.spotify.com/album/51R1Ay4iABvvrMjITLQydy"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 140000,
       "name": "Coraz\u00f3n de trapo",
       "url": "https://open.spotify.com/track/6GA3yyzT3ED3nyjx4IVX3S"
+    },
+    {
+      "added_at": "2025-04-03 22:00:41",
+      "album": {
+        "name": "resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/1rucdQzAcVqylG4W1aUyVI"
+      },
+      "artists": [
+        {
+          "name": "Cariatydes",
+          "url": "https://open.spotify.com/artist/21D4leQCTCqoikrOT6V84W"
+        }
+      ],
+      "duration_ms": 125052,
+      "name": "resurrecci\u00f3n",
+      "url": "https://open.spotify.com/track/7ArdDTr4xHyOy9btUb6GTE"
     },
     {
       "added_at": "2025-04-03 22:00:41",
@@ -1307,22 +1307,22 @@
     {
       "added_at": "2025-04-03 22:00:41",
       "album": {
-        "name": "i GOT",
-        "url": "https://open.spotify.com/album/5tsSsvU4MSQ3LnxBzq4VVa"
+        "name": "pussyadicto",
+        "url": "https://open.spotify.com/album/2ixVzcI8X4FMEtte2Ja3LC"
       },
       "artists": [
         {
-          "name": "pobre lucca",
-          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
+          "name": "Xave",
+          "url": "https://open.spotify.com/artist/3rGVvULlz4GVZLUHFuvYIg"
         },
         {
-          "name": "Talla",
-          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
+          "name": "Nightclub20xx",
+          "url": "https://open.spotify.com/artist/7HQiiGBKAu5NhAfq6ONZif"
         }
       ],
-      "duration_ms": 129062,
-      "name": "i GOT",
-      "url": "https://open.spotify.com/track/10UAil3yHf66nY1vSIHVka"
+      "duration_ms": 137378,
+      "name": "pussyadicto",
+      "url": "https://open.spotify.com/track/5kGANKqLhTST7haxpVACZI"
     },
     {
       "added_at": "2025-04-03 22:00:41",
@@ -1347,38 +1347,42 @@
     {
       "added_at": "2025-04-03 22:00:41",
       "album": {
-        "name": "pussyadicto",
-        "url": "https://open.spotify.com/album/2ixVzcI8X4FMEtte2Ja3LC"
+        "name": "MALA FAMA",
+        "url": "https://open.spotify.com/album/7uPQ5WlQIRpKw3kTF0Rx6u"
       },
       "artists": [
         {
-          "name": "Xave",
-          "url": "https://open.spotify.com/artist/3rGVvULlz4GVZLUHFuvYIg"
+          "name": "Euskoprincess",
+          "url": "https://open.spotify.com/artist/013ZlYSF8o28LMo2qmhjFT"
         },
         {
-          "name": "Nightclub20xx",
-          "url": "https://open.spotify.com/artist/7HQiiGBKAu5NhAfq6ONZif"
+          "name": "Mattin",
+          "url": "https://open.spotify.com/artist/4MtStwqBW8x22H16pbiYqO"
         }
       ],
-      "duration_ms": 137378,
-      "name": "pussyadicto",
-      "url": "https://open.spotify.com/track/5kGANKqLhTST7haxpVACZI"
+      "duration_ms": 103399,
+      "name": "MALA FAMA",
+      "url": "https://open.spotify.com/track/45qaU0OsdxUw7v4Ld9QuY5"
     },
     {
       "added_at": "2025-04-03 22:00:41",
       "album": {
-        "name": "LA BABY ES MALA",
-        "url": "https://open.spotify.com/album/5g7ChyJQXO3OuI5dMiFodf"
+        "name": "i GOT",
+        "url": "https://open.spotify.com/album/5tsSsvU4MSQ3LnxBzq4VVa"
       },
       "artists": [
         {
-          "name": "Fran Laoren",
-          "url": "https://open.spotify.com/artist/2g1W9bFVmdIyxvktrdDiO4"
+          "name": "pobre lucca",
+          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
+        },
+        {
+          "name": "Talla",
+          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
         }
       ],
-      "duration_ms": 152183,
-      "name": "LA BABY ES MALA",
-      "url": "https://open.spotify.com/track/2HrGfzBvWetERJ4oc4c7yx"
+      "duration_ms": 129062,
+      "name": "i GOT",
+      "url": "https://open.spotify.com/track/10UAil3yHf66nY1vSIHVka"
     },
     {
       "added_at": "2025-04-03 22:00:41",
@@ -1399,18 +1403,18 @@
     {
       "added_at": "2025-04-03 22:00:41",
       "album": {
-        "name": "Cocky!",
-        "url": "https://open.spotify.com/album/5lPf8HroyP3XL7hrMSOUkr"
+        "name": "LA BABY ES MALA",
+        "url": "https://open.spotify.com/album/5g7ChyJQXO3OuI5dMiFodf"
       },
       "artists": [
         {
-          "name": "marinadorciud",
-          "url": "https://open.spotify.com/artist/5sUI64SOcIIAzxEDFJXVWW"
+          "name": "Fran Laoren",
+          "url": "https://open.spotify.com/artist/2g1W9bFVmdIyxvktrdDiO4"
         }
       ],
-      "duration_ms": 163636,
-      "name": "Cocky!",
-      "url": "https://open.spotify.com/track/4CJTZU0Tr34LlIm8ZEkoxl"
+      "duration_ms": 152183,
+      "name": "LA BABY ES MALA",
+      "url": "https://open.spotify.com/track/2HrGfzBvWetERJ4oc4c7yx"
     },
     {
       "added_at": "2025-04-03 22:00:41",
@@ -1431,6 +1435,22 @@
       "duration_ms": 128884,
       "name": "BOLLO",
       "url": "https://open.spotify.com/track/4QrWf9E9GU8QXri08OlF43"
+    },
+    {
+      "added_at": "2025-04-03 22:00:41",
+      "album": {
+        "name": "Cocky!",
+        "url": "https://open.spotify.com/album/5lPf8HroyP3XL7hrMSOUkr"
+      },
+      "artists": [
+        {
+          "name": "marinadorciud",
+          "url": "https://open.spotify.com/artist/5sUI64SOcIIAzxEDFJXVWW"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Cocky!",
+      "url": "https://open.spotify.com/track/4CJTZU0Tr34LlIm8ZEkoxl"
     },
     {
       "added_at": "2025-04-03 22:00:41",
@@ -1459,6 +1479,26 @@
     {
       "added_at": "2025-04-03 22:00:41",
       "album": {
+        "name": "en lo oscuro contigo",
+        "url": "https://open.spotify.com/album/0bTk9Kla13oR6v9vWaY5fr"
+      },
+      "artists": [
+        {
+          "name": "Ratchet Racer",
+          "url": "https://open.spotify.com/artist/41YGhblkQx83QlcTseXks5"
+        },
+        {
+          "name": "Bbynito",
+          "url": "https://open.spotify.com/artist/3fbtJn9IE7xORZcvASoIba"
+        }
+      ],
+      "duration_ms": 112625,
+      "name": "en lo oscuro contigo",
+      "url": "https://open.spotify.com/track/4MadLqibQsloR1K9e7zTeb"
+    },
+    {
+      "added_at": "2025-04-03 22:00:41",
+      "album": {
         "name": "no es amor",
         "url": "https://open.spotify.com/album/2aCyDAFmmIdy5ipsRIU8Vm"
       },
@@ -1483,26 +1523,6 @@
     {
       "added_at": "2025-04-03 22:00:41",
       "album": {
-        "name": "en lo oscuro contigo",
-        "url": "https://open.spotify.com/album/0bTk9Kla13oR6v9vWaY5fr"
-      },
-      "artists": [
-        {
-          "name": "Ratchet Racer",
-          "url": "https://open.spotify.com/artist/41YGhblkQx83QlcTseXks5"
-        },
-        {
-          "name": "Bbynito",
-          "url": "https://open.spotify.com/artist/3fbtJn9IE7xORZcvASoIba"
-        }
-      ],
-      "duration_ms": 112625,
-      "name": "en lo oscuro contigo",
-      "url": "https://open.spotify.com/track/4MadLqibQsloR1K9e7zTeb"
-    },
-    {
-      "added_at": "2025-04-03 22:00:41",
-      "album": {
         "name": "DESNUDO X DAIGUAL",
         "url": "https://open.spotify.com/album/5VqJmKc8IyvvSWHTJs5h9M"
       },
@@ -1515,6 +1535,22 @@
       "duration_ms": 155571,
       "name": "DESNUDO",
       "url": "https://open.spotify.com/track/0i7TORs3qf9QMMc5fLYFID"
+    },
+    {
+      "added_at": "2025-04-03 22:00:41",
+      "album": {
+        "name": "Plastic Boy",
+        "url": "https://open.spotify.com/album/5F8aJ3lhsPr5amUergNIyH"
+      },
+      "artists": [
+        {
+          "name": "RUVENRUVEN",
+          "url": "https://open.spotify.com/artist/1E3V2kpvd2LneDVg8FYR17"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/3FxpV85lJ3HeVSqrwRhcsm"
     },
     {
       "added_at": "2025-04-03 22:00:41",
@@ -1535,22 +1571,6 @@
       "duration_ms": 154777,
       "name": "SALIR A MORIR",
       "url": "https://open.spotify.com/track/0Qsx96RjkG13Ok1meUAGal"
-    },
-    {
-      "added_at": "2025-04-03 22:00:41",
-      "album": {
-        "name": "Plastic Boy",
-        "url": "https://open.spotify.com/album/5F8aJ3lhsPr5amUergNIyH"
-      },
-      "artists": [
-        {
-          "name": "RUVENRUVEN",
-          "url": "https://open.spotify.com/artist/1E3V2kpvd2LneDVg8FYR17"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/3FxpV85lJ3HeVSqrwRhcsm"
     },
     {
       "added_at": "2025-04-03 22:00:41",
@@ -1619,26 +1639,6 @@
       "duration_ms": 150103,
       "name": "Ritmo de las Sombras",
       "url": "https://open.spotify.com/track/0kx0duTN0GMWSlX5iwgder"
-    },
-    {
-      "added_at": "2025-04-03 22:00:41",
-      "album": {
-        "name": "MALA FAMA",
-        "url": "https://open.spotify.com/album/7uPQ5WlQIRpKw3kTF0Rx6u"
-      },
-      "artists": [
-        {
-          "name": "Euskoprincess",
-          "url": "https://open.spotify.com/artist/013ZlYSF8o28LMo2qmhjFT"
-        },
-        {
-          "name": "Mattin",
-          "url": "https://open.spotify.com/artist/4MtStwqBW8x22H16pbiYqO"
-        }
-      ],
-      "duration_ms": 103399,
-      "name": "MALA FAMA",
-      "url": "https://open.spotify.com/track/45qaU0OsdxUw7v4Ld9QuY5"
     },
     {
       "added_at": "2025-04-03 22:00:41",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2025-04-03 22:00:41",
       "album": {
+        "name": "Pinterest",
+        "url": "https://open.spotify.com/album/1o7ePORsRA5hIAmWtByTsi"
+      },
+      "artists": [
+        {
+          "name": "fuchi",
+          "url": "https://open.spotify.com/artist/2RoM55NaaJktLPzgcPNGHE"
+        }
+      ],
+      "duration_ms": 101184,
+      "name": "Pinterest",
+      "url": "https://open.spotify.com/track/05eDpT4y4Esf3MoPDnulCc"
+    },
+    {
+      "added_at": "2025-04-03 22:00:41",
+      "album": {
         "name": "lovelanguage,",
         "url": "https://open.spotify.com/album/7pc2QMwGsA36CTsmTHnnjA"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 116742,
       "name": "PRST1",
       "url": "https://open.spotify.com/track/3I3535V3GtAK1XQ5VQOUR8"
-    },
-    {
-      "added_at": "2025-04-03 22:00:41",
-      "album": {
-        "name": "Pinterest",
-        "url": "https://open.spotify.com/album/1o7ePORsRA5hIAmWtByTsi"
-      },
-      "artists": [
-        {
-          "name": "fuchi",
-          "url": "https://open.spotify.com/artist/2RoM55NaaJktLPzgcPNGHE"
-        }
-      ],
-      "duration_ms": 101184,
-      "name": "Pinterest",
-      "url": "https://open.spotify.com/track/05eDpT4y4Esf3MoPDnulCc"
     },
     {
       "added_at": "2025-04-03 22:00:41",
@@ -1883,18 +1883,26 @@
     {
       "added_at": "2025-04-03 22:00:41",
       "album": {
-        "name": "Cansao de to",
-        "url": "https://open.spotify.com/album/5eiE9AqooDUJJDJKO3m1YN"
+        "name": "NIGHTMARE",
+        "url": "https://open.spotify.com/album/0OVY5ETbo57WeEGAR2mV0b"
       },
       "artists": [
         {
-          "name": "M. Nieto",
-          "url": "https://open.spotify.com/artist/2Q0yEuio24OQjTukeA703c"
+          "name": "keko",
+          "url": "https://open.spotify.com/artist/096WT4GVoi1my7nHuZVei5"
+        },
+        {
+          "name": "Chesko",
+          "url": "https://open.spotify.com/artist/3TkaxdLWnJNwuEmpDigCwJ"
+        },
+        {
+          "name": "albwhisp",
+          "url": "https://open.spotify.com/artist/05pwTgoRDUVSr8VegYBu0g"
         }
       ],
-      "duration_ms": 179166,
-      "name": "Cansao de to",
-      "url": "https://open.spotify.com/track/536MbY3uZmOOpk7hhfZ5MF"
+      "duration_ms": 153750,
+      "name": "NIGHTMARE",
+      "url": "https://open.spotify.com/track/7noqHBzCAmHwlj0OqMvz6E"
     }
   ],
   "unique_name": "helium",

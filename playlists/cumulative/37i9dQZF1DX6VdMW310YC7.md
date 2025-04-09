@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,754 songs - 4 day 23 hr 39 min
+1,755 songs - 4 day 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1040,6 +1040,7 @@
 | [My Beautiful Blue Sky](https://open.spotify.com/track/1GCpvGwduaJ8uDelrJAcLL) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Ambient](https://open.spotify.com/album/5mq5dYBCJO9AfSTylR2v6b) | 5:19 | 2020-05-24 | 2020-10-09 |
 | [My Breath](https://open.spotify.com/track/3TUErt7xP33VW48HHtfcOM) | [Dezza](https://open.spotify.com/artist/3p7y4jD6cIfONGyx6xaFik), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r) | [My Breath](https://open.spotify.com/album/2rGwPVULt73kHrtB3rsIOs) | 3:01 | 2021-02-19 | 2022-12-29 |
 | [My Everything](https://open.spotify.com/track/75r1wc5lI6XCxGVBRSJ5lY) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [My Everything](https://open.spotify.com/album/4tcOPBWRItn1GZFefCAOQd) | 3:48 | 2023-10-13 | 2024-01-02 |
+| [My Friends](https://open.spotify.com/track/1CDIWYnX6vo2IPCtRA07H2) | [Parada](https://open.spotify.com/artist/29y0WHW3GGg8GJC2M8uEge), [Axel Ehnström](https://open.spotify.com/artist/2sRQFLs62KkM8UTW3DjDFM) | [My Friends](https://open.spotify.com/album/0f6qHuMHy4GgzrUqyH2EL7) | 2:19 | 2025-04-04 |  |
 | [My House \- Chill Mix](https://open.spotify.com/track/0TVMVtaGg7KUqWGlI9zwjs) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [My House \(Chill Mix\)](https://open.spotify.com/album/4qZo3KMdvmsQNbtCsu3OcK) | 2:58 | 2020-08-06 | 2020-10-09 |
 | [My Kick](https://open.spotify.com/track/2RDiFlBlx0Df7YRfSDsmm0) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [The Element](https://open.spotify.com/artist/4G1P9jyp1Qqj3NONg6zyuQ) | [My Kick](https://open.spotify.com/album/2ozuxSRKkk1v0nRo3nN40L) | 2:50 | 2020-05-18 | 2020-07-18 |
 | [My Life](https://open.spotify.com/track/2NDZ6i6UfOUSKgFiTQKbnv) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [My Life](https://open.spotify.com/album/7mjgGNr0d9YXywp7luOqHh) | 4:54 | 2020-05-18 | 2020-07-18 |
@@ -1321,7 +1322,7 @@
 | [Say My Name \(feat\. Zyra\)](https://open.spotify.com/track/1LeItUMezKA1HdCHxYICed) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Zyra](https://open.spotify.com/artist/0DGAOR3KtqWwWSwDzhzqOa) | [In Return](https://open.spotify.com/album/5SXT6dwhHX56Sos7KMcMF5) | 4:22 | 2020-05-18 | 2020-07-03 |
 | [Say The Word](https://open.spotify.com/track/1CPfcxZSA4scOgRq8hVBW4) | [tyDi](https://open.spotify.com/artist/7tOUuyCplrFWLXCZuhE3C4), [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g) | [Say The Word](https://open.spotify.com/album/5OXYSAiZRvzm9l0X1Q0XbZ) | 3:30 | 2020-03-16 | 2022-04-16 |
 | [Say You Want To Fly](https://open.spotify.com/track/3NxRqLhqJFNybOEHMoXI8W) | [Otherwish](https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T) | [Say You Want To Fly](https://open.spotify.com/album/2YXYd4ZoEjEPIwAuGQlTce) | 4:00 | 2024-11-22 |  |
-| [Scared Of The Dark](https://open.spotify.com/track/5XyamXKs8Z3ThrMZtGt6yQ) | [Friends & I](https://open.spotify.com/artist/1DgkENk0JhWHATAaVZN4Bn) | [Scared Of The Dark](https://open.spotify.com/album/0C7XqnzLWmXC09HRpn6BfH) | 2:11 | 2024-09-13 |  |
+| [Scared Of The Dark](https://open.spotify.com/track/5XyamXKs8Z3ThrMZtGt6yQ) | [Friends & I](https://open.spotify.com/artist/1DgkENk0JhWHATAaVZN4Bn) | [Scared Of The Dark](https://open.spotify.com/album/0C7XqnzLWmXC09HRpn6BfH) | 2:11 | 2024-09-13 | 2025-04-09 |
 | [Scared to Go Home](https://open.spotify.com/track/5gXLhbWoo01qNyGois2Doc) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Scared to Go Home](https://open.spotify.com/album/4ZXSq1eXkwdgEOAtxurhmD) | 2:59 | 2020-05-16 | 2020-10-09 |
 | [Schools Out](https://open.spotify.com/track/1RtNv5YOoY0ODeAekDHAga) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [Schools Out](https://open.spotify.com/album/64cTvTckUDWDLU9xRtdnlq) | 2:55 | 2020-03-17 | 2022-04-21 |
 | [Sea To Sky](https://open.spotify.com/track/7CGhUAQcsn81EVNqCHfxGc) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W) | [Sea To Sky](https://open.spotify.com/album/6vfjmNMRImYGCdH0Umbven) | 4:24 | 2022-03-18 | 2022-07-27 |

@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "\u3068\u308a\u3042\u3048\u305a\u4eca\u306f",
+        "url": "https://open.spotify.com/album/1dBKcsV0XIhCvtijBoYBoD"
+      },
+      "artists": [
+        {
+          "name": "Galileo Galilei",
+          "url": "https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269374,
+      "name": "\u3068\u308a\u3042\u3048\u305a\u4eca\u306f",
+      "url": "https://open.spotify.com/track/3Xt6fCTkqUVAqg8EpC0aUv"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30aa\u306e\u30cf\u30b3 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
         "url": "https://open.spotify.com/album/6kxBjCZNyW1T3bGFv1MG2D"
       },

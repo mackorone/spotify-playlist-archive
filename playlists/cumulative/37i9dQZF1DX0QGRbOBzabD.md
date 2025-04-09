@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0QGRbOBzabD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0QGRbOBzabD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0QGRbOBzabD)
 
-### [Monogatari Series \-〈物語〉シリーズ](https://open.spotify.com/playlist/37i9dQZF1DX0QGRbOBzabD)
+### [Monogatari Series](https://open.spotify.com/playlist/37i9dQZF1DX0QGRbOBzabD)
 
-> Music from Nishio Ishin Anime project based on his popular light novels./「化物語」から始まる<a href="https://www.monogatari\-series.com/">〈物語〉シリーズ</a>を歴代主題歌で巡る、待望の公式プレイリスト！（C）西尾維新／講談社・アニプレックス・シャフト
+> Music from Nishio Ishin Anime project based on his popular light novels.（C）西尾維新／講談社・アニプレックス・シャフト
 
 41 songs - 3 hr 1 min
 

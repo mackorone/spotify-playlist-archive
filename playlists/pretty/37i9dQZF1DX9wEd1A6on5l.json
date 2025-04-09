@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 87186,
+  "num_followers": 87251,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,30 @@
     {
       "added_at": "2025-04-04 07:06:21",
       "album": {
+        "name": "Hey Jago",
+        "url": "https://open.spotify.com/album/0z4JNG0qrRWOZnrub2A40d"
+      },
+      "artists": [
+        {
+          "name": "Poco Lee",
+          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Rahman Jago",
+          "url": "https://open.spotify.com/artist/65ekBj6zdws3gFRSYH7yNS"
+        }
+      ],
+      "duration_ms": 125284,
+      "name": "Hey Jago",
+      "url": "https://open.spotify.com/track/4xVj25uTjTZCaHbSFbYwAE"
+    },
+    {
+      "added_at": "2025-04-04 07:06:21",
+      "album": {
         "name": "Children of Africa",
         "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
       },
@@ -511,22 +535,6 @@
     {
       "added_at": "2025-04-04 07:06:21",
       "album": {
-        "name": "Kese (Dance)",
-        "url": "https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "Kese (Dance)",
-      "url": "https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4"
-    },
-    {
-      "added_at": "2025-04-04 07:06:21",
-      "album": {
         "name": "My Darling",
         "url": "https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9"
       },
@@ -543,26 +551,34 @@
     {
       "added_at": "2025-04-04 07:06:21",
       "album": {
-        "name": "Hey Jago",
-        "url": "https://open.spotify.com/album/0z4JNG0qrRWOZnrub2A40d"
+        "name": "Kese (Dance)",
+        "url": "https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS"
       },
       "artists": [
         {
-          "name": "Poco Lee",
-          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "Rahman Jago",
-          "url": "https://open.spotify.com/artist/65ekBj6zdws3gFRSYH7yNS"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 125284,
-      "name": "Hey Jago",
-      "url": "https://open.spotify.com/track/4xVj25uTjTZCaHbSFbYwAE"
+      "duration_ms": 174053,
+      "name": "Kese (Dance)",
+      "url": "https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4"
+    },
+    {
+      "added_at": "2025-04-04 07:06:21",
+      "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/1PVWEuIW46WKRMtBnNu0Hv"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 142758,
+      "name": "Most Wanted",
+      "url": "https://open.spotify.com/track/5rFZHAhav5kGsSAKtQHRHq"
     },
     {
       "added_at": "2025-04-04 07:06:21",
@@ -635,38 +651,6 @@
     {
       "added_at": "2025-04-04 07:06:21",
       "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 153026,
-      "name": "Bend",
-      "url": "https://open.spotify.com/track/2GZNKi3rgaT1ZKpkKDkA0Y"
-    },
-    {
-      "added_at": "2025-04-04 07:06:21",
-      "album": {
-        "name": "Most Wanted",
-        "url": "https://open.spotify.com/album/1PVWEuIW46WKRMtBnNu0Hv"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 142758,
-      "name": "Most Wanted",
-      "url": "https://open.spotify.com/track/5rFZHAhav5kGsSAKtQHRHq"
-    },
-    {
-      "added_at": "2025-04-04 07:06:21",
-      "album": {
         "name": "For Where?",
         "url": "https://open.spotify.com/album/6j2qGIcbWhbCx7NK8CXstK"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 113454,
       "name": "For Where?",
       "url": "https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX"
+    },
+    {
+      "added_at": "2025-04-04 07:06:21",
+      "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 153026,
+      "name": "Bend",
+      "url": "https://open.spotify.com/track/2GZNKi3rgaT1ZKpkKDkA0Y"
     },
     {
       "added_at": "2025-04-04 07:06:21",
@@ -783,6 +783,22 @@
     {
       "added_at": "2025-04-04 07:06:21",
       "album": {
+        "name": "FOR YOU",
+        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 148672,
+      "name": "FOR YOU",
+      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
+    },
+    {
+      "added_at": "2025-04-04 07:06:21",
+      "album": {
         "name": "Joy Is Coming",
         "url": "https://open.spotify.com/album/7atewPIxl0JTjtFmJfzLdT"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 137068,
       "name": "World Best",
       "url": "https://open.spotify.com/track/3r1xguZdjdgl8W0LO4ZtBF"
-    },
-    {
-      "added_at": "2025-04-04 07:06:21",
-      "album": {
-        "name": "FOR YOU",
-        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 148672,
-      "name": "FOR YOU",
-      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
     },
     {
       "added_at": "2025-04-04 07:06:21",
@@ -931,6 +931,22 @@
     {
       "added_at": "2025-04-04 07:06:21",
       "album": {
+        "name": "Must Have Been",
+        "url": "https://open.spotify.com/album/6R5XHfGugWX5i0X6BkD5vr"
+      },
+      "artists": [
+        {
+          "name": "TAR1Q",
+          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+        }
+      ],
+      "duration_ms": 156320,
+      "name": "Must Have Been",
+      "url": "https://open.spotify.com/track/36FTrsF2c7s1Cwt46Wij7U"
+    },
+    {
+      "added_at": "2025-04-04 07:06:21",
+      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/7GWGllaCoQInhrOadZ79LQ"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 185396,
       "name": "Sober",
       "url": "https://open.spotify.com/track/5at2Abc6gzWtxakXn7GNfE"
-    },
-    {
-      "added_at": "2025-04-04 07:06:21",
-      "album": {
-        "name": "Must Have Been",
-        "url": "https://open.spotify.com/album/6R5XHfGugWX5i0X6BkD5vr"
-      },
-      "artists": [
-        {
-          "name": "TAR1Q",
-          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
-        }
-      ],
-      "duration_ms": 156320,
-      "name": "Must Have Been",
-      "url": "https://open.spotify.com/track/36FTrsF2c7s1Cwt46Wij7U"
     },
     {
       "added_at": "2025-04-04 07:06:21",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2025-04-04 07:06:21",
       "album": {
+        "name": "Shakur (Deluxe)",
+        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 148672,
+      "name": "Dodge",
+      "url": "https://open.spotify.com/track/1fyhqGc41gcZ587gqBrvqA"
+    },
+    {
+      "added_at": "2025-04-04 07:06:21",
+      "album": {
         "name": "FINEE",
         "url": "https://open.spotify.com/album/375Ku7ogmraljDnask7W3d"
       },
@@ -1063,38 +1079,18 @@
     {
       "added_at": "2025-04-04 07:06:21",
       "album": {
-        "name": "Jo Vibe",
-        "url": "https://open.spotify.com/album/3hMl15L73JW8ozQVsQzX9j"
+        "name": "Reason 2 Japa",
+        "url": "https://open.spotify.com/album/0xoYbMUYlLRuWg5NEYAg8M"
       },
       "artists": [
         {
-          "name": "JoBlaq",
-          "url": "https://open.spotify.com/artist/2GyY6fd6hPueMiFe7Bt6Vp"
-        },
-        {
-          "name": "Peller",
-          "url": "https://open.spotify.com/artist/15XozhfjHU6UR9zImk8znI"
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
         }
       ],
-      "duration_ms": 130731,
-      "name": "Jo Vibe",
-      "url": "https://open.spotify.com/track/2n0lV8WqaH0WjIciYI2hoA"
-    },
-    {
-      "added_at": "2025-04-04 07:06:21",
-      "album": {
-        "name": "Shakur (Deluxe)",
-        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 148672,
-      "name": "Dodge",
-      "url": "https://open.spotify.com/track/1fyhqGc41gcZ587gqBrvqA"
+      "duration_ms": 166779,
+      "name": "Reason 2 Japa",
+      "url": "https://open.spotify.com/track/25oHQt2nwWQ6ILjkwZRRIy"
     },
     {
       "added_at": "2025-04-04 07:06:21",
@@ -1119,6 +1115,26 @@
     {
       "added_at": "2025-04-04 07:06:21",
       "album": {
+        "name": "Jo Vibe",
+        "url": "https://open.spotify.com/album/3hMl15L73JW8ozQVsQzX9j"
+      },
+      "artists": [
+        {
+          "name": "JoBlaq",
+          "url": "https://open.spotify.com/artist/2GyY6fd6hPueMiFe7Bt6Vp"
+        },
+        {
+          "name": "Peller",
+          "url": "https://open.spotify.com/artist/15XozhfjHU6UR9zImk8znI"
+        }
+      ],
+      "duration_ms": 130731,
+      "name": "Jo Vibe",
+      "url": "https://open.spotify.com/track/2n0lV8WqaH0WjIciYI2hoA"
+    },
+    {
+      "added_at": "2025-04-04 07:06:21",
+      "album": {
         "name": "OBUMNEME",
         "url": "https://open.spotify.com/album/5OPYJYM5LW60cNE6nNbKwY"
       },
@@ -1135,18 +1151,18 @@
     {
       "added_at": "2025-04-04 07:06:21",
       "album": {
-        "name": "POUNDS AND DOLLARS",
-        "url": "https://open.spotify.com/album/6J1fw9ZjeEgrMkKhUVY2Kp"
+        "name": "No Disorder",
+        "url": "https://open.spotify.com/album/2LxqgTDLjiuno6Qe4GX2wx"
       },
       "artists": [
         {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
         }
       ],
-      "duration_ms": 167804,
-      "name": "POUNDS AND DOLLARS",
-      "url": "https://open.spotify.com/track/2h1eU2bFf4bpEp8eCjYrOM"
+      "duration_ms": 134608,
+      "name": "No Disorder",
+      "url": "https://open.spotify.com/track/3P3zYicR5uuV4FFY2FtR3M"
     },
     {
       "added_at": "2025-04-04 07:06:21",
@@ -1167,18 +1183,18 @@
     {
       "added_at": "2025-04-04 07:06:21",
       "album": {
-        "name": "Reason 2 Japa",
-        "url": "https://open.spotify.com/album/0xoYbMUYlLRuWg5NEYAg8M"
+        "name": "POUNDS AND DOLLARS",
+        "url": "https://open.spotify.com/album/6J1fw9ZjeEgrMkKhUVY2Kp"
       },
       "artists": [
         {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
         }
       ],
-      "duration_ms": 166779,
-      "name": "Reason 2 Japa",
-      "url": "https://open.spotify.com/track/25oHQt2nwWQ6ILjkwZRRIy"
+      "duration_ms": 167804,
+      "name": "POUNDS AND DOLLARS",
+      "url": "https://open.spotify.com/track/2h1eU2bFf4bpEp8eCjYrOM"
     },
     {
       "added_at": "2025-04-04 07:06:21",
@@ -1203,18 +1219,18 @@
     {
       "added_at": "2025-04-04 07:06:21",
       "album": {
-        "name": "No Disorder",
-        "url": "https://open.spotify.com/album/2LxqgTDLjiuno6Qe4GX2wx"
+        "name": "MVP",
+        "url": "https://open.spotify.com/album/7D4R7vF5RsHLebaC00iR1Z"
       },
       "artists": [
         {
-          "name": "Lil Kesh",
-          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
         }
       ],
-      "duration_ms": 134608,
-      "name": "No Disorder",
-      "url": "https://open.spotify.com/track/3P3zYicR5uuV4FFY2FtR3M"
+      "duration_ms": 122142,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/0NEVYvt0Evz01fy43n29R2"
     },
     {
       "added_at": "2025-04-04 07:06:21",
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2025-04-04 07:06:21",
       "album": {
-        "name": "SHISHI",
-        "url": "https://open.spotify.com/album/6ChmRhbgUh53zXJhDxMPtX"
-      },
-      "artists": [
-        {
-          "name": "JoBlaq",
-          "url": "https://open.spotify.com/artist/2GyY6fd6hPueMiFe7Bt6Vp"
-        }
-      ],
-      "duration_ms": 140328,
-      "name": "SHISHI",
-      "url": "https://open.spotify.com/track/4Mnc9lGRf3C7oYPgbUiEzu"
-    },
-    {
-      "added_at": "2025-04-04 07:06:21",
-      "album": {
         "name": "Alubarika",
         "url": "https://open.spotify.com/album/6UE6hOPE7sgGHFzAfWYvW3"
       },
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2025-04-04 07:06:21",
       "album": {
-        "name": "MVP",
-        "url": "https://open.spotify.com/album/7D4R7vF5RsHLebaC00iR1Z"
+        "name": "SHISHI",
+        "url": "https://open.spotify.com/album/6ChmRhbgUh53zXJhDxMPtX"
       },
       "artists": [
         {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+          "name": "JoBlaq",
+          "url": "https://open.spotify.com/artist/2GyY6fd6hPueMiFe7Bt6Vp"
         }
       ],
-      "duration_ms": 122142,
-      "name": "MVP",
-      "url": "https://open.spotify.com/track/0NEVYvt0Evz01fy43n29R2"
+      "duration_ms": 140328,
+      "name": "SHISHI",
+      "url": "https://open.spotify.com/track/4Mnc9lGRf3C7oYPgbUiEzu"
     },
     {
       "added_at": "2025-04-04 07:06:21",
@@ -1303,6 +1303,26 @@
       "duration_ms": 140782,
       "name": "Parara (feat. BoyPee)",
       "url": "https://open.spotify.com/track/7iNcI07G4DNXpmqfn7zw1t"
+    },
+    {
+      "added_at": "2025-04-04 07:06:21",
+      "album": {
+        "name": "Bolingo",
+        "url": "https://open.spotify.com/album/18jIbSk5BS74Z7TC57HNcX"
+      },
+      "artists": [
+        {
+          "name": "HumbleSmith",
+          "url": "https://open.spotify.com/artist/2mOo2XmJUlRFE3iX2pQNXW"
+        },
+        {
+          "name": "Umu Obiligbo",
+          "url": "https://open.spotify.com/artist/2d3JopSFur0Ywm6KQdkUeH"
+        }
+      ],
+      "duration_ms": 203544,
+      "name": "Bolingo",
+      "url": "https://open.spotify.com/track/4bKoCUCsmc2SdqWv0YV1gk"
     },
     {
       "added_at": "2025-04-04 07:06:21",
@@ -1339,22 +1359,18 @@
     {
       "added_at": "2025-04-04 07:06:21",
       "album": {
-        "name": "Bolingo",
-        "url": "https://open.spotify.com/album/18jIbSk5BS74Z7TC57HNcX"
+        "name": "Check & Balance",
+        "url": "https://open.spotify.com/album/45k6Va5T7EVn8XNWA51lm2"
       },
       "artists": [
         {
-          "name": "HumbleSmith",
-          "url": "https://open.spotify.com/artist/2mOo2XmJUlRFE3iX2pQNXW"
-        },
-        {
-          "name": "Umu Obiligbo",
-          "url": "https://open.spotify.com/artist/2d3JopSFur0Ywm6KQdkUeH"
+          "name": "Brosthrone",
+          "url": "https://open.spotify.com/artist/2nqyqpjz5FcbMMNZBBAZ98"
         }
       ],
-      "duration_ms": 203544,
-      "name": "Bolingo",
-      "url": "https://open.spotify.com/track/4bKoCUCsmc2SdqWv0YV1gk"
+      "duration_ms": 138000,
+      "name": "Check & Balance",
+      "url": "https://open.spotify.com/track/7juKjBEhGqfXw9tDVMsgzp"
     },
     {
       "added_at": "2025-04-04 07:06:21",
@@ -1371,22 +1387,6 @@
       "duration_ms": 144063,
       "name": "Burst",
       "url": "https://open.spotify.com/track/6u5HorzLfu6uU49ZE2TK3w"
-    },
-    {
-      "added_at": "2025-04-04 07:06:21",
-      "album": {
-        "name": "Check & Balance",
-        "url": "https://open.spotify.com/album/45k6Va5T7EVn8XNWA51lm2"
-      },
-      "artists": [
-        {
-          "name": "Brosthrone",
-          "url": "https://open.spotify.com/artist/2nqyqpjz5FcbMMNZBBAZ98"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Check & Balance",
-      "url": "https://open.spotify.com/track/7juKjBEhGqfXw9tDVMsgzp"
     },
     {
       "added_at": "2025-04-04 07:06:21",

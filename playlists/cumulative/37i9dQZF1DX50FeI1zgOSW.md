@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Shravan Sridhar
 
-492 songs - 1 day 4 hr 6 min
+494 songs - 1 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Karpanai](https://open.spotify.com/track/5mHYekF6dYS1tngug0sKYm) | [Akhilesh Rajan](https://open.spotify.com/artist/2yNWhTumhIEaplBWzONC0I), [Krishna B](https://open.spotify.com/artist/75GR08Hbybw9eIFJbW1s9W), [On The Streets](https://open.spotify.com/artist/50ef72eTfmz8InSE1OErSu) | [Karpanai](https://open.spotify.com/album/63lmhSCepLlrKohnhi4NOg) | 3:31 | 2023-06-27 | 2024-01-31 |
 | [Karupalagi](https://open.spotify.com/track/5WbO7n09uccYyjhF510EKz) | [Kishore krishnan](https://open.spotify.com/artist/7lCO7RX3b2d22J0OUMYRXj) | [Karupalagi](https://open.spotify.com/album/4tjkowdfpmhjMtRKAovi9N) | 3:29 | 2023-07-19 | 2024-01-30 |
 | [Karuppu Thamizhan](https://open.spotify.com/track/213XAXx73s9XRJ38DJMlYH) | [Vidushaan](https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB), [Hust](https://open.spotify.com/artist/3CmUrno6q826poiuTNBuXG) | [Karuppu Thamizhan](https://open.spotify.com/album/3UBx6ayDK4ui8eTwIS4xna) | 3:16 | 2023-06-07 | 2023-10-21 |
+| [Kashmir Diaries](https://open.spotify.com/track/2jjZfzFF9B5CeMFhVrUndq) | [A.K\. Sasidaran](https://open.spotify.com/artist/2lmnIXHYUQsYESeuptYie4), [Sowmiya](https://open.spotify.com/artist/5XhjNUreUgIAs7nrLDVZYB) | [Kashmir Diaries](https://open.spotify.com/album/4hB9CaYFhG3XxgjzHj9bSH) | 4:30 | 2025-04-08 |  |
 | [Katchi Sera \- From "Think Indie"](https://open.spotify.com/track/1zzejMGRYKP5XOa3FmzXfa) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc) | [Katchi Sera \(From "Think Indie"\)](https://open.spotify.com/album/1kqsloJJsGKKKiWhinel6F) | 3:01 | 2024-01-23 | 2024-07-24 |
 | [Kathal Kuthu](https://open.spotify.com/track/2WLBSi3XRBjgwQdyijv3Tt) | [Sivakartikeyan](https://open.spotify.com/artist/62CJbPn2b2lmrjxyeMaVtx), [Arasann](https://open.spotify.com/artist/5dWZMhuogomIDmZsH5SRvK), [BRWNZZ](https://open.spotify.com/artist/2FN3XJkLEQEJNopTTvkJn3) | [Kathal Kuthu](https://open.spotify.com/album/2yzcQNCEGpvhubcvDljPEU) | 2:38 | 2025-02-07 |  |
 | [Kathirikolu](https://open.spotify.com/track/6GOXfEPNhhCkPHveqwlOSW) | [Vijay Paul](https://open.spotify.com/artist/1UejoJ7qg2WChIRQ73F9Po) | [Kathirikolu](https://open.spotify.com/album/2MnfUCtFWEnRCbogQLsxde) | 3:18 | 2024-02-21 | 2024-08-24 |
@@ -453,6 +454,7 @@
 | [Vaa Nee Vaa](https://open.spotify.com/track/4vQefItF5lcMJhRBjTmICk) | [Kishawn](https://open.spotify.com/artist/7apJKSnsatIWY5brBenbA0), [Cozzy](https://open.spotify.com/artist/5wbotL8r54GNzca15JjKa5) | [Vaa Nee Vaa](https://open.spotify.com/album/4oBGVlbfcJ2x6r4ZQBC2Ey) | 3:17 | 2024-05-07 | 2024-05-14 |
 | [Vaa Pogalam](https://open.spotify.com/track/0L7eH4ECQWsHIsTW01lLZp) | [Suryansh](https://open.spotify.com/artist/3Ykf5ocgSuTXLX0QVQTdzD), [Krithika Nelson](https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm) | [Vaa Pogalam](https://open.spotify.com/album/0k7uezmNTyqTcaoThQnaKY) | 3:57 | 2023-11-06 | 2023-12-12 |
 | [Vaa Poola](https://open.spotify.com/track/6dv0QIadLzgOYN2KY3ScAt) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Vaa Poola](https://open.spotify.com/album/5zmj9MOy7GegpfEyoivwcv) | 2:35 | 2023-05-08 | 2023-07-25 |
+| [vaa rasa wanna make love \- From "Wanted Mr\. Rasa"](https://open.spotify.com/track/6dLDfhGmhNYOIRZHLB0Jl3) | [Chanderan](https://open.spotify.com/artist/6RpQCpcNLrvudHwPOUY05W), [Kizhakkuvaasi](https://open.spotify.com/artist/12nnZ82xh7p2dFpexbVAf4), [Ancy Mary C James](https://open.spotify.com/artist/0umC3wKPD4auYB7a2LYwVq) | [vaa rasa wanna make love \(From "Wanted Mr\. Rasa"\)](https://open.spotify.com/album/0iiVby2bngFUyQCpO8AnwG) | 2:26 | 2025-04-08 |  |
 | [Vaadi Nenjukulla](https://open.spotify.com/track/38n3uNqlKbqSVfMUmRgi08) | [Ajees](https://open.spotify.com/artist/0KmDf97GDps7NgF7TXFrO1), [John Robins](https://open.spotify.com/artist/4vrGxEyhSmRkywIlWp8Xqc) | [Vaadi Nenjukulla](https://open.spotify.com/album/4w8PnoaGOk64ocgSLKl9sW) | 4:10 | 2023-08-11 | 2024-04-13 |
 | [Vaaichol](https://open.spotify.com/track/0KFnezn8C0B7cobeFeLsdQ) | [Krithika Nelson](https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm) | [Vaaichol](https://open.spotify.com/album/01GjdmCewDOpKZz9qWZxSb) | 3:03 | 2023-12-18 | 2023-12-22 |
 | [Vaanam Ellaye](https://open.spotify.com/track/5jNV9LJs8MeaN8d5sO4Fes) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Vaanam Ellaye](https://open.spotify.com/album/6ehc5mD4YXCrWpJYNpnXFy) | 3:30 | 2023-04-03 | 2023-06-24 |

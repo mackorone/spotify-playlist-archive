@@ -2124,7 +2124,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 149056,
       "name": "Creole",
       "url": "https://open.spotify.com/track/756wXdrf4NC0uPaV8lxX8A"
@@ -6553,6 +6553,24 @@
     },
     {
       "album": {
+        "name": "Pinky Promise",
+        "url": "https://open.spotify.com/album/2TBkA7A7TVxLPSQuGGtIAN"
+      },
+      "artists": [
+        {
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231452,
+      "name": "Pinky Promise",
+      "url": "https://open.spotify.com/track/5SAbFkCiJUEnQDVW50Nrkp"
+    },
+    {
+      "album": {
         "name": "Platonic",
         "url": "https://open.spotify.com/album/6fBFIDG05ozVbtZYoMx1Bu"
       },
@@ -8212,7 +8230,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-04",
+      "date_removed": null,
       "duration_ms": 126568,
       "name": "Take Me Down",
       "url": "https://open.spotify.com/track/4kNM7KttOXiMykZbYJasQo"
@@ -8374,7 +8392,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 280306,
       "name": "The Fork",
       "url": "https://open.spotify.com/track/41RSAwJRmy3heet0Uy4qa0"

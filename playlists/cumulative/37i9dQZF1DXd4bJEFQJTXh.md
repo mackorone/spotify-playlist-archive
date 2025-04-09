@@ -2,7 +2,7 @@
 
 ### [Family Movie Hits](https://open.spotify.com/playlist/37i9dQZF1DXd4bJEFQJTXh)
 
-> Turn down the lights, snack on some popcorn, and enjoy these tracks from your family's favorite films.
+> Turn down the lights and snack on Steve's Lava Chicken.
 
 231 songs - 12 hr 1 min
 

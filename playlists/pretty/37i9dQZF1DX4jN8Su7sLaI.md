@@ -1,8 +1,8 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jN8Su7sLaI.md) - [plain](/playlists/plain/37i9dQZF1DX4jN8Su7sLaI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4jN8Su7sLaI)
 
-### [弱虫ペダル \-Yowamushi Pedal\-](https://open.spotify.com/playlist/37i9dQZF1DX4jN8Su7sLaI)
+### [Yowamushi Pedal](https://open.spotify.com/playlist/37i9dQZF1DX4jN8Su7sLaI)
 
-> Music from "Yowamushi Pedal", a series of cycle road race manga\. /自転車ロードレースアニメの金字塔、<a href="http://yowapeda.com/">『弱虫ペダル』</a>公式プレイリスト！©渡辺航（週刊少年チャンピオン）／弱虫ペダル04製作委員会
+> Music from "Yowamushi Pedal", a series of cycle road race manga\. ©渡辺航（週刊少年チャンピオン）／弱虫ペダル04製作委員会
 
 [Spotify](https://open.spotify.com/user/spotify) - 29,590 likes - 39 songs - 2 hr 27 min
 
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jN8Su7sLaI.md) - [plain]
 | 38 | [Link](https://open.spotify.com/track/6RoYQ8xtnD0iQLX91tjW7B) | [LASTGASP](https://open.spotify.com/artist/6DtWvcsqUEaxfTrEdGyXmS) | [弱虫ペダル テーマソングアルバム](https://open.spotify.com/album/10ySnvOAqlHznO85JSuGBW) | 4:29 |
 | 39 | [Dream Believer](https://open.spotify.com/track/28TmwytTJsmvkSfWgWIz1d) | [チーム総北 <小野田坂道\(cv.山下大輝\)、今泉俊輔\(cv.鳥海浩輔\)、鳴子章吉\(cv.福島潤\)、金城真護\(cv.安元洋貴\)、巻島裕介\(cv.森久保祥太郎\)、田所迅\(cv.伊藤健太郎\)>](https://open.spotify.com/artist/1b0DGO2FRixEDN9FerxtXI) | [TVアニメ「弱虫ペダル」オープニングテーマ「Be As One」](https://open.spotify.com/album/41D1qI7ozO3eTophC4TVWr) | 4:23 |
 
-Snapshot ID: `ZIsT1AAAAAAzRLXF7EM6LPN2CUqltdtt`
+Snapshot ID: `Z/U9VQAAAADkZq1Bar5ZjEOJdj1XOYVp`

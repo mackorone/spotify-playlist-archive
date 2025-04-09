@@ -393,6 +393,28 @@
     },
     {
       "album": {
+        "name": "A Song for the Sea",
+        "url": "https://open.spotify.com/album/5rTtlNlAgrzBnjG3yeil0p"
+      },
+      "artists": [
+        {
+          "name": "Lauri Porra",
+          "url": "https://open.spotify.com/artist/6PcS0mIfMV5JOY3NX2bkTn"
+        },
+        {
+          "name": "Mumintrollen",
+          "url": "https://open.spotify.com/artist/6SXUdE8lwqmLKPQgyGrpUP"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236682,
+      "name": "A Song for the Sea",
+      "url": "https://open.spotify.com/track/3c14HUM4BmS8zHxzfZffux"
+    },
+    {
+      "album": {
         "name": "A Story Yet to Be Told",
         "url": "https://open.spotify.com/album/6FuHHi0TyGA03KHrTgoBz4"
       },
@@ -2980,6 +3002,24 @@
       "duration_ms": 168026,
       "name": "Komorebi (Luce Che Filtra Tra Le Foglie Degli Alberi)",
       "url": "https://open.spotify.com/track/3g8WUIWBIpGGCtR8v3spPf"
+    },
+    {
+      "album": {
+        "name": "Kyo",
+        "url": "https://open.spotify.com/album/0lwPCjEyY3TOE93TYeeFq8"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177765,
+      "name": "Kyo",
+      "url": "https://open.spotify.com/track/0LjazH98i2iH7TCkKPX4m3"
     },
     {
       "album": {

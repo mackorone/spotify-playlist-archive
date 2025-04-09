@@ -1995,6 +1995,28 @@
     },
     {
       "album": {
+        "name": "Mohaus, Vol. 2",
+        "url": "https://open.spotify.com/album/5jHezALSoHZvaqEjDurYDI"
+      },
+      "artists": [
+        {
+          "name": "Bones",
+          "url": "https://open.spotify.com/artist/40Vr9VUq5tVrKOOsd68ojn"
+        },
+        {
+          "name": "Mafia Natives",
+          "url": "https://open.spotify.com/artist/2gJtEjCHOcI0URtuwwMd99"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464384,
+      "name": "Inner Feelings - Vocal Mix",
+      "url": "https://open.spotify.com/track/6C1OuTILkPJvLOGdmGcFW1"
+    },
+    {
+      "album": {
         "name": "It Is Well",
         "url": "https://open.spotify.com/album/7nom4Vze0mmtc6e0HcKzYa"
       },
@@ -3290,7 +3312,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 367371,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/5V6S1byIWwSaw8NmjTl7p1"

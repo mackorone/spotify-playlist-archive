@@ -12146,6 +12146,24 @@
     {
       "album": {
         "name": "Se Latrevo",
+        "url": "https://open.spotify.com/album/1491IViMWEl7PGyCzjEPBx"
+      },
+      "artists": [
+        {
+          "name": "Tina Alexopoulou",
+          "url": "https://open.spotify.com/artist/2a6EAMtU6zdw2DOxGAKmJo"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214255,
+      "name": "Se Latrevo",
+      "url": "https://open.spotify.com/track/43iE2pgbbvjVjgXkPpGSR0"
+    },
+    {
+      "album": {
+        "name": "Se Latrevo",
         "url": "https://open.spotify.com/album/1x0eOKlCoVfmPcrsYCRrFC"
       },
       "artists": [
@@ -12156,7 +12174,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 210255,
       "name": "Se Latrev\u03bf",
       "url": "https://open.spotify.com/track/7xQFNeMtE9MqtmpfdbYUdm"

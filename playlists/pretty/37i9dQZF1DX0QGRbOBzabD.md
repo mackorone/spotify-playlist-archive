@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QGRbOBzabD.md) - [plain](/playlists/plain/37i9dQZF1DX0QGRbOBzabD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0QGRbOBzabD)
 
-### [Monogatari Series \-〈物語〉シリーズ](https://open.spotify.com/playlist/37i9dQZF1DX0QGRbOBzabD)
+### [Monogatari Series](https://open.spotify.com/playlist/37i9dQZF1DX0QGRbOBzabD)
 
-> Music from Nishio Ishin Anime project based on his popular light novels./「化物語」から始まる<a href="https://www.monogatari\-series.com/">〈物語〉シリーズ</a>を歴代主題歌で巡る、待望の公式プレイリスト！（C）西尾維新／講談社・アニプレックス・シャフト
+> Music from Nishio Ishin Anime project based on his popular light novels.（C）西尾維新／講談社・アニプレックス・シャフト
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,086 likes - 41 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,093 likes - 41 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QGRbOBzabD.md) - [plain]
 | 40 | [perfect slumbers](https://open.spotify.com/track/4Y2tmOicKcC4iTm2FscAXQ) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [歌物語 Special Edition](https://open.spotify.com/album/1oP65KKl98hRSjJvpKeFmQ) | 4:27 |
 | 41 | [white lies](https://open.spotify.com/track/7IC4AU7doXNuOBuLJK55MW) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [歌物語 Special Edition](https://open.spotify.com/album/1oP65KKl98hRSjJvpKeFmQ) | 3:24 |
 
-Snapshot ID: `ZoyF0AAAAADhFFNkM4aOF1RuCzOZWLL9`
+Snapshot ID: `Z/U8OAAAAABPojpaqnhtAA+ExGvrxEbH`

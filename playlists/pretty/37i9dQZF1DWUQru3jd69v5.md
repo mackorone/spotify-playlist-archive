@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > 22simba e Diss Gacha in cover della playlist con la nuova generazione del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,612 likes - 59 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,598 likes - 59 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 34 | [Ripida \(feat\. Faneto\)](https://open.spotify.com/track/7Gwc8WhEwhGdknYDik9Kev) | [Abby 6ix](https://open.spotify.com/artist/19nW3VjtThtO0ek8Ymmg9P), [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4) | [The Wire: Vol 1](https://open.spotify.com/album/6ioEviBsBYl9rN7hmnAuFS) | 3:28 |
 | 35 | [GDE WOW \(feat\. Shiva\)](https://open.spotify.com/track/5aKUmqW53tAZ2aslu5gV6l) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [GDE WOW \(feat\. Shiva\)](https://open.spotify.com/album/0aN9q9vlaoVcuGaA3VirkC) | 2:12 |
 | 36 | [BILANCINO \(feat\. Glocky\)](https://open.spotify.com/track/3AKVfkwlLUIm4up2dqaI5v) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [NON SONO GESÙ](https://open.spotify.com/album/6ExmoTCkfrCs3NbaVRjDeL) | 2:41 |
-| 37 | [COSÌ TANTO SWAG](https://open.spotify.com/track/3MdfUqrJLQ8OWPweIbSrka) | [EXXIA](https://open.spotify.com/artist/2YJcNIoAmRFFdVcvhMZHDr), [Maury North](https://open.spotify.com/artist/4HxI6ooJCfn4mJmvOzgyry) | [COSÌ TANTO SWAG](https://open.spotify.com/album/3luwQI3o01p1cZNOGGk28Y) | 2:08 |
+| 37 | [COSÌ TANTO SWAG](https://open.spotify.com/track/3MdfUqrJLQ8OWPweIbSrka) | [EXXIA](https://open.spotify.com/artist/2YJcNIoAmRFFdVcvhMZHDr), [Maury North](https://open.spotify.com/artist/4HxI6ooJCfn4mJmvOzgyry), [Brama](https://open.spotify.com/artist/2b2rgwCPsopAIsOkxLJnp2) | [COSÌ TANTO SWAG](https://open.spotify.com/album/3luwQI3o01p1cZNOGGk28Y) | 2:08 |
 | 38 | [MAYBACH TRUCK \(feat\. Luchetto\)](https://open.spotify.com/track/5ASTJZ1WuakOtPqRIwaOFE) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [Luchetto](https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z), [ilovethisbeat](https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P), [Prisoner](https://open.spotify.com/artist/3Q7xzwhs8hMbxxZzgufR6U) | [THE BIGGEST SBLAO EVA EVA EVA](https://open.spotify.com/album/5Rwns8SgIRKtTltWNj0lGW) | 2:33 |
 | 39 | [Night](https://open.spotify.com/track/2WD712u8LetfSJehnLTUnG) | [Davìdd](https://open.spotify.com/artist/7JE6E2Z7l9DouV5CRmNfuu) | [Night](https://open.spotify.com/album/4s9DmabbpN3Ccmy7qPSixr) | 2:21 |
 | 40 | [BIRKIN](https://open.spotify.com/track/1JV4TJEZc07wJG6aNbooJ9) | [Candyvan](https://open.spotify.com/artist/2FdQbKMXV59OJR3YE3KkrN) | [BIRKIN](https://open.spotify.com/album/1m89cyec91tDfn3bqD0Hu2) | 2:01 |

@@ -2,7 +2,7 @@
 
 ### [BBQ Classics \| 70s 80s 90s Barbecue](https://open.spotify.com/playlist/098hVwvAVYKJZd5kTwm9Ra)
 
-> Summer Barbeque grilling essentials for your backyard party\. Featuring 80s Classic Rock, 70s Yacht Rock, and Country Music favorites from AC/DC, Kenny Loggins, Rick Springfield, Kansas, TOTO, Van Morrison + more!
+> BBQ \- Summer Barbeque grilling essentials for your backyard party\. Backyard BBQ, Cookout, Block Party, Summer BBQ, Barbeque Mix, BBQ Chill\. Featuring 80s Classic Rock, 70s Yacht Rock, and Country Music favorites from AC/DC, Kenny Loggins, Rick Springfield, Kansas, TOTO, Van Morrison + more!
 
 237 songs - 15 hr 31 min
 

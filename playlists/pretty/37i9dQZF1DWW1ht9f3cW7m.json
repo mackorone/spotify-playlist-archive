@@ -1,6 +1,6 @@
 {
   "description": "sweet and fresh emerging indie pop, featuring Luvcat \ud83c\udf51",
-  "num_followers": 29693,
+  "num_followers": 29696,
   "original_name": "peach",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
+        "name": "crush (tom verlaine)",
+        "url": "https://open.spotify.com/album/4jELKPy6P8FQK2UmYOzz33"
+      },
+      "artists": [
+        {
+          "name": "Aziya",
+          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
+        }
+      ],
+      "duration_ms": 182498,
+      "name": "crush (tom verlaine)",
+      "url": "https://open.spotify.com/track/5LtjfCzRlKVERVaNjJqmUq"
+    },
+    {
+      "added_at": "2025-02-14 01:16:57",
+      "album": {
         "name": "Bass Player's Brother",
         "url": "https://open.spotify.com/album/1CANmUTLemKiVtLrHamDSg"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 269280,
       "name": "Recognise",
       "url": "https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h"
-    },
-    {
-      "added_at": "2025-02-14 01:16:57",
-      "album": {
-        "name": "crush (tom verlaine)",
-        "url": "https://open.spotify.com/album/4jELKPy6P8FQK2UmYOzz33"
-      },
-      "artists": [
-        {
-          "name": "Aziya",
-          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
-        }
-      ],
-      "duration_ms": 182498,
-      "name": "crush (tom verlaine)",
-      "url": "https://open.spotify.com/track/5LtjfCzRlKVERVaNjJqmUq"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "Girl",
-        "url": "https://open.spotify.com/album/29TdLg1fTzIS8taqkLky7B"
-      },
-      "artists": [
-        {
-          "name": "IDER",
-          "url": "https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0"
-        }
-      ],
-      "duration_ms": 217413,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/6N7u0W1wIBiANEvDvBD7lC"
-    },
-    {
-      "added_at": "2025-02-14 01:16:57",
-      "album": {
         "name": "Warm Body",
         "url": "https://open.spotify.com/album/6zGTF7LNVhBNJGbvrcxcK5"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "Good Riddance",
-        "url": "https://open.spotify.com/album/6jkkWXtKtdAxip4kYJMaJL"
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/29TdLg1fTzIS8taqkLky7B"
       },
       "artists": [
         {
-          "name": "Anna Lille",
-          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+          "name": "IDER",
+          "url": "https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0"
         }
       ],
-      "duration_ms": 171235,
-      "name": "Good Riddance",
-      "url": "https://open.spotify.com/track/0pnmZiwIMLCCkCoOhtLnnh"
+      "duration_ms": 217413,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/6N7u0W1wIBiANEvDvBD7lC"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -699,18 +683,34 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx"
+        "name": "Good Riddance",
+        "url": "https://open.spotify.com/album/6jkkWXtKtdAxip4kYJMaJL"
       },
       "artists": [
         {
-          "name": "Teenage Dads",
-          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
         }
       ],
-      "duration_ms": 237117,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC"
+      "duration_ms": 171235,
+      "name": "Good Riddance",
+      "url": "https://open.spotify.com/track/0pnmZiwIMLCCkCoOhtLnnh"
+    },
+    {
+      "added_at": "2025-02-14 01:16:57",
+      "album": {
+        "name": "front seat honey",
+        "url": "https://open.spotify.com/album/0OWpfv3K0BE5I7Ws9S2vA7"
+      },
+      "artists": [
+        {
+          "name": "SOFY",
+          "url": "https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd"
+        }
+      ],
+      "duration_ms": 187287,
+      "name": "front seat honey",
+      "url": "https://open.spotify.com/track/1wFF00vMYhC5w53xm5NSC3"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -731,18 +731,18 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "front seat honey",
-        "url": "https://open.spotify.com/album/0OWpfv3K0BE5I7Ws9S2vA7"
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx"
       },
       "artists": [
         {
-          "name": "SOFY",
-          "url": "https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd"
+          "name": "Teenage Dads",
+          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
         }
       ],
-      "duration_ms": 187287,
-      "name": "front seat honey",
-      "url": "https://open.spotify.com/track/1wFF00vMYhC5w53xm5NSC3"
+      "duration_ms": 237117,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "I Feel You",
-        "url": "https://open.spotify.com/album/5nO3sdRL4yMFlmFtl7TMJB"
-      },
-      "artists": [
-        {
-          "name": "KAWALA",
-          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "I Feel You",
-      "url": "https://open.spotify.com/track/1FjrTr0IVabwKR93xUR6FS"
-    },
-    {
-      "added_at": "2025-02-14 01:16:57",
-      "album": {
         "name": "Boys",
         "url": "https://open.spotify.com/album/5PzrhYhmTEb8Wao6CmZe66"
       },
@@ -923,18 +907,18 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/0FgWiapCduK5CnjIw2hUmo"
+        "name": "I Feel You",
+        "url": "https://open.spotify.com/album/5nO3sdRL4yMFlmFtl7TMJB"
       },
       "artists": [
         {
-          "name": "Cloth",
-          "url": "https://open.spotify.com/artist/3ZKUFIrYS6aAgIxu5AfTX5"
+          "name": "KAWALA",
+          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
         }
       ],
-      "duration_ms": 222790,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/2vnGiiOUKM8dUU7RmRs2Bs"
+      "duration_ms": 156000,
+      "name": "I Feel You",
+      "url": "https://open.spotify.com/track/1FjrTr0IVabwKR93xUR6FS"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -955,6 +939,22 @@
       "duration_ms": 139470,
       "name": "Shell (with Jordana)",
       "url": "https://open.spotify.com/track/7gqTEjr68W4i8fSX1wD0wF"
+    },
+    {
+      "added_at": "2025-02-14 01:16:57",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/0FgWiapCduK5CnjIw2hUmo"
+      },
+      "artists": [
+        {
+          "name": "Cloth",
+          "url": "https://open.spotify.com/artist/3ZKUFIrYS6aAgIxu5AfTX5"
+        }
+      ],
+      "duration_ms": 222790,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/2vnGiiOUKM8dUU7RmRs2Bs"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "animal",
-        "url": "https://open.spotify.com/album/2uu0FiVvr6niABxLz2zPWM"
-      },
-      "artists": [
-        {
-          "name": "Martin Luke Brown",
-          "url": "https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE"
-        }
-      ],
-      "duration_ms": 213422,
-      "name": "animal",
-      "url": "https://open.spotify.com/track/30xK4yILvzrLjkbrBZ9lJD"
-    },
-    {
-      "added_at": "2025-02-14 01:16:57",
-      "album": {
         "name": "Stay For Good",
         "url": "https://open.spotify.com/album/4fvtPXhNtEMiMGhhBWsrfs"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 205442,
       "name": "Stay For Good",
       "url": "https://open.spotify.com/track/0PrPN5jWLDjvNXFPSfbDy4"
+    },
+    {
+      "added_at": "2025-02-14 01:16:57",
+      "album": {
+        "name": "animal",
+        "url": "https://open.spotify.com/album/2uu0FiVvr6niABxLz2zPWM"
+      },
+      "artists": [
+        {
+          "name": "Martin Luke Brown",
+          "url": "https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE"
+        }
+      ],
+      "duration_ms": 213422,
+      "name": "animal",
+      "url": "https://open.spotify.com/track/30xK4yILvzrLjkbrBZ9lJD"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "mine",
-        "url": "https://open.spotify.com/album/1eFSDXoY46ihpWU92EYROK"
-      },
-      "artists": [
-        {
-          "name": "SOFY",
-          "url": "https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd"
-        }
-      ],
-      "duration_ms": 196910,
-      "name": "mine",
-      "url": "https://open.spotify.com/track/3LG0hSqKPEU7bClEv1BwIG"
-    },
-    {
-      "added_at": "2025-02-14 01:16:57",
-      "album": {
         "name": "BIG BOYS CRY TOO",
         "url": "https://open.spotify.com/album/3fnvp3uIQN3hUEn41ViEeo"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 205000,
       "name": "BIG BOYS CRY TOO",
       "url": "https://open.spotify.com/track/6bbGJOE8Y6r9q1cXnudz04"
+    },
+    {
+      "added_at": "2025-02-14 01:16:57",
+      "album": {
+        "name": "mine",
+        "url": "https://open.spotify.com/album/1eFSDXoY46ihpWU92EYROK"
+      },
+      "artists": [
+        {
+          "name": "SOFY",
+          "url": "https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd"
+        }
+      ],
+      "duration_ms": 196910,
+      "name": "mine",
+      "url": "https://open.spotify.com/track/3LG0hSqKPEU7bClEv1BwIG"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/0OKbrYFDbd3WbPdmSWY3Hq"
-      },
-      "artists": [
-        {
-          "name": "Only Real",
-          "url": "https://open.spotify.com/artist/5cyHu7tidauRJ9UawaPwG5"
-        }
-      ],
-      "duration_ms": 180316,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/513z8kjyLSnl0toYu9xwdU"
-    },
-    {
-      "added_at": "2025-02-14 01:16:57",
-      "album": {
         "name": "Chamomile",
         "url": "https://open.spotify.com/album/4meIT5JIHaFhWs4dSJzR6P"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 147146,
       "name": "Found The 1",
       "url": "https://open.spotify.com/track/1VaaMp66mFlNF3vaMiZIZC"
+    },
+    {
+      "added_at": "2025-02-14 01:16:57",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/0OKbrYFDbd3WbPdmSWY3Hq"
+      },
+      "artists": [
+        {
+          "name": "Only Real",
+          "url": "https://open.spotify.com/artist/5cyHu7tidauRJ9UawaPwG5"
+        }
+      ],
+      "duration_ms": 180316,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/513z8kjyLSnl0toYu9xwdU"
     },
     {
       "added_at": "2025-02-14 01:16:57",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2025-02-14 01:16:57",
       "album": {
-        "name": "pretty world",
-        "url": "https://open.spotify.com/album/1n5k2itF39JFPvRgnYGJ6G"
+        "name": "Life Is A Killer",
+        "url": "https://open.spotify.com/album/7Mb8z4fD81K8M5gcoeZrkP"
       },
       "artists": [
         {
-          "name": "Alessi Rose",
-          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
+          "name": "Love Fame Tragedy",
+          "url": "https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q"
         }
       ],
-      "duration_ms": 221470,
-      "name": "pretty world",
-      "url": "https://open.spotify.com/track/0ggicbzQ9CPvkFhW3CSkOr"
+      "duration_ms": 203312,
+      "name": "My Head's In A Hurricane",
+      "url": "https://open.spotify.com/track/5attUtcjG5lDS2GYKbNjtN"
     },
     {
       "added_at": "2025-02-14 01:16:57",

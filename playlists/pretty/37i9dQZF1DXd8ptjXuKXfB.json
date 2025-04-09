@@ -1,6 +1,6 @@
 {
   "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon. Hallgass m\u00e9g t\u00f6bb TNT zen\u00e9t a <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX7x8PM5aMA4f\">100% Retr\u00f3 </a>lej\u00e1tsz\u00e1si list\u00e1ban!",
-  "num_followers": 26291,
+  "num_followers": 26300,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -193,7 +193,7 @@
         },
         {
           "name": "Sisi",
-          "url": "https://open.spotify.com/artist/3K3eL1lGVccDFmpLOMx0id"
+          "url": "https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f"
         },
         {
           "name": "BEAT\u00f3",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-04-01 13:48:50",
       "album": {
-        "name": "Lobby",
-        "url": "https://open.spotify.com/album/7HiUwLRzsriG26I5PoXjEb"
-      },
-      "artists": [
-        {
-          "name": "\u00c9BERK\u00d3MA",
-          "url": "https://open.spotify.com/artist/45u5WLva3klzXW3rQuJ9U1"
-        }
-      ],
-      "duration_ms": 188863,
-      "name": "Lobby",
-      "url": "https://open.spotify.com/track/63rx8LjNlbbpYTqNKLJtN7"
-    },
-    {
-      "added_at": "2025-04-01 13:48:50",
-      "album": {
         "name": "Nekem ez a fless",
         "url": "https://open.spotify.com/album/145gn7ULDwmk73BPFKIMam"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 180133,
       "name": "Nekem ez a fless",
       "url": "https://open.spotify.com/track/1z9TztWBItgIKO3vmiBB9d"
+    },
+    {
+      "added_at": "2025-04-01 13:48:50",
+      "album": {
+        "name": "Lobby",
+        "url": "https://open.spotify.com/album/7HiUwLRzsriG26I5PoXjEb"
+      },
+      "artists": [
+        {
+          "name": "\u00c9BERK\u00d3MA",
+          "url": "https://open.spotify.com/artist/45u5WLva3klzXW3rQuJ9U1"
+        }
+      ],
+      "duration_ms": 188863,
+      "name": "Lobby",
+      "url": "https://open.spotify.com/track/63rx8LjNlbbpYTqNKLJtN7"
     }
   ],
   "unique_name": "Most Men\u0151",

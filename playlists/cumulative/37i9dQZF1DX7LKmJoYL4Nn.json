@@ -1059,6 +1059,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30c0\u30f3\u30b9\u9078\u629c\u66f2\u300cLOCK YOUR GAZE\u300d",
+        "url": "https://open.spotify.com/album/0DJ4AAWDjZmGU6ThnCmo2R"
+      },
+      "artists": [
+        {
+          "name": "MODE/D",
+          "url": "https://open.spotify.com/artist/1TKh863GRHVxQqeTt7hR4N"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148482,
+      "name": "LOCK YOUR GAZE",
+      "url": "https://open.spotify.com/track/10PK61isbWen3xb3fk9HSQ"
+    },
+    {
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Knights",
         "url": "https://open.spotify.com/album/3qcoVnc807jEOc4SJJqYHP"
       },
@@ -2223,7 +2241,7 @@
     },
     {
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba!! \u30d5\u30e9\u30bf\u30cb\u30c6\u30a3\u300c\u30a8\u30f3\u30c9\u30ec\u30b9\u30f4\u30a3\u30fc\u30c7 (Game Edit)\u300d",
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d5\u30e9\u30bf\u30cb\u30c6\u30a3\u300c\u30a8\u30f3\u30c9\u30ec\u30b9\u30f4\u30a3\u30fc\u30c7\u300d (Game Edit)",
         "url": "https://open.spotify.com/album/0OUW7LbjLcSY3WP9Xu7VBv"
       },
       "artists": [
@@ -2466,7 +2484,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 280626,
       "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8\u30c7\u30a3\u30b9\u30b3",
       "url": "https://open.spotify.com/track/0Pmja2vH52EzqkJyxQltM7"

@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Gerson Rufino",
-  "num_followers": 95180,
+  "num_followers": 95242,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -911,26 +911,6 @@
     {
       "added_at": "2025-03-07 03:01:16",
       "album": {
-        "name": "Estou Aqui",
-        "url": "https://open.spotify.com/album/1xaEvaLiIUDdCIdsHqUE5Z"
-      },
-      "artists": [
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        },
-        {
-          "name": "Matriz Music",
-          "url": "https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu"
-        }
-      ],
-      "duration_ms": 209134,
-      "name": "Estou Aqui",
-      "url": "https://open.spotify.com/track/7ckx72lvaOeEkxoga7jMBT"
-    },
-    {
-      "added_at": "2025-03-07 03:01:16",
-      "album": {
         "name": "N\u00e3o Saia do Meu Lado",
         "url": "https://open.spotify.com/album/0pnp12WSBG4PP1DhFWVoQq"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 216127,
       "name": "N\u00e3o Saia do Meu Lado",
       "url": "https://open.spotify.com/track/5mi0KvTGzuMvPbm16vY9su"
+    },
+    {
+      "added_at": "2025-03-07 03:01:16",
+      "album": {
+        "name": "Estou Aqui",
+        "url": "https://open.spotify.com/album/1xaEvaLiIUDdCIdsHqUE5Z"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        },
+        {
+          "name": "Matriz Music",
+          "url": "https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu"
+        }
+      ],
+      "duration_ms": 209134,
+      "name": "Estou Aqui",
+      "url": "https://open.spotify.com/track/7ckx72lvaOeEkxoga7jMBT"
     },
     {
       "added_at": "2025-03-07 03:01:16",

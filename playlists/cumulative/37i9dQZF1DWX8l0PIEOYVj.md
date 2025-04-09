@@ -4,11 +4,11 @@
 
 > Future & melodic bass 🛸 with Dabin
 
-750 songs - 1 day 20 hr 52 min
+751 songs - 1 day 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\]](https://open.spotify.com/track/6JeDB7vnShGrxmpBT3thpY) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 3:36 | 2024-11-15 |  |
+| [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\]](https://open.spotify.com/track/6JeDB7vnShGrxmpBT3thpY) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 3:36 | 2024-11-15 | 2025-04-09 |
 | [21](https://open.spotify.com/track/3ZoLqdyYnMNIYi4iMTD17u) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150) | [21](https://open.spotify.com/album/09wrAjWGZP8kWnJroh5Etq) | 3:37 | 2024-02-06 | 2024-07-27 |
 | [22](https://open.spotify.com/track/5E0aFvTnbphYsrMezpj96G) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [22](https://open.spotify.com/album/5ee1vg38qA50ASyoEx7n6A) | 4:05 | 2024-05-31 | 2024-08-10 |
 | [222† ∂∆ §§§](https://open.spotify.com/track/6vfkZpkACUVfUZlZOYbprt) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb) | [222† ∂∆ §§§](https://open.spotify.com/album/7eYOa53TWuUcfRpf8f6Nar) | 4:52 | 2023-06-09 | 2023-11-18 |
@@ -131,6 +131,7 @@
 | [Damaged](https://open.spotify.com/track/4PMc7HFiQfdGycjWzwwkIb) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [GLNNA](https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG) | [Damaged](https://open.spotify.com/album/1XsbynHmfcfG5n5vbSBWcu) | 3:15 | 2022-08-05 | 2024-04-26 |
 | [Dance With Me](https://open.spotify.com/track/46vr4fqso9XW3PTm2vBwwO) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Dance With Me](https://open.spotify.com/album/5Jpu4lho05hT7fScnpfJvX) | 2:59 | 2024-08-30 |  |
 | [Dancing With Myself](https://open.spotify.com/track/3V0WvIVH1TgKTf2ouORpVR) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Dancing With Myself](https://open.spotify.com/album/22NZ46wBNwrQRWFe9qyq00) | 2:43 | 2024-03-08 |  |
+| [Darkest Days \(feat\. Sandra Yvette\)](https://open.spotify.com/track/6meFLb7oAeZEZ9FWWyTJul) | [FLOTE](https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO), [Sandra Yvette](https://open.spotify.com/artist/5oogJiIMNvcoAIiyFk3NTe) | [Darkest Days \(feat\. Sandra Yvette\)](https://open.spotify.com/album/0L9qUzPx8fbPP9IaAoUTq5) | 2:50 | 2025-04-04 |  |
 | [Darkness](https://open.spotify.com/track/0l71depQtJ6g2t1LikvlzG) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Darkness](https://open.spotify.com/album/4HQYlLQCrkwbLpxAaKhdC2) | 3:20 | 2023-12-01 |  |
 | [Decode](https://open.spotify.com/track/7rIwKyrIqS0qpAC5muabLF) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Decode](https://open.spotify.com/album/45zM62K1e1DemouQXUeMcq) | 4:05 | 2024-02-06 | 2024-05-28 |
 | [Deep End](https://open.spotify.com/track/11DwTQXNzDjpQ8svvX6czk) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [LOCKBOX](https://open.spotify.com/artist/4yqp9NiO7zJLy1eHzb54Ro), [artemis orion](https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg) | [Deep End](https://open.spotify.com/album/07LWmdM0PcSsymfyfkPPLn) | 3:25 | 2024-04-26 |  |

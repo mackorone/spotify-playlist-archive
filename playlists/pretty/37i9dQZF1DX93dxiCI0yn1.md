@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 
 > 新たな“ラップスタア“を発掘する人気オーディション番組「RAPSTAR 2024」歴代出場者、審査員の楽曲を特集。 Cover: Kohjiya
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,979 likes - 105 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,978 likes - 105 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 | 50 | [言った!! \- Remix](https://open.spotify.com/track/4dCFBIiSAlNuvmrnfG2sh3) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [言った!! \(Remix\)](https://open.spotify.com/album/0Wqqc41PW0CFX9ztQ0eOGk) | 2:34 |
 | 51 | [Hello](https://open.spotify.com/track/0MEW1TJBpquZPTvwCIY97D) | [AIRIE](https://open.spotify.com/artist/2xN2Y7hBcfqQiy3qI7j1Py) | [Hello](https://open.spotify.com/album/6kvu3eyWibUDfLbToIll2K) | 2:56 |
 | 52 | [Control \(feat\. siki\)](https://open.spotify.com/track/5bh7mpMAzNQDXLJ49SjVVc) | [Frankkiss](https://open.spotify.com/artist/7uj4zg34enYInzpT64qAB2), [siki](https://open.spotify.com/artist/1jcAJFyTyN6LJ4bFdh1LwS), [MASA TAMAKI](https://open.spotify.com/artist/5HZmg2mtdOt5EhxwlssrMo) | [Control \(feat\. siki\)](https://open.spotify.com/album/78UbpYpFaiSFprKkmEvjVj) | 3:19 |
-| 53 | [黄色 \(feat\. R\-指定\)](https://open.spotify.com/track/7Lew3PsdlHJTsiYxIfkIL7) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H), [R\-shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb) | [黄色 \(feat\. R\-指定\)](https://open.spotify.com/album/0TfaHWQ8E8hmEuVitvXE43) | 3:12 |
+| 53 | [黄色 \(feat\. R\-指定\)](https://open.spotify.com/track/7Lew3PsdlHJTsiYxIfkIL7) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H), [R\-Shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb) | [黄色 \(feat\. R\-指定\)](https://open.spotify.com/album/0TfaHWQ8E8hmEuVitvXE43) | 3:12 |
 | 54 | [TAIYOH](https://open.spotify.com/track/3nDPxiIShEH4a4SEPXVibU) | [GOLDNRUSH](https://open.spotify.com/artist/1G8YXQ60dj4tKrpOtdZ3Cr), [Juu](https://open.spotify.com/artist/4cwXsVzszRZxyLs4uraxG8), [D3adStock](https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd) | [TAIYOH](https://open.spotify.com/album/0y5a3QytJUsL1wxwcWf5iX) | 2:46 |
 | 55 | [challenger](https://open.spotify.com/track/1xAjdV3fsjTxs9jz1yix8q) | [ALLISE](https://open.spotify.com/artist/3P1rq1ZGv6TnkWT7KGP3Kt), [44Tina gerra](https://open.spotify.com/artist/4OjrantiiDolNpYG9MZyaR), [Toad Noddy](https://open.spotify.com/artist/0mJ3XaEnFM6QxkT9dz08Vf) | [challenger](https://open.spotify.com/album/1DU91yfMlCmpifEX5zb9iG) | 4:12 |
 | 56 | [Jet Surfing](https://open.spotify.com/track/1fhvpxuquhf68lfUI5Jcel) | [Jeff KIddy](https://open.spotify.com/artist/0zSJeWJkKnxN92JnvbPqXs) | [Jet Surfing](https://open.spotify.com/album/0ctYjh8fj1azlkgeoDeIbs) | 3:00 |

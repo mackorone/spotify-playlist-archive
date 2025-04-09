@@ -4,7 +4,7 @@
 
 > 
 
-6,570 songs - 17 day 4 hr 26 min
+6,571 songs - 17 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3647,6 +3647,7 @@
 | [OMENS OF LOVE](https://open.spotify.com/track/61uOcxMVmLtIB2Kla2AeX3) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [R・E・S・O・R・T](https://open.spotify.com/album/2Y4BfSutFsEOGvIzgEzd13) | 4:07 | 2025-01-20 |  |
 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 | 2025-01-04 |  |
 | [OMG \(FRNK Remix\)](https://open.spotify.com/track/4yjDMKCAeLovlo9ih0AgXW) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 3:30 | 2025-01-06 |  |
+| [On & On](https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 3:46 | 2025-04-08 |  |
 | [On & On](https://open.spotify.com/track/6hYCHgEJMiTtVTKhfZTOrH) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Dyemond Lewis](https://open.spotify.com/artist/40UMRUWJQ51oX7skdm10CE) | [B4.DA.$$](https://open.spotify.com/album/2NTIYavFZmU1PCvJvn2USJ) | 4:40 | 2025-01-03 |  |
 | [On a Cherry Blossom Night](https://open.spotify.com/track/2ZBwrKf491fLO9KmndyT8y) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [On a Cherry Blossom Night](https://open.spotify.com/album/3PuW5BFmJ89GHJyfUs9hbQ) | 4:29 | 2024-12-05 |  |
 | [On BS](https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:21 | 2025-01-03 |  |
@@ -4005,6 +4006,7 @@
 | [Put On A Smile](https://open.spotify.com/track/5lka5RUbLVQGO94mKAPMRO) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 4:15 | 2024-12-10 |  |
 | [Put That On My Set \(feat\. A$AP Rocky & Skepta\)](https://open.spotify.com/track/2kwxN1whHc0YR0cBHR5iOi) | [A$AP Mob](https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Cozy Tapes: Vol\. 1 Friends \-](https://open.spotify.com/album/3RaACfwYTY9uiDy3VSWLLc) | 3:21 | 2024-12-05 |  |
 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 | 2024-12-14 |  |
+| [Pyo Pyo](https://open.spotify.com/track/4FyJtlsvCNO8uS58aqI354) | [UP](https://open.spotify.com/artist/1gjzJCtXM9MERO7IyUNLUN) | [Second Birth](https://open.spotify.com/album/62tR9ZoFJr4GcfTMgjDacm) | 4:00 | 2025-01-15 |  |
 | [Pyramids](https://open.spotify.com/track/4QhWbupniDd44EDtnh2bFJ) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 9:52 | 2025-01-03 |  |
 | [Pyro \(leak 2019\)](https://open.spotify.com/track/4hgS8ANdhHy2G7XtyVqLDw) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [UNLOCKED](https://open.spotify.com/album/5LsyqeWryTmxsmda4xkm5a) | 1:21 | 2025-01-03 |  |
 | [PYS \(feat\. DJ Paul\)](https://open.spotify.com/track/7kAyuqFCU2iYqeUao2cO21) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 2:48 | 2025-01-03 |  |
@@ -6271,7 +6273,7 @@
 | [고해](https://open.spotify.com/track/6wSZU5OaILn51xgAqvoLws) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Memories](https://open.spotify.com/album/73gPVFr5bRXhm2iGL29eK1) | 5:33 | 2025-01-03 |  |
 | [공허해 empty](https://open.spotify.com/track/2ENZ9lWpoLAGFDJsDb2Cbt) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [2014 S/S](https://open.spotify.com/album/37LnA5YHzyvoScNBpOmk0A) | 3:40 | 2025-01-15 |  |
 | [관찰](https://open.spotify.com/track/2itE7WlP7hdP8ehM4ORfGt) | [god](https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es) | [Chapter 1](https://open.spotify.com/album/7nXgDEsZZdp3ri3WtDNS8v) | 3:35 | 2025-01-03 |  |
-| [굿바이데이](https://open.spotify.com/track/4Xjs8WcNzUgDuIybvDXaAU) | [울랄라세션](https://open.spotify.com/artist/4r4f4hYXqvB1xGMxm6JcF7) | [각시탈 \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/6UrKATpz7QOhJPN6IH2K1A) | 3:54 | 2025-01-15 |  |
+| [굿바이데이](https://open.spotify.com/track/4Xjs8WcNzUgDuIybvDXaAU) | [Ulala Session](https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A) | [Bridal Mask \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/6UrKATpz7QOhJPN6IH2K1A) | 3:54 | 2025-01-15 |  |
 | [귀로](https://open.spotify.com/track/5B6ewNeXBcIDHqzsgAn6Dk) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Back To The Soul Flight](https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u) | 4:26 | 2025-01-04 |  |
 | [귀천도애](https://open.spotify.com/track/2IJ8eg2VNK7oSU8frSKDFb) | [김민종](https://open.spotify.com/artist/1wEyGbuSlgNqFKT7bH5Y9p) | [귀천도애](https://open.spotify.com/album/1sg9vVigMgOllmsyfyoJeR) | 5:00 | 2025-01-15 |  |
 | [그것만이 내 세상](https://open.spotify.com/track/0w8np2H7yaus3ySGuLGjvH) | [Deul Guk Hwa](https://open.spotify.com/artist/1sgkTCF42JGJUIaBP68n6H) | [들국화 베스트 12](https://open.spotify.com/album/3fJ38PCtvM906PtVDqBrqI) | 5:29 | 2025-01-03 |  |
@@ -6320,7 +6322,7 @@
 | [내 맘을 볼 수 있나요](https://open.spotify.com/track/2oVHb8wyg6oC2iNpGBNvx1) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Hotel del Luna \(Original Television Soundtrack\) Pt.5](https://open.spotify.com/album/2PdRNAz6mDmy9OR7hDCrH5) | 3:45 | 2025-01-03 |  |
 | [내가 너의 곁에 잠시 살았다는 걸](https://open.spotify.com/track/5amgK2rjUTSyXS1q1IUNR8) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [토이2집\-YOUHEEYEOL](https://open.spotify.com/album/6jOgaajTtTZM6zyjIkNd4u) | 5:12 | 2025-01-03 |  |
 | [내가 너의 곁에 잠시 살았다는 걸](https://open.spotify.com/track/7Hw4emqR6556dfMhmvcuIp) | [Toy](https://open.spotify.com/artist/3ggsRmBGV01RYdNu8pRWJd) | [Long Live Dreamfactory](https://open.spotify.com/album/4ES6wKYO5BI1pChlOUnVQ3) | 4:29 | 2025-01-15 |  |
-| [내가 아는 한가지](https://open.spotify.com/track/6SMMA1ZyE6S2GiOszPqM1a) | [이덕진](https://open.spotify.com/artist/2H8WDXWqRaOo9SxL4jvZ2F) | [Sad Wings Of Destiny](https://open.spotify.com/album/2cJlroOuD4A9sd8b9JdzI4) | 4:19 | 2025-01-15 |  |
+| [내가 아는 한가지](https://open.spotify.com/track/6SMMA1ZyE6S2GiOszPqM1a) | [Lee Duke Jean](https://open.spotify.com/artist/3bA11L05OKpXOFgLAYtLcG) | [Sad Wings Of Destiny](https://open.spotify.com/album/2cJlroOuD4A9sd8b9JdzI4) | 4:19 | 2025-01-15 |  |
 | [내가 저지른 사랑](https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [I'M](https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa) | 3:58 | 2025-01-03 |  |
 | [내게 오는 길 \- Bonus Track](https://open.spotify.com/track/5rfOHC8IMqyvqAi4TUrnsn) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [처음처럼](https://open.spotify.com/album/2Pgvz4Apdr3ORROIaW2ZdH) | 3:59 | 2025-01-15 |  |
 | [내게 와 줘](https://open.spotify.com/track/5n6XDt43EpXIVxt1pyslIj) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) | [Un Urbanite](https://open.spotify.com/album/6ULNJ3uohkBFzsHLowkS12) | 4:21 | 2025-01-15 |  |
@@ -6405,7 +6407,6 @@
 | [비와 당신의 이야기](https://open.spotify.com/track/6LopM7oQlklb9KiVbhaNWt) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [이승철 Best of Best](https://open.spotify.com/album/5eojAp2VzqCMynrqxI7GAr) | 5:31 | 2025-01-03 |  |
 | [비의 Rhapsody](https://open.spotify.com/track/3D15bBAz461krS1Jbw3R1W) | [Choi Jae Hoon](https://open.spotify.com/artist/7ufK2gooz0YUI3ukga3RRT) | [Believe In 5462](https://open.spotify.com/album/5pNemmxBUl0JoQ1qcNJLeV) | 4:31 | 2024-12-14 |  |
 | [비처럼 음악처럼](https://open.spotify.com/track/6zMH0UAFuLt4JXVuEUIygG) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 3집](https://open.spotify.com/album/3Eggr8LCQGMCitwZzzaSbY) | 4:37 | 2025-01-03 |  |
-| [뿌요뿌요](https://open.spotify.com/track/4FyJtlsvCNO8uS58aqI354) | [UP](https://open.spotify.com/artist/1gjzJCtXM9MERO7IyUNLUN) | [Second Birth](https://open.spotify.com/album/62tR9ZoFJr4GcfTMgjDacm) | 4:00 | 2025-01-15 |  |
 | [사랑 Two](https://open.spotify.com/track/5EGZGkg7DuToUdEa88W2xQ) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [가을 우체국 앞에서](https://open.spotify.com/album/78rKb6IVqCQRpfQPBJwKTt) | 5:16 | 2025-01-15 |  |
 | [사랑 안해](https://open.spotify.com/track/4wztk2LQD75UzN5UTnFK0E) | [Baek Z Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Smile Again](https://open.spotify.com/album/6PUXZU8KQoiC7PJGHobQ8E) | 4:13 | 2024-12-10 |  |
 | [사랑.\. 그 놈 \(화생방실 클레오파트라\)](https://open.spotify.com/track/43KnqWOG0FMlDK5LLpttSE) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [Mask Singer 12th \(Live Version\)](https://open.spotify.com/album/78Df2qsqzGteQm8cOfaPLV) | 4:11 | 2025-01-03 |  |

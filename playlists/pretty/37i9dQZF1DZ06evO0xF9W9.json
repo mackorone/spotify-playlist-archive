@@ -1,12 +1,12 @@
 {
   "description": "This is Engel Montaz. The essential tracks, all in one playlist.",
-  "num_followers": 3799,
+  "num_followers": 3787,
   "original_name": "This Is Engel Montaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/HEAAAAAAAL8VEt70AnW6OPNFooM7Rr",
+  "snapshot_id": "Z/MVgAAAAAC3xqYbIoXQSMFjiUI++NYW",
   "tracks": [
     {
       "added_at": null,
@@ -15,6 +15,10 @@
         "url": "https://open.spotify.com/album/6cEDQDne0kL7kW8KP2LiYc"
       },
       "artists": [
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        },
         {
           "name": "Flamen Beretta",
           "url": "https://open.spotify.com/artist/3D9fZmAGeaCJjnRFFD9jlE"
@@ -26,10 +30,6 @@
         {
           "name": "Kuv507",
           "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
-        },
-        {
-          "name": "Latinnites Music",
-          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
         }
       ],
       "duration_ms": 188969,
@@ -107,22 +107,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Actua",
-        "url": "https://open.spotify.com/album/59Ii7JcTRINr6G3iVsmo3b"
+        "name": "Quedate (Live)",
+        "url": "https://open.spotify.com/album/72eyHgIDWShgeAhq5kBETD"
       },
       "artists": [
         {
           "name": "Engel Montaz",
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Actua",
-      "url": "https://open.spotify.com/track/2fzkeMoZGcbomhMAfovg21"
+      "duration_ms": 210333,
+      "name": "Quedate - Live",
+      "url": "https://open.spotify.com/track/73CWEtik68Te87lTeI7AJS"
     },
     {
       "added_at": null,
@@ -151,6 +147,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Actua",
+        "url": "https://open.spotify.com/album/59Ii7JcTRINr6G3iVsmo3b"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Actua",
+      "url": "https://open.spotify.com/track/2fzkeMoZGcbomhMAfovg21"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nota de Pasion",
         "url": "https://open.spotify.com/album/5IMNETxS7NHq8izdlrgdsm"
       },
@@ -167,6 +183,42 @@
       "duration_ms": 212000,
       "name": "Nota de Pasion",
       "url": "https://open.spotify.com/track/6WXOXKQ0pDfdGQvh5XT7dI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Tu Manera",
+        "url": "https://open.spotify.com/album/5AklCOG5R0PEysXDGtybTK"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "A Tu Manera",
+      "url": "https://open.spotify.com/track/5FFiCQigo3piRCEyj2l8sU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Vibrador",
+      "url": "https://open.spotify.com/track/4h3i4yz7mkw1H9XG9VMkjQ"
     },
     {
       "added_at": null,
@@ -211,42 +263,6 @@
       "duration_ms": 337846,
       "name": "Tan Tan Brazil - Remix",
       "url": "https://open.spotify.com/track/4lCjpDhelnVjEjJBzYYLph"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Tu Manera",
-        "url": "https://open.spotify.com/album/5AklCOG5R0PEysXDGtybTK"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "A Tu Manera",
-      "url": "https://open.spotify.com/track/5FFiCQigo3piRCEyj2l8sU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Vibrador",
-      "url": "https://open.spotify.com/track/4h3i4yz7mkw1H9XG9VMkjQ"
     },
     {
       "added_at": null,
@@ -303,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "duration_ms": 216827,
+      "name": "Si Estoy Contigo - Bachata",
+      "url": "https://open.spotify.com/track/2MwztolEt0vNsp8tbnNbRs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu No Me Conoces",
         "url": "https://open.spotify.com/album/0Kf2Cxcg7mLyurZaNlpbbe"
       },
@@ -323,18 +355,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT"
+        "name": "Billetes Verdes",
+        "url": "https://open.spotify.com/album/25iez2oRX1DtieTpzaOhTt"
       },
       "artists": [
         {
           "name": "Engel Montaz",
           "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Kuv507",
+          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
+        },
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        },
+        {
+          "name": "Lui3o5",
+          "url": "https://open.spotify.com/artist/08TS0cq1oBlIIFVSsJhoe4"
         }
       ],
-      "duration_ms": 216827,
-      "name": "Si Estoy Contigo - Bachata",
-      "url": "https://open.spotify.com/track/2MwztolEt0vNsp8tbnNbRs"
+      "duration_ms": 194026,
+      "name": "Billetes Verdes",
+      "url": "https://open.spotify.com/track/15l70Pu2OA8rCFcRTc0hdJ"
     },
     {
       "added_at": null,
@@ -359,6 +403,22 @@
       "duration_ms": 198231,
       "name": "Olvidando el pasado",
       "url": "https://open.spotify.com/track/4W4GNgS2O0YbrkXsTdkBVa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "duration_ms": 183200,
+      "name": "Comerte",
+      "url": "https://open.spotify.com/track/1eYu0ieqnTYgCeLohCMHcp"
     },
     {
       "added_at": null,
@@ -395,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        }
-      ],
-      "duration_ms": 183200,
-      "name": "Comerte",
-      "url": "https://open.spotify.com/track/1eYu0ieqnTYgCeLohCMHcp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Como Tu",
         "url": "https://open.spotify.com/album/2YjF5MZfofFQ0IJ5TvGBCZ"
       },
@@ -423,6 +467,22 @@
       "duration_ms": 200045,
       "name": "Una Como Tu",
       "url": "https://open.spotify.com/track/3KSkWY17uXtjDkwz9puuEN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "duration_ms": 102592,
+      "name": "Party Prendio",
+      "url": "https://open.spotify.com/track/7kysxhCfP7fFebn7iZU8Av"
     },
     {
       "added_at": null,
@@ -471,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        }
-      ],
-      "duration_ms": 102592,
-      "name": "Party Prendio",
-      "url": "https://open.spotify.com/track/7kysxhCfP7fFebn7iZU8Av"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Puto Amo",
         "url": "https://open.spotify.com/album/2Kz1M3efVHHJ9f4azQ14zA"
       },
@@ -499,6 +543,38 @@
       "duration_ms": 126205,
       "name": "El Puto Amo",
       "url": "https://open.spotify.com/track/2cE8NFkwGrPBUwChlpkqaG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pilita (Remix)",
+        "url": "https://open.spotify.com/album/4AxaZrNKROnjlgwtBUWKaD"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Kuv507",
+          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
+        },
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        },
+        {
+          "name": "Paola Houghton",
+          "url": "https://open.spotify.com/artist/0flWB3vtKFc8AQ3AzOtVZb"
+        },
+        {
+          "name": "Dj Nanow",
+          "url": "https://open.spotify.com/artist/3VX5T2YsDtpXkLseGJxXiz"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Pilita - Remix",
+      "url": "https://open.spotify.com/track/5EIjKDRZ6IZkNtaBvMOi9P"
     },
     {
       "added_at": null,
@@ -527,6 +603,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Entrando en Calor",
+        "url": "https://open.spotify.com/album/2CsK2MEVkZba0TUKKDMO6Y"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Jinzus",
+          "url": "https://open.spotify.com/artist/7IjLz8LTToOSNtI4cW5ZKg"
+        }
+      ],
+      "duration_ms": 192078,
+      "name": "Entrando en Calor",
+      "url": "https://open.spotify.com/track/1lJVlqqUghLjg5FC7fnNTy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Una Noche Tranquila",
         "url": "https://open.spotify.com/album/0XkaPG9Q6L4QTH6fTQmcXH"
       },
@@ -543,102 +639,6 @@
       "duration_ms": 184186,
       "name": "Una Noche Tranquila",
       "url": "https://open.spotify.com/track/1ocn5kMVqFyYC7qXb2zLPk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quedate (Live)",
-        "url": "https://open.spotify.com/album/72eyHgIDWShgeAhq5kBETD"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Quedate - Live",
-      "url": "https://open.spotify.com/track/73CWEtik68Te87lTeI7AJS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Billetes Verdes (feat. Lui3o5)",
-        "url": "https://open.spotify.com/album/0FhGkeR10pErYL1PqlJJsZ"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Kuv507",
-          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
-        },
-        {
-          "name": "Latinnites Music",
-          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
-        },
-        {
-          "name": "Lui3o5",
-          "url": "https://open.spotify.com/artist/08TS0cq1oBlIIFVSsJhoe4"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Billetes Verdes",
-      "url": "https://open.spotify.com/track/5LJjbobrSykC4uyIdF0vW9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Entrando en Calor",
-        "url": "https://open.spotify.com/album/18zBSvPZKY9VQCmxQ6ODmV"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Jinzus",
-          "url": "https://open.spotify.com/artist/7IjLz8LTToOSNtI4cW5ZKg"
-        }
-      ],
-      "duration_ms": 192078,
-      "name": "Entrando en Calor",
-      "url": "https://open.spotify.com/track/2XwNe2mzPdrSTROqeiCEfj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pilita (feat. Paola Houghton & DJ Nanow) [Remix]",
-        "url": "https://open.spotify.com/album/7JWwcgZWtVS3fdx1RiwTRg"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Kuv507",
-          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
-        },
-        {
-          "name": "Latinnites Music",
-          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
-        },
-        {
-          "name": "Paola Houghton",
-          "url": "https://open.spotify.com/artist/0flWB3vtKFc8AQ3AzOtVZb"
-        },
-        {
-          "name": "Dj Nanow",
-          "url": "https://open.spotify.com/artist/3VX5T2YsDtpXkLseGJxXiz"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Pilita - Remix",
-      "url": "https://open.spotify.com/track/6Hk3cm82arTFxwfooQU1c6"
     }
   ],
   "unique_name": "This Is Engel Montaz",

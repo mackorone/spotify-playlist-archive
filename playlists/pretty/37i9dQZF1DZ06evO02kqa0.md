@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02kqa0.md) - [plain]
 
 > This is Maria Callas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,660 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,664 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02kqa0.md) - [plain]
 | 49 | [Madame Butterfly: Un bel di, vedremo](https://open.spotify.com/track/6oKWBxOT37SPyRkT6xHhH4) | [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E) | [BD Music Presents Maria Callas](https://open.spotify.com/album/55wZY2z70yepE5kDQ5UUQq) | 4:41 |
 | 50 | [Rossini: Il barbiere di Siviglia, Act 1: "Una voce poco fa" \(Rosina\)](https://open.spotify.com/track/1ywe4Q5CnMj7G1BgiMWVim) | [Gioachino Rossini](https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4), [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E), [Alceo Galliera](https://open.spotify.com/artist/4vkGRuqbcBXgDF2fkfLlNo), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Pure \- Maria Callas](https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO) | 6:24 |
 
-Snapshot ID: `Z/HEAAAAAAAYDeuA8tx1TNEr8EsAbblq`
+Snapshot ID: `Z/MVgAAAAABwcPyIuFuDekbOYWl6J4DW`

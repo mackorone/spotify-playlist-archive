@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdESa57YThAL.md) - [plain](/playlists/plain/37i9dQZF1DXdESa57YThAL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdESa57YThAL)
 
-### [Mushoku Tensei: Jobless Reincarnation 無職転生  ～異世界行ったら本気だす～ ](https://open.spotify.com/playlist/37i9dQZF1DXdESa57YThAL)
+### [Mushoku Tensei: Jobless Reincarnation](https://open.spotify.com/playlist/37i9dQZF1DXdESa57YThAL)
 
-> Music from "Mushoku Tensei: Jobless Reincarnation" /「無職転生  ～異世界行ったら本気だす～ 」の楽曲を1つのプレイリストで。©理不尽な孫の手/MFブックス/「無職転生Ⅱ」製作委員会
+> Music from "Mushoku Tensei: Jobless Reincarnation" ©理不尽な孫の手/MFブックス/「無職転生Ⅱ」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,551 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,561 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdESa57YThAL.md) - [plain]
 | 49 | [酒場](https://open.spotify.com/track/7csYAYlYl5twSoGsvMNIfk) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 第２期 オリジナル・サウンドトラック \(2\)](https://open.spotify.com/album/7E981QJx5UnrKXDosTS5I7) | 1:58 |
 | 50 | [悲愴](https://open.spotify.com/track/4Pgn4WnaqY00YupEXfzxkU) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 第２期 オリジナル・サウンドトラック \(2\)](https://open.spotify.com/album/7E981QJx5UnrKXDosTS5I7) | 2:41 |
 
-Snapshot ID: `ZsNB0AAAAAAHrC8TDJJ+bi1JpQtmPnOX`
+Snapshot ID: `Z/U9egAAAADv5zDM/XhnygCh2TDZ6H3C`

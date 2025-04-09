@@ -4,7 +4,7 @@
 
 > mostly furry
 
-320 songs - 16 hr 15 min
+321 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [ANTIHUMAN](https://open.spotify.com/track/3gUeMsbYV3mktmkknKWrnq) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [ANTIHUMAN](https://open.spotify.com/album/0qB4GkfoPpEbDawVEpfn8r) | 3:31 | 2023-11-20 |  |
 | [ANTIVILLAIN](https://open.spotify.com/track/5WQOTW68PnM96F67Zc8KRy) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [ANTIVILLAIN](https://open.spotify.com/album/1BzXmHRWqVaOQaQuMZdJ6s) | 4:11 | 2024-05-15 |  |
 | [Awake](https://open.spotify.com/track/7rx5aiUA7TEsHTK2zcQlZz) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [On My Way](https://open.spotify.com/album/1l9aUUdoUKf9dKZyoNaTPy) | 3:18 | 2024-05-15 |  |
+| [Baby You're a Haunted House](https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Baby You're a Haunted House](https://open.spotify.com/album/3OyBzPBEniYPTNgIIHfTXS) | 2:46 | 2025-04-08 |  |
 | [Bacon](https://open.spotify.com/track/63BJzQXdeI2cZB2KsdiU3Q) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Verplex Originals](https://open.spotify.com/album/43xO23OT1dvjB3XtCXuZu9) | 4:47 | 2024-08-03 |  |
 | [Bad Habits](https://open.spotify.com/track/1zGZwwP1xkbCqpKJNAOk4s) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Bad Habits](https://open.spotify.com/album/5XQXFd5eKHAK3kQ61Bd4Mm) | 3:55 | 2024-01-18 |  |
 | [Bean](https://open.spotify.com/track/2oRM0aHdSCy2UXvlqdciVw) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Bean](https://open.spotify.com/album/2QROPTNiSEd62NdRD9yC8a) | 3:32 | 2023-11-18 |  |

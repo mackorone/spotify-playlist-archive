@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > De mooiste liedjes van het moment\. Cover: KANE
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,500 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,469 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Older](https://open.spotify.com/track/6uTB06YRl5gDO8ua7t4jEE) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [Older](https://open.spotify.com/album/1esrwMzV3jEz0760LlIFU6) | 3:57 |
-| 2 | [Do You Want To Be Honest?](https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Do You Want To Be Honest?](https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ) | 3:32 |
-| 3 | [Stevie & Sly](https://open.spotify.com/track/3Qd2Xupp6z5UeBKbczux2h) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Stevie & Sly](https://open.spotify.com/album/6Jr0SS676UqNsVRxwpPdpM) | 4:02 |
-| 4 | [Can’t Fix Repeaters](https://open.spotify.com/track/79tQAvTMbRJagvWymtCMoR) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Can’t Fix Repeaters](https://open.spotify.com/album/0vbzibfVL5zJevWN13xbxY) | 3:21 |
-| 5 | [Malibu](https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Malibu](https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm) | 4:02 |
-| 6 | [If I Go](https://open.spotify.com/track/4SBoWIvwdTtPsNFzIPJwnt) | [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW) | [If I Go](https://open.spotify.com/album/0bTwQXhY0mGHfZeJwZNiXW) | 3:20 |
+| 2 | [If I Go](https://open.spotify.com/track/4SBoWIvwdTtPsNFzIPJwnt) | [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW) | [If I Go](https://open.spotify.com/album/0bTwQXhY0mGHfZeJwZNiXW) | 3:20 |
+| 3 | [Do You Want To Be Honest?](https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Do You Want To Be Honest?](https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ) | 3:32 |
+| 4 | [Stevie & Sly](https://open.spotify.com/track/3Qd2Xupp6z5UeBKbczux2h) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Stevie & Sly](https://open.spotify.com/album/6Jr0SS676UqNsVRxwpPdpM) | 4:02 |
+| 5 | [Can’t Fix Repeaters](https://open.spotify.com/track/79tQAvTMbRJagvWymtCMoR) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Can’t Fix Repeaters](https://open.spotify.com/album/0vbzibfVL5zJevWN13xbxY) | 3:21 |
+| 6 | [Malibu](https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Malibu](https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm) | 4:02 |
 | 7 | [This One's On The House](https://open.spotify.com/track/0rtgKV8GI1SBTDhBxh2jkg) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [This One's On The House](https://open.spotify.com/album/5BsfvWMM9xq24X92OwOhNX) | 3:37 |
 | 8 | [Man On The Moon](https://open.spotify.com/track/79Ee80FT85h56l8vzL6cUJ) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Man On The Moon](https://open.spotify.com/album/2DQVR2QaqkCVAdkEYmFuKb) | 2:39 |
 | 9 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 59 | [Evol Love](https://open.spotify.com/track/7muf6AxPAt2y32KiDgs0kB) | [Elske DeWall](https://open.spotify.com/artist/3iORog227J0qlfKXYHdR6M) | [Evol Love](https://open.spotify.com/album/5BRxmdYHo1szR8FoqKEunx) | 2:47 |
 | 60 | [Il Mare Calmo della Sera \(feat\. Chris Stapleton\)](https://open.spotify.com/track/6hIPQdA0r7ulZQFnMakEdh) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Duets \(30th Anniversary\)](https://open.spotify.com/album/0Iv3XfTgPnPqxPyCf9yt2C) | 4:35 |
 
-Snapshot ID: `Z++gFQAAAADDTyXru6wk8cTXEBWfw98k`
+Snapshot ID: `Z/UvfgAAAAA8rlktAcBTnOUJH4QbDhD7`

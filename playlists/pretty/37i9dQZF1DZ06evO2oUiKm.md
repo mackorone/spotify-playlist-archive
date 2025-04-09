@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 
 > This is Cynthia Erivo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,945 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,953 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 | 46 | [The Wizard And I \- Commentary](https://open.spotify.com/track/6jjHITTvyWcUboN8o7Pvcz) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Wicked: The Soundtrack \(Commentary\)](https://open.spotify.com/album/3SKe78ljCWiaGA2znAmGEs) | 0:46 |
 | 47 | [Take Me Away](https://open.spotify.com/track/7pYnM6Ot9LQjrkYfSy2V8a) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Scott Alan](https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy) | [Cynthia Erivo and Oliver Tompsett Sing Scott Alan](https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt) | 3:58 |
 | 48 | [The Temple](https://open.spotify.com/track/2KOH8NABdzZMGcfL4S9Hzz) | [A Broader Way Choir](https://open.spotify.com/artist/0Mh72dwufZuZhoXDkPfQ9q), [Morgan James](https://open.spotify.com/artist/56cxpytHZalu41uOraqsB4), [Orfeh](https://open.spotify.com/artist/5UCLo0DwCef9lexQS5bzhb), [Bridget Everett](https://open.spotify.com/artist/3lGCeZUVfMtPi31TZ6JJkI), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Tamika Lawrence](https://open.spotify.com/artist/4EluKx55HoQgTLTEeASX2r), [Shoshana Bean](https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5), [Ellyn Marie Marsh](https://open.spotify.com/artist/5NRsKBS8aOiSL4BcNHRgiD), [Ann Harada](https://open.spotify.com/artist/743OB85I8BftMRfuNAO1RS), [Bryonha Marie Parham](https://open.spotify.com/artist/1g9JVT9tpJAFmCac6ei8wq), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Debbie Gravitte](https://open.spotify.com/artist/2JpR9gbNPF9CetFECCP7RD), [Eden Espinosa](https://open.spotify.com/artist/1day3d1ZWCpu55cKqEEG7X), [Marva Hicks](https://open.spotify.com/artist/7nvSw8uZGQMB3ZXQ2mf3i6) | [Jesus Christ Superstar: Highlights From the All\-Female Studio Cast Recording](https://open.spotify.com/album/67Jg1hcxNYLXz3uEgkX4Kn) | 5:06 |
-| 49 | [One Short Day \- Commentary](https://open.spotify.com/track/1yF9QdRIImROyKlGT98C6e) | [Stephen Schwartz](https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk), [Stephen Oremus](https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Wicked: The Soundtrack \(Commentary\)](https://open.spotify.com/album/3SKe78ljCWiaGA2znAmGEs) | 2:27 |
+| 49 | [Ozdust Duet \(Bonus Track\) \- Commentary](https://open.spotify.com/track/58eg6kFZP3JLPoKOGCD6Ln) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Wicked: The Soundtrack \(Commentary\)](https://open.spotify.com/album/3SKe78ljCWiaGA2znAmGEs) | 1:28 |
 | 50 | [You're Not Alone](https://open.spotify.com/track/4ZbjHd0YJJCjT5Koi5Ubwq) | [Oliver Tompsett](https://open.spotify.com/artist/10uOf0MNfjh90mGfD1bS6Q), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Scott Alan](https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy) | [Cynthia Erivo and Oliver Tompsett Sing Scott Alan](https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt) | 3:36 |
 
-Snapshot ID: `Z/HEAAAAAAAfEqCMUQqJSOwMphX+06xk`
+Snapshot ID: `Z/MVgAAAAADXL8i+M7XrNJKzS8Y0CCBJ`

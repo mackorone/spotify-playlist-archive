@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Lil Yachty, Sexyy Red, Rod Wave and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,341 likes - 48 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,412 likes - 48 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 47 | [What You Want](https://open.spotify.com/track/7ekZQdTEbFA3GElh4WVv3x) | [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG) | [What You Want](https://open.spotify.com/album/1vtUDVP5fIl57KHOJkVahm) | 2:57 |
 | 48 | [Bong Rips](https://open.spotify.com/track/4HIOXqZ1hrKNs0Kh7oCoUk) | [Lord Sko](https://open.spotify.com/artist/4okQpk1QkE8PGtiwyakP4h), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [PIFF](https://open.spotify.com/album/2wDTF6ghW6pBtpQBEL6914) | 2:26 |
 
-Snapshot ID: `Z+9cKQAAAABLPV9EKW/WigTwt+nf/n2O`
+Snapshot ID: `Z/V1FgAAAADurO46YVfI4ajUjjStuEcs`

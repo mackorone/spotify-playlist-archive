@@ -2318,6 +2318,28 @@
     {
       "album": {
         "name": "scs",
+        "url": "https://open.spotify.com/album/7xr6VZrLvdYoqaigAxUAYx"
+      },
+      "artists": [
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        },
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266076,
+      "name": "scs",
+      "url": "https://open.spotify.com/track/55Oj2QpsowYcikRsKFxCee"
+    },
+    {
+      "album": {
+        "name": "scs",
         "url": "https://open.spotify.com/album/1P2mDmojDqS8CDDn6pOM7o"
       },
       "artists": [

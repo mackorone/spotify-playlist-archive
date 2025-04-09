@@ -4,7 +4,7 @@
 
 > This is Stefanie\. The essential tracks, all in one playlist.
 
-48 songs - 3 hr 34 min
+49 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Minha Parte](https://open.spotify.com/track/5YTQuJUHlsXUvclEgCxFVy) | [DJ Nato\_PK](https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W), [Enézimo](https://open.spotify.com/artist/5zYUMGYILLHjpsQwBJa3Xu), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe) | [Pau\-De\-Dá\-Em\-Doido 20 Anos](https://open.spotify.com/album/7jyDqfTi8OFOlXkx6Kc6pe) | 3:46 | 2025-04-01 |  |
 | [Minha Parte](https://open.spotify.com/track/5u0H6FMEotfZ97ps5AFcQj) | [DJ Nato\_PK](https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe) | [Pau\-de\-dá\-em\-Doido Mixtape Vol\. 01](https://open.spotify.com/album/7qmVSFFpB6EYDxrnDXASQU) | 3:26 | 2025-03-01 |  |
 | [Minha Parte](https://open.spotify.com/track/16YONjMPRBd8tVd3QnhxTl) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [DJ Nato\_PK](https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W) | [Minha Parte](https://open.spotify.com/album/0pfFMEfzWiixzoC7RR1O9e) | 3:48 | 2023-09-18 | 2025-04-01 |
-| [Muita Calma](https://open.spotify.com/track/7ID70qexcXsxTQpaEYTltY) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Tatiana](https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8) | [Muita Calma](https://open.spotify.com/album/5KkvAHSMPWKCNH72Pdt8TL) | 3:30 | 2023-09-18 |  |
+| [Muita Calma](https://open.spotify.com/track/6GtFum9gSK5ig4tmZa1kVR) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Tatiana](https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8) | [Muita Calma](https://open.spotify.com/album/6pqhOGkkDJkSCSwF4ylGQj) | 3:30 | 2025-04-09 |  |
+| [Muita Calma](https://open.spotify.com/track/7ID70qexcXsxTQpaEYTltY) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Tatiana](https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8) | [Muita Calma](https://open.spotify.com/album/5KkvAHSMPWKCNH72Pdt8TL) | 3:30 | 2023-09-18 | 2025-04-09 |
 | [Muita Calma \- Vincee Remix](https://open.spotify.com/track/2xnpqRt8QR8jYDXGjU3yDQ) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Tatiana](https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8), [Vincee](https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN) | [Muita Calma](https://open.spotify.com/album/1izapaaWqVClmLOHsW2mY2) | 3:38 | 2023-12-29 | 2024-01-01 |
 | [Mulher MC](https://open.spotify.com/track/1T50N1Bgsq9uzPQRQikQoN) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Dj Will](https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX) | [Mulher MC](https://open.spotify.com/album/4d1LMcSwAHx9U06d1Kiosh) | 3:55 | 2023-09-18 |  |
 | [Na Atividade \(feat\. IZA\)](https://open.spotify.com/track/5QMXwNwtiPrHUBngQ1u3q8) | [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Rafael Porrada](https://open.spotify.com/artist/2vo894WKHL8iUZkm0Ory1z) | [Na Atividade \(feat\. IZA\)](https://open.spotify.com/album/4h1LY8YXe9xLXZl3wmU4gR) | 2:20 | 2023-09-18 |  |

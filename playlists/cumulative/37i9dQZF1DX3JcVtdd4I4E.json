@@ -453,6 +453,32 @@
     },
     {
       "album": {
+        "name": "Buffalo Stance",
+        "url": "https://open.spotify.com/album/2PgI6x9bRitaXcU2Omh1HQ"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+          "name": "Neneh Cherry",
+          "url": "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
+        },
+        {
+          "name": "Mapei",
+          "url": "https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307546,
+      "name": "Buffalo Stance",
+      "url": "https://open.spotify.com/track/1cz1jiZlsUlKbHAkJZ2Pec"
+    },
+    {
+      "album": {
         "name": "Ciao",
         "url": "https://open.spotify.com/album/6RqUuLYatToNg8HQuZoxgE"
       },
@@ -2418,7 +2444,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 166668,
       "name": "SUPERSONIC",
       "url": "https://open.spotify.com/track/4q7R7pOqr3gNj7VJpgwTKu"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=zle8hO3aSqOvbB2JoADlSA"> Khaligraph Jones</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,776 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,787 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 9 | [Soko](https://open.spotify.com/track/33p9VjVf359CsBbvoTmBvi) | [King Kaka](https://open.spotify.com/artist/36di6g7Y2kPVJAqOoKl7QS), [Scar Mkadinali](https://open.spotify.com/artist/6363dzl0V4oo6zEln0Pyud), [Sewersydaa](https://open.spotify.com/artist/4Fpbih3XlDuUndqbIOh1Vm) | [Soko](https://open.spotify.com/album/1RHiQAwgzKdy1KPLsw82wV) | 3:37 |
 | 10 | [Chinje](https://open.spotify.com/track/5JO1evNqPbkzI4WfUb3VYL) | [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [Chinje](https://open.spotify.com/album/10bofBAyhS6uXTHM1SyYzj) | 3:31 |
 | 11 | [1 of 1](https://open.spotify.com/track/6hDTK2zfY3dL6K1GFRBR22) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [To Whom It May Concern](https://open.spotify.com/album/4QlwqxdrSVolU2dcaHzfx9) | 3:30 |
-| 12 | [G sign](https://open.spotify.com/track/3YS92rJ94jZRtL5JYRcnXf) | [NIGGA SHAWN](https://open.spotify.com/artist/7a05bd7Aa7CPqmjvlEfPt9), [Mauru Gwash](https://open.spotify.com/artist/7At4VH2SHRSwnKzxRtYlra), [Thirtyfourbrick](https://open.spotify.com/artist/48XeNpn6zhdPuA1f1Ag0Rt) | [G sign](https://open.spotify.com/album/3pPfFQBcuBlQPSufRCMNkC) | 2:14 |
+| 12 | [G sign](https://open.spotify.com/track/3YS92rJ94jZRtL5JYRcnXf) | [NIGGA SHAWN](https://open.spotify.com/artist/7a05bd7Aa7CPqmjvlEfPt9), [Mauru Gwash](https://open.spotify.com/artist/7At4VH2SHRSwnKzxRtYlra) | [G sign](https://open.spotify.com/album/3pPfFQBcuBlQPSufRCMNkC) | 2:14 |
 | 13 | [Twende Sana.](https://open.spotify.com/track/0t4J25ssovJn9bKc8CG9dV) | [HITMAN KAHT](https://open.spotify.com/artist/6kPTEaWcNadrTgbT89FmNi), [34GVNG](https://open.spotify.com/artist/3PcH8OctDvsGvWpbmTyWkE) | [TRAP VS TRAPUKA \(2018\)](https://open.spotify.com/album/0kyB1gVkFcP9LuibiiuKnV) | 3:33 |
 | 14 | [Kama Hauna](https://open.spotify.com/track/5FAUAybpi9AwTREnSlPVwq) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X), [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [Kama Hauna](https://open.spotify.com/album/5Z0AVgJASlT7QPAdEzfkCy) | 3:00 |
 | 15 | [SSF](https://open.spotify.com/track/4IoBPRuIs7xjSz8yO7xZNe) | [DTX](https://open.spotify.com/artist/1LbAw7swSIJ3xv0vgyaFws), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU), [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [SSF](https://open.spotify.com/album/1BkIc1BQnqF1ztqYGxR7Wq) | 2:58 |

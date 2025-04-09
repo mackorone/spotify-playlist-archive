@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,957 songs - 1 day 15 hr 44 min
+1,958 songs - 1 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -772,6 +772,7 @@
 | [Going Home](https://open.spotify.com/track/2Hus16RfZ3pJNoM2IsP7Aw) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Homeward Bound](https://open.spotify.com/album/2hNoqAr3GbLHwASZS5mmTU) | 1:01 | 2022-04-16 |  |
 | [Going North](https://open.spotify.com/track/08XFH7UTaVpmhK38MguwUM) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Going North](https://open.spotify.com/album/0QdsSUZTUScziIFasuagEg) | 1:01 | 2023-04-19 | 2024-02-13 |
 | [Going North Arr\. For Strings](https://open.spotify.com/track/2dPfWJvImcjVpdRjYVhQCI) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Going North](https://open.spotify.com/album/0QdsSUZTUScziIFasuagEg) | 1:01 | 2024-02-09 | 2024-02-13 |
+| [Golden Light](https://open.spotify.com/track/519vUEcwV18g6Lc7wTb97r) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Golden Light](https://open.spotify.com/album/7x8ycVaxoVLgt1zMaK7pPN) | 1:00 | 2025-04-08 |  |
 | [Golden Night](https://open.spotify.com/track/3rLYIOa93a8cSYKVLsELpW) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Golden Night](https://open.spotify.com/album/6RF7vEnzwtlWvhTJM0NYGQ) | 1:00 | 2024-11-08 |  |
 | [Golden Skies \- Cello Version](https://open.spotify.com/track/3tizcaa245wERO7soneRVw) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Golden Skies](https://open.spotify.com/album/2P4HJJDnetceOGwG86WP19) | 1:05 | 2024-02-09 | 2024-02-13 |
 | [Good Morning](https://open.spotify.com/track/0YFqidv3yNt9naIeAhVTU3) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Good Morning](https://open.spotify.com/album/4zNIxgnLyLAQoBqPbsMcAx) | 1:00 | 2024-11-29 |  |

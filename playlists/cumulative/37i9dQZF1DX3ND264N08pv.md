@@ -4,7 +4,7 @@
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-322 songs - 17 hr 46 min
+323 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Hardcore By Nature \(Official Titanium Festival 2022 Anthem\) \- Radio Edit](https://open.spotify.com/track/4Vss1bAPHkVTVbxURknLwL) | [Cryogenic](https://open.spotify.com/artist/3JkD7HM6gEzgOMm9kwzunN), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E), [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Hardcore By Nature](https://open.spotify.com/album/2izAsrxlJDLFuDSCRBfsjQ) | 3:21 | 2022-12-08 | 2023-06-30 |
 | [Hardcore Chemical \- Rulebreaking Hard Mix](https://open.spotify.com/track/4vaXwFEcHq4yBTMmRBdK35) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [Hardcore Chemical \(Rulebreaking Hard Mix\)](https://open.spotify.com/album/0B5LofZay2fmX3K9pOIFcW) | 1:36 | 2023-10-12 | 2024-09-10 |
 | [Hardcore Life](https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Hardcore Life](https://open.spotify.com/album/4XMlZ6SusR7WeZX0O9aP6w) | 2:45 | 2024-01-24 |  |
-| [Hardcore MF](https://open.spotify.com/track/0hLTLlucRrfvDDng4954pc) | [Access One](https://open.spotify.com/artist/2yH3lflCSPqb8jI0MKmbPh) | [Hardcore MF](https://open.spotify.com/album/7ahAMYkwgCm0bCNTm4b5kS) | 2:46 | 2024-11-18 |  |
+| [Hardcore MF](https://open.spotify.com/track/0hLTLlucRrfvDDng4954pc) | [Access One](https://open.spotify.com/artist/2yH3lflCSPqb8jI0MKmbPh) | [Hardcore MF](https://open.spotify.com/album/7ahAMYkwgCm0bCNTm4b5kS) | 2:46 | 2024-11-18 | 2025-04-09 |
 | [Hardcore Style](https://open.spotify.com/track/1uS5kcnuELQLIVSaYoBJpr) | [Dj Mad Dog](https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4) | [The Bones Collection](https://open.spotify.com/album/46UvKuPSGJm7KLJDtWsVsR) | 3:20 | 2022-12-08 | 2023-09-15 |
 | [HARI HARI \(2024 RMX\)](https://open.spotify.com/track/7huXZkJSKKIdk9kEQ5jvYU) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Ender](https://open.spotify.com/artist/4dm7VRRO7tspAt2XuwEMNw) | [HARI HARI \(2024 RMX\)](https://open.spotify.com/album/21TAQ8FTR3StxaSFckS4MM) | 3:16 | 2024-01-24 | 2024-02-09 |
 | [Heartquake](https://open.spotify.com/track/5KXOVRegnjDDTyDC4P29kE) | [Dr Donk](https://open.spotify.com/artist/0NirwTOv2qvuXsNNZkDPNu), [Goblin Grave](https://open.spotify.com/artist/1z54PqrKf4Z6qRhdxbK6k2) | [Heartquake](https://open.spotify.com/album/1yANHCdK6mKBeV8bVdVkoQ) | 2:24 | 2024-08-02 | 2024-11-09 |
@@ -142,6 +142,7 @@
 | [Holy Calamity](https://open.spotify.com/track/6HoXL0kFn6H99viqiREro4) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Holy Calamity](https://open.spotify.com/album/5mwT15uedaCd2Q46Sokapj) | 2:41 | 2025-01-10 |  |
 | [HUSTLING](https://open.spotify.com/track/7ySDKaBTtBlF9xrqQLv3vv) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [BLACK FREQUENCY](https://open.spotify.com/artist/6npcGVRXFdD99Gcv9AKaaH) | [HUSTLING](https://open.spotify.com/album/7LoYny56xOCivnclKkPgX7) | 3:03 | 2025-03-20 |  |
 | [HYPER](https://open.spotify.com/track/4GbecipoI4oyDE148vjkde) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [HYPER](https://open.spotify.com/album/5nONZdOuEns5bTt2y6Mbcg) | 3:26 | 2023-06-08 | 2024-12-13 |
+| [Hyperdrive](https://open.spotify.com/track/7JnrqZRZP7ljj1swQO5BZS) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh) | [Hyperdrive](https://open.spotify.com/album/7pQ39s40hUFkwZDEcFJJiW) | 2:13 | 2025-04-04 |  |
 | [Hypnosis](https://open.spotify.com/track/77WTQNkAcCLStiMBWVySK9) | [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN) | [Hypnosis](https://open.spotify.com/album/2NaIPARHXxQq8HFpPPThTX) | 2:24 | 2022-12-08 | 2023-03-07 |
 | [I AM](https://open.spotify.com/track/6GN7ZWNNqgVZl7t3dgH6ot) | [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [I AM](https://open.spotify.com/album/3vumUha7zafLsiFJAjQBuy) | 3:01 | 2023-11-02 | 2024-05-03 |
 | [I Can't Get It \- Antenora Remix](https://open.spotify.com/track/1bhesHmu17ln9SRknpmTs4) | [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n), [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq), [Antenora](https://open.spotify.com/artist/72SQfmyjszuSw1SNoNWpvz) | [I Can't Get It \(Antenora Remix\)](https://open.spotify.com/album/1nM9qbaXBGtSi3YDWkw58H) | 2:44 | 2024-08-30 | 2024-11-09 |

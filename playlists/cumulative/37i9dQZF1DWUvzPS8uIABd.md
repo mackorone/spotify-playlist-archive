@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit\. 🍒 Kannessa Evelina.
 
-504 songs - 1 day 1 hr 16 min
+505 songs - 1 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Jäävuorii](https://open.spotify.com/track/17KVNRBrEV9Y1l0l6jbr3t) | [RODEO](https://open.spotify.com/artist/0LjFLVs8xGlfyPxUZrG5NZ), [Anna Puu](https://open.spotify.com/artist/4gl9wpGYA4o15ykU2FBnd3), [Erin](https://open.spotify.com/artist/5H34mYQz0gLcqPWIOTyDaJ), [Ida Paul](https://open.spotify.com/artist/69pjn3Oxt0azUYEw9NE4S0) | [Jäävuorii](https://open.spotify.com/album/3LKRIasfmbfoFhFQJZ5a5O) | 4:05 | 2025-03-06 |  |
 | [Kahden kodin välissä](https://open.spotify.com/track/0WmEqqcDxWSuwAVCQXcNpw) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Kahden kodin välissä](https://open.spotify.com/album/4VlMThUaPVmk7gyuuUMWh6) | 3:06 | 2024-11-21 | 2025-01-03 |
 | [Kahden sydämen törmäys](https://open.spotify.com/track/0euUqu9VKnJANjO33EG9CT) | [Anssi Kela](https://open.spotify.com/artist/7ISARfXENNWqIhKcO6kyrG) | [Kahden sydämen törmäys](https://open.spotify.com/album/6grirshEGLT9DRl5yxy7XC) | 3:40 | 2024-09-26 | 2024-10-25 |
+| [Kaihosielu](https://open.spotify.com/track/6bh5bVJ3agYEEZAduje0Zu) | [Komiat](https://open.spotify.com/artist/3AmLhgSu80YTQarQMWXwna) | [Kaihosielu](https://open.spotify.com/album/3DrQkAh6kHbcxVPJd71vaI) | 2:45 | 2025-04-08 |  |
 | [Kaikesta puolet saat](https://open.spotify.com/track/1m6IUZGor6ZLJ59K2ZLWVD) | [Anssi Kela](https://open.spotify.com/artist/7ISARfXENNWqIhKcO6kyrG) | [Kaikesta puolet saat](https://open.spotify.com/album/4Z5eyDEWouCsw2xpGZu2Cg) | 3:47 | 2025-01-16 | 2025-03-07 |
 | [Kaikki hyvin \(feat\. Pikku G\)](https://open.spotify.com/track/0qAygKPxprmvhBStKotsdp) | [Leo Stillman](https://open.spotify.com/artist/20blWBSxe4aB64OVppgpld), [Pikku G](https://open.spotify.com/artist/52k2KcEXIZTnYD2EpOoJiZ) | [Ihmiset & ongelmat](https://open.spotify.com/album/65XJMEVfqyrETikUgxreps) | 2:43 | 2024-09-12 | 2024-10-25 |
 | [Kaikki Menee!](https://open.spotify.com/track/04x88ZQsjsEdYQcfM6bZ3S) | [Petri Nygård](https://open.spotify.com/artist/4l0zTor5S32Yly4uw96Bto) | [Kaikki Menee!](https://open.spotify.com/album/14s2JQLCpc7tZ93pT8LDtI) | 2:34 | 2024-10-24 | 2024-11-08 |

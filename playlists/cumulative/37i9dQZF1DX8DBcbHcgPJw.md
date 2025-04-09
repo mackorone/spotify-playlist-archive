@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: The La Planta & Salstkbron.
 
-623 songs - 1 day 6 hr 55 min
+624 songs - 1 day 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Cuando Se Pone a Bailar](https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Cuando Se Pone a Bailar](https://open.spotify.com/album/2PnTfdBKqkOYtazDgtClqX) | 3:15 | 2021-12-23 |  |
 | [Culpable](https://open.spotify.com/track/47MMJy4ZaE28ApRUipoddu) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [Culpable](https://open.spotify.com/album/6T85XAZkuYE9NqkMzMfdF2) | 2:51 | 2025-01-31 | 2025-04-05 |
 | [Culpable o No](https://open.spotify.com/track/0PNkST00gopYa35OLKfju2) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Culpable o No](https://open.spotify.com/album/7cpSPJeI3YMC56xp7lsz19) | 2:17 | 2021-12-23 | 2022-05-07 |
-| [Cumbia Cheta](https://open.spotify.com/track/5KTSHYA5CetGTZuRYYJcHi) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Cami Raj](https://open.spotify.com/artist/18Kdk0oWKMg7P4601cD4dZ) | [Cumbia Cheta](https://open.spotify.com/album/5AStnZOfpqxI4IsemDUdkn) | 2:31 | 2023-11-23 |  |
+| [Cumbia Cheta](https://open.spotify.com/track/5KTSHYA5CetGTZuRYYJcHi) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Cami Raj](https://open.spotify.com/artist/18Kdk0oWKMg7P4601cD4dZ) | [Cumbia Cheta](https://open.spotify.com/album/5AStnZOfpqxI4IsemDUdkn) | 2:31 | 2023-11-23 | 2025-04-09 |
 | [Cumbia Con Soda \- En Vivo](https://open.spotify.com/track/2jW6blJZO7ZgBICluafKRl) | [Pasto Seco](https://open.spotify.com/artist/5il1LfQizqVTfjSzhi1bt7) | [Cumbia Con Soda \(En Vivo\)](https://open.spotify.com/album/70luQUrkuFFdxBtmUe7GkK) | 3:32 | 2022-06-17 | 2022-07-02 |
 | [Cumbia de Antes](https://open.spotify.com/track/4oXjgj94T3tEagqvv8npZV) | [Olvidate!](https://open.spotify.com/artist/7Czvx73uua4PB239Dza1Je) | [Cumbia de Antes](https://open.spotify.com/album/4nBcpRMyEjq1BBdD5ichS3) | 3:12 | 2023-10-13 | 2023-10-21 |
 | [CUMBIA DE BARRIO](https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [CUMBIA DE BARRIO](https://open.spotify.com/album/3ULiklyFhamKh3S2B9zwbZ) | 3:01 | 2022-12-02 |  |
@@ -249,6 +249,7 @@
 | [La Mejor Version de Mi](https://open.spotify.com/track/0pwXUemxF0MAxHLByqQcO5) | [Las Culisueltas](https://open.spotify.com/artist/6GfDEGpIgzDdxCBpNCF4Np), [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [La Mejor Version de Mi](https://open.spotify.com/album/4sBpf2QiY1jFTSYB7kcWwV) | 1:52 | 2021-12-23 | 2022-07-29 |
 | [La Miel de tus Labios](https://open.spotify.com/track/3EDxQ3gLqiwZ8huUV7C7iw) | [El Tecla](https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH), [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8), [Debora](https://open.spotify.com/artist/4MFYWIUUwy9yzkVaMSyuYk) | [La Miel de tus Labios](https://open.spotify.com/album/3QevNj68ma5ZlME2WVUmoM) | 3:10 | 2024-03-22 | 2024-03-30 |
 | [La Morocha](https://open.spotify.com/track/7yWyATh93r0zfgkgwknX1Y) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Viernes Random \#2](https://open.spotify.com/album/2HqthFTXLYEV5adxyKWqYU) | 1:32 | 2024-02-16 | 2024-02-24 |
+| [La Más Amada del País](https://open.spotify.com/track/5FkdJAMh2z0ZQfxbUZXhRn) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [La Más Amada del País](https://open.spotify.com/album/5INAZepCtHQEin7PlHYZ4S) | 2:51 | 2025-04-04 |  |
 | [La Niña de la Escuela](https://open.spotify.com/track/5IGCRt7HPv2A2s32Cddyhg) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [La Niña de la Escuela](https://open.spotify.com/album/1fJ1PKGAM576nQKS98dCxf) | 2:01 | 2022-01-03 | 2022-07-28 |
 | [LA NOCHE ME LLAMA](https://open.spotify.com/track/2QAlRJvK7NxJkVAC6YrhHX) | [El Mala](https://open.spotify.com/artist/1LSYfRidvKN3sUXOg8HDWC) | [LA NOCHE ME LLAMA](https://open.spotify.com/album/7yeSnlrZhNYnX1qixjnxXI) | 1:53 | 2024-05-10 | 2024-06-08 |
 | [La Noche No Es para Dormir](https://open.spotify.com/track/07ZHn1csuJvAQAZiYFds12) | [Mano Arriba](https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp) | [Cumbia Baby!](https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG) | 3:19 | 2022-07-22 | 2024-04-19 |

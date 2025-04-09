@@ -4,29 +4,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIFbsBStcyg.md) - [plain]
 
 > Music From "BEASTARS"! 主題歌、挿入歌、サントラで辿る「BEASTARS」の世界! \(C\) 板垣巴留（秋田書店）／BEASTARS製作委員
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,978 likes - 51 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,987 likes - 51 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Feel Like This](https://open.spotify.com/track/4I1JA2Iv5wSTA2mN2wKDh5) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Feel Like This](https://open.spotify.com/album/7tUMr3wPoPlP7IGIFcfXjW) | 3:48 |
-| 2 | [Wild Side](https://open.spotify.com/track/2RSPQJ483jRL1KNtMuKqgh) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Wild Side](https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY) | 2:38 |
-| 3 | [怪物](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [怪物](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 3:26 |
+| 1 | [Wild Side](https://open.spotify.com/track/2RSPQJ483jRL1KNtMuKqgh) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Wild Side](https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY) | 2:38 |
+| 2 | [怪物](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [怪物](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 3:26 |
+| 3 | [Feel Like This](https://open.spotify.com/track/4I1JA2Iv5wSTA2mN2wKDh5) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Feel Like This](https://open.spotify.com/album/7tUMr3wPoPlP7IGIFcfXjW) | 3:48 |
 | 4 | [BEASTARS](https://open.spotify.com/track/1Iiq3tVtUZF0y8TYRENOHv) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック](https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH) | 1:18 |
 | 5 | [Many Stories\-epilogue\-](https://open.spotify.com/track/0rfB4kWjCRkrNWMzKBNdto) | [Chica](https://open.spotify.com/artist/7vjO0NvBdNmLrE1sljP7VQ) | [TVアニメ「BEASTARS」オリジナルサウンドトラック2](https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI) | 2:21 |
 | 6 | [Monster](https://open.spotify.com/track/7M9lc2hHXKQobbHQ31Yg2v) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Monster](https://open.spotify.com/album/3GUW4WpvJPXgzsOW1hVifv) | 3:25 |
-| 7 | [Comet](https://open.spotify.com/track/7LrT6Lpn0hOQ58pbBP6D2M) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE](https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R) | 3:33 |
-| 8 | [優しい彗星](https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [優しい彗星](https://open.spotify.com/album/2JTvRXbEc1JGPrlKC435Jf) | 3:35 |
-| 9 | [Many Stories](https://open.spotify.com/track/6HoAoNkxpkqRd0uClplvZz) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック](https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH) | 2:21 |
-| 10 | [Le zoo](https://open.spotify.com/track/4MD7NIoJrvqTveOK8yyBZ6) | [YURiKA](https://open.spotify.com/artist/69nJcqdEQREOnXx4VFAdkS) | [TVアニメ「BEASTARS」エンディングテーマ「Le zoo」 \(アニメ盤\)](https://open.spotify.com/album/0twpxDNTcXnEkGuSvs7B7O) | 4:59 |
-| 11 | [眠れる本能](https://open.spotify.com/track/4x3g8bpzufkxRPox2jnPXA) | [YURiKA](https://open.spotify.com/artist/69nJcqdEQREOnXx4VFAdkS) | [TVアニメ「BEASTARS」エンディングテーマ「Le zoo」 \(アニメ盤\)](https://open.spotify.com/album/0twpxDNTcXnEkGuSvs7B7O) | 4:33 |
-| 12 | [マーブル](https://open.spotify.com/track/0enY7XMbYUYLl82cLtmIgX) | [YURiKA](https://open.spotify.com/artist/69nJcqdEQREOnXx4VFAdkS) | [TVアニメ「BEASTARS」エンディングテーマ「Le zoo」 \(アニメ盤\)](https://open.spotify.com/album/0twpxDNTcXnEkGuSvs7B7O) | 4:53 |
-| 13 | [月に浮かぶ物語](https://open.spotify.com/track/1n1RtW2V8PKoOhO2p1cTth) | [YURiKA](https://open.spotify.com/artist/69nJcqdEQREOnXx4VFAdkS) | [月に浮かぶ物語](https://open.spotify.com/album/5dRHgyZnZiO4Hks792iU2X) | 4:34 |
-| 14 | [A Tale of Moon](https://open.spotify.com/track/6kPD2kV1rvSin87qEh4Rii) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック](https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH) | 0:54 |
-| 15 | [BEASTARS\-don't forget\-](https://open.spotify.com/track/5vLpTu5TNUnsAGD7vLMyjM) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック2](https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI) | 3:32 |
-| 16 | [ROUIS's feelings\-reliable boss\-](https://open.spotify.com/track/1KxGDOvkbAF0eziOQ7JCch) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック2](https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI) | 2:38 |
-| 17 | [Moonlight dance](https://open.spotify.com/track/02mm3vS5WtkGb6PwaiTAXC) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック2](https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI) | 2:01 |
-| 18 | [Beautiful memory](https://open.spotify.com/track/2MsuSP53gyAD5e8h0Nf8tE) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック2](https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI) | 1:38 |
-| 19 | [JUNO is in love](https://open.spotify.com/track/3r4X4pzmLDPmGVK9cBbjlp) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック](https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH) | 2:30 |
+| 7 | [優しい彗星](https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [優しい彗星](https://open.spotify.com/album/2JTvRXbEc1JGPrlKC435Jf) | 3:35 |
+| 8 | [Many Stories](https://open.spotify.com/track/6HoAoNkxpkqRd0uClplvZz) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック](https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH) | 2:21 |
+| 9 | [BEASTARS\-don't forget\-](https://open.spotify.com/track/5vLpTu5TNUnsAGD7vLMyjM) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック2](https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI) | 3:32 |
+| 10 | [Comet](https://open.spotify.com/track/7LrT6Lpn0hOQ58pbBP6D2M) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE](https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R) | 3:33 |
+| 11 | [JUNO is in love](https://open.spotify.com/track/3r4X4pzmLDPmGVK9cBbjlp) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック](https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH) | 2:30 |
+| 12 | [Le zoo](https://open.spotify.com/track/4MD7NIoJrvqTveOK8yyBZ6) | [YURiKA](https://open.spotify.com/artist/69nJcqdEQREOnXx4VFAdkS) | [TVアニメ「BEASTARS」エンディングテーマ「Le zoo」 \(アニメ盤\)](https://open.spotify.com/album/0twpxDNTcXnEkGuSvs7B7O) | 4:59 |
+| 13 | [眠れる本能](https://open.spotify.com/track/4x3g8bpzufkxRPox2jnPXA) | [YURiKA](https://open.spotify.com/artist/69nJcqdEQREOnXx4VFAdkS) | [TVアニメ「BEASTARS」エンディングテーマ「Le zoo」 \(アニメ盤\)](https://open.spotify.com/album/0twpxDNTcXnEkGuSvs7B7O) | 4:33 |
+| 14 | [マーブル](https://open.spotify.com/track/0enY7XMbYUYLl82cLtmIgX) | [YURiKA](https://open.spotify.com/artist/69nJcqdEQREOnXx4VFAdkS) | [TVアニメ「BEASTARS」エンディングテーマ「Le zoo」 \(アニメ盤\)](https://open.spotify.com/album/0twpxDNTcXnEkGuSvs7B7O) | 4:53 |
+| 15 | [月に浮かぶ物語](https://open.spotify.com/track/1n1RtW2V8PKoOhO2p1cTth) | [YURiKA](https://open.spotify.com/artist/69nJcqdEQREOnXx4VFAdkS) | [月に浮かぶ物語](https://open.spotify.com/album/5dRHgyZnZiO4Hks792iU2X) | 4:34 |
+| 16 | [A Tale of Moon](https://open.spotify.com/track/6kPD2kV1rvSin87qEh4Rii) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック](https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH) | 0:54 |
+| 17 | [ROUIS's feelings\-reliable boss\-](https://open.spotify.com/track/1KxGDOvkbAF0eziOQ7JCch) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック2](https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI) | 2:38 |
+| 18 | [Moonlight dance](https://open.spotify.com/track/02mm3vS5WtkGb6PwaiTAXC) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック2](https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI) | 2:01 |
+| 19 | [Beautiful memory](https://open.spotify.com/track/2MsuSP53gyAD5e8h0Nf8tE) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック2](https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI) | 1:38 |
 | 20 | [Beautiful PINA](https://open.spotify.com/track/2JUO9eiOHJF3gbDLgIQMXH) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック2](https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI) | 1:29 |
 | 21 | [I'm SIX EYES!](https://open.spotify.com/track/5TSbjg5SOnJTAWNe8hMhV2) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック2](https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI) | 3:49 |
 | 22 | [Between the Soil & Skyline](https://open.spotify.com/track/3xVMJ4l03jXOkNjHn1r3bg) | [Aztech](https://open.spotify.com/artist/5BwHAtNpcEoDlIQqaBCBvc) | [TVアニメ「BEASTARS」オリジナルサウンドトラック2](https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI) | 2:38 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIFbsBStcyg.md) - [plain]
 | 50 | [「怪物」原作「自分の胸に自分の耳を押し当てて」板垣巴留](https://open.spotify.com/track/405SMhw5iHVNLeiYdX2uJQ) | [小林親弘](https://open.spotify.com/artist/3MxQSv3Aor49FCaki1Vfql) | [YOASOBI THE BOOK 2 SPOTIFY EDITION](https://open.spotify.com/album/0V8jsT3W9BHVUiq4rJAY2H) | 8:34 |
 | 51 | [「優しい彗星」原作「獅子座流星群のままに」板垣巴留](https://open.spotify.com/track/6IZCwR01FZDfN5lr2gGHl0) | [小野友樹](https://open.spotify.com/artist/7tCijmBsVuU68ChD05AXEk) | [YOASOBI THE BOOK 2 SPOTIFY EDITION](https://open.spotify.com/album/0V8jsT3W9BHVUiq4rJAY2H) | 9:20 |
 
-Snapshot ID: `Z1hXcAAAAACjCxs1iStuo7pd/odBtd7g`
+Snapshot ID: `Z/U8HgAAAAABBfhrzGvLKCiCtfxy5lG0`

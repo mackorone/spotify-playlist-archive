@@ -4,7 +4,7 @@
 
 > Strictly for the streets\. Cover: Lil Durk
 
-1,783 songs - 3 day 9 hr 45 min
+1,784 songs - 3 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1202,6 +1202,7 @@
 | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l) | 3:45 | 2023-07-07 | 2023-11-06 |
 | [Pookie](https://open.spotify.com/track/2mrsqFcUqu3eLxb471SFnc) | [Q Da Fool](https://open.spotify.com/artist/17kq4sCvn1nVcVvWV9Ribi), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Pookie](https://open.spotify.com/album/3poMsQ7aurYheJLuUY4P6D) | 2:58 | 2024-08-02 | 2024-08-10 |
 | [Pop Out](https://open.spotify.com/track/6etEk6dGTEGhHjZVNnXAQS) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Pop Out](https://open.spotify.com/album/5ZzZ1XMscoXLbTUcCRWvFV) | 2:33 | 2023-04-21 | 2023-06-10 |
+| [Pop Shii](https://open.spotify.com/track/4CMukSEsqFRKXuXXPWMxMY) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR) | [Pop Shii](https://open.spotify.com/album/0yZVETaEQhgGxNT3h45gJF) | 2:16 | 2025-04-08 |  |
 | [pop ur shit](https://open.spotify.com/track/47yD0e9MCRIB8dgUXPfyW3) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:13 | 2024-01-12 | 2024-03-30 |
 | [Poppin Out](https://open.spotify.com/track/5juXrMWQdt8hfyN7urFOJo) | [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC) | [500k Degrees](https://open.spotify.com/album/0mnyS3LjbZM1gQfG5PoAec) | 2:21 | 2024-08-23 | 2024-08-31 |
 | [Possum](https://open.spotify.com/track/2Evh26F6sbSt4u0vaGvzza) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Possum](https://open.spotify.com/album/2SwYlgOOYmzjz4B3NUYlsZ) | 1:59 | 2024-10-18 | 2024-10-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7GbHglX84yopo1gvURMV0X">Lindy Cofer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53 likes - 38 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 53 likes - 37 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 | 34 | [It Is Written \- Live](https://open.spotify.com/track/1OeByuvv5fVL9hxEVhtb0P) | [Women Who Worship](https://open.spotify.com/artist/7JHvic6eP3yMrUCrRFtdbp), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6) | [Women Who Worship \(Live\)](https://open.spotify.com/album/58A73mFc94fFlVhbX31Bf9) | 8:04 |
 | 35 | [We Say Yes](https://open.spotify.com/track/6OWD4D56Xnpa91Uu0tCIX6) | [Tito & Jessica Tosado](https://open.spotify.com/artist/09H2m7JYzvkXyvyaItqE6p) | [Victorious](https://open.spotify.com/album/6LlVIVnpne75qIbHCAcrpz) | 6:24 |
 | 36 | [Nothing You Can't Do](https://open.spotify.com/track/16ibtW4CG0OdbCuI45cc2B) | [Sean Feucht](https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi) | [Let Us Worship \- Kingdom to the Capitol](https://open.spotify.com/album/5PaeB0wIctrq829QPHekdo) | 5:44 |
-| 37 | [I Say Yes](https://open.spotify.com/track/4cl5wJGNPFG8JCMuV0nrSc) | [Kyle & Lauren Smith](https://open.spotify.com/artist/2QQVbCqlBTX8dADl321HGM) | [Kyle & Lauren Smith](https://open.spotify.com/album/66jZaiCUO5d3hLz4U2MJ89) | 7:42 |
-| 38 | [Jesus the Beloved](https://open.spotify.com/track/6F3qYlwI29KXV8ONsVfWpK) | [TON Piano](https://open.spotify.com/artist/6UZdfxjhzXPhX6V6RSIMsX) | [Jesus the Beloved](https://open.spotify.com/album/1qrjT2tDne3bCcKa1Idj50) | 5:50 |
+| 37 | [Jesus the Beloved](https://open.spotify.com/track/6F3qYlwI29KXV8ONsVfWpK) | [TON Piano](https://open.spotify.com/artist/6UZdfxjhzXPhX6V6RSIMsX) | [Jesus the Beloved](https://open.spotify.com/album/1qrjT2tDne3bCcKa1Idj50) | 5:50 |
 
-Snapshot ID: `AbuK6gAAAACa80Uyb/5CStCKPAZIEi6T`
+Snapshot ID: `AbuQdgAAAADhrSI0ZvGOEScqYp9F0smL`

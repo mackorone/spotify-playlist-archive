@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRBn5XivGEJ.md) - [plain](/playlists/plain/37i9dQZF1DWWRBn5XivGEJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWRBn5XivGEJ)
 
-### [デッドデッドデーモンズデデデデデストラクション Dead Dead Demon's Dededede Destruction ](https://open.spotify.com/playlist/37i9dQZF1DWWRBn5XivGEJ)
+### [Dead Dead Demon's Dededede Destruction ](https://open.spotify.com/playlist/37i9dQZF1DWWRBn5XivGEJ)
 
-> アニメ「デッドデッドデーモンズデデデデデストラクション」の世界を彩る楽曲をプレイリストで。Music from "Dead Dead Demon's Dededede Destruction"! ©︎浅野いにお／小学館／DeDeDeDe Committee
+> Music from "Dead Dead Demon's Dededede Destruction"! ©︎浅野いにお／小学館／DeDeDeDe Committee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,716 likes - 29 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,743 likes - 29 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRBn5XivGEJ.md) - [plain]
 | 28 | [Decision](https://open.spotify.com/track/6Ht9jO1iw6pJuIfWYjqNDK) | [yuma yamaguchi](https://open.spotify.com/artist/4k0moLthcxudxdBCI3SUb8) | [『デッドデッドデーモンズデデデデデストラクション』オリジナル・サウンドトラック](https://open.spotify.com/album/2F70PGToCt3P3nAeqme9LF) | 2:37 |
 | 29 | [SHINSEKAIより](https://open.spotify.com/track/53ykDpqYivf63Xk6WL0J3r) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [『デッドデッドデーモンズデデデデデストラクション』オリジナル・サウンドトラック](https://open.spotify.com/album/2F70PGToCt3P3nAeqme9LF) | 3:34 |
 
-Snapshot ID: `Z24oowAAAAC/ETL2C1Mfn7ujXzeRecTe`
+Snapshot ID: `Z/U8tgAAAAAxM36e3bEZuk50ORgb2q/v`

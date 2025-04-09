@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ginga y balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 865,672 likes - 80 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 866,302 likes - 80 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 13 | [Vem Novinha pro Cafofo](https://open.spotify.com/track/2XB2Mq2J3695WoYrIOljUZ) | [Trovão no Beat](https://open.spotify.com/artist/6kS3lGSFbGHJbvsnD4MRl1), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Vem Novinha pro Cafofo](https://open.spotify.com/album/3jQam6Zyvx5hR1HRllI4vm) | 2:38 |
 | 14 | [Toma Que Toma](https://open.spotify.com/track/6T75k8RdUYiAbrjnOgSlYU) | [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [Dj Yuri Pedrada](https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi), [Mc Fidelis](https://open.spotify.com/artist/35u49FPLiVvk4TmpPLbJGu), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO) | [Toma Que Toma](https://open.spotify.com/album/5xVl95R6DL0cdg0lN6jaDG) | 7:41 |
 | 15 | [Grande, Grosso e Macio](https://open.spotify.com/track/4S5iwbA79qdQ6JivzAvUX4) | [MC PR](https://open.spotify.com/artist/0Vxqvpm9tpZcz6d4egDtjX), [MC DO JOB](https://open.spotify.com/artist/1DcNUAZ40hXQdtXwKzxGaD), [DJ TS](https://open.spotify.com/artist/6PILkXbgkMh4nUUl6Ov6ON) | [Grande, Grosso e Macio](https://open.spotify.com/album/1CdxA89eLJd7oi8r1bFdFF) | 2:07 |
-| 16 | [Santinha](https://open.spotify.com/track/6uAz1QA2iJn1RsnbkNYHn8) | [Felipe Morais](https://open.spotify.com/artist/61cITFIuENhKaR9xrHogxV), [Mc Sapinha](https://open.spotify.com/artist/4jEl4IQK6F0OECbeeatBBM), [Mc Leoa](https://open.spotify.com/artist/1H0yPNL8brH9Vh27WQTQoz) | [Santinha](https://open.spotify.com/album/35QR53K9Gy36LbXJXVb6Li) | 1:53 |
+| 16 | [Santinha](https://open.spotify.com/track/6uAz1QA2iJn1RsnbkNYHn8) | [Felipe Morais](https://open.spotify.com/artist/61cITFIuENhKaR9xrHogxV), [Mc Sapinha](https://open.spotify.com/artist/4jEl4IQK6F0OECbeeatBBM), [Mc Leoa](https://open.spotify.com/artist/1H0yPNL8brH9Vh27WQTQoz) | [Santinha](https://open.spotify.com/album/35QR53K9Gy36LbXJXVb6Li) | 2:01 |
 | 17 | [Ela é Profissional](https://open.spotify.com/track/7jEX94zOJaDg9KwdUJuyhI) | [GP DA ZL](https://open.spotify.com/artist/6ln5KMY2ugao3BVvJgzhq3), [Mc Jhey](https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm) | [Mixtape Underground](https://open.spotify.com/album/0IT6okWUl2fsqjFTw08uvs) | 2:16 |
 | 18 | [MTG Perna Bamba X Piranhas do Helipa](https://open.spotify.com/track/07YFNeWYEuQ4XQfDd8571k) | [Detagaz](https://open.spotify.com/artist/1ZzvFAjHtIjUr5CDZKKZf7), [MC Guh SR](https://open.spotify.com/artist/1jt8MU2um5rIprsn87sDtR) | [MTG Perna Bamba X Piranhas do Helipa](https://open.spotify.com/album/2P4AoEPzMnw2OummgOopE0) | 1:48 |
 | 19 | [MAMA OLHANDO PRO PAI](https://open.spotify.com/track/5JWKFAziMRkuOB7WvkzqIH) | [DJ Thiago Martins](https://open.spotify.com/artist/201eJ9jddoHC00soaLF6td), [DJ Caio Prince](https://open.spotify.com/artist/5QihhtcyXmUesNqhRRaoaM), [Marvin](https://open.spotify.com/artist/2eZo9QaElCGetkocbfVcwY) | [MAMA OLHANDO PRO PAI](https://open.spotify.com/album/7q1r0N7uINX1muKZhO83Rb) | 3:24 |

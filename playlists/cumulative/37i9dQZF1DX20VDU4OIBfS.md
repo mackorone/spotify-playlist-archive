@@ -4,7 +4,7 @@
 
 > Temas inolvidables del baúl de los recuerdos.
 
-390 songs - 1 day 0 hr 37 min
+391 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [Los Hombres No Deben Llorar](https://open.spotify.com/track/3y4BiEvje7Ez7lnWR0VVEa) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [Idolos de Argentina](https://open.spotify.com/album/6RlXYXZd7cCw6astTKZJIB) | 3:17 | 2022-01-01 | 2022-07-26 |
 | [Los Hombres No Deben Llorar](https://open.spotify.com/track/705pAm0eXVhL5YDprwYqbQ) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [Los Hombres No Deben Llorar](https://open.spotify.com/album/3B9ucoKy0j4V20ANOXmlCr) | 3:17 | 2022-06-02 | 2022-11-21 |
 | [Los Hombres No Deben Llorar](https://open.spotify.com/track/6UqbBLltlDQ7ozlRswVWeu) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [La Gran Fiesta Formoseña](https://open.spotify.com/album/0jKCSRoHto29EuooePa871) | 3:18 | 2022-12-20 | 2024-04-19 |
-| [Luna mágica](https://open.spotify.com/track/4qVhLyXmc40EwWlZv0gTMY) | [Rocio Banquells](https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz) | [12 Grandes exitos Vol\. 2](https://open.spotify.com/album/7ya06WGSGQUGdtBjAKxpgg) | 4:12 | 2022-01-01 |  |
+| [Luna mágica](https://open.spotify.com/track/4qVhLyXmc40EwWlZv0gTMY) | [Rocio Banquells](https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz) | [12 Grandes exitos Vol\. 2](https://open.spotify.com/album/7ya06WGSGQUGdtBjAKxpgg) | 4:12 | 2022-01-01 | 2025-04-09 |
 | [Maldita Primavera](https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Coleccion Suprema](https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx) | 3:54 | 2022-01-01 |  |
 | [Mambo No 5](https://open.spotify.com/track/6fJnlY8rYqC37J2u2OeEMf) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Mambo No 5](https://open.spotify.com/album/1uTfiWvskpE7pQ7on5qnWi) | 2:42 | 2024-05-07 |  |
 | [Mamma Maria](https://open.spotify.com/track/1Y0blUyMxLbGF6gdj65vxc) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Exclusive Ricchi E Poveri \- 15 Exitos](https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC) | 2:59 | 2024-05-06 |  |
@@ -291,6 +291,7 @@
 | [Por Muchas Razones Te Quiero](https://open.spotify.com/track/3uNHsihawfIiZv8XClEZoY) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [Palito Ortega y Sus Exitos](https://open.spotify.com/album/7LqDl8hqvxYKVArJWWABtC) | 3:20 | 2022-06-02 | 2024-01-05 |
 | [Porque Yo Te Amo](https://open.spotify.com/track/2KuP2WnaXV7hiHn9KLq27E) | [Sandro](https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O) | [Una Muchacha y una Guitarra](https://open.spotify.com/album/12h6RCRmJ7mgOzl9h7uigs) | 3:33 | 2023-01-12 | 2024-04-19 |
 | [Porque Yo Te Amo](https://open.spotify.com/track/4c1njLePXF6bmo5usheY9A) | [Sandro](https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O) | [Una Muchacha y Una Guitarra](https://open.spotify.com/album/3rZPB9LUCoaqqw7WB03gce) | 3:33 | 2022-01-01 | 2022-11-13 |
+| [Procuro Olvidarte](https://open.spotify.com/track/0IhCSUfs0uwWL3gdbp4MrL) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV), [Raul Di Blasio](https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u) | [Clave De Amor](https://open.spotify.com/album/2A0HYn2VC11vtaI5AQce8J) | 4:02 | 2024-06-04 |  |
 | [Prometimos No Llorar](https://open.spotify.com/track/3TSJgodP7iM95y0kODUSyp) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [Palito Ortega y Sus Exitos](https://open.spotify.com/album/7LqDl8hqvxYKVArJWWABtC) | 3:22 | 2022-06-02 | 2024-04-19 |
 | [prometimos no llorar](https://open.spotify.com/track/2ARbrP8ycqMzKGkWSYMrmL) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [Colecccion de Oro](https://open.spotify.com/album/5zPthclCeJlSDNXf0FEAxC) | 3:23 | 2022-01-01 | 2022-07-29 |
 | [Puerto Montt](https://open.spotify.com/track/3cmS1SZ9JvT9Vxo5jMxIIV) | [Los Iracundos](https://open.spotify.com/artist/0xpMy6DeMBWX8zTURxB4h5) | [Antologia Los Iracundos](https://open.spotify.com/album/3uKtinuwtMwspWmT3AnlMU) | 3:08 | 2022-01-01 | 2022-07-20 |

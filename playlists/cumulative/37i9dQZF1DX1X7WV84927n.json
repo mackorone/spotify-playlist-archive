@@ -844,7 +844,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 172000,
       "name": "Alienation",
       "url": "https://open.spotify.com/track/4iCmrRwZ0YpUXNAFD7lGWl"
@@ -3600,6 +3600,24 @@
       "duration_ms": 236558,
       "name": "Cold",
       "url": "https://open.spotify.com/track/64GtWmpFNjnUgsYn28ieRL"
+    },
+    {
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/1TkjAIrMg814YiEWyZPwV8"
+      },
+      "artists": [
+        {
+          "name": "Tetrarch",
+          "url": "https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178101,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/3JRiXx1S7BIxGgOBP3VeZ2"
     },
     {
       "album": {

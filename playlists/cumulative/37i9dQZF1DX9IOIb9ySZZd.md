@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9IOIb9ySZZd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9IOIb9ySZZd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9IOIb9ySZZd)
 
-### [Macross Series \-マクロスシリーズ \-](https://open.spotify.com/playlist/37i9dQZF1DX9IOIb9ySZZd)
+### [Macross Series](https://open.spotify.com/playlist/37i9dQZF1DX9IOIb9ySZZd)
 
-> Enjoy music from "Macross Series"! SF超大作アニメ、マクロスシリーズの主題歌/挿入歌 /サントラ曲を1つのプレイリストで！©︎1984,1994,2015 BIGWEST ©︎2007 BIGWEST/MACROSS F PROJECT・MBS©︎12015 ビックウエスト／マクロスΔ製作委員会<br/>©︎2015 BW/MDP
+> Enjoy music from "Macross Series"! ©︎1984,1994,2015 BIGWEST ©︎2007 BIGWEST/MACROSS F PROJECT・MBS©︎12015 ビックウエスト／マクロスΔ製作委員会<br/>©︎2015 BW/MDP
 
-98 songs - 7 hr 48 min
+99 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [つらみ現在進行形](https://open.spotify.com/track/4wROZgenCTks8jVFWtEYdk) | [ワルキューレ](https://open.spotify.com/artist/5JDlDUXsBqvwhSEZf3suXh) | [「劇場版マクロスΔ 絶対LIVE!!!!!!」ボーカルソング集　Walkure Reborn!](https://open.spotify.com/album/3wfTU8Js8OdQI2DMJ9ebxz) | 4:44 | 2022-04-05 |  |
 | [もういちど Love You](https://open.spotify.com/track/7zHLgaVmMFlI8CnzRe3fen) | [Hiroko Kasahara](https://open.spotify.com/artist/77Py0M4NdAeNvEwCLLEw4F) | [マクロス　SONGコレクション 2002](https://open.spotify.com/album/57NFqW2IxIOqtSBR6uA1Wo) | 6:08 | 2022-04-05 |  |
 | [りんごのうた](https://open.spotify.com/track/62MS0grt1BwP2hhx8mR8OI) | [フレイアΔ鈴木みのり](https://open.spotify.com/artist/5UygToMQWkkgLGGNu03XCE) | [「劇場版マクロスΔ 絶対LIVE!!!!!!」オリジナルサウンドトラック](https://open.spotify.com/album/0ZB1ik7s5kLyRbqCvy8VzP) | 1:37 | 2022-04-05 |  |
+| [アイ to アイ \-KENN ver.\-](https://open.spotify.com/track/3cVdTYN0dewhR0xpGsk7Ko) | [新マクロス 超時空歌姫オーディション2025](https://open.spotify.com/artist/6r9zA1GdXUZuoUrllbUYR6), [KENN](https://open.spotify.com/artist/3oNnnGfd5B9b2MshVkwruX) | [アイ to アイ \-KENN ver.\-](https://open.spotify.com/album/0MrIlbqbUl8OlfxRvS5UpC) | 1:24 | 2025-04-08 |  |
 | [オベリスク](https://open.spotify.com/track/1Y0rmWPRWTHEMtMOtnq1N1) | [シェリル・ノーム starring May'n](https://open.spotify.com/artist/5fruBgRiTeuJwkU5qvrdTq) | [「劇場版 マクロスＦ　～イツワリノウタヒメ～」ユニバーサル・バニー](https://open.spotify.com/album/7yv4eZtdWS5qPGrQFqS34q) | 4:46 | 2022-04-05 |  |
 | [キキワケナイ!](https://open.spotify.com/track/5kRAu7lXRiUrFdi8rq1lq2) | [ワルキューレ](https://open.spotify.com/artist/5JDlDUXsBqvwhSEZf3suXh) | [「劇場版マクロスΔ 絶対LIVE!!!!!!」ボーカルソング集　Walkure Reborn!](https://open.spotify.com/album/3wfTU8Js8OdQI2DMJ9ebxz) | 4:45 | 2022-04-05 |  |
 | [キズナ→スパイラル](https://open.spotify.com/track/6itgwj8bmA0o9a2UY3V45g) | [ワルキューレ](https://open.spotify.com/artist/5JDlDUXsBqvwhSEZf3suXh) | [「劇場版マクロスΔ 絶対LIVE!!!!!!」ボーカルソング集　Walkure Reborn!](https://open.spotify.com/album/3wfTU8Js8OdQI2DMJ9ebxz) | 5:04 | 2022-04-05 |  |

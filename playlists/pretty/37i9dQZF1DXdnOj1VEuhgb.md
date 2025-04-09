@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: BLOK3 x Ati242
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,399,037 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,399,047 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 8 | [ŞÜKÜR Kİ DELİRMEDİM](https://open.spotify.com/track/3Virp8bdmG2T0KVJrHwyWH) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [ŞÜKÜR Kİ DELİRMEDİM](https://open.spotify.com/album/1O2zX3ZDEZYU4LcqPik6VQ) | 1:55 |
 | 9 | [Ölmedim Ben](https://open.spotify.com/track/5XGsUaTVnP4SAwBmWTJ6Fz) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Ölmedim Ben](https://open.spotify.com/album/5BDPRMeOh1GLNAsQq9GvBu) | 2:49 |
 | 10 | [Havariler](https://open.spotify.com/track/07fcpj0jarrWBkI1Ig41dI) | [İmpala](https://open.spotify.com/artist/2s26tvcj8lfuOFfrIl8APF) | [Havariler](https://open.spotify.com/album/3Rxg4NVRlFjSt2Nd8GUEYD) | 2:57 |
-| 11 | [KARANLIK](https://open.spotify.com/track/7ndejYcYfmvkbImaXiYf9C) | [Yung Kafa & Kücük Efendi](https://open.spotify.com/artist/5mPOOZTRDsRf0iIXixzfgn), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jumpa](https://open.spotify.com/artist/4Xz5sxFWivrXWQlDlO25is) | [KARANLIK](https://open.spotify.com/album/3GvrN7SB3jMknEnFhhFTdU) | 2:54 |
+| 11 | [KARANLIK](https://open.spotify.com/track/7ndejYcYfmvkbImaXiYf9C) | [Yung Kafa & Kücük Efendi](https://open.spotify.com/artist/5mPOOZTRDsRf0iIXixzfgn), [Motive](https://open.spotify.com/artist/38qDM8ydEFYori6yyBCjq8), [Jumpa](https://open.spotify.com/artist/4Xz5sxFWivrXWQlDlO25is) | [KARANLIK](https://open.spotify.com/album/3GvrN7SB3jMknEnFhhFTdU) | 2:54 |
 | 12 | [Underrated](https://open.spotify.com/track/4zO0OhG0WcOLqqYCNf1ZUy) | [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK), [Modd](https://open.spotify.com/artist/3nJwTniwCxDrgoVKeqIWoT), [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED), [TRAP ZONE](https://open.spotify.com/artist/2Rf5bF15wJxPz4LQatGKSt) | [Underrated](https://open.spotify.com/album/3312EVA6CqDfOC6Dp7vNmO) | 3:37 |
 | 13 | [Sorma](https://open.spotify.com/track/4MuGAGUqSlLeSiqorleqlm) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Sorma](https://open.spotify.com/album/4ZVwAlhKd1BInBEZgl5nbx) | 2:09 |
 | 14 | [NEON](https://open.spotify.com/track/4DPjZs1Jjw5mQ41w0xt9KA) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [NEON](https://open.spotify.com/album/7GTNIfApsUZTP72J4r7Pv8) | 2:31 |

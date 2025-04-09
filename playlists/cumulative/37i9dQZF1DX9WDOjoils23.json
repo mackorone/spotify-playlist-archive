@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "All Time Best Qawwalies",
+        "url": "https://open.spotify.com/album/3eKIaSsSENYsvd1oeJp3Kd"
+      },
+      "artists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 978164,
+      "name": "Akhiyan Udeekdiyan",
+      "url": "https://open.spotify.com/track/48zjsBmOTxv9xQNF3SEggy"
+    },
+    {
+      "album": {
         "name": "Allah Mola",
         "url": "https://open.spotify.com/album/6d2xxrqFIldOccXZCxHLQj"
       },
@@ -266,6 +284,28 @@
       "duration_ms": 723961,
       "name": "Das Kee Milia Ea",
       "url": "https://open.spotify.com/track/56ByUNq7ZRqyyMEu52UFVX"
+    },
+    {
+      "album": {
+        "name": "DUMA DUM MAST QALANDER (Rebooted & Revved Up)",
+        "url": "https://open.spotify.com/album/0ryfzVTE1efrUdiRmnR5eI"
+      },
+      "artists": [
+        {
+          "name": "Master Saleem",
+          "url": "https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y"
+        },
+        {
+          "name": "Hashmat Sultana",
+          "url": "https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249545,
+      "name": "DUMA DUM MAST QALANDER - Rebooted & Revved Up",
+      "url": "https://open.spotify.com/track/6uVX6rVtBCNk648wmMtWOU"
     },
     {
       "album": {
@@ -446,7 +486,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 379105,
       "name": "Jhaleya",
       "url": "https://open.spotify.com/track/2SqzHPZJkWqeiQaTKvVHK6"
@@ -652,7 +692,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 1270520,
       "name": "Kiven Mukhre Ton Nazran Hatawan",
       "url": "https://open.spotify.com/track/1pMK7GI3AqrHZISTBMqsIs"

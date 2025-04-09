@@ -4,7 +4,7 @@
 
 > 
 
-923 songs - 1 day 20 hr 57 min
+924 songs - 1 day 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Broad Day](https://open.spotify.com/track/0u7q9Ok2YzPk7JfciLS6Gi) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [\#\#B4rr](https://open.spotify.com/album/1zRtJdxldNGcWfheixPomS) | 2:09 | 2022-02-25 | 2023-12-14 |
 | [Broad Day \- Solo Version](https://open.spotify.com/track/2RUnaSDdEsxiKNcHweIQ7g) | [Kankan Archived](https://open.spotify.com/artist/2ml1cn1EjsA321NEfWMblf) | [Broad Day \(Solo Version\)](https://open.spotify.com/album/4L9m6x0WaNoGgA0SmeU7hP) | 2:13 | 2022-12-21 | 2023-12-14 |
 | [Broccoli & Cheese](https://open.spotify.com/track/7HI9qCv1vRyn59iJGpjLHx) | [Paper Route EMPIRE](https://open.spotify.com/artist/65smG2lgnRmrDB8g7z1hG0), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PAPER ROUTE iLLUMINATi](https://open.spotify.com/album/6WDlSPJvEMoZLHj9jJ1dhY) | 2:21 | 2023-10-03 | 2024-03-05 |
+| [Burn](https://open.spotify.com/track/1X8E4vVoOM3BpSQlEDSjjM) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:37 | 2025-04-08 |  |
 | [BURN](https://open.spotify.com/track/4E3XDKil4ElJt6sXuz5cc6) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 1:51 | 2024-02-10 | 2024-02-18 |
 | [BË QUIET \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/7DYa1xK4QzVZTejOnPBzQN) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [LYFESTYLE](https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc) | 2:54 | 2024-10-18 |  |
 | [Bëttr 0ff](https://open.spotify.com/track/0r9ZhD7QEbIAcvfhDkIsdV) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:50 | 2023-02-25 | 2023-05-09 |

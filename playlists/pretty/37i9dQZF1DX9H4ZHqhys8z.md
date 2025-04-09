@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Ανακάλυψε κομμάτια Ελληνίδων ερμηνευτριών όπως τα επέλεξαν οι editors μας\. Εξώφυλλο: Evangelia
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,398 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,401 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 18 | [Kseroun Ta Koritsia](https://open.spotify.com/track/2WZa6PUIcfuhnQpzd4WTj1) | [Natasha Kay](https://open.spotify.com/artist/6vmTc3lUmJaPI2CPPghlPk) | [Kseroun Ta Koritsia](https://open.spotify.com/album/4gDdo7BsTCC73Q3YRShTPv) | 2:18 |
 | 19 | [Ehoun Meinei](https://open.spotify.com/track/0yAICDftkyIkAcNiuysgr2) | [Valia Tsirgioti](https://open.spotify.com/artist/2zVzPjIdABuyJdUnrHJ7ki), [Lakis Papadopoulos](https://open.spotify.com/artist/1vhL7DQsMAxapgKbSJEYJM) | [Ehoun Meinei](https://open.spotify.com/album/437Hr3lbILjERNvSpQtthO) | 4:04 |
 | 20 | [Dromoi](https://open.spotify.com/track/0ZFLm2mGY30sGur3uImKyo) | [Xara](https://open.spotify.com/artist/1JyZ4H8c77aV6MiHDFf7N7), [soda](https://open.spotify.com/artist/1jYxUa3UHAb3U5xWxea7IJ) | [Dromoi](https://open.spotify.com/album/0ztTXykn5gjPHzpDwQJoBk) | 3:24 |
-| 21 | [Se Latrevο](https://open.spotify.com/track/7xQFNeMtE9MqtmpfdbYUdm) | [Tina Alexopoulou](https://open.spotify.com/artist/2a6EAMtU6zdw2DOxGAKmJo) | [Se Latrevo](https://open.spotify.com/album/1x0eOKlCoVfmPcrsYCRrFC) | 3:30 |
+| 21 | [Se Latrevo](https://open.spotify.com/track/43iE2pgbbvjVjgXkPpGSR0) | [Tina Alexopoulou](https://open.spotify.com/artist/2a6EAMtU6zdw2DOxGAKmJo) | [Se Latrevo](https://open.spotify.com/album/1491IViMWEl7PGyCzjEPBx) | 3:34 |
 | 22 | [Ola Ine Orea](https://open.spotify.com/track/5ahVxeBuzYjLj3xgmknbhT) | [Joanna Drigo](https://open.spotify.com/artist/4Q8Px6oPMydDrQLYplbonh) | [Ola Ine Orea](https://open.spotify.com/album/6pA3SOTXTOKlXrrvGmDAEg) | 2:37 |
 | 23 | [Staxtes](https://open.spotify.com/track/4aiZWBoJc5eMd1EUtsMf2y) | [Maria Papaleontiou](https://open.spotify.com/artist/3w2r29SP2tdNS5LkXB9CY6) | [Staxtes](https://open.spotify.com/album/75Fy5jgPTupt96U7lkqrTc) | 2:52 |
 | 24 | [Paint A Picture](https://open.spotify.com/track/7bZ0uOZyAJskIdV8Ta3oU1) | [Marilena](https://open.spotify.com/artist/2sNazFhFIC4IhXg1sCjrEl) | [Paint A Picture](https://open.spotify.com/album/4Dl8ZjREMKlSU3CRjkkcX2) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [To Trauma](https://open.spotify.com/track/71HdGobhRhylNzHytN6Nil) | [Billie Isak](https://open.spotify.com/artist/0RMH7M3gqLAv3DUeLvQzz6) | [To Trauma](https://open.spotify.com/album/5dCVFETBkjrWDb0mxzS8uu) | 3:45 |
 | 50 | [Porni Outopia](https://open.spotify.com/track/5pgYW8yaeXiIemY9nOBKZI) | [Paola](https://open.spotify.com/artist/7m0YMvg7P6lnhSa2Ttu5TF) | [Porni Outopia](https://open.spotify.com/album/76sgSrnerOEpJHQxca7Wx5) | 3:32 |
 
-Snapshot ID: `Z+xT1AAAAADzFAhCddClYgbilALnPOGQ`
+Snapshot ID: `Z/U4iAAAAAB/mPOdEuaay6T2d+/uJB5E`

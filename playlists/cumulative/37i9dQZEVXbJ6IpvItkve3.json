@@ -8502,7 +8502,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-08",
+      "date_removed": null,
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
@@ -10958,7 +10958,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 202408,
       "name": "\u05d0\u05d1\u05d0",
       "url": "https://open.spotify.com/track/3DTHsQnfuQVESYAYv0fybQ"
@@ -12674,7 +12674,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 172757,
       "name": "\u05d1\u05d5\u05d0\u05d9 \u05e0\u05d3\u05d1\u05e8",
       "url": "https://open.spotify.com/track/354YT2zYO1GpAmf10xXiZf"
@@ -13702,7 +13702,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-08",
+      "date_removed": null,
       "duration_ms": 169322,
       "name": "\u05d3\u05d0\u05de",
       "url": "https://open.spotify.com/track/7AlqKFiOM5X7nJdtbwvsi6"
@@ -13970,10 +13970,28 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 198605,
       "name": "\u05d4\u05d7\u05d3\u05e8 \u05de\u05e1\u05ea\u05d5\u05d1\u05d1",
       "url": "https://open.spotify.com/track/5MjRIL2ySrPGoATyTk2ZT9"
+    },
+    {
+      "album": {
+        "name": "\u05d0\u05d4\u05d1\u05d4 \u05de\u05e0\u05e6\u05d7\u05ea \u05d4\u05db\u05dc",
+        "url": "https://open.spotify.com/album/2uAgJT5Ew4CrFcikwitcFT"
+      },
+      "artists": [
+        {
+          "name": "Eyal Golan",
+          "url": "https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198605,
+      "name": "\u05d4\u05d7\u05d3\u05e8 \u05de\u05e1\u05ea\u05d5\u05d1\u05d1",
+      "url": "https://open.spotify.com/track/6kbhnbcZeYz8RvsFlLkhNH"
     },
     {
       "album": {
@@ -18093,6 +18111,28 @@
     },
     {
       "album": {
+        "name": "\u05de\u05d8\u05d5\u05e8\u05e4\u05ea",
+        "url": "https://open.spotify.com/album/3mHNwhencSZonMCMjlKcWv"
+      },
+      "artists": [
+        {
+          "name": "\u05e8\u05d5\u05d0\u05d9 \u05d0\u05d3\u05dd",
+          "url": "https://open.spotify.com/artist/0UaHRQkfX3cJ90fsXYvjjG"
+        },
+        {
+          "name": "Zion Baruch",
+          "url": "https://open.spotify.com/artist/5ajLY8qOxx0yfDePboRvkO"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142314,
+      "name": "\u05de\u05d8\u05d5\u05e8\u05e4\u05ea",
+      "url": "https://open.spotify.com/track/7LA51LhQTW9tulMfS3IhiL"
+    },
+    {
+      "album": {
         "name": "\u05de\u05d8\u05e4\u05e1\u05d9\u05dd \u05e2\u05dc \u05d4\u05e7\u05d9\u05e8\u05d5\u05ea",
         "url": "https://open.spotify.com/album/1Vd5fkLCic0TwqlbMcv4Fn"
       },
@@ -18608,7 +18648,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 210000,
       "name": "\u05de\u05e8\u05db\u05d6 \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
       "url": "https://open.spotify.com/track/0tewqHTtZMfb7sPsqTyRVc"

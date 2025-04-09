@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the center of innovation in electronic music\. Featuring KI/KI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,527 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,303 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 13 | [All I Am](https://open.spotify.com/track/7z1knymHRO7iuMys6dnanT) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [All I Am](https://open.spotify.com/album/1F5otXEI2rOJD3LOJafnM4) | 3:02 |
 | 14 | [MR\. SANDMAN](https://open.spotify.com/track/1Y2eoRAhwsjCKcdNnrZOzV) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [MR\. SANDMAN](https://open.spotify.com/album/5DGMidRNgao4B4iJNW6gAb) | 2:25 |
 | 15 | [Memoria](https://open.spotify.com/track/6pQB4WLYNsGTihGIYogeBP) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9) | [Memoria](https://open.spotify.com/album/4hnT8Iwo4oeEQA6RzGfEPC) | 4:22 |
-| 16 | [SAVE ME](https://open.spotify.com/track/2jhHn52N4AJzM14SZlAcPd) | [STRAWBRY](https://open.spotify.com/artist/6JcapcUefqZ2azH0T5BRSi), [SHAKING](https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6) | [SAVE ME](https://open.spotify.com/album/6N4OC2eXGvKGlNj8MtwH82) | 3:21 |
+| 16 | [SAVE ME](https://open.spotify.com/track/2jhHn52N4AJzM14SZlAcPd) | [SHAKING](https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6), [STRAWBRY](https://open.spotify.com/artist/6JcapcUefqZ2azH0T5BRSi) | [SAVE ME](https://open.spotify.com/album/6N4OC2eXGvKGlNj8MtwH82) | 3:21 |
 | 17 | [1/17](https://open.spotify.com/track/5cwjNspmIDLehxMTfX2NIC) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [1/17](https://open.spotify.com/album/3WehGHIYOKvthEqIs8E8ID) | 4:12 |
 | 18 | [LSD](https://open.spotify.com/track/3SAhh2tNNY30Pooge2BHNT) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ), [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx) | [LSD](https://open.spotify.com/album/6HdKlMf1ruC1csb7dwS70o) | 2:48 |
 | 19 | [Can't Stand To Lose](https://open.spotify.com/track/7r4FAKAU499KcT5E83zEYs) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Can't Stand To Lose](https://open.spotify.com/album/53MctoRNyj3OmoUVFgZcab) | 4:52 |

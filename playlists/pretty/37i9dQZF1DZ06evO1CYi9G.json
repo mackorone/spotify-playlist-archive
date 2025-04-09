@@ -1,12 +1,12 @@
 {
   "description": "This is Mudvayne. The essential tracks, all in one playlist.",
-  "num_followers": 59855,
+  "num_followers": 59857,
   "original_name": "This Is Mudvayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/HEAAAAAADBmEU1ncSY8TyOKdSFOYOS",
+  "snapshot_id": "Z/MVgAAAAAC88b1NTQu60qpa//o6gutW",
   "tracks": [
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Beginning Of All Things To End",
-        "url": "https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd"
+        "name": "Mudvayne",
+        "url": "https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 82000,
-      "name": "Poop Loser",
-      "url": "https://open.spotify.com/track/0HHbwcOTYogbpzi38WrM5K"
+      "duration_ms": 201200,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/1Hp7LP0VU8FN5fMjlvgbyf"
     },
     {
       "added_at": null,
@@ -443,38 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mudvayne",
-        "url": "https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/1Hp7LP0VU8FN5fMjlvgbyf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost and Found",
-        "url": "https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 351026,
-      "name": "IMN",
-      "url": "https://open.spotify.com/track/5g924DBWMk3Crw134IO0Sj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Beginning Of All Things To End",
         "url": "https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd"
       },
@@ -484,25 +452,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 257533,
-      "name": "Cultivate",
-      "url": "https://open.spotify.com/track/2UZ9GX5u2B8zGJkbhTGe7d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "By The People, For The People",
-        "url": "https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 235280,
-      "name": "On The Move - Demo",
-      "url": "https://open.spotify.com/track/1IdIsjIw9rCpuLB7vkb7rX"
+      "duration_ms": 82000,
+      "name": "Poop Loser",
+      "url": "https://open.spotify.com/track/0HHbwcOTYogbpzi38WrM5K"
     },
     {
       "added_at": null,
@@ -523,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Beginning Of All Things To End",
-        "url": "https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd"
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP"
       },
       "artists": [
         {
@@ -532,9 +484,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 207133,
-      "name": "Seed",
-      "url": "https://open.spotify.com/track/2FSaIjUhyJ21nEwIe0JApd"
+      "duration_ms": 351026,
+      "name": "IMN",
+      "url": "https://open.spotify.com/track/5g924DBWMk3Crw134IO0Sj"
     },
     {
       "added_at": null,
@@ -548,9 +500,25 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 401800,
-      "name": "Goodbye - Demo",
-      "url": "https://open.spotify.com/track/31JGR5kHgbKGn4c49MV3Rf"
+      "duration_ms": 235280,
+      "name": "On The Move - Demo",
+      "url": "https://open.spotify.com/track/1IdIsjIw9rCpuLB7vkb7rX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Beginning Of All Things To End",
+        "url": "https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "duration_ms": 257533,
+      "name": "Cultivate",
+      "url": "https://open.spotify.com/track/2UZ9GX5u2B8zGJkbhTGe7d"
     },
     {
       "added_at": null,
@@ -571,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "By The People, For The People",
+        "url": "https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "duration_ms": 401800,
+      "name": "Goodbye - Demo",
+      "url": "https://open.spotify.com/track/31JGR5kHgbKGn4c49MV3Rf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Beginning Of All Things To End",
         "url": "https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd"
       },
@@ -580,9 +564,25 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 166840,
-      "name": "Some Assembly Required",
-      "url": "https://open.spotify.com/track/5vdTsxP1p3Vshq9TaI9Ffr"
+      "duration_ms": 207133,
+      "name": "Seed",
+      "url": "https://open.spotify.com/track/2FSaIjUhyJ21nEwIe0JApd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mudvayne",
+        "url": "https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "duration_ms": 365853,
+      "name": "Heard It All Before",
+      "url": "https://open.spotify.com/track/5cozFCkv98UAKT9GYsret6"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mudvayne",
-        "url": "https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS"
+        "name": "The Beginning Of All Things To End",
+        "url": "https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 365853,
-      "name": "Heard It All Before",
-      "url": "https://open.spotify.com/track/5cozFCkv98UAKT9GYsret6"
+      "duration_ms": 166840,
+      "name": "Some Assembly Required",
+      "url": "https://open.spotify.com/track/5vdTsxP1p3Vshq9TaI9Ffr"
     },
     {
       "added_at": null,

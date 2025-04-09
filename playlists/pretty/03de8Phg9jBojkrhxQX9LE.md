@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,223 likes - 165 songs - 9 hr 2 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,221 likes - 165 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 17 | [Garmonbozia \- Cesco Remix](https://open.spotify.com/track/16OuSBmV7aLCj505xzE1Nu) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3) | [Spirit Box](https://open.spotify.com/album/3PJHdTwoBNb0RUSaHd6gFP) | 2:47 |
 | 18 | [The Code \(feat\. Micah Martin\)](https://open.spotify.com/track/4GZQhGOko9Ufi2GM9jwtrf) | [Skellytn](https://open.spotify.com/artist/2UFoFFh9ayxK6EvW4tZcH3), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [The Code \(feat\. Micah Martin\)](https://open.spotify.com/album/77X1fyIviKRD30zvrjZMVL) | 3:11 |
 | 19 | [System Shake](https://open.spotify.com/track/0EeDZrahgphLgVTOmtQZCU) | [Hydraulix](https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W) | [System Shake](https://open.spotify.com/album/1WNbgRz8DxXDq6fZcqVqzJ) | 2:06 |
-| 20 | [SAVE ME](https://open.spotify.com/track/2jhHn52N4AJzM14SZlAcPd) | [STRAWBRY](https://open.spotify.com/artist/6JcapcUefqZ2azH0T5BRSi), [SHAKING](https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6) | [SAVE ME](https://open.spotify.com/album/6N4OC2eXGvKGlNj8MtwH82) | 3:21 |
+| 20 | [SAVE ME](https://open.spotify.com/track/2jhHn52N4AJzM14SZlAcPd) | [SHAKING](https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6), [STRAWBRY](https://open.spotify.com/artist/6JcapcUefqZ2azH0T5BRSi) | [SAVE ME](https://open.spotify.com/album/6N4OC2eXGvKGlNj8MtwH82) | 3:21 |
 | 21 | [THE FALL](https://open.spotify.com/track/58tg8yLcaghpWacZhYeT22) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM) | [THE FALL](https://open.spotify.com/album/65lwTHovpu3iw0AOgK6Ebb) | 4:03 |
 | 22 | [Stand](https://open.spotify.com/track/7Av9bRlyRzE5t77P6K1OJv) | [snuffy](https://open.spotify.com/artist/08yNyQvMaC3dLtOthzhPaZ), [zaterday](https://open.spotify.com/artist/7LFq4W9UP13m7bhAwNVPfY) | [Movement](https://open.spotify.com/album/5oXcpyRcYz5tCIjqGEYbFG) | 3:42 |
 | 23 | [WHEN I REALIZE](https://open.spotify.com/track/41qFjQ6RogPHJ9xcFdebFH) | [beastboi.](https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4) | [THE BLOOD OF THE STARS](https://open.spotify.com/album/430uFtADmOkRBzbyVnyNse) | 3:00 |

@@ -3965,6 +3965,24 @@
     },
     {
       "album": {
+        "name": "WAITING on YOU",
+        "url": "https://open.spotify.com/album/0OtjbHExx0ZAYi6TptDujz"
+      },
+      "artists": [
+        {
+          "name": "Jon B.",
+          "url": "https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286773,
+      "name": "Drift'n",
+      "url": "https://open.spotify.com/track/7baq1ruFowsDoGddn29aax"
+    },
+    {
+      "album": {
         "name": "Demos",
         "url": "https://open.spotify.com/album/2HatDWFqyd2cFNHX7wX7Yp"
       },
@@ -17502,7 +17520,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-09",
       "duration_ms": 149683,
       "name": "What Speaks",
       "url": "https://open.spotify.com/track/6ayHXjLC5FsNhOdYeEOaDN"
