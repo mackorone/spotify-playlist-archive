@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Sultaan, Sidhu Jatt, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,207 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,220 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 10 | [Jaagde Raho Intro](https://open.spotify.com/track/6MeYjZPJuD1ZAlpwpMRChs) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Kaka Sady](https://open.spotify.com/artist/4MkyBr9fmRHVsOmeyjk3N8), [Andy Grewal](https://open.spotify.com/artist/5PCB0eH1q1vRmI70ibdTeh) | [SKS](https://open.spotify.com/album/3No66PcT9nDuamVTFdWgj3) | 4:36 |
 | 11 | [Jaan Ghat Di](https://open.spotify.com/track/3kBzqa8j67SrUbjFMaHPjh) | [ABRK](https://open.spotify.com/artist/1M6zKQe5RxoPawhzsTznQF) | [Ulfat](https://open.spotify.com/album/2E5csGdlS19vqy2uasDp0R) | 1:48 |
 | 12 | [Going High](https://open.spotify.com/track/2pdvCFecZszYQbaoOnrKPp) | [JP47](https://open.spotify.com/artist/12ZFBwOMiEaUTRYUYfOUBw), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [Going High](https://open.spotify.com/album/2BDj1FY6UOm0Mu6zSmrHMZ) | 1:55 |
-| 13 | [Statements](https://open.spotify.com/track/3job61uTG1dl3P2fN8JEHF) | [HeartBeat](https://open.spotify.com/artist/6eHl2vIWYGa9wSeWzlUlpd), [Naninder Dhillon](https://open.spotify.com/artist/04BlTEVhAfshgm1XKJY4fo), [Mehmaan shakur](https://open.spotify.com/artist/3w0xq8M9o0j8UxQ06zLcbR), [Gyaana Hassan](https://open.spotify.com/artist/1FnmchLxliYxYdGpRxaQhs), [Atreyii Hassan](https://open.spotify.com/artist/0NqohnXD4gg31UmkF2IPAG) | [Statements](https://open.spotify.com/album/0wnAJ5dze0FZHcCWPUNyxm) | 4:44 |
+| 13 | [Statements](https://open.spotify.com/track/3job61uTG1dl3P2fN8JEHF) | [Ayo HeartBeat](https://open.spotify.com/artist/6aFZbBuUSCLCw0HvQXNMrM), [Naninder Dhillon](https://open.spotify.com/artist/04BlTEVhAfshgm1XKJY4fo), [Mehmaan shakur](https://open.spotify.com/artist/3w0xq8M9o0j8UxQ06zLcbR), [Gyaana Hassan](https://open.spotify.com/artist/1FnmchLxliYxYdGpRxaQhs), [Atreyii Hassan](https://open.spotify.com/artist/0NqohnXD4gg31UmkF2IPAG) | [Statements](https://open.spotify.com/album/0wnAJ5dze0FZHcCWPUNyxm) | 4:44 |
 | 14 | [Pyar Billo](https://open.spotify.com/track/1Tm8pUkBaYQR4ylEEAMDB0) | [Ghogeaala](https://open.spotify.com/artist/6lGDCdTuTN9s9KIncExhHc), [Gavin Beats](https://open.spotify.com/artist/4TLzjsNGObuG4T5K3CqYqS) | [Pyar Billo](https://open.spotify.com/album/3EKMSrZDDjO2oV5pog50VV) | 3:51 |
 | 15 | [No Long Talk](https://open.spotify.com/track/0auqSVNTl2drLonYr70tN5) | [Navvy](https://open.spotify.com/artist/4NVo8UFva38BznrSxDaicu) | [No Long Talk](https://open.spotify.com/album/5pXSiChnqkDScro56IGcQa) | 2:31 |
 | 16 | [Surmedaanii](https://open.spotify.com/track/660KOcB6zUFTcjX5eC6cfv) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Surmedaanii](https://open.spotify.com/album/2N2yUIv3IHvtq9iija5KUZ) | 3:27 |

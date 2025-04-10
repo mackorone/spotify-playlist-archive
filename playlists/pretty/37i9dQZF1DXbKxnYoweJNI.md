@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: Leo王 x 小老虎
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,664 likes - 140 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,662 likes - 140 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 6 | [LaLaLa](https://open.spotify.com/track/3fCtwx5lKzuAFY6nwE2gEN) | [DEW](https://open.spotify.com/artist/0cx8Y0CHBbSVWtAufwKdhk) | [LaLaLa](https://open.spotify.com/album/6G9D2BOpiHgWKm6LinbJHS) | 4:25 |
 | 7 | [心內話講袂出喙](https://open.spotify.com/track/05qIJ9esv2J42EIPUcX4DV) | [緩緩 Huan Huan](https://open.spotify.com/artist/0JeQFUYo8H7c5K8VIICIIH) | [心內話講袂出喙](https://open.spotify.com/album/2XrlR2SLkqdgy6O7PBLWPq) | 3:59 |
 | 8 | [我被寫進你的笑話裡](https://open.spotify.com/track/4syuTyqxlRjsdgIHwt4zFW) | [Kumara the Cat 貓咪庫瑪拉](https://open.spotify.com/artist/77YGTeS9iyhPgzRlMgSaGv) | [我被寫進你的笑話裡](https://open.spotify.com/album/6lxixocnBBEVJm9HxkXfPV) | 3:13 |
-| 9 | [我天生 \- 有夢版](https://open.spotify.com/track/2YtxuYoG085nAa0F23c8Ln) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我天生 \- 有夢版](https://open.spotify.com/album/28W9uyxA4MIu5npe8Rt1sI) | 4:40 |
+| 9 | [我天生 \- 有夢版](https://open.spotify.com/track/2YtxuYoG085nAa0F23c8Ln) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我天生 \- 有夢版](https://open.spotify.com/album/28W9uyxA4MIu5npe8Rt1sI) | 4:39 |
 | 10 | [沒能完整的幸福](https://open.spotify.com/track/6iaF7cSYas4qVZ1jsGakjy) | [許維芳](https://open.spotify.com/artist/5bDxJPbf1x9lOl5f17sb9e) | [沒能完整的幸福](https://open.spotify.com/album/3iC8eYsDrR38zjQi3mVcvZ) | 3:19 |
 | 11 | [瘋了](https://open.spotify.com/track/5XweuJGd833nLo6h0jGobt) | [Moon Chew](https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq) | [瘋了](https://open.spotify.com/album/6iaim5xGkwS4xtPXCnMfus) | 3:39 |
 | 12 | [愚人節快樂](https://open.spotify.com/track/2FQE7XVMDtuHjkjY0D1uwj) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [愚人節快樂](https://open.spotify.com/album/7lFcdqW9C9MGbgD8H6a2Ex) | 4:16 |

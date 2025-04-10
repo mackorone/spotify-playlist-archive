@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa Ed Sheeran.
 
-633 songs - 1 day 7 hr 37 min
+634 songs - 1 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [DELUSIONAL](https://open.spotify.com/track/1eGgMQyOubLxfZjbROuAR4) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [DELUSIONAL](https://open.spotify.com/album/75eL9BXjGoyQGFZQ8gWeZe) | 3:15 | 2024-11-28 | 2024-12-06 |
 | [DEVIL IS A LIE](https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [DEVIL IS A LIE](https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2) | 2:10 | 2024-07-02 | 2024-07-12 |
 | [Devil Mode](https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Devil Mode](https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf) | 3:04 | 2024-07-02 | 2024-07-05 |
+| [DIANA](https://open.spotify.com/track/1tyDlQvwms8mljMK3rO2Bd) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [DIANA](https://open.spotify.com/album/4boTBGtkKQZpEqpLTSLrlo) | 2:26 | 2025-04-09 |  |
 | [Diana](https://open.spotify.com/track/19LWPpXTX49k1KANJ46ydb) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Diana](https://open.spotify.com/album/7B837fOa9ySaE1M9mccVxX) | 2:58 | 2025-02-13 | 2025-04-04 |
 | [Dice](https://open.spotify.com/track/5xod0Sm1xqBRMpc5qQnZyc) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Dice](https://open.spotify.com/album/5nKMPmfTjHJMOM1ZQRdOTk) | 3:00 | 2024-09-12 | 2024-10-18 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-15 | 2025-03-07 |

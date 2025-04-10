@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 
 > This is Motörhead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,323 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,358 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,17 +37,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 | 27 | [I Don't Believe a Word](https://open.spotify.com/track/4oxS9mNh1GideHUkcEWFYC) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overnight Sensation](https://open.spotify.com/album/1JmTrg7IxFirYtV1S3yKSi) | 6:31 |
 | 28 | [Louie Louie](https://open.spotify.com/track/1HAdmhaL114vlPpdp58Ww3) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Edition\)](https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb) | 2:44 |
 | 29 | [Fast and Loose](https://open.spotify.com/track/0lfddylH264Q3wDvHLddFW) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6) | 3:21 |
-| 30 | [Ramones](https://open.spotify.com/track/2Q0Tw6meB6xfZ4ONeIL35j) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [1916](https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx) | 1:25 |
-| 31 | [We Are Motörhead](https://open.spotify.com/track/2G7ZL3xi1L9Jop31vXfqJu) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [We Are Motörhead](https://open.spotify.com/album/5qa57QOyTJ8EeZmOEno8Rn) | 2:21 |
+| 30 | [We Are Motörhead](https://open.spotify.com/track/2G7ZL3xi1L9Jop31vXfqJu) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [We Are Motörhead](https://open.spotify.com/album/5qa57QOyTJ8EeZmOEno8Rn) | 2:21 |
+| 31 | [Ramones](https://open.spotify.com/track/2Q0Tw6meB6xfZ4ONeIL35j) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [1916](https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx) | 1:25 |
 | 32 | [Stay Clean](https://open.spotify.com/track/7duLhTL7l71Vcp7IFUdhYd) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Edition\)](https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb) | 2:40 |
 | 33 | [Thunder & Lightning](https://open.spotify.com/track/6qcdpwb8HuELdtekAB4v4c) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 3:06 |
-| 34 | [Going To Brazil](https://open.spotify.com/track/63cQrvazYCVTQgWiOWKUPr) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [1916](https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx) | 2:29 |
-| 35 | [Smiling Like a Killer](https://open.spotify.com/track/0qLSsQuXKJtyksRccXkZSM) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/23G3SEackzrkzQQRG4UpeE) | 2:44 |
+| 34 | [Smiling Like a Killer](https://open.spotify.com/track/0qLSsQuXKJtyksRccXkZSM) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/23G3SEackzrkzQQRG4UpeE) | 2:44 |
+| 35 | [Going To Brazil](https://open.spotify.com/track/63cQrvazYCVTQgWiOWKUPr) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [1916](https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx) | 2:29 |
 | 36 | [Stone Dead Forever](https://open.spotify.com/track/1RQilPMMZilPmHvW2GEkxG) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bomber \(Deluxe Edition\)](https://open.spotify.com/album/15GpLaEsWkRtrpbZ2l2eQP) | 4:51 |
 | 37 | [Brotherhood Of Man](https://open.spotify.com/track/0hubXoyvsuxkq3UA2tfSeG) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The World Is Yours](https://open.spotify.com/album/3w6OQUsrAPQsPUC1fBkdv6) | 5:15 |
 | 38 | [Eat the Rich](https://open.spotify.com/track/6WcyOskUC1L0ZyHgkPDc7V) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Rock N' Roll \(Expanded Edition\)](https://open.spotify.com/album/0Ghu8Pkq9lSZTQkmYcf3uU) | 4:34 |
-| 39 | [Shoot You in the Back](https://open.spotify.com/track/4JNkbfZvtzhySiNSPwiUgm) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6) | 2:38 |
-| 40 | [Life's a Bitch](https://open.spotify.com/track/3MrXb1U5gZ8MQkCff0yW1X) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/23G3SEackzrkzQQRG4UpeE) | 4:13 |
+| 39 | [Life's a Bitch](https://open.spotify.com/track/3MrXb1U5gZ8MQkCff0yW1X) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/23G3SEackzrkzQQRG4UpeE) | 4:13 |
+| 40 | [Shoot You in the Back](https://open.spotify.com/track/4JNkbfZvtzhySiNSPwiUgm) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6) | 2:38 |
 | 41 | [I Ain't No Nice Guy](https://open.spotify.com/track/4cmC2SW1RVZusILirCrsCs) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [March Or Die](https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex) | 4:15 |
 | 42 | [Deaf Forever](https://open.spotify.com/track/4U9PDEya4AvkU4yLDRIhsM) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Orgasmatron](https://open.spotify.com/album/4bVbdsl3q1Bnsn6Eq8MKJI) | 4:26 |
 | 43 | [Iron Horse / Born to Lose](https://open.spotify.com/track/36RgRUa3BvsValxV6Jjdao) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Motorhead](https://open.spotify.com/album/5vYvX7jM5TAg7fzK1oKySe) | 5:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 | 49 | [\(I Won't\) Pay Your Price](https://open.spotify.com/track/3Y7Oo8QVUKqVLU4ojeWkun) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Edition\)](https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb) | 2:56 |
 | 50 | [One More Fucking Time](https://open.spotify.com/track/6SUarxODjZG2Ke0Fwm1Br8) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [We Are Motörhead](https://open.spotify.com/album/5qa57QOyTJ8EeZmOEno8Rn) | 6:46 |
 
-Snapshot ID: `Z/MVgAAAAADpE8ZXTAchBeN/aUa6XCyX`
+Snapshot ID: `Z/RnAAAAAACTwBkjKpRxrYqBBwkNLGFI`

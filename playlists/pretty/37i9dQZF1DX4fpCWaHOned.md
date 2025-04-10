@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fpCWaHOned.md) - [plain]
 
 > She's working late..\. cos she's a Grammy Award winner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,124,224 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,124,723 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

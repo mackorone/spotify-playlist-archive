@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43lj9b.md) - [plain]
 
 > This is Roy Ayers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,102 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,107 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43lj9b.md) - [plain]
 | 16 | [Aragon \- From The "Coffy" Soundtrack](https://open.spotify.com/track/6pxqP6XNBLbKVozvtgTH08) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Coffy](https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA) | 2:55 |
 | 17 | [Everytime I See You](https://open.spotify.com/track/3Ravb8XPBKL6sE2jqStRJf) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [You Send Me](https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB) | 3:37 |
 | 18 | [Hey Lover](https://open.spotify.com/track/0zE96LJrCv81I6N1zRaJSO) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Roy Ayers JID002](https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G) | 2:22 |
-| 19 | [Funk in the Hole](https://open.spotify.com/track/3olJm5hPTWRM89ZNuPbNMg) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Virgin Ubiquity II](https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6) | 5:36 |
-| 20 | [2000 Blacks Got to Be Free \(Edit\)](https://open.spotify.com/track/2n7yrYNPbpBAlFIJvlKfHk) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [2000 Blacks Got to Be Free](https://open.spotify.com/album/28XsGD0agBuKQn3RFKjczf) | 4:53 |
+| 19 | [2000 Blacks Got to Be Free \(Edit\)](https://open.spotify.com/track/2n7yrYNPbpBAlFIJvlKfHk) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [2000 Blacks Got to Be Free](https://open.spotify.com/album/28XsGD0agBuKQn3RFKjczf) | 4:53 |
+| 20 | [Funk in the Hole](https://open.spotify.com/track/3olJm5hPTWRM89ZNuPbNMg) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Virgin Ubiquity II](https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6) | 5:36 |
 | 21 | [You Send Me](https://open.spotify.com/track/4EbIIWf305n1WOJAWEb8cc) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [You Send Me](https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB) | 8:28 |
 | 22 | [Coffy Is The Color \- From The "Coffy" Soundtrack](https://open.spotify.com/track/68zf056H6baAiSGCuaEH2p) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Dee Dee Bridgewater](https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI), [Wayne Garfield](https://open.spotify.com/artist/1GetcOtM6fZmV1JPZ1CSlO) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l) | 3:00 |
 | 23 | [Sunflowers](https://open.spotify.com/track/7ihSVr02gw15lcxPgpWClk) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Roy Ayers JID002](https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43lj9b.md) - [plain]
 | 49 | [Poo Poo La La](https://open.spotify.com/track/2oadlkk3BsJyYhqcTU2NCz) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [In The Dark \(Expanded Edition\)](https://open.spotify.com/album/7374P9KcnkgNpxAmNEu5VF) | 6:30 |
 | 50 | [Escape \- From The "Coffy" Soundtrack](https://open.spotify.com/track/4QiC3Z8hibUBRh1JrGxTk6) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Coffy](https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA) | 2:18 |
 
-Snapshot ID: `Z/MVgAAAAABsFj2YVVxe9lzCOOD9HQwp`
+Snapshot ID: `Z/RnAAAAAAA0ui+cLWOC8yWy7gOTe9Nx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMda2apknTqH.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Canada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,050 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,060 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMda2apknTqH.md) - [plain]
 | 49 | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx) | 3:30 |
 | 50 | [Carry You Home](https://open.spotify.com/track/5o0osRx8kYJTOqlOSggr9Z) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1cVpXZnVWHTDUuY8kW6x8M) | 2:46 |
 
-Snapshot ID: `L4iRIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L4nioAAAAAAAAAAAAAAAAAAAAAAAAGVu`

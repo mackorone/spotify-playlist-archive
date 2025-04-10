@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 
 > The corridos our abuelos and parents listened to, viejitos y perrones! Cover: Los Tigres del Norte
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,627 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,694 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 | 96 | [Corrido de Macario Leyva](https://open.spotify.com/track/1wWkXyBQGnmAua5LKPXWv3) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Corridos Y Tragedias De La Frontera](https://open.spotify.com/album/2jBFdIcdBMztm4pXMrsIxM) | 3:41 |
 | 97 | [Nadie Es Eterno](https://open.spotify.com/track/4QBymteCSzSkVSq1L4j1mf) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy) | [Amor Y Lágrimas](https://open.spotify.com/album/1ofYSIU9pfhZy22WEL165p) | 3:16 |
 | 98 | [El 24 De Junio](https://open.spotify.com/track/5Yr85w0xLBDQv33C07Nczz) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 2:42 |
-| 99 | [El Barzon](https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Lo Mejor De Rancheras](https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8) | 2:44 |
-| 100 | [El Federal de Caminos](https://open.spotify.com/track/6gff5htL4edefMTcgvIxOi) | [Ramón Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL) | [Corridos de Matones](https://open.spotify.com/album/3qUj1FW2OLU0Xcm7JDkIKW) | 3:05 |
+| 99 | [El Federal de Caminos](https://open.spotify.com/track/6gff5htL4edefMTcgvIxOi) | [Ramón Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL) | [Corridos de Matones](https://open.spotify.com/album/3qUj1FW2OLU0Xcm7JDkIKW) | 3:05 |
+| 100 | [El Bazucazo](https://open.spotify.com/track/6yl1gnJWeVOio73J9Ij3Mo) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Los Corridos Favoritos Del Jefe](https://open.spotify.com/album/2STlqGKuUD6xxsncxLrnVH) | 3:39 |
 
 Snapshot ID: `ZzuHWAAAAADf+jsArackC8zUG36fg1Nl`

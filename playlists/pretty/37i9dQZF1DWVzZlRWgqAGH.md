@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Music for your soul\. Cover: SiR
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,767 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,820 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 27 | [The Seize](https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Seize](https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3) | 3:34 |
 | 28 | [So Lucky](https://open.spotify.com/track/3DAJjuBdlhH7APSVY9bN8Z) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [So Lucky](https://open.spotify.com/album/3tqvPTqGoqyU2N17xMEP2V) | 2:23 |
 | 29 | [Too Good](https://open.spotify.com/track/7ngKOLaoJfoMATtYFrwAKe) | [EJ Jones](https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC) | [Too Good](https://open.spotify.com/album/3fsfrovFhD0i82yD9gPrTi) | 3:27 |
-| 30 | [A Tree Never Waters Itself \- A COLORS SHOW](https://open.spotify.com/track/0IiJqBVwl2UBndbj09abSA) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [A Tree Never Waters Itself \- A COLORS SHOW](https://open.spotify.com/album/1TPZIZ7ofOyvNKtoqy643u) | 1:55 |
+| 30 | [A Tree Never Waters Itself \- A COLORS SHOW](https://open.spotify.com/track/0IiJqBVwl2UBndbj09abSA) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [A Tree Never Waters Itself \- A COLORS SHOW](https://open.spotify.com/album/1TPZIZ7ofOyvNKtoqy643u) | 1:55 |
 | 31 | [Why Must We Suffer](https://open.spotify.com/track/7dz5iIIIoGbJNetj0a9dDj) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [One In Ten](https://open.spotify.com/album/4PKMiFIQUtq4rDk1Ccjvyw) | 3:48 |
 | 32 | [Blanco](https://open.spotify.com/track/1mS6WBo2ZH9TXnjMEIOTcW) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Blanco](https://open.spotify.com/album/7gO4N7Lhppp9QHwjnUA6Mb) | 3:10 |
 | 33 | [2 High](https://open.spotify.com/track/3wJayRoqU20jGZ7XmjCM3L) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Soft Spot](https://open.spotify.com/album/1q60X7MvRXKggMB3h2xJof) | 5:00 |

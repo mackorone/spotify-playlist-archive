@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 
 > Cold beer\. Hot wings\. Great rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,256 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,307 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 | 90 | [Mercy](https://open.spotify.com/track/4wEKLWQxK9xzwYaWQkgzBj) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [LIGHTBRINGER](https://open.spotify.com/album/51CoENXtQxKfwEfvxRHyDN) | 4:26 |
 | 91 | [My Name Is Human](https://open.spotify.com/track/3VYgUNGdcQwfjDukoYkFWf) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [My Name Is Human](https://open.spotify.com/album/0UkO5kKwHPWG9K3Q4MJrCQ) | 4:18 |
 | 92 | [Enter Sandman](https://open.spotify.com/track/1hKdDCpiI9mqz1jVHRKG0E) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX) | 5:31 |
-| 93 | [Neon Pill](https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1) | 3:21 |
-| 94 | [Welcome To The Jungle](https://open.spotify.com/track/5NIPsWpDjJTFBoPxCUUeXp) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/5JKFiC2WVi9HtvJEm8CUB8) | 4:33 |
+| 93 | [Welcome To The Jungle](https://open.spotify.com/track/5NIPsWpDjJTFBoPxCUUeXp) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/5JKFiC2WVi9HtvJEm8CUB8) | 4:33 |
+| 94 | [Neon Pill](https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1) | 3:21 |
 | 95 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Beautiful People \(Stay High\)](https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd) | 2:47 |
 | 96 | [Sweet Emotion](https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 4:34 |
 | 97 | [Seven Nation Army](https://open.spotify.com/track/3ctoHckjyd13eBi2IDw2Ip) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/0VXcqDD3sHdOIGtO6oYv3d) | 3:51 |

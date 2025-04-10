@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: FIFTY FIFTY
 
-1,428 songs - 3 day 4 hr 9 min
+1,429 songs - 3 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -838,6 +838,7 @@
 | [Off The Record](https://open.spotify.com/track/3G7MgLuWLzUJQflWOCDZit) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Off The Record](https://open.spotify.com/album/7qch1xWGWuU5VxZEYBF5KW) | 3:08 | 2023-10-06 | 2024-04-19 |
 | [Off the record](https://open.spotify.com/track/47lTvvI1PR0H8bktWpwtcX) | [WOOYOUNG](https://open.spotify.com/artist/16iaWzk4PHL4GCjzyT6zZn) | [Off the record](https://open.spotify.com/album/1iIPGbC21FsxaXM2KX7hnd) | 3:32 | 2023-05-24 | 2023-06-07 |
 | [Officially Cool](https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Officially Cool](https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9) | 2:57 | 2024-04-02 | 2024-04-27 |
+| [Oh My](https://open.spotify.com/track/1rTMIstU7GaHqRyYlPrHGd) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Oh My](https://open.spotify.com/album/5wSh6Aw0IamviaLSPnW7vV) | 2:58 | 2025-04-08 |  |
 | [Oh Mymy : 7s](https://open.spotify.com/track/0oasRG0i7nOHdj6sIe6B80) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Oh Mymy : 7s](https://open.spotify.com/album/4JxcTD9gDjCRbZPhDVoD40) | 3:09 | 2024-01-02 | 2024-04-17 |
 | [Oh Sorry Ya](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Oh Sorry Ya](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) | 2:35 | 2022-03-08 | 2022-05-18 |
 | [Ok \(with Jay Park\)](https://open.spotify.com/track/7Ai5mckgwFyTKfD7BjJdTJ) | [Marv](https://open.spotify.com/artist/1V2ep7618bYgCcTVyDKPcW), [박재범](https://open.spotify.com/artist/7aaMNmVHKrzB79hKWvSU1t) | [Ok \(with Jay Park\)](https://open.spotify.com/album/4iBeXJoh6XJNfzz0tD4A1g) | 3:24 | 2024-02-05 | 2024-03-20 |

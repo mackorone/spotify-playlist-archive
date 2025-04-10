@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 
 > This is Babyface\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,546 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,547 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 49 | [Standing Ovation](https://open.spotify.com/track/2s8808a3WKmshVjkhtiL7c) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 4:45 |
 | 50 | [Simple Days](https://open.spotify.com/track/0YtmChTtMPoFn7olmF7VxE) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:31 |
 
-Snapshot ID: `Z/MVgAAAAAB2oSezo5Y5DSaQE9YYtYIC`
+Snapshot ID: `Z/RnAAAAAAC4vM4SRxMzTICY4FzST7qu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 
 > These songs will put a smile on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,800 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,853 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

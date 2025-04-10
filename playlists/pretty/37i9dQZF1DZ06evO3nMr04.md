@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3nMr04.md) - [plain]
 
 > This is Kanye West\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,401,036 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,401,180 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3nMr04.md) - [plain]
 | 49 | [Mixed Personalities \(feat\. Kanye West\)](https://open.spotify.com/track/6vWEAOUSxohKxhp0K1BsxL) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [We All Shine](https://open.spotify.com/album/09b9NC1oQbYaHcacgXn66k) | 3:50 |
 | 50 | [I Love It \(& Lil Pump\)](https://open.spotify.com/track/4S8d14HvHb70ImctNgVzQQ) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY) | [I Love It](https://open.spotify.com/album/185Tm1g5U7eMOrm3m9SQUh) | 2:07 |
 
-Snapshot ID: `Z/MVgAAAAAAl/fyA7LkvixIUjpIcxBA4`
+Snapshot ID: `Z/RnAAAAAAB+RaeqwXFfunyMNLUg66Uj`

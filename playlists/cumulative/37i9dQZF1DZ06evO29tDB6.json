@@ -647,6 +647,24 @@
     },
     {
       "album": {
+        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
+        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311773,
+      "name": "Mar\u00eda Sabina",
+      "url": "https://open.spotify.com/track/2mwt41mwj7S4TIpTaDmR7B"
+    },
+    {
+      "album": {
         "name": "Clasicas para Rockear",
         "url": "https://open.spotify.com/album/1udzt4QE3PY1KvUinZ5xiw"
       },
@@ -658,7 +676,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 311773,
       "name": "Mar\u00eda Sabina",
       "url": "https://open.spotify.com/track/3Jkj0MlvVlggnWnLndsvWb"

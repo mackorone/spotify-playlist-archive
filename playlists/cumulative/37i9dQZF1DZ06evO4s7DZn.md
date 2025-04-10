@@ -4,7 +4,7 @@
 
 > This is Banda Rafaga\. The essential tracks, all in one playlist.
 
-120 songs - 6 hr 40 min
+121 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Brinquito](https://open.spotify.com/track/3v8nP78dVokQOUkABtUKBR) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [LLegaste A Mi Vida](https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb) | 3:25 | 2022-06-01 |  |
 | [Carola \(En Vivo\)](https://open.spotify.com/track/3Z5Z9x4pwlSM2OG2cccr5c) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [En Vivo! Desde Pico Rivera, Ca](https://open.spotify.com/album/4XqFliWLK6IJUXGeFVFArd) | 5:01 | 2022-06-01 | 2022-08-26 |
 | [Carola \- En Vivo](https://open.spotify.com/track/6syiv4squ2EZgcVgxBnmNc) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 6:54 | 2022-08-27 |  |
-| [Chica Morena](https://open.spotify.com/track/0PZaUXCznCRq1efUqKXLbx) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 2:59 | 2022-06-01 |  |
+| [Chica Morena](https://open.spotify.com/track/0PZaUXCznCRq1efUqKXLbx) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 2:59 | 2022-06-01 | 2025-04-10 |
 | [Como Esos Amantes](https://open.spotify.com/track/3VuLKZImxOy2bpMaA6ECB0) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lágrimas Del Corazón](https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82) | 3:29 | 2022-06-01 | 2023-12-14 |
 | [Como Me Dolió Tu Adiós](https://open.spotify.com/track/6ftWmU96nKeUc8yvNcCHig) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 2:54 | 2022-06-01 |  |
 | [Cuando los Frijoles Bailan](https://open.spotify.com/track/5Bw0TMUnKPQjgrylJehdFq) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Soy de Carne y Hueso](https://open.spotify.com/album/1Z0XIv35WxRIsrHFERZfBq) | 3:25 | 2022-06-26 | 2022-07-14 |
@@ -100,6 +100,7 @@
 | [Oh Gran Dios](https://open.spotify.com/track/3ThVhCjqErJsuajFsMLn3H) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 2:50 | 2022-06-01 | 2025-04-05 |
 | [Oh Gran Dios](https://open.spotify.com/track/4Qi9mG5VOrr9rcjo8vCVuN) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv) | 2:50 | 2025-04-07 |  |
 | [Para Ellas](https://open.spotify.com/track/0NB5GkAROV33z5pDY7GGpu) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 3:13 | 2022-06-01 | 2025-04-08 |
+| [Para Ellas](https://open.spotify.com/track/5ftc7hStJ3hLO7GQHLBDIk) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv) | 3:13 | 2025-04-10 |  |
 | [Para Qué Volviste](https://open.spotify.com/track/09I0Ato0Ni6zE48K26QjWP) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Al Ataque](https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv) | 2:21 | 2024-04-05 |  |
 | [Pelao de Rancho](https://open.spotify.com/track/5ygvVYQlBgHV2SfvfikJcq) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 2:34 | 2023-05-02 | 2023-07-16 |
 | [Popotitos \- En Vivo](https://open.spotify.com/track/0Pgt6d2p8pc53Qg7iwaqDg) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 3:43 | 2022-06-01 |  |

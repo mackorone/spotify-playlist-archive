@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/6ExJNNZMX7q3uIaZCDSFcz?si=abIEmNk2THesRLZSunEpdw">JaeXlynne</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,854 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,899 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

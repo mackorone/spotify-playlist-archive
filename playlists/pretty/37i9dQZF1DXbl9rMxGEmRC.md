@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Behemoth
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,738 likes - 150 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,747 likes - 150 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,8 +154,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 144 | [Hell On Four Wheels](https://open.spotify.com/track/6l4T6o2tH14GXfDBXOFW5C) | [Warmen](https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh) | [Hell On Four Wheels](https://open.spotify.com/album/4VqdaBRmNPTtFrAQIbpBo7) | 3:39 |
 | 145 | [My Darkest Years](https://open.spotify.com/track/2iyYwiQrbo6aYnGjzaf1J3) | [Shores Of Null](https://open.spotify.com/artist/76lKNyW77arKg42qdDO9Sm) | [My Darkest Years](https://open.spotify.com/album/1zoIzsHNfakAikbXHIMpMD) | 4:56 |
 | 146 | [Nonagon](https://open.spotify.com/track/5Gtg4wpDTwsdv4caBlzCTT) | [Blood Red Throne](https://open.spotify.com/artist/38shFuJO9k0kOEQSf854u4) | [Nonagon](https://open.spotify.com/album/6NsEcggpi5Y8ds4gBZSxei) | 5:22 |
-| 147 | [Call of the Wind](https://open.spotify.com/track/2veVzMJRTNjB59NgQM1Jrn) | [Furor Gallico](https://open.spotify.com/artist/3EdTAF8rCNoJhEYmNKBehq) | [Call Of The Wind](https://open.spotify.com/album/3PRkLeUz0coWZoTRRq7mL7) | 5:30 |
-| 148 | [Strategies of Manipulation](https://open.spotify.com/track/0serE3bzQ9QAv0Gx9eEHWu) | [Misery Index](https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA) | [Strategies of Manipulation \- EP](https://open.spotify.com/album/20WJWz0leX9XBqh9Nx6kdP) | 2:04 |
+| 147 | [Strategies of Manipulation](https://open.spotify.com/track/0serE3bzQ9QAv0Gx9eEHWu) | [Misery Index](https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA) | [Strategies of Manipulation \- EP](https://open.spotify.com/album/20WJWz0leX9XBqh9Nx6kdP) | 2:04 |
+| 148 | [Call of the Wind](https://open.spotify.com/track/2veVzMJRTNjB59NgQM1Jrn) | [Furor Gallico](https://open.spotify.com/artist/3EdTAF8rCNoJhEYmNKBehq) | [Call Of The Wind](https://open.spotify.com/album/3PRkLeUz0coWZoTRRq7mL7) | 5:30 |
 | 149 | [Wake Up Dead](https://open.spotify.com/track/3QlNgS3CTKcvz8m56JHXiJ) | [Nightrage](https://open.spotify.com/artist/6dhqzgrbFggOBns03STnU3) | [Wake Up Dead](https://open.spotify.com/album/3BA95B0H7oMeygWF7S66mv) | 3:04 |
 | 150 | [Event Horizon](https://open.spotify.com/track/6OH0OWVVHryjQxQfEnv4Fc) | [Dawn Of Solace](https://open.spotify.com/artist/7anjHetVbdSelRpDsZzWY7) | [Event Horizon](https://open.spotify.com/album/42gPwQ8a9gO5C2pSQpXrPm) | 3:51 |
 

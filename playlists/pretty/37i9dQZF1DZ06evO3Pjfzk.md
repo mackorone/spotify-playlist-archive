@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 
 > This is Lainey Wilson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,478 likes - 46 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,535 likes - 46 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 45 | [Wilted Rose \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Happiness Bastards](https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX) | 5:06 |
 | 46 | [Middle Finger](https://open.spotify.com/track/5dTHvmgkPqjYk8aW6LxZos) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Lainey Wilson \- EP](https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga) | 2:37 |
 
-Snapshot ID: `Z/MVgAAAAAAy/hC4dzemqK/uCL8RqTBB`
+Snapshot ID: `Z/RnAAAAAADsD1PmCq6hW9WKoZpniRy2`

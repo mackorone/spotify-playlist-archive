@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Kick on with this mix of homegrown electronic music
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,694 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,721 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 23 | [1 DAY 2 LATE](https://open.spotify.com/track/5akUW2aUdnNs3Y0Ohn560G) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [GEMINI](https://open.spotify.com/album/43s8J7Tru8j2shoOtFs0N8) | 3:37 |
 | 24 | [Strangers \(with Mansionair\)](https://open.spotify.com/track/5nBqvq3hUl8n6HtKtwNphW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Strangers \(with Mansionair\)](https://open.spotify.com/album/7n50hdKDAZWurnx43hDHhJ) | 3:37 |
 | 25 | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/track/78CrWTmzkDNQodFtV6kJIa) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/album/1iiXBkAFITzUQhBiuYqWQh) | 2:39 |
-| 26 | [Cowgirl](https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e) | [honey](https://open.spotify.com/artist/6cUanG4fLNSAhNEcu6n34w), [Vrdnyn](https://open.spotify.com/artist/6Gq2D2UOJNriDLfSPR6Y2Y) | [Cowgirl](https://open.spotify.com/album/7DDKQh6Y9UbKCMVIYHKnHz) | 2:25 |
+| 26 | [Cowgirl](https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e) | [Honeygirl](https://open.spotify.com/artist/1PJ0cxhltIfAdImSgaujTd), [Vrdnyn](https://open.spotify.com/artist/6Gq2D2UOJNriDLfSPR6Y2Y) | [Cowgirl](https://open.spotify.com/album/7DDKQh6Y9UbKCMVIYHKnHz) | 2:25 |
 | 27 | [Love Language](https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Love Language](https://open.spotify.com/album/70Vz3MZVPq8Lw89xK2QsS6) | 4:38 |
 | 28 | [Oceanside Girl](https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Oceanside Girl](https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv) | 5:19 |
 | 29 | [Good Life](https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z) | [goodlife](https://open.spotify.com/artist/69zkVA1W5J06u0FZDfwdSe), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Good Life](https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ) | 2:47 |

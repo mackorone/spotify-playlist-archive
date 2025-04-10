@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSNirXzsHRX.md) - [plain]
 
 > Den bedste rock playliste i Danmark⚡️
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,754 likes - 80 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,755 likes - 80 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

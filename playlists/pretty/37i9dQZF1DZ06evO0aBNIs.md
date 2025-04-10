@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 
 > This is Avril Lavigne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,875 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,941 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 | 10 | [Here's to Never Growing Up](https://open.spotify.com/track/0qwcGscxUHGZTgq0zcaqk1) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Avril Lavigne \(Expanded Edition\)](https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l) | 3:34 |
 | 11 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 |
 | 12 | [Keep Holding On](https://open.spotify.com/track/4UPcXTh26ilb7owtuyHqNI) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 3:59 |
-| 13 | [Can You Die From a Broken Heart \- feat\. Avril Lavigne](https://open.spotify.com/track/5GgOktu3FrHdb26jTrS4AK) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Can You Die From a Broken Heart \(feat\. Avril Lavigne\)](https://open.spotify.com/album/2KDbfU7ZAp8kOdFYZZadim) | 3:30 |
-| 14 | [Smile](https://open.spotify.com/track/4bia7OWZPoswlzXCqESYrR) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 3:29 |
+| 13 | [Smile](https://open.spotify.com/track/4bia7OWZPoswlzXCqESYrR) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 3:29 |
+| 14 | [Can You Die From a Broken Heart \- feat\. Avril Lavigne](https://open.spotify.com/track/5GgOktu3FrHdb26jTrS4AK) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Can You Die From a Broken Heart \(feat\. Avril Lavigne\)](https://open.spotify.com/album/2KDbfU7ZAp8kOdFYZZadim) | 3:30 |
 | 15 | [Head Above Water](https://open.spotify.com/track/7gY3cyGcB2wnk2xDXiA0pe) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Head Above Water](https://open.spotify.com/album/3FrkD0TTaXBuW19vuEhDGz) | 3:40 |
 | 16 | [Hot](https://open.spotify.com/track/6z7fZRrQfOH3ZjWEkC4QhC) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 3:22 |
 | 17 | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 | 49 | [Tell Me It's Over](https://open.spotify.com/track/0aeZzfSoZAcETjba8MCvco) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Head Above Water](https://open.spotify.com/album/3FrkD0TTaXBuW19vuEhDGz) | 3:08 |
 | 50 | [F.U.](https://open.spotify.com/track/2pp1JDxpXuqRINtpxl0e4h) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:47 |
 
-Snapshot ID: `Z/MVgAAAAACf4GAOKxFUlEZEkEdS6+fh`
+Snapshot ID: `Z/RnAAAAAADw5y+A3yNiSAZ15zNvxALp`

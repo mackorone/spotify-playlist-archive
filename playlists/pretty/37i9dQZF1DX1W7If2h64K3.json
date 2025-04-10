@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 53714,
+  "num_followers": 53723,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,26 @@
     {
       "added_at": "2024-10-15 15:27:46",
       "album": {
+        "name": "Schumann - Jan\u00e1\u010dek - Berg",
+        "url": "https://open.spotify.com/album/4exYsowx0ys0TtAh6R7DwQ"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "Davidsb\u00fcndlert\u00e4nze, Op. 6: XVII. Wie aus der Ferne",
+      "url": "https://open.spotify.com/track/74hhrFJWIKOa5xkpNU2dJX"
+    },
+    {
+      "added_at": "2024-10-15 15:27:46",
+      "album": {
         "name": "Schumann: Missa sacra; 4 doppelch\u00f6rige Ges\u00e4nge",
         "url": "https://open.spotify.com/album/0hcRHKRzGfDrUmqOvVpPsC"
       },
@@ -803,26 +823,6 @@
     {
       "added_at": "2024-10-15 15:27:46",
       "album": {
-        "name": "Schumann - Jan\u00e1\u010dek - Berg",
-        "url": "https://open.spotify.com/album/4exYsowx0ys0TtAh6R7DwQ"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jonathan Biss",
-          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Davidsb\u00fcndlert\u00e4nze, Op. 6: XVII. Wie aus der Ferne",
-      "url": "https://open.spotify.com/track/74hhrFJWIKOa5xkpNU2dJX"
-    },
-    {
-      "added_at": "2024-10-15 15:27:46",
-      "album": {
         "name": "Schumann: The 4 Symphonies; Overtures Opp.81 \"Genoveva\" & 115 \"Manfred\"",
         "url": "https://open.spotify.com/album/0YY96s0OHD2X49Qb8TszSC"
       },
@@ -843,6 +843,26 @@
       "duration_ms": 427653,
       "name": "Symphony No. 1 in B-Flat Major, Op. 38 \"Spring\": IV. Allegro animato e grazioso",
       "url": "https://open.spotify.com/track/2qYu0I9yKKpGnbySmN6w3K"
+    },
+    {
+      "added_at": "2024-10-15 15:27:46",
+      "album": {
+        "name": "Schumann: Carnaval, Davidsb\u00fcndlert\u00e4nze & Papillons",
+        "url": "https://open.spotify.com/album/0fNkt7mfTDI1BbnvgZRDyV"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Boris Giltburg",
+          "url": "https://open.spotify.com/artist/6DJ974Gf11OtDblQklBHPX"
+        }
+      ],
+      "duration_ms": 142853,
+      "name": "Papillons, Op. 2: XII. Finale",
+      "url": "https://open.spotify.com/track/181fzxvpTWkbL0e9v2zBBu"
     },
     {
       "added_at": "2024-10-15 15:27:46",
@@ -895,26 +915,6 @@
       "duration_ms": 162453,
       "name": "6 Gedichte von N. Lenau und Requiem, Op. 90: No. 2, Meine Rose",
       "url": "https://open.spotify.com/track/23OlUfTExh1b2MMOy9MBXF"
-    },
-    {
-      "added_at": "2024-10-15 15:27:46",
-      "album": {
-        "name": "Schumann: Carnaval, Davidsb\u00fcndlert\u00e4nze & Papillons",
-        "url": "https://open.spotify.com/album/0fNkt7mfTDI1BbnvgZRDyV"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Boris Giltburg",
-          "url": "https://open.spotify.com/artist/6DJ974Gf11OtDblQklBHPX"
-        }
-      ],
-      "duration_ms": 142853,
-      "name": "Papillons, Op. 2: XII. Finale",
-      "url": "https://open.spotify.com/track/181fzxvpTWkbL0e9v2zBBu"
     },
     {
       "added_at": "2024-10-15 15:27:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Ed Sheeran, Miley Cyrus et KeBlack au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,696 likes - 87 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,719 likes - 88 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,13 +87,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 77 | [À cœur](https://open.spotify.com/track/6VPgFyWNMihoS5hbLLmXpS) | [Stony Stone](https://open.spotify.com/artist/39eNWcMW3ts3zXEQQ34jgR), [Boumidjal X](https://open.spotify.com/artist/3i2AdhSP4YeSYY1m5JoUnK) | [À cœur](https://open.spotify.com/album/0aar4fxLFpITccXQpZr5Vg) | 2:12 |
 | 78 | [Domaye](https://open.spotify.com/track/79hliJaIj0CYOPAKf5NzZA) | [3xdavs](https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr) | [Ma façon \(DELUXE\)](https://open.spotify.com/album/7xDkJIFa6CZztIZ3vWA3HS) | 3:03 |
 | 79 | [Slip & Slide](https://open.spotify.com/track/60Inxb7R2S4RyzQg31IsCq) | [Alex Chapman](https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Slip & Slide](https://open.spotify.com/album/6JFPl54dXCJWWfuRgCfoL6) | 2:26 |
-| 80 | [Casques rouges](https://open.spotify.com/track/4Nq2CGksPgcuxBOYHEu3pF) | [Ludwig Von 88](https://open.spotify.com/artist/1oVjBus2DBRTQmPEb0XhWQ) | [Les quatre saisons : les bonus](https://open.spotify.com/album/2QfwsDxyQNCoGlBbaUh2k1) | 2:39 |
-| 81 | [Last Girls At The Party](https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Last Girls At The Party](https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU) | 2:42 |
-| 82 | [JOURNÉES TRISTES](https://open.spotify.com/track/4VVrHyrHYAxfWZzHITv697) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [JOURNÉES TRISTES](https://open.spotify.com/album/4m6z1SRszh82ZRFzrUZCsf) | 2:32 |
-| 83 | [Sweet Danger](https://open.spotify.com/track/1IPRwv7FqZvdaawA2YWCcQ) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Sweet Danger](https://open.spotify.com/album/6pIdfb0OaCvfzN6QxKOJQ2) | 2:40 |
-| 84 | [ROCKSTAR](https://open.spotify.com/track/5FnI4e7m5WCf0bih4fY6v1) | [DAKEEZ](https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu), [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [BRUTAL](https://open.spotify.com/album/2k8Qn3Ca2Aef5Hwr8eRFhw) | 3:19 |
-| 85 | [Sacrifice](https://open.spotify.com/track/3bdntVS2dHPTPitwms9gLK) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:33 |
-| 86 | [Goodbye \(Don’t Tell Me\)](https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Forever Howlong](https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t) | 4:17 |
-| 87 | [Call Me](https://open.spotify.com/track/2JRM49IbbQ0CAcFoTi2rLM) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [Call Me](https://open.spotify.com/album/4urWBYrDSzRPBJ5tCRMoHU) | 2:54 |
+| 80 | [QT](https://open.spotify.com/track/3q88Spem4GoH3d9AEbsvQO) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [QT](https://open.spotify.com/album/5su3xqDyd1W7ElC2DvewBE) | 2:36 |
+| 81 | [Casques rouges](https://open.spotify.com/track/4Nq2CGksPgcuxBOYHEu3pF) | [Ludwig Von 88](https://open.spotify.com/artist/1oVjBus2DBRTQmPEb0XhWQ) | [Les quatre saisons : les bonus](https://open.spotify.com/album/2QfwsDxyQNCoGlBbaUh2k1) | 2:39 |
+| 82 | [Last Girls At The Party](https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Last Girls At The Party](https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU) | 2:42 |
+| 83 | [JOURNÉES TRISTES](https://open.spotify.com/track/4VVrHyrHYAxfWZzHITv697) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [JOURNÉES TRISTES](https://open.spotify.com/album/4m6z1SRszh82ZRFzrUZCsf) | 2:32 |
+| 84 | [Sweet Danger](https://open.spotify.com/track/1IPRwv7FqZvdaawA2YWCcQ) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Sweet Danger](https://open.spotify.com/album/6pIdfb0OaCvfzN6QxKOJQ2) | 2:40 |
+| 85 | [ROCKSTAR](https://open.spotify.com/track/5FnI4e7m5WCf0bih4fY6v1) | [DAKEEZ](https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu), [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [BRUTAL](https://open.spotify.com/album/2k8Qn3Ca2Aef5Hwr8eRFhw) | 3:19 |
+| 86 | [Sacrifice](https://open.spotify.com/track/3bdntVS2dHPTPitwms9gLK) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:33 |
+| 87 | [Goodbye \(Don’t Tell Me\)](https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Forever Howlong](https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t) | 4:17 |
+| 88 | [Call Me](https://open.spotify.com/track/2JRM49IbbQ0CAcFoTi2rLM) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [Call Me](https://open.spotify.com/album/4urWBYrDSzRPBJ5tCRMoHU) | 2:54 |
 
 Snapshot ID: `Z+8FDgAAAACQHYCwhDEs+24QZEfHXgsz`

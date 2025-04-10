@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 
 > Relax to gentle vocal and instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,106 likes - 786 songs - 2 day 0 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,115 likes - 786 songs - 2 day 0 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -776,8 +776,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 | 766 | [Easy Living](https://open.spotify.com/track/78RAfPGFpTUqnPSTV0LcmT) | [Massimo Faraò Trio](https://open.spotify.com/artist/58dTi4Xr0bd6yd8XKgimAr) | [How My Heart Sings](https://open.spotify.com/album/79jNUOF7HaumY5JoP3TpVr) | 4:53 |
 | 767 | [I Got It Bad](https://open.spotify.com/track/2Smeb5R5N2aCYAi7cIhema) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Rosario Giuliani](https://open.spotify.com/artist/74RIvQKHT5SRchMBOCZJ06) | [Duke's Dream](https://open.spotify.com/album/59TvEAv7zdGTO8Eu3oy52f) | 7:20 |
 | 768 | [When We Meet Halfway](https://open.spotify.com/track/0ZmL7e8iZhPiNtpvPNUiNP) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/1bQocL3Muez9zJLuA4JjVx) | [When We Meet Halfway](https://open.spotify.com/album/2oByqKzmvtbgZolfqUcYsF) | 5:37 |
-| 769 | [Infant Eyes](https://open.spotify.com/track/6J8Z1UJG7uTS1mhZsgmJCp) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1xf8Ny57YgeCJxNKm2oVDd) | 7:37 |
-| 770 | [After You've Gone](https://open.spotify.com/track/1z2FcRqCR6byfXDSvHq8E4) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [After You've Gone](https://open.spotify.com/album/2dhSC7isUhzg4n9b1X6fnS) | 7:04 |
+| 769 | [After You've Gone](https://open.spotify.com/track/1z2FcRqCR6byfXDSvHq8E4) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [After You've Gone](https://open.spotify.com/album/2dhSC7isUhzg4n9b1X6fnS) | 7:04 |
+| 770 | [Infant Eyes](https://open.spotify.com/track/6J8Z1UJG7uTS1mhZsgmJCp) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1xf8Ny57YgeCJxNKm2oVDd) | 7:37 |
 | 771 | [These Foolish Things Remind Me Of You \- Instrumental](https://open.spotify.com/track/40JmQVnCA43uV4htsa4G4t) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris Vol 2](https://open.spotify.com/album/4u8oRupYDjQ8kCMaWiYa11) | 4:41 |
 | 772 | [Old Folks](https://open.spotify.com/track/1pfckgGedZWa6JGNhAWdOI) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Old Folks](https://open.spotify.com/album/74XZhsk5g0Mm6Pf7vX6VuT) | 5:50 |
 | 773 | [Eleanor](https://open.spotify.com/track/082zyi189u5lRp2gPkE8Lb) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [West of 5th](https://open.spotify.com/album/1FCCVEhBrN6ISs9xHmf9kr) | 4:49 |

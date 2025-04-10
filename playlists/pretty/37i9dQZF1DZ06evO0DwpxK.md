@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 
 > This is HUMBE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,040 likes - 39 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,197 likes - 39 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 | 7 | [REM](https://open.spotify.com/track/18VSMNO7ayjRDTQjnSz8N7) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [REM](https://open.spotify.com/album/3LOpHTAENRZlDte90qMNwd) | 3:39 |
 | 8 | [TU VALOR](https://open.spotify.com/track/4NytE0I3U8ZVsfO9Bxc2jQ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 3:00 |
 | 9 | [Dieznoches](https://open.spotify.com/track/3Z69GuyA1GwA14ccCXTV25) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:24 |
-| 10 | [Confieso](https://open.spotify.com/track/6EgQ0qOpwA83iRDSFBNtUc) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Confieso](https://open.spotify.com/album/3py5UQNoZMecvronNEQp41) | 2:58 |
-| 11 | [últimamente](https://open.spotify.com/track/71g1VxcoHbNrCTSiO2WarV) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 3:49 |
-| 12 | [1960](https://open.spotify.com/track/6HX3r25xhpmvAhfJWifKIX) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 6:10 |
+| 10 | [últimamente](https://open.spotify.com/track/71g1VxcoHbNrCTSiO2WarV) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 3:49 |
+| 11 | [1960](https://open.spotify.com/track/6HX3r25xhpmvAhfJWifKIX) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 6:10 |
+| 12 | [Confieso](https://open.spotify.com/track/6EgQ0qOpwA83iRDSFBNtUc) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Confieso](https://open.spotify.com/album/3py5UQNoZMecvronNEQp41) | 2:58 |
 | 13 | [TSQ](https://open.spotify.com/track/1Zh65uEClQl16bwYW4HD2I) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 2:58 |
 | 14 | [ella brilla](https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ella brilla](https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD) | 4:23 |
 | 15 | [EL POETA](https://open.spotify.com/track/2fIPEgY8CJ4hh5UDZa2lB9) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:19 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 | 26 | [Himno](https://open.spotify.com/track/0qKwMEPwaEs4CuVGrGFYFR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:27 |
 | 27 | [mamá](https://open.spotify.com/track/2JW4s3HaqPerHX3R644sIG) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 3:29 |
 | 28 | [AURORA](https://open.spotify.com/track/0NHsOitbhh1DJy1b6otZHf) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 5:50 |
-| 29 | [SAGITARIO A\*](https://open.spotify.com/track/5wdqVslmjPk5nl4EmTeyEJ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 3:45 |
+| 29 | [bien hecho](https://open.spotify.com/track/1RKIZ8ItW0muYnz2vTcC4M) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 4:01 |
 | 30 | [Te Conocí en Japón](https://open.spotify.com/track/1QSvHSBcPlSlHhsntszy85) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:08 |
 | 31 | [bestia](https://open.spotify.com/track/2HZ5HcjkncmwlEh6dNG5Ra) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [bestia](https://open.spotify.com/album/3g7qNB5LqZlkp72mvCXYj6) | 3:40 |
 | 32 | [MANIFIESTO](https://open.spotify.com/track/3dCaq6gk0XBCSfnlupKJ5r) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:05 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 | 38 | [Para Olvidarte](https://open.spotify.com/track/6TS89XsZ9TXdRfESrUurbZ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Para Olvidarte](https://open.spotify.com/album/7fssJfhage5MSESIqRxJje) | 3:48 |
 | 39 | [Una Vida, Y Ya](https://open.spotify.com/track/5v1LLkuUTtm9Hy6btIPXXn) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Una Vida, Y Ya](https://open.spotify.com/album/4rxU2TZelNYNHYN59cMI10) | 3:31 |
 
-Snapshot ID: `Z/MVgAAAAAAXytP/AMo3dYIAO+FepMP1`
+Snapshot ID: `Z/RnAAAAAAAMO7mbs5XnJJDS8cfxyoS2`

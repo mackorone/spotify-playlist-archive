@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wEd1A6on5l.md) - [plain]
 
 > Get the party started with these Naija bangers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,251 likes - 77 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,308 likes - 77 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

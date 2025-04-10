@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Machos. The essential tracks, all in one playlist.",
-  "num_followers": 64074,
+  "num_followers": 64093,
   "original_name": "This Is Banda Machos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/MVgAAAAAB4h0PmJQ4sS9g65DYs4mTW",
+  "snapshot_id": "Z/RnAAAAAAAi09rFkhBGPi61fV8EwsL4",
   "tracks": [
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 190200,
-      "name": "Escuadras del sur",
-      "url": "https://open.spotify.com/track/443eTn9NYno1qi5J8g0KCa"
+      "duration_ms": 183626,
+      "name": "Sangre de indio",
+      "url": "https://open.spotify.com/track/3C818S8QbfRJDUC4xt6jSM"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 183626,
-      "name": "Sangre de indio",
-      "url": "https://open.spotify.com/track/3C818S8QbfRJDUC4xt6jSM"
+      "duration_ms": 190200,
+      "name": "Escuadras del sur",
+      "url": "https://open.spotify.com/track/443eTn9NYno1qi5J8g0KCa"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi chica ideal (Lo B\u00e1sico)",
-        "url": "https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90"
+        "name": "Gracias Mujer",
+        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 185866,
-      "name": "Si la miro ma\u00f1ana",
-      "url": "https://open.spotify.com/track/0rLhHYEvFSNOBYFIJMbxC9"
+      "duration_ms": 160560,
+      "name": "Besando borrachos",
+      "url": "https://open.spotify.com/track/44kod3HVpNIvakBmRd0Lvb"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias Mujer",
-        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
+        "name": "Mi chica ideal (Lo B\u00e1sico)",
+        "url": "https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 160560,
-      "name": "Besando borrachos",
-      "url": "https://open.spotify.com/track/44kod3HVpNIvakBmRd0Lvb"
+      "duration_ms": 185866,
+      "name": "Si la miro ma\u00f1ana",
+      "url": "https://open.spotify.com/track/0rLhHYEvFSNOBYFIJMbxC9"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sangre de indio",
-        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 129933,
-      "name": "40 cartas",
-      "url": "https://open.spotify.com/track/1FWZ1dIHeA55a4bbvkragj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Estrellas de la Musica Mexicana (USA)",
         "url": "https://open.spotify.com/album/2JOLFDLR0yxFWPQ2V8f2tY"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 187720,
       "name": "La roncona",
       "url": "https://open.spotify.com/track/2Y5Um0Bzz2aZCOhzL50wr5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sangre de indio",
+        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 129933,
+      "name": "40 cartas",
+      "url": "https://open.spotify.com/track/1FWZ1dIHeA55a4bbvkragj"
     },
     {
       "added_at": null,

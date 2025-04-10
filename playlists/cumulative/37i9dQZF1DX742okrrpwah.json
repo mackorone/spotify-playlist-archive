@@ -59325,6 +59325,28 @@
     },
     {
       "album": {
+        "name": "QT",
+        "url": "https://open.spotify.com/album/5su3xqDyd1W7ElC2DvewBE"
+      },
+      "artists": [
+        {
+          "name": "LSDXOXO",
+          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
+        },
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156104,
+      "name": "QT",
+      "url": "https://open.spotify.com/track/3q88Spem4GoH3d9AEbsvQO"
+    },
+    {
+      "album": {
         "name": "Po\u00e8mes",
         "url": "https://open.spotify.com/album/2PUBTtalG8EVaYEe8sGpp5"
       },

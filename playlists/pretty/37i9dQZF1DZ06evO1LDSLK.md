@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 
 > This is Iggy Pop\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,481 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,492 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 | 14 | [Cry For Love](https://open.spotify.com/track/7Fb9KsEzGFKqRABQJMr2ot) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Blah\-Blah\-Blah](https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c) | 4:28 |
 | 15 | [He's Frank \- Slight Return](https://open.spotify.com/track/7kbOroxknznMU4k7MaWnZ4) | [The BPA](https://open.spotify.com/artist/1YJaPNfbWVIItItFlBrEK2), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [He's Frank \(Slight Return\)](https://open.spotify.com/album/3cohHyy8SX0mbSi8cerA5F) | 3:17 |
 | 16 | [Some Weird Sin](https://open.spotify.com/track/6bQQEDyyAEmwYqXmMpvCFh) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 3:41 |
-| 17 | [Loves Missing](https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 4:19 |
+| 17 | [Punkrocker \(feat\. Iggy Pop\)](https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Soft Machine](https://open.spotify.com/album/4MHVx1PFPrYUzO0zbh95Q0) | 4:06 |
 | 18 | [Les Feuilles Mortes](https://open.spotify.com/track/4jsfwKGrdOLfQM5DHheVz8) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 3:55 |
-| 19 | [Punkrocker \(feat\. Iggy Pop\)](https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Soft Machine](https://open.spotify.com/album/4MHVx1PFPrYUzO0zbh95Q0) | 4:06 |
+| 19 | [Loves Missing](https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 4:19 |
 | 20 | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt) | 2:43 |
 | 21 | [La vie en rose](https://open.spotify.com/track/3PMFNGb08SzI0lLHL6ti08) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:06 |
 | 22 | [Beside You](https://open.spotify.com/track/2KZYHks9fBXCX1Ac8McutM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [American Caesar](https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi) | 4:29 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 | 33 | [James Bond](https://open.spotify.com/track/4MtGjAHHh3pSvJPaDltuhm) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 4:31 |
 | 34 | [Sister Midnight](https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 4:20 |
 | 35 | [This Is A Film \- "Arizona Dream" Original Motion Picture Soundtrack](https://open.spotify.com/track/1lJt4lE7eGIejYZBMcVdPu) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Welcome To Goran Bregovic](https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda) | 4:13 |
-| 36 | [The Pure and the Damned](https://open.spotify.com/track/4HYRYewiGEHaHF9Pfl50PP) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Good Time Original Motion Picture Soundtrack](https://open.spotify.com/album/0m13wlRnDvoHlRiZ9nJBNX) | 4:29 |
-| 37 | [I Want To Go To The Beach](https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 2:52 |
+| 36 | [I Want To Go To The Beach](https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 2:52 |
+| 37 | [The Pure and the Damned](https://open.spotify.com/track/4HYRYewiGEHaHF9Pfl50PP) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Good Time Original Motion Picture Soundtrack](https://open.spotify.com/album/0m13wlRnDvoHlRiZ9nJBNX) | 4:29 |
 | 38 | [I'm Going Away Smiling](https://open.spotify.com/track/23pV3PqMtZz0poleCOjqJg) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:38 |
 | 39 | [Louie Louie](https://open.spotify.com/track/15e3sz0HdP1TXxSdZV7bQc) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [American Caesar](https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi) | 3:48 |
 | 40 | [Funtime](https://open.spotify.com/track/3tFQ4Zz3FKz3s6sCdY1mQg) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 | 49 | [Break Into Your Heart](https://open.spotify.com/track/16KCcwE616Sk4qTsW26wFf) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Pop Depression](https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1) | 3:54 |
 | 50 | [Baby](https://open.spotify.com/track/1ISckPYj9zSrjGv3oES9iw) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 3:25 |
 
-Snapshot ID: `Z/MVgAAAAABmHqiLxExc1PNSUYQ1YXh0`
+Snapshot ID: `Z/RnAAAAAABYQxznE19klhxaAS2OjVzp`

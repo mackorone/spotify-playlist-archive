@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ©創通・サンライズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,531 likes - 139 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,559 likes - 139 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Plazma](https://open.spotify.com/track/1KLg01cjnRsENoFhJWUTSd) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Plazma](https://open.spotify.com/album/3fEm98bR4ojbm2GBqzhTGp) | 3:00 |
-| 2 | [The Girl on a Space colony （I\_006A）](https://open.spotify.com/track/3qcgq1KEFhvVKYvQzAUDFq) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | ["Mobile Suit Gundam GQuuuuuuX \- Beginning\-" Original Motion Picture Soundtrack](https://open.spotify.com/album/4p67TuedfnQSiYWGyIUZHz) | 2:23 |
+| 2 | [もうどうなってもいいや](https://open.spotify.com/track/17oTdCFRG5Vp4381jehV3U) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [もうどうなってもいいや](https://open.spotify.com/album/6XMeBVW9xA5buvS6EAVbGG) | 3:23 |
 | 3 | [ミッドナイト・リフレクション](https://open.spotify.com/track/3sAlrCLgPW8hzoG4QNsMIi) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [ミッドナイト・リフレクション](https://open.spotify.com/album/2ikaiGXxmfc3ENG4BjxMcq) | 3:41 |
-| 4 | [もうどうなってもいいや \- Movie edition \-](https://open.spotify.com/track/02ud4apJeoeoQPMyl1fVZn) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [もうどうなってもいいや \- Movie edition \-](https://open.spotify.com/album/4hxFtdZUDJEIhfTDZGIJgX) | 1:31 |
+| 4 | [The Girl on a Space colony （I\_006A）](https://open.spotify.com/track/3qcgq1KEFhvVKYvQzAUDFq) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | ["Mobile Suit Gundam GQuuuuuuX \- Beginning\-" Original Motion Picture Soundtrack](https://open.spotify.com/album/4p67TuedfnQSiYWGyIUZHz) | 2:23 |
 | 5 | [Awakening Hearts （I\_004）](https://open.spotify.com/track/0yaKZgryx336TuXh2BSaIp) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | ["Mobile Suit Gundam GQuuuuuuX \- Beginning\-" Original Motion Picture Soundtrack](https://open.spotify.com/album/4p67TuedfnQSiYWGyIUZHz) | 3:15 |
 | 6 | [Clan Battle（I\_011）](https://open.spotify.com/track/4xSEXtQfKsQhbLBtBofy2i) | [Masayuki Hasuo](https://open.spotify.com/artist/2ccZMBisir5eUwa5sWiVFQ) | ["Mobile Suit Gundam GQuuuuuuX \- Beginning\-" Original Motion Picture Soundtrack](https://open.spotify.com/album/4p67TuedfnQSiYWGyIUZHz) | 3:10 |
 | 7 | [Secrets （I\_017）](https://open.spotify.com/track/6Wh0EQ1Uf7zvEPy7srhsqu) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | ["Mobile Suit Gundam GQuuuuuuX \- Beginning\-" Original Motion Picture Soundtrack](https://open.spotify.com/album/4p67TuedfnQSiYWGyIUZHz) | 2:43 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 138 | [Next 2 U \-eUC\-](https://open.spotify.com/track/1auy1PkfwF6yCplcdhd8NK) | [SawanoHiroyuki\[nZk\]:naNami](https://open.spotify.com/artist/2EAfowJhmEii7OUOa44fAk) | [Into the Sky EP](https://open.spotify.com/album/6OThyKSLIsY2fVSBjQfSZU) | 4:04 |
 | 139 | [星空のBelieve](https://open.spotify.com/track/3KX9Ky0uBKGYvMNe1l4iWr) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [Reply～Mami Ayukawa 25th Anniversary Best Album～](https://open.spotify.com/album/1zkooNcXkwSRYkM2e7blvM) | 3:30 |
 
-Snapshot ID: `Z8/HHQAAAADRIY1AC2cpfQ+pLeHiTC8y`
+Snapshot ID: `Z/cutgAAAAAAHhSifj3EZp8fSKOj6iXJ`

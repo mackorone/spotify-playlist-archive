@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 
 > This is Eros Ramazzotti\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,766 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,808 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 | 17 | [Se Bastasse Una Canzone](https://open.spotify.com/track/1Mc6y8Q3MYppvrCylqDkwO) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Pierangelo Cassano](https://open.spotify.com/artist/6CqL00R5aLssfYFfxef5b5), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU), [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl), [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Rob Mathes](https://open.spotify.com/artist/0h4fam4nEXq1bnQa4HDdrC), [Robbie Kondor](https://open.spotify.com/artist/2hfCYgRwaKOMYfqgYhK0SY), [Orchestra filarmonica di Torino](https://open.spotify.com/artist/2zv4J7wb7xNRbLAPimyxvU), [Marco Boemi](https://open.spotify.com/artist/2tYvY5iGtDhQ0eUwEaHnCx) | [The World Of Pavarotti](https://open.spotify.com/album/4sZtLMwl4ga9aV73G1Nn8D) | 4:35 |
 | 18 | [Un Angelo Disteso Al Sole](https://open.spotify.com/track/52NToQozANCOhe2uVeJPIE) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Noi](https://open.spotify.com/album/59ux7JS19lMvN9XemDztc1) | 3:23 |
 | 19 | [Più che puoi \(feat\. Cher\)](https://open.spotify.com/track/7nPYCeSyi1Chcr2o95Eqe1) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Eros 30 \(Deluxe Version\)](https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz) | 4:11 |
-| 20 | [Terra promessa \- Remastered 2021](https://open.spotify.com/track/5NxVsVTmbQsKF1dkLxhYyF) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Nuovi Eroi \[35th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/2f5XCS5aYFMyxzIz7uKcMU) | 3:45 |
-| 21 | [La Aurora](https://open.spotify.com/track/7lJ7Sv7lWJQ5KmhZa5nITJ) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \(Spanish Version\)](https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq) | 5:35 |
+| 20 | [La Aurora](https://open.spotify.com/track/7lJ7Sv7lWJQ5KmhZa5nITJ) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \(Spanish Version\)](https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq) | 5:35 |
+| 21 | [Terra promessa \- Remastered 2021](https://open.spotify.com/track/5NxVsVTmbQsKF1dkLxhYyF) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Nuovi Eroi \[35th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/2f5XCS5aYFMyxzIz7uKcMU) | 3:45 |
 | 22 | [Un Ángel Como El Sol Tú Eres](https://open.spotify.com/track/6qkDsBn30aO9TJdwXznRO8) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Somos](https://open.spotify.com/album/3h5yQVDuEGV0Xu0vVKe0Fk) | 3:23 |
 | 23 | [Inevitabile \(feat\. Eros Ramazzotti\)](https://open.spotify.com/track/2ZMNdZoaXrGjwPjSxRvw1H) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr), [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Dietro Le Apparenze](https://open.spotify.com/album/2rOZXRaWqDzbGdISSDQXjC) | 3:54 |
 | 24 | [Estrella Gemela \- Remastered 2021](https://open.spotify.com/track/0CEjdxDzT7Yl5KW1nsuhcS) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \[25th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo) | 4:41 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 | 43 | [Si Bastasen un Par de Canciones](https://open.spotify.com/track/1NmCx7JXWzUYPQd1W9AJNn) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros Romántico](https://open.spotify.com/album/77LCz7UUmoX7ACsWezHqke) | 5:04 |
 | 44 | [Cancion para Ella \- Remastered 2021](https://open.spotify.com/track/3UABn4DBSTTvdyKFZVg9BW) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [9 \(Remastered 192 khz\)](https://open.spotify.com/album/17ZTVTpJqUfCsk8DdCevD0) | 3:40 |
 | 45 | [Huracan Meri \- Remastered 2021](https://open.spotify.com/track/16PPtSAznMYuqfeQ9vPYnM) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \[25th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo) | 4:46 |
-| 46 | [Vita Ce N'è](https://open.spotify.com/track/2I5W8kZfEqNhKspk7Ot6Gb) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Vita Ce N'è](https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB) | 3:11 |
-| 47 | [Un Angel No Es](https://open.spotify.com/track/2dQbR9FMqNdHGsbGErEAuF) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Estilolibre](https://open.spotify.com/album/2f3T6MTtosgsvOUa4a7PHk) | 4:38 |
+| 46 | [Un Angel No Es](https://open.spotify.com/track/2dQbR9FMqNdHGsbGErEAuF) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Estilolibre](https://open.spotify.com/album/2f3T6MTtosgsvOUa4a7PHk) | 4:38 |
+| 47 | [Vita Ce N'è](https://open.spotify.com/track/2I5W8kZfEqNhKspk7Ot6Gb) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Vita Ce N'è](https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB) | 3:11 |
 | 48 | [Ama](https://open.spotify.com/track/04AIGHEqfrN4oL74aHdvjE) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Battito Infinito](https://open.spotify.com/album/3ndzRNxUxwpUoNAfs3UgCG) | 3:23 |
 | 49 | [Completamente Enamorados](https://open.spotify.com/track/0kz3GgE2wVAw7o5p8FeUdO) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Musica Es](https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh) | 4:11 |
 | 50 | [Lo spirito degli alberi](https://open.spotify.com/track/1a3al4GEJCxO0eAOczgM5B) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Stilelibero](https://open.spotify.com/album/110QUEiOQGYeEZYPjtOOl5) | 4:11 |
 
-Snapshot ID: `Z/MVgAAAAADQvf1SPRLcCetUOuvHC1FP`
+Snapshot ID: `Z/RnAAAAAAC3aIvqFGbuuBIU3k115vYg`

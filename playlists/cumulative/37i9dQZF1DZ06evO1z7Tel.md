@@ -4,7 +4,7 @@
 
 > This is Carlos Y Jose\. The essential tracks, all in one playlist.
 
-98 songs - 4 hr 54 min
+99 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,13 +20,14 @@
 | [Beto Molina](https://open.spotify.com/track/23IFCQgkLCcfRTXBYIUTFS) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Patrulla 05 Corridos Con](https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq) | 2:30 | 2022-06-01 | 2022-10-13 |
 | [Cada Copa](https://open.spotify.com/track/2Zlf3gGvkONYYEnayQkXX6) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 2:41 | 2022-06-04 | 2024-06-03 |
 | [Carga Blanca](https://open.spotify.com/track/4Y5bCHdJG6kRx8ounxTqlg) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Los 15 Mejores Corridos de Carlos y Jose, Vol\. 1](https://open.spotify.com/album/3bmUCbODBolcXg0WjaGvk2) | 3:10 | 2022-06-01 | 2023-01-27 |
+| [Cheque Al Portador](https://open.spotify.com/track/0eIJC83P0w38umljT1DOMr) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Enseñame A Olvidar](https://open.spotify.com/album/4IE1izWlGdDxMh3hnTNvKv) | 2:31 | 2025-04-10 |  |
 | [Cheque Al Portador](https://open.spotify.com/track/2NlV4fLXbXMoqZCuRQ7dJv) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [30 Años De Cabalgata Norteña](https://open.spotify.com/album/6EZ3nnXkoSIm45sPCSMWrW) | 2:31 | 2022-06-01 | 2025-04-06 |
 | [Cielo Azul, Cielo Nublado](https://open.spotify.com/track/2odo6Lq6sOadOslMxzkGMw) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos](https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R) | 2:18 | 2022-06-01 |  |
 | [Con Cartitas](https://open.spotify.com/track/3kk0EWEnEwkqfhUb3ivUBx) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX) | 3:13 | 2022-06-02 | 2023-07-24 |
 | [Con Cartitas](https://open.spotify.com/track/5vy3RUI5XmNvAttY7IhFyo) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi) | 3:13 | 2024-05-05 |  |
 | [Corrido De Armando Martínez](https://open.spotify.com/track/2SzcpPQcjpRZL3qfJ1Fzjr) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos Norteños Con Carlos Y José](https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z) | 2:38 | 2022-10-12 |  |
 | [Corrido De Cruz Estrada Aka Crucillo Estrada](https://open.spotify.com/track/2fT6krdKBX5bWSm4mnsA3G) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Es Imposible](https://open.spotify.com/album/459tUpIpt2G8td6hbszxCY) | 2:48 | 2023-12-23 |  |
-| [Cuenta Cobrada](https://open.spotify.com/track/4UytravBJOMST6t7qoa31Z) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Por Nuestro Bien](https://open.spotify.com/album/6vu03Cw5oDyd3rS4cmsB1a) | 3:13 | 2025-04-07 |  |
+| [Cuenta Cobrada](https://open.spotify.com/track/4UytravBJOMST6t7qoa31Z) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Por Nuestro Bien](https://open.spotify.com/album/6vu03Cw5oDyd3rS4cmsB1a) | 3:13 | 2025-04-07 | 2025-04-10 |
 | [Dados Cargados](https://open.spotify.com/track/0BmbH5Lhlj2r1JtiNo8ADn) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos De \(Vol\. 2\)](https://open.spotify.com/album/7LDBCeInFVYwylBAC3mqpW) | 2:40 | 2022-08-13 |  |
 | [Dados Cargados](https://open.spotify.com/track/2V9lolR3rDL9wf1961MDMt) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Coleccion Superma Plus\- Carlos Y Jose](https://open.spotify.com/album/2K2mjjkSyQp0Ote1B3aCaY) | 2:43 | 2022-06-01 | 2022-08-14 |
 | [De Esta Sierra a la Otra Sierra](https://open.spotify.com/track/3jT3Rt7yQvoi2xVkJS9h7V) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX) | 2:37 | 2022-06-01 | 2023-11-11 |

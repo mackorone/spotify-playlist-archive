@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Rael, LUDMILLA e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,919 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,917 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

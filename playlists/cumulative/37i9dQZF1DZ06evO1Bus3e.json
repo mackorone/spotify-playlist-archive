@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "BELLAGIO (En Vivo)",
+        "url": "https://open.spotify.com/album/1xHAZAsmU6kT8P3SO49MLZ"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158066,
+      "name": "BELLAGIO",
+      "url": "https://open.spotify.com/track/3raY7hL7cPzLYOefqW4ubH"
+    },
+    {
+      "album": {
         "name": "En La Fuga",
         "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
       },

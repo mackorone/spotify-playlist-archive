@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 
 > Les hits du moment au Maroc\. Cover: GIMS
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,468 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,503 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [NINAO](https://open.spotify.com/track/2uBKQbVcw8G9m34lGYM6VA) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [LE NORD SE SOUVIENT : L'ODYSSÉE](https://open.spotify.com/album/1zNMg3ouAmuzATO21HkNa3) | 2:47 |
 | 2 | [Totopika](https://open.spotify.com/track/6eb5omKnWjZabRNYVj3Lsj) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Totopika](https://open.spotify.com/album/2RnvdenjPNouk7sUE3aPzg) | 2:19 |
-| 3 | [Jedi ou Jedek](https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Jedi ou Jedek](https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv) | 3:02 |
-| 4 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 |
-| 5 | [Mok ya mok](https://open.spotify.com/track/2yQn0Y5mODyHfCk4oxBPfr) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Khadija El Warzazia](https://open.spotify.com/artist/2ygf9jdzulwgls2Gx1jTdm) | [Mok ya mok](https://open.spotify.com/album/6bf0QljuZqYPriKjVQtwG7) | 2:38 |
+| 3 | [Mok ya mok](https://open.spotify.com/track/2yQn0Y5mODyHfCk4oxBPfr) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Khadija El Warzazia](https://open.spotify.com/artist/2ygf9jdzulwgls2Gx1jTdm) | [Mok ya mok](https://open.spotify.com/album/6bf0QljuZqYPriKjVQtwG7) | 2:38 |
+| 4 | [Jedi ou Jedek](https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Jedi ou Jedek](https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv) | 3:02 |
+| 5 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 |
 | 6 | [Rassi \(feat\. ElGrandeToto\)](https://open.spotify.com/track/4MqDpQPykbFcJeF8xruknN) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Chahid](https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb) | [Rassi \(feat\. ElGrandeToto\)](https://open.spotify.com/album/58SNMyClBKyTzSRQLaGHzv) | 3:00 |
 | 7 | [PIRATE](https://open.spotify.com/track/7L6iM8mnj0t2WW0Fjre5pG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:59 |
 | 8 | [Dawini](https://open.spotify.com/track/5d54P8T7TXGwE2d0zyN3uu) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Dawini](https://open.spotify.com/album/3013V6wepDbBnb81uVU95j) | 2:41 |
 | 9 | [BOUHALI](https://open.spotify.com/track/17AuJgvjtgyQ7QogOS9zMY) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 2:52 |
-| 10 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 |
-| 11 | [Jarh 9Dim](https://open.spotify.com/track/2D90uQttl2UcZRgYDKDIMD) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Jarh 9dim](https://open.spotify.com/album/7K2R7t8bkj3N8T58r48tVw) | 2:57 |
+| 10 | [WALLAHI](https://open.spotify.com/track/6qUFq3ngBLDBb2fTFug7bb) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd) | 2:32 |
+| 11 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 |
 | 12 | [Mahboul Ana](https://open.spotify.com/track/6bQftLbIxlg6uMXEL77h1a) | [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [Mahboul Ana](https://open.spotify.com/album/4gsrCRVyVyzxQnaA6ZCi3K) | 3:05 |
 | 13 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
-| 14 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
-| 15 | [DIPLOMATICO](https://open.spotify.com/track/2CgT7751h4Rply3vAkTYEk) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [DIPLOMATICO](https://open.spotify.com/album/5Z03dnJAXg3xJStxUWWUuH) | 3:16 |
-| 16 | [HWASI](https://open.spotify.com/track/2HfjQWIHWBmEp2LocJsp11) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [HWASI](https://open.spotify.com/album/4pkzeEKYWLG9ffDJKb7QOd) | 3:43 |
-| 17 | [WALLAHI](https://open.spotify.com/track/6qUFq3ngBLDBb2fTFug7bb) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd) | 2:32 |
+| 14 | [Jarh 9Dim](https://open.spotify.com/track/2D90uQttl2UcZRgYDKDIMD) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Jarh 9dim](https://open.spotify.com/album/7K2R7t8bkj3N8T58r48tVw) | 2:57 |
+| 15 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
+| 16 | [DIPLOMATICO](https://open.spotify.com/track/2CgT7751h4Rply3vAkTYEk) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [DIPLOMATICO](https://open.spotify.com/album/5Z03dnJAXg3xJStxUWWUuH) | 3:16 |
+| 17 | [HWASI](https://open.spotify.com/track/2HfjQWIHWBmEp2LocJsp11) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [HWASI](https://open.spotify.com/album/4pkzeEKYWLG9ffDJKb7QOd) | 3:43 |
 | 18 | [POPO](https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [POPO](https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo) | 3:11 |
 | 19 | [Midaliya](https://open.spotify.com/track/1VfoAPyym2t0DqJcr3uKU3) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Midaliya](https://open.spotify.com/album/5EKZqL6aVCaAuWOcgaELrO) | 2:33 |
 | 20 | [Ghali](https://open.spotify.com/track/2rXnsktUWQq532AnK0Bmm3) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r), [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Ghali](https://open.spotify.com/album/6lJYLIGoeGsEEk1gdsClwg) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 | 49 | [Matgheltech](https://open.spotify.com/track/00c3VyS0fPdFOZa8PNsXgX) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Matgheltech](https://open.spotify.com/album/5WBdOgzrEPdn0TB5GaYSh0) | 3:15 |
 | 50 | [Follow You](https://open.spotify.com/track/7cMhicmOIwfJlWURl90AOc) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [Follow You](https://open.spotify.com/album/3xAcJuzZ9QQuMbuuViPOfE) | 2:44 |
 
-Snapshot ID: `Z/N5MAAAAAC1FE2PnmLKUtvM8UGdVYvl`
+Snapshot ID: `Z/YpTgAAAACbzlBkMEHL0/cP/K12fWqp`

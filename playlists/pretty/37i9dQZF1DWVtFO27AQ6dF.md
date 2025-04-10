@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtFO27AQ6dF.md) - [plain]
 
 > Música motivacional para ir a darlo todo al gym.
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,476 likes - 60 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,616 likes - 60 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

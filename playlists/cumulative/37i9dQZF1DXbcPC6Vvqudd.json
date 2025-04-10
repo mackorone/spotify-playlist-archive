@@ -232,7 +232,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-13",
+      "date_removed": null,
       "duration_ms": 158000,
       "name": "April Showers",
       "url": "https://open.spotify.com/track/3xvZ0cflipIg9iKMzmlakl"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 177350,
       "name": "Balcony Rain",
       "url": "https://open.spotify.com/track/2hQW9bQ8dU69juNx98Kqw4"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 204171,
       "name": "Continuous Rain",
       "url": "https://open.spotify.com/track/3D2GrmhenTD06ndgz7MjTJ"
@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 136260,
       "name": "Earthly Breeze Rain",
       "url": "https://open.spotify.com/track/3qUTSu08pdZb2fR5aAskKP"
@@ -1568,7 +1568,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-07",
+      "date_removed": null,
       "duration_ms": 133926,
       "name": "El Silencio Rainy Night Lullaby",
       "url": "https://open.spotify.com/track/2cB2awcmamidiHJonRT7Np"
@@ -4851,6 +4851,24 @@
     },
     {
       "album": {
+        "name": "Rain In The Mojave Desert",
+        "url": "https://open.spotify.com/album/0G8CAblIjiiOmtjuqb08gm"
+      },
+      "artists": [
+        {
+          "name": "Mojave Desert Rain Machine",
+          "url": "https://open.spotify.com/artist/1wJaVeC9u6OAB7xJWdFxiP"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Rain In The Mojave Desert",
+      "url": "https://open.spotify.com/track/1yUO1DvjFYHSPkZiXcT3hP"
+    },
+    {
+      "album": {
         "name": "Rain Sounds Vol. 2",
         "url": "https://open.spotify.com/album/5LqlHxkBdta9AJLiXCl9AQ"
       },
@@ -4988,7 +5006,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 182368,
       "name": "Rain On The Lake",
       "url": "https://open.spotify.com/track/0o5VWWgcf66ctfBM8HsO5i"
@@ -5132,7 +5150,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 163911,
       "name": "Rain Streams",
       "url": "https://open.spotify.com/track/20QS2IhUNQj7kmljqpVjcN"
@@ -5150,7 +5168,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 170000,
       "name": "Rain Trees",
       "url": "https://open.spotify.com/track/1N8ouMgBmPtOkNVYf1DX8J"
@@ -5438,7 +5456,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 212000,
       "name": "Raining Force",
       "url": "https://open.spotify.com/track/3bJu4wU7VYdjlxQnG6z2ud"
@@ -5816,7 +5834,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 129761,
       "name": "Relaxing Thunderstorm",
       "url": "https://open.spotify.com/track/3VcUGM9IYstqpptFCokPI4"
@@ -6039,6 +6057,24 @@
     },
     {
       "album": {
+        "name": "Satisfying Rain",
+        "url": "https://open.spotify.com/album/4rubn7sVQxo9biA0yeofh6"
+      },
+      "artists": [
+        {
+          "name": "WeatherBug",
+          "url": "https://open.spotify.com/artist/0uU87nlGO0v4JcxS7tMPdB"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Satisfying Rain",
+      "url": "https://open.spotify.com/track/2S8THgm4D9ibaTT1gLWx2F"
+    },
+    {
+      "album": {
         "name": "Rain Sounds Vol. 3",
         "url": "https://open.spotify.com/album/6PaBSB3g4H0XmRaZvTDqkE"
       },
@@ -6122,7 +6158,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 147756,
       "name": "Sevilla Summer Showers",
       "url": "https://open.spotify.com/track/6b7Hogbueg7xuq5x9uZZCf"
@@ -6158,7 +6194,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Shibuya Intense Rain",
       "url": "https://open.spotify.com/track/67nOtJ94CRz6CpUxRPYEFH"
@@ -6176,7 +6212,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-01",
+      "date_removed": null,
       "duration_ms": 194589,
       "name": "Sizzling Light Rain",
       "url": "https://open.spotify.com/track/1mRx1szA3v8VA8JOfQrCyZ"
@@ -6230,7 +6266,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 212000,
       "name": "Sleep in the rain",
       "url": "https://open.spotify.com/track/1bsxsOKLVuh2jCUdrm6X3r"
@@ -6662,7 +6698,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 162992,
       "name": "Standing In The Rain",
       "url": "https://open.spotify.com/track/2z1zCDlx7GjDGSnaeHFrJL"
@@ -7274,7 +7310,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 171000,
       "name": "Summer Rain in Berlin",
       "url": "https://open.spotify.com/track/1XROkBFBaW947gPDzYk4As"
@@ -7422,6 +7458,24 @@
       "duration_ms": 144149,
       "name": "The Mystique Sounds Of Nature",
       "url": "https://open.spotify.com/track/2uyrDzMP7uzqURcFfYxn8w"
+    },
+    {
+      "album": {
+        "name": "The Nimbus Part Four",
+        "url": "https://open.spotify.com/album/58f3l3acutVm5ZXbLw95pP"
+      },
+      "artists": [
+        {
+          "name": "Neo Si",
+          "url": "https://open.spotify.com/artist/3jvUqMMZqE3OeiBy7lsaG3"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "The Nimbus Part Four",
+      "url": "https://open.spotify.com/track/7qRzGy11S8qSinKHXbFAVx"
     },
     {
       "album": {
@@ -7638,6 +7692,24 @@
       "duration_ms": 153750,
       "name": "Thunderclaps",
       "url": "https://open.spotify.com/track/4e0g5gfNw19IVhwSgPDsHc"
+    },
+    {
+      "album": {
+        "name": "Thunderstorm and Wind Gusts",
+        "url": "https://open.spotify.com/album/5sqeql2YcCC6bWqwEa39e9"
+      },
+      "artists": [
+        {
+          "name": "Las Vientas",
+          "url": "https://open.spotify.com/artist/3HzI9Zvsqx2AMuLlikzXTT"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168934,
+      "name": "Thunderstorm and Strong Winds",
+      "url": "https://open.spotify.com/track/6ntncuA9hOa8aJFGEQ1ytK"
     },
     {
       "album": {

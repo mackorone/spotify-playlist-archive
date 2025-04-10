@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Heat that will make you sweat 🥵 Cover: Hamilton & Nanpa Básico
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,325 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,358 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

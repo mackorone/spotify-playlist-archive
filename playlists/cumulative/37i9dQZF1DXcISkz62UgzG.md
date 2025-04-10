@@ -4,7 +4,7 @@
 
 > Listen to Selena's latest releases, plus all her essential hits.
 
-79 songs - 4 hr 20 min
+80 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Bad Liar](https://open.spotify.com/track/1sCxVKWImDZSZKvG0U9B23) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Bad Liar](https://open.spotify.com/album/1nIz2JbAAL6wK0HS6Wb9aC) | 3:34 | 2024-02-28 |  |
 | [Bad Liar](https://open.spotify.com/track/2fZQIJew3nkNe99s2PKzul) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Bad Liar](https://open.spotify.com/album/1iuzMKNzVo8HJ67eW32YMr) | 3:34 | 2022-11-04 | 2024-04-19 |
 | [Baila Conmigo \(with Rauw Alejandro\)](https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:06 | 2022-11-04 |  |
+| [Bluest Flame](https://open.spotify.com/track/6vuVCtwukUA57ioTnKKeuL) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC) | 2:42 | 2025-04-10 |  |
 | [Boyfriend](https://open.spotify.com/track/5EBtY2shIV1vmY4bnvvV6T) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare \(Deluxe\)](https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z) | 2:41 | 2022-11-04 |  |
 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 | 2025-02-21 |  |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2022-11-04 |  |
@@ -65,7 +66,7 @@
 | [Same Old Love](https://open.spotify.com/track/1BZG99C7Co1r6QUC3zaS59) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz) | 3:49 | 2022-11-04 | 2024-04-19 |
 | [Same Old Love](https://open.spotify.com/track/6ZANrVuAMp2rpjhfbOuJly) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/3Kbuu2tHsIbplFUkB7a5oE) | 3:49 | 2024-02-28 |  |
 | [Scared Of Loving You](https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Scared Of Loving You](https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt) | 1:50 | 2025-02-14 |  |
-| [Scared Of Loving You](https://open.spotify.com/track/2Zsu3D13bxZvHKzorznsK6) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 1:50 | 2025-03-25 |  |
+| [Scared Of Loving You](https://open.spotify.com/track/2Zsu3D13bxZvHKzorznsK6) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 1:50 | 2025-03-25 | 2025-04-10 |
 | [Selfish Love \(with Selena Gomez\)](https://open.spotify.com/track/3zxUdf7XmWpH6oddULwbwJ) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 2:48 | 2022-11-04 |  |
 | [Shake It Up \- From "Shake It Up"](https://open.spotify.com/track/1oLcpJA9TfwwejiEM9C5gi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Shake It Up \(From "Shake It Up"\)](https://open.spotify.com/album/4RYzLsns7p8y1CA8jUBFoB) | 3:00 | 2022-11-04 | 2024-05-28 |
 | [She](https://open.spotify.com/track/1z1ztKUrDr09ZSMDnN3QIG) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare \(Deluxe\)](https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z) | 2:52 | 2022-11-04 | 2024-11-05 |

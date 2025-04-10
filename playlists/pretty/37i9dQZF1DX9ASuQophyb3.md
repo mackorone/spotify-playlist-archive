@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\. Kapak: Soner Sarıkabadayı
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,499,654 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,499,823 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Çatma Yarim](https://open.spotify.com/track/2QcdW7XNdYQTpkTWVEkCHL) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Çatma Yarim](https://open.spotify.com/album/07DDRfbkQJKYXpHXkkQWjG) | 2:57 |
 | 2 | [Gözlerinden Gözlerine](https://open.spotify.com/track/3XZDLNS43nxBJ6HmAlVMGp) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Gözlerinden Gözlerine](https://open.spotify.com/album/2FMZfDpMhD6ZCzb1eolrYU) | 2:56 |
 | 3 | [Koş Gel](https://open.spotify.com/track/6TozRw4u9gjM8yHG8M3prS) | [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Koş Gel](https://open.spotify.com/album/5BeWlkm20Z43wtQz6wIIqb) | 2:39 |
-| 4 | [Yasemin](https://open.spotify.com/track/1hdJwEj1tD0O5NiWM9U5VW) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Yasemin](https://open.spotify.com/album/2Qo7f5utir38YNXkNfFtNZ) | 3:06 |
-| 5 | [Ayaza Serdim](https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Ayaza Serdim](https://open.spotify.com/album/3xDzaEo83O8jaKlvYzUboF) | 3:38 |
-| 6 | [Ölüyorum Anla](https://open.spotify.com/track/7AxK6ojozGBLlxuRaXwQQ1) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Ölüyorum Anla](https://open.spotify.com/album/3uO5eTI7iFm0WCgRYRergy) | 3:03 |
-| 7 | [Kervan](https://open.spotify.com/track/4MsNwPBADIfVpQ9ZmXNc7B) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6), [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE) | [Kervan](https://open.spotify.com/album/0xdqDsFfcbRRCYFVgeDr6P) | 2:34 |
-| 8 | [Asla](https://open.spotify.com/track/4a9tx6VcUtnJQ5JCIdFscu) | [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo) | [Asla](https://open.spotify.com/album/0Tr4zT2s4ua6URLiJJgIZu) | 2:52 |
-| 9 | [Canın Beni Çekti](https://open.spotify.com/track/6xTi66mobAdZcKR3SMyygD) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Canın Beni Çekti](https://open.spotify.com/album/6wxBYLndYtQJeJKmFagVRB) | 3:13 |
-| 10 | [Maziden](https://open.spotify.com/track/2tXC4HTBn4af2j71rFYW3g) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9) | [Maziden](https://open.spotify.com/album/0x5wKymi8vidBrpqWpvWvs) | 2:18 |
-| 11 | [Dönemem Ona](https://open.spotify.com/track/0KF1y5k6Q4mLfoDl3yGihn) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq) | [Dönemem Ona](https://open.spotify.com/album/5xSW1OcGtEBVlMX2Wurrgt) | 3:10 |
+| 4 | [Dönemem Ona](https://open.spotify.com/track/0KF1y5k6Q4mLfoDl3yGihn) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq) | [Dönemem Ona](https://open.spotify.com/album/5xSW1OcGtEBVlMX2Wurrgt) | 3:10 |
+| 5 | [Yasemin](https://open.spotify.com/track/1hdJwEj1tD0O5NiWM9U5VW) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Yasemin](https://open.spotify.com/album/2Qo7f5utir38YNXkNfFtNZ) | 3:06 |
+| 6 | [Ayaza Serdim](https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Ayaza Serdim](https://open.spotify.com/album/3xDzaEo83O8jaKlvYzUboF) | 3:38 |
+| 7 | [Ölüyorum Anla](https://open.spotify.com/track/7AxK6ojozGBLlxuRaXwQQ1) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Ölüyorum Anla](https://open.spotify.com/album/3uO5eTI7iFm0WCgRYRergy) | 3:03 |
+| 8 | [Kervan](https://open.spotify.com/track/4MsNwPBADIfVpQ9ZmXNc7B) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6), [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE) | [Kervan](https://open.spotify.com/album/0xdqDsFfcbRRCYFVgeDr6P) | 2:34 |
+| 9 | [Asla](https://open.spotify.com/track/4a9tx6VcUtnJQ5JCIdFscu) | [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo) | [Asla](https://open.spotify.com/album/0Tr4zT2s4ua6URLiJJgIZu) | 2:52 |
+| 10 | [Canın Beni Çekti](https://open.spotify.com/track/6xTi66mobAdZcKR3SMyygD) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Canın Beni Çekti](https://open.spotify.com/album/6wxBYLndYtQJeJKmFagVRB) | 3:13 |
+| 11 | [Maziden](https://open.spotify.com/track/2tXC4HTBn4af2j71rFYW3g) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9) | [Maziden](https://open.spotify.com/album/0x5wKymi8vidBrpqWpvWvs) | 2:18 |
 | 12 | [Anahtar](https://open.spotify.com/track/5soHIW4p5gs0txChuTl8sZ) | [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Anahtar](https://open.spotify.com/album/5HgrSDS7Q9XhCleuATRkXT) | 3:11 |
 | 13 | [Bi Mani Yoksa](https://open.spotify.com/track/67RsgVh1I4rYqNqRmyW3JS) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Bi Mani Yoksa](https://open.spotify.com/album/2DtIUWEBco0tXVNkHFlrMN) | 3:14 |
 | 14 | [Karalım](https://open.spotify.com/track/35VOiGpgQgPv2EJJYZaZ8H) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Karalım](https://open.spotify.com/album/6Dz4jZGoLAlUuSbVIqPAoe) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 49 | [Lan](https://open.spotify.com/track/1whKKdtCiFjN7MW7DrIRUH) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Lan](https://open.spotify.com/album/1LvnmkkATPS4wBrEPMec26) | 3:16 |
 | 50 | [SENİ GÖRDÜĞÜM AN](https://open.spotify.com/track/5hyYCEaC704WXeb4saAim4) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf), [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [SENİ GÖRDÜĞÜM AN](https://open.spotify.com/album/4b91E9t6JFljmPckcteTLi) | 3:14 |
 
-Snapshot ID: `Z+727AAAAABlgrPGP1t9g3MwrfylcQ0t`
+Snapshot ID: `Z/Y/bAAAAAB/upTnHrwroU1TxS2EUqQM`

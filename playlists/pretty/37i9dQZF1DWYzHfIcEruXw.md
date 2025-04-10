@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 
 > The hottest Anime hits of the 10s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,023 likes - 68 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,103 likes - 69 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 | 63 | [Sparkling Daydream](https://open.spotify.com/track/343P4NOfSrRoWq3l9hNfZl) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [NOISY Lab.](https://open.spotify.com/album/1xFcpdZWds4oZSICgjY1BI) | 4:09 |
 | 64 | [言わないけどね。](https://open.spotify.com/track/13saEo7ciOYh6nUGrC79cx) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [星に名前をつけるとき](https://open.spotify.com/album/4w0N1X4kmwzMxH4umBaF6H) | 4:32 |
 | 65 | [ぼくのフレンド](https://open.spotify.com/track/5AH0F230K1ab9TPYUA3wR5) | [mewhan](https://open.spotify.com/artist/13tttiaoECFPQKEigVnYU6) | [自己スキーマ](https://open.spotify.com/album/7qCWMC5KQ3SDii2P3u2Z7M) | 4:11 |
-| 66 | [GO\-GO たまごっち!](https://open.spotify.com/track/4o7S3ohVMcmpppfjoNG8sZ) | [Yuria Nara](https://open.spotify.com/artist/6jDETxjdmgLtsewT4c3WMn) | [GO\-GO たまごっち!](https://open.spotify.com/album/43pOv6KdgB05eUgUO34OLV) | 3:48 |
-| 67 | [ヒャダインのカカカタ☆カタオモイ\-C](https://open.spotify.com/track/3MpAKiHm0dzxRBSBwJ3PBC) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [20112012](https://open.spotify.com/album/3DW6bLcegm87OVIDKCVnZ8) | 3:54 |
-| 68 | [Crow Song](https://open.spotify.com/track/3gvA4qesNQ2HyBVr34i1q3) | [marina](https://open.spotify.com/artist/358xRt5CBUd9I19QYV379n), [VISUAL ARTS / Key](https://open.spotify.com/artist/4XoXFUiabPNKrXxTgHTy0z) | [Crow Song](https://open.spotify.com/album/6zdGnjO1xFsPr3eEIrjQec) | 4:08 |
+| 66 | [光のシグナル](https://open.spotify.com/track/68VO2aVwUrkRJo7m0XrK45) | [Kis\-My\-Ft2](https://open.spotify.com/artist/4kxoWjOpCVYKgPv9nea95k) | [光のシグナル](https://open.spotify.com/album/28mES2k7GFbwbhK2lVULON) | 4:24 |
+| 67 | [GO\-GO たまごっち!](https://open.spotify.com/track/4o7S3ohVMcmpppfjoNG8sZ) | [Yuria Nara](https://open.spotify.com/artist/6jDETxjdmgLtsewT4c3WMn) | [GO\-GO たまごっち!](https://open.spotify.com/album/43pOv6KdgB05eUgUO34OLV) | 3:48 |
+| 68 | [ヒャダインのカカカタ☆カタオモイ\-C](https://open.spotify.com/track/3MpAKiHm0dzxRBSBwJ3PBC) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [20112012](https://open.spotify.com/album/3DW6bLcegm87OVIDKCVnZ8) | 3:54 |
+| 69 | [Crow Song](https://open.spotify.com/track/3gvA4qesNQ2HyBVr34i1q3) | [marina](https://open.spotify.com/artist/358xRt5CBUd9I19QYV379n), [VISUAL ARTS / Key](https://open.spotify.com/artist/4XoXFUiabPNKrXxTgHTy0z) | [Crow Song](https://open.spotify.com/album/6zdGnjO1xFsPr3eEIrjQec) | 4:08 |
 
-Snapshot ID: `Z+qt+AAAAAD5YWwMQI/dx2QDOjEL0K2O`
+Snapshot ID: `Z/ZBRwAAAAB9n0EexjMW5hGyOK3vOj3x`

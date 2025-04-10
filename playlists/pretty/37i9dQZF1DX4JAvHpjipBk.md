@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Miley Cyrus, Ed Sheeran, Sexyy Red,  The Marías, Sleep Token, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,341,000 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,340,990 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 89 | [Upside Down](https://open.spotify.com/track/2ykiSY1uHTHCBVpbym4Uff) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Upside Down](https://open.spotify.com/album/2cF9Jv83As09soxqHeJuuf) | 3:16 |
 | 90 | [Final Breath](https://open.spotify.com/track/0KmWcBQsiZgiKqzfgjxC6x) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ) | [Final Breath](https://open.spotify.com/album/2zzZimoreQVoJksCnl7suu) | 3:49 |
 | 91 | [New Girl](https://open.spotify.com/track/5Ha86zPip9CSUj8hB61yUi) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [New Girl](https://open.spotify.com/album/7cOfe7aXFYyZ6rrhrlcp2i) | 2:08 |
-| 92 | [Bring The Drums In \(feat\. BabyChiefDoit\)](https://open.spotify.com/track/6O32ch9iADcpgPqVJdo9V1) | [Bri3](https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Bring The Drums In \(feat\. BabyChiefDoit\)](https://open.spotify.com/album/2lNCLpfApl18ECLTIBrFYv) | 2:40 |
+| 92 | [Bring The Drums In \(feat\. BabyChiefDoit\)](https://open.spotify.com/track/6O32ch9iADcpgPqVJdo9V1) | [Bri3](https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Bring The Drums In \(feat\. BabyChiefDoit\)](https://open.spotify.com/album/2lNCLpfApl18ECLTIBrFYv) | 2:42 |
 | 93 | [Make Me Feel \(with LaRussell\)](https://open.spotify.com/track/3fWFpIGeEWYgrwV1peKywx) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM) | [Say Yes](https://open.spotify.com/album/3KvajQirBv0q6FPpD3JNag) | 3:09 |
 | 94 | [I Am Going Through Hell \(Bittersweet\)](https://open.spotify.com/track/4OmY7XHG4xGHMov01G9QZd) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [StarX Lover](https://open.spotify.com/album/6UPECmrrwiBjY0KhRHDNiG) | 3:16 |
 | 95 | [NEVER TELL YOU NO](https://open.spotify.com/track/2ulgNwGM87DfrzLO1Qywbw) | [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ) | [LOW ROAD](https://open.spotify.com/album/4MMo6irssSwZPqitG2bMAl) | 2:32 |

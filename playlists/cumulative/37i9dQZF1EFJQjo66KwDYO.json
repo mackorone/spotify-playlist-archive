@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "TYLA +",
+        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155220,
+      "name": "BACK to YOU",
+      "url": "https://open.spotify.com/track/4Oh1zkPShpImBJOBOKMMAq"
+    },
+    {
+      "album": {
         "name": "Modus Operandi",
         "url": "https://open.spotify.com/album/16JYdERnBWMgtLL7JEluUq"
       },
@@ -774,6 +792,36 @@
       "duration_ms": 229625,
       "name": "Mind Games (feat. Dyo) - Nora En Pure Remix",
       "url": "https://open.spotify.com/track/4pHRsGz9MFonG9qTEOil6x"
+    },
+    {
+      "album": {
+        "name": "My Love (feat. Ayra Starr) [Remixes]",
+        "url": "https://open.spotify.com/album/098hyxuLtCjLSY0UkmGVfu"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        },
+        {
+          "name": "Crate Classics",
+          "url": "https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182109,
+      "name": "My Love (feat. Ayra Starr and BEAM) - Crate Classics Remix",
+      "url": "https://open.spotify.com/track/10Nro5eWjwoG71jVE7J79L"
     },
     {
       "album": {

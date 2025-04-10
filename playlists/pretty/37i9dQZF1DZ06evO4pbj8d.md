@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 
 > This is Joy Oladokun\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,954 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,955 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 | 30 | [Bigger Man \(with Maren Morris\)](https://open.spotify.com/track/3Dd9ip26FejJl8qi6mJ7M8) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:06 |
 | 31 | [Northern Sky \- from The Fire Inside](https://open.spotify.com/track/6ySbh4Se81hlu3oqITPCAL) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Northern Sky \(from The Fire Inside\)](https://open.spotify.com/album/5SUt4IBkcDOfQPtukbwJkO) | 3:30 |
 | 32 | [The Hard Way](https://open.spotify.com/track/4ZWK6VyzlXUb2n96pXDIsE) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 4:00 |
-| 33 | [LETTER FROM A BLACKBIRD](https://open.spotify.com/track/4LZ8uQgHZKAk9KCQa32dNF) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 2:13 |
+| 33 | [QUESTIONS, CHAOS & FAITH](https://open.spotify.com/track/1bHUfLczpJKKgyB5OKlBbE) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 3:57 |
 | 34 | [i see america](https://open.spotify.com/track/6hi7QmxdXBbgdFSnQjCiaK) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 2:44 |
 | 35 | [bad blood](https://open.spotify.com/track/4lizDGXpBCg6o9B90eA5pH) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:08 |
 | 36 | [Out on the Weekend](https://open.spotify.com/track/6b9aVZxVnYtUIZD8oW9yS9) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 4:02 |
-| 37 | [QUESTIONS, CHAOS & FAITH](https://open.spotify.com/track/1bHUfLczpJKKgyB5OKlBbE) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 3:57 |
+| 37 | [LETTER FROM A BLACKBIRD](https://open.spotify.com/track/4LZ8uQgHZKAk9KCQa32dNF) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 2:13 |
 | 38 | [Shelter](https://open.spotify.com/track/3caJRuvtyzXyECb92ORGqF) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 3:55 |
 | 39 | [younger days](https://open.spotify.com/track/2agvjfJOq8U16b5IOjH1YC) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:34 |
 | 40 | [Count On Me](https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [The Hating Game \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5) | 3:16 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 | 46 | [Animals & Angels](https://open.spotify.com/track/0UIIvj8kMxJCxi831RpS4c) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 4:39 |
 | 47 | [Memphis](https://open.spotify.com/track/1yeSznrghGszZVKvN5DZ2f) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Memphis](https://open.spotify.com/album/3Q4xfrse6fqosRqjAzqF7s) | 4:06 |
 | 48 | [judas](https://open.spotify.com/track/03x5RegHjby0lwfcqQ2GjI) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/4FzapZZ2S0xvuB5yJLebUM) | 2:41 |
-| 49 | [this little lighter of mine \(joy version\)](https://open.spotify.com/track/0kmtDfNT55QKdwYEENuzgO) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [this little lighter of mine \(joy version\)](https://open.spotify.com/album/5UTl57aV9zlJ8Q7XM1jQq4) | 3:49 |
-| 50 | [Way of Nature Way of Grace](https://open.spotify.com/track/6XvIVhREinnOkdeh1v6Ut0) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [With Love From](https://open.spotify.com/album/3oFIKpX63uWlFve7BaVK1r) | 4:00 |
+| 49 | [Way of Nature Way of Grace](https://open.spotify.com/track/6XvIVhREinnOkdeh1v6Ut0) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [With Love From](https://open.spotify.com/album/3oFIKpX63uWlFve7BaVK1r) | 4:00 |
+| 50 | [this little lighter of mine \(joy version\)](https://open.spotify.com/track/0kmtDfNT55QKdwYEENuzgO) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [this little lighter of mine \(joy version\)](https://open.spotify.com/album/5UTl57aV9zlJ8Q7XM1jQq4) | 3:49 |
 
-Snapshot ID: `Z/MVgAAAAADIjQKIRnfzJv6y1tPMpcK5`
+Snapshot ID: `Z/RnAAAAAAAOnigrMyq5w4Kfl4PuZuMf`

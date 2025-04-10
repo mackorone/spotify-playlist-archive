@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5463MYlHXHD.md) - [plain]
 
 > Vieja escuela y de ahora 📸 Los Turros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,624 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,616 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5463MYlHXHD.md) - [plain]
 | 6 | [Eres](https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Eres](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:16 |
 | 7 | [Tu Turrito](https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Tu Turrito](https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02) | 2:44 |
 | 8 | [Ahi Ahi](https://open.spotify.com/track/5O9IqFNUVtjRlDpdKex3YH) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [Ahi Ahi](https://open.spotify.com/album/10b8qKyITW4qsKqatPr8q3) | 2:56 |
-| 9 | [Bailan Rochas y Chetas](https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Me Declaro Culpable](https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn) | 2:58 |
+| 9 | [Bailan Rochas y Chetas](https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN), [Magenta](https://open.spotify.com/artist/0uT3lm3wY3LnyP6dtok0q4) | [Me Declaro Culpable](https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn) | 2:58 |
 | 10 | [La Cumbia De Los Trapos](https://open.spotify.com/track/3hFYJSfGQgEOXfMAHL30Tl) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [20 Grandes Exitos](https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj) | 4:11 |
 | 11 | [PONTE PERRO \| DJ TAO Turreo Sessions \#24](https://open.spotify.com/track/0T25HZGE0WwyELWBlXQVbY) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [PONTE PERRO \| DJ TAO Turreo Sessions \#24](https://open.spotify.com/album/5S53ufaOE0vScVuQ17GKOH) | 2:29 |
 | 12 | [Dale al perreo](https://open.spotify.com/track/6YoP8EHV3T4XYVgDaZS6pG) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf), [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub), [Chesterzeta](https://open.spotify.com/artist/57LKawbl0pHpkrNfosEgFG) | [Dale al perreo](https://open.spotify.com/album/2VU31DfagyLpbwrdG8MMRD) | 3:05 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5463MYlHXHD.md) - [plain]
 | 45 | [No voy a llorar](https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE) | [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM) | [Altos Cumbieros \- Cumbia Villera](https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF) | 3:08 |
 | 46 | [Auto Al Piso](https://open.spotify.com/track/2YwFbO158HeAMCSjSaouRu) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [Auto Al Piso](https://open.spotify.com/album/3wCxXHDzoxH1XS6Z8u8Uuy) | 2:54 |
 | 47 | [No Me Vuelvo A Enamorar](https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Con La Cumbia En La Sangre](https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp) | 2:51 |
-| 48 | [Chetos y Cumbieros](https://open.spotify.com/track/6EsuTkSB0cLNfeHnzxBUJS) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Me Declaro Culpable](https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn) | 2:57 |
+| 48 | [Chetos y Cumbieros](https://open.spotify.com/track/6EsuTkSB0cLNfeHnzxBUJS) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN), [Magenta](https://open.spotify.com/artist/0uT3lm3wY3LnyP6dtok0q4) | [Me Declaro Culpable](https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn) | 2:57 |
 | 49 | [A Chillar a Otra Parte](https://open.spotify.com/track/6rbRGG6KLfSCLW5EN4VlsI) | [El Tecla](https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH) | [Único en Su Especie](https://open.spotify.com/album/1wU7LHfFlihSDZUJ6EU1Tf) | 3:45 |
 | 50 | [La Mejor de Todas](https://open.spotify.com/track/3JfGUpclRKRkhp4QdqHckz) | [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub) | [La Repandilla](https://open.spotify.com/album/7wUrqsk3ts4yUYsKNWnWpi) | 3:28 |
 | 51 | [La colorada](https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 
 > This is Megadeth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,724 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,791 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 | 35 | [Reckoning Day \- Remastered 2004](https://open.spotify.com/track/1Bw7kDeY4ZPfUo5UY18tOO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 4:34 |
 | 36 | [Architecture Of Aggression](https://open.spotify.com/track/1BbocHcTYAu0wCS4NqgRsI) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 3:39 |
 | 37 | [99 Ways To Die](https://open.spotify.com/track/75t7W9LYbkgbkeT6B5EoHM) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Hidden Treasures](https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY) | 3:58 |
-| 38 | [Dawn Patrol](https://open.spotify.com/track/4b2GAM5mE3K0btATdsi0UO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace](https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv) | 1:50 |
-| 39 | [Almost Honest \- Remastered 2004 / Remixed](https://open.spotify.com/track/2uw3kbepHeeeLTykdUeOtI) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Cryptic Writings \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL) | 4:08 |
+| 38 | [Almost Honest \- Remastered 2004 / Remixed](https://open.spotify.com/track/2uw3kbepHeeeLTykdUeOtI) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Cryptic Writings \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL) | 4:08 |
+| 39 | [Dawn Patrol](https://open.spotify.com/track/4b2GAM5mE3K0btATdsi0UO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace](https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv) | 1:50 |
 | 40 | [Blood Of Heroes \- Remastered 2004](https://open.spotify.com/track/4fPVJz7EYTqCqgXxLjQrSn) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 3:50 |
 | 41 | [Life In Hell](https://open.spotify.com/track/1wObJxo4kYisj7tot8PVvT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 4:12 |
 | 42 | [The Conjuring \- Remastered](https://open.spotify.com/track/0pv49erP5wxMZMnprRCqXT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 5:02 |
 | 43 | [Return to Hangar](https://open.spotify.com/track/3ZKHEhU9lhOhCYWXtKykBl) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The World Needs a Hero](https://open.spotify.com/album/1BbQ01oDFvVK4aHdgvsBB9) | 3:59 |
-| 44 | [A Secret Place \- Remastered 2004 / Remixed](https://open.spotify.com/track/3b1nPEPh9OGSngRUciEv6P) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Cryptic Writings \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL) | 5:24 |
+| 44 | [Rattlehead](https://open.spotify.com/track/0a87tfuBhOFmYMgPjyR53R) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Killing Is My Business...And Business Is Good!](https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk) | 3:43 |
 | 45 | [Soldier On!](https://open.spotify.com/track/4jj9IDO2tCu7OuSop8vTxt) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 4:54 |
 | 46 | [Devils Island \- 2004 Remaster](https://open.spotify.com/track/009aJqwtazpcpmOW3YbwDx) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 5:05 |
-| 47 | [Rattlehead](https://open.spotify.com/track/0a87tfuBhOFmYMgPjyR53R) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Killing Is My Business...And Business Is Good!](https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk) | 3:43 |
+| 47 | [A Secret Place \- Remastered 2004 / Remixed](https://open.spotify.com/track/3b1nPEPh9OGSngRUciEv6P) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Cryptic Writings \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL) | 5:24 |
 | 48 | [Sudden Death](https://open.spotify.com/track/1JjrlHVsqKFDr0j8PebFnp) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Th1rt3en](https://open.spotify.com/album/0ja6Rjg1a5Fw2IEwTymwQE) | 5:09 |
 | 49 | [I Know Jack](https://open.spotify.com/track/0QmZdn4mS4Ev2mcH9xYZU4) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The System Has Failed](https://open.spotify.com/album/61r8RVSOccHFbMtUDzGpns) | 0:40 |
 | 50 | [Cold Sweat](https://open.spotify.com/track/5UJraESM8I4ksmQoEzu95i) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Super Collider](https://open.spotify.com/album/4SG1HFhXihESspVTyKYl5j) | 3:10 |
 
-Snapshot ID: `Z/MVgAAAAACiw5VYBdR6oRT6hVQzYE/w`
+Snapshot ID: `Z/RnAAAAAAAGdq7p65IS/ztwaUo4A4J2`

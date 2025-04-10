@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125456,
+  "num_followers": 125452,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAT6CaAvnOWOZQS/yR6Gnrn8JDLXbMB",
+  "snapshot_id": "AAAT6V9xgSFbnoHdYRIi6hfzt4Ca2mSh",
   "tracks": [
+    {
+      "added_at": "2025-04-09 14:28:06",
+      "album": {
+        "name": "Jawbreaker",
+        "url": "https://open.spotify.com/album/1zafQ1iegSrnhHMwloCCST"
+      },
+      "artists": [
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "Careless Castle",
+          "url": "https://open.spotify.com/artist/3AIJLK5M4FWwSx23YvOgvC"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Jawbreaker",
+      "url": "https://open.spotify.com/track/6uZrX5DBIU0zWIqh5Sy7fE"
+    },
     {
       "added_at": "2025-04-08 15:15:01",
       "album": {

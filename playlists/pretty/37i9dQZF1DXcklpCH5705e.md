@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 > Hotpot & HOTPOP，都係我哋共同語言！<br/>新鮮滾熱辣 Mando\-HOTpop track !
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,953 likes - 48 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,955 likes - 48 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [愚人節快樂](https://open.spotify.com/track/2FQE7XVMDtuHjkjY0D1uwj) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [愚人節快樂](https://open.spotify.com/album/7lFcdqW9C9MGbgD8H6a2Ex) | 4:16 |
-| 2 | [我天生 \- 有夢版](https://open.spotify.com/track/2YtxuYoG085nAa0F23c8Ln) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我天生 \- 有夢版](https://open.spotify.com/album/28W9uyxA4MIu5npe8Rt1sI) | 4:40 |
+| 2 | [我天生 \- 有夢版](https://open.spotify.com/track/2YtxuYoG085nAa0F23c8Ln) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我天生 \- 有夢版](https://open.spotify.com/album/28W9uyxA4MIu5npe8Rt1sI) | 4:39 |
 | 3 | [人醒著不過一萬多天](https://open.spotify.com/track/2M3RZZVaDI606gFCf8mQ00) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [人醒著不過一萬多天](https://open.spotify.com/album/6ElA3UsQyvUYOWYycmtAGq) | 4:33 |
 | 4 | [Jumping Machine \(跳楼机\)](https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [Jumping Machine \(跳楼机\)](https://open.spotify.com/album/0ZrCpc5hnI1DGwUH3UCCQM) | 3:21 |
 | 5 | [白日夢繩索](https://open.spotify.com/track/6Jy0rQR3mrYX57MoSt8Lmc) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [白日夢繩索](https://open.spotify.com/album/1gmqNF6LM9coMjNv5og8u7) | 3:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from the continent to Paris\. Photo : 3xdavs
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,379 likes - 40 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,418 likes - 39 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,15 +38,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 28 | [Arc de triomphe](https://open.spotify.com/track/4aV2PjsVYk9LH2c9VglQaY) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [PUISSANCE 10](https://open.spotify.com/album/1QOOo89CPbMG2BDIlpVNSg) | 3:25 |
 | 29 | [Môgô Fariman](https://open.spotify.com/track/6H9f90Md53mcvSyeBaPKGl) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI) | [Môgô Fariman](https://open.spotify.com/album/6jmffQa8Asr8AOX0SE0yrl) | 4:18 |
 | 30 | [C'est dosé](https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [C'est dosé](https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5) | 3:26 |
-| 31 | [Danse comme nicapol](https://open.spotify.com/track/1ERTZRnikTXqFzWlvYjidK) | [Juncko](https://open.spotify.com/artist/4tKswSKzVZ0hQ35Fo5TLes) | [Danse comme nicapol](https://open.spotify.com/album/7cOvEs8WATDI5f6mrShnCy) | 2:47 |
-| 32 | [R1moudo](https://open.spotify.com/track/0PG8mysSqaC4TnPQxiWFWf) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [R1moudo](https://open.spotify.com/album/70pNUEGEYzRxlsUJgI9rHi) | 2:44 |
-| 33 | [Ambiance](https://open.spotify.com/track/74EJEB08idbiA53t61V9pU) | [TEAM DÉCALÉ](https://open.spotify.com/artist/4qym3w1SpxIMrorfAp5Os3) | [Ambiance](https://open.spotify.com/album/5g34hzac6FbJM8VehF7dtj) | 3:02 |
-| 34 | [Were were](https://open.spotify.com/track/0zi1ggaicBG51ITJNqghh3) | [Abomé Léléfant](https://open.spotify.com/artist/5MU4VD6BQR9h0TK5pQOqDO) | [Were were](https://open.spotify.com/album/71JZhJWNnLOzVQq4iGvhjF) | 2:44 |
-| 35 | [Intervention Rapide](https://open.spotify.com/track/6WY2LPHEspgbpO7sQb0Zjn) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [Intervention Rapide](https://open.spotify.com/album/0Gwjqhqw79umMJQmjhpjaq) | 3:43 |
-| 36 | [DÉCAPSULEUR](https://open.spotify.com/track/6SDUCSyKIkXlm4uNwZ1elB) | [Kedjevara](https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6) | [Kedjevaratitude](https://open.spotify.com/album/6EqhI5aGnP7SdKzljcjDBJ) | 3:45 |
-| 37 | [Mon combat](https://open.spotify.com/track/6T6AQIS7A7zUTgl3ByyKq6) | [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [Mon combat](https://open.spotify.com/album/3fPVIQpas8ugxlY9ZasrBv) | 3:32 |
-| 38 | [Calculatrice](https://open.spotify.com/track/1CbMMoHWbATGljOR58qEQX) | [Ovie Kan](https://open.spotify.com/artist/3nKWXc2kFHNOhjr37rkvqd) | [Calculatrice](https://open.spotify.com/album/1pQi43kOfpPTlgZRiRMvN8) | 3:45 |
-| 39 | [La Pression](https://open.spotify.com/track/5xtKQTfSc41tLz1gttkghz) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [La Pression](https://open.spotify.com/album/6BLbAR5GXdbWGttpORbPot) | 3:00 |
-| 40 | [C'EST SON TEMPS](https://open.spotify.com/track/24Q4IrzjWhZnAB9e5oDGrb) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [C'EST SON TEMPS](https://open.spotify.com/album/5pSmtSt3JwN7vQ5AdeESpS) | 3:58 |
+| 31 | [R1moudo](https://open.spotify.com/track/0PG8mysSqaC4TnPQxiWFWf) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [R1moudo](https://open.spotify.com/album/70pNUEGEYzRxlsUJgI9rHi) | 2:44 |
+| 32 | [Ambiance](https://open.spotify.com/track/74EJEB08idbiA53t61V9pU) | [TEAM DÉCALÉ](https://open.spotify.com/artist/4qym3w1SpxIMrorfAp5Os3) | [Ambiance](https://open.spotify.com/album/5g34hzac6FbJM8VehF7dtj) | 3:02 |
+| 33 | [Were were](https://open.spotify.com/track/0zi1ggaicBG51ITJNqghh3) | [Abomé Léléfant](https://open.spotify.com/artist/5MU4VD6BQR9h0TK5pQOqDO) | [Were were](https://open.spotify.com/album/71JZhJWNnLOzVQq4iGvhjF) | 2:44 |
+| 34 | [Intervention Rapide](https://open.spotify.com/track/6WY2LPHEspgbpO7sQb0Zjn) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [Intervention Rapide](https://open.spotify.com/album/0Gwjqhqw79umMJQmjhpjaq) | 3:43 |
+| 35 | [DÉCAPSULEUR](https://open.spotify.com/track/6SDUCSyKIkXlm4uNwZ1elB) | [Kedjevara](https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6) | [Kedjevaratitude](https://open.spotify.com/album/6EqhI5aGnP7SdKzljcjDBJ) | 3:45 |
+| 36 | [Mon combat](https://open.spotify.com/track/6T6AQIS7A7zUTgl3ByyKq6) | [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [Mon combat](https://open.spotify.com/album/3fPVIQpas8ugxlY9ZasrBv) | 3:32 |
+| 37 | [Calculatrice](https://open.spotify.com/track/1CbMMoHWbATGljOR58qEQX) | [Ovie Kan](https://open.spotify.com/artist/3nKWXc2kFHNOhjr37rkvqd) | [Calculatrice](https://open.spotify.com/album/1pQi43kOfpPTlgZRiRMvN8) | 3:45 |
+| 38 | [La Pression](https://open.spotify.com/track/5xtKQTfSc41tLz1gttkghz) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [La Pression](https://open.spotify.com/album/6BLbAR5GXdbWGttpORbPot) | 3:00 |
+| 39 | [C'EST SON TEMPS](https://open.spotify.com/track/24Q4IrzjWhZnAB9e5oDGrb) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [C'EST SON TEMPS](https://open.spotify.com/album/5pSmtSt3JwN7vQ5AdeESpS) | 3:58 |
 
-Snapshot ID: `Z+8FEgAAAAAsfOZiVyNx9vymJ+gKeLCA`
+Snapshot ID: `Z/aRkQAAAAAZBIO+tqKiTrWWzdfACBM0`

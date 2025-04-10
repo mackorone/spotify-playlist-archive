@@ -8693,6 +8693,28 @@
     },
     {
       "album": {
+        "name": "Jawbreaker",
+        "url": "https://open.spotify.com/album/1zafQ1iegSrnhHMwloCCST"
+      },
+      "artists": [
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "Careless Castle",
+          "url": "https://open.spotify.com/artist/3AIJLK5M4FWwSx23YvOgvC"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "Jawbreaker",
+      "url": "https://open.spotify.com/track/6uZrX5DBIU0zWIqh5Sy7fE"
+    },
+    {
+      "album": {
         "name": "Jealousy",
         "url": "https://open.spotify.com/album/4gLFhQ34tPaaJYcWVLuZEO"
       },

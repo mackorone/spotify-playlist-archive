@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wfQutivYYr.md) - [plain]
 
 > Gaia sulla cover della playlist più grande in Italia! 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,701,919 likes - 55 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,701,942 likes - 55 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,21 +12,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wfQutivYYr.md) - [plain]
 | 2 | [Islanda](https://open.spotify.com/track/25mDnFOFyPmebNAok8mavk) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Islanda](https://open.spotify.com/album/0awzpRHpQcLl76a8SRJ50R) | 3:37 |
 | 3 | [Balorda nostalgia](https://open.spotify.com/track/0ZmhDgy5eWjdLOQFEEe3bm) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Balorda nostalgia](https://open.spotify.com/album/5ugzj4AP2B0n1FlDAb25kZ) | 3:17 |
 | 4 | [Oh Mamma Mia \(feat\. Rose Villain\)](https://open.spotify.com/track/4GkgNC3bpLqXyuxWvlNfKI) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:48 |
-| 5 | [LA CURA PER ME](https://open.spotify.com/track/5tOBPD3zL9kWpeELqkzwJC) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [LA CURA PER ME](https://open.spotify.com/album/6geq7QfWKqRKIvgvuiN9cw) | 3:35 |
-| 6 | [BUIO DAVANTI](https://open.spotify.com/track/4iD0Ohz6dx6ii0zTglaBMn) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:09 |
-| 7 | [Incoscienti Giovani](https://open.spotify.com/track/25VdEndwyUDs0DbpfCMfKD) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Incoscienti Giovani](https://open.spotify.com/album/1Qp7zFISJ3UoIZ86inShdW) | 3:24 |
-| 8 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 |
-| 9 | [ANEMA E CORE](https://open.spotify.com/track/5M8Z823Sb2BhMpecHksN0T) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi) | [ANEMA E CORE](https://open.spotify.com/album/2t1lwzO3j3iRxYrIdNQJLi) | 2:46 |
-| 10 | [TU CON CHI FAI L'AMORE](https://open.spotify.com/track/06ZV0oxrmuVf6rThhGtxxy) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [TU CON CHI FAI L'AMORE](https://open.spotify.com/album/43QUbp2adTA2x2nnLnYnx8) | 3:27 |
-| 11 | [fuorilegge](https://open.spotify.com/track/2C46EwfXY2ijlt7BfBY5mi) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [fuorilegge](https://open.spotify.com/album/0AUY58T6LbtiJ0CuY4E7qu) | 3:41 |
-| 12 | [GLI SBANDATI HANNO PERSO](https://open.spotify.com/track/4MtjrbmBKdYRMTyEHqOUmM) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:14 |
-| 13 | [Scarabocchi](https://open.spotify.com/track/4X4R6qsIicxIQIFbnDcJLO) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA](https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7) | 3:00 |
-| 14 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
-| 15 | [Ora che non ho più te](https://open.spotify.com/track/1tse93p9ApWJtMGYRxCKNm) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Ora che non ho più te](https://open.spotify.com/album/0GjC6blqcboQAQExPBF4kf) | 5:03 |
-| 16 | [La tana del granchio](https://open.spotify.com/track/4RTMLSmkfK9kqKlmTPGRzo) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [La tana del granchio](https://open.spotify.com/album/4DcdZiHkRo5zy6gzHyeHk0) | 3:29 |
-| 17 | [BOOSTER](https://open.spotify.com/track/62UEDjQEgBx7GDKDiSoz3i) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [CALMOCOBRA](https://open.spotify.com/album/5Lxs0AM3WPdKzWxYhrYYgv) | 3:15 |
-| 18 | [BATTITO](https://open.spotify.com/track/6bfy5e5jWNcNSFAJzsMPED) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [BATTITO](https://open.spotify.com/album/2XMeGxa3WRs1qIjrSOAJDw) | 3:14 |
-| 19 | [SOGNO AMERICANO](https://open.spotify.com/track/7i0zYckMTyvLyKAFxfOKIS) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:56 |
+| 5 | [SOGNO AMERICANO](https://open.spotify.com/track/7i0zYckMTyvLyKAFxfOKIS) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:56 |
+| 6 | [LA CURA PER ME](https://open.spotify.com/track/5tOBPD3zL9kWpeELqkzwJC) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [LA CURA PER ME](https://open.spotify.com/album/6geq7QfWKqRKIvgvuiN9cw) | 3:35 |
+| 7 | [BUIO DAVANTI](https://open.spotify.com/track/4iD0Ohz6dx6ii0zTglaBMn) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:09 |
+| 8 | [Incoscienti Giovani](https://open.spotify.com/track/25VdEndwyUDs0DbpfCMfKD) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Incoscienti Giovani](https://open.spotify.com/album/1Qp7zFISJ3UoIZ86inShdW) | 3:24 |
+| 9 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 |
+| 10 | [La tana del granchio](https://open.spotify.com/track/4RTMLSmkfK9kqKlmTPGRzo) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [La tana del granchio](https://open.spotify.com/album/4DcdZiHkRo5zy6gzHyeHk0) | 3:29 |
+| 11 | [ANEMA E CORE](https://open.spotify.com/track/5M8Z823Sb2BhMpecHksN0T) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi) | [ANEMA E CORE](https://open.spotify.com/album/2t1lwzO3j3iRxYrIdNQJLi) | 2:46 |
+| 12 | [TU CON CHI FAI L'AMORE](https://open.spotify.com/track/06ZV0oxrmuVf6rThhGtxxy) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [TU CON CHI FAI L'AMORE](https://open.spotify.com/album/43QUbp2adTA2x2nnLnYnx8) | 3:27 |
+| 13 | [fuorilegge](https://open.spotify.com/track/2C46EwfXY2ijlt7BfBY5mi) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [fuorilegge](https://open.spotify.com/album/0AUY58T6LbtiJ0CuY4E7qu) | 3:41 |
+| 14 | [GLI SBANDATI HANNO PERSO](https://open.spotify.com/track/4MtjrbmBKdYRMTyEHqOUmM) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:14 |
+| 15 | [Scarabocchi](https://open.spotify.com/track/4X4R6qsIicxIQIFbnDcJLO) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA](https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7) | 3:00 |
+| 16 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
+| 17 | [Ora che non ho più te](https://open.spotify.com/track/1tse93p9ApWJtMGYRxCKNm) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Ora che non ho più te](https://open.spotify.com/album/0GjC6blqcboQAQExPBF4kf) | 5:03 |
+| 18 | [BOOSTER](https://open.spotify.com/track/62UEDjQEgBx7GDKDiSoz3i) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [CALMOCOBRA](https://open.spotify.com/album/5Lxs0AM3WPdKzWxYhrYYgv) | 3:15 |
+| 19 | [BATTITO](https://open.spotify.com/track/6bfy5e5jWNcNSFAJzsMPED) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [BATTITO](https://open.spotify.com/album/2XMeGxa3WRs1qIjrSOAJDw) | 3:14 |
 | 20 | [Amarcord](https://open.spotify.com/track/2WiYCsnOxE29r8Y8gV9aVA) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Amarcord](https://open.spotify.com/album/62YeWc9AC2BZFslVRn1R4K) | 3:03 |
 | 21 | [LEI](https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:43 |
 | 22 | [La Mia Parola \(feat\. Guè, Joshua, Tormento\)](https://open.spotify.com/track/177cKZBT80QEPlrSS4nLw9) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L) | [La Mia Parola \(feat\. Guè, Joshua, Tormento\)](https://open.spotify.com/album/5GgnDI96JqeBJUEkAQ8Jtw) | 2:50 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wfQutivYYr.md) - [plain]
 | 54 | [Lo So Che](https://open.spotify.com/track/3w73qvCSGWPCx7w1UMIh6e) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [FERITE \(Deluxe Edition\)](https://open.spotify.com/album/7g7002AcxLMerhLQEA8naR) | 3:01 |
 | 55 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
 
-Snapshot ID: `Z/P8HAAAAAAmQ25FUffZyRSl11ISW0pm`
+Snapshot ID: `Z/ZnIgAAAAB003vMwreoXGRVIB7sdd0y`

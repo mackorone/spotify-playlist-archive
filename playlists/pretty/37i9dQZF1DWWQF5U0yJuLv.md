@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,948 likes - 150 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,026 likes - 150 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 118 | [Krautzig](https://open.spotify.com/track/1ihvgQmJUbKpDpebjGVS9E) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f), [Drumno](https://open.spotify.com/artist/7FRYe3XueljQJFNtEWcOqC) | [Krautzig](https://open.spotify.com/album/5RQWpx0iEPdXkvInyzBkW0) | 4:07 |
 | 119 | [STARS](https://open.spotify.com/track/0WSIufID4rzjlJaBneODBc) | [Sunsick](https://open.spotify.com/artist/0bXf3YSy8qNsLYYNy5vs5v) | [Firstsun](https://open.spotify.com/album/0cCW4DkYaH4YHeDmnlYyKe) | 3:08 |
 | 120 | [Nautilus](https://open.spotify.com/track/3LAB79eJTC9M6B39E6GjJx) | [Jake Slazenger](https://open.spotify.com/artist/7tDwkE4GtB5MKlmXfIEqMh) | [Das Ist Ein Groovybeat, Ja](https://open.spotify.com/album/01yJzz91YLSKPTGNO27WyS) | 6:19 |
-| 121 | [CREEK](https://open.spotify.com/track/6UYWctsd0e6g2m9JvXzErv) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 4:53 |
-| 122 | [Z](https://open.spotify.com/track/19G1b84wBvs8AB4mpkaLQb) | [Entele](https://open.spotify.com/artist/5S4KGrV1TY9Dqi8dS5LbPo) | [Z](https://open.spotify.com/album/1V3eYXwUbFiGsdLrFp8efN) | 3:55 |
+| 121 | [Z](https://open.spotify.com/track/19G1b84wBvs8AB4mpkaLQb) | [Entele](https://open.spotify.com/artist/5S4KGrV1TY9Dqi8dS5LbPo) | [Z](https://open.spotify.com/album/1V3eYXwUbFiGsdLrFp8efN) | 3:55 |
+| 122 | [CREEK](https://open.spotify.com/track/6UYWctsd0e6g2m9JvXzErv) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 4:53 |
 | 123 | [Jolly Pranks](https://open.spotify.com/track/4QeUbmB2aKz1KOatrjLW1K) | [Ron Geesin](https://open.spotify.com/artist/4daGH8VML8ZuDWhWytZdGa) | [Kpm 1000 Series: Atmospheres](https://open.spotify.com/album/1WQBoxhs1nkpZLdSQrZo5u) | 2:09 |
 | 124 | [Fol\-de\-rol](https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 3:48 |
 | 125 | [Sister Species](https://open.spotify.com/track/0xi81plszmA40tDw7cefN1) | [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [Meridians](https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC) | 5:04 |
@@ -138,15 +138,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 128 | [Comfort Chain](https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Comfort Chain](https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK) | 3:04 |
 | 129 | [City 66](https://open.spotify.com/track/0LoinP9A7yG0Irl0evvU2b) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG) | [Oasis Sky](https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10) | 3:44 |
 | 130 | [Kodomotachi](https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:06 |
-| 131 | [SHEEP](https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:19 |
+| 131 | [Aquarius](https://open.spotify.com/track/4ZX7QjwBqZTelll7to0d5S) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 5:58 |
 | 132 | [Meridians](https://open.spotify.com/track/0iJDit15B3kgxEvuSEzqK5) | [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [Meridians](https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC) | 4:43 |
-| 133 | [Aquarius](https://open.spotify.com/track/4ZX7QjwBqZTelll7to0d5S) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 5:58 |
+| 133 | [SHEEP](https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:19 |
 | 134 | [Lagoon](https://open.spotify.com/track/1pu33Nx594XUgHoAa0sj2a) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Lagoon](https://open.spotify.com/album/662zh7ap5hcvQKRIG5wuE3) | 3:10 |
 | 135 | [The Red Line](https://open.spotify.com/track/49d3Ukzxtx0lyYCztnY1Y4) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [The Red Line](https://open.spotify.com/album/4x3TyH5d8USGNgLowZ1n9w) | 2:38 |
-| 136 | [GREEN](https://open.spotify.com/track/4MoCSvcnlRpfMXUAd65LAB) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green \(SFX Version\)](https://open.spotify.com/album/6viDcqQjEZbYDCxomxO18w) | 5:21 |
+| 136 | [Roygbiv](https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 2:31 |
 | 137 | [I Can't Die As Well](https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45) | [Fire\-Toolz](https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o) | [I Can't Die As Well](https://open.spotify.com/album/2EnPEXGeSR82AuXVVUA7ok) | 2:25 |
 | 138 | [Ferrari Rocher](https://open.spotify.com/track/7KFHq7A8fDPv3vzGDWJ7Tf) | [The Golden Age of Wrestling](https://open.spotify.com/artist/1oWYlDyBHWNG3jeilUrDwp) | [Scorpion Deathlock](https://open.spotify.com/album/1t5hEdGsyJsZaYqeeuq8fF) | 2:53 |
-| 139 | [Roygbiv](https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 2:31 |
+| 139 | [GREEN](https://open.spotify.com/track/4MoCSvcnlRpfMXUAd65LAB) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green \(SFX Version\)](https://open.spotify.com/album/6viDcqQjEZbYDCxomxO18w) | 5:21 |
 | 140 | [Rockledge 3A](https://open.spotify.com/track/0q7N2mxBIDrv1ol2y1Sa2F) | [Datach'i](https://open.spotify.com/artist/6ZULITXmOFWJwJKilsFRm7) | [Bones](https://open.spotify.com/album/3NMs1HLjZjbVM1my5DPuak) | 4:36 |
 | 141 | [Eyen](https://open.spotify.com/track/4VJBvbJO0hb8rbksWMwVyC) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD), [Benet Walsh](https://open.spotify.com/artist/4MqsYgT5rDgG907p84pzIY) | [Double Figure](https://open.spotify.com/album/66PrP4FdZczQ4MlnElUduw) | 4:20 |
 | 142 | [People On Sunday](https://open.spotify.com/track/3qbJR3E3iKWssRw2nzhz2w) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H) | 3:45 |

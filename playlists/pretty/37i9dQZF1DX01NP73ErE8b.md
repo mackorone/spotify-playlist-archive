@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani che abbiamo on repeat 🔁 Elodie in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 614,314 likes - 71 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 614,375 likes - 71 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 36 | [Lentamente](https://open.spotify.com/track/234fOFiPU3zFTgkPNg5nX5) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Lentamente](https://open.spotify.com/album/5COzjRVJky9LsYdMVGk1L3) | 3:26 |
 | 37 | [Un mondo a parte](https://open.spotify.com/track/5niBKNtMNJTSPLTCBTc3wr) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Il corpo umano VOL\. 1](https://open.spotify.com/album/5GElpFAAm9NuWFau9h9Oj9) | 4:00 |
 | 38 | [Mal di te](https://open.spotify.com/track/4OkzRJ7eaAtIeaRZEqDLaz) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Mal di te](https://open.spotify.com/album/6xHBZ21IhmGakzi2Vd1OtA) | 2:59 |
-| 39 | [luci allo xeno](https://open.spotify.com/track/3zBsXyqrOj6QVVoGJtjOaZ) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [luci allo xeno](https://open.spotify.com/album/78ItbaiDnbYt7cy9ecMUmN) | 2:53 |
-| 40 | [L’ANTIDOTO](https://open.spotify.com/track/3LoF82vdIovbNRhhye7MVu) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [L’ANTIDOTO](https://open.spotify.com/album/7kcfPADNgBevXaUV3H9u4Q) | 2:28 |
+| 39 | [L’ANTIDOTO](https://open.spotify.com/track/3LoF82vdIovbNRhhye7MVu) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [L’ANTIDOTO](https://open.spotify.com/album/7kcfPADNgBevXaUV3H9u4Q) | 2:28 |
+| 40 | [luci allo xeno](https://open.spotify.com/track/3zBsXyqrOj6QVVoGJtjOaZ) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [luci allo xeno](https://open.spotify.com/album/78ItbaiDnbYt7cy9ecMUmN) | 2:53 |
 | 41 | [DI TUTTI](https://open.spotify.com/track/24cXuGIIlZKOsBztMwgrEK) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [DI TUTTI](https://open.spotify.com/album/73wOQCcvqPi9oQQ2yTRbby) | 3:24 |
 | 42 | [CUORICINI](https://open.spotify.com/track/0A9FAzeaUEMHB68FPk3GYc) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [CUORICINI](https://open.spotify.com/album/5iab7EULiYrp2rgp5PsdzK) | 3:14 |
 | 43 | [VERTEBRE](https://open.spotify.com/track/1CGqE43Inhm54oPCMrgF7S) | [SETTEMBRE](https://open.spotify.com/artist/3NYjsnTwQg5ukSulmf8JY2) | [VERTEBRE](https://open.spotify.com/album/3NALtxk7mVSDJNdMiRKD1m) | 2:50 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 70 | [Una scatola di mogano \- MERCURIO](https://open.spotify.com/track/2IpeIL6i4jn0tNa0239bOG) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Una scatola di mogano \- MERCURIO](https://open.spotify.com/album/6Jyt0QXVx5m2UgdNmYqLVA) | 2:45 |
 | 71 | [Quando Sarò Morto \- feat\. J\-AX](https://open.spotify.com/track/4wx82ugAwUW3ijUcBphOV7) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d), [J\-AX](https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5) | [Milanconia](https://open.spotify.com/album/1W1rSF0qAd7ybl8Z2pb26V) | 2:46 |
 
-Snapshot ID: `Z/WctAAAAAAbxLJf1qAzu+alazKaFOVM`
+Snapshot ID: `Z/ZL8gAAAAC+eqPj82EreUI6FgAQMVqZ`

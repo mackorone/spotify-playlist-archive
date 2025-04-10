@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najlepsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: <a href="spotify:artist:6EuekoOKebcHJWIqHuBK0H">Wiktoria Kida</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,869 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,874 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mała Malusieńka](https://open.spotify.com/track/48TClbsm640E4cYaUrkrSu) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Mała Malusieńka](https://open.spotify.com/album/1R26JGIqnCLXJ8GsxR6ya5) | 2:38 |
 | 2 | [Palimy to](https://open.spotify.com/track/1F6mI7VmAyagAcCqzHf4bD) | [nago](https://open.spotify.com/artist/1SffW2FKbStzVnMBdBwSy6) | [Palimy to](https://open.spotify.com/album/2btlhZ9XmpBRDVtisPY4R4) | 3:32 |
 | 3 | [Intro](https://open.spotify.com/track/6EQUzZmjsP0BMeOmqTjshI) | [Aleksander](https://open.spotify.com/artist/3ZHaJihO7saZsETK1lmFSj) | [Intro](https://open.spotify.com/album/2nsvGTdukZaV4DuVIgBmRq) | 1:48 |
-| 4 | [Sierpień](https://open.spotify.com/track/4LbKV1qFKnDFVT5Se8Xdhc) | [Martini Police](https://open.spotify.com/artist/0JK30CTlvxZpyE4GqsIJeN) | [Powrót z gwiazd](https://open.spotify.com/album/4CY4FLQKaxjfDdHvcCnF4M) | 4:03 |
+| 4 | [Sierpień](https://open.spotify.com/track/4LbKV1qFKnDFVT5Se8Xdhc) | [Martini Police](https://open.spotify.com/artist/0JK30CTlvxZpyE4GqsIJeN) | [Powrót z Gwiazd](https://open.spotify.com/album/4CY4FLQKaxjfDdHvcCnF4M) | 4:03 |
 | 5 | [Brwi](https://open.spotify.com/track/072MkdwG4XQV6j4wZiMH0T) | [Älskar](https://open.spotify.com/artist/3IowoyLkVgVaXx2pF8KQeP) | [Brwi](https://open.spotify.com/album/46fwACx3XE7drJfEJUmRd6) | 3:27 |
 | 6 | [Nie Lubię Wracać Gdy Nikt Nie Czeka](https://open.spotify.com/track/24cbUnFK0Zhy6zeqm8Duoz) | [Zuzanna Freda](https://open.spotify.com/artist/7k4Ut55L6DeMkf1u7oLIte) | [Nie Lubię Wracać Gdy Nikt Nie Czeka](https://open.spotify.com/album/0HSyYmFixZOOn39p0fjSlI) | 2:26 |
 | 7 | [Chciałbym Proste](https://open.spotify.com/track/09SYodgYChFJaDZQNWpTv5) | [ZPN](https://open.spotify.com/artist/4mco5h2dkUnToDdkgsD8WQ), [Mlody Leszcz](https://open.spotify.com/artist/5jLZ7LjTo6P73d0mjYwgXv), [haos](https://open.spotify.com/artist/4e1WgQVAT1B2g4U2C748A0) | [Chciałbym Proste](https://open.spotify.com/album/3upN8k0aGZKF127pkMet2V) | 2:57 |

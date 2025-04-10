@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,159 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,239 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 74 | [locket](https://open.spotify.com/track/1jXxhzjFxH8hN1xmcnYhjs) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv), [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv), [Ari Liloia](https://open.spotify.com/artist/6rYxB2pEDc1emPnoDq8rg3) | [keepsakeFM](https://open.spotify.com/album/2i1cIbR3OSxc6Mwx1UDgyH) | 2:16 |
 | 75 | [Eon Lens](https://open.spotify.com/track/15qiprD5zSvHE0JF8duU3J) | [Next To Blue](https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco) | [Eon Lens](https://open.spotify.com/album/12ya6nZTDp02vO0W8uCwL6) | 5:43 |
 | 76 | [Pantalini](https://open.spotify.com/track/6WDzcqc4VIgMggSMFBnWVt) | [Machweo](https://open.spotify.com/artist/5Mr3g9Iu3I1jnGYi2ATlH3) | [Musica da Festa](https://open.spotify.com/album/1k6Fms9OmPKI3jh4ylxPmC) | 3:59 |
-| 77 | [SHEEP](https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:19 |
-| 78 | [Affection](https://open.spotify.com/track/6FLFW2V2ne8lJ3c6HFQ1cm) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Affection](https://open.spotify.com/album/0oDifJioDcsvb3rt03OPPp) | 3:40 |
+| 77 | [Affection](https://open.spotify.com/track/6FLFW2V2ne8lJ3c6HFQ1cm) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Affection](https://open.spotify.com/album/0oDifJioDcsvb3rt03OPPp) | 3:40 |
+| 78 | [SHEEP](https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:19 |
 | 79 | [White Gloves](https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3) | 3:38 |
 | 80 | [Implosion\-Explosion](https://open.spotify.com/track/5teWqTjZx7kMto0UUKGCZK) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [The Tunnel and the Clearing](https://open.spotify.com/album/0D9pj1z6nbPPfJipQGeMfo) | 5:33 |
 | 81 | [Poison Tree](https://open.spotify.com/track/6RDVwKLpBBEksWdp9jwBlD) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/3vMDgHTapJG43G5rrBg3SE) | 3:16 |
@@ -98,12 +98,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 88 | [Immunity](https://open.spotify.com/track/1WOxGNutRwrbik8BA5f2AY) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Immunity](https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35) | 9:56 |
 | 89 | [aisatsana \[102\]](https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 5:21 |
 | 90 | [Places](https://open.spotify.com/track/3oGqaG8lbdMzw4kgRb0CYz) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [Bad Vibes](https://open.spotify.com/album/3VpOUMVf32y2WQasgqmGPn) | 5:02 |
-| 91 | [Smokebelch II \- Beatless Mix](https://open.spotify.com/track/0WvOTOVdItdQgWB6hEvIqQ) | [The Sabres Of Paradise](https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS) | [Sabresonic](https://open.spotify.com/album/3MeNCEVxsgW3JkPDBMh1OA) | 4:16 |
-| 92 | [Permanence](https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC) | [Lomea](https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx) | [Permanence](https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3) | 3:49 |
-| 93 | [I Will Make Room for You \- Four Tet Remix](https://open.spotify.com/track/5veNZCICsWMKLzykjlWurt) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [I Will Make Room for You \(Four Tet Remix\)](https://open.spotify.com/album/4Gm7PiDeS6TYPKy8iRjRiX) | 8:17 |
-| 94 | [Another Girl](https://open.spotify.com/track/0eHYHJ7tpSXYvka4zgejeG) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Another Girl](https://open.spotify.com/album/3AQwqy7mrNS5InBDlDSDIA) | 6:42 |
-| 95 | [Saccade](https://open.spotify.com/track/5ajrKj2QzWMVNTkqTaZgJq) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Dissolvi](https://open.spotify.com/album/3SayP9khvJ3VK0w0fJ1mnE) | 4:09 |
-| 96 | [All the Way Down](https://open.spotify.com/track/6JT37WmQRQawN2By1ZQR0N) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Hallucinogen](https://open.spotify.com/album/5vI1UvJLIPAKf1kvzgPaTO) | 4:28 |
+| 91 | [All the Way Down](https://open.spotify.com/track/6JT37WmQRQawN2By1ZQR0N) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Hallucinogen](https://open.spotify.com/album/5vI1UvJLIPAKf1kvzgPaTO) | 4:28 |
+| 92 | [Smokebelch II \- Beatless Mix](https://open.spotify.com/track/0WvOTOVdItdQgWB6hEvIqQ) | [The Sabres Of Paradise](https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS) | [Sabresonic](https://open.spotify.com/album/3MeNCEVxsgW3JkPDBMh1OA) | 4:16 |
+| 93 | [Permanence](https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC) | [Lomea](https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx) | [Permanence](https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3) | 3:49 |
+| 94 | [I Will Make Room for You \- Four Tet Remix](https://open.spotify.com/track/5veNZCICsWMKLzykjlWurt) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [I Will Make Room for You \(Four Tet Remix\)](https://open.spotify.com/album/4Gm7PiDeS6TYPKy8iRjRiX) | 8:17 |
+| 95 | [Another Girl](https://open.spotify.com/track/0eHYHJ7tpSXYvka4zgejeG) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Another Girl](https://open.spotify.com/album/3AQwqy7mrNS5InBDlDSDIA) | 6:42 |
+| 96 | [Saccade](https://open.spotify.com/track/5ajrKj2QzWMVNTkqTaZgJq) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Dissolvi](https://open.spotify.com/album/3SayP9khvJ3VK0w0fJ1mnE) | 4:09 |
 | 97 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 |
 | 98 | [Curls](https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh) | 3:17 |
 | 99 | [Echo's Answer](https://open.spotify.com/track/3ZB8WOTt7p9cSia9iG0TMz) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [The Noise Made By People](https://open.spotify.com/album/4vm6U9WwZvHUKaCNYRj9Bv) | 3:12 |

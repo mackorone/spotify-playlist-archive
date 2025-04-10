@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 
 > Stay current with the latest indie\-alt tracks\. Cover: Myles Smtih.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,595 likes - 94 songs - 5 hr 16 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,594 likes - 94 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 | 66 | [Fingernails](https://open.spotify.com/track/2FqvNwxh9WlyP4zlQKza34) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Make Me Forget](https://open.spotify.com/album/6UGdC8WPbCnc116gorUmAk) | 3:07 |
 | 67 | [HEAT DEATH](https://open.spotify.com/track/76ZGBWNXxCOYu4zw99KzzX) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [FAKE MOON](https://open.spotify.com/album/2u7xrSDHkBPmbkDI5j1mek) | 3:26 |
 | 68 | [miss melancholy](https://open.spotify.com/track/2GHQimEGRvo0OSyvqLIf8d) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [miss melancholy](https://open.spotify.com/album/68wM3sjcRJM0W4o3QRJrTX) | 3:09 |
-| 69 | [Victorious \(feat\. Tia Wood\)](https://open.spotify.com/track/41NSGbhbOsL7E20Vlc7yhx) | [Shub](https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A), [Tia Wood](https://open.spotify.com/artist/0NPcTqtChsRP52BHjPGJLC) | [Victorious \(feat\. Tia Wood\)](https://open.spotify.com/album/17HTDcqKMpgfhHCqNR4Dl3) | 4:30 |
+| 69 | [Victorious \(feat\. Tia Wood\)](https://open.spotify.com/track/41NSGbhbOsL7E20Vlc7yhx) | [Shub](https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A), [Tia Wood](https://open.spotify.com/artist/4JR1NSxLF5bSQ68VGjIv9k) | [Victorious \(feat\. Tia Wood\)](https://open.spotify.com/album/17HTDcqKMpgfhHCqNR4Dl3) | 4:30 |
 | 70 | [Little Ray Of Light](https://open.spotify.com/track/6az0lDUrzgyGYBTyRvYRBH) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Little Ray Of Light](https://open.spotify.com/album/1XwroIKwbqFmy2MHBjoIzU) | 2:59 |
 | 71 | [BAD GUY](https://open.spotify.com/track/4NHb28Y4RgrUa9ME5XmBEd) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [BAD GUY](https://open.spotify.com/album/2Bwn55fPq40b2aj2qtHS0H) | 3:36 |
 | 72 | [Stripper Song](https://open.spotify.com/track/07no3lBTGZKjl9HpxYiyFn) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [They Left Me With A Gun](https://open.spotify.com/album/1NFdQaJCODmmkMnPfzHDXD) | 2:37 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 
 > Die beste country musiek\. Omslag: <a href="https://open.spotify.com/artist/006t5IfX5IGVA19yVoJxaR?si=pZ\_UaHelShSJE5e1Ke81rg">Lisie Basson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,364 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,401 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

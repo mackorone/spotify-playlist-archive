@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Junes, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: The Red Flags, Artwork: Isu Kim",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -1989,6 +1989,24 @@
     },
     {
       "album": {
+        "name": "beautiful mind",
+        "url": "https://open.spotify.com/album/1vIxdL9vtPBqDCH8s8K0kC"
+      },
+      "artists": [
+        {
+          "name": "dorothy",
+          "url": "https://open.spotify.com/artist/5WCILQYOBF8aSNIo4Shb9f"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160725,
+      "name": "beautiful mind",
+      "url": "https://open.spotify.com/track/5cOyixrb2nsE4yiorgx49z"
+    },
+    {
+      "album": {
         "name": "Before",
         "url": "https://open.spotify.com/album/3kJvjM9qFCKGNAC7cSfd8x"
       },
@@ -3656,7 +3674,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 129052,
       "name": "Can't Help Myself",
       "url": "https://open.spotify.com/track/2hvNtxUq33E4sfeHuG5THK"
@@ -5274,6 +5292,24 @@
       "duration_ms": 189040,
       "name": "Departure",
       "url": "https://open.spotify.com/track/5M0sGKRpEbuPRp6h9MwBpH"
+    },
+    {
+      "album": {
+        "name": "Der Regen",
+        "url": "https://open.spotify.com/album/5WnpEv7Mwwtp5PxkgUQ7R2"
+      },
+      "artists": [
+        {
+          "name": "Julian Knoth",
+          "url": "https://open.spotify.com/artist/5M8jA3ppKtesQSNnlw787M"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200991,
+      "name": "Der Regen",
+      "url": "https://open.spotify.com/track/1bk2IQSbELCqnwgfPGwTDy"
     },
     {
       "album": {
@@ -7892,7 +7928,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 222638,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/2NQqdsHuRFqH8LjmN9CuCN"
@@ -10938,7 +10974,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 154441,
       "name": "Ich hasse, wenn",
       "url": "https://open.spotify.com/track/1ZN0a7X6ob3OtqeZG9pJ1c"
@@ -12106,7 +12142,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 133458,
       "name": "Keine Liebe",
       "url": "https://open.spotify.com/track/4z5mqBhTiK5nxv2ADCLNgA"
@@ -13242,10 +13278,28 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 204982,
       "name": "Little Girl",
       "url": "https://open.spotify.com/track/4C7L6ySb4MDhVck6J6diy4"
+    },
+    {
+      "album": {
+        "name": "Little Girl",
+        "url": "https://open.spotify.com/album/2EjiBxcgXvcpuG7mwI2yro"
+      },
+      "artists": [
+        {
+          "name": "The Red Flags",
+          "url": "https://open.spotify.com/artist/7FIb3f7HlWJre42vwT6rDN"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91688,
+      "name": "Little Girl",
+      "url": "https://open.spotify.com/track/3qWB0PqkjR8D0tC3xmpy4s"
     },
     {
       "album": {
@@ -14215,6 +14269,24 @@
     },
     {
       "album": {
+        "name": "Stories In Flesh",
+        "url": "https://open.spotify.com/album/2K4t6nJY45aVjtZkxat0eR"
+      },
+      "artists": [
+        {
+          "name": "Nora Lilith",
+          "url": "https://open.spotify.com/artist/2wCkC8qvmcIU6RYtk5PSr1"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197647,
+      "name": "Mistake It",
+      "url": "https://open.spotify.com/track/4dqwygGwMU2LzV3feCZzrf"
+    },
+    {
+      "album": {
         "name": "Mit Dir",
         "url": "https://open.spotify.com/album/4yzMntUkyuX8gYyWFlNMLO"
       },
@@ -14816,7 +14888,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 167852,
       "name": "My Adderall",
       "url": "https://open.spotify.com/track/4BfoHNVbPOy3zYyhp1wCWY"
@@ -16615,6 +16687,24 @@
     },
     {
       "album": {
+        "name": "Pharos",
+        "url": "https://open.spotify.com/album/3INHHoVztUGjeijZ63Np4M"
+      },
+      "artists": [
+        {
+          "name": "MOLLY SUE",
+          "url": "https://open.spotify.com/artist/1UmeDUPF1A9xnmyzE8O2fA"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136958,
+      "name": "Pharos",
+      "url": "https://open.spotify.com/track/4lsvUf69pGZneOeSXyd9hi"
+    },
+    {
+      "album": {
         "name": "Phase",
         "url": "https://open.spotify.com/album/1UBQuDBgQJdmRv7h6PEBvN"
       },
@@ -18275,6 +18365,24 @@
     },
     {
       "album": {
+        "name": "Rum aus Panama",
+        "url": "https://open.spotify.com/album/2aYNRchsh3lApDSNoeYe0s"
+      },
+      "artists": [
+        {
+          "name": "beam nova",
+          "url": "https://open.spotify.com/artist/3XCVlstDuDp7GxvMeM37uv"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Rum aus Panama",
+      "url": "https://open.spotify.com/track/3V0osArcAejpdbcUyYtXZZ"
+    },
+    {
+      "album": {
         "name": "Run Closer",
         "url": "https://open.spotify.com/album/4Rhx34i5YgFmLtE3zuMns1"
       },
@@ -18420,7 +18528,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 190500,
       "name": "R\u00fcckzug",
       "url": "https://open.spotify.com/track/4GHCTRe3PVn52CVPMajdre"
@@ -19628,6 +19736,24 @@
       "duration_ms": 146250,
       "name": "So naiv sind wir nicht",
       "url": "https://open.spotify.com/track/6k1Kw7DQbHDQ1CvqxS1vYy"
+    },
+    {
+      "album": {
+        "name": "So Nice Of You",
+        "url": "https://open.spotify.com/album/4n2n6Em480oOUaOoHztZRy"
+      },
+      "artists": [
+        {
+          "name": "Feyva",
+          "url": "https://open.spotify.com/artist/7GLq2u4tmRyLSW0k66J17w"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "So Nice Of You",
+      "url": "https://open.spotify.com/track/6xMxLYbHVk3AV35613V2iE"
     },
     {
       "album": {

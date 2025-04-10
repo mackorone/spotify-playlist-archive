@@ -1,6 +1,6 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 51502,
+  "num_followers": 51524,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
@@ -1847,6 +1847,26 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
+        "name": "Jan Garbarek: Works",
+        "url": "https://open.spotify.com/album/5gBKCpTf5pPauJ5jOG9DaX"
+      },
+      "artists": [
+        {
+          "name": "Jan Garbarek",
+          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
+        },
+        {
+          "name": "Bobo Stenson Quartet",
+          "url": "https://open.spotify.com/artist/6ybMn3tDNAZOdal026IIBE"
+        }
+      ],
+      "duration_ms": 299333,
+      "name": "Svevende",
+      "url": "https://open.spotify.com/track/7yvX6vySEFHb22V8Lu4I0Y"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
         "name": "Melancholia",
         "url": "https://open.spotify.com/album/6rQSdtpLz0W1bKCySYeueo"
       },
@@ -1871,26 +1891,6 @@
       "duration_ms": 314253,
       "name": "Melancholia",
       "url": "https://open.spotify.com/track/2CK1rKO7y9oKhQRGR48tKG"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
-        "name": "Jan Garbarek: Works",
-        "url": "https://open.spotify.com/album/5gBKCpTf5pPauJ5jOG9DaX"
-      },
-      "artists": [
-        {
-          "name": "Jan Garbarek",
-          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
-        },
-        {
-          "name": "Bobo Stenson Quartet",
-          "url": "https://open.spotify.com/artist/6ybMn3tDNAZOdal026IIBE"
-        }
-      ],
-      "duration_ms": 299333,
-      "name": "Svevende",
-      "url": "https://open.spotify.com/track/7yvX6vySEFHb22V8Lu4I0Y"
     },
     {
       "added_at": "2025-03-07 09:20:11",

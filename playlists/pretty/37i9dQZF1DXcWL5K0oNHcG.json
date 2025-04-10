@@ -1,13 +1,65 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: Tyreek McDole. Artwork: Joy Yamusangie.",
-  "num_followers": 234459,
+  "num_followers": 234569,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+07/gAAAABKsJrE079NtrICcTKyx+ya",
+  "snapshot_id": "Z/agfwAAAADwbxfMZSnX6JyGTTlvIz6B",
   "tracks": [
+    {
+      "added_at": "2025-04-09 16:29:51",
+      "album": {
+        "name": "Bonds",
+        "url": "https://open.spotify.com/album/2GXIMdZn8jv2AHB9Ocb7Ad"
+      },
+      "artists": [
+        {
+          "name": "Heem",
+          "url": "https://open.spotify.com/artist/6P7RzcULDXBd32AI4Haw1m"
+        },
+        {
+          "name": "Obey",
+          "url": "https://open.spotify.com/artist/3LfwSfIGvAU8IsST3mEl7S"
+        },
+        {
+          "name": "Milye",
+          "url": "https://open.spotify.com/artist/27KnUptbEwPYfjC1KMKK9P"
+        },
+        {
+          "name": "Fo1006",
+          "url": "https://open.spotify.com/artist/6vG6QTcQ8olC5WZr41Bw0f"
+        },
+        {
+          "name": "Woojinee",
+          "url": "https://open.spotify.com/artist/5VrBgtUUMPP1yGE6mIPUNu"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Bonds",
+      "url": "https://open.spotify.com/track/4HJOa7TWVCO0T9zrB4TUDO"
+    },
+    {
+      "added_at": "2025-04-09 16:29:51",
+      "album": {
+        "name": "Big Visit",
+        "url": "https://open.spotify.com/album/1rHjReNt80DP3nZGgsgrSn"
+      },
+      "artists": [
+        {
+          "name": "Emma Rawicz",
+          "url": "https://open.spotify.com/artist/1lnfMuTAKnEVC5dLB4N0wl"
+        },
+        {
+          "name": "Gwilym Simcock",
+          "url": "https://open.spotify.com/artist/6oXieOD3dHfCCmmy96W2eR"
+        }
+      ],
+      "duration_ms": 399560,
+      "name": "The Drumbledrone",
+      "url": "https://open.spotify.com/track/563LFrcKou0FiKUaZ5nR0C"
+    },
     {
       "added_at": "2025-03-19 13:19:11",
       "album": {
@@ -23,22 +75,6 @@
       "duration_ms": 255173,
       "name": "The Sun Song (Precious Energy)",
       "url": "https://open.spotify.com/track/14XtWs8A52pLTz6YBvwKam"
-    },
-    {
-      "added_at": "2025-04-02 13:30:38",
-      "album": {
-        "name": "The Teacher (Revisited)",
-        "url": "https://open.spotify.com/album/18ITbuxyCg2telbJt4f7uG"
-      },
-      "artists": [
-        {
-          "name": "Fergus McCreadie",
-          "url": "https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL"
-        }
-      ],
-      "duration_ms": 367677,
-      "name": "The Teacher - Revisited",
-      "url": "https://open.spotify.com/track/5LdWK4c9Zu5R5VI8yAK14x"
     },
     {
       "added_at": "2025-04-02 13:30:38",
@@ -71,6 +107,22 @@
       "duration_ms": 277445,
       "name": "Boundaries",
       "url": "https://open.spotify.com/track/4iDRc7gJ4Uvhrn5r0sMHKy"
+    },
+    {
+      "added_at": "2025-04-02 13:30:38",
+      "album": {
+        "name": "The Teacher (Revisited)",
+        "url": "https://open.spotify.com/album/18ITbuxyCg2telbJt4f7uG"
+      },
+      "artists": [
+        {
+          "name": "Fergus McCreadie",
+          "url": "https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL"
+        }
+      ],
+      "duration_ms": 367677,
+      "name": "The Teacher - Revisited",
+      "url": "https://open.spotify.com/track/5LdWK4c9Zu5R5VI8yAK14x"
     },
     {
       "added_at": "2025-03-19 13:19:11",
@@ -787,34 +839,6 @@
     {
       "added_at": "2025-01-15 05:00:02",
       "album": {
-        "name": "Count To One",
-        "url": "https://open.spotify.com/album/05lc4QqiCbS77ZV54DY04e"
-      },
-      "artists": [
-        {
-          "name": "Ella Zirina",
-          "url": "https://open.spotify.com/artist/4zHQxWgFPjefCdK4GFO86m"
-        },
-        {
-          "name": "Otis Sandsj\u00f6",
-          "url": "https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44"
-        },
-        {
-          "name": "Jamie Peet",
-          "url": "https://open.spotify.com/artist/4CjjoL7vPT5pLlSCgwbzvF"
-        },
-        {
-          "name": "Ton Felices",
-          "url": "https://open.spotify.com/artist/6grJmsi4w2KCWnI3vY2dQ4"
-        }
-      ],
-      "duration_ms": 248578,
-      "name": "Count To One",
-      "url": "https://open.spotify.com/track/3nfAm7Q6hGBNJcJ9XeoLLR"
-    },
-    {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
         "name": "Master Changes",
         "url": "https://open.spotify.com/album/4fzEe7EVM4gltNuBoF2ZZj"
       },
@@ -847,22 +871,6 @@
       "duration_ms": 373586,
       "name": "One Way Valet",
       "url": "https://open.spotify.com/track/49O3n997PT8zf289ByXchw"
-    },
-    {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
-        "name": "Time Brings About Change",
-        "url": "https://open.spotify.com/album/6vUpvsjbxicPYCWWM5xiq4"
-      },
-      "artists": [
-        {
-          "name": "Cord Martin",
-          "url": "https://open.spotify.com/artist/63cZyR7rLr6FUBcJXb7tXx"
-        }
-      ],
-      "duration_ms": 271282,
-      "name": "Time Brings About Change",
-      "url": "https://open.spotify.com/track/7mD7bQy4KWhOcwqDJJSrjP"
     },
     {
       "added_at": "2025-01-15 05:00:02",

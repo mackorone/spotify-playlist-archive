@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Carolina Deslandes, iolanda
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,582 likes - 69 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,578 likes - 69 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 31 | [Eu Deixei](https://open.spotify.com/track/4HccSOoWxrXU5Ysor3yD9k) | [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [Eu Deixei](https://open.spotify.com/album/7HtM9TMo6vqHcwJZFKbSik) | 3:28 |
 | 32 | [Sonhar Contigo](https://open.spotify.com/track/1TuNUqS6yhjFT7wZ1V7Qml) | [No Maka](https://open.spotify.com/artist/35dFX8XteNIxKbFW6VmdW3), [Mara Cortez](https://open.spotify.com/artist/4Sb1JyWr13fjmSxyooVBEo) | [Sonhar Contigo](https://open.spotify.com/album/6YRsDuvW8wm7usNUWvHztv) | 2:55 |
 | 33 | [Teus Beijos](https://open.spotify.com/track/46RHN6flgxqHoCiAMxIkB0) | [Nininho Vaz Maia](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6) | [Teus Beijos](https://open.spotify.com/album/301Vzal6xfXKeBxSHpP8mR) | 3:08 |
-| 34 | [O Teu Cheiro](https://open.spotify.com/track/23PQOfRFXeQ6ZR4q7ZfM5r) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [O Teu Cheiro](https://open.spotify.com/album/0Lu1PFWRcRF8hthAnklvlN) | 2:50 |
+| 34 | [O teu cheiro](https://open.spotify.com/track/23PQOfRFXeQ6ZR4q7ZfM5r) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [O teu cheiro](https://open.spotify.com/album/0Lu1PFWRcRF8hthAnklvlN) | 2:50 |
 | 35 | [Lento](https://open.spotify.com/track/0Jvj9JFRzwfxXOn1vcE0bd) | [Vanyfox](https://open.spotify.com/artist/5fXfvsAoc9N5dIMif1quGe), [Ana Moura](https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7) | [Lento](https://open.spotify.com/album/4M0fdN0DoPVOx6HxtPXQZ6) | 3:13 |
 | 36 | [Mudar A Canção](https://open.spotify.com/track/7mqB9kLgxTuG3ACCOyNJtI) | [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn), [Alex D'Alva](https://open.spotify.com/artist/2fgZiRzEqoruWyz7XyJpne), [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT), [Carlão](https://open.spotify.com/artist/4byuw0pyzVNeEONKcPIpAA), [Cláudia Pascoal](https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ), [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf), [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b), [Luís Trigacheiro](https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7), [Paulo de Carvalho](https://open.spotify.com/artist/7KZq6Dnxz9nVtLg45UMGEJ), [Sara Correia](https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA), [Simone de Oliveira](https://open.spotify.com/artist/6RNXZUrWCDL7SK75TkFStj) | [Mudar A Canção](https://open.spotify.com/album/7hwcdnuYalAEqFbLGYGFKl) | 3:07 |
 | 37 | [Ma Chérie](https://open.spotify.com/track/1aIJLbvrWSW7NGLlprGhBo) | [Mickael Carreira](https://open.spotify.com/artist/6Y9n4rtU99wHdeIrrhndtU), [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [Ma Chérie](https://open.spotify.com/album/0LZKMs9mwAGp3NXqsUpieg) | 2:52 |

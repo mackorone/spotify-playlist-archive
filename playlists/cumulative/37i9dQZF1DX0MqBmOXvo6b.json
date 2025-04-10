@@ -1820,7 +1820,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 139771,
       "name": "City Prelude",
       "url": "https://open.spotify.com/track/7jCRVvGKxzAMWDqIiW2T53"
@@ -4132,7 +4132,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 126144,
       "name": "Hammock",
       "url": "https://open.spotify.com/track/7LTVGmS15JBwO11pTS4ykt"
@@ -4366,7 +4366,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 138500,
       "name": "House of the Rising Sun",
       "url": "https://open.spotify.com/track/6exjuFon5neQuOyrqVoBgQ"
@@ -6875,6 +6875,24 @@
     },
     {
       "album": {
+        "name": "New Spring",
+        "url": "https://open.spotify.com/album/6Pr066uYJSXjLGJKpyjjos"
+      },
+      "artists": [
+        {
+          "name": "Ana Grieg",
+          "url": "https://open.spotify.com/artist/31I6JRMXs6v6lUnvUdbi5H"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146096,
+      "name": "New Spring",
+      "url": "https://open.spotify.com/track/5WPwpkbt3BypWfLQ33gHIS"
+    },
+    {
+      "album": {
         "name": "Nibiru",
         "url": "https://open.spotify.com/album/0KTuufd6EhriIPzBnQ3gE7"
       },
@@ -9118,7 +9136,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 198557,
       "name": "Seine",
       "url": "https://open.spotify.com/track/2y1o99gVURVZkmIyahWBb5"

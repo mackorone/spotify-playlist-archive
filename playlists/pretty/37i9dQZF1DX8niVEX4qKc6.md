@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Maria Campos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,798 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,802 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

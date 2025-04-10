@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3csziQj0d5b.md) - [plain]
 
 > Music to take the pain of homework away.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,855,522 likes - 150 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,855,814 likes - 150 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,16 +143,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3csziQj0d5b.md) - [plain]
 | 133 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 |
 | 134 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 |
 | 135 | [Ophelia](https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 2:40 |
-| 136 | [At My Worst](https://open.spotify.com/track/2MJz8BxxMsERULatmBikDH) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [PINK PLANET](https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG) | 2:50 |
-| 137 | [prom dress](https://open.spotify.com/track/2xCGBWfzTe8l2kvHpgvB6M) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 3:17 |
-| 138 | [I Like Me Better](https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:17 |
-| 139 | [lowkey](https://open.spotify.com/track/5TTXEcfsYLh6fTarLaevTi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [lowkey](https://open.spotify.com/album/6a1p03zluxNwXTVdm9IStw) | 2:51 |
+| 136 | [prom dress](https://open.spotify.com/track/2xCGBWfzTe8l2kvHpgvB6M) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 3:17 |
+| 137 | [At My Worst](https://open.spotify.com/track/2MJz8BxxMsERULatmBikDH) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [PINK PLANET](https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG) | 2:50 |
+| 138 | [lowkey](https://open.spotify.com/track/5TTXEcfsYLh6fTarLaevTi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [lowkey](https://open.spotify.com/album/6a1p03zluxNwXTVdm9IStw) | 2:51 |
+| 139 | [I Like Me Better](https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:17 |
 | 140 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 |
 | 141 | [Those Eyes](https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/4iRLB4gc24HFvjwRc8hDdg) | 3:40 |
 | 142 | [Nothing](https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 2:42 |
 | 143 | [positions](https://open.spotify.com/track/7igeByaBM0MgGsgXtNxDJ7) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [positions](https://open.spotify.com/album/3jqEvfiu2ENgmgzZq27zbi) | 2:52 |
-| 144 | [Happiest Year](https://open.spotify.com/track/5kcvBnt6DPX3AMEsCx1qDh) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Happiest Year](https://open.spotify.com/album/2LJiFAtg7CyHrkUGr4mwGl) | 3:48 |
-| 145 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3Kw7zkALCVxY4wmlnh2IWC) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 |
+| 144 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3Kw7zkALCVxY4wmlnh2IWC) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 |
+| 145 | [Happiest Year](https://open.spotify.com/track/5kcvBnt6DPX3AMEsCx1qDh) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Happiest Year](https://open.spotify.com/album/2LJiFAtg7CyHrkUGr4mwGl) | 3:48 |
 | 146 | [double take](https://open.spotify.com/track/2CVChktEKBsM6v4IfdFU5k) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/1FBBji6E8EB4zBsTn6m8Ax) | 2:51 |
 | 147 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 |
 | 148 | [July](https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [July](https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg) | 2:36 |

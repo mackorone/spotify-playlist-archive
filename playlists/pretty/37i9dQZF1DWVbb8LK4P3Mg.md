@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! \(Cover: ONEWE\(원위\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,248 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,224 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 91 | [Christmas Again](https://open.spotify.com/track/1CNmcZ0bv30xYUTPiftBtS) | [1set](https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl) | [Christmas Again](https://open.spotify.com/album/6OMA4TLlpQnbfCpx4s6Cmc) | 3:46 |
 | 92 | [Grass under Snow](https://open.spotify.com/track/5yqrLjLXElOOj8cW1eH0If) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi), [GGS](https://open.spotify.com/artist/1skhcLxnX5M0NK59U7b1I2), [psv:gun](https://open.spotify.com/artist/6nLtSzTBaODlpfv1oQr7v0) | [Grass under Snow](https://open.spotify.com/album/2bUVBzFqxI4LmcgM58rDro) | 2:58 |
 | 93 | [Sweater \- Orchestral Version](https://open.spotify.com/track/04qZBrSALT0FSxG42XLexl) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Sweater \(Orchestral Version\)](https://open.spotify.com/album/3ito8Q4onJ9uQFAR3omfWb) | 3:57 |
-| 94 | [This Is Your Winter Song](https://open.spotify.com/track/5y7C6vS8d8IjAKZkeTrMRT) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [This Is Your Winter Song](https://open.spotify.com/album/5WWvltjF8gA414aWghDCsy) | 2:44 |
-| 95 | [Jingle Bell Love](https://open.spotify.com/track/3vvQB1Jv0HLVyl0esdrKMH) | [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [Jingle Bell Love](https://open.spotify.com/album/0aJZVJC8xlGcGhvfHjKX6H) | 2:34 |
+| 94 | [Jingle Bell Love](https://open.spotify.com/track/3vvQB1Jv0HLVyl0esdrKMH) | [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [Jingle Bell Love](https://open.spotify.com/album/0aJZVJC8xlGcGhvfHjKX6H) | 2:34 |
+| 95 | [This Is Your Winter Song](https://open.spotify.com/track/5y7C6vS8d8IjAKZkeTrMRT) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [This Is Your Winter Song](https://open.spotify.com/album/5WWvltjF8gA414aWghDCsy) | 2:44 |
 | 96 | [Snowman \(Special Ver.\)](https://open.spotify.com/track/5OcyTnnsLDY3TVDJJ73RAY) | [APRIL](https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa) | [APRIL 3rd Mini Album 'Prelude'](https://open.spotify.com/album/5NROq4sawLKjGwuiZydaqh) | 3:05 |
 | 97 | [Santa, Give Me What I Need](https://open.spotify.com/track/2vj3Iau5rMHiNMgQB1LTcl) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Letters to Santa](https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0) | 1:58 |
 | 98 | [Fallin’ in the Christmas love](https://open.spotify.com/track/6p28cXqSTBxaXKTtIKv9PF) | [NTX](https://open.spotify.com/artist/49DJRZw2T9mtMBpXkdQPCL) | [X\-Present](https://open.spotify.com/album/6g8ILyk6RmulQbdosbetPg) | 4:06 |
 | 99 | [THE CHRISTMAS SONG](https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [メリクリ](https://open.spotify.com/album/082g95CJ0YhcNAjxf2MMgT) | 5:10 |
-| 100 | [Jingle Bells](https://open.spotify.com/track/2CKdHKVgFiemZTZucPJY4q) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [MIDNIGHT CHRISTMAS](https://open.spotify.com/album/5W65ubAkiJzldtaloU3G13) | 2:22 |
+| 100 | [Candle](https://open.spotify.com/track/7LhjwLkKvbjT30PBvKePTP) | [COLL!N](https://open.spotify.com/artist/3EmUmzIFFTstnAgwjuGDAN) | [Candle](https://open.spotify.com/album/6lzlBNGpzNf5P7IsVXNpzS) | 3:33 |
 
 Snapshot ID: `Z4sRHQAAAAA/ezK5XTxYUI0shESDI4hj`

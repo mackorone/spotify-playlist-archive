@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Ball Park Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,360 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,361 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 96 | [On My Mind \(with PLAYERTWO\)](https://open.spotify.com/track/6lDNXvXYc6cWeLqpf12n07) | [CHISEKO](https://open.spotify.com/artist/5Z7R9YTOZFv7zC9Ns1gPMS), [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [On My Mind \(with PLAYERTWO\)](https://open.spotify.com/album/5ipBa6wosvLfHik8T2Uv8O) | 2:59 |
 | 97 | [Left Of The Dealer](https://open.spotify.com/track/4Q7rtmpimCOymEt8q7Ek1D) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Left Of The Dealer](https://open.spotify.com/album/7g8nObVYvr2ew5XU5VIhwi) | 4:14 |
 | 98 | [doing my best](https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [doing my best](https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC) | 3:02 |
-| 99 | [Bubblegum](https://open.spotify.com/track/3urkR8tFH6Q1wJD0BePeRk) | [honey](https://open.spotify.com/artist/6cUanG4fLNSAhNEcu6n34w) | [Bubblegum](https://open.spotify.com/album/6MQHTQgSlUAmcqfFhmPKoJ) | 2:16 |
+| 99 | [Bubblegum](https://open.spotify.com/track/3urkR8tFH6Q1wJD0BePeRk) | [Honeygirl](https://open.spotify.com/artist/1PJ0cxhltIfAdImSgaujTd) | [Bubblegum](https://open.spotify.com/album/6MQHTQgSlUAmcqfFhmPKoJ) | 2:16 |
 | 100 | [Follow](https://open.spotify.com/track/76KAFdVxl5W0pF2ldrGXmM) | [Sumner](https://open.spotify.com/artist/3MkvptiOUwlGj7DyNbJfrY) | [Retrograde](https://open.spotify.com/album/5Ldup5wsk9kbr1SdFQ9rBb) | 3:13 |
 
 Snapshot ID: `Z+6GXAAAAADDa/e/OyLo7EP/25iXr7wd`

@@ -4447,6 +4447,24 @@
     },
     {
       "album": {
+        "name": "Grump It",
+        "url": "https://open.spotify.com/album/4AKpf8IN3nLMiTOJxGcn9R"
+      },
+      "artists": [
+        {
+          "name": "Xzevious",
+          "url": "https://open.spotify.com/artist/5wv4kmwCWPMh6HAGb4LvA5"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240908,
+      "name": "Grump It",
+      "url": "https://open.spotify.com/track/4Dll52TVxAXPcoS0s82Flv"
+    },
+    {
+      "album": {
         "name": "H E L L O K I T T Y P S Y C H O !",
         "url": "https://open.spotify.com/album/7j3LL0vEESEePPPxVH7RJC"
       },

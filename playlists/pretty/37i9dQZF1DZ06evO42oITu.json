@@ -1,12 +1,12 @@
 {
   "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
-  "num_followers": 365160,
+  "num_followers": 365208,
   "original_name": "This Is Eric Clapton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/MVgAAAAAAIi8psILR99k529QvX4abA",
+  "snapshot_id": "Z/RnAAAAAACuq9Bbzqkaf6yq2Czg8t19",
   "tracks": [
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eric Clapton",
+        "url": "https://open.spotify.com/album/7nAtrGNUxCNwx9R1Q5PTdh"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 301266,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/7DiaNCPgH5dJ1cJ925jTAA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Riding With The King",
         "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 516533,
       "name": "Three O'Clock Blues",
       "url": "https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eric Clapton",
-        "url": "https://open.spotify.com/album/7nAtrGNUxCNwx9R1Q5PTdh"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 301266,
-      "name": "Let It Rain",
-      "url": "https://open.spotify.com/track/7DiaNCPgH5dJ1cJ925jTAA"
     },
     {
       "added_at": null,
@@ -811,18 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Journeyman",
-        "url": "https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B"
+        "name": "The Road to Escondido",
+        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
       },
       "artists": [
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
         }
       ],
-      "duration_ms": 283280,
-      "name": "Pretending",
-      "url": "https://open.spotify.com/track/2Ua9IR5sciWQfoWCfB9iks"
+      "duration_ms": 256866,
+      "name": "It's Easy",
+      "url": "https://open.spotify.com/track/6UVPrccDy1OQtZduNtanhP"
     },
     {
       "added_at": null,
@@ -843,22 +847,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Road to Escondido",
-        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
+        "name": "Journeyman",
+        "url": "https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B"
       },
       "artists": [
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "J.J. Cale",
-          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
         }
       ],
-      "duration_ms": 256866,
-      "name": "It's Easy",
-      "url": "https://open.spotify.com/track/6UVPrccDy1OQtZduNtanhP"
+      "duration_ms": 283280,
+      "name": "Pretending",
+      "url": "https://open.spotify.com/track/2Ua9IR5sciWQfoWCfB9iks"
     },
     {
       "added_at": null,

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: Energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,032 likes - 70 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,035 likes - 70 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [同病相戀 \(電影《有病才會喜歡你》宣傳曲\)](https://open.spotify.com/track/0XrQuH1KGidW0RVowpK0Pa) | [Energy](https://open.spotify.com/artist/6GUGvmk5XZesTWRQdkp69u) | [同病相戀](https://open.spotify.com/album/5LxIzRDFWTbeSMcGMvIlRc) | 3:07 |
-| 2 | [我天生 \- 有夢版](https://open.spotify.com/track/2YtxuYoG085nAa0F23c8Ln) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我天生 \- 有夢版](https://open.spotify.com/album/28W9uyxA4MIu5npe8Rt1sI) | 4:40 |
+| 2 | [我天生 \- 有夢版](https://open.spotify.com/track/2YtxuYoG085nAa0F23c8Ln) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我天生 \- 有夢版](https://open.spotify.com/album/28W9uyxA4MIu5npe8Rt1sI) | 4:39 |
 | 3 | [無袂煞](https://open.spotify.com/track/5YbCgnnhO78mSYgDOFNNxS) | [頑童Mj116](https://open.spotify.com/artist/7aMQdNM05rPkcHS1ethHUx) | [無袂煞](https://open.spotify.com/album/5ELAI7VMzvganf1RnY0b0L) | 3:27 |
 | 4 | [心內話講袂出喙](https://open.spotify.com/track/05qIJ9esv2J42EIPUcX4DV) | [緩緩 Huan Huan](https://open.spotify.com/artist/0JeQFUYo8H7c5K8VIICIIH) | [心內話講袂出喙](https://open.spotify.com/album/2XrlR2SLkqdgy6O7PBLWPq) | 3:59 |
 | 5 | [浮塵共振](https://open.spotify.com/track/3MB4ZHWVldI8FI2S73IoDU) | [黑豹](https://open.spotify.com/artist/0zj66XhQP4EPkat7XkBYL0) | [浮塵](https://open.spotify.com/album/3ZztmscN1xI8MpdYNBaYPm) | 4:15 |

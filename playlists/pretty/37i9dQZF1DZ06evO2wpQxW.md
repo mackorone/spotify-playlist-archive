@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wpQxW.md) - [plain]
 
 > This is Calibre 50\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 700,290 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 700,367 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wpQxW.md) - [plain]
 | 16 | [Cuidando El Territorio](https://open.spotify.com/track/0RR9X1AxLrdldzwwIVrHYf) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Cuidando El Territorio](https://open.spotify.com/album/4wVfnheoToJD1kYyjpjcGZ) | 3:06 |
 | 17 | [Mi Sorpresa Fuiste Tú](https://open.spotify.com/track/59S2kAfdUxi6k2Si8Vi0f3) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Mitad Y Mitad](https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R) | 3:49 |
 | 18 | [Corrido De Juanito](https://open.spotify.com/track/0ehx1p1HMn7NMKisZaO9oL) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 4:21 |
-| 19 | [Ganó Holanda, Perdió China](https://open.spotify.com/track/4WmQUNTvYadj1SdxHYJtEZ) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T) | 2:59 |
+| 19 | [Ganó Holanda, Perdió China](https://open.spotify.com/track/4a50ELsSeCF8HDDwSn51wK) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/18NZvh16Lj0HIhv0YgaSsZ) | 2:58 |
 | 20 | [Ni Que Estuvieras Tan Buena](https://open.spotify.com/track/3ElOgE8UIHSCqQu1L4FBco) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [La Recompensa](https://open.spotify.com/album/5YMCgTdT06cMlFlznzO2fo) | 2:18 |
 | 21 | [Te Volvería A Elegir](https://open.spotify.com/track/7e8uUH6bOLxpXDm9lARsbI) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Las Número 1 De](https://open.spotify.com/album/6oplBB55aomIn5O6NSz3cd) | 3:00 |
 | 22 | [Míranos Ahora](https://open.spotify.com/track/5VfkfKTTo5BRKqHwfENF0V) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Míranos Ahora](https://open.spotify.com/album/0cuCvmXFuaN8eS5lvAlQt3) | 3:18 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wpQxW.md) - [plain]
 | 39 | [Te Estoy Engañando Con Otra](https://open.spotify.com/track/0Q2nlEy3j08AWwrum9BFmH) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [De Sinaloa Para El Mundo](https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39) | 3:13 |
 | 40 | [Frijoles Con Panela](https://open.spotify.com/track/1wxbTlwvzRp3thyCoexuUD) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 3:33 |
 | 41 | [Mujer De Todos, Mujer De Nadie](https://open.spotify.com/track/4opZ5wxWDao2No6CivRDtg) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Lo Mejor De...](https://open.spotify.com/album/3crvxBWvPLb0T9TMwlJKup) | 3:10 |
-| 42 | [El Inmigrante](https://open.spotify.com/track/5WKg2K0SaM2qCZQefNchcu) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos De Alto Calibre](https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri) | 2:59 |
-| 43 | [Préstamela A Mí](https://open.spotify.com/track/53ZeTI1ypKdYGlWRv0bG2S) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/18NZvh16Lj0HIhv0YgaSsZ) | 3:33 |
+| 42 | [Préstamela A Mí](https://open.spotify.com/track/53ZeTI1ypKdYGlWRv0bG2S) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/18NZvh16Lj0HIhv0YgaSsZ) | 3:33 |
+| 43 | [El Inmigrante](https://open.spotify.com/track/5WKg2K0SaM2qCZQefNchcu) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos De Alto Calibre](https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri) | 2:59 |
 | 44 | [El Ingeniero](https://open.spotify.com/track/1CSdO0YWuENf6lMjmPk62G) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 3:32 |
 | 45 | [Bohemio Loco](https://open.spotify.com/track/75wc3ASRDxuRKpUjUEzjL8) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Lo Mejor De...](https://open.spotify.com/album/3crvxBWvPLb0T9TMwlJKup) | 3:09 |
 | 46 | [Tú Eres Mi Amor \- Versión Regional Mexicana](https://open.spotify.com/track/4e52LWbd5B8aiA8Ak3rM0B) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Tú Eres Mi Amor \(Versión Regional Mexicana\)](https://open.spotify.com/album/2LwnB6bzU01pRU2uEQxBzy) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wpQxW.md) - [plain]
 | 49 | [El Buen Ejemplo](https://open.spotify.com/track/1lH6djMd9eN2xUGQgfyLD9) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [El Buen Ejemplo](https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3) | 3:04 |
 | 50 | [El Triste Alegre](https://open.spotify.com/track/2mNRZ3ewIzRD5JU8M7yOZ2) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH) | 2:19 |
 
-Snapshot ID: `Z/MVgAAAAAALi85g8DbFmnjVlxpeuml6`
+Snapshot ID: `Z/RnAAAAAAA/CKc5hqkHWsUKYf4GBFFW`

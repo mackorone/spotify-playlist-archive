@@ -4,7 +4,7 @@
 
 > mostly furry
 
-321 songs - 16 hr 18 min
+322 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Hell’s Greatest Dad](https://open.spotify.com/track/504V1vhYyHGHusNhEKvOV5) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Amir Talai](https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL), [Erika Henningsen](https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG), [Kimiko Glenn](https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA) | [Hazbin Hotel Original Soundtrack \(Part 2\)](https://open.spotify.com/album/3K57vjiSUMGXoaDJloJmis) | 2:13 | 2024-05-14 |  |
 | [Howl](https://open.spotify.com/track/1mRrCv92xkktbJFAihMIw2) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Howl](https://open.spotify.com/album/6BrIemwdbnScTnO6P55Z8g) | 3:57 | 2024-05-15 |  |
 | [Howl at the Moon](https://open.spotify.com/track/4DDWkXK6qUNdsHlz9fwnC9) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Beast](https://open.spotify.com/album/6Vt9EJc1KG0GXzXOqsOkIx) | 4:34 | 2023-11-20 |  |
+| [Hyperactive](https://open.spotify.com/track/31JEUb4xIhZi5ZO3WVh6hE) | [The Lazy Tails](https://open.spotify.com/artist/7GmTFT9mv4s0VHTti5GRGi) | [Hyperactive](https://open.spotify.com/album/6hf1roiQQyKiTVdp5jVPXG) | 2:34 | 2025-04-09 |  |
 | [HYPNOFREAK](https://open.spotify.com/track/6m4rhXyE6DUhva3MazrxCP) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [HYPNOFREAK](https://open.spotify.com/album/4KVyqPVQ14cEqU9KNhRPN4) | 3:53 | 2025-02-14 |  |
 | [I Don't Give A Shit](https://open.spotify.com/track/2rEUhgw2YsRVuYxtnoVRuG) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [I Don't Give A Shit](https://open.spotify.com/album/4NPE68vsYqAN7AdIGPOnQf) | 2:18 | 2024-07-09 |  |
 | [I Feel Alright](https://open.spotify.com/track/6xPP2LJT84uHYRKoWIf1e9) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Forgotten Arcade](https://open.spotify.com/album/6ARqHNLjBsMz438SUnLf1n) | 2:09 | 2025-03-28 |  |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-172 songs - 17 hr 33 min
+173 songs - 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,8 @@
 | [Remember \(feat\. Dante Bowe & Eniola Abioye\)](https://open.spotify.com/track/7HoKBaEzZTKQYEB75e9lo4) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6) | [You Hold It All Together](https://open.spotify.com/album/7uZioCeVgBz0I6mTC3mL26) | 9:38 | 2024-06-11 |  |
 | [Running To The Light](https://open.spotify.com/track/2psRZeWDR66oQ7NICRqI3w) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW) | 3:55 | 2024-06-11 | 2024-07-14 |
 | [Running To The Light](https://open.spotify.com/track/4MiYj1AGCfDuO9xxTcL6LB) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0eilJ5RLh3X6KlC9uXEwwC) | 3:55 | 2024-07-13 |  |
-| [Same God / Gratitude](https://open.spotify.com/track/64JqwulYn1A0vhK28NbDAE) | [Kayla Berry](https://open.spotify.com/artist/5wfxEJWKJuT5rUc0o32Q9o) | [Same God / Gratitude](https://open.spotify.com/album/4CSmLNS9eEgBp1umuFIf5X) | 5:03 | 2024-06-11 |  |
+| [Same God / Gratitude](https://open.spotify.com/track/64JqwulYn1A0vhK28NbDAE) | [Kayla Berry](https://open.spotify.com/artist/5wfxEJWKJuT5rUc0o32Q9o) | [Same God / Gratitude](https://open.spotify.com/album/4CSmLNS9eEgBp1umuFIf5X) | 5:03 | 2024-06-11 | 2025-04-10 |
+| [Same God / Gratitude](https://open.spotify.com/track/7EnFudQtYBWoKf8gsROiuM) | [Kayla Berry](https://open.spotify.com/artist/5wfxEJWKJuT5rUc0o32Q9o) | [Same God / Gratitude](https://open.spotify.com/album/6btX53WGNAsdEw7xierJth) | 5:03 | 2025-04-09 |  |
 | [Something To Believe In](https://open.spotify.com/track/14wxEVv4BL1iUFSzbEKUkD) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [The Apartment](https://open.spotify.com/artist/69IXR0c07FhGnuP7b3YShP) | [Something To Believe In](https://open.spotify.com/album/0XZIvYGJOZIrnWiKpBb2Pk) | 2:57 | 2024-06-11 |  |
 | [Son Of Heaven](https://open.spotify.com/track/0JKThiL2w3UFQ2xigX3SRV) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW) | 6:03 | 2024-06-11 | 2024-07-14 |
 | [Son Of Heaven](https://open.spotify.com/track/1fSG68ywX0l6Vf9IxQbSK7) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0eilJ5RLh3X6KlC9uXEwwC) | 6:03 | 2024-07-13 |  |

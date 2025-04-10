@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Continue giving God praise with these classic worship songs! Cover: Matt Redman
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,465 likes - 200 songs - 18 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,607 likes - 200 songs - 18 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,12 +162,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 152 | [I Can Only Imagine](https://open.spotify.com/track/0lVYRIVjK77Z6uG2GgM8Kl) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Almost There](https://open.spotify.com/album/4BDftZAnppbkKAA4O4APzn) | 4:08 |
 | 153 | [This I Believe \(The Creed\) \- Live](https://open.spotify.com/track/4Hrr4U80Rk1tWXlP8RFTAb) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [No Other Name \(Deluxe Edition/Live\)](https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP) | 6:41 |
 | 154 | [Raise a Hallelujah \- Live](https://open.spotify.com/track/0YxrPdW9NpNFtqh7Fw0rva) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Victory \(Live\)](https://open.spotify.com/album/6EsmModhcfmKIeCeNQjeDY) | 7:50 |
-| 155 | [In Jesus Name \(God Of Possible\)](https://open.spotify.com/track/6Srgw41KlTpWtu5hbEKeja) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [In Jesus Name \(God Of Possible\)](https://open.spotify.com/album/6O6M9RO7S8AztEGAYKvD5T) | 3:42 |
+| 155 | [Yes and Amen](https://open.spotify.com/track/7g6LwD8T8nYuuDj6l62nSL) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [Housefires III](https://open.spotify.com/album/1Dm5rDVBBeLLjqfzBkuadR) | 7:06 |
 | 156 | [This Is a Move](https://open.spotify.com/track/7cRrS2PIyaXzmNDTFckXJ2) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [This Is a Move](https://open.spotify.com/album/6crpNvPmpoEgTFGkqzaEuh) | 3:42 |
-| 157 | [Yes and Amen](https://open.spotify.com/track/7g6LwD8T8nYuuDj6l62nSL) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [Housefires III](https://open.spotify.com/album/1Dm5rDVBBeLLjqfzBkuadR) | 7:06 |
-| 158 | [How Can It Be](https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0) | 4:19 |
+| 157 | [In Jesus Name \(God Of Possible\)](https://open.spotify.com/track/6Srgw41KlTpWtu5hbEKeja) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [In Jesus Name \(God Of Possible\)](https://open.spotify.com/album/6O6M9RO7S8AztEGAYKvD5T) | 3:42 |
+| 158 | [Into the Deep \(Live\)](https://open.spotify.com/track/01GHOdYIsJfrFBqsPpXd6k) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2) | [Into the Deep \(Live\)](https://open.spotify.com/album/0AE58KihwvtHYKcALMQjGy) | 6:28 |
 | 159 | [Canyons](https://open.spotify.com/track/3qJrhAPsIAPZ0NcJ7erI6t) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [To Love a Fool](https://open.spotify.com/album/5lI4dcwtT3IXJ8i097XkIH) | 4:40 |
-| 160 | [Into the Deep \(Live\)](https://open.spotify.com/track/01GHOdYIsJfrFBqsPpXd6k) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2) | [Into the Deep \(Live\)](https://open.spotify.com/album/0AE58KihwvtHYKcALMQjGy) | 6:28 |
+| 160 | [How Can It Be](https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0) | 4:19 |
 | 161 | [Peace Be Still \(feat\. Lauren Daigle\)](https://open.spotify.com/track/6zvSkAEtFZIJD7kVeo5by4) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [All The Earth](https://open.spotify.com/album/6AmRmySvr449vMyF5Eq7ty) | 8:06 |
 | 162 | [Defender \(Live\)](https://open.spotify.com/track/3JlJf45Z3GPkIbIM9OqfTZ) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Simmons](https://open.spotify.com/artist/4MoMxzux9FD9LNixSa9mcd) | [Moments](https://open.spotify.com/album/4bKpeGX4y9MZmzSYNnU4KC) | 8:52 |
 | 163 | [Great I Am](https://open.spotify.com/track/2e6Tbu1hiYjUR7kgMIZpkO) | [Phillips, Craig & Dean](https://open.spotify.com/artist/0g5OkLnQogzLrT9s5vw6kl) | [Breathe In](https://open.spotify.com/album/4z2Reu5ayiiP2izF4w3znO) | 4:29 |

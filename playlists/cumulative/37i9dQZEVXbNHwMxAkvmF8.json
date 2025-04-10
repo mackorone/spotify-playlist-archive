@@ -566,7 +566,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-05",
+      "date_removed": null,
       "duration_ms": 193398,
       "name": "3korty",
       "url": "https://open.spotify.com/track/5ZY255MSISgMrvHmRZux1E"
@@ -2904,7 +2904,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -7638,7 +7638,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-09",
+      "date_removed": null,
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -19431,6 +19431,24 @@
     },
     {
       "album": {
+        "name": "PASSO BEM SOLTO",
+        "url": "https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY"
+      },
+      "artists": [
+        {
+          "name": "ATLXS",
+          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116072,
+      "name": "PASSO BEM SOLTO - Slowed",
+      "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
+    },
+    {
+      "album": {
         "name": "Lidokain",
         "url": "https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ"
       },
@@ -21424,7 +21442,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 199719,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/6eaaIxWaso3ooRdPDS5PuN"
@@ -22004,7 +22022,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 177526,
       "name": "SANDELA",
       "url": "https://open.spotify.com/track/28VVWdNsM6l05eOiJfth5X"

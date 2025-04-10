@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
-  "num_followers": 22506,
+  "num_followers": 22510,
   "original_name": "This Is Gustavo Santaolalla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/MVgAAAAADKj+PMkzpU1SBt8gCuJHRD",
+  "snapshot_id": "Z/RnAAAAAADz0+OZXUVkN4b4a9LZgBpJ",
   "tracks": [
     {
       "added_at": null,
@@ -803,18 +803,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qhapaq \u00d1an",
-        "url": "https://open.spotify.com/album/7z2o3Kb9hCVB416isvUIce"
+        "name": "Cantora",
+        "url": "https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl"
       },
       "artists": [
         {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        },
+        {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Orozco-Barrientos",
+          "url": "https://open.spotify.com/artist/23Pml8pDuAoLpaUxxGms4F"
         }
       ],
-      "duration_ms": 132973,
-      "name": "De Ushuaia a la Quiaca",
-      "url": "https://open.spotify.com/track/1GaqUDpOrQvU9i2OF6jH9n"
+      "duration_ms": 218213,
+      "name": "Celador De Sue\u00f1os (with Gustavo Santaolalla & Orozco - Barrientos)",
+      "url": "https://open.spotify.com/track/69ZSjgExJ8S5y7eDbNPDer"
     },
     {
       "added_at": null,
@@ -867,26 +875,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cantora",
-        "url": "https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl"
+        "name": "Qhapaq \u00d1an",
+        "url": "https://open.spotify.com/album/7z2o3Kb9hCVB416isvUIce"
       },
       "artists": [
         {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        },
-        {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        },
-        {
-          "name": "Orozco-Barrientos",
-          "url": "https://open.spotify.com/artist/23Pml8pDuAoLpaUxxGms4F"
         }
       ],
-      "duration_ms": 218213,
-      "name": "Celador De Sue\u00f1os (with Gustavo Santaolalla & Orozco - Barrientos)",
-      "url": "https://open.spotify.com/track/69ZSjgExJ8S5y7eDbNPDer"
+      "duration_ms": 132973,
+      "name": "De Ushuaia a la Quiaca",
+      "url": "https://open.spotify.com/track/1GaqUDpOrQvU9i2OF6jH9n"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: aiko
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,826 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,832 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 66 | [EYES ON YOU](https://open.spotify.com/track/6p8SZOytmthKLKfB95viaY) | [Kana Nishino](https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI) | [EYES ON YOU](https://open.spotify.com/album/744FY3ysIEHKSVJU1pFg2L) | 3:36 |
 | 67 | [恋をひそめて](https://open.spotify.com/track/7KfcUxHjapiDyb2nGXF0Lr) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [恋をひそめて](https://open.spotify.com/album/00qlpQtxDa0GGAtoHRaGHO) | 4:05 |
 | 68 | [Nobody Knows](https://open.spotify.com/track/3jpWkQQUpwHe8m741B7bIO) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [I still / Nobody Knows](https://open.spotify.com/album/4OeZlhYN40oXF6bUfJTl1A) | 3:36 |
-| 69 | [アイモライモ](https://open.spotify.com/track/5d0dz0ekefZ243cWDGiDJ1) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [アイモライモ](https://open.spotify.com/album/0G2Dn7aEZSIcWu9UxE7kLC) | 4:15 |
+| 69 | [アイモライモ \- Aimoraimo](https://open.spotify.com/track/5d0dz0ekefZ243cWDGiDJ1) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [アイモライモ \- Aimoraimo](https://open.spotify.com/album/0G2Dn7aEZSIcWu9UxE7kLC) | 4:15 |
 | 70 | [僕らしさ](https://open.spotify.com/track/2ZwS4OtnNImLucRnYQRMH6) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [僕らしさ](https://open.spotify.com/album/3CKYnctlDRNi4XqHGSfSqL) | 4:08 |
 | 71 | [ハミング](https://open.spotify.com/track/17f50sZb2FwIeyh89It1qX) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [ハミング](https://open.spotify.com/album/17eurvWkXobPOJpJZsrbLw) | 3:39 |
 | 72 | [SPARK!!](https://open.spotify.com/track/307iThLshjnMdUev0bqlr8) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [サマラブ](https://open.spotify.com/album/7eUgZkOJL1L3N8mxKC9XOq) | 4:04 |

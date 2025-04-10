@@ -1725,6 +1725,24 @@
     },
     {
       "album": {
+        "name": "\u5149\u306e\u30b7\u30b0\u30ca\u30eb",
+        "url": "https://open.spotify.com/album/28mES2k7GFbwbhK2lVULON"
+      },
+      "artists": [
+        {
+          "name": "Kis-My-Ft2",
+          "url": "https://open.spotify.com/artist/4kxoWjOpCVYKgPv9nea95k"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264613,
+      "name": "\u5149\u306e\u30b7\u30b0\u30ca\u30eb",
+      "url": "https://open.spotify.com/track/68VO2aVwUrkRJo7m0XrK45"
+    },
+    {
+      "album": {
         "name": "\u541b\u306e\u540d\u306f\u3002",
         "url": "https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl"
       },

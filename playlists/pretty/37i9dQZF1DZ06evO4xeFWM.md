@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 
 > This is Bastille\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,074 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,078 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 10 | [Of The Night](https://open.spotify.com/track/7BNDyzwDboNRR2wmd7GSew) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:34 |
 | 11 | [Send Them Off!](https://open.spotify.com/track/4Wg7VfvO7NVG57R8cSPDQG) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:20 |
 | 12 | [Joy](https://open.spotify.com/track/6Tt1P5CLUrl59oSOTVxON0) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 3:12 |
-| 13 | [Blue Sky & The Painter](https://open.spotify.com/track/2OIq8lnYPf7xBWX4QWtcjm) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w) | 3:52 |
+| 13 | [Grip](https://open.spotify.com/track/0UazJzfJFyh8904WFxFkr6) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Sad in Scandinavia](https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA) | 3:18 |
 | 14 | [Oblivion](https://open.spotify.com/track/3IvSKBO9Fu4yEWRPXvfrLU) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:16 |
-| 15 | [Grip](https://open.spotify.com/track/0UazJzfJFyh8904WFxFkr6) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Sad in Scandinavia](https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA) | 3:18 |
+| 15 | [Blue Sky & The Painter](https://open.spotify.com/track/2OIq8lnYPf7xBWX4QWtcjm) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w) | 3:52 |
 | 16 | [Doom Days](https://open.spotify.com/track/1TkXApzsz0a6YRArjbqprt) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 2:18 |
 | 17 | [Remains \(Bastille Vs\. Rag’N’Bone Man Vs\. Skunk Anansie\)](https://open.spotify.com/track/6G43t8BCjmJyPGwNrAAPPV) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [VS\. \(Other People’s Heartache, Pt\. III\)](https://open.spotify.com/album/1YXsPGQingGkJZLA8uuQNL) | 4:39 |
 | 18 | [Flaws](https://open.spotify.com/track/14qPtxNN9MBdqKpP6l5q6G) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:38 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 37 | [Bad Decisions](https://open.spotify.com/track/4OAxg8dC0yvuTp2A6vHrPF) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 3:09 |
 | 38 | [Blame](https://open.spotify.com/track/7yrx5A6zDOsd7Bn02WvbLH) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 2:55 |
 | 39 | [Essie & Paul](https://open.spotify.com/track/0CjGEiQSSzaewLVuvKTj1d) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w) | 3:37 |
-| 40 | [Back To The Future](https://open.spotify.com/track/2i6j4kdRKZV4Y62I2bD1QC) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future](https://open.spotify.com/album/2Jxhndt77Zu0Y5TVXM37ho) | 2:53 |
-| 41 | [Liar Liar \(Feat\. Bastille\)](https://open.spotify.com/track/3CGAtMSboRN65Jo4wb3eOH) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Liar Liar \(Feat\. Bastille\)](https://open.spotify.com/album/1Z63CEuNOQf5UIZ1LoI9fP) | 2:54 |
+| 40 | [Liar Liar \(Feat\. Bastille\)](https://open.spotify.com/track/3CGAtMSboRN65Jo4wb3eOH) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Liar Liar \(Feat\. Bastille\)](https://open.spotify.com/album/1Z63CEuNOQf5UIZ1LoI9fP) | 2:54 |
+| 41 | [Back To The Future](https://open.spotify.com/track/2i6j4kdRKZV4Y62I2bD1QC) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future](https://open.spotify.com/album/2Jxhndt77Zu0Y5TVXM37ho) | 2:53 |
 | 42 | [Lethargy](https://open.spotify.com/track/28mBT1l5sJrfSWn8KM3JLT) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:24 |
 | 43 | [Pompeii \- Audien Remix](https://open.spotify.com/track/2Kl1E3NdbzT7vVi93TffoX) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE) | [Pompeii \(Audien Remix\)](https://open.spotify.com/album/4QJKyqHqUUBWEGYD7wekvU) | 5:52 |
 | 44 | [I Know You \(feat\. Bastille\)](https://open.spotify.com/track/5lRzEC0Hyj92nEr9JkDxM2) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [The Time Is Now \(Expanded Edition\)](https://open.spotify.com/album/51vRvV83RdWGP9FpzGe4SQ) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 49 | [WHAT YOU GONNA DO???](https://open.spotify.com/track/31brGBYDq5N15VxIn5juop) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC) | [WHAT YOU GONNA DO???](https://open.spotify.com/album/60qrudaXQ3p7R3gX4ctAdD) | 2:11 |
 | 50 | [Warmth](https://open.spotify.com/track/4hVJIlulH29qKVYGCT6cky) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:49 |
 
-Snapshot ID: `Z/MVgAAAAAByjf6fFqLdXuOfEZlqMgKT`
+Snapshot ID: `Z/RnAAAAAABDMEYpBfIJvgWpGAhdmcEA`

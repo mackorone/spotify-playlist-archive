@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Hande Ünsal ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,487 likes - 82 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,474 likes - 82 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 41 | [420](https://open.spotify.com/track/5VmU45mZhsdz9dCIKTAzFt) | [Eyel](https://open.spotify.com/artist/1EZm0B7GbQAWulKlPUwhSF), [Ashkan Kagan](https://open.spotify.com/artist/2D66FABcMx1DcjVtrVAeHL) | [420](https://open.spotify.com/album/36cKHLsxeZtmUWTv74czqW) | 2:11 |
 | 42 | [Suçum Yok](https://open.spotify.com/track/6VhGpzui5RxtMde1XZ0iYK) | [Gaye Aksu](https://open.spotify.com/artist/4HtJueBZr7JJ7ZlQHNJzql) | [Suçum Yok](https://open.spotify.com/album/2q2nA4AWQLbJ1jXsK8fL7A) | 3:24 |
 | 43 | [Yaşamak](https://open.spotify.com/track/4uCViuHO6N7JLss097U7Jk) | [Ayaz Kaplı](https://open.spotify.com/artist/2f0EKdKutjbTcz6kPR9z7i), [Kaplan](https://open.spotify.com/artist/5NpMXRQGV9IpcGfuT8n5qt) | [Yaşamak](https://open.spotify.com/album/4UuwrSudkWwS8SYfrNdbGa) | 2:15 |
-| 44 | [KALPSİZ BİR DÜNYA](https://open.spotify.com/track/5Xhux9cQeZ6Hh5xXsuEdAo) | [Güney Marlen](https://open.spotify.com/artist/3y64dVHKEpf6IGlPsgpWxw) | [KALPSİZ BİR DÜNYA](https://open.spotify.com/album/1G68OZM5eqesL7kksQpCbA) | 3:12 |
+| 44 | [KALPSİZ BİR DÜNYA](https://open.spotify.com/track/5Xhux9cQeZ6Hh5xXsuEdAo) | [Güney Marlen](https://open.spotify.com/artist/2xi3gDddycZcEFXSdqsd1r) | [KALPSİZ BİR DÜNYA](https://open.spotify.com/album/1G68OZM5eqesL7kksQpCbA) | 3:12 |
 | 45 | [Work \(feat\. Yeat\)](https://open.spotify.com/track/6Xl6w3XXqVCcUAfMPQbMMJ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Work \(feat\. Yeat\)](https://open.spotify.com/album/7LPf96K385oNFUmCbQlstu) | 2:54 |
 | 46 | [aklımda berbat bi fikir var](https://open.spotify.com/track/4qHzHjqevNjb3JGK4egvjn) | [Ağaçkakan](https://open.spotify.com/artist/7ssDDQAUFA9Z5k5VbbqYxg) | [Gölge](https://open.spotify.com/album/7Csct3J975u4nmOS5zyisN) | 4:23 |
 | 47 | [%1](https://open.spotify.com/track/2fnkVglEpKXDY2c5CHN4Mq) | [BAO](https://open.spotify.com/artist/2A8LFuPVMXU66LuCPtgOEo) | [%1](https://open.spotify.com/album/79uapnRdsFTZsGRjO3Ixvf) | 3:03 |

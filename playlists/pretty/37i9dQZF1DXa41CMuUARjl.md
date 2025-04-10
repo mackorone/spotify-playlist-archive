@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Tripolism & Avangart Tabldot
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,550 likes - 120 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,144 likes - 120 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

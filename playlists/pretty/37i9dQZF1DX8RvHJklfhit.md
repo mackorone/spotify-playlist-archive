@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 
 > Your favorite Latin Indie classics\. Cover: Mon Laferte
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,158 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,204 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 96 | [Hate My Face](https://open.spotify.com/track/7h631DjBj4j7aFMFwEA7ma) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Hate My Face](https://open.spotify.com/album/2UUBmbPIewpO7axHpYeScJ) | 3:01 |
 | 97 | [Whatchu Know?](https://open.spotify.com/track/2aIBLMcUJzzBFj0jgQC7bN) | [Sam Sky](https://open.spotify.com/artist/2YiWowjyYqKEXuAle5oNDU) | [Whatchu Know?](https://open.spotify.com/album/29JesIS2vuVrFVtoOp3mur) | 3:48 |
 | 98 | [Missed Connection](https://open.spotify.com/track/5g5vA6ILBex9HxckYqNzHA) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Canta](https://open.spotify.com/album/3RoPVCstBakWHHls5HEoKp) | 3:51 |
-| 99 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 |
-| 100 | [I Know It](https://open.spotify.com/track/7uLJUEnHIbLNyjRltSd1Eg) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Invisible People](https://open.spotify.com/album/6SVzbiS8FloyayLerrRMiY) | 2:31 |
+| 99 | [I Know It](https://open.spotify.com/track/7uLJUEnHIbLNyjRltSd1Eg) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Invisible People](https://open.spotify.com/album/6SVzbiS8FloyayLerrRMiY) | 2:31 |
+| 100 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 |
 
 Snapshot ID: `ZpFxJQAAAAAt3oTHlPs1GNgKgRqjSiWy`

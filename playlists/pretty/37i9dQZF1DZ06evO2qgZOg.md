@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 
 > This is Skillet\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,128 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,192 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,26 +20,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 | 10 | [Rise](https://open.spotify.com/track/1W0YS64vF9qgMVLuN76aqg) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 4:20 |
 | 11 | [Falling Inside the Black](https://open.spotify.com/track/4AVxmpwfXH7p4YyTbg9nS4) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:30 |
 | 12 | [Legendary](https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:04 |
-| 13 | [Psycho In My Head](https://open.spotify.com/track/3cWQDKcIhP74CTfkxoCN0J) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion: Day of Destiny](https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv) | 3:17 |
-| 14 | [Back from the Dead](https://open.spotify.com/track/7y9l4rJLsXQMHciCNSgZmi) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:33 |
+| 13 | [Back from the Dead](https://open.spotify.com/track/7y9l4rJLsXQMHciCNSgZmi) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:33 |
+| 14 | [Psycho In My Head](https://open.spotify.com/track/3cWQDKcIhP74CTfkxoCN0J) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion: Day of Destiny](https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv) | 3:17 |
 | 15 | [Ash In The Wind](https://open.spotify.com/track/3MExPJbadqPSX3GlUeqzfl) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:52 |
 | 16 | [Rebirthing](https://open.spotify.com/track/1OG0QQa2zZe4QeFwVhCiiA) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:53 |
-| 17 | [Take It All Back](https://open.spotify.com/track/1486GTNZyKS12K9NSP1QRj) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Take It All Back](https://open.spotify.com/album/0JNxzwUAvDPOboU7nmP9GU) | 3:24 |
-| 18 | [I Want to Live](https://open.spotify.com/track/4Ahphc0UzRSoMpJRHgnGQK) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:28 |
+| 17 | [I Want to Live](https://open.spotify.com/track/4Ahphc0UzRSoMpJRHgnGQK) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:28 |
+| 18 | [Take It All Back](https://open.spotify.com/track/1486GTNZyKS12K9NSP1QRj) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Take It All Back](https://open.spotify.com/album/0JNxzwUAvDPOboU7nmP9GU) | 3:24 |
 | 19 | [Unpopular](https://open.spotify.com/track/74PfOfWFgxpUBBucEiWWNx) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:05 |
 | 20 | [Sick of It](https://open.spotify.com/track/4EYpOdL69yWuIRc49AyeZa) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 3:10 |
-| 21 | [Save Me](https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:43 |
-| 22 | [Undefeated](https://open.spotify.com/track/7sCQbcrVlIKoIjOpR3Oj5N) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:35 |
+| 21 | [Undefeated](https://open.spotify.com/track/7sCQbcrVlIKoIjOpR3Oj5N) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:35 |
+| 22 | [Save Me](https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:43 |
 | 23 | [Showtime](https://open.spotify.com/track/0LX82kX5rUJ1PTOKybET6m) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:33 |
 | 24 | [What I Believe](https://open.spotify.com/track/5aUl2cPg4O7yXXdzWQVTYO) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 3:19 |
-| 25 | [Victorious](https://open.spotify.com/track/4emQrNiz37OidY7SoXXQls) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:05 |
-| 26 | [Stars](https://open.spotify.com/track/6VMT3SzIMbNoR5lsUsniQY) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:45 |
+| 25 | [Stars](https://open.spotify.com/track/6VMT3SzIMbNoR5lsUsniQY) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:45 |
+| 26 | [Never Surrender](https://open.spotify.com/track/4MoVvVkDGFNtQPHciZgG3w) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 3:30 |
 | 27 | [All That Matters](https://open.spotify.com/track/4TXAA3r1m7CaGoUnDRBAJ2) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:27 |
-| 28 | [Never Surrender](https://open.spotify.com/track/4MoVvVkDGFNtQPHciZgG3w) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 3:30 |
-| 29 | [Anchor](https://open.spotify.com/track/6EwnYm73XEibpAPOnTc8li) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:36 |
-| 30 | [The Last Night](https://open.spotify.com/track/37CMjUAU8fL6YqZVTplZqZ) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:30 |
+| 28 | [Victorious](https://open.spotify.com/track/4emQrNiz37OidY7SoXXQls) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:05 |
+| 29 | [The Last Night](https://open.spotify.com/track/37CMjUAU8fL6YqZVTplZqZ) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:30 |
+| 30 | [It's Not Me, It's You](https://open.spotify.com/track/1swaR8iEKe5qyCoyCWjyvP) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 3:24 |
 | 31 | [Not Afraid](https://open.spotify.com/track/1TnAZhq4cp6K2I4UmHJzZ4) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:13 |
-| 32 | [It's Not Me, It's You](https://open.spotify.com/track/1swaR8iEKe5qyCoyCWjyvP) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 3:24 |
+| 32 | [Anchor](https://open.spotify.com/track/6EwnYm73XEibpAPOnTc8li) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:36 |
 | 33 | [Surviving The Game](https://open.spotify.com/track/0urubGmXiODfWyGL6o6W4P) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 3:58 |
 | 34 | [Breaking Free \(feat\. Lacey Sturm\)](https://open.spotify.com/track/3sT99jz232QWq5Q2LEaFJ5) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [Unleashed Beyond \(Special Edition\)](https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37) | 3:52 |
 | 35 | [Fire Inside of Me](https://open.spotify.com/track/1royRCZwWV2h4zPSnwbyw7) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 | 49 | [You Get Me High](https://open.spotify.com/track/4AapC5EaUVuL7LZojRPyGu) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed Beyond \(Special Edition\)](https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37) | 3:17 |
 | 50 | [American Horse \(feat\. John Cooper of Skillet and Ayron Jones\)](https://open.spotify.com/track/30Qr90fqL0EvHCqc0pJz7H) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug), [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z), [John Cooper](https://open.spotify.com/artist/6F6yFWTDuaw4cZTjmHxdY8), [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [American Horse \(feat\. John Cooper of Skillet and Ayron Jones\)](https://open.spotify.com/album/4XSZtfqgfpWiqmfEc7lOtE) | 3:43 |
 
-Snapshot ID: `Z/MVgAAAAACBG42vWkjukZn1pEsKTeur`
+Snapshot ID: `Z/RnAAAAAABxQAsyJg07gt2iSc5nnWAU`

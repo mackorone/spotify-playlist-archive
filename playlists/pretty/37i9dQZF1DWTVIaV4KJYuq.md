@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,730 likes - 110 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,844 likes - 110 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,9 +114,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 104 | [Hallelujah](https://open.spotify.com/track/74X1epeRufHckhuX1KFD04) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace \(Legacy Edition\)](https://open.spotify.com/album/07Fr36M0hRPJrSJMFWGnvD) | 6:53 |
 | 105 | [I Remember Everything](https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [I Remember Everything](https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM) | 2:36 |
 | 106 | [Make You Feel My Love](https://open.spotify.com/track/7rPLZ8Krm6CZIbraFUlnWZ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1) | 3:32 |
-| 107 | [Always On My Mind](https://open.spotify.com/track/6xgZswMoI5ncV8e5jhiRsC) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Leave Me Breathless](https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy) | 3:26 |
+| 107 | [This Must Be the Place \(Naive Melody\) \[by Talking Heads\]](https://open.spotify.com/track/0udJrKQOgJz6TwZXuhi7IM) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [7" Singles](https://open.spotify.com/album/7JE9DRRB2m7IG1lvlztQ8q) | 3:26 |
 | 108 | [You Don't Know How It Feels](https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [You Don't Know How It Feels](https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX) | 3:42 |
 | 109 | [Zombie \(Live from the NIVA Save Our Stages Festival\)](https://open.spotify.com/track/6IsiCdn42x5fGWTUqkyDwj) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Zombie \(Live from the NIVA Save Our Stages Festival\)](https://open.spotify.com/album/5ZF0y8MDRFSecx7HFqqryV) | 4:50 |
-| 110 | [Here Comes the Sun](https://open.spotify.com/track/4h9DsTf9n0cizUc0x3ljHP) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Here Comes the Sun](https://open.spotify.com/album/42TfoBfETVrKwCXZ9nBkTc) | 2:21 |
+| 110 | [Always On My Mind](https://open.spotify.com/track/6xgZswMoI5ncV8e5jhiRsC) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Leave Me Breathless](https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy) | 3:26 |
 
 Snapshot ID: `ZxHdQAAAAAAUhTzmdPDpR9jLmR7P/gby`

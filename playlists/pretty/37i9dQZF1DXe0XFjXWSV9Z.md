@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,791 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,800 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 88 | [Caracoles](https://open.spotify.com/track/20rxRyK8QJhQCOLaa4e8tr) | [Orquesta Akokán](https://open.spotify.com/artist/2JfmjVmkudFg1BPS9Fq5zm) | [Caracoles](https://open.spotify.com/album/4Cr2ZQ9aaNREBSjrBr81g8) | 4:23 |
 | 89 | [Bueltatzen](https://open.spotify.com/track/1QoGnD390y0CCuTAIy1J2o) | [Goxua´n Salsa](https://open.spotify.com/artist/3pHdIDn7I3886jmRAhIonL) | [Bueltatzen](https://open.spotify.com/album/4v1nMs0gkTppp4rhdrmCqv) | 4:18 |
 | 90 | [Lamento en la Selva \- Remix](https://open.spotify.com/track/2HjI7XZy4nXBEPim02cGDo) | [Astros de Mendoza](https://open.spotify.com/artist/354fUDKAlUUsUfuC1Riike), [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Abducción Amazonica, Lamento en la Selva](https://open.spotify.com/album/0XWPWLDrLsSUAW0kTF4T07) | 3:36 |
-| 91 | [Me Duele Tu Partida](https://open.spotify.com/track/3VrE3hqJAqZ6vOcIKDQaF5) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Me Duele Tu Partida](https://open.spotify.com/album/3rreqEAgQUOo9XYDvLOF6S) | 3:12 |
-| 92 | [Para Poderte Olvidar](https://open.spotify.com/track/7MOwjyBrU0hMRCDwkSoKAx) | [Qiensave](https://open.spotify.com/artist/2zzLwsB8sY1dkIDAKevDrc) | [Para Poderte Olvidar](https://open.spotify.com/album/7tEne4UdMQ15NaVyzD50lC) | 4:00 |
+| 91 | [Para Poderte Olvidar](https://open.spotify.com/track/7MOwjyBrU0hMRCDwkSoKAx) | [Qiensave](https://open.spotify.com/artist/2zzLwsB8sY1dkIDAKevDrc) | [Para Poderte Olvidar](https://open.spotify.com/album/7tEne4UdMQ15NaVyzD50lC) | 4:00 |
+| 92 | [Me Duele Tu Partida](https://open.spotify.com/track/3VrE3hqJAqZ6vOcIKDQaF5) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Me Duele Tu Partida](https://open.spotify.com/album/3rreqEAgQUOo9XYDvLOF6S) | 3:12 |
 | 93 | [Cuando tengo fiebre veo la cabeza de un leopardo magnífico](https://open.spotify.com/track/5klF20vzC2HpEQbhn7CdKE) | [Julián Mayorga](https://open.spotify.com/artist/2TcRGEZR3tYPVDe71l5Fui) | [Cuando tengo fiebre veo la cabeza de un leopardo magnífico](https://open.spotify.com/album/41OUIwrSh0rnfRHYVKUNdU) | 3:54 |
 | 94 | [Con Otros Ojos](https://open.spotify.com/track/2pqg6LbsUiHdEvNkQHD8H5) | [Los Rolling Ruanas](https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3), [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Con Otros Ojos](https://open.spotify.com/album/6Kh8aI3eYi6mqHdVg4HXf7) | 3:40 |
 | 95 | [Dios](https://open.spotify.com/track/1hTGXQD56NSef0JYfJi9U1) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Dios](https://open.spotify.com/album/4y1NSE3BTF7B08jd0v212w) | 3:13 |
 | 96 | [Porrovía](https://open.spotify.com/track/1dYgoBJEkIHfhKGebTRioT) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Porrovía](https://open.spotify.com/album/1xglUTNFCosYq9NW4FXc9g) | 3:27 |
 | 97 | [Luna Villera](https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Luna Villera](https://open.spotify.com/album/5Vm7UF6GDOFqCNfOMDtxwi) | 3:57 |
-| 98 | [Capricornio: Ven a mi amor](https://open.spotify.com/track/5klxe1nweL6Ak1LsNSlHte) | [Sonido Desconocido 2](https://open.spotify.com/artist/7vn9gosQwaC0ca5C4wRVUA) | [Capricornio: Ven a mi amor](https://open.spotify.com/album/1dGVnxTvqZ6FF7lPocvCrF) | 2:50 |
-| 99 | [Chica Psy](https://open.spotify.com/track/2hZtbjIOTdO1ohJ70SOyu3) | [Cadereira](https://open.spotify.com/artist/7DTKyMRxUoxcN0cXqrRzIO) | [Chica Psy](https://open.spotify.com/album/6wXsBA06udJMz8GXS4k6CE) | 3:22 |
-| 100 | [Por Ahí](https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd) | [La Chamba](https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh) | [Somos](https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw) | 3:18 |
+| 98 | [Chica Psy](https://open.spotify.com/track/2hZtbjIOTdO1ohJ70SOyu3) | [Cadereira](https://open.spotify.com/artist/7DTKyMRxUoxcN0cXqrRzIO) | [Chica Psy](https://open.spotify.com/album/6wXsBA06udJMz8GXS4k6CE) | 3:22 |
+| 99 | [Por Ahí](https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd) | [La Chamba](https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh) | [Somos](https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw) | 3:18 |
+| 100 | [Capricornio: Ven a mi amor](https://open.spotify.com/track/5klxe1nweL6Ak1LsNSlHte) | [Sonido Desconocido 2](https://open.spotify.com/artist/7vn9gosQwaC0ca5C4wRVUA) | [Capricornio: Ven a mi amor](https://open.spotify.com/album/1dGVnxTvqZ6FF7lPocvCrF) | 2:50 |
 
 Snapshot ID: `Z6U/IQAAAAAhfVrz9qlS4W6WC496FWRQ`

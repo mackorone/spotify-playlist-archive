@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sound from Asia\. Cover: SOS \(Philippines\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,743 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,781 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

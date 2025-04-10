@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 
 > Pinches cumbiones bien locos para bailar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,101 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,154 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 | 33 | [La Triple T](https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Triple T](https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv) | 2:47 |
 | 34 | [Padre Nuestro](https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [La Luz Del Ritmo](https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574) | 4:32 |
 | 35 | [Universo Paralelo](https://open.spotify.com/track/6LBpjWMfy1NUfyxAJbcMRs) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Universo Paralelo](https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2) | 3:37 |
-| 36 | [Bailan Rochas y Chetas](https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Me Declaro Culpable](https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn) | 2:58 |
+| 36 | [Bailan Rochas y Chetas](https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN), [Magenta](https://open.spotify.com/artist/0uT3lm3wY3LnyP6dtok0q4) | [Me Declaro Culpable](https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn) | 2:58 |
 | 37 | [Nunca Pense Llorar](https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw) | [Rossy War y Su Banda Kaliente](https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ) | [Como un Dulce Poema, Vol\. 3](https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY) | 4:09 |
 | 38 | [No Me Engañes Nunca](https://open.spotify.com/track/061AptiQT6XhEkTViCMHWx) | [Mexikolombia](https://open.spotify.com/artist/0OYcok9V194Ul8EiD6ph9T), [Yulios Kumbia](https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH), [Los Telez](https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A) | [No Me Engañes Nunca](https://open.spotify.com/album/0tUwtwf1x9pnkZUM9tXrSX) | 3:53 |
 | 39 | [No Puedo Olvidarte](https://open.spotify.com/track/1f4FWujFH5ouqxPACbiSgJ) | [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc) | [No Puedo Olvidarte](https://open.spotify.com/album/1o6ilxYuAIaNYwjssSCAcS) | 5:31 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 | 53 | [Lo Haré por Ti](https://open.spotify.com/track/1rOGYXuSRAQZbRvrrbD875) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Lo Haré por Ti](https://open.spotify.com/album/5gtTcrM4aklmD6keDazXY6) | 3:48 |
 | 54 | [Soy Soltero](https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [No Lo Compren](https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR) | 3:37 |
 | 55 | [El humo de mi fasito](https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [100% Negro Cumbiero](https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf) | 3:32 |
-| 56 | [Chetos y Cumbieros](https://open.spotify.com/track/6EsuTkSB0cLNfeHnzxBUJS) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Me Declaro Culpable](https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn) | 2:57 |
+| 56 | [Chetos y Cumbieros](https://open.spotify.com/track/6EsuTkSB0cLNfeHnzxBUJS) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN), [Magenta](https://open.spotify.com/artist/0uT3lm3wY3LnyP6dtok0q4) | [Me Declaro Culpable](https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn) | 2:57 |
 | 57 | [Cuando Nadie Ve](https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Cuando Nadie Ve](https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV) | 3:52 |
 | 58 | [Bésame](https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Bésame](https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6) | 2:22 |
 | 59 | [Yo Quiero Chupar](https://open.spotify.com/track/1xKdSekba1TL5gP7CAMNTT) | [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe) | [Yo Quiero Chupar / Solo Exitos](https://open.spotify.com/album/1nnfHi1XzDV3K0ajYDWgs4) | 3:35 |

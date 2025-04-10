@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,059 likes - 350 songs - 20 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,068 likes - 350 songs - 20 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,8 +164,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 | 154 | [Newspapers Heads](https://open.spotify.com/track/5Zthx9hZRFSJRhO0UEi8Ox) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [Newspapers Heads](https://open.spotify.com/album/7tuJ3IScGPnWvBio5JV98x) | 4:02 |
 | 155 | [Solitude Symphony](https://open.spotify.com/track/6zVc9yoZgGnEdLsqHp0787) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Solitude Symphony](https://open.spotify.com/album/3CK0uOgkGyBJHGEzlSrhMw) | 4:08 |
 | 156 | [Chasing Rainbows](https://open.spotify.com/track/55FGpcsMf5cQGF3BQtZjEw) | [Emily Green Trio](https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg) | [Chasing Rainbows](https://open.spotify.com/album/3Ho0NuGDkrtrZGwfe9NwdO) | 3:28 |
-| 157 | [Nine Days Before](https://open.spotify.com/track/4yld9ovOfGTAi4HXKlU0nS) | [Marc Frost](https://open.spotify.com/artist/2MF42y9jjPwHBA5TEBpr4k) | [Nine Days Before](https://open.spotify.com/album/18DjBqUbuPhualp3VFsiS9) | 2:47 |
-| 158 | [Just Ourselves](https://open.spotify.com/track/08G11yzcwoMuJrUy4ucLge) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Just Ourselves](https://open.spotify.com/album/0Wlpr3FAxEIQFnm9jTMQAB) | 3:48 |
+| 157 | [Just Ourselves](https://open.spotify.com/track/08G11yzcwoMuJrUy4ucLge) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Just Ourselves](https://open.spotify.com/album/0Wlpr3FAxEIQFnm9jTMQAB) | 3:48 |
+| 158 | [Nine Days Before](https://open.spotify.com/track/4yld9ovOfGTAi4HXKlU0nS) | [Marc Frost](https://open.spotify.com/artist/2MF42y9jjPwHBA5TEBpr4k) | [Nine Days Before](https://open.spotify.com/album/18DjBqUbuPhualp3VFsiS9) | 2:47 |
 | 159 | [Once In A While](https://open.spotify.com/track/12SBeS47Z8b1N6FqbfXhL7) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Once In A While](https://open.spotify.com/album/1cx3QPnfkgDUdr7SLyx4yg) | 3:53 |
 | 160 | [I'm Old Fashioned](https://open.spotify.com/track/5qaAnqAeGIGJeAl4mEl2CF) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [I'm Old Fashioned](https://open.spotify.com/album/2VAEK52l7TchRl2CKfFK4M) | 2:26 |
 | 161 | [The April Skies](https://open.spotify.com/track/7MTAzNGDR2oen6dmPKxI3C) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [The April Skies](https://open.spotify.com/album/4g98w5zi81287g6iuPt3bJ) | 3:33 |

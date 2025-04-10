@@ -4,7 +4,7 @@
 
 > This is Madonna\. The essential tracks, all in one playlist.
 
-85 songs - 5 hr 57 min
+86 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Hollywood](https://open.spotify.com/track/4ixxz1GXB57Q6K2nbR4AwL) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [American Life](https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW) | 4:22 | 2023-10-10 | 2025-01-25 |
 | [Human Nature](https://open.spotify.com/track/4Cna7QxOOTNnylVHLtShCi) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Bedtime Stories](https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB) | 4:53 | 2023-11-10 | 2024-07-17 |
 | [Hung Up](https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:37 | 2023-07-28 |  |
+| [Hung Up \- Radio Version](https://open.spotify.com/track/1Lg9aMPCykp6LybqcVCXiO) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Hung Up](https://open.spotify.com/album/0yzonkRITawCe3VIGuV9Vc) | 3:22 | 2025-04-10 |  |
 | [Hung Up on Tokischa](https://open.spotify.com/track/3oJzE5dSRl51xxzLeih0sy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Hung Up on Tokischa](https://open.spotify.com/album/0lJ8KgNF2nzGoCv2yfrBxQ) | 3:26 | 2023-07-28 | 2024-07-08 |
 | [I'll Remember \(Theme from the Motion Picture With Honors\)](https://open.spotify.com/track/00U0pedRUMEzREpyRqbVT6) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Something to Remember](https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5) | 4:23 | 2023-07-28 |  |
 | [Into the Groove](https://open.spotify.com/track/2m0M7YqCy4lXfedh18qd8N) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:45 | 2023-07-28 |  |
@@ -88,7 +89,7 @@
 | [True Blue](https://open.spotify.com/track/7azOuDeJGbxt5mvq3GQHXp) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:17 | 2023-07-28 |  |
 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 | 2023-07-28 |  |
 | [Vogue \- Edit](https://open.spotify.com/track/5npMYgysWSKOIVXj2szeLn) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I'm Breathless](https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED) | 4:49 | 2023-07-28 |  |
-| [VULGAR \(with Madonna\)](https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [VULGAR \(with Madonna\)](https://open.spotify.com/album/2yKZrKET8g66x3bKPFfmTT) | 2:35 | 2023-07-28 |  |
+| [VULGAR \(with Madonna\)](https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [VULGAR \(with Madonna\)](https://open.spotify.com/album/2yKZrKET8g66x3bKPFfmTT) | 2:35 | 2023-07-28 | 2025-04-10 |
 | [Who's That Girl](https://open.spotify.com/track/3G0NNqwQ1sqRpySr6soHlH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Who's That Girl Soundtrack](https://open.spotify.com/album/21vHnROXDZY51gJxsjTLXZ) | 3:59 | 2023-07-28 |  |
 | [You Must Love Me](https://open.spotify.com/track/78JPL7uIfs6Imm57r1QETk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Evita: The Complete Motion Picture Music Soundtrack](https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286) | 2:50 | 2024-07-23 | 2024-08-06 |
 | [You'll See](https://open.spotify.com/track/0Fb8sdyNluLawg08N1zs48) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Something to Remember](https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5) | 4:38 | 2023-07-28 |  |

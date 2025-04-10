@@ -4,7 +4,7 @@
 
 > This is Lupita Infante\. The essential tracks, all in one playlist.
 
-44 songs - 2 hr 26 min
+45 songs - 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Dios Nunca Muere](https://open.spotify.com/track/3GX2IkCwAglVsnL7fgX3iK) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Dios Nunca Muere](https://open.spotify.com/album/4ADTs7kIW4dVdteX7sXYgy) | 3:08 | 2025-02-12 |  |
 | [El Amor De Mi Vida](https://open.spotify.com/track/1SIuzHNrctmvWo5geNIFyi) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [El Amor de Mi Vida](https://open.spotify.com/album/1FhXUMF28q1d6dJBl1Nj1S) | 3:06 | 2025-02-12 |  |
 | [El Amor Perfecto](https://open.spotify.com/track/5Kg8hGm0Hpya8UveUTElKz) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 3:16 | 2025-02-12 | 2025-02-16 |
+| [El Mundo \- En Vivo](https://open.spotify.com/track/6PIFSo9nndPgQzZrnvOGZc) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [El Mundo \(En Vivo\)](https://open.spotify.com/album/4iDJSotLOOfiPlHRNAjrpS) | 3:32 | 2025-04-10 |  |
 | [El Son de la Negra / Cielito Lindo / Volver Volver / Si Nos Dejan](https://open.spotify.com/track/3srgVBgOp0l96HMSzhkObm) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [El Son de la Negra / Cielito Lindo / Volver Volver / Si Nos Dejan](https://open.spotify.com/album/5CIPyfvFZ9kFPh6WFNWrcS) | 7:11 | 2025-02-12 |  |
 | [Ella \- Tu Recuerdo y Yo \- Canta, Canta, Canta \- En Vivo](https://open.spotify.com/track/1UppMIrayJYVKtFTxWYyF1) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Puras de Mi Abuelo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk) | 5:45 | 2025-02-12 |  |
 | [Flor Sin Retoño](https://open.spotify.com/track/2KDYFxmIMYR7qUO2IkG9jx) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Flor Sin Retoño](https://open.spotify.com/album/1IBxPCtaWBMojqn7XkIiSy) | 3:16 | 2025-02-12 |  |

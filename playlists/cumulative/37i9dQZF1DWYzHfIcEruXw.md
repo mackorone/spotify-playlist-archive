@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 10s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-122 songs - 8 hr 51 min
+123 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [今、話したい誰かがいる](https://open.spotify.com/track/0OrhBuni0lfd7Qcm8kaaYA) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [Memories 〜あの花＆ここさけ SONG COLLECTION〜](https://open.spotify.com/album/7c5eKgCk92J2dWE1ER5vP0) | 4:26 | 2021-12-21 |  |
 | [僕らは今のなかで](https://open.spotify.com/track/3CWqynPQ19CcRK1Tk67pUN) | [μ's](https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i) | [μ's Best Album Best Live! Collection Ⅱ](https://open.spotify.com/album/3F84bX5oG31d2aFd8CE5CQ) | 4:36 | 2021-12-21 |  |
 | [優しさの理由](https://open.spotify.com/track/0HXk4XpvZCCltHWeXZe1zb) | [ChouCho](https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y) | [優しさの理由](https://open.spotify.com/album/1aeT8dhSsfW3EFk1c44BWO) | 4:15 | 2021-12-21 |  |
+| [光のシグナル](https://open.spotify.com/track/68VO2aVwUrkRJo7m0XrK45) | [Kis\-My\-Ft2](https://open.spotify.com/artist/4kxoWjOpCVYKgPv9nea95k) | [光のシグナル](https://open.spotify.com/album/28mES2k7GFbwbhK2lVULON) | 4:24 | 2025-04-09 |  |
 | [前前前世 \- movie ver.](https://open.spotify.com/track/23eTkfMmq1LvqiDzeNHdVe) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 4:45 | 2021-12-21 |  |
 | [名前のない怪物](https://open.spotify.com/track/0Hyr4k3HDumDcHwhMa9VkD) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物](https://open.spotify.com/album/6rOMCLQBSquuaV6AqQXouX) | 5:17 | 2021-12-21 |  |
 | [名前のない怪物](https://open.spotify.com/track/7ebceNRVeFRFpd4qLENYpO) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物](https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG) | 5:17 | 2021-12-21 | 2024-04-19 |

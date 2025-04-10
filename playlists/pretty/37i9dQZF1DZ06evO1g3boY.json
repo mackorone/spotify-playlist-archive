@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 172504,
+  "num_followers": 172525,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/MVgAAAAAD7XofYtLlJo9s4zQ8dVaJ+",
+  "snapshot_id": "Z/RnAAAAAAAs/d+n5VKbAoIIqHb2SLMU",
   "tracks": [
     {
       "added_at": null,
@@ -966,15 +966,11 @@
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Drik Barbosa",
-          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
         }
       ],
-      "duration_ms": 305213,
-      "name": "9nha / Eu Gosto Dela - Ao Vivo",
-      "url": "https://open.spotify.com/track/5OR3l3lAJBgkQb0viiYjKJ"
+      "duration_ms": 371466,
+      "name": "Quem Tem Um Amigo (Tem Tudo) / A Amizade - Ao Vivo",
+      "url": "https://open.spotify.com/track/4H4eSq6Z17gKau4TEUTO5q"
     },
     {
       "added_at": null,
@@ -1054,11 +1050,15 @@
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
         }
       ],
-      "duration_ms": 371466,
-      "name": "Quem Tem Um Amigo (Tem Tudo) / A Amizade - Ao Vivo",
-      "url": "https://open.spotify.com/track/4H4eSq6Z17gKau4TEUTO5q"
+      "duration_ms": 305213,
+      "name": "9nha / Eu Gosto Dela - Ao Vivo",
+      "url": "https://open.spotify.com/track/5OR3l3lAJBgkQb0viiYjKJ"
     },
     {
       "added_at": null,

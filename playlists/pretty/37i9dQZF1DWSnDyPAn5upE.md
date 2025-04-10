@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 
 > Otherworldly voices in the realms of ambient\. Cover: Laura Misch
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,018 likes - 100 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,039 likes - 100 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 | 94 | [Epic Mirage](https://open.spotify.com/track/54M2YOXv7W5EDKTqbxRk4D) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Grand Views](https://open.spotify.com/album/4oO7UiaBkjDeXtzOVnkYW1) | 5:06 |
 | 95 | [Lungs](https://open.spotify.com/track/3EVlY02e5TY6AMeH3NaqYD) | [anthéne](https://open.spotify.com/artist/760Zt0PM5aus5kfBCf4FpR), [IKSRE](https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O) | [Seasons Shifting](https://open.spotify.com/album/7b1cqGqYbklLTaYu2Fw5oV) | 4:20 |
 | 96 | [After its own death: Side A](https://open.spotify.com/track/0JJmrRoNITYVgeJfk063n3) | [Nivhek](https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl) | [After its own death / Walking in a spiral towards the house](https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB) | 16:41 |
-| 97 | [Around Me](https://open.spotify.com/track/6SPE7i4gvYAERzSYiQJdPj) | [The Bug](https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw), [Dis Fig](https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC) | [In Blue](https://open.spotify.com/album/3Yuv4qdWt1yzO5GuDLOygK) | 1:29 |
-| 98 | [Hannah](https://open.spotify.com/track/4ONTj3UWN0JMGbDlWUaPNW) | [Jay Chakravorty](https://open.spotify.com/artist/6kb07wB68FKTJDfJDcb5lY) | [A Map With No Memory](https://open.spotify.com/album/6gYYmtdUSKj7TqCl8JEy0U) | 3:13 |
+| 97 | [Hannah](https://open.spotify.com/track/4ONTj3UWN0JMGbDlWUaPNW) | [Jay Chakravorty](https://open.spotify.com/artist/6kb07wB68FKTJDfJDcb5lY) | [A Map With No Memory](https://open.spotify.com/album/6gYYmtdUSKj7TqCl8JEy0U) | 3:13 |
+| 98 | [Around Me](https://open.spotify.com/track/6SPE7i4gvYAERzSYiQJdPj) | [The Bug](https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw), [Dis Fig](https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC) | [In Blue](https://open.spotify.com/album/3Yuv4qdWt1yzO5GuDLOygK) | 1:29 |
 | 99 | [Spell V: Like Honey in a Hidden Cave](https://open.spotify.com/track/5JiFKhr3UWiSHvHPci8kgZ) | [Jolanda Moletta](https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1) | [Spell V: Like Honey in a Hidden Cave](https://open.spotify.com/album/622E7ReGxO1WJc6lju3oLJ) | 2:51 |
 | 100 | [Stretch Your Eyes \- Ambient Acapella](https://open.spotify.com/track/6mLm1FpmlEDWWLjCmNeggQ) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Stretch Your Eyes \(Ambient Acapella\)](https://open.spotify.com/album/09WtH5RWOGs0YbzpamTJWp) | 6:07 |
 

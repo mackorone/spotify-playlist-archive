@@ -4672,7 +4672,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-04",
+      "date_removed": null,
       "duration_ms": 97906,
       "name": "Sick Ride",
       "url": "https://open.spotify.com/track/2ITXPxN3Q9uzEqZlCXS2IL"
@@ -4968,6 +4968,24 @@
       "duration_ms": 191544,
       "name": "Stupid for You",
       "url": "https://open.spotify.com/track/1N7Aep1OewK9diaN9WbuuR"
+    },
+    {
+      "album": {
+        "name": "Suffering",
+        "url": "https://open.spotify.com/album/5zS2AJv0XmOMpDFjdqXezt"
+      },
+      "artists": [
+        {
+          "name": "Melrose Avenue",
+          "url": "https://open.spotify.com/artist/21VOqis8anMJTRx6GqI13b"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241517,
+      "name": "Suffering",
+      "url": "https://open.spotify.com/track/4ip88W22vNrmZnRCZoP3XR"
     },
     {
       "album": {

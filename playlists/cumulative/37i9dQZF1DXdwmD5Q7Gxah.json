@@ -1213,6 +1213,24 @@
     },
     {
       "album": {
+        "name": "a million faces",
+        "url": "https://open.spotify.com/album/49jPojLRuWp71LnK3Y3ClE"
+      },
+      "artists": [
+        {
+          "name": "girlsweetvoiced",
+          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102068,
+      "name": "a million faces",
+      "url": "https://open.spotify.com/track/7F2nEClWeQ3x5ycA5qtKOI"
+    },
+    {
+      "album": {
         "name": "A New Kind Of Love (Demo)",
         "url": "https://open.spotify.com/album/484SKRaXGq7m9VV0rmSyeb"
       },
@@ -59464,6 +59482,24 @@
       "duration_ms": 208586,
       "name": "Woah Man",
       "url": "https://open.spotify.com/track/1cURTWQdBWRjUaJI6Fdbsg"
+    },
+    {
+      "album": {
+        "name": "Won't Give Up",
+        "url": "https://open.spotify.com/album/0ZlAgFug8p4lNkliTNX1OI"
+      },
+      "artists": [
+        {
+          "name": "Mamalarky",
+          "url": "https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171066,
+      "name": "Won't Give Up",
+      "url": "https://open.spotify.com/track/7dQ8Zd3AIAVqw2lxrelBlk"
     },
     {
       "album": {

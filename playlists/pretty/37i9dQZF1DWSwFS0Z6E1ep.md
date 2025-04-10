@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 
 > The biggest party hits of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,824 likes - 135 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,913 likes - 135 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,14 +110,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 100 | [Blue Suede Shoes](https://open.spotify.com/track/3Qylbx7tZcsP9RggQ6umUh) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/6tmyqBnmU3ifbcDw5rZHfc) | 2:14 |
 | 101 | [Give Me some Love \- Re\-Recorded Version](https://open.spotify.com/track/17trqhqpoIxXQc3Rkri0W7) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Rockabilly](https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B) | 2:01 |
 | 102 | [Yakety Yak](https://open.spotify.com/track/7demHL0GXA6YmTNqw3Btz8) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [Rhino Hi\-Five: The Coasters](https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw) | 1:53 |
-| 103 | [Bop With Me Baby](https://open.spotify.com/track/11RM5sMsQ5UZEtLIJa3m2w) | [Rosco Gordon](https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9) | [Sun Records Recording Artist \- Rosco Gordon](https://open.spotify.com/album/1yVVmzSJ8XucF6wYCO2jzH) | 2:36 |
-| 104 | [Just In Time \- Remastered 1998](https://open.spotify.com/track/1UzlJGnPQLCIDAHuKSjQQT) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Amore](https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR) | 2:14 |
-| 105 | [Rockin Daddy](https://open.spotify.com/track/7CyHhyn57wzUc9mCQBvMsh) | [Eddie Bond](https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE) | [Sun Records \- Turn It Up! Rock 'N' Roll](https://open.spotify.com/album/1bIGw9IlSWHA5NZIXrpsW5) | 1:59 |
-| 106 | [Ugly Woman](https://open.spotify.com/track/1ZA4CxSAAVKmbVt6Oj75IZ) | [Johnny O'Neal](https://open.spotify.com/artist/0GCJ4kJKmHuLJw6goEKAP2) | [Sun Records\- Boogie BBQ](https://open.spotify.com/album/3TT5zI6B1Cfvzp008AbkFT) | 2:37 |
-| 107 | [My Baby](https://open.spotify.com/track/0X8ggfrvgUqrzR4mnQU5YP) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Sun Records \- 60 Years, 60 Singles Box Set](https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O) | 2:21 |
-| 108 | [Rock Around The Town](https://open.spotify.com/track/7HwQfLZkIFcbqVYp41KpAh) | [Dean Beard](https://open.spotify.com/artist/4dzwpcq6tAVSgWZaGchyN5) | [Sun Records \- Rockabilly Archive](https://open.spotify.com/album/11T29v7GCXUnwgRziqoNZL) | 2:19 |
+| 103 | [The Hucklebuck](https://open.spotify.com/track/3Ma5W48ynycNlKFgWt3k3j) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [The Rhythm and The Blues\- Sun Records](https://open.spotify.com/album/1m0yihEeollqE6iTvH7caR) | 3:08 |
+| 104 | [Bop With Me Baby](https://open.spotify.com/track/11RM5sMsQ5UZEtLIJa3m2w) | [Rosco Gordon](https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9) | [Sun Records Recording Artist \- Rosco Gordon](https://open.spotify.com/album/1yVVmzSJ8XucF6wYCO2jzH) | 2:36 |
+| 105 | [Just In Time \- Remastered 1998](https://open.spotify.com/track/1UzlJGnPQLCIDAHuKSjQQT) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Amore](https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR) | 2:14 |
+| 106 | [Rockin Daddy](https://open.spotify.com/track/7CyHhyn57wzUc9mCQBvMsh) | [Eddie Bond](https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE) | [Sun Records \- Turn It Up! Rock 'N' Roll](https://open.spotify.com/album/1bIGw9IlSWHA5NZIXrpsW5) | 1:59 |
+| 107 | [Ugly Woman](https://open.spotify.com/track/1ZA4CxSAAVKmbVt6Oj75IZ) | [Johnny O'Neal](https://open.spotify.com/artist/0GCJ4kJKmHuLJw6goEKAP2) | [Sun Records\- Boogie BBQ](https://open.spotify.com/album/3TT5zI6B1Cfvzp008AbkFT) | 2:37 |
+| 108 | [My Baby](https://open.spotify.com/track/0X8ggfrvgUqrzR4mnQU5YP) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Sun Records \- 60 Years, 60 Singles Box Set](https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O) | 2:21 |
 | 109 | [Baby I Don't Care](https://open.spotify.com/track/3Q04VdrTsD4hB6Uez783JO) | [Eddie Bush](https://open.spotify.com/artist/0tuRmjt5kv75nedebw4kFo) | [Rockabilly](https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B) | 1:52 |
-| 110 | [The Hucklebuck](https://open.spotify.com/track/3Ma5W48ynycNlKFgWt3k3j) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [The Rhythm and The Blues\- Sun Records](https://open.spotify.com/album/1m0yihEeollqE6iTvH7caR) | 3:08 |
+| 110 | [Rock Around The Town](https://open.spotify.com/track/7HwQfLZkIFcbqVYp41KpAh) | [Dean Beard](https://open.spotify.com/artist/4dzwpcq6tAVSgWZaGchyN5) | [Sun Records \- Rockabilly Archive](https://open.spotify.com/album/11T29v7GCXUnwgRziqoNZL) | 2:19 |
 | 111 | [I Done Told You](https://open.spotify.com/track/5HpqVE9dPqR9D4XnCV5Wdm) | [Gene Simmons](https://open.spotify.com/artist/5hF9nqYkULfy3LZnoYaRPD) | [Sun Records Yearbook \- 1958 part 2](https://open.spotify.com/album/4o5IAd8PpTkQe825QG2Lhq) | 2:21 |
 | 112 | [Summertime Blues](https://open.spotify.com/track/1ZWIQXfAquWtLDK5aOUczS) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [12 Of His Biggest Hits](https://open.spotify.com/album/4URqXxoj7ZPdqxVxVwiHoe) | 1:59 |
 | 113 | [Why Do Fools Fall In Love](https://open.spotify.com/track/6XAcmxPbCfMzLBvjBd2G0H) | [Frankie Lymon & The Teenagers](https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt) | [Frankie Lymon & The Teenagers Greatest Hits](https://open.spotify.com/album/4XtIZdH7Q9CTW31BKo6KkC) | 2:20 |

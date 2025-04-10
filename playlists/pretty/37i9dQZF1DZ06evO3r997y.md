@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r997y.md) - [plain]
 
 > This is Akari Kito\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,266 likes - 42 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,266 likes - 41 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r997y.md) - [plain]
 | 33 | [Rock the Floor](https://open.spotify.com/track/7dAWXVaKV6rlzHjk5cru7g) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Give Me Five!](https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA) | 3:36 |
 | 34 | [Closer](https://open.spotify.com/track/7kwA5rCeqFbExV7AAq7tuM) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Desire Again](https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK) | 3:18 |
 | 35 | [Tiny Light Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/2EEE2AZhr7DvQ8GgFTH8Bi) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Tiny Light Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/album/1rocMcQTcgdGA8tJTRP7zl) | 4:55 |
-| 36 | [Swinging Heart Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/2RjE7zHY0etIifDYKVOGyL) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 3:26 |
-| 37 | [FLAMES](https://open.spotify.com/track/20sznSdCI0km5ZhZSLsKeI) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Give Me Five!](https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA) | 3:29 |
-| 38 | [Desire Again Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/3SV0SxIW8Hom0umB4s8N8X) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 3:58 |
-| 39 | [Unchained mind](https://open.spotify.com/track/3C9KTBsj3y4wdLnzCOk8ZS) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Give Me Five!](https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA) | 3:45 |
-| 40 | [キミのとなりで Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/1NmGeXILbZ0MWQPH3bJHr8) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 4:53 |
-| 41 | [Opening Live at Nagoyashikoukaidou 2020/10/3](https://open.spotify.com/track/0Qt7w8kDyLveYA9tdHQUWO) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Akari Kito 1st Live Tour "Colorful Closet" Stream Selection](https://open.spotify.com/album/2mUd07vO5fluRbzbey70kw) | 1:32 |
-| 42 | [23時の春雷少女 Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/6UlS8qU6OyXMHI7LkiwyhR) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 4:18 |
+| 36 | [キミのとなりで Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/1NmGeXILbZ0MWQPH3bJHr8) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 4:53 |
+| 37 | [Unchained mind](https://open.spotify.com/track/3C9KTBsj3y4wdLnzCOk8ZS) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Give Me Five!](https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA) | 3:45 |
+| 38 | [Swinging Heart Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/2RjE7zHY0etIifDYKVOGyL) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 3:26 |
+| 39 | [FLAMES](https://open.spotify.com/track/20sznSdCI0km5ZhZSLsKeI) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Give Me Five!](https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA) | 3:29 |
+| 40 | [Desire Again Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/3SV0SxIW8Hom0umB4s8N8X) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 3:58 |
+| 41 | [23時の春雷少女 Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/6UlS8qU6OyXMHI7LkiwyhR) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 4:18 |
 
-Snapshot ID: `Z/MVgAAAAACsuTQj9qxXKOx7lUfwlgln`
+Snapshot ID: `Z/RnAAAAAABp15tndQc3ab8Iml/v/mwz`

@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: TOMORROW X TOGETHER
 
-521 songs - 1 day 5 hr 17 min
+522 songs - 1 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Melody](https://open.spotify.com/track/495GBEvMX06OrwhCCZ7H0y) | [8LOOM](https://open.spotify.com/artist/0EmfXhT2Bhc53cyK3hrZM5) | [Melody](https://open.spotify.com/album/7C22dOSEgyvDKkVKxiSkGV) | 3:14 | 2024-01-19 | 2024-05-08 |
 | [MEME](https://open.spotify.com/track/0OqaPC4BqWWv3vY8BM1NaT) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [MEME](https://open.spotify.com/album/5sHhkERPTJ5KrM8oMSWCmk) | 2:21 | 2024-11-05 | 2025-01-09 |
 | [Memoria](https://open.spotify.com/track/5Ju33ZTll3Drgq3AM4H53P) | [BMSG MARINE](https://open.spotify.com/artist/22YAR42Q5EoaFW439kmIT8), [BMSG ALLSTARS](https://open.spotify.com/artist/39qDfqWfhU23Jbclt2ltYe), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [KANON](https://open.spotify.com/artist/3n3mqnIcMjFF2ldvE5QRBo) | [Memoria](https://open.spotify.com/album/1BIu6t9BEGZWrLrL2AdcRF) | 4:01 | 2024-09-24 | 2025-01-20 |
+| [Mess](https://open.spotify.com/track/0Sccj6S9qYCEdxHudsQjbB) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Mess](https://open.spotify.com/album/61A7SvHGdA1o1gORuj01vx) | 2:33 | 2025-04-08 |  |
 | [Midnight City](https://open.spotify.com/track/5JfeYlgSeR5Vk8Q4fwOJO8) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 3:54 | 2024-03-05 | 2024-10-02 |
 | [MINNA BLING BLING](https://open.spotify.com/track/6Xa5ifCXnEEENCYL7xUGxz) | [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [REIKO](https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P) | [MINNA BLING BLING](https://open.spotify.com/album/1Bb0nQ5Alx2cJaroN4l1Kw) | 2:30 | 2024-06-25 | 2024-07-10 |
 | [Miracle](https://open.spotify.com/track/1Oq3Rz9yl5uNXftGrHQYS5) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Miracle](https://open.spotify.com/album/7zbTQIpm8CySFIOJmNLAzL) | 2:57 | 2025-03-06 |  |

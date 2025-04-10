@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: RADIOCRIMEN y Envidia Kotxina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,714 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,737 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 72 | [VUELVES A EMPEZAR](https://open.spotify.com/track/1PdBu7fvXTftvE4M25ncv8) | [Memocracia](https://open.spotify.com/artist/6YNaadc735iV6WCs2ey5qH) | [VUELVES A EMPEZAR](https://open.spotify.com/album/5qHeKnStCN3EAHfziS9jrQ) | 3:12 |
 | 73 | [La Hoguera](https://open.spotify.com/track/10StxJmx2jfh3oZaHTNNDl) | [Tres Pollos](https://open.spotify.com/artist/1S5Lext1vYpgwvhrnJVncu) | [La Hoguera](https://open.spotify.com/album/2PfdSMhOjlNKGKu5oCdX86) | 3:19 |
 | 74 | [Vendimia Rock](https://open.spotify.com/track/7vDnHy8aZJLdHNnGRKB7e2) | [Fabes con Almejes](https://open.spotify.com/artist/6W1VrFDrRaMbCHkWiFHGfd) | [Anís&Roll](https://open.spotify.com/album/5CbRJZo4lhHYiC3NzA0u3K) | 3:20 |
-| 75 | [La jaula dorada](https://open.spotify.com/track/6TlrJK8MzODPvxjUeQSlzB) | [Los Saneadores](https://open.spotify.com/artist/162c4R164YBZ6blxEr6oFx) | [La jaula dorada](https://open.spotify.com/album/1pWe9WMNtvMTv1qbZElxO5) | 2:58 |
-| 76 | [Jodido Personaje](https://open.spotify.com/track/2iFc20fGuhs4U0AhHM6YQY) | [Puñal](https://open.spotify.com/artist/15TLpBJ5LgywJJIRpBu0DC) | [Buscando La Muerte](https://open.spotify.com/album/2nRgLVBW6209OneFrpcAmp) | 1:49 |
+| 75 | [Jodido Personaje](https://open.spotify.com/track/2iFc20fGuhs4U0AhHM6YQY) | [Puñal](https://open.spotify.com/artist/15TLpBJ5LgywJJIRpBu0DC) | [Buscando La Muerte](https://open.spotify.com/album/2nRgLVBW6209OneFrpcAmp) | 1:49 |
+| 76 | [La jaula dorada](https://open.spotify.com/track/6TlrJK8MzODPvxjUeQSlzB) | [Los Saneadores](https://open.spotify.com/artist/162c4R164YBZ6blxEr6oFx) | [La jaula dorada](https://open.spotify.com/album/1pWe9WMNtvMTv1qbZElxO5) | 2:58 |
 | 77 | [Todas las Cartas](https://open.spotify.com/track/3wlyWadE04nw4Q0FURpaFW) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX) | [Todas las Cartas](https://open.spotify.com/album/5GrXJt2LUqjSfYsqaWIqZm) | 1:50 |
 | 78 | [El Niño Polla](https://open.spotify.com/track/20pn8830V0szvHyPZBR1cq) | [Presidentas Vivas](https://open.spotify.com/artist/6KcLjoYGFqWMvTWMu3ncDm), [Vaiolens](https://open.spotify.com/artist/0bICiRAqzk4iq6U3TdTdoo) | [El Niño Polla](https://open.spotify.com/album/6j1xhy6BCfzqqh9uNZ2rNR) | 2:35 |
 | 79 | [BARNEKO DISDIRA](https://open.spotify.com/track/3VjSI6cui9LYK9jMpwemhs) | [Brigade Loco](https://open.spotify.com/artist/7vHtzjOcvBFheRysRt9BWd) | [BARNEKO DISDIRA](https://open.spotify.com/album/040DUjtixH23QpspLUQ7lS) | 3:20 |

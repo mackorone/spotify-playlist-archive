@@ -4,10 +4,11 @@
 
 > songs voor je playlist! \#fyp
 
-685 songs - 1 day 10 hr 52 min
+687 songs - 1 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [10/10](https://open.spotify.com/track/1Na008bZjzO3CR3JiHIZ3C) | [Romy Indy](https://open.spotify.com/artist/6JhADekMjsEbsfmBxjsmjQ) | [10/10](https://open.spotify.com/album/5VWPkqPUYktdoEVXIPhoRc) | 1:37 | 2025-04-09 |  |
 | [100 Gram Uit Nederland](https://open.spotify.com/track/5oVVU5t4eaIPH3Fsvfb0Dw) | [Opgekonkerd](https://open.spotify.com/artist/4wCyv0VP2QBapdMQvXrCFN), [Offensief](https://open.spotify.com/artist/5och3wqTbvZpmyYX8bPimR), [HET POMPSTATION](https://open.spotify.com/artist/6TQQsMsMKQBHjZrFv63d90), [Yung Petsi](https://open.spotify.com/artist/3fLUixLOM1KxH2PgdN3PMK) | [100 Gram Uit Nederland](https://open.spotify.com/album/7BUvK6HKtF5qaIHwR3cD8U) | 2:52 | 2024-06-24 | 2024-10-08 |
 | [1001 Arabian Nights](https://open.spotify.com/track/2TL9ng664CxAiRs37Hfa2Z) | [Chipz](https://open.spotify.com/artist/770rU18or2uAGT21xyvpzp) | [The World Of CH!PZ \(Deluxe version\)](https://open.spotify.com/album/3fuyXU6qRuSyC8yK3cMu83) | 3:06 | 2023-02-23 | 2023-03-04 |
 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 | 2023-03-07 | 2023-05-02 |
@@ -289,6 +290,7 @@
 | [If You’re Gonna Break My Heart](https://open.spotify.com/track/2UdLLIJygjz2yiOa3GVMV0) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 4:27 | 2023-03-03 | 2023-03-28 |
 | [Ik Kom Weer Thuis](https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Ik Kom Weer Thuis](https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk) | 3:03 | 2023-02-23 | 2023-03-02 |
 | [Ik Spaar Geen Centen](https://open.spotify.com/track/6h6hSyEABJubJdCn7Y8hEE) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Ik Spaar Geen Centen](https://open.spotify.com/album/1zKEr4hhGjFSaeXeO450RS) | 2:46 | 2024-09-19 | 2025-02-11 |
+| [Ik Swing Met Me Banana](https://open.spotify.com/track/03Wnm1HE0brjAkXFpmlAj4) | [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [HB The Plug](https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T) | [Ik Swing Met Me Banana](https://open.spotify.com/album/6AMxldBjFarAX5EC4p6hfc) | 2:58 | 2025-04-09 |  |
 | [In De Brand \(Tatu Tatu\)](https://open.spotify.com/track/1450zwvqtMB5fPk8Jhgcwq) | [Cheryl Öztürk](https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9) | [In De Brand \(Tatu Tatu\)](https://open.spotify.com/album/4se8SlxveYTBAAjjWRDrUK) | 2:36 | 2023-11-09 | 2023-12-30 |
 | [Indigo \(feat\. Avery Anna\)](https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 4:46 | 2024-12-12 | 2025-03-06 |
 | [Industry Plant](https://open.spotify.com/track/31EsbpCFl01yQtLncNdjSz) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Industry Plant](https://open.spotify.com/album/2pTk2jxZu1vnVybVRyBToh) | 2:20 | 2024-09-19 | 2024-11-12 |

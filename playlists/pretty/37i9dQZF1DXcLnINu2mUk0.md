@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Cíntia
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,941 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,945 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Menino da Mamã](https://open.spotify.com/track/12giMqnkKs2qruB6IVqshu) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Menino da Mamã](https://open.spotify.com/album/5lOZhbXTGbap6fbeqJhpDz) | 2:40 |
 | 2 | [Sei\-te de Cor](https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Sei\-te de Cor](https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg) | 3:39 |
 | 3 | [Weed e Wine](https://open.spotify.com/track/1AA6bIw2kpC1dEYAWdrwUp) | [Cíntia](https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU) | [Mood](https://open.spotify.com/album/3pkwUDP6ZWZyl6HSbFv9x4) | 2:48 |
-| 4 | [Não Dá Pa Parar](https://open.spotify.com/track/5xIjSTfo5vK70n17mD0BNG) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Não Dá Pa Parar](https://open.spotify.com/album/4Y3s0dztnVJB2l05OclX2H) | 3:13 |
+| 4 | [Não dá pa parar](https://open.spotify.com/track/5xIjSTfo5vK70n17mD0BNG) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Não dá pa parar](https://open.spotify.com/album/4Y3s0dztnVJB2l05OclX2H) | 3:13 |
 | 5 | [Tóxico \(with Ivandro & WIU\)](https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [FIM DO NADA](https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc) | 3:16 |
 | 6 | [Faz Bem](https://open.spotify.com/track/38adAyMqsOEwCdXETWCPPa) | [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Faz Bem](https://open.spotify.com/album/1TW06h2SedE0SrfFXK7QHo) | 3:03 |
 | 7 | [Even](https://open.spotify.com/track/1cTamrfYAUHnoiMf2gpq55) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po) | [IT WILL HURT BOTH WAYS](https://open.spotify.com/album/4GeL7dcG2LxnYTsypnE9MJ) | 3:07 |

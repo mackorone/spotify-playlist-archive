@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 225983,
       "name": "24K Magic",
       "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
@@ -132,7 +132,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -584,7 +584,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-07",
+      "date_removed": null,
       "duration_ms": 185265,
       "name": "Good Graces",
       "url": "https://open.spotify.com/track/102YUQbYmwdBXS7jwamI90"
@@ -946,7 +946,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-08",
+      "date_removed": null,
       "duration_ms": 231173,
       "name": "Payphone",
       "url": "https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A"
@@ -1079,6 +1079,24 @@
     },
     {
       "album": {
+        "name": "PRISM",
+        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223546,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/27tNWlhdAryQY04Gb2ZhUI"
+    },
+    {
+      "album": {
         "name": "Don't Kill the Magic",
         "url": "https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi"
       },
@@ -1108,7 +1126,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 215626,
       "name": "Save Your Tears",
       "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
@@ -1528,7 +1546,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
@@ -1564,7 +1582,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-31",
+      "date_removed": null,
       "duration_ms": 221360,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country music that rocks\. Cover: Ryan Hurd
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,267 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,345 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

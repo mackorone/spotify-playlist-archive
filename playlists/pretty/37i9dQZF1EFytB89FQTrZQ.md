@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,603 likes - 348 songs - 19 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,602 likes - 348 songs - 19 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -294,8 +294,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 284 | [Ocean](https://open.spotify.com/track/7LKsAuk6QUbh92y2bX6Nel) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Ocean](https://open.spotify.com/album/0g2AIhkbIqZez1FE5xSUGh) | 3:00 |
 | 285 | [Side](https://open.spotify.com/track/3FCPnsGbuiMkulse3bIwac) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK), [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [The Update](https://open.spotify.com/album/6JYgOftBgWHRATb0Euhuu0) | 3:29 |
 | 286 | [THE SECOND I'M RICH](https://open.spotify.com/track/1PXp44geCGN7CAYx2Wvgv9) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK) | [22 MINUTES LATER](https://open.spotify.com/album/6XKzZUj9aeS1YygwyVVrG7) | 3:31 |
-| 287 | [Obsessive](https://open.spotify.com/track/2yAMjZcxepb11bPIuEJIBq) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Suburb Superhero: The Villain Within](https://open.spotify.com/album/4rRbuLIqkwT2gAMfhKuXNq) | 3:04 |
-| 288 | [What Is Real Anymore?](https://open.spotify.com/track/7HrsicD1Hcqkw4oQppMvql) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Life In Plastic](https://open.spotify.com/album/6u5RnuC327BY3arCzImhm0) | 3:11 |
+| 287 | [What Is Real Anymore?](https://open.spotify.com/track/7HrsicD1Hcqkw4oQppMvql) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Life In Plastic](https://open.spotify.com/album/6u5RnuC327BY3arCzImhm0) | 3:11 |
+| 288 | [Obsessive](https://open.spotify.com/track/2yAMjZcxepb11bPIuEJIBq) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Suburb Superhero: The Villain Within](https://open.spotify.com/album/4rRbuLIqkwT2gAMfhKuXNq) | 3:04 |
 | 289 | [Right Now](https://open.spotify.com/track/6i4wnFDgjZeMIl0jahXSd7) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Greatest Hits Reimagined](https://open.spotify.com/album/5231Cbzf4YB9VFOE8YxjD5) | 3:10 |
 | 290 | [18](https://open.spotify.com/track/2QbbUFIQwpTutcyGaMwcPt) | [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [18](https://open.spotify.com/album/7yKSrXrzR1AyTYJv74zAsk) | 3:28 |
 | 291 | [High](https://open.spotify.com/track/65rSUZKkb2OnQOJhTmq9Qs) | [Kate Stewart](https://open.spotify.com/artist/494OPqLjjEhjKil1G6MWho), [Jevon](https://open.spotify.com/artist/1cwNKCIuq12wLqAAsC1Zyi) | [High](https://open.spotify.com/album/2fUlrZ4s1trBJmugEvpz1u) | 3:45 |
@@ -357,4 +357,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 347 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 | 348 | [See You When I Look At You](https://open.spotify.com/track/3qjXYDCuRWVmCulEsCAM3L) | [King Lowkey Tha Bread Winner](https://open.spotify.com/artist/1xHrLzZi7eNjqQUcSIpiUp) | [Real Recognize Real But I Peep The Fake Too](https://open.spotify.com/album/2wj9RYyXjMuHLvlTHMmPb6) | 2:47 |
 
-Snapshot ID: `AbuQngAAAACtQgu1aHMPShyqh5fmR9VG`
+Snapshot ID: `AbuWPgAAAAD7AcAtD94J0ERN1OMhnQzz`

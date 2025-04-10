@@ -190,7 +190,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-08",
+      "date_removed": null,
       "duration_ms": 81666,
       "name": "From Me to You",
       "url": "https://open.spotify.com/track/34OP5ugxs1t3RaiJlyqJRb"
@@ -208,7 +208,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 385333,
       "name": "GO Beyond!!",
       "url": "https://open.spotify.com/track/0BVYDK8ei7zSuRvy24rbLj"
@@ -741,6 +741,28 @@
     },
     {
       "album": {
+        "name": "POP STEP",
+        "url": "https://open.spotify.com/album/4VKpIGkrUd3NXxedfLNCPR"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        },
+        {
+          "name": "\u30dd\u30c3\u30d7\u2606\u30b9\u30c6\u30c3\u30d7",
+          "url": "https://open.spotify.com/artist/4acDr2jLgAGAFtRDeTr4cq"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102013,
+      "name": "POP STEP",
+      "url": "https://open.spotify.com/track/7qzTaRnWhaqD9nbFQcMhfw"
+    },
+    {
+      "album": {
         "name": "My Hero Academia: Season 7 (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/4byfDUJb8WNsQuCnz2elG1"
       },
@@ -965,6 +987,24 @@
     },
     {
       "album": {
+        "name": "BGM FROM TV SERIES \"MEDALIST\"",
+        "url": "https://open.spotify.com/album/2i8EU2h3ys89ZE09cihi9q"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123680,
+      "name": "TENDERNESS",
+      "url": "https://open.spotify.com/track/77UWObBTpXLmott7WRNtLW"
+    },
+    {
+      "album": {
         "name": "My Hero Academia: Season 7 (Original Pre-Release Soundtrack)",
         "url": "https://open.spotify.com/album/5RWOdk6MQhq7EQYRdbt3cy"
       },
@@ -1084,7 +1124,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 78680,
       "name": "Trinity",
       "url": "https://open.spotify.com/track/0DllV6dwG26PTq513ZzUqY"
@@ -2456,7 +2496,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 125240,
       "name": "\u7206\u6bba\u738b!!",
       "url": "https://open.spotify.com/track/3zTlEfMGB9sQyyqDQMdlHn"

@@ -1,6 +1,6 @@
 {
   "description": "The perfect backdrop to an evening spent relaxing in solitude.",
-  "num_followers": 2168993,
+  "num_followers": 2169197,
   "original_name": "Late Night Jazz",
   "owner": {
     "name": "Spotify",
@@ -3943,6 +3943,22 @@
     {
       "added_at": "2025-04-03 12:58:24",
       "album": {
+        "name": "Gnostic",
+        "url": "https://open.spotify.com/album/0pTBuVSX0MBAGvVwnpTyis"
+      },
+      "artists": [
+        {
+          "name": "Heine Hansen",
+          "url": "https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL"
+        }
+      ],
+      "duration_ms": 216614,
+      "name": "Gnostic",
+      "url": "https://open.spotify.com/track/2Drvk5fiaxHptNFQeP6Kru"
+    },
+    {
+      "added_at": "2025-04-03 12:58:24",
+      "album": {
         "name": "Links",
         "url": "https://open.spotify.com/album/44rq9Oqk7prhdYXyGALbvn"
       },
@@ -3967,46 +3983,22 @@
     {
       "added_at": "2025-04-03 12:58:24",
       "album": {
-        "name": "Wall",
-        "url": "https://open.spotify.com/album/6zIThZOKiiFFhMTfhPNoQ9"
+        "name": "On and On",
+        "url": "https://open.spotify.com/album/0clgQ9lkv6pCitc1bzWstz"
       },
       "artists": [
         {
-          "name": "Richard Andersson",
-          "url": "https://open.spotify.com/artist/7gUUsqJ2B9OBcmlcisjscK"
+          "name": "S\u00f8ren Bebe Trio",
+          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
         },
         {
-          "name": "\u00d3skar Gu\u00f0j\u00f3nsson",
-          "url": "https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N"
-        },
-        {
-          "name": "Hilmar Jensson",
-          "url": "https://open.spotify.com/artist/37X7xED7KUb9gHjqbh8PJy"
-        },
-        {
-          "name": "Matthias Hemstock",
-          "url": "https://open.spotify.com/artist/6NiwLnm8sGjwVbbHFPHqGU"
+          "name": "S\u00f8ren Bebe",
+          "url": "https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh"
         }
       ],
-      "duration_ms": 299090,
-      "name": "Wall",
-      "url": "https://open.spotify.com/track/0g4Cc7PPAJmCwpdwv1bw6a"
-    },
-    {
-      "added_at": "2025-04-03 12:58:24",
-      "album": {
-        "name": "Gnostic",
-        "url": "https://open.spotify.com/album/0pTBuVSX0MBAGvVwnpTyis"
-      },
-      "artists": [
-        {
-          "name": "Heine Hansen",
-          "url": "https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL"
-        }
-      ],
-      "duration_ms": 216614,
-      "name": "Gnostic",
-      "url": "https://open.spotify.com/track/2Drvk5fiaxHptNFQeP6Kru"
+      "duration_ms": 231506,
+      "name": "On and On",
+      "url": "https://open.spotify.com/track/6kWTNMxiPjj7Ph7wEEk2gS"
     }
   ],
   "unique_name": "Late Night Jazz",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 
 > Feel good with this positively timeless playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,656,392 likes - 150 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,656,471 likes - 150 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,15 +148,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 | 138 | [My Girl](https://open.spotify.com/track/6jWkZvd1URGktyTTwcpPpB) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/7C4vMPQR8KcbZv4e2ZI0lc) | 2:45 |
 | 139 | [Feeling Good](https://open.spotify.com/track/61S0mEfdRtJ62Fc7fPqx0U) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/13jolTb1DQl8IVPczYtQJ3) | 2:54 |
 | 140 | [Lover Boy](https://open.spotify.com/track/4wlEw6x7ynK4dfKk47HNtt) | [Jason Joshua](https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn) | [Lover Boy](https://open.spotify.com/album/3VL9z3tG7Wr5g8iORdtF0M) | 2:55 |
-| 141 | [You Can't Hurry Love](https://open.spotify.com/track/69Qa7czzqraPWZgxpQN405) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Favorites](https://open.spotify.com/album/5u4oZQY6eYzH7ZpydPoUN3) | 2:45 |
-| 142 | [Let's Stay Together](https://open.spotify.com/track/7kWhdmRYv8CqbWNqfojqVd) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi) | 3:19 |
+| 141 | [Let's Stay Together](https://open.spotify.com/track/7kWhdmRYv8CqbWNqfojqVd) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi) | 3:19 |
+| 142 | [You Can't Hurry Love](https://open.spotify.com/track/69Qa7czzqraPWZgxpQN405) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Favorites](https://open.spotify.com/album/5u4oZQY6eYzH7ZpydPoUN3) | 2:45 |
 | 143 | [Sweet Soul Music](https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Rhino Hi\-Five: Arthur Conley](https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT) | 2:21 |
 | 144 | [Get Up Offa That Thing](https://open.spotify.com/track/0nyrltZrQGAJMBZc1bYvuQ) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [20 All\-Time Greatest Hits!](https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s) | 4:10 |
 | 145 | [Sir Duke](https://open.spotify.com/track/4RQgqR09VmHn345vRhKQ6T) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e) | 3:54 |
 | 146 | [The World \(Is Going Up In Flames\)](https://open.spotify.com/track/4u2KDCwcj8WGcFXDhy1aKL) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time For Dreaming](https://open.spotify.com/album/1voX114Nwj9pSaXJ3xtXgb) | 3:22 |
 | 147 | [Don’t You Know](https://open.spotify.com/track/242UAWExQDujCkiQtLQvcu) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [American Love Call](https://open.spotify.com/album/4ZCrk8P8S1iSsEXZjimtPY) | 3:20 |
-| 148 | [I Heard It Through The Grapevine](https://open.spotify.com/track/27m1soUndRthrAA1ediOXn) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [I Heard It Through The Grapevine / In The Groove \(Stereo\)](https://open.spotify.com/album/1jcnZvZWvAGzNyQ7GNVy8X) | 3:15 |
-| 149 | [Smooth Sailin'](https://open.spotify.com/track/3JbqwFY5q0ORO3siv5zL3A) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home](https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg) | 3:03 |
+| 148 | [Smooth Sailin'](https://open.spotify.com/track/3JbqwFY5q0ORO3siv5zL3A) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home](https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg) | 3:03 |
+| 149 | [I Heard It Through The Grapevine](https://open.spotify.com/track/27m1soUndRthrAA1ediOXn) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [I Heard It Through The Grapevine / In The Groove \(Stereo\)](https://open.spotify.com/album/1jcnZvZWvAGzNyQ7GNVy8X) | 3:15 |
 | 150 | [Papa's Got A Brand New Bag](https://open.spotify.com/track/6v4gV9s0pnwKbmF1yk5knO) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [20 All\-Time Greatest Hits!](https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s) | 2:05 |
 
 Snapshot ID: `Z+LLrQAAAABVnHkEWGWF0ccsdftxMvYu`

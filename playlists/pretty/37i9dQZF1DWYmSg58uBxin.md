@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmSg58uBxin.md) - [plain]
 
 > Soothing piano and strings to help you concentrate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,994 likes - 148 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,008 likes - 148 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,33 +13,33 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmSg58uBxin.md) - [plain]
 | 3 | [Beyond The Glimmering Light](https://open.spotify.com/track/0Nz9A8EyeTvRo4WWFOLXeJ) | [Anton Byers](https://open.spotify.com/artist/3EXHOUECuF5L9svlzdsnBu) | [Beyond The Glimmering Light](https://open.spotify.com/album/40yxXM3SxRR0qUqzjwQBhN) | 2:39 |
 | 4 | [Invitation](https://open.spotify.com/track/0gTjyLSaG5FFIpDhw6IA2C) | [Samuel Kees](https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn) | [Invitation](https://open.spotify.com/album/3dnVyXLUFDwBcUwC3s82yx) | 2:54 |
 | 5 | [estiu](https://open.spotify.com/track/1vzwRWE2Vj7JZwqBqi9ivM) | [Valentine Summers](https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs) | [estiu](https://open.spotify.com/album/2PRpPe7NkIjknf6tudsPfL) | 2:47 |
-| 6 | [A place of peace](https://open.spotify.com/track/1BhXzIRZGi3qdKoFUFfFfs) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [A place of peace](https://open.spotify.com/album/6cgDCpcdalyujS9oZjK7f4) | 2:40 |
-| 7 | [Veil of Mist](https://open.spotify.com/track/52HAHYA9Gzq944jrHYBhXV) | [Jonam Breuer](https://open.spotify.com/artist/70wQIh59h8RCbhUE61arYu) | [Veil of Mist](https://open.spotify.com/album/5t4Bm9ZKcyxhgtvtNu6abP) | 2:10 |
-| 8 | [Lost Frequencies](https://open.spotify.com/track/6WQq1wgrWu5htUbN7CQMtA) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Lost Frequencies](https://open.spotify.com/album/5FT00KBV9j15QPS63jEtHe) | 2:19 |
-| 9 | [Journey](https://open.spotify.com/track/1quhoqxC3qTryCIJUnDcRA) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Journey](https://open.spotify.com/album/1VnMbZezkNaowQQHJ7HP3u) | 2:23 |
+| 6 | [Veil of Mist](https://open.spotify.com/track/52HAHYA9Gzq944jrHYBhXV) | [Jonam Breuer](https://open.spotify.com/artist/70wQIh59h8RCbhUE61arYu) | [Veil of Mist](https://open.spotify.com/album/5t4Bm9ZKcyxhgtvtNu6abP) | 2:10 |
+| 7 | [Lost Frequencies](https://open.spotify.com/track/6WQq1wgrWu5htUbN7CQMtA) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Lost Frequencies](https://open.spotify.com/album/5FT00KBV9j15QPS63jEtHe) | 2:19 |
+| 8 | [Journey](https://open.spotify.com/track/1quhoqxC3qTryCIJUnDcRA) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Journey](https://open.spotify.com/album/1VnMbZezkNaowQQHJ7HP3u) | 2:23 |
+| 9 | [A place of peace](https://open.spotify.com/track/1BhXzIRZGi3qdKoFUFfFfs) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [A place of peace](https://open.spotify.com/album/6cgDCpcdalyujS9oZjK7f4) | 2:40 |
 | 10 | [Solglimt](https://open.spotify.com/track/75fWxZM4OMTJxDHAKdGeaV) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Solglimt](https://open.spotify.com/album/0XhYgsUeKCHBESpTk4uFGd) | 2:33 |
-| 11 | [Summer Breeze](https://open.spotify.com/track/0fyCX5oyzf2Vx3tCgyWcQD) | [Marnie Jacobs](https://open.spotify.com/artist/5OAvt6Ho00p19P7pL6oTAQ) | [Summer Breeze](https://open.spotify.com/album/1p28qRVa6fZdnp6Y7CUHJd) | 2:18 |
-| 12 | [Naked](https://open.spotify.com/track/45d2JrwB423sR5mC9eI7BM) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Naked](https://open.spotify.com/album/3NQO6Taj5fCknYeSs3aNJc) | 2:55 |
-| 13 | [Last Summer](https://open.spotify.com/track/6zWlb8ign5eEFLES2wnrZZ) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Last Summer](https://open.spotify.com/album/2Ut8GPa6BSH6cDTUnc890v) | 2:20 |
-| 14 | [Evenly Balanced](https://open.spotify.com/track/4m3u1eHjGKnA3GPgjBd7Cb) | [Algot Aelster](https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP) | [Evenly Balanced](https://open.spotify.com/album/6jMkqhISeUr6pPAZFjjKAM) | 2:04 |
-| 15 | [Beyond the Moon](https://open.spotify.com/track/1JREewfvHs3rhxGrjRsOpk) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Beyond the Moon](https://open.spotify.com/album/6WUXMFDNS0eOw8I8uBygaM) | 2:19 |
-| 16 | [Root Flower](https://open.spotify.com/track/2zzO7vk8Z8SuguCHydFnkg) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Root Flower](https://open.spotify.com/album/488shae3ei66l5yQvTP0Fz) | 2:10 |
+| 11 | [Naked](https://open.spotify.com/track/45d2JrwB423sR5mC9eI7BM) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Naked](https://open.spotify.com/album/3NQO6Taj5fCknYeSs3aNJc) | 2:55 |
+| 12 | [Last Summer](https://open.spotify.com/track/6zWlb8ign5eEFLES2wnrZZ) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Last Summer](https://open.spotify.com/album/2Ut8GPa6BSH6cDTUnc890v) | 2:20 |
+| 13 | [Beyond the Moon](https://open.spotify.com/track/1JREewfvHs3rhxGrjRsOpk) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Beyond the Moon](https://open.spotify.com/album/6WUXMFDNS0eOw8I8uBygaM) | 2:19 |
+| 14 | [In Case](https://open.spotify.com/track/3VBHL1iyA6xSym5kRBvng1) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [In Case](https://open.spotify.com/album/2SyTi9C27bjnovD0Ba8WB5) | 2:46 |
+| 15 | [Evenly Balanced](https://open.spotify.com/track/4m3u1eHjGKnA3GPgjBd7Cb) | [Algot Aelster](https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP) | [Evenly Balanced](https://open.spotify.com/album/6jMkqhISeUr6pPAZFjjKAM) | 2:04 |
+| 16 | [Monza](https://open.spotify.com/track/3gIH8SK0HmuP4HNSncw2Vw) | [Lorcan Ó Faoláin](https://open.spotify.com/artist/0Gi9Zi1kMh4fJVXEhl4J2t) | [Monza](https://open.spotify.com/album/6TgUE8ZVMeh610Tka4URfk) | 2:13 |
 | 17 | [Willow](https://open.spotify.com/track/32wkxIedt5jMtJnwTP9p1l) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Willow](https://open.spotify.com/album/5GYYbZtBySsiqBAspjHVPK) | 2:28 |
-| 18 | [Monza](https://open.spotify.com/track/3gIH8SK0HmuP4HNSncw2Vw) | [Lorcan Ó Faoláin](https://open.spotify.com/artist/0Gi9Zi1kMh4fJVXEhl4J2t) | [Monza](https://open.spotify.com/album/6TgUE8ZVMeh610Tka4URfk) | 2:13 |
-| 19 | [In Case](https://open.spotify.com/track/3VBHL1iyA6xSym5kRBvng1) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [In Case](https://open.spotify.com/album/2SyTi9C27bjnovD0Ba8WB5) | 2:46 |
-| 20 | [Les Feuilles](https://open.spotify.com/track/7GamvubJKZr56GDh3NvV64) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Les Feuilles](https://open.spotify.com/album/6W1xpVfcNAVKOczSEVmsbN) | 2:18 |
-| 21 | [Blue Hour](https://open.spotify.com/track/48P8vOmx5edtkwLqeTvqJn) | [Felix Brightwood](https://open.spotify.com/artist/2HITDeV1KHvOpkWy95Rv9t) | [Blue Hour](https://open.spotify.com/album/0x3Xq6Lhchktl3cksHTRfm) | 2:24 |
-| 22 | [One Step](https://open.spotify.com/track/2VMyo3DKnrhEnnen8pktF1) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [One Step](https://open.spotify.com/album/5PZZA1adyzS18yM6mI9GV1) | 2:36 |
-| 23 | [Now And Before](https://open.spotify.com/track/4tMEY0J6K9yqD87Soyghrk) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [Now And Before](https://open.spotify.com/album/36YDYhgvnRFligfHWZbbIk) | 2:01 |
-| 24 | [Homebound](https://open.spotify.com/track/7IcMrQoAG375c6vOPYvo8Z) | [Nora Vale](https://open.spotify.com/artist/0fPeAHb11dnVfKVXoUBYZE) | [Homebound](https://open.spotify.com/album/096aOFTAhHfunfw0Y3DjPz) | 2:06 |
-| 25 | [To Be Loved](https://open.spotify.com/track/2FpiWWQDFnTXWF1Ltt7hgE) | [Ana Miaton](https://open.spotify.com/artist/4SXuJITXxFLY1nfNBeRt9Y) | [To Be Loved](https://open.spotify.com/album/6PaDNwaeFCp7ZI2opeGX8Q) | 2:11 |
-| 26 | [Sunny](https://open.spotify.com/track/4RZ1hx5zELZWryF84Hxyye) | [Daiku T](https://open.spotify.com/artist/24p9LXzvz3njcv7UOI9xU5) | [Sunny](https://open.spotify.com/album/46fZUZRfAlSTXQHc47u80I) | 2:00 |
-| 27 | [Vespera](https://open.spotify.com/track/3kRMgnaBoU2JeLVN3TeGIJ) | [Freya Bagger](https://open.spotify.com/artist/5eXjvPNzzT9oZcbK0zuSj7) | [Vespera](https://open.spotify.com/album/1pej4Wxd7Wo5FmWmiyeeFS) | 2:25 |
-| 28 | [Falling Into You](https://open.spotify.com/track/07az0EJ4iIVajGjdAZlPIg) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Falling Into You](https://open.spotify.com/album/4gPCAoHao4O8zYd25H0ERh) | 3:13 |
+| 18 | [Root Flower](https://open.spotify.com/track/2zzO7vk8Z8SuguCHydFnkg) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Root Flower](https://open.spotify.com/album/488shae3ei66l5yQvTP0Fz) | 2:10 |
+| 19 | [One Step](https://open.spotify.com/track/2VMyo3DKnrhEnnen8pktF1) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [One Step](https://open.spotify.com/album/5PZZA1adyzS18yM6mI9GV1) | 2:36 |
+| 20 | [Homebound](https://open.spotify.com/track/7IcMrQoAG375c6vOPYvo8Z) | [Nora Vale](https://open.spotify.com/artist/0fPeAHb11dnVfKVXoUBYZE) | [Homebound](https://open.spotify.com/album/096aOFTAhHfunfw0Y3DjPz) | 2:06 |
+| 21 | [Les Feuilles](https://open.spotify.com/track/7GamvubJKZr56GDh3NvV64) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Les Feuilles](https://open.spotify.com/album/6W1xpVfcNAVKOczSEVmsbN) | 2:18 |
+| 22 | [Blue Hour](https://open.spotify.com/track/48P8vOmx5edtkwLqeTvqJn) | [Felix Brightwood](https://open.spotify.com/artist/2HITDeV1KHvOpkWy95Rv9t) | [Blue Hour](https://open.spotify.com/album/0x3Xq6Lhchktl3cksHTRfm) | 2:24 |
+| 23 | [Sunny](https://open.spotify.com/track/4RZ1hx5zELZWryF84Hxyye) | [Daiku T](https://open.spotify.com/artist/24p9LXzvz3njcv7UOI9xU5) | [Sunny](https://open.spotify.com/album/46fZUZRfAlSTXQHc47u80I) | 2:00 |
+| 24 | [Believe](https://open.spotify.com/track/3F58fYdt8S9jHUUPnziTpC) | [Pederosa Calafiori](https://open.spotify.com/artist/7rSGVYwxF7D59f76uaLaFq) | [Believe](https://open.spotify.com/album/5Q2CIcPYsX3hI0EpVMFXGb) | 2:36 |
+| 25 | [Vespera](https://open.spotify.com/track/3kRMgnaBoU2JeLVN3TeGIJ) | [Freya Bagger](https://open.spotify.com/artist/5eXjvPNzzT9oZcbK0zuSj7) | [Vespera](https://open.spotify.com/album/1pej4Wxd7Wo5FmWmiyeeFS) | 2:25 |
+| 26 | [Falling Into You](https://open.spotify.com/track/07az0EJ4iIVajGjdAZlPIg) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Falling Into You](https://open.spotify.com/album/4gPCAoHao4O8zYd25H0ERh) | 3:13 |
+| 27 | [Gentle Echoes](https://open.spotify.com/track/5jDgTThGe4uXCTYAA3r8VR) | [Quinn Joshua](https://open.spotify.com/artist/4LtA8H0WUekxMEMJV3Fdvd) | [Gentle Echoes](https://open.spotify.com/album/4C8mLv9Eb6sKKNHObI867q) | 2:04 |
+| 28 | [Now And Before](https://open.spotify.com/track/4tMEY0J6K9yqD87Soyghrk) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [Now And Before](https://open.spotify.com/album/36YDYhgvnRFligfHWZbbIk) | 2:01 |
 | 29 | [Silver Moon](https://open.spotify.com/track/6ctSMybCtQT5a4BkdcpfHU) | [Fryken](https://open.spotify.com/artist/5z0Fx2yg2bbV0WpHiWi4pf) | [Silver Moon](https://open.spotify.com/album/2prGAm4grMizINuJ6OR4MB) | 3:03 |
-| 30 | [A Long Walk](https://open.spotify.com/track/7gq194TSyfCgtQYx7HyQn8) | [Julius Sedlák](https://open.spotify.com/artist/2xBu9yRSo2C1G2Kb1ZlpGH) | [A Long Walk](https://open.spotify.com/album/3zDlfKruCqBcUvE433jhqG) | 2:17 |
-| 31 | [Clive Road](https://open.spotify.com/track/57ZmoxcaETpnR4OrZ1SxRC) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Clive Road](https://open.spotify.com/album/2kPK2Pr9R6v6WO2Yy8VgBw) | 2:34 |
-| 32 | [Gentle Echoes](https://open.spotify.com/track/5jDgTThGe4uXCTYAA3r8VR) | [Quinn Joshua](https://open.spotify.com/artist/4LtA8H0WUekxMEMJV3Fdvd) | [Gentle Echoes](https://open.spotify.com/album/4C8mLv9Eb6sKKNHObI867q) | 2:04 |
+| 30 | [Clive Road](https://open.spotify.com/track/57ZmoxcaETpnR4OrZ1SxRC) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Clive Road](https://open.spotify.com/album/2kPK2Pr9R6v6WO2Yy8VgBw) | 2:34 |
+| 31 | [A Long Walk](https://open.spotify.com/track/7gq194TSyfCgtQYx7HyQn8) | [Julius Sedlák](https://open.spotify.com/artist/2xBu9yRSo2C1G2Kb1ZlpGH) | [A Long Walk](https://open.spotify.com/album/3zDlfKruCqBcUvE433jhqG) | 2:17 |
+| 32 | [To Be Loved](https://open.spotify.com/track/2FpiWWQDFnTXWF1Ltt7hgE) | [Ana Miaton](https://open.spotify.com/artist/4SXuJITXxFLY1nfNBeRt9Y) | [To Be Loved](https://open.spotify.com/album/6PaDNwaeFCp7ZI2opeGX8Q) | 2:11 |
 | 33 | [Solo Stroll](https://open.spotify.com/track/5Gug122LEQi3zHI0fomUgi) | [Holgar Ingeldson](https://open.spotify.com/artist/1yJ4WtOgFB4k9NYCNvWCvL) | [Solo Stroll](https://open.spotify.com/album/1C4CBb9HOLqMyQUmWVMlhq) | 2:16 |
 | 34 | [Somewhere](https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Somewhere](https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7) | 3:05 |
 | 35 | [The book of love](https://open.spotify.com/track/666JYU0w4jgwyB9xOsjR37) | [Chloe Welch](https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD) | [The book of love](https://open.spotify.com/album/0GDaWajfUkhgS7rwQNonsJ) | 2:30 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmSg58uBxin.md) - [plain]
 | 147 | [Mirer](https://open.spotify.com/track/4XrCdS8orGnh2045XBGp9d) | [Karen Elf](https://open.spotify.com/artist/5RWEVr9QGQJrCXyVxMJD48) | [Mirer](https://open.spotify.com/album/0yRh0Ch35hLryT0VI6lNy9) | 4:00 |
 | 148 | [Delicately](https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi), [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT), [Anna De Bruin](https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4) | [Delicately](https://open.spotify.com/album/7yh6bUD0zf7uDGeufUHh85) | 2:03 |
 
-Snapshot ID: `Z+z/NwAAAABNXtB8p/faGxiihsStPkaa`
+Snapshot ID: `Z/Y7xgAAAAByEhB2yCxfLAvsEh/o0n/Y`

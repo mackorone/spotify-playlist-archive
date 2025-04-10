@@ -1049,6 +1049,24 @@
     },
     {
       "album": {
+        "name": "Cagoul\u00e9",
+        "url": "https://open.spotify.com/album/4JZVthFrUJYniHlpe8rODk"
+      },
+      "artists": [
+        {
+          "name": "Valerieblud",
+          "url": "https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158241,
+      "name": "Cagoul\u00e9",
+      "url": "https://open.spotify.com/track/0IziqBIxOD80J4qV6WweHq"
+    },
+    {
+      "album": {
         "name": "Calimero",
         "url": "https://open.spotify.com/album/1lhGymNRIst8WkZBMT2FSv"
       },
@@ -3524,7 +3542,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 118433,
       "name": "Lmfadal",
       "url": "https://open.spotify.com/track/0j7GyVN7CkYpOYnm0CziBK"

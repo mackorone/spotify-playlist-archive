@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 686 likes - 76 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 687 likes - 76 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 14 | [Alguien De Aquí](https://open.spotify.com/track/1REGjqcXyf81VkBX94hIL9) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 3:03 |
 | 15 | [Con Toda La Actitud](https://open.spotify.com/track/6J6UUsCUZTDEnfsRjlx204) | [Simón León](https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0), [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [Con Toda La Actitud](https://open.spotify.com/album/03GA53bmUWFhRW7j0V0wuO) | 2:31 |
 | 16 | [Gente Corriente](https://open.spotify.com/track/4IwuZ9TArWPahGjIdTqyJw) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Gente Corriente](https://open.spotify.com/album/6pzjO8qClKr8iQ5eDqNZ84) | 2:13 |
-| 17 | [Tutorial Para Olvidar](https://open.spotify.com/track/4n9gwibMSsdO1naaAixsO2) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [CHSM El Hígado X2](https://open.spotify.com/album/4Xdc6jbEyG74XnamElVAmR) | 3:17 |
+| 17 | [Tutorial Para Olvidar](https://open.spotify.com/track/22wJmjbgkpm0lBR34wuZHT) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [CHSM El Hígado X2](https://open.spotify.com/album/7umeSZK0SKk8VD2qKC5u4z) | 3:17 |
 | 18 | [Modo Incógnito](https://open.spotify.com/track/7h1KxwCRPI9WC3hJyLuF8g) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Sin Miedo Al Éxito \(Deluxe\)](https://open.spotify.com/album/06RNnPXzGC23bqQiCDTotI) | 3:06 |
 | 19 | [Así \- En Vivo](https://open.spotify.com/track/42VytKp0lKpe2r8Yc9AQ4A) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Así \(En Vivo\)](https://open.spotify.com/album/0PZeRC7Xtc9n29XEzKbsFx) | 2:26 |
-| 20 | [24/7 Dolido](https://open.spotify.com/track/6SOEnAfMK7T4rzW3dsHrLk) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 2:55 |
-| 21 | [No Se Dice](https://open.spotify.com/track/5fzeebAg9ZJUwCbhkIIgiZ) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [El Rey del Despecho](https://open.spotify.com/album/7CEWrRab3cJhCPJ7MGQOKt) | 3:22 |
+| 20 | [No Se Dice](https://open.spotify.com/track/5fzeebAg9ZJUwCbhkIIgiZ) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [El Rey del Despecho](https://open.spotify.com/album/7CEWrRab3cJhCPJ7MGQOKt) | 3:22 |
+| 21 | [24/7 Dolido](https://open.spotify.com/track/6SOEnAfMK7T4rzW3dsHrLk) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 2:55 |
 | 22 | [Aquí Ya Nadie Te Extraña](https://open.spotify.com/track/47lwcc0mcmD2Ro1u0ctGaR) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:27 |
 | 23 | [Falsa Alarma \(En Vivo\)](https://open.spotify.com/track/4h3KqkulbPimFtUa1qDqPb) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Puras Pa' Pistear \(En Vivo\)](https://open.spotify.com/album/2gbnONIYF40gLi1zmYiols) | 3:40 |
 | 24 | [Primero Tu](https://open.spotify.com/track/1Ia0J3DtOitPrvYVnjT4Ob) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [XVII ANIVERSARIO](https://open.spotify.com/album/4cnDNI7pytSivupozFsMi7) | 3:06 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 75 | [EL PROFESOR](https://open.spotify.com/track/0hWudpmS1MdReXWrNKZXGb) | [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [EL PROFESOR](https://open.spotify.com/album/7D4tzXeK5a2ITIXmSUdPL8) | 3:14 |
 | 76 | [Modo Incognito](https://open.spotify.com/track/3Wbb2nniFlZ7Ve7F3G8jsk) | [Conjunto Luz Oficial](https://open.spotify.com/artist/7qddpEEqfSmLgGxpPjwXEs) | [Modo Incognito](https://open.spotify.com/album/0nyOIjBG8V9jZMdTCLtV0j) | 4:02 |
 
-Snapshot ID: `AbuQngAAAABPJcNkw40kyoq9DmS5nJn9`
+Snapshot ID: `AbuWPgAAAABVrGxfxawZgilVC6Mx5WLF`

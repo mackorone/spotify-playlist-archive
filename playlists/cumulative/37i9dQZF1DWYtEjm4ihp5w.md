@@ -4,7 +4,7 @@
 
 > a7san ma kayn f rap maghribi\. Cover: Baby Gang, ElGrandeToto
 
-375 songs - 19 hr 53 min
+376 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Cabo Marsilia](https://open.spotify.com/track/5oYNFgjcI54w0S0xWvyw6z) | [Msaweb Hakka](https://open.spotify.com/artist/3RTgG5hrcDpBeakIHCwqhf) | [Leêjb V](https://open.spotify.com/album/7wqLrgT0JgH0KXgbpEzTSz) | 2:38 | 2024-09-18 |  |
 | [Cactus 2](https://open.spotify.com/track/6AHf10DIiUmD5cG6ksph48) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Cactus 2](https://open.spotify.com/album/5eNDvQ4ivZr8AmeTow7aL3) | 2:49 | 2024-08-15 | 2024-09-02 |
 | [CADABRA](https://open.spotify.com/track/5Tar0bByzTkBdCtAx1qDHv) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [ABRACADABRA](https://open.spotify.com/album/5gjYTipqa2zQnwG0LUkFUx) | 2:42 | 2024-09-13 | 2024-12-13 |
+| [Cagoulé](https://open.spotify.com/track/0IziqBIxOD80J4qV6WweHq) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Cagoulé](https://open.spotify.com/album/4JZVthFrUJYniHlpe8rODk) | 2:38 | 2025-04-09 |  |
 | [Calimero](https://open.spotify.com/track/4W4KSpJ4ZLCP6IiqBjfLOu) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Calimero](https://open.spotify.com/album/1lhGymNRIst8WkZBMT2FSv) | 4:22 | 2024-10-02 | 2024-10-25 |
 | [Calimero](https://open.spotify.com/track/6Zi9TslYIV1k2bJkXVJPFX) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Calimero](https://open.spotify.com/album/2L6SnmxBrxSd58adc4ZFX3) | 4:22 | 2024-07-12 | 2024-10-03 |
 | [CALLE](https://open.spotify.com/track/5UpwX7ibkJrMJjBzK3Odya) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [CALLE](https://open.spotify.com/album/5NlqSqAiywEFNcRioOAhqU) | 4:15 | 2023-08-05 | 2023-08-24 |
@@ -188,7 +189,7 @@
 | [LILA](https://open.spotify.com/track/5CkDVJBrBjYduZiPtPmgRW) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [LILA](https://open.spotify.com/album/06CGM6DLyWKlbP1YYidQtx) | 2:44 | 2023-05-20 | 2024-07-14 |
 | [Liyem](https://open.spotify.com/track/38dFwM306LaXqnc4hGHpaB) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [Liyem](https://open.spotify.com/album/4EqCG4W6zG8nhT1bMN6qAS) | 3:00 | 2022-11-14 | 2023-01-06 |
 | [Lmanetta Khassra](https://open.spotify.com/track/0yfGPJsmXJRojgzN4Nu0PZ) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Lmanetta Khassra](https://open.spotify.com/album/0q8bOqBqaQxf8Q6sAHY53N) | 3:34 | 2024-11-29 |  |
-| [Lmfadal](https://open.spotify.com/track/0j7GyVN7CkYpOYnm0CziBK) | [DEIMI](https://open.spotify.com/artist/6pYeZiuDyJbfbVRHFA8BIb) | [Lmfadal](https://open.spotify.com/album/1BlWLOZU60My1p8i2cqwbx) | 1:58 | 2025-04-01 |  |
+| [Lmfadal](https://open.spotify.com/track/0j7GyVN7CkYpOYnm0CziBK) | [DEIMI](https://open.spotify.com/artist/6pYeZiuDyJbfbVRHFA8BIb) | [Lmfadal](https://open.spotify.com/album/1BlWLOZU60My1p8i2cqwbx) | 1:58 | 2025-04-01 | 2025-04-10 |
 | [Lmossiba \(المصيبة\)](https://open.spotify.com/track/0epZr5EAVHCi1VLSb227ky) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Lmossiba \(المصيبة\)](https://open.spotify.com/album/0KIu6uf8aHHY4yebS9Zj0t) | 3:48 | 2023-09-30 | 2023-12-10 |
 | [LOIN DE TOI](https://open.spotify.com/track/6RB0KyQNl3UUa7BOEtr8rT) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [Prince](https://open.spotify.com/album/5bNqIa68kQPYYR4sATUnnn) | 2:45 | 2024-12-12 | 2025-02-08 |
 | [Lost Chapter \- A COLORS SHOW](https://open.spotify.com/track/2vbZJ54b6rtogxbGDb11q6) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Lost Chapter \- A COLORS SHOW](https://open.spotify.com/album/2yySEOcOZ3rzcwMGyoZSN1) | 2:46 | 2023-08-10 | 2023-12-08 |

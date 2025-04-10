@@ -4,7 +4,7 @@
 
 > Hear all of Drake's biggest and best hits in one playlist\. Thank us later.
 
-186 songs - 12 hr 1 min
+188 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Chicago Freestyle \(feat\. Giveon\)](https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 3:40 | 2020-08-14 |  |
 | [Circadian Rhythm](https://open.spotify.com/track/1eroCliWpJrEu1V7VSObcO) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [100 GIGS](https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII) | 2:06 | 2024-08-31 |  |
 | [Circo Loco](https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:56 | 2022-11-11 |  |
+| [Come and See Me \(feat\. Drake\)](https://open.spotify.com/track/6cEguiQecbXrFlsnMi2ysr) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 3:55 | 2025-04-09 |  |
 | [Controlla](https://open.spotify.com/track/3O8NlPh2LByMU9lSRSHedm) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:05 | 2020-07-17 |  |
 | [Crew Love](https://open.spotify.com/track/0V4l4GQhgnWQGtCWpvA7va) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 3:28 | 2020-07-17 |  |
 | [Currents](https://open.spotify.com/track/1eCFz60zd7mAXgWLapPd9B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 2:37 | 2022-06-17 |  |
@@ -138,6 +139,7 @@
 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 | 2024-04-19 |  |
 | [Pussy & Millions \(feat\. Travis Scott\)](https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:02 | 2022-11-11 |  |
 | [Race My Mind](https://open.spotify.com/track/2Q3jFbyE61mCjS3SkW4toJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:29 | 2021-09-03 |  |
+| [Recognize \(feat\. Drake\)](https://open.spotify.com/track/1DMYEiuAgz1OKvANXiNFrN) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 5:11 | 2025-04-09 |  |
 | [Red Button](https://open.spotify.com/track/0giAhiU1PIrYKHRpKNp4XT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/20llijrPaOy2qVivkSXuRB) | 2:40 | 2023-11-17 |  |
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-11-11 |  |
 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 | 2023-08-02 |  |

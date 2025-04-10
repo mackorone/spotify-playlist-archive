@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Rahul Dit\-O
 
-490 songs - 1 day 3 hr 19 min
+491 songs - 1 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Howdappa Howdu \- The Secret of Life](https://open.spotify.com/track/06IGehC54CWNiupQEi8v9z) | [Prasanna Kumar M S](https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ) | [Howdappa Howdu \- The Secret of Life](https://open.spotify.com/album/13qgAYlWQ9NyRhlmP4gr86) | 4:51 | 2023-12-08 | 2024-06-29 |
 | [Howdappa Howdu \- The Secret of Life](https://open.spotify.com/track/1NpuyaasFQawZTuXItBVbo) | [Prasanna Kumar M S](https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ) | [Howdappa Howdu \- The Secret of Life](https://open.spotify.com/album/0OkFHiIQPeydk7D4TiiqpP) | 4:51 | 2023-12-08 | 2024-04-19 |
 | [Hrudhaya](https://open.spotify.com/track/0BsTSbYtsd9heOm28EOb8G) | [Chetan Pavate](https://open.spotify.com/artist/602dWq27oMD6JKtFFrwEQp), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw), [Amogh Malakannavar](https://open.spotify.com/artist/2ph9qktlhQK9jdfITK80V8) | [Hrudhaya](https://open.spotify.com/album/17ipKkqA6aMzls60vOtOx0) | 3:13 | 2023-02-15 | 2023-09-01 |
-| [Hrudhayave](https://open.spotify.com/track/6ZffSuCnZXaT94V5oYV4QZ) | [Kalmesh Ujjinakoppa](https://open.spotify.com/artist/52t9xfEBkcVGvth61NXR1N), [Darshan Sutar](https://open.spotify.com/artist/6dDNyn95OJvM5F8QwVq6bU) | [Hrudhayave](https://open.spotify.com/album/43JgbZfphTgFl6MOVrKKSM) | 5:17 | 2025-01-13 |  |
+| [Hrudhayave](https://open.spotify.com/track/6ZffSuCnZXaT94V5oYV4QZ) | [Kalmesh Ujjinakoppa](https://open.spotify.com/artist/52t9xfEBkcVGvth61NXR1N), [Darshan Sutar](https://open.spotify.com/artist/6dDNyn95OJvM5F8QwVq6bU) | [Hrudhayave](https://open.spotify.com/album/43JgbZfphTgFl6MOVrKKSM) | 5:17 | 2025-01-13 | 2025-04-10 |
 | [HUBBALLI SONG](https://open.spotify.com/track/4epAvvYgRA0zRI90ud8jFD) | [Ismail Attar](https://open.spotify.com/artist/6CZOkX5vC1aqmnwoYOaW31), [Pushpa Aradhya](https://open.spotify.com/artist/2hmTOugi5cKw9On1y6QZ3i) | [HUBBALLI SONG](https://open.spotify.com/album/5QzcCrWpYxTmnw5UxlmF5R) | 3:52 | 2023-06-06 | 2023-08-24 |
 | [Hubballiyava](https://open.spotify.com/track/6l5RMiYDEF9Y03o8v71ycu) | [Chirayu](https://open.spotify.com/artist/6ATwCoaGJH1ah0xWbhpaBZ), [Harshith Shetty](https://open.spotify.com/artist/11JDJZpkeGxs4H5psWgRfN), [dixit](https://open.spotify.com/artist/3wlPT5A93NA3xtwjmKIeRy), [Shama Pranamya](https://open.spotify.com/artist/1U7EVZnaG4yPUSj2y8fbNt), [Jack Michael](https://open.spotify.com/artist/7eRsFT88i7QL8HAW10raWF) | [Hubballiyava](https://open.spotify.com/album/3gIa9Xe8YgtK3FzgXGfzn6) | 3:21 | 2025-03-18 |  |
 | [Hudugi Nann Girl Friend](https://open.spotify.com/track/2uUfWLGw9HD2MEMKkt9g2u) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Emil Mohammed](https://open.spotify.com/artist/7F4yMSf7dsRVAPnkkoR8Wx) | [Hudugi Nann Girl Friend](https://open.spotify.com/album/2gm4dB5prlm7Rr5dsdDHZz) | 3:54 | 2024-10-29 | 2025-02-27 |
@@ -371,6 +371,7 @@
 | [Ninnolavina Aasare](https://open.spotify.com/track/5D1X2g1faG74urU0MI5HFg) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ) | [Aasare](https://open.spotify.com/album/1G5Pnfrg6iQfxe28J74nN7) | 1:36 | 2023-05-25 | 2023-06-08 |
 | [Ninnolavina Aasare](https://open.spotify.com/track/3x3Esiey1grIJ0edTcpxAh) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ) | [Ninnolavina Aasare](https://open.spotify.com/album/4ADpZeIj6CBNRZ3jVYLVkd) | 1:36 | 2023-05-25 | 2023-06-01 |
 | [No Filter](https://open.spotify.com/track/6CnlSin1nGk5D1V4OzTq4m) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [No Filter](https://open.spotify.com/album/4cD3N1DB3lvV7YIJabNq60) | 3:20 | 2022-12-09 | 2024-02-02 |
+| [NUMB](https://open.spotify.com/track/3DaHvW5MRZiVisfICBbblu) | [VishwxsMUZiK](https://open.spotify.com/artist/5klwYQTdqW2U8RTVvykN5Y), [YNG DADDY](https://open.spotify.com/artist/4oPBODU08L7Gva8y6eiN20) | [NUMB](https://open.spotify.com/album/6TXFBkH8hdPSrAp25sHynT) | 3:51 | 2025-04-09 |  |
 | [O Priya](https://open.spotify.com/track/0zM0oVvm8YBCdirTyPMAx2) | [Pushpa Aradhya](https://open.spotify.com/artist/2hmTOugi5cKw9On1y6QZ3i), [Ismail Attar](https://open.spotify.com/artist/6CZOkX5vC1aqmnwoYOaW31) | [O Priya](https://open.spotify.com/album/1nZighCTs9RhIBA5gGlxsK) | 5:08 | 2023-06-08 | 2023-09-01 |
 | [OAT Tintira](https://open.spotify.com/track/1PlkA1vBE0B0p0AQ2V0v4T) | [Dhaivat](https://open.spotify.com/artist/5g10TzJGCNyh2pcaeaQolx) | [OAT Tintira](https://open.spotify.com/album/4VL3t80nEymzsAUz14vWs3) | 3:27 | 2024-11-19 | 2025-03-04 |
 | [Obbane](https://open.spotify.com/track/4PgSjxPTZTopXOoUV5B6Hf) | [beatboyrb](https://open.spotify.com/artist/1ea9A9TK73zGQG0zEg7wpT) | [Obbane](https://open.spotify.com/album/6aO488rTrHix487YZHxF4W) | 4:07 | 2023-05-16 | 2024-01-30 |

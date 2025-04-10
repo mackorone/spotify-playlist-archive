@@ -4,7 +4,7 @@
 
 > Lo más pegado, lo que más suena, con ustedes...Nicki Nicole, Emilia & TINI
 
-737 songs - 1 day 13 hr 33 min
+738 songs - 1 day 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [EL DÍA DEL AMIGO](https://open.spotify.com/track/74eICpWmMuVmBtaOr3YqPN) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:50 | 2025-03-07 | 2025-04-05 |
 | [El Jefe](https://open.spotify.com/track/5wjsJIUf6pdrwauPDae43o) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Jefe](https://open.spotify.com/album/12v3LOTr03ykEMdyekvM1X) | 2:50 | 2023-09-29 | 2023-10-28 |
 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 | 2023-05-12 | 2023-10-14 |
+| [El Mono Relojero](https://open.spotify.com/track/5iDMweitSvV612I1UDPHZn) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp), [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Mono Relojero](https://open.spotify.com/album/63ojLoOQjXGp08py677RLb) | 3:21 | 2025-04-09 |  |
 | [El Motorcito \- Remix](https://open.spotify.com/track/2vEY9OdhUx7oFOjcbmIrwt) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036) | [El Motorcito \(Remix\)](https://open.spotify.com/album/4lgaeGyz7wyvarPqNKp4Kk) | 3:02 | 2023-05-12 | 2024-01-20 |
 | [EL NEGRO TECLA \| Omar Algo Anda Mal \#9](https://open.spotify.com/track/08809bzGs69SfjOFdeyssu) | [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [EL NEGRO TECLA \| Omar Algo Anda Mal \#9](https://open.spotify.com/album/5yRir5FLWf70z0eRCokOQY) | 2:28 | 2023-12-22 | 2024-08-17 |
 | [El Plan](https://open.spotify.com/track/7kwWynCThNe0IhUTxjRxtW) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [El Plan](https://open.spotify.com/album/5eqFHmdJbYwxVQ9xDMF7Ql) | 3:37 | 2023-05-12 | 2023-07-05 |
@@ -276,7 +277,7 @@
 | [GAFITA Y CHOMBA](https://open.spotify.com/track/1905loqmX0pSFPMbA9rc1f) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [GAFITA Y CHOMBA](https://open.spotify.com/album/5ZmC8qxDVf6r8EfhZVptTB) | 3:12 | 2024-03-22 | 2024-05-25 |
 | [Gaga](https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Gaga](https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME) | 3:08 | 2024-07-12 | 2024-08-31 |
 | [GAME](https://open.spotify.com/track/6X2AdQDq0rFkmzfvEciK8s) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [GAME](https://open.spotify.com/album/3OCtaJjAH038JPGl2kBjzI) | 2:51 | 2023-11-10 | 2023-11-25 |
-| [Garden Of Eden](https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:59 | 2025-03-07 |  |
+| [Garden Of Eden](https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:59 | 2025-03-07 | 2025-04-10 |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-02-09 | 2024-07-06 |
 | [GATITAS SANDUNGUERAS VOL.1](https://open.spotify.com/track/6BpZpCM8d8FJnVnr1IbnFL) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SAYONARA](https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI) | 2:11 | 2024-06-14 | 2024-07-19 |
 | [Gato de Noche](https://open.spotify.com/track/54ELExv56KCAB4UP9cOCzC) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Gato de Noche](https://open.spotify.com/album/2GS2h80Dp8rFdGEa0j0JhH) | 3:47 | 2023-05-12 | 2023-07-05 |

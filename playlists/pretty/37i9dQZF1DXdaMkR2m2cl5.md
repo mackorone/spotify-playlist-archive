@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 
 > Soft, smoky undertones of singer\-songwriter sounds give way to lingering notes of rich, earthy chamber folk\. Cover: Glen Hansard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,061 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,066 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,22 +76,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 66 | [Brave Young Man](https://open.spotify.com/track/3cu4RyvPHcRLROGqxuvx75) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Together Alone](https://open.spotify.com/album/17doIeg3S4GqQfqot4oxQf) | 2:51 |
 | 67 | [A Drive Through the Countryside](https://open.spotify.com/track/366PD9y46HEbFLkOyraxMM) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [A Drive Through the Countryside](https://open.spotify.com/album/6TUwtJ1lbA3Ovapr5cHbS4) | 2:14 |
 | 68 | [Family Tapes](https://open.spotify.com/track/0wl2rHiiQRHAW41UHYOI1u) | [Dead Horses](https://open.spotify.com/artist/4dcU7cmzO3GECQGSKwl92z) | [Family Tapes](https://open.spotify.com/album/30skCuUg5LtMV2xodFxvnp) | 4:23 |
-| 69 | [Heart To Ride](https://open.spotify.com/track/0XLfZsD45c6zoI7uoFzStJ) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Out of My Province](https://open.spotify.com/album/4PzDHK25iFZHEx6yRieVXk) | 4:09 |
-| 70 | [Take The Journey](https://open.spotify.com/track/597hPebsGeX5PkcHcFiort) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Take The Journey](https://open.spotify.com/album/46negsjk9mq5mXpjWW7Me5) | 2:42 |
+| 69 | [Take The Journey](https://open.spotify.com/track/597hPebsGeX5PkcHcFiort) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Take The Journey](https://open.spotify.com/album/46negsjk9mq5mXpjWW7Me5) | 2:42 |
+| 70 | [Heart To Ride](https://open.spotify.com/track/0XLfZsD45c6zoI7uoFzStJ) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Out of My Province](https://open.spotify.com/album/4PzDHK25iFZHEx6yRieVXk) | 4:09 |
 | 71 | [White Bird](https://open.spotify.com/track/7n0oyohwoDeRqD5ktNGBQr) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [White Bird](https://open.spotify.com/album/4zHrB2f7c1S9CuEJnz8woA) | 3:24 |
 | 72 | [Paradise Bay](https://open.spotify.com/track/089pj5YyhzANXVGt42iFZG) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Look Up & Fly Away](https://open.spotify.com/album/2ADmKspwLRXnHsLGX4ChdF) | 2:29 |
 | 73 | [Cover Me](https://open.spotify.com/track/4LNsvVkpWhiJf382uD5cuQ) | [Kim Taylor](https://open.spotify.com/artist/3yF0qqHNkEaE4xc4r1b5bP) | [Songs of Instruction](https://open.spotify.com/album/2a6YqHKrHMJ8TmdsnexFzf) | 4:43 |
 | 74 | [Two Hearts](https://open.spotify.com/track/0uh5L0aTFSVxi7Dw29eN6L) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [For The Loved & Loveless](https://open.spotify.com/album/77cwbGS06HijohXkm0oDM2) | 3:53 |
 | 75 | [Enjoy the Silence \- Live from the Front Porch](https://open.spotify.com/track/5sjbWOn7ZhqhF7Z0CCXPwh) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Enjoy the Silence \(Live from the Front Porch\)](https://open.spotify.com/album/5neuo4usIz6sjvtV8anBsN) | 3:21 |
 | 76 | [Sparklers](https://open.spotify.com/track/4nKWycT7IEMCJqCfAy7mTc) | [Tiny Ruins](https://open.spotify.com/artist/4G4W57CTe85hPEGZ6hJ0Du) | [Olympic Girls](https://open.spotify.com/album/2fXjFuPIS8mmNjzrm20t4k) | 3:46 |
-| 77 | [Desert Wine](https://open.spotify.com/track/03wN5wNXNlyLdWh02ufGvZ) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Desert Wine](https://open.spotify.com/album/2mone0g6ZIiO9OH3WSvUU6) | 3:08 |
-| 78 | [Candle](https://open.spotify.com/track/6FZVM2aVccCZS9Jd3Cd9SJ) | [All Our Exes Live in Texas](https://open.spotify.com/artist/5Ul7YrRYtvl8da6i7Ziakt) | [When We Fall](https://open.spotify.com/album/5mhoyzo8SnB09QVeJtiwlm) | 3:14 |
+| 77 | [Candle](https://open.spotify.com/track/6FZVM2aVccCZS9Jd3Cd9SJ) | [All Our Exes Live in Texas](https://open.spotify.com/artist/5Ul7YrRYtvl8da6i7Ziakt) | [When We Fall](https://open.spotify.com/album/5mhoyzo8SnB09QVeJtiwlm) | 3:14 |
+| 78 | [Desert Wine](https://open.spotify.com/track/03wN5wNXNlyLdWh02ufGvZ) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Desert Wine](https://open.spotify.com/album/2mone0g6ZIiO9OH3WSvUU6) | 3:08 |
 | 79 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 |
 | 80 | [Million Miles](https://open.spotify.com/track/3g9NYzvCKYtBUOCPrn1bHG) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Million Miles](https://open.spotify.com/album/3zHgggm4WYyFje6OYrszEB) | 3:49 |
 | 81 | [Lifandi Vatnið \(The Day After Session\)](https://open.spotify.com/track/6XmzbSrY7WoUQB99u5Bi6E) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Lifandi Vatnið \(The Day After Session\)](https://open.spotify.com/album/0uuf4GYy7bTBpJEaH5vVDq) | 4:44 |
 | 82 | [Steel Pony Blues](https://open.spotify.com/track/5xBsmg6Y5OUIdRMawv6ogS) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Black Cowboys](https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw) | 4:34 |
-| 83 | [God Knows Why](https://open.spotify.com/track/5Wkp4d0wzwIjymQdvN3dP2) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [God Knows Why](https://open.spotify.com/album/2zrSZmfHNTgufupIQvfeTt) | 3:01 |
-| 84 | [Roses](https://open.spotify.com/track/0fNyvb7q10dKobpb3PruR6) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Roses](https://open.spotify.com/album/5mwGuX0mEvujy15okrpkYd) | 4:42 |
+| 83 | [Roses](https://open.spotify.com/track/0fNyvb7q10dKobpb3PruR6) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Roses](https://open.spotify.com/album/5mwGuX0mEvujy15okrpkYd) | 4:42 |
+| 84 | [God Knows Why](https://open.spotify.com/track/5Wkp4d0wzwIjymQdvN3dP2) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [God Knows Why](https://open.spotify.com/album/2zrSZmfHNTgufupIQvfeTt) | 3:01 |
 | 85 | [Break My Heart](https://open.spotify.com/track/5FyIdEQlJrdX312hc7GqJk) | [The Little Stevies](https://open.spotify.com/artist/6ejgq8OX6QDGCprjf0HsVw) | [Stopped Wishing I Was Somewhere Else](https://open.spotify.com/album/6xwJQ2rJiaKrsaWtK29yzH) | 3:40 |
 | 86 | [Silver Lining](https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:18 |
 | 87 | [Conversation](https://open.spotify.com/track/6F4wx2Y4ynjbaOF3wspy97) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Conversation](https://open.spotify.com/album/1SoHLS2A8xPeRgnpKxxp7F) | 3:49 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 96 | [Find a Way \(Acoustic\)](https://open.spotify.com/track/7H0yB7Tm1GmLdjpDDLSISE) | [Quiet Arrows](https://open.spotify.com/artist/7KRnRH8bRvoX4ebQwHw2EI) | [Find a Way \(Acoustic\) / Filling Up Our Lungs \(Acoustic\)](https://open.spotify.com/album/2ffjsINnl0jzADOrgivpXL) | 3:38 |
 | 97 | [Summer's End](https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [The Tree of Forgiveness](https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg) | 3:29 |
 | 98 | [when i look at you.](https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [when i look at you.](https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC) | 3:52 |
-| 99 | [Officer of Love](https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT) | 3:59 |
+| 99 | [Curls](https://open.spotify.com/track/3NLm801woJocONz1NmPJZR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Curls](https://open.spotify.com/album/1cAlKAmWKhORglznBK7sup) | 3:17 |
 | 100 | [The Woods \- Acoustic](https://open.spotify.com/track/6uaIMhUZXMuT2Zz0vxrFiR) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [The Woods \(Acoustic\)](https://open.spotify.com/album/1YkP0hYlF5E4il2VPTFFGZ) | 3:59 |
 
 Snapshot ID: `ZQPWwAAAAACZkq4b1fml/+N54QzwWkL0`

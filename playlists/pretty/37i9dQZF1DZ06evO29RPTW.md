@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 
 > This is Rob Zombie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,349 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,365 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 | 34 | [The Ballad of Sleazy Rider](https://open.spotify.com/track/2wY5AD0JnaANlabZbx2CFF) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 3:03 |
 | 35 | [The Great American Nightmare](https://open.spotify.com/track/1FuSOxJNvBoJbYjHWNbbJB) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [Howard Stern](https://open.spotify.com/artist/7zlb9GG5MVmFkAVptGaGpE) | [Past, Present & Future](https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz) | 3:54 |
 | 36 | [Sick Bubblegum](https://open.spotify.com/track/3Y1TE5Robqc8DX353CYkHn) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe 2 \(Standard Explicit\)](https://open.spotify.com/album/2A0kUx4CPy9IwsKoVA3Ora) | 3:44 |
-| 37 | [Teenage Nosferatu Pussy](https://open.spotify.com/track/1WHVjInrsVm6kt9D3Dtgw8) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 4:33 |
-| 38 | [Burn MF \(feat Rob Zombie\)](https://open.spotify.com/track/0Pzeu20wyR194P9A9Ihmol) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Burn MF \(feat\. Rob Zombie\)](https://open.spotify.com/album/1ZVbge0YzDj1T3769sm7Ey) | 3:37 |
+| 37 | [Burn MF \(feat Rob Zombie\)](https://open.spotify.com/track/0Pzeu20wyR194P9A9Ihmol) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Burn MF \(feat\. Rob Zombie\)](https://open.spotify.com/album/1ZVbge0YzDj1T3769sm7Ey) | 3:37 |
+| 38 | [Teenage Nosferatu Pussy](https://open.spotify.com/track/1WHVjInrsVm6kt9D3Dtgw8) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 4:33 |
 | 39 | [The Scorpion Sleeps](https://open.spotify.com/track/5sfr7L2gWXXYulwD8KmfkQ) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Educated Horses](https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY) | 3:38 |
 | 40 | [The Hideous Exhibitions Of A Dedicated Gore Whore](https://open.spotify.com/track/372ouFqFzQKr9ZdV2HUpk2) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser](https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K) | 2:46 |
 | 41 | [Reload](https://open.spotify.com/track/2Ntobm6ecJ9wm3kcNql3qa) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [Charlie Clouser](https://open.spotify.com/artist/1ZVa9Tz7T3lR30I6r7mhhf) | [The Matrix Reloaded: The Album](https://open.spotify.com/album/4iLPd0Abb4S96sB2QEz2bl) | 4:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 | 49 | [Medication For The Melancholy](https://open.spotify.com/track/0868aqEdMFPsiD5jR14BlE) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser](https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K) | 2:26 |
 | 50 | [Everybody Scream \- From "House Of 1000 Corpses" Soundtrack](https://open.spotify.com/track/60J3svXDePAmdfbXOOUaSJ) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [House Of 1000 Corpses](https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF) | 2:36 |
 
-Snapshot ID: `Z/MVgAAAAAA2qkqlKr6ESkPkRiBhW+W3`
+Snapshot ID: `Z/RnAAAAAADC6ZTahDOka5TRiknT/bI1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 
 > It's just us.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,141,677 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,141,683 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,15 +94,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 84 | [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 |
 | 85 | [I Love You So](https://open.spotify.com/track/1175r6ZmkUjX8dRJLz9Ohk) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Songs for Dads](https://open.spotify.com/album/3MFTbUnA8C9T6KCBb0gpH5) | 2:40 |
 | 86 | [Flashed Junk Mind](https://open.spotify.com/track/5mpLcXEsk3jjzLFGuNKk5I) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb) | 4:22 |
-| 87 | [Just Say When \(Version 2.0\)](https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Just Say When \(Version 2.0\)](https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC) | 3:44 |
-| 88 | [Seasons \(Waiting On You\)](https://open.spotify.com/track/41X9To0bQ4fpoSRri4NHiI) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Singles](https://open.spotify.com/album/1dKh4z5Aayt8FFDWjO5FDh) | 3:46 |
-| 89 | [Don't Move](https://open.spotify.com/track/0UPsdEgJx6ypkfFUxD3ZHh) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Nightlife](https://open.spotify.com/album/76MThARuTPq59l5oseVCJT) | 4:18 |
+| 87 | [Don't Move](https://open.spotify.com/track/0UPsdEgJx6ypkfFUxD3ZHh) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Nightlife](https://open.spotify.com/album/76MThARuTPq59l5oseVCJT) | 4:18 |
+| 88 | [Just Say When \(Version 2.0\)](https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Just Say When \(Version 2.0\)](https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC) | 3:44 |
+| 89 | [Seasons \(Waiting On You\)](https://open.spotify.com/track/41X9To0bQ4fpoSRri4NHiI) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Singles](https://open.spotify.com/album/1dKh4z5Aayt8FFDWjO5FDh) | 3:46 |
 | 90 | [Bloom \- Bonus Track](https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:30 |
 | 91 | [Trembling hands](https://open.spotify.com/track/0P2xmlbhOoQd5LOztoe0yF) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [The Temper Trap](https://open.spotify.com/album/2iaZi2RryjkmlSj0apnzDv) | 4:39 |
 | 92 | [Emergency Contact](https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Emergency Contact](https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH) | 4:00 |
 | 93 | [Holocene](https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn) | 5:36 |
-| 94 | [I Belong in Your Arms](https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7) | 3:27 |
-| 95 | [This Modern Love](https://open.spotify.com/track/5jFMzYXf0IIApEJBCAoaaL) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/6SsIdN05HQg2GwYLfXuzLB) | 4:25 |
+| 94 | [This Modern Love](https://open.spotify.com/track/5jFMzYXf0IIApEJBCAoaaL) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/6SsIdN05HQg2GwYLfXuzLB) | 4:25 |
+| 95 | [I Belong in Your Arms](https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7) | 3:27 |
 | 96 | [Free Animal](https://open.spotify.com/track/5l8oNQsDDPNFUIV5M4lzRJ) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Free Animal](https://open.spotify.com/album/7I82cxUhP77MAqBeY9hkVa) | 3:00 |
 | 97 | [All I Need](https://open.spotify.com/track/51ygW389BW4Dut3B69pSwc) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f) | 3:48 |
 | 98 | [Shake, Shake, Shake](https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28) | [Bronze Radio Return](https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG) | [Shake! Shake! Shake!](https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5) | 2:43 |

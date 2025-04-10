@@ -4,7 +4,7 @@
 
 > viral, trend ve yükselenler\. Kapak: Sıla Şahin x Samet Kardeşler
 
-140 songs - 7 hr 18 min
+141 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Mendil](https://open.spotify.com/track/366jopUhzxmlcO7m7I6q8G) | [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec) | [Mendil](https://open.spotify.com/album/2qeb0VmAMVPV812lWjRvcB) | 3:34 | 2025-02-20 |  |
 | [Merhametsiz](https://open.spotify.com/track/4hQVobSCtZ6zI7cjCyIOF4) | [Cevher](https://open.spotify.com/artist/5jUaU1L6PePJadPjzKYFXf) | [Merhametsiz](https://open.spotify.com/album/6ahlCcEViVQLxgoQKVfH3X) | 4:06 | 2024-07-03 |  |
 | [Mevzu Derin](https://open.spotify.com/track/3FkWbO7xBYS3a0MJHN6XlV) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq) | [Mevzu Derin](https://open.spotify.com/album/7uErRgriSGAo5uk8viwQR7) | 3:29 | 2024-11-27 | 2025-04-04 |
-| [Naçar](https://open.spotify.com/track/6Abw6zEw0EbfFC6OJob4Ph) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [Naçar](https://open.spotify.com/album/7mtF9hykx8GZYLolBvHvMr) | 3:20 | 2024-09-25 |  |
+| [Naçar](https://open.spotify.com/track/6Abw6zEw0EbfFC6OJob4Ph) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [Naçar](https://open.spotify.com/album/7mtF9hykx8GZYLolBvHvMr) | 3:20 | 2024-09-25 | 2025-04-10 |
 | [nE !?](https://open.spotify.com/track/1Ma4fLShd0hpZSNH37mEkR) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [\#1](https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie) | 1:54 | 2024-07-02 | 2024-09-06 |
 | [NEON](https://open.spotify.com/track/4DPjZs1Jjw5mQ41w0xt9KA) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [NEON](https://open.spotify.com/album/7GTNIfApsUZTP72J4r7Pv8) | 2:31 | 2025-01-22 | 2025-02-19 |
 | [Neyleyim](https://open.spotify.com/track/3QSJlPYxNXCBP0y4SNB2E7) | [Emre Altuğ](https://open.spotify.com/artist/6CtMmrX12kYA3O4kINuWjZ) | [Kişiye Özel](https://open.spotify.com/album/0YKWM0fWJPqohGAIj9nTEw) | 4:45 | 2025-01-14 |  |
@@ -118,6 +118,7 @@
 | [Sana El Pençe Durmam](https://open.spotify.com/track/1cnx5g8kHElNAf28sV3mRJ) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [Sana El Pençe Durmam](https://open.spotify.com/album/7cstnexGC8wmiP8eQJpm3j) | 3:31 | 2024-07-02 | 2024-11-22 |
 | [Sana Güvenmiyorum \- Dedub Sessions](https://open.spotify.com/track/1lNcnIU4jtqD69Qtfjh8EJ) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Sana Güvenmiyorum \(Dedub Sessions\)](https://open.spotify.com/album/5ZcHiC8fUSjtOSDw0JaJGv) | 3:24 | 2024-11-06 |  |
 | [Sana Yıldızları Ödediğimden](https://open.spotify.com/track/0fu7d7LgXjClCkgBmnNlc0) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Sana Yıldızları Ödediğimden](https://open.spotify.com/album/745xmwLY8UKgHtxDa9UMYU) | 4:18 | 2024-07-02 | 2024-11-22 |
+| [Sarılırım Birine](https://open.spotify.com/track/0d7qHnB6CNvn1UsO5i3ElE) | [Adamlar](https://open.spotify.com/artist/1g4J8P1JWwanNyyXckRX5W) | [Dünya Günlükleri](https://open.spotify.com/album/3OIhzweJb5vgDOnPHTl3Dp) | 6:33 | 2025-04-09 |  |
 | [Sen Bilmezsin](https://open.spotify.com/track/5VykLQtjCYF6qFq59HbUg9) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Sen Bilmezsin](https://open.spotify.com/album/5a3y1scYJAt1OALSshX5kp) | 2:53 | 2024-07-02 | 2024-11-22 |
 | [Seni Seven Kimdi](https://open.spotify.com/track/5M6QrHGDWdWhyq7hVz3zR8) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Seni Seven Kimdi](https://open.spotify.com/album/6x0U8MXvacaNyr070qwfML) | 4:00 | 2024-12-04 |  |
 | [Sessizim](https://open.spotify.com/track/3sHbx4dQJkdUTAxKkHMxTr) | [Mustafa Mert Koç](https://open.spotify.com/artist/7EEw1AEDeS0ldNfmixIOqi) | [Sessizim](https://open.spotify.com/album/2ma8ecolQnN4TFK9Gsu1JG) | 3:01 | 2024-07-02 | 2024-08-22 |

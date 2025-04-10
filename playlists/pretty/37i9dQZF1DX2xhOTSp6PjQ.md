@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/7iHW2UL99LBihXGg6iKfUV?si=2muZB6SNQTWZ3\-D1SqV40w">AMASINAMUVA AMASHA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,975 likes - 70 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,121 likes - 70 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

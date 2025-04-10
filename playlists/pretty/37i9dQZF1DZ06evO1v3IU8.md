@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1v3IU8.md) - [plain]
 
 > This is Banda MS de Sergio Lizárraga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,345,162 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,345,252 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1v3IU8.md) - [plain]
 | 18 | [Mejor Me Alejo](https://open.spotify.com/track/5OUGSwa2eadrcAsMdUItmO) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 3:21 |
 | 19 | [Tengo Que Colgar](https://open.spotify.com/track/2yGNkkwU2iT0doFxkxhcXH) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5VL90afs1EsezktD44XMIN) | 4:08 |
 | 20 | [La Casita](https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:37 |
-| 21 | [Estás Cancelada](https://open.spotify.com/track/2AmgtgMbKtLszGa4Xgh6I0) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Edición Limitada](https://open.spotify.com/album/5d4TvsUqIKmZQV3Pr5nHaF) | 2:48 |
-| 22 | [Sin Evidencia](https://open.spotify.com/track/62w2zglpnJApdA3VqepzBZ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Preparación](https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF) | 2:42 |
+| 21 | [Sin Evidencia](https://open.spotify.com/track/62w2zglpnJApdA3VqepzBZ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Preparación](https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF) | 2:42 |
+| 22 | [Estás Cancelada](https://open.spotify.com/track/2AmgtgMbKtLszGa4Xgh6I0) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Edición Limitada](https://open.spotify.com/album/5d4TvsUqIKmZQV3Pr5nHaF) | 2:48 |
 | 23 | [Solo Con Verte](https://open.spotify.com/track/5z4O1H0vFY0Nh4ZMtfgapP) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5VL90afs1EsezktD44XMIN) | 3:12 |
 | 24 | [No Elegi Conocerte](https://open.spotify.com/track/7EY91l11hOnYIytcxFgvDN) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 4:14 |
 | 25 | [Por Este Amor](https://open.spotify.com/track/0b8ONx6Vjfuq2u4G0uouuW) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1v3IU8.md) - [plain]
 | 49 | [Altamente Probable](https://open.spotify.com/track/2l4vLM7tnFJ5Yf84dr0qvG) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:00 |
 | 50 | [El Mechón](https://open.spotify.com/track/7dbOcZwBpDCUqR7sIz3djU) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Escuela De Rancho](https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T) | 2:19 |
 
-Snapshot ID: `Z/MVgAAAAADJGx05b/bkURvSE9b0xL0K`
+Snapshot ID: `Z/RnAAAAAADFGO0xkrejGaFCV9oF8NH2`

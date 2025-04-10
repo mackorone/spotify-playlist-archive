@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 171726,
+  "num_followers": 171742,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/MVgAAAAADhoHIkYnrD/di7k9De3B60",
+  "snapshot_id": "Z/RnAAAAAADmkRrtiFNX5eV7HeR472T2",
   "tracks": [
     {
       "added_at": null,
@@ -319,26 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ELYTE",
-        "url": "https://open.spotify.com/album/6TJh9B7dVXOoGjnDRUY7Ea"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 154969,
-      "name": "HABLAME CLARO",
-      "url": "https://open.spotify.com/track/2qyEoF40CW5XfmpYJDoOR3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Welcome To The Jungle",
         "url": "https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 218506,
       "name": "Sexo Seguro",
       "url": "https://open.spotify.com/track/5pOu3vSiKrEmj65N1CWqOI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ELYTE",
+        "url": "https://open.spotify.com/album/6TJh9B7dVXOoGjnDRUY7Ea"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 154969,
+      "name": "HABLAME CLARO",
+      "url": "https://open.spotify.com/track/2qyEoF40CW5XfmpYJDoOR3"
     },
     {
       "added_at": null,
@@ -443,6 +443,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/5JNhQFH8HMKQWP4SITzdoc"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 270173,
+      "name": "No Me Digas Que No",
+      "url": "https://open.spotify.com/track/2A2U1QnZHSPriVFOxS6oZM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DEMBO$$",
         "url": "https://open.spotify.com/album/7bp8TEGxs1Q8bCB3HbzghV"
       },
@@ -467,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEXO ES LA MODA",
-        "url": "https://open.spotify.com/album/4bJWxZQFLrz2IW79KheuXD"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 165901,
-      "name": "SEXO ES LA MODA",
-      "url": "https://open.spotify.com/track/4U80gkwi6Qk0fBRcDuzn3E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MANIFESTING 20-05",
         "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
       },
@@ -507,26 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/5JNhQFH8HMKQWP4SITzdoc"
+        "name": "SEXO ES LA MODA",
+        "url": "https://open.spotify.com/album/4bJWxZQFLrz2IW79KheuXD"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         },
         {
           "name": "Yandel",
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 270173,
-      "name": "No Me Digas Que No",
-      "url": "https://open.spotify.com/track/2A2U1QnZHSPriVFOxS6oZM"
+      "duration_ms": 165901,
+      "name": "SEXO ES LA MODA",
+      "url": "https://open.spotify.com/track/4U80gkwi6Qk0fBRcDuzn3E"
     },
     {
       "added_at": null,
@@ -763,6 +763,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MANIFESTING 20-05",
+        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 214253,
+      "name": "De Negro",
+      "url": "https://open.spotify.com/track/4vAAGNZAjmCUc51qjhFZdM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LA MAYBACH",
         "url": "https://open.spotify.com/album/1jz29Rm1NMO3xpeMotUgff"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 240778,
       "name": "LA MAYBACH",
       "url": "https://open.spotify.com/track/0kJAsLcG0lPlYTwGbCwcvt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MANIFESTING 20-05",
-        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 214253,
-      "name": "De Negro",
-      "url": "https://open.spotify.com/track/4vAAGNZAjmCUc51qjhFZdM"
     },
     {
       "added_at": null,

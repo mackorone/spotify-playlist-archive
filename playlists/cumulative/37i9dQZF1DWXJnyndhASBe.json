@@ -1627,6 +1627,24 @@
     },
     {
       "album": {
+        "name": "I MISS YOU ON TOUR",
+        "url": "https://open.spotify.com/album/1AlUYkwz3uu2EQ3OfpVqmD"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145210,
+      "name": "BRAND NEW SQ8",
+      "url": "https://open.spotify.com/track/6Sn6v4Q8JrDVySRamxPXeX"
+    },
+    {
+      "album": {
         "name": "Bungee",
         "url": "https://open.spotify.com/album/3AXeMiCKuYZYogMzmAAuRo"
       },
@@ -2974,6 +2992,28 @@
       "duration_ms": 157297,
       "name": "Dawaj ten sos",
       "url": "https://open.spotify.com/track/2Px76pOZiCjIYAph4hftIg"
+    },
+    {
+      "album": {
+        "name": "I MISS YOU ON TOUR",
+        "url": "https://open.spotify.com/album/1AlUYkwz3uu2EQ3OfpVqmD"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "Taco Hemingway",
+          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202838,
+      "name": "DAY ONE",
+      "url": "https://open.spotify.com/track/1OooCG5KS1VAtzdj4KENLW"
     },
     {
       "album": {
@@ -6264,7 +6304,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 157419,
       "name": "Kraina w\u0119dlin",
       "url": "https://open.spotify.com/track/2Ur1B2BZ6ReA0XR6PeQrHq"
@@ -6416,7 +6456,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 187333,
       "name": "KUZYNI",
       "url": "https://open.spotify.com/track/1fyU8RM8lbpD7Brqs1nnDn"

@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 41 | [UNIVERSE](https://open.spotify.com/track/0BhWiby1vUZaFUzmKvk9YK) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:56 |
 | 42 | [Deep](https://open.spotify.com/track/3oYFqF7jwJp4sxZ0WQworY) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 2:22 |
 | 43 | [Born Again](https://open.spotify.com/track/7JcGS8KvdGXHkol58AroZ2) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:36 |
-| 44 | [WEATHER](https://open.spotify.com/track/2ioPOUIEdDPabQsQly3tWX) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:54 |
-| 45 | [Future Tripping](https://open.spotify.com/track/1A5kvLbOhmGYMZVIUepuQh) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/1RK0zPSMv6O78iP9M0irH8) | 2:28 |
+| 44 | [Future Tripping](https://open.spotify.com/track/1A5kvLbOhmGYMZVIUepuQh) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/1RK0zPSMv6O78iP9M0irH8) | 2:28 |
+| 45 | [WEATHER](https://open.spotify.com/track/2ioPOUIEdDPabQsQly3tWX) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:54 |
 | 46 | [Red Wine + White Couch](https://open.spotify.com/track/53VQYdLcJSMZcv1ZXcDp5b) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [I Don't Believe We've Met](https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM) | 3:09 |
 | 47 | [Blue Dream Baby](https://open.spotify.com/track/2cHjdUBcdnnCGdubhCmLbM) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Blue Dream Baby](https://open.spotify.com/album/2uTVxVa04MmJ9afai3a9cc) | 2:56 |
 | 48 | [Did You Make It Home? \(outro\)](https://open.spotify.com/track/2lwG3Zs3Pr5JJs9pnU4T9F) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 0:59 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 79 | [it's not you, it's me](https://open.spotify.com/track/0X3mAcw0fxCLqgVcLoGbpC) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:20 |
 | 80 | [Space Traveler \- Lucy Remix](https://open.spotify.com/track/5ZeBGX6fqhzK237bzlvAi3) | [Florian Meindl](https://open.spotify.com/artist/3ifSx5yWok1sISs8J89omX), [Lucy](https://open.spotify.com/artist/7oVnuNTfcmObCIJ2DVvkk3) | [Time Illusion Remixes](https://open.spotify.com/album/2S56BIAz0orTVXIdGVTCzy) | 7:37 |
 
-Snapshot ID: `AbuQqAAAAADzn3MEBfHctNkRBGKQr7E7`
+Snapshot ID: `AbuWPgAAAACFNZ1tMIdBZ9UmnZG411A7`

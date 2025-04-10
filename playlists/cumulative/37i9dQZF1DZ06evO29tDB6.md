@@ -4,7 +4,7 @@
 
 > This is El Tri\. The essential tracks, all in one playlist.
 
-82 songs - 5 hr 27 min
+83 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Libertad bajo fianza](https://open.spotify.com/track/0nqNIWpoI0y3k1PBVXnv8q) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 3:43 | 2024-01-21 |  |
 | [Los minusválidos](https://open.spotify.com/track/0vLrZpp49ADN2bqinIg1mU) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Sinfónico](https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8) | 4:04 | 2023-01-14 |  |
 | [Los Ojos De Frida](https://open.spotify.com/track/5ZpbaXsG7gYdlAnBYUWFoL) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Yo Quiero Ser Tu Celular](https://open.spotify.com/album/0Vm2FAdqnp2ruW2uRuStQ3) | 4:12 | 2024-05-25 | 2024-05-26 |
-| [María Sabina](https://open.spotify.com/track/3Jkj0MlvVlggnWnLndsvWb) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Clasicas para Rockear](https://open.spotify.com/album/1udzt4QE3PY1KvUinZ5xiw) | 5:11 | 2023-01-14 |  |
+| [María Sabina](https://open.spotify.com/track/2mwt41mwj7S4TIpTaDmR7B) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [21 Años después Alex Lora y El Tri](https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu) | 5:11 | 2025-04-10 |  |
+| [María Sabina](https://open.spotify.com/track/3Jkj0MlvVlggnWnLndsvWb) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Clasicas para Rockear](https://open.spotify.com/album/1udzt4QE3PY1KvUinZ5xiw) | 5:11 | 2023-01-14 | 2025-04-10 |
 | [Mente rockera](https://open.spotify.com/track/09DBgWM8izjfcoPpjCQZmc) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 4:18 | 2023-01-14 |  |
 | [Mente roquera](https://open.spotify.com/track/6siM0kfxKHLW5zhM5g80x9) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Sinfónico](https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8) | 5:47 | 2023-01-14 |  |
 | [Metro balderas](https://open.spotify.com/track/6ShfvZJYI3GSdaNaQ1bMVR) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Simplemente](https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y) | 5:42 | 2023-01-14 |  |

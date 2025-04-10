@@ -4,7 +4,7 @@
 
 > Laufey's coming over to do ROLE MODEL's dishes  🍽️
 
-2,043 songs - 4 day 10 hr 30 min
+2,044 songs - 4 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,6 +525,7 @@
 | [Don’t Trip \(with GAYLE\)](https://open.spotify.com/track/6mWCikZXHCCnEwkwyJ2L8G) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [Don’t Trip \(with GAYLE\)](https://open.spotify.com/album/3R59vyW9DWkchzNHN4XehZ) | 2:27 | 2022-02-25 | 2022-03-18 |
 | [Dopamine](https://open.spotify.com/track/6kYniJ1XYgN3OP4tELCw4n) | [Kevian Kraemer](https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a) | [Dopamine](https://open.spotify.com/album/1jCVwtJE0kr0cbXriYTt8p) | 3:00 | 2024-09-13 | 2024-10-10 |
 | [Doppelgänger](https://open.spotify.com/track/1KjJfUt1UyEbZSbliSkGpi) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Doppelgänger](https://open.spotify.com/album/7wUFChQwfJDOAMTBTFjBHc) | 3:14 | 2022-02-25 | 2022-03-26 |
+| [Doubt \(demo\)](https://open.spotify.com/track/0vsW1vAlNYiy9Y5briGT8Y) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Doubt \(demo\)](https://open.spotify.com/album/5qkGe4UpUa8dsokzuroQ72) | 2:57 | 2025-04-09 |  |
 | [Down Bad](https://open.spotify.com/track/1kbEbBdEgQdQeLXCJh28pJ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:21 | 2024-05-10 | 2024-05-25 |
 | [Down Bad](https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:21 | 2024-04-19 | 2024-05-10 |
 | [Drain Me!](https://open.spotify.com/track/7MMbF73FtqDVyk2fU8FStL) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Drain Me!](https://open.spotify.com/album/7z8DgBZJe1rvHMA5H2EUbW) | 2:01 | 2024-04-14 | 2024-04-30 |

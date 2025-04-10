@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yN5997BIDH.md) - [plain]
 
 > ¡Deja que la música te inspire para acabar con tu tarea!
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,169 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,133 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yN5997BIDH.md) - [plain]
 | 93 | [A\-O\-K](https://open.spotify.com/track/51PSUD2YHjPyAy3jnkaoy7) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/1dqg0cgO1FRp4xl96B2djc) | 2:53 |
 | 94 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 |
 | 95 | [American Cliché](https://open.spotify.com/track/2IFioAFD8QEIq17UwOaSFb) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [American Cliché](https://open.spotify.com/album/2LNj7phPxqxUhn05s0itfQ) | 3:23 |
-| 96 | [i can't help it](https://open.spotify.com/track/1HkRnB3c6aVMJxAryrsMsc) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [i can't help it](https://open.spotify.com/album/1vJ1jmaxBT3tHp54igkrmK) | 2:57 |
-| 97 | [Killing Me](https://open.spotify.com/track/1vghSeMBb7AIMT3JaMrlHO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Killing Me](https://open.spotify.com/album/4HsgZMW1HHEQX6xyX0MrQm) | 2:45 |
-| 98 | [ok on your own \(feat\. Carly Rae Jepsen\)](https://open.spotify.com/track/36GBFPY75lJpxk7GugxhL7) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [ok on your own](https://open.spotify.com/album/2UUaWZK2WP9xhzNb0kd8rK) | 3:28 |
-| 99 | [Fool's Gold](https://open.spotify.com/track/4rw4ME6nh2kFfpivQyOYyA) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Fool's Gold](https://open.spotify.com/album/5KS3QQBO5pvA2IOvHhrVcC) | 2:21 |
+| 96 | [Fool's Gold](https://open.spotify.com/track/4rw4ME6nh2kFfpivQyOYyA) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Fool's Gold](https://open.spotify.com/album/5KS3QQBO5pvA2IOvHhrVcC) | 2:21 |
+| 97 | [i can't help it](https://open.spotify.com/track/1HkRnB3c6aVMJxAryrsMsc) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [i can't help it](https://open.spotify.com/album/1vJ1jmaxBT3tHp54igkrmK) | 2:57 |
+| 98 | [Killing Me](https://open.spotify.com/track/1vghSeMBb7AIMT3JaMrlHO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Killing Me](https://open.spotify.com/album/4HsgZMW1HHEQX6xyX0MrQm) | 2:45 |
+| 99 | [ok on your own \(feat\. Carly Rae Jepsen\)](https://open.spotify.com/track/36GBFPY75lJpxk7GugxhL7) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [ok on your own](https://open.spotify.com/album/2UUaWZK2WP9xhzNb0kd8rK) | 3:28 |
 | 100 | [One More Day](https://open.spotify.com/track/6EEOfwJ6K8z7Kx4B02dVP4) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF), [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [One More Day](https://open.spotify.com/album/2fMyuRiPrm57Z60DowjQPi) | 4:29 |
 
 Snapshot ID: `Zo8yugAAAABCstqOF/kqeY5fr+EumA71`

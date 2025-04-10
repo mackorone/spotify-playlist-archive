@@ -6379,6 +6379,28 @@
     },
     {
       "album": {
+        "name": "MTV MILANO",
+        "url": "https://open.spotify.com/album/47gj5NVt2GJdLEohBan6IS"
+      },
+      "artists": [
+        {
+          "name": "Vanity Vercetti",
+          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
+        },
+        {
+          "name": "Chimbobeats",
+          "url": "https://open.spotify.com/artist/3EHWoHic7407xJBJOyKTwl"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203192,
+      "name": "MTV MILANO",
+      "url": "https://open.spotify.com/track/7jMIlUfyvVsgmlCwpxOlKY"
+    },
+    {
+      "album": {
         "name": "PLUG PARK",
         "url": "https://open.spotify.com/album/01fep7ke8e9wRSvptjIO2v"
       },
@@ -8802,7 +8824,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 200625,
       "name": "Santo Veneno",
       "url": "https://open.spotify.com/track/1sLscscAu0fWvCfSA9aGNc"

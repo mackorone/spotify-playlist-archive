@@ -4141,6 +4141,24 @@
     },
     {
       "album": {
+        "name": "Palagi",
+        "url": "https://open.spotify.com/album/5Rfx0N1vVYU3STdoOt4XJd"
+      },
+      "artists": [
+        {
+          "name": "Odri",
+          "url": "https://open.spotify.com/artist/3dkiiS5m6L2FQWXJGLNpUh"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "Palagi",
+      "url": "https://open.spotify.com/track/7uAUa6yjTZ1H6SnC9EFl3t"
+    },
+    {
+      "album": {
         "name": "Palagi (TJxKZ Version)",
         "url": "https://open.spotify.com/album/6HKsZL1QL7e2Mp5HGNn6N0"
       },

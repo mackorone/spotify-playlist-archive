@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,565 likes - 77 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,578 likes - 77 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 7 | [Fala Pra Mim](https://open.spotify.com/track/1ob28cuxL8jIeWFsqzefpj) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Fontes](https://open.spotify.com/artist/0TcujpNyXBNScchl8oh06P), [Dj Smoke](https://open.spotify.com/artist/2dzU3PYVwrkBAxeVAbetih) | [Fala Pra Mim](https://open.spotify.com/album/5dStIcLOqYkomOeUwejYgD) | 2:33 |
 | 8 | [PQ VC BRIGA CMG?](https://open.spotify.com/track/1NqUiLS780tmxzqXDYMJeV) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Maffalda](https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC) | [PQ VC BRIGA CMG?](https://open.spotify.com/album/1drwJlok6zaX7Qon9lZrVr) | 2:35 |
 | 9 | [Conta Essa História Direito \(Fantasma remix\)](https://open.spotify.com/track/3eUpogDjDWgYIvHGfkeLg0) | [Akashi Cruz](https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2), [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [Conta Essa História Direito \(Fantasma remix\)](https://open.spotify.com/album/3ShMK4CzhrFWAIicVpdfkk) | 2:10 |
-| 10 | [Ciclos](https://open.spotify.com/track/4SKnW8k3OxrPXP8XRUSXRj) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [skrabeats](https://open.spotify.com/artist/3UkoU5gDhtZ9hbxFFVtn26) | [Para todas as mulheres que já rimei Pt\. 2](https://open.spotify.com/album/2IN1uMCXQMgEkAmQO48apf) | 2:16 |
+| 10 | [Ciclos](https://open.spotify.com/track/4SKnW8k3OxrPXP8XRUSXRj) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [skrabeats](https://open.spotify.com/artist/3UkoU5gDhtZ9hbxFFVtn26), [Jadeco](https://open.spotify.com/artist/2xR72gXLvfx1hi8OcADmAY) | [Para todas as mulheres que já rimei Pt\. 2](https://open.spotify.com/album/2IN1uMCXQMgEkAmQO48apf) | 2:16 |
 | 11 | [Paladar Infantil](https://open.spotify.com/track/2CzIoSG4eDkstyTiXzjryy) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Paladar Infantil](https://open.spotify.com/album/6y1V62Msb6V5oiVJkYa9Dx) | 2:23 |
 | 12 | [Talvez Não Seja](https://open.spotify.com/track/5mtEGUGPJwDHgo92pHY3Tu) | [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Talvez Não Seja](https://open.spotify.com/album/7FZk0HuDvDv6cBO8HC5AHQ) | 2:10 |
 | 13 | [Meu Time \- Ao Vivo](https://open.spotify.com/track/2NQMyxI69bKWAMllB1Ge4A) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Modestto](https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd) | [Versos e Voos \(Ao Vivo\)](https://open.spotify.com/album/5ccA9RtMm7erRrkJnvsqMq) | 3:27 |

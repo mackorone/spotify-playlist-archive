@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl?si=oNVyS44XSJ\-NNzpj3g\_HZw">Tyler Page</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,549 likes - 131 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,551 likes - 131 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,16 +109,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 99 | [Dance Of Dust](https://open.spotify.com/track/4mfmQTSHJXE3LkEJMFRbr7) | [Nina Kay](https://open.spotify.com/artist/10UUXKtZkwnnLbyEj8YCtt) | [Dance Of Dust](https://open.spotify.com/album/43we7pIPLtEhI8evl32iib) | 2:30 |
 | 100 | [You Can Do It!](https://open.spotify.com/track/36pwYvn0pZknPBDaxI9kPy) | [Tasha Baxter](https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og) | [You Can Do It!](https://open.spotify.com/album/0Wbwd4ndK88tTg9RL1tu49) | 4:24 |
 | 101 | [Mary Jane](https://open.spotify.com/track/1PGw5vrq068zZ0DdNMDstW) | [Muzzzoh](https://open.spotify.com/artist/5dGFDimZDbExhKao9FzqG9) | [Mary Jane](https://open.spotify.com/album/6Ugs01sOEKzRv8Lrv70M9w) | 2:32 |
-| 102 | [Remember December](https://open.spotify.com/track/2v48D8kPZuY1MrEgFkahw1) | [Porcelain Moon](https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549) | [Remember December](https://open.spotify.com/album/3ikMj0ZPCoQJ6yeLnHNDBh) | 2:51 |
-| 103 | [closer](https://open.spotify.com/track/7AH6KqLj7s3oDQq7toOSLh) | [tan sholto](https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V) | [closer](https://open.spotify.com/album/6moxTk35VDx2mxANPUarwi) | 2:13 |
+| 102 | [closer](https://open.spotify.com/track/7AH6KqLj7s3oDQq7toOSLh) | [tan sholto](https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V) | [closer](https://open.spotify.com/album/6moxTk35VDx2mxANPUarwi) | 2:13 |
+| 103 | [Remember December](https://open.spotify.com/track/2v48D8kPZuY1MrEgFkahw1) | [Porcelain Moon](https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549) | [Remember December](https://open.spotify.com/album/3ikMj0ZPCoQJ6yeLnHNDBh) | 2:51 |
 | 104 | [The Knife In Me](https://open.spotify.com/track/7egTvzYXK70VDTnVksHw3w) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [All Cylinders](https://open.spotify.com/album/1ls9QyYWFw9Y35jThBvGKa) | 2:04 |
-| 105 | [Bleeding](https://open.spotify.com/track/4AxbwoB04zGToNJDTAzaz2) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Bleeding](https://open.spotify.com/album/6NuzHlz1LSuWtViS3diX1g) | 3:23 |
-| 106 | [No Surprise](https://open.spotify.com/track/1L7JDJ5604RkYN2k3czATE) | [Likkewaan](https://open.spotify.com/artist/6lo75AjRf26g8qluCyDwO3) | [No Surprise](https://open.spotify.com/album/3OyIklItWcl0kumd7mrpXr) | 3:00 |
+| 105 | [No Surprise](https://open.spotify.com/track/1L7JDJ5604RkYN2k3czATE) | [Likkewaan](https://open.spotify.com/artist/6lo75AjRf26g8qluCyDwO3) | [No Surprise](https://open.spotify.com/album/3OyIklItWcl0kumd7mrpXr) | 3:00 |
+| 106 | [Bleeding](https://open.spotify.com/track/4AxbwoB04zGToNJDTAzaz2) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Bleeding](https://open.spotify.com/album/6NuzHlz1LSuWtViS3diX1g) | 3:23 |
 | 107 | [HIGH](https://open.spotify.com/track/7sN6eKMMXaVDRY0KYALWoc) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [HIGH](https://open.spotify.com/album/5148Kh8FLbVujoy9hTxYS9) | 2:43 |
 | 108 | [Paper Moon](https://open.spotify.com/track/579wvStxUsPPpNTS1waIng) | [GAZE](https://open.spotify.com/artist/7AnH31JyVPruiv0eLGfcB7) | [Paper Moon](https://open.spotify.com/album/6lbQHPxMxElu6vWQ54ClPR) | 5:36 |
 | 109 | [Work It Out](https://open.spotify.com/track/2N7FFLLDXZup2T6f7V7X6a) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [Work It Out](https://open.spotify.com/album/5BnPWKiyjmHrEfgr0t2ryg) | 2:50 |
-| 110 | [Same Love](https://open.spotify.com/track/0z7Fjz5tCrZhcnKeNzST5p) | [GRANGE](https://open.spotify.com/artist/3E82Y3u4xMJqadI1AkzvSb) | [Same Love](https://open.spotify.com/album/6FoxkEyonYt9do47LPc6kc) | 3:34 |
-| 111 | [First Love](https://open.spotify.com/track/5qG1bS0QJMdBQ7ZWS7ARCx) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa) | [First Love](https://open.spotify.com/album/2JV7DLFUqhL71henfidRcT) | 3:07 |
+| 110 | [First Love](https://open.spotify.com/track/5qG1bS0QJMdBQ7ZWS7ARCx) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa) | [First Love](https://open.spotify.com/album/2JV7DLFUqhL71henfidRcT) | 3:07 |
+| 111 | [Same Love](https://open.spotify.com/track/0z7Fjz5tCrZhcnKeNzST5p) | [GRANGE](https://open.spotify.com/artist/3E82Y3u4xMJqadI1AkzvSb) | [Same Love](https://open.spotify.com/album/6FoxkEyonYt9do47LPc6kc) | 3:34 |
 | 112 | [Torrential](https://open.spotify.com/track/4hFGBfQoyjk1FhvZ8HZqlJ) | [Cara Knox](https://open.spotify.com/artist/6LcWpV7gWFKYXfwyAWV8MR) | [Torrential](https://open.spotify.com/album/1laoB6Ha6YDaBVdg3gk8kD) | 3:16 |
 | 113 | [Oh No I'm in Love](https://open.spotify.com/track/3V64DXodINEWxCUylLhlK5) | [Leoné Murphy](https://open.spotify.com/artist/0ScxP19sE2M47pvrhLy3fU) | [Oh No I'm in Love](https://open.spotify.com/album/1zgKL2sH0z2GM92EIAjgpg) | 3:29 |
 | 114 | [To Feel Strange](https://open.spotify.com/track/70VFFycKn12NYMMWbRqc7g) | [The Office Koki Club](https://open.spotify.com/artist/0Hwau6CLbJsWOCJHk7hboT) | [To Feel Strange](https://open.spotify.com/album/7xIvaB9waXGdt8uTI83I86) | 4:37 |
@@ -131,10 +131,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 121 | [True Romantic](https://open.spotify.com/track/6N4eA3c3MCyw0ad69mGSPM) | [Orah & The Kites](https://open.spotify.com/artist/3B6qB7amU7lKiNcTNTNacP) | [True Romantic](https://open.spotify.com/album/2FxEoqO5kERxCtJa5VN5X3) | 4:45 |
 | 122 | [Before I Met You](https://open.spotify.com/track/1FAyTfyGwsrW0GGZMjqQHf) | [tait mills](https://open.spotify.com/artist/15Om2Twy4OFk32Y3CKD5jH) | [Before I Met You](https://open.spotify.com/album/1tJV8lUxTnm2hjAdUCx9Ul) | 2:42 |
 | 123 | [glad i didn't die](https://open.spotify.com/track/7lbBI9RWgoY9O26wYQndWU) | [BOLEYN](https://open.spotify.com/artist/3ud134vZTGy9JihuGAn8RI) | [glad i didn't die](https://open.spotify.com/album/6hm8j3ze8vQYjupMJPWMlp) | 4:00 |
-| 124 | [Mirror](https://open.spotify.com/track/23QVH6eCYp7JOACnWmXn6c) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Mirror](https://open.spotify.com/album/739wi0ab4CutRBydBVtgmW) | 4:56 |
-| 125 | [July](https://open.spotify.com/track/2fOLwJnT73maHejedOc4xs) | [GAZE](https://open.spotify.com/artist/7AnH31JyVPruiv0eLGfcB7) | [July](https://open.spotify.com/album/2GlUguLaugvNPQOHKCVre1) | 3:58 |
+| 124 | [July](https://open.spotify.com/track/2fOLwJnT73maHejedOc4xs) | [GAZE](https://open.spotify.com/artist/7AnH31JyVPruiv0eLGfcB7) | [July](https://open.spotify.com/album/2GlUguLaugvNPQOHKCVre1) | 3:58 |
+| 125 | [Lipstick](https://open.spotify.com/track/3ibKWOB34PuBuxdto3JOXV) | [Dynasty House](https://open.spotify.com/artist/5NaDmLkkg2rcjrObTRhiQR) | [Lipstick](https://open.spotify.com/album/7CuZbAGcUc1eE0mStvpkzx) | 3:07 |
 | 126 | [u know about it](https://open.spotify.com/track/0oF06SeT3eG44fqHQGLyLT) | [Taking Back March](https://open.spotify.com/artist/4DXdfwRdIQSELsgnKI8qzq) | [u know about it](https://open.spotify.com/album/7MEbiJq82JKpOfs78gr4yr) | 3:28 |
-| 127 | [Lipstick](https://open.spotify.com/track/3ibKWOB34PuBuxdto3JOXV) | [Dynasty House](https://open.spotify.com/artist/5NaDmLkkg2rcjrObTRhiQR) | [Lipstick](https://open.spotify.com/album/7CuZbAGcUc1eE0mStvpkzx) | 3:07 |
+| 127 | [Mirror](https://open.spotify.com/track/23QVH6eCYp7JOACnWmXn6c) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Mirror](https://open.spotify.com/album/739wi0ab4CutRBydBVtgmW) | 4:56 |
 | 128 | [When you wake up](https://open.spotify.com/track/0WQUuNsdlOOF2uLZuFU55I) | [The Office Koki Club](https://open.spotify.com/artist/0Hwau6CLbJsWOCJHk7hboT) | [When you wake up](https://open.spotify.com/album/7zU8BYQlqXvMXvihHLgzX6) | 3:45 |
 | 129 | [Losing You](https://open.spotify.com/track/5MaLNx6cWCAZiOEJJzz85X) | [Muzzzoh](https://open.spotify.com/artist/5dGFDimZDbExhKao9FzqG9) | [Going Back](https://open.spotify.com/album/0vJT1cYwLLcMynyZcWsK4E) | 2:44 |
 | 130 | [Hey Girl](https://open.spotify.com/track/5S55dI6jG6noOUcU1ZIS1E) | [Wynand Fourie](https://open.spotify.com/artist/19hkIFswoQWtNKSWQO43NN) | [Hey Girl](https://open.spotify.com/album/1sqkjBBA4hm4VBA5QGVEo6) | 3:14 |

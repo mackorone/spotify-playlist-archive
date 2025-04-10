@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 
 > 
 
-[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 313 songs - 18 hr 33 min
+[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 314 songs - 18 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -321,5 +321,6 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 | 311 | [Lie To Me](https://open.spotify.com/track/0fnY4MQat2zJsb8FKyLM9D) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Chris Isaak](https://open.spotify.com/album/3dIasrAuimko9R2t4Z4N0N) | 4:13 |
 | 312 | [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY) | 1:56 |
 | 313 | [Love Story](https://open.spotify.com/track/6nGeLlakfzlBcFdZXteDq7) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Mini World](https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH) | 5:16 |
+| 314 | [Lovers](https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:35 |
 
-Snapshot ID: `AAADXos7u29EnqhGdFRv75xerububBPY`
+Snapshot ID: `AAADX1bu42GsBzs4tLni2kiX9zeXRZTN`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 
 > This is The Black Keys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,467 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,498 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 | 4 | [Fever](https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 4:06 |
 | 5 | [Lo/Hi](https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:57 |
 | 6 | [Gold on the Ceiling \- 2021 Remaster](https://open.spotify.com/track/54bO2CHOgGN44oWmAqib0I) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino \(2021 Remaster\)](https://open.spotify.com/album/15TCQN0DHHM3XX4TfnNkV8) | 3:44 |
-| 7 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 |
-| 8 | [The Night Before](https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Night Before](https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O) | 2:34 |
-| 9 | [Shine A Little Light](https://open.spotify.com/track/365TSrFPqM66giaxJuafR3) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 3:16 |
-| 10 | [I Got Mine](https://open.spotify.com/track/319zpJMCzpz50Uz0PsjlJN) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Attack & Release](https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi) | 3:59 |
-| 11 | [Tighten Up](https://open.spotify.com/track/2MVwrvjmcdt4MsYYLCYMt8) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:31 |
+| 7 | [Howlin' for You](https://open.spotify.com/track/4yffABDkB5A9flvr9vQFck) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:11 |
+| 8 | [Tighten Up](https://open.spotify.com/track/2MVwrvjmcdt4MsYYLCYMt8) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:31 |
+| 9 | [The Night Before](https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Night Before](https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O) | 2:34 |
+| 10 | [Shine A Little Light](https://open.spotify.com/track/365TSrFPqM66giaxJuafR3) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 3:16 |
+| 11 | [I Got Mine](https://open.spotify.com/track/319zpJMCzpz50Uz0PsjlJN) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Attack & Release](https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi) | 3:59 |
 | 12 | [Your Touch](https://open.spotify.com/track/5lJUXSjRjevVy7I3P87wuK) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Magic Potion](https://open.spotify.com/album/4jFfuHyKmhGeipjRmKIh8O) | 2:42 |
 | 13 | [Weight of Love](https://open.spotify.com/track/3xMQOd1C3TXsjQ3pmzOmkC) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 6:50 |
 | 14 | [Little Black Submarines](https://open.spotify.com/track/1PXsUXSM3LF2XNSkmIldPb) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 4:11 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 | 35 | [Sinister Kid](https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:44 |
 | 36 | [I'm With The Band \(feat\. Beck\)](https://open.spotify.com/track/23T2c9QnEWy9PvkeDLhHRS) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [I'm With The Band \(feat\. Beck\)](https://open.spotify.com/album/2ZwtjZD39nAQ9yXMi4ZA9G) | 2:55 |
 | 37 | [Gotta Get Away](https://open.spotify.com/track/0zo4T5c5VV42554ySEc5J6) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 3:00 |
-| 38 | [Mind Eraser](https://open.spotify.com/track/0hzBN7DGgtjBsTyZwTTKRS) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:14 |
-| 39 | [Eagle Birds](https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:40 |
+| 38 | [Eagle Birds](https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:40 |
+| 39 | [Mind Eraser](https://open.spotify.com/track/0hzBN7DGgtjBsTyZwTTKRS) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:14 |
 | 40 | [Too Afraid to Love You](https://open.spotify.com/track/2LhnW02jJHTYgtBpk9BVrs) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:25 |
 | 41 | [In Time](https://open.spotify.com/track/39e1gl7VaxuCev5ga7bvNq) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 4:28 |
 | 42 | [Read Em And Weep](https://open.spotify.com/track/2u89yyB1DUGqGSYhFVSqy7) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players \(Trophy Edition\)](https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 | 49 | [Good Love \(feat\. Billy F Gibbons\)](https://open.spotify.com/track/49Mvj8Ohz1uu0AcZ7Ri70Z) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:37 |
 | 50 | [You'll Pay](https://open.spotify.com/track/0lyfI7eXg8k3Hu9hfl0Z2I) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players \(Trophy Edition\)](https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo) | 2:45 |
 
-Snapshot ID: `Z/MVgAAAAACl/BXob2V2Lb7zQEbPCfkw`
+Snapshot ID: `Z/RnAAAAAAD5wN/7PpqHV75nhhPAoCUN`

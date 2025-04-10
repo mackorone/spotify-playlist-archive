@@ -1,13 +1,37 @@
 {
   "description": "Los \u00e9xitos del Dembow. Portada: Lomiiel",
-  "num_followers": 622755,
+  "num_followers": 623032,
   "original_name": "Dembow Pegao",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+/nxgAAAADrOdMsMs2XUg/m0f1/2M63",
+  "snapshot_id": "Z/abCQAAAAA5onRRSQY2uYJv3trl2kum",
   "tracks": [
+    {
+      "added_at": "2025-04-09 16:06:33",
+      "album": {
+        "name": "Bailalo Rocky",
+        "url": "https://open.spotify.com/album/2VHCyzqBeo6vy0ubdT60vg"
+      },
+      "artists": [
+        {
+          "name": "Yoan Retro",
+          "url": "https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi"
+        },
+        {
+          "name": "Ariadne Arana",
+          "url": "https://open.spotify.com/artist/5k5RJzP8MAKLrPgvpYTKKd"
+        },
+        {
+          "name": "GMBeats Degranalo",
+          "url": "https://open.spotify.com/artist/3mz31fCuwqJDQoKGN3sbnT"
+        }
+      ],
+      "duration_ms": 143349,
+      "name": "Bailalo Rocky",
+      "url": "https://open.spotify.com/track/2nKdvC22Nbra2MZVKY1Srf"
+    },
     {
       "added_at": "2025-03-13 18:12:25",
       "album": {
@@ -123,26 +147,6 @@
       "duration_ms": 141355,
       "name": "Silla",
       "url": "https://open.spotify.com/track/4n3OzPpoNDyHKKu7AeMV5P"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Boy Boy",
-        "url": "https://open.spotify.com/album/2D8kgOal3Dego8yDv60ZLX"
-      },
-      "artists": [
-        {
-          "name": "Yaisel LM",
-          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
-        },
-        {
-          "name": "Hansel El De La H",
-          "url": "https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG"
-        }
-      ],
-      "duration_ms": 134565,
-      "name": "Boy Boy",
-      "url": "https://open.spotify.com/track/0E2T5QGDi48YmAo32ZqaqF"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -315,26 +319,6 @@
       "duration_ms": 120052,
       "name": "CHAPA",
       "url": "https://open.spotify.com/track/4uFYkBaLGIhBaLT9KbhyPt"
-    },
-    {
-      "added_at": "2025-02-19 16:23:54",
-      "album": {
-        "name": "MONTOYA",
-        "url": "https://open.spotify.com/album/3YimyhLTjpZjME0dBNNuLe"
-      },
-      "artists": [
-        {
-          "name": "Anthony Ready & Yeigo",
-          "url": "https://open.spotify.com/artist/3jbsnUDtwiiGVikbY9VYK7"
-        },
-        {
-          "name": "Victor R -Swag",
-          "url": "https://open.spotify.com/artist/5Jz48JzVckf7ZUvrQc55Iq"
-        }
-      ],
-      "duration_ms": 139487,
-      "name": "MONTOYA",
-      "url": "https://open.spotify.com/track/6QJoEebhAhga8KXM2ho6k8"
     },
     {
       "added_at": "2024-08-23 04:00:00",

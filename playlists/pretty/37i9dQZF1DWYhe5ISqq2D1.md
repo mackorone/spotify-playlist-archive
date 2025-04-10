@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 
 > たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: 友成空
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,587 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,592 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 | 51 | [シンプル\(SINGLE VERSION\)](https://open.spotify.com/track/3cMjVWbuEi2DZB7M5woY2G) | [Taku Tomizawa](https://open.spotify.com/artist/6jyRbouIq2wuUg7moXjYsL) | [シンプル\(SINGLE VERSION\)](https://open.spotify.com/album/2ZDH6L1csLGWI6uTO57KKf) | 5:42 |
 | 52 | [糸電話](https://open.spotify.com/track/6BPJod6d4ymhRcziURKoaM) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [糸電話](https://open.spotify.com/album/7BJiq1ZVbcSpRzfZH6B2qH) | 3:43 |
 | 53 | [この世界に国が無かったら](https://open.spotify.com/track/129vY7oCXRRzEeb8PETl6H) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [この世界に国が無かったら](https://open.spotify.com/album/3xew462pPgsDMWwwCC5lut) | 4:19 |
-| 54 | [アイモライモ](https://open.spotify.com/track/5d0dz0ekefZ243cWDGiDJ1) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [アイモライモ](https://open.spotify.com/album/0G2Dn7aEZSIcWu9UxE7kLC) | 4:15 |
+| 54 | [アイモライモ \- Aimoraimo](https://open.spotify.com/track/5d0dz0ekefZ243cWDGiDJ1) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [アイモライモ \- Aimoraimo](https://open.spotify.com/album/0G2Dn7aEZSIcWu9UxE7kLC) | 4:15 |
 | 55 | [僕らしさ](https://open.spotify.com/track/2ZwS4OtnNImLucRnYQRMH6) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [僕らしさ](https://open.spotify.com/album/3CKYnctlDRNi4XqHGSfSqL) | 4:08 |
 | 56 | [GORILLA芝居](https://open.spotify.com/track/5J9T9da4CFU5fFiFqD8oaL) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [GORILLA芝居](https://open.spotify.com/album/3n23xpy9vCaYbmTEThzyLd) | 3:10 |
 | 57 | [かけ足族](https://open.spotify.com/track/0EwMvWJ6fLhdLL9g8inLVd) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [かけ足族](https://open.spotify.com/album/51HCqHLyaE6sAsZ5QhJKzn) | 3:44 |

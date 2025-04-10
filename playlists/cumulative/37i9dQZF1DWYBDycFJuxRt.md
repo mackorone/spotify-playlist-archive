@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: Mrs\. GREEN APPLE \*👉 <a href="https://spice.eplus.jp/articles/336775">SPICE連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: Mrs\. GREEN APPLE \*👉 <a href="https://spice.eplus.jp/articles/336715">SPICE連動記事</a>をSPICEでチェック!
 
-10,117 songs - 26 day 6 hr 54 min
+10,120 songs - 26 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [2025/3/26 m\-floが鈴木真海子を迎えた新曲をリリース！千葉雄喜のニューアルバムも！音田雅則のEPやFirst Love is Never Returnedの新曲もピックアップ！『Spotify Early Noise Night \#17』で行ったアーティストインタビューもあり！](https://open.spotify.com/episode/5EUutpzn0LRofTqti5rRPD) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 43:04 | 2025-03-26 | 2025-04-02 |
 | [2025/3/5 AAAMYYYが鎮座DOPENESSとNeetzを迎えた新曲をリリース！女王蜂のニューアルバムも！君島大空のニューEP、G\-k.i.dのソロ新曲、冨田ラボの新曲もピックアップ！この1週間の音楽ニュースも深堀り！](https://open.spotify.com/episode/0T6FmQgdyXosPxc3EqnOFg) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 21:11 | 2025-03-05 | 2025-03-12 |
 | [2025/4/2 LANAがカバー！HANAのメジャーデビューソングも！Young Cocoのニューアルバム、JO1のベスト・アルバム、デビュー45周年を迎えた松田聖子の新曲もリリースに！](https://open.spotify.com/episode/6A2CpC1KzxagbuS5DSzEnp) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 24:27 | 2025-04-02 | 2025-04-09 |
+| [2025/4/9 Mrs\. GREEN APPLEが新曲をリリースしてカバーに！Adoからメッセージも到着！！友成空、離婚伝説、幾田りらの新曲も！MC TYSONのニューEPもピックアップ！](https://open.spotify.com/episode/1ijtLjWEbFaAEOr8Z7rlog) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 27:17 | 2025-04-09 |  |
 | [2050](https://open.spotify.com/track/3pgZdp4flHiLgSypRW2vp0) | [Sora](https://open.spotify.com/artist/0WP3McNC0NO0pphoGZT3N3) | [Imperfect](https://open.spotify.com/album/1SOIce6PxOz5T4VN44Indf) | 3:00 | 2024-12-03 | 2024-12-11 |
 | [21 century boys](https://open.spotify.com/track/7kc8nCrpr6DsKSlwGgTSFW) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [21 century boys](https://open.spotify.com/album/4gnKy7HSkQtk8kxs6FR50j) | 3:09 | 2024-11-13 | 2024-11-20 |
 | [21st Century Nostalgia \(grand finale with our big band\)](https://open.spotify.com/track/0t6GDvannAPMhpYV9KQvhd) | [Dos Monos](https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv) | [DMAN \[excerpt\]](https://open.spotify.com/album/4NQWLV27zjKf450cF0HtGp) | 5:12 | 2023-09-12 | 2023-09-14 |
@@ -3653,6 +3654,7 @@
 | [Merry Christmas Go Round](https://open.spotify.com/track/53DC5dXvBfdivpPQW94sxV) | [Kumiko Yamashita](https://open.spotify.com/artist/71seUToXIp7TazEx9MijWt), [Yoshiyuki Osawa](https://open.spotify.com/artist/6q2ER3oBZtM5EvmDoUz8ek) | [Merry Christmas Go Round](https://open.spotify.com/album/2BIw2cajVetV4ouWiKh9Aq) | 4:10 | 2023-11-28 | 2023-12-06 |
 | [Merry Go Run!](https://open.spotify.com/track/4QDP1G5xcxPutT3xt37Eqv) | [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [Merry Go Run!](https://open.spotify.com/album/2dnyp1cD37XFlYAwAtm5xZ) | 1:07 | 2024-07-09 | 2024-07-17 |
 | [merry\-go\-round](https://open.spotify.com/track/4RDjRmWez2gryxtIO2Attf) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [merry\-go\-round](https://open.spotify.com/album/2fGBPXYiquxrRt3fYcRpyt) | 3:09 | 2023-05-02 | 2023-05-10 |
+| [Mess](https://open.spotify.com/track/0Sccj6S9qYCEdxHudsQjbB) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Mess](https://open.spotify.com/album/61A7SvHGdA1o1gORuj01vx) | 2:33 | 2025-04-09 |  |
 | [Mess It Up](https://open.spotify.com/track/0Ag6LNrSfJVKRhGzD7ArDq) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 4:03 | 2023-10-24 | 2023-11-01 |
 | [Messages that don't reach you](https://open.spotify.com/track/59IEVzGqH7942VwaRP4DIp) | [小山田壮平](https://open.spotify.com/artist/7zEZK9uCPiycLqxQ9Ine4v) | [Messages that don't reach you](https://open.spotify.com/album/7yH7OsvM7a11HaCOb68azC) | 4:07 | 2023-11-10 | 2023-11-16 |
 | [Metamorphose Love](https://open.spotify.com/track/0VncsWhl0k2xzwAScprYXL) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Metamorphose Love](https://open.spotify.com/album/3g7x2FtL9c2N5d4p9y7EUb) | 2:40 | 2023-11-28 | 2023-12-02 |
@@ -4177,6 +4179,7 @@
 | [Oh Baby](https://open.spotify.com/track/07u3NefB8uoyXaodhkIaEH) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [Oh Baby](https://open.spotify.com/album/4mEjkhOzS5pRCjOlaiyQVj) | 4:13 | 2024-02-07 | 2024-02-14 |
 | [Oh Baby](https://open.spotify.com/track/0NutSBugy23p6qZrqFzx6P) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [Oh Baby](https://open.spotify.com/album/6a3sfW2toT55Z7N67b6GWI) | 4:13 | 2024-02-06 | 2024-02-08 |
 | [Oh France](https://open.spotify.com/track/7cSIjeWP5DTpoKWka988IW) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Oh France](https://open.spotify.com/album/5YREluP9Wz4gG4C5aJXuPS) | 5:40 | 2024-04-30 | 2024-05-08 |
+| [Oh My](https://open.spotify.com/track/1rTMIstU7GaHqRyYlPrHGd) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Oh My](https://open.spotify.com/album/5wSh6Aw0IamviaLSPnW7vV) | 2:58 | 2025-04-09 |  |
 | [Oh My Friend](https://open.spotify.com/track/6XW9nzztixkSIUDjnrFFCy) | [ELIONE](https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg) | [Oh My Friend](https://open.spotify.com/album/3MLEqoLHPMLSNAO0x5pBGq) | 3:03 | 2023-08-15 | 2023-08-23 |
 | [OH MY LITTLE GIRL](https://open.spotify.com/track/5Fw1pWC0KDy1wSoDqrFtj9) | [Hiroya Ozaki](https://open.spotify.com/artist/1s014jFLnQ8bmkSrioenmP) | [I LOVE YOU](https://open.spotify.com/album/0YBh18XOclkZUtygC5TrVm) | 4:12 | 2023-04-04 | 2023-04-12 |
 | [Oh Mymy : 7s](https://open.spotify.com/track/0oasRG0i7nOHdj6sIe6B80) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Oh Mymy : 7s](https://open.spotify.com/album/4JxcTD9gDjCRbZPhDVoD40) | 3:09 | 2024-01-02 | 2024-01-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbaWqbikgQLL.md) - [plain]
 
 > Antes de entrar, permita salir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,396 likes - 150 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,507 likes - 150 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,12 +150,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbaWqbikgQLL.md) - [plain]
 | 140 | [Echarme Al Olvido](https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 4:40 |
 | 141 | [De Punta a Punta](https://open.spotify.com/track/1nB9ydATeeVCG3wrre1jcH) | [Grupo Caneo](https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z) | [Original](https://open.spotify.com/album/10qbEhy86blV66VOIVuxw6) | 4:25 |
 | 142 | [El Baile De San Juan](https://open.spotify.com/track/3OWgaoLMcjnF6RRbzZrS7O) | [Grupo La Chomba](https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd) | [Con Musica Del Barrio y Para El Barrio](https://open.spotify.com/album/35L0etvGB9w2whJfmkkXQo) | 4:14 |
-| 143 | [Como Decirte Adios](https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP) | 3:27 |
+| 143 | [Vida No Te Vayas](https://open.spotify.com/track/5Kai2HEyMEN12TyndhDyZn) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP) | 3:48 |
 | 144 | [Vuelve](https://open.spotify.com/track/0kVzYM0q4PvXrgaHOC1ptA) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [A Punta de Maiz](https://open.spotify.com/album/4Y2SBLeuq5TutVy7DLlr2V) | 4:10 |
 | 145 | [Manos de Tijera](https://open.spotify.com/track/5bbDOmtSTUeAmzYDUv8eVF) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Manos de Tijera](https://open.spotify.com/album/6ZgE3A6SXIPCEvhVpLOwv9) | 3:50 |
 | 146 | [Vuelvo A Sentir](https://open.spotify.com/track/7mjrsSbmQfubagRLXUTVWR) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Hasta El Cielo Lloro](https://open.spotify.com/album/3G1iT3WpIqCqUOtkbVF1d6) | 5:26 |
 | 147 | [Agua de vida](https://open.spotify.com/track/4R6WYoefcvItKOQWbCWybg) | [Perla Colombiana](https://open.spotify.com/artist/28DMUdkRLYzfNz8Jb6mU14) | [La Perla Colombiana 20 Exitos \(Vol 1\)](https://open.spotify.com/album/1boTDcBDk41mklPCQTQfnu) | 3:38 |
-| 148 | [Vida No Te Vayas](https://open.spotify.com/track/5Kai2HEyMEN12TyndhDyZn) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP) | 3:48 |
+| 148 | [Como Decirte Adios](https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP) | 3:27 |
 | 149 | [Sin Escencia](https://open.spotify.com/track/0melfsWB5kH1Rp18yJZErZ) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Sin Escencia](https://open.spotify.com/album/4R0NvUV66W5XL4ckvvfzSk) | 3:15 |
 | 150 | [Ella Se Olvido De Mí](https://open.spotify.com/track/5eFByyYnqWv7euW1wTGUle) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Nunca Te Olvidaré](https://open.spotify.com/album/45zzHjXdJoNXKFLysKLj88) | 3:25 |
 

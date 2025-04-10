@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZDMxPJhrYOE.md) - [plain]
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,088 likes - 79 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,087 likes - 79 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZDMxPJhrYOE.md) - [plain]
 | 78 | [Gucci Mane](https://open.spotify.com/track/4uK4BCS6H19pOAknY1qj0K) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Gucci Mane](https://open.spotify.com/album/6ixnfAvvM9Wdjb0hEPIUIW) | 2:46 |
 | 79 | [Lifeline](https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Lifeline](https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ) | 3:19 |
 
-Snapshot ID: `Z++PMQAAAACb/3h1Lcrit3WHlQloux/8`
+Snapshot ID: `Z/Z0dgAAAAAmBUi887bqDx0H/A2ctEAQ`

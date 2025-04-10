@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,320 likes - 496 songs - 1 day 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,339 likes - 496 songs - 1 day 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -245,8 +245,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 235 | [I Love You](https://open.spotify.com/track/1Tl0YVT3Br2AIqYT3VlEdo) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 4:02 |
 | 236 | [Killing Me](https://open.spotify.com/track/2TjBKnjnOXFaF2zy4W4hfE) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 3:24 |
 | 237 | [Just Sing](https://open.spotify.com/track/0ZjmrnH5Uh4WD1L29NTcUs) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Kenan Thompson](https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8) | 3:41 |
-| 238 | [For Now](https://open.spotify.com/track/2kVIolfEUjIiYDEPZLTQHg) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 3:36 |
-| 239 | [Lonely Dancers](https://open.spotify.com/track/2zg5ClMcmqNIBrHATdxftp) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:28 |
+| 238 | [Lonely Dancers](https://open.spotify.com/track/2zg5ClMcmqNIBrHATdxftp) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:28 |
+| 239 | [For Now](https://open.spotify.com/track/2kVIolfEUjIiYDEPZLTQHg) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 3:36 |
 | 240 | [Vacation](https://open.spotify.com/track/326ICMkp2gWSYcJdba9s7d) | [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [Vacation](https://open.spotify.com/album/1CPu7lwOIp84AQyBtQvbpg) | 3:37 |
 | 241 | [Love Me](https://open.spotify.com/track/2lrMNui7pK7P7KDWrp86Ru) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:52 |
 | 242 | [IF NOT FOR YOU](https://open.spotify.com/track/5UdJ8CYTtVk5zzqhbPMA18) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 3:14 |
@@ -348,8 +348,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 338 | [The Final Fight](https://open.spotify.com/track/1sTUyx1NWS3eAjnlUF7EXW) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:09 |
 | 339 | [Do You Know \(What It Takes\)](https://open.spotify.com/track/0Sqt1gf2esR4hU6OVxO1WN) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Robyn Is Here](https://open.spotify.com/album/3cGycfFRPPd5uCxVkn284R) | 3:42 |
 | 340 | [Wherever You Are](https://open.spotify.com/track/1gztpRMA4iqfMdgxzZ51zZ) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 3:58 |
-| 341 | [Only Wanna Dance With You](https://open.spotify.com/track/63O2cn53Bo4k8pEui4LtQR) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 3:31 |
-| 342 | [Can't Make You Love Me](https://open.spotify.com/track/7pY6xLJqmezJNG7VwuKVSH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:17 |
+| 341 | [Can't Make You Love Me](https://open.spotify.com/track/7pY6xLJqmezJNG7VwuKVSH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:17 |
+| 342 | [Only Wanna Dance With You](https://open.spotify.com/track/63O2cn53Bo4k8pEui4LtQR) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 3:31 |
 | 343 | [Seal It with a Kiss](https://open.spotify.com/track/1gilYs9AY8a75q275GTkiY) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:26 |
 | 344 | [I Will Be There](https://open.spotify.com/track/2I320CTP7hYFTtiFo1H6CD) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:53 |
 | 345 | [A Beautiful Game](https://open.spotify.com/track/3j2KSKjenkrIsnoANPxV7V) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Beautiful Game](https://open.spotify.com/album/2yFLu758P5VjG5ZyyHGSrp) | 3:35 |
@@ -479,8 +479,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 469 | [I'm Better](https://open.spotify.com/track/7frqS6t7YaHnzPbDRKOsW7) | [Ashley Parker Angel](https://open.spotify.com/artist/1wLeBWSGyI3mnTeiDAcgjP) | [Soundtrack To Your Life](https://open.spotify.com/album/5mES955VGLh9er8nmXl783) | 3:20 |
 | 470 | [Thorn](https://open.spotify.com/track/78uME4aFJoT1BloV3e7UUv) | [PENDANT](https://open.spotify.com/artist/74CRTyWu8f12Q53YI7imH0) | [Harp](https://open.spotify.com/album/5P1yXZWsr92TBR1yxswv4t) | 2:57 |
 | 471 | [Turned And Walked Away](https://open.spotify.com/track/61MlDHGAOqhHjCAdEIL111) | [Jessica Folcker](https://open.spotify.com/artist/3T785XgAciwkJGoPt1nMEU) | [Jessica](https://open.spotify.com/album/3pU2AEckDWc4rW1Ekwuuos) | 3:54 |
-| 472 | [I'm Your Man](https://open.spotify.com/track/7Fm4SYNLuVJnarqdsS9WSc) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [Like a Bolt \(Expanded Version\)](https://open.spotify.com/album/6UyKbiYOZN8QI6Nqv7RPo4) | 2:26 |
-| 473 | [Everything but You](https://open.spotify.com/track/0Ev9jxRhaY7YzxSh2fhMWj) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:39 |
+| 472 | [Everything but You](https://open.spotify.com/track/0Ev9jxRhaY7YzxSh2fhMWj) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:39 |
+| 473 | [I'm Your Man](https://open.spotify.com/track/7Fm4SYNLuVJnarqdsS9WSc) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [Like a Bolt \(Expanded Version\)](https://open.spotify.com/album/6UyKbiYOZN8QI6Nqv7RPo4) | 2:26 |
 | 474 | [A Little Bit Longer](https://open.spotify.com/track/1hD39GbLRI1pscvIPIkYwQ) | [Jessica Folcker](https://open.spotify.com/artist/3T785XgAciwkJGoPt1nMEU) | [Jessica](https://open.spotify.com/album/3pU2AEckDWc4rW1Ekwuuos) | 4:05 |
 | 475 | [Himbo](https://open.spotify.com/track/3HSFAKNYeE4zkJXSImeARc) | [Allysandra](https://open.spotify.com/artist/7ckTogytPcreun2wsxz07e) | [Himbo](https://open.spotify.com/album/7InhiTCnbpBGdsEKbn6mHN) | 3:24 |
 | 476 | [Lie...It's Alright](https://open.spotify.com/track/2WXfnVVF6PnNDo6FwUIIu5) | [Bo Bice](https://open.spotify.com/artist/2Q1FIPavG8WZF33kqIP3sy) | [The Real Thing](https://open.spotify.com/album/4g0TGHOAnACPsqCwSoOR4m) | 3:29 |
@@ -505,4 +505,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 495 | [Io Non Piango Più](https://open.spotify.com/track/6dVtYE87ODIScZkBLM6nX8) | [Clara Moroni](https://open.spotify.com/artist/1xIa0kM33TSTfQvIeC7Ib8) | [Bambina Brava](https://open.spotify.com/album/4ELJA6fChKI9P7HeuP55gj) | 3:30 |
 | 496 | [Sem Explicacao](https://open.spotify.com/track/00wBx311oIwxJOHVvnybUt) | [Lucas Nathan](https://open.spotify.com/artist/6GBgcZEko9Nn4WJ3NSyVMb) | [Pra Beber 100 Moderacao](https://open.spotify.com/album/4gdu51udpSof8dbMWdQMKm) | 2:56 |
 
-Snapshot ID: `AbuQigAAAAA1mWg4pz4rkzKAfLk6pXEW`
+Snapshot ID: `AbuWKgAAAAA+CRlTYcCoEItAfhUsjVLm`

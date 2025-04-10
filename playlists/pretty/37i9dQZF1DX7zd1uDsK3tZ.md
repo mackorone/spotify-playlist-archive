@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zd1uDsK3tZ.md) - [plain]
 
 > Classic tunes served over easy for the perfect brunch soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,413 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,458 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

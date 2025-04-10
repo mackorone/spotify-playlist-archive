@@ -880,7 +880,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 388266,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/0nLiqZ6A27jJri2VCalIUs"
@@ -906,6 +906,24 @@
       "duration_ms": 86906,
       "name": "Nothing Else Matters - Jungle Cruise Version Part 1",
       "url": "https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np"
+    },
+    {
+      "album": {
+        "name": "Metallica (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/7h5xn0Olvx2p0eQcSt1Osy"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388733,
+      "name": "Nothing Else Matters - Remastered 2021",
+      "url": "https://open.spotify.com/track/6QAsrXPnMSXIbV0yEJHlEX"
     },
     {
       "album": {
@@ -1068,10 +1086,28 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 324600,
       "name": "Sad But True (Remastered)",
       "url": "https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi"
+    },
+    {
+      "album": {
+        "name": "Metallica (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/7h5xn0Olvx2p0eQcSt1Osy"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324600,
+      "name": "Sad But True - Remastered 2021",
+      "url": "https://open.spotify.com/track/5ltXoDLlI0rFZAmOXbAp5T"
     },
     {
       "album": {

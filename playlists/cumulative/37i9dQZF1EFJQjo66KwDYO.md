@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4md41gWw4iHeQrueXkPBmc">Dyo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-67 songs - 3 hr 26 min
+69 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [All Of Me](https://open.spotify.com/track/1puuLNsoHPRSyrMGQjY0wI) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Jupiter](https://open.spotify.com/album/66HcLnKvY2NUrUta3OduYH) | 2:45 | 2025-03-14 |  |
 | [Already Know](https://open.spotify.com/track/6OaLMeC2dKySw0lYyMoXo3) | [23 Unofficial](https://open.spotify.com/artist/3wvA1LQHLvXmkPFm3WtSrI), [Tayá](https://open.spotify.com/artist/0QHXPsTQVqvNPfK6edjInM) | [The Unofficial Album](https://open.spotify.com/album/5s8cSWiL3tx1ijNoJRwDm2) | 3:04 | 2024-08-07 |  |
 | [Arena \(feat\. Adekunle Gold\) \- Remix](https://open.spotify.com/track/1SUYyb19XaRPXJh9nfLoW0) | [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Arena \(feat\. Adekunle Gold\) \[Remix\]](https://open.spotify.com/album/2pbAobwTic4qoJQzjkNnwt) | 3:24 | 2024-08-07 |  |
+| [BACK to YOU](https://open.spotify.com/track/4Oh1zkPShpImBJOBOKMMAq) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:35 | 2025-04-09 |  |
 | [Bad Vibe](https://open.spotify.com/track/3HATF0OPbTWWy5TPz8KiAu) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Lotto Boyzz](https://open.spotify.com/artist/6TlhWcs3imNDmxFviZjpDX), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Modus Operandi](https://open.spotify.com/album/16JYdERnBWMgtLL7JEluUq) | 3:34 | 2024-08-07 |  |
 | [Bounce](https://open.spotify.com/track/2EYuXHbbhNY1R8ORtWp6gl) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [The New Classic \(Deluxe Version\)](https://open.spotify.com/album/3WUe1HRgE7qoUQ3oejofGf) | 2:47 | 2024-08-07 |  |
 | [Boyz \(feat\. Nicki Minaj\)](https://open.spotify.com/track/59nbIJxGb1qkrzbtTomZkL) | [Jesy Nelson](https://open.spotify.com/artist/73KwqWuob0R53I14Vs56p9), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Boyz \(feat\. Nicki Minaj\)](https://open.spotify.com/album/4ShgsMHEHPPLI6Dk16HNF1) | 2:59 | 2024-08-07 |  |
@@ -46,6 +47,7 @@
 | [Lucky](https://open.spotify.com/track/2qecwrQGKIj7IBfnhPSJ2U) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [FEARLESS](https://open.spotify.com/album/1K6Ysz8y164For9ImmTMtO) | 3:35 | 2024-08-07 |  |
 | [Mama](https://open.spotify.com/track/3vvvxijSiLemsZPIZGFpo4) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Mama](https://open.spotify.com/album/6WKDuSqrkMtRFovi21Zp9g) | 3:07 | 2024-08-07 |  |
 | [Mind Games \(feat\. Dyo\) \- Nora En Pure Remix](https://open.spotify.com/track/4pHRsGz9MFonG9qTEOil6x) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb) | [Mind Games \(feat\. Dyo\) \[Remixes\]](https://open.spotify.com/album/2tNGz9Nq2r90oZ0yRU8NhI) | 3:49 | 2024-08-07 |  |
+| [My Love \(feat\. Ayra Starr and BEAM\) \- Crate Classics Remix](https://open.spotify.com/track/10Nro5eWjwoG71jVE7J79L) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx) | [My Love \(feat\. Ayra Starr\) \[Remixes\]](https://open.spotify.com/album/098hyxuLtCjLSY0UkmGVfu) | 3:02 | 2025-04-09 |  |
 | [My Love \(feat\. Ayra Starr\)](https://open.spotify.com/track/2XOJCFJ6Wig25fnEjxtSsR) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Love \(feat\. Ayra Starr\)](https://open.spotify.com/album/6uIz2uaQPu5UjOUm5d8dIm) | 2:56 | 2024-08-07 |  |
 | [My Man](https://open.spotify.com/track/4tK0GeX97WbX4jgf1EIGOL) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [My Man](https://open.spotify.com/album/6WVs3cfYvBdZVRYqZjfNmg) | 2:07 | 2024-08-18 |  |
 | [Name On It \(feat\. Burna Boy\)](https://open.spotify.com/track/6wQugAr2CdLrjvACWNSvv5) | [Four of Diamonds](https://open.spotify.com/artist/42qq1SQuTH1AT2daN3fLMt), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Name On It](https://open.spotify.com/album/71UHFVp0KFVh3T1JrpKkQV) | 3:34 | 2024-08-07 |  |

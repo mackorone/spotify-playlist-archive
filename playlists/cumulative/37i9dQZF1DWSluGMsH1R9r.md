@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-736 songs - 1 day 7 hr 32 min
+737 songs - 1 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [A passing season](https://open.spotify.com/track/0kcNgvxO5miMzPqkFYoeqK) | [Rowan Guthrie](https://open.spotify.com/artist/5UZOjfjGjEFQ5v3HGf02YG) | [A passing season](https://open.spotify.com/album/7uFAhV4JjbE5B7xgvxYTx7) | 2:55 | 2024-03-05 |  |
 | [A Recurring Theme](https://open.spotify.com/track/51K71t2Sk90AVbjVsBcorb) | [Cyril Mathews](https://open.spotify.com/artist/4PNqVcgrU4LxwS3GwrC4ax) | [A Recurring Theme](https://open.spotify.com/album/50lTjBe11glVo3YvOemGsH) | 2:40 | 2021-12-07 | 2022-04-08 |
 | [A Song in D Minor](https://open.spotify.com/track/1EA7xsn5BkqM4rwZCaSiTM) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [A Song in D Minor](https://open.spotify.com/album/62MuvulljSXeo7VowDXfEX) | 3:23 | 2023-01-26 |  |
-| [A tale to tell](https://open.spotify.com/track/1b1A6Z7pI8myEX3TSyweOk) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [A tale to tell](https://open.spotify.com/album/0eaPaXCdf4G33QFO93cfXc) | 2:10 | 2023-07-24 |  |
+| [A tale to tell](https://open.spotify.com/track/1b1A6Z7pI8myEX3TSyweOk) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [A tale to tell](https://open.spotify.com/album/0eaPaXCdf4G33QFO93cfXc) | 2:10 | 2023-07-24 | 2025-04-10 |
 | [A Tough Hand](https://open.spotify.com/track/4UYSLzyr0ONAmb9MapOruJ) | [Solemn Whisper](https://open.spotify.com/artist/0gAUfRBZD1mQlq6QaaJnPq) | [A Tough Hand](https://open.spotify.com/album/24rSOZgo1sJvLCmoRXelVe) | 2:27 | 2021-12-07 | 2025-02-19 |
 | [A Walk by the River](https://open.spotify.com/track/1UK81gd31XvoQmDWVFlmWP) | [Halgeir Nielsen](https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh) | [A Walk by the River](https://open.spotify.com/album/5Peob5RmIHgQaQ0QvXoYPG) | 2:16 | 2024-10-01 | 2025-03-19 |
 | [A Winged Time](https://open.spotify.com/track/26RTd4wqzRGUAAC2XoOAa4) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Out Of The Blue](https://open.spotify.com/album/7wl0ULSaII6WDHhVUMvmAc) | 2:00 | 2021-12-07 | 2025-02-19 |
@@ -247,7 +247,7 @@
 | [Gratitude](https://open.spotify.com/track/05RikarvGDzw4HktIAxxKR) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Gratitude](https://open.spotify.com/album/2gZdEJzgzP0PYSso7gILsX) | 2:13 | 2021-12-07 | 2025-02-19 |
 | [Growth](https://open.spotify.com/track/0qLSBrPZWS7vq9nYo6tcIe) | [Jonas Gewald](https://open.spotify.com/artist/53k1kqkyCUpbJMK93MBxxc) | [Growth](https://open.spotify.com/album/680N4M21R3aq1pcyKmJ7Mt) | 2:43 | 2021-12-07 | 2024-11-06 |
 | [Halcyon](https://open.spotify.com/track/2PEiFFvNyMykLb2wxnvBfv) | [Laila Lawson](https://open.spotify.com/artist/7FkVtLkKm15RmW66X3x23z) | [Halcyon & Safe Havens](https://open.spotify.com/album/0nl8ijx6L3t2QVaA05GLCp) | 3:02 | 2022-02-01 | 2022-12-24 |
-| [Hammock](https://open.spotify.com/track/7LTVGmS15JBwO11pTS4ykt) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [Hammock](https://open.spotify.com/album/02duehzy4k0kc3iDwoLVkr) | 2:06 | 2023-02-06 |  |
+| [Hammock](https://open.spotify.com/track/7LTVGmS15JBwO11pTS4ykt) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [Hammock](https://open.spotify.com/album/02duehzy4k0kc3iDwoLVkr) | 2:06 | 2023-02-06 | 2025-04-10 |
 | [Hansa](https://open.spotify.com/track/71WIo1goJLTt41X5CuxxOd) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Hansa](https://open.spotify.com/album/1jyTlVuLLPVtmCYGXfBsj7) | 2:43 | 2021-12-07 | 2025-02-27 |
 | [Haze](https://open.spotify.com/track/0eKrfTBCTXCvKMvwffIiFP) | [Benito Hidaka](https://open.spotify.com/artist/4UyhrqbotqTVu12QkpsQWg) | [Haze](https://open.spotify.com/album/3TmuG0POkrpP8Ulcu3n977) | 2:33 | 2021-12-07 | 2025-02-19 |
 | [Healing](https://open.spotify.com/track/2e68vzuzRv3GFUtYDO7NBE) | [Mima Renard](https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4) | [Healing](https://open.spotify.com/album/2DrvBABoXgq25yR3hNIFBP) | 2:06 | 2023-05-19 |  |
@@ -264,7 +264,7 @@
 | [Homestead](https://open.spotify.com/track/2yZU1Y2Zagb4Ymm5gK72ab) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Homestead](https://open.spotify.com/album/2FSycLXewsbnvoqm6F5oKv) | 2:42 | 2022-03-01 | 2022-07-16 |
 | [Hope \(Felt\)](https://open.spotify.com/track/21S4oSMiR9K07kurcMTvgv) | [Danilo Stankovic](https://open.spotify.com/artist/656DEjf8bYlGw2DqBj28qz) | [Evoke](https://open.spotify.com/album/6drwsG0RvJaxNUS0oIz1c4) | 1:52 | 2021-12-07 | 2023-07-25 |
 | [Hope Remains](https://open.spotify.com/track/5MNa6Zx5BvwO1YeXxb0W04) | [Noomi Meerbach](https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh) | [Hope Remains](https://open.spotify.com/album/5qWrilEui29XPFmyE9Agqk) | 2:49 | 2025-03-21 |  |
-| [House of the Rising Sun](https://open.spotify.com/track/6exjuFon5neQuOyrqVoBgQ) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [House of the Rising Sun](https://open.spotify.com/album/3SAkKz7Km8eVzgnKk1bsPW) | 2:18 | 2024-11-12 |  |
+| [House of the Rising Sun](https://open.spotify.com/track/6exjuFon5neQuOyrqVoBgQ) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [House of the Rising Sun](https://open.spotify.com/album/3SAkKz7Km8eVzgnKk1bsPW) | 2:18 | 2024-11-12 | 2025-04-10 |
 | [How It Is](https://open.spotify.com/track/7ekVkcI3ZD4YJbbxpq9mPR) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [How It Is](https://open.spotify.com/album/7qF2w24bghB6K5g3DLXqw3) | 2:05 | 2022-02-15 |  |
 | [How You're Remembered](https://open.spotify.com/track/2NHgyCHFDydecMMa57BcWP) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [How You're Remembered](https://open.spotify.com/album/6Wvn6npRvkS4KoGKZDfwOH) | 3:10 | 2021-12-07 | 2024-04-04 |
 | [Howthian](https://open.spotify.com/track/7Ifj1BA2mFHr1FmCxV9p1M) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Howthian](https://open.spotify.com/album/3eDvXFQzvzaRxRMdAss0vn) | 2:24 | 2022-01-04 |  |
@@ -432,6 +432,7 @@
 | [Nebelschleier](https://open.spotify.com/track/6GsRRJRItgJZSFT1USSH1A) | [Torsten Friedrich](https://open.spotify.com/artist/4iE9nQEjk0R2eebGwY5Uyj) | [Das Rosenblatt](https://open.spotify.com/album/3cn9ZaAr8dW2oBrBu898me) | 3:11 | 2022-02-01 | 2023-01-27 |
 | [Never Give In](https://open.spotify.com/track/7GghRfjTGCxYDnYo0OVRM3) | [Irma Kantola](https://open.spotify.com/artist/7eP5EaPos8EeIsG7UJfEVP) | [Never Give In](https://open.spotify.com/album/43mYROp7H0H6Ynbi1zVbyY) | 3:05 | 2021-12-07 | 2024-04-04 |
 | [Never Unsaid](https://open.spotify.com/track/1zG58ldyABiNx05Brxkktd) | [Aleisha Millar](https://open.spotify.com/artist/2a2JENyvbHLDEeMCbAKjl4) | [Never Unsaid](https://open.spotify.com/album/0Nfqe5WLzyIhIULRpci5sP) | 2:17 | 2021-12-07 | 2024-03-20 |
+| [New Spring](https://open.spotify.com/track/5WPwpkbt3BypWfLQ33gHIS) | [Ana Grieg](https://open.spotify.com/artist/31I6JRMXs6v6lUnvUdbi5H) | [New Spring](https://open.spotify.com/album/6Pr066uYJSXjLGJKpyjjos) | 2:26 | 2025-04-09 |  |
 | [Night Light](https://open.spotify.com/track/7LLLc3Gxg6zRm9lKtmuCGR) | [Jonathan Beaujean](https://open.spotify.com/artist/02L0LCjnSfGqoP3dBRNxei) | [Night Light](https://open.spotify.com/album/6NOESzKosiokfmEwXfZOnX) | 2:09 | 2021-12-07 | 2025-02-19 |
 | [Night Solace](https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Night Solace](https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF) | 2:41 | 2022-03-01 | 2022-09-15 |
 | [Night Walk](https://open.spotify.com/track/0ePG8cXgoLfOqVYVX8Ju6a) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Night Walk](https://open.spotify.com/album/3Y6dLdTnXxiIhDKFmlTPYw) | 2:20 | 2021-12-07 | 2022-02-16 |
@@ -464,7 +465,7 @@
 | [Opening Up](https://open.spotify.com/track/3qROrX6c2jW9lArTRnAKGf) | [Gideon Lewis](https://open.spotify.com/artist/1zvwcVO4fIwapze8BZl7nH) | [Opening Up](https://open.spotify.com/album/4tgCcjOjG3NsPnndyqrdLP) | 2:27 | 2021-12-07 | 2022-07-16 |
 | [Opportunity Knocks](https://open.spotify.com/track/1T81HdwFZ2bzZYBFZ6tc13) | [John Deigen](https://open.spotify.com/artist/15uysw3q7CD404iYaCUxs3) | [Opportunity Knocks](https://open.spotify.com/album/1FU0Aw1hWxy8SHBsMV5zd2) | 2:29 | 2021-12-07 | 2022-04-21 |
 | [Opus 5](https://open.spotify.com/track/3kkgprUeiPDV0nDQerhq9h) | [Karol Seifert](https://open.spotify.com/artist/3IQYEJG6lpSmC3r4NfWB9m) | [Opus 5](https://open.spotify.com/album/264MR7dpX3eMMMctQ26xRz) | 2:45 | 2022-02-15 | 2025-02-27 |
-| [Our Time Will Come](https://open.spotify.com/track/1z4bpvqPgnfUg9fkykQp0D) | [Tim Karlsen](https://open.spotify.com/artist/3I0dZZLw0lTrptPX7nNc59) | [Our Time Will Come](https://open.spotify.com/album/2CrrbexAFC9h2NUTLveyt5) | 2:34 | 2023-09-18 |  |
+| [Our Time Will Come](https://open.spotify.com/track/1z4bpvqPgnfUg9fkykQp0D) | [Tim Karlsen](https://open.spotify.com/artist/3I0dZZLw0lTrptPX7nNc59) | [Our Time Will Come](https://open.spotify.com/album/2CrrbexAFC9h2NUTLveyt5) | 2:34 | 2023-09-18 | 2025-04-10 |
 | [Over and over again](https://open.spotify.com/track/3xsVn4oDC1yAvquezhsGwr) | [NOIR](https://open.spotify.com/artist/1jd7mfHRsQszG278XirWDC) | [Over and over again](https://open.spotify.com/album/19EkqaFNdzEhPyF9YaGDG7) | 2:12 | 2023-01-26 | 2023-10-19 |
 | [Pagnossini](https://open.spotify.com/track/0rYtdfXg99nfq9ZUJS4LwY) | [Pietro Madigan](https://open.spotify.com/artist/3ilaXnCy8JNUWKNvF4GTwW) | [Pagnossini](https://open.spotify.com/album/1BMndjUepTnrweBlHNOQtr) | 2:26 | 2021-12-07 | 2025-01-16 |
 | [Paintings](https://open.spotify.com/track/5ddcsw3fJkGjW67wjjtpu6) | [Esperanza](https://open.spotify.com/artist/24T5i2cT1QSUxliOi5KeJa) | [Paintings](https://open.spotify.com/album/3kwHT5PRLc3T1iHAln18Bi) | 2:35 | 2021-12-07 | 2024-04-19 |

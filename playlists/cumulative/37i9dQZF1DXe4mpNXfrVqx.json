@@ -5,32 +5,6 @@
   "tracks": [
     {
       "album": {
-        "name": "#SV 03 - Ajuliacosta / Esse novinho vai ser meu homem",
-        "url": "https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK"
-      },
-      "artists": [
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/45UuW6QeVHDtgaj05QsWjr"
-        },
-        {
-          "name": "MOVIMENTO",
-          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
-        }
-      ],
-      "date_added": "2024-10-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 111157,
-      "name": "#SV 03 - Ajuliacosta / Esse novinho vai ser meu homem",
-      "url": "https://open.spotify.com/track/1mfJYqL2GDvyVJ525Hj5OW"
-    },
-    {
-      "album": {
         "name": "Fra\u00e7\u00e3o 3/4",
         "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
       },
@@ -4126,6 +4100,32 @@
       "duration_ms": 135268,
       "name": "Sagaz",
       "url": "https://open.spotify.com/track/29bg2slgQdSLT0tjsR95b9"
+    },
+    {
+      "album": {
+        "name": "SALA VERMELHA #03 - Ajuliacosta",
+        "url": "https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK"
+      },
+      "artists": [
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/45UuW6QeVHDtgaj05QsWjr"
+        },
+        {
+          "name": "MOVIMENTO",
+          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111157,
+      "name": "SALA VERMELHA #03 - Ajuliacosta",
+      "url": "https://open.spotify.com/track/1mfJYqL2GDvyVJ525Hj5OW"
     },
     {
       "album": {

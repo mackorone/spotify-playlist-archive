@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 191129,
+  "num_followers": 191161,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/MVgAAAAADiK52Bp4e3D+288iW2SRL3",
+  "snapshot_id": "Z/RnAAAAAAD+0Ok2Kh0gV786HMNukRsB",
   "tracks": [
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 224353,
-      "name": "Island in the Sun - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Weezer (Teal Album)",
         "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 238626,
       "name": "Africa",
       "url": "https://open.spotify.com/track/3ZPKocroJIcnHGcnJVlLKD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 224353,
+      "name": "Island in the Sun - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "Troublemaker",
-      "url": "https://open.spotify.com/track/4r53Y7uKvyXCU7a9dsnb58"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Weezer (Teal Album)",
         "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 145640,
       "name": "Happy Together",
       "url": "https://open.spotify.com/track/3KxOYNt66Hj42HzO7ao0CV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 164693,
+      "name": "Troublemaker",
+      "url": "https://open.spotify.com/track/4r53Y7uKvyXCU7a9dsnb58"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pinkerton - Deluxe Edition",
-        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 118653,
-      "name": "You Gave Your Love To Me Softly",
-      "url": "https://open.spotify.com/track/6nfLKum9Lr2AuLkeDMoJ8e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Weezer (Teal Album)",
         "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 223560,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/1ZB2qWsheGabSEYvBYxjKn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pinkerton - Deluxe Edition",
+        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 118653,
+      "name": "You Gave Your Love To Me Softly",
+      "url": "https://open.spotify.com/track/6nfLKum9Lr2AuLkeDMoJ8e"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pinkerton - Deluxe Edition",
-        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 326293,
-      "name": "Tragic Girl",
-      "url": "https://open.spotify.com/track/2J4Q2WIx3572uZuTTNkCby"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Weezer (Teal Album)",
         "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 244800,
       "name": "Everybody Wants to Rule the World",
       "url": "https://open.spotify.com/track/3gEoKDn0uhb9qqLwC16tly"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pinkerton - Deluxe Edition",
+        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 326293,
+      "name": "Tragic Girl",
+      "url": "https://open.spotify.com/track/2J4Q2WIx3572uZuTTNkCby"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 207760,
-      "name": "Do You Wanna Get High?",
-      "url": "https://open.spotify.com/track/5IJ6rniX2mkT2ITklBSx6a"
+      "duration_ms": 210186,
+      "name": "Thank God for Girls",
+      "url": "https://open.spotify.com/track/5uywMR3hTeVPoWaFDSliJb"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 210186,
-      "name": "Thank God for Girls",
-      "url": "https://open.spotify.com/track/5uywMR3hTeVPoWaFDSliJb"
+      "duration_ms": 207760,
+      "name": "Do You Wanna Get High?",
+      "url": "https://open.spotify.com/track/5IJ6rniX2mkT2ITklBSx6a"
     },
     {
       "added_at": null,

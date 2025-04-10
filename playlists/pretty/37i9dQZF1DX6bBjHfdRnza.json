@@ -1,12 +1,12 @@
 {
   "description": "The best new dance music by independent artists and labels, featuring Harry Hayes. Artwork by Rewina Beshue.",
-  "num_followers": 197501,
+  "num_followers": 197615,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/AsXQAAAAD/psFUsumU+Qv/J2G2GxPD",
+  "snapshot_id": "Z/aw4QAAAAD81hOfkOZ6VruXq2123R2u",
   "tracks": [
     {
       "added_at": "2025-04-04 19:00:45",
@@ -25,20 +25,36 @@
       "url": "https://open.spotify.com/track/6wd4uWCNdQ7t9jEazGq4E1"
     },
     {
-      "added_at": "2025-04-03 15:31:30",
+      "added_at": "2025-04-04 19:00:45",
       "album": {
-        "name": "Want Me",
-        "url": "https://open.spotify.com/album/3NgefgNMEhNrMjCTP0bpRz"
+        "name": "groove that never stops",
+        "url": "https://open.spotify.com/album/6Wtw2L9uDfz1h60LOFDtaZ"
       },
       "artists": [
         {
-          "name": "Gusta",
-          "url": "https://open.spotify.com/artist/1fNsy2CqJXAA2kA0dIPGFS"
+          "name": "Jake Antonio",
+          "url": "https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC"
         }
       ],
-      "duration_ms": 104584,
-      "name": "Want Me",
-      "url": "https://open.spotify.com/track/5VIRD6gREqAeWdqAkPvkrn"
+      "duration_ms": 247384,
+      "name": "groove that never stops",
+      "url": "https://open.spotify.com/track/2WCEzJ2pXmk5Wf6uZEk4ds"
+    },
+    {
+      "added_at": "2025-04-09 17:39:45",
+      "album": {
+        "name": "ZERO SUGAR",
+        "url": "https://open.spotify.com/album/7d8b1OMYV9eVI3kLxhSLt3"
+      },
+      "artists": [
+        {
+          "name": "icykof",
+          "url": "https://open.spotify.com/artist/7isHtMg4cN52S0IkHBIX7j"
+        }
+      ],
+      "duration_ms": 316842,
+      "name": "What She Told Me",
+      "url": "https://open.spotify.com/track/1sWc1cC9hDWPjDJFAVftEV"
     },
     {
       "added_at": "2025-03-21 15:54:40",
@@ -87,6 +103,42 @@
       "duration_ms": 170571,
       "name": "Where Have You Been",
       "url": "https://open.spotify.com/track/2OyestNLBmdbsQJaL9qaVG"
+    },
+    {
+      "added_at": "2025-04-09 17:39:45",
+      "album": {
+        "name": "ON MY MIND",
+        "url": "https://open.spotify.com/album/5SKTcJXX90jtoBy0FD78oQ"
+      },
+      "artists": [
+        {
+          "name": "Dera Meelan",
+          "url": "https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "ON MY MIND",
+      "url": "https://open.spotify.com/track/2OqZZYaBBprhRor4wqKXa8"
+    },
+    {
+      "added_at": "2025-03-12 20:03:32",
+      "album": {
+        "name": "D.O.P.E.",
+        "url": "https://open.spotify.com/album/7GqNwkZzWJhUIndPE7KF4d"
+      },
+      "artists": [
+        {
+          "name": "SLAMM",
+          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
+        },
+        {
+          "name": "Dan Molinari",
+          "url": "https://open.spotify.com/artist/2LXI2TTxPC81l79b2ZGWRE"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "K.E.T. - Amine Mix",
+      "url": "https://open.spotify.com/track/2lHQRWqKnLuFHl52CypW2X"
     },
     {
       "added_at": "2025-04-04 19:00:45",
@@ -141,40 +193,36 @@
       "url": "https://open.spotify.com/track/4GMHG9W3ZPjICGYH1O8mVm"
     },
     {
-      "added_at": "2025-03-12 20:03:32",
+      "added_at": "2025-04-03 15:31:30",
       "album": {
-        "name": "D.O.P.E.",
-        "url": "https://open.spotify.com/album/7GqNwkZzWJhUIndPE7KF4d"
+        "name": "Want Me",
+        "url": "https://open.spotify.com/album/3NgefgNMEhNrMjCTP0bpRz"
       },
       "artists": [
         {
-          "name": "SLAMM",
-          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
-        },
-        {
-          "name": "Dan Molinari",
-          "url": "https://open.spotify.com/artist/2LXI2TTxPC81l79b2ZGWRE"
+          "name": "Gusta",
+          "url": "https://open.spotify.com/artist/1fNsy2CqJXAA2kA0dIPGFS"
         }
       ],
-      "duration_ms": 162461,
-      "name": "K.E.T. - Amine Mix",
-      "url": "https://open.spotify.com/track/2lHQRWqKnLuFHl52CypW2X"
+      "duration_ms": 104584,
+      "name": "Want Me",
+      "url": "https://open.spotify.com/track/5VIRD6gREqAeWdqAkPvkrn"
     },
     {
-      "added_at": "2025-04-04 19:00:45",
+      "added_at": "2025-04-09 17:39:45",
       "album": {
-        "name": "groove that never stops",
-        "url": "https://open.spotify.com/album/6Wtw2L9uDfz1h60LOFDtaZ"
+        "name": "Fun",
+        "url": "https://open.spotify.com/album/1kZhU7o65hxykIDQlYaysm"
       },
       "artists": [
         {
-          "name": "Jake Antonio",
-          "url": "https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC"
+          "name": "Deki Alem",
+          "url": "https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52"
         }
       ],
-      "duration_ms": 247384,
-      "name": "groove that never stops",
-      "url": "https://open.spotify.com/track/2WCEzJ2pXmk5Wf6uZEk4ds"
+      "duration_ms": 188321,
+      "name": "Fun",
+      "url": "https://open.spotify.com/track/7gsYaYvQHjW7x4UzLpCrVo"
     },
     {
       "added_at": "2025-03-28 23:02:04",
@@ -283,6 +331,22 @@
       "duration_ms": 243209,
       "name": "Funky Shit",
       "url": "https://open.spotify.com/track/5IMDW0iiQEeGNs5fnJ6Rol"
+    },
+    {
+      "added_at": "2025-04-09 17:39:45",
+      "album": {
+        "name": "Carmen",
+        "url": "https://open.spotify.com/album/2StTJ73bpHJnBpYJ2Y1tLc"
+      },
+      "artists": [
+        {
+          "name": "Lumia",
+          "url": "https://open.spotify.com/artist/7nxfxSbNTXNc0v5TG4ObSh"
+        }
+      ],
+      "duration_ms": 293953,
+      "name": "Carmen",
+      "url": "https://open.spotify.com/track/1SF2YokKjxrcqcdkLcFj3c"
     },
     {
       "added_at": "2025-01-15 05:00:03",
@@ -1529,30 +1593,6 @@
       "url": "https://open.spotify.com/track/3CuKNFfWrsY3WeI8Y8ikTY"
     },
     {
-      "added_at": "2025-02-12 19:20:57",
-      "album": {
-        "name": "Surrounding Me",
-        "url": "https://open.spotify.com/album/0yghnefiqGecEHVzB8r9Tw"
-      },
-      "artists": [
-        {
-          "name": "Scott Steer",
-          "url": "https://open.spotify.com/artist/2nVUMUFQECMKMRaCdMTO4z"
-        },
-        {
-          "name": "Poppy Wright",
-          "url": "https://open.spotify.com/artist/7av0AJ5afMwtx5Ay0Nv7qS"
-        },
-        {
-          "name": "George Barclay",
-          "url": "https://open.spotify.com/artist/49cigWqLlZRSgaRfxL06yz"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Surrounding Me",
-      "url": "https://open.spotify.com/track/4WofZyq2GwNuqgV3eWXByh"
-    },
-    {
       "added_at": "2025-02-21 05:00:45",
       "album": {
         "name": "Florilegia II",
@@ -1621,42 +1661,6 @@
       "url": "https://open.spotify.com/track/1RCvppFOQsZbFd1yP7Vtxw"
     },
     {
-      "added_at": "2025-02-19 18:46:11",
-      "album": {
-        "name": "Magic Button",
-        "url": "https://open.spotify.com/album/73XYfKCjKDhKhDnk0WlZJC"
-      },
-      "artists": [
-        {
-          "name": "EJ3000",
-          "url": "https://open.spotify.com/artist/6dpX7szxr75uXCxiqhp7Cu"
-        },
-        {
-          "name": "AstroHertz",
-          "url": "https://open.spotify.com/artist/5vaObyIjKlwnyb9PVTtn6c"
-        }
-      ],
-      "duration_ms": 220500,
-      "name": "Magic Button",
-      "url": "https://open.spotify.com/track/4fNtrMEeSAgFYDGWOUDYPs"
-    },
-    {
-      "added_at": "2025-02-28 13:21:20",
-      "album": {
-        "name": "Night Flow",
-        "url": "https://open.spotify.com/album/7LHDihoKUnYjNz2ekeGCNb"
-      },
-      "artists": [
-        {
-          "name": "Storm Mollison",
-          "url": "https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC"
-        }
-      ],
-      "duration_ms": 219250,
-      "name": "Night Flow",
-      "url": "https://open.spotify.com/track/0eWl2ceaBL0G5xTxU1Qjai"
-    },
-    {
       "added_at": "2025-02-14 05:00:40",
       "album": {
         "name": "What U Need",
@@ -1671,22 +1675,6 @@
       "duration_ms": 171231,
       "name": "What U Need",
       "url": "https://open.spotify.com/track/43r1S5zivYZWyHzWKaJivM"
-    },
-    {
-      "added_at": "2025-01-31 05:00:44",
-      "album": {
-        "name": "Freak In The Streets",
-        "url": "https://open.spotify.com/album/2XxsqMNNZPW5sD63JKxwID"
-      },
-      "artists": [
-        {
-          "name": "Darley",
-          "url": "https://open.spotify.com/artist/6ODWCHwaxlbZ1ldPVlJqGD"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Freak In The Streets",
-      "url": "https://open.spotify.com/track/3av93czJjRhfXtyW8tJHbZ"
     },
     {
       "added_at": "2025-01-17 05:00:52",

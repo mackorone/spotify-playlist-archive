@@ -4,7 +4,7 @@
 
 > It’s pop punk, it’s the best \. Your ultimate v\-day / anti v\-day playlist.
 
-352 songs - 19 hr 26 min
+353 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,7 @@
 | [She Looks So Perfect](https://open.spotify.com/track/1gugDOSMREb34Xo0c1PlxM) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5 Seconds Of Summer](https://open.spotify.com/album/2LkWHNNHgD6BRNeZI2SL1L) | 3:22 | 2023-10-17 | 2023-12-02 |
 | [She's A Lady](https://open.spotify.com/track/7rXOUa2yrj80b49sYqV6Qy) | [Forever The Sickest Kids](https://open.spotify.com/artist/4frytKnOBrer4QVPWynGtX) | [Underdog Alma Mater](https://open.spotify.com/album/1DXQ0idwKePZH7T1yU57gS) | 4:00 | 2024-01-09 |  |
 | [Shoulder to the Wheel](https://open.spotify.com/track/4dKu1HkVL1xh96F1JfDTrn) | [Saves The Day](https://open.spotify.com/artist/5gWhlJBlLQGLOgYWO8lwCU) | [Through Being Cool](https://open.spotify.com/album/3yRpyOundyELlkOO6O4YSo) | 3:19 | 2023-10-17 | 2023-12-02 |
-| [Sick Ride](https://open.spotify.com/track/2ITXPxN3Q9uzEqZlCXS2IL) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Sick Ride](https://open.spotify.com/album/44TooXW5CUSiERVsUPIZPJ) | 1:37 | 2024-05-21 | 2025-02-04 |
+| [Sick Ride](https://open.spotify.com/track/2ITXPxN3Q9uzEqZlCXS2IL) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Sick Ride](https://open.spotify.com/album/44TooXW5CUSiERVsUPIZPJ) | 1:37 | 2024-05-21 |  |
 | [Since U Been Gone](https://open.spotify.com/track/45oBSaWml0fU1S6qcHcpxF) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [For Those Who Have Heart \(Deluxe Edition\)](https://open.spotify.com/album/4HEUcIsYZNkvMWQkIIEJYq) | 3:18 | 2024-01-09 |  |
 | [Skinny Dipping](https://open.spotify.com/track/2x9JuIk4q6pG3FqnBHfTUz) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Skinny Dipping](https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F) | 2:49 | 2025-04-02 |  |
 | [Sleep In The Snow](https://open.spotify.com/track/7J10tcevpAIx05rzvCYbaj) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Southern Air](https://open.spotify.com/album/1URxt8zdzFsihGRAv01cb0) | 4:02 | 2023-12-01 | 2024-01-10 |
@@ -277,6 +277,7 @@
 | [Still Waiting](https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC) | 2:38 | 2024-09-13 |  |
 | [Strangers](https://open.spotify.com/track/2SISsR0V9kNjOHU9sJa413) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Strangers](https://open.spotify.com/album/3vW6XXJIIfZZRd7TtNR5J1) | 2:34 | 2023-09-23 | 2023-12-02 |
 | [Stupid for You](https://open.spotify.com/track/1N7Aep1OewK9diaN9WbuuR) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Double Dare](https://open.spotify.com/album/1uh8SiLASOMowO5TWEYmbw) | 3:11 | 2023-10-17 | 2023-12-02 |
+| [Suffering](https://open.spotify.com/track/4ip88W22vNrmZnRCZoP3XR) | [Melrose Avenue](https://open.spotify.com/artist/21VOqis8anMJTRx6GqI13b) | [Suffering](https://open.spotify.com/album/5zS2AJv0XmOMpDFjdqXezt) | 4:01 | 2025-04-09 |  |
 | [Suicide \(The Lovers\)](https://open.spotify.com/track/52Vf7324LxrxdIsKqH0yzl) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [The Death Card](https://open.spotify.com/album/2fcTgvULqmDLlE5nX0GJ5S) | 3:37 | 2025-02-03 |  |
 | [Sunnyland](https://open.spotify.com/track/31qm6pO3NEyRMJ2OuXuIjc) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Sunnyland](https://open.spotify.com/album/6VgJZRUsCbR1NTnJWU85G4) | 3:53 | 2025-04-02 |  |
 | [Sunshine](https://open.spotify.com/track/5lKoQE1qdSfbvbkldmMM3A) | [Samiam](https://open.spotify.com/artist/7eNSfWxOEWP2B2QQgHGBoo) | [Astray](https://open.spotify.com/album/1lgH5dMk5qhz5VoeVz2mtz) | 3:16 | 2025-04-02 |  |

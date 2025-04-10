@@ -4,7 +4,7 @@
 
 > This is Roberta Flack\. The essential tracks, all in one playlist.
 
-57 songs - 4 hr 18 min
+58 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Unforgettable](https://open.spotify.com/track/50ILHnbevWzqVvk1tYm3BO) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Set the Night to Music](https://open.spotify.com/album/4NH4c6JLgCJeFiVrC5jBez) | 4:59 | 2025-02-25 |  |
 | [Until It's Time for You to Go](https://open.spotify.com/track/0f3FOlNpyINc62ys6DfQHv) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Chapter Two](https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4) | 4:59 | 2025-02-25 |  |
 | [When You Smile](https://open.spotify.com/track/460ysTfMygkMjaes74RdU3) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 3:44 | 2025-02-25 |  |
-| [Where Is the Love](https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 2:46 | 2025-02-25 |  |
+| [Where Is the Love](https://open.spotify.com/track/65ADTP6Q8mratfOIeKHp7e) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Roberta Flack & Donny Hathaway](https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp) | 2:43 | 2025-04-10 |  |
+| [Where Is the Love](https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 2:46 | 2025-02-25 | 2025-04-10 |
 | [Will You Still Love Me Tomorrow](https://open.spotify.com/track/6n5647DTsQSR4llhBAqoUr) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Quiet Fire](https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme) | 4:07 | 2025-02-25 |  |
 | [You Are My Heaven \(feat\. Donny Hathaway\)](https://open.spotify.com/track/5nM4eEn2NYvJFTvoIahTLn) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Roberta Flack Featuring Donny Hathaway](https://open.spotify.com/album/4cNXauC0sitXWsOmuOtGvg) | 4:14 | 2025-02-25 |  |
 | [You Are the Love of My Life](https://open.spotify.com/track/50cZJ9FB4U0qDHd4hywCG0) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [20/20](https://open.spotify.com/album/23HV3deh17hOFNg3OKmGnW) | 2:52 | 2025-02-25 |  |

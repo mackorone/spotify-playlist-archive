@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2M1RktxUUHG.md) - [plain]
 
 > The biggest songs of the 2020s\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,550 likes - 150 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,854 likes - 150 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

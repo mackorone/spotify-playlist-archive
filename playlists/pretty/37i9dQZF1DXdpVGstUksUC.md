@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,155 likes - 100 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,185 likes - 100 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 81 | [Run Run Run Run Run](https://open.spotify.com/track/4eq2k7bPZRxdFjSVEPzWWw) | [Ghost Pipe](https://open.spotify.com/artist/3KZfBmHz2w9poyei71SRu0) | [Run Run Run Run Run](https://open.spotify.com/album/5edqqFdJcdqWplVNg0owfZ) | 5:29 |
 | 82 | [Arise](https://open.spotify.com/track/6Sq8Tkk3piqcxTzkrWiZao) | [Hippie Death Cult](https://open.spotify.com/artist/4IZavjyt6nf7m5fq31pjXl) | [Arise](https://open.spotify.com/album/2aXbEHQTfNI4xQ4jLoMy4d) | 6:02 |
 | 83 | [CLDZ](https://open.spotify.com/track/44BjQLjy1ShaviwGBobWi1) | [Gozu](https://open.spotify.com/artist/3CcEVa0kc113lQDnVTyIBg) | [CLDZ](https://open.spotify.com/album/1TQbXepj5CEXWpxz2HZQ34) | 6:56 |
-| 84 | [Rockin' Course](https://open.spotify.com/track/6zpn0NmeEhm6n4qpmNtKFY) | [Thumlock](https://open.spotify.com/artist/5Ub4KBLHbznhFUc3b5t9Ha) | [Emerald Liquid Odyssey](https://open.spotify.com/album/0oHLdnN5Wcpo4bBC3WUb5O) | 3:09 |
-| 85 | [Tested By Death](https://open.spotify.com/track/0m6wZIKsMjBfReiuCTkaYz) | [Wizard Master](https://open.spotify.com/artist/6X1zEmVicCUxyjqKVxOGNH) | [Tested By Death](https://open.spotify.com/album/0GZ3kOIZdziDYGg585OUBb) | 8:32 |
+| 84 | [Tested By Death](https://open.spotify.com/track/0m6wZIKsMjBfReiuCTkaYz) | [Wizard Master](https://open.spotify.com/artist/6X1zEmVicCUxyjqKVxOGNH) | [Tested By Death](https://open.spotify.com/album/0GZ3kOIZdziDYGg585OUBb) | 8:32 |
+| 85 | [Rockin' Course](https://open.spotify.com/track/6zpn0NmeEhm6n4qpmNtKFY) | [Thumlock](https://open.spotify.com/artist/5Ub4KBLHbznhFUc3b5t9Ha) | [Emerald Liquid Odyssey](https://open.spotify.com/album/0oHLdnN5Wcpo4bBC3WUb5O) | 3:09 |
 | 86 | [The Chosen One](https://open.spotify.com/track/2It4BlXp7uTl9xZPYLyqWy) | [Dopelord](https://open.spotify.com/artist/1B1b2jSXksHwmmorhmQ8AF) | [The Chosen One](https://open.spotify.com/album/47Tc6iYguZWmz4TcfNivUU) | 6:56 |
 | 87 | [Road to Burn](https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn) | [1000mods](https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89) | [Super Van Vacation](https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8) | 8:49 |
 | 88 | [Freya](https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Age of Winters](https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O) | 4:34 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 93 | [Space Lord](https://open.spotify.com/track/3twKuUTPH239GCSPdRfmgY) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/6oLlvooHUXzfZdxk5q0XN9) | 5:55 |
 | 94 | [I'm the Mountain](https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [Seven Thunders Roar](https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU) | 16:01 |
 | 95 | [Tres Brujas](https://open.spotify.com/track/02VH6OxidofPWj9u4t7TKd) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Warp Riders](https://open.spotify.com/album/0PN6KGJnEzkpTpmM1PP5z7) | 4:09 |
-| 96 | [The Regulator](https://open.spotify.com/track/5HjPlgTCOBWjh65fF4aaR9) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Blast Tyrant \(Deluxe Version\)](https://open.spotify.com/album/5KxVwhPQ9d0qp4iuQcAkgR) | 5:25 |
-| 97 | [41](https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Nothing as the Ideal](https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd) | 5:20 |
-| 98 | [Seer](https://open.spotify.com/track/2elF1O0Cz9SfXgkj96cUZE) | [Witch](https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3) | [Witch](https://open.spotify.com/album/37VVHGym3PMktFuWewZVf9) | 7:57 |
-| 99 | [Supa Scoopa and Mighty Scoop](https://open.spotify.com/track/5NyFFIp7NRmqF0wmuJLxqZ) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Welcome to Sky Valley](https://open.spotify.com/album/1npen0QK3TNxZd2hLNzzOj) | 5:56 |
+| 96 | [Supa Scoopa and Mighty Scoop](https://open.spotify.com/track/5NyFFIp7NRmqF0wmuJLxqZ) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Welcome to Sky Valley](https://open.spotify.com/album/1npen0QK3TNxZd2hLNzzOj) | 5:56 |
+| 97 | [The Regulator](https://open.spotify.com/track/5HjPlgTCOBWjh65fF4aaR9) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Blast Tyrant \(Deluxe Version\)](https://open.spotify.com/album/5KxVwhPQ9d0qp4iuQcAkgR) | 5:25 |
+| 98 | [41](https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Nothing as the Ideal](https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd) | 5:20 |
+| 99 | [Seer](https://open.spotify.com/track/2elF1O0Cz9SfXgkj96cUZE) | [Witch](https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3) | [Witch](https://open.spotify.com/album/37VVHGym3PMktFuWewZVf9) | 7:57 |
 | 100 | [Febersvan](https://open.spotify.com/track/4mN4IKOVpFTidgCc1I60Xw) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [GAUPA](https://open.spotify.com/album/6FNQ7j6pueu7jjVi4Ecrcc) | 7:27 |
 
 Snapshot ID: `ZpnkwAAAAABd9cz0Kla6yLAbrzNhxdeh`

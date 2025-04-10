@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,785 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,798 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 9 | [APT.](https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:49 |
 | 10 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 |
 | 11 | [luther \(with sza\)](https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 2:57 |
-| 12 | [Whiplash](https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx) | 3:03 |
+| 12 | [Whiplash](https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/6RRuiUup6Z0Y0MxkCXOGyU) | 3:03 |
 | 13 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 |
 | 14 | [TOO BAD](https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 2:33 |
 | 15 | [愛我還是他](https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [太平盛世](https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU) | 4:52 |
-| 16 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 |
+| 16 | [DRIP](https://open.spotify.com/track/1MUZitHRpmng5NevrvNx4T) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/7JCNpE1d2ivc2YPSqEVShc) | 3:00 |
 | 17 | [愛愛愛](https://open.spotify.com/track/59lBAMCis4C6NsPdUV35Vz) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [愛愛愛](https://open.spotify.com/album/75QhyYrpr4b3sJUvmYAU3v) | 3:35 |
 | 18 | [任性 \(電視劇《難哄》主題曲\)](https://open.spotify.com/track/0kFTS4OH2t44gsLN0a8Khr) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [任性](https://open.spotify.com/album/09rCpK2WyMHP7ymESozHgI) | 4:25 |
 | 19 | [特別的人](https://open.spotify.com/track/0VTzUEuHYD8s7CgQ15cDPo) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [危險世界](https://open.spotify.com/album/3QR6UyUXB4KclN8HwSIhx9) | 4:19 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 32 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 33 | [number one girl](https://open.spotify.com/track/1lcBt7LoEikqYmhUoa2cez) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 3:36 |
 | 34 | [MONA LISA](https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MONA LISA](https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa) | 2:17 |
-| 35 | [Supernova](https://open.spotify.com/track/5lKnZbdGCBViitE1Ce5TZh) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/4SboBpuYojDm02qS4iFeJC) | 2:58 |
+| 35 | [Supernova](https://open.spotify.com/track/2JhbSmNAyM9kYiqwa8Tpla) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/3vk3MR4IL2EMC4ksN5pCo4) | 2:58 |
 | 36 | [Soft Spot](https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:24 |
 | 37 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 |
 | 38 | [Mantra](https://open.spotify.com/track/1kUyOJb3fzUo8r0OCz5SQk) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:16 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 44 | [烂片剧情](https://open.spotify.com/track/488IBZgAqHQmUDjg9kTQYG) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [烂片剧情](https://open.spotify.com/album/2Km6rWJjdJoli9PFE8nwxh) | 3:26 |
 | 45 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/0rx7xu0RmZLpJjKNVZjSVv) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:00 |
 | 46 | [擱淺](https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr) | 3:58 |
-| 47 | [REBEL HEART](https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REBEL HEART](https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3) | 3:08 |
+| 47 | [REBEL HEART](https://open.spotify.com/track/1jtlHteF4y7FFHKgYFld4f) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REBEL HEART](https://open.spotify.com/album/7wDskR5Q6K1qqLPEG8W8kB) | 3:08 |
 | 48 | [瞬](https://open.spotify.com/track/3FLR0AnSpUYPDlDCaSqsXc) | [郑润泽](https://open.spotify.com/artist/6KKqrrPtPB4eR1T5DT6dJ4) | [瞬](https://open.spotify.com/album/4skMYmxARqRK1xGj0Mct2Q) | 4:44 |
 | 49 | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI) | 2:52 |
 | 50 | [愚人節快樂](https://open.spotify.com/track/2FQE7XVMDtuHjkjY0D1uwj) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [愚人節快樂](https://open.spotify.com/album/7lFcdqW9C9MGbgD8H6a2Ex) | 4:16 |
 
-Snapshot ID: `L4iRIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L4nioAAAAAAAAAAAAAAAAAAAAAAAAGVu`

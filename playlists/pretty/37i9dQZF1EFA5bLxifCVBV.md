@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101 likes - 195 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 101 likes - 195 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I'm Not Here To Make Friends](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:49 |
 | 2 | [It's Only A Paper Moon](https://open.spotify.com/track/373yGkNo74RZgmQgTiR8xK) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Delta Rhythm Boys](https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF) | [The War Years \(1941\-1947\)](https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH) | 2:40 |
-| 3 | [Santa Claus Is Back In Town](https://open.spotify.com/track/5b1jXYUOgAX5QAHXPVHdld) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 2:22 |
+| 3 | [April In Paris](https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9) | 3:05 |
 | 4 | [Brahms Lullaby](https://open.spotify.com/track/0RqM7gnOsROUid7lnG2lrw) | [Sleep Baby Sleep](https://open.spotify.com/artist/6e5ygqf81ECK33tTPpbLLq) | [Sleep Baby](https://open.spotify.com/album/6YIJx82UVl4uuFQxxcu5lF) | 1:21 |
 | 5 | [Plus Je T'embrasse](https://open.spotify.com/track/3KT0SEsaO5RuzQv1pIKDEx) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Give Him The Ooh\-La\-La \(Expanded Edition\)](https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog) | 2:31 |
 | 6 | [When We Were Young](https://open.spotify.com/track/5OxWNIpnedq0bhdUhmNrJT) | [Falls](https://open.spotify.com/artist/0SP0jz4htYhpiCuNEvKr0l) | [Omaha](https://open.spotify.com/album/7BfVNstl3oipb2ZGWyKQxH) | 3:18 |
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 118 | [Noah](https://open.spotify.com/track/0ntszQBXc1b3ycd7JIl0Lk) | [Woody Herman & His Orchestra](https://open.spotify.com/artist/7CUcJMFBfSARR8js036QOn) | [Welcome to My Dream](https://open.spotify.com/album/0DdGWUa83ELS8iOT66bo1o) | 3:21 |
 | 119 | [Pretty to Walk With \- Remastered](https://open.spotify.com/track/6cG8Uv5r9xr8Fe2OQz93T7) | [Lena Horne](https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe) | [Stormy Weather \(The Audio Pearls Collection\)](https://open.spotify.com/album/0cKZt5KRdA8bTF1eyi2p3b) | 2:55 |
 | 120 | [Jerusalem \- Live](https://open.spotify.com/track/66RNWVcr1p2BndiNBZvQbF) | [Aquabella](https://open.spotify.com/artist/5KyFe21EBZxVaT1FP5FQIB) | [Jubilee Live](https://open.spotify.com/album/4sJoPgpsGYX4sUJEAvzvy2) | 5:06 |
-| 121 | [Strange As It Seems](https://open.spotify.com/track/0LOxAo3BsLuUe0smgNEnYA) | [The Boswell Sisters](https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN) | [Anthology \(1925\-1936\)](https://open.spotify.com/album/4AW133ZOLu4rAaImOP4cbE) | 1:38 |
-| 122 | [The Springtime Cometh](https://open.spotify.com/track/5sik8XJlWHjqVq8xnpT5as) | [Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast](https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs) | [Flahooley \(original Broadway Cast Recording\)](https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW) | 3:21 |
+| 121 | [The Springtime Cometh](https://open.spotify.com/track/5sik8XJlWHjqVq8xnpT5as) | [Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast](https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs) | [Flahooley \(original Broadway Cast Recording\)](https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW) | 3:21 |
+| 122 | [Strange As It Seems](https://open.spotify.com/track/0LOxAo3BsLuUe0smgNEnYA) | [The Boswell Sisters](https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN) | [Anthology \(1925\-1936\)](https://open.spotify.com/album/4AW133ZOLu4rAaImOP4cbE) | 1:38 |
 | 123 | [Drivin' and Dreamin'](https://open.spotify.com/track/6ZPYXoReVWFvkk0nvpzIlr) | [Alan O'Day](https://open.spotify.com/artist/63f6RFsOlwDMnAuDwjB58Y) | [The Last Legacy of E.Y\. Harburg](https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347) | 3:26 |
 | 124 | [Whip\-Poor\-Will](https://open.spotify.com/track/4LmVQgpgIxcNQCNjHEVCMT) | [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [André Previn Plays Jerome Kern](https://open.spotify.com/album/2VFVOgYzdHJk2TBeOg7SC9) | 4:25 |
 | 125 | [Water Under the Bridge](https://open.spotify.com/track/1aZTEwlHUCkuJswWgsbIqU) | [Vernon Duke](https://open.spotify.com/artist/66wHlBv24mr1yH7F4aF6yk), [Dawn Upshaw](https://open.spotify.com/artist/1EgV7b93j6hvI1Suiegi74) | [Dawn Upshaw Sings Vernon Duke](https://open.spotify.com/album/3iGXOiy5OSuJAahFNDABoH) | 3:04 |
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 194 | [Be Yourself](https://open.spotify.com/track/6yxG4DUyWo3TOuOVSLlFy9) | [RICHYFEIN](https://open.spotify.com/artist/2d0qI4NoEE9GH20qXpByph), [Dukeee](https://open.spotify.com/artist/45dEm7cqNob0CT3raETqHO) | [Trip On My Mind](https://open.spotify.com/album/5Pk2fExyrgdBebtERAEppx) | 2:55 |
 | 195 | [Intro to Necessity](https://open.spotify.com/track/7BiVEwi5DvPSFb8Z2WE518) | [David Staller](https://open.spotify.com/artist/3NZQn55ReTcDxkdftWW1Az), [Terri White](https://open.spotify.com/artist/79Gxi9msUDwqFtEvocmAJN) | [Finian's Rainbow \(Irish Repertory Theatre Cast Recording\)](https://open.spotify.com/album/1MmpLk5yBwgHevhiGh3FVB) | 0:27 |
 
-Snapshot ID: `AbuQdgAAAAAyxWzNL2GfrZLIkhf94HUt`
+Snapshot ID: `AbuWSAAAAABFybApmak3sYE8hRL2plwA`

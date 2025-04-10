@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 
 > ¡Éxitos salseros para prenderle fuego a la pista de baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,873 likes - 125 songs - 10 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,929 likes - 125 songs - 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,10 +126,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 116 | [Virgen](https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Más Que Nunca](https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk) | 4:31 |
 | 117 | [Procura](https://open.spotify.com/track/7xmp7f74I0rxUOPjVuIOE8) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou) | [Pa' Otro La 'o](https://open.spotify.com/album/5T29t6GK83ntYYu3kjUMar) | 4:32 |
 | 118 | [Lloraras](https://open.spotify.com/track/23Fw0qh3Onqn2276LiL2pT) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk), [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [15 Exitos De\- Oscar D Leon](https://open.spotify.com/album/412ARc7ByOTB5iwnc6fZ6i) | 3:41 |
-| 119 | [Te Voy a Hacer Feliz](https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf) | [Mariano Civico](https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q) | [De Costa a Costa](https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN) | 5:09 |
-| 120 | [Caricias Prohibidas](https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ) | [Viti Ruiz](https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT) | [Sedúceme](https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy) | 5:21 |
-| 121 | [Isi](https://open.spotify.com/track/4lWe0aVc9STQ4bkrGkVGTQ) | [Gustavo Rodriguez](https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2) | [Septimo Sentido](https://open.spotify.com/album/5GnJWm3R6gHT25NuTq1VdQ) | 5:12 |
-| 122 | [Amiga](https://open.spotify.com/track/0mQRgVdhDiEsFVjJdTQBat) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Puro Corazón](https://open.spotify.com/album/5naHAz6Ugczx3yBccNMd7A) | 4:15 |
+| 119 | [Isi](https://open.spotify.com/track/4lWe0aVc9STQ4bkrGkVGTQ) | [Gustavo Rodriguez](https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2) | [Septimo Sentido](https://open.spotify.com/album/5GnJWm3R6gHT25NuTq1VdQ) | 5:12 |
+| 120 | [Te Voy a Hacer Feliz](https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf) | [Mariano Civico](https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q) | [De Costa a Costa](https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN) | 5:09 |
+| 121 | [Caricias Prohibidas](https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ) | [Viti Ruiz](https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT) | [Sedúceme](https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy) | 5:21 |
+| 122 | [Regálame una Noche](https://open.spotify.com/track/6F3YJ3vWzatHA3nz6GwDoA) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Regálame Una Noche](https://open.spotify.com/album/1pr3TkFTzeQewXcoyXbpIq) | 4:38 |
 | 123 | [Oiga, Mire, Vea \- Salsa](https://open.spotify.com/track/4YGSpi9g7ohPFO8TXpvSUZ) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sentimental de Punta a Punta](https://open.spotify.com/album/0tUMgQJLd38NQD7OSFPQgK) | 5:23 |
 | 124 | [Manos de Tijera](https://open.spotify.com/track/5bbDOmtSTUeAmzYDUv8eVF) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Manos de Tijera](https://open.spotify.com/album/6ZgE3A6SXIPCEvhVpLOwv9) | 3:50 |
 | 125 | [El Cantante](https://open.spotify.com/track/0C279YvVWJcmFMSDtqIGfq) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Cantante de los Cantantes](https://open.spotify.com/album/1uj6t6QrkyuyeHdHcKporK) | 10:22 |

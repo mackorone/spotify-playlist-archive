@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > 22simba e Diss Gacha in cover della playlist con la nuova generazione del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,598 likes - 59 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,592 likes - 59 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 21 | [A chi mi ha reso fredda](https://open.spotify.com/track/3Semh5KstB9JdCBAdh3dZe) | [Lorenzza](https://open.spotify.com/artist/0zyujuBCFt15GQ86pcAGk6) | [A chi mi ha reso fredda](https://open.spotify.com/album/37Bv5y1PQnuF5bsY7y91e7) | 2:29 |
 | 22 | [PORNOGRAPHY](https://open.spotify.com/track/3uztAzaHzOHTflwHFNh0dn) | [Rico Pmf](https://open.spotify.com/artist/1V3hNQCQ9ZrVmRbiSm1d1A), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [STRIP MUZIK](https://open.spotify.com/album/5uG14or63h5IBOwoxDz7QN) | 2:28 |
 | 23 | [Le ragazzë](https://open.spotify.com/track/1CrYySS676TSHXmajMB5qv) | [Clamö](https://open.spotify.com/artist/3NHMeAt6gT8bx5Pru8n1jR) | [Le ragazzë](https://open.spotify.com/album/5HPjlCmOnj0fusoe9OYwDZ) | 1:56 |
-| 24 | [Carriera](https://open.spotify.com/track/05Bl1Vwtl5S6V9n9ybebxX) | [G.Kres](https://open.spotify.com/artist/3Ek4gPnmrwsHtyQQWCdHsw) | [Carriera](https://open.spotify.com/album/0SSz3TzswCtH9DV1jer4Dy) | 1:19 |
+| 24 | [Carriera](https://open.spotify.com/track/05Bl1Vwtl5S6V9n9ybebxX) | [Kres](https://open.spotify.com/artist/3Ek4gPnmrwsHtyQQWCdHsw) | [Carriera](https://open.spotify.com/album/0SSz3TzswCtH9DV1jer4Dy) | 1:19 |
 | 25 | [Bugie](https://open.spotify.com/track/7GRZM3oQ7IBABAvVBDazlY) | [Fandino](https://open.spotify.com/artist/4eazpH2wKAhA7uzaflG6ju) | [Bugie](https://open.spotify.com/album/1Hs4e2pd8TZMguJMuKxrKB) | 2:08 |
 | 26 | [adrenalina \#144 \(feat\. Myto\)](https://open.spotify.com/track/1bJHC5teETi5dDCmbPfOO9) | [dedde](https://open.spotify.com/artist/4RrRLMqOAuHSbPhYIkdtMN), [Myto](https://open.spotify.com/artist/7ArCICJwpNMHWiDMCXiEZO) | [adrenalina \#144 \(feat\. Myto\)](https://open.spotify.com/album/2pihqDLUPOXqDj7HCwBMcp) | 2:55 |
 | 27 | [Impanata \(feat\. Low\-Red\)](https://open.spotify.com/track/471qBD5y74E8QMdJrh3O00) | [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [ilovethisbeat](https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P) | [Ratchet City](https://open.spotify.com/album/5TF9W5MX0v9dvWfHlWp0WN) | 2:48 |

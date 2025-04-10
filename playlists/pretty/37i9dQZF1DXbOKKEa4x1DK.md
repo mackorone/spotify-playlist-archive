@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 
 > Para los enamorados y despechados.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,119 likes - 57 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,191 likes - 57 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 32 | [Como Te Olvido](https://open.spotify.com/track/5Sp82J8SkXaubjecTTdCBK) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Mi Historia](https://open.spotify.com/album/4TsbE5HjgnJSbKrdiA8tQB) | 4:49 |
 | 33 | [Quiero Saber de Tí](https://open.spotify.com/track/3kiQ59TqSkTxGNMXm4mVfw) | [Raffy Matias](https://open.spotify.com/artist/29DVZ3OIDobBN5xH7It79l) | [Acusame](https://open.spotify.com/album/13GSJCMgDOtnLQXvl6fkiI) | 4:41 |
 | 34 | [Donde](https://open.spotify.com/track/3OoiMXkwdEbsSGPrJMGwlv) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Me Olvide de Vivir](https://open.spotify.com/album/5PdiRF2P994XMGCon5JnRD) | 5:37 |
-| 35 | [Noches de Fantasía](https://open.spotify.com/track/52HZfvYGAbWx86xzFBeoQh) | [Joseph Fonseca](https://open.spotify.com/artist/0XyTZ8tZBTUvsB9N2470r0) | [Noches de Fantasía](https://open.spotify.com/album/6xDoCwBNbIdKpjSxLlTsLa) | 4:26 |
-| 36 | [La Asesina](https://open.spotify.com/track/5Id9qsENY9T2d71zXuzLD8) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [La Fiesta Esta Buena](https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc) | 4:49 |
-| 37 | [Te Compro Tu Novia](https://open.spotify.com/track/4Dh7uW5uZAbpPCuWhgOYB0) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [América Sin Queja](https://open.spotify.com/album/0EEdtnbf5f5vhVBATOW2Fm) | 4:27 |
+| 35 | [Te Compro Tu Novia](https://open.spotify.com/track/4Dh7uW5uZAbpPCuWhgOYB0) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [América Sin Queja](https://open.spotify.com/album/0EEdtnbf5f5vhVBATOW2Fm) | 4:27 |
+| 36 | [Noches de Fantasía](https://open.spotify.com/track/52HZfvYGAbWx86xzFBeoQh) | [Joseph Fonseca](https://open.spotify.com/artist/0XyTZ8tZBTUvsB9N2470r0) | [Noches de Fantasía](https://open.spotify.com/album/6xDoCwBNbIdKpjSxLlTsLa) | 4:26 |
+| 37 | [La Asesina](https://open.spotify.com/track/5Id9qsENY9T2d71zXuzLD8) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [La Fiesta Esta Buena](https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc) | 4:49 |
 | 38 | [Brujería Con Chilli: On Fire, Episodio 2](https://open.spotify.com/track/6jhpQItsk0OBlus9hEHfDK) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Brujería Con Chilli: On Fire, Episodio 2](https://open.spotify.com/album/0zBjJzad6oD7omkXaZEIjz) | 5:42 |
 | 39 | [No Te Vayas \(En Vivo\)](https://open.spotify.com/track/24pTFkIOEx387mumG1oP6w) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Merengue En Vivo De Fiesta](https://open.spotify.com/album/6wBDchYUGlD1NBrhAX62RA) | 7:05 |
 | 40 | [Si Algún Día la Ves](https://open.spotify.com/track/3E7KCWu2HzLeI4J32B00DR) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados de Sergio Vargas](https://open.spotify.com/album/3UseWPr14T9M4Vizzd70b7) | 4:44 |

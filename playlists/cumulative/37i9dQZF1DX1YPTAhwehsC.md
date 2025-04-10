@@ -4,7 +4,7 @@
 
 > Up and down I\-95\. Cover: Wiz Khalifa
 
-1,502 songs - 2 day 20 hr 16 min
+1,503 songs - 2 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1300,6 +1300,7 @@
 | [TELL ME IM RIGHT](https://open.spotify.com/track/2ltbtk62BGf7AoWeVJYv72) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [TELL ME IM RIGHT](https://open.spotify.com/album/1nSlBADZLhwU0DlaNLU6MD) | 2:47 | 2023-05-05 | 2023-09-16 |
 | [Tell Ur Girlfriend](https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Tell Ur Girlfriend](https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT) | 2:04 | 2024-02-09 | 2024-06-01 |
 | [Temp Check](https://open.spotify.com/track/1B6PW4F7coymuBKLutHNPj) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Freshman Grad.](https://open.spotify.com/album/44TpQtfROIJvYF4bwYxoPn) | 2:46 | 2024-06-21 | 2024-06-29 |
+| [TEN](https://open.spotify.com/track/6C6X1c4FCvzxQZcparVtKN) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [TEN](https://open.spotify.com/album/5IuyySuOpjAkbHc2pXOimN) | 2:43 | 2025-04-09 |  |
 | [Ten/Rya Interlude \(feat\. Key Glock & Rya Maxwell\)](https://open.spotify.com/track/4ydaQVP6QIlkX0k8WDmtj2) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Rya Maxwell](https://open.spotify.com/artist/0QGpeQgkAun6D7nh2rJcCN) | [Ten/Rya Interlude \(feat\. Key Glock & Rya Maxwell\)](https://open.spotify.com/album/20pQxMVlXGbERgQDZgbujD) | 6:00 | 2024-05-03 | 2024-05-11 |
 | [That's Hurt](https://open.spotify.com/track/6zVDYuDG3W8uLnBArVihJB) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [That's Hurt](https://open.spotify.com/album/3DB02to6YwFSgKYQ5mBADr) | 2:30 | 2024-11-22 | 2024-11-30 |
 | [That's It](https://open.spotify.com/track/6rMjVOGsrCVxqzlNAQQ0oP) | [Chinese Kitty](https://open.spotify.com/artist/6x3iaJYt5zLqKIfkrPQme9) | [That's It](https://open.spotify.com/album/00o8yMI5PN6DtEVz1iTkDm) | 2:28 | 2023-06-30 | 2023-08-05 |

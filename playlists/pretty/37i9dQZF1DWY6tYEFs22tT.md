@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Drake, Lil Durk, NAV, Jack Harlow,  Sexyy Red and Doechii.
 
-[Spotify](https://open.spotify.com/user/spotify) - 813,938 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 813,926 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

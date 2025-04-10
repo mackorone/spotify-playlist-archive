@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 
 > The ocean, the sun, your friends, the music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 963,599 likes - 147 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 965,182 likes - 147 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,8 +152,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 | 142 | [Call On Me \- Ryan Riback Remix](https://open.spotify.com/track/3R8lr1Y1kPgXEbnXkcMMlT) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [Call On Me](https://open.spotify.com/album/3PznGvjYhmK2jeTA1pdxkK) | 3:42 |
 | 143 | [Million Voices \- Radio Edit](https://open.spotify.com/track/4IdCX8mGmi8kJD5az6HqRL) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Million Voices](https://open.spotify.com/album/6qS1m40p8GjaloRgK6kDgq) | 3:12 |
 | 144 | [Easy Love](https://open.spotify.com/track/42zLyJxoTWBGAu6481ALWL) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Easy Love](https://open.spotify.com/album/3ksyoE3J4CF1VxcMtuzSFv) | 3:47 |
-| 145 | [Danza Kuduro \(feat\. Don Omar\)](https://open.spotify.com/track/2gIwPaocbvc5eHqnACgV3Z) | [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Emigrante Del Mundo](https://open.spotify.com/album/2pcW5LhwWE5Rl6GB4hmc3D) | 3:33 |
-| 146 | [How You Samba](https://open.spotify.com/track/3feDjvhersePCo2vKp9Jkk) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [How You Samba](https://open.spotify.com/album/1mm0WBT12aMdArD4wmyoDx) | 2:31 |
+| 145 | [How You Samba](https://open.spotify.com/track/3feDjvhersePCo2vKp9Jkk) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [How You Samba](https://open.spotify.com/album/1mm0WBT12aMdArD4wmyoDx) | 2:31 |
+| 146 | [Danza Kuduro \(feat\. Don Omar\)](https://open.spotify.com/track/2gIwPaocbvc5eHqnACgV3Z) | [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Emigrante Del Mundo](https://open.spotify.com/album/2pcW5LhwWE5Rl6GB4hmc3D) | 3:33 |
 | 147 | [When Love Takes Over \(feat\. Kelly Rowland\)](https://open.spotify.com/track/1hRFVIy9As8OVRk8B7CrD5) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [One More Love](https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW) | 3:11 |
 
 Snapshot ID: `Z+FxmQAAAADo/vm+tsdmlOrrXAPiJKkc`

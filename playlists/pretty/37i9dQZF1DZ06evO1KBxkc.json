@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 201252,
+  "num_followers": 201259,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/MVgAAAAAC+DsGxBj3KVHQdrJiv0svI",
+  "snapshot_id": "Z/RnAAAAAAB6wUlWGmTQsUxBH/RQ3qYA",
   "tracks": [
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me vs. Myself",
-        "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 179209,
-      "name": "Last Time (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/5rDt0wjt4BrYGrveWoIKXB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heartbreak on a Full Moon",
         "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 293434,
       "name": "Pills & Automobiles (feat. Yo Gotti, A Boogie Wit Da Hoodie & Kodak Black)",
       "url": "https://open.spotify.com/track/5gx2E5aIXMRBellPZW1up5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 179209,
+      "name": "Last Time (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/5rDt0wjt4BrYGrveWoIKXB"
     },
     {
       "added_at": null,
@@ -895,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PLAZA",
-        "url": "https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 180871,
-      "name": "No Stress (feat. A Boogie wit da Hoodie)",
-      "url": "https://open.spotify.com/track/1g2CMj45LJZWxGQYoBye0X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DRIVE",
         "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 183652,
       "name": "Chills (LA Hills)",
       "url": "https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PLAZA",
+        "url": "https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 180871,
+      "name": "No Stress (feat. A Boogie wit da Hoodie)",
+      "url": "https://open.spotify.com/track/1g2CMj45LJZWxGQYoBye0X"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover:  Jai'len Josey
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,679 likes - 171 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,704 likes - 171 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,118 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,164 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 22 | [Eva Longoria](https://open.spotify.com/track/0nfnCp3NNcUjksmxd5xqEG) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Afro](https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA) | 3:19 |
 | 23 | [Sober](https://open.spotify.com/track/5at2Abc6gzWtxakXn7GNfE) | [Yung Alpha](https://open.spotify.com/artist/0lL3q4F7F3Zv6TdwefmcR6), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Sober](https://open.spotify.com/album/7GWGllaCoQInhrOadZ79LQ) | 3:05 |
 | 24 | [OVER DEM](https://open.spotify.com/track/1KCCxeit3q5wJXxDmRgbl3) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:18 |
-| 25 | [If](https://open.spotify.com/track/0XQuWhRG7qD7OYHKsgt0BN) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [If](https://open.spotify.com/album/1N4On17z3onc2NH2XgHdLx) | 3:57 |
-| 26 | [Like Dat](https://open.spotify.com/track/0t4xEkeg24xVvd5EtIrly7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Like Dat](https://open.spotify.com/album/4BYoitcv3TKB13Q3afcfDM) | 3:20 |
+| 25 | [Like Dat](https://open.spotify.com/track/0t4xEkeg24xVvd5EtIrly7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Like Dat](https://open.spotify.com/album/4BYoitcv3TKB13Q3afcfDM) | 3:20 |
+| 26 | [If](https://open.spotify.com/track/0XQuWhRG7qD7OYHKsgt0BN) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [If](https://open.spotify.com/album/1N4On17z3onc2NH2XgHdLx) | 3:57 |
 | 27 | [PrAy](https://open.spotify.com/track/2NLZskCPIYnG2vwiEBXLpC) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [TESTIMONY.](https://open.spotify.com/album/2CsVUBVLZU6216kq7HQWXK) | 3:37 |
 | 28 | [Holy Ground \(feat\. Nicki Minaj\)](https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:42 |
 | 29 | [Risky](https://open.spotify.com/track/5CWaYPulpYMRRl1ToR6yO7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 49 | [Assurance](https://open.spotify.com/track/3ZJblAM95vwSKA5IUloPJh) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:09 |
 | 50 | [Joy](https://open.spotify.com/track/3fy1cZJ5BwRXJ44Quz9Sum) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Joy](https://open.spotify.com/album/6DyLH9VXRUxCJYoMAOhQ3V) | 2:50 |
 
-Snapshot ID: `Z/MVgAAAAABuChODTgLKXCEGmZABqgKO`
+Snapshot ID: `Z/RnAAAAAABwuZOSea3AqY0FKj3p9e5o`

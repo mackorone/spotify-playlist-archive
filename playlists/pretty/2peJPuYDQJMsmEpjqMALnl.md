@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 
 > A classic playlist full of favorites of the 80s! Featuring hits from Queen, Tears For Fears, The Go\-Go's and many many more!
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 324,956 likes - 115 songs - 8 hr 3 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 325,062 likes - 115 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 | 114 | [What About Love?](https://open.spotify.com/track/5DT5P7CPp0uapcvcj7yw2X) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [20 \#1’s: Classic Rock Love Songs](https://open.spotify.com/album/0X9ef2VNhZeXDVoRZ0KMZs) | 3:41 |
 | 115 | [Hurts So Good](https://open.spotify.com/track/5bdV3YXrlYSw1pwJIrEpF4) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [The Best That I Could Do 1978 \- 1988](https://open.spotify.com/album/2ssc6teLS9Pr9JV7AuXUS4) | 3:39 |
 
-Snapshot ID: `AAAFUKT+Dz49BscPbrFY0fkDtRL/kMn4`
+Snapshot ID: `AAAFUmWfwG0nHcKD6Nme34Y7/vJ3WBJs`

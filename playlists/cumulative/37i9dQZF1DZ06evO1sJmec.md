@@ -4,7 +4,7 @@
 
 > This is Metallica\. The essential tracks, all in one playlist.
 
-90 songs - 8 hr 51 min
+92 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,8 +56,9 @@
 | [Moth Into Flame](https://open.spotify.com/track/3JjZq20Kv6UphyyirAaY9A) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7) | 5:50 | 2022-05-30 |  |
 | [Motorbreath \- Remastered](https://open.spotify.com/track/6RqEJvpEzzlwj8g0wKG1ln) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ) | 3:07 | 2022-05-30 |  |
 | [No Leaf Clover \- Live](https://open.spotify.com/track/2UIuYNBg8r5pkoG2MjdLZT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [S&M](https://open.spotify.com/album/1OZaosC2RtsE2TEqLziwAD) | 5:43 | 2022-05-30 |  |
-| [Nothing Else Matters](https://open.spotify.com/track/0nLiqZ6A27jJri2VCalIUs) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 6:28 | 2022-05-30 |  |
+| [Nothing Else Matters](https://open.spotify.com/track/0nLiqZ6A27jJri2VCalIUs) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 6:28 | 2022-05-30 | 2025-04-10 |
 | [Nothing Else Matters \- Jungle Cruise Version Part 1](https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Jungle Cruise \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq) | 1:26 | 2022-10-12 |  |
+| [Nothing Else Matters \- Remastered 2021](https://open.spotify.com/track/6QAsrXPnMSXIbV0yEJHlEX) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7h5xn0Olvx2p0eQcSt1Osy) | 6:28 | 2025-04-10 |  |
 | [Nothing Else Matters vs F\*CKING SOCIETY \- Hardwell Mashup](https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [REBELS NEVER DIE \(Deluxe Edition\)](https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX) | 3:09 | 2022-12-28 |  |
 | [One](https://open.spotify.com/track/5IX4TbIR5mMHGE4wiWwKW0) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice For All](https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g) | 7:27 | 2022-05-30 | 2025-04-02 |
 | [One \(Remastered\)](https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice for All \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/2XbWaerVk9fjhEiGSrd6TF) | 7:26 | 2025-04-02 |  |
@@ -66,7 +67,8 @@
 | [Ride The Lightning \- Remastered](https://open.spotify.com/track/2O7UGwJPVlix15Wn4sa5vw) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe / Remastered\)](https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx) | 6:36 | 2022-05-30 |  |
 | [Room of Mirrors](https://open.spotify.com/track/3L82LuRzu60EPSK1yf5Pxr) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 5:33 | 2023-04-16 | 2023-05-24 |
 | [Sad But True](https://open.spotify.com/track/1PhLYngBKbeDtdmDzCg3Pb) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:23 | 2022-05-30 | 2025-04-09 |
-| [Sad But True \(Remastered\)](https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:24 | 2025-04-09 |  |
+| [Sad But True \(Remastered\)](https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:24 | 2025-04-09 | 2025-04-10 |
+| [Sad But True \- Remastered 2021](https://open.spotify.com/track/5ltXoDLlI0rFZAmOXbAp5T) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7h5xn0Olvx2p0eQcSt1Osy) | 5:24 | 2025-04-10 |  |
 | [Screaming Suicide](https://open.spotify.com/track/0dwoX2gsjlRNa3rS40KFhQ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Screaming Suicide](https://open.spotify.com/album/2iEqcqpNG3zKBZAmiZzuDv) | 5:30 | 2023-01-21 | 2023-04-20 |
 | [Screaming Suicide](https://open.spotify.com/track/2hBn08QphNtdnhwDNtnZMg) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 5:30 | 2023-04-19 |  |
 | [Seek & Destroy \- Remastered](https://open.spotify.com/track/28WmNsclKsrVmdv3tDmoYU) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ) | 6:54 | 2022-05-30 |  |

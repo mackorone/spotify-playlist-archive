@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2471UyOhDZ.md) - [plain]
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Panchiko
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,107 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,108 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2471UyOhDZ.md) - [plain]
 | 96 | [Cold Dreaming](https://open.spotify.com/track/32gOXeiuZo01yiLeY8tHON) | [Doves](https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY) | [Cold Dreaming](https://open.spotify.com/album/5D22FZEUtC73xui9g1iQqz) | 5:02 |
 | 97 | [Waxwing](https://open.spotify.com/track/4gGh7b3nKa4rlxyPLWcfTd) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Waxwing](https://open.spotify.com/album/49vsrHjBAKKFj6PMjwQu6h) | 3:35 |
 | 98 | [Snares](https://open.spotify.com/track/382qAtuQEUpqa4ILGWfeWY) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Microtonic](https://open.spotify.com/album/2a7WAptRLsXA4dOnGIdn5a) | 4:41 |
-| 99 | [I Wanna Live With You](https://open.spotify.com/track/3myyZdktVep8TRBRbJvKLW) | [Opus Kink](https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3) | [I Wanna Live With You](https://open.spotify.com/album/7qAkVUXr3P9Cb1i9D6lR7L) | 2:54 |
-| 100 | [Rafters](https://open.spotify.com/track/3wyYvUZfeJRUPVW5PLaF4r) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [Rafters](https://open.spotify.com/album/2Mycw8jnB4YUQyxejVx8Ov) | 3:07 |
+| 99 | [Rafters](https://open.spotify.com/track/3wyYvUZfeJRUPVW5PLaF4r) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [Rafters](https://open.spotify.com/album/2Mycw8jnB4YUQyxejVx8Ov) | 3:07 |
+| 100 | [Garden](https://open.spotify.com/track/5cICW30wJh0GNydrFw4v7d) | [Maria Somerville](https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd) | [Garden](https://open.spotify.com/album/6AuJCBu9x0QF69P9Y8Zdfj) | 4:03 |
 
 Snapshot ID: `Z++m8QAAAAAYWLzKOo0QqH6kqiolt/9a`

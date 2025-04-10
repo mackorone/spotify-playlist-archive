@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 217024,
+  "num_followers": 217079,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/MVgAAAAAD/PPd43fICbN+9rZAnJRIL",
+  "snapshot_id": "Z/RnAAAAAAD2IhjR/ALKE3MhxRkM2jcY",
   "tracks": [
     {
       "added_at": null,
@@ -79,6 +79,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 228759,
+      "name": "ZEZE (feat. Travis Scott & Offset)",
+      "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Painting Pictures",
         "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
       },
@@ -111,30 +135,6 @@
       "duration_ms": 202840,
       "name": "BROTHER STONE (FEAT. KODAK BLACK)",
       "url": "https://open.spotify.com/track/093MlZS93ZKlHpGkmb3k3W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dying to Live",
-        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 228759,
-      "name": "ZEZE (feat. Travis Scott & Offset)",
-      "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
     },
     {
       "added_at": null,
@@ -487,6 +487,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Project Baby 2: All Grown Up (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0D2kFxAO1YPAuxAtP23g0p"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 264531,
+      "name": "Codeine Dreaming (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/4DTpngLjoHj5gFxEZFeD3J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LIVE LIFE FAST",
         "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
       },
@@ -511,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project Baby 2: All Grown Up (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0D2kFxAO1YPAuxAtP23g0p"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 264531,
-      "name": "Codeine Dreaming (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/4DTpngLjoHj5gFxEZFeD3J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Institution",
         "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
       },
@@ -543,6 +543,22 @@
       "duration_ms": 183562,
       "name": "Shake Back",
       "url": "https://open.spotify.com/track/7HbJiOw9TePjIcvvHCeWRc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Senseless",
+        "url": "https://open.spotify.com/album/1Kb6HgD9hML4dsu2meKGqJ"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 143857,
+      "name": "Senseless",
+      "url": "https://open.spotify.com/track/3zzzVTaq2evjtfz4SryuaE"
     },
     {
       "added_at": null,
@@ -563,22 +579,6 @@
       "duration_ms": 196336,
       "name": "Too Many Years",
       "url": "https://open.spotify.com/track/7KyTq7H5f3Oavmuo9TX6QK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Senseless",
-        "url": "https://open.spotify.com/album/1Kb6HgD9hML4dsu2meKGqJ"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 143857,
-      "name": "Senseless",
-      "url": "https://open.spotify.com/track/3zzzVTaq2evjtfz4SryuaE"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lil Big Pac",
-        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 240274,
-      "name": "Purp",
-      "url": "https://open.spotify.com/track/4RVDMSnj0BdE03cbbYg5rW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shampoo",
         "url": "https://open.spotify.com/album/6kvguegn7g69twj0Cg0OQ7"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 131213,
       "name": "Shampoo",
       "url": "https://open.spotify.com/track/2yrEBYkFqRcT65jRXnIICU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lil Big Pac",
+        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 240274,
+      "name": "Purp",
+      "url": "https://open.spotify.com/track/4RVDMSnj0BdE03cbbYg5rW"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lil Big Pac",
-        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 213028,
-      "name": "Gave It All I Got",
-      "url": "https://open.spotify.com/track/7Kbf1qDeDqshPsG2eSonFy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Take Freestyle Remix (feat. Kodak Black)",
         "url": "https://open.spotify.com/album/17gLxN7uVYy7gNAMUmhl0D"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 222805,
       "name": "One Take Freestyle Remix (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/0XUgIKMFqoQfbF04tapYOD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lil Big Pac",
+        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 213028,
+      "name": "Gave It All I Got",
+      "url": "https://open.spotify.com/track/7Kbf1qDeDqshPsG2eSonFy"
     },
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bill Israel",
+        "url": "https://open.spotify.com/album/051k93izd0reEjp85OgEo6"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Pimpin Ain't Eazy",
+      "url": "https://open.spotify.com/track/67Sr4xrGip66CqSOD7fGfO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gift For The Streets",
         "url": "https://open.spotify.com/album/2XRIFNw0ODKJ4GO3DwjOBE"
       },
@@ -855,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bill Israel",
-        "url": "https://open.spotify.com/album/051k93izd0reEjp85OgEo6"
+        "name": "Skrilla",
+        "url": "https://open.spotify.com/album/6AzBF6pF1Vtr1muijJ9Nlv"
       },
       "artists": [
         {
@@ -864,9 +880,9 @@
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Pimpin Ain't Eazy",
-      "url": "https://open.spotify.com/track/67Sr4xrGip66CqSOD7fGfO"
+      "duration_ms": 216189,
+      "name": "Skrilla",
+      "url": "https://open.spotify.com/track/5PyhIVD3WFiEQQTG36Tfch"
     },
     {
       "added_at": null,
@@ -891,38 +907,6 @@
       "duration_ms": 174517,
       "name": "Drowning - Sped Up Version",
       "url": "https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hit Stick",
-        "url": "https://open.spotify.com/album/2Ke0SlOOJmQ8zvs7tOjEZN"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 193246,
-      "name": "Hit Stick",
-      "url": "https://open.spotify.com/track/0tBESQdomKNyQQQk32nfA4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skrilla",
-        "url": "https://open.spotify.com/album/6AzBF6pF1Vtr1muijJ9Nlv"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 216189,
-      "name": "Skrilla",
-      "url": "https://open.spotify.com/track/5PyhIVD3WFiEQQTG36Tfch"
     },
     {
       "added_at": null,
@@ -959,6 +943,22 @@
       "duration_ms": 62789,
       "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",
       "url": "https://open.spotify.com/track/5qyjy0xfsHNzWxvXkHVB85"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hit Stick",
+        "url": "https://open.spotify.com/album/2Ke0SlOOJmQ8zvs7tOjEZN"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 193246,
+      "name": "Hit Stick",
+      "url": "https://open.spotify.com/track/0tBESQdomKNyQQQk32nfA4"
     }
   ],
   "unique_name": "This Is Kodak Black",

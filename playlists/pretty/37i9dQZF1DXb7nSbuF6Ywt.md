@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7nSbuF6Ywt.md) - [plain]
 
 > A solid mix of favourites for any time, any place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,000 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,011 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

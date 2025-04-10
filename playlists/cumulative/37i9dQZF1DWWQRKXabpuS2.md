@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. غلاف: فهد العمري
 
-397 songs - 1 day 3 hr 17 min
+399 songs - 1 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Kheira](https://open.spotify.com/track/7AbtlIY4FXVDOuDXpivtJS) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Kheira](https://open.spotify.com/album/5mdW9cFswJ2SPNKI7ER224) | 4:13 | 2022-02-16 | 2022-08-13 |
 | [Kif Ansa](https://open.spotify.com/track/3RR66lZhoGeghO8CHr3SXV) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [Kif Ansa](https://open.spotify.com/album/04y8i682SQUEEwIi4Yqft3) | 4:48 | 2024-09-05 |  |
 | [Kolli We Ehsasi](https://open.spotify.com/track/7sRtD4UFjJWp6XqY6bNbQu) | [Rulan](https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex) | [Kolli We Ehsasi](https://open.spotify.com/album/79Xf67nMR0UTUMgrBUT32F) | 6:37 | 2022-02-17 | 2022-08-13 |
+| [Kul Hesabati](https://open.spotify.com/track/472ToJjQLy6ofCS3txLhLt) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Kul Hesabati](https://open.spotify.com/album/7K8Pe0cHG3LXQ4q1hHJ4xv) | 3:08 | 2025-04-09 |  |
 | [La Teharef](https://open.spotify.com/track/5aBHfsSGRuPxPdu3JPEusq) | [Natasha](https://open.spotify.com/artist/7MBJMXAEJuzO754trRIuHu) | [لا تحرف](https://open.spotify.com/album/3GQwWZK3ojppjzPkRGj7x5) | 3:54 | 2022-06-02 | 2023-01-10 |
 | [Laalaha Khierah](https://open.spotify.com/track/6idBQjC1kZMtrvVyWaLsAK) | [Waed](https://open.spotify.com/artist/2lJxCVBy3A4nHP3kh1lkDg) | [Laalaha Khierah](https://open.spotify.com/album/58ZvMH4DjAoNkY3r7vx32g) | 5:05 | 2024-02-21 | 2024-10-11 |
 | [Lail EL Mefarag](https://open.spotify.com/track/2jr8YIesCQsPzjLpjwJx20) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Lail EL Mefarag](https://open.spotify.com/album/4lHyB1fOo2GPI34u47qwSD) | 4:34 | 2022-09-30 | 2023-05-03 |
@@ -357,12 +358,13 @@
 | [سبع وثمان](https://open.spotify.com/track/3UTORktaYB1E8YWp5DuTSF) | [Omar Alabdallat](https://open.spotify.com/artist/3zbimX3Z591csbDHH2Iuxc) | [ديار ليلى](https://open.spotify.com/album/2nMSi3FKbTdgEygD6X1N7l) | 3:16 | 2024-05-23 | 2025-02-19 |
 | [سرق قلبي](https://open.spotify.com/track/2kqlas6p59Cm6OeYp2rWFb) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [سرق قلبي](https://open.spotify.com/album/0IVWUkh9YUII3SPLQXwJHP) | 4:15 | 2023-01-31 | 2023-08-26 |
 | [سقط عمدًا](https://open.spotify.com/track/0LgiX1pjvT9hYYjTi94JNJ) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [فهد الكبيسي ٢٠٢٤](https://open.spotify.com/album/2rcwcw5RyBM3gUXYIz7blF) | 5:08 | 2024-04-15 | 2024-04-19 |
-| [سهم محنك](https://open.spotify.com/track/0Qj95JOvgxv2XuKcdsxq7G) | [Hamad Al Ammari](https://open.spotify.com/artist/4BYiasKtxQfOM9lcfuaS6u), [Lulwa Almulla](https://open.spotify.com/artist/7ILQNolx3K5hDkbiXjjjlY) | [سهم محنك](https://open.spotify.com/album/43mynqGUOIqd0YLUaTcsRU) | 2:53 | 2024-07-30 |  |
+| [سهم محنك](https://open.spotify.com/track/0Qj95JOvgxv2XuKcdsxq7G) | [Hamad Al Ammari](https://open.spotify.com/artist/4BYiasKtxQfOM9lcfuaS6u), [Lulwa Almulla](https://open.spotify.com/artist/7ILQNolx3K5hDkbiXjjjlY) | [سهم محنك](https://open.spotify.com/album/43mynqGUOIqd0YLUaTcsRU) | 2:53 | 2024-07-30 | 2025-04-10 |
 | [سواليف الوله](https://open.spotify.com/track/6sX47nT4v24OVf2FbfGE70) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [سواليف الوله](https://open.spotify.com/album/6a2aQVXeBNvHM9ovsnWuor) | 3:23 | 2023-05-26 | 2023-12-22 |
 | [شسوي لي](https://open.spotify.com/track/60qhwVunSyTH1HjIWkw4CM) | [هدى الفهد](https://open.spotify.com/artist/0PIckHaNLdTeZbmA8Vstn5) | [شسوي لي](https://open.spotify.com/album/4r2L12xyazKM27S6I9OOJr) | 3:50 | 2023-03-14 | 2023-05-16 |
 | [شوفلك احد](https://open.spotify.com/track/6nNy3ACYBEag8BIqOotcr8) | [Salah Al Zadjali](https://open.spotify.com/artist/2zrCAcIqROY4WLtgtLzbwh) | [شوفلك احد](https://open.spotify.com/album/1HhiRCWFmdQZ2jNUfEmPPx) | 4:02 | 2025-04-07 |  |
 | [ضاق الغمام](https://open.spotify.com/track/3HRvfEMnAwmaoC0dhfYUiL) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [فؤاد عبدالواحد ٢٠٢٤](https://open.spotify.com/album/5N2NALxsk5s6Mr6bVezMm3) | 4:23 | 2023-12-09 | 2024-04-19 |
 | [ضعت منك](https://open.spotify.com/track/5KKjRWEIqWQ1nygHT9lf3j) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [ضعت منك](https://open.spotify.com/album/6nAqcqeaZWMW29hldi7dta) | 3:56 | 2024-09-18 |  |
+| [طلعت ابيه](https://open.spotify.com/track/1UGaliIKCl7MOWzvzh5chs) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [عايض ٢٠٢٥](https://open.spotify.com/album/6CKUiiaHgkhNidqi3MGLYe) | 4:38 | 2025-04-09 |  |
 | [عشق سيده](https://open.spotify.com/track/2mPhU96WHlnj19ADPxAq63) | [عبدالله مبارك](https://open.spotify.com/artist/4n96Q1BZ2AAOwob61UfgWx), [شيخة العسلاوي](https://open.spotify.com/artist/70sogpOUuPnVGPGPA9m6gY), [محمد شايع](https://open.spotify.com/artist/6DtYDF0YfObTa33SQYi7Re) | [عشق سيده](https://open.spotify.com/album/4t2lgjxCV5Ep8kwCdGPpF4) | 3:32 | 2023-05-02 | 2023-11-24 |
 | [على شاني](https://open.spotify.com/track/2YuCjMPqT4lQa8eAMjHWzv) | [Lamia Jamel](https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm) | [على شاني](https://open.spotify.com/album/73M1hY0tHmiNBo4rPJGjLz) | 3:36 | 2022-06-29 | 2023-01-12 |
 | [عن حب](https://open.spotify.com/track/3QEJRUVij90qdzU1AObDZY) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [عن حب](https://open.spotify.com/album/2zLFbF01L9wYqm98OLTKZy) | 3:05 | 2022-10-11 | 2023-05-05 |
@@ -392,7 +394,7 @@
 | [نختلف](https://open.spotify.com/track/0saWOpjP5GsSIS8Xg3Yob8) | [هدى الفهد](https://open.spotify.com/artist/0PIckHaNLdTeZbmA8Vstn5) | [نختلف](https://open.spotify.com/album/5Pt6p7tl0DOE93klDxYkfW) | 3:31 | 2023-04-22 | 2023-05-26 |
 | [هذي الدنيا](https://open.spotify.com/track/3Pvl1Q2B6ZwjQYJGCnb1Aw) | [Faisal Al Jasem](https://open.spotify.com/artist/0jsUKX6jfAdzVj3ml3BAwT) | [هذي الدنيا](https://open.spotify.com/album/3n1ASjeJSVgSXwsYliPKXQ) | 5:39 | 2022-07-10 | 2023-01-19 |
 | [هنيالو](https://open.spotify.com/track/28L8RTHgg9XPvDtL3R0pmX) | [أروى](https://open.spotify.com/artist/6Rl7uv3qQrsZOhgu7Xj9Zj) | [هنيالو](https://open.spotify.com/album/24San4mNpcyhkYH4oiu0iO) | 3:40 | 2023-01-10 | 2023-07-12 |
-| [واجد عليه](https://open.spotify.com/track/2uHZNRMwq1eQALyhc2ByTg) | [همس فكري](https://open.spotify.com/artist/17fC5wDuPN7ooXSpUD6Smy) | [واجد عليه](https://open.spotify.com/album/2w8AATKmjxIPolueq4fgV5) | 3:03 | 2024-06-29 |  |
+| [واجد عليه](https://open.spotify.com/track/2uHZNRMwq1eQALyhc2ByTg) | [همس فكري](https://open.spotify.com/artist/17fC5wDuPN7ooXSpUD6Smy) | [واجد عليه](https://open.spotify.com/album/2w8AATKmjxIPolueq4fgV5) | 3:03 | 2024-06-29 | 2025-04-10 |
 | [واذا يعني](https://open.spotify.com/track/1AVs6owHMcViBmCphwxICa) | [ناصر نايف](https://open.spotify.com/artist/3nyPw7YNMNY6acdKOCj45r) | [واذا يعني](https://open.spotify.com/album/0tRiqBGwVie1KHRqABqXOU) | 3:17 | 2023-01-11 | 2023-07-15 |
 | [وذا مارحت](https://open.spotify.com/track/0yBbI752cyXl1lioeMrn1v) | [ضحى ذاكر](https://open.spotify.com/artist/2YscB4ch7eFXGvGiv6uSV5) | [واذا مارحت \- Single](https://open.spotify.com/album/0rga8umlOMLhiJ6deifelZ) | 2:47 | 2021-12-23 | 2022-02-18 |
 | [وصلنا](https://open.spotify.com/track/5x30FoNuMhL1dzwrSbDpEm) | [VO](https://open.spotify.com/artist/4QII96v2C63K9PaG6k8aby), [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk), [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [وصلنا](https://open.spotify.com/album/1vrIcCOg50amkJ8OgdxI4a) | 3:39 | 2021-12-23 | 2022-04-01 |

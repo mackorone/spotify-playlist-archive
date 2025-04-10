@@ -4,7 +4,7 @@
 
 > Enjoy music from Doraemon The Movie! ⓒFujiko\-Pro, Shogakukan, TV\-Asahi, Shin\-ei, and ADK 2025
 
-54 songs - 3 hr 42 min
+55 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [ボクノート](https://open.spotify.com/track/72t8Apk92BNOE9iWiVfRG9) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [夕風ブレンド](https://open.spotify.com/album/1augQyrMkhybkaINaxUyVL) | 5:36 | 2023-02-28 |  |
 | [僕の心をつくってよ](https://open.spotify.com/track/2zxLdUZZUBznEtI9x6pxxO) | [Ken Hirai](https://open.spotify.com/artist/6jIhEiXcCAyBsuEI7qZ9vc) | [あなたになりたかった](https://open.spotify.com/album/7JAM66YWBWKjYiqDU4oczq) | 4:19 | 2023-02-28 | 2024-04-19 |
 | [僕の心をつくってよ](https://open.spotify.com/track/7qcARr8w8ApVqI8baXB0tt) | [Ken Hirai](https://open.spotify.com/artist/6jIhEiXcCAyBsuEI7qZ9vc) | [Ken Hirai Singles Best Collection 歌バカ 2](https://open.spotify.com/album/61eTcQQunFrXuIn7fNntb5) | 4:20 | 2024-02-07 |  |
+| [光のシグナル](https://open.spotify.com/track/68VO2aVwUrkRJo7m0XrK45) | [Kis\-My\-Ft2](https://open.spotify.com/artist/4kxoWjOpCVYKgPv9nea95k) | [光のシグナル](https://open.spotify.com/album/28mES2k7GFbwbhK2lVULON) | 4:24 | 2025-04-09 |  |
 | [兎のダンス \- ディスコMix](https://open.spotify.com/track/4LFRXRyJ9FS1VZYGlfVzVu) | [Takayuki Hattori](https://open.spotify.com/artist/76bJYea3ZCMhhO8aF0iU5W) | [「映画ドラえもん のび太の月面探査記」 オリジナル・サウンドトラック](https://open.spotify.com/album/6VsE03eRiyrsrPExSbodmX) | 1:12 | 2023-02-28 |  |
 | [友達の唄](https://open.spotify.com/track/7rWuSM3qyNXaVm4XqROWV1) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [RAY](https://open.spotify.com/album/7Al8QIzk8sarvtcjkY6lqw) | 6:09 | 2023-02-28 |  |
 | [君と重ねたモノローグ](https://open.spotify.com/track/4Zk4F73POCW2GKYlpLpEpD) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [SOUNDTRACKS](https://open.spotify.com/album/1EKHTn7izq40Me9Wwg87rS) | 7:32 | 2023-02-28 | 2024-04-19 |

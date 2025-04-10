@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 638,855 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 638,926 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 | 49 | [Out In the Street](https://open.spotify.com/track/1k7CqKKwQu4zIK6DrsuqKG) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 4:17 |
 | 50 | [Darkness On the Edge of Town](https://open.spotify.com/track/6fBy4h0spon7gkmZroCRmR) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 4:32 |
 
-Snapshot ID: `Z/MVgAAAAAA3lHh+8OGDnP79rWCTMonm`
+Snapshot ID: `Z/RnAAAAAABMhpQ1hF3gYODKda2q4sPi`

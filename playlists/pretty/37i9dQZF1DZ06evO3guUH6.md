@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 
 > This is Alfredo Olivas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,016,163 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,016,399 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 | 24 | [Medalla De Plata](https://open.spotify.com/track/6HhmRkKT5i2oGSECqQxrog) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:03 |
 | 25 | [Volverá](https://open.spotify.com/track/1lLCXEoNCObfoSFWG9FxdC) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Volverá](https://open.spotify.com/album/1FT4Db2R3qA0zzqQFkSUAr) | 2:52 |
 | 26 | [Y Porque No](https://open.spotify.com/track/4tgo5UD0x1z4wG0iAryYSk) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Privilegio](https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj) | 3:40 |
-| 27 | [Noche De Enciclopedia](https://open.spotify.com/track/2AGKrFeiZ1kWTFP9kkPTCJ) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Noche De Enciclopedia](https://open.spotify.com/album/35hpcQ7BuCw7ObvPtZ4vIg) | 3:08 |
-| 28 | [Voy Queriéndote](https://open.spotify.com/track/5wbyzeqiYoM3JEaCDW8aX1) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | ["V1V0"](https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht) | 3:27 |
+| 27 | [Voy Queriéndote](https://open.spotify.com/track/5wbyzeqiYoM3JEaCDW8aX1) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | ["V1V0"](https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht) | 3:27 |
+| 28 | [Noche De Enciclopedia](https://open.spotify.com/track/2AGKrFeiZ1kWTFP9kkPTCJ) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Noche De Enciclopedia](https://open.spotify.com/album/35hpcQ7BuCw7ObvPtZ4vIg) | 3:08 |
 | 29 | [Sin Explicaciones](https://open.spotify.com/track/3MjFu8fCCH2gSUxc9IVOdA) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 2:52 |
 | 30 | [Todo O Nada](https://open.spotify.com/track/0snAM2wzhyQkT1zQmFliLG) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [La Rueda De La Fortuna](https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd) | 3:54 |
 | 31 | [La Danza Del Venado](https://open.spotify.com/track/468U6z141Dy1dVPikBwKfY) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:26 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 | 35 | [Comando X \(En Vivo\)](https://open.spotify.com/track/7Lbm7AgXKNxz7M6HUsUx8O) | [Tito Torbellino](https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [En Vivo](https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk) | 4:11 |
 | 36 | [Autorízame](https://open.spotify.com/track/6T2y5WeZ71xB2N5OcvVkBI) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Patroncito](https://open.spotify.com/album/0tIyKS6ftGdNvonIhxXI7h) | 3:04 |
 | 37 | [La Mejor De Las Historias](https://open.spotify.com/track/7B5W4cddzkBppgnbcu4syz) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:35 |
-| 38 | [Ya Se Fue](https://open.spotify.com/track/0tP88lyRyCHHO3q8D8bRiG) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Mis 30 Aniversario, Vol\. 3](https://open.spotify.com/album/5kcO8OQj6dqVtTgg232WSU) | 3:21 |
-| 39 | [Cuando Valgas La Pena \- Versión Mariachi](https://open.spotify.com/track/3pBTu2wT09kh7kP6VU0DR8) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Privilegio](https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj) | 4:37 |
+| 38 | [Cuando Valgas La Pena \- Versión Mariachi](https://open.spotify.com/track/3pBTu2wT09kh7kP6VU0DR8) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Privilegio](https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj) | 4:37 |
+| 39 | [Ya Se Fue](https://open.spotify.com/track/0tP88lyRyCHHO3q8D8bRiG) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Mis 30 Aniversario, Vol\. 3](https://open.spotify.com/album/5kcO8OQj6dqVtTgg232WSU) | 3:21 |
 | 40 | [Los Lujos Del R.](https://open.spotify.com/track/1QZrQnjIMS9yVFVYRoqnaX) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Que Siga La Fiesta](https://open.spotify.com/album/2bkgORd3gzIuLhrNlF1yRf) | 3:55 |
 | 41 | [Los Inadaptados](https://open.spotify.com/track/15v0ra246PDmiT5Vh9YzWO) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Los Inadaptados](https://open.spotify.com/album/7Fz369S1erEQYmnrbZawsB) | 2:55 |
 | 42 | [Puede](https://open.spotify.com/track/776TH7RwOwvwHAFOydiECI) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Puede](https://open.spotify.com/album/1pKrXwqTJy4a71vnxbVc6A) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 | 49 | [Otro Perdedor](https://open.spotify.com/track/5CXAHV4mt5tuIP7oI4ldeH) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 4:10 |
 | 50 | [Cobijas Ajenas](https://open.spotify.com/track/2P06ws9H4jQNJm3Lbo3tZ4) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Cobijas Ajenas](https://open.spotify.com/album/7t5fOkOrOvWdg2DUbkyD8M) | 2:40 |
 
-Snapshot ID: `Z/MVgAAAAAASc48MXr7gXb+j0mNlXEUI`
+Snapshot ID: `Z/RnAAAAAABcECXPQvlF8iOM3pNPIWh8`

@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "A Different Story",
+        "url": "https://open.spotify.com/album/6cOPkFFcRnazHp6wYRp2R6"
+      },
+      "artists": [
+        {
+          "name": "Jonam Breuer",
+          "url": "https://open.spotify.com/artist/70wQIh59h8RCbhUE61arYu"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130123,
+      "name": "A Different Story",
+      "url": "https://open.spotify.com/track/2kk5IhP7CETo9dlG9yMaa5"
+    },
+    {
+      "album": {
         "name": "A Quiet Triumph",
         "url": "https://open.spotify.com/album/5S8I0cMWopewNcq6xzlBzj"
       },
@@ -1684,7 +1702,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 159500,
       "name": "Le soleil brille",
       "url": "https://open.spotify.com/track/33JTqE9e7gORkp63S7FZF2"
@@ -1774,7 +1792,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 237250,
       "name": "Like A Whisper",
       "url": "https://open.spotify.com/track/4C4B9L1O7JCiDSniF64rbJ"
@@ -2610,7 +2628,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 182312,
       "name": "Psalm",
       "url": "https://open.spotify.com/track/7c2CN4p20ptpqkERAJPdI1"
@@ -2628,7 +2646,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 169312,
       "name": "Quicksand",
       "url": "https://open.spotify.com/track/17jvo4FD4s17STVTrf099y"
@@ -2970,7 +2988,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 228710,
       "name": "Sleeping Forest",
       "url": "https://open.spotify.com/track/3VpHOtfXljfg3cPkE1hrzd"
@@ -3546,7 +3564,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 176603,
       "name": "Tuning the Picture",
       "url": "https://open.spotify.com/track/16bkyOOqnn6SDXjpQyqBhh"
@@ -3960,7 +3978,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 153464,
       "name": "Wistful Heart",
       "url": "https://open.spotify.com/track/7FUeGwCMN82RlhFLkBRbJV"

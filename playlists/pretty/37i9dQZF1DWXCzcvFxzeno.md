@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,807 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,434 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

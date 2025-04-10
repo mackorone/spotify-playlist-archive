@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Mei Semones
 
-1,532 songs - 3 day 15 hr 57 min
+1,533 songs - 3 day 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [Dark Star](https://open.spotify.com/track/4AwX0i4DC8buTFbFsHpqzs) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Dark Star b/w Pastel Sunrise](https://open.spotify.com/album/5Em1Nym2EEFoJpQzSgt908) | 3:08 | 2022-04-29 | 2022-06-03 |
 | [David](https://open.spotify.com/track/0VHS1bzjUYPQUUdsveukVU) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [David](https://open.spotify.com/album/2IE0DyI3VpGaW9JsgdLL4f) | 3:05 | 2021-05-14 | 2022-04-29 |
 | [Dawning](https://open.spotify.com/track/6kD2M35ioMIe77cAaL8RzY) | [THEM PARENTS](https://open.spotify.com/artist/0zBu6Ne0tm3kArvljuazCj) | [Dawning](https://open.spotify.com/album/7E8hpPJPfnldSLj41mHHoI) | 3:50 | 2022-03-04 | 2022-04-14 |
+| [Dead Beat City](https://open.spotify.com/track/1VPWPBWtpRtLeB4kHkddZb) | [Kids That Fly](https://open.spotify.com/artist/1qChcfwij4nN6hsCLTKBJX) | [Dead Beat City](https://open.spotify.com/album/3zEsj1P1EJGu67rUKLVbWl) | 3:53 | 2025-04-09 |  |
 | [Dead Lands](https://open.spotify.com/track/4bFyukeX4nCR9BEY1iuhps) | [Punchlove](https://open.spotify.com/artist/5Tbdx7OG835TPTxnEgfNiW) | [Dead Lands](https://open.spotify.com/album/02N4g76ECc45R7WAsK0ml8) | 4:34 | 2023-12-08 | 2024-02-10 |
 | [Death Drive](https://open.spotify.com/track/0OT4qBesl43phNlvSCLiTM) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Pools of Colour](https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL) | 3:11 | 2023-12-08 | 2024-02-17 |
 | [Death Drive](https://open.spotify.com/track/3gtxS59vfzWAOne1AIonXw) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Death Drive](https://open.spotify.com/album/3QYzKAOZ6XwSPiOPjiWv2T) | 3:11 | 2023-09-01 | 2023-11-23 |

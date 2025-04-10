@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 
 > This is XXXTENTACION\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,963,103 likes - 50 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,963,119 likes - 50 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 | 20 | [Riot](https://open.spotify.com/track/4aOOExMBUyxKnEYb39SrTg) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Riot](https://open.spotify.com/album/0G3uruzIfqEMKmuI8vGZ42) | 1:18 |
 | 21 | [Carry On](https://open.spotify.com/track/2yZax79pOrYuyIFVW2cZY2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:09 |
 | 22 | [changes](https://open.spotify.com/track/7AFASza1mXqntmGtbxXprO) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:01 |
-| 23 | [let's pretend we're numb](https://open.spotify.com/track/4VOLwHXIrB5zktV7prPeOW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [let's pretend we're numb](https://open.spotify.com/album/5MmwkV5cSX2MQJpo1mMa5V) | 1:20 |
-| 24 | [Roll in Peace \(feat\. XXXTENTACION\)](https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 3:33 |
+| 23 | [Roll in Peace \(feat\. XXXTENTACION\)](https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 3:33 |
+| 24 | [let's pretend we're numb](https://open.spotify.com/track/4VOLwHXIrB5zktV7prPeOW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [let's pretend we're numb](https://open.spotify.com/album/5MmwkV5cSX2MQJpo1mMa5V) | 1:20 |
 | 25 | [YuNg BrAtZ](https://open.spotify.com/track/2ooF4088y5L72c4YTEJQoB) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Revenge](https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c) | 1:41 |
 | 26 | [ATTENTION!](https://open.spotify.com/track/0RjJSBBEolCDJ6wDiuVCmh) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Bad Vibes Forever](https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ) | 2:00 |
 | 27 | [vice city](https://open.spotify.com/track/6MOst484piqXpzPPRRe8i5) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [vice city](https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 | 49 | [VERY RARE FOREVER FREESTYLE](https://open.spotify.com/track/5jVQ5q8TKE1xZpqTmIF5B2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [VERY RARE FOREVER FREESTYLE](https://open.spotify.com/album/33kv6G3jJt1lGfMIq9pqqb) | 1:34 |
 | 50 | [Off the Wall!](https://open.spotify.com/track/0GRmh4ZlobfhvDE9L4CbOs) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [XXXTENTACION Presents: Members Only, Vol\. 3](https://open.spotify.com/album/7ifkO4gppMVf0HNy7JJDHn) | 3:23 |
 
-Snapshot ID: `Z/MVgAAAAADDH7EVNGwoDoaAk2zBOE41`
+Snapshot ID: `Z/RnAAAAAAByURCCp1rYo6JBiDwqUTsx`

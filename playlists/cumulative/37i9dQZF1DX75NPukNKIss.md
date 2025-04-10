@@ -4,7 +4,7 @@
 
 > Way 2 Slizzy\. Click into the feed to learn all about the movement\. Cover: Playboi Carti
 
-111 songs - 5 hr 11 min
+112 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [swag it! \- Remix](https://open.spotify.com/track/7u8eXlHIWOLGqOjp6XnM3x) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [SEX DRIVE](https://open.spotify.com/album/5cAEY0anGcXg5bneAMAKXh) | 3:11 | 2024-10-25 |  |
 | [Tat My Name](https://open.spotify.com/track/5ctdeiIEDzeYxeKAPmTU9y) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Read This When You Wake Up](https://open.spotify.com/album/12jOMUVgZAPZefVHeivVrL) | 3:04 | 2024-12-13 |  |
 | [Tell Me Again \(with Bay Swag\)](https://open.spotify.com/track/4XtliFaBmh2ID7LiDwHjCK) | [Girlfriend](https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Tell Me Again \(with Bay Swag\)](https://open.spotify.com/album/4bJap4XE07xCRaCRc6z6Ws) | 2:43 | 2024-10-25 |  |
+| [TEN](https://open.spotify.com/track/6C6X1c4FCvzxQZcparVtKN) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [TEN](https://open.spotify.com/album/5IuyySuOpjAkbHc2pXOimN) | 2:43 | 2025-04-09 |  |
 | [The Best](https://open.spotify.com/track/54mrCPoOQmXARvk5aOsAS9) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 2:35 | 2024-10-25 |  |
 | [THE CREATORS](https://open.spotify.com/track/0rWZT7VZuMDSjFKgEpjSd2) | [Lonny Love](https://open.spotify.com/artist/4AROj468VOYU9TFJD8KcOm) | [SEXIEST PLACE ON EARTH](https://open.spotify.com/album/7aMhL4nTy7Bg52Moi6P2ba) | 3:04 | 2024-10-25 |  |
 | [The Method](https://open.spotify.com/track/34d0q4ltS3Lx6JAEHHKPRn) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [The Method](https://open.spotify.com/album/6mVBWkURIWDKP1wUEjzsM3) | 2:29 | 2025-02-07 |  |

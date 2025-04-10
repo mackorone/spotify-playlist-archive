@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0BXZFUhCvDu1cTb1mX01ix.md) - [plain]
 
 > Crank it, sing along, and relive the decade that brought some of the best hits! Cover: No Doubt
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 114,812 likes - 80 songs - 5 hr 35 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 114,809 likes - 80 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/0BXZFUhCvDu1cTb1mX01ix.md) - [plain]
 | 79 | [Let's Talk About Sex](https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Blacks' Magic](https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR) | 3:33 |
 | 80 | [Steal My Sunshine \- Single Version](https://open.spotify.com/track/5Muvh0ooAJkSgBylFyI3su) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [Steal My Sunshine EP](https://open.spotify.com/album/7xXKgIFgbBSdBAV4rDZ9yp) | 3:31 |
 
-Snapshot ID: `AAABSSLkNhtOmb8MkZjleFMuZ+hOd0zL`
+Snapshot ID: `AAABS+8FPW+DgxrF8nqOpvoArYZEAoF8`

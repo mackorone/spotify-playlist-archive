@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 
 > Pop music driving the current, every week\.  Cover: PinkPantheress
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,560 likes - 49 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,562 likes - 49 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

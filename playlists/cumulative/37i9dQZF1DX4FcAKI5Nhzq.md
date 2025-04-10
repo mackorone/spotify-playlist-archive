@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: izna\)
 
-1,249 songs - 2 day 19 hr 46 min
+1,251 songs - 2 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [BRB](https://open.spotify.com/track/620yE97rij2snTka7EbKH0) | [H1GHR MUSIC](https://open.spotify.com/artist/2a3wtqb5oDZFegk1xPJu7K) | [BRB](https://open.spotify.com/album/6jJeQc9hKDXc5Loe6yZgr2) | 5:04 | 2022-08-03 | 2022-09-25 |
 | [Break It](https://open.spotify.com/track/4Az4kzsnrUNSeolqUKHGJN) | [GONEISBACK](https://open.spotify.com/artist/4OrhX1WxBpJgjctQCIRFZt) | [Break It](https://open.spotify.com/album/41hzUV0CpK1iJmG1h29Ega) | 2:47 | 2023-01-17 | 2023-02-18 |
 | [Breath](https://open.spotify.com/track/2tVkFxyePqB0o4Y4SYKV0Q) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Breath](https://open.spotify.com/album/2DUCTJhmXzOWNpjYnzt7Sz) | 3:07 | 2020-11-23 | 2021-04-22 |
+| [BREATHE](https://open.spotify.com/track/2P5bbp7BeVtrECPJaN8AFO) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : SPUR](https://open.spotify.com/album/34AWJLKuS7vDo9WvPSd6rE) | 3:03 | 2025-04-09 |  |
 | [Breathe Again](https://open.spotify.com/track/5bAgMDRLG5YKdXwOU7KVAe) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [CHECK\-IN](https://open.spotify.com/album/1ByTvinHUbdfpRMqxzGCUr) | 3:34 | 2021-05-19 | 2021-06-25 |
 | [Bring it on](https://open.spotify.com/track/6w4nlTYyrzB5kYhiABzBsQ) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [TRICKSTER](https://open.spotify.com/album/3SexPtGPRSuzvjawaByl2G) | 3:24 | 2022-05-18 | 2022-07-14 |
 | [Broken Me](https://open.spotify.com/track/6PiOBvjLSb1UD9wtqwplUG) | [BM](https://open.spotify.com/artist/5lZV4z4dpX6IfTYlfUMvOE) | [Broken Me](https://open.spotify.com/album/26iymt2wG3Bw53mmX5AbvB) | 3:24 | 2021-06-11 | 2021-08-05 |
@@ -429,7 +430,7 @@
 | [Giddy](https://open.spotify.com/track/6blIAzkMKENKqAfMwj5cZQ) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [LOVESTRUCK!](https://open.spotify.com/album/06qoehc4xjI7IW9J8jQFEX) | 3:04 | 2023-04-13 | 2023-09-14 |
 | [Gimme A Minute \(Feat\. CHUNG HA\)](https://open.spotify.com/track/7jYRRvidgWHyHmlIu5lyx7) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [THE ONE YOU WANTED](https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv) | 3:05 | 2024-10-09 | 2025-01-11 |
 | [GingaMingaYo \(the strange world\)](https://open.spotify.com/track/3jHg6QE70y2FTdnsxSrCbv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the collective soul and unconscious: chapter one](https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw) | 3:35 | 2022-03-09 | 2022-11-11 |
-| [Girls Never Die](https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM) | 3:07 | 2024-05-14 |  |
+| [Girls Never Die](https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM) | 3:07 | 2024-05-14 | 2025-04-10 |
 | [Girls of the Year](https://open.spotify.com/track/03grA043a1uECo5Kyw28a0) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Girls of the Year](https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG) | 2:58 | 2024-01-29 | 2024-03-26 |
 | [Girls’ Night](https://open.spotify.com/track/0hnxybqZeJzU85jSwf5cdG) | [Loossemble](https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY) | [One Of A Kind](https://open.spotify.com/album/2sN27KkVSnHvqi0MA2YxcZ) | 3:24 | 2024-04-18 | 2024-06-13 |
 | [give me head](https://open.spotify.com/track/2iaTxNOzBjXXDQAFcoR0Ma) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [give me head](https://open.spotify.com/album/3DwvuuF6sJeNz95L2LrypG) | 3:03 | 2021-09-29 | 2021-10-28 |
@@ -569,7 +570,7 @@
 | [It’s Okay \(Feat\. ZICO\)](https://open.spotify.com/track/1rIxqNylFsRslfo8lRcWJ6) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Voice Memo](https://open.spotify.com/album/7Bj13tpSdTLIlFYLABtloT) | 3:19 | 2025-03-14 |  |
 | [It′ll Be Alright](https://open.spotify.com/track/4xrLFswrUOP8MHJaTHHD8T) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [,and](https://open.spotify.com/album/5fJXjW9On6vPk1f58kMQNP) | 4:18 | 2022-11-10 | 2023-01-18 |
 | [IYAH](https://open.spotify.com/track/3EC9jQuk4yPP3IhKOJvbPw) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:45 | 2021-03-31 | 2021-06-09 |
-| [IZNA](https://open.spotify.com/track/1Lid3Sc6luHWuiauUM6Ckt) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [N/a](https://open.spotify.com/album/0OZI8FUpj852bAMgu1okko) | 2:36 | 2024-12-05 |  |
+| [IZNA](https://open.spotify.com/track/1Lid3Sc6luHWuiauUM6Ckt) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [N/a](https://open.spotify.com/album/0OZI8FUpj852bAMgu1okko) | 2:36 | 2024-12-05 | 2025-04-10 |
 | [J U S T F U N \(with george\)](https://open.spotify.com/track/0fhnZmbHlo4rdcINqvhLCb) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh) | [J U S T F U N \(with george\)](https://open.spotify.com/album/2q0mO6x6Br2J3YVmVXMo4I) | 2:52 | 2023-10-05 | 2023-11-04 |
 | [JAJA](https://open.spotify.com/track/1FmOWhvlAerXKE8xCZUOgy) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Dry Flower](https://open.spotify.com/album/68Dq3HMqFPoTX1gNqSDDII) | 3:16 | 2021-04-22 | 2021-06-18 |
 | [Jay Park](https://open.spotify.com/track/0ZPT0Ntbh8a6L1B2xJ3Atr) | [Queen WA$ABII](https://open.spotify.com/artist/5FQWaF32sJ8rXb8aPcj2VI), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Jay Park](https://open.spotify.com/album/5yZvGKoOzgl5LlR3i1Obpm) | 2:58 | 2021-07-14 | 2021-09-07 |
@@ -1169,6 +1170,7 @@
 | [Wakey Wakey](https://open.spotify.com/track/2FzUD2fJDnR8uEaBtZIN20) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Wakey Wakey](https://open.spotify.com/album/2z663REgTC3wLtIcipDRnC) | 2:40 | 2025-03-28 |  |
 | [Walk With Me](https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Walk With Me](https://open.spotify.com/album/3E4D5ojNyym9TEc9uTlwAd) | 4:06 | 2021-12-15 | 2022-01-17 |
 | [WANNA BE MYSELF](https://open.spotify.com/track/0VPBuXtEG16NtN5ZGYJ7lV) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [WANNA BE MYSELF](https://open.spotify.com/album/0n62copUsWrST9M6AsYfZI) | 3:26 | 2020-10-13\* | 2021-01-18 |
+| [WANT](https://open.spotify.com/track/4G8rbofCc2vyGZ3pbCHiUH) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [WANT](https://open.spotify.com/album/5Nz1GLdhSyy88BOSOpoNap) | 3:31 | 2025-04-09 |  |
 | [Warning \(Feat\. lIlBOI\)](https://open.spotify.com/track/1j795THd14Z0PmA3O18EwU) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [I'm](https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z) | 3:28 | 2021-04-06 | 2021-06-09 |
 | [water color](https://open.spotify.com/track/2pNJ0TsgiRc4mGdYHazD5w) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Redd](https://open.spotify.com/album/32pXXle0zoKIFG03iefH2c) | 3:09 | 2021-04-14 | 2021-06-18 |
 | [Waves \(feat\. Simon Dominic & Jamie\)](https://open.spotify.com/track/6fXesHsuCFf80vYzDP26J5) | [KANG DANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Waves \(feat\. Simon Dominic & Jamie\)](https://open.spotify.com/album/5ZwfFVBuxVS2lbbDR8vtDk) | 2:44 | 2020-10-13\* | 2020-10-22 |

@@ -277,6 +277,24 @@
     },
     {
       "album": {
+        "name": "El Mundo (En Vivo)",
+        "url": "https://open.spotify.com/album/4iDJSotLOOfiPlHRNAjrpS"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212983,
+      "name": "El Mundo - En Vivo",
+      "url": "https://open.spotify.com/track/6PIFSo9nndPgQzZrnvOGZc"
+    },
+    {
+      "album": {
         "name": "El Son de la Negra / Cielito Lindo / Volver Volver / Si Nos Dejan",
         "url": "https://open.spotify.com/album/5CIPyfvFZ9kFPh6WFNWrcS"
       },

@@ -4,7 +4,7 @@
 
 > Mga nangunguna sa mundo ng OPM\. Cover: Sugarcane
 
-292 songs - 18 hr 9 min
+294 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Closer You and I](https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Closer You and I](https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA) | 4:00 | 2024-01-24 | 2024-05-09 |
 | [Comets](https://open.spotify.com/track/2kthoMgmFqi8GVgEMaRP9S) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Comets](https://open.spotify.com/album/7mFRwy9ld2leAOlpWDNENj) | 3:56 | 2024-05-15 | 2024-07-18 |
 | [DAM](https://open.spotify.com/track/1NNsL6tYk06TqTea3mKB9P) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [DAM](https://open.spotify.com/album/612lgzG3p1PYJCxZFFLztN) | 3:29 | 2025-03-05 |  |
-| [Darating Din](https://open.spotify.com/track/0X3gTjlVns6kM9cJLjGdwY) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Darating Din](https://open.spotify.com/album/0XuqGNQFVjtXPrldqlgfHT) | 4:03 | 2024-10-23 |  |
+| [Dance With My Mistakes](https://open.spotify.com/track/7jd9wJQLGgaXPjPXPJiiMB) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Dance With My Mistakes](https://open.spotify.com/album/6dHu65n9dIQZyXaFtaSehO) | 2:57 | 2025-04-09 |  |
+| [Darating Din](https://open.spotify.com/track/0X3gTjlVns6kM9cJLjGdwY) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Darating Din](https://open.spotify.com/album/0XuqGNQFVjtXPrldqlgfHT) | 4:03 | 2024-10-23 | 2025-04-10 |
 | [DELULU](https://open.spotify.com/track/0CBDY0SfSIaVWnOFrwzSbv) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [DELULU](https://open.spotify.com/album/2RIrEQbhMyFMJo58o5bLDA) | 3:16 | 2024-01-24 | 2024-02-15 |
 | [Di Bale](https://open.spotify.com/track/2zo7R0v0YrmVfb3VPkrAFX) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [jgh](https://open.spotify.com/album/5qbKa6ArxbSTX3qJZpg1ss) | 3:53 | 2024-12-04 | 2025-02-13 |
 | [Di kita trip](https://open.spotify.com/track/1lS1wmAFXcj4RMbQ3pEhDt) | [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2) | [Di kita trip](https://open.spotify.com/album/3iYWYMFX37PfR3w4n1Z3fa) | 2:54 | 2024-03-06 | 2024-04-24 |
@@ -86,7 +87,7 @@
 | [Halik Sobrang Diin](https://open.spotify.com/track/6cXmKmwevj5utucE8XG7SK) | [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Tu$ Brother$](https://open.spotify.com/artist/7IECoRDgYFidTg3vhiL0sC) | [Halik Sobrang Diin](https://open.spotify.com/album/4OtUimDzomnLyZPdtswcbf) | 3:51 | 2024-04-10 | 2024-05-15 |
 | [Hanap](https://open.spotify.com/track/42HwpLFw73GBckZlWorib4) | [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd) | [Hanap](https://open.spotify.com/album/7yxTHClks4z6qV6zATd1F2) | 4:02 | 2024-12-04 | 2025-02-13 |
 | [Hanggang sa Magsawa](https://open.spotify.com/track/3jqZKT0N9hEx0uwe6Sm8pS) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [7th Sense](https://open.spotify.com/album/6fLn0CW5g9nLSplYDfomyl) | 5:55 | 2025-03-13 |  |
-| [Happy Ending](https://open.spotify.com/track/1hv8gjkImdxHMw98bxXGre) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Happy Ending](https://open.spotify.com/album/2mWCsQlDlhidVlxyRRoQ1a) | 4:41 | 2024-11-28 |  |
+| [Happy Ending](https://open.spotify.com/track/1hv8gjkImdxHMw98bxXGre) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Happy Ending](https://open.spotify.com/album/2mWCsQlDlhidVlxyRRoQ1a) | 4:41 | 2024-11-28 | 2025-04-10 |
 | [HBD](https://open.spotify.com/track/5sH9HLm2WfjOHLIMFRZWGm) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [HBD](https://open.spotify.com/album/3XVq8uwst8BgCMnhP8T4bX) | 4:17 | 2024-01-24 | 2024-02-29 |
 | [Hirap Kalimutan](https://open.spotify.com/track/179LUxRF7wbPc2JHABiLCw) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge) | [Hirap Kalimutan](https://open.spotify.com/album/68rndZHNGvHtmTqyZwoQ5C) | 2:53 | 2024-10-17 |  |
 | [Hiraya](https://open.spotify.com/track/4byYvg0R2equLR0TMRvcB5) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Hiraya](https://open.spotify.com/album/7tEI48ifzaMHKjdBrHux6t) | 3:18 | 2024-11-28 | 2025-01-16 |
@@ -128,6 +129,7 @@
 | [Kasama](https://open.spotify.com/track/1qA0gniLfP4RIRmVTEe1eM) | [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh), [Chito Miranda](https://open.spotify.com/artist/72VBk3SEsEFPF948CmkHT4) | [Kasama](https://open.spotify.com/album/2t6TUKXucrJSErtNohifVu) | 4:19 | 2024-10-09 | 2025-04-03 |
 | [Kasing Kasing \(feat\. Kyle Echarri\)](https://open.spotify.com/track/13OhgUF9wgvG30aRARfgrR) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ), [Kyle Echarri](https://open.spotify.com/artist/53qa1XIZ6pZuhrGDetCGew) | [Kasing Kasing \(feat\. Kyle Echarri\)](https://open.spotify.com/album/0eX3ksx0PK4SyQnlNOuUwH) | 4:55 | 2024-01-31 | 2024-03-07 |
 | [Kilala](https://open.spotify.com/track/2wzn9QDSMkZHuxXi7xzHr0) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Kilala](https://open.spotify.com/album/2wN4WXC3zWNOmwBygIzxiN) | 4:31 | 2025-04-02 |  |
+| [Kinakabahan](https://open.spotify.com/track/3FLCi7kmtM5DCStIa3ax4m) | [LILY](https://open.spotify.com/artist/1DFzp62fQet0UoMHoJPn4u) | [Kinakabahan](https://open.spotify.com/album/4QvLVRszyv3WLbZexbVo0W) | 3:47 | 2025-04-09 |  |
 | [Klaro](https://open.spotify.com/track/1jG9Gzu5qarOo1v4qKjLwe) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Klaro](https://open.spotify.com/album/5ZM2rCkiq7huULAPjbAsIZ) | 4:08 | 2024-02-07 | 2024-02-29 |
 | [Kulimlim](https://open.spotify.com/track/7otcJuVUk3fEbvJ5tNO4af) | [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH) | [Kulimlim](https://open.spotify.com/album/6OhYBRH3PE4wH9t1Yfljpq) | 3:30 | 2024-10-23 | 2025-02-28 |
 | [Kunan Mong Pic](https://open.spotify.com/track/6q07OiEEt6Tz2SkGuwCCGo) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp), [BRGR](https://open.spotify.com/artist/44vb4XsoBQRJlLGflZQfkv), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Kunan Mong Pic](https://open.spotify.com/album/2yo2p2KkXVyYNV5Lo8XxwN) | 3:15 | 2024-05-24 | 2024-07-25 |

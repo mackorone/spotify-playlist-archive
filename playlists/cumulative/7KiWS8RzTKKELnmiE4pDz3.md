@@ -4,7 +4,7 @@
 
 > 
 
-924 songs - 1 day 21 hr 0 min
+925 songs - 1 day 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -824,6 +824,7 @@
 | [The LifeStyle!](https://open.spotify.com/track/5Umai3Zrbd80hOcvgAlBmw) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [SNOTTY WORLD](https://open.spotify.com/album/4WsroDqYcqI1DpRgRAwqF2) | 1:33 | 2022-10-26 | 2023-04-12 |
 | [The Motto](https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 3:01 | 2023-05-31 | 2023-12-14 |
 | [The Remorse!](https://open.spotify.com/track/65sqEIYumzpGkUovLPmuiD) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [\#\#B4GC3 \#\#B4GC3](https://open.spotify.com/album/0KR2S7qR0ZUH6ggPrvOtPw) | 3:03 | 2023-01-20 | 2023-08-20 |
+| [The Scoop On Heaven](https://open.spotify.com/track/2nZPwKpV75BQpn9snGy2xG) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [I Love Life, Thank You](https://open.spotify.com/album/5LNX3esjvdBJ6hN4XDvCJn) | 2:43 | 2025-04-10 |  |
 | [The world is yours](https://open.spotify.com/track/6NL85on1jpM2VuXR23Ix1P) | [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs) | [Rich slime](https://open.spotify.com/album/2Oe8Vc7miZMoHiB6pr1SXX) | 1:20 | 2022-10-18 | 2023-05-09 |
 | [Therapy](https://open.spotify.com/track/1GrnyQe1SFOb1T5vb5T54q) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 4:08 | 2025-01-29 |  |
 | [this is all too familiar ive seen this in a dream](https://open.spotify.com/track/5rW6ZGwODB5YiI0RnecJz9) | [Fulcrum](https://open.spotify.com/artist/6nbidWb6qovzknhOdeExt7) | [this is all too familiar ive seen this in a dream](https://open.spotify.com/album/5I1Je50iwcuXRi2w8yrl2y) | 2:13 | 2022-12-01 | 2023-05-09 |

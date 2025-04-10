@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Joelma, João Gomes
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,413 likes - 65 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,462 likes - 65 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 55 | [Eu Fiz Tudo Errado](https://open.spotify.com/track/2CYsMFirzEqCcWVuKIhppp) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Manu](https://open.spotify.com/album/3nWSN49yT6w8aoVSoacZZS) | 3:39 |
 | 56 | [Está no Ar](https://open.spotify.com/track/4HvbIF4n0nW3f0t2K1r6la) | [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq), [DJ Neco Patifão](https://open.spotify.com/artist/5qKMhT0vNRheWDWYDTjV1V) | [Elétrico](https://open.spotify.com/album/2sQuHDWwnn10g440LIlm03) | 3:35 |
 | 57 | [Nem Vem Dizer](https://open.spotify.com/track/4ayKSLcVBWcGCgV03bDZDj) | [Banda msynck](https://open.spotify.com/artist/79iY9AWpx6WDFhWAko16rQ) | [Uma Pancada de Sucesso](https://open.spotify.com/album/1HGd4P6mSGbz3IdYZRUdT2) | 3:26 |
-| 58 | [Louca Paixão](https://open.spotify.com/track/7Am0BZQdRi7xAZC0LcLb6y) | [Banda AR\-15](https://open.spotify.com/artist/6wYo9f6kXFslXYtATvhM86) | [Vol\. 2](https://open.spotify.com/album/59VmiLW7m9sREMf03pCbCi) | 3:35 |
-| 59 | [Búfalo do Marajó](https://open.spotify.com/track/6FWyRWvXJ2srLSHOvWf4UU) | [Banda 007 Oficial](https://open.spotify.com/artist/5ZdRKRLaP4OvypaRak6Rr9) | [Búfalo do Marajó](https://open.spotify.com/album/26D2eYA5rlAbhWyuGyfWiv) | 2:51 |
+| 58 | [Búfalo do Marajó](https://open.spotify.com/track/6FWyRWvXJ2srLSHOvWf4UU) | [Banda 007 Oficial](https://open.spotify.com/artist/5ZdRKRLaP4OvypaRak6Rr9) | [Búfalo do Marajó](https://open.spotify.com/album/26D2eYA5rlAbhWyuGyfWiv) | 2:51 |
+| 59 | [Louca Paixão](https://open.spotify.com/track/7Am0BZQdRi7xAZC0LcLb6y) | [Banda AR\-15](https://open.spotify.com/artist/6wYo9f6kXFslXYtATvhM86) | [Vol\. 2](https://open.spotify.com/album/59VmiLW7m9sREMf03pCbCi) | 3:35 |
 | 60 | [Príncipe Encantado](https://open.spotify.com/track/3xXCzYlV8U1Bin2tjVwGnX) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [O Ritmo que Conquistou o Brasil](https://open.spotify.com/album/0yjytTotHFUh68zECxBSIr) | 3:45 |
 | 61 | [Eu Vou Recomeçar](https://open.spotify.com/track/2tZbOtxqeOpxamAlDPDZTs) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Sucessos](https://open.spotify.com/album/6UqGyxulGDAtJGQiy5gRP8) | 2:40 |
 | 62 | [Haja Paciência](https://open.spotify.com/track/3ZsTuBLM2zCPnMxOGgepZH) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Verão VB 2024](https://open.spotify.com/album/6sBpsha1YNZBbVARh4SZR3) | 2:40 |

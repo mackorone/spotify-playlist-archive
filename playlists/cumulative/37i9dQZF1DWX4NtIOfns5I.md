@@ -4,7 +4,7 @@
 
 > where folk flowers bloom 🍃 cover: Black Country, New Road
 
-469 songs - 1 day 3 hr 34 min
+470 songs - 1 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [calico](https://open.spotify.com/track/6UsmfLq4GHjdNEsL1KUBhe) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [flush](https://open.spotify.com/album/6XZwTTGjAU81iQWc1yIgZp) | 4:28 | 2024-11-22 |  |
 | [California](https://open.spotify.com/track/5eM6Rrk8rwLpUhrh7Kk5R1) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 3:50 | 2025-03-12 |  |
 | [Call It A Draw](https://open.spotify.com/track/7d0KMWY4UmWM3k4owiFPcJ) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [Call It A Draw](https://open.spotify.com/album/73WJqjpUrtXfw9L7MC14F1) | 3:23 | 2025-02-21 |  |
+| [Call It Easy \- Edit](https://open.spotify.com/track/53u5fmf8yjjbXBn1O6y9a5) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Call It Easy](https://open.spotify.com/album/2o5XLVAEwwjXIJ5ptSgaT1) | 4:24 | 2025-04-10 |  |
 | [call my name](https://open.spotify.com/track/6rfXIASvO0iwomFkJ6grW6) | [phin](https://open.spotify.com/artist/1LiAFR5jEJrfQK8vVavciN) | [call my name](https://open.spotify.com/album/3J97lJZpNCtLWzUResJmTH) | 3:24 | 2024-07-08 |  |
 | [Can’t Catch Me Now \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [Can’t Catch Me Now \(from The Hunger Games: The Ballad of Songbirds & Snakes\)](https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s) | 3:25 | 2023-11-03 | 2024-10-19 |
 | [Cardinal](https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 | 2024-03-15 | 2024-09-07 |

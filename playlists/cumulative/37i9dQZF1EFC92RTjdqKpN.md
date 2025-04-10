@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-215 songs - 11 hr 42 min
+216 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,8 @@
 | [Weekend Millionaires](https://open.spotify.com/track/47hg9HCsnTYbdkd5d5KJMl) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Tired Eyes](https://open.spotify.com/album/1fMzgbBLV4vdE4Wp21F3PF) | 3:44 | 2024-02-27 |  |
 | [WET DREAM](https://open.spotify.com/track/2pTid5WZTf6PajZUaWlwyJ) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [LUBE // WET DREAM](https://open.spotify.com/album/3393nwx0uNyCzPEgvSBXJy) | 2:59 | 2024-06-12 |  |
 | [Where We Left](https://open.spotify.com/track/3z9yT94FvmgWOgXZHuE0b6) | [CADE](https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV) | [Where We Left](https://open.spotify.com/album/5a5ywLo0LuBmnOO1hb28P7) | 3:40 | 2024-02-27 |  |
-| [Whisper](https://open.spotify.com/track/02lMXovcoCASQ8noPzOvAB) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/3ZRkEpaewmFKhHKmGCVRs7) | 3:06 | 2024-07-05 |  |
+| [Whisper](https://open.spotify.com/track/02lMXovcoCASQ8noPzOvAB) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/3ZRkEpaewmFKhHKmGCVRs7) | 3:06 | 2024-07-05 | 2025-04-10 |
+| [Whisper](https://open.spotify.com/track/5AH5usocKPmrUFmZkdPvcH) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/57YwDLyNeobBmbVfcOhLx4) | 3:06 | 2025-04-09 |  |
 | [Whisper](https://open.spotify.com/track/6cRSjJbZMr5AS8S2mV6Uk9) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/1HZ53O7uBXyyYCaD7jY8I6) | 3:06 | 2024-02-27 | 2024-07-06 |
 | [Who's It Gonna Be](https://open.spotify.com/track/4jgSsG6pqCCEbczOFo3BoS) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Girl Problems](https://open.spotify.com/album/4HUIhXljD7mEOJDEn9ytCC) | 3:27 | 2024-02-27 | 2024-07-13 |
 | [Who's It Gonna Be](https://open.spotify.com/track/53B756r7H1DB0l0jia4p5x) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Girl Problems](https://open.spotify.com/album/6toYxO6NCaUTUI0g5w2CEq) | 3:27 | 2024-07-12 |  |

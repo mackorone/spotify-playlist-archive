@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Joris Voorn,  Yotto &amp; White Lies
 
-1,345 songs - 2 day 23 hr 46 min
+1,346 songs - 2 day 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,6 +404,7 @@
 | [Fulfillment](https://open.spotify.com/track/0TXsD8pXzfE11soERSXQ1f) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Fulfillment](https://open.spotify.com/album/3efNW239KQaVkZCGkVSsoX) | 3:29 | 2024-02-01 | 2024-08-31 |
 | [Fun Fun](https://open.spotify.com/track/1oN2ufd3KdxqhyPoqERHu2) | [Phil Fuldner](https://open.spotify.com/artist/1DKPQBaKEzmQzWG1GwJoXT) | [Fun Fun](https://open.spotify.com/album/0wLBRNh3x7roao6Wf6q755) | 2:49 | 2023-09-21 | 2024-02-09 |
 | [Funkatron](https://open.spotify.com/track/5JohYODxZkqfPFC3UWSrMj) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Funkatron](https://open.spotify.com/album/2LnfOgfUOo91vCHLTvgv5M) | 3:09 | 2022-06-09 | 2023-01-20 |
+| [funKtion](https://open.spotify.com/track/7u0nc3elsHUlgQh6FS0fLC) | [kai.wav](https://open.spotify.com/artist/5IPEenyFaDk0FQkFbKG0dU) | [funKtion](https://open.spotify.com/album/14DhawhW0HTtzZsGtDPPdy) | 2:00 | 2025-04-09 |  |
 | [Future Call](https://open.spotify.com/track/3BjwyLMgRb29YRwcunLXnN) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp), [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47) | [Future Call](https://open.spotify.com/album/2wWBj0RTjHVLoUcexFpl6Y) | 3:29 | 2023-03-30 | 2023-08-28 |
 | [Game Over \- Jochem Hamerling Remix](https://open.spotify.com/track/7ftCueRF9C5LMBcLSuHgML) | [Club Caviar](https://open.spotify.com/artist/2EN1Wc5No2OeL4exPJDIMe), [Jochem Hamerling](https://open.spotify.com/artist/0NmoVS5ceviB7ewXjElO2p) | [Game Over \(Jochem Hamerling Remix\)](https://open.spotify.com/album/1UkH13Y1dnB0xLG3rVcH5e) | 3:23 | 2024-06-20 | 2024-10-19 |
 | [Gasoline](https://open.spotify.com/track/3EQkyCvxrQyDvO9NPRBDMM) | [Maurice West](https://open.spotify.com/artist/1qF8DC6uIBjskqP0hyw1Gk) | [Gasoline](https://open.spotify.com/album/5UuLnQAm4eCs4fuagwTcnC) | 2:35 | 2022-07-14 | 2022-11-25 |

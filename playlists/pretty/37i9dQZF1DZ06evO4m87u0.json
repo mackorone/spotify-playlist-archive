@@ -1,12 +1,12 @@
 {
   "description": "This is The Black Keys. The essential tracks, all in one playlist.",
-  "num_followers": 292467,
+  "num_followers": 292498,
   "original_name": "This Is The Black Keys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/MVgAAAAACl/BXob2V2Lb7zQEbPCfkw",
+  "snapshot_id": "Z/RnAAAAAAD5wN/7PpqHV75nhhPAoCUN",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brothers (Deluxe Remastered Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 191956,
+      "name": "Howlin' for You",
+      "url": "https://open.spotify.com/track/4yffABDkB5A9flvr9vQFck"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -116,9 +132,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 191800,
-      "name": "Howlin' for You",
-      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
+      "duration_ms": 211080,
+      "name": "Tighten Up",
+      "url": "https://open.spotify.com/track/2MVwrvjmcdt4MsYYLCYMt8"
     },
     {
       "added_at": null,
@@ -167,22 +183,6 @@
       "duration_ms": 239146,
       "name": "I Got Mine",
       "url": "https://open.spotify.com/track/319zpJMCzpz50Uz0PsjlJN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 211080,
-      "name": "Tighten Up",
-      "url": "https://open.spotify.com/track/2MVwrvjmcdt4MsYYLCYMt8"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 194586,
-      "name": "Mind Eraser",
-      "url": "https://open.spotify.com/track/0hzBN7DGgtjBsTyZwTTKRS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\"Let's Rock\"",
         "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 160543,
       "name": "Eagle Birds",
       "url": "https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 194586,
+      "name": "Mind Eraser",
+      "url": "https://open.spotify.com/track/0hzBN7DGgtjBsTyZwTTKRS"
     },
     {
       "added_at": null,

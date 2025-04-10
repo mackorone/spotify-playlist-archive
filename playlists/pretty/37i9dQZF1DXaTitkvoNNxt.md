@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTitkvoNNxt.md) - [plain]
 
 > Songs from the last decade that will make you sing and dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,406,672 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,406,635 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz, but make it funky\. Cover: Skinny Hightower
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,415 likes - 200 songs - 15 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,496 likes - 200 songs - 15 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 12 | [Burning](https://open.spotify.com/track/7ru68qYGq300h0aC0icBOA) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Burning](https://open.spotify.com/album/7tCy6wL8s3hXKXAG6whYG6) | 3:19 |
 | 13 | [50/50](https://open.spotify.com/track/5suoIKSYDiHYDIryo1Q8QX) | [Spyro Gyra](https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD) | [50/50](https://open.spotify.com/album/1NxEX9a6UYppTCfSOr1Ldq) | 3:46 |
 | 14 | [Audio Bicycle Day](https://open.spotify.com/track/4lDY6ELuyvyReJJ3MWUxLT) | [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Grant Schroff](https://open.spotify.com/artist/5uxQLRiqpsaOO2WYT85Fii), [Delvon Lamarr](https://open.spotify.com/artist/02eerWTQGpKteeEReGfGXR), [Skerik](https://open.spotify.com/artist/00uSjAOZMB626Y0W2ij3Md) | [Audio Bicycle Day](https://open.spotify.com/album/20LESRKaYkgillAMKMCzFy) | 5:41 |
-| 15 | [Silent Dancer](https://open.spotify.com/track/6QePiHLvjWrVITs8ddewDG) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [Silent Jazz Case 5](https://open.spotify.com/album/2nUT1RnTEraQLqvEXaaJzN) | 4:10 |
+| 15 | [Silent Dancer](https://open.spotify.com/track/6QePiHLvjWrVITs8ddewDG) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8), [SilentJazzCase](https://open.spotify.com/artist/5zcOZKWI96Wm7tAxpRIUq1) | [Silent Jazz Case 5](https://open.spotify.com/album/2nUT1RnTEraQLqvEXaaJzN) | 4:10 |
 | 16 | [A Hat For My Beard](https://open.spotify.com/track/6HD5cmoqNrLQrZOCXG6tge) | [Jeff Coffin](https://open.spotify.com/artist/0nQtFR0hKvnxrmBydLJt5D), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Daru Jones](https://open.spotify.com/artist/3kOGIhN1mgwbrQMgY5KV9U), [Jay White](https://open.spotify.com/artist/69p9DNc1W1xZ4EzekPCSNf), [Yeli Ensemble](https://open.spotify.com/artist/2W8HADnRDXhD1A9ZfCAGqM) | [A Hat For My Beard](https://open.spotify.com/album/5SEsCsGx077MIeqcu3H7vM) | 4:49 |
 | 17 | [Cold As Hell](https://open.spotify.com/track/0mu1NEo7V5CbOytI64KUso) | [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [George Silva](https://open.spotify.com/artist/3DDRWYqflIqoIsIHKj8zJP), [Efajemue](https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1), [J Camden](https://open.spotify.com/artist/4p3PTvbzpHrCm8qjXETbYB) | [Friends & Family](https://open.spotify.com/album/2WArcxonkIlI82NeAG7T6Z) | 3:22 |
 | 18 | [Why](https://open.spotify.com/track/7tlyMqKsd5fbx0zzovhPxM) | [The Lao Tizer Band](https://open.spotify.com/artist/0ztSmxNCHPTylzNhhZOIgC), [Elliott Yamin](https://open.spotify.com/artist/4am1I89OWXUzFh4ctRLkdd), [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK), [Chieli Minucci](https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX) | [Amplify](https://open.spotify.com/album/47nlAwFvlWQtpYgMX86kDz) | 7:18 |

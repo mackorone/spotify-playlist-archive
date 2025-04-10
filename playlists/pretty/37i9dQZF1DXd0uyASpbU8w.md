@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Riky Rick, Miley Cyrus,  Nomfundo Moh & Blaq Diamond and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,574 likes - 83 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,608 likes - 83 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 10 | [All I Know](https://open.spotify.com/track/2rgWhlzASxN4MKk7c3RAGP) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [All I Know](https://open.spotify.com/album/1TNPKEmo5TSj8NpXpDgMsf) | 2:56 |
 | 11 | [Surrender](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Surrender](https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd) | 2:24 |
 | 12 | [Inyakanyaka \(feat\. NATASHA MD\)](https://open.spotify.com/track/4fv7nQaOrTVp9vjov8JmXy) | [Malumz on Decks](https://open.spotify.com/artist/3tMHi8yJjkGraZofrKOKGS), [NATASHA MD](https://open.spotify.com/artist/6lyHG2RfrqozySImvcfwBa) | [Qhayiya Lam](https://open.spotify.com/album/6Bu2xAgHnhNnQr74bvXg5s) | 6:16 |
-| 13 | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [Aya](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q) | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n) | 3:40 |
+| 13 | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q) | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n) | 3:40 |
 | 14 | [OUT OF MY HANDS](https://open.spotify.com/track/6DersWcxOf1I5YlwxqMDlI) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Heavy Deluxe: THE LIGHT](https://open.spotify.com/album/626fD5CXGPiAZxXEk7TlEC) | 3:03 |
 | 15 | [THE LAST TIME](https://open.spotify.com/track/4zkH2YuWOZlXgzOH17TvKs) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [THE LAST TIME](https://open.spotify.com/album/0GyFu1r5ctSDKHwvkF6Coy) | 3:14 |
 | 16 | [Ms\. Goody Two Shoes](https://open.spotify.com/track/7eiY7TxrwFgWEYPmbwnbTP) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Ms\. Goody Two Shoes](https://open.spotify.com/album/2wXE2aphd1Rah3fbrUIGfV) | 3:02 |

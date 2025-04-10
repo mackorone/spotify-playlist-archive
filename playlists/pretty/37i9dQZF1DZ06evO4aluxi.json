@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Grant. The essential tracks, all in one playlist.",
-  "num_followers": 18320,
+  "num_followers": 18322,
   "original_name": "This Is Amy Grant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/MVgAAAAAA0x4gv9tHQYWoIt7ABtR7t",
+  "snapshot_id": "Z/RnAAAAAABdkKwLGr0snwE4cxgvviUB",
   "tracks": [
     {
       "added_at": null,
@@ -311,26 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Storm",
-        "url": "https://open.spotify.com/album/1MC8eElzC5I5XbuWrOYuT8"
-      },
-      "artists": [
-        {
-          "name": "Fernando Ortega",
-          "url": "https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp"
-        },
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 300493,
-      "name": "Come Ye Sinners, Poor and Needy",
-      "url": "https://open.spotify.com/track/1hHJiFSC2Jy6tlz0VM1QhU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Worship Forever (Live)",
         "url": "https://open.spotify.com/album/0VGJroMZNK3faRsUfaDwz0"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 329680,
       "name": "Agnus Dei - Live",
       "url": "https://open.spotify.com/track/0G94ldMUXHZ94aHc3FKSz3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Storm",
+        "url": "https://open.spotify.com/album/1MC8eElzC5I5XbuWrOYuT8"
+      },
+      "artists": [
+        {
+          "name": "Fernando Ortega",
+          "url": "https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp"
+        },
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 300493,
+      "name": "Come Ye Sinners, Poor and Needy",
+      "url": "https://open.spotify.com/track/1hHJiFSC2Jy6tlz0VM1QhU"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5cG6J4bVB9pqCMnnHkxLYi"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 335960,
-      "name": "Stay For A While",
-      "url": "https://open.spotify.com/track/5kKdMpS0kUxrMqLzgQvPTr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Be Still And Know... Hymns & Faith",
         "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 231706,
       "name": "Power In The Blood",
       "url": "https://open.spotify.com/track/1qpejsyCvpyZAtkg8J3r8q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5cG6J4bVB9pqCMnnHkxLYi"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 335960,
+      "name": "Stay For A While",
+      "url": "https://open.spotify.com/track/5kKdMpS0kUxrMqLzgQvPTr"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legacy...Hymns & Faith",
-        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 214760,
-      "name": "My Jesus, I Love Thee",
-      "url": "https://open.spotify.com/track/5tDeg3UaEMAN8duYwTPiXW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Be Still And Know... Hymns & Faith",
         "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
       },
@@ -735,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legacy...Hymns & Faith",
+        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 214760,
+      "name": "My Jesus, I Love Thee",
+      "url": "https://open.spotify.com/track/5tDeg3UaEMAN8duYwTPiXW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Father's Eyes",
         "url": "https://open.spotify.com/album/7EJzRX6PB2SySpeD4wdb6S"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 246226,
       "name": "Father's Eyes",
       "url": "https://open.spotify.com/track/39dCwla9fnPt3RQHjwPQ5s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/7Is1pUIU9tckbwfq5FXrZc"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 225602,
+      "name": "What You Heard - 2025 Remaster",
+      "url": "https://open.spotify.com/track/1VMBgZaaRYUa6hilyAszgZ"
     },
     {
       "added_at": null,
@@ -803,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Still And Know... Hymns & Faith",
-        "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 233200,
-      "name": "Be Still And Know",
-      "url": "https://open.spotify.com/track/3WD7NRVmvnoNwVf3NtufTc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Journey",
         "url": "https://open.spotify.com/album/7Is1pUIU9tckbwfq5FXrZc"
       },
@@ -831,6 +831,22 @@
       "duration_ms": 275524,
       "name": "Every Road - 2025 Remaster",
       "url": "https://open.spotify.com/track/4GKOMCooGn8dfmqsatgn6n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be Still And Know... Hymns & Faith",
+        "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 233200,
+      "name": "Be Still And Know",
+      "url": "https://open.spotify.com/track/3WD7NRVmvnoNwVf3NtufTc"
     },
     {
       "added_at": null,
@@ -867,22 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unguarded",
-        "url": "https://open.spotify.com/album/3ahs2R10w4vhfnbfZ92pDp"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 275373,
-      "name": "Everywhere I Go",
-      "url": "https://open.spotify.com/track/5k9C1AK3bLo4igQ29fh1L4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Journey",
         "url": "https://open.spotify.com/album/7Is1pUIU9tckbwfq5FXrZc"
       },
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 225602,
-      "name": "What You Heard - 2025 Remaster",
-      "url": "https://open.spotify.com/track/1VMBgZaaRYUa6hilyAszgZ"
+      "duration_ms": 264000,
+      "name": "1974 - 2025 Remaster",
+      "url": "https://open.spotify.com/track/35BsAhlmUJD9iUHZzhpmZH"
     }
   ],
   "unique_name": "This Is Amy Grant",

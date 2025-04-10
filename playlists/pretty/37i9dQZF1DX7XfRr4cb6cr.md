@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 
 > Hymns for darker hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,139 likes - 150 songs - 12 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,263 likes - 150 songs - 12 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Caelum, No\. I](https://open.spotify.com/track/0zO571dyb03qEZNzFeqwXG) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr) | [Caelum \(Excerpts\)](https://open.spotify.com/album/5pSaANL2BvibUYoIJ8byQb) | 5:36 |
+| 1 | [Caelum, No\. I](https://open.spotify.com/track/0zO571dyb03qEZNzFeqwXG) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr), [Z.D\. Frizzell](https://open.spotify.com/artist/3R53DcUlebQyORIV3hGTFJ) | [Caelum \(Excerpts\)](https://open.spotify.com/album/5pSaANL2BvibUYoIJ8byQb) | 5:36 |
 | 2 | [3 am walk \- Slowed Version](https://open.spotify.com/track/6WvEAgklyO4jvIer6wkpko) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [3 am walk \(Slowed Version\)](https://open.spotify.com/album/2WjKZaeFB8MLBCjTzCkbpT) | 3:43 |
 | 3 | [If you love solitude, you don’t love freedom](https://open.spotify.com/track/68ehun5XeirwMPnwTSyefV) | [Tomat](https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa) | [OHT Frankenstein](https://open.spotify.com/album/4MKhYeAecBQHpHMy2bH12f) | 4:52 |
 | 4 | [On The Way Home \- Bonus Track](https://open.spotify.com/track/0SKftApGCH4qf3BrJeepDc) | [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ) | [fabric presents Laurent Garnier: On The Way Home \(Mixed\)](https://open.spotify.com/album/2C2lNUZbDSvXa4FwOj8CgS) | 4:31 |

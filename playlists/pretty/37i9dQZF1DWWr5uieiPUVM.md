@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > caô! melodia de pagode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,543,586 likes - 55 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,543,579 likes - 55 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

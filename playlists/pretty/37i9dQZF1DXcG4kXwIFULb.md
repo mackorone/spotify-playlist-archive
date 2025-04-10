@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,455 likes - 100 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,561 likes - 100 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 85 | [Peacock Tail](https://open.spotify.com/track/2HHAxkrJbuWZ7JWdxYbsWO) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 5:24 |
 | 86 | [Broken Together](https://open.spotify.com/track/2gamThf1tKQIGXX5flOvX0) | [Sofa Surfers](https://open.spotify.com/artist/0pNP0TPeyffi8QbE8U5D1X), [Mani Obeya](https://open.spotify.com/artist/3Ex5qqvWXjVZkWuTkYkKc6) | [Superluminal](https://open.spotify.com/album/3It8376G4eBhEraQbW3TNR) | 4:46 |
 | 87 | [Lonely Soul](https://open.spotify.com/track/2HHC3GxRY2SxqRn6v6TvXX) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC), [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Psyence Fiction](https://open.spotify.com/album/6Dxx0vxLQ83LK1PMZezlcY) | 8:53 |
-| 88 | [Postales](https://open.spotify.com/track/2fjisFFeRhtW2hfO4gc7Rh) | [Federico Aubele](https://open.spotify.com/artist/3FIFlkBCqeOewVa9hiNgwq) | [Gran Hotel Buenos Aires](https://open.spotify.com/album/0LYqd7PjpehWx9sptTEPJW) | 4:07 |
-| 89 | [Utopia](https://open.spotify.com/track/7mYUeJq8M8S8kzDZUs6o23) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Felt Mountain](https://open.spotify.com/album/6cJfHiiiH0fH6Ly5uRE902) | 4:18 |
+| 88 | [Utopia](https://open.spotify.com/track/7mYUeJq8M8S8kzDZUs6o23) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Felt Mountain](https://open.spotify.com/album/6cJfHiiiH0fH6Ly5uRE902) | 4:18 |
+| 89 | [Postales](https://open.spotify.com/track/2fjisFFeRhtW2hfO4gc7Rh) | [Federico Aubele](https://open.spotify.com/artist/3FIFlkBCqeOewVa9hiNgwq) | [Gran Hotel Buenos Aires](https://open.spotify.com/album/0LYqd7PjpehWx9sptTEPJW) | 4:07 |
 | 90 | [Angel Echoes](https://open.spotify.com/track/0Zuw3doXy3H4HCfyb9cMK3) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [There Is Love in You \(Expanded Edition\)](https://open.spotify.com/album/6XoxeeeyZgzqUMzUBUSDG9) | 3:59 |
 | 91 | [Lebanese Blonde](https://open.spotify.com/track/488E8BWYDCDrL6vunOAzPy) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [The Mirror Conspiracy](https://open.spotify.com/album/12PENKuzKH3r1Kv2rlCjZn) | 4:50 |
 | 92 | [Six Underground \- Nellee Hoopers Edit](https://open.spotify.com/track/6Ui2yvA0D5bXxZiPFWd47y) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Six Underground](https://open.spotify.com/album/1W9Wlg9utd4h70fgitFbM2) | 3:54 |
 | 93 | [Yes Baby Yes](https://open.spotify.com/track/2NxIOFFrMxjeiPogqIkno1) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP) | [Come Touch The Sun](https://open.spotify.com/album/2Fg1t2tyOSGWkVYHlFfXVf) | 5:00 |
 | 94 | [Rattlesnakes](https://open.spotify.com/track/6i0mXs6UJCtbC4o55uKUDP) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe In the Steep Cliffs](https://open.spotify.com/album/1KHKPYKo4h8btHa8u3wjEB) | 4:10 |
-| 95 | [Slip Into Something More Comfortable \- Stephen Hague 2016 Mix](https://open.spotify.com/track/6l7PbHcApOcdXYbZlex1z4) | [Kinobe](https://open.spotify.com/artist/468ohR5I3vI6JztrHL7exy) | [Slip Into Something More Comfortable](https://open.spotify.com/album/0e6fOjkQGCCWwtUXryzwJu) | 4:47 |
+| 95 | [Dust](https://open.spotify.com/track/16gvjuZGmibA3348jWdjKV) | [HÆLOS](https://open.spotify.com/artist/132sZpCaM8ie6byAEcOcRs) | [Full Circle](https://open.spotify.com/album/3kE0d3eZX1EjoWMeHQTvXQ) | 4:38 |
 | 96 | [Sweet Tides](https://open.spotify.com/track/5IapIlqooJJ0CmJmrEY8Ir) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Radio Retaliation](https://open.spotify.com/album/7JK0l9nae3EcV6C1lz4LlG) | 4:48 |
-| 97 | [Dust](https://open.spotify.com/track/16gvjuZGmibA3348jWdjKV) | [HÆLOS](https://open.spotify.com/artist/132sZpCaM8ie6byAEcOcRs) | [Full Circle](https://open.spotify.com/album/3kE0d3eZX1EjoWMeHQTvXQ) | 4:38 |
-| 98 | [In the Bath](https://open.spotify.com/track/2RutVE1bxmy90AeXrnq4Ov) | [Lemon Jelly](https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc) | [Lemon Jelly.ky](https://open.spotify.com/album/4yXHe9sqDblvsKkAKBWts1) | 6:41 |
-| 99 | [Your Girl](https://open.spotify.com/track/6L90mFjGeLu3rsGddZpttR) | [Blue States](https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6) | [Nothing Changes Under The Sun](https://open.spotify.com/album/3Ubp7mzJGm58QtdJUWxlmc) | 5:04 |
-| 100 | [Nights Introlude](https://open.spotify.com/track/3SpXpcG603AqfxhJ6l4uzk) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm) | 4:40 |
+| 97 | [A Calf Born in Winter](https://open.spotify.com/track/33TEfBZFoF5JIz6yeMVkt6) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Late Night Tales: Bonobo](https://open.spotify.com/album/5SgDZy07tAolj95sBLkkQd) | 3:29 |
+| 98 | [Slip Into Something More Comfortable \- Stephen Hague 2016 Mix](https://open.spotify.com/track/6l7PbHcApOcdXYbZlex1z4) | [Kinobe](https://open.spotify.com/artist/468ohR5I3vI6JztrHL7exy) | [Slip Into Something More Comfortable](https://open.spotify.com/album/0e6fOjkQGCCWwtUXryzwJu) | 4:47 |
+| 99 | [In the Bath](https://open.spotify.com/track/2RutVE1bxmy90AeXrnq4Ov) | [Lemon Jelly](https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc) | [Lemon Jelly.ky](https://open.spotify.com/album/4yXHe9sqDblvsKkAKBWts1) | 6:41 |
+| 100 | [Your Girl](https://open.spotify.com/track/6L90mFjGeLu3rsGddZpttR) | [Blue States](https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6) | [Nothing Changes Under The Sun](https://open.spotify.com/album/3Ubp7mzJGm58QtdJUWxlmc) | 5:04 |
 
 Snapshot ID: `ZpFVWQAAAADnGXpW0JwxJ+nFVmiguz+l`

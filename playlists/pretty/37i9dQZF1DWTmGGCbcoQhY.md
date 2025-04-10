@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 
 > ¡Un sa\-sa\-saludo a todos los amantes de la cu\-cu\-cumbia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,353,587 likes - 125 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,353,718 likes - 125 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,18 +120,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 110 | [Amor Sin Primavera](https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Gigantes De La Cumbia, Vol\. 1, Disco 1](https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly) | 3:52 |
 | 111 | [Tiene Espinas El Rosal](https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 3:57 |
 | 112 | [Enbrujo De Cumbia](https://open.spotify.com/track/38jOJMFVIwUYrYceAHN5Cb) | [Bohio](https://open.spotify.com/artist/3jqJRfRSqVyayyOCOuGwwt) | [Del Barrio Para El Barrio \(Vol\. 1\)](https://open.spotify.com/album/5An162eTQFVEdwwUnSmdFy) | 3:19 |
-| 113 | [Te Espero en el Cielo](https://open.spotify.com/track/2g1XCPG2kO8VeUMXWLsQLN) | [La Sonora Cañonera](https://open.spotify.com/artist/0wkdyY6A8F2q6krgWyrdAC) | [Tarjeta de Invitación](https://open.spotify.com/album/7pvoIdjqLxmEwstHNRmXPh) | 3:23 |
+| 113 | [Tus Jefes No Me Quieren](https://open.spotify.com/track/10UiP7h6szsk0CitFO8NM2) | [Sonideros de MEX USA](https://open.spotify.com/artist/1DdqwR6Ygd18k5GjaY8sJm) | [Exitos Sonideros, Vol\. 1](https://open.spotify.com/album/10vSYmCwnxyQXCeMtq6a92) | 3:44 |
 | 114 | [Dile](https://open.spotify.com/track/38pqbquNNfWBqeIMGACgz2) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF) | [Donde Estaras](https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu) | 4:04 |
-| 115 | [Tus Jefes No Me Quieren](https://open.spotify.com/track/10UiP7h6szsk0CitFO8NM2) | [Sonideros de MEX USA](https://open.spotify.com/artist/1DdqwR6Ygd18k5GjaY8sJm) | [Exitos Sonideros, Vol\. 1](https://open.spotify.com/album/10vSYmCwnxyQXCeMtq6a92) | 3:44 |
+| 115 | [Te Espero en el Cielo](https://open.spotify.com/track/2g1XCPG2kO8VeUMXWLsQLN) | [La Sonora Cañonera](https://open.spotify.com/artist/0wkdyY6A8F2q6krgWyrdAC) | [Tarjeta de Invitación](https://open.spotify.com/album/7pvoIdjqLxmEwstHNRmXPh) | 3:23 |
 | 116 | [Quedate Con Él](https://open.spotify.com/track/1ftwyOlhOp4up63kcGsDq4) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Que Te Vaya Bien](https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS) | 3:36 |
 | 117 | [Echarme Al Olvido](https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 4:40 |
 | 118 | [Corazón Solitario](https://open.spotify.com/track/7pxs0seevgCsp3h23lUGBw) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI) | 4:03 |
 | 119 | [Llorar](https://open.spotify.com/track/74Z5qPgObksbUqTLsMetwO) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Llorar](https://open.spotify.com/album/4FhJUozm8iSdIDobne1KHN) | 3:43 |
 | 120 | [Cumbia Buena](https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC) | 3:33 |
-| 121 | [Conga Y Timbal](https://open.spotify.com/track/7LXEJkLmNUCXD4WNbshFdy) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Conga Y Timbal](https://open.spotify.com/album/0KkFcyHUrtHjSjrdMmX7Wi) | 3:39 |
+| 121 | [Vida No Te Vayas](https://open.spotify.com/track/5Kai2HEyMEN12TyndhDyZn) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP) | 3:48 |
 | 122 | [El Baile De San Juan](https://open.spotify.com/track/3OWgaoLMcjnF6RRbzZrS7O) | [Grupo La Chomba](https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd) | [Con Musica Del Barrio y Para El Barrio](https://open.spotify.com/album/35L0etvGB9w2whJfmkkXQo) | 4:14 |
 | 123 | [Estupido \(feat\. Janeth Guadalupe\)](https://open.spotify.com/track/7jkSmurPDivppMGamGnmdN) | [Los Papis RA7](https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq), [Janeth Guadalupe](https://open.spotify.com/artist/3uFMg8vtoD5oMUvBppMARq) | [Tonto Carino](https://open.spotify.com/album/4hHMUL65fAWuJUo8dV1tC6) | 4:59 |
-| 124 | [Las Amo a Las Dos](https://open.spotify.com/track/0jhtqu6qU7UU4qEfQuv634) | [Cumbias Poblanas](https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4) | [Cumbia Pa' seguir Bailando](https://open.spotify.com/album/0XgaEEDzNf5VjXlaSV1eHK) | 4:49 |
-| 125 | [Amor De Tres](https://open.spotify.com/track/7lg3uEVC5doxq4d8SchNc3) | [Aroma](https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX) | [25 Aniversario Fonovisa \(Vol\. 4\)](https://open.spotify.com/album/343EeTNnRIur1sGcztjyIJ) | 3:06 |
+| 124 | [Rumba Cha Cha](https://open.spotify.com/track/5OSUQtHDX5L0bW8MbLFlS7) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Los Reyes de la Cumbia](https://open.spotify.com/album/7dqGNgngoKiz7sRR7DaBjw) | 4:44 |
+| 125 | [Las Amo a Las Dos](https://open.spotify.com/track/0jhtqu6qU7UU4qEfQuv634) | [Cumbias Poblanas](https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4) | [Cumbia Pa' seguir Bailando](https://open.spotify.com/album/0XgaEEDzNf5VjXlaSV1eHK) | 4:49 |
 
 Snapshot ID: `Z5elBAAAAAC2TWvuoBSscS2LlvIyH1iH`

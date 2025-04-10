@@ -14299,6 +14299,24 @@
     },
     {
       "album": {
+        "name": "Con otra",
+        "url": "https://open.spotify.com/album/2waOhmvYhyi4AAlS3mLLaD"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231016,
+      "name": "Con otra",
+      "url": "https://open.spotify.com/track/38EGs4h8GqgrS1HT344SCQ"
+    },
+    {
+      "album": {
         "name": "Con To (feat. Flow Nasty)",
         "url": "https://open.spotify.com/album/2PJRh0xPNmeEZVGNhwHGGf"
       },
@@ -15646,7 +15664,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 136991,
       "name": "Dark Thoughts",
       "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
@@ -57358,7 +57376,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 139384,
       "name": "Sentar pro Trem",
       "url": "https://open.spotify.com/track/5S1PfGwsSGlEnLcMSXRYMg"
@@ -72106,6 +72124,24 @@
       "duration_ms": 233771,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/0AhsYyKYi2J6w9rqP93DSe"
+    },
+    {
+      "album": {
+        "name": "WTHELLY",
+        "url": "https://open.spotify.com/album/44r6QyfbQubhNAIW18wfKg"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137666,
+      "name": "WTHELLY",
+      "url": "https://open.spotify.com/track/03gyVoP8A8A3mdcGMxcHqD"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-81 songs - 4 hr 33 min
+82 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Cry Baby](https://open.spotify.com/track/751gK3jve65bGX4LtckYMF) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Cry Baby \(feat\. Valerie June\)](https://open.spotify.com/album/0RpG3rO8iuFXcS4OqaNdjX) | 3:14 | 2025-01-18 |  |
 | [Don't Start \(feat\. Valerie June\)](https://open.spotify.com/track/1NAyk3RK82m5M1IKki0caf) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [JPEG RAW](https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV) | 3:03 | 2024-03-23 |  |
 | [Don’t It Make You Want To Go Home](https://open.spotify.com/track/1IiRdOcgZNojYYbVwU0w8Z) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 4:39 | 2022-09-16 |  |
+| [Endless Tree](https://open.spotify.com/track/5ZCaI8uGsCYcac84KB45Yn) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Endless Tree](https://open.spotify.com/album/23S0SEsKCv5mnzcnHGWnWg) | 3:53 | 2025-04-10 |  |
 | [Fade Into You](https://open.spotify.com/track/0zMkPeOXFjcDJymkJl5qZD) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 4:45 | 2023-06-01 |  |
 | [Fade Into You](https://open.spotify.com/track/2SF4jGzFzrTdOm7ivfIDqY) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Fade Into You](https://open.spotify.com/album/0rBigYSvUtkuE4C8qvVg0L) | 4:45 | 2022-09-16 | 2025-03-10 |
 | [Fallin'](https://open.spotify.com/track/2bmKof7OGfJGfPE3jNNsZu) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Fallin'](https://open.spotify.com/album/6HvXWUQl5qiLKo58HWhR1U) | 3:18 | 2022-09-16 |  |
@@ -72,7 +73,7 @@
 | [The No Draws Blues](https://open.spotify.com/track/77d2KoKcQwq41CBStkXpCp) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Mountain of Rose Quartz](https://open.spotify.com/album/2ExPB3sevswcHXOXiyajDH) | 2:24 | 2023-09-18 | 2025-02-16 |
 | [Tonight I’ll Be Staying Here With You](https://open.spotify.com/track/4BVuRNBQgO2XDhAQxC7c8z) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 3:04 | 2022-09-16 |  |
 | [Trials, Troubles, Tribulations](https://open.spotify.com/track/16sKiqhg3YdpeyJ8bsxYxM) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:02 | 2022-09-16 |  |
-| [Twas Twined & Twisted](https://open.spotify.com/track/2EOSxTbMe1kvl9d89mBzVE) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Mountain of Rose Quartz](https://open.spotify.com/album/2ExPB3sevswcHXOXiyajDH) | 3:07 | 2022-09-20 |  |
+| [Twas Twined & Twisted](https://open.spotify.com/track/2EOSxTbMe1kvl9d89mBzVE) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Mountain of Rose Quartz](https://open.spotify.com/album/2ExPB3sevswcHXOXiyajDH) | 3:07 | 2022-09-20 | 2025-04-10 |
 | [Twined & Twisted](https://open.spotify.com/track/1odjg0Ct6jcXl9hK0nx02f) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:13 | 2022-09-16 |  |
 | [Twined and Twisted](https://open.spotify.com/track/3ZJOBOxFUaxHX1ovXxQdCG) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' against a Stone](https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z) | 3:13 | 2023-09-09 | 2025-03-10 |
 | [Two Hearts](https://open.spotify.com/track/5oUk1qXeCE355VLhp5Q49E) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:53 | 2022-09-16 |  |

@@ -4,7 +4,7 @@
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-247 songs - 14 hr 34 min
+248 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Problems](https://open.spotify.com/track/66x69sbYKTKrQG5rVnbepA) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Show Me the Money 8 Episode 4](https://open.spotify.com/album/4NP4DI5Afz9qz1NyMnxHUp) | 3:48 | 2022-07-22 | 2024-04-19 |
 | [Protagonist](https://open.spotify.com/track/0zKJkmyWeDXQonU5ULAwk1) | [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [Independent Music](https://open.spotify.com/album/5KyAvL3uY3CsyNXPjKmDyU) | 3:03 | 2022-05-23 | 2022-07-15 |
 | [Rainbow 레인보우 \(Feat.YDG\) \- Prod.iDeal](https://open.spotify.com/track/7f4UzFFa5L96Huxa9ESdqI) | [Bassagong](https://open.spotify.com/artist/7j1lNIjZY1E1drWIgJloMs), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Dingo X Bassagong 뱃사공](https://open.spotify.com/album/4iqWCYGWCUYQozrjWNhkVs) | 4:26 | 2022-05-23 | 2022-07-29 |
+| [Raincouver](https://open.spotify.com/track/74Scwor3WAC3YWOpCNl08O) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [The Firstfruit \- The 1st Album](https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s) | 2:39 | 2025-04-09 |  |
 | [Rainy day \(Feat\. ASH ISLAND, Skinny Brown\)](https://open.spotify.com/track/4LxFRsy3TZjqAtAgIsjkez) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Rainy day](https://open.spotify.com/album/7lLMwJuLck4Rnd5GUi81j2) | 3:38 | 2024-07-02 |  |
 | [RAMIRANI](https://open.spotify.com/track/3xuqOPMe5k9HGbQJzP6GQT) | [Ra Mi Ran](https://open.spotify.com/artist/72siRfnwioeRM5Szwha1TX), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [RAMIRANI](https://open.spotify.com/album/05HL7hYaZKHiazEGzpPoAX) | 3:03 | 2022-05-23 | 2022-07-29 |
 | [Re\-Birth](https://open.spotify.com/track/48KTWbSSxOh07mbYtitG2x) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:23 | 2022-07-22 | 2024-04-19 |
@@ -187,7 +188,7 @@
 | [shige](https://open.spotify.com/track/5kdmtXUpKCWvEakD7tGOWt) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Marigold Tapes](https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk) | 4:07 | 2022-06-09 | 2022-07-26 |
 | [Shut Up & Groove](https://open.spotify.com/track/1WT5I6vlWjYW2cnhR1UkVA) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [And July](https://open.spotify.com/album/3xUWeFeLn6m3NXKr0FlT3E) | 3:19 | 2024-09-19 |  |
 | [SHYDAD \(feat.Rosmile\)](https://open.spotify.com/track/16CgE8LF5FTQTyhJMXzU6R) | [나찰](https://open.spotify.com/artist/3JogBd7WwauTGvraZQ7s0k), [Rosmile](https://open.spotify.com/artist/4DvqmImfZ6X91aOtIeOTcg) | [SHYDAD](https://open.spotify.com/album/06Vm5eWlGEmienIAEsXtLm) | 3:51 | 2022-07-07 | 2022-07-21 |
-| [Sick enough to die \(Feat\. JAMIE\)](https://open.spotify.com/track/2aKeFpk9jaBdQeXuqqIZpm) | [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD), [Jamie](https://open.spotify.com/artist/7pKlS8U7Bi4QEYmPEazFyN) | [20th Anniversary Edition ‘Dark Hole’](https://open.spotify.com/album/5NybffqVfTXwACqsc1GUT7) | 4:30 | 2024-11-29 |  |
+| [Sick enough to die \(Feat\. JAMIE\)](https://open.spotify.com/track/2aKeFpk9jaBdQeXuqqIZpm) | [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD), [Jamie](https://open.spotify.com/artist/7pKlS8U7Bi4QEYmPEazFyN) | [20th Anniversary Edition ‘Dark Hole’](https://open.spotify.com/album/5NybffqVfTXwACqsc1GUT7) | 4:30 | 2024-11-29 | 2025-04-10 |
 | [SINKING DOWN WITH U \- Piano Version](https://open.spotify.com/track/5X3BkFOMHEbTNjrhecMwwq) | [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [MANTA BIPOLAR, Pt\. 2](https://open.spotify.com/album/2aPI1gfxJADKL9FBfMe6xd) | 2:57 | 2022-06-03 | 2022-07-22 |
 | [SK8 KID \(feat\. JJANGYOU\)](https://open.spotify.com/track/7vaRmtGZHHRajza4oI5XxX) | [404](https://open.spotify.com/artist/6hJaJkkFyYCBaYr2THZvvH), [JJANGYOU](https://open.spotify.com/artist/3ViJGHHVOYothA6WMi2rYR) | [SK8 KID \(feat\. JJANGYOU\)](https://open.spotify.com/album/5HOSQMPqzkbtyLydTkGzxf) | 2:09 | 2022-07-07 | 2022-07-17 |
 | [Skin \(feat\. Seori\)](https://open.spotify.com/track/4JAqA8BZ9aKqgfYVvro8QJ) | [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Skin](https://open.spotify.com/album/57EMnZPUuiDJaPldPoFXoH) | 4:06 | 2022-05-23 | 2024-07-03 |

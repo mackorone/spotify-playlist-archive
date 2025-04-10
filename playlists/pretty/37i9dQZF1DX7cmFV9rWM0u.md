@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cmFV9rWM0u.md) - [plain]
 
 > Break a sweat with this Zumba\-inspired playlist! Find a class at Zumba.com
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,793,743 likes - 65 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,793,794 likes - 65 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cmFV9rWM0u.md) - [plain]
 | 64 | [Dientes](https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Dientes](https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O) | 2:46 |
 | 65 | [Djadja \(feat\. Maluma\) \- Remix](https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Djadja \(feat\. Maluma\) \[Remix\]](https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV) | 2:46 |
 
-Snapshot ID: `Z+GxUQAAAAA8+ThpqcihGDXpzX5fIa5I`
+Snapshot ID: `Z/ZxMQAAAABd1OMuILKNNFsWu/m5wPAA`

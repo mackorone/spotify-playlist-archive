@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[ash \(Ashley\)](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 960 likes - 320 songs - 16 hr 16 min
+[ash \(Ashley\)](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 960 likes - 321 songs - 16 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -328,5 +328,6 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 318 | [Swing Jazz Rock & Roll](https://open.spotify.com/track/0ESvycLD9csoJpgNEYBLR8) | [The Lazy Tails](https://open.spotify.com/artist/7GmTFT9mv4s0VHTti5GRGi) | [Swing Jazz Rock & Roll](https://open.spotify.com/album/1TAWhgs53Q9ngdpjCHp7WW) | 3:18 |
 | 319 | [Fursuit Friday](https://open.spotify.com/track/1X1EVr6b5g2YUv0uiOEi71) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Fading Away](https://open.spotify.com/album/4lKIb0JsCUBrpmAkLRPK16) | 1:26 |
 | 320 | [Baby You're a Haunted House](https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Baby You're a Haunted House](https://open.spotify.com/album/3OyBzPBEniYPTNgIIHfTXS) | 2:46 |
+| 321 | [Hyperactive](https://open.spotify.com/track/31JEUb4xIhZi5ZO3WVh6hE) | [The Lazy Tails](https://open.spotify.com/artist/7GmTFT9mv4s0VHTti5GRGi) | [Hyperactive](https://open.spotify.com/album/6hf1roiQQyKiTVdp5jVPXG) | 2:34 |
 
-Snapshot ID: `AAABciS2QG3BI8aVYQByAD7RIjb9ebis`
+Snapshot ID: `AAABc69ruhINu+P0wye4fKPN9inWBZ/S`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nSXaa.md) - [plain]
 
 > This is Tate McRae\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,150 likes - 41 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,616 likes - 41 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,12 +23,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nSXaa.md) - [plain]
 | 13 | [Dear god](https://open.spotify.com/track/2ETQsbiuGm2WLOSOr2I19A) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:51 |
 | 14 | [hurt my feelings](https://open.spotify.com/track/4mFcwFOlSCxp6hjemRXwpd) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:02 |
 | 15 | [uh oh](https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [uh oh](https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq) | 2:49 |
-| 16 | [One Day](https://open.spotify.com/track/4Ey0LK1HzksUqm9JLzzKuD) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [One Day](https://open.spotify.com/album/5dcblm6CNsl9cCiQ6CsKjr) | 3:22 |
-| 17 | [Purple lace bra](https://open.spotify.com/track/2bqLj0NvdtGbPCl9PdBtP2) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:11 |
+| 16 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 |
+| 17 | [Miss possessive](https://open.spotify.com/track/4Q9ExJGFgL9Jd9kmYH3nXs) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:19 |
 | 18 | [we're not alike](https://open.spotify.com/track/0tFRxPQHvAUMTbWYRJUo8R) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:00 |
-| 19 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 |
+| 19 | [One Day](https://open.spotify.com/track/4Ey0LK1HzksUqm9JLzzKuD) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [One Day](https://open.spotify.com/album/5dcblm6CNsl9cCiQ6CsKjr) | 3:22 |
 | 20 | [chaotic](https://open.spotify.com/track/4bt7eqP7mfWduRBKEpCAzM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:55 |
-| 21 | [Miss possessive](https://open.spotify.com/track/4Q9ExJGFgL9Jd9kmYH3nXs) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:19 |
+| 21 | [Purple lace bra](https://open.spotify.com/track/2bqLj0NvdtGbPCl9PdBtP2) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:11 |
 | 22 | [guilty conscience](https://open.spotify.com/track/2wIcebwzceIwgonsDICx6P) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:32 |
 | 23 | [rubberband](https://open.spotify.com/track/2E8IlL26PwtZq7CqAHBBUw) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:27 |
 | 24 | [Teenage Mind](https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Teenage Mind](https://open.spotify.com/album/7uxkPJEel1MLzreQUmvra0) | 2:35 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nSXaa.md) - [plain]
 | 40 | [all my friends are fake](https://open.spotify.com/track/3xF2FcXiJjWQUqUYvrp4NT) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 3:06 |
 | 41 | [bad ones](https://open.spotify.com/track/6CYT0souHUHKTO4EMzTUFg) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 3:03 |
 
-Snapshot ID: `Z/MVgAAAAACwh8/iAsSorcQ5HdRyT/Q/`
+Snapshot ID: `Z/RnAAAAAAB9dZnLYpXgKguI3mjb9y0t`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 
 > Instrumental selections from the South Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,348 likes - 75 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,362 likes - 75 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 | 36 | [Sriganesa Thilang Adi](https://open.spotify.com/track/1Oievd5Y3lAwGxuxHGXSM5) | [Tyagaraja](https://open.spotify.com/artist/4bL34J5iZitrBLMZ9LZJTu), [Kalaimamani Prabhavathi Ganesan](https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T) | [Mahathi Melodies](https://open.spotify.com/album/65QSYZFbuZk8FtoG6mlb9B) | 6:30 |
 | 37 | [Ghana Ragamalika Tanam](https://open.spotify.com/track/0QkDTGMqbYEE3tQqpmpWiC) | [Doraiswamy Iyengar](https://open.spotify.com/artist/497X57lLfcatx1iIrTaxZj) | [The Best of Carnatic Instrumental](https://open.spotify.com/album/6rppxMFOu4BttV6Z4QQTjK) | 5:09 |
 | 38 | [Senthamizh](https://open.spotify.com/track/28T2AZC7zmWY9k4KreLNBr) | [Rajhesh Vaidhya](https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL) | [Bharatiyaar Songs \- Veena](https://open.spotify.com/album/17TcgHNFqFiVOt2SpwMsNO) | 2:47 |
-| 39 | [Raga Alapana \- Version 2](https://open.spotify.com/track/4Zz4Gbt5WwK25hc7Mc19YQ) | [T\. R\. Mahalingam](https://open.spotify.com/artist/3pIIEzoMgZiupDQsu0CucU), [L\. Subramaniam](https://open.spotify.com/artist/3PwzNTwCiUHdV5hWjwaTfD) | [Inde du sud : Anthologie de la musique classique \(South India\)](https://open.spotify.com/album/6iUn6O1aZJaDuoIQ3YeU9E) | 3:06 |
+| 39 | [Ayarpadi](https://open.spotify.com/track/4TcL2zD8AwZCPfIr8QE03e) | [Kalaimamani Prabhavathi Ganesan](https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T) | [Veena Gana Murali](https://open.spotify.com/album/06eFa1n9NgHxKD0qRSQ1M5) | 4:38 |
 | 40 | [Jagadhanandha karaka \- Nattai \- Adi](https://open.spotify.com/track/7iEG1ZpQ6terq6mTrNdxU4) | [Flute J A Jayant](https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP) | [Pancharatna Kritis \- A Flute Duet](https://open.spotify.com/album/7LA4l7AXFVJmjlqTJoVQVQ) | 9:39 |
 | 41 | [Vasantha \(Violin Solo\)](https://open.spotify.com/track/1jHkxPfy8qSle6FzOqeZZS) | [Apoorva Krishna](https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv) | [Apoorva Thillanas](https://open.spotify.com/album/4yyj6gKZvVdbOuYqoqYa6b) | 5:17 |
-| 42 | [Ayarpadi](https://open.spotify.com/track/4TcL2zD8AwZCPfIr8QE03e) | [Kalaimamani Prabhavathi Ganesan](https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T) | [Veena Gana Murali](https://open.spotify.com/album/06eFa1n9NgHxKD0qRSQ1M5) | 4:38 |
+| 42 | [Raga Alapana \- Version 2](https://open.spotify.com/track/4Zz4Gbt5WwK25hc7Mc19YQ) | [T\. R\. Mahalingam](https://open.spotify.com/artist/3pIIEzoMgZiupDQsu0CucU), [L\. Subramaniam](https://open.spotify.com/artist/3PwzNTwCiUHdV5hWjwaTfD) | [Inde du sud : Anthologie de la musique classique \(South India\)](https://open.spotify.com/album/6iUn6O1aZJaDuoIQ3YeU9E) | 3:06 |
 | 43 | [Raagam Keeravani \- Aalapanai](https://open.spotify.com/track/7Br9HxJ06JfKzWQlD3HXJs) | [Akkarai Subhalakshmi](https://open.spotify.com/artist/2SQohb4X5sNjoNZKlXzYnn) | [Keeravani \- Ragam, Thaanam, Pallavai](https://open.spotify.com/album/3iwiBgNFdHZCaPrXDTBLPN) | 19:29 |
 | 44 | [Rāga: Kharaharapriya / Ālāpana](https://open.spotify.com/track/1ibvLixDYokvMwAAex6ZA6) | [Ranganayaki Rajagopalan](https://open.spotify.com/artist/5kUDJrh7qHEz1aZQk2QWUi) | [South India: Ranganayaki Rajagopalan—Continuity in the Karaikudi Vina Style](https://open.spotify.com/album/1TNRXFTFwiYduNDHEVKOGv) | 7:48 |
 | 45 | [Kriti: Padavini with Vina and Mrdangam](https://open.spotify.com/track/62J1F714qiqQtDfaT2Bs1Q) | [Trichy Sankaran](https://open.spotify.com/artist/5pXWGFz6zZwtMctRbOFcUd) | [Laya Vinyas](https://open.spotify.com/album/16lv6BLMgYb0IN5LvFuODn) | 3:53 |

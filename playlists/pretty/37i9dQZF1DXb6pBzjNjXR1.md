@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > Listen to the best in AfroTech that was born in Southern Africa, as it travels the world's dancefloors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,876 likes - 50 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,882 likes - 50 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 28 | [Chambers](https://open.spotify.com/track/1fvE8vUJmBQQyuIOKYvgiz) | [Candy Man](https://open.spotify.com/artist/6jeexjc4jgw4TN9Ql7Ccor) | [Chambers](https://open.spotify.com/album/1iSRp7cU9eDJqQXhU00vg3) | 6:30 |
 | 29 | [Khoisan](https://open.spotify.com/track/2rnvcSb0Of5nxK6nNW0EPX) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Kitty Amor](https://open.spotify.com/artist/0ZaCzPKSboLncLMhFaBfcT) | [Africa Gets Physical, Vol\. 4](https://open.spotify.com/album/3EYT5rRhfYfz4ttOl2ILEr) | 4:23 |
 | 30 | [Kamweretho \- Soultronixx Remix](https://open.spotify.com/track/758giWRZzVK6NlDb4KV6Qe) | [Tina Ardor](https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9), [Soultronixx](https://open.spotify.com/artist/5peiJgR8i9v88d3Gebhiha) | [Kamweretho](https://open.spotify.com/album/69cfR9Rdbe7TBqppvRk12t) | 6:28 |
-| 31 | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [Aya](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q) | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n) | 3:40 |
+| 31 | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q) | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n) | 3:40 |
 | 32 | [The Church](https://open.spotify.com/track/6qtYg4sxsAXV4qcET5udIS) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [The Church](https://open.spotify.com/album/2dIlOfhnuybkHNkMvhiW4H) | 7:20 |
 | 33 | [Chaak](https://open.spotify.com/track/421Eli1NCAJLQu2HUd57Yl) | [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ) | [Chaak](https://open.spotify.com/album/0vY8kHv6gujFCWyUCnQ1Eq) | 4:21 |
 | 34 | [Afrika My Afrika](https://open.spotify.com/track/63siScIvu0PyOOqSHPzcud) | [Kenza](https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Citizen Deep](https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM), [Mpho.Wav](https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB) | [Afrika My Afrika](https://open.spotify.com/album/1rUOxTpEkSvqRgqM1zsg9o) | 6:32 |

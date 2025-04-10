@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,168,993 likes - 200 songs - 17 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,169,197 likes - 200 songs - 17 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -205,8 +205,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 | 195 | [Round Midnight](https://open.spotify.com/track/5DlGJh3S6jYf0wZAiESvwA) | [The Mellowtones](https://open.spotify.com/artist/00Riinu1dD4y04vDPULBE6) | [Round Midnight](https://open.spotify.com/album/4LgeBu2FmDL9nakgrReCuH) | 5:01 |
 | 196 | [In A Sentimental Mood](https://open.spotify.com/track/0L5jTWqmqW0X5FFnMjYLpQ) | [Mellow In Blue](https://open.spotify.com/artist/0XqUdduCt8Hmk0fGxzpdR4), [Mathias Heise](https://open.spotify.com/artist/5VDMcXFNkMZ3bB9bt9jRFW), [Erlend Slettevoll](https://open.spotify.com/artist/1Wvn3eBW8X5DeD2pwnTjYS), [Johnny Åman](https://open.spotify.com/artist/1eAt5Qjg9RPfYAhxl723YW), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [In A Sentimental Mood](https://open.spotify.com/album/2BPqCjx9YoBSTfOaECF76s) | 5:06 |
 | 197 | [Nancy \(with the Laughing Face\)](https://open.spotify.com/track/6TKM3SZVfwS7G0qsqyWfzk) | [CLC TRIO](https://open.spotify.com/artist/55Nzzm5voEkVZ1rzKq10Rr) | [Nancy \(with the Laughing Face\)](https://open.spotify.com/album/2Lj7miVFzrkyI0d3dbc1aO) | 6:18 |
-| 198 | [Links](https://open.spotify.com/track/36Xd81l2gCMOIv3uLJYSJh) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/1bQocL3Muez9zJLuA4JjVx) | [Links](https://open.spotify.com/album/44rq9Oqk7prhdYXyGALbvn) | 3:52 |
-| 199 | [Wall](https://open.spotify.com/track/0g4Cc7PPAJmCwpdwv1bw6a) | [Richard Andersson](https://open.spotify.com/artist/7gUUsqJ2B9OBcmlcisjscK), [Óskar Guðjónsson](https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N), [Hilmar Jensson](https://open.spotify.com/artist/37X7xED7KUb9gHjqbh8PJy), [Matthias Hemstock](https://open.spotify.com/artist/6NiwLnm8sGjwVbbHFPHqGU) | [Wall](https://open.spotify.com/album/6zIThZOKiiFFhMTfhPNoQ9) | 4:59 |
-| 200 | [Gnostic](https://open.spotify.com/track/2Drvk5fiaxHptNFQeP6Kru) | [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL) | [Gnostic](https://open.spotify.com/album/0pTBuVSX0MBAGvVwnpTyis) | 3:36 |
+| 198 | [Gnostic](https://open.spotify.com/track/2Drvk5fiaxHptNFQeP6Kru) | [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL) | [Gnostic](https://open.spotify.com/album/0pTBuVSX0MBAGvVwnpTyis) | 3:36 |
+| 199 | [Links](https://open.spotify.com/track/36Xd81l2gCMOIv3uLJYSJh) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/1bQocL3Muez9zJLuA4JjVx) | [Links](https://open.spotify.com/album/44rq9Oqk7prhdYXyGALbvn) | 3:52 |
+| 200 | [On and On](https://open.spotify.com/track/6kWTNMxiPjj7Ph7wEEk2gS) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh) | [On and On](https://open.spotify.com/album/0clgQ9lkv6pCitc1bzWstz) | 3:51 |
 
 Snapshot ID: `Z+6F8AAAAAC/SmXGE8Xti1OYI0NheDHT`

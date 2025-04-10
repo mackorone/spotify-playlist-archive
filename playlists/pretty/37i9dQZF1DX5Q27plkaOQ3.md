@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">wobble</a> 💥 with Subtronics
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,926 likes - 200 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 977,985 likes - 200 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

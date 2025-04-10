@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 > With The Wild Wind, LAVE, Laureline and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,058 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,060 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Dream](https://open.spotify.com/track/26PwqBf8y4mRjWieTYS2Jg) | [The Wild Wind](https://open.spotify.com/artist/377Knb6HRXkcDKafzqtt5y) | [Young and in Love](https://open.spotify.com/album/38rzj4uWKuXZFXZNr8cUEo) | 3:36 |
 | 50 | [Give Me Your Fire, Give Me Your Rain](https://open.spotify.com/track/7xT7S9uNrRkYTl4U4xps4M) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Corner Where You Live](https://open.spotify.com/album/4iiL0cdvbQoPNEbvyDTkOU) | 3:32 |
 
-Snapshot ID: `Z/Xo4wAAAADRwl0vxBSNNAESdrhnYhJa`
+Snapshot ID: `Z/cx5QAAAAAoO4woTtJXnWMlXmb+hh5+`

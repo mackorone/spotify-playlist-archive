@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,269,717 likes - 230 songs - 12 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,269,755 likes - 230 songs - 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 90 | [bring your love \(to the light\)](https://open.spotify.com/track/2JYuCiKDCsqfkkVNcghpvq) | [Noah Henderson](https://open.spotify.com/artist/0kPYgLFS4vuBuCGE8pShFV) | [bring your love \(to the light\)](https://open.spotify.com/album/0AOqksZ3wCG2yrPec5tvq6) | 3:45 |
 | 91 | [U REALLY HURT ME](https://open.spotify.com/track/1g6CSA2mlxKShnuNbUsLmy) | [LUV HRTS](https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8), [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [U REALLY HURT ME](https://open.spotify.com/album/0sEsTyGtFhgTWxwIofbeC5) | 2:42 |
 | 92 | [don't leave](https://open.spotify.com/track/0XJUlFtz2y9AHOlqBtVjzW) | [LSR/CITY](https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2), [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Annabel](https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l) | [don't leave](https://open.spotify.com/album/1u4GuDtERLgY7wSNk9x6pg) | 4:42 |
-| 93 | [Cowgirl](https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e) | [honey](https://open.spotify.com/artist/6cUanG4fLNSAhNEcu6n34w), [Vrdnyn](https://open.spotify.com/artist/6Gq2D2UOJNriDLfSPR6Y2Y) | [Cowgirl](https://open.spotify.com/album/7DDKQh6Y9UbKCMVIYHKnHz) | 2:25 |
+| 93 | [Cowgirl](https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e) | [Honeygirl](https://open.spotify.com/artist/1PJ0cxhltIfAdImSgaujTd), [Vrdnyn](https://open.spotify.com/artist/6Gq2D2UOJNriDLfSPR6Y2Y) | [Cowgirl](https://open.spotify.com/album/7DDKQh6Y9UbKCMVIYHKnHz) | 2:25 |
 | 94 | [You](https://open.spotify.com/track/1KCMF9fdF7sNE74R2V46af) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Childish](https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ) | 4:14 |
 | 95 | [Don't Speak](https://open.spotify.com/track/3iegKMcDwOdWtOUgwa4afJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Don't Speak](https://open.spotify.com/album/72AWK6AZ95LODDCjLJnoqX) | 2:46 |
 | 96 | [Superhero](https://open.spotify.com/track/2vm52EstTRxGsvQ44gEFRL) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE) | [Superhero](https://open.spotify.com/album/1UnWKwF6vpxiBxa8ZBslTs) | 3:27 |

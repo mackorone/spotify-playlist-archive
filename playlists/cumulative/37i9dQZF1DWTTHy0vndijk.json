@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: NiziU (\ub2c8\uc96c) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
+  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: \uc624\ub9c8\uc774\uac78 (OH MY GIRL) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
   "name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "tracks": [
     {
@@ -650,7 +650,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 124080,
       "name": "because I'm stupid? (feat. KIXO)",
       "url": "https://open.spotify.com/track/7wb12ZFRhL9Tmt2GedW1RS"
@@ -3326,7 +3326,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 183251,
       "name": "IWALY",
       "url": "https://open.spotify.com/track/4SwXtg8jDejWX18zLsZwCO"
@@ -4745,6 +4745,24 @@
     },
     {
       "album": {
+        "name": "ERLU BLUE",
+        "url": "https://open.spotify.com/album/1FCqBar1R2jOcwcR7TyVTS"
+      },
+      "artists": [
+        {
+          "name": "ifeye",
+          "url": "https://open.spotify.com/artist/1g971p3BXozVYNCn7JRMNa"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192386,
+      "name": "NERDY",
+      "url": "https://open.spotify.com/track/6maRkcBnkwVL0uwjjGazFT"
+    },
+    {
+      "album": {
         "name": "With YOU-th",
         "url": "https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR"
       },
@@ -5006,6 +5024,24 @@
       "duration_ms": 195680,
       "name": "Oh (Yes I Am)",
       "url": "https://open.spotify.com/track/5l8Vpgx92aqAuniKsSKbyZ"
+    },
+    {
+      "album": {
+        "name": "Oh My",
+        "url": "https://open.spotify.com/album/5wSh6Aw0IamviaLSPnW7vV"
+      },
+      "artists": [
+        {
+          "name": "OH MY GIRL",
+          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178026,
+      "name": "Oh My",
+      "url": "https://open.spotify.com/track/1rTMIstU7GaHqRyYlPrHGd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Mahmundi
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,663 likes - 85 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,668 likes - 85 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

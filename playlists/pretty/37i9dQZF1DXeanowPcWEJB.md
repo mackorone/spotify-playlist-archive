@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 
 > Viaja al México tradicional con la expresión de sus guitarras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,013 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,037 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 97 | [Mi Ciudad \(Remasterizado\)](https://open.spotify.com/track/69CRO9ofTkrgFUg2CKX8oR) | [Gilberto Puente](https://open.spotify.com/artist/1OBVE9oxvqZ5mGtUUR3wVR) | [Tesoros De Colección \- Las Grandes Guitarras Mexicanas](https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3) | 4:11 |
 | 98 | [La Borrachita](https://open.spotify.com/track/0KVOAOH3X74VvD6nMqWnw1) | [Roberto Rojas](https://open.spotify.com/artist/6h8HM5jSn1QjXgOiZzfm0p) | [Guitarra Mexicana](https://open.spotify.com/album/0jU75I0W8UhgQJFvVk9cjO) | 1:57 |
 | 99 | [Alla en el Rancho Grande](https://open.spotify.com/track/64j3RUFP6ZHH4h8ctOxc1o) | [Romanticos De La Guitarra](https://open.spotify.com/artist/6HexP8xPE4JxhMkwxx55Pz) | [Nostalgia](https://open.spotify.com/album/6lumfvD8xwtfHiabaaBXS6) | 2:09 |
-| 100 | [Historia De Un Amor Mi Ultimo Fracaso / Nunca Jamas](https://open.spotify.com/track/2VXkdSsemHoew3EtzLUic3) | [Chamin Correa](https://open.spotify.com/artist/5nbu0z9YPCdLMUr4OsiQ9w) | [Coleccion De Oro](https://open.spotify.com/album/5BF6FnLpTgHby3oU3gjr8G) | 4:49 |
+| 100 | [Pecado / Condicion / Usted](https://open.spotify.com/track/4kzAxrEgy8jFsyomT5Pycc) | [Chamin Correa](https://open.spotify.com/artist/5nbu0z9YPCdLMUr4OsiQ9w) | [Coleccion De Oro](https://open.spotify.com/album/5BF6FnLpTgHby3oU3gjr8G) | 4:13 |
 
 Snapshot ID: `Zo805gAAAABsycmNgLWtruE03CLsWIz9`

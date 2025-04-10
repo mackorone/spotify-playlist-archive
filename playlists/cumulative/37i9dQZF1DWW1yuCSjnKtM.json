@@ -274,7 +274,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 217578,
       "name": "All I Ever Asked",
       "url": "https://open.spotify.com/track/1awQLv1J6LkeEQ5co4OOoQ"
@@ -1131,6 +1131,24 @@
     },
     {
       "album": {
+        "name": "Caramel",
+        "url": "https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290110,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
       },
@@ -1390,7 +1408,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 198082,
       "name": "Crush (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/3cqAMw4w9px9nAV6iROr0a"
@@ -1874,7 +1892,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 386253,
       "name": "Emergence",
       "url": "https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6"
@@ -3473,6 +3491,24 @@
     },
     {
       "album": {
+        "name": "Itty Bitty",
+        "url": "https://open.spotify.com/album/6cPPkaA7q9UF66afGI945c"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Itty Bitty",
+      "url": "https://open.spotify.com/track/6TxJ6ocfLpkKkY8152ttpM"
+    },
+    {
+      "album": {
         "name": "Jerkin'",
         "url": "https://open.spotify.com/album/4IiBgaY6BeDdBrB1vLyRtF"
       },
@@ -3768,6 +3804,32 @@
       "duration_ms": 222784,
       "name": "leavemealone",
       "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
+    },
+    {
+      "album": {
+        "name": "LONDON",
+        "url": "https://open.spotify.com/album/46GT5IrCX7phVsWdwDZn5f"
+      },
+      "artists": [
+        {
+          "name": "PlaqueBoyMax",
+          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "5STAR",
+          "url": "https://open.spotify.com/artist/0DVETtFrZ1gvd4OfNNH99F"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "less is more (with Skepta)",
+      "url": "https://open.spotify.com/track/66cGvS5NV8WPPj9MklKWSp"
     },
     {
       "album": {
@@ -4308,7 +4370,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 284068,
       "name": "Messy",
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
@@ -4878,6 +4940,32 @@
       "duration_ms": 170541,
       "name": "obsessed",
       "url": "https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8"
+    },
+    {
+      "album": {
+        "name": "I Said I Love You First...",
+        "url": "https://open.spotify.com/album/6mfLgMAN1pZTa2o4LjVGjX"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201920,
+      "name": "Ojos Tristes (with The Mar\u00edas)",
+      "url": "https://open.spotify.com/track/4iMrPRkP4yGsD9tqKgDBGa"
     },
     {
       "album": {
@@ -6310,7 +6398,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 165045,
       "name": "Sports car",
       "url": "https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ"
@@ -6760,7 +6848,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 233229,
       "name": "The Days - NOTION Remix",
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
@@ -6850,10 +6938,28 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 202768,
       "name": "The Giver",
       "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
+    },
+    {
+      "album": {
+        "name": "The Caledonian Fig Tree",
+        "url": "https://open.spotify.com/album/1qUryVG6PIexqOZIONHELH"
+      },
+      "artists": [
+        {
+          "name": "Beluga Lagoon",
+          "url": "https://open.spotify.com/artist/0RYoM8xN6lU16c9YGrBuLC"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "The Glen",
+      "url": "https://open.spotify.com/track/3xEl8iU2MuTUlnPMxRBPS1"
     },
     {
       "album": {
@@ -7213,6 +7319,24 @@
     },
     {
       "album": {
+        "name": "Pop 2",
+        "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326906,
+      "name": "Track 10",
+      "url": "https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc"
+    },
+    {
+      "album": {
         "name": "trespass coat",
         "url": "https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1"
       },
@@ -7376,6 +7500,24 @@
       "duration_ms": 147020,
       "name": "Turn it up",
       "url": "https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5"
+    },
+    {
+      "album": {
+        "name": "undressed",
+        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182088,
+      "name": "undressed",
+      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
     },
     {
       "album": {

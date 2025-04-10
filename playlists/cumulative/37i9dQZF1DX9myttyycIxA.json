@@ -6175,6 +6175,24 @@
     },
     {
       "album": {
+        "name": "Dead Beat City",
+        "url": "https://open.spotify.com/album/3zEsj1P1EJGu67rUKLVbWl"
+      },
+      "artists": [
+        {
+          "name": "Kids That Fly",
+          "url": "https://open.spotify.com/artist/1qChcfwij4nN6hsCLTKBJX"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233496,
+      "name": "Dead Beat City",
+      "url": "https://open.spotify.com/track/1VPWPBWtpRtLeB4kHkddZb"
+    },
+    {
+      "album": {
         "name": "Dead Lands",
         "url": "https://open.spotify.com/album/02N4g76ECc45R7WAsK0ml8"
       },

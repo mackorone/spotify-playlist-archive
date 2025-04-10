@@ -4,7 +4,7 @@
 
 > Ed Sheeran, Miley Cyrus et KeBlack au top des nouveautés de la semaine !
 
-4,145 songs - 8 day 23 hr 31 min
+4,146 songs - 8 day 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3002,6 +3002,7 @@
 | [QI\. RAP](https://open.spotify.com/track/2keS8llLDlW3Auh6LFbNrf) | [Médine](https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV) | [QI\. RAP](https://open.spotify.com/album/3hYR3wlA63xrFZ0fZxfiEt) | 2:50 | 2025-02-28 | 2025-03-07 |
 | [QOD](https://open.spotify.com/track/1EaJUWOIxelw0tSaqF9MCu) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [NP2 \(DELUXE\)](https://open.spotify.com/album/4AINTVUVLkHdHRmN3qJvgs) | 2:45 | 2024-11-28 | 2024-12-06 |
 | [QQQQ](https://open.spotify.com/track/3B9gRLf1eT5DadhEY9fqda) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [QQQQ](https://open.spotify.com/album/7Kayz2sfMlJvNVGZsYPd5I) | 3:23 | 2025-01-16 | 2025-01-24 |
+| [QT](https://open.spotify.com/track/3q88Spem4GoH3d9AEbsvQO) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [QT](https://open.spotify.com/album/5su3xqDyd1W7ElC2DvewBE) | 2:36 | 2025-04-03 |  |
 | [Quand vous serez bien vieille](https://open.spotify.com/track/3WrtQOl0syyzKfBDAmCsmL) | [Les Frangines](https://open.spotify.com/artist/2sYOUJa6fNc4ke4Zo6EkZ4) | [Poèmes](https://open.spotify.com/album/2PUBTtalG8EVaYEe8sGpp5) | 3:14 | 2024-05-23 | 2024-06-01 |
 | [Quatrième mur](https://open.spotify.com/track/329U1mHCtj33O1ntN86Pph) | [Scylla](https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA), [Médine](https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Quatrième mur](https://open.spotify.com/album/1VTQXXcGF3m5V4PcxUFpfr) | 5:11 | 2024-11-07 | 2024-11-15 |
 | [Que dalle](https://open.spotify.com/track/4gCoc6I3V4kEBhYp9r84gt) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Que dalle](https://open.spotify.com/album/75eKtzkGSIcANu1hny54Fi) | 2:57 | 2025-01-30 | 2025-02-07 |

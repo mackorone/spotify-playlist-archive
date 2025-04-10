@@ -475,6 +475,32 @@
     },
     {
       "album": {
+        "name": "Bailalo Rocky",
+        "url": "https://open.spotify.com/album/2VHCyzqBeo6vy0ubdT60vg"
+      },
+      "artists": [
+        {
+          "name": "Yoan Retro",
+          "url": "https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi"
+        },
+        {
+          "name": "Ariadne Arana",
+          "url": "https://open.spotify.com/artist/5k5RJzP8MAKLrPgvpYTKKd"
+        },
+        {
+          "name": "GMBeats Degranalo",
+          "url": "https://open.spotify.com/artist/3mz31fCuwqJDQoKGN3sbnT"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143349,
+      "name": "Bailalo Rocky",
+      "url": "https://open.spotify.com/track/2nKdvC22Nbra2MZVKY1Srf"
+    },
+    {
+      "album": {
         "name": "Baje Con Trenza (Remix)",
         "url": "https://open.spotify.com/album/76q0xgvBOP2O2MZnHy28Vm"
       },
@@ -842,7 +868,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 134565,
       "name": "Boy Boy",
       "url": "https://open.spotify.com/track/0E2T5QGDi48YmAo32ZqaqF"
@@ -5062,7 +5088,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 139487,
       "name": "MONTOYA",
       "url": "https://open.spotify.com/track/6QJoEebhAhga8KXM2ho6k8"

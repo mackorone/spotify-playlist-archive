@@ -4,7 +4,7 @@
 
 > This is Stefanie\. The essential tracks, all in one playlist.
 
-49 songs - 3 hr 38 min
+50 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Muita Calma](https://open.spotify.com/track/6GtFum9gSK5ig4tmZa1kVR) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Tatiana](https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8) | [Muita Calma](https://open.spotify.com/album/6pqhOGkkDJkSCSwF4ylGQj) | 3:30 | 2025-04-09 |  |
 | [Muita Calma](https://open.spotify.com/track/7ID70qexcXsxTQpaEYTltY) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Tatiana](https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8) | [Muita Calma](https://open.spotify.com/album/5KkvAHSMPWKCNH72Pdt8TL) | 3:30 | 2023-09-18 | 2025-04-09 |
 | [Muita Calma \- Vincee Remix](https://open.spotify.com/track/2xnpqRt8QR8jYDXGjU3yDQ) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Tatiana](https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8), [Vincee](https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN) | [Muita Calma](https://open.spotify.com/album/1izapaaWqVClmLOHsW2mY2) | 3:38 | 2023-12-29 | 2024-01-01 |
-| [Mulher MC](https://open.spotify.com/track/1T50N1Bgsq9uzPQRQikQoN) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Dj Will](https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX) | [Mulher MC](https://open.spotify.com/album/4d1LMcSwAHx9U06d1Kiosh) | 3:55 | 2023-09-18 |  |
+| [Mulher MC](https://open.spotify.com/track/1T50N1Bgsq9uzPQRQikQoN) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Dj Will](https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX) | [Mulher MC](https://open.spotify.com/album/4d1LMcSwAHx9U06d1Kiosh) | 3:55 | 2023-09-18 | 2025-04-10 |
+| [Mulher MC](https://open.spotify.com/track/2Ggrs1fIyg8lqbGkIbT9kr) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Dj Will](https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX) | [Mulher MC](https://open.spotify.com/album/691DON7EpEoLHj20fUxOA9) | 3:55 | 2025-04-10 |  |
 | [Na Atividade \(feat\. IZA\)](https://open.spotify.com/track/5QMXwNwtiPrHUBngQ1u3q8) | [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Rafael Porrada](https://open.spotify.com/artist/2vo894WKHL8iUZkm0Ory1z) | [Na Atividade \(feat\. IZA\)](https://open.spotify.com/album/4h1LY8YXe9xLXZl3wmU4gR) | 2:20 | 2023-09-18 |  |
 | [Na Entrada Do Céu](https://open.spotify.com/track/2qyctDCiic8LglZE7NM2Hq) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe) | [Movimento Rápido dos Olhos](https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog) | 3:27 | 2023-09-18 |  |
 | [Nossa Lei](https://open.spotify.com/track/44cliqma2bQWBj3OwXtRzr) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Kmila Cdd](https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe) | [Voando Baixo](https://open.spotify.com/album/0QavGWICZFPuVesowDRq87) | 4:40 | 2023-09-18 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 7552,
+  "num_followers": 7558,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/MVgAAAAAARYhXt7agFbHM0Et7aoL9F",
+  "snapshot_id": "Z/RnAAAAAAC3FWMQr5D2wf+CnZWk6Zg7",
   "tracks": [
     {
       "added_at": null,
@@ -63,18 +63,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beso - Spotify Singles",
-        "url": "https://open.spotify.com/album/448r8kUAvwPVIjlxsSgkEs"
+        "name": "BACCARAT",
+        "url": "https://open.spotify.com/album/6wj2LMLRq13TAQHizN5PDG"
       },
       "artists": [
+        {
+          "name": "Linea Personal",
+          "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
+        },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 143231,
-      "name": "Beso - Spotify Singles",
-      "url": "https://open.spotify.com/track/2Ik9ckKC3t566rQcW1A6aE"
+      "duration_ms": 157924,
+      "name": "BACCARAT",
+      "url": "https://open.spotify.com/track/4c3nS9PxDBRj7u9nLEYPpl"
     },
     {
       "added_at": null,
@@ -95,6 +99,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beso - Spotify Singles",
+        "url": "https://open.spotify.com/album/448r8kUAvwPVIjlxsSgkEs"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 143231,
+      "name": "Beso - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Ik9ckKC3t566rQcW1A6aE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amor De Lejos",
         "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
       },
@@ -111,26 +131,6 @@
       "duration_ms": 188888,
       "name": "3 AM",
       "url": "https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BACCARAT",
-        "url": "https://open.spotify.com/album/6wj2LMLRq13TAQHizN5PDG"
-      },
-      "artists": [
-        {
-          "name": "Linea Personal",
-          "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
-        },
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 157924,
-      "name": "BACCARAT",
-      "url": "https://open.spotify.com/track/4c3nS9PxDBRj7u9nLEYPpl"
     },
     {
       "added_at": null,
@@ -283,26 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loko",
-        "url": "https://open.spotify.com/album/59SSpxu6Lau67i21tUvswt"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 128739,
-      "name": "Loko",
-      "url": "https://open.spotify.com/track/6MsbMIHQL3ZM6RUWb2F8tU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luna De Miel",
         "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 141811,
       "name": "Esta Noche (Version Norte\u00f1a)",
       "url": "https://open.spotify.com/track/6pVS9jlTZ7tpMZPVeEs6uK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loko",
+        "url": "https://open.spotify.com/album/59SSpxu6Lau67i21tUvswt"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 128739,
+      "name": "Loko",
+      "url": "https://open.spotify.com/track/6MsbMIHQL3ZM6RUWb2F8tU"
     },
     {
       "added_at": null,
@@ -363,26 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/6AVu2TZoE7ZRNAog3BCMCm"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "La Septima Banda",
-          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
-        }
-      ],
-      "duration_ms": 170150,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/7tHbFvrWjqvfILZlRc2A6A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luna De Miel",
         "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 250240,
       "name": "Labios Rojos (Version Norte\u00f1a)",
       "url": "https://open.spotify.com/track/3zeOGStcMvRNYhN0QY9S95"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/6AVu2TZoE7ZRNAog3BCMCm"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+        }
+      ],
+      "duration_ms": 170150,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/7tHbFvrWjqvfILZlRc2A6A"
     },
     {
       "added_at": null,
@@ -439,6 +439,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Luna De Miel",
+        "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "duration_ms": 201706,
+      "name": "Te Quiero a Ti (Version Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/1iu43Iufwvx3tk4svcNKxZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cap\u00edtulo 1: El Regreso Del Dragon",
         "url": "https://open.spotify.com/album/6NbV4YCgoWwEUyjuN4WMT0"
       },
@@ -459,26 +479,6 @@
       "duration_ms": 196875,
       "name": "NTPD Recordar",
       "url": "https://open.spotify.com/track/6D8D4OY5Hp52frnZayENqQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luna De Miel",
-        "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
-        }
-      ],
-      "duration_ms": 201706,
-      "name": "Te Quiero a Ti (Version Norte\u00f1a)",
-      "url": "https://open.spotify.com/track/1iu43Iufwvx3tk4svcNKxZ"
     },
     {
       "added_at": null,
@@ -755,18 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marc\u00e1ndote",
-        "url": "https://open.spotify.com/album/3ZxRpyYUN1tEAusn7aG3N1"
+        "name": "Noches De Verano",
+        "url": "https://open.spotify.com/album/25FCfNQGfRwwAVCOfIm9yy"
       },
       "artists": [
+        {
+          "name": "Proximo Nivel",
+          "url": "https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94"
+        },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 179066,
-      "name": "Marc\u00e1ndote",
-      "url": "https://open.spotify.com/track/0rtoh7bC7nW9clwmnCTeAe"
+      "duration_ms": 260000,
+      "name": "Ni\u00f1a Buena",
+      "url": "https://open.spotify.com/track/6PTekRdiemAJG12yFBHmsz"
     },
     {
       "added_at": null,
@@ -787,22 +791,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noches De Verano",
-        "url": "https://open.spotify.com/album/25FCfNQGfRwwAVCOfIm9yy"
+        "name": "Marc\u00e1ndote",
+        "url": "https://open.spotify.com/album/3ZxRpyYUN1tEAusn7aG3N1"
       },
       "artists": [
-        {
-          "name": "Proximo Nivel",
-          "url": "https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94"
-        },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Ni\u00f1a Buena",
-      "url": "https://open.spotify.com/track/6PTekRdiemAJG12yFBHmsz"
+      "duration_ms": 179066,
+      "name": "Marc\u00e1ndote",
+      "url": "https://open.spotify.com/track/0rtoh7bC7nW9clwmnCTeAe"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Lil Yachty, Sexyy Red, Rod Wave and more!
 
-7,221 songs - 13 day 21 hr 32 min
+7,222 songs - 13 day 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1001,7 +1001,7 @@
 | [Brick by Brick](https://open.spotify.com/track/2Sr9XpAEpFSOk3EpowGyYp) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Brick by Brick](https://open.spotify.com/album/0gIj2BQkFsWl2wemwpdGMr) | 2:01 | 2023-10-27 | 2023-11-04 |
 | [Bring Bac Act \(feat\. Rio Da Yung OG\)](https://open.spotify.com/track/2ErulGehAyGFfyB9N4HDHP) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Bring Bac Act \(feat\. Rio Da Yung OG\)](https://open.spotify.com/album/4O44K2ujQxScyBAfvzhVQY) | 2:49 | 2025-03-28 | 2025-04-05 |
 | [Bring Some Mo \(feat\. NLE Choppa\)](https://open.spotify.com/track/4DOTEPZlY1rrEM9YwzJmuu) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Bring Some Mo \(feat\. NLE Choppa\)](https://open.spotify.com/album/0fFqPfWEy8FdDqaPzXMOLx) | 2:55 | 2022-05-13 | 2022-06-04 |
-| [Bring The Drums In \(feat\. BabyChiefDoit\)](https://open.spotify.com/track/6O32ch9iADcpgPqVJdo9V1) | [Bri3](https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Bring The Drums In \(feat\. BabyChiefDoit\)](https://open.spotify.com/album/2lNCLpfApl18ECLTIBrFYv) | 2:40 | 2025-04-04 |  |
+| [Bring The Drums In \(feat\. BabyChiefDoit\)](https://open.spotify.com/track/6O32ch9iADcpgPqVJdo9V1) | [Bri3](https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Bring The Drums In \(feat\. BabyChiefDoit\)](https://open.spotify.com/album/2lNCLpfApl18ECLTIBrFYv) | 2:42 | 2025-04-04 |  |
 | [Bring The Hook](https://open.spotify.com/track/1giI9yVIG71xY8lPwSDzWY) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Colors Teaser](https://open.spotify.com/album/4Lrv8Pqc5Gay4X34ZwOa2I) | 4:25 | 2022-01-14 | 2022-01-22 |
 | [Bring Your Lungs \- feat\. Smoke DZA](https://open.spotify.com/track/7DWxJBtfOCs5WORaya45MV) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [Bring Your Lungs \(feat\. Smoke DZA\)](https://open.spotify.com/album/2cJt7TdxGyYN1AGgQNwBmV) | 3:06 | 2024-11-15 | 2024-11-23 |
 | [Broad Dayin'](https://open.spotify.com/track/1AAt0yu9DWLAD9CiGqCSwQ) | [Apollo Brown](https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE), [Planet Asia](https://open.spotify.com/artist/7dGfoIWAb0h9eGpl3vEkVo) | [Broad Dayin'](https://open.spotify.com/album/5SWXRibX4qn8Mevj4UTvz6) | 3:00 | 2023-09-01 | 2023-09-09 |
@@ -6234,6 +6234,7 @@
 | [Tell The Truth \(with Shordie Shordie\)](https://open.spotify.com/track/4Q5qDYtCM3W9IlU64OTRAh) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [Tell The Truth \(with Shordie Shordie\)](https://open.spotify.com/album/7DNdz17UKZ3b6wxU8mHJAz) | 3:22 | 2022-05-06 | 2022-05-28 |
 | [Tell Your Friends \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/5HUDU2YUTZ0R0ZmrIr4Dsz) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Tell Your Friends \(feat\. Kalan.FrFr\)](https://open.spotify.com/album/4uaR7U5YpO5yLGufMUtPuO) | 2:43 | 2022-05-06 | 2022-05-14 |
 | [Temper](https://open.spotify.com/track/6fXhozDwpdQEUKhq5Ak0mz) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b) | [Temper](https://open.spotify.com/album/3VSRbWNR7FBK54z6gWUY3f) | 1:49 | 2022-12-16 | 2022-12-24 |
+| [TEN](https://open.spotify.com/track/6C6X1c4FCvzxQZcparVtKN) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [TEN](https://open.spotify.com/album/5IuyySuOpjAkbHc2pXOimN) | 2:43 | 2025-04-09 |  |
 | [TEN](https://open.spotify.com/track/47Mu0yAp5p468MRmGzNXE6) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [TEN](https://open.spotify.com/album/1qh5bAhH9uToDaAoQUmjfA) | 2:08 | 2025-02-14 | 2025-02-22 |
 | [Ten \(feat\. Sexyy Red\)](https://open.spotify.com/track/20orAdOtod5Zr2fJppGnyO) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 3:04 | 2024-09-06 | 2024-09-14 |
 | [Ten to One](https://open.spotify.com/track/1ESCQ50WCdzkF7qrJbnvmw) | [Medhane](https://open.spotify.com/artist/6lTiYE2IL4FUqf0CgGjI5i) | [Ten to One](https://open.spotify.com/album/2lvXnYTptSVCxPcyxkUTDE) | 1:38 | 2024-02-23 | 2024-03-02 |

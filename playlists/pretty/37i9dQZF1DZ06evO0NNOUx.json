@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 78704,
+  "num_followers": 78990,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/MVgAAAAABXmD2bKp02A0uFVTse8Ozx",
+  "snapshot_id": "Z/RnAAAAAACGC0Hj9bnr0DyhwdBY9yUy",
   "tracks": [
     {
       "added_at": null,
@@ -87,8 +87,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUNRISE",
-        "url": "https://open.spotify.com/album/7HFnz2dskywxtDeWEdWkdg"
+        "name": "CHILD OF GOD (DELUXE)",
+        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
       },
       "artists": [
         {
@@ -96,9 +96,9 @@
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 156583,
-      "name": "SUNRISE",
-      "url": "https://open.spotify.com/track/7scWcScVJIcVTLLE1cv1ib"
+      "duration_ms": 198082,
+      "name": "YOUR WAY'S BETTER",
+      "url": "https://open.spotify.com/track/7JDfWHxOFo63yQmVs5wSPM"
     },
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD (DELUXE)",
-        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
+        "name": "SUNRISE",
+        "url": "https://open.spotify.com/album/7HFnz2dskywxtDeWEdWkdg"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 198082,
-      "name": "YOUR WAY'S BETTER",
-      "url": "https://open.spotify.com/track/7JDfWHxOFo63yQmVs5wSPM"
+      "duration_ms": 156583,
+      "name": "SUNRISE",
+      "url": "https://open.spotify.com/track/7scWcScVJIcVTLLE1cv1ib"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Hymns",
-        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 157155,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/6sfMU3Zx38YzBmv0QTQsH4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHILD OF GOD (DELUXE)",
         "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 161975,
       "name": "UPS & DOWNS",
       "url": "https://open.spotify.com/track/6qDDJzXk6lKxUNZHRLvJ87"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Hymns",
+        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 157155,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/6sfMU3Zx38YzBmv0QTQsH4"
     },
     {
       "added_at": null,
@@ -275,26 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Hymns",
-        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 188063,
-      "name": "Nothing But The Blood",
-      "url": "https://open.spotify.com/track/20GLjHVJkuK0m9DUqAzCTJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Longer Bound (I'm Free)",
         "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 175188,
       "name": "No Longer Bound (I'm Free)",
       "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Hymns",
+        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 188063,
+      "name": "Nothing But The Blood",
+      "url": "https://open.spotify.com/track/20GLjHVJkuK0m9DUqAzCTJ"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Hymns",
-        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 201050,
-      "name": "Come Thou Font",
-      "url": "https://open.spotify.com/track/6iEBLpz1Lim2vyI5acpyRI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHILD OF GOD (DELUXE)",
         "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 185273,
       "name": "HEAVEN ON THIS EARTH",
       "url": "https://open.spotify.com/track/7L2jWNjhI4Y1rUmveOttGO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Hymns",
+        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 201050,
+      "name": "Come Thou Font",
+      "url": "https://open.spotify.com/track/6iEBLpz1Lim2vyI5acpyRI"
     },
     {
       "added_at": null,
@@ -427,26 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Hymns",
-        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        }
-      ],
-      "duration_ms": 155067,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/2tIHYnZsOOSP0mIGavVRRi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "slow down",
         "url": "https://open.spotify.com/album/2r3fHmQRc30dXt6me57yAG"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 170521,
       "name": "slow down",
       "url": "https://open.spotify.com/track/1bxEymHzVbGrbjR99QjS0l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Hymns",
+        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "duration_ms": 155067,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/2tIHYnZsOOSP0mIGavVRRi"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Hymns",
-        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 163796,
-      "name": "Go Tell It",
-      "url": "https://open.spotify.com/track/5LPAojrmsT7chF8iu3HQBh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nostalgia Pack",
         "url": "https://open.spotify.com/album/4eXz42L9QObRQHuJpQQ7OX"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 178280,
       "name": "Your Soul",
       "url": "https://open.spotify.com/track/4g6ZNtgFm7pOvinj2IvLCy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Hymns",
+        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 163796,
+      "name": "Go Tell It",
+      "url": "https://open.spotify.com/track/5LPAojrmsT7chF8iu3HQBh"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Hymns",
-        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 146613,
-      "name": "It Is Well",
-      "url": "https://open.spotify.com/track/5x2mhn1pPWj0IGn3iTSXBm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BEAUTIFUL AS EVER",
         "url": "https://open.spotify.com/album/1S0dSacfIUmAoJOqRXe1GY"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 225888,
       "name": "BEAUTIFUL AS EVER",
       "url": "https://open.spotify.com/track/3sJVDXa0efAR4Eykjw75j5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Hymns",
+        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 146613,
+      "name": "It Is Well",
+      "url": "https://open.spotify.com/track/5x2mhn1pPWj0IGn3iTSXBm"
     },
     {
       "added_at": null,
@@ -643,6 +643,26 @@
       "duration_ms": 207017,
       "name": "Lately",
       "url": "https://open.spotify.com/track/58ijtNiLXPW6d24WmoMCAP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heaven On My Mind",
+        "url": "https://open.spotify.com/album/4wWhd8j1TtcaXmdD2EgkFm"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 181590,
+      "name": "Heaven On My Mind",
+      "url": "https://open.spotify.com/track/5b7IxnWT2Zy4XtGFenLqGs"
     },
     {
       "added_at": null,
@@ -687,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1234",
-        "url": "https://open.spotify.com/album/0N8aFQLSzan3WfsyEnRjQ8"
-      },
-      "artists": [
-        {
-          "name": "Forrest.",
-          "url": "https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ"
-        },
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 169868,
-      "name": "1234",
-      "url": "https://open.spotify.com/track/15uR6InJEo9zyl9DgVQTz0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nostalgia Pack",
         "url": "https://open.spotify.com/album/4eXz42L9QObRQHuJpQQ7OX"
       },
@@ -727,6 +727,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "1234",
+        "url": "https://open.spotify.com/album/0N8aFQLSzan3WfsyEnRjQ8"
+      },
+      "artists": [
+        {
+          "name": "Forrest.",
+          "url": "https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 169868,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/15uR6InJEo9zyl9DgVQTz0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "California Cowboy",
         "url": "https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 220278,
       "name": "Summer Love",
       "url": "https://open.spotify.com/track/3u0EAF4zydCzw5wKFFqJdD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heaven On My Mind",
-        "url": "https://open.spotify.com/album/4wWhd8j1TtcaXmdD2EgkFm"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        },
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 181590,
-      "name": "Heaven On My Mind",
-      "url": "https://open.spotify.com/track/5b7IxnWT2Zy4XtGFenLqGs"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Hits terpanas dari Maher Zain, Harris J,  .Feast serta artis terfavorit Anda dari dalam negeri dan mancanegara.",
+  "description": "Hits terpanas dari Maher Zain, Harris J,  NIKI serta artis terfavorit Anda dari dalam negeri dan mancanegara.",
   "name": "Hot Hits Indonesia",
   "tracks": [
     {
@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 167754,
       "name": "ExtraL (feat. Doechii)",
       "url": "https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG"
@@ -1628,7 +1628,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 239720,
       "name": "Garden Of Eden",
       "url": "https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd"
@@ -1852,6 +1852,28 @@
       "duration_ms": 270926,
       "name": "Hingga Tua Bersama",
       "url": "https://open.spotify.com/track/5b0NpyYAwW2dUGL08ir7Bg"
+    },
+    {
+      "album": {
+        "name": "I Said I Love You First",
+        "url": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161030,
+      "name": "How Does It Feel To Be Forgotten",
+      "url": "https://open.spotify.com/track/7sFMOSnRBa6td4lZa1oiTI"
     },
     {
       "album": {
@@ -2596,7 +2618,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 180129,
       "name": "Love Hangover (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
@@ -4073,6 +4095,28 @@
     },
     {
       "album": {
+        "name": "Selalu Ada di Nadimu (Original Soundtrack From \u201cJUMBO\")",
+        "url": "https://open.spotify.com/album/25MoRCFuUYjkqGKDS7KwlR"
+      },
+      "artists": [
+        {
+          "name": "Prince Poetiray",
+          "url": "https://open.spotify.com/artist/4rRUtosj3LsgTt3bgwWPBF"
+        },
+        {
+          "name": "Quinn Salman",
+          "url": "https://open.spotify.com/artist/4lkE7XFATsJcgz6aLp1tdP"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174263,
+      "name": "Selalu Ada di Nadimu (Original Soundtrack From \u201cJUMBO\")",
+      "url": "https://open.spotify.com/track/0CuFj9vIjbq3skvGFlUQJf"
+    },
+    {
+      "album": {
         "name": "Selamat (Selamat Tinggal)",
         "url": "https://open.spotify.com/album/6osB48b3PzrABxdspbyYkd"
       },
@@ -4588,6 +4632,24 @@
       "duration_ms": 230453,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
+    },
+    {
+      "album": {
+        "name": "Stecu Stecu",
+        "url": "https://open.spotify.com/album/3SqI4Bef1HLRDBH9iGEyfg"
+      },
+      "artists": [
+        {
+          "name": "Faris Adam",
+          "url": "https://open.spotify.com/artist/0WOBasNNoE4TJ3CV2xnUvX"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223750,
+      "name": "Stecu Stecu",
+      "url": "https://open.spotify.com/track/2ECbN3xQ7M6B7AI9BhhCy7"
     },
     {
       "album": {
@@ -5760,7 +5822,7 @@
       ],
       "date_added": "2025-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-22",
+      "date_removed": null,
       "duration_ms": 241776,
       "name": "You'll Be in My Heart - Spotify Singles",
       "url": "https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC"

@@ -4,7 +4,7 @@
 
 > A big grin for your ears
 
-210 songs - 10 hr 37 min
+211 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Kite](https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Kite](https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4) | 2:46 | 2024-01-26 | 2024-04-03 |
 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 | 2024-11-08 | 2025-01-02 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2023-02-21 |  |
+| [LDN](https://open.spotify.com/track/48T3AtfhOgz3euMEO2Z4hS) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Bonus Track Version\)](https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY) | 3:12 | 2025-04-09 |  |
 | [LIFETIMES](https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [LIFETIMES](https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo) | 3:12 | 2024-08-16 | 2024-10-20 |
 | [Lighter](https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Lighter](https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7) | 2:52 | 2024-03-08 | 2024-05-13 |
 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 | 2023-09-05 |  |
@@ -190,7 +191,7 @@
 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 | 2024-06-21 | 2025-04-05 |
 | [Sway](https://open.spotify.com/track/1w7eNekZsyrLw99oygfDs4) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Sway](https://open.spotify.com/album/3fSRbKgYW6kcR1ZFMaaNV4) | 3:30 | 2025-04-04 |  |
 | [Tears For Fun](https://open.spotify.com/track/2cmxKeY72HeimX9tcm57Ru) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 3:16 | 2024-07-12 | 2024-09-14 |
-| [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 | 2024-02-20 |  |
+| [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 | 2024-02-20 | 2025-04-10 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2025-03-07 |  |
 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 | 2024-04-11 | 2025-04-04 |
 | [Time Machine](https://open.spotify.com/track/034AdnvFQwrrXKAPVivvBd) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/5EaHrdZSDdapvGMLKYaIe7) | 3:34 | 2025-03-07 |  |

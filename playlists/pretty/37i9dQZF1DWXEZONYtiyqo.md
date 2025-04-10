@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: MIRA
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,747 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,757 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

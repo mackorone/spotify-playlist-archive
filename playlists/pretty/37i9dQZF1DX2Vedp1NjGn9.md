@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 
 > The Indie highlights of 2011\. Cover: AWOLNATION
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,155 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,193 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 | 83 | [Candles](https://open.spotify.com/track/5K2qwFxS08aEBjvsisCcQv) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [His Young Heart](https://open.spotify.com/album/4Yta830PArc3skiC2U7VLC) | 4:53 |
 | 84 | [Perth](https://open.spotify.com/track/7km8eBZqlTKiqlgdl2Zk5u) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/3JKDDYSBFozqcjWwSV3Yj3) | 4:22 |
 | 85 | [Amor Fati](https://open.spotify.com/track/60KqmTYKZzSElJidL2U2o1) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Within and Without](https://open.spotify.com/album/6GUrNxKQG0pUt9umzAPdLv) | 4:26 |
-| 86 | [Balance](https://open.spotify.com/track/189gb58kHUdS5MdLBcz18f) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [On the Water](https://open.spotify.com/album/14Ft0hbGJbcM9vYVW0RJTu) | 4:06 |
-| 87 | [New Beat](https://open.spotify.com/track/7jWIolCo1nHYaAmOvFH0Lo) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Underneath The Pine](https://open.spotify.com/album/00wmVs9BwWaSjLXBAzwUPq) | 4:04 |
-| 88 | [Shake, Shake, Shake](https://open.spotify.com/track/197IjFuW5x1q3VazxmWQJQ) | [Bronze Radio Return](https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG) | [Shake! Shake! Shake!](https://open.spotify.com/album/4T56NnPsWvFAcpJWyPAJa1) | 2:43 |
+| 86 | [Shake, Shake, Shake](https://open.spotify.com/track/197IjFuW5x1q3VazxmWQJQ) | [Bronze Radio Return](https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG) | [Shake! Shake! Shake!](https://open.spotify.com/album/4T56NnPsWvFAcpJWyPAJa1) | 2:43 |
+| 87 | [Balance](https://open.spotify.com/track/189gb58kHUdS5MdLBcz18f) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [On the Water](https://open.spotify.com/album/14Ft0hbGJbcM9vYVW0RJTu) | 4:06 |
+| 88 | [New Beat](https://open.spotify.com/track/7jWIolCo1nHYaAmOvFH0Lo) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Underneath The Pine](https://open.spotify.com/album/00wmVs9BwWaSjLXBAzwUPq) | 4:04 |
 | 89 | [Down in the Valley](https://open.spotify.com/track/1VwJcYyhfIL45OnOwIC1gi) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I) | 5:03 |
 | 90 | [Do You Remember](https://open.spotify.com/track/78tJyvCFFvl3b0jqdj2EUO) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [It All Starts With One](https://open.spotify.com/album/4AuXrnTPEQheuq7r9WJHjo) | 3:12 |
 | 91 | [Need You Now](https://open.spotify.com/track/3TjGopIWapEoeWfRsHFRjs) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [Zonoscope](https://open.spotify.com/album/4JTBXeHQ3n6koQtMxnWLJu) | 6:09 |

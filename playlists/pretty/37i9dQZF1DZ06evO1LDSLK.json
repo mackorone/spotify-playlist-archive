@@ -1,12 +1,12 @@
 {
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
-  "num_followers": 71481,
+  "num_followers": 71492,
   "original_name": "This Is Iggy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/MVgAAAAABmHqiLxExc1PNSUYQ1YXh0",
+  "snapshot_id": "Z/RnAAAAAABYQxznE19klhxaAS2OjVzp",
   "tracks": [
     {
       "added_at": null,
@@ -295,18 +295,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
+        "name": "Soft Machine",
+        "url": "https://open.spotify.com/album/4MHVx1PFPrYUzO0zbh95Q0"
       },
       "artists": [
+        {
+          "name": "Teddybears",
+          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
+        },
         {
           "name": "Iggy Pop",
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 259113,
-      "name": "Loves Missing",
-      "url": "https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5"
+      "duration_ms": 246786,
+      "name": "Punkrocker (feat. Iggy Pop)",
+      "url": "https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ"
     },
     {
       "added_at": null,
@@ -327,22 +331,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soft Machine",
-        "url": "https://open.spotify.com/album/4MHVx1PFPrYUzO0zbh95Q0"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
       },
       "artists": [
-        {
-          "name": "Teddybears",
-          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
-        },
         {
           "name": "Iggy Pop",
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 246786,
-      "name": "Punkrocker (feat. Iggy Pop)",
-      "url": "https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ"
+      "duration_ms": 259113,
+      "name": "Loves Missing",
+      "url": "https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Preliminaires",
+        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 172880,
+      "name": "I Want To Go To The Beach",
+      "url": "https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Time Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/0m13wlRnDvoHlRiZ9nJBNX"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 269461,
       "name": "The Pure and the Damned",
       "url": "https://open.spotify.com/track/4HYRYewiGEHaHF9Pfl50PP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Preliminaires",
-        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 172880,
-      "name": "I Want To Go To The Beach",
-      "url": "https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 562690,
+  "num_followers": 562858,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2025-03-14 12:32:22",
       "album": {
+        "name": "Over the Rainbow",
+        "url": "https://open.spotify.com/album/1s1IYPYEgbPw42kMzZujWo"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 251103,
+      "name": "Over the Rainbow",
+      "url": "https://open.spotify.com/track/5V2PNLZpdSO3ZyOr5aMZJL"
+    },
+    {
+      "added_at": "2025-03-14 12:32:22",
+      "album": {
         "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
         "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 242666,
       "name": "Fire and Rain",
       "url": "https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5"
-    },
-    {
-      "added_at": "2025-03-14 12:32:22",
-      "album": {
-        "name": "Over the Rainbow",
-        "url": "https://open.spotify.com/album/1s1IYPYEgbPw42kMzZujWo"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 251103,
-      "name": "Over the Rainbow",
-      "url": "https://open.spotify.com/track/5V2PNLZpdSO3ZyOr5aMZJL"
     },
     {
       "added_at": "2025-03-14 12:32:22",

@@ -1,12 +1,12 @@
 {
   "description": "This is Alejandro Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 824312,
+  "num_followers": 824413,
   "original_name": "This Is Alejandro Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/MVgAAAAACJmZQkhou4Aw/JLpig9w3C",
+  "snapshot_id": "Z/RnAAAAAAAfAd4n7b0fzeRGfvNtdrk9",
   "tracks": [
     {
       "added_at": null,
@@ -147,18 +147,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muy Dentro De Mi Corazon",
-        "url": "https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj"
+        "name": "Sin Llorar",
+        "url": "https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC"
       },
       "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
         {
           "name": "Alejandro Fern\u00e1ndez",
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 244426,
-      "name": "Nube Viajera",
-      "url": "https://open.spotify.com/track/7qOjjzbvSsdHcAU31va4rz"
+      "duration_ms": 211116,
+      "name": "Un Bendito D\u00eda",
+      "url": "https://open.spotify.com/track/12jZ2WSziAxeJqMwOmz6jV"
     },
     {
       "added_at": null,
@@ -179,22 +183,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Llorar",
-        "url": "https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC"
+        "name": "Muy Dentro De Mi Corazon",
+        "url": "https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj"
       },
       "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
         {
           "name": "Alejandro Fern\u00e1ndez",
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 211116,
-      "name": "Un Bendito D\u00eda",
-      "url": "https://open.spotify.com/track/12jZ2WSziAxeJqMwOmz6jV"
+      "duration_ms": 244426,
+      "name": "Nube Viajera",
+      "url": "https://open.spotify.com/track/7qOjjzbvSsdHcAU31va4rz"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Confidencias",
+        "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 246053,
+      "name": "Procuro Olvidarte",
+      "url": "https://open.spotify.com/track/5Lv81PNCTruefbpa07Dvcm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Cumbia Triste",
         "url": "https://open.spotify.com/album/7DSLHSjqV7CCjNa1NxKi2P"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 210955,
       "name": "La Cumbia Triste",
       "url": "https://open.spotify.com/track/2sAFBZ8a7uTT7tsAsjoUzo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confidencias",
-        "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 246053,
-      "name": "Procuro Olvidarte",
-      "url": "https://open.spotify.com/track/5Lv81PNCTruefbpa07Dvcm"
     },
     {
       "added_at": null,
@@ -883,6 +883,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Seas Muy Feliz",
+        "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 185133,
+      "name": "Paso del Norte",
+      "url": "https://open.spotify.com/track/5w1FVndUDqojz4GPhYB7I7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cobijas Ajenas",
         "url": "https://open.spotify.com/album/7t5fOkOrOvWdg2DUbkyD8M"
       },
@@ -903,8 +919,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Seas Muy Feliz",
-        "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
+        "name": "Viento A Favor",
+        "url": "https://open.spotify.com/album/3NVqlZlYMlFCbBMuZvxyor"
       },
       "artists": [
         {
@@ -912,29 +928,9 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 185133,
-      "name": "Paso del Norte",
-      "url": "https://open.spotify.com/track/5w1FVndUDqojz4GPhYB7I7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Maniqu\u00ed",
-        "url": "https://open.spotify.com/album/7HkqbCqtwAFIbtgFyeIpRi"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 154834,
-      "name": "Tu Maniqu\u00ed",
-      "url": "https://open.spotify.com/track/5XpvqqKEI3xWS4heKkXjb5"
+      "duration_ms": 225773,
+      "name": "No Se Me Hace F\u00e1cil",
+      "url": "https://open.spotify.com/track/0c6xdgPkihXqWFGx0CpVkU"
     }
   ],
   "unique_name": "This Is Alejandro Fern\u00e1ndez",

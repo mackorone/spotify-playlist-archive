@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > the best cuts from the underground 💎 💎 at the heart of club culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,640 likes - 100 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,664 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

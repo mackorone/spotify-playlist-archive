@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 271632,
+  "num_followers": 271658,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/MVgAAAAAD0HdgCpOEP1a1S026uCEY7",
+  "snapshot_id": "Z/RnAAAAAAA6nhPNZ6f5B17PJ4vY91A/",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burlesque Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 263826,
-      "name": "Bound To You - Burlesque Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/6FJbvdUSkr1tyXdVZ2UlBR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor (Edici\u00f3n Especial En Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/66rPH3vtqyVKZobEzphXMA"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 262306,
       "name": "Somos Novios",
       "url": "https://open.spotify.com/track/0U4mdFPED6oviFgWjst8q9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burlesque Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 263826,
+      "name": "Bound To You - Burlesque Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/6FJbvdUSkr1tyXdVZ2UlBR"
     },
     {
       "added_at": null,
@@ -959,18 +959,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mejor Guerrero (De \"Mul\u00e1n\")",
-        "url": "https://open.spotify.com/album/4HyRb7YrqhfdFrxVzxjG7F"
+        "name": "Particles",
+        "url": "https://open.spotify.com/album/1qY2yMeihnMGKoFggYCrRB"
       },
       "artists": [
+        {
+          "name": "A Great Big World",
+          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
+        },
         {
           "name": "Christina Aguilera",
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 163280,
-      "name": "El Mejor Guerrero - De \"Mul\u00e1n\"",
-      "url": "https://open.spotify.com/track/3HPX9a7oh0dvdokOUp85cL"
+      "duration_ms": 262820,
+      "name": "Fall On Me",
+      "url": "https://open.spotify.com/track/7oyFihJppZYPP7o0NfoHnZ"
     }
   ],
   "unique_name": "This Is Christina Aguilera",

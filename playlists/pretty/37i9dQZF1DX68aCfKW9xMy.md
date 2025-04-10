@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68aCfKW9xMy.md) - [plain]
 
 > La casa de los corazones rotos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,609,711 likes - 124 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,609,989 likes - 124 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Jon Guerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,162 likes - 98 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,183 likes - 98 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 18 | [Life Again \- Live](https://open.spotify.com/track/72Zl5SPvmI4VPhmCzvEydi) | [Brad & Rebekah](https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG), [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e), [Watoto](https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB) | [Life Again \(Live\)](https://open.spotify.com/album/250ZhKnN7datsPAK7Ppabs) | 8:34 |
 | 19 | [Thank You \- Live](https://open.spotify.com/track/5pctb5fQMqfncJqRRAMsRh) | [Mercy Culture Worship](https://open.spotify.com/artist/7qbjOkkH57gPl41xfR8RuI) | [Thank You \(Live\)](https://open.spotify.com/album/15wpZmn1wOJmDyS3dymey4) | 10:47 |
 | 20 | [Stand In Awe \- Live](https://open.spotify.com/track/0VyjexLPSk0ri41H75nCqY) | [Damascus Worship](https://open.spotify.com/artist/1QHljL6ZVxIi5bylNmFkFI), [Olivia Parker](https://open.spotify.com/artist/1pz9COAroxf4sIonu7T1XV) | [Stand In Awe \(Live\)](https://open.spotify.com/album/6NDgBbx0xyeOxX29sERLNt) | 6:28 |
-| 21 | [Said And Done \(feat\. Connor Thompson & Temitope\)](https://open.spotify.com/track/3lGQJt3bz1fTUVfVI9EEOB) | [Lakepointe Music](https://open.spotify.com/artist/1uwguOKJAPH0CqyYDQVz9a), [Connor Thompson](https://open.spotify.com/artist/49BdsMaSi1CRYDoTO2M72M), [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [Said And Done \(feat\. Connor Thompson & Temitope\)](https://open.spotify.com/album/4ZX4fNWjfYoV4hgZISXQWl) | 5:17 |
+| 21 | [Said And Done \(feat\. Connor Thompson & TEMITOPE\)](https://open.spotify.com/track/3lGQJt3bz1fTUVfVI9EEOB) | [Lakepointe Music](https://open.spotify.com/artist/1uwguOKJAPH0CqyYDQVz9a), [Connor Thompson](https://open.spotify.com/artist/49BdsMaSi1CRYDoTO2M72M), [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [Said And Done \(feat\. Connor Thompson & TEMITOPE\)](https://open.spotify.com/album/4ZX4fNWjfYoV4hgZISXQWl) | 5:17 |
 | 22 | [Christ The Perfect Sacrifice \- Bradley Knight Orchestration](https://open.spotify.com/track/3OyKE0szecspqUcV5QcUrn) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [Christ The Perfect Sacrifice \(Bradley Knight Orchestration\)](https://open.spotify.com/album/0LxVesHSZfTTIjclildXSN) | 4:59 |
 | 23 | [praise.](https://open.spotify.com/track/0nvwZuNM4XzVjenFFAvLDE) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [praise.](https://open.spotify.com/album/3sC0EZSbRg471hCnaovtAM) | 3:06 |
 | 24 | [Oceans](https://open.spotify.com/track/1xMLJPtWyJVMMInZMKEo1b) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3) | [Unto The Lord: Worship Songs I Love](https://open.spotify.com/album/5nEpQjwivTLkGCjDdmnDMq) | 4:38 |

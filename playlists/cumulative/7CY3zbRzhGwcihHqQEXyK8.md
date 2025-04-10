@@ -4,7 +4,7 @@
 
 > Can anyone hear me? I&\#x27;m so scared to forget\. I&\#x27;m so scared that everything will disappear, so I&\#x27;ll keep everything right here, always keep everything near, never let it leave arm&\#x27;s length, and maybe I&\#x27;ll have the strength, to never forget it all again.
 
-670 songs - 1 day 10 hr 52 min
+671 songs - 1 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Gravestones](https://open.spotify.com/track/46Hq3CmiChN7gRQrY45jMB) | [Rylorie](https://open.spotify.com/artist/6lRDH0njkRObV1cYMXrWaO), [Yong3k](https://open.spotify.com/artist/6UX3hXJlKGOfp83I51YsOW) | [Gravestones](https://open.spotify.com/album/7EMSLuYH0nVoMx4EK5Pgls) | 1:53 | 2024-12-16 |  |
 | [Growth](https://open.spotify.com/track/390fvUgBt0PYchynPzRxvx) | [Najor](https://open.spotify.com/artist/3qNdx4J6ACQSewSiOqGSOW) | [Drop Out](https://open.spotify.com/album/2qbWQutwC0i5OKIxwZWzAe) | 2:54 | 2024-12-15 |  |
 | [GROWZ](https://open.spotify.com/track/6KGYDPd2rRmoROgvQCuaLk) | [icryduringsex](https://open.spotify.com/artist/5dpFvg3GgOk9bZgG4FN4Fw) | [Music4U](https://open.spotify.com/album/4QCbvrKt9LgKvksRWzjcDO) | 3:11 | 2024-12-15 |  |
+| [Grump It](https://open.spotify.com/track/4Dll52TVxAXPcoS0s82Flv) | [Xzevious](https://open.spotify.com/artist/5wv4kmwCWPMh6HAGb4LvA5) | [Grump It](https://open.spotify.com/album/4AKpf8IN3nLMiTOJxGcn9R) | 4:00 | 2025-04-09 |  |
 | [H E L L O K I T T Y P S Y C H O !](https://open.spotify.com/track/7L3trd3Xmuo9ugUDr2nWPc) | [Scratchy](https://open.spotify.com/artist/3MEe6eezOrjVBXrCzhWFUf), [wasty](https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ) | [H E L L O K I T T Y P S Y C H O !](https://open.spotify.com/album/7j3LL0vEESEePPPxVH7RJC) | 1:23 | 2024-12-16 |  |
 | [Hamburg Süd \- Radio Mix](https://open.spotify.com/track/14JNrADgwe1j1DUJxYZ2iL) | [Pulsedriver](https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp), [Langenhagen](https://open.spotify.com/artist/2Q6WkMt4FG4ipneN0y5XVU) | [15 Years of Aqualoop Records](https://open.spotify.com/album/4hk6lC8BaKhn88EFFjxqG5) | 3:25 | 2024-12-16 |  |
 | [hands up \(they made her emo\)](https://open.spotify.com/track/1PYVf3Sgh4PVOx8ZOYMI01) | [exdweb](https://open.spotify.com/artist/3huLyrEy8iu5K2WOwqroWK) | [hands up \(they made her emo\)](https://open.spotify.com/album/7DEKxet76Lx6WtIdqs54v4) | 1:56 | 2024-12-16 |  |

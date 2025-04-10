@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > Il rap è uno sport competitivo 🔥 Cover: Playboi Carti
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,369 likes - 120 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,363 likes - 120 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 > Trendy & Chill Korean R&B music\. \(Cover: JUNNY\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,039,928 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,040,441 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

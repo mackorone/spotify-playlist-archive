@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2013. Cover: HAIM ",
-  "num_followers": 87173,
+  "num_followers": 87198,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
+        "name": "2.0",
+        "url": "https://open.spotify.com/album/7MvpqHRTRxHu7QoPiYnmzH"
+      },
+      "artists": [
+        {
+          "name": "Big Data",
+          "url": "https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa"
+        },
+        {
+          "name": "Joywave",
+          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+        }
+      ],
+      "duration_ms": 280426,
+      "name": "Dangerous (feat. Joywave)",
+      "url": "https://open.spotify.com/track/3y8AEUef1AVfr0npU5UOa9"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/7axlBk3h2bJOZIIIXIQXs8"
       },
@@ -1459,26 +1479,6 @@
       "duration_ms": 312226,
       "name": "Avant Gardener",
       "url": "https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
-        "name": "2.0",
-        "url": "https://open.spotify.com/album/7MvpqHRTRxHu7QoPiYnmzH"
-      },
-      "artists": [
-        {
-          "name": "Big Data",
-          "url": "https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa"
-        },
-        {
-          "name": "Joywave",
-          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
-        }
-      ],
-      "duration_ms": 280426,
-      "name": "Dangerous (feat. Joywave)",
-      "url": "https://open.spotify.com/track/3y8AEUef1AVfr0npU5UOa9"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1524,9 +1524,9 @@
           "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
         }
       ],
-      "duration_ms": 532306,
-      "name": "Under The Pressure",
-      "url": "https://open.spotify.com/track/45D0ixQWzXQOoU1S9aSnKk"
+      "duration_ms": 431746,
+      "name": "An Ocean In Between The Waves",
+      "url": "https://open.spotify.com/track/4Rw5ErjPrtzAa4lJz4KfxM"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Bankrupt!",
-        "url": "https://open.spotify.com/album/3T66rLQ5rVheco76XLrlTY"
+        "name": "Dear Miss Lonelyhearts",
+        "url": "https://open.spotify.com/album/0uQ7R0muujuP3OOu5Q9ZAg"
       },
       "artists": [
         {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
         }
       ],
-      "duration_ms": 220240,
-      "name": "Entertainment",
-      "url": "https://open.spotify.com/track/3KRJUa3Z1Zfupr7Zs6JByx"
+      "duration_ms": 180133,
+      "name": "Miracle Mile",
+      "url": "https://open.spotify.com/track/7lMQmn9eXfnUwkrYcpHwvr"
     }
   ],
   "unique_name": "Best of Indie 2013",

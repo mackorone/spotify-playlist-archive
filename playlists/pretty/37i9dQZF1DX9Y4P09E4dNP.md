@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > The big Hip\-Life hits rn\. Cover: AratheJay and Bella Shmurda
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,603 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,643 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2213,6 +2213,24 @@
     },
     {
       "album": {
+        "name": "Hyperactive",
+        "url": "https://open.spotify.com/album/6hf1roiQQyKiTVdp5jVPXG"
+      },
+      "artists": [
+        {
+          "name": "The Lazy Tails",
+          "url": "https://open.spotify.com/artist/7GmTFT9mv4s0VHTti5GRGi"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154210,
+      "name": "Hyperactive",
+      "url": "https://open.spotify.com/track/31JEUb4xIhZi5ZO3WVh6hE"
+    },
+    {
+      "album": {
         "name": "HYPNOFREAK",
         "url": "https://open.spotify.com/album/4KVyqPVQ14cEqU9KNhRPN4"
       },

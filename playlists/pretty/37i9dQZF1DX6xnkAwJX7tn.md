@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 
 > The biggest party hits of the 1980s\. Cover: Cyndi Lauper
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,037,086 likes - 150 songs - 10 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,038,218 likes - 150 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,13 +1,29 @@
 {
-  "description": "Hits terpanas dari Maher Zain, Harris J,  .Feast serta artis terfavorit Anda dari dalam negeri dan mancanegara.",
-  "num_followers": 2391468,
+  "description": "Hits terpanas dari Maher Zain, Harris J,  NIKI serta artis terfavorit Anda dari dalam negeri dan mancanegara.",
+  "num_followers": 2391551,
   "original_name": "Hot Hits Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+8oJQAAAAAGkCTmd9UABufj0tAMFtqi",
+  "snapshot_id": "Z/ZTNAAAAAD37CQBlJmoNsQVZSOaYGn6",
   "tracks": [
+    {
+      "added_at": "2025-04-09 11:00:04",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 241776,
+      "name": "You'll Be in My Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC"
+    },
     {
       "added_at": "2025-04-04 00:30:29",
       "album": {
@@ -121,6 +137,22 @@
       "url": "https://open.spotify.com/track/1hlHeIZ36Idpr57xPI8OCD"
     },
     {
+      "added_at": "2025-04-09 11:00:04",
+      "album": {
+        "name": "Stecu Stecu",
+        "url": "https://open.spotify.com/album/3SqI4Bef1HLRDBH9iGEyfg"
+      },
+      "artists": [
+        {
+          "name": "Faris Adam",
+          "url": "https://open.spotify.com/artist/0WOBasNNoE4TJ3CV2xnUvX"
+        }
+      ],
+      "duration_ms": 223750,
+      "name": "Stecu Stecu",
+      "url": "https://open.spotify.com/track/2ECbN3xQ7M6B7AI9BhhCy7"
+    },
+    {
       "added_at": "2025-04-04 00:30:29",
       "album": {
         "name": "Bunga Maaf",
@@ -167,22 +199,6 @@
       "duration_ms": 219352,
       "name": "Tunggu Apa Lagi",
       "url": "https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I"
-    },
-    {
-      "added_at": "2025-04-04 00:30:29",
-      "album": {
-        "name": "MAYHEM",
-        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 239720,
-      "name": "Garden Of Eden",
-      "url": "https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd"
     },
     {
       "added_at": "2025-04-04 00:30:29",
@@ -367,26 +383,6 @@
     {
       "added_at": "2025-04-04 00:30:29",
       "album": {
-        "name": "ExtraL (feat. Doechii)",
-        "url": "https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 167754,
-      "name": "ExtraL (feat. Doechii)",
-      "url": "https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG"
-    },
-    {
-      "added_at": "2025-04-04 00:30:29",
-      "album": {
         "name": "Kata Mereka Ini Berlebihan",
         "url": "https://open.spotify.com/album/3UDTwdzFWA2rgP19S9oUaC"
       },
@@ -435,22 +431,18 @@
     {
       "added_at": "2025-04-04 00:30:29",
       "album": {
-        "name": "Love Hangover (feat. Dominic Fike)",
-        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
+        "name": "PICA PICA",
+        "url": "https://open.spotify.com/album/7bSpPZ1veveCgWfDOFVCxH"
       },
       "artists": [
         {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          "name": "Juan Reza",
+          "url": "https://open.spotify.com/artist/1BHC0jEJgDvNXlLhojMUbf"
         }
       ],
-      "duration_ms": 180129,
-      "name": "Love Hangover (feat. Dominic Fike)",
-      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
+      "duration_ms": 204238,
+      "name": "PICA PICA",
+      "url": "https://open.spotify.com/track/7lulQZKlbZzBKsK4rfP8h5"
     },
     {
       "added_at": "2025-04-04 00:30:29",
@@ -829,6 +821,26 @@
       "url": "https://open.spotify.com/track/66L6oBm77vpXuLCRX31iNX"
     },
     {
+      "added_at": "2025-04-09 11:00:04",
+      "album": {
+        "name": "I Said I Love You First",
+        "url": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "duration_ms": 161030,
+      "name": "How Does It Feel To Be Forgotten",
+      "url": "https://open.spotify.com/track/7sFMOSnRBa6td4lZa1oiTI"
+    },
+    {
       "added_at": "2025-04-04 00:30:29",
       "album": {
         "name": "The Chase",
@@ -845,20 +857,24 @@
       "url": "https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg"
     },
     {
-      "added_at": "2025-04-04 00:30:29",
+      "added_at": "2025-04-09 11:00:04",
       "album": {
-        "name": "PICA PICA",
-        "url": "https://open.spotify.com/album/7bSpPZ1veveCgWfDOFVCxH"
+        "name": "Selalu Ada di Nadimu (Original Soundtrack From \u201cJUMBO\")",
+        "url": "https://open.spotify.com/album/25MoRCFuUYjkqGKDS7KwlR"
       },
       "artists": [
         {
-          "name": "Juan Reza",
-          "url": "https://open.spotify.com/artist/1BHC0jEJgDvNXlLhojMUbf"
+          "name": "Prince Poetiray",
+          "url": "https://open.spotify.com/artist/4rRUtosj3LsgTt3bgwWPBF"
+        },
+        {
+          "name": "Quinn Salman",
+          "url": "https://open.spotify.com/artist/4lkE7XFATsJcgz6aLp1tdP"
         }
       ],
-      "duration_ms": 204238,
-      "name": "PICA PICA",
-      "url": "https://open.spotify.com/track/7lulQZKlbZzBKsK4rfP8h5"
+      "duration_ms": 174263,
+      "name": "Selalu Ada di Nadimu (Original Soundtrack From \u201cJUMBO\")",
+      "url": "https://open.spotify.com/track/0CuFj9vIjbq3skvGFlUQJf"
     }
   ],
   "unique_name": "Hot Hits Indonesia",

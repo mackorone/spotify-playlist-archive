@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 
 > ¡Los grandes nombres del Vallenato viven aquí!
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,335 likes - 60 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,364 likes - 60 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,17 +56,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 | 46 | [Amarte Mas No Pude](https://open.spotify.com/track/5Wq23w03Py3362XEGxQJO5) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Lo Mejor 17 Grandes Exitos](https://open.spotify.com/album/0tFhJvEQCCOtv50wxeowPz) | 4:50 |
 | 47 | [Se Le Moja la Canoa \(La Canoa\)](https://open.spotify.com/track/5M7HcDhJzZzhB2JaLQGbRl) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Historia Musical de Los Embajadores Vallenatos](https://open.spotify.com/album/1ttEZHvwYpa4eUwpSg1PaS) | 4:18 |
 | 48 | [Dime Cómo Te Olvido](https://open.spotify.com/track/3eY3uh3Rj7AkUM6A0qWnYt) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Sólo Clasicos](https://open.spotify.com/album/3S5zHT8Grf9yHPq2hvP6gm) | 4:47 |
-| 49 | [Muchacha Encantadora](https://open.spotify.com/track/5Tt3giholy0v1UAJ1DJwpt) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Mejor Que Antes](https://open.spotify.com/album/3ZVXcUUrYFAfAtG1brH6oF) | 4:17 |
+| 49 | [Buscaré Otro Amor](https://open.spotify.com/track/70H3UAl0roL8yFX47BOnNC) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6) | 5:05 |
 | 50 | [No Te Detengas](https://open.spotify.com/track/06steha7z7DuxqiJrqm4Gu) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Sólo Clásicos \- Miguel Morales](https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF) | 4:46 |
-| 51 | [Buscaré Otro Amor](https://open.spotify.com/track/70H3UAl0roL8yFX47BOnNC) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6) | 5:05 |
+| 51 | [Muchacha Encantadora](https://open.spotify.com/track/5Tt3giholy0v1UAJ1DJwpt) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Mejor Que Antes](https://open.spotify.com/album/3ZVXcUUrYFAfAtG1brH6oF) | 4:17 |
 | 52 | [No Te Vayas](https://open.spotify.com/track/78Bem5yP49K6uybhAMAFdy) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Versión Original](https://open.spotify.com/album/79bVLSKqyyQWGjQLI55HRw) | 4:57 |
 | 53 | [Qué Sera de Mí](https://open.spotify.com/track/2ER4g5nBnn2ZE7s9nRRWxB) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco..\. Vive](https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r) | 4:37 |
 | 54 | [Directo al corazón](https://open.spotify.com/track/13RzmI1NWQyyOIGh02egTP) | [Jesús Manuel](https://open.spotify.com/artist/1XLwJzZGjXyXjIz9s11R4Z) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 5:00 |
 | 55 | [No Pude Quitarte las Espinas](https://open.spotify.com/track/0kboeujB0vMltPld2uhRPR) | [Erick Escobar Nayo Quintero Y La Decision Vallenata](https://open.spotify.com/artist/1fWDfU0nNn9izFAjKDaMWO) | [Vallenatos Bonitos Bonitos](https://open.spotify.com/album/3zwrFhwgWu2efe7YcS68zn) | 3:55 |
 | 56 | [Te Necesito](https://open.spotify.com/track/0pPJL3LP1YRXlalklDNwpt) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [El Cocha Molina](https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs) | [Diomedes Diaz, La Ventana Marroncita y 15 Éxitos Más!](https://open.spotify.com/album/4bqctdZq7FUy0C397pcguV) | 4:35 |
-| 57 | [El Santo Cachón](https://open.spotify.com/track/0ccHYF0xpaJe0fymGmr7ri) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Grandes Éxitos \- Los Embajadores Vallenatos](https://open.spotify.com/album/2vttfGimI3QtJ8wlScNwTM) | 4:26 |
-| 58 | [Acompañame](https://open.spotify.com/track/29z3uOfSJKyM4JnXHtptX5) | [Fabian Corrales](https://open.spotify.com/artist/0c59rGZvvhTT89vbLMiiM6) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 4:19 |
-| 59 | [Te Sorprenderás](https://open.spotify.com/track/7f4wlBeT8vqUDmom4Q676T) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6) | 4:48 |
+| 57 | [Te Sorprenderás](https://open.spotify.com/track/7f4wlBeT8vqUDmom4Q676T) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6) | 4:48 |
+| 58 | [El Santo Cachón](https://open.spotify.com/track/0ccHYF0xpaJe0fymGmr7ri) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Grandes Éxitos \- Los Embajadores Vallenatos](https://open.spotify.com/album/2vttfGimI3QtJ8wlScNwTM) | 4:26 |
+| 59 | [Acompañame](https://open.spotify.com/track/29z3uOfSJKyM4JnXHtptX5) | [Fabian Corrales](https://open.spotify.com/artist/0c59rGZvvhTT89vbLMiiM6) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 4:19 |
 | 60 | [Todo Daría por Ti](https://open.spotify.com/track/22lZWOtz02qBb4VuivREh2) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF) | [Adiós A La Diosa](https://open.spotify.com/album/5ErmSBv1MCqT8Ch0O7V0Tc) | 4:49 |
 
 Snapshot ID: `Z4FcJgAAAADZxM9pQGenc/V4E8HMvlI9`

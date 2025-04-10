@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: 上原ひろみ
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,979 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,987 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 22 | [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 |
 | 23 | [Blue Bird](https://open.spotify.com/track/5ahPlz7M3s4F0GZohCatqn) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [Synesthesia](https://open.spotify.com/album/1VVpMXHWeaLIxyvGnzEqC8) | 5:09 |
 | 24 | [枯葉 ～Autumn Leaves～ \(jazz standard\)](https://open.spotify.com/track/6qeCyQdxowFD746sApGBYx) | [SANOVA](https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt) | [BLISS](https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi) | 3:05 |
-| 25 | [Philly's Dance](https://open.spotify.com/track/3dXhHxfQYoJOjwHMUQ8Scc) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [Silent Jazz Case 3](https://open.spotify.com/album/6ZCeWV8M6KFdjc5OCh0YTO) | 4:59 |
+| 25 | [Philly's Dance](https://open.spotify.com/track/3dXhHxfQYoJOjwHMUQ8Scc) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8), [SilentJazzCase](https://open.spotify.com/artist/5zcOZKWI96Wm7tAxpRIUq1) | [Silent Jazz Case 3](https://open.spotify.com/album/6ZCeWV8M6KFdjc5OCh0YTO) | 4:59 |
 | 26 | [石の教会](https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [MOMENTS](https://open.spotify.com/album/1O302L03rMX6CR86W0OfuD) | 4:37 |
 | 27 | [Tokyo](https://open.spotify.com/track/1KurCtUeLJhAYsHNhyOFJP) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [DEEPER](https://open.spotify.com/album/2oUkGbcCAgYuxu9oKsh1aL) | 4:18 |
 | 28 | [Nica's Dream](https://open.spotify.com/track/6DfUkofhWGzAxkJcsTVAOz) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Re:Tokage](https://open.spotify.com/album/7gDYCILM2T9dpDulYxPl0c) | 4:25 |

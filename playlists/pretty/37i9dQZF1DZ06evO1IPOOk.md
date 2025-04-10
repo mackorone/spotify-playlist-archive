@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1IPOOk.md) - [plain]
 
 > This is Kendrick Lamar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,842,476 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,843,206 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1IPOOk.md) - [plain]
 | 34 | [DUCKWORTH.](https://open.spotify.com/track/0y9uTzK9cNKSAEHnpeRG8C) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 4:08 |
 | 35 | [Bad Blood \(feat\. Kendrick Lamar\) \(Taylor's Version\)](https://open.spotify.com/track/6qAcApH8obo8eqatCKUHd9) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [1989 \(Taylor's Version\) \[Deluxe\]](https://open.spotify.com/album/1o59UpKw81iHR0HPiSkJR0) | 3:19 |
 | 36 | [United In Grief](https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 4:15 |
-| 37 | [Wesley's Theory](https://open.spotify.com/track/7Ks4VCY1wFebnOdJrM13t6) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 4:47 |
-| 38 | [Poetic Justice](https://open.spotify.com/track/2P3SLxeQHPqh8qKB6gtJY2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 5:00 |
+| 37 | [Poetic Justice](https://open.spotify.com/track/2P3SLxeQHPqh8qKB6gtJY2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 5:00 |
+| 38 | [Wesley's Theory](https://open.spotify.com/track/7Ks4VCY1wFebnOdJrM13t6) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 4:47 |
 | 39 | [meet the grahams](https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [meet the grahams](https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0) | 6:32 |
 | 40 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:42 |
 | 41 | [Sidewalks](https://open.spotify.com/track/4h90qkbnW1Qq6pBhoPvwko) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1IPOOk.md) - [plain]
 | 49 | [Backseat Freestyle](https://open.spotify.com/track/3aGibUHhQyBsyumYHylw0K) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 3:32 |
 | 50 | [Mona Lisa \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Tha Carter V](https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg) | 5:24 |
 
-Snapshot ID: `Z/MVgAAAAAC+WTygDTRkE9GqoSSr8YzP`
+Snapshot ID: `Z/RnAAAAAAAYs2YTpW2uTY8FOFUU9BcN`

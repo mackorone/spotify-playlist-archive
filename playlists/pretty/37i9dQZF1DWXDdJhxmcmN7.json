@@ -1,6 +1,6 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 35205,
+  "num_followers": 35218,
   "original_name": "lofi mexa",
   "owner": {
     "name": "Spotify",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2025-04-04 06:00:21",
       "album": {
+        "name": "Buena Onda",
+        "url": "https://open.spotify.com/album/4TEvHPFbmROcLhe5qb1OlT"
+      },
+      "artists": [
+        {
+          "name": "Stereo Fear",
+          "url": "https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Buena Onda",
+      "url": "https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M"
+    },
+    {
+      "added_at": "2025-04-04 06:00:21",
+      "album": {
         "name": "Viscaria Corto",
         "url": "https://open.spotify.com/album/0qQvzPPPt3zSBK2M8vRYJI"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 144000,
       "name": "Viscaria Corto",
       "url": "https://open.spotify.com/track/3PvE0frfXEPQj8gE0zu0DJ"
-    },
-    {
-      "added_at": "2025-04-04 06:00:21",
-      "album": {
-        "name": "Buena Onda",
-        "url": "https://open.spotify.com/album/4TEvHPFbmROcLhe5qb1OlT"
-      },
-      "artists": [
-        {
-          "name": "Stereo Fear",
-          "url": "https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Buena Onda",
-      "url": "https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M"
     },
     {
       "added_at": "2025-04-04 06:00:21",
@@ -1791,22 +1791,22 @@
     {
       "added_at": "2025-04-04 06:00:21",
       "album": {
-        "name": "woozy",
-        "url": "https://open.spotify.com/album/76lS2gqtVbaRUMedAAzKN1"
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/3y3Xc0LlcqTF8JDWDqx0pq"
       },
       "artists": [
         {
-          "name": "Dpsht",
-          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
+          "name": "Ajvsco",
+          "url": "https://open.spotify.com/artist/0mc5LR2ANAISecKpU5gzCQ"
         },
         {
-          "name": "Acrylic Sleep",
-          "url": "https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny"
+          "name": "El More",
+          "url": "https://open.spotify.com/artist/02PrSshND8fAVGs3G0YVdg"
         }
       ],
-      "duration_ms": 77846,
-      "name": "woozy",
-      "url": "https://open.spotify.com/track/0Cb6pz4XaDphvSDpJXHNWI"
+      "duration_ms": 197802,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/4Reotx5u8AUlqEMkDhhuIQ"
     }
   ],
   "unique_name": "lofi mexa",

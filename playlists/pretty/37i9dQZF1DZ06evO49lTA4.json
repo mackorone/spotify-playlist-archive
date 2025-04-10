@@ -1,12 +1,12 @@
 {
   "description": "This is Luke Combs. The essential tracks, all in one playlist.",
-  "num_followers": 858320,
+  "num_followers": 858515,
   "original_name": "This Is Luke Combs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/MVgAAAAADGIoZ/7X6XTfC/Be52HVXu",
+  "snapshot_id": "Z/RnAAAAAABW5fFHuJ0nL4w0Wl0whcKH",
   "tracks": [
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fathers & Sons",
+        "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Front Door Famous",
+      "url": "https://open.spotify.com/track/5Xtm6aizhemUZMdjvLImeK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 222781,
       "name": "Missin\u2019 You Like This (Feat. Luke Combs)",
       "url": "https://open.spotify.com/track/1IzCS4zuowRsXu4YS8caOB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fathers & Sons",
-        "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Front Door Famous",
-      "url": "https://open.spotify.com/track/5Xtm6aizhemUZMdjvLImeK"
     },
     {
       "added_at": null,

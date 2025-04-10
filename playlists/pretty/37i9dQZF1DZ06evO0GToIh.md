@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 
 > This is Eden Muñoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,424 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,573 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 3 | [La Nena](https://open.spotify.com/track/2O3V4meZv0bEc1LPITGvcC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [COSME TADEO](https://open.spotify.com/artist/5QdiBib4DcTwhC2ayhRyK6) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:55 |
 | 4 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 |
 | 5 | [Mi Primer Día Sin Ti](https://open.spotify.com/track/5aqdKsrmMcyN8KnHxiCbYb) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Primer Día Sin Ti](https://open.spotify.com/album/0tQfgcjum8RhiYhMEAsil5) | 3:10 |
-| 6 | [Abcdario](https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Abcdario](https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD) | 3:40 |
-| 7 | [Me Hace Tanto Bien](https://open.spotify.com/track/0J87ieRdbGPItHA6qc3KCr) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:51 |
+| 6 | [Me Hace Tanto Bien](https://open.spotify.com/track/0J87ieRdbGPItHA6qc3KCr) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:51 |
+| 7 | [Abcdario](https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Abcdario](https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD) | 3:40 |
 | 8 | [Como En Los Viejos Tiempos](https://open.spotify.com/track/1jGuAHD9U2saBvxrbEendo) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 4:05 |
 | 9 | [Como Quieras Quiero](https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 2:02 |
 | 10 | [MONEY EDITION](https://open.spotify.com/track/1TUEXG5qBYH9f6smXUe5Y0) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [MONEY EDITION](https://open.spotify.com/album/0FHtzHjyMXFagXDyvmTp8i) | 2:38 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 15 | [Te Perdonaría](https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Perdonaría](https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz) | 2:36 |
 | 16 | [Peca de Bonita](https://open.spotify.com/track/4Rf4ssFxIqUTcRAUn2ARGU) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:22 |
 | 17 | [CCC \- Remix](https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CCC \(Remix\)](https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo) | 2:27 |
-| 18 | [Unas Heladas](https://open.spotify.com/track/3tBQOzfAYaIbiZm2U5BsYx) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Unas Heladas](https://open.spotify.com/album/1WVGaP4lBIPZZkj1AoZU0K) | 2:23 |
-| 19 | [Llorar Por Ella](https://open.spotify.com/track/3VVQwgH72ke5lwjuHKMgdb) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [GARCÍA](https://open.spotify.com/album/1nwWnsVZSWIpMebokmGwdo) | 2:48 |
+| 18 | [Llorar Por Ella](https://open.spotify.com/track/3VVQwgH72ke5lwjuHKMgdb) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [GARCÍA](https://open.spotify.com/album/1nwWnsVZSWIpMebokmGwdo) | 2:48 |
+| 19 | [Unas Heladas](https://open.spotify.com/track/3tBQOzfAYaIbiZm2U5BsYx) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Unas Heladas](https://open.spotify.com/album/1WVGaP4lBIPZZkj1AoZU0K) | 2:23 |
 | 20 | [Pudiste Pero No Quisiste](https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 |
 | 21 | [Eva María \- En Vivo](https://open.spotify.com/track/1CozjSifqoiO7EQCxASENG) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Los Prohibidos en Concierto \(En Vivo\)](https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6) | 2:56 |
 | 22 | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 49 | [NTP](https://open.spotify.com/track/7e6N0J6tRXXYP2TTo67zW2) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [NTP](https://open.spotify.com/album/1n8Yj5JW2WrY4ODhDj4eMP) | 3:15 |
 | 50 | [MX \- MAD](https://open.spotify.com/track/1CdFg273lkDDOA13pV8FXX) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 3:42 |
 
-Snapshot ID: `Z/MVgAAAAABib/CuFkvUVlHm5zCMuWPU`
+Snapshot ID: `Z/RnAAAAAAAHSnNyeCbKLh24LPoqRKiX`

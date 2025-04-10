@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > Only the best Tech House \| Find the mix series on SoundCloud: Bassline Therapy Radio
 
-[Bassline Therapy by Houseium](https://open.spotify.com/user/jayke0108) - 10,908 likes - 101 songs - 5 hr 21 min
+[Bassline Therapy by Houseium](https://open.spotify.com/user/jayke0108) - 10,908 likes - 102 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,5 +109,6 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 99 | [Autopilot](https://open.spotify.com/track/1GVnmE2ODw8keauT29R2sG) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz), [Twin Diplomacy](https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq) | [Autopilot](https://open.spotify.com/album/7vJotFuRezyas881l9VzFa) | 2:21 |
 | 100 | [VSCO Girl](https://open.spotify.com/track/0KIrc2e6NZEQOMhKhzf1JE) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2) | [VSCO Girl](https://open.spotify.com/album/3QLNIvwH0JN3Guk1Ivn93i) | 3:10 |
 | 101 | [Wide Open](https://open.spotify.com/track/6a7aKzKRgY54loG7reqXfI) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Wide Open](https://open.spotify.com/album/1jhMDPST130snbmr1Oe0Np) | 3:36 |
+| 102 | [See You Sweat](https://open.spotify.com/track/0sC4CNFI8FdKJUDuYPdDiw) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [See You Sweat](https://open.spotify.com/album/4AUlxBbuEVzK645RFnaD4i) | 3:29 |
 
-Snapshot ID: `AAAbRazsI+3zjHFm3uk5e4Q4+mtphpYC`
+Snapshot ID: `AAAbRrLQBUAHBiO+fUXtjXP1dhet8P50`

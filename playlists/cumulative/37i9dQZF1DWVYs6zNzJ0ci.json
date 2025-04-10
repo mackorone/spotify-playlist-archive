@@ -1590,7 +1590,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 162000,
       "name": "Cuando t\u00fa vienes",
       "url": "https://open.spotify.com/track/6hpn1xMvnYgd8uf2RIL5O7"
@@ -3180,7 +3180,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 172692,
       "name": "Homer Seeds",
       "url": "https://open.spotify.com/track/7Fbz6LvabXBD37RNgHaM8A"
@@ -3256,7 +3256,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-02",
+      "date_removed": null,
       "duration_ms": 260250,
       "name": "Im gonna come back to Brixton",
       "url": "https://open.spotify.com/track/2iUnqMPrjZCvrvp2jYS1Wg"
@@ -4054,7 +4054,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 212342,
       "name": "Llegaste A M\u00ed",
       "url": "https://open.spotify.com/track/5grcUqpWzP1TPr4cmTGGnR"
@@ -4072,7 +4072,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-04",
+      "date_removed": null,
       "duration_ms": 217717,
       "name": "Llegaste T\u00fa",
       "url": "https://open.spotify.com/track/7zgHeKcJbwEPM9t4dyfykl"
@@ -4448,7 +4448,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 297426,
       "name": "Luz y Compa\u00f1\u00eda",
       "url": "https://open.spotify.com/track/3Q0COFjoS7geL4ZrpmNNfB"
@@ -5142,7 +5142,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-14",
+      "date_removed": null,
       "duration_ms": 228837,
       "name": "N.O.M.",
       "url": "https://open.spotify.com/track/6cXkbeypKMh3KXPaYwi56H"
@@ -5540,7 +5540,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 193793,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/0vNzU2JWa1SpjrqVGMa3KW"
@@ -6066,7 +6066,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 234687,
       "name": "Rapido y Furioso",
       "url": "https://open.spotify.com/track/0UKzL9ZaXs5BKs8XUOzWCE"
@@ -6484,7 +6484,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 238666,
       "name": "Si el Amor Se Cae - Versi\u00f3n 25 A\u00f1os [Live]",
       "url": "https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0"
@@ -6502,7 +6502,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 248780,
       "name": "Si T\u00fa Me Quieres",
       "url": "https://open.spotify.com/track/1aGrwoxshC9Bfblm67C5oQ"
@@ -7022,7 +7022,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 216363,
       "name": "Te Ten\u00eda Al Lado",
       "url": "https://open.spotify.com/track/5eRm3Ga3wYFqKwx7Zh5akk"
@@ -7721,6 +7721,24 @@
     },
     {
       "album": {
+        "name": "Viento",
+        "url": "https://open.spotify.com/album/3XS34tvsxuuFBAATKDndML"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294266,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/7teQAzSEf3wAM4VMI4jBxW"
+    },
+    {
+      "album": {
         "name": "RawayanaLand",
         "url": "https://open.spotify.com/album/1Kj9PBn932t5zoNc9E1W4p"
       },
@@ -8004,7 +8022,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 186666,
       "name": "Yo no soy",
       "url": "https://open.spotify.com/track/3voMo6UOZNC69uefyEJ3vD"

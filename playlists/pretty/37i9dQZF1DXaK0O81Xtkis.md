@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > a little indie, a little pop\.  Cover: Knox
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,150 likes - 90 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,153 likes - 90 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

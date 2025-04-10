@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnGF35OawbN.md) - [plain]
 
 > El soundtrack del verano 2025 🏝️ Cover: Kapo & Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,670,427 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,670,674 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

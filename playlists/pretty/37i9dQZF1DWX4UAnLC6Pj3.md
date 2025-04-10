@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Banda Los Sebastianes, Luis Fonsi en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,261,144 likes - 125 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,261,315 likes - 125 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

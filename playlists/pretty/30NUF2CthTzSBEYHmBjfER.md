@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/30NUF2CthTzSBEYHmBjfER.md) - [plain]
 
 > The best Hip\-Hop and R&amp;B from the 2000s! Includes Eminem, Dr\. Dre, Jay\-Z, Lil Wayne, Snoop, Mary J Blige, and more! Join our mailing list   <a href="https://umusic.lnk.to/Spotify\_2000HipHopRB\_SignUp">here</a>   to hear first about exclusive vinyl drops &amp; all the best new music.
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 75,467 likes - 99 songs - 7 hr 1 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 75,464 likes - 99 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/30NUF2CthTzSBEYHmBjfER.md) - [plain]
 | 98 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 |
 | 99 | [Heartless](https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [808s & Heartbreak](https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU) | 3:31 |
 
-Snapshot ID: `AAACX3KIMVBTVIOIqDntqCvY1SbfjaaZ`
+Snapshot ID: `AAACYW0O8dXc7dNeFvIlzNgHMUTf7imi`

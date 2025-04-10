@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Endelig fredag og ny musik fra <a href="spotify:artist:6eUKZXaKkcviH0Ku9w2n3V">Ed Sheeran</a>, <a href="spotify:artist:3zDRCqOhJXJfS2YWOEwGMC">Christopher</a>, Ericka Jane og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,040 likes - 104 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,043 likes - 104 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

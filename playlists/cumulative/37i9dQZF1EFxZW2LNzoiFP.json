@@ -2649,6 +2649,24 @@
     },
     {
       "album": {
+        "name": "Oh! The Ocean",
+        "url": "https://open.spotify.com/album/7jilN3HePAwS9COlqpSRR3"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287400,
+      "name": "Lobster",
+      "url": "https://open.spotify.com/track/69AlqL0LKvcc67srWDfE1w"
+    },
+    {
+      "album": {
         "name": "Love To You, Mate",
         "url": "https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9"
       },

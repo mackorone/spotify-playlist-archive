@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: HAIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,321 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,301 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

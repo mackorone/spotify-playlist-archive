@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 239 songs - 12 hr 8 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 240 songs - 12 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -247,5 +247,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 237 | [Free Mr\. Banks](https://open.spotify.com/track/0Prv7tKONwFjjoJ2KswCoR) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Free Mr\. Banks](https://open.spotify.com/album/0hSUTpnHqOgP8hy7XKBPyg) | 1:59 |
 | 238 | [Chicago Zoo](https://open.spotify.com/track/3wehrmgzXoyZxV5JeIwerp) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rollin 2 \(Deluxe Edition\)](https://open.spotify.com/album/0BaBF43wCi33REVTeSiTlN) | 3:28 |
 | 239 | [Burn](https://open.spotify.com/track/1X8E4vVoOM3BpSQlEDSjjM) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:37 |
+| 240 | [The Scoop On Heaven](https://open.spotify.com/track/2nZPwKpV75BQpn9snGy2xG) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [I Love Life, Thank You](https://open.spotify.com/album/5LNX3esjvdBJ6hN4XDvCJn) | 2:43 |
 
-Snapshot ID: `AAAeEAdY1Wvb1uoRm8xWxeXF8rUQb23S`
+Snapshot ID: `AAAeEQ/3TIVHc+LX58m9fswsf1NEoDWR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 
 > This is Doechii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,063 likes - 41 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,283 likes - 41 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 | 24 | [Pro Freak \(with Doechii, Fatman Scoop\)](https://open.spotify.com/track/16jl1W58vcK8Jd5ZGbvd5f) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 4:28 |
 | 25 | [SKIPP](https://open.spotify.com/track/4vy1EFZOSZ5yN0fdRaIG57) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 1:40 |
 | 26 | [What's Your Name?](https://open.spotify.com/track/3MLvQJFO1ofeMnrz5tS1RE) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 2:39 |
-| 27 | [I Hate Your Ex\-Girlfriend \(feat\. Doechii\)](https://open.spotify.com/track/6l8Qzewg2rhEgfyaoJRRTJ) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [I Hate Your Ex\-Girlfriend \(feat\. Doechii\)](https://open.spotify.com/album/1qOm9MfWnGxA4EPdKeDSXs) | 2:23 |
-| 28 | [Swamp Bitches \(with Rico Nasty\)](https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 3:00 |
+| 27 | [Swamp Bitches \(with Rico Nasty\)](https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 3:00 |
+| 28 | [I Hate Your Ex\-Girlfriend \(feat\. Doechii\)](https://open.spotify.com/track/6l8Qzewg2rhEgfyaoJRRTJ) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [I Hate Your Ex\-Girlfriend \(feat\. Doechii\)](https://open.spotify.com/album/1qOm9MfWnGxA4EPdKeDSXs) | 2:23 |
 | 29 | [Bitch I'm Nice](https://open.spotify.com/track/7u5fFWlc7P46XWECmhyqNo) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Bitch I'm Nice](https://open.spotify.com/album/1XME8elbyGZ3cmhq3rb7Vg) | 1:27 |
 | 30 | [Something Real](https://open.spotify.com/track/2Xrc2SOmcCHi9Fx5PynXVe) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 3:34 |
 | 31 | [Shit](https://open.spotify.com/track/5A1brlnMQDvsDl9W2IOY69) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Bra\-Less](https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv) | 2:00 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 | 40 | [God](https://open.spotify.com/track/34soFye9AmIvGfmc9YPQRi) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 2:36 |
 | 41 | [I, Myself & Me](https://open.spotify.com/track/3WnMme8cHk0QEM518WNXmQ) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Soul Burger](https://open.spotify.com/album/4h3I43cFQyDqezGcREnTK6) | 3:41 |
 
-Snapshot ID: `Z/MVgAAAAADrEITqHDm3vYHOOEPu3EkT`
+Snapshot ID: `Z/RnAAAAAABbqApFErP7Lu2l423MS7Xg`

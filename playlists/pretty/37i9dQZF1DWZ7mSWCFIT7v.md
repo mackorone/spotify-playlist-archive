@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 
 > time\-stretching granular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,405 likes - 100 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,418 likes - 100 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,9 +101,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 91 | [Opak](https://open.spotify.com/track/2e5fQ0Xrn0NoLrKCJEqyqh) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Verve EP](https://open.spotify.com/album/1QQwKrTfhlaWalofkhUqk2) | 5:37 |
 | 92 | [161,1](https://open.spotify.com/track/3RwTPFqufAXpe1n5Mu5qKo) | [Ulises Conti](https://open.spotify.com/artist/2GbKQKL9D1dkfoSMeWM7vV) | [1234,8](https://open.spotify.com/album/02Roi0ruMSmTSaxoiOEF8G) | 5:58 |
 | 93 | [Temple](https://open.spotify.com/track/498ZDQka9kegPstbDGhpiu) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Suiseki](https://open.spotify.com/album/2ZenMYsh0RIM66yZF66bsN) | 3:30 |
-| 94 | [The Pier](https://open.spotify.com/track/7FkL1m76B5qexhP7np6kRK) | [Bengalfuel](https://open.spotify.com/artist/06r801SGC5phdLkowJLkfl) | [Hodes](https://open.spotify.com/album/2CaQbV2NP1EDyeNvGA7LFP) | 3:14 |
-| 95 | [Quakenbrück \- version](https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu) | [Bitchin Bajas](https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I) | [QUAKENBRÜCK \[Version\]](https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7) | 4:39 |
-| 96 | [Siblings](https://open.spotify.com/track/3ExkbOfWgrL78xCyTOTeJT) | [Tomat](https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa) | [Diistemi](https://open.spotify.com/album/3CKzdrXuBAPfQgUU3uYqr5) | 2:57 |
+| 94 | [Quakenbrück \- version](https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu) | [Bitchin Bajas](https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I) | [QUAKENBRÜCK \[Version\]](https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7) | 4:39 |
+| 95 | [Siblings](https://open.spotify.com/track/3ExkbOfWgrL78xCyTOTeJT) | [Tomat](https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa) | [Diistemi](https://open.spotify.com/album/3CKzdrXuBAPfQgUU3uYqr5) | 2:57 |
+| 96 | [The Pier](https://open.spotify.com/track/7FkL1m76B5qexhP7np6kRK) | [Bengalfuel](https://open.spotify.com/artist/06r801SGC5phdLkowJLkfl) | [Hodes](https://open.spotify.com/album/2CaQbV2NP1EDyeNvGA7LFP) | 3:14 |
 | 97 | [You've Changed](https://open.spotify.com/track/2z90hHePkp4PufL1R4Y0Hx) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Ardour \(10th Anniversary Edition\)](https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp) | 2:11 |
 | 98 | [MWLHWOF\-4](https://open.spotify.com/track/6GKgMjq46lNr3Xv8aexQOx) | [James Emrick](https://open.spotify.com/artist/246T2idxs2MWDrX6ntZNBm) | [Actoma](https://open.spotify.com/album/0RXhS7XWJ1spd3UTLIU0u3) | 3:29 |
 | 99 | [Park Line](https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 5:11 |

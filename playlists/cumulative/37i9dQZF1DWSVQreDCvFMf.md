@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Kean Cipriano, Ice Seguerra
 
-326 songs - 20 hr 33 min
+327 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Pagitan](https://open.spotify.com/track/1T1aBtSqiINuYETuBxBibc) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Pagitan](https://open.spotify.com/album/3pxM1qDsUCH2ntKilCbxwm) | 4:02 | 2025-01-31 |  |
 | [pagod na \(sayo\)](https://open.spotify.com/track/64AtBQlNawUk2nVIsLxwVF) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [pagod na \(sayo\)](https://open.spotify.com/album/1EB8V0k7Dy67Ind6gCvIiF) | 4:56 | 2024-07-02 | 2024-07-27 |
 | [Pagsisisi](https://open.spotify.com/track/69txIAX7vrg9P3Pu7TfgXE) | [Pastel Sky](https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r) | [Pagsisisi](https://open.spotify.com/album/130CxcfouohfD4K1SlSKfe) | 3:57 | 2025-02-24 |  |
+| [Palagi](https://open.spotify.com/track/7uAUa6yjTZ1H6SnC9EFl3t) | [Odri](https://open.spotify.com/artist/3dkiiS5m6L2FQWXJGLNpUh) | [Palagi](https://open.spotify.com/album/5Rfx0N1vVYU3STdoOt4XJd) | 3:16 | 2025-04-09 |  |
 | [Palagi \- TJxKZ Version](https://open.spotify.com/track/4WgViu9gw3qYOr3iF9OuLG) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0), [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Palagi \(TJxKZ Version\)](https://open.spotify.com/album/6HKsZL1QL7e2Mp5HGNn6N0) | 4:01 | 2024-08-30 | 2024-11-23 |
 | [Palihim](https://open.spotify.com/track/7d3lqYm2DtCg7zdulTfBQ8) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Apat Na Buwan](https://open.spotify.com/album/7zKcc6B3ZqbMG117tsGMk3) | 3:49 | 2024-09-06 | 2024-12-17 |
 | [Pamamaalam](https://open.spotify.com/track/6OSekJDcxZkthDnEycnRLr) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Pamamaalam](https://open.spotify.com/album/1EwEagKWXDpCHa7W1imleB) | 3:46 | 2024-11-20 | 2025-02-15 |

@@ -4,7 +4,7 @@
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/introducing\-lorem\-and\-friends?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Read our our March newsletter...</a> Cover: 2hollis
 
-3,278 songs - 7 day 10 hr 29 min
+3,280 songs - 7 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [A Little Bit of Everything \- Spotify Singles](https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 5:17 | 2023-04-05 | 2023-05-17 |
 | [a little more time](https://open.spotify.com/track/5UhZyWfrSEhGYfIIFNYscF) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [a little more time](https://open.spotify.com/album/7GRsfBAEdhJTdcwoqTXedi) | 3:30 | 2023-02-17 | 2023-05-27 |
 | [A Lovesong for Whoever](https://open.spotify.com/track/5B2Y72SuWrmRF5SE8qD658) | [Fran Vasilić](https://open.spotify.com/artist/08xR1XU2SWgC2K0yx6lEYm) | [A Lovesong for Whoever](https://open.spotify.com/album/4VgAZTaETvOC1rj51dR7n8) | 3:19 | 2022-01-07 | 2022-04-16 |
+| [a million faces](https://open.spotify.com/track/7F2nEClWeQ3x5ycA5qtKOI) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [a million faces](https://open.spotify.com/album/49jPojLRuWp71LnK3Y3ClE) | 1:42 | 2025-04-09 |  |
 | [A New Kind Of Love \- Demo](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz), [Guy Sigsworth](https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj) | [A New Kind Of Love \(Demo\)](https://open.spotify.com/album/484SKRaXGq7m9VV0rmSyeb) | 4:19 | 2022-04-08 | 2023-04-20 |
 | [A Piece Of Your Mind](https://open.spotify.com/track/5c8bM603hqoHJzJFxmUkZ1) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [I've Got Some Living To Do](https://open.spotify.com/album/73ct5rK9qShCYdzBR8C8PX) | 2:50 | 2021-07-31 | 2021-12-02 |
 | [A Real Hero](https://open.spotify.com/track/1aJrVsHwcQMZ8TZ6mlvT5J) | [College & Electric Youth](https://open.spotify.com/artist/3moPFBjUsSSJAC92afLgOH) | [A Real Hero EP](https://open.spotify.com/album/1fpoZQUSFwlfSve4rkFjCI) | 4:27 | 2022-02-25 | 2022-04-09 |
@@ -3195,6 +3196,7 @@
 | [WITHOUT YOU \(with Miley Cyrus\)](https://open.spotify.com/track/1EHUQesfVKwbthtNcpBi9g) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [WITHOUT YOU \(with Miley Cyrus\)](https://open.spotify.com/album/6Aqt69riJ3JPLxIEI8EkzT) | 2:41 | 2021-05-03 | 2021-06-05 |
 | [WIYULD](https://open.spotify.com/track/4nV1MfDLKK50nBSaEjtDzZ) | [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [WIYULD](https://open.spotify.com/album/1nRzOBHC1eAjeFG8pGIFSr) | 2:20 | 2020-07-09 | 2021-01-12 |
 | [Woah Man](https://open.spotify.com/track/1cURTWQdBWRjUaJI6Fdbsg) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Woah Man](https://open.spotify.com/album/7KrFIcXSNVl52AbtxRtRlp) | 3:28 | 2021-04-02 | 2021-05-22 |
+| [Won't Give Up](https://open.spotify.com/track/7dQ8Zd3AIAVqw2lxrelBlk) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Won't Give Up](https://open.spotify.com/album/0ZlAgFug8p4lNkliTNX1OI) | 2:51 | 2025-04-09 |  |
 | [Won't Stop](https://open.spotify.com/track/5PlVwrPPqNUVmprn2pJOIA) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Won't Stop / All For You](https://open.spotify.com/album/6uzP5ZflIR2xUKaZiot5ro) | 3:47 | 2019-08-08 | 2020-01-28 |
 | [wonder if u care](https://open.spotify.com/track/0KdEx2ETCXYZeEVAZS4sJ4) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [wonder if u care](https://open.spotify.com/album/3oPOkIUqeSMxKV5cS39kl4) | 2:14 | 2023-09-08 | 2024-02-22 |
 | [wondering how](https://open.spotify.com/track/5vraAGKBOoxAX44ftREyar) | [Scruffpuppie](https://open.spotify.com/artist/4sfEJm0Dv8H6RFfeenNJEd) | [wondering how](https://open.spotify.com/album/2LtlOTWQmX9YYCVJ1VeNx9) | 3:24 | 2021-11-20 | 2021-12-23 |

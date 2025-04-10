@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 
 > I am blessed!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,825 likes - 110 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,826 likes - 110 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

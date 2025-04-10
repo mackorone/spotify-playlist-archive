@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 
 > Las favoritas de los patrones\. Luis Mexia, El Rabbanito en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,101 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,195 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 | 99 | [Eddiecho Adios](https://open.spotify.com/track/6I04t8qV2O8hFqBvoFoj3B) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Eddiecho Adios](https://open.spotify.com/album/5DipiPCwT96aQYga2nwn81) | 4:00 |
 | 100 | [El Guero Reyna](https://open.spotify.com/track/0QpkBadc9WblLVSAOK1PQP) | [Los Juniors De Mexicali](https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou) | [Al Gusto de Uno](https://open.spotify.com/album/1BUH194MsemjacjDtbp8Eg) | 2:54 |
 
-Snapshot ID: `Z+bnKQAAAAAL25mLeozSXAgd3pN8cE+A`
+Snapshot ID: `Z/ar2gAAAACGKnhIb5l2PuSVbqncAvBn`

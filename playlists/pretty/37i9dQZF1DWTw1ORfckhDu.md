@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Costi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,497 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,505 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Piranha \(feat\. Averagekidluke\)](https://open.spotify.com/track/1A6RgcdbYVEbuvSzSdB1vV) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Klondike](https://open.spotify.com/album/7a4fLkQ68c5gT72gQOPlBl) | 2:31 |
 | 2 | [Liike on lääke](https://open.spotify.com/track/4QBks5nt05qmlblfid82Yr) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Liike on lääke](https://open.spotify.com/album/18V9kkoBrUFgOKZiQSeVFe) | 2:52 |
-| 3 | [MVP \(feat\. ibe & Elastinen\)](https://open.spotify.com/track/7AEPMkRjqF9wPoOBAPpRp5) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [MVP \(feat\. ibe & Elastinen\)](https://open.spotify.com/album/1xAtCy8uDkU0FS7Hxhtjlp) | 3:05 |
-| 4 | [Menestys on paras tapa kostaa](https://open.spotify.com/track/28kVaTdLsVqG1VRTbt8tG8) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Menestys on paras tapa kostaa](https://open.spotify.com/album/0eGYVzuAGP3VjZ8215VmJm) | 2:45 |
-| 5 | [DIANA](https://open.spotify.com/track/1tyDlQvwms8mljMK3rO2Bd) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [DIANA](https://open.spotify.com/album/4boTBGtkKQZpEqpLTSLrlo) | 2:26 |
+| 3 | [DIANA](https://open.spotify.com/track/1tyDlQvwms8mljMK3rO2Bd) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [DIANA](https://open.spotify.com/album/4boTBGtkKQZpEqpLTSLrlo) | 2:26 |
+| 4 | [MVP \(feat\. ibe & Elastinen\)](https://open.spotify.com/track/7AEPMkRjqF9wPoOBAPpRp5) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [MVP \(feat\. ibe & Elastinen\)](https://open.spotify.com/album/1xAtCy8uDkU0FS7Hxhtjlp) | 3:05 |
+| 5 | [Menestys on paras tapa kostaa](https://open.spotify.com/track/28kVaTdLsVqG1VRTbt8tG8) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Menestys on paras tapa kostaa](https://open.spotify.com/album/0eGYVzuAGP3VjZ8215VmJm) | 2:45 |
 | 6 | [MASIINA](https://open.spotify.com/track/25FQ6nVIcLOMfl5Rnmud57) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [MASIINA](https://open.spotify.com/album/3aNazUoV8x82EPaGQMwWgW) | 3:14 |
 | 7 | [Mitä meist jää](https://open.spotify.com/track/6wspZiK5qqoX0HL6zYX4CQ) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Mitä meist jää](https://open.spotify.com/album/0kNKcAFFALuDImbKDSksJ9) | 2:29 |
 | 8 | [Nirvanaan](https://open.spotify.com/track/6OyeI54Bby8Jd4ltzzB7b2) | [Young Mike](https://open.spotify.com/artist/6fWwDqSHfbKp204VY6DgQa), [Sexmane](https://open.spotify.com/artist/0HBo9U4SxsaeqrqssGfNf1) | [Nirvanaan](https://open.spotify.com/album/6lviRudwcezsFNZ6eyT130) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [UUS](https://open.spotify.com/track/5IYMahsAnjJknOGdr3V16q) | [Jodahe](https://open.spotify.com/artist/47bHkMN3v678TKL5Tku7mF), [678NATH](https://open.spotify.com/artist/6GbJj21JT9bkzYnu5FGscf) | [UUS](https://open.spotify.com/album/0CZ76qgIW100rjOVjgqQw2) | 2:33 |
 | 50 | [Love Doctor's](https://open.spotify.com/track/0xNPb3enPEZLlW5JavgTvm) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Love Doctor's](https://open.spotify.com/album/3XOgN1eRDbUEQn7gAVPgOY) | 3:32 |
 
-Snapshot ID: `Z/N1wgAAAAAsy3C899FiCzXxMDtiT5pi`
+Snapshot ID: `Z/YwTQAAAACgiWeI1aKO6JR1dw+5jOza`

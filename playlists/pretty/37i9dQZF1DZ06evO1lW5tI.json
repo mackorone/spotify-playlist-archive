@@ -1,12 +1,12 @@
 {
   "description": "This is Khruangbin. The essential tracks, all in one playlist.",
-  "num_followers": 233798,
+  "num_followers": 233868,
   "original_name": "This Is Khruangbin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/MVgAAAAACS1/Aqu7L934/4y7BRmsgI",
+  "snapshot_id": "Z/RnAAAAAAAOqXYJS39t+zMxDuw77PBe",
   "tracks": [
     {
       "added_at": null,
@@ -144,9 +144,25 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 229437,
-      "name": "Hold Me Up (Thank You)",
-      "url": "https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF"
+      "duration_ms": 178436,
+      "name": "Pon P\u00f3n",
+      "url": "https://open.spotify.com/track/41c8iFH2Q8n87lkrlaRZ1X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Todo El Mundo",
+        "url": "https://open.spotify.com/album/3lziDe2aT9qXSDxeYuNm2y"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 265410,
+      "name": "August 10",
+      "url": "https://open.spotify.com/track/2MIavWMdvbYuRoA2Cw6VkN"
     },
     {
       "added_at": null,
@@ -167,22 +183,6 @@
       "duration_ms": 314683,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/7pnVHbcqbmP7LA1ey3ydvu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Todo El Mundo",
-        "url": "https://open.spotify.com/album/3lziDe2aT9qXSDxeYuNm2y"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 265410,
-      "name": "August 10",
-      "url": "https://open.spotify.com/track/2MIavWMdvbYuRoA2Cw6VkN"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 178436,
-      "name": "Pon P\u00f3n",
-      "url": "https://open.spotify.com/track/41c8iFH2Q8n87lkrlaRZ1X"
+      "duration_ms": 229437,
+      "name": "Hold Me Up (Thank You)",
+      "url": "https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 333150,
-      "name": "Tongo Barra",
-      "url": "https://open.spotify.com/track/0OOPyxMDeHdoo2PptHHkC4"
+      "duration_ms": 316093,
+      "name": "Savanne",
+      "url": "https://open.spotify.com/track/7BeDGBnTV2SqchXGAegMNm"
     },
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 316093,
-      "name": "Savanne",
-      "url": "https://open.spotify.com/track/7BeDGBnTV2SqchXGAegMNm"
+      "duration_ms": 333150,
+      "name": "Tongo Barra",
+      "url": "https://open.spotify.com/track/0OOPyxMDeHdoo2PptHHkC4"
     },
     {
       "added_at": null,

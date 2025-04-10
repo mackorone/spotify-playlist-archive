@@ -1,6 +1,6 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 327190,
+  "num_followers": 327214,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2025-02-28 17:10:40",
       "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/28R1dlvV3yiNktmnnYflK5"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 283800,
+      "name": "Every Time I Look At You - Live",
+      "url": "https://open.spotify.com/track/33D1kuSjM8e8rwHrzGeSkm"
+    },
+    {
+      "added_at": "2025-02-28 17:10:40",
+      "album": {
         "name": "Music For The Motion Picture Into The Wild",
         "url": "https://open.spotify.com/album/0AF0eSjB3atcLpJ7gQBop5"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 222826,
       "name": "Take On Me - MTV Unplugged / Edit",
       "url": "https://open.spotify.com/track/6UyPTgKXxsFeQExGml9x21"
-    },
-    {
-      "added_at": "2025-02-28 17:10:40",
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/28R1dlvV3yiNktmnnYflK5"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 283800,
-      "name": "Every Time I Look At You - Live",
-      "url": "https://open.spotify.com/track/33D1kuSjM8e8rwHrzGeSkm"
     },
     {
       "added_at": "2025-02-28 17:10:40",

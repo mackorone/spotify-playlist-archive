@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Jassa Dhillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,728 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,750 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 17 | [No Hook](https://open.spotify.com/track/1Z9mKIJMiylFpj2qX3nnTZ) | [Navvy](https://open.spotify.com/artist/4NVo8UFva38BznrSxDaicu) | [No Hook](https://open.spotify.com/album/49lkZH95JiNXfDnDe3h9TA) | 3:13 |
 | 18 | [Tag Karke](https://open.spotify.com/track/3Bldx8QLX1D6xMwCXuQyDw) | [Sharry Mann](https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i), [JSD Music](https://open.spotify.com/artist/6sqrEWUnr5MDsDzrmjXT96) | [Hawa De Bulle](https://open.spotify.com/album/74Is0GVLdLVE6Nn5uGZN58) | 3:20 |
 | 19 | [RYDE OR DIE](https://open.spotify.com/track/7Gc2WlXhHEzYrlGl77tYag) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [A KID FROM GURDASPUR](https://open.spotify.com/album/6MBBnnY5Kacck7ATbIVTcJ) | 2:15 |
-| 20 | [Statements](https://open.spotify.com/track/3job61uTG1dl3P2fN8JEHF) | [HeartBeat](https://open.spotify.com/artist/6eHl2vIWYGa9wSeWzlUlpd), [Naninder Dhillon](https://open.spotify.com/artist/04BlTEVhAfshgm1XKJY4fo), [Mehmaan shakur](https://open.spotify.com/artist/3w0xq8M9o0j8UxQ06zLcbR), [Gyaana Hassan](https://open.spotify.com/artist/1FnmchLxliYxYdGpRxaQhs), [Atreyii Hassan](https://open.spotify.com/artist/0NqohnXD4gg31UmkF2IPAG) | [Statements](https://open.spotify.com/album/0wnAJ5dze0FZHcCWPUNyxm) | 4:44 |
+| 20 | [Statements](https://open.spotify.com/track/3job61uTG1dl3P2fN8JEHF) | [Ayo HeartBeat](https://open.spotify.com/artist/6aFZbBuUSCLCw0HvQXNMrM), [Naninder Dhillon](https://open.spotify.com/artist/04BlTEVhAfshgm1XKJY4fo), [Mehmaan shakur](https://open.spotify.com/artist/3w0xq8M9o0j8UxQ06zLcbR), [Gyaana Hassan](https://open.spotify.com/artist/1FnmchLxliYxYdGpRxaQhs), [Atreyii Hassan](https://open.spotify.com/artist/0NqohnXD4gg31UmkF2IPAG) | [Statements](https://open.spotify.com/album/0wnAJ5dze0FZHcCWPUNyxm) | 4:44 |
 | 21 | [Pindaan Wale Jatt \- Ninja](https://open.spotify.com/track/5cSmrLHBMsEOo6aIkLbjKT) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT) | [Pindaan Wale Jatt \(Ninja\)](https://open.spotify.com/album/3YlOKBrrHYhHpONpygnHV9) | 4:04 |
 | 22 | [Malwa Flow](https://open.spotify.com/track/09VWVd647SOaxdOldbQ60U) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Malwa Flow](https://open.spotify.com/album/0aW4c50XWyPUuB8upIfYQu) | 3:17 |
 | 23 | [Game](https://open.spotify.com/track/0TNB0RJsCi4WmeYtRqyAdt) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Game](https://open.spotify.com/album/3yVTUGFUELk79kX3ahcULT) | 4:34 |

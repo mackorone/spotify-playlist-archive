@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 
 > This is DannyLux\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,122 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,162 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 | 22 | [AMAR Y PERDER](https://open.spotify.com/track/04lZqz2MSGDf1bdweoJIG9) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 5:19 |
 | 23 | [Nos Pertenecemos](https://open.spotify.com/track/7adiaSAw1ij3ZAyzteXHLh) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Nos Pertenecemos](https://open.spotify.com/album/55KfSnGyQ3GinF9smV4J8c) | 3:05 |
 | 24 | [Perdón](https://open.spotify.com/track/5w3mQk0oyXswjY9yNRjawb) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2) | 3:57 |
-| 25 | [Amigos Para Qué](https://open.spotify.com/track/5KcCiFGD4xEsUBhdglc7Ws) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [SUR](https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA) | 2:14 |
+| 25 | [Me Voy Contigo](https://open.spotify.com/track/6BNaBJvHM85qDtsw9pUCD0) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Lluvia Y Sol](https://open.spotify.com/album/7A2PTwonSaI9wGZj2Te7K8) | 3:42 |
 | 26 | [ZAFIRO \(feat\. Pablo Hurtado\)](https://open.spotify.com/track/6taOvxRUBWYuO2n0NUWAyQ) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Pablo Hurtado](https://open.spotify.com/artist/27Ei0laozDcWwT4F9ASW54) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:53 |
-| 27 | [Me Voy Contigo](https://open.spotify.com/track/6BNaBJvHM85qDtsw9pUCD0) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Lluvia Y Sol](https://open.spotify.com/album/7A2PTwonSaI9wGZj2Te7K8) | 3:42 |
+| 27 | [Amigos Para Qué](https://open.spotify.com/track/5KcCiFGD4xEsUBhdglc7Ws) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [SUR](https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA) | 2:14 |
 | 28 | [Enseñame](https://open.spotify.com/track/3I6nXjL30GFmraDrSHqd8g) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w) | 3:49 |
 | 29 | [Falsos Sentimientos](https://open.spotify.com/track/3IbJ9mcnO6fsPVcFp29Cgs) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2) | 4:46 |
 | 30 | [DECIR ADIOS "OYE NARRADOR" \(with Cuco\)](https://open.spotify.com/track/4AZrS6z6r4T7vpBRE7doUG) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Cuco](https://open.spotify.com/artist/2uEzrLeDsui4CXSdelYFBf) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 | 49 | [DECIRTE LO QUE SIENTO](https://open.spotify.com/track/0LkYMmuNRsys7RgL6P7ta2) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [DECIRTE LO QUE SIENTO](https://open.spotify.com/album/7o2GjDeLWCLtV38zUk1z6G) | 3:01 |
 | 50 | [Promesas de Amor](https://open.spotify.com/track/68dsfSoqApgPqSdqFTSJAA) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 3:17 |
 
-Snapshot ID: `Z/MVgAAAAACu7UP52h9HM3Rs52YqBTvc`
+Snapshot ID: `Z/RnAAAAAADMY9IaFts6MQb7Hg1S4kPE`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UrRvztWcAU.md) - [plain]
 
 > Set the mood of your day with these happy songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,382,784 likes - 150 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,384,527 likes - 150 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

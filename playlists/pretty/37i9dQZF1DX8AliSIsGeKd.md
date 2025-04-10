@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Reznik, good guy mikesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,116 likes - 91 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,180 likes - 91 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

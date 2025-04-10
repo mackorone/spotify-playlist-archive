@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > All the South African and global pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6?si=VHXbfjpSRFu5szSsJY35cA"> Miley Cyrus</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,955 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,958 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Damares\. The essential tracks, all in one playlist.
 
-73 songs - 6 hr 33 min
+74 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [O Deus que Faz \(Ao Vivo\)](https://open.spotify.com/track/5QLgebw9fQi8YI4OeZqXxW) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Damares \(Ao Vivo\)](https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA) | 9:00 | 2023-07-09 | 2024-04-19 |
 | [O Leão](https://open.spotify.com/track/2XzfX9mvl3eg8UM5VhYAJX) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [O Leão](https://open.spotify.com/album/64Nuz4DuJpracX5ddk9PqD) | 4:27 | 2023-07-09 | 2023-07-11 |
 | [O Leão](https://open.spotify.com/track/3xMzTie4gkSwKbI7YhBi9d) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 4:27 | 2023-07-10 |  |
-| [O Maior Troféu](https://open.spotify.com/track/1s6kINRA4Py3YlYtPWhFew) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Maior Troféu](https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu) | 5:11 | 2023-07-09 |  |
+| [O Maior Troféu](https://open.spotify.com/track/1s6kINRA4Py3YlYtPWhFew) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Maior Troféu](https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu) | 5:11 | 2023-07-09 | 2025-04-10 |
+| [O Maior Troféu](https://open.spotify.com/track/65VrsfFKZB7BK6m6Ngml2n) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Mega Hits \- Damares](https://open.spotify.com/album/4f79ee5SBaI30R1oyl6P9J) | 5:11 | 2025-04-10 |  |
 | [O Noivo Virá](https://open.spotify.com/track/4H5tuVx6j0UqcWVAaJt9qu) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Noivo Virá](https://open.spotify.com/album/6W6VSlerbFI3dvGgiOX7pE) | 6:29 | 2023-07-09 | 2023-07-12 |
 | [O Noivo Virá](https://open.spotify.com/track/5FXT5KtWOKuRh6y20MNq0I) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 6:29 | 2023-07-11 |  |
 | [O Processo](https://open.spotify.com/track/2aQxomfu4HA5aHikGvgCjm) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Superação](https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg) | 5:16 | 2023-07-09 |  |
@@ -76,7 +77,7 @@
 | [Tô na Estrada](https://open.spotify.com/track/6GUBGxoOA48cTTeOplSlBa) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Maior Troféu](https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu) | 3:41 | 2023-07-09 |  |
 | [Um novo Vencedor](https://open.spotify.com/track/5HKjGzpALqUicGjD0vzS1G) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Diamante \(2010\)](https://open.spotify.com/album/3CJCx0ipcyVWZHUw64kL2R) | 6:10 | 2023-07-09 |  |
 | [Vai Ficar Bem](https://open.spotify.com/track/1UOs25N5hEnp4Ic6NeJAva) | [Marias](https://open.spotify.com/artist/6yDG1IZDMLxh1M82PFOLgM), [Nai Lopes](https://open.spotify.com/artist/5t6uGEJEod3b2Lgy5HFN6J), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Vai Ficar Bem](https://open.spotify.com/album/4eyi0ltwprtwvtFB88Q8Fg) | 1:56 | 2024-04-13 | 2025-03-08 |
-| [Você Mais Deus](https://open.spotify.com/track/1QspfOPnutOLAV6y7nE1gK) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Maior Troféu](https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu) | 4:28 | 2025-03-24 | 2025-03-26 |
+| [Você Mais Deus](https://open.spotify.com/track/1QspfOPnutOLAV6y7nE1gK) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Maior Troféu](https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu) | 4:28 | 2025-03-24 |  |
 | [Vou Louvar](https://open.spotify.com/track/35lexxTpnonCNyIq6cS5yZ) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Obra Prima](https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5) | 3:56 | 2023-07-09 | 2024-01-04 |
 | [Yeshua \(Ao Vivo\)](https://open.spotify.com/track/2b9sOPTgLige26J50aINp9) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Damares \(Ao Vivo\)](https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA) | 5:58 | 2023-07-09 |  |
 | [É Milagre \(feat\. Damares\) \- Ao Vivo](https://open.spotify.com/track/38dPxKE0tOrddwKiMy7I48) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Acelera e Pisa \(Ao Vivo\)](https://open.spotify.com/album/1AxsFgdjC8PtnPPJixKqS3) | 6:03 | 2023-07-09 |  |

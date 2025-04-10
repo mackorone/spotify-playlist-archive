@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8LEwyPvT2AXf.md) - [plain]
 
 > With Adele, Lewis Capaldi, Harry Styles and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,968 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,970 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8LEwyPvT2AXf.md) - [plain]
 | 49 | [Can I Be Him](https://open.spotify.com/track/0VhgEqMTNZwYL1ARDLLNCX) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 4:06 |
 | 50 | [Little Things](https://open.spotify.com/track/0TAmnCzOtqRfvA38DDLTjj) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home \(Expanded Edition\)](https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt) | 3:39 |
 
-Snapshot ID: `Z/Xo5gAAAABEwTF1HS4K1CLk9SBk/HxD`
+Snapshot ID: `Z/c7wQAAAADwDJcLKYGQi1j6x40Rfo9L`

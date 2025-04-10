@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VIqye.md) - [plain]
 
 > This is Joan Jett & the Blackhearts\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,242 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,245 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VIqye.md) - [plain]
 | 33 | [Wooly Bully](https://open.spotify.com/track/4Hx70nlFBSkxkI8lwYRYxC) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:20 |
 | 34 | [I Want You](https://open.spotify.com/track/1AKXEXuWv0g6XQSghcJtNO) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [First Sessions](https://open.spotify.com/album/72grmzVPqrB4FnWtmGNqS9) | 2:41 |
 | 35 | [Fun, Fun, Fun](https://open.spotify.com/track/2UVOE5RJFc3Pd9dMA9U6kv) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Good Music](https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE) | 2:19 |
-| 36 | [Let's Do It \- O.S.T.](https://open.spotify.com/track/0AsgPWO44bOT7Bo4oArEEW) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Tank Girl Soundtrack](https://open.spotify.com/album/5EmkiJMTXyVyQnOO84hKz7) | 2:23 |
-| 37 | [School Days](https://open.spotify.com/track/15u5TiwDho7b2WK0R6PvAA) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl) | 3:02 |
+| 36 | [School Days](https://open.spotify.com/track/15u5TiwDho7b2WK0R6PvAA) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl) | 3:02 |
+| 37 | [Let's Do It \- O.S.T.](https://open.spotify.com/track/0AsgPWO44bOT7Bo4oArEEW) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Tank Girl Soundtrack](https://open.spotify.com/album/5EmkiJMTXyVyQnOO84hKz7) | 2:23 |
 | 38 | [If You're Blue](https://open.spotify.com/track/0nKC8KgjiOGGBcPDOWPPpp) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Mindsets](https://open.spotify.com/album/2VSbpFbcCz8c3yQyzezYmO) | 3:15 |
 | 39 | [You Don't Know What You've Got](https://open.spotify.com/track/3zGNujVVkUT07mGLgoT5an) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 3:43 |
 | 40 | [Rebel, Rebel](https://open.spotify.com/track/7M73Fj5VKCn37at0myvTCn) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Music from the Original Motion Picture\)](https://open.spotify.com/album/46KKwNIi7LBEh5Nr5unCja) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VIqye.md) - [plain]
 | 49 | [Fresh Start](https://open.spotify.com/track/0CoaJsa2utAfRXiNeWmJiH) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Music from the Original Motion Picture\)](https://open.spotify.com/album/46KKwNIi7LBEh5Nr5unCja) | 3:35 |
 | 50 | [The French Song](https://open.spotify.com/track/27ITahS6syKYh6JAk4QrmB) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl) | 3:35 |
 
-Snapshot ID: `Z/MVgAAAAAAGP2RhhRD8TdHIZskLUGNV`
+Snapshot ID: `Z/RnAAAAAAAy/iMpsRY8fjexsE14flZx`

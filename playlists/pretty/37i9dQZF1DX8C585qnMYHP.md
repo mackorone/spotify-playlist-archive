@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by Experimental independent artists and labels\. Whatever The Weather on cover\. Artwork by Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,190 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,217 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 78 | [Ros Elavy](https://open.spotify.com/track/7G7ZseAC0yA2tmojHC92no) | [CLARAGUILAR](https://open.spotify.com/artist/1NZsUhjp15d6Vcm2vsLs6R) | [Figura](https://open.spotify.com/album/0MnDnjwq6oHY5eFnzz3OBa) | 5:39 |
 | 79 | [roots](https://open.spotify.com/track/7nBuIuYmnn3evRwSbFWaLS) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [forevermore](https://open.spotify.com/album/7b0Ccep1OjWK9QkD63VbwN) | 2:39 |
 | 80 | [Pordeno Me](https://open.spotify.com/track/6v2bGGbrqfPM5hxBQLPZl8) | [Masma Dream World](https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu) | [Pordeno Me](https://open.spotify.com/album/3x7TzsMMCYoUAuxRjGrFju) | 2:29 |
-| 81 | [Feels Like Love \(Visceral\)](https://open.spotify.com/track/41B2Q0q5QAMreQolu2wHyd) | [Ghost Buttons](https://open.spotify.com/artist/1xGkKuEwvLlaL7Tc0iphRY), [Dee Rüsche](https://open.spotify.com/artist/3NtFFDJqHCWvLFSC08oIlM) | [Feels Like Love \(Visceral\)](https://open.spotify.com/album/571jYs4OBy03hDwhVnHcmN) | 5:11 |
-| 82 | [EVER](https://open.spotify.com/track/0DDzLY6OicdAntH1IRAlMm) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI) | [THE QUANTA SERIES](https://open.spotify.com/album/1d4ayy5klByiNOJpTShQ29) | 6:29 |
+| 81 | [EVER](https://open.spotify.com/track/0DDzLY6OicdAntH1IRAlMm) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI) | [THE QUANTA SERIES](https://open.spotify.com/album/1d4ayy5klByiNOJpTShQ29) | 6:29 |
+| 82 | [Feels Like Love \(Visceral\)](https://open.spotify.com/track/41B2Q0q5QAMreQolu2wHyd) | [Ghost Buttons](https://open.spotify.com/artist/1xGkKuEwvLlaL7Tc0iphRY), [Dee Rüsche](https://open.spotify.com/artist/3NtFFDJqHCWvLFSC08oIlM) | [Feels Like Love \(Visceral\)](https://open.spotify.com/album/571jYs4OBy03hDwhVnHcmN) | 5:11 |
 | 83 | [005 MAGIK](https://open.spotify.com/track/68MfDqx1tfjDv1CcZ4wDHm) | [ONYX GARDEN](https://open.spotify.com/artist/579Ah65QiTZxDgiaGKpJtx) | [FLOATING / 005 MAGIK](https://open.spotify.com/album/4VT7Ztb0e9DKMUBNtInDWa) | 3:36 |
 | 84 | [Väter und Söhne](https://open.spotify.com/track/04WCk14K32aUG6wjRpQBmy) | [Alex Kaminski](https://open.spotify.com/artist/2206skMSHXiT4SREi6wpf7) | [Väter und Söhne](https://open.spotify.com/album/04Q7u5HiCCcjPbVMqCQbaW) | 5:53 |
 | 85 | [Echo Drift](https://open.spotify.com/track/4HFsG0QhOBTaGymFSVE0bg) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Arcadian Daze](https://open.spotify.com/album/5u97udfdEmIOR9xf5lW7pT) | 3:19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 
 > Endlich Frühling!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,336,622 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,336,612 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

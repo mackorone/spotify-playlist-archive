@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2055394,
+  "num_followers": 2055533,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/MVgAAAAABS+EjXfW0e0oFJZPqToACo",
+  "snapshot_id": "Z/RnAAAAAAA884tiHfsD+y2rvEuH0Ud2",
   "tracks": [
     {
       "added_at": null,
@@ -771,22 +771,6 @@
       "duration_ms": 165746,
       "name": "Hold Ya Head (feat. Bob Marley)",
       "url": "https://open.spotify.com/track/2FaEEdFTp6Ub0oojqjpSif"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Natty Dread",
-        "url": "https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 215666,
-      "name": "Natty Dread",
-      "url": "https://open.spotify.com/track/2fvi4GCSJn9XYdYrLGLX5f"
     }
   ],
   "unique_name": "This Is Bob Marley & The Wailers",

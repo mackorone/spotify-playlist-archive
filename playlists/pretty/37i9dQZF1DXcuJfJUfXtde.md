@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuJfJUfXtde.md) - [plain]
 
 > éxitos de regreso
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,372 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,454 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2519,6 +2519,22 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
+        "name": "coral",
+        "url": "https://open.spotify.com/album/78K4xSAjShKybDLVkkWH6J"
+      },
+      "artists": [
+        {
+          "name": "raquel",
+          "url": "https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB"
+        }
+      ],
+      "duration_ms": 227994,
+      "name": "coral",
+      "url": "https://open.spotify.com/track/3UOo8zf78epJdsoFo50AOF"
+    },
+    {
+      "added_at": "2025-03-28 16:02:55",
+      "album": {
         "name": "Que Si El Mundo",
         "url": "https://open.spotify.com/album/61o9rjLEqAQSw04coukciD"
       },
@@ -2535,22 +2551,6 @@
       "duration_ms": 361425,
       "name": "Primer Paso",
       "url": "https://open.spotify.com/track/5hIpiVEAwHp5AmcwpZBIrg"
-    },
-    {
-      "added_at": "2025-03-28 16:02:55",
-      "album": {
-        "name": "coral",
-        "url": "https://open.spotify.com/album/78K4xSAjShKybDLVkkWH6J"
-      },
-      "artists": [
-        {
-          "name": "raquel",
-          "url": "https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB"
-        }
-      ],
-      "duration_ms": 227994,
-      "name": "coral",
-      "url": "https://open.spotify.com/track/3UOo8zf78epJdsoFo50AOF"
     },
     {
       "added_at": "2025-03-28 16:02:55",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 
 > Pop to fuel your gaming\. Cover: Pebbles&TamTam
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,378 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,402 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

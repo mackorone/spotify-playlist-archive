@@ -1009,6 +1009,28 @@
     },
     {
       "album": {
+        "name": "Roberta Flack & Donny Hathaway",
+        "url": "https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163453,
+      "name": "Where Is the Love",
+      "url": "https://open.spotify.com/track/65ADTP6Q8mratfOIeKHp7e"
+    },
+    {
+      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -1024,7 +1046,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 166400,
       "name": "Where Is the Love",
       "url": "https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4"

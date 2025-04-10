@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 
 > This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,709 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,757 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 23 | [HISS](https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [HISS](https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA) | 3:12 |
 | 24 | [Savage](https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Suga](https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI) | 2:35 |
 | 25 | [Kitty Kat](https://open.spotify.com/track/6DoGtGyDgv5mVxeCpP92tX) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 2:05 |
-| 26 | [Cash Shit \(feat\. DaBaby\)](https://open.spotify.com/track/2rMAtCaTj16NptyVfEIeAC) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Fever](https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci) | 3:12 |
-| 27 | [BOA](https://open.spotify.com/track/0FPCqTZoiZpEs324IJFFpQ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:34 |
+| 26 | [BOA](https://open.spotify.com/track/0FPCqTZoiZpEs324IJFFpQ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:34 |
+| 27 | [Cash Shit \(feat\. DaBaby\)](https://open.spotify.com/track/2rMAtCaTj16NptyVfEIeAC) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Fever](https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci) | 3:12 |
 | 28 | [Her](https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:17 |
 | 29 | [Girls in the Hood](https://open.spotify.com/track/7yiSvALPjMrBLDDrbcDRNy) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:34 |
 | 30 | [Like a Freak](https://open.spotify.com/track/5xTmKnPWXX4FcYgpxjXTrD) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN: ACT II](https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR) | 1:16 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 44 | [Gift & A Curse](https://open.spotify.com/track/1U4pYd8XGOYr9GvKqIprCa) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:52 |
 | 45 | [Tuned In Freestyle](https://open.spotify.com/track/5dfTPMTMjMAW1CwxSwzWb5) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 2:03 |
 | 46 | [What’s New](https://open.spotify.com/track/3jRHehB5ulTMKfK5WaqDqc) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:35 |
-| 47 | [Sunday Service \(feat\. Megan Thee Stallion & Flo Milli\)](https://open.spotify.com/track/7unrQrmU8i2Roc1Dkj0ST2) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Sunday Service \(feat\. Megan Thee Stallion & Flo Milli\)](https://open.spotify.com/album/2IrJlw610VJwdfYPiSG8Ae) | 3:27 |
-| 48 | [Cobra](https://open.spotify.com/track/3Kh8X9lHztqVBTgw30HbXn) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Cobra](https://open.spotify.com/album/08VJzxuxr4leLd9YhJNlQl) | 2:48 |
+| 47 | [Cobra](https://open.spotify.com/track/3Kh8X9lHztqVBTgw30HbXn) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Cobra](https://open.spotify.com/album/08VJzxuxr4leLd9YhJNlQl) | 2:48 |
+| 48 | [Sunday Service \(feat\. Megan Thee Stallion & Flo Milli\)](https://open.spotify.com/track/7unrQrmU8i2Roc1Dkj0ST2) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Sunday Service \(feat\. Megan Thee Stallion & Flo Milli\)](https://open.spotify.com/album/2IrJlw610VJwdfYPiSG8Ae) | 3:27 |
 | 49 | [RNB \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/0hng8bySwA3wbhPNeSg7Mo) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Rich Slave](https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY) | 3:31 |
 | 50 | [Hot Girl](https://open.spotify.com/track/2Xc9MR2NMc5IKPFKaEjt1k) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 3:16 |
 
-Snapshot ID: `Z/MVgAAAAAC1Vv8iccj+D4K5gZkgH9j9`
+Snapshot ID: `Z/RnAAAAAAAvzXqGN0PC7vPwrAE0ZFao`

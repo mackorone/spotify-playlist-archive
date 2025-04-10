@@ -1,6 +1,6 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 38234,
+  "num_followers": 38244,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
@@ -807,26 +807,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Lyric Pieces; Sonata; Fugues",
-        "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Mikhail Pletnev",
-          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Lyric Pieces Book V, Op. 54: VI. Bellringing",
-      "url": "https://open.spotify.com/track/5qcM4MqtNkPQZoKncxM4NW"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
         "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 604400,
       "name": "Grieg: 4 Symphonic Dances, Op. 64: IV. Andante - Allegro molto e risoluto",
       "url": "https://open.spotify.com/track/721hCedr4F2gAuaV3Okfzn"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg: Lyric Pieces; Sonata; Fugues",
+        "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Lyric Pieces Book V, Op. 54: VI. Bellringing",
+      "url": "https://open.spotify.com/track/5qcM4MqtNkPQZoKncxM4NW"
     },
     {
       "added_at": "2022-09-30 04:01:00",

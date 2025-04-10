@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7K3r5iXFjZ.md) - [plain]
 
 > グローバルで活動する日本の女性2人組メタルダンスユニット、BABYMETALのオールタイムベスト。The essential tracks of BABYMETAL.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,391 likes - 53 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,480 likes - 53 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7K3r5iXFjZ.md) - [plain]
 | 52 | [シンコペーション \- LEGEND \- S \- BAPTISM XX \-](https://open.spotify.com/track/6RzEj6fgA2pXHFPlfueC7Z) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [LEGEND \- S \- BAPTISM XX \-](https://open.spotify.com/album/41TXZPtH4BNHnYMZL3J7C0) | 4:40 |
 | 53 | [ヤバッ！ \- LIVE AT TOKYO DOME](https://open.spotify.com/track/0r2NZGc1oyOx2nV7p7oQQE) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [LIVE AT TOKYO DOME](https://open.spotify.com/album/2S22zg9UNUBMX06IsQKHyx) | 4:06 |
 
-Snapshot ID: `Zf0t5QAAAACRsmuafAyt8fw2EomCzmyC`
+Snapshot ID: `Z/cV3QAAAADvWHwduL7hGusv7Guwf7NK`

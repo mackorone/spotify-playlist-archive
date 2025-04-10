@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: LI YILEI
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,144 likes - 100 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,190 likes - 100 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 92 | [Sino Algo Que Produce Sombras?](https://open.spotify.com/track/084NpmX5haKuRUX3lh5vk6) | [Hannah Lee](https://open.spotify.com/artist/3bUs5Fz4GknxKlVALu9Aoy), [El León Pardo](https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu) | [¿Y Qué Es el Sol para Ellos Sino Algo Que Produce Sombras?](https://open.spotify.com/album/1SnoM9AauiiroErXXLuZnz) | 29:52 |
 | 93 | [Deep Dream \- Patricia Wolf Remix](https://open.spotify.com/track/25JI36KSR7RaJ7zbA1Tnwp) | [Johan Agebjörn](https://open.spotify.com/artist/3UAPnOz02rvpWmIsFQizTP), [Mikael Ögren](https://open.spotify.com/artist/4v80ton7nILeznaVsJQOSl), [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [Deep Dream \(Patricia Wolf Remix\)](https://open.spotify.com/album/01GwqFkx9EpzDxXw0zpfzs) | 3:48 |
 | 94 | [Spell I: Let the Waves In](https://open.spotify.com/track/18nx0x8Jfrlr8Bhow7WYVg) | [Jolanda Moletta](https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1) | [Nine Spells](https://open.spotify.com/album/7tTgFC4f511XvHbHYgHpgA) | 2:41 |
-| 95 | [Berceuse for a Star Child](https://open.spotify.com/track/2fDzwhRSzke7JwvDAFSa7G) | [Meg Bowles](https://open.spotify.com/artist/3sWYpVmSMPD4YdhuvP2DFW) | [Evensong: Canticles for the Earth](https://open.spotify.com/album/1icSVeUwGqXdwVMCjO2D5z) | 5:51 |
-| 96 | [Circular](https://open.spotify.com/track/3YUPQcXGenybP2gi5985oB) | [Sarah Neufeld](https://open.spotify.com/artist/17YxHBveizVRDwCUBVn1X0), [Rebecca Foon](https://open.spotify.com/artist/2jS6VRcixDh48vo7Uwhrvd), [Richard Reed Parry](https://open.spotify.com/artist/7kdBCYCfsZQPu4dVYpvswY) | [Circular](https://open.spotify.com/album/5PijKfbcBsz8Pmuj5hjdXW) | 3:04 |
+| 95 | [Circular](https://open.spotify.com/track/3YUPQcXGenybP2gi5985oB) | [Sarah Neufeld](https://open.spotify.com/artist/17YxHBveizVRDwCUBVn1X0), [Rebecca Foon](https://open.spotify.com/artist/2jS6VRcixDh48vo7Uwhrvd), [Richard Reed Parry](https://open.spotify.com/artist/7kdBCYCfsZQPu4dVYpvswY) | [Circular](https://open.spotify.com/album/5PijKfbcBsz8Pmuj5hjdXW) | 3:04 |
+| 96 | [Berceuse for a Star Child](https://open.spotify.com/track/2fDzwhRSzke7JwvDAFSa7G) | [Meg Bowles](https://open.spotify.com/artist/3sWYpVmSMPD4YdhuvP2DFW) | [Evensong: Canticles for the Earth](https://open.spotify.com/album/1icSVeUwGqXdwVMCjO2D5z) | 5:51 |
 | 97 | [Hope Dealers](https://open.spotify.com/track/4V6Y9lCX3xnSoa11nN2S02) | [Klein](https://open.spotify.com/artist/6chuFWw4BmHxOc3X0cC8Ct) | [Hope Dealers](https://open.spotify.com/album/71cZVBxEtdDgJDRXipmtlZ) | 5:52 |
 | 98 | [fountainhead](https://open.spotify.com/track/7DojXUhtusbDX5ZytHTUH4) | [Courtney Swain](https://open.spotify.com/artist/0OCkoM4fVNUbhQFsgww0a0) | [Fountainhead](https://open.spotify.com/album/5aiBuBSucrcPK6t8dtLMhn) | 6:45 |
 | 99 | [Garden](https://open.spotify.com/track/1tN2BgjAGlIjM3KLV1bS9M) | [MELÉN](https://open.spotify.com/artist/4JyfNm7VfMwqu4HId6a2sX) | [Garden](https://open.spotify.com/album/5W2aiFIeMvEJx7zJpwRFbJ) | 3:12 |

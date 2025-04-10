@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Ana Laura Lopes
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,765 likes - 90 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,775 likes - 90 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 85 | ["bb, que tal?"](https://open.spotify.com/track/1JuDwpr7FHzVIePuQ6U9wj) | [Gavi](https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw) | ["bb, que tal?"](https://open.spotify.com/album/5SpFsFkCPoLkW2a5VzqAQN) | 2:41 |
 | 86 | [Perigosa](https://open.spotify.com/track/3CpZ0pZ79sPHE1oxrmGPhS) | [AMANDONA!](https://open.spotify.com/artist/3QsIywlgq5eS0jprFxuDmd) | [Perigosa](https://open.spotify.com/album/2VLa74bSqlJA1CS4gEhzQe) | 3:06 |
 | 87 | [INFAME](https://open.spotify.com/track/6FD7avr6vhI091SEWyzFNq) | [Rafa Bicalho](https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE) | [Cena 1](https://open.spotify.com/album/2cKmgH94Da6VkmoXnLi5kx) | 3:22 |
-| 88 | [7AM](https://open.spotify.com/track/3EXbfIkQv77hwSPn1GEhnk) | [Angela Destro](https://open.spotify.com/artist/46EmarN1GVX5EQCRxRQaf6) | [7AM](https://open.spotify.com/album/7mPRxm9UIyphSral2SKKYn) | 2:47 |
-| 89 | [Incerto](https://open.spotify.com/track/3W5b5HNjXOhyJYElO9ItQL) | [Murilo França](https://open.spotify.com/artist/0PyoItyf0vbCXpSRuSdbtn) | [Incerto](https://open.spotify.com/album/22dYCxyhGbgyFmjDdpn91q) | 3:30 |
+| 88 | [Incerto](https://open.spotify.com/track/3W5b5HNjXOhyJYElO9ItQL) | [Murilo França](https://open.spotify.com/artist/0PyoItyf0vbCXpSRuSdbtn) | [Incerto](https://open.spotify.com/album/22dYCxyhGbgyFmjDdpn91q) | 3:30 |
+| 89 | [7AM](https://open.spotify.com/track/3EXbfIkQv77hwSPn1GEhnk) | [Angela Destro](https://open.spotify.com/artist/46EmarN1GVX5EQCRxRQaf6) | [7AM](https://open.spotify.com/album/7mPRxm9UIyphSral2SKKYn) | 2:47 |
 | 90 | [Surreal](https://open.spotify.com/track/7mdNECcDlMZLUr8RATkS9Z) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 3:54 |
 
 Snapshot ID: `Z+9LRwAAAAAWeLnJixV1qPACRbh9rO3t`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 
 > Relájate con tus canciones favoritas en versión acústica / Descontrai com versões acústicas das tuas músicas preferidas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 949,360 likes - 150 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 949,400 likes - 150 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,10 +139,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 | 129 | [Dancing in the Dark](https://open.spotify.com/track/0aLBrgdmfl1DADg3ZO6y0N) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Blood & Rust](https://open.spotify.com/album/3i0G8lTtnie5oGe4xJuicR) | 3:59 |
 | 130 | [You're the One That I Want](https://open.spotify.com/track/2lMT78bIa5p661B5ajMIbr) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Big Jet Plane](https://open.spotify.com/album/6nhLs4qiFClX5ef3YaCfFm) | 3:14 |
 | 131 | [Let Her Go \- Acoustic](https://open.spotify.com/track/4tzAf07GCR6DlycQkUKlgN) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All the Little Lights \(Deluxe Version\)](https://open.spotify.com/album/0yWveEIgWbV3oPq4ZA6BAj) | 4:26 |
-| 132 | [Wake Me Up \- Acoustic](https://open.spotify.com/track/3Jc0ABqhf9yMLn8bbAdmKX) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Lift Your Spirit](https://open.spotify.com/album/1ImxhQBpfEQeM7bNh61Aqg) | 3:45 |
+| 132 | [Set Fire To The Rain](https://open.spotify.com/track/5foLNCCWHMFXIzgtuOVEis) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [The Covers, Vol\. 4](https://open.spotify.com/album/3ZAIFOXNrAcIR4PskJFTjU) | 3:53 |
 | 133 | [Let It Go](https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Let It Go](https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG) | 3:14 |
-| 134 | [Set Fire To The Rain](https://open.spotify.com/track/5foLNCCWHMFXIzgtuOVEis) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [The Covers, Vol\. 4](https://open.spotify.com/album/3ZAIFOXNrAcIR4PskJFTjU) | 3:53 |
-| 135 | [Mama \- Acoustic](https://open.spotify.com/track/3VOtM6x5KXZuxSzHaaf9oO) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Mama \(Acoustic\)](https://open.spotify.com/album/0AIZFcHSbXf5B7XLRaPLN5) | 3:12 |
+| 134 | [Mama \- Acoustic](https://open.spotify.com/track/3VOtM6x5KXZuxSzHaaf9oO) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Mama \(Acoustic\)](https://open.spotify.com/album/0AIZFcHSbXf5B7XLRaPLN5) | 3:12 |
+| 135 | [Wake Me Up \- Acoustic](https://open.spotify.com/track/3Jc0ABqhf9yMLn8bbAdmKX) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Lift Your Spirit](https://open.spotify.com/album/1ImxhQBpfEQeM7bNh61Aqg) | 3:45 |
 | 136 | [Home / Dirty Paws](https://open.spotify.com/track/24rFwAcC6eqPvyMuPynVGH) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Home / Dirty Paws](https://open.spotify.com/album/7eRqpbIX8zCdDGVlLrMuNn) | 2:53 |
 | 137 | [Save Tonight](https://open.spotify.com/track/4kG6Rt94q7eJaikOFrqsTn) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Save Tonight](https://open.spotify.com/album/2SaLXyTTBlIZCLuAQ2c4ne) | 4:30 |
 | 138 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/5FwD0r8W7XSBtXc7Jb4HuC) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/0w8ZP4LJNTahWf43STWyIA) | 2:54 |

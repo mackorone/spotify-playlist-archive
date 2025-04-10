@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: march\-april 2025 \(previous playlists archived on my profile\)
 
-520 songs - 1 day 5 hr 39 min
+521 songs - 1 day 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [Naomi and Me](https://open.spotify.com/track/3KQmiV4dShQBaIUGbI2ZWu) | [Rocketship](https://open.spotify.com/artist/2dLzeuFyFPAYdWKU3UuYTA) | [Hey, Hey Girl 7"](https://open.spotify.com/album/4MCpw6grgnk4HK0QPkKk67) | 2:07 | 2024-01-13 | 2024-03-10 |
 | [Napule Canta E More](https://open.spotify.com/track/3qNtGvCC1tgeZFK9ClBz4k) | [Donatella Viggiano](https://open.spotify.com/artist/4FFwzgDJc7AaKVPYxQzwjk) | [Napoli Segreta](https://open.spotify.com/album/7wG7cketLF1ZzMAPWa2fcl) | 2:54 | 2024-02-28 | 2024-03-10 |
 | [Nature's Piano](https://open.spotify.com/track/2pvcbXdQlL8nbT8ooPxYLi) | [Earth Flower](https://open.spotify.com/artist/1sMC9m50SKAhuUvCYMES2E), [Ruth Garbus](https://open.spotify.com/artist/4n4AixYCSIn4H5BriyTEhm), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Nature's Piano](https://open.spotify.com/album/5yy0rxUYWsS5Z57CUvIyMx) | 2:59 | 2024-03-09 | 2024-05-16 |
+| [Neverland](https://open.spotify.com/track/2pmf8TGCLVBHioGVYiE0WY) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [When you wake up](https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY) | 3:11 | 2025-04-09 |  |
 | [New Joy](https://open.spotify.com/track/7wriad6oBytAE04VvbKuno) | [Slauson Malone 1](https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N) | [EXCELSIOR](https://open.spotify.com/album/364BvIMiL3BsjqTJ9teX1E) | 3:16 | 2024-04-25 | 2024-05-16 |
 | [No Big Thing](https://open.spotify.com/track/03iua1rLzMCB9JhFrv5WX4) | [HTRK](https://open.spotify.com/artist/06sdJwlggq0PKOe4LPZWCg) | [Death is a Dream](https://open.spotify.com/album/2FhhWX9iOrnmC4o5NCQLRf) | 2:59 | 2025-02-10 | 2025-03-02 |
 | [No Ideology](https://open.spotify.com/track/09CnarDkzHTMaxk2CEBr8k) | [Yoshika Colwell](https://open.spotify.com/artist/3UjZDptt2aZDIw2gKixdkM), [The Vernon Spring](https://open.spotify.com/artist/2gzcB4vMIStEDZiQlvywGm) | [This Weather](https://open.spotify.com/album/3lD6HDsjczWFXeQzUYCqQt) | 3:49 | 2024-12-10 | 2025-01-12 |

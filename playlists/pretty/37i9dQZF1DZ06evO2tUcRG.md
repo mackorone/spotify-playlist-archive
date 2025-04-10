@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 
 > This is Gabriela Rocha\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,249 likes - 50 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,282 likes - 50 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 | 36 | [Águas Purificadoras](https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Águas Purificadoras](https://open.spotify.com/album/2LXgzRBHXBx8K1SiUOtczX) | 5:42 |
 | 37 | [Yahweh \- Ao Vivo](https://open.spotify.com/track/7aDkri3wKMP10fTFl2xF23) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Yahweh \(Ao Vivo\)](https://open.spotify.com/album/0w6lRkTg4OK8VwEYI3ypzN) | 13:17 |
 | 38 | [Bondade de Deus](https://open.spotify.com/track/5qNpWIV6uues1TTgo0aIph) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Pequenos Levitas](https://open.spotify.com/album/1uL3H2Et3F4SyWt3F5Rsv0) | 4:42 |
-| 39 | [Canção do Céu \- Ao vivo](https://open.spotify.com/track/3ZO97iaXkDq9Y7sMv0atus) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [Canção do Céu \(Ao Vivo\)](https://open.spotify.com/album/2KGMmd1fToQKwrpeEDMkhS) | 8:19 |
-| 40 | [Tu És Real \(feat\. Fernandinho & Gabriela Rocha\)](https://open.spotify.com/track/4DGIx4poXzDrzh0U1qguyT) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Som da Liberdade 2.0](https://open.spotify.com/album/2bRpKofUSDkDG6Dlwem8Nr) | 4:24 |
-| 41 | [Hosana \- Ao Vivo](https://open.spotify.com/track/2IHUox8N5k5g7fgeuNB0Kl) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/7k4vRmoiCX5Xvta66oFOUL) | 5:26 |
+| 39 | [Hosana \- Ao Vivo](https://open.spotify.com/track/2IHUox8N5k5g7fgeuNB0Kl) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/7k4vRmoiCX5Xvta66oFOUL) | 5:26 |
+| 40 | [Canção do Céu \- Ao vivo](https://open.spotify.com/track/3ZO97iaXkDq9Y7sMv0atus) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [Canção do Céu \(Ao Vivo\)](https://open.spotify.com/album/2KGMmd1fToQKwrpeEDMkhS) | 8:19 |
+| 41 | [Tu És Real \(feat\. Fernandinho & Gabriela Rocha\)](https://open.spotify.com/track/4DGIx4poXzDrzh0U1qguyT) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Som da Liberdade 2.0](https://open.spotify.com/album/2bRpKofUSDkDG6Dlwem8Nr) | 4:24 |
 | 42 | [Vim Para Adorar\-Te](https://open.spotify.com/track/3V9uMkBLvqLCxXbIl3l4Qr) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Pequenos Levitas](https://open.spotify.com/album/1uL3H2Et3F4SyWt3F5Rsv0) | 5:02 |
 | 43 | [Poderoso Deus \(Medley\)](https://open.spotify.com/track/3ruNAACfSrIgiZddm3zlmt) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Poderoso Deus \(Medley\)](https://open.spotify.com/album/6inDdpqWMqmciGgui8JUnl) | 7:35 |
 | 44 | [Essência da Adoração](https://open.spotify.com/track/2xTQLMCdx9di6RmE5RxuMs) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Essência da Adoração](https://open.spotify.com/album/6h0ogFWNeso0WzcLobcp6u) | 7:53 |
-| 45 | [Meu Coração É Teu / Pra Te Adorar](https://open.spotify.com/track/54aZqu6XN252pYIeef1hIA) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Céu](https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9) | 5:44 |
+| 45 | [Meu Respirar / Meu Prazer \- Ao Vivo](https://open.spotify.com/track/2ApWMoHANGl9rkLawKbQOp) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Meu Respirar / Meu Prazer \(Ao Vivo\)](https://open.spotify.com/album/4SOmwABMek8yuZv4mvq09I) | 5:23 |
 | 46 | [Gratidão](https://open.spotify.com/track/37NMRgokLpTpnaVaoZnZob) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Pequenos Levitas](https://open.spotify.com/album/1uL3H2Et3F4SyWt3F5Rsv0) | 4:04 |
-| 47 | [Meu Respirar / Meu Prazer \- Ao Vivo](https://open.spotify.com/track/2ApWMoHANGl9rkLawKbQOp) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Meu Respirar / Meu Prazer \(Ao Vivo\)](https://open.spotify.com/album/4SOmwABMek8yuZv4mvq09I) | 5:23 |
+| 47 | [Meu Coração É Teu / Pra Te Adorar](https://open.spotify.com/track/54aZqu6XN252pYIeef1hIA) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Céu](https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9) | 5:44 |
 | 48 | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW) | 5:09 |
 | 49 | [Oh, Quão Lindo esse nome é / Só Tu és Santo / Pra Te adorar \- Live 2020](https://open.spotify.com/track/7ERFUQjK0xf7BvZlANUY5o) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Melhores Louvores Gabriela Rocha](https://open.spotify.com/album/5CG0LuTpuGVxXdCPQ6zxaJ) | 12:28 |
 | 50 | [Outro Na Fornalha](https://open.spotify.com/track/7ncFnwbpGAfD2dZdNWUI1E) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 4:26 |
 
-Snapshot ID: `Z/MVgAAAAABpwAYHamd8xagz8KAs2hN8`
+Snapshot ID: `Z/RnAAAAAABKIcX7AMDczvg3CMEBa0CB`

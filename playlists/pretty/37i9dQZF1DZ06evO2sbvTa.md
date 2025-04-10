@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2sbvTa.md) - [plain]
 
 > This is Young Scooter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,371 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,372 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2sbvTa.md) - [plain]
 | 47 | [Trap Slow](https://open.spotify.com/track/2rRrYmgUJataikDTcSJkQ3) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41), [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2) | [Zaystreet](https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf) | 2:57 |
 | 48 | [Both Sides \(feat\. Future & Young Thug\)](https://open.spotify.com/track/1Gp7ozmDtFfr43EcoeH65k) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Trippple Cross](https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C) | 4:27 |
 | 49 | [Life Support](https://open.spotify.com/track/6ccAG3Mvu2qPtfqTjvt2VF) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [80's Baby](https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk) | 4:10 |
-| 50 | [Dead Man](https://open.spotify.com/track/5rIuTIDNTq1ey5DqTgg4Xz) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy) | [Trap God](https://open.spotify.com/album/1PdibECcUStPNmeTZxtoBY) | 3:53 |
+| 50 | [U Ain't No Hustla](https://open.spotify.com/track/7k4cs9RYFOdOUZx2rqsAfV) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Streetz Krazy](https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9) | 3:12 |
 
-Snapshot ID: `Z/MVgAAAAAAozfzc7mG6eK1zeeEGcrgZ`
+Snapshot ID: `Z/RnAAAAAADUizTxGYgrykmeiiAKK0K0`

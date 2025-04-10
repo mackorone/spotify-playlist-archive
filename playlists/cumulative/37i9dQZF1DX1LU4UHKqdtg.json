@@ -15613,6 +15613,24 @@
     },
     {
       "album": {
+        "name": "Oh My",
+        "url": "https://open.spotify.com/album/5wSh6Aw0IamviaLSPnW7vV"
+      },
+      "artists": [
+        {
+          "name": "OH MY GIRL",
+          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178026,
+      "name": "Oh My",
+      "url": "https://open.spotify.com/track/1rTMIstU7GaHqRyYlPrHGd"
+    },
+    {
+      "album": {
         "name": "Oh Mymy : 7s",
         "url": "https://open.spotify.com/album/4JxcTD9gDjCRbZPhDVoD40"
       },

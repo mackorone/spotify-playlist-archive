@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 
 > This is Rod Wave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,689 likes - 41 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,771 likes - 41 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 | 18 | [Rich Off Pain \(feat\. Rod Wave\)](https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 3:55 |
 | 19 | [Poison](https://open.spotify.com/track/5C1PY8gSPXadGda4SKH1Cs) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Ghetto Gospel](https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K) | 3:15 |
 | 20 | [Call Your Friends](https://open.spotify.com/track/5W0RVQViQC7xocvAUnIs6Z) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Nostalgia](https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv) | 2:33 |
-| 21 | [Federal Nightmares](https://open.spotify.com/track/7K43BENx9D8k0RznDLBTie) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 3:08 |
-| 22 | [Girl Of My Dreams](https://open.spotify.com/track/09YHm6IkdZko28KdEbXtPb) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Pray 4 Love](https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY) | 2:39 |
+| 21 | [Girl Of My Dreams](https://open.spotify.com/track/09YHm6IkdZko28KdEbXtPb) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Pray 4 Love](https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY) | 2:39 |
+| 22 | [Federal Nightmares](https://open.spotify.com/track/7K43BENx9D8k0RznDLBTie) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 3:08 |
 | 23 | [Sky Priority](https://open.spotify.com/track/2a6sjwokUT2lAFGtTfrBUG) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Ghetto Gospel](https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K) | 2:58 |
 | 24 | [Paint The Sky Red](https://open.spotify.com/track/46tIqzG16QgXRQnjxbi5is) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [PTSD](https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm) | 2:16 |
 | 25 | [By Your Side](https://open.spotify.com/track/5gUiTylvifZnUrynE4FFPu) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:14 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 | 36 | [Gone Till November](https://open.spotify.com/track/2LTJYsWOqsjntJpRy2HpY6) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [SoulFly](https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk) | 2:41 |
 | 37 | [HG4](https://open.spotify.com/track/59ksHIFa69pi0az2bKdu6s) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Nostalgia](https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv) | 2:00 |
 | 38 | [Home Ain't Home \(feat\. Rod Wave\)](https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:21 |
-| 39 | [Alone](https://open.spotify.com/track/5ie5OPdaP9fivYaKcjwKF1) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:11 |
-| 40 | [Sinners](https://open.spotify.com/track/0OyWRjMMbPKwnBtWdLg4Ws) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Sinners](https://open.spotify.com/album/3aUKmF2jQ0QPBe9QrNFLFr) | 3:08 |
+| 39 | [Sinners](https://open.spotify.com/track/0OyWRjMMbPKwnBtWdLg4Ws) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Sinners](https://open.spotify.com/album/3aUKmF2jQ0QPBe9QrNFLFr) | 3:08 |
+| 40 | [Alone](https://open.spotify.com/track/5ie5OPdaP9fivYaKcjwKF1) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:11 |
 | 41 | [2019](https://open.spotify.com/track/5uDCagy7HnW0b3qBHfaOAO) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [SoulFly \(Deluxe Version\)](https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN) | 3:25 |
 
-Snapshot ID: `Z/MVgAAAAAAYTr4Zpfbk2/FHhDgqHrDY`
+Snapshot ID: `Z/RnAAAAAACsahXRV4QRcKRYTa9+I98F`

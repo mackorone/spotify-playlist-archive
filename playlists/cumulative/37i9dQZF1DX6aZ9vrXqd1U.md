@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ©創通・サンライズ
 
-351 songs - 1 day 0 hr 17 min
+352 songs - 1 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,8 @@
 | [ふたりのまほう](https://open.spotify.com/track/2sxba3dBEuKW6MSlOCJ1Tl) | [May J.](https://open.spotify.com/artist/7sJzR6n8Buyv45FKrLvZIS) | [Futuristic](https://open.spotify.com/album/7c5cMkOoWDmlo5ptlYUs9f) | 3:19 | 2022-07-27 | 2024-01-12 |
 | [めぐりあい](https://open.spotify.com/track/4tbhACZfGzzsyWAe65uY8S) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [めぐりあい](https://open.spotify.com/album/7laEqm4NggEgKK68Qg9L1s) | 4:23 | 2022-07-27 |  |
 | [めぐりあい \(feat\. GLIM SPANKY\)](https://open.spotify.com/track/4qnrzuxkX6PtsRcjuq4dHN) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [機動戦士ガンダム 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/05kgcnRGBB1etslod1gYCh) | 5:36 | 2022-07-27 | 2022-07-29 |
-| [もうどうなってもいいや \- Movie edition \-](https://open.spotify.com/track/02ud4apJeoeoQPMyl1fVZn) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [もうどうなってもいいや \- Movie edition \-](https://open.spotify.com/album/4hxFtdZUDJEIhfTDZGIJgX) | 1:31 | 2025-02-01 |  |
+| [もうどうなってもいいや](https://open.spotify.com/track/17oTdCFRG5Vp4381jehV3U) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [もうどうなってもいいや](https://open.spotify.com/album/6XMeBVW9xA5buvS6EAVbGG) | 3:23 | 2025-04-10 |  |
+| [もうどうなってもいいや \- Movie edition \-](https://open.spotify.com/track/02ud4apJeoeoQPMyl1fVZn) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [もうどうなってもいいや \- Movie edition \-](https://open.spotify.com/album/4hxFtdZUDJEIhfTDZGIJgX) | 1:31 | 2025-02-01 | 2025-04-10 |
 | [オルフェンズの涙](https://open.spotify.com/track/7uJLIW51cR6Vp5edmquXZU) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA THE GREAT HOPE BEST](https://open.spotify.com/album/7pUZqSUfhCkV2MegF30rve) | 5:05 | 2022-12-06 | 2024-04-19 |
 | [オルフェンズの涙](https://open.spotify.com/track/3vvdRYBwFbDjsb8IaK0Pgs) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [オルフェンズの涙](https://open.spotify.com/album/0WmvnavzuVxzVM4x8yHR0Q) | 5:06 | 2022-07-27 | 2023-01-28 |
 | [オルフェンズの涙](https://open.spotify.com/track/6PZhFwvTxeMQySOXmjdI87) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [オルフェンズの涙](https://open.spotify.com/album/08EXbQtq5QBOfO7vD7MSJZ) | 5:06 | 2022-07-27 |  |

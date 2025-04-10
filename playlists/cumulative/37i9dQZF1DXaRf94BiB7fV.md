@@ -2,9 +2,9 @@
 
 ### [Fresh Finds India](https://open.spotify.com/playlist/37i9dQZF1DXaRf94BiB7fV)
 
-> The best new music by independent artists and labels in India\. Cover: Abhishek Gaur, Artwork: Isu Kim
+> The best new music by independent artists and labels in India\. Cover: Dorwin John, Artwork: Isu Kim
 
-1,562 songs - 3 day 18 hr 15 min
+1,563 songs - 3 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -691,7 +691,7 @@
 | [Kahin Duur](https://open.spotify.com/track/23tYMxghqCY59uRIAjlG7l) | [Deepika Seth](https://open.spotify.com/artist/58vi04PqZdDYmvmvPL9hlv), [Imon](https://open.spotify.com/artist/3bY660IbtBeAyjjch0QsjA) | [Kahin Duur](https://open.spotify.com/album/0495dR3BKjqWYHg8lIMcxq) | 5:02 | 2023-06-07 | 2023-08-03 |
 | [Kahin Tu Na Miljaye](https://open.spotify.com/track/43jTl5p22uBHHcoanmSkKT) | [Aalia](https://open.spotify.com/artist/5JXRLytkmf5esR8R53rCsX), [Taushif](https://open.spotify.com/artist/4gXJ5jDOyZzgffB0mYvsTe) | [Kahin Tu Na Miljaye](https://open.spotify.com/album/7BBALn5JA31ve0aOZ3g46x) | 2:39 | 2025-01-22 |  |
 | [Kaho na](https://open.spotify.com/track/5znUlfypbCVjEzqGvzy0Xw) | [Abir](https://open.spotify.com/artist/0XHapa0VH6XHwA3wlqextO) | [Kaho na](https://open.spotify.com/album/3z1UN7JGoHwRv8E1gwoG6E) | 2:14 | 2023-06-28 | 2024-01-11 |
-| [Kaif](https://open.spotify.com/track/497YW7IdIds08KhZrTqXqA) | [Buland Himalay](https://open.spotify.com/artist/0auFuYz3dlSEjNrlaMPqBq), [Jatin Bisht](https://open.spotify.com/artist/3oMgmFUmzsbTrVPGdxH8eL) | [Kaif](https://open.spotify.com/album/2yDBpSttwoaWNeTuVpaZWn) | 4:44 | 2024-11-27 |  |
+| [Kaif](https://open.spotify.com/track/497YW7IdIds08KhZrTqXqA) | [Buland Himalay](https://open.spotify.com/artist/0auFuYz3dlSEjNrlaMPqBq), [Jatin Bisht](https://open.spotify.com/artist/3oMgmFUmzsbTrVPGdxH8eL) | [Kaif](https://open.spotify.com/album/2yDBpSttwoaWNeTuVpaZWn) | 4:44 | 2024-11-27 | 2025-04-10 |
 | [Kaise](https://open.spotify.com/track/2dHdJSVhOreWGyxSJBuIxU) | [Akash Tripathi](https://open.spotify.com/artist/04QPutAh48ciDXsD7yuzl4), [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Kaise](https://open.spotify.com/album/0BSgNISFA0gFqZ4unM5QLg) | 2:28 | 2024-10-16 | 2025-03-13 |
 | [Kaise Faasle](https://open.spotify.com/track/7xn3lv3zsh5VhJetkFVLYz) | [Kshitiz Tyagi](https://open.spotify.com/artist/0ee9j9B6A0r6sb3yXzelRv) | [Kaise Faasle](https://open.spotify.com/album/2Om7fpigF4xMOy8snZLPQb) | 4:27 | 2024-05-08 | 2024-07-04 |
 | [Kaise Kaati Raatein](https://open.spotify.com/track/6Fa5PPv5bBT9OBYtKhNfbM) | [Radhika Nanday](https://open.spotify.com/artist/3b0fT2XnVA4p3c3Jsrinmb), [Anant Bhardwaj](https://open.spotify.com/artist/0lSzJmh3Jr6RJ6auoyGHEm), [Puneet Gururani](https://open.spotify.com/artist/5ievwq5xnbTGxl3nvnNIFK) | [Kaise Kaati Raatein](https://open.spotify.com/album/6ZxiKYEoeVgWjr2MgQAcXa) | 4:39 | 2022-05-04 | 2022-06-16 |
@@ -869,6 +869,7 @@
 | [Making A Move](https://open.spotify.com/track/2vrRRUlq07RwyU6s0xtngL) | [The Revisit Project](https://open.spotify.com/artist/2yBkLqum2uhfESXbRF9eD9) | [Making A Move](https://open.spotify.com/album/2oGi0Tk0s2HZ6iGdpEYh3r) | 3:40 | 2023-08-23 | 2023-09-07 |
 | [Malang](https://open.spotify.com/track/36zlamcJkUVP9CarP1qAZe) | [Avanie Joshi](https://open.spotify.com/artist/5CQ3ckkmL9cwW9NZlGkWtc) | [Malang](https://open.spotify.com/album/75MxHtiookYglaGOpvBjxj) | 2:45 | 2024-10-09 | 2025-02-13 |
 | [Man Of The Hour](https://open.spotify.com/track/2MIlDMYnibzt1eYXg21EJ2) | [Peach!](https://open.spotify.com/artist/1KR0Y8LCCXC18O52Hjcysd) | [Man Of The Hour](https://open.spotify.com/album/4DZ2Rw2B2WYssrY1fTFiUX) | 3:46 | 2022-06-01 | 2022-06-16 |
+| [Mana Lo Zara](https://open.spotify.com/track/1Quw4nDljsVulMc8UmnCB6) | [Dorwin John](https://open.spotify.com/artist/1WrRZqtc5zXX95BV270M1v), [Rupali Moghe](https://open.spotify.com/artist/3quVbB0VVwzGIU1FRBWpX0) | [Mana Lo Zara](https://open.spotify.com/album/0WQQvVv35eBLLhZteoV8uD) | 2:16 | 2025-04-09 |  |
 | [Mango Milkshake](https://open.spotify.com/track/7bvMD0uFGh1pdJUWv8ayfA) | [Meera](https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv), [Raag Sethi](https://open.spotify.com/artist/6peFV7z1UeYlD4aUxDhAv7) | [Mango Milkshake](https://open.spotify.com/album/1NBiZk5bu6DThGNfuYOe1g) | 2:20 | 2023-10-04 | 2024-01-18 |
 | [Manmaani](https://open.spotify.com/track/1JU07p2Tvw10tRl7YPeCRq) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Manmaani](https://open.spotify.com/album/4mwVHtg9FNMyu8mad3UCZa) | 4:12 | 2021-12-01 | 2022-01-13 |
 | [Mann](https://open.spotify.com/track/0SyNKe3xMrLV1bto6i2zhi) | [Entropy\(R\)](https://open.spotify.com/artist/4XgD024nnflrk6kJC9X220) | [Mann](https://open.spotify.com/album/7MkxqY4p7JmE3KSl42r89H) | 3:51 | 2024-02-28 | 2024-04-24 |

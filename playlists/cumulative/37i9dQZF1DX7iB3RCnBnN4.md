@@ -4,7 +4,7 @@
 
 > All the songs with more than 1 Billion streams on Spotify\. Cover: Metallica
 
-976 songs - 2 day 11 hr 7 min
+978 songs - 2 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Bad Liar](https://open.spotify.com/track/2RSHsoi04658QL5xgQVov3) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 4:20 | 2024-02-16 |  |
 | [Bad Moon Rising](https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Green River \(Expanded Edition\)](https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG) | 2:21 | 2024-12-26 |  |
 | [Bad Romance](https://open.spotify.com/track/7kUOJYN2ynGfTYNlgNLpgY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6DGZdMi124iOOih9GMlhN2) | 4:54 | 2023-08-15 |  |
+| [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/3lDSWvR0FXWGXo7mhDUs3v) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 3:26 | 2025-04-09 |  |
 | [Bang Bang](https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Sweet Talker \(Deluxe Version\)](https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb) | 3:19 | 2022-02-17 |  |
 | [Bank Account](https://open.spotify.com/track/5eqK0tbzUPo2SoeZsov04s) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Issa Album](https://open.spotify.com/album/4skCiJhVVSKrDOBtoFbsxU) | 3:40 | 2023-01-25 |  |
 | [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:01 | 2024-02-26 |  |
@@ -727,6 +728,7 @@
 | [Side To Side](https://open.spotify.com/track/4HeCFqiB1rBqGqvE10rF1a) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Dangerous Woman](https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b) | 3:46 | 2021-07-21 | 2022-11-13 |
 | [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 | 2022-04-07 |  |
 | [Silence](https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Silence](https://open.spotify.com/album/2bw00gRKNKbTFOqCkohbSh) | 3:00 | 2021-07-21 |  |
+| [Skyfall](https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Skyfall](https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY) | 4:46 | 2025-04-09 |  |
 | [Slide \(feat\. Frank Ocean & Migos\)](https://open.spotify.com/track/6gpcs5eMhJwax4mIfKDYQk) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Slide \(feat\. Frank Ocean & Migos\)](https://open.spotify.com/album/1UIlzhqJLiA3f6OVw7QKn6) | 3:50 | 2024-02-19 |  |
 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 | 2023-01-04 |  |
 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I) | 3:29 | 2023-01-04 | 2024-04-19 |

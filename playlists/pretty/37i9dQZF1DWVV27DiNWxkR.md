@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVV27DiNWxkR.md) - [plain]
 
 > The premier indie melancholia playlist, featuring Lizzy McAlpine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,952,713 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,952,778 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVV27DiNWxkR.md) - [plain]
 | 49 | [Another One](https://open.spotify.com/track/63q9LqTK5iiZLy3cTvLMUf) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Another One](https://open.spotify.com/album/5FiDVzxLqGtYjF5yzmMoj4) | 2:40 |
 | 50 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
 
-Snapshot ID: `Z/BcnAAAAAD9rqaZ6QxdVILoH1+6c2EG`
+Snapshot ID: `Z/bO5gAAAAAsuw4qXv/qxAWnpP+ZfXc8`

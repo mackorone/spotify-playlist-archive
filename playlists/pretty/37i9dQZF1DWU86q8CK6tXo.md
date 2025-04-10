@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume, co\-curated by cover artist Halsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,340 likes - 64 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,427 likes - 64 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

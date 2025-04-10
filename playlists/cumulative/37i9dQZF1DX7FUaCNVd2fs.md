@@ -4,7 +4,7 @@
 
 > Sleepy, cosy piano music for snoozing, power naps and relaxation.
 
-223 songs - 9 hr 44 min
+224 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [3 A.M.](https://open.spotify.com/track/2Ns0FbBGsOVhnr6hnJckbU) | [IA Landon](https://open.spotify.com/artist/26eN1lvWB6W7lyoPnGT4I2) | [Frozen Cloud](https://open.spotify.com/album/7Au4LzrZg2bOzvIjJPYNtU) | 2:16 | 2023-10-27 | 2024-02-22 |
 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 | 2023-10-27 | 2024-02-22 |
 | [A bed of tulips](https://open.spotify.com/track/3y3krIeEKphe51xVjdHLXm) | [Luanna Averie](https://open.spotify.com/artist/0rDO43Kf4w2sLN4pezlscB) | [A bed of tulips](https://open.spotify.com/album/6ssyw1LvXTs859YSEXx4tc) | 2:40 | 2023-10-27 |  |
+| [A Different Story](https://open.spotify.com/track/2kk5IhP7CETo9dlG9yMaa5) | [Jonam Breuer](https://open.spotify.com/artist/70wQIh59h8RCbhUE61arYu) | [A Different Story](https://open.spotify.com/album/6cOPkFFcRnazHp6wYRp2R6) | 2:10 | 2025-04-09 |  |
 | [A Quiet Triumph](https://open.spotify.com/track/6z80w3KsiHTJioRQYGlPDx) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [A Quiet Triumph](https://open.spotify.com/album/5S8I0cMWopewNcq6xzlBzj) | 2:04 | 2023-10-27 | 2024-09-25 |
 | [A Rose](https://open.spotify.com/track/0XAHH61ykmd5UpOF7w7Ky8) | [Natalee Marlowe](https://open.spotify.com/artist/0xpi7Cnrj85a5mifMxgCfS) | [A Rose](https://open.spotify.com/album/4uZB2x6Fnj3JznsdZY2tBA) | 2:27 | 2023-10-27 |  |
 | [Absence](https://open.spotify.com/track/605vPvBlmE54bJUiT8BKm0) | [Narelle Dane](https://open.spotify.com/artist/2tUmApwmWcZGro1Key17fG) | [Absence](https://open.spotify.com/album/3PLBke5XtxhEDQ57DpP8uC) | 3:00 | 2023-10-27 | 2024-12-18 |
@@ -100,12 +101,12 @@
 | [Late](https://open.spotify.com/track/617B8BzRj0qN4cx8ITXV5B) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/6kczD163sXLW0Z8P42laJ6) | 3:18 | 2023-10-27 | 2024-04-19 |
 | [Late](https://open.spotify.com/track/6wfm9juwwokarp3HiI1tg2) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 3:18 | 2023-10-27 | 2023-11-03 |
 | [Late](https://open.spotify.com/track/7nbupE7oWrRG33GgnIbF7C) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Late](https://open.spotify.com/album/5t53hTakFJn6VnwBQnfd5f) | 3:18 | 2024-04-17 |  |
-| [Le soleil brille](https://open.spotify.com/track/33JTqE9e7gORkp63S7FZF2) | [Arabelle Blanchar](https://open.spotify.com/artist/2pMQiEztTsr0aHaQp6pM08) | [Le soleil brille](https://open.spotify.com/album/3TPBg1dhAwxW3m63reCbhY) | 2:39 | 2023-10-27 |  |
+| [Le soleil brille](https://open.spotify.com/track/33JTqE9e7gORkp63S7FZF2) | [Arabelle Blanchar](https://open.spotify.com/artist/2pMQiEztTsr0aHaQp6pM08) | [Le soleil brille](https://open.spotify.com/album/3TPBg1dhAwxW3m63reCbhY) | 2:39 | 2023-10-27 | 2025-04-10 |
 | [Les Arbres Parlent](https://open.spotify.com/track/5OCUevB2d31fkcQEP56MxQ) | [Edgar Paget](https://open.spotify.com/artist/4j4neGVPluHx8NgYSs31Z8) | [Les Arbres Parlent](https://open.spotify.com/album/2E1scdnYHnHAuYvJ30MGnr) | 2:37 | 2023-10-27 |  |
 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 | 2023-10-27 | 2024-02-22 |
 | [Libélula](https://open.spotify.com/track/5EaqAJx6JpnQkJ7HM9X3hC) | [Coralia del Villar](https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P) | [Libélula](https://open.spotify.com/album/42ZESTdaAFvHlErpRd2KzT) | 2:45 | 2023-10-27 |  |
 | [Like a sculptor](https://open.spotify.com/track/12YtaUgDVBZ5jYSuK2ivUE) | [Casimir Roux](https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW) | [Like a sculptor](https://open.spotify.com/album/6fMYKlHURk5Lps6PXxmv67) | 2:37 | 2025-02-19 | 2025-03-01 |
-| [Like A Whisper](https://open.spotify.com/track/4C4B9L1O7JCiDSniF64rbJ) | [Lydia Barnes](https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN) | [Harbour](https://open.spotify.com/album/1YZbiOwmyO8HbKqGub0Tzi) | 3:57 | 2023-10-27 |  |
+| [Like A Whisper](https://open.spotify.com/track/4C4B9L1O7JCiDSniF64rbJ) | [Lydia Barnes](https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN) | [Harbour](https://open.spotify.com/album/1YZbiOwmyO8HbKqGub0Tzi) | 3:57 | 2023-10-27 | 2025-04-10 |
 | [Little eyes](https://open.spotify.com/track/0ujCuPifSXi03mgGeqbsvC) | [Leddei](https://open.spotify.com/artist/52c7HK8GD8wokmwHeNXGhs) | [Little eyes](https://open.spotify.com/album/5YYGBgnXZ9M36cOYlWKbQi) | 2:19 | 2025-01-07 |  |
 | [Love Me Tender](https://open.spotify.com/track/1cm6DumMSwqKuxZdRjorAl) | [August Ken](https://open.spotify.com/artist/0vAo9it46E8KVcjPHMsur5) | [Love Me Tender](https://open.spotify.com/album/5BsJYGygYBdPK3qxSvoKSw) | 2:00 | 2023-10-27 |  |
 | [Love Theme](https://open.spotify.com/track/0lSZUzGi4EBc1Q0HqynTqO) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Love Theme](https://open.spotify.com/album/5trgrL7pUh0OyxMRsxztyk) | 2:59 | 2023-10-27 |  |
@@ -151,8 +152,8 @@
 | [Postcards](https://open.spotify.com/track/2QWFmlc5GE4FJgoTI1KLvP) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Postcards](https://open.spotify.com/album/2GYsHlb6kjlNRb5HSBn8bZ) | 2:39 | 2024-09-24 |  |
 | [Prime](https://open.spotify.com/track/0Q9I9kXS2iuhSTiCpBAXHy) | [Colette Blanche](https://open.spotify.com/artist/1DD8UrtrUxPyiRq6uIbXtn) | [Prime](https://open.spotify.com/album/7xZjzgI2IKORmNfaFFoO9t) | 2:17 | 2023-10-27 | 2024-03-08 |
 | [Providential](https://open.spotify.com/track/2SJYDILOKnfms6VeB5nbHV) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Providential](https://open.spotify.com/album/78MbTcogTNTH2kxhxpNFBx) | 2:42 | 2023-10-27 |  |
-| [Psalm](https://open.spotify.com/track/7c2CN4p20ptpqkERAJPdI1) | [Stephanie Middleton](https://open.spotify.com/artist/2Uz5ooYuumPgHwe1HVjFtT) | [Before Dawn](https://open.spotify.com/album/79ezfBYayk4FNCJOlrkNOg) | 3:02 | 2023-10-27 |  |
-| [Quicksand](https://open.spotify.com/track/17jvo4FD4s17STVTrf099y) | [Margus Paavo](https://open.spotify.com/artist/1rYnDP2t7hKxNQyJP2e66n) | [Quicksand](https://open.spotify.com/album/5ckkKPGjmusZozuLk3EWkq) | 2:49 | 2023-10-27 |  |
+| [Psalm](https://open.spotify.com/track/7c2CN4p20ptpqkERAJPdI1) | [Stephanie Middleton](https://open.spotify.com/artist/2Uz5ooYuumPgHwe1HVjFtT) | [Before Dawn](https://open.spotify.com/album/79ezfBYayk4FNCJOlrkNOg) | 3:02 | 2023-10-27 | 2025-04-10 |
+| [Quicksand](https://open.spotify.com/track/17jvo4FD4s17STVTrf099y) | [Margus Paavo](https://open.spotify.com/artist/1rYnDP2t7hKxNQyJP2e66n) | [Quicksand](https://open.spotify.com/album/5ckkKPGjmusZozuLk3EWkq) | 2:49 | 2023-10-27 | 2025-04-10 |
 | [Quiet](https://open.spotify.com/track/2s7vQpVichRlRiyNuIPtKA) | [Naomi Coleman](https://open.spotify.com/artist/3Xv5X7d2v1UchIWXei1xHc) | [Quiet](https://open.spotify.com/album/4gpse5MnShhhOBEa4DDdnp) | 2:22 | 2023-10-27 |  |
 | [Quiet Moments](https://open.spotify.com/track/2Zof2lqNWh3mum2rtnQsCc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Quiet Moments](https://open.spotify.com/album/1lQIkbvbkJqqK3t7t8iwcc) | 2:00 | 2023-10-27 |  |
 | [Quérete a ti mesmo](https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm) | [Coralia del Villar](https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P) | [Quérete a ti mesmo](https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6) | 2:45 | 2023-10-27 | 2025-01-29 |
@@ -171,7 +172,7 @@
 | [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 | 2023-10-27 |  |
 | [Sincere](https://open.spotify.com/track/3COEj6CCw5iG6ykRZ0LuKf) | [Andrea Prine](https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A) | [Sincere](https://open.spotify.com/album/2FrUT2fF8TXPMGiiChOkph) | 2:07 | 2023-10-27 |  |
 | [Sing To Me](https://open.spotify.com/track/3a4y408TGCZCoQICRo9bLN) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Sing To Me](https://open.spotify.com/album/6XBB7li71b9uZPbQ2os5HI) | 2:17 | 2024-08-12 |  |
-| [Sleeping Forest](https://open.spotify.com/track/3VpHOtfXljfg3cPkE1hrzd) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Sleeping Forest](https://open.spotify.com/album/4B7jHTpuKUHgvU2YdlsLiO) | 3:48 | 2024-01-09 |  |
+| [Sleeping Forest](https://open.spotify.com/track/3VpHOtfXljfg3cPkE1hrzd) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Sleeping Forest](https://open.spotify.com/album/4B7jHTpuKUHgvU2YdlsLiO) | 3:48 | 2024-01-09 | 2025-04-10 |
 | [Slow Movements](https://open.spotify.com/track/5Ts7azb9QNWm8r64F4QZap) | [Claire Lerdier](https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k) | [Slow Movements](https://open.spotify.com/album/5utCrR0B4LDVvgCpeRVKIX) | 2:53 | 2024-04-17 | 2024-10-02 |
 | [Slow Sorrow](https://open.spotify.com/track/5rJVqzACUYjXwLqA4sAbib) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Slow Sorrow](https://open.spotify.com/album/1EGFcI9mmUc9KmorkNZyGx) | 2:04 | 2023-10-27 | 2024-09-25 |
 | [Slowly](https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Slowly](https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD) | 3:16 | 2023-10-27 |  |
@@ -203,7 +204,7 @@
 | [This Silent Night](https://open.spotify.com/track/5jGACx1QuHblS6yNrBSeEU) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [This Silent Night](https://open.spotify.com/album/6HbFMkBUb1jTvnjKcmClOX) | 2:05 | 2024-02-05 |  |
 | [Tra Di Noi](https://open.spotify.com/track/7yJJuCckCfvjuIVDK96KlL) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Tra Di Noi](https://open.spotify.com/album/0J5qqU8x786MCP07FHgJGa) | 2:30 | 2023-10-27 |  |
 | [Träumerei](https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Träumerei](https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ) | 2:07 | 2023-10-27 |  |
-| [Tuning the Picture](https://open.spotify.com/track/16bkyOOqnn6SDXjpQyqBhh) | [Allison Stuart](https://open.spotify.com/artist/16ZEUWmdIWUGPIuYKDb9MV) | [Tuning the Picture](https://open.spotify.com/album/1H0yb40JbDayKijQBsjKu0) | 2:56 | 2023-10-27 |  |
+| [Tuning the Picture](https://open.spotify.com/track/16bkyOOqnn6SDXjpQyqBhh) | [Allison Stuart](https://open.spotify.com/artist/16ZEUWmdIWUGPIuYKDb9MV) | [Tuning the Picture](https://open.spotify.com/album/1H0yb40JbDayKijQBsjKu0) | 2:56 | 2023-10-27 | 2025-04-10 |
 | [Two Hearts](https://open.spotify.com/track/7hWj5ZNuvZfCSn24MFRzwx) | [Nature then Nurture](https://open.spotify.com/artist/2uXzMvEa7FA2izNUxuDH2Y) | [Two Hearts](https://open.spotify.com/album/72fypJ6Ikrw15nvVhFT1yG) | 2:21 | 2024-08-07 |  |
 | [Un sogno tutto mio](https://open.spotify.com/track/09MOGGltE3OpP7e5V0XLej) | [Leandra Masi](https://open.spotify.com/artist/6fWhWlXrWSGvZMWrsL0lim) | [Un sogno tutto mio](https://open.spotify.com/album/4RoP7tZyamHdU49ZI17BFb) | 2:40 | 2023-10-27 |  |
 | [Undisturbed](https://open.spotify.com/track/2sDskIxP9gdYKo0L2WCBLR) | [Bryn Williams](https://open.spotify.com/artist/2EYQUBVJqp5CH3lOSj5FLJ) | [Undisturbed](https://open.spotify.com/album/2CpPAqdJrVVvFnDEV373Td) | 2:34 | 2023-10-27 | 2024-03-08 |
@@ -226,7 +227,7 @@
 | [Wild Dandelion \- Solo Piano](https://open.spotify.com/track/0K1g45Vb0qdmVufrYX8tHx) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Because You Were The Universe](https://open.spotify.com/album/2se5cnO8caL1zD8qrJucKo) | 2:24 | 2023-10-27 |  |
 | [Winter Hideaway](https://open.spotify.com/track/7xP42oGDgsbySKzKH2750d) | [Thomas Erwin](https://open.spotify.com/artist/72Ojcdg0bCLAURS3HTWEDm) | [Winter Hideaway](https://open.spotify.com/album/0KygdGPgmuaOMhBRX5BAdE) | 2:10 | 2023-10-27 |  |
 | [Wish Your Way](https://open.spotify.com/track/3W6Tx6pKOD4O97uTIYwoEZ) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Wish Your Way](https://open.spotify.com/album/7IVtgJuuzuYcxmV8DlAqnE) | 2:42 | 2023-10-27 |  |
-| [Wistful Heart](https://open.spotify.com/track/7FUeGwCMN82RlhFLkBRbJV) | [Matthias Gusset](https://open.spotify.com/artist/28zL2v3cJ1dM0CW8XSF1dg) | [Wistful Heart](https://open.spotify.com/album/4oKAXORzsZEqbSNX0qIR0K) | 2:33 | 2023-10-27 |  |
+| [Wistful Heart](https://open.spotify.com/track/7FUeGwCMN82RlhFLkBRbJV) | [Matthias Gusset](https://open.spotify.com/artist/28zL2v3cJ1dM0CW8XSF1dg) | [Wistful Heart](https://open.spotify.com/album/4oKAXORzsZEqbSNX0qIR0K) | 2:33 | 2023-10-27 | 2025-04-10 |
 | [Written in Stone](https://open.spotify.com/track/17My9MgcVSH9ABRiXtiZSv) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Written in Stone](https://open.spotify.com/album/3SKH2KhCNa0HP3S28xPWbL) | 2:36 | 2023-10-27 |  |
 | [You](https://open.spotify.com/track/1WfuDZ4OFPb1WC76ipdKCW) | [Oliver Peasley](https://open.spotify.com/artist/13EUu6e9QCae6KE3J0glgT) | [You](https://open.spotify.com/album/59xjKBZnOGokehELrAzRo1) | 2:27 | 2023-10-27 |  |
 | [Ótta](https://open.spotify.com/track/1HIsNXsMp337FECrM521V0) | [Stefán Hafsteinsson](https://open.spotify.com/artist/57eZ1e0kwxtZYfYUs6GcF8) | [Ótta](https://open.spotify.com/album/1FduT1J6puUxizGclSvYDA) | 2:47 | 2023-10-27 | 2024-04-19 |

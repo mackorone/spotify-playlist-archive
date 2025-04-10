@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mwFQ6.md) - [plain]
 
 > This is Adam Brand\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,802 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,801 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,16 +29,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mwFQ6.md) - [plain]
 | 19 | [Every Time She Walks By](https://open.spotify.com/track/1dUyGRhjo2fLkyUnGJ4883) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get On Your Feet](https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX) | 3:16 |
 | 20 | [Six Days on the Road](https://open.spotify.com/track/5lzf1yWTWVswey4lihKjMe) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand and The Outlaws](https://open.spotify.com/album/4T2RGByox3Mf1gy23ZlE0h) | 2:48 |
 | 21 | [You're A Revhead](https://open.spotify.com/track/5dj1SeeHuxrqOL77UrafQX) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [You're A Revhead](https://open.spotify.com/album/6to8LTBnNwNJiRJz6HKg6c) | 4:00 |
-| 22 | [Get On Down The Road](https://open.spotify.com/track/7GnbMZ6TB9BNx3BVb2Q9XN) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Blame It On Eve](https://open.spotify.com/album/5rJuxuT06npGq0ImHMGsOL) | 3:10 |
-| 23 | [I'm Coming Home](https://open.spotify.com/track/6Ju9JvPsdTo89SRBAc13DC) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All or Nothing](https://open.spotify.com/album/6mrv40a43iC5ocTZXkFOjX) | 3:11 |
+| 22 | [Few Good Years Left Yet](https://open.spotify.com/track/2FNDLW6YJqsmQxb3FMBGoC) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Brooke Supple](https://open.spotify.com/artist/4JnlFOD2QaOjxWm0Avphhx) | [Few Good Years Left Yet](https://open.spotify.com/album/4nbYOTRfsQMshTEJiIscJI) | 3:45 |
+| 23 | [Get On Down The Road](https://open.spotify.com/track/7GnbMZ6TB9BNx3BVb2Q9XN) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Blame It On Eve](https://open.spotify.com/album/5rJuxuT06npGq0ImHMGsOL) | 3:10 |
 | 24 | [It's Five O'clock Somewhere](https://open.spotify.com/track/5x4tZpxfhFZ7EUnK04Fc76) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand and The Outlaws](https://open.spotify.com/album/4T2RGByox3Mf1gy23ZlE0h) | 3:36 |
-| 25 | [Milestones](https://open.spotify.com/track/5PA3JUawknYd5RPqDwPm5t) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Milestones](https://open.spotify.com/album/2iVR1Vt976L3hxNTPszaMj) | 3:36 |
-| 26 | [You Are To Me](https://open.spotify.com/track/2Lij4vqXoPkRfXAI4baQ1c) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Good Friends](https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO) | 3:12 |
-| 27 | [Number 34](https://open.spotify.com/track/1AQDUCqkSosRRxKa7q1gls) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51) | 2:54 |
+| 25 | [I'm Coming Home](https://open.spotify.com/track/6Ju9JvPsdTo89SRBAc13DC) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All or Nothing](https://open.spotify.com/album/6mrv40a43iC5ocTZXkFOjX) | 3:11 |
+| 26 | [Milestones](https://open.spotify.com/track/5PA3JUawknYd5RPqDwPm5t) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Milestones](https://open.spotify.com/album/2iVR1Vt976L3hxNTPszaMj) | 3:36 |
+| 27 | [Gettin' There](https://open.spotify.com/track/4PI3yDy1ozrZXiefoNTe0W) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Gettin' There](https://open.spotify.com/album/15XBSuTfxBgZZtKR2PbWaK) | 3:13 |
 | 28 | [Way Out West](https://open.spotify.com/track/079DxgUPBayPga0ijJymx0) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand and The Outlaws](https://open.spotify.com/album/4T2RGByox3Mf1gy23ZlE0h) | 3:53 |
 | 29 | [Still the One](https://open.spotify.com/track/2ceH3rP6AaMxeic16vZTA9) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All or Nothing](https://open.spotify.com/album/6mrv40a43iC5ocTZXkFOjX) | 2:38 |
-| 30 | [Few Good Years Left Yet](https://open.spotify.com/track/2FNDLW6YJqsmQxb3FMBGoC) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Brooke Supple](https://open.spotify.com/artist/4JnlFOD2QaOjxWm0Avphhx) | [Few Good Years Left Yet](https://open.spotify.com/album/4nbYOTRfsQMshTEJiIscJI) | 3:45 |
-| 31 | [Gettin' There](https://open.spotify.com/track/4PI3yDy1ozrZXiefoNTe0W) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Gettin' There](https://open.spotify.com/album/15XBSuTfxBgZZtKR2PbWaK) | 3:13 |
+| 30 | [You Are To Me](https://open.spotify.com/track/2Lij4vqXoPkRfXAI4baQ1c) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Good Friends](https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO) | 3:12 |
+| 31 | [Number 34](https://open.spotify.com/track/1AQDUCqkSosRRxKa7q1gls) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51) | 2:54 |
 | 32 | [Freakin' Weekend](https://open.spotify.com/track/0uWn5pMMb1go0idjjYxgRO) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Speed of Life](https://open.spotify.com/album/3839iZRfCQ9mZgkCrAeLng) | 3:16 |
 | 33 | [Ready For Love](https://open.spotify.com/track/3YSl4i3tefmSES68EHJNpV) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Hell Of A Ride](https://open.spotify.com/album/3Fa0QVFiC0v3FiS5gIJiyo) | 3:55 |
 | 34 | [Drunk](https://open.spotify.com/track/3PvLDkx6Xz934xsrSk6pqO) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get On Your Feet](https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX) | 3:20 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mwFQ6.md) - [plain]
 | 41 | [Get on Your Feet](https://open.spotify.com/track/1gBuPJ2nGN3uIC9cgy0QFe) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get On Your Feet](https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX) | 3:00 |
 | 42 | [Good Year for the Outlaw](https://open.spotify.com/track/1zow1J6ivxXvaqyEYmxbn4) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand and The Outlaws](https://open.spotify.com/album/4T2RGByox3Mf1gy23ZlE0h) | 3:34 |
 | 43 | [Comin' From / Khe Sanh \- Medley](https://open.spotify.com/track/1aaVmTR7WXYDoSUpnGAknS) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [You're A Revhead](https://open.spotify.com/album/6to8LTBnNwNJiRJz6HKg6c) | 4:14 |
-| 44 | [Hearts I Leave Behind](https://open.spotify.com/track/1XRAMlvsJa0frnT5So3Fho) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [My Side of the Street](https://open.spotify.com/album/6oGvE1KPgvRNJnHJ3dshMF) | 3:14 |
+| 44 | [I Was Here](https://open.spotify.com/track/1vvu0yPPYvHl7vUMnhGkGM) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [There Will Be Love](https://open.spotify.com/album/6jXEYlmvahy2vkjPPYwbPi) | 3:21 |
 | 45 | [If Heaven Has a Soundtrack](https://open.spotify.com/track/4PDqTf0wLEsF9UgVaiNoHb) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get On Your Feet](https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX) | 4:08 |
-| 46 | [I Was Here](https://open.spotify.com/track/1vvu0yPPYvHl7vUMnhGkGM) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [There Will Be Love](https://open.spotify.com/album/6jXEYlmvahy2vkjPPYwbPi) | 3:21 |
-| 47 | [Fly](https://open.spotify.com/track/4U6D6XdBhkDWVaf8lNTs5K) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Speed of Life](https://open.spotify.com/album/3839iZRfCQ9mZgkCrAeLng) | 3:14 |
+| 46 | [Fly](https://open.spotify.com/track/4U6D6XdBhkDWVaf8lNTs5K) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Speed of Life](https://open.spotify.com/album/3839iZRfCQ9mZgkCrAeLng) | 3:14 |
+| 47 | [Hearts I Leave Behind](https://open.spotify.com/track/1XRAMlvsJa0frnT5So3Fho) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [My Side of the Street](https://open.spotify.com/album/6oGvE1KPgvRNJnHJ3dshMF) | 3:14 |
 | 48 | [When The Needle Hits The Vinyl](https://open.spotify.com/track/6fZosvn3HVvfG9L4U9MQbW) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Good Friends](https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO) | 3:34 |
-| 49 | [Love Away The Night](https://open.spotify.com/track/6AyfvtOk91Iyaa4sfEo9jJ) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand](https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK) | 3:38 |
-| 50 | [Thump](https://open.spotify.com/track/6s2ycFh5w9TyLXXys1fmNH) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Hell Of A Ride](https://open.spotify.com/album/3Fa0QVFiC0v3FiS5gIJiyo) | 2:53 |
+| 49 | [Thump](https://open.spotify.com/track/6s2ycFh5w9TyLXXys1fmNH) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Hell Of A Ride](https://open.spotify.com/album/3Fa0QVFiC0v3FiS5gIJiyo) | 2:53 |
+| 50 | [Love Away The Night](https://open.spotify.com/track/6AyfvtOk91Iyaa4sfEo9jJ) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand](https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK) | 3:38 |
 
-Snapshot ID: `Z/MVgAAAAADhUZqqWop1puvPHKhVfcOG`
+Snapshot ID: `Z/RnAAAAAAAzQMHPIGh/BF6nkRUtM0oo`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. Cover: ANORAK!
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,033 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,052 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,29 +1,13 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 62368,
+  "num_followers": 62373,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/MVgAAAAAB8y+k6K2Thto37mCyS7kXy",
+  "snapshot_id": "Z/RnAAAAAABiWdXkOHfjiv8XTLEcUMLZ",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Digno de Tudo + Te Exaltamos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5cU4w3ateIMCsm8aFneNuB"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 546346,
-      "name": "Digno de Tudo + Te Exaltamos - Ao Vivo",
-      "url": "https://open.spotify.com/track/67DGEqcpxUXtZEtFFmsnQC"
-    },
     {
       "added_at": null,
       "album": {
@@ -339,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maravilhado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 454587,
-      "name": "Maravilhado - Ao Vivo",
-      "url": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Deluxe (Ao Vivo)",
         "url": "https://open.spotify.com/album/76HKXyRoHi007rh7EISKFl"
       },
@@ -443,6 +411,22 @@
       "duration_ms": 384876,
       "name": "Preciso de Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/3bYTEQ6PyFCJTq3FcohJYQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maravilhado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 454587,
+      "name": "Maravilhado - Ao Vivo",
+      "url": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY"
     },
     {
       "added_at": null,
@@ -683,18 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rei do Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/3QhGWtEFA3VAwtgflnLLyT"
+        "name": "Te Damos Gl\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/00S8xPURHKC8Xg02033Rw2"
       },
       "artists": [
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
         }
       ],
-      "duration_ms": 360085,
-      "name": "Rei do Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2LsPqdB1cWSVXxRQ5cKweN"
+      "duration_ms": 388989,
+      "name": "Te Damos Gl\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/33xstPp7Yl0jTnclQO8fkN"
     },
     {
       "added_at": null,
@@ -719,22 +707,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Damos Gl\u00f3ria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/00S8xPURHKC8Xg02033Rw2"
+        "name": "Rei do Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/3QhGWtEFA3VAwtgflnLLyT"
       },
       "artists": [
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
         }
       ],
-      "duration_ms": 388989,
-      "name": "Te Damos Gl\u00f3ria - Ao Vivo",
-      "url": "https://open.spotify.com/track/33xstPp7Yl0jTnclQO8fkN"
+      "duration_ms": 360085,
+      "name": "Rei do Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2LsPqdB1cWSVXxRQ5cKweN"
     },
     {
       "added_at": null,
@@ -811,22 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amigo Incompar\u00e1vel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1aeUe3lYFvmKnIYkWVJAoY"
+        "name": "Digno de Tudo + Te Exaltamos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5cU4w3ateIMCsm8aFneNuB"
       },
       "artists": [
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Ana Paula Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
         }
       ],
-      "duration_ms": 393163,
-      "name": "Amigo Incompar\u00e1vel - Ao vivo",
-      "url": "https://open.spotify.com/track/2mrj06EgF9HJudXKYmX6VR"
+      "duration_ms": 546346,
+      "name": "Digno de Tudo + Te Exaltamos - Ao Vivo",
+      "url": "https://open.spotify.com/track/67DGEqcpxUXtZEtFFmsnQC"
     },
     {
       "added_at": null,
@@ -843,6 +823,42 @@
       "duration_ms": 291266,
       "name": "Meu Maior Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/6veb6mzP3bVBM2qe6O3MSS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sangue de Jesus",
+        "url": "https://open.spotify.com/album/62eXklHALW2DjHQSVVWiKe"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 275260,
+      "name": "Sangue de Jesus",
+      "url": "https://open.spotify.com/track/7DxTA3yeeE2X3OVBcvai5m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amigo Incompar\u00e1vel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1aeUe3lYFvmKnIYkWVJAoY"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        }
+      ],
+      "duration_ms": 393163,
+      "name": "Amigo Incompar\u00e1vel - Ao vivo",
+      "url": "https://open.spotify.com/track/2mrj06EgF9HJudXKYmX6VR"
     },
     {
       "added_at": null,
@@ -867,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sangue de Jesus",
-        "url": "https://open.spotify.com/album/62eXklHALW2DjHQSVVWiKe"
+        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
       },
       "artists": [
         {
@@ -876,9 +892,9 @@
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 275260,
-      "name": "Sangue de Jesus",
-      "url": "https://open.spotify.com/track/7DxTA3yeeE2X3OVBcvai5m"
+      "duration_ms": 385280,
+      "name": "Gl\u00f3ria & Honra",
+      "url": "https://open.spotify.com/track/5AMt6ZnnKYMggHbYKUcs5a"
     },
     {
       "added_at": null,
@@ -895,22 +911,6 @@
       "duration_ms": 826880,
       "name": "Ousado Amor",
       "url": "https://open.spotify.com/track/7sXiDUR1TCstXHlqfyAHOB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 385280,
-      "name": "Gl\u00f3ria & Honra",
-      "url": "https://open.spotify.com/track/5AMt6ZnnKYMggHbYKUcs5a"
     },
     {
       "added_at": null,
@@ -951,22 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6mf39m0DBS39bfATCHwNM5"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 437418,
-      "name": "Jesus - Ao Vivo",
-      "url": "https://open.spotify.com/track/1tLprGViXjMjX1mwvncJc7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o Mais Escravos",
         "url": "https://open.spotify.com/album/01R8ujMToULv8ECGBgglFB"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 407000,
       "name": "N\u00e3o Mais Escravos",
       "url": "https://open.spotify.com/track/6YsaTCFVqFiGrarkEATPmI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6mf39m0DBS39bfATCHwNM5"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 437418,
+      "name": "Jesus - Ao Vivo",
+      "url": "https://open.spotify.com/track/1tLprGViXjMjX1mwvncJc7"
     },
     {
       "added_at": null,
@@ -1007,26 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2Issr9syuEqaUOfFRFXBms"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 571013,
-      "name": "Vem - Ao Vivo",
-      "url": "https://open.spotify.com/track/5IW9WRaLxJblCkVXhC1vye"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9s Bem-Vindo \u00e0 Mesa",
         "url": "https://open.spotify.com/album/79XQ40MyFbpEpTZU1lnPRS"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 534000,
       "name": "\u00c9s Bem-Vindo \u00e0 Mesa - Ao Vivo",
       "url": "https://open.spotify.com/track/6YRT4mFA0s5I5UYoKnit7C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2Issr9syuEqaUOfFRFXBms"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 571013,
+      "name": "Vem - Ao Vivo",
+      "url": "https://open.spotify.com/track/5IW9WRaLxJblCkVXhC1vye"
     },
     {
       "added_at": null,

@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "ARMAGED\u00d3N",
+        "url": "https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241038,
+      "name": "bien hecho",
+      "url": "https://open.spotify.com/track/1RKIZ8ItW0muYnz2vTcC4M"
+    },
+    {
+      "album": {
         "name": "bien hecho",
         "url": "https://open.spotify.com/album/5MNb2jx4ncbpNMimeEUczU"
       },
@@ -796,7 +814,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 225642,
       "name": "SAGITARIO A*",
       "url": "https://open.spotify.com/track/5wdqVslmjPk5nl4EmTeyEJ"

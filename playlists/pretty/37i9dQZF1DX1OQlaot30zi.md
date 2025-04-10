@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Neffa e Izi, Silent Bob, Baby Gang, Mambolosco, Beba e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,379 likes - 119 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,382 likes - 119 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 48 | [KAIOKEN X2](https://open.spotify.com/track/162UZDRBITYlWJRh4nEzI5) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [KAIOKEN X2](https://open.spotify.com/album/4LG23M9ncO84CmaY8QsUTZ) | 2:28 |
 | 49 | [Esse Type Beat](https://open.spotify.com/track/0H2F9iCoLCvcENTbScGrMM) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [esse](https://open.spotify.com/artist/2NpT5FefBTdvfkg8U1FMgL) | [Esse Type Beat](https://open.spotify.com/album/5TB8hn15rArunpy5YzShsx) | 2:19 |
 | 50 | [Prime 2](https://open.spotify.com/track/0SZa6iMolEtx19oDfUw8c2) | [Helena](https://open.spotify.com/artist/3YqQgRjT98ZzIhd9t8FHvt), [Tradez](https://open.spotify.com/artist/0U0PDeERGQ6XweVu4IYVmZ) | [Prime 2](https://open.spotify.com/album/6nYve6XLS3MMLGTMtQY74B) | 1:55 |
-| 51 | [Carriera](https://open.spotify.com/track/05Bl1Vwtl5S6V9n9ybebxX) | [G.Kres](https://open.spotify.com/artist/3Ek4gPnmrwsHtyQQWCdHsw) | [Carriera](https://open.spotify.com/album/0SSz3TzswCtH9DV1jer4Dy) | 1:19 |
+| 51 | [Carriera](https://open.spotify.com/track/05Bl1Vwtl5S6V9n9ybebxX) | [Kres](https://open.spotify.com/artist/3Ek4gPnmrwsHtyQQWCdHsw) | [Carriera](https://open.spotify.com/album/0SSz3TzswCtH9DV1jer4Dy) | 1:19 |
 | 52 | [Sotto Controllo \(Excalibur\)](https://open.spotify.com/track/3fjfQMMLPQqYHQE8pGAsLw) | [Reiven](https://open.spotify.com/artist/3TsvhhPzIS1solmv2MB02b), [Whellele](https://open.spotify.com/artist/0FLa2WN4PurUaFP24efaZF) | [Sotto Controllo \(Excalibur\)](https://open.spotify.com/album/2jVJ1ZPnvdzzRlyLjMW28X) | 3:09 |
 | 53 | [PENSI ANCORA A NOI?](https://open.spotify.com/track/1GAW62K2UHZkT3gi1X5ZII) | [Million](https://open.spotify.com/artist/0OTGCGd0v7B5QBXGuAfyN0), [Yoel](https://open.spotify.com/artist/5dDat3s8jwODKqY93IXLBU), [MasterMaind](https://open.spotify.com/artist/5hokAbx89tbpnccoyvxGA6) | [PENSI ANCORA A NOI?](https://open.spotify.com/album/6qw8MNDlCiaCGB4nVl67Mf) | 3:05 |
 | 54 | [DORMIRE A TESTA IN GIÙ](https://open.spotify.com/track/0oqPQ6YBB4pBU8uVLu28yK) | [BRESCO](https://open.spotify.com/artist/2RKPNB2UZU3nZqoGUFpFGC) | [DORMIRE A TESTA IN GIÙ](https://open.spotify.com/album/0YijqKVb19m3DxFW5S7TOg) | 2:57 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Adiva Adelia
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,660 likes - 86 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,661 likes - 86 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México 🎷🎹🎶🇲🇽
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,814 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,822 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 45 | [La Cocola](https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA) | [Gerardo Batiz](https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3) | [Soñe \- Jazz Mexicano](https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6) | 4:26 |
 | 46 | [Calladito Te Ves Mejor](https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu) | [La Bermúdez](https://open.spotify.com/artist/4T3iMc0MZ9Ix9GL8B57fDl), [Renee Goust](https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K) | [Calladito Te Ves Mejor](https://open.spotify.com/album/2idfSG1FdrwZ9VFkBPBo3C) | 3:56 |
 | 47 | [Las Pulgas Freeway](https://open.spotify.com/track/5AFlumcmhChuLqzrkPzj0M) | [Arturo Cipriano](https://open.spotify.com/artist/5MagvaL80lMCb6ZTiNHW0u), [Gerardo Batiz](https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3), [Sacbe](https://open.spotify.com/artist/2UA1zpDaD5s3Uy5R7JzzOh) | [Sacbe: Sacbe \(Complete\)](https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP) | 6:44 |
-| 48 | [Flor Latina](https://open.spotify.com/track/3zjRptZXqA1uhBwUkMl38W) | [Emmanuel Mora](https://open.spotify.com/artist/6iz12BR5JSoaySVJO3P0qm), [Alejandro Mora](https://open.spotify.com/artist/23YqoCb961qdeNiWEDxU5h), [Rodrigo Mora](https://open.spotify.com/artist/3owqtFutm6ZMbZZHBpLZj9), [Tirso Buenfil](https://open.spotify.com/artist/7o1EZ1rNSscAuLSw1fxraV) | [Estaciones](https://open.spotify.com/album/6ktr5l29j7H5yr6deaHJTu) | 5:50 |
-| 49 | [Ana's Song](https://open.spotify.com/track/5m9ubjmsr1Imfa26KulXz0) | [Patricia Carrión](https://open.spotify.com/artist/1OKNkm7GiyzPsp5xktd9Uj) | [Mujer De Luna](https://open.spotify.com/album/6T8B3gspDicZbXyDW37MV4) | 4:45 |
+| 48 | [Ana's Song](https://open.spotify.com/track/5m9ubjmsr1Imfa26KulXz0) | [Patricia Carrión](https://open.spotify.com/artist/1OKNkm7GiyzPsp5xktd9Uj) | [Mujer De Luna](https://open.spotify.com/album/6T8B3gspDicZbXyDW37MV4) | 4:45 |
+| 49 | [Andamos Huyendo](https://open.spotify.com/track/4utJIPfz1GOEnp3KNWkW1J) | [Amanda Tovalin](https://open.spotify.com/artist/5KxINF9FVTlXn05DJB6WBK) | [Andamos Huyendo](https://open.spotify.com/album/6FJPUB4pLZxCKGUJDgDHQQ) | 4:51 |
 | 50 | [Fíeme una Coca, No?](https://open.spotify.com/track/1ItJeVpac8LmFL9LyqMFJo) | [Tlapalería Don Chuy](https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj) | [Tlapalería Don Chuy](https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx) | 7:01 |
 
 Snapshot ID: `Zs/mYwAAAACgW007IyvbDbcG4YieBw2Q`

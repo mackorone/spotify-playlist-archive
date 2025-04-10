@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 
 > Beautifully dark, dramatic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 849,727 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,802 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,13 +99,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 89 | [Devil Like Me](https://open.spotify.com/track/0HsGh7cboYz6cVMIyFrQ8j) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Seven + Mary](https://open.spotify.com/album/4lGNpgFI67TUq5BMfnPe3Z) | 3:08 |
 | 90 | [I Need My Girl](https://open.spotify.com/track/7rbCL7W893Zonbfnevku5s) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/2JhR4tjuc3MIKa8v2JaKze) | 4:05 |
 | 91 | [Garden Song](https://open.spotify.com/track/5uQRmdIqyMmKPWJcot4UmV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:39 |
-| 92 | [Sirens](https://open.spotify.com/track/31fhJR9Lop1IScpn1B86k6) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Sirens](https://open.spotify.com/album/2xXupTEc3wDkMcfp8zDwd4) | 4:26 |
-| 93 | [The Swimmer \(To Be an Old Man\)](https://open.spotify.com/track/7LEGwwvRtilCPvNrHxxRGw) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Bravado](https://open.spotify.com/album/6HG6bnPHDDW3R6RBlJBFGq) | 4:07 |
+| 92 | [Byegone](https://open.spotify.com/track/6MMojjMFcyv3btdSXFGeYc) | [Volcano Choir](https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO) | [Repave](https://open.spotify.com/album/589MwkeuVyR5wMAMP07ARA) | 4:22 |
+| 93 | [Sirens](https://open.spotify.com/track/31fhJR9Lop1IScpn1B86k6) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Sirens](https://open.spotify.com/album/2xXupTEc3wDkMcfp8zDwd4) | 4:26 |
 | 94 | [Riverside](https://open.spotify.com/track/7kaub3iYrvVz5gaPVemsWE) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/7oTWCoBLYtzURvGTFysNf1) | 3:50 |
-| 95 | [Byegone](https://open.spotify.com/track/6MMojjMFcyv3btdSXFGeYc) | [Volcano Choir](https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO) | [Repave](https://open.spotify.com/album/589MwkeuVyR5wMAMP07ARA) | 4:22 |
-| 96 | [Cold](https://open.spotify.com/track/66TaoPJqwSAK1oLxBsgG8n) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Woodgate, NY](https://open.spotify.com/album/3OswHF7nqo4htN5OpRH9dz) | 4:23 |
-| 97 | [Crush \- Stripped](https://open.spotify.com/track/0pvUUXfn0avFTZYOFVjPX4) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush \(Stripped\)](https://open.spotify.com/album/1Z4jaVCQECJE5qeOafvWsw) | 3:49 |
-| 98 | [My Love Took Me Down To The River To Silence Me](https://open.spotify.com/track/0x1mjEve6LgDbFqBO36p0X) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/0FSlXUD9lWwWP1NkfiNmQH) | 5:00 |
+| 95 | [The Swimmer \(To Be an Old Man\)](https://open.spotify.com/track/7LEGwwvRtilCPvNrHxxRGw) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Bravado](https://open.spotify.com/album/6HG6bnPHDDW3R6RBlJBFGq) | 4:07 |
+| 96 | [Houston TX](https://open.spotify.com/track/6EaQXxdO9diXNDrO2vmMtJ) | [Aidan Knight](https://open.spotify.com/artist/2CRrtAFY6WonETiQktbRe9) | [Aidan Knight](https://open.spotify.com/album/2IsJvOVAVDq7aHN8sRhGni) | 5:16 |
+| 97 | [Cold](https://open.spotify.com/track/66TaoPJqwSAK1oLxBsgG8n) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Woodgate, NY](https://open.spotify.com/album/3OswHF7nqo4htN5OpRH9dz) | 4:23 |
+| 98 | [Crush \- Stripped](https://open.spotify.com/track/0pvUUXfn0avFTZYOFVjPX4) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush \(Stripped\)](https://open.spotify.com/album/1Z4jaVCQECJE5qeOafvWsw) | 3:49 |
 | 99 | [The System Only Dreams in Total Darkness](https://open.spotify.com/track/5t8OscU60DLybml2sjwhri) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [The System Only Dreams in Total Darkness](https://open.spotify.com/album/3pAiwtyDr7ovW1k9WVLqu9) | 3:56 |
 | 100 | [Killer + The Sound](https://open.spotify.com/track/1xuA8vy1KA1cfP5UQ7NYSS) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Abby Gundersen](https://open.spotify.com/artist/5BlKoQLYxv24MSV5AD6i6q) | [Killer + The Sound](https://open.spotify.com/album/4vkODa4y4DQzFOOYfAK8EV) | 7:55 |
 

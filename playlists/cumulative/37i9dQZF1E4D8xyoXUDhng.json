@@ -218,7 +218,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 301226,
       "name": "A Heart That Forgives",
       "url": "https://open.spotify.com/track/57iQXTRzaKvQnaIJXiDFlO"
@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 332913,
       "name": "Alright Alright",
       "url": "https://open.spotify.com/track/52lA3wEgYjgESig01Iw0HM"
@@ -3326,7 +3326,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 415560,
       "name": "Call Him Up",
       "url": "https://open.spotify.com/track/0RlJdVpgOjyQ6AOtxP3b7y"
@@ -3438,7 +3438,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-03",
+      "date_removed": null,
       "duration_ms": 347833,
       "name": "Can't Turn Back",
       "url": "https://open.spotify.com/track/5UTypRydwZjfdkf8Aghvwk"
@@ -3890,7 +3890,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-30",
+      "date_removed": null,
       "duration_ms": 438960,
       "name": "Come On In the Room",
       "url": "https://open.spotify.com/track/0LfPC4pCvTJSvhgmc5lzhc"
@@ -6050,7 +6050,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 280640,
       "name": "Fix Me",
       "url": "https://open.spotify.com/track/3qvnpw1KkDiQOHLytpqqXs"
@@ -9022,7 +9022,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-08",
+      "date_removed": null,
       "duration_ms": 343133,
       "name": "He Loves Me",
       "url": "https://open.spotify.com/track/3N7VZ3bFgZ2JMwxTvw1n19"
@@ -10178,7 +10178,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-07",
+      "date_removed": null,
       "duration_ms": 212173,
       "name": "His Eye Is On The Sparrow",
       "url": "https://open.spotify.com/track/65QGMwTh15KhXgqjSCIWSr"
@@ -10340,7 +10340,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-08",
+      "date_removed": null,
       "duration_ms": 351240,
       "name": "Hold Me Now",
       "url": "https://open.spotify.com/track/0V9X25GyJcv39iz8UDsgIU"
@@ -11892,7 +11892,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-07",
+      "date_removed": null,
       "duration_ms": 301466,
       "name": "I Just Can't Give Up Now",
       "url": "https://open.spotify.com/track/1lvAyqOIXe3NpN0Rt9rztS"
@@ -12106,7 +12106,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-07",
+      "date_removed": null,
       "duration_ms": 296373,
       "name": "I Love The Lord (with Georgia Mass Choir)",
       "url": "https://open.spotify.com/track/2xrXUa8o1JJtz8nobY2UsY"
@@ -12644,7 +12644,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 421220,
       "name": "I Threw In The Towel",
       "url": "https://open.spotify.com/track/13BNT5tyNkMGQUxYKijweO"
@@ -12674,7 +12674,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-09",
+      "date_removed": null,
       "duration_ms": 289500,
       "name": "I Threw in the Towel - Radio Edit",
       "url": "https://open.spotify.com/track/3zdaL9qdMNcGi0kCRE4WlD"
@@ -13487,6 +13487,28 @@
     },
     {
       "album": {
+        "name": "The Life Project",
+        "url": "https://open.spotify.com/album/2lcz20I84GFNbynt1xMUxL"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        },
+        {
+          "name": "Nariah Smith",
+          "url": "https://open.spotify.com/artist/444rdaACvT2M4F8IJ3TGJW"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224840,
+      "name": "I'm Beautiful (feat. Nariah Smith)",
+      "url": "https://open.spotify.com/track/4FDRzmuumPv1VKbDnkBAe1"
+    },
+    {
+      "album": {
         "name": "When God's Children Get Together",
         "url": "https://open.spotify.com/album/6aHHfdN0k5Gjff3hHYsjQm"
       },
@@ -14254,7 +14276,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-25",
+      "date_removed": null,
       "duration_ms": 268979,
       "name": "If My People",
       "url": "https://open.spotify.com/track/1aFQRba6ZsmNCQzkd0MV9j"
@@ -14398,7 +14420,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 289168,
       "name": "In His Name",
       "url": "https://open.spotify.com/track/2fW3KBg6f3ocIkeuGFh7sy"
@@ -15730,7 +15752,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-07",
+      "date_removed": null,
       "duration_ms": 292680,
       "name": "Jesus Loves Me - A Capella Version",
       "url": "https://open.spotify.com/track/5GPK5xpGAoLOTyZihZr0V9"
@@ -16150,7 +16172,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 403426,
       "name": "Joy",
       "url": "https://open.spotify.com/track/2hNFryDQo4b0HEmYA9HNo6"
@@ -17102,7 +17124,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 212360,
       "name": "Let Everything That Hath Breath (Psalm 150)",
       "url": "https://open.spotify.com/track/6mdwlhrVtshKNFnQw4ZJZQ"
@@ -18382,7 +18404,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 313786,
       "name": "Love Isn't Love",
       "url": "https://open.spotify.com/track/0dpMtEYKo7cCJk2UzdzZ0l"
@@ -19306,7 +19328,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 255266,
       "name": "Miracles & Blessings",
       "url": "https://open.spotify.com/track/5YoAXTkPLzF2DGdukVDc5P"
@@ -20458,7 +20480,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 249984,
       "name": "Never Left Me Alone",
       "url": "https://open.spotify.com/track/6Ow2S3oWDyPvAkgvvnwoA1"
@@ -23862,7 +23884,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-04",
+      "date_removed": null,
       "duration_ms": 420346,
       "name": "Revelation 19:1",
       "url": "https://open.spotify.com/track/2ZNTu9FGzly5jafl5xM8df"
@@ -24208,7 +24230,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-08",
+      "date_removed": null,
       "duration_ms": 208472,
       "name": "Safe In His Arms",
       "url": "https://open.spotify.com/track/3aqTs1agcNKsBo6verQzus"
@@ -26532,7 +26554,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 253625,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/35A5y8tHvRrLOleQDsNu76"
@@ -28376,7 +28398,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 414095,
       "name": "The Prayer",
       "url": "https://open.spotify.com/track/51PvJc0Dew1klhEIEadDhu"
@@ -28424,7 +28446,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-09",
+      "date_removed": null,
       "duration_ms": 395613,
       "name": "The Presence of the Lord Is Here",
       "url": "https://open.spotify.com/track/0j7NzeiNUJfpqTdE2P3lcX"
@@ -29328,7 +29350,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 119992,
       "name": "To God Be the Glory - From \"Pose: Season 3\"",
       "url": "https://open.spotify.com/track/3t9IjaZT36XaqOcVsTT7QN"
@@ -30644,7 +30666,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 483786,
       "name": "Way Maker",
       "url": "https://open.spotify.com/track/0iHROg0uOUy4dD0xXU4LCr"
@@ -31006,7 +31028,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-08",
+      "date_removed": null,
       "duration_ms": 151573,
       "name": "What A Beautiful Name - A Cappella Version",
       "url": "https://open.spotify.com/track/2J2pgeCxen6pU1Zm7bXjWb"
@@ -31526,7 +31548,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 219065,
       "name": "Whole World In His Hands - Radio Edit",
       "url": "https://open.spotify.com/track/2rH6klpQqamjrWudLnKCmQ"
@@ -31960,7 +31982,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-08",
+      "date_removed": null,
       "duration_ms": 305000,
       "name": "Years and Years",
       "url": "https://open.spotify.com/track/3znZxD0rkQIb2XyTD92JzD"

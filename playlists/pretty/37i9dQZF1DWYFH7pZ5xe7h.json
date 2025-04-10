@@ -1,6 +1,6 @@
 {
   "description": "Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.",
-  "num_followers": 54246,
+  "num_followers": 54256,
   "original_name": "This Is Mahler",
   "owner": {
     "name": "Spotify",
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
         }
       ],
-      "duration_ms": 222800,
-      "name": "Lieder eines fahrenden Gesellen: Wenn mein Schatz Hochzeit macht",
-      "url": "https://open.spotify.com/track/0xV23aZ72bfHsiniUjg9o9"
+      "duration_ms": 225720,
+      "name": "Lieder eines fahrenden Gesellen: Gieng heut' Morgen \u00fcber's Feld",
+      "url": "https://open.spotify.com/track/14IEaSAVPyMd1l2CNSw4At"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
         }
       ],
-      "duration_ms": 225720,
-      "name": "Lieder eines fahrenden Gesellen: Gieng heut' Morgen \u00fcber's Feld",
-      "url": "https://open.spotify.com/track/14IEaSAVPyMd1l2CNSw4At"
+      "duration_ms": 222800,
+      "name": "Lieder eines fahrenden Gesellen: Wenn mein Schatz Hochzeit macht",
+      "url": "https://open.spotify.com/track/0xV23aZ72bfHsiniUjg9o9"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1271,30 +1271,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Das Lied von der Erde",
-        "url": "https://open.spotify.com/album/4PLnFO9I99tGcWuuxWCnkp"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Kent Nagano",
-          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
-        },
-        {
-          "name": "Orchestre Symphonique de Montr\u00e9al",
-          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
-        }
-      ],
-      "duration_ms": 250986,
-      "name": "Das Lied von der Erde: V. Der Trunkene im Fr\u00fchling",
-      "url": "https://open.spotify.com/track/6edUx0kf2GViMiIRu8wAKQ"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Boulez - Mahler",
         "url": "https://open.spotify.com/album/6reobqFtAW1qGIwfiaDVWO"
       },
@@ -1343,6 +1319,30 @@
       "duration_ms": 194266,
       "name": "Das Lied von der Erde: III. Von der Jugend",
       "url": "https://open.spotify.com/track/6fAj71NW0waaUp5BunIb3n"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Das Lied von der Erde",
+        "url": "https://open.spotify.com/album/4PLnFO9I99tGcWuuxWCnkp"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Kent Nagano",
+          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
+        },
+        {
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+        }
+      ],
+      "duration_ms": 250986,
+      "name": "Das Lied von der Erde: V. Der Trunkene im Fr\u00fchling",
+      "url": "https://open.spotify.com/track/6edUx0kf2GViMiIRu8wAKQ"
     },
     {
       "added_at": "2022-06-27 09:16:34",

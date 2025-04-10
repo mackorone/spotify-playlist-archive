@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNG2KDcFcKOF.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Global.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,597,575 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,598,192 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNG2KDcFcKOF.md) - [plain]
 | 35 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
 | 36 | [capaz \(merengueton\)](https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:53 |
 | 37 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 |
-| 38 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 |
+| 38 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 |
 | 39 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 |
 | 40 | [Morena](https://open.spotify.com/track/4oB8Xd7gMlUEtWoD8bmCXW) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 3:13 |
 | 41 | [RATHER LIE \(with The Weeknd\)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNG2KDcFcKOF.md) - [plain]
 | 49 | [VeLDÁ](https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:55 |
 | 50 | [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:03 |
 
-Snapshot ID: `L4iRIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L4nioAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: NiziU \(니쥬\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: 오마이걸 \(OH MY GIRL\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-470 songs - 1 day 1 hr 50 min
+472 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [BBoom BBoom](https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [GREAT!](https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4) | 3:28 | 2022-03-29 |  |
 | [Be With You](https://open.spotify.com/track/46TStqCoE5i72Tt9KKwKfc) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [To\. Heart](https://open.spotify.com/album/0b1tsnRd7eu0q4qaeCLsQa) | 3:50 | 2021-11-29 | 2022-07-26 |
 | [BeBe](https://open.spotify.com/track/3fRutnpPQkVTuDj9zOpoiB) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [THE SECRET](https://open.spotify.com/album/0usNbLkckzIo34wUPehZdh) | 3:18 | 2021-11-29 | 2022-07-07 |
-| [because I'm stupid? \(feat\. KIXO\)](https://open.spotify.com/track/7wb12ZFRhL9Tmt2GedW1RS) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB), [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS) | [because I'm stupid? \(feat\. KIXO\)](https://open.spotify.com/album/217BpIDe2TpUsAGbCzuFIk) | 2:04 | 2025-03-27 |  |
+| [because I'm stupid? \(feat\. KIXO\)](https://open.spotify.com/track/7wb12ZFRhL9Tmt2GedW1RS) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB), [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS) | [because I'm stupid? \(feat\. KIXO\)](https://open.spotify.com/album/217BpIDe2TpUsAGbCzuFIk) | 2:04 | 2025-03-27 | 2025-04-10 |
 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 | 2023-08-18 |  |
 | [Between Us Two](https://open.spotify.com/track/1Y1SDO0lOoqQyKdyXshPEy) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [MIRACLE \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/1sbxBftngSZNdq9ZM6aV1W) | 3:11 | 2022-06-09 | 2022-07-26 |
 | [Birthday](https://open.spotify.com/track/2yeUTELaBRpyY0e43F6skB) | [Nody Cika](https://open.spotify.com/artist/2pETIGvbFcdUF0CnODpycj) | [Birthday](https://open.spotify.com/album/3sOAX8284RnBctv1fPJ0Cl) | 2:53 | 2021-11-29 | 2022-07-28 |
@@ -191,7 +191,7 @@
 | [In the Same Place](https://open.spotify.com/track/5Fkxps5UUaYg2jANR5SlOl) | [GIRLS ON TOP](https://open.spotify.com/artist/4s6Syi6HNugQf7LmbFoSdt) | [PRODUCE 101: 35 Girls 5 Concepts](https://open.spotify.com/album/23WQRmPCr2qacsex7NWgkL) | 3:05 | 2021-11-29 | 2022-07-24 |
 | [Invincible](https://open.spotify.com/track/3FWXkGqJx0giJzQNqkcK74) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [EVOLution <⟡>](https://open.spotify.com/album/3Y0JJMZ92U2D5zKGQDfkH5) | 3:17 | 2023-10-11 | 2023-12-10 |
 | [It is said](https://open.spotify.com/track/0Wh19bKFCH8x2HwQhwQZmu) | [OH MY GIRL BANHANA](https://open.spotify.com/artist/0X1f2U9bxiC3DhKA8OcvgG) | [BANANA ALLERGY MONKEY](https://open.spotify.com/album/3dGBubYrajwhcnMubZ3H8F) | 3:31 | 2022-04-04 | 2022-04-28 |
-| [IWALY](https://open.spotify.com/track/4SwXtg8jDejWX18zLsZwCO) | [I\-LAND2 : N/a](https://open.spotify.com/artist/5wA7TzIKrDqmlnEFk6t1y4) | [I\-LAND2 : N/a \- 1:1 POSITION BATTLE](https://open.spotify.com/album/7zjYgWfGErSNv1Zs2IGDGl) | 3:03 | 2024-05-27 |  |
+| [IWALY](https://open.spotify.com/track/4SwXtg8jDejWX18zLsZwCO) | [I\-LAND2 : N/a](https://open.spotify.com/artist/5wA7TzIKrDqmlnEFk6t1y4) | [I\-LAND2 : N/a \- 1:1 POSITION BATTLE](https://open.spotify.com/album/7zjYgWfGErSNv1Zs2IGDGl) | 3:03 | 2024-05-27 | 2025-04-10 |
 | [JACKPOT](https://open.spotify.com/track/1n5cGoShTaChH3yQyNQIY5) | [ALICE](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) | [JACKPOT](https://open.spotify.com/album/4zMss13uNw7D8cYEALWXEe) | 3:25 | 2022-01-04 | 2022-07-18 |
 | [January 0th \(a hope song\)](https://open.spotify.com/track/351Zol0N2J9Hrbm3rhzcrV) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [‘the Billlie’s odditorium’ the second edition](https://open.spotify.com/album/3T3bfhaZn0RFiWdGOnmTzu) | 3:55 | 2024-01-03 | 2024-02-15 |
 | [Je T'aime](https://open.spotify.com/track/3wS47sXPddjE6rbhU7u20w) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Je T'aime](https://open.spotify.com/album/1RzqZoXe1bf1f48PK20EeH) | 4:21 | 2021-11-29 | 2022-07-28 |
@@ -270,6 +270,7 @@
 | [My My](https://open.spotify.com/track/7lrLDy8ZYL5KLx2Z9GZTaP) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Snow Pink](https://open.spotify.com/album/19b3lwHo0nKeh11ZL2znNr) | 3:54 | 2021-11-29 | 2022-06-12 |
 | [My World](https://open.spotify.com/track/2Xiaplc23BureS4EDeE8xa) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 1:47 | 2024-03-27 | 2025-03-11 |
 | [NAVILLERA](https://open.spotify.com/track/2Oi0IO8K4BEbhPUdWcjNmv) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 1st Album 'LOL'](https://open.spotify.com/album/0PlSM2Hml1cFANnzYu6RCg) | 3:13 | 2021-11-29 | 2024-07-06 |
+| [NERDY](https://open.spotify.com/track/6maRkcBnkwVL0uwjjGazFT) | [ifeye](https://open.spotify.com/artist/1g971p3BXozVYNCn7JRMNa) | [ERLU BLUE](https://open.spotify.com/album/1FCqBar1R2jOcwcR7TyVTS) | 3:12 | 2025-04-09 |  |
 | [NEW NEW](https://open.spotify.com/track/1z2vNmmIFLSw7zfhr2hxWt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:01 | 2024-04-17 | 2024-05-06 |
 | [NINETEEN](https://open.spotify.com/track/3mVzC9U8eyAmDNWnPniCIN) | [NATTY](https://open.spotify.com/artist/1Y3klzPXyHrinIk3tQ20Se) | [NINETEEN](https://open.spotify.com/album/6XnFMmVnbFEDnFjc6xRw2g) | 3:03 | 2021-11-29 | 2022-07-29 |
 | [No Oh Oh](https://open.spotify.com/track/4XeQFSPMRpru7afNxa01Lr) | [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) | [Nu.Clear](https://open.spotify.com/album/2Izm951aqeQTSHrJW0hZ16) | 3:43 | 2021-11-29 | 2022-04-14 |
@@ -284,6 +285,7 @@
 | [Obliviate](https://open.spotify.com/track/4cyVnu1W88UuIdNusX8D1A) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz 7th Mini Album \[Unforgettable\]](https://open.spotify.com/album/5M1EFepUUqZig7XzN6qtB8) | 3:22 | 2021-11-29 | 2022-07-28 |
 | [Off The Record](https://open.spotify.com/track/3G7MgLuWLzUJQflWOCDZit) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Off The Record](https://open.spotify.com/album/7qch1xWGWuU5VxZEYBF5KW) | 3:08 | 2023-10-06 |  |
 | [Oh \(Yes I Am\)](https://open.spotify.com/track/5l8Vpgx92aqAuniKsSKbyZ) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[\#\]](https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC) | 3:15 | 2022-06-24 | 2022-07-13 |
+| [Oh My](https://open.spotify.com/track/1rTMIstU7GaHqRyYlPrHGd) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Oh My](https://open.spotify.com/album/5wSh6Aw0IamviaLSPnW7vV) | 2:58 | 2025-04-09 |  |
 | [OMG \(FRNK Remix\)](https://open.spotify.com/track/4yjDMKCAeLovlo9ih0AgXW) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 3:30 | 2023-12-21 | 2024-05-16 |
 | [One](https://open.spotify.com/track/7aR4PWVTC0okaPIQWMgePz) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND 2nd Mini Album 'Flower Bud'](https://open.spotify.com/album/2mou6C67yLJkKWjV0FuXg7) | 3:14 | 2022-03-29 | 2022-04-18 |
 | [ONION \(feat\. Suk Hoon Chang\)](https://open.spotify.com/track/3Ivg8dodsNmteJwA8hyQge) | [Min](https://open.spotify.com/artist/34i0mYEs7QoU4YbBjvzEiA), [Suk Hoon Chang](https://open.spotify.com/artist/3kR0K5YzUmjDHQbh3W8zaW) | [ONION](https://open.spotify.com/album/2OqY8Ykt2djgjzszye4ahM) | 3:42 | 2021-11-29 | 2022-07-29 |

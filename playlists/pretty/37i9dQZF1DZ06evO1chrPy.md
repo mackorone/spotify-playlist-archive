@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPy.md) - [plain]
 
 > This is Cage The Elephant\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,310 likes - 41 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,323 likes - 41 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPy.md) - [plain]
 | 13 | [Ready To Let Go](https://open.spotify.com/track/4UyAtnwhaKv7EG1BdkBYRI) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:07 |
 | 14 | [Back Against the Wall](https://open.spotify.com/track/0vz64VTiPPBpcmla0QvAI9) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 3:48 |
 | 15 | [Mess Around](https://open.spotify.com/track/0X0Lz7LwpiIWcdGqVWaxXD) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 2:53 |
-| 16 | [Spiderhead](https://open.spotify.com/track/5r5Lj2MkgwQJz6TaBdL865) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:42 |
+| 16 | [Metaverse](https://open.spotify.com/track/49ukvVBtVT9Y575F6VY33G) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 2:14 |
 | 17 | [Black Madonna](https://open.spotify.com/track/4Y6GIje3GErVRIq1Ff5BJq) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:46 |
-| 18 | [Metaverse](https://open.spotify.com/track/49ukvVBtVT9Y575F6VY33G) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 2:14 |
+| 18 | [Spiderhead](https://open.spotify.com/track/5r5Lj2MkgwQJz6TaBdL865) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:42 |
 | 19 | [In One Ear](https://open.spotify.com/track/2VRJIIzbhhOGaxAhwCMfZX) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 4:01 |
 | 20 | [Too Late To Say Goodbye](https://open.spotify.com/track/48sc7vBJeNoCEQhxO3zYKA) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 4:12 |
 | 21 | [Skin and Bones](https://open.spotify.com/track/6ubPFMzlIg73d1jzzWcC8B) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:16 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPy.md) - [plain]
 | 40 | [Back Stabbin' Betty](https://open.spotify.com/track/60AGFQbS6ViLy1dcnL9427) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 3:39 |
 | 41 | [Lotus](https://open.spotify.com/track/3cPLWRuXjNsqqNuZRosZaD) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 3:16 |
 
-Snapshot ID: `Z/MVgAAAAAAdm5Ub+o8DlUGTTm49HbYn`
+Snapshot ID: `Z/RnAAAAAAAaXtmNGC2gk1CTE8Jveo+G`

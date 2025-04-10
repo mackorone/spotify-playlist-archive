@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4fwx2r07XW.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Australia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,284 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,307 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4fwx2r07XW.md) - [plain]
 | 49 | [dandelion](https://open.spotify.com/track/6wZOZ0votPhc8qdg4UFPtH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd) | 3:24 |
 | 50 | [Somedays](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Somedays](https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK) | 3:27 |
 
-Snapshot ID: `L4iRIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L4nioAAAAAAAAAAAAAAAAAAAAAAAAGVu`

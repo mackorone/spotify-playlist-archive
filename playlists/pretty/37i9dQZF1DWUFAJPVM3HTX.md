@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3yZJfp37SK7V6yHh3oAGoB?si=\_OxBvkS2QN\-tYpDvQVTwvQ"> EJ Ross</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,732 likes - 300 songs - 15 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,886 likes - 300 songs - 15 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 91 | [The One](https://open.spotify.com/track/5OhddZKO8AJXwBNIqXO6WO) | [Victoria Jane](https://open.spotify.com/artist/4yzd8hpbhNHSo2AiJik0FA), [John Givez](https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB) | [The One](https://open.spotify.com/album/5JS9i5x1kPf6O1TBV3VWqg) | 4:46 |
 | 92 | [Inconsistent](https://open.spotify.com/track/6hHzkZ5HxJQKRVU8L7yKvn) | [Mille Manny](https://open.spotify.com/artist/0scPk1BXSNnmUMhUe7gONJ), [BlvkM0nd4y](https://open.spotify.com/artist/5tAQ3z3NKgZW03EeWa2jE6) | [Inconsistent](https://open.spotify.com/album/0FaZXreBeY9EqWLhBDBooj) | 3:59 |
 | 93 | [Atlanta Girls](https://open.spotify.com/track/1eIo45uyuDtr47HYVqsHoU) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Omeretta the Great](https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx) | [Atlanta Girls](https://open.spotify.com/album/24BEJt4jAwYUWKjGEVOkJK) | 2:42 |
-| 94 | [Crush](https://open.spotify.com/track/1VSDbU74MltGcjMKEhIwv7) | [Breyan Bliss](https://open.spotify.com/artist/4vqBYwt9I3UMHhzFZHylRT) | [Crush](https://open.spotify.com/album/41n3RuU2p8ORdlT0tRmra5) | 3:34 |
+| 94 | [CRUSH](https://open.spotify.com/track/1VSDbU74MltGcjMKEhIwv7) | [Breyan Bliss](https://open.spotify.com/artist/4vqBYwt9I3UMHhzFZHylRT) | [CRUSH](https://open.spotify.com/album/41n3RuU2p8ORdlT0tRmra5) | 3:34 |
 | 95 | [Pretty Girls Like R&B](https://open.spotify.com/track/4rYAFaC42GZuSM5PTv2ili) | [Aaron Page](https://open.spotify.com/artist/3VDL2INkcXTUD91WQ5qqEJ) | [Pretty Girls Like R&B](https://open.spotify.com/album/0Tij4YB5O8MByK4Ze0SnqF) | 2:24 |
 | 96 | [Baggage](https://open.spotify.com/track/0rwEsOUBWv4MdKCmWQwTwM) | [Autumn Paige](https://open.spotify.com/artist/2Fb9GeVx07GAvFx4htGCLu) | [Baggage](https://open.spotify.com/album/2Hyu5fa1d6b5KhSURC8oQY) | 3:12 |
 | 97 | [DONT LET ME DOWN](https://open.spotify.com/track/2WkIkGfxIkzWA8AqTDMF7p) | [John Givez](https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB) | [DONT LET ME DOWN](https://open.spotify.com/album/2NVwmnLZXgMvhttEG04vSR) | 2:26 |

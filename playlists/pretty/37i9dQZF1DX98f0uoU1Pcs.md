@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > a experimental mix of rock, punk, alt & indie\. Cover: Model/Actriz
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,026 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,079 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,15 +95,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 85 | [Burn It Away](https://open.spotify.com/track/69bJGbmDoTzpgbrfsuF2Ii) | [Will Butler + Sister Squares](https://open.spotify.com/artist/2PoDtU1peduJm6HDYtNuaj), [Will Butler](https://open.spotify.com/artist/1POwuKLQ9xhMZzIYElNtWp), [Sister Squares](https://open.spotify.com/artist/1TOW2EEmDmqHe2i7gt2NLZ) | [Burn It Away](https://open.spotify.com/album/32tuGofvxiyOCpx1SfoNBj) | 4:04 |
 | 86 | [Hourglass](https://open.spotify.com/track/4xz812KZKSW4AewiBoYWWP) | [CIVIC](https://open.spotify.com/artist/7ATw5ZiG6dfYFUUVpCsyFe) | [Hourglass](https://open.spotify.com/album/6YN3jTgx4d03QBgLgeSBPu) | 4:02 |
 | 87 | [Cockpit](https://open.spotify.com/track/2sDNl24Qmjani2isK1xm5R) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Cockpit](https://open.spotify.com/album/0gkzzfLU4VvSrpakV6IM8i) | 4:16 |
-| 88 | [I Wanna Be On Your Mind](https://open.spotify.com/track/57YrZGiM3VeXV1jWWSuuwD) | [2nd Grade](https://open.spotify.com/artist/6mG7RLvtGBHIg4jdb8urYb) | [I Wanna Be On Your Mind](https://open.spotify.com/album/3eBSE3aibxYGrWQNCpTTFa) | 2:28 |
-| 89 | [Default Parody](https://open.spotify.com/track/1H92yQ4R0sreZR0kDvTE2s) | [Drahla](https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR) | [Default Parody](https://open.spotify.com/album/2zHGFKgsqN5tYmpPGoxWK8) | 3:27 |
+| 88 | [Default Parody](https://open.spotify.com/track/1H92yQ4R0sreZR0kDvTE2s) | [Drahla](https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR) | [Default Parody](https://open.spotify.com/album/2zHGFKgsqN5tYmpPGoxWK8) | 3:27 |
+| 89 | [I Wanna Be On Your Mind](https://open.spotify.com/track/57YrZGiM3VeXV1jWWSuuwD) | [2nd Grade](https://open.spotify.com/artist/6mG7RLvtGBHIg4jdb8urYb) | [I Wanna Be On Your Mind](https://open.spotify.com/album/3eBSE3aibxYGrWQNCpTTFa) | 2:28 |
 | 90 | [Big Dogs](https://open.spotify.com/track/6kkRGWw1IlO0VboVlZPMah) | [Sour Widows](https://open.spotify.com/artist/5NvbTsi0Mi1mdeDchU2YkG) | [Big Dogs](https://open.spotify.com/album/1gC7edlkh3u9AvdG9hUfRX) | 5:31 |
-| 91 | [Hide & Seek](https://open.spotify.com/track/7tJwNCxACiqdewg8dODKAL) | [The Jesus Lizard](https://open.spotify.com/artist/6r26MaDr8bqNALjXgYPXMa) | [Hide & Seek](https://open.spotify.com/album/2OUAkno2xG9rjGhHlt0pqM) | 3:04 |
-| 92 | [Cosmic Leash](https://open.spotify.com/track/0irMOFfqBjlDPZXKL3v9XH) | [Chris Farren](https://open.spotify.com/artist/6wnLSjE93qaj9uf3rVaM3N) | [Cosmic Leash](https://open.spotify.com/album/6P2EWBqxU91oy4ydMRQyOt) | 4:41 |
+| 91 | [Cosmic Leash](https://open.spotify.com/track/0irMOFfqBjlDPZXKL3v9XH) | [Chris Farren](https://open.spotify.com/artist/6wnLSjE93qaj9uf3rVaM3N) | [Cosmic Leash](https://open.spotify.com/album/6P2EWBqxU91oy4ydMRQyOt) | 4:41 |
+| 92 | [Hide & Seek](https://open.spotify.com/track/7tJwNCxACiqdewg8dODKAL) | [The Jesus Lizard](https://open.spotify.com/artist/6r26MaDr8bqNALjXgYPXMa) | [Hide & Seek](https://open.spotify.com/album/2OUAkno2xG9rjGhHlt0pqM) | 3:04 |
 | 93 | [Stare At The Sun](https://open.spotify.com/track/0dNuX5ft4fSSgKsRau3JEP) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Stare At The Sun](https://open.spotify.com/album/238Qlq3yh7LNfO3e5TD1uu) | 3:32 |
-| 94 | [Art History](https://open.spotify.com/track/6ZW6mNdkyhqe7ouKpFTImd) | [Perennial](https://open.spotify.com/artist/7oLhWWqX188fvNQ6aqxLz3) | [Lemon On Plastic](https://open.spotify.com/album/0RBK3b5Ctnmd4bM7zfyUkv) | 1:05 |
-| 95 | [Honey](https://open.spotify.com/track/3EGN9B0DmjSBMBKzZVMSAM) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Honey](https://open.spotify.com/album/7dQTDkq3YrRmbEs7fMatlJ) | 2:36 |
-| 96 | [Sprinter Brain](https://open.spotify.com/track/6LpeIYweJ6zRPwmrkfYSXH) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Sprinter Brain](https://open.spotify.com/album/7ffqTwYP0LTX6jzLTugejN) | 3:43 |
+| 94 | [Honey](https://open.spotify.com/track/3EGN9B0DmjSBMBKzZVMSAM) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Honey](https://open.spotify.com/album/7dQTDkq3YrRmbEs7fMatlJ) | 2:36 |
+| 95 | [Sprinter Brain](https://open.spotify.com/track/6LpeIYweJ6zRPwmrkfYSXH) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Sprinter Brain](https://open.spotify.com/album/7ffqTwYP0LTX6jzLTugejN) | 3:43 |
+| 96 | [Art History](https://open.spotify.com/track/6ZW6mNdkyhqe7ouKpFTImd) | [Perennial](https://open.spotify.com/artist/7oLhWWqX188fvNQ6aqxLz3) | [Lemon On Plastic](https://open.spotify.com/album/0RBK3b5Ctnmd4bM7zfyUkv) | 1:05 |
 | 97 | [Gold](https://open.spotify.com/track/2EonwBGjylKZocutExSRzY) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Gold](https://open.spotify.com/album/41Thjpf8tfM3U0UHwrP0EK) | 4:19 |
 | 98 | [Tongues ii](https://open.spotify.com/track/5hsiKHlyGKPgJgxKRzU01O) | [Slomo Sapiens](https://open.spotify.com/artist/1TDdS4QH1Z5hNQNe4YeM3Q) | [Tongues ii](https://open.spotify.com/album/39eb7GTOFKzbixXcKZBA3p) | 5:36 |
 | 99 | [Four Leaf Clover](https://open.spotify.com/track/1DcwU4YZNlruivfMakFEJC) | [Color Green](https://open.spotify.com/artist/42Aj8msFQ4idllOK09Jj8Z) | [Four Leaf Clover](https://open.spotify.com/album/7CftsuUoHUasICQmRA44xB) | 4:34 |

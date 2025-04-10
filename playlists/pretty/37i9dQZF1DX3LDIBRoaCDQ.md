@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 
 > Classic songs that built the foundations of punk\. Cover: The Damned from DB Burkeman's <a href="https://www.blurringbooks.com/book/crash"> Crash Bang</a>, a book filled with photos & culture from the late ’70s/early ’80s New York, LA & London punk scenes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,604,215 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,604,275 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 77 | [Waiting Room](https://open.spotify.com/track/5FFowl1Ve4S5OehL6OywSg) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX) | 2:53 |
 | 78 | [Disorder \- 2007 Remaster](https://open.spotify.com/track/38wCbVfMreML5ZhF5iQuKA) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures](https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo) | 3:29 |
 | 79 | [Pump It Up](https://open.spotify.com/track/0JgMHia55MBfhfqZIRi3kF) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [This Year's Model](https://open.spotify.com/album/0mUFefHSr0Ovi9vNcUGppt) | 3:16 |
-| 80 | [Ever Fallen in Love \(With Someone You Shouldn't've?\) \- 1996 Remastered Version](https://open.spotify.com/track/0bHm2wFL0m7qZIlhO7PQu5) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Love Bites \(Special Edition\)](https://open.spotify.com/album/7p6Nh183RUdsEM5wltdv9Q) | 2:43 |
-| 81 | [Maxwell Murder](https://open.spotify.com/track/0vNGbGK1pl5SrV6SHUh06H) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5) | 1:25 |
+| 80 | [Maxwell Murder](https://open.spotify.com/track/0vNGbGK1pl5SrV6SHUh06H) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5) | 1:25 |
+| 81 | [Ever Fallen in Love \(With Someone You Shouldn't've?\) \- 1996 Remastered Version](https://open.spotify.com/track/0bHm2wFL0m7qZIlhO7PQu5) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Love Bites \(Special Edition\)](https://open.spotify.com/album/7p6Nh183RUdsEM5wltdv9Q) | 2:43 |
 | 82 | [Holiday in Cambodia](https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Fresh Fruit for Rotting Vegetables](https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E) | 4:37 |
 | 83 | [Hong Kong Garden](https://open.spotify.com/track/4HkyBXACJ87bAHp7Z8UB2y) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Scream](https://open.spotify.com/album/2mrlf8926IqaXziX4YomV5) | 2:55 |
 | 84 | [Add It Up \- 2002 Remastered Version](https://open.spotify.com/track/7oyxaCjnv7P1F68DDXU7y7) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB) | 4:43 |

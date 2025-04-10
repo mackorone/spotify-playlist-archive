@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 
 > Party like it's the early 2000s\. ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,930 likes - 65 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,164 likes - 65 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

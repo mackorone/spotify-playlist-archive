@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Blasterjaxx
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,444 likes - 80 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,599 likes - 80 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

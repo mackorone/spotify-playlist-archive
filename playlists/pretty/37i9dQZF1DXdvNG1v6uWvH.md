@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 
 > Loksins New Music Friday! Ný tónlist frá Miley Cyrus, Ed Sheeran, Laufey og mörgum fleiri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,211 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,210 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 | 96 | [sinking stone](https://open.spotify.com/track/6HO2Ak18blRMCY7ePLRW5W) | [Nova Varnrable](https://open.spotify.com/artist/7eXnw7Cn85i2s9aYNAERcR) | [where it melts away](https://open.spotify.com/album/3xHwEDVAeZjpnDg4PRmaBl) | 2:44 |
 | 97 | [NOT AGAIN](https://open.spotify.com/track/7i2vzKSKKS71ldmB3vRlAQ) | [Thelma](https://open.spotify.com/artist/6cI9WkOXC2TkdQ0AXb8FXg) | [NOT AGAIN](https://open.spotify.com/album/00AQWgruDOVTJ5hhhwK4RG) | 2:57 |
 | 98 | [Little Me](https://open.spotify.com/track/040XmcipGce3NYEKkJDgfa) | [Aron Hannes](https://open.spotify.com/artist/3YWoe6haPoiQdq7GaQz2OR), [Creature Of Habit](https://open.spotify.com/artist/2E6QIbn9XSz3wDJVXDDxYM), [snny](https://open.spotify.com/artist/33QLeK0AvK6Cj5CQ0hp5sa) | [Little Me](https://open.spotify.com/album/39seoT85Mekyp92c4ZmAyr) | 4:30 |
-| 99 | [carve](https://open.spotify.com/track/4Js9xjLaI7KbPP8JaYzurZ) | [grasior](https://open.spotify.com/artist/7oaXjpcBZDUaomAVAKgUly) | [carve](https://open.spotify.com/album/5NJ5ovP5SijAuZNiPSKdsh) | 3:12 |
-| 100 | [23](https://open.spotify.com/track/5ma3navnVMGOQ5c52XB8kZ) | [Jónfrí](https://open.spotify.com/artist/3llwG4tjaRkyHmsFXbKH8v), [Birgir Hansen](https://open.spotify.com/artist/6vwObaeXYvj4ehROmxwMJr) | [23](https://open.spotify.com/album/3oR03vDI6AQcWJr5wcwiTl) | 3:17 |
+| 99 | [23](https://open.spotify.com/track/5ma3navnVMGOQ5c52XB8kZ) | [Jónfrí](https://open.spotify.com/artist/3llwG4tjaRkyHmsFXbKH8v), [Birgir Hansen](https://open.spotify.com/artist/6vwObaeXYvj4ehROmxwMJr) | [23](https://open.spotify.com/album/3oR03vDI6AQcWJr5wcwiTl) | 3:17 |
+| 100 | [carve](https://open.spotify.com/track/4Js9xjLaI7KbPP8JaYzurZ) | [grasior](https://open.spotify.com/artist/7oaXjpcBZDUaomAVAKgUly) | [carve](https://open.spotify.com/album/5NJ5ovP5SijAuZNiPSKdsh) | 3:12 |
 
 Snapshot ID: `Z+8hJgAAAACJWHPa7VuXFWCGTW5AmBsL`

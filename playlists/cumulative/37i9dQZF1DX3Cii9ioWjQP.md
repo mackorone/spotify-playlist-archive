@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: Danny Koo\(대니 구\)\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
+> All about Korean Jazz hits & new \(Cover: Maria Kim \(마리아 킴\)\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-250 songs - 17 hr 46 min
+251 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Little Prince](https://open.spotify.com/track/0pLPPAKpFImzbAwvsSSjhU) | [Slowtea](https://open.spotify.com/artist/2yr3o06a0BFPfZxAqF4beo) | [Little Prince](https://open.spotify.com/album/0bwHRCiwhnjPoxpQtAe6KT) | 3:28 | 2022-05-03 | 2023-02-08 |
 | [Look To The Sky](https://open.spotify.com/track/16Ij8FOcMTVN5XbMjziPpS) | [Minseok Choi](https://open.spotify.com/artist/66DjCgQhjF05QqsFAK4JcQ) | [Look To The Sky](https://open.spotify.com/album/0nBvF6j1EIdvKGqb5UGYYu) | 6:09 | 2022-05-03 | 2023-10-05 |
 | [Lost in My Heart](https://open.spotify.com/track/5UPNxRMr8YQWhfpPJtsoQH) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Lost in My Heart](https://open.spotify.com/album/49kE2DER1Ohvkiku0Iue1O) | 5:41 | 2022-05-03 | 2023-02-08 |
+| [Love Me or Leave Me](https://open.spotify.com/track/6xN0ysGN6LrcigauMSI8It) | [Maria Kim](https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB) | [Love Me or Leave Me](https://open.spotify.com/album/7E4E2NvwMbJPu4uprns4C8) | 4:58 | 2025-04-09 |  |
 | [love nwantiti](https://open.spotify.com/track/0T1FS6I7kikhJvGUj2IsfV) | [SMOOTH LOUNGE](https://open.spotify.com/artist/4RWr6GHcHIUFnG9eZ1EOXn) | [love nwantiti](https://open.spotify.com/album/1uWWEYIJdIencEhnfQiEXt) | 2:16 | 2024-08-29 |  |
 | [Love Poem \(戀歌\)](https://open.spotify.com/track/7l8I3o4QZaMCJ228JNheqj) | [Nery Kim](https://open.spotify.com/artist/3mP01gXSZGuCxIyX9nF9cf) | [PURPLE REFLECTION](https://open.spotify.com/album/4x9TtrUlUK9u6OnKF28OXr) | 5:45 | 2022-05-03 | 2023-02-08 |
 | [Lover’s Holiday](https://open.spotify.com/track/7CEG3d5Q0FSw24xuTyyvWP) | [Coaster](https://open.spotify.com/artist/5qH8jabn25esntIuVdu8DP) | [Lover’s Holiday](https://open.spotify.com/album/4aXYpgvp5eJ7quCRqmGlf5) | 4:51 | 2022-05-03 | 2022-05-19 |
@@ -134,7 +135,7 @@
 | [Mother of Life](https://open.spotify.com/track/2z04jhHSFyDGItIEIZMEdM) | [Hyojung Kim](https://open.spotify.com/artist/0dWTzrX6vO7m6kxa3PUnib) | [Mother of Life](https://open.spotify.com/album/1bfCGzV02qVg0x2YodNzBU) | 3:56 | 2023-02-07 | 2024-11-07 |
 | [MURMURANDO \(Feat\. Sora Kim\)](https://open.spotify.com/track/3McUaFgYIE6rg1uZdKiysV) | [Hanna Kim](https://open.spotify.com/artist/1H6Flxc2RNT6U7M9Mnmtln), [Sora Kim](https://open.spotify.com/artist/64EAEt7QWeJFOcoaeGl4An) | [MURMURANDO \(Feat\. Sora Kim\)](https://open.spotify.com/album/3nM0J1pMew3uLkUzMdP7No) | 8:13 | 2023-03-31 | 2024-11-07 |
 | [MuRR P84\. Journey Through Autumn](https://open.spotify.com/track/4WVnYvAuQVgXN1runmRk9w) | [MuRR](https://open.spotify.com/artist/0jIOKsg5y3wDJuFFS3jngm) | [MuRR P84\. Journey Through Autumn](https://open.spotify.com/album/2BGQGDtlSCfhBYBTNrGKNv) | 4:34 | 2024-10-09 |  |
-| [My weird music \(Feat\. Yireh\)](https://open.spotify.com/track/5BhDJIAXEpdpEwlJBfLzh8) | [JEZZ](https://open.spotify.com/artist/7rU69MSitmrRQtoZoY6h8Q), [Yireh](https://open.spotify.com/artist/67m3FjwGv4IGpLXQycLnE6) | [JEZZ or JAZZ \(Feat\. Yireh\)](https://open.spotify.com/album/6oOiquCBmbnfnekb0QtJIC) | 4:08 | 2025-01-02 |  |
+| [My weird music \(Feat\. Yireh\)](https://open.spotify.com/track/5BhDJIAXEpdpEwlJBfLzh8) | [JEZZ](https://open.spotify.com/artist/7rU69MSitmrRQtoZoY6h8Q), [Yireh](https://open.spotify.com/artist/67m3FjwGv4IGpLXQycLnE6) | [JEZZ or JAZZ \(Feat\. Yireh\)](https://open.spotify.com/album/6oOiquCBmbnfnekb0QtJIC) | 4:08 | 2025-01-02 | 2025-04-10 |
 | [Nevertheless](https://open.spotify.com/track/0jfwrKYnr9d13wBPeQetsG) | [Mellow Kitchen](https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1) | [Nevertheless](https://open.spotify.com/album/4j00saS37ayCSxeA0JLoUn) | 4:01 | 2023-02-07 | 2024-11-07 |
 | [Ninguém](https://open.spotify.com/track/0uZaevs1alt7jzFQNwjY0R) | [HeeKyung Na](https://open.spotify.com/artist/0v7AyJqbUksRKUWHSN5ghz), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [BOSSA](https://open.spotify.com/album/1SyzkAuSQqH00Q52udwWoE) | 2:44 | 2024-09-13 |  |
 | [No Jam](https://open.spotify.com/track/0DY6EuQNgZItf5nWrmUsH9) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Foggy](https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN) | 2:47 | 2024-03-14 | 2024-11-07 |

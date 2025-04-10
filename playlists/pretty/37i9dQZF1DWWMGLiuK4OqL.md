@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,967 likes - 200 songs - 13 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,040 likes - 200 songs - 13 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,7 +206,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 196 | [City Garden](https://open.spotify.com/track/271DgzkEDb5ojjbZNaZw91) | [Katrine Madsen](https://open.spotify.com/artist/20QOEqeaMRFRLa839sDCnj), [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V) | [City Garden](https://open.spotify.com/album/6ziyb5Tcw8wGU9hISjQZEr) | 6:34 |
 | 197 | [Tenderly](https://open.spotify.com/track/0Yz5dTTup2vLhklobv3Qac) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Tenderly](https://open.spotify.com/album/2czMrhriDhqmFnAc0fB43J) | 3:44 |
 | 198 | [At Long Last Love \(Live\)](https://open.spotify.com/track/2w945NuM37wWFP4oU0jMqE) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Sullivan Fortner](https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5), [Barry Stephenson](https://open.spotify.com/artist/2be2q753N8e1UfuV5AvqNa), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS) | [At Long Last Love \(Live\)](https://open.spotify.com/album/2U1H2DJYHC4TGCcnjA4be1) | 2:51 |
-| 199 | [My Revelation](https://open.spotify.com/track/6Ag1owqQsyMVBfIaXFOYcV) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Meshuga Baby](https://open.spotify.com/album/3HahJJpwuLOh40uDe8Ia1W) | 3:21 |
+| 199 | [Makin' Whoopee](https://open.spotify.com/track/1CiKFnkOYgJHxTkcOiIJxA) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Makin' Whoopee](https://open.spotify.com/album/3wyxpaIWVZj6DNOU1qgE3S) | 4:24 |
 | 200 | [Comment Allez Vous](https://open.spotify.com/track/6lz582LMeRURcWgJIozmzm) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi) | [Nikki By Starlight](https://open.spotify.com/album/6cCPj3K2gGar75Uo9r47iz) | 2:18 |
 
 Snapshot ID: `ZvZgUwAAAAAyH0FmOzQ8KmOSFKBwdMus`

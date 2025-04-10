@@ -1,6 +1,6 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 790443,
+  "num_followers": 790514,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Teaser And The Firecat",
-        "url": "https://open.spotify.com/album/2B719vL1xtPTwYs0j5BuAo"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Morning Has Broken",
-      "url": "https://open.spotify.com/track/3BqqF8suAIzW8655yJfcvh"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "...Hits",
         "url": "https://open.spotify.com/album/7hV0YSxAQSng8H0zMR0HBf"
       },
@@ -2199,6 +2183,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Teaser And The Firecat",
+        "url": "https://open.spotify.com/album/2B719vL1xtPTwYs0j5BuAo"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Morning Has Broken",
+      "url": "https://open.spotify.com/track/3BqqF8suAIzW8655yJfcvh"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "In The Lonely Hour (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7p7RFI5jtwYDknwhnQgmlp"
       },
@@ -2211,6 +2211,22 @@
       "duration_ms": 172723,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/7IHOIqZUUInxjVkko181PB"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Waking Up The Neighbours",
+        "url": "https://open.spotify.com/album/0RhmLffWf3oRr6ahOS6G47"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 393640,
+      "name": "(Everything I Do) I Do It For You",
+      "url": "https://open.spotify.com/track/76qB2ZEZlEJAMqMqUjKusp"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2247,22 +2263,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Deep Cuts: The Best Of The Ballads",
-        "url": "https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 208066,
-      "name": "To Be With You",
-      "url": "https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Nobody Else (Deluxe)",
         "url": "https://open.spotify.com/album/5QnHvl0ne6yEhRGw3ajvFF"
       },
@@ -2279,18 +2279,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Waking Up The Neighbours",
-        "url": "https://open.spotify.com/album/0RhmLffWf3oRr6ahOS6G47"
+        "name": "Deep Cuts: The Best Of The Ballads",
+        "url": "https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 393640,
-      "name": "(Everything I Do) I Do It For You",
-      "url": "https://open.spotify.com/track/76qB2ZEZlEJAMqMqUjKusp"
+      "duration_ms": 208066,
+      "name": "To Be With You",
+      "url": "https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2343,6 +2343,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Dancing On The Ceiling (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1b81mEDt3DmqDdQrZg3i8F"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 241066,
+      "name": "Say You, Say Me",
+      "url": "https://open.spotify.com/track/0I9M3okWVRJXWT6G7cbIdx"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Elton John (Remastered Version)",
         "url": "https://open.spotify.com/album/7dtLYwLOdYQa2S8Vjeuxci"
       },
@@ -2391,34 +2407,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Dancing On The Ceiling (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1b81mEDt3DmqDdQrZg3i8F"
+        "name": "Save Me, San Francisco (Golden Gate Edition)",
+        "url": "https://open.spotify.com/album/7tEPbuzTMNGSytEMdezXtS"
       },
       "artists": [
         {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
         }
       ],
-      "duration_ms": 241066,
-      "name": "Say You, Say Me",
-      "url": "https://open.spotify.com/track/0I9M3okWVRJXWT6G7cbIdx"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3Iq8rXgxwlSPpRsIacNLgK"
-      },
-      "artists": [
-        {
-          "name": "Westlife",
-          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
-        }
-      ],
-      "duration_ms": 230800,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/19LoYrMj3ZlqQUrxa1ADQh"
+      "duration_ms": 205453,
+      "name": "Marry Me",
+      "url": "https://open.spotify.com/track/0VZ9xPNa6ROafP6GYYuv2S"
     }
   ],
   "unique_name": "In the Arms of a Woman",

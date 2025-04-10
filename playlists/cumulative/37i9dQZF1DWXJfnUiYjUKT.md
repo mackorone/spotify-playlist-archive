@@ -4,7 +4,7 @@
 
 > The very best in new music from around the world, with Miley Cyrus on the cover.
 
-16,741 songs - 36 day 20 hr 5 min
+16,741 songs - 36 day 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2146,7 +2146,7 @@
 | [BRING IT ON](https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Diarra Sylla](https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [BRING IT ON](https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46) | 3:34 | 2023-07-21 | 2023-07-29 |
 | [Bring It On Home to Me](https://open.spotify.com/track/5bVFeC0hVdaA29A1V6hIqY) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 4:35 | 2022-03-24 | 2022-04-01 |
 | [Bring Some Mo \(feat\. NLE Choppa\)](https://open.spotify.com/track/4DOTEPZlY1rrEM9YwzJmuu) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Bring Some Mo \(feat\. NLE Choppa\)](https://open.spotify.com/album/0fFqPfWEy8FdDqaPzXMOLx) | 2:55 | 2022-05-13 | 2022-05-20 |
-| [Bring The Drums In \(feat\. BabyChiefDoit\)](https://open.spotify.com/track/6O32ch9iADcpgPqVJdo9V1) | [Bri3](https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Bring The Drums In \(feat\. BabyChiefDoit\)](https://open.spotify.com/album/2lNCLpfApl18ECLTIBrFYv) | 2:40 | 2025-04-04 |  |
+| [Bring The Drums In \(feat\. BabyChiefDoit\)](https://open.spotify.com/track/6O32ch9iADcpgPqVJdo9V1) | [Bri3](https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Bring The Drums In \(feat\. BabyChiefDoit\)](https://open.spotify.com/album/2lNCLpfApl18ECLTIBrFYv) | 2:42 | 2025-04-04 |  |
 | [Bring The Hook](https://open.spotify.com/track/1giI9yVIG71xY8lPwSDzWY) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Colors Teaser](https://open.spotify.com/album/4Lrv8Pqc5Gay4X34ZwOa2I) | 4:25 | 2022-01-14 | 2022-01-21 |
 | [Bringing Me Home](https://open.spotify.com/track/6Uuh5KUTe7ujO2vhpruqW7) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Bringing Me Home](https://open.spotify.com/album/1WdDBOFiSMGuAuLUKJbvXL) | 3:29 | 2023-12-01 | 2023-12-09 |
 | [Brisa](https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Brisa](https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE) | 4:19 | 2022-04-28 | 2022-05-06 |

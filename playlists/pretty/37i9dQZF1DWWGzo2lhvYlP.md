@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGzo2lhvYlP.md) - [plain]
 
 > nothing but bangers to help you with the grind
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,235 likes - 88 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,391 likes - 88 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGzo2lhvYlP.md) - [plain]
 | 78 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 |
 | 79 | [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [hey daisy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 |
 | 80 | [Light Switch](https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch](https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ) | 3:05 |
-| 81 | [Shivers](https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx) | 3:27 |
-| 82 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 |
+| 81 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 |
+| 82 | [Shivers](https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx) | 3:27 |
 | 83 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 |
 | 84 | [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 |
 | 85 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3Kw7zkALCVxY4wmlnh2IWC) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 |

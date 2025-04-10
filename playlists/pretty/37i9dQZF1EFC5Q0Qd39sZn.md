@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,711 likes - 572 songs - 1 day 15 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,714 likes - 572 songs - 1 day 15 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 97 | [Stand up for Something \(feat\. Common\)](https://open.spotify.com/track/0Vf1E9i3cK9O6KZyPynDHg) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Stand up for Something \(feat\. Common\)](https://open.spotify.com/album/1X5UxEFIFdJUm2m9fwerDH) | 3:44 |
 | 98 | [These Are the Special Times](https://open.spotify.com/track/6HGf1xWwfRXPrjsRRygAPX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 4:07 |
 | 99 | [I Promise](https://open.spotify.com/track/0EhqdgtayZ43jlzYTpHLdi) | [Stacie Orrico](https://open.spotify.com/artist/5QjWgYDeKNP2iPHTdTttnG) | [Stacie Orrico](https://open.spotify.com/album/05bphHAv5bizNSVDeirA9t) | 4:17 |
-| 100 | [Leave While I'm Not Looking](https://open.spotify.com/track/2aiey41vnKkRbmqaTZunbJ) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [A Perfect Contradiction \(Outsiders' Expanded Edition\)](https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC) | 3:53 |
-| 101 | [Not A Dry Eye In The House](https://open.spotify.com/track/6c0DXVlFO5blfmDoke22rB) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Welcome To The Neighbourhood](https://open.spotify.com/album/2zpSj5iBkyxYy9uEVA4ucY) | 5:54 |
+| 100 | [Not A Dry Eye In The House](https://open.spotify.com/track/6c0DXVlFO5blfmDoke22rB) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Welcome To The Neighbourhood](https://open.spotify.com/album/2zpSj5iBkyxYy9uEVA4ucY) | 5:54 |
+| 101 | [Leave While I'm Not Looking](https://open.spotify.com/track/2aiey41vnKkRbmqaTZunbJ) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [A Perfect Contradiction \(Outsiders' Expanded Edition\)](https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC) | 3:53 |
 | 102 | [Once In A Lifetime](https://open.spotify.com/track/5MPaYcjSRsQIIjStlGmtX2) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [That's Me](https://open.spotify.com/album/62CDxOlX4fNlDStY5CbSUK) | 5:53 |
 | 103 | [I Got You](https://open.spotify.com/track/39tS2EMGXgiJwBY5xr7Itn) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 4:56 |
 | 104 | [You Can't Break A Broken Heart](https://open.spotify.com/track/2k2McMgls2mmZBGLoAPbwJ) | [Kate Voegele](https://open.spotify.com/artist/7whckrkkTMEuvqfaNfMs7S) | [Don't Look Away \(Deluxe Edition\)](https://open.spotify.com/album/5xvXNSYrPSYxsS48C9N6iM) | 3:38 |
@@ -459,8 +459,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 449 | [I Could Be Good for You](https://open.spotify.com/track/10sLmZoJbXFdR0nwczkHfM) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Soul Dancing \(Expanded Edition\)](https://open.spotify.com/album/2Z1SUk5Jo7clpF4ZWqlGmc) | 4:25 |
 | 450 | [Riivinrautahumppa](https://open.spotify.com/track/47scnIyEs3O95JVO8cLmlV) | [Eläkeläiset](https://open.spotify.com/artist/3HKoyHD86fikvLBdecyl5j) | [Humpan kuninkaan hovissa](https://open.spotify.com/album/7gz76r9FtfbPseiuLbXRGA) | 2:06 |
 | 451 | [Pray For The Love](https://open.spotify.com/track/1N9hQc4dOwszaH1fX49Ckx) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [Russell Watson](https://open.spotify.com/artist/2hrfuB0LtVmFZ6MvPMIHTK), [Matt Dunkley](https://open.spotify.com/artist/44glcpJysgIbUkrbHy152q), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Amore Musica](https://open.spotify.com/album/6EVHFDafgJHsXAKJMxYn6K) | 4:54 |
-| 452 | [You Are My Heaven](https://open.spotify.com/track/3trKxBaWivjVutTwTk9U83) | [Tommy Page](https://open.spotify.com/artist/4TPWj56uIO4N5puju96P0J) | [From The Heart](https://open.spotify.com/album/0DpEL1pppZzHT0CGY7th7t) | 4:36 |
-| 453 | [Work Me Down](https://open.spotify.com/track/2Oign5NCNEgk5OsDyl733V) | [The Jagged Edges](https://open.spotify.com/artist/134sHCB9XXwaf7En8ZwTWl) | [80's Revival](https://open.spotify.com/album/4ObiMqIu8DKqplcSB1jpY6) | 4:56 |
+| 452 | [Work Me Down](https://open.spotify.com/track/2Oign5NCNEgk5OsDyl733V) | [The Jagged Edges](https://open.spotify.com/artist/134sHCB9XXwaf7En8ZwTWl) | [80's Revival](https://open.spotify.com/album/4ObiMqIu8DKqplcSB1jpY6) | 4:56 |
+| 453 | [You Are My Heaven](https://open.spotify.com/track/3trKxBaWivjVutTwTk9U83) | [Tommy Page](https://open.spotify.com/artist/4TPWj56uIO4N5puju96P0J) | [From The Heart](https://open.spotify.com/album/0DpEL1pppZzHT0CGY7th7t) | 4:36 |
 | 454 | [Places I've Been](https://open.spotify.com/track/1bP40fkBHVutRjd7FIbj9J) | [Taylor Hicks](https://open.spotify.com/artist/3E3tW69eMfAffLGgsmP3GG) | [Taylor Hicks](https://open.spotify.com/album/3nlWXJ6v7cemNilz77YcxD) | 3:29 |
 | 455 | [Emergency..\. \(c'est juste pour rire\)](https://open.spotify.com/track/7wJvygRRDU8tWJGDw1KnVy) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Merci](https://open.spotify.com/album/1OywRJOoGaifH6Jug5zdLg) | 3:53 |
 | 456 | [In a Heart Beat](https://open.spotify.com/track/1RA4Mt2feSah7BiLWprjRp) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Time Takes Time](https://open.spotify.com/album/3MoLlCEQ0QmJZQ6KQ9y9iY) | 4:30 |
@@ -581,4 +581,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 571 | [I'm Getting Used to You](https://open.spotify.com/track/4EM9yHufAESQ8eYSJy1rv1) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Dreaming of You](https://open.spotify.com/album/0OLKaGwn8zKJhrxHkUP6mR) | 4:05 |
 | 572 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
 
-Snapshot ID: `AbuQngAAAAASEbiRLrLv939OfPB3WQZU`
+Snapshot ID: `AbuWPgAAAACMiLENCqjxPGGKZlWB15ds`

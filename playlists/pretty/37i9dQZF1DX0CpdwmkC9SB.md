@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CpdwmkC9SB.md) - [plain]
 
 > The biggest festival of the year\. The official playlist for Glastonbury 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,960 likes - 266 songs - 19 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,006 likes - 266 songs - 19 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -257,19 +257,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CpdwmkC9SB.md) - [plain]
 | 247 | [City Walls](https://open.spotify.com/track/1W0osZG4g3K2jtYPcjV50t) | [Dubkasm](https://open.spotify.com/artist/2cEQyve0SK4lHQSeGOhqwC) | [City Walls/Hail Jah EP](https://open.spotify.com/album/4mxbBhdMdZOb2tSgjWZSkM) | 3:54 |
 | 248 | [I.C.U](https://open.spotify.com/track/5rflyizUdlfFS2ySkCaPOH) | [Dhani Harrison](https://open.spotify.com/artist/0BNG5EOWoNlIE1Q1c4L0Kh) | [INNERSTANDING](https://open.spotify.com/album/100l2UVS0ORWZkue4Yao1f) | 3:54 |
 | 249 | [Beneath Two Moons](https://open.spotify.com/track/2f21xqFrnl6UCfR2vmeOck) | [Hodge](https://open.spotify.com/artist/2oLMqtx0PbqCXJDXs5lRvA) | [Beneath Two Moons](https://open.spotify.com/album/5VMPQZJhKf576EQERJeAJd) | 5:49 |
-| 250 | [Helix](https://open.spotify.com/track/587YKWLlGSGLZB1xkjSrd6) | [Amaliah](https://open.spotify.com/artist/5AAsEhGqZPvRhe423mdfN9) | [Helix](https://open.spotify.com/album/2Uq0fTnjpBfPEKVEQhMXCC) | 6:57 |
-| 251 | [SILENCE IN CHAOS](https://open.spotify.com/track/2VkazeAYi79WkAort7UVXS) | [MANARA](https://open.spotify.com/artist/5XBZeIlrtVjErE1HUpfPn5) | [SILENCE IN CHAOS](https://open.spotify.com/album/7yVpyDHcEIk98t8YLjva6K) | 2:21 |
+| 250 | [SILENCE IN CHAOS](https://open.spotify.com/track/2VkazeAYi79WkAort7UVXS) | [MANARA](https://open.spotify.com/artist/5XBZeIlrtVjErE1HUpfPn5) | [SILENCE IN CHAOS](https://open.spotify.com/album/7yVpyDHcEIk98t8YLjva6K) | 2:21 |
+| 251 | [Helix](https://open.spotify.com/track/587YKWLlGSGLZB1xkjSrd6) | [Amaliah](https://open.spotify.com/artist/5AAsEhGqZPvRhe423mdfN9) | [Helix](https://open.spotify.com/album/2Uq0fTnjpBfPEKVEQhMXCC) | 6:57 |
 | 252 | [A47](https://open.spotify.com/track/56h0CrbGBMxiR1Dq2jUOef) | [DJ Cosworth](https://open.spotify.com/artist/0Sgo1SIN7qc7fDw7v14IDm) | [A47 / The Message](https://open.spotify.com/album/7lYVAZbuUvimR4luTgxfkJ) | 5:49 |
 | 253 | [Rain Dance](https://open.spotify.com/track/6a9aAiPtlWH2QRytRAw1As) | [Manami](https://open.spotify.com/artist/3YY7kS1ZzdHKY7DcQ7KEoB) | [Rain Dance](https://open.spotify.com/album/7ocYdbDTPPsuVRGwKV1f9h) | 5:19 |
 | 254 | [Bombing With Imase](https://open.spotify.com/track/6Sp5V7U389ToUrt1ZnxiXR) | [Jerome Hill](https://open.spotify.com/artist/4K6SrfGnkgHak2f007UkvB) | [Twenty Twenty EP](https://open.spotify.com/album/1GmOolbsqnTw8VLokamSWg) | 6:40 |
 | 255 | [Holloway Road](https://open.spotify.com/track/1crfiDuJEIWMl9OYwjJCFI) | [Darama](https://open.spotify.com/artist/6xxHIHjxEUjpgJKujPNOKU) | [Chaal, Pt\. 2](https://open.spotify.com/album/3hWbuoUehnUO6a9kKX9KTH) | 3:19 |
 | 256 | [Late Night Tales Presents Version Excursion Selected by Don Letts \(Mixed\)](https://open.spotify.com/track/3HVDgnGSyVAGpHrJgYOu6e) | [Don Letts](https://open.spotify.com/artist/79UXgdUqtyrIIAzgGzGkAa) | [Late Night Tales Presents Version Excursion Selected by Don Letts \(Continuous Mix\)](https://open.spotify.com/album/0hO7sdSdz4gSGxTjpIorGK) | 1:17:55 |
 | 257 | [Tanker](https://open.spotify.com/track/6DYTubuBVlk5D572T3YTLL) | [Neffa\-T](https://open.spotify.com/artist/6W3Z0O9u975mk16Rd0VCdA) | [Tanker EP](https://open.spotify.com/album/6d9ZRwaRncjHjM9SNdqz08) | 4:13 |
-| 258 | [Winter sun](https://open.spotify.com/track/0tw0byyXafiJcrgvyIXMGZ) | [Lorraine Nash](https://open.spotify.com/artist/1bUf19ghBWtUjeBVf6c9CY) | [All That I Can Be \(Deluxe Edition\)](https://open.spotify.com/album/7KJmC75vxczj92fc1pXVdB) | 4:01 |
-| 259 | [Making Love to a Ghost](https://open.spotify.com/track/7pTkn67secmAhXvCG0fNfU) | [Raji Rags](https://open.spotify.com/artist/7jal8HYb7mJ6pO1EjQTf22) | [Making Love to a Ghost](https://open.spotify.com/album/1D9055YevweIImIHauomH7) | 3:37 |
-| 260 | [Back, Bring It Back](https://open.spotify.com/track/3Wr6o36U9GXDXMkatAMvfC) | [Changing Currents](https://open.spotify.com/artist/1iqMdaMpeb6C5pPcjd8gfU) | [Back, Bring It Back](https://open.spotify.com/album/41alm1FShulVnwcv7LUnZK) | 2:18 |
-| 261 | [Tonyo](https://open.spotify.com/track/4kkkcYpt3asMEq7DVOM1JL) | [Daisy Moon](https://open.spotify.com/artist/0wSbJfUfDDmDmxOaIteZrs) | [System Creak](https://open.spotify.com/album/1Mndu5a1rwvTafnKNOs8Rg) | 6:11 |
-| 262 | [My Baby, My Sweet](https://open.spotify.com/track/0zTpzggduVj6YbdcB9XUjU) | [Michele Stodart](https://open.spotify.com/artist/7ritjcrqfuDJoXWZv8OIMG) | [Wide\-Eyed Crossing](https://open.spotify.com/album/20pVL6SzFqOiN7gjT6csPh) | 5:06 |
+| 258 | [Making Love to a Ghost](https://open.spotify.com/track/7pTkn67secmAhXvCG0fNfU) | [Raji Rags](https://open.spotify.com/artist/7jal8HYb7mJ6pO1EjQTf22) | [Making Love to a Ghost](https://open.spotify.com/album/1D9055YevweIImIHauomH7) | 3:37 |
+| 259 | [Winter sun](https://open.spotify.com/track/0tw0byyXafiJcrgvyIXMGZ) | [Lorraine Nash](https://open.spotify.com/artist/1bUf19ghBWtUjeBVf6c9CY) | [All That I Can Be \(Deluxe Edition\)](https://open.spotify.com/album/7KJmC75vxczj92fc1pXVdB) | 4:01 |
+| 260 | [Tonyo](https://open.spotify.com/track/4kkkcYpt3asMEq7DVOM1JL) | [Daisy Moon](https://open.spotify.com/artist/0wSbJfUfDDmDmxOaIteZrs) | [System Creak](https://open.spotify.com/album/1Mndu5a1rwvTafnKNOs8Rg) | 6:11 |
+| 261 | [My Baby, My Sweet](https://open.spotify.com/track/0zTpzggduVj6YbdcB9XUjU) | [Michele Stodart](https://open.spotify.com/artist/7ritjcrqfuDJoXWZv8OIMG) | [Wide\-Eyed Crossing](https://open.spotify.com/album/20pVL6SzFqOiN7gjT6csPh) | 5:06 |
+| 262 | [Back, Bring It Back](https://open.spotify.com/track/3Wr6o36U9GXDXMkatAMvfC) | [Changing Currents](https://open.spotify.com/artist/1iqMdaMpeb6C5pPcjd8gfU) | [Back, Bring It Back](https://open.spotify.com/album/41alm1FShulVnwcv7LUnZK) | 2:18 |
 | 263 | [Shake](https://open.spotify.com/track/6xwhpbY7qgscZlE9wDu4wG) | [Amy Kisnorbo](https://open.spotify.com/artist/2PJz7yQtTtf05sYx7jsbrI), [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi) | [Shake](https://open.spotify.com/album/4pI1bRVgrImXUUFGTzE98j) | 3:48 |
 | 264 | [Baile Bump](https://open.spotify.com/track/76gzlxH6uIh6cQFosrdbpm) | [REA](https://open.spotify.com/artist/1nhQOYji5l5jrGliSvMvc6) | [World Foods](https://open.spotify.com/album/6iruPpAWXhSOhanUdY1Z7u) | 3:54 |
 | 265 | [Hugz](https://open.spotify.com/track/0QHt6Qw0dBYSavBMZ3a0Cz) | [Dani Whylie](https://open.spotify.com/artist/7bvkspukhNEJaBnh2hguci), [edetto](https://open.spotify.com/artist/0GrlwB1fStfiwy6iH6dJkv) | [Hugz](https://open.spotify.com/album/4HlJ4pfnn5dlKUg4XeJJzm) | 4:18 |

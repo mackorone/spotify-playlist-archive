@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 
 > This is Gustavo Santaolalla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,506 likes - 47 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,510 likes - 47 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,13 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 | 37 | [Leyendo en el Hospital](https://open.spotify.com/track/3V0TY9qEn3nJUGvufkTOnY) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Don Markese](https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1), [Braulio Barrera](https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo), [Anibal Kerpel](https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh) | [Motorcycle Diaries with additional Music](https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je) | 3:07 |
 | 38 | [Hope](https://open.spotify.com/track/1UZJCcCJJgGEi7MtWVruGu) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 0:41 |
 | 39 | [Cordon de Plata](https://open.spotify.com/track/2PGqbsSYbNYhfqEOtiH4k7) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Camino](https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN) | 2:54 |
-| 40 | [De Ushuaia a la Quiaca](https://open.spotify.com/track/1GaqUDpOrQvU9i2OF6jH9n) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Qhapaq Ñan](https://open.spotify.com/album/7z2o3Kb9hCVB416isvUIce) | 2:12 |
+| 40 | [Celador De Sueños \(with Gustavo Santaolalla & Orozco \- Barrientos\)](https://open.spotify.com/track/69ZSjgExJ8S5y7eDbNPDer) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Orozco\-Barrientos](https://open.spotify.com/artist/23Pml8pDuAoLpaUxxGms4F) | [Cantora](https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl) | 3:38 |
 | 41 | [Partida del Leprosario](https://open.spotify.com/track/33IC7R7wIuBZJcY9xb6q4v) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Don Markese](https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1), [Braulio Barrera](https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo), [Anibal Kerpel](https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh) | [Motorcycle Diaries with additional Music](https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je) | 1:53 |
 | 42 | [Forsaken](https://open.spotify.com/track/632EUtBelECssjKp9ZX1tL) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 0:42 |
-| 43 | [Celador De Sueños \(with Gustavo Santaolalla & Orozco \- Barrientos\)](https://open.spotify.com/track/69ZSjgExJ8S5y7eDbNPDer) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Orozco\-Barrientos](https://open.spotify.com/artist/23Pml8pDuAoLpaUxxGms4F) | [Cantora](https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl) | 3:38 |
+| 43 | [De Ushuaia a la Quiaca](https://open.spotify.com/track/1GaqUDpOrQvU9i2OF6jH9n) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Qhapaq Ñan](https://open.spotify.com/album/7z2o3Kb9hCVB416isvUIce) | 2:12 |
 | 44 | [Algun Dia \(Unplugged\) \(En Vivo\) \(with Gustavo Santaolalla\)](https://open.spotify.com/track/3Hasr4XNwh4CaUwqGsIror) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Julieta Venegas \- MTV Unplugged](https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97) | 4:00 |
 | 45 | [Mariposa](https://open.spotify.com/track/52IViXynTZLAIvnrr8XLYL) | [Massacre](https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Nueve](https://open.spotify.com/album/0Rv9mZr81HlTZ9UgsjhtNU) | 5:00 |
 | 46 | [Brokeback Mountain 2](https://open.spotify.com/track/56zGM574ZkZqiU4E2IVjJ3) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT) | 1:59 |
 | 47 | [Seguir](https://open.spotify.com/track/3vBLmHQcr0z5D7ObTCqfVu) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Camino](https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN) | 3:44 |
 
-Snapshot ID: `Z/MVgAAAAADKj+PMkzpU1SBt8gCuJHRD`
+Snapshot ID: `Z/RnAAAAAADz0+OZXUVkN4b4a9LZgBpJ`

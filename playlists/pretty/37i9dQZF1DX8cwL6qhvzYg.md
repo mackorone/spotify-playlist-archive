@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cwL6qhvzYg.md) - [plain]
 
 > Porque el barrio es el barrio y eso nadie lo va a cambiar 😎💃🏾🕺🏾
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,272 likes - 125 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,325 likes - 125 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,6 +132,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cwL6qhvzYg.md) - [plain]
 | 122 | [La Mushasha Shula](https://open.spotify.com/track/4H8AfSDk1cWrYiV35VCdyA) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Las Compuse para Ti](https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv) | 3:46 |
 | 123 | [Desvelado](https://open.spotify.com/track/4jeAwDjr8nIj8EK6pVRbW9) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Puro Tejano Gold](https://open.spotify.com/album/7IWL9rNxAZfi7DC4RfPSB2) | 3:42 |
 | 124 | [Provócame](https://open.spotify.com/track/6NoG8gvg44g2IWaWt3bBfE) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/2hKjSZ3fbwKYWpYr5xTuTN) | 3:00 |
-| 125 | [El Viejo Del Sombreron](https://open.spotify.com/track/1Gkr0PIKZl9t582e0Ed31U) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Greates Cumbia Classic Of Colomnia Vol\. 1](https://open.spotify.com/album/39n6iQGeXObXsD0Nxj8Lz7) | 4:12 |
+| 125 | [Tus Jefes No Me Quieren](https://open.spotify.com/track/10UiP7h6szsk0CitFO8NM2) | [Sonideros de MEX USA](https://open.spotify.com/artist/1DdqwR6Ygd18k5GjaY8sJm) | [Exitos Sonideros, Vol\. 1](https://open.spotify.com/album/10vSYmCwnxyQXCeMtq6a92) | 3:44 |
 
 Snapshot ID: `ZwBRTgAAAACGy1oKwNmtzkRAtgMBUTec`

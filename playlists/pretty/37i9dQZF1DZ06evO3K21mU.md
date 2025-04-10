@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3K21mU.md) - [plain]
 
 > This is J\. Cole\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,535 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,625 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3K21mU.md) - [plain]
 | 13 | [She Knows \(feat\. Amber Coffman & Cults\)](https://open.spotify.com/track/0Fs9cdPDhptWEDJmiCbkEW) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:56 |
 | 14 | [Pretty Little Fears \(feat\. J\. Cole\)](https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [East Atlanta Love Letter](https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2) | 4:00 |
 | 15 | [Can't Get Enough](https://open.spotify.com/track/3mTpegrOwRn0oJjv4TSbEE) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:45 |
-| 16 | [To Summer, From Cole \- Audio Hug](https://open.spotify.com/track/2f86Ae3R4OKAu1lEIqouih) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 2:27 |
-| 17 | [Neighbors](https://open.spotify.com/track/0utlOiJy2weVl9WTkcEWHy) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [4 Your Eyez Only](https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW) | 3:36 |
+| 16 | [Neighbors](https://open.spotify.com/track/0utlOiJy2weVl9WTkcEWHy) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [4 Your Eyez Only](https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW) | 3:36 |
+| 17 | [To Summer, From Cole \- Audio Hug](https://open.spotify.com/track/2f86Ae3R4OKAu1lEIqouih) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 2:27 |
 | 18 | [Kevin’s Heart](https://open.spotify.com/track/6tZ3b7ik1QDXFAZlXib0YZ) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [KOD](https://open.spotify.com/album/4Wv5UAieM1LDEYVq5WmqDd) | 3:20 |
 | 19 | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:20 |
 | 20 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3K21mU.md) - [plain]
 | 49 | [Down Bad \(feat\. JID, Bas, J\. Cole, EARTHGANG & Young Nudy\)](https://open.spotify.com/track/36J0iaPDGbYGsHvYpaYs3k) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 2:49 |
 | 50 | [Ville Mentality](https://open.spotify.com/track/2z3joGXrdGL2iEjIKQTiN1) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [4 Your Eyez Only](https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW) | 3:14 |
 
-Snapshot ID: `Z/MVgAAAAAAZy+NUcIEMVOrr+hWCWC4P`
+Snapshot ID: `Z/RnAAAAAAD6W+aDmbS11J7EOYdfupEP`

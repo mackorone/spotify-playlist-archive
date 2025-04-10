@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUACcBjzMiIY.md) - [plain]
 
 > Easy listening for a comfortable drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,728 likes - 200 songs - 12 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,888 likes - 200 songs - 12 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -201,12 +201,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUACcBjzMiIY.md) - [plain]
 | 191 | [Lost Stars](https://open.spotify.com/track/30p0klayCW8WvkcTehVvqs) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [V \(Deluxe\)](https://open.spotify.com/album/3z4ASjF9zQ6efgXFr9bQXu) | 4:27 |
 | 192 | [Dear River](https://open.spotify.com/track/2UikdkQjVoAEQBUzGPu9rn) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Dear River](https://open.spotify.com/album/7v4PYVFQbJjLQCOmqHnTTW) | 3:40 |
 | 193 | [Chasing Cars](https://open.spotify.com/track/11bD1JtSjlIgKgZG2134DZ) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp) | 4:27 |
-| 194 | [The Cave](https://open.spotify.com/track/3pLTOP0G0etiWUknFoRpsr) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/7GiLJfRPHARQrRJf01P2Tt) | 3:37 |
-| 195 | [Only Love](https://open.spotify.com/track/0QB71BDzh36guAExsTIgNO) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/1HWi1cL1VGLCiIYGfvHJmG) | 4:09 |
+| 194 | [Only Love](https://open.spotify.com/track/0QB71BDzh36guAExsTIgNO) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/1HWi1cL1VGLCiIYGfvHJmG) | 4:09 |
+| 195 | [The Cave](https://open.spotify.com/track/3pLTOP0G0etiWUknFoRpsr) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/7GiLJfRPHARQrRJf01P2Tt) | 3:37 |
 | 196 | [Someone Like You](https://open.spotify.com/track/4kflIGfjdZJW4ot2ioixTB) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147) | 4:45 |
 | 197 | [Home](https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up from Below](https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32) | 5:03 |
-| 198 | [Let Her Go](https://open.spotify.com/track/7DFNE7NO0raLIUbgzY2rzm) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights](https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF) | 4:12 |
-| 199 | [Stay With Me](https://open.spotify.com/track/5Db9VIdDsN5yu3Eu7CT0i4) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/2Jg7JZ0ZXOGje1bkq7CVgK) | 2:52 |
+| 198 | [Stay With Me](https://open.spotify.com/track/5Db9VIdDsN5yu3Eu7CT0i4) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/2Jg7JZ0ZXOGje1bkq7CVgK) | 2:52 |
+| 199 | [Let Her Go](https://open.spotify.com/track/7DFNE7NO0raLIUbgzY2rzm) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights](https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF) | 4:12 |
 | 200 | [Jolene](https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:10 |
 
 Snapshot ID: `Zoh7RgAAAADZfY7dptABmdOx+DaIopN2`

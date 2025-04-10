@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Djo
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,272 likes - 96 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,278 likes - 96 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

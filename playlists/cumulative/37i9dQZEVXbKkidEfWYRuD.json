@@ -7790,7 +7790,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-09",
+      "date_removed": null,
       "duration_ms": 215338,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou"
@@ -10426,7 +10426,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-09",
+      "date_removed": null,
       "duration_ms": 114437,
       "name": "Lost Angeles",
       "url": "https://open.spotify.com/track/11gTRcdz4wK32fghA2vrX7"
@@ -11874,7 +11874,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 84901,
       "name": "MONTAGEM TOMADA - Slowed",
       "url": "https://open.spotify.com/track/1mfvWzF39LwVpAm8g0LhQT"
@@ -17106,7 +17106,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-09",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -17124,7 +17124,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -22236,7 +22236,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 150583,
       "name": "\u0412\u0440\u0443\u0431\u0430\u0439",
       "url": "https://open.spotify.com/track/05vZtu5obzMiZdreJK7HH3"
@@ -22258,6 +22258,24 @@
       "duration_ms": 150583,
       "name": "\u0412\u0440\u0443\u0431\u0430\u0439",
       "url": "https://open.spotify.com/track/41hRWgoaw67f4VGMbNSfoZ"
+    },
+    {
+      "album": {
+        "name": "\u0412\u0440\u0443\u0431\u0430\u0439",
+        "url": "https://open.spotify.com/album/7HXkCIiNdcCjPTvDCP9Vi0"
+      },
+      "artists": [
+        {
+          "name": "Parfeniuk",
+          "url": "https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150583,
+      "name": "\u0412\u0440\u0443\u0431\u0430\u0439",
+      "url": "https://open.spotify.com/track/4w4qGjcvOgsYRyO4x9Ci0U"
     },
     {
       "album": {
@@ -23774,7 +23792,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 153595,
       "name": "\u0414\u041e\u041c (\u041b\u043e\u043d\u0434\u043e\u043d, \u041f\u0440\u0430\u0433\u0430, \u041d\u0438\u0446\u0446\u0430)",
       "url": "https://open.spotify.com/track/5rELQYNJgj4btlKsA47hiR"
@@ -24696,6 +24714,24 @@
       "duration_ms": 99812,
       "name": "\u0417\u0410\u0425\u041e\u0422\u0415\u041b",
       "url": "https://open.spotify.com/track/6XTvawaDFxvOUScj6E4KLr"
+    },
+    {
+      "album": {
+        "name": "\u0417\u0412'\u042f\u0417\u041e\u041a",
+        "url": "https://open.spotify.com/album/3u2uYEE3stbH7w5SLNcZ2j"
+      },
+      "artists": [
+        {
+          "name": "MamaRika",
+          "url": "https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164500,
+      "name": "\u0417\u0412'\u042f\u0417\u041e\u041a",
+      "url": "https://open.spotify.com/track/5151tSCaX6klN5wcC3wPkf"
     },
     {
       "album": {
@@ -28606,7 +28642,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 189000,
       "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
       "url": "https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9"

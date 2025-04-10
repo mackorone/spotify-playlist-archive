@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Piruka entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,035 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,027 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 9 | [Ride or Die](https://open.spotify.com/track/1ZBsMNJbdCaAVdzk0P4PV2) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG) | [Ride or Die](https://open.spotify.com/album/1ZCksR7ShWHGFFpVWhofcM) | 3:48 |
 | 10 | [Como Seria? / Amor Sóbrio](https://open.spotify.com/track/7uekYsGKTZM2LfyjB87x0Y) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po) | [ALTA COSTURA](https://open.spotify.com/album/1W9sthlkh5jxTd0NloMCnJ) | 3:03 |
 | 11 | [Interestelar](https://open.spotify.com/track/0itv2Wy3TruEEZy4dRsu32) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Interestelar](https://open.spotify.com/album/02PsewjrcAwfmprEsadxBa) | 3:08 |
-| 12 | [Não Dá Pa Parar](https://open.spotify.com/track/5xIjSTfo5vK70n17mD0BNG) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Não Dá Pa Parar](https://open.spotify.com/album/4Y3s0dztnVJB2l05OclX2H) | 3:13 |
+| 12 | [Não dá pa parar](https://open.spotify.com/track/5xIjSTfo5vK70n17mD0BNG) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Não dá pa parar](https://open.spotify.com/album/4Y3s0dztnVJB2l05OclX2H) | 3:13 |
 | 13 | [Monumentos](https://open.spotify.com/track/08q46DVWUmo3YqzoigFatO) | [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [Monumentos](https://open.spotify.com/album/4LopTuvidCb3B7qDhfdVKB) | 2:33 |
 | 14 | [Equilíbrio](https://open.spotify.com/track/3UHFYeLV41C0WjN6nn7sKd) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Trovador](https://open.spotify.com/album/42OhyOM28LEkgu9J9jrahn) | 3:05 |
 | 15 | [Cantinho Pra Nós](https://open.spotify.com/track/129FWnr5JyDxiC4BnVEgmk) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS), [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE) | [Cantinho Pra Nós](https://open.spotify.com/album/5heAB6yR0875GifkzqrCE4) | 3:04 |

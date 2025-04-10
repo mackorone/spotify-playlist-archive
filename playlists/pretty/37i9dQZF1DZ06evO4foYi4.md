@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 
 > This is St\. Vincent\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,322 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,342 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 | 36 | [Hombre Roto](https://open.spotify.com/track/3HqxsWtp2KEEt6v1dEKJZF) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Todos Nacen Gritando](https://open.spotify.com/album/1RXC4kHEPA006xjHMtlI7O) | 3:21 |
 | 37 | [Strange Mercy](https://open.spotify.com/track/3K7oZLuftr5MQdrWQJWzrr) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Strange Mercy](https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1) | 4:28 |
 | 38 | [Down And Out Downtown](https://open.spotify.com/track/4htB9ArZCpquXlXnkKjAgk) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:42 |
-| 39 | [I Should Watch TV](https://open.spotify.com/track/73x5UqtgSk3nOzdK4KMAtL) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Love This Giant](https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4) | 3:08 |
+| 39 | [The Party](https://open.spotify.com/track/4bRCh7SD8irSL85Bg2XYpg) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Actor](https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX) | 4:05 |
 | 40 | [El Mero Cero](https://open.spotify.com/track/7065b9GPhjgGMol6fLZdBZ) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Todos Nacen Gritando](https://open.spotify.com/album/1RXC4kHEPA006xjHMtlI7O) | 2:58 |
-| 41 | [The Party](https://open.spotify.com/track/4bRCh7SD8irSL85Bg2XYpg) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Actor](https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX) | 4:05 |
+| 41 | [I Should Watch TV](https://open.spotify.com/track/73x5UqtgSk3nOzdK4KMAtL) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Love This Giant](https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4) | 3:08 |
 | 42 | [Bad Believer](https://open.spotify.com/track/1VxW8LraxdE168OWaytqrC) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [St\. Vincent \(Deluxe Edition\)](https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0) | 2:59 |
-| 43 | [Dinner for Two](https://open.spotify.com/track/5cu7cJCwwfP9dNFuLnsH7L) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Love This Giant](https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4) | 3:42 |
-| 44 | [These Days](https://open.spotify.com/track/17euxWBhHT86yFjGuP9tSw) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Jesus Saves, I Spend](https://open.spotify.com/album/05JkgPTxUIXWkiZf96VAYa) | 3:19 |
-| 45 | [Actor Out of Work](https://open.spotify.com/track/6IYalCW21Yic9MkNfH0MiL) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Actor](https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX) | 2:15 |
+| 43 | [Marrow](https://open.spotify.com/track/4N0pXHQWDG2Q7SRqZb7ZVd) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Actor](https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX) | 3:24 |
+| 44 | [Pulga](https://open.spotify.com/track/3k9mtrogWx3tCrz8OmdTu3) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Todos Nacen Gritando](https://open.spotify.com/album/1RXC4kHEPA006xjHMtlI7O) | 3:46 |
+| 45 | [Dinner for Two](https://open.spotify.com/track/5cu7cJCwwfP9dNFuLnsH7L) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Love This Giant](https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4) | 3:42 |
 | 46 | [Huey Newton](https://open.spotify.com/track/6P5QvqGHXCksVTqMSVgEWV) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [St\. Vincent \(Deluxe Edition\)](https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0) | 4:37 |
-| 47 | [I Am an Ape](https://open.spotify.com/track/6n1LH70jWiLUmvZndHqfpV) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Love This Giant](https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4) | 3:05 |
+| 47 | [Actor Out of Work](https://open.spotify.com/track/6IYalCW21Yic9MkNfH0MiL) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Actor](https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX) | 2:15 |
 | 48 | [Champagne Year](https://open.spotify.com/track/402AC8ujDRzIsJWWdfGKhR) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Strange Mercy](https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1) | 3:28 |
-| 49 | [Marrow](https://open.spotify.com/track/4N0pXHQWDG2Q7SRqZb7ZVd) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Actor](https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX) | 3:24 |
-| 50 | [Pulga](https://open.spotify.com/track/3k9mtrogWx3tCrz8OmdTu3) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Todos Nacen Gritando](https://open.spotify.com/album/1RXC4kHEPA006xjHMtlI7O) | 3:46 |
+| 49 | [I Am an Ape](https://open.spotify.com/track/6n1LH70jWiLUmvZndHqfpV) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Love This Giant](https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4) | 3:05 |
+| 50 | [These Days](https://open.spotify.com/track/17euxWBhHT86yFjGuP9tSw) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Jesus Saves, I Spend](https://open.spotify.com/album/05JkgPTxUIXWkiZf96VAYa) | 3:19 |
 
-Snapshot ID: `Z/MVgAAAAADVMiO+nlQx2p+d/qvL2jqf`
+Snapshot ID: `Z/RnAAAAAABT+kH1hgEL/ZktEKVeICll`

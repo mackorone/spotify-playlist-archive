@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,806 likes - 185 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,808 likes - 185 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 51 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 |
 | 52 | [cut my hair](https://open.spotify.com/track/3YUHxgPuHedoZGt9KfGlqB) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/5YxG0ULdAixTrnzfo60HX4) | 2:55 |
 | 53 | [If You're Gonna Lie](https://open.spotify.com/track/0mPTZjG5PElXTUIxj1nqgp) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [you ruined new york city for me](https://open.spotify.com/album/4aGGhfTv8mJ9JAiz8dsa0L) | 3:23 |
-| 54 | [think later](https://open.spotify.com/track/44c9MsAwxoAdAYpCVRBAG1) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:13 |
-| 55 | [Purple lace bra](https://open.spotify.com/track/1TmqxQwvEDGYOTm1fPJJbT) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 3:11 |
+| 54 | [Purple lace bra](https://open.spotify.com/track/1TmqxQwvEDGYOTm1fPJJbT) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 3:11 |
+| 55 | [think later](https://open.spotify.com/track/44c9MsAwxoAdAYpCVRBAG1) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:13 |
 | 56 | [Damn Near Normal](https://open.spotify.com/track/5sX5XeSfMUZHzsUl2helzf) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:44 |
 | 57 | [Miss possessive](https://open.spotify.com/track/4Q9ExJGFgL9Jd9kmYH3nXs) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:19 |
 | 58 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 74 | [stay done](https://open.spotify.com/track/2zScQCfO2BKtR0Yk8dtELN) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:51 |
 | 75 | [Feel It Twice](https://open.spotify.com/track/39jcp8zJH7nHWbB7Hr3sFJ) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:08 |
 | 76 | [Signs](https://open.spotify.com/track/6DDEfqOoLlasIbPdzboOu4) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:53 |
-| 77 | [Drown](https://open.spotify.com/track/5P2VkMhz1Rod5OAbxsplgr) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 4:20 |
-| 78 | [Bad Reviews](https://open.spotify.com/track/1Y66A5zH3iPOWCDIuSDQR5) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 2:21 |
+| 77 | [Bad Reviews](https://open.spotify.com/track/1Y66A5zH3iPOWCDIuSDQR5) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 2:21 |
+| 78 | [Drown](https://open.spotify.com/track/5P2VkMhz1Rod5OAbxsplgr) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 4:20 |
 | 79 | [New Angel](https://open.spotify.com/track/3lMIgIO9HkPxnAZGmtTdpT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:09 |
 | 80 | [Dance \(‘Til You Love Someone Else\)](https://open.spotify.com/track/7ngTmzqa1PylqWUtMWfCgl) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 3:45 |
 | 81 | [want that too](https://open.spotify.com/track/5BLxf0dPOTKMFFgUEp8M6T) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:10 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 184 | [break](https://open.spotify.com/track/3F7mNkXtkAtFRHCkwp0L4c) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:04 |
 | 185 | [kind sadness](https://open.spotify.com/track/14D1PA47cBk9pI3UMnzEn8) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:16 |
 
-Snapshot ID: `AbuQngAAAADEp2K7H2Y1d+2+vXe4fcPL`
+Snapshot ID: `AbuWPgAAAACbnzSi/fgdXgqNJNSnpPlM`

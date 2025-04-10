@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 
 > This is Bonnie Raitt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,521 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,525 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 | 19 | [Angel from Montgomery \- Live](https://open.spotify.com/track/4iFaAIBihFXWZ4hiLLASWV) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [John Prine \(Live\)](https://open.spotify.com/album/1jfc5Hverd9LT9GQ4N1al1) | 4:16 |
 | 20 | [Not The Only One](https://open.spotify.com/track/13p06XYJaV05Q65hSU87jW) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 5:03 |
 | 21 | [Home \- 2008 Remaster](https://open.spotify.com/track/4SgIuqaMyQSckMOCrZBBPe) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Sweet Forgiveness](https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B) | 3:28 |
-| 22 | [I’m In The Mood \(feat\. Bonnie Raitt\)](https://open.spotify.com/track/5ZMRMaydpaWtuxlNFx9D6n) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [The Healer](https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk) | 4:31 |
-| 23 | [Have A Heart](https://open.spotify.com/track/5DXvq6kWCNefq4qTSVGGGC) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 4:49 |
+| 22 | [Have A Heart](https://open.spotify.com/track/5DXvq6kWCNefq4qTSVGGGC) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 4:49 |
+| 23 | [I’m In The Mood \(feat\. Bonnie Raitt\)](https://open.spotify.com/track/5ZMRMaydpaWtuxlNFx9D6n) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [The Healer](https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk) | 4:31 |
 | 24 | [Come To Me](https://open.spotify.com/track/77jvkoKzy83gHwYe4pLi1Y) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 4:20 |
 | 25 | [I Ain't Blue \- 2008 Remaster](https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 3:36 |
 | 26 | [You've Been in Love Too Long \- 2008 Remaster](https://open.spotify.com/track/1jiYXUtNTeZzebDXDGgGQd) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Takin' My Time](https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra) | 3:43 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 | 46 | [Since I Fell for You \- 2008 Remaster](https://open.spotify.com/track/71G25PCcl4wa87qOJjjblz) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 3:06 |
 | 47 | [Too Soon To Tell](https://open.spotify.com/track/21bGSuzzoQOKcmz59uDuwH) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 3:45 |
 | 48 | [All Alone With Something To Say](https://open.spotify.com/track/67hnL3LuKs6JiphyY6SHgl) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 3:11 |
-| 49 | [Give It Up or Let Me Go \- 2008 Remaster](https://open.spotify.com/track/4GyoNlQeLSHFZX2txg7cOr) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 4:29 |
-| 50 | [Kisses Sweeter than Wine](https://open.spotify.com/track/03XiG8UT6iWa3kDVGHcTW4) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Where Have All The Flowers Gone: The Songs Of Pete Seeger](https://open.spotify.com/album/7A34ZUoI1EdUKSHlDY6iRF) | 4:43 |
+| 49 | [Kisses Sweeter than Wine](https://open.spotify.com/track/03XiG8UT6iWa3kDVGHcTW4) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Where Have All The Flowers Gone: The Songs Of Pete Seeger](https://open.spotify.com/album/7A34ZUoI1EdUKSHlDY6iRF) | 4:43 |
+| 50 | [Give It Up or Let Me Go \- 2008 Remaster](https://open.spotify.com/track/4GyoNlQeLSHFZX2txg7cOr) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 4:29 |
 
-Snapshot ID: `Z/MVgAAAAABsFeWnNkbRKm+m1plLt9bf`
+Snapshot ID: `Z/RnAAAAAAB1HpLOm751SW3WbKKOKiUE`

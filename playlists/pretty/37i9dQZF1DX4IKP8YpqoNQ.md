@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,923 likes - 100 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,922 likes - 100 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,10 +92,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 82 | [Tired of Being Alone \- Live](https://open.spotify.com/track/4ZEP6AlYmtx43qQdr5cwcx) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Tokyo..\. Live](https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ) | 5:17 |
 | 83 | [No Love Dying \- Live At The Royal Albert Hall / 02 April 2018](https://open.spotify.com/track/5zqOcGH3Is5EvPoMG9rBtx) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [One Night Only \(Live At The Royal Albert Hall / 02 April 2018\)](https://open.spotify.com/album/35q1zz2A5vTQvzSlmv2Aun) | 5:33 |
 | 84 | [At Last \- Live](https://open.spotify.com/track/07xaraibxlvkIv6TYT3YtL) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [The Chess Box](https://open.spotify.com/album/5RhTBSdOIOVHg18FCod3D4) | 3:12 |
-| 85 | [Inner City Blues \(Make Me Wanna Holler\) \- Live At Oakland Coliseum, CA/1974](https://open.spotify.com/track/2hiibCg7gZ82zGMlb4SJtm) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Live \(Expanded Edition\)](https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV) | 3:55 |
-| 86 | [You Don't Know My Name \(Live From Allianz Parque Sao Paulo Brazil\)](https://open.spotify.com/track/117sYd0yQIwEkzW2cf2Tv8) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Inesquecivel Sao Paulo Brazil \(Live From Allianz Parque Sao Paulo Brazil\)](https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp) | 4:59 |
+| 85 | [You Don't Know My Name \(Live From Allianz Parque Sao Paulo Brazil\)](https://open.spotify.com/track/117sYd0yQIwEkzW2cf2Tv8) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Inesquecivel Sao Paulo Brazil \(Live From Allianz Parque Sao Paulo Brazil\)](https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp) | 4:59 |
+| 86 | [Move To Groove \- Live At The Montreaux Jazz Festival/1972](https://open.spotify.com/track/6ZKvCmbRHECqbs4M8AeqNd) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Live At The Montreaux Jazz Festival](https://open.spotify.com/album/6ea4nOTkOXTEI5m0p7I0MC) | 8:10 |
 | 87 | [Superfly \- Live in Chicago](https://open.spotify.com/track/2DGW153VNRhZyaPjKFeSmS) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Curtis in Chicago \- Recorded Live!](https://open.spotify.com/album/2hPtmUGxCFZEyoaCCLAUNt) | 3:54 |
-| 88 | [Move To Groove \- Live At The Montreaux Jazz Festival/1972](https://open.spotify.com/track/6ZKvCmbRHECqbs4M8AeqNd) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Live At The Montreaux Jazz Festival](https://open.spotify.com/album/6ea4nOTkOXTEI5m0p7I0MC) | 8:10 |
+| 88 | [Inner City Blues \(Make Me Wanna Holler\) \- Live At Oakland Coliseum, CA/1974](https://open.spotify.com/track/2hiibCg7gZ82zGMlb4SJtm) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Live \(Expanded Edition\)](https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV) | 3:55 |
 | 89 | [Sunshine "I Can Fly" \(Live\)](https://open.spotify.com/track/7rhNmrsrxR5Li3WVxpJjhu) | [Raul Midón](https://open.spotify.com/artist/2z3984YB48d3CFltzVlFYE) | [Invisible Chains Live from Nyc](https://open.spotify.com/album/4tEFQeMCUIyHNzOWCZi5k9) | 9:32 |
 | 90 | [Tell Me More And More And Then Some](https://open.spotify.com/track/4aErK0HkDKqKBFYXy2bajB) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [After Hours](https://open.spotify.com/album/6tkwWZBDub074CUPmsTeFj) | 3:11 |
 | 91 | [Know You Better \- Live from Brooklyn Paramount](https://open.spotify.com/track/3FKJBHMtOs7Fp4dNWUBNHj) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Know You Better \(Live from Brooklyn Paramount\)](https://open.spotify.com/album/6PdDfyh0O1ezWd3DXRvnWN) | 7:55 |

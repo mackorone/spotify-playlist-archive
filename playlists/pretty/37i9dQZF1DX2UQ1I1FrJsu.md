@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 
 > smooth, crisp, not too tannic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,278 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,421 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Pranav Chaganty
 
-352 songs - 21 hr 7 min
+353 songs - 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Karuna](https://open.spotify.com/track/3pYDC5i3YryOEkzHbKKDLy) | [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Karuna](https://open.spotify.com/album/2YtQTCZXkWX4LiaknHzga7) | 3:14 | 2023-05-31 | 2024-01-05 |
 | [Karuna](https://open.spotify.com/track/5nzBrLJixlLLmTMFQnYscF) | [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Karuna](https://open.spotify.com/album/1IbXWKQyr5fx7VjTrHZll6) | 3:14 | 2023-05-31 | 2024-02-15 |
 | [Kashmir](https://open.spotify.com/track/2oXo8C2elci0xz1eDRGeIM) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Sreerama Chandra](https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Kashmir](https://open.spotify.com/album/2PDtBFPJANXt9YROF2As1g) | 6:33 | 2023-12-18 |  |
+| [Kashmir Diaries](https://open.spotify.com/track/3eUoCOpwv7gYDBIOA0R8RE) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Sowmiya](https://open.spotify.com/artist/5XhjNUreUgIAs7nrLDVZYB) | [Kashmir Diaries](https://open.spotify.com/album/0xFCRfurBOG9cu17TeecrA) | 4:30 | 2025-04-09 |  |
 | [Khadhhar](https://open.spotify.com/track/6BlFOA7vsaG83IMAbEgkEY) | [MC Hari](https://open.spotify.com/artist/5fAyRRV9ivuTIRFVpwzxF8) | [Khadhhar](https://open.spotify.com/album/74QC2sAPIRHcHwr6zg8b3z) | 2:43 | 2022-08-10 | 2023-08-06 |
 | [Kilikki \- Tribute to Team Baahubali](https://open.spotify.com/track/6HtynLgYJ1rqwJrWnq8uvu) | [Smita](https://open.spotify.com/artist/4qCRlu0jozfPsnmnxuWPve), [Noel Sean](https://open.spotify.com/artist/3J6H27J9iKe2rCvX6YoKSQ) | [Kilikki \(Tribute to Team Baahubali\)](https://open.spotify.com/album/40dSsLJICupldtKyJMMLP5) | 3:20 | 2022-07-18 | 2023-05-23 |
 | [Komali Vasudev](https://open.spotify.com/track/50jK4YEhyOGoDHwYeqZWHC) | [Ishaq vali](https://open.spotify.com/artist/7oATc2KjTVSvRVZ8YKvOGT), [Teju R](https://open.spotify.com/artist/67CmWTS4uKxctqM84CubZV) | [Komali Vasudev](https://open.spotify.com/album/3YamZq9BPe4rwfek4oG7It) | 4:52 | 2023-07-15 | 2023-10-10 |
@@ -160,7 +161,7 @@
 | [Matti Pata\-Save Soil](https://open.spotify.com/track/610PRiYy0YkG5kAocEFG06) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Matti Pata\-Save Soil](https://open.spotify.com/album/6YHRi3fEgkIhj8Ba5bOC8y) | 3:30 | 2022-07-18 | 2023-05-23 |
 | [Maya](https://open.spotify.com/track/0y5EJMV1PE3YPDUWMN314E) | [Chowraasta](https://open.spotify.com/artist/7l8YWhszshSlwN43NtokOO) | [Maya](https://open.spotify.com/album/39qvG5SrtnJO2gBpl9m2mf) | 4:42 | 2022-07-18 |  |
 | [Maya Chesave](https://open.spotify.com/track/2aoxZTjUBAqTmUz2X9Azo0) | [Venkatesh Vuppala](https://open.spotify.com/artist/1uyCwHOok5QG540JbbO5tb), [Sumanth Borra](https://open.spotify.com/artist/3hu79lSCu6pxnTG3Vfpuyz) | [Maya Chesave](https://open.spotify.com/album/0CmdXTK4VV4P462yDR4THw) | 3:36 | 2023-01-10 | 2023-06-01 |
-| [Mayedho Chesesave](https://open.spotify.com/track/1tStVo585uA7kfEqXlfLEP) | [Nimshi Zacchaeus](https://open.spotify.com/artist/0YQIokZUhvSY7WtIDgTrcz) | [Mayedho Chesesave](https://open.spotify.com/album/4Q33y0iDDrJ5wQNXFobhqZ) | 4:55 | 2023-12-01 |  |
+| [Mayedho Chesesave](https://open.spotify.com/track/1tStVo585uA7kfEqXlfLEP) | [Nimshi Zacchaeus](https://open.spotify.com/artist/0YQIokZUhvSY7WtIDgTrcz) | [Mayedho Chesesave](https://open.spotify.com/album/4Q33y0iDDrJ5wQNXFobhqZ) | 4:55 | 2023-12-01 | 2025-04-10 |
 | [Modhatisari](https://open.spotify.com/track/6yUJX6h3v12PMAD1T6dsev) | [Madhu Mady](https://open.spotify.com/artist/3XXYrOqQ1xzKsuDgvTun6A), [DaKrish](https://open.spotify.com/artist/3loSOILEnkRrBpuwUnjxaD) | [Modhatisari](https://open.spotify.com/album/3rPCSsZ3lM53VPC9qzYcKu) | 3:22 | 2023-02-10 | 2023-10-17 |
 | [Mosam](https://open.spotify.com/track/4xKUTPkJajClzsQuNtFjU0) | [Karthik Clazix](https://open.spotify.com/artist/2aOAbLS45uroV7HtTUVtZ6) | [Mosam](https://open.spotify.com/album/11MbaXM3cacleXh59yRNVl) | 2:52 | 2025-03-04 |  |
 | [Mounam](https://open.spotify.com/track/1OKlwdTKmEmwN2ETdJRa0H) | [Gershom Penugula](https://open.spotify.com/artist/1X1xyTwRLksTzUnLzWvN3K), [Akshita Manthina](https://open.spotify.com/artist/1GEqfOP0cVdwqoqJWYOXdq) | [Mounam](https://open.spotify.com/album/3Swoe45Oou7qyXqBL2xVRC) | 4:22 | 2024-01-29 | 2025-02-14 |

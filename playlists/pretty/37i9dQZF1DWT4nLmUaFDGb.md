@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,690 likes - 150 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,858 likes - 150 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 | 85 | [La Vie En Rose](https://open.spotify.com/track/6kEi3816EhM1usV0W3DWGD) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Passion World](https://open.spotify.com/album/2pSQtV2WOa5tKWhaFaZqBi) | 8:12 |
 | 86 | [Old Cape Cod](https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Old Cape Cod](https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK) | 3:29 |
 | 87 | [I Belong to You](https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a) | [Emilia Mitiku](https://open.spotify.com/artist/65RLNrrTTS9ztKiuK0fZg2) | [I Belong To You](https://open.spotify.com/album/4abZmMGlhSgaf9SDL1m70d) | 3:16 |
-| 88 | [Fire and Rain](https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU), [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [I Will Wait for You \(with Nils Landgren & FleshQuartet\)](https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE) | 4:02 |
-| 89 | [Over the Rainbow](https://open.spotify.com/track/5V2PNLZpdSO3ZyOr5aMZJL) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Over the Rainbow](https://open.spotify.com/album/1s1IYPYEgbPw42kMzZujWo) | 4:11 |
+| 88 | [Over the Rainbow](https://open.spotify.com/track/5V2PNLZpdSO3ZyOr5aMZJL) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Over the Rainbow](https://open.spotify.com/album/1s1IYPYEgbPw42kMzZujWo) | 4:11 |
+| 89 | [Fire and Rain](https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU), [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [I Will Wait for You \(with Nils Landgren & FleshQuartet\)](https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE) | 4:02 |
 | 90 | [I've Drawn Your Face](https://open.spotify.com/track/3YNPJrSGsLw0MmJ0IEFySz) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 3:41 |
 | 91 | [La belle vie \- The Good Life](https://open.spotify.com/track/3bO3Bh5Cx2fRM75q42vrJE) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz), [Jeff Goldblum](https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8) | [La belle vie \- The Good Life](https://open.spotify.com/album/5j9lwYLRgkVtN5HWJ08wfH) | 3:42 |
 | 92 | [Save Your Love for Me](https://open.spotify.com/track/3aqnw5JOWwyLli3SPAwtc1) | [Till Brönner](https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8), [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ), [Harvey Mason](https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT), [Christian von Kaphengst](https://open.spotify.com/artist/658B4A00zdwgZcmLelmlMp) | [On Vacation](https://open.spotify.com/album/0lkjkN4nOGZeFr0hxaMQDY) | 5:26 |

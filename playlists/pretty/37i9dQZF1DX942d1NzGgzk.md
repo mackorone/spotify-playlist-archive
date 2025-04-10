@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > The latest of R&B in the UK\. Cover: Leah Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,153 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,215 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

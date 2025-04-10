@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: DURRY
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,118 likes - 124 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,130 likes - 124 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP2fCX7VhoW.md) - [plain]
 
 > Os artistas mais tocados do ano\. Foto: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,600 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,602 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP2fCX7VhoW.md) - [plain]
 | 9 | [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 |
 | 10 | [Melhor Vibe](https://open.spotify.com/track/5brVlCCt8gp4pP0iJOOctj) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Melhor Vibe](https://open.spotify.com/album/4ZoSMD7wD1xMzq0iXlEach) | 5:41 |
 | 11 | [Nois é Nois](https://open.spotify.com/track/1k1egPmIPWQ0J44PWgMDwA) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Nois é Nois](https://open.spotify.com/album/42I7nPQNGF5TxZiP8Esk2X) | 2:00 |
-| 12 | [O Teu Cheiro](https://open.spotify.com/track/23PQOfRFXeQ6ZR4q7ZfM5r) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [O Teu Cheiro](https://open.spotify.com/album/0Lu1PFWRcRF8hthAnklvlN) | 2:50 |
+| 12 | [O teu cheiro](https://open.spotify.com/track/23PQOfRFXeQ6ZR4q7ZfM5r) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [O teu cheiro](https://open.spotify.com/album/0Lu1PFWRcRF8hthAnklvlN) | 2:50 |
 | 13 | [Sometimes](https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sometimes](https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4) | 4:00 |
 | 14 | [Vem Desestressar](https://open.spotify.com/track/5jrQZnYInM6YUjr2yFSa3E) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [prodbyeros](https://open.spotify.com/artist/2VykmpwjNmZuVWKiKnqonz) | [O Cara Do Momento, Vol\. 2](https://open.spotify.com/album/35C0UUdgV8mkuBaJrxbagf) | 4:03 |
 | 15 | [Minha Herança \- Ao Vivo](https://open.spotify.com/track/1CpneInvFvGYcDVU4CCDgI) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Minha Herança \(Ao Vivo\)](https://open.spotify.com/album/2boxN9IacevwsFdvVPJ4xO) | 3:42 |

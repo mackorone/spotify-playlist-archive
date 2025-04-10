@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 
 > The sweet sounds of Syria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,387 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,401 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 | 35 | [Swarat](https://open.spotify.com/track/6jWQ9vgd089Ayk1uws9Fb3) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Swarat](https://open.spotify.com/album/2lHuo0CbcdEzTVZNcpk9gE) | 3:26 |
 | 36 | [You Make Me Laugh](https://open.spotify.com/track/1kTR3L90ODiEPY5cXLvHew) | [Omar Offendum](https://open.spotify.com/artist/5gxANVcKbp8iPNLgAo7DhA), [Thanks Joey](https://open.spotify.com/artist/4fOizZJsCaT3RYpqNdeGKk), [El Bles](https://open.spotify.com/artist/13jGZidP6rRBpqAQUTZLhL) | [You Make Me Laugh](https://open.spotify.com/album/1gHpXCOHGd6Fy59HY5mi6Q) | 2:41 |
 | 37 | [Shi Tridin](https://open.spotify.com/track/1ZNPX01Q2RMjwoAZymgVpx) | [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK) | [Shi Tridin](https://open.spotify.com/album/6gNgy5YfIF4xqxAigQY8KS) | 6:48 |
-| 38 | [Ma Mallet](https://open.spotify.com/track/1OI4XNIu41l772o9ISTBJi) | [Saria Al Sawas](https://open.spotify.com/artist/3FxDJmY1Dj5bgaGunLoyaZ) | [Sarya Al Sawas 2014](https://open.spotify.com/album/3yG6gpurU66JMHIE0oQk9V) | 4:12 |
+| 38 | [Ana Lamma Bheb](https://open.spotify.com/track/6a4SIj2iNe0mJWyxVrdpCZ) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Ana Lamma Bheb](https://open.spotify.com/album/3e5Cj4cSq7KHsWbNzO9OcL) | 3:23 |
 | 39 | [Wala Fuse \- Special Version](https://open.spotify.com/track/1bQEqxv5YcCgXXYVwSa9Us) | [Assasi](https://open.spotify.com/artist/1TuHc6zFa31PJpMpvyKZoz) | [Wala Fuse \(Special Version\)](https://open.spotify.com/album/2MUWf8lrTWfSkyqapMlHfI) | 3:07 |
 | 40 | [Sada Mawalena](https://open.spotify.com/track/6AeXuT4ACtOnqQgvkNOZjj) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Sada Mawalena](https://open.spotify.com/album/01tB0ZPHDIz4aQJ6U53BJ7) | 4:20 |
 | 41 | [Malak Halle](https://open.spotify.com/track/6uOdpvk7I3RL92xbcbPt6q) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Malak Halle](https://open.spotify.com/album/1H8pbCWqU3lAmFmktdI3Tz) | 4:22 |
-| 42 | [Dommini](https://open.spotify.com/track/3yYxfPZFP3JdIChDo0BQS3) | [Anas Kareem](https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS) | [Dommini](https://open.spotify.com/album/7f79BxczEBnQfBLhtOY942) | 4:50 |
-| 43 | [Mahlaki](https://open.spotify.com/track/5u7fv6kikvIUdtlQ2xqDu0) | [Hussein Al Deek](https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs) | [Mahlaki](https://open.spotify.com/album/2JBUKhBEh1KTFRUzS4kaMx) | 4:14 |
-| 44 | [Ana Lamma Bheb](https://open.spotify.com/track/6a4SIj2iNe0mJWyxVrdpCZ) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Ana Lamma Bheb](https://open.spotify.com/album/3e5Cj4cSq7KHsWbNzO9OcL) | 3:23 |
+| 42 | [Ma Mallet](https://open.spotify.com/track/1OI4XNIu41l772o9ISTBJi) | [Saria Al Sawas](https://open.spotify.com/artist/3FxDJmY1Dj5bgaGunLoyaZ) | [Sarya Al Sawas 2014](https://open.spotify.com/album/3yG6gpurU66JMHIE0oQk9V) | 4:12 |
+| 43 | [Dommini](https://open.spotify.com/track/3yYxfPZFP3JdIChDo0BQS3) | [Anas Kareem](https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS) | [Dommini](https://open.spotify.com/album/7f79BxczEBnQfBLhtOY942) | 4:50 |
+| 44 | [Mahlaki](https://open.spotify.com/track/5u7fv6kikvIUdtlQ2xqDu0) | [Hussein Al Deek](https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs) | [Mahlaki](https://open.spotify.com/album/2JBUKhBEh1KTFRUzS4kaMx) | 4:14 |
 | 45 | [Lahn Al Hayat](https://open.spotify.com/track/06Sme47uE8eKah9Nm20EWg) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Lahn Al Hayat](https://open.spotify.com/album/2ZgXApAMMNi9JUmuYPLXpi) | 4:09 |
 | 46 | [Weinak](https://open.spotify.com/track/7bumYD6nve26RT5D9Vrn29) | [Hadi Aswad](https://open.spotify.com/artist/7cyJ9VJt6xQRFVJmhvbz6Q) | [Weinak](https://open.spotify.com/album/2nPFmJPXDNu4IKHrTIrFyq) | 3:33 |
 | 47 | [Abu Dub](https://open.spotify.com/track/4PYYYrvbQZFd0aK8yKeYby) | [Jamila & The Other Heroes](https://open.spotify.com/artist/4SXSjuoWAU7XTyXF9JZcHe) | [Abu Dub](https://open.spotify.com/album/6VcIiBjQaMqCJxNx9Nqq1N) | 4:49 |

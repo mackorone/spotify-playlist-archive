@@ -4,7 +4,7 @@
 
 > 새벽 감성\. Issa Vibe.
 
-211 songs - 11 hr 42 min
+212 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Island \(rough\)](https://open.spotify.com/track/79kkH6IeyyGYXvhUy5S8HH) | [2xxx](https://open.spotify.com/artist/4cMtnnGdRvh8KIi2RA7ZeU), [Colde](https://open.spotify.com/artist/2gbgqFRVv5UCjo1uVYNGjg) | [Life+unconsciousness](https://open.spotify.com/album/0ENIw3VQ7WFRb9oMT5n8wx) | 1:36 | 2022-04-18 | 2022-04-21 |
 | [I’m afraid](https://open.spotify.com/track/6gfQx6a6RN7DzCklR9Re4I) | [KIMDA](https://open.spotify.com/artist/5ZXaFowVlaocwzO9pBF6jm) | [I’m afraid](https://open.spotify.com/album/2PHO1sExSk57noerUQixaI) | 3:17 | 2022-04-18 | 2022-07-12 |
 | [L Word](https://open.spotify.com/track/65yxQ2j42rkcF06S3Lr6D5) | [BADROOM](https://open.spotify.com/artist/6njP39Dygk8WBwc7gR8Q48), [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [GOOD BOYS GONE BVD](https://open.spotify.com/album/46yXA9eD43ql1b5BqYlzMw) | 4:10 | 2022-07-15 | 2022-07-21 |
-| [LA VIE](https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Little Women, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6) | 3:49 | 2022-10-06 |  |
+| [LA VIE](https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Little Women, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6) | 3:49 | 2022-10-06 | 2025-04-10 |
 | [Lemonade](https://open.spotify.com/track/1itk8LxTTvJidBjwbMkeie) | [Nieah](https://open.spotify.com/artist/3uo7KLyxuiANGmwDocxMnw) | [Lemonade](https://open.spotify.com/album/4KnyT34T9Oj013VwWnhRcj) | 3:14 | 2022-04-18 | 2022-07-14 |
 | [Let off steam](https://open.spotify.com/track/7KUb5GsTcXfpG0phkbL2mR) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [L&B](https://open.spotify.com/album/5tXw2luJlRFJ4vqNZkzS6u) | 3:39 | 2024-03-05 |  |
 | [Letter \- English Version](https://open.spotify.com/track/4VuICuloTpNTypEr9ZQjXZ) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Riddle](https://open.spotify.com/album/37jhqfjnQFN5ObACGJkdUv) | 3:07 | 2022-04-18 | 2022-04-22 |
@@ -112,6 +112,7 @@
 | [Little bit of you](https://open.spotify.com/track/2MeUjL6j0yAJHAhUraIfdn) | [BOYCOLD](https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22) | [DAFT LOVE](https://open.spotify.com/album/4SCzzeU2S6AyWEixWrvBjX) | 2:45 | 2022-07-15 | 2022-07-22 |
 | [London](https://open.spotify.com/track/6gFH1XTKibwn3Yw5SdcFe5) | [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [THE ARTIST](https://open.spotify.com/album/5I4UXnGYkAaDenWYmApziK) | 2:36 | 2022-04-18 | 2022-06-08 |
 | [Lonley Night](https://open.spotify.com/track/1z74DqFEFLL1ZBSu0ef6Lq) | [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [THE ARTIST](https://open.spotify.com/album/5I4UXnGYkAaDenWYmApziK) | 3:45 | 2022-04-21 | 2022-07-28 |
+| [Loser](https://open.spotify.com/track/49uQ4IE8mdDekBDW8tG849) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [The Firstfruit \- The 1st Album](https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s) | 2:50 | 2025-04-09 |  |
 | [Love is alone](https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:22 | 2022-07-04 | 2022-12-17 |
 | [Love Scene](https://open.spotify.com/track/1WWskMa6hvLgHuNhc6suE2) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Bambi \- The 3rd Mini Album](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) | 3:37 | 2022-04-18 |  |
 | [lullaby](https://open.spotify.com/track/6sKXC3X5tw2jQ3IUFp4DWt) | [Kim Jeong\_uk](https://open.spotify.com/artist/1BqP8ZPk9adgbcmkoW7dP4) | [lullaby](https://open.spotify.com/album/2Re4uhcUmpSQVylMG4FLeI) | 3:04 | 2022-04-18 | 2022-06-28 |

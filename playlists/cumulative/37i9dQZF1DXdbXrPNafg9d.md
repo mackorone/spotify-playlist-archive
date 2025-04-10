@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Djo
 
-8,574 songs - 20 day 20 hr 3 min
+8,575 songs - 20 day 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1386,6 +1386,7 @@
 | [Chemical](https://open.spotify.com/track/4Hu99lnB5haI3J6peroaV0) | [Hamond](https://open.spotify.com/artist/2UnmGif8M5Hb5doxZIIDKR) | [Chemical](https://open.spotify.com/album/3mkIguLdL24njUt8QwRvR7) | 3:10 | 2023-04-21 | 2023-05-27 |
 | [Chemical Guidance](https://open.spotify.com/track/4cD1WDOdKGwqKNwWsPeg8U) | [Vacation Forever](https://open.spotify.com/artist/4KEM9GPRSofP8lOh2AJn1j) | [Vacation Forever, Forever](https://open.spotify.com/album/0Gkamz7Nqfrhohs9QAm0LD) | 5:50 | 2019-05-31 | 2019-06-21 |
 | [Chemicals](https://open.spotify.com/track/62hiNnKffseiS1wh8n9V24) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM), [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5) | [Chemicals](https://open.spotify.com/album/3YP85kN341xN63gAym6R8m) | 3:03 | 2025-02-21 | 2025-03-22 |
+| [Chemicals](https://open.spotify.com/track/75H2T9O2y4b5JlORHVZlBe) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM), [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5) | [Another Life](https://open.spotify.com/album/3duZIjETQX18dHLhyZ3ROo) | 3:03 | 2025-04-09 |  |
 | [Chemistry](https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Chemistry](https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ) | 4:44 | 2025-02-28 |  |
 | [Chemtrails Over The Country Club](https://open.spotify.com/track/1PZDyestTVydtHpaIcfUJg) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/5p5cFBRERDfiNJlfABACP0) | 4:31 | 2021-01-15 | 2021-03-14 |
 | [Cherry](https://open.spotify.com/track/6hrH6nUOPoB9kW2dT4GXzy) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Cherry](https://open.spotify.com/album/1tC67mJvSOPmzKqglQKrzw) | 3:32 | 2022-03-11 | 2022-04-23 |
@@ -5616,7 +5617,7 @@
 | [Part of Me](https://open.spotify.com/track/2yRlcQn3yUqseUYHw2XzNZ) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [Tungsten](https://open.spotify.com/album/0iE10xMwLrtzB0fS5Pq5Ic) | 3:21 | 2021-01-15 | 2021-03-14 |
 | [Part Of The Band](https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Part Of The Band](https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM) | 4:20 | 2022-07-08 | 2022-08-20 |
 | [Parties](https://open.spotify.com/track/574KI6BPQ0IGyyXNxz3UBa) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Parties](https://open.spotify.com/album/3ZHHDkiKZNE983pRc8ZAeS) | 3:46 | 2019-10-04 | 2019-11-01 |
-| [Partly Get By](https://open.spotify.com/track/5u4C0rTo9aGye7kVMH02oL) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [Another Life](https://open.spotify.com/album/3duZIjETQX18dHLhyZ3ROo) | 2:56 | 2025-03-12 |  |
+| [Partly Get By](https://open.spotify.com/track/5u4C0rTo9aGye7kVMH02oL) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [Another Life](https://open.spotify.com/album/3duZIjETQX18dHLhyZ3ROo) | 2:56 | 2025-03-12 | 2025-04-10 |
 | [Partly Sorry](https://open.spotify.com/track/50xwksSoSFTZyefKfIYSsx) | [Tipling Rock](https://open.spotify.com/artist/2ZDHVJnLtH2KJfBFzShihr) | [Partly Sorry / Monaco](https://open.spotify.com/album/5eQqGXYRB3zUxzwjkOrs2B) | 3:07 | 2019-06-28 | 2019-08-13 |
 | [Partner In Crime \- Spotify Singles](https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Spotify Singles](https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0) | 3:53 | 2022-07-22 | 2022-09-10 |
 | [Party](https://open.spotify.com/track/5vM3lY16JDdkHtF3AYkZkM) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Party](https://open.spotify.com/album/5SXPfqAVEriEVbm5XBNfk1) | 4:27 | 2023-02-10 | 2023-03-25 |

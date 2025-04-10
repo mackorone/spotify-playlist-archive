@@ -1,12 +1,12 @@
 {
   "description": "This is Roy Ayers. The essential tracks, all in one playlist.",
-  "num_followers": 16102,
+  "num_followers": 16107,
   "original_name": "This Is Roy Ayers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/MVgAAAAABsFj2YVVxe9lzCOOD9HQwp",
+  "snapshot_id": "Z/RnAAAAAAA0ui+cLWOC8yWy7gOTe9Nx",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Virgin Ubiquity II",
-        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 336546,
-      "name": "Funk in the Hole",
-      "url": "https://open.spotify.com/track/3olJm5hPTWRM89ZNuPbNMg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2000 Blacks Got to Be Free",
         "url": "https://open.spotify.com/album/28XsGD0agBuKQn3RFKjczf"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 293295,
       "name": "2000 Blacks Got to Be Free (Edit)",
       "url": "https://open.spotify.com/track/2n7yrYNPbpBAlFIJvlKfHk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Virgin Ubiquity II",
+        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 336546,
+      "name": "Funk in the Hole",
+      "url": "https://open.spotify.com/track/3olJm5hPTWRM89ZNuPbNMg"
     },
     {
       "added_at": null,

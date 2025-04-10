@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/MVgAAAAAA1rwKpb6OuWIYFpBwCr16x",
+  "snapshot_id": "Z/RnAAAAAABMCUBl/y5d+22gxTNonjNM",
   "tracks": [
     {
       "added_at": null,
@@ -282,11 +282,15 @@
         {
           "name": "Irv Gotti",
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
+        },
+        {
+          "name": "Caddillac Tah",
+          "url": "https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl"
         }
       ],
-      "duration_ms": 42826,
-      "name": "Boss - Skit",
-      "url": "https://open.spotify.com/track/2x81bnQVQEqhV0IWIbsMQk"
+      "duration_ms": 229333,
+      "name": "Poverlous",
+      "url": "https://open.spotify.com/track/71xeqdNfrcUdBMAOA2YdRX"
     },
     {
       "added_at": null,
@@ -298,15 +302,11 @@
         {
           "name": "Irv Gotti",
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
-        },
-        {
-          "name": "Caddillac Tah",
-          "url": "https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl"
         }
       ],
-      "duration_ms": 229333,
-      "name": "Poverlous",
-      "url": "https://open.spotify.com/track/71xeqdNfrcUdBMAOA2YdRX"
+      "duration_ms": 42826,
+      "name": "Boss - Skit",
+      "url": "https://open.spotify.com/track/2x81bnQVQEqhV0IWIbsMQk"
     },
     {
       "added_at": null,

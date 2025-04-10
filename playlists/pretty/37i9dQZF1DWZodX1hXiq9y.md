@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 
 > The greatest saxophonists in Jazz\. Cover: John Coltrane
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,198 likes - 150 songs - 15 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,274 likes - 150 songs - 15 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,8 +139,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 129 | [J.E.V.](https://open.spotify.com/track/4o16N2cUPKqIzDikfo79Eg) | [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Arild Andersen](https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m), [Edward Vesala](https://open.spotify.com/artist/1L8P0focMerZcfKibETMRr) | [Triptykon](https://open.spotify.com/album/2YHM6e7Qd12cQwHvFnrBfb) | 7:27 |
 | 130 | [Abraxas](https://open.spotify.com/track/4TLC5QFrgt4STktauA5G68) | [Fredrik Ljungkvist](https://open.spotify.com/artist/41tgRoG7bdxGN5qbEydB1w), [Yun Kan 5](https://open.spotify.com/artist/0q6wWSnM3PoDwYAmgUBCOW) | [Yun Kan 12345](https://open.spotify.com/album/0oaZ1uYPkqx6Zm3KHvLsN5) | 6:50 |
 | 131 | [Slidin' Through](https://open.spotify.com/track/4VgZG06JbEJG6CUU2ZxlKU) | [Arthur Blythe](https://open.spotify.com/artist/2vCGDtmVCSZoGIarYvJK33) | [Lenox Avenue Breakdown](https://open.spotify.com/album/0TjCtBbEIcqcRajdG0oro7) | 9:38 |
-| 132 | [All of You](https://open.spotify.com/track/00M3x3gYIj8sbO6SPVa2oz) | [Milder / Spering / Norén](https://open.spotify.com/artist/54T3sZrj7xq7IfBRxm95NS) | [Associations](https://open.spotify.com/album/3M5Vv6VLLL6whjtvfX9eSb) | 5:13 |
-| 133 | [Scrapple From The Apple](https://open.spotify.com/track/4pHMQ2nhXitWc4NpvfnzH9) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC), [Dizzy Gillespie All\-Star Quintet](https://open.spotify.com/artist/4WvN6UEEiZa1HNHZQ9e4a3) | [Parker, Charlie: Ornithology \(1945\-1947\)](https://open.spotify.com/album/3KIQyUFgbHKf8WjBhwYCaK) | 2:56 |
+| 132 | [Scrapple From The Apple](https://open.spotify.com/track/4pHMQ2nhXitWc4NpvfnzH9) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC), [Dizzy Gillespie All\-Star Quintet](https://open.spotify.com/artist/4WvN6UEEiZa1HNHZQ9e4a3) | [Parker, Charlie: Ornithology \(1945\-1947\)](https://open.spotify.com/album/3KIQyUFgbHKf8WjBhwYCaK) | 2:56 |
+| 133 | [All of You](https://open.spotify.com/track/00M3x3gYIj8sbO6SPVa2oz) | [Milder / Spering / Norén](https://open.spotify.com/artist/54T3sZrj7xq7IfBRxm95NS) | [Associations](https://open.spotify.com/album/3M5Vv6VLLL6whjtvfX9eSb) | 5:13 |
 | 134 | [Black Light](https://open.spotify.com/track/5xLAMUIOxxIOJPp3CnduIi) | [Pepper Adams](https://open.spotify.com/artist/7fSCq6nVoFiyBqFD8fQFWR), [Thad Jones](https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh), [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap), [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG) | [Pepper Adams Plays The Compositions of Charlie Mingus](https://open.spotify.com/album/0oqwEDzBuX7wKNcLxskKI4) | 3:44 |
 | 135 | [Don't Blame Me \- Rudy Van Gelder Remaster](https://open.spotify.com/track/6tY5UzJKw5Ihy2d3C8EIQo) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Eastern Sounds](https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f) | 4:53 |
 | 136 | [You've Got To Have Freedom](https://open.spotify.com/track/6Gxz7ON8RNy0i9N9t9veZR) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Pharoah Sanders' Finest](https://open.spotify.com/album/64Yl765jHytmW1NXp1sLh2) | 10:06 |

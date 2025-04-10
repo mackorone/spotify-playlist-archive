@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: BUS
 
-678 songs - 1 day 16 hr 3 min
+679 songs - 1 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [See You Somewhere \- From ซองแดงแต่งผี](https://open.spotify.com/track/3iTOd09b4Dsz1QucpGMivX) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ซองแดงแต่งผี \(OST\. The Red Envelope Album\)](https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2) | 3:39 | 2025-03-31 |  |
 | [Shoot \(Choose\) เลย](https://open.spotify.com/track/6tFi6XNeINiaexPT6UEsr7) | [BOSS.CKM](https://open.spotify.com/artist/2ydSOTHypXPznsmVExy296) | [Shoot \(Choose\) เลย](https://open.spotify.com/album/6x16iACbWCOQ6f5NmMO1Is) | 3:30 | 2024-04-11 | 2024-04-19 |
 | [sit down \(please\)](https://open.spotify.com/track/6rdvnD6z1xJbTidt3Q9FJP) | [minekuk](https://open.spotify.com/artist/7g2BV00EBpwqYizj9gXbYK) | [sit down \(please\)](https://open.spotify.com/album/5At3PVA5w5fTxoyd4USrkP) | 3:45 | 2022-05-26 | 2022-06-01 |
-| [Situationship](https://open.spotify.com/track/7veRW1AYR9d5AWM7mN4h0M) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Situationship](https://open.spotify.com/album/4K2bmXaiYJESGL3hiIAEnd) | 3:10 | 2024-06-02 |  |
+| [Situationship](https://open.spotify.com/track/7veRW1AYR9d5AWM7mN4h0M) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Situationship](https://open.spotify.com/album/4K2bmXaiYJESGL3hiIAEnd) | 3:10 | 2024-06-02 | 2025-04-10 |
 | [Sleepin' Pill](https://open.spotify.com/track/1cgolP8DdBgHq6s9DWgsNC) | [BRIGHT](https://open.spotify.com/artist/00AG9ycUdGUSIWuekBMp5H), [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2) | [Sleepin' Pill](https://open.spotify.com/album/1QyyEhCscmMupc04jqN3CU) | 3:34 | 2024-06-27 | 2024-07-12 |
 | [Smash or Pass \- Original Soundtrack From Out of the nest](https://open.spotify.com/track/442Za23vtvJthRqBVBkSc5) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Smash or Pass \(Original Soundtrack From Out of the nest\)](https://open.spotify.com/album/0Fkt3VKyuPCTXNOLDMjLGE) | 2:46 | 2024-08-01 | 2024-08-09 |
 | [So Big](https://open.spotify.com/track/6QB644JBem2AXeb3q4OLtT) | [Wonderframe](https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9) | [Yours <3](https://open.spotify.com/album/3VUPo0U0ZShcYi1wmTipRr) | 3:04 | 2022-06-09 | 2022-06-17 |
@@ -324,6 +324,7 @@
 | [ต่อให้เธออยู่ไกล \(Moon to Mars\)](https://open.spotify.com/track/5GFLKQNrG9WULCp3AxDXyo) | [OABNITHI](https://open.spotify.com/artist/0POiRdWHPEPL1bhVAyLpAv) | [ต่อให้เธออยู่ไกล \(Moon to Mars\)](https://open.spotify.com/album/6xglF99e8jnj5hfzpV2IQW) | 3:24 | 2023-02-23 | 2023-03-03 |
 | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/album/0r44ojXJL6dDQdd0istDQF) | 4:06 | 2022-05-26 | 2023-09-09 |
 | [ต้านไม่ไหว \(magnetize\)](https://open.spotify.com/track/5HTpwZZ7Xg5YRSbwrkvnZG) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G), [XX](https://open.spotify.com/artist/67ESbusyanUlxkaZ06dYrJ) | [ต้านไม่ไหว \(magnetize\)](https://open.spotify.com/album/2Yf5NftN7hgVHKKWUkhykr) | 4:12 | 2024-07-11 | 2024-08-02 |
+| [ถอด \(TAKE IT OFF\)](https://open.spotify.com/track/7C1NEDCvP1psZenFDA3Sxx) | [JASP.ER](https://open.spotify.com/artist/1wBe2nbEVc01LGBk4YCxER) | [ถอด \(TAKE IT OFF\)](https://open.spotify.com/album/6TuDxAfaPZcdBS9RreBmhL) | 2:42 | 2025-04-09 |  |
 | [ถูกออกแบบให้อยู่คนเดียว](https://open.spotify.com/track/1ke1sGWrCPDyXtZy6xXzAq) | [ROOFTOP](https://open.spotify.com/artist/3wzGjN26jzqLY2Gc836sjC) | [ถูกออกแบบให้อยู่คนเดียว](https://open.spotify.com/album/3rLD9S8sTdWU46plj5snNG) | 3:03 | 2022-07-30 | 2022-08-06 |
 | [ถ้าจูบได้เพียงหนึ่งครั้ง \(Last Kiss\)](https://open.spotify.com/track/768V6zjx23Sd1oqtKlxIAx) | [LAZ1](https://open.spotify.com/artist/3jratub4tdVTntKxLeoNpz) | [ถ้าจูบได้เพียงหนึ่งครั้ง \(Last Kiss\)](https://open.spotify.com/album/4fvLJyx7dG6ewjIT9FSXMJ) | 4:01 | 2022-07-22 | 2022-08-06 |
 | [ถ้าพี่ยังว่างอยู่..\. \(Come to be mine\) \- Special Track](https://open.spotify.com/track/29o0NtvmnO9LqXA3SLBAzp) | [THI\-O&TUTOR](https://open.spotify.com/artist/0iQRr3ewj0oFUnhccKmx0b) | [ถ้าพี่ยังว่างอยู่..\. \(Come to be mine\) \[Special Track\]](https://open.spotify.com/album/2aWjMiLMRKZDM2sytFHuVZ) | 3:54 | 2023-05-26 | 2023-06-02 |

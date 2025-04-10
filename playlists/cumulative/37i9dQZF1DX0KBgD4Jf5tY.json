@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente italiana, aggiornata ogni mercoled\u00ec. Cover: <a href=\"spotify:artist:2xP0ZgiHfJOP8dzz3ij10b\">Bordeaux</a>",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:60hS0Wt0Px2B3rr9Zzur8E\">Gaia Banfi</a>, in cover, con il suo album d'esordio La Maccaia.",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -1854,7 +1854,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 174545,
       "name": "Amore Dejav\u00f9",
       "url": "https://open.spotify.com/track/0occr1ZWlEXM5C63eoRNaO"
@@ -3234,7 +3234,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 198000,
       "name": "Better",
       "url": "https://open.spotify.com/track/1AGvoZWiEL3cUGKSLQdyOt"
@@ -5365,6 +5365,24 @@
     },
     {
       "album": {
+        "name": "Ci vorresti tu",
+        "url": "https://open.spotify.com/album/17SxLS2yNxzZXjKdD8C0GX"
+      },
+      "artists": [
+        {
+          "name": "MALTO",
+          "url": "https://open.spotify.com/artist/2GDjDJDeryXhMiZDDslMlc"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220060,
+      "name": "Ci vorresti tu",
+      "url": "https://open.spotify.com/track/4iiaXM20CxgP3VRnqBLk4c"
+    },
+    {
+      "album": {
         "name": "CICATRICI",
         "url": "https://open.spotify.com/album/02ziDaOuOlbV4TZpLdTXFc"
       },
@@ -5814,6 +5832,32 @@
       "duration_ms": 141600,
       "name": "come i fiori",
       "url": "https://open.spotify.com/track/1bOIIQUgoxmdCvbIgT2ktR"
+    },
+    {
+      "album": {
+        "name": "COME PRIMA",
+        "url": "https://open.spotify.com/album/0JiPys1vGZzpcgfi6nyTHi"
+      },
+      "artists": [
+        {
+          "name": "PARIDE",
+          "url": "https://open.spotify.com/artist/032syoAKbxdyWFRlyk0PJv"
+        },
+        {
+          "name": "Erba",
+          "url": "https://open.spotify.com/artist/6wO3gGgeaezAmqNltspVcW"
+        },
+        {
+          "name": "EnimraK",
+          "url": "https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "COME PRIMA",
+      "url": "https://open.spotify.com/track/1gurGnBM3nVvatiLd4rwOz"
     },
     {
       "album": {
@@ -8729,6 +8773,28 @@
     },
     {
       "album": {
+        "name": "Yandieland",
+        "url": "https://open.spotify.com/album/5B14TGQflzXYbTQabRaTpl"
+      },
+      "artists": [
+        {
+          "name": "Yandie Gotam",
+          "url": "https://open.spotify.com/artist/12UoE3xYsxvEWaofNx00Jp"
+        },
+        {
+          "name": "Ervie",
+          "url": "https://open.spotify.com/artist/2jv3dj48LmJ18EwXdgzARH"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105600,
+      "name": "FELPA GRIGIA",
+      "url": "https://open.spotify.com/track/4O9E7b1wwVDdAJqTxpufCM"
+    },
+    {
+      "album": {
         "name": "Ferite",
         "url": "https://open.spotify.com/album/06wGLhGbwYX6ZSwYv2Ltf4"
       },
@@ -8999,6 +9065,28 @@
     },
     {
       "album": {
+        "name": "Fimmine De Guerra",
+        "url": "https://open.spotify.com/album/6cnY3Ee0i97Xi1gnsURVW7"
+      },
+      "artists": [
+        {
+          "name": "DDUMA",
+          "url": "https://open.spotify.com/artist/0IpuoeEIxyOxBICJVARGzG"
+        },
+        {
+          "name": "PRIMA ALBA",
+          "url": "https://open.spotify.com/artist/7JBiKcvAbC3B9LlnLr2KBv"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199564,
+      "name": "Fimmine De Guerra",
+      "url": "https://open.spotify.com/track/6zRz3vxKERGcdU1OhB1zVW"
+    },
+    {
+      "album": {
         "name": "La Natura Delle Cose",
         "url": "https://open.spotify.com/album/70U6NCortefGdhtoGb1NFn"
       },
@@ -9126,6 +9214,24 @@
       "duration_ms": 158437,
       "name": "fiori sul prato",
       "url": "https://open.spotify.com/track/5yIIVLBUQXNWUcZSPAjYED"
+    },
+    {
+      "album": {
+        "name": "Fischio Finale",
+        "url": "https://open.spotify.com/album/1hKpeuN6tI9G9oeEuea1VE"
+      },
+      "artists": [
+        {
+          "name": "MAT\u00cdS",
+          "url": "https://open.spotify.com/artist/1STJnuZ3De69Pm53puf4vi"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185753,
+      "name": "Fischio Finale",
+      "url": "https://open.spotify.com/track/5s1W2LT8FCXPPmlGpQXw27"
     },
     {
       "album": {
@@ -10240,7 +10346,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 142977,
       "name": "GOCCE",
       "url": "https://open.spotify.com/track/4mTJ3t2mTPh01CZRPP0Aiu"
@@ -10258,7 +10364,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 166196,
       "name": "Gocce",
       "url": "https://open.spotify.com/track/3SEae5NvhxHrZyU7DkpCEF"
@@ -11296,6 +11402,24 @@
       "duration_ms": 191842,
       "name": "Il kiwi australe",
       "url": "https://open.spotify.com/track/153l4lmTyCjtnJ6g7U81bt"
+    },
+    {
+      "album": {
+        "name": "La Maccaia",
+        "url": "https://open.spotify.com/album/4atG7yAO3KzgNissARQQM4"
+      },
+      "artists": [
+        {
+          "name": "Gaia Banfi",
+          "url": "https://open.spotify.com/artist/60hS0Wt0Px2B3rr9Zzur8E"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209428,
+      "name": "Il lungoriva di Genova",
+      "url": "https://open.spotify.com/track/6QZsLOzlZfGqpGqXKOw2Bb"
     },
     {
       "album": {
@@ -13122,7 +13246,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 145479,
       "name": "Lagna",
       "url": "https://open.spotify.com/track/1XorQLYOAy0i0nE4cq1ghE"
@@ -13238,6 +13362,24 @@
       "duration_ms": 183232,
       "name": "Le parole che mi hai detto",
       "url": "https://open.spotify.com/track/7dH953m3coaOydkvfPFNxN"
+    },
+    {
+      "album": {
+        "name": "Le ragazz\u00eb",
+        "url": "https://open.spotify.com/album/5HPjlCmOnj0fusoe9OYwDZ"
+      },
+      "artists": [
+        {
+          "name": "Clam\u00f6",
+          "url": "https://open.spotify.com/artist/3NHMeAt6gT8bx5Pru8n1jR"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116630,
+      "name": "Le ragazz\u00eb",
+      "url": "https://open.spotify.com/track/1CrYySS676TSHXmajMB5qv"
     },
     {
       "album": {
@@ -14710,7 +14852,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 190728,
       "name": "Mamma",
       "url": "https://open.spotify.com/track/0faHOvwtU5PW0MQcoaF2LW"
@@ -15058,7 +15200,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 123271,
       "name": "Mary",
       "url": "https://open.spotify.com/track/3aJZw1kbppqcijZHNgIrcV"
@@ -16186,7 +16328,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 122343,
       "name": "Mountain Mama",
       "url": "https://open.spotify.com/track/58Rr9zyZETlh66EvM6OxMk"
@@ -17988,7 +18130,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 200000,
       "name": "Non \u00c8 Normale (feat Yele)",
       "url": "https://open.spotify.com/track/536RGaYKYdbV69tB8TzbLz"
@@ -18130,7 +18272,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 132286,
       "name": "nostalgia3000",
       "url": "https://open.spotify.com/track/67Y8CZzT6wykyO5l5Uq6Ex"
@@ -18344,6 +18486,24 @@
       "duration_ms": 216898,
       "name": "Obeye",
       "url": "https://open.spotify.com/track/2cvMCOv9LHDgZHe9ivpXtK"
+    },
+    {
+      "album": {
+        "name": "oblivious",
+        "url": "https://open.spotify.com/album/1vKVku2F0HL7r1lJvnGtXV"
+      },
+      "artists": [
+        {
+          "name": "georgia, georgia",
+          "url": "https://open.spotify.com/artist/08O0sKRCrDDxVnduKUQNH6"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141490,
+      "name": "oblivious",
+      "url": "https://open.spotify.com/track/6p8uIkWuQc4H4F1kYmJ86h"
     },
     {
       "album": {
@@ -18764,7 +18924,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 192250,
       "name": "Ombra",
       "url": "https://open.spotify.com/track/3P8nvWpwM6TuGHB4a24ZVk"
@@ -20184,7 +20344,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 218695,
       "name": "Piazza Centrale",
       "url": "https://open.spotify.com/track/18Qwl091shcZXWQJVu1ALh"
@@ -22763,6 +22923,24 @@
     },
     {
       "album": {
+        "name": "Sassi New Island",
+        "url": "https://open.spotify.com/album/2mGABrtD9TlbtHJybZlbSy"
+      },
+      "artists": [
+        {
+          "name": "43.Nove",
+          "url": "https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164160,
+      "name": "Sassi New Island",
+      "url": "https://open.spotify.com/track/3uvN7SXu70q52AJMgxdDyG"
+    },
+    {
+      "album": {
         "name": "Scartaggi",
         "url": "https://open.spotify.com/album/06BUg0CBtQcPvXmAA8Uwx1"
       },
@@ -23272,6 +23450,24 @@
       "duration_ms": 162058,
       "name": "se non te",
       "url": "https://open.spotify.com/track/1ro6xYAxt8jtCqCSrkjNdN"
+    },
+    {
+      "album": {
+        "name": "Giulio Maria & The Growers",
+        "url": "https://open.spotify.com/album/6ty2xP7xmRvbPuPSQsEOPf"
+      },
+      "artists": [
+        {
+          "name": "giuliomaria",
+          "url": "https://open.spotify.com/artist/0huG2sNr5rcLybkwdTUEg7"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124347,
+      "name": "Se Voglio",
+      "url": "https://open.spotify.com/track/2TAnEqp5uaWQp0l2iQ4zIV"
     },
     {
       "album": {
@@ -28001,6 +28197,24 @@
     },
     {
       "album": {
+        "name": "VESPE",
+        "url": "https://open.spotify.com/album/7bOGXwSjPLMFuTVGCT1oXa"
+      },
+      "artists": [
+        {
+          "name": "RIVERA",
+          "url": "https://open.spotify.com/artist/5k49BRqiNw8x7q5N6Lgwkh"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167191,
+      "name": "VESPE",
+      "url": "https://open.spotify.com/track/5G0BRVz7RoKi3iSpBpr0Db"
+    },
+    {
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/0J0dPruzvugDSWyRpeXN30"
       },
@@ -28494,6 +28708,24 @@
       "duration_ms": 204631,
       "name": "Water To The Loo",
       "url": "https://open.spotify.com/track/0XcsjSdJ4PgvU3Uzo4UA7D"
+    },
+    {
+      "album": {
+        "name": "Wave On Sand",
+        "url": "https://open.spotify.com/album/4LyyrlkDwesroKmnhqf5CP"
+      },
+      "artists": [
+        {
+          "name": "Ghosts Make Friends",
+          "url": "https://open.spotify.com/artist/6F24FwMcnn31QaQS1mfyA6"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149557,
+      "name": "Wave On Sand",
+      "url": "https://open.spotify.com/track/1Xr1nrDlqWT89Nv8D2uhze"
     },
     {
       "album": {

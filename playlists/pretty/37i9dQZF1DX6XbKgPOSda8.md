@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 
 > ¡Oi nomás ese cumbión!
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,626 likes - 125 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,688 likes - 125 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 99 | [Tiene Espinas El Rosal](https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 3:57 |
 | 100 | [El Verde De Tus Ojos](https://open.spotify.com/track/1UKNDMySEIHiCSXDWkDfX3) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Serie 20 Exitos Los Yes Yes](https://open.spotify.com/album/7AD9IxY8zyCNjGqyut7p1t) | 5:13 |
 | 101 | [Tus Jefes No Me Quieren](https://open.spotify.com/track/16OHjORdq0UoVilD02ZzXN) | [Grupo Ensamble](https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI) | [Tus Jefes No Me Quieren](https://open.spotify.com/album/0cuK61I1W8lfJy6MYHUNMh) | 3:44 |
-| 102 | [Conga Y Timbal](https://open.spotify.com/track/7LXEJkLmNUCXD4WNbshFdy) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Conga Y Timbal](https://open.spotify.com/album/0KkFcyHUrtHjSjrdMmX7Wi) | 3:39 |
+| 102 | [Vida No Te Vayas](https://open.spotify.com/track/5Kai2HEyMEN12TyndhDyZn) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP) | 3:48 |
 | 103 | [El Baile De San Juan](https://open.spotify.com/track/3OWgaoLMcjnF6RRbzZrS7O) | [Grupo La Chomba](https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd) | [Con Musica Del Barrio y Para El Barrio](https://open.spotify.com/album/35L0etvGB9w2whJfmkkXQo) | 4:14 |
 | 104 | [Las Amo a Las Dos](https://open.spotify.com/track/0jhtqu6qU7UU4qEfQuv634) | [Cumbias Poblanas](https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4) | [Cumbia Pa' seguir Bailando](https://open.spotify.com/album/0XgaEEDzNf5VjXlaSV1eHK) | 4:49 |
 | 105 | [El Reo Ausente](https://open.spotify.com/track/6feUE7Z9pGHfCHbh6EOA0j) | [Nery Pedraza](https://open.spotify.com/artist/2auNLhntCTSNSUhsN0MCQ0), [Los Guraperos de la Cumbia](https://open.spotify.com/artist/2qzwx9X95HrGfehodiubOs) | [Desafiando Estilos](https://open.spotify.com/album/2REmS5o5mh0QWNuZa6WGhs) | 5:49 |
@@ -119,11 +119,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 109 | [Felicidad](https://open.spotify.com/track/27HEcrCxtG7hJQSi1JzMJI) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Felicidad](https://open.spotify.com/album/2QkBW647a6C5INrd9xdugl) | 3:17 |
 | 110 | [Quiero Saber De Ti](https://open.spotify.com/track/6VHvhh6EHW8vxNbW9vvDNA) | [Xochilt](https://open.spotify.com/artist/2aHIy41xJKMsudwVFxCfoB) | [Lo Nuevo Y Lo Mejor](https://open.spotify.com/album/4Y5uyNerkMggWEEilBTAXJ) | 3:48 |
 | 111 | [Cumbia De Los Patos](https://open.spotify.com/track/1PWsrogVaU1Om4XHcCtrso) | [Danny Y Su Grupo](https://open.spotify.com/artist/2ImM0esZBVzieN7AxMU3ji) | [Disco De Oro Sonidero](https://open.spotify.com/album/7KLAFeMq5gDBHhl1mM8ur1) | 3:41 |
-| 112 | [Como Decirte Adios](https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP) | 3:27 |
+| 112 | [Conga Y Timbal](https://open.spotify.com/track/7LXEJkLmNUCXD4WNbshFdy) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Conga Y Timbal](https://open.spotify.com/album/0KkFcyHUrtHjSjrdMmX7Wi) | 3:39 |
 | 113 | [Agua de vida](https://open.spotify.com/track/4R6WYoefcvItKOQWbCWybg) | [Perla Colombiana](https://open.spotify.com/artist/28DMUdkRLYzfNz8Jb6mU14) | [La Perla Colombiana 20 Exitos \(Vol 1\)](https://open.spotify.com/album/1boTDcBDk41mklPCQTQfnu) | 3:38 |
 | 114 | [No Me Llames Mas](https://open.spotify.com/track/0hs7HcC5yR727pM2xWEqeN) | [Alcalde La Sonora](https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ) | [No Me Llames Mas](https://open.spotify.com/album/64MByVkltf90JUh4xgD2Gf) | 4:27 |
 | 115 | [Mi Cucu](https://open.spotify.com/track/22FB6hM6aonuPuVzBQYRcx) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [La Sonora Dinamita Tributo a: Lucho Argain Vol\. 1](https://open.spotify.com/album/48nbvAUIvwhn49b7ZwF9A4) | 3:54 |
-| 116 | [Vida No Te Vayas](https://open.spotify.com/track/5Kai2HEyMEN12TyndhDyZn) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP) | 3:48 |
+| 116 | [Como Decirte Adios](https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP) | 3:27 |
 | 117 | [Alma De Acero](https://open.spotify.com/track/36L3qqhm1COyggnY3aOGvX) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Gigantes De La Cumbia, Vol\. 1, Disco 1](https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly) | 3:44 |
 | 118 | [Mama Cumbia](https://open.spotify.com/track/108YjsKsz4buKAkCUYc0XQ) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Llorar](https://open.spotify.com/album/1vUDDqbBTvOTVTNC0rs3Iz) | 3:21 |
 | 119 | [Otra Noche](https://open.spotify.com/track/1bh78E6P230qD5OLLNnAqq) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Cumbia del Corazón](https://open.spotify.com/album/2vfaAgiqzNxbHP14nIe0Ht) | 3:18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 
 > wandering the forest as the fog floats through the trees
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,999 likes - 69 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,132 likes - 69 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 9 | [Common](https://open.spotify.com/track/37cddsvKZTPyYipLpzjpDx) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Common](https://open.spotify.com/album/2hGtMdGoaRqKeADSD1KyPD) | 2:35 |
 | 10 | [Light Bed \(Circle 51\)](https://open.spotify.com/track/4qnsORGXJJzD5bw21ec6ck) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Peia](https://open.spotify.com/artist/7fmsT5hyByIpjzMfgrhTM2) | [Light Bed \(Circle 51\)](https://open.spotify.com/album/1RmzyazHty7pPURWu2CFir) | 4:35 |
 | 11 | [Solar Nights](https://open.spotify.com/track/4m0A9IhXFzCG04iJKoxA0o) | [Juha Mäki\-Patola](https://open.spotify.com/artist/6UMvXeBrLr04seUgcTvlxK) | [Solar Nights](https://open.spotify.com/album/2NtvvyLV9jKjsxVeVd0RFl) | 2:43 |
-| 12 | [Caelum, No\. I](https://open.spotify.com/track/0zO571dyb03qEZNzFeqwXG) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr) | [Caelum \(Excerpts\)](https://open.spotify.com/album/5pSaANL2BvibUYoIJ8byQb) | 5:36 |
+| 12 | [Caelum, No\. I](https://open.spotify.com/track/0zO571dyb03qEZNzFeqwXG) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr), [Z.D\. Frizzell](https://open.spotify.com/artist/3R53DcUlebQyORIV3hGTFJ) | [Caelum \(Excerpts\)](https://open.spotify.com/album/5pSaANL2BvibUYoIJ8byQb) | 5:36 |
 | 13 | [come](https://open.spotify.com/track/6MX8v7cRooNQb5fW5Uo6Sm) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 5:17 |
 | 14 | [Line Gone Cold \- Deconstructed](https://open.spotify.com/track/02hS8hWSlOdP8FvC2VK063) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Line Gone Cold \(Deconstructed\)](https://open.spotify.com/album/5fMIvFAs8VY75dTMCgsGEq) | 2:36 |
 | 15 | [Dance of Seasons](https://open.spotify.com/track/7Ikb6ccHVKwhmafzmpQFSN) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Dance of Seasons](https://open.spotify.com/album/08Z5Fkweh6PZirP9LVfnbr) | 7:02 |

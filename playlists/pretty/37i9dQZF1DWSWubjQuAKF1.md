@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 
 > świeże brzmienia na horyzoncie ✨ Cover: MAJA
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,216 likes - 65 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,252 likes - 65 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

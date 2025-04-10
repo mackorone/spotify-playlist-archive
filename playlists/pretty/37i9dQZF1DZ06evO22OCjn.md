@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,508 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,589 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 16 | [It's Plenty](https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:36 |
 | 17 | [23](https://open.spotify.com/track/0zgeYAouscRmTZ90HM1NA3) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV) | 4:05 |
 | 18 | [Ginger \(feat\. Burna Boy\)](https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:16 |
-| 19 | [Sungba \(feat\. Burna Boy\) \- Remix](https://open.spotify.com/track/4k4pdUWX8632g7yByxC3rS) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 3:30 |
-| 20 | [Gbona](https://open.spotify.com/track/1PlYxNrefqOBvk52umixt9) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP) | 3:07 |
+| 19 | [Gbona](https://open.spotify.com/track/1PlYxNrefqOBvk52umixt9) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP) | 3:07 |
+| 20 | [Sungba \(feat\. Burna Boy\) \- Remix](https://open.spotify.com/track/4k4pdUWX8632g7yByxC3rS) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 3:30 |
 | 21 | [My Oasis \(feat\. Burna Boy\)](https://open.spotify.com/track/1F2K8y7e7STRGCySkEpBtT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 2:59 |
 | 22 | [Own It \(feat\. Ed Sheeran & Burna Boy\)](https://open.spotify.com/track/4QPEwDdOMhY7rNS05mTyMR) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Heavy Is The Head](https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c) | 3:36 |
 | 23 | [Real Life \(feat\. Stormzy\)](https://open.spotify.com/track/2eFsasDs4w4YUHBvaKyNNZ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Twice As Tall](https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV) | 3:17 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 31 | [Dangote](https://open.spotify.com/track/7JbaXy70jy2d2kHLvks8Ei) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs) | 3:45 |
 | 32 | [Do I \- Remix](https://open.spotify.com/track/7yKjDDd9w01nFEOD5adoHq) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Do I \(Remix\)](https://open.spotify.com/album/5aVA4avxVgyg1S6iVQpx0m) | 2:18 |
 | 33 | [On Form](https://open.spotify.com/track/2vocGs3C0oElZiVwZSQZPg) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH) | 3:43 |
-| 34 | [Way Too Big](https://open.spotify.com/track/3bOBWIdkRyN9yaGJ7uSOTf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV) | 3:20 |
-| 35 | [Pree Me](https://open.spotify.com/track/0Jf5aygE2PZ3xXBu0B4Ezd) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Redemption](https://open.spotify.com/album/50qNx4v7MKypMx5wGynQ8j) | 3:20 |
+| 34 | [Pree Me](https://open.spotify.com/track/0Jf5aygE2PZ3xXBu0B4Ezd) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Redemption](https://open.spotify.com/album/50qNx4v7MKypMx5wGynQ8j) | 3:20 |
+| 35 | [Way Too Big](https://open.spotify.com/track/3bOBWIdkRyN9yaGJ7uSOTf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV) | 3:20 |
 | 36 | [Want It All](https://open.spotify.com/track/0tHvVjzxytG1BzfAJTJPtX) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All](https://open.spotify.com/album/6ggFYFT8Jiq3qw43SqYHQj) | 3:52 |
 | 37 | [Talibans II \- Bonus Track](https://open.spotify.com/track/1WsIk6g7dD8LZouywnzGUb) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:56 |
 | 38 | [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 49 | [Jerusalema \(feat\. Burna Boy & Nomcebo Zikode\) \- Remix](https://open.spotify.com/track/1dmES1X8l1AnFBy2gR3wYA) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Jerusalema \(Deluxe\)](https://open.spotify.com/album/4Kf2NqytdWUKXgnvsRVlLR) | 5:28 |
 | 50 | [Masculine \(feat\. Burna Boy\)](https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:24 |
 
-Snapshot ID: `Z/MVgAAAAAAbiiwqvnx84PUy7cgfRlhS`
+Snapshot ID: `Z/RnAAAAAADWgtUyEzsT0IY9C50MhdR9`

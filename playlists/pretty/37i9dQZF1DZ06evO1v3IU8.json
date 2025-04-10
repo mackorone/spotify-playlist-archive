@@ -1,12 +1,12 @@
 {
   "description": "This is Banda MS de Sergio Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 1345162,
+  "num_followers": 1345252,
   "original_name": "This Is Banda MS de Sergio Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/MVgAAAAADJGx05b/bkURvSE9b0xL0K",
+  "snapshot_id": "Z/RnAAAAAADFGO0xkrejGaFCV9oF8NH2",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Edici\u00f3n Limitada",
-        "url": "https://open.spotify.com/album/5d4TvsUqIKmZQV3Pr5nHaF"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 168480,
-      "name": "Est\u00e1s Cancelada",
-      "url": "https://open.spotify.com/track/2AmgtgMbKtLszGa4Xgh6I0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Preparaci\u00f3n",
         "url": "https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 162253,
       "name": "Sin Evidencia",
       "url": "https://open.spotify.com/track/62w2zglpnJApdA3VqepzBZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Edici\u00f3n Limitada",
+        "url": "https://open.spotify.com/album/5d4TvsUqIKmZQV3Pr5nHaF"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 168480,
+      "name": "Est\u00e1s Cancelada",
+      "url": "https://open.spotify.com/track/2AmgtgMbKtLszGa4Xgh6I0"
     },
     {
       "added_at": null,

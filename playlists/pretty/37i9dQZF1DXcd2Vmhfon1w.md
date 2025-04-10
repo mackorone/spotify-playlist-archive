@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. GRECAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,997 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,036 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hugo Bozz](https://open.spotify.com/track/5Z00rHfWwTteOUPy8k5B9P) | [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4), [JCC](https://open.spotify.com/artist/7rbogZhjRh7OvlNYjeyy8U) | [GRECONETA](https://open.spotify.com/album/2r2mPvOEcLLzKPXikEOmuQ) | 1:57 |
 | 2 | [True Love](https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW) | [Carrion GodBle$$](https://open.spotify.com/artist/7we8fCds6Fc36UjH1oq4OU), [Saske](https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW) | [True Love](https://open.spotify.com/album/1svYzadjdS9RrR2E2EPEhj) | 5:58 |
-| 3 | [Florian Wirtz](https://open.spotify.com/track/1mUL8L75S58pqmKwa8Fs07) | [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4) | [Florian Wirtz](https://open.spotify.com/album/6BV9kvOVmWcteGF4yDO27w) | 2:06 |
+| 3 | [Florian Wirtz](https://open.spotify.com/track/1mUL8L75S58pqmKwa8Fs07) | [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4), [Delson Aravena](https://open.spotify.com/artist/7z3WDAzeazNjQckDeenDAf) | [Florian Wirtz](https://open.spotify.com/album/6BV9kvOVmWcteGF4yDO27w) | 2:06 |
 | 4 | [Celine \(with Kidd Keo\)](https://open.spotify.com/track/5ER5Fr1Cv7N3chJhAapt66) | [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Celine \(with Kidd Keo\)](https://open.spotify.com/album/4Uew91PetBzYYnSg83m3HT) | 2:56 |
 | 5 | [Veneno](https://open.spotify.com/track/5AQTFpm3oDPTenmw5Lmfoi) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8) | [La Tour Liffee](https://open.spotify.com/album/0UYDVbpaX2fpXiGDsxPzsY) | 4:18 |
 | 6 | [El Diario del Loco](https://open.spotify.com/track/6HlX2bpBirY8SBoBMc69nj) | [Blake](https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF), [Kandas](https://open.spotify.com/artist/4gMZApWfk1wPyjVnS8LUjP) | [El Diario del Loco](https://open.spotify.com/album/56BZCljC5qDOpNuyHlNzQ9) | 3:40 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,442 likes - 124 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,445 likes - 124 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 5 | [鑰匙還你](https://open.spotify.com/track/2gloLtkhS6dtpm72HtCxKQ) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX) | [鑰匙還你](https://open.spotify.com/album/1Zl3YpE95vcuX8WMSWxQCz) | 3:08 |
 | 6 | [給你聽的歌](https://open.spotify.com/track/1L0EzhqDJx5dUXIFsNJp5i) | [空心鮟鱇魚](https://open.spotify.com/artist/1T0vblKFGW5doCb8VqAOxR) | [給你聽的歌](https://open.spotify.com/album/16KtxM4tQDVifdifPF9yrN) | 5:54 |
 | 7 | [能不能](https://open.spotify.com/track/7I4pOB2FJQtwLTXmmuQrl4) | [1K](https://open.spotify.com/artist/3jA4yAKBVxi0j63Fglm1pU) | [能不能](https://open.spotify.com/album/5Jp73qPA6Tet1ep1bOyGQU) | 3:19 |
-| 8 | [我天生 \- 有夢版](https://open.spotify.com/track/2YtxuYoG085nAa0F23c8Ln) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我天生 \- 有夢版](https://open.spotify.com/album/28W9uyxA4MIu5npe8Rt1sI) | 4:40 |
+| 8 | [我天生 \- 有夢版](https://open.spotify.com/track/2YtxuYoG085nAa0F23c8Ln) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我天生 \- 有夢版](https://open.spotify.com/album/28W9uyxA4MIu5npe8Rt1sI) | 4:39 |
 | 9 | [情骨（《念无双》影视剧主题曲）](https://open.spotify.com/track/7iPZHXN5xSLMeHyvMIJF3u) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60), [Jane Zhang](https://open.spotify.com/artist/7qJmFr579WC8MMGj4PiWdu) | [情骨（《念无双》影视剧主题曲）](https://open.spotify.com/album/605bwPlvV6XMToPWsIrNw8) | 4:23 |
 | 10 | [降解](https://open.spotify.com/track/4guadxg0rcOgzqzIiDYwfE) | [苏星婕](https://open.spotify.com/artist/19nBOLVLKxrijWEvjpXFI8) | [降解](https://open.spotify.com/album/3wFmRphNQDSN2Cn7SFO9Jn) | 2:07 |
 | 11 | [她沒有來參加我的告別式](https://open.spotify.com/track/1aqBywbtD0MXJTiCTlT73X) | [田亞霍](https://open.spotify.com/artist/2gWiiqMQFlfLjYp43IiQit) | [她沒有來參加我的告別式](https://open.spotify.com/album/7lS3Z2JXPCw42M0zjV1lOB) | 3:02 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 81 | [單曲循環](https://open.spotify.com/track/0m0lYrAvFsnljX3IuRMt9R) | [古曜威](https://open.spotify.com/artist/1RQYK3UpDp41or9slWgv8v) | [單曲循環](https://open.spotify.com/album/42jugIvFdT0cjK4I61gvBY) | 4:08 |
 | 82 | [給20年後的妳](https://open.spotify.com/track/5HFJZVtJgDCxcNVqmaC2hX) | [YABE](https://open.spotify.com/artist/2cgY2IUcXDMAW2ahHpbO8M) | [給20年後的妳](https://open.spotify.com/album/2G0LDWLiuCkPZ1wK90fMoM) | 4:07 |
 | 83 | [未完待續 \( 飲冰室茶集為愛發聲 創作曲 \)](https://open.spotify.com/track/64qnAIAkkKjLfJcxaopwzv) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ) | [未完待續 \( 飲冰室茶集為愛發聲 創作曲 \)](https://open.spotify.com/album/0JkH98SX1EUFyhk8J9bElw) | 4:23 |
-| 84 | [湖泊與海](https://open.spotify.com/track/3mufMdqpRhYmHIHt8dhQOs) | [曹策勛](https://open.spotify.com/artist/0WNcJ4HLIndAptNMUWqt6O) | [湖泊與海](https://open.spotify.com/album/7teOZB24NMM75krmaeKuMP) | 4:26 |
+| 84 | [湖泊與海](https://open.spotify.com/track/3mufMdqpRhYmHIHt8dhQOs) | [曹策勛](https://open.spotify.com/artist/0WNcJ4HLIndAptNMUWqt6O) | [湖泊與海](https://open.spotify.com/album/7teOZB24NMM75krmaeKuMP) | 4:24 |
 | 85 | [河畔少年（紀錄片《我的家鄉我的河》主題曲）](https://open.spotify.com/track/0ADg60VuZBX0QHkG4G4QCN) | [王笠人](https://open.spotify.com/artist/0uAzttC80C43KjtN8HAYLQ), [Ice Paper](https://open.spotify.com/artist/35kMWGEVOOesE5U0CdP3Zo) | [河畔少年（紀錄片《我的家鄉我的河》主題曲）](https://open.spotify.com/album/1YQh4Fv2bvgpRohL7gBx6J) | 4:25 |
 | 86 | [Do U](https://open.spotify.com/track/0ExUM9QWHTVzuhUA1RmcYw) | [黃子弘凡](https://open.spotify.com/artist/6GlQVohOENKG7T7qktUxfK) | [Do U](https://open.spotify.com/album/3LIngAizStpldhG7cSedKA) | 3:44 |
 | 87 | [就說你想說的 \(電影《為我辦一場西式的喪禮》主題曲\)](https://open.spotify.com/track/1b5dVCDgYYrf61U1Ff0tmC) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [就說你想說的](https://open.spotify.com/album/0FqW8002vT95qoJRrxqBWT) | 5:50 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 
 > Un parque de diversiones para gustos inconformes y sofisticados\. My Morning Jacket en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,418 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,396 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

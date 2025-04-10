@@ -917,6 +917,24 @@
     },
     {
       "album": {
+        "name": "Call It Easy",
+        "url": "https://open.spotify.com/album/2o5XLVAEwwjXIJ5ptSgaT1"
+      },
+      "artists": [
+        {
+          "name": "Racing Mount Pleasant",
+          "url": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264508,
+      "name": "Call It Easy - Edit",
+      "url": "https://open.spotify.com/track/53u5fmf8yjjbXBn1O6y9a5"
+    },
+    {
+      "album": {
         "name": "call my name",
         "url": "https://open.spotify.com/album/3J97lJZpNCtLWzUResJmTH"
       },

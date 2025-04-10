@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-261 songs - 15 hr 1 min
+262 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Like Flowers](https://open.spotify.com/track/1SraEfccIhpiLKrako6kQH) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:52 | 2024-05-01 |  |
 | [Lipstick](https://open.spotify.com/track/3R6uEtU6Y91xYkgtEWyVg8) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Lipstick](https://open.spotify.com/album/0Ighxhne5ofrXNsK1594FE) | 3:44 | 2024-05-01 | 2024-10-20 |
 | [Little Less](https://open.spotify.com/track/2wZ1kI1A7jeygVj2B3y9sk) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:12 | 2024-05-01 |  |
+| [Lobster](https://open.spotify.com/track/69AlqL0LKvcc67srWDfE1w) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Oh! The Ocean](https://open.spotify.com/album/7jilN3HePAwS9COlqpSRR3) | 4:47 | 2025-04-09 |  |
 | [Love To You, Mate](https://open.spotify.com/track/6MTyUnENTi5ruX3yFuVdnX) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 3:47 | 2024-05-01 |  |
 | [Lune](https://open.spotify.com/track/3gqnVUcHIMPmhCJ33ytGtP) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 3:46 | 2024-05-01 |  |
 | [Marshmallow Skies](https://open.spotify.com/track/3zhKMXmlvaqw7BNZbsIwEt) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 2:10 | 2024-12-11 |  |

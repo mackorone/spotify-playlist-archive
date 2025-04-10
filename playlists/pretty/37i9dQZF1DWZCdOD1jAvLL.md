@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: CHYL
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,590 likes - 125 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,680 likes - 125 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

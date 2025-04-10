@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 44 | [My Man](https://open.spotify.com/track/5T2N2zNtnspdHNKe4badyR) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:23 |
 | 45 | [That Feeling When](https://open.spotify.com/track/3Va1sFKlIYxo36JTdWDg6I) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [That Feeling When](https://open.spotify.com/album/4yfNr3vVl5nDjhkE0xzK55) | 3:22 |
 | 46 | [Waste](https://open.spotify.com/track/79cH8EYScu6oy4jchIKT5Z) | [Katemale](https://open.spotify.com/artist/0Rth3Qh5ir5RzlPwRpKYqp) | [Waste](https://open.spotify.com/album/1u0G8aMkahjuKzDOjpZdPy) | 3:29 |
-| 47 | [Bipolar](https://open.spotify.com/track/1agOL1akZePDXe21TBbBM2) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Bipolar](https://open.spotify.com/album/2y5oeiOOk7synreCnFAy7A) | 3:22 |
-| 48 | [Lost Your Faith](https://open.spotify.com/track/4j5vH33ipS1ulVxbwtYkpm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lost Your Faith](https://open.spotify.com/album/3YwyFBiVp38ZenPHy04LRd) | 3:13 |
+| 47 | [Lost Your Faith](https://open.spotify.com/track/4j5vH33ipS1ulVxbwtYkpm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lost Your Faith](https://open.spotify.com/album/3YwyFBiVp38ZenPHy04LRd) | 3:13 |
+| 48 | [Bipolar](https://open.spotify.com/track/1agOL1akZePDXe21TBbBM2) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Bipolar](https://open.spotify.com/album/2y5oeiOOk7synreCnFAy7A) | 3:22 |
 | 49 | [Bad Guy](https://open.spotify.com/track/34LbYwWS8Vxr6dsdZ64OXd) | [Niykee Heaton](https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ) | [Starting Over](https://open.spotify.com/album/1ZWlheyrmKAaNoaa1dsq5T) | 3:33 |
 | 50 | [Sugarcoat](https://open.spotify.com/track/1QEi9M0fBXIQ810EjLVnAb) | [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) | [Burn Slow](https://open.spotify.com/album/1COYJVkWo2wHdz5UehGouY) | 3:24 |
 | 51 | [Boy With The Blues](https://open.spotify.com/track/60r07P2OrlvVAUR8p3RRHE) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Boy With The Blues](https://open.spotify.com/album/3tKn8nZYwdJdocwmQhxT2T) | 2:55 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 115 | [SPEAK NOW OR FOREVER HOLD YOUR PEACE](https://open.spotify.com/track/0SBQhZMv2SyknHAHUH9Izp) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 0:46 |
 | 116 | [Playing House](https://open.spotify.com/track/3fRUCNwZ5mwpkknsocNW5Q) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:35 |
 
-Snapshot ID: `AbuQngAAAABm6kL5wgSodEXb4Zz1Xtur`
+Snapshot ID: `AbuWKgAAAAA3fenLe5z5MUewiYDCwr3L`

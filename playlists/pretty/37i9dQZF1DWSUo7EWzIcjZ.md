@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Wilfrido Vargas
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,194 likes - 150 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,265 likes - 150 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,11 +107,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 97 | [El Farolito](https://open.spotify.com/track/7reg3cRS3uPi326LD1F3e5) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Sabor Criollo \(Música Típica\), Vol\. 1](https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL) | 3:43 |
 | 98 | [Buscando Tus Besos](https://open.spotify.com/track/0OONd4OG3OBVLGBfrsdmCp) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Buscando Tus Besos](https://open.spotify.com/album/6HoHMYmzsLU76TOqNJdfcf) | 3:55 |
 | 99 | [Cama Y Mesa](https://open.spotify.com/track/5w8uBAoUDhjGab0EACmmaO) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Mayimbe](https://open.spotify.com/album/5wIvzXgpFdveTZ8OzKkSNf) | 5:07 |
-| 100 | [Faltaste a la Cita](https://open.spotify.com/track/0fSPowPB3nRUr0sY0asVIR) | [Nando Galan](https://open.spotify.com/artist/7tqpQLj03lGrM3Q5FOKCUn) | [Merengazo](https://open.spotify.com/album/5tOztS6JDjlrPpzJB5Dj5e) | 4:27 |
+| 100 | [Sobrevivire](https://open.spotify.com/track/7oi3XP83oftMs0G2BKji6t) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Volando Alto](https://open.spotify.com/album/5Lwqjfe4t5ilCLr4rdXBmR) | 4:15 |
 | 101 | [Alza Tu Copa](https://open.spotify.com/track/1ut8r7VkR4KxauGzNHOLd5) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Exitos Inolvidables de Benny Sadel](https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM) | 3:40 |
-| 102 | [Tus 20 Años](https://open.spotify.com/track/2nolgDXC9RXzZZkHxST58w) | [Vicente Pacheco](https://open.spotify.com/artist/22upy4PMGl2CmwCWKXuAQH) | [Merengues Clásicos de los 80´s, Vol\. 2](https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE) | 4:49 |
+| 102 | [Faltaste a la Cita](https://open.spotify.com/track/0fSPowPB3nRUr0sY0asVIR) | [Nando Galan](https://open.spotify.com/artist/7tqpQLj03lGrM3Q5FOKCUn) | [Merengazo](https://open.spotify.com/album/5tOztS6JDjlrPpzJB5Dj5e) | 4:27 |
 | 103 | [Curame](https://open.spotify.com/track/7z4G4aZbNmG9ZGBGyA35IC) | [Los Cantantes De Ramon Orlando](https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK) | [Exitos De Los Cantantes De Ramon Orlando](https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18) | 4:06 |
-| 104 | [Sobrevivire](https://open.spotify.com/track/7oi3XP83oftMs0G2BKji6t) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Volando Alto](https://open.spotify.com/album/5Lwqjfe4t5ilCLr4rdXBmR) | 4:15 |
+| 104 | [Tus 20 Años](https://open.spotify.com/track/2nolgDXC9RXzZZkHxST58w) | [Vicente Pacheco](https://open.spotify.com/artist/22upy4PMGl2CmwCWKXuAQH) | [Merengues Clásicos de los 80´s, Vol\. 2](https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE) | 4:49 |
 | 105 | [Como una Loba](https://open.spotify.com/track/7imf1muwG5clrKid7c41Yr) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Chicán](https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF) | 4:22 |
 | 106 | [Dame Veneno](https://open.spotify.com/track/5ULIW0HVQb2mqRQQXU2f9W) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Con Mucho Swing](https://open.spotify.com/album/2ZvJyNrDflkpMlo02c4wSV) | 4:14 |
 | 107 | [Tu Me Vas a Dejar](https://open.spotify.com/track/70my3NPh8BlUxmpSeRBSzY) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Tanto Amor](https://open.spotify.com/album/6xfWbpO2rJwXF4kVBoY5uV) | 4:24 |

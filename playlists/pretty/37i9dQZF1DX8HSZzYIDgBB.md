@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol Indie\-Tropical 🌺☀️🌴🎶 Bomba Estéreo y Rawayana en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,826 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,833 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

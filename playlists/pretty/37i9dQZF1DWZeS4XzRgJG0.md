@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 
 > focus modus is aan en leren maar
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,408 likes - 151 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,431 likes - 151 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 | 119 | [Let Her Go](https://open.spotify.com/track/6GmUVqe73u5YRfUUynZK6I) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All the Little Lights](https://open.spotify.com/album/2sRnJq6dfXdqhIflBk0ve1) | 4:12 |
 | 120 | [Sorry](https://open.spotify.com/track/44n97yHySt0Z9rqPaXgjCK) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [hopeless fountain kingdom \(Deluxe\)](https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0) | 3:40 |
 | 121 | [Someone Like You](https://open.spotify.com/track/4kflIGfjdZJW4ot2ioixTB) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147) | 4:45 |
-| 122 | [IDK You Yet](https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet](https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS) | 3:04 |
-| 123 | [Complicated](https://open.spotify.com/track/0jllH0usRFD4LJkJnGK9Lf) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Complicated](https://open.spotify.com/album/18IaOJpyXfqbOsZIqmnfpZ) | 3:09 |
+| 122 | [Complicated](https://open.spotify.com/track/0jllH0usRFD4LJkJnGK9Lf) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Complicated](https://open.spotify.com/album/18IaOJpyXfqbOsZIqmnfpZ) | 3:09 |
+| 123 | [IDK You Yet](https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet](https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS) | 3:04 |
 | 124 | [Happiest Year](https://open.spotify.com/track/5kcvBnt6DPX3AMEsCx1qDh) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Happiest Year](https://open.spotify.com/album/2LJiFAtg7CyHrkUGr4mwGl) | 3:48 |
 | 125 | [Dancing On My Own](https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own](https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga) | 4:20 |
 | 126 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 |
@@ -148,16 +148,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 | 138 | [In My Head](https://open.spotify.com/track/3InxJ55D8l1e4ZER6DRqvP) | [Peter Manos](https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal) | [In My Head](https://open.spotify.com/album/5u9T6HcXTS04b6QYpA6hn1) | 3:34 |
 | 139 | [Brick By Brick](https://open.spotify.com/track/1et21CEjWh8BO5nrdV4CNQ) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [All In Good Time](https://open.spotify.com/album/6buecvSq8FY2bRYSpBj4YE) | 3:45 |
 | 140 | [When You Love Someone \- Acoustic](https://open.spotify.com/track/3wm0791j8FPkG7RUYljgr8) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [When You Love Someone \(Acoustic\)](https://open.spotify.com/album/7abPoR0SXjsHVkHquLrV7B) | 3:30 |
-| 141 | [Hungry](https://open.spotify.com/track/5Va4EmNp4g8lniR5MiR4oT) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/6j7rolGd1DxrUDzo2XfC8z) | 3:29 |
-| 142 | [Purpose](https://open.spotify.com/track/3jHCXrZNz8fQEEf4BpWCAj) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a) | 3:30 |
+| 141 | [Purpose](https://open.spotify.com/track/3jHCXrZNz8fQEEf4BpWCAj) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a) | 3:30 |
+| 142 | [Hungry](https://open.spotify.com/track/5Va4EmNp4g8lniR5MiR4oT) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/6j7rolGd1DxrUDzo2XfC8z) | 3:29 |
 | 143 | [House of Cards](https://open.spotify.com/track/58GufL5ouunj41e6QV65bw) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [House of Cards](https://open.spotify.com/album/4ElbBl74bLrx5yu8RXqh9z) | 3:34 |
 | 144 | [To Build A Home \(feat\. Patrick Watson\)](https://open.spotify.com/track/4aBi3ZJdrtLYKiMCKVvvht) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB) | [Ma Fleur](https://open.spotify.com/album/7ow7A9W9gqHAL0qKDL7ki9) | 6:10 |
 | 145 | [Hero](https://open.spotify.com/track/0cgeX9qE93uZ1OeIaacGqx) | [Family of the Year](https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq) | [Loma Vista](https://open.spotify.com/album/2KEx3awHyBmHhOvsImrPFI) | 3:10 |
-| 146 | [Let The River In](https://open.spotify.com/track/4iHgZ72mPU8XF1IsAatAj8) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers \(Special Edition\)](https://open.spotify.com/album/0HKGIx3r0cIl1cNZs5JMfV) | 3:07 |
-| 147 | [One Call Away \- Acoustic](https://open.spotify.com/track/4qE36yuwYbHnsPzlwhrO3M) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [One Call Away \(Acoustic\)](https://open.spotify.com/album/1KMGNGGzMCjT5p9l87bY3A) | 3:09 |
-| 148 | [Catch & Release](https://open.spotify.com/track/3lsKY1alCeIrwkaYRI4sxV) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Catch & Release](https://open.spotify.com/album/1nOS6PITU27mls9l2TH4r4) | 4:00 |
-| 149 | [Hey \- Acoustic Version](https://open.spotify.com/track/3mQrxkMfh6zQyqtL2S1QCz) | [FÄIS](https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Hey \(Acoustic Version\)](https://open.spotify.com/album/3WZAu7wzI2XHSu1Lr8BV3S) | 2:36 |
-| 150 | [Use Somebody](https://open.spotify.com/track/4PwNy6Qj8bdkyRXuwNXeEO) | [Laura Jansen](https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM) | [538 Hitzone 52](https://open.spotify.com/album/77uxqg6rzVeb3gnAtue7ss) | 3:25 |
-| 151 | [Teach Me How To Dance With You](https://open.spotify.com/track/5Yp0jLnqMh0DZcy9Bfqiho) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [100x Winter 2015](https://open.spotify.com/album/6mFh8ub8d2MExl6pgK9OD0) | 3:24 |
+| 146 | [One Call Away \- Acoustic](https://open.spotify.com/track/4qE36yuwYbHnsPzlwhrO3M) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [One Call Away \(Acoustic\)](https://open.spotify.com/album/1KMGNGGzMCjT5p9l87bY3A) | 3:09 |
+| 147 | [Catch & Release](https://open.spotify.com/track/3lsKY1alCeIrwkaYRI4sxV) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Catch & Release](https://open.spotify.com/album/1nOS6PITU27mls9l2TH4r4) | 4:00 |
+| 148 | [Hey \- Acoustic Version](https://open.spotify.com/track/3mQrxkMfh6zQyqtL2S1QCz) | [FÄIS](https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Hey \(Acoustic Version\)](https://open.spotify.com/album/3WZAu7wzI2XHSu1Lr8BV3S) | 2:36 |
+| 149 | [Use Somebody](https://open.spotify.com/track/4PwNy6Qj8bdkyRXuwNXeEO) | [Laura Jansen](https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM) | [538 Hitzone 52](https://open.spotify.com/album/77uxqg6rzVeb3gnAtue7ss) | 3:25 |
+| 150 | [Teach Me How To Dance With You](https://open.spotify.com/track/5Yp0jLnqMh0DZcy9Bfqiho) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [100x Winter 2015](https://open.spotify.com/album/6mFh8ub8d2MExl6pgK9OD0) | 3:24 |
+| 151 | [Let The River In](https://open.spotify.com/track/4iHgZ72mPU8XF1IsAatAj8) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers \(Special Edition\)](https://open.spotify.com/album/0HKGIx3r0cIl1cNZs5JMfV) | 3:07 |
 
 Snapshot ID: `Z+ZjEQAAAACfrRmhxlZ0TTn0oTbOSv6J`

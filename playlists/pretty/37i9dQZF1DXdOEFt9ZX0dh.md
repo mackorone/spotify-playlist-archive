@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOEFt9ZX0dh.md) - [plain]
 
 > Classic rock to get your motor running\. Cover: AC/DC
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,148,894 likes - 150 songs - 10 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,149,234 likes - 150 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,8 +155,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOEFt9ZX0dh.md) - [plain]
 | 145 | [Dream On](https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 4:26 |
 | 146 | [La Grange \- 2005 Remaster](https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:50 |
 | 147 | [Kickstart My Heart](https://open.spotify.com/track/7GonnnalI2s19OCQO1J7Tf) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood](https://open.spotify.com/album/6pL7kL9cOc0DpWCq6qJtxQ) | 4:42 |
-| 148 | [Sweet Child O' Mine](https://open.spotify.com/track/4MhTFsyqIJnjsOweVcU8ug) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/5JKFiC2WVi9HtvJEm8CUB8) | 5:56 |
-| 149 | [Crazy Train](https://open.spotify.com/track/2b9lp5A6CqSzwOrBfAFhof) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard of Ozz \(Expanded Edition\)](https://open.spotify.com/album/6aGfK3YpRxZ1rJfaNRckLH) | 4:56 |
+| 148 | [Crazy Train](https://open.spotify.com/track/2b9lp5A6CqSzwOrBfAFhof) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard of Ozz \(Expanded Edition\)](https://open.spotify.com/album/6aGfK3YpRxZ1rJfaNRckLH) | 4:56 |
+| 149 | [Sweet Child O' Mine](https://open.spotify.com/track/4MhTFsyqIJnjsOweVcU8ug) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/5JKFiC2WVi9HtvJEm8CUB8) | 5:56 |
 | 150 | [American Girl](https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 3:34 |
 
 Snapshot ID: `Zow3uAAAAAC0ABPPs/GxzCOP7Q3UkYAN`

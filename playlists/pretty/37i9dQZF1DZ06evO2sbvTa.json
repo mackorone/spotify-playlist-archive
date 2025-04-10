@@ -1,12 +1,12 @@
 {
   "description": "This is Young Scooter. The essential tracks, all in one playlist.",
-  "num_followers": 4371,
+  "num_followers": 4372,
   "original_name": "This Is Young Scooter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/MVgAAAAAAozfzc7mG6eK1zeeEGcrgZ",
+  "snapshot_id": "Z/RnAAAAAADUizTxGYgrykmeiiAKK0K0",
   "tracks": [
     {
       "added_at": null,
@@ -1031,26 +1031,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trap God",
-        "url": "https://open.spotify.com/album/1PdibECcUStPNmeTZxtoBY"
+        "name": "Streetz Krazy",
+        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
       },
       "artists": [
         {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Trae Tha Truth",
-          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
         }
       ],
-      "duration_ms": 233404,
-      "name": "Dead Man",
-      "url": "https://open.spotify.com/track/5rIuTIDNTq1ey5DqTgg4Xz"
+      "duration_ms": 192000,
+      "name": "U Ain't No Hustla",
+      "url": "https://open.spotify.com/track/7k4cs9RYFOdOUZx2rqsAfV"
     }
   ],
   "unique_name": "This Is Young Scooter",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,502 likes - 100 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,524 likes - 100 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 | 91 | [9](https://open.spotify.com/track/2buYb32JUcXvH1PLwTc8Cu) | [Agnas Bros](https://open.spotify.com/artist/5vGzJvLmR1rxxu1jgDWlJp) | [Lycka till med musiken](https://open.spotify.com/album/2sDcUMzVTuwXFVXOU0ueNL) | 9:04 |
 | 92 | [På havets bunn](https://open.spotify.com/track/2vSfGunb5DZxIWeiKxvXOc) | [Maridalen](https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ), [Erland Dahlen](https://open.spotify.com/artist/2i6XzcJWLtgscJFmzMRiPn) | [På havets bunn](https://open.spotify.com/album/1IEAMA5b2cH0TmEc4vFbnK) | 3:32 |
 | 93 | [Fanfar](https://open.spotify.com/track/5XolAVRmGT9ixbJwtqdePB) | [Thommy Andersson](https://open.spotify.com/artist/6nEynqiaDe09T3BFfnxVf6) | [Wood Circles](https://open.spotify.com/album/1f7YSqegaAoWwI1B777WnP) | 5:23 |
-| 94 | [Melancholia](https://open.spotify.com/track/2CK1rKO7y9oKhQRGR48tKG) | [Fredrik Nordström](https://open.spotify.com/artist/5MvcFZC0PVjhkfCOdmBXTm), [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq), [Ilaria Capalbo](https://open.spotify.com/artist/36eAVpaL0KHjSI1adDdrwT), [Staffan Svensson](https://open.spotify.com/artist/11mFi4SwzgprnqEEIJpGCM) | [Melancholia](https://open.spotify.com/album/6rQSdtpLz0W1bKCySYeueo) | 5:14 |
-| 95 | [Svevende](https://open.spotify.com/track/7yvX6vySEFHb22V8Lu4I0Y) | [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Bobo Stenson Quartet](https://open.spotify.com/artist/6ybMn3tDNAZOdal026IIBE) | [Jan Garbarek: Works](https://open.spotify.com/album/5gBKCpTf5pPauJ5jOG9DaX) | 4:59 |
+| 94 | [Svevende](https://open.spotify.com/track/7yvX6vySEFHb22V8Lu4I0Y) | [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Bobo Stenson Quartet](https://open.spotify.com/artist/6ybMn3tDNAZOdal026IIBE) | [Jan Garbarek: Works](https://open.spotify.com/album/5gBKCpTf5pPauJ5jOG9DaX) | 4:59 |
+| 95 | [Melancholia](https://open.spotify.com/track/2CK1rKO7y9oKhQRGR48tKG) | [Fredrik Nordström](https://open.spotify.com/artist/5MvcFZC0PVjhkfCOdmBXTm), [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq), [Ilaria Capalbo](https://open.spotify.com/artist/36eAVpaL0KHjSI1adDdrwT), [Staffan Svensson](https://open.spotify.com/artist/11mFi4SwzgprnqEEIJpGCM) | [Melancholia](https://open.spotify.com/album/6rQSdtpLz0W1bKCySYeueo) | 5:14 |
 | 96 | [Lena](https://open.spotify.com/track/5TTcmPtlPZONGxwdgVwDtX) | [The Stoner](https://open.spotify.com/artist/4jJnu4gDTQ5h0dghyjLsFe) | [Kinder Call](https://open.spotify.com/album/45PmT2vYOCJkFsIbZHZm7z) | 4:06 |
 | 97 | [Asthma Breath](https://open.spotify.com/track/7ly2MdOGM8n2MseNNuRiTJ) | [Jesper Thorn](https://open.spotify.com/artist/4DB375t3aSO9yDzf1O8IpD) | [Asthma Breath](https://open.spotify.com/album/2Mxy2VXEQFY30cMmYjJeNE) | 3:16 |
 | 98 | [Earthbeat \- Single Edit](https://open.spotify.com/track/74ZDuZ6IzMjxJz7Gq72WC4) | [Tuomas Paukku Scription](https://open.spotify.com/artist/71OhqiVpT4D9PqQlUYLXD1) | [Earthbeat](https://open.spotify.com/album/1fowrT0sKZSEHUALZZU7PO) | 5:56 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Diljit Dosanjh and Neeru Bajwa
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,005 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,081 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 60 | [Big Flex](https://open.spotify.com/track/4GrMhP5ePbKxBcErPQhmOb) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Patandar](https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh) | 2:46 |
 | 61 | [Dil Tu Jaan Tu \(Female Version\)](https://open.spotify.com/track/3W4UJM65swZgLifMu7DxPf) | [Arunima Sharma](https://open.spotify.com/artist/2zzJUB2acfwOKPhMnJkBMv), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv), [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W) | [Dil Tu Jaan Tu \(Female Version\)](https://open.spotify.com/album/7jtVyMSUZGN7EH9a69Gcyp) | 3:28 |
 | 62 | [Beparwaiyaan](https://open.spotify.com/track/01yENQkm85JfHz2TAKQHPN) | [Faridkot](https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL), [Amar Jalal](https://open.spotify.com/artist/2zZ39d8KJqwu7TkF4dEh03) | [Beparwaiyaan](https://open.spotify.com/album/2VYdhgZm7FkzU4tHEBo0xT) | 4:03 |
-| 63 | [Shayar Akhiyan \(From "Mithde"\)](https://open.spotify.com/track/0BTyEzF1GM0J8ipX3NUal8) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [Shayar Akhiyan \(From "Mithde"\)](https://open.spotify.com/album/5aRiPnV51LMEcnNYcuFdBM) | 3:58 |
+| 63 | [Shayar Akhiyan \(From "Mithde"\)](https://open.spotify.com/track/0BTyEzF1GM0J8ipX3NUal8) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [Shayar Akhiyan \(From "Mithde"\)](https://open.spotify.com/album/5aRiPnV51LMEcnNYcuFdBM) | 3:58 |
 | 64 | [Ishqan De Rog](https://open.spotify.com/track/3pDxUzAOLnmjxUum5PcTip) | [Deep Chambal](https://open.spotify.com/artist/3urpfjeiggQzlhbXFylaB0) | [Ishqan De Rog](https://open.spotify.com/album/537pV5ckO6gHzSYjgpKGmA) | 2:54 |
 | 65 | [Koka](https://open.spotify.com/track/1ExaQYPap38faw3FEqKcGY) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Flamme Music](https://open.spotify.com/artist/2N2WSjZpkNvmAZrEaIqwiU) | [Koka](https://open.spotify.com/album/1LpS06pxJRRmE3DzEpywe3) | 3:10 |
 | 66 | [Heer](https://open.spotify.com/track/2Rjwx0ORggEHxQ6wvCZXsi) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Advisory](https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj) | 2:44 |

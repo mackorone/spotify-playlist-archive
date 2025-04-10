@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to women at full volume\. Cover: Loren Ryan
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,346 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,343 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 54 | [I'm Ready](https://open.spotify.com/track/2Ep9UTgFOY4B8EQROru1rt) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [I'm Ready](https://open.spotify.com/album/3FhlITBoUSseIJRaEJkHUn) | 2:34 |
 | 55 | [THINK OF ME](https://open.spotify.com/track/510ZpiTU4fNXTlnrFFx5Yt) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [THINK OF ME](https://open.spotify.com/album/4aJWqEswzebwxDSCkVzTEt) | 2:29 |
 | 56 | [WASSA](https://open.spotify.com/track/4hrqUMXWFIvyUbvckqk974) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi), [Formation Boyz](https://open.spotify.com/artist/4mjpwaac5pDtDick78NNpm) | [WASSA](https://open.spotify.com/album/5GB53dYIw2kYHKuDGvMV0W) | 3:22 |
-| 57 | [Cowgirl](https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e) | [honey](https://open.spotify.com/artist/6cUanG4fLNSAhNEcu6n34w), [Vrdnyn](https://open.spotify.com/artist/6Gq2D2UOJNriDLfSPR6Y2Y) | [Cowgirl](https://open.spotify.com/album/7DDKQh6Y9UbKCMVIYHKnHz) | 2:25 |
+| 57 | [Cowgirl](https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e) | [Honeygirl](https://open.spotify.com/artist/1PJ0cxhltIfAdImSgaujTd), [Vrdnyn](https://open.spotify.com/artist/6Gq2D2UOJNriDLfSPR6Y2Y) | [Cowgirl](https://open.spotify.com/album/7DDKQh6Y9UbKCMVIYHKnHz) | 2:25 |
 | 58 | [i wanna hate you](https://open.spotify.com/track/6BC6tfQkRk1GeRkvwr9m9L) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N) | [i wanna hate you](https://open.spotify.com/album/3sEslWSnkrpLL6ek9iX9tF) | 2:52 |
 | 59 | [Ghost Of Us](https://open.spotify.com/track/3MlWR0dkqAzEGi97w7vqLO) | [Siobhan Cotchin](https://open.spotify.com/artist/4jq5AFfQNivtK0MQaPP7N3) | [Ghost Of Us](https://open.spotify.com/album/7oO3cTGMCYfXOEptg8jVxS) | 3:27 |
 | 60 | [Blue](https://open.spotify.com/track/6LHtiQJqqh3CnMpzT7VfRX) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Blue](https://open.spotify.com/album/5eG7Gg0mRTskvCoWn45HOb) | 3:22 |

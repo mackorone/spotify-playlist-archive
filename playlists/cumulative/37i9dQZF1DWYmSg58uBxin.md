@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-309 songs - 14 hr 6 min
+310 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Avenues](https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Avenues](https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1) | 2:19 | 2020-10-20\* |  |
 | [Barcarolle](https://open.spotify.com/track/5BHPZXzyqpVDsUhzzf7nTS) | [Niccolò Pagliani](https://open.spotify.com/artist/59yX2grILnPdqDdLnYhKJE) | [Continuo](https://open.spotify.com/album/6J9zqyjrncN68DgTubHoGr) | 2:20 | 2020-10-20\* | 2021-10-21 |
 | [Before Leaving](https://open.spotify.com/track/0ulkiXChe3pH4UMxuTvXje) | [Gradient Layer](https://open.spotify.com/artist/5ySNkmwfljYELipELJjQyl) | [A Lonesome Place](https://open.spotify.com/album/7hEdNZe2UtuKl1rzBwSq9R) | 1:55 | 2020-10-20\* | 2023-09-09 |
+| [Believe](https://open.spotify.com/track/3F58fYdt8S9jHUUPnziTpC) | [Pederosa Calafiori](https://open.spotify.com/artist/7rSGVYwxF7D59f76uaLaFq) | [Believe](https://open.spotify.com/album/5Q2CIcPYsX3hI0EpVMFXGb) | 2:36 | 2025-04-09 |  |
 | [Benevolent](https://open.spotify.com/track/6PySB4GoTTMKXhH4Ksaugj) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [These Steady Hands](https://open.spotify.com/album/5JHD4Jdz7wj1AUxH5IxOPP) | 3:08 | 2020-10-20\* | 2023-09-09 |
 | [Berceuse Andalouse](https://open.spotify.com/track/0iEaYbbs0Py0s8TgwZLpSd) | [Marcel Leblanc](https://open.spotify.com/artist/4pZL5hrGaaGSVfFOCtYxz7) | [Thérapie Acoustique](https://open.spotify.com/album/5XNtYndkZcj7HNUxtOSP6X) | 2:11 | 2020-10-20\* | 2023-09-09 |
 | [Between Moments](https://open.spotify.com/track/4dnjEaI4F2OigWbi95JIDm) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Tomorrow Will Save Us](https://open.spotify.com/album/1IsXOWnEnSntKkJqVaPRhw) | 1:56 | 2020-10-20\* | 2022-07-29 |
@@ -252,7 +253,7 @@
 | [Street Lights](https://open.spotify.com/track/4MJpaD8vXN3d9APFeE1FMJ) | [Mehdi Teyt & Rehla X](https://open.spotify.com/artist/0UfCWBHRcFM2ZqmnjkmJV9) | [The Enlightened](https://open.spotify.com/album/5urCmlMjwzQzpi0ER6sTNE) | 3:03 | 2020-10-20\* | 2023-09-09 |
 | [Stuor Muorkke](https://open.spotify.com/track/0YicEESY4K4uK5iXldrVN6) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 1:47 | 2020-10-20\* | 2023-09-09 |
 | [Sugarcane](https://open.spotify.com/track/7G3IcyTXBdeyDNCc25GSVV) | [Ensemble Rivr Dane](https://open.spotify.com/artist/2bYTGyR3eWFQmQ9FJElnBP), [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [Atoms Et Sugarcane](https://open.spotify.com/album/3XsOQQJYWhuGdJZujpcMLo) | 2:24 | 2020-10-20\* | 2024-07-30 |
-| [Summer Breeze](https://open.spotify.com/track/0fyCX5oyzf2Vx3tCgyWcQD) | [Marnie Jacobs](https://open.spotify.com/artist/5OAvt6Ho00p19P7pL6oTAQ) | [Summer Breeze](https://open.spotify.com/album/1p28qRVa6fZdnp6Y7CUHJd) | 2:18 | 2024-10-15 |  |
+| [Summer Breeze](https://open.spotify.com/track/0fyCX5oyzf2Vx3tCgyWcQD) | [Marnie Jacobs](https://open.spotify.com/artist/5OAvt6Ho00p19P7pL6oTAQ) | [Summer Breeze](https://open.spotify.com/album/1p28qRVa6fZdnp6Y7CUHJd) | 2:18 | 2024-10-15 | 2025-04-10 |
 | [Summer Snow](https://open.spotify.com/track/4953EuU1fRqRQBFsYNsMHs) | [Renata Szabo](https://open.spotify.com/artist/2Ld6f08VOXx90E5Lu2dLwv) | [Summer Snow](https://open.spotify.com/album/63utaJVYnUlUgpS00dkCC2) | 2:44 | 2020-10-20\* | 2023-09-09 |
 | [Summervale](https://open.spotify.com/track/3G7DGzqvFHsFMlsq7OddLH) | [Liona Sand](https://open.spotify.com/artist/1p6pGVY7ZTHr9Lv9DCXQiE) | [Summervale](https://open.spotify.com/album/6BXD9agE1HlJzyNw7NuLrq) | 2:25 | 2023-11-13 |  |
 | [Sundara](https://open.spotify.com/track/7hwN6I5MdtK5JDvgH45i54) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Sundara](https://open.spotify.com/album/1hfHJIrOtPFJP0tg93KzsM) | 2:42 | 2023-09-08 |  |

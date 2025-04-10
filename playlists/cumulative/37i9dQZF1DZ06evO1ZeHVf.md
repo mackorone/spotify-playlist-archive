@@ -4,7 +4,7 @@
 
 > This is CeCe Winans\. The essential tracks, all in one playlist.
 
-95 songs - 7 hr 31 min
+96 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Nobody But You](https://open.spotify.com/track/1IISFIfZSTgB9bz5OQedyp) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans Presents Pure Worship](https://open.spotify.com/album/30KEIO6pQIvgHF3bpvhj6f) | 1:51 | 2023-07-17 |  |
 | [Oh The Blood Of Jesus](https://open.spotify.com/track/13FlWWsk7VyhZVG33D2rT4) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy) | 1:23 | 2024-07-06 |  |
 | [Oh The Blood Of Jesus](https://open.spotify.com/track/6omRhMoKDTQT0o2NOg0M8V) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw) | 1:23 | 2024-05-01 | 2024-12-24 |
+| [Peace From God](https://open.spotify.com/track/6ZLthgSfzHPRIIVhkMeIhW) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Let Them Fall In Love](https://open.spotify.com/album/6QGnENkJFVu2QBRCCdKpcz) | 3:46 | 2025-04-10 |  |
 | [Pray](https://open.spotify.com/track/0gbglUQi9q4cQmaNu8N3t9) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Purified](https://open.spotify.com/album/6FfAauX1EP2zHgPoOnwWZ8) | 3:30 | 2024-05-19 |  |
 | [Pray](https://open.spotify.com/track/0Q04tlIgmRYHgvKNceIsAn) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [For Always: The Best Of CeCe Winans](https://open.spotify.com/album/5iQZGEROiqR4wlhHhCC6hv) | 3:31 | 2022-09-14 | 2024-05-14 |
 | [Sanctuary](https://open.spotify.com/track/0DmZniSKzuFKN9Qn3eFaMJ) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy) | 1:19 | 2024-06-09 | 2025-03-24 |

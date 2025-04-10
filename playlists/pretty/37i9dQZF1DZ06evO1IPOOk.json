@@ -1,12 +1,12 @@
 {
   "description": "This is Kendrick Lamar. The essential tracks, all in one playlist.",
-  "num_followers": 1842476,
+  "num_followers": 1843206,
   "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/MVgAAAAAC+WTygDTRkE9GqoSSr8YzP",
+  "snapshot_id": "Z/RnAAAAAAAYs2YTpW2uTY8FOFUU9BcN",
   "tracks": [
     {
       "added_at": null,
@@ -699,6 +699,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 300160,
+      "name": "Poetic Justice",
+      "url": "https://open.spotify.com/track/2P3SLxeQHPqh8qKB6gtJY2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "To Pimp A Butterfly",
         "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 287360,
       "name": "Wesley's Theory",
       "url": "https://open.spotify.com/track/7Ks4VCY1wFebnOdJrM13t6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "good kid, m.A.A.d city (Deluxe)",
-        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 300160,
-      "name": "Poetic Justice",
-      "url": "https://open.spotify.com/track/2P3SLxeQHPqh8qKB6gtJY2"
     },
     {
       "added_at": null,

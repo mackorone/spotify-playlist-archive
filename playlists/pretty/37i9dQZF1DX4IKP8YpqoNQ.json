@@ -1,6 +1,6 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 30923,
+  "num_followers": 30922,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Live (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 235357,
-      "name": "Inner City Blues (Make Me Wanna Holler) - Live At Oakland Coliseum, CA/1974",
-      "url": "https://open.spotify.com/track/2hiibCg7gZ82zGMlb4SJtm"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
         "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 299938,
       "name": "You Don't Know My Name (Live From Allianz Parque Sao Paulo Brazil)",
       "url": "https://open.spotify.com/track/117sYd0yQIwEkzW2cf2Tv8"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Live At The Montreaux Jazz Festival",
+        "url": "https://open.spotify.com/album/6ea4nOTkOXTEI5m0p7I0MC"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers Ubiquity",
+          "url": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
+        }
+      ],
+      "duration_ms": 490266,
+      "name": "Move To Groove - Live At The Montreaux Jazz Festival/1972",
+      "url": "https://open.spotify.com/track/6ZKvCmbRHECqbs4M8AeqNd"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Live At The Montreaux Jazz Festival",
-        "url": "https://open.spotify.com/album/6ea4nOTkOXTEI5m0p7I0MC"
+        "name": "Live (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV"
       },
       "artists": [
         {
-          "name": "Roy Ayers Ubiquity",
-          "url": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 490266,
-      "name": "Move To Groove - Live At The Montreaux Jazz Festival/1972",
-      "url": "https://open.spotify.com/track/6ZKvCmbRHECqbs4M8AeqNd"
+      "duration_ms": 235357,
+      "name": "Inner City Blues (Make Me Wanna Holler) - Live At Oakland Coliseum, CA/1974",
+      "url": "https://open.spotify.com/track/2hiibCg7gZ82zGMlb4SJtm"
     },
     {
       "added_at": "2024-10-25 07:48:43",

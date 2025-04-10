@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4soWDC.md) - [plain]
 
 > This is Luca Brasi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 913 likes - 43 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 914 likes - 43 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [How to Make Gravy \(Triple J Like a Version\) \[Live\]](https://open.spotify.com/track/1Xb8vdZG9b0Z6fs2XMPIot) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [How to Make Gravy \(Triple J Like a Version\) \[Live\]](https://open.spotify.com/album/4mLRRgJuHIqWygG2hlZ441) | 4:23 |
-| 2 | [Iris \- triple j Like A Version](https://open.spotify.com/track/7pEfEyyzMYRZhcJMaUt5aZ) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Iris \(triple j Like A Version\)](https://open.spotify.com/album/0UfBYgWnP64I32ltTX3PBk) | 3:58 |
+| 1 | [Iris \- triple j Like A Version](https://open.spotify.com/track/7pEfEyyzMYRZhcJMaUt5aZ) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Iris \(triple j Like A Version\)](https://open.spotify.com/album/0UfBYgWnP64I32ltTX3PBk) | 3:58 |
+| 2 | [How to Make Gravy \(Triple J Like a Version\) \[Live\]](https://open.spotify.com/track/1Xb8vdZG9b0Z6fs2XMPIot) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [How to Make Gravy \(Triple J Like a Version\) \[Live\]](https://open.spotify.com/album/4mLRRgJuHIqWygG2hlZ441) | 4:23 |
 | 3 | [Clothes I Slept In](https://open.spotify.com/track/3Jq8BFu09A3H1WeJNdmFJ4) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Stay](https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0) | 3:38 |
 | 4 | [Anything Near Conviction](https://open.spotify.com/track/7zFgEkuYQRUtKPHXvzckZA) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [If This Is All We're Going to Be](https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa) | 3:47 |
 | 5 | [Tangled; Content](https://open.spotify.com/track/2PZVw1Xh3Oj57DPE5JUod9) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Everything is Tenuous](https://open.spotify.com/album/1CauYGf4kborz50koSaKMd) | 3:13 |
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4soWDC.md) - [plain]
 | 36 | [Benthos](https://open.spotify.com/track/3GdINzE1wJbloONTUeGSXH) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [By a Thread](https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx) | 3:03 |
 | 37 | [C](https://open.spotify.com/track/0zcuJNBPv85Bt8GTqagZta) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Tassie](https://open.spotify.com/album/18NtphyUEcBYeorDyGHwXv) | 1:32 |
 | 38 | [Yossarian](https://open.spotify.com/track/2O678VIw4c052ZW0Ar2KXt) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Yossarian](https://open.spotify.com/album/3XWw9cnaoW4nulHsP03f9c) | 3:11 |
-| 39 | [Southbound](https://open.spotify.com/track/5ZBZMJwfKxJyZHWrQ4Yn0i) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd) | 2:40 |
+| 39 | [Beacons](https://open.spotify.com/track/5CJLEtRqo4VeojZvUfDaPK) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd) | 2:47 |
 | 40 | [K.D.R](https://open.spotify.com/track/2Cp0N79NigrnQ0zIlWWP8w) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [By a Thread](https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx) | 2:03 |
-| 41 | [Beacons](https://open.spotify.com/track/5CJLEtRqo4VeojZvUfDaPK) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd) | 2:47 |
+| 41 | [Southbound](https://open.spotify.com/track/5ZBZMJwfKxJyZHWrQ4Yn0i) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd) | 2:40 |
 | 42 | [Death Rattle](https://open.spotify.com/track/0Sa9FnsVIulcfog5skN528) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [By a Thread](https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx) | 3:40 |
 | 43 | [Guillotines in Arbour Park](https://open.spotify.com/track/1YeLt5s1urg85IfzKqXsQQ) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd) | 3:10 |
 
-Snapshot ID: `Z/MVgAAAAAAQTBJU7CaSgh2idUjbphLo`
+Snapshot ID: `Z/RnAAAAAAA1ZdIPtJzGT4QVM3EBDF6p`

@@ -8701,6 +8701,24 @@
     },
     {
       "album": {
+        "name": "funKtion",
+        "url": "https://open.spotify.com/album/14DhawhW0HTtzZsGtDPPdy"
+      },
+      "artists": [
+        {
+          "name": "kai.wav",
+          "url": "https://open.spotify.com/artist/5IPEenyFaDk0FQkFbKG0dU"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "funKtion",
+      "url": "https://open.spotify.com/track/7u0nc3elsHUlgQh6FS0fLC"
+    },
+    {
+      "album": {
         "name": "Future Call",
         "url": "https://open.spotify.com/album/2wWBj0RTjHVLoUcexFpl6Y"
       },

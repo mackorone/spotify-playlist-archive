@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,554 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,553 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 53 | [ITSUDEMO \- 3CH REMIX](https://open.spotify.com/track/40j6Zn47GSKHXNfQBdTGeP) | [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L), [3ch](https://open.spotify.com/artist/7qojWYaeDTwHQehvQ1plvf), [Lil Ash 懺悔](https://open.spotify.com/artist/5HyNuT1PVK3iFwukNreo0L) | [ITSUDEMO \(feat\. Lil Ash 懺悔\) \[3CH REMIX\]](https://open.spotify.com/album/4gngPx6ZBwuIhUA6t8xllt) | 3:12 |
 | 54 | [Gorilla \(feat\. MIKADO\)](https://open.spotify.com/track/1w6ku8qnHBmnxtYldE2gRe) | [Saggypants Shimba](https://open.spotify.com/artist/75R2U62H9bf08CifLZqTSG), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [Gorilla \(feat\. MIKADO\)](https://open.spotify.com/album/3QZ1YXJsfXKjlRx0LkJhYR) | 3:31 |
 | 55 | [That's Why](https://open.spotify.com/track/6FxMNYkQDOlLYwg8v0dqeC) | [tip jam](https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe) | [That's Why](https://open.spotify.com/album/6XEh3RTXvNgqDdZ1z12OfC) | 1:39 |
-| 56 | [Color](https://open.spotify.com/track/0IoowLGZwBs29EHqsJsc06) | [Nyture](https://open.spotify.com/artist/21WTkPiS6pwSvpdwhzXyUJ), [Ivy](https://open.spotify.com/artist/4BtokEwPW2qhOKUOU9B9R3) | [マケナイ](https://open.spotify.com/album/2DRU2sU3j3LkyDZnt5Vphj) | 2:40 |
+| 56 | [Color](https://open.spotify.com/track/0IoowLGZwBs29EHqsJsc06) | [Nyture](https://open.spotify.com/artist/21WTkPiS6pwSvpdwhzXyUJ), [Ivy](https://open.spotify.com/artist/4EHdePPMGEucsGsVSbFlMH) | [マケナイ](https://open.spotify.com/album/2DRU2sU3j3LkyDZnt5Vphj) | 2:40 |
 | 57 | [Fix](https://open.spotify.com/track/5uRbfXIrLJwe6w6Up1ZA0U) | [Eee.](https://open.spotify.com/artist/4tlJkeWM6VuSjRO8cnbmpe) | [Fix](https://open.spotify.com/album/6cX5RjgC8tPqDCvFvfNfKI) | 5:15 |
 | 58 | [Urara](https://open.spotify.com/track/34pFheuws2vekrZthvzBCw) | [E.G.G.MAN](https://open.spotify.com/artist/1pG5ATZXtVOzNbgqAaGcG6), [KOYANMUSIC](https://open.spotify.com/artist/19rxuAEQkRaSpW53OyHqzu), [ラテュ鳴](https://open.spotify.com/artist/4JbBgwbuvnrRWvRB3K0RRL) | [Restart](https://open.spotify.com/album/5dALFOHbYmPa8qB59bAxPo) | 4:12 |
 | 59 | [Additives park \(feat\. MR\)](https://open.spotify.com/track/6CwE60KTcX4pLCrBCa0HJP) | [ZIW](https://open.spotify.com/artist/7ijz6PFdK9juJmaKs75KHa), [MR](https://open.spotify.com/artist/1U1RAMTk2VklscWQSU5e4C) | [Additives park \(feat\. MR\)](https://open.spotify.com/album/14qrSgYZlZpcVzvA1oF9Dk) | 2:45 |

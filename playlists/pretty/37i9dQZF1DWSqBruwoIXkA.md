@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 
 > heartbreak feels good in a place like this\. cover: Noah Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,425,351 likes - 146 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,425,306 likes - 146 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,12 +146,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 136 | [July](https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [July](https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg) | 2:36 |
 | 137 | [feel like shit](https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [feel like shit](https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB) | 3:24 |
 | 138 | [drunk text me](https://open.spotify.com/track/2tbu7dOzCjM5JrPGr0sIes) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [drunk text me](https://open.spotify.com/album/5UnfL0nJwrdb5th8GyZArU) | 3:33 |
-| 139 | [I know it won't work](https://open.spotify.com/track/3weQKQG9ZuqgYAZVswovYS) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/1KR6xkLa2lvdvCABYlk7OO) | 4:05 |
-| 140 | [If I Don't Laugh, I'll Cry](https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [If I Don't Laugh, I'll Cry](https://open.spotify.com/album/14pYW9pwzrE4t6Z6p8NLCb) | 3:18 |
+| 139 | [If I Don't Laugh, I'll Cry](https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [If I Don't Laugh, I'll Cry](https://open.spotify.com/album/14pYW9pwzrE4t6Z6p8NLCb) | 3:18 |
+| 140 | [I know it won't work](https://open.spotify.com/track/3weQKQG9ZuqgYAZVswovYS) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/1KR6xkLa2lvdvCABYlk7OO) | 4:05 |
 | 141 | [While You're At It](https://open.spotify.com/track/0hfHF0FsMNyLoaqsvJmqfq) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [While You're At It](https://open.spotify.com/album/2C8nRU6fcdKtxIAduogNgS) | 2:07 |
 | 142 | [In The Kitchen](https://open.spotify.com/track/0XmN2KXDcNbcpeeUoB1HTV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [In The Kitchen](https://open.spotify.com/album/3AjfnMxAc6JajluGMxja3Q) | 3:47 |
-| 143 | [One More Shot](https://open.spotify.com/track/5lsSHLrIl01eG4HHXhvxRZ) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot](https://open.spotify.com/album/0E4WDS5jvqo0AlRtUAeSyM) | 2:21 |
-| 144 | [Broken](https://open.spotify.com/track/0FerZPepEX2Q1UaVeMOlMx) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Broken](https://open.spotify.com/album/24BRafI99TuTMGHUOWdXEE) | 3:15 |
+| 143 | [Broken](https://open.spotify.com/track/0FerZPepEX2Q1UaVeMOlMx) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Broken](https://open.spotify.com/album/24BRafI99TuTMGHUOWdXEE) | 3:15 |
+| 144 | [One More Shot](https://open.spotify.com/track/5lsSHLrIl01eG4HHXhvxRZ) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot](https://open.spotify.com/album/0E4WDS5jvqo0AlRtUAeSyM) | 2:21 |
 | 145 | [you were good to me](https://open.spotify.com/track/6tNgjrWXWHx2zR52Q6qCLG) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [you were good to me](https://open.spotify.com/album/5SGGuJQoa1tIFzSIlj44zl) | 3:39 |
 | 146 | [chaotic](https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [chaotic](https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau) | 2:58 |
 

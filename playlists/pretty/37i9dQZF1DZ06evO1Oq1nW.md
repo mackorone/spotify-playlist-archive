@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Oq1nW.md) - [plain]
 
 > This is The O'Jays\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,223 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,225 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Oq1nW.md) - [plain]
 | 12 | [Emotionally Yours](https://open.spotify.com/track/1SkVy7i1WQ5QteieGb9qeI) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Emotionally Yours](https://open.spotify.com/album/1RkRxV7AWspDjtJxiuuQYf) | 5:15 |
 | 13 | [Cry Together](https://open.spotify.com/track/7bmvCeN6JaeGN448OEGgLW) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [So Full Of Love](https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4) | 5:33 |
 | 14 | [You Got Your Hooks in Me](https://open.spotify.com/track/6Hv6rGm9aboHovFv49pKiT) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 5:33 |
-| 15 | [Sunshine](https://open.spotify.com/track/1J1QKnproZR0JkQ7Der8IW) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 3:41 |
-| 16 | [A Prayer](https://open.spotify.com/track/1Zmqt3nkQutv5X8ANO6YUE) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 6:21 |
+| 15 | [A Prayer](https://open.spotify.com/track/1Zmqt3nkQutv5X8ANO6YUE) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 6:21 |
+| 16 | [Sunshine](https://open.spotify.com/track/1J1QKnproZR0JkQ7Der8IW) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 3:41 |
 | 17 | [Brandy](https://open.spotify.com/track/4FgHURAh8kHbMCQJJ37Etc) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [So Full Of Love](https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4) | 4:11 |
 | 18 | [Let Me Make Love To You](https://open.spotify.com/track/5XTdQEuQhO3sUCcm2K1YnR) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 3:36 |
 | 19 | [Your Body's Here with Me \(But Your Mind's on the Other Side of Town\)](https://open.spotify.com/track/17I6vlUf2z1747kHsGmEF0) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [My Favorite Person](https://open.spotify.com/album/6inkUk39Y7bzsJuQtCDCya) | 4:46 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Oq1nW.md) - [plain]
 | 46 | [Work on Me](https://open.spotify.com/track/3IlG5BCaW8OYvX2B6SDSSt) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Travelin' At The Speed Of Thought](https://open.spotify.com/album/7yov15wgCCwdnYKt0edevV) | 4:28 |
 | 47 | [My Favorite Person](https://open.spotify.com/track/5o6oXm9EqlIU9OtfSu1gCy) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [My Favorite Person](https://open.spotify.com/album/6inkUk39Y7bzsJuQtCDCya) | 4:15 |
 | 48 | [Deeper \(In Love with You\)](https://open.spotify.com/track/2dnfU8amGZGqhjPxEll7vF) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The O'Jays In Philly](https://open.spotify.com/album/5Zs8zwez1HT4WbUZrc4AfP) | 2:39 |
-| 49 | [Let Life Flow](https://open.spotify.com/track/64tjdNWWJA9RDh9NZGoPU9) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 4:29 |
-| 50 | [The Big Gangster](https://open.spotify.com/track/52tSalNlWbR6DXOo49p4SM) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Essential O'Jays](https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8) | 3:17 |
+| 49 | [The Big Gangster](https://open.spotify.com/track/52tSalNlWbR6DXOo49p4SM) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Essential O'Jays](https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8) | 3:17 |
+| 50 | [Let Life Flow](https://open.spotify.com/track/64tjdNWWJA9RDh9NZGoPU9) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 4:29 |
 
-Snapshot ID: `Z/MVgAAAAABBwHKImZswzdMik6Duo/8p`
+Snapshot ID: `Z/RnAAAAAADCYNRS6CLdvbVm66HTb2uW`

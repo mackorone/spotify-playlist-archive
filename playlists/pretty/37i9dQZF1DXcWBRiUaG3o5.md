@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 
 > Keep your night easy and light with this acoustic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,232,823 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,232,802 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 83 | [Re: Stacks](https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 6:41 |
 | 84 | [Motion Sickness \(Demo \- Bonus Track\)](https://open.spotify.com/track/2JxSX1MtCIAxHGlas7ysJs) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/1p16WxrdVBNIAAxbpZMWJR) | 4:24 |
 | 85 | [Before the Sun](https://open.spotify.com/track/5g54tKWuCOrHmLppzxzQrt) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Before the Sun](https://open.spotify.com/album/4tCs31ECl6vTX2t5hVOeN2) | 2:48 |
-| 86 | [Naked As We Came](https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt) | 2:32 |
-| 87 | [Top to Toe](https://open.spotify.com/track/1I6hI9D2b1UXZUGoP8ixM0) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Top to Toe](https://open.spotify.com/album/0QdnZNP2WTEGrmKSyMZ6d1) | 3:36 |
+| 86 | [Top to Toe](https://open.spotify.com/track/1I6hI9D2b1UXZUGoP8ixM0) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Top to Toe](https://open.spotify.com/album/0QdnZNP2WTEGrmKSyMZ6d1) | 3:36 |
+| 87 | [Naked As We Came](https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt) | 2:32 |
 | 88 | [Back to Love](https://open.spotify.com/track/1CsGyKtUsk0uEKIoaHIEuR) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Back to Love](https://open.spotify.com/album/64Ll0RVJLquQzXJCFTuDNx) | 3:51 |
 | 89 | [Even The Darkness Has Arms](https://open.spotify.com/track/1NCAKlp1bFHYbSSDQxfbJ1) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/3heNYqE1CUM8WlJGm6UPEj) | 3:50 |
 | 90 | [The Bride & The Bachelor](https://open.spotify.com/track/3toFxCag8BngPPZYm3p9kY) | [Magnolian](https://open.spotify.com/artist/0Uj91EMXf9p6ha6pGl7XIp) | [Famous Men](https://open.spotify.com/album/6KGnCDspnm0AQe4uHymeg6) | 4:10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 
 > With Pastel Ghost, Sidewalks and Skeletons, Sky Ferreira and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,567 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,569 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 | 49 | [Brian is the Most Beautiful](https://open.spotify.com/track/3lhLML5eIwmPnw2xWKosZX) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1) | 3:45 |
 | 50 | [Heads Will Roll](https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR) | 3:41 |
 
-Snapshot ID: `Z/XjWwAAAACbMCxsfZeTjvV4jrZvtTYj`
+Snapshot ID: `Z/cXGAAAAACBuGLXZtVIHa3veB7aqdDG`

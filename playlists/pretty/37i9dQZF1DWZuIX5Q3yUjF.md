@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Sissi in cover della playlist dell'R&B italiano 🎧
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,410 likes - 81 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,418 likes - 81 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 17 | [Acqua Minerale](https://open.spotify.com/track/5GtPxUha4OOD8nJd5OivDC) | [Yna](https://open.spotify.com/artist/2c6DcIhUo15Ry8pZ7PPfau) | [Acqua Minerale](https://open.spotify.com/album/5mpTGhBlmd5swIoRlGL2cs) | 2:31 |
 | 18 | [Distratto](https://open.spotify.com/track/2a3byqLItqONzGYg3lr1v3) | [YOUNG KALI](https://open.spotify.com/artist/32Mvw7JUOnNmQnogPgFtBj) | [COZY](https://open.spotify.com/album/5EbIbJteQS715xuXKQwRxJ) | 3:02 |
 | 19 | [Sola](https://open.spotify.com/track/2ADleughdXHjcjtY0AUALI) | [Paola Pizzino](https://open.spotify.com/artist/6qZnOElnoaba63XsIts7ug), [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa) | [Sola](https://open.spotify.com/album/2CoDM1R24bKqFsrS6Z4EqN) | 3:20 |
-| 20 | [Bugia](https://open.spotify.com/track/6Bw24711z7zzY57vlfRVrF) | [Etna](https://open.spotify.com/artist/0ozNQ8pTOdO2W2YBJpy9FD) | [Bugia](https://open.spotify.com/album/2fvBz6sntImVs5qGgNlsUq) | 2:54 |
+| 20 | [Bugia](https://open.spotify.com/track/6Bw24711z7zzY57vlfRVrF) | [Stefano Pitasi](https://open.spotify.com/artist/0ozNQ8pTOdO2W2YBJpy9FD) | [Bugia](https://open.spotify.com/album/2fvBz6sntImVs5qGgNlsUq) | 2:54 |
 | 21 | [Non avessi più](https://open.spotify.com/track/0K8apQLwCWuzLel5gIewHs) | [Le Nora](https://open.spotify.com/artist/0XhZn5naaUOBbwYMSczxXC) | [Non avessi più](https://open.spotify.com/album/0BpdAWAXwM7032jGtk0e5P) | 3:28 |
 | 22 | [PARDONNE\-MOI](https://open.spotify.com/track/6YkP6Q1rODKZKhkOS2D5As) | [HERMES](https://open.spotify.com/artist/7w59Z3nldYeBSD1E2eJRWm), [Raffucs](https://open.spotify.com/artist/4VmZQVUEWM65SsJf6W3qDo) | [PARDONNE\-MOI](https://open.spotify.com/album/7w2oqqtNbYtNSngevep3XV) | 3:04 |
 | 23 | [Sei Dappertutto](https://open.spotify.com/track/4waNYcV1T5frotIzzwC1TQ) | [Yasmina](https://open.spotify.com/artist/0Ylj9zDExomAj5GhujYkyI) | [Tony](https://open.spotify.com/album/0tNEWTO3iIH0o3N5I8jiQb) | 2:32 |

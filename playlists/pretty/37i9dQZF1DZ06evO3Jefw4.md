@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 
 > This is Katy Perry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,200,533 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,200,717 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 | 32 | [Swish Swish](https://open.spotify.com/track/3OtMnyUaiipcAT23A8liyi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 4:02 |
 | 33 | [Con Calma \- Remix](https://open.spotify.com/track/4au7FRcgZzChASRYu279xH) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [Con Calma \(Remix\)](https://open.spotify.com/album/5lJogLNbwElUSdBmmf8VQB) | 3:01 |
 | 34 | [OK](https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 2:38 |
-| 35 | [This Is How We Do](https://open.spotify.com/track/7GCElX2eJA5t0AFWw3WzKn) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:24 |
-| 36 | [Smile](https://open.spotify.com/track/3DXdjHnePKnh6oXw2ZgGSl) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/61HTU0pcDaTmotLnBQgoLs) | 2:46 |
+| 35 | [Smile](https://open.spotify.com/track/3DXdjHnePKnh6oXw2ZgGSl) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/61HTU0pcDaTmotLnBQgoLs) | 2:46 |
+| 36 | [This Is How We Do](https://open.spotify.com/track/7GCElX2eJA5t0AFWw3WzKn) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:24 |
 | 37 | [Waking Up In Vegas](https://open.spotify.com/track/6fvxos1qSHrIgOkKw4dhWS) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 3:19 |
 | 38 | [Daisies](https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Daisies](https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN) | 2:53 |
 | 39 | [ALL THE LOVE](https://open.spotify.com/track/69VB7MiNVwwDkl5sgRBYod) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:15 |
-| 40 | [NO TEARS FOR NEW YEAR'S](https://open.spotify.com/track/29f9Fsie82gDA7PVdq3qrc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 3:22 |
-| 41 | [Tucked](https://open.spotify.com/track/5ahNnBifspeXOi1sMbiXHT) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:07 |
+| 40 | [Tucked](https://open.spotify.com/track/5ahNnBifspeXOi1sMbiXHT) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:07 |
+| 41 | [NO TEARS FOR NEW YEAR'S](https://open.spotify.com/track/29f9Fsie82gDA7PVdq3qrc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 3:22 |
 | 42 | [Electric \- Pokemon 25 Version](https://open.spotify.com/track/63eV5hreY9feQP2CmYavpj) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Electric](https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f) | 3:13 |
 | 43 | [CRUSH](https://open.spotify.com/track/1WUsiRA6CCf6FmFzkt88fa) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 2:57 |
-| 44 | [I WOKE UP](https://open.spotify.com/track/6mqevjxkKFzckFuiNDE4GQ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 2:28 |
-| 45 | [Where We Started](https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:02 |
+| 44 | [Where We Started](https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:02 |
+| 45 | [I WOKE UP](https://open.spotify.com/track/6mqevjxkKFzckFuiNDE4GQ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 2:28 |
 | 46 | [Small Talk](https://open.spotify.com/track/4NmE2ytXI8S2svTRSmEdpO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Small Talk](https://open.spotify.com/album/5FOy9CM3AZs86TIK7fsJTV) | 2:41 |
 | 47 | [GORGEOUS \(feat\. Kim Petras\)](https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:17 |
-| 48 | [HAS A HEART](https://open.spotify.com/track/3LFy6yVZ1gcQ2uolOrbk2m) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 2:47 |
-| 49 | [Teenage Dream](https://open.spotify.com/track/6zg7B8W7Tu9nO3SLgYhqNO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream \- Remix EP](https://open.spotify.com/album/1FRRBe4H2wtYI2jEJpmBYg) | 3:54 |
+| 48 | [Teenage Dream](https://open.spotify.com/track/6zg7B8W7Tu9nO3SLgYhqNO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream \- Remix EP](https://open.spotify.com/album/1FRRBe4H2wtYI2jEJpmBYg) | 3:54 |
+| 49 | [HAS A HEART](https://open.spotify.com/track/3LFy6yVZ1gcQ2uolOrbk2m) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 2:47 |
 | 50 | [Cry About It Later](https://open.spotify.com/track/1RsD951uUUlJx0MRioZfev) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/38hfmutL8qSnflpigbMoLw) | 3:09 |
 
-Snapshot ID: `Z/MVgAAAAAC4IHHzkGxqJ16cxQoIbvwk`
+Snapshot ID: `Z/RnAAAAAAAJ3L7kWmzyu2QoMRaLP6ub`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Dh2wgiAwVX.md) - [plain]
 
 > ¡Tu dosis de energía para alegrarte el día!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,813,532 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,813,685 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

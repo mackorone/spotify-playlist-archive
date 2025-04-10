@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Daria ze Śląska
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,081 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,106 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 20 | [PUCH Katedralny](https://open.spotify.com/track/4sq0T3kPvBAc0S9yffv3nL) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [PUCH Katedralny](https://open.spotify.com/album/4fd694rJBqvjr7pP7k5rZK) | 2:37 |
 | 21 | [Piękno](https://open.spotify.com/track/4C3PHaO18GKRjDvjptF8gs) | [Markus ivi](https://open.spotify.com/artist/2tqi9ifoIBbWNsUxzzscaY) | [Piękno](https://open.spotify.com/album/0Z37kj6pcHMyQYMg22Lhfi) | 3:06 |
 | 22 | [Życzenie](https://open.spotify.com/track/1fQHKxZhGY3uZRVlPqZelN) | [Ola Poskrop](https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy) | [Życzenie](https://open.spotify.com/album/3ac0IKoGhbTx4NlJgZvBAL) | 2:47 |
-| 23 | [Sierpień](https://open.spotify.com/track/4LbKV1qFKnDFVT5Se8Xdhc) | [Martini Police](https://open.spotify.com/artist/0JK30CTlvxZpyE4GqsIJeN) | [Powrót z gwiazd](https://open.spotify.com/album/4CY4FLQKaxjfDdHvcCnF4M) | 4:03 |
+| 23 | [Sierpień](https://open.spotify.com/track/4LbKV1qFKnDFVT5Se8Xdhc) | [Martini Police](https://open.spotify.com/artist/0JK30CTlvxZpyE4GqsIJeN) | [Powrót z Gwiazd](https://open.spotify.com/album/4CY4FLQKaxjfDdHvcCnF4M) | 4:03 |
 | 24 | [modlitwa](https://open.spotify.com/track/69T5uAZvcOOy2DGIVVUr9Q) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [modlitwa](https://open.spotify.com/album/2FIZLvx9pYTL9sYliDe5FN) | 2:25 |
 | 25 | [Ether](https://open.spotify.com/track/6JmRdTQ3OA1abhU4b5FDN3) | [MANOID](https://open.spotify.com/artist/5Rg0LJq558IASL2xYbsTSM), [Milkbaby](https://open.spotify.com/artist/4YzP1FK2pLJpsNIwQOFzvX) | [Ether](https://open.spotify.com/album/0G9ue7SWMZ0xq2Lt4go0Lm) | 2:29 |
 | 26 | [Taniec](https://open.spotify.com/track/5byXYWa9gm0v6gmdG9zMul) | [michał od kości](https://open.spotify.com/artist/4SWaZDXBz7FgqxwOi0iVtI), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Taniec](https://open.spotify.com/album/4s2ZqLoXBuQMxMy4oXi6Tl) | 3:29 |

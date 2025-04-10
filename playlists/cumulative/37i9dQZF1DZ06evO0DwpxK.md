@@ -4,7 +4,7 @@
 
 > This is HUMBE\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 34 min
+60 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [AURORA](https://open.spotify.com/track/0NHsOitbhh1DJy1b6otZHf) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 5:50 | 2023-11-10 |  |
 | [BANDERA](https://open.spotify.com/track/1RjKGXhBFlhANSZ95rc0wb) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 2:44 | 2024-12-01 |  |
 | [bestia](https://open.spotify.com/track/2HZ5HcjkncmwlEh6dNG5Ra) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [bestia](https://open.spotify.com/album/3g7qNB5LqZlkp72mvCXYj6) | 3:40 | 2024-04-28 |  |
+| [bien hecho](https://open.spotify.com/track/1RKIZ8ItW0muYnz2vTcC4M) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 4:01 | 2025-04-10 |  |
 | [bien hecho](https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [bien hecho](https://open.spotify.com/album/5MNb2jx4ncbpNMimeEUczU) | 4:01 | 2023-11-10 | 2025-03-17 |
 | [Confieso](https://open.spotify.com/track/6EgQ0qOpwA83iRDSFBNtUc) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Confieso](https://open.spotify.com/album/3py5UQNoZMecvronNEQp41) | 2:58 | 2023-11-10 |  |
 | [CÓMO RESPIRAR???](https://open.spotify.com/track/0K7JLUqCpPJrFRz4Eb9g14) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [CÓMO RESPIRAR???](https://open.spotify.com/album/4d6dB3zVorvbqroywYr09q) | 3:41 | 2023-11-10 | 2024-10-04 |
@@ -50,7 +51,7 @@
 | [REM](https://open.spotify.com/track/18VSMNO7ayjRDTQjnSz8N7) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [REM](https://open.spotify.com/album/3LOpHTAENRZlDte90qMNwd) | 3:39 | 2025-03-30 |  |
 | [REM](https://open.spotify.com/track/2rLHjGObK4sfhIatgR6l6h) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [REM](https://open.spotify.com/album/5fW2F8q05MQh5jxCYpVgTX) | 3:39 | 2024-02-24 | 2025-03-30 |
 | [roma](https://open.spotify.com/track/5eIL2PBVtangYd7tepcTIs) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 2:55 | 2023-11-10 |  |
-| [SAGITARIO A\*](https://open.spotify.com/track/5wdqVslmjPk5nl4EmTeyEJ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 3:45 | 2024-12-01 |  |
+| [SAGITARIO A\*](https://open.spotify.com/track/5wdqVslmjPk5nl4EmTeyEJ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 3:45 | 2024-12-01 | 2025-04-10 |
 | [sanvalentín:\(](https://open.spotify.com/track/6oyz3h6HEpmzvXxjWcf8J6) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 4:02 | 2023-11-10 |  |
 | [si mañana comienza sin mí](https://open.spotify.com/track/76cA70PWNqcNmyHt1IZeuM) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 2:05 | 2023-11-10 |  |
 | [Te Conocí en Japón](https://open.spotify.com/track/1QSvHSBcPlSlHhsntszy85) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:08 | 2023-11-10 |  |

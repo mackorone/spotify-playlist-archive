@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Ak2P6rRpuVPTPAvHSuVDQ">Leon Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,864 likes - 105 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,869 likes - 105 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 9 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 |
 | 10 | [Tattooed Heart](https://open.spotify.com/track/7JmIjOsRish3vYBSLTytEC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Yours Truly](https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg) | 3:14 |
 | 11 | [Yours Truly, Austin Post](https://open.spotify.com/track/0LpiKjWMfZTkPPHonlM8nB) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:39 |
-| 12 | [Geek'd \(feat\. Lil Baby\)](https://open.spotify.com/track/3nQQotHU6YtE0Z4kiMNoW8) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [15](https://open.spotify.com/album/5I0eRWD0PLOmswFHZhcD12) | 2:13 |
-| 13 | [MUTT](https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:12 |
+| 12 | [MUTT](https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:12 |
+| 13 | [Geek'd \(feat\. Lil Baby\)](https://open.spotify.com/track/3nQQotHU6YtE0Z4kiMNoW8) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [15](https://open.spotify.com/album/5I0eRWD0PLOmswFHZhcD12) | 2:13 |
 | 14 | [Not Another Love Song](https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Not Another Love Song](https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p) | 3:37 |
 | 15 | [Wicked Freestyle](https://open.spotify.com/track/4xl69qYIDxUIACXSeRkXOY) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 2:47 |
 | 16 | [Something New](https://open.spotify.com/track/1z15fhSgN6U2k4gqA1Zu4j) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Something New](https://open.spotify.com/album/7ql438zy2icDWhxBHGOieI) | 3:32 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 88 | [Don't 4get](https://open.spotify.com/track/6955Y2FCvRBBXl06Qq0fh8) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [VORY](https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA) | 3:18 |
 | 89 | [SOONER OR LATER \(feat\. Axlfolie\)](https://open.spotify.com/track/5FRwXERFravyWu3AoCHNsT) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Axl Folie](https://open.spotify.com/artist/5qB6FDaWA6GvTWvz9MOzZ6) | [MUTT](https://open.spotify.com/album/6gXOscJIR9wBb3OvNmeAGk) | 1:48 |
 | 90 | [Fade to Black](https://open.spotify.com/track/3NIawwPGF6X5Hjz9UUJ6tO) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 1:57 |
-| 91 | [Has a Meaning](https://open.spotify.com/track/18XUxFnqlqbEc9hPHAfOzU) | [sid tipton](https://open.spotify.com/artist/1LgF3q7qslhLt5qb6fAtNA), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Timbaland’s Beat Saber Music Pack by BeatClub](https://open.spotify.com/album/0huZW5ISjHtFKTGHhxkJwm) | 3:10 |
-| 92 | [Socialite](https://open.spotify.com/track/25OhI4lM6s5vp2bSV4lSgF) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:20 |
+| 91 | [Socialite](https://open.spotify.com/track/25OhI4lM6s5vp2bSV4lSgF) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:20 |
+| 92 | [Has a Meaning](https://open.spotify.com/track/18XUxFnqlqbEc9hPHAfOzU) | [sid tipton](https://open.spotify.com/artist/1LgF3q7qslhLt5qb6fAtNA), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Timbaland’s Beat Saber Music Pack by BeatClub](https://open.spotify.com/album/0huZW5ISjHtFKTGHhxkJwm) | 3:10 |
 | 93 | [Sugar Free](https://open.spotify.com/track/6lnF4ddb8jtxuUuR0inTql) | [RIRI](https://open.spotify.com/artist/2UmhByzSum8X2lQZ7pWvWp) | [NEO](https://open.spotify.com/album/2glfQqfWGiPntmwsEyGAIE) | 2:47 |
 | 94 | [Every Day Is Christmas](https://open.spotify.com/track/6u5unFrPKFPSjcwo3qURbG) | [The Braxtons](https://open.spotify.com/artist/1hO5XbzrgqZIwurIDuB3i2) | [Braxton Family Christmas](https://open.spotify.com/album/3YicC3ePV7Ys1aOxP0NjAD) | 3:06 |
 | 95 | [Questions](https://open.spotify.com/track/6O9Docj7ARvxGzkmnHevKv) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/02YWHzAqDtkFuNPAr82b8s) | 3:29 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 104 | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/2w6NKpDk88j5WhmAOggYNx) | [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/4kX602tlPIQUCM8K9mtjAK) | 3:38 |
 | 105 | [All Wolves Go To Heaven](https://open.spotify.com/track/0FnKGnChseb8z8rta9nHQk) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Raised By Wolves](https://open.spotify.com/album/61gYrHZvvs4tHesla7RTNz) | 2:33 |
 
-Snapshot ID: `AbuQlAAAAADadeTnaWDEIDjaG3axed+v`
+Snapshot ID: `AbuWKgAAAAA2+fqasn5oxJuPP9vao+ww`

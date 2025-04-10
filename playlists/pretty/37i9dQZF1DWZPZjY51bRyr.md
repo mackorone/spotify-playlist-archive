@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPZjY51bRyr.md) - [plain]
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,009 likes - 170 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,054 likes - 170 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

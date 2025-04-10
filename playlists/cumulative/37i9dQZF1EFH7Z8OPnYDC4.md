@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-349 songs - 20 hr 26 min
+350 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,8 @@
 | [So Long, Farewell](https://open.spotify.com/track/1bZ0kpUo5XOOmvbOAXEVP6) | [Charmian Carr](https://open.spotify.com/artist/0mvTBNG2hAuAEzUVgTYpQ2), [Angela Cartwright](https://open.spotify.com/artist/5wPIr3J58uJUeU9Xu2mOuc), [Duane Chase](https://open.spotify.com/artist/0QWBkbHktK9RQYaMSZnZ01), [Nicholas Hammond](https://open.spotify.com/artist/0JSadiWcHiwpHQhq8DhXJl), [Kym Karath](https://open.spotify.com/artist/2RqZ8Pqz6WmjR3VmQF9dgA), [Heather Menzies](https://open.spotify.com/artist/54dXJA9AzCTXZ8gmX0nX6T), [Debbie Turner](https://open.spotify.com/artist/4HiH23Ui1OvUZfRp5YBQxs) | [The Sound Of Music \(Original Soundtrack Recording\)](https://open.spotify.com/album/1KN5Lr40H56umfa1yzmO5R) | 2:56 | 2024-07-26 |  |
 | [So Much You Loved Me](https://open.spotify.com/track/759jerZunufrH7XU6vd4PS) | [Penny Fuller](https://open.spotify.com/artist/42nRzPYRMbawP660nsynTK) | [Rex \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6z1H2CTrJBa4w1xBY7nccz) | 2:51 | 2024-07-26 |  |
 | [Soliloquy](https://open.spotify.com/track/62mne52yH6QFDPGyPRNuWe) | [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE) | [Rodgers & Hammerstein's Carousel \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG) | 6:47 | 2024-07-26 |  |
-| [Some Enchanted Evening](https://open.spotify.com/track/0xB8zbWKO61EKTb7A3CUpL) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw), [Robert Norberg](https://open.spotify.com/artist/4iVTujtmxeDNd1XJX9cHLa) | [Autumn In New York](https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14) | 3:14 | 2024-07-26 |  |
+| [Some Enchanted Evening](https://open.spotify.com/track/0xB8zbWKO61EKTb7A3CUpL) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw), [Robert Norberg](https://open.spotify.com/artist/4iVTujtmxeDNd1XJX9cHLa) | [Autumn In New York](https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14) | 3:14 | 2024-07-26 | 2025-04-10 |
+| [Some Enchanted Evening](https://open.spotify.com/track/6PYTpG0kZyUU2V9ynjeErs) | [The Castells](https://open.spotify.com/artist/6DkVBNgQMSVLTQa7OUhMno) | [So This Is Love](https://open.spotify.com/album/07Q8pChv7fwnboS1lJlFsv) | 2:32 | 2025-04-09 |  |
 | [Some Enchanted Evening \(From "South Pacific"\)](https://open.spotify.com/track/1wrmfmLogYsH5lcs0VntZZ) | [Mitzi Gaynor](https://open.spotify.com/artist/3RWxCgaw6DuD472vn1HyV6), [Giorgio Tozzi](https://open.spotify.com/artist/4OEwK9zvDEcRKWnW4dYjv0) | [Mitzi and Morris At the Movies](https://open.spotify.com/album/5AKvgQh3Lf6kxTlaIMkyl4) | 5:53 | 2024-07-26 |  |
 | [Someone Like You](https://open.spotify.com/track/5nVMC2NBCyVnW5OIjG7lpD) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [The Complete Decca Singles Vol\. 3: 1942\-1949](https://open.spotify.com/album/5Ci7FT8FBuEgoQ38wbx575) | 3:04 | 2024-07-26 |  |
 | [Something Doesn't Happen \- from the Broadway musical "Two by Two"](https://open.spotify.com/track/46pVoOqNn39vVWEe55A12x) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [Love Story](https://open.spotify.com/album/0FTj8xA6hPncO0vAp7BaNg) | 2:42 | 2024-07-26 |  |

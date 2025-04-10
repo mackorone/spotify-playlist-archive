@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 35 | [Lo Que No Di](https://open.spotify.com/track/2uIuSumfgTKeRXiGw30LRT) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sigo Siendo Yo](https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ) | 5:32 |
 | 36 | [Eclipse](https://open.spotify.com/track/0cP7k8dNs4SY313Rdbu0XO) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Libra](https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV) | 3:03 |
 | 37 | [Dime Que Me Esperas](https://open.spotify.com/track/3fwT5kqPyhpQQwNfb6hVzd) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [Senti2](https://open.spotify.com/album/6aO5DFSqg8QuY2oVsoOsmG) | 3:49 |
-| 38 | [Toma De Mí](https://open.spotify.com/track/6eoJG3PqstEA7nj1bYncBd) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Marc Anthony "El Cantante" OST](https://open.spotify.com/album/7vAvh5KAMBz324wybwqxYG) | 4:29 |
-| 39 | [Adiós](https://open.spotify.com/track/14yDEDFChnnZlxTqNumQim) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Kany García](https://open.spotify.com/album/0xMspEBjMb20urG4Rx73vO) | 3:29 |
+| 38 | [Adiós](https://open.spotify.com/track/14yDEDFChnnZlxTqNumQim) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Kany García](https://open.spotify.com/album/0xMspEBjMb20urG4Rx73vO) | 3:29 |
+| 39 | [Toma De Mí](https://open.spotify.com/track/6eoJG3PqstEA7nj1bYncBd) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Marc Anthony "El Cantante" OST](https://open.spotify.com/album/7vAvh5KAMBz324wybwqxYG) | 4:29 |
 | 40 | [It's OK](https://open.spotify.com/track/1mOiejXxgYA9ep3z61SN7Z) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [\#ELDISCO](https://open.spotify.com/album/3RSownGSkhJPRmzLddzsUd) | 3:32 |
 | 41 | [Beautiful That Way \- La vita è bella](https://open.spotify.com/track/6pld6uZGfUFBvCRZnAZRJl) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Grande amore \(Japan Version\)](https://open.spotify.com/album/3hvvfvxZwOT7zyAjz0dn3P) | 3:43 |
 | 42 | [Vuelve](https://open.spotify.com/track/0zXLBRxbUwg9vCo0nGc1JO) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Renacer](https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR) | 3:51 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 55 | [La Marea](https://open.spotify.com/track/2PMwP9MtTyXw0WobD3u7UK) | [Mariana Vega](https://open.spotify.com/artist/1RKHdhpHFttjX7CS5Eud4f) | [La Marea](https://open.spotify.com/album/0uwTdcCs9g0VUWo4ttuk4U) | 3:21 |
 | 56 | [Ahora o Nunca](https://open.spotify.com/track/14FCVuiEyfgvnspCvCLvff) | [Oriana Sabatini](https://open.spotify.com/artist/36ZqMC7zjLgKhxKc1l9g0X) | [Aliados](https://open.spotify.com/album/6xVcX30jzJ7PNU1CtJ3cYW) | 3:34 |
 | 57 | [Vueltas en Tu Mente](https://open.spotify.com/track/1O21qdm5tVS3j7fM4DCTys) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:55 |
-| 58 | [Cantaré](https://open.spotify.com/track/5DGWUY2D6VQ8aeQpp1VYMP) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Oxígeno](https://open.spotify.com/album/113rLDIkvtuYW1I7uull04) | 3:22 |
-| 59 | [¿Dónde Está el Amor?](https://open.spotify.com/track/0gATjbMmlo9FeeSOmakf7z) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Dónde Está el Amor?](https://open.spotify.com/album/4DCHenDcFsoju5nWQqRyDX) | 2:59 |
+| 58 | [¿Dónde Está el Amor?](https://open.spotify.com/track/0gATjbMmlo9FeeSOmakf7z) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Dónde Está el Amor?](https://open.spotify.com/album/4DCHenDcFsoju5nWQqRyDX) | 2:59 |
+| 59 | [Cantaré](https://open.spotify.com/track/5DGWUY2D6VQ8aeQpp1VYMP) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Oxígeno](https://open.spotify.com/album/113rLDIkvtuYW1I7uull04) | 3:22 |
 | 60 | [Irreparable](https://open.spotify.com/track/3RlB1qa1FXbRSw0etTVqoS) | [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7) | [Jen](https://open.spotify.com/album/5MFFnpG6N8RIIdC5GSQ5w4) | 4:03 |
 | 61 | [Silencio](https://open.spotify.com/track/3UKaVPFrRiebiMaFj657eG) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Mi Plan](https://open.spotify.com/album/0Z9unTBF7JAlURJAMtrqyV) | 3:34 |
 | 62 | [Overtime](https://open.spotify.com/track/4qWXlgz0yFd1cOYphUN7Qx) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 2:54 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 153 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
 | 154 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
 
-Snapshot ID: `AbuQngAAAAAafuKXSQB92vAFV84s9zWd`
+Snapshot ID: `AbuWKgAAAABv9rElGFdYQS2mrDeF2TVs`

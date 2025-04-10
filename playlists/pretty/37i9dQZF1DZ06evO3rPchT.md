@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 
 > This is HARDY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,741 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,778 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 49 | [One Of Y’all \(feat\. HARDY, Rhett Akins & The Cadillac Three\)](https://open.spotify.com/track/6Ke28oY4R6nbIqkZAjGFui) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x), [Rhett Akins](https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24) | [HIXTAPE: Vol\. 2](https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj) | 3:05 |
 | 50 | [BLURRY](https://open.spotify.com/track/2CpP8toXIhX3oEClILk4NB) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [BLURRY](https://open.spotify.com/album/1R8ivIkOSjti4kY3wVzvjM) | 5:00 |
 
-Snapshot ID: `Z/MVgAAAAAC3BH3gQe0cPP7COpqLcxLe`
+Snapshot ID: `Z/RnAAAAAAARrkQ2WfPpcH3j79hsZWtX`

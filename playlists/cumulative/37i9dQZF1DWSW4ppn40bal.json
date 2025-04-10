@@ -1967,6 +1967,24 @@
     },
     {
       "album": {
+        "name": "Brown Noise Inner Peace",
+        "url": "https://open.spotify.com/album/2nXBaaO1BQ2ucogV2REqCS"
+      },
+      "artists": [
+        {
+          "name": "Astrofuss",
+          "url": "https://open.spotify.com/artist/5Tx7TAY5IxjWaUuJo7tTzf"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206971,
+      "name": "Brown Noise Inner Peace",
+      "url": "https://open.spotify.com/track/0glhSisKxAKCjF4z4Hv3Yd"
+    },
+    {
+      "album": {
         "name": "Brown Noise Intelligence",
         "url": "https://open.spotify.com/album/7mvzkrCd5jLbkYuAJmKihl"
       },
@@ -5038,7 +5056,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-09",
+      "date_removed": null,
       "duration_ms": 143716,
       "name": "Gifted Noise",
       "url": "https://open.spotify.com/track/3F3VaOK290JSVVW0m44VlE"
@@ -5560,7 +5578,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-30",
+      "date_removed": null,
       "duration_ms": 144149,
       "name": "Low Pink Noise",
       "url": "https://open.spotify.com/track/1S81caEnVTmrBBfN61Gmsq"
@@ -7468,7 +7486,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 219750,
       "name": "Pink Noise for Sleeping",
       "url": "https://open.spotify.com/track/2ex3O9bv4muJcuVI3BQbtj"
@@ -8134,7 +8152,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 262500,
       "name": "Pink Noise Sleep Library",
       "url": "https://open.spotify.com/track/70zOpPhRcFFCdm3DRzXxzx"
@@ -8296,7 +8314,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-19",
+      "date_removed": null,
       "duration_ms": 190500,
       "name": "Pink Panthera",
       "url": "https://open.spotify.com/track/37KHphtpxPjKhWPD8HoPLx"
@@ -9722,7 +9740,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 177586,
       "name": "Slumber With Brown Noise",
       "url": "https://open.spotify.com/track/27uSOqSGbvyDjryyX8ja16"
@@ -10770,7 +10788,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 141177,
       "name": "Water Brown Noise",
       "url": "https://open.spotify.com/track/3HJiyNzdB6VPaLJQwi7iml"

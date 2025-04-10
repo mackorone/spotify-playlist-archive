@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 73977,
+  "num_followers": 73983,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/MVgAAAAAA6TXMST/zUZsx/fHZvk3R3",
+  "snapshot_id": "Z/RnAAAAAAAYGijaq/u/rjun6Pv+6GmH",
   "tracks": [
     {
       "added_at": null,
@@ -531,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black",
-        "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 210600,
-      "name": "I'll Be The Moon",
-      "url": "https://open.spotify.com/track/0kIlh2nOwIxx4SgoDrRWDG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Chain (From the Motion Picture Soundtrack \"The Kitchen\")",
         "url": "https://open.spotify.com/album/2RFcxjuCLxKYfnOVyucot5"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 291533,
       "name": "The Chain - From the Motion Picture Soundtrack \"The Kitchen\"",
       "url": "https://open.spotify.com/track/47yfbuX2JXVg0STjXEGAps"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black",
+        "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "I'll Be The Moon",
+      "url": "https://open.spotify.com/track/0kIlh2nOwIxx4SgoDrRWDG"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Intermission",
+        "url": "https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 216720,
+      "name": "push me over",
+      "url": "https://open.spotify.com/track/4APakyNxphnhzMWutMzLWX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
         "url": "https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 249573,
       "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
       "url": "https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Intermission",
-        "url": "https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 216720,
-      "name": "push me over",
-      "url": "https://open.spotify.com/track/4APakyNxphnhzMWutMzLWX"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 136546,
-      "name": "Make Out With Me",
-      "url": "https://open.spotify.com/track/1XfDYxQ8o7yZN7lbKECwHE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -848,9 +832,25 @@
           "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
         }
       ],
-      "duration_ms": 345026,
-      "name": "Old Soul",
-      "url": "https://open.spotify.com/track/7sya6fSaMhZmcLYMckxpZm"
+      "duration_ms": 254986,
+      "name": "Wheels Of Laredo",
+      "url": "https://open.spotify.com/track/3MgHIcV9xc8tUdoekttdLM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 136546,
+      "name": "Make Out With Me",
+      "url": "https://open.spotify.com/track/1XfDYxQ8o7yZN7lbKECwHE"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 187640,
-      "name": "The Feels",
-      "url": "https://open.spotify.com/track/4c10Mtlt9dPeKvP61sicAs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Humble Quest",
         "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 208066,
       "name": "Good Friends",
       "url": "https://open.spotify.com/track/5HVc3YeNKDFomPhXBKE90U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 187640,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/4c10Mtlt9dPeKvP61sicAs"
     },
     {
       "added_at": null,
@@ -951,22 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Than We Found It",
-        "url": "https://open.spotify.com/album/4DI81D0NrKjNh88p7qusbC"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 197215,
-      "name": "Better Than We Found It",
-      "url": "https://open.spotify.com/track/6IVLDX1miNBy1BOWebnMP2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Humble Quest",
         "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 214186,
       "name": "Background Music",
       "url": "https://open.spotify.com/track/2QgLakrVOFqkpR2lmMQ6FT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Than We Found It",
+        "url": "https://open.spotify.com/album/4DI81D0NrKjNh88p7qusbC"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 197215,
+      "name": "Better Than We Found It",
+      "url": "https://open.spotify.com/track/6IVLDX1miNBy1BOWebnMP2"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Rauw Alejandro. The essential tracks, all in one playlist.",
-  "num_followers": 812919,
+  "num_followers": 813352,
   "original_name": "This Is Rauw Alejandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/MVgAAAAAB581p1skAUYFh8vEEmKdpg",
+  "snapshot_id": "Z/RnAAAAAAAL/i/sX7kz+UGfuL3N19qU",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/3rdAz1fbUfZxYgaCviYhRo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SATURNO",
         "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
@@ -51,22 +67,6 @@
       "duration_ms": 197101,
       "name": "LOKERA",
       "url": "https://open.spotify.com/track/1aUq8rjW1EwkAkMri4VfJy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/3rdAz1fbUfZxYgaCviYhRo"
     },
     {
       "added_at": null,
@@ -115,6 +115,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 214857,
+      "name": "La Old Skul",
+      "url": "https://open.spotify.com/track/4Z8HZSApeddaRM2ovivUj4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Santa",
         "url": "https://open.spotify.com/album/3uzutRS5qX4ng5Skjh5S6W"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 193038,
       "name": "Santa",
       "url": "https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 214857,
-      "name": "La Old Skul",
-      "url": "https://open.spotify.com/track/4Z8HZSApeddaRM2ovivUj4"
     },
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 170535,
+      "name": "Desenfocao'",
+      "url": "https://open.spotify.com/track/2CEf2gU5ZJamLXa3NrgAvA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Efecto",
         "url": "https://open.spotify.com/album/6C8ObcezFoorqPgY2J320r"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 217142,
       "name": "El Efecto",
       "url": "https://open.spotify.com/track/4SJHHpKhcuXwDsCsPqshXj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 170535,
-      "name": "Desenfocao'",
-      "url": "https://open.spotify.com/track/2CEf2gU5ZJamLXa3NrgAvA"
     },
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Felicilandia",
-        "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 192613,
-      "name": "Problem\u00f3n",
-      "url": "https://open.spotify.com/track/1mSviQV9iQnGSRyvTIuxAj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 224996,
       "name": "Desesperados",
       "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Felicilandia",
+        "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 192613,
+      "name": "Problem\u00f3n",
+      "url": "https://open.spotify.com/track/1mSviQV9iQnGSRyvTIuxAj"
     },
     {
       "added_at": null,

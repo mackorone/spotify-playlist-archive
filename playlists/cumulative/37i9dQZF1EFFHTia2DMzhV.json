@@ -2050,10 +2050,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 194933,
       "name": "Some Enchanted Evening",
       "url": "https://open.spotify.com/track/0xB8zbWKO61EKTb7A3CUpL"
+    },
+    {
+      "album": {
+        "name": "So This Is Love",
+        "url": "https://open.spotify.com/album/07Q8pChv7fwnboS1lJlFsv"
+      },
+      "artists": [
+        {
+          "name": "The Castells",
+          "url": "https://open.spotify.com/artist/6DkVBNgQMSVLTQa7OUhMno"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152373,
+      "name": "Some Enchanted Evening",
+      "url": "https://open.spotify.com/track/6PYTpG0kZyUU2V9ynjeErs"
     },
     {
       "album": {

@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 21 | [counting crimes](https://open.spotify.com/track/3EsFsEIcsdf4r5Y9UuW0yC) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [counting crimes](https://open.spotify.com/album/1v48gFxTeyWAeZDcB06sQW) | 3:02 |
 | 22 | [club heaven](https://open.spotify.com/track/1nO6DT2QIYTxwLGrfQvIt3) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [club heaven](https://open.spotify.com/album/119D6p9ScXWYQxWLMv99yn) | 2:11 |
 | 23 | [dear god](https://open.spotify.com/track/39HJJEgUFZcnhH4ziSqomg) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 2:12 |
-| 24 | [grave](https://open.spotify.com/track/7pjlSvtMtqybSo198LE0P6) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [pretty poison](https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S) | 2:27 |
-| 25 | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/track/47uY2r2IzVg8moQyAwmm83) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE DELUXE](https://open.spotify.com/album/3r7rsxV6uS1OiOUirRwU53) | 3:12 |
+| 24 | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/track/47uY2r2IzVg8moQyAwmm83) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE DELUXE](https://open.spotify.com/album/3r7rsxV6uS1OiOUirRwU53) | 3:12 |
+| 25 | [grave](https://open.spotify.com/track/7pjlSvtMtqybSo198LE0P6) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [pretty poison](https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S) | 2:27 |
 | 26 | [i wanna die](https://open.spotify.com/track/0NgEQBlWn3GbVyBkOvCMuD) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [pretty poison](https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S) | 2:46 |
 | 27 | [girl in new york](https://open.spotify.com/track/3eGIiMTMZduPDb4MN0NTqD) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [girl in new york](https://open.spotify.com/album/3nIb1RiW1bVXHPE1XthHcC) | 2:57 |
 | 28 | [Underwater](https://open.spotify.com/track/6qnULXVFGfFqPj0Hpj0tIG) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Underwater / Other Voices](https://open.spotify.com/album/3p1vQf7Y8BSHiUVCGR2NtG) | 4:57 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 91 | [Tactical](https://open.spotify.com/track/0K4medaHHc6OjEEgBy2qHn) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 6:31 |
 | 92 | [Dojo](https://open.spotify.com/track/6EdpnaVhFJZGkI0th2SQwW) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 5:03 |
 
-Snapshot ID: `AbuQngAAAACKMb+kxkhirKCAIBoKWPc4`
+Snapshot ID: `AbuWIAAAAABxjq7+amvzHHwHdYgQsJcu`

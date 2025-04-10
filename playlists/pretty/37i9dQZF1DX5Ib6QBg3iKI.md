@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,930 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,924 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 77 | [At Christmas](https://open.spotify.com/track/5GkvoGc6QBbPWc6VJEiJby) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [At Christmas](https://open.spotify.com/album/5bGzbLRYva85dIc4BLgYp1) | 2:22 |
 | 78 | [Stay Another Day](https://open.spotify.com/track/5npCyhoNJ3eJLIszVqOwIj) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Stay Another Day](https://open.spotify.com/album/05csGxWijr1PGGfg4oEvGU) | 2:41 |
 | 79 | [Love you left behind](https://open.spotify.com/track/5O6GzzlNZWfA2ypvIIZSzB) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love you left behind](https://open.spotify.com/album/4WuvIZzFcOzJ8UiERabXGN) | 3:12 |
-| 80 | [Together at Christmas](https://open.spotify.com/track/6D4jcmHdZImJpF7dSQsOKq) | [Irish Women In Harmony](https://open.spotify.com/artist/3OVmFlXlOUDDxOxnV59M9D) | [Together at Christmas](https://open.spotify.com/album/0ZfBk0onUOJHhplkIxoM98) | 3:37 |
+| 80 | [Christmastide](https://open.spotify.com/track/5IloL3Bu67F6V08aie4ib6) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Christmastide](https://open.spotify.com/album/2QEfonwMIiD9PNWvNgoSh4) | 3:44 |
 
 Snapshot ID: `Z1v/tAAAAAB38hopMfQeQSt/BlMEvhX6`

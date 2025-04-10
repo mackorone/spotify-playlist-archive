@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 
 > Beat e rime, oggi come una volta\. Cover: Chicoria
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,580 likes - 150 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,604 likes - 150 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

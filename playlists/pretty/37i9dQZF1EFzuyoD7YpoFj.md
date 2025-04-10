@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 404 likes - 405 songs - 21 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 405 likes - 405 songs - 21 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -288,8 +288,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 278 | [You Never Know](https://open.spotify.com/track/35wTwYw2BZs5t9rFpg14Pk) | [Donna McKechnie](https://open.spotify.com/artist/72BQq4TmDRWwv4XtiGM4ZF) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 2:43 |
 | 279 | [Bull Dog](https://open.spotify.com/track/0Vza9SdU65IiAgmVrWwPsf) | [Roger McGuinn](https://open.spotify.com/artist/3ExrAwcOqgGjt9kFRwdM76) | [Roger McGuinn & Band \(Bonus Track Version\)](https://open.spotify.com/album/4B18e2isBj5VRpU4kEhDpc) | 1:58 |
 | 280 | [The Law](https://open.spotify.com/track/2BmUV89Lac3uczBg7jRWmj) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole \- Cole Sings Porter \- Recordings Of Cole Porter Singing Music From Can\-can And Jubilee](https://open.spotify.com/album/32QWIcKipvxNykK5bnwcFs) | 3:48 |
-| 281 | [The Cocotte](https://open.spotify.com/track/7oSwEGKB1EFISGthtWyiP5) | [Performances By Famous Artists](https://open.spotify.com/artist/235XUDTs7PKPOSf4OrrWjX), [Taken From Kic Cd 7136](https://open.spotify.com/artist/2efQ4HtaNhguJIxloaJ4dg) | [Porter, Cole \- Cole Porter In The 1930s's Volume 1](https://open.spotify.com/album/5XNqbZPMTYxrVSpU9foKNK) | 2:44 |
-| 282 | [My Broth of a Boy](https://open.spotify.com/track/6xmyIiCSXRv6urhz8iZRJJ) | [Mimi Bessette](https://open.spotify.com/artist/3o9tzN37xxFOeTyfIP88Pz) | [Lullabies of Broadway](https://open.spotify.com/album/75VMYPwK4rAZxnEULqfdiC) | 4:03 |
+| 281 | [My Broth of a Boy](https://open.spotify.com/track/6xmyIiCSXRv6urhz8iZRJJ) | [Mimi Bessette](https://open.spotify.com/artist/3o9tzN37xxFOeTyfIP88Pz) | [Lullabies of Broadway](https://open.spotify.com/album/75VMYPwK4rAZxnEULqfdiC) | 4:03 |
+| 282 | [The Cocotte](https://open.spotify.com/track/7oSwEGKB1EFISGthtWyiP5) | [Performances By Famous Artists](https://open.spotify.com/artist/235XUDTs7PKPOSf4OrrWjX), [Taken From Kic Cd 7136](https://open.spotify.com/artist/2efQ4HtaNhguJIxloaJ4dg) | [Porter, Cole \- Cole Porter In The 1930s's Volume 1](https://open.spotify.com/album/5XNqbZPMTYxrVSpU9foKNK) | 2:44 |
 | 283 | [Me And Marie](https://open.spotify.com/track/0Bv2wU9vpGWixdotorxR4q) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole \- Cole Sings Porter \- Recordings Of Cole Porter Singing Music From Can\-can And Jubilee](https://open.spotify.com/album/32QWIcKipvxNykK5bnwcFs) | 2:02 |
 | 284 | [Wedding Cake Island](https://open.spotify.com/track/4Vd0f5NZ3v1QXLaovA2qRo) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Delightful Rain](https://open.spotify.com/album/1C8EW4cXhFt8UhX9Xnkc1O) | 3:02 |
 | 285 | [What A Fair Thing Is A Woman](https://open.spotify.com/track/4vODJZxWzUoiNVFqW1fsww) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole \- Cole Sings Porter \- Recordings Of Cole Porter Singing Music From Can\-can And Jubilee](https://open.spotify.com/album/32QWIcKipvxNykK5bnwcFs) | 4:12 |
@@ -414,4 +414,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 404 | [To Think That This Could Happen to Me](https://open.spotify.com/track/4NHtcwJ74MtwXcciySVMy5) | [Wilfried Van Den Brande](https://open.spotify.com/artist/0SWts3H6XfovTeyTpePeYE) | [When Love Comes to Call](https://open.spotify.com/album/3UNm9uCpK0Q8bFn5NZ5hRJ) | 4:46 |
 | 405 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AbuQqAAAAAC6H7NUq0vUwQN61W4Qn9XK`
+Snapshot ID: `AbuWSAAAAACksUVTV4B+ntJzWQVCPTWi`

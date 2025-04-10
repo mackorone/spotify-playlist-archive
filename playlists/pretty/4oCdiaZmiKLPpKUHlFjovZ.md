@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 > Turn this playlist all the way up! Money Man, Rio Da Yung Og,  Peezy &amp; Tyga.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 41,735 likes - 66 songs - 3 hr 0 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 41,733 likes - 66 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

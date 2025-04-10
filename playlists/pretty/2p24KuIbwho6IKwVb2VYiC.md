@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: Banx &amp; Ranx
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 21,261 likes - 110 songs - 5 hr 38 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 21,262 likes - 110 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

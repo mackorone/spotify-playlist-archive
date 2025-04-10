@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: The La Planta & Salstkbron.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,172,114 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,172,113 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

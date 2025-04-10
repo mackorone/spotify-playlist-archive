@@ -4,26 +4,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 
 > lowkey crying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,326 likes - 189 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,332 likes - 187 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Two birds](https://open.spotify.com/track/66s4fv5w7UUF3mF78bsxTX) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Two birds](https://open.spotify.com/album/2wE6gH2DFlaP0mEEUZcU4M) | 2:33 |
 | 2 | [Her Peaceful Echoes](https://open.spotify.com/track/5e5AZb36vSAdEXABa0oNIh) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [Her Peaceful Echoes](https://open.spotify.com/album/4QS7rFRIdgtuXexBMyZJdc) | 2:21 |
 | 3 | [Serenety Walz](https://open.spotify.com/track/4Iq7gulJD0YiUUyZAbeZ0w) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Serenety Walz](https://open.spotify.com/album/1ICvGPisW8N1u3Fd6lnnM2) | 2:24 |
-| 4 | [Lugnet](https://open.spotify.com/track/46OXgRHwhmmMt9aqxTEFIn) | [Ametrine Skies](https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs) | [Lugnet](https://open.spotify.com/album/0iNaiLdDbIPDRS3Rle5bVP) | 2:36 |
-| 5 | [Soon](https://open.spotify.com/track/2HYlsAAfs0ZkFhJ4WVbz6u) | [Mischa](https://open.spotify.com/artist/0uoxi1rtrDUZIJLU64n9Y1) | [Soon](https://open.spotify.com/album/1EwLhOV7Qbx9ZhChlrgySu) | 2:06 |
-| 6 | [Absentia](https://open.spotify.com/track/1HK9bUeaIXx3lZv1nWayyR) | [Andrew Mays](https://open.spotify.com/artist/5kKg8zR0hqhwZoaGvsw13I) | [Absentia](https://open.spotify.com/album/4HLgJVnxv7LGkIbKP4ogtR) | 2:41 |
-| 7 | [Avion](https://open.spotify.com/track/01H1v89jEAJtVloJdv467P) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [Avion](https://open.spotify.com/album/5vE8RLUy1kyQklTWDIssKq) | 2:20 |
+| 4 | [Soon](https://open.spotify.com/track/2HYlsAAfs0ZkFhJ4WVbz6u) | [Mischa](https://open.spotify.com/artist/0uoxi1rtrDUZIJLU64n9Y1) | [Soon](https://open.spotify.com/album/1EwLhOV7Qbx9ZhChlrgySu) | 2:06 |
+| 5 | [Lugnet](https://open.spotify.com/track/46OXgRHwhmmMt9aqxTEFIn) | [Ametrine Skies](https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs) | [Lugnet](https://open.spotify.com/album/0iNaiLdDbIPDRS3Rle5bVP) | 2:36 |
+| 6 | [Avion](https://open.spotify.com/track/01H1v89jEAJtVloJdv467P) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [Avion](https://open.spotify.com/album/5vE8RLUy1kyQklTWDIssKq) | 2:20 |
+| 7 | [Absentia](https://open.spotify.com/track/1HK9bUeaIXx3lZv1nWayyR) | [Andrew Mays](https://open.spotify.com/artist/5kKg8zR0hqhwZoaGvsw13I) | [Absentia](https://open.spotify.com/album/4HLgJVnxv7LGkIbKP4ogtR) | 2:41 |
 | 8 | [Minor Fable](https://open.spotify.com/track/6IJ5eCQNpXifW7OqRK9pQc) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Minor Fable](https://open.spotify.com/album/4yq1sWpFO7LgofgmmPEEVC) | 2:01 |
 | 9 | [In Presence](https://open.spotify.com/track/01hiTwznescgIbY9PAUVUz) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [In Presence](https://open.spotify.com/album/3a25R9D7Qz4uHXkJqAAV1A) | 2:53 |
-| 10 | [Elegia](https://open.spotify.com/track/0s0b3XQ1SOLfxbIjnpLA8o) | [Gianni Domenici](https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g) | [Elegia](https://open.spotify.com/album/3HWAXCYEqTZxTt3zZjW4dB) | 2:06 |
-| 11 | [Jade Vine](https://open.spotify.com/track/6rr10DYH1fRl2r1JATikzT) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Jade Vine](https://open.spotify.com/album/75AKexBMxxBFXllsZ4CmlX) | 2:36 |
-| 12 | [Layer by layer](https://open.spotify.com/track/02oxF7V7v7PpAvxvOEyUZ8) | [Nadav Kohen](https://open.spotify.com/artist/6pg3pij73xdq9wUlp7R1lN) | [Layer by layer](https://open.spotify.com/album/2WFYogo7pZ2GzoXwgmhQts) | 2:28 |
-| 13 | [Ménuet Belmonte](https://open.spotify.com/track/5TKPsDdOCl2d78wM9TYNoP) | [Flavio Apicella](https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v) | [Ménuet Belmonte](https://open.spotify.com/album/5IzWBmyTiWM5R7CVMlPeY8) | 3:14 |
-| 14 | [Cold Winter](https://open.spotify.com/track/6Dv7Mp07ahxiF5WIngOqvE) | [Denalia](https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm) | [Cold Winter](https://open.spotify.com/album/5LtcjVMhd1GArPDzxngAd5) | 2:57 |
-| 15 | [Slow Solitude](https://open.spotify.com/track/4Vp3Rz9Ll5S0iHrK8hrl31) | [From the Keys](https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22) | [Slow Solitude](https://open.spotify.com/album/79TKoCQMhPuxQbYc8808bS) | 2:42 |
-| 16 | [Akureyri](https://open.spotify.com/track/1Z30fkmYHv71uarv6JEfHI) | [Haukur Ólafsson](https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w) | [Akureyri](https://open.spotify.com/album/0Hp1R6S2Bis2IBKv5N5xXi) | 2:57 |
+| 10 | [Layer by layer](https://open.spotify.com/track/02oxF7V7v7PpAvxvOEyUZ8) | [Nadav Kohen](https://open.spotify.com/artist/6pg3pij73xdq9wUlp7R1lN) | [Layer by layer](https://open.spotify.com/album/2WFYogo7pZ2GzoXwgmhQts) | 2:28 |
+| 11 | [Elegia](https://open.spotify.com/track/0s0b3XQ1SOLfxbIjnpLA8o) | [Gianni Domenici](https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g) | [Elegia](https://open.spotify.com/album/3HWAXCYEqTZxTt3zZjW4dB) | 2:06 |
+| 12 | [Jade Vine](https://open.spotify.com/track/6rr10DYH1fRl2r1JATikzT) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Jade Vine](https://open.spotify.com/album/75AKexBMxxBFXllsZ4CmlX) | 2:36 |
+| 13 | [Akureyri](https://open.spotify.com/track/1Z30fkmYHv71uarv6JEfHI) | [Haukur Ólafsson](https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w) | [Akureyri](https://open.spotify.com/album/0Hp1R6S2Bis2IBKv5N5xXi) | 2:57 |
+| 14 | [Ménuet Belmonte](https://open.spotify.com/track/5TKPsDdOCl2d78wM9TYNoP) | [Flavio Apicella](https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v) | [Ménuet Belmonte](https://open.spotify.com/album/5IzWBmyTiWM5R7CVMlPeY8) | 3:14 |
+| 15 | [Cold Winter](https://open.spotify.com/track/6Dv7Mp07ahxiF5WIngOqvE) | [Denalia](https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm) | [Cold Winter](https://open.spotify.com/album/5LtcjVMhd1GArPDzxngAd5) | 2:57 |
+| 16 | [Slow Solitude](https://open.spotify.com/track/4Vp3Rz9Ll5S0iHrK8hrl31) | [From the Keys](https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22) | [Slow Solitude](https://open.spotify.com/album/79TKoCQMhPuxQbYc8808bS) | 2:42 |
 | 17 | [Tiny Feather](https://open.spotify.com/track/1c6G0EAKsW4p9Bt2PA6OpV) | [Steven Lombardo](https://open.spotify.com/artist/3HthcN6rB2WPtHNyQcCqeZ) | [Tiny Feather](https://open.spotify.com/album/7qjZHR89Mjldv15xZWUFca) | 2:12 |
 | 18 | [Queequeg](https://open.spotify.com/track/7K9brdkcBy95CVTFW9DYMB) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [Queequeg](https://open.spotify.com/album/20KRmHdgOj8p6NVDJrgdtV) | 3:00 |
 | 19 | [Vies Antérieures](https://open.spotify.com/track/3yWM5VNcsOGNL9dzSsNzAg) | [Shreyas Murali](https://open.spotify.com/artist/6swIo0iu7c8WtdCzHnNPxS) | [Vies Antérieures](https://open.spotify.com/album/5OOjkY45YrDJSuJ1DB3364) | 2:17 |
@@ -195,7 +195,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 185 | [one way](https://open.spotify.com/track/4W2432JBzc5yujNBQOinng) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [one way](https://open.spotify.com/album/1e4qJMNCZwSH001bUM0kuz) | 2:44 |
 | 186 | [Quiet Hours](https://open.spotify.com/track/7x5xqxL4y72ThLMiRzDOVt) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Quiet Hours](https://open.spotify.com/album/5kLeCvaSvowAn1pcfzQu4i) | 2:37 |
 | 187 | [Montmarte](https://open.spotify.com/track/0I4fEtucjFVQcwNvMCgqoL) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Waltzes from Paris](https://open.spotify.com/album/5QNjTrkjRD32KWQZywf17x) | 2:03 |
-| 188 | [Counting the Days You’re Gone](https://open.spotify.com/track/69fSsSmk0EHoJjiUK12AKm) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Counting the Days You’re Gone](https://open.spotify.com/album/3dbXjKwnJZj5eLpXrx9PqX) | 3:24 |
-| 189 | [Sværmer](https://open.spotify.com/track/3rcULbCqrlDWDyKPL9OHkh) | [Mark Jubel](https://open.spotify.com/artist/6QhnbblQwendc1TdZMj6qd) | [Sværmer](https://open.spotify.com/album/5VRsA8TwmgXTgTgDBuHnP6) | 2:18 |
 
-Snapshot ID: `Z+9ZSwAAAADUemg3emRs4Ur/awPTmRqo`
+Snapshot ID: `Z/ZQ6wAAAADNY2SUQwbXhGYnkZIRBTT3`

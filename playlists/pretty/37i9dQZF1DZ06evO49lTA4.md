@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 
 > This is Luke Combs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 858,320 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 858,515 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 | 30 | [Cold As You](https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:06 |
 | 31 | [Growin' Up and Gettin' Old](https://open.spotify.com/track/24Z0qiHUR9cTB4UfGUqCnj) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:53 |
 | 32 | [Lovin' On You](https://open.spotify.com/track/0nYvjcSlCgjcwogQAwIwNp) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:14 |
-| 33 | [Missin’ You Like This \(Feat\. Luke Combs\)](https://open.spotify.com/track/1IzCS4zuowRsXu4YS8caOB) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:42 |
-| 34 | [Front Door Famous](https://open.spotify.com/track/5Xtm6aizhemUZMdjvLImeK) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:18 |
+| 33 | [Front Door Famous](https://open.spotify.com/track/5Xtm6aizhemUZMdjvLImeK) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:18 |
+| 34 | [Missin’ You Like This \(Feat\. Luke Combs\)](https://open.spotify.com/track/1IzCS4zuowRsXu4YS8caOB) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:42 |
 | 35 | [Can I Get an Outlaw](https://open.spotify.com/track/7vVsDu0gTg6oZtrKy7pXcW) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Can I Get an Outlaw](https://open.spotify.com/album/7ENhewQQ9Hp8mdEAyIsWvW) | 3:58 |
 | 36 | [You Found Yours](https://open.spotify.com/track/5OGCd9NL8XcwpkTmSxL5YI) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:11 |
 | 37 | [Doin' This](https://open.spotify.com/track/6TpyujRefwsflWFXbmjVpj) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 4:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 | 49 | [Let the Moonshine](https://open.spotify.com/track/05DejmhRYCktQogzOVX1H9) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Way She Rides](https://open.spotify.com/album/4Nr8sEsN2h0xMbqJNsFbyJ) | 3:29 |
 | 50 | [Without You](https://open.spotify.com/track/3zxAw8PaqpeGZ3Pakkxv3J) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:44 |
 
-Snapshot ID: `Z/MVgAAAAADGIoZ/7X6XTfC/Be52HVXu`
+Snapshot ID: `Z/RnAAAAAABW5fFHuJ0nL4w0Wl0whcKH`

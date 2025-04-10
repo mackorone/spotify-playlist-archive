@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Francis Mercier
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,760 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,785 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

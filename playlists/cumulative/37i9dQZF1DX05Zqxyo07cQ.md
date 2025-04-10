@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-709 songs - 1 day 10 hr 36 min
+710 songs - 1 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Chatoyante](https://open.spotify.com/track/5s3iXfS57ezUNi6M1McDDp) | [Rêveuse](https://open.spotify.com/artist/0DeHCKY9cIUwGMZuyIWCe1) | [Chatoyante](https://open.spotify.com/album/3GZVKjtELGJ2EXNZsAl4Y2) | 2:36 | 2024-02-08 | 2024-12-06 |
 | [Ciclo Solar](https://open.spotify.com/track/5igYXEgB6IPo7LNtQ71ZMT) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Planetas](https://open.spotify.com/album/51pSIpoYAmWbiUArilRnSg) | 3:13 | 2023-03-23 | 2024-02-09 |
 | [Cielo Notturno](https://open.spotify.com/track/5rE6VrSoUWVbN8zeqgCG8u) | [Callisto Mazzi](https://open.spotify.com/artist/0m0GtPOIUqS9mroE1ErOBn) | [Cielo Notturno](https://open.spotify.com/album/6QSEzNGp3z498l0xYouILT) | 3:08 | 2023-03-23 | 2024-02-09 |
+| [Ciels de Saphir](https://open.spotify.com/track/1WS6k1CpsOfxX61GeWKOR0) | [Fabuluxe](https://open.spotify.com/artist/4MwFbGn1PGHhaKAkhtEVDP) | [Ciels de Saphir](https://open.spotify.com/album/0td05C3nbN8gNEOsZ3DwC5) | 2:24 | 2025-04-09 |  |
 | [Clairvoyance](https://open.spotify.com/track/1ATwyUWpAnvpCGgsSsQ7Ms) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Clairvoyance](https://open.spotify.com/album/7EZZUbyw3E8fuMC1ubbKwO) | 3:36 | 2024-06-18 | 2024-12-28 |
 | [Clarify](https://open.spotify.com/track/5dnYuaLxgQCzwpbO1qsS0d) | [Vau Dio](https://open.spotify.com/artist/1k5dDiIY8luiAY2LoCItXm) | [Clarify](https://open.spotify.com/album/6Co30XY2obzBGDs429fPgM) | 2:12 | 2025-01-08 |  |
 | [Clear Mind](https://open.spotify.com/track/3nE5djRtJ8ye65bNGG5j76) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Goodnight](https://open.spotify.com/album/661sIW9bDfiwExa9kF2z71) | 3:14 | 2023-03-23 | 2024-01-18 |
@@ -277,7 +278,7 @@
 | [Fragile](https://open.spotify.com/track/1jNuMTWsvFvPMwyJcb30FF) | [Leonid Antonov](https://open.spotify.com/artist/32fb0CzojuxZhDwienUYu5) | [Fragile](https://open.spotify.com/album/23yYxqfArgUd8RkreaCD4t) | 2:59 | 2023-03-23 | 2024-02-09 |
 | [Fragile Voices](https://open.spotify.com/track/4zlGsaKaK94x4m1rJhDiiO) | [Meadow Rose](https://open.spotify.com/artist/0oEgQRXvflXAckXUZrLI3Y) | [Fragile Voices](https://open.spotify.com/album/1EWqxA9KSoAhWTAoImsM2v) | 3:31 | 2024-04-05 | 2025-01-09 |
 | [Fragmented Light](https://open.spotify.com/track/0CPyLkwaa3hTT0Pz9syd0l) | [Benjamin Mounfield](https://open.spotify.com/artist/0kjtU2Kn1KmDT8wod8yrbD) | [Fragmented Light](https://open.spotify.com/album/3uoMQghOUG6e3YNmJnPJl6) | 2:33 | 2025-02-04 |  |
-| [Fragments of Time](https://open.spotify.com/track/6FbX0P2bgK1L3CYVSKerC3) | [Vau Dio](https://open.spotify.com/artist/1k5dDiIY8luiAY2LoCItXm) | [Fragments of Time](https://open.spotify.com/album/6USdPUjJ2RCIcwoZ7oaWcm) | 2:12 | 2024-12-12 |  |
+| [Fragments of Time](https://open.spotify.com/track/6FbX0P2bgK1L3CYVSKerC3) | [Vau Dio](https://open.spotify.com/artist/1k5dDiIY8luiAY2LoCItXm) | [Fragments of Time](https://open.spotify.com/album/6USdPUjJ2RCIcwoZ7oaWcm) | 2:12 | 2024-12-12 | 2025-04-10 |
 | [Free Heart](https://open.spotify.com/track/20Swwc4vZdDM00QexotXce) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Completely](https://open.spotify.com/album/1i6EaebeCPg1TzIYjhFWhB) | 2:40 | 2023-03-23 | 2024-02-09 |
 | [Free Of Hesitation](https://open.spotify.com/track/2rqRLfEDVwbH67LanM8FCc) | [Abigail Dorsey](https://open.spotify.com/artist/5UWRATaAg1iZB8rJtTHhfR) | [Free Of Hesitation](https://open.spotify.com/album/6Qckgdp2NNvXFw6vKLRMXr) | 2:40 | 2023-03-23 | 2024-06-21 |
 | [Freeform](https://open.spotify.com/track/3YrLrT0dfvY3biwPDkecAq) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Freeform](https://open.spotify.com/album/6yahW3mslf0k9LRWEDfc7J) | 3:36 | 2023-03-23 | 2024-02-09 |
@@ -460,7 +461,7 @@
 | [Omegagigia](https://open.spotify.com/track/7bgTGa2DeDTFX8yIbjhl2s) | [Galactica Pivot](https://open.spotify.com/artist/4GwyYAQXedw9Rf6R5lPqiG) | [Omegagigia](https://open.spotify.com/album/64vtZ76endgd7UTXcuOmOU) | 2:53 | 2024-02-08 | 2024-10-15 |
 | [One Moon](https://open.spotify.com/track/5HfGapbGX8brM6Rynv9Dcd) | [Slumberland Dreams](https://open.spotify.com/artist/3PY9lWIIIysDVnJ7i83N2k) | [One Moon](https://open.spotify.com/album/1khyLTxqiC4zk9W9cZDwBE) | 2:20 | 2025-01-22 |  |
 | [Ons](https://open.spotify.com/track/07UDTaRYJAsIhUZTyZSUzM) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Ons](https://open.spotify.com/album/2cdvRClGJPAHpK0ACSFSfu) | 3:13 | 2023-03-23 | 2024-02-09 |
-| [Opaline Haze](https://open.spotify.com/track/2emLNgm2fFXz9IEKysjoAg) | [Les Coralines](https://open.spotify.com/artist/595oUO0bgLQxuQ28hBcPSm) | [Opaline Haze](https://open.spotify.com/album/6PKJmrjzGMaitz6Nc68m2S) | 3:09 | 2024-12-03 |  |
+| [Opaline Haze](https://open.spotify.com/track/2emLNgm2fFXz9IEKysjoAg) | [Les Coralines](https://open.spotify.com/artist/595oUO0bgLQxuQ28hBcPSm) | [Opaline Haze](https://open.spotify.com/album/6PKJmrjzGMaitz6Nc68m2S) | 3:09 | 2024-12-03 | 2025-04-10 |
 | [Orbiting Solitude](https://open.spotify.com/track/5cjqCGTY2O4ealKtCSeoda) | [Aidin](https://open.spotify.com/artist/1FQMmopnjYkAuyjQImmDMM) | [Orbiting Solitude](https://open.spotify.com/album/2ljkYFpk8HeHtqP494zXOq) | 2:24 | 2025-03-05 |  |
 | [Origami](https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Origami](https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF) | 1:46 | 2023-03-23 | 2023-05-06 |
 | [Origami Age](https://open.spotify.com/track/121YyIOmTlu4Da9HgkZrJU) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Origami Age](https://open.spotify.com/album/61UXpwigZp7NAAle6sNyLw) | 2:50 | 2023-03-23 | 2024-02-09 |
@@ -606,7 +607,7 @@
 | [Spirals](https://open.spotify.com/track/667lSDCBFUOfBpnRjW1SHa) | [BlunD](https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T) | [Spirals](https://open.spotify.com/album/3sTNK1EsIBOJjOGfWN3nL5) | 3:32 | 2023-03-23 | 2024-01-18 |
 | [Spiritus](https://open.spotify.com/track/2CZtUi10ysWgxKIcTqWOti) | [Devon Hayes](https://open.spotify.com/artist/3KdbxMFJCUu7a9rIwRA51W) | [Spiritus](https://open.spotify.com/album/0125MofrFOkqFXpLE7cTkm) | 2:27 | 2023-03-23 | 2024-05-21 |
 | [Squama](https://open.spotify.com/track/3uqxytqtmoZuxyn3ISYT2e) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Squama](https://open.spotify.com/album/5etPDJsjirWwVjxIbZgdb1) | 3:31 | 2023-03-23 | 2024-02-09 |
-| [Stabilize](https://open.spotify.com/track/0AC6SZlAoEbvzhMeUiwsAq) | [iavú](https://open.spotify.com/artist/4HLXt5FajZmG37fZb3E2my) | [Stabilize](https://open.spotify.com/album/27ZSlh6IgrmEoDIP5LKrM5) | 2:37 | 2024-07-09 | 2025-04-09 |
+| [Stabilize](https://open.spotify.com/track/0AC6SZlAoEbvzhMeUiwsAq) | [iavú](https://open.spotify.com/artist/4HLXt5FajZmG37fZb3E2my) | [Stabilize](https://open.spotify.com/album/27ZSlh6IgrmEoDIP5LKrM5) | 2:37 | 2024-07-09 |  |
 | [Star Fallen](https://open.spotify.com/track/0pXHLfZ33II05CmcqiEzlG) | [Ventura Lumi](https://open.spotify.com/artist/0jQvAwzpHfMQhQc76iWBa4) | [Star Fallen](https://open.spotify.com/album/6z8UZg8mr2LcqBee8iXsPG) | 4:14 | 2024-02-08 | 2024-03-07 |
 | [Star Nebula](https://open.spotify.com/track/2Xf3Bgs0YghPmBITagkKyz) | [Ayala Cola](https://open.spotify.com/artist/5z98YuplLBTQttqAgkNyfA) | [Star Nebula](https://open.spotify.com/album/1sovGNMgI8ii8qiNxGthjp) | 3:06 | 2024-04-05 | 2025-01-09 |
 | [Star Sapphire](https://open.spotify.com/track/4PEaexNSqrYBG2oGVyVhgt) | [Galactica Pivot](https://open.spotify.com/artist/4GwyYAQXedw9Rf6R5lPqiG) | [Star Sapphire](https://open.spotify.com/album/0QfpBOzWW1pSX3rxU35BFy) | 2:21 | 2024-03-20 | 2025-03-08 |

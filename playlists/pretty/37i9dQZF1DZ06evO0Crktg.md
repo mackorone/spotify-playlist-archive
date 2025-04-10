@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 
 > This is Jelly Roll\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,897 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,037 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 | 49 | [Hurt \(with Jelly Roll\)](https://open.spotify.com/track/1l0na60FJ6nH6tSajSQQs3) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hurt \(with Jelly Roll\)](https://open.spotify.com/album/5osyX2S0SzifrsmFORqUY3) | 2:36 |
 | 50 | [Believe \(with Jelly Roll\)](https://open.spotify.com/track/3Nh5mzU8htHws2Wi7j2X4Z) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 4:56 |
 
-Snapshot ID: `Z/MVgAAAAACnHG5XkLSOq/ljPkCIMlcP`
+Snapshot ID: `Z/RnAAAAAABMSgFT04JimWxu+0IibfN4`

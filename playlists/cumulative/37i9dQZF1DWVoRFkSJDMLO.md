@@ -2,7 +2,7 @@
 
 ### [Crxss Current](https://open.spotify.com/playlist/37i9dQZF1DWVoRFkSJDMLO)
 
-> From the continent to the islands\. Cover: Joé Dwèt Filé 🇭🇹 & Burna Boy 🇳🇬
+> From the continent to the islands\. Cover: Moliy 🇬🇭
 
 1,300 songs - 2 day 17 hr 3 min
 
@@ -21,7 +21,7 @@
 | [2085 Tea](https://open.spotify.com/track/77bG5yr4tQzpCUdrszlO4R) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [2085 Tea](https://open.spotify.com/album/5kosi8ZmatIOzHE40KFu83) | 3:38 | 2024-06-14 | 2024-06-29 |
 | [2:30](https://open.spotify.com/track/6upXA8xqJ5heoVw4nd5Zvs) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [2:30](https://open.spotify.com/album/7ASPbaFgWYjGlYIIOewA2L) | 2:18 | 2023-04-07 | 2023-05-27 |
 | [4 Kampé](https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [4 Kampé](https://open.spotify.com/album/7ns1gjXstFSrBTFe81id88) | 3:34 | 2024-11-15 | 2024-11-19 |
-| [4 Kampé II](https://open.spotify.com/track/2fhVsI54lSCFyW7sw5WPfR) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [4 Kampé II](https://open.spotify.com/album/15TFuzRGsXwFuW1HzwoQNk) | 3:31 | 2025-03-28 |  |
+| [4 Kampé II](https://open.spotify.com/track/2fhVsI54lSCFyW7sw5WPfR) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [4 Kampé II](https://open.spotify.com/album/15TFuzRGsXwFuW1HzwoQNk) | 3:31 | 2025-03-28 | 2025-04-10 |
 | [4 Me \(feat\. Kali Uchis\)](https://open.spotify.com/track/6j9fHxM5TMFXZiNaCQRUss) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Love Sick](https://open.spotify.com/album/6Xnrf8JvckhoADFcePUNyq) | 2:40 | 2023-03-03 | 2023-09-30 |
 | [42](https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [42](https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2) | 2:55 | 2024-06-21 | 2024-11-30 |
 | [42](https://open.spotify.com/track/2Kui4WxXbqrxVO7q0H1XBA) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Make E No Cause Fight 3](https://open.spotify.com/album/0KL40ckvFn3gRSiPWLZJ56) | 2:51 | 2023-11-17 | 2024-03-02 |

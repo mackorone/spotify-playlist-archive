@@ -4,7 +4,7 @@
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-343 songs - 21 hr 12 min
+344 songs - 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,7 @@
 | [Our love like tonight](https://open.spotify.com/track/5qtYh6ZnzFGwwwJ8BknAsx) | [SOOIN](https://open.spotify.com/artist/1DxQgqC0FRx2RkiGAlXNPb) | [Our love like tonight](https://open.spotify.com/album/54q8WeKHUNWYOvTvMLmy6x) | 4:00 | 2022-05-11 | 2024-08-28 |
 | [Paradise](https://open.spotify.com/track/5dl4insuwy9dfDw3Co0fKO) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 7th Mini Album \`FEVER SEASON\`](https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR) | 3:14 | 2022-05-11 | 2024-08-14 |
 | [Passing Light](https://open.spotify.com/track/0eXreZ3kZDgnqhvgXz6Mav) | [NO\_ON](https://open.spotify.com/artist/44CBCqoh0b32RmvSVB5Jiz) | [Passing](https://open.spotify.com/album/5oUO7dUg3pRcaO5SnpLef3) | 2:59 | 2022-05-11 |  |
-| [Pier](https://open.spotify.com/track/1X2LxOHifIksEnDHUTlXCo) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [Pier](https://open.spotify.com/album/12A6nMaKXm2zLGxzLA6UDd) | 2:54 | 2024-09-11 |  |
+| [Pier](https://open.spotify.com/track/1X2LxOHifIksEnDHUTlXCo) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [Pier](https://open.spotify.com/album/12A6nMaKXm2zLGxzLA6UDd) | 2:54 | 2024-09-11 | 2025-04-10 |
 | [Pixel](https://open.spotify.com/track/3cuofWllYn8kBdMGVrvPTI) | [Swing](https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W), [LiYoon](https://open.spotify.com/artist/6MAEen0SL68c1kJ7Ylaxvn) | [Pixel](https://open.spotify.com/album/3smEGBtxcckJh80i2BA3Ml) | 3:28 | 2022-05-11 | 2024-06-04 |
 | [Plastic Candy](https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr) | [HaSeul](https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9) | [Plastic Candy](https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ) | 3:34 | 2023-11-02 |  |
 | [Plastic Candy](https://open.spotify.com/track/2IXvqQDvcXYQW2QiACph6B) | [HaSeul](https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9) | [Plastic Candy](https://open.spotify.com/album/2mwOcK4A3O3x9fxpjyFGxW) | 3:34 | 2024-03-29 | 2024-04-19 |
@@ -287,6 +287,7 @@
 | [Sweet Girl](https://open.spotify.com/track/7Cdh626VxdLfoHkt1E2RSi) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [Sweet Girl](https://open.spotify.com/album/3Z3kQt2hTqjJ0hPKHyAMeE) | 4:08 | 2024-03-29 | 2024-04-19 |
 | [SWEET SUMMER DAY](https://open.spotify.com/track/6UrML9LyuaBWgZV3nFLLGl) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:11 | 2022-05-11 |  |
 | [TALK](https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4) | [TIFFANY](https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4) | [I Just Wanna Dance \- The 1st Mini Album](https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU) | 3:34 | 2022-05-11 |  |
+| [TALK](https://open.spotify.com/track/2nuPFwWsyyMBMGwEdnYVqv) | [YOU DAYEON](https://open.spotify.com/artist/23xyNoanbbAB7M8LBiibyr) | [TALK](https://open.spotify.com/album/3X2z54NV6Y6L97SjphwulR) | 3:23 | 2025-04-09 |  |
 | [Thanks to](https://open.spotify.com/track/0dGI1GRr0UAnkPKcWn7QbI) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing can tear us apart](https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq) | 4:17 | 2023-05-05 | 2024-04-19 |
 | [Thanks to](https://open.spotify.com/track/1KQrnUtKigVAtDZc6M7UsM) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing Can Tear Us Apart](https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc) | 4:17 | 2022-05-11 | 2023-06-07 |
 | [The girl in my memories \(Digging club Seoul Ver.\)](https://open.spotify.com/track/72znGmipHo5wclQX7RKhpB) | [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [Onstage Digging Club Seoul THEME 04](https://open.spotify.com/album/3WREPmFd4M6Rfunvv5p1mF) | 3:18 | 2022-10-04 | 2024-04-19 |

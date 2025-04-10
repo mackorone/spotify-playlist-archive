@@ -4,7 +4,7 @@
 
 > 2025: doom scrolling is out, off\-grid is in.
 
-57 songs - 2 hr 24 min
+58 songs - 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Au revoir](https://open.spotify.com/track/7vfdFzzXnux3FSS1GOQ5cn) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Au revoir](https://open.spotify.com/album/3nthhPdTXBSHY9A0Owcoe2) | 2:46 | 2025-03-07 |  |
 | [Avioncito De Papel](https://open.spotify.com/track/25sQgB0cL7326ANzBO7ZLe) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Avioncito De Papel](https://open.spotify.com/album/1YuZmvRVkCLaoowcy47M4p) | 2:32 | 2025-03-07 |  |
 | [Can't Be Replaced](https://open.spotify.com/track/23xsPaiiJQ0StFj9NmTcHG) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Can't Be Replaced](https://open.spotify.com/album/5lB5I9Lx2dl9rqcObrd6Qi) | 2:23 | 2025-03-07 |  |
+| [Constant Flow](https://open.spotify.com/track/4ddSt3tiJ7QxAq93PlIf3Z) | [Stace Brinorma](https://open.spotify.com/artist/0uhbT4yNeyFnQePzFddGJk) | [Constant Flow](https://open.spotify.com/album/6ZKXemtYF6UdrXwA9mA2o6) | 2:20 | 2025-04-09 |  |
 | [Copper Corners](https://open.spotify.com/track/2ZOHuRyNd05kKlsZVKPnuD) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Copper Corners](https://open.spotify.com/album/1ex8osQco2SsMVEvJBrwEA) | 2:24 | 2025-03-07 |  |
 | [Counting the Days](https://open.spotify.com/track/1xfEo3rOHLAT3vqxMPKC5d) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Counting the Days](https://open.spotify.com/album/1DIDzFc9XpurOpFuCGmL43) | 2:48 | 2025-04-02 |  |
 | [Dianthus](https://open.spotify.com/track/1AFS4HPrOmxvVgKGVuylWI) | [Valentia Serrano](https://open.spotify.com/artist/1OCi9l2I6jEaENzD8MuSAJ) | [Dianthus](https://open.spotify.com/album/2NVyXMffU56Xmv5Dqs8Aix) | 2:33 | 2025-03-21 |  |
@@ -37,7 +38,7 @@
 | [Into the Light](https://open.spotify.com/track/2cilJhRbesAUmkwLn9dlkR) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Into the Light](https://open.spotify.com/album/103ieLQ54WKXA1dqhtcif5) | 2:46 | 2025-03-07 |  |
 | [Jay](https://open.spotify.com/track/24FZP1U7646LkL8F0i2Dvv) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Summer Portraits](https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs) | 3:12 | 2025-03-07 | 2025-04-03 |
 | [Just Like the Movies](https://open.spotify.com/track/3x1Eo1XG7K3OdIIVaB7lsS) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Just Like the Movies](https://open.spotify.com/album/2wICyNzRtzx3QZg21JY4kl) | 2:07 | 2025-03-26 |  |
-| [Laurence](https://open.spotify.com/track/5VW6aFOUabBvUI94eDFVSe) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [Laurence](https://open.spotify.com/album/56xYvj6tVsPP8HpZYphfUW) | 3:00 | 2025-03-07 |  |
+| [Laurence](https://open.spotify.com/track/5VW6aFOUabBvUI94eDFVSe) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [Laurence](https://open.spotify.com/album/56xYvj6tVsPP8HpZYphfUW) | 3:00 | 2025-03-07 | 2025-04-10 |
 | [Little House In Silver Lake](https://open.spotify.com/track/1QQXKivwrfMS3ma2ZBUGyr) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Little House In Silver Lake](https://open.spotify.com/album/6hXIKTf62eL65rGo6GshIs) | 2:52 | 2025-03-07 |  |
 | [Lost in the Library](https://open.spotify.com/track/6OegSW1Xm2gyfwU9zZUkwU) | [Claude Leon](https://open.spotify.com/artist/6CaYrWBRxJNLRd95uQ6uLC) | [Lost in the Library](https://open.spotify.com/album/1y2cH530QIZ5EAveiJZOlP) | 2:34 | 2025-03-07 |  |
 | [Meet Me At Noon](https://open.spotify.com/track/1nq30PCzNrkktaSxn2uxds) | [Jack Ame](https://open.spotify.com/artist/5VFJbcflFyX7bF7yTvtOQQ) | [Meet Me At Noon](https://open.spotify.com/album/1afrHdIQvjlrC8GfRrHg4B) | 2:36 | 2025-03-26 |  |
@@ -58,7 +59,7 @@
 | [Tea Leaves](https://open.spotify.com/track/23EKUr95l9lfZFu331B7Qh) | [J Stepan](https://open.spotify.com/artist/2uF3aGwBsOYAxyCSCQuQzz) | [Tea Leaves](https://open.spotify.com/album/4nERQL5dMiB2IdcgWZpfBR) | 2:16 | 2025-03-26 |  |
 | [The Conservatory Window](https://open.spotify.com/track/1DcuFxt7thDbbiPPkWaDoA) | [Vølaire](https://open.spotify.com/artist/6cYOKoIvU6FGklAGv8aA1u) | [The Conservatory Window](https://open.spotify.com/album/4N5vOrH6XKFvNRY7MQ3yIS) | 2:54 | 2025-03-07 |  |
 | [The Great Unknown](https://open.spotify.com/track/4l9EIKt3aYxiGm0Qm2FdoB) | [Sam & Me](https://open.spotify.com/artist/0I6YHl8NdEHLGwdklwhTCm) | [The Great Unknown](https://open.spotify.com/album/3gMUGhgcBKa0hdHQyuGgvR) | 1:46 | 2025-03-07 | 2025-04-03 |
-| [The Light](https://open.spotify.com/track/4tcHKbxCCK98i0Tw9kRHax) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [The Light](https://open.spotify.com/album/6pgKASOwqNzcedfkVriGIy) | 1:59 | 2025-03-07 |  |
+| [The Light](https://open.spotify.com/track/4tcHKbxCCK98i0Tw9kRHax) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [The Light](https://open.spotify.com/album/6pgKASOwqNzcedfkVriGIy) | 1:59 | 2025-03-07 | 2025-04-10 |
 | [The Mighty Ocean](https://open.spotify.com/track/3Fjin8fnhoA4cuz7WLVHC5) | [Richard Sauzal](https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI) | [The Mighty Ocean](https://open.spotify.com/album/481dJbM3TjoBdOawFxqiMi) | 2:50 | 2025-04-02 |  |
 | [The Only One](https://open.spotify.com/track/6ffWLQVoGsJyXeqkgXSAIg) | [Aron E\. Ross](https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4) | [The Only One](https://open.spotify.com/album/3PMbgWveWWvXDqNl8h8v4m) | 2:56 | 2025-03-07 |  |
 | [Token](https://open.spotify.com/track/0hB3bysyufVO1pUCj1rYwS) | [Farsjön](https://open.spotify.com/artist/1JVGbsUCqcTgrQP6qc3LEe) | [Token](https://open.spotify.com/album/4uL1RDBqy4Ji6D8UaEUwlE) | 3:16 | 2025-03-18 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 9954,
+  "num_followers": 9955,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/MVgAAAAADIjQKIRnfzJv6y1tPMpcK5",
+  "snapshot_id": "Z/RnAAAAAAAOnigrMyq5w4Kfl4PuZuMf",
   "tracks": [
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 133679,
-      "name": "LETTER FROM A BLACKBIRD",
-      "url": "https://open.spotify.com/track/4LZ8uQgHZKAk9KCQa32dNF"
+      "duration_ms": 237915,
+      "name": "QUESTIONS, CHAOS & FAITH",
+      "url": "https://open.spotify.com/track/1bHUfLczpJKKgyB5OKlBbE"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 237915,
-      "name": "QUESTIONS, CHAOS & FAITH",
-      "url": "https://open.spotify.com/track/1bHUfLczpJKKgyB5OKlBbE"
+      "duration_ms": 133679,
+      "name": "LETTER FROM A BLACKBIRD",
+      "url": "https://open.spotify.com/track/4LZ8uQgHZKAk9KCQa32dNF"
     },
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "this little lighter of mine (joy version)",
-        "url": "https://open.spotify.com/album/5UTl57aV9zlJ8Q7XM1jQq4"
-      },
-      "artists": [
-        {
-          "name": "Abbey Cone",
-          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
-        },
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 229240,
-      "name": "this little lighter of mine (joy version)",
-      "url": "https://open.spotify.com/track/0kmtDfNT55QKdwYEENuzgO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "With Love From",
         "url": "https://open.spotify.com/album/3oFIKpX63uWlFve7BaVK1r"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 240733,
       "name": "Way of Nature Way of Grace",
       "url": "https://open.spotify.com/track/6XvIVhREinnOkdeh1v6Ut0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "this little lighter of mine (joy version)",
+        "url": "https://open.spotify.com/album/5UTl57aV9zlJ8Q7XM1jQq4"
+      },
+      "artists": [
+        {
+          "name": "Abbey Cone",
+          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 229240,
+      "name": "this little lighter of mine (joy version)",
+      "url": "https://open.spotify.com/track/0kmtDfNT55QKdwYEENuzgO"
     }
   ],
   "unique_name": "This Is Joy Oladokun",

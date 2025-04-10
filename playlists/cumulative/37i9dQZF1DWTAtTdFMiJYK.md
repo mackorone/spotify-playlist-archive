@@ -2,9 +2,9 @@
 
 ### [RADAR India](https://open.spotify.com/playlist/37i9dQZF1DWTAtTdFMiJYK)
 
-> Most exciting artists from the Indian Indie scene\. Cover: Saahel
+> Most exciting artists from the Indian Indie scene\. Cover: Zanai Bhosle
 
-350 songs - 19 hr 50 min
+351 songs - 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Gaayab](https://open.spotify.com/track/6yxyxncMxTxyU05fD5lRMk) | [Raman Negi](https://open.spotify.com/artist/1ZsF8DeNQav5xvu4X5KsYB) | [Gaayab](https://open.spotify.com/album/3qGhJwL6Y2tY2t9lJNHiOS) | 4:22 | 2022-09-10 | 2023-09-23 |
 | [Gallan Mithiyaan](https://open.spotify.com/track/4RUABRzEPjA12w5AG2x6dy) | [SHATAKSHI SHARMA](https://open.spotify.com/artist/36uwUovmBWyAw7dJyhQRcO) | [Gallan Mithiyaan](https://open.spotify.com/album/1Hx3H2cG3Q3q2LkIN3kGAZ) | 3:06 | 2025-02-10 |  |
 | [Gehraiyaan](https://open.spotify.com/track/1h5bMRo0WZ6L6E2a9ndiQ1) | [Aryan Katoch](https://open.spotify.com/artist/4gAmleqQJI116NpfqkMxha) | [Gehraiyaan](https://open.spotify.com/album/0tQJ5GTvAMRX7vZ8umFUzO) | 3:38 | 2022-01-31 | 2022-02-05 |
-| [Ghanan](https://open.spotify.com/track/62y0vkPVjLKqcl03BPRClh) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Ghanan](https://open.spotify.com/album/2QnzLREoXTbjpSBCoe64Vu) | 3:06 | 2024-08-30 |  |
+| [Ghanan](https://open.spotify.com/track/62y0vkPVjLKqcl03BPRClh) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Ghanan](https://open.spotify.com/album/2QnzLREoXTbjpSBCoe64Vu) | 3:06 | 2024-08-30 | 2025-04-10 |
 | [Ghoome](https://open.spotify.com/track/2S8g6nlwCih4u4GAn14GqE) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Ghoome](https://open.spotify.com/album/4u73oMykwBdkhBuJ9ufJjT) | 2:49 | 2023-07-24 | 2025-01-22 |
 | [Girls Night](https://open.spotify.com/track/5X5FVp16eymvPgpozLX5Vt) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Girls Night](https://open.spotify.com/album/5SQMqplTnx2JC1SgNbdPT4) | 3:17 | 2024-01-10 | 2025-04-09 |
 | [Go Grow](https://open.spotify.com/track/4XSTKp0ndMNj4RTvfOAlzW) | [Rachel Singh](https://open.spotify.com/artist/4yrsPV1KOPO7GTR1Dlds8V), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Go Grow](https://open.spotify.com/album/2m0HEB5QkPWqeaf4V133JM) | 3:47 | 2022-01-10 | 2023-01-11 |
@@ -200,6 +200,7 @@
 | [Le Chal](https://open.spotify.com/track/6Lc9DslN6gU7gJLhGC0YP6) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Self Help Radio](https://open.spotify.com/album/7BcuPEUyxXNmRjRIlFX24v) | 4:07 | 2022-11-30 | 2023-01-11 |
 | [Love Drunk](https://open.spotify.com/track/7Lek6TgDH6aEi6jdDuEeaC) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Love Drunk](https://open.spotify.com/album/4InhKcOEUc6o8aj9ty30lO) | 2:30 | 2022-01-10 | 2022-10-11 |
 | [Love Note](https://open.spotify.com/track/0uVdtnoCTDoxbHgEAvBRjY) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo) | [Love Note](https://open.spotify.com/album/1Ay9m3wFymygsyusr2H7fK) | 2:56 | 2023-01-10 | 2023-02-23 |
+| [Main Heer Teri](https://open.spotify.com/track/3BAmJqcRP0Mf11YAungMFq) | [Zanai Bhosle](https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX) | [Main Heer Teri](https://open.spotify.com/album/4vtES0Tr90HiRlgdXmeMY7) | 3:26 | 2025-04-10 |  |
 | [Makhmal \(feat\. BLUK\)](https://open.spotify.com/track/46qCjuV2ydLZNdGxf2PSWB) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Priyanshu Soni](https://open.spotify.com/artist/6MB9eP64yx5KQ12VLrXo6p), [BLUK](https://open.spotify.com/artist/5VwEh2dfVTTVtQ0Q3C1e4r) | [Makhmal \(feat\. BLUK\)](https://open.spotify.com/album/1vyIwvbXKGfu9AoLNg6WGx) | 3:17 | 2022-08-08 | 2023-05-19 |
 | [Makin' My Move](https://open.spotify.com/track/11MXG7ypbXmFk6PgYKnbX2) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Caught in a Parade](https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG) | 4:19 | 2022-11-30 | 2023-01-11 |
 | [Makin' My Move](https://open.spotify.com/track/7FQ8a1PJLyQkiJCeI8MTVD) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Makin' My Move](https://open.spotify.com/album/150hkUZW2dWT2CEDvk5UA1) | 4:19 | 2021-12-06 | 2022-03-16 |

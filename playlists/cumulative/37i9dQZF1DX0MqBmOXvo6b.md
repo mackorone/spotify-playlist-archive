@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-715 songs - 1 day 6 hr 20 min
+716 songs - 1 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Childhood Memories](https://open.spotify.com/track/7J1YYJryHQh6ocCgIZpjk3) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Daydream](https://open.spotify.com/album/5I1UPuEInRdfp2rpP9lFam) | 2:25 | 2022-06-07 | 2023-01-20 |
 | [Chronostasis](https://open.spotify.com/track/4vLkjOq0df258sEL7zrtE0) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Chronostasis](https://open.spotify.com/album/3mEjbYACVfAp3enzgHVyeM) | 2:34 | 2022-06-07 | 2024-05-08 |
 | [Chère Tante](https://open.spotify.com/track/5Hms3m02qVC3MCjaSTOEnA) | [Catherina Dafoe](https://open.spotify.com/artist/0JMmT09ZgpWQAIgO14wWsD) | [4](https://open.spotify.com/album/7ivdFtTeofiXLu1SyqeDeD) | 2:04 | 2022-06-07 | 2024-11-20 |
-| [City Prelude](https://open.spotify.com/track/7jCRVvGKxzAMWDqIiW2T53) | [Julius Nilsson](https://open.spotify.com/artist/6TldgZgNH66W2AGRLsqwPX) | [Preludes](https://open.spotify.com/album/39pSeV5BLaPnUAQUtx6ww1) | 2:19 | 2022-12-22 |  |
+| [City Prelude](https://open.spotify.com/track/7jCRVvGKxzAMWDqIiW2T53) | [Julius Nilsson](https://open.spotify.com/artist/6TldgZgNH66W2AGRLsqwPX) | [Preludes](https://open.spotify.com/album/39pSeV5BLaPnUAQUtx6ww1) | 2:19 | 2022-12-22 | 2025-04-10 |
 | [Closer](https://open.spotify.com/track/7xB4ErvUJTglvf4dXx8MWL) | [Matt Stewart\-Evans](https://open.spotify.com/artist/7x67OgZ8Iu8FEYpvRAPuh7) | [Closer](https://open.spotify.com/album/6VzBJs7FDfaGi2MnFRQvYt) | 2:24 | 2022-06-07 | 2023-10-05 |
 | [Clouds](https://open.spotify.com/track/3Kh7SwnaYrFOFHoVow98w7) | [Marinenko](https://open.spotify.com/artist/2SakhZoZ1yklBM7XhWf7AA) | [Clouds](https://open.spotify.com/album/39s00lORhE8uVodSvyRx80) | 2:45 | 2025-03-04 | 2025-03-12 |
 | [Cold Winter](https://open.spotify.com/track/5dDeXSx4rhGmWRGoN8Bnkg) | [Claudia Schumann](https://open.spotify.com/artist/2iwOpHlcFiksGX5PEJ1apz) | [Cold Winter](https://open.spotify.com/album/3guUHu2tYuaeUZvCW2dkvz) | 2:24 | 2024-11-19 |  |
@@ -236,7 +236,7 @@
 | [Gros Morne](https://open.spotify.com/track/75LbLUHpRWfMLsBgVohKdp) | [Donnie Harman](https://open.spotify.com/artist/6SGJd9IXJySRiU9CR8Bdbe) | [Gros Morne](https://open.spotify.com/album/2VEZGCioiKV64KSQx1VqeC) | 2:24 | 2022-06-07 | 2022-09-24 |
 | [Growth](https://open.spotify.com/track/0qLSBrPZWS7vq9nYo6tcIe) | [Jonas Gewald](https://open.spotify.com/artist/53k1kqkyCUpbJMK93MBxxc) | [Growth](https://open.spotify.com/album/680N4M21R3aq1pcyKmJ7Mt) | 2:43 | 2022-06-07 | 2024-10-02 |
 | [Halcyon](https://open.spotify.com/track/2PEiFFvNyMykLb2wxnvBfv) | [Laila Lawson](https://open.spotify.com/artist/7FkVtLkKm15RmW66X3x23z) | [Halcyon & Safe Havens](https://open.spotify.com/album/0nl8ijx6L3t2QVaA05GLCp) | 3:02 | 2022-06-07 | 2022-12-24 |
-| [Hammock](https://open.spotify.com/track/7LTVGmS15JBwO11pTS4ykt) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [Hammock](https://open.spotify.com/album/02duehzy4k0kc3iDwoLVkr) | 2:06 | 2023-02-06 |  |
+| [Hammock](https://open.spotify.com/track/7LTVGmS15JBwO11pTS4ykt) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [Hammock](https://open.spotify.com/album/02duehzy4k0kc3iDwoLVkr) | 2:06 | 2023-02-06 | 2025-04-10 |
 | [Hands and Feet](https://open.spotify.com/track/3SwnQKMO2D0jOUKxaqIHLw) | [Samuel Félix](https://open.spotify.com/artist/4QCrQhj1liuos6rjK3hUBr) | [Hands and Feet](https://open.spotify.com/album/3VLtmQVO6V5bkx17xTKkvO) | 1:54 | 2022-06-07 | 2022-07-20 |
 | [Healing](https://open.spotify.com/track/2e68vzuzRv3GFUtYDO7NBE) | [Mima Renard](https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4) | [Healing](https://open.spotify.com/album/2DrvBABoXgq25yR3hNIFBP) | 2:06 | 2023-05-19 |  |
 | [Heart of the River of the Sun](https://open.spotify.com/track/2YIC6Cp33wgMVEYruivCuH) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Heart of the River of the Sun](https://open.spotify.com/album/1wrDM0xtWqoTWtJ1mYuDny) | 2:31 | 2022-06-07 | 2022-12-24 |
@@ -249,7 +249,7 @@
 | [Hiraeth](https://open.spotify.com/track/7Bu7bhBR0ZzJYV6rXy2WBE) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Hiraeth](https://open.spotify.com/album/0X7oAZw91zTDeDYBo8csfR) | 2:27 | 2024-12-04 |  |
 | [Homage](https://open.spotify.com/track/5imJAvlEBQf9OWjogd3VEm) | [Inside Lands](https://open.spotify.com/artist/7fQumDmow1qrPuRXqMHUa7) | [Homage](https://open.spotify.com/album/0U0hTrIvfgJCB59rb8sApb) | 2:43 | 2022-06-07 | 2023-10-05 |
 | [Hope Remains](https://open.spotify.com/track/5MNa6Zx5BvwO1YeXxb0W04) | [Noomi Meerbach](https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh) | [Hope Remains](https://open.spotify.com/album/5qWrilEui29XPFmyE9Agqk) | 2:49 | 2025-03-21 |  |
-| [House of the Rising Sun](https://open.spotify.com/track/6exjuFon5neQuOyrqVoBgQ) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [House of the Rising Sun](https://open.spotify.com/album/3SAkKz7Km8eVzgnKk1bsPW) | 2:18 | 2024-11-12 |  |
+| [House of the Rising Sun](https://open.spotify.com/track/6exjuFon5neQuOyrqVoBgQ) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [House of the Rising Sun](https://open.spotify.com/album/3SAkKz7Km8eVzgnKk1bsPW) | 2:18 | 2024-11-12 | 2025-04-10 |
 | [How It Is](https://open.spotify.com/track/7ekVkcI3ZD4YJbbxpq9mPR) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [How It Is](https://open.spotify.com/album/7qF2w24bghB6K5g3DLXqw3) | 2:05 | 2022-06-07 |  |
 | [How You're Remembered](https://open.spotify.com/track/2NHgyCHFDydecMMa57BcWP) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [How You're Remembered](https://open.spotify.com/album/6Wvn6npRvkS4KoGKZDfwOH) | 3:10 | 2022-06-07 | 2024-05-02 |
 | [Howthian](https://open.spotify.com/track/7Ifj1BA2mFHr1FmCxV9p1M) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Howthian](https://open.spotify.com/album/3eDvXFQzvzaRxRMdAss0vn) | 2:24 | 2022-06-07 | 2022-09-15 |
@@ -389,6 +389,7 @@
 | [Nascondiglio](https://open.spotify.com/track/3e8DQgRVImwkDYrJJEh9xO) | [Giovanna Petrini](https://open.spotify.com/artist/25Bpq4sqHbHT853VsYM9wb) | [Nascondiglio](https://open.spotify.com/album/0TRLxuQkDGaKoJEYOmCNMr) | 1:57 | 2022-12-22 | 2023-07-25 |
 | [Never Give In](https://open.spotify.com/track/7GghRfjTGCxYDnYo0OVRM3) | [Irma Kantola](https://open.spotify.com/artist/7eP5EaPos8EeIsG7UJfEVP) | [Never Give In](https://open.spotify.com/album/43mYROp7H0H6Ynbi1zVbyY) | 3:05 | 2022-06-07 | 2024-05-08 |
 | [Never Unsaid](https://open.spotify.com/track/1zG58ldyABiNx05Brxkktd) | [Aleisha Millar](https://open.spotify.com/artist/2a2JENyvbHLDEeMCbAKjl4) | [Never Unsaid](https://open.spotify.com/album/0Nfqe5WLzyIhIULRpci5sP) | 2:17 | 2022-06-07 | 2024-02-06 |
+| [New Spring](https://open.spotify.com/track/5WPwpkbt3BypWfLQ33gHIS) | [Ana Grieg](https://open.spotify.com/artist/31I6JRMXs6v6lUnvUdbi5H) | [New Spring](https://open.spotify.com/album/6Pr066uYJSXjLGJKpyjjos) | 2:26 | 2025-04-09 |  |
 | [Nibiru](https://open.spotify.com/track/2H5saY4C7YqZiuKED6sAvA) | [Ulrich Volker](https://open.spotify.com/artist/2SCQRaipWsBYaFiNhkFDYY) | [Nibiru](https://open.spotify.com/album/0KTuufd6EhriIPzBnQ3gE7) | 2:39 | 2022-06-07 | 2022-09-24 |
 | [Night Solace](https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Night Solace](https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF) | 2:41 | 2022-06-07 | 2022-09-15 |
 | [Nocturne](https://open.spotify.com/track/6rotz7JFg3WMGt3fRBewPo) | [Emanuel Driesen](https://open.spotify.com/artist/1VknQzlayUN0eDkWEJCsBU) | [Nocturne](https://open.spotify.com/album/2tCWf4q7uiLupjpXgjPf4A) | 2:25 | 2022-06-07 | 2022-09-24 |
@@ -513,7 +514,7 @@
 | [Secret Meadow](https://open.spotify.com/track/0CtYYa8anV9WcP4R7WEP6c) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Secret Meadow](https://open.spotify.com/album/3vqbinG3yAqZhYdCuq9eKM) | 2:27 | 2024-05-29 |  |
 | [Seeds Of Life](https://open.spotify.com/track/5SGDHySVUTpk4fdjRvYGqB) | [Aestivum](https://open.spotify.com/artist/3QHuI31fQbzUBIVq3uxYF8) | [Seeds Of Life](https://open.spotify.com/album/0bT0nOgO2hMsa4smAlxdIu) | 2:07 | 2022-06-07 | 2024-12-12 |
 | [Sehnsucht](https://open.spotify.com/track/3EhtUTpX6miXbO7dzrQDgg) | [Claude Pascalli](https://open.spotify.com/artist/2sqhWN2ZRzjFdYJ6f60yZq) | [tea on a rainy day](https://open.spotify.com/album/5RWO4WBPYvUpFp4mAafWPs) | 2:17 | 2022-06-07 | 2022-09-24 |
-| [Seine](https://open.spotify.com/track/2y1o99gVURVZkmIyahWBb5) | [Rosa Leoni](https://open.spotify.com/artist/0TeuxsDOlSehaWDrCgGKNq) | [Moonray](https://open.spotify.com/album/4TsCwNDnZVczYuYG7nAyaC) | 3:18 | 2022-06-07 |  |
+| [Seine](https://open.spotify.com/track/2y1o99gVURVZkmIyahWBb5) | [Rosa Leoni](https://open.spotify.com/artist/0TeuxsDOlSehaWDrCgGKNq) | [Moonray](https://open.spotify.com/album/4TsCwNDnZVczYuYG7nAyaC) | 3:18 | 2022-06-07 | 2025-04-10 |
 | [Semele](https://open.spotify.com/track/7xDJKwrqDHATq89aKu8E2Q) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Cuaderna Vía](https://open.spotify.com/album/5xyUHwD6UW7hoeS0N1A29o) | 2:46 | 2022-09-14 | 2023-06-21 |
 | [Sempiternal](https://open.spotify.com/track/6aPNSFUv5X13wjZsjJAbYW) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [Sempiternal](https://open.spotify.com/album/4dnpugZmM76LxImCmWfmgM) | 2:08 | 2022-06-07 | 2022-09-15 |
 | [Senses](https://open.spotify.com/track/1S1TiBFDfxp0GUouI8mj0f) | [Viên Farhana](https://open.spotify.com/artist/2uey2tvCQM2A41vZq48pSq) | [Senses](https://open.spotify.com/album/07Psb60tZPs20pWuNsewS6) | 2:04 | 2022-12-22 | 2023-04-23 |

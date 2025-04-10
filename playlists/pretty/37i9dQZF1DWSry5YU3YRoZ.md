@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,085 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,089 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 41 | [Zero gravity](https://open.spotify.com/track/4MusxBtpbg66dyP4HPzvW5) | [Jo SoJeong](https://open.spotify.com/artist/132BPeZOhapfWxSIOR974P) | [Zero gravity](https://open.spotify.com/album/1O99A4FLtOXLNqsGiJ4rpW) | 3:44 |
 | 42 | [For my little one \(with Jeon sohyeon\)](https://open.spotify.com/track/6oDLxxBH9gOUiwQxoP0qlh) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jeon sohyeon](https://open.spotify.com/artist/7iLP6KAcEmHPCyxqyAD62E) | [For my little one](https://open.spotify.com/album/6JiBi7vAWxttrHkpb2FLBU) | 3:18 |
 | 43 | [Eternal Love](https://open.spotify.com/track/0hJFG25hI8EpNPHavVVlDZ) | [Kwon Byul](https://open.spotify.com/artist/7eyQCTwADNiqsq3QgAwJHe) | [Eternal Love](https://open.spotify.com/album/38qRFQwc5MIYG21UXr8OaO) | 2:29 |
-| 44 | [Long time](https://open.spotify.com/track/3T75cUsEXXcWzWFhcpBa4z) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Hope](https://open.spotify.com/album/1AhoIpVoJk7KX5f6hRI9Wv) | 3:20 |
-| 45 | [Scent Of Night](https://open.spotify.com/track/719AXwgUQbtIc3Dg1l4lg9) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [bright \#7](https://open.spotify.com/album/5sOHiVp8mCwlhs7VuaRsCG) | 4:43 |
+| 44 | [Scent Of Night](https://open.spotify.com/track/719AXwgUQbtIc3Dg1l4lg9) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [bright \#7](https://open.spotify.com/album/5sOHiVp8mCwlhs7VuaRsCG) | 4:43 |
+| 45 | [Long time](https://open.spotify.com/track/3T75cUsEXXcWzWFhcpBa4z) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Hope](https://open.spotify.com/album/1AhoIpVoJk7KX5f6hRI9Wv) | 3:20 |
 | 46 | [Like a tree](https://open.spotify.com/track/5TeloOVkGGz2LJ9l70i8Zx) | [YE ON](https://open.spotify.com/artist/0vbHZmdDC5FcQagW7WPBci) | [Like a tree](https://open.spotify.com/album/6Ofucyh6nAL0ZMEWQxzprW) | 4:55 |
 | 47 | [Long long night](https://open.spotify.com/track/2CWragjSVqmJ7niTo5oxSw) | [Richard Parkers](https://open.spotify.com/artist/3sw0rm6AMRKHAoFDjuYw5C) | [Long long night](https://open.spotify.com/album/1CB5sMyLxIe9T59tRIDfEy) | 2:46 |
 | 48 | [Sparkling Sunshine](https://open.spotify.com/track/6DHFVQmd2y2yQVfKGMo03g) | [YOONHAN](https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb) | [남해](https://open.spotify.com/album/4aKXwlN0w1K7Vr1TiPwN1G) | 4:07 |
-| 49 | [dawn](https://open.spotify.com/track/3fUFxDs2Edus1oe5HxaqOT) | [Swon](https://open.spotify.com/artist/2s1VMSW1ooLGKqO5eLAguQ) | [dawn](https://open.spotify.com/album/0x1GXi4uJ7fMPdCkKmPbCm) | 3:09 |
-| 50 | [Haze](https://open.spotify.com/track/1AIeM0tVZYsi9KCMjNECUx) | [kimpomme](https://open.spotify.com/artist/0jQQ9dAK1bMW7UW9zYdUc4) | [Haze](https://open.spotify.com/album/0bVrSEcNXWFIVtmy9qhZAm) | 3:57 |
+| 49 | [Haze](https://open.spotify.com/track/1AIeM0tVZYsi9KCMjNECUx) | [kimpomme](https://open.spotify.com/artist/0jQQ9dAK1bMW7UW9zYdUc4) | [Haze](https://open.spotify.com/album/0bVrSEcNXWFIVtmy9qhZAm) | 3:57 |
+| 50 | [dawn](https://open.spotify.com/track/3fUFxDs2Edus1oe5HxaqOT) | [Swon](https://open.spotify.com/artist/2s1VMSW1ooLGKqO5eLAguQ) | [dawn](https://open.spotify.com/album/0x1GXi4uJ7fMPdCkKmPbCm) | 3:09 |
 
 Snapshot ID: `Z/S+XQAAAACFe/CSiURteeS9tU+PCzWF`

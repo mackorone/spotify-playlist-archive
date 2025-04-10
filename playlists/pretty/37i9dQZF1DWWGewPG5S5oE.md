@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 小沢咲希
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,764 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,786 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 4 | [Zatto](https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X) | [Nariaki](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk) | [Zatto](https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig) | 6:07 |
 | 5 | [Darn That Stream](https://open.spotify.com/track/1KePdA771IrZuwbnVkMugX) | [井上銘](https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg), [David Bryant](https://open.spotify.com/artist/2jGd4zEZ9WqoOqhdDjT8PX), [Marty Holoubek](https://open.spotify.com/artist/5EUnnSIFldgDzlrPvvwTZF), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Tokyo Quartet](https://open.spotify.com/album/3LTdeLIwuoWVbxvJml5AG7) | 4:28 |
 | 6 | [FIRST NOTE](https://open.spotify.com/track/03IckTW2qNaWUvrOHtuYhL) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 7:45 |
-| 7 | [Silent Dancer](https://open.spotify.com/track/6QePiHLvjWrVITs8ddewDG) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [Silent Jazz Case 5](https://open.spotify.com/album/2nUT1RnTEraQLqvEXaaJzN) | 4:10 |
+| 7 | [Silent Dancer](https://open.spotify.com/track/6QePiHLvjWrVITs8ddewDG) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8), [SilentJazzCase](https://open.spotify.com/artist/5zcOZKWI96Wm7tAxpRIUq1) | [Silent Jazz Case 5](https://open.spotify.com/album/2nUT1RnTEraQLqvEXaaJzN) | 4:10 |
 | 8 | [Must Have Known](https://open.spotify.com/track/3TlVcT7gmTbwB3607URmTL) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [EVERYDAY](https://open.spotify.com/album/7MGQ30eNUS8DqLKQdH2zTi) | 3:43 |
 | 9 | [Vivid](https://open.spotify.com/track/5TFymZXyf1nub50VQ1Hdlr) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [Vivid](https://open.spotify.com/album/3etinD27F1y6Oxb0NLcqav) | 3:51 |
 | 10 | [The Toro](https://open.spotify.com/track/5N2KR3R4mvvAst6J71Hv8S) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [The Toro](https://open.spotify.com/album/77AWJqA0ENHe9WRW6g0tC5) | 6:43 |

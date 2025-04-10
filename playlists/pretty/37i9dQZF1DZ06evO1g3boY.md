@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 
 > This is Emicida\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,504 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,525 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 | 40 | [Oi Compadre \- Ao Vivo](https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ), [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Rock In Rio \(Ao Vivo\)](https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS) | 4:06 |
 | 41 | [Subirusdoistiozin \- Live](https://open.spotify.com/track/7bLMLwx6gJrCXoppD2YqOu) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Criolo E Emicida Ao Vivo \(Live\)](https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8) | 3:31 |
 | 42 | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX) | 2:56 |
-| 43 | [9nha / Eu Gosto Dela \- Ao Vivo](https://open.spotify.com/track/5OR3l3lAJBgkQb0viiYjKJ) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR) | [AmarElo \- Ao Vivo](https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw) | 5:05 |
+| 43 | [Quem Tem Um Amigo \(Tem Tudo\) / A Amizade \- Ao Vivo](https://open.spotify.com/track/4H4eSq6Z17gKau4TEUTO5q) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [AmarElo \- Ao Vivo](https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw) | 6:11 |
 | 44 | [Manifesto \(feat\. Lenine & Emicida\)](https://open.spotify.com/track/6wJqQmyHqINC6aRm6iYsku) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f), [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Eu Sou a Maré Viva](https://open.spotify.com/album/2RhCVgGIB5dd4k8z8rsdYe) | 4:34 |
 | 45 | [Identidade Preta](https://open.spotify.com/track/5D3rKwPcJ6ZbeNY2Ppi3S2) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Identidade Preta](https://open.spotify.com/album/5Wtbc24c9VciTVTlEwTKWT) | 3:15 |
 | 46 | [Melhor Remédio](https://open.spotify.com/track/5NtTHQEcdXhVZbevOxAh5a) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Quintal](https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW) | 3:00 |
-| 47 | [Quem Tem Um Amigo \(Tem Tudo\) / A Amizade \- Ao Vivo](https://open.spotify.com/track/4H4eSq6Z17gKau4TEUTO5q) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [AmarElo \- Ao Vivo](https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw) | 6:11 |
+| 47 | [9nha / Eu Gosto Dela \- Ao Vivo](https://open.spotify.com/track/5OR3l3lAJBgkQb0viiYjKJ) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR) | [AmarElo \- Ao Vivo](https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw) | 5:05 |
 | 48 | [São Pixinguinha \- A COLORS SHOW](https://open.spotify.com/track/3bw4LQ0BKYIsvvjJg9UCwy) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [São Pixinguinha \- A COLORS SHOW](https://open.spotify.com/album/1Mxg6MjeUTzYwjchfxAZzy) | 3:29 |
 | 49 | [NUNCA TENHA MEDO RMX \- Ao Vivo](https://open.spotify.com/track/3CSNLfuxKXmJDlw916US3j) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [BASEADO EM FATOS REAIS: 30 ANOS DE FUMAÇA \(Ao Vivo\)](https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew) | 4:06 |
 | 50 | [Só Isso](https://open.spotify.com/track/0zUF40Gv49uGEhQnf5vBRu) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Pra Quem Já Mordeu um Cachorro por Comida Até Que Eu Cheguei Longe](https://open.spotify.com/album/3ZA85zeudxFA1NGeb6avXS) | 3:51 |
 
-Snapshot ID: `Z/MVgAAAAAD7XofYtLlJo9s4zQ8dVaJ+`
+Snapshot ID: `Z/RnAAAAAAAs/d+n5VKbAoIIqHb2SLMU`

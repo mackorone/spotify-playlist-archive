@@ -4,7 +4,7 @@
 
 > 
 
-323 songs - 19 hr 4 min
+324 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Love Lies](https://open.spotify.com/track/45Egmo7icyopuzJN0oMEdk) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Love Lies](https://open.spotify.com/album/4CEAev7neETRdqBFtzA8B9) | 3:21 | 2023-07-13 |  |
 | [Love Me Again](https://open.spotify.com/track/7v6EVHw0iUL8ww77IaoLCZ) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Love Me Again](https://open.spotify.com/album/46ZM3XlLhd3rHbExzXRDbr) | 3:59 | 2022-10-03 |  |
 | [Love Story](https://open.spotify.com/track/6nGeLlakfzlBcFdZXteDq7) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Mini World](https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH) | 5:16 | 2025-03-24 |  |
+| [Lovers](https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:35 | 2025-04-09 |  |
 | [Lust](https://open.spotify.com/track/2aEJaP9Q3OAsVef5MLmCQU) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Top Rap Hits](https://open.spotify.com/album/0KgTIuz41r1RJWIj7ViWGp) | 2:36 | 2023-07-13 |  |
 | [Lust](https://open.spotify.com/track/7oJrVhiTPZGBXWPwhxjy9S) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Life of a Dark Rose](https://open.spotify.com/album/0CuYNS755Ow710G2E7aLDE) | 2:36 | 2023-07-13 |  |
 | [Man of my Word](https://open.spotify.com/track/4nNw167LUp6j2VvuJdbtv8) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 2:52 | 2023-07-13 |  |

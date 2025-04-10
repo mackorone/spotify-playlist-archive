@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Brown. The essential tracks, all in one playlist.",
-  "num_followers": 919323,
+  "num_followers": 919565,
   "original_name": "This Is Chris Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/MVgAAAAACG3COlfPPX8JQ9EI2UzeUr",
+  "snapshot_id": "Z/RnAAAAAAC6Xl+8L6XLoRLVep9e5hpO",
   "tracks": [
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Evening",
-        "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 211975,
-      "name": "Five More Hours",
-      "url": "https://open.spotify.com/track/3MOECVkNshqHYTPt5DZcdN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Call Me Crazy, But...",
         "url": "https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 281080,
       "name": "It Won't Stop (feat. Chris Brown) - EP Version",
       "url": "https://open.spotify.com/track/2xRYnHQdLD9ketvC01UYYT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Evening",
+        "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 211975,
+      "name": "Five More Hours",
+      "url": "https://open.spotify.com/track/3MOECVkNshqHYTPt5DZcdN"
     },
     {
       "added_at": null,
@@ -759,26 +759,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+        "name": "Exclusive (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
           "name": "Chris Brown",
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         }
       ],
-      "duration_ms": 232155,
-      "name": "Diana",
-      "url": "https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX"
+      "duration_ms": 245933,
+      "name": "Take You Down",
+      "url": "https://open.spotify.com/track/1vwUsp52io0AGQ5yv470IC"
     },
     {
       "added_at": null,
@@ -803,18 +795,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exclusive (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
       },
       "artists": [
         {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
           "name": "Chris Brown",
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         }
       ],
-      "duration_ms": 245933,
-      "name": "Take You Down",
-      "url": "https://open.spotify.com/track/1vwUsp52io0AGQ5yv470IC"
+      "duration_ms": 232155,
+      "name": "Diana",
+      "url": "https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX"
     },
     {
       "added_at": null,
@@ -947,6 +947,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Use Me",
+        "url": "https://open.spotify.com/album/43ZpO57bUaMIboKT00s0Fb"
+      },
+      "artists": [
+        {
+          "name": "Bow Wow",
+          "url": "https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 177535,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/284ZpnuroE0r9AvjFUm1LC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Back 2 Life",
         "url": "https://open.spotify.com/album/1fOIkbQO1zU1rO3GLIGJBH"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 253453,
       "name": "Beat It (feat. Chris Brown & Wiz Khalifa)",
       "url": "https://open.spotify.com/track/3bwCMbwDZVtvJDnUTQIdCX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Use Me",
-        "url": "https://open.spotify.com/album/43ZpO57bUaMIboKT00s0Fb"
-      },
-      "artists": [
-        {
-          "name": "Bow Wow",
-          "url": "https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 177535,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/284ZpnuroE0r9AvjFUm1LC"
     },
     {
       "added_at": null,

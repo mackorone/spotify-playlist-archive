@@ -4,7 +4,7 @@
 
 > This is Calibre 50\. The essential tracks, all in one playlist.
 
-81 songs - 4 hr 19 min
+82 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [El Viejo](https://open.spotify.com/track/5ak02CIeaWbhQr8M479AfN) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [La Recompensa](https://open.spotify.com/album/5YMCgTdT06cMlFlznzO2fo) | 3:50 | 2023-08-08 |  |
 | [Escuela Del Virus Antrax](https://open.spotify.com/track/4UUf48kLSSO3fLL0lYkfoe) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [De Sinaloa Para El Mundo](https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39) | 2:41 | 2023-08-08 |  |
 | [Frijoles Con Panela](https://open.spotify.com/track/1wxbTlwvzRp3thyCoexuUD) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 3:33 | 2023-08-08 |  |
-| [Ganó Holanda, Perdió China](https://open.spotify.com/track/4WmQUNTvYadj1SdxHYJtEZ) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T) | 2:59 | 2023-08-08 |  |
+| [Ganó Holanda, Perdió China](https://open.spotify.com/track/4a50ELsSeCF8HDDwSn51wK) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/18NZvh16Lj0HIhv0YgaSsZ) | 2:58 | 2025-04-10 |  |
+| [Ganó Holanda, Perdió China](https://open.spotify.com/track/4WmQUNTvYadj1SdxHYJtEZ) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T) | 2:59 | 2023-08-08 | 2025-04-10 |
 | [Gente Batallosa](https://open.spotify.com/track/71gk97Oadf8MPN9fCMP9cP) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [El Buen Ejemplo](https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3) | 2:28 | 2023-08-08 |  |
 | [Hablar De Ti](https://open.spotify.com/track/5Tepzmd5UKcLKQL2K1mLnO) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Tiempo Al Tiempo](https://open.spotify.com/album/2QnEyYe3GrDMi8gMTTn62U) | 3:32 | 2023-08-08 | 2023-12-14 |
 | [Javier El De Los Llanos](https://open.spotify.com/track/7kyK2NSDfRE1612vdYuqIx) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos De Alto Calibre](https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri) | 3:21 | 2023-08-08 |  |

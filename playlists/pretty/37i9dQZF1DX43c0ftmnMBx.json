@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Manuel Turizo",
-  "num_followers": 254445,
+  "num_followers": 254478,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
+        "name": "Lo Mejor De Lo Mejor",
+        "url": "https://open.spotify.com/album/6899xrJrb58bQ2NgyV9Tiq"
+      },
+      "artists": [
+        {
+          "name": "Kiko Rodriguez",
+          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
+        }
+      ],
+      "duration_ms": 269490,
+      "name": "Vagabundo, Borracho y Loco",
+      "url": "https://open.spotify.com/track/1O2fScskNkmR91eEXvrcrv"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
         "name": "Para Toda La Vida",
         "url": "https://open.spotify.com/album/6P0IgA0C3zPSB4h2puzZxS"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 344893,
       "name": "Me Voy De Ti",
       "url": "https://open.spotify.com/track/14GdMa2E0pU7TG0ShI69mO"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "Medicina de Amor",
-        "url": "https://open.spotify.com/album/2wLWr0dEKCauOLtmfJikCR"
-      },
-      "artists": [
-        {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
-        }
-      ],
-      "duration_ms": 365253,
-      "name": "Medicina de Amor",
-      "url": "https://open.spotify.com/track/2nTgr8A2F6dpxsuGsf6KSk"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Pa' Que Te Duela",
-        "url": "https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7"
+        "name": "Medicina de Amor",
+        "url": "https://open.spotify.com/album/2wLWr0dEKCauOLtmfJikCR"
       },
       "artists": [
         {
-          "name": "JFab & Paola Fabre",
-          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
         }
       ],
-      "duration_ms": 215874,
-      "name": "Perdoname",
-      "url": "https://open.spotify.com/track/2Zav4mkT3UcXlE69LFijHs"
+      "duration_ms": 365253,
+      "name": "Medicina de Amor",
+      "url": "https://open.spotify.com/track/2nTgr8A2F6dpxsuGsf6KSk"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1603,34 +1603,18 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Lo Mejor De Lo Mejor",
-        "url": "https://open.spotify.com/album/6899xrJrb58bQ2NgyV9Tiq"
+        "name": "Pa' Que Te Duela",
+        "url": "https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7"
       },
       "artists": [
         {
-          "name": "Kiko Rodriguez",
-          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
+          "name": "JFab & Paola Fabre",
+          "url": "https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds"
         }
       ],
-      "duration_ms": 269490,
-      "name": "Vagabundo, Borracho y Loco",
-      "url": "https://open.spotify.com/track/1O2fScskNkmR91eEXvrcrv"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "Escenas De Amor",
-        "url": "https://open.spotify.com/album/7BHBDN6dsMr4OwaMNhu1Mb"
-      },
-      "artists": [
-        {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
-        }
-      ],
-      "duration_ms": 283413,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/38cozIrW3CWUOmg2G5J6qa"
+      "duration_ms": 215874,
+      "name": "Perdoname",
+      "url": "https://open.spotify.com/track/2Zav4mkT3UcXlE69LFijHs"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1647,6 +1631,22 @@
       "duration_ms": 221480,
       "name": "El Profesor",
       "url": "https://open.spotify.com/track/0WQKhw1aMGfqdNbTj2RhZx"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Indetenibles",
+        "url": "https://open.spotify.com/album/3GZNzx7s4rnSySH0QEQsDL"
+      },
+      "artists": [
+        {
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+        }
+      ],
+      "duration_ms": 234573,
+      "name": "Si Estuvieras Aqu\u00ed",
+      "url": "https://open.spotify.com/track/3fp3F20HDFbnuCd24MfmTL"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Indetenibles",
-        "url": "https://open.spotify.com/album/3GZNzx7s4rnSySH0QEQsDL"
-      },
-      "artists": [
-        {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
-        }
-      ],
-      "duration_ms": 234573,
-      "name": "Si Estuvieras Aqu\u00ed",
-      "url": "https://open.spotify.com/track/3fp3F20HDFbnuCd24MfmTL"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Bachateando 2",
         "url": "https://open.spotify.com/album/3LHAUPocU5MvzVczvyhzEr"
       },
@@ -1699,6 +1683,38 @@
       "duration_ms": 250106,
       "name": "Estoy Perdido",
       "url": "https://open.spotify.com/track/2ZWOEMmcN5aerFmasiewTF"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Escenas De Amor",
+        "url": "https://open.spotify.com/album/7BHBDN6dsMr4OwaMNhu1Mb"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+        }
+      ],
+      "duration_ms": 283413,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/38cozIrW3CWUOmg2G5J6qa"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Los 12 Exitos De Kiko Rodriguez",
+        "url": "https://open.spotify.com/album/5MEzNKw4IyHA4zbXXh2Vgn"
+      },
+      "artists": [
+        {
+          "name": "Kiko Rodriguez",
+          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
+        }
+      ],
+      "duration_ms": 252557,
+      "name": "Hoy Te Vi Pasar",
+      "url": "https://open.spotify.com/track/0PG9RK1V62OsPRTmwKq566"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1731,22 +1747,6 @@
       "duration_ms": 220125,
       "name": "Traicionera",
       "url": "https://open.spotify.com/track/0Arc85ZKSl9kcQ6QIqfNj2"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "Bachatas Old School",
-        "url": "https://open.spotify.com/album/1qmShVX0OPl1DMCkqHoNbx"
-      },
-      "artists": [
-        {
-          "name": "Teodoro Reyes",
-          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
-        }
-      ],
-      "duration_ms": 242416,
-      "name": "Muchachita Loca",
-      "url": "https://open.spotify.com/track/57CWpsz0FVL59GbluT69Dm"
     }
   ],
   "unique_name": "Bachat\u00e9ame",

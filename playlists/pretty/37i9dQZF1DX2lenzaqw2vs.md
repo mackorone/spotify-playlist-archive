@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: Arca & Tokischa
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,055 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,070 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,10 +99,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 89 | [Tú](https://open.spotify.com/track/60GyTuWqPpeLqhVGaxIAAB) | [Mon & Marz](https://open.spotify.com/artist/1x5kgyBEiCGfzw1IYeI4cU), [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV) | [Tú](https://open.spotify.com/album/0xSXHBOzeTzGGUhE2TIpS9) | 3:04 |
 | 90 | [Canciones de Amor](https://open.spotify.com/track/1RjmeNxL0KNM0KTH8aySAO) | [Lesbiandrama](https://open.spotify.com/artist/0LZwj8XbxIwTjaDX478RXl), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Canciones de Amor](https://open.spotify.com/album/1xyRm4Ti9USkm9sVTwVfXU) | 3:14 |
 | 91 | [Besos](https://open.spotify.com/track/0WIOsnOOJlIDN095VDlSOk) | [Macha Kiddo](https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv) | [Lesbihonest](https://open.spotify.com/album/5C5rCLBjwHPNF112Xuea9t) | 3:27 |
-| 92 | [Vacation Bae](https://open.spotify.com/track/6IIc7LQm8bcshVRbZvMvJ5) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Radio Sunshine](https://open.spotify.com/album/6EqV9d8O0KlLBRGMLwHa23) | 2:34 |
-| 93 | [me gusta que me gustes](https://open.spotify.com/track/5gQvExQc6zyJnI11AoNJMM) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Así Me Siento Hoy](https://open.spotify.com/album/0kefZe88v1Muy6YFe0adCe) | 2:35 |
-| 94 | [Perdón](https://open.spotify.com/track/2Dt9XzdTyfHjQlz7aAraor) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Perdón](https://open.spotify.com/album/26H0Ji3Lr8GUXdUBfphCZu) | 3:42 |
-| 95 | [Don't Let Me Go](https://open.spotify.com/track/4bCZHjTRVlWOxoOIcz4sx4) | [Nikky Bourbon](https://open.spotify.com/artist/7akxqX9dq5DIqO0VwHo1jL), [Stylolive](https://open.spotify.com/artist/3EaujiKlOBEK1KK6fUa3rJ) | [Don't Let Me Go](https://open.spotify.com/album/2k3GiqtqWr8OG20dliRc8a) | 3:15 |
+| 92 | [me gusta que me gustes](https://open.spotify.com/track/5gQvExQc6zyJnI11AoNJMM) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Así Me Siento Hoy](https://open.spotify.com/album/0kefZe88v1Muy6YFe0adCe) | 2:35 |
+| 93 | [Vacation Bae](https://open.spotify.com/track/6IIc7LQm8bcshVRbZvMvJ5) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Radio Sunshine](https://open.spotify.com/album/6EqV9d8O0KlLBRGMLwHa23) | 2:34 |
+| 94 | [Don't Let Me Go](https://open.spotify.com/track/4bCZHjTRVlWOxoOIcz4sx4) | [Nikky Bourbon](https://open.spotify.com/artist/7akxqX9dq5DIqO0VwHo1jL), [Stylolive](https://open.spotify.com/artist/3EaujiKlOBEK1KK6fUa3rJ) | [Don't Let Me Go](https://open.spotify.com/album/2k3GiqtqWr8OG20dliRc8a) | 3:15 |
+| 95 | [Perdón](https://open.spotify.com/track/2Dt9XzdTyfHjQlz7aAraor) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Perdón](https://open.spotify.com/album/26H0Ji3Lr8GUXdUBfphCZu) | 3:42 |
 | 96 | [Nobody Got It](https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [Nobody Got It](https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue) | 2:48 |
 | 97 | [PXRNX](https://open.spotify.com/track/2d5TRfD5tIAs6R2gqN0g2X) | [Macha Kiddo](https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv) | [Mala Crianza](https://open.spotify.com/album/2szxWyRwu1MyzrRaJsDehS) | 2:24 |
 | 98 | [vivir en los dosmil](https://open.spotify.com/track/3WUlTT5mSRZNmPfbtkvwAS) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [vivir en los dosmil](https://open.spotify.com/album/0XXM9pJOGUKNJHwiLkExak) | 2:22 |

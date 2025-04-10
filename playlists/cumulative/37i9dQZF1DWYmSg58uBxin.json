@@ -445,6 +445,24 @@
     },
     {
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/5Q2CIcPYsX3hI0EpVMFXGb"
+      },
+      "artists": [
+        {
+          "name": "Pederosa Calafiori",
+          "url": "https://open.spotify.com/artist/7rSGVYwxF7D59f76uaLaFq"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/3F58fYdt8S9jHUUPnziTpC"
+    },
+    {
+      "album": {
         "name": "These Steady Hands",
         "url": "https://open.spotify.com/album/5JHD4Jdz7wj1AUxH5IxOPP"
       },
@@ -4456,7 +4474,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-10",
       "duration_ms": 138791,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/0fyCX5oyzf2Vx3tCgyWcQD"
