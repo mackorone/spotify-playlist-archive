@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Chile.",
-  "num_followers": 25680,
+  "num_followers": 25688,
   "original_name": "Top Songs - Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L4nioAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L4s0IAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2025-04-04 13:12:17",
@@ -326,6 +326,10 @@
         {
           "name": "Jere Klein",
           "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Swift 047",
+          "url": "https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb"
         }
       ],
       "duration_ms": 199697,

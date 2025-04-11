@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: ROA
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,508 likes - 125 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,639 likes - 125 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 83 | [PEPESOUP](https://open.spotify.com/track/40XkTQH8oa1w1oN3Fd2FFG) | [Yapi](https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn), [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [PEPESOUP](https://open.spotify.com/album/3Ou140lgFXmZ5MRAEMedgB) | 3:07 |
 | 84 | [Fancy](https://open.spotify.com/track/21p1eBu4YSjLpaq3HY3Kcv) | [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0) | [Fancy](https://open.spotify.com/album/56bx66S5IACSXarZGq1D2D) | 2:52 |
 | 85 | [CONTIGO](https://open.spotify.com/track/2KyhasVFLEL9987jjGrRGx) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [CONTIGO](https://open.spotify.com/album/2zifAxUjj1mUVdqsfxdqrv) | 3:14 |
-| 86 | [BELLAQUERA](https://open.spotify.com/track/4sS9v4Ov2ub7sIwxvtv0NC) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [FINALMENTE FELIZ](https://open.spotify.com/album/2op0KVtO5LVS6n01nqAqrV) | 3:19 |
+| 86 | [BELLAQUERA](https://open.spotify.com/track/4sS9v4Ov2ub7sIwxvtv0NC) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb) | [FINALMENTE FELIZ](https://open.spotify.com/album/2op0KVtO5LVS6n01nqAqrV) | 3:19 |
 | 87 | [shorty \(feat\. Gino Mella, King Savagge & Remers\)](https://open.spotify.com/track/2EuUGHZ1y79n8etZnEC6WG) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb) | [shorty \(feat\. Gino Mella, King Savagge & Remers\)](https://open.spotify.com/album/49X71H5E7la7TC6Xp1bKrN) | 6:29 |
 | 88 | [oxy](https://open.spotify.com/track/3CVeFiaVT1J8aSzjpFoeIj) | [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [oxy](https://open.spotify.com/album/0KkQnHvamwSpZK65JqSljZ) | 2:42 |
 | 89 | [R.P.M.](https://open.spotify.com/track/6W0cpyqrmnYWK1KWwZZmbd) | [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Nick Calleros](https://open.spotify.com/artist/5myjsXFVjB2bO2tnkculbD) | [R.P.M.](https://open.spotify.com/album/7lpNNW1OGUNNauhpMOfqIT) | 2:59 |

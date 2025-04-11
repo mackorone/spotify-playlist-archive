@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,031 likes - 100 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,097 likes - 100 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 46 | [Smatter](https://open.spotify.com/track/38ywfRlqUclNcqCjCUINJt) | [Kenny Wheeler](https://open.spotify.com/artist/2GIms8u3bruipn5MOR5wcs), [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Gnu High](https://open.spotify.com/album/3ZJDOnK3ypck3huOlnBYrn) | 5:58 |
 | 47 | [What Reason Could I Give](https://open.spotify.com/track/0JRq65dblAmI3REEchAfF8) | [Don Cherry](https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI), [Lennart Aberg](https://open.spotify.com/artist/3ZXO6RQeKC6PYzXqi7xe41), [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Anders Kjellberg](https://open.spotify.com/artist/0D3y6CpkVuUv11mosURP98), [Okay Temiz](https://open.spotify.com/artist/6yajM6C42NTolTtmV0q2cq) | [Dona Nostra](https://open.spotify.com/album/5ld8MkClrbCUoPIud5B80N) | 3:47 |
 | 48 | [Jazz Me Blues](https://open.spotify.com/track/2Slpoc7hyJngbrpX0wa3T5) | [Bix Beiderbecke](https://open.spotify.com/artist/3kfbYBrL3MCPAMUwKDRpc7), [Bix Beiderbecke Gang](https://open.spotify.com/artist/6c0g5bgaTZuztsFItdH0wi) | [Beiderbecke, Bix: Bix Lives! \(1926\-1930\)](https://open.spotify.com/album/5W97y6BVQ6m3xBrfuL7MUQ) | 3:07 |
-| 49 | [Smile \- Live](https://open.spotify.com/track/1Wj6woJQqEheCjZUWLBQU0) | [Enrico Rava](https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy), [The PM Jazz Lab](https://open.spotify.com/artist/20UxTDyauW76avunhJfElB) | [On The Dance Floor](https://open.spotify.com/album/6mAJVe56utc3J2yd0rTd9B) | 3:29 |
+| 49 | [I'll Close My Eyes](https://open.spotify.com/track/24RZ9XFnZ78RTtKld1s4Fq) | [Dizzy Reece](https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR) | [Star Bright](https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9) | 5:57 |
 | 50 | [High Towers](https://open.spotify.com/track/0LU5Zh4KkdZBv0H2ehLBPc) | [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [The Happy Horns Of Clark Terry](https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU) | 3:48 |
 | 51 | [These Foolish Things \(Remind Me Of You\)](https://open.spotify.com/track/7yLhkBswH1eRs3BWNF6gjZ) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [In Paris \- The complete 1955\-1956 Barclay sessions](https://open.spotify.com/album/3m8bBFXdYcflYWPZuHZpp9) | 4:44 |
-| 52 | [I'll Close My Eyes](https://open.spotify.com/track/24RZ9XFnZ78RTtKld1s4Fq) | [Dizzy Reece](https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR) | [Star Bright](https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9) | 5:57 |
+| 52 | [Smile \- Live](https://open.spotify.com/track/1Wj6woJQqEheCjZUWLBQU0) | [Enrico Rava](https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy), [The PM Jazz Lab](https://open.spotify.com/artist/20UxTDyauW76avunhJfElB) | [On The Dance Floor](https://open.spotify.com/album/6mAJVe56utc3J2yd0rTd9B) | 3:29 |
 | 53 | [Organ Grinder](https://open.spotify.com/track/5taZCF2wNGymtrOpx6VZsu) | [Woody Shaw](https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs) | [Woody III](https://open.spotify.com/album/24H0lq7ZAAcPcK5aYRpQq7) | 5:31 |
 | 54 | [All Or Nothing At All \- Remastered 2002/Rudy Van Gelder Edition](https://open.spotify.com/track/7AA3gxoDwLN8NuVfZ5NEt9) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Open Sesame \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v) | 5:36 |
 | 55 | [Groundswell](https://open.spotify.com/track/1zqxoyAbWNQB950eqGza6D) | [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7) | [Towards Language](https://open.spotify.com/album/7KasSjd80yub7wdciH7G52) | 5:36 |

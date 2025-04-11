@@ -1683,6 +1683,24 @@
     },
     {
       "album": {
+        "name": "MONTAGE",
+        "url": "https://open.spotify.com/album/3VEkzo2LI14ETYv0wM5192"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u5065\u4eba",
+          "url": "https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179266,
+      "name": "MONTAGE",
+      "url": "https://open.spotify.com/track/35lRjn0gdvNNYpPmEjVDSa"
+    },
+    {
+      "album": {
         "name": "Mobile Suit Gundam Hathaway Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/0jQX86ZLgJ6w1Ll2rM54N5"
       },

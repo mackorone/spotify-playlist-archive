@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles. Foto: Chlöe's Clue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,649 likes - 68 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,655 likes - 68 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf:  RICTA",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Fly Lo",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -180,7 +180,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 166530,
       "name": "4",
       "url": "https://open.spotify.com/track/1kcGMMknoRd2qg8OZLAeuN"
@@ -302,6 +302,24 @@
       "duration_ms": 149181,
       "name": "747",
       "url": "https://open.spotify.com/track/3z6pVCrBVu2ZeGHiSZ2oUi"
+    },
+    {
+      "album": {
+        "name": "900 HP",
+        "url": "https://open.spotify.com/album/3WZkzyUbrUBrXhNRDenwXA"
+      },
+      "artists": [
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166184,
+      "name": "900 HP",
+      "url": "https://open.spotify.com/track/0hPrlXWvNoepVF8eidONY5"
     },
     {
       "album": {
@@ -1132,7 +1150,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 140500,
       "name": "BOSS",
       "url": "https://open.spotify.com/track/5iaYHdHxU6BK4zJcdPwenZ"
@@ -1224,6 +1242,28 @@
       "duration_ms": 174793,
       "name": "BURJ KHALIFA",
       "url": "https://open.spotify.com/track/2uJbZCgR4slJJvfJgaW10A"
+    },
+    {
+      "album": {
+        "name": "BUSY",
+        "url": "https://open.spotify.com/album/4yRuE4CoGMP55QPMALlJkY"
+      },
+      "artists": [
+        {
+          "name": "XRS",
+          "url": "https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4"
+        },
+        {
+          "name": "Night Grind",
+          "url": "https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161363,
+      "name": "BUSY",
+      "url": "https://open.spotify.com/track/3j68FJWKuCIbj3K6ISuIEW"
     },
     {
       "album": {
@@ -3279,6 +3319,32 @@
     },
     {
       "album": {
+        "name": "ZIZEL",
+        "url": "https://open.spotify.com/album/3ZiPfcm1SdyAsuOqHkuM1j"
+      },
+      "artists": [
+        {
+          "name": "ZiZZi",
+          "url": "https://open.spotify.com/artist/4m8Ii85JYC5nIAD9RYE8iL"
+        },
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133894,
+      "name": "I GET MONEY",
+      "url": "https://open.spotify.com/track/0TWiy2EMCGnOJY7sHk3V6V"
+    },
+    {
+      "album": {
         "name": "I Texni Tou Dromou",
         "url": "https://open.spotify.com/album/3oevrX82QSDJbm71lzoh93"
       },
@@ -3346,7 +3412,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 168888,
       "name": "ILEGAL",
       "url": "https://open.spotify.com/track/6R2utRyFhiEBnyz6afQ9Pe"
@@ -3368,7 +3434,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 145882,
       "name": "International Gangster",
       "url": "https://open.spotify.com/track/1LR8qpSRD2ULUiPQuUgsdr"
@@ -4120,7 +4186,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 164285,
       "name": "LITEPO",
       "url": "https://open.spotify.com/track/1PEQCrOaOynttrUecgIADe"
@@ -4676,7 +4742,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 182376,
       "name": "Mesanyxta",
       "url": "https://open.spotify.com/track/7k1NpTv7vNWaZbIU3UxGol"
@@ -4867,6 +4933,36 @@
     },
     {
       "album": {
+        "name": "Mystika",
+        "url": "https://open.spotify.com/album/4dqURWZpBfTrG3ALTlZDxC"
+      },
+      "artists": [
+        {
+          "name": "Dimitris Koufoudakis",
+          "url": "https://open.spotify.com/artist/1Hj13p1TFwirPlIxOdEgZx"
+        },
+        {
+          "name": "Fer de Lance",
+          "url": "https://open.spotify.com/artist/5PYdmvWY1gtKiCvmJ4tgYW"
+        },
+        {
+          "name": "Exus186",
+          "url": "https://open.spotify.com/artist/3nvjSCVp4IrkqLU8xmJ1n4"
+        },
+        {
+          "name": "Kazal",
+          "url": "https://open.spotify.com/artist/1FhY0lBSZSzM8jcV0lqaLR"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159459,
+      "name": "Mystika",
+      "url": "https://open.spotify.com/track/3pWiP0toxFKeo4x9ylPPHv"
+    },
+    {
+      "album": {
         "name": "Na Vreksi - A COLORS SHOW",
         "url": "https://open.spotify.com/album/4DXZkuGHuAUpmnav9OQf4j"
       },
@@ -4904,6 +5000,28 @@
       "duration_ms": 198400,
       "name": "Napalm",
       "url": "https://open.spotify.com/track/33drGybPLf91WVPj6dj2yx"
+    },
+    {
+      "album": {
+        "name": "NASTY",
+        "url": "https://open.spotify.com/album/1CXW74sclob5CsWhEDdRgn"
+      },
+      "artists": [
+        {
+          "name": "Yanek",
+          "url": "https://open.spotify.com/artist/3qQbT0KRi9n6xs3dAd8hz5"
+        },
+        {
+          "name": "Block 93",
+          "url": "https://open.spotify.com/artist/6lLBwuarTgj4GxTykLYCLo"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197198,
+      "name": "NASTY",
+      "url": "https://open.spotify.com/track/5wSrpJ4RPRNj0xC0t7G52N"
     },
     {
       "album": {
@@ -5342,7 +5460,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 97111,
       "name": "Oreksi",
       "url": "https://open.spotify.com/track/1N6OaD49SBm410ruP87lhV"
@@ -5528,7 +5646,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 187433,
       "name": "Pasok",
       "url": "https://open.spotify.com/track/5WuzHndVMAOgcunToFjp4U"
@@ -6104,7 +6222,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 145912,
       "name": "RAGNAR",
       "url": "https://open.spotify.com/track/4AVSWiLrUGUO2Skcez7XeW"
@@ -6754,7 +6872,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 196180,
       "name": "SOUVLI",
       "url": "https://open.spotify.com/track/5wXdstPyYKSu3bjtOy0Sbz"

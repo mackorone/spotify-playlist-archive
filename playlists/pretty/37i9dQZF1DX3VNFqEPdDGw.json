@@ -1,6 +1,6 @@
 {
   "description": "Bhangra is our pride, Bhangra is our culture. Cover: Gurnam Bhullar &  Geet Goraya",
-  "num_followers": 212059,
+  "num_followers": 212102,
   "original_name": "Bhangra Bangers",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-04-08 09:03:44",
       "album": {
-        "name": "Hostel",
-        "url": "https://open.spotify.com/album/3zVzALNXgXOJ29argKYXEa"
-      },
-      "artists": [
-        {
-          "name": "Sharry Mann",
-          "url": "https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i"
-        }
-      ],
-      "duration_ms": 322954,
-      "name": "Hostel",
-      "url": "https://open.spotify.com/track/2xQYaf0wcBb8PQeY39uRBS"
-    },
-    {
-      "added_at": "2025-04-08 09:03:44",
-      "album": {
         "name": "Tu Te Sharab",
         "url": "https://open.spotify.com/album/0rNIfWLgk9zDDTny87rS48"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 195000,
       "name": "Tu Te Sharab",
       "url": "https://open.spotify.com/track/5aVuu233cUXaz2899s8fT9"
+    },
+    {
+      "added_at": "2025-04-08 09:03:44",
+      "album": {
+        "name": "Hostel",
+        "url": "https://open.spotify.com/album/3zVzALNXgXOJ29argKYXEa"
+      },
+      "artists": [
+        {
+          "name": "Sharry Mann",
+          "url": "https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i"
+        }
+      ],
+      "duration_ms": 322954,
+      "name": "Hostel",
+      "url": "https://open.spotify.com/track/2xQYaf0wcBb8PQeY39uRBS"
     },
     {
       "added_at": "2025-04-08 09:03:44",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-04-08 09:03:44",
       "album": {
+        "name": "Dil Mangeya",
+        "url": "https://open.spotify.com/album/28ywZDkr21jPzMhLKmtars"
+      },
+      "artists": [
+        {
+          "name": "Sajjan Adeeb",
+          "url": "https://open.spotify.com/artist/10cESI2qXWXWxfkeomFOON"
+        }
+      ],
+      "duration_ms": 159049,
+      "name": "Dil Mangeya",
+      "url": "https://open.spotify.com/track/14gr2kwucVsBHtLYhzgYpj"
+    },
+    {
+      "added_at": "2025-04-08 09:03:44",
+      "album": {
         "name": "Gallan Goll",
         "url": "https://open.spotify.com/album/1OLdB362nbcBHe9RtavVzE"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 166693,
       "name": "Gallan Goll",
       "url": "https://open.spotify.com/track/4SqpWYyMu6nM6Fr3RyJFbt"
-    },
-    {
-      "added_at": "2025-04-08 09:03:44",
-      "album": {
-        "name": "Dil Mangeya",
-        "url": "https://open.spotify.com/album/28ywZDkr21jPzMhLKmtars"
-      },
-      "artists": [
-        {
-          "name": "Sajjan Adeeb",
-          "url": "https://open.spotify.com/artist/10cESI2qXWXWxfkeomFOON"
-        }
-      ],
-      "duration_ms": 159049,
-      "name": "Dil Mangeya",
-      "url": "https://open.spotify.com/track/14gr2kwucVsBHtLYhzgYpj"
     },
     {
       "added_at": "2025-04-08 09:03:44",
@@ -1167,18 +1167,38 @@
     {
       "added_at": "2025-04-08 09:03:44",
       "album": {
-        "name": "Munda Sidhua Da",
-        "url": "https://open.spotify.com/album/4Q4oPqoWHnWuRPIqMb0ohS"
+        "name": "Mirza",
+        "url": "https://open.spotify.com/album/5HeBs2T5VVqgVEHa53oZ01"
       },
       "artists": [
         {
-          "name": "Gulab Sidhu",
-          "url": "https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW"
+          "name": "Pardeep Sran",
+          "url": "https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC"
+        },
+        {
+          "name": "Sargi Maan",
+          "url": "https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc"
         }
       ],
-      "duration_ms": 190243,
-      "name": "Jahangir Di Haveli",
-      "url": "https://open.spotify.com/track/4n6e7UDeilgfsskh2S3MgN"
+      "duration_ms": 158312,
+      "name": "Mirza",
+      "url": "https://open.spotify.com/track/1h0ts09H1zEQFccguhMYR2"
+    },
+    {
+      "added_at": "2025-04-08 09:03:44",
+      "album": {
+        "name": "Mitra Ne Dil Mangeya",
+        "url": "https://open.spotify.com/album/7DRxW3DYyxUzAeRX2D2Hg9"
+      },
+      "artists": [
+        {
+          "name": "Rajvir Jawanda",
+          "url": "https://open.spotify.com/artist/6TRcwPQiddMiQ6H22iwnoG"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Mitra Ne Dil Mangeya",
+      "url": "https://open.spotify.com/track/0wa9U4paFYblyxZZfjYpCk"
     },
     {
       "added_at": "2025-04-08 09:03:44",
@@ -1207,18 +1227,18 @@
     {
       "added_at": "2025-04-08 09:03:44",
       "album": {
-        "name": "Mitra Ne Dil Mangeya",
-        "url": "https://open.spotify.com/album/7DRxW3DYyxUzAeRX2D2Hg9"
+        "name": "Munda Sidhua Da",
+        "url": "https://open.spotify.com/album/4Q4oPqoWHnWuRPIqMb0ohS"
       },
       "artists": [
         {
-          "name": "Rajvir Jawanda",
-          "url": "https://open.spotify.com/artist/6TRcwPQiddMiQ6H22iwnoG"
+          "name": "Gulab Sidhu",
+          "url": "https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW"
         }
       ],
-      "duration_ms": 162857,
-      "name": "Mitra Ne Dil Mangeya",
-      "url": "https://open.spotify.com/track/0wa9U4paFYblyxZZfjYpCk"
+      "duration_ms": 190243,
+      "name": "Jahangir Di Haveli",
+      "url": "https://open.spotify.com/track/4n6e7UDeilgfsskh2S3MgN"
     },
     {
       "added_at": "2025-04-08 09:03:44",
@@ -1243,26 +1263,6 @@
       "duration_ms": 180415,
       "name": "Akhiyan Chaar",
       "url": "https://open.spotify.com/track/10pbzkxHhIiT033xFUYBCd"
-    },
-    {
-      "added_at": "2025-04-08 09:03:44",
-      "album": {
-        "name": "Mirza",
-        "url": "https://open.spotify.com/album/5HeBs2T5VVqgVEHa53oZ01"
-      },
-      "artists": [
-        {
-          "name": "Pardeep Sran",
-          "url": "https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC"
-        },
-        {
-          "name": "Sargi Maan",
-          "url": "https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc"
-        }
-      ],
-      "duration_ms": 158312,
-      "name": "Mirza",
-      "url": "https://open.spotify.com/track/1h0ts09H1zEQFccguhMYR2"
     },
     {
       "added_at": "2025-04-08 09:03:44",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-04-08 09:03:44",
       "album": {
-        "name": "Dabde Ni",
-        "url": "https://open.spotify.com/album/1236zEPDcZelmCVboTx4AO"
-      },
-      "artists": [
-        {
-          "name": "Ammy Virk",
-          "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
-        }
-      ],
-      "duration_ms": 207662,
-      "name": "Dabde Ni",
-      "url": "https://open.spotify.com/track/6Uiuq2p2SUXgoN8hrxvCHZ"
-    },
-    {
-      "added_at": "2025-04-08 09:03:44",
-      "album": {
         "name": "Gal Naal Laa",
         "url": "https://open.spotify.com/album/35A1NIK2cwHBS5FMT253MV"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 172142,
       "name": "Gal Naal Laa",
       "url": "https://open.spotify.com/track/3JaNmG23kZiW9MIj4Bpysa"
+    },
+    {
+      "added_at": "2025-04-08 09:03:44",
+      "album": {
+        "name": "Dabde Ni",
+        "url": "https://open.spotify.com/album/1236zEPDcZelmCVboTx4AO"
+      },
+      "artists": [
+        {
+          "name": "Ammy Virk",
+          "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
+        }
+      ],
+      "duration_ms": 207662,
+      "name": "Dabde Ni",
+      "url": "https://open.spotify.com/track/6Uiuq2p2SUXgoN8hrxvCHZ"
     },
     {
       "added_at": "2025-04-08 09:03:44",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-04-08 09:03:44",
       "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/3UeJQt0u783oAfrjMA0k0C"
-      },
-      "artists": [
-        {
-          "name": "Hunar Sidhu",
-          "url": "https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm"
-        }
-      ],
-      "duration_ms": 122790,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/59nlMDUwyzTE8RgctXbfxm"
-    },
-    {
-      "added_at": "2025-04-08 09:03:44",
-      "album": {
         "name": "Jinni Sohni",
         "url": "https://open.spotify.com/album/479vUalhSMTRxLnC32kjrz"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 207209,
       "name": "Jinni Sohni",
       "url": "https://open.spotify.com/track/5CPKjWskwfyV2sl59DoxzS"
+    },
+    {
+      "added_at": "2025-04-08 09:03:44",
+      "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3UeJQt0u783oAfrjMA0k0C"
+      },
+      "artists": [
+        {
+          "name": "Hunar Sidhu",
+          "url": "https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm"
+        }
+      ],
+      "duration_ms": 122790,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/59nlMDUwyzTE8RgctXbfxm"
     },
     {
       "added_at": "2025-04-08 09:03:44",
@@ -1775,26 +1775,26 @@
     {
       "added_at": "2025-04-08 09:03:44",
       "album": {
-        "name": "Baddlan De Kaalje (From \"Chal Mera Putt\" Soundtrack)",
-        "url": "https://open.spotify.com/album/0UUv0LvI9q5axEJXTMiNqO"
+        "name": "Time Chakkna (feat. Jas Grewal)",
+        "url": "https://open.spotify.com/album/3sTy5xdFZFQk61K1ZZtUBP"
       },
       "artists": [
         {
-          "name": "Amrinder Gill",
-          "url": "https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh"
+          "name": "Balkar Ankhila",
+          "url": "https://open.spotify.com/artist/73QlE5yHfDqfYGENOTY4be"
         },
         {
-          "name": "Nimrat Khaira",
-          "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
+          "name": "Manjinder Gulshan",
+          "url": "https://open.spotify.com/artist/6nSGdRvoskYIMt3o68BVrw"
         },
         {
-          "name": "Dr Zeus",
-          "url": "https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm"
+          "name": "Jas Grewal",
+          "url": "https://open.spotify.com/artist/41hJ0cxO37yAxrvBM3bSCP"
         }
       ],
-      "duration_ms": 198266,
-      "name": "Baddlan De Kaalje (From \"Chal Mera Putt\" Soundtrack)",
-      "url": "https://open.spotify.com/track/4zxFqGMNVDcU6wGSVnveDy"
+      "duration_ms": 267918,
+      "name": "Time Chakkna (feat. Jas Grewal)",
+      "url": "https://open.spotify.com/track/4GCkVArcjqqgg5agaWn4xQ"
     },
     {
       "added_at": "2025-04-08 09:03:44",
@@ -1819,26 +1819,26 @@
     {
       "added_at": "2025-04-08 09:03:44",
       "album": {
-        "name": "Time Chakkna (feat. Jas Grewal)",
-        "url": "https://open.spotify.com/album/3sTy5xdFZFQk61K1ZZtUBP"
+        "name": "Baddlan De Kaalje (From \"Chal Mera Putt\" Soundtrack)",
+        "url": "https://open.spotify.com/album/0UUv0LvI9q5axEJXTMiNqO"
       },
       "artists": [
         {
-          "name": "Balkar Ankhila",
-          "url": "https://open.spotify.com/artist/73QlE5yHfDqfYGENOTY4be"
+          "name": "Amrinder Gill",
+          "url": "https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh"
         },
         {
-          "name": "Manjinder Gulshan",
-          "url": "https://open.spotify.com/artist/6nSGdRvoskYIMt3o68BVrw"
+          "name": "Nimrat Khaira",
+          "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
         },
         {
-          "name": "Jas Grewal",
-          "url": "https://open.spotify.com/artist/41hJ0cxO37yAxrvBM3bSCP"
+          "name": "Dr Zeus",
+          "url": "https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm"
         }
       ],
-      "duration_ms": 267918,
-      "name": "Time Chakkna (feat. Jas Grewal)",
-      "url": "https://open.spotify.com/track/4GCkVArcjqqgg5agaWn4xQ"
+      "duration_ms": 198266,
+      "name": "Baddlan De Kaalje (From \"Chal Mera Putt\" Soundtrack)",
+      "url": "https://open.spotify.com/track/4zxFqGMNVDcU6wGSVnveDy"
     },
     {
       "added_at": "2025-04-08 09:03:44",
@@ -1867,26 +1867,6 @@
     {
       "added_at": "2025-04-08 09:03:44",
       "album": {
-        "name": "Competition (Feat. Mahi Sharma)",
-        "url": "https://open.spotify.com/album/2z00tboEOalBVgmaLmaWqH"
-      },
-      "artists": [
-        {
-          "name": "Virasat Sandhu",
-          "url": "https://open.spotify.com/artist/1gm0NXFSicD5imUY0PzcFA"
-        },
-        {
-          "name": "Gurlez Akhtar",
-          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
-        }
-      ],
-      "duration_ms": 148124,
-      "name": "Competition (Feat. Mahi Sharma)",
-      "url": "https://open.spotify.com/track/4kSgrNVoLjm5bXrnMAYTmX"
-    },
-    {
-      "added_at": "2025-04-08 09:03:44",
-      "album": {
         "name": "Poonian",
         "url": "https://open.spotify.com/album/7LwD8POLU1k6LyvBe6VGZM"
       },
@@ -1903,6 +1883,26 @@
       "duration_ms": 172500,
       "name": "Poonian",
       "url": "https://open.spotify.com/track/7HOB9THwRvVSozGYuycMSR"
+    },
+    {
+      "added_at": "2025-04-08 09:03:44",
+      "album": {
+        "name": "Competition (Feat. Mahi Sharma)",
+        "url": "https://open.spotify.com/album/2z00tboEOalBVgmaLmaWqH"
+      },
+      "artists": [
+        {
+          "name": "Virasat Sandhu",
+          "url": "https://open.spotify.com/artist/1gm0NXFSicD5imUY0PzcFA"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "duration_ms": 148124,
+      "name": "Competition (Feat. Mahi Sharma)",
+      "url": "https://open.spotify.com/track/4kSgrNVoLjm5bXrnMAYTmX"
     },
     {
       "added_at": "2025-04-08 09:03:44",
@@ -1947,6 +1947,50 @@
     {
       "added_at": "2025-04-08 09:03:44",
       "album": {
+        "name": "Leeran",
+        "url": "https://open.spotify.com/album/3NMsrH8WfExCju9HqkIsOE"
+      },
+      "artists": [
+        {
+          "name": "Balkar Ankhila",
+          "url": "https://open.spotify.com/artist/73QlE5yHfDqfYGENOTY4be"
+        },
+        {
+          "name": "Manjinder Gulshan",
+          "url": "https://open.spotify.com/artist/6nSGdRvoskYIMt3o68BVrw"
+        }
+      ],
+      "duration_ms": 141923,
+      "name": "Leeran",
+      "url": "https://open.spotify.com/track/14K9uoBKLESF07UYpLPiSN"
+    },
+    {
+      "added_at": "2025-04-08 09:03:44",
+      "album": {
+        "name": "Qatil Surma",
+        "url": "https://open.spotify.com/album/19Y4WSyFLpjmDPDXgQIRnV"
+      },
+      "artists": [
+        {
+          "name": "Himmat Sandhu",
+          "url": "https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC"
+        },
+        {
+          "name": "Mandeep Maavi",
+          "url": "https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "Qatil Surma",
+      "url": "https://open.spotify.com/track/4IGM0oeUfaSmJknMjwOWKe"
+    },
+    {
+      "added_at": "2025-04-08 09:03:44",
+      "album": {
         "name": "NO MORE SHADA",
         "url": "https://open.spotify.com/album/0Fnoxv0wKGgAIt9x5MuOjU"
       },
@@ -1963,50 +2007,6 @@
       "duration_ms": 216774,
       "name": "NO MORE SHADA",
       "url": "https://open.spotify.com/track/42JDl7zaIHMWqiyXvQqHDQ"
-    },
-    {
-      "added_at": "2025-04-08 09:03:44",
-      "album": {
-        "name": "Boli Tu Pawe",
-        "url": "https://open.spotify.com/album/6VtVp0mA1nLfNLc1zHiXgn"
-      },
-      "artists": [
-        {
-          "name": "Ekam Chanoli",
-          "url": "https://open.spotify.com/artist/2RR7qfIt6G3IOX0yp50aik"
-        },
-        {
-          "name": "Akash Jandu",
-          "url": "https://open.spotify.com/artist/2D6IROV04QKexvp3E12ZEA"
-        },
-        {
-          "name": "Kuldeep Rathorr",
-          "url": "https://open.spotify.com/artist/4YMWBFmvdTqsHKmAiStUTF"
-        }
-      ],
-      "duration_ms": 146570,
-      "name": "Boli Tu Pawe",
-      "url": "https://open.spotify.com/track/7BWs7IV2jytym8ziyxWEIR"
-    },
-    {
-      "added_at": "2025-04-08 09:03:44",
-      "album": {
-        "name": "Makhni Wargi",
-        "url": "https://open.spotify.com/album/16qN57oMFBly1c3hw7pGPn"
-      },
-      "artists": [
-        {
-          "name": "Masha Ali",
-          "url": "https://open.spotify.com/artist/3xPUYrDgDJb1lQ17YYwcfd"
-        },
-        {
-          "name": "Sudesh Kumari",
-          "url": "https://open.spotify.com/artist/6ISgfsT7lr3JXu6RfOj46X"
-        }
-      ],
-      "duration_ms": 252750,
-      "name": "Makhni Wargi",
-      "url": "https://open.spotify.com/track/3Xt0pDOVFTYOrNN2ozxfmp"
     }
   ],
   "unique_name": "Bhangra Bangers",

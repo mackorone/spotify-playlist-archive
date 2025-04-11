@@ -1,179 +1,35 @@
 {
-  "description": "Les hits zouk du moment. Photo : Kim",
-  "num_followers": 78319,
+  "description": "Les hits zouk du moment. Photo : Rachelle Allison",
+  "num_followers": 78348,
   "original_name": "Zouk Station",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+8FDQAAAAAjsql2VODVR9ClrdMleWL2",
+  "snapshot_id": "Z/g/ZwAAAADrb2GY8t9Bjl7NCCAjN7VW",
   "tracks": [
     {
-      "added_at": "2025-04-03 22:00:45",
+      "added_at": "2025-04-10 22:00:07",
       "album": {
-        "name": "Reine",
-        "url": "https://open.spotify.com/album/1EeNyCbW7tysQZiGzoc1h3"
+        "name": "T'es pas l\u00e0",
+        "url": "https://open.spotify.com/album/0bmL8KOxGr0aKzyQayrh9v"
       },
       "artists": [
         {
-          "name": "Kim",
-          "url": "https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW"
-        }
-      ],
-      "duration_ms": 153877,
-      "name": "Chouchou des nanas",
-      "url": "https://open.spotify.com/track/2Z08p878IwLZbXK8JVyt4L"
-    },
-    {
-      "added_at": "2025-04-03 22:00:45",
-      "album": {
-        "name": "Jusqu'au bout du monde",
-        "url": "https://open.spotify.com/album/3tsXYeNP7p45Nf9DCHWMLc"
-      },
-      "artists": [
-        {
-          "name": "MARVIN",
-          "url": "https://open.spotify.com/artist/2TltjHpjaHa8yep3KpIIWq"
+          "name": "Rachelle Allison",
+          "url": "https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52"
         },
         {
-          "name": "L\u00c9A CHURROS",
-          "url": "https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC"
+          "name": "R Dydy",
+          "url": "https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m"
         }
       ],
-      "duration_ms": 213274,
-      "name": "Jusqu'au bout du monde",
-      "url": "https://open.spotify.com/track/5OCjtxa5T8soJUDbWNpFQV"
+      "duration_ms": 191158,
+      "name": "T'es pas l\u00e0",
+      "url": "https://open.spotify.com/track/3LrnSH9UyQCck3N0zc4hw2"
     },
     {
-      "added_at": "2025-04-03 22:00:45",
-      "album": {
-        "name": "Des rires et des pleurs",
-        "url": "https://open.spotify.com/album/2TZ5OXKnN4Qdt7YpiFbluC"
-      },
-      "artists": [
-        {
-          "name": "SenSey'",
-          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
-        }
-      ],
-      "duration_ms": 228427,
-      "name": "Goumin",
-      "url": "https://open.spotify.com/track/6UMDlX8OqZYZduZrGLdcfi"
-    },
-    {
-      "added_at": "2025-04-03 22:00:45",
-      "album": {
-        "name": "\u00c0 genoux",
-        "url": "https://open.spotify.com/album/7JefwhJoDy84YkjD0n97K1"
-      },
-      "artists": [
-        {
-          "name": "Meryl",
-          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
-        },
-        {
-          "name": "Kalipsxau",
-          "url": "https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "\u00c0 genoux",
-      "url": "https://open.spotify.com/track/6IayRy7xW9P2PZAtJFFDf4"
-    },
-    {
-      "added_at": "2025-04-03 22:00:45",
-      "album": {
-        "name": "C'est fort",
-        "url": "https://open.spotify.com/album/0a0HukjpZhsYx9MWrBGdS3"
-      },
-      "artists": [
-        {
-          "name": "LOANA",
-          "url": "https://open.spotify.com/artist/7v79OklJLpETja35YteNgT"
-        },
-        {
-          "name": "Yoan",
-          "url": "https://open.spotify.com/artist/3zLakmncfxwiYZRHe0i5Ke"
-        }
-      ],
-      "duration_ms": 220464,
-      "name": "C'est fort",
-      "url": "https://open.spotify.com/track/6xmklOu9eEvuWac0sDLvn4"
-    },
-    {
-      "added_at": "2025-04-03 22:00:45",
-      "album": {
-        "name": "La la land (Part. 2)",
-        "url": "https://open.spotify.com/album/5soRGu5jsD1Zlj2dHgIoQ2"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Cuxi",
-          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
-        },
-        {
-          "name": "BGRZ",
-          "url": "https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz"
-        }
-      ],
-      "duration_ms": 238216,
-      "name": "La la land (Part. 2)",
-      "url": "https://open.spotify.com/track/1AN5RGfXPXqgZx7XFcNIZD"
-    },
-    {
-      "added_at": "2025-04-03 22:00:45",
-      "album": {
-        "name": "C'est toi",
-        "url": "https://open.spotify.com/album/4UxDJj1WG9I0gWYFi6Lgjt"
-      },
-      "artists": [
-        {
-          "name": "Kim",
-          "url": "https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW"
-        }
-      ],
-      "duration_ms": 186428,
-      "name": "C'est toi",
-      "url": "https://open.spotify.com/track/5nX34wrZT1NwgGxboF85Af"
-    },
-    {
-      "added_at": "2025-04-03 22:00:45",
-      "album": {
-        "name": "POV : Exil",
-        "url": "https://open.spotify.com/album/7vArvnSMCejBI686826Hom"
-      },
-      "artists": [
-        {
-          "name": "Senyss",
-          "url": "https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM"
-        },
-        {
-          "name": "lucas seb",
-          "url": "https://open.spotify.com/artist/16soxHmY8uUNGhiu1luYhl"
-        }
-      ],
-      "duration_ms": 180365,
-      "name": "Oublie-nous (feat. Lucas Seb)",
-      "url": "https://open.spotify.com/track/3mp6ZRbK9cvL6RyIUVicnp"
-    },
-    {
-      "added_at": "2025-04-03 22:00:45",
-      "album": {
-        "name": "POISON",
-        "url": "https://open.spotify.com/album/2tHdpuWyzPzGZuNxErPaPG"
-      },
-      "artists": [
-        {
-          "name": "Kalipsxau",
-          "url": "https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6"
-        }
-      ],
-      "duration_ms": 225391,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/56gnILTaV61USjCnM5XrsN"
-    },
-    {
-      "added_at": "2025-04-03 22:00:45",
+      "added_at": "2025-04-10 22:00:07",
       "album": {
         "name": "Si tu t'en vas",
         "url": "https://open.spotify.com/album/1sAElG5MK6ieLEHZbYqoET"
@@ -193,7 +49,171 @@
       "url": "https://open.spotify.com/track/26mX0WpDrqeTT1pjtxLnox"
     },
     {
-      "added_at": "2025-04-03 22:00:45",
+      "added_at": "2025-04-10 22:00:07",
+      "album": {
+        "name": "\u00c0 genoux",
+        "url": "https://open.spotify.com/album/7JefwhJoDy84YkjD0n97K1"
+      },
+      "artists": [
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        },
+        {
+          "name": "Kalipsxau",
+          "url": "https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "\u00c0 genoux",
+      "url": "https://open.spotify.com/track/6IayRy7xW9P2PZAtJFFDf4"
+    },
+    {
+      "added_at": "2025-04-10 22:00:07",
+      "album": {
+        "name": "Des rires et des pleurs",
+        "url": "https://open.spotify.com/album/2TZ5OXKnN4Qdt7YpiFbluC"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        }
+      ],
+      "duration_ms": 228427,
+      "name": "Goumin",
+      "url": "https://open.spotify.com/track/6UMDlX8OqZYZduZrGLdcfi"
+    },
+    {
+      "added_at": "2025-04-10 22:00:07",
+      "album": {
+        "name": "C'est fort",
+        "url": "https://open.spotify.com/album/0a0HukjpZhsYx9MWrBGdS3"
+      },
+      "artists": [
+        {
+          "name": "LOANA",
+          "url": "https://open.spotify.com/artist/7v79OklJLpETja35YteNgT"
+        },
+        {
+          "name": "Yoan",
+          "url": "https://open.spotify.com/artist/3zLakmncfxwiYZRHe0i5Ke"
+        }
+      ],
+      "duration_ms": 220464,
+      "name": "C'est fort",
+      "url": "https://open.spotify.com/track/6xmklOu9eEvuWac0sDLvn4"
+    },
+    {
+      "added_at": "2025-04-10 22:00:07",
+      "album": {
+        "name": "La la land (Part. 2)",
+        "url": "https://open.spotify.com/album/5soRGu5jsD1Zlj2dHgIoQ2"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+        },
+        {
+          "name": "BGRZ",
+          "url": "https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz"
+        }
+      ],
+      "duration_ms": 238216,
+      "name": "La la land (Part. 2)",
+      "url": "https://open.spotify.com/track/1AN5RGfXPXqgZx7XFcNIZD"
+    },
+    {
+      "added_at": "2025-04-10 22:00:07",
+      "album": {
+        "name": "Je me fais belle",
+        "url": "https://open.spotify.com/album/12YIWyWMXMO8R9jkrB48u4"
+      },
+      "artists": [
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+        }
+      ],
+      "duration_ms": 181511,
+      "name": "Je me fais belle",
+      "url": "https://open.spotify.com/track/45htjtRjNtyXpnPQAGXZmf"
+    },
+    {
+      "added_at": "2025-04-10 22:00:07",
+      "album": {
+        "name": "POV : Exil",
+        "url": "https://open.spotify.com/album/7vArvnSMCejBI686826Hom"
+      },
+      "artists": [
+        {
+          "name": "Senyss",
+          "url": "https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM"
+        },
+        {
+          "name": "lucas seb",
+          "url": "https://open.spotify.com/artist/16soxHmY8uUNGhiu1luYhl"
+        }
+      ],
+      "duration_ms": 180365,
+      "name": "Oublie-nous (feat. Lucas Seb)",
+      "url": "https://open.spotify.com/track/3mp6ZRbK9cvL6RyIUVicnp"
+    },
+    {
+      "added_at": "2025-04-10 22:00:07",
+      "album": {
+        "name": "Reine",
+        "url": "https://open.spotify.com/album/1EeNyCbW7tysQZiGzoc1h3"
+      },
+      "artists": [
+        {
+          "name": "Kim",
+          "url": "https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW"
+        }
+      ],
+      "duration_ms": 153877,
+      "name": "Chouchou des nanas",
+      "url": "https://open.spotify.com/track/2Z08p878IwLZbXK8JVyt4L"
+    },
+    {
+      "added_at": "2025-04-10 22:00:07",
+      "album": {
+        "name": "Jusqu'au bout du monde",
+        "url": "https://open.spotify.com/album/3tsXYeNP7p45Nf9DCHWMLc"
+      },
+      "artists": [
+        {
+          "name": "MARVIN",
+          "url": "https://open.spotify.com/artist/2TltjHpjaHa8yep3KpIIWq"
+        },
+        {
+          "name": "L\u00c9A CHURROS",
+          "url": "https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC"
+        }
+      ],
+      "duration_ms": 213274,
+      "name": "Jusqu'au bout du monde",
+      "url": "https://open.spotify.com/track/5OCjtxa5T8soJUDbWNpFQV"
+    },
+    {
+      "added_at": "2025-04-10 22:00:07",
+      "album": {
+        "name": "4 Kamp\u00e9",
+        "url": "https://open.spotify.com/album/7ns1gjXstFSrBTFe81id88"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "duration_ms": 214971,
+      "name": "4 Kamp\u00e9",
+      "url": "https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ"
+    },
+    {
+      "added_at": "2025-04-10 22:00:07",
       "album": {
         "name": "Ma woman",
         "url": "https://open.spotify.com/album/0zxfdqT2f5DqI3u35Ki3ed"
@@ -209,27 +229,23 @@
       "url": "https://open.spotify.com/track/5mxkWPEeK9xtESvK7dA8in"
     },
     {
-      "added_at": "2025-04-03 22:00:45",
+      "added_at": "2025-04-10 22:00:07",
       "album": {
-        "name": "Danje (Golden Guest Edit)",
-        "url": "https://open.spotify.com/album/3kq3m2zcWwSHNjPtbzKNQg"
+        "name": "POISON",
+        "url": "https://open.spotify.com/album/2tHdpuWyzPzGZuNxErPaPG"
       },
       "artists": [
         {
-          "name": "Lycina\u00efs Jean",
-          "url": "https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN"
-        },
-        {
-          "name": "Rutshelle Guillaume",
-          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
+          "name": "Kalipsxau",
+          "url": "https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Danje - Golden Guest Edit",
-      "url": "https://open.spotify.com/track/2IFtl8DdJ6oCW1oEF8umxh"
+      "duration_ms": 225391,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/56gnILTaV61USjCnM5XrsN"
     },
     {
-      "added_at": "2025-04-03 22:00:45",
+      "added_at": "2025-04-10 22:00:07",
       "album": {
         "name": "Faux pas",
         "url": "https://open.spotify.com/album/42PDxgmllrQrTUwwqBt5Up"
@@ -249,59 +265,27 @@
       "url": "https://open.spotify.com/track/0sbsEv0IqIps5PCRRG5Qul"
     },
     {
-      "added_at": "2025-04-03 22:00:45",
+      "added_at": "2025-04-10 22:00:07",
       "album": {
-        "name": "Flamme (feat. Emma'a)",
-        "url": "https://open.spotify.com/album/2zxS2zK7etdcSu9lT4Uhk3"
+        "name": "Mwen t\u00e9 l\u00e9 baw",
+        "url": "https://open.spotify.com/album/3gOUaiUeIwThEVheZOGgvz"
       },
       "artists": [
         {
-          "name": "Sla\u00ef",
-          "url": "https://open.spotify.com/artist/7y4UMLXo4Gz5NQbXE7v2Kt"
+          "name": "JmaX",
+          "url": "https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV"
         },
         {
-          "name": "Emma'a",
-          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+          "name": "DJ Vtrine",
+          "url": "https://open.spotify.com/artist/5icUzHElWE8qf9hxxU1nd2"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Flamme (feat. Emma'a)",
-      "url": "https://open.spotify.com/track/1riC5CcA9pgUXOuZZViBRp"
+      "duration_ms": 210999,
+      "name": "Mwen t\u00e9 l\u00e9 baw",
+      "url": "https://open.spotify.com/track/1GNSusNuJjSXcVW7wiJ5nU"
     },
     {
-      "added_at": "2025-04-03 22:00:45",
-      "album": {
-        "name": "Sp\u00e9ciale",
-        "url": "https://open.spotify.com/album/4sm8nPesabjg9KPhLzEGLH"
-      },
-      "artists": [
-        {
-          "name": "Bryans",
-          "url": "https://open.spotify.com/artist/3xNat4RfBlrmWTukCfPKtW"
-        }
-      ],
-      "duration_ms": 175124,
-      "name": "Sp\u00e9ciale",
-      "url": "https://open.spotify.com/track/18e6XXh8hUe5ioMOxOvzxJ"
-    },
-    {
-      "added_at": "2025-04-03 22:00:45",
-      "album": {
-        "name": "4 Kamp\u00e9",
-        "url": "https://open.spotify.com/album/7ns1gjXstFSrBTFe81id88"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
-        }
-      ],
-      "duration_ms": 214971,
-      "name": "4 Kamp\u00e9",
-      "url": "https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ"
-    },
-    {
-      "added_at": "2025-04-03 22:00:45",
+      "added_at": "2025-04-10 22:00:07",
       "album": {
         "name": "Hybride",
         "url": "https://open.spotify.com/album/0Y1jicwKfOIp4q88Y5n0YK"
@@ -321,27 +305,7 @@
       "url": "https://open.spotify.com/track/4dxfZwSiDftKzoqJv7F47Y"
     },
     {
-      "added_at": "2025-04-03 22:00:45",
-      "album": {
-        "name": "Souvenirs",
-        "url": "https://open.spotify.com/album/3G71vcAF2KHnkgsQ9Dii4q"
-      },
-      "artists": [
-        {
-          "name": "Stony",
-          "url": "https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk"
-        },
-        {
-          "name": "Kalipsxau",
-          "url": "https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6"
-        }
-      ],
-      "duration_ms": 211752,
-      "name": "Souvenirs",
-      "url": "https://open.spotify.com/track/0TOnPFmemQUysyQNhpkjeC"
-    },
-    {
-      "added_at": "2025-04-03 22:00:45",
+      "added_at": "2025-04-10 22:00:07",
       "album": {
         "name": "Oxygen",
         "url": "https://open.spotify.com/album/0uPj4sB73YCpyQTYPmf4cM"
@@ -361,23 +325,7 @@
       "url": "https://open.spotify.com/track/4yCX511KONRG0d4uxGCOjG"
     },
     {
-      "added_at": "2025-04-03 22:00:45",
-      "album": {
-        "name": "Mon R\u00eave",
-        "url": "https://open.spotify.com/album/0aAWgxB9EnN40ZjGprGnZC"
-      },
-      "artists": [
-        {
-          "name": "Alg\u00e9ric",
-          "url": "https://open.spotify.com/artist/6V788FEftK2VvhtleSaPwY"
-        }
-      ],
-      "duration_ms": 205633,
-      "name": "A mes c\u00f4t\u00e9s",
-      "url": "https://open.spotify.com/track/1CC4cbv9dHce9iAQp00egV"
-    },
-    {
-      "added_at": "2025-04-03 22:00:45",
+      "added_at": "2025-04-10 22:00:07",
       "album": {
         "name": "BLUE",
         "url": "https://open.spotify.com/album/2dCRQHfjbwOEfgCiuN7Z5J"
@@ -393,31 +341,95 @@
       "url": "https://open.spotify.com/track/0Jy2GTFnl7dtdC2viWzELO"
     },
     {
-      "added_at": "2025-04-03 22:00:45",
+      "added_at": "2025-04-10 22:00:07",
       "album": {
-        "name": "Moi qu'il faut",
-        "url": "https://open.spotify.com/album/2ZVM58LzB4oG8Y9A41JqHu"
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/3G71vcAF2KHnkgsQ9Dii4q"
       },
       "artists": [
         {
-          "name": "Lorenz",
-          "url": "https://open.spotify.com/artist/2EOc5l6ZIB5gygstmhE9eN"
+          "name": "Stony",
+          "url": "https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk"
         },
+        {
+          "name": "Kalipsxau",
+          "url": "https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6"
+        }
+      ],
+      "duration_ms": 211752,
+      "name": "Souvenirs",
+      "url": "https://open.spotify.com/track/0TOnPFmemQUysyQNhpkjeC"
+    },
+    {
+      "added_at": "2025-04-10 22:00:07",
+      "album": {
+        "name": "Sp\u00e9ciale",
+        "url": "https://open.spotify.com/album/4sm8nPesabjg9KPhLzEGLH"
+      },
+      "artists": [
+        {
+          "name": "Bryans",
+          "url": "https://open.spotify.com/artist/3xNat4RfBlrmWTukCfPKtW"
+        }
+      ],
+      "duration_ms": 175124,
+      "name": "Sp\u00e9ciale",
+      "url": "https://open.spotify.com/track/18e6XXh8hUe5ioMOxOvzxJ"
+    },
+    {
+      "added_at": "2025-04-10 22:00:07",
+      "album": {
+        "name": "Flamme (feat. Emma'a)",
+        "url": "https://open.spotify.com/album/2zxS2zK7etdcSu9lT4Uhk3"
+      },
+      "artists": [
+        {
+          "name": "Sla\u00ef",
+          "url": "https://open.spotify.com/artist/7y4UMLXo4Gz5NQbXE7v2Kt"
+        },
+        {
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Flamme (feat. Emma'a)",
+      "url": "https://open.spotify.com/track/1riC5CcA9pgUXOuZZViBRp"
+    },
+    {
+      "added_at": "2025-04-10 22:00:07",
+      "album": {
+        "name": "C'est toi",
+        "url": "https://open.spotify.com/album/4UxDJj1WG9I0gWYFi6Lgjt"
+      },
+      "artists": [
+        {
+          "name": "Kim",
+          "url": "https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW"
+        }
+      ],
+      "duration_ms": 186428,
+      "name": "C'est toi",
+      "url": "https://open.spotify.com/track/5nX34wrZT1NwgGxboF85Af"
+    },
+    {
+      "added_at": "2025-04-10 22:00:07",
+      "album": {
+        "name": "Oublie-moi",
+        "url": "https://open.spotify.com/album/6PQd9ezcg6TL043yrfiaec"
+      },
+      "artists": [
         {
           "name": "Senyss",
           "url": "https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM"
-        },
-        {
-          "name": "T-Gui",
-          "url": "https://open.spotify.com/artist/4qc6LLDZhaO2vOSJZ7Jrq5"
         }
       ],
-      "duration_ms": 182616,
-      "name": "Moi qu'il faut",
-      "url": "https://open.spotify.com/track/0QIEtVgrkPA4unGz3CofT9"
+      "duration_ms": 183750,
+      "name": "Oublie-moi",
+      "url": "https://open.spotify.com/track/6LNcBmuvRwxNYlc80Vc7eC"
     },
     {
-      "added_at": "2025-04-03 22:00:45",
+      "added_at": "2025-04-10 22:00:07",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/7fZfHGgmDkyMDOTYFS5lfz"
@@ -437,43 +449,43 @@
       "url": "https://open.spotify.com/track/6tcZNDUISmZgUG1nu843mc"
     },
     {
-      "added_at": "2025-04-03 22:00:45",
+      "added_at": "2025-04-10 22:00:07",
       "album": {
-        "name": "SIWO",
-        "url": "https://open.spotify.com/album/51Fo7seRLO7yYWQQ4EhlVr"
-      },
-      "artists": [
-        {
-          "name": "Kelly Krow",
-          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
-        }
-      ],
-      "duration_ms": 229491,
-      "name": "SIWO",
-      "url": "https://open.spotify.com/track/4vtE0Lwu1NQiYf5LCdp2SP"
-    },
-    {
-      "added_at": "2025-04-03 22:00:45",
-      "album": {
-        "name": "FAIT POUR TOI",
-        "url": "https://open.spotify.com/album/3l7QX5xnR5MGsQBfgYRb66"
+        "name": "IS THIS LOVE",
+        "url": "https://open.spotify.com/album/2dMPaQp3cHOS7tnhR1lHKX"
       },
       "artists": [
         {
           "name": "Barth",
           "url": "https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno"
-        },
-        {
-          "name": "Kalipsxau",
-          "url": "https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6"
         }
       ],
-      "duration_ms": 224869,
-      "name": "FAIT POUR TOI",
-      "url": "https://open.spotify.com/track/3pvkYXexYNruvIEFx6pK8w"
+      "duration_ms": 200347,
+      "name": "DOUBABY",
+      "url": "https://open.spotify.com/track/2rkpaD7yXJfPLnp8GOfBS9"
     },
     {
-      "added_at": "2025-04-03 22:00:45",
+      "added_at": "2025-04-10 22:00:07",
+      "album": {
+        "name": "DOUDOU",
+        "url": "https://open.spotify.com/album/7bu9eWX73PIJQdlR5Bwx2f"
+      },
+      "artists": [
+        {
+          "name": "Dyrone",
+          "url": "https://open.spotify.com/artist/01Og6jVacvaYfaVmCo6fzs"
+        },
+        {
+          "name": "Dj M'sy",
+          "url": "https://open.spotify.com/artist/0Xmy1akydp75Cv7zYLeB8c"
+        }
+      ],
+      "duration_ms": 178536,
+      "name": "DOUDOU",
+      "url": "https://open.spotify.com/track/4T15NZ0aIg1cShPwaY5Ld1"
+    },
+    {
+      "added_at": "2025-04-10 22:00:07",
       "album": {
         "name": "Belle vie",
         "url": "https://open.spotify.com/album/4JPoxkWhDRrfLZbUOE3Aez"
@@ -493,39 +505,43 @@
       "url": "https://open.spotify.com/track/1bol6WkjrtvcxPydk4tsGC"
     },
     {
-      "added_at": "2025-04-03 22:00:45",
+      "added_at": "2025-04-10 22:00:07",
       "album": {
-        "name": "Oublie-moi",
-        "url": "https://open.spotify.com/album/6PQd9ezcg6TL043yrfiaec"
+        "name": "Ma partition",
+        "url": "https://open.spotify.com/album/3w5UZizv5UTz34NJXGuJE7"
       },
       "artists": [
         {
-          "name": "Senyss",
-          "url": "https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM"
+          "name": "Fanny J",
+          "url": "https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw"
         }
       ],
-      "duration_ms": 183750,
-      "name": "Oublie-moi",
-      "url": "https://open.spotify.com/track/6LNcBmuvRwxNYlc80Vc7eC"
+      "duration_ms": 215774,
+      "name": "Ma partition",
+      "url": "https://open.spotify.com/track/4uokP7DOEf7LKERqIEsHat"
     },
     {
-      "added_at": "2025-04-03 22:00:45",
+      "added_at": "2025-04-10 22:00:07",
       "album": {
-        "name": "My Woman",
-        "url": "https://open.spotify.com/album/1MGhG2rqsurrOmbiSWYPhG"
+        "name": "Pas de Ralentir",
+        "url": "https://open.spotify.com/album/1UEYHUqi81046VKwNXVjAv"
       },
       "artists": [
         {
-          "name": "Goulam",
-          "url": "https://open.spotify.com/artist/3n13dmLc3HY0wL5zwfuOsC"
+          "name": "Angelcy",
+          "url": "https://open.spotify.com/artist/2BLqT1DuND6cAhJodiKmc2"
+        },
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
         }
       ],
-      "duration_ms": 214883,
-      "name": "My Woman",
-      "url": "https://open.spotify.com/track/3s28FCYSmmdJqpZyNinZWo"
+      "duration_ms": 154867,
+      "name": "Pas de Ralentir",
+      "url": "https://open.spotify.com/track/3s3LcEdYzo77TOqFOuvjVF"
     },
     {
-      "added_at": "2025-04-03 22:00:45",
+      "added_at": "2025-04-10 22:00:07",
       "album": {
         "name": "Al\u00e9 pa",
         "url": "https://open.spotify.com/album/567IStllgOTK3HfGniBTXn"
@@ -549,123 +565,7 @@
       "url": "https://open.spotify.com/track/6vUPLVSg1JqUYiHserSImx"
     },
     {
-      "added_at": "2025-04-03 22:00:45",
-      "album": {
-        "name": "Mots Magiques",
-        "url": "https://open.spotify.com/album/1rEstCKwGf24mxhrdTdCJz"
-      },
-      "artists": [
-        {
-          "name": "MVP",
-          "url": "https://open.spotify.com/artist/7x7WK8fEpPoOXn1rMWbcyl"
-        },
-        {
-          "name": "Dof'",
-          "url": "https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr"
-        },
-        {
-          "name": "Cadie Nelva",
-          "url": "https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG"
-        },
-        {
-          "name": "Dj Tyson",
-          "url": "https://open.spotify.com/artist/0CVXwhQTomrDLBClLOoqtv"
-        },
-        {
-          "name": "T-Gui",
-          "url": "https://open.spotify.com/artist/4qc6LLDZhaO2vOSJZ7Jrq5"
-        }
-      ],
-      "duration_ms": 204136,
-      "name": "Mots Magiques",
-      "url": "https://open.spotify.com/track/2icY9mNkAM76xnfDztUBM4"
-    },
-    {
-      "added_at": "2025-04-03 22:00:45",
-      "album": {
-        "name": "Si Tu Veux",
-        "url": "https://open.spotify.com/album/0ok2Xye0qGH2xEEiHK4Jgk"
-      },
-      "artists": [
-        {
-          "name": "Laconi",
-          "url": "https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67"
-        }
-      ],
-      "duration_ms": 185166,
-      "name": "Si Tu Veux",
-      "url": "https://open.spotify.com/track/7lA4SlMXFBT3OJVKrnNAvW"
-    },
-    {
-      "added_at": "2025-04-03 22:00:45",
-      "album": {
-        "name": "IS THIS LOVE",
-        "url": "https://open.spotify.com/album/2dMPaQp3cHOS7tnhR1lHKX"
-      },
-      "artists": [
-        {
-          "name": "Barth",
-          "url": "https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno"
-        }
-      ],
-      "duration_ms": 200347,
-      "name": "DOUBABY",
-      "url": "https://open.spotify.com/track/2rkpaD7yXJfPLnp8GOfBS9"
-    },
-    {
-      "added_at": "2025-04-03 22:00:45",
-      "album": {
-        "name": "Ma partition",
-        "url": "https://open.spotify.com/album/3w5UZizv5UTz34NJXGuJE7"
-      },
-      "artists": [
-        {
-          "name": "Fanny J",
-          "url": "https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw"
-        }
-      ],
-      "duration_ms": 215774,
-      "name": "Ma partition",
-      "url": "https://open.spotify.com/track/4uokP7DOEf7LKERqIEsHat"
-    },
-    {
-      "added_at": "2025-04-03 22:00:45",
-      "album": {
-        "name": "Sans Valentin",
-        "url": "https://open.spotify.com/album/34Et79mgtvXr0u0rAKGHK1"
-      },
-      "artists": [
-        {
-          "name": "Mallaury",
-          "url": "https://open.spotify.com/artist/0zfnSBlLA4HJshaxPu2zPV"
-        },
-        {
-          "name": "Kim",
-          "url": "https://open.spotify.com/artist/3L3EHaSYB4zzHYTid6hFYU"
-        }
-      ],
-      "duration_ms": 145185,
-      "name": "Tout droit (feat. Kim)",
-      "url": "https://open.spotify.com/track/1afmUJmZaipSAToAVbvDQo"
-    },
-    {
-      "added_at": "2025-04-03 22:00:45",
-      "album": {
-        "name": "Bloqu\u00e9",
-        "url": "https://open.spotify.com/album/0mCCSNFjdewZs2aYmY48CX"
-      },
-      "artists": [
-        {
-          "name": "Saina Manotte",
-          "url": "https://open.spotify.com/artist/0ftpDCmIMJEV7wODuCu6Cj"
-        }
-      ],
-      "duration_ms": 172891,
-      "name": "Bloqu\u00e9",
-      "url": "https://open.spotify.com/track/6QMzlVLJfuCcE8LvPEOpuL"
-    },
-    {
-      "added_at": "2025-04-03 22:00:45",
+      "added_at": "2025-04-10 22:00:07",
       "album": {
         "name": "LANMOU TOXIC",
         "url": "https://open.spotify.com/album/4fwY41o2uN6BKEIFwJe1i7"
@@ -685,27 +585,99 @@
       "url": "https://open.spotify.com/track/5eK8op8qRBS5unsE5O0IGI"
     },
     {
-      "added_at": "2025-04-03 22:00:45",
+      "added_at": "2025-04-10 22:00:07",
       "album": {
-        "name": "Pas de Ralentir",
-        "url": "https://open.spotify.com/album/1UEYHUqi81046VKwNXVjAv"
+        "name": "Danje (Golden Guest Edit)",
+        "url": "https://open.spotify.com/album/3kq3m2zcWwSHNjPtbzKNQg"
       },
       "artists": [
         {
-          "name": "Angelcy",
-          "url": "https://open.spotify.com/artist/2BLqT1DuND6cAhJodiKmc2"
+          "name": "Lycina\u00efs Jean",
+          "url": "https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN"
         },
         {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+          "name": "Rutshelle Guillaume",
+          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
         }
       ],
-      "duration_ms": 154867,
-      "name": "Pas de Ralentir",
-      "url": "https://open.spotify.com/track/3s3LcEdYzo77TOqFOuvjVF"
+      "duration_ms": 185000,
+      "name": "Danje - Golden Guest Edit",
+      "url": "https://open.spotify.com/track/2IFtl8DdJ6oCW1oEF8umxh"
     },
     {
-      "added_at": "2025-04-03 22:00:45",
+      "added_at": "2025-04-10 22:00:07",
+      "album": {
+        "name": "Mon R\u00eave",
+        "url": "https://open.spotify.com/album/0aAWgxB9EnN40ZjGprGnZC"
+      },
+      "artists": [
+        {
+          "name": "Alg\u00e9ric",
+          "url": "https://open.spotify.com/artist/6V788FEftK2VvhtleSaPwY"
+        }
+      ],
+      "duration_ms": 205633,
+      "name": "A mes c\u00f4t\u00e9s",
+      "url": "https://open.spotify.com/track/1CC4cbv9dHce9iAQp00egV"
+    },
+    {
+      "added_at": "2025-04-10 22:00:07",
+      "album": {
+        "name": "My Woman",
+        "url": "https://open.spotify.com/album/1MGhG2rqsurrOmbiSWYPhG"
+      },
+      "artists": [
+        {
+          "name": "Goulam",
+          "url": "https://open.spotify.com/artist/3n13dmLc3HY0wL5zwfuOsC"
+        }
+      ],
+      "duration_ms": 214883,
+      "name": "My Woman",
+      "url": "https://open.spotify.com/track/3s28FCYSmmdJqpZyNinZWo"
+    },
+    {
+      "added_at": "2025-04-10 22:00:07",
+      "album": {
+        "name": "Moi qu'il faut",
+        "url": "https://open.spotify.com/album/2ZVM58LzB4oG8Y9A41JqHu"
+      },
+      "artists": [
+        {
+          "name": "Lorenz",
+          "url": "https://open.spotify.com/artist/2EOc5l6ZIB5gygstmhE9eN"
+        },
+        {
+          "name": "Senyss",
+          "url": "https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM"
+        },
+        {
+          "name": "T-Gui",
+          "url": "https://open.spotify.com/artist/4qc6LLDZhaO2vOSJZ7Jrq5"
+        }
+      ],
+      "duration_ms": 182616,
+      "name": "Moi qu'il faut",
+      "url": "https://open.spotify.com/track/0QIEtVgrkPA4unGz3CofT9"
+    },
+    {
+      "added_at": "2025-04-10 22:00:07",
+      "album": {
+        "name": "Bloqu\u00e9",
+        "url": "https://open.spotify.com/album/0mCCSNFjdewZs2aYmY48CX"
+      },
+      "artists": [
+        {
+          "name": "Saina Manotte",
+          "url": "https://open.spotify.com/artist/0ftpDCmIMJEV7wODuCu6Cj"
+        }
+      ],
+      "duration_ms": 172891,
+      "name": "Bloqu\u00e9",
+      "url": "https://open.spotify.com/track/6QMzlVLJfuCcE8LvPEOpuL"
+    },
+    {
+      "added_at": "2025-04-10 22:00:07",
       "album": {
         "name": "\u00c7a va, \u00e7a vient",
         "url": "https://open.spotify.com/album/5lU2MAu1LUphevnG4NgtOZ"
@@ -725,23 +697,7 @@
       "url": "https://open.spotify.com/track/6yGVmoCCXeXcR1oHMKRYEe"
     },
     {
-      "added_at": "2025-04-03 22:00:45",
-      "album": {
-        "name": "Mots doux",
-        "url": "https://open.spotify.com/album/2yAMp0OdAq14VaRJJvdekR"
-      },
-      "artists": [
-        {
-          "name": "Elowdy.C",
-          "url": "https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt"
-        }
-      ],
-      "duration_ms": 251200,
-      "name": "Mots doux",
-      "url": "https://open.spotify.com/track/4WV86AElNZKnMig0JOxZ1o"
-    },
-    {
-      "added_at": "2025-04-03 22:00:45",
+      "added_at": "2025-04-10 22:00:07",
       "album": {
         "name": "R\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/2KfC8YMWmpfG5kiuN3YVdp"
@@ -763,6 +719,42 @@
       "duration_ms": 252117,
       "name": "R\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/0SHEQGXUj2WRJg7HJIiduJ"
+    },
+    {
+      "added_at": "2025-04-10 22:00:07",
+      "album": {
+        "name": "Sans Valentin",
+        "url": "https://open.spotify.com/album/34Et79mgtvXr0u0rAKGHK1"
+      },
+      "artists": [
+        {
+          "name": "Mallaury",
+          "url": "https://open.spotify.com/artist/0zfnSBlLA4HJshaxPu2zPV"
+        },
+        {
+          "name": "Kim",
+          "url": "https://open.spotify.com/artist/3L3EHaSYB4zzHYTid6hFYU"
+        }
+      ],
+      "duration_ms": 145185,
+      "name": "Tout droit (feat. Kim)",
+      "url": "https://open.spotify.com/track/1afmUJmZaipSAToAVbvDQo"
+    },
+    {
+      "added_at": "2025-04-10 22:00:07",
+      "album": {
+        "name": "Mots doux",
+        "url": "https://open.spotify.com/album/2yAMp0OdAq14VaRJJvdekR"
+      },
+      "artists": [
+        {
+          "name": "Elowdy.C",
+          "url": "https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt"
+        }
+      ],
+      "duration_ms": 251200,
+      "name": "Mots doux",
+      "url": "https://open.spotify.com/track/4WV86AElNZKnMig0JOxZ1o"
     }
   ],
   "unique_name": "Zouk Station",

@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo : Terrenoire",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo : Ben Mazu\u00e9",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
+    {
+      "album": {
+        "name": "30 ans",
+        "url": "https://open.spotify.com/album/5WmLXhrqUxqE66lP65lUgh"
+      },
+      "artists": [
+        {
+          "name": "SAVANAH",
+          "url": "https://open.spotify.com/artist/6aUqiHjCzli8kjq6vb2VdD"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243746,
+      "name": "30 ans",
+      "url": "https://open.spotify.com/track/3YuYQyd1oc8WEXYB0wfuv8"
+    },
     {
       "album": {
         "name": "Abracadabra",
@@ -118,6 +136,28 @@
       "duration_ms": 249467,
       "name": "Apr\u00e8s l'amour - Session Th\u00e9\u00e2tre de l'Atelier",
       "url": "https://open.spotify.com/track/2tCruedoOejBaJnsa4BLdP"
+    },
+    {
+      "album": {
+        "name": "Arr\u00eater le temps (feat. Sofiane Pamart)",
+        "url": "https://open.spotify.com/album/0JWZ6ljnQBw5l4GTAeoBq7"
+      },
+      "artists": [
+        {
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+        },
+        {
+          "name": "Sofiane Pamart",
+          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169893,
+      "name": "Arr\u00eater le temps (feat. Sofiane Pamart)",
+      "url": "https://open.spotify.com/track/33574meZfftZQlc8ZPBrtk"
     },
     {
       "album": {
@@ -912,7 +952,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 199666,
       "name": "J'veux tout savoir",
       "url": "https://open.spotify.com/track/1lzRKxLpVfYG1w8ZCKaabi"
@@ -1902,7 +1942,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 163440,
       "name": "Mon \u00e9paule",
       "url": "https://open.spotify.com/track/20uMoMNEt8BxWdOP7m19hj"
@@ -2050,7 +2090,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 164826,
       "name": "PARADIS",
       "url": "https://open.spotify.com/track/7MMVpcHGMfxsK4TUV0I0JL"
@@ -2147,6 +2187,24 @@
     },
     {
       "album": {
+        "name": "Plusieurs",
+        "url": "https://open.spotify.com/album/5R3ElE0JOCffSb7U8xM5Xz"
+      },
+      "artists": [
+        {
+          "name": "Vincent Delerm",
+          "url": "https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188253,
+      "name": "Plusieurs",
+      "url": "https://open.spotify.com/track/3iSW2g3seqcGRihjkwwh6l"
+    },
+    {
+      "album": {
         "name": "Pour te plaire",
         "url": "https://open.spotify.com/album/1GAS9ktxls3jYTnHWU31uq"
       },
@@ -2198,7 +2256,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 205493,
       "name": "Pri\u00e8re de n'pas d\u00e9ranger",
       "url": "https://open.spotify.com/track/21x29ojKg5qjtoCD1ZUO5y"
@@ -2722,6 +2780,24 @@
       "duration_ms": 215320,
       "name": "un chien sur le port",
       "url": "https://open.spotify.com/track/4dOmICDdEiOiqgiDhD1XrU"
+    },
+    {
+      "album": {
+        "name": "l'art de n'\u00eatre pas",
+        "url": "https://open.spotify.com/album/2OT9zY5adHDyXCBfY0XOjp"
+      },
+      "artists": [
+        {
+          "name": "jenna",
+          "url": "https://open.spotify.com/artist/50KuFTdbf6PbVjpvNuJALs"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166206,
+      "name": "un coeur jamais venu",
+      "url": "https://open.spotify.com/track/4eMiQDySyaA2VgVLKPvXkE"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-213 songs - 9 hr 28 min
+214 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [\(We're Gonna\) Rock Around The Clock](https://open.spotify.com/track/4MnHCHPnGoEZ383MK4uG5s) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Cruising Klassiker](https://open.spotify.com/album/53WS8rHtBrU1UI24xK9Uzp) | 2:11 | 2022-05-06 | 2022-07-29 |
 | [59 Ford](https://open.spotify.com/track/08m7pwirwY6h90JE8dZ3D3) | [The Firebirds](https://open.spotify.com/artist/0nhl9XQYR0RLk6PWCvGd75) | [Too Hot to Handle](https://open.spotify.com/album/0LUOLIMXEqzJ8Bt3ulTd6H) | 2:06 | 2022-05-06 |  |
 | [A\-V8 Boogie](https://open.spotify.com/track/40Cm3xxLnHUK8y2TVF4Jyp) | [Jack Baymoore & The Bandits](https://open.spotify.com/artist/0UR8v6ibhNS162hr1f7VVQ) | [Let's Drag](https://open.spotify.com/album/34SpKbAmjmBJzDejIcto0Q) | 2:24 | 2022-05-06 | 2022-07-29 |
-| [American Dream](https://open.spotify.com/track/5Hdw9VRMMXO6ZtUrQCt0BX) | [AT's Roots & Ramblin'](https://open.spotify.com/artist/3FnRBegmzhj8yb0emWQq6O) | [American Dream](https://open.spotify.com/album/4Nb3y9rqVzYXPZ6ufvUFT6) | 2:45 | 2025-01-30 |  |
+| [American Dream](https://open.spotify.com/track/5Hdw9VRMMXO6ZtUrQCt0BX) | [AT's Roots & Ramblin'](https://open.spotify.com/artist/3FnRBegmzhj8yb0emWQq6O) | [American Dream](https://open.spotify.com/album/4Nb3y9rqVzYXPZ6ufvUFT6) | 2:45 | 2025-01-30 | 2025-04-11 |
 | [American Music](https://open.spotify.com/track/0NsEEXFLXDNjpgBwRZ143g) | [The Blasters](https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5) | [The Blasters](https://open.spotify.com/album/4RifE9ClJmHaP0j0Qtux3B) | 2:07 | 2022-05-06 | 2024-10-09 |
 | [Another Sunday Morning](https://open.spotify.com/track/2apLwonKTtSflF9U5SNuD0) | [Black Raven](https://open.spotify.com/artist/7LkWVc8qgKldq6Ja5WI784) | [Rock In Threes!](https://open.spotify.com/album/3Oz8GlDjzuPH777lTIOhyD) | 2:40 | 2022-05-06 |  |
 | [At The Hop](https://open.spotify.com/track/6vkuJbGjyjnSQReeaCh8wT) | [Danny & The Juniors](https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY) | [Rock 'n' Roll](https://open.spotify.com/album/1xf6bK6YKmBPP6F4tn0UYm) | 2:29 | 2022-05-06 | 2022-07-29 |
@@ -54,7 +54,7 @@
 | [C’Mon Everybody](https://open.spotify.com/track/7Lfp7FsKI4buEJYbMlt7QU) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [The Best Of Eddie Cochran](https://open.spotify.com/album/1MOHwO7WJIg61Ksp4FfYz5) | 1:56 | 2022-05-06 |  |
 | [Daddy Cool / The Girl Can't Help It](https://open.spotify.com/track/10b9TrZBf0uP1EtAZHcKNh) | [Darts](https://open.spotify.com/artist/4PAOIh8yFHsrG0B0eDjOsY) | [Double Top \(Very Best Of\)](https://open.spotify.com/album/3xe1R7xAwmWqIfQqjbKhIa) | 2:29 | 2022-05-06 | 2023-09-03 |
 | [Daddy Cool / The Girl Can't Help It](https://open.spotify.com/track/46FMF2vltuLWObVF1Far4X) | [Darts](https://open.spotify.com/artist/4PAOIh8yFHsrG0B0eDjOsY) | [Darts](https://open.spotify.com/album/6OsoE0ylUquyxTOqqiZ8mt) | 2:29 | 2023-10-27 | 2024-04-19 |
-| [Debt With the Devil](https://open.spotify.com/track/1HJx9hfIu9Ud26NBpDmy9Q) | [Hillbilly Casino](https://open.spotify.com/artist/5j0P209RtE4MZDmD6QdZpO) | [Tennessee Stomp](https://open.spotify.com/album/0A0uohuhu45hTyqwlgg0Ni) | 2:13 | 2022-05-06 |  |
+| [Debt With the Devil](https://open.spotify.com/track/1HJx9hfIu9Ud26NBpDmy9Q) | [Hillbilly Casino](https://open.spotify.com/artist/5j0P209RtE4MZDmD6QdZpO) | [Tennessee Stomp](https://open.spotify.com/album/0A0uohuhu45hTyqwlgg0Ni) | 2:13 | 2022-05-06 | 2025-04-11 |
 | [Depression](https://open.spotify.com/track/28vMuX0gRJMeIhGaW0cQPn) | [The Hillbilly Moon Explosion](https://open.spotify.com/artist/2osRW41mzIig6TuqQeNsJR) | [With Monsters and Gods](https://open.spotify.com/album/5ejGluFtTbkWyVTRY7LU5z) | 2:08 | 2024-07-05 |  |
 | [Devil On My Shoulder](https://open.spotify.com/track/3UZo90wgkXdNPtSVIMYfdu) | [Kim Lenz & Her Jaguars](https://open.spotify.com/artist/2yG5isAT56JzRO1qpmmwnB) | [Kim Lenz And Her Jaguars](https://open.spotify.com/album/1S8GKcUi2QMBDN6AtSZLOL) | 2:37 | 2022-08-12 | 2022-10-15 |
 | [Do Me No Wrong](https://open.spotify.com/track/0fA5ZwzfOlH8RT3jjDwE8S) | [Pat Cupp](https://open.spotify.com/artist/5h9EJT0zbqyiqn81r1dZfZ) | [Rockabilly Greats](https://open.spotify.com/album/67IQZbSkHcrICs2CsSPOdU) | 2:24 | 2022-07-05 | 2025-03-13 |
@@ -171,7 +171,7 @@
 | [Rock'n'Roll](https://open.spotify.com/track/1aOsvbDBO3yzjQtnahkGG6) | [PatC Miller And The Tailshakers](https://open.spotify.com/artist/0xKxb8ktWxhoAiEGBNJ7CG) | [Come On Roll](https://open.spotify.com/album/4IbYvsIRqmfWO5XxMEkvlJ) | 2:51 | 2022-07-05 | 2022-07-10 |
 | [Rock\-a\-Cha](https://open.spotify.com/track/33G6G0xbQmKm9uQuBTW6sK) | [Jack Rabbit Slim](https://open.spotify.com/artist/3nDZWi1wEZpaiEEa9jFLwI) | [From the Waist Down](https://open.spotify.com/album/6PpVaRCUlMLnO5Evrp3rxj) | 2:01 | 2022-05-06 |  |
 | [Rockabilly Banjo](https://open.spotify.com/track/0WmZudZaLf7WYOMFD2GGZk) | [Brian Setzer](https://open.spotify.com/artist/4xiBg5AwhlWtuxAJO9rO6f) | [Gotta Have The Rumble](https://open.spotify.com/album/642jWZ7p8JKY7s5biYPK5o) | 3:13 | 2022-05-06 | 2022-07-28 |
-| [Rockabilly Blues \(Texas 1955\)](https://open.spotify.com/track/5rjJzse6JQDei4q2mOxrum) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Rockabilly Blues](https://open.spotify.com/album/37bIqXYLpE11IpMIBLPLD1) | 3:20 | 2022-05-06 | 2025-04-08 |
+| [Rockabilly Blues \(Texas 1955\)](https://open.spotify.com/track/5rjJzse6JQDei4q2mOxrum) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Rockabilly Blues](https://open.spotify.com/album/37bIqXYLpE11IpMIBLPLD1) | 3:20 | 2022-05-06 |  |
 | [Rockabilly Guy](https://open.spotify.com/track/3vrRAugNjfi7UkW4Ktxxyl) | [The Polecats](https://open.spotify.com/artist/0ySLj2XiEOFtixInK1GAD4) | [Rockabilly Cats](https://open.spotify.com/album/2FYlqHuVW1L4jnyU8eYJO2) | 2:32 | 2022-09-02 |  |
 | [Rockabilly Music](https://open.spotify.com/track/19BdP6aAgXHPLIciPpp2se) | [Ray Campi](https://open.spotify.com/artist/1dCuGaCG60TlWCLjFJ69N3) | [Hollywood Cats](https://open.spotify.com/album/4p0KnYi1AI7t7VnK3nPptK) | 1:56 | 2022-05-06 | 2022-07-25 |
 | [Rockabilly Music](https://open.spotify.com/track/4xYBy6RwEKICh1uOF4btL1) | [Ray Campi](https://open.spotify.com/artist/1dCuGaCG60TlWCLjFJ69N3) | [The Hollywood Cats](https://open.spotify.com/album/1VdfOWvihZbRkJGy34NXkk) | 1:56 | 2022-09-02 | 2022-11-13 |
@@ -194,6 +194,7 @@
 | [Tainted Love](https://open.spotify.com/track/0Y1BHJjQjDhTnKCAsUEmGJ) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Mayhem](https://open.spotify.com/album/3BNRNDUotlBZGQmurOu0lj) | 2:45 | 2022-05-06 | 2022-07-28 |
 | [Tainted Love](https://open.spotify.com/track/390RYJSKZVN9IHa9E9zB34) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [More Mayhem](https://open.spotify.com/album/7vL49AGpkONykl6dCDShAu) | 2:45 | 2023-10-27 | 2024-11-29 |
 | [Tainted Love](https://open.spotify.com/track/71iCLishjeRC9YLVf9BVIb) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Mayhem](https://open.spotify.com/album/6QLKR2LZaSZzZuZpiosZNR) | 2:45 | 2022-07-05 | 2023-11-19 |
+| [Teased UP!](https://open.spotify.com/track/70b1gvXV3nWne0s9tyWoSP) | [AT's Roots & Ramblin'](https://open.spotify.com/artist/3FnRBegmzhj8yb0emWQq6O) | [Teased UP!](https://open.spotify.com/album/2n5vYkijDHBRHnxgygqp7a) | 2:05 | 2025-04-10 |  |
 | [Teddy Boy Flick Knife Rock'n'Roll](https://open.spotify.com/track/0OYiNLG8jAVJdHzxzsmxL4) | [Esa Pulliainen](https://open.spotify.com/artist/7dZrUotZctNzR1NFr5uKra), [Mr\. Breathless](https://open.spotify.com/artist/0mVqMVcS4fE4Rc2zJ6vrBo) | [Happy Rokkenrol! Vol\. 2](https://open.spotify.com/album/1I51JBGJpNGGEqCEPNGjnr) | 2:21 | 2023-06-02 | 2024-07-31 |
 | [Tempo Tantrum](https://open.spotify.com/track/6iEk06fyAxeR7YKu2D2AV2) | [Hillbilly Frankenstein](https://open.spotify.com/artist/3yVkfbmGfkQDMRbktbZn74) | [American Rumble, Vol\. 1](https://open.spotify.com/album/4l2lMwNC31nbwR1PRTuhrW) | 3:27 | 2022-05-06 | 2022-11-13 |
 | [That'll Be The Day](https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:30 | 2022-07-05 | 2024-04-19 |

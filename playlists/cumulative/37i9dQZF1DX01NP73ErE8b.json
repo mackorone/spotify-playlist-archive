@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani che abbiamo on repeat \ud83d\udd01 Elodie in cover",
+  "description": "I brani italiani che abbiamo on repeat \ud83d\udd01 PTN e Max Pezzali in cover",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -327,6 +327,28 @@
     },
     {
       "album": {
+        "name": "radio vega",
+        "url": "https://open.spotify.com/album/2ykfPpPezkSUfCnZjSQ6CQ"
+      },
+      "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188041,
+      "name": "ancora (feat. Geolier)",
+      "url": "https://open.spotify.com/track/7dOicN7jFw9HSdorxASiPu"
+    },
+    {
+      "album": {
         "name": "ANEMA E CORE",
         "url": "https://open.spotify.com/album/2t1lwzO3j3iRxYrIdNQJLi"
       },
@@ -514,7 +536,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 176571,
       "name": "BELLA STRONZA",
       "url": "https://open.spotify.com/track/2qgKFtVm0Ls6WC72sm9ELe"
@@ -579,6 +601,28 @@
     },
     {
       "album": {
+        "name": "Bottiglie Vuote (feat. Max Pezzali)",
+        "url": "https://open.spotify.com/album/2xS7zxsklN6TULjQWfnDUc"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        },
+        {
+          "name": "Max Pezzali",
+          "url": "https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194516,
+      "name": "Bottiglie Vuote (feat. Max Pezzali)",
+      "url": "https://open.spotify.com/track/6nQFX6iV1hy2gZDroZbFTF"
+    },
+    {
+      "album": {
         "name": "Brooklyn",
         "url": "https://open.spotify.com/album/7hDr4TuhR0b4jBF9fEuzcd"
       },
@@ -630,6 +674,24 @@
       "duration_ms": 191907,
       "name": "CAMMINARE SULLA LUNA",
       "url": "https://open.spotify.com/track/4Jb9NiMfsPe7NYFDoxng1f"
+    },
+    {
+      "album": {
+        "name": "CANI RANDAGI",
+        "url": "https://open.spotify.com/album/6nbm2pPp2oO6G5TB8rGewU"
+      },
+      "artists": [
+        {
+          "name": "Il Tre",
+          "url": "https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174666,
+      "name": "CANI RANDAGI",
+      "url": "https://open.spotify.com/track/2m3Xb1dRie5ub8L2x1A6BL"
     },
     {
       "album": {
@@ -760,6 +822,24 @@
       "duration_ms": 150000,
       "name": "Clamo",
       "url": "https://open.spotify.com/track/4hjPMRNdO051CH4vbvm2Ty"
+    },
+    {
+      "album": {
+        "name": "post mortem",
+        "url": "https://open.spotify.com/album/0l8cw32SMyAlYyCheOoL9p"
+      },
+      "artists": [
+        {
+          "name": "i cani",
+          "url": "https://open.spotify.com/artist/1WQY0Xovzegy0pJiOuuyRP"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189177,
+      "name": "colpo di tosse",
+      "url": "https://open.spotify.com/track/2npEqmXQJIjNXi1OvpJaFJ"
     },
     {
       "album": {
@@ -1180,7 +1260,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 194085,
       "name": "Eco",
       "url": "https://open.spotify.com/track/3ycj36w66i2rIGJli4Ruhi"
@@ -1252,7 +1332,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 192304,
       "name": "FEBBRE",
       "url": "https://open.spotify.com/track/2no1HLYjXuCpr4Gf4XVhXg"
@@ -1604,7 +1684,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 205649,
       "name": "Grazie ma no grazie",
       "url": "https://open.spotify.com/track/4Ac0hRIX2ygtdag4E9mXh0"
@@ -2662,7 +2742,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 149386,
       "name": "millionaire",
       "url": "https://open.spotify.com/track/0CzO56ZwtIHnZyIiX3EzJ0"
@@ -2944,7 +3024,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 174673,
       "name": "Non Lo So (feat. chiello)",
       "url": "https://open.spotify.com/track/5mOazYGaNJnv1zxMyNH6Rc"
@@ -2966,6 +3046,28 @@
       "duration_ms": 220937,
       "name": "Non \u00e8 vero che sto bene",
       "url": "https://open.spotify.com/track/3Sr7d5L9UGjRMzgkYSEYG8"
+    },
+    {
+      "album": {
+        "name": "Nonostante Tutto (feat. Elisa)",
+        "url": "https://open.spotify.com/album/5zV0OvnUYxNBAG5YmSozFf"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        },
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267313,
+      "name": "Nonostante Tutto (feat. Elisa)",
+      "url": "https://open.spotify.com/track/4Q7d5kMY5ctGgHp8diJ9Rw"
     },
     {
       "album": {
@@ -3821,6 +3923,28 @@
     },
     {
       "album": {
+        "name": "SEXY RAVE (feat. Baby Gang)",
+        "url": "https://open.spotify.com/album/0Rqdxqcqq0wKQISWQwGLT1"
+      },
+      "artists": [
+        {
+          "name": "Fred De Palma",
+          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140160,
+      "name": "SEXY RAVE (feat. Baby Gang)",
+      "url": "https://open.spotify.com/track/7ue5uvozLbamg0rjS65FeT"
+    },
+    {
+      "album": {
         "name": "SEXY SHOP",
         "url": "https://open.spotify.com/album/3Lf8T7QRFq98I0OELNBh4y"
       },
@@ -4010,6 +4134,28 @@
       "duration_ms": 175153,
       "name": "STORIE BREVI",
       "url": "https://open.spotify.com/track/5GZupy8zByqFmXvpwZ4JOC"
+    },
+    {
+      "album": {
+        "name": "Scarabocchi",
+        "url": "https://open.spotify.com/album/4mVj0l7BupieXgxrXzTJ72"
+      },
+      "artists": [
+        {
+          "name": "chiello",
+          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
+        },
+        {
+          "name": "Achille Lauro",
+          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165573,
+      "name": "Succo d'ananas",
+      "url": "https://open.spotify.com/track/0jo0BEkNflmZBNyHZ4J5tV"
     },
     {
       "album": {
@@ -4394,7 +4540,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 165458,
       "name": "Una scatola di mogano - MERCURIO",
       "url": "https://open.spotify.com/track/2IpeIL6i4jn0tNa0239bOG"
@@ -4592,7 +4738,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 155624,
       "name": "vuoi soltanto una hit",
       "url": "https://open.spotify.com/track/5t7ROluhKkpDnZyz4m2b7x"

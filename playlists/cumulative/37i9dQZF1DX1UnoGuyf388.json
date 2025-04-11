@@ -1929,6 +1929,24 @@
     },
     {
       "album": {
+        "name": "don't blow the candles out",
+        "url": "https://open.spotify.com/album/0N6eI2jcaJSrX1K50gR05j"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dion",
+          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "don't blow the candles out",
+      "url": "https://open.spotify.com/track/5F8TjzFBjOK6zCwZZY44b8"
+    },
+    {
+      "album": {
         "name": "Don't Call Me",
         "url": "https://open.spotify.com/album/27RLYalOrcL90bq5Y13mZ1"
       },

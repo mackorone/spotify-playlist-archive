@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: thaïs
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,287 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,285 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,14 +32,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 22 | [Cette guerre](https://open.spotify.com/track/2F7F4ZWiPnJ8ZUK2Gc96dQ) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Famille](https://open.spotify.com/album/42BQRI096xf6TUvY4UOuEV) | 3:17 |
 | 23 | [Gentil Garçon](https://open.spotify.com/track/7DM7DHed6lj67JC08Gg5xp) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Gentil Garçon](https://open.spotify.com/album/4ivStYmGyNsbAC8ysETIwN) | 3:24 |
 | 24 | [Try Try Try \- A COLORS SHOW](https://open.spotify.com/track/0frABA1e4eX0HKmEFxtkEC) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Try Try Try \- A COLORS SHOW](https://open.spotify.com/album/5h0jmRk4qlXohRlFiFXjxO) | 2:58 |
-| 25 | [PERFORMANTE](https://open.spotify.com/track/5lEB4KHh3oE03q060h0mTr) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [KINTSUGI](https://open.spotify.com/album/4zwwg5cY6PIC7K3SvBaExf) | 3:26 |
-| 26 | [Comme toi](https://open.spotify.com/track/1SVLDzLK37a1LbBcr4Y0eL) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [RIPRO](https://open.spotify.com/album/5gNNmdAr9tFbtocOuLe388) | 3:37 |
-| 27 | [RODEO DRIVE \(feat\. Hamza\)](https://open.spotify.com/track/5kPZqzylClNZIGdAO2OG9J) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [LIFE](https://open.spotify.com/album/6lR8cZ6omC8EJ0tzt7lNZh) | 2:25 |
-| 28 | [Tise & Ken](https://open.spotify.com/track/254mSu5mvfeomdx79F1rdB) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [En Attendant Paphos](https://open.spotify.com/album/04shx6Zxkh6JEoln4IX1Me) | 3:08 |
-| 29 | [Qué Miras Bobo](https://open.spotify.com/track/69V8EffxZePjssPL4h7x87) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Qué Miras Bobo](https://open.spotify.com/album/5StZFX7RwMBri67KR13OF6) | 2:30 |
-| 30 | [Désolée](https://open.spotify.com/track/0AzaMqhl2gXLoYJZ8CePen) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Désolée](https://open.spotify.com/album/4Ped3CYGFTg0i1JbC557Xn) | 2:44 |
-| 31 | [WIN WIN](https://open.spotify.com/track/3OjzBXbO7TGzYPTrO40Avo) | [Davy One](https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz) | [WIN WIN](https://open.spotify.com/album/2Afunln1aFmy1ZKwQ1buyE) | 1:52 |
-| 32 | [Melrose Place](https://open.spotify.com/track/3SBBYSbzkLvx96bKzneYsF) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Focus Mentalité](https://open.spotify.com/album/0oKmtG3WXIGBMeuumkTMkA) | 2:36 |
+| 25 | [Comme toi](https://open.spotify.com/track/1SVLDzLK37a1LbBcr4Y0eL) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [RIPRO](https://open.spotify.com/album/5gNNmdAr9tFbtocOuLe388) | 3:37 |
+| 26 | [Melrose Place](https://open.spotify.com/track/3SBBYSbzkLvx96bKzneYsF) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Focus Mentalité](https://open.spotify.com/album/0oKmtG3WXIGBMeuumkTMkA) | 2:36 |
+| 27 | [Tise & Ken](https://open.spotify.com/track/254mSu5mvfeomdx79F1rdB) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [En Attendant Paphos](https://open.spotify.com/album/04shx6Zxkh6JEoln4IX1Me) | 3:08 |
+| 28 | [PERFORMANTE](https://open.spotify.com/track/5lEB4KHh3oE03q060h0mTr) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [KINTSUGI](https://open.spotify.com/album/4zwwg5cY6PIC7K3SvBaExf) | 3:26 |
+| 29 | [RODEO DRIVE \(feat\. Hamza\)](https://open.spotify.com/track/5kPZqzylClNZIGdAO2OG9J) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [LIFE](https://open.spotify.com/album/6lR8cZ6omC8EJ0tzt7lNZh) | 2:25 |
+| 30 | [Qué Miras Bobo](https://open.spotify.com/track/69V8EffxZePjssPL4h7x87) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Qué Miras Bobo](https://open.spotify.com/album/5StZFX7RwMBri67KR13OF6) | 2:30 |
+| 31 | [Désolée](https://open.spotify.com/track/0AzaMqhl2gXLoYJZ8CePen) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Désolée](https://open.spotify.com/album/4Ped3CYGFTg0i1JbC557Xn) | 2:44 |
+| 32 | [WIN WIN](https://open.spotify.com/track/3OjzBXbO7TGzYPTrO40Avo) | [Davy One](https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz) | [WIN WIN](https://open.spotify.com/album/2Afunln1aFmy1ZKwQ1buyE) | 1:52 |
 | 33 | [Figaro \(feat\. Josman\)](https://open.spotify.com/track/4HB8eCfEXUrwzzqFqsVU5T) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Black House](https://open.spotify.com/album/0RUlByO4JNPRUWBVJPCJnb) | 3:38 |
 | 34 | [Sains et saufs](https://open.spotify.com/track/0c5qGXsXbPjQtbhyLsfUWi) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Sains et saufs](https://open.spotify.com/album/6KHXtoIhJns1xTGYg6EwRZ) | 3:41 |
 | 35 | [Comme Ye](https://open.spotify.com/track/64pEZyDpOpb3zOjryhvNSv) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Comme Ye](https://open.spotify.com/album/1xyFYAejJRKhUdTk0lkUas) | 2:33 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 42 | [Camp Nou](https://open.spotify.com/track/1HjubnKBM5ZwjTBOTIv7KS) | [77 degrés](https://open.spotify.com/artist/4OkNhj7zVwnB3p57DR2SVN), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [77 Degrés](https://open.spotify.com/album/7rrim5oqq6k8w8TN7AD8nF) | 2:47 |
 | 43 | [maman](https://open.spotify.com/track/1FsIoCTWHx6lB0f3PgYdtz) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [solo](https://open.spotify.com/album/5vgGQQEXOhWB8On731hF6f) | 3:00 |
 | 44 | [miki cowboy](https://open.spotify.com/track/641fgTSsoeAYNkgR3m7HMU) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/2BMT7xu97SvpVB20ciDNFW) | 2:18 |
-| 45 | [La vraie vie](https://open.spotify.com/track/2zSIAePG9IAhosLGptnq9T) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Imad, la suite](https://open.spotify.com/album/4XKqdc8TBZa8XZcUV6xgXC) | 2:23 |
-| 46 | [On tombe, on réessaye](https://open.spotify.com/track/1JdeV9HWswwT2yv5ovHpz8) | [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98) | [On tombe, on réessaye](https://open.spotify.com/album/56oJCfgXzCWDeOPsRzhWy4) | 3:13 |
+| 45 | [On tombe, on réessaye](https://open.spotify.com/track/1JdeV9HWswwT2yv5ovHpz8) | [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98) | [On tombe, on réessaye](https://open.spotify.com/album/56oJCfgXzCWDeOPsRzhWy4) | 3:13 |
+| 46 | [La vraie vie](https://open.spotify.com/track/2zSIAePG9IAhosLGptnq9T) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Imad, la suite](https://open.spotify.com/album/4XKqdc8TBZa8XZcUV6xgXC) | 2:23 |
 | 47 | [Rien qu'ça](https://open.spotify.com/track/237WM1VgB4TEGTXcUpCqnL) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Crèvecoeur](https://open.spotify.com/album/0WgY5ocBEP23tJiAMgawBv) | 2:33 |
-| 48 | [Amoureuse](https://open.spotify.com/track/3rrYJegUcvKTRCaiQz6rXn) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [Amoureuse](https://open.spotify.com/album/4L5eH3XhpdBLat8JOyPtCS) | 2:30 |
-| 49 | [Honnêtement](https://open.spotify.com/track/4G1JPJckSCgksx4dsrwUAZ) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Honnêtement](https://open.spotify.com/album/4e06ndTo3GoQ2HzwkOiWMn) | 1:55 |
+| 48 | [Honnêtement](https://open.spotify.com/track/4G1JPJckSCgksx4dsrwUAZ) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Honnêtement](https://open.spotify.com/album/4e06ndTo3GoQ2HzwkOiWMn) | 1:55 |
+| 49 | [Amoureuse](https://open.spotify.com/track/3rrYJegUcvKTRCaiQz6rXn) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [Amoureuse](https://open.spotify.com/album/4L5eH3XhpdBLat8JOyPtCS) | 2:30 |
 | 50 | [Text Back](https://open.spotify.com/track/4VLwNuffbdkapeykr0ZD8V) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [What if I break up with u ?](https://open.spotify.com/album/7LxUCbMeIYevtmkQUymwnm) | 3:02 |
 
 Snapshot ID: `Z+9ZUgAAAADdgjWsvWv7dNdg5+nhhgxk`

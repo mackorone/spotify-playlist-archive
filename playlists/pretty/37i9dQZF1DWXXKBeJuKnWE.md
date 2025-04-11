@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy music\. Cover: Static Dress
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,100 likes - 272 songs - 16 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,080 likes - 272 songs - 16 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

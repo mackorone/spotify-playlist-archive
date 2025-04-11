@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: BUS
+> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: ATLAS
 
-679 songs - 1 day 16 hr 6 min
+680 songs - 1 day 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,7 +487,7 @@
 | [สุขสันต์วันคิดถึง \(Happily Missing You\)](https://open.spotify.com/track/2QRjLzBCz7DFMRrsENNjzh) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [สุขสันต์วันคิดถึง \(Happily Missing You\)](https://open.spotify.com/album/7GWEkwn9WjBXmWwMo8Ka0H) | 3:35 | 2024-12-05 |  |
 | [สู้ชีวิต แต่ชีวิตสู้กลับ \(Hang in There!\)](https://open.spotify.com/track/6JVtp9kQzGiCNYVpoLFILn) | [UP n AWAY](https://open.spotify.com/artist/0MiktauYVOxwrJbNxGMQIF) | [สู้ชีวิต แต่ชีวิตสู้กลับ \(Hang in There!\)](https://open.spotify.com/album/1EkS7qvW0UxW2dLcjaN8eD) | 3:40 | 2022-11-11 | 2022-12-02 |
 | [ส่งเพลงนี้มาบอกฝันดี \- See You In My Dreams](https://open.spotify.com/track/3qWSUZsTAS2Al3f0uAENUC) | [First Anuwat](https://open.spotify.com/artist/4KjqrvqKO5fbI5yDR5yzny) | [ส่งเพลงนี้มาบอกฝันดี \(See You In My Dreams\)](https://open.spotify.com/album/7zEqCYajmXEXLH2v6ulsvv) | 2:10 | 2022-05-26 | 2022-06-03 |
-| [ส่วนต่าง \(do it without me\)](https://open.spotify.com/track/28uUXmHx13AZ1nkl57vCwN) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/album/7HfFwe6RcWEiSMxNSTWf6f) | 3:17 | 2024-05-16 |  |
+| [ส่วนต่าง \(do it without me\)](https://open.spotify.com/track/28uUXmHx13AZ1nkl57vCwN) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/album/7HfFwe6RcWEiSMxNSTWf6f) | 3:17 | 2024-05-16 | 2025-04-11 |
 | [ส่วนลึก](https://open.spotify.com/track/0pTVv3OK76OpnISr7hTlUn) | [Ice Paris](https://open.spotify.com/artist/6Ul5SIYwfYqiTgvSDqOe2n) | [MINE](https://open.spotify.com/album/5Jumy6sJNFo2F6cFacLs7k) | 3:54 | 2024-10-31 | 2024-11-15 |
 | [หนึ่งในมาช้า](https://open.spotify.com/track/5b80Ugh1bPrVK84JK4hYgi) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [Txrbo](https://open.spotify.com/artist/45pQix6T07syL9LwzOoRNg) | [หนึ่งในมาช้า](https://open.spotify.com/album/3I09i71ENf6fZSnRmjj7L3) | 3:34 | 2024-10-10 | 2024-10-25 |
 | [หมอนอิง \(Anything\)](https://open.spotify.com/track/6qViN8HVfSTzTxcC83ITQn) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [หมอนอิง \(Anything\)](https://open.spotify.com/album/6yh6HALGG7Mib5l0CKBQKL) | 3:38 | 2023-07-06 | 2024-03-15 |
@@ -566,6 +566,7 @@
 | [เปลี่ยนตัวผู้เล่น \(Time to Shine\)](https://open.spotify.com/track/3WhnoaMfaJnOzLWBuKnD5L) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [เปลี่ยนตัวผู้เล่น \(Time to Shine\)](https://open.spotify.com/album/0jhtd9GxvrRfGVbWKJJUco) | 2:43 | 2024-04-04 | 2024-04-19 |
 | [เป็นได้ทุกอย่าง](https://open.spotify.com/track/27qlKjzLoCOzltggfY8FPy) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [เป็นได้ทุกอย่าง](https://open.spotify.com/album/4YQqcCKXLmZcJkzijUfSiy) | 3:11 | 2022-05-26 | 2023-05-03 |
 | [เป็นไปไม่ได้ \(FORLORN\)](https://open.spotify.com/track/2Z3ltBGdjCtdD9C4Lh1jDW) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [เป็นไปไม่ได้ \(FORLORN\)](https://open.spotify.com/album/3mJk19a7FV8M1SiAG43AAR) | 4:31 | 2023-07-27 | 2023-08-11 |
+| [เป๊ะ](https://open.spotify.com/track/3ijJlXBIVziI5Nj5d7B06Q) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [เป๊ะ](https://open.spotify.com/album/2y3fjieNlv4le0lI9uWEPT) | 2:41 | 2025-04-10 |  |
 | [เผลอรักเราสักที \(I Really Like You\)](https://open.spotify.com/track/57Fl5lsIno0Xx7rxFCGm4G) | [Ice Paris](https://open.spotify.com/artist/6Ul5SIYwfYqiTgvSDqOe2n) | [เผลอรักเราสักที \(I Really Like You\)](https://open.spotify.com/album/4CDFuE8ot0iQBqNCVMa4Av) | 3:03 | 2024-07-04 | 2024-07-12 |
 | [เผลอหรือตั้งใจ](https://open.spotify.com/track/0mt8i1U8mZsptqKxEc4ScO) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [เผลอหรือตั้งใจ](https://open.spotify.com/album/5p7h0FH5wQR7w8hRZPa8sO) | 3:09 | 2022-05-26 | 2022-07-29 |
 | [เผลอหรือตั้งใจ](https://open.spotify.com/track/7GfFmnGewokTR7RwkMpbW5) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [เผลอหรือตั้งใจ](https://open.spotify.com/album/3S8wLd9kZqvibuEQoAKd7I) | 3:09 | 2022-07-28 | 2022-10-27 |

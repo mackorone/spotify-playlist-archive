@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo :TH\u00c9A",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Nina Versyp",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 174786,
       "name": "(((Stup Lore))) (Antidote remix)",
       "url": "https://open.spotify.com/track/17aqoGw7X6YcC0qnwMJ9Pf"
@@ -463,6 +463,24 @@
     },
     {
       "album": {
+        "name": "Banquise",
+        "url": "https://open.spotify.com/album/1bUxpEkgZbG5elvPVQmhpF"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9trole Brut",
+          "url": "https://open.spotify.com/artist/2lcekukdiTHK6ZgxWxWyc7"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209266,
+      "name": "Banquise",
+      "url": "https://open.spotify.com/track/2xKdaB6C978wvUyHk8AO3M"
+    },
+    {
+      "album": {
         "name": "DID",
         "url": "https://open.spotify.com/album/3LlwbCNSb0SgSVksGXgnwd"
       },
@@ -474,7 +492,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 243666,
       "name": "Between Love And Hate",
       "url": "https://open.spotify.com/track/4DbRJhWeAgFlYG7O9UHAJU"
@@ -741,6 +759,24 @@
     },
     {
       "album": {
+        "name": "casse-toi",
+        "url": "https://open.spotify.com/album/69GGNe1eRUmwJKtublYwVu"
+      },
+      "artists": [
+        {
+          "name": "Liv del Estal",
+          "url": "https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181011,
+      "name": "casse-toi",
+      "url": "https://open.spotify.com/track/35kqz8xHX5TqbTEzahFIqh"
+    },
+    {
+      "album": {
         "name": "Lavender",
         "url": "https://open.spotify.com/album/4nCf0hlINNS0mF6LeK0Cmh"
       },
@@ -860,7 +896,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 228026,
       "name": "Charlie,",
       "url": "https://open.spotify.com/track/74SY7jgiZ1WdpBDlv3WNeI"
@@ -1242,7 +1278,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 197586,
       "name": "Dis(t)dance",
       "url": "https://open.spotify.com/track/3ij2QXYi7ybKR2BZB744zb"
@@ -1430,6 +1466,24 @@
       "duration_ms": 128479,
       "name": "ECLIPSE",
       "url": "https://open.spotify.com/track/6YqjF5hxtVoQJmqTAsMt1z"
+    },
+    {
+      "album": {
+        "name": "L'Album",
+        "url": "https://open.spotify.com/album/61BkGNYVRTdXtdbOyEKEB3"
+      },
+      "artists": [
+        {
+          "name": "Jacques & Jacques",
+          "url": "https://open.spotify.com/artist/0vvht6oo0XTtRlGppbR8xg"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "En boucle",
+      "url": "https://open.spotify.com/track/1Yxhse5LJNZwFmk9YJsxDD"
     },
     {
       "album": {
@@ -1761,6 +1815,24 @@
     },
     {
       "album": {
+        "name": "Hey Joe",
+        "url": "https://open.spotify.com/album/4X9EzY8mrxWMRfSU88ehaM"
+      },
+      "artists": [
+        {
+          "name": "Odezenne",
+          "url": "https://open.spotify.com/artist/1FiWBzw15KbR9amOb1Xnxp"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192809,
+      "name": "Hey Joe",
+      "url": "https://open.spotify.com/track/57hKJDzT86Hb4XEvFKcSqZ"
+    },
+    {
+      "album": {
         "name": "Pop Sauvage",
         "url": "https://open.spotify.com/album/1HkAZ5h4jCXuRKa239zPuw"
       },
@@ -2000,6 +2072,28 @@
       "duration_ms": 229960,
       "name": "j'avance",
       "url": "https://open.spotify.com/track/2Z7qNInldtbww87osjOnt2"
+    },
+    {
+      "album": {
+        "name": "J'irai",
+        "url": "https://open.spotify.com/album/7idp3nCAcBFYfkuq0pEP71"
+      },
+      "artists": [
+        {
+          "name": "Nerlov",
+          "url": "https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI"
+        },
+        {
+          "name": "Yolande Bashing",
+          "url": "https://open.spotify.com/artist/49k2R9yqMgNBtZc3RIO2GZ"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209226,
+      "name": "J'irai",
+      "url": "https://open.spotify.com/track/4YY4smnNxdI2uRi3UgGmD7"
     },
     {
       "album": {
@@ -2832,7 +2926,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 213592,
       "name": "Message acide",
       "url": "https://open.spotify.com/track/5Q3NP8mMJVcvQnpefNi3P9"
@@ -3100,6 +3194,24 @@
       "duration_ms": 156067,
       "name": "ne croquez pas cette pomme",
       "url": "https://open.spotify.com/track/1ghb1yDkwk3Jah3xnaOEtm"
+    },
+    {
+      "album": {
+        "name": "ne pas regarder en bas",
+        "url": "https://open.spotify.com/album/4j9nAsPRUp5HQfexdBKN97"
+      },
+      "artists": [
+        {
+          "name": "nous \u00e9tions une arm\u00e9e",
+          "url": "https://open.spotify.com/artist/2GT9RRFupyQile63whfk0t"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "ne pas regarder en bas",
+      "url": "https://open.spotify.com/track/4aZjNBd7e3HI6w3kkHwGEA"
     },
     {
       "album": {
@@ -4674,7 +4786,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 202266,
       "name": "tue moi",
       "url": "https://open.spotify.com/track/27KaAt4Iwwd8xhxfquYb68"

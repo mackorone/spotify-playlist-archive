@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4?si=YB4nAtxyQWWBQE3FQuHX1Q">Halo Yagami</a>
+> The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL?si=dCw4JE67S4qG\_7e3d5JNvg">Lojay</a>
 
-477 songs - 1 day 1 hr 37 min
+478 songs - 1 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [MORNING PEACE](https://open.spotify.com/track/4607H11d3SMFfITEICAFZe) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR) | [Today's Tragedy, Tomorrow's Memory: the mixtape](https://open.spotify.com/album/4vhWSUXx9WQD5q4dZ5fq2F) | 3:58 | 2025-02-13 | 2025-03-01 |
 | [Muse \- A COLORS SHOW](https://open.spotify.com/track/4JmYe83UEo0u79arY6Zbn2) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Muse \- A COLORS SHOW](https://open.spotify.com/album/4bMaXHiewgIcNRmKzRWnkJ) | 5:03 | 2023-12-08 | 2024-02-09 |
 | [MUTT](https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:12 | 2024-11-29 |  |
+| [Mwah!](https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Mwah!](https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ) | 2:08 | 2025-04-10 |  |
 | [My Ones](https://open.spotify.com/track/1KLUIuk9LJKbZRJ37VXOEG) | [Kwxd](https://open.spotify.com/artist/6KZdCl4t1H7ljuC3v5eYxM) | [My Ones](https://open.spotify.com/album/0y8QIkp9MCg8cTgWFTEhIC) | 2:42 | 2024-08-30 | 2024-09-03 |
 | [My Terms](https://open.spotify.com/track/6Q1LfCohflkggCIpF5rO9S) | [Naye Ayla](https://open.spotify.com/artist/6KMjCrFmLJKQ2SYe2Hi9IW) | [My Terms](https://open.spotify.com/album/0sHRtny2YtgcRNPEJehPI6) | 2:06 | 2024-07-11 | 2024-11-29 |
 | [My Time \(feat\. Loki\)](https://open.spotify.com/track/3PjepBofgRr63rQc5uhsfp) | [Asvnte](https://open.spotify.com/artist/5bnvlUiyUv5RF53DDjrstn), [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6), [Loki.](https://open.spotify.com/artist/3f9z8pU96fneXqFTsD9FjD) | [My Time \(feat\. Loki\)](https://open.spotify.com/album/0Ud9BUj7itkfdS4LhNa9pw) | 3:15 | 2024-03-14 | 2024-08-31 |
@@ -343,7 +344,7 @@
 | [Right In My Arms](https://open.spotify.com/track/73EQ7rfD4uN4MhTLeVwWae) | [The Woodź](https://open.spotify.com/artist/1b4yg5JOwp7Dr4Ko0Jwol1) | [Right In My Arms](https://open.spotify.com/album/1ybAA9ffzon9NTEDk14UDd) | 3:47 | 2024-02-14 | 2024-02-23 |
 | [Risk \(feat\. Moliy\)](https://open.spotify.com/track/2dMAggfV7EGVwdaP74xlhB) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Risk \(feat\. Moliy\)](https://open.spotify.com/album/5KSgs1ELY7Hw9psUKBUCZh) | 2:47 | 2024-03-21 | 2024-09-03 |
 | [Roboto](https://open.spotify.com/track/6kGuzD6SGSCjMzpgNHX6Eu) | [Melo B Jones](https://open.spotify.com/artist/2Mua4FDd97dhJAfLNE5E3O), [Ntatao](https://open.spotify.com/artist/65AL7DNBWa4m5Y94PPATUE) | [Roboto](https://open.spotify.com/album/2fHwBnIZJdNHrAEYrZBZ3W) | 4:05 | 2024-01-12 | 2024-03-29 |
-| [roll da dice](https://open.spotify.com/track/1zV2mbt3vg6yVr6Sb1PFjz) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [roll da dice](https://open.spotify.com/album/0tOKRPGHYTIqOmWQQUFtFh) | 3:10 | 2024-09-26 |  |
+| [roll da dice](https://open.spotify.com/track/1zV2mbt3vg6yVr6Sb1PFjz) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [roll da dice](https://open.spotify.com/album/0tOKRPGHYTIqOmWQQUFtFh) | 3:10 | 2024-09-26 | 2025-04-11 |
 | [Ruin](https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Ruin](https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG) | 3:01 | 2024-02-08 | 2024-06-28 |
 | [Run Away \(OMALICHA\)](https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Run Away \(OMALICHA\)](https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh) | 2:56 | 2024-02-08 | 2024-04-13 |
 | [Ryd](https://open.spotify.com/track/5Ha9IheRrkDyr7ZdhaRsWb) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Steve Lacy's Demo](https://open.spotify.com/album/2J3aZLAPphJi80QXibyrNr) | 2:20 | 2025-02-13 | 2025-03-01 |

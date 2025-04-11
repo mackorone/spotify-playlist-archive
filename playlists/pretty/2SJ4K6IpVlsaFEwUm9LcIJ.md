@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,924 likes - 48 songs - 2 hr 59 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,927 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,5 +56,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 46 | [Hog Of The Forsaken](https://open.spotify.com/track/0f5bYBJ7CQkqqLZjhJTNw9) | [Michael Hurley](https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz) | [Long Journey](https://open.spotify.com/album/3jqLDxYTcxRXOWIL6UcquW) | 3:35 |
 | 47 | [Polynesia](https://open.spotify.com/track/1kRSfl02tYqUkyNuAuStDC) | [Michael Hurley](https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz) | [Long Journey](https://open.spotify.com/album/3jqLDxYTcxRXOWIL6UcquW) | 2:23 |
 | 48 | [Neverland](https://open.spotify.com/track/2pmf8TGCLVBHioGVYiE0WY) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [When you wake up](https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY) | 3:11 |
+| 49 | [I am your house](https://open.spotify.com/track/62sOtdVgN9YUJErtoHaUc5) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [When you wake up](https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY) | 4:26 |
+| 50 | [Happy](https://open.spotify.com/track/3WGiMyK486Aat4b9ZxuHic) | [The Wrens](https://open.spotify.com/artist/04cetTUz2JTzXBqFKO5YB5) | [The Meadowlands](https://open.spotify.com/album/4Olz2cm8ncBqhnRcDwqVFK) | 5:33 |
 
-Snapshot ID: `AAAMJmThNEHmOFfbkm1xhfUjoD5ibUlL`
+Snapshot ID: `AAAMKLEj7Xg60VRfZSgqmGV47QTuE2kA`

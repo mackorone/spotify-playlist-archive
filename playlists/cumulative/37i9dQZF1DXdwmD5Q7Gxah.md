@@ -4,7 +4,7 @@
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/introducing\-lorem\-and\-friends?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Read our our March newsletter...</a> Cover: 2hollis
 
-3,280 songs - 7 day 10 hr 34 min
+3,284 songs - 7 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1990,6 +1990,7 @@
 | [News At 9](https://open.spotify.com/track/4ve3XvrdiYbKeDZ1QdeBU7) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [News At 9](https://open.spotify.com/album/7xc9xUwYtVKNIA2DEx51ce) | 3:13 | 2022-04-22 | 2022-06-10 |
 | [Next Summer](https://open.spotify.com/track/5wqOKs1a7wSB3yUzYoRjHb) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [Next Summer](https://open.spotify.com/album/19sockWCm1L90iLEqMTur0) | 3:08 | 2020-07-31 | 2020-10-16 |
 | [NFU](https://open.spotify.com/track/1RG9wGYVd6YyrYDDUqz2LU) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [NFU](https://open.spotify.com/album/6e5xluOlHaZPnI1ORf483L) | 3:41 | 2023-09-29 | 2023-11-11 |
+| [nice](https://open.spotify.com/track/5QD9PUqyVz8syPaZL4HAbB) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [star](https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7) | 2:22 | 2025-04-10 |  |
 | [nice to know you](https://open.spotify.com/track/1Ox33f3cIVsAzhXpC6fYIp) | [Wishpig](https://open.spotify.com/artist/68ybmAQpXyAzHXOkexjYj3) | [nice to know you](https://open.spotify.com/album/1N97epSs8xnFTQxRqberB7) | 2:48 | 2023-04-14 | 2023-06-24 |
 | [Night Garden \(feat\. Kenny Beats & Bakar\)](https://open.spotify.com/track/1aFL6FVclpfPafOGekKkna) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Night Garden \(feat\. Kenny Beats & Bakar\)](https://open.spotify.com/album/3mUlJParu9HRpG7KH4QxHZ) | 3:41 | 2020-07-18 | 2020-08-20 |
 | [Night Time](https://open.spotify.com/track/3ah2BSQRitsUvAvvTeKtBE) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Superorganism](https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix) | 4:14 | 2021-01-29 | 2021-02-06 |
@@ -2249,6 +2250,7 @@
 | [Pretender](https://open.spotify.com/track/2qIc2lDtHJte4EpEx7nKXn) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Pretender](https://open.spotify.com/album/7B79vUpu3jvPlRcP9n7RKm) | 2:57 | 2024-03-08 | 2024-04-19 |
 | [Pretty](https://open.spotify.com/track/3L545updZMVxAsaYV6K8Z9) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [Okthxbb](https://open.spotify.com/artist/2KexnW3KsCks2O8cXonjG6) | [Pretty](https://open.spotify.com/album/3qgzSXy4n3efYOUN0rd0aZ) | 3:44 | 2021-11-20 | 2022-02-26 |
 | [Pretty](https://open.spotify.com/track/1T1TcV3ibZZ5OO9cHJLI6M) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [Pretty](https://open.spotify.com/album/6Z5oqM3wk1Xe8ZOeLv03Hc) | 3:10 | 2021-11-13 | 2022-01-08 |
+| [pretty](https://open.spotify.com/track/154zZbZJdhfdxKMYhnQUvq) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [pretty](https://open.spotify.com/album/7yQBl3xgsOQPMSeWfrXVKf) | 2:46 | 2025-04-10 |  |
 | [Pretty Boy](https://open.spotify.com/track/6Q5mJdY0XcBLNVq9NLZuto) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Pretty Boy](https://open.spotify.com/album/6hxJP716Cxd65oYQfGa1i5) | 3:54 | 2020-09-10 | 2020-12-23 |
 | [pretty funny](https://open.spotify.com/track/6f9T8Q6xqWEWTvp3P87Wjm) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pink Songs 2](https://open.spotify.com/album/5Hss6ml2F35xoVJzFmnicV) | 3:25 | 2022-07-07 | 2022-08-06 |
 | [Pretty Girl](https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Pretty Girl](https://open.spotify.com/album/3nkwKrSQJ9l84VV8uuymk9) | 2:58 | 2021-03-25 | 2021-04-02 |
@@ -2340,6 +2342,7 @@
 | [Rocky](https://open.spotify.com/track/5uDohC8URXwbGiHAMuKGoa) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Rocky](https://open.spotify.com/album/47pYIGsuBIKvsbAQpipfur) | 2:46 | 2021-02-19 | 2021-06-05 |
 | [Roddy](https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0) | 4:12 | 2023-04-05 | 2023-04-09 |
 | [Roi](https://open.spotify.com/track/5JBsL87pkYEqxR9ybfarfV) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Roi](https://open.spotify.com/album/1egOGiFQP2N9LYbO1VTneO) | 3:42 | 2019-07-30\* | 2019-09-27 |
+| [Roll the dice](https://open.spotify.com/track/1lg1XJk0XHBfeqT389cfcJ) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Roll the dice](https://open.spotify.com/album/21zZA3rsn2kmFoCRmpIUrt) | 2:07 | 2025-04-10 |  |
 | [Rollin' Stone](https://open.spotify.com/track/4WEY5WHm0Kx1JW2v7OeR8i) | [Kyle Lux](https://open.spotify.com/artist/63g7H7tihdsX4LtRQioKrR) | [Rollin' Stone](https://open.spotify.com/album/5mLH0FVn4BwyHAGzCxbWvz) | 3:14 | 2019-07-30\* | 2019-11-14 |
 | [rom com 2021](https://open.spotify.com/track/01y5BLAsXWirQHZdWluxM0) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q), [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [rom com 2021](https://open.spotify.com/album/5Gv1svMbcxpoiYwJrxJUaC) | 3:16 | 2021-09-30 | 2021-11-13 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-07-29 | 2022-12-24 |
@@ -3052,7 +3055,7 @@
 | [Virtual Aerobics](https://open.spotify.com/track/1fpGZJnHXFEbq8UIWIKmHH) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Virtual Aerobics](https://open.spotify.com/album/70QRj2miXV0LTLG887MgTp) | 2:02 | 2020-10-03 | 2021-03-06 |
 | [Virtual Hug](https://open.spotify.com/track/4eSsPJbJQ5hLYjg90FiRCD) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Virtual Hug](https://open.spotify.com/album/67UEZte3h6JEZ6d4BmEgiT) | 3:09 | 2024-05-03 | 2024-06-18 |
 | [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 | 2024-02-29 | 2024-03-23 |
-| [Vows](https://open.spotify.com/track/1gljagKZ8aORj8hSXdLsAK) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [Vows](https://open.spotify.com/album/0Ii3SThOZCjezgWBNd7yPa) | 2:42 | 2025-01-15 |  |
+| [Vows](https://open.spotify.com/track/1gljagKZ8aORj8hSXdLsAK) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [Vows](https://open.spotify.com/album/0Ii3SThOZCjezgWBNd7yPa) | 2:42 | 2025-01-15 | 2025-04-11 |
 | [Voyage](https://open.spotify.com/track/0sPNyl2I8I5tbhTtMs3KOm) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Voyage](https://open.spotify.com/album/15sfmnhUkreeJiqKjTH4mE) | 3:06 | 2021-12-22 | 2022-01-22 |
 | [Wait for Me](https://open.spotify.com/track/2DWSEs2sT3jvlrZMUtHTUY) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Wait for Me](https://open.spotify.com/album/7LAkAB1VZOBGFBxY9knom4) | 2:46 | 2023-07-28 | 2023-08-26 |
 | [Wait for Something Better](https://open.spotify.com/track/1I9CYgnoP99PAgTqkPPO4o) | [PROM](https://open.spotify.com/artist/5p9qBa6VyXEvdxwI8WNwJb) | [Wait for Something Better](https://open.spotify.com/album/12tDYPpSTOkN4QjPKOeIDQ) | 3:12 | 2022-07-15 | 2022-10-26 |
@@ -3233,6 +3236,7 @@
 | [You Belong With Me \(Taylor’s Version\)](https://open.spotify.com/track/1qrpoAMXodY6895hGKoUpA) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:51 | 2021-04-10 | 2021-04-20 |
 | [You Can Be Mean](https://open.spotify.com/track/5HlHycHNeXIjYhY4AJRErt) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [You Can Be Mean](https://open.spotify.com/album/55AeOkUW28sgptXC5DCzn9) | 2:25 | 2024-01-10 | 2024-02-22 |
 | [YOU CAN KEEP THE FIRE](https://open.spotify.com/track/1E0b2xYd4qWMpxrYDvIJCJ) | [Leyla Ebrahimi](https://open.spotify.com/artist/52yWTbMGFG2xpM86QddMvR) | [YOU CAN KEEP THE FIRE](https://open.spotify.com/album/4DnzDvjFDeOtHKt9kqGN8F) | 5:13 | 2025-03-14 |  |
+| [You Don't Have One Hope](https://open.spotify.com/track/50ZJVGTEnnDGwzIctwd5g3) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [You Don't Have One Hope](https://open.spotify.com/album/72DUqvLhI6ZyqvB82bovq9) | 2:17 | 2025-04-10 |  |
 | [You Don't Know](https://open.spotify.com/track/5NDyOh0RpCpUuVA1IQTReh) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [You Don't Know](https://open.spotify.com/album/5uJPLnhXp8zYGSwCG3rRwg) | 4:41 | 2024-06-28 | 2024-08-10 |
 | [You First \(Re: Remi Wolf\)](https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 3:54 | 2023-10-06 | 2024-01-11 |
 | [You got time and I got money](https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [You got time and I got money](https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn) | 4:31 | 2025-03-19 |  |

@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Shravan Sridhar
 
-494 songs - 1 day 4 hr 13 min
+495 songs - 1 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Bodhai Penne Nee](https://open.spotify.com/track/3v4TGyHakUilgOmxsWNlJ6) | [GKV](https://open.spotify.com/artist/0836tZWcZRyLXpyyHqi3oD) | [Bodhai Penne Nee](https://open.spotify.com/album/6kbDQ0mrYj9QQBJQrgvMhQ) | 3:17 | 2023-03-21 | 2023-07-25 |
 | [Boomer Uncle](https://open.spotify.com/track/2b1GmT7aQW5ZfO0KO4VrZz) | [Ritchie Godson Paul](https://open.spotify.com/artist/5jhGaixWICC5S0iZfD48pd), [Thee Raa](https://open.spotify.com/artist/2CNe7ZJ7hnd3e0hsYKIA5l) | [Boomer Uncle](https://open.spotify.com/album/4tIElD5GwZ09DgpjkdBuT2) | 3:42 | 2024-02-01 | 2024-04-19 |
 | [Boomer Uncle](https://open.spotify.com/track/76Rduf0fn3F5UsCZI4X17J) | [Ritchie Godson Paul](https://open.spotify.com/artist/5jhGaixWICC5S0iZfD48pd), [Thee Raa](https://open.spotify.com/artist/2CNe7ZJ7hnd3e0hsYKIA5l) | [Boomer Uncle](https://open.spotify.com/album/1tj08LiuGmC7H66Vd3lmmA) | 3:42 | 2023-11-08 | 2024-05-11 |
+| [Broken Wings](https://open.spotify.com/track/77jETME7Ez1121b19u4rVc) | [Sharan Musician](https://open.spotify.com/artist/16XIcGxUwd0RaCkZE2mRPR) | [Broken Wings](https://open.spotify.com/album/2a0O2snHRwzZyp7SLojqQZ) | 3:33 | 2025-04-10 |  |
 | [Bubble](https://open.spotify.com/track/5njRRuTqS5jc0hnRLEiuAv) | [Jayden Paul](https://open.spotify.com/artist/29gvU820Nffy7b3TfB4bUl) | [Bubble](https://open.spotify.com/album/6vGV23SUU5PIUicPWy9NA4) | 4:50 | 2023-03-21 | 2023-06-24 |
 | [Callin](https://open.spotify.com/track/21ZfO35yXXVaz68RFq0j1u) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Callin](https://open.spotify.com/album/53A1Rka8vVEqsh0qYuuGFF) | 2:31 | 2024-02-23 | 2024-03-09 |
 | [Cappuccino](https://open.spotify.com/track/6UUN4R8AFzTAy0t36Gy5sa) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Hi\-Polar](https://open.spotify.com/artist/5r1MeyZN01dQ963hBaTChW) | [Cappuccino](https://open.spotify.com/album/0zT6PGfOSAmNR9LfHkkqIk) | 3:22 | 2025-03-10 |  |
@@ -424,7 +425,7 @@
 | [Thedinen](https://open.spotify.com/track/00gTcMEkHClzEqTtOiJcCH) | [Shahithya](https://open.spotify.com/artist/1duE9FA46dM4h1PflZbyYf) | [Thedinen](https://open.spotify.com/album/2PJkun0zvgP70nKfC2isjI) | 3:22 | 2024-06-14 | 2024-08-11 |
 | [Theendum Dhooram \- Unplugged](https://open.spotify.com/track/0bp4VHhD7BmOaIDSAhRhSA) | [Ritchie Godson Paul](https://open.spotify.com/artist/5jhGaixWICC5S0iZfD48pd) | [Theendum Dhooram \(Unplugged\)](https://open.spotify.com/album/66k08a6WrDYlmZ5HDqYQmt) | 3:26 | 2023-04-06 | 2023-08-08 |
 | [Theera](https://open.spotify.com/track/2lQ49y0CZ9jhfINsc7NuZO) | [Joseph Vijay](https://open.spotify.com/artist/1GkrvUf71uUhmbV0lvfX7p), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD) | [Theera](https://open.spotify.com/album/0pXbIwIirbseVMHcbLyKtp) | 4:02 | 2023-07-17 | 2024-05-04 |
-| [Theera Irul](https://open.spotify.com/track/65WfHGYdwvBHc8RRKZJg77) | [Stv Andrew](https://open.spotify.com/artist/1tQ8HrJNZhEiLIxDlvd2Bd), [Kunkumasudharshan R](https://open.spotify.com/artist/4m8OL554jGJL6Jp67Gu7Jc), [Dharshana Vijayan](https://open.spotify.com/artist/0D71qCh2dODGJtFCs2Mhyq) | [Theera Irul](https://open.spotify.com/album/4fTes6zDMlFaTSyd0DnDvC) | 4:28 | 2025-01-31 |  |
+| [Theera Irul](https://open.spotify.com/track/65WfHGYdwvBHc8RRKZJg77) | [Stv Andrew](https://open.spotify.com/artist/1tQ8HrJNZhEiLIxDlvd2Bd), [Kunkumasudharshan R](https://open.spotify.com/artist/4m8OL554jGJL6Jp67Gu7Jc), [Dharshana Vijayan](https://open.spotify.com/artist/0D71qCh2dODGJtFCs2Mhyq) | [Theera Irul](https://open.spotify.com/album/4fTes6zDMlFaTSyd0DnDvC) | 4:28 | 2025-01-31 | 2025-04-11 |
 | [Theerathe](https://open.spotify.com/track/0iuMXjVlQjKQnYlmclnBBd) | [J.Ravi](https://open.spotify.com/artist/28l2CMEmmDWvN4PA9BEQic) | [Theerathe](https://open.spotify.com/album/5ztdAXwodj5yjgjt9LsJ4R) | 3:03 | 2024-10-18 | 2025-02-04 |
 | [Thodarum Intha Payanam](https://open.spotify.com/track/6ohedCrUkOsFMZC9eDPkXm) | [Rama Priya Yegasivanathan](https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx), [Sahul](https://open.spotify.com/artist/1BeKpwnqwVAbGe5IhhRylO) | [Thodarum Intha Payanam](https://open.spotify.com/album/6lRG1g7mDsb7DTckqEOCA7) | 4:40 | 2024-09-19 | 2025-02-01 |
 | [Tholayure Naane](https://open.spotify.com/track/0D0ZSPvk2MBrs1eZHvoKUH) | [Julius Gnanagar](https://open.spotify.com/artist/6mg9ayapkEgFgnjP71yi1V), [Melvin Miranda](https://open.spotify.com/artist/3MExCdgEfpNZSuyTNpSOoM), [Ramya Thayaparan](https://open.spotify.com/artist/6KYB4Y0VbDZctjudPJW64n) | [Tholayure Naane](https://open.spotify.com/album/0p0gT8n4fce9bX7mvElJpN) | 3:07 | 2023-03-21 | 2023-09-26 |

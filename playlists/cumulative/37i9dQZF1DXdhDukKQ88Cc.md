@@ -2,9 +2,9 @@
 
 ### [100 dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> 🔥 <a href="spotify:artist:4ZwOlDVAGXQo66ykbLQ8dP">Lamin</a> 🔥
+> 🔥 <a href="spotify:artist:6a3WaWgxrVmNIvaiTCI0Kk">ardit</a> fu\*\*\*\*\* <a href="spotify:artist:6a3WaWgxrVmNIvaiTCI0Kk">ardit</a>🔥 100 dk er det bedste nye rap
 
-305 songs - 13 hr 10 min
+310 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Graffiti](https://open.spotify.com/track/2KpulNb5RWB2flro8HYm3K) | [GMG](https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7) | [Graffiti](https://open.spotify.com/album/01aGurolrsjwZJbQ6V7KuH) | 2:13 | 2024-01-18 | 2024-02-23 |
 | [Grim Verden](https://open.spotify.com/track/6AIAWHWftd6fwVd9wbwPkv) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Grim Verden](https://open.spotify.com/album/50oFS5rbWDpPodUYOV3Ewv) | 3:45 | 2024-04-18 | 2024-04-26 |
 | [Guld](https://open.spotify.com/track/11etqbG118JJvJGMS5Rtv7) | [KIDD](https://open.spotify.com/artist/7Ap8xCd7d0xon5XnkLvn4i) | [OG SÅ VIDERE](https://open.spotify.com/album/5eltcb1nCUUS5xeCyrsQV3) | 3:13 | 2024-03-08 | 2024-04-05 |
+| [Gøre Det Igen](https://open.spotify.com/track/1BOgF6FLheiCR5YLnkd36w) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Gøre Det Igen](https://open.spotify.com/album/6ycmMHSu86WJzuFIdslzTL) | 2:37 | 2025-04-10 |  |
 | [H V D O L](https://open.spotify.com/track/2ZMH3fAwB2VlcmPOrFMnX6) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [H V D O L](https://open.spotify.com/album/4BkWRBQ1YISV5dYFaUD3bz) | 3:39 | 2024-09-12 |  |
 | [HANNIBAL & JERRY](https://open.spotify.com/track/7IKMflhC3oROTEwUFzH5PW) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [HANNIBAL & JERRY](https://open.spotify.com/album/27UpFPOvaxNwCNjcRKGgbH) | 2:02 | 2024-02-22 | 2024-04-05 |
 | [Har Du Det Sådan Her? \(feat\. KESI\)](https://open.spotify.com/track/5UV3zCn6evCz5PQMBvyAwC) | [Josef](https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Har Du Det Sådan Her? \(feat\. KESI\)](https://open.spotify.com/album/3JG8CJrfWElU5fS5UPqzx0) | 2:20 | 2023-11-10 | 2024-01-19 |
@@ -206,6 +207,7 @@
 | [Miguel Félix](https://open.spotify.com/track/5uQvsr0OBicAIl0DJJAQeC) | [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Miguel Félix](https://open.spotify.com/album/5rJSr8ejGeIEmteVDHyTVO) | 3:14 | 2023-09-21 | 2024-01-19 |
 | [MINUTTER, TIMER](https://open.spotify.com/track/7G8pVonwyErF4HRkSdG16I) | [Maurice](https://open.spotify.com/artist/49LRYB6Kf2RsNbsXIBrGSl) | [MINUTTER, TIMER](https://open.spotify.com/album/7sZH0d6hb3Q0s7CXuW2l7w) | 2:42 | 2024-06-17 | 2024-06-22 |
 | [Mit Ord](https://open.spotify.com/track/2MTuvBUexLhmsiRpIozOL5) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Mit Ord](https://open.spotify.com/album/2n1YkH9GplOZunXhT8ucqL) | 2:30 | 2025-01-09 |  |
+| [Mocro](https://open.spotify.com/track/4fzkuPErl8QBRCcBZrnNWV) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Mocro](https://open.spotify.com/album/5sVVnYyRy3N8fHNij3XUr5) | 2:31 | 2025-04-10 |  |
 | [MOLLY](https://open.spotify.com/track/4XmuzEhU6LPRL4fdWqt6LU) | [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr) | [MOLLY](https://open.spotify.com/album/508PdlAqwptvHS6IuII1H7) | 1:44 | 2024-11-14 |  |
 | [Money Talks](https://open.spotify.com/track/0hjlzcCK6cOnKKb5jo9esn) | [HAM fra Syd](https://open.spotify.com/artist/142bVo1OspxTJbxwyawU5h), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Money Talks](https://open.spotify.com/album/3tPZCAN5x9qk2KIwjqfyPN) | 2:16 | 2024-02-22 | 2024-04-05 |
 | [Moneycall \(feat\. Fam & Smiley\)](https://open.spotify.com/track/3BwnaNDE0xNyveWURXjyGV) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF), [Fam](https://open.spotify.com/artist/6o330LG7yXCDHiFTiGIyX8), [Smiley](https://open.spotify.com/artist/0VAbWUQfLnhk5rggicyL8f) | [Moneycall \(feat\. Fam & Smiley\)](https://open.spotify.com/album/1LYSciBvfi1dxYc4dh0WNE) | 3:06 | 2024-06-27 | 2024-09-13 |
@@ -246,6 +248,7 @@
 | [Safebox \(feat\. Branco\)](https://open.spotify.com/track/2zu2gViGH8vMhNMuSx6n1h) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Safebox \(feat\. Branco\)](https://open.spotify.com/album/4KJnXnjIVL5d07Nd6AuQnI) | 2:05 | 2023-11-10 | 2024-01-19 |
 | [Samme side](https://open.spotify.com/track/5lZny8ZmRtXueq7D3LTgb5) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Samme side](https://open.spotify.com/album/4JvKstwK5cNoLJtqVnhp0P) | 2:34 | 2024-10-03 |  |
 | [SAMME VEJ \(feat\. Artigeardit & Barbara Moleko\)](https://open.spotify.com/track/18pY9lRsEigm9yDWpfp56z) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Barbara Moleko](https://open.spotify.com/artist/5G6LaA5I0P51M49dzJV5k3) | [BABA BUSINESS 3](https://open.spotify.com/album/16y1M4Dnrqiodnk8KvRhLf) | 2:44 | 2024-05-23 | 2025-01-10 |
+| [Seaside](https://open.spotify.com/track/5GzKwlyP8skeSpVM4fsSMp) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Seaside](https://open.spotify.com/album/0WtiDurUDmsFSIXuf9mZN0) | 3:08 | 2025-04-10 |  |
 | [Sent](https://open.spotify.com/track/2zbr6Jls3FE4JCtLwCPD5N) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Sent](https://open.spotify.com/album/2IchXZECJXUQYmD0o49uwU) | 2:34 | 2024-01-18 | 2025-01-10 |
 | [Settings](https://open.spotify.com/track/6nQqtUIELq6zQWld6UwhDn) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Settings](https://open.spotify.com/album/4c9XYiW6vT5hS8c4Pofmjp) | 2:01 | 2023-09-21 | 2024-01-19 |
 | [Sig Du Vil](https://open.spotify.com/track/2P7mah38G2Lf8DvSw51Bhe) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Sig Du Vil](https://open.spotify.com/album/6Nyi6KAIjoSeZFSOxiWjdM) | 2:08 | 2023-11-10 | 2024-01-19 |
@@ -258,6 +261,7 @@
 | [Skarpt Lys](https://open.spotify.com/track/66K8nCovQPjJLs11RAqdnl) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Skarpt Lys](https://open.spotify.com/album/6ukNPtoxvCSYiayGIcDi0y) | 3:04 | 2023-10-05 | 2024-09-13 |
 | [Skrue Løs](https://open.spotify.com/track/7ARkCctaMpssbrBp8J4w8C) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Skrue Løs](https://open.spotify.com/album/6dPL421VFL9pfJOgk3BXjm) | 2:04 | 2024-05-03 | 2024-11-01 |
 | [SkyLL](https://open.spotify.com/track/4MJG5WsX0iZPnSsToLXiqh) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [SkyLL](https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x) | 2:56 | 2024-09-19 | 2025-03-14 |
+| [Slå Dine Tanker Ihjel](https://open.spotify.com/track/7McXYvdZCrb0NFPJcmYVru) | [DeDerDrenge](https://open.spotify.com/artist/76iK1YKt3B6HvYKKl84Hml) | [Slå Dine Tanker Ihjel](https://open.spotify.com/album/0dssC4aiDhsuik7SYB8hjO) | 1:54 | 2025-04-10 |  |
 | [Småting \(feat\. Lamin & Kundo\)](https://open.spotify.com/track/2ZwOtQXG5k1M7gHmTmTMgw) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Månen Er Min Ven](https://open.spotify.com/album/16EjNHcMJ402k7OhdoFxqS) | 3:04 | 2025-01-16 |  |
 | [SNAK/MILANO](https://open.spotify.com/track/0mrZFAokNgdgsPQRV77cvi) | [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [SNAK/MILANO](https://open.spotify.com/album/60g96p9ds29TuRWiLOqYmV) | 3:02 | 2024-04-18 | 2024-04-26 |
 | [SOBER](https://open.spotify.com/track/0XJnk1m8m43RbeBYnbdlxy) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [SOBER](https://open.spotify.com/album/5lUNsYLIZX9QDIFnxmcGxv) | 2:47 | 2024-09-27 | 2024-11-01 |
@@ -268,6 +272,7 @@
 | [Stadig](https://open.spotify.com/track/4SZKRF8WukFPVgkH6cZsMC) | [Ankerstjerne](https://open.spotify.com/artist/7JoViNQIqOIaxcBswboN5d) | [Stadig](https://open.spotify.com/album/72vierIDfoapRJKqdPrVT5) | 2:02 | 2024-05-09 | 2024-05-13 |
 | [STAYBUSY](https://open.spotify.com/track/4t76e7lcoYva7eZparMcfw) | [Maurice](https://open.spotify.com/artist/49LRYB6Kf2RsNbsXIBrGSl) | [STAYBUSY](https://open.spotify.com/album/5TtPoVWJI5k7xGf1oh6HIJ) | 2:23 | 2023-09-29 | 2024-04-05 |
 | [Stemmer](https://open.spotify.com/track/315V2iBZNxBDQxTgbDXRF4) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Stemmer](https://open.spotify.com/album/1QpE3osgUe4Wiwi2JtNb8P) | 2:27 | 2024-02-08 | 2024-10-04 |
+| [Steve O](https://open.spotify.com/track/2x355lU17q5QEemPuj2eba) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Steve O](https://open.spotify.com/album/0F9k9AE4Mbm19VpveE8grZ) | 2:09 | 2025-04-10 |  |
 | [Stime \(feat\. KESI\)](https://open.spotify.com/track/5rBJLnaIpZ2NJQTWmjJNYO) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Månen Er Min Ven](https://open.spotify.com/album/16EjNHcMJ402k7OhdoFxqS) | 3:29 | 2025-01-16 |  |
 | [Svaneflex](https://open.spotify.com/track/5HPCoFIPcckTMWF0wc6ncG) | [Sondergaard](https://open.spotify.com/artist/059d96CtYS9700ezKQWsFz) | [Svaneflex](https://open.spotify.com/album/0dOVDYCMrGpRngvk16BPmU) | 2:02 | 2024-04-29 | 2024-06-22 |
 | [Swervin' \(feat\. Lamin\)](https://open.spotify.com/track/3T4sq2A6qyg4LnUJWx8Q4u) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Swervin' \(feat\. Lamin\)](https://open.spotify.com/album/1fNhtDc8Mls92rWD1q6rWK) | 2:31 | 2023-09-21 | 2023-10-11 |

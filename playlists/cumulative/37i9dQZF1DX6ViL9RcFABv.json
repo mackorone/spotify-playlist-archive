@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Carolina Deslandes, iolanda",
+  "description": "Uma playlist de pura alma pop! Foto: Ana Bacalhau",
   "name": "Pop PT",
   "tracks": [
+    {
+      "album": {
+        "name": "20 Anos",
+        "url": "https://open.spotify.com/album/67BjMjB6miBERbp5IN5h24"
+      },
+      "artists": [
+        {
+          "name": "Os Azeitonas",
+          "url": "https://open.spotify.com/artist/580DM82FybhvbJYUtEjkEz"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228320,
+      "name": "20 Anos",
+      "url": "https://open.spotify.com/track/0E8UYHnvtIdElOoW9FHXms"
+    },
     {
       "album": {
         "name": "A Chamada",
@@ -204,7 +222,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 185454,
       "name": "Algo Mais",
       "url": "https://open.spotify.com/track/38DUG8SHze3qRmZ8ECNUm5"
@@ -440,6 +458,24 @@
       "duration_ms": 204884,
       "name": "At\u00e9 ao Fim",
       "url": "https://open.spotify.com/track/0KVuFaXvgC5v4xRlSIiitI"
+    },
+    {
+      "album": {
+        "name": "Mundo Antena",
+        "url": "https://open.spotify.com/album/7BDkkowFwqTfcUjeiK9jCz"
+      },
+      "artists": [
+        {
+          "name": "Ana Bacalhau",
+          "url": "https://open.spotify.com/artist/39eI4tC8L0YqmljynE71VF"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170893,
+      "name": "At\u00e9 Parece",
+      "url": "https://open.spotify.com/track/6uJj5xjwmaucjiiCxoX876"
     },
     {
       "album": {
@@ -868,7 +904,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 160880,
       "name": "Cinco e Meia",
       "url": "https://open.spotify.com/track/6KGVT9dt9Avdo3uKXWt2me"
@@ -2686,7 +2722,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 175586,
       "name": "Melodia",
       "url": "https://open.spotify.com/track/5HSYsk35AOOmLqE5rYcMFx"
@@ -3009,6 +3045,24 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Te Ausentes De Mim",
+        "url": "https://open.spotify.com/album/3mQuizkmF3O8U3Yk5KAl0R"
+      },
+      "artists": [
+        {
+          "name": "Pedro Abrunhosa",
+          "url": "https://open.spotify.com/artist/4wkGlEHElrIAnV8tBWDdAR"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288945,
+      "name": "N\u00e3o Te Ausentes De Mim",
+      "url": "https://open.spotify.com/track/5i0rY5P2kTa5JU4qKb5lZl"
+    },
+    {
+      "album": {
         "name": "N\u00e3o \u00e9s tu, sou eu",
         "url": "https://open.spotify.com/album/00UkRecCWhLSZIwxsX55zE"
       },
@@ -3096,6 +3150,24 @@
       "duration_ms": 170290,
       "name": "O teu cheiro",
       "url": "https://open.spotify.com/track/23PQOfRFXeQ6ZR4q7ZfM5r"
+    },
+    {
+      "album": {
+        "name": "Oh Nha Nen\u00e9",
+        "url": "https://open.spotify.com/album/3e4JcREkinODSU4lZohjD6"
+      },
+      "artists": [
+        {
+          "name": "Carl\u00e3o",
+          "url": "https://open.spotify.com/artist/4byuw0pyzVNeEONKcPIpAA"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181306,
+      "name": "Oh Nha Nen\u00e9",
+      "url": "https://open.spotify.com/track/3e4ML0dQBbW5aQriRKzNKl"
     },
     {
       "album": {
@@ -3244,7 +3316,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 164816,
       "name": "Pensar Em Mim",
       "url": "https://open.spotify.com/track/6HZIbKTqiac2EqFAVvcxNc"
@@ -3510,6 +3582,24 @@
       "duration_ms": 242891,
       "name": "P\u00f3 do Tempo",
       "url": "https://open.spotify.com/track/1cODqvMGtpdHd8gs6X2Ggs"
+    },
+    {
+      "album": {
+        "name": "Qualquer Hora",
+        "url": "https://open.spotify.com/album/3iUGxF5uo6k4X8zKUAWGge"
+      },
+      "artists": [
+        {
+          "name": "Criss Calisto",
+          "url": "https://open.spotify.com/artist/1GDc3UxzZppUck4qre7QAX"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172250,
+      "name": "Qualquer Hora",
+      "url": "https://open.spotify.com/track/0BSU8iPYumjAXX7PNXqVjc"
     },
     {
       "album": {
@@ -4088,7 +4178,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 218858,
       "name": "Sonhei Contigo",
       "url": "https://open.spotify.com/track/3mK8dCBQozqTunFC0SGmOJ"
@@ -4332,6 +4422,24 @@
       "duration_ms": 173006,
       "name": "Tu \u00c9s Capaz",
       "url": "https://open.spotify.com/track/7FWthtHNaVxbg5C1aQ68Fl"
+    },
+    {
+      "album": {
+        "name": "Lado B",
+        "url": "https://open.spotify.com/album/780bbZiIrlRxajxdAq4mci"
+      },
+      "artists": [
+        {
+          "name": "Blaya",
+          "url": "https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183551,
+      "name": "Txi Amo",
+      "url": "https://open.spotify.com/track/3PI0HRdiHb0r60w44bmO8Z"
     },
     {
       "album": {

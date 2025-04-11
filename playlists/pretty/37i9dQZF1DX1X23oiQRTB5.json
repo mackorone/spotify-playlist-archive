@@ -1,15 +1,39 @@
 {
-  "description": "Rim'k & SDM au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
-  "num_followers": 1561056,
+  "description": "Werenoi, Damso & Ninho au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "num_followers": 1561197,
   "original_name": "PVNCHLNRS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+8FBgAAAACukhF6yL60j8N0kpk65IQC",
+  "snapshot_id": "Z/g/aAAAAACIceCGzRj36fUCr3KW5CiD",
   "tracks": [
     {
-      "added_at": "2025-04-03 22:00:38",
+      "added_at": "2025-04-10 22:00:08",
+      "album": {
+        "name": "Diamant Noir",
+        "url": "https://open.spotify.com/album/7LNFnwCFOuBNmlLwywpT3q"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        },
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "Triple V",
+      "url": "https://open.spotify.com/track/6e1T28Wkr7r8xciTXcwhKJ"
+    },
+    {
+      "added_at": "2025-04-10 22:00:08",
       "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/45Z2w3ADwNkPE6kTRpm2P4"
@@ -29,7 +53,71 @@
       "url": "https://open.spotify.com/track/2UntklImLREdP8pMAzr4c4"
     },
     {
-      "added_at": "2025-04-03 22:00:38",
+      "added_at": "2025-04-10 22:00:08",
+      "album": {
+        "name": "Sexy Woman",
+        "url": "https://open.spotify.com/album/2xnmWvqnvQSffJ3OxnJpHZ"
+      },
+      "artists": [
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "duration_ms": 151168,
+      "name": "Sexy Woman",
+      "url": "https://open.spotify.com/track/3rcYxqjhN14IdYmRwfWhbi"
+    },
+    {
+      "added_at": "2025-04-10 22:00:08",
+      "album": {
+        "name": "Depuis le temps (Pour la miff)",
+        "url": "https://open.spotify.com/album/1zms2t58lsrP5iyn1twb1J"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "duration_ms": 176248,
+      "name": "Ca parle mal",
+      "url": "https://open.spotify.com/track/1nRGR8rKXQXKyzsewi6bXZ"
+    },
+    {
+      "added_at": "2025-04-10 22:00:08",
+      "album": {
+        "name": "P\u00e9tunias",
+        "url": "https://open.spotify.com/album/1xF3GugX1r1Jj3xsljohcv"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "duration_ms": 211239,
+      "name": "P\u00e9tunias",
+      "url": "https://open.spotify.com/track/4csiR0voWHzg46BFnQZ0kp"
+    },
+    {
+      "added_at": "2025-04-10 22:00:08",
+      "album": {
+        "name": "C'EST RELOU",
+        "url": "https://open.spotify.com/album/2s4PgkJiWCVMkEpDQ5ASHq"
+      },
+      "artists": [
+        {
+          "name": "R2",
+          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
+        }
+      ],
+      "duration_ms": 120894,
+      "name": "C'EST RELOU",
+      "url": "https://open.spotify.com/track/5tbdseHNGNzlzcR0uo7epR"
+    },
+    {
+      "added_at": "2025-04-10 22:00:08",
       "album": {
         "name": "No stress",
         "url": "https://open.spotify.com/album/0NR9FSagCbEPnkwIBVTnNd"
@@ -53,23 +141,7 @@
       "url": "https://open.spotify.com/track/7jPBHQ9vRgMxjRcREZKKGI"
     },
     {
-      "added_at": "2025-04-03 22:00:38",
-      "album": {
-        "name": "P\u00e9tunias",
-        "url": "https://open.spotify.com/album/1xF3GugX1r1Jj3xsljohcv"
-      },
-      "artists": [
-        {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        }
-      ],
-      "duration_ms": 211239,
-      "name": "P\u00e9tunias",
-      "url": "https://open.spotify.com/track/4csiR0voWHzg46BFnQZ0kp"
-    },
-    {
-      "added_at": "2025-04-03 22:00:38",
+      "added_at": "2025-04-10 22:00:08",
       "album": {
         "name": "BDLM VOL.1",
         "url": "https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa"
@@ -93,23 +165,23 @@
       "url": "https://open.spotify.com/track/6JCjcuo4VKAP4bHhbHj6fe"
     },
     {
-      "added_at": "2025-04-03 22:00:38",
+      "added_at": "2025-04-10 22:00:08",
       "album": {
-        "name": "Sexy Woman",
-        "url": "https://open.spotify.com/album/2xnmWvqnvQSffJ3OxnJpHZ"
+        "name": "A LA VIE A LA MORT",
+        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
       },
       "artists": [
         {
-          "name": "La Mano 1.9",
-          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
         }
       ],
-      "duration_ms": 151168,
-      "name": "Sexy Woman",
-      "url": "https://open.spotify.com/track/3rcYxqjhN14IdYmRwfWhbi"
+      "duration_ms": 183813,
+      "name": "CARTIER SANTOS",
+      "url": "https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN"
     },
     {
-      "added_at": "2025-04-03 22:00:38",
+      "added_at": "2025-04-10 22:00:08",
       "album": {
         "name": "GOAT",
         "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
@@ -129,23 +201,7 @@
       "url": "https://open.spotify.com/track/5SLs7GOdSvWhbxxJkTqf2u"
     },
     {
-      "added_at": "2025-04-03 22:00:38",
-      "album": {
-        "name": "Depuis le temps (Pour la miff)",
-        "url": "https://open.spotify.com/album/1zms2t58lsrP5iyn1twb1J"
-      },
-      "artists": [
-        {
-          "name": "Bouss",
-          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
-        }
-      ],
-      "duration_ms": 176248,
-      "name": "Ca parle mal",
-      "url": "https://open.spotify.com/track/1nRGR8rKXQXKyzsewi6bXZ"
-    },
-    {
-      "added_at": "2025-04-03 22:00:38",
+      "added_at": "2025-04-10 22:00:08",
       "album": {
         "name": "Black House",
         "url": "https://open.spotify.com/album/0RUlByO4JNPRUWBVJPCJnb"
@@ -165,23 +221,7 @@
       "url": "https://open.spotify.com/track/1Rn5zyHq4ocm7L5LSplVAB"
     },
     {
-      "added_at": "2025-04-03 22:00:38",
-      "album": {
-        "name": "C'EST RELOU",
-        "url": "https://open.spotify.com/album/2s4PgkJiWCVMkEpDQ5ASHq"
-      },
-      "artists": [
-        {
-          "name": "R2",
-          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
-        }
-      ],
-      "duration_ms": 120894,
-      "name": "C'EST RELOU",
-      "url": "https://open.spotify.com/track/5tbdseHNGNzlzcR0uo7epR"
-    },
-    {
-      "added_at": "2025-04-03 22:00:38",
+      "added_at": "2025-04-10 22:00:08",
       "album": {
         "name": "Hakayet",
         "url": "https://open.spotify.com/album/7Hd8VNqE8T9eK13RUSsWQC"
@@ -197,7 +237,7 @@
       "url": "https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um"
     },
     {
-      "added_at": "2025-04-03 22:00:38",
+      "added_at": "2025-04-10 22:00:08",
       "album": {
         "name": "Saturday",
         "url": "https://open.spotify.com/album/5GN4mZzXqHUBFOgczhJjwM"
@@ -213,7 +253,7 @@
       "url": "https://open.spotify.com/track/6cZn5XS7yHFQ2QUl2noKKw"
     },
     {
-      "added_at": "2025-04-03 22:00:38",
+      "added_at": "2025-04-10 22:00:08",
       "album": {
         "name": "N\u00e9s Pour Briller : Book I",
         "url": "https://open.spotify.com/album/4pkxr9kk78jM6pX5sIS29b"
@@ -237,7 +277,39 @@
       "url": "https://open.spotify.com/track/48Lf3BlGjy9I6505nEwWNl"
     },
     {
-      "added_at": "2025-04-03 22:00:38",
+      "added_at": "2025-04-10 22:00:08",
+      "album": {
+        "name": "BARCOLA",
+        "url": "https://open.spotify.com/album/3LeimKCyYLLbm33aSI1y3G"
+      },
+      "artists": [
+        {
+          "name": "La Hasba22",
+          "url": "https://open.spotify.com/artist/4lb9cT2fdVU8h1YDoBPy1o"
+        }
+      ],
+      "duration_ms": 165076,
+      "name": "BARCOLA",
+      "url": "https://open.spotify.com/track/7dQieA4pEOUV2G9s3jkEX6"
+    },
+    {
+      "added_at": "2025-04-10 22:00:08",
+      "album": {
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/5liQLBq8NJehtloLa2jxv5"
+      },
+      "artists": [
+        {
+          "name": "Landy",
+          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
+        }
+      ],
+      "duration_ms": 200548,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/5OVeMW8NMzEIcup7Gi2kyZ"
+    },
+    {
+      "added_at": "2025-04-10 22:00:08",
       "album": {
         "name": "LA MELO EST DANS LA BOUNCE",
         "url": "https://open.spotify.com/album/662O3guwgkETCs4FcQ9dCi"
@@ -257,39 +329,39 @@
       "url": "https://open.spotify.com/track/6gwT3UA1hjbwT9Pfg0CMXK"
     },
     {
-      "added_at": "2025-04-03 22:00:38",
+      "added_at": "2025-04-10 22:00:08",
       "album": {
-        "name": "A LA VIE A LA MORT",
-        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
+        "name": "APOCALYPSE",
+        "url": "https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9"
       },
       "artists": [
         {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
-      "duration_ms": 183813,
-      "name": "CARTIER SANTOS",
-      "url": "https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN"
+      "duration_ms": 217693,
+      "name": "NANANI NANANA",
+      "url": "https://open.spotify.com/track/0qlYaRFGvgR6afy1f4BBwD"
     },
     {
-      "added_at": "2025-04-03 22:00:38",
+      "added_at": "2025-04-10 22:00:08",
       "album": {
-        "name": "Wow",
-        "url": "https://open.spotify.com/album/5liQLBq8NJehtloLa2jxv5"
+        "name": "I'M SORRY",
+        "url": "https://open.spotify.com/album/2h3yOY17ak9LUJs57SPdn6"
       },
       "artists": [
         {
-          "name": "Landy",
-          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
         }
       ],
-      "duration_ms": 200548,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/5OVeMW8NMzEIcup7Gi2kyZ"
+      "duration_ms": 152571,
+      "name": "I'M SORRY",
+      "url": "https://open.spotify.com/track/2ynH9ETEo4OgLxNLJrcMKP"
     },
     {
-      "added_at": "2025-04-03 22:00:38",
+      "added_at": "2025-04-10 22:00:08",
       "album": {
         "name": "Menace fant\u00f4me",
         "url": "https://open.spotify.com/album/4JDCDU67E3f2sndYBPtBT0"
@@ -305,63 +377,7 @@
       "url": "https://open.spotify.com/track/0mYMXqqxLjGTjh5ivcfbNL"
     },
     {
-      "added_at": "2025-04-03 22:00:38",
-      "album": {
-        "name": "PANDEMONIUM",
-        "url": "https://open.spotify.com/album/5HATOAKIjRUr7vpZTF91YM"
-      },
-      "artists": [
-        {
-          "name": "Vald",
-          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
-        }
-      ],
-      "duration_ms": 260252,
-      "name": "DIEU MERCI",
-      "url": "https://open.spotify.com/track/3BgCXkXF6K6pwi9RZrzPDp"
-    },
-    {
-      "added_at": "2025-04-03 22:00:38",
-      "album": {
-        "name": "EL GEMANO",
-        "url": "https://open.spotify.com/album/7MNh4XFiOSs4hHUkeGkfr4"
-      },
-      "artists": [
-        {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
-        },
-        {
-          "name": "La Mano 1.9",
-          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "EL GEMANO",
-      "url": "https://open.spotify.com/track/2s0ECLNrusYkBud3ZuoVrc"
-    },
-    {
-      "added_at": "2025-04-03 22:00:38",
-      "album": {
-        "name": "La Pluie",
-        "url": "https://open.spotify.com/album/2OKLI9R3wAUhLghQ9u0FaZ"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        },
-        {
-          "name": "Dinos",
-          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "La Pluie",
-      "url": "https://open.spotify.com/track/2PcRPX3wHqfNYCo7gmD4Zp"
-    },
-    {
-      "added_at": "2025-04-03 22:00:38",
+      "added_at": "2025-04-10 22:00:08",
       "album": {
         "name": "TOKA",
         "url": "https://open.spotify.com/album/0HlEoKZA4pKYoae4zRWu7g"
@@ -381,167 +397,47 @@
       "url": "https://open.spotify.com/track/21YPieevMdQW57QSU9vHEl"
     },
     {
-      "added_at": "2025-04-03 22:00:38",
+      "added_at": "2025-04-10 22:00:08",
       "album": {
-        "name": "NONCHALANT 3",
-        "url": "https://open.spotify.com/album/2iSw6vsvRZB0bmNOz232zv"
+        "name": "La Pluie",
+        "url": "https://open.spotify.com/album/2OKLI9R3wAUhLghQ9u0FaZ"
       },
       "artists": [
         {
-          "name": "La Chine",
-          "url": "https://open.spotify.com/artist/1uUulBiIlV1H36pgq2QpY0"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "NONCHALANT 3",
-      "url": "https://open.spotify.com/track/2XzF8Lst0VqUdHHB67lWde"
-    },
-    {
-      "added_at": "2025-04-03 22:00:38",
-      "album": {
-        "name": "Vanilla",
-        "url": "https://open.spotify.com/album/7CEAbEtewQUsHHRbGsuIvL"
-      },
-      "artists": [
-        {
-          "name": "VEN1",
-          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         },
-        {
-          "name": "Ramos.",
-          "url": "https://open.spotify.com/artist/5xfBWklmIwTOoijr3nMgHB"
-        }
-      ],
-      "duration_ms": 187810,
-      "name": "Vanilla",
-      "url": "https://open.spotify.com/track/71vWRlfHefIMtoDnUPtXcf"
-    },
-    {
-      "added_at": "2025-04-03 22:00:38",
-      "album": {
-        "name": "APOCALYPSE",
-        "url": "https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9"
-      },
-      "artists": [
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 217693,
-      "name": "NANANI NANANA",
-      "url": "https://open.spotify.com/track/0qlYaRFGvgR6afy1f4BBwD"
-    },
-    {
-      "added_at": "2025-04-03 22:00:38",
-      "album": {
-        "name": "PERFORMANTE",
-        "url": "https://open.spotify.com/album/3ChDknRV7QXyj9hG8HWGAR"
-      },
-      "artists": [
         {
           "name": "Dinos",
           "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        }
+      ],
+      "duration_ms": 235666,
+      "name": "La Pluie",
+      "url": "https://open.spotify.com/track/2PcRPX3wHqfNYCo7gmD4Zp"
+    },
+    {
+      "added_at": "2025-04-10 22:00:08",
+      "album": {
+        "name": "EL GEMANO",
+        "url": "https://open.spotify.com/album/7MNh4XFiOSs4hHUkeGkfr4"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
         },
-        {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        }
-      ],
-      "duration_ms": 206194,
-      "name": "PERFORMANTE",
-      "url": "https://open.spotify.com/track/2SVjgOVxvQPzdOcATrtMOt"
-    },
-    {
-      "added_at": "2025-04-03 22:00:38",
-      "album": {
-        "name": "JVLIVS III : Ad Finem",
-        "url": "https://open.spotify.com/album/6pWHaxvJmknxpUnWh6TcaJ"
-      },
-      "artists": [
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        },
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "02:00",
-      "url": "https://open.spotify.com/track/62L3acprR92NoRib0zWigG"
-    },
-    {
-      "added_at": "2025-04-03 22:00:38",
-      "album": {
-        "name": "15",
-        "url": "https://open.spotify.com/album/4HAWT9gg8vtNDnbi9kzb02"
-      },
-      "artists": [
-        {
-          "name": "AMK",
-          "url": "https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi"
-        }
-      ],
-      "duration_ms": 192182,
-      "name": "Malya",
-      "url": "https://open.spotify.com/track/4kmGM0IbzDPr2rT1nehI1r"
-    },
-    {
-      "added_at": "2025-04-03 22:00:38",
-      "album": {
-        "name": "I'M SORRY",
-        "url": "https://open.spotify.com/album/2h3yOY17ak9LUJs57SPdn6"
-      },
-      "artists": [
         {
           "name": "La Mano 1.9",
           "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
         }
       ],
-      "duration_ms": 152571,
-      "name": "I'M SORRY",
-      "url": "https://open.spotify.com/track/2ynH9ETEo4OgLxNLJrcMKP"
+      "duration_ms": 248000,
+      "name": "EL GEMANO",
+      "url": "https://open.spotify.com/track/2s0ECLNrusYkBud3ZuoVrc"
     },
     {
-      "added_at": "2025-04-03 22:00:38",
-      "album": {
-        "name": "Bolide Noir",
-        "url": "https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        },
-        {
-          "name": "JRK 19",
-          "url": "https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "Bolide Noir",
-      "url": "https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE"
-    },
-    {
-      "added_at": "2025-04-03 22:00:38",
-      "album": {
-        "name": "SENTIMENTS BILLETS DE 100",
-        "url": "https://open.spotify.com/album/4tasoVoVkD2w1jhJBHdIGW"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 128437,
-      "name": "SENTIMENTS BILLETS DE 100",
-      "url": "https://open.spotify.com/track/76cLUsBm9nexhPSSYo3vo4"
-    },
-    {
-      "added_at": "2025-04-03 22:00:38",
+      "added_at": "2025-04-10 22:00:08",
       "album": {
         "name": "MANON B",
         "url": "https://open.spotify.com/album/4kaRXOJNgAAa3Odl6ojLBf"
@@ -565,23 +461,79 @@
       "url": "https://open.spotify.com/track/2PYlRGF5Wi5sDobsLH5gLX"
     },
     {
-      "added_at": "2025-04-03 22:00:38",
+      "added_at": "2025-04-10 22:00:08",
       "album": {
-        "name": "A LA VIE A LA MORT",
-        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
+        "name": "Bolide Noir",
+        "url": "https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW"
       },
       "artists": [
         {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "JRK 19",
+          "url": "https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz"
         }
       ],
-      "duration_ms": 179034,
-      "name": "POUR ELLE",
-      "url": "https://open.spotify.com/track/5jX61gvbNenSDMldQrbtsU"
+      "duration_ms": 170800,
+      "name": "Bolide Noir",
+      "url": "https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE"
     },
     {
-      "added_at": "2025-04-03 22:00:38",
+      "added_at": "2025-04-10 22:00:08",
+      "album": {
+        "name": "Vanilla",
+        "url": "https://open.spotify.com/album/7CEAbEtewQUsHHRbGsuIvL"
+      },
+      "artists": [
+        {
+          "name": "VEN1",
+          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
+        },
+        {
+          "name": "Ramos.",
+          "url": "https://open.spotify.com/artist/5xfBWklmIwTOoijr3nMgHB"
+        }
+      ],
+      "duration_ms": 187810,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/71vWRlfHefIMtoDnUPtXcf"
+    },
+    {
+      "added_at": "2025-04-10 22:00:08",
+      "album": {
+        "name": "NONCHALANT 3",
+        "url": "https://open.spotify.com/album/2iSw6vsvRZB0bmNOz232zv"
+      },
+      "artists": [
+        {
+          "name": "La Chine",
+          "url": "https://open.spotify.com/artist/1uUulBiIlV1H36pgq2QpY0"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "NONCHALANT 3",
+      "url": "https://open.spotify.com/track/2XzF8Lst0VqUdHHB67lWde"
+    },
+    {
+      "added_at": "2025-04-10 22:00:08",
+      "album": {
+        "name": "Capitaine fait de l'art",
+        "url": "https://open.spotify.com/album/05YqDGZ0w5GCfvLb7TMoKT"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "J\u2019crois qu\u2019ils ont pas compris",
+      "url": "https://open.spotify.com/track/3KmGOpeFaltoCpzRAyrZJg"
+    },
+    {
+      "added_at": "2025-04-10 22:00:08",
       "album": {
         "name": "FREE CONGO",
         "url": "https://open.spotify.com/album/1hLPzmMntzpYy2Ajp9Ba5s"
@@ -617,7 +569,79 @@
       "url": "https://open.spotify.com/track/6RAYjbw8M4gZ5lkZKipWFC"
     },
     {
-      "added_at": "2025-04-03 22:00:38",
+      "added_at": "2025-04-10 22:00:08",
+      "album": {
+        "name": "PERFORMANTE",
+        "url": "https://open.spotify.com/album/3ChDknRV7QXyj9hG8HWGAR"
+      },
+      "artists": [
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        },
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "duration_ms": 206194,
+      "name": "PERFORMANTE",
+      "url": "https://open.spotify.com/track/2SVjgOVxvQPzdOcATrtMOt"
+    },
+    {
+      "added_at": "2025-04-10 22:00:08",
+      "album": {
+        "name": "A LA VIE A LA MORT",
+        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 179034,
+      "name": "POUR ELLE",
+      "url": "https://open.spotify.com/track/5jX61gvbNenSDMldQrbtsU"
+    },
+    {
+      "added_at": "2025-04-10 22:00:08",
+      "album": {
+        "name": "JVLIVS III : Ad Finem",
+        "url": "https://open.spotify.com/album/6pWHaxvJmknxpUnWh6TcaJ"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        },
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "02:00",
+      "url": "https://open.spotify.com/track/62L3acprR92NoRib0zWigG"
+    },
+    {
+      "added_at": "2025-04-10 22:00:08",
+      "album": {
+        "name": "SENTIMENTS BILLETS DE 100",
+        "url": "https://open.spotify.com/album/4tasoVoVkD2w1jhJBHdIGW"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 128437,
+      "name": "SENTIMENTS BILLETS DE 100",
+      "url": "https://open.spotify.com/track/76cLUsBm9nexhPSSYo3vo4"
+    },
+    {
+      "added_at": "2025-04-10 22:00:08",
       "album": {
         "name": "La famine",
         "url": "https://open.spotify.com/album/3fa90kfI5lBTVqqc26i91e"
@@ -637,27 +661,7 @@
       "url": "https://open.spotify.com/track/5l6wXzGQXn8TemEVlCraLR"
     },
     {
-      "added_at": "2025-04-03 22:00:38",
-      "album": {
-        "name": "RODEO DRIVE (feat. Hamza)",
-        "url": "https://open.spotify.com/album/7KJcR218DxsTSr2RpVgYTK"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 145785,
-      "name": "RODEO DRIVE (feat. Hamza)",
-      "url": "https://open.spotify.com/track/2IiCeifwD1U5cvb5rgUh6g"
-    },
-    {
-      "added_at": "2025-04-03 22:00:38",
+      "added_at": "2025-04-10 22:00:08",
       "album": {
         "name": "Hockey",
         "url": "https://open.spotify.com/album/1PrqiKF6u3ZLcpovFpM1DF"
@@ -677,7 +681,27 @@
       "url": "https://open.spotify.com/track/7JhBNpwEKPNTma5zmyVL9L"
     },
     {
-      "added_at": "2025-04-03 22:00:38",
+      "added_at": "2025-04-10 22:00:08",
+      "album": {
+        "name": "ORIGINAL GANGSTA",
+        "url": "https://open.spotify.com/album/4Co5H8hYfGAlVhfycX5VMR"
+      },
+      "artists": [
+        {
+          "name": "DA Uzi",
+          "url": "https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 149920,
+      "name": "OTF",
+      "url": "https://open.spotify.com/track/7jCrWAQs0l7pA7GiqHxBtm"
+    },
+    {
+      "added_at": "2025-04-10 22:00:08",
       "album": {
         "name": "La pluie",
         "url": "https://open.spotify.com/album/45Rjf429SfK4HXJ5uhRmoG"
@@ -693,27 +717,7 @@
       "url": "https://open.spotify.com/track/2jCTfX2rx7e5uSC17mf8g4"
     },
     {
-      "added_at": "2025-04-03 22:00:38",
-      "album": {
-        "name": "Inarr\u00eatable",
-        "url": "https://open.spotify.com/album/3txmBSGHr4m3ybYbwV0BPM"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        },
-        {
-          "name": "FRANC\u00c8 ZITO",
-          "url": "https://open.spotify.com/artist/3wu9aWmjOwtmN5gh4hjhIO"
-        }
-      ],
-      "duration_ms": 200920,
-      "name": "Capata",
-      "url": "https://open.spotify.com/track/3cJYHDT0jfBt8PLNOsKHZE"
-    },
-    {
-      "added_at": "2025-04-03 22:00:38",
+      "added_at": "2025-04-10 22:00:08",
       "album": {
         "name": "LE PLAN",
         "url": "https://open.spotify.com/album/6y8p3yTNrEfThZXb4KaRLB"
@@ -733,40 +737,40 @@
       "url": "https://open.spotify.com/track/0U7UH2iu2X4pWdlmyY3kSm"
     },
     {
-      "added_at": "2025-04-03 22:00:38",
+      "added_at": "2025-04-10 22:00:08",
       "album": {
-        "name": "Capitaine fait de l'art",
-        "url": "https://open.spotify.com/album/05YqDGZ0w5GCfvLb7TMoKT"
+        "name": "Inarr\u00eatable",
+        "url": "https://open.spotify.com/album/3txmBSGHr4m3ybYbwV0BPM"
       },
       "artists": [
         {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "J\u2019crois qu\u2019ils ont pas compris",
-      "url": "https://open.spotify.com/track/3KmGOpeFaltoCpzRAyrZJg"
-    },
-    {
-      "added_at": "2025-04-03 22:00:38",
-      "album": {
-        "name": "ORIGINAL GANGSTA",
-        "url": "https://open.spotify.com/album/4Co5H8hYfGAlVhfycX5VMR"
-      },
-      "artists": [
-        {
-          "name": "DA Uzi",
-          "url": "https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf"
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
         },
         {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+          "name": "FRANC\u00c8 ZITO",
+          "url": "https://open.spotify.com/artist/3wu9aWmjOwtmN5gh4hjhIO"
         }
       ],
-      "duration_ms": 149920,
-      "name": "OTF",
-      "url": "https://open.spotify.com/track/7jCrWAQs0l7pA7GiqHxBtm"
+      "duration_ms": 200920,
+      "name": "Capata",
+      "url": "https://open.spotify.com/track/3cJYHDT0jfBt8PLNOsKHZE"
+    },
+    {
+      "added_at": "2025-04-10 22:00:08",
+      "album": {
+        "name": "PANDEMONIUM",
+        "url": "https://open.spotify.com/album/5HATOAKIjRUr7vpZTF91YM"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "duration_ms": 260252,
+      "name": "DIEU MERCI",
+      "url": "https://open.spotify.com/track/3BgCXkXF6K6pwi9RZrzPDp"
     }
   ],
   "unique_name": "PVNCHLNRS",

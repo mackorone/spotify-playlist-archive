@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Mei Semones
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,114 likes - 121 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,581 likes - 121 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

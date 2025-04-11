@@ -1,12 +1,12 @@
 {
   "description": "This is Static-X. The essential tracks, all in one playlist.",
-  "num_followers": 39105,
+  "num_followers": 39115,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/RnAAAAAACpePG/7zjSXnT3SLKAJ2SZ",
+  "snapshot_id": "Z/W4gAAAAAC5sJCA3YL/sV9YLgWY+Ipo",
   "tracks": [
     {
       "added_at": null,
@@ -795,18 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cult of Static",
-        "url": "https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc"
+        "name": "Loud Rocks",
+        "url": "https://open.spotify.com/album/5PIDHpTCc6iT5WM2JZzFKu"
       },
       "artists": [
         {
           "name": "Static-X",
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        },
+        {
+          "name": "Dead Prez",
+          "url": "https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD"
         }
       ],
-      "duration_ms": 215693,
-      "name": "Lunatic",
-      "url": "https://open.spotify.com/track/1I4g0zU8WQ73sRd64QPYmw"
+      "duration_ms": 232200,
+      "name": "Hip Hop",
+      "url": "https://open.spotify.com/track/1UCVgSDDlH4vJ0jI4txWXP"
     }
   ],
   "unique_name": "This Is Static-X",

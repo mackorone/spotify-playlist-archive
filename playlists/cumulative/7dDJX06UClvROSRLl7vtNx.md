@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-798 songs - 1 day 10 hr 38 min
+799 songs - 1 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Good Riddance \(Time of Your life\)](https://open.spotify.com/track/20EJtity8DbJwFTYZ9Vrma) | [Oceanside](https://open.spotify.com/artist/5QCwRUSPkHc6uD78wTCcXR), [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA), [Badjack](https://open.spotify.com/artist/40oI86vaTUHgkSGlYkEiLM) | [Good Riddance \(Time of Your life\)](https://open.spotify.com/album/64qq8AP7r60pq6KwNs4JQK) | 1:54 | 2023-09-22 | 2024-02-03 |
 | [Good Things](https://open.spotify.com/track/5qxmfMF4TLYxQcGqQvkhW6) | [ItsLee](https://open.spotify.com/artist/1dq0GAzGi7vIwvcREuVKiZ), [Patrick Aretz](https://open.spotify.com/artist/44bMkU8chE8FJimdH4XyD6) | [Good Things](https://open.spotify.com/album/4wVLJV9yWuz4SED42IBmAY) | 2:04 | 2025-03-01 |  |
 | [Good To Go](https://open.spotify.com/track/5N70iqJHDPTll0GZgSuYf0) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [B Martin](https://open.spotify.com/artist/2qgqyyEyFPuw2KdlYmePgD), [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM) | [Good To Go](https://open.spotify.com/album/4AfuWLlbhVrKN9XTo9jnvx) | 2:24 | 2024-08-08 |  |
+| [Good Vibes](https://open.spotify.com/track/1MOR5ZUWhe7Re4o8ElTily) | [Leavs.](https://open.spotify.com/artist/01SFNHtdp2lGruKBXvujfp), [LU2VYK](https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L) | [Good Vibes](https://open.spotify.com/album/1msniyy1XRCEZWCbJzvGn7) | 2:10 | 2025-04-10 |  |
 | [Good Vibes](https://open.spotify.com/track/6iM5YlBhftinw3qHJdd2qp) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo), [madugo](https://open.spotify.com/artist/5NstYi6AvKAVD0kroo0QVC) | [Good Vibes](https://open.spotify.com/album/6Z2rNJgd3Y3WdOpDjHTGjk) | 1:49 | 2023-09-22 |  |
 | [Got This Feeling](https://open.spotify.com/track/5WkrXPFs3gene3t5pkbNHn) | [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU), [Xiam](https://open.spotify.com/artist/6W0fy0QYg158jtGa4cfJ84), [Rukid](https://open.spotify.com/artist/190Yg2nkLySugQt7NXZf5a) | [Got This Feeling](https://open.spotify.com/album/63j7UJjoJaYpFLKD53Je3a) | 3:05 | 2024-01-27 | 2024-02-26 |
 | [Habits \(Stay High\)](https://open.spotify.com/track/3sSCru4RVD7VDTZqY8tfnP) | [SwitchBlade](https://open.spotify.com/artist/2QRk8Z1PWFqLElnr1hfNdi), [Josiah Nichols](https://open.spotify.com/artist/0lRQLoQrjE7zLSlLoh1uk3), [Emily Esthela](https://open.spotify.com/artist/57Lcf9ctsbED1NUgc0ppNx) | [Habits \(Stay High\)](https://open.spotify.com/album/2gXz5SdfkaUc6n1P2Wx7se) | 2:31 | 2025-03-01 |  |

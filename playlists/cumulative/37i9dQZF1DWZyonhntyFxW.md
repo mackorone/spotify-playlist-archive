@@ -4,7 +4,7 @@
 
 > إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف:  أرسينيك وأبو الأنوار
 
-385 songs - 18 hr 55 min
+386 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Gezira](https://open.spotify.com/track/2ieg6nYrdrI4Em8nDV3Ddh) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Gezira](https://open.spotify.com/album/7mt8YfjiZViWN7hSqAOEMk) | 3:13 | 2023-04-11 | 2024-04-10 |
 | [Ghi T9al \(Et2al\)](https://open.spotify.com/track/4MXfLQoPe89uPqVd7NApfn) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [٤in](https://open.spotify.com/album/0JtymU6pdB083UYEXKwOS9) | 3:38 | 2023-01-04 | 2023-05-12 |
 | [Ghi T9al \(Et2al\)](https://open.spotify.com/track/3L19EYCeRURGzbIVMjCkLx) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [٤in \(Act 1\)](https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW) | 3:38 | 2022-10-25 | 2023-01-06 |
+| [GHOSTS \- عفاريت](https://open.spotify.com/track/4ECrYJfLoueQVda5n8fDrz) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [MSH GNENT L B2R](https://open.spotify.com/album/7rNBXfSN3oczTykIyJVX01) | 3:00 | 2025-04-10 |  |
 | [GHOYOUM](https://open.spotify.com/track/304utXC7fLHXEv1k2vFqQd) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [El Sahaba](https://open.spotify.com/album/3YLhKiHp1tyCZWM5OnkpPt) | 2:41 | 2022-10-10 | 2022-11-08 |
 | [Guardiola](https://open.spotify.com/track/29YCDHtUuXgOLUvmQnoKE0) | [Dzel Uzi](https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK) | [Manchester City](https://open.spotify.com/album/1RBSS6HP2nI5x8RkqGBoqt) | 2:19 | 2024-01-05 | 2024-01-31 |
 | [Ha3](https://open.spotify.com/track/0XDa7oQORZ84HOwEaVViTk) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87) | [Ha3](https://open.spotify.com/album/7kNRMUfT3gSybpSVTdE31r) | 2:11 | 2022-09-30 | 2023-01-27 |
@@ -287,7 +288,7 @@
 | [SHIKA NOVA](https://open.spotify.com/track/46VhFX6FT3efqbJPHB8pA0) | [Shikago](https://open.spotify.com/artist/54LaKdog6976vaviJ1JoWH), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [3AWDAT EL FA2DAN](https://open.spotify.com/album/4atXm6afwu07xZgmEULnBO) | 1:52 | 2024-12-11 |  |
 | [SHOGHLA](https://open.spotify.com/track/1KHa1gCcw1OV9GVSt1guUo) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [TALATINI](https://open.spotify.com/album/3XXEwsNnwu51uUm1wokMcv) | 3:01 | 2024-09-05 | 2025-02-20 |
 | [SKIN](https://open.spotify.com/track/4EwSe0EnXry3Zh3cyFfHWn) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [MESAMA3EEN](https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo) | 2:34 | 2023-01-25 | 2023-06-19 |
-| [Sorry](https://open.spotify.com/track/6PUgP7EVd2kuemrvGiJT8n) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Sorry](https://open.spotify.com/album/5PerU9NkGwnrhzvyZkswGp) | 1:42 | 2024-04-13 |  |
+| [Sorry](https://open.spotify.com/track/6PUgP7EVd2kuemrvGiJT8n) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Sorry](https://open.spotify.com/album/5PerU9NkGwnrhzvyZkswGp) | 1:42 | 2024-04-13 | 2025-04-11 |
 | [Sou2 El Cassette](https://open.spotify.com/track/0rcmK0SOLV0AjOFeWAxZD3) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [Sou2 El Cassette](https://open.spotify.com/album/5viBtz4OjlluWWxNXqUnmb) | 2:43 | 2022-05-10 | 2022-06-21 |
 | [Star](https://open.spotify.com/track/1jYpuALqMGpGhbFkPxU8no) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Star](https://open.spotify.com/album/5Q4Je1QV2U4aSOlNTYkdOf) | 3:19 | 2022-05-10 | 2023-02-24 |
 | [Star W Mayhemosh \(Freedom Music\)](https://open.spotify.com/track/0kK6Ew7B4FiS2LUrO9Uw1D) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Randar](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk), [Alyoung](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C) | [Star W Mayhemosh \(Freedom Music\)](https://open.spotify.com/album/1dQbyN9XSJFNgxxiJsLEhX) | 3:01 | 2023-09-02 | 2023-10-01 |

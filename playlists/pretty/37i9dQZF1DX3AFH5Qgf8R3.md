@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AFH5Qgf8R3.md) - [plain]
 
 > Get ready for the upcoming show by listening to the cast's best songs! \(公演出演陣のベスト曲を聴きながら、今後の公演を準備してみてください！\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 266 likes - 30 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 310 likes - 30 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7l9UKjnGuGw5ZR7Lw66uIe.md) - [plain]
 
 > 
 
-[Mert Çodur](https://open.spotify.com/user/mertcodur) - 175 likes - 26 songs - 1 hr 11 min
+[Mert Çodur](https://open.spotify.com/user/mertcodur) - 175 likes - 24 songs - 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,12 +27,10 @@ pretty - [cumulative](/playlists/cumulative/7l9UKjnGuGw5ZR7Lw66uIe.md) - [plain]
 | 17 | [ZAR ZOR](https://open.spotify.com/track/7i3U8xnLEtkzzsetcu4j7s) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [ZAR ZOR](https://open.spotify.com/album/3RwVkeAdTEEs5JU4xQ34y7) | 2:31 |
 | 18 | [sadaka](https://open.spotify.com/track/1WPTVorQB3KN3tOFIfhRdc) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [sadaka](https://open.spotify.com/album/1hvfoWCce60Ymw4OwGaToA) | 2:25 |
 | 19 | [yarım kalan](https://open.spotify.com/track/0N4YwNQ0LkAF2YhIF8CbSF) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [yarım kalan](https://open.spotify.com/album/5ovP7lEu6WG2NUAwLuRtVQ) | 2:33 |
-| 20 | [ZAR ZOR \(Aytaç Kart Remix\) \(feat\. Aytac Kart\)](https://open.spotify.com/track/1H4qxPotx1YuUacESzS6E3) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg), [Aytac Kart](https://open.spotify.com/artist/66AHlsRl8ONmvQCiuVIdJ3) | [ZAR ZOR \(Aytaç Kart Remix\) \(feat\. Aytac Kart\)](https://open.spotify.com/album/51kSkawyx2mHLBEAmu3tBl) | 2:49 |
-| 21 | [Tövbeliyim Aşka](https://open.spotify.com/track/4LSKSucAzSNrFSkAWVygP4) | [İrem Güral](https://open.spotify.com/artist/6vMZEfgYfCpbiSUglUbDE6) | [Tövbeliyim Aşka](https://open.spotify.com/album/4uaaAsrpQFHmVvuJuLKzti) | 3:28 |
-| 22 | [Harbiden](https://open.spotify.com/track/61P518MTME02qGi6MeTmYm) | [Cengiz Ateş](https://open.spotify.com/artist/6XsUIOewd3g4mNOwFXpNFy) | [Harbiden](https://open.spotify.com/album/0c8ArZ4B9F6iZaEveRiRR4) | 3:02 |
-| 23 | [Rüzgar](https://open.spotify.com/track/75LtlhYeSASffU7076kxqX) | [Cansu Esin](https://open.spotify.com/artist/1uoDHmd2nPKxqxh1bDKU6j) | [Rüzgar](https://open.spotify.com/album/7aGfnRVxMdMgaKKiHi4Nvw) | 3:06 |
-| 24 | [Run Away](https://open.spotify.com/track/0cRScHsQm04Ixe51G7Dlhv) | [Deniz Love](https://open.spotify.com/artist/57W6Cmd3iSCaqBY54OHpFf), [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [ALL WAVES PASS](https://open.spotify.com/album/57PNNEArDk6lSAnGyye4dh) | 3:27 |
-| 25 | [Harbi Güzel \- Emrah Karaduman Remix](https://open.spotify.com/track/5ioJr9L1UpYqQEvjrWVVvJ) | [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh), [Emrah Karaduman](https://open.spotify.com/artist/7FvMAbdiffitFmbuJN3Vsk) | [Harbi Güzel \(Emrah Karaduman Remix\)](https://open.spotify.com/album/46nvIR1gkyEHyKlrMkdDLr) | 2:54 |
-| 26 | [Vurgunum](https://open.spotify.com/track/1c6eJEK4sM98qjRcHkswQf) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Vurgunum](https://open.spotify.com/album/5KGbhBsixH1hWtN3Rwjt7K) | 2:06 |
+| 20 | [Tövbeliyim Aşka](https://open.spotify.com/track/4LSKSucAzSNrFSkAWVygP4) | [İrem Güral](https://open.spotify.com/artist/6vMZEfgYfCpbiSUglUbDE6) | [Tövbeliyim Aşka](https://open.spotify.com/album/4uaaAsrpQFHmVvuJuLKzti) | 3:28 |
+| 21 | [Harbiden](https://open.spotify.com/track/61P518MTME02qGi6MeTmYm) | [Cengiz Ateş](https://open.spotify.com/artist/6XsUIOewd3g4mNOwFXpNFy) | [Harbiden](https://open.spotify.com/album/0c8ArZ4B9F6iZaEveRiRR4) | 3:02 |
+| 22 | [Rüzgar](https://open.spotify.com/track/75LtlhYeSASffU7076kxqX) | [Cansu Esin](https://open.spotify.com/artist/1uoDHmd2nPKxqxh1bDKU6j) | [Rüzgar](https://open.spotify.com/album/7aGfnRVxMdMgaKKiHi4Nvw) | 3:06 |
+| 23 | [Run Away](https://open.spotify.com/track/0cRScHsQm04Ixe51G7Dlhv) | [Deniz Love](https://open.spotify.com/artist/57W6Cmd3iSCaqBY54OHpFf), [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [ALL WAVES PASS](https://open.spotify.com/album/57PNNEArDk6lSAnGyye4dh) | 3:27 |
+| 24 | [Vurgunum](https://open.spotify.com/track/1c6eJEK4sM98qjRcHkswQf) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Vurgunum](https://open.spotify.com/album/5KGbhBsixH1hWtN3Rwjt7K) | 2:06 |
 
-Snapshot ID: `AAAAcIwc8zciWon228qf0ZJDoGfD5HYi`
+Snapshot ID: `AAAAcbvc9b3k+DwGPTMssu8zO+RH/Yjx`

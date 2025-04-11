@@ -2,7 +2,7 @@
 
 ### [Tatak Pinoy](https://open.spotify.com/playlist/37i9dQZF1DX0iFfuXuP4Pm)
 
-> Mga nangunguna sa mundo ng OPM\. Cover: Sugarcane
+> Mga nangunguna sa mundo ng OPM\. Cover: Paham
 
 294 songs - 18 hr 16 min
 

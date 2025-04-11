@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 892 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 893 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
 | 50 | [HE, HE, HE](https://open.spotify.com/track/4gjATTXuqOl7YbkCXtFrBo) | [Fiki](https://open.spotify.com/artist/7JLPN5CklYCRotAvFGw4Q1), [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355) | [HE, HE, HE](https://open.spotify.com/album/7okZKYa6CfJN3wTZfBfvIM) | 3:09 |
 
-Snapshot ID: `L4nioAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L4s0IAAAAAAAAAAAAAAAAAAAAAAAAGVu`

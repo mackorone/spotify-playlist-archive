@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Entre os versos e beats, a palavra do Senhor. Foto: Lecrae, Lukas Agustinho",
+  "description": "Entre os versos e beats, a palavra do Senhor. Foto: 2metro",
   "name": "Gospel Flow",
   "tracks": [
     {
@@ -1724,7 +1724,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 158107,
       "name": "Contram\u00e3o",
       "url": "https://open.spotify.com/track/0CYhyFXV2duXs8VBxTmz4W"
@@ -2072,7 +2072,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 164968,
       "name": "Dan\u00e7a Da Vit\u00f3ria",
       "url": "https://open.spotify.com/track/3qRd8VGOUR7AmTYFvKWGTW"
@@ -4933,6 +4933,24 @@
     },
     {
       "album": {
+        "name": "Leviano",
+        "url": "https://open.spotify.com/album/7BnX5zopZrtfk0mH00GPeC"
+      },
+      "artists": [
+        {
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100552,
+      "name": "Leviano",
+      "url": "https://open.spotify.com/track/0Zuk8ANp2Y1DvgjfDiwU9f"
+    },
+    {
+      "album": {
         "name": "Like Mike",
         "url": "https://open.spotify.com/album/41HvJgefgvHOBHDS2sqPnx"
       },
@@ -5398,6 +5416,28 @@
       "duration_ms": 152619,
       "name": "Me Sustenta",
       "url": "https://open.spotify.com/track/7yDpnr91TkMNfFEVZdynrT"
+    },
+    {
+      "album": {
+        "name": "Medo",
+        "url": "https://open.spotify.com/album/4Wep3P2OJihAOvsWbXIMm0"
+      },
+      "artists": [
+        {
+          "name": "Thiag\u00e3o",
+          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+        },
+        {
+          "name": "ULTRA FACE",
+          "url": "https://open.spotify.com/artist/6ActLE7hUyGQT3k6Ne1llH"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272230,
+      "name": "Medo",
+      "url": "https://open.spotify.com/track/1DfElz56bAKqzyxNGqR30v"
     },
     {
       "album": {

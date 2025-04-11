@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Aftertaste (MUNA Remix)",
+        "url": "https://open.spotify.com/album/6rk50SCI6pzLMkwQ1CSjXI"
+      },
+      "artists": [
+        {
+          "name": "Katie Gavin",
+          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232360,
+      "name": "Aftertaste - MUNA Remix",
+      "url": "https://open.spotify.com/track/2MkrZcor4Y8Ux8V3qRp5VO"
+    },
+    {
+      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },

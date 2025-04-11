@@ -1,6 +1,6 @@
 {
   "description": "Uppt\u00e4ck l\u00e5tar fr\u00e5n 2024 som du kanske har missat.",
-  "num_followers": 1335,
+  "num_followers": 1333,
   "original_name": "2024: L\u00e5tarna du missade?",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc"
+      },
+      "artists": [
+        {
+          "name": "Sunnan",
+          "url": "https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh"
+        }
+      ],
+      "duration_ms": 264480,
+      "name": "Nightrun",
+      "url": "https://open.spotify.com/track/4QsFvkrElAa4gbKN2VML5z"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "under isen",
         "url": "https://open.spotify.com/album/0bkkEmllmDysuUwtdPfxiF"
       },
@@ -655,18 +671,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Cinema",
-        "url": "https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc"
+        "name": "B\u00e4ttre dar",
+        "url": "https://open.spotify.com/album/4d4bCgMBBzYLENfsMyHQYo"
       },
       "artists": [
         {
-          "name": "Sunnan",
-          "url": "https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh"
+          "name": "Alex J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE"
         }
       ],
-      "duration_ms": 264480,
-      "name": "Nightrun",
-      "url": "https://open.spotify.com/track/4QsFvkrElAa4gbKN2VML5z"
+      "duration_ms": 161886,
+      "name": "B\u00e4ttre dar",
+      "url": "https://open.spotify.com/track/3r500SBGbGkEDUCtBaN5rC"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -699,22 +715,6 @@
       "duration_ms": 160000,
       "name": "Veins",
       "url": "https://open.spotify.com/track/3mpWWS9JlRWiHbxiKV4Vlo"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "B\u00e4ttre dar",
-        "url": "https://open.spotify.com/album/4d4bCgMBBzYLENfsMyHQYo"
-      },
-      "artists": [
-        {
-          "name": "Alex J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE"
-        }
-      ],
-      "duration_ms": 161886,
-      "name": "B\u00e4ttre dar",
-      "url": "https://open.spotify.com/track/3r500SBGbGkEDUCtBaN5rC"
     },
     {
       "added_at": "2024-12-04 12:15:00",

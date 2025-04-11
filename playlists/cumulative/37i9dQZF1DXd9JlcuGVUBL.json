@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/006t5IfX5IGVA19yVoJxaR?si=pZ_UaHelShSJE5e1Ke81rg\">Lisie Basson</a>  ",
+  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/7AbHJtc16ssgYnjxLPj9mS\">Venter</a>  ",
   "name": "Country Musiek",
   "tracks": [
     {
@@ -781,6 +781,24 @@
     },
     {
       "album": {
+        "name": "Deur Die Winters",
+        "url": "https://open.spotify.com/album/7xbqMfdKNRSjGFzzF71uvZ"
+      },
+      "artists": [
+        {
+          "name": "Venter",
+          "url": "https://open.spotify.com/artist/7AbHJtc16ssgYnjxLPj9mS"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222473,
+      "name": "Deur Die Winters",
+      "url": "https://open.spotify.com/track/5kYfjmKb8nUGeTS7YBAslO"
+    },
+    {
+      "album": {
         "name": "DEVIL YOU KNOW",
         "url": "https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM"
       },
@@ -958,7 +976,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 179360,
       "name": "Finish This Drink",
       "url": "https://open.spotify.com/track/2IXB8DfcrFeO75WfEmgu8O"
@@ -980,6 +998,28 @@
       "duration_ms": 174412,
       "name": "First",
       "url": "https://open.spotify.com/track/0GFwR94TMOMi8ev2T39ufA"
+    },
+    {
+      "album": {
+        "name": "Friends Like That (feat. Jason Aldean - Stripped)",
+        "url": "https://open.spotify.com/album/62ildty4IOfNHeZbaYmt06"
+      },
+      "artists": [
+        {
+          "name": "John Morgan",
+          "url": "https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g"
+        },
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Friends Like That - feat. Jason Aldean - Stripped",
+      "url": "https://open.spotify.com/track/5GlUmrVi6AgIFg2CDnblqs"
     },
     {
       "album": {
@@ -1274,7 +1314,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 180000,
       "name": "hold on!",
       "url": "https://open.spotify.com/track/0XKQ1R0PW1Rv2iBg5ni9RV"
@@ -1666,7 +1706,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 205114,
       "name": "Jannaman",
       "url": "https://open.spotify.com/track/7dX2A1tJH11wwrRzQEICLW"
@@ -1846,7 +1886,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 159853,
       "name": "Me Most Nights",
       "url": "https://open.spotify.com/track/4BvaS7w9Cu0Psc8VGwXFDh"
@@ -2458,7 +2498,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 227693,
       "name": "Smoke & Embers",
       "url": "https://open.spotify.com/track/5YAzhZWJfVWHsUmtCqwy1o"
@@ -2592,6 +2632,24 @@
       "duration_ms": 205666,
       "name": "Spanish Moss",
       "url": "https://open.spotify.com/track/0S9V5vYfmGbs4LZg6H30iu"
+    },
+    {
+      "album": {
+        "name": "Stay Country or Die Tryin'",
+        "url": "https://open.spotify.com/album/3SlFBTVQSdKBW6KVp5bulU"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221373,
+      "name": "Stay Country or Die Tryin\u2019",
+      "url": "https://open.spotify.com/track/2OVJMopnpJFev3n1NxDJ92"
     },
     {
       "album": {
@@ -2758,6 +2816,24 @@
       "duration_ms": 216160,
       "name": "This World's A Giant",
       "url": "https://open.spotify.com/track/4CD5aJNhq5fGYu3QaHJrm8"
+    },
+    {
+      "album": {
+        "name": "Stand By Me",
+        "url": "https://open.spotify.com/album/2gLbRXq1LEp2fkw3ZYrozZ"
+      },
+      "artists": [
+        {
+          "name": "Die Campbells",
+          "url": "https://open.spotify.com/artist/1GfnUbIqwTuETN5vXE1Y4H"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169997,
+      "name": "Tipsy (A Bar Song)",
+      "url": "https://open.spotify.com/track/0Lg0yTMmkccINBc6FrDDRU"
     },
     {
       "album": {
@@ -2974,7 +3050,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 236410,
       "name": "Where The Wild Things Are",
       "url": "https://open.spotify.com/track/64A4uUdTYHLYZ2TSKZV6A6"
@@ -3010,7 +3086,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-09",
+      "date_removed": null,
       "duration_ms": 240120,
       "name": "Whirlwind",
       "url": "https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz"

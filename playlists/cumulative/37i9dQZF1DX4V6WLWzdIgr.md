@@ -2,7 +2,7 @@
 
 ### [Ambyar](https://open.spotify.com/playlist/37i9dQZF1DX4V6WLWzdIgr)
 
-> Ubur\-ubur ikan lele, nek sedih ya dijogeti wae! 😢
+> Ubur\-ubur ikan lele, nek sedih ya dijogeti wae lee! 😢
 
 111 songs - 9 hr 21 min
 

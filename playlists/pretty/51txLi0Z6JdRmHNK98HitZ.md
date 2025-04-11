@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/51txLi0Z6JdRmHNK98HitZ.md) - [plain]
 
 > A playlist of all our songs released so far\. Our new album Faith Crisis Pt 1 is out now! <a href="https://www.instagram.com/middlekidsmusic/">Instagram</a>, <a href="https://www.tiktok.com/@middlekids.music">TikTok</a> &amp; <a href="https://www.facebook.com/middlekidsmusic">Facebook</a>
 
-[middle\_kids\_official](https://open.spotify.com/user/middle_kids_official) - 2,982 likes - 72 songs - 3 hr 46 min
+[middle\_kids\_official](https://open.spotify.com/user/middle_kids_official) - 2,983 likes - 72 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

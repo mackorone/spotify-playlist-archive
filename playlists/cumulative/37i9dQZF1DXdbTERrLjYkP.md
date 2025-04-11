@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Ruby Plume
 
-836 songs - 1 day 20 hr 38 min
+837 songs - 1 day 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Different Planets](https://open.spotify.com/track/4Rfsj0Eckk9IL02PHuDnt2) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Different Planets](https://open.spotify.com/album/1W01b32YQe4vsTeaNcrI1r) | 3:10 | 2024-12-06 | 2025-03-01 |
 | [Difficult](https://open.spotify.com/track/3JiaA3hvuKu4Fjf6AWwVMX) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Difficult](https://open.spotify.com/album/5ut6gnxZsNlq5ZjiW06Ht8) | 4:17 | 2022-10-07 | 2023-01-28 |
 | [dishes](https://open.spotify.com/track/5fl0hbVtZpswYuFORfDkfO) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [dishes](https://open.spotify.com/album/3Sk4lToMRHoSjjzorQBAQX) | 2:40 | 2023-03-10 | 2023-08-12 |
+| [DNA Guarantee](https://open.spotify.com/track/7EimwDV1rXzsiXYGXVUEkC) | [Kodi Rhianne](https://open.spotify.com/artist/0SxMiauNf6nzyx8nicQ4ow) | [DNA Guarantee](https://open.spotify.com/album/1zbnbjtdrmlJnpEfvvubad) | 3:45 | 2025-04-10 |  |
 | [Do you really have to go?](https://open.spotify.com/track/2Aq88M9sEPxN8VaFCx88Ii) | [Josie Oliver](https://open.spotify.com/artist/6R7lcur1z2DTOoBJfDwEan) | [Listen to this when you buy a house](https://open.spotify.com/album/6BTJS3CE6lcSSIT0md7Byv) | 3:39 | 2025-04-04 |  |
 | [Do Your Worst](https://open.spotify.com/track/1WQm4kw3blYLYbsA9kTsTE) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [Do Your Worst](https://open.spotify.com/album/2LS7qVSq37ThFZkkmhrY3w) | 3:39 | 2024-05-24 | 2024-11-16 |
 | [Don't Go Back To Paris](https://open.spotify.com/track/0jeGTzkvrNRBC8Dt8bsDRN) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Paris / San Francisco](https://open.spotify.com/album/2VFJG91yaQl6TuCWpP95bw) | 3:47 | 2024-08-16 | 2024-12-07 |

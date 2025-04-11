@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,928,944 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,929,120 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,11 +69,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 59 | [DESCEND](https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [DESCEND](https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY) | 3:40 |
 | 60 | [Lost Home](https://open.spotify.com/track/3UcquXPl3pmUgKdVjxAIxy) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK) | [Lost Home / Solitude](https://open.spotify.com/album/6hJExzBylXcKb3F7fb0Wju) | 3:46 |
 | 61 | [fever](https://open.spotify.com/track/0qCzMwwsrHm56Wk0PPOndb) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [fever](https://open.spotify.com/album/44KLbHGEN8Oxwg3EwCgLZG) | 2:20 |
-| 62 | [I Just Needed This](https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI), [Keepa](https://open.spotify.com/artist/5cW3W1SgE0AQaCdDRPBo7h) | [I Just Needed This](https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5) | 4:04 |
+| 62 | [Next To You](https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7) | [Romain Garcia](https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h) | [Next To You](https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub) | 3:23 |
 | 63 | [Breathing](https://open.spotify.com/track/4u53O1CMHzbuKjO9fGcGQV) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY) | [Breathing](https://open.spotify.com/album/1bMQCZWPYlLqZP7jiurMan) | 3:24 |
 | 64 | [Protected](https://open.spotify.com/track/1cRRIRrUiPnLOvsnWNhoH9) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Protected](https://open.spotify.com/album/4MOIA5rcy0XfN7kRWmSukG) | 4:00 |
-| 65 | [Next To You](https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7) | [Romain Garcia](https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h) | [Next To You](https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub) | 3:23 |
-| 66 | [Heal](https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heal](https://open.spotify.com/album/6Z5HYN50xuRIikzXPCo2oB) | 4:33 |
+| 65 | [Heal](https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heal](https://open.spotify.com/album/6Z5HYN50xuRIikzXPCo2oB) | 4:33 |
+| 66 | [I Just Needed This](https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI), [Keepa](https://open.spotify.com/artist/5cW3W1SgE0AQaCdDRPBo7h) | [I Just Needed This](https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5) | 4:04 |
 | 67 | [Light up my dark](https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Light up my dark](https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA) | 3:28 |
 | 68 | [Stay Still](https://open.spotify.com/track/1tM2jivvLKpF5TNtwKKyEB) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Stay Still](https://open.spotify.com/album/1Liw9JDxORvLa5ZQnWJbdX) | 4:33 |
 | 69 | [Sunrise \(feat\. Madeline Megery\)](https://open.spotify.com/track/4z1r9dfqoUNCa0vA4n9ymL) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij), [Madeline Megery](https://open.spotify.com/artist/100CRSnhxRou1w0lao9HmD) | [Moonlight](https://open.spotify.com/album/1sF7sruZ4NXlCi4YKRZAka) | 5:13 |

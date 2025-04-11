@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: After
 
-3,134 songs - 7 day 5 hr 8 min
+3,135 songs - 7 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2275,6 +2275,7 @@
 | [Sad Dream](https://open.spotify.com/track/6k8jlEH1WssLwzXHfZGq3j) | [EchoWave](https://open.spotify.com/artist/6cRSP0k82PWTiEmLPqwrTI) | [Sad Dream](https://open.spotify.com/album/2HIWjaGWNOazjOiF7cpUrr) | 3:40 | 2023-10-04 | 2023-11-30 |
 | [Sad Techno](https://open.spotify.com/track/4BCAiSHGQt1SmY15KoxPfB) | [Lo Noom](https://open.spotify.com/artist/03OMNIRl2S7PLASNxIeION) | [Sad Techno](https://open.spotify.com/album/3sXGYnXJPsKnw8ODBZdd7i) | 1:20 | 2024-01-10 | 2024-01-18 |
 | [Safe](https://open.spotify.com/track/5eKzRLree0eW8vrTmIGAGO) | [Tyrer](https://open.spotify.com/artist/7frgKOQYzrHKVG7Zqemwi6) | [Safe](https://open.spotify.com/album/4ZSH9lQWU0Fam5cFPcffeG) | 2:28 | 2023-08-30 | 2023-10-26 |
+| [Safe And Sound](https://open.spotify.com/track/1SWmFw0DQKttwFHiPRWNWo) | [Tapeworms](https://open.spotify.com/artist/4g7cKubwimQPEEg9AgBMZr) | [Grand Voyage](https://open.spotify.com/album/67Zg776IO3i70H2JDk49GG) | 4:02 | 2025-04-02 |  |
 | [Safe Place to Stay](https://open.spotify.com/track/0V99LNM7L1FUmkEQMQp47u) | [Mama Zu](https://open.spotify.com/artist/6OG25jh0gJ5FaFhw39eX2y) | [Safe Place to Stay](https://open.spotify.com/album/3otFGfaSJwchSOiEk5EGrM) | 4:17 | 2024-01-17 | 2024-02-08 |
 | [safe space](https://open.spotify.com/track/7lOsJPdQuDAVmm3ZZsvG9f) | [Sughn](https://open.spotify.com/artist/0BPCwLHpZIpVlVXcZyH2CB) | [safe space](https://open.spotify.com/album/2tBmCvqE2xObYau5vGoY2z) | 3:10 | 2024-02-20 | 2024-04-19 |
 | [safety](https://open.spotify.com/track/455NN00cexwUiy0CkRbgqe) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1) | 3:03 | 2022-11-30 | 2023-01-12 |

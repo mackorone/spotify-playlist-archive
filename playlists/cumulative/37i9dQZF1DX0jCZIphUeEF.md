@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-249 songs - 23 hr 41 min
+250 songs - 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Stars On 45 Theme](https://open.spotify.com/track/76ymDmRsIGS1HpxdYp8keA) | [Sgt Slick](https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll) | [Stars On 45 Theme](https://open.spotify.com/album/5uM2QXuRO8mjyi81Cx3Pco) | 2:48 | 2025-03-04 |  |
 | [Straight From The Heart \- Moplen Remix](https://open.spotify.com/track/5Q1WL9Hj1nzSvy4UtRLPgP) | [Loose Change](https://open.spotify.com/artist/6BMcXknXEY3ggl29TpedBF), [Moplen](https://open.spotify.com/artist/3NcMPhTdRUe1VhAX2e6upk) | [Straight From The Heart \(Moplen Remix\)](https://open.spotify.com/album/3BM47PnpTojvOKwFx7fy3F) | 8:39 | 2024-03-06 | 2025-03-05 |
 | [Strangely Enough \- Amine K Stripped Down Remix](https://open.spotify.com/track/1WscS7OuSdPO1DxjCssTCB) | [Matthias Meyer](https://open.spotify.com/artist/6bWakzaLHaNewLTdhJHPQb), [Amine K](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Strangely Enough Remixes](https://open.spotify.com/album/5dgUK5cS7D6WU5iHL0zBSt) | 5:59 | 2022-09-08 | 2024-03-23 |
+| [Sundance](https://open.spotify.com/track/70JAv6WokDODRLE0okP5dp) | [Amine K](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf), [WAHM \(FR\)](https://open.spotify.com/artist/33pXBL0Br2jGGqRjK5aAgF) | [Kill the Anger EP](https://open.spotify.com/album/1Qnr9iZVov8vjGcmfJe2yW) | 4:17 | 2025-04-10 |  |
 | [Switch](https://open.spotify.com/track/27OHNB09536noXha5o0M2b) | [Martin Waslewski](https://open.spotify.com/artist/3qk4AowZhFKoYHocPk6l06) | [Switch EP](https://open.spotify.com/album/5QHo598Fn2lzsCUjzHPgdF) | 4:56 | 2022-11-07 | 2024-03-23 |
 | [Sylvia](https://open.spotify.com/track/2BTCxUBkZxlfH4sxVrBgtr) | [Austin Ato](https://open.spotify.com/artist/6sCrZwNbMhp1iahiiFQY66) | [Echo Beach Edits, Vol\. 1](https://open.spotify.com/album/3og9S3y4mpUnP7zb0GorUT) | 6:37 | 2025-03-04 |  |
 | [Take Flight](https://open.spotify.com/track/6FAGFcIJfSzuDDk2Rbz3pi) | [Denney](https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v), [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI), [Celeda](https://open.spotify.com/artist/6eOBEYGx9M4t87osYMIakb) | [Take Flight EP](https://open.spotify.com/album/5cPX28V6vYst2hq01jwxTR) | 4:07 | 2022-09-08 | 2024-04-03 |

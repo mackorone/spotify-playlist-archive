@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: Headie One",
+  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: AJ Tracey, Aitch, Headie One",
   "name": "Who We Be",
   "tracks": [
     {
@@ -3797,6 +3797,24 @@
     },
     {
       "album": {
+        "name": "Bout U",
+        "url": "https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163481,
+      "name": "Bout U",
+      "url": "https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh"
+    },
+    {
+      "album": {
         "name": "Bow Down",
         "url": "https://open.spotify.com/album/2YddCSvbNRpQiQA3EujzpB"
       },
@@ -5016,6 +5034,24 @@
       "duration_ms": 230588,
       "name": "City Girls/Trackstar",
       "url": "https://open.spotify.com/track/7e1AuefOi2VanFYyAkcZjq"
+    },
+    {
+      "album": {
+        "name": "City Needs Me",
+        "url": "https://open.spotify.com/album/15YAVJqUHGB7b96EMiAwiC"
+      },
+      "artists": [
+        {
+          "name": "Zino Vinci",
+          "url": "https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184620,
+      "name": "City Needs Me",
+      "url": "https://open.spotify.com/track/2refE6Svm5kAzuOhyqHUUN"
     },
     {
       "album": {
@@ -8118,7 +8154,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 220101,
       "name": "EUROSTAR",
       "url": "https://open.spotify.com/track/4vsBFq7FzZszfgfUIUy7Ai"
@@ -9468,6 +9504,32 @@
       "duration_ms": 255600,
       "name": "Fresh Out The Bank (feat. Dave)",
       "url": "https://open.spotify.com/track/6MmnTuOVSGCcW0qX20nvIv"
+    },
+    {
+      "album": {
+        "name": "Friday Prayer (feat. Headie One & Aitch)",
+        "url": "https://open.spotify.com/album/0S4Q6d6NRA6RubFH05Nz0R"
+      },
+      "artists": [
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        },
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195104,
+      "name": "Friday Prayer (feat. Headie One & Aitch)",
+      "url": "https://open.spotify.com/track/69I5rRxwBNBODyFbTZJBqX"
     },
     {
       "album": {
@@ -27126,7 +27188,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 118933,
       "name": "Too Many Women (feat. kwn)",
       "url": "https://open.spotify.com/track/27phUMXA53CLokQgatsJaz"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,145 likes - 60 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,251 likes - 75 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 58 | [Umbovukazi](https://open.spotify.com/track/4ok4NiGs5EmP9T04AEDBA9) | [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9) | [Hyenah presents RISE RADAR 01](https://open.spotify.com/album/3RFlAnR6ew8IgKh6UWnx63) | 7:24 |
 | 59 | [Soulan \- Laolu Remix](https://open.spotify.com/track/5JMXKAorJLYf0vvN55Ulsq) | [Acid Arab](https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7), [Les Filles de Illighadad](https://open.spotify.com/artist/45EoOvcenErsYkaJUnqjJv), [Laolu](https://open.spotify.com/artist/53PSeUFq8tMZc0zdd1oUTG) | [Remixed](https://open.spotify.com/album/2IiSd2rbbQGtnlRhLUo7eD) | 7:39 |
 | 60 | [Bendeta Drums](https://open.spotify.com/track/2sW71xCPKxnxdPddQZq9mS) | [Vobs](https://open.spotify.com/artist/5GDkxyn2MEtIAAl60XMakS) | [Bendeta Drums](https://open.spotify.com/album/30SzO7AoFPM6V5gR4Z5o4Y) | 6:35 |
+| 61 | [Peah](https://open.spotify.com/track/6oq5rfJnVMZZ3OoUY4f96d) | [Diamond Dealer](https://open.spotify.com/artist/0al2BDNahdKMbU3Nriry1w), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Peah](https://open.spotify.com/album/06ed3oLUbVAmqmfeZlaijR) | 8:01 |
+| 62 | [People of Shaam](https://open.spotify.com/track/1L0p10SGpaUcpozQ0CtAPk) | [TAU \(BW\)](https://open.spotify.com/artist/4M43WLHD3zKA8Pe9XMpRPk), [LMichael](https://open.spotify.com/artist/5TayAMk3i506kqDdAgA8U7), [Nelle Guess](https://open.spotify.com/artist/6tPbKQOBecjZMLlqFMHAbr) | [Message to Eternity EP](https://open.spotify.com/album/7Cve04RsDc21FGUv2KevzW) | 7:25 |
+| 63 | [In Common \- Black Coffee Remix](https://open.spotify.com/track/45gbor15xy5IXj2P5oXQNf) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [In Common \(The Remixes\)](https://open.spotify.com/album/7K0eeA5BaamKDiTZ8mm05D) | 4:58 |
+| 64 | [Take Me to My Love](https://open.spotify.com/track/5oYZAxG1ZVy8lwVduEKYxe) | [Ralf Gum](https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN), [Monique Bingham](https://open.spotify.com/artist/2DpGG0b6Rt9q69o8Rk1DCa) | [Never Leaves You](https://open.spotify.com/album/15hKvxUNpHkQY1xeX9o3s2) | 8:28 |
+| 65 | [Amen for 8 Years Prayer \- Emo Boys Tribute 2014](https://open.spotify.com/track/2vGffm6w2BJr2yxBvythjZ) | [House Victimz](https://open.spotify.com/artist/2jLxHBm09mAVmAoaVh47Lr) | [DJ Essentials 2015](https://open.spotify.com/album/2YuAx3Psig0hcqfsQduzMX) | 9:45 |
+| 66 | [Everything \- Edit](https://open.spotify.com/track/6dFSWMpmAj1o3NNzLTHgrQ) | [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7), [Afrotraction](https://open.spotify.com/artist/5nWUxMDXCniEU2M0VXZPH3), [Mo\-T](https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg) | [The Healers: The Last Chapter](https://open.spotify.com/album/2F3Nw7Z7Gt6ET52DosiPTH) | 3:43 |
+| 67 | [Come With Me](https://open.spotify.com/track/61uitNuP3Ke0HU347xU2h0) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Mque](https://open.spotify.com/artist/00LCD7uFxO2uUr4tmSoyKU) | [Pieces Of Me](https://open.spotify.com/album/52vGsPczTADGUWxavc9S9q) | 7:14 |
+| 68 | [Thin Cali cloud](https://open.spotify.com/track/7F24CLAPZ1O3OBD2SAdFGG) | [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9) | [Genesys](https://open.spotify.com/album/2kz9uea3N53nAWPnCTfXga) | 9:00 |
+| 69 | [Diaspora \- Laolu Remix](https://open.spotify.com/track/0JNnfNquN7fgx1vXa3KiyU) | [XOA](https://open.spotify.com/artist/2lmG4O6kAz3hjIhVA9KENL), [Laolu](https://open.spotify.com/artist/53PSeUFq8tMZc0zdd1oUTG) | [Diaspora / Echoes](https://open.spotify.com/album/1AI1mqvVA1LRrmSpqyX0Yx) | 7:57 |
+| 70 | [Lonely Jester \- Atjazz Galaxy Aart Remix](https://open.spotify.com/track/0P0Zl6HtiVuYX4JTVB3dUv) | [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq), [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH) | [Lonely Jester \(Stimming & Atjazz Remixes\)](https://open.spotify.com/album/1LA1I9DtXZuPOFtc447Q22) | 5:46 |
+| 71 | [Unchain \- Manoo Remix](https://open.spotify.com/track/5SyNt1zdQMSaTveF512on4) | [Maji](https://open.spotify.com/artist/4GPsrbfB2fidZC8EHsTbnu), [Manoo](https://open.spotify.com/artist/0SWJzERYiO2LLxoUqMXDsz) | [Unchain](https://open.spotify.com/album/5bdp8XtxoLY4FsT9gzslK4) | 8:00 |
+| 72 | [Downfall \(Here I Come\) \- Edit](https://open.spotify.com/track/5lUPgoCZj0RXFCESRAi5af) | [40D](https://open.spotify.com/artist/7uvCVtgyDcHAN5H0W1uF9x), [Jagoda Różycka](https://open.spotify.com/artist/2gXzGBpZoy8LwGP18HEfre) | [Downfall \(Here I Come\) \[Edit\]](https://open.spotify.com/album/63DAjprKoIBkNhdKu2t1jb) | 3:15 |
+| 73 | [Sonder](https://open.spotify.com/track/2gVy654eoz1UEah0YP9EdV) | [Munyasya](https://open.spotify.com/artist/4TvHKIqggNweDs4pqn6j6Z) | [Sonder](https://open.spotify.com/album/1qLQYpWgWtO7DLAaqFnCY7) | 7:08 |
+| 74 | [Gorah](https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Gorah](https://open.spotify.com/album/31Dhd35ip9kwOzHZhzFzZ1) | 4:06 |
+| 75 | [Mirror Dance](https://open.spotify.com/track/1zweY3yCgExHMgTpPhNYEU) | [Afefe Iku](https://open.spotify.com/artist/1wyvNzqxNicz6tQP1JzOhu) | [Artifacts of Pottery Vessels](https://open.spotify.com/album/1bXH3znFE4PoY0qD1w290D) | 8:33 |
 
-Snapshot ID: `Z+62nQAAAAD3x+OlnKmDBUxx0O4pDchK`
+Snapshot ID: `Z/hNdwAAAACzDjyFp+GBYL9HiMQF1Itb`

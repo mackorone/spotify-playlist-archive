@@ -2,7 +2,7 @@
 
 ### [R&B Favourites](https://open.spotify.com/playlist/37i9dQZF1DX7FY5ma9162x)
 
-> The tracks you can put on repeat all day\. Cover: Coco Jones
+> The tracks you can put on repeat all day\. Cover: SZA
 
 649 songs - 1 day 12 hr 10 min
 

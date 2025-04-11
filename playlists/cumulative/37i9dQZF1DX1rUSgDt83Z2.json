@@ -388,7 +388,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-09",
+      "date_removed": null,
       "duration_ms": 170024,
       "name": "Brussel",
       "url": "https://open.spotify.com/track/1UOymAhcklZlgfa8k1BUUB"
@@ -602,7 +602,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 193211,
       "name": "Door En Door",
       "url": "https://open.spotify.com/track/7cATx9Gorgj9VCl97NCWRe"
@@ -2099,6 +2099,24 @@
     },
     {
       "album": {
+        "name": "Seizoenen",
+        "url": "https://open.spotify.com/album/6O6pOwgtsdIF0CioNutqV0"
+      },
+      "artists": [
+        {
+          "name": "Shary-An",
+          "url": "https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187941,
+      "name": "Seizoenen",
+      "url": "https://open.spotify.com/track/4GrHcWRKOwq3DWu8F9OryT"
+    },
+    {
+      "album": {
         "name": "Slaap Lekker",
         "url": "https://open.spotify.com/album/58WAXCxWYLQgMybk6ZRQVJ"
       },
@@ -2110,7 +2128,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-04",
+      "date_removed": null,
       "duration_ms": 134318,
       "name": "Slaap Lekker",
       "url": "https://open.spotify.com/track/64EB0FN3fLIslczqsDjVx1"
@@ -2410,7 +2428,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 155151,
       "name": "Tikkie Voor De Tranen",
       "url": "https://open.spotify.com/track/6qhH43TLfe30AvzKPsvTEl"
@@ -2602,7 +2620,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 158694,
       "name": "Wat Ik Ook Ga Doen",
       "url": "https://open.spotify.com/track/35BBNYg2fEtgYjkgJrGcg1"

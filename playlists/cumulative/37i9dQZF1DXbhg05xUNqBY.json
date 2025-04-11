@@ -897,6 +897,32 @@
     },
     {
       "album": {
+        "name": "First Love (Live)",
+        "url": "https://open.spotify.com/album/3Nl89KswcXuMmqZCClsdKh"
+      },
+      "artists": [
+        {
+          "name": "Lucy Grimble",
+          "url": "https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq"
+        },
+        {
+          "name": "Beth Key",
+          "url": "https://open.spotify.com/artist/5Fx1Khoe3ZB1JUYaKikA8w"
+        },
+        {
+          "name": "Meg Loney",
+          "url": "https://open.spotify.com/artist/4jQnPxww7HFJCoGs1fv26D"
+        }
+      ],
+      "date_added": "2025-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344108,
+      "name": "First Love - Live",
+      "url": "https://open.spotify.com/track/4LE0AiT2I2BMMnLA5vXBTT"
+    },
+    {
+      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/0VUJTXs1I6cpspWGfjcIjJ"
       },
@@ -2288,7 +2314,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 264428,
       "name": "Life Again",
       "url": "https://open.spotify.com/track/4cQinb06F9cqVy4fWqqd1Z"

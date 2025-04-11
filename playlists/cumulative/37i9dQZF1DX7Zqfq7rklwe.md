@@ -2,7 +2,7 @@
 
 ### [VOLUME SUOMI](https://open.spotify.com/playlist/37i9dQZF1DX7Zqfq7rklwe)
 
-> Suomen suurin ja paras rock\-soittolista\. Kannessa The Ghost.
+> Suomen suurin ja paras rock\-soittolista\. Kannessa Ghost.
 
 218 songs - 14 hr 19 min
 

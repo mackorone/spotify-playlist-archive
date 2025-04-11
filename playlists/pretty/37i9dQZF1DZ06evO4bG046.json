@@ -1,12 +1,12 @@
 {
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
-  "num_followers": 34787,
+  "num_followers": 34792,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/RnAAAAAADrZx26M3boC+XEIjy42TBR",
+  "snapshot_id": "Z/W4gAAAAAAwSi1MYbJ79TSKhLsXXFH0",
   "tracks": [
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obras de Violeta Parra",
-        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
+        "name": "Aconcagua",
+        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 314000,
-      "name": "Run Run Se Fue Pa'l Norte",
-      "url": "https://open.spotify.com/track/17yoYupwk2LMmYy62NAsk9"
+      "duration_ms": 181573,
+      "name": "Huairuro",
+      "url": "https://open.spotify.com/track/3wbeSi0qMixFGzb1LSFYHg"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Obras de Violeta Parra",
+        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 314000,
+      "name": "Run Run Se Fue Pa'l Norte",
+      "url": "https://open.spotify.com/track/17yoYupwk2LMmYy62NAsk9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mamalluca: Obras Sinf\u00f3nicas, Vol. 1",
         "url": "https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 944040,
       "name": "Mamalluca",
       "url": "https://open.spotify.com/track/5cZqYxULKUnsi9cHKp78pS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aconcagua",
-        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 181573,
-      "name": "Huairuro",
-      "url": "https://open.spotify.com/track/3wbeSi0qMixFGzb1LSFYHg"
     },
     {
       "added_at": null,

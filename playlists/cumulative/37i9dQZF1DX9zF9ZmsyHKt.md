@@ -4,7 +4,7 @@
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Joelma, João Gomes
 
-293 songs - 17 hr 16 min
+295 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Empoderada](https://open.spotify.com/track/3VUVVKwHljrks6y6oNVpE4) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Empoderada](https://open.spotify.com/album/2R2kp1iansPl2JUa4Gal01) | 1:59 | 2021-10-15 | 2022-06-16 |
 | [Encantos de Sereia](https://open.spotify.com/track/02igANx7YEYQPJzDzI2Fob) | [Ceumar](https://open.spotify.com/artist/4lTstEgQJelAPnmAuNg5Nu) | [Silencia](https://open.spotify.com/album/4Yft0S0ZM9u4m7AlN5wzkF) | 4:10 | 2021-10-15 | 2024-10-23 |
 | [Encosta na Parede](https://open.spotify.com/track/7DrHxbU4ILRGyyDqDM10qJ) | [Tamara Franklin](https://open.spotify.com/artist/5Y9dtVLdhTkabuDGfFgerX), [Berêta](https://open.spotify.com/artist/3T44lVfLAXe4Q1aaRHyecq) | [Fugio \- Rotas de Fuga Pro Aquilombamento](https://open.spotify.com/album/0iuNUkTeaYvpOquMn6WhaY) | 4:03 | 2021-10-15 | 2022-07-29 |
+| [Endoida na Balada](https://open.spotify.com/track/6XK4UeuDLOVis8YP4TQHJC) | [Gang Do Eletro](https://open.spotify.com/artist/4KBEMlSRtexYKdbLcYeFUi) | [No Embalo do Tecnobrega](https://open.spotify.com/album/5GqzG7ATT6b34B4OgiyLyq) | 2:53 | 2025-04-11 |  |
 | [Entre as Arvores](https://open.spotify.com/track/0GIBD1ORJ9AVmB17zqbPwe) | [Iara Rennó](https://open.spotify.com/artist/2feEGmwdkpKsC798UP17tX), [M\. Takara](https://open.spotify.com/artist/7q5WNXMCIqlce5fgijxDtB) | [AfrodisíacA](https://open.spotify.com/album/6CFRtIVPJT7NnkIt6iDAlw) | 3:55 | 2021-10-15 | 2022-07-29 |
 | [Envolvimento](https://open.spotify.com/track/3xhgrkZuPHxJBHwyBl5sOs) | [MC Loma e As Gêmeas Lacração](https://open.spotify.com/artist/6tdM5Njlln7nWkonCppW0u) | [Envolvimento](https://open.spotify.com/album/5bIJHBuvyTHfxXmy8ZUNyv) | 2:26 | 2021-10-15 | 2024-04-19 |
 | [Equalize](https://open.spotify.com/track/2iUxWUv5TovjBmayOcWohB) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Admirável Chip Novo](https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK) | 3:52 | 2021-10-15 | 2024-10-23 |
@@ -184,7 +185,7 @@
 | [Nuvem de Lágrimas](https://open.spotify.com/track/5VRNQc6Z0YNemIvOrD1h2e) | [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Maxximum \- Fafá de Belém](https://open.spotify.com/album/6PiK8fXCZVguMpR8DN0dAr) | 4:10 | 2021-10-15 | 2024-10-23 |
 | [Nuvens no Jardim](https://open.spotify.com/track/5Q2khrcPlrhXKeGTSQbDsX) | [Ellen Oléria](https://open.spotify.com/artist/2Lw4xNNXMrVhYWLNTmBo7B) | [Nuvens no Jardim](https://open.spotify.com/album/2DtMlfHx1Y8MKNIH6mzkKF) | 3:25 | 2021-10-15 | 2022-07-29 |
 | [Não Deixei De Amar](https://open.spotify.com/track/1F7NChVuwGbrPf7DIQQ9eK) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj), [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX) | [Não Deixei De Amar](https://open.spotify.com/album/5dEzsBRLiiXgDF7bqUyha9) | 2:42 | 2025-02-07 |  |
-| [Não Fosse Tão Tarde](https://open.spotify.com/track/6FkTHnkkESftfYIMNdkTHX) | [Banda 007](https://open.spotify.com/artist/4aI6jDLkxjcSR1PpuJ7Vk9) | [Hit 2023](https://open.spotify.com/album/1j6MVT6T1C51L74WJvKL9Z) | 3:04 | 2024-10-22 |  |
+| [Não Fosse Tão Tarde](https://open.spotify.com/track/6FkTHnkkESftfYIMNdkTHX) | [Banda 007](https://open.spotify.com/artist/4aI6jDLkxjcSR1PpuJ7Vk9) | [Hit 2023](https://open.spotify.com/album/1j6MVT6T1C51L74WJvKL9Z) | 3:04 | 2024-10-22 | 2025-04-11 |
 | [Não Precisa Ser Amélia](https://open.spotify.com/track/6FDZdbHaAHY6a1JvOg7Fbo) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Igreja Lesbiteriana, Um Chamado](https://open.spotify.com/album/0ElU2CZRo8BffDKE1bXB8z) | 5:36 | 2021-10-15 | 2024-08-07 |
 | [Não sou obrigada](https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Não sou obrigada](https://open.spotify.com/album/3tPNupBNXriclh9KYZOmyJ) | 2:28 | 2021-10-15 | 2024-10-23 |
 | [Não Teve Amor](https://open.spotify.com/track/7snWZdqdQAVX61XEOTE5vw) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Joelma](https://open.spotify.com/album/6THS2SxEna3SEPoo0oQXTo) | 3:12 | 2024-10-22 |  |
@@ -268,6 +269,7 @@
 | [Só Sei Dançar Com Você](https://open.spotify.com/track/4IiviKTCCIJSYsWzxCpqsD) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Zé Pi](https://open.spotify.com/artist/1ZLHH9MsBSa70q6KcGzWNM) | [Efêmera](https://open.spotify.com/album/1SYkXi1CqOnutbLombhkrs) | 3:41 | 2021-10-15 | 2024-04-19 |
 | [Só Sei Dançar Com Você](https://open.spotify.com/track/5Y1mguQcl8TbHgS12atuVy) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Zé Pi](https://open.spotify.com/artist/1ZLHH9MsBSa70q6KcGzWNM) | [Efêmera](https://open.spotify.com/album/4jZncyAcIndHAVVlYG4vDk) | 3:41 | 2021-10-15 | 2022-07-29 |
 | [Só Você e Eu](https://open.spotify.com/track/6c5ELUV0eE4OFupCMUmAin) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Só Você e Eu](https://open.spotify.com/album/2kw0urBWdwuLc6cbcVFXLX) | 3:22 | 2021-10-15 | 2022-07-29 |
+| [Tanto Que Te Amei](https://open.spotify.com/track/6oRMp2LVqvdK3trhVpFJvA) | [Banda Os Brothers](https://open.spotify.com/artist/2lsOz5tVIFOnXiHk3Bd5UE) | [Tanto Que Te Amei](https://open.spotify.com/album/0n9NOZUnO5SpVgonEB4TCW) | 3:04 | 2025-04-11 |  |
 | [Tara](https://open.spotify.com/track/3L2jWpewWy9hikCHeawbJW) | [Nêssa](https://open.spotify.com/artist/2nBhcSkmkP34W4oWJc9pcr), [A Dama](https://open.spotify.com/artist/6r2Jxpiepf5Yc7SdvK4w0K) | [Tara](https://open.spotify.com/album/0DAGqHAwH3kIZgmL6Gr9KU) | 2:20 | 2021-10-15 | 2022-07-08 |
 | [Te Faço um Cafuné](https://open.spotify.com/track/2IRTK6heTT9WEVr6uWwutT) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N) | [Te Faço um Cafuné \- Single](https://open.spotify.com/album/1Zy3Hu3zZIr88xqOsaB0lk) | 3:47 | 2021-10-15 | 2022-07-29 |
 | [Te Faço um Cafuné](https://open.spotify.com/track/2PxakiZUhHmFdp5G3sBiXD) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N) | [Te Faço um Cafuné](https://open.spotify.com/album/1k35AKHHe1G9pnmIRsAJf0) | 3:47 | 2021-10-15 | 2024-04-19 |
@@ -280,7 +282,7 @@
 | [Tá Sentindo a Onda](https://open.spotify.com/track/1IL7Vh6Bvlb93oRjpfT9vX) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Tá Sentindo a Onda](https://open.spotify.com/album/5EPKNlpDEPjayVmsMZDWIC) | 2:36 | 2021-10-15 | 2022-07-20 |
 | [Tô Voltando](https://open.spotify.com/track/7rVvt8t21yAfgo4e4Cxj05) | [Simone](https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD) | [Pedaços](https://open.spotify.com/album/3Kio2MgcyFofAVIDz06sSj) | 3:58 | 2021-10-15 | 2024-10-23 |
 | [Ultima Vez](https://open.spotify.com/track/40Frowu2ww9YAKKFLb7yS8) | [Billy Brasil](https://open.spotify.com/artist/5PXF4RydKIBSlMZC4JgShx), [Batidão do Melody](https://open.spotify.com/artist/1cxdUdATJCunpjaHM8e7d6) | [Ultima Vez](https://open.spotify.com/album/3A14Wp6OjW4cB6Bdkc7ZGn) | 3:39 | 2024-10-22 |  |
-| [Ultra Som](https://open.spotify.com/track/16pJs5VpOZfmBtxmIPT908) | [Banda Ravelly](https://open.spotify.com/artist/5D7dGRxmAnl6Smasp7WGVW) | [Envolvendo Você!](https://open.spotify.com/album/0DmS3rCKjEDUNy9zBcp3wD) | 4:13 | 2024-10-22 |  |
+| [Ultra Som](https://open.spotify.com/track/16pJs5VpOZfmBtxmIPT908) | [Banda Ravelly](https://open.spotify.com/artist/5D7dGRxmAnl6Smasp7WGVW) | [Envolvendo Você!](https://open.spotify.com/album/0DmS3rCKjEDUNy9zBcp3wD) | 4:13 | 2024-10-22 | 2025-04-11 |
 | [Uma Noite E 1/2](https://open.spotify.com/track/2FSmesZ0BLPGOoEzS75Flc) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol), [Renato Rocketh](https://open.spotify.com/artist/6sw8STlzeeHvYQEeZueg63) | [Virgem](https://open.spotify.com/album/3U2agFlmhl2UWKZhsB6Vco) | 4:44 | 2021-10-15 | 2024-10-23 |
 | [Varanda](https://open.spotify.com/track/4QwXfbXqnAUYSpm6mwcOX2) | [Alessandra Leão](https://open.spotify.com/artist/37m97yyap5ftH0sx3IHqno) | [Dois Cordões](https://open.spotify.com/album/0NDQdeUd7PMJeVKXzCFQ4A) | 2:55 | 2021-10-15 | 2022-07-28 |
 | [Varanda](https://open.spotify.com/track/6EAcX1cDiVZ1W1DIx60AT6) | [Alessandra Leão](https://open.spotify.com/artist/37m97yyap5ftH0sx3IHqno) | [Dois Cordões](https://open.spotify.com/album/5RugBXVw9vRBDEznCqrweB) | 2:55 | 2022-10-07 | 2024-02-26 |

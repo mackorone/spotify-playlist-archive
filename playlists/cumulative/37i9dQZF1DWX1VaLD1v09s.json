@@ -9217,6 +9217,24 @@
     },
     {
       "album": {
+        "name": "Easter",
+        "url": "https://open.spotify.com/album/3nJxen033HMnvySxcnSiJh"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "date_added": "2025-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333199,
+      "name": "Worthy Is The Lamb - Easter Version",
+      "url": "https://open.spotify.com/track/16Ctqq2ZkzjE2f7HbLSJMt"
+    },
+    {
+      "album": {
         "name": "The Very Best Of Hillsong Live",
         "url": "https://open.spotify.com/album/7q1lO2aZ4AJaUJlhljUfst"
       },

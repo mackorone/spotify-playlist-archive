@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Colo de Deus
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,778 likes - 49 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,816 likes - 49 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 31 | [Aqui Estou](https://open.spotify.com/track/1529pHFoY2Kr0Fik7BVxlB) | [Gabriela de Sá](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF) | [Aqui Estou](https://open.spotify.com/album/3ZWotWfTNnsVjP7QrGPLtA) | 4:22 |
 | 32 | [Jesus o Bom Amigo](https://open.spotify.com/track/5N8DBT1jAbUWbHEXiUklpN) | [Claudia Canção](https://open.spotify.com/artist/3O350ne9bIdzLcYNncdCBo) | [Jesus o Bom Amigo](https://open.spotify.com/album/6lgcy9ytMACLs4Z2psVRdZ) | 5:10 |
 | 33 | [Ele Me Amparou \- Ao Vivo](https://open.spotify.com/track/7ikHTD1JwYpRrgllTnKZtI) | [Novo Tempo](https://open.spotify.com/artist/4hSwClI41RKuFb46itnL5e), [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa), [Ministério F4ces](https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI) | [Ele Me Amparou \(Ao Vivo\)](https://open.spotify.com/album/5CupRDAksFMcBAPjHLE28G) | 5:02 |
-| 34 | [Quem é esse?](https://open.spotify.com/track/5i0W4rdH98tz2iFLxmg0vO) | [Deeper Org](https://open.spotify.com/artist/4tJqfYL3hoPFMvPKFAR4KP), [Rafael Faleiro](https://open.spotify.com/artist/1jZQDooYokUM5VZ6CW2L69) | [Quem é Esse?](https://open.spotify.com/album/2TqXwrjIuLvATvFJk6RC93) | 9:50 |
+| 34 | [Quem é esse?](https://open.spotify.com/track/5i0W4rdH98tz2iFLxmg0vO) | [Deeper Records](https://open.spotify.com/artist/7p5Q3tlXncRCCuO9WNCzsn), [Rafael Faleiro](https://open.spotify.com/artist/1jZQDooYokUM5VZ6CW2L69) | [Quem é Esse?](https://open.spotify.com/album/2TqXwrjIuLvATvFJk6RC93) | 9:50 |
 | 35 | [Estás Entre Nós](https://open.spotify.com/track/4TT5NUoxwen0TrVWh69Svh) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Flaviane Montenegro](https://open.spotify.com/artist/1sADhlLfkuxwDhKOLr38G4) | [Estás Entre Nós](https://open.spotify.com/album/6ZqlX7YID0aS7FotCyPpsC) | 3:43 |
 | 36 | [Como Eu Te Amo \- Ao Vivo](https://open.spotify.com/track/4ngDMYIqUv6g4IlARn15WQ) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [A Glória da Segunda Casa \(Ao Vivo no Rio de Janeiro\)](https://open.spotify.com/album/2mLGnVMtfBSHvr038bdwm9) | 7:50 |
 | 37 | [Pra Sempre \- Ao Vivo](https://open.spotify.com/track/65OsINy3ji1D6Mqw00tg5k) | [Novo Tempo](https://open.spotify.com/artist/4hSwClI41RKuFb46itnL5e), [Paula Chacon](https://open.spotify.com/artist/6JY4n33EwNjOUR2Qs84kQZ), [Davi Gabriel](https://open.spotify.com/artist/4Ar8fpb7hYG6bOFY7wIo0Z) | [Pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/2LPpoKHsp3kxTx7bRfJJ4J) | 5:18 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-25",
-  "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Maria Campos.",
+  "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Camil\u00fa.",
   "name": "Modo Ac\u00fastico",
   "tracks": [
     {
@@ -280,7 +280,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 198515,
       "name": "Alta en el Cielo",
       "url": "https://open.spotify.com/track/2QE9TAIpthnMtWnk0FBLGG"
@@ -3039,6 +3039,24 @@
     },
     {
       "album": {
+        "name": "Amor de mi herida",
+        "url": "https://open.spotify.com/album/1pxingc83wxaMfVc7P1p6b"
+      },
+      "artists": [
+        {
+          "name": "Camil\u00fa",
+          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219708,
+      "name": "Solo hace falta vivir",
+      "url": "https://open.spotify.com/track/2n1PNRppOz8t3Xgda3dqBc"
+    },
+    {
+      "album": {
         "name": "Pu\u00f1al",
         "url": "https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI"
       },
@@ -3242,6 +3260,28 @@
       "duration_ms": 134888,
       "name": "Todas las Flores de Enero",
       "url": "https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/2wGbH2fkkMEmj1QtiKoqDf"
+      },
+      "artists": [
+        {
+          "name": "Beto Cuevas",
+          "url": "https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL"
+        },
+        {
+          "name": "Javiera Flores",
+          "url": "https://open.spotify.com/artist/1gFvD0bKFz4qTsc8QuUBX2"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220375,
+      "name": "Todo Es Perfecto",
+      "url": "https://open.spotify.com/track/3kow098wMsKCVyKSyiNEuO"
     },
     {
       "album": {
@@ -3638,7 +3678,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 165503,
       "name": "V\u00e1monos",
       "url": "https://open.spotify.com/track/5myKO56bSuaqnsOLrsIkbN"

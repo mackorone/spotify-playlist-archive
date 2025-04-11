@@ -2,9 +2,9 @@
 
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music\. Cover: ATRIP
+> The home for alternative electronic music\. Cover: Me & George
 
-1,167 songs - 3 day 8 hr 6 min
+1,169 songs - 3 day 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Don't Let](https://open.spotify.com/track/44ppHdT8METLfRs30s4zIS) | [Athena](https://open.spotify.com/artist/5zQVK5kEmMGuMqreKxjyNb) | [Don't Let](https://open.spotify.com/album/1ghNHvx6HuoBXaLezY2QmD) | 4:54 | 2022-03-08 | 2022-03-10 |
 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 | 2022-11-25 | 2023-09-15 |
 | [Don't Live in Oblivion, It's Cold Down There](https://open.spotify.com/track/4OdYcHs1SNceLXslZSPXuW) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Don't Live In Oblivion, It's Cold Down There](https://open.spotify.com/album/7aGJzgabsr8GFl0MhQL6Uj) | 3:35 | 2023-05-04 | 2023-10-06 |
+| [Don't Stop](https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Don't Stop](https://open.spotify.com/album/0rSgVoJE8fncqD9bJU0Ltq) | 2:27 | 2025-04-10 |  |
 | [Don't Understand](https://open.spotify.com/track/3PRYBfxhOk16LhRjRPnRGq) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn), [Chelsea Jade](https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO) | [Don't Understand](https://open.spotify.com/album/7kGBvuLCHU8s4KnKlCAQjC) | 3:57 | 2024-04-19 | 2024-10-18 |
 | [Doolally](https://open.spotify.com/track/6iOE2GLHKBQbx4JdhT6RI8) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Steel City Dance Discs Volume 23](https://open.spotify.com/album/6MeFVWynvM4JCnlYVuoxNZ) | 7:34 | 2021-11-24\* | 2021-12-17 |
 | [DRaiN](https://open.spotify.com/track/3wDqjtZ7Ua7Vz4QrCJqVoD) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [DRaiN](https://open.spotify.com/album/1PFSvtdr5l2fYt0L2NIDov) | 2:39 | 2022-05-06 | 2022-08-12 |
@@ -481,7 +482,7 @@
 | [Honey Love](https://open.spotify.com/track/2AVhvo5Um8vmPoG5MjXgtA) | [Tony Njoku](https://open.spotify.com/artist/1vkVP0FhEbUzaU1ztl7YmK) | [Honey Love](https://open.spotify.com/album/40ezxkvhJmgNhmEtvTyfBK) | 3:35 | 2022-08-26 | 2022-10-11 |
 | [Honey Love](https://open.spotify.com/track/2g8BZuDDvlrRekDcrPQ2UJ) | [Tony Njoku](https://open.spotify.com/artist/1vkVP0FhEbUzaU1ztl7YmK) | [Our New Bloom](https://open.spotify.com/album/72jNFjmH4oultWxAeTzQCG) | 3:35 | 2022-10-06 | 2023-01-27 |
 | [Hooked](https://open.spotify.com/track/3AGqoV9OBrQqwOFtuWcWki) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Hooked](https://open.spotify.com/album/1gCDS9MZPwEUp4VltJagU4) | 3:26 | 2024-11-08 |  |
-| [Hopecore](https://open.spotify.com/track/4MyREnmB1D6ODsvsGiyKHV) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Hopecore](https://open.spotify.com/album/5NIsP1ajp6WdtLrVEvgS12) | 3:00 | 2024-10-24 |  |
+| [Hopecore](https://open.spotify.com/track/4MyREnmB1D6ODsvsGiyKHV) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Hopecore](https://open.spotify.com/album/5NIsP1ajp6WdtLrVEvgS12) | 3:00 | 2024-10-24 | 2025-04-11 |
 | [Hot Evening](https://open.spotify.com/track/7l7tXEWUMfW5m5AE8vPfOB) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Hot Evening](https://open.spotify.com/album/7IZ79nalZzDtQhgtCR4Dp1) | 4:01 | 2023-03-08 | 2023-04-28 |
 | [How I Feel](https://open.spotify.com/track/20ZM010DgP7NYaLWIbaEMF) | [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ) | [How I Feel](https://open.spotify.com/album/42f5IWubZit8UWi9dMUA9H) | 5:23 | 2024-05-17 | 2024-11-15 |
 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 | 2023-08-24 | 2024-02-23 |
@@ -648,6 +649,7 @@
 | [Make It](https://open.spotify.com/track/2EpLUT80X1FVKLN1hqiB6o) | [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ), [Soundboy Cookie](https://open.spotify.com/artist/7AoaVHsHCDToJEzx9t6YlX) | [Make It](https://open.spotify.com/album/5DwqXlTbsC2ld3bUrx59y2) | 4:56 | 2021-11-24\* | 2022-03-26 |
 | [Make Me](https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1), [Borai](https://open.spotify.com/artist/5H8NL83Hl16bYRy4LCqriO), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Make Me](https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku) | 2:31 | 2023-03-24 | 2023-07-14 |
 | [Make Me Feel \(Like Dancing\)](https://open.spotify.com/track/100m5H7AWP78qoou9Eb8DF) | [Justin Martin](https://open.spotify.com/artist/4FN8WHqUbwkd97WEjoCu7B) | [Make Me Feel \(Like Dancing\)](https://open.spotify.com/album/5dZNSi4ZP8vry4Lodq3BtQ) | 5:40 | 2024-01-26 | 2024-06-07 |
+| [Make Me Feel Free](https://open.spotify.com/track/0Hfz188fPfIOR9vD2uvzNE) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [The Revival, Vol\. 2](https://open.spotify.com/album/1dbR0cxmXllLmqDAUB2jpN) | 3:03 | 2025-04-10 |  |
 | [Make Me Ovah](https://open.spotify.com/track/0y9Ge4SROBj66AkfRFAdbw) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Black Sheep](https://open.spotify.com/album/7dZYVVGoirZvmYZC3s5Lyz) | 2:40 | 2024-03-22 | 2024-08-23 |
 | [Make The Night Last](https://open.spotify.com/track/7LhJcuKVjWEJpCRWuE9EiK) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Make The Night Last](https://open.spotify.com/album/0eBsV99mKaO1uMEBi8n75J) | 3:50 | 2022-06-13 | 2022-10-07 |
 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 | 2022-06-02 | 2022-10-14 |
@@ -878,7 +880,7 @@
 | [saving flowers](https://open.spotify.com/track/4ZZO8buYpKMS7gR9koYhD9) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [saving flowers](https://open.spotify.com/album/2zPC36yrmSWqm2cgKb35yd) | 3:30 | 2024-04-26 | 2024-11-15 |
 | [say it](https://open.spotify.com/track/1qYSKTn4Peb38J5828xUmF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 2:58 | 2022-10-20 | 2022-12-17 |
 | [Say Less](https://open.spotify.com/track/7bsGEh6Zve75sF3cvRAod7) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Years On Years](https://open.spotify.com/album/1s5ZFYgycwl95KApfbDwZR) | 5:23 | 2021-11-26 | 2022-05-06 |
-| [Say What](https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Say What](https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27) | 3:01 | 2024-10-24 |  |
+| [Say What](https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Say What](https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27) | 3:01 | 2024-10-24 | 2025-04-11 |
 | [Scars](https://open.spotify.com/track/3LzXNblYTky3isOztnWqcz) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Guy](https://open.spotify.com/album/1yGK2fGDPhaZ3O9AhGrkRS) | 2:58 | 2023-06-08 | 2023-10-13 |
 | [Scars](https://open.spotify.com/track/4A3sFMoA34zi7u8RHqu4Ch) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Scars \(lau.ra Remix\)](https://open.spotify.com/album/5wHjEgZopmh1tdTesMsDIL) | 2:58 | 2023-06-01 | 2023-06-12 |
 | [Scars](https://open.spotify.com/track/6cu2L8ghmlsDpRtyHCHAm4) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Scars](https://open.spotify.com/album/0iTJuQRY2EbwYslNyafKPS) | 2:58 | 2023-04-27 | 2023-06-04 |

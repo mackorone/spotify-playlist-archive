@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "\u00a1Disfruta de las canciones pop para toda la familia curadas por Gru y los Minions! ",
+  "description": "\u00a1Disfruta de las canciones pop para toda la familia! ",
   "name": "Pop para Ni\u00f1os",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 190160,
       "name": "7 D\u00edas",
       "url": "https://open.spotify.com/track/4PVXolDGjeVeqNAnDLnpRP"
@@ -814,7 +814,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-31",
+      "date_removed": null,
       "duration_ms": 176579,
       "name": "Dance The Night",
       "url": "https://open.spotify.com/track/11C4y2Yz1XbHmaQwO06s9f"
@@ -1114,6 +1114,28 @@
       "duration_ms": 213061,
       "name": "Efecto",
       "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
+    },
+    {
+      "album": {
+        "name": "El D\u00eda del Ni\u00f1o",
+        "url": "https://open.spotify.com/album/05sGOCr8j1EyN4hpEWThXW"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        },
+        {
+          "name": "Saritah Beb\u00e9",
+          "url": "https://open.spotify.com/artist/1Ff1uZNhRCTdjYU8yOlpMk"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159853,
+      "name": "El D\u00eda del Ni\u00f1o",
+      "url": "https://open.spotify.com/track/441xY6XTBpORXqBWMVmgia"
     },
     {
       "album": {
@@ -1438,7 +1460,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-21",
+      "date_removed": null,
       "duration_ms": 185306,
       "name": "I'm A Believer",
       "url": "https://open.spotify.com/track/0C9jZPUv4SuaXkuEQw6L40"
@@ -1954,7 +1976,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 185972,
       "name": "Muchachitos Feat. Humbe",
       "url": "https://open.spotify.com/track/22D72L2NnJJkI5m1g3pXnj"
@@ -2490,7 +2512,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 155002,
       "name": "QUEDA PROHIBIDO",
       "url": "https://open.spotify.com/track/5NAWG5lRk363CpZHlSMANg"

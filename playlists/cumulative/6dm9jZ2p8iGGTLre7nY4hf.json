@@ -3905,6 +3905,24 @@
     },
     {
       "album": {
+        "name": "Just a Guy",
+        "url": "https://open.spotify.com/album/38j07eyMkkzDJlyk3FHGLn"
+      },
+      "artists": [
+        {
+          "name": "Nora Jabri",
+          "url": "https://open.spotify.com/artist/0JCbY3p0O1glhKRI9nGM9E"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173058,
+      "name": "Just a Guy",
+      "url": "https://open.spotify.com/track/3VswKmubPoS9AZ9HPg3BAm"
+    },
+    {
+      "album": {
         "name": "The Truth About Love",
         "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
       },

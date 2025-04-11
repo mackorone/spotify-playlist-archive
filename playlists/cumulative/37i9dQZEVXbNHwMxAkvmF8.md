@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-1,486 songs - 3 day 6 hr 25 min
+1,487 songs - 3 day 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [3 Nap](https://open.spotify.com/track/0R7YvZPeHphkV48ffoGmsl) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Idegen](https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8) | 2:50 | 2023-03-07 | 2023-03-25 |
 | [3 Nap](https://open.spotify.com/track/1dApWF2K4c91sOq0esaufz) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Idegen](https://open.spotify.com/album/3W938UewrgV3XpUBFXVEhv) | 2:50 | 2023-02-03 | 2023-03-08 |
 | [3guriga](https://open.spotify.com/track/0aeoasiwc1pjuxU6datrSK) | [Ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM), [Csoky](https://open.spotify.com/artist/6RmLQbwTEDQrpIveY6gqtV) | [Sose Alszok](https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy) | 1:49 | 2023-04-08 | 2023-04-12 |
-| [3korty](https://open.spotify.com/track/5ZY255MSISgMrvHmRZux1E) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [memento](https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT) | 3:13 | 2023-05-02 |  |
+| [3korty](https://open.spotify.com/track/5ZY255MSISgMrvHmRZux1E) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [memento](https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT) | 3:13 | 2023-05-02 | 2025-04-11 |
 | [3korty \- LIVE](https://open.spotify.com/track/7GwnJvYPqVmbRdakEMwoFw) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Papp László Aréna LIVE \(2023\)](https://open.spotify.com/album/0jh4QHk8xp0mDHY2FXb3m1) | 3:16 | 2023-04-06 | 2023-05-08 |
 | [45 Primo](https://open.spotify.com/track/1iJSUAeT5x2fooS8jFg7cy) | [ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM), [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [IGAZIAKÉRT](https://open.spotify.com/album/79TxTooMGOIBxL57zgx6n1) | 2:36 | 2024-06-13 | 2024-07-19 |
 | [4X4](https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [4X4](https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe) | 3:10 | 2025-01-25 | 2025-02-03 |
@@ -115,6 +115,7 @@
 | [Az Élet Megy Tovább](https://open.spotify.com/track/6e6v1wSPdFg5gj2spgQNVj) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [Az Élet Megy Tovább](https://open.spotify.com/album/5dc6L1zDfeWxm6zMSKijVA) | 2:51 | 2021-07-16 | 2021-08-08 |
 | [Az Életem](https://open.spotify.com/track/46j71g74J8rWbBXqyUtzEb) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Szakács Gergő](https://open.spotify.com/artist/642IGmyIGSv4Gqf8DjuEDw) | [EZER NAP](https://open.spotify.com/album/2sdrLFENQ7qtygveNHMxel) | 2:51 | 2023-12-29 | 2024-01-22 |
 | [Az Életem](https://open.spotify.com/track/7Gq5UIVs2o8GTDGsosBSo1) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Szakács Gergő](https://open.spotify.com/artist/642IGmyIGSv4Gqf8DjuEDw) | [Az Életem](https://open.spotify.com/album/1y0ifNzIHP0OjXJ3q7ylPh) | 2:51 | 2023-11-10 | 2023-11-19 |
+| [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 | 2025-04-10 |  |
 | [Azt beszélik a városban](https://open.spotify.com/track/0X0B9JBqIXlmMLHkxrzhFX) | [Majka](https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB), [Molnár Tamás](https://open.spotify.com/artist/50ktSO1tNyaOAn7mC2lOWm) | [Azt beszélik a városban](https://open.spotify.com/album/6nHgZTOCAGr0o9fCLj7EOu) | 4:13 | 2022-11-26 | 2022-12-03 |
 | [b terv](https://open.spotify.com/track/1cjtJFvBIDS50HpHDX7FhZ) | [gyuris](https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9), [Ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM) | [úton](https://open.spotify.com/album/6RuuMs24vFydEgnyX7nA61) | 3:40 | 2023-01-07 | 2023-01-14 |
 | [Baby](https://open.spotify.com/track/7iyoi3UIxyjAykpdXxRzdo) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh) | [Baby](https://open.spotify.com/album/2m2Q2oEqlS8bEQ1XwTSGOd) | 2:38 | 2023-10-29 | 2023-11-28 |
@@ -152,7 +153,7 @@
 | [BAZ+ \- Túl vagyok rajtad](https://open.spotify.com/track/5IweCSstXQHSmM9c42F7AP) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [Tankcsapda](https://open.spotify.com/artist/3QbmGjx9VYiu3fpG8NjIZI) | [Sex, Love, Rock & Roll](https://open.spotify.com/album/4GNuuLaPJMC3KPPn5laNva) | 2:48 | 2022-11-24 | 2022-12-04 |
 | [BAZ+ \- Túl vagyok rajtad](https://open.spotify.com/track/6ofxXXTKk1UyRj9YkkWh3u) | [Bsw](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [Tankcsapda](https://open.spotify.com/artist/3QbmGjx9VYiu3fpG8NjIZI) | [BAZ+ \(Túl vagyok rajtad\)](https://open.spotify.com/album/0ISupiy3v5iiVsLvir8d4n) | 2:48 | 2022-06-03 | 2022-11-25 |
 | [BB](https://open.spotify.com/track/2alqYZmRRT8U5E0mtw7LhJ) | [gyuris](https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9), [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [BARBATULA BARBATULA](https://open.spotify.com/album/6shv3bmIBOtB1hoGURDBuA) | 2:51 | 2023-12-16 | 2023-12-18 |
-| [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 | 2024-04-06 | 2025-04-10 |
+| [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 | 2024-04-06 |  |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-01-20 | 2024-04-07 |
 | [Beb\*sztam](https://open.spotify.com/track/2zALUC201V0RwAAL2FzrLP) | [Bsw](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Sex, Love, Rock & Roll](https://open.spotify.com/album/4GNuuLaPJMC3KPPn5laNva) | 2:38 | 2022-11-23 | 2022-11-28 |
 | [Beb\*sztam](https://open.spotify.com/track/4kHnC6jF3AG4P0K8WllpQr) | [Bsw](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Beb\*sztam](https://open.spotify.com/album/3uh6yLcgSxTaELqzlRXbba) | 3:13 | 2022-09-02 | 2022-09-10 |
@@ -392,7 +393,7 @@
 | [Está Dañada](https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:34 | 2021-10-19 | 2021-10-23 |
 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2024-05-02 | 2024-05-18 |
 | [Everything](https://open.spotify.com/track/1WSdetPVqNDIcv75NeZ7NV) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Orgonabokor \(Part 3\)](https://open.spotify.com/album/7xDuQfy7GG77mu9BGwQT04) | 3:51 | 2025-02-09 | 2025-02-15 |
-| [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:03 | 2025-03-15 |  |
+| [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:03 | 2025-03-15 | 2025-04-11 |
 | [exes](https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [exes](https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH) | 2:39 | 2023-11-18 | 2023-11-20 |
 | [Exit sign](https://open.spotify.com/track/6aPlaAulFrfU1gbwKwI4B9) | [Ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM), [highbaby](https://open.spotify.com/artist/6Wr4wd4rhVjujRKtaBeS33) | [Sose Alszok](https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy) | 3:01 | 2023-04-08 | 2023-04-11 |
 | [EyEy](https://open.spotify.com/track/2TdN8vYZq8GlEFzY5l2xsc) | [ALEE](https://open.spotify.com/artist/0HtJHszzuucFjA33hHBJrT) | [EyEy](https://open.spotify.com/album/6gGAomFkvNRjm0WmXA2vfO) | 2:28 | 2021-11-10 | 2022-01-11 |

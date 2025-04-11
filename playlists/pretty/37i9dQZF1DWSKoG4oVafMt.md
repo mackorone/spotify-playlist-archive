@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Diljit Dosanjh and Neeru Bajwa
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,081 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,197 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 7 | [Phulkari](https://open.spotify.com/track/1f660M0jwz7F4qlDjTSLmO) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Phulkari](https://open.spotify.com/album/3skDjGnv85nUKxVQknCk2B) | 3:16 |
 | 8 | [Mera Yaar](https://open.spotify.com/track/35ari7VmUGWjHjx537wBiN) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Dilnoor](https://open.spotify.com/artist/50tXZuZyML8SQweztignbv) | [Mera Yaar](https://open.spotify.com/album/6kpQnIskjWwdPBSnrKmuXr) | 4:15 |
 | 9 | [Tere Bagair](https://open.spotify.com/track/1v1wHEvx4fD1RXtHhLC0bT) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr), [Kumar](https://open.spotify.com/artist/3u6IeHQROTV68yOOFt1D3T) | [Channo Kamli Yaar Di \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PY9kNNBXkTFy4JyLfq8QI) | 3:29 |
-| 10 | [Dil Dardeh](https://open.spotify.com/track/0ku4NlnENAuhWyYnKfI4DA) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W), [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [By Any Means](https://open.spotify.com/album/4Gn0Jhsoq3Q0a5TtoSb35D) | 3:15 |
+| 10 | [Dil Dardeh](https://open.spotify.com/track/0ku4NlnENAuhWyYnKfI4DA) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W), [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [JayB Singh](https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM) | [By Any Means](https://open.spotify.com/album/4Gn0Jhsoq3Q0a5TtoSb35D) | 3:15 |
 | 11 | [Lucky](https://open.spotify.com/track/2JW5AjQUZg69oqM8bt6SJA) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Ryan Sandhu](https://open.spotify.com/artist/4DZwIJffAv7FZMKYxnoP1H), [Daddy Beats](https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs) | [Lucky](https://open.spotify.com/album/3Z7v66nO09B9NMl3qaAhgN) | 2:56 |
 | 12 | [Lad Lad Ke](https://open.spotify.com/track/1v0MAwilyhq3wfkE3iYtPe) | [SABBA](https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8), [Meavin](https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV), [Anjali Arora](https://open.spotify.com/artist/40uVhJMaDcTekOBAe2qqTg) | [Lad Lad Ke](https://open.spotify.com/album/2xvpXYwZyV41aciCszPDGk) | 2:40 |
 | 13 | [Sochde Nahi](https://open.spotify.com/track/6lHeLmB88msaSYt9Wwn1l5) | [Harsh Bilga](https://open.spotify.com/artist/4VKvXq0dgZMYWSOcbps6GT), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Sochde Nahi](https://open.spotify.com/album/2jyqeYnaChGN2lGLD1Aaak) | 3:16 |

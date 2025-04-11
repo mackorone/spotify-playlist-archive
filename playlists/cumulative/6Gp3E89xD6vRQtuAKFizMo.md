@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-424 songs - 20 hr 23 min
+425 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Long Way Down](https://open.spotify.com/track/4Gn8upxtpncAQRBaqhYBGz) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83) | [Long Way Down](https://open.spotify.com/album/3iDpry2d331nweoBhOJMTm) | 3:36 | 2022-07-01 | 2022-12-21 |
 | [Look At Me](https://open.spotify.com/track/03T8F9SOv7aeJX7QKvV1eN) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Look At Me](https://open.spotify.com/album/1dzxMhanj9kriQCS1PDwzU) | 2:27 | 2024-05-24 |  |
 | [Lose Control](https://open.spotify.com/track/3Bi2SYUeN1CRZBvu8ocKND) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [T A N E](https://open.spotify.com/artist/76vKcd8tKbbD9Ryrmsshgn) | [Lose Control](https://open.spotify.com/album/6s4Spso2Zp8PWS9QFNbFLn) | 2:31 | 2024-12-06 |  |
+| [Losing My Mind](https://open.spotify.com/track/4E6o5U0BnVJKMczupWe3kP) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj), [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf) | [Losing My Mind](https://open.spotify.com/album/7JZDsNnq0rbIGHHH0nlChD) | 2:27 | 2025-04-10 |  |
 | [Lost Cause](https://open.spotify.com/track/0T1avwj6YeeUZAAw2s26tQ) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt), [SadBois](https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ) | [Lost Cause](https://open.spotify.com/album/0ZelRbO1gxg9Qw8s55vohG) | 3:26 | 2024-08-02 |  |
 | [Love Me Now](https://open.spotify.com/track/3mtzh5163ltjqu4J5gLwSV) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [Love Me Now](https://open.spotify.com/album/1oYfAY7ppfDpOVUK2cgodg) | 3:31 | 2025-02-07 |  |
 | [Loving You Kills Me](https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Loving You Kills Me](https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60) | 2:54 | 2022-05-06 | 2022-06-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > The sound of a new generation\. Cover: Marlon Hoffstadt aka DJ Daddy Trance
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,636 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,784 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 74 | [Let You Go](https://open.spotify.com/track/7JRwX5i43f5T4T5hVodZ7v) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Let You Go](https://open.spotify.com/album/2vyEDah2v9XhwJpMAc0ulB) | 2:51 |
 | 75 | [I Wanna Go](https://open.spotify.com/track/0EkO6IEUFlbfxLDoDVieOt) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [I Wanna Go](https://open.spotify.com/album/3YbiInRvYkmmWq6DHrYsn9) | 2:47 |
 
-Snapshot ID: `Z+8FBQAAAAB/cn8QUZCnb5tUFEcsE2X/`
+Snapshot ID: `Z/g/dQAAAABnwrS2r3PLUn5sJiD86K2R`

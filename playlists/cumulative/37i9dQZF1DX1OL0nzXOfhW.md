@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2025 RADAR登場！持續發掘香港未來新聲！Cover: Arvin曾傲棐同學
+> 2025 RADAR登場！持續發掘香港未來新聲！Cover: Gordon Flanders
 
-255 songs - 14 hr 46 min
+256 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [岸](https://open.spotify.com/track/6HddvIovaBHsG3gHuNSt5l) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [岸](https://open.spotify.com/album/5Q7u6skbFXQSGgWdmJiAi7) | 3:21 | 2022-10-06 | 2023-04-14 |
 | [年月漫漫 \- 電影《年少日記》主題曲](https://open.spotify.com/track/4X9Z19oJlxgR4G6i9hwCYZ) | [iii](https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT), [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [年月漫漫 \(電影《年少日記》主題曲\)](https://open.spotify.com/album/77YMeS9QqVa3cYEeaQOO11) | 4:07 | 2023-11-16 | 2024-03-08 |
 | [彷彿](https://open.spotify.com/track/0ciMEnrEBZQeeB5PHQLIKt) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [彷彿](https://open.spotify.com/album/2Z4cHJ5pLtyeqNsE3NnM4P) | 5:16 | 2023-04-13 | 2023-12-30 |
+| [心中那位住客](https://open.spotify.com/track/6hgwn1nNPk8E8tEeoa6nwU) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [心中那位住客](https://open.spotify.com/album/0DveyseX1wZXbWiWKWqLJm) | 4:12 | 2025-04-10 |  |
 | [惡作劇完成](https://open.spotify.com/track/3WDXsnzbshvwHfZcQDFD8z) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [惡作劇完成](https://open.spotify.com/album/63JmXQrdYEUKJ2ANiT36L4) | 3:42 | 2022-11-24 | 2023-04-14 |
 | [想 Want](https://open.spotify.com/track/505eClzHVGgNy4AUGdjTdW) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [想 Want](https://open.spotify.com/album/5TzRmcWH06BWAdhAA9StBX) | 4:21 | 2024-06-27 | 2025-03-28 |
 | [愚公](https://open.spotify.com/track/1TDSH2KWVEz9vH1WVPG1oZ) | [Michael C](https://open.spotify.com/artist/0Uz6GaLPVXMsFQ21CPmwp1) | [愚公](https://open.spotify.com/album/7pe44sSuFZQsuHB2M4EWiC) | 3:47 | 2025-03-27 |  |

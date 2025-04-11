@@ -5885,6 +5885,24 @@
     },
     {
       "album": {
+        "name": "Main Heer Teri",
+        "url": "https://open.spotify.com/album/4vtES0Tr90HiRlgdXmeMY7"
+      },
+      "artists": [
+        {
+          "name": "Zanai Bhosle",
+          "url": "https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206285,
+      "name": "Main Heer Teri",
+      "url": "https://open.spotify.com/track/3BAmJqcRP0Mf11YAungMFq"
+    },
+    {
+      "album": {
         "name": "Hustle 2.0",
         "url": "https://open.spotify.com/album/4XWCQnLpIG5GgCIL9eHwJh"
       },
@@ -8778,7 +8796,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 175181,
       "name": "Ratiyaan",
       "url": "https://open.spotify.com/track/5Wf61wso1rDW8lvhX6Ccry"

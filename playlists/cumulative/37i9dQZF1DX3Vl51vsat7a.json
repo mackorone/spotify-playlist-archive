@@ -1909,6 +1909,24 @@
     },
     {
       "album": {
+        "name": "Ehhwww",
+        "url": "https://open.spotify.com/album/1ImUlnx9kKhVsSfHcwyeVs"
+      },
+      "artists": [
+        {
+          "name": "Lelosa",
+          "url": "https://open.spotify.com/artist/0RHTQm9f0cO7uay999YTiW"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116981,
+      "name": "Ehhwww",
+      "url": "https://open.spotify.com/track/5vVOsEGvnwpvlsbW5YHOWN"
+    },
+    {
+      "album": {
         "name": "Eins sein",
         "url": "https://open.spotify.com/album/7uFZmTPubuC0o8gV4ODoL6"
       },
@@ -4804,7 +4822,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 386193,
       "name": "Physical Aspects Of Disco",
       "url": "https://open.spotify.com/track/10UQj7uJ2RPG481QII1xpv"

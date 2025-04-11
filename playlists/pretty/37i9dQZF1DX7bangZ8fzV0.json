@@ -1,32 +1,28 @@
 {
-  "description": "Net die beste Afrikaanse musiek! Omslag: <a href=\"https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ?si=VHknqYzaSjWwvvRs8qreUg\">JAN JAN JAN</a> ",
-  "num_followers": 124321,
+  "description": "Net die beste Afrikaanse musiek! Omslag: <a href=\"https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa?si=NLspZbe3StSEAiEDjOglNg\">Dodo Nyoka</a> ",
+  "num_followers": 124366,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+8FDAAAAABB2aP8/T/VzKKCqHSXBQEa",
+  "snapshot_id": "Z/g/bAAAAABaBfnUiwIgUS/VtFf8DiFp",
   "tracks": [
     {
       "added_at": "2025-04-03 22:00:44",
       "album": {
-        "name": "Hokaai",
-        "url": "https://open.spotify.com/album/6JQ57szEJM2faKvkX56CWH"
+        "name": "Jannaman",
+        "url": "https://open.spotify.com/album/6uY8Agjsp4ZtoRmpeub2ss"
       },
       "artists": [
         {
-          "name": "JAN JAN JAN",
-          "url": "https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ"
-        },
-        {
-          "name": "SENSASIE",
-          "url": "https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14"
+          "name": "Dodo Nyoka",
+          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
         }
       ],
-      "duration_ms": 190819,
-      "name": "Karolis (Sensasie Remix) (feat. Sensasie)",
-      "url": "https://open.spotify.com/track/754aujqA7I9JEGPdt1sa1x"
+      "duration_ms": 205114,
+      "name": "Jannaman",
+      "url": "https://open.spotify.com/track/7dX2A1tJH11wwrRzQEICLW"
     },
     {
       "added_at": "2025-03-20 22:00:10",
@@ -205,6 +201,26 @@
       "url": "https://open.spotify.com/track/1xk3eXx6BqFD1cpfvGQjry"
     },
     {
+      "added_at": "2025-04-10 22:00:12",
+      "album": {
+        "name": "Shut Up & Soen My",
+        "url": "https://open.spotify.com/album/2nGlSHYxK3nHVx4nTlGw4d"
+      },
+      "artists": [
+        {
+          "name": "Irene-Louise Van Wyk",
+          "url": "https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma"
+        },
+        {
+          "name": "Bobby Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
+        }
+      ],
+      "duration_ms": 192676,
+      "name": "Shut Up & Soen My",
+      "url": "https://open.spotify.com/track/1LVudOtqu2VZzuE1UrfjpL"
+    },
+    {
       "added_at": "2025-03-20 22:00:10",
       "album": {
         "name": "Help 'n Bietjie",
@@ -273,22 +289,6 @@
       "url": "https://open.spotify.com/track/3VAhXrrV3pA0hSHfG3fFPr"
     },
     {
-      "added_at": "2025-04-03 22:00:44",
-      "album": {
-        "name": "Jannaman",
-        "url": "https://open.spotify.com/album/6uY8Agjsp4ZtoRmpeub2ss"
-      },
-      "artists": [
-        {
-          "name": "Dodo Nyoka",
-          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
-        }
-      ],
-      "duration_ms": 205114,
-      "name": "Jannaman",
-      "url": "https://open.spotify.com/track/7dX2A1tJH11wwrRzQEICLW"
-    },
-    {
       "added_at": "2025-03-20 22:00:10",
       "album": {
         "name": "Helemal",
@@ -323,6 +323,26 @@
       "duration_ms": 189183,
       "name": "As Ek Dalk (feat. Eloff)",
       "url": "https://open.spotify.com/track/0avIG6N4JT2tHb8GyVHz1w"
+    },
+    {
+      "added_at": "2025-04-03 22:00:44",
+      "album": {
+        "name": "Hokaai",
+        "url": "https://open.spotify.com/album/6JQ57szEJM2faKvkX56CWH"
+      },
+      "artists": [
+        {
+          "name": "JAN JAN JAN",
+          "url": "https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ"
+        },
+        {
+          "name": "SENSASIE",
+          "url": "https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14"
+        }
+      ],
+      "duration_ms": 190819,
+      "name": "Karolis (Sensasie Remix) (feat. Sensasie)",
+      "url": "https://open.spotify.com/track/754aujqA7I9JEGPdt1sa1x"
     },
     {
       "added_at": "2025-03-20 22:00:10",
@@ -875,22 +895,6 @@
       "duration_ms": 191303,
       "name": "Toer Om Die Vloer",
       "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
-    },
-    {
-      "added_at": "2025-03-20 22:00:10",
-      "album": {
-        "name": "100%",
-        "url": "https://open.spotify.com/album/2axcE5ad6XVpFn0Szm2auS"
-      },
-      "artists": [
-        {
-          "name": "Kurt Darren",
-          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
-        }
-      ],
-      "duration_ms": 180534,
-      "name": "Hop Hop Spinnekop",
-      "url": "https://open.spotify.com/track/4NG32lh3Z2wHxrDptfiQd3"
     },
     {
       "added_at": "2025-03-20 22:00:10",

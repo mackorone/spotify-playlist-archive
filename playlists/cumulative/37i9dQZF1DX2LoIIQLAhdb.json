@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Rsko x Ronisia",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Franglish",
   "name": "R&Bae",
   "tracks": [
     {
@@ -407,6 +407,28 @@
     },
     {
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "Sonny Rave",
+          "url": "https://open.spotify.com/artist/2oz0IgsR0xKABrapfXcEwy"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168653,
+      "name": "B.A.B",
+      "url": "https://open.spotify.com/track/6aoWOWQOXBn23MURE0lvCl"
+    },
+    {
+      "album": {
         "name": "B.B.M",
         "url": "https://open.spotify.com/album/0mHboLJlwKVWNKcHiXGjpf"
       },
@@ -600,7 +622,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 159666,
       "name": "BBL.00",
       "url": "https://open.spotify.com/track/5bNNfbBd4IWXxiuCa9Ahjs"
@@ -2887,6 +2909,24 @@
     },
     {
       "album": {
+        "name": "Fr\u00e9rot",
+        "url": "https://open.spotify.com/album/2QekhLfZJBOpOH1r8UGt4V"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173481,
+      "name": "Fr\u00e9rot",
+      "url": "https://open.spotify.com/track/73Vx9PdEHcuUI6pPWeGA6K"
+    },
+    {
+      "album": {
         "name": "C\u2019EST LA DERNI\u00c8RE FOIS, Pt. 1",
         "url": "https://open.spotify.com/album/6fs6yV7Pr6Tp9OAZMDPFVJ"
       },
@@ -3816,7 +3856,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 234473,
       "name": "Joli c\u0153ur",
       "url": "https://open.spotify.com/track/3bkUTdeapOIXEELbndezGt"
@@ -5293,6 +5333,24 @@
     },
     {
       "album": {
+        "name": "My Woman",
+        "url": "https://open.spotify.com/album/7erWVVP2dO19IAadmv5MEK"
+      },
+      "artists": [
+        {
+          "name": "Bramsito",
+          "url": "https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140733,
+      "name": "My Woman",
+      "url": "https://open.spotify.com/track/7w2t6JaADtcT3hUh8CC1CM"
+    },
+    {
+      "album": {
         "name": "Kimy",
         "url": "https://open.spotify.com/album/6aKOkRtZBOuGk6EqUO5n3d"
       },
@@ -6754,7 +6812,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 147906,
       "name": "Rappel",
       "url": "https://open.spotify.com/track/7CjR90qslGmLW5dsnaKZay"
@@ -6908,6 +6966,24 @@
       "duration_ms": 161082,
       "name": "Reviens jamais",
       "url": "https://open.spotify.com/track/6xmLySMOP7u8AG5RCMTYre"
+    },
+    {
+      "album": {
+        "name": "ROD\u00c9O",
+        "url": "https://open.spotify.com/album/0uNtBDNp16EMfJBFg8h8l5"
+      },
+      "artists": [
+        {
+          "name": "BB NOYAA",
+          "url": "https://open.spotify.com/artist/5K3zqOMrHMocBFB5q9AG8I"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142921,
+      "name": "ROD\u00c9O",
+      "url": "https://open.spotify.com/track/7MxQsNFwVSMfAE1ZCdu6es"
     },
     {
       "album": {
@@ -8288,7 +8364,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 127058,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/2wA8FxoYNLqnxEBUDNmbsD"

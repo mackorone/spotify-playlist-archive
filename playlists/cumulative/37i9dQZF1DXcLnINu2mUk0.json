@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: C\u00edntia",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Satiro ",
   "name": "Seda",
   "tracks": [
     {
@@ -2562,7 +2562,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 133333,
       "name": "Cognac",
       "url": "https://open.spotify.com/track/6Tp4BGc3sAQmyv07mw6GP5"
@@ -6319,6 +6319,24 @@
     },
     {
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/4ynwIbiazCYvjByvC6YnZR"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187643,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/2V8ZoOYTqoYN9g4HZiMyng"
+    },
+    {
+      "album": {
         "name": "Interestelar",
         "url": "https://open.spotify.com/album/02PsewjrcAwfmprEsadxBa"
       },
@@ -6846,7 +6864,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 204320,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV"
@@ -11295,6 +11313,28 @@
     },
     {
       "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/1mtgjUorJd70MSgv6wbeMr"
+      },
+      "artists": [
+        {
+          "name": "PARD\u00d8",
+          "url": "https://open.spotify.com/artist/3JaVBT46sUI7pynSmm398D"
+        },
+        {
+          "name": "kaako",
+          "url": "https://open.spotify.com/artist/5Vd82QHqLhP9NG2wDIIWpx"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/7oEJbRgRbjx55mojjcNmRs"
+    },
+    {
+      "album": {
         "name": "do.mar",
         "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
       },
@@ -12803,6 +12843,28 @@
     },
     {
       "album": {
+        "name": "Teu Mundo",
+        "url": "https://open.spotify.com/album/3pfAqq5SBurNsS0VbFblQb"
+      },
+      "artists": [
+        {
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        },
+        {
+          "name": "MUN",
+          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189445,
+      "name": "Teu Mundo",
+      "url": "https://open.spotify.com/track/4b95PHdxgzYNQkTgDWRK7D"
+    },
+    {
+      "album": {
         "name": "TEU PHONE",
         "url": "https://open.spotify.com/album/2JCuu2mAIZzYqw0r43BCE5"
       },
@@ -14034,7 +14096,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 212689,
       "name": "Volta Pra Casa",
       "url": "https://open.spotify.com/track/4rEd3N3RGaxrGTGNy6HtuN"
@@ -14394,7 +14456,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 208805,
       "name": "\u00c1libi",
       "url": "https://open.spotify.com/track/3aU5576q0JZxa5pe5fiqj3"
@@ -14500,7 +14562,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-06",
+      "date_removed": null,
       "duration_ms": 131126,
       "name": "\u00daltimo Rom\u00e2ntico do Mundo",
       "url": "https://open.spotify.com/track/1vcGNRmxiPiiFDq5QkOCqX"

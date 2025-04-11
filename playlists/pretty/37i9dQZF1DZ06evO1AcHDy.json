@@ -1,12 +1,12 @@
 {
   "description": "This is Rina Sawayama. The essential tracks, all in one playlist.",
-  "num_followers": 37772,
+  "num_followers": 37775,
   "original_name": "This Is Rina Sawayama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/RnAAAAAACKHTm8D9zPhRCW3+fK0RCy",
+  "snapshot_id": "Z/W4gAAAAAAUECLTzR8t6SmEMm0S66GG",
   "tracks": [
     {
       "added_at": null,
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 245808,
-      "name": "Hold The Girl",
-      "url": "https://open.spotify.com/track/5Ohlkv2NY6pOC9sHZMsUPV"
+      "duration_ms": 215814,
+      "name": "Catch Me In The Air",
+      "url": "https://open.spotify.com/track/6GAVS2iuybWCP2oxMKufp1"
     },
     {
       "added_at": null,
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 215814,
-      "name": "Catch Me In The Air",
-      "url": "https://open.spotify.com/track/6GAVS2iuybWCP2oxMKufp1"
+      "duration_ms": 245808,
+      "name": "Hold The Girl",
+      "url": "https://open.spotify.com/track/5Ohlkv2NY6pOC9sHZMsUPV"
     },
     {
       "added_at": null,
@@ -375,22 +375,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinite Icon",
-        "url": "https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx"
+        "name": "Dawn Of Chromatica",
+        "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
       },
       "artists": [
         {
-          "name": "Paris Hilton",
-          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         },
         {
           "name": "Rina Sawayama",
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        },
+        {
+          "name": "Clarence Clarity",
+          "url": "https://open.spotify.com/artist/25u5QFxy3HVQsbcbxHOP62"
         }
       ],
-      "duration_ms": 182813,
-      "name": "I'm Free (feat. Rina Sawayama)",
-      "url": "https://open.spotify.com/track/0wr4RfIkIAEipo6tGw6zKa"
+      "duration_ms": 233901,
+      "name": "Free Woman - Rina Sawayama & Clarence Clarity Remix",
+      "url": "https://open.spotify.com/track/1zF2enE35rzozF1Qu7rLKH"
     },
     {
       "added_at": null,
@@ -427,26 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dawn Of Chromatica",
-        "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
+        "name": "Infinite Icon",
+        "url": "https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
         },
         {
           "name": "Rina Sawayama",
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        },
-        {
-          "name": "Clarence Clarity",
-          "url": "https://open.spotify.com/artist/25u5QFxy3HVQsbcbxHOP62"
         }
       ],
-      "duration_ms": 233901,
-      "name": "Free Woman - Rina Sawayama & Clarence Clarity Remix",
-      "url": "https://open.spotify.com/track/1zF2enE35rzozF1Qu7rLKH"
+      "duration_ms": 182813,
+      "name": "I'm Free (feat. Rina Sawayama)",
+      "url": "https://open.spotify.com/track/0wr4RfIkIAEipo6tGw6zKa"
     },
     {
       "added_at": null,

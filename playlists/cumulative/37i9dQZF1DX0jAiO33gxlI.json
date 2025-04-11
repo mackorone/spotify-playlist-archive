@@ -19131,6 +19131,54 @@
     },
     {
       "album": {
+        "name": "SALA VERMELHA #17 - Black",
+        "url": "https://open.spotify.com/album/4UY19OdjWG2NLMLrs43KjH"
+      },
+      "artists": [
+        {
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
+        },
+        {
+          "name": "Baratapai",
+          "url": "https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY"
+        },
+        {
+          "name": "MOVIMENTO",
+          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147272,
+      "name": "SALA VERMELHA #17 - Black",
+      "url": "https://open.spotify.com/track/4kndQXPgEimcgwUYXjU6he"
+    },
+    {
+      "album": {
+        "name": "SALA VERMELHA #18 - Froid",
+        "url": "https://open.spotify.com/album/1maqDRIdLEFGin6SyLCZKF"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "MOVIMENTO",
+          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103132,
+      "name": "SALA VERMELHA #18 - Froid",
+      "url": "https://open.spotify.com/track/3oazdqRSWQiBAwSzYjQur5"
+    },
+    {
+      "album": {
         "name": "SALA VERMELHA #23 - Felp 22",
         "url": "https://open.spotify.com/album/4LqJdNJnKeueLUWuFYsM8h"
       },
@@ -21108,54 +21156,6 @@
       "duration_ms": 362910,
       "name": "Supersticiosa",
       "url": "https://open.spotify.com/track/43LhpIpA8SF2TGxDABC00j"
-    },
-    {
-      "album": {
-        "name": "SV #17 - Black / Poucos fazem como eu fa\u00e7o",
-        "url": "https://open.spotify.com/album/4UY19OdjWG2NLMLrs43KjH"
-      },
-      "artists": [
-        {
-          "name": "Black",
-          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
-        },
-        {
-          "name": "Baratapai",
-          "url": "https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY"
-        },
-        {
-          "name": "MOVIMENTO",
-          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
-        }
-      ],
-      "date_added": "2025-02-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 147272,
-      "name": "SV #17 - Black / Poucos fazem como eu fa\u00e7o",
-      "url": "https://open.spotify.com/track/4kndQXPgEimcgwUYXjU6he"
-    },
-    {
-      "album": {
-        "name": "SV #18 - Froid / Indiscut\u00edvel",
-        "url": "https://open.spotify.com/album/1maqDRIdLEFGin6SyLCZKF"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "MOVIMENTO",
-          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
-        }
-      ],
-      "date_added": "2025-02-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 103132,
-      "name": "SV #18 - Froid / Indiscut\u00edvel",
-      "url": "https://open.spotify.com/track/3oazdqRSWQiBAwSzYjQur5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 
 > The exciting new music on our radar in the Middle East and North Africa\.  Cover: Lella Fadda
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,739 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,754 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 18 | [Canada](https://open.spotify.com/track/4YWvuZNkSVBz0PHN5SevAW) | [Sine](https://open.spotify.com/artist/1MQryKKB1q19LauQsB4GzI) | [Canada](https://open.spotify.com/album/2gB64wXQ9JChyhhIi0sPBD) | 3:19 |
 | 19 | [Mabidichay](https://open.spotify.com/track/3lkJjAbdLWozIuox8sRoom) | [Lina Guessoussi](https://open.spotify.com/artist/6DFDylakhVHkuYqNhg1aBd) | [Mabidichay](https://open.spotify.com/album/1U9xlybG0rp68MxjwZTK2w) | 2:52 |
 | 20 | [GARALI EH](https://open.spotify.com/track/26I24lR20m0nDwdniIKOlU) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo) | [GARALI EH](https://open.spotify.com/album/0EnbWw8id6Ze4muR1Wro9F) | 2:22 |
-| 21 | [Nasser](https://open.spotify.com/track/6JcdmDmB9EV7wFYxbwa8xa) | [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO) | [Nasser](https://open.spotify.com/album/6f8XAV4PBmAmbP3OPwR7ST) | 2:52 |
+| 21 | [Nasser](https://open.spotify.com/track/6JcdmDmB9EV7wFYxbwa8xa) | [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO), [Kay](https://open.spotify.com/artist/2ZizUpffI2ErDfcsqrRGoG) | [Nasser](https://open.spotify.com/album/6f8XAV4PBmAmbP3OPwR7ST) | 2:52 |
 | 22 | [SHIKA NOVA](https://open.spotify.com/track/46VhFX6FT3efqbJPHB8pA0) | [Shikago](https://open.spotify.com/artist/54LaKdog6976vaviJ1JoWH), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [3AWDAT EL FA2DAN](https://open.spotify.com/album/4atXm6afwu07xZgmEULnBO) | 1:52 |
 | 23 | [أيام زمان](https://open.spotify.com/track/73JjyGNSkiFm3QdSdwtTbY) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [أيام زمان](https://open.spotify.com/album/3TmjrAuNPEzmwlWdTC4rlI) | 3:14 |
 | 24 | [سامعك](https://open.spotify.com/track/5ODdBs7S8J42JNz35SfUQJ) | [Teefo](https://open.spotify.com/artist/3RTq9uscohYNRvooYGSHfb) | [سامعك](https://open.spotify.com/album/7eZjOkfhzvK7sPFPJzYSWf) | 2:32 |

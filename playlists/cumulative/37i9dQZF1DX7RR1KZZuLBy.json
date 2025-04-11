@@ -1197,6 +1197,28 @@
     },
     {
       "album": {
+        "name": "Ebenezer (feat. Yanga Sobetwa)",
+        "url": "https://open.spotify.com/album/133DKG44TGVY2vVw1c8VuU"
+      },
+      "artists": [
+        {
+          "name": "Mmuso Worship",
+          "url": "https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s"
+        },
+        {
+          "name": "Yanga Sobetwa",
+          "url": "https://open.spotify.com/artist/1T2eBbz7Lx7N24h9VJGKt7"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396320,
+      "name": "Ebenezer (feat. Yanga Sobetwa)",
+      "url": "https://open.spotify.com/track/7IOiIVkaEVSHK03Dy8vzXe"
+    },
+    {
+      "album": {
         "name": "Spirit of Praise, Vol. 5 (Live)",
         "url": "https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD"
       },
@@ -1484,7 +1506,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 406440,
       "name": "For Your Glory - Live",
       "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"

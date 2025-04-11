@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "All About You",
+        "url": "https://open.spotify.com/album/0VafsadNmXRLtZJWMT6jXB"
+      },
+      "artists": [
+        {
+          "name": "Chris Symbols",
+          "url": "https://open.spotify.com/artist/4IEgoC1alcKqiZbrumAsSd"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347010,
+      "name": "All About You",
+      "url": "https://open.spotify.com/track/1kQ7lYTGufLrlK3kVmJg0z"
+    },
+    {
+      "album": {
         "name": "All My Life",
         "url": "https://open.spotify.com/album/0ymijpS9vH1roB2dmCVuCQ"
       },
@@ -114,7 +132,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 356571,
       "name": "All On You (Heart of worship)",
       "url": "https://open.spotify.com/track/6vGTfGws31YplDRYKJc88T"
@@ -418,7 +436,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 599327,
       "name": "Banner Of Worship",
       "url": "https://open.spotify.com/track/6AxNOg3AqUHhrSiCsb2Thu"
@@ -846,7 +864,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 474600,
       "name": "El Roi",
       "url": "https://open.spotify.com/track/73slZeHzp4jRUt3hwXoagJ"
@@ -876,6 +894,24 @@
       "duration_ms": 764307,
       "name": "Elohim You Are Beautiful - Live",
       "url": "https://open.spotify.com/track/3Sgg0KTjSB3MKOWt3agB0Y"
+    },
+    {
+      "album": {
+        "name": "Emi Mimo",
+        "url": "https://open.spotify.com/album/49z6VIht0Nid4KPZS4avp3"
+      },
+      "artists": [
+        {
+          "name": "Mike Aremu",
+          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184267,
+      "name": "Emi Mimo",
+      "url": "https://open.spotify.com/track/6ABlH2DNpzdonkaQ0QMa6r"
     },
     {
       "album": {
@@ -1332,6 +1368,24 @@
       "duration_ms": 472560,
       "name": "Halleluyah - Live",
       "url": "https://open.spotify.com/track/23tmE632HmYhBsJfWmT1kN"
+    },
+    {
+      "album": {
+        "name": "Alone With God",
+        "url": "https://open.spotify.com/album/2UFiqcUFhpWHEqx2TQ0jBp"
+      },
+      "artists": [
+        {
+          "name": "Caleb Music",
+          "url": "https://open.spotify.com/artist/3tkHMoB4rBAXLjg0iq2jz0"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "Hallowed Moment",
+      "url": "https://open.spotify.com/track/5vBv3SmwJmUazpYczCNn6E"
     },
     {
       "album": {
@@ -1830,7 +1884,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 338040,
       "name": "Izurukeme - Live",
       "url": "https://open.spotify.com/track/5K0wzd1xT77UkkTHHEtrxt"
@@ -1968,6 +2022,24 @@
       "duration_ms": 277184,
       "name": "King Of Glory",
       "url": "https://open.spotify.com/track/2SMAD22BGOPGo2Ri6yPj81"
+    },
+    {
+      "album": {
+        "name": "King Of Glory (Live)",
+        "url": "https://open.spotify.com/album/3D1wfBDMZFJP7L0HVccuQ7"
+      },
+      "artists": [
+        {
+          "name": "Ugee Royalty",
+          "url": "https://open.spotify.com/artist/1upKp4bI2MbgvvfVXTxakF"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277184,
+      "name": "King Of Glory - Live",
+      "url": "https://open.spotify.com/track/4itomPSq33Qajs152476n0"
     },
     {
       "album": {
@@ -3070,7 +3142,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 468000,
       "name": "The King",
       "url": "https://open.spotify.com/track/7IDktFFGl9xPLLdx1Kxtbo"

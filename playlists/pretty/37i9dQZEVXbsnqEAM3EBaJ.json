@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAqg96u363TRhHs5IhezVow",
+  "snapshot_id": "AAAAAAAAAABN4hf0AGrHwpnQNGFKCrXk",
   "tracks": [
     {
       "added_at": "2025-04-04 04:00:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
-        "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/6wSfrkBLBrN619oQx8OYTq"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 200204,
-      "name": "Prizefighter",
-      "url": "https://open.spotify.com/track/1mvStaNiiO38hfsdWs5d2F"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
         "name": "Sultans Of Swing (San Antonio Live In 85)",
         "url": "https://open.spotify.com/album/1Xug5yrULzRuGmBabfHQun"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 711338,
       "name": "Sultans Of Swing - San Antonio Live In 85",
       "url": "https://open.spotify.com/track/4ZGNASWXsFAPVsGMJuUElt"
+    },
+    {
+      "added_at": "2025-04-04 04:00:00",
+      "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/6wSfrkBLBrN619oQx8OYTq"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 200204,
+      "name": "Prizefighter",
+      "url": "https://open.spotify.com/track/1mvStaNiiO38hfsdWs5d2F"
     },
     {
       "added_at": "2025-04-04 04:00:00",
@@ -147,6 +147,22 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
+        "name": "Radiccio (2025)",
+        "url": "https://open.spotify.com/album/4LqPDFXWMczdBqzW46ja5N"
+      },
+      "artists": [
+        {
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+        }
+      ],
+      "duration_ms": 711814,
+      "name": "The Naked And The Dub",
+      "url": "https://open.spotify.com/track/3AN6YY7K8f3FeZeLfHj73c"
+    },
+    {
+      "added_at": "2025-04-04 04:00:00",
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 144664,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "Radiccio (2025)",
-        "url": "https://open.spotify.com/album/4LqPDFXWMczdBqzW46ja5N"
-      },
-      "artists": [
-        {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
-        }
-      ],
-      "duration_ms": 711814,
-      "name": "The Naked And The Dub",
-      "url": "https://open.spotify.com/track/3AN6YY7K8f3FeZeLfHj73c"
     },
     {
       "added_at": "2025-04-04 04:00:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
-        "name": "Up From the Bottom",
-        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 183223,
-      "name": "Up From the Bottom",
-      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
         "name": "The Screaming Of The Valkyries",
         "url": "https://open.spotify.com/album/3qwLRjvY7IYpv6N248PIAi"
       },
@@ -299,6 +283,22 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
+        "name": "Up From the Bottom",
+        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 183223,
+      "name": "Up From the Bottom",
+      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
+    },
+    {
+      "added_at": "2025-04-04 04:00:00",
+      "album": {
         "name": "The Squirrely Years Revisited",
         "url": "https://open.spotify.com/album/6Wkf21TuFg0tEVFkCyMQp7"
       },
@@ -311,22 +311,6 @@
       "duration_ms": 238333,
       "name": "Revenge - Squirrely Version",
       "url": "https://open.spotify.com/track/3Xonzm3aPRlNdrudJEXnkX"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "Otra Noche de Llorar",
-        "url": "https://open.spotify.com/album/2kSB4gQHyJmEfC8jDrwbeX"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 219949,
-      "name": "Otra Noche de Llorar",
-      "url": "https://open.spotify.com/track/5F8pOPLxQBJK6am1pNcN79"
     },
     {
       "added_at": "2025-04-04 04:00:00",
@@ -407,22 +391,6 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
-        "name": "Un Caf\u00e9 para Plat\u00f3n",
-        "url": "https://open.spotify.com/album/5j78xA9mNtOC6vhaLnqq7K"
-      },
-      "artists": [
-        {
-          "name": "Javiera Parra",
-          "url": "https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8"
-        }
-      ],
-      "duration_ms": 242948,
-      "name": "Un Caf\u00e9 para Plat\u00f3n",
-      "url": "https://open.spotify.com/track/2ssIy0nSLyeF8zfpTDCqyE"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
         "name": "Big Ole Album Vol. 1",
         "url": "https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg"
       },
@@ -439,18 +407,18 @@
     {
       "added_at": "2025-04-04 04:00:00",
       "album": {
-        "name": "Shapeshifter",
-        "url": "https://open.spotify.com/album/7c4xJPkWyEyLFhscmPbhl7"
+        "name": "Un Caf\u00e9 para Plat\u00f3n",
+        "url": "https://open.spotify.com/album/5j78xA9mNtOC6vhaLnqq7K"
       },
       "artists": [
         {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+          "name": "Javiera Parra",
+          "url": "https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8"
         }
       ],
-      "duration_ms": 220660,
-      "name": "Love Is War",
-      "url": "https://open.spotify.com/track/2iKYgFZXyC5GBxCbg2HCD7"
+      "duration_ms": 242948,
+      "name": "Un Caf\u00e9 para Plat\u00f3n",
+      "url": "https://open.spotify.com/track/2ssIy0nSLyeF8zfpTDCqyE"
     },
     {
       "added_at": "2025-04-04 04:00:00",
@@ -483,6 +451,22 @@
       "duration_ms": 200440,
       "name": "Sleep Now In The Fire - Spotify Singles",
       "url": "https://open.spotify.com/track/5mMjqL7JI1BQQWBVFevFsN"
+    },
+    {
+      "added_at": "2025-04-04 04:00:00",
+      "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/7c4xJPkWyEyLFhscmPbhl7"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "duration_ms": 220660,
+      "name": "Love Is War",
+      "url": "https://open.spotify.com/track/2iKYgFZXyC5GBxCbg2HCD7"
     },
     {
       "added_at": "2025-04-04 04:00:00",

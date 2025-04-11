@@ -2707,6 +2707,24 @@
     },
     {
       "album": {
+        "name": "MSH GNENT L B2R",
+        "url": "https://open.spotify.com/album/7rNBXfSN3oczTykIyJVX01"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180512,
+      "name": "GHOSTS - \u0639\u0641\u0627\u0631\u064a\u062a",
+      "url": "https://open.spotify.com/track/4ECrYJfLoueQVda5n8fDrz"
+    },
+    {
+      "album": {
         "name": "El Sahaba",
         "url": "https://open.spotify.com/album/3YLhKiHp1tyCZWM5OnkpPt"
       },
@@ -5710,7 +5728,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 102810,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/6PUgP7EVd2kuemrvGiJT8n"

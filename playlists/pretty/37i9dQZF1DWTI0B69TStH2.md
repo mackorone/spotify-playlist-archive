@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najlepsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: <a href="spotify:artist:6EuekoOKebcHJWIqHuBK0H">Wiktoria Kida</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,874 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,889 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 55 | [oczy zmęczone i czuję w nich piach](https://open.spotify.com/track/1YAK1MNEum91OSWjtkVnFp) | [Zuyeh](https://open.spotify.com/artist/74p0HdOXjtYHdi4TkMxYSi) | [oczy zmęczone i czuję w nich piach](https://open.spotify.com/album/5AToONpvcKbTScm6Y9Sv2i) | 1:33 |
 | 56 | [Nie pyta nikt](https://open.spotify.com/track/7Fa9305hBl5SccHgpy8wu6) | [Borons](https://open.spotify.com/artist/5ogIzEsdfkH8rDbapYNxxd), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Nie pyta nikt](https://open.spotify.com/album/128sXlY1z49IZBmkruuNOs) | 2:36 |
 | 57 | [DEAR LONDON](https://open.spotify.com/track/0u7996eIOQHnBiMFHd5Fpk) | [Stormia](https://open.spotify.com/artist/6uJQCmWHRkOvmQ9TfDYYoX) | [DEAR LONDON](https://open.spotify.com/album/1lsIIAXSy9917Un58DgkJv) | 3:13 |
-| 58 | [Praska wiosna](https://open.spotify.com/track/0ePmYXlPKDRd3HLPXNpK5S) | [Hai](https://open.spotify.com/artist/4kmEGD7LxC1E58zwE1Rolg) | [Praska wiosna](https://open.spotify.com/album/4sUaZcKl3QVEBrtr5CDIzs) | 3:44 |
+| 58 | [Praska wiosna](https://open.spotify.com/track/0ePmYXlPKDRd3HLPXNpK5S) | [hai](https://open.spotify.com/artist/4kmEGD7LxC1E58zwE1Rolg) | [Praska wiosna](https://open.spotify.com/album/4sUaZcKl3QVEBrtr5CDIzs) | 3:44 |
 | 59 | [Hope, Love](https://open.spotify.com/track/0ylxDo4vBljG4CZw7AGZzK) | [INA WEST](https://open.spotify.com/artist/7FPvltQvvREl3A8RnZ6Fyo), [KID BE KID](https://open.spotify.com/artist/4rlOrE0uIPJVu8ZQy68AVD) | [Hope, Love](https://open.spotify.com/album/5AIVqgt8ya5owgmL55jZFV) | 3:36 |
 | 60 | [Proszę](https://open.spotify.com/track/0vPdM0cDHpICKS1fH0FC01) | [marcycha](https://open.spotify.com/artist/1ig2l9u4XDUWbQCBbrD7DS), [connorr](https://open.spotify.com/artist/09kC6DXxyZ9TMr2THWZLyI) | [Proszę](https://open.spotify.com/album/0vShkRaCjCL1goMJrS27Nl) | 3:04 |
 | 61 | [Równonoc](https://open.spotify.com/track/10HbnbmTn0X6FsJ37W4Vyn) | [Jaśmin](https://open.spotify.com/artist/1bSK6IBlQyE2wLOHonkr80) | [Równonoc](https://open.spotify.com/album/7iJpBF8aEbRLLn0pJ6SKqx) | 3:38 |

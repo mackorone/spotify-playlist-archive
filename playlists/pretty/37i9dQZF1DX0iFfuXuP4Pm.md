@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 
 ### [Tatak Pinoy](https://open.spotify.com/playlist/37i9dQZF1DX0iFfuXuP4Pm)
 
-> Mga nangunguna sa mundo ng OPM\. Cover: Sugarcane
+> Mga nangunguna sa mundo ng OPM\. Cover: Paham
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,062,326 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,062,447 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 | 49 | [Kinakabahan](https://open.spotify.com/track/3FLCi7kmtM5DCStIa3ax4m) | [LILY](https://open.spotify.com/artist/1DFzp62fQet0UoMHoJPn4u) | [Kinakabahan](https://open.spotify.com/album/4QvLVRszyv3WLbZexbVo0W) | 3:47 |
 | 50 | [KARMEN](https://open.spotify.com/track/4ecS04LKhx2dFdnVYCYc7B) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD) | [KARMEN](https://open.spotify.com/album/1nERzbdmnFru3H4cwZFxRU) | 3:47 |
 
-Snapshot ID: `Z/YVDAAAAAB1nSI45fXIWl+7X+ca4ibu`
+Snapshot ID: `Z/ddvwAAAAAtGGz9GpKbIoV5Z1w/PGJP`

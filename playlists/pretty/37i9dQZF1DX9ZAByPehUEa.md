@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place 🪩🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,894 likes - 125 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,941 likes - 125 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 80 | [I'm In Love With U \- Miggedy Full Dizko Slap](https://open.spotify.com/track/2fSuFjTNlSSUHzdiolr3BK) | [Tortured Soul](https://open.spotify.com/artist/365Fm0OgkStvN1wWzeyfDN), [Steve 'Miggedy' Maestro](https://open.spotify.com/artist/7Fr0Knjfywv5NpNJwt0w9j) | [I'm In Love With U \(Steve 'Miggedy' Maestro Remixes\)](https://open.spotify.com/album/4homWNPsVADkwWNdneBxga) | 6:25 |
 | 81 | [MUY FINITO](https://open.spotify.com/track/4xHkNofcMKGYJ8gzQLBzAW) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [MUY FINITO](https://open.spotify.com/album/5PDJxIcBMtjti0J23ayqlj) | 2:45 |
 | 82 | [In My Life](https://open.spotify.com/track/38yRij5fxQGBPi7lYQnI4T) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy) | [In My Life](https://open.spotify.com/album/1Qg8XRievOXg2hhUf7MwSc) | 3:56 |
-| 83 | [dancebaby](https://open.spotify.com/track/7vHIbQY5czfIYIq6rHuvyK) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [dancebaby](https://open.spotify.com/album/44s0sDQMiz6M0XOzmfikAk) | 2:54 |
-| 84 | [Under The Moon](https://open.spotify.com/track/1fdMHlBPWbG35CJXrGWInp) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Under The Moon](https://open.spotify.com/album/0Sq8hy4kCoJUNp6yNG6rAz) | 2:32 |
+| 83 | [Under The Moon](https://open.spotify.com/track/1fdMHlBPWbG35CJXrGWInp) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Under The Moon](https://open.spotify.com/album/0Sq8hy4kCoJUNp6yNG6rAz) | 2:32 |
+| 84 | [dancebaby](https://open.spotify.com/track/7vHIbQY5czfIYIq6rHuvyK) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [dancebaby](https://open.spotify.com/album/44s0sDQMiz6M0XOzmfikAk) | 2:54 |
 | 85 | [I Believe In Miracles](https://open.spotify.com/track/5GgVblBt9ED3jKkNsoWeoh) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [LMC](https://open.spotify.com/artist/69QKcDt724e93ZYkBSjsYP) | [I Believe In Miracles](https://open.spotify.com/album/5CRmAnjCyw5GKRgIgddbRh) | 2:35 |
 | 86 | [Hey Baby](https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Hey Baby](https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q) | 3:56 |
 | 87 | [Lift You Up](https://open.spotify.com/track/766OCy2QMl814sxiR1gl6v) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Lift You Up](https://open.spotify.com/album/1UtcVAhnTCM1eqnCVZLEaI) | 2:13 |

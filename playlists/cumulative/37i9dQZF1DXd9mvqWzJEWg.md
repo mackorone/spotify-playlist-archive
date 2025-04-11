@@ -4,7 +4,7 @@
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn?si=0LW\-b38KSByGXzkB8DJPxg">DJ Tira</a>
 
-357 songs - 1 day 7 hr 40 min
+358 songs - 1 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Izigqibo Zakho 2.0](https://open.spotify.com/track/1Bailok9p8aLTZdcIM2hIv) | [Cairo CPT](https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr), [Minollar](https://open.spotify.com/artist/6MPpktX34Rx5MFNQyGaAXP) | [Love and Light](https://open.spotify.com/album/5uZSDxYI3OqMbBY8FzR5Dt) | 5:41 | 2022-08-04 | 2023-08-25 |
 | [Izinyembezi ZoThando](https://open.spotify.com/track/4twcXJPUrzMy2dLnhVNRCC) | [Bhuda M](https://open.spotify.com/artist/0uCXKLH8559TeyNdDZ5RwL), [Sunnyboy](https://open.spotify.com/artist/56kr2TsEQwtIAcS7dejb92) | [My 21st\(Gqom Version\)](https://open.spotify.com/album/6YQkHfbgmdi5kWTlTlIHbZ) | 6:07 | 2025-02-20 |  |
 | [Izinyoni \(feat\. Volka\) \- Remix](https://open.spotify.com/track/52jzhJz6T5807upSLFbUCr) | [The Billionaires](https://open.spotify.com/artist/5gLAgBXxn26YXtBIODWfks), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X), [Volka](https://open.spotify.com/artist/1eIw3ZU7tHCcyJjmjxH4jJ) | [Izinyoni \(feat\. Volka\) \[Remix\]](https://open.spotify.com/album/1HZu3JjmobsdZ6PUtran4T) | 5:37 | 2024-05-10 | 2025-01-17 |
-| [Izion](https://open.spotify.com/track/00595VaTeF842uGIvTH7EI) | [FamSoul](https://open.spotify.com/artist/5f20ymjeD2SiyTVBN9VKwO), [Ma\-Arh](https://open.spotify.com/artist/55ej3UnfymLaRMAltZ030t) | [Izion](https://open.spotify.com/album/5TmjW4cby4cwYMRPLfg6GD) | 5:36 | 2025-02-20 |  |
+| [Izion](https://open.spotify.com/track/00595VaTeF842uGIvTH7EI) | [FamSoul](https://open.spotify.com/artist/5f20ymjeD2SiyTVBN9VKwO), [Ma\-Arh](https://open.spotify.com/artist/55ej3UnfymLaRMAltZ030t) | [Izion](https://open.spotify.com/album/5TmjW4cby4cwYMRPLfg6GD) | 5:36 | 2025-02-20 | 2025-04-11 |
 | [Izithunywa](https://open.spotify.com/track/2hhNFJZMSpFvbAU9WLMya7) | [Sizwe Mdlalose](https://open.spotify.com/artist/3w6f762ECxkOr6byVbNS0X), [FamSoul](https://open.spotify.com/artist/5f20ymjeD2SiyTVBN9VKwO), [Ma\-Arh](https://open.spotify.com/artist/55ej3UnfymLaRMAltZ030t) | [Konke](https://open.spotify.com/album/0gjI11oIiZKtoQbclgjLKe) | 5:36 | 2025-02-20 |  |
 | [Kasi Soul](https://open.spotify.com/track/44Z7mMy65BlL72dDlmzLT5) | [Chustar](https://open.spotify.com/artist/6DgtyczD2FCpb36hxFw1NC), [Naked Soulz](https://open.spotify.com/artist/1zo6blhfKDkGgfJ0JRlAzi) | [Kasi Soul](https://open.spotify.com/album/4wr10B7OEjq2fmHoH9mvjh) | 5:34 | 2025-02-06 | 2025-02-21 |
 | [Kasified](https://open.spotify.com/track/54azsACYLtQ6aB42lUFfea) | [Vanger Boyz](https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx), [Omagoqa](https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy) | [Kasified](https://open.spotify.com/album/1cJNKK6YMzPiCSQ4AJpjSU) | 4:52 | 2025-03-27 |  |
@@ -191,6 +191,7 @@
 | [Lucifer](https://open.spotify.com/track/5fcVkQiu2NARgxw6IRgoJA) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x) | [Lucifer](https://open.spotify.com/album/1TbxeK3lQ7MLLTiCi71P6o) | 4:42 | 2021-09-23 | 2022-11-08 |
 | [Madicine](https://open.spotify.com/track/4YP3377cfQvIIISl6dE2Li) | [Sekdlalu Bandiilee](https://open.spotify.com/artist/3VpHT9QCzzMBVC8d7V3gVH), [GqoMLorD](https://open.spotify.com/artist/6vFMjOEA3AVavs4vc2qcE5) | [Madicine](https://open.spotify.com/album/1pKZeLep4Ok2EG592pUMDc) | 5:36 | 2024-11-15 | 2025-01-24 |
 | [Madness 2.0](https://open.spotify.com/track/7AqWa5WlyKIXwCyZsftcEv) | [General C'mamane](https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe), [Cultivated Soulz](https://open.spotify.com/artist/4ZMUXzBPjPoaREix08wxtc) | [Ushuniii Against The World II](https://open.spotify.com/album/01yfJoSu1gqlk5wM9l5LZZ) | 5:48 | 2023-08-24 | 2024-12-06 |
+| [Magariza](https://open.spotify.com/track/1NeKJ1GN0nyBjlZOXQWXUl) | [SIGGBOYZ](https://open.spotify.com/artist/4sxQjA56Xuyx5EdvZc5dyz), [Kharishma](https://open.spotify.com/artist/5ln4EWpJqQZEWXAlSNTtVz) | [Magariza](https://open.spotify.com/album/2nehIn80e4AoefePPiUCcC) | 5:23 | 2025-04-10 |  |
 | [Mam Mkhize](https://open.spotify.com/track/1AIS0xFujEqZPLaOzRHpH3) | [Bhizer](https://open.spotify.com/artist/1UNJxIx5rUmL3DHRm3KqGl), [DJ Sbucardo](https://open.spotify.com/artist/31F1N7zq6CErKXXIh1n3LO) | [Mam Mkhize](https://open.spotify.com/album/15hCjGsP3NCtcfgLavLdW7) | 5:05 | 2022-08-04 | 2023-05-26 |
 | [Marry Me](https://open.spotify.com/track/2SYkXjj4fMmDYxKTeWMmkJ) | [NV Funk](https://open.spotify.com/artist/2Y4YLJHlF2q5jg5pTE5CSz) | [Marry Me](https://open.spotify.com/album/7mjQtZykEFcCsjHeqw14cU) | 6:09 | 2023-11-21 | 2025-02-07 |
 | [MARTIAL LAW](https://open.spotify.com/track/1t1uI5TlkcKRDQAfvrfaR3) | [LIKKYLIKS](https://open.spotify.com/artist/1egZp9V6tEVf1jf5mFurK1), [Zango Kubheka](https://open.spotify.com/artist/1VMANc0TJb3ZL6mOxHkhig) | [FREQUENCIES YOU FEEL](https://open.spotify.com/album/2pjsIUuboltZ0oKpwOwdUq) | 4:41 | 2024-12-12 | 2024-12-20 |

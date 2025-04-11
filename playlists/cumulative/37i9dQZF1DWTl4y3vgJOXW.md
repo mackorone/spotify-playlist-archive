@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Luka Dončić<br/> and Klay Thompson
+> Fourth quarter, two minutes left .\. get locked in\. Cover: LeBron James and Luka Dončić
 
 798 songs - 1 day 17 hr 5 min
 

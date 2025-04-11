@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,185 likes - 125 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,287 likes - 125 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 | 121 | [Wet](https://open.spotify.com/track/5zrAR15AflURH6qd9QhLra) | [Testpilot](https://open.spotify.com/artist/4KZ2CyWpeORBTUd4vBAqnN), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Wet](https://open.spotify.com/album/6GQv5oaFsol421ygVYu5aW) | 8:45 |
 | 122 | [Downfall](https://open.spotify.com/track/08fB9YSYCxiIexuoQJc3Jj) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Downfall](https://open.spotify.com/album/1XpQL1r74njwPKB3jwBQQH) | 3:56 |
 | 123 | [365](https://open.spotify.com/track/3gL7OwN0YWlodBBgsTlnIX) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [365](https://open.spotify.com/album/7isOH7iTC82sYKBW1lGKSc) | 3:37 |
-| 124 | [Light The Fire](https://open.spotify.com/track/56uH091R7C1GoP6XLjF4St) | [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P), [Dansyn](https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv) | [Light The Fire](https://open.spotify.com/album/1Y0EMZfHy9iiUcrVE0Hzfb) | 3:02 |
-| 125 | [Gate](https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Gate / Masterplan](https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI) | 5:43 |
+| 124 | [Gate](https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Gate / Masterplan](https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI) | 5:43 |
+| 125 | [Heaven Knows \- Andrea Botez & biskuwi Remix](https://open.spotify.com/track/1HpHLhlsqTyeX5CyYFFMYD) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Andrea Botez](https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd), [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Heaven Knows \(Andrea Botez & biskuwi Remix\)](https://open.spotify.com/album/5KkH3hAgUsxL6o390bL2gt) | 2:55 |
 
 Snapshot ID: `Z+8FDAAAAAD1UZ122n2lgFuzLzx+RWAw`

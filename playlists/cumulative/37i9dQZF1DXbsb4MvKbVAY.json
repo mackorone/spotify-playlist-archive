@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mielenkiintoisimmat biisit ensisoitossa. \ud83d\udc8e Kannessa OLGA.",
+  "description": "Mielenkiintoisimmat biisit ensisoitossa. \ud83d\udc8e Kannessa ELLIMEI.",
   "name": "Ensisoitossa",
   "tracks": [
     {
@@ -363,6 +363,24 @@
     },
     {
       "album": {
+        "name": "Aaveita",
+        "url": "https://open.spotify.com/album/5D11gATpE4PgPRDq4AGRSN"
+      },
+      "artists": [
+        {
+          "name": "niiles",
+          "url": "https://open.spotify.com/artist/7K95f5w10whY0tAjKZjuiz"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214400,
+      "name": "Aaveita",
+      "url": "https://open.spotify.com/track/1cRfhK4CXqFCqbjSYs6lIE"
+    },
+    {
+      "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
       },
@@ -396,6 +414,24 @@
       "duration_ms": 189345,
       "name": "Action Man - The Greatest Hero of All",
       "url": "https://open.spotify.com/track/6iPk4LbYViadWPRSxBo9Gv"
+    },
+    {
+      "album": {
+        "name": "Addiktio",
+        "url": "https://open.spotify.com/album/0wQgv1hP4I114cG0k21xSl"
+      },
+      "artists": [
+        {
+          "name": "Miika",
+          "url": "https://open.spotify.com/artist/7aY4XP3cJx7pFPYHMaF8pi"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167200,
+      "name": "Addiktio",
+      "url": "https://open.spotify.com/track/5S9rqghKq43Ur0zTkxYezM"
     },
     {
       "album": {
@@ -468,7 +504,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 160120,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/0NGwtgU2iuEODApOW3lhqJ"
@@ -1913,6 +1949,32 @@
     },
     {
       "album": {
+        "name": "BNG",
+        "url": "https://open.spotify.com/album/0QvLjiSWo1O7LDjYNwZR0l"
+      },
+      "artists": [
+        {
+          "name": "Yavis",
+          "url": "https://open.spotify.com/artist/1CFOJLuG4JhEaKOZOkPGwg"
+        },
+        {
+          "name": "Illi",
+          "url": "https://open.spotify.com/artist/2hHqqII5xCoFEpb5tqxBFs"
+        },
+        {
+          "name": "Rehtori",
+          "url": "https://open.spotify.com/artist/0je8GyVcvrmlUThmTFOEt4"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183095,
+      "name": "BNG",
+      "url": "https://open.spotify.com/track/26rwCwEjlbokTJ0IWiwaZp"
+    },
+    {
+      "album": {
         "name": "Body Type",
         "url": "https://open.spotify.com/album/6pteqWmVaX9tkjvzUbdmvG"
       },
@@ -2324,6 +2386,24 @@
       "duration_ms": 173114,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/1uFRA9PHqgcdXpkQKFxNN5"
+    },
+    {
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/5dhhR8JBWXHrIKpbY1UZRP"
+      },
+      "artists": [
+        {
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189453,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/3zytAI32kYi10jOpO3Knuz"
     },
     {
       "album": {
@@ -4022,7 +4102,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 182348,
       "name": "Ehk\u00e4 Se Siit\u00e4",
       "url": "https://open.spotify.com/track/4d7xDAIBA521hbsGZieQvQ"
@@ -4142,6 +4222,24 @@
       "duration_ms": 176613,
       "name": "Ei mit\u00e4\u00e4n j\u00e4ljell\u00e4",
       "url": "https://open.spotify.com/track/2gyWO91pg2ALSP3zZrwoUr"
+    },
+    {
+      "album": {
+        "name": "Ei noi muut",
+        "url": "https://open.spotify.com/album/65whftA1Vu7YLxiwYkDgWc"
+      },
+      "artists": [
+        {
+          "name": "Vimma",
+          "url": "https://open.spotify.com/artist/26vvDMY0SNr27F2CiWTxLa"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189826,
+      "name": "Ei noi muut",
+      "url": "https://open.spotify.com/track/17FyLAcIYRhqY4doPeABpO"
     },
     {
       "album": {
@@ -4373,6 +4471,28 @@
     },
     {
       "album": {
+        "name": "En hengit\u00e4 (feat. D\u00e4di-J)",
+        "url": "https://open.spotify.com/album/4M6zAWO50M20lvLsgz3j8j"
+      },
+      "artists": [
+        {
+          "name": "Adrenalina",
+          "url": "https://open.spotify.com/artist/5GjxBSFVuxalIetf7RYQkX"
+        },
+        {
+          "name": "D\u00e4di-J",
+          "url": "https://open.spotify.com/artist/25PrAa7ZdvDgfwwi2mWrKQ"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178360,
+      "name": "En hengit\u00e4 (feat. D\u00e4di-J)",
+      "url": "https://open.spotify.com/track/0iPyd98EqQ6V0weMH7l1qn"
+    },
+    {
+      "album": {
         "name": "En sit\u00e4 tarkoittanut",
         "url": "https://open.spotify.com/album/58lUia8zs4GrvsxDt6v3vO"
       },
@@ -4489,6 +4609,28 @@
     },
     {
       "album": {
+        "name": "Enkeli",
+        "url": "https://open.spotify.com/album/68BaBbcSTIuakL0CHamIBt"
+      },
+      "artists": [
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        },
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170240,
+      "name": "Enkeli",
+      "url": "https://open.spotify.com/track/24nWnuX84FdKgpDCZgg3tQ"
+    },
+    {
+      "album": {
         "name": "4AM - EP",
         "url": "https://open.spotify.com/album/4WGMlGqAhpKkgsk0uHhaFx"
       },
@@ -4556,6 +4698,24 @@
       "duration_ms": 184434,
       "name": "Ensimm\u00e4inen rodeo",
       "url": "https://open.spotify.com/track/63bOA2aqFlPVof4vsRgClw"
+    },
+    {
+      "album": {
+        "name": "Erityisen hyv\u00e4",
+        "url": "https://open.spotify.com/album/0IQmXpX745a4eFEGtXo9K0"
+      },
+      "artists": [
+        {
+          "name": "Tupe.",
+          "url": "https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178608,
+      "name": "Erityisen hyv\u00e4",
+      "url": "https://open.spotify.com/track/2tLo3GXozBoluOVweDXQUQ"
     },
     {
       "album": {
@@ -4682,7 +4842,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 233200,
       "name": "Everybody's trying to figure me out",
       "url": "https://open.spotify.com/track/1CsGxcyExQn3vt4SNq91d1"
@@ -4906,7 +5066,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 182372,
       "name": "Feel Free",
       "url": "https://open.spotify.com/track/3pcnWOEq5ma8C1L3vR19Lt"
@@ -5140,6 +5300,28 @@
       "duration_ms": 157173,
       "name": "FLY",
       "url": "https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6"
+    },
+    {
+      "album": {
+        "name": "Follow The Waves (feat. Caden)",
+        "url": "https://open.spotify.com/album/2w1u1N0UTUrv0sWF7y5ncy"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Caden",
+          "url": "https://open.spotify.com/artist/3g9TrS2xoUpvNJXvQejXYS"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170454,
+      "name": "Follow The Waves (feat. Caden)",
+      "url": "https://open.spotify.com/track/5kFHq6Z70bf8jKrHHOBfGS"
     },
     {
       "album": {
@@ -5726,7 +5908,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 143600,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/6D3YpYu7OXAruxDiElKrE7"
@@ -5896,6 +6078,28 @@
       "duration_ms": 163330,
       "name": "Haloo",
       "url": "https://open.spotify.com/track/1iBB1eaWLm2B70LqUCdMZi"
+    },
+    {
+      "album": {
+        "name": "Haluamanilainen, mietin sua pahalla (Emma Gaala 2025 Live)",
+        "url": "https://open.spotify.com/album/2QXiRw2Y032iqIuXDyaFOo"
+      },
+      "artists": [
+        {
+          "name": "Mokoma",
+          "url": "https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB"
+        },
+        {
+          "name": "pehmoaino",
+          "url": "https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322964,
+      "name": "Haluamanilainen, mietin sua pahalla - Emma Gaala 2025 Live",
+      "url": "https://open.spotify.com/track/6GdsfRTm1mjLgyCP5Qd653"
     },
     {
       "album": {
@@ -6306,6 +6510,24 @@
       "duration_ms": 190203,
       "name": "Hengit\u00e4 baby",
       "url": "https://open.spotify.com/track/5DHADOOW2BVIsExNQbrXMY"
+    },
+    {
+      "album": {
+        "name": "Henry, come on",
+        "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311269,
+      "name": "Henry, come on",
+      "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
     },
     {
       "album": {
@@ -6825,6 +7047,24 @@
     },
     {
       "album": {
+        "name": "Huulia",
+        "url": "https://open.spotify.com/album/5GVkvugAYXE4fQhKgRlSrf"
+      },
+      "artists": [
+        {
+          "name": "\u00c4mb\u00d6",
+          "url": "https://open.spotify.com/artist/4G0t9tFkB3aF6Bzx9hSnL9"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156209,
+      "name": "Huulia",
+      "url": "https://open.spotify.com/track/60XofiF6ge58wJLoH5TGq6"
+    },
+    {
+      "album": {
         "name": "Huutaa",
         "url": "https://open.spotify.com/album/4Wf1Vu7WbPXVzENZ7y3umi"
       },
@@ -7060,6 +7300,24 @@
       "duration_ms": 178205,
       "name": "I Had Some Help (Feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
+    },
+    {
+      "album": {
+        "name": "I Hate That It's True",
+        "url": "https://open.spotify.com/album/4Bx9UDgMFGH2hyqm9Gia4P"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161420,
+      "name": "I Hate That It's True",
+      "url": "https://open.spotify.com/track/6H4stZ1AHlYnKl9iii1bvF"
     },
     {
       "album": {
@@ -7430,7 +7688,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 190053,
       "name": "Ihan vaan ihminen",
       "url": "https://open.spotify.com/track/4q043Fo5avTZt1s8T0Y5qK"
@@ -8121,6 +8379,24 @@
     },
     {
       "album": {
+        "name": "Kaiken arvoinen",
+        "url": "https://open.spotify.com/album/6EElBgZ03JW114cldLHg5L"
+      },
+      "artists": [
+        {
+          "name": "Behm",
+          "url": "https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234880,
+      "name": "Kaiken arvoinen",
+      "url": "https://open.spotify.com/track/04ItU6vyhnq8QHKIrYqDR1"
+    },
+    {
+      "album": {
         "name": "Kaiken kesken",
         "url": "https://open.spotify.com/album/2jUSyvjAKOwzytNzzGKTG6"
       },
@@ -8284,7 +8560,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 190608,
       "name": "Kaistaa",
       "url": "https://open.spotify.com/track/4vO0IpbBr424kXNHZvBfQ6"
@@ -8744,7 +9020,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 210640,
       "name": "Koko City (feat. TonoSlono & DJ Ibusal)",
       "url": "https://open.spotify.com/track/5Ai7hFGfIvdNYLbELNJgaL"
@@ -9010,7 +9286,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 185506,
       "name": "Kummitteleeks t\u00e4\u00e4l",
       "url": "https://open.spotify.com/track/0vrCdovjdd1nK2nWzYCFPI"
@@ -9053,6 +9329,24 @@
     },
     {
       "album": {
+        "name": "KUOLEMATON / ROTTA (feat. ibe)",
+        "url": "https://open.spotify.com/album/2tRQChArCEBOyEP8vEm36r"
+      },
+      "artists": [
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169559,
+      "name": "KUOLEMATON",
+      "url": "https://open.spotify.com/track/7nTx12Fpr61t8Y6ykd5AmK"
+    },
+    {
+      "album": {
         "name": "Kuollut liekki",
         "url": "https://open.spotify.com/album/2ZDCC2wA73083ZG8t2xmYV"
       },
@@ -9086,6 +9380,24 @@
       "duration_ms": 168750,
       "name": "Kusip\u00e4\u00e4",
       "url": "https://open.spotify.com/track/6Z5OLH0shZIbkRDxx7xD11"
+    },
+    {
+      "album": {
+        "name": "Kuuhun Ja Takas",
+        "url": "https://open.spotify.com/album/0mjJ0XEF3eqlT8v7wY09Zx"
+      },
+      "artists": [
+        {
+          "name": "PIETU",
+          "url": "https://open.spotify.com/artist/388WfZQAenuv60Aub0oimB"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189545,
+      "name": "Kuuhun Ja Takas",
+      "url": "https://open.spotify.com/track/0rxYt3OpVbu68bi0Tb0Z2b"
     },
     {
       "album": {
@@ -9708,7 +10020,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 172850,
       "name": "Liike on l\u00e4\u00e4ke",
       "url": "https://open.spotify.com/track/4QBks5nt05qmlblfid82Yr"
@@ -9752,6 +10064,24 @@
       "duration_ms": 172515,
       "name": "Lioness",
       "url": "https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"
+    },
+    {
+      "album": {
+        "name": "Lippissukupolven joutsenlaulu",
+        "url": "https://open.spotify.com/album/1eUKEKs1dn1OE5kYbZPLrM"
+      },
+      "artists": [
+        {
+          "name": "Litku Klemetti",
+          "url": "https://open.spotify.com/artist/3Z5GO6d7DMSBeSlNBophOR"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267995,
+      "name": "Lippissukupolven joutsenlaulu",
+      "url": "https://open.spotify.com/track/6dGNBHryvWMOh8B9ElZdkD"
     },
     {
       "album": {
@@ -10358,7 +10688,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 201933,
       "name": "Ma Meilleure Ennemie ft. Coldplay (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2FGPKZ6c4b0isCFyxLGiqv"
@@ -10500,6 +10830,24 @@
       "duration_ms": 181840,
       "name": "Made Of",
       "url": "https://open.spotify.com/track/4xlcLdfBSMO56LEbhfbVtx"
+    },
+    {
+      "album": {
+        "name": "made you cry",
+        "url": "https://open.spotify.com/album/35jHspHi3rG9PUkuEPhgjY"
+      },
+      "artists": [
+        {
+          "name": "Alessiah",
+          "url": "https://open.spotify.com/artist/1EdD1RXOUNqPUJAqwtnHWw"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160588,
+      "name": "made you cry",
+      "url": "https://open.spotify.com/track/1Dd6rQWeJCWRDULkmN5ioJ"
     },
     {
       "album": {
@@ -10774,7 +11122,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 159637,
       "name": "matkailija",
       "url": "https://open.spotify.com/track/2sbTWep9ms9gtk0FmqHxOT"
@@ -11523,6 +11871,24 @@
     },
     {
       "album": {
+        "name": "Mit\u00e4 kuvittelin",
+        "url": "https://open.spotify.com/album/5lWBbB87oL8gd7HYpL76DH"
+      },
+      "artists": [
+        {
+          "name": "Lahtine",
+          "url": "https://open.spotify.com/artist/4MkafptO9S9Fj4gvZEyWiS"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Mit\u00e4 kuvittelin",
+      "url": "https://open.spotify.com/track/5p2xTC1nplml8AmA9Sd8j3"
+    },
+    {
+      "album": {
         "name": "Mit\u00e4 meist j\u00e4\u00e4",
         "url": "https://open.spotify.com/album/0kNKcAFFALuDImbKDSksJ9"
       },
@@ -11811,6 +12177,24 @@
     },
     {
       "album": {
+        "name": "Mun ihminen",
+        "url": "https://open.spotify.com/album/4f3ETbbOr26nV6wlK4KoNl"
+      },
+      "artists": [
+        {
+          "name": "ELLIMEI",
+          "url": "https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153141,
+      "name": "Mun ihminen",
+      "url": "https://open.spotify.com/track/3VEV0SQHNl533SrB6bbIPY"
+    },
+    {
+      "album": {
         "name": "Mun Kummitus",
         "url": "https://open.spotify.com/album/2TAxv8YCROU1kKBrQ3Pzcq"
       },
@@ -12082,6 +12466,24 @@
       "duration_ms": 132042,
       "name": "M\u00e4 pelk\u00e4\u00e4n sua",
       "url": "https://open.spotify.com/track/72A4PySM6hlnFi71X10ufJ"
+    },
+    {
+      "album": {
+        "name": "M\u00e4\u00e4r\u00e4aikainen (rakkaus)",
+        "url": "https://open.spotify.com/album/2NpbyH7y9NbsjdCyPOjHXq"
+      },
+      "artists": [
+        {
+          "name": "Rosi",
+          "url": "https://open.spotify.com/artist/5UBkH6rCwJph8r38ZKQug6"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "M\u00e4\u00e4r\u00e4aikainen (rakkaus)",
+      "url": "https://open.spotify.com/track/5f3X7brdX4wXnn5hSCQ1kh"
     },
     {
       "album": {
@@ -12568,7 +12970,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 166031,
       "name": "Nostetaan malja",
       "url": "https://open.spotify.com/track/3rDcrOoZrJkcfw6hAiS81v"
@@ -13641,6 +14043,24 @@
     },
     {
       "album": {
+        "name": "PERKELE",
+        "url": "https://open.spotify.com/album/2OQP6Y8Qi4MoON2HwYIsrl"
+      },
+      "artists": [
+        {
+          "name": "Dilemma",
+          "url": "https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169362,
+      "name": "PERKELE",
+      "url": "https://open.spotify.com/track/5FwiJOcGokdWrlX0Ucfti2"
+    },
+    {
+      "album": {
         "name": "Per\u00e4valot (feat. Ellinoora)",
         "url": "https://open.spotify.com/album/4Km6npxY0tqUQMALhnSkLw"
       },
@@ -13786,7 +14206,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 288888,
       "name": "Pimeet\u00e4 valoo",
       "url": "https://open.spotify.com/track/7HOi1K5EQxIMtZ6ci98Zee"
@@ -13896,7 +14316,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 156701,
       "name": "Poika Perkele (feat. ibe)",
       "url": "https://open.spotify.com/track/5DhUGbUyEEYLBoxRus5awE"
@@ -14322,7 +14742,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 165600,
       "name": "Puu",
       "url": "https://open.spotify.com/track/5NEVJq1g0uX688eGdI3Q6j"
@@ -14474,7 +14894,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 198751,
       "name": "Radio pois",
       "url": "https://open.spotify.com/track/3b9Uw8TwUEuYfXvenwi1O4"
@@ -14618,7 +15038,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 167299,
       "name": "Raudasta tehty",
       "url": "https://open.spotify.com/track/2I03l9iatZYdc9UK1sEGbj"
@@ -14836,6 +15256,24 @@
       "duration_ms": 175493,
       "name": "Rhetorical Questions",
       "url": "https://open.spotify.com/track/4QR8axjkh9dPhey4BxOdpE"
+    },
+    {
+      "album": {
+        "name": "Rich",
+        "url": "https://open.spotify.com/album/6lwxh0r3dmw2mQ5LBH4UOG"
+      },
+      "artists": [
+        {
+          "name": "Bea and her Business",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151952,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/4vhRYAg2gsHzcgb9mHxjN7"
     },
     {
       "album": {
@@ -15846,7 +16284,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 155288,
       "name": "Sin\u00e4 p\u00e4iv\u00e4n\u00e4",
       "url": "https://open.spotify.com/track/1aYoqplFeeWtjbaeL7p49G"
@@ -15886,7 +16324,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 175098,
       "name": "Sis\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/37mYHqFXGMpGGEYouwz9E6"
@@ -16024,7 +16462,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 157103,
       "name": "SMARTPHONE MAKE ME DUMB",
       "url": "https://open.spotify.com/track/1ZHzO47YcJQWZd7TVqZKIE"
@@ -16060,7 +16498,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 161833,
       "name": "Soita mulle",
       "url": "https://open.spotify.com/track/2Mi2vA7DOMJk80mJIHyJ4N"
@@ -16078,7 +16516,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 163516,
       "name": "Soitellaan",
       "url": "https://open.spotify.com/track/2Dv4rHXyC3FOZymRMcbWHJ"
@@ -17083,6 +17521,24 @@
     },
     {
       "album": {
+        "name": "syd\u00e4n t\u00e4ynn\u00e4 kipuu",
+        "url": "https://open.spotify.com/album/0Olnej5OS9zqouctJWOeA0"
+      },
+      "artists": [
+        {
+          "name": "whereismike",
+          "url": "https://open.spotify.com/artist/6EbpHfQA5YHcyDKT0Ghaim"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138779,
+      "name": "syd\u00e4n t\u00e4ynn\u00e4 kipuu",
+      "url": "https://open.spotify.com/track/22wxrhjfetoi7Vp6Hwryhu"
+    },
+    {
+      "album": {
         "name": "Syd\u00e4ntens\u00e4rkij\u00e4",
         "url": "https://open.spotify.com/album/7xNd4JcIXOddfEV9D9pYM4"
       },
@@ -17412,7 +17868,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 195357,
       "name": "Tanssii",
       "url": "https://open.spotify.com/track/11opUaDrb08LliuVSUQBzd"
@@ -17965,6 +18421,24 @@
     },
     {
       "album": {
+        "name": "Toisessa el\u00e4m\u00e4ss\u00e4",
+        "url": "https://open.spotify.com/album/18WuSJbT1qsfVHcfBcLHlV"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209683,
+      "name": "Toisessa el\u00e4m\u00e4ss\u00e4",
+      "url": "https://open.spotify.com/track/7jLUZ7Hah28SRrs3NDugpD"
+    },
+    {
+      "album": {
         "name": "Toista sua",
         "url": "https://open.spotify.com/album/39isGUjAreup0WQjnI3Syd"
       },
@@ -18034,7 +18508,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 144924,
       "name": "Tommi (seksipommi)",
       "url": "https://open.spotify.com/track/6NayXQIy7SzSyEO9drruZD"
@@ -18194,7 +18668,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 179862,
       "name": "Traumat",
       "url": "https://open.spotify.com/track/1zCkLS4Xhad6sx12Rieebp"
@@ -18328,7 +18802,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 197133,
       "name": "Tuolileikki",
       "url": "https://open.spotify.com/track/6qWZGPbYtmjAabpIUyQFpW"
@@ -19176,7 +19650,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 144027,
       "name": "Valot kamera action",
       "url": "https://open.spotify.com/track/7iXarUBY2dGYlnBdGbVo9m"
@@ -19582,7 +20056,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 183138,
       "name": "Volcano",
       "url": "https://open.spotify.com/track/6TPvHFQqYLu2yNfCpxNH3e"
@@ -19847,6 +20321,24 @@
     },
     {
       "album": {
+        "name": "Weeds",
+        "url": "https://open.spotify.com/album/0tSvBu6CpwDWietypDNYPR"
+      },
+      "artists": [
+        {
+          "name": "Sugababes",
+          "url": "https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185512,
+      "name": "Weeds",
+      "url": "https://open.spotify.com/track/2rtsTSyvBThX27N89GRpaj"
+    },
+    {
+      "album": {
         "name": "Good Neighbours",
         "url": "https://open.spotify.com/album/1iArxZvJgmmlTo6VwuHvll"
       },
@@ -19986,6 +20478,24 @@
       "duration_ms": 178666,
       "name": "What It Feels Like",
       "url": "https://open.spotify.com/track/33ejPqwHiMJGVMSqbBmaJc"
+    },
+    {
+      "album": {
+        "name": "Never Look Down",
+        "url": "https://open.spotify.com/album/3FrIUKSAtIxvyVOiLRwbhm"
+      },
+      "artists": [
+        {
+          "name": "Isak Benjamin",
+          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173133,
+      "name": "What My Heart Needs",
+      "url": "https://open.spotify.com/track/0XYd2DMcwh4P2SDB6ahPNh"
     },
     {
       "album": {
@@ -20382,6 +20892,24 @@
       "duration_ms": 139230,
       "name": "yksin\u00e4inen cowboy",
       "url": "https://open.spotify.com/track/0vLnlU6zMmfFd6tmQaifWg"
+    },
+    {
+      "album": {
+        "name": "Lopulta",
+        "url": "https://open.spotify.com/album/5rTOKC2bJOlIwpsWxu5mmV"
+      },
+      "artists": [
+        {
+          "name": "Ville Veikka",
+          "url": "https://open.spotify.com/artist/17I0wkPmYMfhZXSmWrWX4C"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184573,
+      "name": "Yksipuolista",
+      "url": "https://open.spotify.com/track/7JfG60Khxnj8rXm2BC3Tkh"
     },
     {
       "album": {

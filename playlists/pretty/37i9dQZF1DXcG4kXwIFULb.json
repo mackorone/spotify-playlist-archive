@@ -1,6 +1,6 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 189561,
+  "num_followers": 189684,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "Chillout Album 3",
+        "url": "https://open.spotify.com/album/07dF8IQWnmj2a9hxW4HdVS"
+      },
+      "artists": [
+        {
+          "name": "Lazy",
+          "url": "https://open.spotify.com/artist/40xNNEdgCc2RVHO6vagYC7"
+        }
+      ],
+      "duration_ms": 208186,
+      "name": "It's Over",
+      "url": "https://open.spotify.com/track/6jcSHz9Uz3Tg1t5IMVZnQ8"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "The Remixes",
         "url": "https://open.spotify.com/album/6LWpqZwfSS8X4nmqS9g44S"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 422000,
       "name": "Inside My Mind (Blue Skies) - Elephant Remix",
       "url": "https://open.spotify.com/track/2ZLfTG0D2CVl773CLfNGbO"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Chillout Album 3",
-        "url": "https://open.spotify.com/album/07dF8IQWnmj2a9hxW4HdVS"
-      },
-      "artists": [
-        {
-          "name": "Lazy",
-          "url": "https://open.spotify.com/artist/40xNNEdgCc2RVHO6vagYC7"
-        }
-      ],
-      "duration_ms": 208186,
-      "name": "It's Over",
-      "url": "https://open.spotify.com/track/6jcSHz9Uz3Tg1t5IMVZnQ8"
     },
     {
       "added_at": "2024-07-12 16:10:01",

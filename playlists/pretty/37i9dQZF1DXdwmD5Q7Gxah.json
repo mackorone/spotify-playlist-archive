@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.substack.com/pub/loremandfriends/p/introducing-lorem-and-friends?r=ge875&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\">Read our our March newsletter...</a> Cover: 2hollis",
-  "num_followers": 1179204,
+  "num_followers": 1179213,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/bOZAAAAABdTtApSmjx0sZT2wxrnzvZ",
+  "snapshot_id": "Z/gN8AAAAAC5wbSQgTvFZYeJ5/Pit7Kj",
   "tracks": [
     {
       "added_at": "2025-04-04 04:00:24",
@@ -23,6 +23,22 @@
       "duration_ms": 214800,
       "name": "Back To Me",
       "url": "https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ"
+    },
+    {
+      "added_at": "2025-04-10 18:29:03",
+      "album": {
+        "name": "star",
+        "url": "https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "duration_ms": 142493,
+      "name": "nice",
+      "url": "https://open.spotify.com/track/5QD9PUqyVz8syPaZL4HAbB"
     },
     {
       "added_at": "2025-04-04 04:00:24",
@@ -49,38 +65,6 @@
       "url": "https://open.spotify.com/track/5TBvQZLNHpCvYLiO98FjEg"
     },
     {
-      "added_at": "2025-04-04 04:00:24",
-      "album": {
-        "name": "star",
-        "url": "https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7"
-      },
-      "artists": [
-        {
-          "name": "2hollis",
-          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
-        }
-      ],
-      "duration_ms": 143731,
-      "name": "you",
-      "url": "https://open.spotify.com/track/13vpSZ4nzZFBQNzmlR7HP2"
-    },
-    {
-      "added_at": "2025-04-03 18:43:18",
-      "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM"
-    },
-    {
       "added_at": "2025-04-09 15:28:50",
       "album": {
         "name": "Won't Give Up",
@@ -95,6 +79,38 @@
       "duration_ms": 171066,
       "name": "Won't Give Up",
       "url": "https://open.spotify.com/track/7dQ8Zd3AIAVqw2lxrelBlk"
+    },
+    {
+      "added_at": "2025-04-09 19:45:40",
+      "album": {
+        "name": "a million faces",
+        "url": "https://open.spotify.com/album/49jPojLRuWp71LnK3Y3ClE"
+      },
+      "artists": [
+        {
+          "name": "girlsweetvoiced",
+          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
+        }
+      ],
+      "duration_ms": 102068,
+      "name": "a million faces",
+      "url": "https://open.spotify.com/track/7F2nEClWeQ3x5ycA5qtKOI"
+    },
+    {
+      "added_at": "2025-04-10 18:29:03",
+      "album": {
+        "name": "pretty",
+        "url": "https://open.spotify.com/album/7yQBl3xgsOQPMSeWfrXVKf"
+      },
+      "artists": [
+        {
+          "name": "SAIAH",
+          "url": "https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "pretty",
+      "url": "https://open.spotify.com/track/154zZbZJdhfdxKMYhnQUvq"
     },
     {
       "added_at": "2025-04-04 04:00:24",
@@ -113,20 +129,20 @@
       "url": "https://open.spotify.com/track/1CsGxcyExQn3vt4SNq91d1"
     },
     {
-      "added_at": "2025-04-01 17:09:16",
+      "added_at": "2025-04-10 18:29:03",
       "album": {
-        "name": "Mystery Of Love (Demo)",
-        "url": "https://open.spotify.com/album/06pLW7elratms6S5yufTzn"
+        "name": "Roll the dice",
+        "url": "https://open.spotify.com/album/21zZA3rsn2kmFoCRmpIUrt"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
         }
       ],
-      "duration_ms": 244766,
-      "name": "Mystery Of Love - Demo",
-      "url": "https://open.spotify.com/track/62RTXxio7jbtBTxWz43JPS"
+      "duration_ms": 127123,
+      "name": "Roll the dice",
+      "url": "https://open.spotify.com/track/1lg1XJk0XHBfeqT389cfcJ"
     },
     {
       "added_at": "2025-04-04 04:00:24",
@@ -145,20 +161,20 @@
       "url": "https://open.spotify.com/track/0h7QUx68t1bvVeFSrDtKPJ"
     },
     {
-      "added_at": "2025-04-09 19:45:40",
+      "added_at": "2025-04-03 18:43:18",
       "album": {
-        "name": "a million faces",
-        "url": "https://open.spotify.com/album/49jPojLRuWp71LnK3Y3ClE"
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy"
       },
       "artists": [
         {
-          "name": "girlsweetvoiced",
-          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 102068,
-      "name": "a million faces",
-      "url": "https://open.spotify.com/track/7F2nEClWeQ3x5ycA5qtKOI"
+      "duration_ms": 197533,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM"
     },
     {
       "added_at": "2025-04-04 04:00:24",
@@ -227,34 +243,18 @@
     {
       "added_at": "2025-04-04 04:00:24",
       "album": {
-        "name": "BLUE SUPER LOVE (DELUXE)",
-        "url": "https://open.spotify.com/album/3lz6rls9zNIRyO5QWsdtxZ"
+        "name": "Cheer Me On",
+        "url": "https://open.spotify.com/album/3BZrsHbBApn2UyM8IclceX"
       },
       "artists": [
         {
-          "name": "Ally Evenson",
-          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
         }
       ],
-      "duration_ms": 216383,
-      "name": "Johnny",
-      "url": "https://open.spotify.com/track/6YLpAwojDuQzW15zjJIFdf"
-    },
-    {
-      "added_at": "2025-03-21 04:00:55",
-      "album": {
-        "name": "undressed",
-        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 182088,
-      "name": "undressed",
-      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
+      "duration_ms": 257786,
+      "name": "Cheer Me On",
+      "url": "https://open.spotify.com/track/11gdbJcwyy7mgOrhArwi1D"
     },
     {
       "added_at": "2025-04-04 04:00:24",
@@ -271,6 +271,38 @@
       "duration_ms": 188514,
       "name": "catch these fists",
       "url": "https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw"
+    },
+    {
+      "added_at": "2025-04-10 18:29:03",
+      "album": {
+        "name": "You Don't Have One Hope",
+        "url": "https://open.spotify.com/album/72DUqvLhI6ZyqvB82bovq9"
+      },
+      "artists": [
+        {
+          "name": "Operelly",
+          "url": "https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63"
+        }
+      ],
+      "duration_ms": 137173,
+      "name": "You Don't Have One Hope",
+      "url": "https://open.spotify.com/track/50ZJVGTEnnDGwzIctwd5g3"
+    },
+    {
+      "added_at": "2025-03-21 04:00:55",
+      "album": {
+        "name": "undressed",
+        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 182088,
+      "name": "undressed",
+      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
     },
     {
       "added_at": "2025-04-04 04:00:24",
@@ -303,6 +335,22 @@
       "duration_ms": 239895,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/04TCm13pPRL7HqKdWc8Pf6"
+    },
+    {
+      "added_at": "2025-04-04 04:00:24",
+      "album": {
+        "name": "star",
+        "url": "https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "duration_ms": 143731,
+      "name": "you",
+      "url": "https://open.spotify.com/track/13vpSZ4nzZFBQNzmlR7HP2"
     },
     {
       "added_at": "2025-01-16 18:55:03",
@@ -361,20 +409,20 @@
       "url": "https://open.spotify.com/track/2lOTK5uAzQ4OmRPXo2oAFX"
     },
     {
-      "added_at": "2025-03-19 15:46:02",
+      "added_at": "2025-04-04 04:00:24",
       "album": {
-        "name": "You got time and I got money",
-        "url": "https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn"
+        "name": "BLUE SUPER LOVE (DELUXE)",
+        "url": "https://open.spotify.com/album/3lz6rls9zNIRyO5QWsdtxZ"
       },
       "artists": [
         {
-          "name": "Smerz",
-          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
+          "name": "Ally Evenson",
+          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
         }
       ],
-      "duration_ms": 271583,
-      "name": "You got time and I got money",
-      "url": "https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0"
+      "duration_ms": 216383,
+      "name": "Johnny",
+      "url": "https://open.spotify.com/track/6YLpAwojDuQzW15zjJIFdf"
     },
     {
       "added_at": "2025-04-04 04:00:24",
@@ -409,20 +457,20 @@
       "url": "https://open.spotify.com/track/33QbyrTLRtBxgMzuNQsW5P"
     },
     {
-      "added_at": "2025-04-04 04:00:24",
+      "added_at": "2025-03-19 15:46:02",
       "album": {
-        "name": "Cheer Me On",
-        "url": "https://open.spotify.com/album/3BZrsHbBApn2UyM8IclceX"
+        "name": "You got time and I got money",
+        "url": "https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn"
       },
       "artists": [
         {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
         }
       ],
-      "duration_ms": 257786,
-      "name": "Cheer Me On",
-      "url": "https://open.spotify.com/track/11gdbJcwyy7mgOrhArwi1D"
+      "duration_ms": 271583,
+      "name": "You got time and I got money",
+      "url": "https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0"
     },
     {
       "added_at": "2025-04-04 04:00:24",
@@ -471,6 +519,22 @@
       "duration_ms": 155733,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/5DCSl2flxRehACINNyD9EX"
+    },
+    {
+      "added_at": "2025-04-01 17:09:16",
+      "album": {
+        "name": "Mystery Of Love (Demo)",
+        "url": "https://open.spotify.com/album/06pLW7elratms6S5yufTzn"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 244766,
+      "name": "Mystery Of Love - Demo",
+      "url": "https://open.spotify.com/track/62RTXxio7jbtBTxWz43JPS"
     },
     {
       "added_at": "2025-03-28 04:00:48",
@@ -535,6 +599,22 @@
       "duration_ms": 217263,
       "name": "Some Protector",
       "url": "https://open.spotify.com/track/6fjl6Ekn2hE7U9TLJ8teY0"
+    },
+    {
+      "added_at": "2025-03-14 04:03:00",
+      "album": {
+        "name": "A Kiss Dressed His Cheek",
+        "url": "https://open.spotify.com/album/5zxiCKwsVIJvDxvFFb35Eh"
+      },
+      "artists": [
+        {
+          "name": "Them & I",
+          "url": "https://open.spotify.com/artist/7FGAlyRveFmDqEaAwqEzIT"
+        }
+      ],
+      "duration_ms": 123962,
+      "name": "I'm Not Them",
+      "url": "https://open.spotify.com/track/79ddfmePpbSFnMgeY4vXhC"
     },
     {
       "added_at": "2025-03-28 04:00:48",
@@ -807,22 +887,6 @@
       "duration_ms": 207312,
       "name": "Dust",
       "url": "https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC"
-    },
-    {
-      "added_at": "2025-03-14 04:03:00",
-      "album": {
-        "name": "A Kiss Dressed His Cheek",
-        "url": "https://open.spotify.com/album/5zxiCKwsVIJvDxvFFb35Eh"
-      },
-      "artists": [
-        {
-          "name": "Them & I",
-          "url": "https://open.spotify.com/artist/7FGAlyRveFmDqEaAwqEzIT"
-        }
-      ],
-      "duration_ms": 123962,
-      "name": "I'm Not Them",
-      "url": "https://open.spotify.com/track/79ddfmePpbSFnMgeY4vXhC"
     },
     {
       "added_at": "2025-03-21 17:10:45",
@@ -1575,22 +1639,6 @@
       "duration_ms": 265074,
       "name": "Raw Blue",
       "url": "https://open.spotify.com/track/0jJQSNZdmRyVgBSFsNuGXJ"
-    },
-    {
-      "added_at": "2025-01-15 16:08:53",
-      "album": {
-        "name": "Vows",
-        "url": "https://open.spotify.com/album/0Ii3SThOZCjezgWBNd7yPa"
-      },
-      "artists": [
-        {
-          "name": "Operelly",
-          "url": "https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63"
-        }
-      ],
-      "duration_ms": 162143,
-      "name": "Vows",
-      "url": "https://open.spotify.com/track/1gljagKZ8aORj8hSXdLsAK"
     },
     {
       "added_at": "2024-12-11 18:28:53",

@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films.
 
-186 songs - 12 hr 43 min
+187 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Ma Vie en Rose \- MovieEdit](https://open.spotify.com/track/4chSM0fI1ZK9RxqGCkEpcA) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [マリー・アントワネット\(CV.平野 綾\)](https://open.spotify.com/artist/3Uxkq58KaQpOT9EMeRczIY) | [Song Collection from The Rose of Versailles \- MovieEDIT \-](https://open.spotify.com/album/5eZ2EtpDifkPsObzHwjqc5) | 2:23 | 2025-02-04 |  |
 | [ME & CREED <nZkv>](https://open.spotify.com/track/4TUMn1MyfbGKEH3SOQis4T) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [R∃/MEMBER](https://open.spotify.com/album/34UE0ATLRzLTX2hytQnzu0) | 3:26 | 2022-06-21 | 2024-01-31 |
 | [ME & CREED <nZkv>](https://open.spotify.com/track/6MXCJwgxBt991xQt2kC9Dw) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [R∃/MEMBER](https://open.spotify.com/album/77GtJJcdtbg254QMEvQfNr) | 3:26 | 2022-06-07 | 2022-07-29 |
+| [MONTAGE](https://open.spotify.com/track/35lRjn0gdvNNYpPmEjVDSa) | [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln) | [MONTAGE](https://open.spotify.com/album/3VEkzo2LI14ETYv0wM5192) | 2:59 | 2025-04-10 |  |
 | [Möbius](https://open.spotify.com/track/3FgvBg0X20xbF0Dfq0N01E) | [mpi](https://open.spotify.com/artist/0udboBeiQhCskhYBLMbx9K), [Laco](https://open.spotify.com/artist/32e1e0DV0A1t0puvN1KXsj), [Benjamin](https://open.spotify.com/artist/6NpRVuWkG3A8POwwyWlxkx), [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [Mobile Suit Gundam Hathaway Original Motion Picture Soundtrack](https://open.spotify.com/album/0jQX86ZLgJ6w1Ll2rM54N5) | 3:53 | 2022-06-21 | 2024-04-19 |
 | [Möbius](https://open.spotify.com/track/2Zamj985QrDpk6kRmG6qKt) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [mpi](https://open.spotify.com/artist/0udboBeiQhCskhYBLMbx9K), [Laco](https://open.spotify.com/artist/32e1e0DV0A1t0puvN1KXsj), [Benjamin](https://open.spotify.com/artist/6NpRVuWkG3A8POwwyWlxkx) | [機動戦士ガンダム 閃光のハサウェイ オリジナル・サウンドトラック](https://open.spotify.com/album/5bVzjURZmf52VarMPyFF43) | 3:53 | 2022-06-07 |  |
 | [narrative](https://open.spotify.com/track/1v4W1B2Qq29MTVXZA26Jhj) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [R∃/MEMBER](https://open.spotify.com/album/34UE0ATLRzLTX2hytQnzu0) | 4:20 | 2022-06-21 | 2024-04-19 |

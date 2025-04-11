@@ -4,7 +4,7 @@
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more.
 
-977 songs - 2 day 3 hr 24 min
+978 songs - 2 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -480,6 +480,7 @@
 | [Life Goes On](https://open.spotify.com/track/15Vlfa18uD2w98YG5zX7Pb) | [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Life Goes On](https://open.spotify.com/album/4gQ2RlVnWDZ61Y8fTJTap5) | 2:49 | 2021-04-10 | 2021-07-17 |
 | [Lift Off](https://open.spotify.com/track/7JcmiGV3hU4zBtzQ24q2cU) | [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW), [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI) | [Midnight Music](https://open.spotify.com/album/2V95gpB5qwFoaBx5Fgn4IQ) | 2:22 | 2021-04-24 | 2021-07-04 |
 | [Lift You Up](https://open.spotify.com/track/766OCy2QMl814sxiR1gl6v) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Lift You Up](https://open.spotify.com/album/1UtcVAhnTCM1eqnCVZLEaI) | 2:13 | 2024-04-18 | 2024-07-19 |
+| [like JENNIE \- Peggy Gou Remix](https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [like JENNIE](https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf) | 3:28 | 2025-04-10 |  |
 | [Like Me](https://open.spotify.com/track/6IJjV6gI4bKMSXoH2a35bn) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Like Me](https://open.spotify.com/album/55ctcV31rSIjUUlCfENH2L) | 4:12 | 2022-06-09 | 2022-06-25 |
 | [Like Me \- Sam Alfred Remix](https://open.spotify.com/track/70pP6P26o0e4KX0n5h3mz1) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Like Me \(Sam Alfred Remix\)](https://open.spotify.com/album/5fyfN27BNkLx6BX8vebTaK) | 4:12 | 2022-06-24 | 2022-08-20 |
 | [Likkle Drop \(feat\. Kwame\)](https://open.spotify.com/track/7fP89DrqJcr5cmvWBdkBBP) | [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY), [thatboykwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto) | [Likkle Drop \(feat\. Kwame\)](https://open.spotify.com/album/4ERrzPJu5Yh3QluUblMids) | 2:56 | 2023-12-08 | 2024-04-05 |

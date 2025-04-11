@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: <a href="https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt?si=r\_g1xn5CQQqWlLHPTMc72Q">  حكيم </a>
 
-285 songs - 20 hr 42 min
+286 songs - 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Yala Bara Mn Hayaty](https://open.spotify.com/track/5zUXH9sKfnGy6oIZSf2wkA) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Yala Bara Mn Hayaty](https://open.spotify.com/album/6ER6I8lOsQiAqQNvkGILAB) | 4:57 | 2021-12-16 | 2023-03-30 |
 | [Yamnana](https://open.spotify.com/track/2dSBiSoVKqR16BxZnmanZv) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Zahmit Hayaty](https://open.spotify.com/album/4BgsZvPh2AKXKOB82suKNc) | 4:17 | 2023-02-16 | 2023-12-22 |
 | [Yamnana](https://open.spotify.com/track/3eT6PNrOKnvjTbzn60Exoz) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Zahmit Hayaty](https://open.spotify.com/album/1p1Ku5H6hutZT7esX7Itwa) | 4:17 | 2021-12-16 | 2023-03-30 |
-| [Yoom El Ghorba](https://open.spotify.com/track/2oXlQeY8OSZcbPSaIzL1rC) | [Hamdy Batshan](https://open.spotify.com/artist/7lRa9SS2F03TMvpRbT44cX), [Ahmed Hamama](https://open.spotify.com/artist/6tBsU69wBs1rLXpHtX1NB1) | [Yoom El Ghorba](https://open.spotify.com/album/6efDLOYNt1jx38q1WBfVef) | 3:20 | 2024-03-29 |  |
+| [Yoom El Ghorba](https://open.spotify.com/track/2oXlQeY8OSZcbPSaIzL1rC) | [Hamdy Batshan](https://open.spotify.com/artist/7lRa9SS2F03TMvpRbT44cX), [Ahmed Hamama](https://open.spotify.com/artist/6tBsU69wBs1rLXpHtX1NB1) | [Yoom El Ghorba](https://open.spotify.com/album/6efDLOYNt1jx38q1WBfVef) | 3:20 | 2024-03-29 | 2025-04-11 |
 | [Zahma](https://open.spotify.com/track/6hahb2CyhzOxgqKVBRbmjw) | [Ahmed Adaweya](https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5) | [Zahma](https://open.spotify.com/album/57ufRngDYryV07UJnTxPpR) | 9:27 | 2021-12-16 | 2023-05-12 |
 | [Zelzal](https://open.spotify.com/track/0NIPlnoBzm52xIDkdkHX5M) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Zelzal](https://open.spotify.com/album/3T7Yt8u7VfO1E6wlsoJCpy) | 4:18 | 2021-12-16 | 2023-05-13 |
 | [آخرة طريقى دا إيه ؟ \- من مسلسل كوبرا](https://open.spotify.com/track/4k3ygO9jqERGUnHB5UnOtG) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [آخرة طريقى دا إيه ؟ \(من مسلسل كوبرا\)](https://open.spotify.com/album/3Qgdwj8TYUrv0ksxVsn6KN) | 2:29 | 2024-04-11 |  |
@@ -291,6 +291,7 @@
 | [يا بت يلا](https://open.spotify.com/track/5RCNzhkR0PshCFMCZsnT2t) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [يا بت يلا](https://open.spotify.com/album/6wf0I4IPoVbeEEJQ2kbPqX) | 4:42 | 2021-12-16 | 2023-05-12 |
 | [يا بيبي](https://open.spotify.com/track/0v1f30Ibp7LtFhZ8INxb99) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Sara Al Zakaria](https://open.spotify.com/artist/3kHLrXBjNt9F3bo9ABGvpv) | [يا بيبي](https://open.spotify.com/album/3RnVS4mQx4iFffAEngKKVL) | 3:51 | 2023-06-06 | 2024-02-23 |
 | [يا حبر بدرى لسه](https://open.spotify.com/track/1EzV91uHDaDuyBoAABz6kR) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [يا حبر بدرى لسه](https://open.spotify.com/album/3EmNxHXYXt2ArGVq9dqGCG) | 4:15 | 2024-09-12 | 2024-12-20 |
+| [يا زعلانين](https://open.spotify.com/track/0yInQJuSOF1GexJ8KxFvwF) | [Sofia](https://open.spotify.com/artist/2oFRZ4LhjnSFS47fNaUIzu) | [يا زعلانين](https://open.spotify.com/album/10QA7ouCIU0SUQQWvxr4vJ) | 2:32 | 2025-04-10 |  |
 | [يلا سلام](https://open.spotify.com/track/3ta6cNExN9B19VKESQtsnr) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [يلا سلام](https://open.spotify.com/album/0NHWTldRKmOBfdAQa5yQO3) | 4:02 | 2022-07-14 | 2022-12-21 |
 | [يلا سلام](https://open.spotify.com/track/6GCsl15IwaX7sbXXgoNE6P) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [يلا سلام](https://open.spotify.com/album/3vKVao9HNXPEH41wpgSFQ5) | 4:02 | 2021-12-16 | 2022-07-29 |
 

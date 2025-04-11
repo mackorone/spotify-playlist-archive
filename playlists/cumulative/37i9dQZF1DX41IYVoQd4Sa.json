@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05d5\u05e9\u05d9",
+          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197045,
+      "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn"
+    },
+    {
+      "album": {
         "name": "\u05e2\u05d5\u05d3 \u05de\u05e9\u05e7\u05d0\u05d5\u05ea \u05d7\u05e8\u05d9\u05e4\u05d9\u05dd",
         "url": "https://open.spotify.com/album/3RI19QNV4o6KenqcqmApIK"
       },
@@ -52,7 +70,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 289436,
       "name": "A Better Man",
       "url": "https://open.spotify.com/track/3ioH5vhka49gZPgq1jlBJr"
@@ -250,6 +268,32 @@
       "duration_ms": 145911,
       "name": "Black Eye",
       "url": "https://open.spotify.com/track/40jNQbXc3SxO2VVmgSsFlc"
+    },
+    {
+      "album": {
+        "name": "Butterfly Mind",
+        "url": "https://open.spotify.com/album/3DHDNMxRrZYYrZ0Po6fxCp"
+      },
+      "artists": [
+        {
+          "name": "Helfer",
+          "url": "https://open.spotify.com/artist/6ca6hQoFgRKbYyPURjPL0t"
+        },
+        {
+          "name": "Totemo",
+          "url": "https://open.spotify.com/artist/6tUQYwxSVGcNxUYvxIkqJg"
+        },
+        {
+          "name": "Age Is a Box",
+          "url": "https://open.spotify.com/artist/1O0pQLwyMDj4bq3SHtlqaQ"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223216,
+      "name": "Butterfly Mind",
+      "url": "https://open.spotify.com/track/0ABdJfuNeEFPljTk5LsgWy"
     },
     {
       "album": {
@@ -1446,7 +1490,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 161011,
       "name": "\u05d0\u05e0\u05d8\u05d9\u05e9\u05d9\u05d9\u05de\u05d9\u05e0\u05d2",
       "url": "https://open.spotify.com/track/5IoMR30yNAAqk2WL7CrBOu"
@@ -1967,6 +2011,24 @@
     },
     {
       "album": {
+        "name": "\u05d9\u05ea\u05d2\u05dc\u05d4 \u05d4\u05d0\u05d5\u05e8",
+        "url": "https://open.spotify.com/album/31czfHaWu4Gt5MtOqECw9G"
+      },
+      "artists": [
+        {
+          "name": "Anat Malamud",
+          "url": "https://open.spotify.com/artist/34VgaC3eefsp2SoNFU4cZQ"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154554,
+      "name": "\u05d4\u05db\u05d9 \u05de\u05d9\u05d5\u05d7\u05d3\u05ea",
+      "url": "https://open.spotify.com/track/5fQZD0lHFBPnvkKBhQ4SOh"
+    },
+    {
+      "album": {
         "name": "\u05d4\u05db\u05dc \u05de\u05ea\u05e4\u05e8\u05e7",
         "url": "https://open.spotify.com/album/59FNHo2IUGXrPs2cHJZfwk"
       },
@@ -2409,6 +2471,24 @@
     },
     {
       "album": {
+        "name": "\u05d7\u05ea\u05d5\u05dc \u05d5\u05e2\u05db\u05d1\u05e8",
+        "url": "https://open.spotify.com/album/4f8rjwbhxLzdOnsUrNlVTV"
+      },
+      "artists": [
+        {
+          "name": "\u05e7\u05d9\u05e7\u05d9 \u05de\u05dc\u05d9\u05e0\u05e7\u05d9",
+          "url": "https://open.spotify.com/artist/3IC3e7Xim7DpP5jBbzqdmo"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233743,
+      "name": "\u05d7\u05ea\u05d5\u05dc \u05d5\u05e2\u05db\u05d1\u05e8",
+      "url": "https://open.spotify.com/track/70zpgj4c2NFnHlQ3GRwmMD"
+    },
+    {
+      "album": {
         "name": "\u05de\u05d5\u05e9\u05dc\u05de\u05d3\u05d9",
         "url": "https://open.spotify.com/album/0cqZpntWMsPS3q4E40a6lk"
       },
@@ -2446,6 +2526,24 @@
       "duration_ms": 145000,
       "name": "\u05d9\u05d5\u05de\u05d4",
       "url": "https://open.spotify.com/track/5APVA4YjS7v452lUvnf3mS"
+    },
+    {
+      "album": {
+        "name": "\u05d4\u05d0\u05de\u05e0\u05d4 \u05d4\u05d7\u05d1\u05e8\u05ea\u05d9\u05ea",
+        "url": "https://open.spotify.com/album/5QeQGrTNQwH1hToFmA4M7Q"
+      },
+      "artists": [
+        {
+          "name": "IDIOT!",
+          "url": "https://open.spotify.com/artist/0FJGOh7nv9dgIvtrVsT9Qe"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185585,
+      "name": "\u05d9\u05dc\u05d3\u05d4",
+      "url": "https://open.spotify.com/track/6EP4IVc2g2SW1ypyvkkgg6"
     },
     {
       "album": {
@@ -2888,7 +2986,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 152480,
       "name": "\u05dc\u05d0\u05d9\u05e9\u05d5\u05e8 \u05d4\u05e9\u05ea\u05ea\u05e4\u05d5\u05ea\u05da",
       "url": "https://open.spotify.com/track/5wjDfUkWXlfqId4NHFlm0l"
@@ -2960,7 +3058,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 220360,
       "name": "\u05dc\u05d4\u05d9\u05d5\u05ea \u05dc\u05d1\u05d3 - \u05d1\u05d0\u05e8\u05d1\u05d9 Live",
       "url": "https://open.spotify.com/track/4IUuctG736RauTKMbWCP3T"
@@ -3076,7 +3174,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 183750,
       "name": "\u05de\u05d4 \u05d0\u05de\u05d9\u05ea\u05d9",
       "url": "https://open.spotify.com/track/7feVXCRXPondzNwVP9UWH7"
@@ -3305,6 +3403,24 @@
     },
     {
       "album": {
+        "name": "\u05d9\u05ea\u05d2\u05dc\u05d4 \u05d4\u05d0\u05d5\u05e8",
+        "url": "https://open.spotify.com/album/31czfHaWu4Gt5MtOqECw9G"
+      },
+      "artists": [
+        {
+          "name": "Anat Malamud",
+          "url": "https://open.spotify.com/artist/34VgaC3eefsp2SoNFU4cZQ"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197566,
+      "name": "\u05de\u05e9\u05d4\u05d5 \u05dc\u05ea\u05ea",
+      "url": "https://open.spotify.com/track/4AhPbFtFCfAQfWYmGHOGFi"
+    },
+    {
+      "album": {
         "name": "\u05de\u05e9\u05d5\u05dc\u05e9",
         "url": "https://open.spotify.com/album/7pjaDTOilZVQzwm3pllXVm"
       },
@@ -3324,7 +3440,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 165513,
       "name": "\u05de\u05e9\u05d5\u05dc\u05e9",
       "url": "https://open.spotify.com/track/2BdME3ZkhIW87AGn05FSh3"

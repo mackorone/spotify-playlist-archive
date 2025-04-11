@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2592275,
+  "num_followers": 2592316,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -38,15 +38,11 @@
         {
           "name": "Skrillex",
           "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "HAWAII SLIM",
-          "url": "https://open.spotify.com/artist/2sGZiuhYWjfElrC65muVWz"
         }
       ],
-      "duration_ms": 89600,
-      "name": "SPITFIRE",
-      "url": "https://open.spotify.com/track/0IzEFIuQ216h7pq4HKsqY4"
+      "duration_ms": 129629,
+      "name": "VOLTAGE",
+      "url": "https://open.spotify.com/track/227u7P0lZxYfBH9KjT1gsf"
     },
     {
       "added_at": "2025-04-04 19:04:20",
@@ -242,11 +238,15 @@
         {
           "name": "Skrillex",
           "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "HAWAII SLIM",
+          "url": "https://open.spotify.com/artist/2sGZiuhYWjfElrC65muVWz"
         }
       ],
-      "duration_ms": 129629,
-      "name": "VOLTAGE",
-      "url": "https://open.spotify.com/track/227u7P0lZxYfBH9KjT1gsf"
+      "duration_ms": 89600,
+      "name": "SPITFIRE",
+      "url": "https://open.spotify.com/track/0IzEFIuQ216h7pq4HKsqY4"
     },
     {
       "added_at": "2025-04-04 19:04:20",
@@ -989,7 +989,7 @@
         },
         {
           "name": "DJ DIESEL",
-          "url": "https://open.spotify.com/artist/1HBcSNYKyatbUP0cC8usCv"
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
         },
         {
           "name": "Shaquille O'Neal",
@@ -1095,6 +1095,22 @@
       "duration_ms": 223561,
       "name": "Pour Your Heart Out (feat. 070 Shake)",
       "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
+    },
+    {
+      "added_at": "2025-04-04 19:04:20",
+      "album": {
+        "name": "California Dreamin'",
+        "url": "https://open.spotify.com/album/3pzkEzkgov9KStfPxPiA1C"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        }
+      ],
+      "duration_ms": 170057,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/1kq7feGMFG3NPRwm5XR5fs"
     },
     {
       "added_at": "2025-04-04 19:04:20",
@@ -1319,22 +1335,6 @@
     {
       "added_at": "2025-04-04 19:04:20",
       "album": {
-        "name": "California Dreamin'",
-        "url": "https://open.spotify.com/album/3pzkEzkgov9KStfPxPiA1C"
-      },
-      "artists": [
-        {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
-        }
-      ],
-      "duration_ms": 170057,
-      "name": "California Dreamin'",
-      "url": "https://open.spotify.com/track/1kq7feGMFG3NPRwm5XR5fs"
-    },
-    {
-      "added_at": "2025-04-04 19:04:20",
-      "album": {
         "name": "Uncaged",
         "url": "https://open.spotify.com/album/76SQ3dLYSgZFTzHTalpf07"
       },
@@ -1492,7 +1492,7 @@
       },
       "artists": [
         {
-          "name": "DIESEL",
+          "name": "DJ DIESEL",
           "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
         },
         {
@@ -1525,7 +1525,7 @@
         },
         {
           "name": "DJ DIESEL",
-          "url": "https://open.spotify.com/artist/1HBcSNYKyatbUP0cC8usCv"
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
         },
         {
           "name": "Shaquille O'Neal",

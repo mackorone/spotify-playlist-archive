@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! <br/>Cover : MHR, JOKER390P
 
-279 songs - 14 hr 27 min
+280 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [NERA](https://open.spotify.com/track/2xQTNL2WMBDZdeWup9EZjs) | [ARJN](https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi), [KDS](https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7), [RONN](https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW) | [NERA](https://open.spotify.com/album/1WEsz10T3XhBmloE9Mmj5u) | 3:33 | 2025-03-26 |  |
 | [Neram](https://open.spotify.com/track/1jZxDKiB7HwTZl8V3nMhPb) | [Sankar Sharma](https://open.spotify.com/artist/3hmaYZ6q0ZWzdbpz8B5kZE), [Rzee](https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et), [Bhadra Rajin](https://open.spotify.com/artist/2Z8xrdU7UXKkHgtJ3U4HZn) | [Jai Ganesh \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6S6FCMEo7uNTqeICbpli4O) | 2:56 | 2024-04-22 | 2024-05-22 |
 | [NERAM POKKU](https://open.spotify.com/track/0WtdQo5rRTMLTjcEvPGYkJ) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [NERAM POKKU](https://open.spotify.com/album/4k8PDPpDBGGrh4wNYJVuOE) | 3:01 | 2022-06-23 | 2024-02-13 |
-| [Nerunnu](https://open.spotify.com/track/5YPCtN3N5UDviYGBxzNdrw) | [Seth Panda](https://open.spotify.com/artist/3b8ZA7L8i3d33EPErGTWCo) | [Nerunnu](https://open.spotify.com/album/64iFiAWa20toW721CRcHBb) | 3:13 | 2025-01-31 |  |
+| [Nerunnu](https://open.spotify.com/track/5YPCtN3N5UDviYGBxzNdrw) | [Seth Panda](https://open.spotify.com/artist/3b8ZA7L8i3d33EPErGTWCo) | [Nerunnu](https://open.spotify.com/album/64iFiAWa20toW721CRcHBb) | 3:13 | 2025-01-31 | 2025-04-11 |
 | [Nin Chiriyil](https://open.spotify.com/track/6lZJ0MIViSl8CVY8EXP5Ys) | [DKP](https://open.spotify.com/artist/6E7khfromAR94ZBlKHtzU1), [Jackson](https://open.spotify.com/artist/6weKA8m0b1AidWiZTuGG3e) | [Nin Chiriyil](https://open.spotify.com/album/4oHkjRPZ21sKXjbvSYlx5e) | 3:23 | 2025-01-09 | 2025-03-22 |
 | [NJ \- Kattanchaya](https://open.spotify.com/track/1PnNh5twTnJ8Z4PVN6lgb1) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [NJ \- Kattanchaya](https://open.spotify.com/album/3ELAr7Cm8P7HfHaRxCEJ7Q) | 1:07 | 2022-12-09 | 2024-05-22 |
 | [NNIV](https://open.spotify.com/track/7MxaW6IbtJsnbTvKHCRgoB) | [EXTER](https://open.spotify.com/artist/6GlV4Epde8mUG4SccVf7Vg), [AYARKAY](https://open.spotify.com/artist/2tyf0OD4TeO48e8FVasZ0P), [L4TERN](https://open.spotify.com/artist/3ocwwpzYk8POOMqGiPP6N4), [Owltrix](https://open.spotify.com/artist/5AJFuAsx761Hx7KCsq5hZS) | [NNIV](https://open.spotify.com/album/2wFR5sI241SlJ0sn5yzCWU) | 2:32 | 2025-03-17 | 2025-04-08 |
@@ -201,6 +201,7 @@
 | [Pattuduthu Vannathum \(From "Kumari"\)](https://open.spotify.com/track/5m5Ns63z7A2QGSqL3QghqL) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Athul Narukara](https://open.spotify.com/artist/7d6mBwW3zN59r4vm8TnrWR), [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Sreehari](https://open.spotify.com/artist/7JoyE37sAJF5iZod0sNBhr) | [Pattuduthu Vannathum \(From "Kumari"\) \- Single](https://open.spotify.com/album/7FPwLr3yhBPyGrlBPpSWul) | 4:09 | 2022-11-04 | 2023-07-24 |
 | [Payye Payye Thinnanda](https://open.spotify.com/track/3TijOEnNGG9jKkNpt0a2WO) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Payye Payye Thinnanda](https://open.spotify.com/album/6jhnLuH31gqeu44mrFubf0) | 2:56 | 2024-04-15 | 2024-05-22 |
 | [Pazhampori](https://open.spotify.com/track/3jWPpu1blZ0QprSxmRFmUr) | [AK Hash](https://open.spotify.com/artist/4X0Ez8IAyMT3vPbwHENoF9) | [Pazhampori](https://open.spotify.com/album/1fJESuNhmINOlbLa3UbzcQ) | 2:41 | 2023-10-25 | 2024-02-13 |
+| [PEDDLER](https://open.spotify.com/track/2fEEErFgFEJefI4w00AeVW) | [MAKAN.](https://open.spotify.com/artist/2AXZ392uTSLZ1B7B5WiwCG), [abhiraman](https://open.spotify.com/artist/4Pb98qT9JyD9JoyqOa1P0i) | [PEDDLER](https://open.spotify.com/album/7xJHCL0DuQcQFYLTZDGArL) | 2:43 | 2025-04-10 |  |
 | [Piranth \(From "Bromance"\)](https://open.spotify.com/track/596chWmH2tiFwKfkJbRMRP) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Pratika](https://open.spotify.com/artist/3XTyIx2dpw9ulI4ALrny1Z), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB) | [Piranth \(From "Bromance"\)](https://open.spotify.com/album/0a8EVZZEisU594aeHOjxLM) | 2:02 | 2025-02-21 |  |
 | [PO](https://open.spotify.com/track/4QhqKtimLWiEx2haRDjn71) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [PO](https://open.spotify.com/album/79llMCaaGlNv70hVUXjJBs) | 3:12 | 2022-05-03 | 2024-04-23 |
 | [POGALLEY](https://open.spotify.com/track/2sBVokjCyOYJSbiJaeq3Ni) | [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9), [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe) | [IRUTHALA PAKSHI](https://open.spotify.com/album/7s0xY54MjcJdw1kBrv9e4z) | 2:55 | 2023-07-23 | 2024-05-22 |

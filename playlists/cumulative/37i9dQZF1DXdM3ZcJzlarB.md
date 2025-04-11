@@ -2,9 +2,9 @@
 
 ### [mint argentina](https://open.spotify.com/playlist/37i9dQZF1DXdM3ZcJzlarB)
 
-> Lo nuevo y lo más destacado de la electrónica nacional\. Portada: motty & S3BZS
+> Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Peces Raros.
 
-235 songs - 23 hr 10 min
+237 songs - 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Ficción](https://open.spotify.com/track/6Vqv48LyHymrUyS2va4HWs) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [UNO](https://open.spotify.com/album/3p7sp4AYbFmfzBdiyJcsqY) | 3:21 | 2023-11-17 | 2025-03-20 |
 | [Finally](https://open.spotify.com/track/52uVY91xyMUeEC3KwIIF0z) | [ANITA B QUEEN](https://open.spotify.com/artist/2YcZup1n6AW4BxoikeUswf), [LUIGI NAVARRO](https://open.spotify.com/artist/3Wzeyf7w30DdjN6aDBf4vZ) | [Finally](https://open.spotify.com/album/5vi4WDPfMmrZIrquFJTuqd) | 2:48 | 2025-03-20 |  |
 | [Frecuencias](https://open.spotify.com/track/5tugFkaIU3eMiFyNDXpiAY) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Artificial](https://open.spotify.com/album/2RuOgjec3N5frlq6O5MgUI) | 3:50 | 2024-07-26 | 2025-03-20 |
+| [Frecuencias \- Mariano Mellino & FOLGAR Remix](https://open.spotify.com/track/1H7KcfmKY5Jwc4U41A4G49) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9), [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE), [Folgar](https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6) | [Desconfiguración, Vol\. 4](https://open.spotify.com/album/5LGIrNz5TLDoV228z8oLeO) | 6:52 | 2025-04-11 |  |
 | [Freebird \- Emi Galvan Remix](https://open.spotify.com/track/657T8RyBAOE47nqlSvJTZf) | [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN), [Emi Galvan](https://open.spotify.com/artist/5A4rzeZ3KXx7VYvcna6awj) | [Nick Warren Remixed](https://open.spotify.com/album/0a7VzfLfHiHWRHfZqiTfMQ) | 8:54 | 2023-11-17 |  |
 | [Frequency Shift](https://open.spotify.com/track/7vl0zRu5s8MyFo7qLFwRRC) | [Emi Galvan](https://open.spotify.com/artist/5A4rzeZ3KXx7VYvcna6awj), [DJ Zombi](https://open.spotify.com/artist/450erKExpL0jexs1XpIiiQ) | [Frequency Shift](https://open.spotify.com/album/6MoPv1IxsDe2FQZ0wBBw6x) | 5:51 | 2024-01-19 | 2025-03-20 |
 | [Fuck el Police \- Remix](https://open.spotify.com/track/2v5gBze24GL5nWbZgvaEAk) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Fuck el Police \(Remix\)](https://open.spotify.com/album/3CHiQzPxbqvfkkm2QM3BlM) | 4:21 | 2023-11-17 | 2024-01-13 |
@@ -167,6 +168,7 @@
 | [Out of Mind](https://open.spotify.com/track/41T06CLFEf09tUQSa1ln2m) | [Julieta Kühnle](https://open.spotify.com/artist/3q5V5nh60ZXK4ejyTALGNu) | [South Strangers, Vol\. 4](https://open.spotify.com/album/7zJzOCEZMLa0mulGfWH01y) | 8:01 | 2023-11-17 |  |
 | [Over](https://open.spotify.com/track/1qqUb6n3fPzIjegshaVZ3p) | [Lucefora](https://open.spotify.com/artist/6GKpX2YtbMOIQVpv3DpFBv) | [13 Years of Akbal Music](https://open.spotify.com/album/1TElv6fUEh66qMzQzerrbk) | 8:19 | 2020-09-04 | 2023-11-18 |
 | [Overflow \- Fiama Molina Remix](https://open.spotify.com/track/2spNlmReyMDsZanz79yjQG) | [Miss Adk](https://open.spotify.com/artist/1P8ulwWeuGIL12delhvGEz), [Fiama Molina](https://open.spotify.com/artist/2O2QR0JbQ4Rkv9fN3HvRew) | [Overflow](https://open.spotify.com/album/58E9QSlo17wnE07iXwpzIo) | 6:27 | 2024-01-05 |  |
+| [Oxido \- Nick Warren & Nicolas Rada Remix](https://open.spotify.com/track/2RhTWxwoljIizLKfphbyFD) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9), [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN), [Nicolas Rada](https://open.spotify.com/artist/0Nc5Tlq6KSlVL6Dv0mmsc5) | [Desconfiguración, Vol\. 4](https://open.spotify.com/album/5LGIrNz5TLDoV228z8oLeO) | 6:54 | 2025-04-11 |  |
 | [Peace Of Mind](https://open.spotify.com/track/3Uvnf9Kqgj2QLkPrcGj91F) | [Conrado](https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e), [Tomi Reig](https://open.spotify.com/artist/3WVT8Ru2pGghiLHCYBDtmY) | [Peace Of Mind](https://open.spotify.com/album/0E3Ex7Qbkz6uXnCoAl6Ufj) | 4:54 | 2024-02-16 | 2025-03-20 |
 | [Petih](https://open.spotify.com/track/35c5oiMKqvnSUjZ4P5ZM09) | [Carl OS](https://open.spotify.com/artist/5XWqZtLEwd0w2E2QH3gIc1) | [Petih](https://open.spotify.com/album/3GPlVHcRFbHi9DttFg9P6v) | 8:00 | 2020-09-04 | 2023-11-18 |
 | [Plexo](https://open.spotify.com/track/1GtBfYQR8FJig0YiYNjedr) | [FunkState](https://open.spotify.com/artist/6V83rdyRMOwknBz8d4UKng) | [Plexo](https://open.spotify.com/album/7e0MJ7cxWWFKAwkzMUui6J) | 7:04 | 2020-09-04 | 2023-11-18 |

@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "another victim",
+        "url": "https://open.spotify.com/album/4mqncC8Xl80qtOIh7n4Yo0"
+      },
+      "artists": [
+        {
+          "name": "shot by stanley",
+          "url": "https://open.spotify.com/artist/5jVEGx3UP7jXfHzVoaZOuJ"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245785,
+      "name": "another victim",
+      "url": "https://open.spotify.com/track/49EMGCMyGebtEJ4lJzrw3k"
+    },
+    {
+      "album": {
         "name": "Extraterrestrial Intelligence",
         "url": "https://open.spotify.com/album/5CeNGjzJBPrdaLmZ5EtrGR"
       },
@@ -240,7 +258,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 326864,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/2o8Mv0acwqg9zT4Cx1ZGVL"
@@ -1049,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/6ysNw1BljMVNn73HzrNql4"
+      },
+      "artists": [
+        {
+          "name": "Thomas Helmich",
+          "url": "https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239957,
+      "name": "Depressure",
+      "url": "https://open.spotify.com/track/7uyJzMNYPVicov8vRRK0CM"
+    },
+    {
+      "album": {
         "name": "KOMMIT",
         "url": "https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl"
       },
@@ -1417,6 +1453,36 @@
     },
     {
       "album": {
+        "name": "Eyes (Frieder & Jakob Remix)",
+        "url": "https://open.spotify.com/album/4hjoBzbPzaUbIa6XnURkOH"
+      },
+      "artists": [
+        {
+          "name": "Solvane",
+          "url": "https://open.spotify.com/artist/3bOQBNZv9K0NMW4WudrKb0"
+        },
+        {
+          "name": "Prismode",
+          "url": "https://open.spotify.com/artist/58kYFWtUBY05pp6TmlKOiH"
+        },
+        {
+          "name": "Eleonora",
+          "url": "https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r"
+        },
+        {
+          "name": "Frieder & Jakob",
+          "url": "https://open.spotify.com/artist/0rngZQF9IoOPgAXhJmF35V"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247200,
+      "name": "Eyes - Frieder & Jakob Remix",
+      "url": "https://open.spotify.com/track/4uiVHpQtVdzJahvM3vNvlq"
+    },
+    {
+      "album": {
         "name": "Fade Away (shot by stanley Remix)",
         "url": "https://open.spotify.com/album/0mFN9BJcbXTHXurMkIAPlx"
       },
@@ -1432,7 +1498,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 307103,
       "name": "Fade Away - shot by stanley Remix",
       "url": "https://open.spotify.com/track/4mqZspDnwNlEAlPkHmoP7a"
@@ -3409,6 +3475,28 @@
     },
     {
       "album": {
+        "name": "No Fate, No Dreams - Remixes",
+        "url": "https://open.spotify.com/album/7uXiso5USZOpFaR7jinMns"
+      },
+      "artists": [
+        {
+          "name": "Loft 15 A",
+          "url": "https://open.spotify.com/artist/3H7elwiXJ63HlIyjOeLhtG"
+        },
+        {
+          "name": "Torsten Stenzel",
+          "url": "https://open.spotify.com/artist/0wxa02PwiKJW3ZpzYHlCN2"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486093,
+      "name": "No Fate, No Dreams - Torsten Stenzel Mellow Mix",
+      "url": "https://open.spotify.com/track/48U8ySPTmVN0nx2zRFZ3Xe"
+    },
+    {
+      "album": {
         "name": "No Mercy",
         "url": "https://open.spotify.com/album/3QUoT1UOqQiUk2ZoPxWehG"
       },
@@ -4920,7 +5008,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 275015,
       "name": "Sunny Side Up",
       "url": "https://open.spotify.com/track/2qyaih2MblDc9EfMu6fdZ6"
@@ -5338,6 +5426,24 @@
       "duration_ms": 295680,
       "name": "Trust",
       "url": "https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy"
+    },
+    {
+      "album": {
+        "name": "Tunnel",
+        "url": "https://open.spotify.com/album/6Z6lyIWOUcKR6GktxwFGE0"
+      },
+      "artists": [
+        {
+          "name": "Julian Wassermann",
+          "url": "https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229680,
+      "name": "Tunnel",
+      "url": "https://open.spotify.com/track/3sIirp9Pacv9Q4yZ3AfJSJ"
     },
     {
       "album": {

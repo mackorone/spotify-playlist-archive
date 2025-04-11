@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 226640,
       "name": "A Taste Of Possibility",
       "url": "https://open.spotify.com/track/09qAEZgB4KcFixRPilvca1"
@@ -2113,6 +2113,28 @@
     },
     {
       "album": {
+        "name": "L'intranquillit\u00e9",
+        "url": "https://open.spotify.com/album/5HHMb6ROHLzBF3MnrzoVxQ"
+      },
+      "artists": [
+        {
+          "name": "Kazy Lambist",
+          "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
+        },
+        {
+          "name": "Lulu Gainsbourg",
+          "url": "https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260502,
+      "name": "L'intranquillit\u00e9",
+      "url": "https://open.spotify.com/track/5wlP1eAUgaETs3u2VlrU1z"
+    },
+    {
+      "album": {
         "name": "Santigold",
         "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
       },
@@ -2578,7 +2600,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 327217,
       "name": "No More Lies",
       "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"

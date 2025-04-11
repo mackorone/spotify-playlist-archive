@@ -573,6 +573,24 @@
     },
     {
       "album": {
+        "name": "Baille",
+        "url": "https://open.spotify.com/album/3070nvzG2FbwF1H3oYmMFs"
+      },
+      "artists": [
+        {
+          "name": "ERIICE",
+          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153442,
+      "name": "Baille",
+      "url": "https://open.spotify.com/track/0vBqDdVYnqGAD41TsizN73"
+    },
+    {
+      "album": {
         "name": "Be With You",
         "url": "https://open.spotify.com/album/2mj6qAdEZhnE295tKXdhW7"
       },
@@ -5406,7 +5424,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 129975,
       "name": "Stay A Little Longer",
       "url": "https://open.spotify.com/track/2ccjGxAs64dv32oh45iE91"

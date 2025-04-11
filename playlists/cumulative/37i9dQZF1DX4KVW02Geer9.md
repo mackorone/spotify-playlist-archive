@@ -4,7 +4,7 @@
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: 黒田卓也
 
-277 songs - 19 hr 58 min
+278 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Sunrise](https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Sunrise](https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4) | 3:20 | 2025-01-30 |  |
 | [Superstring \- Rework](https://open.spotify.com/track/4yCpoba6seyaAGwRQyVvdj) | [slowstoop](https://open.spotify.com/artist/759vJrda9Y2XsEsfjmtqET) | [Mud And Citrus Mix Tape](https://open.spotify.com/album/4Aq96x9QJ6DN9e5UCsZvNU) | 2:42 | 2024-06-27 | 2024-10-05 |
 | [Sweeter Than](https://open.spotify.com/track/1cWS52bKcX1YPqosye28Hf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Get The Message](https://open.spotify.com/album/2lBblu7sNDW7voZtOL9GAd) | 2:45 | 2024-11-07 | 2025-02-07 |
+| [Sweetie](https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Sweetie](https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36) | 4:04 | 2025-04-04 |  |
 | [T.H.E\. feat.JUDY.](https://open.spotify.com/track/0Y5wlmlSkc375C3vpCkFzh) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I), [JUDY.](https://open.spotify.com/artist/2xOqpYBe41hnQErih2JNkb) | [T.H.E\. feat.JUDY.](https://open.spotify.com/album/0nh30eJAa2ic96ORf5YeZK) | 4:45 | 2024-06-27 | 2024-10-27 |
 | [Tadow \- Full Crate Remix](https://open.spotify.com/track/5jmIqmpayAyOne9zi32v4T) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Tadow \(Full Crate Remix\)](https://open.spotify.com/album/1iFdK7StDJSJHjicCG55wM) | 3:08 | 2024-11-07 | 2025-03-07 |
 | [Tall Man](https://open.spotify.com/track/4XrCnlytKeHaoB3umqy4dQ) | [Solitary Circus](https://open.spotify.com/artist/3tC21Y0BhX2kIIhcUIvaL3), [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia), [Yusuke Orita](https://open.spotify.com/artist/0Axix53b6tHd1GpZUTAkba) | [Tall Man](https://open.spotify.com/album/5WSZRZdRfvS1XY39DGVh68) | 3:43 | 2025-02-06 | 2025-03-28 |

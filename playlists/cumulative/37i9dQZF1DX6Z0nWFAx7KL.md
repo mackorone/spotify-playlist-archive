@@ -4,7 +4,7 @@
 
 > easy breezy dance music
 
-309 songs - 15 hr 16 min
+310 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [At The Beach](https://open.spotify.com/track/0cLH0OHubBbIB5XeiSN1qh) | [Jane Good](https://open.spotify.com/artist/1rFqZWRuRsmDNAuSMRGwSE) | [At The Beach](https://open.spotify.com/album/1qmQ9AtdNdBATwXkxE8B2t) | 2:41 | 2024-07-26 | 2024-12-13 |
 | [Back On Ibiza](https://open.spotify.com/track/7FR94d3PgJXnDkSaU2o9PP) | [Vogel](https://open.spotify.com/artist/3E1WT25XSYZkSdw2FLEaCB), [James Stefano](https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf) | [Back On Ibiza](https://open.spotify.com/album/3ExNuYLS0KtuM1OJdXQwEj) | 2:14 | 2025-02-28 |  |
 | [Back To You](https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Back To You](https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr) | 2:37 | 2023-01-13 | 2023-10-03 |
+| [Baille](https://open.spotify.com/track/0vBqDdVYnqGAD41TsizN73) | [ERIICE](https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC) | [Baille](https://open.spotify.com/album/3070nvzG2FbwF1H3oYmMFs) | 2:33 | 2025-04-10 |  |
 | [Be With You](https://open.spotify.com/track/7MDbQebDqfKMG3INjyKE5o) | [Sébastien Lintz](https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z) | [Be With You](https://open.spotify.com/album/2mj6qAdEZhnE295tKXdhW7) | 2:27 | 2024-12-05 |  |
 | [Beautiful](https://open.spotify.com/track/3yj6Hc5nO7t88CUAss0tHH) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Beautiful](https://open.spotify.com/album/1CWzpNbClW9MWEhKcprnHC) | 2:55 | 2022-09-15 | 2022-09-30 |
 | [Belong \- Deepend Edit](https://open.spotify.com/track/1nIyUZEfTv39KHVBy9v4y8) | [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [Belong](https://open.spotify.com/album/0cV3pUMkz52WN6wJAiC2gs) | 2:40 | 2022-09-15 | 2022-09-30 |
@@ -257,7 +258,7 @@
 | [Spark](https://open.spotify.com/track/0eoErZM1gZ3SXapS7WvLWN) | [Mosoo](https://open.spotify.com/artist/4tb4RmDN2nG89wOo7SQLzh), [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV) | [Spark](https://open.spotify.com/album/3LHK2NuRval8ZnVvad8gZ4) | 4:47 | 2025-01-10 | 2025-02-04 |
 | [Start a Thing](https://open.spotify.com/track/2qkq4Trq4Sqd7JdrAhhmfi) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Start a Thing](https://open.spotify.com/album/08sC2eGNObmoeIfRYUgOD1) | 2:56 | 2024-11-08 |  |
 | [STAY](https://open.spotify.com/track/2t0wgon3zNi2rK5RmBI6PB) | [Ayko](https://open.spotify.com/artist/7DoGkyQETbcynITmyOlWJf), [George](https://open.spotify.com/artist/3sedn32ScoPV1uUo54el2E) | [STAY](https://open.spotify.com/album/013a6sw3mwlatsiiMDvoJV) | 2:42 | 2023-12-21 | 2024-02-13 |
-| [Stay A Little Longer](https://open.spotify.com/track/2ccjGxAs64dv32oh45iE91) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Stay A Little Longer](https://open.spotify.com/album/7f6rguPHcD1bVXFT7snazF) | 2:09 | 2023-06-01 |  |
+| [Stay A Little Longer](https://open.spotify.com/track/2ccjGxAs64dv32oh45iE91) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Stay A Little Longer](https://open.spotify.com/album/7f6rguPHcD1bVXFT7snazF) | 2:09 | 2023-06-01 | 2025-04-11 |
 | [Stranger Things](https://open.spotify.com/track/64AEcuPgXGM5eJ2v6zX64u) | [Alex Ender](https://open.spotify.com/artist/4tVEnDtBhp4mjGvkgXlp1d), [Salta](https://open.spotify.com/artist/4Ql5qCCcg77zqCEHwq9xlj) | [Stranger Things](https://open.spotify.com/album/45J2ukiJfU3WrFz01sBgk1) | 2:16 | 2024-07-26 | 2025-03-30 |
 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2023-11-27 | 2024-02-08 |
 | [Summer Jams](https://open.spotify.com/track/3W3v72EKmAfAiuJm9BDi9b) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob) | [Summer Jams](https://open.spotify.com/album/3joHydRaKKBO8Z6HRq3asQ) | 2:17 | 2022-09-22 | 2024-03-21 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly Southern African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=lybU8UbGSVa_4xkQ_Gde1Q\"> Nomfundo Moh</a>, <a href=\"https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe?si=JNQSLjoEQQyGL1Fh-8m2dw\"> Blaq Diamond</a>",
+  "description": "Proudly Southern African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi?si=jcAKaWXYSoWbwSfo6mNHmAQ\"> Tony Dayimane</a>, <a href=\"https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=Yr-Esps9SzGctIgl-1EB_Q\"> Lwah Ndlunkulu</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -1580,6 +1580,24 @@
       "duration_ms": 258577,
       "name": "BIZAN'UMAMA",
       "url": "https://open.spotify.com/track/40OrhVxoTGnPbo1avCDYTM"
+    },
+    {
+      "album": {
+        "name": "Black President (Brenda Fassie 60th Tribute)",
+        "url": "https://open.spotify.com/album/285dGwNu1LHuKsggkEJ3Xo"
+      },
+      "artists": [
+        {
+          "name": "The Soil",
+          "url": "https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250938,
+      "name": "Black President (Brenda Fassie 60th Tribute)",
+      "url": "https://open.spotify.com/track/2HAquNlzSJBEQpz4ZhATii"
     },
     {
       "album": {
@@ -4081,6 +4099,28 @@
     },
     {
       "album": {
+        "name": "Imizwa",
+        "url": "https://open.spotify.com/album/4vqa2AuUyegi4v6Tg8GcIv"
+      },
+      "artists": [
+        {
+          "name": "Tony Dayimane",
+          "url": "https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi"
+        },
+        {
+          "name": "Lwah Ndlunkulu",
+          "url": "https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220235,
+      "name": "Imizwa",
+      "url": "https://open.spotify.com/track/3a89JaIO6bqDWl37nCY2un"
+    },
+    {
+      "album": {
         "name": "Impi Yothando",
         "url": "https://open.spotify.com/album/2qkOyi4KcUglFyXnlYGZPD"
       },
@@ -4092,7 +4132,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 298776,
       "name": "Impi Yothando",
       "url": "https://open.spotify.com/track/4K5GlpP2WdwYgZAjDiTbZ5"
@@ -8940,7 +8980,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 231086,
       "name": "Notification",
       "url": "https://open.spotify.com/track/4lV0XRU1Y4kfgFOjqOdmUq"

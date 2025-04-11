@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 127525,
+  "num_followers": 127547,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -915,26 +915,6 @@
     {
       "added_at": "2025-02-14 03:01:21",
       "album": {
-        "name": "Sorrindo \u00e0 Toa (Remix)",
-        "url": "https://open.spotify.com/album/2MYEAhLdLtIo04Yp939fwg"
-      },
-      "artists": [
-        {
-          "name": "DJ Vitor Capoia",
-          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
-        },
-        {
-          "name": "Cleytinho de Maca\u00e9",
-          "url": "https://open.spotify.com/artist/55fFdghzGlZ3Md2LRaUnXG"
-        }
-      ],
-      "duration_ms": 155142,
-      "name": "Sorrindo \u00e0 Toa - Remix",
-      "url": "https://open.spotify.com/track/1F6Ficmbmpk4TnfZ1gKOFU"
-    },
-    {
-      "added_at": "2025-02-14 03:01:21",
-      "album": {
         "name": "Marcas (Remix)",
         "url": "https://open.spotify.com/album/44sgO3D4YBpiRHwu2305fo"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 195615,
       "name": "Marcas - Remix",
       "url": "https://open.spotify.com/track/5WEpKESNpBwo0170C0aj0k"
+    },
+    {
+      "added_at": "2025-02-14 03:01:21",
+      "album": {
+        "name": "Sorrindo \u00e0 Toa (Remix)",
+        "url": "https://open.spotify.com/album/2MYEAhLdLtIo04Yp939fwg"
+      },
+      "artists": [
+        {
+          "name": "DJ Vitor Capoia",
+          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
+        },
+        {
+          "name": "Cleytinho de Maca\u00e9",
+          "url": "https://open.spotify.com/artist/55fFdghzGlZ3Md2LRaUnXG"
+        }
+      ],
+      "duration_ms": 155142,
+      "name": "Sorrindo \u00e0 Toa - Remix",
+      "url": "https://open.spotify.com/track/1F6Ficmbmpk4TnfZ1gKOFU"
     },
     {
       "added_at": "2025-02-14 03:01:21",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-02-14 03:01:21",
       "album": {
-        "name": "Ok!",
-        "url": "https://open.spotify.com/album/6n3cBUrNtcIL852TX2N3qz"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 150062,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/7zn8W0S4iA5awUPz4N0Kxp"
-    },
-    {
-      "added_at": "2025-02-14 03:01:21",
-      "album": {
         "name": "Eu Voltei",
         "url": "https://open.spotify.com/album/0ODwJ0peFEa3k3axaltglD"
       },
@@ -1099,22 +1083,18 @@
     {
       "added_at": "2025-02-14 03:01:21",
       "album": {
-        "name": "Dono da Minha Vida (Remix)",
-        "url": "https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ"
+        "name": "Ok!",
+        "url": "https://open.spotify.com/album/6n3cBUrNtcIL852TX2N3qz"
       },
       "artists": [
         {
-          "name": "Dj Del Mag",
-          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
-        },
-        {
-          "name": "Filipe Souza",
-          "url": "https://open.spotify.com/artist/7iVidqBbem4kPayKzk4h9z"
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Dono da Minha Vida - Remix",
-      "url": "https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP"
+      "duration_ms": 150062,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/7zn8W0S4iA5awUPz4N0Kxp"
     },
     {
       "added_at": "2025-02-14 03:01:21",
@@ -1139,6 +1119,26 @@
       "duration_ms": 179527,
       "name": "Vamo Com Tudo",
       "url": "https://open.spotify.com/track/0xto6kOf1WTk2VfQ9ItPkm"
+    },
+    {
+      "added_at": "2025-02-14 03:01:21",
+      "album": {
+        "name": "Dono da Minha Vida (Remix)",
+        "url": "https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ"
+      },
+      "artists": [
+        {
+          "name": "Dj Del Mag",
+          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
+        },
+        {
+          "name": "Filipe Souza",
+          "url": "https://open.spotify.com/artist/7iVidqBbem4kPayKzk4h9z"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Dono da Minha Vida - Remix",
+      "url": "https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP"
     },
     {
       "added_at": "2025-02-14 03:01:21",

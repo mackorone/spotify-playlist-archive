@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Cazzu.
 
-527 songs - 1 day 5 hr 51 min
+528 songs - 1 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [De Mí Enamórate](https://open.spotify.com/track/4JrLetRUyUCLLWzsZxsiNK) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [De Mí Enamórate](https://open.spotify.com/album/4e0SkglHENpOcI1PBWBC0I) | 3:58 | 2023-11-17 | 2023-12-09 |
 | [De Quien Es La Culpa](https://open.spotify.com/track/7c8SEakrcn7PLDcZX0bKJo) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Araus Danesi](https://open.spotify.com/artist/7nsDjXt3xtyKr2ms1bb5aK) | [De Quien Es La Culpa](https://open.spotify.com/album/0SYojN22VetJRAt89zabbq) | 3:12 | 2023-08-11 | 2024-10-12 |
 | [De Rodillas Te Pido](https://open.spotify.com/track/1X1Mp1TQp0VscU02pouobk) | [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [De Rodillas Te Pido](https://open.spotify.com/album/0MFtFcHpP9xElxfoWIVzTa) | 3:28 | 2024-03-15 | 2024-04-13 |
+| [De Ti Me Enamoré](https://open.spotify.com/track/7kyV6ja7sMzvBw6LDr6Zn6) | [More Con Flow](https://open.spotify.com/artist/5NS2B9GuroT6TrPoxRKd4t) | [De Ti Me Enamoré](https://open.spotify.com/album/289gFFzky19MBiTOUa792j) | 2:05 | 2025-04-11 |  |
 | [Deja De Llorar](https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Sigo Por El Objetivo](https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx) | 2:26 | 2022-01-14 |  |
 | [Dejame Amarte](https://open.spotify.com/track/6F5CS7rrc8D2vu6z9HEhEF) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [La Guerra de los Colores](https://open.spotify.com/album/5G7tVYBJxPKUYCrUPAAtNh) | 1:54 | 2025-02-28 |  |
 | [Dejenla que llore sola \(Lo que siento\)](https://open.spotify.com/track/3RW9Jw4siWrnHcIMeBirJ0) | [Cumbia Viva](https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS), [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Cumbia Viva Session \#3 Los Leales](https://open.spotify.com/album/3RmsowqQ8buXebAYRq4PKW) | 1:35 | 2024-07-05 | 2024-08-31 |
@@ -280,7 +281,7 @@
 | [Mentirosa](https://open.spotify.com/track/2e3fohSwZ9nU6Q2tks0fFz) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Imparables](https://open.spotify.com/album/0Rjblvwx7OfldgNEJQ6xcm) | 3:15 | 2022-01-21 | 2022-09-11 |
 | [Mi Figurita](https://open.spotify.com/track/0e1ZHxouYIXP1XaxdTEO7V) | [Como Suena](https://open.spotify.com/artist/6mMF00MGSqk8MT3c31YRSg), [Fede Rojas](https://open.spotify.com/artist/0xJhZwxGtFJ6n5ZAJbVAEe) | [Mi Figurita](https://open.spotify.com/album/3qIZHzb0e132TyVGJQtTxd) | 3:04 | 2022-02-04 | 2022-07-12 |
 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/3mrRVpo3r93hi6qdQm2bLw) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/1om4tN4zbd13XwYmFk6B7O) | 3:24 | 2023-10-06 | 2024-11-02 |
-| [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/0NK3UhMD7kNwOfuoL0jk8R) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1), [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/5Dso9GcL2HzHbt5s35t5vs) | 4:55 | 2024-06-14 |  |
+| [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/0NK3UhMD7kNwOfuoL0jk8R) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1), [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/5Dso9GcL2HzHbt5s35t5vs) | 4:55 | 2024-06-14 | 2025-04-11 |
 | [Mi Primer Amor](https://open.spotify.com/track/1rBk8sHUL4ivoL9WqM89CY) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Mi Primer Amor](https://open.spotify.com/album/5HKegx8eIQiHoHrsqBbYxj) | 3:08 | 2024-10-18 |  |
 | [Mi Único Amor](https://open.spotify.com/track/5TULG1mm08mEfvJVfC8Zcv) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 3:01 | 2022-01-14 | 2024-06-17 |
 | [Mientele](https://open.spotify.com/track/21ygs5dGjRIpOnXMjDiXZd) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [El Pesa 9](https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0) | [Mientele](https://open.spotify.com/album/7bR6mVOH2sWX9qNGgYA7g5) | 3:43 | 2022-04-01 | 2022-05-28 |

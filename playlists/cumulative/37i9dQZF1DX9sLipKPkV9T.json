@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05d5\u05e9\u05d9",
+          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197045,
+      "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn"
+    },
+    {
+      "album": {
         "name": "All Eyes On Us",
         "url": "https://open.spotify.com/album/3JHkjFz8STwsBJ4oN4yBq8"
       },
@@ -595,6 +613,24 @@
     },
     {
       "album": {
+        "name": "Purple Rose",
+        "url": "https://open.spotify.com/album/6oLlZ8EqxISZdsZMTEEZHK"
+      },
+      "artists": [
+        {
+          "name": "Mergui",
+          "url": "https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188058,
+      "name": "Purple Rose",
+      "url": "https://open.spotify.com/track/2rdq7ZxWfr2j4XCAsTl6Xv"
+    },
+    {
+      "album": {
         "name": "Say Something",
         "url": "https://open.spotify.com/album/05F5mm9iwWxzornddW8Dwa"
       },
@@ -606,7 +642,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 212631,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/5KLK2VsqrMaOrQYA5ThJ5N"
@@ -667,6 +703,28 @@
     },
     {
       "album": {
+        "name": "\u05e7\u05dc\u05d0\u05e1\u05d9\u05e7\u05d5\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc\u05d9\u05d5\u05ea \u05de\u05ea\u05d5\u05e8\u05d2\u05de\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/2ks0uMwA3yXNtXUmqsMaZd"
+      },
+      "artists": [
+        {
+          "name": "Red Band",
+          "url": "https://open.spotify.com/artist/1Ba4dhPqLWmwj3Fwf9oWDs"
+        },
+        {
+          "name": "Moran Aharoni",
+          "url": "https://open.spotify.com/artist/4gGJEwNPz197Aa5KjB6JIA"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "That Pain Again",
+      "url": "https://open.spotify.com/track/2oiGK84J5tZyvOTZJ8JawT"
+    },
+    {
+      "album": {
         "name": "A Knight\u2019s Tale",
         "url": "https://open.spotify.com/album/5vWYUCEKVEUj8KBnTIbcwX"
       },
@@ -682,6 +740,24 @@
       "duration_ms": 186624,
       "name": "Up & Away",
       "url": "https://open.spotify.com/track/3fDni8s73P7qAn8Cd4jjmd"
+    },
+    {
+      "album": {
+        "name": "Wait for You",
+        "url": "https://open.spotify.com/album/1Btn9hveACa0kPoIvITUHp"
+      },
+      "artists": [
+        {
+          "name": "Eden Golan",
+          "url": "https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175857,
+      "name": "Wait for You",
+      "url": "https://open.spotify.com/track/1mVZjAHBcBC2fd1TSXg1qX"
     },
     {
       "album": {
@@ -776,6 +852,24 @@
       "duration_ms": 213085,
       "name": "\u05d0\u05d1\u05e8\u05d4\u05dd",
       "url": "https://open.spotify.com/track/6nqa5sryEWWUWEQU538Hyj"
+    },
+    {
+      "album": {
+        "name": "\u05d0\u05d3\u05d5\u05dd",
+        "url": "https://open.spotify.com/album/3EGJbB0zes9V0n0EayE2fj"
+      },
+      "artists": [
+        {
+          "name": "Liran Danino",
+          "url": "https://open.spotify.com/artist/1DuDDXSYBMLr55q9lYmDEk"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174374,
+      "name": "\u05d0\u05d3\u05d5\u05dd",
+      "url": "https://open.spotify.com/track/5Em4p2icPPGp8dEHCXef1T"
     },
     {
       "album": {
@@ -1448,7 +1542,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 198584,
       "name": "\u05d0\u05ea\u05d4 \u05d0\u05e0\u05d9 \u05d0\u05d5\u05dc\u05d9",
       "url": "https://open.spotify.com/track/3VaEnW5C0x8htoAs4W040U"
@@ -1654,7 +1748,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 205233,
       "name": "\u05d1\u05d9\u05df \u05d4\u05d7\u05dc\u05d5\u05df \u05dc\u05e4\u05e1\u05e0\u05ea\u05e8",
       "url": "https://open.spotify.com/track/4w97OiVG2VMrKXyguDZIHZ"
@@ -1976,7 +2070,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 179587,
       "name": "\u05d2\u05dc\u05d2\u05d5\u05dc \u05e0\u05e9\u05de\u05d4",
       "url": "https://open.spotify.com/track/6CC7qsyB7J9Jc0tqpiUhJs"
@@ -2185,6 +2279,24 @@
     },
     {
       "album": {
+        "name": "\u05d4\u05d2\u05dc\u05d2\u05dc \u05e2\u05d5\u05d3 \u05d9\u05e1\u05ea\u05d5\u05d1\u05d1",
+        "url": "https://open.spotify.com/album/3DXbV8n0OBP1ro8ZCMBl0D"
+      },
+      "artists": [
+        {
+          "name": "Idan Bakshi",
+          "url": "https://open.spotify.com/artist/0MR58B4lyUUebmLWU8bjWs"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167058,
+      "name": "\u05d4\u05d2\u05dc\u05d2\u05dc \u05e2\u05d5\u05d3 \u05d9\u05e1\u05ea\u05d5\u05d1\u05d1",
+      "url": "https://open.spotify.com/track/200NpD7JWyn667Vb46Mor9"
+    },
+    {
+      "album": {
         "name": "\u05d4\u05d3\u05dc\u05ea \u05d4\u05e4\u05ea\u05d5\u05d7\u05d4",
         "url": "https://open.spotify.com/album/73nXR3AC7KXy4kJae8zc4Y"
       },
@@ -2342,7 +2454,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 171666,
       "name": "\u05d4\u05d9\u05d9 \u05d0\u05ea",
       "url": "https://open.spotify.com/track/5OrOTaj50PKisYyhpoTbPw"
@@ -3351,6 +3463,24 @@
     },
     {
       "album": {
+        "name": "\u05de\u05ea\u05de\u05d6\u05d2",
+        "url": "https://open.spotify.com/album/5acQLmEQDgQdjmjHXHVLJW"
+      },
+      "artists": [
+        {
+          "name": "Guy Mazig",
+          "url": "https://open.spotify.com/artist/2Ky0L9EAz66AEhFfeak23R"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199305,
+      "name": "\u05dc\u05d0 \u05d9\u05d5\u05d3\u05e2\u05ea \u05dc\u05d1\u05d7\u05d5\u05e8",
+      "url": "https://open.spotify.com/track/6Ki1UqCBUozaxYwmoIkjFT"
+    },
+    {
+      "album": {
         "name": "\u05dc\u05d0 \u05dc\u05d1\u05d3",
         "url": "https://open.spotify.com/album/678NpQ9HYELExtlytmT3yZ"
       },
@@ -4115,6 +4245,24 @@
     },
     {
       "album": {
+        "name": "\u05de\u05d5\u05e0\u05e1\u05d5\u05df",
+        "url": "https://open.spotify.com/album/5Qa6dgTuqTE92tmzHPm0rR"
+      },
+      "artists": [
+        {
+          "name": "Liel Nahtom",
+          "url": "https://open.spotify.com/artist/3kdL0pLB4ZtIwBOLpeh58o"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "\u05de\u05d5\u05e0\u05e1\u05d5\u05df",
+      "url": "https://open.spotify.com/track/1PoMO7QsjAFyggq2KtUEQ7"
+    },
+    {
+      "album": {
         "name": "\u05de\u05d5\u05e2\u05d3\u05d5\u05df \u05d4\u05dc\u05d1\u05d1\u05d5\u05ea \u05d4\u05e9\u05d1\u05d5\u05e8\u05d9\u05dd",
         "url": "https://open.spotify.com/album/4C4H3ZUO25XWcGKzApymNy"
       },
@@ -4604,7 +4752,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 158041,
       "name": "\u05e0\u05d9\u05e7\u05d9\u05ea\u05d9 \u05d0\u05ea \u05d4\u05dc\u05d1",
       "url": "https://open.spotify.com/track/0IccXF4g1FcsgLEq82SioC"
@@ -4814,7 +4962,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 288000,
       "name": "\u05e1\u05d5\u05e4\u05e8\u05de\u05df",
       "url": "https://open.spotify.com/track/0KMZESyaad48QMOmg6cYuy"
@@ -5764,6 +5912,24 @@
       "duration_ms": 184394,
       "name": "\u05e9\u05d9\u05d4\u05d9\u05d4 \u05dc\u05da \u05d8\u05d5\u05d1",
       "url": "https://open.spotify.com/track/6Uk0HOyZ3MVw0Mg55Gvxj8"
+    },
+    {
+      "album": {
+        "name": "\u05d2\u05d9\u05dc\u05d8\u05d9 \u05e1\u05d8\u05dc\u05d4",
+        "url": "https://open.spotify.com/album/5Z3WclcHgy1ZtWApd4dIFz"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Band",
+          "url": "https://open.spotify.com/artist/34gCWollNqYlcodydhFabx"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292195,
+      "name": "\u05e9\u05d9\u05e8 \u05d4\u05e9\u05e0\u05d4",
+      "url": "https://open.spotify.com/track/4xgwlRO6eTSVlry8Os2ZxI"
     },
     {
       "album": {

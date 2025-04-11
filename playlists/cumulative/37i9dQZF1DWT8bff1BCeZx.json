@@ -1193,6 +1193,28 @@
     },
     {
       "album": {
+        "name": "BURU",
+        "url": "https://open.spotify.com/album/6lL8oGKuRn96h4kFSanhqR"
+      },
+      "artists": [
+        {
+          "name": "Henrisoul",
+          "url": "https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL"
+        },
+        {
+          "name": "Gabriel Eziashi",
+          "url": "https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459697,
+      "name": "BURU",
+      "url": "https://open.spotify.com/track/3Su0UM5doSCP9Zw2JFmaAJ"
+    },
+    {
+      "album": {
         "name": "By My Side",
         "url": "https://open.spotify.com/album/37vGvwiWMePFrv8KbGMHGb"
       },
@@ -1496,7 +1518,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 174422,
       "name": "Complete",
       "url": "https://open.spotify.com/track/7ih3md1gzytB7Am1fpUhAV"
@@ -3396,7 +3418,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 148791,
       "name": "HALLOWED (THE ONE WHO ANSWERS PRAYERS)",
       "url": "https://open.spotify.com/track/67K6tlpK5geck7OLZd5js9"
@@ -4010,7 +4032,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 153191,
       "name": "IT'S OKAY",
       "url": "https://open.spotify.com/track/6igD6ULIkrQ3B1ZNnDiLXt"
@@ -8944,6 +8966,32 @@
       "duration_ms": 235559,
       "name": "Yesu (Jesus)",
       "url": "https://open.spotify.com/track/2IpySTjDhjdnTEhDza1aYD"
+    },
+    {
+      "album": {
+        "name": "Yhwh",
+        "url": "https://open.spotify.com/album/5I5ezmG1LjGv1ncOj3VF7X"
+      },
+      "artists": [
+        {
+          "name": "DAM!ZZLE",
+          "url": "https://open.spotify.com/artist/4KgjsDVEDEJlEpGtNaHbug"
+        },
+        {
+          "name": "Akoji",
+          "url": "https://open.spotify.com/artist/6sCiXcuwvIldFB4idVMsLP"
+        },
+        {
+          "name": "NW.FRGVN",
+          "url": "https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145433,
+      "name": "Yhwh",
+      "url": "https://open.spotify.com/track/42oGywp1kBakRUEUR3qies"
     },
     {
       "album": {

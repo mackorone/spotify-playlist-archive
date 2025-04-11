@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Laraw, Artwork: Isu Kim.
 
-2,182 songs - 4 day 16 hr 53 min
+2,184 songs - 4 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,7 +502,7 @@
 | [Don't Look Back](https://open.spotify.com/track/0XngBbPyb7KAiUXF3wDsQ9) | [Big Dirty Boots](https://open.spotify.com/artist/4DZXVHlf6Y0wcyhPKDLv3z) | [Don't Look Back](https://open.spotify.com/album/0WsoCRSy7RRhstlt3BI5le) | 3:38 | 2025-03-12 | 2025-03-20 |
 | [Don't Lose The Plot](https://open.spotify.com/track/5NqXSf0CFAd9oZHUpljQwL) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [Don't Lose The Plot](https://open.spotify.com/album/5ZlAMD4vElPpWadYEjAHwA) | 3:30 | 2024-11-06 | 2024-11-28 |
 | [Don't Play Wit It](https://open.spotify.com/track/0AHOtv2pvmnpWL10WaiBqY) | [Tasha Mac](https://open.spotify.com/artist/2kZVyiRZ7W3bELWzLWD8PC) | [M.A.C](https://open.spotify.com/album/2m0Qra7FyvPiL61cDbGZlA) | 2:27 | 2024-11-13 | 2024-11-28 |
-| [Don't Trip](https://open.spotify.com/track/4kYzEV2PbBVUzrU5G6AScl) | [B00sted](https://open.spotify.com/artist/4euUANc6f6VpwUfymwi1Ju) | [Don't Trip](https://open.spotify.com/album/6Om2bXRbFBpO6Lttp7Iqcb) | 2:17 | 2025-03-26 |  |
+| [Don't Trip](https://open.spotify.com/track/4kYzEV2PbBVUzrU5G6AScl) | [B00sted](https://open.spotify.com/artist/4euUANc6f6VpwUfymwi1Ju) | [Don't Trip](https://open.spotify.com/album/6Om2bXRbFBpO6Lttp7Iqcb) | 2:17 | 2025-03-26 | 2025-04-11 |
 | [Don't Wanna Wait](https://open.spotify.com/track/4hgz84Fi6HgWMqfeah3Nw1) | [BUCK](https://open.spotify.com/artist/3JAPjg1uraQcHiy9lFGGzN), [Benstar](https://open.spotify.com/artist/7HyxGgjkP1vBANWGTLHE1n) | [Don't Wanna Wait](https://open.spotify.com/album/1BMuMtn7EwU9jGy3AvvZTa) | 3:13 | 2024-01-24 | 2024-02-08 |
 | [DONE WITH THAT...](https://open.spotify.com/track/5YrYQqnbxoxlc6fPdTdK78) | [4sante](https://open.spotify.com/artist/2GJUNhi3knOQjYM9OPq8yD) | [DONE WITH THAT...](https://open.spotify.com/album/6OOhQox0UbuHQzeLXvqidA) | 2:30 | 2024-09-26 | 2024-10-10 |
 | [Doom](https://open.spotify.com/track/3Tqprle5xBAJyndkvVRcBq) | [Izabel](https://open.spotify.com/artist/3YTr9y6XOl88xxHv246Vlf) | [Doom](https://open.spotify.com/album/3sv1TJXiwvpuJNHrMDZeEF) | 2:39 | 2024-10-02 | 2024-10-17 |
@@ -1312,6 +1312,7 @@
 | [No te olvides de la luz](https://open.spotify.com/track/41K9b4Ot6nBqQQEXkDt5jJ) | [Gabriella Olivo](https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO) | [No te olvides de la luz](https://open.spotify.com/album/0soM7732TbSQ9C7eVRfPOc) | 4:22 | 2024-10-09 | 2024-11-07 |
 | [NOBODY ELSE](https://open.spotify.com/track/1Zn2jBgAxnNOjtOcIn6PB8) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [NOBODY ELSE](https://open.spotify.com/album/38Koh7CMqehXMSU8c2oOyK) | 1:38 | 2025-03-19 | 2025-04-10 |
 | [Nobody Will \- Klash Rivera Remix](https://open.spotify.com/track/5izdbn5ybVo1CNF6WwcQq0) | [Lucia Haze](https://open.spotify.com/artist/0XaqBRrpZ558f5voszoWeE), [Klash Rivera](https://open.spotify.com/artist/70YhPJjQu7tHBehcOCxEIP) | [Deepinside Remixed](https://open.spotify.com/album/2BB6rT9qu9owK55oviTKDr) | 5:50 | 2024-01-31 | 2024-02-15 |
+| [North Face](https://open.spotify.com/track/0I2n1U54TFT8z3o1FbivoK) | [J\. Davis](https://open.spotify.com/artist/5rskBV9INgkjpme43NSLoJ) | [North Face](https://open.spotify.com/album/4PbluIeXaeiH92hsYM6TD3) | 1:41 | 2025-04-10 |  |
 | [Nos Dejamos Llevar](https://open.spotify.com/track/3kLuEVDzMnEa12hRZ7GUou) | [Cahnei](https://open.spotify.com/artist/2Ms8Y8k7gV2PcqCvOvhWc9) | [Nos Dejamos Llevar](https://open.spotify.com/album/12lObnmwtp4gGMXbcvNHPg) | 2:51 | 2024-03-06 | 2024-03-28 |
 | [Not On Purpose](https://open.spotify.com/track/4m1mm2sXQgxiWZKXHjXy9L) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Ultraviolet](https://open.spotify.com/album/6UCEVfpeoqVRRN9TkGpv27) | 2:55 | 2024-01-10 | 2024-01-25 |
 | [Not the One](https://open.spotify.com/track/0zX7CXBX6b89D1yUuU3LVS) | [Sophia Fracassi](https://open.spotify.com/artist/7MPa3OSyGyLNq9CedDr2LT) | [Not the One](https://open.spotify.com/album/6I3vn2doCf3jZcwIfAKgXX) | 3:02 | 2024-06-19 | 2024-07-11 |
@@ -1836,6 +1837,7 @@
 | [Take Me Back](https://open.spotify.com/track/2leQw9Ta43WKGzFHfTv6e7) | [Drew Taylor](https://open.spotify.com/artist/1GKwNMj52B71ScmvryXrRH) | [Take Me Back](https://open.spotify.com/album/5eIswtzY9VhneiDvL3qO5A) | 3:12 | 2023-11-15 | 2023-11-23 |
 | [Take Me Higher](https://open.spotify.com/track/76repooBfppVX7fG01nbup) | [Laurent Dé](https://open.spotify.com/artist/2abUvtMh0RFriHdT36GBKe) | [Take Me Higher](https://open.spotify.com/album/2aAoA6rWDoqevCtfkD6ZR0) | 3:30 | 2024-06-05 | 2024-06-27 |
 | [Take Me Home](https://open.spotify.com/track/0gdMV80nsw5tFZt7tuZVvK) | [Group Project](https://open.spotify.com/artist/7gGjxniWt0ovSoAY7440o1) | [Take Me Home](https://open.spotify.com/album/01LUYTjGEP50Yi3QxuhFW4) | 2:40 | 2025-02-19 | 2025-03-13 |
+| [Take Me To Tokyo](https://open.spotify.com/track/46ETLAtTmWr2zkz7D9ajdE) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Take Me To Tokyo](https://open.spotify.com/album/04fiuTKsxc3qWAwbszoFik) | 3:04 | 2025-04-10 |  |
 | [Take Off](https://open.spotify.com/track/2QFiTd78rjiCIKBQYESI9m) | [Shann Aberdeen](https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O) | [Take Off](https://open.spotify.com/album/50b5JY9b4g9fiKcOPESW4a) | 2:41 | 2024-06-12 | 2024-07-04 |
 | [Take the Hint](https://open.spotify.com/track/1LHnQHfj87KtfcSxbXyRwV) | [Rae Fawn](https://open.spotify.com/artist/2QFyMRYjPF1nMvLDgTzb2z) | [Take the Hint](https://open.spotify.com/album/7wVedmgAQmYu5CKaNKojA6) | 3:04 | 2024-04-24 | 2024-05-02 |
 | [Take Your Time \(I'll Be Alright\)](https://open.spotify.com/track/43sYOkdBJAHdO8XJ7pKsyM) | [Paradi$e](https://open.spotify.com/artist/2tm8nTANMwZuGECwgumqc5), [Geneva Lei](https://open.spotify.com/artist/7damMTtibUCztc0XY2OMUL) | [Take Your Time \(I'll Be Alright\)](https://open.spotify.com/album/6HoWZEnSEVWNSH0bEVzcV0) | 2:31 | 2024-04-03 | 2024-04-24 |
@@ -2139,7 +2141,7 @@
 | [Wonton](https://open.spotify.com/track/3ykvnyip4RRDN9LGRq9cw2) | [Nico Tripodi](https://open.spotify.com/artist/747Xualn4tPC0OkHFjidjN) | [Wonton](https://open.spotify.com/album/0B81kYUsXiAVemXfvmgEBP) | 2:17 | 2024-01-31 | 2024-02-23 |
 | [Work](https://open.spotify.com/track/2u4fXm2XrKjyJ0gySu9etd) | [Petit Marley](https://open.spotify.com/artist/1QyBzt93aIFMcpKi6jyOGf) | [Work](https://open.spotify.com/album/4gBCZHCNkit5dH0j9acY5J) | 2:56 | 2023-09-27 | 2023-10-05 |
 | [Work Song](https://open.spotify.com/track/3iHKxpf4KDJHXAOKwMwpTF) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Work Song](https://open.spotify.com/album/7cyTW83kF7LJJHDdCkQSwO) | 2:19 | 2025-01-29 | 2025-02-20 |
-| [Worry Bout Me](https://open.spotify.com/track/6rNjcl2jzdCWM7QqhSeb4b) | [nyan](https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr) | [Worry Bout Me](https://open.spotify.com/album/1UIwWx8GlDP0o12IVjBqsE) | 2:49 | 2025-03-26 |  |
+| [Worry Bout Me](https://open.spotify.com/track/6rNjcl2jzdCWM7QqhSeb4b) | [nyan](https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr) | [Worry Bout Me](https://open.spotify.com/album/1UIwWx8GlDP0o12IVjBqsE) | 2:49 | 2025-03-26 | 2025-04-11 |
 | [Worse](https://open.spotify.com/track/0JI9pouc13c9X8J18Ngh2J) | [Jillian Lake](https://open.spotify.com/artist/1VBiXsCfOgQzy8uxyhCnPY) | [Worse](https://open.spotify.com/album/2dHuz9KXkGbBJmhZQREr4J) | 3:40 | 2024-04-17 | 2024-04-24 |
 | [WORTH](https://open.spotify.com/track/7uXgl0F3lMzBTNOCh4JleY) | [Driver95](https://open.spotify.com/artist/20rkN0rw43hQXRMCvagTm1) | [WORTH](https://open.spotify.com/album/0ocCVwuLow1df2kMI4MSh3) | 2:21 | 2024-05-08 | 2024-06-01 |
 | [Wounded](https://open.spotify.com/track/2heMfyRy21ijZVdyjleo1P) | [Toddy](https://open.spotify.com/artist/6B8Q8Sd23cmTkQDN09oxzK) | [Wounded](https://open.spotify.com/album/4C6U1eZqHGjzvc2Jr6MBHN) | 3:01 | 2024-03-13 | 2024-04-11 |

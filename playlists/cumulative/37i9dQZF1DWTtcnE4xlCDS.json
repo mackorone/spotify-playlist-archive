@@ -1437,6 +1437,32 @@
     },
     {
       "album": {
+        "name": "Cat's Meow",
+        "url": "https://open.spotify.com/album/4gOKhDHtuTyma4MlJOgg6p"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "Hidefumi Kenmochi",
+          "url": "https://open.spotify.com/artist/7v28R5tD4j8lvl6ok2N8Qg"
+        },
+        {
+          "name": "\u9ed2\u9244\u305f\u307e (CV: \u79cb\u5948)",
+          "url": "https://open.spotify.com/artist/0JQ292eFZdsbZbYUfNWpph"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213719,
+      "name": "Cat's Meow",
+      "url": "https://open.spotify.com/track/2Jz14TeOoO7WpXAllHmLoT"
+    },
+    {
+      "album": {
         "name": "Catch a Fire",
         "url": "https://open.spotify.com/album/6S2EY22ZJZkDQkEdD5mzuh"
       },

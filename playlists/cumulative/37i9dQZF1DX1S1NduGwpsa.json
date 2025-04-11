@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Georgia C\u00e9cile",
+  "description": "The best jazz new releases. Cover: Jos\u00e9 James",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -1334,6 +1334,32 @@
       "duration_ms": 295739,
       "name": "Bird of Beauty",
       "url": "https://open.spotify.com/track/1nJ1e4KA6flzNjWnkH8O5i"
+    },
+    {
+      "album": {
+        "name": "Bird's Lament",
+        "url": "https://open.spotify.com/album/64Cp12UG8l8iS17aslylyT"
+      },
+      "artists": [
+        {
+          "name": "Sylvain Rifflet",
+          "url": "https://open.spotify.com/artist/29UYO17BFU01uHhncAy8ni"
+        },
+        {
+          "name": "Bettina Kee",
+          "url": "https://open.spotify.com/artist/6e92jydfKU80nd56YuCWAx"
+        },
+        {
+          "name": "Vincent Taeger",
+          "url": "https://open.spotify.com/artist/5Oi1IUt9siZtRIDrrcnf9P"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142354,
+      "name": "Bird's Lament",
+      "url": "https://open.spotify.com/track/36s90dZXdOE7IO4MRgPWtM"
     },
     {
       "album": {
@@ -2748,7 +2774,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 286141,
       "name": "Come Wander With Me",
       "url": "https://open.spotify.com/track/4veEAIWJplTa6GWOJt2icT"
@@ -3688,6 +3714,28 @@
       "duration_ms": 215693,
       "name": "Du rose ou rien",
       "url": "https://open.spotify.com/track/7stEmmDdoPmMFPeutgMmS1"
+    },
+    {
+      "album": {
+        "name": "Eddy m'a dit",
+        "url": "https://open.spotify.com/album/2dUFnaPAeZUpIXtGPphuT9"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Bex",
+          "url": "https://open.spotify.com/artist/1NVyfQbY0oM9xBVCaIYkwh"
+        },
+        {
+          "name": "David Taieb",
+          "url": "https://open.spotify.com/artist/4XGYpvtl5JZouPyqGqbvmO"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 538453,
+      "name": "Dum Dum - Our kind of Sabi",
+      "url": "https://open.spotify.com/track/7LAbKgVX1TYCyIgn5yGb18"
     },
     {
       "album": {
@@ -8336,7 +8384,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 406101,
       "name": "MD Blues",
       "url": "https://open.spotify.com/track/09RsN0efDAgTT4koydJvxq"
@@ -8668,7 +8716,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 326440,
       "name": "Monkey System",
       "url": "https://open.spotify.com/track/082cOUifUly6CMsnHJ6Okp"
@@ -9758,6 +9806,40 @@
       "duration_ms": 178110,
       "name": "Open Borders",
       "url": "https://open.spotify.com/track/6nI2VNWB5Wkh7RNg5eGent"
+    },
+    {
+      "album": {
+        "name": "Open Roads",
+        "url": "https://open.spotify.com/album/1Kce7WMsjDvCTvkVplaEdB"
+      },
+      "artists": [
+        {
+          "name": "Romain Pilon",
+          "url": "https://open.spotify.com/artist/0Kqaw0Sfja1feSl9iDmw4z"
+        },
+        {
+          "name": "Orlando Le Fleming",
+          "url": "https://open.spotify.com/artist/6SW6dyOPmcKpO0ZwiUDZj5"
+        },
+        {
+          "name": "Mark Whitfield Jr.",
+          "url": "https://open.spotify.com/artist/5E0blTIGjZLSHXBhXmjYgl"
+        },
+        {
+          "name": "Jean-Paul Esti\u00e9venart",
+          "url": "https://open.spotify.com/artist/2ksFkwxoKd9oSKDrCz4Dsv"
+        },
+        {
+          "name": "Alexis Valet",
+          "url": "https://open.spotify.com/artist/1VBaICEeEhOKIPra2zkbD4"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448533,
+      "name": "Open Roads",
+      "url": "https://open.spotify.com/track/2jnrol6ATyedXBc8YDxmaG"
     },
     {
       "album": {

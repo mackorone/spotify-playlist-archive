@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Damiano David
 
-1,318 songs - 3 day 7 hr 21 min
+1,319 songs - 3 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -975,6 +975,7 @@
 | [Salt And The Sea \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/7aGPEHOboWuZmcL8lRkjWg) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Spotify Singles](https://open.spotify.com/album/5iqosfNUlegsdU0Zd5AJfp) | 5:14 | 2022-01-19 |  |
 | [Salutations \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3GgcqhwmcrUE3K94LeXxSW) | [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R) | [Spotify Singles](https://open.spotify.com/album/5yXnrHLMHzIAFOrGmnEbjR) | 3:53 | 2022-01-19 |  |
 | [Satan i gatan \- Spotify Studio It's Hits Recording](https://open.spotify.com/track/6FQWsSZIbvt53KmJ9goFGK) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Satan i gatan \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/08egoVGkQ3lk0CRf7S0SbB) | 3:10 | 2025-02-13 |  |
+| [Satellite \- Spotify Singles](https://open.spotify.com/track/1s1nNvVUZpVaBzPa5fGIJJ) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Satellite \(Spotify Singles\)](https://open.spotify.com/album/3FYh7wVc6lw1gDeGC5qs2T) | 2:12 | 2025-04-10 |  |
 | [Sativa \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1OfUOufSXTjhUm5gK33uVN) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Spotify Singles](https://open.spotify.com/album/2NclReHquDka42tG31lbAY) | 4:29 | 2022-01-19 |  |
 | [Satsa – Spotify Studio 100 Recording](https://open.spotify.com/track/4smXervZxPsPyDQoolgkCt) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Satsa – Spotify Studio 100 Recording](https://open.spotify.com/album/7qgUcNnrHTauVshnwQWQ3I) | 2:57 | 2025-02-13 |  |
 | [Say It \- Spotify Studio Oyster Recording](https://open.spotify.com/track/2k6qMVHTTzR5tJDjf1855E) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Say It \- Spotify Studio Oyster Recording](https://open.spotify.com/album/16BMvFgwCXraSyFnGONJIc) | 2:53 | 2025-02-13 |  |

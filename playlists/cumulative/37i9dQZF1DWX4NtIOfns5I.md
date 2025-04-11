@@ -4,7 +4,7 @@
 
 > where folk flowers bloom 🍃 cover: Black Country, New Road
 
-470 songs - 1 day 3 hr 39 min
+471 songs - 1 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Die Slower](https://open.spotify.com/track/7lwqr6NGpzsYVZK5ovcyRr) | [Brendan Abernathy](https://open.spotify.com/artist/39ETOzAilLp4bcJAUU8mmW), [Annie Omalley](https://open.spotify.com/artist/0TEaL7Y50jr7N3mjxqFGBK) | [die slower](https://open.spotify.com/album/2fGiVuDMhTGQNSjhKjc0zE) | 3:15 | 2024-01-05 | 2024-04-13 |
 | [Dig Myself Out](https://open.spotify.com/track/70JmaiNir097KCH7yInIC1) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Live From Mother Earth](https://open.spotify.com/album/41WeqlJnk95KB5XpZ0jJ6g) | 2:56 | 2024-10-18 |  |
 | [Dirty Fire](https://open.spotify.com/track/7Ktux01az60Et2QeCYu357) | [HAFFWAY](https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH) | [Prequel](https://open.spotify.com/album/3EkjlTMu4IDVHz759li7FO) | 2:48 | 2024-02-02 | 2025-01-18 |
+| [DNA Guarantee](https://open.spotify.com/track/7EimwDV1rXzsiXYGXVUEkC) | [Kodi Rhianne](https://open.spotify.com/artist/0SxMiauNf6nzyx8nicQ4ow) | [DNA Guarantee](https://open.spotify.com/album/1zbnbjtdrmlJnpEfvvubad) | 3:45 | 2025-04-10 |  |
 | [Do I Wanna Know? \- BBC Live Lounge](https://open.spotify.com/track/32btQnrL0HR6M1KKAPf3D3) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/5PaHwpTefKhQa6Yqsj9WRH) | 4:17 | 2025-02-07 |  |
 | [Do You Haunt Me](https://open.spotify.com/track/2ADlSEarDUKjsnuMMPgnak) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Do You Haunt Me](https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3) | 3:13 | 2024-08-30 | 2025-03-13 |
 | [do you?](https://open.spotify.com/track/7kbTmNiLl8p50Nx6e4gPhK) | [chrysalis](https://open.spotify.com/artist/26lpJv38Pa4crAQGNsTTsS) | [do you?](https://open.spotify.com/album/1PmL65BWonMcjHPQTuAbGY) | 4:40 | 2025-01-17 |  |

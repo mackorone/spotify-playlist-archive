@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with Skrillex
 
-[Spotify](https://open.spotify.com/user/spotify) - 983,071 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 983,135 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 48 | [Torch](https://open.spotify.com/track/7EvgoFkWT1kVtOIhqGwZUm) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Bekon](https://open.spotify.com/artist/4VWnuR2hpj6DZNfcpe4e3M) | [Torch](https://open.spotify.com/album/1MYRKX0bxL5FIXIqTakkNX) | 2:53 |
 | 49 | [Like This](https://open.spotify.com/track/6nz6U4UducJ57TlgOV1PjC) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd) | [Like This](https://open.spotify.com/album/7eLZjirVbDwpzqEuirQbAT) | 3:05 |
 | 50 | [XEROX](https://open.spotify.com/track/4Fj8ObHspCh0EXyxr53Ezy) | [The Funk Hunters](https://open.spotify.com/artist/5xwd7lKJeb2opUvYZnXFut), [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc) | [XEROX](https://open.spotify.com/album/0DuJVuO2CDhtMKflvXkMej) | 2:51 |
-| 51 | [Damage](https://open.spotify.com/track/4uwscfpPs3qMpswueaKISw) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [DJ DIESEL](https://open.spotify.com/artist/1HBcSNYKyatbUP0cC8usCv), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Damage](https://open.spotify.com/album/1nYaZZovs0DuMxyYn79XP9) | 3:15 |
+| 51 | [Damage](https://open.spotify.com/track/4uwscfpPs3qMpswueaKISw) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [DJ DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Damage](https://open.spotify.com/album/1nYaZZovs0DuMxyYn79XP9) | 3:15 |
 | 52 | [Raving In The Studio](https://open.spotify.com/track/6TAbRIua9JOTmqGMjGWe4d) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Raving In The Studio](https://open.spotify.com/album/46WNfH3xNv7P6m3WplO0mO) | 3:03 |
 | 53 | [WYAWYS](https://open.spotify.com/track/2jgOUCCJMqX3p3Fo40KsOC) | [EAZYBAKED](https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv), [Daggz](https://open.spotify.com/artist/3S5aXjH9pDeyD7BDMkLbiF) | [WYAWYS](https://open.spotify.com/album/2yH8u1jhW55ZkJhlx1eZOO) | 2:50 |
 | 54 | [Starry Eyed](https://open.spotify.com/track/659s4NliEPs3yKGcLSUhe6) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD), [NOMIS.K](https://open.spotify.com/artist/36hPgyntcoyEcgYDkaKrBc) | [Starry Eyed](https://open.spotify.com/album/3pQW33lGx00JTZ9tB9USbw) | 3:03 |

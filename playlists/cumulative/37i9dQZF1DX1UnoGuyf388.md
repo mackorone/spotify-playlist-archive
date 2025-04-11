@@ -4,7 +4,7 @@
 
 > Pop music driving the current, every week\.  Cover: PinkPantheress
 
-480 songs - 1 day 0 hr 8 min
+481 songs - 1 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [do it all](https://open.spotify.com/track/0W9PTP67SR6IrBYub9GsBC) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [leave me where you found me](https://open.spotify.com/album/1f19gczYsoUBsqpiG2UFR3) | 1:36 | 2023-10-17 | 2024-03-02 |
 | [do it all](https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [do it all](https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf) | 1:36 | 2023-03-24 | 2023-10-25 |
 | [DOLLA](https://open.spotify.com/track/2ZULSKV0kaXCsBeHWiBksD) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [DOLLA](https://open.spotify.com/album/1Jb8J2kQcOqpY98aqXVMaY) | 2:33 | 2024-10-07 | 2025-02-01 |
+| [don't blow the candles out](https://open.spotify.com/track/5F8TjzFBjOK6zCwZZY44b8) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [don't blow the candles out](https://open.spotify.com/album/0N6eI2jcaJSrX1K50gR05j) | 3:22 | 2025-03-28 |  |
 | [Don't Call Me](https://open.spotify.com/track/6TmdQKyH6D50cTnXVnfLFn) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Don't Call Me](https://open.spotify.com/album/27RLYalOrcL90bq5Y13mZ1) | 2:48 | 2024-03-01 | 2024-06-08 |
 | [Don't Let Me Let You Go](https://open.spotify.com/track/1UfCol96gYdamSjGtJtg7p) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Don't Let Me Let You Go](https://open.spotify.com/album/2jWlfS0VBAOhiadMo0Dlgh) | 3:38 | 2024-02-16 | 2024-06-15 |
 | [Don't Need to Sleep](https://open.spotify.com/track/0CGrKBmgI0jrkt3Qd1PM4t) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Don't Need to Sleep](https://open.spotify.com/album/2VLbmvecrpdXHCGqwD1j3u) | 3:08 | 2023-12-15 | 2024-06-01 |

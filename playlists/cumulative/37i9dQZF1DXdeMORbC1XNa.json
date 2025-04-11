@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "A perfect link up to soundtrack your day. Cover: Oxlade",
+  "description": "A perfect link up to soundtrack your day. Cover: oSHAMO",
   "name": "The ACS",
   "tracks": [
     {
@@ -4700,6 +4700,24 @@
       "duration_ms": 147851,
       "name": "IBADI (Waist)",
       "url": "https://open.spotify.com/track/3kBUa5io6UkLqH9amSu8aE"
+    },
+    {
+      "album": {
+        "name": "iDey",
+        "url": "https://open.spotify.com/album/67Hc4et6UWnbKKAIw5FqbQ"
+      },
+      "artists": [
+        {
+          "name": "oSHAMO",
+          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174241,
+      "name": "iDey",
+      "url": "https://open.spotify.com/track/0gqLCoeOQh7ItaLTZtdojy"
     },
     {
       "album": {
@@ -10214,7 +10232,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 149330,
       "name": "Suh Good",
       "url": "https://open.spotify.com/track/2ArkqDS78Ro7JOeidqzVTS"

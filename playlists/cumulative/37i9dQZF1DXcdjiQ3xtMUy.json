@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Marina Satti, Saske",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Ivan Greko, Sicario",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 203557,
       "name": "Alli Mia Fora",
       "url": "https://open.spotify.com/track/12zzuRnz63FyuBtgTP464y"
@@ -497,6 +497,28 @@
     },
     {
       "album": {
+        "name": "Atardecer",
+        "url": "https://open.spotify.com/album/0T1cGKB93cc3Szgd4EayXG"
+      },
+      "artists": [
+        {
+          "name": "Konstantinos Argiros",
+          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
+        },
+        {
+          "name": "Gipsy Kings by Andr\u00e9 Reyes",
+          "url": "https://open.spotify.com/artist/3TX8lGX5k6XsxFCjwPxzr3"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296714,
+      "name": "Atardecer",
+      "url": "https://open.spotify.com/track/4GZ6FSoaspTz5p1XLHPOtS"
+    },
+    {
+      "album": {
         "name": "AUTOS",
         "url": "https://open.spotify.com/album/5zBsIrSYkD7pa4XYLAOqLs"
       },
@@ -603,6 +625,28 @@
     },
     {
       "album": {
+        "name": "Burnout",
+        "url": "https://open.spotify.com/album/4208aedWBttdB3pFYKlPHm"
+      },
+      "artists": [
+        {
+          "name": "Katerine Duska",
+          "url": "https://open.spotify.com/artist/40tNdcLMkz7RoHcykLSNwB"
+        },
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188040,
+      "name": "Burnout",
+      "url": "https://open.spotify.com/track/0cM8ON4hpz4SqPLPjGJ9o5"
+    },
+    {
+      "album": {
         "name": "CHROME HEARTS",
         "url": "https://open.spotify.com/album/1fvIlgcPDPQ0SLhMiOBzU9"
       },
@@ -622,6 +666,28 @@
       "duration_ms": 205994,
       "name": "CHROME HEARTS",
       "url": "https://open.spotify.com/track/1oWFxZvPHlcRPnmqNgQicd"
+    },
+    {
+      "album": {
+        "name": "STATUS 2",
+        "url": "https://open.spotify.com/album/6ZokZMbIKjE2hhw3u0oySc"
+      },
+      "artists": [
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        },
+        {
+          "name": "Marina Satti",
+          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147222,
+      "name": "COSMOS",
+      "url": "https://open.spotify.com/track/3zHFS2L68Tj5JOJaw6ssso"
     },
     {
       "album": {
@@ -662,6 +728,28 @@
       "duration_ms": 181714,
       "name": "DEN PERNAEI",
       "url": "https://open.spotify.com/track/4Lcl5RNUF5jlMcrPBbxK3b"
+    },
+    {
+      "album": {
+        "name": "Diafanis",
+        "url": "https://open.spotify.com/album/3s9yB9xtjDn6NGLHpwpEvS"
+      },
+      "artists": [
+        {
+          "name": "Demy",
+          "url": "https://open.spotify.com/artist/12muvykhaMY3RlVrJQ2ApM"
+        },
+        {
+          "name": "Theo Evan",
+          "url": "https://open.spotify.com/artist/0jzej24m4tFBjGwKwsoYvj"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175175,
+      "name": "Diafanis",
+      "url": "https://open.spotify.com/track/0cJQO2o81NwOtjlJOJiEGV"
     },
     {
       "album": {
@@ -2138,7 +2226,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 199384,
       "name": "Party",
       "url": "https://open.spotify.com/track/3E5i4Ys2tHx1WxjvCaVu4K"
@@ -2274,7 +2362,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 215900,
       "name": "PSEMATA",
       "url": "https://open.spotify.com/track/4afbrAtKTYLT2J0QBo70It"

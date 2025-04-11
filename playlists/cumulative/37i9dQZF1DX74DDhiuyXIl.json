@@ -950,7 +950,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-05",
+      "date_removed": null,
       "duration_ms": 221052,
       "name": "\u4e00\u8d77\u5bc2\u5bde Lonely Duet",
       "url": "https://open.spotify.com/track/4f62bZPnqVJycmFJQVsAA9"
@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 220037,
       "name": "\u4e0d\u505c\u65cb\u8f49\u7684\u786c\u5e63\uff08\u5f71\u8996\u5287\u300a\u8acb\u518d\u548c\u6211\u7d50\u5a5a\u5427\u300b\u7247\u982d\u66f2\uff09",
       "url": "https://open.spotify.com/track/6gcwuIRjWfiA5mxToG2KiP"
@@ -1976,7 +1976,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 230757,
       "name": "\u4f60\u6210\u70ba\u4e86\u6211\u6700\u96e3\u5fd8\u7684\u4eba",
       "url": "https://open.spotify.com/track/7fDExnQqtxltKZkK1jK9RH"
@@ -3477,6 +3477,24 @@
     },
     {
       "album": {
+        "name": "\u542c\u4e0d\u89c1\u7684\u6b4c (\u7535\u5f71\u300a\u4e0d\u8bf4\u8bdd\u7684\u7231\u300b\u5ba3\u4f20\u66f2)",
+        "url": "https://open.spotify.com/album/1IDg7nTWRZBkAA3i7RsCRV"
+      },
+      "artists": [
+        {
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262400,
+      "name": "\u542c\u4e0d\u89c1\u7684\u6b4c - \u7535\u5f71\u300a\u4e0d\u8bf4\u8bdd\u7684\u7231\u300b\u5ba3\u4f20\u66f2",
+      "url": "https://open.spotify.com/track/1RxBfINup60wJQw7xehLDI"
+    },
+    {
+      "album": {
         "name": "\u5439\u4e0d\u7184\u7684\u6211 (\u5f71\u8996\u5287\u300a\u963f\u9ea5\u5f9e\u8ecd\u300b\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/4S4rF3A27L8VFo3kXmFuFM"
       },
@@ -4184,7 +4202,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-05",
+      "date_removed": null,
       "duration_ms": 330000,
       "name": "\u5929\u771f\u6709\u90aa",
       "url": "https://open.spotify.com/track/1MFmvIDW11eY3Y9nlFWS26"
@@ -8060,7 +8078,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-07",
+      "date_removed": null,
       "duration_ms": 271018,
       "name": "\u6eab\u67d4 #MaydayBlue20th - feat.\u5b6b\u71d5\u59ff",
       "url": "https://open.spotify.com/track/40fcXSuSb80MekMZM1ei2J"
@@ -8518,7 +8536,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 219258,
       "name": "\u760b\u4e86",
       "url": "https://open.spotify.com/track/5XweuJGd833nLo6h0jGobt"
@@ -8970,6 +8988,28 @@
       "duration_ms": 302061,
       "name": "\u7d42\u9ede\u8d77\u9ede",
       "url": "https://open.spotify.com/track/2rmsL9k7LneLszZFBo1H6f"
+    },
+    {
+      "album": {
+        "name": "\u7d50\u5c40\u5f88\u7626",
+        "url": "https://open.spotify.com/album/4rp1tnWuQl8fA685WTX5vq"
+      },
+      "artists": [
+        {
+          "name": "Nine Chen",
+          "url": "https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6"
+        },
+        {
+          "name": "\u5f35\u8a9e\u5665",
+          "url": "https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212112,
+      "name": "\u7d50\u5c40\u5f88\u7626",
+      "url": "https://open.spotify.com/track/4tBOMSTGOyNeAX83lyqru6"
     },
     {
       "album": {
@@ -9698,7 +9738,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 243490,
       "name": "\u8a18\u61b6\u5496\u5561 (\u6232\u5287\u300a\u6b61\u8fce\u5149\u81e8\u4e8c\u4ee3\u5496\u5561\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/7hcmgiSVOlbAZuwkgJnrFm"
@@ -10242,7 +10282,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 228632,
       "name": "\u8fd9\uff0c\u5c31\u662f\u7231",
       "url": "https://open.spotify.com/track/7urzW1Eu9McNd8Rqn9UcKr"

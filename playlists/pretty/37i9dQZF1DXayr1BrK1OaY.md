@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free ❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,831 likes - 125 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,868 likes - 125 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 81 | [Lately](https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Lately](https://open.spotify.com/album/0GKovrT0pFuXb4FhM1Wf3O) | 4:09 |
 | 82 | [Irreplaceable](https://open.spotify.com/track/79slKnl1QR5Ah6hgJqThpw) | [MashBit](https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ) | [Irreplaceable](https://open.spotify.com/album/0ZqOqdKsfpH2hX6ihfSQWv) | 3:41 |
 | 83 | [Don't Worry](https://open.spotify.com/track/4Q9ZUCGB0K3QDCNQBeV8GQ) | [Lumine](https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr) | [Don't Worry](https://open.spotify.com/album/2Y6ruoZW1oH8TXM5r6Fy99) | 2:51 |
-| 84 | [Love Let Me Go](https://open.spotify.com/track/7bJhgRTEevQQksYPbXKxRR) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [Love Let Me Go](https://open.spotify.com/album/0bvltW5lUvvoK4lmex3v5Q) | 4:01 |
-| 85 | [Strong](https://open.spotify.com/track/6P10HAaNFfKsdWPJyKd6Di) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:54 |
+| 84 | [Strong](https://open.spotify.com/track/6P10HAaNFfKsdWPJyKd6Di) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:54 |
+| 85 | [Love Let Me Go](https://open.spotify.com/track/7bJhgRTEevQQksYPbXKxRR) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [Love Let Me Go](https://open.spotify.com/album/0bvltW5lUvvoK4lmex3v5Q) | 4:01 |
 | 86 | [Flores de Abril](https://open.spotify.com/track/5nFrZoTp4FfBCWAHr5Aqyx) | [Pato Shoucair](https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC), [DIAN](https://open.spotify.com/artist/1axT977BV0cQMFt5ChzhAa) | [Flores de Abril](https://open.spotify.com/album/7gG5uYFywQBnHnk4ckKha2) | 4:17 |
 | 87 | [Little Planets \- Remix](https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [Little Planets \- Remix](https://open.spotify.com/album/1jyr9byDQASsa5aR5oQbqg) | 4:00 |
 | 88 | [Fade Out \(with MKLA\)](https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Fade Out \(with MKLA\)](https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE) | 3:50 |
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 108 | [Miss U](https://open.spotify.com/track/7zkIBL3GmwmggBLTnHwLa9) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Miss U](https://open.spotify.com/album/76x0UQRKvoREBQDp8vmqre) | 2:37 |
 | 109 | [365 Days](https://open.spotify.com/track/2lV2cMkuW3GXrTsiWQTLYD) | [Majeur Mineur](https://open.spotify.com/artist/3IMSh6UlcrbKXwG1lARp5j) | [365 Days](https://open.spotify.com/album/5AXBTKErod6BPJsRXHf6Kv) | 2:22 |
 | 110 | [Crossfire](https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [ORIGIN \(Deluxe\)](https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK) | 3:07 |
-| 111 | [The Love We Had](https://open.spotify.com/track/5bpOpaxov9usdnLLNLOtMd) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [The Love We Had](https://open.spotify.com/album/2HFSsfxUAs3spJeK5yaj59) | 3:41 |
-| 112 | [SEE YOU AGAIN](https://open.spotify.com/track/6Az70eTFLGsu3KWFB2mYHh) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [OXY2\*](https://open.spotify.com/album/2oaTK2Y4tGP9s6eSE3GtuL) | 2:43 |
+| 111 | [SEE YOU AGAIN](https://open.spotify.com/track/6Az70eTFLGsu3KWFB2mYHh) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [OXY2\*](https://open.spotify.com/album/2oaTK2Y4tGP9s6eSE3GtuL) | 2:43 |
+| 112 | [The Love We Had](https://open.spotify.com/track/5bpOpaxov9usdnLLNLOtMd) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [The Love We Had](https://open.spotify.com/album/2HFSsfxUAs3spJeK5yaj59) | 3:41 |
 | 113 | [don't come back](https://open.spotify.com/track/3tPrgyExznmJs4wA51yXlJ) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [don't come back](https://open.spotify.com/album/11cbxbrYCNcdzRMAbbKZop) | 3:09 |
 | 114 | [Head Up](https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi) | 3:09 |
 | 115 | [The Forest](https://open.spotify.com/track/5qUCFZ89gAvJlIj6zB5HUc) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Amixem](https://open.spotify.com/artist/28FoMtJg9p3EOYc0NP2wh8) | [The Forest](https://open.spotify.com/album/4SB2U15zTzAzZ4oznEesWj) | 3:05 |
@@ -132,6 +132,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 122 | [Never Alone](https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Never Alone](https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi) | 3:06 |
 | 123 | [Without You \- Dance Version](https://open.spotify.com/track/5F5RsRxq6mdUK6EiqU6vLe) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Without You \(Dance Version\)](https://open.spotify.com/album/18yIcXrbSzX8PZ17szSmp2) | 3:05 |
 | 124 | [Felt A Little Like](https://open.spotify.com/track/59UH0rSIE50SCvvj2FNGKv) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Felt A Little Like](https://open.spotify.com/album/0KRqWwLm35hlggcVVUkpu1) | 3:37 |
-| 125 | [Want You](https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Want You](https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc) | 3:58 |
+| 125 | [Gonna Be Good](https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Gonna Be Good](https://open.spotify.com/album/13prcX73M9Gmy7ksaFPl5E) | 2:52 |
 
 Snapshot ID: `Z+9ZYgAAAABXLLa+53/dnRIClCXwyXzi`

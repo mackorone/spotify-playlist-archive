@@ -4,7 +4,7 @@
 
 > 🚨
 
-306 songs - 13 hr 23 min
+307 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [51 \- Freestyle](https://open.spotify.com/track/7ImJxQ5V8hKBRIigwXcnMC) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Gore\-Tex, Vol\. 1 \(Freestyle\)](https://open.spotify.com/album/2e0pg7GXJw2PT54DnKmRK0) | 2:04 | 2024-01-11 | 2024-03-01 |
 | [555](https://open.spotify.com/track/4s8kJv5M6vIXPciohYgMHN) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Takket være livet](https://open.spotify.com/album/0FpElBecf0GKSZh1ZV2XZC) | 3:30 | 2023-11-09 |  |
 | [95](https://open.spotify.com/track/41rOFUwgdYCySkMPb99RjL) | [Hiwá](https://open.spotify.com/artist/6dxaJO4moD1NB2YpmTRg4a), [Philip Emilio](https://open.spotify.com/artist/2GN0eor58XbyUUfQxWTgYn) | [95](https://open.spotify.com/album/3IKvmlokK9vfru4Aki55GX) | 2:42 | 2023-09-21 | 2023-10-13 |
+| [=SUMMA SUMMARUM \(Rambow x Oscar Blesson\)](https://open.spotify.com/track/0pY8rQ9yYcaKHv4lOS0U8R) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9), [Oscar Blesson](https://open.spotify.com/artist/34yalNbmu76FgEtORg2yVp) | [=SUMMA SUMMARUM \(Rambow x Oscar Blesson\)](https://open.spotify.com/album/29nLKtjQfLjNVWgQSwxMPw) | 2:37 | 2025-04-10 |  |
 | [Aktiv](https://open.spotify.com/track/7FILcXgBfO8f48zLaIqb9g) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Spår av BLod](https://open.spotify.com/album/7aZiFpe3Ji0BQ3E2Uo7LzK) | 2:40 | 2023-11-09 | 2025-03-28 |
 | [Allergi](https://open.spotify.com/track/0OaY8YOkxjTGhQL6tseyj7) | [FLUS](https://open.spotify.com/artist/5eV6nWbx415OdU2llWR52L), [Yosef Wolde\-Mariam](https://open.spotify.com/artist/2GBlvdFVbAmRuOz0ibDtZC) | [FLUS \(Original Soundtrack\)](https://open.spotify.com/album/6EJX9ruEfxJresDIaYfN63) | 1:53 | 2025-02-06 | 2025-02-28 |
 | [Ambassador](https://open.spotify.com/track/1J1TrqO93opcc5mx3Xv8DG) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Ambassador](https://open.spotify.com/album/3xPt4uCVp49yGgVMPORwlS) | 2:53 | 2024-07-18 | 2025-02-07 |
@@ -280,7 +281,7 @@
 | [Säg Mig](https://open.spotify.com/track/6QcM5ODX1XpjBKIMQuWmdE) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Säg Mig](https://open.spotify.com/album/0EfLxPztOcuTi1gr2qXPXp) | 2:15 | 2024-02-15 |  |
 | [Tango](https://open.spotify.com/track/5TGveWo66AyNkhEbJyhhfY) | [Dio Mudara](https://open.spotify.com/artist/44dtVuy3JdjkJ0PqVh4nKy), [KØBER](https://open.spotify.com/artist/60a2bBHgTEfBJxFeJykcbD) | [Tango](https://open.spotify.com/album/0ipce2oa34OW7g2g6mNhvQ) | 2:14 | 2023-09-21 | 2023-09-29 |
 | [Tappar kontroll](https://open.spotify.com/track/3JzsfvZ8mUk0zW3thtxnx7) | [BELLMAN](https://open.spotify.com/artist/7GVF8DDjYLdmf5Y4oJHsaC), [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [Imenella](https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h), [SAMI](https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr) | [Tappar kontroll](https://open.spotify.com/album/1PzBGPCkSnJm1ZuECf5A50) | 2:56 | 2024-07-18 | 2024-11-03 |
-| [Telepati \(feat\. Tyr\)](https://open.spotify.com/track/1jKPDNzscz5gkVlSGMkHxX) | [Benocchio](https://open.spotify.com/artist/0l9AOQvopZLzF5ozyD1BYs), [Ys1](https://open.spotify.com/artist/5xd5dejPupUZBQxKNDfp5B), [Moe3](https://open.spotify.com/artist/0ddC4lQFkfT0qwbq6FQcSq), [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [Telepati \(feat\. Tyr\)](https://open.spotify.com/album/0sqAJ5XO13rhW0ygq8y7Nw) | 2:54 | 2025-03-27 |  |
+| [Telepati \(feat\. Tyr\)](https://open.spotify.com/track/1jKPDNzscz5gkVlSGMkHxX) | [Benocchio](https://open.spotify.com/artist/0l9AOQvopZLzF5ozyD1BYs), [Ys1](https://open.spotify.com/artist/5xd5dejPupUZBQxKNDfp5B), [Moe3](https://open.spotify.com/artist/0ddC4lQFkfT0qwbq6FQcSq), [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [Telepati \(feat\. Tyr\)](https://open.spotify.com/album/0sqAJ5XO13rhW0ygq8y7Nw) | 2:54 | 2025-03-27 | 2025-04-11 |
 | [Tenk Inte](https://open.spotify.com/track/2pqQRRFqx4N2vgUpyNCjeZ) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Tenk Inte](https://open.spotify.com/album/76PgNeucZNboWgBKHP25kB) | 2:53 | 2024-07-11 | 2025-03-28 |
 | [Tenke Sjæl](https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 2:40 | 2024-04-25 |  |
 | [Thug Lover](https://open.spotify.com/track/3zpENN5MvOOv0pYj5YQWS7) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Thug Lover](https://open.spotify.com/album/1ojrLW3hbC1iU8oGJuMa1s) | 2:42 | 2024-03-14 | 2024-06-17 |

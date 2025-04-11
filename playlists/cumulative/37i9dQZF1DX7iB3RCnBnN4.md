@@ -2,7 +2,7 @@
 
 ### [BILLIONS CLUB](https://open.spotify.com/playlist/37i9dQZF1DX7iB3RCnBnN4)
 
-> All the songs with more than 1 Billion streams on Spotify\. Cover: Metallica
+> All the songs with more than 1 Billion streams on Spotify\. Cover: Camila Cabello
 
 978 songs - 2 day 11 hr 15 min
 

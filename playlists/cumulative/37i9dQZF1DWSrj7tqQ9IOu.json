@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Bolivard",
+  "description": "The best French indie tracks right now. Cover : Miel de Montagne",
   "name": "Made in France",
   "tracks": [
     {
@@ -146,6 +146,24 @@
       "duration_ms": 241661,
       "name": "A day in the water",
       "url": "https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt"
+    },
+    {
+      "album": {
+        "name": "A Dog in a Manger",
+        "url": "https://open.spotify.com/album/38TmYJoFrS4La3bDZKmIje"
+      },
+      "artists": [
+        {
+          "name": "Astral Bakers",
+          "url": "https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192173,
+      "name": "A Dog in a Manger",
+      "url": "https://open.spotify.com/track/7smNXOvuCLjEG3qeOQdqVH"
     },
     {
       "album": {
@@ -700,7 +718,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 161644,
       "name": "Assis",
       "url": "https://open.spotify.com/track/2VKjLsx5fsMxXPPI8hhwd8"
@@ -1076,7 +1094,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 130302,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/0erFMrDuaEjyzLcZWeJ7FU"
@@ -3479,6 +3497,24 @@
     },
     {
       "album": {
+        "name": "Froid",
+        "url": "https://open.spotify.com/album/40cY8TTVDksMOovNRRZxl3"
+      },
+      "artists": [
+        {
+          "name": "TheFrenchKris",
+          "url": "https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126487,
+      "name": "Froid",
+      "url": "https://open.spotify.com/track/7Gt9Iqhi9Qy0qV83rkOGBn"
+    },
+    {
+      "album": {
         "name": "Fun And Games",
         "url": "https://open.spotify.com/album/0TARB7CV4PQJKl6ceVpyfG"
       },
@@ -4270,7 +4306,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 245912,
       "name": "Honeymoon",
       "url": "https://open.spotify.com/track/3JL428OmCG6TrjaOLqxF5R"
@@ -5239,6 +5275,28 @@
     },
     {
       "album": {
+        "name": "L'intranquillit\u00e9",
+        "url": "https://open.spotify.com/album/5HHMb6ROHLzBF3MnrzoVxQ"
+      },
+      "artists": [
+        {
+          "name": "Kazy Lambist",
+          "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
+        },
+        {
+          "name": "Lulu Gainsbourg",
+          "url": "https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260502,
+      "name": "L'intranquillit\u00e9",
+      "url": "https://open.spotify.com/track/5wlP1eAUgaETs3u2VlrU1z"
+    },
+    {
+      "album": {
         "name": "L'\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/7xTNZ0EmI8hmzZLFwQRUAB"
       },
@@ -5804,7 +5862,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 185294,
       "name": "Le fil (feat. Cassandra Jenkins)",
       "url": "https://open.spotify.com/track/1kXKd5gFgy9DEVcjs8zEg5"
@@ -8329,6 +8387,24 @@
     },
     {
       "album": {
+        "name": "Principessa",
+        "url": "https://open.spotify.com/album/2XCoUwXyJWzAH0JcIu2SHs"
+      },
+      "artists": [
+        {
+          "name": "Aprile",
+          "url": "https://open.spotify.com/artist/7oEYc5uIsL3oSolbDkG39P"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241500,
+      "name": "Principessa",
+      "url": "https://open.spotify.com/track/60BFnfQs9T8xhpUeTI7759"
+    },
+    {
+      "album": {
         "name": "Psychopath",
         "url": "https://open.spotify.com/album/0IzbtB39XZSmjXKAlcdAhd"
       },
@@ -9352,7 +9428,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 181244,
       "name": "Something special about us",
       "url": "https://open.spotify.com/track/7s3VuYUfntWORZOGxO2LYE"
@@ -9382,6 +9458,28 @@
       "duration_ms": 209746,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/4b0fiEZg92FBFYze5uEx0l"
+    },
+    {
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/27mHuZHJcMZwM1mecTMZSe"
+      },
+      "artists": [
+        {
+          "name": "Nouvelle Vague",
+          "url": "https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0"
+        },
+        {
+          "name": "Hannah Hu",
+          "url": "https://open.spotify.com/artist/5FJZEcDIxGn5cW2g3ngiWl"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195111,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/4dIigDdKYugqzXzE7509bx"
     },
     {
       "album": {
@@ -9646,6 +9744,24 @@
       "duration_ms": 172300,
       "name": "sunflower \u201824",
       "url": "https://open.spotify.com/track/4B5bFK1CWLg3MHo56HNizi"
+    },
+    {
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/0J4ZjIpLALO2xXcyUBxI6G"
+      },
+      "artists": [
+        {
+          "name": "Victor Marc",
+          "url": "https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171327,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/6kkBXPMpoQPFQ6SrgSQ7IK"
     },
     {
       "album": {
@@ -11242,7 +11358,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 201469,
       "name": "WHERE YOU CAME FROM",
       "url": "https://open.spotify.com/track/017E1qhjjOHdotCFJ66k0Y"

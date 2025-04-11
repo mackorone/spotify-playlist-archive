@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 52550,
+  "num_followers": 52551,
   "original_name": "no corre",
   "owner": {
     "name": "Spotify",
@@ -1543,6 +1543,26 @@
     {
       "added_at": "2025-04-01 20:00:23",
       "album": {
+        "name": "Vinyl Days",
+        "url": "https://open.spotify.com/album/39Pk4nMutY9mR59Z1n9BH1"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "duration_ms": 282581,
+      "name": "Vinyl Days (feat. DJ Premier)",
+      "url": "https://open.spotify.com/track/4Red8fs87G5istv5L8S9kU"
+    },
+    {
+      "added_at": "2025-04-01 20:00:23",
+      "album": {
         "name": "COMMUNITY",
         "url": "https://open.spotify.com/album/0XAZV2Q7q57anNWzQPARET"
       },
@@ -1579,26 +1599,6 @@
       "duration_ms": 319180,
       "name": "COMMUNITY",
       "url": "https://open.spotify.com/track/3IDL1MuZlqnTBsfljKA0Jd"
-    },
-    {
-      "added_at": "2025-04-01 20:00:23",
-      "album": {
-        "name": "Vinyl Days",
-        "url": "https://open.spotify.com/album/39Pk4nMutY9mR59Z1n9BH1"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        }
-      ],
-      "duration_ms": 282581,
-      "name": "Vinyl Days (feat. DJ Premier)",
-      "url": "https://open.spotify.com/track/4Red8fs87G5istv5L8S9kU"
     },
     {
       "added_at": "2025-04-01 20:00:23",

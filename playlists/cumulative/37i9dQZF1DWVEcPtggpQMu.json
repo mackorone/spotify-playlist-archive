@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO?si=4Gz3ujQKRd2QusxGEHvXzQ\">Riky Rick</a> ",
+  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"<a href=\">Kwesta</a>  , <a href=\"https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66?si=XDAk9BBBRku0SIgtl5Mivg\">Nkosazana Daughter</a> ",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -4175,6 +4175,28 @@
     },
     {
       "album": {
+        "name": "Di'kota Tsa Swervo",
+        "url": "https://open.spotify.com/album/3wBozu1GiHdqgEaU6gvnf3"
+      },
+      "artists": [
+        {
+          "name": "MfanaTouchLine",
+          "url": "https://open.spotify.com/artist/2RV0TompTWunZpF57DdQzJ"
+        },
+        {
+          "name": "Swervo",
+          "url": "https://open.spotify.com/artist/6CHp1Uv7p4U0wbUEWFh5x7"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115862,
+      "name": "Di'kota Tsa Swervo",
+      "url": "https://open.spotify.com/track/7MxjUkh1PcIso3xsHJSTHo"
+    },
+    {
+      "album": {
         "name": "Diamonds",
         "url": "https://open.spotify.com/album/7C9G1DbVHXdx7ndn2eNHeD"
       },
@@ -4244,7 +4266,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 250434,
       "name": "Dlala Vilakazi",
       "url": "https://open.spotify.com/track/3w7yc0df27wLKZTbBfyjYi"
@@ -6322,7 +6344,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 172943,
       "name": "Get This Bag (feat. Shouldbeyuang)",
       "url": "https://open.spotify.com/track/1xoyJhjSZdgmHeZHuHmpQ8"
@@ -8540,6 +8562,28 @@
       "duration_ms": 109693,
       "name": "Jonny Dang",
       "url": "https://open.spotify.com/track/5KtLrhWflTtmahBdirg2V8"
+    },
+    {
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/2niVozED8TWhGiK1jTbUGn"
+      },
+      "artists": [
+        {
+          "name": "Kwesta",
+          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
+        },
+        {
+          "name": "Nkosazana Daughter",
+          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Joy (feat. Nkosazana Daughter)",
+      "url": "https://open.spotify.com/track/7IukdLxEBymFsgvpOh7Gbl"
     },
     {
       "album": {

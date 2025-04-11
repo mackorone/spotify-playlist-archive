@@ -4,7 +4,7 @@
 
 > 
 
-2,112 songs - 4 day 17 hr 14 min
+2,114 songs - 4 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [B2b](https://open.spotify.com/track/6tYGrpUyqB4yao5lAs3AR4) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Club classics / B2b](https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3) | 2:58 | 2024-04-22 |  |
 | [Baby Don't Worry](https://open.spotify.com/track/18wl9EZLc5itIf8YR74kdm) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [Grow](https://open.spotify.com/album/7akj4ATnCnOCL1GwKVSy5z) | 2:46 | 2021-08-05 |  |
 | [Baby G](https://open.spotify.com/track/4n4doJ9RMuarUvkSjwcF7U) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [GOODBYE SALÒ](https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1) | 4:31 | 2024-11-09 |  |
+| [Baby G \- Victoria Remix](https://open.spotify.com/track/1PqInWz8dRWlaN9xlzPhrE) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j), [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl) | [GOODBYE SALÒ THE REMIXES](https://open.spotify.com/album/6GXLeq56Ku6jhhrgws8bo9) | 3:10 | 2025-04-10 |  |
 | [Baby Hotline](https://open.spotify.com/track/1R8kvV2AgNPCA2Pp4Im1Ao) | [Jack Stauber's Micropop](https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC) | [Baby Hotline / Tea Errors](https://open.spotify.com/album/1AaAZVHtUWpJuLpq96VUuQ) | 4:51 | 2021-08-05 |  |
 | [Baby in Blue](https://open.spotify.com/track/4SSpUNIZ8HnX52jWrmyVmJ) | [Madisenxoxo](https://open.spotify.com/artist/2S2x3n1BXskbkRdEdj5gSB) | [Baby in Blue](https://open.spotify.com/album/1hbf7WZ4YxDJ4CQ7rLCQ8m) | 3:55 | 2021-08-05 |  |
 | [Baby My Phone](https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [Baby My Phone](https://open.spotify.com/album/3fLglAkAwRiXwFKjGRQxQq) | 3:35 | 2021-08-05 |  |
@@ -704,6 +705,7 @@
 | [friendship](https://open.spotify.com/track/3JvXtgeeIfN4MQaew28CLV) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [soap water](https://open.spotify.com/album/0bI3nqxr56BoHJLZ3Li906) | 2:52 | 2022-02-18 |  |
 | [From the Beginning of Time Until the End of Time](https://open.spotify.com/track/5rgAdnZQiUhYfuguGrsjee) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XVIII: The Fall of Idols Saga](https://open.spotify.com/album/0EvGBNEwjHND7km7tRuctQ) | 2:04 | 2021-08-05 |  |
 | [FSU](https://open.spotify.com/track/5wHs3O2fHwCFpB1tUrfqvc) | [BigKlit](https://open.spotify.com/artist/0POkErJcpuhWNnCXAhgJoZ) | [Klitorius B.I.G.](https://open.spotify.com/album/4uM0wAnd3GYjuGrWwdhF46) | 2:12 | 2021-08-05 |  |
+| [FSU \(feat\. GASHI & Rich The Kid\)](https://open.spotify.com/track/0nJnzVlIJV3vqckZ06PeaM) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 3:51 | 2025-04-10 |  |
 | [Fuck Authority](https://open.spotify.com/track/3Id64dLhfH7z0mmcylxuNp) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Land Of The Free?](https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly) | 3:16 | 2021-08-05 |  |
 | [Fuck That](https://open.spotify.com/track/3VlCIYEdNORYA3OF5K0nQm) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 2:24 | 2021-11-30 |  |
 | [Fuckthepopulation](https://open.spotify.com/track/0XfsT6rbC7myipngFhWa9T) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [My Liver Will Handle What My Heart Can't](https://open.spotify.com/album/2VrpzWjnsiELWKXOJAFhme) | 2:30 | 2024-03-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > welcome to the underground\. greetings from black country, new road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,518 likes - 86 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,502 likes - 86 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

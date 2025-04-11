@@ -4,7 +4,7 @@
 
 > As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.
 
-248 songs - 16 hr 46 min
+249 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Faithfulness](https://open.spotify.com/track/672qx8wmGouDn56vewnHQn) | [Road to Restoration](https://open.spotify.com/artist/5HNGuh45sTuaF2y8xr2nKt), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Faithfulness & Kem Di Hallelujah](https://open.spotify.com/album/3QMYzQvw4pFbV3H5ZUJgw8) | 4:22 | 2025-04-05 |  |
 | [Fall Back](https://open.spotify.com/track/2gdhk8NxdVHETlleYlERZX) | [Austin Koukal](https://open.spotify.com/artist/47e5G9UHhlQ2O39lG7aBJy), [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Fall Back](https://open.spotify.com/album/0fUS3GFhw8Fc2zi94hbOlG) | 4:11 | 2025-04-05 |  |
 | [Feel Holy](https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [Feel Holy](https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac) | 5:31 | 2024-06-23 |  |
+| [First Love \- Live](https://open.spotify.com/track/4LE0AiT2I2BMMnLA5vXBTT) | [Lucy Grimble](https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq), [Beth Key](https://open.spotify.com/artist/5Fx1Khoe3ZB1JUYaKikA8w), [Meg Loney](https://open.spotify.com/artist/4jQnPxww7HFJCoGs1fv26D) | [First Love \(Live\)](https://open.spotify.com/album/3Nl89KswcXuMmqZCClsdKh) | 5:44 | 2025-04-05 |  |
 | [Follow Me](https://open.spotify.com/track/2Qq5fpfXnpqWvHsvXuMH3O) | [Angelique Marketon](https://open.spotify.com/artist/75aegD7DtUiK9w9LP9iwsA) | [Follow Me](https://open.spotify.com/album/0VUJTXs1I6cpspWGfjcIjJ) | 5:12 | 2024-06-23 | 2024-07-27 |
 | [Follow You](https://open.spotify.com/track/3YhmZC4QRnlLn87XuWWRUW) | [ALIA LARA](https://open.spotify.com/artist/7LZtbcOzfx11Fhapw8iiOO) | [Follow You](https://open.spotify.com/album/4LX6oVgc0dBtUzAxcjmDwM) | 3:32 | 2025-04-05 |  |
 | [For The Ones We Love](https://open.spotify.com/track/04SDrly80EKgl1vlnskm7J) | [Jonas Myrin](https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5) | [For The Ones We Love](https://open.spotify.com/album/0F8iAIGNpZ25HDiZiNVsmq) | 3:29 | 2024-07-26 | 2025-04-05 |
@@ -124,7 +125,7 @@
 | [Let Go](https://open.spotify.com/track/4b63kPFb3CuPu0GOV2WFgf) | [Lynn Marie](https://open.spotify.com/artist/3kchCQYT10xiyu2OzxK17H) | [Let Go](https://open.spotify.com/album/1s10ErGVp2HSe8yQqrVUQ4) | 3:56 | 2024-07-26 | 2025-04-05 |
 | [Let It Be So](https://open.spotify.com/track/4H5YkflQqqE9sUNy2z90n8) | [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1) | [Let It Be So](https://open.spotify.com/album/6iBkN0coZ7G9wILcvWCi0g) | 5:00 | 2024-07-26 | 2025-04-05 |
 | [Let Not Your Heart Be Troubled](https://open.spotify.com/track/4Aq8BAQomYfUVcxTxc4FCA) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Let Not Your Heart Be Troubled](https://open.spotify.com/album/2Hn6rWDnHgKpPOUR8J6g1k) | 4:16 | 2023-02-07 | 2024-06-23 |
-| [Life Again](https://open.spotify.com/track/4cQinb06F9cqVy4fWqqd1Z) | [Brad & Rebekah](https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG) | [Life Again](https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u) | 4:24 | 2024-07-26 |  |
+| [Life Again](https://open.spotify.com/track/4cQinb06F9cqVy4fWqqd1Z) | [Brad & Rebekah](https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG) | [Life Again](https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u) | 4:24 | 2024-07-26 | 2025-04-11 |
 | [Lightning](https://open.spotify.com/track/0CZd9O1bThdWCQxNSHwjf7) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Harolddd](https://open.spotify.com/artist/44av3ir0vktBzXpTjnuR7V) | [Lightning](https://open.spotify.com/album/0egIrc1XFeHAYIMbhIVjcN) | 3:34 | 2024-06-23 | 2024-07-27 |
 | [Like A Kid](https://open.spotify.com/track/6GsZ4HTLTKZR9PHLDMJOfO) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Glasshouse](https://open.spotify.com/album/0Te9CCKeQNk5RfuqFyvt5W) | 3:45 | 2024-06-23 |  |
 | [Like Everybody Else](https://open.spotify.com/track/2aOAMQcIW3tiPNomNPsuZy) | [Sam Wilson](https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5) | [Like Everybody Else](https://open.spotify.com/album/6ZeGqLGUopeVokA6dQQUVK) | 3:12 | 2025-04-05 |  |

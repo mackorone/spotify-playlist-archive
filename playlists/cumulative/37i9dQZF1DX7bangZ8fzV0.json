@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek! Omslag: <a href=\"https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ?si=VHknqYzaSjWwvvRs8qreUg\">JAN JAN JAN</a> ",
+  "description": "Net die beste Afrikaanse musiek! Omslag: <a href=\"https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa?si=NLspZbe3StSEAiEDjOglNg\">Dodo Nyoka</a> ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -1804,7 +1804,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 180534,
       "name": "Hop Hop Spinnekop",
       "url": "https://open.spotify.com/track/4NG32lh3Z2wHxrDptfiQd3"
@@ -3922,6 +3922,28 @@
       "duration_ms": 264933,
       "name": "Sandkasteel",
       "url": "https://open.spotify.com/track/7KSQOT6KtogmJawfS8cmhZ"
+    },
+    {
+      "album": {
+        "name": "Shut Up & Soen My",
+        "url": "https://open.spotify.com/album/2nGlSHYxK3nHVx4nTlGw4d"
+      },
+      "artists": [
+        {
+          "name": "Irene-Louise Van Wyk",
+          "url": "https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma"
+        },
+        {
+          "name": "Bobby Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192676,
+      "name": "Shut Up & Soen My",
+      "url": "https://open.spotify.com/track/1LVudOtqu2VZzuE1UrfjpL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 
 > A calm sea, a quiet beach, a peaceful moment..\. <br/>Relax, sleep, meditate, with soft sounds of the soothing surf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,327 likes - 128 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,397 likes - 128 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 | 56 | [Salty Waves](https://open.spotify.com/track/2aRy7pklD5hTboN2N8TbCm) | [AQUELLE](https://open.spotify.com/artist/6QpxjwGg7Ni071gSexGP0j) | [Salty Waves](https://open.spotify.com/album/69F69VuU2LQCaTp3U0hyoV) | 2:37 |
 | 57 | [Lighthouse Waves](https://open.spotify.com/track/6ZiraCpLeTf9RO1vHbtfMo) | [Beyond North](https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk) | [Lighthouse Waves](https://open.spotify.com/album/3DD8Y5K7p6jR3xp7FUDPdZ) | 2:25 |
 | 58 | [Low Tide Bliss](https://open.spotify.com/track/6fulxWG1wkZi0vN4FZE6r3) | [Nova Ritual](https://open.spotify.com/artist/5XdK5Z3eOiVgardcvdQYw0) | [Seaways](https://open.spotify.com/album/3EqfAkgG3ds9GqazWU9JvG) | 2:50 |
-| 59 | [Lake Water Sound](https://open.spotify.com/track/7lGgLdUdHkl1SQUln1oFkI) | [Ambrook Glacier](https://open.spotify.com/artist/2nzv7rfJgsWoS068opqZDy) | [Sound of the lake](https://open.spotify.com/album/16h5uf6Verc3wpOK1leYyw) | 3:16 |
-| 60 | [By The Shoreline](https://open.spotify.com/track/04rH1zCYGYzmoOkVOVY4Gj) | [Gnees Early Waves](https://open.spotify.com/artist/7HWzEstD6nTbL0iiKjMu7s) | [Waves For Sleeping](https://open.spotify.com/album/1iOxi5K0NRnew8562HF8zx) | 2:39 |
+| 59 | [By The Shoreline](https://open.spotify.com/track/04rH1zCYGYzmoOkVOVY4Gj) | [Gnees Early Waves](https://open.spotify.com/artist/7HWzEstD6nTbL0iiKjMu7s) | [Waves For Sleeping](https://open.spotify.com/album/1iOxi5K0NRnew8562HF8zx) | 2:39 |
+| 60 | [Lake Water Sound](https://open.spotify.com/track/7lGgLdUdHkl1SQUln1oFkI) | [Ambrook Glacier](https://open.spotify.com/artist/2nzv7rfJgsWoS068opqZDy) | [Sound of the lake](https://open.spotify.com/album/16h5uf6Verc3wpOK1leYyw) | 3:16 |
 | 61 | [How I’ve Longed for Waters](https://open.spotify.com/track/5HTiO7aArQSC4IPFH7cDmW) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [How I’ve Longed for Waters](https://open.spotify.com/album/7yPGQJgZTf06KdXVOVaDSa) | 3:11 |
 | 62 | [Afternoon Nap \- Waves for Sleep Pt\. 1](https://open.spotify.com/track/6ZLthyH8sc4NxYfifgtu5C) | [Granatic](https://open.spotify.com/artist/02fXIa9fg4gCk24jmtJws1) | [Afternoon Nap](https://open.spotify.com/album/3xHvy7sKsJknH2V35a8nXb) | 2:24 |
 | 63 | [Shore Waves](https://open.spotify.com/track/1IBrspE2Vn1kYMgaPBINDu) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Ocean Escape](https://open.spotify.com/album/2ejB5Om23BjIfUnhuSeL5u) | 3:35 |

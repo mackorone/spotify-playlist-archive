@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 
 ### [Ambyar](https://open.spotify.com/playlist/37i9dQZF1DX4V6WLWzdIgr)
 
-> Ubur\-ubur ikan lele, nek sedih ya dijogeti wae! 😢
+> Ubur\-ubur ikan lele, nek sedih ya dijogeti wae lee! 😢
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,667 likes - 87 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,721 likes - 87 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Njarem](https://open.spotify.com/track/4blk67iSazQOqxcT9VaxMP) | [Damara De](https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF), [Dask Music](https://open.spotify.com/artist/347FJUPALm4tIlsgYJPVCQ) | [Njarem](https://open.spotify.com/album/27YAoA59XEtW70BYkLvJjL) | 7:38 |
-| 2 | [Kalah](https://open.spotify.com/track/6w7wnRZVLdVQGpvAnpI7Wf) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL), [Restianade](https://open.spotify.com/artist/2snngeuArUgVK4TxAWwe9a) | [Kalah](https://open.spotify.com/album/3sOqpgD6n7tYmN75GdUGYx) | 6:38 |
-| 3 | [Pepisahan](https://open.spotify.com/track/4W8mIGnU6RFfOg6EVjMiTo) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO) | [Pepisahan](https://open.spotify.com/album/6fEQf1bNuwNDxq9xUyESiU) | 4:18 |
-| 4 | [Ora Ngemis Bali](https://open.spotify.com/track/2COVYtcGF8dXR048GoKmFE) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Ratih SDE](https://open.spotify.com/artist/3hA9id8iAytOj6P8c2F6d8) | [Ora Ngemis Bali](https://open.spotify.com/album/4G4I1f98sSWGxGabviKsQ5) | 5:32 |
-| 5 | [Tresno Tekan Mati New Version \- Remastered 2023](https://open.spotify.com/track/5JJ6JB7fKygWoKAcBZKxNo) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Tresno Tekan Mati \(New Version\)](https://open.spotify.com/album/5rjrUoQokVq8SKhvhatF2U) | 4:31 |
-| 6 | [Kartonyono Medot Janji](https://open.spotify.com/track/5mif8baNRylKBl3vb7kdP6) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Kartonyono Medot Janji](https://open.spotify.com/album/28rUJRBJ2UfjZPQ7yX6v6t) | 5:46 |
+| 1 | [Kartonyono Medot Janji](https://open.spotify.com/track/5mif8baNRylKBl3vb7kdP6) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Kartonyono Medot Janji](https://open.spotify.com/album/28rUJRBJ2UfjZPQ7yX6v6t) | 5:46 |
+| 2 | [Tresno Tekan Mati New Version \- Remastered 2023](https://open.spotify.com/track/5JJ6JB7fKygWoKAcBZKxNo) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Tresno Tekan Mati \(New Version\)](https://open.spotify.com/album/5rjrUoQokVq8SKhvhatF2U) | 4:31 |
+| 3 | [Njarem](https://open.spotify.com/track/4blk67iSazQOqxcT9VaxMP) | [Damara De](https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF), [Dask Music](https://open.spotify.com/artist/347FJUPALm4tIlsgYJPVCQ) | [Njarem](https://open.spotify.com/album/27YAoA59XEtW70BYkLvJjL) | 7:38 |
+| 4 | [Kalah](https://open.spotify.com/track/6w7wnRZVLdVQGpvAnpI7Wf) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL), [Restianade](https://open.spotify.com/artist/2snngeuArUgVK4TxAWwe9a) | [Kalah](https://open.spotify.com/album/3sOqpgD6n7tYmN75GdUGYx) | 6:38 |
+| 5 | [Pepisahan](https://open.spotify.com/track/4W8mIGnU6RFfOg6EVjMiTo) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO) | [Pepisahan](https://open.spotify.com/album/6fEQf1bNuwNDxq9xUyESiU) | 4:18 |
+| 6 | [Ora Ngemis Bali](https://open.spotify.com/track/2COVYtcGF8dXR048GoKmFE) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Ratih SDE](https://open.spotify.com/artist/3hA9id8iAytOj6P8c2F6d8) | [Ora Ngemis Bali](https://open.spotify.com/album/4G4I1f98sSWGxGabviKsQ5) | 5:32 |
 | 7 | [Ngertenono Ati \- NDX A.K.A\. Version](https://open.spotify.com/track/4Ozqq0yyfqdaI3i7lXxw8X) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Ngertenono Ati \(NDX A.K.A\. Version\)](https://open.spotify.com/album/6t3BaKpsXsMDVozmbOqFBS) | 4:00 |
 | 8 | [NGANGGUR](https://open.spotify.com/track/6rxFUsLmRp8Z3KQEfZXZQA) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [NGANGGUR](https://open.spotify.com/album/6PynUUIECeMVsQQiL5DQw5) | 4:14 |
 | 9 | [Wirang](https://open.spotify.com/track/2cNjYBMsuNELj4oJjYr0bg) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Wirang](https://open.spotify.com/album/1OdvMWMKFQGzLJ92gU8Atc) | 4:54 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 | 86 | [Cerito Loro](https://open.spotify.com/track/2G4wPLrZnnREwMOt4DT1sN) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Cerito Loro](https://open.spotify.com/album/3oFiAmnn5Q4THrMGBfjM6k) | 6:17 |
 | 87 | [Tetep Neng Ati](https://open.spotify.com/track/6U4LPOlk6I3c6WGnyV5ZPq) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Om Wawes](https://open.spotify.com/album/4sgIDlQTDTvuMBvC1dicp1) | 5:08 |
 
-Snapshot ID: `Z+JQ4AAAAAAMRsieVs8Bz+wNQLSj0QGf`
+Snapshot ID: `Z/dQ2AAAAABNV8Kunkv7YjAQ9/6NiNFA`

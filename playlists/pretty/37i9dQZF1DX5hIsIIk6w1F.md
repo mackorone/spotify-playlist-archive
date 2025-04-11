@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hIsIIk6w1F.md) - [plain]
 
 > Este Flow tiene otro Flow\. Foto: FloyyMenor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,925 likes - 101 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,974 likes - 101 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TOA](https://open.spotify.com/track/7gdDVtwNZfpyymuUuNQBD8) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [TOA](https://open.spotify.com/album/339pENtTr43vsQGyGZC0qC) | 3:01 |
 | 2 | [Ay Mamasita](https://open.spotify.com/track/2xPdYKH4tKDThf6p6sqLtD) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Ay Mamasita](https://open.spotify.com/album/6YUB8mVHkQodN4g0HV9R3V) | 2:49 |
 | 3 | [2x1](https://open.spotify.com/track/6xXLOe3aR1iN1UFj9J1Iln) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Valdi](https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [LOS GALÁCTICOS](https://open.spotify.com/album/5jhX4ZQyGLJZG40Ifrzyma) | 3:15 |
-| 4 | [BELLAQUERA](https://open.spotify.com/track/4sS9v4Ov2ub7sIwxvtv0NC) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [FINALMENTE FELIZ](https://open.spotify.com/album/2op0KVtO5LVS6n01nqAqrV) | 3:19 |
+| 4 | [BELLAQUERA](https://open.spotify.com/track/4sS9v4Ov2ub7sIwxvtv0NC) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb) | [FINALMENTE FELIZ](https://open.spotify.com/album/2op0KVtO5LVS6n01nqAqrV) | 3:19 |
 | 5 | [El Reggaetón del Disco](https://open.spotify.com/track/15F8m8VShRlBXmSbwZBUTt) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [DON KBRN](https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a) | 3:23 |
 | 6 | [LUNA DILE](https://open.spotify.com/track/7ttbb6KZNMhkCw4PuASjxz) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Moustache](https://open.spotify.com/artist/2xJX5DFnSlKjOrO1lOtL6B) | [LUNA DILE](https://open.spotify.com/album/1yz795Mk0g1ntVvbN6zpwg) | 2:47 |
 | 7 | [333](https://open.spotify.com/track/5NlRqUTd4tv8AegeU7RW5x) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [333](https://open.spotify.com/album/6KDLws7nb97FLIZw1VHisk) | 2:45 |

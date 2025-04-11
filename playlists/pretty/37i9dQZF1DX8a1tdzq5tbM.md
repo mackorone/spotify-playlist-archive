@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,675,545 likes - 120 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,675,843 likes - 120 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 84 | [Love Is Gone \- Fred Rister & Joachim Garraud Radio Edit Mix](https://open.spotify.com/track/4V9HEnprK5MfCGL8bHHy7y) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Pop Life](https://open.spotify.com/album/48hy8LYht8Gv9sOp1x7DyF) | 3:21 |
 | 85 | [Day 'N' Night \- Club Mix](https://open.spotify.com/track/5BsRZqHI8oLMc1YKsHtauE) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Pacha Ibiza \- The House Collection \(2000\-2009\)](https://open.spotify.com/album/0IeYFIikG2SL2YLxGNvzVo) | 4:41 |
 | 86 | [Traffic \- Radio Edit](https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Just Be](https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA) | 2:57 |
-| 87 | [In White Rooms](https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Movements](https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r) | 5:26 |
-| 88 | [Exploration of Space \- Radio Edit](https://open.spotify.com/track/4iLL2yVVG19TAJYssbMeBT) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [Exploration of Space](https://open.spotify.com/album/5ibY1QH7VwnDLnye7mTzvx) | 3:36 |
+| 87 | [Exploration of Space \- Radio Edit](https://open.spotify.com/track/4iLL2yVVG19TAJYssbMeBT) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [Exploration of Space](https://open.spotify.com/album/5ibY1QH7VwnDLnye7mTzvx) | 3:36 |
+| 88 | [In White Rooms](https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Movements](https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r) | 5:26 |
 | 89 | [The Longest Road \(feat\. Lissie\) \- Deadmau5 Remix Edit](https://open.spotify.com/track/0cP5GxZrtKCRQu7cbOqsBe) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [The Longest Road](https://open.spotify.com/album/3gAWkt3YKBDuaGWZdV46bt) | 3:59 |
 | 90 | [Heartbroken \- Edit](https://open.spotify.com/track/3dhzZ068rKh2fRB2uitX18) | [T2](https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd) | [Heartbroken](https://open.spotify.com/album/64swz2DD6MbqPA2hXTvdru) | 2:58 |
 | 91 | [Believer \(feat\. Wynter Gordon\) \- Radio Edit](https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7) | [Freemasons](https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR), [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [Believer \(feat\. Wynter Gordon\) \[Club Mixes\]](https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR) | 3:09 |
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 105 | [Destination Calabria \- Radio Edit](https://open.spotify.com/track/4IES3nsUkICyjj3sfznczq) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Destination Calabria](https://open.spotify.com/album/4XtnIwvXWrgmrvZNxUEOE1) | 3:00 |
 | 106 | [Gone \- Radio Edit](https://open.spotify.com/track/7okxXBe93gMNiXqOd6cCdU) | [Lasgo](https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp) | [Gone](https://open.spotify.com/album/2mRezrqtiSjOdo902xAzyJ) | 3:00 |
 | 107 | [Rocker](https://open.spotify.com/track/0TqVsIuKYQTNsh1pmAF6Kn) | [Alter Ego](https://open.spotify.com/artist/1bnxrGpNXaVSzgbwEFL0qj) | [Best of Alter Ego](https://open.spotify.com/album/3f5NedtW0S20UEB4Kl34TM) | 4:48 |
-| 108 | [A Tear In The Open](https://open.spotify.com/track/2ECwcDngvqCBpLuQNyOZop) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Just Be](https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA) | 9:22 |
+| 108 | [Sweet Misery](https://open.spotify.com/track/5O71Sv4uv46dV9stV8Cujv) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Just Be](https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA) | 7:33 |
 | 109 | [The Big Fake](https://open.spotify.com/track/1o6xUqNNTV2bsWcNoV7zTQ) | [Traffic Signs](https://open.spotify.com/artist/2r0cOBq375zqYS7yu0vg92) | [presents Traffic Signs](https://open.spotify.com/album/6imAcRHAFRTMRKa7qlQ0q9) | 6:24 |
 | 110 | [Deep Inside](https://open.spotify.com/track/5VQgTkvBQYwdp70bwIdw0s) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Deep Inside \(2009 Mixes\)](https://open.spotify.com/album/7I6sfxjett2TI6lJF75gJI) | 6:32 |
 | 111 | [Swoon](https://open.spotify.com/track/1xrr9bAS0zfjCXdLKpLJnA) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Further](https://open.spotify.com/album/5EOAvD6xmE1g9XV49wFzNG) | 6:05 |

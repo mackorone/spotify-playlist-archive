@@ -2,7 +2,7 @@
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: Mimifly
+> The best tracks from the world of music\. Cover: Hael Husaini, Nadeera
 
 295 songs - 16 hr 38 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: DEW",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: island...they are the glory of Taiwan! Cover: MindBodySoul (\u5fc3\u982d\u8089)",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -838,7 +838,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 236799,
       "name": "CakeCake (feat.Plini)",
       "url": "https://open.spotify.com/track/6IHnshJXIOwUofPhKr7Icl"
@@ -1308,7 +1308,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 211346,
       "name": "Don't Call Me",
       "url": "https://open.spotify.com/track/0gNV8GLMBOZohkuz3ZPoX8"
@@ -1540,6 +1540,32 @@
       "duration_ms": 242226,
       "name": "EYE(S)",
       "url": "https://open.spotify.com/track/7cwPW0K5O41TJ2BABBrtKG"
+    },
+    {
+      "album": {
+        "name": "eyes off u.",
+        "url": "https://open.spotify.com/album/1SRNucLep8uyNsQXnIOceh"
+      },
+      "artists": [
+        {
+          "name": "will hyde",
+          "url": "https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn"
+        },
+        {
+          "name": "dress",
+          "url": "https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z"
+        },
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178955,
+      "name": "eyes off u.",
+      "url": "https://open.spotify.com/track/0hRXZJO5rCxvWfcUXHPTmN"
     },
     {
       "album": {
@@ -3552,7 +3578,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 201202,
       "name": "NEW YORKER 3328",
       "url": "https://open.spotify.com/track/24HdA69ha5qzajGrO8BSdr"
@@ -4171,6 +4197,24 @@
     },
     {
       "album": {
+        "name": "Baddie City",
+        "url": "https://open.spotify.com/album/5cpxifKgfsNcKOpOkJIJ1n"
+      },
+      "artists": [
+        {
+          "name": "BAER",
+          "url": "https://open.spotify.com/artist/2zYNTwc8lCUzPueFdmh8ta"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Pink Diamond",
+      "url": "https://open.spotify.com/track/68zzrBYFcsm3psVEaKn5Lj"
+    },
+    {
+      "album": {
         "name": "Pink Lamborghini",
         "url": "https://open.spotify.com/album/0dRH1ks7puz9YEABo86j0c"
       },
@@ -4186,6 +4230,24 @@
       "duration_ms": 137468,
       "name": "Pink Lamborghini",
       "url": "https://open.spotify.com/track/5nSu2pNBi44MIGTs6h7S78"
+    },
+    {
+      "album": {
+        "name": "Pilot",
+        "url": "https://open.spotify.com/album/7mcF805eSGYDKe1Qp34nkA"
+      },
+      "artists": [
+        {
+          "name": "\u5fc3\u982d\u8089",
+          "url": "https://open.spotify.com/artist/28SZqcuYWGmsm3jsVR4u9M"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230384,
+      "name": "Post Punk",
+      "url": "https://open.spotify.com/track/0puyGlCHyrETtAdViXn0UO"
     },
     {
       "album": {
@@ -5070,7 +5132,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 154285,
       "name": "Supergirl Power",
       "url": "https://open.spotify.com/track/0pe37kW7TlzeZP17OEsDmK"
@@ -5746,6 +5808,28 @@
       "duration_ms": 152571,
       "name": "Voltage",
       "url": "https://open.spotify.com/track/43ZhDs4iPKl44bfiPwQDLc"
+    },
+    {
+      "album": {
+        "name": "Watch Your Back",
+        "url": "https://open.spotify.com/album/5qVfDqRIwW7gSvG8wk16OH"
+      },
+      "artists": [
+        {
+          "name": "Toxic Wraith",
+          "url": "https://open.spotify.com/artist/7IzlaNBh2EWdsR6xIOp9Bb"
+        },
+        {
+          "name": "Rizox",
+          "url": "https://open.spotify.com/artist/37SbUm21d9h9AkDVAj3BD3"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144843,
+      "name": "Watch Your Back",
+      "url": "https://open.spotify.com/track/1TWFLAtCNo2oRMIgDi4n2u"
     },
     {
       "album": {
@@ -6847,6 +6931,24 @@
     },
     {
       "album": {
+        "name": "\u695a\u9580 Dream Sober",
+        "url": "https://open.spotify.com/album/7vxlr1fQ9xfkx5tkVuquNo"
+      },
+      "artists": [
+        {
+          "name": "Eileen Yo\u6e38\u5b87\u6f7c",
+          "url": "https://open.spotify.com/artist/4L2NMVuHynGLY9FXlQbogX"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196860,
+      "name": "\u611b\u4e0d\u5b9c\u9072 Not Too Late",
+      "url": "https://open.spotify.com/track/6XuUa1kXTmQ68DBCi8j9OB"
+    },
+    {
+      "album": {
         "name": "Amazing Show\u540c\u540d\u5c08\u8f2f",
         "url": "https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau"
       },
@@ -7504,7 +7606,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 258583,
       "name": "\u767e\u842c\u904d",
       "url": "https://open.spotify.com/track/462EupYYvcbUpCyzc3uf6y"

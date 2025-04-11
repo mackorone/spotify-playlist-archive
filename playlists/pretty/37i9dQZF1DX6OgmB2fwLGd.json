@@ -1,18 +1,34 @@
 {
   "description": "born on the internet. ft. 2hollis",
-  "num_followers": 1377368,
+  "num_followers": 1377369,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/P1vwAAAADPChuwmgfLRzbcYtoiIap8",
+  "snapshot_id": "Z/gwmQAAAADnWEGc2NTN8RLSMFE1pSZ8",
   "tracks": [
     {
-      "added_at": "2025-02-28 05:00:43",
+      "added_at": "2025-04-10 20:56:57",
       "album": {
-        "name": "style",
-        "url": "https://open.spotify.com/album/0TsOGVBOr7qFFZvtDO21bP"
+        "name": "IKNOWYOU",
+        "url": "https://open.spotify.com/album/0f7kExijTUiTROQcQbfu1K"
+      },
+      "artists": [
+        {
+          "name": "Voda Fuji",
+          "url": "https://open.spotify.com/artist/5jEpeMsWMRhprOFhAkIWIO"
+        }
+      ],
+      "duration_ms": 105405,
+      "name": "IKNOWYOU",
+      "url": "https://open.spotify.com/track/1eYhBtnXSdQLuqd2179SEY"
+    },
+    {
+      "added_at": "2025-04-10 20:56:57",
+      "album": {
+        "name": "star",
+        "url": "https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7"
       },
       "artists": [
         {
@@ -20,109 +36,9 @@
           "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
         }
       ],
-      "duration_ms": 99253,
-      "name": "style",
-      "url": "https://open.spotify.com/track/3jrY4AAWTvZfmwGs3E7QcN"
-    },
-    {
-      "added_at": "2025-03-27 23:57:55",
-      "album": {
-        "name": "southbound / test drive",
-        "url": "https://open.spotify.com/album/4Uh9XOh5hmX0Cw7JREc0AU"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 137923,
-      "name": "southbound",
-      "url": "https://open.spotify.com/track/4jiwz2tQZo21Z4NQwz4zUt"
-    },
-    {
-      "added_at": "2025-03-27 23:57:55",
-      "album": {
-        "name": "Impact (with xaviersobased)",
-        "url": "https://open.spotify.com/album/6arkOvLfIMLsXr5dEE1Idr"
-      },
-      "artists": [
-        {
-          "name": "Nettspend",
-          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
-        },
-        {
-          "name": "xaviersobased",
-          "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
-        }
-      ],
-      "duration_ms": 115764,
-      "name": "Impact (with xaviersobased)",
-      "url": "https://open.spotify.com/track/2xTk9wtJ6mWf7YV6ppmdCK"
-    },
-    {
-      "added_at": "2025-03-13 04:44:23",
-      "album": {
-        "name": "father",
-        "url": "https://open.spotify.com/album/3fjGRYQv5YtTTyqviMYN3v"
-      },
-      "artists": [
-        {
-          "name": "Jim Legxacy",
-          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
-        }
-      ],
-      "duration_ms": 105977,
-      "name": "father",
-      "url": "https://open.spotify.com/track/0PQ33KiYJD1XPsP6oA1GYn"
-    },
-    {
-      "added_at": "2025-02-28 05:00:43",
-      "album": {
-        "name": "Easter Pink",
-        "url": "https://open.spotify.com/album/2gN2buJiTuKIl8LjWNP9Z5"
-      },
-      "artists": [
-        {
-          "name": "fakemink",
-          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
-        }
-      ],
-      "duration_ms": 84846,
-      "name": "Easter Pink",
-      "url": "https://open.spotify.com/track/4mwswlM0HATHu9SabiiXiY"
-    },
-    {
-      "added_at": "2025-03-27 23:57:55",
-      "album": {
-        "name": "my bad bro",
-        "url": "https://open.spotify.com/album/4v5Qe0knp4UtrNsB3PMfWm"
-      },
-      "artists": [
-        {
-          "name": "Fimiguerrero",
-          "url": "https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du"
-        }
-      ],
-      "duration_ms": 74789,
-      "name": "my bad bro",
-      "url": "https://open.spotify.com/track/4jpDSTxE9Z890BiWh5KpIy"
-    },
-    {
-      "added_at": "2025-02-28 05:00:43",
-      "album": {
-        "name": "ALL IN MOTION",
-        "url": "https://open.spotify.com/album/1UwtlXn6NSciTtyuSNDOj9"
-      },
-      "artists": [
-        {
-          "name": "Yung Fazo",
-          "url": "https://open.spotify.com/artist/2UuVqmRzuGdHQB7BKACEW4"
-        }
-      ],
-      "duration_ms": 119186,
-      "name": "ALL IN MOTION",
-      "url": "https://open.spotify.com/track/5wIOSozaIoSKwzmeIBsmfF"
+      "duration_ms": 78400,
+      "name": "sidekick",
+      "url": "https://open.spotify.com/track/6hxowqRsDm1fsm00y2eHJP"
     },
     {
       "added_at": "2025-03-13 04:44:23",
@@ -151,6 +67,110 @@
     {
       "added_at": "2025-03-13 04:44:23",
       "album": {
+        "name": "father",
+        "url": "https://open.spotify.com/album/3fjGRYQv5YtTTyqviMYN3v"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "duration_ms": 105977,
+      "name": "father",
+      "url": "https://open.spotify.com/track/0PQ33KiYJD1XPsP6oA1GYn"
+    },
+    {
+      "added_at": "2025-04-10 20:56:57",
+      "album": {
+        "name": "Sexual Fantasies",
+        "url": "https://open.spotify.com/album/31ecvVLeOr9OAPsC4R6sAP"
+      },
+      "artists": [
+        {
+          "name": "maxon",
+          "url": "https://open.spotify.com/artist/2Ltzex0JQrDiei63A1N4iP"
+        },
+        {
+          "name": "Percaso",
+          "url": "https://open.spotify.com/artist/2JvthjqF5MR4dvjzeVTSyE"
+        }
+      ],
+      "duration_ms": 138805,
+      "name": "Sexual Fantasies",
+      "url": "https://open.spotify.com/track/6gQiWTYr8RmHzMskzB9g6Z"
+    },
+    {
+      "added_at": "2025-03-27 23:57:55",
+      "album": {
+        "name": "my bad bro",
+        "url": "https://open.spotify.com/album/4v5Qe0knp4UtrNsB3PMfWm"
+      },
+      "artists": [
+        {
+          "name": "Fimiguerrero",
+          "url": "https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du"
+        }
+      ],
+      "duration_ms": 74789,
+      "name": "my bad bro",
+      "url": "https://open.spotify.com/track/4jpDSTxE9Z890BiWh5KpIy"
+    },
+    {
+      "added_at": "2025-02-28 05:00:43",
+      "album": {
+        "name": "Easter Pink",
+        "url": "https://open.spotify.com/album/2gN2buJiTuKIl8LjWNP9Z5"
+      },
+      "artists": [
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        }
+      ],
+      "duration_ms": 84846,
+      "name": "Easter Pink",
+      "url": "https://open.spotify.com/track/4mwswlM0HATHu9SabiiXiY"
+    },
+    {
+      "added_at": "2025-04-10 20:49:54",
+      "album": {
+        "name": "Shooters",
+        "url": "https://open.spotify.com/album/0s99oXIdaa5ESVruCMOiKE"
+      },
+      "artists": [
+        {
+          "name": "sixzino",
+          "url": "https://open.spotify.com/artist/06GZtauzFoknI20BCjZFEx"
+        },
+        {
+          "name": "Feng",
+          "url": "https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh"
+        }
+      ],
+      "duration_ms": 137217,
+      "name": "Shooters",
+      "url": "https://open.spotify.com/track/4oUuvWTd8DEqIClbUorP8C"
+    },
+    {
+      "added_at": "2025-02-28 05:00:43",
+      "album": {
+        "name": "ALL IN MOTION",
+        "url": "https://open.spotify.com/album/1UwtlXn6NSciTtyuSNDOj9"
+      },
+      "artists": [
+        {
+          "name": "Yung Fazo",
+          "url": "https://open.spotify.com/artist/2UuVqmRzuGdHQB7BKACEW4"
+        }
+      ],
+      "duration_ms": 119186,
+      "name": "ALL IN MOTION",
+      "url": "https://open.spotify.com/track/5wIOSozaIoSKwzmeIBsmfF"
+    },
+    {
+      "added_at": "2025-03-13 04:44:23",
+      "album": {
         "name": "Designer",
         "url": "https://open.spotify.com/album/5MZq4gUcsV0UEgcMqDNUwb"
       },
@@ -163,6 +183,42 @@
       "duration_ms": 82048,
       "name": "Designer",
       "url": "https://open.spotify.com/track/4ldz2D3Q49bk9ASmANImDZ"
+    },
+    {
+      "added_at": "2025-04-10 20:56:57",
+      "album": {
+        "name": "Bally",
+        "url": "https://open.spotify.com/album/44rGZNC2G8NG2fK6a36o8B"
+      },
+      "artists": [
+        {
+          "name": "Rico Ace",
+          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
+        },
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "duration_ms": 125240,
+      "name": "Bally",
+      "url": "https://open.spotify.com/track/7H90WucIF921NR5leLriX7"
+    },
+    {
+      "added_at": "2025-02-28 05:00:43",
+      "album": {
+        "name": "style",
+        "url": "https://open.spotify.com/album/0TsOGVBOr7qFFZvtDO21bP"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "duration_ms": 99253,
+      "name": "style",
+      "url": "https://open.spotify.com/track/3jrY4AAWTvZfmwGs3E7QcN"
     },
     {
       "added_at": "2025-02-28 05:00:43",
@@ -197,6 +253,22 @@
       "url": "https://open.spotify.com/track/3qgbmtmVEcIV6VYCbgj1cu"
     },
     {
+      "added_at": "2025-04-10 20:56:57",
+      "album": {
+        "name": "NEW TO ME",
+        "url": "https://open.spotify.com/album/2m7Yc5P2Hx6ocHVvb1I14u"
+      },
+      "artists": [
+        {
+          "name": "Slew",
+          "url": "https://open.spotify.com/artist/0kkFzERMQHK5WcWnACLby3"
+        }
+      ],
+      "duration_ms": 122107,
+      "name": "NEW TO ME",
+      "url": "https://open.spotify.com/track/2cBXDeiRLJfXDGrIbfxwot"
+    },
+    {
       "added_at": "2025-02-28 05:00:43",
       "album": {
         "name": "THE PEAK",
@@ -227,6 +299,22 @@
       "duration_ms": 161684,
       "name": "Anora",
       "url": "https://open.spotify.com/track/6aatZDd10jSN8blwLBURlE"
+    },
+    {
+      "added_at": "2025-03-27 23:57:55",
+      "album": {
+        "name": "southbound / test drive",
+        "url": "https://open.spotify.com/album/4Uh9XOh5hmX0Cw7JREc0AU"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 137923,
+      "name": "southbound",
+      "url": "https://open.spotify.com/track/4jiwz2tQZo21Z4NQwz4zUt"
     },
     {
       "added_at": "2025-02-28 05:00:43",
@@ -275,6 +363,26 @@
       "duration_ms": 124864,
       "name": "tell you straight",
       "url": "https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX"
+    },
+    {
+      "added_at": "2025-03-27 23:57:55",
+      "album": {
+        "name": "Impact (with xaviersobased)",
+        "url": "https://open.spotify.com/album/6arkOvLfIMLsXr5dEE1Idr"
+      },
+      "artists": [
+        {
+          "name": "Nettspend",
+          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+        },
+        {
+          "name": "xaviersobased",
+          "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
+        }
+      ],
+      "duration_ms": 115764,
+      "name": "Impact (with xaviersobased)",
+      "url": "https://open.spotify.com/track/2xTk9wtJ6mWf7YV6ppmdCK"
     },
     {
       "added_at": "2025-03-27 23:57:55",

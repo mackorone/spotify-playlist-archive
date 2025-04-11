@@ -3638,7 +3638,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-31",
+      "date_removed": null,
       "duration_ms": 284400,
       "name": "Disparate Youth",
       "url": "https://open.spotify.com/track/6h7IpnPY2C269Gmkz1f9E9"
@@ -3656,7 +3656,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 284400,
       "name": "Disparate Youth",
       "url": "https://open.spotify.com/track/7d23MhPFE9eB3U8DPRirnL"
@@ -4634,7 +4634,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 191093,
       "name": "ESCAPE (Bang Chan & Hyunjin)",
       "url": "https://open.spotify.com/track/3azJdRk8qSuApz5irmde3R"
@@ -10314,7 +10314,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 95302,
       "name": "MONTAGEM TOMADA - Super Slowed",
       "url": "https://open.spotify.com/track/4CsIS26ndsxIzM8X8VEaXd"
@@ -13088,7 +13088,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-06",
+      "date_removed": null,
       "duration_ms": 118500,
       "name": "sadisfaction",
       "url": "https://open.spotify.com/track/56gZxUfJbUeKtr2qs3lOiL"
@@ -17816,7 +17816,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-08",
+      "date_removed": null,
       "duration_ms": 228013,
       "name": "\u0411\u0430\u043b\u0430\u043b\u0430\u0439\u043a\u0430",
       "url": "https://open.spotify.com/track/45TKI2XRzKzwBZDoGXBblB"
@@ -26534,7 +26534,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 174720,
       "name": "\u0422\u0430\u043c\u043f\u043e\u043d\u044b!",
       "url": "https://open.spotify.com/track/23xQQbtWnTv2q5RIzWFtFg"
@@ -26716,6 +26716,36 @@
       "duration_ms": 136888,
       "name": "\u0442\u043e\u043b\u0441\u0442\u043e\u0432\u043a\u0430",
       "url": "https://open.spotify.com/track/50MBcXfnr3aZ2JT5PidJWT"
+    },
+    {
+      "album": {
+        "name": "\u0428\u043b\u044f\u043f\u0430",
+        "url": "https://open.spotify.com/album/2la1UXoV6WQU9KcwqYb8tw"
+      },
+      "artists": [
+        {
+          "name": "\u0427\u0451\u0440\u043d\u0430\u044f \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0430",
+          "url": "https://open.spotify.com/artist/41gUA2tivbVblT8PVNEjBE"
+        },
+        {
+          "name": "Pasha Technique",
+          "url": "https://open.spotify.com/artist/0xbf4eZw8nrLPsPaQ1D59d"
+        },
+        {
+          "name": "\u0414\u0436\u044d\u0434",
+          "url": "https://open.spotify.com/artist/5TQrYoqzDxLh81pTVnbPPo"
+        },
+        {
+          "name": "\u0422\u0440\u0443\u043c\u0430\u043d",
+          "url": "https://open.spotify.com/artist/3hZEbgDfI7un14u898YvHO"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196806,
+      "name": "\u0422\u043e\u043f \u0434\u0435\u0432\u043e\u0447\u043a\u0438",
+      "url": "https://open.spotify.com/track/4qD6DfHEdEhcVhcNIoNZOd"
     },
     {
       "album": {

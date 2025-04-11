@@ -1,12 +1,12 @@
 {
   "description": "This is Arsenal Efectivo. The essential tracks, all in one playlist.",
-  "num_followers": 12318,
+  "num_followers": 12319,
   "original_name": "This Is Arsenal Efectivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/RnAAAAAAAwSnSr0lh0Qw49bo+kH1nE",
+  "snapshot_id": "Z/W4gAAAAAD8X2u+BBSrSLu3LKPOVe7X",
   "tracks": [
     {
       "added_at": null,
@@ -423,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BELLAGIO (En Vivo)",
+        "url": "https://open.spotify.com/album/1xHAZAsmU6kT8P3SO49MLZ"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 158066,
+      "name": "BELLAGIO",
+      "url": "https://open.spotify.com/track/3raY7hL7cPzLYOefqW4ubH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Peligro",
         "url": "https://open.spotify.com/album/1YcIp5ySMbCZJZAtBPuBAh"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 174155,
       "name": "Platicame De Ti - En Vivo",
       "url": "https://open.spotify.com/track/0aGVO0Nv3xoqkhVJIK6Izr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BELLAGIO (En Vivo)",
-        "url": "https://open.spotify.com/album/1xHAZAsmU6kT8P3SO49MLZ"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 158066,
-      "name": "BELLAGIO",
-      "url": "https://open.spotify.com/track/3raY7hL7cPzLYOefqW4ubH"
     }
   ],
   "unique_name": "This Is Arsenal Efectivo",

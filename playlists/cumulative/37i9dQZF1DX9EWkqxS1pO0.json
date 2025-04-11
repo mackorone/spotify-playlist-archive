@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: Sel\u00fbt",
+  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: Duru And",
   "name": "Ke\u015fif",
   "tracks": [
     {
@@ -2525,6 +2525,28 @@
     },
     {
       "album": {
+        "name": "Senle Sensiz",
+        "url": "https://open.spotify.com/album/06nOfWZhWAOz7kgA8gBgAm"
+      },
+      "artists": [
+        {
+          "name": "Duru And",
+          "url": "https://open.spotify.com/artist/79h9QbZLQ5w3lgDxDOanyQ"
+        },
+        {
+          "name": "Eda And",
+          "url": "https://open.spotify.com/artist/2UDKz9B8LKuzFYLmWumLIw"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197962,
+      "name": "Senle Sensiz",
+      "url": "https://open.spotify.com/track/3yte11mbcfkakdVNkJuCtt"
+    },
+    {
+      "album": {
         "name": "Sesim Kulakl\u0131klar\u0131nda",
         "url": "https://open.spotify.com/album/4pkJ2OaDoyocWq68fnQ8up"
       },
@@ -2716,7 +2738,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 234887,
       "name": "Sorma",
       "url": "https://open.spotify.com/track/1t5QrgICG308reHk4Ohm7N"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A mix of the best modern Deathcore tracks\. Cover: CABAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,120 likes - 150 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,247 likes - 150 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 101 | [Barren and Breathless Macrocosm](https://open.spotify.com/track/3FlPw9Js3uGZQ0eNqWKtS3) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [Barren and Breathless Macrocosm](https://open.spotify.com/album/5yOlm4DL4IfxA1EJotKHZz) | 4:56 |
 | 102 | [Wounds Never Healed](https://open.spotify.com/track/05xztNser5Tg4Ba2kkngy2) | [Oceano](https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s) | [Wounds Never Healed](https://open.spotify.com/album/7jlhQ4iWfpSwF4zho7eTo4) | 4:22 |
 | 103 | [In the Night](https://open.spotify.com/track/4VxKFbwSOqYYU93ndl1Ap7) | [Phinehas](https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0) | [In the Night](https://open.spotify.com/album/5Afz9UTx4crqKUBsAdy4B7) | 4:43 |
-| 104 | [Coffin of Pain](https://open.spotify.com/track/447Njnc42ii3OpAcVVzw60) | [Distinguisher](https://open.spotify.com/artist/2SAUkgFRLdVSLxMzT85HSc) | [Under the Weight of Things I Couldn't Change](https://open.spotify.com/album/6WG2fAFFnRFlsEbJYVgkRU) | 3:36 |
-| 105 | [What I Would Give](https://open.spotify.com/track/0vt56Wbd2hcCYvtXoDyEg1) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Dusk](https://open.spotify.com/album/1jEj7ctr3pPvcVW6mFkt3i) | 4:10 |
+| 104 | [What I Would Give](https://open.spotify.com/track/0vt56Wbd2hcCYvtXoDyEg1) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Dusk](https://open.spotify.com/album/1jEj7ctr3pPvcVW6mFkt3i) | 4:10 |
+| 105 | [Coffin of Pain](https://open.spotify.com/track/447Njnc42ii3OpAcVVzw60) | [Distinguisher](https://open.spotify.com/artist/2SAUkgFRLdVSLxMzT85HSc) | [Under the Weight of Things I Couldn't Change](https://open.spotify.com/album/6WG2fAFFnRFlsEbJYVgkRU) | 3:36 |
 | 106 | [Mindless Omnipotent Master](https://open.spotify.com/track/69RKttZp5ubhotQ2ZmoqkQ) | [Fallujah](https://open.spotify.com/artist/3C5R32AIZlLfMa3uxLEYrU) | [Empyrean](https://open.spotify.com/album/5vBUDHMCdEqNJglh1OKwMb) | 4:38 |
 | 107 | [Forsaken Soul](https://open.spotify.com/track/3CukSTqDXEbkf6TNpyvPkO) | [Ov Ruin](https://open.spotify.com/artist/6gdIQiCwQ0KlZTyE2Ldlgm) | [Forsaken Soul](https://open.spotify.com/album/68fVWXiPPEZiqEbIoNVd6Z) | 4:48 |
 | 108 | [Befouler \(feat\. Alex Terrible\)](https://open.spotify.com/track/0Lr0MHPtvyM6pGlfGX6ch5) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC), [Alex Terrible](https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO) | [Befouler \(feat\. Alex Terrible\)](https://open.spotify.com/album/20zVLJm0y5D6pzmkxUpjBD) | 3:43 |

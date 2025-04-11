@@ -2225,6 +2225,24 @@
     },
     {
       "album": {
+        "name": "Desde hoy",
+        "url": "https://open.spotify.com/album/2ED1uEhcMli8IEySd6Bs1h"
+      },
+      "artists": [
+        {
+          "name": "Valentina Marquez",
+          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179413,
+      "name": "Desde hoy",
+      "url": "https://open.spotify.com/track/1Otr8Ec3EIEsBgMUc8CCJw"
+    },
+    {
+      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/5HO5L05iZ6IpeBA1pI3Q8G"
       },

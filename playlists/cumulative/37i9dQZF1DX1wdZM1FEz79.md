@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 서자영\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 박창근\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-564 songs - 1 day 9 hr 25 min
+565 songs - 1 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Cloud](https://open.spotify.com/track/2C8ISWwVLF8t2b55GJrikc) | [Goopy](https://open.spotify.com/artist/4F4XWiGTifyL39JD8qrslm) | [Cloud](https://open.spotify.com/album/2sBqBMbztnyHxhDHI8JbCP) | 2:47 | 2022-03-31 | 2022-04-21 |
 | [Clover](https://open.spotify.com/track/6KboAbHVBi95z5UAkeaJV6) | [Won Tae Rim](https://open.spotify.com/artist/4d6JLYUpsguDgSmUSmbi50) | [Clover](https://open.spotify.com/album/7F0h3aAEjQdQIZrLO4Lz95) | 3:46 | 2023-10-27 | 2023-11-04 |
 | [Coffee Song \- Korean Version](https://open.spotify.com/track/0aWNMpUMgsy6erqUlft9Pw) | [임백천](https://open.spotify.com/artist/6LqtnFuXA9qt2dVmxHckoa) | [New Way](https://open.spotify.com/album/3v5zdvdUOz1sRYxN2fYSPL) | 2:52 | 2022-03-31 | 2022-04-21 |
+| [Color of the day](https://open.spotify.com/track/1fljCSLlJYcFubv7LMNQRM) | [BAK CHANG GEUN](https://open.spotify.com/artist/4Gan2DEelDmjPv6jMaSYG9) | [Poems 25](https://open.spotify.com/album/33nIFtG0RQDBdXjsQ9X73G) | 3:30 | 2025-04-10 |  |
 | [come as you are](https://open.spotify.com/track/6YAkb5lCO5mFePA6hvb4Qb) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:28 | 2021-12-10 | 2022-07-25 |
 | [Come back to me](https://open.spotify.com/track/2RNut2tMgGnggdKCxzLLNM) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Come back to me](https://open.spotify.com/album/01TpqEJQDjap26yL6FhByW) | 6:28 | 2024-05-10 | 2024-08-31 |
 | [Come With Me](https://open.spotify.com/track/61TR2Po5oS5cd5G0EUZ15n) | [INTHEPACK](https://open.spotify.com/artist/2jJa2tYxYmNtGYlxOqI0Il) | [Come With Me](https://open.spotify.com/album/5YV0DJWurTmtcKASwb6WH2) | 3:31 | 2022-03-31 | 2022-04-19 |
@@ -296,7 +297,7 @@
 | [My \(Prod\. Norwegian Wood\)](https://open.spotify.com/track/6qIXTn914YMxHWvHNm14Nh) | [Baek Sun](https://open.spotify.com/artist/3OyQSzRpBjTj8LIkbkjU8O) | [My](https://open.spotify.com/album/6lxViYPgD2UjJ1nhgXz9kw) | 2:46 | 2023-01-25 | 2023-02-25 |
 | [My Best, My Love 고생많았어](https://open.spotify.com/track/0IqHoofEMMDF8PNGa4cBXZ) | [Yoo Yong Min](https://open.spotify.com/artist/7kDZYNuHj9RBMCJzIrxrme) | [HIDDEN TRACK NO.V Vol.1](https://open.spotify.com/album/06p1MyiQ9pmdEFOTlglNBA) | 4:09 | 2022-03-31 | 2022-04-20 |
 | [My darling](https://open.spotify.com/track/6dN3zl2CPLQtyZpRcLemy5) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [My darling](https://open.spotify.com/album/2SwPIGMwdkzE4DkCmcNfFr) | 3:20 | 2022-01-13 | 2022-04-14 |
-| [My Day](https://open.spotify.com/track/6tRGDcL8puwtHHPhac0uoq) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Navillera \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/4G8Gt7AamVOeGVo9Tq031e) | 3:06 | 2021-12-10 |  |
+| [My Day](https://open.spotify.com/track/6tRGDcL8puwtHHPhac0uoq) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Navillera \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/4G8Gt7AamVOeGVo9Tq031e) | 3:06 | 2021-12-10 | 2025-04-11 |
 | [My Day \(Acoustic Ver.\)](https://open.spotify.com/track/3U5ex6nJznAHjxjQoMOe1j) | [J.UNA](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [YUMI's Cells 2, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/7iCgUlIHBbHCPWM08m3yYJ) | 4:12 | 2022-07-04 | 2022-09-26 |
 | [My Dear](https://open.spotify.com/track/2wlBxUpVGnp1M7ZDLXaeB5) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 2:20 | 2024-05-09 |  |
 | [My Dearest](https://open.spotify.com/track/5wypJbC2SO46N03RaEhy3w) | [DRAWMODE](https://open.spotify.com/artist/5GyIzYxwroBU1oR2y7cdDB) | [My Dearest](https://open.spotify.com/album/7vmIcDy2nEGulK63hHo3HY) | 3:21 | 2023-01-19 | 2023-02-07 |

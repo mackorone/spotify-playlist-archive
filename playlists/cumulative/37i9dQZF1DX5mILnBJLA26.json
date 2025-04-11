@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro?si=JaMJMnHxQFGNqViR96SyXA\">Zee Nxumalo</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp?si=trsZdUWrRp6Zm09rLQp7Zg\">Shakes & Les</a>",
   "name": "AMAPIANO GROOVES",
   "tracks": [
     {
@@ -11186,6 +11186,36 @@
       "duration_ms": 480016,
       "name": "Hamba Juba",
       "url": "https://open.spotify.com/track/4k5FlWz3dfhyQzmRpVPZsW"
+    },
+    {
+      "album": {
+        "name": "HAMBA NABO",
+        "url": "https://open.spotify.com/album/3cFZq3G1sTPWhCALrnrmBw"
+      },
+      "artists": [
+        {
+          "name": "Shakes & Les",
+          "url": "https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp"
+        },
+        {
+          "name": "Fake'Well",
+          "url": "https://open.spotify.com/artist/3gBzDuP9GAtHXqgeBNMoZT"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "Uncool MC",
+          "url": "https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455653,
+      "name": "HAMBA NABO",
+      "url": "https://open.spotify.com/track/1wm7ucvnVPlsM6LkY46jsS"
     },
     {
       "album": {
@@ -24680,7 +24710,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 352081,
       "name": "Pabi Jo (feat. Lajere man & DJ DADAMAN)",
       "url": "https://open.spotify.com/track/0UCv4K0MMGf7OLKAcKYFwR"
@@ -25618,7 +25648,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 450425,
       "name": "Pure Bliss",
       "url": "https://open.spotify.com/track/405R1UpWRgHMjjvtk5CFNe"
@@ -26369,7 +26399,7 @@
         },
         {
           "name": "Noxx",
-          "url": "https://open.spotify.com/artist/4Fgkjsar2n0pSjuPjmkaXx"
+          "url": "https://open.spotify.com/artist/4uGWHxNIt5O2J89nXNHksz"
         },
         {
           "name": "Tyler ICU",

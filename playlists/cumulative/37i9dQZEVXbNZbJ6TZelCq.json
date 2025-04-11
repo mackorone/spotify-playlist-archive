@@ -226,7 +226,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-08",
+      "date_removed": null,
       "duration_ms": 213135,
       "name": "112 Arabii",
       "url": "https://open.spotify.com/track/6ryYkPaIuqPcnlWwJrdMBN"
@@ -1245,6 +1245,24 @@
     },
     {
       "album": {
+        "name": "Afacere",
+        "url": "https://open.spotify.com/album/6nH1LSD2E4k6O1eeDNSaFJ"
+      },
+      "artists": [
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147773,
+      "name": "Afacere",
+      "url": "https://open.spotify.com/track/7L3E8FxVZwNWdWTg6VThqu"
+    },
+    {
+      "album": {
         "name": "La S\u0103v\u00e2r\u015fitu' lumii / Colinde 2",
         "url": "https://open.spotify.com/album/0krzbu9hmK2jIPnfR3t9x4"
       },
@@ -1274,7 +1292,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-21",
+      "date_removed": null,
       "duration_ms": 145714,
       "name": "Africa",
       "url": "https://open.spotify.com/track/0MrBR6EVORoHjexRl6OJRP"
@@ -2128,7 +2146,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-08",
+      "date_removed": null,
       "duration_ms": 158095,
       "name": "Amore",
       "url": "https://open.spotify.com/track/78Qu2ibWMLEx4M7hlESf3w"
@@ -2680,7 +2698,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-10",
+      "date_removed": null,
       "duration_ms": 144927,
       "name": "Artileria",
       "url": "https://open.spotify.com/track/2MKVPm45yAdNEC6R3szoJu"
@@ -6589,6 +6607,24 @@
     },
     {
       "album": {
+        "name": "Cel mai fericit de pe p\u01cem\u00e2nt",
+        "url": "https://open.spotify.com/album/43nr0Uq55xpAKnKceuwocs"
+      },
+      "artists": [
+        {
+          "name": "rares",
+          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Cel mai fericit de pe p\u01cem\u00e2nt",
+      "url": "https://open.spotify.com/track/7cq7xzEWmWWXy2okyYcZmX"
+    },
+    {
+      "album": {
         "name": "Cel Mai Trist Refren",
         "url": "https://open.spotify.com/album/3Pt6bUFVPqBf5R9OtcPQOg"
       },
@@ -7248,7 +7284,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 169697,
       "name": "Ciocolata",
       "url": "https://open.spotify.com/track/1CbI1EWcf3KFg4QJsKa3aT"
@@ -8814,7 +8850,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 136991,
       "name": "Dark Thoughts",
       "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
@@ -10728,6 +10764,28 @@
       "duration_ms": 208487,
       "name": "Drugs You Should Try It",
       "url": "https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r"
+    },
+    {
+      "album": {
+        "name": "En Sabah Nur 2",
+        "url": "https://open.spotify.com/album/1EIzCiKmWVOEXWppexw9BS"
+      },
+      "artists": [
+        {
+          "name": "Bvcovia",
+          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
+        },
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165294,
+      "name": "Drumuri diferite",
+      "url": "https://open.spotify.com/track/0mrLvpQdHk64u4E6TrGtQ2"
     },
     {
       "album": {
@@ -16048,7 +16106,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 111307,
       "name": "HONEY",
       "url": "https://open.spotify.com/track/0Pm9kcvU60oxwVndjcnQ1f"
@@ -24680,7 +24738,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 187613,
       "name": "No Pole",
       "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
@@ -27090,7 +27148,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 134930,
       "name": "PELIGROSA",
       "url": "https://open.spotify.com/track/42wdz3j7gstgUuhoFLCXqd"
@@ -33186,7 +33244,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 173437,
       "name": "Sper Ca Esti Bine",
       "url": "https://open.spotify.com/track/0vgn8QtF7e4ljh7kzLhKmt"
@@ -39078,7 +39136,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 151363,
       "name": "Vocea ta",
       "url": "https://open.spotify.com/track/68E03oskzRz2OUhsiSwOq5"

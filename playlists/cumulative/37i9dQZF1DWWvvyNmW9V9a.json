@@ -21005,6 +21005,24 @@
     },
     {
       "album": {
+        "name": "MANIAC",
+        "url": "https://open.spotify.com/album/0EXlZmZDM7xx2lQf8hQjP9"
+      },
+      "artists": [
+        {
+          "name": "Eddie Benjamin",
+          "url": "https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172530,
+      "name": "MANIAC",
+      "url": "https://open.spotify.com/track/3CptguqWjLoOwMoO2DCHWm"
+    },
+    {
+      "album": {
         "name": "ODDINARY",
         "url": "https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF"
       },

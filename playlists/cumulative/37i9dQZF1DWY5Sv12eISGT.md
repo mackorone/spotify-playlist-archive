@@ -4,7 +4,7 @@
 
 > Unwind to some chilled and cozy acoustic Afropop jams
 
-66 songs - 3 hr 29 min
+67 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Sawa \- Acoustic](https://open.spotify.com/track/06MSAzXM6tswye2RFtLZiF) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ), [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Presha \(Acoustic\)](https://open.spotify.com/album/3tXc0EcWrNJIWMQMSz8bF6) | 2:43 | 2024-02-16 | 2024-05-17 |
 | [Scatter \(Acoustic\)](https://open.spotify.com/track/4O8EkIP1esg2G2QNbg8IFk) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Scatter \(Acoustic\)](https://open.spotify.com/album/2b6VV3uwFG2LBD7LwKEXqQ) | 3:06 | 2024-02-16 |  |
 | [Sempe \- Acoustic](https://open.spotify.com/track/6R2gAXDiP5689wFxzP6qvl) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Sempe \(Acoustic\)](https://open.spotify.com/album/2UKtuS3AaeMsEmt5tV6rAe) | 1:38 | 2024-02-16 |  |
+| [Show You Off \- Acoustic](https://open.spotify.com/track/0dRYihVN7B0XcXZ7qEK72V) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Show You Off \(Acoustic\)](https://open.spotify.com/album/5n1L7IbusiLnDxDXr6Z6SJ) | 2:50 | 2025-04-10 |  |
 | [Sivawo \- Acoustic](https://open.spotify.com/track/19f9KenlWbUQntWH7EbnLi) | [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ) | [Sivawo \(Acoustic\)](https://open.spotify.com/album/0GB9VfuHcrAwPd0YKLvjYL) | 3:43 | 2024-02-16 | 2024-11-22 |
 | [Slow Down \(feat\. The Compozers\) \- Acoustic Session](https://open.spotify.com/track/5J1eDLfzfOClxI3nLQD3fh) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [The Compozers](https://open.spotify.com/artist/3JZIYIz1tu8IgQA6Fu4CaM) | [Slow Down \(feat\. The Compozers\) \[Acoustic Session\]](https://open.spotify.com/album/7Go1gsAPWqWA5Yw7ChhFZb) | 4:06 | 2024-02-16 |  |
 | [Smile For Me \- Acoustic Version](https://open.spotify.com/track/3kLRL0oEwf04wmvZtnQrsU) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Bitter Sweet \(Acoustic Version\)](https://open.spotify.com/album/1MOVCeOpDDjssBPl0uiRBz) | 3:28 | 2024-02-16 |  |

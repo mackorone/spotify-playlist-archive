@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHRfd4xP9nx.md) - [plain]
 
 > Uma chuva calma e tranquila para te fazer companhia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,466 likes - 275 songs - 12 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,514 likes - 275 songs - 12 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -246,17 +246,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHRfd4xP9nx.md) - [plain]
 | 236 | [Pouring Summer Rain](https://open.spotify.com/track/0TuQu9Ox1Nnws4Eppapz4L) | [Fröe](https://open.spotify.com/artist/0OZxzIeQtg2hGlRD4B5gLQ) | [Pouring Summer Rain](https://open.spotify.com/album/6zm8aa1RJ2lCTvwwUHlyGp) | 3:17 |
 | 237 | [Divine Sleep](https://open.spotify.com/track/1z6QujIsfrLI9RjR2vBRj0) | [Tranquility Spree](https://open.spotify.com/artist/5TwGqGqJXW0bmSzmdCKLp7) | [Divine Sleep](https://open.spotify.com/album/5E3Jk03J3a6pr8tbIL1KAL) | 2:40 |
 | 238 | [Heavy Wind And Rain](https://open.spotify.com/track/6JS3QBeAswEtEmmXt02vZH) | [Regen BWS](https://open.spotify.com/artist/1ELXIIOQjxTB6fBRY0hZuo) | [Brain Rain](https://open.spotify.com/album/2CnaCIkOmyhoYwWliPAa73) | 2:56 |
-| 239 | [Pluie sauvage](https://open.spotify.com/track/6QQlzmUakn9gQiFl2nR0PJ) | [Tornadoez](https://open.spotify.com/artist/1LHgM6GHbIR1kw5P52J2GM) | [Pluie sauvage](https://open.spotify.com/album/79cchmHisOerpyMolzpLZl) | 2:44 |
-| 240 | [Lovely Rain](https://open.spotify.com/track/1cl4y7PrtL61Y4Q6pjeTKS) | [The Magical Drops](https://open.spotify.com/artist/1o8C2yFA9rciG6M29xiFbw) | [Light the Rain](https://open.spotify.com/album/03FUhz3VcZ8sf66ifivgBZ) | 3:12 |
-| 241 | [Nopiming Rain](https://open.spotify.com/track/0gUX6bHRIW2ow9uEgsW2Co) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Calming Rain Harmony](https://open.spotify.com/album/7DRdQShYrQikRl9Vyggemq) | 3:01 |
+| 239 | [Lovely Rain](https://open.spotify.com/track/1cl4y7PrtL61Y4Q6pjeTKS) | [The Magical Drops](https://open.spotify.com/artist/1o8C2yFA9rciG6M29xiFbw) | [Light the Rain](https://open.spotify.com/album/03FUhz3VcZ8sf66ifivgBZ) | 3:12 |
+| 240 | [Nopiming Rain](https://open.spotify.com/track/0gUX6bHRIW2ow9uEgsW2Co) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Calming Rain Harmony](https://open.spotify.com/album/7DRdQShYrQikRl9Vyggemq) | 3:01 |
+| 241 | [Pluie sauvage](https://open.spotify.com/track/6QQlzmUakn9gQiFl2nR0PJ) | [Tornadoez](https://open.spotify.com/artist/1LHgM6GHbIR1kw5P52J2GM) | [Pluie sauvage](https://open.spotify.com/album/79cchmHisOerpyMolzpLZl) | 2:44 |
 | 242 | [Rain On the PorchPop Notch Music](https://open.spotify.com/track/5Sl5wOIQFtBAolYgdkVGB4) | [Skies of Rain](https://open.spotify.com/artist/5zXNGEbDUFyv5w4jN9V496) | [Drops Of Rain](https://open.spotify.com/album/6CnU8uUkd2rIGzOytJuQao) | 2:20 |
 | 243 | [August Rain](https://open.spotify.com/track/5h12gkfNl3Sh3tEsQNYjnb) | [Pacific Soundscapes](https://open.spotify.com/artist/7lfs7TkGNBX0j3VO4pK70s) | [August Rain](https://open.spotify.com/album/1Lu6iBVPYzH4JM54UBpJk5) | 2:50 |
 | 244 | [Rainy Night pt\. 3](https://open.spotify.com/track/0xm6GeC2ZoRyobsjqdClRr) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Rain Sounds Vol\. 2](https://open.spotify.com/album/5LqlHxkBdta9AJLiXCl9AQ) | 2:34 |
 | 245 | [Magical Rain](https://open.spotify.com/track/3TR9DypUdaJpjUwSmJiBML) | [Let It Rain](https://open.spotify.com/artist/2HQWUP9lYec3fWJ6VbSFdG) | [Magical Rain](https://open.spotify.com/album/0N7CN9T0HZiudDEwOCYFLY) | 2:48 |
-| 246 | [Gentle Rainfall](https://open.spotify.com/track/5SsKtHf2aKxKXAws8BNOgG) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Gentle Rainfall](https://open.spotify.com/album/7t3EAck5pBqcys8naib91U) | 3:01 |
-| 247 | [Sky Diamonds](https://open.spotify.com/track/6JMVBNnkxd2jZ3ZR8HCEhf) | [Royal Rain](https://open.spotify.com/artist/2C32BFATM0fyN4FFTl3fHe) | [Rain On The Cobblestone](https://open.spotify.com/album/4zi0Wh076joFe9HESotzxP) | 3:19 |
-| 248 | [Lluvia para dormir](https://open.spotify.com/track/54iGu1b1MiDrjiwN6wrekX) | [El Hacedor de Lluvia](https://open.spotify.com/artist/1P1gBxr2gM3mRZ7viD20tl) | [Lluvia](https://open.spotify.com/album/1cQ0twOwssuVhvb4A2JwLU) | 3:56 |
-| 249 | [Tranquil Paradise \(Rain\)](https://open.spotify.com/track/57NwiOoENYGkilePs3H9xY) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Pieces of Paradise \(Nature\)](https://open.spotify.com/album/2DLSPTlBNC8o12gNrRN8mQ) | 3:00 |
+| 246 | [Sky Diamonds](https://open.spotify.com/track/6JMVBNnkxd2jZ3ZR8HCEhf) | [Royal Rain](https://open.spotify.com/artist/2C32BFATM0fyN4FFTl3fHe) | [Rain On The Cobblestone](https://open.spotify.com/album/4zi0Wh076joFe9HESotzxP) | 3:19 |
+| 247 | [Lluvia para dormir](https://open.spotify.com/track/54iGu1b1MiDrjiwN6wrekX) | [El Hacedor de Lluvia](https://open.spotify.com/artist/1P1gBxr2gM3mRZ7viD20tl) | [Lluvia](https://open.spotify.com/album/1cQ0twOwssuVhvb4A2JwLU) | 3:56 |
+| 248 | [Tranquil Paradise \(Rain\)](https://open.spotify.com/track/57NwiOoENYGkilePs3H9xY) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Pieces of Paradise \(Nature\)](https://open.spotify.com/album/2DLSPTlBNC8o12gNrRN8mQ) | 3:00 |
+| 249 | [Gentle Rainfall](https://open.spotify.com/track/5SsKtHf2aKxKXAws8BNOgG) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Gentle Rainfall](https://open.spotify.com/album/7t3EAck5pBqcys8naib91U) | 3:01 |
 | 250 | [It's been raining all day](https://open.spotify.com/track/2RqGaMKk9ZNCaRi3cRNlQm) | [REGN](https://open.spotify.com/artist/2gyk8wYChmm41Fvq6TYBjM) | [It's been raining all day](https://open.spotify.com/album/4Z0vgQWxrtzmPGOhP7hLVf) | 3:32 |
 | 251 | [Pastures \(Rain\)](https://open.spotify.com/track/5nydxQakoXHdU0sDSpA2IZ) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Lightrise \(Rain\)](https://open.spotify.com/album/7JosAVi4UAQ2LT0Bjoyex6) | 3:00 |
 | 252 | [Consistent Rain](https://open.spotify.com/track/7aXLPmUZSAWIzyYqbjlh2E) | [Rain In Spain](https://open.spotify.com/artist/5eDzrKBgV4C8kovSd9vup9) | [Part 1](https://open.spotify.com/album/20wvLsO0wBMd2L2bLGHSUK) | 3:09 |

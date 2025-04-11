@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: La K´onga & L\-Gante.
 
-534 songs - 1 day 8 hr 45 min
+535 songs - 1 day 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Dejame Intentar](https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Dejame Intentar](https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC) | 2:01 | 2024-03-08 | 2025-03-01 |
 | [Delincuente](https://open.spotify.com/track/23Uz2ciZdbZGaHxjrrgRJU) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Delincuente](https://open.spotify.com/album/4uwnMRL1jwJZrQbGoPHXAe) | 2:43 | 2025-02-28 |  |
 | [Desaparécete \- En Vivo](https://open.spotify.com/track/27rBYiURwGcZb3v1bFsmlT) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [Desaparécete \(En Vivo\)](https://open.spotify.com/album/7fIrnJJxm9bYJgUoakXdqG) | 3:27 | 2024-07-19 | 2025-01-07 |
+| [Desde hoy](https://open.spotify.com/track/1Otr8Ec3EIEsBgMUc8CCJw) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Desde hoy](https://open.spotify.com/album/2ED1uEhcMli8IEySd6Bs1h) | 2:59 | 2025-04-04 |  |
 | [Desordenada](https://open.spotify.com/track/4xpDz9jAnK1YNtokl15AxJ) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Ahora](https://open.spotify.com/album/5HO5L05iZ6IpeBA1pI3Q8G) | 3:24 | 2021-12-24 | 2022-07-28 |
 | [Despacio](https://open.spotify.com/track/6YzNwxDMTOa98d8Leb7lOx) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC), [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Despacio](https://open.spotify.com/album/5VP2UhFpMWXYgPt6h0XoRx) | 3:06 | 2024-05-31 | 2024-10-09 |
 | [Despechada \(Cover\) \- En Vivo](https://open.spotify.com/track/1487Hvk6G70cTk3LcD4zZP) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Despechada \(Cover\) \[En Vivo\]](https://open.spotify.com/album/7uXNegW0zpr5lrRo9YNiOl) | 2:52 | 2023-01-18 |  |

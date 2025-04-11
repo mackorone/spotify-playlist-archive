@@ -2,9 +2,9 @@
 
 ### [Hip Hop Circle](https://open.spotify.com/playlist/37i9dQZF1DWUoBHp4pr8cg)
 
-> Only the hottest Hip Hop from G\-TECH 2bit, Gigi Lamayne, Blxckie and more.
+> Only the hottest Hip Hop from GR8FUL, G\-TECH 2bit, Gigi Lamayne, and more.
 
-371 songs - 19 hr 57 min
+372 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Sorrys & Ferraris](https://open.spotify.com/track/0tCqfQ0MHZBYvsZ169ZnUM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Sorrys & Ferraris](https://open.spotify.com/album/3FwxCY9GJsTQjFPZ8NeRfT) | 2:47 | 2024-02-16 | 2024-09-13 |
 | [Sosh Plata \- Remix](https://open.spotify.com/track/3x3aen8g82ZErdMyGBuHNN) | [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Thapelo Ghutra](https://open.spotify.com/artist/1KOyVpsHg06svISF8XgSbi) | [Sosh Plata](https://open.spotify.com/album/3pvgrTHdJ0tA8hLJOvuIQm) | 3:58 | 2023-03-06 | 2024-07-19 |
 | [Soul](https://open.spotify.com/track/7npn3Z5IorbgkrJMYpvftK) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Soul](https://open.spotify.com/album/4bkDiNK9oEkwKIZA0Dl8Ru) | 3:13 | 2023-06-23 | 2023-09-23 |
+| [Soul Fire](https://open.spotify.com/track/6VYdGHB9uTSzC7qaCOew9q) | [GR8FUL](https://open.spotify.com/artist/1VzD3ESxdi6M58llC6AkrM), [Baby S.O.N](https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6) | [Soul Fire](https://open.spotify.com/album/7u06JwBAWAQH95mRho7VeM) | 2:26 | 2025-04-11 |  |
 | [SOULLESS](https://open.spotify.com/track/57sUoOeMObVoDOyyalnpUh) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [SOULLESS](https://open.spotify.com/album/0gsirrJcV3wOGm79FzHapK) | 3:37 | 2024-10-11 |  |
 | [south](https://open.spotify.com/track/1S5cdblExndcN7a22BcTYS) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [south](https://open.spotify.com/album/1J4CZxaEi6ZcbfTD98Yvnd) | 3:09 | 2024-10-03 |  |
 | [Speak Love \(feat\. WNDRSZN & Marcus Harvey\)](https://open.spotify.com/track/0OSFXMr8KKhkzKJJ0kH9Cv) | [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [ONDELIVE](https://open.spotify.com/artist/4TvfKR50RpAHjQdMKTqL8t), [WNDRSZN](https://open.spotify.com/artist/7FaCY1DObpp7QO3S9f0RyQ), [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [MAGLERA TAPES](https://open.spotify.com/album/7HWGDAaDmVM4WhSNcb0Atp) | 3:26 | 2024-12-12 |  |

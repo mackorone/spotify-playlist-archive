@@ -1,12 +1,12 @@
 {
   "description": "where folk flowers bloom \ud83c\udf43 cover: Black Country, New Road",
-  "num_followers": 137542,
+  "num_followers": 137600,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/cU/QAAAAD6siV0gzW4uqo0m2u3PH+Z",
+  "snapshot_id": "Z/fPWQAAAACUmWe9hK/8p9s/ZQ8zoncJ",
   "tracks": [
     {
       "added_at": "2025-04-04 04:00:24",
@@ -25,22 +25,6 @@
       "url": "https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0"
     },
     {
-      "added_at": "2025-04-10 00:46:53",
-      "album": {
-        "name": "Call It Easy",
-        "url": "https://open.spotify.com/album/2o5XLVAEwwjXIJ5ptSgaT1"
-      },
-      "artists": [
-        {
-          "name": "Racing Mount Pleasant",
-          "url": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX"
-        }
-      ],
-      "duration_ms": 264508,
-      "name": "Call It Easy - Edit",
-      "url": "https://open.spotify.com/track/53u5fmf8yjjbXBn1O6y9a5"
-    },
-    {
       "added_at": "2025-04-04 04:00:24",
       "album": {
         "name": "Waiting Room",
@@ -55,6 +39,22 @@
       "duration_ms": 224067,
       "name": "Waiting Room",
       "url": "https://open.spotify.com/track/5FwnAR5TCxuHP25lKV5ghW"
+    },
+    {
+      "added_at": "2025-04-10 00:46:53",
+      "album": {
+        "name": "Call It Easy",
+        "url": "https://open.spotify.com/album/2o5XLVAEwwjXIJ5ptSgaT1"
+      },
+      "artists": [
+        {
+          "name": "Racing Mount Pleasant",
+          "url": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX"
+        }
+      ],
+      "duration_ms": 264508,
+      "name": "Call It Easy - Edit",
+      "url": "https://open.spotify.com/track/53u5fmf8yjjbXBn1O6y9a5"
     },
     {
       "added_at": "2025-04-04 04:00:24",
@@ -87,6 +87,22 @@
       "duration_ms": 239895,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/1xQKkR7bFenmihMnOgoFgC"
+    },
+    {
+      "added_at": "2025-04-10 14:02:01",
+      "album": {
+        "name": "DNA Guarantee",
+        "url": "https://open.spotify.com/album/1zbnbjtdrmlJnpEfvvubad"
+      },
+      "artists": [
+        {
+          "name": "Kodi Rhianne",
+          "url": "https://open.spotify.com/artist/0SxMiauNf6nzyx8nicQ4ow"
+        }
+      ],
+      "duration_ms": 225725,
+      "name": "DNA Guarantee",
+      "url": "https://open.spotify.com/track/7EimwDV1rXzsiXYGXVUEkC"
     },
     {
       "added_at": "2025-03-28 04:00:43",

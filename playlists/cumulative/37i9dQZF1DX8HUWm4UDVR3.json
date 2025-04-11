@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Helena",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Ad\u00e8le & Robin",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -787,6 +787,24 @@
     },
     {
       "album": {
+        "name": "Cavale",
+        "url": "https://open.spotify.com/album/7zzOJDLD3vAL3tP8pQaJu3"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223184,
+      "name": "Cavale",
+      "url": "https://open.spotify.com/track/4uuJfZByuwD0ePKqQVozQY"
+    },
+    {
+      "album": {
         "name": "CC SAVA",
         "url": "https://open.spotify.com/album/0fk7JDzCzSLdQpvV2u3l2S"
       },
@@ -942,7 +960,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 171146,
       "name": "Comme au cin\u00e9ma",
       "url": "https://open.spotify.com/track/7y56DoO0KggFFXE8WMU0ua"
@@ -1098,7 +1116,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-11",
       "duration_ms": 201905,
       "name": "Contre-c\u0153ur",
       "url": "https://open.spotify.com/track/4gE1HeO2U1UmnnF6angfva"
@@ -1120,6 +1138,24 @@
       "duration_ms": 213142,
       "name": "Corps Nucl\u00e9aire",
       "url": "https://open.spotify.com/track/4m2Jir1D8nb2dHFeXEBtp6"
+    },
+    {
+      "album": {
+        "name": "Courage",
+        "url": "https://open.spotify.com/album/29r7xSMi482M5GsggEk5J8"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e8le & Robin",
+          "url": "https://open.spotify.com/artist/1C04qPsvqhYBJhpWGCIFo8"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Courage",
+      "url": "https://open.spotify.com/track/00lPmwgjp2MnqVhZaxyLDv"
     },
     {
       "album": {
