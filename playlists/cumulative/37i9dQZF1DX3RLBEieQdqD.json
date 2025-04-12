@@ -855,6 +855,28 @@
     },
     {
       "album": {
+        "name": "Cosas Sencillas",
+        "url": "https://open.spotify.com/album/7unbBGse88W3EmNqFwuD0j"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192689,
+      "name": "Cosas Sencillas",
+      "url": "https://open.spotify.com/track/4ikMJDrE2nIttXU6d8EbfE"
+    },
+    {
+      "album": {
         "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
         "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
       },
@@ -1742,7 +1764,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 155560,
       "name": "Fondo Blanco",
       "url": "https://open.spotify.com/track/2DrT0KbXDHz3W6VGo3y5Vq"

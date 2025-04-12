@@ -4,7 +4,7 @@
 
 > Vado Mas Ki As entra na zona.
 
-758 songs - 1 day 16 hr 6 min
+759 songs - 1 day 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,6 +478,7 @@
 | [NINGUÉM](https://open.spotify.com/track/3yzMIrnSRhrtzrwhMlR1ED) | [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [PELE & OSSO](https://open.spotify.com/album/5O8gpcjDS5s9ugCYKPSadK) | 3:37 | 2024-06-06 | 2024-06-28 |
 | [Ninguém Entende Nada \(with Teto & MC PH\)](https://open.spotify.com/track/7cmCX8M8z9GZerCgVG1dyU) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5) | [Ninguém Entende Nada \(with Teto & MC PH\)](https://open.spotify.com/album/2OIxd2V2LTFqqu7JL9a9US) | 3:16 | 2024-05-30 | 2025-01-31 |
 | [Nirvana](https://open.spotify.com/track/1d9WnUOwgcnigchwI7pMPu) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [Nirvana](https://open.spotify.com/album/6iVnhMtEQAuG6EpErY879Q) | 2:03 | 2023-11-10 | 2024-01-12 |
+| [No Beef](https://open.spotify.com/track/4KQE4L9Sud7tDrZCUJVkvb) | [Zt35](https://open.spotify.com/artist/4yEpDApCiftRugkpN2sOVM), [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj) | [No Beef](https://open.spotify.com/album/6kTeS8xAgLkiBZm6EsBFAB) | 2:14 | 2025-04-10 |  |
 | [No Credit](https://open.spotify.com/track/5WBnYHhVUTPnQcf15Tyjyz) | [Dotorado Pro](https://open.spotify.com/artist/6CMcJKC5K1MFHQJYKdTLPd), [Makoka](https://open.spotify.com/artist/0L8IgTr61ZgczMysrbwfWw), [SAUCE](https://open.spotify.com/artist/34qSYAtqX8rCGnUPf1IiiO) | [No Credit](https://open.spotify.com/album/5FgAarbMoX0uQHw4k15hAC) | 3:28 | 2024-08-15 | 2024-09-06 |
 | [No Drama](https://open.spotify.com/track/4MzZQpsCzJuI1rdjCED46m) | [Rafa G](https://open.spotify.com/artist/0soQA1h9MhiA0NphWUecWi) | [No Drama](https://open.spotify.com/album/6pPUeGfOikyUNmljDlkyzX) | 2:28 | 2024-02-09 | 2024-03-01 |
 | [NO HOOK](https://open.spotify.com/track/6NuOeNQyeHFrd5j5xbUrND) | [XROOTZ](https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb), [Pdb Rootsz](https://open.spotify.com/artist/5ZZ3OOLz82P0QUcbPpne4u), [Freesesh](https://open.spotify.com/artist/3VVV1LXTiAx0kDszn9rOlH) | [NO HOOK](https://open.spotify.com/album/6qgqWwdMq93AXFFaXQxcsE) | 3:45 | 2024-01-19 | 2024-02-09 |

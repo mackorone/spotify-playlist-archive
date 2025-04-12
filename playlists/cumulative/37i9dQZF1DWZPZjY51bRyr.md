@@ -4,7 +4,7 @@
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-273 songs - 14 hr 3 min
+275 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [432 Hz Delta Earth](https://open.spotify.com/track/0yClwB7zCLWhcshv29Oep6) | [Jupiter Sorrow](https://open.spotify.com/artist/3jqblnBchsyc0UJrQ9YJMw) | [432 Hz Delta Earth](https://open.spotify.com/album/5MDAtNZmWg0GfB23Rvyaas) | 2:22 | 2023-10-26 | 2024-08-31 |
 | [432 Hz Lotus](https://open.spotify.com/track/2sdrlf1AV9jJqORYxGlIan) | [Vanessa Parson](https://open.spotify.com/artist/59S9QzQL8JVg6lts6OmX7I) | [432 Hz Lotus](https://open.spotify.com/album/4y7l5zPX113XxJE8g1XCeI) | 2:58 | 2024-07-18 |  |
 | [432 Hz Serenity Embrace](https://open.spotify.com/track/2H1JcyE318d91zg3DXI6Zj) | [Juni Willow](https://open.spotify.com/artist/5fyPGApAeuzdkwvW02LjT8) | [432 Hz Serenity Embrace](https://open.spotify.com/album/66mC8CxQZFCfinlZw5QyTh) | 2:41 | 2023-09-25 |  |
-| [432hz Let It Heal \- Studio Edit](https://open.spotify.com/track/5NWPSiHduPE5OSAeh6Frpb) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Let It Heal](https://open.spotify.com/album/7l2UxyaSgVWBMxCChOXMeR) | 3:40 | 2023-03-28 |  |
+| [432hz Let It Heal \- Studio Edit](https://open.spotify.com/track/5NWPSiHduPE5OSAeh6Frpb) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Let It Heal](https://open.spotify.com/album/7l2UxyaSgVWBMxCChOXMeR) | 3:40 | 2023-03-28 | 2025-04-12 |
 | [528 Hz \- Depth](https://open.spotify.com/track/4wir6hzWdheNZVGQQMOrih) | [Willow Bird](https://open.spotify.com/artist/4xVge9wtVXlLcmj9BvDoHy) | [528 Hz \- Depth](https://open.spotify.com/album/4I6ywVOrEHtslVrCFC3tI8) | 2:31 | 2023-12-15 | 2025-02-24 |
 | [528 Hz Well Being](https://open.spotify.com/track/1rvSKysJCFSkCWlLkQkJxb) | [Rigby Jay](https://open.spotify.com/artist/12s8RdGDrmojyfC16intDY) | [528 Hz Well Being](https://open.spotify.com/album/2HejJv1SKHZGpglUpnYeyp) | 3:01 | 2023-02-17 |  |
 | [528 Hz – Delta](https://open.spotify.com/track/2aO8jdjLcUEv7yfEdjdpGL) | [Bernie Longo](https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1) | [528 Hz – Delta](https://open.spotify.com/album/2eVww2WQchoorYqZJVwHEM) | 2:09 | 2023-03-28 |  |
@@ -123,6 +123,7 @@
 | [Geosmina](https://open.spotify.com/track/1UUfaxvrgpx6IgQ8MCdsTC) | [Furna](https://open.spotify.com/artist/2MtNVvbfAnblCOA9RXKfBx) | [Pouring rain](https://open.spotify.com/album/3Ft9QVNyd9jlvgb89AYmNF) | 2:42 | 2023-09-25 |  |
 | [Ghatam Sky](https://open.spotify.com/track/0OJR0aoHm1FuNQHvKlTgzi) | [Elysian Heart](https://open.spotify.com/artist/1x3oP4wJPV3fUtTV6KQIvD) | [Ghatam Sky](https://open.spotify.com/album/6Da52pJh6cu6CU6lcTmHIn) | 2:38 | 2025-01-17 |  |
 | [Glistening](https://open.spotify.com/track/5IbjWTJk2tjUOSdGWYoaIb) | [amaron](https://open.spotify.com/artist/01aRA4ZySdCi0bmRhTyGhf) | [Glistening](https://open.spotify.com/album/21kYhLPB8VHAcrECgzbMZt) | 2:43 | 2025-01-17 |  |
+| [Golden Hour Ganges](https://open.spotify.com/track/2PSBjAYj5x7yS5ZyGLs4SC) | [Aks & Lakshmi](https://open.spotify.com/artist/5zXob0LQBUchAV6mZOgu2w) | [Golden Hour Ganges](https://open.spotify.com/album/0hde8PjUfNu7GT8RLIUup8) | 4:15 | 2025-03-19 |  |
 | [Golden Meadow](https://open.spotify.com/track/2RnLkBVNSErnfTgnRtT7lJ) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Golden Meadow](https://open.spotify.com/album/7csw7q2jmFiLOJdEpHQgyw) | 2:40 | 2023-02-17 |  |
 | [Harmless 417 Hz](https://open.spotify.com/track/2bH8j0OZJMudcwpxqlmFyF) | [Inner Peace Champions](https://open.spotify.com/artist/5bSKwZCrNCkL4EWOkxvkHK) | [Harmless 417 Hz](https://open.spotify.com/album/1HYpP4M5rRaJPDBbhfDnuy) | 2:55 | 2024-07-18 |  |
 | [Harmonious Waves](https://open.spotify.com/track/4Z4KRvAEWbQ7uodFWnvptY) | [Torino Sky](https://open.spotify.com/artist/4qUuZzHZAeduYNqDbRGITd) | [Harmonious Waves](https://open.spotify.com/album/40UBjtYufZkwb3oVI11kM6) | 2:47 | 2023-07-10 |  |
@@ -198,6 +199,7 @@
 | [Renaissance](https://open.spotify.com/track/3ezescL9H4NALmkrXYMTr0) | [Tonalie](https://open.spotify.com/artist/0YnZJRRAXYitAp9ksU9O7X) | [Renaissance](https://open.spotify.com/album/22qO0N4uQ1LifMZkBJsUSy) | 2:23 | 2023-07-10 | 2025-01-22 |
 | [Restful Days](https://open.spotify.com/track/0jVbxfgP0tbV1s1wqtIhAh) | [Ambient Saga](https://open.spotify.com/artist/6jXJLmPCp6G9qpAK8XJZ81) | [Restful Days](https://open.spotify.com/album/1qdQorBzd93vJb4iRS43b8) | 3:17 | 2023-05-19 |  |
 | [Restful Nebula](https://open.spotify.com/track/01cPzvmA2BlPIT0wI7SGCY) | [Jonathan Kim](https://open.spotify.com/artist/4hsI8leYHogPoeHAiVG1Fn) | [Restful Nebula](https://open.spotify.com/album/3iY6qBxTfzsQ5BqFh8WZzr) | 2:43 | 2025-03-19 |  |
+| [Restful Skies](https://open.spotify.com/track/4a0d5NI8Zu7YgZ6L7RXzxm) | [Vayda Sun](https://open.spotify.com/artist/2DDcsNRmquB7eoFY1S0oxX) | [Restful Skies](https://open.spotify.com/album/5eotwrzM6ZXL8pUo3la5XW) | 3:12 | 2025-03-19 |  |
 | [Restfulness](https://open.spotify.com/track/1eWEJ1JVoyt0nozyAoUPZW) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Aura](https://open.spotify.com/album/1GgB6wCGMjv9eIWbysYO4x) | 2:55 | 2023-02-17 | 2023-05-20 |
 | [Rila](https://open.spotify.com/track/2GXR3ZXqDQRMQXBPSgxzGD) | [Nestos](https://open.spotify.com/artist/226hKCjt03DSIoyUpvNldF) | [Rila](https://open.spotify.com/album/3IzyZqwqiymFeSQdSM9hun) | 3:16 | 2023-02-17 |  |
 | [Rishis](https://open.spotify.com/track/7G2xLyRHac8eH0qhMPDnl0) | [Skye Saraswati](https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3) | [Rishis](https://open.spotify.com/album/4wsw80EuYCSMlsPy4xT2L2) | 3:23 | 2023-02-17 |  |
@@ -243,7 +245,7 @@
 | [Surya](https://open.spotify.com/track/3ix7QBNrfrGQxh2TQ65SKn) | [Indah Bethari](https://open.spotify.com/artist/6PEb2KuIsMYIR8DFdBL2al) | [Surya](https://open.spotify.com/album/10WrtwW51CZ7TLPYktNJos) | 2:43 | 2025-03-19 |  |
 | [Temple](https://open.spotify.com/track/2jpdJofQjOI2qCF2A5Fj4M) | [re:inhabit](https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL) | [Temple of the Heart](https://open.spotify.com/album/5yuklwSxgyuIPtHU0nkGXQ) | 3:36 | 2023-09-25 | 2025-01-18 |
 | [Terrestrial](https://open.spotify.com/track/27oha8wgBjsfI6cAeG3YMl) | [Exhalious](https://open.spotify.com/artist/6wpESevLL5E3kESW8V5nky) | [Terrestrial](https://open.spotify.com/album/4iGvb8pa6VjOCiqTJ0Rx6l) | 3:03 | 2023-02-17 | 2025-03-28 |
-| [Testanaadee](https://open.spotify.com/track/0dKEL8IL3Wgz6vEIAL3P4J) | [Shikha Chadha](https://open.spotify.com/artist/2vVK4gTQuqvtqWHX8GiIDc) | [Testanaadee](https://open.spotify.com/album/2r1IdCCzou6ux9MdcOj20X) | 3:04 | 2023-02-17 |  |
+| [Testanaadee](https://open.spotify.com/track/0dKEL8IL3Wgz6vEIAL3P4J) | [Shikha Chadha](https://open.spotify.com/artist/2vVK4gTQuqvtqWHX8GiIDc) | [Testanaadee](https://open.spotify.com/album/2r1IdCCzou6ux9MdcOj20X) | 3:04 | 2023-02-17 | 2025-04-12 |
 | [The Break of Dawn](https://open.spotify.com/track/4mXD6Q7OPXWQm6LDajgOBl) | [Pol To Sol](https://open.spotify.com/artist/6hoVTfcaupGzwCGF4AIHuQ) | [The Break of Dawn](https://open.spotify.com/album/14zBgbLcZRWENB1zq8cp1n) | 3:23 | 2023-05-19 |  |
 | [The Calm](https://open.spotify.com/track/0W1mdLK6rMWfuYbXWqufLd) | [Dronia](https://open.spotify.com/artist/5Z1hoAJ3HE5peZejeQP2as) | [The Calm](https://open.spotify.com/album/4KpVWzvBCkPYxA8scBMn99) | 2:51 | 2024-11-14 |  |
 | [The Five Koshas](https://open.spotify.com/track/668Kf9hcQra955lBWbFLNx) | [FloatSpace](https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL) | [The Five Koshas](https://open.spotify.com/album/2ibstU7112zWeemrDknJKt) | 2:58 | 2023-03-20 | 2023-09-26 |

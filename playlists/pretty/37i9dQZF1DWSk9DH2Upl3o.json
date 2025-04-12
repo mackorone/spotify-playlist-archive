@@ -1,13 +1,49 @@
 {
   "description": "The jam scene is alive and well. Cover: Kendall Street Company",
-  "num_followers": 37567,
+  "num_followers": 37581,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+Ye4QAAAAACIR4meN8GJwSqxszC7+3o",
+  "snapshot_id": "Z/iT1AAAAADIuGNuJB2fHWpcTAWGOMpR",
   "tracks": [
+    {
+      "added_at": "2025-04-11 04:00:20",
+      "album": {
+        "name": "Love Line",
+        "url": "https://open.spotify.com/album/4kmktRozz840aJjfCQvv2n"
+      },
+      "artists": [
+        {
+          "name": "TAUK",
+          "url": "https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O"
+        },
+        {
+          "name": "Kanika Moore",
+          "url": "https://open.spotify.com/artist/7l3wgJeWp7SWHnRG8WQ10V"
+        }
+      ],
+      "duration_ms": 201919,
+      "name": "Love Line",
+      "url": "https://open.spotify.com/track/0svZOna20LwtbhIAL8HD1o"
+    },
+    {
+      "added_at": "2025-04-11 04:00:20",
+      "album": {
+        "name": "Big Wheel",
+        "url": "https://open.spotify.com/album/5H3wcWIKteIzKna7zR8wDs"
+      },
+      "artists": [
+        {
+          "name": "Leftover Salmon",
+          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
+        }
+      ],
+      "duration_ms": 173445,
+      "name": "Big Wheel",
+      "url": "https://open.spotify.com/track/50YUojz65TMZj1LSE3aOy8"
+    },
     {
       "added_at": "2025-03-14 04:00:14",
       "album": {
@@ -809,26 +845,6 @@
       "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
     },
     {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "Fire And Brimstone",
-        "url": "https://open.spotify.com/album/7hHQBVMkOdqoYnNrSW274S"
-      },
-      "artists": [
-        {
-          "name": "Leftover Salmon",
-          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
-        },
-        {
-          "name": "Oliver Wood",
-          "url": "https://open.spotify.com/artist/74evjLDRTaA6Fz6s2rHudU"
-        }
-      ],
-      "duration_ms": 269240,
-      "name": "Fire And Brimstone",
-      "url": "https://open.spotify.com/track/3vDZowtjlc8GDNmINyLOpV"
-    },
-    {
       "added_at": "2023-07-07 04:01:00",
       "album": {
         "name": "Warming Up",
@@ -1375,22 +1391,6 @@
       "duration_ms": 513070,
       "name": "The World Is A Ghetto",
       "url": "https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Dopapod",
-        "url": "https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA"
-      },
-      "artists": [
-        {
-          "name": "Dopapod",
-          "url": "https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX"
-        }
-      ],
-      "duration_ms": 304826,
-      "name": "Nuff",
-      "url": "https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7"
     },
     {
       "added_at": "2022-07-01 04:02:00",

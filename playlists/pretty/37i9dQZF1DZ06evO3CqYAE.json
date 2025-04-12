@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 12342,
+  "num_followers": 12353,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/W4gAAAAADMeEFMAM5nHBLUDoKVbYA/",
+  "snapshot_id": "Z/cKAAAAAACenGdtP/YNda0Yw6zFoP3t",
   "tracks": [
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Power Belongs To Jesus",
+        "url": "https://open.spotify.com/album/5pfGxqWgKcPPYAbjnHqU0v"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 256120,
+      "name": "Power Belongs To Jesus",
+      "url": "https://open.spotify.com/track/12crjb1IdFLzMIavd3hAnO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eze (feat. Preye Odede)",
         "url": "https://open.spotify.com/album/3PH6kZDIT5gJYMGNWzqqq2"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 356063,
       "name": "Eze (feat. Preye Odede)",
       "url": "https://open.spotify.com/track/2Y2mu2RkaSmGKymRSA35od"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Power Belongs To Jesus",
-        "url": "https://open.spotify.com/album/5pfGxqWgKcPPYAbjnHqU0v"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 256120,
-      "name": "Power Belongs To Jesus",
-      "url": "https://open.spotify.com/track/12crjb1IdFLzMIavd3hAnO"
     },
     {
       "added_at": null,

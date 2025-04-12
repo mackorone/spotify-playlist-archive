@@ -512,7 +512,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 359466,
       "name": "Box Step",
       "url": "https://open.spotify.com/track/1qteisqG6gO3CsYRD0gWcC"
@@ -2880,6 +2880,28 @@
       "duration_ms": 563400,
       "name": "Twombly at New Church",
       "url": "https://open.spotify.com/track/5hr1OI7kdIRsplcc4i1nA5"
+    },
+    {
+      "album": {
+        "name": "Frog Raag",
+        "url": "https://open.spotify.com/album/5DZOpRRkXYMU7CAodzg8Pn"
+      },
+      "artists": [
+        {
+          "name": "Evan Shornstein",
+          "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
+        },
+        {
+          "name": "Will Epstein",
+          "url": "https://open.spotify.com/artist/6frw6zaHCiKF24nG7ch52I"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286550,
+      "name": "VI",
+      "url": "https://open.spotify.com/track/0Hqe86kEj0B7L3MoBBUvvT"
     },
     {
       "album": {

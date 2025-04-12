@@ -11177,6 +11177,24 @@
     },
     {
       "album": {
+        "name": "IN THE RAIN",
+        "url": "https://open.spotify.com/album/6ny2h77H2ss1kMCsxtY22L"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188200,
+      "name": "IN THE RAIN",
+      "url": "https://open.spotify.com/track/7gJsLJXg9WIMFG2AoxddtD"
+    },
+    {
+      "album": {
         "name": "Open \u266deta v6.4",
         "url": "https://open.spotify.com/album/3ns70LFr52z7s1SlNZgZxF"
       },
@@ -20050,7 +20068,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 190666,
       "name": "SOMETHING AIN'T RIGHT",
       "url": "https://open.spotify.com/track/3RxL9p66oXKuSdXYeFcJeT"

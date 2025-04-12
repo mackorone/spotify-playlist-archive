@@ -2,14 +2,14 @@
 
 ### [Indie Andinos](https://open.spotify.com/playlist/37i9dQZF1DX9xyAZr9s5Pd)
 
-> ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Greccia
+> ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Jaze
 
-104 songs - 5 hr 54 min
+108 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [98](https://open.spotify.com/track/3H7oZCSHd0QbV79Ur2wCPZ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [98](https://open.spotify.com/album/6FIyZQ7DHCY6Jlg3AbrF50) | 3:26 | 2023-09-22 |  |
-| [A La Playa](https://open.spotify.com/track/2MANpdplWDEAnmHC2GA42W) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [A La Playa](https://open.spotify.com/album/00FBTtbNuQhQqSGIMNSHjU) | 3:13 | 2023-09-22 |  |
+| [A La Playa](https://open.spotify.com/track/2MANpdplWDEAnmHC2GA42W) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [A La Playa](https://open.spotify.com/album/00FBTtbNuQhQqSGIMNSHjU) | 3:13 | 2023-09-22 | 2025-04-12 |
 | [A las 9:05](https://open.spotify.com/track/17NFVJcGuyMnATW0VyWYPW) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [Mi Otra Mitad](https://open.spotify.com/album/2yj8afBHgfBKRUBKC7t5j3) | 4:04 | 2023-11-17 |  |
 | [Aleros/Pompeii](https://open.spotify.com/track/2KSyKlJ3SWPFflplhYhPTl) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Caribe Caribe](https://open.spotify.com/album/7zGq7oV1gSW4Aga1a9XJUK) | 4:00 | 2023-09-22 |  |
 | [Algo Bueno Tenía Que Tener \(Bogotá\)](https://open.spotify.com/track/7DJ2ooJelCCfs6UIbONOjr) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Algo Bueno Tenía Que Tener \(Bogotá\)](https://open.spotify.com/album/79JsLKk3Yqf3FxwM801LTz) | 3:30 | 2024-02-16 |  |
@@ -68,6 +68,7 @@
 | [Lugar ideal](https://open.spotify.com/track/7ci35SpcUNFGAEyLqvp6rA) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Dos Hemisferios](https://open.spotify.com/album/3v0GqkeQbUQtzgd4yPYpDu) | 3:18 | 2024-07-05 | 2025-03-08 |
 | [Límites](https://open.spotify.com/track/3InU95w7uhcHOxXU9m1294) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Límites](https://open.spotify.com/album/66tUKjngOsWoJj7ccwktRD) | 3:30 | 2023-11-17 |  |
 | [Marchito](https://open.spotify.com/track/7EYVt3gOAG8bOq3D5sqXLb) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Marchito](https://open.spotify.com/album/7KNK4fSGZlkMJ3ItyrM06H) | 3:56 | 2023-09-29 |  |
+| [Mariposas Amarillas](https://open.spotify.com/track/1sstT1tv6lHi3dJgUp4PEf) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV), [Nasa Histoires](https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu) | [Mariposas Amarillas](https://open.spotify.com/album/08hW5Y4PNFEcqvlkxjofU4) | 3:37 | 2025-04-11 |  |
 | [Me Olvido / Te Sigo](https://open.spotify.com/track/3QRQMXFPLmtq2KzSREjnZs) | [Da Pawn](https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy) | [Me Olvido / Te Sigo](https://open.spotify.com/album/6qDykJWNBv8mXubUrWgAwP) | 3:38 | 2023-09-22 |  |
 | [Medusa](https://open.spotify.com/track/5u4WtYlz4AVrsVwu58mKbv) | [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [Medusa](https://open.spotify.com/album/2Hy8fPqK6DM1nVXECN5qKU) | 3:00 | 2024-02-23 |  |
 | [mil procedimientos](https://open.spotify.com/track/3GbGWkO0fqOGKvDGQle35s) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [mil procedimientos](https://open.spotify.com/album/228lIoPGjFuFxEUAh4vjOO) | 3:36 | 2024-08-02 |  |
@@ -79,7 +80,7 @@
 | [NIDI](https://open.spotify.com/track/1t8jiSCpgv7iPYTm1hT1Rc) | [Lolabúm](https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki) | [NIDI](https://open.spotify.com/album/1AwekDMwY8VRbcymgGeDJy) | 3:20 | 2023-09-22 |  |
 | [No es culpa tuya](https://open.spotify.com/track/0vHeN8JovVFOOSta12kaQM) | [yumhji](https://open.spotify.com/artist/1kZW1tP8aoEp0iWuMVbCqx) | [No es culpa tuya](https://open.spotify.com/album/5Gm2ELl1iV8Jk1Il4Zk1QV) | 2:40 | 2024-08-02 | 2024-10-18 |
 | [No Me Dan Las Cuentas](https://open.spotify.com/track/5zfvXukZ4FrdNR7gEDScGw) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu), [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [No Me Dan Las Cuentas](https://open.spotify.com/album/5D2lSTtk0P7OTtg4WuzJaE) | 3:55 | 2024-08-02 | 2025-03-08 |
-| [No Te Vayas Nunca](https://open.spotify.com/track/5FMfpa1gMxWPg3INPurOI4) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [No Te Vayas Nunca](https://open.spotify.com/album/1UvWnU9UKjbxzKbLxk8Njx) | 3:21 | 2023-09-22 |  |
+| [No Te Vayas Nunca](https://open.spotify.com/track/5FMfpa1gMxWPg3INPurOI4) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [No Te Vayas Nunca](https://open.spotify.com/album/1UvWnU9UKjbxzKbLxk8Njx) | 3:21 | 2023-09-22 | 2025-04-12 |
 | [No Tengo Tiempo](https://open.spotify.com/track/0J5PXybiNqoNQrethIsoDX) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [No Tengo Tiempo](https://open.spotify.com/album/3QYc5uXxdDb6NpSIl9FUyV) | 2:50 | 2023-09-22 | 2024-08-03 |
 | [No Tengo Tiempo](https://open.spotify.com/track/7hmvkFDZGMLaRyHMBySatI) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [ARMN](https://open.spotify.com/album/5ZKQlMu308fEdUEOYXUjIp) | 2:50 | 2023-10-13 | 2024-04-19 |
 | [Nublado](https://open.spotify.com/track/1JhzXJFe4rvHFVHmRb3bQS) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Nublado](https://open.spotify.com/album/1bqvDiNrpVCeI8RbsgayEb) | 3:50 | 2023-09-22 | 2024-08-01 |
@@ -99,7 +100,8 @@
 | [Siempre Hago Lo Que Quiero](https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59), [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Siempre Hago Lo Que Quiero](https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt) | 3:44 | 2023-09-22 | 2024-03-02 |
 | [Souvenir, Pt\. 1](https://open.spotify.com/track/3D7rpYcDzVVTu6bN7is1Ga) | [Piel Camaleón](https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq) | [Souvenir](https://open.spotify.com/album/4Gs5BxNDabBlz281OcxFYO) | 2:10 | 2024-03-01 | 2025-03-08 |
 | [Suficiente](https://open.spotify.com/track/1tHIfjP3YPkoTLLTmW0BUP) | [Gran Radio Riviera](https://open.spotify.com/artist/3RUegLawnCVTlcsbFk6fUq), [YIYI](https://open.spotify.com/artist/7AN8elJtTMhsDuKjTZOYKZ) | [0\-800 HOY](https://open.spotify.com/album/6GzCj4kV2236LdiDBg6VHP) | 4:05 | 2023-09-22 | 2023-09-30 |
-| [Sólo Lo Bueno Quedará](https://open.spotify.com/track/11cMrX3bUlKx3nu68hoXb4) | [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Sólo Lo Bueno Quedará](https://open.spotify.com/album/49u9AqmZFz9U7RuoQRp5UV) | 2:32 | 2023-09-22 |  |
+| [Sólo Lo Bueno Quedará](https://open.spotify.com/track/11cMrX3bUlKx3nu68hoXb4) | [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Sólo Lo Bueno Quedará](https://open.spotify.com/album/49u9AqmZFz9U7RuoQRp5UV) | 2:32 | 2023-09-22 | 2025-04-12 |
+| [Tatú](https://open.spotify.com/track/2VqcqkwQU8hnHF8PeNpP12) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Tatú](https://open.spotify.com/album/0VjuWZitVeqZ0BnzKESw6k) | 2:44 | 2025-04-11 |  |
 | [Te Vi Llegar](https://open.spotify.com/track/3nCpJyVWHs4kZEt7YHMmlu) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [Te Vi Llegar](https://open.spotify.com/album/2zfz1eDKYqFNonW0krxxPa) | 2:01 | 2024-02-16 | 2024-08-03 |
 | [Te Vi Mudar](https://open.spotify.com/track/7Akzl1WkuD75hZzmr0oJxU) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Te Vi Mudar](https://open.spotify.com/album/56QdvJzTIUDA3IisAblZhz) | 2:54 | 2023-09-22 | 2024-08-01 |
 | [Tenemos que hablar](https://open.spotify.com/track/1pSwtcaRE3LbpKiOK00l4N) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Tenemos que hablar](https://open.spotify.com/album/4bza078y7xvT1KpPoVzbx2) | 3:33 | 2023-09-22 |  |
@@ -107,10 +109,12 @@
 | [Tobogán Amarillo](https://open.spotify.com/track/2rpN7T4X1UV0OBydtgIYzF) | [Efecto Gloria](https://open.spotify.com/artist/1Bl24yyAYpdgZx3xRYD2TR) | [Tobogán Amarillo](https://open.spotify.com/album/3i43C2uh0Z6y85UQUU8K26) | 4:31 | 2023-09-22 | 2024-10-26 |
 | [Todo Está Mejor](https://open.spotify.com/track/135CDJyX7CNJ55vBEsK1bZ) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Todo Está Mejor](https://open.spotify.com/album/1oY5hKTTwplywgqrKKzGdE) | 3:23 | 2023-09-22 |  |
 | [Tutorial Para Olvidarme de Ti](https://open.spotify.com/track/0S5tLL40N5MtaxbYLEfjkT) | [Inzul](https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp) | [Tutorial Para Olvidarme de Ti](https://open.spotify.com/album/0rFXbUb5ZLQs4xPBNKUprC) | 3:16 | 2023-09-29 |  |
+| [un mensaje de voz \(feat\. Elsa y Elmar\)](https://open.spotify.com/track/6v640lAjrFzNyut6aRqnro) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Quizá no es para tanto](https://open.spotify.com/album/1D6abDGoj5W44nsKkhm9dB) | 3:23 | 2025-04-11 |  |
 | [Ver Tus Ojos Mirándome](https://open.spotify.com/track/2Xxh2rUEtoEouNW8rxzEoT) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY) | [Ver Tus Ojos Mirándome](https://open.spotify.com/album/5krMOq6LzqIrC7h8FBjaw1) | 3:30 | 2024-03-01 |  |
 | [Viento](https://open.spotify.com/track/10YxtMOKTJzbeNITBrgjTT) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [Viento](https://open.spotify.com/album/4cat7GFdLkaz3H8oQ6KkY9) | 2:48 | 2023-09-22 |  |
 | [Volvería Por Ti](https://open.spotify.com/track/7pnIyF44HMSLiThALXQhLp) | [Piel Camaleón](https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq), [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Todo Sigue Donde Estaba](https://open.spotify.com/album/0lFI8V80MuE0YM6Iihubk7) | 4:17 | 2024-10-18 |  |
-| [Wrong](https://open.spotify.com/track/1AgswkAY8csSSfgb2JQkeB) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Wrong](https://open.spotify.com/album/4NSlkTpEJo4F49Zwg0VoUY) | 3:31 | 2023-09-22 |  |
+| [Wrong](https://open.spotify.com/track/1AgswkAY8csSSfgb2JQkeB) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Wrong](https://open.spotify.com/album/4NSlkTpEJo4F49Zwg0VoUY) | 3:31 | 2023-09-22 | 2025-04-12 |
+| [Y YA NADA](https://open.spotify.com/track/3IBYBGzIvrLj8mdJBDXKFr) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ), [Marcel Bagés](https://open.spotify.com/artist/0zXBa5DyjzKxjRj01iRJkn), [David Soler](https://open.spotify.com/artist/1ASP7GYxPVkYoejPblW6O1) | [Y YA NADA](https://open.spotify.com/album/4bMMiMiAK4jAkiSIg36hcJ) | 3:54 | 2025-04-11 |  |
 | [ya lo sabemos](https://open.spotify.com/track/3cLV9ACRWvOf3Z7SLqud5B) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Antes y Después](https://open.spotify.com/album/2eR2uZOC861wwAqg1vFmDq) | 3:18 | 2024-10-18 |  |
 
 \*This playlist was first scraped on 2023-09-27. Prior content cannot be recovered.

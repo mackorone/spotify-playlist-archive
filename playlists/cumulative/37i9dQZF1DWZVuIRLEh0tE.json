@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Porque no to' e' Dembow en RD loco. Portada: Lil Naay",
+  "description": "Porque no to' e' Dembow en RD loco. Portada: Rochy RD",
   "name": "Flow Dominicano",
   "tracks": [
     {
@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "2025",
+        "url": "https://open.spotify.com/album/34fC4lkTtEKVsbiUt30l8g"
+      },
+      "artists": [
+        {
+          "name": "Carlos Trvp",
+          "url": "https://open.spotify.com/artist/3OZW7ELARiHhIhvhQ4FLCy"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136620,
+      "name": "2025",
+      "url": "https://open.spotify.com/track/11a2z01Q8gsnQH3oYjJcgf"
+    },
+    {
+      "album": {
         "name": "3 AM",
         "url": "https://open.spotify.com/album/6Oi25qJ0RD7tKqjsx3FST6"
       },
@@ -310,7 +328,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 156163,
       "name": "4 Peine",
       "url": "https://open.spotify.com/track/7J711ya19uuQOS5FwTyn21"
@@ -394,7 +412,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 132571,
       "name": "7 De La Ma\u00f1ana",
       "url": "https://open.spotify.com/track/1ui7smlhnMxWRQUgCsQACB"
@@ -908,7 +926,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 136000,
       "name": "Al Pelo",
       "url": "https://open.spotify.com/track/24NgRE8Lfi4YabmYTtlnXM"
@@ -1086,7 +1104,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 157090,
       "name": "Amor de Gangster",
       "url": "https://open.spotify.com/track/4S4HkxMtu1u95L7AxGMJJq"
@@ -1140,7 +1158,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 161541,
       "name": "Anda Soltera",
       "url": "https://open.spotify.com/track/6386AGFaGK6zIGldBq8QEQ"
@@ -3071,6 +3089,28 @@
     },
     {
       "album": {
+        "name": "Como Se Hace",
+        "url": "https://open.spotify.com/album/0x1yueh6LI4P71SX0lx8iD"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189103,
+      "name": "Como Se Hace",
+      "url": "https://open.spotify.com/track/6ZLaO2iFfcwSGnhsixoGXs"
+    },
+    {
+      "album": {
         "name": "Como Sucedio",
         "url": "https://open.spotify.com/album/34bzI0EjWZQ89zlixBIkjW"
       },
@@ -4948,6 +4988,32 @@
       "duration_ms": 137600,
       "name": "Droga, Pistola, Mujeres",
       "url": "https://open.spotify.com/track/3ykcfVOPpjrsmiiqBeo7ka"
+    },
+    {
+      "album": {
+        "name": "Dulcito",
+        "url": "https://open.spotify.com/album/480w6Us1d6Q8RybLNlMvHA"
+      },
+      "artists": [
+        {
+          "name": "Amy Mami",
+          "url": "https://open.spotify.com/artist/4CUxv4vgM45Ay0TeksdK0B"
+        },
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        },
+        {
+          "name": "Three Seven Music",
+          "url": "https://open.spotify.com/artist/6WpyChzOE17EotLrDxy3Cb"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167190,
+      "name": "Dulcito",
+      "url": "https://open.spotify.com/track/6uBOVZUYIpiAGqhSWoj2Or"
     },
     {
       "album": {
@@ -7663,6 +7729,24 @@
     },
     {
       "album": {
+        "name": "Imaginate",
+        "url": "https://open.spotify.com/album/1WlBg8kneL207jfWyuIGQd"
+      },
+      "artists": [
+        {
+          "name": "Junior Prestige",
+          "url": "https://open.spotify.com/artist/1D9aJ0ODAGTDThQ2POJSlq"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192162,
+      "name": "Imaginate",
+      "url": "https://open.spotify.com/track/6CxoJtdojtz0UtD7sC1qf8"
+    },
+    {
+      "album": {
         "name": "INJUSTICIA",
         "url": "https://open.spotify.com/album/6JhWTHamogYoQHjjVwuWPM"
       },
@@ -8270,7 +8354,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 128571,
       "name": "La Cotorra",
       "url": "https://open.spotify.com/track/5TmCOO1P7DAsPP0kcSPKOU"
@@ -9268,6 +9352,28 @@
       "duration_ms": 167571,
       "name": "LO MIO AL DIA",
       "url": "https://open.spotify.com/track/6sG1Gj2ObZwL0pZWUNgUOD"
+    },
+    {
+      "album": {
+        "name": "Lo Perro Mio",
+        "url": "https://open.spotify.com/album/1oqVVWHScKr691ZGiXMqMN"
+      },
+      "artists": [
+        {
+          "name": "Kiry Curu",
+          "url": "https://open.spotify.com/artist/3nb8360gVWO9vWGE16bE9A"
+        },
+        {
+          "name": "El 3men2 ( El Wuaja )",
+          "url": "https://open.spotify.com/artist/104qYLyUxIbKLh9NKQHYkX"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176375,
+      "name": "Lo Perro Mio",
+      "url": "https://open.spotify.com/track/2DkNAyV8CRiLgxzptw1edy"
     },
     {
       "album": {
@@ -10432,6 +10538,24 @@
       "duration_ms": 181498,
       "name": "Me Hace Falta",
       "url": "https://open.spotify.com/track/0bc6usCdraQ0M3tXqemELa"
+    },
+    {
+      "album": {
+        "name": "Me La Sube",
+        "url": "https://open.spotify.com/album/3dH9Au9QVheCD8gn6bL046"
+      },
+      "artists": [
+        {
+          "name": "Jaudy",
+          "url": "https://open.spotify.com/artist/482w6SuAShFPgge3PuRmO3"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156818,
+      "name": "Me La Sube",
+      "url": "https://open.spotify.com/track/3PkbeybLMc4anSiQ8x3fBG"
     },
     {
       "album": {
@@ -11990,7 +12114,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 176703,
       "name": "No Es de Mentira",
       "url": "https://open.spotify.com/track/4lrK0JSt1PHx7aGDJSiM0q"
@@ -12098,7 +12222,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 151200,
       "name": "No Mama",
       "url": "https://open.spotify.com/track/0hIuF4NW9CfJti7bpcGXUE"
@@ -12458,7 +12582,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 146166,
       "name": "No Te Vayas",
       "url": "https://open.spotify.com/track/1TFFUlPpZL5KRfarLHCXf8"
@@ -12812,7 +12936,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 193518,
       "name": "OjO PoR OjO",
       "url": "https://open.spotify.com/track/0zNfrxcNoClBtuBK8alwgB"
@@ -13846,7 +13970,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 162647,
       "name": "Presion- Tu Dice ?",
       "url": "https://open.spotify.com/track/316TprjpiLMd7Oc85X1JDu"
@@ -14170,6 +14294,28 @@
       "duration_ms": 176589,
       "name": "Quiero Money",
       "url": "https://open.spotify.com/track/7rWorauvcIuzavbD05sqfJ"
+    },
+    {
+      "album": {
+        "name": "Quiero Recordar",
+        "url": "https://open.spotify.com/album/3UMCgVX3khI2l3uCI4w7kq"
+      },
+      "artists": [
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178604,
+      "name": "Quiero Recordar",
+      "url": "https://open.spotify.com/track/1qU4vGtdBeDjuOVS5b3fDF"
     },
     {
       "album": {
@@ -14552,7 +14698,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 185552,
       "name": "R\u00c9 LOCO",
       "url": "https://open.spotify.com/track/0srZWJ2cBhnHMuzU4mx9rX"
@@ -14743,6 +14889,28 @@
     },
     {
       "album": {
+        "name": "SHORTY",
+        "url": "https://open.spotify.com/album/5MbdcZXwGrs1JybR8LnH0P"
+      },
+      "artists": [
+        {
+          "name": "dreyx",
+          "url": "https://open.spotify.com/artist/6KYyEAqF4NYp7i4YrgjHh4"
+        },
+        {
+          "name": "Menor Bronx",
+          "url": "https://open.spotify.com/artist/27vVGBA5f8N22Jmdf8Gs09"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112071,
+      "name": "SHORTY",
+      "url": "https://open.spotify.com/track/6yo7twmT3qR67UBiW9n7j6"
+    },
+    {
+      "album": {
         "name": "Si Preguntan Por Mi (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/676KkvTEOxZB5CZPT9DFiQ"
       },
@@ -14900,7 +15068,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 150692,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/4EEmnPxMY2f1gZtM0mBMBs"
@@ -15676,7 +15844,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 144831,
       "name": "Te damos los 2",
       "url": "https://open.spotify.com/track/1hdNGLhrGOaVMRpIRWbnUF"

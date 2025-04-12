@@ -1,12 +1,12 @@
 {
   "description": "Proudly South African Christian and Gospel music. Cover: \"<a href=https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5?si=opxFUOhAQvaEUbEi8SUXQA>Sneziey</a>\"",
-  "num_followers": 97484,
+  "num_followers": 97525,
   "original_name": "Sunday Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/hb2QAAAADN533vWl7Qw0P/85imqIq4",
+  "snapshot_id": "Z/krpwAAAABOwH3GL0Isp92QXcRzOpqn",
   "tracks": [
     {
       "added_at": "2024-12-20 00:01:09",
@@ -43,6 +43,22 @@
       "duration_ms": 396320,
       "name": "Ebenezer (feat. Yanga Sobetwa)",
       "url": "https://open.spotify.com/track/7IOiIVkaEVSHK03Dy8vzXe"
+    },
+    {
+      "added_at": "2025-04-11 14:48:07",
+      "album": {
+        "name": "Relentless Worship",
+        "url": "https://open.spotify.com/album/0UUpDP655pzpXrQ5VDMKQe"
+      },
+      "artists": [
+        {
+          "name": "Hlengiwe Mhlaba",
+          "url": "https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI"
+        }
+      ],
+      "duration_ms": 355892,
+      "name": "A Friend",
+      "url": "https://open.spotify.com/track/0TU4mBkERL63Bq6m3w3iYN"
     },
     {
       "added_at": "2024-08-16 00:01:00",
@@ -1787,22 +1803,6 @@
       "duration_ms": 341053,
       "name": "Jehova Retshepile Wena",
       "url": "https://open.spotify.com/track/3NIngZRxMFF6OX4um51JMB"
-    },
-    {
-      "added_at": "2024-11-08 00:01:00",
-      "album": {
-        "name": "O Mohau (Live)",
-        "url": "https://open.spotify.com/album/33vVlK1TkmRsDVluVwB7kM"
-      },
-      "artists": [
-        {
-          "name": "TSHEPO LEBEPE",
-          "url": "https://open.spotify.com/artist/06PQeyGH37N3e3SAxwJ3LG"
-        }
-      ],
-      "duration_ms": 557012,
-      "name": "O Mohau - Live",
-      "url": "https://open.spotify.com/track/6h4NUWNeTXkL4F9ffANek1"
     }
   ],
   "unique_name": "Sunday Praise",

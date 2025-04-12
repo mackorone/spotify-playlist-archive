@@ -4,7 +4,7 @@
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: PARTYNEXTDOOR & Drake
 
-684 songs - 1 day 10 hr 26 min
+685 songs - 1 day 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,7 +348,7 @@
 | [Love is...](https://open.spotify.com/track/6lTwy0Ri81LRujvv5mEHTg) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Love is…](https://open.spotify.com/album/44RXQpK6HvYlqO6EtQydpg) | 3:50 | 2022-07-15 | 2023-02-25 |
 | [LOVE MAKE](https://open.spotify.com/track/308zMDLftUjMlZkODGUWvd) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [LOVE MAKE](https://open.spotify.com/album/7ksQrL66SNuch6lmxIlVzJ) | 3:34 | 2024-08-02 |  |
 | [Love Me](https://open.spotify.com/track/2PxUUGpUBoHcDUrPKNstTE) | [YXNG K.A](https://open.spotify.com/artist/3BBujITyfgwyXTQliFzUNH) | [Love Me](https://open.spotify.com/album/0TUe5E3BQ38hBXglAijbNx) | 2:26 | 2021-12-03 | 2022-05-07 |
-| [Love Me Love Me Not](https://open.spotify.com/track/4ej5Nq2vMdokIn9szHWFVE) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Love Me Love Me Not](https://open.spotify.com/album/4TbXpEJfDVwiYx55IPGTp4) | 4:39 | 2025-03-28 |  |
+| [Love Me Love Me Not](https://open.spotify.com/track/4ej5Nq2vMdokIn9szHWFVE) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Love Me Love Me Not](https://open.spotify.com/album/4TbXpEJfDVwiYx55IPGTp4) | 4:39 | 2025-03-28 | 2025-04-12 |
 | [Love You](https://open.spotify.com/track/5xDAPu0xNFVJo299H3Tave) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Love You](https://open.spotify.com/album/6aXGoSmHmnzD40uGLCOGQA) | 3:02 | 2025-02-21 | 2025-03-22 |
 | [LOVE YOU BETTER](https://open.spotify.com/track/4XJRpBOG0bU3Nxnvam3FnC) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 2:09 | 2022-04-29 | 2023-06-07 |
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-11-10 | 2024-01-13 |
@@ -388,6 +388,7 @@
 | [MY FAVORITE \(WITH KALAN.FRFR\)](https://open.spotify.com/track/0lnHPQn99YC9uwTvC2OKS5) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [JUST RE'D UP 3](https://open.spotify.com/album/2qkZWTL0e6lDon20SCiP69) | 3:43 | 2024-08-16 | 2024-09-14 |
 | [My Go To \(feat\. Kehlani\)](https://open.spotify.com/track/17GwUSpTy04lYWHHmwMvTD) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 3:23 | 2022-08-06 | 2023-02-25 |
 | [MY HOOD](https://open.spotify.com/track/7jckIkISwJfBgYg5dg6sc1) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [LUCKY HER](https://open.spotify.com/album/5BaJj4HPomjWHoKJCv2C17) | 2:15 | 2024-12-20 | 2025-03-22 |
+| [n da morning](https://open.spotify.com/track/2BcLIOfKXWk7mz5HSyhAKO) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [n da morning](https://open.spotify.com/album/3dPpOhzZ93SSz2E5qD47HR) | 2:11 | 2025-04-11 |  |
 | [N o C h i l l](https://open.spotify.com/track/1zhMHgotgZXkLCXpqNRnPK) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 4:25 | 2024-04-26 |  |
 | [Naked \(feat\. Latto\)](https://open.spotify.com/track/4aQNaW6LKNMa0FEToHWSmc) | [2FeetBino](https://open.spotify.com/artist/5sw4vau0N1fwalr2ACVN9M), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Naked \(feat\. Latto\)](https://open.spotify.com/album/28TW8LGKtoq5vu9h8UYcLM) | 2:54 | 2022-06-03 | 2022-07-30 |
 | [Nasty](https://open.spotify.com/track/0WlotBaAKbCwFTRnrypGpu) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nasty](https://open.spotify.com/album/4vP2T7n2mNQlyib3eMGjbO) | 3:28 | 2022-12-16 | 2023-02-18 |

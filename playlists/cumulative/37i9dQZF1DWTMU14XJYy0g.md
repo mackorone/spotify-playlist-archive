@@ -2,9 +2,9 @@
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Más vivo que nunca, más nuestro que siempre\. Foto: Airbag.
+> Más vivo que nunca, más nuestro que siempre 📸 Marilina Bertoldi.
 
-369 songs - 22 hr 57 min
+370 songs - 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Arañas Bebé](https://open.spotify.com/track/5ftNxlkQO9WD9yKWn8K60f) | [Richard Coleman](https://open.spotify.com/artist/6Hngy3cPnHG2DO493ZxSya), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Arañas Bebé](https://open.spotify.com/album/295GI99A9OkBbikjcuNavc) | 3:50 | 2023-11-10 | 2024-02-10 |
 | [Arte Arte Arte](https://open.spotify.com/track/2rfxEjASx8ppSSn2aQUwQG) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [El Final de Las Cosas](https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv) | 3:34 | 2023-06-16 | 2024-04-06 |
 | [Ataque de Nervios](https://open.spotify.com/track/5ohwtgVYVXy9nOc7J9h5ab) | [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Ataque de Nervios](https://open.spotify.com/album/0oXboB0KtD8JPyMgY5SNYj) | 3:31 | 2022-06-24 | 2022-12-17 |
+| [AUTOESTIMA](https://open.spotify.com/track/5eIMsg846G1fgvJR3tkJOK) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [AUTOESTIMA](https://open.spotify.com/album/2WIPTovvQmyBCVLBIouNOv) | 2:57 | 2025-04-11 |  |
 | [Azúcar Impalpable](https://open.spotify.com/track/48nLgkR14oklsdfjN6wGsl) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [2020](https://open.spotify.com/album/1gYS9ESTHondssy51aBUPK) | 4:26 | 2022-06-24 | 2023-09-27 |
 | [Bailando](https://open.spotify.com/track/5Ma7gdR26nKGwGPOVobufm) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [ADN \(Capítulo D\)](https://open.spotify.com/album/2AFeBZRa2auMfG0RDrbBu1) | 3:49 | 2022-06-24 | 2023-03-18 |
 | [Bigote](https://open.spotify.com/track/1UH9NTgFF6woodUUm8uqPF) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Bigote](https://open.spotify.com/album/45lR1Wb5koRQjb0P0WoRkL) | 3:31 | 2024-09-12 | 2024-10-19 |
@@ -285,7 +286,7 @@
 | [Prendido Fuego](https://open.spotify.com/track/0h8P7C86KyfkjnqC4TaDhC) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Suenan Las Alarmas](https://open.spotify.com/album/5j5VrewC19P5osNjNanIu6) | 4:17 | 2022-06-24 | 2022-11-12 |
 | [Pretenden](https://open.spotify.com/track/0mWsrwWZXW49QXABIg3Qg2) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Días por Venir](https://open.spotify.com/album/1FYgkh7jHejtb5ADq49jeD) | 3:26 | 2022-06-24 | 2023-06-01 |
 | [Pulpo](https://open.spotify.com/track/2VyySCdsyFL2Q0f6oiERG1) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [CORRENTADA](https://open.spotify.com/album/3yWOpyyG9Plm2O1Y7uD4Gh) | 4:31 | 2024-06-14 | 2024-12-28 |
-| [Pupilas Lejanas](https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Pupilas Lejanas](https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn) | 3:46 | 2022-06-24 |  |
+| [Pupilas Lejanas](https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Pupilas Lejanas](https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn) | 3:46 | 2022-06-24 | 2025-04-12 |
 | [Que Hable de Vos](https://open.spotify.com/track/1kfM4ZZgDUND726SNezoFM) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [La Nube Rosa](https://open.spotify.com/album/1Sf4010TDLEZ5yeCPJ0GJM) | 3:05 | 2022-06-24 | 2022-12-17 |
 | [Que Sigas Bien](https://open.spotify.com/track/3BWUc9emQ4e1SglwrkBMtR) | [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [Cada Segundo Dura Una Eternidad](https://open.spotify.com/album/456MmGpEpuDN6zIeSYgr99) | 3:43 | 2022-12-16 | 2023-04-15 |
 | [QUEMARÁS](https://open.spotify.com/track/43WrAH7AnSucEvN7HGW0BF) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [QUEMARÁS](https://open.spotify.com/album/2nLlI9VteZMztr78YS9DHo) | 4:23 | 2024-03-22 |  |

@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Angels by Your Side",
+        "url": "https://open.spotify.com/album/3lcqm7ansmMjDzDFvEXp0Y"
+      },
+      "artists": [
+        {
+          "name": "Niels Olaf",
+          "url": "https://open.spotify.com/artist/67wAX23O6iI5YrZKU1f6xq"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130304,
+      "name": "Angels by Your Side",
+      "url": "https://open.spotify.com/track/2q4UvwPagWVGR7DHiroZvK"
+    },
+    {
+      "album": {
         "name": "Five Little Monkeys",
         "url": "https://open.spotify.com/album/4ijvU9elNltEYZ2xPhEgkP"
       },
@@ -88,7 +106,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 152633,
       "name": "Baby Mine",
       "url": "https://open.spotify.com/track/045JBbRNQtCgJEz1Xclt1A"
@@ -383,6 +401,42 @@
     },
     {
       "album": {
+        "name": "Jolly Lolly Lullaby",
+        "url": "https://open.spotify.com/album/1MO41v3H6PGBASqILBOWyt"
+      },
+      "artists": [
+        {
+          "name": "Elio Rowan",
+          "url": "https://open.spotify.com/artist/3NHYEXDCroGix134Qit5nm"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136452,
+      "name": "Jolly Lolly Lullaby",
+      "url": "https://open.spotify.com/track/0diZ2SjV238ZEGrbNL0Azf"
+    },
+    {
+      "album": {
+        "name": "Little Baby Ducklings",
+        "url": "https://open.spotify.com/album/3EE16BRJwjGVqGVPOymGBE"
+      },
+      "artists": [
+        {
+          "name": "Dario Shapovalov",
+          "url": "https://open.spotify.com/artist/5IiM3bHYdhRllM54ckCFCI"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71529,
+      "name": "Little Baby Ducklings",
+      "url": "https://open.spotify.com/track/6SAU1mrorCOmFBVhQBFkXy"
+    },
+    {
+      "album": {
         "name": "Piano Hits Chill",
         "url": "https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS"
       },
@@ -434,6 +488,24 @@
       "duration_ms": 171055,
       "name": "Lucid Dreams",
       "url": "https://open.spotify.com/track/6t4wvXs57U4Z0SusITrHwk"
+    },
+    {
+      "album": {
+        "name": "Minuet for Fairies",
+        "url": "https://open.spotify.com/album/4XDBqV8q9Cd9bx8bB1VkVp"
+      },
+      "artists": [
+        {
+          "name": "William Bonn",
+          "url": "https://open.spotify.com/artist/77dsYvwvqG93BJw7uN15VO"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144733,
+      "name": "Minuet for Fairies",
+      "url": "https://open.spotify.com/track/31RKwxKKutUwW9RABYOVdc"
     },
     {
       "album": {
@@ -502,7 +574,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 207777,
       "name": "Redemption Song (Originally Performed by Bob Marley) [Lullaby Version]",
       "url": "https://open.spotify.com/track/5JS1BSAn0apNtA5fumhEuK"
@@ -592,7 +664,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 234376,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/19pOWdI17nYv5WidFpNzOS"
@@ -826,7 +898,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 238336,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/5vseZ4w5oHb6uNsR7dHSj0"

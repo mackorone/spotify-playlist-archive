@@ -1,13 +1,133 @@
 {
-  "description": "New jazz for open minds. Cover: Hiromi",
-  "num_followers": 950721,
+  "description": "New jazz for open minds. Cover: Brandon Woody",
+  "num_followers": 950876,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+9cswAAAAA6NaQIMMJLFwjLFd59zSxy",
+  "snapshot_id": "Z/iT1QAAAABYh8wsEkQ3wAhXORbUOMYc",
   "tracks": [
+    {
+      "added_at": "2025-04-11 04:00:21",
+      "album": {
+        "name": "Ones & Twos",
+        "url": "https://open.spotify.com/album/4nRENY6OH6RHFGrf1RthCW"
+      },
+      "artists": [
+        {
+          "name": "Gerald Clayton",
+          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
+        }
+      ],
+      "duration_ms": 155665,
+      "name": "For Peace",
+      "url": "https://open.spotify.com/track/6G1GqXDerrlSOmsmt35kCW"
+    },
+    {
+      "added_at": "2025-04-11 04:00:21",
+      "album": {
+        "name": "Never Gonna Run Away",
+        "url": "https://open.spotify.com/album/4xAF93ZUI039czCKnAfOUN"
+      },
+      "artists": [
+        {
+          "name": "Brandon Woody",
+          "url": "https://open.spotify.com/artist/64f5OrVcRZ4A23TjV3SE4t"
+        }
+      ],
+      "duration_ms": 411866,
+      "name": "Never Gonna Run Away",
+      "url": "https://open.spotify.com/track/2RUkEfB3wBU0fXhK1E0zZl"
+    },
+    {
+      "added_at": "2025-04-11 04:00:21",
+      "album": {
+        "name": "Lazarus (Adult Swim Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/5gD3tPSWfnzu1XWpKwiB0o"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "duration_ms": 317789,
+      "name": "Lazarus",
+      "url": "https://open.spotify.com/track/19dE30ZT2bz0yp2HAI57Yx"
+    },
+    {
+      "added_at": "2025-04-11 04:00:21",
+      "album": {
+        "name": "Driva'man",
+        "url": "https://open.spotify.com/album/0ZYFvBgMpkydHgcxUDtZ7t"
+      },
+      "artists": [
+        {
+          "name": "Terri Lyne Carrington",
+          "url": "https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP"
+        },
+        {
+          "name": "Christie Dashiell",
+          "url": "https://open.spotify.com/artist/0pCSsBZJDATr8NUe9Agcth"
+        },
+        {
+          "name": "Weedie Braimah",
+          "url": "https://open.spotify.com/artist/0gNcTRfbjxxOdXxSCoXluo"
+        },
+        {
+          "name": "Milena Casado",
+          "url": "https://open.spotify.com/artist/6i3BwCBGwY56yDLDoNlbyD"
+        },
+        {
+          "name": "Morgan Guerin",
+          "url": "https://open.spotify.com/artist/17j0vWqj5tc8GO1U3izp8d"
+        },
+        {
+          "name": "Simon Moullier",
+          "url": "https://open.spotify.com/artist/32g82EyGbUbyC2tpM8He5b"
+        },
+        {
+          "name": "Matthew Stevens",
+          "url": "https://open.spotify.com/artist/7z1PSpsIyAeniOOtaQ1iYa"
+        }
+      ],
+      "duration_ms": 498120,
+      "name": "Driva'man",
+      "url": "https://open.spotify.com/track/1BlIozK0n4A3aEnMj7iLds"
+    },
+    {
+      "added_at": "2025-04-11 04:00:21",
+      "album": {
+        "name": "Sweetie",
+        "url": "https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 244049,
+      "name": "Sweetie",
+      "url": "https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9"
+    },
+    {
+      "added_at": "2025-04-11 04:00:21",
+      "album": {
+        "name": "Cured and Seasoned",
+        "url": "https://open.spotify.com/album/0wEJ5u2HJhHjIjbmZ9Nf9S"
+      },
+      "artists": [
+        {
+          "name": "Cyrus Chestnut",
+          "url": "https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO"
+        }
+      ],
+      "duration_ms": 332796,
+      "name": "Cured and Seasoned",
+      "url": "https://open.spotify.com/track/10KiENSIfqeQaSIfjPUeKD"
+    },
     {
       "added_at": "2025-04-04 04:00:20",
       "album": {
@@ -63,22 +183,6 @@
       "duration_ms": 264546,
       "name": "Capistrano Swallow",
       "url": "https://open.spotify.com/track/6Yhq98gHloTyhi7nKOAb0s"
-    },
-    {
-      "added_at": "2025-03-21 04:00:40",
-      "album": {
-        "name": "Cinnamon Sugar",
-        "url": "https://open.spotify.com/album/0AKE38yZJRUY1NU8CuRwuD"
-      },
-      "artists": [
-        {
-          "name": "Gerald Clayton",
-          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
-        }
-      ],
-      "duration_ms": 255252,
-      "name": "Cinnamon Sugar",
-      "url": "https://open.spotify.com/track/0Ygo8zBNVoi6KQm6ZjvAmZ"
     },
     {
       "added_at": "2025-04-04 04:00:20",
@@ -595,22 +699,6 @@
     {
       "added_at": "2025-02-28 05:00:40",
       "album": {
-        "name": "Real Love, Pt. 1",
-        "url": "https://open.spotify.com/album/3WDDVFxPaLTjG0S85TAXni"
-      },
-      "artists": [
-        {
-          "name": "Brandon Woody",
-          "url": "https://open.spotify.com/artist/64f5OrVcRZ4A23TjV3SE4t"
-        }
-      ],
-      "duration_ms": 456493,
-      "name": "Real Love Pt. 1",
-      "url": "https://open.spotify.com/track/0UTbaPQVeUykUEYfLST93z"
-    },
-    {
-      "added_at": "2025-02-28 05:00:40",
-      "album": {
         "name": "EVERYDAY",
         "url": "https://open.spotify.com/album/7MGQ30eNUS8DqLKQdH2zTi"
       },
@@ -1071,26 +1159,6 @@
       "duration_ms": 250769,
       "name": "RASTA PASTA (ft. Masego)",
       "url": "https://open.spotify.com/track/6jmc9xnc6QdM5x2Uj04T6m"
-    },
-    {
-      "added_at": "2023-11-10 05:01:00",
-      "album": {
-        "name": "Marking My Time (BADBADNOTGOOD Edit)",
-        "url": "https://open.spotify.com/album/0g9kK2Bttr5JjicLzIQdYz"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 252503,
-      "name": "Marking My Time - BADBADNOTGOOD Edit",
-      "url": "https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i"
     },
     {
       "added_at": "2025-01-24 05:00:29",
@@ -1567,50 +1635,6 @@
       "duration_ms": 265744,
       "name": "Gretel - Bonus Version",
       "url": "https://open.spotify.com/track/01zK7kTBxFjN3wKQjqXF6A"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Three Piece Suit (feat. Azekel)",
-        "url": "https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        },
-        {
-          "name": "Azekel",
-          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
-        }
-      ],
-      "duration_ms": 276733,
-      "name": "Three Piece Suit (feat. Azekel)",
-      "url": "https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Get Lit",
-        "url": "https://open.spotify.com/album/5RanHiETaj1Cd50lUxCbde"
-      },
-      "artists": [
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "George Clinton",
-          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
-        },
-        {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
-        }
-      ],
-      "duration_ms": 206397,
-      "name": "Get Lit",
-      "url": "https://open.spotify.com/track/22U208xCU1Vhw7jVlhnMZu"
     },
     {
       "added_at": "2024-07-26 04:00:00",

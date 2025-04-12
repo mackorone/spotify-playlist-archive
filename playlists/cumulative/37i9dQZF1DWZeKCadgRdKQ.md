@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient electric guitar.
 
-857 songs - 1 day 19 hr 46 min
+863 songs - 1 day 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Another Paradise](https://open.spotify.com/track/4wO3UB5XHF7UjpTcZIASwy) | [Perseus](https://open.spotify.com/artist/4blTYEYufm69zg2U7ruiDm) | [Another Paradise](https://open.spotify.com/album/6XYR0GcxVOryzNqppnoxBv) | 2:45 | 2024-05-11 |  |
 | [Any Given Place](https://open.spotify.com/track/2WltUi1jhpoiksDrlJUBlr) | [Of Water](https://open.spotify.com/artist/0vrr0Uu8SDXaogmsFovyC2) | [Beyond Exploding Stars](https://open.spotify.com/album/1eiqm039IN4hvY85s8VgQP) | 3:04 | 2019-05-26\* | 2020-04-13 |
 | [Anything You Synthesize \- Ambient](https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 4:08 | 2019-05-26\* | 2020-01-03 |
+| [Anytime](https://open.spotify.com/track/2H92Qx4W2la2tbRBHdlw7X) | [Teyio River](https://open.spotify.com/artist/6nAbxVAvyaqe1OUdmlW0hO) | [Anytime](https://open.spotify.com/album/3SBu0q3AiDUbGCwCLQcBc4) | 2:10 | 2025-04-11 |  |
 | [Anytime](https://open.spotify.com/track/2OYda4XgQRSNIvWY6XKoXr) | [Teyio River](https://open.spotify.com/artist/6nAbxVAvyaqe1OUdmlW0hO) | [Anytime](https://open.spotify.com/album/1PBYRBcLQCVxIrlmKC828J) | 2:10 | 2025-03-14 |  |
 | [Anywhere](https://open.spotify.com/track/0Z6rJpDXDZoLKoVcE0ubdj) | [Ciel](https://open.spotify.com/artist/0i33HVwcdV58Ci5dI7cfjx) | [Anywhere](https://open.spotify.com/album/3qa4lXrx6gJyhtcvoXLSOC) | 3:30 | 2025-02-28 | 2025-04-02 |
 | [apple of my eye](https://open.spotify.com/track/6obsAYZi05zj2412g9UsGJ) | [Spaced Out Dreams](https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha) | [apple of my eye](https://open.spotify.com/album/2DCZOJBOiKA7VZDNyXuwl0) | 2:29 | 2022-11-11 | 2023-09-26 |
@@ -170,6 +171,7 @@
 | [Crossing](https://open.spotify.com/track/08Q4GyxnB8ak1ZwHnjwova) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Crossing](https://open.spotify.com/album/3FljiBhzr6zWL9zymtBkpV) | 2:33 | 2020-08-07 | 2021-10-21 |
 | [Crossroads](https://open.spotify.com/track/7oVpG07XJA05lp2Qd4pUL4) | [Özone One](https://open.spotify.com/artist/4OCpAOPZviS8AW5gyBNn26) | [Crossroads](https://open.spotify.com/album/1zqIwHpETyHuwb92VSJYhq) | 2:10 | 2025-01-21 |  |
 | [Crystal Shores](https://open.spotify.com/track/0gUAGl4nHShy1dzHikQKKU) | [Dean Valio](https://open.spotify.com/artist/5eLXROpXyDsljbkItKaQxc) | [Crystal Shores](https://open.spotify.com/album/06r3HcyF5QIGmEafU1R4mW) | 2:50 | 2019-06-19\* | 2024-03-27 |
+| [Crystal Silence](https://open.spotify.com/track/2fgS52kJs8brDCCL4fffvj) | [Tranquil Oasis](https://open.spotify.com/artist/31pLNmCY9ScYFahS0Qa448) | [Crystal Silence](https://open.spotify.com/album/4qyWpsjQW9HlMD5oObtN8A) | 2:24 | 2025-04-11 |  |
 | [Crystals](https://open.spotify.com/track/4gAlANEHRk0T04OKXNc9vy) | [Sun Of They](https://open.spotify.com/artist/5zmB7dGi1rKdsEYVxQvJpS) | [Crystals](https://open.spotify.com/album/4XWBq2360Qnchs9jfzm0bu) | 3:02 | 2023-04-21 | 2024-08-21 |
 | [Curiosity](https://open.spotify.com/track/3WEdWvAScE1EcBfErseQnC) | [Beau Projet](https://open.spotify.com/artist/5bLGj9jAzmBqGwjB2UbjOC) | [Curiosity](https://open.spotify.com/album/5FbnGcGNWnjufAuOrXss3k) | 2:35 | 2019-06-19\* | 2024-03-27 |
 | [Curious Morning](https://open.spotify.com/track/5lZyYNi8OfFWKiX1p9zDQP) | [Michael Orvind](https://open.spotify.com/artist/5T6TsN3w0beYOD37SZqb6n) | [Curious Morning](https://open.spotify.com/album/4XJCJP5JB80dwJKDt0rlpN) | 3:02 | 2020-08-07 | 2023-04-29 |
@@ -190,6 +192,7 @@
 | [Deserts](https://open.spotify.com/track/4WCQ7UciC6Auy2DqruqVK1) | [Lost Horse Mine](https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV) | [Deserts](https://open.spotify.com/album/5ucdUmYO7HwdoHCiJwsdro) | 2:47 | 2019-06-19\* | 2019-06-27 |
 | [Devotion](https://open.spotify.com/track/4SdfvnH0muFlUQpBtwQ3WM) | [Wilfred Fredig](https://open.spotify.com/artist/4hTrnME7WOKqbnIfRiu01m) | [Devotion](https://open.spotify.com/album/5Iy31GrLevTAdBzULDvi3c) | 2:30 | 2025-02-28 |  |
 | [Dig Deeper](https://open.spotify.com/track/41GmT2g8MpZ5F9IKbzVAc8) | [Dreams Ahead](https://open.spotify.com/artist/6JHr6WrfMhJNTpJ1smiQXy) | [Dig Deeper](https://open.spotify.com/album/2Z9QI0F8PmKk42xrUgd75H) | 2:19 | 2023-01-20 | 2023-09-26 |
+| [Direction Home](https://open.spotify.com/track/6LomcpbUmzLWYFLm7gz9zJ) | [Køsk Skriner](https://open.spotify.com/artist/373GwyozV3SJ9WC59MtwZu) | [Direction Home](https://open.spotify.com/album/1baYCQh0no9F6r97w1Tema) | 2:55 | 2025-04-11 |  |
 | [Displace](https://open.spotify.com/track/4PSh6Xs1SIXT6JEAz8QGYk) | [Oblivion](https://open.spotify.com/artist/5bay23a7lnykOEQWt7FVnQ) | [Displace](https://open.spotify.com/album/0T0ham97bER92N0nshZX97) | 2:20 | 2024-03-08 | 2025-01-22 |
 | [Display](https://open.spotify.com/track/2zQQDwkqV1PdM7nBtMMpC7) | [Theo Ember](https://open.spotify.com/artist/5D2aedk5p3rkUVfU4c72uR) | [Display](https://open.spotify.com/album/3vhOnEjTegpjgr3Yx3N8tS) | 2:09 | 2024-11-21 |  |
 | [Distance](https://open.spotify.com/track/0fOzbcpxqSgX5KhLwfdGyi) | [Ben Tofft](https://open.spotify.com/artist/5A2sXpZZ3Es4AgRGrJACy9) | [Distance](https://open.spotify.com/album/7qeg8IOdHoPpAhhvoOp1pp) | 2:11 | 2023-03-31 | 2025-03-01 |
@@ -197,6 +200,7 @@
 | [Distant Star](https://open.spotify.com/track/1J0hsOJoJA2GuY1Yd08owz) | [Noonie Moon](https://open.spotify.com/artist/2RXwgNtFF0mBC58e97XaWf) | [Distant Star](https://open.spotify.com/album/5SdsLcQdZWrGwxd5DXczl3) | 1:55 | 2023-06-09 | 2023-07-29 |
 | [Do Not Disturb](https://open.spotify.com/track/3fVcruTmO0d34kf4uWCHJM) | [Louaminé](https://open.spotify.com/artist/6ZuFc28ghG17tRPI8ZNpTF) | [Do Not Disturb](https://open.spotify.com/album/6WIIXPw29rlzpkfuUrgqEk) | 2:28 | 2023-10-13 | 2025-01-22 |
 | [Don't Overthink It](https://open.spotify.com/track/3Z8A3zCnfZDoqMY6vItgO3) | [Stellar Luminous](https://open.spotify.com/artist/1dgWSlkCY69O3oTa1u6vKN) | [Don't Overthink It](https://open.spotify.com/album/2m3jQNEnuBC2smhB3AviZq) | 2:26 | 2024-08-20 |  |
+| [Dream Big](https://open.spotify.com/track/0rItgiypLLHcnnukNt5IlP) | [Aiden Archer](https://open.spotify.com/artist/3VgNLAQtZ0NxQLpZJSGFmE) | [Dream Big](https://open.spotify.com/album/10sJtlnoquX1DdRbtroHGz) | 2:14 | 2025-04-11 |  |
 | [Dream Circuit](https://open.spotify.com/track/2q8C32OjwpC9NGIa7ER2yK) | [Focal Point](https://open.spotify.com/artist/7EiXe0WQwW2YpTJPEqOZ68) | [Dream Circuit](https://open.spotify.com/album/32sWGjAHu2Bdotu9nFBI3N) | 3:02 | 2021-05-06 | 2024-05-12 |
 | [Dreamer](https://open.spotify.com/track/50hHPg38rkdXLh62wvY9t3) | [Lany Mokita](https://open.spotify.com/artist/5A9ZWS5PafMTvNvLdKC8zB) | [Dreamer](https://open.spotify.com/album/0gKf5xJrxJWWe26hKbSC6M) | 2:21 | 2024-05-11 |  |
 | [Dreamer](https://open.spotify.com/track/4AAXA43eClFFWQlEeQzC00) | [Ygor Ghensev](https://open.spotify.com/artist/5FHJm3dEZHSfQiENxhwkEO) | [Dreamer](https://open.spotify.com/album/5HPGRNcEd5ZXS8HZnknFNo) | 2:38 | 2021-01-21 | 2024-05-12 |
@@ -659,6 +663,7 @@
 | [Soft Upon Your Face](https://open.spotify.com/track/49LQIdr4hToVH3JdvzTQYC) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Paper Thin Reality](https://open.spotify.com/album/177eLIIJkUNlLVYqxxfPCO) | 3:14 | 2019-06-19\* | 2022-07-29 |
 | [Solar](https://open.spotify.com/track/2QFkWZArmWfAwDHHkkKYaV) | [Agnes Lundh](https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt) | [Solar](https://open.spotify.com/album/5IUKS8HMNHSKWEkrkPDLZq) | 3:04 | 2023-09-15 | 2024-03-09 |
 | [Solar Mass](https://open.spotify.com/track/0HgUXqHkrnXpbBRcYQFPMT) | [Rhyaene](https://open.spotify.com/artist/3WurHi3n5QAFKgAr3kf83A) | [Solar Mass](https://open.spotify.com/album/4XyHlDzk3vZwq213nOL1ir) | 2:06 | 2025-01-21 |  |
+| [Solar Senses](https://open.spotify.com/track/76tMf8bY8kjwFIsLX3y7Fr) | [Et Anima](https://open.spotify.com/artist/7Kcqklak49OlFwxufWq948) | [Solar Senses](https://open.spotify.com/album/4G4lXnQl81kPo71cVzHll3) | 2:11 | 2025-04-11 |  |
 | [Solatium](https://open.spotify.com/track/4br0nM6NdvDKMJgLj44foR) | [Imber Sun](https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X) | [Solatium](https://open.spotify.com/album/5ZHBmc04tDmr7TZcbWZVOw) | 2:06 | 2022-07-27 | 2023-09-27 |
 | [Solitude](https://open.spotify.com/track/2QerGrNeDLsJgMqpIRhjih) | [Isobel Belano](https://open.spotify.com/artist/2seiab24QmTzU4XTr1rjhV) | [Solitude](https://open.spotify.com/album/7srh64CFgzsCOIToYhCusB) | 2:44 | 2020-01-03 | 2021-09-21 |
 | [Someday](https://open.spotify.com/track/5zOetBDO9NONS4KnIBXtnx) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [Chapter I](https://open.spotify.com/album/4lGIi8xhiVxxvpYmuXW2WD) | 4:48 | 2019-12-11 | 2022-10-15 |
@@ -698,6 +703,7 @@
 | [Sunset Lake](https://open.spotify.com/track/2xqU2c2BdHhKpDMHCK8I2f) | [Stellar Luminous](https://open.spotify.com/artist/1dgWSlkCY69O3oTa1u6vKN) | [Sunset Lake](https://open.spotify.com/album/0uvhMpXODkLIPRkRpujnu9) | 2:14 | 2024-07-14 |  |
 | [Supernovas](https://open.spotify.com/track/60pJo7veaWc8yLHYyFfnB2) | [William Roud](https://open.spotify.com/artist/0KhhuDNDaeL6SOVM6K6Lt1) | [Supernovas](https://open.spotify.com/album/6ue3ZpkjQ2A4IwCgeq4MJR) | 3:02 | 2019-05-26\* | 2020-08-07 |
 | [Suspended Belief](https://open.spotify.com/track/4MpFWA4sVQYVlEsZCWeHU3) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [Expansion](https://open.spotify.com/album/2mCu9wgBh9IYpDrTwJVnse) | 2:58 | 2019-06-19\* | 2020-10-08 |
+| [Sustainable](https://open.spotify.com/track/4bA8sob1x8iLZJVMbVVetn) | [Gabriel Stone](https://open.spotify.com/artist/2n5cofsnSYMHUF8C9TmIA1) | [Sustainable](https://open.spotify.com/album/10IfJhJYCIexK1MhCKQR3W) | 2:23 | 2025-04-11 |  |
 | [swinging for the fences](https://open.spotify.com/track/4ibnFZ5jTdnyuQO4p7OifJ) | [Dreams Ahead](https://open.spotify.com/artist/6JHr6WrfMhJNTpJ1smiQXy) | [swinging for the fences](https://open.spotify.com/album/3yAVYrjvUOTa3yisFrnEsz) | 2:34 | 2024-06-11 | 2025-02-15 |
 | [synergy](https://open.spotify.com/track/1rpHkU5rHv0aPQwD65Ld1y) | [Dreams Ahead](https://open.spotify.com/artist/6JHr6WrfMhJNTpJ1smiQXy) | [Indigo](https://open.spotify.com/album/3VqCSYcMBzgKhWtlPVbjCN) | 3:04 | 2022-07-08 | 2023-09-26 |
 | [Takeoff](https://open.spotify.com/track/4iKSrwTBu0vLSqmZUXSGXr) | [Silo Silo](https://open.spotify.com/artist/3boXA17PQlju7JHXMHO5xA) | [Takeoff](https://open.spotify.com/album/28DQzrwSKkeHBikKirM1Bh) | 3:14 | 2020-06-19 | 2024-03-27 |

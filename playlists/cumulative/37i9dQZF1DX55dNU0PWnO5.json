@@ -6509,6 +6509,24 @@
     },
     {
       "album": {
+        "name": "R\u00e1pido Brusco Violento",
+        "url": "https://open.spotify.com/album/1PWaXbrpOzSkiTt9T35I9d"
+      },
+      "artists": [
+        {
+          "name": "PANTERA BLUE",
+          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117562,
+      "name": "R\u00e1pido Brusco Violento",
+      "url": "https://open.spotify.com/track/4lLXDC5gji2YTl4FmNO7pc"
+    },
+    {
+      "album": {
         "name": "sa:pass (Edit)",
         "url": "https://open.spotify.com/album/31eWtwXR0GbWcsH645J1FD"
       },
@@ -7422,7 +7440,7 @@
       ],
       "date_added": "2021-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 166448,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/4anRW820fvN0rzBWcae0B5"

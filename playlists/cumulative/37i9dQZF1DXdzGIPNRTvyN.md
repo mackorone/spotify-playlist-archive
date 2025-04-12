@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-306 songs - 14 hr 27 min
+308 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Ekatā / Unity](https://open.spotify.com/track/15VLZBdYtCBfzUStJDVAzm) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Unity](https://open.spotify.com/album/4ugwhuEqJTGi11swTislS2) | 2:57 | 2023-10-26 |  |
 | [Endless Horizon](https://open.spotify.com/track/6zVDXYs5Jp1SI9Aro3A5cf) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Endless Horizon](https://open.spotify.com/album/6cOF3lmkr9yfcMZWdENcEt) | 2:59 | 2023-10-26 |  |
 | [Enigmatic Horizons 432Hz](https://open.spotify.com/track/64bMWsrYB61C7X26uWNSSY) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Enigmatic Horizons 432Hz](https://open.spotify.com/album/7MNM11t6gpm5ozpA2iffcf) | 2:18 | 2024-08-22 |  |
+| [Equanimity](https://open.spotify.com/track/7uAsCKp5rom7rVRKKGsraG) | [Hank Sky](https://open.spotify.com/artist/2OY5PzPmKNjNFgy4QwOPdI) | [Equanimity](https://open.spotify.com/album/3zuWS6ZgMkJQi6cRT8tvp7) | 2:26 | 2025-04-11 |  |
 | [Equilibrium \(432 Hz\)](https://open.spotify.com/track/1OEENaIBAy5lcmVM5Qzrkk) | [Astral Yu](https://open.spotify.com/artist/4T5QX9jKXqbgoXxQ1IlecR) | [Equilibrium \(432 Hz\)](https://open.spotify.com/album/7foHel5iyncJ9SwoaQr2fV) | 2:39 | 2025-04-01 | 2025-04-11 |
 | [Essence of Nature](https://open.spotify.com/track/00DOpzqbE0PBgVnxFIlvVB) | [Iminum](https://open.spotify.com/artist/1xjezEibBtcDRYjpMxXOQX) | [Essence of Nature](https://open.spotify.com/album/5sPBaR7sHLYfp53tlhizVk) | 2:00 | 2025-03-14 |  |
 | [Everyday Wonders & Sunday Mornings](https://open.spotify.com/track/1TBF5kZA7FR0e70lEuyr43) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XXI](https://open.spotify.com/album/3UzefjAhmOfaPoySM0gHR4) | 2:18 | 2023-01-24 | 2024-11-29 |
@@ -93,7 +94,7 @@
 | [Flowing Calm](https://open.spotify.com/track/3FDcmnPJY1V39k54Fy6FxN) | [Joseph Rain](https://open.spotify.com/artist/1YHhB4lSX141uoyd58WoUc) | [Flowing Calm](https://open.spotify.com/album/4JoqWgNsmJ4NUE13A4FDKS) | 2:28 | 2023-09-01 |  |
 | [Flowing Lines](https://open.spotify.com/track/1JHNvy3B6P6YDcVyNnGL7n) | [Miyklo](https://open.spotify.com/artist/2X3Invt8lYGm7czZvFUPCj) | [Flowing Lines](https://open.spotify.com/album/6po1RmrxEF1GvBjCkVgPyO) | 2:35 | 2025-03-14 |  |
 | [Forest Breath](https://open.spotify.com/track/4JHSk6ehy7ztovsUjZAxV9) | [Cerasifera](https://open.spotify.com/artist/6KiFF18YRCbYzhQl5XEY9k) | [Forest Breath](https://open.spotify.com/album/4SCtfrNF8SSagNIYk3b5B7) | 2:41 | 2025-03-14 | 2025-04-02 |
-| [Forest Breath](https://open.spotify.com/track/725gBK4qfI7RizSxTeXduz) | [Lorien Sky](https://open.spotify.com/artist/5CDWDRWvOD7LppgccIL5mC) | [Forest Breath](https://open.spotify.com/album/6mD6RVEoDX5YGzoaCbawzt) | 3:12 | 2025-04-01 |  |
+| [Forest Breath](https://open.spotify.com/track/725gBK4qfI7RizSxTeXduz) | [Lorien Sky](https://open.spotify.com/artist/5CDWDRWvOD7LppgccIL5mC) | [Forest Breath](https://open.spotify.com/album/6mD6RVEoDX5YGzoaCbawzt) | 3:12 | 2025-04-01 | 2025-04-12 |
 | [Forest Dream](https://open.spotify.com/track/3dSrZUj12wbg8N4615IQRR) | [Sacred Bansuri](https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD) | [Forest Dream](https://open.spotify.com/album/2M8KpQdopdn3r8tgG8FOoN) | 2:36 | 2023-07-28 |  |
 | [Forest Harp Dreams 528 Hz](https://open.spotify.com/track/7bRCmNh2cPzxhPskiniGSA) | [Ahti Aeo](https://open.spotify.com/artist/4cSNC9MaebEEZhCv2xjgaO) | [Forest Harp Dreams 528 Hz](https://open.spotify.com/album/0QTRE8RUaMUKnKDL9v3d79) | 2:40 | 2023-12-18 | 2024-12-05 |
 | [Forest of Calm](https://open.spotify.com/track/2YydBkXJxHR9M7H66VaIcX) | [Elvin Malm](https://open.spotify.com/artist/6NKcTiARAryvU82LrRjcY1) | [Forest of Calm](https://open.spotify.com/album/5zDnbDbgHwirFy6Ax5Cw3h) | 3:45 | 2025-02-10 |  |
@@ -103,6 +104,7 @@
 | [Forgotten letters](https://open.spotify.com/track/1ZCeUv9xi2ZPuRbLBXfNaR) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:21 | 2023-01-24 | 2024-04-02 |
 | [Fresh Air](https://open.spotify.com/track/0MUmZdQ9bbmNERdOGWVydX) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Fresh Air](https://open.spotify.com/album/0rwJL6Y78HNXm7CfXhTkOv) | 3:15 | 2024-08-22 |  |
 | [Friður](https://open.spotify.com/track/1rkmSbMTJ4kSNed9O4YwSt) | [Hugleiösla](https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg) | [Friður](https://open.spotify.com/album/4Fu7EYmSZhFNnLEvf4u7VO) | 3:14 | 2023-09-28 |  |
+| [Gentle Awakening](https://open.spotify.com/track/3Nhb2tW6P3QgBosxqmdACc) | [Lush Aura](https://open.spotify.com/artist/0rO9DA4in8mFpPhCTluEMW) | [Gentle Awakening](https://open.spotify.com/album/3orIz0nqcl54GFcbyyYYWJ) | 3:18 | 2025-04-11 |  |
 | [Gentle Reflections](https://open.spotify.com/track/36IHCuPESIozkc5HqauNxl) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Gentle Reflections](https://open.spotify.com/album/685evcbNM8dVvZReGt0RBf) | 3:16 | 2024-03-05 |  |
 | [Gentle Waters](https://open.spotify.com/track/36jA0NyUCPAO56UWWt4s69) | [Joseph Rain](https://open.spotify.com/artist/1YHhB4lSX141uoyd58WoUc) | [Gentle Waters](https://open.spotify.com/album/0jeK1UiDDWXiS0YotgdsG6) | 2:59 | 2024-03-01 |  |
 | [Giolcach Hike](https://open.spotify.com/track/2Kbyyyu0TX1445GXPxjkIe) | [Hilduriam](https://open.spotify.com/artist/2sGWavPR2tKkwpw3a7jBSj) | [Giolcach Hike](https://open.spotify.com/album/1cF88NLnHIC2Uu87EXfEAu) | 3:09 | 2023-10-26 |  |
@@ -110,7 +112,7 @@
 | [Godric](https://open.spotify.com/track/4UzCqaekJitDWMpejVwnZa) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Godric](https://open.spotify.com/album/48nN109FvJCU8OqD7U18wm) | 3:01 | 2023-01-24 | 2024-11-29 |
 | [Gong like wind](https://open.spotify.com/track/2kUDELBLnmtHbhS6I6WYro) | [Auricz](https://open.spotify.com/artist/1PL9QegP0mArHAjJeJDKWN), [Georg Valeks](https://open.spotify.com/artist/0CdgdnjNOILlUCUFx0JfWS) | [Gong like wind](https://open.spotify.com/album/28HuOj4SnAEmTtECUqoxbD) | 3:12 | 2024-01-30 |  |
 | [Grounding Springs](https://open.spotify.com/track/3srrw4VMffkHy5xyVS0xIK) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Grounding Springs](https://open.spotify.com/album/7G5UgVeeGvUCn1fmuMltil) | 2:54 | 2024-04-01 |  |
-| [Grow, My Dear](https://open.spotify.com/track/5CRZJDlRrjmWXVmnhFHcQY) | [Felix Dekker](https://open.spotify.com/artist/0mUCh5H0yIr67MM7lPq3kL) | [Grow, My Dear](https://open.spotify.com/album/60IN9Im3JUIoN2YGAnMhvs) | 2:57 | 2025-04-01 |  |
+| [Grow, My Dear](https://open.spotify.com/track/5CRZJDlRrjmWXVmnhFHcQY) | [Felix Dekker](https://open.spotify.com/artist/0mUCh5H0yIr67MM7lPq3kL) | [Grow, My Dear](https://open.spotify.com/album/60IN9Im3JUIoN2YGAnMhvs) | 2:57 | 2025-04-01 | 2025-04-12 |
 | [Growing Tall](https://open.spotify.com/track/5Icz0gJeaDlMBUQLOcBDPV) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [Growing Tall](https://open.spotify.com/album/43g1BdXllghZAwj2t4Mhjo) | 4:20 | 2023-04-06 | 2024-06-04 |
 | [Haamesha Flow](https://open.spotify.com/track/4xI5sTLf0MV5fS4NDWjXbV) | [Inner Versum](https://open.spotify.com/artist/1DDrPd2XA55nmMZ04syZvY) | [Haamesha](https://open.spotify.com/album/4qoCXSnaEXrcewdMwokCCI) | 3:22 | 2023-12-18 | 2024-01-19 |
 | [Halcyon River](https://open.spotify.com/track/54fAW6nglw7I5bjyeOcka4) | [Mairana](https://open.spotify.com/artist/6gySgP4653N5ZgbBcikirP) | [Halcyon River](https://open.spotify.com/album/0mAEvAFeCwBYKxZNd9V1lz) | 2:43 | 2023-03-13 | 2023-03-21 |

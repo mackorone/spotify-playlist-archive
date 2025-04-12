@@ -4,7 +4,7 @@
 
 > Música groovera, for the true Funk Soldiers!
 
-151 songs - 9 hr 52 min
+152 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Lightning](https://open.spotify.com/track/00FsHXEI0mghYOXWCxLenP) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Guacamole](https://open.spotify.com/album/3raZcKrCjK3p09mhwHw52N) | 4:39 | 2023-02-17 | 2023-09-21 |
 | [Lightning](https://open.spotify.com/track/3LBvCd7GSvDJYxeJpgcuAu) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Guacamole](https://open.spotify.com/album/0gWvcOPucxJeLFuMuTzTUl) | 4:39 | 2023-09-07 | 2024-04-19 |
 | [Liviano Como el Viento](https://open.spotify.com/track/3rtUCQlFu2MUoiqiLB4tGR) | [De Kiruza](https://open.spotify.com/artist/4xH9kppPFTwGTtty82ZDfX) | [Musica Pa'l Mundo](https://open.spotify.com/album/1fFE1eKtIxh4ILklmzLoiv) | 4:53 | 2023-02-17 |  |
+| [LOVE BUSINESS](https://open.spotify.com/track/0vIXs6yeaiWxNiu3Rh59ym) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [LOVE BUSINESS](https://open.spotify.com/album/5dXTa851mvVhUI4nnK7gaA) | 3:14 | 2025-04-11 |  |
 | [Mangangá](https://open.spotify.com/track/23Firc4ap4pJ9oCtWQhX8X) | [La Kimbo](https://open.spotify.com/artist/0XEZdz1rJKvQn1ud88fxLm) | [Parasacalapava](https://open.spotify.com/album/2ofVWC4usDLxz8hvDuX8hZ) | 3:26 | 2024-03-29 | 2024-06-10 |
 | [Maravilla](https://open.spotify.com/track/6bwFgTUrYUkxygFNsE0HP5) | [Los Jureles](https://open.spotify.com/artist/5FNSAxcE6F6d4HPSoEPUyC) | [Maravilla](https://open.spotify.com/album/0UfukyWOep54c9zpc3ukyx) | 4:00 | 2023-10-06 | 2023-12-31 |
 | [Maybe I'm Leo](https://open.spotify.com/track/7gqKNXv1P6oN0KAXnjxsLW) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Envés](https://open.spotify.com/album/0Jm4WmRMz3UrUxr4llIcrK) | 6:18 | 2023-02-17 |  |
@@ -105,7 +106,7 @@
 | [Negra Monamour](https://open.spotify.com/track/46cUT5yAe0DpGgFWgNhOjs) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Xavier](https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4) | 3:32 | 2023-02-17 |  |
 | [never 2 much 4 evrybody](https://open.spotify.com/track/4BWWoNE1kmgQkELGvklQ22) | [Tiger Mood](https://open.spotify.com/artist/3HFKC76u3isQMK8Ahy4C5r), [piwifuntime](https://open.spotify.com/artist/4361FjAxSIkgjcwGWLZ2KB) | [tamagochi](https://open.spotify.com/album/6ww0tfSZNb8FM1MVHwoEwh) | 5:35 | 2024-11-15 |  |
 | [No la Ves](https://open.spotify.com/track/4ql5SX2c5PVj8FDYRGmdLX) | [Warlock ARG](https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV) | [No la Ves](https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP) | 4:19 | 2024-03-29 |  |
-| [No Me Lo Digas \(In Session\)](https://open.spotify.com/track/01L5lcM6Tv58xLgTREdTBf) | [Jose Molina](https://open.spotify.com/artist/5wwt19tqha2MslydUbFGH7) | [Jose Molina in Session](https://open.spotify.com/album/761hQFQrsf4sNdJULRpHLM) | 7:46 | 2024-03-29 |  |
+| [No Me Lo Digas \(In Session\)](https://open.spotify.com/track/01L5lcM6Tv58xLgTREdTBf) | [Jose Molina](https://open.spotify.com/artist/5wwt19tqha2MslydUbFGH7) | [Jose Molina in Session](https://open.spotify.com/album/761hQFQrsf4sNdJULRpHLM) | 7:46 | 2024-03-29 | 2025-04-12 |
 | [Nocaut](https://open.spotify.com/track/0rZ21PT9MDXup9hwbzcLsT) | [Papanegro](https://open.spotify.com/artist/3YIlnLkPcxVni4w8FGWJnm) | [7](https://open.spotify.com/album/12D6I9cf0ThU8AO9jf3LfX) | 3:03 | 2023-02-17 | 2024-04-19 |
 | [Nuestro Destino](https://open.spotify.com/track/1Lfy91Y2ecc9S18JV0MhN5) | [Florencia Andrada](https://open.spotify.com/artist/3Yn6NUVSA13dcEZpw79Vd2) | [A Pesar de la Tormenta](https://open.spotify.com/album/4CMImKp9OiSozGXqoN6EdW) | 3:27 | 2023-12-08 | 2024-01-15 |
 | [Olvidado en una Cueva Que Implotó](https://open.spotify.com/track/3CPcyW800SDhVerNoj8GQh) | [Nicolás Carou](https://open.spotify.com/artist/7Eo1djl0eJ1czhXpME4Dhp), [Wen](https://open.spotify.com/artist/1gPjLXy387NEzeZZGGx45q) | [¿Qué Le Hicimos a los Espejos?](https://open.spotify.com/album/2SrHyAA6EE5NFGv1vka41s) | 2:46 | 2023-09-07 | 2024-06-24 |

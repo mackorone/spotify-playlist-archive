@@ -4,7 +4,7 @@
 
 > Use Delta frequencies for the best night's sleep.
 
-169 songs - 8 hr 22 min
+171 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,11 +140,13 @@
 | [Ocean Wings \- Delta Sinus 156Hz \- 159Hz](https://open.spotify.com/track/4zkLAkhO367nuQEDoFGgEh) | [Binaural Shapers](https://open.spotify.com/artist/3DFcr29ML80ziXXllK7w7N) | [Binaural Ocean](https://open.spotify.com/album/4FqaMcjDOWjiA8n5ggwFGK) | 4:30 | 2023-01-20 |  |
 | [Oceans of Delta 4 Hz](https://open.spotify.com/track/1ZSCa6fvav5lBI5PZzedlP) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [Oceans of Delta 4 Hz](https://open.spotify.com/album/6uqc1SZZjgDrbZ5ZarevUV) | 2:34 | 2025-01-09 |  |
 | [One Day 80Khz\-85Khz](https://open.spotify.com/track/4M0GU2g6JSA1oASNfHjScG) | [Solace Sonique](https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR) | [One Day 80Khz\-85Khz](https://open.spotify.com/album/72YXtCCAAPmaf8rDh5pHjv) | 2:07 | 2024-11-28 |  |
+| [Oracle Delta 65.11 Hz \- 65.71 Hz](https://open.spotify.com/track/6S5q0RkWxfDU9uDENe4At3) | [Earthbound](https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03) | [Oracle Delta 65.11 Hz \- 65.71 Hz](https://open.spotify.com/album/76XdMiKtqEtpjVGBA9pftj) | 3:07 | 2025-04-11 |  |
 | [Orbit Time Delta Binaural 4Hz](https://open.spotify.com/track/3DVVr63xLJqRSJpRdTIh2U) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Orbit Time Delta Binaural 4Hz](https://open.spotify.com/album/1usUNUHPbSxakqpbmxda3T) | 4:13 | 2024-07-09 |  |
 | [Penumbra Dreams \(Delta 88.1Hz\-92.1Hz\)](https://open.spotify.com/track/2oVfywJ3JhnlxVrXeIcGZi) | [sweetHz](https://open.spotify.com/artist/3ToHPsqBK9cowwR88Cn42B) | [Penumbra Dreams \(Delta 88.1Hz\-92.1Hz\)](https://open.spotify.com/album/4DgFMRvJVtKj3mzr0Xeg9D) | 2:31 | 2025-03-26 |  |
 | [Pipe Dreams Delta \(41\-45hz\)](https://open.spotify.com/track/4m0pmhc870i3tZNhQBsgck) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [No Concern Delta](https://open.spotify.com/album/1FjkpySjCoZN7xV5Z9xnqM) | 2:37 | 2024-07-15 |  |
 | [Propelling Mind Bb Delta \(115\-119hz\)](https://open.spotify.com/track/0bluMRTV3xteLdSSkzlAwO) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Thoughtless Eclipse Delta](https://open.spotify.com/album/2aJ1p45LeJCgeIpupmSmKU) | 2:36 | 2024-02-08 |  |
 | [Quiet Repose \(Delta Binaural\)](https://open.spotify.com/track/1SSyFNx4h5oSZXf8o3l6U1) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Quiet Repose & Undulating Peace \(Delta Binaural\)](https://open.spotify.com/album/4YG95wbpFpc0R98BprpowX) | 3:22 | 2023-07-07 |  |
+| [Sand Seeps \(Binaural Delta 110\-111 Hz\)](https://open.spotify.com/track/5YE2hFMq9Lo1ARlhDjpDfm) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Sand Seeps \(Binaural Delta 110\-111 Hz\)](https://open.spotify.com/album/0MH0UKeyS5TziANm6jDNXt) | 3:12 | 2025-04-11 |  |
 | [Schlaf, Schlaf, Schlaf \- Delta Sinus 92Hz \- 94Hz](https://open.spotify.com/track/2a4LNCvT38dM7ZSZzsDruh) | [Binaural Guidance](https://open.spotify.com/artist/3mTeGp1bAGxdJOzX19BCbD) | [Silent Words](https://open.spotify.com/album/12jobwwmDUtE73NkF9SFnC) | 3:16 | 2023-01-20 |  |
 | [Selective \(Delta Waves\)](https://open.spotify.com/track/0aNuiZsEMGst08a6WrVJmJ) | [circular ceremony](https://open.spotify.com/artist/51sMyVL0cmQQuh4hGpy5OU) | [stellar](https://open.spotify.com/album/4cGX0Y3eWuD3jbHzBxi8Ye) | 3:10 | 2023-01-20 |  |
 | [Serene Delta Sleep 87 Hz \- 89 Hz](https://open.spotify.com/track/6QAj5dBVnrM3gkSf7x1hz6) | [Beyond Quantum](https://open.spotify.com/artist/526CTPjTISiN03ICeZO0Nf) | [Binaural Bliss](https://open.spotify.com/album/3wOu9ExpMCzOmMKcDFw2fo) | 2:58 | 2023-01-20 |  |
@@ -165,7 +167,7 @@
 | [Subconscious Waves \(Delta Drone 1Hz\)](https://open.spotify.com/track/0VWMb7msvFr9KZAJGcR9rd) | [Bruce Brus](https://open.spotify.com/artist/6jKgLzBdINpIrcinbmi7hI) | [Subconscious Waves](https://open.spotify.com/album/2y9XokCm9PRZRpCLKSf3s8) | 3:50 | 2023-01-20 | 2024-08-28 |
 | [Sun Salutation : Delta Sinus Beats](https://open.spotify.com/track/33w0naE7b9wBFV0NwtMxSs) | [Enlightened Spirits](https://open.spotify.com/artist/0Ii80W3VIHBgr211IUReM8) | [Sun Salutation : Delta Sinus Beats](https://open.spotify.com/album/2wdkJYEmhMdgmwyc9GXOmG) | 1:57 | 2023-01-20 | 2023-07-29 |
 | [Sunrays \- Delta 94Hz \- 96Hz](https://open.spotify.com/track/1CesGp7vyNjZ4ybuaBlveg) | [Lotus Frequencies](https://open.spotify.com/artist/6FbnkqvAfBc6iR5kOMfHA5) | [Waveclouds](https://open.spotify.com/album/4y0p9YzK8tbOGFBgtRGrEQ) | 3:45 | 2023-01-20 |  |
-| [Surrounded Passage \(Delta Binaural\)](https://open.spotify.com/track/0gffACkxI5ABiI7Ak9Gb4R) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Surrounded Passage \(Delta Binaural\)](https://open.spotify.com/album/54uV4LPslzmKDj50ylCNYl) | 3:37 | 2024-02-08 |  |
+| [Surrounded Passage \(Delta Binaural\)](https://open.spotify.com/track/0gffACkxI5ABiI7Ak9Gb4R) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Surrounded Passage \(Delta Binaural\)](https://open.spotify.com/album/54uV4LPslzmKDj50ylCNYl) | 3:37 | 2024-02-08 | 2025-04-12 |
 | [Thought Breeze F Delta 85\-89hz](https://open.spotify.com/track/6E6cCyEy51ATANpMP6J4oi) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Thought Breeze F Delta 85\-89hz](https://open.spotify.com/album/6rt7BgbekTnDMjj9PoXzzj) | 2:39 | 2024-07-15 |  |
 | [Thoughtless A Delta 109\-112hz](https://open.spotify.com/track/5NUnNDy5LlGtlZXbO1ignG) | [Peace In Stillness](https://open.spotify.com/artist/5cQcKMsuqfhBFgESOmRDzf) | [Thoughtless Echoes Delta](https://open.spotify.com/album/6E7fHsEJu4MnV5uJ1VSO7j) | 2:32 | 2023-05-05 |  |
 | [Transcendental Phase Bb Delta \(114\-118hz\)](https://open.spotify.com/track/7pe4sWtc1ocgLrKrIeUzFG) | [Peace In Stillness](https://open.spotify.com/artist/5cQcKMsuqfhBFgESOmRDzf) | [Transcendental Phase Delta](https://open.spotify.com/album/1SJVQ7hhm89HhcMIxAUCbB) | 2:15 | 2023-09-27 |  |

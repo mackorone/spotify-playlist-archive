@@ -4,7 +4,7 @@
 
 > Nuovi brani di Sfera e Shiva, Pinguini Tattici Nucleari e Max Pezzali, I Cani, Cesare Cremonini ed Elisa, Lana Del Rey e tanti altri.
 
-4,380 songs - 9 day 5 hr 0 min
+4,381 songs - 9 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,6 +515,7 @@
 | [blade bird](https://open.spotify.com/track/7ypm9ZGrUXGmSXgmpAd2hZ) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [blade bird](https://open.spotify.com/album/1FyfAcUFlchVi4txMXabRZ) | 3:18 | 2025-02-06 | 2025-02-14 |
 | [BLAH! \(x5\) \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/3VgANOool6wXnJTCaxLw1y) | [Articolo 31](https://open.spotify.com/artist/1Ij5ZIGlPTkoZibay58zHe), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [BLAH! \(x5\) \(feat\. Massimo Pericolo\)](https://open.spotify.com/album/4mkcJQrZx5BA1mdliCzO59) | 2:55 | 2024-08-08 | 2024-08-16 |
 | [blamethrower](https://open.spotify.com/track/0dCFVSzJqQDN4cuHGL0h6L) | [boi](https://open.spotify.com/artist/0tEujKmauU1tISsGeEVW8E) | [lose](https://open.spotify.com/album/0DG572vEdZQglsTYmVmPLp) | 3:39 | 2024-11-28 | 2024-12-06 |
+| [Blink Twice](https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Blink Twice](https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW) | 2:36 | 2025-04-10 |  |
 | [Bloody Mary \(feat\. PUGNI & Fudasca\)](https://open.spotify.com/track/7KHgdxfF2D4bEz4HIEMlwM) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [PUGNI](https://open.spotify.com/artist/1LfDpyJZOMLA5B6o140mqa), [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T) | [Bloody Mary \(feat\. PUGNI & Fudasca\)](https://open.spotify.com/album/7AP0omdqa2pImzJRVrYq1K) | 2:41 | 2024-07-04 | 2024-07-12 |
 | [Bloom](https://open.spotify.com/track/35KkZrQ5r4NpHYuoLUT0VI) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Bloom](https://open.spotify.com/album/6HEq0bWaLaL9vFSEiYjqpU) | 2:28 | 2024-08-15 | 2024-08-23 |
 | [Bloom](https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk) | 3:06 | 2024-08-22 | 2024-08-30 |
@@ -2106,7 +2107,7 @@
 | [lecosepeggiori](https://open.spotify.com/track/1qd3JHPKqsOZRAJic55MTI) | [Avanzi](https://open.spotify.com/artist/6NK8YVU9oLmjQ9VpM3cM8J) | [lecosepeggiori](https://open.spotify.com/album/3wVgX9wPLbK8AcHJBCYLkn) | 2:50 | 2024-10-31 | 2024-11-08 |
 | [Left My Heart](https://open.spotify.com/track/4YJV1lLyv4kzr7nLv3HKHx) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn), [IRAIDA](https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov) | [Left My Heart](https://open.spotify.com/album/6oMxKXHrilwnhFli3GrztY) | 2:10 | 2024-12-12 | 2024-12-20 |
 | [LEGAMI](https://open.spotify.com/track/1C9OAXQN4zKkPbTRO17Hma) | [Goldreick](https://open.spotify.com/artist/0UJ6nopuHJk9q7addrnFhD), [Tanca](https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP), [Alice](https://open.spotify.com/artist/2secXZJFel5sboofeiGQyk), [maggio](https://open.spotify.com/artist/7bykcg3a4exhrIgiffIR2Q) | [MERO CREDIT](https://open.spotify.com/album/0ToH1czj1bGlNTGka6cdzm) | 3:33 | 2024-07-18 | 2024-07-27 |
-| [Legends \(with Lil Baby\)](https://open.spotify.com/track/4LRxmoIbLJDcvEhqFgSF29) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Legends \(with Lil Baby\)](https://open.spotify.com/album/4m0CbLFqZMcBEA8ChPOPmh) | 3:00 | 2025-04-10 |  |
+| [Legends \(with Lil Baby\)](https://open.spotify.com/track/4LRxmoIbLJDcvEhqFgSF29) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Legends \(with Lil Baby\)](https://open.spotify.com/album/4m0CbLFqZMcBEA8ChPOPmh) | 3:01 | 2025-04-10 |  |
 | [Leggera](https://open.spotify.com/track/2U1jRNDyOLw4V5agzt1lpZ) | [KIMONO](https://open.spotify.com/artist/5uIBCnjr8sCPeOOhQFY3Xm) | [Leggera](https://open.spotify.com/album/1oR8GfraxUU5MnZCrtJ8O9) | 2:46 | 2024-09-05 | 2024-09-13 |
 | [Leggero](https://open.spotify.com/track/6oezLlz5AOu0xuImcDhv3Q) | [Marco Masini](https://open.spotify.com/artist/0kcOfjhVfDMTS09s9aLmuD) | [Leggero](https://open.spotify.com/album/2VZalL06IGpnDve07xjTve) | 3:24 | 2024-10-10 | 2024-10-18 |
 | [Legs](https://open.spotify.com/track/7wGxkfrxClixf0pXPu0iM5) | [meatware](https://open.spotify.com/artist/5AFz8Rkw2z1cFRf4GvrTxf) | [Promo Material](https://open.spotify.com/album/6fs5oUyuuT5Lsaj5uTYQoq) | 2:49 | 2025-01-10 | 2025-01-17 |

@@ -950,7 +950,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-10",
+      "date_removed": null,
       "duration_ms": 192380,
       "name": "BOP BOP! (Yves V Remix)",
       "url": "https://open.spotify.com/track/4Gcolfcv9DwTrZMYHE96Zl"
@@ -1232,7 +1232,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 211506,
       "name": "Criminal - SUMIN Remix",
       "url": "https://open.spotify.com/track/3Rk6ywWGOhw1uonKye1qoW"
@@ -3597,6 +3597,24 @@
     },
     {
       "album": {
+        "name": "RIZZ",
+        "url": "https://open.spotify.com/album/2ceC2lixSUBa1IH7xbEr43"
+      },
+      "artists": [
+        {
+          "name": "GENRE",
+          "url": "https://open.spotify.com/artist/7xngEjHguzjoE5TNIaz7fi"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163560,
+      "name": "RIZZ (Feat. Shiming)",
+      "url": "https://open.spotify.com/track/7cWC1q8f426vmtro2koJEW"
+    },
+    {
+      "album": {
         "name": "Rule The World",
         "url": "https://open.spotify.com/album/5uCnzjU8tNml4kqucjJk59"
       },
@@ -3620,7 +3638,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 146500,
       "name": "Rule The World",
       "url": "https://open.spotify.com/track/4jxnUzqf0ZhUtPwOEbOid5"

@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops\. Cover: Theo Croker
 
-432 songs - 1 day 2 hr 6 min
+433 songs - 1 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [Roller Coaster](https://open.spotify.com/track/61vVI6qo8zhw2OWM96ReDd) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r), [SMTHNGOOD](https://open.spotify.com/artist/6UwT4pDjGSlegunFtmCPcf), [dhyno](https://open.spotify.com/artist/68A1ZFG3MCIjch52VMXht8) | [Roller Coaster](https://open.spotify.com/album/0K7qZlcArJtLm0PqNwFdfU) | 2:34 | 2024-11-01 |  |
 | [Ruler Rebel \- X\. aTunde Adjuah Remix](https://open.spotify.com/track/3c67AjZj5OYgUM8VQfp7ZK) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn), [X\. aTunde Adjuah](https://open.spotify.com/artist/4QYLbgTxmFaOWqzjkB7xUB) | [The Emancipation Procrastination](https://open.spotify.com/album/37VcKBnyY3AwQCklkDvcHN) | 5:53 | 2021-01-29 | 2022-02-09 |
 | [Rush Hour](https://open.spotify.com/track/5QQqHH7Sk0sFGyxELjDb0e) | [Kaidi & NK\-OK](https://open.spotify.com/artist/7jDA84G7dkwJAGstQhFbhd), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Time Capsule](https://open.spotify.com/album/7uQhtRHu9XIUVrfIwn3Z8s) | 3:02 | 2021-01-29 | 2022-03-26 |
+| [Rápido Brusco Violento](https://open.spotify.com/track/4lLXDC5gji2YTl4FmNO7pc) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [Rápido Brusco Violento](https://open.spotify.com/album/1PWaXbrpOzSkiTt9T35I9d) | 1:57 | 2025-04-11 |  |
 | [sa:pass \- Edit](https://open.spotify.com/track/1YP08gvD8bDIc4JeXvL0Ls) | [ddddeeeellllaaa](https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA) | [sa:pass \(Edit\)](https://open.spotify.com/album/31eWtwXR0GbWcsH645J1FD) | 2:32 | 2022-05-16 | 2022-07-20 |
 | [Sadboys2020](https://open.spotify.com/track/3MtAOH2nJoLMeKFkEN8PuG) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU) | [Honk If You're Sad](https://open.spotify.com/album/24YxXPFVExwXvkDkjVGzvC) | 4:00 | 2022-04-29 |  |
 | [Sadboys2020](https://open.spotify.com/track/4HRP3KpGutMNyj3UevMxTy) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU) | [Honk If You're Sad](https://open.spotify.com/album/6vaViTZ9Hqlj2zo30JVR4U) | 4:00 | 2022-05-16 | 2024-04-19 |
@@ -357,7 +358,7 @@
 | [STREET FOOD](https://open.spotify.com/track/54a8NWHfkiTRTDeEnPU80O) | [HUMAN ERROR CLUB](https://open.spotify.com/artist/0Zo06rizILgTDRvKTx2uQO) | [HUMAN ERROR CLUB](https://open.spotify.com/album/5WMgAMhkBFEAbnUd7j2IV1) | 3:22 | 2021-01-29 | 2022-03-26 |
 | [Stuck Inside](https://open.spotify.com/track/4CVqjyE6YMhKaTHccyCxXD) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Stuck Inside](https://open.spotify.com/album/4i20QhqCn7StG4RpqqAybt) | 3:33 | 2022-04-01 |  |
 | [Sunday Kitchen](https://open.spotify.com/track/1pPJdlrXGvyXJSLZ8jHhnK) | [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [Sunday Kitchen](https://open.spotify.com/album/3NAy0t6DbSOe87qphwWo9x) | 3:05 | 2022-06-10 |  |
-| [Superhero](https://open.spotify.com/track/4anRW820fvN0rzBWcae0B5) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Superhero](https://open.spotify.com/album/1M8MrhnNegMkABPlZTsg8g) | 2:46 | 2021-03-12 |  |
+| [Superhero](https://open.spotify.com/track/4anRW820fvN0rzBWcae0B5) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Superhero](https://open.spotify.com/album/1M8MrhnNegMkABPlZTsg8g) | 2:46 | 2021-03-12 | 2025-04-12 |
 | [Superhero](https://open.spotify.com/track/7AMcu9TrTEw0jSYKNjXyGD) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Between Days](https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X) | 2:46 | 2021-03-12 | 2024-04-19 |
 | [Supra Lux](https://open.spotify.com/track/36ae0EHQ50LPWtKKQsY3YY) | [betahost](https://open.spotify.com/artist/1vGlmIKLKgaYfgAcSKhd4W) | [Supra Lux](https://open.spotify.com/album/4vwSQ082XHIHb5NIwfVXuN) | 2:43 | 2024-11-08 |  |
 | [SWEAT](https://open.spotify.com/track/51J6zODpdYccdf3wVi6FTM) | [Michael Wilbur](https://open.spotify.com/artist/4xa7ht9m5Uj0YhGWIm0K9n) | [SWEAT](https://open.spotify.com/album/4jgslG0QlEJ49OxaepciB5) | 2:17 | 2023-03-17 | 2023-09-16 |

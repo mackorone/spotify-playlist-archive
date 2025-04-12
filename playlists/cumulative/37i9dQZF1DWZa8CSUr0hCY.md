@@ -4,7 +4,7 @@
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-265 songs - 11 hr 41 min
+266 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Bedroom Blues](https://open.spotify.com/track/4t3Z814iGT0URcS0ngMEFk) | [Chewsday](https://open.spotify.com/artist/2HGON9HbOgKaYL7F6IIYLU) | [Bedroom Blues](https://open.spotify.com/album/1LQtGwotUfxdGcvaUckfhx) | 2:07 | 2022-08-30 |  |
 | [before dawn](https://open.spotify.com/track/1M40Bxzt6dn8KO86DZYEme) | [Iddy P](https://open.spotify.com/artist/0JZwamLi5bDuUwYybNnFoF) | [before dawn](https://open.spotify.com/album/1sRhJcsZFbkn2e5x6GQN3E) | 3:12 | 2022-08-30 | 2023-12-22 |
 | [Bingo](https://open.spotify.com/track/3MZgCaNZZzk3jl4m0k5AsK) | [Allem Iversom](https://open.spotify.com/artist/6RaUtVLO8R5TsVdJIxSrq1), [little blue](https://open.spotify.com/artist/5WFsnwKBPWK0uFitm41Dv1) | [Currents](https://open.spotify.com/album/1blPnl6EZOKznld3FTN9WS) | 2:25 | 2022-08-30 |  |
-| [Boat In The Water](https://open.spotify.com/track/3HnK4jipVHwmYjskVtxp8c) | [Bogomolove](https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM) | [Boat In The Water](https://open.spotify.com/album/41OlZWdyIBOPqMJeyawECU) | 2:29 | 2022-08-30 |  |
+| [Boat In The Water](https://open.spotify.com/track/3HnK4jipVHwmYjskVtxp8c) | [Bogomolove](https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM) | [Boat In The Water](https://open.spotify.com/album/41OlZWdyIBOPqMJeyawECU) | 2:29 | 2022-08-30 | 2025-04-12 |
 | [Bolivia](https://open.spotify.com/track/0rCMCvrYA4LKXFKdUSyseQ) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Bolivia](https://open.spotify.com/album/0sAapPHnSeEDZBDIP6diAg) | 2:36 | 2022-08-30 |  |
 | [Bolivian Rapsody](https://open.spotify.com/track/3uaHhFnvUCUBYVLihXAWLp) | [Boztown](https://open.spotify.com/artist/49CZw9qooXeYTWKe9ioZPx) | [In Memory of Freedom](https://open.spotify.com/album/2bKoJrFSai2hEE0MtABUHH) | 2:09 | 2022-04-28 | 2022-08-31 |
 | [bookworn](https://open.spotify.com/track/6tnQHLy3sz7QNLBsYCpDnn) | [yellow sofa](https://open.spotify.com/artist/00zktRPsRiNCP7GWXXi9Jc) | [bookworn](https://open.spotify.com/album/3jSoRUUVr4fHrpaFVRB3V9) | 2:05 | 2024-08-29 | 2025-01-17 |
@@ -144,6 +144,7 @@
 | [Let It Go](https://open.spotify.com/track/3gBnmlTKVkAL0JnclQuz8s) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu), [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Let It Go](https://open.spotify.com/album/5QWRTAdCTbDLhjEWbG1odA) | 2:35 | 2022-08-30 |  |
 | [Letdown](https://open.spotify.com/track/27Yu59D18hcYTp03CAo3vY) | [Paoz](https://open.spotify.com/artist/1qTfRbMkItLTntzS9ehXQT), [Tea box records](https://open.spotify.com/artist/0WFElMoec6Fv9lifejuv0r) | [Letdown](https://open.spotify.com/album/36rlZHCSOIgwDvQSjXa282) | 2:40 | 2022-08-30 |  |
 | [letter to amtis](https://open.spotify.com/track/1xrkythjTGJM8rClZQdZ5V) | [nightnotes](https://open.spotify.com/artist/334qcUILkYr6OYnqTi1DD3) | [letter to amtis](https://open.spotify.com/album/0IBF3TM8KHfBL1NyK7zVkf) | 1:34 | 2024-08-29 |  |
+| [Lifted](https://open.spotify.com/track/30DefWKNhQ6Ibyp4Ge3dV4) | [Mononome](https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3) | [Lifted](https://open.spotify.com/album/3N63kOvGxPKdidXl5o0yDE) | 1:53 | 2025-04-11 |  |
 | [Limbo](https://open.spotify.com/track/3fnAQeFKgQKsgNylfxBdc7) | [GlobulDub](https://open.spotify.com/artist/5gigjnekB1RsPwKKitalWD) | [Hip\-Hop Symposium, Vol\. 3 \(Childhood\)](https://open.spotify.com/album/50PVjxN9VnL451ll774Xfd) | 3:35 | 2022-04-28 | 2022-08-31 |
 | [Limbo](https://open.spotify.com/track/3mgRwzfkoOQROm3ksVpypG) | [GlobulDub](https://open.spotify.com/artist/5gigjnekB1RsPwKKitalWD) | [Hip Hop Symposium \(Full Compilation\)](https://open.spotify.com/album/1EOH2XDgfavkFltfZkX2TW) | 3:35 | 2020-10-20\* | 2022-07-29 |
 | [Lisabon](https://open.spotify.com/track/08PythMQ97nIacc0AdIdnF) | [cmd f](https://open.spotify.com/artist/6Ykg4VJZl1anZljuqAJU25) | [Lisabon](https://open.spotify.com/album/7mMzc1YjMfdgLJ2wzckN86) | 2:29 | 2024-08-29 |  |

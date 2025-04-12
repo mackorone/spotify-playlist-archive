@@ -4,7 +4,7 @@
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: Smut
 
-1,882 songs - 4 day 7 hr 42 min
+1,884 songs - 4 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | ['Til Forever](https://open.spotify.com/track/4LYF3Ioe7PoekNKuhHuC51) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | ['Til Forever](https://open.spotify.com/album/3Ouz4BXlPk9xvbY8OLY31q) | 2:48 | 2023-09-20 | 2024-02-15 |
 | [\(Dis\)Connected](https://open.spotify.com/track/5EBbZEcTY3CgpxdpN8eO3F) | [Hey, Ily](https://open.spotify.com/artist/73XtH9MpvvvcUxQxYEAX15) | [\(Dis\)Connected](https://open.spotify.com/album/1ua6xwxUxdGGcqQBajpv1h) | 2:48 | 2024-09-25 | 2024-11-07 |
 | [\(Full Free\) Radical](https://open.spotify.com/track/6zk5XHx4mEtIuNDNvkT7Re) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [\(Full Free\) Radical](https://open.spotify.com/album/6EUJcyqHfR7gmS5ZtuKtE6) | 3:55 | 2023-04-12 | 2023-06-29 |
-| [\(infinity bugs\)](https://open.spotify.com/track/1BT1ZFIeIukePahh2QRFsy) | [moony](https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ) | [\(infinity bugs\)](https://open.spotify.com/album/6kE0sfwDAH5oD3VfZ29PdW) | 3:32 | 2025-01-22 |  |
+| [\(infinity bugs\)](https://open.spotify.com/track/1BT1ZFIeIukePahh2QRFsy) | [moony](https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ) | [\(infinity bugs\)](https://open.spotify.com/album/6kE0sfwDAH5oD3VfZ29PdW) | 3:32 | 2025-01-22 | 2025-04-12 |
 | [\(keep your mouth shut, Seth\)](https://open.spotify.com/track/6QY2HJex3JhB7yOadPtrFV) | [moony](https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ) | [\(keep your mouth shut, Seth\)](https://open.spotify.com/album/5gbEOOMhSHrs5hD1F0c4Nr) | 4:53 | 2025-02-26 |  |
 | [\(The\) Coffee Song](https://open.spotify.com/track/5mzUrpcMjjVEy92tLH3lqM) | [The Toxhards](https://open.spotify.com/artist/6LOm4xDQLq8kmcRaZIzB2s) | [\(The\) Coffee Song / October](https://open.spotify.com/album/43IfWtnJ6ICcrWOaT1JbQf) | 3:14 | 2023-09-27 | 2023-11-30 |
 | [\(tired of\) always getting older](https://open.spotify.com/track/5ti0oUrS07aaHFR7w1Phjg) | [frown line](https://open.spotify.com/artist/3zBlhaQIMQtlpUEwYQoOoM) | [\(tired of\) always getting older](https://open.spotify.com/album/5toM9b71m8M7cPatj1bLQM) | 3:43 | 2021-12-01 | 2022-02-17 |
@@ -577,6 +577,7 @@
 | [Everything is Fine](https://open.spotify.com/track/43qXpGfZOjHQakpPKfNz3u) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [Everything is Fine](https://open.spotify.com/album/45eVM5D9PJULYNVXQ2HyXi) | 2:36 | 2022-01-26 | 2022-04-28 |
 | [Exacto](https://open.spotify.com/track/0Z5LJXUpLKTSza18mr7K4L) | [Omni](https://open.spotify.com/artist/4wBhllC5Nto10UefzXVMt9) | [Exacto](https://open.spotify.com/album/7fpTi0uuJdEnw7NiOs76qF) | 2:39 | 2023-11-15 | 2024-02-01 |
 | [Eye For An Eye](https://open.spotify.com/track/7HWbp4lGZ3vsG4n0BRWiUt) | [Loose Lips](https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND) | [Eye For An Eye](https://open.spotify.com/album/3REjMVpoGBmy5bh0cs8bKY) | 3:04 | 2023-02-22 | 2023-03-23 |
+| [Eyes Full of Tears](https://open.spotify.com/track/7MKR3GZJsgDukK9OlrLAHn) | [voyeur](https://open.spotify.com/artist/3NvIlmrQdMib4ST6sbd58n) | [Eyes Full of Tears / doomcomplex](https://open.spotify.com/album/4XNu93yngHqtCAl2uqnurJ) | 3:31 | 2025-04-11 |  |
 | [f\*ck everything! \- Spotify Singles \(feat\. The Drums\)](https://open.spotify.com/track/3oE4zL430c18NuiRWDHRLY) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [f\*ck everything! \- Spotify Singles \(feat\. The Drums\)](https://open.spotify.com/album/4pH6JKPaFwEyuSfw6IPEQ8) | 3:01 | 2021-12-01 | 2022-01-20 |
 | [Face To Face](https://open.spotify.com/track/1zhAN1I4op6mUw0FvUSCUJ) | [Troubled Minds](https://open.spotify.com/artist/2sdTNct8FjErtvxUMyD92E) | [Disconnect](https://open.spotify.com/album/3SNqO4GPBDnHckxX87zj0N) | 3:01 | 2022-10-05 | 2022-12-01 |
 | [Fade Away](https://open.spotify.com/track/1aAYShm16G1hLvlEArQjwx) | [Drift](https://open.spotify.com/artist/5As4J0NBaerSYQNuKgVuXi) | [Fade Away](https://open.spotify.com/album/3KKZevK5ptFVyA5xPF5Ul1) | 4:09 | 2024-11-06 | 2025-03-20 |
@@ -1397,6 +1398,7 @@
 | [Safe and Warm](https://open.spotify.com/track/3AcNa51PyEZ1HHbWfngpOD) | [Mannequin Death Squad](https://open.spotify.com/artist/5AzjW5JyaBBRJR1FUjD9iA), [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Wise and Dangerous](https://open.spotify.com/album/2b1A21v3kdlPn7diPelE1F) | 2:39 | 2025-04-09 |  |
 | [SAFETY NET](https://open.spotify.com/track/6yQXnjxPQg3L0h7tq72xDF) | [instant crush](https://open.spotify.com/artist/6CzsxPxOIeXoyhmNiFmtmu) | [SAFETY NET](https://open.spotify.com/album/7gM8J65agRjxkxxySMRoiH) | 2:47 | 2024-10-02 | 2025-04-10 |
 | [SAFEWORD](https://open.spotify.com/track/7deJGxQIiAgNdp2NUvNtyK) | [Aimee Vant](https://open.spotify.com/artist/4j2LiaymZa7V1F8sfSC4TO) | [SAFEWORD](https://open.spotify.com/album/02rRus23EQLzH4HZeOLJH8) | 3:21 | 2022-06-08 | 2022-08-25 |
+| [Salome](https://open.spotify.com/track/2ZhMiaTlkiqwKNz6iUO1KN) | [The Ophelias](https://open.spotify.com/artist/0Kpf7PvEotzvndPhYwwZzb) | [Spring Grove](https://open.spotify.com/album/5t7CByjhX4jdwiCtN4llLI) | 2:18 | 2025-04-11 |  |
 | [Salt](https://open.spotify.com/track/2kLb29wxlXPLYFVSfcg69D) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [I Love You](https://open.spotify.com/album/4psyGw8pJ4Y4VQOQ8EN3qA) | 3:07 | 2023-11-29 | 2024-01-11 |
 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 | 2023-09-13 | 2024-02-01 |
 | [Samba Samba](https://open.spotify.com/track/5hRxiUmqeUQDKtMSzyWlOk) | [Raue](https://open.spotify.com/artist/0N3GaGdqGJYLZTa6L04tuI) | [Samba Samba](https://open.spotify.com/album/3qpGFaEcf5BohADvFq9WCO) | 2:31 | 2024-03-13 | 2024-06-20 |

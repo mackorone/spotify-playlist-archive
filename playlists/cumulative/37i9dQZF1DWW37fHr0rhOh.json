@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Always there, always true!  These are the songs, old and new, you can count on time after time.  Cover: Lynda Randle",
+  "description": "Always there, always true!  These are the songs, old and new, you can count on time after time.  Cover: Kingsmen",
   "name": "Faithful Melodies",
   "tracks": [
     {
@@ -470,7 +470,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 194198,
       "name": "Future Glory",
       "url": "https://open.spotify.com/track/7GQc1aEfq2S1OLeDKsUPKr"
@@ -1019,6 +1019,24 @@
     },
     {
       "album": {
+        "name": "I Speak Jesus",
+        "url": "https://open.spotify.com/album/31ObVmtgu8Ao2OkMn6jdDi"
+      },
+      "artists": [
+        {
+          "name": "Karen Peck & New River",
+          "url": "https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311381,
+      "name": "I Speak Jesus",
+      "url": "https://open.spotify.com/track/5GJwcPQvSBO5HHCAL9oTyT"
+    },
+    {
+      "album": {
         "name": "Signature Ballads",
         "url": "https://open.spotify.com/album/0qPhdxk11wSGjWE1nmQryP"
       },
@@ -1200,7 +1218,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 132000,
       "name": "I'm Saved",
       "url": "https://open.spotify.com/track/7KciX5o5XOm7p52y4JiKaV"
@@ -1292,6 +1310,24 @@
       "duration_ms": 235560,
       "name": "In the Sweet by and By",
       "url": "https://open.spotify.com/track/6gJkNZt514JO7YR6dxS4JE"
+    },
+    {
+      "album": {
+        "name": "It Made News In Heaven When I Got Saved",
+        "url": "https://open.spotify.com/album/2xGFPLQhNVUcTFJozB9QeG"
+      },
+      "artists": [
+        {
+          "name": "Kingsmen",
+          "url": "https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "It Made News In Heaven When I Got Saved",
+      "url": "https://open.spotify.com/track/78o6QDN2l5Jv3OeEcuenBO"
     },
     {
       "album": {
@@ -2146,7 +2182,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 213958,
       "name": "Rise Up (Lazarus)",
       "url": "https://open.spotify.com/track/00JbsxN339l1MBFQ35oua2"
@@ -2532,7 +2568,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 332373,
       "name": "Sweeter As The Days Go By",
       "url": "https://open.spotify.com/track/1JQUWd3mO8X9juFK9Nzn2H"
@@ -3052,7 +3088,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 197781,
       "name": "To God Be The Glory",
       "url": "https://open.spotify.com/track/7KjokT6XN2XP68cNJKTvBK"
@@ -3221,6 +3257,24 @@
     },
     {
       "album": {
+        "name": "We've Weathered Storms Before",
+        "url": "https://open.spotify.com/album/3TTbtmbbHbZxZDL25LLNNY"
+      },
+      "artists": [
+        {
+          "name": "Rambo Women",
+          "url": "https://open.spotify.com/artist/6SIYyOVTCKskcmTyYKzLEu"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193982,
+      "name": "We've Weathered Storms Before",
+      "url": "https://open.spotify.com/track/5C1NIgcmh7Ve5DTzuUrK47"
+    },
+    {
+      "album": {
         "name": "Room For More",
         "url": "https://open.spotify.com/album/3RDn3C1QTlaqFbH54UB4M0"
       },
@@ -3329,6 +3383,36 @@
     },
     {
       "album": {
+        "name": "Where No One Stands Alone (Live)",
+        "url": "https://open.spotify.com/album/0qX3QWNinW5VmoqHwJlU0Q"
+      },
+      "artists": [
+        {
+          "name": "Gaither",
+          "url": "https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY"
+        },
+        {
+          "name": "Kim Hopper",
+          "url": "https://open.spotify.com/artist/56RAFQXvIi4o49QwCu4DWy"
+        },
+        {
+          "name": "Wesley Pritchard",
+          "url": "https://open.spotify.com/artist/7nPebEaJgqsrJCwqlaNv3p"
+        },
+        {
+          "name": "Wes Hampton",
+          "url": "https://open.spotify.com/artist/6b8zRPZd2XvjAChtNjO8DQ"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221053,
+      "name": "Where No One Stands Alone - Live",
+      "url": "https://open.spotify.com/track/03mVqwJO44TcOrfV8hMfIs"
+    },
+    {
+      "album": {
         "name": "I'm Free: Songs That Wrote My Story",
         "url": "https://open.spotify.com/album/7BJKeykInrkjIkYIHyLgPV"
       },
@@ -3344,6 +3428,24 @@
       "duration_ms": 243960,
       "name": "Why Me",
       "url": "https://open.spotify.com/track/19WI6KCHCpUZLpRLnDDmQF"
+    },
+    {
+      "album": {
+        "name": "Gerald Wolfe's Gospel Music Hymn Sing Heaven's Jubilee",
+        "url": "https://open.spotify.com/album/591WZLCCdA3FjfnZjW0Lkq"
+      },
+      "artists": [
+        {
+          "name": "Gerald Wolfe",
+          "url": "https://open.spotify.com/artist/034QMJV19h9J9Ld64LIdB4"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256858,
+      "name": "Wonderful Grace Of Jesus",
+      "url": "https://open.spotify.com/track/07Vk0rcYEZRt3Z3c9qEjUz"
     },
     {
       "album": {

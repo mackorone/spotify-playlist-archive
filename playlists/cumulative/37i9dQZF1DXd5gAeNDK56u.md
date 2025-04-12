@@ -4,7 +4,7 @@
 
 > Mic check, 1, 2.
 
-132 songs - 5 hr 49 min
+133 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Meeks](https://open.spotify.com/track/7BDKdMg5UVqxEtdYIxcTQg) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [Meeks](https://open.spotify.com/album/3VZoMKFFy6lG8ccNfe2DYm) | 2:28 | 2023-03-27 |  |
 | [Mellotron](https://open.spotify.com/track/01MiVNDj1ezwyWbaElrcCw) | [Five Fingers](https://open.spotify.com/artist/10LCB4dVgrtVsM8SBEXtdS) | [Mellotron](https://open.spotify.com/album/1aqFGL2Fcqbs0Db6wpzoNX) | 2:32 | 2023-03-27 |  |
 | [Midnight Smoke](https://open.spotify.com/track/3nCI3MB1cTznXM0ri68OwG) | [Spectacular Diagnostics](https://open.spotify.com/artist/3z32OCr8soKhZ5CYuTti9a), [Slowdown](https://open.spotify.com/artist/6qMZqcd02lR7PB8Np47OSF) | [Midnight Smoke](https://open.spotify.com/album/5yixnT7FFdNdwvI4B4Qxed) | 1:45 | 2023-03-27 | 2024-02-23 |
+| [Monarch](https://open.spotify.com/track/2uGy6jPaqwrSjWEqTByJ4o) | [Pixel Souls](https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi) | [Monarch](https://open.spotify.com/album/1e1oLoYefiU22dQG9KO3lm) | 3:05 | 2025-04-11 |  |
 | [My Own Way](https://open.spotify.com/track/3yxYRedMKqrNDxKmoUfSXa) | [Pixel Souls](https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi) | [My Own Way](https://open.spotify.com/album/5b3GfF8Uy6p4AZSZAzOEcI) | 2:55 | 2025-03-07 |  |
 | [NASA](https://open.spotify.com/track/6YwqaO5eejBRrBtbWj25QM) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [NASA](https://open.spotify.com/album/6A92SmpRlmzN41OP214NLI) | 2:06 | 2023-03-27 |  |
 | [No Switch Up](https://open.spotify.com/track/1v55e29Im1Q4kox18pOE0Y) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [No Switch Up](https://open.spotify.com/album/0gNiizgVjbJ8sgchjiefvI) | 2:35 | 2023-03-27 |  |

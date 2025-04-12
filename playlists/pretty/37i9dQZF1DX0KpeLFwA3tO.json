@@ -1,12 +1,12 @@
 {
   "description": "The best new music from the wide world of punk. Cover: Teen Mortgage",
-  "num_followers": 323949,
+  "num_followers": 324199,
   "original_name": "All New Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/hNegAAAACJS9Fa27YqIoSTWFANXiGY",
+  "snapshot_id": "Z/j3FwAAAABpubwvsNxbACn+HMwVLowm",
   "tracks": [
     {
       "added_at": "2025-04-10 23:00:10",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/0402LA3BJwIWmqxSWjbXCX"
     },
     {
+      "added_at": "2025-04-11 11:03:51",
+      "album": {
+        "name": "GET BENT!",
+        "url": "https://open.spotify.com/album/3GGarrspHOxKZ9TCrOzq4t"
+      },
+      "artists": [
+        {
+          "name": "DoFlame",
+          "url": "https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc"
+        }
+      ],
+      "duration_ms": 172648,
+      "name": "Lost In Time",
+      "url": "https://open.spotify.com/track/6RxAiQGhBC9mZhWQEXJn6M"
+    },
+    {
       "added_at": "2025-04-10 23:00:10",
       "album": {
         "name": "My Way",
@@ -55,22 +71,6 @@
       "duration_ms": 204977,
       "name": "My Way",
       "url": "https://open.spotify.com/track/0HELTZyVi4APXu85RtVGfn"
-    },
-    {
-      "added_at": "2025-04-10 23:00:10",
-      "album": {
-        "name": "Drunk Talk",
-        "url": "https://open.spotify.com/album/5IEJ5aLWiBkOL8o444XiOj"
-      },
-      "artists": [
-        {
-          "name": "DoFlame",
-          "url": "https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc"
-        }
-      ],
-      "duration_ms": 151394,
-      "name": "Drunk Talk",
-      "url": "https://open.spotify.com/track/5ve3qnXRJgPMDppIZLpRPR"
     },
     {
       "added_at": "2025-04-10 23:00:10",

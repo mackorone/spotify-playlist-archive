@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,295 songs - 2 day 18 hr 47 min
+1,298 songs - 2 day 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [BITE THE APPLE](https://open.spotify.com/track/523ZL0kSLxkqPycG7lkTTC) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DIARY FOR THE LONELY HEARTS](https://open.spotify.com/album/15Hcu8TpsQaXn6VcI7axfb) | 3:50 | 2024-11-22 |  |
 | [Black Coffee](https://open.spotify.com/track/67aZdAS6doqinEJfperUnH) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Black Coffee](https://open.spotify.com/album/2HJ6fPTZHFuiSxWDGPTKo3) | 2:24 | 2021-04-10 | 2021-09-18 |
 | [blade bird](https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt) | 3:18 | 2025-02-14 |  |
-| [bloodshot](https://open.spotify.com/track/0RyHJUvZQ9Pm06pbHk2Pb8) | [Sarah Thompson](https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j) | [bloodshot](https://open.spotify.com/album/7FfowKhV0oNC3k4syEe6Gj) | 3:14 | 2024-08-09 |  |
+| [bloodshot](https://open.spotify.com/track/0RyHJUvZQ9Pm06pbHk2Pb8) | [Sarah Thompson](https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j) | [bloodshot](https://open.spotify.com/album/7FfowKhV0oNC3k4syEe6Gj) | 3:14 | 2024-08-09 | 2025-04-12 |
 | [Bloody Waters](https://open.spotify.com/track/74c0axs4t9mxF13MUOqSQw) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [Bloody Waters](https://open.spotify.com/album/4qduDazv9FzGjYT04Qsumk) | 3:01 | 2020-11-14 | 2020-12-19 |
 | [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 | 2024-04-26 |  |
 | [Bloom](https://open.spotify.com/track/1afsbzgZmEP4hVRyGrmIOv) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Bloom](https://open.spotify.com/album/1hFATkkw8ibvIwUQkWpWER) | 2:51 | 2021-07-24 | 2021-09-18 |
@@ -657,6 +657,7 @@
 | [king of the nosebleeds](https://open.spotify.com/track/5CM1jEYAsLwhhQEUYwEBs7) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [king of the nosebleeds](https://open.spotify.com/album/5SBNC9CXJt023DHcVAPUJH) | 2:42 | 2021-04-10 | 2021-05-29 |
 | [kiss me before u go.](https://open.spotify.com/track/1n6wEo9WEfUHm2VcOx67dw) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [kiss me before u go.](https://open.spotify.com/album/0qXF4bLph1rkzuE1x6ZLcJ) | 4:03 | 2022-09-16 | 2024-01-27 |
 | [Kiss Me on the Floor](https://open.spotify.com/track/5wIBA1lYaBIrycozAWCqyI) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Kiss Me on the Floor](https://open.spotify.com/album/4X7CbXtYH209XThPd3sdSr) | 2:54 | 2023-11-10 |  |
+| [kissing for practice](https://open.spotify.com/track/6iLJT7os4NoV3GhQdILDpy) | [Sarah Thompson](https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j) | [kissing for practice](https://open.spotify.com/album/4Lky7SHYZjvEEedNZKHZcG) | 3:29 | 2025-04-11 |  |
 | [Knievel](https://open.spotify.com/track/1ldzWhXrE6hh4CJBBn17DZ) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Knievel](https://open.spotify.com/album/1z2YrXsRB4B7rgg1g69cYh) | 3:02 | 2021-08-14 | 2021-10-16 |
 | [Kool](https://open.spotify.com/track/35arSG83D9FCN2Ts0qOuoc) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 2:48 | 2020-11-13 | 2021-02-20 |
 | [La Novela](https://open.spotify.com/track/0zeeAjrLX2mNacLeefRTGG) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [La Novela](https://open.spotify.com/album/0Jm9vE88gbVVxYVyXfSgcY) | 4:51 | 2022-02-11 | 2022-03-05 |
@@ -715,6 +716,7 @@
 | [Magazines](https://open.spotify.com/track/3jqkxkAoFA9T3ohkLmaeJs) | [Finding Hope](https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg) | [Magazines](https://open.spotify.com/album/5qiV1lVO8EGxnIwcBXtSJ2) | 2:43 | 2022-02-25 | 2023-01-06 |
 | [Make Believe](https://open.spotify.com/track/1Pfk03tf9z8b5MPeK9uNVR) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [Make Believe](https://open.spotify.com/album/4VwrrAYg9D88tV0cGKZg0B) | 3:28 | 2022-08-19 | 2022-11-13 |
 | [Make Believe](https://open.spotify.com/track/2Fz9Mfjo3GTENXxoZ6YVku) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [What Tomorrow Brings](https://open.spotify.com/album/1w64Qy4uueDC8hItAkBV8Z) | 3:28 | 2022-10-28 | 2023-06-24 |
+| [Make It Out](https://open.spotify.com/track/1DkqX0g5vuw1VcOkbiTOqy) | [no good](https://open.spotify.com/artist/4TQBssOnDLpMnLN8hdeLKF) | [Make It Out](https://open.spotify.com/album/5kcB8bCN38CMvflESOIcMm) | 2:40 | 2025-04-11 |  |
 | [Make My Bed](https://open.spotify.com/track/2xN8wluJkPng1dpUd6h9hW) | [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f) | [Make My Bed](https://open.spotify.com/album/0viAFE6FcjxVPF7EL0yTlA) | 2:56 | 2021-05-22 | 2021-08-14 |
 | [Make Up Your Mind](https://open.spotify.com/track/4R08fSLXE7LFNJAuNh1avy) | [Devan](https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2) | [Pink Noise](https://open.spotify.com/album/4Y18OAJV6GwtTlQ6E5vcoc) | 2:04 | 2021-02-27 | 2021-05-03 |
 | [Makes Me Sick](https://open.spotify.com/track/2gCIv3pJkzfX4kRj6wnIAS) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Makes Me Sick](https://open.spotify.com/album/2eS6hfchrO12pXPSvH5YDy) | 2:24 | 2022-03-04 | 2022-07-16 |
@@ -831,6 +833,7 @@
 | [once upon a time](https://open.spotify.com/track/4NjujPB7uiaesE5BFzAWxL) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [once upon a time](https://open.spotify.com/album/0gbp8QKU3YoK1364Zi9Arh) | 3:30 | 2023-01-27 | 2023-03-03 |
 | [One More Day](https://open.spotify.com/track/6EEOfwJ6K8z7Kx4B02dVP4) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF), [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [One More Day](https://open.spotify.com/album/2fMyuRiPrm57Z60DowjQPi) | 4:29 | 2021-05-03 | 2021-05-22 |
 | [OOZ](https://open.spotify.com/track/02SS3PqtrKPZpWnTtyTFaN) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [OOZ](https://open.spotify.com/album/1NZjWMc4WucANW1OGEFUvo) | 4:29 | 2021-02-13 | 2021-03-27 |
+| [optimist](https://open.spotify.com/track/6sSE5oFiUSPpijlIBxeF70) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [optimist](https://open.spotify.com/album/2RiSaykU1d75bXHOKxAfvk) | 2:48 | 2025-04-11 |  |
 | [Orange Hoodie](https://open.spotify.com/track/7zznnb4017w7BwU5tMiBi9) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Orange Hoodie](https://open.spotify.com/album/7kjDSALwRw5EjnkNzTyc5t) | 2:59 | 2021-03-27 | 2021-06-19 |
 | [OTT](https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [OTT](https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG) | 2:37 | 2022-07-08 | 2022-09-17 |
 | [out of place](https://open.spotify.com/track/25bLY2lcGRFDlwLVImTdL4) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK), [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [out of place](https://open.spotify.com/album/0Ip616glU6BrtTZZcpN98D) | 2:42 | 2023-07-28 | 2023-10-14 |

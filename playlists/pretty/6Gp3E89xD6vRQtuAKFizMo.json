@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44177,
+  "num_followers": 44174,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZ9yX/tGkfNFl9U3cnkXAQKlrfquor",
+  "snapshot_id": "AAAZ+CW1IAuVSgsXPdIYyVe0mhPznLb5",
   "tracks": [
+    {
+      "added_at": "2025-04-11 17:02:18",
+      "album": {
+        "name": "Walk Away",
+        "url": "https://open.spotify.com/album/6SU0RYy52AlhbxmqrFLmgT"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        }
+      ],
+      "duration_ms": 189077,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/6v0MkE83u8BmNTgorcN0Bg"
+    },
     {
       "added_at": "2025-04-10 20:54:47",
       "album": {

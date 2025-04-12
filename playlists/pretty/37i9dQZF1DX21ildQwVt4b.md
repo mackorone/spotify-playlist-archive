@@ -4,17 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21ildQwVt4b.md) - [plain]
 
 > Featuring all trans, non\-binary, and two spirit voices discussing the future of gender justice.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,060 likes - 8 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,059 likes - 7 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pushing Back Against Anti\-Trans Media & Policies with Chase Strangio](https://open.spotify.com/episode/1drGQAmfU7GifkpMGTBWE1) | [The Laverne Cox Show](https://open.spotify.com/show/2GPQaKpelElHdMyhbILHil) | [The Laverne Cox Show](https://open.spotify.com/album/2GPQaKpelElHdMyhbILHil) | 1:16:08 |
-| 2 | [Immigration, Detention and Trans Rights](https://open.spotify.com/episode/7xenHJhunGNwJw6fOv3PgR) | [TransLash Podcast with Imara Jones](https://open.spotify.com/show/3bKZAZDRPlB8ZRyUSpJ6t8) | [TransLash Podcast with Imara Jones](https://open.spotify.com/album/3bKZAZDRPlB8ZRyUSpJ6t8) | 40:52 |
-| 3 | [What Does Pride Mean To You? with Ashlee Marie Preston](https://open.spotify.com/episode/2nfU9RHgXxLCtVAdIl32rA) | [Getting Better with Jonathan Van Ness](https://open.spotify.com/show/0wK8MPt9f2z2R4HustgqHh) | [Getting Better with Jonathan Van Ness](https://open.spotify.com/album/0wK8MPt9f2z2R4HustgqHh) | 1:02:48 |
-| 4 | [Transgender Justice with Shon Faye](https://open.spotify.com/episode/55Jz0jnkiAPQRZgikL09zJ) | [I Weigh with Jameela Jamil](https://open.spotify.com/show/48QtcFDDyQzKIc4B0fo4V7) | [I Weigh with Jameela Jamil](https://open.spotify.com/album/48QtcFDDyQzKIc4B0fo4V7) | 1:25:50 |
-| 5 | [Shea Diamond: Why Music is a Tool for Trans Liberation](https://open.spotify.com/episode/0yXJVRzsL8e2xPLMvenKfQ) | [LGBTQ&A](https://open.spotify.com/show/37E7LIv89GodYNEBAWREd8) | [LGBTQ&A](https://open.spotify.com/album/37E7LIv89GodYNEBAWREd8) | 32:47 |
-| 6 | [Indigiqueer Futurisms](https://open.spotify.com/episode/3nAwMuM7ehk07jQVHQV5ul) | [Two Spirit Talks](https://open.spotify.com/show/0rLW1CVfQ7xC3WwrMdRkHz) | [Two Spirit Talks](https://open.spotify.com/album/0rLW1CVfQ7xC3WwrMdRkHz) | 1:00:30 |
-| 7 | [Beyond Trans Visibility with Raquel Willis](https://open.spotify.com/episode/0zubOYcGRmjgZOPCvTE4q9) | [Unladylike](https://open.spotify.com/show/4HIbrI2ckotPHTh6REyR73) | [Unladylike](https://open.spotify.com/album/4HIbrI2ckotPHTh6REyR73) | 42:20 |
-| 8 | [Bonus: From the Vault: Sylvia Rivera & Marsha P\. Johnson, 1970](https://open.spotify.com/episode/6quZFURWoHUBwJadcMCh9a) | [Making Gay History \| LGBTQ Oral Histories from the Archive](https://open.spotify.com/show/1NlHk37Vo7HlGE1CFg8uGx) | [Making Gay History \| LGBTQ Oral Histories from the Archive](https://open.spotify.com/album/1NlHk37Vo7HlGE1CFg8uGx) | 22:07 |
+| 2 | [What Does Pride Mean To You? with Ashlee Marie Preston](https://open.spotify.com/episode/2nfU9RHgXxLCtVAdIl32rA) | [Getting Better with Jonathan Van Ness](https://open.spotify.com/show/0wK8MPt9f2z2R4HustgqHh) | [Getting Better with Jonathan Van Ness](https://open.spotify.com/album/0wK8MPt9f2z2R4HustgqHh) | 1:02:48 |
+| 3 | [Transgender Justice with Shon Faye](https://open.spotify.com/episode/55Jz0jnkiAPQRZgikL09zJ) | [I Weigh with Jameela Jamil](https://open.spotify.com/show/48QtcFDDyQzKIc4B0fo4V7) | [I Weigh with Jameela Jamil](https://open.spotify.com/album/48QtcFDDyQzKIc4B0fo4V7) | 1:25:50 |
+| 4 | [Shea Diamond: Why Music is a Tool for Trans Liberation](https://open.spotify.com/episode/0yXJVRzsL8e2xPLMvenKfQ) | [LGBTQ&A](https://open.spotify.com/show/37E7LIv89GodYNEBAWREd8) | [LGBTQ&A](https://open.spotify.com/album/37E7LIv89GodYNEBAWREd8) | 32:47 |
+| 5 | [Indigiqueer Futurisms](https://open.spotify.com/episode/3nAwMuM7ehk07jQVHQV5ul) | [Two Spirit Talks](https://open.spotify.com/show/0rLW1CVfQ7xC3WwrMdRkHz) | [Two Spirit Talks](https://open.spotify.com/album/0rLW1CVfQ7xC3WwrMdRkHz) | 1:00:30 |
+| 6 | [Beyond Trans Visibility with Raquel Willis](https://open.spotify.com/episode/0zubOYcGRmjgZOPCvTE4q9) | [Unladylike](https://open.spotify.com/show/4HIbrI2ckotPHTh6REyR73) | [Unladylike](https://open.spotify.com/album/4HIbrI2ckotPHTh6REyR73) | 42:20 |
+| 7 | [Bonus: From the Vault: Sylvia Rivera & Marsha P\. Johnson, 1970](https://open.spotify.com/episode/6quZFURWoHUBwJadcMCh9a) | [Making Gay History \| LGBTQ Oral Histories from the Archive](https://open.spotify.com/show/1NlHk37Vo7HlGE1CFg8uGx) | [Making Gay History \| LGBTQ Oral Histories from the Archive](https://open.spotify.com/album/1NlHk37Vo7HlGE1CFg8uGx) | 22:07 |
 
 Snapshot ID: `ZIsQMQAAAABsjxrgPXQ1x6D4jegf7Awv`

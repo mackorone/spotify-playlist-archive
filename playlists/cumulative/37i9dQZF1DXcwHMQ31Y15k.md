@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Gildcoustic
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Pulung Agustanto
 
-465 songs - 1 day 14 hr 49 min
+468 songs - 1 day 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Kabeh Nggo Koe](https://open.spotify.com/track/209P8tFH0UxWDP3MZ3Sbfg) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO) | [Kabeh Nggo Koe](https://open.spotify.com/album/3f42ksw5ZefYGVfMjuF41D) | 5:12 | 2024-03-29 | 2024-07-27 |
 | [Kabur Kanginan](https://open.spotify.com/track/6DRBeuRymM6gRvAn1WgU0S) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Kabur Kanginan](https://open.spotify.com/album/5QQa65NbHXXMZSVCbdiWYP) | 4:34 | 2022-05-26 | 2022-08-26 |
 | [Kalah](https://open.spotify.com/track/6w7wnRZVLdVQGpvAnpI7Wf) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL), [Restianade](https://open.spotify.com/artist/2snngeuArUgVK4TxAWwe9a) | [Kalah](https://open.spotify.com/album/3sOqpgD6n7tYmN75GdUGYx) | 6:38 | 2023-11-09 |  |
+| [Kalah](https://open.spotify.com/track/2Uy05WmObvsta92QuWREA5) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A), [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Kalah](https://open.spotify.com/album/6camQfWZCytbKSQkFJG8S5) | 6:43 | 2025-04-11 |  |
 | [Kalah](https://open.spotify.com/track/0kzmveXWWN9DaMTZr3NkgT) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [Munif Kurnia](https://open.spotify.com/artist/5SgP9nLQpFsx6yT4TiYznC) | [Kalah](https://open.spotify.com/album/7hJjL5PmkhPZoMZxoVa0pp) | 6:46 | 2024-04-18 | 2024-07-27 |
 | [Kalah 2](https://open.spotify.com/track/1CHQEzT8SY3pPoBz9FuSgb) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Kalah 2](https://open.spotify.com/album/2XDM13lSNzlB3eIz1wJGoO) | 5:10 | 2024-02-29 |  |
 | [Kalah 2](https://open.spotify.com/track/31YjCe7pqLWsPtBXXQqVQZ) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Kalah 2](https://open.spotify.com/album/6ThWUlgnl9fn22uOB4Wo1X) | 6:39 | 2024-10-24 | 2025-02-21 |
@@ -388,6 +389,7 @@
 | [Sauro Utangmu](https://open.spotify.com/track/6f706XSdV2nXC12MH3Q3UI) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Sauro Utangmu](https://open.spotify.com/album/3timUfmLKHoJOVufGh4Vpk) | 3:33 | 2024-05-02 | 2024-09-27 |
 | [Sauro Utangmu \(Genjrengan\)](https://open.spotify.com/track/095Xxzpu6iz7Vt0RnEwgC5) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Sauro Utangmu \(Genjrengan\)](https://open.spotify.com/album/1mI60JNFsKxSiC2E9IGD7V) | 1:08 | 2024-03-08 | 2024-06-14 |
 | [Sauro Utangmu \- Live Version At The Boston Coffee](https://open.spotify.com/track/3L3cjYYFDoGKUFtgAgOAJW) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Syalala Orkes Milenial](https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl) | [Sauro Utangmu \(Live Version At The Boston Coffee\)](https://open.spotify.com/album/5CKlz2wqgOSDiIAJJM5GHQ) | 3:34 | 2024-08-29 | 2024-12-27 |
+| [Sebatas Friendly](https://open.spotify.com/track/2pMwqwUIKr2Il7ut4PsVAR) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Sebatas Friendly](https://open.spotify.com/album/6m54ZCI0KJOH0VxDs8OVXA) | 4:13 | 2025-04-11 |  |
 | [Segara Madu](https://open.spotify.com/track/4kMtihSvVqRhr45eK5uz39) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53) | [Segara Madu](https://open.spotify.com/album/1KljrA6Su3zWyhLPZt9byR) | 4:41 | 2024-11-21 |  |
 | [Segara Madu \- Live](https://open.spotify.com/track/0qVtwT8OOMIYyzEhKAsf45) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53) | [Segara Madu \(Live\)](https://open.spotify.com/album/1H4fbANs1S0ZsSBCuWVlOg) | 6:00 | 2024-11-28 | 2025-02-21 |
 | [Sekti](https://open.spotify.com/track/4L7Jom9mgHDWSprlUSK2jq) | [Suliyana](https://open.spotify.com/artist/4TJKjrYnqDXwBi1xJ5CyUc) | [Sekti](https://open.spotify.com/album/2DBAfqXXPegevjiLQLwllO) | 4:42 | 2024-10-24 |  |
@@ -454,6 +456,7 @@
 | [Tutug](https://open.spotify.com/track/3DwDTd0AvCgWlPkLzSOXIA) | [Adhimas Dewa Tricahya](https://open.spotify.com/artist/2EYDh9L9Mz6EMjbcfXTanv) | [Tutug](https://open.spotify.com/album/4Z5swETDpF0iAR2rinVRyF) | 4:57 | 2024-10-11 | 2025-01-03 |
 | [Tutupono](https://open.spotify.com/track/2hSAl1oXLAC0PbTXdRaMee) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Tutupono](https://open.spotify.com/album/4jabGpRwf88fAgVkDxoPbd) | 6:12 | 2023-07-28 | 2024-12-13 |
 | [Ubur \- Ubur Ikan Lele](https://open.spotify.com/track/1Hyds32OOuXj1viFTSDokZ) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Ubur \- Ubur Ikan Lele](https://open.spotify.com/album/3BDt47hf31UCLwAoCdDIoQ) | 5:23 | 2025-02-13 |  |
+| [Ubur Ubur Iwak Lele](https://open.spotify.com/track/3FJZNVYUFmCVsxJNUs9rNr) | [Pulung Agustanto](https://open.spotify.com/artist/69CjecYi7l5Nd1JDFFFcTQ) | [DISKOJAWA III](https://open.spotify.com/album/71BsyPJOw4bQ4LjF5uaM8W) | 4:12 | 2025-04-11 |  |
 | [Urip Rekoso](https://open.spotify.com/track/75APZykcRrekbpKkE798OD) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb) | [Urip Rekoso](https://open.spotify.com/album/7vFS81qrJnWRPhMURUybUc) | 4:27 | 2023-10-06 | 2024-03-15 |
 | [WARADA](https://open.spotify.com/track/35MTI9jWQqKdBUptLh2Roq) | [Miqbal GA](https://open.spotify.com/artist/4Fze9hgN2zqkdoLgXYIyCu), [Siska Amanda](https://open.spotify.com/artist/6auqSYHZVUwYATym8jyqeq) | [WARADA](https://open.spotify.com/album/0HiIrGwtdRKGMCwi9EQgUT) | 4:25 | 2024-06-13 | 2024-12-27 |
 | [Waton](https://open.spotify.com/track/3uIn4odpSB1ob8lqSYE0VP) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb) | [Waton](https://open.spotify.com/album/0lAfrVXeLeHFkkpt3WMeCF) | 4:13 | 2023-08-31 | 2023-12-09 |

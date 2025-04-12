@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,277 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,291 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sithira Puthiri \- From "Think Indie"](https://open.spotify.com/track/1uQU9b93tlMlMoZ0h2bRgf) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Sithira Puthiri \(From "Think Indie"\)](https://open.spotify.com/album/6545nscQNozQwGuO6AIabc) | 3:46 |
 | 2 | [Paiya Dei \- From "Think Indie"](https://open.spotify.com/track/5zgalMo7LWrUPbnv9tgupN) | [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [Anand Kashinath](https://open.spotify.com/artist/6MIdOllsuMuSj4s6b833Di) | [Paiya Dei \(From "Think Indie"\)](https://open.spotify.com/album/64rBaqo05hIvSgN2cDMT40) | 2:35 |
-| 3 | [Thalapathi](https://open.spotify.com/track/1IbDIb1GrZW20gQXlRupZX) | [bebhumika](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl), [pixlpxl®](https://open.spotify.com/artist/1EGgZfRoAg2Z5kAbF5XaH1), [Flameboi](https://open.spotify.com/artist/7gDVeDg6db32fZhZKIeL3n) | [Thalapathi](https://open.spotify.com/album/6Ogqh0N4DVyNhJqGEEQdJY) | 3:05 |
+| 3 | [SOODA](https://open.spotify.com/track/3pooF21TkvwlapuPwhfhmT) | [Tha Mystro](https://open.spotify.com/artist/1CDq8tF7Lqvq3TqLCmNOMQ), [Amos Paul](https://open.spotify.com/artist/4mCA5AJnvdiCiKB6Rk8ne9), [Ahashe](https://open.spotify.com/artist/2taTlDnfwjHmQWPf780NP9), [Selojan](https://open.spotify.com/artist/3LarUwOHm8HD027JGUMJwU) | [SOODA](https://open.spotify.com/album/1rwU2JKbH8FpC1sv6m9oKQ) | 3:44 |
 | 4 | [Nenjin Ezhuth](https://open.spotify.com/track/7Et1EN5V7xAyPjYOk8nSh3) | [Adarsh Krishnan N](https://open.spotify.com/artist/3V2xynGnDRU4GNoQR37XYG), [Vidya Lakshmi G](https://open.spotify.com/artist/3lzErVdKehpglGTvEUwDH8) | [Nenjin Ezhuth](https://open.spotify.com/album/4gwvLFWCnLtWvGHpW5SUoV) | 3:49 |
 | 5 | [Vithai](https://open.spotify.com/track/7gVRbTMwyNzwNlOduoCkew) | [M.S.Jones Rupert](https://open.spotify.com/artist/3kzeW36gRksyI7yXgEECID), [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj), [Navin B](https://open.spotify.com/artist/6TDQaaAsnv51t1kss39h5I) | [Vithai](https://open.spotify.com/album/1JmydMwPlNTgBmY2NW4fjg) | 4:07 |
 | 6 | [HAMILTON](https://open.spotify.com/track/46Zt8NpcGIxnfitzm2XSLl) | [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ), [Killa K](https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf) | [HAMILTON](https://open.spotify.com/album/55faVp7wRhzY3DsUeGpCyV) | 2:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 | 74 | [Nilla Mazhaiye](https://open.spotify.com/track/7Hr9ckrf61lR4DzhZVh5qv) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Dharrini Santhabavan](https://open.spotify.com/artist/5RgQJpUJIaouCA81goKiOW) | [Nilla Mazhaiye](https://open.spotify.com/album/3tGnd1qzSk38wdliXhPAyI) | 4:25 |
 | 75 | [Naangam Kadal Noaku Saalai](https://open.spotify.com/track/2fzax8wSUQhVn9ZkuaaN1x) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g) | [Naangam Kadal Noaku Saalai](https://open.spotify.com/album/6NhgnDvN4rPZ0vgc2BCy5j) | 4:11 |
 
-Snapshot ID: `Z/PGgAAAAAACWIpq1TE78uP0LYbrSZ7t`
+Snapshot ID: `Z/jQvQAAAAAagduPOc+hH9ffOn7sLR2l`

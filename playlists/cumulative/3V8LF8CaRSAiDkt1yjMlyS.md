@@ -4,7 +4,7 @@
 
 > 
 
-181 songs - 9 hr 42 min
+183 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 | 2023-09-08 |  |
 | [pure imagination \- slowed + reverb](https://open.spotify.com/track/7iMWAkz8g5dxtTueDeG0zs) | [slō](https://open.spotify.com/artist/5ENhy70PiA8QzfghaFQ7Ey), [twilight](https://open.spotify.com/artist/4xEsDLdD6DgtKhlCCJq4Ri), [Tazzy](https://open.spotify.com/artist/1LbQ66B9mZIHGhjRu9fvKo) | [pure imagination \- slowed + reverb](https://open.spotify.com/album/6mAmlzLUKNuBQ4HYiom0Rs) | 2:19 | 2023-01-13 |  |
 | [QKThr](https://open.spotify.com/track/4LIM4qmpHABufePRrLWbiM) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 1:27 | 2023-09-25 |  |
+| [Rain](https://open.spotify.com/track/5ji0TlbJHbHkbNrr6hoi0n) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Rain](https://open.spotify.com/album/43e8cs35ILaJjlDtj8H44z) | 4:20 | 2025-04-11 |  |
 | [Red Flags](https://open.spotify.com/track/2QtqXZD7Y9ivoVMakwY7ky) | [Globalqtheartist](https://open.spotify.com/artist/0lAgiqUZ85Jy3bxOkiXoHH) | [Red Flags](https://open.spotify.com/album/0BOgMe86UyGQ3epLNOI4A5) | 4:18 | 2025-02-28 | 2025-03-27 |
 | [Reflections](https://open.spotify.com/track/5Zf25eS8E1znm9mez4cGsm) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [ひとつぶの海](https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz) | 2:10 | 2023-01-16 |  |
 | [Relax](https://open.spotify.com/track/5TuTHrKzN6NweeQaKkBNb7) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Vibes](https://open.spotify.com/album/54lNPJ6xq2QXwG6jLEIf6C) | 2:38 | 2023-05-26 |  |
@@ -157,6 +158,7 @@
 | [Sunrise\_\_\_](https://open.spotify.com/track/32ZLROie2BHCySw8JFZ9IL) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 1:06 | 2023-05-26 |  |
 | [Taking Chances](https://open.spotify.com/track/4V6OQMf2e6cNnwUiV1zTgE) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 3:50 | 2023-01-23 |  |
 | [Telephones](https://open.spotify.com/track/0JIMT9gzLIIz0esKLyjbKf) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Changes](https://open.spotify.com/album/3Ull45eHLzGXtElhKHFJ7C) | 3:32 | 2023-09-24 |  |
+| [The Answer](https://open.spotify.com/track/62vVbTLJrEWEx7YD584wqs) | [SV](https://open.spotify.com/artist/6ABoiNLC8RChkiFvzIOqKi), [Antonia Marquee](https://open.spotify.com/artist/2knrCbiVXjHbxY4g5U6Vnz), [Kevon Scott](https://open.spotify.com/artist/0QQRd94fteqgMZD8SQiojh) | [Past Partial](https://open.spotify.com/album/3q6jIkvn5lzHN2IKCIbaXY) | 1:57 | 2025-04-11 |  |
 | [The Beach \(Instrumental\)](https://open.spotify.com/track/5cDNzcok72q3HC0Lw6FyAR) | [mxpheebz](https://open.spotify.com/artist/2WU2zdyBSJwYeG8GPH17Rl) | [The Beach \(Instrumental\)](https://open.spotify.com/album/6qOJD0XTJIv1knNHELSHAm) | 3:50 | 2023-09-21 |  |
 | [The Comfort of a Laugh Track](https://open.spotify.com/track/7y81xCrjzEDA5DLKfIT0h8) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I'm Not Here to Make Friends](https://open.spotify.com/album/3DjTiR2VRYtZgPeK660iO8) | 4:52 | 2024-01-01 |  |
 | [The Moon Song](https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [The Moon Song](https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm) | 2:21 | 2023-09-23 |  |

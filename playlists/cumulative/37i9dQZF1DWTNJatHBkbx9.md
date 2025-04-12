@@ -2,9 +2,9 @@
 
 ### [Alt\. Ghana](https://open.spotify.com/playlist/37i9dQZF1DWTNJatHBkbx9)
 
-> From the alternative scene in Ghana\. Cover: Lali x Lola
+> From the alternative scene in Ghana\. Cover: Mellissa
 
-185 songs - 9 hr 12 min
+187 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Fortified](https://open.spotify.com/track/3QQI0IgPr82JQr9xRAuRE9) | [Freddie Gambini](https://open.spotify.com/artist/4fuRrfCxlAdAUEB0dkLlAg) | [Fortified](https://open.spotify.com/album/25npZ3uCUPutKiwEGHalxP) | 2:44 | 2024-10-04 | 2024-11-08 |
 | [Gbonyo Party](https://open.spotify.com/track/74UDz0eNWuVPowvxAo9qTk) | [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [Tsotsoo](https://open.spotify.com/album/57y1bzHoBIHFlMEz5APeCc) | 2:07 | 2024-05-10 | 2024-06-01 |
 | [Ghana Bop](https://open.spotify.com/track/2tB0TY5qVlyn4Zvk7d3b7Z) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [WONDERGIRL](https://open.spotify.com/album/4Dr0okleRrumtnKtuWkD5a) | 2:44 | 2024-05-10 | 2024-07-27 |
-| [Give It Back](https://open.spotify.com/track/0GamHHdEZTOeKl6fSCY0I3) | [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Chief Kellz](https://open.spotify.com/artist/4eHWOufqo0n5FnfpEl25Ly) | [Tsotsoo](https://open.spotify.com/album/57y1bzHoBIHFlMEz5APeCc) | 3:43 | 2024-05-10 |  |
+| [Give It Back](https://open.spotify.com/track/0GamHHdEZTOeKl6fSCY0I3) | [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Chief Kellz](https://open.spotify.com/artist/4eHWOufqo0n5FnfpEl25Ly) | [Tsotsoo](https://open.spotify.com/album/57y1bzHoBIHFlMEz5APeCc) | 3:43 | 2024-05-10 | 2025-04-12 |
 | [Godzilla \(feat\. Darkovibes, KiddBlack\)](https://open.spotify.com/track/5uKodxytjsjSl9yiOHnbJG) | [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH) | [La Même Tape](https://open.spotify.com/album/6rTmz2G8NKu9GkrAA5Yumv) | 3:21 | 2024-05-10 | 2024-08-09 |
 | [Gold Coast](https://open.spotify.com/track/7oFuhAAM6OK0pdHkD4NsXB) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Gold Coast](https://open.spotify.com/album/352183p8jEPAkKCt4UPa1x) | 3:40 | 2024-07-12 | 2024-10-19 |
 | [Hankipanki \- Remix](https://open.spotify.com/track/1AvXjAlNaFNlDpSMO4qPum) | [Josh Blakk](https://open.spotify.com/artist/0NbfqAkLJq6uLLCKKY3u2l), [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [O.N.E \(Deluxe\)](https://open.spotify.com/album/7MxR3T4j6QRmjsPftzciOI) | 3:39 | 2024-06-14 | 2024-07-12 |
@@ -82,6 +82,7 @@
 | [Jealousy](https://open.spotify.com/track/4GXomWQ6gM35tkNSLDyyGs) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [Bapi Joss](https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH) | [Jealousy](https://open.spotify.com/album/5kbwu062qXld4Lohof92JA) | 2:53 | 2024-11-22 |  |
 | [Jolie](https://open.spotify.com/track/2BqNhy0Fc6VZk6TfQu5DDY) | [BiQo](https://open.spotify.com/artist/7ANB4Bn0ymGL0meB4VhR6y) | [Jolie](https://open.spotify.com/album/181bermR5Tqlsp90dHgvdP) | 2:45 | 2024-05-10 | 2024-05-17 |
 | [Just Breathe](https://open.spotify.com/track/4TScWOVUA0ae8vN4OynnPJ) | [Robin\-Huws](https://open.spotify.com/artist/1RcO4pGVPhNqj44hJL8bjA) | [Just Breathe](https://open.spotify.com/album/32dEuOayJMbdk4EbGWsPcs) | 3:15 | 2024-05-31 | 2024-09-13 |
+| [Korle Bu No Get Bed](https://open.spotify.com/track/161wQEvlxiqmUFT3TmLMOX) | [M3NSA](https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s), [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [F.O.L.A.H 1 \(Fear Of Love And Happiness\)](https://open.spotify.com/album/4ABLWme9yWPWOB4mqhDr5t) | 2:04 | 2025-04-11 |  |
 | [Krobo Princess](https://open.spotify.com/track/7JuzZV5N4yqPv8FYoEhFUj) | [Sofie](https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0) | [Krobo Princess](https://open.spotify.com/album/1wqUzzGSfsUBdZuT51tyYy) | 2:57 | 2024-08-09 | 2025-03-29 |
 | [Lactose](https://open.spotify.com/track/0e3qyt6xOYv3KdyfWkHUgm) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Lactose](https://open.spotify.com/album/08uLn2YYWmcy7B9u5rxeoj) | 2:53 | 2024-05-10 |  |
 | [Last Laugh](https://open.spotify.com/track/20WmTjQrBqDLvsSaLG6bKi) | [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [Take The L](https://open.spotify.com/album/1lwwDyRJgvfPa8tqE9mov3) | 2:59 | 2024-10-25 | 2024-11-29 |
@@ -171,6 +172,7 @@
 | [Sunshine](https://open.spotify.com/track/5ApfOFw9J5DZ2XLKQFL8Hm) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Sunshine](https://open.spotify.com/album/4OdvBnXcegSXUJmw3Vewhl) | 2:51 | 2024-05-10 |  |
 | [Sweet Jelosee](https://open.spotify.com/track/0EFDpYjP4AZwAP9BtRPNH0) | [Wanlov The Kubolor](https://open.spotify.com/artist/2XLD6g0IGqvFw7BLedIZqV) | [Sweet Jelosee](https://open.spotify.com/album/5EQygzAyWT9tLuQf2csdr8) | 3:48 | 2025-02-28 |  |
 | [Talk is Cheap](https://open.spotify.com/track/131gYrutihXNvIUEtBYSbG) | [Asi Renie](https://open.spotify.com/artist/6LN0wKo0KuF6TBgwn0hvja) | [Talk is Cheap](https://open.spotify.com/album/6j4ePc4BYeLuqtXNf7lpqy) | 3:30 | 2024-10-18 |  |
+| [Tattoo](https://open.spotify.com/track/6BZ2DNapAPgzNDMz3tozhU) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Tattoo](https://open.spotify.com/album/6YOb8QKtwiEQwQj9n1kJuW) | 3:15 | 2025-04-11 |  |
 | [The Abyss](https://open.spotify.com/track/0CpRA17czK0iR7vxWh94st) | [Sena Dagadu](https://open.spotify.com/artist/3ceHJPOe3uPruYejDNWXWH), [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [The Abyss](https://open.spotify.com/album/2CIWY4iu9QvlCjGIKUDEVV) | 3:18 | 2025-01-31 |  |
 | [THE CLOSEST THING](https://open.spotify.com/track/7KPA0RkunefjdsWno5meNW) | [Jake Cromwell](https://open.spotify.com/artist/3lghkRo1hFX4SQ21tmTybh) | [Kimono Kid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6qpQ40zr0wyD4NtybWr2P8) | 4:35 | 2025-03-07 | 2025-03-29 |
 | [Tides](https://open.spotify.com/track/4y4rdAhUNDCTA69A7ssyiV) | [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [REMEMBER](https://open.spotify.com/album/5OBuRoSxAydiHNkG0YAB5q) | 4:32 | 2024-05-10 | 2025-03-29 |
@@ -184,7 +186,7 @@
 | [UNO](https://open.spotify.com/track/2wkETmSgtUgDyg8i94AZrn) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [MONOCHROME RADIO](https://open.spotify.com/album/2LBqxBoNbVgb6lioat3POo) | 2:33 | 2024-06-21 |  |
 | [Weird Space](https://open.spotify.com/track/0ZahurG13submevaayPoLL) | [Boyd](https://open.spotify.com/artist/0cNLx90Z8YDY4hPxLrHESJ) | [Weird Space](https://open.spotify.com/album/3OoNywIFSlXdYHDwANiVHk) | 2:46 | 2024-05-10 |  |
 | [What Do They Know](https://open.spotify.com/track/1gaAyp2j9ymWjnNnSc9hJ2) | [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [Dilemma](https://open.spotify.com/album/0rUMdn1M67eLJ11sQHt3iR) | 2:57 | 2024-05-10 |  |
-| [WICKED](https://open.spotify.com/track/33ngGj804cbv6bLV3r8ljR) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [ACT 2](https://open.spotify.com/album/6MudGkfVHCyDuy56SU8CYC) | 2:48 | 2024-05-10 |  |
+| [WICKED](https://open.spotify.com/track/33ngGj804cbv6bLV3r8ljR) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [ACT 2](https://open.spotify.com/album/6MudGkfVHCyDuy56SU8CYC) | 2:48 | 2024-05-10 | 2025-04-12 |
 | [Wildin' Time](https://open.spotify.com/track/1WCM6yyXX5BjGqxbbyUtNX) | [Fonye](https://open.spotify.com/artist/0wtEd1BCIE0Kj5BOOLb3AE), [The Souly Bird](https://open.spotify.com/artist/74wCSmFTu9ySg4TB4n80ld) | [Wildin' Time](https://open.spotify.com/album/4xSmYHTEfp42nw6NebOkk9) | 2:28 | 2024-09-27 | 2024-11-08 |
 | [Wine](https://open.spotify.com/track/2jpy0Amc4lz9rJodkYCUBW) | [Clive](https://open.spotify.com/artist/0LJrjizc2pgyDOy9FRgLsI) | [Wine](https://open.spotify.com/album/7eQpq5QztpKzA25D3EKgEt) | 3:36 | 2024-05-10 | 2024-07-27 |
 | [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 | 2024-05-10 | 2024-08-17 |

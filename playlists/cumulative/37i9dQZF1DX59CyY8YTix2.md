@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: あたらよ
 
-1,849 songs - 4 day 18 hr 48 min
+1,850 songs - 4 day 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,7 +473,7 @@
 | [Love Drive](https://open.spotify.com/track/2LplyZgcSGMJp7MZhZVyKZ) | [And Summer Club](https://open.spotify.com/artist/7esTGz7zpYTyeGXoHe1LBT) | [Love Drive](https://open.spotify.com/album/3j1LRLwDx6UYclUtrUdXfj) | 1:57 | 2022-07-07 | 2022-07-10 |
 | [LOVE GONNA DIE](https://open.spotify.com/track/6Kuwo0zi3KMzFCBLplp7Zi) | [CHIANZ](https://open.spotify.com/artist/131DUTfKAyi7NWTRfnnxxX) | [LOVE GONNA DIE](https://open.spotify.com/album/0zNAIV9ochfdYkqzfrdZV4) | 3:05 | 2024-06-12 | 2024-06-26 |
 | [Love no Genkei](https://open.spotify.com/track/2WW8KjNeaeKLCV16w4vmO7) | [AJICO](https://open.spotify.com/artist/1F6WT6I5BMsRTWTS4r92wY) | [Love no Genkei](https://open.spotify.com/album/2sOTrGKCJK6NzbDlLQm1i1) | 3:26 | 2024-03-12 | 2024-04-19 |
-| [Love Sick](https://open.spotify.com/track/2Uh2eUnSX70O8uCkUIH9Zt) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Love Sick](https://open.spotify.com/album/6mbs0OalGdSieWC0qFFNiw) | 3:42 | 2024-07-30 |  |
+| [Love Sick](https://open.spotify.com/track/2Uh2eUnSX70O8uCkUIH9Zt) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Love Sick](https://open.spotify.com/album/6mbs0OalGdSieWC0qFFNiw) | 3:42 | 2024-07-30 | 2025-04-12 |
 | [Love Song ga Iranai Kimi e](https://open.spotify.com/track/1JckJKUfnd4Xbkh7xfAk8c) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Love Song ga Iranai Kimi e](https://open.spotify.com/album/4jnUmf2eZu1fO3Pel9LwhN) | 3:43 | 2024-01-16 | 2024-02-07 |
 | [Love you](https://open.spotify.com/track/6EiYkXXJoDyTNDvIL8UiYk) | [NALUCK](https://open.spotify.com/artist/2pJw4suJbxO2ZUhNQMwJOq) | [piece](https://open.spotify.com/album/5oSSCIICpZWjsKHSMzMErq) | 3:59 | 2023-12-05 | 2023-12-13 |
 | [Lovebites](https://open.spotify.com/track/7EpfSyVW7rADdAj9mG7lbV) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Search + Destroy](https://open.spotify.com/album/3wDguisEiAJzZkeaILX46v) | 5:40 | 2022-07-07 | 2022-07-13 |
@@ -677,6 +677,7 @@
 | [ROCK](https://open.spotify.com/track/4NYxn4GycVdEoSD4gEqs8c) | [The Yeahs](https://open.spotify.com/artist/4YsLjdELeqkCzYp3O3y1bW) | [ROCK](https://open.spotify.com/album/478GKZOGhEAlUhKCn5d6MA) | 3:21 | 2024-02-13 | 2024-02-15 |
 | [ROCK](https://open.spotify.com/track/4bNzOJKdaVYpZDDQRMXxV5) | [The Yeahs](https://open.spotify.com/artist/4YsLjdELeqkCzYp3O3y1bW) | [ROCK](https://open.spotify.com/album/1NjmRXQvmmj2LOojYlMeRh) | 3:21 | 2024-02-13 | 2024-02-21 |
 | [rock'n'roll wind](https://open.spotify.com/track/7MPFIm4QP2CtyOUdX4kjIS) | [Crispy Camera Club](https://open.spotify.com/artist/3qEb8wuWUimyFEe3a8kF90) | [rock'n'roll wind](https://open.spotify.com/album/3P4b4ewj4DmaGKzCDuf8p0) | 3:44 | 2022-06-16 | 2022-06-22 |
+| [ROCKSTAR](https://open.spotify.com/track/22wzqoECjwKEZEw37WbAXX) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Best Adobum](https://open.spotify.com/album/4G1L7sZheq5RAFNbqSbp3O) | 3:43 | 2025-04-08 |  |
 | [RollerCoaster \(feat.GOUGOU from Naja Naja\)](https://open.spotify.com/track/7lZEjPqljLdtTeVotrF0RT) | [BimBamBoom feat\. GOUGOU from Naja Naja](https://open.spotify.com/artist/73U9Z9wN6fVYcc77n72LYX) | [RollerCoaster](https://open.spotify.com/album/2RuToiUWIkaPl9ayhtiSFP) | 4:11 | 2022-06-07 | 2022-06-30 |
 | [Romantic](https://open.spotify.com/track/0RUbjiQ6citzGZvortbbcY) | [プピリットパロ](https://open.spotify.com/artist/0Wqd6QKWApCBqdiJEbfkZm) | [Romantic](https://open.spotify.com/album/2qT0IsljyXf1Fg7h6sDcuh) | 3:32 | 2023-10-17 | 2023-10-25 |
 | [rose \- feat\. Vaundy](https://open.spotify.com/track/72DWkd9AazMHYDafzpq4XF) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [mixtape](https://open.spotify.com/album/3kbR4fhps595HxImAmVHvY) | 3:07 | 2023-01-31 | 2024-10-02 |

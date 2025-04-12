@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Morat & Camilo en portada.",
+  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Los Rumberos en portada.",
   "name": "Oye Pop",
   "tracks": [
     {
@@ -908,7 +908,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 227550,
       "name": "BBYOSEQESTASPENSANDO",
       "url": "https://open.spotify.com/track/3EvVWuqkOsSXR64SsIlyMu"
@@ -2799,6 +2799,28 @@
     },
     {
       "album": {
+        "name": "EL DIABLO",
+        "url": "https://open.spotify.com/album/5iF9vS6KQNnJjDXJPQI5CN"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193181,
+      "name": "EL DIABLO",
+      "url": "https://open.spotify.com/track/5Zinmdnrq6Gp8ho1VS4zAg"
+    },
+    {
+      "album": {
         "name": "EL DON",
         "url": "https://open.spotify.com/album/62k04mAHInE9G62H2ELYgm"
       },
@@ -2814,6 +2836,24 @@
       "duration_ms": 154653,
       "name": "EL DON",
       "url": "https://open.spotify.com/track/5K2S8DyARC3wPx7HVkudCH"
+    },
+    {
+      "album": {
+        "name": "EL FUTURO",
+        "url": "https://open.spotify.com/album/1Ng9T5xZvg99C7OXe6p90m"
+      },
+      "artists": [
+        {
+          "name": "PJAMA",
+          "url": "https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176449,
+      "name": "EL FUTURO",
+      "url": "https://open.spotify.com/track/4IMSD1apM7GjYUndkDue5b"
     },
     {
       "album": {
@@ -4451,6 +4491,28 @@
     },
     {
       "album": {
+        "name": "lo que no pas\u00f3...",
+        "url": "https://open.spotify.com/album/4juMbLGbAd46LZLfNDj6xj"
+      },
+      "artists": [
+        {
+          "name": "Kendall Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
+        },
+        {
+          "name": "Ana Sofi W.",
+          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157575,
+      "name": "lo que no pas\u00f3...",
+      "url": "https://open.spotify.com/track/10LrAs1T7PLpg82xnxYOzD"
+    },
+    {
+      "album": {
         "name": "Los \u00c1ngeles",
         "url": "https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI"
       },
@@ -5757,6 +5819,28 @@
     },
     {
       "album": {
+        "name": "No Me Acostumbro",
+        "url": "https://open.spotify.com/album/7K9mwXAY1WXtvrvkUlsKb0"
+      },
+      "artists": [
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        },
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187174,
+      "name": "No Me Acostumbro",
+      "url": "https://open.spotify.com/track/5SeyLi7VlCYPaZwmq89uP5"
+    },
+    {
+      "album": {
         "name": "No Me Parece",
         "url": "https://open.spotify.com/album/5RiYPdU6HrGP6RCx6UY7XA"
       },
@@ -6440,7 +6524,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 116000,
       "name": "Perder La Cabeza",
       "url": "https://open.spotify.com/track/5N5Lu4XVa9xsSPeatQMVDK"
@@ -6498,7 +6582,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 207150,
       "name": "Persona Favorita",
       "url": "https://open.spotify.com/track/06QTfbiMgQvh8gXQPlfC8J"
@@ -8072,7 +8156,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 155293,
       "name": "Te Juro No Te Miento",
       "url": "https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU"
@@ -8738,7 +8822,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 264852,
       "name": "Una Segunda Vez",
       "url": "https://open.spotify.com/track/6jwRR76yTsh74FEF8JLGuJ"
@@ -8866,6 +8950,24 @@
       "duration_ms": 144601,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/1Pw3YZofZjTNuxrGUB3wgY"
+    },
+    {
+      "album": {
+        "name": "veranito2k",
+        "url": "https://open.spotify.com/album/5M6Q1JWTHVItN8M0hCqybG"
+      },
+      "artists": [
+        {
+          "name": "FREEKIDS",
+          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "veranito2k",
+      "url": "https://open.spotify.com/track/2IzsCi96LixsDnfCHOa2uO"
     },
     {
       "album": {

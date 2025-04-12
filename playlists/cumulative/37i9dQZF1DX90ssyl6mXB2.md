@@ -4,7 +4,7 @@
 
 > late night vibes – notifications off.
 
-195 songs - 9 hr 4 min
+199 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [DIVA](https://open.spotify.com/track/1cv5SZwknENyRdD1GKAAwz) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [DIVA](https://open.spotify.com/album/0OjWVtjpB8khmxN7jKbiXZ) | 2:36 | 2024-05-10 | 2024-10-19 |
 | [DNDrnb / Growth](https://open.spotify.com/track/5rBc6vhCNjsymx6q7hYSX4) | [TYuS](https://open.spotify.com/artist/5J7URjIP8aFmeSn2QwF9Au) | [DNDrnb / Growth](https://open.spotify.com/album/089owlvV7enapyEdE4ff3M) | 3:08 | 2024-02-02 | 2025-04-05 |
 | [DnL](https://open.spotify.com/track/2yNYaq9FooEgo71ffsqqUD) | [Dimi](https://open.spotify.com/artist/5XZBEzJ9W4UvHVJ5jFD4LY), [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [DnL](https://open.spotify.com/album/3j5LN7ajbXLwYIFWKcH4lM) | 4:00 | 2024-04-05 | 2024-07-06 |
+| [Don't Go](https://open.spotify.com/track/1Tfqitwpj45BDrx612ZXHJ) | [Férina](https://open.spotify.com/artist/6sIKgvWOLwG1jc4LJ3WGfi) | [Don't Go](https://open.spotify.com/album/686AAuvven59ue7PGVXtLt) | 2:56 | 2025-04-11 |  |
 | [DONT\_SAY](https://open.spotify.com/track/4pD2U2Y4G55IqScpSb04b0) | [alan vuong](https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8) | [STORY OF ARCHIVES](https://open.spotify.com/album/72fjCMiyt17pTcle383Wpg) | 2:53 | 2024-08-30 |  |
 | [Dopamine](https://open.spotify.com/track/1MuSaxhOeNsFXdftnS5Ldc) | [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [Dopamine](https://open.spotify.com/album/05hmev84ZOX3Bfrl6D0bGC) | 2:37 | 2024-05-17 |  |
 | [Double Time](https://open.spotify.com/track/1TbRmfLl7wT5MjrKKigGbU) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [Double Time](https://open.spotify.com/album/1BMXPORYXkdUNmkPrUow1z) | 2:05 | 2024-11-01 |  |
@@ -62,6 +63,7 @@
 | [Downtown](https://open.spotify.com/track/308jljtqrUhq4Rf51zUrNj) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [alan vuong](https://open.spotify.com/artist/256TfrxYSmwLQ8eA3mNfcY) | [Made Me This Way](https://open.spotify.com/album/368u9D9vZjmbmXwsE8WmZB) | 3:31 | 2025-01-17 |  |
 | [Drake Shit](https://open.spotify.com/track/16ro5cM2twX9wSRwVMQmBC) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [EROS](https://open.spotify.com/album/2gSZZtjbuBEJ4G9qavkfUG) | 3:05 | 2024-04-05 | 2025-03-29 |
 | [Drake Shit](https://open.spotify.com/track/5oxOG73S76T48t7qI08aGG) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Drake Shit](https://open.spotify.com/album/1nlFRkbl4YO8IjjJTwZJ8G) | 3:05 | 2024-03-22 | 2024-04-06 |
+| [Drake's Interlude](https://open.spotify.com/track/5hpNuIXYyuv1GYTgdQQkRW) | [Forwes](https://open.spotify.com/artist/2yHQYmwvWSaVwlcfQMlyov) | [Drake's Interlude](https://open.spotify.com/album/3Y6hN8YrTj94NgDKNE2egE) | 2:02 | 2025-04-11 |  |
 | [Ex\-Men](https://open.spotify.com/track/2lHxwQEVL9brjoZgXwovhN) | [Sy Ari Da Kid](https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0) | [Ex\-Men](https://open.spotify.com/album/4nfRCyTlTIlAM9spNTpn7a) | 3:28 | 2024-05-17 | 2025-03-29 |
 | [Exchange](https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:14 | 2024-02-02 |  |
 | [Excuses](https://open.spotify.com/track/6n6ke9IsK9Q8YtPH8cSBKq) | [Lex Aura](https://open.spotify.com/artist/2EG3PqexkJCq8UjJyqwu5D) | [Excuses](https://open.spotify.com/album/05z5SjEkmbPcqAMMtTyHO5) | 2:54 | 2024-06-28 | 2024-10-19 |
@@ -80,7 +82,7 @@
 | [FWM](https://open.spotify.com/track/1Pfc9dT3gduTVoqzRYXITy) | [alan vuong](https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8) | [FWM](https://open.spotify.com/album/76T6f7E3ZovruteP4vnK10) | 2:10 | 2024-02-20 |  |
 | [GIVE IN](https://open.spotify.com/track/77ZLQIBY47Zo3RME1WJVud) | [alan vuong](https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8) | [GIVE IN](https://open.spotify.com/album/01aVCkXyMXelikQQBPAjZq) | 2:47 | 2024-03-15 | 2024-10-19 |
 | [Give It Up 2 Me](https://open.spotify.com/track/4BfFxN1BAS47r9OhNyWiEE) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [Give It Up 2 Me](https://open.spotify.com/album/3a9bUK2pj3dgUENncg1i3o) | 2:58 | 2024-02-02 | 2024-07-06 |
-| [Granted](https://open.spotify.com/track/0Q0qwesBrt7M0vGnJkLzaw) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 2:42 | 2024-02-02 |  |
+| [Granted](https://open.spotify.com/track/0Q0qwesBrt7M0vGnJkLzaw) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 2:42 | 2024-02-02 |  |
 | [hard feelings](https://open.spotify.com/track/37cYXXzlmUXnjuSZ2DqhPY) | [Essiyas](https://open.spotify.com/artist/09QOTdywNrZkFw4SYXf71t) | [hard feelings](https://open.spotify.com/album/4PaQ1RBPRa40qqV5FVmJsD) | 2:23 | 2024-10-18 |  |
 | [Her Way](https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:36 | 2024-02-02 |  |
 | [Here Now](https://open.spotify.com/track/7pL8Abg7AAMFu66W3etmAy) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Here Now](https://open.spotify.com/album/2dn3rbVDA051YrJkDci1xl) | 2:22 | 2024-04-26 |  |
@@ -115,12 +117,14 @@
 | [Modern Day Suicide](https://open.spotify.com/track/6WxI6JUpelxYijiEh6O9Ra) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:31 | 2024-11-15 |  |
 | [MORE THAN SORRY](https://open.spotify.com/track/1PPU73L2zCaInN9gZgWl0p) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [STREETS SAY YOU MISS ME](https://open.spotify.com/album/3z1Cfd5yKzigwSGPrWBmKH) | 2:30 | 2024-03-29 |  |
 | [My Affection \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:33 | 2024-02-02 | 2024-08-03 |
+| [n da morning](https://open.spotify.com/track/2BcLIOfKXWk7mz5HSyhAKO) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [n da morning](https://open.spotify.com/album/3dPpOhzZ93SSz2E5qD47HR) | 2:11 | 2025-04-11 |  |
 | [N o C h i l l](https://open.spotify.com/track/1zhMHgotgZXkLCXpqNRnPK) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 4:25 | 2024-06-07 |  |
+| [NATURAL](https://open.spotify.com/track/1G6SUhnXRyuS3DuLNzXkfW) | [Aidan Vaughn](https://open.spotify.com/artist/7LdzjdaC5nwZdmP4INCdIE) | [NATURAL](https://open.spotify.com/album/1hwcCHfAuDkEERhthIjgSC) | 2:21 | 2025-04-11 |  |
 | [neck & earz](https://open.spotify.com/track/2HyaJcJaVju393PK4LvFD8) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Tell It Like It Is](https://open.spotify.com/album/1u1VNFkQpO5UsTdes7cIv4) | 3:04 | 2024-05-10 |  |
 | [Need U Tonite \(with Genia\)](https://open.spotify.com/track/0DFrS6DTGOH3CEWFuPDKtk) | [Breez Kennedy](https://open.spotify.com/artist/6ydm4dOCCkVb40LPqkhH3p), [Genia](https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB) | [Need U Tonite](https://open.spotify.com/album/1fosbY1jCipe3rYvEU8S8V) | 2:25 | 2024-02-02 |  |
 | [NEGLIGENT](https://open.spotify.com/track/38rL1N6TYmh1UFPKYHKjeA) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [NEGLIGENT](https://open.spotify.com/album/1PnBzRz589IzGfNYcoKAwU) | 3:24 | 2024-03-08 | 2024-07-06 |
 | [NEGLIGENT \(Remix\) \[feat\. Kaash Paige\]](https://open.spotify.com/track/7sQJS5X1f74xaY8BX8Bm6v) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [NEGLIGENT \(Remix\)](https://open.spotify.com/album/3Kv2NnN9EHNhw4hW1eLgYX) | 3:15 | 2024-07-05 |  |
-| [Never Had This \(feat\. Vory\)](https://open.spotify.com/track/3xXTpfoDm9sLx4WzuV47XA) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 2:53 | 2024-02-02 |  |
+| [Never Had This \(feat\. Vory\)](https://open.spotify.com/track/3xXTpfoDm9sLx4WzuV47XA) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 2:53 | 2024-02-02 |  |
 | [nite](https://open.spotify.com/track/5d2sBOqleqxg8noBOvQEYa) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [it's not you, it's me..\. it's love](https://open.spotify.com/album/18CRiKrKO856anaMXGjXP9) | 2:23 | 2024-02-02 |  |
 | [nLuv](https://open.spotify.com/track/0PHlDvTlegGSNwr2VXzBv0) | [TYuS](https://open.spotify.com/artist/5J7URjIP8aFmeSn2QwF9Au) | [nLuv](https://open.spotify.com/album/1UJRzRCQ2vYrhCXzkmRtoh) | 1:47 | 2024-02-02 | 2025-03-22 |
 | [No Cares](https://open.spotify.com/track/7efe84XgsSB5zjcW4IpgfG) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Apollo](https://open.spotify.com/album/6V8N8vobePP7eRwPBrUH5d) | 1:51 | 2025-03-07 |  |

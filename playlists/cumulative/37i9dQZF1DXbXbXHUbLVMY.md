@@ -4,7 +4,7 @@
 
 > 🚨
 
-307 songs - 13 hr 26 min
+308 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Dansar Med Demoner](https://open.spotify.com/track/013JhskiJZIa42WVsTgdmy) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [Oscar Blesson](https://open.spotify.com/artist/34yalNbmu76FgEtORg2yVp) | [Dansar Med Demoner](https://open.spotify.com/album/4PU3aoHJOvRwquYTLT3Ru5) | 3:56 | 2024-09-19 | 2024-10-28 |
 | [DAY ONE](https://open.spotify.com/track/3zLBP4HtaSYRA4NcAqS3Jo) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [DAY ONE](https://open.spotify.com/album/38IlhNRha2DeYsQ22nwWxj) | 2:28 | 2023-09-21 | 2023-09-29 |
 | [DEJA VU](https://open.spotify.com/track/1lIAdiuji8iJXGHOdAGCj7) | [Hiwá](https://open.spotify.com/artist/6dxaJO4moD1NB2YpmTRg4a) | [ALT DET HER FOR HVA?](https://open.spotify.com/album/6QxpsJgAPM242CqMshoHW3) | 2:19 | 2023-10-19 | 2023-11-11 |
-| [Det Regner Penger \(Allez Allez\)](https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567) | [AVGVSTVS](https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr) | [Det Regner Penger \(Allez Allez\)](https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k) | 1:33 | 2024-02-22 |  |
+| [Det Regner Penger \(Allez Allez\)](https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567) | [AVGVSTVS](https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr) | [Det Regner Penger \(Allez Allez\)](https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k) | 1:33 | 2024-02-22 | 2025-04-12 |
 | [DIAMANTER](https://open.spotify.com/track/6z8QKwRlKLG81uKYMPnvcI) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys \(Private Collection\)](https://open.spotify.com/album/47PRYUsBxUhFsInEQVnwzH) | 2:41 | 2024-03-21 | 2024-05-05 |
 | [DIAMANTER](https://open.spotify.com/track/75yxwZbg4YmiAdXslkrLiM) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys \(Private Collection\)](https://open.spotify.com/album/6JYg8ZoDwgKL20qLy10SW8) | 2:41 | 2024-03-21 | 2024-04-19 |
 | [DISTRAKTION](https://open.spotify.com/track/235DE6cdtxUTydTlDTwEpb) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Rohat](https://open.spotify.com/artist/6DaZsLPQ6JeHURwrrSY0cB), [FRAM](https://open.spotify.com/artist/4eo3HSMXtaYqAAW6f14YVt) | [DISTRAKTION](https://open.spotify.com/album/4E6iw3EhPj5Ybej1dpTebO) | 2:36 | 2024-04-27 | 2024-06-01 |
@@ -182,6 +182,7 @@
 | [LONELY](https://open.spotify.com/track/51vLB58HYeCqEwRL32q2n4) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry) | [LONELY](https://open.spotify.com/album/1Tsrdb9lp8vmFIZb98vtxT) | 2:00 | 2025-01-16 | 2025-02-09 |
 | [Lover](https://open.spotify.com/track/6omD0gsauEeZobNuJJMWfz) | [Charlie Skien](https://open.spotify.com/artist/561E5AG2FI0jbTbOrxp8qF) | [Lover](https://open.spotify.com/album/4YKK8NeOdlxEvVe4LY5cKQ) | 3:40 | 2024-05-06 | 2024-05-24 |
 | [Lucky Luciano](https://open.spotify.com/track/1QdmWPC8ZshfEOKJHxFGW1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Lucky Luciano](https://open.spotify.com/album/3OZbxEkAX6R7CV2lcVwgKj) | 2:15 | 2025-01-16 | 2025-03-28 |
+| [Lux](https://open.spotify.com/track/7AsHwOqlwFgbQGnmoxm2Zt) | [JNS](https://open.spotify.com/artist/6Bjlp5CgULzTTD7Y3VYRdp), [Gjenfødt Kultur](https://open.spotify.com/artist/1nebg8vKeaq8WqjOccMWxg) | [Lavsesongen](https://open.spotify.com/album/0u3WSP4lC7dxRwJY6ogMBa) | 3:21 | 2025-04-10 |  |
 | [Løsningsorienterte](https://open.spotify.com/track/60vClM4MsGoWmEKO1soSlV) | [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD) | [Løsningsorienterte](https://open.spotify.com/album/5m7GdnuEejte2vkXqoconf) | 2:53 | 2023-12-08 |  |
 | [M.O.B](https://open.spotify.com/track/7scyrGYhNkIz5t4U630EmD) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [M.O.B](https://open.spotify.com/album/3gfzgUuXhBJC2KMjvWgGQ7) | 1:48 | 2023-09-21 | 2024-06-08 |
 | [Mama](https://open.spotify.com/track/774f2Kn00cBgYObzXGEHbx) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Mama](https://open.spotify.com/album/7IELyzUSjtZ8BRFXXsvvPO) | 2:15 | 2023-11-09 | 2024-06-01 |
@@ -269,7 +270,7 @@
 | [Sprite](https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Sprite](https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ) | 2:45 | 2023-10-19 |  |
 | [Stakken Pt\. II](https://open.spotify.com/track/3Ig8XOjygcuaYEEN2Eh6cq) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Stakken Pt\. II](https://open.spotify.com/album/3GINAyrpmoCTU81jiqn50u) | 2:41 | 2023-11-09 | 2024-01-11 |
 | [Standard](https://open.spotify.com/track/5GUfpSrOmyK35dOm2LA10V) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Standard](https://open.spotify.com/album/3klHl3l7VxUautqwwQc678) | 2:07 | 2023-09-21 | 2025-03-28 |
-| [Stikk i Brystet](https://open.spotify.com/track/2K7RNGhAN82pJSz0OjXCo1) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Stikk I Brystet \(Deluxe\)](https://open.spotify.com/album/1TVqo7Q0brVxoPV9daZ5RA) | 3:51 | 2024-06-20 |  |
+| [Stikk i Brystet](https://open.spotify.com/track/2K7RNGhAN82pJSz0OjXCo1) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Stikk I Brystet \(Deluxe\)](https://open.spotify.com/album/1TVqo7Q0brVxoPV9daZ5RA) | 3:51 | 2024-06-20 | 2025-04-12 |
 | [STILO](https://open.spotify.com/track/60KPeB0eJuksnuvfnXkA3B) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [STILO](https://open.spotify.com/album/6tsnSrVthXlEmRxmwGdc7q) | 2:21 | 2023-09-21 | 2024-07-12 |
 | [Storby Psykose](https://open.spotify.com/track/6vaYWHrBfUD5WqOJvqYZ2a) | [Kode.59](https://open.spotify.com/artist/5El2l94FrkyNaTIA5ksK4Q) | [Storby Psykose](https://open.spotify.com/album/23bUcQK6PZuNgdgJ86DvOP) | 2:26 | 2025-03-27 |  |
 | [Storbyen sin lillebror](https://open.spotify.com/track/6ldkEtZoW3K1eV1pJsdJcf) | [FLUS](https://open.spotify.com/artist/5eV6nWbx415OdU2llWR52L), [Yosef Wolde\-Mariam](https://open.spotify.com/artist/2GBlvdFVbAmRuOz0ibDtZC), [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [FLUS \(Original Soundtrack\)](https://open.spotify.com/album/6EJX9ruEfxJresDIaYfN63) | 3:14 | 2025-02-06 |  |
@@ -296,7 +297,7 @@
 | [Vakuum](https://open.spotify.com/track/0oMLqIM9gyxXKpmtNZVTKm) | [ORIO](https://open.spotify.com/artist/6cyx02Uqj6gB9ZU0s10bzn), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Vakuum](https://open.spotify.com/album/2L8St3KnSEuLWvNNkKSKts) | 2:41 | 2024-07-11 | 2024-08-16 |
 | [Varig mén](https://open.spotify.com/track/41QTpl1b6fHRtCYNeX10gl) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Varig mén](https://open.spotify.com/album/1je48mRG7l23gvEMesMczK) | 2:31 | 2024-05-06 |  |
 | [Veien](https://open.spotify.com/track/1SlBmDNI7xZLiCRUxzrY8c) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Veien](https://open.spotify.com/album/2jOfK6CHx9TeSz0pHTkCf1) | 3:07 | 2024-12-19 | 2025-03-28 |
-| [Venner & Fiender](https://open.spotify.com/track/5qVCfJi0uQIykY0X1Gc2wr) | [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Siyabång](https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK) | [Å Drukne En Fisk](https://open.spotify.com/album/4v3uw177yv8f3AcStx8jkK) | 3:41 | 2025-03-27 | 2025-03-31 |
+| [Venner & Fiender](https://open.spotify.com/track/5qVCfJi0uQIykY0X1Gc2wr) | [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Siyabång](https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK) | [Å Drukne En Fisk](https://open.spotify.com/album/4v3uw177yv8f3AcStx8jkK) | 3:41 | 2025-03-27 |  |
 | [Vi](https://open.spotify.com/track/0ipBjeB4HWrRqsqIZRNDmK) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [Vi](https://open.spotify.com/album/7vUmjPH5c7VTYLqkrY4TQd) | 1:48 | 2025-01-30 |  |
 | [Vidunderbarn](https://open.spotify.com/track/4tF8PXK6pa5GkDUONmhVqN) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [Vidunderbarn](https://open.spotify.com/album/1CKWqVN71ZYjeJLQfjUUT3) | 3:07 | 2024-01-11 |  |
 | [Vill va med dig](https://open.spotify.com/track/56flxHBv6c08oCUjQhXeb1) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Vill va med dig](https://open.spotify.com/album/2kEXuEfiNApqFQHym7qXcI) | 2:48 | 2023-09-21 | 2024-06-01 |

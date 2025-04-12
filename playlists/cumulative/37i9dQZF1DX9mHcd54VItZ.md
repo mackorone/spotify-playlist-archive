@@ -2,9 +2,9 @@
 
 ### [SA Rock ](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/6ExJNNZMX7q3uIaZCDSFcz?si=abIEmNk2THesRLZSunEpdw">JaeXlynne</a>
+> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/track/164h7iFIdZOec4AO1CvhGh?si=f2d4df92b0744287">Vreemd</a>
 
-655 songs - 1 day 14 hr 42 min
+656 songs - 1 day 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Get Over Here](https://open.spotify.com/track/6DuZOFGc4LBr0HSbbd03q3) | [Aimee deBeer](https://open.spotify.com/artist/3c3FUUJYZOv8Le1htg2Gl6) | [Get Over Here](https://open.spotify.com/album/23aiLlsImhhiuCfYGcBpfC) | 3:16 | 2022-05-26 | 2023-01-28 |
 | [Getting Hotter](https://open.spotify.com/track/4mal6jIqW8y7xOiEeqOHsC) | [Sons of Trout](https://open.spotify.com/artist/1z88VRzfLU6fS3EIYuP93b) | [Take Me to Your Fishmonger](https://open.spotify.com/album/3nrHBscoXDul2SqSGnBknO) | 3:17 | 2024-01-04 | 2024-03-01 |
 | [GHETTOS](https://open.spotify.com/track/125VfTNSZjRDUDPO8DRsSD) | [CLUB VALLEY](https://open.spotify.com/artist/0QA1gqKpLcVh4poXeglSHn) | [THE SUN BEHIND THE CURTAIN](https://open.spotify.com/album/2QTY84Q8Hs4u16UEFPYykB) | 1:40 | 2024-12-12 | 2024-12-20 |
+| [Ghost Rider](https://open.spotify.com/track/7yY19ftTx7KgHBnAvpWBXx) | [Saarkie](https://open.spotify.com/artist/1ZuXFw4O5v2QaNNxZki6Qf) | [Ghost Rider](https://open.spotify.com/album/0LDEZkdEjgsc4xyvWtEuY6) | 2:37 | 2025-04-10 |  |
 | [Gimme Love](https://open.spotify.com/track/4LSR4g2XMq2jbZtYUxhbUo) | [Kahn Morbee](https://open.spotify.com/artist/2iWHEO8h8v3D9lITyyB6GF) | [A World at Suicide](https://open.spotify.com/album/1qxiiW0tmFS9RtARMdxXXe) | 3:33 | 2021-10-07 | 2022-08-05 |
 | [Girl You Made Me Bad](https://open.spotify.com/track/28asKrTduKTrMExly9z8Zo) | [Sugardrive](https://open.spotify.com/artist/283E3ICiG1Fiec39Rxel0n) | [Sand.Man.Sky](https://open.spotify.com/album/5M3opHjZ5u2jQ5gF7GVzfM) | 4:52 | 2024-01-04 | 2024-03-30 |
 | [Glide Stride](https://open.spotify.com/track/5TKySOZAIyhdpzwN01SDux) | [Alibi Friday](https://open.spotify.com/artist/0sm3avs6uL4bzr7n45MLkg) | [Glide Stride](https://open.spotify.com/album/2Me4bFxziBPEr9omsL9LYV) | 5:02 | 2023-12-14 | 2024-01-05 |

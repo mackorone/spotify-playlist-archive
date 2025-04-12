@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Harmonize & Miri Ben-Ari",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Tommy Flavour & Marioo",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -682,7 +682,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 195419,
       "name": "Baridi",
       "url": "https://open.spotify.com/track/72xGE8uQLhCEtL0EujBlMY"
@@ -3337,6 +3337,28 @@
     },
     {
       "album": {
+        "name": "Juju (feat. Marioo)",
+        "url": "https://open.spotify.com/album/0HOR2H0t3Ugp3PtzEuyOIk"
+      },
+      "artists": [
+        {
+          "name": "Tommy Flavour",
+          "url": "https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210598,
+      "name": "Juju (feat. Marioo)",
+      "url": "https://open.spotify.com/track/0HsI0Uo4iQnYpCAiBQuIQg"
+    },
+    {
+      "album": {
         "name": "Juluka",
         "url": "https://open.spotify.com/album/5d6q85ACjQVZGtzOzShpQc"
       },
@@ -4767,6 +4789,24 @@
     },
     {
       "album": {
+        "name": "Mbwa",
+        "url": "https://open.spotify.com/album/1u3LoygIL0ZSuaRnNHliQ1"
+      },
+      "artists": [
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170097,
+      "name": "Mbwa",
+      "url": "https://open.spotify.com/track/5tBwlxjYku3jFhOtHBdjeG"
+    },
+    {
+      "album": {
         "name": "Mchuchu",
         "url": "https://open.spotify.com/album/2wlhplBGSd8wewG9gPD5Ux"
       },
@@ -5168,7 +5208,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 171428,
       "name": "Moto",
       "url": "https://open.spotify.com/track/65e5WZYbtxNSqXRAjVzrbh"
@@ -6086,6 +6126,24 @@
       "duration_ms": 234216,
       "name": "Nawaza",
       "url": "https://open.spotify.com/track/3yWfiWRv51tuYlAzh7KHSO"
+    },
+    {
+      "album": {
+        "name": "Nazama",
+        "url": "https://open.spotify.com/album/4tLPEGn0QUU1fUN7H4OPTF"
+      },
+      "artists": [
+        {
+          "name": "Jay Melody",
+          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186502,
+      "name": "Nazama",
+      "url": "https://open.spotify.com/track/4zcDVjym4809Ruja1Dh2C4"
     },
     {
       "album": {
@@ -9336,7 +9394,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 206314,
       "name": "Tumetoka Mbali",
       "url": "https://open.spotify.com/track/1TUAO4gqLN8BNxXCzuDU2a"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:3DHtfeD4PsmR9YGhCP4VF7\">Nemzzz</a> ",
+  "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:3gBZUcNeVumkeeJ19CY2sX\">Ken Carson</a> ",
   "name": "Most Necessary",
   "tracks": [
     {
@@ -13018,7 +13018,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 105977,
       "name": "father",
       "url": "https://open.spotify.com/track/0PQ33KiYJD1XPsP6oA1GYn"
@@ -19842,7 +19842,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 139416,
       "name": "Intro",
       "url": "https://open.spotify.com/track/4arEh3ZrPb0XqHjNfcp101"
@@ -25082,7 +25082,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 107865,
       "name": "Money Talks",
       "url": "https://open.spotify.com/track/2yWR1WwolMkbcXM5ZyyPDn"
@@ -28301,6 +28301,32 @@
     },
     {
       "album": {
+        "name": "More Chaos",
+        "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Off The Meter (with Playboi Carti & Destroy Lonely)",
+      "url": "https://open.spotify.com/track/2Y98lEkMVALCXni7o2g28b"
+    },
+    {
+      "album": {
         "name": "OFF THE PORCH (feat. BigXthaPlug & Maxo Kream)",
         "url": "https://open.spotify.com/album/2dLAa7o3gsVCnOnvyMTwef"
       },
@@ -28546,7 +28572,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 137229,
       "name": "Old Me",
       "url": "https://open.spotify.com/track/510we9oDrgnL9E9OboMk5F"
@@ -33103,6 +33129,28 @@
     },
     {
       "album": {
+        "name": "Regular Type (feat. Chow Lee)",
+        "url": "https://open.spotify.com/album/7jIpISYSxVcKBPdLt0vmBr"
+      },
+      "artists": [
+        {
+          "name": "Nino Paid",
+          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
+        },
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "Regular Type (feat. Chow Lee)",
+      "url": "https://open.spotify.com/track/1pqswmjvnS3xr7JdA4gD2x"
+    },
+    {
+      "album": {
         "name": "Young & Restless Vol. 1 Baby Don",
         "url": "https://open.spotify.com/album/5Vsv12liWYcEYcX0ryvAaa"
       },
@@ -35827,6 +35875,28 @@
     },
     {
       "album": {
+        "name": "Show Me the Money",
+        "url": "https://open.spotify.com/album/2UNARCe7IZZVt3jeKVboF0"
+      },
+      "artists": [
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
+        },
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158209,
+      "name": "Show Me the Money",
+      "url": "https://open.spotify.com/track/2v3m7qNEvN7CemLyfjn2H1"
+    },
+    {
+      "album": {
         "name": "Show You Sum",
         "url": "https://open.spotify.com/album/47BA0iMbK2yGOU4a7ACVGJ"
       },
@@ -37705,6 +37775,24 @@
     },
     {
       "album": {
+        "name": "stick",
+        "url": "https://open.spotify.com/album/0DCxiHGqRaq1HuIcaSVBRq"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139169,
+      "name": "stick",
+      "url": "https://open.spotify.com/track/0BMiAWhG8u5JZ9GeDCFxu5"
+    },
+    {
+      "album": {
         "name": "Stick Baby",
         "url": "https://open.spotify.com/album/2CLy37plshpgHD5aAFxbFf"
       },
@@ -38728,7 +38816,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 166567,
       "name": "TASTE (feat. D-Block Europe)",
       "url": "https://open.spotify.com/track/1zxZlYLakjBK8Jz4BJJdJ6"
@@ -39796,6 +39884,24 @@
       "duration_ms": 136994,
       "name": "Thicc",
       "url": "https://open.spotify.com/track/6ib3lHR6RoCmJo1oF6JqyM"
+    },
+    {
+      "album": {
+        "name": "Think Twice",
+        "url": "https://open.spotify.com/album/0c5bUmRVLetjyILY1G7c4C"
+      },
+      "artists": [
+        {
+          "name": "PayGotti",
+          "url": "https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143511,
+      "name": "Think Twice",
+      "url": "https://open.spotify.com/track/5tASU9HNqhOTaYqYP6lrcd"
     },
     {
       "album": {

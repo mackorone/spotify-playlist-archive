@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Luis Figueroa & Christian Alicea",
+  "description": "Lo nuevo del mundo tropical. Cover: Luck Ra",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -506,7 +506,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 209807,
       "name": "Amar a Dos",
       "url": "https://open.spotify.com/track/70lmdbI0oHGj6De7aEqG7o"
@@ -1864,7 +1864,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 191313,
       "name": "Cara de Idiota",
       "url": "https://open.spotify.com/track/2nSi0Nq0eD6MGBDcmMYUdw"
@@ -2144,7 +2144,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 208695,
       "name": "Como Dol\u00eda",
       "url": "https://open.spotify.com/track/4pSZZyzj7HLZ9uiQnRAPWE"
@@ -2489,6 +2489,32 @@
     },
     {
       "album": {
+        "name": "Coqueta",
+        "url": "https://open.spotify.com/album/7AirM8BCcF21lStMushZfB"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        },
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        },
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182616,
+      "name": "Coqueta",
+      "url": "https://open.spotify.com/track/6ILRmTRlkIcVfLZ2HgXb0A"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n Roto",
         "url": "https://open.spotify.com/album/4tf4JOp2NMGrOFTje7rg2A"
       },
@@ -2548,6 +2574,28 @@
       "duration_ms": 253172,
       "name": "Cosas Del Amor (feat. Tito Nieves)",
       "url": "https://open.spotify.com/track/42RY9VETwNoDlVlUDI5lTM"
+    },
+    {
+      "album": {
+        "name": "Cosas Sencillas",
+        "url": "https://open.spotify.com/album/7unbBGse88W3EmNqFwuD0j"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192689,
+      "name": "Cosas Sencillas",
+      "url": "https://open.spotify.com/track/4ikMJDrE2nIttXU6d8EbfE"
     },
     {
       "album": {
@@ -4310,7 +4358,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 181792,
       "name": "Eres T\u00fa",
       "url": "https://open.spotify.com/track/3nYfMTU4zzOQ3pigBUBrOh"
@@ -4795,6 +4843,28 @@
     },
     {
       "album": {
+        "name": "QUE SED",
+        "url": "https://open.spotify.com/album/2q6PAdBBf4L2Xpxqc3jd8b"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130196,
+      "name": "FUE CULPA TUYA",
+      "url": "https://open.spotify.com/track/71N3UjxfXEWljGkjBDcnNY"
+    },
+    {
+      "album": {
         "name": "Fuera Fuera",
         "url": "https://open.spotify.com/album/3cuwBC9owy20gq3moo1OD3"
       },
@@ -5032,6 +5102,24 @@
       "duration_ms": 163137,
       "name": "Hombre Malvado",
       "url": "https://open.spotify.com/track/6J8AOENqdUglgzpD4T6Pn3"
+    },
+    {
+      "album": {
+        "name": "How Deep Is Your Love",
+        "url": "https://open.spotify.com/album/67jy1N1YZO5SVPzM3GueIx"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199317,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/3ecNVtpbki6jYHlmHizHqE"
     },
     {
       "album": {
@@ -5332,6 +5420,28 @@
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+    },
+    {
+      "album": {
+        "name": "La Bandera",
+        "url": "https://open.spotify.com/album/73o8i8GdGPqeetj2WkQhit"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160006,
+      "name": "La Bandera",
+      "url": "https://open.spotify.com/track/1yY11odB1K0id6dtJQXT4j"
     },
     {
       "album": {
@@ -7004,7 +7114,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 167320,
       "name": "Me Dediqu\u00e9 A Perderte",
       "url": "https://open.spotify.com/track/0A9vorHzI0KJ0hlmWzdSqX"
@@ -7062,7 +7172,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 168791,
       "name": "Me Enamore de Ti, y Que?",
       "url": "https://open.spotify.com/track/6egUo2ex5rvY4TBa5TGpMd"
@@ -8222,6 +8332,28 @@
       "duration_ms": 213666,
       "name": "No Te Encuentro (Ft. Alexandra The Queen)",
       "url": "https://open.spotify.com/track/6aITzI4rJu9VXi6TsjOFUQ"
+    },
+    {
+      "album": {
+        "name": "No Te Vayas",
+        "url": "https://open.spotify.com/album/3LUThmGH76h0Onpmvrxjcv"
+      },
+      "artists": [
+        {
+          "name": "Servando & Florentino",
+          "url": "https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe"
+        },
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245380,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/4qK3gTV5sDdp8MSoh3WYrn"
     },
     {
       "album": {
@@ -10805,6 +10937,28 @@
     },
     {
       "album": {
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/45fp0ZTkX3qUEElMKHS98L"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        },
+        {
+          "name": "Samo",
+          "url": "https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250218,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/2GNEArd59zAaf8oub51uB7"
+    },
+    {
+      "album": {
         "name": "Sin Tu Amor",
         "url": "https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla"
       },
@@ -12220,7 +12374,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 153868,
       "name": "Vestido Rojo",
       "url": "https://open.spotify.com/track/6kyllwQMZPwCgCJiJd0eWX"

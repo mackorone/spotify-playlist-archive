@@ -4,7 +4,7 @@
 
 > All the South African and global pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/5lAZTyHLWuqddQudiftzIE?si=PZTmDUOxQWOMN1\_6dvH0qg"> Yum Yuck </a>
 
-369 songs - 19 hr 48 min
+370 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 | 2024-06-27 | 2024-07-12 |
 | [The End](https://open.spotify.com/track/42fMohrkvO2T9xEj5TQTTY) | [Sarah Leigh](https://open.spotify.com/artist/6AG4GBfdIqR4XRGz7LteeJ) | [The End](https://open.spotify.com/album/7zh18JD5fyKQgP9Lhg566E) | 2:56 | 2024-08-15 | 2024-11-22 |
 | [The Last Goodbye](https://open.spotify.com/track/2hXMAR5vGgK4LzVORy6VJP) | [Darren Scharneck](https://open.spotify.com/artist/60gNiJdb4q1gsu8NvyZjQV) | [The Last Goodbye](https://open.spotify.com/album/1zfLP1s2WzUyaM36b38wIw) | 3:22 | 2024-10-10 | 2024-10-19 |
+| [the place i use to hide](https://open.spotify.com/track/3NZQHSL3COv2iak4y5c0my) | [Yum Yuck](https://open.spotify.com/artist/5lAZTyHLWuqddQudiftzIE), [Melting Resonance](https://open.spotify.com/artist/2rMriHWxxmwJG7C3xd9Sod) | [the place i use to hide](https://open.spotify.com/album/69QHpSkaCgV9hSp3FSmy9Z) | 3:20 | 2025-04-10 |  |
 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 | 2025-03-20 | 2025-04-11 |
 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-06-27 | 2024-07-12 |
 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 | 2025-03-20 |  |

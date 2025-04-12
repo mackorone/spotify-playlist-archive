@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-380 songs - 22 hr 27 min
+381 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,6 +352,7 @@
 | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/track/32IMgcVhysYW12NRvMLp8c) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/album/22MkBC5l2Zi9atm66fE0Jq) | 3:06 | 2023-03-31 | 2024-04-19 |
 | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/track/6VMYHTWpyvYMF1L84fCYmJ) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/album/1nAWwOc68NxVwurG946Toj) | 3:06 | 2024-04-19 | 2024-11-16 |
 | [Want You Bad](https://open.spotify.com/track/4TQnD9qrhuNN5bea2kCWQ5) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Want You Bad](https://open.spotify.com/album/3GS1ipxKJuw8BY9n7kizOi) | 3:13 | 2021-12-03 | 2022-05-07 |
+| [Waterfall](https://open.spotify.com/track/5XJvzlRR2FnsObtoYy6qoy) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV) | [Waterfall](https://open.spotify.com/album/4S4VjEK6SsnM7kVDy4w5Yx) | 4:24 | 2025-04-11 |  |
 | [Way Out](https://open.spotify.com/track/6CO3fQyH8y4r3M9N7XUGVN) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [Clara Mae](https://open.spotify.com/artist/3kRVuRS2HUrZYZvqDywznP) | [Way Out](https://open.spotify.com/album/5ai1MASn3vIFi0E9YwPByE) | 2:41 | 2021-12-03 |  |
 | [Wayside](https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [We Are Always Under The Same Sky](https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ) | 4:09 | 2025-01-17 |  |
 | [We Know Who We Are](https://open.spotify.com/track/2LWKBMNdzVJzmQe27IQGWc) | [Olivver the Kid](https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu) | [Sentiment](https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA) | 4:07 | 2022-07-15 | 2024-04-19 |

@@ -6,10 +6,366 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABN4hf0AGrHwpnQNGFKCrXk",
+  "snapshot_id": "AAAAAAAAAABNJJlCxVNhQcnlBt1wScqs",
   "tracks": [
     {
-      "added_at": "2025-04-04 04:00:00",
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "Aspiral",
+        "url": "https://open.spotify.com/album/3cQch4ohGE1kUeJBSnfMNa"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "duration_ms": 370003,
+      "name": "Fight to Survive - The Overview Effect -",
+      "url": "https://open.spotify.com/track/6WK0XvBBkigP1Yf2AuM3BX"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "Lovers And Strangers",
+        "url": "https://open.spotify.com/album/5emYXgiOkx4oIXNxwyqtWi"
+      },
+      "artists": [
+        {
+          "name": "A Flock Of Seagulls",
+          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
+        },
+        {
+          "name": "Soda Pimps",
+          "url": "https://open.spotify.com/artist/4Syblnq7n38OiD00L3r2bE"
+        }
+      ],
+      "duration_ms": 225391,
+      "name": "Never Again (The Dancer) - Soda Pimps Remix",
+      "url": "https://open.spotify.com/track/4yofd6q1CQSdliQzJIL6P4"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "B\u00d8NESCRAPER",
+        "url": "https://open.spotify.com/album/5BdBDX5zGZP0cidRxkV9C2"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 213238,
+      "name": "B\u00d8NESCRAPER",
+      "url": "https://open.spotify.com/track/6MOsvwUNRWQUm1UYTwVrr1"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "Irreversible",
+        "url": "https://open.spotify.com/album/6UK2tT4rimaZvrxuzpXrvX"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 199685,
+      "name": "Irreversible",
+      "url": "https://open.spotify.com/track/4mhBl7hPzQjvXGdMGpbUQa"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "Sue\u00f1os In\u00e9ditos (2002-2010)",
+        "url": "https://open.spotify.com/album/1yfbOUqmp01Bb3O9qm4o9q"
+      },
+      "artists": [
+        {
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
+        },
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 249100,
+      "name": "Mon amour",
+      "url": "https://open.spotify.com/track/4ouFj41VaKNo9hWKrddVMA"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "Henry, come on",
+        "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 311269,
+      "name": "Henry, come on",
+      "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "Tu Esp\u00edritu",
+        "url": "https://open.spotify.com/album/6R1Jb3gI4RkAIluma4scKl"
+      },
+      "artists": [
+        {
+          "name": "Lucybell",
+          "url": "https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht"
+        }
+      ],
+      "duration_ms": 211710,
+      "name": "Tu Esp\u00edritu",
+      "url": "https://open.spotify.com/track/3zByplYcYM8f1UPZfp4DLJ"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "Lilac",
+        "url": "https://open.spotify.com/album/2bx6qA19Jk5JbHyAzXLYno"
+      },
+      "artists": [
+        {
+          "name": "Katatonia",
+          "url": "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
+        }
+      ],
+      "duration_ms": 291706,
+      "name": "Lilac",
+      "url": "https://open.spotify.com/track/0jsdJ36JFwadIMScIewxj5"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "Trigger Discipline",
+        "url": "https://open.spotify.com/album/7AWqFKgSfA1mS4hmYXSNIV"
+      },
+      "artists": [
+        {
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+        }
+      ],
+      "duration_ms": 232321,
+      "name": "Trigger Discipline",
+      "url": "https://open.spotify.com/track/3juGcDx9vNMNEPr6QeF5A5"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "Lvciferaeon",
+        "url": "https://open.spotify.com/album/1PRrNHVsKzyj1dp16wtoDd"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "duration_ms": 256226,
+      "name": "Lvciferaeon",
+      "url": "https://open.spotify.com/track/2j6iypUWoFMCzc0QEp1dkd"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "Smash It Like Belushi",
+        "url": "https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 168554,
+      "name": "Smash It Like Belushi",
+      "url": "https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "Two-Love",
+        "url": "https://open.spotify.com/album/7dL2YCEBRRTacTUikI7PJJ"
+      },
+      "artists": [
+        {
+          "name": "Le Volume Courbe",
+          "url": "https://open.spotify.com/artist/33ZXBbTDWd3gX0Wd0ewwxC"
+        },
+        {
+          "name": "Noel Gallagher",
+          "url": "https://open.spotify.com/artist/6IRQd80VHepXiTXdmBzk6l"
+        }
+      ],
+      "duration_ms": 157609,
+      "name": "Two-Love",
+      "url": "https://open.spotify.com/track/1JXg1B7dBondyV2BnekU4Y"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "There's No Future In Optimism",
+        "url": "https://open.spotify.com/album/3kw1Gtzo54hTyF50BgLbXY"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 200089,
+      "name": "There's No Future In Optimism",
+      "url": "https://open.spotify.com/track/6cNr04UeJaxfRXPjxWOt6U"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "Vuelvo",
+        "url": "https://open.spotify.com/album/7E3LiPHj0eCpkqNvJDCyCj"
+      },
+      "artists": [
+        {
+          "name": "Antologia",
+          "url": "https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6"
+        },
+        {
+          "name": "Illapu",
+          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
+        }
+      ],
+      "duration_ms": 288321,
+      "name": "Vuelvo",
+      "url": "https://open.spotify.com/track/2nYVyATpPb7EqGvOJ9YnFj"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "Tchaikovsky: Children's Album - Mama (Excerpt)",
+        "url": "https://open.spotify.com/album/2Sba2rEozEqdMvavQTNL6g"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        }
+      ],
+      "duration_ms": 65929,
+      "name": "Tchaikovsky: Children's Album - Mama - Excerpt",
+      "url": "https://open.spotify.com/track/5uGqJPkUFOCrx0bE61jb7F"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/5fWMEpDVKqHi1vWCczF9p6"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "duration_ms": 199026,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/2AKfJzg0eQh3XAiEulpxAs"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/1hRQTykXLhpCU8QGBLWVh8"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 222701,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/3ZDr3LJNCHailBSkpc29SF"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
+        "url": "https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 249960,
+      "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
+      "url": "https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "Up From the Bottom",
+        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 183223,
+      "name": "Up From the Bottom",
+      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "The Screaming Of The Valkyries",
+        "url": "https://open.spotify.com/album/3qwLRjvY7IYpv6N248PIAi"
+      },
+      "artists": [
+        {
+          "name": "Cradle Of Filth",
+          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
+        }
+      ],
+      "duration_ms": 376680,
+      "name": "Demagoguery",
+      "url": "https://open.spotify.com/track/1x77ughFOY7YgArlkGZeZB"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "The Squirrely Years Revisited",
+        "url": "https://open.spotify.com/album/6Wkf21TuFg0tEVFkCyMQp7"
+      },
+      "artists": [
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "Revenge - Squirrely Version",
+      "url": "https://open.spotify.com/track/3Xonzm3aPRlNdrudJEXnkX"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
       "album": {
         "name": "Enough Is Enough",
         "url": "https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ"
@@ -25,23 +381,59 @@
       "url": "https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF"
     },
     {
-      "added_at": "2025-04-04 04:00:00",
+      "added_at": "2025-04-11 04:00:00",
       "album": {
-        "name": "Sultans Of Swing (San Antonio Live In 85)",
-        "url": "https://open.spotify.com/album/1Xug5yrULzRuGmBabfHQun"
+        "name": "Blood Dynasty",
+        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
       },
       "artists": [
         {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 711338,
-      "name": "Sultans Of Swing - San Antonio Live In 85",
-      "url": "https://open.spotify.com/track/4ZGNASWXsFAPVsGMJuUElt"
+      "duration_ms": 225840,
+      "name": "A Million Suns",
+      "url": "https://open.spotify.com/track/0RXtkfxtmUFb7kcDTXQfYk"
     },
     {
-      "added_at": "2025-04-04 04:00:00",
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "Creatures of Chaos",
+        "url": "https://open.spotify.com/album/417069DxvdXoov1vxICCNs"
+      },
+      "artists": [
+        {
+          "name": "The Rasmus",
+          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+        }
+      ],
+      "duration_ms": 200483,
+      "name": "Creatures of Chaos",
+      "url": "https://open.spotify.com/track/4r3jUruTmJT5N4I99wHnFU"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "El mundo ya estaba as\u00ed antes",
+        "url": "https://open.spotify.com/album/3raEHCMrq99083RfbRYNkp"
+      },
+      "artists": [
+        {
+          "name": "Como Asesinar a Felipes",
+          "url": "https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds"
+        },
+        {
+          "name": "Mart\u00edn Benavides",
+          "url": "https://open.spotify.com/artist/6UWqJYYQ6zTu0oh444j4R1"
+        }
+      ],
+      "duration_ms": 182434,
+      "name": "El mundo ya estaba as\u00ed antes",
+      "url": "https://open.spotify.com/track/58CBtPjIo7dS3zJalIKvIp"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
       "album": {
         "name": "Prizefighter",
         "url": "https://open.spotify.com/album/6wSfrkBLBrN619oQx8OYTq"
@@ -57,7 +449,7 @@
       "url": "https://open.spotify.com/track/1mvStaNiiO38hfsdWs5d2F"
     },
     {
-      "added_at": "2025-04-04 04:00:00",
+      "added_at": "2025-04-11 04:00:00",
       "album": {
         "name": "Rain in the River",
         "url": "https://open.spotify.com/album/3DInaCkwipZmTpN7TviZ7P"
@@ -73,7 +465,111 @@
       "url": "https://open.spotify.com/track/5pbmSyK67ASTZExAX3TrDP"
     },
     {
-      "added_at": "2025-04-04 04:00:00",
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "Soy Pan, Soy Paz, Soy M\u00e1s",
+        "url": "https://open.spotify.com/album/3aHP1jOUBurnOCjdvWDZUl"
+      },
+      "artists": [
+        {
+          "name": "Fiorel",
+          "url": "https://open.spotify.com/artist/34PWxO2J2jLO4fnVrMtyrk"
+        },
+        {
+          "name": "Piero",
+          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
+        },
+        {
+          "name": "Martin Quaglia",
+          "url": "https://open.spotify.com/artist/0xnCAa7wn23JQHXOE3wZ2b"
+        }
+      ],
+      "duration_ms": 251548,
+      "name": "Soy Pan, Soy Paz, Soy M\u00e1s",
+      "url": "https://open.spotify.com/track/2yPZUzIMp3SPXzxdW7O0lj"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/37mPOJFmLSgqIE90CdAsT6"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "Sleep Now In The Fire - Spotify Singles",
+      "url": "https://open.spotify.com/track/5mMjqL7JI1BQQWBVFevFsN"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "Un Caf\u00e9 para Plat\u00f3n",
+        "url": "https://open.spotify.com/album/5j78xA9mNtOC6vhaLnqq7K"
+      },
+      "artists": [
+        {
+          "name": "Javiera Parra",
+          "url": "https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8"
+        }
+      ],
+      "duration_ms": 242948,
+      "name": "Un Caf\u00e9 para Plat\u00f3n",
+      "url": "https://open.spotify.com/track/2ssIy0nSLyeF8zfpTDCqyE"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "Even If It Kills Me (Reimagined)",
+        "url": "https://open.spotify.com/album/5vr5sIFJuqCzyybwpQQamc"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 174755,
+      "name": "Even If It Kills Me (Reimagined)",
+      "url": "https://open.spotify.com/track/29Nr1P9e3ukDqs9MuiqEhD"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "Big Ole Album Vol. 1",
+        "url": "https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 181806,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/2wdqcce0DKklq4aSD8zADU"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/7c4xJPkWyEyLFhscmPbhl7"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "duration_ms": 220660,
+      "name": "Love Is War",
+      "url": "https://open.spotify.com/track/2iKYgFZXyC5GBxCbg2HCD7"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
       "album": {
         "name": "Ni Un Segundo M\u00e1s",
         "url": "https://open.spotify.com/album/6bN09QGl9EMUQZjZJhH787"
@@ -93,7 +589,7 @@
       "url": "https://open.spotify.com/track/4UnXfxtpUp5TRgYiWLBB2W"
     },
     {
-      "added_at": "2025-04-04 04:00:00",
+      "added_at": "2025-04-11 04:00:00",
       "album": {
         "name": "Rompo Las Cadenas",
         "url": "https://open.spotify.com/album/1LQejwIubqNEeftBNGRuWY"
@@ -109,7 +605,7 @@
       "url": "https://open.spotify.com/track/69iiqmcieiiF9hc7YcXQpG"
     },
     {
-      "added_at": "2025-04-04 04:00:00",
+      "added_at": "2025-04-11 04:00:00",
       "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/7m6GmsvljjPqLPhEHBuwmE"
@@ -125,7 +621,47 @@
       "url": "https://open.spotify.com/track/4LfAPBYpVBTaAJ5R3C0PQf"
     },
     {
-      "added_at": "2025-04-04 04:00:00",
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "My Way (The Best Of Frank Sinatra)",
+        "url": "https://open.spotify.com/album/3xpGJeKAVe79XWMwf1x6TV"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 149199,
+      "name": "Fly Me to the Moon",
+      "url": "https://open.spotify.com/track/1orbpXnRLZOLTWADeOkBz1"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "Redefined",
+        "url": "https://open.spotify.com/album/6LrPdIjDOINvFgXaDMdJcJ"
+      },
+      "artists": [
+        {
+          "name": "Dead Rabbitts",
+          "url": "https://open.spotify.com/artist/7JVShmAauuaq861DoM5rP6"
+        },
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "duration_ms": 198035,
+      "name": "T/R/A/P/P/E/D",
+      "url": "https://open.spotify.com/track/27z4fMs35bbdH3xDf3G2BN"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
       "album": {
         "name": "Who Believes In Angels?",
         "url": "https://open.spotify.com/album/1Wn7mRdFZfHwmgtRFFR42o"
@@ -145,7 +681,39 @@
       "url": "https://open.spotify.com/track/3AsmUHXoCqeWXP9tRTYGsR"
     },
     {
-      "added_at": "2025-04-04 04:00:00",
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "The Place After This One",
+        "url": "https://open.spotify.com/album/5qEOO4BX3s3amNgFashUs0"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 181017,
+      "name": "Loss",
+      "url": "https://open.spotify.com/track/7B6ddTSICdNYKAlNTIhZSb"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "Private Dancer (40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0grIG45v0JWy5N46z4As0B"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 243253,
+      "name": "Private Dancer - Sterling Version",
+      "url": "https://open.spotify.com/track/2zCpxRVfOBkwWoDt2lpbfj"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
       "album": {
         "name": "Radiccio (2025)",
         "url": "https://open.spotify.com/album/4LqPDFXWMczdBqzW46ja5N"
@@ -161,7 +729,7 @@
       "url": "https://open.spotify.com/track/3AN6YY7K8f3FeZeLfHj73c"
     },
     {
-      "added_at": "2025-04-04 04:00:00",
+      "added_at": "2025-04-11 04:00:00",
       "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd"
@@ -181,7 +749,27 @@
       "url": "https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY"
     },
     {
-      "added_at": "2025-04-04 04:00:00",
+      "added_at": "2025-04-11 04:00:00",
+      "album": {
+        "name": "Superlover (Feat. Annie Lennox)",
+        "url": "https://open.spotify.com/album/4bl5DXRhQnvujIUBKJ9WIA"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        },
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "duration_ms": 312602,
+      "name": "Superlover (Feat. Annie Lennox)",
+      "url": "https://open.spotify.com/track/0P4i9pvof37KYxmlgi2gal"
+    },
+    {
+      "added_at": "2025-04-11 04:00:00",
       "album": {
         "name": "PISANDO FUERTE",
         "url": "https://open.spotify.com/album/7Dty2jjx3zMCikYGcVdIf5"
@@ -209,379 +797,7 @@
       "url": "https://open.spotify.com/track/63tLllllAkKrC5gHGQKkZU"
     },
     {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "Tchaikovsky: The Seasons, October - Autumn Song (Excerpt)",
-        "url": "https://open.spotify.com/album/7wlX5cLApZysg8UdQYG0VU"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Arkady Sevidov",
-          "url": "https://open.spotify.com/artist/2aZbaV7eAZx44hm9zAf5hm"
-        }
-      ],
-      "duration_ms": 91192,
-      "name": "Tchaikovsky: The Seasons, October - Autumn Song - Excerpt",
-      "url": "https://open.spotify.com/track/1mbCDpmmz3ZQF0nmcsslSo"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "Shock Dem",
-        "url": "https://open.spotify.com/album/0kQdiul7Ppc5yvG6HfTutx"
-      },
-      "artists": [
-        {
-          "name": "Rhodecy",
-          "url": "https://open.spotify.com/artist/3dPUaskObXRULN4wlqDMaW"
-        },
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Shock Dem",
-      "url": "https://open.spotify.com/track/2xGlVRFxbrGPrpplSfEfgY"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
-        "url": "https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 249960,
-      "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
-      "url": "https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "The Screaming Of The Valkyries",
-        "url": "https://open.spotify.com/album/3qwLRjvY7IYpv6N248PIAi"
-      },
-      "artists": [
-        {
-          "name": "Cradle Of Filth",
-          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
-        }
-      ],
-      "duration_ms": 376680,
-      "name": "Demagoguery",
-      "url": "https://open.spotify.com/track/1x77ughFOY7YgArlkGZeZB"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "Up From the Bottom",
-        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 183223,
-      "name": "Up From the Bottom",
-      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "The Squirrely Years Revisited",
-        "url": "https://open.spotify.com/album/6Wkf21TuFg0tEVFkCyMQp7"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "Revenge - Squirrely Version",
-      "url": "https://open.spotify.com/track/3Xonzm3aPRlNdrudJEXnkX"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "Blood Dynasty",
-        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "A Million Suns",
-      "url": "https://open.spotify.com/track/0RXtkfxtmUFb7kcDTXQfYk"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "Creatures of Chaos",
-        "url": "https://open.spotify.com/album/417069DxvdXoov1vxICCNs"
-      },
-      "artists": [
-        {
-          "name": "The Rasmus",
-          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
-        }
-      ],
-      "duration_ms": 200483,
-      "name": "Creatures of Chaos",
-      "url": "https://open.spotify.com/track/4r3jUruTmJT5N4I99wHnFU"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "El mundo ya estaba as\u00ed antes",
-        "url": "https://open.spotify.com/album/3raEHCMrq99083RfbRYNkp"
-      },
-      "artists": [
-        {
-          "name": "Como Asesinar a Felipes",
-          "url": "https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds"
-        },
-        {
-          "name": "Mart\u00edn Benavides",
-          "url": "https://open.spotify.com/artist/6UWqJYYQ6zTu0oh444j4R1"
-        }
-      ],
-      "duration_ms": 182434,
-      "name": "El mundo ya estaba as\u00ed antes",
-      "url": "https://open.spotify.com/track/58CBtPjIo7dS3zJalIKvIp"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "Soy Pan, Soy Paz, Soy M\u00e1s",
-        "url": "https://open.spotify.com/album/3aHP1jOUBurnOCjdvWDZUl"
-      },
-      "artists": [
-        {
-          "name": "Fiorel",
-          "url": "https://open.spotify.com/artist/34PWxO2J2jLO4fnVrMtyrk"
-        },
-        {
-          "name": "Piero",
-          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
-        },
-        {
-          "name": "Martin Quaglia",
-          "url": "https://open.spotify.com/artist/0xnCAa7wn23JQHXOE3wZ2b"
-        }
-      ],
-      "duration_ms": 251548,
-      "name": "Soy Pan, Soy Paz, Soy M\u00e1s",
-      "url": "https://open.spotify.com/track/2yPZUzIMp3SPXzxdW7O0lj"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "Big Ole Album Vol. 1",
-        "url": "https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 181806,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/2wdqcce0DKklq4aSD8zADU"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "Un Caf\u00e9 para Plat\u00f3n",
-        "url": "https://open.spotify.com/album/5j78xA9mNtOC6vhaLnqq7K"
-      },
-      "artists": [
-        {
-          "name": "Javiera Parra",
-          "url": "https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8"
-        }
-      ],
-      "duration_ms": 242948,
-      "name": "Un Caf\u00e9 para Plat\u00f3n",
-      "url": "https://open.spotify.com/track/2ssIy0nSLyeF8zfpTDCqyE"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "Even If It Kills Me (Reimagined)",
-        "url": "https://open.spotify.com/album/5vr5sIFJuqCzyybwpQQamc"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 174755,
-      "name": "Even If It Kills Me (Reimagined)",
-      "url": "https://open.spotify.com/track/29Nr1P9e3ukDqs9MuiqEhD"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/37mPOJFmLSgqIE90CdAsT6"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "Sleep Now In The Fire - Spotify Singles",
-      "url": "https://open.spotify.com/track/5mMjqL7JI1BQQWBVFevFsN"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "Shapeshifter",
-        "url": "https://open.spotify.com/album/7c4xJPkWyEyLFhscmPbhl7"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        }
-      ],
-      "duration_ms": 220660,
-      "name": "Love Is War",
-      "url": "https://open.spotify.com/track/2iKYgFZXyC5GBxCbg2HCD7"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "My Way (The Best Of Frank Sinatra)",
-        "url": "https://open.spotify.com/album/3xpGJeKAVe79XWMwf1x6TV"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 149199,
-      "name": "Fly Me to the Moon",
-      "url": "https://open.spotify.com/track/1orbpXnRLZOLTWADeOkBz1"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "Oculus Maximus",
-        "url": "https://open.spotify.com/album/6AM8F6nueCKT8QXNADxSHq"
-      },
-      "artists": [
-        {
-          "name": "ScarLid Vibez",
-          "url": "https://open.spotify.com/artist/5kNDp8ViqFRVvMDbHrhfzq"
-        },
-        {
-          "name": "Dark Tranquillity",
-          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
-        }
-      ],
-      "duration_ms": 71157,
-      "name": "Xeroxs",
-      "url": "https://open.spotify.com/track/1y8uRz1qLUAZcuiWFmezFW"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "The Place After This One",
-        "url": "https://open.spotify.com/album/5qEOO4BX3s3amNgFashUs0"
-      },
-      "artists": [
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 181017,
-      "name": "Loss",
-      "url": "https://open.spotify.com/track/7B6ddTSICdNYKAlNTIhZSb"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "Redefined",
-        "url": "https://open.spotify.com/album/6LrPdIjDOINvFgXaDMdJcJ"
-      },
-      "artists": [
-        {
-          "name": "Dead Rabbitts",
-          "url": "https://open.spotify.com/artist/7JVShmAauuaq861DoM5rP6"
-        },
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
-        }
-      ],
-      "duration_ms": 198035,
-      "name": "T/R/A/P/P/E/D",
-      "url": "https://open.spotify.com/track/27z4fMs35bbdH3xDf3G2BN"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "Private Dancer (40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0grIG45v0JWy5N46z4As0B"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 243253,
-      "name": "Private Dancer - Sterling Version",
-      "url": "https://open.spotify.com/track/2zCpxRVfOBkwWoDt2lpbfj"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
-      "album": {
-        "name": "Superlover (Feat. Annie Lennox)",
-        "url": "https://open.spotify.com/album/4bl5DXRhQnvujIUBKJ9WIA"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        },
-        {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
-        }
-      ],
-      "duration_ms": 312602,
-      "name": "Superlover (Feat. Annie Lennox)",
-      "url": "https://open.spotify.com/track/0P4i9pvof37KYxmlgi2gal"
-    },
-    {
-      "added_at": "2025-04-04 04:00:00",
+      "added_at": "2025-04-11 04:00:00",
       "album": {
         "name": "Now or Never (F.A.S.T x & DJ Triple XL Remix)",
         "url": "https://open.spotify.com/album/3fZxc2BwHIv2I72Txd9yGq"
@@ -609,20 +825,24 @@
       "url": "https://open.spotify.com/track/0ne6OckaYVeDJOMBETFHBC"
     },
     {
-      "added_at": "2025-04-04 04:00:00",
+      "added_at": "2025-04-11 04:00:00",
       "album": {
-        "name": "Pink + White",
-        "url": "https://open.spotify.com/album/3FumX8Rc1bIO57p41mmf0i"
+        "name": "Shock Dem",
+        "url": "https://open.spotify.com/album/0kQdiul7Ppc5yvG6HfTutx"
       },
       "artists": [
         {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+          "name": "Rhodecy",
+          "url": "https://open.spotify.com/artist/3dPUaskObXRULN4wlqDMaW"
+        },
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 176333,
-      "name": "Pink + White",
-      "url": "https://open.spotify.com/track/6QkbqPBoXQCEkXdeAqYa7Y"
+      "duration_ms": 184800,
+      "name": "Shock Dem",
+      "url": "https://open.spotify.com/track/2xGlVRFxbrGPrpplSfEfgY"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

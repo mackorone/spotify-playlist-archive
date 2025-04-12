@@ -1691,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "In dit huis",
+        "url": "https://open.spotify.com/album/5PeaUrt15RwKfbRqibkNP1"
+      },
+      "artists": [
+        {
+          "name": "Leonie Meijer",
+          "url": "https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225574,
+      "name": "In dit huis",
+      "url": "https://open.spotify.com/track/5vXLnShJWR7sWvgpYq1ojG"
+    },
+    {
+      "album": {
         "name": "Je leeft maar 1 keer",
         "url": "https://open.spotify.com/album/1EgjIzMkAbsoxMdaYKq5xz"
       },
@@ -1738,7 +1756,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 265897,
       "name": "Jouw Angst",
       "url": "https://open.spotify.com/track/79HOUdP3zGZS3NXuMFjWei"
@@ -1976,10 +1994,28 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 294720,
       "name": "Lente Me",
       "url": "https://open.spotify.com/track/1JSrkd77iGJMYwTUBdX5Xs"
+    },
+    {
+      "album": {
+        "name": "Lichaam Zoekt Geest (Akoestische Versie)",
+        "url": "https://open.spotify.com/album/7dsC15kwaV7sRdi4zqxVYR"
+      },
+      "artists": [
+        {
+          "name": "Brent Beukelaer",
+          "url": "https://open.spotify.com/artist/1Ngq1CTE4lYGXg2OBWfhVg"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180725,
+      "name": "Lichaam Zoekt Geest - Akoestische Versie",
+      "url": "https://open.spotify.com/track/7cCG3NolytD74kEmwjs4yX"
     },
     {
       "album": {

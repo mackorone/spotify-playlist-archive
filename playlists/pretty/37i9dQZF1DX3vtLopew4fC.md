@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume\. Cover: BLOND:ISH
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,642 likes - 40 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,644 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 28 | [I'll Take It](https://open.spotify.com/track/0FAlG6uOeaXWuRdDxaeIQY) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Object Permanence \(Deluxe Edition\)](https://open.spotify.com/album/2wupSocGm47JxOKTZtStrw) | 3:23 |
 | 29 | [Superlover \(Feat\. Annie Lennox\)](https://open.spotify.com/track/0P4i9pvof37KYxmlgi2gal) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Superlover \(Feat\. Annie Lennox\)](https://open.spotify.com/album/4bl5DXRhQnvujIUBKJ9WIA) | 5:12 |
 | 30 | [Rags](https://open.spotify.com/track/412DgnJV3OyVDSC62kSMgO) | [Bria Salmena](https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8) | [Rags](https://open.spotify.com/album/3caDFJoWMdSlWjPDtEghOh) | 2:48 |
-| 31 | [Just Like Me](https://open.spotify.com/track/5Nm0tkdhfLDVBuIGttN6sh) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [Just Like Me](https://open.spotify.com/album/7207lFqWVUYzbmkqjhkNzd) | 2:49 |
+| 31 | [Just Like Me](https://open.spotify.com/track/5Nm0tkdhfLDVBuIGttN6sh) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Just Like Me](https://open.spotify.com/album/7207lFqWVUYzbmkqjhkNzd) | 2:49 |
 | 32 | [AMPM](https://open.spotify.com/track/4muJmX05wAtOwHFZyKr52r) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [AMPM](https://open.spotify.com/album/36QJpbcTU7gQEHahNOsWNp) | 3:15 |
 | 33 | [CHAMBRE D'ÉCHO](https://open.spotify.com/track/5Ya8UiLpaOMw77lCSsMg6n) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ) | [CHAMBRE D'ÉCHO](https://open.spotify.com/album/0qrjkrBsdYVRKXpavkBAFz) | 4:47 |
 | 34 | [Silver Lines](https://open.spotify.com/track/03ZAkPbN9kT1tKJKO8fnt3) | [Sinca](https://open.spotify.com/artist/5TjfRHDPGSphgwJaiGauqT) | [Silver Lines](https://open.spotify.com/album/5pRtDqM9wXxbUvoxvuERGQ) | 3:42 |

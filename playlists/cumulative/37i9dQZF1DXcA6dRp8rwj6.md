@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Awich\)
 
-2,731 songs - 5 day 18 hr 5 min
+2,732 songs - 5 day 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [Black Superhero \[Feat\. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.\]](https://open.spotify.com/track/6i8K68TanxPlhBlRiQIdC3) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [Black Superhero \[Feat\. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.\]](https://open.spotify.com/album/6OQ6gN6iPAZHNpu8Z1p1Yv) | 5:55 | 2022-01-20 | 2022-02-11 |
 | [BLACKONBLACK FREESTYLE](https://open.spotify.com/track/2MjkZXFRPsNNOxDTztFiL8) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [BLACKONBLACK FREESTYLE](https://open.spotify.com/album/50KXBmUr5mJqP3gGYOiS6h) | 2:13 | 2024-07-18 | 2024-09-13 |
 | [Blackout](https://open.spotify.com/track/0B0Xu2ih8fWpcwyxAt1c7m) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Blackout](https://open.spotify.com/album/55ZLjifyJc6wpZ07D2DcLV) | 3:16 | 2023-04-06 | 2024-01-05 |
+| [Blakk Rokkstar](https://open.spotify.com/track/7IzutleLK1419FM8rUpYmq) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/3tIS7SDlvbyJ0oFQzNqjco) | 3:50 | 2025-04-10 |  |
 | [Blanco](https://open.spotify.com/track/1mS6WBo2ZH9TXnjMEIOTcW) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Blanco](https://open.spotify.com/album/7gO4N7Lhppp9QHwjnUA6Mb) | 3:10 | 2025-03-20 |  |
 | [Blanket](https://open.spotify.com/track/34mIasINn8fmO54la1cDaM) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Blanket](https://open.spotify.com/album/1yUYTi45DvH4lTZnrX9hib) | 1:57 | 2023-10-05 | 2023-11-18 |
 | [BLASÉOUL\(G6\) \(Ft\. Jay Park, Coogie, oygli\)](https://open.spotify.com/track/3BP0zzLVE0yCVeeowfeLxk) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [oygli](https://open.spotify.com/artist/1xOiGoYkm1zgqwXLsvQA90) | [BLASÉOUL\(G6\) \(Ft\. Jay Park, Coogie, oygli\)](https://open.spotify.com/album/0sFFdxgbGUR0ZxScNFoxjU) | 3:23 | 2025-02-07 | 2025-03-28 |

@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Joe Armon\-Jones
 
-708 songs - 2 day 1 hr 37 min
+709 songs - 2 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Do you](https://open.spotify.com/track/6XZsh0Z4pxcsFM788tHtXf) | [Alicia Kruger](https://open.spotify.com/artist/7FAVT7XBhYQCOq6VkQGGzS) | [Do you](https://open.spotify.com/album/2GGsMAKD6l4F6HFLPFy6F7) | 3:36 | 2022-03-08 | 2022-04-21 |
 | [Do You Want to Know a Secret](https://open.spotify.com/track/4NmevLdf0DjM22ASgnLrYh) | [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [Do You Want to Know a Secret](https://open.spotify.com/album/3poKwA1VNvoXkRwULoaFJY) | 2:00 | 2022-03-08 | 2022-04-20 |
 | [Doesn't Matter Why](https://open.spotify.com/track/29MT6T2LkM0FeL2dNo68WY) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu), [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [Doesn't Matter Why](https://open.spotify.com/album/0oasEKiLayMsAKVjpUIhtm) | 3:05 | 2022-03-24 | 2022-07-19 |
-| [Don't Wait Too Long](https://open.spotify.com/track/6bYPgYBo2joNEdvTbKERLA) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz), [The SWR Big Band](https://open.spotify.com/artist/4WnYuKbhxAKXJ8yAvvOsfW) | [Don’t Wait Too Long](https://open.spotify.com/album/0fz3FJVabxmF2wr7eIrUO4) | 3:51 | 2024-10-24 |  |
+| [Don't Wait Too Long](https://open.spotify.com/track/6bYPgYBo2joNEdvTbKERLA) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz), [The SWR Big Band](https://open.spotify.com/artist/4WnYuKbhxAKXJ8yAvvOsfW) | [Don’t Wait Too Long](https://open.spotify.com/album/0fz3FJVabxmF2wr7eIrUO4) | 3:51 | 2024-10-24 | 2025-04-12 |
 | [Dopamine](https://open.spotify.com/track/4fcGgxx1moBvJZDgRU0hTk) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Dopamine](https://open.spotify.com/album/6kUnzF4bqYq6Whq5c91NbI) | 2:55 | 2023-12-22 | 2025-01-24 |
 | [Dough](https://open.spotify.com/track/0jODRjsDMDrnRVwRpMS4SI) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN) | [Dough](https://open.spotify.com/album/66x9bHZiWLtKOjSHy1vltw) | 2:31 | 2022-12-09 | 2023-10-23 |
 | [Dough](https://open.spotify.com/track/2Om3mASX63tNLOYrxeuXLh) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN) | [Dough](https://open.spotify.com/album/0K2okf5wV6GjXumiMG6yQw) | 2:31 | 2022-10-14 | 2022-11-24 |
@@ -581,6 +581,7 @@
 | [Sweet Nirvana](https://open.spotify.com/track/4up8iER7w4bFgY7Ta2bnXR) | [Immy](https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7) | [Sweet Nirvana](https://open.spotify.com/album/6mCbs9E7goC0O7Ktv1l6M0) | 3:08 | 2023-12-22 | 2024-06-15 |
 | [Sweet Shop](https://open.spotify.com/track/66LXZLB5neVWhdeEx56qjS) | [Kaidi & NK\-OK](https://open.spotify.com/artist/7jDA84G7dkwJAGstQhFbhd), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Sweet Shop](https://open.spotify.com/album/5BN6H5RXllnqNrRmt0cthQ) | 3:50 | 2021-12-17 | 2022-05-27 |
 | [sweet wurli](https://open.spotify.com/track/3SMt4rUCBTQUEDwtpGZv71) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [sweet wurli](https://open.spotify.com/album/5GkioWixxU8los60AvybaX) | 3:03 | 2021-12-17 | 2022-07-28 |
+| [Sweetie](https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Sweetie](https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36) | 4:04 | 2025-04-10 |  |
 | [Sydney](https://open.spotify.com/track/1Xfa2TNdqr5GpzrCMs8AT0) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) | [Awake You Lie](https://open.spotify.com/album/5oBL12HIjoMOIqfGKSXU9Z) | 4:28 | 2022-03-08 | 2022-03-09 |
 | [Sydney](https://open.spotify.com/track/5ITvU6QiEjeijrPBruWK0o) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) | [Sydney](https://open.spotify.com/album/74cFr1mhloboC2kfMb6B8R) | 4:28 | 2022-03-24 | 2022-04-19 |
 | [Take Flight](https://open.spotify.com/track/6G0N1IkBWHsO8WQHxqpz44) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [Take Flight](https://open.spotify.com/album/1XWQCrHuszOJyjdcnbTUdH) | 3:05 | 2022-12-09 | 2023-02-27 |

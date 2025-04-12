@@ -4,7 +4,7 @@
 
 > indie tunes with country experimentation featuring music from Frog 🌟🌟🌟
 
-289 songs - 18 hr 29 min
+290 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Favorite Song](https://open.spotify.com/track/5BqN9YxYxyXqrbS7FWpOWH) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Last Room](https://open.spotify.com/album/4tPzvYMdlRvpnMlXe8zAbz) | 2:54 | 2023-06-30 |  |
 | [Feed My Release](https://open.spotify.com/track/442h55BG9peZwkpdBb5tEM) | [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok) | [Feed My Release](https://open.spotify.com/album/0dtcWAoSVVGeHJvCdD056G) | 5:16 | 2024-09-06 |  |
 | [Fire](https://open.spotify.com/track/2lBEWXP11gpEySIXgA5ALH) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M) | 3:37 | 2023-10-02 | 2024-07-27 |
+| [First it was a movie, then it was a book](https://open.spotify.com/track/7ExHIXcOVFpQ3LexAhjl3u) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [First it was a movie, then it was a book](https://open.spotify.com/album/1Rie4axh0gfYJhuN358run) | 6:50 | 2025-04-11 |  |
 | [Florida](https://open.spotify.com/track/15FNZhperxThEW9hbekubq) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Florida](https://open.spotify.com/album/5WE0uZelPKzwZdymyKsLf3) | 9:04 | 2023-12-08 | 2024-02-03 |
 | [Foggy](https://open.spotify.com/track/6uIrr2sILRAiSlU8DX6IW3) | [Quiet Life](https://open.spotify.com/artist/13MdjUqnWNyfY4qKYQ9OPl) | [Foggy](https://open.spotify.com/album/2nrvUYyF6cd7aBzjdTwzLr) | 7:37 | 2023-05-19 |  |
 | [Foolish and Fast](https://open.spotify.com/track/4c4j2dLXhniKAacqqJK0zN) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Watch Me Drive Them Dogs Wild](https://open.spotify.com/album/5jhCAXSADJb5mTSYRaqO3X) | 4:12 | 2024-09-27 |  |

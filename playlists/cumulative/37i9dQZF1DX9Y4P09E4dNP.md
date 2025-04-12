@@ -4,7 +4,7 @@
 
 > The big Hip\-Life hits rn\. Cover: AratheJay and Bella Shmurda
 
-261 songs - 16 hr 43 min
+262 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Araba Lawson \(feat\. All4real\)](https://open.spotify.com/track/0GFjf8ABto37t2pbGm5JfL) | [C\-Zar](https://open.spotify.com/artist/0Fj9MPOAPKlcNZqVFrNWYx), [All4Real](https://open.spotify.com/artist/4iG1ZHRDz0xTngBW1hHtRe) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:31 | 2020-02-20 | 2022-07-28 |
 | [Aseda](https://open.spotify.com/track/6oNuASyQEzd7Z6VsF1hKNG) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Aseda](https://open.spotify.com/album/5uw6BvKCIK8nlIlQFOP5v9) | 3:00 | 2024-04-03 |  |
 | [Asew](https://open.spotify.com/track/7xujnLnBsxgby94GzXdPVi) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc), [Mic Flammez](https://open.spotify.com/artist/1EUY08IMbLAtjiyBxsgueI) | [Highlife Konnect](https://open.spotify.com/album/72NulXFtskbFG6htwcte2C) | 3:25 | 2020-02-20 | 2024-03-05 |
-| [Asylum](https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana \(Deluxe\)](https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV) | 3:02 | 2024-03-04 |  |
+| [Asylum](https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana \(Deluxe\)](https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV) | 3:02 | 2024-03-04 | 2025-04-12 |
 | [Atadwe](https://open.spotify.com/track/7xMqJPXwR4daIGNNz8BIjc) | [Papa Shee](https://open.spotify.com/artist/7uBklHGcjfKcyKHGzXS0NC) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 6:03 | 2020-02-20 | 2022-07-26 |
 | [Atadwe](https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Atadwe](https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk) | 6:00 | 2020-02-20 | 2024-03-04 |
 | [Atamfo](https://open.spotify.com/track/4FkhH9eS0w3OT1DfWRR1b5) | [Showbezzy](https://open.spotify.com/artist/7BelL3ykjT9gOHjMCf3yMu) | [Atamfo](https://open.spotify.com/album/6TIabBzxEmd9EPFKF0P7a9) | 2:36 | 2024-10-14 | 2024-10-26 |
@@ -68,6 +68,7 @@
 | [Canopy](https://open.spotify.com/track/6HWx6dqKPfThbHIt79oBus) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Canopy](https://open.spotify.com/album/3mIQ9QuBDBhLkSJYpKcmPV) | 2:34 | 2024-04-03 | 2025-03-15 |
 | [Celebrate](https://open.spotify.com/track/0UUczvIt4oAghLNuY8WSEA) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Celebrate](https://open.spotify.com/album/1DjCbRACl4Q9bLtT0hhiIF) | 2:28 | 2021-12-02 | 2024-04-26 |
 | [Chaana](https://open.spotify.com/track/7DbTft1XzdZSFYVJj8fW8I) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Chaana](https://open.spotify.com/album/5Uejem580GttkrRDGvxqmo) | 3:29 | 2025-03-14 | 2025-04-08 |
+| [Cheat On You](https://open.spotify.com/track/5eEujB7GCM34vovJBGCU50) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Cheat On You](https://open.spotify.com/album/38bYEvgGHZ4su9AKt3Dudz) | 3:21 | 2025-04-11 |  |
 | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf) | 3:33 | 2021-12-09 | 2024-03-05 |
 | [Country Side \(feat\. Black Sherif\)](https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:40 | 2024-03-04 |  |
 | [DADA BA](https://open.spotify.com/track/5lgGv9Y0i3PKtQFeHpXYXb) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [DADA BA](https://open.spotify.com/album/5EFW38XyXglIjFsqOcFeby) | 3:04 | 2022-03-03 | 2023-02-26 |

@@ -2065,6 +2065,24 @@
     },
     {
       "album": {
+        "name": "Mat\u00e8l (original motion picture soundtrack)",
+        "url": "https://open.spotify.com/album/6Uu2aSnnskKHLs0mriQfcT"
+      },
+      "artists": [
+        {
+          "name": "Ginevra Nervi",
+          "url": "https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204043,
+      "name": "Mat\u00e8l",
+      "url": "https://open.spotify.com/track/6d81er1G1FqItrbdX2Ta5E"
+    },
+    {
+      "album": {
         "name": "Meet Me By The Ocean",
         "url": "https://open.spotify.com/album/4etB8yFvsc5SUP8VTi8kv3"
       },
@@ -2214,6 +2232,24 @@
       "duration_ms": 213000,
       "name": "Modjadji",
       "url": "https://open.spotify.com/track/7hWjSo4Sw8HzFPPyQL9Xfm"
+    },
+    {
+      "album": {
+        "name": "Moos",
+        "url": "https://open.spotify.com/album/3hQpycAX2VQpqmk5zYL4x4"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175106,
+      "name": "Moos",
+      "url": "https://open.spotify.com/track/76XOYqJB24XX5BTgATo4ST"
     },
     {
       "album": {
@@ -2576,7 +2612,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 405176,
       "name": "Nine",
       "url": "https://open.spotify.com/track/35YBpp7aLaH9wJd1QuQF3i"

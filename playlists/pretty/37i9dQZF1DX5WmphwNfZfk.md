@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 40 Canadian artists to keep on your radar, according to our editors\. Cover: Maz B
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,982 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,983 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No Cares](https://open.spotify.com/track/7efe84XgsSB5zjcW4IpgfG) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Apollo](https://open.spotify.com/album/6V8N8vobePP7eRwPBrUH5d) | 1:51 |
 | 2 | [Too Pretty For Buffalo](https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Too Pretty For Buffalo](https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY) | 3:56 |
-| 3 | [Just Like Me](https://open.spotify.com/track/5Nm0tkdhfLDVBuIGttN6sh) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [Just Like Me](https://open.spotify.com/album/7207lFqWVUYzbmkqjhkNzd) | 2:49 |
+| 3 | [Just Like Me](https://open.spotify.com/track/5Nm0tkdhfLDVBuIGttN6sh) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Just Like Me](https://open.spotify.com/album/7207lFqWVUYzbmkqjhkNzd) | 2:49 |
 | 4 | [Rags](https://open.spotify.com/track/59Y4J1upowyYCkCshtbgJj) | [Bria Salmena](https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8) | [Big Dog](https://open.spotify.com/album/5mqOtcWgIm4KWsPqZaB61I) | 2:48 |
 | 5 | [ONE MORE TIME \(TRY\)](https://open.spotify.com/track/0nvBw7Jz4SxNIrZ5X6caQw) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Camper](https://open.spotify.com/artist/5fHfXfYXOLsHluSat8jYeS) | [ONE MORE TIME \(TRY\)](https://open.spotify.com/album/2XEfda319MXDI00Ym46dAq) | 2:48 |
 | 6 | [Nite Lite](https://open.spotify.com/track/67RVltDoRPEA4fGOFZ6TlR) | [knitting](https://open.spotify.com/artist/2eRDm8pl8MFrZv1gsfqUtj) | [Nite Lite](https://open.spotify.com/album/7KpxQmw6HeJH5G51GEN1ck) | 3:01 |

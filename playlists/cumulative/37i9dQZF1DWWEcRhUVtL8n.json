@@ -9425,6 +9425,24 @@
     },
     {
       "album": {
+        "name": "DJ",
+        "url": "https://open.spotify.com/album/6JPC4BxmhOmvzjFOgAvgIZ"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120408,
+      "name": "DJ",
+      "url": "https://open.spotify.com/track/5UzMBhyklGE8ORRmhhNOBD"
+    },
+    {
+      "album": {
         "name": "All My Little Scars, Vol. 3",
         "url": "https://open.spotify.com/album/0h6GvNvK38uE2opQoixF51"
       },
@@ -9552,7 +9570,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 195800,
       "name": "Dog",
       "url": "https://open.spotify.com/track/1zFHYaaONgPobW6xRGfHO6"
@@ -12596,6 +12614,24 @@
       "duration_ms": 206335,
       "name": "Friends",
       "url": "https://open.spotify.com/track/7oEO6TfBGcyJw8ZpP8e8i2"
+    },
+    {
+      "album": {
+        "name": "SABLE, fABLE",
+        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182607,
+      "name": "From",
+      "url": "https://open.spotify.com/track/5agmWuBAor2UQcNqByOvWC"
     },
     {
       "album": {
@@ -20422,7 +20458,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 179841,
       "name": "Little Ray Of Light",
       "url": "https://open.spotify.com/track/6az0lDUrzgyGYBTyRvYRBH"
@@ -29442,7 +29478,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 179973,
       "name": "see through",
       "url": "https://open.spotify.com/track/1lsJjnvmbmx1ufznwAdYku"
@@ -34496,7 +34532,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-29",
+      "date_removed": null,
       "duration_ms": 196533,
       "name": "The Question",
       "url": "https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0"

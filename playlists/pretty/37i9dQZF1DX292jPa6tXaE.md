@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 ### [Fresh Finds Punjabi](https://open.spotify.com/playlist/37i9dQZF1DX292jPa6tXaE)
 
-> Discover the future of Punjabi Pop!  Cover: Gagandeep Thumber
+> Discover the future of Punjabi Pop!  Cover: Gagandeep Thamber
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,449 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,462 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 49 | [Puthi Matt](https://open.spotify.com/track/0CbAqgwpq8Zyrqym6D2BE5) | [Amyth](https://open.spotify.com/artist/1aWXUn3eJc7eMJnnksUSqJ), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC), [Diljan](https://open.spotify.com/artist/5wq7uAiLmjk5RdRpxw1aQF) | [Puthi Matt](https://open.spotify.com/album/3Olsca2lcLNMy9EAhUAsUR) | 2:29 |
 | 50 | [Nazare](https://open.spotify.com/track/1VAkwCW8KAa8z0IYRGYHJf) | [Bobby Janjua](https://open.spotify.com/artist/5Z39T8SrgEHsQTjxXUMQhy) | [Nazare](https://open.spotify.com/album/40XISHbnSAhxqXhl3WgmzJ) | 2:17 |
 
-Snapshot ID: `Z/YPQQAAAAAzKtNTzPlGPIe8xN4J8vU+`
+Snapshot ID: `Z/i7+QAAAABlBe8pFo7zj6fJAFD9S7AO`

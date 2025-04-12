@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 913104,
+  "num_followers": 913302,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -278,10 +278,6 @@
         {
           "name": "DJ DYLANFK",
           "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
-        },
-        {
-          "name": "MRR",
-          "url": "https://open.spotify.com/artist/3g3GaoGiDhAeavQUhxWMmM"
         }
       ],
       "duration_ms": 117901,
@@ -329,22 +325,6 @@
       "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
     },
     {
-      "added_at": "2025-03-27 14:52:17",
-      "album": {
-        "name": "GigaChad Theme (Phonk House Version)",
-        "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
-      },
-      "artists": [
-        {
-          "name": "g3ox_em",
-          "url": "https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs"
-        }
-      ],
-      "duration_ms": 146274,
-      "name": "GigaChad Theme - Phonk House Version",
-      "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
-    },
-    {
       "added_at": "2025-03-28 00:00:48",
       "album": {
         "name": "GANO",
@@ -363,70 +343,18 @@
     {
       "added_at": "2025-03-27 14:52:17",
       "album": {
-        "name": "DERNIERE DANCE FUNK",
-        "url": "https://open.spotify.com/album/5sJAIhExhl8Ok1lAuQ8pPT"
+        "name": "GigaChad Theme (Phonk House Version)",
+        "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
       },
       "artists": [
         {
-          "name": "ZODIVK",
-          "url": "https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or"
-        },
-        {
-          "name": "Sachin SSS",
-          "url": "https://open.spotify.com/artist/7GDhzZ1xjQJBcV6TQ1Mbhi"
-        },
-        {
-          "name": "YXUNGXROTICA",
-          "url": "https://open.spotify.com/artist/7gyc1wWTGmRwZpYtiFwH1D"
-        },
-        {
-          "name": "MC KRAKEN",
-          "url": "https://open.spotify.com/artist/3Uy7W2zcbfxQWLDAXTPugq"
+          "name": "g3ox_em",
+          "url": "https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs"
         }
       ],
-      "duration_ms": 91453,
-      "name": "DERNIERE DANCE FUNK",
-      "url": "https://open.spotify.com/track/6NxIh2DTIOoATFmezrHv61"
-    },
-    {
-      "added_at": "2025-03-27 14:52:17",
-      "album": {
-        "name": "Tacata (Remix)",
-        "url": "https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA"
-      },
-      "artists": [
-        {
-          "name": "Tiagz",
-          "url": "https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 156716,
-      "name": "Tacata (Remix)",
-      "url": "https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj"
-    },
-    {
-      "added_at": "2025-03-28 00:00:48",
-      "album": {
-        "name": "PSL",
-        "url": "https://open.spotify.com/album/4hhb7OlsPwdMK0gqpHkrMq"
-      },
-      "artists": [
-        {
-          "name": "2KE",
-          "url": "https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4"
-        }
-      ],
-      "duration_ms": 141317,
-      "name": "PSL - Slowed",
-      "url": "https://open.spotify.com/track/2LAYBsmfObMC0IPUHmvDav"
+      "duration_ms": 146274,
+      "name": "GigaChad Theme - Phonk House Version",
+      "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
     },
     {
       "added_at": "2025-03-28 00:00:48",
@@ -463,6 +391,90 @@
       "duration_ms": 97368,
       "name": "BOUNCE FUNK - Slowed",
       "url": "https://open.spotify.com/track/0cJwt3tpaMOXPAXkaHAp7k"
+    },
+    {
+      "added_at": "2025-03-27 14:52:17",
+      "album": {
+        "name": "Tacata (Remix)",
+        "url": "https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA"
+      },
+      "artists": [
+        {
+          "name": "Tiagz",
+          "url": "https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 156716,
+      "name": "Tacata (Remix)",
+      "url": "https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj"
+    },
+    {
+      "added_at": "2025-03-27 14:52:17",
+      "album": {
+        "name": "DERNIERE DANCE FUNK",
+        "url": "https://open.spotify.com/album/5sJAIhExhl8Ok1lAuQ8pPT"
+      },
+      "artists": [
+        {
+          "name": "ZODIVK",
+          "url": "https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or"
+        },
+        {
+          "name": "Sachin SSS",
+          "url": "https://open.spotify.com/artist/7GDhzZ1xjQJBcV6TQ1Mbhi"
+        },
+        {
+          "name": "YXUNGXROTICA",
+          "url": "https://open.spotify.com/artist/7gyc1wWTGmRwZpYtiFwH1D"
+        },
+        {
+          "name": "MC KRAKEN",
+          "url": "https://open.spotify.com/artist/3Uy7W2zcbfxQWLDAXTPugq"
+        }
+      ],
+      "duration_ms": 91453,
+      "name": "DERNIERE DANCE FUNK",
+      "url": "https://open.spotify.com/track/6NxIh2DTIOoATFmezrHv61"
+    },
+    {
+      "added_at": "2025-03-28 00:00:48",
+      "album": {
+        "name": "MATUSHKA ULTRAFUNK",
+        "url": "https://open.spotify.com/album/1SYGCQXfhjL8KnMXQ6ImsK"
+      },
+      "artists": [
+        {
+          "name": "satirin",
+          "url": "https://open.spotify.com/artist/7g38XDW5EXI4dMTUkYjVTO"
+        }
+      ],
+      "duration_ms": 144466,
+      "name": "MATUSHKA ULTRAFUNK",
+      "url": "https://open.spotify.com/track/12CXx3gXBn9QjGSNYzEh05"
+    },
+    {
+      "added_at": "2025-03-28 00:00:48",
+      "album": {
+        "name": "PSL",
+        "url": "https://open.spotify.com/album/4hhb7OlsPwdMK0gqpHkrMq"
+      },
+      "artists": [
+        {
+          "name": "2KE",
+          "url": "https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4"
+        }
+      ],
+      "duration_ms": 141317,
+      "name": "PSL - Slowed",
+      "url": "https://open.spotify.com/track/2LAYBsmfObMC0IPUHmvDav"
     },
     {
       "added_at": "2025-03-27 14:52:17",
@@ -511,22 +523,6 @@
     {
       "added_at": "2025-03-28 00:00:48",
       "album": {
-        "name": "MATUSHKA ULTRAFUNK",
-        "url": "https://open.spotify.com/album/1SYGCQXfhjL8KnMXQ6ImsK"
-      },
-      "artists": [
-        {
-          "name": "satirin",
-          "url": "https://open.spotify.com/artist/7g38XDW5EXI4dMTUkYjVTO"
-        }
-      ],
-      "duration_ms": 144466,
-      "name": "MATUSHKA ULTRAFUNK",
-      "url": "https://open.spotify.com/track/12CXx3gXBn9QjGSNYzEh05"
-    },
-    {
-      "added_at": "2025-03-28 00:00:48",
-      "album": {
         "name": "Funk Da Montanha",
         "url": "https://open.spotify.com/album/1lIRnJM73zVgEWVE8oCxnb"
       },
@@ -549,26 +545,6 @@
       "url": "https://open.spotify.com/track/4gjg9hB5q4xWjJ9EelppL2"
     },
     {
-      "added_at": "2025-03-27 14:52:17",
-      "album": {
-        "name": "Step Back!",
-        "url": "https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        },
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 150674,
-      "name": "Step Back!",
-      "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
-    },
-    {
       "added_at": "2025-03-28 00:00:48",
       "album": {
         "name": "REAL MOONSHINE FUNK",
@@ -587,26 +563,6 @@
       "duration_ms": 94299,
       "name": "REAL MOONSHINE FUNK - Super Slowed",
       "url": "https://open.spotify.com/track/05ApNGJtAmmfL9lStfo8kO"
-    },
-    {
-      "added_at": "2025-03-28 00:00:48",
-      "album": {
-        "name": "z-beta 2",
-        "url": "https://open.spotify.com/album/6dRJ8zaG9oTGrwpfu0Itld"
-      },
-      "artists": [
-        {
-          "name": "qaraqshy",
-          "url": "https://open.spotify.com/artist/32Pxa55IN0QAmFtzWcT2w9"
-        },
-        {
-          "name": "MC LONE",
-          "url": "https://open.spotify.com/artist/1nzIoHG5B7klgAPdwjqRDj"
-        }
-      ],
-      "duration_ms": 94040,
-      "name": "z-beta 2 - Super Slowed",
-      "url": "https://open.spotify.com/track/5WMrHMfkarliApsXvwUTrh"
     },
     {
       "added_at": "2025-03-28 00:00:48",
@@ -639,6 +595,46 @@
     {
       "added_at": "2025-03-27 14:52:17",
       "album": {
+        "name": "Step Back!",
+        "url": "https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        },
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 150674,
+      "name": "Step Back!",
+      "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
+    },
+    {
+      "added_at": "2025-03-28 00:00:48",
+      "album": {
+        "name": "z-beta 2",
+        "url": "https://open.spotify.com/album/6dRJ8zaG9oTGrwpfu0Itld"
+      },
+      "artists": [
+        {
+          "name": "qaraqshy",
+          "url": "https://open.spotify.com/artist/32Pxa55IN0QAmFtzWcT2w9"
+        },
+        {
+          "name": "MC LONE",
+          "url": "https://open.spotify.com/artist/1nzIoHG5B7klgAPdwjqRDj"
+        }
+      ],
+      "duration_ms": 94040,
+      "name": "z-beta 2 - Super Slowed",
+      "url": "https://open.spotify.com/track/5WMrHMfkarliApsXvwUTrh"
+    },
+    {
+      "added_at": "2025-03-27 14:52:17",
+      "album": {
         "name": "AUTOMOTIVO EMPURRA",
         "url": "https://open.spotify.com/album/2nwhU1YBl1CCMUQeKrh2lr"
       },
@@ -651,6 +647,22 @@
       "duration_ms": 72014,
       "name": "AUTOMOTIVO EMPURRA",
       "url": "https://open.spotify.com/track/37IDTp3sPhcMNaYYZa7Ir6"
+    },
+    {
+      "added_at": "2025-03-28 00:00:48",
+      "album": {
+        "name": "fragment",
+        "url": "https://open.spotify.com/album/0RXePjKXiL1bMMiMWNjxNw"
+      },
+      "artists": [
+        {
+          "name": "slxughter",
+          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
+        }
+      ],
+      "duration_ms": 97857,
+      "name": "fragment - slowed",
+      "url": "https://open.spotify.com/track/3wynI4tCs1XMc4zlmG6pvu"
     },
     {
       "added_at": "2025-03-27 14:52:17",
@@ -687,22 +699,6 @@
       "duration_ms": 231704,
       "name": "GHOST!",
       "url": "https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ"
-    },
-    {
-      "added_at": "2025-03-28 00:00:48",
-      "album": {
-        "name": "fragment",
-        "url": "https://open.spotify.com/album/0RXePjKXiL1bMMiMWNjxNw"
-      },
-      "artists": [
-        {
-          "name": "slxughter",
-          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
-        }
-      ],
-      "duration_ms": 97857,
-      "name": "fragment - slowed",
-      "url": "https://open.spotify.com/track/3wynI4tCs1XMc4zlmG6pvu"
     },
     {
       "added_at": "2025-03-28 00:00:48",
@@ -765,24 +761,24 @@
       "url": "https://open.spotify.com/track/586x98q1tY2vlDlhN1BwQM"
     },
     {
-      "added_at": "2025-03-27 14:52:17",
+      "added_at": "2025-03-28 00:00:48",
       "album": {
-        "name": "DEMONS IN MY SOUL",
-        "url": "https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7"
+        "name": "Mortals Funk Remix",
+        "url": "https://open.spotify.com/album/6Z5Wly0XcK7vMicO2QwsS6"
       },
       "artists": [
         {
-          "name": "SCXR SOUL",
-          "url": "https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC"
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
         },
         {
-          "name": "Sx1nxwy",
-          "url": "https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T"
+          "name": "Warriyo",
+          "url": "https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr"
         }
       ],
-      "duration_ms": 117637,
-      "name": "DEMONS IN MY SOUL",
-      "url": "https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO"
+      "duration_ms": 146364,
+      "name": "Mortals Funk Remix",
+      "url": "https://open.spotify.com/track/13vMIbppyQ6TKHeXQr9IVG"
     }
   ],
   "unique_name": "gymcore",

@@ -4,7 +4,7 @@
 
 > Rauw Alejandro, Trueno & Young Miko, La La Love You y más novedades importantes de la semana.
 
-1,718 songs - 3 day 15 hr 9 min
+1,719 songs - 3 day 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [2PA2](https://open.spotify.com/track/0niWWPoVUCqO6vqLXpCN2q) | [Anthony Ready & Yeigo](https://open.spotify.com/artist/3jbsnUDtwiiGVikbY9VYK7), [Victor R \-Swag](https://open.spotify.com/artist/5Jz48JzVckf7ZUvrQc55Iq) | [2PA2](https://open.spotify.com/album/2U7KgibBd8sk28iTmr8wkc) | 2:28 | 2025-04-04 | 2025-04-11 |
 | [304](https://open.spotify.com/track/1NhD5LhBFhSUfJKggAttE1) | [J.Beren](https://open.spotify.com/artist/3Kf8NGzlDG4KbqF7oSkOIe), [Karetta el Gucci](https://open.spotify.com/artist/4ygcJmgRCkZ0AoKkMt1xiZ) | [304](https://open.spotify.com/album/5S2cDbvHu1CZLJUz5OisAO) | 2:24 | 2025-01-16 | 2025-01-24 |
 | [3pa](https://open.spotify.com/track/35qj0PRCc7ZDUMDYYZZg6U) | [Bores D](https://open.spotify.com/artist/4W8h2ExvQpRm0A7fPst5Kw), [TheMohaa](https://open.spotify.com/artist/7LcKPBarzANpmxJNjlEQFJ), [TheAaroon](https://open.spotify.com/artist/5Q0x8M0KjggxNzEvy0QMKs) | [3pa](https://open.spotify.com/album/4YFBg4oljSjqo3rf8QLe3n) | 2:53 | 2025-01-31 | 2025-02-07 |
+| [3SP3JOS](https://open.spotify.com/track/17yOvo4Ppe5b6HTJcs4sqj) | [KYR4](https://open.spotify.com/artist/1nm61H1nuw0QZ86AuH0wv2), [Vnder](https://open.spotify.com/artist/0PRBVwG0LpcKJzvrP5oNRb) | [3SP3JOS](https://open.spotify.com/album/6mZGT0M2yUByCTB6R4BYTz) | 2:58 | 2025-04-11 |  |
 | [3sum](https://open.spotify.com/track/0GNfBpW2HFxWn9t9G4qnJu) | [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [dile no a las drogas](https://open.spotify.com/album/3PVlBBFUToLZBOM9FCNn6Z) | 3:13 | 2025-04-11 |  |
 | [4CEROS](https://open.spotify.com/track/4R0gb8dFJjIFEfmYfUnqvd) | [Yassir](https://open.spotify.com/artist/0gO4impF9bswjUblyD7bRF), [Neverknwn](https://open.spotify.com/artist/3h83Vh5q1KWo8KkvvV1kPa), [SokeThugPro](https://open.spotify.com/artist/44nEKYuxqc1juQ79QsVOl0) | [F Y FE](https://open.spotify.com/album/0A63RYgvCQ6Oc4TPvd57sL) | 2:32 | 2025-03-20 | 2025-03-28 |
 | [4EVA](https://open.spotify.com/track/7hs8xU52dYK7byd7WLOcKV) | [Foyone](https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ), [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9) | [4EVA](https://open.spotify.com/album/6u1CvK2OB8qtHYjGrJuyOa) | 3:17 | 2025-03-06 | 2025-03-14 |
@@ -544,7 +545,6 @@
 | [Eso Que Tú Llamas Amor](https://open.spotify.com/track/66qnFSBNzTAeOgVsadRkKi) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Eso Que Tú Llamas Amor](https://open.spotify.com/album/3o0rSyy7XEtDcFSiGvX8jI) | 2:55 | 2025-02-07 | 2025-02-14 |
 | [ESPAÑOLA](https://open.spotify.com/track/4pGGAyxyDF4ID0tLgaFMLn) | [Tino JJ](https://open.spotify.com/artist/1zadl0UA8O0AYeSoMauChk) | [ESPAÑOLA](https://open.spotify.com/album/6R7pa7i17fktBZb1r532qs) | 2:06 | 2024-11-14 | 2024-11-22 |
 | [Espectacular](https://open.spotify.com/track/1zuY26Ll9TTcefOKMKxnJu) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Espectacular](https://open.spotify.com/album/6iTMrrYpDNZgw3fS4V3xyf) | 2:57 | 2024-12-13 | 2024-12-20 |
-| [Espejos](https://open.spotify.com/track/17yOvo4Ppe5b6HTJcs4sqj) | [KYR4](https://open.spotify.com/artist/1nm61H1nuw0QZ86AuH0wv2), [Vnder](https://open.spotify.com/artist/0PRBVwG0LpcKJzvrP5oNRb) | [Espejos](https://open.spotify.com/album/6mZGT0M2yUByCTB6R4BYTz) | 2:58 | 2025-04-11 |  |
 | [ESPERO QUE PODAMOS SER AMIGOS](https://open.spotify.com/track/5AHr41xqQgTmaFcDHIO304) | [Kadec Santa Anna](https://open.spotify.com/artist/2EGMWC98kT000LbqnDYwhW), [Franckvit](https://open.spotify.com/artist/4gBRCPrNVKcPmsLTjIMqDG) | [ESPERO QUE PODAMOS SER AMIGOS](https://open.spotify.com/album/1lTZxpky21ec81VqA03ZBC) | 3:20 | 2024-10-17 | 2024-10-25 |
 | [Espurna](https://open.spotify.com/track/0YLvq215pAthBeTs5qp5yg) | [Stay Homas](https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU), [Figa Flawas](https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3) | [Espurna](https://open.spotify.com/album/30MA4geElUAQ6gNQ3ajaiK) | 2:37 | 2025-01-16 | 2025-01-24 |
 | [Esta $í Esta N\#](https://open.spotify.com/track/4wgfaQgQXGQg8x0ogHStOM) | [Juanfran](https://open.spotify.com/artist/7zY0DMisq1oYXvNNgGwHBY), [Atomic Otro Way](https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ) | [Esta $í Esta N\#](https://open.spotify.com/album/5wt8OCIiJsVjmLhYSlGIBz) | 2:46 | 2025-03-06 | 2025-03-14 |
@@ -1161,6 +1161,7 @@
 | [Para llegar hasta aquí](https://open.spotify.com/track/538EBNYTHPk4NL8yrTatX4) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Para llegar hasta aquí](https://open.spotify.com/album/5NjQ9Or66LDDAg1UvBRXYV) | 3:53 | 2025-02-07 | 2025-02-14 |
 | [Para Ti](https://open.spotify.com/track/10mSGEXh6acWFLcHmeMnnh) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI) | [Para Ti](https://open.spotify.com/album/0dykIi2Q6VJoPvmOZDym7d) | 2:45 | 2024-12-06 | 2024-12-13 |
 | [para volver](https://open.spotify.com/track/0KtebC55NXegDtOBC6GrQB) | [Miriam Rodríguez](https://open.spotify.com/artist/3E3qsTzCvTX13A1Zrw7Wnf) | [para volver](https://open.spotify.com/album/3OryFSAOWdqMw9X24QnUmA) | 2:46 | 2025-01-23 | 2025-01-31 |
+| [Party MJ](https://open.spotify.com/track/6sm7XqRLVN6mhJ2xxoKO1B) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Party MJ](https://open.spotify.com/album/6k0iCmB82Zp5C0t5un7j7R) | 4:07 | 2025-04-11 |  |
 | [PASARÁ EL TIEMPO](https://open.spotify.com/track/5c5HrlLkAAF6CNQvpYm6bP) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [PASARÁ EL TIEMPO](https://open.spotify.com/album/2PiPoO7p7867IzyYhtApR7) | 3:46 | 2025-03-27 | 2025-04-04 |
 | [Paz](https://open.spotify.com/track/0gpz4XkTz0M70CSeKrVhYR) | [Mayel Jimenez](https://open.spotify.com/artist/5vnX0sfjkusMXzXpBEj4Ce) | [Paz](https://open.spotify.com/album/4mlHk5Xcy83KBv0FsKo4eD) | 2:38 | 2025-04-04 | 2025-04-11 |
 | [Pa´ Canarias](https://open.spotify.com/track/6QYqxQylTQuf84u8muJ66o) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [Pa´ Canarias](https://open.spotify.com/album/5452YXL2MZM3r2Dus1fOaM) | 2:29 | 2025-02-13 | 2025-02-21 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-30",
-  "description": "A melting pot of Caribbean culture. Cover: <a href=\"spotify:artist:16rCzZOMQX7P8Kmn5YKexI\">Tyla</a> and <a href=\"spotify:artist:3Isy6kedDrgPYoTS1dazA9\">Sean Paul</a> ",
+  "description": "A melting pot of Caribbean culture. Cover: <a href=\"spotify:artist:0wEvWMQRqaXcgnrZv6KtyL\">Spice</a> ",
   "name": "Fever",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 199185,
       "name": "4K",
       "url": "https://open.spotify.com/track/3mOCwviB4SECwMyUf09AVi"
@@ -710,7 +710,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 198461,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/2MBg1KNO6H3aYHOnS8phqi"
@@ -852,7 +852,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 156212,
       "name": "Do This & Beat Me",
       "url": "https://open.spotify.com/track/00R0bqonZjbU0vWCfopIKO"
@@ -983,6 +983,24 @@
     },
     {
       "album": {
+        "name": "Eleven",
+        "url": "https://open.spotify.com/album/3jaWzpLFRTs7YDmHuciErC"
+      },
+      "artists": [
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150410,
+      "name": "Eleven",
+      "url": "https://open.spotify.com/track/0vflrL6EJuhAqEt6Xuxw12"
+    },
+    {
+      "album": {
         "name": "Endless Vibes",
         "url": "https://open.spotify.com/album/43PIeAeRBVzA8iE0MM7PJj"
       },
@@ -1096,6 +1114,28 @@
       "duration_ms": 252381,
       "name": "Fry Plantain (with Joey Bada$$)",
       "url": "https://open.spotify.com/track/1pmXeu9cAF2at62I3m5VKE"
+    },
+    {
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/2ZpWc0l8um4MjOYt7eKx3D"
+      },
+      "artists": [
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        },
+        {
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156666,
+      "name": "GANGSTA",
+      "url": "https://open.spotify.com/track/5jeq1BKLWLG7RLIzAiM6j1"
     },
     {
       "album": {
@@ -2191,6 +2231,24 @@
     },
     {
       "album": {
+        "name": "Pilates",
+        "url": "https://open.spotify.com/album/6ux6oPZPf2WlDa6lZqxDMs"
+      },
+      "artists": [
+        {
+          "name": "Cashh",
+          "url": "https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145979,
+      "name": "Pilates",
+      "url": "https://open.spotify.com/track/0XnhHtjdEQwhDwQzWVJ3k6"
+    },
+    {
+      "album": {
         "name": "Pressure (Remix)",
         "url": "https://open.spotify.com/album/7xgScJJaVrUCy477wMTfKt"
       },
@@ -2364,6 +2422,24 @@
       "duration_ms": 241734,
       "name": "Rebel Time",
       "url": "https://open.spotify.com/track/7tnoa5R79Bl3qa39yQSW5Q"
+    },
+    {
+      "album": {
+        "name": "Respect",
+        "url": "https://open.spotify.com/album/5erggwQNInGUZzDGTvEChS"
+      },
+      "artists": [
+        {
+          "name": "Lyriii",
+          "url": "https://open.spotify.com/artist/37IRiNNa8g4c1hLZYu4fl3"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157013,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/55XTQspc2PxmODGtcpvg5U"
     },
     {
       "album": {
@@ -3386,7 +3462,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 228880,
       "name": "Why Must We Suffer",
       "url": "https://open.spotify.com/track/7dz5iIIIoGbJNetj0a9dDj"

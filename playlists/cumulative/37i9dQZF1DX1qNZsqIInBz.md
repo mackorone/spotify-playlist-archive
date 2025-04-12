@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-218 songs - 9 hr 35 min
+219 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [RATHER BE ALONE](https://open.spotify.com/track/2R7s9KxoZqYb4AzXh7M0bn) | [STRLGHT](https://open.spotify.com/artist/4Tpbh6x3um360ffs5DUpgx) | [RATHER BE ALONE / GODSPEED](https://open.spotify.com/album/1UxzvQ0y8C28eeImfcaDzF) | 2:58 | 2023-10-13 |  |
 | [RENEGADE](https://open.spotify.com/track/6Yap10AMYjIDgRXLUcH1pt) | [Send 1](https://open.spotify.com/artist/1f4j1E8XNo0m6EsMbGDjRV) | [RENEGADE](https://open.spotify.com/album/5N93SkOr64iOa2bwsf5oyr) | 3:28 | 2022-10-10 | 2022-12-17 |
 | [Ridge Crest](https://open.spotify.com/track/4wQG1yyeTSoDCppLzBXJ9m) | [dxprxsslve](https://open.spotify.com/artist/61QWo0cPeQFZt2U1gEjyl9) | [Ridge Crest](https://open.spotify.com/album/4Rp8x8ZeJjVX0aQAnCGYNy) | 2:52 | 2022-12-23 | 2024-04-20 |
-| [Rinse Repeat](https://open.spotify.com/track/5A3TRHr2EAYgsJOOmlYaxe) | [Elisabeth Brownlow](https://open.spotify.com/artist/4AhXblXPAw9O9c0a56tvD7) | [Rinse Repeat](https://open.spotify.com/album/46rjHo1V4l5DseiDqWj2UN) | 2:19 | 2023-09-22 |  |
+| [Rinse Repeat](https://open.spotify.com/track/5A3TRHr2EAYgsJOOmlYaxe) | [Elisabeth Brownlow](https://open.spotify.com/artist/4AhXblXPAw9O9c0a56tvD7) | [Rinse Repeat](https://open.spotify.com/album/46rjHo1V4l5DseiDqWj2UN) | 2:19 | 2023-09-22 | 2025-04-12 |
 | [RITMO CÓSMICO](https://open.spotify.com/track/7pZNXdNDsTy5F2msNILaMl) | [LILAAX](https://open.spotify.com/artist/3mKJdXTKRUXdNj8f8GrsLz), [NTPV](https://open.spotify.com/artist/4ln235vY1WKuyeLoGJSdwZ) | [RITMO CÓSMICO](https://open.spotify.com/album/6JLYdAbw7vXTnHNZ8MIWYG) | 2:21 | 2024-11-08 |  |
 | [SADNESS](https://open.spotify.com/track/48XqhTBkKOpI8iBBoF4sdK) | [ROMANTICA](https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6) | [SADNESS](https://open.spotify.com/album/5ysSvnyvTyQotyrc0qKiw3) | 1:49 | 2024-03-29 |  |
 | [seaside](https://open.spotify.com/track/3Cj5VVbQnLRknyj2NriPJu) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Tokyomane](https://open.spotify.com/artist/2GaIPa6dUUQBlVNYeEF6PH) | [seaside](https://open.spotify.com/album/385VMmkSq2CVCIOTCtTdts) | 2:39 | 2022-10-10 |  |
@@ -217,6 +217,7 @@
 | [UNDERWORLD](https://open.spotify.com/track/6vJVpxuHoWs3dmjYXyjfyW) | [CYREX](https://open.spotify.com/artist/1NspLfgAsucc39MeTipXNy) | [UNDERWORLD](https://open.spotify.com/album/5ZZ4QO3bzFBOG2Gdy4eidW) | 2:10 | 2022-10-10 | 2022-12-31 |
 | [UNREQUITED LOVE](https://open.spotify.com/track/6ggG03IXJujvzWX7SShGtG) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [UNREQUITED LOVE](https://open.spotify.com/album/5C8w6NNouScjByKvjMkjic) | 2:30 | 2022-10-10 |  |
 | [UTOPIA](https://open.spotify.com/track/6Lbn2QM3tyxPj4fQsCU0mk) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [UTOPIA](https://open.spotify.com/album/5aF2aTHcRscFUK1OaCLtGF) | 2:17 | 2022-12-16 |  |
+| [VISION](https://open.spotify.com/track/4gkFITdBI8imDCSrukDT6p) | [UdieNnx](https://open.spotify.com/artist/6ESoeEazu57neU7UM6KRuC), [HXVSAGE](https://open.spotify.com/artist/6iokCqd4ghi6IqTEJKT12q) | [UDISTRUCT](https://open.spotify.com/album/50i96D7O8CCFwS0VAiuC5o) | 1:49 | 2025-04-11 |  |
 | [Void](https://open.spotify.com/track/0paLF3qF70vKoShWTZWGjD) | [SOULIFY](https://open.spotify.com/artist/4jnJA6v62HXFktScoZQHIw), [crier](https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl) | [Void](https://open.spotify.com/album/3hHpOVYIbZnh9TgF7CwuDb) | 2:38 | 2024-01-26 | 2024-04-19 |
 | [Void](https://open.spotify.com/track/1tZMS81fc3APyMkU14cTWk) | [SOULIFY](https://open.spotify.com/artist/4jnJA6v62HXFktScoZQHIw), [crier](https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl) | [Void](https://open.spotify.com/album/3afCmbwcfdCYouUXV04xTO) | 2:38 | 2022-10-10 |  |
 | [VOODOO](https://open.spotify.com/track/18D25d3voTo9ZaUh5Ij46I) | [Send 1](https://open.spotify.com/artist/1f4j1E8XNo0m6EsMbGDjRV) | [VOODOO](https://open.spotify.com/album/3T3mxTfHJm504OXFmgO5Jw) | 2:13 | 2022-10-10 | 2022-11-19 |

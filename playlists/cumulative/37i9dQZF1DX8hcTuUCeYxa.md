@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Cassia
 
-1,271 songs - 3 day 0 hr 48 min
+1,273 songs - 3 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -955,6 +955,7 @@
 | [SEEME](https://open.spotify.com/track/5x8YMnlvjAzJpSS23WeA6I) | [Nik Dandelion](https://open.spotify.com/artist/5SrhFOt282uZjwSYWo71ds) | [SEEME](https://open.spotify.com/album/49qL2D1kQ7uC4mtSHkefFw) | 1:58 | 2024-10-31 | 2024-11-08 |
 | [Seismograph](https://open.spotify.com/track/46w9eiRHMrYFf3i5H3ZZG4) | [Luis Ake](https://open.spotify.com/artist/0pC0b44XIewBYzsCzVuytW), [TRÄNEN](https://open.spotify.com/artist/4NKHTY0ghFbhkFwl29BxMD) | [Seismograph](https://open.spotify.com/album/5eoImSaFdErHgX8cLhX2Pm) | 2:32 | 2025-03-06 | 2025-04-04 |
 | [Self Control](https://open.spotify.com/track/5n92U3nrOr2azEodP7r3Vc) | [Ava Vegas](https://open.spotify.com/artist/5ql0vsOE9XzHXwi8xP4yes) | [Self Control](https://open.spotify.com/album/7K59WR4rUh8VwIyu4SoiWl) | 3:37 | 2024-07-25 | 2024-08-23 |
+| [Sensible](https://open.spotify.com/track/4keeCzVyVRwOIUH1ZTQYeM) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Sensible](https://open.spotify.com/album/6TkUtCTrVEP61uXTKaoX4x) | 3:19 | 2025-04-11 |  |
 | [Sentiment](https://open.spotify.com/track/7u3qPOqC6WiXQjLrxMLVU7) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Sentiment](https://open.spotify.com/album/4vX2eB6YQhXyukhnVMCTnu) | 3:31 | 2024-09-12 | 2024-09-27 |
 | [September \(From Life is Strange\)](https://open.spotify.com/track/5FsVTBjnb6cvA8FnoCVjk5) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [September \(From Life is Strange\)](https://open.spotify.com/album/35z4BHOeP6BEBayGwXWMun) | 3:35 | 2024-09-05 | 2024-09-20 |
 | [Serpentine Lovers](https://open.spotify.com/track/1BXwHmoiwBWGc71MBbBqGh) | [JEWLS](https://open.spotify.com/artist/1Yi3eQibPPyKmO0xXWPcfw) | [Serpentine Lovers](https://open.spotify.com/album/7eheOg7sXTJIk3AejmA3Ww) | 3:53 | 2024-09-26 | 2024-10-04 |
@@ -1116,6 +1117,7 @@
 | [The Other Side](https://open.spotify.com/track/0mGZexBjaqnHOjUwHTPJ6e) | [Polar Noir](https://open.spotify.com/artist/1tnj2WqyUP68kpkGorWVxO) | [Coming Up For Breath](https://open.spotify.com/album/0sAzjST7s6d0ANwzA0soBL) | 4:05 | 2025-01-23 | 2025-02-14 |
 | [The Person You’d Like To Be](https://open.spotify.com/track/7645Cs9rO3J1OD2O3CQ10P) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [The Person You’d Like To Be](https://open.spotify.com/album/6bQfgbOwJIs6taCSyyA2XQ) | 3:17 | 2025-03-13 | 2025-04-04 |
 | [The Phase](https://open.spotify.com/track/2BEPFcyYoUnWAxdyo1wMxK) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [The Phase](https://open.spotify.com/album/0yHsYcgFik9lEoTXswLBJy) | 2:50 | 2024-11-21 | 2024-12-06 |
+| [the place i use to hide](https://open.spotify.com/track/3NZQHSL3COv2iak4y5c0my) | [Yum Yuck](https://open.spotify.com/artist/5lAZTyHLWuqddQudiftzIE), [Melting Resonance](https://open.spotify.com/artist/2rMriHWxxmwJG7C3xd9Sod) | [the place i use to hide](https://open.spotify.com/album/69QHpSkaCgV9hSp3FSmy9Z) | 3:20 | 2025-04-11 |  |
 | [The Question](https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [The Question](https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ) | 3:16 | 2025-02-20 | 2025-03-14 |
 | [The Real Deal](https://open.spotify.com/track/34I22dxFMvZqFBMh83EHl6) | [Leyya](https://open.spotify.com/artist/0uG3hwOGxuGEOAyocfCwfl) | [The Real Deal](https://open.spotify.com/album/0IMeWZonnmdxiBV5abBOsl) | 2:32 | 2024-12-05 | 2024-12-13 |
 | [The Score](https://open.spotify.com/track/09PUCdX5AD1mz2L2dHF97O) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [The Score](https://open.spotify.com/album/5XpuqF76xAXxatocivuAh3) | 3:14 | 2024-08-15 | 2024-09-13 |

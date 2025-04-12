@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > We’re a playlist of emotions no one can skip\. Cover: Gracie Abrams
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,388 likes - 22 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,376 likes - 22 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

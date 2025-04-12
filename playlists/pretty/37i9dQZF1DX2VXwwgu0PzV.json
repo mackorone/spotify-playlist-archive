@@ -1,13 +1,29 @@
 {
   "description": "Music for when you've got your Jesus on and your swag up . \nCover:  <a href=https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5?si=rnAJvY1hQ1-15g9Gg4MAyA>K3ndrick</a>",
-  "num_followers": 52063,
+  "num_followers": 52270,
   "original_name": "Youth Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/hb2QAAAACGumBSEysUYR4+m3cqkiWV",
+  "snapshot_id": "Z/krQAAAAAAgRcLUi1GUU02/rf/qGLdV",
   "tracks": [
+    {
+      "added_at": "2025-04-11 14:46:24",
+      "album": {
+        "name": "METANOIA",
+        "url": "https://open.spotify.com/album/6DZgMfVrDgyAKdvTHsMEUH"
+      },
+      "artists": [
+        {
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
+        }
+      ],
+      "duration_ms": 152322,
+      "name": "No Holiday",
+      "url": "https://open.spotify.com/track/1jKUNqbrslxUJ1aNIyPFxA"
+    },
     {
       "added_at": "2025-04-04 00:01:19",
       "album": {
@@ -1979,26 +1995,6 @@
       "duration_ms": 145600,
       "name": "Follow The Ladder - Pt. 2",
       "url": "https://open.spotify.com/track/0xJfsPlznkjbrhlCSZzSgZ"
-    },
-    {
-      "added_at": "2024-11-08 00:01:00",
-      "album": {
-        "name": "Colors of Grace",
-        "url": "https://open.spotify.com/album/6Zo1lc8tSnw61EOjjPWcN0"
-      },
-      "artists": [
-        {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        },
-        {
-          "name": "Chizie",
-          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
-        }
-      ],
-      "duration_ms": 145573,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/7j34VbruHObgUOHIaxpMMw"
     }
   ],
   "unique_name": "Youth Service",

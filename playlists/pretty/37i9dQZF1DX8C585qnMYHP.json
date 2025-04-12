@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Whatever The Weather on cover. Artwork by Thami Nabil",
-  "num_followers": 186244,
+  "num_followers": 186269,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,26 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
+        "name": "At the Door",
+        "url": "https://open.spotify.com/album/1Ll3nI3EXTc2cwjNAP2N3M"
+      },
+      "artists": [
+        {
+          "name": "ILYICH",
+          "url": "https://open.spotify.com/artist/0I5FrDFBPRiUk9Vii5ggR5"
+        },
+        {
+          "name": "Takuya Nakamura",
+          "url": "https://open.spotify.com/artist/2dsG3u5vUZSGpQGEsq1unH"
+        }
+      ],
+      "duration_ms": 122762,
+      "name": "At the Door",
+      "url": "https://open.spotify.com/track/3FlBgKx8UM6daKtZAs7OfG"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
         "name": "Mind Palace Music",
         "url": "https://open.spotify.com/album/7h3MMJMKzY03w8VVYgrYWr"
       },
@@ -319,42 +339,6 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "At the Door",
-        "url": "https://open.spotify.com/album/1Ll3nI3EXTc2cwjNAP2N3M"
-      },
-      "artists": [
-        {
-          "name": "ILYICH",
-          "url": "https://open.spotify.com/artist/0I5FrDFBPRiUk9Vii5ggR5"
-        },
-        {
-          "name": "Takuya Nakamura",
-          "url": "https://open.spotify.com/artist/2dsG3u5vUZSGpQGEsq1unH"
-        }
-      ],
-      "duration_ms": 122762,
-      "name": "At the Door",
-      "url": "https://open.spotify.com/track/3FlBgKx8UM6daKtZAs7OfG"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
-        "name": "All good?",
-        "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
-      },
-      "artists": [
-        {
-          "name": "Nonkeen",
-          "url": "https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b"
-        }
-      ],
-      "duration_ms": 483180,
-      "name": "be a",
-      "url": "https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
         "name": "Aprender a Ser: Extended",
         "url": "https://open.spotify.com/album/0mYAqeT6oxqrGv1mnt56zN"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 231560,
       "name": "El mar me ve\u00eda",
       "url": "https://open.spotify.com/track/5gGW1PbyeWHt8bqwnXN7bk"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
+        "name": "All good?",
+        "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
+      },
+      "artists": [
+        {
+          "name": "Nonkeen",
+          "url": "https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b"
+        }
+      ],
+      "duration_ms": 483180,
+      "name": "be a",
+      "url": "https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "Brinna ut",
-        "url": "https://open.spotify.com/album/6Yu14rYwU0x4x2AhTmWLsv"
-      },
-      "artists": [
-        {
-          "name": "JJULIUS",
-          "url": "https://open.spotify.com/artist/6tvDi9cbr2tjAjBtLsgu8I"
-        }
-      ],
-      "duration_ms": 201853,
-      "name": "Brinna ut",
-      "url": "https://open.spotify.com/track/5CjmMIJJ0tvGaCmzRqdZKd"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
         "name": "Intrinsic Rhythm",
         "url": "https://open.spotify.com/album/3ucKEWX6guOdBhRTZQ9GJV"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 123437,
       "name": "Nia",
       "url": "https://open.spotify.com/track/0ZbUsVTjgbeq4Uhj9k7N9J"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
+        "name": "Brinna ut",
+        "url": "https://open.spotify.com/album/6Yu14rYwU0x4x2AhTmWLsv"
+      },
+      "artists": [
+        {
+          "name": "JJULIUS",
+          "url": "https://open.spotify.com/artist/6tvDi9cbr2tjAjBtLsgu8I"
+        }
+      ],
+      "duration_ms": 201853,
+      "name": "Brinna ut",
+      "url": "https://open.spotify.com/track/5CjmMIJJ0tvGaCmzRqdZKd"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -495,26 +495,6 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "Everything Is Going To Make Sense In The End (Daniel Brandt Remix)",
-        "url": "https://open.spotify.com/album/45yM3JJAseGk0Kive5LBSW"
-      },
-      "artists": [
-        {
-          "name": "Hiro Ama",
-          "url": "https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ"
-        },
-        {
-          "name": "Daniel Brandt",
-          "url": "https://open.spotify.com/artist/4OJgcDY2LiSjD0rKNygzH7"
-        }
-      ],
-      "duration_ms": 342463,
-      "name": "Everything Is Going To Make Sense In The End (Daniel Brandt Remix)",
-      "url": "https://open.spotify.com/track/7BqXXObACQqxqSMKBTkLZ0"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
         "name": "setar rock",
         "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
       },
@@ -527,22 +507,6 @@
       "duration_ms": 240250,
       "name": "setar rock",
       "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
-      },
-      "artists": [
-        {
-          "name": "Marta Del Grandi",
-          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
-        }
-      ],
-      "duration_ms": 192283,
-      "name": "Snapdragon",
-      "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -563,6 +527,22 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
+      },
+      "artists": [
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        }
+      ],
+      "duration_ms": 192283,
+      "name": "Snapdragon",
+      "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
         "name": "+puzzle",
         "url": "https://open.spotify.com/album/7FK9vKwozsNBvoioINxFa7"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 254561,
       "name": "+puzzle",
       "url": "https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
+        "name": "Everything Is Going To Make Sense In The End (Daniel Brandt Remix)",
+        "url": "https://open.spotify.com/album/45yM3JJAseGk0Kive5LBSW"
+      },
+      "artists": [
+        {
+          "name": "Hiro Ama",
+          "url": "https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ"
+        },
+        {
+          "name": "Daniel Brandt",
+          "url": "https://open.spotify.com/artist/4OJgcDY2LiSjD0rKNygzH7"
+        }
+      ],
+      "duration_ms": 342463,
+      "name": "Everything Is Going To Make Sense In The End (Daniel Brandt Remix)",
+      "url": "https://open.spotify.com/track/7BqXXObACQqxqSMKBTkLZ0"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "BORNE WORLD",
-        "url": "https://open.spotify.com/album/09Yl6hmwlsxIPHWdVpwZPV"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 178616,
-      "name": "THIEVES",
-      "url": "https://open.spotify.com/track/28aeRDNsM9Xf33DGQzk10Q"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
         "name": "Harmony of Irrelevant Facts",
         "url": "https://open.spotify.com/album/5BZfP1YHygVdLCVCnhvASe"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 312000,
       "name": "Harmony of Irrelevant Facts",
       "url": "https://open.spotify.com/track/1BFCZFKIMBBrSrqMyonK7s"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
+        "name": "BORNE WORLD",
+        "url": "https://open.spotify.com/album/09Yl6hmwlsxIPHWdVpwZPV"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 178616,
+      "name": "THIEVES",
+      "url": "https://open.spotify.com/track/28aeRDNsM9Xf33DGQzk10Q"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "Zionic Mud",
-        "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
-      },
-      "artists": [
-        {
-          "name": "JJUUJJUU",
-          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
-        }
-      ],
-      "duration_ms": 321782,
-      "name": "Zionic Mud",
-      "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
         "name": "Nomad",
         "url": "https://open.spotify.com/album/6QYMchWFthbYhRQNNaypBs"
       },
@@ -779,18 +763,18 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "Everything Squared",
-        "url": "https://open.spotify.com/album/7MnJHL3tK9Jbvf6Sgnvqmr"
+        "name": "Zionic Mud",
+        "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
       },
       "artists": [
         {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
         }
       ],
-      "duration_ms": 331916,
-      "name": "Multifolds",
-      "url": "https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB"
+      "duration_ms": 321782,
+      "name": "Zionic Mud",
+      "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -807,6 +791,22 @@
       "duration_ms": 257226,
       "name": "Distance Learner",
       "url": "https://open.spotify.com/track/1itxInHZlUWYDrKk0HzFRC"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
+        "name": "Everything Squared",
+        "url": "https://open.spotify.com/album/7MnJHL3tK9Jbvf6Sgnvqmr"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "duration_ms": 331916,
+      "name": "Multifolds",
+      "url": "https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -863,6 +863,22 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
+        "name": "Worm",
+        "url": "https://open.spotify.com/album/25tTdt9H8aE6B3xw9tKkr0"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "Hornworm Metamorphosis",
+      "url": "https://open.spotify.com/track/2OWIW0RtHMknFI2OTeZqHb"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
         "name": "Frutaria Electr\u200b\u00f3\u200bnica",
         "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
       },
@@ -895,18 +911,18 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "Worm",
-        "url": "https://open.spotify.com/album/25tTdt9H8aE6B3xw9tKkr0"
+        "name": "Boeckner!",
+        "url": "https://open.spotify.com/album/1we8POeAomGmp8hTzGFdaW"
       },
       "artists": [
         {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+          "name": "Boeckner",
+          "url": "https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE"
         }
       ],
-      "duration_ms": 104000,
-      "name": "Hornworm Metamorphosis",
-      "url": "https://open.spotify.com/track/2OWIW0RtHMknFI2OTeZqHb"
+      "duration_ms": 291037,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/5fSUc2h13lsyCcGLhzfTED"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -927,18 +943,18 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "Boeckner!",
-        "url": "https://open.spotify.com/album/1we8POeAomGmp8hTzGFdaW"
+        "name": "Ki moun ou ye",
+        "url": "https://open.spotify.com/album/4rHlOBMPXZdaoUVYyzb3W7"
       },
       "artists": [
         {
-          "name": "Boeckner",
-          "url": "https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE"
+          "name": "Nathalie Joachim",
+          "url": "https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i"
         }
       ],
-      "duration_ms": 291037,
-      "name": "Lose",
-      "url": "https://open.spotify.com/track/5fSUc2h13lsyCcGLhzfTED"
+      "duration_ms": 320409,
+      "name": "Ki moun ou ye",
+      "url": "https://open.spotify.com/track/3Jc6bQSnKDUY1NaBdDsU9u"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -975,22 +991,6 @@
       "duration_ms": 363353,
       "name": "AMB001",
       "url": "https://open.spotify.com/track/0lWQ6lUV7rjzFbKDdZLYnr"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
-        "name": "Ki moun ou ye",
-        "url": "https://open.spotify.com/album/4rHlOBMPXZdaoUVYyzb3W7"
-      },
-      "artists": [
-        {
-          "name": "Nathalie Joachim",
-          "url": "https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i"
-        }
-      ],
-      "duration_ms": 320409,
-      "name": "Ki moun ou ye",
-      "url": "https://open.spotify.com/track/3Jc6bQSnKDUY1NaBdDsU9u"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "Parallels II",
-        "url": "https://open.spotify.com/album/2CgGBhkNOTqQ3mliQzC0Tf"
-      },
-      "artists": [
-        {
-          "name": "Minor Conflict",
-          "url": "https://open.spotify.com/artist/2DJpF2PxGMPYry3ffKmTys"
-        }
-      ],
-      "duration_ms": 394523,
-      "name": "Parallels II",
-      "url": "https://open.spotify.com/track/31k85bFbmHYTe2rWGm7K92"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
         "name": "A time to love, a time to die",
         "url": "https://open.spotify.com/album/4yoWc0oOrrMPEln5ADQUAW"
       },
@@ -1331,6 +1315,22 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
+        "name": "Parallels II",
+        "url": "https://open.spotify.com/album/2CgGBhkNOTqQ3mliQzC0Tf"
+      },
+      "artists": [
+        {
+          "name": "Minor Conflict",
+          "url": "https://open.spotify.com/artist/2DJpF2PxGMPYry3ffKmTys"
+        }
+      ],
+      "duration_ms": 394523,
+      "name": "Parallels II",
+      "url": "https://open.spotify.com/track/31k85bFbmHYTe2rWGm7K92"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
         "name": "Figura",
         "url": "https://open.spotify.com/album/0MnDnjwq6oHY5eFnzz3OBa"
       },
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "forevermore",
-        "url": "https://open.spotify.com/album/7b0Ccep1OjWK9QkD63VbwN"
+        "name": "FLOATING / 005 MAGIK",
+        "url": "https://open.spotify.com/album/4VT7Ztb0e9DKMUBNtInDWa"
       },
       "artists": [
         {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+          "name": "ONYX GARDEN",
+          "url": "https://open.spotify.com/artist/579Ah65QiTZxDgiaGKpJtx"
         }
       ],
-      "duration_ms": 159428,
-      "name": "roots",
-      "url": "https://open.spotify.com/track/7nBuIuYmnn3evRwSbFWaLS"
+      "duration_ms": 216106,
+      "name": "005 MAGIK",
+      "url": "https://open.spotify.com/track/68MfDqx1tfjDv1CcZ4wDHm"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "FLOATING / 005 MAGIK",
-        "url": "https://open.spotify.com/album/4VT7Ztb0e9DKMUBNtInDWa"
+        "name": "forevermore",
+        "url": "https://open.spotify.com/album/7b0Ccep1OjWK9QkD63VbwN"
       },
       "artists": [
         {
-          "name": "ONYX GARDEN",
-          "url": "https://open.spotify.com/artist/579Ah65QiTZxDgiaGKpJtx"
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
         }
       ],
-      "duration_ms": 216106,
-      "name": "005 MAGIK",
-      "url": "https://open.spotify.com/track/68MfDqx1tfjDv1CcZ4wDHm"
+      "duration_ms": 159428,
+      "name": "roots",
+      "url": "https://open.spotify.com/track/7nBuIuYmnn3evRwSbFWaLS"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "Abyss Glow",
-        "url": "https://open.spotify.com/album/2fODU8uraYB5IUL5ZD5FDC"
+        "name": "Air in the Dark",
+        "url": "https://open.spotify.com/album/7mm77HNHmOZ0WGqIfWnctD"
       },
       "artists": [
         {
-          "name": "Guenter R\u00e5ler",
-          "url": "https://open.spotify.com/artist/6udMDUWc1J0Kr8bZ45nk4W"
+          "name": "Kilig",
+          "url": "https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX"
         }
       ],
-      "duration_ms": 429000,
-      "name": "Abyss Glow",
-      "url": "https://open.spotify.com/track/0W6s0iYw82X92CofYQShX5"
+      "duration_ms": 223500,
+      "name": "Air in the Dark",
+      "url": "https://open.spotify.com/track/6C2RgC32elJb8ktvWvUEIZ"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -1543,18 +1543,34 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "Air in the Dark",
-        "url": "https://open.spotify.com/album/7mm77HNHmOZ0WGqIfWnctD"
+        "name": "Abyss Glow",
+        "url": "https://open.spotify.com/album/2fODU8uraYB5IUL5ZD5FDC"
       },
       "artists": [
         {
-          "name": "Kilig",
-          "url": "https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX"
+          "name": "Guenter R\u00e5ler",
+          "url": "https://open.spotify.com/artist/6udMDUWc1J0Kr8bZ45nk4W"
         }
       ],
-      "duration_ms": 223500,
-      "name": "Air in the Dark",
-      "url": "https://open.spotify.com/track/6C2RgC32elJb8ktvWvUEIZ"
+      "duration_ms": 429000,
+      "name": "Abyss Glow",
+      "url": "https://open.spotify.com/track/0W6s0iYw82X92CofYQShX5"
+    },
+    {
+      "added_at": "2025-03-28 08:51:09",
+      "album": {
+        "name": "Campanelli",
+        "url": "https://open.spotify.com/album/3RmPqy5455voCtj5rI3UJd"
+      },
+      "artists": [
+        {
+          "name": "Valentina Goncharova",
+          "url": "https://open.spotify.com/artist/5rzFg9cZH3EAHs1x0yOTGu"
+        }
+      ],
+      "duration_ms": 424180,
+      "name": "I Am Here and Now",
+      "url": "https://open.spotify.com/track/7ubSeCP13u6DnlswYIQ6yh"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -1595,18 +1611,18 @@
     {
       "added_at": "2025-03-28 08:51:09",
       "album": {
-        "name": "Campanelli",
-        "url": "https://open.spotify.com/album/3RmPqy5455voCtj5rI3UJd"
+        "name": "y volvieron a transformarse, enfrente de nosotros,",
+        "url": "https://open.spotify.com/album/2GuZgZ4s9CSsXx6fUxLN7P"
       },
       "artists": [
         {
-          "name": "Valentina Goncharova",
-          "url": "https://open.spotify.com/artist/5rzFg9cZH3EAHs1x0yOTGu"
+          "name": "Galgo",
+          "url": "https://open.spotify.com/artist/2sP4mSzvPK5etmf9M6uO5U"
         }
       ],
-      "duration_ms": 424180,
-      "name": "I Am Here and Now",
-      "url": "https://open.spotify.com/track/7ubSeCP13u6DnlswYIQ6yh"
+      "duration_ms": 245762,
+      "name": "y volvieron a transformarse, enfrente de nosotros,",
+      "url": "https://open.spotify.com/track/08SgLXVGR8a8pE5dQXpMRE"
     },
     {
       "added_at": "2025-03-28 08:51:09",
@@ -1623,22 +1639,6 @@
       "duration_ms": 319389,
       "name": "Sailor (for fin)",
       "url": "https://open.spotify.com/track/4SpCTPA8q945CyUwi3fJVt"
-    },
-    {
-      "added_at": "2025-03-28 08:51:09",
-      "album": {
-        "name": "y volvieron a transformarse, enfrente de nosotros,",
-        "url": "https://open.spotify.com/album/2GuZgZ4s9CSsXx6fUxLN7P"
-      },
-      "artists": [
-        {
-          "name": "Galgo",
-          "url": "https://open.spotify.com/artist/2sP4mSzvPK5etmf9M6uO5U"
-        }
-      ],
-      "duration_ms": 245762,
-      "name": "y volvieron a transformarse, enfrente de nosotros,",
-      "url": "https://open.spotify.com/track/08SgLXVGR8a8pE5dQXpMRE"
     },
     {
       "added_at": "2025-03-28 08:51:09",

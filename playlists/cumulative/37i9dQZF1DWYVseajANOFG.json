@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Boza, Greeicy",
+  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Sech, Omar Courtz",
   "name": "Flow Panam\u00e1",
   "tracks": [
     {
@@ -672,6 +672,28 @@
       "duration_ms": 202173,
       "name": "Baby",
       "url": "https://open.spotify.com/track/66jCeJbCo4Z6EwAPXO6fa6"
+    },
+    {
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/5QI1TWbg2dsDDS8RB0P24B"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201290,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/061HqlGR7nPHyCUM4raLXy"
     },
     {
       "album": {
@@ -5301,6 +5323,24 @@
     },
     {
       "album": {
+        "name": "Me Emputa",
+        "url": "https://open.spotify.com/album/5jhd7xQw1m6FMrM2NTYwNv"
+      },
+      "artists": [
+        {
+          "name": "Rik",
+          "url": "https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Me Emputa",
+      "url": "https://open.spotify.com/track/221UmIknb84l0i9SdFAejc"
+    },
+    {
+      "album": {
         "name": "Me mato",
         "url": "https://open.spotify.com/album/2u0TWHLF7f0y03h3n9Wtie"
       },
@@ -7696,6 +7736,32 @@
       "duration_ms": 171764,
       "name": "Prohibido",
       "url": "https://open.spotify.com/track/76dap7zLqLGWaQ9CZK6GBa"
+    },
+    {
+      "album": {
+        "name": "Pronto Llegara",
+        "url": "https://open.spotify.com/album/0RRkHj4yIuu0T8Ar6lE0KU"
+      },
+      "artists": [
+        {
+          "name": "Yemil",
+          "url": "https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4"
+        },
+        {
+          "name": "VLA Music Entertainment",
+          "url": "https://open.spotify.com/artist/2EghqGAqc6ZSjkgqzUOeKC"
+        },
+        {
+          "name": "Andiex",
+          "url": "https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "Pronto Llegara",
+      "url": "https://open.spotify.com/track/4pFX29O8CFTLCbqIAAS8nY"
     },
     {
       "album": {
@@ -10237,6 +10303,32 @@
     },
     {
       "album": {
+        "name": "Watermelon (Something)",
+        "url": "https://open.spotify.com/album/2g2VVmJTNazJXNpCNYI9sh"
+      },
+      "artists": [
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        },
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Dj Fasta",
+          "url": "https://open.spotify.com/artist/3J1MVADg8VwYQ6FFsqnTUV"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154430,
+      "name": "Watermelon (Something)",
+      "url": "https://open.spotify.com/track/1GOJlfelKEJWRPLoXFqoSD"
+    },
+    {
+      "album": {
         "name": "Welcome To Reality (2024 Remastered Version)",
         "url": "https://open.spotify.com/album/5XvB1Xf2QtvTy8fKOsRoUs"
       },
@@ -10468,6 +10560,32 @@
       "duration_ms": 160021,
       "name": "yayA",
       "url": "https://open.spotify.com/track/3F5xUtUiSC6W1CDIwC3jnc"
+    },
+    {
+      "album": {
+        "name": "Yeyesita",
+        "url": "https://open.spotify.com/album/1Q725wiuitxapJwLx6GNbJ"
+      },
+      "artists": [
+        {
+          "name": "Sarita",
+          "url": "https://open.spotify.com/artist/1QxkThT4UZIVSv5KS7KS8I"
+        },
+        {
+          "name": "Maeo",
+          "url": "https://open.spotify.com/artist/3twM6hBRnxGCEeNwg5YNtr"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161860,
+      "name": "Yeyesita",
+      "url": "https://open.spotify.com/track/1zpeVOZpkZ7K3ubaG6PZE4"
     },
     {
       "album": {

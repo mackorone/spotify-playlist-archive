@@ -4,7 +4,7 @@
 
 > Way 2 Slizzy\. Click into the feed to learn all about the movement\. Cover: Playboi Carti
 
-112 songs - 5 hr 13 min
+114 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [More Of Yah Love \(Mhmm\)](https://open.spotify.com/track/2NHNALfjfVxHjw1Ke1v7ql) | [Btb Dezz](https://open.spotify.com/artist/7dsfjJOEJ0naEgecbf0lol) | [More Of Yah Love \(Mhmm\)](https://open.spotify.com/album/1KSlCzOu82iaI92bXuKKHD) | 2:07 | 2024-11-22 |  |
 | [ms.beautiful V](https://open.spotify.com/track/2u0I3ZqpAoj59pfYAfFyTs) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [porno story](https://open.spotify.com/album/1u2eDAbSLeXrIiBYiHWCd3) | 2:12 | 2024-10-25 |  |
 | [My Everything \(Part III\) \(feat\. G Herbo\)](https://open.spotify.com/track/4aGZWvZ5L2MLWC2GjZBps8) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [My Everything \(Part III\) \(feat\. G Herbo\)](https://open.spotify.com/album/5pj2T91lHwn5A3qExRV4l9) | 2:30 | 2024-10-25 |  |
+| [Need It](https://open.spotify.com/track/4wUyiNCqFnXubzvisEH5OT) | [HotBlock Jmoe](https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1), [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g) | [DREAMS NEVER DIE](https://open.spotify.com/album/3aDklSkHajFA1fAIC4lOiv) | 2:59 | 2025-04-11 |  |
 | [Never Again \(feat\. Lil Tecca\)](https://open.spotify.com/track/03KfD8nEK78qYGRt17jg7x) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Don't Sleep While It's Lit \- Part 2](https://open.spotify.com/album/74GSr6z0zXI0LAsgsHyeWs) | 3:09 | 2024-11-22 |  |
 | [One By One](https://open.spotify.com/track/3desWYUkTBp3imvV6VkdXx) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [One By One](https://open.spotify.com/album/4MCfG6iC1dGk3ZghC5op0K) | 2:59 | 2024-11-01 |  |
 | [Options \(feat\. Lil Baby\)](https://open.spotify.com/track/4oQ49ddwS8JEatZvzObZIy) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Options \(feat\. Lil Baby\)](https://open.spotify.com/album/4KKJBvUhEHZpW6vJPp3aKR) | 2:32 | 2024-11-06 |  |
@@ -87,6 +88,7 @@
 | [Private Room](https://open.spotify.com/track/35qWJOaWkfaGLuY9Ngn6VV) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH) | [Coming Out Party](https://open.spotify.com/album/5vdKOSZqhHsEf9HEMqWidz) | 2:33 | 2024-10-25 | 2024-11-14 |
 | [problem](https://open.spotify.com/track/62DOQC3exqebSVLWyN2mWa) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [PLAY CASH COBAIN](https://open.spotify.com/album/1nMDe5h9FEfmCSm6nwA66s) | 7:39 | 2024-10-25 |  |
 | [PROGRESSION](https://open.spotify.com/track/5gPOvRTZlGvva5RkZIGIuO) | [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [PROGRESSION](https://open.spotify.com/album/1yIUDCF985oPjob0CBcSeZ) | 2:34 | 2025-01-17 |  |
+| [Regular Type \(feat\. Chow Lee\)](https://open.spotify.com/track/1pqswmjvnS3xr7JdA4gD2x) | [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [Regular Type \(feat\. Chow Lee\)](https://open.spotify.com/album/7jIpISYSxVcKBPdLt0vmBr) | 2:46 | 2025-04-11 |  |
 | [RENZ&B](https://open.spotify.com/track/2bcQBG9OI7etCWLNPJdHzB) | [Renz](https://open.spotify.com/artist/41CSndbOU6r05kajQCO9b1) | [RENZ&B](https://open.spotify.com/album/7Hg6cdprOXcTZff5gVpJ5H) | 2:00 | 2024-10-25 |  |
 | [Rump Punch](https://open.spotify.com/track/2jqISPQZfkZbcbQiVbUUAO) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Rump Punch](https://open.spotify.com/album/7oDtnVBRHE48kEcQp1AvVe) | 2:03 | 2024-10-25 |  |
 | [settings!](https://open.spotify.com/track/3TDZRV8TdWySueKV3UX3j2) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [SEX DRIVE](https://open.spotify.com/album/5cAEY0anGcXg5bneAMAKXh) | 2:35 | 2024-10-25 |  |

@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "Golden Path",
+        "url": "https://open.spotify.com/album/3UZlYQUzKDBDoPFD545PFY"
+      },
+      "artists": [
+        {
+          "name": "Darma Waters",
+          "url": "https://open.spotify.com/artist/4nN4oxcvDaWafW2VAmvf7Y"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Golden Path",
+      "url": "https://open.spotify.com/track/7e2CFHVgLRaQxQwyqQosfo"
+    },
+    {
+      "album": {
         "name": "Hang Drum - Water Sounds",
         "url": "https://open.spotify.com/album/3nTXKA7OMc5X732iTGh7bu"
       },

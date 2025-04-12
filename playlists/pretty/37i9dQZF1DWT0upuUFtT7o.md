@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: After
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,551 likes - 126 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,569 likes - 126 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 69 | [Stay](https://open.spotify.com/track/1rrhsaqMY5Fbxu5EoKxXqf) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Applesauce](https://open.spotify.com/album/3OBdKoFtSsBVqk7UDWH2M0) | 4:03 |
 | 70 | [I Want It All](https://open.spotify.com/track/711qQxgXzTRc7UzXBG8MHe) | [Ullah](https://open.spotify.com/artist/6DJbA69u1iLhG6s8H9tVqP) | [I Want It All](https://open.spotify.com/album/3RJmsUsvKZyneGHeZPOYqg) | 3:36 |
 | 71 | [Lord](https://open.spotify.com/track/0ZVIp8P740Vq8ZXdBwNURI) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Drive to Goldenhammer](https://open.spotify.com/album/1JlbWPlZef4pXOdFBsK994) | 3:30 |
-| 72 | [This must be the place](https://open.spotify.com/track/3rDfFPybJVMqBiFbhMGDMi) | [MARINA BALENCIAGA](https://open.spotify.com/artist/6wvMmbfuW3vADgH3zzJGII) | [This must be the place](https://open.spotify.com/album/1FJVVG53D8ZTMwqn85UfMy) | 3:52 |
+| 72 | [This must be the place](https://open.spotify.com/track/3rDfFPybJVMqBiFbhMGDMi) | [Marina Balenciaga](https://open.spotify.com/artist/6wvMmbfuW3vADgH3zzJGII) | [This must be the place](https://open.spotify.com/album/1FJVVG53D8ZTMwqn85UfMy) | 3:52 |
 | 73 | [u can't choose who you love, but you can still choose what you eat for breakfast](https://open.spotify.com/track/4vw5W8NvJDpdlIIVBKY0cC) | [Harrison Borts](https://open.spotify.com/artist/2LQrOHI7V1HawPLTSYF8Qv) | [u can't choose who you love, but you can still choose what you eat for breakfast](https://open.spotify.com/album/5wI1UR49rVVKlHoSYc4CqU) | 2:48 |
 | 74 | [sad club](https://open.spotify.com/track/5cnKeOLdbjs9k2vRATvwe9) | [rarish](https://open.spotify.com/artist/4fScpCkJjvqQLzPY7zCSun) | [sad club](https://open.spotify.com/album/4zlWn4FEXbSBzVkPTixWsp) | 2:18 |
 | 75 | [Hammer](https://open.spotify.com/track/2RamsZF43V7p6POXrQ44cM) | [Bria Salmena](https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8) | [Hammer](https://open.spotify.com/album/6u8q6zqRY4QFxpnjJIIHLq) | 3:44 |

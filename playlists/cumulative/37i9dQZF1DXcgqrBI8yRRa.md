@@ -2,7 +2,7 @@
 
 ### [Internet Famous](https://open.spotify.com/playlist/37i9dQZF1DXcgqrBI8yRRa)
 
-> As heard on the FYP\.  Cover: Doechii
+> As heard on the FYP\.  Cover: Chella
 
 685 songs - 1 day 13 hr 1 min
 

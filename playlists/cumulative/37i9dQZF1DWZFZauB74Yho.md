@@ -4,7 +4,7 @@
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Alison Krauss & Union Station
 
-394 songs - 23 hr 18 min
+395 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Like an Anchor](https://open.spotify.com/track/6yVhn5kHt5xVW0nLuOxMNB) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [All That Will](https://open.spotify.com/album/0k0DE1MYLmDcNTOwIdq9Qp) | 6:14 | 2024-10-04 | 2025-01-11 |
 | [Linger](https://open.spotify.com/track/4L2VxFPupG0uZTFukuZBoY) | [Aine Burns](https://open.spotify.com/artist/2YO7UDjRwu6oFYXDQxVfOz) | [Linger](https://open.spotify.com/album/34HJ7PfTw1XuNCkWwUoJRP) | 4:28 | 2024-08-02 | 2024-08-10 |
 | [Little Birdie](https://open.spotify.com/track/49VHQmQGEeWIZ1dAVaSDGu) | [Ray Cardwell](https://open.spotify.com/artist/6kLYTAITVUIX4V7VZhlo2V), [Jeremy Garrett](https://open.spotify.com/artist/75j2lBW6hHJNAbEjm6Wi14) | [Little Birdie](https://open.spotify.com/album/0dyzjmSjAA53fnZ4FOqJma) | 2:44 | 2024-12-06 |  |
+| [Little Darling Pal of Mine \- Live At The American Legion Post 82](https://open.spotify.com/track/2WzsI1E3mtPuqOLxBAXszS) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf), [Bryan Sutton](https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm) | [Live At The Legion](https://open.spotify.com/album/51xtQ62UX9bifm4MLIgDG8) | 3:25 | 2025-04-11 |  |
 | [Little Ones](https://open.spotify.com/track/5lwckjUabBCHUQ2OrlBGsu) | [Two Runner](https://open.spotify.com/artist/4pMqJEcrPoNT1QZgIUKBWg) | [Little Ones](https://open.spotify.com/album/3s4ILC1Jmbcxe7oWs89BCN) | 3:15 | 2024-08-16 | 2024-12-07 |
 | [Little Red Bird](https://open.spotify.com/track/3AfsvvUMCqzByCNlV6eYEa) | [Tori Miller](https://open.spotify.com/artist/1Mol6995exChZF3xQMJL9Q) | [Little Red Bird](https://open.spotify.com/album/0se4e2n0a5LdtEcpfW20Tr) | 2:31 | 2025-01-24 |  |
 | [Lo, How a Rose E'er Blooming](https://open.spotify.com/track/4TmqCAAP2I21pwv4h8lWSV) | [The Hillbilly Thomists](https://open.spotify.com/artist/4Rlk8O5gNWhHumN1jKUb19) | [Lo, How a Rose E'er Blooming](https://open.spotify.com/album/5IzsTo7WDIkgsjJbPio2Bu) | 3:26 | 2024-12-06 |  |

@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI?si=14Mbs9BNRvq3aeSw\-4cGhA">Mia Lord</a>
 
-1,110 songs - 2 day 15 hr 2 min
+1,111 songs - 2 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -947,6 +947,7 @@
 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 | 2024-02-09 | 2024-05-17 |
 | [The One](https://open.spotify.com/track/0UTJPkS2BAI23HSE50A4J9) | [Aimée Britannia](https://open.spotify.com/artist/1oxqclaWPu3nTkfNhjWSJ7) | [The One](https://open.spotify.com/album/6CKZvy2QFgXE7nLecCBaY6) | 3:46 | 2023-12-14 | 2024-01-12 |
 | [The Phoenix](https://open.spotify.com/track/6wUrwv6uO6roQ1OUQrLnFW) | [Golden Blue](https://open.spotify.com/artist/6IPUSjbmivAym8Q1pj9yvc) | [The Phoenix](https://open.spotify.com/album/4Bt6P8MUACJ5f3oGSZ6hAb) | 4:12 | 2023-09-01 | 2023-11-25 |
+| [the place i use to hide](https://open.spotify.com/track/3NZQHSL3COv2iak4y5c0my) | [Yum Yuck](https://open.spotify.com/artist/5lAZTyHLWuqddQudiftzIE), [Melting Resonance](https://open.spotify.com/artist/2rMriHWxxmwJG7C3xd9Sod) | [the place i use to hide](https://open.spotify.com/album/69QHpSkaCgV9hSp3FSmy9Z) | 3:20 | 2025-04-10 |  |
 | [The Quiet Life](https://open.spotify.com/track/08lpNVGQqzerd7tXVu1VjY) | [Kid in Flight](https://open.spotify.com/artist/1lSpp0OQbcFrlkRCHbegwT) | [The Quiet Life](https://open.spotify.com/album/4l8dr8wyCsA1jCZPNh616K) | 2:22 | 2025-04-10 |  |
 | [The Spin Astride](https://open.spotify.com/track/0DniVPo0gdLY94cSJVKYMV) | [Carla Malrowe](https://open.spotify.com/artist/1sgIxyaQ77veaGLIu40zYv) | [The Spin Astride](https://open.spotify.com/album/32DFbEpkONRG857qUTfPGL) | 4:47 | 2023-08-11 | 2023-10-13 |
 | [The Story I've Told](https://open.spotify.com/track/0bKvBldhrGDTEmZrwAN9bO) | [A Year on Earth](https://open.spotify.com/artist/3fUsegKYycWDZOspXioFO7) | [The Story I've Told](https://open.spotify.com/album/4P7rxhUnxd8qhO0fGCMiHM) | 3:38 | 2024-08-23 | 2024-11-15 |

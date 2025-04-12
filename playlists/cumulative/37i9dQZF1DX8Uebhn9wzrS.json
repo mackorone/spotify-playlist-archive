@@ -1979,6 +1979,24 @@
     },
     {
       "album": {
+        "name": "another round",
+        "url": "https://open.spotify.com/album/6Y455gRwn2PuKyl1Q9EHVE"
+      },
+      "artists": [
+        {
+          "name": "Breezonic",
+          "url": "https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "another round",
+      "url": "https://open.spotify.com/track/1s5IADCwuIRFqMJXEMvb9d"
+    },
+    {
+      "album": {
         "name": "Another Short Story",
         "url": "https://open.spotify.com/album/6Mn0CWrdcU3WoyhWfMWQ6r"
       },
@@ -4046,7 +4064,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 164571,
       "name": "Bike Ride",
       "url": "https://open.spotify.com/track/2NQD7y6GbLRPFeblfuU0vE"
@@ -7606,7 +7624,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 128457,
       "name": "Coldest of the Year",
       "url": "https://open.spotify.com/track/1wb0mPv3bRqf7aazZ0FylC"
@@ -8902,7 +8920,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-20",
+      "date_removed": null,
       "duration_ms": 144615,
       "name": "DaSpritzers",
       "url": "https://open.spotify.com/track/53x3IWruUKHjycanyVzzwb"
@@ -9412,7 +9430,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-07",
+      "date_removed": null,
       "duration_ms": 135820,
       "name": "Devoted to Violet",
       "url": "https://open.spotify.com/track/7Kn2u3i65LuebgyWqYuJoe"
@@ -10606,7 +10624,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-30",
+      "date_removed": null,
       "duration_ms": 100000,
       "name": "Drips",
       "url": "https://open.spotify.com/track/3yxluQG4ZWdmjXJ5sjxXVg"
@@ -12862,7 +12880,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-13",
+      "date_removed": null,
       "duration_ms": 115764,
       "name": "Filter FFP4",
       "url": "https://open.spotify.com/track/16eop82y32gTrd2j1MaNpQ"
@@ -12992,7 +13010,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-13",
+      "date_removed": null,
       "duration_ms": 92530,
       "name": "Fireworks - New Beginnings",
       "url": "https://open.spotify.com/track/1ig7KupWNnSAWOhy0PIcH2"
@@ -14004,7 +14022,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-24",
+      "date_removed": null,
       "duration_ms": 152166,
       "name": "Fresh Air",
       "url": "https://open.spotify.com/track/1JAFfEsW0swrZtPdb9k0MJ"
@@ -15670,7 +15688,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-05",
+      "date_removed": null,
       "duration_ms": 114000,
       "name": "Grey Grey Sky",
       "url": "https://open.spotify.com/track/1Ja3HxkCvHjv4Vi9I7Crp0"
@@ -16729,6 +16747,24 @@
     },
     {
       "album": {
+        "name": "highway one",
+        "url": "https://open.spotify.com/album/47pqF590k2anGL5Jl0HuRs"
+      },
+      "artists": [
+        {
+          "name": "low&slow",
+          "url": "https://open.spotify.com/artist/5nRIouNA5T37sVSDEjbhAL"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131063,
+      "name": "highway one",
+      "url": "https://open.spotify.com/track/2tQXKumBH3TcShaJcCC6X0"
+    },
+    {
+      "album": {
         "name": "Highway to Shell",
         "url": "https://open.spotify.com/album/61ClakUBMQ1Efqa4wolbNs"
       },
@@ -17608,7 +17644,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-21",
+      "date_removed": null,
       "duration_ms": 142222,
       "name": "i think it was november",
       "url": "https://open.spotify.com/track/7D6CD56bThLj54TdC4laLz"
@@ -18538,7 +18574,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-30",
+      "date_removed": null,
       "duration_ms": 150857,
       "name": "It's Cloudy",
       "url": "https://open.spotify.com/track/269vLZpnY21sgaa8i70k99"
@@ -19496,7 +19532,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-01",
+      "date_removed": null,
       "duration_ms": 120750,
       "name": "knox",
       "url": "https://open.spotify.com/track/1hzuZqJ6fnagvFr9mjacKL"
@@ -20542,7 +20578,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 126035,
       "name": "Let\u2019s back that up",
       "url": "https://open.spotify.com/track/6qB6Tf93CQyItAywIUfusl"
@@ -22038,7 +22074,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 115000,
       "name": "Lower East Side",
       "url": "https://open.spotify.com/track/0HP3RxQPPdLmpSQJQZHl9Z"
@@ -24554,7 +24590,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-26",
+      "date_removed": null,
       "duration_ms": 109936,
       "name": "Morning Glory",
       "url": "https://open.spotify.com/track/7osOgKGCOAGRwTfgQtpcQ2"
@@ -27930,7 +27966,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 113142,
       "name": "pan au chocolat + cappuccino",
       "url": "https://open.spotify.com/track/2YXVBCH7FV1tPJ8sqTzbIx"
@@ -27948,7 +27984,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 163333,
       "name": "Panda Dreamscape",
       "url": "https://open.spotify.com/track/2Zg3gULSTGbrjoqbXw2Aym"
@@ -30972,7 +31008,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 140000,
       "name": "Resting Days",
       "url": "https://open.spotify.com/track/6FKD7NlcNchJckU1LxjN5U"
@@ -31278,7 +31314,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 150000,
       "name": "Ripple",
       "url": "https://open.spotify.com/track/3bnAwTUMDHA2dYJ39LXwHy"
@@ -33424,7 +33460,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 148604,
       "name": "Skippy",
       "url": "https://open.spotify.com/track/2LHxUoqCPDbroBUzYJvIMi"
@@ -35534,7 +35570,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 125041,
       "name": "stay closer",
       "url": "https://open.spotify.com/track/26d8n4MjhZNopkmZKqCHM0"
@@ -37810,7 +37846,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 152763,
       "name": "That's My Jam",
       "url": "https://open.spotify.com/track/5VrOqL4TmSU8ZfhgfD1oXg"
@@ -38996,7 +39032,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 120000,
       "name": "tintling",
       "url": "https://open.spotify.com/track/68Mf2taiQAVcLTUsZ0iFkZ"
@@ -39240,7 +39276,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-06",
+      "date_removed": null,
       "duration_ms": 184658,
       "name": "Topinamborough",
       "url": "https://open.spotify.com/track/64S00l6oDW4AYs7yXb0SLD"
@@ -40454,7 +40490,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 126153,
       "name": "unstoppable",
       "url": "https://open.spotify.com/track/1Pb1yf71KOsf0IdMe5lK9n"
@@ -40472,7 +40508,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 103409,
       "name": "Until Sunday",
       "url": "https://open.spotify.com/track/6yz2bSwnez41AkzwdYPeVY"
@@ -40876,7 +40912,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 160000,
       "name": "violett",
       "url": "https://open.spotify.com/track/6Gpsp7BIZaXuMua2uoozYM"
@@ -40934,6 +40970,24 @@
       "duration_ms": 119944,
       "name": "Vitalization",
       "url": "https://open.spotify.com/track/3pp6vpEactYNh8gVMTt5Bk"
+    },
+    {
+      "album": {
+        "name": "volume 2",
+        "url": "https://open.spotify.com/album/3uLQRyDao4BVvwPU9eiF6Z"
+      },
+      "artists": [
+        {
+          "name": "the tofu paradigm",
+          "url": "https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115764,
+      "name": "volume 2",
+      "url": "https://open.spotify.com/track/4sf3dg5AfMRjVjCkWHyMZl"
     },
     {
       "album": {

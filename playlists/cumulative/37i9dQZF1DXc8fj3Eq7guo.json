@@ -198,7 +198,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 196026,
       "name": "Cairo",
       "url": "https://open.spotify.com/track/7dPGqNBb89NlmYyc1zkQ8a"
@@ -1838,6 +1838,28 @@
       "duration_ms": 181621,
       "name": "Zanzibar (Alubarika)",
       "url": "https://open.spotify.com/track/5ccyAhQd6y0HO92Td0lE6H"
+    },
+    {
+      "album": {
+        "name": "Zanzibar (feat. Bruce Melodie)",
+        "url": "https://open.spotify.com/album/2lT31kHoWx4A1fjGBnd81m"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        },
+        {
+          "name": "Bruce Melodie",
+          "url": "https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Zanzibar (feat. Bruce Melodie)",
+      "url": "https://open.spotify.com/track/2pS94OiSyjKxyuGxGKZcdy"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href=https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5?si=rnAJvY1hQ1\-15g9Gg4MAyA>K3ndrick</a>
 
-1,022 songs - 2 day 8 hr 1 min
+1,023 songs - 2 day 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Bad Guys](https://open.spotify.com/track/6HCyIlIAnnhhvxTZDf81g8) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [TGOD DaFlemSpitha](https://open.spotify.com/artist/6ZMT1yC4USp2cyOsnKt2mb), [Aigbeh D'gong](https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX) | [Bad Guys](https://open.spotify.com/album/0S12wI7pLhnliv8QKBKvHd) | 2:43 | 2023-12-01 | 2024-01-19 |
 | [Bank on You](https://open.spotify.com/track/5FtvzrbCp3iyf0zYNjDkyq) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Pawasonic](https://open.spotify.com/artist/4JnNMhfRwpiknBp80tInQR) | [Bank on You](https://open.spotify.com/album/01lVf8rvZWvZdTrWTvBeX8) | 2:54 | 2024-09-13 | 2024-11-08 |
 | [Be Okay](https://open.spotify.com/track/2Y9ZEDH8dWLAztvkOpMt3j) | [Elikem Kofi](https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl) | [Long Life & Drama](https://open.spotify.com/album/28vwfNtdTYbl5hhCemmMuN) | 3:00 | 2023-05-26 | 2023-07-14 |
-| [Beautiful](https://open.spotify.com/track/7j34VbruHObgUOHIaxpMMw) | [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Colors of Grace](https://open.spotify.com/album/6Zo1lc8tSnw61EOjjPWcN0) | 2:25 | 2024-11-08 |  |
+| [Beautiful](https://open.spotify.com/track/7j34VbruHObgUOHIaxpMMw) | [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Colors of Grace](https://open.spotify.com/album/6Zo1lc8tSnw61EOjjPWcN0) | 2:25 | 2024-11-08 | 2025-04-12 |
 | [Beautiful](https://open.spotify.com/track/4B15esl9pBFYa82fLVPD2H) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Beautiful](https://open.spotify.com/album/3iykAdVTHoLauG1SXi2cEt) | 2:49 | 2024-07-05 | 2024-11-22 |
 | [Beautiful Thing](https://open.spotify.com/track/2cknVxUrW4KU6nvlqWcHaK) | [Wole Awolola](https://open.spotify.com/artist/12d2r8OZUkD46KXYvB1uez) | [Beautiful Thing](https://open.spotify.com/album/4PbdAXf6e5aecwIqEt21G1) | 5:20 | 2025-02-21 | 2025-03-21 |
 | [Believe us](https://open.spotify.com/track/1mpu97LwS5KS5fyPQqsRqg) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Baron Jay](https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv), [DJ Ernesty](https://open.spotify.com/artist/0MGWyvcy2uXq5lVdATxcuj) | [Believe us](https://open.spotify.com/album/6rSQd0L7wrLhxpQNQuStIP) | 2:56 | 2023-04-07 | 2023-04-15 |
@@ -668,6 +668,7 @@
 | [No Be Your Mate](https://open.spotify.com/track/5uTwH5K8MDtCWrWyZe0Jfm) | [De\-Ola](https://open.spotify.com/artist/4DLgeYOFCpK8Eo27gVdhhy), [Agent Snypa](https://open.spotify.com/artist/5LUpT5RzeYT5aH16GfEzHJ), [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP) | [No Be Your Mate](https://open.spotify.com/album/6fszLTs3Hu9WCXaGPXqqev) | 4:06 | 2024-06-07 | 2024-07-27 |
 | [No Distractions](https://open.spotify.com/track/4Lb7GCURnLKzLllifdE5DI) | [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [No Distractions](https://open.spotify.com/album/2otbsOuVe9QSa1ydGLHpEH) | 2:56 | 2024-08-16 | 2024-09-27 |
 | [No Greater Love](https://open.spotify.com/track/37raeQxIZHQOG4rQOJPbB8) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Young & Chosen](https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7) | 3:40 | 2024-08-23 | 2025-03-28 |
+| [No Holiday](https://open.spotify.com/track/1jKUNqbrslxUJ1aNIyPFxA) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [METANOIA](https://open.spotify.com/album/6DZgMfVrDgyAKdvTHsMEUH) | 2:32 | 2025-04-11 |  |
 | [No Holiday](https://open.spotify.com/track/6bxvTw0Yz1ZVfJYBViYRZl) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [No Holiday](https://open.spotify.com/album/4W9RcH0poROY0B3fowCQHC) | 2:32 | 2025-02-07 | 2025-03-21 |
 | [No Longer Bound \(I'm Free\)](https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [No Longer Bound \(I'm Free\)](https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP) | 2:55 | 2023-08-11 | 2023-11-17 |
 | [No One Like You](https://open.spotify.com/track/6IdVD2mx7SchK1ZUCtu0Ys) | [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [No One Like You](https://open.spotify.com/album/5VOTSTlkjFjPGXvf7ZB2Ts) | 4:28 | 2023-12-05 | 2023-12-11 |

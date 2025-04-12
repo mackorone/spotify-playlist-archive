@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Teen Mortgage
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,949 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,199 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Devil Ultrasonic Dream](https://open.spotify.com/track/63xyKIPbiKLClgWtcjSVuY) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Devil Ultrasonic Dream](https://open.spotify.com/album/4HJ8nqrbOMnRl9M3rV0kH2) | 2:11 |
 | 2 | [chekhov's guns](https://open.spotify.com/track/0402LA3BJwIWmqxSWjbXCX) | [Mclusky](https://open.spotify.com/artist/3xA9AB0f4BVjsSlyQc12iE) | [chekhov's guns](https://open.spotify.com/album/7Hdm7zEkMAW3SRu483HJsl) | 2:41 |
-| 3 | [My Way](https://open.spotify.com/track/0HELTZyVi4APXu85RtVGfn) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [My Way](https://open.spotify.com/album/1Rs26b0YSzU5phBWVVwkL1) | 3:24 |
-| 4 | [Drunk Talk](https://open.spotify.com/track/5ve3qnXRJgPMDppIZLpRPR) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [Drunk Talk](https://open.spotify.com/album/5IEJ5aLWiBkOL8o444XiOj) | 2:31 |
+| 3 | [Lost In Time](https://open.spotify.com/track/6RxAiQGhBC9mZhWQEXJn6M) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [GET BENT!](https://open.spotify.com/album/3GGarrspHOxKZ9TCrOzq4t) | 2:52 |
+| 4 | [My Way](https://open.spotify.com/track/0HELTZyVi4APXu85RtVGfn) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [My Way](https://open.spotify.com/album/1Rs26b0YSzU5phBWVVwkL1) | 3:24 |
 | 5 | [Letterkenny](https://open.spotify.com/track/2r0m4lIHcVwFUFZeTlSPZJ) | [Mattstagraham](https://open.spotify.com/artist/48wLB9JErgk9YvhvAC1KQI) | [Letterkenny](https://open.spotify.com/album/1KCgfVodP6hpgTOde7xWAQ) | 2:45 |
 | 6 | [Curwen](https://open.spotify.com/track/0Okysd8JMaWIrXcR1M08he) | [UNIVERSITY](https://open.spotify.com/artist/2TDMep1IfMAASZxbC5FAo5) | [Curwen](https://open.spotify.com/album/3ks2f53mSTSzD0eLeC01mt) | 4:30 |
 | 7 | [Nothing Special](https://open.spotify.com/track/3zv2JGnnUxQoNLsox1oGI3) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Anything For You](https://open.spotify.com/album/1U9doeeShDxZxHINVULgZr) | 2:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [I THINK I LIKE YOU](https://open.spotify.com/track/3GTydboUO6maQvndeR0oF2) | [GANS](https://open.spotify.com/artist/05PzzXnIetN4rWDlYv23SK) | [I THINK I LIKE YOU](https://open.spotify.com/album/5vo5eIkJHhroiJ1zk0fQBF) | 3:05 |
 | 100 | [Get Worse](https://open.spotify.com/track/3zfVs709VTMpkwJWSK40d3) | [Goodnight Sunrise](https://open.spotify.com/artist/4CzSDigTxbLBQU4DdvhkxY) | [Get Worse](https://open.spotify.com/album/7ySPL4Gb1NBpZVCFvc2Jp4) | 2:48 |
 
-Snapshot ID: `Z/hNegAAAACJS9Fa27YqIoSTWFANXiGY`
+Snapshot ID: `Z/j3FwAAAABpubwvsNxbACn+HMwVLowm`

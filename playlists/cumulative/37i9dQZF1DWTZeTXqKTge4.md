@@ -4,7 +4,7 @@
 
 > Le meilleur du hip\-hop québécois\. Photo: Shreez
 
-792 songs - 1 day 16 hr 25 min
+794 songs - 1 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [4AMINRDP](https://open.spotify.com/track/2c0er12peuMMb9bol1Ktig) | [JMB Drippy](https://open.spotify.com/artist/2OOYpKIQBA2hPkXvk2fJDI) | [2003](https://open.spotify.com/album/1LppY42rL5Y6LmNJ0evHez) | 2:48 | 2023-04-07 | 2023-06-17 |
 | [5 Boutes](https://open.spotify.com/track/162EqB8realRZyj7OEa4IW) | [Rmax](https://open.spotify.com/artist/1T3SPxUzMi2bt89Ux9A8U9), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [J.BO](https://open.spotify.com/artist/6qfbY11F2cczEo2xrQeQBG), [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n) | [5 Boutes](https://open.spotify.com/album/1krhIqOQSjNmLEOAfRf6jP) | 2:24 | 2022-01-07 | 2022-02-12 |
 | [5 dans la whip](https://open.spotify.com/track/10mXjx88SfukbzEotbM1Jd) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Peeda](https://open.spotify.com/artist/7qz5rVVo7GjgNMUzJRfUy4) | [5 dans la whip](https://open.spotify.com/album/2ARSenbmfKFWJE6XDQeq0C) | 3:26 | 2022-01-21 | 2022-05-14 |
-| [5AM](https://open.spotify.com/track/3lernf2FiyL07kM8uTAueb) | [Brown Family](https://open.spotify.com/artist/58kHjJdhzMEVRdibBX5JJW) | [5AM](https://open.spotify.com/album/6eiNBOmU5Kpr5X81cELx7I) | 3:35 | 2024-04-26 |  |
+| [5AM](https://open.spotify.com/track/3lernf2FiyL07kM8uTAueb) | [Brown Family](https://open.spotify.com/artist/58kHjJdhzMEVRdibBX5JJW) | [5AM](https://open.spotify.com/album/6eiNBOmU5Kpr5X81cELx7I) | 3:35 | 2024-04-26 | 2025-04-12 |
 | [5STAR](https://open.spotify.com/track/05owzjR8t0M3Y2BIFArgLr) | [Apollo](https://open.spotify.com/artist/3CPv18YYX9bKvhwLsASBZT) | [Elevate](https://open.spotify.com/album/5nAFBraM51Rcfs8HkYos4I) | 2:36 | 2022-11-11 | 2023-03-18 |
 | [6 mois](https://open.spotify.com/track/2gOu93kTZxjuuMGWeOgH9t) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [6 mois](https://open.spotify.com/album/0kULqrFM1MeS1O0ImWFkfy) | 3:22 | 2024-03-08 | 2024-08-24 |
 | [6 PIASSES](https://open.spotify.com/track/3SbpvwK2XsmWl4P42iCT1x) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [6 PIASSES](https://open.spotify.com/album/3AuQMxeIkx7vuTxh37ZLKI) | 2:55 | 2022-06-24 | 2022-10-01 |
@@ -299,6 +299,7 @@
 | [G.O.A.T.S.](https://open.spotify.com/track/6uaVCeRwAK0esY2xPlKVby) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Couleurs primaires : Rouge](https://open.spotify.com/album/24EI5BeUrPeNpAflDizg4k) | 4:07 | 2022-01-07 | 2022-05-28 |
 | [Gang Way](https://open.spotify.com/track/5vYxSytIrSRhaNmo2Z94GY) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Non coupable](https://open.spotify.com/album/39xwcDfx2MPBAVHYA6ivtu) | 3:24 | 2022-01-07 | 2022-06-18 |
 | [Gangsta](https://open.spotify.com/track/4zJeDPdrQpvKrErjbxAkq7) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [SNAKEYEZ](https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC) | 2:32 | 2022-01-07 | 2022-07-23 |
+| [Gars Chill](https://open.spotify.com/track/6BmvUi6tG14h7ISkIJ2WHK) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn) | [Gars Chill](https://open.spotify.com/album/2MORRW3akZpJnBSQfhJgA7) | 2:15 | 2025-04-11 |  |
 | [Gayé](https://open.spotify.com/track/3vHnSDs9cgYtWBJg0VjE1z) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Plato Zay](https://open.spotify.com/album/1w538xCqUlw4J692Ychz3o) | 3:48 | 2023-11-03 | 2023-11-13 |
 | [Gaz au fond](https://open.spotify.com/track/3ahYEYoP0voboULlwJH8Fx) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Dixque d'art](https://open.spotify.com/album/5fvUcupi73B843UBlMcRxS) | 4:34 | 2022-04-15 | 2023-01-28 |
 | [GENERAL FINESSE FREESTYLE](https://open.spotify.com/track/5NgnOkOSKphYngPzkx4wlQ) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [GENERAL FINESSE FREESTYLE](https://open.spotify.com/album/2CEZwsIJ6Eu5D6CHScYhZh) | 2:23 | 2024-09-13 |  |
@@ -578,7 +579,7 @@
 | [Peurple](https://open.spotify.com/track/6Ninewf6AmuyOstLCftPu0) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn) | [Peurple](https://open.spotify.com/album/6aVhBM0CjXfUeVpf7erNqA) | 2:16 | 2022-04-22 | 2022-08-27 |
 | [Pickup](https://open.spotify.com/track/6KG4QjMExxShMAlozINvae) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [Pickup](https://open.spotify.com/album/17SQM0VornpdLSuuc4FgEY) | 2:14 | 2024-10-11 | 2024-10-26 |
 | [Pickup](https://open.spotify.com/track/3QR5mPpzBG26S4Uqe6XZi7) | [Sly Cooper](https://open.spotify.com/artist/2chxHFLwg84ucaOUKKQ1Bk), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Pickup](https://open.spotify.com/album/0o9ydVRqFkEwZS4F28SGFc) | 3:40 | 2022-05-06 | 2022-12-03 |
-| [Pink Sh!t](https://open.spotify.com/track/0KCBDYjTojNCYIsMakWkQz) | [Lostboy Carlos](https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb) | [Pink Sh!t](https://open.spotify.com/album/0OZc0klySsvKeGWjlqDiDe) | 2:24 | 2025-01-17 |  |
+| [Pink Sh!t](https://open.spotify.com/track/0KCBDYjTojNCYIsMakWkQz) | [Lostboy Carlos](https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb) | [Pink Sh!t](https://open.spotify.com/album/0OZc0klySsvKeGWjlqDiDe) | 2:24 | 2025-01-17 | 2025-04-12 |
 | [Piège Rock Alternatif](https://open.spotify.com/track/6AASCclUSMqIM5hhLuS7nj) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Piège Rock Alternatif](https://open.spotify.com/album/3OXD6B8JLON63qRHf0xEhg) | 2:41 | 2022-05-20 | 2022-06-11 |
 | [Planer](https://open.spotify.com/track/1hlXA96A3AyXX8UT0OK7I5) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Planer](https://open.spotify.com/album/4b6ns1QBr9YtTEmjyn7HHK) | 2:55 | 2023-07-14 | 2024-04-27 |
 | [Plata](https://open.spotify.com/track/2S4GE0dXH8F0G4HZwviRSQ) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [400](https://open.spotify.com/album/1QLh17mGCqestAzRo8VcC0) | 2:57 | 2022-10-14 | 2023-03-11 |
@@ -770,6 +771,7 @@
 | [Voleur d'esprit](https://open.spotify.com/track/0joPetCA1uEmgBzkBjRVDQ) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [Voleur d'esprit](https://open.spotify.com/album/6bQOhjFmY4mPuX7S9X0hvy) | 2:57 | 2022-12-16 | 2023-05-20 |
 | [W](https://open.spotify.com/track/6cbiCNGJMkrpfN7Z95L9N1) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [Soin Entreprise \(Vol\. 2\)](https://open.spotify.com/album/2pEpWeQlYb7cATfoEkvQC1) | 3:24 | 2025-01-31 |  |
 | [Wait a minute](https://open.spotify.com/track/7e5G1tmINb2indrx4mG3am) | [Ruffneck](https://open.spotify.com/artist/5EqZfRDXWH1w0m6Djo5UKO), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Wait a minute](https://open.spotify.com/album/5mBamkhsiq4ZOn06DOsUlw) | 3:18 | 2023-03-31 | 2024-01-27 |
+| [Wanna Be](https://open.spotify.com/track/0H4uJtgFfsLeocd2Id9Jtd) | [Lostboy Carlos](https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb) | [Wanna Be](https://open.spotify.com/album/0ll1f0HbpiTamGTSuS9PHc) | 1:57 | 2025-04-11 |  |
 | [Wasabi](https://open.spotify.com/track/5OXFw7wT8P6Su13CoYVRSf) | [Soraï](https://open.spotify.com/artist/38SOUOhlDoh1y9dHlGDbTL), [La Monarque](https://open.spotify.com/artist/5aetwYQT7Tq7WWuv8SWZU3) | [Wasabi](https://open.spotify.com/album/4casJwyDPUWXpz7P576z5X) | 3:07 | 2024-01-26 | 2024-03-02 |
 | [Way Too Long](https://open.spotify.com/track/41qIdX2jey1hepYUcNu3m7) | [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX) | [Pleure pas ma Fille, sinon Maman va pleurer](https://open.spotify.com/album/3jUTNTAhTvFbKnMBc8yQPy) | 3:03 | 2024-12-04 | 2025-01-11 |
 | [Way Too Long](https://open.spotify.com/track/7Iz74b76qfdNOBOyVegHv2) | [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX) | [Way Too Long](https://open.spotify.com/album/1mby3xq3SFGEeTSojPrsVH) | 3:03 | 2024-05-31 | 2024-09-14 |

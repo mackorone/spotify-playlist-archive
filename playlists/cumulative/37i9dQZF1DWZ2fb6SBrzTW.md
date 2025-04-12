@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-502 songs - 1 day 1 hr 28 min
+503 songs - 1 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Ex Convict](https://open.spotify.com/track/5O7fTE396BVFRTkQv5ENSo) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/0j4TScmifAmAFxOYpzCVCH) | 3:22 | 2024-03-22 | 2024-04-19 |
 | [Ex Convict](https://open.spotify.com/track/5WAFaje0Cs3hHhNqjUIfY6) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/5Y0FIl4JX5S1vvm5Kc8OHh) | 3:22 | 2023-11-17 | 2024-03-22 |
 | [Far Away](https://open.spotify.com/track/0xHd7j5lVaKaHbOjs0EXIq) | [Dangbana Republik](https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [High Tension 2.0](https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q) | 3:19 | 2021-07-09 | 2022-08-02 |
+| [FATÚMATA](https://open.spotify.com/track/1qbmBZepH02Lyfc1hdo3hz) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [DIYILEM & BAZARHOFF : GENIUS](https://open.spotify.com/album/0svMu91wf0T13Of4I0YU9v) | 2:54 | 2025-04-11 |  |
 | [Faya](https://open.spotify.com/track/11Q7avc3GINHS2pSxso0vF) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Where We Come From, Vol\. 01](https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO) | 2:10 | 2022-12-02 | 2023-09-26 |
 | [Fear Woman](https://open.spotify.com/track/5o9IvEm2kULFG3MRoVCVkZ) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Fear Woman](https://open.spotify.com/album/5eX0CdlONNLvROVea1nH9y) | 3:17 | 2024-04-05 | 2024-05-17 |
 | [Feel Am](https://open.spotify.com/track/505HMXR6geya6f1891Hy1A) | [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t) | [Feel Am](https://open.spotify.com/album/3VmyWLePyLxyzDn4C8mUBi) | 2:44 | 2024-12-06 | 2025-03-15 |
@@ -314,7 +315,7 @@
 | [Minding My Business](https://open.spotify.com/track/1qexUMtMWGdP1wGcGYkNJs) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Minding My Business](https://open.spotify.com/album/1JlZVS3ByAW0f2cHzv3eRS) | 2:53 | 2024-03-22 | 2024-05-03 |
 | [Monalisa](https://open.spotify.com/track/3NpdO4m9a4ycSQvPRCHPlZ) | [T\-Classic](https://open.spotify.com/artist/2nR9FjLTz90sFqGrhYdzXE) | [Monalisa](https://open.spotify.com/album/16xQ19NSELl7Cx78b5tVEM) | 2:28 | 2023-06-02 | 2023-06-17 |
 | [Money is A Must](https://open.spotify.com/track/6XBjoQyHpxdNxkLKZb4j9u) | [Vibez Inc](https://open.spotify.com/artist/6Pq8bOPyCrqbKg02JE1jlu), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Money is A Must](https://open.spotify.com/album/4256OlluZzbCNTEngtqnZJ) | 2:51 | 2023-11-03 | 2023-11-09 |
-| [Monica](https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [LOVE AND CHAOS](https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h) | 2:56 | 2023-12-08 |  |
+| [Monica](https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [LOVE AND CHAOS](https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h) | 2:56 | 2023-12-08 | 2025-04-12 |
 | [Monica](https://open.spotify.com/track/1enk1SGVDSYragvMwcn7s8) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Monica](https://open.spotify.com/album/2fs30svWWoqUOC4Xzl5lYU) | 3:39 | 2022-05-05 | 2022-08-17 |
 | [Mood \(feat\. Khaid\)](https://open.spotify.com/track/7tG4123A00GMjBqFRrblMT) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Mood \(feat\. Khaid\)](https://open.spotify.com/album/0lmld57fQ3VDvT7p21CXPG) | 2:57 | 2024-07-26 | 2024-10-18 |
 | [More Vibes More Money](https://open.spotify.com/track/1T3MTW0MbHv3uXwezXjTm0) | [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [More Vibes More Money](https://open.spotify.com/album/1v8aC5jKBuDCmkZ9XUn3Z7) | 3:08 | 2023-08-03 | 2023-09-28 |

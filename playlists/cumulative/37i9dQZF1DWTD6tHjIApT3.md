@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: aiko
 
-2,990 songs - 7 day 23 hr 33 min
+2,991 songs - 7 day 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -895,6 +895,7 @@
 | [Magnetized](https://open.spotify.com/track/3dBn4h8S8UhY9npfamBOSD) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [Magnetized](https://open.spotify.com/album/2voD9UoVMxvAZwrK71UlWX) | 2:59 | 2023-11-28 | 2023-12-06 |
 | [Magpie](https://open.spotify.com/track/3gzNJAieRScUAeJTCdmq1b) | [Asami Tono](https://open.spotify.com/artist/5uyECggyaBp2soVsms3MNK) | [Magpie](https://open.spotify.com/album/2IljS2DbUnvQGSsJnCmJzo) | 3:29 | 2022-09-06 | 2022-09-15 |
 | [Mahalo](https://open.spotify.com/track/4iPOKY6z9t6WNt4DIpy3LG) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Mahalo](https://open.spotify.com/album/5EWNfjFJwQ5rvcd7fRC2z0) | 3:30 | 2023-12-05 | 2023-12-13 |
+| [MAISIE](https://open.spotify.com/track/24JAm9Rp43KfcCJAb3186t) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [MAISIE](https://open.spotify.com/album/2JquzazGAECf177YfAXHNx) | 3:13 | 2025-04-08 |  |
 | [MAJIC](https://open.spotify.com/track/07pGTcfzbu0jtG6aoAfKhM) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [INORI](https://open.spotify.com/album/3jDrLQ2fCCjBgF3IC5wP0D) | 4:01 | 2023-04-04 | 2023-04-12 |
 | [MAKE LOVE \(She said\)](https://open.spotify.com/track/4ZwZ66MqBP414UcTQVyjpw) | [He & She](https://open.spotify.com/artist/2gtMOy05gUFnzqlJZea47U), [竹内アンナ](https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw) | [MAKE LOVE \(She said\)](https://open.spotify.com/album/4jLGdGVHyJMjCjMJa2Zj28) | 2:34 | 2023-08-15 | 2023-08-23 |
 | [Make\-up Shadow \(feat\. ひかり\)](https://open.spotify.com/track/4f3emoZ35w869TmpnIxcI3) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Make\-up Shadow \(feat\. ひかり\)](https://open.spotify.com/album/6bfo9YaG53xHfQoYhw5mgQ) | 4:15 | 2023-07-04 | 2023-07-26 |
@@ -1235,7 +1236,7 @@
 | [Run](https://open.spotify.com/track/5Hi3N1zV22FTZzWrjFMsQp) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Run](https://open.spotify.com/album/1YjBHkHzDehlUyhlaskjvV) | 4:08 | 2024-03-12 | 2024-05-23 |
 | [Run Or Hide \(feat\. Marina Watanabe\)](https://open.spotify.com/track/6yg50Iimr1S1uSo3bJB6ZV) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Marina Watanabe](https://open.spotify.com/artist/7fECFlpIoo88jHc85cD642) | [Neo Standard](https://open.spotify.com/album/6vXMlkcOS97nxv48Kl76MV) | 3:13 | 2023-09-19 | 2023-09-27 |
 | [Run Or Hide \(feat\. Marina Watanabe\)](https://open.spotify.com/track/79ppbtQoUyfYPuUvZWwQyX) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Marina Watanabe](https://open.spotify.com/artist/7fECFlpIoo88jHc85cD642) | [Neo Standard](https://open.spotify.com/album/1QkEKQCEKG2FwOJSoU39G0) | 3:13 | 2023-09-19 | 2023-09-21 |
-| [Runaway](https://open.spotify.com/track/3bKOYQ4YijJ0mPHCzgfcWi) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Runaway](https://open.spotify.com/album/4ZOnEdTTobq12pH52otULE) | 4:29 | 2025-01-14 |  |
+| [Runaway](https://open.spotify.com/track/3bKOYQ4YijJ0mPHCzgfcWi) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Runaway](https://open.spotify.com/album/4ZOnEdTTobq12pH52otULE) | 4:29 | 2025-01-14 | 2025-04-12 |
 | [Runnin'](https://open.spotify.com/track/1jXTddZprrt32F0EncQAml) | [YOSA & TAAR](https://open.spotify.com/artist/1z48rMKnmB9lBHx895J0jY), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [Runnin'](https://open.spotify.com/album/3bWapohKNAU2XCDegJ0LCO) | 3:34 | 2023-01-24 | 2023-02-01 |
 | [Runnin'](https://open.spotify.com/track/2NdsQs90VT8lUUqI84LGef) | [YOSA & TAAR](https://open.spotify.com/artist/1z48rMKnmB9lBHx895J0jY), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [Runnin'](https://open.spotify.com/album/2p5uVg4qhGpKRrJHbGrYmz) | 3:34 | 2023-01-24 | 2023-01-26 |
 | [runway](https://open.spotify.com/track/5xrBE87ji64xsHDMTCx7qE) | [tokanoya](https://open.spotify.com/artist/1Aw5eo9AREuS3LF8cvwnTd) | [runway](https://open.spotify.com/album/3zeeFayO5RaVKMOR2c4TBB) | 3:34 | 2025-03-11 | 2025-03-19 |

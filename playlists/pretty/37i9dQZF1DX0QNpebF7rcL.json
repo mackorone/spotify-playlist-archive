@@ -1,13 +1,29 @@
 {
   "description": "The best in blues right now. Cover: Bobby Rush & Kenny Wayne Shepherd",
-  "num_followers": 139053,
+  "num_followers": 139064,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+9ZTQAAAAANXRDD5n46z7Ok0k88+QvN",
+  "snapshot_id": "Z/iT0AAAAAB/mX5rMOwxmYkkF1tPsRmz",
   "tracks": [
+    {
+      "added_at": "2025-04-11 04:00:16",
+      "album": {
+        "name": "Sad Eyes",
+        "url": "https://open.spotify.com/album/4NBCzoD5BHJhJ5LOXtIr72"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "Sad Eyes",
+      "url": "https://open.spotify.com/track/0yAnReI0lfX8IOfb46Vzf3"
+    },
     {
       "added_at": "2025-03-21 04:00:40",
       "album": {
@@ -27,6 +43,22 @@
       "duration_ms": 225833,
       "name": "You So Fine",
       "url": "https://open.spotify.com/track/2lXtNjYs5zZb36wT2uMl1G"
+    },
+    {
+      "added_at": "2025-04-11 04:00:16",
+      "album": {
+        "name": "Look What I\u2019ve Become",
+        "url": "https://open.spotify.com/album/6Q7E6gda7FzxvuzRV63kAR"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 316960,
+      "name": "Look What I\u2019ve Become",
+      "url": "https://open.spotify.com/track/2YjMliKzi6Ywcj1DhtPmxM"
     },
     {
       "added_at": "2025-04-04 04:00:13",
@@ -185,22 +217,6 @@
       "url": "https://open.spotify.com/track/38J3KpKcaeIr9MHRrNqpE9"
     },
     {
-      "added_at": "2025-02-28 05:00:32",
-      "album": {
-        "name": "Look Out Highway",
-        "url": "https://open.spotify.com/album/3WSqIS1UNydFqI8zjtQ6t7"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "Look Out Highway",
-      "url": "https://open.spotify.com/track/2vw3MrmC1QEbpXyeg0Mlls"
-    },
-    {
       "added_at": "2025-03-28 04:00:29",
       "album": {
         "name": "Back For Me",
@@ -351,22 +367,6 @@
       "duration_ms": 260345,
       "name": "Bad People",
       "url": "https://open.spotify.com/track/21Nv0pTJBQNLNUaaBR0E2Y"
-    },
-    {
-      "added_at": "2025-01-17 05:00:26",
-      "album": {
-        "name": "Grayer Shade Of Blue",
-        "url": "https://open.spotify.com/album/7zPwZNffxXgI9gxJmlrfdR"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 309320,
-      "name": "Grayer Shade Of Blue",
-      "url": "https://open.spotify.com/track/6o62jjYwIJVLDteWJwjTmH"
     },
     {
       "added_at": "2025-01-10 05:00:08",

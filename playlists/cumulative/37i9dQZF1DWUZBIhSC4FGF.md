@@ -4,7 +4,7 @@
 
 > Relax to some gentle percussion from all corners of the globe.
 
-129 songs - 7 hr 47 min
+130 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Four Rotations for Marimba: Rotation IV](https://open.spotify.com/track/4Duzz9qeSkRcaG5qDyRpTm) | [Eric Sammut](https://open.spotify.com/artist/3mrO7UO9uxaicIbotgmqvR), [Tobias Messerschmidt](https://open.spotify.com/artist/7FKPzei8LlN2G0TNxGMB5t) | [Interiorem \(1\)](https://open.spotify.com/album/5Hsewm4LFqfXe0fpkADSSp) | 2:34 | 2023-11-17 | 2024-04-19 |
 | [Garden Of Rhythm](https://open.spotify.com/track/4WFhr2DDEyMEdNXW8waIL5) | [Start Of Something Good](https://open.spotify.com/artist/37qYg33d5znCp06dghSGz4) | [Chaturanga](https://open.spotify.com/album/7g0nKAHc5ShQ2quCpXz9hr) | 3:11 | 2024-01-31 |  |
 | [Gentle Rhythms](https://open.spotify.com/track/11dpbBP364SzOkNEqbClbl) | [The Sky](https://open.spotify.com/artist/0vOYkwa573vQ2BHbYGri2m) | [Gentle Rhythms](https://open.spotify.com/album/7HL6P1kM1b9LU4aaBcLMZI) | 2:04 | 2024-03-05 |  |
+| [Golden Path](https://open.spotify.com/track/7e2CFHVgLRaQxQwyqQosfo) | [Darma Waters](https://open.spotify.com/artist/4nN4oxcvDaWafW2VAmvf7Y) | [Golden Path](https://open.spotify.com/album/3UZlYQUzKDBDoPFD545PFY) | 2:37 | 2025-04-11 |  |
 | [Hang Drum \- Water Sounds](https://open.spotify.com/track/3mGHDE0cYC9NlRk7yTtkQs) | [Izkaya Ten](https://open.spotify.com/artist/1zTZTSgDxQlwEqRwhByiEj) | [Hang Drum \- Water Sounds](https://open.spotify.com/album/3nTXKA7OMc5X732iTGh7bu) | 2:10 | 2022-09-06 |  |
 | [Hangimba](https://open.spotify.com/track/2xG6eMBqaFVHkB0TtS4S4P) | [Hangimba Boy](https://open.spotify.com/artist/1Fv4aj9ojTsR3lz2RwYEKM) | [Hangimba](https://open.spotify.com/album/7CeEZ5Ci3qsveK8YC30orQ) | 2:56 | 2022-05-19 |  |
 | [Healing Spring](https://open.spotify.com/track/0s5ncDMzVtHCXuNVKmcIfE) | [The Sky](https://open.spotify.com/artist/0vOYkwa573vQ2BHbYGri2m) | [Healing Spring](https://open.spotify.com/album/0nlZwVzBLvjAf368c5AeHy) | 1:42 | 2024-03-05 |  |

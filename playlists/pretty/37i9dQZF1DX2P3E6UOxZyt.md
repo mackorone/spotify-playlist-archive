@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 ### [RADAR 新勢力](https://open.spotify.com/playlist/37i9dQZF1DX2P3E6UOxZyt)
 
-> 2025 全新陣容出列！MEET THE FUTURE 見証未來巨星！Cover: 游宇潼 \(Eileen Yo\)
+> 2025 全新陣容出列！MEET THE FUTURE 見證未來巨星！Cover: 游宇潼 \(Eileen Yo\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,059 likes - 36 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,076 likes - 36 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 35 | [茶餐廳 I’m Okay](https://open.spotify.com/track/4oP5M9xg67cspohznjlM9d) | [Eileen Yo游宇潼](https://open.spotify.com/artist/4L2NMVuHynGLY9FXlQbogX) | [茶餐廳 I’m Okay](https://open.spotify.com/album/2SmGyOMw5Uw4ZmsbSAmlZH) | 3:34 |
 | 36 | [我不是饒舌歌手](https://open.spotify.com/track/4M8aT4P3AlJUGQ4DqaXJpV) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [23](https://open.spotify.com/album/1i9NZgKrjl9gQVIczUEJYh) | 3:32 |
 
-Snapshot ID: `Z/frFwAAAAADO88BkcQvJPG7f6v7gcIb`
+Snapshot ID: `Z/jggQAAAADJK7il870BeiVEOXoBn4qN`

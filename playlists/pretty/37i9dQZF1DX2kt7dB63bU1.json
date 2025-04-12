@@ -1,13 +1,65 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 155883,
+  "num_followers": 155914,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+9ZSQAAAABJyvsccZtUH9MS/ahKHYgM",
+  "snapshot_id": "Z/iT0AAAAACwaGwwYafN2xgohevdf/2x",
   "tracks": [
+    {
+      "added_at": "2025-04-11 04:00:16",
+      "album": {
+        "name": "Asking for Trouble",
+        "url": "https://open.spotify.com/album/0BFH1oeVEEbdcloPUoSGXs"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Mark Limacher",
+          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
+        }
+      ],
+      "duration_ms": 152453,
+      "name": "Love Me As I Am",
+      "url": "https://open.spotify.com/track/7mQPml8oyhivfvnMigbgeL"
+    },
+    {
+      "added_at": "2025-04-11 04:00:16",
+      "album": {
+        "name": "Flight",
+        "url": "https://open.spotify.com/album/7KAiZo7lUBRHLPa306jvoh"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Dezron Douglas",
+          "url": "https://open.spotify.com/artist/3HtyiTNRFO5HOPU5Cj3at7"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        }
+      ],
+      "duration_ms": 167953,
+      "name": "Flight",
+      "url": "https://open.spotify.com/track/2j3QZ7Zrdoq59PMUncaYI5"
+    },
     {
       "added_at": "2025-04-04 04:00:09",
       "album": {
@@ -327,38 +379,6 @@
       "duration_ms": 271177,
       "name": "Love Is a Place",
       "url": "https://open.spotify.com/track/41REeAwdQL9lrWtLlbXBIz"
-    },
-    {
-      "added_at": "2025-01-10 05:00:08",
-      "album": {
-        "name": "Bold",
-        "url": "https://open.spotify.com/album/7FqikX3fErogVsxKNsGg04"
-      },
-      "artists": [
-        {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Sullivan Fortner",
-          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
-        },
-        {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
-        },
-        {
-          "name": "Dezron Douglas",
-          "url": "https://open.spotify.com/artist/3HtyiTNRFO5HOPU5Cj3at7"
-        },
-        {
-          "name": "Joe Dyson",
-          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
-        }
-      ],
-      "duration_ms": 207178,
-      "name": "Bold",
-      "url": "https://open.spotify.com/track/1PF5Kj3iGZNoR12xBZDxC1"
     },
     {
       "added_at": "2025-02-07 05:00:21",
@@ -903,22 +923,6 @@
       "duration_ms": 203300,
       "name": "Where or When",
       "url": "https://open.spotify.com/track/4gJXJkd0zFFanZL2w0RsMB"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Fly Baby",
-        "url": "https://open.spotify.com/album/2IQrPYvg1qzeCgQzu2yoRR"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 340906,
-      "name": "Fly Baby",
-      "url": "https://open.spotify.com/track/76d3gxECEq5FO4qeUaOW9I"
     },
     {
       "added_at": "2024-07-26 04:00:00",

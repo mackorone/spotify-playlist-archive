@@ -1,12 +1,12 @@
 {
   "description": "The best of today's funk. Cover: MonoNeon",
-  "num_followers": 341407,
+  "num_followers": 341443,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+9ZSQAAAADu6QyNAD1MaMS9GZ3lBSoH",
+  "snapshot_id": "Z/iT0QAAAABLZkafLhRmcsuQGPIGxFhh",
   "tracks": [
     {
       "added_at": "2025-04-04 04:00:09",
@@ -83,6 +83,34 @@
       "duration_ms": 234600,
       "name": "Squeeze",
       "url": "https://open.spotify.com/track/31I691UrDuyt54hM6MFMoA"
+    },
+    {
+      "added_at": "2025-04-11 04:00:17",
+      "album": {
+        "name": "Album of the Year #1 Funkateer",
+        "url": "https://open.spotify.com/album/14LLyABuzaQgTmCKwNy8S8"
+      },
+      "artists": [
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "Fantaazma",
+          "url": "https://open.spotify.com/artist/2PSnVa4aT9bntUbGmLAa0V"
+        },
+        {
+          "name": "Brother Nature",
+          "url": "https://open.spotify.com/artist/3tmXdtreR3DBXX5TLv4kda"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "Bubble Pop",
+      "url": "https://open.spotify.com/track/4ENaj59K6Wjm6AzBTX9bvv"
     },
     {
       "added_at": "2025-03-28 04:00:27",
@@ -983,30 +1011,6 @@
       "duration_ms": 209248,
       "name": "STEP BY STEP",
       "url": "https://open.spotify.com/track/0IORRm54p9PaFUejiXdjxB"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Album of the Year #1 Funkateer",
-        "url": "https://open.spotify.com/album/6JWmvgSevSOBTuUtUmSJqK"
-      },
-      "artists": [
-        {
-          "name": "Bootsy Collins",
-          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
-        },
-        {
-          "name": "Bootdullivan",
-          "url": "https://open.spotify.com/artist/2BJ9wQSxjoHLm4jjeR3goW"
-        },
-        {
-          "name": "Myra Washington",
-          "url": "https://open.spotify.com/artist/4ajqCfjC2IXQds6NlmKQVp"
-        }
-      ],
-      "duration_ms": 255746,
-      "name": "Album of the Year #1 Funkateer",
-      "url": "https://open.spotify.com/track/7DzAcPjNMTXjygZixhmTZy"
     },
     {
       "added_at": "2024-05-17 04:01:00",

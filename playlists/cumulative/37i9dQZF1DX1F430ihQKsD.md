@@ -4,7 +4,7 @@
 
 > La scène musicale montréalaise au premier plan\. Photo: Men I Trust
 
-576 songs - 1 day 9 hr 0 min
+578 songs - 1 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [An Introduction](https://open.spotify.com/track/544zLRnG6aYLUWan8XWlkp) | [Mimo](https://open.spotify.com/artist/3eIJIZKEFoBYxr8A12M00k) | [An Introduction](https://open.spotify.com/album/2tWhEALTbr4KFkuI3TZ17d) | 2:26 | 2022-03-25 | 2023-04-01 |
 | [Animal \(feat\. Geoffroy\)](https://open.spotify.com/track/19DnkdlcmVu9IKotPQ7KIz) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN), [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Animal](https://open.spotify.com/album/4ueHmbivLZuyx2aHmRy8kz) | 4:36 | 2022-03-25 | 2022-08-06 |
 | [Anyway, Mommy Love](https://open.spotify.com/track/3rKIdoC3bgM6UoiRQvvDdi) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Anyway, Mommy Love](https://open.spotify.com/album/6y6NiIQExhEXbvWo4LIe0k) | 3:11 | 2023-10-27 | 2024-05-04 |
+| [Ari](https://open.spotify.com/track/6pE3yQ8dBQNDOdUs7dMnsa) | [Édouard Tremblay\-Grenier](https://open.spotify.com/artist/6renDkf9cZYkI2TX5SKD4X) | [Ari](https://open.spotify.com/album/6oW6cEZMm901BlM7CznAtI) | 2:26 | 2025-04-11 |  |
 | [Artificial Genuine](https://open.spotify.com/track/2dT9WvXLGizL5Oz4CsJLT9) | [Jane Penny](https://open.spotify.com/artist/3LgeMxdrjCnZIHB8VoFhcd) | [Surfacing](https://open.spotify.com/album/2ER1TDjFLnhzAk0zKqVl5p) | 3:36 | 2024-04-05 |  |
 | [Arène](https://open.spotify.com/track/2XM74PW22MJ6vEGruNXHjD) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Arène](https://open.spotify.com/album/3isZboZjEieVd3j5DqYNQp) | 3:05 | 2024-04-26 | 2024-10-12 |
 | [Arène](https://open.spotify.com/track/5AgWg6qG7Q0tEPpoHfyUFJ) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Déjà](https://open.spotify.com/album/0ImCalqqaJI0rh6XiAfDOf) | 3:05 | 2024-12-04 | 2025-01-14 |
@@ -433,6 +434,7 @@
 | [Problems](https://open.spotify.com/track/0dUAg2LZLrYvB1q5Wj08CN) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Problems](https://open.spotify.com/album/6hKzrZJrhTnQhU8pJGBBXB) | 3:03 | 2024-10-11 | 2024-12-05 |
 | [Problems](https://open.spotify.com/track/0m0GqfU5a1WiwwNoBeuFKE) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Problems](https://open.spotify.com/album/1u740mc7ZaYtAtDTc8Z39U) | 3:03 | 2024-12-04 | 2025-01-14 |
 | [Prochain épilogue](https://open.spotify.com/track/0uPA83Y6CifPnSZbCgXGsC) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Prochain épilogue](https://open.spotify.com/album/4GudmwIXgfYDoZ5Db5wWZx) | 3:31 | 2022-09-30 | 2022-10-22 |
+| [PROLLY US](https://open.spotify.com/track/0MrC4TPiI18N38Ga7Cl4qO) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Chèlbè](https://open.spotify.com/album/4vKup5g5YoD5blHlYdvy5p) | 2:31 | 2025-04-11 |  |
 | [Ps and Qs](https://open.spotify.com/track/49c3ghupXboG64IVbVuIp2) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI) | [Ps and Qs](https://open.spotify.com/album/6LeSdivNwiztFmvNTpQZGe) | 2:10 | 2024-08-23 | 2024-10-26 |
 | [Puppy](https://open.spotify.com/track/01sURX8cx2KhgUgNFKKLAg) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:55 | 2023-08-25 | 2023-09-30 |
 | [Pénélope](https://open.spotify.com/track/6igMBCYzoJWpYr79Rmpw1q) | [Narcisse](https://open.spotify.com/artist/1GY5zIB9GwQQcjruxXLfCN) | [Pénélope](https://open.spotify.com/album/3lefVAjXnsOGHtuFnJr2V9) | 4:25 | 2022-04-22 | 2022-05-20 |
@@ -444,7 +446,7 @@
 | [Real Love](https://open.spotify.com/track/3AEJ9PoZEC6ovIv9rZy7aI) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Une semaine à Paris](https://open.spotify.com/album/0bCd5P38zFjnlTYD6j569u) | 3:34 | 2023-11-17 |  |
 | [Redcup](https://open.spotify.com/track/4qzwmA5yyAaMQgezGFJhRu) | [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8), [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [Redcup](https://open.spotify.com/album/2JqC8e1k92ih07yaSzq8Yx) | 2:41 | 2022-11-25 | 2023-12-02 |
 | [Remparts](https://open.spotify.com/track/07AEDh8Ad6Ss60K1sWY15w) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Tout est parfait : acte un](https://open.spotify.com/album/1wVbEyyTPcnfFjawWBDjJC) | 3:20 | 2022-05-06 | 2022-10-08 |
-| [Rendez\-vous](https://open.spotify.com/track/4xc65AcTrsOvciwZCqGrtG) | [Gazoline](https://open.spotify.com/artist/0jmQKrs8Mir77PffQBo0Jt) | [Rendez\-vous](https://open.spotify.com/album/72Bq6erz2D2ieZQuvVvj1D) | 3:01 | 2023-10-27 |  |
+| [Rendez\-vous](https://open.spotify.com/track/4xc65AcTrsOvciwZCqGrtG) | [Gazoline](https://open.spotify.com/artist/0jmQKrs8Mir77PffQBo0Jt) | [Rendez\-vous](https://open.spotify.com/album/72Bq6erz2D2ieZQuvVvj1D) | 3:01 | 2023-10-27 | 2025-04-12 |
 | [Rendez\-vous](https://open.spotify.com/track/5KYF2blNXgss2n0k04Fyzu) | [Gazoline](https://open.spotify.com/artist/0jmQKrs8Mir77PffQBo0Jt) | [Rendez\-vous](https://open.spotify.com/album/3nQvTXgdKu3FHLFiuqwUky) | 3:01 | 2023-11-10 | 2023-11-20 |
 | [Rendez\-vous](https://open.spotify.com/track/7GnSDCNpVIE9gJGWYow58K) | [Gazoline](https://open.spotify.com/artist/0jmQKrs8Mir77PffQBo0Jt) | [Gazoline III \(Deluxe\)](https://open.spotify.com/album/4uTqrqLcH4OABXRQGappdF) | 3:01 | 2023-11-17 | 2024-04-19 |
 | [Rewind](https://open.spotify.com/track/4Rh1JpJKMPOJ75SIfVIqMJ) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Rewind](https://open.spotify.com/album/2ESrlKHxZ9dCK6f1gSCSSv) | 3:20 | 2022-03-25 | 2022-04-09 |
@@ -539,7 +541,7 @@
 | [Trompe\-l'oeil](https://open.spotify.com/track/1dYcCuAw9dBtc2eGZ490hc) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Trompe\-l'oeil](https://open.spotify.com/album/6cuvswbgSkYojNo21x3Sjy) | 2:55 | 2024-04-19 |  |
 | [Trou d'eau](https://open.spotify.com/track/3eocwmTmeW2hA2fvhgpmo5) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Grafignes](https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl) | 3:17 | 2022-08-26 | 2023-09-23 |
 | [Tu as le droit](https://open.spotify.com/track/7u0YtyBqNQ5qg3vAFjBqU3) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 3:13 | 2022-06-10 | 2022-08-27 |
-| [Tu T'en Souviens \- A COLORS SHOW](https://open.spotify.com/track/0Q5rXLOF7NxSfiNE9xEtuc) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Tu T'en Souviens \- A COLORS SHOW](https://open.spotify.com/album/76RFXXmVwMd7VpAwb2dpIR) | 2:52 | 2023-10-13 |  |
+| [Tu T'en Souviens \- A COLORS SHOW](https://open.spotify.com/track/0Q5rXLOF7NxSfiNE9xEtuc) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Tu T'en Souviens \- A COLORS SHOW](https://open.spotify.com/album/76RFXXmVwMd7VpAwb2dpIR) | 2:52 | 2023-10-13 | 2025-04-12 |
 | [Two \(2\) Little Mountains](https://open.spotify.com/track/6FqKatWR2tNugWFod9T9Vk) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Two \(2\) Little Mountains](https://open.spotify.com/album/5teUs0YI544K9Anr5IjKqf) | 2:12 | 2024-09-13 | 2024-10-26 |
 | [Tôt ou tard](https://open.spotify.com/track/0JYJz0PGXsAgxe5sOZfCSf) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Pêle\-mêle](https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw) | 3:57 | 2022-03-25 | 2022-09-03 |
 | [Umami \(edit\)](https://open.spotify.com/track/0N2efiVO6AXws1R4O8Rhhs) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Umami \(edit\)](https://open.spotify.com/album/4UxataWu6cEL0ihgfkFl4i) | 2:51 | 2022-03-25 | 2022-05-07 |

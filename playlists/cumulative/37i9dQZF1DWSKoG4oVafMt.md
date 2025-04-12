@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Diljit Dosanjh and Neeru Bajwa
 
-1,053 songs - 2 day 8 hr 50 min
+1,054 songs - 2 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [Kamle](https://open.spotify.com/track/5uNm77aBEuopKbTF7YiS89) | [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s), [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM) | [Kamle](https://open.spotify.com/album/3KDTdujphlEgheFK4JNqMu) | 3:39 | 2022-03-16 | 2022-04-06 |
 | [Kangana](https://open.spotify.com/track/2hQ9Vp3f9eOU2ynadCssjW) | [Abeer Arora](https://open.spotify.com/artist/03OyUdw7Xh6XC249YPXWUR) | [Kangana](https://open.spotify.com/album/7di7ujp5QZBz8ugDAMk9qN) | 3:42 | 2021-12-02 | 2022-02-05 |
 | [Kangana](https://open.spotify.com/track/2LfB4hVV9gsdF3SKHHvlJb) | [Armaan Bedil](https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3) | [Bai Ji Kuttange](https://open.spotify.com/album/1qQ2P1w2BtNz17goJxqeFK) | 2:37 | 2022-08-05 | 2022-08-18 |
+| [Kangna Kangna](https://open.spotify.com/track/5FX40EluUftq8MpHiob6dd) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs), [The Boss](https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH) | [Kangna Kangna](https://open.spotify.com/album/2xfJYxcPazPyhaJ8zNV7So) | 2:44 | 2025-04-11 |  |
 | [Kanniya](https://open.spotify.com/track/6m2emUf9qCXzWrgVEzztlE) | [Nav Sandhu](https://open.spotify.com/artist/7s8fmhe8tVbA8cxnDAPExg) | [Kanniya](https://open.spotify.com/album/4wVLRcQ8rT2d2pbMNbIscX) | 3:10 | 2022-08-04 | 2022-08-18 |
 | [Karnatak](https://open.spotify.com/track/1fpm535dpP2FE04dr0weOr) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Karnatak](https://open.spotify.com/album/48h04qqiaZTcXdw0pHkk1G) | 2:31 | 2025-03-05 |  |
 | [Kasad](https://open.spotify.com/track/64hOgvQsUKAcrzzq0eFCzU) | [Jasbir Jassi](https://open.spotify.com/artist/2wmT2Bx63mrFKMYGQieYi3) | [Kasad](https://open.spotify.com/album/3HxTQLqjTvr6AISqjPOHdt) | 5:11 | 2022-02-07 | 2022-02-12 |
@@ -737,7 +738,7 @@
 | [Qafira](https://open.spotify.com/track/2yE543074fy9yQlCZgYb4P) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Saajz](https://open.spotify.com/artist/2a2ivn274wtLKBnjDYa07b), [Paras Chhabra](https://open.spotify.com/artist/0nXpSLjOlS1x3tkceC07Xr), [Mahira Sharma](https://open.spotify.com/artist/0o5cnfOKpV0THKVRD0HwBO) | [Qafira](https://open.spotify.com/album/4dfn3T0oQIu4rZuJLPz7ua) | 3:58 | 2022-10-28 | 2022-12-16 |
 | [Qaid](https://open.spotify.com/track/6FVA4ByYR7Pr5DZu1BVX8H) | [Sony Dhaliwal](https://open.spotify.com/artist/6FD9Ilq8AMNw9TBttNxDTw) | [Qaid](https://open.spotify.com/album/0FtNpPcLUE9clSDX4XOEW6) | 2:24 | 2022-02-04 | 2022-02-12 |
 | [Qareeb \- From "Mera Baba Nanak"](https://open.spotify.com/track/0zXtHShexjiAQHeMem1MOf) | [Amar Jalal](https://open.spotify.com/artist/2zZ39d8KJqwu7TkF4dEh03), [Manpal singh](https://open.spotify.com/artist/2PEI7maTESwCaV0r77RDjb), [Hasanvir Chahal](https://open.spotify.com/artist/0YgGhI5xgzfr9EDGFMYBXL) | [Qareeb \(From "Mera Baba Nanak"\)](https://open.spotify.com/album/0tZbKhJ3UH10aNLYxESiHv) | 3:12 | 2023-05-12 | 2023-10-10 |
-| [Qudrat](https://open.spotify.com/track/2TKyGcwlH0tYI1kjPl6gyq) | [Harsh Gill](https://open.spotify.com/artist/6rtvW5uZnd5LCXr0fACokq), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ) | [Qudrat](https://open.spotify.com/album/1cwmU1gU6btZT8T8E3FReU) | 3:12 | 2025-03-05 |  |
+| [Qudrat](https://open.spotify.com/track/2TKyGcwlH0tYI1kjPl6gyq) | [Harsh Gill](https://open.spotify.com/artist/6rtvW5uZnd5LCXr0fACokq), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ) | [Qudrat](https://open.spotify.com/album/1cwmU1gU6btZT8T8E3FReU) | 3:12 | 2025-03-05 | 2025-04-12 |
 | [QUEEN](https://open.spotify.com/track/6RwJPJVrPqi734Rg8syWFM) | [A Kay](https://open.spotify.com/artist/4ZPiabRclxJHc90C0eY8xh) | [QUEEN](https://open.spotify.com/album/1XhqqmtDLfZPh2BiJYygcc) | 3:42 | 2022-05-04 | 2022-05-11 |
 | [Queen](https://open.spotify.com/track/4xgtIHxjxYP33N4KBiTQay) | [Tera Sahib](https://open.spotify.com/artist/0r5sAOkjWfAbTbev99azaS) | [Queen](https://open.spotify.com/album/4FOXrgqdNcFI4AgxmyZVoC) | 2:51 | 2022-01-27 | 2022-02-01 |
 | [Raah](https://open.spotify.com/track/06SSvSFz7Bu1WXVw42M9lN) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Way Maker](https://open.spotify.com/album/3LgutfrQ1qA1wt09i9JpB0) | 3:33 | 2022-02-17 | 2022-04-29 |

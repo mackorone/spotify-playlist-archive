@@ -2,9 +2,9 @@
 
 ### [RAPública Inca](https://open.spotify.com/playlist/37i9dQZF1DX70Gho9vXY44)
 
-> Desde la Sierra hasta el mar, Perú es una tierra de rimas y rap\. Foto: Gonzalo Genek, Daske Gaitán
+> Desde la Sierra hasta el mar, Perú es una tierra de rimas y rap\. Foto: A.C.O
 
-108 songs - 6 hr 24 min
+109 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Odiándome](https://open.spotify.com/track/43GEvvO9x01V6c4eOuy8Xg) | [Daske Gaitán](https://open.spotify.com/artist/6X4iDmQtuCcuyILe3D00E6), [Anghell](https://open.spotify.com/artist/72jQJCoJsDjwxYCLUCHYwI), [Reies](https://open.spotify.com/artist/3IHXeq6SrmgnAc2T8NPhJx) | [Odiándome](https://open.spotify.com/album/3DDR4ZRoSHuw06O2XP0yZh) | 2:51 | 2022-08-26 |  |
 | [Olvidémonos](https://open.spotify.com/track/139v1V3FmBtRl6JzZXThoX) | [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Olvidémonos](https://open.spotify.com/album/2Z3Sr04hEC4GhH7QiogJV1) | 3:17 | 2022-08-26 |  |
 | [Origami](https://open.spotify.com/track/6n2RaleAqgTa8Lxo9nigf7) | [Estrato Social](https://open.spotify.com/artist/2ODDVsH2Lfveu3qJDARvk2) | [Escritura Automática](https://open.spotify.com/album/61L7p4EuDxFvOn82c7JiXU) | 3:18 | 2022-08-26 |  |
-| [Pasando las Horas](https://open.spotify.com/track/1w0JO2wY2r26gXmSHGv73W) | [Janice](https://open.spotify.com/artist/7htGdWrkFD78VQOKRbCyh8) | [Pasando las Horas](https://open.spotify.com/album/3gDvoRouNZc8zBBzu40c3h) | 2:46 | 2023-11-24 |  |
+| [Parte del proceso](https://open.spotify.com/track/2P0M1N1uFQkLoMPAI8Df53) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Parte del proceso](https://open.spotify.com/album/1TXVwMBcD0qPAE7wyvnkoz) | 3:05 | 2025-04-11 |  |
+| [Pasando las Horas](https://open.spotify.com/track/1w0JO2wY2r26gXmSHGv73W) | [Janice](https://open.spotify.com/artist/7htGdWrkFD78VQOKRbCyh8) | [Pasando las Horas](https://open.spotify.com/album/3gDvoRouNZc8zBBzu40c3h) | 2:46 | 2023-11-24 | 2025-04-12 |
 | [Pasando las Horas](https://open.spotify.com/track/7MSz1eDbAHC1Gec2bktwWK) | [Janice](https://open.spotify.com/artist/7htGdWrkFD78VQOKRbCyh8) | [Pasando las Horas](https://open.spotify.com/album/2WuGgXOih9xQYEZRndYf9h) | 2:46 | 2022-08-26 | 2024-04-19 |
 | [Pensándote](https://open.spotify.com/track/1K4MmbuBViyd8VBQ0t8DbV) | [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI) | [Pensándote](https://open.spotify.com/album/4Cva4Z9dBDFpwgLuH9Zfnx) | 3:19 | 2022-08-26 |  |
 | [Plan A](https://open.spotify.com/track/3YHNQW3RnOJRo1ifGbQyW9) | [Temple Sour](https://open.spotify.com/artist/1s5qi7koTDNSvEC71Y3Jg3), [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Plan A](https://open.spotify.com/album/2w79SS5PfcMgrk47WUDHk6) | 3:59 | 2022-08-26 |  |

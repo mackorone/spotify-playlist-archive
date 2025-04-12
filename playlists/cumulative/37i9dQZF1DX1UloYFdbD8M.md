@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: The Down Troddence
 
-305 songs - 19 hr 48 min
+306 songs - 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Chekele](https://open.spotify.com/track/0hVxx4yyDgx6kkhXEpLqeT) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Archana Mohan Iyer](https://open.spotify.com/artist/28aw8AhOzmnkmx07DqMkFX) | [Chekele](https://open.spotify.com/album/7Ma2OjPf1ZUR2cAsEVYT18) | 3:27 | 2022-07-28 | 2023-07-28 |
 | [Chekuthan](https://open.spotify.com/track/5Zoe8tHOVTMOzeapdpQeYL) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh) | [Chekuthan](https://open.spotify.com/album/0HH6caLXMV6xudGoXkFn9q) | 2:48 | 2022-12-22 | 2024-06-08 |
 | [Chekuthan \(Reprise\)](https://open.spotify.com/track/6N0Z9weSdoXUzL0wbqQD4h) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh) | [Chekuthan \(Reprise\)](https://open.spotify.com/album/6Qz3dfZLUwwyvzd6JHxUPa) | 1:40 | 2022-09-06 | 2023-07-28 |
-| [CHENGAAIMAAR](https://open.spotify.com/track/5lty7EPSLJaiFX24QQbbYa) | [MBL\_](https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z), [ABRAW](https://open.spotify.com/artist/2MAFVN4H9fnFcLlPYb1T6L) | [CHENGAAIMAAR](https://open.spotify.com/album/67ggQcHgJFnBxxOIioaMvz) | 3:01 | 2024-10-08 |  |
+| [CHENGAAIMAAR](https://open.spotify.com/track/5lty7EPSLJaiFX24QQbbYa) | [MBL\_](https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z), [ABRAW](https://open.spotify.com/artist/2MAFVN4H9fnFcLlPYb1T6L) | [CHENGAAIMAAR](https://open.spotify.com/album/67ggQcHgJFnBxxOIioaMvz) | 3:01 | 2024-10-08 | 2025-04-12 |
 | [Chiripaatu](https://open.spotify.com/track/049lmlc3unN6EyPyTcmmHe) | [Varkey](https://open.spotify.com/artist/3lGO2vlBKprFARQoF8BjEI), [Gopikrishnan S Kurup](https://open.spotify.com/artist/3pNvwcpWqhSxLDAc65GCWp) | [Chiripaatu](https://open.spotify.com/album/2kJGjzcGpZE9vgyv3CKmAu) | 4:00 | 2023-10-10 | 2024-07-13 |
 | [Chiriye Chiriye](https://open.spotify.com/track/3cFiMWOmoBPnv8bCsKj75O) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Chiriye Chiriye](https://open.spotify.com/album/5w4BOdik9aFINcA9tHsT6X) | 4:31 | 2023-06-19 | 2023-07-28 |
 | [Cholo Shobe](https://open.spotify.com/track/1aAbhV2Uh5moXwQlmB0KJE) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Charles Nazareth](https://open.spotify.com/artist/6WwI4tkjZWIS5ZvXa3mkUU) | [Cholo Shobe](https://open.spotify.com/album/1qxtuJfULK55SUCWMDiZY0) | 4:13 | 2024-04-26 | 2025-02-19 |
@@ -201,6 +201,7 @@
 | [Nin Mukham](https://open.spotify.com/track/5saGm4ThnJxgtliYLUIdYV) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Arun Alat](https://open.spotify.com/artist/5OlyzvlgJPRnzj4nZSgSwW) | [Nin Mukham](https://open.spotify.com/album/065esGl1GbCWdqSgU2kq51) | 4:20 | 2023-05-18 | 2023-07-28 |
 | [Nin Peru Entha](https://open.spotify.com/track/0FyKI6iz2TOmoIRrg4RRdJ) | [Teejay](https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q), [Geethiyaa Varman](https://open.spotify.com/artist/2E9wl9bV29g6klARlECHsy) | [Nin Peru Entha](https://open.spotify.com/album/671on1d6WwmQn6GUDuy3lc) | 4:12 | 2024-06-07 | 2024-10-01 |
 | [NISHANI](https://open.spotify.com/track/7ku3rPm8SXmRRaI6x3GGBa) | [Rishi Roy](https://open.spotify.com/artist/1CPC6yBRVnK1WxibuqwNNH), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc) | [NISHANI](https://open.spotify.com/album/5YGg7k9HioYHeUDJtms8k7) | 2:48 | 2024-06-14 |  |
+| [NIZHAL](https://open.spotify.com/track/0QcDTA18Y2xsgBz3HBxefL) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [NIZHAL](https://open.spotify.com/album/0sxwiQKE0wbXnY00pe73sv) | 4:05 | 2025-04-11 |  |
 | [Nizhalaay](https://open.spotify.com/track/556HeEIoL40Dp6ciUcZ2Pf) | [Dins George](https://open.spotify.com/artist/6l460ivmL177cdAsVzQz1Q) | [Nizhalaay](https://open.spotify.com/album/5IopDVaCsbGr5PinWfdq9D) | 4:40 | 2024-08-20 |  |
 | [Nizhalattam](https://open.spotify.com/track/3pjXqo5XpSTAiiqFJ7pwP9) | [Madhuvanthi Narayan](https://open.spotify.com/artist/2uKITbMInpFKYeI9ll9fv8) | [Nizhalattam](https://open.spotify.com/album/2YGwnh3gkg79QjDWkxEcju) | 3:40 | 2024-07-26 | 2025-01-14 |
 | [Njan Evide](https://open.spotify.com/track/08jUw3FwSDHbiG3JCTApUD) | [Anurag Vinod](https://open.spotify.com/artist/1A6anyCbedTpsecKOWxPgy), [m.cnan](https://open.spotify.com/artist/012VXrXmrn0tN8aN8AAc5A), [Sinsiha](https://open.spotify.com/artist/2CYKtGApU77sXioXyfd96E) | [Njan Evide](https://open.spotify.com/album/05ML1jG68YmNtTB9NqLaxX) | 3:34 | 2024-04-22 | 2025-02-07 |

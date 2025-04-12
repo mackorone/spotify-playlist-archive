@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Oki
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,410 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,487 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 11 | [NIE MA CB \(PRZY MNIE TU\)](https://open.spotify.com/track/6VUFiHo3hE3ZAyIAkQOyol) | [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC), [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Kaptur](https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd) | [NIE MA CB \(PRZY MNIE TU\)](https://open.spotify.com/album/2ZBuaxJT22uoSJdsJEOmiw) | 3:33 |
 | 12 | [NIE LUBIĘ LA](https://open.spotify.com/track/4oVZPft4hJJ53TYOupeEG2) | [Jan\-Rapowanie](https://open.spotify.com/artist/43yekIowVCHkR6TGGg9gSp), [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ), [Zeppy Zep](https://open.spotify.com/artist/2hnyMG1DuXarlHFJDITc3n) | [NIE LUBIĘ LA / PIEKŁO](https://open.spotify.com/album/2EjunUC9yj6yRhPoablziG) | 3:15 |
 | 13 | [Brak Ciebie](https://open.spotify.com/track/2S8919madQpV2djGxDJTFZ) | [Opał](https://open.spotify.com/artist/28WXX79U4jzq1kfjx5QXPy), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Połączenia 1.5](https://open.spotify.com/album/4IIOl37HLxfTaxjD6sa5hQ) | 2:41 |
-| 14 | [Zugzwang](https://open.spotify.com/track/48ra6RKFemGogk07CWJaGg) | [Bardal](https://open.spotify.com/artist/1wb1K9VIqbfdavYI0PZwKR), [rów babicze](https://open.spotify.com/artist/7G7Cn1swPVhPV4V3PNNXP1) | [Zugzwang](https://open.spotify.com/album/7g53809t7okJ4saAOFcHcy) | 2:54 |
+| 14 | [Zugzwang](https://open.spotify.com/track/48ra6RKFemGogk07CWJaGg) | [Bardal](https://open.spotify.com/artist/1wb1K9VIqbfdavYI0PZwKR), [rów babicze](https://open.spotify.com/artist/7G7Cn1swPVhPV4V3PNNXP1), [FANTØM](https://open.spotify.com/artist/3txITmpi5Y5yUnangRGPn5) | [Zugzwang](https://open.spotify.com/album/7g53809t7okJ4saAOFcHcy) | 2:54 |
 | 15 | [sam na świecie](https://open.spotify.com/track/1qrKOwtEG7Zf74pD95vty3) | [Kuban](https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [sam na świecie](https://open.spotify.com/album/16WkrHyUv3U8QvZaFaA0AL) | 3:09 |
 | 16 | [NIENAWIDZĘ BYĆ W KLUBIE](https://open.spotify.com/track/126sCXH3zr18kbHlKit0sX) | [GOMBAO 33](https://open.spotify.com/artist/52vstSwpIEImkm06cG6kJD), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Wyguś](https://open.spotify.com/artist/0wOt8jeUJ5usZySUWYa1KZ), [Tadeo](https://open.spotify.com/artist/6EFSZTPDOBeFxoznzL0aTb), [Szczepan](https://open.spotify.com/artist/5beSF8YlCK4dml6zRZOHN7) | [NIENAWIDZĘ BYĆ W KLUBIE](https://open.spotify.com/album/2zeFY1lBaN1pm0FIQ5sQEk) | 2:44 |
 | 17 | [OGIEŃ](https://open.spotify.com/track/1gVRJ4OPdMngjynsQv9kdO) | [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [PAUZA](https://open.spotify.com/album/1htdVUm1OFV3m0ypjUg2AV) | 3:21 |

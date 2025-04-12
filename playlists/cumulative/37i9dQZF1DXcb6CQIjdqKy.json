@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: TAYA",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Cory Asbury",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 236785,
       "name": "1000 Names",
       "url": "https://open.spotify.com/track/740a4rwTRLEUTRP0Z1iwVL"
+    },
+    {
+      "album": {
+        "name": "TYTANIUM 2",
+        "url": "https://open.spotify.com/album/1AeJyskKeWh1m7R2noeNNi"
+      },
+      "artists": [
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "2010",
+      "url": "https://open.spotify.com/track/3qpxke8vQQEfpN3ahn5COP"
     },
     {
       "album": {
@@ -1388,7 +1406,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 328583,
       "name": "Be Love",
       "url": "https://open.spotify.com/track/6m6Zq0JcdPWIW49G51VKml"
@@ -3400,7 +3418,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 192182,
       "name": "Deeper Still",
       "url": "https://open.spotify.com/track/36DMRazAVFwDTbclQTGsWY"
@@ -5631,6 +5649,24 @@
     },
     {
       "album": {
+        "name": "Good For Nothing",
+        "url": "https://open.spotify.com/album/1zRobWXPx0e1cDbHihNfGR"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208226,
+      "name": "Good For Nothing",
+      "url": "https://open.spotify.com/track/3VgboIL9HZRZN9umNXAV7r"
+    },
+    {
+      "album": {
         "name": "God's Favourite Baby",
         "url": "https://open.spotify.com/album/6tIEth6WoH5RhYFvsMN2wF"
       },
@@ -7620,7 +7656,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 208653,
       "name": "How Could I Not Believe",
       "url": "https://open.spotify.com/track/201fonFKfnKHzveCvrD5K6"
@@ -8736,6 +8772,28 @@
       "duration_ms": 206340,
       "name": "If It Ain't You",
       "url": "https://open.spotify.com/track/0Z02IxwKZaQRqF7skH1YXV"
+    },
+    {
+      "album": {
+        "name": "If It Was Up To Me",
+        "url": "https://open.spotify.com/album/784ErOIk2KcqMfeXsurkyD"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194264,
+      "name": "If It Was Up To Me",
+      "url": "https://open.spotify.com/track/3yLmdxMxuXSjCrTBu7fXcw"
     },
     {
       "album": {
@@ -10158,7 +10216,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 179252,
       "name": "Lay Down (Safe & Sound)",
       "url": "https://open.spotify.com/track/1vjcfpxVT6jIv6W834hIiQ"
@@ -16039,6 +16097,24 @@
     },
     {
       "album": {
+        "name": "Stand In Your Love",
+        "url": "https://open.spotify.com/album/0hKhv4kTw4CHqcQsxGTCBn"
+      },
+      "artists": [
+        {
+          "name": "7eventh Time Down",
+          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222408,
+      "name": "Stand In Your Love",
+      "url": "https://open.spotify.com/track/7kNzdlOYkZo3qqs53eUoin"
+    },
+    {
+      "album": {
         "name": "START AGAIN",
         "url": "https://open.spotify.com/album/5JSKAiL91po3N9ondgSFY1"
       },
@@ -16242,6 +16318,24 @@
       "duration_ms": 240566,
       "name": "Strongholds",
       "url": "https://open.spotify.com/track/5ciUxkJBtUkkR7KwvwJUyH"
+    },
+    {
+      "album": {
+        "name": "stuck in these clouds",
+        "url": "https://open.spotify.com/album/3837grpUl9bPxIzU9IRixe"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213627,
+      "name": "stuck in these clouds",
+      "url": "https://open.spotify.com/track/4GbQJWf4dMDgAvTAPft96X"
     },
     {
       "album": {
@@ -17812,7 +17906,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 192613,
       "name": "The Memory",
       "url": "https://open.spotify.com/track/0wCbt2OooGJIWAccsP2MpL"

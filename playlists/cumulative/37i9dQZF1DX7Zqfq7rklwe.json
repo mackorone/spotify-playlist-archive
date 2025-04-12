@@ -521,6 +521,24 @@
     },
     {
       "album": {
+        "name": "Bullshit",
+        "url": "https://open.spotify.com/album/0z7CdOXnxXHc2t4J2bWFxc"
+      },
+      "artists": [
+        {
+          "name": "Shiraz Lane",
+          "url": "https://open.spotify.com/artist/0TTu3zbvW4iFfls1GDbyGk"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233723,
+      "name": "Bullshit",
+      "url": "https://open.spotify.com/track/1R68TlNOuu6ERdjQv1Rmsx"
+    },
+    {
+      "album": {
         "name": "By a Monster\u2019s Hand",
         "url": "https://open.spotify.com/album/1v2xwYDX1DPiIqIR4mKJxV"
       },
@@ -738,7 +756,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 181728,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/6WDvC93R0bGzD5Ffj4pyAG"
@@ -1766,6 +1784,24 @@
       "duration_ms": 247680,
       "name": "Kylie",
       "url": "https://open.spotify.com/track/2hq1XgYec0eejLFiDnytUY"
+    },
+    {
+      "album": {
+        "name": "Lachryma",
+        "url": "https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276400,
+      "name": "Lachryma",
+      "url": "https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa"
     },
     {
       "album": {
@@ -2928,6 +2964,24 @@
       "duration_ms": 263266,
       "name": "Sleeping My Day Away",
       "url": "https://open.spotify.com/track/5pUUbkb7pDgq1V2WDmU1b8"
+    },
+    {
+      "album": {
+        "name": "Smash It Like Belushi",
+        "url": "https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168554,
+      "name": "Smash It Like Belushi",
+      "url": "https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz"
     },
     {
       "album": {

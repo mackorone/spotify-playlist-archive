@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-1,175 songs - 2 day 18 hr 21 min
+1,176 songs - 2 day 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -657,7 +657,7 @@
 | [באמפרים](https://open.spotify.com/track/3FihyZ7YA7vrNiSUfWww10) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe) | [באמפרים](https://open.spotify.com/album/68jOubWGq2KpQexGxt6lP6) | 2:27 | 2024-05-31 |  |
 | [באנו חושך לגרש](https://open.spotify.com/track/6oOmpBInMQ3uOzgfRB4Z71) | [100 First Songs' Participants](https://open.spotify.com/artist/7nAL6HRisO90oRTDWIF2IC) | [100 שירים ראשונים \(חלק ב\)](https://open.spotify.com/album/7r5rhny3Cns5TiiHYpOPBl) | 0:53 | 2021-11-30 | 2023-12-10 |
 | [באתי להציל אותך](https://open.spotify.com/track/6SuC1LItQ9V9SjET2EvvtD) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i), [שחר סאול](https://open.spotify.com/artist/46KxKVpK7XNqlkdi5oiMxE) | [באתי להציל אותך](https://open.spotify.com/album/2KS3eItXsWb5mrgzG7yfA8) | 3:07 | 2021-11-10 | 2023-04-07 |
-| [בואי נדבר](https://open.spotify.com/track/354YT2zYO1GpAmf10xXiZf) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [גן עדן של משוגעים](https://open.spotify.com/album/1z4NNBMaEcckhcPQLcAZwZ) | 2:52 | 2024-08-15 |  |
+| [בואי נדבר](https://open.spotify.com/track/354YT2zYO1GpAmf10xXiZf) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [גן עדן של משוגעים](https://open.spotify.com/album/1z4NNBMaEcckhcPQLcAZwZ) | 2:52 | 2024-08-15 | 2025-04-12 |
 | [בואי נדבר](https://open.spotify.com/track/3IiaTxdKgDe9NvmosLM8bM) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [בואי נדבר](https://open.spotify.com/album/75MDW0r1GEJ8G5WNgldzoo) | 2:52 | 2023-11-13 | 2024-08-16 |
 | [בואי נישן על זה](https://open.spotify.com/track/4N8FwcfRTju02qsgn9Mcl8) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [בואי נישן על זה](https://open.spotify.com/album/1DYS80MaK2Ll2JJkdBOT5B) | 2:22 | 2022-04-16 | 2022-11-06 |
 | [בובה](https://open.spotify.com/track/6m6oaAugKIwqZpLhqtOXMX) | [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn) | [בובה](https://open.spotify.com/album/34QC2WFPIqwoaoUcsCflix) | 3:07 | 2023-02-27 | 2023-03-14 |
@@ -855,7 +855,7 @@
 | [לא הצלחתי לישון הלילה](https://open.spotify.com/track/1OG0xpEijf2r9hUvECb5t1) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx), [Ohad Cohen](https://open.spotify.com/artist/1wikLb9m2ZiHI2EoGh4kbv) | [הדרך לשביל הזהב](https://open.spotify.com/album/2LxdQMZNXkbyCJm83GltRy) | 1:04 | 2025-01-11 | 2025-01-15 |
 | [לא להיות לבד](https://open.spotify.com/track/16tcNezkJ5VETVDVC4m7gj) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [לא להיות לבד](https://open.spotify.com/album/0k6UX8ZPGWtQ0ilP6r6knR) | 3:00 | 2021-10-23 | 2022-07-14 |
 | [לא להיות לבד](https://open.spotify.com/track/3R07e1YzlIJATTjA3aT0Et) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [לא להיות לבד](https://open.spotify.com/album/4Np2OvJnHaEdZiosQLMQJd) | 3:00 | 2022-07-13 | 2022-08-18 |
-| [לא לפנות אליי](https://open.spotify.com/track/42jtELiUhOQ9hiWjPyV0ih) | [Nasrin Kadri](https://open.spotify.com/artist/6kKweapGufuHSv5CXVURim) | [לא לפנות אליי](https://open.spotify.com/album/3ThuGcYgtumB29FDqbJsmA) | 2:46 | 2025-01-15 | 2025-04-11 |
+| [לא לפנות אליי](https://open.spotify.com/track/42jtELiUhOQ9hiWjPyV0ih) | [Nasrin Kadri](https://open.spotify.com/artist/6kKweapGufuHSv5CXVURim) | [לא לפנות אליי](https://open.spotify.com/album/3ThuGcYgtumB29FDqbJsmA) | 2:46 | 2025-01-15 |  |
 | [לא מרגיש טוב](https://open.spotify.com/track/686FdlEzrYCttdUAFByYhI) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [לא מרגיש טוב](https://open.spotify.com/album/3bdYTqXYcqvOW36agrX804) | 2:40 | 2021-12-03 | 2022-02-13 |
 | [לא נרגע](https://open.spotify.com/track/3u2kyAe7mj38p6ETztE5mP) | [Avihai Hollender](https://open.spotify.com/artist/7xdmWLAYEUMdYhgoYMZge1) | [לא נרגע](https://open.spotify.com/album/4ORqv9AlK35BYbO9SZTMSF) | 3:17 | 2023-01-13 | 2023-01-16 |
 | [לא שומעת \(Prod\. by Triangle\)](https://open.spotify.com/track/6CbXdfNyGnHf8hxFR5cAxD) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [לא שומעת \(Prod\. by Triangle\)](https://open.spotify.com/album/3nxNC2KSRt306Go8ELMh87) | 2:53 | 2023-03-29 | 2023-04-12 |
@@ -911,6 +911,7 @@
 | [מגבת באוויר](https://open.spotify.com/track/0w4e9A0KryKlPySPdyZQDC) | [NOROZ](https://open.spotify.com/artist/0rj0bYZWazgyJ3hZTDKQHD), [Ido B & Zooki](https://open.spotify.com/artist/5tTTzKBRrO8fTWrBjD1rd2) | [מרגיש מוגזם](https://open.spotify.com/album/3oWxkXhf7JsyvNw07BCCOi) | 2:51 | 2021-12-15 | 2022-03-15 |
 | [מגבת באוויר](https://open.spotify.com/track/7qCwgzeZQbNp6VHt9wz8i7) | [NOROZ](https://open.spotify.com/artist/0rj0bYZWazgyJ3hZTDKQHD), [Ido B & Zooki](https://open.spotify.com/artist/5tTTzKBRrO8fTWrBjD1rd2) | [מגבת באוויר](https://open.spotify.com/album/5vuSfhLOx4QU4kPMeLBK2U) | 2:51 | 2021-10-17 | 2021-12-15 |
 | [מגדלים](https://open.spotify.com/track/5nYFRLTLrqiETyy6LUPfhQ) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe) | [מגדלים](https://open.spotify.com/album/4I1R7WUWt5wAIbaw9NXKvk) | 2:34 | 2024-07-16 |  |
+| [מגנט](https://open.spotify.com/track/4BnqGasQmJZsFDsrTymuth) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [מגנט](https://open.spotify.com/album/1xIx3xa7So8zW7BnRGCHhQ) | 3:00 | 2025-04-11 |  |
 | [מדברים בשקט \(מתוך חזרות למופע NEXT\)](https://open.spotify.com/track/6tldCcfbfXkLApFllqab7S) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Idan Raichel](https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1) | [מדברים בשקט \(מתוך חזרות למופע NEXT\)](https://open.spotify.com/album/7M011HPciFztEdlXkJNzZ3) | 4:20 | 2022-12-10 | 2023-02-23 |
 | [מדליקה לי הכל](https://open.spotify.com/track/0FQ7tcdBk5d9s7juYV2QQj) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [מדליקה לי הכל](https://open.spotify.com/album/0Q13028sIQEmreai21rM4N) | 3:24 | 2021-10-30 | 2021-12-07 |
 | [מדליקה לי הכל](https://open.spotify.com/track/7rNA5Jwu23g7PaXcMwfLdq) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אלבום 2](https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE) | 3:24 | 2021-12-07 | 2023-05-11 |
@@ -1171,7 +1172,7 @@
 | [תמיד שלך](https://open.spotify.com/track/6i2SQujw0VIv4LPkF5oFqB) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [תמיד שלך](https://open.spotify.com/album/1Z1HDlBUvh8iS8N3vEwSpS) | 2:53 | 2022-06-26 | 2023-01-22 |
 | [תן לי את האששש](https://open.spotify.com/track/2v8ZRDPqR7s7KDt1QQ57hx) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [תן לי את האששש](https://open.spotify.com/album/6YjrY3pKZAhn323wnFvfE5) | 2:47 | 2024-12-11 |  |
 | [תן לי תפילה](https://open.spotify.com/track/2biQCM9i8PaFYVEYyVkn31) | [שמואל](https://open.spotify.com/artist/2HTxp63G47uFSTqQ5urmbU) | [תן לי תפילה](https://open.spotify.com/album/493G2YlzQqNP6czOoAxfv4) | 3:03 | 2024-10-12 | 2024-10-14 |
-| [תסביכים קשים](https://open.spotify.com/track/1hLd6flq2cPLvH2Xraimbu) | [שירז אברהם](https://open.spotify.com/artist/7o5IkQicos4SrXeny1LOZr) | [תסביכים קשים](https://open.spotify.com/album/6tJIOkFAGaCfJS1AwSq4Ip) | 2:29 | 2024-09-25 |  |
+| [תסביכים קשים](https://open.spotify.com/track/1hLd6flq2cPLvH2Xraimbu) | [שירז אברהם](https://open.spotify.com/artist/7o5IkQicos4SrXeny1LOZr) | [תסביכים קשים](https://open.spotify.com/album/6tJIOkFAGaCfJS1AwSq4Ip) | 2:29 | 2024-09-25 | 2025-04-12 |
 | [תסתכלי לי בעיניים](https://open.spotify.com/track/608OV8cDjzTcps2Owz654F) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [זוכר כמעט הכל](https://open.spotify.com/album/7pCmKsaPbMIcqoRPKo8PHm) | 3:18 | 2024-01-10 | 2024-01-12 |
 | [תראי אהובתי](https://open.spotify.com/track/6uCZdJ3p3hrfi6mRKVtt7k) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אושר](https://open.spotify.com/album/0mqMqD84CEJAQIaHYLggLr) | 3:16 | 2023-02-10 | 2024-03-20 |
 | [תרקדי \(7.10.23\)](https://open.spotify.com/track/0CBpvL8Z0NRdazbJ4HDm9M) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [תרקדי \(7.10.23\)](https://open.spotify.com/album/1qjiaeASOpQs4MJbc5k3of) | 5:00 | 2023-11-02 | 2024-10-10 |

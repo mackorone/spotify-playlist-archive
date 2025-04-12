@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,659 likes - 189 songs - 10 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,659 likes - 188 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,15 +187,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 177 | [Denim](https://open.spotify.com/track/4qqkeoa2AygTR5qTYzRwuO) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Coloured](https://open.spotify.com/album/0tmicByUrXQoXVP9NIL8NF) | 3:24 |
 | 178 | [Different Color](https://open.spotify.com/track/4szP6ScOP2FSm14Zask3II) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Coloured](https://open.spotify.com/album/0tmicByUrXQoXVP9NIL8NF) | 3:03 |
 | 179 | [You Shaped Box](https://open.spotify.com/track/43a3MpvnkjagLlyYiLF5fA) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Coloured](https://open.spotify.com/album/0tmicByUrXQoXVP9NIL8NF) | 2:47 |
-| 180 | [Westside Finale](https://open.spotify.com/track/7gGLdZDCA6UatSsbCEUExD) | [Westside Cast](https://open.spotify.com/artist/5Z6UnrTHG7YbOsdHAkZdOw) | [Westside: The Music \(Music from the Original Series\)](https://open.spotify.com/album/4z57sC26Xxv1CdURc6mfru) | 7:12 |
-| 181 | [Land of the Free](https://open.spotify.com/track/0U6CHJWiERNgOgRfc8Infn) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Coloured](https://open.spotify.com/album/0tmicByUrXQoXVP9NIL8NF) | 5:07 |
-| 182 | [Crazy Queen](https://open.spotify.com/track/387fhMqT1iPfUaJcMbfFSW) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [a girl a bottle a boat \(Japan Version\)](https://open.spotify.com/album/31zRd2FLpDk5AjknKd5Ys2) | 3:16 |
-| 183 | [In Love](https://open.spotify.com/track/3kgxoIxhSa1BA1GxPUAG7J) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Anthology](https://open.spotify.com/album/4xVzLBLJcAn5gwFeeFsk9c) | 2:21 |
-| 184 | [I Still Believe](https://open.spotify.com/track/0a8L216lriftGVDLUhv2Oj) | [John F\. Klaver](https://open.spotify.com/artist/3DucFQMQZsqOiU1zvnpEfy) | [The Edge](https://open.spotify.com/album/48nilW9rVuGWdPZRZQk3OL) | 6:30 |
-| 185 | [Good As Gold](https://open.spotify.com/track/1SyX9JVlQzq20Ghz5CdYEF) | [J Breeze212](https://open.spotify.com/artist/1rozAIxl6lh1cPcs2t8qVK), [Trump Wong](https://open.spotify.com/artist/6sqYc7yVG8iyhgwPkrw3K8) | [Good As Gold](https://open.spotify.com/album/2ndTr1MBGsOJajsj9sgAWA) | 3:05 |
-| 186 | [Je veux chanter / Réflection](https://open.spotify.com/track/021xtR1qq7nSkMOz0Bleq5) | [Nicole Martin](https://open.spotify.com/artist/34FvDxviSSJGPpSYDbqJpK) | [Laissez moi chanter](https://open.spotify.com/album/4zqprAtgtImMGqg8YDxKi2) | 7:54 |
-| 187 | [Bi Polar](https://open.spotify.com/track/7bGpmO50tBC3pRBl4iIjly) | [Phillips](https://open.spotify.com/artist/0fGlytfhhIc0FpMtADAf2K) | [Up the Bass](https://open.spotify.com/album/4xjejt0o3teDn6rcDqOFZQ) | 5:51 |
-| 188 | [Baby](https://open.spotify.com/track/12EWwkENdDeYKBKoSnrdHy) | [La Raza](https://open.spotify.com/artist/4R1yzQAL5bHx3W9lolczDX) | [Oye Mami](https://open.spotify.com/album/3Moh4BcMYZjhbX2Gp9FV4B) | 3:47 |
-| 189 | [My Story](https://open.spotify.com/track/2tTo9XjcHzHwdLJeDP6iu4) | [Larry Love Hamilton](https://open.spotify.com/artist/2fSyvGlnBJjq1I5MzuDAn5) | [American Music Down South](https://open.spotify.com/album/6ReRYWg5Suore6KvgmLyfc) | 4:50 |
+| 180 | [Land of the Free](https://open.spotify.com/track/0U6CHJWiERNgOgRfc8Infn) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Coloured](https://open.spotify.com/album/0tmicByUrXQoXVP9NIL8NF) | 5:07 |
+| 181 | [Crazy Queen](https://open.spotify.com/track/387fhMqT1iPfUaJcMbfFSW) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [a girl a bottle a boat \(Japan Version\)](https://open.spotify.com/album/31zRd2FLpDk5AjknKd5Ys2) | 3:16 |
+| 182 | [In Love](https://open.spotify.com/track/3kgxoIxhSa1BA1GxPUAG7J) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Anthology](https://open.spotify.com/album/4xVzLBLJcAn5gwFeeFsk9c) | 2:21 |
+| 183 | [I Still Believe](https://open.spotify.com/track/0a8L216lriftGVDLUhv2Oj) | [John F\. Klaver](https://open.spotify.com/artist/3DucFQMQZsqOiU1zvnpEfy) | [The Edge](https://open.spotify.com/album/48nilW9rVuGWdPZRZQk3OL) | 6:30 |
+| 184 | [Good As Gold](https://open.spotify.com/track/1SyX9JVlQzq20Ghz5CdYEF) | [J Breeze212](https://open.spotify.com/artist/1rozAIxl6lh1cPcs2t8qVK), [Trump Wong](https://open.spotify.com/artist/6sqYc7yVG8iyhgwPkrw3K8) | [Good As Gold](https://open.spotify.com/album/2ndTr1MBGsOJajsj9sgAWA) | 3:05 |
+| 185 | [Je veux chanter / Réflection](https://open.spotify.com/track/021xtR1qq7nSkMOz0Bleq5) | [Nicole Martin](https://open.spotify.com/artist/34FvDxviSSJGPpSYDbqJpK) | [Laissez moi chanter](https://open.spotify.com/album/4zqprAtgtImMGqg8YDxKi2) | 7:54 |
+| 186 | [Bi Polar](https://open.spotify.com/track/7bGpmO50tBC3pRBl4iIjly) | [Phillips](https://open.spotify.com/artist/0fGlytfhhIc0FpMtADAf2K) | [Up the Bass](https://open.spotify.com/album/4xjejt0o3teDn6rcDqOFZQ) | 5:51 |
+| 187 | [Baby](https://open.spotify.com/track/12EWwkENdDeYKBKoSnrdHy) | [La Raza](https://open.spotify.com/artist/4R1yzQAL5bHx3W9lolczDX) | [Oye Mami](https://open.spotify.com/album/3Moh4BcMYZjhbX2Gp9FV4B) | 3:47 |
+| 188 | [My Story](https://open.spotify.com/track/2tTo9XjcHzHwdLJeDP6iu4) | [Larry Love Hamilton](https://open.spotify.com/artist/2fSyvGlnBJjq1I5MzuDAn5) | [American Music Down South](https://open.spotify.com/album/6ReRYWg5Suore6KvgmLyfc) | 4:50 |
 
-Snapshot ID: `AbubygAAAABYmaEd7HnsBnuBieY7l3M4`
+Snapshot ID: `AbuhfgAAAADiFAIwctL/caz1yCAMqlR2`

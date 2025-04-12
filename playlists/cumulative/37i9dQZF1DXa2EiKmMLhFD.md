@@ -2,7 +2,7 @@
 
 ### [Hot Hits Indonesia](https://open.spotify.com/playlist/37i9dQZF1DXa2EiKmMLhFD)
 
-> Hits terpanas dari Maher Zain, Harris J,  NIKI serta artis terfavorit Anda dari dalam negeri dan mancanegara.
+> Hits terpanas dari NIKI, Faris Adam serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
 310 songs - 19 hr 18 min
 

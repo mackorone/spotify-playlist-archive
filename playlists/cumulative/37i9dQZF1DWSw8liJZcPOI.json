@@ -176,7 +176,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-06",
+      "date_removed": null,
       "duration_ms": 176250,
       "name": "4nine",
       "url": "https://open.spotify.com/track/6Vv6v5zjW5rAiSlpEVQxjy"
@@ -194,7 +194,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 333105,
       "name": "7th Symphony Elegy",
       "url": "https://open.spotify.com/track/1k0l1jirmTpJ6ceJv6ubAI"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-02",
+      "date_removed": null,
       "duration_ms": 198901,
       "name": "acceptances",
       "url": "https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD"
@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 237706,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/01U5Cbupt4k0pbef8kDi7H"
@@ -1494,7 +1494,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 343893,
       "name": "Bird's Tail - Slow Meadow Rework",
       "url": "https://open.spotify.com/track/4fuukOE5mmxGBvnxm2kJQj"
@@ -1796,7 +1796,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 145500,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/5MC9eD8alc4LwxAmhrOfF9"
@@ -1962,7 +1962,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 175178,
       "name": "Campfire",
       "url": "https://open.spotify.com/track/0qdMoqCqqmKo1V3NAuoWRM"
@@ -1988,6 +1988,24 @@
       "duration_ms": 164320,
       "name": "Candle Flickers (feat. Peter Gregson) - Adagio",
       "url": "https://open.spotify.com/track/7H1jV49w6b5xTPT6LojVOw"
+    },
+    {
+      "album": {
+        "name": "Canton",
+        "url": "https://open.spotify.com/album/5w9c6kAouFX6I1mrdVVpYf"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325479,
+      "name": "Canton",
+      "url": "https://open.spotify.com/track/4MLZUtTBE5eTu7Gv54pPZn"
     },
     {
       "album": {
@@ -2140,7 +2158,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 182836,
       "name": "Chasing the Present",
       "url": "https://open.spotify.com/track/0XJq2OGUGCNXq3FfAFL4dw"
@@ -2457,6 +2475,24 @@
     },
     {
       "album": {
+        "name": "Peter Gregson",
+        "url": "https://open.spotify.com/album/2gjmSThMoQbhYHmnw73iXX"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302090,
+      "name": "Constellation",
+      "url": "https://open.spotify.com/track/2dDdqvGvf6uJUDoSwHOkoZ"
+    },
+    {
+      "album": {
         "name": "Old Friends New Friends",
         "url": "https://open.spotify.com/album/6kczD163sXLW0Z8P42laJ6"
       },
@@ -2486,7 +2522,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 244919,
       "name": "Corn",
       "url": "https://open.spotify.com/track/7jH6HaPyBRL2SH1AvzVe6h"
@@ -2700,7 +2736,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 211013,
       "name": "Despair, Light",
       "url": "https://open.spotify.com/track/55vvvRHlfFqR66NUDUxFLI"
@@ -2812,7 +2848,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 278435,
       "name": "Don\u2019t Walk Alone",
       "url": "https://open.spotify.com/track/1h91XWq9tdjGGPZLUX0sss"
@@ -3058,7 +3094,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-26",
+      "date_removed": null,
       "duration_ms": 215030,
       "name": "D\u2019un vieux Jardin (Snorri Hallgr\u00edmsson Rework)",
       "url": "https://open.spotify.com/track/6LGkEuLVrk8LJbuO5Ys5En"
@@ -3548,7 +3584,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 352181,
       "name": "Etude No.12 (XA4 Remix)",
       "url": "https://open.spotify.com/track/4FYOsrACpgx1zu5qQjcQFo"
@@ -3920,7 +3956,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 386718,
       "name": "Flight from the City - V\u00edkingur \u00d3lafsson Rework",
       "url": "https://open.spotify.com/track/4eaBCGk2bT1spf1CruumMy"
@@ -3976,7 +4012,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 1369525,
       "name": "Flow State 22",
       "url": "https://open.spotify.com/track/0E9NGd4NMBF93UBzrEv7u5"
@@ -4162,7 +4198,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 414255,
       "name": "Forest Path",
       "url": "https://open.spotify.com/track/0lAdbtwKnf92FXD5p5N03h"
@@ -4762,7 +4798,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 299441,
       "name": "Hafursey (Yfir)",
       "url": "https://open.spotify.com/track/5udjrF9hYfxle7lnSiOgTC"
@@ -5340,7 +5376,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 175500,
       "name": "In Memory Of A Honey Bee",
       "url": "https://open.spotify.com/track/0ZTQntkek3PSvpPI1qTxFu"
@@ -5636,7 +5672,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-24",
+      "date_removed": null,
       "duration_ms": 186206,
       "name": "j\u00f3l",
       "url": "https://open.spotify.com/track/20EbRpoBHXpiofYllZD3Hz"
@@ -6898,7 +6934,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 253026,
       "name": "Nearer - solo piano",
       "url": "https://open.spotify.com/track/0W7s30iwtHTCrD7IYbJR9s"
@@ -7056,7 +7092,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 342399,
       "name": "Night Feet",
       "url": "https://open.spotify.com/track/3rjdmftFeSqdcYAibVOFO3"
@@ -7248,7 +7284,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 240810,
       "name": "Notturno",
       "url": "https://open.spotify.com/track/2jNfLVjnFpP9x1WdOfHErx"
@@ -7376,7 +7412,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 266160,
       "name": "Ocelli",
       "url": "https://open.spotify.com/track/2WOrvP152lDJKuzmS75WEi"
@@ -7460,7 +7496,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 408480,
       "name": "Off the Rails - Live",
       "url": "https://open.spotify.com/track/0dHOX3Qq8d02ghAwaLu2lr"
@@ -7942,7 +7978,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 285711,
       "name": "pause (almost equal to) play",
       "url": "https://open.spotify.com/track/4LB8iSej8QryIZ3Vk0XNmS"
@@ -8034,6 +8070,36 @@
       "duration_ms": 384518,
       "name": "Piano Piece 1952 - Version 2",
       "url": "https://open.spotify.com/track/4skiwoFHGqI7oF7JkpLr7N"
+    },
+    {
+      "album": {
+        "name": "Pieces of Wood: III",
+        "url": "https://open.spotify.com/album/3DTH6RyTH4Radg7XaDsEEB"
+      },
+      "artists": [
+        {
+          "name": "Oliver Davis",
+          "url": "https://open.spotify.com/artist/3BRizPspINkIYljgzP1x6J"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Julian Kershaw",
+          "url": "https://open.spotify.com/artist/7rO9aeXffLJgawjhuFek0k"
+        },
+        {
+          "name": "Kerenza Peacock",
+          "url": "https://open.spotify.com/artist/2oWyRS6YfCVoVKl50eBsAq"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168333,
+      "name": "Pieces of Wood: III",
+      "url": "https://open.spotify.com/track/4s07pjALnom4zRAA500c4s"
     },
     {
       "album": {
@@ -9374,7 +9440,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 245500,
       "name": "Spirit Loop",
       "url": "https://open.spotify.com/track/059WDHaxZOePXJAxn8gazv"
@@ -9404,7 +9470,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 352213,
       "name": "Spiritus Naturae Aeternus - Single Edit",
       "url": "https://open.spotify.com/track/4lUNFLNSshaNIQs6CzpmJA"
@@ -9702,7 +9768,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 374662,
       "name": "Still Blue",
       "url": "https://open.spotify.com/track/6qrRrLT4NGgnhjF0Ur4JnD"
@@ -10010,7 +10076,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 193560,
       "name": "Sweetest Rain",
       "url": "https://open.spotify.com/track/5h5DB4kg20Z4WOqHWUOm2J"
@@ -10046,7 +10112,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 250263,
       "name": "S\u00f8ndermarken - Video Edit",
       "url": "https://open.spotify.com/track/2GMSzm2ZRK4aZSVEhd1LM2"
@@ -10180,7 +10246,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 276000,
       "name": "The Darkest Descent - Edit",
       "url": "https://open.spotify.com/track/1bYqDhtK08QT3f0CjHqgwi"
@@ -10470,7 +10536,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 191042,
       "name": "The Plover and the Raven",
       "url": "https://open.spotify.com/track/5y3yUHsEpbpVyJxahMBUrk"
@@ -11440,7 +11506,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 223793,
       "name": "VIRGO \u201cThe Perfectionist\u201d",
       "url": "https://open.spotify.com/track/0AnQvSyfdR5D9XdDQgDWCG"
@@ -11462,7 +11528,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 187500,
       "name": "Virus et Homo",
       "url": "https://open.spotify.com/track/7n4v5eCnoDsG7FMqJlC9Jk"
@@ -11790,7 +11856,7 @@
       ],
       "date_added": "2021-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 145333,
       "name": "Where Do We Go from Here",
       "url": "https://open.spotify.com/track/1X0X6BC5drvd3cnh3bCrXf"
@@ -12226,7 +12292,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 255737,
       "name": "Zima - Niklas Paschburg Rework",
       "url": "https://open.spotify.com/track/0iLPZUz5EE5I3IGlHfeS5w"

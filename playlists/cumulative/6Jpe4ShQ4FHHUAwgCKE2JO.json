@@ -625,6 +625,24 @@
     },
     {
       "album": {
+        "name": "The Best of 2Pac",
+        "url": "https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344200,
+      "name": "Resist The Temptation",
+      "url": "https://open.spotify.com/track/2MYy0p8fjsfwmlIe3EafUj"
+    },
+    {
+      "album": {
         "name": "Swords",
         "url": "https://open.spotify.com/album/2oTWDmzqeri1WOvpSH5J4g"
       },

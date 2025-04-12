@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Descer e os funks mais 🔑 do Brasil\. Foto: Kew, DJ LK da Escócia
+> Descer e os funks mais 🔑 do Brasil\. Foto: DJ CZ, MC Mito, DJ TS, MC Pogba
 
 342 songs - 20 hr 28 min
 

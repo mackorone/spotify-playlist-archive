@@ -1,12 +1,12 @@
 {
   "description": "Ahmet Hatipo\u011flu ve haftan\u0131n en iyi \u00e7\u0131k\u0131\u015flar\u0131!",
-  "num_followers": 265558,
+  "num_followers": 266031,
   "original_name": "New Music Friday T\u00fcrkiye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/gxZwAAAADi9EXdDOgCbfaUd4tnyoMv",
+  "snapshot_id": "Z/jN+gAAAACURjXYvKWMPyMeCspw/g9Z",
   "tracks": [
     {
       "added_at": "2025-04-10 21:00:23",
@@ -152,12 +152,12 @@
           "url": "https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf"
         },
         {
-          "name": "Avie",
-          "url": "https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i"
-        },
-        {
           "name": "Batuflex",
           "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        },
+        {
+          "name": "Avie",
+          "url": "https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i"
         }
       ],
       "duration_ms": 144696,
@@ -211,26 +211,6 @@
       "duration_ms": 197647,
       "name": "Ne Y\u00fcz\u00fcm G\u00fcl\u00fcyor",
       "url": "https://open.spotify.com/track/4MZUpPc8QH9V8HnFdHzpr9"
-    },
-    {
-      "added_at": "2025-04-10 21:00:23",
-      "album": {
-        "name": "TOUCH\u00c9",
-        "url": "https://open.spotify.com/album/4iD6uPh3j7fPoPQrmhJIif"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
-        }
-      ],
-      "duration_ms": 173445,
-      "name": "TOUCH\u00c9",
-      "url": "https://open.spotify.com/track/0hQqfUxxTVwYW172Ble1oD"
     },
     {
       "added_at": "2025-04-10 21:00:23",
@@ -572,9 +552,29 @@
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 180550,
+      "duration_ms": 181448,
       "name": "Legends (with Lil Baby)",
       "url": "https://open.spotify.com/track/4LRxmoIbLJDcvEhqFgSF29"
+    },
+    {
+      "added_at": "2025-04-10 21:00:23",
+      "album": {
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 156721,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
     },
     {
       "added_at": "2025-04-10 21:00:23",
@@ -643,6 +643,22 @@
       "duration_ms": 127521,
       "name": "NE FARK EDER",
       "url": "https://open.spotify.com/track/3PbJKmaa7XWhp2vyqTXxFL"
+    },
+    {
+      "added_at": "2025-04-10 21:00:23",
+      "album": {
+        "name": "Ge\u00e7mi\u015fe G\u00f6md\u00fcm Ac\u0131lar\u0131m\u0131",
+        "url": "https://open.spotify.com/album/3H68tl3VLomu5EUOOxksKH"
+      },
+      "artists": [
+        {
+          "name": "DEMET ELLOO",
+          "url": "https://open.spotify.com/artist/4KscXPzH57nCckPGRKLY6F"
+        }
+      ],
+      "duration_ms": 171515,
+      "name": "Ge\u00e7mi\u015fe G\u00f6md\u00fcm Ac\u0131lar\u0131m\u0131",
+      "url": "https://open.spotify.com/track/0KHSpu0uCtTlLRKAnKFa7Q"
     },
     {
       "added_at": "2025-04-10 21:00:23",
@@ -1383,7 +1399,7 @@
     {
       "added_at": "2025-04-10 21:00:23",
       "album": {
-        "name": "Nas\u0131l Bakacaks\u0131n?",
+        "name": "Nas\u0131l Bakacakt\u0131n?",
         "url": "https://open.spotify.com/album/1fLE4UnZgzaS5kfFXq2yKU"
       },
       "artists": [
@@ -1393,7 +1409,7 @@
         }
       ],
       "duration_ms": 129836,
-      "name": "Nas\u0131l Bakacaks\u0131n?",
+      "name": "Nas\u0131l Bakacakt\u0131n?",
       "url": "https://open.spotify.com/track/60UqAFKheZvVMxE5wvpR37"
     },
     {

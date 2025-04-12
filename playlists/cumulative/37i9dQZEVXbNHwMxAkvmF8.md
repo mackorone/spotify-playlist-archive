@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-1,487 songs - 3 day 6 hr 27 min
+1,488 songs - 3 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [Exit sign](https://open.spotify.com/track/6aPlaAulFrfU1gbwKwI4B9) | [Ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM), [highbaby](https://open.spotify.com/artist/6Wr4wd4rhVjujRKtaBeS33) | [Sose Alszok](https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy) | 3:01 | 2023-04-08 | 2023-04-11 |
 | [EyEy](https://open.spotify.com/track/2TdN8vYZq8GlEFzY5l2xsc) | [ALEE](https://open.spotify.com/artist/0HtJHszzuucFjA33hHBJrT) | [EyEy](https://open.spotify.com/album/6gGAomFkvNRjm0WmXA2vfO) | 2:28 | 2021-11-10 | 2022-01-11 |
 | [Ez a lány](https://open.spotify.com/track/3hmsw6g9TyMmYN43Rd49uM) | [G.w.M.](https://open.spotify.com/artist/51o7b8jVB4q5U9qy41aYwJ), [L.L\. Junior](https://open.spotify.com/artist/5p7375Uu77pbTS3n9ErHtV) | [Ez a lány](https://open.spotify.com/album/066ped9g1QLtFRDEfOm14b) | 3:16 | 2022-01-22 | 2022-02-08 |
+| [EZ AZ ÁRA](https://open.spotify.com/track/1SJ3lXp7ea455khYf6zqOU) | [Moriones](https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ) | [TENEBRIS](https://open.spotify.com/album/6UZvZUNDOE81n2c03ePjce) | 3:02 | 2025-04-11 |  |
 | [EZ AZ ÁRA](https://open.spotify.com/track/5qWtMSb8VZuwAuHKO6a2f0) | [Moriones](https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ) | [TENEBRIS](https://open.spotify.com/album/6un7zvCf4huzN80JrmUr5J) | 3:02 | 2024-08-31 | 2024-12-06 |
 | [EZ AZ ÁRA](https://open.spotify.com/track/6yTX00Aj6tqE5WNSFCB9DZ) | [Moriones](https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ) | [EZ AZ ÁRA](https://open.spotify.com/album/2Yq1EgoRmXaTXjk7blZU96) | 3:02 | 2024-08-17 | 2024-09-01 |
 | [Ezer Nap](https://open.spotify.com/track/0O7OMf2G1OCYtGntK9XsvH) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [ByeAlex](https://open.spotify.com/artist/5yfu9LXNlb3GvbZGROjmAj) | [EZER NAP](https://open.spotify.com/album/2sdrLFENQ7qtygveNHMxel) | 3:23 | 2023-12-29 | 2023-12-31 |
@@ -1375,7 +1376,7 @@
 | [VAN HARAG](https://open.spotify.com/track/78kccOls0P0nkQj4TsNjeP) | [Elefánt](https://open.spotify.com/artist/5XXDBFhkTp168rjq9IjAE3) | [VAN HARAG](https://open.spotify.com/album/6zbYUWbOfQN5DhRKR2Qqcw) | 3:07 | 2024-04-27 | 2024-04-29 |
 | [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 | 2025-03-08 | 2025-03-10 |
 | [VATIKÁN](https://open.spotify.com/track/1ENhzwb5rJjQLY80N7cwlV) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [PRIORITÁS](https://open.spotify.com/album/2F9dzVRZbMNvwKCR8sGPRm) | 2:56 | 2025-04-04 | 2025-04-07 |
-| [VERSENY](https://open.spotify.com/track/3Ej9MaTXoEHlAclVCtccA2) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [VERSENY](https://open.spotify.com/album/7BoGRMEz5YVBClZMGzn3Sv) | 2:21 | 2025-03-28 |  |
+| [VERSENY](https://open.spotify.com/track/3Ej9MaTXoEHlAclVCtccA2) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [VERSENY](https://open.spotify.com/album/7BoGRMEz5YVBClZMGzn3Sv) | 2:21 | 2025-03-28 | 2025-04-12 |
 | [Vezetői Engedély](https://open.spotify.com/track/0fY8YdsEhwdE2VdYc8tRlN) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Digitális/Analóg](https://open.spotify.com/album/3Esc3QxtrJhGTB1CWvl2sA) | 3:10 | 2022-03-12 | 2022-03-15 |
 | [VEZÉREGYÉNISÉG](https://open.spotify.com/track/0dSkwXX1PZ9mb2O26V68bZ) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [Dan Pinto](https://open.spotify.com/artist/5Bg0nn9wJutwmaNhhld2Xw) | [0](https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf) | 1:49 | 2024-03-09 | 2024-03-17 |
 | [viadal](https://open.spotify.com/track/4kRnFRvg8mFFJFFlxJ9FLW) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [skatulya I](https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw) | 3:05 | 2024-04-19 | 2024-06-03 |

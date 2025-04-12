@@ -2,9 +2,9 @@
 
 ### [es funk y el cuerpo lo sabe 🇧🇷](https://open.spotify.com/playlist/37i9dQZF1DXd96wQHeeDYo)
 
-> Tu táta tu tatá..\. el beat funk de Brasil para el mundo\. Baile bonito con Tokischa y Papatinho
+> Tu táta tu tatá..\. el beat funk de Brasil para el mundo\. Baile bonito con Nathy Peluso y Pabllo Vittar
 
-198 songs - 8 hr 48 min
+199 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Estoy Aquí \- Remix](https://open.spotify.com/track/5Q8BwdHedbwWnyC9Trm6mj) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Estoy Aquí \(Remix\)](https://open.spotify.com/album/2Y16weFTT9GBB8BfbhQKiy) | 2:39 | 2025-01-31 |  |
 | [Everything is romantic](https://open.spotify.com/track/5sMEEjviCkH6Rp5X2ZvIIc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 | 2024-06-07 | 2025-01-15 |
 | [Fale Então](https://open.spotify.com/track/6ZhMxiXukvTSZyWdy64sgj) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Fale Então](https://open.spotify.com/album/0ZrHY6dWuWT0Nv7PfNaZXG) | 1:56 | 2025-02-21 |  |
+| [Fantasía](https://open.spotify.com/track/5PCIZcn6hKrMA8fmtRoX7Z) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Fantasía](https://open.spotify.com/album/2LbRBxToUXzFJjPMApnOAQ) | 2:29 | 2025-04-11 |  |
 | [Fanático](https://open.spotify.com/track/2f2CU0j1OrjoP8otmx8eoM) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Welcome To Córdoba City](https://open.spotify.com/album/475EGaBnVDjgGIjbhKPPvv) | 3:21 | 2023-12-15 | 2024-03-16 |
 | [Favela](https://open.spotify.com/track/3fwV3Xdykj9ymzTEvVco52) | [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV), [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs) | [Favela](https://open.spotify.com/album/71hi3dEgUxpg5ERcSpRg8O) | 2:39 | 2024-03-15 | 2024-05-25 |
 | [Fever](https://open.spotify.com/track/0ADr2jDuHvK77uIJWTKTvs) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 1:27 | 2024-02-09 |  |
@@ -152,7 +153,7 @@
 | [Rara Vez](https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [Rara Vez](https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF) | 2:08 | 2023-11-29 |  |
 | [Recreo](https://open.spotify.com/track/2mSUkuDPzK8XVRA3cyRBnu) | [MACO](https://open.spotify.com/artist/0XerM4yoGja0adi5ohB8Lm) | [Recreo](https://open.spotify.com/album/3ru5vyOdcoxVeTxVxxDpuw) | 3:17 | 2024-10-25 | 2025-02-01 |
 | [Romantique](https://open.spotify.com/track/6OB5LW24nU5Jdjj1FuOuQj) | [St\-Prince](https://open.spotify.com/artist/4l9XlDeGxPJgWnF7OoEpgC) | [Romantique & Propaganda](https://open.spotify.com/album/52NucKNQk0IF5OPwVbLZSJ) | 2:30 | 2024-04-26 | 2024-06-01 |
-| [rosa](https://open.spotify.com/track/6zC0YD7pqW2mxaPRVmZUsV) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [DJ SAZE](https://open.spotify.com/artist/2HrKTpCwAnIHz39mXoaNot) | [rosa](https://open.spotify.com/album/14mOjMFqyAMRK0ra94MLEt) | 1:50 | 2024-10-25 |  |
+| [rosa](https://open.spotify.com/track/6zC0YD7pqW2mxaPRVmZUsV) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [DJ SAZE](https://open.spotify.com/artist/2HrKTpCwAnIHz39mXoaNot) | [rosa](https://open.spotify.com/album/14mOjMFqyAMRK0ra94MLEt) | 1:50 | 2024-10-25 | 2025-04-12 |
 | [Saia Mini](https://open.spotify.com/track/383AaDYkagb6VGEdjYwFQ0) | [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3), [Scarp](https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei), [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Saia Mini](https://open.spotify.com/album/7HsoEEOmV8xHsjyJ5sA1a9) | 2:47 | 2025-01-31 | 2025-02-22 |
 | [Se Armó La Peda](https://open.spotify.com/track/48eey3rJEMC2eQvVn6Cd6k) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [Se Armó La Peda](https://open.spotify.com/album/5sLjhIYq6Fl3HdbR976mwZ) | 2:26 | 2024-08-26 | 2024-10-05 |
 | [Se Fue](https://open.spotify.com/track/0mKhtoSpTyJGnmdKWcVwJf) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3) | [Baúl 2](https://open.spotify.com/album/1euVCsaWFIYeWwbXfZUSHh) | 3:05 | 2023-12-15 | 2024-01-13 |

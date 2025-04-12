@@ -1,6 +1,6 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 138343,
+  "num_followers": 138349,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "All Comes Crashing",
-        "url": "https://open.spotify.com/album/7uOTYWH3RBce6YFD7hRnvY"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        }
-      ],
-      "duration_ms": 263080,
-      "name": "All Comes Crashing",
-      "url": "https://open.spotify.com/track/1gKLWryPONC9dyrx5fX3Dr"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "The Lightning I, II",
         "url": "https://open.spotify.com/album/5CW1F2qtnEt9lNaRSZlbHr"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 154893,
       "name": "The Lightning II",
       "url": "https://open.spotify.com/track/4hgobGfWedCMII3bdualzM"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "All Comes Crashing",
+        "url": "https://open.spotify.com/album/7uOTYWH3RBce6YFD7hRnvY"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "duration_ms": 263080,
+      "name": "All Comes Crashing",
+      "url": "https://open.spotify.com/track/1gKLWryPONC9dyrx5fX3Dr"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "A Hero's Death",
-        "url": "https://open.spotify.com/album/6ARt0EbzNHFKBaie6WrBNd"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 233626,
-      "name": "A Lucid Dream",
-      "url": "https://open.spotify.com/track/7egz7bbHGeQP32mcO3DxnI"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "It's Still Cool If You Don't",
         "url": "https://open.spotify.com/album/2IunAIq4FrNDFwqe4DmvoU"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 237413,
       "name": "It's Still Cool If You Don't",
       "url": "https://open.spotify.com/track/1WfnPoIGJ4ea2O8JlbGQkp"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "A Hero's Death",
+        "url": "https://open.spotify.com/album/6ARt0EbzNHFKBaie6WrBNd"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 233626,
+      "name": "A Lucid Dream",
+      "url": "https://open.spotify.com/track/7egz7bbHGeQP32mcO3DxnI"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "The Ceiling / Border (CH. III)",
-        "url": "https://open.spotify.com/album/5iznNh84frPAAx1fLffZa4"
+        "name": "En Tu Orilla",
+        "url": "https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0"
       },
       "artists": [
         {
-          "name": "Lewis Del Mar",
-          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 174240,
-      "name": "The Ceiling",
-      "url": "https://open.spotify.com/track/6EprgVYMTXhotXNEBi4qr2"
+      "duration_ms": 205175,
+      "name": "En Tu Orilla",
+      "url": "https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -923,18 +923,18 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "En Tu Orilla",
-        "url": "https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0"
+        "name": "The Ceiling / Border (CH. III)",
+        "url": "https://open.spotify.com/album/5iznNh84frPAAx1fLffZa4"
       },
       "artists": [
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Lewis Del Mar",
+          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
         }
       ],
-      "duration_ms": 205175,
-      "name": "En Tu Orilla",
-      "url": "https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2"
+      "duration_ms": 174240,
+      "name": "The Ceiling",
+      "url": "https://open.spotify.com/track/6EprgVYMTXhotXNEBi4qr2"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Melted",
-        "url": "https://open.spotify.com/album/5P0LN9xrnLY1By7mlkKtkx"
-      },
-      "artists": [
-        {
-          "name": "Ty Segall",
-          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
-        }
-      ],
-      "duration_ms": 210360,
-      "name": "Caesar",
-      "url": "https://open.spotify.com/track/1MQeShIRRYCcaSs4XzWldh"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "TURNSTILE LOVE CONNECTION",
         "url": "https://open.spotify.com/album/4Dx7TI0kECk72u90341I25"
       },
@@ -1063,22 +1047,6 @@
       "duration_ms": 155199,
       "name": "MYSTERY",
       "url": "https://open.spotify.com/track/5rxUvOLdilsj2hxBeWSYsB"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
-        "name": "Huesos Viejos",
-        "url": "https://open.spotify.com/album/3JNj1DiE02Bq2sCgxy6VNQ"
-      },
-      "artists": [
-        {
-          "name": "Davila 666",
-          "url": "https://open.spotify.com/artist/0PQK6BLKbviconz1bx1rlH"
-        }
-      ],
-      "duration_ms": 198530,
-      "name": "Huesos Viejos",
-      "url": "https://open.spotify.com/track/61Q1488cGOi0zuEGEIVHbV"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1099,18 +1067,34 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Un Poco M\u00e1s de Luz",
-        "url": "https://open.spotify.com/album/1W2MjZPeWiwn5AZw3OPyKL"
+        "name": "Huesos Viejos",
+        "url": "https://open.spotify.com/album/3JNj1DiE02Bq2sCgxy6VNQ"
       },
       "artists": [
         {
-          "name": "San Pedro el Cortez",
-          "url": "https://open.spotify.com/artist/4qMybSJtpFeNmHYfJ1rXkl"
+          "name": "Davila 666",
+          "url": "https://open.spotify.com/artist/0PQK6BLKbviconz1bx1rlH"
         }
       ],
-      "duration_ms": 344145,
-      "name": "Fukushima",
-      "url": "https://open.spotify.com/track/4nE1FtwspcXO6jJ4D5f5Bv"
+      "duration_ms": 198530,
+      "name": "Huesos Viejos",
+      "url": "https://open.spotify.com/track/61Q1488cGOi0zuEGEIVHbV"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Melted",
+        "url": "https://open.spotify.com/album/5P0LN9xrnLY1By7mlkKtkx"
+      },
+      "artists": [
+        {
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+        }
+      ],
+      "duration_ms": 210360,
+      "name": "Caesar",
+      "url": "https://open.spotify.com/track/1MQeShIRRYCcaSs4XzWldh"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1127,6 +1111,22 @@
       "duration_ms": 198106,
       "name": "Loaded",
       "url": "https://open.spotify.com/track/7eKUG8l9jlGeZ7hh0DA036"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Un Poco M\u00e1s de Luz",
+        "url": "https://open.spotify.com/album/1W2MjZPeWiwn5AZw3OPyKL"
+      },
+      "artists": [
+        {
+          "name": "San Pedro el Cortez",
+          "url": "https://open.spotify.com/artist/4qMybSJtpFeNmHYfJ1rXkl"
+        }
+      ],
+      "duration_ms": 344145,
+      "name": "Fukushima",
+      "url": "https://open.spotify.com/track/4nE1FtwspcXO6jJ4D5f5Bv"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Cosas Que Probablemente No Van a Pasar",
-        "url": "https://open.spotify.com/album/7Kr0Dfn3KWhFvqrMizaRpw"
-      },
-      "artists": [
-        {
-          "name": "Ev",
-          "url": "https://open.spotify.com/artist/21EczEifDKebasemX58Jp8"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Cosas que probablemente no van a pasar",
-      "url": "https://open.spotify.com/track/2LDX3sOc24GduGMToJ4Q7v"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Sinking Feeling",
         "url": "https://open.spotify.com/album/4FkSkBf3iQKjV9PLZPAQVr"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 213042,
       "name": "Sinking Feeling",
       "url": "https://open.spotify.com/track/0S1FtpRFRXS6XiZXYv1F3C"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Cosas Que Probablemente No Van a Pasar",
+        "url": "https://open.spotify.com/album/7Kr0Dfn3KWhFvqrMizaRpw"
+      },
+      "artists": [
+        {
+          "name": "Ev",
+          "url": "https://open.spotify.com/artist/21EczEifDKebasemX58Jp8"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Cosas que probablemente no van a pasar",
+      "url": "https://open.spotify.com/track/2LDX3sOc24GduGMToJ4Q7v"
     },
     {
       "added_at": "2024-07-12 23:20:36",

@@ -755,6 +755,24 @@
     },
     {
       "album": {
+        "name": "B12",
+        "url": "https://open.spotify.com/album/62pw9hYMJuTMC8vmqdy5aH"
+      },
+      "artists": [
+        {
+          "name": "Jlin",
+          "url": "https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205426,
+      "name": "B12",
+      "url": "https://open.spotify.com/track/7J5badCiU07ddc9wl4lr9O"
+    },
+    {
+      "album": {
         "name": "Badwater Psalm (Khotin Remix)",
         "url": "https://open.spotify.com/album/2ylpTfBEFSetAZHwTT0jIK"
       },
@@ -890,6 +908,24 @@
       "duration_ms": 350322,
       "name": "Bergen",
       "url": "https://open.spotify.com/track/6AhRffpaXubqSn4lHMfmyk"
+    },
+    {
+      "album": {
+        "name": "Linked",
+        "url": "https://open.spotify.com/album/4G32kJIxQlduHOsvpijhGL"
+      },
+      "artists": [
+        {
+          "name": "Martinou",
+          "url": "https://open.spotify.com/artist/5mxwKKP9qnvmfpuAgoI7kp"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338000,
+      "name": "Between here and Home",
+      "url": "https://open.spotify.com/track/51bxq4EgwFyQdQwfo1foJm"
     },
     {
       "album": {
@@ -1030,7 +1066,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 407991,
       "name": "Brainwave Technology",
       "url": "https://open.spotify.com/track/0x1eIudX2mUXc28RujjNl5"
@@ -1298,6 +1334,24 @@
       "duration_ms": 476689,
       "name": "CHIAROSCURO",
       "url": "https://open.spotify.com/track/7kdc3HHWBRY4aUxFdgFRJD"
+    },
+    {
+      "album": {
+        "name": "Chopstick!",
+        "url": "https://open.spotify.com/album/3fMSFJgA8A76UvZ1pVZ0w5"
+      },
+      "artists": [
+        {
+          "name": "Isol\u00e9e",
+          "url": "https://open.spotify.com/artist/6FfTOJJ5iO4tRG80MG5Ovj"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371070,
+      "name": "Chopstick!",
+      "url": "https://open.spotify.com/track/0xNoo5JDET2lxOqGNApa1N"
     },
     {
       "album": {
@@ -1862,6 +1916,24 @@
       "duration_ms": 311480,
       "name": "Dub Protection",
       "url": "https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf"
+    },
+    {
+      "album": {
+        "name": "Duo Pulse",
+        "url": "https://open.spotify.com/album/0PJgxCPlMtCFHg4VCrNOy3"
+      },
+      "artists": [
+        {
+          "name": "Hologramme",
+          "url": "https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256265,
+      "name": "Duo Pulse",
+      "url": "https://open.spotify.com/track/02Jy2accvqFUfr8TmFWleS"
     },
     {
       "album": {
@@ -2508,6 +2580,28 @@
       "duration_ms": 397555,
       "name": "Ganbare",
       "url": "https://open.spotify.com/track/22kCwGTTD5j4vJOzTCVNp2"
+    },
+    {
+      "album": {
+        "name": "Gangsters",
+        "url": "https://open.spotify.com/album/7ub8U3jx4kVYV623RqF5bO"
+      },
+      "artists": [
+        {
+          "name": "Mark Pritchard",
+          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
+        },
+        {
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209486,
+      "name": "Gangsters",
+      "url": "https://open.spotify.com/track/36XFu4Cw9NtVwxfMy6RjPO"
     },
     {
       "album": {
@@ -3914,7 +4008,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 209306,
       "name": "MWLHWOF-4",
       "url": "https://open.spotify.com/track/6GKgMjq46lNr3Xv8aexQOx"
@@ -4384,7 +4478,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 311783,
       "name": "Park Line",
       "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
@@ -5206,7 +5300,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 177520,
       "name": "Siblings",
       "url": "https://open.spotify.com/track/3ExkbOfWgrL78xCyTOTeJT"
@@ -5794,7 +5888,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 194000,
       "name": "The Pier",
       "url": "https://open.spotify.com/track/7FkL1m76B5qexhP7np6kRK"
@@ -6959,6 +7053,24 @@
     },
     {
       "album": {
+        "name": "Linked",
+        "url": "https://open.spotify.com/album/4G32kJIxQlduHOsvpijhGL"
+      },
+      "artists": [
+        {
+          "name": "Martinou",
+          "url": "https://open.spotify.com/artist/5mxwKKP9qnvmfpuAgoI7kp"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370000,
+      "name": "You took me in",
+      "url": "https://open.spotify.com/track/4fDkXhzgQlyxw3ZmHivc3F"
+    },
+    {
+      "album": {
         "name": "Ardour (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp"
       },
@@ -6970,7 +7082,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 131709,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/2z90hHePkp4PufL1R4Y0Hx"

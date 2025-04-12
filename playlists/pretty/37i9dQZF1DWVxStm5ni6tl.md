@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Laraw, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,581 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,633 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 33 | [High On You](https://open.spotify.com/track/3Sbf3VHkyZSTiHCZUhPHHY) | [Blue Ridge Band](https://open.spotify.com/artist/2yE8COtZJKf4SgSNz3wW6u) | [High On You](https://open.spotify.com/album/0RdWoRN0HHygQcwoefgR8g) | 2:46 |
 | 34 | [CLASSIC](https://open.spotify.com/track/0EBxPgkdkvSfoOtndLACBZ) | [TwoTiime](https://open.spotify.com/artist/6M8FnwmGSiVizi80SrS07p) | [CLASSIC](https://open.spotify.com/album/2I2yCXm34ujmMLHssh3nYq) | 3:21 |
 | 35 | [Red Lights](https://open.spotify.com/track/2djIzMCxxfftNKO8FNNXXR) | [Amanda Couture](https://open.spotify.com/artist/1znhqL77IuHDs2QnVmprU1) | [Red Lights](https://open.spotify.com/album/269KRyuhYO1mE1g50foWpH) | 2:47 |
-| 36 | [It’s Calling Me](https://open.spotify.com/track/2xBl8i3GTM7Mi2PpW7dY5W) | [Maliik](https://open.spotify.com/artist/1wfglSUwjk7OX4hSAvkVar), [Moël](https://open.spotify.com/artist/4G0BLZEt6gxTlxB6fZsvTa), [Stretch](https://open.spotify.com/artist/1BiccVUQau7aMihwEvbHzr) | [It’s Calling Me](https://open.spotify.com/album/4YxzAUXk5NaHxpmrAgtmgQ) | 3:09 |
+| 36 | [It’s Calling Me](https://open.spotify.com/track/2xBl8i3GTM7Mi2PpW7dY5W) | [Maliik](https://open.spotify.com/artist/1wfglSUwjk7OX4hSAvkVar), [Moël](https://open.spotify.com/artist/4G0BLZEt6gxTlxB6fZsvTa), [Stretch](https://open.spotify.com/artist/00U0HbJG22MTCTLc6WvsHr) | [It’s Calling Me](https://open.spotify.com/album/4YxzAUXk5NaHxpmrAgtmgQ) | 3:09 |
 | 37 | [will I ever learn?](https://open.spotify.com/track/4p46OACIgjhEeCaTUe1aai) | [Ash Molloy](https://open.spotify.com/artist/7r9idpCLiq7S2KS1n5Fp7J) | [will I ever learn?](https://open.spotify.com/album/0745bhZuFMgOEWW71jm8FF) | 3:43 |
 | 38 | [Good To See You Again](https://open.spotify.com/track/38pJKxw0ZrpiWdMAFGqGv3) | [Fairfield A.D.](https://open.spotify.com/artist/1NjdRXFhtEa2LSitRgkmnY) | [Good To See You Again](https://open.spotify.com/album/2p4Iec9NThTDSxhIdTq1GN) | 3:45 |
 | 39 | [love letters](https://open.spotify.com/track/2zhaBLeZhZeseft0DW6aFK) | [priyana](https://open.spotify.com/artist/0dLw2a1tfVQCJ5cOQnpdlQ) | [love letters](https://open.spotify.com/album/7i5MJnSMzB7UnfeDM6muV4) | 3:28 |

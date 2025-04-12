@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: KebMo & Taj Mahal",
-  "num_followers": 457376,
+  "num_followers": 457463,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+Ye3wAAAABWSJFAsvc56c6fYVKIqY8E",
+  "snapshot_id": "Z/iT0AAAAACCg9yZLHGTZxyp8tUWLeQU",
   "tracks": [
     {
       "added_at": "2025-03-28 04:00:31",
@@ -27,6 +27,26 @@
       "duration_ms": 260653,
       "name": "Junkyard Dog",
       "url": "https://open.spotify.com/track/27nSMmahGMLWDt9JMFVc5r"
+    },
+    {
+      "added_at": "2025-04-11 04:00:16",
+      "album": {
+        "name": "Greyhound Bus Blues",
+        "url": "https://open.spotify.com/album/5ZUDaN0h2tX01R0EYd9nOv"
+      },
+      "artists": [
+        {
+          "name": "Liam St. John",
+          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 152824,
+      "name": "Greyhound Bus Blues",
+      "url": "https://open.spotify.com/track/3kFo9yQT1AcBMUQjwExLd2"
     },
     {
       "added_at": "2025-03-28 04:00:31",
@@ -1275,22 +1295,6 @@
       "duration_ms": 180995,
       "name": "Nothing's Gonna Stop Me Feeling Good",
       "url": "https://open.spotify.com/track/3578ilBVTJbZFgJH8z8lxn"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "All The Bad Things (Stripped Back)",
-        "url": "https://open.spotify.com/album/3iJ2lF1mIHOEGSTl5HSZy4"
-      },
-      "artists": [
-        {
-          "name": "Liam St. John",
-          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
-        }
-      ],
-      "duration_ms": 192250,
-      "name": "San Quentin Infirmary Blues - Stripped Back",
-      "url": "https://open.spotify.com/track/6A8JDsJSjQsrBwfXl2UTKk"
     },
     {
       "added_at": "2023-10-06 04:00:00",

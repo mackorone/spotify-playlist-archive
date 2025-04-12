@@ -1538,7 +1538,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 129332,
       "name": "Ciniminis",
       "url": "https://open.spotify.com/track/369yQYN9dt4jOf7MCFcL4r"
@@ -3064,7 +3064,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 174873,
       "name": "Fulles",
       "url": "https://open.spotify.com/track/10UDwUyxDUJ2gm9dp6704C"
@@ -5910,7 +5910,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 224000,
       "name": "Piromaniaco",
       "url": "https://open.spotify.com/track/3rFi757I4Y48eVkx8noASJ"
@@ -6042,7 +6042,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 200000,
       "name": "Promesas de Amor",
       "url": "https://open.spotify.com/track/4catmF6NKPlnYnUs5H6tOe"
@@ -7020,6 +7020,46 @@
       "duration_ms": 172248,
       "name": "Tiempos de Guerra",
       "url": "https://open.spotify.com/track/1UoCDn52urzsC0Uoo4odt4"
+    },
+    {
+      "album": {
+        "name": "DON KBRN",
+        "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264877,
+      "name": "Tiffany",
+      "url": "https://open.spotify.com/track/0xL0nSOiZzaVHnbakk5YUw"
+    },
+    {
+      "album": {
+        "name": "TIJUANA S\u00cd!",
+        "url": "https://open.spotify.com/album/7rJc0d9wS2dJjEmjg6KHP2"
+      },
+      "artists": [
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121848,
+      "name": "TIJUANA S\u00cd!",
+      "url": "https://open.spotify.com/track/6rhD1YCd8JzaQ4eIjG9JaV"
     },
     {
       "album": {

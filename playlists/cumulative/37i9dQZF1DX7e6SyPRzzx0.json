@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-02",
-  "description": "The home of rage rap. Cover: Playboi Carti",
+  "description": "The home of rage rap. Cover: Ken Carson",
   "name": "RAGE",
   "tracks": [
     {
@@ -250,6 +250,24 @@
       "duration_ms": 167732,
       "name": "BE RIGHT BACK",
       "url": "https://open.spotify.com/track/57cLYltn1gF5Dbp0a6te5p"
+    },
+    {
+      "album": {
+        "name": "More Chaos",
+        "url": "https://open.spotify.com/album/3tIS7SDlvbyJ0oFQzNqjco"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230923,
+      "name": "Blakk Rokkstar",
+      "url": "https://open.spotify.com/track/7IzutleLK1419FM8rUpYmq"
     },
     {
       "album": {
@@ -2448,7 +2466,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 123783,
       "name": "Tyla",
       "url": "https://open.spotify.com/track/5JFOylCiD2CCfmMtaVECfv"

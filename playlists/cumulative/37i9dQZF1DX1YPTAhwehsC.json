@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "1 Mo Time",
+        "url": "https://open.spotify.com/album/5rQcdELMiUNbRAb9XRve77"
+      },
+      "artists": [
+        {
+          "name": "D4M $loan",
+          "url": "https://open.spotify.com/artist/2tS5WTABMMEQNtdzyoWdHG"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "1 Mo Time",
+      "url": "https://open.spotify.com/track/0NPcKVK7pg1Cxct3xuDBme"
+    },
+    {
+      "album": {
         "name": "1 On 3 (feat. Rvssian)",
         "url": "https://open.spotify.com/album/3F6GpeUViLprCorwucXYmQ"
       },
@@ -752,7 +770,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 208941,
       "name": "5 Star - feat. Gunna",
       "url": "https://open.spotify.com/track/00H3q5D7iXFIms4VYbsMP0"
@@ -774,7 +792,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 164640,
       "name": "5 STAR B*TCH",
       "url": "https://open.spotify.com/track/5JylpGe01wqdoeJalYHOuR"
@@ -1596,7 +1614,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 148928,
       "name": "ANXIETY (feat. Doechii)",
       "url": "https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY"
@@ -2220,7 +2238,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 210803,
       "name": "BAD TIME",
       "url": "https://open.spotify.com/track/1D9XWqsoNWIfLEzjHcrgMx"
@@ -7131,6 +7149,24 @@
     },
     {
       "album": {
+        "name": "Disgusted",
+        "url": "https://open.spotify.com/album/329JqKc4yslwBZ4EVI0spK"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136920,
+      "name": "Disgusted",
+      "url": "https://open.spotify.com/track/1izgz7mqWzI5QR3E8y7nQI"
+    },
+    {
+      "album": {
         "name": "Diva",
         "url": "https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih"
       },
@@ -7924,6 +7960,24 @@
       "duration_ms": 164224,
       "name": "Double Cup",
       "url": "https://open.spotify.com/track/3GgHxYYLLaE1OnRKc9FznY"
+    },
+    {
+      "album": {
+        "name": "Double D\u2019s",
+        "url": "https://open.spotify.com/album/2n7rQ1zji5uaH23AuzyfCV"
+      },
+      "artists": [
+        {
+          "name": "Baby Osamaa",
+          "url": "https://open.spotify.com/artist/3HzHfusJQBmpNKkTzqqC2N"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Double D's",
+      "url": "https://open.spotify.com/track/2g7q8degYW2rpPlhhbzp9y"
     },
     {
       "album": {
@@ -13367,6 +13421,28 @@
     },
     {
       "album": {
+        "name": "ILMB (feat. Travis Scott)",
+        "url": "https://open.spotify.com/album/0OORiZ1arhRjbiSzNq9itT"
+      },
+      "artists": [
+        {
+          "name": "Sheck Wes",
+          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184630,
+      "name": "ILMB (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/697mqzUk9iIdnY3yHLXYEt"
+    },
+    {
+      "album": {
         "name": "Import Export",
         "url": "https://open.spotify.com/album/7bDoRkgS1MwS21rZojZSJt"
       },
@@ -16712,7 +16788,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 268630,
       "name": "Mandingo",
       "url": "https://open.spotify.com/track/0JvDcQ2LAzuhV1HujQrAHR"
@@ -22645,6 +22721,28 @@
     },
     {
       "album": {
+        "name": "Regular Type (feat. Chow Lee)",
+        "url": "https://open.spotify.com/album/7jIpISYSxVcKBPdLt0vmBr"
+      },
+      "artists": [
+        {
+          "name": "Nino Paid",
+          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
+        },
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "Regular Type (feat. Chow Lee)",
+      "url": "https://open.spotify.com/track/1pqswmjvnS3xr7JdA4gD2x"
+    },
+    {
+      "album": {
         "name": "Young & Restless Vol. 1 Baby Don",
         "url": "https://open.spotify.com/album/5Vsv12liWYcEYcX0ryvAaa"
       },
@@ -22834,7 +22932,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 124306,
       "name": "RESPECTFULLY",
       "url": "https://open.spotify.com/track/48RwbbOvUKQCSftOcL7WZc"
@@ -24890,7 +24988,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 149707,
       "name": "Slizzy Flow",
       "url": "https://open.spotify.com/track/7cbMHEXg6nOr5RzePngsDc"
@@ -25322,6 +25420,28 @@
       "duration_ms": 165645,
       "name": "Special (feat. Skilla Baby & Flo Milli)",
       "url": "https://open.spotify.com/track/74gkzK2S4ZcTM7ufYO2Qzr"
+    },
+    {
+      "album": {
+        "name": "Speed It Up",
+        "url": "https://open.spotify.com/album/38EnkkjO51PwsqyVl239yS"
+      },
+      "artists": [
+        {
+          "name": "Sturdyyoungin",
+          "url": "https://open.spotify.com/artist/2DnJs9S5S7DWOyE2zK2fNs"
+        },
+        {
+          "name": "Ohthatsmizz",
+          "url": "https://open.spotify.com/artist/77zq5iaCosWolNf1IRdTjJ"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112731,
+      "name": "Speed It Up",
+      "url": "https://open.spotify.com/track/2sIcNAbHwM6NybKhIF3frR"
     },
     {
       "album": {
@@ -28999,6 +29119,36 @@
     },
     {
       "album": {
+        "name": "Warriors Two, Cooley High",
+        "url": "https://open.spotify.com/album/4CNHsxJwhc68OJ3bO1ObAo"
+      },
+      "artists": [
+        {
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        {
+          "name": "Mathematics",
+          "url": "https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192702,
+      "name": "Warriors Two, Cooley High",
+      "url": "https://open.spotify.com/track/3meUWngyJwuYjJxQ334vXd"
+    },
+    {
+      "album": {
         "name": "Warzone (feat. A Boogie Wit Da Hoodie)",
         "url": "https://open.spotify.com/album/3pnZdrOF3JXq5ZTXsT09AW"
       },
@@ -29714,6 +29864,24 @@
     {
       "album": {
         "name": "What You Want",
+        "url": "https://open.spotify.com/album/3IhEHIp04NUIyNONhOOHK0"
+      },
+      "artists": [
+        {
+          "name": "Flipp Dinero",
+          "url": "https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131335,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/7xxC9gJ4X443aqVGQ4lX1q"
+    },
+    {
+      "album": {
+        "name": "What You Want",
         "url": "https://open.spotify.com/album/1vtUDVP5fIl57KHOJkVahm"
       },
       "artists": [
@@ -29782,7 +29950,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 113333,
       "name": "What's The Word",
       "url": "https://open.spotify.com/track/2AKLChFclKb1St5F5ADlvO"

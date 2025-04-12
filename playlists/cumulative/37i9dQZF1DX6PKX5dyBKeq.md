@@ -4,7 +4,7 @@
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Headie One
 
-2,068 songs - 4 day 7 hr 21 min
+2,070 songs - 4 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,6 +455,7 @@
 | [Crash It \(feat\. Abra Cadabra\)](https://open.spotify.com/track/5Ay9kTNx0feHRxKxMuftZA) | [Mastermind](https://open.spotify.com/artist/7cebmXLpLp4Rk2eFI00ppV), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Crash It \(feat\. Abra Cadabra\)](https://open.spotify.com/album/3iZv9M4ucZqy8M246k1GX0) | 3:07 | 2020-08-07 | 2020-09-05 |
 | [CRAZY](https://open.spotify.com/track/2wk8lwCgRKetpYKsAP9G2A) | [Chy Cartier](https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q) | [CRAZY](https://open.spotify.com/album/3kSpTWfsTKSKwXeI9ybAOD) | 3:07 | 2025-04-04 |  |
 | [Crazy Cousins Freestyle](https://open.spotify.com/track/6Ss9mednK5hduLISPKJ9F6) | [JB Scofield](https://open.spotify.com/artist/13eBAN8IqzICKLq1BzGmqj) | [Crazy Cousins Freestyle](https://open.spotify.com/album/7JXpFTfWtcywD3r2nRfl46) | 2:31 | 2020-08-01 | 2020-09-05 |
+| [Crazy Love](https://open.spotify.com/track/00S54Je0ffaNP8ClzQPjWy) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Crazy Love](https://open.spotify.com/album/1d7YlcfbkKjTZi061rJYlo) | 2:00 | 2025-04-11 |  |
 | [Crazy Titch](https://open.spotify.com/track/0IrPV9VlXPKBApe0jk6CSY) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Crazy Titch](https://open.spotify.com/album/0QHVDVbGrdTI1d4uWXTJGT) | 2:19 | 2023-05-26 | 2023-07-21 |
 | [Crazy Year](https://open.spotify.com/track/00QPsHjXJewkwHtwqYRKyO) | [Dimzy](https://open.spotify.com/artist/2G3moO7hc1jXWYKkW5ZYw4), [LD](https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m), [67](https://open.spotify.com/artist/211p9eSLzwF6iuXzzP5xTl) | [Crazy Year](https://open.spotify.com/album/4iikh9PeghPREPipyRn0IV) | 3:12 | 2021-01-23 | 2021-02-09 |
 | [Cream \(feat\. CB\)](https://open.spotify.com/track/7viEq8U0GgZf3v5m4BON3c) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [CB](https://open.spotify.com/artist/3yKIJWQ1SY3vzCTfBWAZ74) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:23 | 2023-07-13 | 2023-10-06 |
@@ -765,6 +766,7 @@
 | [Going Crazy](https://open.spotify.com/track/3Ob31WKYn5Dk0dN9wZJKVr) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [Quit While You're Ahead](https://open.spotify.com/album/19cREfJobUHwoeB0dVKJvT) | 2:57 | 2024-09-26 | 2025-02-28 |
 | [Goku](https://open.spotify.com/track/2YroZEr2wxG2or7oA1oG5e) | [RM](https://open.spotify.com/artist/06vJVRBMbp4o11xulzeT1z) | [Goku](https://open.spotify.com/album/0fyWkPQJJud0cos9ScG4pT) | 2:57 | 2024-03-22 | 2024-05-03 |
 | [Gold Mine](https://open.spotify.com/track/5lYSnVlaBoMTjCcyOisuul) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Gold Mine](https://open.spotify.com/album/3sbWLPR57oRvmo1DgJNpi0) | 2:58 | 2024-07-25 | 2024-09-13 |
+| [Golden Brown](https://open.spotify.com/track/0yQWn4Ikzdn5rTV9AwmzbJ) | [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx) | [Golden Brown](https://open.spotify.com/album/49ZOWZt6s4Nwh7OTFcYyIO) | 1:46 | 2025-04-11 |  |
 | [Gone](https://open.spotify.com/track/3jTk3JX7wN0CO60welQgnJ) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Gone](https://open.spotify.com/album/3mDsO6BKW5H3mqzWdUgLPf) | 2:36 | 2022-10-13 | 2022-12-03 |
 | [Good Hearts \(feat\. Aida Lae\)](https://open.spotify.com/track/0o0eLV2HtDSzGTcrXAwzGj) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6), [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Conflict Of Interest](https://open.spotify.com/album/4GJnb2XwVlS2HrVsBa9fI4) | 3:09 | 2021-02-20 | 2021-03-19 |
 | [Goodies](https://open.spotify.com/track/4v7uX5WWIonCiwEk2EMTqM) | [D Power Diesle](https://open.spotify.com/artist/2WR5eGIR0Lp7Pw1qxzUICR), [Deadly R3al](https://open.spotify.com/artist/6S5NJqoVc47hY1YkMxMckw), [President T](https://open.spotify.com/artist/1jVgvfKynkRWY4SymwtOBS) | [Goodies](https://open.spotify.com/album/1FnApayL05IW0smOX5J0XY) | 2:59 | 2020-12-18 | 2021-01-15 |

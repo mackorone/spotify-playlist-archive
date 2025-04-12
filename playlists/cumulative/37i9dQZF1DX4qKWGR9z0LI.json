@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Christian Alicea",
+  "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Luis Figueroa & Christian Alicea",
   "name": "Salsa Nation",
   "tracks": [
     {
@@ -3356,7 +3356,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 216626,
       "name": "Mira - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct"
@@ -3574,7 +3574,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-18",
+      "date_removed": null,
       "duration_ms": 268175,
       "name": "No Me Lo Creo",
       "url": "https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI"
@@ -4531,6 +4531,28 @@
     },
     {
       "album": {
+        "name": "Si Llamas",
+        "url": "https://open.spotify.com/album/6DbRN7RtGJMM943sj0ebsA"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        },
+        {
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196080,
+      "name": "Si Llamas",
+      "url": "https://open.spotify.com/track/4kiBpykAMKT1X6ZftmGt0R"
+    },
+    {
+      "album": {
         "name": "Si se fue, se fue",
         "url": "https://open.spotify.com/album/783J1gQIsaFy8bQtSlFlt7"
       },
@@ -5334,7 +5356,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 257010,
       "name": "Un Beso de Su Boca",
       "url": "https://open.spotify.com/track/1Ql6nNEgjJbVo52HeDUV2Q"

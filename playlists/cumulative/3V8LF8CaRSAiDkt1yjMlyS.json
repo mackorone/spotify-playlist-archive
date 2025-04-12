@@ -2249,6 +2249,24 @@
     },
     {
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/43e8cs35ILaJjlDtj8H44z"
+      },
+      "artists": [
+        {
+          "name": "Sunday (1994)",
+          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260624,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/5ji0TlbJHbHkbNrr6hoi0n"
+    },
+    {
+      "album": {
         "name": "Red Flags",
         "url": "https://open.spotify.com/album/0BOgMe86UyGQ3epLNOI4A5"
       },
@@ -2784,6 +2802,32 @@
       "duration_ms": 212432,
       "name": "Telephones",
       "url": "https://open.spotify.com/track/0JIMT9gzLIIz0esKLyjbKf"
+    },
+    {
+      "album": {
+        "name": "Past Partial",
+        "url": "https://open.spotify.com/album/3q6jIkvn5lzHN2IKCIbaXY"
+      },
+      "artists": [
+        {
+          "name": "SV",
+          "url": "https://open.spotify.com/artist/6ABoiNLC8RChkiFvzIOqKi"
+        },
+        {
+          "name": "Antonia Marquee",
+          "url": "https://open.spotify.com/artist/2knrCbiVXjHbxY4g5U6Vnz"
+        },
+        {
+          "name": "Kevon Scott",
+          "url": "https://open.spotify.com/artist/0QQRd94fteqgMZD8SQiojh"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117473,
+      "name": "The Answer",
+      "url": "https://open.spotify.com/track/62vVbTLJrEWEx7YD584wqs"
     },
     {
       "album": {

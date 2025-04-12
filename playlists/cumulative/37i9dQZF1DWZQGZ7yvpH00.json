@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "guitarras ag\u00fcitadas pa' cantarle al amor y al desamor \ud83d\udc94\ud83d\ude41 Julio Caesar en portada. ",
+  "description": "guitarras ag\u00fcitadas pa' cantarle al amor y al desamor \ud83d\udc94\ud83d\ude41 Los Aptos en portada. ",
   "name": "sad sierre\u00f1o",
   "tracks": [
     {
@@ -1815,6 +1815,24 @@
     },
     {
       "album": {
+        "name": "Vibras De Noche II",
+        "url": "https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183566,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/4oSFRdQOUmIx5y7lSN8UU2"
+    },
+    {
+      "album": {
         "name": "Distantes",
         "url": "https://open.spotify.com/album/2bLiF7ZGHwIHco3WGb9vsM"
       },
@@ -2658,6 +2676,24 @@
       "duration_ms": 161192,
       "name": "FUIMOS CASI ALGO",
       "url": "https://open.spotify.com/track/5juswOHyQNEBSC5b9WQWXn"
+    },
+    {
+      "album": {
+        "name": "Recordando Ariel Camacho (Live)",
+        "url": "https://open.spotify.com/album/68m4BXWynI34UtRpglzFcq"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212688,
+      "name": "Hablemos - Live",
+      "url": "https://open.spotify.com/track/1puzMBz3y9RgaqfXAGv383"
     },
     {
       "album": {
@@ -3612,7 +3648,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 187087,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/5LhI8m7n8xlQmNe3b7Rwis"
@@ -5118,7 +5154,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 176682,
       "name": "Para Ser Sincero",
       "url": "https://open.spotify.com/track/3vRunC5olGPKJ0eCaOjfub"
@@ -5534,7 +5570,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 205482,
       "name": "Por Nada Te Cambio",
       "url": "https://open.spotify.com/track/7EuzjgPCCn4302zxRQdzeI"
@@ -5596,6 +5632,24 @@
       "duration_ms": 230795,
       "name": "Porque Te Vas",
       "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
+    },
+    {
+      "album": {
+        "name": "Recordando Ariel Camacho (Live)",
+        "url": "https://open.spotify.com/album/68m4BXWynI34UtRpglzFcq"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196034,
+      "name": "Porque Te Vas De Mi - Live",
+      "url": "https://open.spotify.com/track/5PmJVyeiO6hzmu56MWabWt"
     },
     {
       "album": {
@@ -5882,6 +5936,24 @@
       "duration_ms": 185341,
       "name": "Quiero Saber",
       "url": "https://open.spotify.com/track/7i7CIvRUCMtHiB2EtvXgcv"
+    },
+    {
+      "album": {
+        "name": "Jalense la Gre\u00f1a",
+        "url": "https://open.spotify.com/album/5ggVBjuzCMZUt6E3ObWkqc"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220981,
+      "name": "Quisiera Detener el Tiempo",
+      "url": "https://open.spotify.com/track/0xNg6Hw1P7nOVJ0HIXatxf"
     },
     {
       "album": {
@@ -8316,7 +8388,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 262310,
       "name": "Ya No Est\u00e1s",
       "url": "https://open.spotify.com/track/60nOmFyaDvEeb8v8D6Y6gx"

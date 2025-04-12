@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Punjabi](https://open.spotify.com/playlist/37i9dQZF1DX292jPa6tXaE)
 
-> Discover the future of Punjabi Pop!  Cover: Gagandeep Thumber
+> Discover the future of Punjabi Pop!  Cover: Gagandeep Thamber
 
 306 songs - 14 hr 27 min
 

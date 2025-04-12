@@ -4,7 +4,7 @@
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Diljit Dosanjh
 
-317 songs - 17 hr 9 min
+319 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Doobey](https://open.spotify.com/track/7k6QR9YHyW258yVN6FHO1T) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Gehraiyaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1n3IiQK8urUhPw8wsfWluX) | 3:39 | 2022-07-18 | 2024-02-23 |
 | [Drunk on You \(feat\. Hard Bazy\)](https://open.spotify.com/track/1EJsnnM8Mc4jzUfXOQ67hr) | [Abeer Arora](https://open.spotify.com/artist/03OyUdw7Xh6XC249YPXWUR), [Hard Bazy](https://open.spotify.com/artist/31YGqpZ2ca5sPjbbzM5qcl) | [Drunk on You \(feat\. Hard Bazy\)](https://open.spotify.com/album/0lZYBzfgWDsvovkfAesZqO) | 2:48 | 2021-11-11 | 2022-07-19 |
 | [Dudh Chaa](https://open.spotify.com/track/0GOM1Lr482a5XGjOhzfvma) | [Ahmed Khan](https://open.spotify.com/artist/6S5gjIbHTmQ2uKljKjqLSp), [H\-Dhami](https://open.spotify.com/artist/0GgtsI54TB5WM3350rYpvK) | [29 Summers](https://open.spotify.com/album/2nU4RgpGtF6rnSzcx9EJuC) | 2:43 | 2021-11-11 | 2022-07-19 |
+| [Ehsaas](https://open.spotify.com/track/5PetOhEX9N0oyBB0Keqobv) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Duha Shah](https://open.spotify.com/artist/3l1qBa4ZTuNfYOap9WGbDQ) | [Ehsaas](https://open.spotify.com/album/12ShvJkszHFeRxDuZz2OYk) | 3:53 | 2025-04-11 |  |
 | [Excuses](https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Excuses](https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9) | 2:56 | 2022-07-18 |  |
 | [Falling](https://open.spotify.com/track/2TDCPIKujxVYzIWXPGbaGY) | [H\-Dhami](https://open.spotify.com/artist/0GgtsI54TB5WM3350rYpvK), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [Lyan](https://open.spotify.com/artist/4rxmalszfZZfX8CDccpTpf) | [Falling](https://open.spotify.com/album/1E9MlbCux498CZI8WPX1Sz) | 3:37 | 2021-11-11 | 2022-07-19 |
 | [Feet Don't Fail Me Now](https://open.spotify.com/track/5goqVeMYUQecvpcjNxpadU) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:18 | 2022-07-18 | 2024-02-23 |
@@ -268,6 +269,7 @@
 | [STAY DOWN](https://open.spotify.com/track/6IhL06ppOuyRHEXJ8BlUXe) | [ZZ](https://open.spotify.com/artist/3yMB5SRUewrVIC4RiWR02V) | [STAY DOWN](https://open.spotify.com/album/3tM9xF7q94gk2nYQjAT1sx) | 3:08 | 2023-06-06 | 2024-01-04 |
 | [Stay With Me](https://open.spotify.com/track/6GVYqMsa9Niic3cNrzIiOn) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Eyepatch](https://open.spotify.com/artist/1kmbGVNEUnTbq1yptaiOVj) | [Stay With Me](https://open.spotify.com/album/40urFCK6nr2VZ9lYyryZG8) | 2:29 | 2024-08-09 | 2024-09-10 |
 | [Stormrider](https://open.spotify.com/track/2GLdmRFgdGWQLThP5feQji) | [Jacqueline Fernandez](https://open.spotify.com/artist/3HrBxG64scPxP1mrTmZxM6) | [Stormrider](https://open.spotify.com/album/1lc7jvS3bJOwsNdJEtHFva) | 2:17 | 2024-09-20 | 2025-02-13 |
+| [Subho Shaam](https://open.spotify.com/track/5zWjwwQeSogSqcWEUP8qsk) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Subho Shaam](https://open.spotify.com/album/7mORB6Ru5kQee6aTGD8ORJ) | 2:56 | 2025-04-11 |  |
 | [Summer Luv](https://open.spotify.com/track/1vwHEMn3RJBteolX643U9a) | [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t) | [Summer Luv](https://open.spotify.com/album/2weXKmabg9k3ejyWBxaNWb) | 3:01 | 2021-11-11 | 2022-07-19 |
 | [Suniyan Suniyan](https://open.spotify.com/track/0XRb6eZE4dBIJdqwf1Mixu) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Suniyan Suniyan](https://open.spotify.com/album/7fDOsfo0KfyUV2crgrG6zR) | 3:17 | 2024-07-15 |  |
 | [Tadha Tadha](https://open.spotify.com/track/3gZ0eP6lDidIcNqLmgoBTc) | [Wangden Sherpa](https://open.spotify.com/artist/5sml6juxnDkUFi3K3bRAuq), [Prajina](https://open.spotify.com/artist/5hcYAkz7DuyMy1JDinat5a) | [Tadha Tadha](https://open.spotify.com/album/4au4xmmZH1Ls0x3ujkSnSZ) | 2:39 | 2024-11-29 | 2024-12-13 |

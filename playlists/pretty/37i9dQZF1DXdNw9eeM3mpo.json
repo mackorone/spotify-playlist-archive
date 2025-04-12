@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Camiseta 22 y Los Miserables en portada.",
-  "num_followers": 478617,
+  "num_followers": 478675,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,26 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
+        "name": "La Kaguama",
+        "url": "https://open.spotify.com/album/2PszQA8qrNBYI1zt5MLzxV"
+      },
+      "artists": [
+        {
+          "name": "Kchiporros",
+          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
+        },
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 193170,
+      "name": "La Kaguama",
+      "url": "https://open.spotify.com/track/0dWskEqRk0CZH0hHsQXHBs"
+    },
+    {
+      "added_at": "2025-04-04 06:00:19",
+      "album": {
         "name": "Aqu\u00ed Estamos",
         "url": "https://open.spotify.com/album/3ZFGpnouTmOuER9kTaom0s"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 183771,
       "name": "Aqu\u00ed Estamos",
       "url": "https://open.spotify.com/track/7AQGYyve2qTrEiIUitZhqy"
-    },
-    {
-      "added_at": "2025-04-04 06:00:19",
-      "album": {
-        "name": "La Kaguama",
-        "url": "https://open.spotify.com/album/2PszQA8qrNBYI1zt5MLzxV"
-      },
-      "artists": [
-        {
-          "name": "Kchiporros",
-          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
-        },
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 193170,
-      "name": "La Kaguama",
-      "url": "https://open.spotify.com/track/0dWskEqRk0CZH0hHsQXHBs"
     },
     {
       "added_at": "2025-04-04 06:00:19",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 302813,
+      "name": "Delfino",
+      "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
+    },
+    {
+      "added_at": "2025-04-04 06:00:19",
+      "album": {
         "name": "La Ranchera",
         "url": "https://open.spotify.com/album/5kGQqjz7CaLrMwjXAbCQ9V"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 187744,
       "name": "La Ranchera",
       "url": "https://open.spotify.com/track/1A8MVDv6OMaKvTo1FvXNzt"
-    },
-    {
-      "added_at": "2025-04-04 06:00:19",
-      "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
-      },
-      "artists": [
-        {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
-        }
-      ],
-      "duration_ms": 302813,
-      "name": "Delfino",
-      "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
     },
     {
       "added_at": "2025-04-04 06:00:19",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
-      },
-      "artists": [
-        {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
-        }
-      ],
-      "duration_ms": 243813,
-      "name": "La Zona del Terror",
-      "url": "https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ"
-    },
-    {
-      "added_at": "2025-04-04 06:00:19",
-      "album": {
         "name": "En la Kalle",
         "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 217826,
       "name": "Skalari Rude Klub (SRK)",
       "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
+    },
+    {
+      "added_at": "2025-04-04 06:00:19",
+      "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 243813,
+      "name": "La Zona del Terror",
+      "url": "https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ"
     },
     {
       "added_at": "2025-04-04 06:00:19",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
-        "name": "As\u00ed No Se Puede Querer",
-        "url": "https://open.spotify.com/album/7hZn0928vV65wuZLP8PgRw"
-      },
-      "artists": [
-        {
-          "name": "Los Inconformes",
-          "url": "https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy"
-        }
-      ],
-      "duration_ms": 216859,
-      "name": "As\u00ed No Se Puede Querer",
-      "url": "https://open.spotify.com/track/2qqql02hJQMtSmBprjvj3e"
-    },
-    {
-      "added_at": "2025-04-04 06:00:19",
-      "album": {
         "name": "Siempre Fingiste Amarme",
         "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 237527,
       "name": "Siempre Fingiste Amarme",
       "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
+    },
+    {
+      "added_at": "2025-04-04 06:00:19",
+      "album": {
+        "name": "As\u00ed No Se Puede Querer",
+        "url": "https://open.spotify.com/album/7hZn0928vV65wuZLP8PgRw"
+      },
+      "artists": [
+        {
+          "name": "Los Inconformes",
+          "url": "https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy"
+        }
+      ],
+      "duration_ms": 216859,
+      "name": "As\u00ed No Se Puede Querer",
+      "url": "https://open.spotify.com/track/2qqql02hJQMtSmBprjvj3e"
     },
     {
       "added_at": "2025-04-04 06:00:19",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
-        "name": "Viernes",
-        "url": "https://open.spotify.com/album/5vDyrvR9CRNoCe12SUulC1"
-      },
-      "artists": [
-        {
-          "name": "Camiseta 22",
-          "url": "https://open.spotify.com/artist/32lMy5o72ghZijsNvPOeUf"
-        },
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 248371,
-      "name": "Viernes",
-      "url": "https://open.spotify.com/track/2tunprqnsQiGMmzZh2Lq5q"
-    },
-    {
-      "added_at": "2025-04-04 06:00:19",
-      "album": {
         "name": "Revolusound Contra Sistema",
         "url": "https://open.spotify.com/album/6ttamnxtAQ0pSALD625bUH"
       },
@@ -1403,6 +1383,26 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
+        "name": "Viernes",
+        "url": "https://open.spotify.com/album/5vDyrvR9CRNoCe12SUulC1"
+      },
+      "artists": [
+        {
+          "name": "Camiseta 22",
+          "url": "https://open.spotify.com/artist/32lMy5o72ghZijsNvPOeUf"
+        },
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 248371,
+      "name": "Viernes",
+      "url": "https://open.spotify.com/track/2tunprqnsQiGMmzZh2Lq5q"
+    },
+    {
+      "added_at": "2025-04-04 06:00:19",
+      "album": {
         "name": "Al Final - The Romaphonic Session",
         "url": "https://open.spotify.com/album/1EZ1RXJ60yEjI45z4WcaY0"
       },
@@ -1431,6 +1431,26 @@
       "duration_ms": 222373,
       "name": "Recuerdos",
       "url": "https://open.spotify.com/track/6QHnH11jTlVTOdj9qCHdca"
+    },
+    {
+      "added_at": "2025-04-04 06:00:19",
+      "album": {
+        "name": "El T\u00fanel Del Amor",
+        "url": "https://open.spotify.com/album/5uAPjTGzfaJhsSAs79kzEQ"
+      },
+      "artists": [
+        {
+          "name": "Victimas Del Doctor Cerebro",
+          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 222514,
+      "name": "El T\u00fanel Del Amor",
+      "url": "https://open.spotify.com/track/11iCxKAxXLyMUmO5044LV9"
     },
     {
       "added_at": "2025-04-04 06:00:19",
@@ -1475,26 +1495,6 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
-        "name": "El T\u00fanel Del Amor",
-        "url": "https://open.spotify.com/album/5uAPjTGzfaJhsSAs79kzEQ"
-      },
-      "artists": [
-        {
-          "name": "Victimas Del Doctor Cerebro",
-          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
-        },
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        }
-      ],
-      "duration_ms": 222514,
-      "name": "El T\u00fanel Del Amor",
-      "url": "https://open.spotify.com/track/11iCxKAxXLyMUmO5044LV9"
-    },
-    {
-      "added_at": "2025-04-04 06:00:19",
-      "album": {
         "name": "Radical Park - Episodio 1",
         "url": "https://open.spotify.com/album/4FrZeUF3cWGyZ4HAwhQ79a"
       },
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
-        "name": "Un Amor Violento",
-        "url": "https://open.spotify.com/album/6GNEPdeN4MKdGwVKnMwnC1"
-      },
-      "artists": [
-        {
-          "name": "The Skatalites",
-          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
-        },
-        {
-          "name": "Alvaro Henriquez",
-          "url": "https://open.spotify.com/artist/45H7NFSk6h7YyYP6BiB3EP"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "Un Amor Violento",
-      "url": "https://open.spotify.com/track/3NX364scO2GnsYW0ux81Pc"
-    },
-    {
-      "added_at": "2025-04-04 06:00:19",
-      "album": {
         "name": "Que Se Joda el Amor",
         "url": "https://open.spotify.com/album/0zOcy4urH5uwcHuvpGhDSt"
       },
@@ -1547,22 +1527,6 @@
       "duration_ms": 151500,
       "name": "Que Se Joda el Amor",
       "url": "https://open.spotify.com/track/1V8NAzFN4MsVo1mOcHOOYO"
-    },
-    {
-      "added_at": "2025-04-04 06:00:19",
-      "album": {
-        "name": "Chamuyo",
-        "url": "https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 190580,
-      "name": "Caras y Caretas",
-      "url": "https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O"
     },
     {
       "added_at": "2025-04-04 06:00:19",
@@ -1587,18 +1551,38 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
-        "name": "Amores Desechables",
-        "url": "https://open.spotify.com/album/2iKOTY9uyBGJ10eBKTTIFa"
+        "name": "Chamuyo",
+        "url": "https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr"
       },
       "artists": [
         {
-          "name": "La Inminente Sociedad",
-          "url": "https://open.spotify.com/artist/7n28xyqjxydlNv65OFFwsG"
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
         }
       ],
-      "duration_ms": 238741,
-      "name": "Amores Desechables",
-      "url": "https://open.spotify.com/track/2FHt2jFXTnemuV1VEEiTQB"
+      "duration_ms": 190580,
+      "name": "Caras y Caretas",
+      "url": "https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O"
+    },
+    {
+      "added_at": "2025-04-04 06:00:19",
+      "album": {
+        "name": "Un Amor Violento",
+        "url": "https://open.spotify.com/album/6GNEPdeN4MKdGwVKnMwnC1"
+      },
+      "artists": [
+        {
+          "name": "The Skatalites",
+          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+        },
+        {
+          "name": "Alvaro Henriquez",
+          "url": "https://open.spotify.com/artist/45H7NFSk6h7YyYP6BiB3EP"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "Un Amor Violento",
+      "url": "https://open.spotify.com/track/3NX364scO2GnsYW0ux81Pc"
     },
     {
       "added_at": "2025-04-04 06:00:19",
@@ -1631,6 +1615,22 @@
       "duration_ms": 137000,
       "name": "La Ca\u00edda y la Gloria",
       "url": "https://open.spotify.com/track/5A1tWza8ztAzZSgvhZzdXe"
+    },
+    {
+      "added_at": "2025-04-04 06:00:19",
+      "album": {
+        "name": "Amores Desechables",
+        "url": "https://open.spotify.com/album/2iKOTY9uyBGJ10eBKTTIFa"
+      },
+      "artists": [
+        {
+          "name": "La Inminente Sociedad",
+          "url": "https://open.spotify.com/artist/7n28xyqjxydlNv65OFFwsG"
+        }
+      ],
+      "duration_ms": 238741,
+      "name": "Amores Desechables",
+      "url": "https://open.spotify.com/track/2FHt2jFXTnemuV1VEEiTQB"
     },
     {
       "added_at": "2025-04-04 06:00:19",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2025-04-04 06:00:19",
       "album": {
+        "name": "El \u00c1tico",
+        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
+      },
+      "artists": [
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "El \u00c1tico",
+      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
+    },
+    {
+      "added_at": "2025-04-04 06:00:19",
+      "album": {
         "name": "Revoluci\u00f3n Ska",
         "url": "https://open.spotify.com/album/2RAOafSouYFgyEKRzUQala"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 243954,
       "name": "Virgen de la Merced",
       "url": "https://open.spotify.com/track/74QCc0AxmtLL10CRqVc2Y7"
-    },
-    {
-      "added_at": "2025-04-04 06:00:19",
-      "album": {
-        "name": "No puedo estar sin ti",
-        "url": "https://open.spotify.com/album/2jWigwCEBrqtdMBb1m0MM7"
-      },
-      "artists": [
-        {
-          "name": "Salon Victoria",
-          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "No puedo estar sin ti",
-      "url": "https://open.spotify.com/track/5gwBr5ySgqNIh7D4BCzhwK"
     }
   ],
   "unique_name": "Ska Latino ",

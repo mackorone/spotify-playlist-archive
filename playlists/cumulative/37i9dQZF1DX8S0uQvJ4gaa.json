@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Brothers Osborne",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: HARDY",
   "name": "New Boots",
   "tracks": [
     {
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 217733,
       "name": "Ain't Enough Cowboy Songs",
       "url": "https://open.spotify.com/track/2m39dZNrCht127n8mzHHfa"
@@ -1694,7 +1694,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 165000,
       "name": "All The Way (feat. Bailey Zimmerman)",
       "url": "https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP"
@@ -4173,6 +4173,28 @@
     },
     {
       "album": {
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156721,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
+    },
+    {
+      "album": {
         "name": "Blonde",
         "url": "https://open.spotify.com/album/6iq0bvsgI0En6mjsPN9Z73"
       },
@@ -4368,6 +4390,24 @@
       "duration_ms": 193901,
       "name": "BOOTS",
       "url": "https://open.spotify.com/track/5d9nNDxhtF99CgFfKm6NK5"
+    },
+    {
+      "album": {
+        "name": "Honkytonk Hollywood",
+        "url": "https://open.spotify.com/album/1eDL4Z6TcdCDul9hip9WiS"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161613,
+      "name": "Boots Off",
+      "url": "https://open.spotify.com/track/3MlvvRRwYfCpgIqUUPeYQ0"
     },
     {
       "album": {
@@ -6023,6 +6063,24 @@
     },
     {
       "album": {
+        "name": "Catch 22",
+        "url": "https://open.spotify.com/album/1BpLEq3RV91FPE7TQd9WDv"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197564,
+      "name": "Catch 22",
+      "url": "https://open.spotify.com/track/6PwQarviIfpD5dqUeGnf01"
+    },
+    {
+      "album": {
         "name": "Catch Myself",
         "url": "https://open.spotify.com/album/74c7axGCsYxOJgGKsrmlhW"
       },
@@ -6774,7 +6832,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 163404,
       "name": "Cold Beer Can (feat. Stephen Wilson Jr.)",
       "url": "https://open.spotify.com/track/5OJktQaLRIrgwOvOAXKyHJ"
@@ -9691,6 +9749,24 @@
     },
     {
       "album": {
+        "name": "Dreams Don\u2019t Die",
+        "url": "https://open.spotify.com/album/0kS7VkeLcJrWUwLUIMfP7Z"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181933,
+      "name": "Dreams Don\u2019t Die",
+      "url": "https://open.spotify.com/track/2ZiIL3VpkHlZ6tfNIfQU6q"
+    },
+    {
+      "album": {
         "name": "Robert Counts - EP",
         "url": "https://open.spotify.com/album/0ziYHrVJ0aQJNOZeVjEvdg"
       },
@@ -11293,6 +11369,24 @@
     },
     {
       "album": {
+        "name": "COUNTRY!",
+        "url": "https://open.spotify.com/album/3f1DEK9vqp8w3NL8w5F1s0"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193248,
+      "name": "Favorite Country Song",
+      "url": "https://open.spotify.com/track/3roJNjr7zRlLyr1bTPq0AS"
+    },
+    {
+      "album": {
         "name": "Fearless (The Echo)",
         "url": "https://open.spotify.com/album/5P0hRYIH6ZpS92LjqyRXuh"
       },
@@ -11564,7 +11658,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 179360,
       "name": "Finish This Drink",
       "url": "https://open.spotify.com/track/2IXB8DfcrFeO75WfEmgu8O"
@@ -12210,7 +12304,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 241120,
       "name": "Footprints",
       "url": "https://open.spotify.com/track/6VeBUA8yPQkB9kjsMrAvjJ"
@@ -12878,6 +12972,28 @@
       "duration_ms": 202440,
       "name": "Get Up and Go",
       "url": "https://open.spotify.com/track/1L3g4WvMpVfQnyI3kz2vre"
+    },
+    {
+      "album": {
+        "name": "Gettin' Gone",
+        "url": "https://open.spotify.com/album/0TRpphCGSFTnRlByhoQ40h"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223493,
+      "name": "Gettin' Gone (feat. Snoop Dogg)",
+      "url": "https://open.spotify.com/track/3tXzpZlejEH13I6nh7iAsE"
     },
     {
       "album": {
@@ -13690,7 +13806,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 216684,
       "name": "GOD & GUNS N\u2019 ROSES",
       "url": "https://open.spotify.com/track/0ryWwDkI0VcjMYJBrN9Fir"
@@ -15026,6 +15142,24 @@
       "duration_ms": 197186,
       "name": "Growin\u2019 Up Raising You",
       "url": "https://open.spotify.com/track/3iuh5xyutKj3TkMjACNLMo"
+    },
+    {
+      "album": {
+        "name": "Grudge",
+        "url": "https://open.spotify.com/album/3fv6xGd7MydT0OjTM7Gnbt"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195810,
+      "name": "Grudge",
+      "url": "https://open.spotify.com/track/5bflBZU8xtdhfuLJMVlVWy"
     },
     {
       "album": {
@@ -16488,6 +16622,24 @@
       "duration_ms": 164000,
       "name": "Heaven On Earth",
       "url": "https://open.spotify.com/track/5IOnG2HrnO062RDwgx0TuO"
+    },
+    {
+      "album": {
+        "name": "The Price of Admission",
+        "url": "https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240800,
+      "name": "Heaven Passing Through",
+      "url": "https://open.spotify.com/track/66Mk4Rd6A08oa6bF27uQxj"
     },
     {
       "album": {
@@ -21468,7 +21620,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 194561,
       "name": "Junk Drawer",
       "url": "https://open.spotify.com/track/0B4qgQpj7GRkboMMFyfrzi"
@@ -22554,7 +22706,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 197280,
       "name": "Let Him In Anyway",
       "url": "https://open.spotify.com/track/0Inv68QN5D9ir2Z2vYAMY1"
@@ -23828,6 +23980,24 @@
       "duration_ms": 213080,
       "name": "Love Like This",
       "url": "https://open.spotify.com/track/4FPgVkHTMhUwQY9tIkG6qJ"
+    },
+    {
+      "album": {
+        "name": "Love Me Tonight",
+        "url": "https://open.spotify.com/album/49mkNoZXgbUHUnB97bfP4e"
+      },
+      "artists": [
+        {
+          "name": "Jay Webb",
+          "url": "https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202370,
+      "name": "Love Me Tonight",
+      "url": "https://open.spotify.com/track/2xtJzZk0TkqB3wD6qaNKuw"
     },
     {
       "album": {
@@ -29816,7 +29986,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 209968,
       "name": "Paper Umbrellas",
       "url": "https://open.spotify.com/track/52MQYkbFuv9UzA8wz927xO"
@@ -31528,7 +31698,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 220000,
       "name": "Restless Mind (feat. Avery Anna)",
       "url": "https://open.spotify.com/track/3HxEGE7XpzqTVHEui3IMyb"
@@ -33082,7 +33252,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 189546,
       "name": "She Drives Away",
       "url": "https://open.spotify.com/track/6ZIw7J7A095b3ekDdWw2eP"
@@ -34056,7 +34226,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 227693,
       "name": "Smoke & Embers",
       "url": "https://open.spotify.com/track/5YAzhZWJfVWHsUmtCqwy1o"
@@ -35663,6 +35833,24 @@
     },
     {
       "album": {
+        "name": "St. Helens Alpenglow",
+        "url": "https://open.spotify.com/album/1sh1SFMAwY63mi7roX84ik"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246882,
+      "name": "St. Helens Alpenglow",
+      "url": "https://open.spotify.com/track/3v7QG2v0gjNN99aIwGKWyJ"
+    },
+    {
+      "album": {
         "name": "Stack of Records",
         "url": "https://open.spotify.com/album/1WqGpWerlizBxrpP4x58kA"
       },
@@ -35876,6 +36064,24 @@
       "duration_ms": 186333,
       "name": "Stay",
       "url": "https://open.spotify.com/track/7fI1bazURhGHnCzATgbU54"
+    },
+    {
+      "album": {
+        "name": "Stay Country or Die Tryin'",
+        "url": "https://open.spotify.com/album/3SlFBTVQSdKBW6KVp5bulU"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221373,
+      "name": "Stay Country or Die Tryin\u2019",
+      "url": "https://open.spotify.com/track/2OVJMopnpJFev3n1NxDJ92"
     },
     {
       "album": {
@@ -37766,6 +37972,24 @@
       "duration_ms": 193702,
       "name": "The Devil\u2019s Still Down in Georgia",
       "url": "https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle"
+    },
+    {
+      "album": {
+        "name": "Leather Deluxe Edition",
+        "url": "https://open.spotify.com/album/5CWUkGGArOj0vj7z1BogV0"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197626,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/4QpuZ1Qbcd11aOtY1kGMRg"
     },
     {
       "album": {
@@ -40816,7 +41040,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 164656,
       "name": "Wait Til You Have Kids",
       "url": "https://open.spotify.com/track/14qSXL0GBRUpHTcGMzr124"

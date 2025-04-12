@@ -1453,6 +1453,28 @@
     },
     {
       "album": {
+        "name": "Enkeli",
+        "url": "https://open.spotify.com/album/68BaBbcSTIuakL0CHamIBt"
+      },
+      "artists": [
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        },
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170240,
+      "name": "Enkeli",
+      "url": "https://open.spotify.com/track/24nWnuX84FdKgpDCZgg3tQ"
+    },
+    {
+      "album": {
         "name": "4AM - EP",
         "url": "https://open.spotify.com/album/4WGMlGqAhpKkgsk0uHhaFx"
       },

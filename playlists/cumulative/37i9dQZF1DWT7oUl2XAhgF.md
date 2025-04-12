@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-498 songs - 1 day 5 hr 58 min
+500 songs - 1 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Coming Home](https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:26 | 2021-07-09 | 2024-03-02 |
 | [Communion in My Cup \(feat\. The Ton3s\)](https://open.spotify.com/track/0gLL2o5wEDK9lpy10nT7Fb) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [The Ton3s](https://open.spotify.com/artist/0UIXG93KWmNPwPbiJF9ds7) | [Red Balloon](https://open.spotify.com/album/3W6zrS9uUbsDtX26ZzsHvE) | 3:28 | 2022-05-13 | 2023-03-25 |
 | [Consider Me](https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Building Balance](https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy) | 3:04 | 2021-07-09 | 2023-01-28 |
-| [Count Me Out](https://open.spotify.com/track/603Rg2nBs2opRZqiueHQnn) | [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [A Lover Was Born](https://open.spotify.com/album/7jgxifgu2gP2BKSEKXkdjV) | 3:46 | 2024-10-18 |  |
+| [Count Me Out](https://open.spotify.com/track/603Rg2nBs2opRZqiueHQnn) | [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [A Lover Was Born](https://open.spotify.com/album/7jgxifgu2gP2BKSEKXkdjV) | 3:46 | 2024-10-18 | 2025-04-12 |
 | [Crazy](https://open.spotify.com/track/1svVLna35B0S0gYRE41UhR) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Crazy](https://open.spotify.com/album/4EQJfPfdovN2uR0Iy3zU1H) | 2:49 | 2024-08-30 |  |
 | [Crazy For You](https://open.spotify.com/track/1sRLsk8xQJA3dQPu6iglM7) | [Conor Hughes](https://open.spotify.com/artist/7uVGtNmhKU2sOSmAvr4ElW) | [Crazy For You](https://open.spotify.com/album/6kiv0BqEcRjmm7Ef4JYWKd) | 2:46 | 2023-06-02 | 2024-05-11 |
 | [Cruel, Cruel World](https://open.spotify.com/track/4h5kyy98D0d5GADmNs5bRD) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [Cruel, Cruel World](https://open.spotify.com/album/2Jplnof86ciDHNdUpRdlWd) | 2:34 | 2025-02-28 |  |
@@ -225,6 +225,7 @@
 | [Just Ain't Gonna Work Out](https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [A Strange Arrangement](https://open.spotify.com/album/0kI88dzVn3VuvjfNS2JElU) | 2:30 | 2021-07-09 | 2023-01-28 |
 | [Just As Long As We're Together](https://open.spotify.com/track/6uAt2PE7YB5gHeCAFeD7G6) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just As Long As We're Together](https://open.spotify.com/album/2q05Sy95Dj43lDHqXANajn) | 3:14 | 2025-03-14 |  |
 | [Just Like You Used To](https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just Like You Used To](https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q) | 3:08 | 2022-09-09 | 2023-03-25 |
+| [Keep Me In Mind](https://open.spotify.com/track/3Uq6ndKDd34GsphNxrzmZg) | [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4), [Renaldo Domino](https://open.spotify.com/artist/1khTv30muAt1j7qrqvjN4U) | [Keep Me In Mind](https://open.spotify.com/album/0RBuoBJVCQx2l3qQx6rSEb) | 3:12 | 2025-04-11 |  |
 | [Keep Your Light on Me](https://open.spotify.com/track/6K5amLJlmAibFCpzMooDv7) | [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r) | [A Good Woman](https://open.spotify.com/album/0Z8ZC3m2EbhMMXcmlpB2S1) | 4:07 | 2023-04-28 | 2023-06-03 |
 | [Kinda Cowgirl](https://open.spotify.com/track/4Hk2jzwMXxMkVBcODfcILC) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Kinda Cowgirl](https://open.spotify.com/album/6BoTRlw3qryfJxVaObaFjp) | 4:17 | 2023-10-06 | 2024-01-13 |
 | [Lady Love](https://open.spotify.com/track/7d8XCLdv4VYAb9YejIcWsH) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Lady Love](https://open.spotify.com/album/4janT6Oq3wApU3v0vs0qlc) | 3:02 | 2022-08-19 | 2022-09-19 |
@@ -329,6 +330,7 @@
 | [Poppyseed](https://open.spotify.com/track/7pMaJob2XJhQqZJ51crGpE) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Poppyseed](https://open.spotify.com/album/6gorqLIe62IVJVrFa9FBVn) | 4:19 | 2022-04-15 | 2023-07-01 |
 | [Prism](https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Prism](https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n) | 3:52 | 2022-08-26 | 2023-02-18 |
 | [Prism](https://open.spotify.com/track/4Sqnq8upurWk6ZS4zOVZvC) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Prism](https://open.spotify.com/album/6AUK6GoEdBjMN8P1YDJz3F) | 3:52 | 2022-08-26 | 2022-10-09 |
+| [Puppet On Your String](https://open.spotify.com/track/3TZvgDK4BNmaAUGX6Ik90R) | [Galactic](https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ), [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Audience With the Queen](https://open.spotify.com/album/5apzPGL9pMN4bLMaNG4pQ6) | 4:19 | 2025-04-11 |  |
 | [Pure Intentions \(feat\. Gabriella\)](https://open.spotify.com/track/4AnEPPs5a8lmsEY75mikDd) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Gabriella](https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM) | [Pure Intentions](https://open.spotify.com/album/3rIYdmlRAN8JIvD2B1hvaP) | 2:56 | 2023-12-29 | 2024-10-05 |
 | [Pushin' On](https://open.spotify.com/track/4zDm8fwLbBwt3DX4txjuZA) | [The Copper Children](https://open.spotify.com/artist/3t2iiEpfJCWJsOWzLWaJIL) | [Strange Illusion](https://open.spotify.com/album/3gVDInIYlBrXuhDjiUC7aL) | 4:17 | 2022-05-06 | 2024-04-19 |
 | [Queen Of Hearts](https://open.spotify.com/track/4Qzm4q1oM6LPchREYr8Bmq) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa) | [Queen Of Hearts](https://open.spotify.com/album/0zoK1cfLzct3p6W6TABxeN) | 3:48 | 2024-09-20 | 2024-10-05 |
@@ -445,7 +447,7 @@
 | [Togetherness](https://open.spotify.com/track/4WiET88jkeGbxkxcFvf4m2) | [The Slim Kings](https://open.spotify.com/artist/0LhcJOSPCu7MwB2o3tZuxf) | [Togetherness](https://open.spotify.com/album/1j37VGRtRJq8ygKuhtoRkX) | 3:24 | 2024-08-16 |  |
 | [Too Late](https://open.spotify.com/track/18zkFoB4z8Tlo9JpGhy12M) | [Deltaphonic](https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8) | [Too Late](https://open.spotify.com/album/3PjN3kcgqMQQGq4nz19JVW) | 4:17 | 2024-08-30 |  |
 | [Too Little, Too Late, Too Bad](https://open.spotify.com/track/2Bo6HLwcrHh7VbTC1CjF55) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ) | 3:44 | 2023-08-18 | 2024-04-19 |
-| [Too Little, Too Late, Too Bad](https://open.spotify.com/track/5IbgM2ByuGPFI4AGY2IWvQ) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Too Little, Too Late, Too Bad](https://open.spotify.com/album/6eWffbV2dUIfGI1pk0G8mo) | 3:44 | 2023-08-18 |  |
+| [Too Little, Too Late, Too Bad](https://open.spotify.com/track/5IbgM2ByuGPFI4AGY2IWvQ) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Too Little, Too Late, Too Bad](https://open.spotify.com/album/6eWffbV2dUIfGI1pk0G8mo) | 3:44 | 2023-08-18 | 2025-04-12 |
 | [Tough Love](https://open.spotify.com/track/5bHUq1YnLxcF8LWjnvFUVp) | [MT Jones](https://open.spotify.com/artist/0DLNLJyVZ55oPrSrsbiD5m) | [Tough Love](https://open.spotify.com/album/3xbBmtxnDlNKYSFyyvlCHe) | 4:17 | 2024-05-24 | 2024-10-05 |
 | [Trade of Hearts](https://open.spotify.com/track/1n3lQ9NRhdY2Km9HGAUdmA) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Easier Said Than Done](https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ) | 2:54 | 2022-01-14 | 2022-08-29 |
 | [Trade of Hearts](https://open.spotify.com/track/6p2uzqM9QqCVxXhs2A9rBN) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 2:54 | 2022-01-14 | 2023-02-18 |

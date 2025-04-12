@@ -4,7 +4,7 @@
 
 > Melons in cover della playlist con la nuova generazione del rap italiano.
 
-1,706 songs - 3 day 0 hr 56 min
+1,707 songs - 3 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -751,6 +751,7 @@
 | [Kabuki](https://open.spotify.com/track/7kCVDY7Cq1ybLjLs7nwJTI) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Kabuki](https://open.spotify.com/album/7zv9IOwE1AVvnvxuQOw0Ye) | 3:00 | 2022-05-19 | 2022-06-17 |
 | [KAIOKEN](https://open.spotify.com/track/1yZYg0gKVTCJbpTStQgtfE) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [KAIOKEN](https://open.spotify.com/album/53JuPn2CJbl5grqiHjHebC) | 2:05 | 2023-11-09 | 2024-03-01 |
 | [KAIOKEN X2](https://open.spotify.com/track/162UZDRBITYlWJRh4nEzI5) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [KAIOKEN X2](https://open.spotify.com/album/4LG23M9ncO84CmaY8QsUTZ) | 2:28 | 2025-03-20 |  |
+| [KALASH](https://open.spotify.com/track/6IUe8UkEVZp6PAYbxkjdxH) | [Daxter](https://open.spotify.com/artist/7ml77C26I1LupIH1R4pEYa), [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [KALASH](https://open.spotify.com/album/5HyymSC87OuytDuZJxbIs7) | 3:40 | 2025-04-11 |  |
 | [KANGAL \(feat\. Emanuelino\)](https://open.spotify.com/track/54ZrCUiyU8xpRp0tr5EQ30) | [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj), [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU) | [KANGAL \(feat\. Emanuelino\)](https://open.spotify.com/album/1mBYnGk6aLbtxkfoh8kFcp) | 1:52 | 2024-10-03 | 2024-10-25 |
 | [Karim Benzema](https://open.spotify.com/track/1hMmlFWT0QteZkuYuCLZHu) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [Karim Benzema](https://open.spotify.com/album/0740FKjdHRQntZFme30P5T) | 2:42 | 2022-10-20 | 2022-12-02 |
 | [Katryn](https://open.spotify.com/track/4qj8LDtoj0PcGXrCoVLEsr) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX) | [Katryn](https://open.spotify.com/album/6dBYNaQv4RsIj27X9XZA4p) | 2:16 | 2023-03-16 | 2023-03-31 |

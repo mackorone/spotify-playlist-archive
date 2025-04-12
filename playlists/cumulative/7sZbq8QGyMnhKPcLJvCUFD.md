@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-692 songs - 1 day 11 hr 4 min
+693 songs - 1 day 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -552,6 +552,7 @@
 | [Sharks](https://open.spotify.com/track/2BWAkwnvTjLAyQzQteVUXE) | [Zeli](https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz) | [Sharks](https://open.spotify.com/album/4xN74bBcTEwFpPRHODfncV) | 3:10 | 2023-03-07 | 2023-08-10 |
 | [Shine](https://open.spotify.com/track/7jW2dcStZndF9lWRrPUvzV) | [Spektrem](https://open.spotify.com/artist/1bNEG4iSClCqQRyZgho3YV) | [Shine](https://open.spotify.com/album/1TS3cjyqnslzRJIU91kGYF) | 5:15 | 2023-08-08 | 2024-01-04 |
 | [Shine \- Always Mirin Remix](https://open.spotify.com/track/3E4XupKOGXm97jh6FyjN9F) | [Spektrem](https://open.spotify.com/artist/1bNEG4iSClCqQRyZgho3YV), [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Shine \(Always Mirin Remix\)](https://open.spotify.com/album/0WQ9UjPuP0EeZxifMZQAtN) | 2:20 | 2024-08-08 |  |
+| [Shine \- Neddie Flip](https://open.spotify.com/track/4GM8xrIQMqyjyJFRF8BIac) | [Spektrem](https://open.spotify.com/artist/1bNEG4iSClCqQRyZgho3YV), [Neddie](https://open.spotify.com/artist/2RMZ8H29R6pconMzF89At5) | [Shine \(Neddie Flip\)](https://open.spotify.com/album/4T4IPXfofFfns30isQ5rm8) | 3:07 | 2025-04-11 |  |
 | [Shiver](https://open.spotify.com/track/5ocjGQzG6yaXnJiZ9wn7dD) | [Sharks](https://open.spotify.com/artist/1C3aEfW34xkicZ5umNYdJM) | [Shiver](https://open.spotify.com/album/2JBjdQlvzhWQ3sbx7hE8rR) | 3:52 | 2022-12-15 | 2023-04-28 |
 | [Shoulders of Giants](https://open.spotify.com/track/5X9Sq58J7nOn5HWSD1cPuz) | [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Shoulders of Giants](https://open.spotify.com/album/1xFA74jZYSwkUdiyornwOh) | 2:18 | 2024-10-23 |  |
 | [Signs](https://open.spotify.com/track/667tUojxiHmk94zqwGlqpH) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [SOXX](https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Signs](https://open.spotify.com/album/3xdSLud2l9GQIeB0yqbIF8) | 2:50 | 2022-06-16 | 2023-04-28 |

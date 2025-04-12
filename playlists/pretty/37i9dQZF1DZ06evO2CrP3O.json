@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 136689,
+  "num_followers": 136760,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/W4gAAAAADJsBmt8NdNIXXyhM7Ip4hL",
+  "snapshot_id": "Z/cKAAAAAACRypQuPW65GrxG2YI6Bzj2",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart of Glass",
-        "url": "https://open.spotify.com/album/3vVl8EtdZcex2ubfCM0QFa"
+        "name": "Greatest Hits: Blondie",
+        "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
       },
       "artists": [
-        {
-          "name": "Kingston Sound System",
-          "url": "https://open.spotify.com/artist/1YmCqinfQtDJdAnNas3WCc"
-        },
         {
           "name": "Blondie",
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 185716,
-      "name": "Heart of Glass",
-      "url": "https://open.spotify.com/track/6ZhKL3eyP0KxatLmtR56G9"
+      "duration_ms": 365693,
+      "name": "Good Boys - Blow-Up Mix / Remastered",
+      "url": "https://open.spotify.com/track/3J08K6VhJNRVwolZ1ETm2a"
     },
     {
       "added_at": null,
@@ -467,18 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits: Blondie",
-        "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
+        "name": "Heart of Glass",
+        "url": "https://open.spotify.com/album/3vVl8EtdZcex2ubfCM0QFa"
       },
       "artists": [
+        {
+          "name": "Kingston Sound System",
+          "url": "https://open.spotify.com/artist/1YmCqinfQtDJdAnNas3WCc"
+        },
         {
           "name": "Blondie",
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 365693,
-      "name": "Good Boys - Blow-Up Mix / Remastered",
-      "url": "https://open.spotify.com/track/3J08K6VhJNRVwolZ1ETm2a"
+      "duration_ms": 185716,
+      "name": "Heart of Glass",
+      "url": "https://open.spotify.com/track/6ZhKL3eyP0KxatLmtR56G9"
     },
     {
       "added_at": null,

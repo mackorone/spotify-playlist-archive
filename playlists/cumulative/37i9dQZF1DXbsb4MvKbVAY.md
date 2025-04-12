@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. 💎 Kannessa ELLIMEI.
 
-1,091 songs - 2 day 6 hr 29 min
+1,092 songs - 2 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Big Love](https://open.spotify.com/track/2NwhnLbGudUmHVNIUqZ3IM) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [Big Love](https://open.spotify.com/album/1XLeAVNFwtytHMwLW4gzhO) | 2:44 | 2024-11-15 | 2024-11-22 |
 | [Bitterness](https://open.spotify.com/track/33S5R4m52NhtO8L0WALM8b) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Bitterness](https://open.spotify.com/album/3Z4tbdCzbTQopMRtgvElL7) | 2:41 | 2025-02-06 | 2025-02-14 |
 | [Blessin vika](https://open.spotify.com/track/0LlGu3YEFllE4Zo7dakAQo) | [Blessi](https://open.spotify.com/artist/2GXErgwgV8dIw36bHi8RVP) | [Blessin vika](https://open.spotify.com/album/19lxQ4rvU3QXtgSc7OLfjU) | 2:43 | 2024-10-10 | 2024-10-18 |
+| [Blink Twice](https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Blink Twice](https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW) | 2:36 | 2025-04-10 |  |
 | [Blood Sweat Tears](https://open.spotify.com/track/0zXNtzZZAE8SEAOuq6PEfY) | [RIKU RAJAMAA](https://open.spotify.com/artist/4hsmFru7NH14y1rtw59tsX) | [Blood Sweat Tears](https://open.spotify.com/album/6CBsLqPSsbikgdUINClZOO) | 2:47 | 2024-09-19 | 2024-09-27 |
 | [BNG](https://open.spotify.com/track/26rwCwEjlbokTJ0IWiwaZp) | [Yavis](https://open.spotify.com/artist/1CFOJLuG4JhEaKOZOkPGwg), [Illi](https://open.spotify.com/artist/2hHqqII5xCoFEpb5tqxBFs), [Rehtori](https://open.spotify.com/artist/0je8GyVcvrmlUThmTFOEt4) | [BNG](https://open.spotify.com/album/0QvLjiSWo1O7LDjYNwZR0l) | 3:03 | 2025-04-10 |  |
 | [Body Type](https://open.spotify.com/track/7iD8SlzwQB6zOVEA4wm3oN) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Body Type](https://open.spotify.com/album/6pteqWmVaX9tkjvzUbdmvG) | 2:12 | 2024-09-05 | 2024-09-13 |

@@ -13784,7 +13784,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 204301,
-      "name": "I'm in Bed",
+      "name": "I'm In Bed",
       "url": "https://open.spotify.com/track/0A2N9tDMTvLjETGgC5I5it"
     },
     {
@@ -16778,7 +16778,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 178422,
       "name": "love is growing",
       "url": "https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg"
@@ -21934,7 +21934,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-11",
+      "date_removed": null,
       "duration_ms": 197410,
       "name": "Porsche",
       "url": "https://open.spotify.com/track/0RS3rznmPFbWe0rebtjnQ4"
@@ -23962,6 +23962,10 @@
         {
           "name": "Andien",
           "url": "https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo"
+        },
+        {
+          "name": "Bandung Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/6UPwjfenR3el43CzhmqVuJ"
         }
       ],
       "date_added": "2025-04-10",

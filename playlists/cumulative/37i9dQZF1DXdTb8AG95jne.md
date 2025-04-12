@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 허회경\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-935 songs - 2 day 9 hr 5 min
+936 songs - 2 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,7 @@
 | [Golden Time !](https://open.spotify.com/track/68cZDWKZ2tShwZDcZxE6sF) | [ahreum](https://open.spotify.com/artist/59ARBW6DM7f37HN93uOjQy) | [Golden Time !](https://open.spotify.com/album/6k102m55xMi1OheH96tfRY) | 2:53 | 2024-04-30 | 2024-05-10 |
 | [Gonna Die](https://open.spotify.com/track/3LTk2U4sgSXS87douZ8ENT) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [Gonna Die](https://open.spotify.com/album/5nLQcMLitti1JYX805cCoO) | 3:24 | 2025-03-04 | 2025-04-11 |
 | [Good bye blue days](https://open.spotify.com/track/0FseBo4lh1WeuvvIKAwsMR) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Good bye blue days](https://open.spotify.com/album/6fujCf3YvZsPCsXIKRMbUe) | 4:11 | 2021-12-12 | 2022-07-28 |
-| [Goodbye blue days](https://open.spotify.com/track/1al6pYbDVgvWgfQAWVOFe6) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [21' Archive](https://open.spotify.com/album/5IkZqnvKVzjH02zsLmeLD6) | 4:11 | 2025-04-11 |  |
+| [Goodbye blue days](https://open.spotify.com/track/1al6pYbDVgvWgfQAWVOFe6) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [21' Archive](https://open.spotify.com/album/5IkZqnvKVzjH02zsLmeLD6) | 4:11 | 2025-04-11 | 2025-04-12 |
 | [Goodbye, fall](https://open.spotify.com/track/0LBSNshLNvYTiP6b4K1RzD) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Goodbye, fall](https://open.spotify.com/album/2E82nqjerYIM9TrlNZeXND) | 3:41 | 2021-12-12 | 2022-07-29 |
 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 | 2022-07-08 |  |
 | [Grassland](https://open.spotify.com/track/5zypY0T6WMsBHcCVWwuCVi) | [Nuz](https://open.spotify.com/artist/01C8gGSy00yG51FOfWzGpT) | [Grassland](https://open.spotify.com/album/5EvOCewuL8RLnCI1ZCYBwL) | 6:21 | 2022-03-31 | 2022-04-15 |
@@ -696,7 +696,7 @@
 | [sky, hands, balloons](https://open.spotify.com/track/2fOdh9tzibnea3DFJViQ7d) | [Cloud koh](https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs) | [sky, hands, balloons](https://open.spotify.com/album/4b4SVwMTIdlAvrqFJQ9iW0) | 3:34 | 2024-10-15 | 2024-11-29 |
 | [Sleepless in Seoul \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [5.2 \(Feat\. LEE SUHYUN\)](https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0) | 4:17 | 2021-12-12 | 2024-06-07 |
 | [Sleepless in Seoul \(feat\. LEE SUHYUN\)](https://open.spotify.com/track/3OrmrZSVQJ8Kt017K51aF2) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [5.2 \(feat\. LEE SUHYUN\)](https://open.spotify.com/album/1aEMUc73KsSG53ysHl8x9f) | 4:17 | 2025-04-11 |  |
-| [Slow wave](https://open.spotify.com/track/0lyxjX6gsY2ADwwL0D7zk4) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [Slow wave](https://open.spotify.com/album/0qBkpCy4NrMI6Yk50eD75x) | 2:38 | 2025-03-21 |  |
+| [Slow wave](https://open.spotify.com/track/0lyxjX6gsY2ADwwL0D7zk4) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [Slow wave](https://open.spotify.com/album/0qBkpCy4NrMI6Yk50eD75x) | 2:38 | 2025-03-21 | 2025-04-12 |
 | [Smile Box](https://open.spotify.com/track/5irBjW7OeN6YAoR9ZUjLtD) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Smile Box](https://open.spotify.com/album/65EYy7wGPTDN7w2tcBfmug) | 3:26 | 2022-03-31 | 2022-04-16 |
 | [Smile!](https://open.spotify.com/track/6Khapx3MSeJU3CAICxVeSv) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Smile! You're On Camera](https://open.spotify.com/album/5XbzCJBgVE0CUWnoXrFKSm) | 3:35 | 2024-04-30 | 2024-05-10 |
 | [snap snap snap \(\#001\_side a\)](https://open.spotify.com/track/0fDi32kFdHYXkdTgnPXS9U) | [DAMYE](https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR) | [snap snap snap \(\#001\_side a\)](https://open.spotify.com/album/2us6DVgvvpbxwvw3jBxBzk) | 2:37 | 2022-03-31 | 2022-05-26 |
@@ -828,6 +828,7 @@
 | [Until tomorrow comes \(feat\. P.RAO\)](https://open.spotify.com/track/20CiPSS7cby4JLhwzPC2JB) | [AQUINAS](https://open.spotify.com/artist/6icWxBzgVFQXsLJN8uIzCR), [P.RAO](https://open.spotify.com/artist/6iGM3mRu8Dgv0vraQmsocz) | [Until tomorrow comes \(feat\. P.RAO\)](https://open.spotify.com/album/3PrBuHgC7Dpgtw3T1Ny2uS) | 3:38 | 2024-01-30 | 2024-05-10 |
 | [Untitled](https://open.spotify.com/track/5DiAPGjSA37OUVDtv3t5MN) | [Cho Hee Won](https://open.spotify.com/artist/5EQY8swADecXlA94pjEyzX) | [Untitled](https://open.spotify.com/album/4AI3v5hgmh3ZETMgw2rJVw) | 3:35 | 2021-12-12 | 2022-05-26 |
 | [Us](https://open.spotify.com/track/4xOxGzY6ctpO2prDbGJbIQ) | [Jade](https://open.spotify.com/artist/2EmcKC5wA38PKb4ue4ZzbE) | [Us](https://open.spotify.com/album/23dZakjHhvfJJsiuX5A8MF) | 3:38 | 2021-12-21 | 2022-07-28 |
+| [Vacation](https://open.spotify.com/track/0M5yxK9rMHXxVPm80ls4XJ) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby), [Kim Hanjoo](https://open.spotify.com/artist/0afEB0h85oZHZfM3crtq0E) | [Vacation](https://open.spotify.com/album/7sTAJIi75smp8DjPQEC4RF) | 4:17 | 2025-04-11 |  |
 | [Vanilla Sundae](https://open.spotify.com/track/5ynIlEuq3O4PyEqRW3bRlE) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Limbo](https://open.spotify.com/album/1PdPZVN1e0s39JUdd1B4uY) | 3:18 | 2024-08-29 | 2024-09-04 |
 | [Velvet Glove](https://open.spotify.com/track/2sw4palAKf0wKtopLjDLSi) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 2:44 | 2024-07-15 | 2024-10-07 |
 | [Venus](https://open.spotify.com/track/31WQPYHmmXFGmKXpmaA6Pe) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [INNER SPACE](https://open.spotify.com/album/1oYzH1AGQsOJEkdSI4gC3z) | 3:11 | 2022-03-31 | 2022-04-18 |
@@ -939,7 +940,7 @@
 | [오월의 나무](https://open.spotify.com/track/4SvybiKZukEaXOk4xA2laz) | [Lucite Tokki](https://open.spotify.com/artist/5AXPLM73kNsbt3lh5bysN9) | [오월의 나무](https://open.spotify.com/album/7eyIv9fDkaHtnVtJGj5It4) | 3:43 | 2022-03-31 | 2022-04-02 |
 | [오키나와 Okinawa](https://open.spotify.com/track/5WJtEElIz5vt7EOEGR97Yz) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [오키나와 Okinawa](https://open.spotify.com/album/16zuGRQCDsJsJL8psjJM9M) | 5:48 | 2021-12-12 | 2022-07-29 |
 | [잊고 살았던 것들](https://open.spotify.com/track/5cSY0Rpfgd9JapMTf9E45W) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [잊고 살았던 것들](https://open.spotify.com/album/3ntu3EDxTwnlUKnglHiUlh) | 3:06 | 2022-03-03 | 2022-06-10 |
-| [집데이트 Home Date](https://open.spotify.com/track/7oZaH7O6NslcxHl2Dbimvm) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Home Date](https://open.spotify.com/album/0x79ov1mXMlwJKpgYhjjsx) | 2:33 | 2025-04-03 | 2025-04-11 |
+| [집데이트 Home Date](https://open.spotify.com/track/7oZaH7O6NslcxHl2Dbimvm) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Home Date](https://open.spotify.com/album/0x79ov1mXMlwJKpgYhjjsx) | 2:33 | 2025-04-03 |  |
 | [편지](https://open.spotify.com/track/4vCFXfI59csHOHeLuy3OC7) | [Terry](https://open.spotify.com/artist/0uf72fxnxE08DbNIHsxEwb) | [편지](https://open.spotify.com/album/6d5eWLmLanYAJCFmFb4OQx) | 3:13 | 2024-11-20 | 2025-01-31 |
 | [포말 Acid Rain](https://open.spotify.com/track/1Ch8Wjmw92ijwDidEO28Mz) | [SHIRTS BOY FRANK](https://open.spotify.com/artist/1v9klSxIYqwmZIHnQ6a1Wk) | [아무도 모르게 피어난 Blooms](https://open.spotify.com/album/1MvUUp1QPeATh9UUUZNVvF) | 2:59 | 2022-03-31 | 2022-04-16 |
 | [황홀한 실종 The Marvelous Absence](https://open.spotify.com/track/1OZkopZBHTl2a68prXyEmJ) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [황홀한 실종 The Marvelous Absence](https://open.spotify.com/album/0En1BFq5Q0eFCw1W3zfluw) | 3:02 | 2022-12-06 | 2022-12-14 |

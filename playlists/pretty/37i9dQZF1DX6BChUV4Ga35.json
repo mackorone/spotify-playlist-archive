@@ -1,13 +1,29 @@
 {
   "description": "Your family can visit all of the animals at the zoo with this fun playlist.",
-  "num_followers": 34859,
+  "num_followers": 34891,
   "original_name": "At The Zoo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+Ye4gAAAADBahu4D+T6EkO78f6oczNs",
+  "snapshot_id": "Z/iT1AAAAAC2TnQvrxdXZFgv2R3iV+dw",
   "tracks": [
+    {
+      "added_at": "2025-04-11 04:00:20",
+      "album": {
+        "name": "Baby Elephant",
+        "url": "https://open.spotify.com/album/0mpGV9894HSExO7goscu0r"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 173482,
+      "name": "Baby Elephant",
+      "url": "https://open.spotify.com/track/5y5ByeT3QilT2woNVAxRaj"
+    },
     {
       "added_at": "2025-02-07 05:00:28",
       "album": {

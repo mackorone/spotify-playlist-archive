@@ -4,7 +4,7 @@
 
 > All your favorite Pixar hits, including Win or Lose, Coco, Turning Red, and The Incredibles, now streaming on Disney+.
 
-99 songs - 4 hr 34 min
+100 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Collard Greens and Cornbread Strut](https://open.spotify.com/track/42XwsjfA3PgkYpPHjtsUZD) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 0:36 | 2023-09-15 |  |
 | [Comedy Can Be Dangerous](https://open.spotify.com/track/3wVleHR6TqJzDvcoPjBb2B) | [Billy Crystal](https://open.spotify.com/artist/4obZSxPoSs6iedmMKPzhwh) | [Monsters at Work \(Original Soundtrack\)](https://open.spotify.com/album/3hWE0SToC8n3y78kcpls1s) | 0:48 | 2023-09-15 |  |
 | [Don't Fight the Rhythm! \- From "Disneyland Resort's Pixar Pals Playtime Party"](https://open.spotify.com/track/3QhIwMB5eIul4JzFGVTlCn) | [Brandon Rogers](https://open.spotify.com/artist/7srpB9KpvRiJMkJIbIk6fy), [Rhett Fisher](https://open.spotify.com/artist/0Uc7yCZJgJilU0md9yyhhA), [Devin Hoffman](https://open.spotify.com/artist/3Rg7OiUyC9WwwbcgZzfwqb) | [Don't Fight the Rhythm! \(From "Disneyland Resort's Pixar Pals Playtime Party"\)](https://open.spotify.com/album/2Hs7U0rI4ITjlt5CzomTW5) | 3:10 | 2024-05-30 |  |
+| [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:29 | 2025-04-11 |  |
 | [Down to Earth \(feat\. Soweto Gospel Choir\)](https://open.spotify.com/track/6QGWsMkxSv2l3Ae3jlsENi) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Rated PG](https://open.spotify.com/album/2r2ARjGkLgHq9FaZW1ytzO) | 5:58 | 2023-09-15 |  |
 | [Down to Earth \- From "WALL\-E"/Soundtrack Version](https://open.spotify.com/track/3RcTV0VBkSwzHNMghOmRbm) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [WALL\-E](https://open.spotify.com/album/6ML1fFTZ11DcCjS6PPnbaB) | 5:57 | 2024-04-08 | 2024-06-01 |
 | [El Latido de mi Corazón](https://open.spotify.com/track/5GqGavoD0DCHBcRxfRK7v1) | [Luis Ángel Gómez Jaramillo](https://open.spotify.com/artist/6UaKHgRNaUxQfQD67gzgc5) | [Coco \(Banda Sonora Original en Español\)](https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI) | 2:01 | 2024-10-10 |  |

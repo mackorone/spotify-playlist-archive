@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-339 songs - 20 hr 29 min
+340 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Talent for Love](https://open.spotify.com/track/4pkOmfEqFFbzJxnMAlVbhS) | [Torgeir Waldemar](https://open.spotify.com/artist/2ATBGwi43EXBAsPIq6VpBp), [Charlotte Qvale](https://open.spotify.com/artist/2jjjHpy5lxIRkTDrIHRH4v) | [Talent for Love](https://open.spotify.com/album/5ALxKEVZJv1eTfWYCTRGfa) | 4:31 | 2022-03-24 | 2022-07-29 |
 | [Tangerine](https://open.spotify.com/track/321CAPcR4HTnaaxR0dus2e) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Tangerine](https://open.spotify.com/album/4yJnsynVnA85f4GcZkZaKg) | 3:05 | 2023-01-05 | 2023-02-21 |
 | [Tell Me About It](https://open.spotify.com/track/4NVTUHYCmMGtnnULELfZjy) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Tell Me About It](https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls) | 3:20 | 2022-02-03 | 2024-01-26 |
+| [The Call is Coming From Inside The House](https://open.spotify.com/track/2lXJCd5rmWww7o8TRSp6eC) | [Elin Sandberg](https://open.spotify.com/artist/0ZQ8Xgo8S2RWjp0vI6gIuA), [Rachel Gonzalez](https://open.spotify.com/artist/63VWVmNJRT50AnblZm24U7), [Julia Gartha](https://open.spotify.com/artist/0msMwWNlbZhRSsGqAQdPAs) | [The Call is Coming From Inside The House](https://open.spotify.com/album/5IH0cLLusgDP2H2lRs6M3y) | 3:04 | 2025-04-10 |  |
 | [The Devil's Tongue](https://open.spotify.com/track/0zJ5Alcy6I5mqjQVcUqTSx) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 2:13 | 2022-07-14 | 2023-08-06 |
 | [The Devil's Tongue](https://open.spotify.com/track/3yhRyEojpXrExN24ypYPET) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/1yqDoOZkNFPbZVwELwWieW) | 2:13 | 2021-12-02 | 2022-07-29 |
 | [The Dream](https://open.spotify.com/track/6aKZ8EvBqy7MrfGHfftiGj) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [The Dream](https://open.spotify.com/album/0jntc8CXP8gFtF81QOYvyD) | 3:13 | 2022-01-20 | 2022-07-27 |

@@ -1,13 +1,29 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 88847,
+  "num_followers": 88859,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+9ZWQAAAACCxnf1jeTsxl5qy+/7iXzz",
+  "snapshot_id": "Z/k06QAAAACKYKesRBlDn6oteHh7+erG",
   "tracks": [
+    {
+      "added_at": "2025-04-11 15:27:37",
+      "album": {
+        "name": "Kansas Anymore (The Longest Goodbye)",
+        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 221103,
+      "name": "Old Recliners",
+      "url": "https://open.spotify.com/track/1PewwBauzqbg7VGp2JHyKZ"
+    },
     {
       "added_at": "2025-04-04 04:00:25",
       "album": {
@@ -41,20 +57,20 @@
       "url": "https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ"
     },
     {
-      "added_at": "2025-03-14 04:00:02",
+      "added_at": "2025-04-11 04:00:21",
       "album": {
-        "name": "Dusty",
-        "url": "https://open.spotify.com/album/0qS2NDMHBbTtTNE0B3CWeb"
+        "name": "Next To Nothing",
+        "url": "https://open.spotify.com/album/07wG33xE4KhKuP5CoY2SBk"
       },
       "artists": [
         {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
         }
       ],
-      "duration_ms": 245776,
-      "name": "Dusty",
-      "url": "https://open.spotify.com/track/2mBzVP4ns9B4yPIZKjN9rV"
+      "duration_ms": 200174,
+      "name": "Next To Nothing",
+      "url": "https://open.spotify.com/track/00aC5vOKuBjjEIkNQJwfBy"
     },
     {
       "added_at": "2025-03-21 04:00:44",
@@ -87,22 +103,6 @@
       "duration_ms": 210926,
       "name": "Alone With You",
       "url": "https://open.spotify.com/track/4twZYaycgkHGouSHWd6coG"
-    },
-    {
-      "added_at": "2025-03-14 04:00:02",
-      "album": {
-        "name": "Unforgivable",
-        "url": "https://open.spotify.com/album/14a6nZ2fG6wnCYkfBBRoc7"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Savior",
-          "url": "https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa"
-        }
-      ],
-      "duration_ms": 223164,
-      "name": "Unforgivable",
-      "url": "https://open.spotify.com/track/3iHORLQOsA5ytboS5DDFl4"
     },
     {
       "added_at": "2025-02-28 05:00:37",
@@ -149,6 +149,22 @@
       "url": "https://open.spotify.com/track/4vmkUd9DjoIePvvAPMWBJY"
     },
     {
+      "added_at": "2025-04-11 04:00:21",
+      "album": {
+        "name": "St. Helens Alpenglow",
+        "url": "https://open.spotify.com/album/1sh1SFMAwY63mi7roX84ik"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "duration_ms": 246882,
+      "name": "St. Helens Alpenglow",
+      "url": "https://open.spotify.com/track/3v7QG2v0gjNN99aIwGKWyJ"
+    },
+    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Too Good to be True",
@@ -163,6 +179,22 @@
       "duration_ms": 160053,
       "name": "Too Good to be True",
       "url": "https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb"
+    },
+    {
+      "added_at": "2025-04-11 04:00:21",
+      "album": {
+        "name": "Do It All For You",
+        "url": "https://open.spotify.com/album/4GraaLa4iuXFLf21hgp8lP"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 274253,
+      "name": "Do It All For You",
+      "url": "https://open.spotify.com/track/7g1UJIJrb70LWlrRBOjNON"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -237,6 +269,22 @@
       "url": "https://open.spotify.com/track/295HBzNKk3Sbm3S3fGuKrT"
     },
     {
+      "added_at": "2025-03-14 04:00:02",
+      "album": {
+        "name": "Dusty",
+        "url": "https://open.spotify.com/album/0qS2NDMHBbTtTNE0B3CWeb"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 245776,
+      "name": "Dusty",
+      "url": "https://open.spotify.com/track/2mBzVP4ns9B4yPIZKjN9rV"
+    },
+    {
       "added_at": "2025-03-03 16:37:52",
       "album": {
         "name": "Kaleidoscope",
@@ -289,22 +337,6 @@
       "url": "https://open.spotify.com/track/6qZmQu0eIzO7VErrOVUCPc"
     },
     {
-      "added_at": "2025-01-10 05:00:39",
-      "album": {
-        "name": "NEVER WANNA LET YOU GO",
-        "url": "https://open.spotify.com/album/7LtEHkLfUrAOq5CUGFPwXh"
-      },
-      "artists": [
-        {
-          "name": "Bren Joy",
-          "url": "https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp"
-        }
-      ],
-      "duration_ms": 200204,
-      "name": "NEVER WANNA LET YOU GO",
-      "url": "https://open.spotify.com/track/1WK90RqsK7hDQTGaEqCM2I"
-    },
-    {
       "added_at": "2025-01-24 05:00:52",
       "album": {
         "name": "BUTTERFLY EFFECT",
@@ -335,22 +367,6 @@
       "duration_ms": 217351,
       "name": "If You Love Her",
       "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
-    },
-    {
-      "added_at": "2025-02-14 05:00:38",
-      "album": {
-        "name": "ICNBYH",
-        "url": "https://open.spotify.com/album/4FneHoDgdZFai9ZzwSfVkB"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 197305,
-      "name": "ICNBYH",
-      "url": "https://open.spotify.com/track/44VZGe3IwqmKoZUo8Z236A"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -843,22 +859,6 @@
       "duration_ms": 214756,
       "name": "After the First Kiss",
       "url": "https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0"
-    },
-    {
-      "added_at": "2024-10-25 17:26:46",
-      "album": {
-        "name": "Anyways",
-        "url": "https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 176888,
-      "name": "Anyways",
-      "url": "https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0"
     },
     {
       "added_at": "2024-10-11 04:00:00",

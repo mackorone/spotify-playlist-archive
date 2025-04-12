@@ -4,7 +4,7 @@
 
 > This week's top new releases, including Lana Del Rey \(pictured\), Monet192, Rauw Alejandro and more.
 
-17,043 songs - 35 day 9 hr 12 min
+17,047 songs - 35 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3189,6 +3189,7 @@
 | [Crazy For You](https://open.spotify.com/track/4oBdt4Hc9fe56P3NwH8JH7) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Crazy For You](https://open.spotify.com/album/5Z88ntvAuIC8yul0wIbeSi) | 2:43 | 2024-10-10 | 2024-10-18 |
 | [Crazy Heart](https://open.spotify.com/track/2b7uPetm5pDLtRv1nIsL0H) | [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE), [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq) | [Crazy Heart](https://open.spotify.com/album/4QM6NDuuxJIyY1YR5rlN4t) | 2:56 | 2025-01-30 | 2025-02-07 |
 | [Crazy Love](https://open.spotify.com/track/2NWwmWKWdTZPajKSraIus3) | [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Crazy Love](https://open.spotify.com/album/7qwBGsPD8VT9jjPEKif07T) | 2:36 | 2022-07-29 | 2022-08-05 |
+| [Crazy Love](https://open.spotify.com/track/00S54Je0ffaNP8ClzQPjWy) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Crazy Love](https://open.spotify.com/album/1d7YlcfbkKjTZi061rJYlo) | 2:00 | 2025-04-11 |  |
 | [Crazy Love](https://open.spotify.com/track/6jQXpMHQNaGGFE03wRDiUM) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Crazy Love](https://open.spotify.com/album/0nFUcnT6Kdx9BWoM3RKAxh) | 3:06 | 2022-06-23 | 2022-07-01 |
 | [Crazy Sexy Dream Girl](https://open.spotify.com/track/7hoWwNa00H6yxrphgy0JsT) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Crazy Sexy Dream Girl](https://open.spotify.com/album/51AT6z6XtArrpKzYq3cnbz) | 2:26 | 2022-10-13 | 2022-10-21 |
 | [Crazy What Love Can Do](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Crazy What Love Can Do](https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707) | 2:49 | 2022-04-07 | 2022-04-15 |
@@ -7005,6 +7006,7 @@
 | [Hör Auf](https://open.spotify.com/track/0QrBlzhR2zhUmTPaMZwM42) | [LIZ](https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm) | [Hör Auf](https://open.spotify.com/album/6J5TKKmUtb6yR7Y9XrLPrS) | 2:29 | 2024-02-01 | 2024-02-09 |
 | [Hör mir noch einmal zu](https://open.spotify.com/track/1V7iXlTg9h6dy7q9qk8Ehw) | [jan SEVEN dettwyler](https://open.spotify.com/artist/0vzAclaaTGJDFQzdWxmTej) | [Schwarz auf Grün](https://open.spotify.com/album/23EG6QL1cCfVSCoTZBZ8F5) | 2:26 | 2024-09-12 | 2024-09-20 |
 | [Hör nie auf damit](https://open.spotify.com/track/60933NIkFKyI5O7cgMWjhA) | [Angela Asiana](https://open.spotify.com/artist/25vgYguyPkprd0hE2IRnZT) | [Hör nie auf damit](https://open.spotify.com/album/5Ta3w7wehddEGyQufUgMow) | 2:42 | 2023-07-06 | 2023-07-14 |
+| [Hör nie auf damit](https://open.spotify.com/track/62Q3cXR1v6AyMEm547hzn1) | [Beatrice Egli](https://open.spotify.com/artist/7J8A1bNBCuikXoOOetFCKz) | [Hör nie auf damit](https://open.spotify.com/album/1bJSJEFeRjSZoxORP4rfSi) | 2:46 | 2025-04-11 |  |
 | [hüt > gester](https://open.spotify.com/track/0tPqdc9fcrMninInk8bJHg) | [Edb](https://open.spotify.com/artist/6HsOYlhc6djdiv6ikVfrGE) | [EDDIE'S TAPE SIDE A](https://open.spotify.com/album/6FIDBiLXvANCob4F3YHn61) | 2:28 | 2025-02-20 | 2025-02-28 |
 | [i adore you](https://open.spotify.com/track/4pjCtQNqtSfWH27ppltLtD) | [Cossmo](https://open.spotify.com/artist/0wxtbXn34Qg45YLDZEyxuz) | [i adore you](https://open.spotify.com/album/4AKly8wxd4g6W4VKzMCiKN) | 2:16 | 2024-05-09 | 2024-05-17 |
 | [I Adore You](https://open.spotify.com/track/34sqMNmzwXKllkc1FJLTR9) | [Whitepumpkin](https://open.spotify.com/artist/10NlN9XAoQgAjPfLk2cW32) | [I Adore You](https://open.spotify.com/album/4jQxqnMa8nyvbym9wxHRBB) | 2:53 | 2024-07-04 | 2024-07-12 |
@@ -8626,6 +8628,7 @@
 | [Legend](https://open.spotify.com/track/2PoL4OzF4YXFD4f4exA2Gw) | [DAWILL](https://open.spotify.com/artist/7oypIsVGKg4FIyuZM1AmeA) | [Legend](https://open.spotify.com/album/1q4RFE1wzKrqodclCsTtZa) | 2:51 | 2023-01-19 | 2023-01-27 |
 | [Legendary](https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Legendary](https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb) | 4:05 | 2024-03-14 | 2024-03-22 |
 | [Legende](https://open.spotify.com/track/5KZ9eb6kuGu9xW2O202qWF) | [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO) | [Legende](https://open.spotify.com/album/274MksbYB5MW90pWPTwQYb) | 2:50 | 2023-06-01 | 2023-06-09 |
+| [Legends \(with Lil Baby\)](https://open.spotify.com/track/4LRxmoIbLJDcvEhqFgSF29) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Legends \(with Lil Baby\)](https://open.spotify.com/album/4m0CbLFqZMcBEA8ChPOPmh) | 3:01 | 2025-04-11 |  |
 | [Lego](https://open.spotify.com/track/3eIWbWHQpCRJQ8kCa36tTA) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Lego](https://open.spotify.com/album/1vPl595eQRgN2gGVzPt6jQ) | 2:40 | 2023-08-31 | 2023-09-08 |
 | [Lego Ring](https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lego Ring](https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz) | 2:43 | 2024-01-11 | 2024-01-19 |
 | [Leicht](https://open.spotify.com/track/5gKjJUeVg91i66KQEq9xyB) | [Lucifer Xo](https://open.spotify.com/artist/3xE1nb6rpQwzHfvNZIn5tb) | [Leicht](https://open.spotify.com/album/3fC25QUjgzDS6qbdPrembu) | 2:25 | 2023-03-30 | 2023-04-07 |
@@ -10604,6 +10607,7 @@
 | [Nie betrunken schreiben !!!!](https://open.spotify.com/track/4PEpN6SoOYPMLIHeM4Kks0) | [Olson](https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI) | [Nie betrunken schreiben !!!!](https://open.spotify.com/album/3XjPWj6iBM8mz3VKoxAHUD) | 2:24 | 2024-07-11 | 2024-07-19 |
 | [Nie da](https://open.spotify.com/track/6n1rHsd9kQhIIwx6WlejUx) | [Maxim](https://open.spotify.com/artist/652XIvIBNGg3C0KIGEJWit), [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Nie da](https://open.spotify.com/album/3rtWWN81AV4HivLtAY8cqr) | 3:32 | 2024-01-18 | 2024-01-26 |
 | [Nie davon](https://open.spotify.com/track/2MLDfhmAN3zq8VRBeVYnns) | [MORGEN](https://open.spotify.com/artist/6YWq8Bl0IRFCWyRYTzthjZ) | [Nie davon](https://open.spotify.com/album/4SWBqOPlefT1XmXgWNX4nr) | 3:22 | 2022-03-03 | 2022-03-11 |
+| [Nie die Musik](https://open.spotify.com/track/4WO6ky76DOB9fzwbcx5Zqi) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Lost Tapes Teil 3](https://open.spotify.com/album/3UHUiMHKq8h3CaEw4Msuum) | 3:23 | 2025-04-11 |  |
 | [NIE GEBRAUCHT](https://open.spotify.com/track/0HENmCBWVEy4gBwrgyJ5mP) | [Fard](https://open.spotify.com/artist/7iZ5x5fwRwROoX3iRWpVgN) | [NIE GEBRAUCHT](https://open.spotify.com/album/3MpBMsRi6L1s1ApgEPemqY) | 2:53 | 2022-08-18 | 2022-08-26 |
 | [nie genug](https://open.spotify.com/track/3WUKRy8TrmJAQQjTwuTZUR) | [Cosima Kiby](https://open.spotify.com/artist/1hm4J3Mp8Yh2TDhOp6u7sM) | [nie genug](https://open.spotify.com/album/0ZtZpOrwh1PmrzjKMz0P9b) | 2:58 | 2025-01-23 | 2025-01-31 |
 | [Nie genug](https://open.spotify.com/track/4z41LDzaAhsGK6pULQ8eMJ) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Nie genug](https://open.spotify.com/album/2AWCbsHDDPkwvXBDaj79n5) | 2:21 | 2022-08-12 | 2022-08-19 |

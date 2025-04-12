@@ -8593,6 +8593,24 @@
     },
     {
       "album": {
+        "name": "Walk Away",
+        "url": "https://open.spotify.com/album/6SU0RYy52AlhbxmqrFLmgT"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189077,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/6v0MkE83u8BmNTgorcN0Bg"
+    },
+    {
+      "album": {
         "name": "Final Call",
         "url": "https://open.spotify.com/album/0wHj1mBDEGQVFbkjD7lXnk"
       },

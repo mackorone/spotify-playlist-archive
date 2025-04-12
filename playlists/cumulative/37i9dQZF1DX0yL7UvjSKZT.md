@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Willi Carlisle
 
-500 songs - 1 day 6 hr 56 min
+501 songs - 1 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [Swarm \(Live\)](https://open.spotify.com/track/1qCRXkjsYFCHbSclL7Q8DE) | [Whiskey Shivers](https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH) | [Whiskey Shivers Live At the Good Music Club](https://open.spotify.com/album/0rpDrksHkwnw2gZ6w5HuV2) | 2:54 | 2021-10-01 | 2023-04-09 |
 | [Sweet Dreams, Caroline](https://open.spotify.com/track/4mIkX72rmpjwcwRn8UrYYj) | [Forest Sun](https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf) | [Hey Magnolia](https://open.spotify.com/album/2PUm4MtzX2s2Hl49RNJX92) | 3:15 | 2023-09-08 | 2024-04-27 |
 | [Swimming](https://open.spotify.com/track/6owT9dDLEt4IHs09znfkBd) | [Abby Webster](https://open.spotify.com/artist/0HhLNo5pI32wCYNKqpXuCD) | [Livin' by the Water](https://open.spotify.com/album/2rWKNPrNt1MNNMwge3V8L2) | 3:16 | 2024-08-16 |  |
+| [Take Me](https://open.spotify.com/track/1o6a5gZjcxsLkpL6K6TpGn) | [The Wildmans](https://open.spotify.com/artist/2sc3hT3TpBoDcuLNgc5Lkw) | [Take Me](https://open.spotify.com/album/0d7tuC3nmXXJup6oj7VRA1) | 3:46 | 2025-04-11 |  |
 | [Take Me as I Am](https://open.spotify.com/track/3Q7MbMK0z9Sn7konorvnsZ) | [Mile Twelve](https://open.spotify.com/artist/7myKB37RtOM7sp6zU9qdJf) | [Take Me as I Am](https://open.spotify.com/album/38RGAkwRVaC7B4NY1RRfNA) | 3:54 | 2023-01-20 | 2024-02-24 |
 | [Tea Kettle Tea](https://open.spotify.com/track/7u0fkaLBo5ikZdWfQO04Ht) | [Ollella](https://open.spotify.com/artist/3YNR12AqEXI45S6sgRrZrI) | [Back Back Back](https://open.spotify.com/album/5dwRcOW8ImaOBfKVaKXH8e) | 4:30 | 2023-04-07 | 2024-02-24 |
 | [Team Hoover](https://open.spotify.com/track/3k62BD8MKYUgOvu82x8glh) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty) | [Team Hoover](https://open.spotify.com/album/1AVH0irCkKoElBzN8vhynT) | 5:41 | 2023-04-14 | 2023-07-22 |

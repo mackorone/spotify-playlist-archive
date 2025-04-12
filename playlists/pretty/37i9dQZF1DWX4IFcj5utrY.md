@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ?si=KTaJSCTNR22ZbiYj7pw7IQ">Kususa</a>, <a href="https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM?si=iapJVwpGQyWqLUnU8dpMhA">Citizen Deep</a>, <a href="https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH?si=oEZwBP2ZSBCgQKbogx4qNw">Kaylow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,952 likes - 70 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,974 likes - 70 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 9 | [Forever Sanne](https://open.spotify.com/track/3e4PI5dcm6gLu2D8DsWYIw) | [Nokta Servo](https://open.spotify.com/artist/1zWDkHiV3HltFihfSClOVq) | [Forever Sanne](https://open.spotify.com/album/0QOrXkYg8v4NFMNbz7AIkQ) | 3:41 |
 | 10 | [Ourea \- Original Mix](https://open.spotify.com/track/0JL49qsbFinwkkgmO5lKsM) | [Protoculture](https://open.spotify.com/artist/37kQjANSQM1tmkTwvB5M96) | [Ourea](https://open.spotify.com/album/1qR7Zo8wA5Ww8sKE5qzhn7) | 3:59 |
 | 11 | [Cultivate](https://open.spotify.com/track/7sCfwSH2lA1KcyGvKgk05l) | [DAMEN](https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ) | [Cultivate](https://open.spotify.com/album/1Wi0y3j5tZ715saVfAj5LU) | 4:01 |
-| 12 | [FOREVER](https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [FOREVER](https://open.spotify.com/album/7cXPqivcSwwoWsx29zT6lq) | 2:39 |
+| 12 | [Forever](https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Forever](https://open.spotify.com/album/7cXPqivcSwwoWsx29zT6lq) | 2:39 |
 | 13 | [Umtalabho](https://open.spotify.com/track/0hs3pTvkISo0OIlP6CDh7O) | [TNS](https://open.spotify.com/artist/5uAbOIIAk6nHfy7gikjmYy) | [Umtalabho](https://open.spotify.com/album/34o38NyLkALw0H5kNS3LE3) | 4:39 |
 | 14 | [All I Got](https://open.spotify.com/track/2LMK2xLfWLKbfjZgtBWByM) | [Masšh](https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Ninae](https://open.spotify.com/artist/5aTBULJ6efMF1VyzcxMXa6) | [All I Got](https://open.spotify.com/album/7Mmq6Qpis7mg3g8j4uzBTL) | 4:55 |
 | 15 | [Ubuntu](https://open.spotify.com/track/3lm83GHCKLxLRMZuUoyXgf) | [FiNE](https://open.spotify.com/artist/1E5TAbchZyu4LowPhxT1OS), [Romy Janssen](https://open.spotify.com/artist/5wizmv8KVwvSrcFyvagn8x), [Tabia](https://open.spotify.com/artist/3fvAIzLvQim7Bas6O8FCK8) | [Ubuntu](https://open.spotify.com/album/5Pibb2PYX8zdphMFVopMVO) | 3:23 |

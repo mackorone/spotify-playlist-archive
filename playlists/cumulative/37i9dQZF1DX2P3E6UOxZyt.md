@@ -2,7 +2,7 @@
 
 ### [RADAR 新勢力](https://open.spotify.com/playlist/37i9dQZF1DX2P3E6UOxZyt)
 
-> 2025 全新陣容出列！MEET THE FUTURE 見証未來巨星！Cover: 游宇潼 \(Eileen Yo\)
+> 2025 全新陣容出列！MEET THE FUTURE 見證未來巨星！Cover: 游宇潼 \(Eileen Yo\)
 
 675 songs - 1 day 14 hr 47 min
 

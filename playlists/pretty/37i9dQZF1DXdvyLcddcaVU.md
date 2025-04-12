@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,475 likes - 90 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,174 likes - 90 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 66 | [Y Que Fue?](https://open.spotify.com/track/5UcVIU1tsbN7ZsOSpR8AFD) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Y Que Fue?](https://open.spotify.com/album/6ZhfK221NirEZkXoXdTyQw) | 2:43 |
 | 67 | [Paranoïa](https://open.spotify.com/track/2xdZCFcEmCXfGWdmgqZxiG) | [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU) | [Comme vous voulez](https://open.spotify.com/album/5D6nkb0MJIZxuVKJb4aE5l) | 2:43 |
 | 68 | [Se\-vrak](https://open.spotify.com/track/2PPbiHIoyr8yMGOfyZMR2X) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Le bruit de mon âme](https://open.spotify.com/album/3CXUsBNZx5yumUzihzq82M) | 4:14 |
-| 69 | [VIBE](https://open.spotify.com/track/5gYvVGN7zpSB0D3KXIEQXf) | [Danilo](https://open.spotify.com/artist/0nztDFQzc7SwCIGZnvDIJ7) | [VIBE](https://open.spotify.com/album/619nUlslMHEPTgMdrlGYAk) | 1:47 |
+| 69 | [VIBE](https://open.spotify.com/track/5gYvVGN7zpSB0D3KXIEQXf) | [Danilo](https://open.spotify.com/artist/0nztDFQzc7SwCIGZnvDIJ7) | [VIBE](https://open.spotify.com/album/619nUlslMHEPTgMdrlGYAk) | 2:01 |
 | 70 | [Ma vida](https://open.spotify.com/track/3vDg435EBd8Eeai5io5vGX) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Et si j'échoue ?](https://open.spotify.com/album/0VrwXgh4GqaIV7XAuMdXDh) | 3:08 |
 | 71 | [Bisous Mwa](https://open.spotify.com/track/4vcZL3UwIGaycYYGWkRgAH) | [Misu Na Misu](https://open.spotify.com/artist/5ZB7FUPkLGJMGqtltU3DjA), [Yaskaa D Yaskii](https://open.spotify.com/artist/1YQAmcZH6kZBaMb7IySYTD), [Djemso](https://open.spotify.com/artist/6Q2cBl4ImaizPVB4qRWbRX) | [Bisous Mwa](https://open.spotify.com/album/2xvTPloz0AfVqfNT1IzHaX) | 2:47 |
 | 72 | [You Don't Know Me](https://open.spotify.com/track/1rFMYAZxBoAKSzXI54brMu) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Don't Know Me](https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B) | 3:33 |

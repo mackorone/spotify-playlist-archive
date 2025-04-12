@@ -9169,6 +9169,28 @@
     },
     {
       "album": {
+        "name": "Kangna Kangna",
+        "url": "https://open.spotify.com/album/2xfJYxcPazPyhaJ8zNV7So"
+      },
+      "artists": [
+        {
+          "name": "Shivjot",
+          "url": "https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs"
+        },
+        {
+          "name": "The Boss",
+          "url": "https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164063,
+      "name": "Kangna Kangna",
+      "url": "https://open.spotify.com/track/5FX40EluUftq8MpHiob6dd"
+    },
+    {
+      "album": {
         "name": "Kanniya",
         "url": "https://open.spotify.com/album/4wVLRcQ8rT2d2pbMNbIscX"
       },
@@ -15366,7 +15388,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 192000,
       "name": "Qudrat",
       "url": "https://open.spotify.com/track/2TKyGcwlH0tYI1kjPl6gyq"

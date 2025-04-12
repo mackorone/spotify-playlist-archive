@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover:  Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,738 likes - 48 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,329 likes - 48 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 2 | [NEXT DOOR \(with Sarkodie\)](https://open.spotify.com/track/0NnsR4mHwY8hAJUGldCUEe) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [NEXT DOOR \(with Sarkodie\)](https://open.spotify.com/album/4WnjNWkD250iwrlUkyYutz) | 2:36 |
 | 3 | [FATÚMATA](https://open.spotify.com/track/1qbmBZepH02Lyfc1hdo3hz) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [DIYILEM & BAZARHOFF : GENIUS](https://open.spotify.com/album/0svMu91wf0T13Of4I0YU9v) | 2:54 |
 | 4 | [Venus \(Feat\. LYVIA\)](https://open.spotify.com/track/6AU1x1glmUlJHOibnW55SN) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [LYVIA](https://open.spotify.com/artist/50lx8GGMkqblJrDSpaV0du) | [Venus \(Feat\. LYVIA\)](https://open.spotify.com/album/2yGFZVTOxzh0TrTVMzsup4) | 3:47 |
-| 5 | [Pas De Commentaire](https://open.spotify.com/track/3uqaOPH5qNI6MknOn526YK) | [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [Pas De Commentaire](https://open.spotify.com/album/5lJY7CMkvHVlT1ROOmlMzf) | 2:37 |
+| 5 | [Pas De Commentaire](https://open.spotify.com/track/3uqaOPH5qNI6MknOn526YK) | [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [Pas De Commentaire](https://open.spotify.com/album/5lJY7CMkvHVlT1ROOmlMzf) | 2:36 |
 | 6 | [Dudu](https://open.spotify.com/track/6b56cSwwp8JXDQiZ4dXkBf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 2:55 |
 | 7 | [Toksik](https://open.spotify.com/track/6Ca8O5aoE1ZoGcmSE0h36X) | [Saalva13](https://open.spotify.com/artist/7ziV83zu4GTZleElZOQM4z) | [Toksik](https://open.spotify.com/album/2HfPtsoN5f7Ckqy1qvVBmX) | 2:44 |
 | 8 | [DOINGZ](https://open.spotify.com/track/6RNP84XyE9eemCgWPVRni8) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [OFA: Deluxe Edition](https://open.spotify.com/album/5aV20I9N3dU2XvgBt6YaVB) | 2:41 |

@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Jenni Vartiainen ja Turisti.
 
-515 songs - 1 day 1 hr 49 min
+516 songs - 1 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [En sitä tarkoittanut](https://open.spotify.com/track/00PdQeNpWlEzqrMN3eauPl) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS), [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht) | [En sitä tarkoittanut](https://open.spotify.com/album/58lUia8zs4GrvsxDt6v3vO) | 2:46 | 2024-07-02 | 2024-08-10 |
 | [En tunne mitään](https://open.spotify.com/track/2Tq6TvRPymUrGdWgILUxj9) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV), [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [En tunne mitään](https://open.spotify.com/album/1C9U1TeUv97mFMTsecCycO) | 3:04 | 2024-10-03 | 2024-10-25 |
 | [Encore](https://open.spotify.com/track/3tL63sIiQeAbuAlK1SOszo) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Encore](https://open.spotify.com/album/7cMAENdfa3iVtcbfhJo6aQ) | 3:22 | 2024-10-17 | 2025-01-03 |
+| [Enkeli](https://open.spotify.com/track/24nWnuX84FdKgpDCZgg3tQ) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Enkeli](https://open.spotify.com/album/68BaBbcSTIuakL0CHamIBt) | 2:50 | 2025-04-11 |  |
 | [Ennallaan \(feat\. SMURDHY\)](https://open.spotify.com/track/5fhlUwhwf4rCTK9VwMXboY) | [Tuure Boelius](https://open.spotify.com/artist/4qojHFVaMgvpZZ1LW0L9To), [SMURDHY](https://open.spotify.com/artist/6bSsc7d3xjgKCIaoRe9QtR) | [4AM \- EP](https://open.spotify.com/album/4WGMlGqAhpKkgsk0uHhaFx) | 2:08 | 2025-01-23 | 2025-03-07 |
 | [Ennen kun sä meet](https://open.spotify.com/track/2MKR7OmHQ2NoqhFbl4tdmZ) | [Tomi Saario](https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H) | [Ennen kun sä meet](https://open.spotify.com/album/2aNLZzioDL0waR2hCcMoV2) | 3:09 | 2024-11-21 | 2025-01-10 |
 | [Ensilumi tulee kuudelta \(Vain elämää kausi 15\)](https://open.spotify.com/track/6lsD85rO2weM3L6I9jLvXC) | [Hanna Pakarinen](https://open.spotify.com/artist/5b7lGX7blhgNvI2i5V6BhE) | [Ensilumi tulee kuudelta \(Vain elämää kausi 15\)](https://open.spotify.com/album/29lRQVqaShYSP1kOtp59zi) | 3:08 | 2024-10-31 | 2024-11-08 |

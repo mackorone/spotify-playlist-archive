@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: FIFTY FIFTY
 
-1,429 songs - 3 day 4 hr 12 min
+1,430 songs - 3 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -602,6 +602,7 @@
 | [In Bloom \- Japanese ver.](https://open.spotify.com/track/32A0F3zsYBiKAUPRtcNWE2) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ゆらゆら \-運命の花\-](https://open.spotify.com/album/27A3UO5hMd5WUHfw4n2NWv) | 3:00 | 2024-03-19 | 2024-04-17 |
 | [In my memory](https://open.spotify.com/track/0f1dv8Dp9wZGkiYgkjIJnj) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Doctor Slump \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/1QPcuxHhaeIhTt7PyWyTIv) | 3:25 | 2024-04-09 | 2024-04-19 |
 | [In my memory](https://open.spotify.com/track/7jtprdBr2xMsctHoiybuqe) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [ドクタースランプ オリジナル・サウンドトラック](https://open.spotify.com/album/1Isd7itfzucN9QbjGFkfp3) | 3:25 | 2024-04-18 | 2024-05-11 |
+| [IN THE RAIN](https://open.spotify.com/track/7gJsLJXg9WIMFG2AoxddtD) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IN THE RAIN](https://open.spotify.com/album/6ny2h77H2ss1kMCsxtY22L) | 3:08 | 2025-04-11 |  |
 | [iNSTEAD!](https://open.spotify.com/track/2aPAg1Wsd1SRg0jZize4hH) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn), [YB Yoon Do Hyun](https://open.spotify.com/artist/3CxOjqgH5PhrYpBjLpVQNe) | [Open ♭eta v6.4](https://open.spotify.com/album/3ns70LFr52z7s1SlNZgZxF) | 2:57 | 2024-09-10 | 2024-10-11 |
 | [Into the Fire](https://open.spotify.com/track/7MtC5CHn69OJYTzmA9fmQC) | [CHANSUNG](https://open.spotify.com/artist/0Xysc1acrmF3w8vMvmSUPW), [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [Changmin Lee](https://open.spotify.com/artist/4nccw03u1XLPVaMMAysdv9) | [Into the Fire](https://open.spotify.com/album/1RYTxkxZisCvw2cEDe57V6) | 3:43 | 2024-04-09 | 2024-05-08 |
 | [Into You](https://open.spotify.com/track/049uXN76j7jCn0OrQiSDCm) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Into You](https://open.spotify.com/album/3rLteXReBNmvMLaTufI17p) | 2:38 | 2024-06-25 | 2024-08-16 |
@@ -1073,7 +1074,7 @@
 | [So I Danced](https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [So I Danced](https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW) | 2:53 | 2023-09-14 | 2023-10-18 |
 | [So Right \(feat\. Yuna\)](https://open.spotify.com/track/4oNDmDKZyn3TdJtZHbZNsj) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [So Right \(feat\. Yuna\)](https://open.spotify.com/album/0ysgkoEbvhX06YfnR5lwJk) | 3:08 | 2022-02-24 | 2022-04-22 |
 | [Social Path](https://open.spotify.com/track/0fkL0fOhEzRK8WFe2ixt2d) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Social Path](https://open.spotify.com/album/69mwX2uyO8FKCc8KkRMHw7) | 3:18 | 2023-08-29 | 2024-04-27 |
-| [SOMETHING AIN'T RIGHT](https://open.spotify.com/track/3RxL9p66oXKuSdXYeFcJeT) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 3:10 | 2025-03-06 |  |
+| [SOMETHING AIN'T RIGHT](https://open.spotify.com/track/3RxL9p66oXKuSdXYeFcJeT) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 3:10 | 2025-03-06 | 2025-04-12 |
 | [SOMETHING AIN'T RIGHT](https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SOMETHING AIN'T RIGHT](https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh) | 3:10 | 2024-07-25 | 2024-10-11 |
 | [Songbird \- Japanese Ver.](https://open.spotify.com/track/3SCRXReEFR5yhw5jnMA0zE) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Songbird](https://open.spotify.com/album/19BPGMIrtPZlPx4LMLQmb2) | 3:01 | 2024-06-25 | 2024-07-31 |
 | [Songbird \- Korean Version](https://open.spotify.com/track/1cMpJsa4qpXyjmVkck6u0f) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Songbird](https://open.spotify.com/album/6b3jGLfth5QGeWUDVssNkG) | 3:01 | 2024-07-02 | 2024-08-21 |

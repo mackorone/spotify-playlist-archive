@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-4,749 songs - 11 day 2 hr 15 min
+4,750 songs - 11 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4566,6 +4566,7 @@
 | [Where I've Been](https://open.spotify.com/track/2PNdDp5z3mKNKwYp7aMPds) | [KANDA](https://open.spotify.com/artist/4ZkbzkKZp4QtUBEExZL9id), [Maniscooler](https://open.spotify.com/artist/2xHR1bhEOLzQI6gV7msLbh) | [Where I've Been](https://open.spotify.com/album/05P3FpKlSqiPYSazY4Hy5Z) | 3:04 | 2023-09-17 | 2023-12-14 |
 | [WHERE SHE GOES](https://open.spotify.com/track/2sTDlCxmuZCTDKKk9f1qus) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:51 | 2023-11-09 | 2023-12-30 |
 | [WHERE SHE GOES](https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [WHERE SHE GOES](https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB) | 3:51 | 2023-05-20 | 2023-07-21 |
+| [Where The Diamonds Hide](https://open.spotify.com/track/6Dnk6RZvM2NEIkKYNtcVee) | [Kylie Rothfield](https://open.spotify.com/artist/5QfKIQ78C8jtliKdwTPHlq), [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Where The Diamonds Hide](https://open.spotify.com/album/159yCcxbkKLycVJiC19gxU) | 3:09 | 2025-04-11 |  |
 | [Where Were you](https://open.spotify.com/track/4slB2tNcQJTpRc7mPdwHqm) | [Brae](https://open.spotify.com/artist/1iVAxDaY7BqF2Qi6tWSsLQ) | [Where Were you](https://open.spotify.com/album/26Nsydt3tc9GTQtCrNEaLc) | 3:16 | 2023-07-15 | 2023-07-29 |
 | [Where You Are](https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Where You Are](https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR) | 3:56 | 2023-12-29 | 2024-03-08 |
 | [Where You Are](https://open.spotify.com/track/2UVG3WfmKvNXLDDV2tmMQl) | [Skinner](https://open.spotify.com/artist/7DCkMrN60O1vPumiMLMfDJ) | [Where You Are](https://open.spotify.com/album/4E28Dezby6Mvr4Waw1vuC6) | 3:40 | 2023-09-01 | 2023-09-26 |

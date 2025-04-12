@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125447,
+  "num_followers": 125448,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAT66/IwpPjeCnRbzUoDJuqOO80nA5r",
+  "snapshot_id": "AAAT7HiKZAd62wX+V4HRUhF55hmxxmhp",
   "tracks": [
+    {
+      "added_at": "2025-04-11 14:46:02",
+      "album": {
+        "name": "Odyssey Soundsystem",
+        "url": "https://open.spotify.com/album/1ZxKili2mstqTPvHrVhbeN"
+      },
+      "artists": [
+        {
+          "name": "No Mana",
+          "url": "https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg"
+        },
+        {
+          "name": "nuphory",
+          "url": "https://open.spotify.com/artist/2K0uRwlc2VKeRoWS8Iuija"
+        },
+        {
+          "name": "Lava Hong",
+          "url": "https://open.spotify.com/artist/6yDrbCYEt6ICpuW4Uc9YZu"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "Forget About Us",
+      "url": "https://open.spotify.com/track/2uxmaOqUv8HGSWyZNMJIA0"
+    },
     {
       "added_at": "2025-04-10 14:55:09",
       "album": {

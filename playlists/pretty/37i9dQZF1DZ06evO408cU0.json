@@ -1,33 +1,13 @@
 {
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
-  "num_followers": 60330,
+  "num_followers": 60347,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/W4gAAAAAB1czMZ2CQzy9XKVhjNoxwR",
+  "snapshot_id": "Z/cKAAAAAAA91wRngrNfQ/+vRYBidwhS",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vuela Alto",
-        "url": "https://open.spotify.com/album/2EJM2bCVNoQdZkdBIAvUzw"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        },
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 158742,
-      "name": "Vuela Alto",
-      "url": "https://open.spotify.com/track/6zAbof3A0ZOt0J7PNF3sIx"
-    },
     {
       "added_at": null,
       "album": {
@@ -507,6 +487,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vuela Alto",
+        "url": "https://open.spotify.com/album/2EJM2bCVNoQdZkdBIAvUzw"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 158742,
+      "name": "Vuela Alto",
+      "url": "https://open.spotify.com/track/6zAbof3A0ZOt0J7PNF3sIx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Consentidos De Don Chuy",
         "url": "https://open.spotify.com/album/0w3gxCIn1UcVJ0w4N54O6W"
       },
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1ximo Nivel",
-        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "\u00bfC\u00f3mo Le Digo?",
-      "url": "https://open.spotify.com/track/7wzf8JSpGi3TQMQDN5JWw9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como No Queriendo",
         "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 198306,
       "name": "Segunda Opci\u00f3n",
       "url": "https://open.spotify.com/track/3bvQCGDb6D66J7b0lzXsKG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1ximo Nivel",
+        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "\u00bfC\u00f3mo Le Digo?",
+      "url": "https://open.spotify.com/track/7wzf8JSpGi3TQMQDN5JWw9"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1ximo Nivel",
-        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "Ya Me Sirvi\u00f3 De Experiencia",
-      "url": "https://open.spotify.com/track/5YYOxnJQZxaGwmHi63EfvI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El N\u00famero 1",
         "url": "https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 163666,
       "name": "El N\u00famero 1",
       "url": "https://open.spotify.com/track/3BaDh7fNIzR4XWZ96qhVc1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1ximo Nivel",
+        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "Ya Me Sirvi\u00f3 De Experiencia",
+      "url": "https://open.spotify.com/track/5YYOxnJQZxaGwmHi63EfvI"
     },
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00edganme Tirando",
-        "url": "https://open.spotify.com/album/61faNqNSGMoB925CzdoonK"
+        "name": "Segunda Temporada",
+        "url": "https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 118250,
-      "name": "Ya La Hice",
-      "url": "https://open.spotify.com/track/3bMkWUcAtAat7K4qr5lWC3"
+      "duration_ms": 157906,
+      "name": "Me Perd\u00ed De Un Amor",
+      "url": "https://open.spotify.com/track/5dIbOZ1cf4UmEPTUoT5h5G"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Segunda Temporada",
-        "url": "https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 157906,
-      "name": "Me Perd\u00ed De Un Amor",
-      "url": "https://open.spotify.com/track/5dIbOZ1cf4UmEPTUoT5h5G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Ver A Qu\u00e9 Horas (En Vivo)",
         "url": "https://open.spotify.com/album/3wEwmBFOd6wiZ6F0zXMy6a"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 153680,
       "name": "A Ver A Qu\u00e9 Horas - En Vivo",
       "url": "https://open.spotify.com/track/5uVPexjpKeTiL5RmMUDTcT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00edganme Tirando",
+        "url": "https://open.spotify.com/album/61faNqNSGMoB925CzdoonK"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 118250,
+      "name": "Ya La Hice",
+      "url": "https://open.spotify.com/track/3bMkWUcAtAat7K4qr5lWC3"
     },
     {
       "added_at": null,

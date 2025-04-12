@@ -4,10 +4,11 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5?si=opxFUOhAQvaEUbEi8SUXQA>Sneziey</a>"
 
-366 songs - 1 day 14 hr 7 min
+367 songs - 1 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Friend](https://open.spotify.com/track/0TU4mBkERL63Bq6m3w3iYN) | [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Relentless Worship](https://open.spotify.com/album/0UUpDP655pzpXrQ5VDMKQe) | 5:55 | 2025-04-11 |  |
 | [A Wonderful Saviour \- Live](https://open.spotify.com/track/2J7YHUq2NmKTtOikTejtGf) | [Siyanqoba Mthethwa](https://open.spotify.com/artist/6hKuIGano3GHEPwvsLUJs4), [Zodwa Mahlangu](https://open.spotify.com/artist/2czeKfN9mrlvFVo7swSl7f), [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4), [Nomthi Sibisi](https://open.spotify.com/artist/3ISBq6orQVcrHRzpdfOG1M) | [Sam's 40th Hymn Night \(Live\)](https://open.spotify.com/album/2kdVZwmIHuqIphyU9xFUX7) | 6:12 | 2024-03-29 | 2024-04-05 |
 | [Africa For Jesus \(Live at Worship House Church Limpopo, 2023\) \(feat\. Mish Mahendere\)](https://open.spotify.com/track/5YtFXVeXtEvSAKDAoYcNZk) | [Worship House](https://open.spotify.com/artist/3Aa2R54aqT4UiklOkE0qwD), [Mish Mahendere](https://open.spotify.com/artist/3yKe6QM3lmU3oyFkONGp5b) | [Africa For Jesus \(Live at Worship House Church Limpopo, 2023\) \(feat\. Mish Mahendere\)](https://open.spotify.com/album/4h6o8q9jm2Ui1PIOuWNbEl) | 7:35 | 2023-12-22 |  |
 | [Akakho Praise \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/11IKsmZ7P7NIaOtm0a5qz3) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Heavenly Psalms \- Level 2 \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/1zBVSPT6EAT7t8Wi10uM1a) | 5:54 | 2024-11-15 | 2025-02-14 |
@@ -227,7 +228,7 @@
 | [Ntate Kemang \- Live](https://open.spotify.com/track/3Gf0vZL1EqayR8su1FlSXd) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Spirit of Praise, Vol\. 6 \(Live\)](https://open.spotify.com/album/1HcsuCBcgQOZs96LGKO9Ba) | 4:29 | 2023-06-16 |  |
 | [Ntho ke ena \(Live\)](https://open.spotify.com/track/2NHFL8FpxYGJ1ovE4uIuWs) | [Tebs David](https://open.spotify.com/artist/5wuC7dnBTQsphj7CIOm4fv) | [Ntho ke ena \(Live\)](https://open.spotify.com/album/0olffnuTDQXe6cYxOse7f3) | 6:00 | 2023-12-22 | 2024-06-07 |
 | [Nxa ngimbona \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/2JWpFdGDHflpiRpfoRilNL) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Nxa ngimbona \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/7DkQ7RJcsGJls3WyfQEwwU) | 6:03 | 2022-03-17 |  |
-| [O Mohau \- Live](https://open.spotify.com/track/6h4NUWNeTXkL4F9ffANek1) | [TSHEPO LEBEPE](https://open.spotify.com/artist/06PQeyGH37N3e3SAxwJ3LG) | [O Mohau \(Live\)](https://open.spotify.com/album/33vVlK1TkmRsDVluVwB7kM) | 9:17 | 2024-11-08 |  |
+| [O Mohau \- Live](https://open.spotify.com/track/6h4NUWNeTXkL4F9ffANek1) | [TSHEPO LEBEPE](https://open.spotify.com/artist/06PQeyGH37N3e3SAxwJ3LG) | [O Mohau \(Live\)](https://open.spotify.com/album/33vVlK1TkmRsDVluVwB7kM) | 9:17 | 2024-11-08 | 2025-04-12 |
 | [O Mohau Messiah \- Live At The Emperors Palace](https://open.spotify.com/track/5kX2Q80IlCS8wGVriBYaIN) | [Dr Winnie Mashaba](https://open.spotify.com/artist/5ZUpkkYxKKwQbd8uNBvw2F) | [O Mohau Messiah \(Live At The Emporers Palace\)](https://open.spotify.com/album/4Ct2CYrtO90t6RrfdhrOX2) | 7:11 | 2024-03-29 | 2024-04-05 |
 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/5SDcksP8En1l6RtTY1wzHc) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion](https://open.spotify.com/album/7LHFVlsndw7HxDGJPWJS7S) | 8:55 | 2024-12-20 |  |
 | [Otshepehile \(Live\)](https://open.spotify.com/track/0KDDwVykcd6tqsIKBT7w9j) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Omega Khunou](https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3) | [Spirit Of Praise 10 \(Live\)](https://open.spotify.com/album/2SgwP9PIXjtzEaGftxQQdv) | 8:03 | 2024-09-06 | 2024-12-20 |

@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,381 songs - 6 day 22 hr 55 min
+4,382 songs - 6 day 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -876,7 +876,7 @@
 | [Dangling](https://open.spotify.com/track/3C53MPJisfjnSxeKt0aStV) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Ruck P](https://open.spotify.com/artist/0SIxAAknV8iR2jHcQJ9Sfn) | [Dangling](https://open.spotify.com/album/209UWiIoiru2UoVaIU3iTn) | 1:44 | 2020-04-18 | 2020-06-29 |
 | [Dark Beauty](https://open.spotify.com/track/7wwsagU4L9TcOdPLbquUn9) | [Jake Five](https://open.spotify.com/artist/4eEuMnsfDZ5YQqQaEfgmwM), [BEAT CIRCUS](https://open.spotify.com/artist/62aYokWOE5KvV0qfgNVM5S) | [Dark Beauty](https://open.spotify.com/album/1fJr36QIKZSk7XpKWRlU9v) | 1:38 | 2020-10-23 | 2021-05-21 |
 | [Dark Road](https://open.spotify.com/track/5tTYLRtP25cqgQ9uvCFZDm) | [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz) | [Dark Road](https://open.spotify.com/album/5XYRD0qpg6nsOZx8pcz4WD) | 2:19 | 2021-05-21 | 2021-10-01 |
-| [Dash!](https://open.spotify.com/track/5At6N0ckZJr0zOOU7HlqAT) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Dash!](https://open.spotify.com/album/4bDULKBUy7H40zkiOlSLYq) | 2:00 | 2025-03-21 |  |
+| [Dash!](https://open.spotify.com/track/5At6N0ckZJr0zOOU7HlqAT) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Dash!](https://open.spotify.com/album/4bDULKBUy7H40zkiOlSLYq) | 2:00 | 2025-03-21 | 2025-04-12 |
 | [dashi](https://open.spotify.com/track/352Pz0upaKO1dZd5A9aJtA) | [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [salina \| dashi](https://open.spotify.com/album/7HAJrkn6X8ecTvqjtR7iKk) | 2:36 | 2020-02-22 | 2020-05-01 |
 | [Daughter of the Sun](https://open.spotify.com/track/76RMCZg2C9xZiARL0E2we6) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Daughter of the Sun](https://open.spotify.com/album/1H3QhC9scEPRQfmCwsDsdb) | 2:13 | 2021-10-22 | 2022-04-08 |
 | [Dawn at the Souk](https://open.spotify.com/track/05KyHSK22P4sLoszUk34dD) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Dawn at the Souk](https://open.spotify.com/album/1WLgN8sZUOEukP5YAvS9Jt) | 5:06 | 2020-03-20 | 2020-08-30 |
@@ -2499,6 +2499,7 @@
 | [My arms are searching for you](https://open.spotify.com/track/4rrqZym1WUAS6YJPfDMN8O) | [S\-Ilo](https://open.spotify.com/artist/04zvEg1lhzzyN1rLgfO8hG), [AM3Y](https://open.spotify.com/artist/4uOWTM9imhVCAWYsdy3DiR) | [The two of us are dying](https://open.spotify.com/album/2Q1nSlCORCLPoW5jH2HJfW) | 2:29 | 2022-03-24 | 2022-05-10 |
 | [My Friends](https://open.spotify.com/track/7L6h3WvfPnUnR1lgIftm2m) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [My Friends](https://open.spotify.com/album/3WXl80tjPstWGYNlFmHwcg) | 1:26 | 2023-05-05 | 2023-05-26 |
 | [My Hope Is Fading](https://open.spotify.com/track/5wjnDO7yBpwIpipsTLzJWu) | [Sepalot](https://open.spotify.com/artist/3sZWrl2jYnPP1vw9cIqDZV) | [My Hope Is Fading](https://open.spotify.com/album/2aPxVI3usClCutyJpb96gw) | 2:00 | 2021-08-13 | 2021-09-10 |
+| [My Moon And Stars](https://open.spotify.com/track/1ld9UbztNm7EjMVEisBn9z) | [Platinum Dust](https://open.spotify.com/artist/4EOKoMTIR7K71Skv7gAmgS) | [My Moon And Stars](https://open.spotify.com/album/3N4Uw2qOwRHNtHp0Sp5L5X) | 1:56 | 2025-04-11 |  |
 | [My Slow Dance](https://open.spotify.com/track/4nSENICQ90bTXPEqBVC3WW) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [My Slow Dance](https://open.spotify.com/album/5bTf1y9gZkYrKkcs0u9FQd) | 2:20 | 2019-05-26\* | 2019-08-13 |
 | [My Sunshine](https://open.spotify.com/track/7o2SgrTlLry8e0pHJrdqQ5) | [Kavv](https://open.spotify.com/artist/2s9AUbN500rutTnXy78HzE) | [Cruise Control](https://open.spotify.com/album/6oFBUoIrI1Qnm5uFJsvJZQ) | 1:46 | 2019-05-26\* | 2019-10-11 |
 | [My Time](https://open.spotify.com/track/6MbhlUMKtLbgVK3NmQ1lSu) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [My Time](https://open.spotify.com/album/5tbp9jnn6WGBrO0AVbCeuQ) | 2:14 | 2021-06-18 | 2021-10-22 |

@@ -4,7 +4,7 @@
 
 > Listen to the recent hits of Christian Rock\.  Cover:  Peyton Parrish
 
-226 songs - 14 hr 34 min
+228 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Angels vs Demons](https://open.spotify.com/track/1on699IUw4o4OsjKXQW5Z9) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [Angels vs Demons](https://open.spotify.com/album/2sqsGbEOAqH3BUBU8q8hFW) | 4:18 | 2022-10-29 | 2024-06-29 |
 | [Anger](https://open.spotify.com/track/5gD8v2cQpErVesfUCyHbGV) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [Anger](https://open.spotify.com/album/3BAge5MsnoJBGFOYakKphb) | 6:16 | 2022-03-11 | 2024-06-29 |
 | [ANOTHER PLACE](https://open.spotify.com/track/6zOzUt4OnMwZ0YlB9CyiII) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [EXILE](https://open.spotify.com/album/02FzGn0oOyVK7V5GdJKdy3) | 4:16 | 2022-10-29 | 2024-05-11 |
-| [Apology](https://open.spotify.com/track/29jYOUhgAWcuKunBAXNqhX) | [World Gone Cold](https://open.spotify.com/artist/1fihHtoFxoZZAdiSethXnr) | [Apology](https://open.spotify.com/album/2yzZZwf1oXZvHwGOY2cgs9) | 4:10 | 2023-11-17 |  |
+| [Apology](https://open.spotify.com/track/29jYOUhgAWcuKunBAXNqhX) | [World Gone Cold](https://open.spotify.com/artist/1fihHtoFxoZZAdiSethXnr) | [Apology](https://open.spotify.com/album/2yzZZwf1oXZvHwGOY2cgs9) | 4:10 | 2023-11-17 | 2025-04-12 |
 | [Ashes to Ashes](https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [The Final Battle](https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy) | 3:53 | 2022-10-29 | 2024-06-29 |
 | [Attack](https://open.spotify.com/track/48HyHfhq5gUI11xucqR6cE) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Attack](https://open.spotify.com/album/7sXChGm9M5qwsrKYb7t2yJ) | 3:12 | 2023-07-07 |  |
 | [Awakening](https://open.spotify.com/track/7FR48bbJ4rMj6VbcMj1S0O) | [Relesser](https://open.spotify.com/artist/2mUGKlvJrS87MDsEFAXIBE) | [Release](https://open.spotify.com/album/3ES159pwFUduOUXzDaxwv3) | 3:21 | 2021-05-28 | 2025-03-15 |
@@ -122,6 +122,7 @@
 | [Let Go](https://open.spotify.com/track/4jMnVm9mlXLPEfmQv7AiG2) | [Set for the Fall](https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr) | [Three Nails](https://open.spotify.com/album/0RE2vOB4UfAJspcAgOUM8w) | 3:30 | 2021-05-28 |  |
 | [Let Go](https://open.spotify.com/track/5lb9lMxW4p4Wm0Ecdv8W7f) | [Set for the Fall](https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr) | [Three Nails](https://open.spotify.com/album/544EtjtqYdmqkar16e8xtc) | 3:30 | 2022-03-11 | 2024-04-19 |
 | [Lighting up the Darkness \(feat\. LKD\)](https://open.spotify.com/track/5YPAJtV7lnCvw2gcKuX0ko) | [FEARLESS BND](https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP), [LKD](https://open.spotify.com/artist/0EpAIZ1nGDiev14xjKhseg) | [Lighting up the Darkness](https://open.spotify.com/album/78cPuJVdYTd5u1X5Z6XSit) | 3:27 | 2023-11-17 |  |
+| [LION](https://open.spotify.com/track/0VkbvqI6XzzXSL7fQKWBPA) | [Peyton Parrish](https://open.spotify.com/artist/62uiaKAdkbY94iXJnXyKzc) | [LION](https://open.spotify.com/album/1CqzOm3jFgTGK2qrMPYknL) | 5:43 | 2025-04-11 |  |
 | [Listen Friend](https://open.spotify.com/track/14AnfhjSiQyo0uNzsjG4bK) | [Above Only](https://open.spotify.com/artist/5xHX5hLVen1uvA6THTO7Tn) | [Listen Friend](https://open.spotify.com/album/5Thzd8nKXasMl4q0rTKo4M) | 4:32 | 2022-01-14 |  |
 | [Live Again](https://open.spotify.com/track/1k64wHAUesHpWz0bBZV8UH) | [Torndown](https://open.spotify.com/artist/04xyr6U6aDe3a4F3xdwnKQ) | [Live Again](https://open.spotify.com/album/4i1mcZW2em8MDCY3D8DnWG) | 3:45 | 2021-05-28 | 2024-11-02 |
 | [Louder Than a Lion](https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT) | [Eisley](https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg) | [I'm Only Dreaming](https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP) | 3:56 | 2021-05-28 | 2025-03-01 |
@@ -139,6 +140,7 @@
 | [NO BROKEN BONES](https://open.spotify.com/track/5AnRxL1OuPhApR177gvs6A) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [NO BROKEN BONES](https://open.spotify.com/album/1QWqhEkgQjiUHnYOuVOgZp) | 3:44 | 2025-03-14 |  |
 | [No Fear In Love](https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL), [White Flag](https://open.spotify.com/artist/1Kb1JBQgQyAVncGfPetaKg) | [No Fear In Love](https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS) | 8:35 | 2022-01-14 | 2024-05-11 |
 | [No One](https://open.spotify.com/track/4hmT4Dmrj45kUTcPdeqvfm) | [Late Night Savior](https://open.spotify.com/artist/4yMIEw1F5ALRIv7bZz0jid) | [No One](https://open.spotify.com/album/2PySo2wK6JkC2qWAJZN2d7) | 3:25 | 2025-02-28 |  |
+| [Noble Bloom](https://open.spotify.com/track/5wV1dqMnU84NRR1QX5ENFG) | [Confessions of a Traitor](https://open.spotify.com/artist/3XxTiLhFGMsWvVfpZ7KlF9) | [Noble Bloom](https://open.spotify.com/album/6I3E6b39DePAgKcSVm8ZmP) | 3:34 | 2025-04-11 |  |
 | [Not Afraid](https://open.spotify.com/track/1TnAZhq4cp6K2I4UmHJzZ4) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:13 | 2024-11-01 |  |
 | [not by sight](https://open.spotify.com/track/2u9kBiQyov0ZI03JT7vvzZ) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [not by sight](https://open.spotify.com/album/7CTzi5vHveROnPfswOJBmW) | 2:54 | 2024-11-01 |  |
 | [Not Dead Yet](https://open.spotify.com/track/4hCkgJwyn7KfnfFSvYf8wF) | [LEDGER](https://open.spotify.com/artist/3OuIyI0FYMUZtINxhQVCL3) | [Not Dead Yet](https://open.spotify.com/album/0KmTOk6a9ny1h2s8QHJLGO) | 3:36 | 2021-05-28 |  |
@@ -175,7 +177,7 @@
 | [SILENCE THE WORLD](https://open.spotify.com/track/01Pair9pvTuMRBcKzpwJ2P) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH), [Tom S\. Englund](https://open.spotify.com/artist/1JlSPIWzXu3HwBgealhTIk) | [SILENCE THE WORLD](https://open.spotify.com/album/7oEjybhppczzGPKjbV8sTw) | 7:13 | 2022-10-29 | 2024-06-29 |
 | [Sky Is Falling](https://open.spotify.com/track/6K6W4BZlJdmRWAyJkdVgxd) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Sky Is Falling](https://open.spotify.com/album/5EfennornsN32G2PJtDopy) | 3:53 | 2021-05-28 | 2022-01-15 |
 | [Sleight of Hand](https://open.spotify.com/track/4CuLObVhLWmiXjIRqo1kpy) | [War Of Ages](https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx) | [Sleight of Hand](https://open.spotify.com/album/4J7qDs39IrhORen418Vnt1) | 3:54 | 2022-01-14 | 2023-04-17 |
-| [Sometimes I Dream](https://open.spotify.com/track/1jNI2ktaQCKGsIvqxql9uy) | [Chase Wagner](https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi) | [Sometimes I Dream](https://open.spotify.com/album/3SLiB3DUGnCs8xFjf6Hzbf) | 3:24 | 2024-08-30 |  |
+| [Sometimes I Dream](https://open.spotify.com/track/1jNI2ktaQCKGsIvqxql9uy) | [Chase Wagner](https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi) | [Sometimes I Dream](https://open.spotify.com/album/3SLiB3DUGnCs8xFjf6Hzbf) | 3:24 | 2024-08-30 | 2025-04-12 |
 | [Spiral](https://open.spotify.com/track/11uhSa3OZqe9kUhb7DEpRl) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp), [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Spiral](https://open.spotify.com/album/5fzhFWMDLOZfogXUGPk8Oe) | 3:05 | 2025-02-07 |  |
 | [Standing in the Storm](https://open.spotify.com/track/5ABl9GeMcWog9Yrur3P9Jq) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Standing in the Storm / Surviving The Game](https://open.spotify.com/album/3cIRw4SnfPO2TXVJK8C1nG) | 4:17 | 2022-01-14 | 2024-06-29 |
 | [State of Me](https://open.spotify.com/track/7rSW52PJGbeFMwIdk5kEmB) | [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [Kenotic Metanoia](https://open.spotify.com/album/0yZGwoSScfeRA5dbZ6NGy3) | 3:14 | 2023-11-17 | 2024-06-29 |

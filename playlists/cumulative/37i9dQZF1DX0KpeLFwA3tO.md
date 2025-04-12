@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Teen Mortgage
 
-2,396 songs - 4 day 23 hr 31 min
+2,397 songs - 4 day 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -653,7 +653,7 @@
 | [Drummy](https://open.spotify.com/track/4VTfUAR1whyc1R6JyjcmQq) | [J.R.C.G.](https://open.spotify.com/artist/4aNwMw5llWDwwA67i4sO7J) | [Drummy](https://open.spotify.com/album/2ErXM9EeeMNYDKMvYlaxrc) | 2:53 | 2024-07-11 | 2024-08-24 |
 | [Drunk Dial](https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:30 | 2022-03-04 | 2022-04-22 |
 | [Drunk Talk](https://open.spotify.com/track/4tvtPbLFQLcK4QdMcDrvpV) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [Drunk Talk](https://open.spotify.com/album/1CAV9augIvtY9KBw3rmbVX) | 2:31 | 2025-01-24 | 2025-03-28 |
-| [Drunk Talk](https://open.spotify.com/track/5ve3qnXRJgPMDppIZLpRPR) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [Drunk Talk](https://open.spotify.com/album/5IEJ5aLWiBkOL8o444XiOj) | 2:31 | 2025-04-10 |  |
+| [Drunk Talk](https://open.spotify.com/track/5ve3qnXRJgPMDppIZLpRPR) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [Drunk Talk](https://open.spotify.com/album/5IEJ5aLWiBkOL8o444XiOj) | 2:31 | 2025-04-10 | 2025-04-12 |
 | [Dry](https://open.spotify.com/track/1YvsrD53Bi8dmj6AOhqfng) | [Dan Andriano & The Bygones](https://open.spotify.com/artist/0va9M8UhKeaMMRnZZ6pj6z) | [Dry](https://open.spotify.com/album/7JekjkeRfWNu44wTbva12w) | 3:04 | 2023-08-10 | 2023-09-22 |
 | [Dubious Goals Committee](https://open.spotify.com/track/144Jot5eX2l1y9Q70ZlJPs) | [PROJECTOR](https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9) | [Dubious Goals Committee](https://open.spotify.com/album/7ADlWHy7sSIq7qSiTCwPe8) | 2:14 | 2024-01-05 | 2024-02-16 |
 | [dumb \(feat\. Tom The Mail Man\)](https://open.spotify.com/track/1q5ooychN0b2PkpHQ2aQsq) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [f.e.a.r.](https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA) | 2:44 | 2022-05-05 | 2022-06-18 |
@@ -1270,6 +1270,7 @@
 | [Losing What We Love](https://open.spotify.com/track/6CrWJF0SI2XfWGMzyXdIZe) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Losing What We Love](https://open.spotify.com/album/6uROVKhZs2MvHAHUdwAwb3) | 3:41 | 2023-09-28 | 2023-11-24 |
 | [Lost \(Between Darkness & Hope\)](https://open.spotify.com/track/5Ji1DGRzALnJuMg3lYiFU7) | [MATW](https://open.spotify.com/artist/6PxvVTrmdw8uzYvTuFTYMX) | [Lost \(Between Darkness & Hope\)](https://open.spotify.com/album/3DCV71xJoPdT5n49Ps33cd) | 2:46 | 2024-07-04 | 2024-08-16 |
 | [Lost and Found](https://open.spotify.com/track/7BzfqlcZzFr2bjTbLfxx1a) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Lost and Found](https://open.spotify.com/album/7y2bMzJ7K5qgtnEIJeyat7) | 4:15 | 2025-04-10 |  |
+| [Lost In Time](https://open.spotify.com/track/6RxAiQGhBC9mZhWQEXJn6M) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [GET BENT!](https://open.spotify.com/album/3GGarrspHOxKZ9TCrOzq4t) | 2:52 | 2025-04-11 |  |
 | [Lost it in the Lights](https://open.spotify.com/track/6sAYDdfiY3wT2J5lBfp4lX) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [The Hum Goes on Forever](https://open.spotify.com/album/0g2D3Epl3VzLbvtVeQhJQv) | 3:53 | 2022-09-22 | 2022-11-11 |
 | [Lost My Shadow](https://open.spotify.com/track/54wWzjb8JrOl99lr1gtDEI) | [IST IST](https://open.spotify.com/artist/5YiRgqaj5yVjVtUp4G6iUq) | [Lost My Shadow](https://open.spotify.com/album/7999iknBu9Bi1JwrKVTBFN) | 3:07 | 2024-03-08 | 2024-05-04 |
 | [Love](https://open.spotify.com/track/1nZE8JlX06YgVqbpBZytwh) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Love](https://open.spotify.com/album/0JcO8e5GOVKwVlkyw25wa3) | 3:40 | 2024-11-22 | 2025-03-07 |

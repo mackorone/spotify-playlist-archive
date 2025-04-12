@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Murilo Huff, Z\u00e9 Neto & Cristiano\n",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Simone Mendes",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -2523,6 +2523,24 @@
     },
     {
       "album": {
+        "name": "Filho da M\u00e3e (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0qRxN9Kk8579hU3yTjyR92"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137349,
+      "name": "Filho da M\u00e3e - Ao Vivo",
+      "url": "https://open.spotify.com/track/7opE9OJaqrvkQspmfJdVsS"
+    },
+    {
+      "album": {
         "name": "Jb&V 21 In Concert, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2QBGxpW0DghBTheXIT5ozx"
       },
@@ -3360,7 +3378,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 163307,
       "name": "Meu Pra Sempre N\u00e3o Era Meu - Ao Vivo",
       "url": "https://open.spotify.com/track/7CutNxjzAKbs7EhBAlnRJt"
@@ -4883,6 +4901,24 @@
     },
     {
       "album": {
+        "name": "Saudade Proibida (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0dBMGKZldtmOrLaF2h5jSa"
+      },
+      "artists": [
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160634,
+      "name": "Saudade Proibida - Ao Vivo",
+      "url": "https://open.spotify.com/track/40WZQRA3T6WZFIgskIAAz7"
+    },
+    {
+      "album": {
         "name": "Saveiro",
         "url": "https://open.spotify.com/album/6uVgeP03fiAhjy23TVWKzS"
       },
@@ -5058,7 +5094,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 156757,
       "name": "Sofrimento Simult\u00e2neo - Ao Vivo",
       "url": "https://open.spotify.com/track/63Vdw2P2cw1Gf8ABQiEjXD"

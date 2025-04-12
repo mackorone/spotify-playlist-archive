@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: Danique & Ruben Annink",
+  "description": "De nieuwste Nederlandse pop! Cover: FLEMMING & Broederliefde",
   "name": "Je Moerstaal",
   "tracks": [
+    {
+      "album": {
+        "name": "'s Avonds",
+        "url": "https://open.spotify.com/album/5sP1fZrdIBXxXeU0daeAko"
+      },
+      "artists": [
+        {
+          "name": "PRISKA",
+          "url": "https://open.spotify.com/artist/2VnNxgnvg9H85vWtZuBo6w"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172616,
+      "name": "'s Avonds",
+      "url": "https://open.spotify.com/track/7x1g0FzxUy4ca0NQE6ufl3"
+    },
     {
       "album": {
         "name": "Doodgewoon",
@@ -806,6 +824,28 @@
       "duration_ms": 193694,
       "name": "Alleen Met Jou",
       "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
+    },
+    {
+      "album": {
+        "name": "Allerlaatste Keer",
+        "url": "https://open.spotify.com/album/5MoUJ6qQGpX9Twa0J5kSkl"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        },
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140416,
+      "name": "Allerlaatste Keer",
+      "url": "https://open.spotify.com/track/60K3UHojqQw1GJKhAF6EM6"
     },
     {
       "album": {
@@ -2615,6 +2655,24 @@
     },
     {
       "album": {
+        "name": "Breekbaar",
+        "url": "https://open.spotify.com/album/67gtivu8XG2GH7lnSHmv30"
+      },
+      "artists": [
+        {
+          "name": "Kaya",
+          "url": "https://open.spotify.com/artist/6JHeO4hQdbJWt1eLhs6W01"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185718,
+      "name": "Breekbaar",
+      "url": "https://open.spotify.com/track/6Z9eh1NPCXQg1kehZXMA27"
+    },
+    {
+      "album": {
         "name": "Broekzak",
         "url": "https://open.spotify.com/album/7dO0EkaIp3HzIuwmUem66T"
       },
@@ -3621,6 +3679,24 @@
     },
     {
       "album": {
+        "name": "De Tijd",
+        "url": "https://open.spotify.com/album/4HckpkaqP3McpKkcscRbcr"
+      },
+      "artists": [
+        {
+          "name": "Flaire",
+          "url": "https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213336,
+      "name": "De Tijd",
+      "url": "https://open.spotify.com/track/3S4ag2mjZWA7rxrhWWc1D3"
+    },
+    {
+      "album": {
         "name": "De Tijd Gaat Mooie Dingen Doen",
         "url": "https://open.spotify.com/album/4qwPLM18gSBRtb9twSnOGU"
       },
@@ -4327,6 +4403,24 @@
     },
     {
       "album": {
+        "name": "Droom Een Beetje Meer",
+        "url": "https://open.spotify.com/album/5IU8dhrYtcOteiLfPw7HFt"
+      },
+      "artists": [
+        {
+          "name": "Guus Hulshof",
+          "url": "https://open.spotify.com/artist/5G2yrrfIxyRjzNGWtz7mYl"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205472,
+      "name": "Droom Een Beetje Meer",
+      "url": "https://open.spotify.com/track/31bSYd3Vn2OVmAysLXm3yy"
+    },
+    {
+      "album": {
         "name": "Per Ongeluk",
         "url": "https://open.spotify.com/album/4e4ksXE7OauJdBlmebPHJJ"
       },
@@ -4544,7 +4638,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 199108,
       "name": "Eenzame Nacht",
       "url": "https://open.spotify.com/track/05rDzpftmp52BxVjHta9TI"
@@ -5718,6 +5812,24 @@
       "duration_ms": 141932,
       "name": "Handrem",
       "url": "https://open.spotify.com/track/4s72CMCZtnxbRIJPUzdC4C"
+    },
+    {
+      "album": {
+        "name": "Hard Hout",
+        "url": "https://open.spotify.com/album/4olpplTVPCKmgIxDOinv2E"
+      },
+      "artists": [
+        {
+          "name": "Big2",
+          "url": "https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Hard Hout",
+      "url": "https://open.spotify.com/track/4d3lKZ5YOnt3pWSp9yUTG9"
     },
     {
       "album": {
@@ -7090,6 +7202,24 @@
       "duration_ms": 131250,
       "name": "Iets In De Lucht",
       "url": "https://open.spotify.com/track/2HboxpER5N3RbCypbms0Ke"
+    },
+    {
+      "album": {
+        "name": "Ik begin vandaag",
+        "url": "https://open.spotify.com/album/5Wn5sUN2fMgQTqOq7ebh9D"
+      },
+      "artists": [
+        {
+          "name": "Nielson",
+          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190997,
+      "name": "Ik begin vandaag",
+      "url": "https://open.spotify.com/track/1WIS9zIiH7dVxvTudGdp6g"
     },
     {
       "album": {
@@ -9342,6 +9472,24 @@
       "duration_ms": 111963,
       "name": "Lievelingsliedje",
       "url": "https://open.spotify.com/track/09loqVGwx6dKiEorjoV2uR"
+    },
+    {
+      "album": {
+        "name": "Liever Alleen",
+        "url": "https://open.spotify.com/album/1ob5HedmuqybnqU3Cuxnqf"
+      },
+      "artists": [
+        {
+          "name": "Denise Kroes",
+          "url": "https://open.spotify.com/artist/4tHksjDEYAhsV4qECw4gG6"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142040,
+      "name": "Liever Alleen",
+      "url": "https://open.spotify.com/track/2fumi15cc9DlAbRK7JH25g"
     },
     {
       "album": {
@@ -13841,6 +13989,24 @@
     },
     {
       "album": {
+        "name": "Tegenwoordige Tijd",
+        "url": "https://open.spotify.com/album/6d79uOXZQzXHdWGf1koPHH"
+      },
+      "artists": [
+        {
+          "name": "Pommelien Thijs",
+          "url": "https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243426,
+      "name": "Tegenwoordige Tijd",
+      "url": "https://open.spotify.com/track/3LJGcwFLKV4tjG27LdUcjq"
+    },
+    {
+      "album": {
         "name": "Tempo Giusto",
         "url": "https://open.spotify.com/album/16md54d8y1FGKBZvHZCljR"
       },
@@ -15012,6 +15178,24 @@
       "duration_ms": 213811,
       "name": "Vier Seizoenen",
       "url": "https://open.spotify.com/track/0Y9BkgFnckuG7dZrJAjk3j"
+    },
+    {
+      "album": {
+        "name": "Vieze Dingen",
+        "url": "https://open.spotify.com/album/4nNsZ3SwBtAcyUFzCwWrMg"
+      },
+      "artists": [
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131547,
+      "name": "Vieze Dingen",
+      "url": "https://open.spotify.com/track/3GzsVvah7WHhzTAxUVEB3Y"
     },
     {
       "album": {
@@ -16942,6 +17126,24 @@
       "duration_ms": 149045,
       "name": "Zoveel Mooie Dagen",
       "url": "https://open.spotify.com/track/1M6fiGx0cHpGLG08fibQdr"
+    },
+    {
+      "album": {
+        "name": "Zoveel Vragen",
+        "url": "https://open.spotify.com/album/1ZHKZorebwH9bA7d9uBuoo"
+      },
+      "artists": [
+        {
+          "name": "Vincent Visser",
+          "url": "https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141120,
+      "name": "Zoveel Vragen",
+      "url": "https://open.spotify.com/track/2eZzjhfVbbVhvviIhANChf"
     },
     {
       "album": {

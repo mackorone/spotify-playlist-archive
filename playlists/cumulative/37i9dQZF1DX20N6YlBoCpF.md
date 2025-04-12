@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Tamlyn Wessels, Karlien Van Jaarsveld, Ruan Josh, Janie Bay, Venter en meer!
 
-1,640 songs - 3 day 19 hr 15 min
+1,641 songs - 3 day 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,6 +493,7 @@
 | [Getroude Boude](https://open.spotify.com/track/6uLCYySr4QxglFTmhQOZJH) | [Peer Papsak](https://open.spotify.com/artist/5tIdqrPNjJrG3JpyYY4D25) | [Getroude Boude](https://open.spotify.com/album/2DitNCv66bEHYVCushkd2A) | 2:46 | 2024-12-05 | 2025-03-07 |
 | [Gewoond](https://open.spotify.com/track/6RaV6anj9whhIksFmrYSYy) | [Esmé Fox](https://open.spotify.com/artist/2soXQDHomd9ZOGEEPMrswb) | [Gewoond](https://open.spotify.com/album/3E5bE4MktwaJFj7Fl960K9) | 3:26 | 2024-02-15 | 2024-03-29 |
 | [GG Baby](https://open.spotify.com/track/2m092k8A0GyeAaxtcZsCOU) | [Groot Geraas](https://open.spotify.com/artist/22mvNtn2L9hIK5vyVKL9ZC) | [Dis GG Baby](https://open.spotify.com/album/43JIs9wHeTUeH5eDnCTNeZ) | 3:53 | 2024-02-22 | 2024-03-01 |
+| [Ghost Rider](https://open.spotify.com/track/7yY19ftTx7KgHBnAvpWBXx) | [Saarkie](https://open.spotify.com/artist/1ZuXFw4O5v2QaNNxZki6Qf) | [Ghost Rider](https://open.spotify.com/album/0LDEZkdEjgsc4xyvWtEuY6) | 2:37 | 2025-04-10 |  |
 | [Gister Is Vandag Se Gewete](https://open.spotify.com/track/1s9cuJPl1fnExdldYifWoR) | [Dozi](https://open.spotify.com/artist/46hYfC7ROSU1sxGMK0pKXf) | [Gister Is Vandag Se Gewete](https://open.spotify.com/album/7qsoPGoW46cvRpMzabHLIW) | 4:18 | 2023-11-30 | 2023-12-15 |
 | [Gisteraand](https://open.spotify.com/track/5BXyxGP29VxbOIopmOpdBN) | [Dans Dans Lisa](https://open.spotify.com/artist/6Kasz09T76a1IAveNC2xZH) | [Die gids vir grootword](https://open.spotify.com/album/1NmIZyDHE2FJmqH5EZPejU) | 3:24 | 2023-12-29 | 2024-01-06 |
 | [Glaskas](https://open.spotify.com/track/0ttom5DU6qAvHvguRtJoTT) | [SHY!](https://open.spotify.com/artist/7lsZGTHjhhQdoxIeBkiKAh) | [Glaskas](https://open.spotify.com/album/0XuhJ748EIr3zBJdTKJH4g) | 3:34 | 2024-04-18 | 2024-05-10 |

@@ -4,7 +4,7 @@
 
 > Lull your little ones to sleep with piano music.
 
-717 songs - 21 hr 56 min
+722 songs - 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [By The Cradle](https://open.spotify.com/track/6FxRsfSfCoqHXAON2nulL1) | [Sanne Botner](https://open.spotify.com/artist/25V7uZKxpWTpnu4Y5ETyvP) | [By The Cradle](https://open.spotify.com/album/2hqhEduOMzfIQ0AbcsueB6) | 1:31 | 2021-10-07 | 2023-02-10 |
 | [By your side](https://open.spotify.com/track/5JKjHjwYPyIxxDy43GuMl1) | [Cosima Bradley](https://open.spotify.com/artist/6l8VqzILTHqmDJfISU6bPg) | [By your side](https://open.spotify.com/album/37YO5uKuY3Sv5ZlITBeIo2) | 1:28 | 2023-02-10 |  |
 | [Can You Feel The Love Tonight](https://open.spotify.com/track/6KQVHlSUKdIEO91qTNm6Uz) | [Mingmei Hsueh](https://open.spotify.com/artist/2Z1JaXCxqUBOH0Zm2Eyrxq) | [My Dream](https://open.spotify.com/album/31elgDQoMPiS8VCMVBxbcA) | 2:10 | 2021-10-07 | 2022-05-14 |
+| [Candle](https://open.spotify.com/track/6NgpEQZnBj7mPls6Po5nFf) | [Tod Forest](https://open.spotify.com/artist/3dR4DyRnf8FpWedmeoDnNw) | [Candle](https://open.spotify.com/album/44uQ12HqEUAezRIwSUHgez) | 2:48 | 2025-04-11 |  |
 | [Cardboard Castle](https://open.spotify.com/track/3d72QILd88K2qjBCOBQ8J4) | [Martin Grenelle](https://open.spotify.com/artist/7oBwDTaXpreH9jqXxtH2VP) | [Cardboard Castle](https://open.spotify.com/album/4SOIW6vEU6cDugXU0UbQKb) | 1:20 | 2021-10-07 | 2022-10-29 |
 | [Când dormi](https://open.spotify.com/track/45ooWO3dKj5NLNWObG2qUY) | [Fatima Tozer](https://open.spotify.com/artist/4l6pTqlXq109BCGwYjzFBA) | [Când dormi](https://open.spotify.com/album/1ULnMZQNlfzlcUop8m6JcO) | 1:30 | 2021-10-07 | 2024-03-29 |
 | [Chaleur](https://open.spotify.com/track/4le1ArFsfqh1aQBJWjCJyX) | [Line Tromse](https://open.spotify.com/artist/6Jo2zwheonzrtoiXhTUTcI) | [Chaleur](https://open.spotify.com/album/1L3ZLiLYLbVmDcLDMMZiJx) | 2:44 | 2024-05-24 | 2025-03-05 |
@@ -161,6 +162,7 @@
 | [Dreamslide](https://open.spotify.com/track/7xbXN5zQ89EwsU4Lcz6J3V) | [Curly Purples](https://open.spotify.com/artist/34BqjxKhJHCPhOJNfeGhDC) | [Dreamslide](https://open.spotify.com/album/0qv7ygBZbyKPyI5Q9LnkbH) | 1:35 | 2021-10-07 | 2023-10-06 |
 | [Dreamswing](https://open.spotify.com/track/44xSmkzDCWN8oJxrCB8pCM) | [Vincent Lundborg](https://open.spotify.com/artist/30nuHxknx89pxWn3jaKp5A) | [Dreamswing](https://open.spotify.com/album/7BDShI8oQkJ6J8Sdq266qp) | 1:58 | 2024-01-05 | 2024-05-24 |
 | [Dreamy Blue Skies](https://open.spotify.com/track/0d40MSLNaKFXjFuZguT6G6) | [Anton De Ville](https://open.spotify.com/artist/2TXm3XMc58UbpoeVEopfTt) | [Dreamy Blue Skies](https://open.spotify.com/album/72d9Ox5YwMRlrLAkjosNHA) | 1:39 | 2023-12-22 |  |
+| [Drifting Off](https://open.spotify.com/track/6XFxCAlMKQ22za0hPQZm5T) | [A\. Rustique](https://open.spotify.com/artist/45a6vDcpLuV4ACyTwptNvN) | [Drifting Off](https://open.spotify.com/album/5u5TWcrEnzFN9zxl7F7CtA) | 1:19 | 2025-04-11 |  |
 | [Drifting Off](https://open.spotify.com/track/08mDKHVrKDN7NeIXvZ1J33) | [Holly Doris](https://open.spotify.com/artist/4SqjCvakZzR5FMrHGba3L7) | [Drifting Off](https://open.spotify.com/album/0l4j3CpfWQCu4jdZa7NZJz) | 2:33 | 2021-10-07 | 2024-04-19 |
 | [Drømmenes verden](https://open.spotify.com/track/71tEUkRXpGDFEqAkVIcOkX) | [Demi Rasmussen](https://open.spotify.com/artist/6bYwWlhCzdXNlqFmwyZOTD) | [Drømmenes verden](https://open.spotify.com/album/34hkOMErIOW4N5Gp9o6gXj) | 2:17 | 2022-12-09 | 2025-03-05 |
 | [Early in the morning](https://open.spotify.com/track/2VCNBuJor5UVnwomVvBpwk) | [Jeb Lucky](https://open.spotify.com/artist/1sHdqBnwuUJSz1fef6Jk0E) | [Early in the morning](https://open.spotify.com/album/6Ec37wWRMzqhSMAAHcTHTC) | 1:41 | 2021-10-07 | 2024-03-29 |
@@ -213,6 +215,7 @@
 | [Gabby Goldfish](https://open.spotify.com/track/7DBZniWi3JF3iAHY7AmqKU) | [Haleema Andrews](https://open.spotify.com/artist/2NfeYG57SY7w0whb8XUXcm) | [Gabby Goldfish](https://open.spotify.com/album/1GhnGptvUiNQoefVrfxvW0) | 1:34 | 2022-01-21 | 2025-03-05 |
 | [Garden Roses](https://open.spotify.com/track/1Hk5HsgILlZxv8hTDHjAFZ) | [Eden Parks](https://open.spotify.com/artist/4s4Bb2TBJLW89tZOV5pz8G) | [Songs from the valley](https://open.spotify.com/album/0WIBmu22RxfRMvqASl8MyA) | 2:29 | 2021-10-07 | 2022-12-24 |
 | [Gentle Dreams](https://open.spotify.com/track/1kETBJfZROZUl3nngNRVRu) | [Mary Monroe](https://open.spotify.com/artist/34r7GYfCBgI8AHhKuazmtc) | [Gentle Dreams](https://open.spotify.com/album/4f3WGJ9z4RtE9S8015k7pq) | 2:18 | 2021-10-07 | 2024-04-19 |
+| [Gentle Summer Whisper](https://open.spotify.com/track/5tVlmRlcwpDtE5VN9cumxF) | [Serenna Rose](https://open.spotify.com/artist/2xf55c70Tg8MFm1ZB6uXfY) | [Gentle Summer Whisper](https://open.spotify.com/album/0sSYuvTwd0x7vgjZIgU1XN) | 2:23 | 2025-04-11 |  |
 | [Gently Cradle](https://open.spotify.com/track/5k1LfmLmkpgxL6iwwcwyuQ) | [Otis Meadow](https://open.spotify.com/artist/4vnYAza7qzjL5eUwP0yAN8) | [Gently Cradle](https://open.spotify.com/album/36H11bkZQLUreavU491N7w) | 2:11 | 2025-04-04 |  |
 | [Georgie Porgie](https://open.spotify.com/track/5Ta2XWU7fE69bU1w3ZDILn) | [Peter Ehrlichmann](https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx) | [Eeny Meeny Miny Moe](https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus) | 1:11 | 2021-10-07 | 2022-12-24 |
 | [Gigglepaws](https://open.spotify.com/track/0OKnujtaEPOi8KIR7zpQo2) | [The Stories We Tell](https://open.spotify.com/artist/0KZ1jg7xT2z2zrMCY2iAlB) | [Gigglepaws](https://open.spotify.com/album/63fT6KHGS3LydubtYtztPc) | 1:49 | 2024-09-13 |  |
@@ -468,6 +471,7 @@
 | [Pebbles](https://open.spotify.com/track/0XEA4ZTY7m2VkeCBr8NlN1) | [Cedric Everglen](https://open.spotify.com/artist/4Y7mB4gR5LDCmloQWn9oEZ) | [Pebbles](https://open.spotify.com/album/35CkredxHmiBacvD8py5ZD) | 2:17 | 2024-12-20 |  |
 | [Penny The Penguin](https://open.spotify.com/track/31czMw13DeNKlKSzpkhtXp) | [Ebbe & Lilly](https://open.spotify.com/artist/26zaS9jwYG7PxrixBvYXGA) | [Penny The Penguin](https://open.spotify.com/album/2gxNs8OMzjCRuZ3NbvfO80) | 1:36 | 2023-02-10 | 2023-06-09 |
 | [Peppa pig theme](https://open.spotify.com/track/4Lp6k5QJ93u0f7xLyGESWT) | [Amélie Blumenthal](https://open.spotify.com/artist/5DkA7CcQDIGJjwvA6Amkpo) | [Peppa pig theme](https://open.spotify.com/album/31HygwzcDqvPQfBOj6LNIv) | 1:28 | 2023-11-17 | 2025-03-05 |
+| [Petal\-soft](https://open.spotify.com/track/4w783qm4zlrrFDL8Uov6tR) | [Iris Avory](https://open.spotify.com/artist/20V4zCnXKfYPn2rzNQaRMF) | [Petal\-soft](https://open.spotify.com/album/7mvucJTMhIq6iq4HGivSKb) | 1:29 | 2025-04-11 |  |
 | [Petite Journey](https://open.spotify.com/track/5bLD4xsq1eJ4y3dsvLFzAj) | [Mauve Dream](https://open.spotify.com/artist/5qAdQ8ZpVTZAA0M3xEExBE) | [Petite Journey](https://open.spotify.com/album/5TrWKbluMCFdTvRWB5KDmI) | 1:53 | 2025-03-07 |  |
 | [Pets in the Pantry](https://open.spotify.com/track/0Uf7YfpUwzvMvcvYbPm2Ib) | [Marcy Adams](https://open.spotify.com/artist/4mVp3c1SN2YFC9JoQub9qC) | [Forever A Child](https://open.spotify.com/album/2NzyhwHm2uavPqFfk7WuI3) | 2:16 | 2021-10-07 | 2025-03-05 |
 | [Pillow Song](https://open.spotify.com/track/1OxwqQtoZisqOzBsWys97H) | [Hilary Parkman](https://open.spotify.com/artist/7Kwvf1uZze90FKtvXhITrQ) | [Pillow Song](https://open.spotify.com/album/1KIwslH32t2kfNyEuhb7Iq) | 1:16 | 2021-10-07 | 2025-03-05 |
@@ -500,6 +504,7 @@
 | [Rock\-a\-bye Baby](https://open.spotify.com/track/5lGbPQlAf985dbQwKs3SeU) | [Adam Hart](https://open.spotify.com/artist/0K2mOIo1scrrzg1IWBOnre) | [Rock\-a\-bye Baby](https://open.spotify.com/album/4rXiFqL4A7D2N49RvYeJnb) | 1:50 | 2022-11-25 | 2024-05-04 |
 | [Rock\-a\-bye baby](https://open.spotify.com/track/4nOisgM4hvUMXtZrpTzcf8) | [Sally Holland](https://open.spotify.com/artist/5ozhAjJnyusQHHWCp9GmYy) | [Edelweiss](https://open.spotify.com/album/17aWKxeqXLul02uML9NWYF) | 1:55 | 2023-05-11 | 2023-06-09 |
 | [Rockabye Baby](https://open.spotify.com/track/47hPOcAbwkZJLRK5XFZouA) | [Andrew Witzinger](https://open.spotify.com/artist/6TB4YN8Qg0o4CxG6OG1j61) | [Classics](https://open.spotify.com/album/73gqUj4H5eAmSENGEt5mQv) | 1:56 | 2021-10-07 | 2022-10-29 |
+| [Rocking to Sleep](https://open.spotify.com/track/4G1kd8BzVXDgpAI2C0U1i9) | [Peyton Malloye](https://open.spotify.com/artist/6jEf6RIwSbHVnBM8dWxCVx) | [Rocking to Sleep](https://open.spotify.com/album/6ck0w6StGXsKLetcWdxiby) | 1:56 | 2025-04-11 |  |
 | [Room For One More](https://open.spotify.com/track/7JsEBQiCoVUoF7ryygpwBf) | [Lev Castillo](https://open.spotify.com/artist/6dyJAS8BWMoNaWDHxJR2J6) | [Room For One More](https://open.spotify.com/album/2fvKK9bz4BRUteKXj8DW6s) | 2:11 | 2022-02-10 | 2025-03-05 |
 | [Rosenkind](https://open.spotify.com/track/00Svmn3xZkxULzAhqHnokf) | [Dalia Carlsson](https://open.spotify.com/artist/2hah3Hgur8jxcflNja3D1k) | [Rosenkind](https://open.spotify.com/album/5KIKqL5CNTsD0xiMZteLFY) | 2:08 | 2022-01-21 | 2023-10-21 |
 | [Row, Row, Row Your Boat](https://open.spotify.com/track/1neW540exG7Nm22gWhiHDu) | [Sophie Sunshine](https://open.spotify.com/artist/24MtI0BZh79QjxNmIrNHwF) | [Row, Row, Row Your Boat](https://open.spotify.com/album/2R5ySO2bsFZmS9xPsAezzG) | 1:12 | 2022-07-27 | 2025-03-05 |

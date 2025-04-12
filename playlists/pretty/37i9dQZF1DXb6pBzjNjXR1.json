@@ -1,6 +1,6 @@
 {
   "description": "Listen to the best in AfroTech that was born in Southern Africa, as it travels the world's dancefloors. ",
-  "num_followers": 26904,
+  "num_followers": 26923,
   "original_name": "AfroTech Now",
   "owner": {
     "name": "Spotify",
@@ -119,26 +119,6 @@
     {
       "added_at": "2025-04-10 23:57:20",
       "album": {
-        "name": "Pure Light",
-        "url": "https://open.spotify.com/album/50HEh9S4tXZKiZvGpMRk3f"
-      },
-      "artists": [
-        {
-          "name": "Kin\u00edch 7",
-          "url": "https://open.spotify.com/artist/2qQk0LIcHS4IUOUkAt693N"
-        },
-        {
-          "name": "CamelVIP",
-          "url": "https://open.spotify.com/artist/7eoCdH9Q2zwsyZrggvXNWE"
-        }
-      ],
-      "duration_ms": 359000,
-      "name": "Pure Light",
-      "url": "https://open.spotify.com/track/38InztsS0ly6vgOrsHiVeG"
-    },
-    {
-      "added_at": "2025-04-10 23:57:20",
-      "album": {
         "name": "Secret ID",
         "url": "https://open.spotify.com/album/0F35l11dnpqFzuPMMaJ1QN"
       },
@@ -155,6 +135,26 @@
       "duration_ms": 415661,
       "name": "Secret ID",
       "url": "https://open.spotify.com/track/3DFuT29Zjg3UR2mXmim5Y9"
+    },
+    {
+      "added_at": "2025-04-10 23:57:20",
+      "album": {
+        "name": "Pure Light",
+        "url": "https://open.spotify.com/album/50HEh9S4tXZKiZvGpMRk3f"
+      },
+      "artists": [
+        {
+          "name": "Kin\u00edch 7",
+          "url": "https://open.spotify.com/artist/2qQk0LIcHS4IUOUkAt693N"
+        },
+        {
+          "name": "CamelVIP",
+          "url": "https://open.spotify.com/artist/7eoCdH9Q2zwsyZrggvXNWE"
+        }
+      ],
+      "duration_ms": 359000,
+      "name": "Pure Light",
+      "url": "https://open.spotify.com/track/38InztsS0ly6vgOrsHiVeG"
     },
     {
       "added_at": "2025-04-10 23:57:20",
@@ -351,6 +351,30 @@
     {
       "added_at": "2025-04-10 23:57:20",
       "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/7oY5Xy6be2R9efmDVoCnvi"
+      },
+      "artists": [
+        {
+          "name": "Joezi",
+          "url": "https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B"
+        },
+        {
+          "name": "Bun Xapa",
+          "url": "https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ"
+        },
+        {
+          "name": "Bobbi Fallon",
+          "url": "https://open.spotify.com/artist/2iGBTGNxBGp36zT37zvpHB"
+        }
+      ],
+      "duration_ms": 213559,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/5EJGNjrRsfgwgFj7hvf7fR"
+    },
+    {
+      "added_at": "2025-04-10 23:57:20",
+      "album": {
         "name": "Kibe",
         "url": "https://open.spotify.com/album/3BySqole2DAhAo1iuh4dCM"
       },
@@ -375,30 +399,6 @@
       "duration_ms": 452231,
       "name": "Kibe",
       "url": "https://open.spotify.com/track/060BS9l7ElcJ05jsnQ7F6t"
-    },
-    {
-      "added_at": "2025-04-10 23:57:20",
-      "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/7oY5Xy6be2R9efmDVoCnvi"
-      },
-      "artists": [
-        {
-          "name": "Joezi",
-          "url": "https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B"
-        },
-        {
-          "name": "Bun Xapa",
-          "url": "https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ"
-        },
-        {
-          "name": "Bobbi Fallon",
-          "url": "https://open.spotify.com/artist/2iGBTGNxBGp36zT37zvpHB"
-        }
-      ],
-      "duration_ms": 213559,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/5EJGNjrRsfgwgFj7hvf7fR"
     },
     {
       "added_at": "2025-04-10 23:57:20",
@@ -527,18 +527,22 @@
     {
       "added_at": "2025-04-10 23:57:20",
       "album": {
-        "name": "After All / Hidden Place",
-        "url": "https://open.spotify.com/album/3SIJcmFrw2GfqlTsdl3joD"
+        "name": "Two Zulu Men In Ibiza EP",
+        "url": "https://open.spotify.com/album/5EbkVB9wNhdpHYOxSVY8Dz"
       },
       "artists": [
         {
-          "name": "Ankho\u00ef",
-          "url": "https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4"
+          "name": "DJ Merlon",
+          "url": "https://open.spotify.com/artist/3qFcd2aD9HCbpBO88l0Zff"
+        },
+        {
+          "name": "Enoo Napa",
+          "url": "https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC"
         }
       ],
-      "duration_ms": 320000,
-      "name": "After All",
-      "url": "https://open.spotify.com/track/6mQKtXxkbTVamgyRayRQLL"
+      "duration_ms": 421027,
+      "name": "Two Zulu Men In Ibiza",
+      "url": "https://open.spotify.com/track/6CWJQvtLGj52iA7ulDljW8"
     },
     {
       "added_at": "2025-04-10 23:57:20",
@@ -563,22 +567,18 @@
     {
       "added_at": "2025-04-10 23:57:20",
       "album": {
-        "name": "Two Zulu Men In Ibiza EP",
-        "url": "https://open.spotify.com/album/5EbkVB9wNhdpHYOxSVY8Dz"
+        "name": "After All / Hidden Place",
+        "url": "https://open.spotify.com/album/3SIJcmFrw2GfqlTsdl3joD"
       },
       "artists": [
         {
-          "name": "DJ Merlon",
-          "url": "https://open.spotify.com/artist/3qFcd2aD9HCbpBO88l0Zff"
-        },
-        {
-          "name": "Enoo Napa",
-          "url": "https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC"
+          "name": "Ankho\u00ef",
+          "url": "https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4"
         }
       ],
-      "duration_ms": 421027,
-      "name": "Two Zulu Men In Ibiza",
-      "url": "https://open.spotify.com/track/6CWJQvtLGj52iA7ulDljW8"
+      "duration_ms": 320000,
+      "name": "After All",
+      "url": "https://open.spotify.com/track/6mQKtXxkbTVamgyRayRQLL"
     },
     {
       "added_at": "2025-04-10 23:57:20",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-04-10 23:57:20",
       "album": {
-        "name": "UNRELEASED x ADE",
-        "url": "https://open.spotify.com/album/27GLsMZqMBSZiGANuOR2h9"
-      },
-      "artists": [
-        {
-          "name": "Ankho\u00ef",
-          "url": "https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4"
-        }
-      ],
-      "duration_ms": 368429,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/3uSSEJShIOgk2h0apyvbSR"
-    },
-    {
-      "added_at": "2025-04-10 23:57:20",
-      "album": {
         "name": "Waves (Enoo Napa Remix)",
         "url": "https://open.spotify.com/album/5ZQuvOnCp38opDe5Et1EK6"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": "2025-04-10 23:57:20",
       "album": {
+        "name": "UNRELEASED x ADE",
+        "url": "https://open.spotify.com/album/27GLsMZqMBSZiGANuOR2h9"
+      },
+      "artists": [
+        {
+          "name": "Ankho\u00ef",
+          "url": "https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4"
+        }
+      ],
+      "duration_ms": 368429,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/3uSSEJShIOgk2h0apyvbSR"
+    },
+    {
+      "added_at": "2025-04-10 23:57:20",
+      "album": {
         "name": "Gas Gas Gas",
         "url": "https://open.spotify.com/album/3pK4BmjaWRITdVwNOHNNfQ"
       },
@@ -787,6 +787,26 @@
       "duration_ms": 448620,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/2SfuL6MWdfHkI00BnJvHyl"
+    },
+    {
+      "added_at": "2025-04-10 23:57:20",
+      "album": {
+        "name": "Ma Tnsani (Yalla Habibi)",
+        "url": "https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n"
+      },
+      "artists": [
+        {
+          "name": "Vanco",
+          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
+        },
+        {
+          "name": "AYA",
+          "url": "https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Ma Tnsani (Yalla Habibi)",
+      "url": "https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm"
     },
     {
       "added_at": "2025-04-10 23:57:20",
@@ -847,26 +867,6 @@
     {
       "added_at": "2025-04-10 23:57:20",
       "album": {
-        "name": "Ma Tnsani (Yalla Habibi)",
-        "url": "https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n"
-      },
-      "artists": [
-        {
-          "name": "Vanco",
-          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
-        },
-        {
-          "name": "AYA",
-          "url": "https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Ma Tnsani (Yalla Habibi)",
-      "url": "https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm"
-    },
-    {
-      "added_at": "2025-04-10 23:57:20",
-      "album": {
         "name": "Ghetto King",
         "url": "https://open.spotify.com/album/3q8v4F3zabaHlG5IVECT6r"
       },
@@ -891,22 +891,18 @@
     {
       "added_at": "2025-04-10 23:57:20",
       "album": {
-        "name": "Kudala",
-        "url": "https://open.spotify.com/album/4EBOl7sT4IBsIok13OuFov"
+        "name": "Kitchen",
+        "url": "https://open.spotify.com/album/3NDTDQxYna7jg2BIF2hayy"
       },
       "artists": [
         {
-          "name": "Mas\u0161h",
-          "url": "https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs"
-        },
-        {
-          "name": "Yolanda Fyrus",
-          "url": "https://open.spotify.com/artist/0Z3evqvXEMRMYCp3I6o43s"
+          "name": "Vanco",
+          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
         }
       ],
-      "duration_ms": 399070,
-      "name": "Kudala",
-      "url": "https://open.spotify.com/track/5Fpey8B0yaVJk6pK3Ava5m"
+      "duration_ms": 430867,
+      "name": "Kitchen",
+      "url": "https://open.spotify.com/track/2Kksd9ZgBAb31BzKrC47HL"
     },
     {
       "added_at": "2025-04-10 23:57:20",
@@ -935,6 +931,26 @@
     {
       "added_at": "2025-04-10 23:57:20",
       "album": {
+        "name": "Kudala",
+        "url": "https://open.spotify.com/album/4EBOl7sT4IBsIok13OuFov"
+      },
+      "artists": [
+        {
+          "name": "Mas\u0161h",
+          "url": "https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs"
+        },
+        {
+          "name": "Yolanda Fyrus",
+          "url": "https://open.spotify.com/artist/0Z3evqvXEMRMYCp3I6o43s"
+        }
+      ],
+      "duration_ms": 399070,
+      "name": "Kudala",
+      "url": "https://open.spotify.com/track/5Fpey8B0yaVJk6pK3Ava5m"
+    },
+    {
+      "added_at": "2025-04-10 23:57:20",
+      "album": {
         "name": "I Don't Want You EP",
         "url": "https://open.spotify.com/album/3Cvp2HUYpvELoYfO52hWcF"
       },
@@ -955,22 +971,6 @@
     {
       "added_at": "2025-04-10 23:57:20",
       "album": {
-        "name": "Kharnju EP",
-        "url": "https://open.spotify.com/album/25SUuaNTAJt4hSHGO7mvbr"
-      },
-      "artists": [
-        {
-          "name": "Drega",
-          "url": "https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG"
-        }
-      ],
-      "duration_ms": 379713,
-      "name": "Ingxaki Zinintsi",
-      "url": "https://open.spotify.com/track/5kvIQnld0is7PkpNFBHxMP"
-    },
-    {
-      "added_at": "2025-04-10 23:57:20",
-      "album": {
         "name": "Kunitamale",
         "url": "https://open.spotify.com/album/5df09cDBAMKQ7rMKzZ1b0S"
       },
@@ -987,6 +987,22 @@
       "duration_ms": 444866,
       "name": "Kunitamale",
       "url": "https://open.spotify.com/track/446T86UmUBOvGnzYYCCttb"
+    },
+    {
+      "added_at": "2025-04-10 23:57:20",
+      "album": {
+        "name": "Kharnju EP",
+        "url": "https://open.spotify.com/album/25SUuaNTAJt4hSHGO7mvbr"
+      },
+      "artists": [
+        {
+          "name": "Drega",
+          "url": "https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG"
+        }
+      ],
+      "duration_ms": 379713,
+      "name": "Ingxaki Zinintsi",
+      "url": "https://open.spotify.com/track/5kvIQnld0is7PkpNFBHxMP"
     },
     {
       "added_at": "2025-04-10 23:57:20",
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2025-04-10 23:57:20",
       "album": {
-        "name": "Kitchen",
-        "url": "https://open.spotify.com/album/3NDTDQxYna7jg2BIF2hayy"
-      },
-      "artists": [
-        {
-          "name": "Vanco",
-          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
-        }
-      ],
-      "duration_ms": 430867,
-      "name": "Kitchen",
-      "url": "https://open.spotify.com/track/2Kksd9ZgBAb31BzKrC47HL"
-    },
-    {
-      "added_at": "2025-04-10 23:57:20",
-      "album": {
         "name": "Hayii (Citizen Deep Remix) (feat. Yasmin Levy)",
         "url": "https://open.spotify.com/album/50IxwsgaKapOIeFFjUd1PW"
       },
@@ -1067,26 +1067,6 @@
       "duration_ms": 362000,
       "name": "Hayii (Citizen Deep Remix) (feat. Yasmin Levy)",
       "url": "https://open.spotify.com/track/119QOzUDjgBCT6mZTBDuiR"
-    },
-    {
-      "added_at": "2025-04-10 23:57:20",
-      "album": {
-        "name": "LoMhlaba EP",
-        "url": "https://open.spotify.com/album/2Pkf27kgfSNPs71Jy4iWRp"
-      },
-      "artists": [
-        {
-          "name": "Cee ElAssaad",
-          "url": "https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH"
-        },
-        {
-          "name": "Thandi Draai",
-          "url": "https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG"
-        }
-      ],
-      "duration_ms": 472904,
-      "name": "LoMhlaba - Original Mix",
-      "url": "https://open.spotify.com/track/2dbHZpfVKLsd0YqNEWtUbG"
     },
     {
       "added_at": "2025-04-10 23:57:20",
@@ -1115,22 +1095,50 @@
     {
       "added_at": "2025-04-10 23:57:20",
       "album": {
-        "name": "Electrolog",
-        "url": "https://open.spotify.com/album/5iDLYL2GCUKzFk4Tj8IhtY"
+        "name": "LoMhlaba EP",
+        "url": "https://open.spotify.com/album/2Pkf27kgfSNPs71Jy4iWRp"
       },
       "artists": [
         {
-          "name": "Hyenah",
-          "url": "https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu"
+          "name": "Cee ElAssaad",
+          "url": "https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH"
         },
         {
-          "name": "Kasango",
-          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+          "name": "Thandi Draai",
+          "url": "https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG"
         }
       ],
-      "duration_ms": 385218,
-      "name": "Electrolog",
-      "url": "https://open.spotify.com/track/6IViguLpH79sxMUPO9RGNT"
+      "duration_ms": 472904,
+      "name": "LoMhlaba - Original Mix",
+      "url": "https://open.spotify.com/track/2dbHZpfVKLsd0YqNEWtUbG"
+    },
+    {
+      "added_at": "2025-04-10 23:57:20",
+      "album": {
+        "name": "Kamweretho",
+        "url": "https://open.spotify.com/album/69cfR9Rdbe7TBqppvRk12t"
+      },
+      "artists": [
+        {
+          "name": "Tina Ardor",
+          "url": "https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD"
+        },
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        },
+        {
+          "name": "Hendrick Sam",
+          "url": "https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9"
+        },
+        {
+          "name": "Soultronixx",
+          "url": "https://open.spotify.com/artist/5peiJgR8i9v88d3Gebhiha"
+        }
+      ],
+      "duration_ms": 388173,
+      "name": "Kamweretho - Soultronixx Remix",
+      "url": "https://open.spotify.com/track/758giWRZzVK6NlDb4KV6Qe"
     }
   ],
   "unique_name": "AfroTech Now",

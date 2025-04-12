@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/5jNrphFqELVsvxDR3ZwSAx.md) - [plain]
 
 > Listen here for the ultimate list of original and synced songs from TV and Film\. TV Soundtrack \- Movie Soundtrack \- Hollywood Hits \- Film Score \- Movie \- TV \- Film \- Netflix \- Amazon Prime \- Disney + \- Hulu \- Max
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 52,560 likes - 148 songs - 9 hr 1 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 52,559 likes - 148 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Change Song](https://open.spotify.com/track/0YmQYlKWDeqFAbJSg3oyh4) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 3:27 |
-| 2 | [Private Idaho](https://open.spotify.com/track/65euzegUp4McfXBsygxDwi) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Wild Planet](https://open.spotify.com/album/2ONa8B1QHj5gqF9Axgc86E) | 3:36 |
-| 3 | [Day After Day \- Remastered 2010](https://open.spotify.com/track/2XKW8CH8nRZH9cF2DNjBHN) | [Badfinger](https://open.spotify.com/artist/4pJCawaKSZ40EnxN0YEYw3) | [Straight Up \(Remastered 2010 / Deluxe Edition\)](https://open.spotify.com/album/0BWOueFZKxQrQWNRt20Lvc) | 3:11 |
+| 2 | [Hollywood Swinging](https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Wild And Peaceful](https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI) | 4:39 |
+| 3 | [Private Idaho](https://open.spotify.com/track/65euzegUp4McfXBsygxDwi) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Wild Planet](https://open.spotify.com/album/2ONa8B1QHj5gqF9Axgc86E) | 3:36 |
 | 4 | [Don't Stop The Music](https://open.spotify.com/track/5qJToa1YuuzOWbIQYRFHA0) | [Yarbrough & Peoples](https://open.spotify.com/artist/0rJcrQfLLtWSJAKbZPk6NV) | [The Two Of Us](https://open.spotify.com/album/1OaNseVk5zvswVyLRHQkJI) | 7:51 |
-| 5 | [The Song \(Love Is All\)](https://open.spotify.com/track/3f1CazASWJpY8tBOlIEAQM) | [Sadie Sink](https://open.spotify.com/artist/2p3S4athiHZBR2xjwmn9MJ) | [O'DESSA \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/52Nwa3vxM7OcRbZ4kjQY9i) | 4:05 |
-| 6 | [Hollywood Swinging](https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Wild And Peaceful](https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI) | 4:39 |
+| 5 | [Day After Day \- Remastered 2010](https://open.spotify.com/track/2XKW8CH8nRZH9cF2DNjBHN) | [Badfinger](https://open.spotify.com/artist/4pJCawaKSZ40EnxN0YEYw3) | [Straight Up \(Remastered 2010 / Deluxe Edition\)](https://open.spotify.com/album/0BWOueFZKxQrQWNRt20Lvc) | 3:11 |
+| 6 | [The Song \(Love Is All\)](https://open.spotify.com/track/3f1CazASWJpY8tBOlIEAQM) | [Sadie Sink](https://open.spotify.com/artist/2p3S4athiHZBR2xjwmn9MJ) | [O'DESSA \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/52Nwa3vxM7OcRbZ4kjQY9i) | 4:05 |
 | 7 | [Love Rollercoaster](https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75) | [Ohio Players](https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U) | [Honey](https://open.spotify.com/album/6cdbsUYFysGXOh5fqWpIuR) | 4:50 |
 | 8 | [Good Times](https://open.spotify.com/track/57pP3LvnId3txetLeBaTmV) | [Eric Burdon & the Animals](https://open.spotify.com/artist/70tMW5bZT3TJUa1CWtfVkq) | [Winds Of Change](https://open.spotify.com/album/0aeV2p7ZUhm9Q2PJAizF7a) | 2:59 |
 | 9 | [Open Your Eyes](https://open.spotify.com/track/5n2qun61dwCsOESmPwXjJc) | [Lords Of The New Church](https://open.spotify.com/artist/5JEhWD9S2znCiQRiGj2OUk) | [Killer Lords](https://open.spotify.com/album/2PbhU8sPNeedZCzRRnDR8d) | 3:27 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/5jNrphFqELVsvxDR3ZwSAx.md) - [plain]
 | 147 | [Look for the Light \- From "Only Murders in the Building: Season 3"](https://open.spotify.com/track/0nqrVlkPbsRi5gnwNdUPu9) | [Only Murders in the Building – Cast](https://open.spotify.com/artist/43LwPk5OFrfvYI9zxDCsih), [Meryl Streep](https://open.spotify.com/artist/2HB65P72dFRiOKvbLLcil2), [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Look for the Light \(From "Only Murders in the Building: Season 3"\)](https://open.spotify.com/album/2R27J49gUYfWu6T7PGKeXW) | 2:30 |
 | 148 | [No Return \- Extended Version From The Original Series “Yellowjackets”](https://open.spotify.com/track/6VOGgvuUoCXodrytKKpEGQ) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [No Return \(Extended Version From The Original Series “Yellowjackets”\)](https://open.spotify.com/album/0HDzM32hlE8cCKJJgwD3L8) | 3:04 |
 
-Snapshot ID: `AAAIH89L8aQHjdqRmEMTjBN3LA3yee6r`
+Snapshot ID: `AAAIJHxHei4FIfnEwSrZM+FiyodVUiXl`

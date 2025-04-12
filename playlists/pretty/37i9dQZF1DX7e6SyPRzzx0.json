@@ -1,13 +1,29 @@
 {
-  "description": "The home of rage rap. Cover: Playboi Carti",
-  "num_followers": 104309,
+  "description": "The home of rage rap. Cover: Ken Carson",
+  "num_followers": 104602,
   "original_name": "RAGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+rvUgAAAABHburG45VTaQaRwfkMdQGn",
+  "snapshot_id": "Z/lhkAAAAAAgJ5TAIggfDuEBMkiYLL6p",
   "tracks": [
+    {
+      "added_at": "2025-04-11 05:00:40",
+      "album": {
+        "name": "More Chaos",
+        "url": "https://open.spotify.com/album/3tIS7SDlvbyJ0oFQzNqjco"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 230923,
+      "name": "Blakk Rokkstar",
+      "url": "https://open.spotify.com/track/7IzutleLK1419FM8rUpYmq"
+    },
     {
       "added_at": "2025-03-27 23:50:11",
       "album": {
@@ -47,22 +63,6 @@
     {
       "added_at": "2024-12-06 23:03:08",
       "album": {
-        "name": "BAD ASS F*CKING KID",
-        "url": "https://open.spotify.com/album/4mpTd22gLh4zNxJZJbcOxO"
-      },
-      "artists": [
-        {
-          "name": "Nettspend",
-          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
-        }
-      ],
-      "duration_ms": 123783,
-      "name": "Tyla",
-      "url": "https://open.spotify.com/track/5JFOylCiD2CCfmMtaVECfv"
-    },
-    {
-      "added_at": "2024-12-06 23:03:08",
-      "album": {
         "name": "delusional",
         "url": "https://open.spotify.com/album/2LHNo0LDY2AszQvSuAMXWy"
       },
@@ -75,6 +75,26 @@
       "duration_ms": 131274,
       "name": "delusional",
       "url": "https://open.spotify.com/track/5116BQqgzOZ24Dx0ZKkagU"
+    },
+    {
+      "added_at": "2025-02-22 03:34:45",
+      "album": {
+        "name": "Enter The Dragon / TEKTIME",
+        "url": "https://open.spotify.com/album/0IuT1gNetRGeyzLdW5VTAg"
+      },
+      "artists": [
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        },
+        {
+          "name": "BNYX\u00ae",
+          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
+        }
+      ],
+      "duration_ms": 111428,
+      "name": "Enter The Dragon",
+      "url": "https://open.spotify.com/track/6VN45skJHnnZ2oFIHA6wwQ"
     },
     {
       "added_at": "2025-03-14 13:29:50",
@@ -97,24 +117,20 @@
       "url": "https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok"
     },
     {
-      "added_at": "2025-02-22 03:34:45",
+      "added_at": "2024-12-06 23:03:08",
       "album": {
-        "name": "Enter The Dragon / TEKTIME",
-        "url": "https://open.spotify.com/album/0IuT1gNetRGeyzLdW5VTAg"
+        "name": "Eternal Atake 2",
+        "url": "https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0"
       },
       "artists": [
         {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
-        },
-        {
-          "name": "BNYX\u00ae",
-          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 111428,
-      "name": "Enter The Dragon",
-      "url": "https://open.spotify.com/track/6VN45skJHnnZ2oFIHA6wwQ"
+      "duration_ms": 150895,
+      "name": "Not An Option",
+      "url": "https://open.spotify.com/track/1197AvSs0lMg5kNIGaeENm"
     },
     {
       "added_at": "2024-10-25 18:47:03",
@@ -155,22 +171,6 @@
       "duration_ms": 113968,
       "name": "Aye Rage",
       "url": "https://open.spotify.com/track/6DJFJDAkJ08Xs0NSqSOeUw"
-    },
-    {
-      "added_at": "2024-12-06 23:03:08",
-      "album": {
-        "name": "Eternal Atake 2",
-        "url": "https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 150895,
-      "name": "Not An Option",
-      "url": "https://open.spotify.com/track/1197AvSs0lMg5kNIGaeENm"
     },
     {
       "added_at": "2025-03-25 22:41:53",
@@ -461,6 +461,22 @@
       "url": "https://open.spotify.com/track/53lS5rsYcbEMtpM2grepw5"
     },
     {
+      "added_at": "2024-04-26 05:00:00",
+      "album": {
+        "name": "Teen X",
+        "url": "https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 106536,
+      "name": "Yale",
+      "url": "https://open.spotify.com/track/0HTIrbUwwFn984RzVZm5Fk"
+    },
+    {
       "added_at": "2024-09-10 13:39:46",
       "album": {
         "name": "LOVE LASTS FOREVER",
@@ -555,22 +571,6 @@
       "duration_ms": 131506,
       "name": "trauma",
       "url": "https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau"
-    },
-    {
-      "added_at": "2024-04-26 05:00:00",
-      "album": {
-        "name": "Teen X",
-        "url": "https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 106536,
-      "name": "Yale",
-      "url": "https://open.spotify.com/track/0HTIrbUwwFn984RzVZm5Fk"
     },
     {
       "added_at": "2024-08-20 20:38:33",

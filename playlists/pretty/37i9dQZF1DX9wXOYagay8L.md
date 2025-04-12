@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi?si=jcAKaWXYSoWbwSfo6mNHmAQ"> Tony Dayimane</a>, <a href="https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=Yr\-Esps9SzGctIgl\-1EB\_Q"> Lwah Ndlunkulu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,086 likes - 85 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,415 likes - 85 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ndizamshini \(feat\. Blaq Diamond\)](https://open.spotify.com/track/0tbKTeDj5aW7s1Psoi27A9) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Ndizamshini \(feat\. Blaq Diamond\)](https://open.spotify.com/album/1QqOGET6v1XvLEazXsxfaa) | 5:06 |
-| 2 | [Amacala Othando](https://open.spotify.com/track/0BPSspDAsemhtQpcw1Xhpm) | [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5), [Malungelo](https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4) | [Amacala Othando](https://open.spotify.com/album/0t7rjdzxqkVl0XLv8jky2B) | 4:47 |
-| 3 | [Imizwa](https://open.spotify.com/track/3a89JaIO6bqDWl37nCY2un) | [Tony Dayimane](https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi), [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Imizwa](https://open.spotify.com/album/4vqa2AuUyegi4v6Tg8GcIv) | 3:40 |
+| 1 | [Imizwa](https://open.spotify.com/track/3a89JaIO6bqDWl37nCY2un) | [Tony Dayimane](https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi), [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Imizwa](https://open.spotify.com/album/4vqa2AuUyegi4v6Tg8GcIv) | 3:40 |
+| 2 | [Ndizamshini \(feat\. Blaq Diamond\)](https://open.spotify.com/track/0tbKTeDj5aW7s1Psoi27A9) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Ndizamshini \(feat\. Blaq Diamond\)](https://open.spotify.com/album/1QqOGET6v1XvLEazXsxfaa) | 5:06 |
+| 3 | [Amacala Othando](https://open.spotify.com/track/0BPSspDAsemhtQpcw1Xhpm) | [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5), [Malungelo](https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4) | [Amacala Othando](https://open.spotify.com/album/0t7rjdzxqkVl0XLv8jky2B) | 4:47 |
 | 4 | [Uthe Uyangithanda \(feat\. Mjolisi & Pretty Masompisi\)](https://open.spotify.com/track/2d1akyadOHjOCHS6GopvyE) | [Sbahle](https://open.spotify.com/artist/6gTIIzxlV4RQnh0stmRQk5), [Mjolisi](https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr), [Pretty Masompisi](https://open.spotify.com/artist/7xBgvT4t4AQ0t7gcBc90ts) | [Uthe Uyangithanda \(feat\. Mjolisi & Pretty Masompisi\)](https://open.spotify.com/album/23FDAiS5OfPy9kUugXgRlg) | 3:42 |
 | 5 | [Dear Ex Yami](https://open.spotify.com/track/1lOtpeO2I2cjvN2CvbnpGW) | [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh), [Fanatic SA](https://open.spotify.com/artist/5g2oHSGu7YX4EHoSCKIUqo), [Stallin Matsitsa](https://open.spotify.com/artist/4L0dgq6erLpWok6Snhp1bI), [Caeser](https://open.spotify.com/artist/756OYK25pOSHYUiTr5RWEw), [Ayanda Art](https://open.spotify.com/artist/6vl2O57bwb1wowTzUZIDTv) | [Dear Ex Yami](https://open.spotify.com/album/609M6ab6B7QlgEQnvayL56) | 4:38 |
 | 6 | [Black President \(Brenda Fassie 60th Tribute\)](https://open.spotify.com/track/2HAquNlzSJBEQpz4ZhATii) | [The Soil](https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU) | [Black President \(Brenda Fassie 60th Tribute\)](https://open.spotify.com/album/285dGwNu1LHuKsggkEJ3Xo) | 4:10 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 84 | [Umkhonto](https://open.spotify.com/track/1L9J1HzkgKfdYPo3gYOhl7) | [Zuko SA](https://open.spotify.com/artist/0LHMSltleAi3zHyRU8gYSt) | [UMKHONTO](https://open.spotify.com/album/0qAAJBVDuxADt93qEk06xZ) | 3:12 |
 | 85 | [Sayona](https://open.spotify.com/track/05A1KzxTLvShctiD0Bsydd) | [Inkabi Zezwe](https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Ukhamba](https://open.spotify.com/album/4VshKshG4GNIVueV0qoeiP) | 3:47 |
 
-Snapshot ID: `Z/hWcwAAAADNVUbH0tfYHHyFrgKYbWrO`
+Snapshot ID: `Z/jnxwAAAADE/u4bQq62hEU1Jglf16Rq`

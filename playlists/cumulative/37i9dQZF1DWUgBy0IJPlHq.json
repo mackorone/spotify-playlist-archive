@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Charley Crockett",
+  "description": "A new shade of Country. Cover: Turnpike Troubadours",
   "name": "Indigo",
   "tracks": [
     {
@@ -718,7 +718,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 195346,
       "name": "American Gothic",
       "url": "https://open.spotify.com/track/72vF5ESZ9UJEpVZkXNN8FL"
@@ -2090,7 +2090,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 194604,
       "name": "Coal",
       "url": "https://open.spotify.com/track/5cI23aJ66Gw2a4N8l4dGYw"
@@ -3407,6 +3407,24 @@
     },
     {
       "album": {
+        "name": "Fire Sign",
+        "url": "https://open.spotify.com/album/0BqQBhMGK7Wc9MuslsWsUf"
+      },
+      "artists": [
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178594,
+      "name": "Fire Sign",
+      "url": "https://open.spotify.com/track/4lrIGxXMwApfERfnLiEnh5"
+    },
+    {
+      "album": {
         "name": "First High",
         "url": "https://open.spotify.com/album/0YseQ6nyHkM8ZZjqbnNChs"
       },
@@ -4446,6 +4464,24 @@
       "duration_ms": 142306,
       "name": "Heaven And Hell",
       "url": "https://open.spotify.com/track/0BDQdlIl4FQ0fa6HxJrz0o"
+    },
+    {
+      "album": {
+        "name": "The Price of Admission",
+        "url": "https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240800,
+      "name": "Heaven Passing Through",
+      "url": "https://open.spotify.com/track/66Mk4Rd6A08oa6bF27uQxj"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-173 songs - 11 hr 9 min
+174 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Turiya Turiya](https://open.spotify.com/track/1F6QRDyVmsTu3rBdeo78mY) | [Asad Khan](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Kahani](https://open.spotify.com/album/1WqUCvqJAnYhFOVoRl9zXO) | 2:46 | 2023-08-18 |  |
 | [Urike Urike \- Future Bounce Mix](https://open.spotify.com/track/40qRxo1EjoXQ1t52D4Vot2) | [Sid Sriram](https://open.spotify.com/artist/5LfHsZyY1QLwvbFIdvE53D), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx), [MM Sreelekha](https://open.spotify.com/artist/0goFlPiv6xhrgMwqwUss9Z), [V1shwa](https://open.spotify.com/artist/22O1uNHoF3dmIqYJEG1PjV) | [Urike Urike \(Future Bounce Mix\)](https://open.spotify.com/album/5cBUtYoOIE6I7zkEbkS3Pp) | 2:56 | 2023-09-08 | 2023-11-02 |
 | [Ustad](https://open.spotify.com/track/4wnYjYU6MKlDc9yr4MYAqB) | [Baalti](https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN) | [Baalti](https://open.spotify.com/album/4vWnWaZS7qZWygUsHueo2d) | 6:11 | 2023-08-18 |  |
+| [Weightless](https://open.spotify.com/track/3ZDr3LJNCHailBSkpc29SF) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Weightless](https://open.spotify.com/album/1hRQTykXLhpCU8QGBLWVh8) | 3:42 | 2025-04-11 |  |
 | [Welcome to the East](https://open.spotify.com/track/6EerpiD1vUQZIRMaZuZTqZ) | [Fake Tattoos](https://open.spotify.com/artist/6Gdx8MYQZE7RHueDcYWfqx), [Zuumeister](https://open.spotify.com/artist/67PZMIyanQG7PzZ3z5irTg) | [Welcome to the East \- Single](https://open.spotify.com/album/5dKnmNVSjaWOWwnjiTlvEI) | 3:19 | 2023-08-18 | 2024-03-23 |
 | [Where Am I](https://open.spotify.com/track/6mxLGlG96SVnW2RNBtGccV) | [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P) | [Duniya Kya Hai](https://open.spotify.com/album/7uuSE8TYWTQysDt2KaGSso) | 1:00 | 2023-08-18 | 2024-02-14 |
 | [Yaad](https://open.spotify.com/track/3lDyGOF6PU4jXJIlbEkHR5) | [ZOH](https://open.spotify.com/artist/1T5V8R7QKMhQImEdKNDyFU) | [Yaad](https://open.spotify.com/album/1qQB65zqRUkzuSqla06oSg) | 2:45 | 2023-08-18 |  |

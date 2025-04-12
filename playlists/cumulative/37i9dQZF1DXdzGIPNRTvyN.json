@@ -1337,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Equanimity",
+        "url": "https://open.spotify.com/album/3zuWS6ZgMkJQi6cRT8tvp7"
+      },
+      "artists": [
+        {
+          "name": "Hank Sky",
+          "url": "https://open.spotify.com/artist/2OY5PzPmKNjNFgy4QwOPdI"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146500,
+      "name": "Equanimity",
+      "url": "https://open.spotify.com/track/7uAsCKp5rom7rVRKKGsraG"
+    },
+    {
+      "album": {
         "name": "Equilibrium (432 Hz)",
         "url": "https://open.spotify.com/album/7foHel5iyncJ9SwoaQr2fV"
       },
@@ -1546,7 +1564,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 192480,
       "name": "Forest Breath",
       "url": "https://open.spotify.com/track/725gBK4qfI7RizSxTeXduz"
@@ -1715,6 +1733,24 @@
     },
     {
       "album": {
+        "name": "Gentle Awakening",
+        "url": "https://open.spotify.com/album/3orIz0nqcl54GFcbyyYYWJ"
+      },
+      "artists": [
+        {
+          "name": "Lush Aura",
+          "url": "https://open.spotify.com/artist/0rO9DA4in8mFpPhCTluEMW"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198425,
+      "name": "Gentle Awakening",
+      "url": "https://open.spotify.com/track/3Nhb2tW6P3QgBosxqmdACc"
+    },
+    {
+      "album": {
         "name": "Gentle Reflections",
         "url": "https://open.spotify.com/album/685evcbNM8dVvZReGt0RBf"
       },
@@ -1856,7 +1892,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 177327,
       "name": "Grow, My Dear",
       "url": "https://open.spotify.com/track/5CRZJDlRrjmWXVmnhFHcQY"

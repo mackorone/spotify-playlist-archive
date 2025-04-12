@@ -7085,6 +7085,24 @@
     },
     {
       "album": {
+        "name": "Party MJ",
+        "url": "https://open.spotify.com/album/6k0iCmB82Zp5C0t5un7j7R"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247346,
+      "name": "Party MJ",
+      "url": "https://open.spotify.com/track/6sm7XqRLVN6mhJ2xxoKO1B"
+    },
+    {
+      "album": {
         "name": "Partyson",
         "url": "https://open.spotify.com/album/6yGNJyte0qDL1uuLfaiuL5"
       },

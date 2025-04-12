@@ -2891,6 +2891,24 @@
     },
     {
       "album": {
+        "name": "Five Roses",
+        "url": "https://open.spotify.com/album/6ClZsXgo6T1wbnZifhvsTZ"
+      },
+      "artists": [
+        {
+          "name": "Nic Dean",
+          "url": "https://open.spotify.com/artist/1d8y365r9XVmsWDAHLak38"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111543,
+      "name": "Five Roses",
+      "url": "https://open.spotify.com/track/4R6EMxsqzFplNAIyig4RX4"
+    },
+    {
+      "album": {
         "name": "Life of a DON",
         "url": "https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ"
       },
@@ -5208,7 +5226,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 162666,
       "name": "madly",
       "url": "https://open.spotify.com/track/7fmt9chGer2jvnUhysySW1"

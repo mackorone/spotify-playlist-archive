@@ -2277,6 +2277,28 @@
     },
     {
       "album": {
+        "name": "If It Was Up To Me",
+        "url": "https://open.spotify.com/album/784ErOIk2KcqMfeXsurkyD"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194264,
+      "name": "If It Was Up To Me",
+      "url": "https://open.spotify.com/track/3yLmdxMxuXSjCrTBu7fXcw"
+    },
+    {
+      "album": {
         "name": "If That Ain't God",
         "url": "https://open.spotify.com/album/6zJ23RQJ1NeubHuCzyvPlE"
       },

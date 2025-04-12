@@ -1,6 +1,6 @@
 {
   "description": "Soothing classical music to help you relax while you read.",
-  "num_followers": 593350,
+  "num_followers": 593414,
   "original_name": "Classical Reading",
   "owner": {
     "name": "Spotify",
@@ -420,6 +420,10 @@
       },
       "artists": [
         {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
           "name": "Lavinia Meijer",
           "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
         },
@@ -699,7 +703,7 @@
     {
       "added_at": "2025-03-28 16:17:17",
       "album": {
-        "name": "Intimate Voices",
+        "name": "Intimate Voices: Grieg, Nielsen, Sibelius",
         "url": "https://open.spotify.com/album/7c0bdLGF2HeDHobb6xahAU"
       },
       "artists": [

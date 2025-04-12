@@ -2,7 +2,7 @@
 
 ### [Come Alive](https://open.spotify.com/playlist/37i9dQZF1DWYW0wKwdPj2g)
 
-> In the mood for live Christian and Gospel music? This is the one\. Cover: Dunsin Oyekan
+> In the mood for live Christian and Gospel music? This is the one\. Cover: EmmaOMG
 
 212 songs - 1 day 3 hr 47 min
 

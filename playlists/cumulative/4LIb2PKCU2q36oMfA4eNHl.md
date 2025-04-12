@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-286 songs - 18 hr 23 min
+287 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Longing](https://open.spotify.com/track/2A0fuDHJlRz7NbftxSXmN5) | [Jesse Blake](https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X) | [Longing](https://open.spotify.com/album/63Ab5wSwTgzeKwXZdRBcQb) | 5:26 | 2024-01-26 | 2024-04-17 |
 | [Longing](https://open.spotify.com/track/56AuxPaUfzduI6yAbN0Vuw) | [Jesse Blake](https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X) | [Nostalgia](https://open.spotify.com/album/6SAZFaDeZJs0v7GZEpfDBK) | 5:26 | 2024-10-18 | 2025-01-14 |
 | [Looking Through The Mirror Of The Soul](https://open.spotify.com/track/7s4q0jH90s3NXpA0CZaWoB) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Everything Changes, Nothing Ends](https://open.spotify.com/album/78KuAIcbQQcGnyIkfZgqrO) | 4:12 | 2024-11-29 | 2025-01-14 |
+| [Looking Up](https://open.spotify.com/track/4z4sZuWyEtvrVoQYQJXlwX) | [Toutounji](https://open.spotify.com/artist/1QDg1LnUhhUMyU4re9ol0K), [Sydney Bryce](https://open.spotify.com/artist/57wU47pYKEcHOfb97oeSy6) | [Looking Up](https://open.spotify.com/album/2YIUPe9KlTnLbTMblca0o0) | 2:28 | 2025-04-11 |  |
 | [Love In Our Hands](https://open.spotify.com/track/0xses9klMIqg28SK3LXlgi) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Fugue In Twilight](https://open.spotify.com/album/0cv8RApqPNKm5G8w8mOugM) | 3:48 | 2025-01-13 |  |
 | [Love In Our Hands](https://open.spotify.com/track/54X03H0dMvwn2FlWWsj3nM) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Love In Our Hands](https://open.spotify.com/album/4XSVK3udgsRyaOeBLBUXEv) | 3:48 | 2024-02-23 | 2024-12-14 |
 | [Love In Our Hands \- Instrumental](https://open.spotify.com/track/5fQzaPAjAtvmt1jktV3R79) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Fugue In Twilight \(Instrumentals\)](https://open.spotify.com/album/5zYe84xXrowFDhQAm5dZdl) | 3:43 | 2024-12-13 | 2025-01-14 |
@@ -231,7 +232,7 @@
 | [Silence](https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Silence](https://open.spotify.com/album/7izgzmJXgDFAHiLDBxqkBF) | 4:05 | 2025-01-13 | 2025-01-18 |
 | [Silence Never Heard](https://open.spotify.com/track/6gXVYQPiANfArzaJcV4Gu4) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Stick By This](https://open.spotify.com/album/5C4sHl92Z43ipKMgZ5jlcm) | 2:51 | 2025-01-17 |  |
 | [Silhouette](https://open.spotify.com/track/4yXRghXZcf9GMsxoErXEHb) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 3:35 | 2023-12-08 | 2024-02-17 |
-| [Sine Waves](https://open.spotify.com/track/3iLbERuL98HVj4utkn7U04) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1), [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Mono No Aware](https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx) | 4:38 | 2025-04-07 |  |
+| [Sine Waves](https://open.spotify.com/track/3iLbERuL98HVj4utkn7U04) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1), [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Mono No Aware](https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx) | 4:38 | 2025-04-07 | 2025-04-12 |
 | [Sit Around The Fire](https://open.spotify.com/track/7Bl1GdYbcJ0QSffErVWOnv) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Ram Dass](https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Music For Psychedelic Therapy](https://open.spotify.com/album/2zY5p176SfmupXceLKT6bH) | 8:22 | 2025-01-13 |  |
 | [Sleep Is Sacrament](https://open.spotify.com/track/6wdiugsx4HdCiNvEQXh41Y) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Sleep Is Sacrament](https://open.spotify.com/album/7ySRbBRPt31mah1cwD29g0) | 3:52 | 2024-08-16 | 2025-03-15 |
 | [Slow Mo](https://open.spotify.com/track/5rTbzUPDurLGxzWWrqbhhU) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Anjunadeep pres\. Reflections Vol\. 1](https://open.spotify.com/album/1RXVre6fieggWFyN7dKg6j) | 3:27 | 2025-01-13 |  |
@@ -239,7 +240,7 @@
 | [Slowly](https://open.spotify.com/track/3gYGfj5XYLMcGNeuYiRdFi) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Slowly](https://open.spotify.com/album/6SqQkSq1uPmtaMedZAMb3M) | 3:50 | 2024-01-19 | 2024-06-04 |
 | [Slowly](https://open.spotify.com/track/5j6yDmMrjdgNn0pSyqXG5d) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Fugue In Twilight](https://open.spotify.com/album/0cv8RApqPNKm5G8w8mOugM) | 3:50 | 2025-01-13 |  |
 | [Slowly \- Instrumental](https://open.spotify.com/track/3GVLVaWkjpogFy7ZyjzXiI) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Fugue In Twilight \(Instrumentals\)](https://open.spotify.com/album/1hVTt0waA9eZa1yFcNS0Jt) | 3:33 | 2024-05-03 | 2024-10-05 |
-| [Small Moments](https://open.spotify.com/track/6zXvm5GgRBVgXXJkvegXB0) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Anjunabeats Volume 10](https://open.spotify.com/album/3btiG55sMl5oZ526tJBIwG) | 2:52 | 2025-01-13 |  |
+| [Small Moments](https://open.spotify.com/track/6zXvm5GgRBVgXXJkvegXB0) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Anjunabeats Volume 10](https://open.spotify.com/album/3btiG55sMl5oZ526tJBIwG) | 2:52 | 2025-01-13 | 2025-04-12 |
 | [Smiling Through The Pain](https://open.spotify.com/track/2yE235IuLnmcYj9kj2TJSI) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Smiling Through The Pain](https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW) | 1:37 | 2024-06-21 | 2024-08-03 |
 | [Snow Day](https://open.spotify.com/track/4om6fOW3uXnGWfTSmLDfwq) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Snow Day](https://open.spotify.com/album/4CGsHJyqHvYt1TdEtj359g) | 3:28 | 2023-12-08 | 2023-12-16 |
 | [Softness II](https://open.spotify.com/track/1JVpCuDd3FVoaGlbPQV3lW) | [Jorge](https://open.spotify.com/artist/06gZcKE43fmppPdPVYG8HV) | [Softness II](https://open.spotify.com/album/5qZZk35b3QYQy7Nytj7TVT) | 3:34 | 2024-11-01 | 2024-11-09 |

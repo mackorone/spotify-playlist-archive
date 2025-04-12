@@ -4,7 +4,7 @@
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more.
 
-978 songs - 2 day 3 hr 27 min
+980 songs - 2 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [die young](https://open.spotify.com/track/6gz1rkKGjyRciDhXQRe5Am) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [zero experience](https://open.spotify.com/album/1WsyR6Rubboirjmw69zHc0) | 2:44 | 2023-12-08 | 2024-07-19 |
 | [Different Strokes](https://open.spotify.com/track/511E8FfCJPuoKlllCFwJC4) | [SUB\-X](https://open.spotify.com/artist/1j8HYCn8bRMA3kYN66pVCG), [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7), [Isotonik](https://open.spotify.com/artist/3dwRr6XEmd2wq8NsQymbOQ) | [Different Strokes](https://open.spotify.com/album/3PNw6CkQm0t0Z63jT2SAOc) | 2:22 | 2024-02-02 | 2024-07-19 |
 | [Disco Body Parts \(feat\. AWOLNATION\)](https://open.spotify.com/track/1n0roMNZNxclnLraBmA7tl) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Disco Body Parts \(feat\. AWOLNATION\)](https://open.spotify.com/album/0nqsJtrW8MbEuRfNJmHTKC) | 2:54 | 2021-02-26 | 2021-05-03 |
+| [Disgusted](https://open.spotify.com/track/5OlvY9ky0LIIBATjOWtm7B) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Disgusted](https://open.spotify.com/album/7C5rNUHWc5Emgn3paPuSTL) | 2:16 | 2025-04-11 |  |
 | [Dive](https://open.spotify.com/track/0CVXJyYIQPnZE2kAHdx2DP) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Dive](https://open.spotify.com/album/4kdsVtA4bh3j0E2H0rdUTI) | 2:42 | 2023-12-08 | 2024-04-05 |
 | [Do Ya Love](https://open.spotify.com/track/650IEUqYKUoHsZQJV7FBt0) | [Joshua Amour](https://open.spotify.com/artist/3jI6t8Tj9LvOVOVPYN8yUb) | [Do Ya Love](https://open.spotify.com/album/2Lp8P102b7JSdrzwZrreyI) | 4:10 | 2022-09-02 | 2022-11-11 |
 | [Doll](https://open.spotify.com/track/2bBzDa5DonGFUrEQTdQnGk) | [Protection](https://open.spotify.com/artist/7ylzcNyL5o6XSn8iDuy8eu) | [Doll](https://open.spotify.com/album/0SAPx1GnnD70h9SlUOxJMO) | 4:03 | 2022-11-11 | 2022-12-16 |
@@ -665,6 +666,7 @@
 | [pogo](https://open.spotify.com/track/404b6bC4GIxPsNssJmfC1f) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [pogo](https://open.spotify.com/album/2fq3wurBOOLw6TQBrP3jcw) | 3:27 | 2022-06-24 | 2022-10-07 |
 | [Polite](https://open.spotify.com/track/4JdD2un3BjFGApauSkPIMv) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Shanique Marie](https://open.spotify.com/artist/6iMJjTp6P8nIwfan6pgPuA) | [Polite](https://open.spotify.com/album/16fc4iyTTvTld5SnBZO8zH) | 3:46 | 2024-10-03 | 2024-11-29 |
 | [Ponytail](https://open.spotify.com/track/2VWVM1DrUhAAXfqAz524JU) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Ponytail](https://open.spotify.com/album/1O9u91ve7siaRfy2pDg873) | 4:03 | 2024-12-16 | 2025-02-07 |
+| [Pool \- Gravagerz Version](https://open.spotify.com/track/7KhT1uCXFocwzoDXwdNtYO) | [Gravagerz](https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc), [kiki wera](https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6) | [Pool \(Gravagerz Version\)](https://open.spotify.com/album/2LGm9ZhmyFb1h8Du7hV9O9) | 2:05 | 2025-04-11 |  |
 | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc) | 3:34 | 2022-05-27 | 2022-08-27 |
 | [Pour the Milk](https://open.spotify.com/track/3239OdTeQMBphegyNvF8F3) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS), [Keees.](https://open.spotify.com/artist/5FzFuIi6RVngFoIwTdawDd) | [Pour the Milk](https://open.spotify.com/album/1RN9XFMVqqw4BD5dgLigpP) | 2:52 | 2020-11-03\* | 2021-03-19 |
 | [Power](https://open.spotify.com/track/2PB9qohRHoU7XmRKtaEpY0) | [FOURA](https://open.spotify.com/artist/1irJOloDtTVbecTnRt7nk4) | [Power](https://open.spotify.com/album/5bmyUdQ6KHEYONPh3m2FsY) | 3:26 | 2022-07-29 | 2022-09-23 |

@@ -4,7 +4,7 @@
 
 > 
 
-2,155 songs - 4 day 17 hr 54 min
+2,156 songs - 4 day 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1352,7 +1352,7 @@
 | [No Mercy](https://open.spotify.com/track/1r3svpSWxXB3BiFxFD4TIr) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Alternate Identity](https://open.spotify.com/album/0r0MQ2rse313JcNiYtvdjV) | 3:46 | 2023-04-10 |  |
 | [No More Pain](https://open.spotify.com/track/0FVKF9GVdY4AC1J2XhlvZi) | [M\-Project](https://open.spotify.com/artist/5XQLMFJlYMppzVqRUpFP5x), [Kamikaze](https://open.spotify.com/artist/6QzshKdtq6NS0Jac1nMn6I) | [Supermax](https://open.spotify.com/album/35XgR3Tg1pZnu8SBEu3eVM) | 4:06 | 2022-08-11 |  |
 | [No More Sorry](https://open.spotify.com/track/2XF3HJcZppLXP8X0G0eN8p) | [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [No More Sorry](https://open.spotify.com/album/142MTDpxxmsXZ34XyjRW1T) | 2:28 | 2023-03-21 |  |
-| [No Plays, No Games!](https://open.spotify.com/track/4ZFrvC0i1RTiFQ8riU85R8) | [Midori](https://open.spotify.com/artist/0V0jE7vDLq7Qqo8dIBrkOj) | [No Plays, No Games!](https://open.spotify.com/album/7uGEdBiGf3D5tJ2lwlxgQc) | 4:01 | 2022-11-06 |  |
+| [No Plays, No Games!](https://open.spotify.com/track/4ZFrvC0i1RTiFQ8riU85R8) | [Midori](https://open.spotify.com/artist/3Rg9QdphkYKIkM4dueYsJD) | [No Plays, No Games!](https://open.spotify.com/album/7uGEdBiGf3D5tJ2lwlxgQc) | 4:01 | 2022-11-06 |  |
 | [No Remorse](https://open.spotify.com/track/61Ier1BjjHinKlD5p86WEx) | [Aftermath](https://open.spotify.com/artist/0Lgj8F0H0zOqgiPaA0hCuC), [INVADE](https://open.spotify.com/artist/4e8kbnPF9d7axpC8u8QJbX) | [No Remorse](https://open.spotify.com/album/5mes92x0CK7EQ5u6iRIarr) | 3:08 | 2024-04-01 |  |
 | [No Sleep](https://open.spotify.com/track/6le1LT9NtaUlQ22aITOM7g) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [No Sleep](https://open.spotify.com/album/6dwJj2ANDzjJLsAXF4Govc) | 3:47 | 2023-06-26 |  |
 | [No Sleep \- Extended Mix](https://open.spotify.com/track/5hjWgOw8sAYwP0KtVmVTcm) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [No Sleep](https://open.spotify.com/album/6dwJj2ANDzjJLsAXF4Govc) | 4:14 | 2023-06-17 |  |
@@ -1576,6 +1576,7 @@
 | [Realize](https://open.spotify.com/track/28KbKarBWiWn8UqX8sVZYp) | [Srav3R](https://open.spotify.com/artist/5doDHBkL33VHZXcqAuQBj0) | [Realize](https://open.spotify.com/album/5XcHg93pk84hS3dQcJ9dEh) | 3:29 | 2023-02-06 |  |
 | [Really Like You](https://open.spotify.com/track/07AYvrfqNUDrKr7FfBCdUR) | [Eufeion](https://open.spotify.com/artist/7ykuX8JwiitjBbIMlGVH0B), [24/7 Hardcore](https://open.spotify.com/artist/13HaJU1EgDEuPrJO6XgiFu) | [Really Like You](https://open.spotify.com/album/5eV0Ve0PKrL7X7L8XEce9Q) | 3:19 | 2024-05-28 |  |
 | [Recollection](https://open.spotify.com/track/3UjNsqmIr8Po865AdeJy2a) | [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK) | [Recollection](https://open.spotify.com/album/1XF6BI5mXtxvzcGLELkjjA) | 2:41 | 2024-03-08 |  |
+| [Red & Blue Theme \- Radio Edit](https://open.spotify.com/track/2EPfLUIw0a8rycrbSePNhm) | [Suae](https://open.spotify.com/artist/0pTJdgzCj4Wo6RwdOcGinx), [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [Red & Blue Theme](https://open.spotify.com/album/0fRtufGRDMHgjtbz2rHmtD) | 2:37 | 2025-04-12 |  |
 | [RED MOON](https://open.spotify.com/track/36rbZ1bXy0teuWowfbIUcG) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Omnya](https://open.spotify.com/artist/1YvxDrTQpgqX8uSK4gjtPL) | [RED MOON](https://open.spotify.com/album/5ISfZOgnaEBIwzuUJlhOg1) | 3:01 | 2024-08-10 |  |
 | [RED to RED](https://open.spotify.com/track/3EAsYoXpHkkDd9XuFkXrex) | [REDALiCE](https://open.spotify.com/artist/3m63JSv6jhLEKNXcEd5EUK) | [CROWN](https://open.spotify.com/album/48h2hNZyq3hyH6cZh0oVoI) | 2:26 | 2023-05-20 |  |
 | [Redline Grinders \- 175 BPM Mix](https://open.spotify.com/track/3RJvhG0qUm9kW65VAxGQr4) | [Daniel Seven](https://open.spotify.com/artist/4zRiD4QO1sRhP4BnHGhNkW) | [Ravekick 003 \- Vinylization \(DJ Mix\)](https://open.spotify.com/album/0kBA28oAr85nu1OrXjG7X0) | 2:59 | 2022-12-19 |  |

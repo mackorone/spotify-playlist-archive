@@ -2,9 +2,9 @@
 
 ### [Trance Mission](https://open.spotify.com/playlist/37i9dQZF1DX91oIci4su1D)
 
-> Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with Above & Beyond
+> Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with Paul van Dyk
 
-1,099 songs - 2 day 18 hr 16 min
+1,102 songs - 2 day 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Be Alone](https://open.spotify.com/track/6OAk8W4ebDp8UgOj6IBClU) | [Oliver Smith](https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic) | [Be Alone](https://open.spotify.com/album/0Ky0tMHRkPpVLul0VA5CMa) | 3:39 | 2021-12-17 | 2023-02-25 |
 | [Be As One](https://open.spotify.com/track/6NOVQdyz96T7KSUvPTES80) | [Alex M.O.R.P.H.](https://open.spotify.com/artist/478tAnskSff0wa0XxnpwmW), [Cheryl Barnes](https://open.spotify.com/artist/5dKck1H0BEvXkxRpTDyQbn) | [Be As One](https://open.spotify.com/album/5K1iAnkO82DUoBoEGAWy3w) | 3:30 | 2022-03-25 | 2022-04-16 |
 | [Be As One](https://open.spotify.com/track/1sKJgregY1mEPQd69wcku2) | [Craig Connelly](https://open.spotify.com/artist/78UUH1buA0gDtDnkX2dPgL), [James Cottle](https://open.spotify.com/artist/2rr6J8CvcI3egBMmFr1PTR), [Liel Kolet](https://open.spotify.com/artist/1VQkaCSwcIyjYQiVkg791s) | [Be As One](https://open.spotify.com/album/41908SUGbE1gef0aBlyblN) | 4:59 | 2024-06-21 | 2024-08-31 |
+| [Beautiful](https://open.spotify.com/track/75JEQxjvZKEBCSAIFEkZnz) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Julia Westlin](https://open.spotify.com/artist/2HaJR92U9WIouR0v84hvzU) | [This World Is Ours](https://open.spotify.com/album/2EFAlkyeRPGo3pTHbldWd4) | 4:41 | 2025-04-11 |  |
 | [Before It's Lost](https://open.spotify.com/track/1Mx0yKQlPxXYtudlB4GqIP) | [Daxson](https://open.spotify.com/artist/4WwMR8h0vztJLNgiL5ZFqW) | [Before It's Lost](https://open.spotify.com/album/0ZBDI00xeHdv7ucud2UB1g) | 3:18 | 2023-06-23 | 2024-07-13 |
 | [Being Alone](https://open.spotify.com/track/0LkhrxxLxmitdXcSr7wfMQ) | [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm), [Achilles](https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka), [Justin J\. Moore](https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN) | [Being Alone](https://open.spotify.com/album/2vfIWuuqhMmZHM1sAr8ewo) | 2:48 | 2024-05-17 |  |
 | [Belong To You](https://open.spotify.com/track/5VrUy953DPeHmOUCCrkz3A) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9), [Couché](https://open.spotify.com/artist/6N6ZLdTZg3Pasm0JCF5nbl) | [Belong To You](https://open.spotify.com/album/5kkx78UKw8yToOOBdtc7Am) | 2:57 | 2024-06-14 | 2024-08-31 |
@@ -262,6 +263,7 @@
 | [Dubai](https://open.spotify.com/track/4ztHw0kosQU4WymQf7SItU) | [Yoel Lewis](https://open.spotify.com/artist/3NL4BIiZNFgeCkiVCRitKP) | [Dubai](https://open.spotify.com/album/7s7vZ146G2Asz0iT0zVH5K) | 2:58 | 2022-01-28 | 2023-02-25 |
 | [Dynamic](https://open.spotify.com/track/1lDIVnkCRHDV0VTOUfM83X) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [Ruslan Radriges](https://open.spotify.com/artist/1llZ2bnIKgwHuzZqcJawVN) | [Dynamic](https://open.spotify.com/album/4Nsw5vqTSnwmNBd1aFokVi) | 2:58 | 2021-12-17 | 2022-01-08 |
 | [Dynamo](https://open.spotify.com/track/00MHnP9LWlS0H5F5kXnN0N) | [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR) | [Dynamo](https://open.spotify.com/album/5CXSOCveEATtQpooR113IW) | 3:28 | 2022-10-28 | 2023-10-14 |
+| [Each Other](https://open.spotify.com/track/7L9XqPFJeHkl6g8fdjyHUA) | [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX) | [Each Other](https://open.spotify.com/album/47Rrq2YDYjBVgkEqvhsApv) | 3:04 | 2025-04-11 |  |
 | [Earthshine](https://open.spotify.com/track/13gzqa9L58ZszOIqON5ZZR) | [KhoMha](https://open.spotify.com/artist/4ngwbMFTQKrLkLfREBYrvW) | [Earthshine](https://open.spotify.com/album/38i2FOHh7tiBV9uBD3DxHf) | 2:28 | 2021-12-17 | 2022-03-12 |
 | [Eccentricity](https://open.spotify.com/track/5W9SZOBGIv8kUn3Xj0iRjq) | [LÜRUM](https://open.spotify.com/artist/1Vvf6trCvl5ip6tARuClxO) | [Eccentricity](https://open.spotify.com/album/3mvIsDrTbV2a0LWF05BeW1) | 2:44 | 2022-11-11 | 2024-02-17 |
 | [echo](https://open.spotify.com/track/3bwD03dsO2K2bB5lWoKL42) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [echo](https://open.spotify.com/album/1sSrQfWnQj6171zCr8KGnt) | 3:09 | 2022-01-21 | 2022-04-16 |
@@ -626,6 +628,7 @@
 | [Moment In Time](https://open.spotify.com/track/6abaHQZjNIZ0d0WE8Poues) | [Peter Steele](https://open.spotify.com/artist/3b6QkLz89r7XzbkISDwljq), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [Moment In Time](https://open.spotify.com/album/0U2NNhwQzhuyhA1LOic8U8) | 3:47 | 2025-02-28 |  |
 | [Monster](https://open.spotify.com/track/6poMNI3eKjniGiH7RShxWq) | [Cubicore](https://open.spotify.com/artist/44APJiQpJhK4CWuLC9gGrx), [Linnea Schossow](https://open.spotify.com/artist/1TUCkGpyFIZj6BPEdW55VT) | [Monster](https://open.spotify.com/album/7LsPk60OJGYoq8mKWgMAxp) | 3:01 | 2025-03-07 |  |
 | [Moon and Sun](https://open.spotify.com/track/6hkiUrkqujFIpHTBJN2sZE) | [Ayko](https://open.spotify.com/artist/7DoGkyQETbcynITmyOlWJf), [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5) | [Moon and Sun](https://open.spotify.com/album/2CbRBnlyKcMrB3OF2e0wPN) | 3:06 | 2022-04-01 | 2022-07-22 |
+| [Moonburn](https://open.spotify.com/track/4FSoe9qXKMY31gWoPPpiSk) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Dani Sylvia](https://open.spotify.com/artist/4loap7SYpi11OpsZKnynZj) | [Moonburn](https://open.spotify.com/album/51UBRRdqCDebRQibh4Y9rt) | 3:05 | 2025-04-11 |  |
 | [Moonlight](https://open.spotify.com/track/7CWuyO1HFwgnZaT7BComle) | [Alex M.O.R.P.H.](https://open.spotify.com/artist/478tAnskSff0wa0XxnpwmW), [Woody van Eyden](https://open.spotify.com/artist/4G2mPOOfWyqNO338GJTOK5), [Marjan](https://open.spotify.com/artist/17DO1swIZ3m8qI98bvy67u) | [Moonlight](https://open.spotify.com/album/2lwGuPYpWt2eBOOW1GZowT) | 3:11 | 2024-02-16 | 2024-08-31 |
 | [Moonlight Shadow](https://open.spotify.com/track/4dEDU82H7VFaflZnCYEUiY) | [SCHALA](https://open.spotify.com/artist/0jk7HHrwqq0Y3Djioelf3m) | [Moonlight Shadow](https://open.spotify.com/album/0cTvAnxPfKcxe6dwxWYdKe) | 3:38 | 2023-04-07 | 2023-07-22 |
 | [Moonshade](https://open.spotify.com/track/5K1qQiwzz0k7Dc64wiZpFS) | [Ronski Speed](https://open.spotify.com/artist/3cOY6XMFQ12Q0D6Xif7BZh) | [Moonshade](https://open.spotify.com/album/0AB7gk8gDvtXH5i43s4k6G) | 3:17 | 2022-03-04 | 2022-07-07 |

@@ -4,7 +4,7 @@
 
 > Die beste country musiek\. Omslag: <a href="https://open.spotify.com/artist/7AbHJtc16ssgYnjxLPj9mS">Venter</a>
 
-174 songs - 9 hr 39 min
+175 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Bell Bottoms Up](https://open.spotify.com/track/2MIYWa3842ZZK4n4CVu12I) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottoms Up](https://open.spotify.com/album/0ugRWpHi0kiYUvDdj5eomQ) | 3:32 | 2025-04-03 |  |
 | [Bettie Steyn](https://open.spotify.com/track/3ro14Kc1NPg72rQKQJTkbS) | [Christi van Niekerk](https://open.spotify.com/artist/27viqr3X2WsBIyDzGPr9s4) | [Bettie Steyn](https://open.spotify.com/album/0XrBBBIemMh42oYyyDUtoV) | 2:21 | 2025-02-20 | 2025-03-07 |
 | [Black Coffee](https://open.spotify.com/track/4XXNTT4WD4HUthuoSqT97K) | [Demarie](https://open.spotify.com/artist/4wMH6p9mxcndu43v9vc2zj) | [Black Coffee](https://open.spotify.com/album/29aot6JOzcSkH3ad3b9jFN) | 2:50 | 2024-08-23 | 2024-09-13 |
+| [Blink Twice](https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Blink Twice](https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW) | 2:36 | 2025-04-10 |  |
 | [Burning All Bridges](https://open.spotify.com/track/2fXUAbGAUiucfU8SCUn8t7) | [Gerhard Supra](https://open.spotify.com/artist/5X0xyiVN7qe5zmXUYFKES6) | [Burning All Bridges](https://open.spotify.com/album/0qOoFNvSY9Y5apzuTpikxw) | 2:44 | 2025-02-20 | 2025-02-28 |
 | [But I Got A Beer In My Hand](https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [But I Got A Beer In My Hand](https://open.spotify.com/album/2g95B2AWT2gDusBqYO7it3) | 2:56 | 2024-02-09 | 2025-01-03 |
 | [Buy Dirt](https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:47 | 2024-02-09 |  |

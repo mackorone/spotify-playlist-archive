@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Bobby Rush & Kenny Wayne Shepherd
 
-456 songs - 1 day 6 hr 34 min
+458 songs - 1 day 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Gonna Forget About You \(Remixed and Remastered\)](https://open.spotify.com/track/0MqspCptOa5mhL1HJwUmfW) | [Curtis Salgado](https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0), [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [Gonna Forget About You](https://open.spotify.com/album/1XQy51rSpXSI2aU2ZcnPKZ) | 3:31 | 2024-06-28 |  |
 | [Good God I Got The Blues](https://open.spotify.com/track/31M0bTiGgPWL0Vl5aucBxg) | [Memphis Royal Brothers](https://open.spotify.com/artist/324gyHepTRkRqJObgifb67), [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Good God I Got The Blues](https://open.spotify.com/album/4htnUNP2Jte3CVgeHUj8b6) | 4:21 | 2024-06-21 |  |
 | [Good To Be \(Home Again\)](https://open.spotify.com/track/7HgqEF7aPj3l6BnjoYi3my) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Good To Be \(Home Again\)](https://open.spotify.com/album/7f36mEASmMWIvTmFv6tnOA) | 3:30 | 2022-01-14 | 2022-04-23 |
-| [Grayer Shade Of Blue](https://open.spotify.com/track/6o62jjYwIJVLDteWJwjTmH) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Grayer Shade Of Blue](https://open.spotify.com/album/7zPwZNffxXgI9gxJmlrfdR) | 5:09 | 2025-01-17 |  |
+| [Grayer Shade Of Blue](https://open.spotify.com/track/6o62jjYwIJVLDteWJwjTmH) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Grayer Shade Of Blue](https://open.spotify.com/album/7zPwZNffxXgI9gxJmlrfdR) | 5:09 | 2025-01-17 | 2025-04-12 |
 | [Great Minds Drink Alike \- With Horns](https://open.spotify.com/track/0F68k79FGPe5Rc468GZmF9) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Great Minds Drink Alike \(With Horns\)](https://open.spotify.com/album/6pcpzddprnaCd9UfPN1vtt) | 3:57 | 2022-04-22 | 2024-01-20 |
 | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2) | 3:08 | 2022-08-12 | 2022-09-17 |
 | [Hangover Blues](https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hangover Blues](https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz) | 4:04 | 2021-06-04 | 2023-01-06 |
@@ -240,7 +240,8 @@
 | [Lone Star Blues](https://open.spotify.com/track/4hzdQmUZ8MjtdWY5oCprFu) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Lone Star Blues](https://open.spotify.com/album/3MsyeHhJNENyUTAxVDZXrE) | 3:57 | 2022-03-18 | 2022-05-28 |
 | [Lonely Avenue](https://open.spotify.com/track/5jRgIkHMRIMlBs2lACAW3X) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Lonely Avenue](https://open.spotify.com/album/5Od0yKVTCCqgVGRl3EDA0M) | 4:55 | 2022-01-07 | 2022-01-22 |
 | [Long Road Ahead](https://open.spotify.com/track/7kAc8788lUH0y65VbR2nAQ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Long Road Ahead](https://open.spotify.com/album/3vu2p0Mr9zohNfPmok6jE2) | 3:22 | 2023-08-25 |  |
-| [Look Out Highway](https://open.spotify.com/track/2vw3MrmC1QEbpXyeg0Mlls) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Look Out Highway](https://open.spotify.com/album/3WSqIS1UNydFqI8zjtQ6t7) | 3:31 | 2025-02-28 |  |
+| [Look Out Highway](https://open.spotify.com/track/2vw3MrmC1QEbpXyeg0Mlls) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Look Out Highway](https://open.spotify.com/album/3WSqIS1UNydFqI8zjtQ6t7) | 3:31 | 2025-02-28 | 2025-04-12 |
+| [Look What I’ve Become](https://open.spotify.com/track/2YjMliKzi6Ywcj1DhtPmxM) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Look What I’ve Become](https://open.spotify.com/album/6Q7E6gda7FzxvuzRV63kAR) | 5:16 | 2025-04-11 |  |
 | [Louise](https://open.spotify.com/track/4LsjSfG35HjxANSGntQElK) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [Louise](https://open.spotify.com/album/7a159bQme0ps4IGS1bfBPg) | 3:39 | 2023-07-28 | 2023-09-23 |
 | [Love At First Sight](https://open.spotify.com/track/0I6iVnbnSri9baOqnjIeHQ) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Love At First Sight](https://open.spotify.com/album/17mDEDwEP1Stx3Rf1BxuDF) | 3:28 | 2022-02-18 | 2023-12-02 |
 | [Love Her with a Feeling](https://open.spotify.com/track/30Gu5mcMflfTdIa0OG8XkS) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD) | [I Love Freddie King](https://open.spotify.com/album/7tDSE4yiORN85TrcOMJcPC) | 5:27 | 2025-03-28 |  |
@@ -317,6 +318,7 @@
 | [Runaway \- Radio Edit](https://open.spotify.com/track/3voGGhiHlPTZ9tG7WYt69Z) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Runaway \(Radio Edit\)](https://open.spotify.com/album/3TBFyqswoBMZgHAJT8uaoK) | 3:31 | 2025-01-31 |  |
 | [Runaway Train](https://open.spotify.com/track/0p0F9JbSXgllWzOAIeje7Y) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Runaway Train](https://open.spotify.com/album/6TylTdm2xJghIX9o9sBp1Y) | 4:15 | 2023-09-15 |  |
 | [Running Away](https://open.spotify.com/track/6hGu0MWwR53eJbHCAZgWii) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Running Away](https://open.spotify.com/album/33lwlkjQC8xLyI4W7YgCTI) | 4:54 | 2024-05-31 |  |
+| [Sad Eyes](https://open.spotify.com/track/0yAnReI0lfX8IOfb46Vzf3) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Sad Eyes](https://open.spotify.com/album/4NBCzoD5BHJhJ5LOXtIr72) | 3:39 | 2025-04-11 |  |
 | [Safari](https://open.spotify.com/track/5YuW3UCKDynB2gL9GTp7NS) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Safari](https://open.spotify.com/album/0LoxXyl0BZ2H4iJBvnzwvW) | 5:48 | 2023-01-13 | 2023-03-11 |
 | [Sand Castles](https://open.spotify.com/track/01aamSYYax8Av0aHdsFkop) | [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS) | [Sand Castles](https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr) | 3:16 | 2022-02-25 | 2023-12-02 |
 | [Save It For The Next Fool](https://open.spotify.com/track/4U9jHh7OSiDErr0OTW2FzO) | [Coco Montoya](https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb) | [Writing On The Wall](https://open.spotify.com/album/3g8mmWEgsQs1H15zMnxTKX) | 4:19 | 2023-09-01 |  |

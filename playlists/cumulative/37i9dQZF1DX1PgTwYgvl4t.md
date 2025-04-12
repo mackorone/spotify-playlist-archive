@@ -4,7 +4,7 @@
 
 > Strictly Nigerian worship songs\. Cover: "<a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=oRTyS4OKTBCTyzA6uPpEIg>Moses Bliss</a>
 
-184 songs - 21 hr 50 min
+185 songs - 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Where You Lead](https://open.spotify.com/track/3SO1sXMxPbAGrveHakukVZ) | [CHINEMEREM](https://open.spotify.com/artist/1kW6NzBKO0fVW3VEfgF00v) | [Where You Lead](https://open.spotify.com/album/5PsZNaxGFZRI3RACssLofH) | 4:09 | 2025-02-07 |  |
 | [Who Is Like You \- Live](https://open.spotify.com/track/2gbB7Qux8u6qCZhGxlEKFo) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Who Is Like You \(Live\)](https://open.spotify.com/album/4Z7NcJsD3IbJRCGalgEyW9) | 19:01 | 2025-03-07 |  |
 | [Wonderful \- African Worship Medley/Live](https://open.spotify.com/track/7JV1mx4hsvRUtdkcXlZt8L) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 2:24 | 2024-05-09 |  |
+| [Worship Adonai](https://open.spotify.com/track/1y7qmmIlwifrL9gg8EZrvY) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av) | [Worship Adonai \(The Ignite Experience\)](https://open.spotify.com/album/5mv4xZFPgHBH3aVNiVkYfK) | 9:09 | 2025-04-11 |  |
 | [Worship and Adoration](https://open.spotify.com/track/7g2gsAGBYwzcbvltv2rzIp) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Worship and Adoration](https://open.spotify.com/album/1F4r0a22ZYty1JpK1oD7ya) | 3:21 | 2024-09-06 | 2024-11-08 |
 | [WORSHIP TO YOUR THRONE \- LIVE](https://open.spotify.com/track/57wt9vQPFxQOBFvAV1yBvb) | [Ruke Gure](https://open.spotify.com/artist/3kJycPCLqMjSCHGEjvMUlz) | [WORSHIP TO YOUR THRONE \(LIVE\)](https://open.spotify.com/album/1tVk6j8s7rr2o2kl6c0LFK) | 4:17 | 2024-06-14 | 2025-01-03 |
 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 | 2024-05-09 |  |

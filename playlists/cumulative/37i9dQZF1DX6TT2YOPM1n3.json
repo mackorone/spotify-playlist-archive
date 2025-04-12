@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-05",
-  "description": "Home to Pakistani Hits. Cover: Maanu. Annural Khalid",
+  "description": "Home to Pakistani Hits. Cover: Afusic",
   "name": "Pakka Hit Hai",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 193810,
       "name": "12 Saal",
       "url": "https://open.spotify.com/track/00KoecK1MTjqUamcy5Tm0l"
@@ -530,6 +530,28 @@
       "duration_ms": 235297,
       "name": "Baari",
       "url": "https://open.spotify.com/track/0HTb4JfMtMkMYUtyd19In3"
+    },
+    {
+      "album": {
+        "name": "Baat (From \"Meem Se Mohabbat\")",
+        "url": "https://open.spotify.com/album/4RcxIGslWPqZJ4XgzmVyci"
+      },
+      "artists": [
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        },
+        {
+          "name": "Qirat Haider",
+          "url": "https://open.spotify.com/artist/1wY7OsIekAW9BGIPnPRinW"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202916,
+      "name": "Baat (From \"Meem Se Mohabbat\")",
+      "url": "https://open.spotify.com/track/4yQQJ9Tj3DDYG3zgHhEgtq"
     },
     {
       "album": {
@@ -2304,7 +2326,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 163297,
       "name": "Khwabeeda",
       "url": "https://open.spotify.com/track/2hYgz7q5qhBeRiKIdChC83"
@@ -3041,6 +3063,32 @@
     },
     {
       "album": {
+        "name": "Pal Pal (with Talwiinder)",
+        "url": "https://open.spotify.com/album/47HV1rQNbrAPcv15zgbTHy"
+      },
+      "artists": [
+        {
+          "name": "Afusic",
+          "url": "https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx"
+        },
+        {
+          "name": "Talwiinder",
+          "url": "https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN"
+        },
+        {
+          "name": "AliSoomroMusic",
+          "url": "https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Pal Pal (with Talwiinder)",
+      "url": "https://open.spotify.com/track/75OSVIdR2KPpEmViMt8MX2"
+    },
+    {
+      "album": {
         "name": "Pardes Katenda",
         "url": "https://open.spotify.com/album/0Vvg3mHBvuZkXTg7rRSLnd"
       },
@@ -3415,6 +3463,28 @@
     },
     {
       "album": {
+        "name": "ROOP",
+        "url": "https://open.spotify.com/album/4SkBxlilZZsloBNShyEXuE"
+      },
+      "artists": [
+        {
+          "name": "NAYEL",
+          "url": "https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152445,
+      "name": "ROOP",
+      "url": "https://open.spotify.com/track/51EAvQ6RYU14VwUaMJHsnD"
+    },
+    {
+      "album": {
         "name": "Sadqay",
         "url": "https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD"
       },
@@ -3686,7 +3756,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 176642,
       "name": "Subho Shaam",
       "url": "https://open.spotify.com/track/5zWjwwQeSogSqcWEUP8qsk"

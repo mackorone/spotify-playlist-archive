@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/> C JAMM\(씨잼\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,737 likes - 105 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,691 likes - 105 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 2 | [LAYERED](https://open.spotify.com/track/5T1tCOZZuoAX9hA1e9xE8U) | [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR) | [LAYERED](https://open.spotify.com/album/09OHaLWm1Z5rTB5L6NKHcV) | 3:07 |
 | 3 | [LOV3 \(Feat\. Bryan Chase, Okasian\)](https://open.spotify.com/track/1QC4Ztt2GlFWpdSMLwt5ol) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Bryan Chase](https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw), [Okasian](https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO) | [K\-FLIP+](https://open.spotify.com/album/4EPIlAjXbTNQTracKmYnI6) | 3:56 |
 | 4 | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 |
-| 5 | [My Job is Cool \(Feat\. ZICO, J\-Tong\)](https://open.spotify.com/track/6RVjIT5XRZ6BMLaIWPtgSU) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [J\-Tong](https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ) | [I Tent to Get Tongue\-tied](https://open.spotify.com/album/1CYzPxanD1PYrbGJFNjWOe) | 3:22 |
+| 5 | [My Job is Cool \(Feat\. ZICO, J\-Tong\)](https://open.spotify.com/track/6RVjIT5XRZ6BMLaIWPtgSU) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [J\-Tong](https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ) | [I Tend to Get Tongue\-tied](https://open.spotify.com/album/1CYzPxanD1PYrbGJFNjWOe) | 3:22 |
 | 6 | [WET](https://open.spotify.com/track/6XVzxEg3OzlpdnJIzBZBL3) | [Molly Yam](https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [WET](https://open.spotify.com/album/4LmjnThcPXDd9Lcz3ctIY1) | 3:20 |
 | 7 | [coogieandme \(Feat\. lobonabeat!\)](https://open.spotify.com/track/66HXTGknCJsCooLGUePdGs) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva) | [BEFORE UPSET 2](https://open.spotify.com/album/0gwJMCCDPPaZlr0F685KMw) | 2:41 |
 | 8 | [ABC](https://open.spotify.com/track/5FTHf3GtEJE8G0zoRyzZvz) | [Yung Blesh](https://open.spotify.com/artist/4brsMLGzcBIcMFiow8fRfZ), [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5), [Shyboiitobii](https://open.spotify.com/artist/1dWnMziLbosnKyEUDuzzoJ), [Wuuslime](https://open.spotify.com/artist/2HW5pB8BOn42simtS907Sm), [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [ABC](https://open.spotify.com/album/1Gu4SAC9K4OpPj4bqcGZCO) | 2:59 |

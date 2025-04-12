@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Country gone wild! You never know what you're gonna get. Cover: Graham Barham",
+  "description": "Country gone wild! You never know what you're gonna get. Cover: ERNEST and Snoop Dogg",
   "name": "Wild Country",
   "tracks": [
     {
@@ -3440,6 +3440,28 @@
       "duration_ms": 178433,
       "name": "Get That All The Time (feat. Mitchell Tenpenny)",
       "url": "https://open.spotify.com/track/3hfEwSKgFMMhZJBaPpR41e"
+    },
+    {
+      "album": {
+        "name": "Gettin' Gone",
+        "url": "https://open.spotify.com/album/0TRpphCGSFTnRlByhoQ40h"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223493,
+      "name": "Gettin' Gone (feat. Snoop Dogg)",
+      "url": "https://open.spotify.com/track/3tXzpZlejEH13I6nh7iAsE"
     },
     {
       "album": {

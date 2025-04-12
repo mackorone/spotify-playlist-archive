@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 11 Apr 03:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 12 Apr 22:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -664,7 +664,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 253773,
       "name": "23's A Baby",
       "url": "https://open.spotify.com/track/4cgBgQLBPFpxkdt0ZEa8VK"
@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 368504,
       "name": "A New Life is Coming",
       "url": "https://open.spotify.com/track/5AKS8lf5GJTZPWJm3rqrSG"
@@ -2344,7 +2344,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 273000,
       "name": "ADHD",
       "url": "https://open.spotify.com/track/3oXIFl4jc2HJ9DqVfFhuaf"
@@ -2496,7 +2496,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 144640,
       "name": "Adult Swim",
       "url": "https://open.spotify.com/track/2DaEOAKYadUMO7x0CsobRU"
@@ -3284,6 +3284,24 @@
       "duration_ms": 148240,
       "name": "All I Ever Wanted",
       "url": "https://open.spotify.com/track/4KE5LyEpmYzRGndxkrigUI"
+    },
+    {
+      "album": {
+        "name": "all i need",
+        "url": "https://open.spotify.com/album/1gK0aKOhqwRRASeRhD2hRQ"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213542,
+      "name": "all i need",
+      "url": "https://open.spotify.com/track/449zwwLd5mT6AmRZMFJC96"
     },
     {
       "album": {
@@ -4720,7 +4738,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 206840,
       "name": "Anthracite",
       "url": "https://open.spotify.com/track/5BwHokGRtZBsse06TzWrP4"
@@ -9455,6 +9473,28 @@
     },
     {
       "album": {
+        "name": "BLK ZMBY",
+        "url": "https://open.spotify.com/album/38fGOv9c1F9UGUTdDMBhLs"
+      },
+      "artists": [
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        },
+        {
+          "name": "Steel Tipped Dove",
+          "url": "https://open.spotify.com/artist/6b74rHzWIZlgLH7U5ybjUE"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133746,
+      "name": "BLK ZMBY",
+      "url": "https://open.spotify.com/track/0tQP9nRJ72Lc2utb2bZmxj"
+    },
+    {
+      "album": {
         "name": "BLO A KISS",
         "url": "https://open.spotify.com/album/3h1Pjazgk0MINYRzv0627M"
       },
@@ -12870,6 +12910,24 @@
       "duration_ms": 270967,
       "name": "Carbonated Love",
       "url": "https://open.spotify.com/track/5j4zF9cJiOLTSCk3TvvXWR"
+    },
+    {
+      "album": {
+        "name": "Carita Linda",
+        "url": "https://open.spotify.com/album/7qULx9UqZbMt1jggUMYaWD"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203463,
+      "name": "Carita Linda",
+      "url": "https://open.spotify.com/track/5u5gkOBTv48cpXVMqkPkpK"
     },
     {
       "album": {
@@ -20343,6 +20401,24 @@
     },
     {
       "album": {
+        "name": "Distracted by the Mona Lisa",
+        "url": "https://open.spotify.com/album/5oFMvYCgOpriqdMARPJgfq"
+      },
+      "artists": [
+        {
+          "name": "The Callous Daoboys",
+          "url": "https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214951,
+      "name": "Distracted by The Mona Lisa",
+      "url": "https://open.spotify.com/track/4QNnATTpV5KKaT8IROdRAg"
+    },
+    {
+      "album": {
         "name": "Divine",
         "url": "https://open.spotify.com/album/2hPKkbMX9RJTi2BCIX5czA"
       },
@@ -21430,6 +21506,24 @@
       "duration_ms": 310540,
       "name": "Double Trio 2",
       "url": "https://open.spotify.com/track/2QVsHwPwciFkNt7odhQt1W"
+    },
+    {
+      "album": {
+        "name": "Doubt (demo)",
+        "url": "https://open.spotify.com/album/5qkGe4UpUa8dsokzuroQ72"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177940,
+      "name": "Doubt (demo)",
+      "url": "https://open.spotify.com/track/0vsW1vAlNYiy9Y5briGT8Y"
     },
     {
       "album": {
@@ -26058,7 +26152,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 199124,
       "name": "Feral",
       "url": "https://open.spotify.com/track/2saSHFvn4saR7wQ4V19FFO"
@@ -26206,7 +26300,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 196229,
       "name": "Fight & Fuck",
       "url": "https://open.spotify.com/track/2AWs6DFejSa1nr4kmbM5ae"
@@ -33297,6 +33391,24 @@
     },
     {
       "album": {
+        "name": "Henry, come on",
+        "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311269,
+      "name": "Henry, come on",
+      "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
+    },
+    {
+      "album": {
         "name": "her",
         "url": "https://open.spotify.com/album/6cUhnbhBBTFNb6z2w7llGx"
       },
@@ -39993,6 +40105,24 @@
     },
     {
       "album": {
+        "name": "Jetplane",
+        "url": "https://open.spotify.com/album/2dqqdgT9eAranPuGWV38Zc"
+      },
+      "artists": [
+        {
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156824,
+      "name": "Jetplane",
+      "url": "https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA"
+    },
+    {
+      "album": {
         "name": "Jig",
         "url": "https://open.spotify.com/album/6KZYZu1jiXDmBQJev2OcAl"
       },
@@ -42130,6 +42260,24 @@
       "duration_ms": 271000,
       "name": "Laberinto",
       "url": "https://open.spotify.com/track/5lo4luJDYXCV3KGvHt5smB"
+    },
+    {
+      "album": {
+        "name": "Lachryma",
+        "url": "https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276400,
+      "name": "Lachryma",
+      "url": "https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa"
     },
     {
       "album": {
@@ -49041,6 +49189,24 @@
     },
     {
       "album": {
+        "name": "MOLDY MEMORIES (peer pressure turned me into a diamond)",
+        "url": "https://open.spotify.com/album/3OXerCYn6PmV9YABuhzcHh"
+      },
+      "artists": [
+        {
+          "name": "DUCKBOY",
+          "url": "https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150925,
+      "name": "MOLDY MEMORIES (peer pressure turned me into a diamond)",
+      "url": "https://open.spotify.com/track/3Yt28EcfVWwACe63eZNM5a"
+    },
+    {
+      "album": {
         "name": "MOLLY",
         "url": "https://open.spotify.com/album/5n2FUdbSI4e57RbwZVUGqN"
       },
@@ -51086,7 +51252,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 154285,
       "name": "narcissisticromantic",
       "url": "https://open.spotify.com/track/7dDZyAnzPty2C3nOXdxbhM"
@@ -55283,6 +55449,24 @@
     },
     {
       "album": {
+        "name": "othello",
+        "url": "https://open.spotify.com/album/7C4tEL9g4Vb2Dsn9Q1H52h"
+      },
+      "artists": [
+        {
+          "name": "hard life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192047,
+      "name": "othello",
+      "url": "https://open.spotify.com/track/06ss61sRVXC2DuYh2GcoVt"
+    },
+    {
+      "album": {
         "name": "Otra Noche de Llorar",
         "url": "https://open.spotify.com/album/2kSB4gQHyJmEfC8jDrwbeX"
       },
@@ -58506,7 +58690,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 167823,
       "name": "Potion",
       "url": "https://open.spotify.com/track/2mEgBXBksVpGBotlB1yGZD"
@@ -58850,7 +59034,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 200204,
       "name": "Prizefighter",
       "url": "https://open.spotify.com/track/1mvStaNiiO38hfsdWs5d2F"
@@ -65958,7 +66142,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 197533,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM"
@@ -75674,6 +75858,24 @@
       "duration_ms": 169055,
       "name": "There's a Place",
       "url": "https://open.spotify.com/track/6JW0QcGCKRIKFu5emOhsGP"
+    },
+    {
+      "album": {
+        "name": "There's No Future In Optimism",
+        "url": "https://open.spotify.com/album/3kw1Gtzo54hTyF50BgLbXY"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200089,
+      "name": "There's No Future In Optimism",
+      "url": "https://open.spotify.com/track/6cNr04UeJaxfRXPjxWOt6U"
     },
     {
       "album": {

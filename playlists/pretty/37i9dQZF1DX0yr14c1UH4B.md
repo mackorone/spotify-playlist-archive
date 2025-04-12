@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 ### [The Gold List](https://open.spotify.com/playlist/37i9dQZF1DX0yr14c1UH4B)
 
-> Golden new releases ft\. Cynthia Eviro
+> Golden new releases ft\. Cynthia Erivo
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,704 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,714 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 49 | [Love Me More](https://open.spotify.com/track/6671le3mOu7yT3oUlTVRH0) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Love Me More](https://open.spotify.com/album/06rcl5LtfkoY1MpzfOm48s) | 2:51 |
 | 50 | [The Sun](https://open.spotify.com/track/1Iaq7YIunBX01YljzHjdsM) | [Brittany Broski](https://open.spotify.com/artist/4bvnxCtWPHufMtiQQuT8nW) | [The Sun](https://open.spotify.com/album/6QWU7nOEXVYDKPhg1nmYtI) | 3:30 |
 
-Snapshot ID: `Z/hNdwAAAACSReVyK1+dB8y3U5kLeZ0c`
+Snapshot ID: `Z/jKwAAAAAD4Bs2rXdRq8iwo2qm+kwmQ`

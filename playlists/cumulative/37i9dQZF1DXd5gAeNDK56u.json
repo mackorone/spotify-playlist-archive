@@ -1421,6 +1421,24 @@
     },
     {
       "album": {
+        "name": "Monarch",
+        "url": "https://open.spotify.com/album/1e1oLoYefiU22dQG9KO3lm"
+      },
+      "artists": [
+        {
+          "name": "Pixel Souls",
+          "url": "https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185547,
+      "name": "Monarch",
+      "url": "https://open.spotify.com/track/2uGy6jPaqwrSjWEqTByJ4o"
+    },
+    {
+      "album": {
         "name": "My Own Way",
         "url": "https://open.spotify.com/album/5b3GfF8Uy6p4AZSZAzOEcI"
       },

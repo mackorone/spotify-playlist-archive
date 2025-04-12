@@ -4,7 +4,7 @@
 
 > Ambient soundscapes backed by elements of nature, from a selection of the best ambient composers right now.
 
-275 songs - 21 hr 7 min
+277 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Light Divides](https://open.spotify.com/track/4B6Ee3S5nYDCLwNV6NGJr2) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Light Divides](https://open.spotify.com/album/5UJ0Lp5fyujxiwFz6PIXcF) | 3:34 | 2024-09-04 |  |
 | [Lost Woods](https://open.spotify.com/track/3kB6DqvwMcPqDdTnmspybi) | [happo.](https://open.spotify.com/artist/5DRgQ5TDIwDVupnWxfd8lv) | [Lost Woods](https://open.spotify.com/album/27kEJssSAjbdqQAHkAG6JL) | 2:19 | 2023-10-02 | 2024-12-19 |
 | [Malcolm Island](https://open.spotify.com/track/1NeZTpeHRlDNvRPzca28w9) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Malcolm Island](https://open.spotify.com/album/0N8SfW6iM2CbH3bMolVVzF) | 3:01 | 2022-03-10 | 2023-10-06 |
+| [Matèl](https://open.spotify.com/track/6d81er1G1FqItrbdX2Ta5E) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [Matèl \(original motion picture soundtrack\)](https://open.spotify.com/album/6Uu2aSnnskKHLs0mriQfcT) | 3:24 | 2025-04-11 |  |
 | [Meet Me By The Ocean](https://open.spotify.com/track/0IDqWLPGDQ4ntcfzzEC2HG) | [Center of Attention](https://open.spotify.com/artist/4xp0qN8C2Og0QbD3GxxfCs), [Natureland](https://open.spotify.com/artist/6l27wM7jqW1eTLLwes4llb) | [Meet Me By The Ocean](https://open.spotify.com/album/4etB8yFvsc5SUP8VTi8kv3) | 3:01 | 2024-07-24 |  |
 | [Melodica](https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Articulation](https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm) | 3:39 | 2022-09-07 | 2024-09-05 |
 | [Melon City](https://open.spotify.com/track/4jmrVb5sGRXBzxqxceVTOK) | [Dream Carpets](https://open.spotify.com/artist/3SKUZkAW7rWwREfd0qt3LY) | [Interior Fountains](https://open.spotify.com/album/0Xm7NaLPApbyKZigoJl2lJ) | 10:06 | 2021-12-22 | 2023-05-27 |
@@ -126,6 +127,7 @@
 | [Mir](https://open.spotify.com/track/3wyNQNDrg9ntkIZe6RaO4v) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Mur](https://open.spotify.com/album/15liRgZ2vwwF9UuCyF4WKL) | 11:28 | 2021-12-22 | 2023-03-26 |
 | [Mirai](https://open.spotify.com/track/1IdNFDIkNaeOc78bIm561d) | [By Lotus](https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8) | [Mirai](https://open.spotify.com/album/3RBkYPvOfPFVgsEsDpr3bl) | 3:25 | 2025-02-06 | 2025-03-15 |
 | [Modjadji](https://open.spotify.com/track/7hWjSo4Sw8HzFPPyQL9Xfm) | [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Duality Pt 2 Peace](https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw) | 3:33 | 2025-03-14 |  |
+| [Moos](https://open.spotify.com/track/76XOYqJB24XX5BTgATo4ST) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Moos](https://open.spotify.com/album/3hQpycAX2VQpqmk5zYL4x4) | 2:55 | 2025-04-11 |  |
 | [more true](https://open.spotify.com/track/5ylZzMCopGBEUJemnqf3Ym) | [KR3TURE](https://open.spotify.com/artist/5Da6Z6taYuywICqGUwocwu), [King Kairos](https://open.spotify.com/artist/79pC1m2ifXKHYwZ3JUEvzQ), [On Clouds](https://open.spotify.com/artist/4BFrUd9AQ1DtvKysaWGoap) | [more true](https://open.spotify.com/album/3fc2Y7zHwr4cCtPKHDBIDY) | 2:33 | 2025-03-14 |  |
 | [Morgenånder](https://open.spotify.com/track/3OtCjXOx1v2GEEDtxmmXWA) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Hidden Terraces](https://open.spotify.com/album/2POudgO00jsxmmUAwJhh7c) | 18:07 | 2021-12-22 | 2023-07-07 |
 | [Morning Energy](https://open.spotify.com/track/7q3nvwGs9BTXP6syRF8JgL) | [The Quiet Path](https://open.spotify.com/artist/2qaVQa8FpiSBGzWIsFwhkD), [The Slumbering One](https://open.spotify.com/artist/6zFp0HHOylks3A1Dv15j4e) | [Morning Energy](https://open.spotify.com/album/5hX1qUBCqJ28wtQovxDRXH) | 2:00 | 2023-01-16 |  |
@@ -144,7 +146,7 @@
 | [Night Time](https://open.spotify.com/track/6uz69ZNJP221a7DeAuDmll) | [Unreaa](https://open.spotify.com/artist/7em5iXXJfAo6rJKTpqKrQu), [Uni](https://open.spotify.com/artist/582hP87cHThkhyvo5b9zMw) | [Night Time](https://open.spotify.com/album/54A7DM0NWHjjUGdPtQkgJP) | 1:01 | 2024-07-24 |  |
 | [Nil Shore](https://open.spotify.com/track/3LWJujtOifkEzhuCEowhxZ) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Filament and Place](https://open.spotify.com/album/2q3FLsl0yqx0eplaC3rM3t) | 4:32 | 2022-07-08 | 2024-04-19 |
 | [Nil Shore](https://open.spotify.com/track/6hnEX01NONTuhpDk6yDdwT) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Filament and Place](https://open.spotify.com/album/5ZRUr2HqVBVKeRfoN8rKQz) | 4:32 | 2021-12-22 |  |
-| [Nine](https://open.spotify.com/track/35YBpp7aLaH9wJd1QuQF3i) | [Nobuto Suda](https://open.spotify.com/artist/3ml3FpzCetshYSyx5ghKGS) | [Transitoriness](https://open.spotify.com/album/166PUAhoTvxeEu0AbDYCYZ) | 6:45 | 2021-12-22 |  |
+| [Nine](https://open.spotify.com/track/35YBpp7aLaH9wJd1QuQF3i) | [Nobuto Suda](https://open.spotify.com/artist/3ml3FpzCetshYSyx5ghKGS) | [Transitoriness](https://open.spotify.com/album/166PUAhoTvxeEu0AbDYCYZ) | 6:45 | 2021-12-22 | 2025-04-12 |
 | [No One Else Here](https://open.spotify.com/track/1onjVySYXYtvaYp0zwa3aH) | [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [No One Else Here](https://open.spotify.com/album/401RFElK9ACsFeoGtbYfvL) | 3:47 | 2023-04-28 |  |
 | [Normal](https://open.spotify.com/track/1MTjrxeDOoN5aGebwy32JP) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [With](https://open.spotify.com/album/7mses8TR62sA7JMJjWSDAT) | 2:52 | 2021-12-22 | 2024-08-24 |
 | [Norrsjön \- Authentic Nature](https://open.spotify.com/track/5YMLYxfAouD6FkmxLHZXCA) | [LUNIQ.](https://open.spotify.com/artist/7A8w7cPUZgGsW7quCMezNx) | [Minnen](https://open.spotify.com/album/1TO1pBI31FP0anaYO3qh5K) | 2:39 | 2025-02-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "next up: IBZ opening",
-  "num_followers": 385854,
+  "num_followers": 386032,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/g/cQAAAAACZAbWAAAs8WYh0ZiI5Ijs",
+  "snapshot_id": "Z/kIpQAAAADMgX1BmSwkTeOqUlpugdo5",
   "tracks": [
     {
       "added_at": "2025-04-10 22:00:17",
@@ -231,6 +231,26 @@
       "duration_ms": 209508,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/55AaJDkEJHuTPDTTN0jyOO"
+    },
+    {
+      "added_at": "2025-04-11 12:18:45",
+      "album": {
+        "name": "Sun Is Shining",
+        "url": "https://open.spotify.com/album/1e148SBg4QqwN5ptrJpwZH"
+      },
+      "artists": [
+        {
+          "name": "Dancing on Lego",
+          "url": "https://open.spotify.com/artist/7srXfOyKg6eNopdl2VDyj5"
+        },
+        {
+          "name": "sone.",
+          "url": "https://open.spotify.com/artist/0IUu7qzhlQ3OxKomKLpC5c"
+        }
+      ],
+      "duration_ms": 184918,
+      "name": "Sun Is Shining - sone. Remix",
+      "url": "https://open.spotify.com/track/6JqX7rVJn8TwkqMOgcDv1A"
     },
     {
       "added_at": "2025-04-10 22:00:17",

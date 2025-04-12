@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance to for 2025\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-470 songs - 1 day 2 hr 22 min
+471 songs - 1 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Heaven Takes You Home \(feat\. Connie Constance\)](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:34 | 2022-08-05 |  |
 | [Here For You \- Bearcubs Remix](https://open.spotify.com/track/3UzmjXtZUncUbprhVYTTAc) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Laura Welsh](https://open.spotify.com/artist/2QGdI8fUEuoVPJ4xuC5NDe), [Jack Ritchie](https://open.spotify.com/artist/3eNhNbPG6pIou8XhDhb6wC) | [Sirens \(Remixes\)](https://open.spotify.com/album/0CoYk78WZsYyT79mRSEb6Q) | 4:53 | 2020-09-13\* | 2021-03-06 |
 | [Hey Now](https://open.spotify.com/track/0McOrVxmad9tAYyxDOXOvm) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl) | [Hey Now](https://open.spotify.com/album/2SJD9OZQ0DparYmiEUZiwV) | 3:09 | 2021-07-17 | 2021-10-02 |
-| [Hey Now](https://open.spotify.com/track/0D4jfYqgPUjzAWbXsxvd4n) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Innarius](https://open.spotify.com/artist/3ByAHu681RFcsV7iaHsdZ9) | [Hey Now](https://open.spotify.com/album/0lvmcaO9OdN8SjiB8PLt4M) | 3:58 | 2022-05-03 |  |
+| [Hey Now](https://open.spotify.com/track/0D4jfYqgPUjzAWbXsxvd4n) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Innarius](https://open.spotify.com/artist/3ByAHu681RFcsV7iaHsdZ9) | [Hey Now](https://open.spotify.com/album/0lvmcaO9OdN8SjiB8PLt4M) | 3:58 | 2022-05-03 | 2025-04-12 |
 | [Hey Ya!](https://open.spotify.com/track/23KYNQyJ0nW1kdIwbVT2qI) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Hey Ya!](https://open.spotify.com/album/7kDk1mP1PJJHzvs9tIEvdu) | 2:49 | 2024-11-29 | 2025-03-15 |
 | [High & Choking \- Jacques Greene Remix](https://open.spotify.com/track/6f69wtX98cWPVJaYYs2pns) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [High & Choking \(Jacques Greene Remix\)](https://open.spotify.com/album/3GvVs7WNNIhKTI94Ni4Voa) | 4:38 | 2023-05-05 | 2023-12-14 |
 | [Higher](https://open.spotify.com/track/36rCmwPIB3hE2MXtvjP0cc) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [Higher](https://open.spotify.com/album/62UaR3oWtK94SgDjP0CN56) | 2:41 | 2021-10-23 | 2021-11-27 |
@@ -439,6 +439,7 @@
 | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2) | 3:36 | 2022-01-21 | 2022-09-17 |
 | [Want It](https://open.spotify.com/track/37OhtSnCY0kzqkPWmfN3RD) | [J Lisk](https://open.spotify.com/artist/6IbEdXQyS4jMvheGTgKtSr) | [Want It](https://open.spotify.com/album/495KToZQi6VijKwHedBAAH) | 2:32 | 2021-06-12 | 2021-07-17 |
 | [Warmer](https://open.spotify.com/track/5KiXHbjpJuKD4XHR1fcjYP) | [Imanos](https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb) | [Warmer](https://open.spotify.com/album/5wLRDM7IOWxh997fsJrtD9) | 2:32 | 2021-09-18 | 2021-11-11 |
+| [Waterfall](https://open.spotify.com/track/5XJvzlRR2FnsObtoYy6qoy) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV) | [Waterfall](https://open.spotify.com/album/4S4VjEK6SsnM7kVDy4w5Yx) | 4:24 | 2025-04-11 |  |
 | [Weightless](https://open.spotify.com/track/14Qgz11mmNGbIQ57IZlAUF) | [Hyzteria](https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd) | [Weightless](https://open.spotify.com/album/2lJ4zllo7kxxEbeWTJxLR6) | 3:06 | 2024-10-18 |  |
 | [Weightless \(jamesjamesjames Remix\)](https://open.spotify.com/track/1a3u6JpaSEndtkzDyUFOqC) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Weightless \(jamesjamesjames Remix\)](https://open.spotify.com/album/6Sv0gyjKWyrdij1ToQG6f0) | 4:09 | 2025-01-03 |  |
 | [What About Me](https://open.spotify.com/track/0Dv9RfsaOgJ9sNp2NVwU18) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [What About Me](https://open.spotify.com/album/26itlv8iMJgvevPRko5Fwb) | 3:43 | 2020-09-13\* | 2021-07-17 |

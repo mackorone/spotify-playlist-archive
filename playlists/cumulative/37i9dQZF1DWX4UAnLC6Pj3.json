@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda Los Sebastianes, Luis Fonsi en portada.",
+  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Moy Bobadilla y Grupo Firme en portada.",
   "name": "Banda 2025",
   "tracks": [
     {
@@ -258,6 +258,28 @@
       "duration_ms": 179106,
       "name": "Afuera Est\u00e1 Lloviendo",
       "url": "https://open.spotify.com/track/3z6s6qPDYCpW44Zfpy4HWS"
+    },
+    {
+      "album": {
+        "name": "Ahora S\u00ed Te Conoc\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/6IpzcAJ3me4S3H9mOH2H8P"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200544,
+      "name": "Ahora S\u00ed Te Conoc\u00ed (En Vivo)",
+      "url": "https://open.spotify.com/track/6C9yGcfTdkmn0iZDWEwRZo"
     },
     {
       "album": {
@@ -674,7 +696,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 199464,
       "name": "Aqu\u00ed No Se Termina (En Vivo)",
       "url": "https://open.spotify.com/track/3Z6U51tUSNL2exhjJj2o3g"
@@ -1509,6 +1531,36 @@
     },
     {
       "album": {
+        "name": "Arriba La Moyombiza (En Vivo)",
+        "url": "https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs"
+      },
+      "artists": [
+        {
+          "name": "Moy Bobadilla",
+          "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Hernan Sepulveda",
+          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
+        },
+        {
+          "name": "Max Peraza",
+          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Coraz\u00f3n (En Vivo)",
+      "url": "https://open.spotify.com/track/1DXl17aTwuvzZ9T2AXiKZM"
+    },
+    {
+      "album": {
         "name": "Cortamos",
         "url": "https://open.spotify.com/album/1CpkILp863gct5j3eQbz0B"
       },
@@ -1538,7 +1590,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 154093,
       "name": "Cosas del Amor - En Vivo",
       "url": "https://open.spotify.com/track/6YzMEo6d3PbmtftbYwE9tj"
@@ -5427,6 +5479,24 @@
     },
     {
       "album": {
+        "name": "En Vivo Desde Jap\u00f3n",
+        "url": "https://open.spotify.com/album/6lRqJciw5FLzsPSu3eKTwm"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213762,
+      "name": "No Me Aprovechaste",
+      "url": "https://open.spotify.com/track/1bIop0kq6LmElfwkAt4LeD"
+    },
+    {
+      "album": {
         "name": "No Me Lamentare",
         "url": "https://open.spotify.com/album/7Bl7KTEP0tDvSLfLbYhn1O"
       },
@@ -5826,7 +5896,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 167250,
       "name": "Pasa Tips",
       "url": "https://open.spotify.com/track/1GwBfU9CDCiuJh8P5Ocgxx"
@@ -6624,6 +6694,24 @@
       "duration_ms": 230034,
       "name": "Qu\u00e9 Fuimos (En Vivo)",
       "url": "https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Loco el Plebe",
+        "url": "https://open.spotify.com/album/7zib463YTjdtk4CqQZK6kK"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Qu\u00e9 Loco El Plebe",
+      "url": "https://open.spotify.com/track/5gLwcpNzRB5f9WKu512COs"
     },
     {
       "album": {
@@ -7507,6 +7595,28 @@
     },
     {
       "album": {
+        "name": "S\u00e9 Sincera Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3nua6BtgRTtLGt8nEv4bgF"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188400,
+      "name": "S\u00e9 Sincera Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4xPk7nmG2DZmIrXYQ9qnhU"
+    },
+    {
+      "album": {
         "name": "Tan viendo como estoy",
         "url": "https://open.spotify.com/album/3Hz3i7i7yOPnRF1wgSUCKw"
       },
@@ -8156,7 +8266,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 146944,
       "name": "T\u00e9ngale Paciencia",
       "url": "https://open.spotify.com/track/50ioD52nMg9tkXa66xX9Lf"
@@ -8812,7 +8922,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 220125,
       "name": "Ya Para Qu\u00e9",
       "url": "https://open.spotify.com/track/34BoCoArNm9i9FmVAJb33Z"

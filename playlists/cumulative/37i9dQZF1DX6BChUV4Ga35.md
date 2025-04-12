@@ -4,7 +4,7 @@
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-137 songs - 4 hr 44 min
+138 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Baa Baa Black Sheep](https://open.spotify.com/track/5TvkzVJZ8YrN8WF9gixsEr) | [Mellodees](https://open.spotify.com/artist/03H3gcpif0GufJE8ybbcpn) | [Kids Songs & Medlees Vol 1](https://open.spotify.com/album/5R4CEWCMgHHEaRkQEiaiRz) | 1:38 | 2022-02-01 |  |
 | [Baby Animals](https://open.spotify.com/track/6Cqinxek9SxhSsooX5rAhL) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Animal Songs](https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO) | 1:12 | 2022-02-01 |  |
 | [Baby Beluga \- 40th Anniversary Version](https://open.spotify.com/track/40oUxbmsYW6a62kmuJgsEv) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Baby Beluga \(40th Anniversary Version\)](https://open.spotify.com/album/3rJ1zQgh9ngMK5Oby68n36) | 3:28 | 2022-02-01 |  |
+| [Baby Elephant](https://open.spotify.com/track/5y5ByeT3QilT2woNVAxRaj) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Baby Elephant](https://open.spotify.com/album/0mpGV9894HSExO7goscu0r) | 2:53 | 2025-04-11 |  |
 | [Baby Shark](https://open.spotify.com/track/5ygDXis42ncn6kYG14lEVG) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Animal Songs](https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO) | 1:20 | 2022-02-01 |  |
 | [Bees](https://open.spotify.com/track/57VCE3cxTRDVgFmRCrROS6) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap 3](https://open.spotify.com/album/6ey1W9B1nii4oLbSy6jAeh) | 2:40 | 2022-02-01 |  |
 | [Bees Can Talk by Moving Their Butts](https://open.spotify.com/track/3jtsg0PEBWqbTFG9qIdUSx) | [Chompers](https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z) | [Songs to Brush Your Teeth To](https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG) | 1:53 | 2022-02-01 |  |

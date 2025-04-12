@@ -4,7 +4,7 @@
 
 > New Music from Rema, Lojay, Reekado Banks and more
 
-2,354 songs - 4 day 21 hr 23 min
+2,355 songs - 4 day 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [Blessings \(Alubarika\) \(feat\. Soundz\)](https://open.spotify.com/track/5UjiQgEQN9QODf8K3NQ8H5) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [Blessings \(Alubarika\) \(feat\. Soundz\)](https://open.spotify.com/album/2G9y69aorCh1O6jfQATmfK) | 2:50 | 2025-01-31 | 2025-02-07 |
 | [Blessings \(feat\. Xenia Manasseh\)](https://open.spotify.com/track/32b3KvxB3nHjYaf2yMU6Q8) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Blessings \(feat\. Xenia Manasseh\)](https://open.spotify.com/album/3aQms639329HLNZgm3aUuC) | 2:31 | 2024-06-14 | 2024-06-21 |
 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV) | 3:12 | 2025-01-31 | 2025-02-07 |
+| [Blink Twice](https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Blink Twice](https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW) | 2:36 | 2025-04-11 |  |
 | [BLKN](https://open.spotify.com/track/72dnVyRTuvKakKNtbBGlKc) | [Theecember](https://open.spotify.com/artist/0rzJVsg2Vmtvh9yBrPB2fs) | [BLKN](https://open.spotify.com/album/0z8dBIlqELOczRx3dLCls9) | 2:07 | 2024-11-29 | 2024-12-06 |
 | [Blood](https://open.spotify.com/track/6CvTgkhw1PYJtjrgQks4rg) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Lazarus \(The Apparition\)](https://open.spotify.com/album/39KCufkWMJcxcTC2g0cDDk) | 4:22 | 2024-11-15 | 2024-11-22 |
 | [Blood on My Hands](https://open.spotify.com/track/0VaFr38OtY9nqx0HPBJhEz) | [Apex Village](https://open.spotify.com/artist/2ARvKBDt3jOQooc73rI2Y2), [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Blood on My Hands](https://open.spotify.com/album/0OzjJ6qBaDig8Aw1N9U9ot) | 1:53 | 2024-09-27 | 2024-10-04 |

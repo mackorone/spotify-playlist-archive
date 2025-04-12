@@ -1,6 +1,6 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 425358,
+  "num_followers": 425429,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
-        "name": "What More Can I Say",
-        "url": "https://open.spotify.com/album/4ULe1bx6XkffNvsbB9DHr6"
-      },
-      "artists": [
-        {
-          "name": "Audio Two",
-          "url": "https://open.spotify.com/artist/10toSzLMkc2zIYiiAemHt1"
-        }
-      ],
-      "duration_ms": 175706,
-      "name": "Top Billin - Acapella",
-      "url": "https://open.spotify.com/track/59vYYvb9JS5IQAp8xpf0CY"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
         "name": "Hey DJ",
         "url": "https://open.spotify.com/album/06c1nSdZa3jT2UCn024dV2"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 206081,
       "name": "Hey DJ",
       "url": "https://open.spotify.com/track/7tW7kmX6o8avIUxN8yBUEo"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
+        "name": "What More Can I Say",
+        "url": "https://open.spotify.com/album/4ULe1bx6XkffNvsbB9DHr6"
+      },
+      "artists": [
+        {
+          "name": "Audio Two",
+          "url": "https://open.spotify.com/artist/10toSzLMkc2zIYiiAemHt1"
+        }
+      ],
+      "duration_ms": 175706,
+      "name": "Top Billin - Acapella",
+      "url": "https://open.spotify.com/track/59vYYvb9JS5IQAp8xpf0CY"
     },
     {
       "added_at": "2024-06-28 10:06:16",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
-        "name": "Hot, Cool & Vicious",
-        "url": "https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d"
-      },
-      "artists": [
-        {
-          "name": "Salt-N-Pepa",
-          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
-        }
-      ],
-      "duration_ms": 308373,
-      "name": "I'll Take Your Man",
-      "url": "https://open.spotify.com/track/1o19erG7MurnvFf76zsX41"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/36F8dqIQunGUWbsOPWQSjz"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 326920,
       "name": "Bassline",
       "url": "https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
+        "name": "Hot, Cool & Vicious",
+        "url": "https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d"
+      },
+      "artists": [
+        {
+          "name": "Salt-N-Pepa",
+          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
+        }
+      ],
+      "duration_ms": 308373,
+      "name": "I'll Take Your Man",
+      "url": "https://open.spotify.com/track/1o19erG7MurnvFf76zsX41"
     },
     {
       "added_at": "2024-06-28 10:06:16",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
-        "name": "Mass Appeal: The Best Of Gang Starr (Explicit)",
-        "url": "https://open.spotify.com/album/6nGPSCWlm9qQN1xfER6yJR"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        }
-      ],
-      "duration_ms": 290813,
-      "name": "Manifest",
-      "url": "https://open.spotify.com/track/46wcI2boTK1hCco4ZAuDXz"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
         "name": "Best Of 3rd Bass",
         "url": "https://open.spotify.com/album/1pTWEUzYCTNJB44EA06ZFc"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 229840,
       "name": "The Gas Face",
       "url": "https://open.spotify.com/track/3G0z1kH46uVRqW7f9Qp1OR"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
+        "name": "Mass Appeal: The Best Of Gang Starr (Explicit)",
+        "url": "https://open.spotify.com/album/6nGPSCWlm9qQN1xfER6yJR"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        }
+      ],
+      "duration_ms": 290813,
+      "name": "Manifest",
+      "url": "https://open.spotify.com/track/46wcI2boTK1hCco4ZAuDXz"
     },
     {
       "added_at": "2024-06-28 10:06:16",
@@ -1135,18 +1135,22 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back",
-        "url": "https://open.spotify.com/album/3fnVPzF3kChsDGYdBOkLZc"
+        "name": "Planet Rock",
+        "url": "https://open.spotify.com/album/1uN3SzldnRO8CrsVN0lh2O"
       },
       "artists": [
         {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+          "name": "Afrika Bambaataa",
+          "url": "https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p"
+        },
+        {
+          "name": "The Soulsonic Force",
+          "url": "https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP"
         }
       ],
-      "duration_ms": 319360,
-      "name": "Don't Believe The Hype",
-      "url": "https://open.spotify.com/track/56hyMlVcfBJIBgSmmZM3qE"
+      "duration_ms": 319960,
+      "name": "Planet Rock",
+      "url": "https://open.spotify.com/track/3uy0jtkM8QYVTsBazkli1x"
     }
   ],
   "unique_name": "I Love My '80s Hip-Hop",

@@ -633,6 +633,24 @@
     },
     {
       "album": {
+        "name": "Ari",
+        "url": "https://open.spotify.com/album/6oW6cEZMm901BlM7CznAtI"
+      },
+      "artists": [
+        {
+          "name": "\u00c9douard Tremblay-Grenier",
+          "url": "https://open.spotify.com/artist/6renDkf9cZYkI2TX5SKD4X"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146930,
+      "name": "Ari",
+      "url": "https://open.spotify.com/track/6pE3yQ8dBQNDOdUs7dMnsa"
+    },
+    {
+      "album": {
         "name": "Surfacing",
         "url": "https://open.spotify.com/album/2ER1TDjFLnhzAk0zKqVl5p"
       },
@@ -8067,6 +8085,24 @@
     },
     {
       "album": {
+        "name": "Ch\u00e8lb\u00e8",
+        "url": "https://open.spotify.com/album/4vKup5g5YoD5blHlYdvy5p"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151111,
+      "name": "PROLLY US",
+      "url": "https://open.spotify.com/track/0MrC4TPiI18N38Ga7Cl4qO"
+    },
+    {
+      "album": {
         "name": "Ps and Qs",
         "url": "https://open.spotify.com/album/6LeSdivNwiztFmvNTpQZGe"
       },
@@ -8288,7 +8324,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 181030,
       "name": "Rendez-vous",
       "url": "https://open.spotify.com/track/4xc65AcTrsOvciwZCqGrtG"
@@ -10102,7 +10138,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 172928,
       "name": "Tu T'en Souviens - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0Q5rXLOF7NxSfiNE9xEtuc"

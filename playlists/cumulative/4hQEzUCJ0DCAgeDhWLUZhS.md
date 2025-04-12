@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-464 songs - 1 day 3 hr 8 min
+466 songs - 1 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Never Alone](https://open.spotify.com/track/2fg490dFzlz5ohgj9X3euO) | [Sloper](https://open.spotify.com/artist/35fxvnr5oanOFB1JNB2Ber) | [Never Alone](https://open.spotify.com/album/2LfZJqP0JKM0oWWWvvq29Y) | 3:58 | 2024-04-29 |  |
 | [Never Be Lonely](https://open.spotify.com/track/4kGFPcK8s1YnH14CatjEBL) | [Zed](https://open.spotify.com/artist/4LkIslEZ5nN9DpibfQKOyt) | [Future Memory](https://open.spotify.com/album/0myykQFGi5uLqOb1LK2LcQ) | 3:50 | 2024-08-27 |  |
 | [Never Ending Game](https://open.spotify.com/track/6vs9JxGlmVZb2OKMpKTkMc) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Lil House](https://open.spotify.com/album/3ScexrVTPWJiGP8rCAGccD) | 2:47 | 2021-02-25 | 2022-03-18 |
+| [NEVER ENOUGH](https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY) | 4:47 | 2025-04-11 |  |
 | [Never The One](https://open.spotify.com/track/5RoJWqg54tmuiIuw2aJmrE) | [Ocean Sleeper](https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi) | [Never The One](https://open.spotify.com/album/11TI3AJR7ghonSEu94YsLm) | 4:13 | 2023-05-19 |  |
 | [New Breeze](https://open.spotify.com/track/6M4hZYuvsYSndZq2xsugPW) | [Bad//Dreems](https://open.spotify.com/artist/54f24706ua34STMhWSzPV7) | [New Breeze](https://open.spotify.com/album/1eCcspXtHzkUc7AQEJHESe) | 3:04 | 2023-04-14 |  |
 | [nightmare](https://open.spotify.com/track/6xMTyQjHmwrufXT6W7VyCr) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [nightmare](https://open.spotify.com/album/5b0b5rlf8IaXxGuUrxiFn2) | 2:54 | 2020-10-10\* | 2021-05-13 |
@@ -352,6 +353,7 @@
 | [Skinny](https://open.spotify.com/track/08CVVZ9HYOXzPRAIV0w8nq) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Skinny](https://open.spotify.com/album/4B4UxXtd4JaYNtaAN6ZNEQ) | 3:42 | 2021-04-06 | 2022-03-18 |
 | [Sleeping In](https://open.spotify.com/track/402Ecma69MRxeQK6ml6YbI) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 3:00 | 2021-02-25 | 2022-03-18 |
 | [Sleepwalking](https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Sleepwalking](https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl) | 3:07 | 2022-10-07 |  |
+| [Smash It Like Belushi](https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Smash It Like Belushi](https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU) | 2:48 | 2025-04-11 |  |
 | [SNEAKING OUT OF HEAVEN](https://open.spotify.com/track/73nzSeXp43EsCJnehTvCbs) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/3zrk39UHnfEr8PYZarjWMp) | 2:39 | 2023-10-12 |  |
 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 | 2024-06-12 |  |
 | [So Cool](https://open.spotify.com/track/3LOWhH3yqYRd37EbYKIXL1) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Read The Room](https://open.spotify.com/album/5NqfV2apntQO69Pri6b5xU) | 3:05 | 2023-05-19 |  |

@@ -4,7 +4,7 @@
 
 > The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Zeds Dead
 
-164 songs - 9 hr 16 min
+165 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [King Steps](https://open.spotify.com/track/3sO69gpldejjE93KvK3bUj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [King Steps](https://open.spotify.com/album/4Rrl6Wyonv6ACxYSJvFogt) | 3:01 | 2024-11-29 |  |
 | [Know By Now](https://open.spotify.com/track/7wthIYYW5izwk0Dm5BoIar) | [Aktive](https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g) | [Know By Now](https://open.spotify.com/album/2AoFSRAEpmGB2klZbqf8vu) | 4:35 | 2023-12-01 |  |
 | [late night drive](https://open.spotify.com/track/1Hk1UzNwgET2DYeXy2VPw6) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [late night drive](https://open.spotify.com/album/5xNLnmqEXfe1XYXrAtyp0x) | 3:56 | 2023-12-01 | 2024-11-30 |
+| [Let's Go Back](https://open.spotify.com/track/4Lm5hfdEAxyzbTzaEejcx5) | [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4) | [Let's Go Back](https://open.spotify.com/album/5h2vu9JpN9xvbFll2f6KZi) | 3:31 | 2025-04-11 |  |
 | [Liquor & Cigarettes \(feat\. ArrDee\)](https://open.spotify.com/track/15BDY6GKFfk02WaoyytP9g) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Liquor & Cigarettes \(feat\. ArrDee\)](https://open.spotify.com/album/7w1n03aRWJeZw1AVPDHpFC) | 3:09 | 2023-12-01 |  |
 | [Lonely](https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [PHEA](https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL) | [Lonely](https://open.spotify.com/album/6qqa82E8e1qMK9mv3OZ6uj) | 2:45 | 2023-12-01 |  |
 | [LONG WALK](https://open.spotify.com/track/5Lk292NbN2KEJv97g2cwAX) | [GRAIL SOUNDS](https://open.spotify.com/artist/3FwFFAF9CxERhMrf9R68l4), [CLB](https://open.spotify.com/artist/0qSxGo3EgCGfHWfFDo2zzo) | [LONG WALK](https://open.spotify.com/album/74Zd13jnHn0ee71K0OOUjc) | 3:53 | 2023-12-01 |  |
@@ -152,7 +153,7 @@
 | [The Cycle \- Breaka Remix](https://open.spotify.com/track/3gONus1BmzvnmGZ22LYm5t) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS), [Breaka](https://open.spotify.com/artist/2hTtDy5yaNWqVmBj7EpaAq) | [The Cycle \(Breaka Remix\)](https://open.spotify.com/album/4ZItZwGqBX5XtKGte6vpq7) | 5:13 | 2023-12-01 |  |
 | [The Darkness That You Fear](https://open.spotify.com/track/4ahFzFAZRpfWaGbA2J3dAq) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [The Darkness That You Fear](https://open.spotify.com/album/52kKJRnz58Nd6RB5uWmg8a) | 6:05 | 2023-12-01 | 2025-03-15 |
 | [The Machines](https://open.spotify.com/track/3SH8GHdwJGXnoEmnCbPpJQ) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [The Machines](https://open.spotify.com/album/5P3kvsIaj4aX7usKBJAPeQ) | 3:22 | 2023-12-01 |  |
-| [The Rat](https://open.spotify.com/track/6YMq1v6wu5iLezbCFDcUWw) | [Sam Lamar](https://open.spotify.com/artist/2ihPQnVz8d2ePjGcXLbNf8) | [The Rat](https://open.spotify.com/album/5DHdM2FHkSZgWvxnZLN9u7) | 3:13 | 2023-12-01 |  |
+| [The Rat](https://open.spotify.com/track/6YMq1v6wu5iLezbCFDcUWw) | [Sam Lamar](https://open.spotify.com/artist/2ihPQnVz8d2ePjGcXLbNf8) | [The Rat](https://open.spotify.com/album/5DHdM2FHkSZgWvxnZLN9u7) | 3:13 | 2023-12-01 | 2025-04-12 |
 | [The Slinfold Loop](https://open.spotify.com/track/1uipt3Xqlntn6MLWdjmjsV) | [K.D.A.P.](https://open.spotify.com/artist/1NShLHrgna15CWNJAQDoom), [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [The Slinfold Loop](https://open.spotify.com/album/2A2gNOH6UmTTyIATIW94I5) | 5:02 | 2023-12-01 | 2024-11-30 |
 | [The Wisp Song](https://open.spotify.com/track/4eJrcgPtNToP8lBTxuozIg) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Polarities](https://open.spotify.com/album/1FHgoaW0HQ6LpKRkEUmA9A) | 3:46 | 2023-12-01 |  |
 | [Think Of You](https://open.spotify.com/track/1zqWDQbUlHWxjsXKe7KAr4) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3) | [Think Of You](https://open.spotify.com/album/3FJfc6IceAg806JTl2Q7oE) | 3:05 | 2023-12-01 |  |

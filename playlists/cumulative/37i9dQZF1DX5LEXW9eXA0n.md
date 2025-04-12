@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: 경서\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,435 songs - 3 day 20 hr 52 min
+1,437 songs - 3 day 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -707,6 +707,7 @@
 | [Looking for you](https://open.spotify.com/track/5ub0sMPEBU7J5yXrd7xFEF) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Looking for you](https://open.spotify.com/album/7L2uNsrUyZJzYbVdW6vGN1) | 3:49 | 2023-12-13 | 2024-05-01 |
 | [Lost mind](https://open.spotify.com/track/4qp9FmYIcnvJQKuYM1DyF8) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [Lost mind \(Made in 4MEN\)](https://open.spotify.com/album/1pTC8VGMlc8vQ181lKJJwL) | 3:31 | 2023-03-31 | 2023-08-25 |
 | [Love](https://open.spotify.com/track/4C4NgO8wekPIHieKk7apfA) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Move On](https://open.spotify.com/album/0SMuKynMzf8sA5gxAq6BbN) | 3:53 | 2023-08-07 | 2023-10-17 |
+| [Love & Hate](https://open.spotify.com/track/3PAJJYMWUVgHWotflVLnSH) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Love & Hate](https://open.spotify.com/album/2AI7iOX1zwz9aUaBaPXQ6T) | 3:46 | 2025-04-11 |  |
 | [Love after](https://open.spotify.com/track/3p5Dsp3xJAOGnBD4r5KfA3) | [Sunjin](https://open.spotify.com/artist/6rI5Eao5yul0nRLKmeOqjt) | [Love after](https://open.spotify.com/album/0vpDYK1CwYdRJRBKj1nSLh) | 4:30 | 2023-08-31 | 2023-11-03 |
 | [Love Alone](https://open.spotify.com/track/5V0ZavoSTmk0mQlfyHiDFW) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [Love Alone \(CURTAIN CALL OST Part.6\)](https://open.spotify.com/album/4XgfduD3vOgaJeolOa5Nz4) | 3:27 | 2022-11-22 | 2023-01-21 |
 | [Love Contact](https://open.spotify.com/track/4hEZIBzhFQjJ99Znqwd9y8) | [Park Ki Young](https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN) | [Love Contact](https://open.spotify.com/album/1wtXh0pRrUTdH3hgOCTuvX) | 4:11 | 2022-12-16 | 2023-01-21 |
@@ -1293,6 +1294,7 @@
 | [When your tears wet my eyes](https://open.spotify.com/track/3a9GcrjvZCTorkWUqq4LBH) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Lovers of the Red Sky OST Part.4](https://open.spotify.com/album/7FgXKv05gGa0DMq7FPKdjh) | 3:52 | 2022-03-31 | 2022-06-30 |
 | [Whenever Wherever](https://open.spotify.com/track/2zyYgnZsfzUDcaBdsBzAYj) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Whenever Wherever](https://open.spotify.com/album/2lYx5WNdnwIP1x2iryh0n5) | 4:05 | 2021-12-23 | 2022-06-18 |
 | [Where are you](https://open.spotify.com/track/39pmnVY7Cw93kGBEBtTyjh) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Where are you \(The Last 10 Years X Heize\)](https://open.spotify.com/album/4RTM2qAV0gjLnjnkt5CkHI) | 3:53 | 2024-05-08 | 2024-10-17 |
+| [Where Love Stays](https://open.spotify.com/track/4qqGAdsC1b8W9k7R30h0sG) | [Kim Jae Joong](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [Where Love Stays](https://open.spotify.com/album/5SxmexvqG0zsQZmYT1kX0d) | 4:15 | 2025-04-11 |  |
 | [Where To Go](https://open.spotify.com/track/22fw3hgodLJIAhx6SbUKGZ) | [LEENU](https://open.spotify.com/artist/7bJwBnsHWKpUkugnVkM8N1) | [Where To Go](https://open.spotify.com/album/2penGoGwAnZhWQNj9KxU1s) | 3:47 | 2023-06-13 | 2023-09-19 |
 | [While The Memory Fall A Sleep](https://open.spotify.com/track/0WwLjYKOdbpSzhFyHfi3F2) | [강승식](https://open.spotify.com/artist/545wFEUgGmJwArSU0zjemI) | [Find Me In Your Memory \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/6gkzelq3vDZGSNnFDdllkF) | 4:26 | 2022-03-24 | 2022-04-11 |
 | [White Desert](https://open.spotify.com/track/0HV7dTKl8VPOO3NL5BbIZB) | [You Chae Hoon](https://open.spotify.com/artist/5wkkqpuCF4BTuTJ3TKQl1n) | [Impasto](https://open.spotify.com/album/4MOc9NJNFjG8c8WB8UVNwN) | 5:08 | 2023-06-13 | 2023-10-20 |

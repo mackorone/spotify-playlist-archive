@@ -4,7 +4,7 @@
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Alleh & Yorghaki
 
-170 songs - 10 hr 11 min
+171 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Culpable Soy Yo](https://open.spotify.com/track/1ASbVP7bURAn44DmhqCNjY) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [Dos Clásicos](https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2) | 3:22 | 2021-12-17 | 2022-04-23 |
 | [Cómo No Voy a Decirlo](https://open.spotify.com/track/2t0dKVFtDolRZKh2vi1wEZ) | [Luis Silva](https://open.spotify.com/artist/3B53VdSraW2MeEeLYAvEs1) | [Cómo No Voy a Decirlo](https://open.spotify.com/album/1KFJK6q57o7aKvjquy2nmi) | 3:31 | 2022-09-30 | 2022-11-13 |
 | [Daikiri](https://open.spotify.com/track/44HnCocL3nA1J795oIdNgu) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Bahía Margarita](https://open.spotify.com/album/0wAN9WxtYgJUdIEczdzF2l) | 3:57 | 2023-09-22 | 2024-04-19 |
-| [Daikiri](https://open.spotify.com/track/4H1FWNakPyBYKkohOm6I8O) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Daikiri](https://open.spotify.com/album/7lHVQTwK5be4j9Lr8L5c5C) | 3:57 | 2021-12-17 |  |
+| [Daikiri](https://open.spotify.com/track/4H1FWNakPyBYKkohOm6I8O) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Daikiri](https://open.spotify.com/album/7lHVQTwK5be4j9Lr8L5c5C) | 3:57 | 2021-12-17 | 2025-04-12 |
 | [Dame Tu Amor](https://open.spotify.com/track/3gYgGSRPR5hhmgIVR2WUEK) | [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2) | [Dame Tu Amor](https://open.spotify.com/album/4xufwDFjdZjQWxgYf8FxFP) | 3:38 | 2022-09-30 | 2022-11-13 |
 | [Dame Tu Amor](https://open.spotify.com/track/7K8McJwmdbCSiRfHtbnuf2) | [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2) | [Da Capo](https://open.spotify.com/album/4v88hZMgEg2b8j8NWnkv8n) | 3:38 | 2022-07-01 | 2024-04-19 |
 | [Dame Tu Amor](https://open.spotify.com/track/1gT4h8bz6nKs39oQ8b2uwB) | [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2) | [Da Capo](https://open.spotify.com/album/5necXB57Rq5a4rtzv9ndqH) | 3:38 | 2021-12-17 |  |
@@ -83,6 +83,7 @@
 | [Hora Loca](https://open.spotify.com/track/3lfjd8A0DkB84yrvjzkbry) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:11 | 2023-09-22 |  |
 | [La Casa en el Aire](https://open.spotify.com/track/0LB6PHCCc7LIm8eBI7P561) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [75 Años](https://open.spotify.com/album/2gaqIIm30oLeue8BaOkpWN) | 4:08 | 2021-12-17 | 2024-10-24 |
 | [La Ducha](https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [La Ducha](https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp) | 3:29 | 2021-12-17 | 2025-02-14 |
+| [LA ISLA](https://open.spotify.com/track/5TGRRjV16CXdNvitAsObIr) | [Victor Muñoz](https://open.spotify.com/artist/6KZqNo012bWnbPCSvBqKN2) | [LA ISLA](https://open.spotify.com/album/6VBJdfE8LKDBwCpRoTBT71) | 2:15 | 2025-04-11 |  |
 | [La Pulga y el Piojo](https://open.spotify.com/track/66NPq7686mbZFY5W2fOVWA) | [Serenata Guayanesa](https://open.spotify.com/artist/1G6AdxMaPnYJFHZhBsH2V9) | [Sentir de Nuestra Tierra](https://open.spotify.com/album/0HuEGb5JmFcKMSyTp5Uyd6) | 3:33 | 2021-12-17 | 2022-04-29 |
 | [La Vaca Mariposa \(El Becerrito\)](https://open.spotify.com/track/2W8sdlfr1p6TeWWZCIgcZl) | [Albita](https://open.spotify.com/artist/4BFJdlcCGjmEEnDaUNdB4a), [Rafael "Pollo" Brito](https://open.spotify.com/artist/0L3PoFZZQ0WyS7HgnOdd1o) | [Albita](https://open.spotify.com/album/7Es0fexd4HhbkaVa6xeabv) | 3:59 | 2021-12-17 | 2024-11-02 |
 | [Las Caraqueñas](https://open.spotify.com/track/0B5pOLlr0OLEVdE0PBG8pF) | [Guaco](https://open.spotify.com/artist/5v3TYN6Mmi5vxV2uSOfXot) | [Guaco Es Guaco](https://open.spotify.com/album/4irR3HfqLTMhKNsr42R06c) | 3:53 | 2021-12-17 |  |

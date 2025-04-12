@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Sfera e Shiva, Nitro, Vegas e tanti altri 🔥
 
-5,218 songs - 9 day 17 hr 8 min
+5,219 songs - 9 day 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -979,7 +979,7 @@
 | [CHI RESTA](https://open.spotify.com/track/5K0XaOGpaYF3ucJ5wK6Okj) | [Oliver Green](https://open.spotify.com/artist/7gW7vauTRIrz3rRV2UFzyK) | [CHI RESTA](https://open.spotify.com/album/71HFVWzvUiWTdnGkWJIKbi) | 2:09 | 2025-02-27 | 2025-03-28 |
 | [CHI S MOV](https://open.spotify.com/track/74NGmB3Wos02vi3JuuH3am) | [Hosawa](https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H) | [CHI S MOV](https://open.spotify.com/album/5bfoRPpcH9ageXHInpChQr) | 2:24 | 2022-11-10 | 2022-11-25 |
 | [Chi Sei](https://open.spotify.com/track/46Ms6tYLyrgxbntJ3QZe6j) | [4m](https://open.spotify.com/artist/2e87DWvLyzKFgyHYxpF7G3), [Andrès Las](https://open.spotify.com/artist/5yxzT7i5hJK48tqWWfU3iO), [EMDI](https://open.spotify.com/artist/1Qa7XkZpAw9Nk2nHiQLD6S), [Rivreck](https://open.spotify.com/artist/1nB0WQrdlmT4vEV158VV7i) | [Chi Sei](https://open.spotify.com/album/64UJiFXTeUfNIoupQRp28L) | 2:43 | 2024-01-18 | 2024-02-16 |
-| [Chi Vende La Dope](https://open.spotify.com/track/34bm0mhkWCKQ94AnJ5OwbJ) | [Datkid](https://open.spotify.com/artist/0mrS7wImQSucxAJWj22pe2) | [Chi Vende La Dope](https://open.spotify.com/album/1HSajtLvJTrObF9pXi2uIa) | 2:17 | 2025-03-20 |  |
+| [Chi Vende La Dope](https://open.spotify.com/track/34bm0mhkWCKQ94AnJ5OwbJ) | [Datkid](https://open.spotify.com/artist/0mrS7wImQSucxAJWj22pe2) | [Chi Vende La Dope](https://open.spotify.com/album/1HSajtLvJTrObF9pXi2uIa) | 2:17 | 2025-03-20 | 2025-04-12 |
 | [CHI È](https://open.spotify.com/track/6XXg2Xsqdr2n5lrpZSj5mp) | [R1MKA](https://open.spotify.com/artist/2KiPQlUFO56wDrtmDth3Mc) | [CHI È](https://open.spotify.com/album/2v6gPNB3vxVekB7DeRY0lY) | 2:26 | 2024-05-31 | 2024-06-14 |
 | [Chi è che ha detto crack? \(feat\. Tony 2Milli\)](https://open.spotify.com/track/0PYgVYUrpFRABAEomprfOF) | [CanovA](https://open.spotify.com/artist/6Htt1E5lJ37HjcEPsTdYPA), [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [Chi è che ha detto crack? \(feat\. Tony 2Milli\)](https://open.spotify.com/album/4sPMSkBpA1JtjavnTQQrSM) | 2:00 | 2024-12-19 | 2025-01-17 |
 | [CHI È IL VAMP?](https://open.spotify.com/track/0HJ8a0ZPzM5m4rb0h1ft9e) | [Maury North](https://open.spotify.com/artist/4HxI6ooJCfn4mJmvOzgyry) | [CHI È IL VAMP?](https://open.spotify.com/album/68SqvMRsDJoUjq4nhx3dHx) | 2:11 | 2024-05-02 | 2024-05-10 |
@@ -2302,6 +2302,7 @@
 | [Kabuki](https://open.spotify.com/track/7kCVDY7Cq1ybLjLs7nwJTI) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Kabuki](https://open.spotify.com/album/7zv9IOwE1AVvnvxuQOw0Ye) | 3:00 | 2022-05-19 | 2022-06-03 |
 | [KAIOKEN](https://open.spotify.com/track/1yZYg0gKVTCJbpTStQgtfE) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [KAIOKEN](https://open.spotify.com/album/53JuPn2CJbl5grqiHjHebC) | 2:05 | 2023-11-09 | 2023-11-24 |
 | [KAIOKEN X2](https://open.spotify.com/track/162UZDRBITYlWJRh4nEzI5) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [KAIOKEN X2](https://open.spotify.com/album/4LG23M9ncO84CmaY8QsUTZ) | 2:28 | 2025-03-20 |  |
+| [KALASH](https://open.spotify.com/track/6IUe8UkEVZp6PAYbxkjdxH) | [Daxter](https://open.spotify.com/artist/7ml77C26I1LupIH1R4pEYa), [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [KALASH](https://open.spotify.com/album/5HyymSC87OuytDuZJxbIs7) | 3:40 | 2025-04-11 |  |
 | [KANDINSKIJ](https://open.spotify.com/track/6fB6AOA4Uz3AGNJNp22zAv) | [Guesan](https://open.spotify.com/artist/1eMrj0akHMVF8HpxG1OrLD), [Garelli](https://open.spotify.com/artist/5appupCr1pI8I1k3AWstc6) | [KANDINSKIJ](https://open.spotify.com/album/4Vdh9HXFhi7w09JQZ9oqu8) | 4:13 | 2023-06-22 | 2023-07-07 |
 | [KANGAL \(feat\. Emanuelino\)](https://open.spotify.com/track/54ZrCUiyU8xpRp0tr5EQ30) | [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj), [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU) | [KANGAL \(feat\. Emanuelino\)](https://open.spotify.com/album/1mBYnGk6aLbtxkfoh8kFcp) | 1:52 | 2024-10-03 | 2024-11-01 |
 | [Karate](https://open.spotify.com/track/2oECUzb3Mq1iNhHHJQdGVY) | [Mudimbi](https://open.spotify.com/artist/0pmgwPGqkEVI0zPABTxPVR), [Nibbius](https://open.spotify.com/artist/03cqvZxrpwB7v7fyVVy9Jy) | [Karate](https://open.spotify.com/album/1Pcn2r3AFBINEYoKejKzO3) | 2:23 | 2023-06-08 | 2023-06-16 |

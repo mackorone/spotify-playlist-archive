@@ -1,12 +1,12 @@
 {
   "description": "Rilisan baru pekan ini dari Stephanie Poetri, DAESUNG, hingga Lana Del Rey",
-  "num_followers": 194712,
+  "num_followers": 195400,
   "original_name": "New Music Friday Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/hzpgAAAAA95TxX3cC0So6fAlI54aHl",
+  "snapshot_id": "Z/jJ3gAAAACI3UEwKXEl6usI2ZNhVnXN",
   "tracks": [
     {
       "added_at": "2025-04-10 17:00:35",
@@ -74,6 +74,10 @@
         {
           "name": "Andien",
           "url": "https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo"
+        },
+        {
+          "name": "Bandung Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/6UPwjfenR3el43CzhmqVuJ"
         }
       ],
       "duration_ms": 270119,
@@ -975,6 +979,22 @@
     {
       "added_at": "2025-04-10 17:00:35",
       "album": {
+        "name": "Before It's Too Late",
+        "url": "https://open.spotify.com/album/5kdwRsVhgbmWsxDBx74U4o"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Before It's Too Late",
+      "url": "https://open.spotify.com/track/3KZyt06EPdbV8mv5hAbGJj"
+    },
+    {
+      "added_at": "2025-04-10 17:00:35",
+      "album": {
         "name": "Growing Pains",
         "url": "https://open.spotify.com/album/34ISREKShXsEfkYLbxExdJ"
       },
@@ -1019,6 +1039,22 @@
       "duration_ms": 200089,
       "name": "There's No Future In Optimism",
       "url": "https://open.spotify.com/track/6cNr04UeJaxfRXPjxWOt6U"
+    },
+    {
+      "added_at": "2025-04-10 17:00:35",
+      "album": {
+        "name": "Napoleon Complex",
+        "url": "https://open.spotify.com/album/1wuNn0ZM7GD7plrnmAMZWD"
+      },
+      "artists": [
+        {
+          "name": "NERIAH",
+          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Napoleon Complex",
+      "url": "https://open.spotify.com/track/6e7G6rJZs47obK8QR5S2O7"
     },
     {
       "added_at": "2025-04-10 17:00:35",
@@ -1291,6 +1327,22 @@
     {
       "added_at": "2025-04-10 17:00:35",
       "album": {
+        "name": "Hi+Fiv3",
+        "url": "https://open.spotify.com/album/5Jb0pZXAR15IAcbBqMoagL"
+      },
+      "artists": [
+        {
+          "name": "Pagaehun",
+          "url": "https://open.spotify.com/artist/4nbj2vNChfEusXKNYz7Ow7"
+        }
+      ],
+      "duration_ms": 169218,
+      "name": "Hi+Fiv3",
+      "url": "https://open.spotify.com/track/6HDgtFKS0U5oROl1wHf9aY"
+    },
+    {
+      "added_at": "2025-04-10 17:00:35",
+      "album": {
         "name": "Family",
         "url": "https://open.spotify.com/album/5Jl5KG2TbdoiJ7DU05QRvo"
       },
@@ -1429,7 +1481,7 @@
         }
       ],
       "duration_ms": 204301,
-      "name": "I'm in Bed",
+      "name": "I'm In Bed",
       "url": "https://open.spotify.com/track/0A2N9tDMTvLjETGgC5I5it"
     },
     {

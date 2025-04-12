@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 30707,
+  "num_followers": 30714,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/W4gAAAAAC7s+RikW1dlm2s2F+K95Vu",
+  "snapshot_id": "Z/cKAAAAAAASrekfIj/jHAStj7p8sB5Q",
   "tracks": [
     {
       "added_at": null,
@@ -159,6 +159,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mega Hits - Damares",
+        "url": "https://open.spotify.com/album/4f79ee5SBaI30R1oyl6P9J"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 287640,
+      "name": "Consolador",
+      "url": "https://open.spotify.com/track/0KoqMXZglx0vTCrzdBDlqy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Apocalipse",
         "url": "https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 402693,
       "name": "Apocalipse",
       "url": "https://open.spotify.com/track/58t8JPi9ITJU6w0uZBAjlV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mega Hits - Damares",
-        "url": "https://open.spotify.com/album/4f79ee5SBaI30R1oyl6P9J"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 287640,
-      "name": "Consolador",
-      "url": "https://open.spotify.com/track/0KoqMXZglx0vTCrzdBDlqy"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mega Hits - Damares",
+        "url": "https://open.spotify.com/album/4f79ee5SBaI30R1oyl6P9J"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 287106,
+      "name": "De Repente",
+      "url": "https://open.spotify.com/track/5Rgysd1u5SyTmSFT6E0X7B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Obra Prima",
         "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 333162,
       "name": "Pai, Preciso de Ti",
       "url": "https://open.spotify.com/track/324t5ZkCfdhBxP2t6708pD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mega Hits - Damares",
-        "url": "https://open.spotify.com/album/4f79ee5SBaI30R1oyl6P9J"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 287106,
-      "name": "De Repente",
-      "url": "https://open.spotify.com/track/5Rgysd1u5SyTmSFT6E0X7B"
     },
     {
       "added_at": null,

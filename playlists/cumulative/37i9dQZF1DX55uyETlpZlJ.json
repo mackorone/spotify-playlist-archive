@@ -3101,6 +3101,24 @@
     },
     {
       "album": {
+        "name": "Hey Nalle",
+        "url": "https://open.spotify.com/album/2QshlvOsfTzmOPhO5T6LJF"
+      },
+      "artists": [
+        {
+          "name": "Shreyas Shetty",
+          "url": "https://open.spotify.com/artist/0HoV7hquGIujUeBi085UZH"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191222,
+      "name": "Hey Nalle",
+      "url": "https://open.spotify.com/track/6Iw6LNeRsjDGMrCRqR8Xxo"
+    },
+    {
+      "album": {
         "name": "Hey Sanchari",
         "url": "https://open.spotify.com/album/5x59vdpuiqqxXP2JT5BA4S"
       },
@@ -3798,6 +3816,24 @@
       "duration_ms": 242754,
       "name": "Iralu nee jothege",
       "url": "https://open.spotify.com/track/47Wb3Xc7BSE7oGVYFLyaku"
+    },
+    {
+      "album": {
+        "name": "Iralu Nee Jothenge",
+        "url": "https://open.spotify.com/album/2052GNqjThuDqCY1E4ktgp"
+      },
+      "artists": [
+        {
+          "name": "Sathya Radhakrishna",
+          "url": "https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245500,
+      "name": "Iralu Nee Jothenge",
+      "url": "https://open.spotify.com/track/6tN2XmxQojjBuavncXFPfp"
     },
     {
       "album": {
@@ -5242,7 +5278,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 220800,
       "name": "Mandahaasa",
       "url": "https://open.spotify.com/track/5e6VuOglQBXXeSSYJJA7uc"
@@ -5984,7 +6020,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 579709,
       "name": "Na Driver Ni Nanna Lover",
       "url": "https://open.spotify.com/track/339rqV63PbBNxynrAzKQGc"

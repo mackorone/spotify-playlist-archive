@@ -2,9 +2,9 @@
 
 ### [Gengetone Fire](https://open.spotify.com/playlist/37i9dQZF1DX80fLED6RkGS)
 
-> Only the hottest Gengetone coming out of Kenya\. Cover: Chris Kaiga
+> Only the hottest Gengetone coming out of Kenya\. Cover: Parotty
 
-435 songs - 23 hr 19 min
+436 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [Sijazoea Kuteteshwa \(Si Lazima Tuolewe\)](https://open.spotify.com/track/0DA5PMNJQXpeUBtL4uM4ZS) | [Kushman](https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB) | [Sijazoea Kuteteshwa \(Si Lazima Tuolewe\)](https://open.spotify.com/album/1rzDS7m9kJuQjlOCJonxaU) | 3:34 | 2022-05-19 | 2022-11-25 |
 | [Sijui Eje](https://open.spotify.com/track/1G1yaTlfuyWMGddqFD5NOb) | [Rico Gang](https://open.spotify.com/artist/0h07tyuXINVc3kGjHGCZRx) | [Come Back](https://open.spotify.com/album/3Q3ApgWPWXhusHABxXOKVV) | 3:14 | 2021-11-04 | 2022-01-07 |
 | [Sikusoma](https://open.spotify.com/track/71GCW6cSkWo32gnlARwNbH) | [Third Eye Simba](https://open.spotify.com/artist/05YkplHc6Ub6YhaM90FgyS), [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP), [Kemboste](https://open.spotify.com/artist/1z9mH17UE163MWdaejVtJI) | [Sikusoma](https://open.spotify.com/album/1a3FoCe2PhDksA9NLkaTov) | 3:06 | 2021-12-16 | 2023-04-14 |
+| [Sioni Nikimake](https://open.spotify.com/track/6UaLtGLa80Qfep4DcWrqAQ) | [Parroty](https://open.spotify.com/artist/4s9izBxHjCgKEWAlgswHsK), [Wadaglizke](https://open.spotify.com/artist/4VQ8TYlIsQ4dGfwpATNW8c) | [Sioni Nikimake](https://open.spotify.com/album/3k26FlL8803OR2vJ8GIFNt) | 2:45 | 2025-04-11 |  |
 | [Sipangwingwi](https://open.spotify.com/track/7oWXkvkj3DMw2xNRl172Q1) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW) | [Sipangwingwi](https://open.spotify.com/album/0ywMMyiBU8YALzIvDbG2qn) | 3:26 | 2021-11-11 | 2024-01-12 |
 | [Sirudi Home \- Refix](https://open.spotify.com/track/2At9zUR7cfWVrndDmvmAOv) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP), [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy), [NDOVU KUU](https://open.spotify.com/artist/1uVUMFfX9GKlsn7R9ZmECO) | [Sirudi Home \(Refix\)](https://open.spotify.com/album/6DfoAHnPMfmGxHPvbTsRxz) | 3:44 | 2021-09-02 | 2022-12-17 |
 | [Sirudi Home \- Remix](https://open.spotify.com/track/5hs1gahEFK0BFiiU3IEv59) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP), [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy), [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP) | [Sirudi Home \(Remix\)](https://open.spotify.com/album/6P77L5zVgL0Gz3YnSjTSIa) | 3:38 | 2022-01-27 | 2023-11-10 |
@@ -385,7 +386,7 @@
 | [TIGONI](https://open.spotify.com/track/5Yi5WfvGGaF6JhbVUmHujd) | [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP) | [TIGONI](https://open.spotify.com/album/7ssQREEpj37FraIkxrnvHb) | 2:48 | 2024-10-10 |  |
 | [Time](https://open.spotify.com/track/6jtTcx2qsJ9JSlJpDMXcnp) | [Supadrum](https://open.spotify.com/artist/2q7ob4iRW4coFJm5I6nY0H), [Chevy Kev](https://open.spotify.com/artist/2YUXCCjGjC1ggnAlmzxp0p) | [Time](https://open.spotify.com/album/2u2yAnbEm8CDb9ogOHTLMb) | 2:18 | 2022-04-21 | 2023-03-31 |
 | [Tit for Tat](https://open.spotify.com/track/0jzOQI1ZUrSuW1OH4FoDW6) | [Kushman](https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB), [Tipsy](https://open.spotify.com/artist/05r8qVIoFPCtYPchJqt3gW), [Gody Tenor](https://open.spotify.com/artist/4HHn3Ax96xRTiyG0w5wjQE) | [Tit for Tat](https://open.spotify.com/album/5o7mfGHt7SJ4VkpH1MWq9g) | 3:11 | 2023-11-02 | 2024-12-14 |
-| [To Whom It May Concern](https://open.spotify.com/track/1lSRpXLOCKddD3BLo830MZ) | [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [Kingpheezle](https://open.spotify.com/artist/1sgjYTcJndjhZuh24qI8Ma), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [To Whom It May Concern](https://open.spotify.com/album/3YK5jddQvLHV3tii5y1PtQ) | 2:56 | 2024-11-14 |  |
+| [To Whom It May Concern](https://open.spotify.com/track/1lSRpXLOCKddD3BLo830MZ) | [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [Kingpheezle](https://open.spotify.com/artist/1sgjYTcJndjhZuh24qI8Ma), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [To Whom It May Concern](https://open.spotify.com/album/3YK5jddQvLHV3tii5y1PtQ) | 2:56 | 2024-11-14 | 2025-04-12 |
 | [Token](https://open.spotify.com/track/6ko3K47SosuIJBtpMQi64L) | [Minako Williams](https://open.spotify.com/artist/36NUsOL9aSSFTOqLbnWBLs), [Kushman](https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB) | [Token](https://open.spotify.com/album/2wzTbfTBbyBrrwjgR92fS5) | 3:10 | 2023-08-10 | 2024-02-02 |
 | [Tokwa Toko](https://open.spotify.com/track/6g1mmKoGp4CUKwWDk1mff9) | [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl) | [Tokwa Toko](https://open.spotify.com/album/04VEQB5PP0CzqKn0FnG8fC) | 3:18 | 2022-01-06 | 2022-06-17 |
 | [Top Shota](https://open.spotify.com/track/4zwYtNzCTEmbEnuxHZ4xPN) | [Joefes](https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318), [Unspoken Salaton](https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY), [Gody Tennor](https://open.spotify.com/artist/0zDvYiEj0OwqizX4YYVsbB), [Harry Craze](https://open.spotify.com/artist/2lf45VLBUxoX6W9CE718cp) | [Top Shota](https://open.spotify.com/album/2XL9XoXdvoZYlCZugeaMZ5) | 3:02 | 2024-11-08 |  |

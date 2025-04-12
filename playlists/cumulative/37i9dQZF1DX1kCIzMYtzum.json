@@ -6776,7 +6776,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 162578,
       "name": "Hypnotising",
       "url": "https://open.spotify.com/track/3dMeC0ZvUkklhOHIEzQcfH"
@@ -7952,7 +7952,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 193490,
       "name": "Keep The Faith",
       "url": "https://open.spotify.com/track/40wS2odqmKnfpK8W23LNTW"
@@ -13227,6 +13227,24 @@
     },
     {
       "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/1tXfc98LLrLiSVd4GRWgyr"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216888,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/4chU8mXKqVOgwtq5NWUL5r"
+    },
+    {
+      "album": {
         "name": "Satellites",
         "url": "https://open.spotify.com/album/0n5qFNQKmEvR2midexvkfy"
       },
@@ -14270,6 +14288,32 @@
       "duration_ms": 216257,
       "name": "So Good To Me",
       "url": "https://open.spotify.com/track/3Qt4d1IoO5yhQFAUFsTXSK"
+    },
+    {
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/5EO4GE66HG5M5aleLkIZZc"
+      },
+      "artists": [
+        {
+          "name": "Ben Nicky",
+          "url": "https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA"
+        },
+        {
+          "name": "Hix",
+          "url": "https://open.spotify.com/artist/5aPDZDLHc63XbN7YbLdTIO"
+        },
+        {
+          "name": "Tori Smith",
+          "url": "https://open.spotify.com/artist/2cmtBSw2XFP9YGc4m20gwU"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/74QCgg5K5SfOjFxOBOXXHf"
     },
     {
       "album": {

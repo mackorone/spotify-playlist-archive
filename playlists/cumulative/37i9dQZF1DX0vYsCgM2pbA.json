@@ -1637,6 +1637,24 @@
     },
     {
       "album": {
+        "name": "Pink Wax",
+        "url": "https://open.spotify.com/album/37GXXsZcOfyb3WEptLIird"
+      },
+      "artists": [
+        {
+          "name": "Holo",
+          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
+        }
+      ],
+      "date_added": "2025-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245264,
+      "name": "Flipper",
+      "url": "https://open.spotify.com/track/01SOrIQHZcGl5y6NlkYb7J"
+    },
+    {
+      "album": {
         "name": "Mirror Mountain",
         "url": "https://open.spotify.com/album/3hcYCXbWFUV5eP4wZPQn8K"
       },
@@ -2844,7 +2862,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 227328,
       "name": "make it right",
       "url": "https://open.spotify.com/track/5YU7vzxKLzH2YVcDRNkfkH"

@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover:  Batas Senja
 
-815 songs - 2 day 4 hr 53 min
+816 songs - 2 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -608,6 +608,7 @@
 | [Satu Bulan](https://open.spotify.com/track/7zOVh5fGpEwSbZd0g9z80B) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:20 | 2024-01-18 | 2024-02-16 |
 | [Seakan Ku Tak Ada](https://open.spotify.com/track/6wkWh72bSNRnuDhTM27AMs) | [Allan Andersn](https://open.spotify.com/artist/4zcXAnIxQ6UDXSu8qDZbsk) | [dear aa](https://open.spotify.com/album/2oy6Vw4KefIUaLDwxchV2s) | 4:38 | 2025-04-10 |  |
 | [Sebatas Bayangmu](https://open.spotify.com/track/2n745zRI6dLlWmUwCpLzR7) | [Rimar](https://open.spotify.com/artist/5P8zPeJpGvHclaIk8nKoGx) | [Sebatas Bayangmu](https://open.spotify.com/album/5Pbc6ehPlsj4xkt89vQHxn) | 3:55 | 2024-01-18 | 2024-03-29 |
+| [Sebatas Friendly](https://open.spotify.com/track/2pMwqwUIKr2Il7ut4PsVAR) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Sebatas Friendly](https://open.spotify.com/album/6m54ZCI0KJOH0VxDs8OVXA) | 4:13 | 2025-04-11 |  |
 | [SEBENING SENJA](https://open.spotify.com/track/5NQd1x8wIVw1gCCJhiJbkE) | [Letto](https://open.spotify.com/artist/2vRToyl7mxoVbwwSsRBXAM) | [SEBENING SENJA](https://open.spotify.com/album/0E2gghCiWbWGTYKkuOTsz4) | 3:27 | 2025-01-23 |  |
 | [Secangkir Kopi](https://open.spotify.com/track/4sForUK2phKIJpjyiAXN7Y) | [Dwi Andhika](https://open.spotify.com/artist/6FKbwZxQQMh1FhBq6EC4PY) | [Secangkir Kopi](https://open.spotify.com/album/3lHkuAjrnFuO1rOIAsmiP6) | 4:15 | 2025-04-10 |  |
 | [Sederhanamu Istimewa \(Cinta tak Seindah Drama Korea Original Motion Picture Soundtrack\)](https://open.spotify.com/track/0AMNeUO8u7rvW7Xgauh16u) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Sederhanamu Istimewa \(Cinta tak Seindah Drama Korea Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0dP6P5k4yXMPHeM5e7OMJf) | 3:56 | 2024-11-28 | 2025-02-28 |
@@ -629,7 +630,7 @@
 | [Selamanya Untukku](https://open.spotify.com/track/5m6ELa41WoQqdIHnURSUbT) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt), [Ria Laoere](https://open.spotify.com/artist/1PansziiDz3E95Tmc7DQL0) | [Cinta & Doa](https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro) | 4:55 | 2024-06-27 | 2024-08-16 |
 | [Selamat Datang Di Realita](https://open.spotify.com/track/38lxxFoMYIwyamghtCHVZy) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [Selamat Datang Di Realita](https://open.spotify.com/album/38SGxevynExMhA61GaaPTs) | 5:41 | 2024-08-08 | 2024-08-30 |
 | [Selamat Datang Ramadhan](https://open.spotify.com/track/1A8kTcqvjwC5XDyzQeukMt) | [Radja](https://open.spotify.com/artist/2f1AZeW1r6TUVLagZaRXO5) | [Selamat Datang Ramadhan](https://open.spotify.com/album/6FL2Y1PJ9MOTU5tktZkFBi) | 3:06 | 2025-03-13 | 2025-04-11 |
-| [Selamat Ulang Tahun](https://open.spotify.com/track/36rqSbSPGQqFSTfLynrhja) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm), [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [INTONESIA](https://open.spotify.com/album/6VTHIc7lHL0edFYv37j29F) | 4:30 | 2025-04-10 |  |
+| [Selamat Ulang Tahun](https://open.spotify.com/track/36rqSbSPGQqFSTfLynrhja) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm), [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo), [Bandung Jazz Orchestra](https://open.spotify.com/artist/6UPwjfenR3el43CzhmqVuJ) | [INTONESIA](https://open.spotify.com/album/6VTHIc7lHL0edFYv37j29F) | 4:30 | 2025-04-10 |  |
 | [Selesai](https://open.spotify.com/track/3V7Br8sR2JdSXkLgGtPYDz) | [Naomi Ivo](https://open.spotify.com/artist/0dXFu1nUJiE7LJuNlkzS4g) | [Selesai](https://open.spotify.com/album/1gwNHxgYWZLoPi2K9aWcaQ) | 4:19 | 2024-08-29 | 2024-11-15 |
 | [Selimut Hati](https://open.spotify.com/track/40snO045rENfvlBFBqfONd) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d), [Virzha](https://open.spotify.com/artist/5iHfwaDNZ11Y0yAyQVYDmy), [Indonesian Philharmonic Orchestra](https://open.spotify.com/artist/5YynOyNW2qNfCMjnv8fDgT) | [Selimut Hati](https://open.spotify.com/album/1lJJHp5qsDkIiOO1POiX16) | 4:54 | 2024-06-06 | 2024-06-28 |
 | [Selimut Hati](https://open.spotify.com/track/2Nyt9adixzIFRjHcUqS8S3) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [OFF GUARD](https://open.spotify.com/album/0wKIcysg2raXx70ZiBRd1s) | 4:40 | 2024-10-17 | 2025-01-10 |

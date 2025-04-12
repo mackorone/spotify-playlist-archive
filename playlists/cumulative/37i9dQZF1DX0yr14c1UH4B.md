@@ -2,7 +2,7 @@
 
 ### [The Gold List](https://open.spotify.com/playlist/37i9dQZF1DX0yr14c1UH4B)
 
-> Golden new releases ft\. Cynthia Eviro
+> Golden new releases ft\. Cynthia Erivo
 
 233 songs - 12 hr 58 min
 

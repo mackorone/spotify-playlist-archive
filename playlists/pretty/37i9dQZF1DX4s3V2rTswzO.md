@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4s3V2rTswzO.md) - [plain]
 
 > Set the scene for romance with beautiful classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,702 likes - 65 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,743 likes - 65 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Suite bergamasque, L\. 75: III\. Clair de Lune \(Transcribed for Harp\)](https://open.spotify.com/track/4Xx0WuuxGuknJdJhRokO8D) | [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Voyage](https://open.spotify.com/album/6Y5xtNCiofbRSa3E4nDQxi) | 4:38 |
+| 1 | [Suite bergamasque, L\. 75: III\. Clair de Lune \(Transcribed for Harp\)](https://open.spotify.com/track/4Xx0WuuxGuknJdJhRokO8D) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Voyage](https://open.spotify.com/album/6Y5xtNCiofbRSa3E4nDQxi) | 4:38 |
 | 2 | [Satie / Orch\. Ducros: Gymnopédie No\. 1](https://open.spotify.com/track/7hyq9VKysg8g1L5R0y41dt) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI), [Jerome Ducros](https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq), [Adrien Perruchon](https://open.spotify.com/artist/35oIWRMerJ2P1ORtzeUD0N), [Orchestre de chambre de Paris](https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I) | [Emotions \- Satie: Gymnopédie No\. 1 \(Orch\. Ducros\)](https://open.spotify.com/album/2QUR7PQq8WZoKxQtKaehLF) | 2:52 |
 | 3 | [Préludes, Book 1: VIII\. La Fille Aux Cheveux de Lin](https://open.spotify.com/track/0g6Lm1d1FcfzV7ZkCzy8aP) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Anna Tsybuleva](https://open.spotify.com/artist/5KR6Fiu20JZXyqLH7PHn8N) | [The Complete Debussy: Préludes pour solo piano](https://open.spotify.com/album/7lRTB8X2ZkzxD8hxfDcMtX) | 2:45 |
 | 4 | [Ave María \(Arr\. Víkingur Ólafsson\) \- Grand Piano](https://open.spotify.com/track/11MJZb67EZgtwAeXLbHyft) | [Sigvaldi Kaldalóns](https://open.spotify.com/artist/315KRsFj1cPJewYIbaH978), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Kaldalóns: Ave María \(Arr\. Víkingur Ólafsson\)](https://open.spotify.com/album/3h3aFGCPGBTHNrA1Fa6tfA) | 3:37 |

@@ -2039,6 +2039,24 @@
     },
     {
       "album": {
+        "name": "Let's Go Back",
+        "url": "https://open.spotify.com/album/5h2vu9JpN9xvbFll2f6KZi"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211862,
+      "name": "Let's Go Back",
+      "url": "https://open.spotify.com/track/4Lm5hfdEAxyzbTzaEejcx5"
+    },
+    {
+      "album": {
         "name": "Liquor & Cigarettes (feat. ArrDee)",
         "url": "https://open.spotify.com/album/7w1n03aRWJeZw1AVPDHpFC"
       },
@@ -3124,7 +3142,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 193287,
       "name": "The Rat",
       "url": "https://open.spotify.com/track/6YMq1v6wu5iLezbCFDcUWw"

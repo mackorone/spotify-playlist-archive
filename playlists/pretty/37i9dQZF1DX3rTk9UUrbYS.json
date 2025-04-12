@@ -1,13 +1,33 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 61436,
+  "num_followers": 61447,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zowz+AAAAADr13yd3Zf52ySOfepaDOia",
+  "snapshot_id": "Z/iT0AAAAAC8qg1hqNZhhS8Ty9asd8U2",
   "tracks": [
+    {
+      "added_at": "2025-04-11 04:00:16",
+      "album": {
+        "name": "Frog Raag",
+        "url": "https://open.spotify.com/album/5DZOpRRkXYMU7CAodzg8Pn"
+      },
+      "artists": [
+        {
+          "name": "Evan Shornstein",
+          "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
+        },
+        {
+          "name": "Will Epstein",
+          "url": "https://open.spotify.com/artist/6frw6zaHCiKF24nG7ch52I"
+        }
+      ],
+      "duration_ms": 286550,
+      "name": "VI",
+      "url": "https://open.spotify.com/track/0Hqe86kEj0B7L3MoBBUvvT"
+    },
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
@@ -651,30 +671,6 @@
       "duration_ms": 320306,
       "name": "Arise",
       "url": "https://open.spotify.com/track/6ERIEM4NyPd8ph0NXb98m7"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Circle Down",
-        "url": "https://open.spotify.com/album/5iVjIYha3Tsol3fVx8LgGB"
-      },
-      "artists": [
-        {
-          "name": "Chad Taylor",
-          "url": "https://open.spotify.com/artist/0o8c17fdXpsDbQez6drlmt"
-        },
-        {
-          "name": "Angelica Sanchez",
-          "url": "https://open.spotify.com/artist/5nTk4mPlKGQn2HCrJIsEFi"
-        },
-        {
-          "name": "Chris Lightcap",
-          "url": "https://open.spotify.com/artist/41ZBQqguJTIzwRdgg82w9a"
-        }
-      ],
-      "duration_ms": 359466,
-      "name": "Box Step",
-      "url": "https://open.spotify.com/track/1qteisqG6gO3CsYRD0gWcC"
     },
     {
       "added_at": "2020-08-25 21:55:35",

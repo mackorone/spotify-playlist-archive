@@ -4,7 +4,7 @@
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-153 songs - 7 hr 54 min
+154 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Stardancer](https://open.spotify.com/track/6KlbIwVaanhHP5yOU9mhDy) | [Virtua](https://open.spotify.com/artist/4ZiZ0nrOQfILe9wua4Q86k) | [The Last Descent](https://open.spotify.com/album/6HvsBZM0eo7dLeUyRg6EpR) | 3:04 | 2024-06-06 | 2024-06-21 |
 | [Stardriver](https://open.spotify.com/track/7ndi0iC6r18yOyctiM5sbe) | [ELFL](https://open.spotify.com/artist/72xDdmrHFi38fW3rdLzvnU) | [Stardriver](https://open.spotify.com/album/12CPcqbCjUpR5TpMQGBc6y) | 4:00 | 2024-06-06 | 2024-07-17 |
 | [Stars and Planets](https://open.spotify.com/track/6eK4JNI1JDiyIuOtrrp3t7) | [Cloned Clouds](https://open.spotify.com/artist/1ZAzHOklRnzauXs4DNYB0f) | [Stars and Planets](https://open.spotify.com/album/5QoSvBUOo92siqyyfwLVe3) | 2:50 | 2024-06-06 | 2024-06-21 |
+| [Streets](https://open.spotify.com/track/4vPk8txZtvY23szOhnotTh) | [Skolnick](https://open.spotify.com/artist/4PoidmOtSTFplZWtUC2qLt) | [Streets](https://open.spotify.com/album/5BQErl2Ekr0BcbaQcl3b7O) | 2:21 | 2025-04-11 |  |
 | [SynthDreams](https://open.spotify.com/track/3FAjcy7jsFO4zD31ZUNjHg) | [Green Prize](https://open.spotify.com/artist/5U0BKGd2lBYbXI1v1EcFTB) | [SynthDreams](https://open.spotify.com/album/752vHIzraMDQBs7g6Vlm8B) | 2:50 | 2024-06-06 | 2024-11-23 |
 | [Tape Surfing](https://open.spotify.com/track/0WS5DPLL0cyeYlpbS694NP) | [Alex Boychuk](https://open.spotify.com/artist/5PQIdH1jeF2EvLoTENF0qU) | [Tape Surfing](https://open.spotify.com/album/0tfaD16fh0vZjegWmgJ6y3) | 2:49 | 2025-01-10 |  |
 | [Tarzana](https://open.spotify.com/track/5CoHu3ekt50n98yuJPlw4t) | [A.M\. Attack](https://open.spotify.com/artist/6GYPQrUO5yGLCMo6YqJzyC) | [Tarzana](https://open.spotify.com/album/4FMXeLzqnZ6t0L6OVVkLu0) | 3:00 | 2024-06-06 |  |
@@ -152,7 +153,7 @@
 | [Transmission](https://open.spotify.com/track/44RvNrpD0C0rWabbBQxXBk) | [Neon Crash](https://open.spotify.com/artist/1KM1XGkE2aOq0EC3irL81F) | [Transmission](https://open.spotify.com/album/0pUtXTBg1cfX4dwTXD61Nl) | 2:42 | 2025-02-07 |  |
 | [True Love](https://open.spotify.com/track/0ajMmAtW5492rLVehEkoM7) | [Cyter](https://open.spotify.com/artist/6xSvbD19SYZJ2T1bhoYuJR) | [Catwave](https://open.spotify.com/album/2bnkr8ZQci5Ejaf8YmNSqn) | 3:29 | 2024-12-13 |  |
 | [UNIX 82](https://open.spotify.com/track/2sMHHYFv6nOLVhQO5RKRpL) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Space Waves](https://open.spotify.com/album/7zuSBEmYo1iPEdQkyZEroD) | 2:48 | 2024-06-06 | 2024-12-04 |
-| [Valentina](https://open.spotify.com/track/23CMTsEHgMsug4DyafCpqH) | [Skolnick](https://open.spotify.com/artist/4PoidmOtSTFplZWtUC2qLt) | [Valentina](https://open.spotify.com/album/4spKQQXCmCyHKTgObWWfGE) | 2:54 | 2025-01-20 |  |
+| [Valentina](https://open.spotify.com/track/23CMTsEHgMsug4DyafCpqH) | [Skolnick](https://open.spotify.com/artist/4PoidmOtSTFplZWtUC2qLt) | [Valentina](https://open.spotify.com/album/4spKQQXCmCyHKTgObWWfGE) | 2:54 | 2025-01-20 | 2025-04-12 |
 | [VHS](https://open.spotify.com/track/6iQkPTQy6bcW2J5A8JNxt1) | [Charlotte Knight](https://open.spotify.com/artist/4bo2qexwnFrRZXXs024mrP) | [VHS](https://open.spotify.com/album/5aLcJnQhU7KzSlbJIrEX4v) | 3:16 | 2024-09-13 |  |
 | [Video Knights](https://open.spotify.com/track/7EKCNfwAqGTCyh0u5IrJ7u) | [spring gang](https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf) | [Video Knights](https://open.spotify.com/album/4vpYAUcFWqteJtyu0imsqb) | 4:12 | 2024-06-06 |  |
 | [Virtual Realm](https://open.spotify.com/track/02g6jSLXQTRxzObVfJCD5R) | [Saffari](https://open.spotify.com/artist/4geZSVxo3NmU8J6Vpm4j6B) | [Virtual Realm](https://open.spotify.com/album/7iD7qgWarP2cE6milUdLxk) | 3:39 | 2024-08-23 | 2025-03-29 |

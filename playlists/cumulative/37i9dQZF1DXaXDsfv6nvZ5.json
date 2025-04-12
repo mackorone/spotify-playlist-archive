@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The soulful tunes to ease you into your day. Cover: Melanie Fiona",
+  "description": "The soulful tunes to ease you into your day. Cover: Jane Handcock",
   "name": "Soul Coffee",
   "tracks": [
     {
@@ -472,7 +472,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 200520,
       "name": "All I Want Is You [Feat. October London]",
       "url": "https://open.spotify.com/track/2YKgKQeaYc2sIZIGooyLw0"
@@ -1984,7 +1984,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 188335,
       "name": "Carcass - Evolved",
       "url": "https://open.spotify.com/track/5USi9RGjSH9vgWNRyJENcn"
@@ -2072,7 +2072,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 181970,
       "name": "Chasing",
       "url": "https://open.spotify.com/track/2TR35rjnC69Mqs3uBZ1QqR"
@@ -8594,7 +8594,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 194184,
       "name": "Mystery ft. PJ Morton",
       "url": "https://open.spotify.com/track/1vtrfEsKAdbJfuHtddCAMe"
@@ -10302,7 +10302,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 206000,
       "name": "Right One, Wrong Time",
       "url": "https://open.spotify.com/track/2PJP7lSOD44N6kRN7o6MNQ"
@@ -11447,6 +11447,24 @@
     },
     {
       "album": {
+        "name": "Love Uptempo, Vol. 1",
+        "url": "https://open.spotify.com/album/2PaP55BeDRsZIaSpzV8PjJ"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156073,
+      "name": "Spin",
+      "url": "https://open.spotify.com/track/1LIfmKeMM2zuLoq5i2pst9"
+    },
+    {
+      "album": {
         "name": "Stand on Trial",
         "url": "https://open.spotify.com/album/4i9qgLAuUYMjocxgpoTg65"
       },
@@ -11578,6 +11596,24 @@
       "duration_ms": 142306,
       "name": "STILL HAVE YOU",
       "url": "https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z"
+    },
+    {
+      "album": {
+        "name": "Stingy",
+        "url": "https://open.spotify.com/album/0Y5XRImXd06igIrUqkP7s6"
+      },
+      "artists": [
+        {
+          "name": "JANE HANDCOCK",
+          "url": "https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252539,
+      "name": "Stingy",
+      "url": "https://open.spotify.com/track/6gBEXaVx380CGNyqUs4qWN"
     },
     {
       "album": {
@@ -12009,6 +12045,24 @@
     },
     {
       "album": {
+        "name": "That One Ex",
+        "url": "https://open.spotify.com/album/1CJfzC57QVUzmKQU671Mzc"
+      },
+      "artists": [
+        {
+          "name": "The Amours",
+          "url": "https://open.spotify.com/artist/6UAXW2y6wQUxDGNFJuA5cE"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "That One Ex",
+      "url": "https://open.spotify.com/track/6rT52UjpWXhXpsPsFcsKBe"
+    },
+    {
+      "album": {
         "name": "That's All I Wanted From You",
         "url": "https://open.spotify.com/album/5YMTxJYMulSFqd6kHpn14U"
       },
@@ -12164,6 +12218,28 @@
       "duration_ms": 199893,
       "name": "The Gym",
       "url": "https://open.spotify.com/track/6lKIAhKMaGiLJkqAdbz6vB"
+    },
+    {
+      "album": {
+        "name": "Jaded Lover",
+        "url": "https://open.spotify.com/album/6jFmG78XUcW2f29NEifzX4"
+      },
+      "artists": [
+        {
+          "name": "JeRonelle",
+          "url": "https://open.spotify.com/artist/4zhiJYdxOO4c9ygljrq0DZ"
+        },
+        {
+          "name": "Felicia Temple",
+          "url": "https://open.spotify.com/artist/0F3X6Fta17Df58PeXnaUAv"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249500,
+      "name": "The Let Out",
+      "url": "https://open.spotify.com/track/2eWopxSP24X7W2cTaY9OTa"
     },
     {
       "album": {
@@ -13750,6 +13826,24 @@
       "duration_ms": 61920,
       "name": "Whippedlashed",
       "url": "https://open.spotify.com/track/1f6AmSEPyeytGkXAAcjafv"
+    },
+    {
+      "album": {
+        "name": "ANNiversary",
+        "url": "https://open.spotify.com/album/7wNq4CgZFabdMR36VpKNS2"
+      },
+      "artists": [
+        {
+          "name": "Ann Nesby",
+          "url": "https://open.spotify.com/artist/6hIILipyNOmswy0IdWHx7b"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188986,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/2BEQjs0f7Sf2Qqia8nKUYQ"
     },
     {
       "album": {

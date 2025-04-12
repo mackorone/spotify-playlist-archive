@@ -7834,6 +7834,24 @@
     {
       "album": {
         "name": "TENEBRIS",
+        "url": "https://open.spotify.com/album/6UZvZUNDOE81n2c03ePjce"
+      },
+      "artists": [
+        {
+          "name": "Moriones",
+          "url": "https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182666,
+      "name": "EZ AZ \u00c1RA",
+      "url": "https://open.spotify.com/track/1SJ3lXp7ea455khYf6zqOU"
+    },
+    {
+      "album": {
+        "name": "TENEBRIS",
         "url": "https://open.spotify.com/album/6un7zvCf4huzN80JrmUr5J"
       },
       "artists": [
@@ -27310,7 +27328,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 141702,
       "name": "VERSENY",
       "url": "https://open.spotify.com/track/3Ej9MaTXoEHlAclVCtccA2"

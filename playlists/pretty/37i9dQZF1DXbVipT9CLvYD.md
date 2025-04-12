@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVipT9CLvYD.md) - [plain]
 
 > Pakka Folk beats from Kollywood!<br/>Cover : Vikram
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,875 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,904 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVipT9CLvYD.md) - [plain]
 | 42 | [Pottu Thakku](https://open.spotify.com/track/2xMOwlzMJfyksroZ8s5PCh) | [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Roshini](https://open.spotify.com/artist/4ZWAzDyWt9NdjhvZvTaM5U) | [Kuthu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2HE7SqgdVunoRhtNetWFvY) | 5:08 |
 | 43 | [Maari Gethu](https://open.spotify.com/track/6ix68x3LqXv1teM1doynXU) | [Yuvan Shankar Raja,Dhanush,Chinnaponnu,V.M\. Mahalingam](https://open.spotify.com/artist/26syEbRiAU2bCGhTqN8h8Z) | [Maari 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5DXifmf9OSaHpOl3zqxTTg) | 3:46 |
 | 44 | [Vambula Thumbula](https://open.spotify.com/track/1hjSN26LvLcBrhObrNSQK1) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Gana Muthu](https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx), [Isaivani](https://open.spotify.com/artist/5QeisthWrXdLXPKSxSSAdL), [Gana Ulagam Dharani](https://open.spotify.com/artist/45N8QChe58Gqzfrmv4mXe7) | [Sarpatta Parambarai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/42NavG08x69GDTN5nnbovL) | 5:04 |
-| 45 | [Kadharalz](https://open.spotify.com/track/77OQsnAirm7Ke8EGgBeOxz) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Indian 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2odSkyvlROPRtPYsr2lE0l) | 3:54 |
-| 46 | [Jalabulajangu \(From "Don"\)](https://open.spotify.com/track/4HdzYTQiouB9BVYX7JOrhh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Rokesh](https://open.spotify.com/artist/6R33h8YbB5fFg8RdJdQ6bL) | [Jalabulajangu \(From "Don"\)](https://open.spotify.com/album/3cXSg3K9z6fZAd1lWmqvrc) | 3:22 |
+| 45 | [Jalabulajangu \(From "Don"\)](https://open.spotify.com/track/4HdzYTQiouB9BVYX7JOrhh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Rokesh](https://open.spotify.com/artist/6R33h8YbB5fFg8RdJdQ6bL) | [Jalabulajangu \(From "Don"\)](https://open.spotify.com/album/3cXSg3K9z6fZAd1lWmqvrc) | 3:22 |
+| 46 | [Kadharalz](https://open.spotify.com/track/77OQsnAirm7Ke8EGgBeOxz) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Indian 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2odSkyvlROPRtPYsr2lE0l) | 3:54 |
 | 47 | [Chellamma \(From "Doctor"\)](https://open.spotify.com/track/0fGclndst25Qqy8j4u5De5) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Chellamma \(From "Doctor"\)](https://open.spotify.com/album/0ajbKuAGjGt7VBJeKpYyu8) | 3:56 |
 | 48 | [Local Boys](https://open.spotify.com/track/7jUczfUWKAfcKSQP2N8ugb) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Velmurugan](https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi) | [Ethir Neechal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xTQmYK4S7vj9mv3zcJYWg) | 4:34 |
 | 49 | [Private Party \(From "Don"\)](https://open.spotify.com/track/6eYsOcDdB5b6rTO5ubMxeV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Private Party \(From "Don"\)](https://open.spotify.com/album/1JOGTaUwTOfeW70ed3rRr2) | 3:36 |

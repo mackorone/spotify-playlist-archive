@@ -4,7 +4,7 @@
 
 > 
 
-233 songs - 15 hr 46 min
+234 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [push pull](https://open.spotify.com/track/223pTIXzqcuxzQyAtz5kyo) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [push pull](https://open.spotify.com/album/4towtAU3ilQhDVA5Ink2KN) | 3:27 | 2016-04-24 |  |
 | [Rain](https://open.spotify.com/track/0s1fGoO2oqucxCV41gpvox) | [Blackmill](https://open.spotify.com/artist/08A9f7wRecEKFGN2PoylTl) | [Fortune Soul](https://open.spotify.com/album/1bM4fvw3uuhycyKcjEDmKF) | 5:58 | 2016-01-15 |  |
 | [Randomize](https://open.spotify.com/track/7cwpTKx0NeTPacBVrpNumb) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G) | [Randomize](https://open.spotify.com/album/4MJNd4qc5u7iIQzCJdhosQ) | 4:29 | 2022-12-06 |  |
+| [Restart My Heart](https://open.spotify.com/track/0a2Yh4mTBAcQDpBYjFIMLJ) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [Restart My Heart](https://open.spotify.com/album/4RRW8Qf7RAgwZ2lZMzVZ1P) | 2:51 | 2025-04-11 |  |
 | [Ride It](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Ride It](https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E) | 2:37 | 2020-09-03 |  |
 | [Rift](https://open.spotify.com/track/1ymXHDLvymVquErXfKfl2B) | [Singularity](https://open.spotify.com/artist/7dM9e9rQtM8fZBkRnRGZX5), [Jenn Lucas](https://open.spotify.com/artist/2aXb0kXmNfKMTgLcIrgxHw) | [Rift](https://open.spotify.com/album/0oUaF0znpsJQQzJiUZfwcw) | 5:42 | 2016-10-01 |  |
 | [Roses](https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Roses](https://open.spotify.com/album/2GFflENKz28RcMoSuulPZC) | 3:46 | 2016-03-10 |  |

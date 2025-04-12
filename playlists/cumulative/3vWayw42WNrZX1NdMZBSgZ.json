@@ -5067,6 +5067,28 @@
     },
     {
       "album": {
+        "name": "EL DIABLO",
+        "url": "https://open.spotify.com/album/5iF9vS6KQNnJjDXJPQI5CN"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193181,
+      "name": "EL DIABLO",
+      "url": "https://open.spotify.com/track/5Zinmdnrq6Gp8ho1VS4zAg"
+    },
+    {
+      "album": {
         "name": "El Doble",
         "url": "https://open.spotify.com/album/6tcjrCQj5gp2Tae9WMcCkS"
       },

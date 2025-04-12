@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Terno Rei
 
-528 songs - 1 day 5 hr 25 min
+529 songs - 1 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Alerta](https://open.spotify.com/track/4lnTk0oPt5GLSzwrs1mjAX) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [Alerta](https://open.spotify.com/album/60BEBdhWozkZlmna9QmwZS) | 3:20 | 2022-09-09 | 2022-10-01 |
 | [ALGUÉM ME TIRA DAQUI!](https://open.spotify.com/track/26gLVXEUbA4ZjVIVadRQ4m) | [Cefa](https://open.spotify.com/artist/47nyfQJpSHM8ezSh6QATyU) | [ALGUÉM ME TIRA DAQUI!](https://open.spotify.com/album/4unIawkvUq6wJSlRRQqgdf) | 3:42 | 2023-01-27 | 2023-04-01 |
 | [Além das Fronteiras](https://open.spotify.com/track/66QiW1jFEDBVlT2ZOHMt2C) | [Luneta Mágica](https://open.spotify.com/artist/3RgGX0nM3dYpQgkBehgjMl) | [No Paiz das Amazonas](https://open.spotify.com/album/13IzBp3bHJcpF0Eh1cA33g) | 4:21 | 2022-03-18 | 2022-05-14 |
+| [Além do Fim](https://open.spotify.com/track/01evrFRhlNqylGfEDYVtBY) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [7](https://open.spotify.com/album/5aKu0IlgLkkG3iWO7YNADZ) | 3:07 | 2025-04-11 |  |
 | [Alívio Imediato](https://open.spotify.com/track/1GF4riVRxRKiurhO1S7NvF) | [CPM 22](https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP) | [Enfrente](https://open.spotify.com/album/67rjiIJmUuG6WbCIBvEqQG) | 3:14 | 2024-04-19 | 2024-08-10 |
 | [Amor Crazy](https://open.spotify.com/track/1IrycH2mqyBvpLKBRYpaBw) | [Maria do Relento](https://open.spotify.com/artist/2ZJAUr36IZp6pSiegYWRJP) | [Amor Crazy](https://open.spotify.com/album/6y6xzCuGIaUglvlKWeuVw7) | 3:01 | 2022-01-14 | 2022-07-02 |
 | [Andando de SK8](https://open.spotify.com/track/2J8hc2jstcvn7yH3fbvOEb) | [Tchello](https://open.spotify.com/artist/7m7zHLfw3T0SAZxYVRrE5h) | [Andando de SK8](https://open.spotify.com/album/5xHLWqJjt6svcBPyvvXfl1) | 2:40 | 2022-04-08 | 2022-09-03 |
@@ -49,7 +50,7 @@
 | [Aos Poucos](https://open.spotify.com/track/0I8Ff9T1SLI7EArBwlAsie) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Aos Poucos](https://open.spotify.com/album/3T0Wa2f0JfwZHR1vdFGTEI) | 3:37 | 2022-11-25 | 2023-04-09 |
 | [Apocalipse Só](https://open.spotify.com/track/3QLs0Z5L9aXhbXAXLn5RUB) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Olho Furta\-Cor](https://open.spotify.com/album/29dpVqKyiV7IHzaBdU2ZhK) | 3:31 | 2022-09-02 | 2022-09-24 |
 | [Apocalipse Só \(Microfonado\)](https://open.spotify.com/track/0kjmWJQlLQymaMb7y0iVE6) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl), [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Microfonado](https://open.spotify.com/album/4PooNcpHa9bDZwTWwegRg6) | 3:23 | 2024-06-28 |  |
-| [Aqui Não é o Meu Lugar \- Ao Vivo](https://open.spotify.com/track/1YtahfVwdZVbtgsyNgdFVR) | [Nasi](https://open.spotify.com/artist/7HJkYWzMCiXIJEHserfc0Z) | [Aqui Não é o Meu Lugar \(Ao Vivo\)](https://open.spotify.com/album/7fjjECylLlmJQxwyXkVPVk) | 3:05 | 2025-03-07 |  |
+| [Aqui Não é o Meu Lugar \- Ao Vivo](https://open.spotify.com/track/1YtahfVwdZVbtgsyNgdFVR) | [Nasi](https://open.spotify.com/artist/7HJkYWzMCiXIJEHserfc0Z) | [Aqui Não é o Meu Lugar \(Ao Vivo\)](https://open.spotify.com/album/7fjjECylLlmJQxwyXkVPVk) | 3:05 | 2025-03-07 | 2025-04-12 |
 | [Aquário](https://open.spotify.com/track/6ZIRB5Ms01u1GiVTZCSrzE) | [menores atos](https://open.spotify.com/artist/6KNc5HwsgpYNBCPaPrg4dv) | [Aquário](https://open.spotify.com/album/7yxxEZGcOwhbA7UV01x8Nx) | 4:34 | 2022-02-04 | 2022-03-26 |
 | [Arranca a Cabeça do Rei](https://open.spotify.com/track/6d1UM3VNmsv9rez4FTlGOP) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg) | [Arranca a Cabeça do Rei](https://open.spotify.com/album/1hIuQvpxrUtQKSltJbbNFt) | 4:06 | 2022-08-05 | 2022-08-27 |
 | [arão](https://open.spotify.com/track/2xNMHYgUHDjLzo5ipgeTt9) | [gorduratrans](https://open.spotify.com/artist/5XgdNH4XKiXwbXUTytIZnX) | [zera](https://open.spotify.com/album/5hKzinFoIFHtvIK8EeWUVU) | 4:21 | 2022-06-17 | 2022-08-06 |
@@ -294,7 +295,7 @@
 | [Míriam \(Pra você que virou anjo\)](https://open.spotify.com/track/5dyQxt1zLby3puYbTNFXAu) | [Tianastacia](https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u) | [Míriam \(Pra você que virou anjo\)](https://open.spotify.com/album/1uaqQnmLsxvhnrhNZ2fG7l) | 3:23 | 2023-09-29 | 2023-12-09 |
 | [Mísseis Democráticos](https://open.spotify.com/track/4mNJF5gd4XRfJQrjrDevgd) | [Surra](https://open.spotify.com/artist/5TM5LOr6mxQGod2sH9Uz9e) | [Mísseis Democráticos](https://open.spotify.com/album/15tJAU7yaz4lUqDyi56TUB) | 2:38 | 2022-07-01 | 2022-07-30 |
 | [N Era Amor \- Ao Vivo](https://open.spotify.com/track/31JMvaH6IbiOnS4CDq8f9l) | [Ariah](https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8) | [N Era Amor \(Ao Vivo\)](https://open.spotify.com/album/0C2l6dhX4Pk0pTjviqso4W) | 3:20 | 2025-02-14 | 2025-03-08 |
-| [Na Contramão](https://open.spotify.com/track/7pdO5lMv1rpSsUevZ4hFGS) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Tempo](https://open.spotify.com/album/1wjNERJXlOittc9xz6avDL) | 3:17 | 2024-11-22 |  |
+| [Na Contramão](https://open.spotify.com/track/7pdO5lMv1rpSsUevZ4hFGS) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Tempo](https://open.spotify.com/album/1wjNERJXlOittc9xz6avDL) | 3:17 | 2024-11-22 | 2025-04-12 |
 | [Na Hora Do Almoço / A Palo Seco](https://open.spotify.com/track/4Bvvp40pmZiwJjLrcNAqby) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Paulo Netto](https://open.spotify.com/artist/6ebH5jdXkPZICrWB9Tq5gm) | [Paulo Netto Canta Belchior](https://open.spotify.com/album/6kzqkPyiNU1pejNpCLfMPp) | 5:59 | 2022-09-02 | 2023-05-06 |
 | [Nada de nós dois](https://open.spotify.com/track/4Qaj8bQDsIUe621dwvh4K9) | [Hevo 84](https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG) | [Nada de nós dois](https://open.spotify.com/album/3TvHK5dU5TQ7iywXf9EmHW) | 3:21 | 2024-05-03 | 2024-10-12 |
 | [Nada Igual](https://open.spotify.com/track/2owCS5OAuswj40Xyh4vOvx) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Nada Igual](https://open.spotify.com/album/0KdEgS8WCnNqByArEtyxVR) | 2:41 | 2025-02-21 |  |

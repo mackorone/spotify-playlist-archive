@@ -4051,6 +4051,28 @@
     },
     {
       "album": {
+        "name": "Carita Triste",
+        "url": "https://open.spotify.com/album/7GhIHmYSFDqCY1oW21hTca"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156146,
+      "name": "Carita Triste",
+      "url": "https://open.spotify.com/track/4AXgx8dQgAxPnMGzydsitJ"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
       },
@@ -13866,7 +13888,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 149400,
       "name": "Marcha de las Malvinas",
       "url": "https://open.spotify.com/track/7H851ulmXQFlBOrLjbyHgj"
@@ -16728,7 +16750,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 188599,
       "name": "Notorio",
       "url": "https://open.spotify.com/track/56xvigEBuCJ2X5UJctt15K"
@@ -23748,7 +23770,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-09",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "Tiene",
       "url": "https://open.spotify.com/track/1KfiYYMCZkP7no8DdkXFDl"
@@ -24172,10 +24194,6 @@
         {
           "name": "DJ DYLANFK",
           "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
-        },
-        {
-          "name": "MRR",
-          "url": "https://open.spotify.com/artist/3g3GaoGiDhAeavQUhxWMmM"
         }
       ],
       "date_added": "2025-02-27",

@@ -45,6 +45,32 @@
     },
     {
       "album": {
+        "name": "Aqu\u00ed Estamos",
+        "url": "https://open.spotify.com/album/3ZFGpnouTmOuER9kTaom0s"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183771,
+      "name": "Aqu\u00ed Estamos",
+      "url": "https://open.spotify.com/track/7AQGYyve2qTrEiIUitZhqy"
+    },
+    {
+      "album": {
         "name": "XX A\u00f1os (En Vivo)",
         "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
       },
@@ -302,7 +328,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 244202,
       "name": "culpa - extra\u00eddo de LA NUBE EN EL JARD\u00cdN",
       "url": "https://open.spotify.com/track/4S2gcaKuk96VrNMzucuYkO"
@@ -392,7 +418,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 215440,
       "name": "El color de tus ojos",
       "url": "https://open.spotify.com/track/7wjFEqG6ufpVqHbQGxNPAu"
@@ -1149,6 +1175,28 @@
     },
     {
       "album": {
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/4Xe8ji6so3Fgxx57BO6Kw0"
+      },
+      "artists": [
+        {
+          "name": "Beto Cuevas",
+          "url": "https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL"
+        },
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283238,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/0IopeK5zdadP5J25ohsvkY"
+    },
+    {
+      "album": {
         "name": "Tofu",
         "url": "https://open.spotify.com/album/5tquufgGqNZBek4qn3Zngj"
       },
@@ -1226,6 +1274,24 @@
       "duration_ms": 311400,
       "name": "Noches de Tu Piel",
       "url": "https://open.spotify.com/track/2YJV5BX5npoh8FjwNmMbiP"
+    },
+    {
+      "album": {
+        "name": "UNDESASTRE delux: CERODRAMA",
+        "url": "https://open.spotify.com/album/4drbveW8C0TBDfEVxYy0Sa"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176720,
+      "name": "NOstas",
+      "url": "https://open.spotify.com/track/3xlrhGSfJsXeIMpUaH8tYA"
     },
     {
       "album": {
@@ -1312,7 +1378,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 327120,
       "name": "Princesa",
       "url": "https://open.spotify.com/track/0PGaDIj6NIB2rW7KUW3Yjz"
@@ -1668,6 +1734,24 @@
       "duration_ms": 291795,
       "name": "Talism\u00e1n",
       "url": "https://open.spotify.com/track/73xoyncM1YKM2z3u8JwCfV"
+    },
+    {
+      "album": {
+        "name": "Te Hago Un Resumen",
+        "url": "https://open.spotify.com/album/12S2DCVQl0EVinWFv4Px3f"
+      },
+      "artists": [
+        {
+          "name": "Cupido",
+          "url": "https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186888,
+      "name": "Te Hago Un Resumen",
+      "url": "https://open.spotify.com/track/1HWiSHw1YygXh964oAXuJh"
     },
     {
       "album": {
@@ -2076,7 +2160,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 182060,
       "name": "\u00bfPor qu\u00e9 me tengo yo que enamorar?",
       "url": "https://open.spotify.com/track/6wUCQr6hrpOfwWJ0PVP5hG"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Punjabi Hip-Hop!\nCover: Baggh-E SMG , Big Kay SMG, Farmaan SMG",
+  "description": "Best of Punjabi Hip-Hop!\nCover: Karan Aujla",
   "name": "RAP 91 Punjabi",
   "tracks": [
     {
@@ -206,6 +206,28 @@
       "duration_ms": 234893,
       "name": "410",
       "url": "https://open.spotify.com/track/0R1AZYXc34nfMaiengrkRc"
+    },
+    {
+      "album": {
+        "name": "48 Rhymes",
+        "url": "https://open.spotify.com/album/12a6nYFLfVAdruHi64tJVX"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Manna Music",
+          "url": "https://open.spotify.com/artist/7JuTOJ6xkgM1RScWRrbCOT"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110932,
+      "name": "48 Rhymes",
+      "url": "https://open.spotify.com/track/6voByoJq77rN6FITdRhtLb"
     },
     {
       "album": {
@@ -5260,7 +5282,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 236800,
       "name": "Todh",
       "url": "https://open.spotify.com/track/7FVgT8XjxUSfKuZuHxg316"

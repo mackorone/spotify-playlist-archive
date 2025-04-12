@@ -4,7 +4,7 @@
 
 > Les hits dancehall du moment\. Photo : MOLIY
 
-548 songs - 1 day 0 hr 8 min
+549 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -470,6 +470,7 @@
 | [Spend It](https://open.spotify.com/track/12oJhyQtWydL1vEaUWHhdG) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [DJ Smo](https://open.spotify.com/artist/65O3QUAeUUs925oniksGJp), [Reid Waters](https://open.spotify.com/artist/0dUCgtuvTnnLNohdnNECkL) | [Spend It](https://open.spotify.com/album/76ikYeo9YM9PNnZCvgswiG) | 2:23 | 2023-06-15 | 2023-07-14 |
 | [St\. Thomas Native \(feat\. Chronic Law\)](https://open.spotify.com/track/0HvfKpQ3mn0903BoAwb3nB) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 3:10 | 2023-08-24 | 2023-12-01 |
 | [Stand Firm](https://open.spotify.com/track/6nphDFw2CnNspvwyswNv69) | [Babybang](https://open.spotify.com/artist/5AE51Ys60V4FluAz6NQQup), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [Stand Firm](https://open.spotify.com/album/17OIKPVlA5sZ7GlIZ4mcCy) | 2:32 | 2022-06-30 | 2022-08-26 |
+| [Station shatta](https://open.spotify.com/track/49lSn5F2ivjuPaxqBximRE) | [Barlem B](https://open.spotify.com/artist/2sJHnmgiikRNCLIlhwsfDF) | [Step](https://open.spotify.com/album/4zDQmFipCyuukyrFIwedCd) | 2:15 | 2025-04-10 |  |
 | [Step](https://open.spotify.com/track/6LUHN9eQgCnlGldlFku7co) | [Venssy](https://open.spotify.com/artist/5aEyUm5wfsHdn0z3QCcPlf), [KILLI](https://open.spotify.com/artist/2VHuInTKPsBGsCDFn5WkxW) | [New Level](https://open.spotify.com/album/39RW24avtFJ8AfKZWcVyc5) | 2:31 | 2025-04-03 |  |
 | [Suffering Days](https://open.spotify.com/track/72dpxZuTHoyVqt6CUBgSog) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Pop Style](https://open.spotify.com/artist/5pzWFizoqhuhkImntBH12H) | [Suffering Days](https://open.spotify.com/album/3kdctcGAqj1STmWJfEqgmw) | 2:15 | 2021-12-22 | 2022-03-25 |
 | [Sum Big Tings](https://open.spotify.com/track/52d8cQ0lwDcrxK2awKHvpC) | [Its Natascha](https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6), [Ricky Hype](https://open.spotify.com/artist/3P3VpRsc7DKghhiREMiuVN) | [Sum Big Tings](https://open.spotify.com/album/2fZ0aQhfecuZiid5O5PA2L) | 2:52 | 2024-01-18 | 2024-02-23 |

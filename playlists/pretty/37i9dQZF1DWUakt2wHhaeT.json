@@ -1,12 +1,12 @@
 {
   "description": "The best songs from the new shows and the buzziest hits. Cover: Operation Mincemeat",
-  "num_followers": 112290,
+  "num_followers": 112292,
   "original_name": "Broadway Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z+/6mwAAAACQjNPaZWErARJiNhkZlviq",
+  "snapshot_id": "Z/iT2gAAAACIgtFZiYgPCj/23k2OWJUa",
   "tracks": [
     {
       "added_at": "2025-03-31 16:22:43",
@@ -23,6 +23,50 @@
       "duration_ms": 579677,
       "name": "Making a Man",
       "url": "https://open.spotify.com/track/2rfA6J1ihjLIemZ9PbKhNb"
+    },
+    {
+      "added_at": "2025-04-11 04:00:26",
+      "album": {
+        "name": "Catch a Shooting Star",
+        "url": "https://open.spotify.com/album/6cYXwrnoTCj8Q8coDmMK9M"
+      },
+      "artists": [
+        {
+          "name": "Mia Kobayashi",
+          "url": "https://open.spotify.com/artist/2ssgM2SpgWVCYjzoOcL5U3"
+        },
+        {
+          "name": "Zheng Xi Yong",
+          "url": "https://open.spotify.com/artist/5CS9yLZYIn1wQxrflfeJPk"
+        }
+      ],
+      "duration_ms": 260138,
+      "name": "Catch a Shooting Star",
+      "url": "https://open.spotify.com/track/45fmBuitHcVjfyZEoiSumO"
+    },
+    {
+      "added_at": "2025-04-11 04:00:26",
+      "album": {
+        "name": "Ta-Da!",
+        "url": "https://open.spotify.com/album/17QDhjdX3deaiHzWtfGgVh"
+      },
+      "artists": [
+        {
+          "name": "Joel Waggoner",
+          "url": "https://open.spotify.com/artist/7MofFIJvtdbq23JjCxV6Lo"
+        },
+        {
+          "name": "Eric Price",
+          "url": "https://open.spotify.com/artist/71D8j9stnrwB5zbteiqRky"
+        },
+        {
+          "name": "Talia Suskauer",
+          "url": "https://open.spotify.com/artist/5Dmu98hbBGotpLtDO7DpqR"
+        }
+      ],
+      "duration_ms": 174361,
+      "name": "Ta-Da!",
+      "url": "https://open.spotify.com/track/76hbMjjyPowtCZ3UwNUMvm"
     },
     {
       "added_at": "2025-03-31 16:26:09",
@@ -45,6 +89,34 @@
       "url": "https://open.spotify.com/track/4l9Y925x9oZSD0njqv8Vql"
     },
     {
+      "added_at": "2025-04-11 04:00:26",
+      "album": {
+        "name": "Together, Wherever We Go",
+        "url": "https://open.spotify.com/album/33ZlpPLNoqsMbMMltr3VaU"
+      },
+      "artists": [
+        {
+          "name": "Audra McDonald",
+          "url": "https://open.spotify.com/artist/7F6surn3OpdyOzupSawyli"
+        },
+        {
+          "name": "Danny Burstein",
+          "url": "https://open.spotify.com/artist/30HOYarCiirq0rSFZ8FAY3"
+        },
+        {
+          "name": "Joy Woods",
+          "url": "https://open.spotify.com/artist/4ANaCMgO8VHtP89pRV46pW"
+        },
+        {
+          "name": "Gypsy 2024 Broadway Company",
+          "url": "https://open.spotify.com/artist/026ZtmUJxea729DcQpyMTC"
+        }
+      ],
+      "duration_ms": 218663,
+      "name": "Together, Wherever We Go",
+      "url": "https://open.spotify.com/track/4F8bLCBX09gQ4gJ0QwCVYw"
+    },
+    {
       "added_at": "2025-02-21 05:00:16",
       "album": {
         "name": "Death Becomes Her - Broadway Sneak Preview",
@@ -63,6 +135,30 @@
       "duration_ms": 256444,
       "name": "For The Gaze",
       "url": "https://open.spotify.com/track/1xU1U5erQRpSvbgeKBJj8x"
+    },
+    {
+      "added_at": "2025-04-11 04:00:26",
+      "album": {
+        "name": "Boom Boom (feat. Austin Scott) [from Moto Moto Presents Nights in Mombasa]",
+        "url": "https://open.spotify.com/album/2IY8qlmbXIR2Wp7DRhroMt"
+      },
+      "artists": [
+        {
+          "name": "Goddess",
+          "url": "https://open.spotify.com/artist/5wZwzWtwy3wcduLR2ZLUtX"
+        },
+        {
+          "name": "Michael Thurber",
+          "url": "https://open.spotify.com/artist/5zdCcd7nJejwygIgvJzjhf"
+        },
+        {
+          "name": "Austin Scott",
+          "url": "https://open.spotify.com/artist/4wjJDgFz2FJ7mJDWb97uin"
+        }
+      ],
+      "duration_ms": 134843,
+      "name": "Boom Boom (feat. Austin Scott) - from Moto Moto Presents Nights in Mombasa",
+      "url": "https://open.spotify.com/track/0fkOTH4394hlNxrgOG9mKg"
     },
     {
       "added_at": "2025-03-11 05:00:06",
@@ -209,26 +305,6 @@
       "url": "https://open.spotify.com/track/3aIvJqEB3SN3aNvOfOo3CS"
     },
     {
-      "added_at": "2025-02-21 05:00:16",
-      "album": {
-        "name": "The Rainy Day We Met (from Maybe Happy Ending) [Original Broadway Cast Recording]",
-        "url": "https://open.spotify.com/album/7CUQFjaOOaDSbKjyV9zw0u"
-      },
-      "artists": [
-        {
-          "name": "Darren Criss",
-          "url": "https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv"
-        },
-        {
-          "name": "Helen J Shen",
-          "url": "https://open.spotify.com/artist/5KaauashOjNGg3WxwVqsoJ"
-        }
-      ],
-      "duration_ms": 213280,
-      "name": "The Rainy Day We Met (from Maybe Happy Ending) - Original Broadway Cast Recording",
-      "url": "https://open.spotify.com/track/6iwyYSX3qWEWTi3AJ78QNO"
-    },
-    {
       "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Starlight Express",
@@ -275,6 +351,38 @@
       "duration_ms": 235923,
       "name": "How Do You Sleep",
       "url": "https://open.spotify.com/track/5O1KUF2pfaDvWG42z8927P"
+    },
+    {
+      "added_at": "2025-04-11 04:00:26",
+      "album": {
+        "name": "Dis-topia (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/5BMIwzTHM37ae8O1b1TSzq"
+      },
+      "artists": [
+        {
+          "name": "Robby Good",
+          "url": "https://open.spotify.com/artist/3BKT12By8oCU73WxjFxKwT"
+        },
+        {
+          "name": "Matthew Deegan",
+          "url": "https://open.spotify.com/artist/6s8wlCe58nG03AgjZjESRn"
+        },
+        {
+          "name": "Abigail Torrence",
+          "url": "https://open.spotify.com/artist/3JKlcuQXl7WnwjM7hmpVqE"
+        },
+        {
+          "name": "Mia Ruhman",
+          "url": "https://open.spotify.com/artist/7lhFpWt6W1tHo6YNcOJ2gP"
+        },
+        {
+          "name": "Jordan Hadley",
+          "url": "https://open.spotify.com/artist/0HNbGPoOpo3vkUnwRRlvk5"
+        }
+      ],
+      "duration_ms": 142128,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/79BwTTvO0aWe5yfMM04QM2"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -951,30 +1059,6 @@
     {
       "added_at": "2024-06-28 04:27:17",
       "album": {
-        "name": "Hazbin Hotel (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
-      },
-      "artists": [
-        {
-          "name": "Blake Roman",
-          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
-        },
-        {
-          "name": "Sam Haft",
-          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
-        },
-        {
-          "name": "Andrew Underberg",
-          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
-        }
-      ],
-      "duration_ms": 127689,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/7kEzfZXbV63tlqkPyyRd7n"
-    },
-    {
-      "added_at": "2024-06-28 04:27:17",
-      "album": {
         "name": "Gutenberg! The Musical! (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/1fceHn5xQFVxHPmPsIOzNF"
       },
@@ -1023,26 +1107,6 @@
     {
       "added_at": "2024-06-28 04:27:17",
       "album": {
-        "name": "The Time Traveller's Wife The Musical (Original Cast Recording)",
-        "url": "https://open.spotify.com/album/072DP79HpK5c4q0HwZvzh7"
-      },
-      "artists": [
-        {
-          "name": "David Hunter",
-          "url": "https://open.spotify.com/artist/4RzD0mi40YVsoqGLJkwm53"
-        },
-        {
-          "name": "Original Cast of The Time Traveller's Wife The Musical",
-          "url": "https://open.spotify.com/artist/7sf4aTcaZ2gSDqYX9j1Ydb"
-        }
-      ],
-      "duration_ms": 207973,
-      "name": "Journeyman",
-      "url": "https://open.spotify.com/track/3z9yK20vapo4mxeNDixBBJ"
-    },
-    {
-      "added_at": "2024-06-28 04:27:17",
-      "album": {
         "name": "EPIC: The Circe Saga (Official Concept Album)",
         "url": "https://open.spotify.com/album/5a3uE0AyEWhLumIHo9WkWN"
       },
@@ -1087,22 +1151,6 @@
     {
       "added_at": "2024-06-28 04:27:17",
       "album": {
-        "name": "Back to the Future: The Musical",
-        "url": "https://open.spotify.com/album/5cfiZFpFlkL6hazHrRV2Bi"
-      },
-      "artists": [
-        {
-          "name": "Olly Dobson",
-          "url": "https://open.spotify.com/artist/2MKDnkJRt2edRbWYow65iI"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "It's Only a Matter of Time",
-      "url": "https://open.spotify.com/track/1uYnCRBvnHmUFyymYkzjJn"
-    },
-    {
-      "added_at": "2024-06-28 04:27:17",
-      "album": {
         "name": "The Notebook (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/63ujCmTJYeJBkHI3pPg7La"
       },
@@ -1119,22 +1167,6 @@
       "duration_ms": 236234,
       "name": "Leave The Light On",
       "url": "https://open.spotify.com/track/6Xw7FT1gMY1lVyYPsCHkwI"
-    },
-    {
-      "added_at": "2024-06-28 04:27:17",
-      "album": {
-        "name": "Exit Music",
-        "url": "https://open.spotify.com/album/04r1o9f2Gow9GzC6JwgASX"
-      },
-      "artists": [
-        {
-          "name": "'Here We Are' Orchestra",
-          "url": "https://open.spotify.com/artist/4JKTbHS9FBUpE04RCcHHkb"
-        }
-      ],
-      "duration_ms": 192480,
-      "name": "Exit Music",
-      "url": "https://open.spotify.com/track/1zjkHkiGbFgdoE1PP9TSur"
     },
     {
       "added_at": "2024-06-28 04:27:17",

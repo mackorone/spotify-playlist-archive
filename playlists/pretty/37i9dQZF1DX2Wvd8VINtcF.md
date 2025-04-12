@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week \- Boko Yout!
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,936 likes - 103 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,038 likes - 103 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [IMAGINE](https://open.spotify.com/track/4WTqC5TIHvLuixfQPBMYey) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [IMAGINE](https://open.spotify.com/album/7IEua4tyaqNGlJkeh96kgH) | 2:20 |
 | 2 | [nice](https://open.spotify.com/track/5QD9PUqyVz8syPaZL4HAbB) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [star](https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7) | 2:22 |
-| 3 | [FOREVER](https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [FOREVER](https://open.spotify.com/album/7cXPqivcSwwoWsx29zT6lq) | 2:39 |
+| 3 | [Forever](https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Forever](https://open.spotify.com/album/7cXPqivcSwwoWsx29zT6lq) | 2:39 |
 | 4 | [Arc de Triomphe](https://open.spotify.com/track/5THdCNXFd7JK1ayDYYvzwB) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Arc de Triomphe](https://open.spotify.com/album/1XqWXTFczDFTgnCWZSV242) | 2:46 |
 | 5 | [Fun](https://open.spotify.com/track/7gsYaYvQHjW7x4UzLpCrVo) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fun](https://open.spotify.com/album/1kZhU7o65hxykIDQlYaysm) | 3:08 |
 | 6 | [RED](https://open.spotify.com/track/1qf0HdliQIuuV2XQ9Vc2cZ) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [QT](https://open.spotify.com/album/5su3xqDyd1W7ElC2DvewBE) | 2:41 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 33 | [Blue](https://open.spotify.com/track/7nicn8ELgX9KaaHSS3MWxw) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Blue](https://open.spotify.com/album/01tkNiiy4FwDYTOSU4Bu9W) | 2:33 |
 | 34 | [11](https://open.spotify.com/track/0JZ1N3dBa5WHksh5PbPeum) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [Another Life](https://open.spotify.com/album/3duZIjETQX18dHLhyZ3ROo) | 2:53 |
 | 35 | [Room333](https://open.spotify.com/track/5cLQee4gGYNJICVYNvrsP9) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Room333](https://open.spotify.com/album/0izv1Zqu92mh9DMBsxQkca) | 3:00 |
-| 36 | [Caught by a wind \- Night Remix](https://open.spotify.com/track/3nhBm43aj9sOD4NqvFUZJB) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Haunted Disc \(Remixes\)](https://open.spotify.com/album/2ElDcYvDgtqVayOKYr4kra) | 2:43 |
+| 36 | [Caught by a wind \- night remix](https://open.spotify.com/track/3nhBm43aj9sOD4NqvFUZJB) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Haunted Disc \(Remixes\)](https://open.spotify.com/album/2ElDcYvDgtqVayOKYr4kra) | 2:43 |
 | 37 | [Die Gondel](https://open.spotify.com/track/65jU76mbVeq9WIfeaTvXuv) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Music Can Hear Us](https://open.spotify.com/album/6Jq7lj2FjFmUuTjQllSTL0) | 3:36 |
 | 38 | [Assis](https://open.spotify.com/track/2VKjLsx5fsMxXPPI8hhwd8) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Assis](https://open.spotify.com/album/71DiQ82ms9jVguDKqdx1UD) | 2:41 |
 | 39 | [La Nartelle](https://open.spotify.com/track/7sxgg9dNxTruvQ6Id4lTpG) | [cortex](https://open.spotify.com/artist/7h1gWbG7KDMC8NduLP3H2i) | [La Nartelle](https://open.spotify.com/album/524OJUNROMXvm4er1AccSp) | 2:28 |

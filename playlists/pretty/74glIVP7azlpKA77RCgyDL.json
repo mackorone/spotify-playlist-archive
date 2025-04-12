@@ -1,13 +1,117 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Static Dress.",
-  "num_followers": 8898,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Turnstile.",
+  "num_followers": 8899,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAN2TGIWKFy29ko5jZD4DJAcqf7vOF7",
+  "snapshot_id": "AAAN4/9/zJlr1SiBuGCqjsncBM28cwPr",
   "tracks": [
+    {
+      "added_at": "2025-04-11 19:54:26",
+      "album": {
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 287159,
+      "name": "NEVER ENOUGH",
+      "url": "https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH"
+    },
+    {
+      "added_at": "2025-04-11 19:54:00",
+      "album": {
+        "name": "SHINMON",
+        "url": "https://open.spotify.com/album/4auOoqjhmOEJmQr85sHgu4"
+      },
+      "artists": [
+        {
+          "name": "Knosis",
+          "url": "https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh"
+        }
+      ],
+      "duration_ms": 192998,
+      "name": "SHINMON",
+      "url": "https://open.spotify.com/track/6cBjhYuDdctvdvaJzTvs3t"
+    },
+    {
+      "added_at": "2025-04-11 19:53:48",
+      "album": {
+        "name": "Lachryma",
+        "url": "https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 276400,
+      "name": "Lachryma",
+      "url": "https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa"
+    },
+    {
+      "added_at": "2025-04-11 19:54:14",
+      "album": {
+        "name": "Feeding The Meatgrinder",
+        "url": "https://open.spotify.com/album/2pgLyZfepSCQjfLcO8D2Y2"
+      },
+      "artists": [
+        {
+          "name": "Shadow of Intent",
+          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
+        },
+        {
+          "name": "Corpsegrinder",
+          "url": "https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO"
+        }
+      ],
+      "duration_ms": 243099,
+      "name": "Feeding The Meatgrinder",
+      "url": "https://open.spotify.com/track/74U3CoDKEDulnzpHfvKS8L"
+    },
+    {
+      "added_at": "2025-04-11 19:54:44",
+      "album": {
+        "name": "Misfortunate Son (feat. ORM)",
+        "url": "https://open.spotify.com/album/66JFfamcVYOWH0xuQGlSTs"
+      },
+      "artists": [
+        {
+          "name": "BAEST",
+          "url": "https://open.spotify.com/artist/4UtjZRQc6qXhAd1kqyLvqp"
+        },
+        {
+          "name": "ORM",
+          "url": "https://open.spotify.com/artist/2E8FAAk6jPrKHlFdDxCBQD"
+        }
+      ],
+      "duration_ms": 242360,
+      "name": "Misfortunate Son (feat. ORM)",
+      "url": "https://open.spotify.com/track/4dTM63mEAQgb4Ynh7luazP"
+    },
+    {
+      "added_at": "2025-04-11 19:55:18",
+      "album": {
+        "name": "Sacred Place",
+        "url": "https://open.spotify.com/album/0KniTIfZOJKRpbCsIwTe8S"
+      },
+      "artists": [
+        {
+          "name": "Orthodox",
+          "url": "https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP"
+        }
+      ],
+      "duration_ms": 166826,
+      "name": "Sacred Place",
+      "url": "https://open.spotify.com/track/4vh60PeSeou1Se94jFW6jn"
+    },
     {
       "added_at": "2025-04-04 19:42:42",
       "album": {

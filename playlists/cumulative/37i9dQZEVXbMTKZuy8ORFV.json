@@ -1494,7 +1494,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-11",
+      "date_removed": null,
       "duration_ms": 232073,
       "name": "Amor a la Antigua",
       "url": "https://open.spotify.com/track/49uhcCBeHGJDcoaX9VZqKf"
@@ -1708,7 +1708,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-11",
+      "date_removed": null,
       "duration_ms": 249302,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
@@ -3464,7 +3464,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 97368,
       "name": "BOUNCE FUNK - Slowed",
       "url": "https://open.spotify.com/track/0cJwt3tpaMOXPAXkaHAp7k"
@@ -4444,7 +4444,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 158400,
       "name": "Chaparrita",
       "url": "https://open.spotify.com/track/1OhT39hHs7Hi6sFNaIpcjJ"
@@ -7078,7 +7078,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 200446,
       "name": "Don't Matter",
       "url": "https://open.spotify.com/track/5K2YU3ENuytMsx9bfJOFrw"
@@ -15960,7 +15960,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-11",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "M\u00e3e Solteira",
       "url": "https://open.spotify.com/track/4Hk1gmBr2KVEXr3hHwSgUi"
@@ -18229,6 +18229,24 @@
     },
     {
       "album": {
+        "name": "PASSO BEM SOLTO",
+        "url": "https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY"
+      },
+      "artists": [
+        {
+          "name": "ATLXS",
+          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122971,
+      "name": "PASSO BEM SOLTO - Super Slowed",
+      "url": "https://open.spotify.com/track/72S7CkUjuiGnbfqu3gSOpU"
+    },
+    {
+      "album": {
         "name": "PASSO BEM SOLTO (Versions)",
         "url": "https://open.spotify.com/album/1dsuuittTy14OF0JE10lXm"
       },
@@ -18240,7 +18258,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 137830,
       "name": "PASSO BEM SOLTO - Ultra Slowed",
       "url": "https://open.spotify.com/track/31yzu7T280HzAxU4PQ7qMp"
@@ -21168,7 +21186,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-10",
+      "date_removed": null,
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
@@ -22378,7 +22396,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 220593,
       "name": "Starboy Remix",
       "url": "https://open.spotify.com/track/0D9Fzc8Lea0JZTAvnZcnyZ"

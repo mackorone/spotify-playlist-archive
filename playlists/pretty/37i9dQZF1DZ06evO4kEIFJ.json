@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Nas X. The essential tracks, all in one playlist.",
-  "num_followers": 163446,
+  "num_followers": 163464,
   "original_name": "This Is Lil Nas X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/W4gAAAAAD8MK1hzLKKpwrRjyDLqEF6",
+  "snapshot_id": "Z/cKAAAAAACDGhVGh7yhn8v3j+ZOyZB3",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SWISH",
-        "url": "https://open.spotify.com/album/0yIBwiuxmH7yAtIYBZFGbS"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 221665,
-      "name": "SWISH",
-      "url": "https://open.spotify.com/track/3yFGk28PqlcjYu7dxA2fTY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUN GOES DOWN",
         "url": "https://open.spotify.com/album/30jNiJYIOY3ok6LzaO0Wv0"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 168275,
       "name": "SUN GOES DOWN",
       "url": "https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SWISH",
+        "url": "https://open.spotify.com/album/0yIBwiuxmH7yAtIYBZFGbS"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 221665,
+      "name": "SWISH",
+      "url": "https://open.spotify.com/track/3yFGk28PqlcjYu7dxA2fTY"
     },
     {
       "added_at": null,

@@ -645,6 +645,28 @@
     },
     {
       "album": {
+        "name": "3SP3JOS",
+        "url": "https://open.spotify.com/album/6mZGT0M2yUByCTB6R4BYTz"
+      },
+      "artists": [
+        {
+          "name": "KYR4",
+          "url": "https://open.spotify.com/artist/1nm61H1nuw0QZ86AuH0wv2"
+        },
+        {
+          "name": "Vnder",
+          "url": "https://open.spotify.com/artist/0PRBVwG0LpcKJzvrP5oNRb"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178750,
+      "name": "3SP3JOS",
+      "url": "https://open.spotify.com/track/17yOvo4Ppe5b6HTJcs4sqj"
+    },
+    {
+      "album": {
         "name": "dile no a las drogas",
         "url": "https://open.spotify.com/album/3PVlBBFUToLZBOM9FCNn6Z"
       },
@@ -11130,28 +11152,6 @@
       "duration_ms": 177923,
       "name": "Espectacular",
       "url": "https://open.spotify.com/track/1zuY26Ll9TTcefOKMKxnJu"
-    },
-    {
-      "album": {
-        "name": "Espejos",
-        "url": "https://open.spotify.com/album/6mZGT0M2yUByCTB6R4BYTz"
-      },
-      "artists": [
-        {
-          "name": "KYR4",
-          "url": "https://open.spotify.com/artist/1nm61H1nuw0QZ86AuH0wv2"
-        },
-        {
-          "name": "Vnder",
-          "url": "https://open.spotify.com/artist/0PRBVwG0LpcKJzvrP5oNRb"
-        }
-      ],
-      "date_added": "2025-04-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 178750,
-      "name": "Espejos",
-      "url": "https://open.spotify.com/track/17yOvo4Ppe5b6HTJcs4sqj"
     },
     {
       "album": {
@@ -23872,6 +23872,24 @@
       "duration_ms": 166190,
       "name": "para volver",
       "url": "https://open.spotify.com/track/0KtebC55NXegDtOBC6GrQB"
+    },
+    {
+      "album": {
+        "name": "Party MJ",
+        "url": "https://open.spotify.com/album/6k0iCmB82Zp5C0t5un7j7R"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247346,
+      "name": "Party MJ",
+      "url": "https://open.spotify.com/track/6sm7XqRLVN6mhJ2xxoKO1B"
     },
     {
       "album": {

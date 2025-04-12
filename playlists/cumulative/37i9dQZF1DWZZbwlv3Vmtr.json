@@ -11220,7 +11220,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-08",
+      "date_removed": null,
       "duration_ms": 117028,
       "name": "Okazaki",
       "url": "https://open.spotify.com/track/18oMqdCWXJArEw8xhShvKl"
@@ -12678,7 +12678,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 145760,
       "name": "Pyramid Heat",
       "url": "https://open.spotify.com/track/7b09GgDHcFj9N2ZT1TEREZ"
@@ -13890,7 +13890,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-08",
+      "date_removed": null,
       "duration_ms": 134831,
       "name": "Seals",
       "url": "https://open.spotify.com/track/6hhDdAhtUbPkvPsLbp1KPP"
@@ -14052,7 +14052,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 144740,
       "name": "Serene",
       "url": "https://open.spotify.com/track/2y095NA9mFeb4qaSyXe4Uz"
@@ -15690,7 +15690,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 157500,
       "name": "String Lights",
       "url": "https://open.spotify.com/track/7jFZuxwCwaVmzAHaOfjKkF"
@@ -18846,6 +18846,24 @@
       "duration_ms": 151578,
       "name": "Winding Down",
       "url": "https://open.spotify.com/track/2d1rs0lIYPWQ26Z0S81fRY"
+    },
+    {
+      "album": {
+        "name": "Winding Paths",
+        "url": "https://open.spotify.com/album/0vhZxa3VnfDDfI6QN5rDh4"
+      },
+      "artists": [
+        {
+          "name": "grenedine",
+          "url": "https://open.spotify.com/artist/5Zl6z0uleWI3PhrBQFque1"
+        }
+      ],
+      "date_added": "2025-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137837,
+      "name": "Winding Paths",
+      "url": "https://open.spotify.com/track/2Zbx2FhSITYmBSGZ3oMxB1"
     },
     {
       "album": {

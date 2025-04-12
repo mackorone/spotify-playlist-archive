@@ -290,7 +290,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 1600000,
       "name": "Ganesh Mantra",
       "url": "https://open.spotify.com/track/16nKhvMOqdeGrYQF3vurog"
@@ -726,7 +726,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 1305000,
       "name": "Guruji Mantras",
       "url": "https://open.spotify.com/track/3QCYq6YkSlq8MlbZvJlbiB"
@@ -1776,7 +1776,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 344999,
       "name": "Om Chanting",
       "url": "https://open.spotify.com/track/5klNR4AlnRhWqP7vgqmWkB"
@@ -2012,6 +2012,28 @@
       "duration_ms": 764580,
       "name": "Om Namah Shivay 108 Times",
       "url": "https://open.spotify.com/track/0i5XJwIyF7IP1RBldqLBRm"
+    },
+    {
+      "album": {
+        "name": "Om Namah Shivay Chanting 108 Times",
+        "url": "https://open.spotify.com/album/7rf4Xz2c5f4IWEES3E40hn"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhiman",
+          "url": "https://open.spotify.com/artist/6cRb7fOsn2JbgHGpF0MLCJ"
+        },
+        {
+          "name": "TMC RECORDS",
+          "url": "https://open.spotify.com/artist/665d2SHOpLoWMeo5oqoGZV"
+        }
+      ],
+      "date_added": "2025-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373333,
+      "name": "Om Namah Shivay Chanting 108 Times",
+      "url": "https://open.spotify.com/track/5nXf3V0iA8FnxtqyuJYNO2"
     },
     {
       "album": {

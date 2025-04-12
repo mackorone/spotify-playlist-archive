@@ -1689,6 +1689,24 @@
     },
     {
       "album": {
+        "name": "First it was a movie, then it was a book",
+        "url": "https://open.spotify.com/album/1Rie4axh0gfYJhuN358run"
+      },
+      "artists": [
+        {
+          "name": "Florry",
+          "url": "https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410200,
+      "name": "First it was a movie, then it was a book",
+      "url": "https://open.spotify.com/track/7ExHIXcOVFpQ3LexAhjl3u"
+    },
+    {
+      "album": {
         "name": "Florida",
         "url": "https://open.spotify.com/album/5WE0uZelPKzwZdymyKsLf3"
       },

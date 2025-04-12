@@ -2,9 +2,9 @@
 
 ### [Indie Argentina](https://open.spotify.com/playlist/37i9dQZF1DWV8ttjhONFA1)
 
-> El nuevo sonido argentino lo encontrás acá\. Foto: Isla de Caras.
+> El nuevo sonido argentino lo encontrás acá\. Foto: Mica Sotera con Hipnótica.
 
-356 songs - 19 hr 27 min
+357 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Patagónicos](https://open.spotify.com/track/5NfH9COWPnpgquEWWnrvsr) | [Ine Güemes](https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR) | [Qué Nos Mantiene Despiertos](https://open.spotify.com/album/376DNPl0ELW1rNHzR2faxY) | 3:28 | 2024-02-23 | 2024-04-06 |
 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 | 2023-12-15 | 2024-06-01 |
 | [PELÍCULA](https://open.spotify.com/track/77A3xEknQEC8hPgGVnXycm) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [PELÍCULA](https://open.spotify.com/album/6lT06CuWfp72mTbXZsnN9L) | 2:58 | 2023-12-22 | 2024-04-27 |
+| [Película](https://open.spotify.com/track/3T0sR45JxRj7jJSl2JOsHR) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Hipnotica](https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY) | [Película](https://open.spotify.com/album/0tnJFppPcKm4N9Y9hmQjaR) | 3:17 | 2025-04-11 |  |
 | [Pensamientos Intrusivos](https://open.spotify.com/track/17KcNyZQ0tLSloefQFKskl) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Pensamientos Intrusivos](https://open.spotify.com/album/7hgxTp99yKwlzXDZgV6O8I) | 2:43 | 2024-08-23 |  |
 | [pensando en ti](https://open.spotify.com/track/3G6Mo5GUWdzPZdsmdU4juo) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [pensando en ti](https://open.spotify.com/album/6bLJ9EbgSDl3rksxqhQfg9) | 3:17 | 2023-12-15 | 2024-06-08 |
 | [Perdido En Ti](https://open.spotify.com/track/6n8rPrjpEcRfMlCzh3hif9) | [Joaquín Vitola](https://open.spotify.com/artist/4GHo23JMbtceTkGJdnEaXd) | [Perdido En Ti](https://open.spotify.com/album/7nxX89zp68duswD5BF5Bqn) | 3:08 | 2023-12-15 | 2024-03-02 |
@@ -358,7 +359,7 @@
 | [Vos y Yo :3](https://open.spotify.com/track/27PskjLeAML4aATbWz0b8g) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Vos y Yo :3](https://open.spotify.com/album/5Fqn9d8KrTFajcCOBcDi6i) | 3:13 | 2024-09-20 | 2025-02-22 |
 | [Vulnerable](https://open.spotify.com/track/4Smf2SlfBKvBztC7WLRIn3) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj) | [Vulnerable](https://open.spotify.com/album/1fLDwkdNXMFKjEdvI1rAap) | 3:58 | 2024-06-14 |  |
 | [Y vos decís que me gustás](https://open.spotify.com/track/39Zdm7as5HOcbIkvIQBqLD) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Y vos decís que me gustás](https://open.spotify.com/album/56CQFLi5i54v0mgfbzrV4q) | 2:33 | 2023-12-15 | 2024-03-02 |
-| [ya está, ya fue :\(](https://open.spotify.com/track/6VyAoyV8ZTH7LGCrrlfNoA) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [ya está, ya fue :\(](https://open.spotify.com/album/6fvSV5TC6POgSYhMvZAqkV) | 3:05 | 2024-05-31 |  |
+| [ya está, ya fue :\(](https://open.spotify.com/track/6VyAoyV8ZTH7LGCrrlfNoA) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [ya está, ya fue :\(](https://open.spotify.com/album/6fvSV5TC6POgSYhMvZAqkV) | 3:05 | 2024-05-31 | 2025-04-12 |
 | [Ya fue](https://open.spotify.com/track/1RsAoqvtT8Uqsg2HUejHeG) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Ya fue](https://open.spotify.com/album/3UAdbKKyU8bflHX2vlQcGf) | 3:06 | 2023-12-15 | 2024-02-17 |
 | [Ya no hay vuelta atrás](https://open.spotify.com/track/7tBb8BmoY8eEXL5qqUks5d) | [Tobias Indigo](https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc) | [Ya no hay vuelta atrás](https://open.spotify.com/album/7nyCuS7qmyufmpF6XVqwjy) | 3:07 | 2024-09-13 |  |
 | [Yanina](https://open.spotify.com/track/3ERN9saVeg8WeMe8m48Spd) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Yanina](https://open.spotify.com/album/0qdCj5u3smxdwDTMVUUhGZ) | 2:58 | 2025-02-21 |  |

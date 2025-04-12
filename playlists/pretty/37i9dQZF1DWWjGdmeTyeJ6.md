@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover artist: Raq baby, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,220,273 likes - 220 songs - 11 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,220,311 likes - 220 songs - 11 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

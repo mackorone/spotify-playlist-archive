@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/W4gAAAAACEl/pi6YKglwW0+YLDIekD",
+  "snapshot_id": "Z/cKAAAAAADqkvcHp+bHmPsPuR2qUr1o",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "breakup with a friend",
-        "url": "https://open.spotify.com/album/0CYC2EhUKwBOQzyroumu3i"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "breakup with a friend",
-      "url": "https://open.spotify.com/track/5jO40JD6eHrxuHnnhG676n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "emotional punching bag",
         "url": "https://open.spotify.com/album/2h8fMB5OeSth65ZiJl4ixZ"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 176030,
       "name": "Emotional Punching Bag",
       "url": "https://open.spotify.com/track/00mXO5pZSGrXQKyqkaI56b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "breakup with a friend",
+        "url": "https://open.spotify.com/album/0CYC2EhUKwBOQzyroumu3i"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "breakup with a friend",
+      "url": "https://open.spotify.com/track/5jO40JD6eHrxuHnnhG676n"
     },
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "...but i'd miss you too much!",
+        "url": "https://open.spotify.com/album/3vQxQx8nuRYjqUsImHbDmZ"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 178301,
+      "name": "...but i'd miss you too much!",
+      "url": "https://open.spotify.com/track/76T8rvbzcIj4vquvc8y9YI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nosebleeds: Encore",
         "url": "https://open.spotify.com/album/19BoWVjerUhTZXmTlVGCoJ"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 164213,
       "name": "Sideways (feat. Meg Smith)",
       "url": "https://open.spotify.com/track/5XnHGjcnDMw0KWe4lJzqSD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "...but i'd miss you too much!",
-        "url": "https://open.spotify.com/album/3vQxQx8nuRYjqUsImHbDmZ"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 178301,
-      "name": "...but i'd miss you too much!",
-      "url": "https://open.spotify.com/track/76T8rvbzcIj4vquvc8y9YI"
     },
     {
       "added_at": null,

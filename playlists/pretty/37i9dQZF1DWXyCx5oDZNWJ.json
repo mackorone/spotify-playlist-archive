@@ -1,15 +1,71 @@
 {
   "description": "<a href=\"spotify:artist:3CdsJ9u53uPu3dScKypLVv\">Shkoon</a>'s favorite tracks. Updated regularly. Curated by Shkoon. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 22149,
+  "num_followers": 22161,
   "original_name": "Shkoon's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7RNSQAAAACfNxQOE4IBewRvKWTC6iQr",
+  "snapshot_id": "Z/j4sAAAAABFWtantQToH4TQEJFIWOlZ",
   "tracks": [
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
+      "album": {
+        "name": "Souf",
+        "url": "https://open.spotify.com/album/1UaTYGyWIJz42vjz6g2JCo"
+      },
+      "artists": [
+        {
+          "name": "Shkoon",
+          "url": "https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Souf",
+      "url": "https://open.spotify.com/track/75dgthlOwHnf7uOmSbC6gL"
+    },
+    {
+      "added_at": "2025-04-11 11:10:40",
+      "album": {
+        "name": "My Own Game",
+        "url": "https://open.spotify.com/album/3jmfC10RYxScBCWYHjFQrh"
+      },
+      "artists": [
+        {
+          "name": "Juan Hansen",
+          "url": "https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo"
+        },
+        {
+          "name": "Agustin Giri",
+          "url": "https://open.spotify.com/artist/7zXtvsjXDrLakTsrs63fM5"
+        }
+      ],
+      "duration_ms": 385573,
+      "name": "Hurting",
+      "url": "https://open.spotify.com/track/39730nX3oMJ10wn23CoDp8"
+    },
+    {
+      "added_at": "2025-04-11 11:10:40",
+      "album": {
+        "name": "Dear Miami (Bedouin Remix)",
+        "url": "https://open.spotify.com/album/1mzwZuiUFLxqiGlv7IUywF"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        }
+      ],
+      "duration_ms": 218553,
+      "name": "Dear Miami - Bedouin Remix",
+      "url": "https://open.spotify.com/track/7kfnbvdDrAvYaxPmOFeP5Y"
+    },
+    {
+      "added_at": "2025-04-11 11:10:40",
       "album": {
         "name": "Jadal",
         "url": "https://open.spotify.com/album/7aYJLmJnVLvJgcYDsSRxia"
@@ -25,63 +81,47 @@
       "url": "https://open.spotify.com/track/2dEdNAcicTl5EUefwI87DW"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
       "album": {
-        "name": "Petra",
-        "url": "https://open.spotify.com/album/7vHZUsL4oS30KZ0eEU7zxi"
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/3jL6JX0ASVF3UX9P8mZQdV"
       },
       "artists": [
         {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
         },
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 224385,
-      "name": "Petra - TWO LANES Remix",
-      "url": "https://open.spotify.com/track/2k9FsDxf78jwCX3tqjroa2"
-    },
-    {
-      "added_at": "2025-02-14 12:36:46",
-      "album": {
-        "name": "On Top",
-        "url": "https://open.spotify.com/album/3dsiCnjA1Q2SqeepXdIKJL"
-      },
-      "artists": [
         {
           "name": "Nandu",
           "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
-        },
-        {
-          "name": "Deija Marie",
-          "url": "https://open.spotify.com/artist/3uUB094XkLI4gQsyGW5AEU"
         }
       ],
-      "duration_ms": 319270,
-      "name": "On Top",
-      "url": "https://open.spotify.com/track/5Wq9RKlH0ONcgSFSiV3aNq"
+      "duration_ms": 195733,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/5B4s1YdlPmrvw0ezwn4Dsb"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
       "album": {
-        "name": "Exploding Sunsets",
-        "url": "https://open.spotify.com/album/0dKYbFW71i5A0ceAYrJ2uX"
+        "name": "The Lights",
+        "url": "https://open.spotify.com/album/10Qhm229fWcDgAokH9aKc4"
       },
       "artists": [
         {
           "name": "Roman Kyn",
           "url": "https://open.spotify.com/artist/6Jb59eK1JvJ0i5EJSQH9oX"
+        },
+        {
+          "name": "Losless",
+          "url": "https://open.spotify.com/artist/2rnmC57D43ML3a2Ujc7tiP"
         }
       ],
-      "duration_ms": 324000,
-      "name": "Exploding Sunsets",
-      "url": "https://open.spotify.com/track/2SW5NVsGiodD4BktHxHmer"
+      "duration_ms": 232195,
+      "name": "The Lights - Radio Edit",
+      "url": "https://open.spotify.com/track/7cKRi7PH12YNUh4c2lze0f"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
       "album": {
         "name": "Masrahiya",
         "url": "https://open.spotify.com/album/0Sy0eUUS2mVktSYQMbO1Yj"
@@ -97,7 +137,7 @@
       "url": "https://open.spotify.com/track/0uRgsOhZ841f1JzaDoGeGD"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
       "album": {
         "name": "Light up my dark",
         "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
@@ -113,63 +153,51 @@
       "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
       "album": {
-        "name": "Bring It Back",
-        "url": "https://open.spotify.com/album/1cGeLMbKgiahLK6fiIswg5"
+        "name": "Ko-Kolo EP",
+        "url": "https://open.spotify.com/album/7uxNjyq12VuDODVbRsfPCt"
       },
       "artists": [
         {
-          "name": "Bora Uzer",
-          "url": "https://open.spotify.com/artist/71WhzQzCSYszOnrfCEbZge"
+          "name": "Cincity",
+          "url": "https://open.spotify.com/artist/2JTUg3LgzJsqxzNnPB9hen"
         },
         {
-          "name": "Sam Shure",
-          "url": "https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN"
+          "name": "Ntjam Rosie",
+          "url": "https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R"
         }
       ],
-      "duration_ms": 203225,
-      "name": "Bring It Back",
-      "url": "https://open.spotify.com/track/2H7BfJp5ojXhCdOMt161CR"
+      "duration_ms": 378682,
+      "name": "Ko-Kolo",
+      "url": "https://open.spotify.com/track/3oNm4cMGCQeig0LMsQQF69"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
       "album": {
-        "name": "Jukurpa",
-        "url": "https://open.spotify.com/album/4N9AfBFNczUeuRvaJvhQZS"
+        "name": "Bedside (Xinobi & AWEN Remix)",
+        "url": "https://open.spotify.com/album/44J3ViVHpWRuWGxOUjKsq4"
       },
       "artists": [
         {
-          "name": "Deer Jade",
-          "url": "https://open.spotify.com/artist/0QJ6lXlYOHexjfIg4CQrgv"
-        }
-      ],
-      "duration_ms": 178998,
-      "name": "Jukurpa",
-      "url": "https://open.spotify.com/track/2QoNSCfgounwEieEn1OUyE"
-    },
-    {
-      "added_at": "2025-02-14 12:36:46",
-      "album": {
-        "name": "Anchor Point EP",
-        "url": "https://open.spotify.com/album/1WmE8DAfRSq16Qre7SEV1V"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Spins",
-          "url": "https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV"
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
         },
         {
-          "name": "Lizwi",
-          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
+        },
+        {
+          "name": "AWEN",
+          "url": "https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl"
         }
       ],
-      "duration_ms": 328000,
-      "name": "Waves & Wavs",
-      "url": "https://open.spotify.com/track/1D7PE3dDyonJfUP6oSuaq7"
+      "duration_ms": 394644,
+      "name": "Bedside - Xinobi & AWEN Remix",
+      "url": "https://open.spotify.com/track/2JNGp6oca55GSho4jGhfTi"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
       "album": {
         "name": "Letters",
         "url": "https://open.spotify.com/album/5Rqz7SWCbh3bZ5ny8tN36t"
@@ -185,7 +213,7 @@
       "url": "https://open.spotify.com/track/4RbBged28sqmY0jsvwM7IL"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
       "album": {
         "name": "Amal (Mollono.Bass Remix)",
         "url": "https://open.spotify.com/album/7yFz1bovRhXYeX3qFhwRQK"
@@ -205,10 +233,34 @@
       "url": "https://open.spotify.com/track/1CpabHccrgVakxgECxUPB3"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
       "album": {
-        "name": "Temple Of Dreams (Remixes Part 1)",
-        "url": "https://open.spotify.com/album/50foag5P06HSWOkVrnZg33"
+        "name": "SIRENS",
+        "url": "https://open.spotify.com/album/2c024miAnDvDyoZg3PlKQK"
+      },
+      "artists": [
+        {
+          "name": "Matador",
+          "url": "https://open.spotify.com/artist/1UcYY5JDPe05nqjODiVkx1"
+        },
+        {
+          "name": "Eynka",
+          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
+        },
+        {
+          "name": "Tailor",
+          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
+        }
+      ],
+      "duration_ms": 239224,
+      "name": "SIRENS",
+      "url": "https://open.spotify.com/track/6UeKPEz9gwJspxaBghbDtP"
+    },
+    {
+      "added_at": "2025-04-11 11:10:40",
+      "album": {
+        "name": "Petra",
+        "url": "https://open.spotify.com/album/7vHZUsL4oS30KZ0eEU7zxi"
       },
       "artists": [
         {
@@ -216,16 +268,16 @@
           "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
         },
         {
-          "name": "Damian Lazarus",
-          "url": "https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv"
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
         }
       ],
-      "duration_ms": 211504,
-      "name": "Voices In My Head - Damian Lazarus Re-Shape",
-      "url": "https://open.spotify.com/track/1Kd7FtVfzyifBhsMi6MgVI"
+      "duration_ms": 224385,
+      "name": "Petra - TWO LANES Remix",
+      "url": "https://open.spotify.com/track/2k9FsDxf78jwCX3tqjroa2"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
       "album": {
         "name": "Fragments d'Alg\u00e9rie (Bande Originale du Podcast)",
         "url": "https://open.spotify.com/album/27BlNV4YTKDeuzDC5K1IWz"
@@ -241,7 +293,7 @@
       "url": "https://open.spotify.com/track/3QDO0iLOg4xZsfTNfTloAg"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
       "album": {
         "name": "Tataouine (Zigan Aldi Remix)",
         "url": "https://open.spotify.com/album/0msg4r8xC4ZktDXcLbWszU"
@@ -269,7 +321,7 @@
       "url": "https://open.spotify.com/track/70AFP8ncrtAl92uQVMNlXV"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
       "album": {
         "name": "Letters",
         "url": "https://open.spotify.com/album/5Rqz7SWCbh3bZ5ny8tN36t"
@@ -289,7 +341,7 @@
       "url": "https://open.spotify.com/track/5l4PuZcYTIpFPpzPdfdSlj"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
       "album": {
         "name": "Sahal\u00e9's Finest",
         "url": "https://open.spotify.com/album/3CVx2Z4Xt72FQnKJ3fuAxD"
@@ -305,7 +357,7 @@
       "url": "https://open.spotify.com/track/6pPNThBbW5KS1iyqNR83ZX"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
       "album": {
         "name": "Alek Shway (Javid Remix)",
         "url": "https://open.spotify.com/album/2HlekcNUmM5y35QNzkdDvX"
@@ -329,7 +381,7 @@
       "url": "https://open.spotify.com/track/13XtXwtnbVyTzm4fSmsFwT"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
       "album": {
         "name": "43 Katzen tanzen auf'm Tisch - Acidbogen (Pt. 1)",
         "url": "https://open.spotify.com/album/0mECGpBWS51eKu15I49xd0"
@@ -349,7 +401,7 @@
       "url": "https://open.spotify.com/track/5MLzrQ5MC1QElm7dUUWOsT"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
       "album": {
         "name": "KALAMANTINA / \u0643\u0644\u0645\u0646\u062a\u064a\u0646\u0627",
         "url": "https://open.spotify.com/album/1BIm2IAKdhs6BkqDgxzBz7"
@@ -369,7 +421,7 @@
       "url": "https://open.spotify.com/track/5bEEh0P4xEhglBFKb31vhw"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
       "album": {
         "name": "Ba'yeen Huna",
         "url": "https://open.spotify.com/album/0SLHU9u4awfXWCuXQn9fWS"
@@ -385,7 +437,7 @@
       "url": "https://open.spotify.com/track/4hZZrVwRf0chopHmMgFfaL"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
       "album": {
         "name": "Remotely Close: Silkyway",
         "url": "https://open.spotify.com/album/5nL5SYYGIFR9biH2Qb57Yw"
@@ -405,7 +457,7 @@
       "url": "https://open.spotify.com/track/0BXH0C0UGvO1n9mY05inan"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
       "album": {
         "name": "Ya Rayt (Shkoon Remix)",
         "url": "https://open.spotify.com/album/5aBPfggkU1oEEA36MJ3yEg"
@@ -425,7 +477,7 @@
       "url": "https://open.spotify.com/track/4dQkzZlY6SKoanDrWGv8WQ"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
       "album": {
         "name": "Erbil",
         "url": "https://open.spotify.com/album/12kpVIlrWxmOJV7wX4JL8M"
@@ -441,7 +493,7 @@
       "url": "https://open.spotify.com/track/3olSvXaXYvtMyQ5CJLsSbA"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
       "album": {
         "name": "Visions al 2ard",
         "url": "https://open.spotify.com/album/5s7h3f2ogMTfXPRZy1wace"
@@ -457,7 +509,7 @@
       "url": "https://open.spotify.com/track/7t68l9VAO2MeF9R6yosHYO"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
       "album": {
         "name": "Musique de F\u00ebte, Vol. 3 (KasbaH & Friends)",
         "url": "https://open.spotify.com/album/4ZhpMwY0hVacaDhJrrPrQf"
@@ -481,7 +533,7 @@
       "url": "https://open.spotify.com/track/741L8fsukEboae5vD0mDvh"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
       "album": {
         "name": "Masrahiya",
         "url": "https://open.spotify.com/album/0Sy0eUUS2mVktSYQMbO1Yj"
@@ -497,7 +549,7 @@
       "url": "https://open.spotify.com/track/442ztUfdWbJTVlSKCQE15B"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
       "album": {
         "name": "On",
         "url": "https://open.spotify.com/album/6AmmrlB9qABCgBdr8SCLZt"
@@ -513,7 +565,7 @@
       "url": "https://open.spotify.com/track/5QO3UJc1gF1ummP75n2b3R"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
       "album": {
         "name": "SPECTRE: Machines of Loving Grace",
         "url": "https://open.spotify.com/album/3b4c3BnVLXu77tGbbPItd3"
@@ -529,7 +581,7 @@
       "url": "https://open.spotify.com/track/6f2zMpXAhTqyhvqh9COyId"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
       "album": {
         "name": "Marhaba",
         "url": "https://open.spotify.com/album/7g5cShRnbgXW9xwQjKNFow"
@@ -549,7 +601,7 @@
       "url": "https://open.spotify.com/track/68tS8zt1kpPHxunJ7Xq4PI"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
       "album": {
         "name": "Masrahiya",
         "url": "https://open.spotify.com/album/0Sy0eUUS2mVktSYQMbO1Yj"
@@ -565,10 +617,10 @@
       "url": "https://open.spotify.com/track/25A44qjqVlHwfBBk0xRX7P"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
       "album": {
-        "name": "Minute by Minute",
-        "url": "https://open.spotify.com/album/2zQrGye52xr5lt6AKbFDcq"
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/09MQOD9JMDf6f1pWLap3By"
       },
       "artists": [
         {
@@ -576,12 +628,28 @@
           "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
         }
       ],
-      "duration_ms": 313697,
-      "name": "Minute by Minute",
-      "url": "https://open.spotify.com/track/3Zg98hOD3YAcmMmgylEfRu"
+      "duration_ms": 346786,
+      "name": "Changed For The Better",
+      "url": "https://open.spotify.com/track/7o9pKdBshFQuhu2oLMedaK"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
+      "album": {
+        "name": "Bell",
+        "url": "https://open.spotify.com/album/0qr1BVtDNgBGCHfMU0eko9"
+      },
+      "artists": [
+        {
+          "name": "Kerala Dust",
+          "url": "https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH"
+        }
+      ],
+      "duration_ms": 268768,
+      "name": "Bell",
+      "url": "https://open.spotify.com/track/37DObnoiSDWEjH6Izh5mhQ"
+    },
+    {
+      "added_at": "2025-04-11 11:10:40",
       "album": {
         "name": "Mindibu",
         "url": "https://open.spotify.com/album/37dEq8GDThnOucEkaAULcL"
@@ -597,7 +665,7 @@
       "url": "https://open.spotify.com/track/4dhE8eXUnkQGRN0sWJ6YCx"
     },
     {
-      "added_at": "2025-02-14 12:36:46",
+      "added_at": "2025-04-11 11:10:40",
       "album": {
         "name": "Street Breaks, Vol. 1",
         "url": "https://open.spotify.com/album/3ukRoUPikHsOoYR1aqG6vV"

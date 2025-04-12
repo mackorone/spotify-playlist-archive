@@ -1,29 +1,13 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 16356,
+  "num_followers": 16363,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/W4gAAAAAAiRk1CSX832kv29w1vHD9p",
+  "snapshot_id": "Z/cKAAAAAADGdTX1Kdu6r14AoeFEQdkg",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piel Azteca",
-        "url": "https://open.spotify.com/album/0zQpkq8x29yyopEtA5ownZ"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 115537,
-      "name": "Piel Azteca",
-      "url": "https://open.spotify.com/track/7wLHic0DluPeQslKdbgvYm"
-    },
     {
       "added_at": null,
       "album": {
@@ -355,6 +339,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bailar Contigo (feat. Mariachi Sol De Mexico De Jose Hernandez)",
+        "url": "https://open.spotify.com/album/7FfsjZ8fUGczsKen6ThyDV"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        },
+        {
+          "name": "Mariachi Sol De Mexico De Jose Hernandez",
+          "url": "https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG"
+        }
+      ],
+      "duration_ms": 225520,
+      "name": "Bailar Contigo (feat. Mariachi Sol De Mexico De Jose Hernandez)",
+      "url": "https://open.spotify.com/track/4qkhHNpS8k5U5Oq2rFoRbB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Beso",
         "url": "https://open.spotify.com/album/7g9R1E1UH8WlAjg4zV2xfi"
       },
@@ -383,30 +391,6 @@
       "duration_ms": 257640,
       "name": "C\u00f3mo Te Olvido",
       "url": "https://open.spotify.com/track/6apNNvYFcXv7pzVcTFKqpI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bailar Contigo (feat. Mariachi Sol De Mexico De Jose Hernandez)",
-        "url": "https://open.spotify.com/album/7FfsjZ8fUGczsKen6ThyDV"
-      },
-      "artists": [
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        },
-        {
-          "name": "Mariachi Sol De Mexico De Jose Hernandez",
-          "url": "https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG"
-        }
-      ],
-      "duration_ms": 225520,
-      "name": "Bailar Contigo (feat. Mariachi Sol De Mexico De Jose Hernandez)",
-      "url": "https://open.spotify.com/track/4qkhHNpS8k5U5Oq2rFoRbB"
     },
     {
       "added_at": null,
@@ -571,6 +555,22 @@
       "duration_ms": 187720,
       "name": "Nos Gan\u00f3 El Amor",
       "url": "https://open.spotify.com/track/4DFFXmo4Dj30hcVEm3IU0L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piel Azteca",
+        "url": "https://open.spotify.com/album/0zQpkq8x29yyopEtA5ownZ"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 115537,
+      "name": "Piel Azteca",
+      "url": "https://open.spotify.com/track/7wLHic0DluPeQslKdbgvYm"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quise Algo Bien",
-        "url": "https://open.spotify.com/album/3DLb8AydQEZnO45KGh5xcE"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 188906,
-      "name": "Quise Algo Bien",
-      "url": "https://open.spotify.com/track/4F7HyIU2dZQduMTGgIxds5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A\u00fan As\u00ed Te Vas",
         "url": "https://open.spotify.com/album/36lKTMRmTpeYxRrDa3M7CW"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 196960,
       "name": "A\u00fan As\u00ed Te Vas",
       "url": "https://open.spotify.com/track/0CCHkI9je8XDMd9T4hzxEP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quise Algo Bien",
+        "url": "https://open.spotify.com/album/3DLb8AydQEZnO45KGh5xcE"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 188906,
+      "name": "Quise Algo Bien",
+      "url": "https://open.spotify.com/track/4F7HyIU2dZQduMTGgIxds5"
     },
     {
       "added_at": null,

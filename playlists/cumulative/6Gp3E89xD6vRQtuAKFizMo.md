@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-425 songs - 20 hr 25 min
+426 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,6 +408,7 @@
 | [Wait For Me](https://open.spotify.com/track/1gTHSh2ZkRZ1EuS3OGEKfG) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [echod](https://open.spotify.com/artist/7CO8JKfeXoJEIGQKYmp84I) | [Lavender Dreams & Scarlet Nightmares](https://open.spotify.com/album/0GasuMeALUBC4Kk55XjgLP) | 2:49 | 2023-06-09 | 2023-12-14 |
 | [Wait For You \- Radio Edit](https://open.spotify.com/track/1Mge9Dsm61dHkXVQkLY2Es) | [aboywithabag](https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY) | [Wait For You](https://open.spotify.com/album/4oDhPuAO99SV2eccvGKO3w) | 2:51 | 2022-09-19 | 2023-03-18 |
 | [Waiting For The Day \(feat\. Kyle Reynolds\)](https://open.spotify.com/track/6VGqFX2ZOLbdhtOZXNXY2k) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [CORTR](https://open.spotify.com/artist/7tGnQKzE0tFRKKK7gf8cYV), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Waiting For The Day \(feat\. Kyle Reynolds\)](https://open.spotify.com/album/1yKCAwWiURqdUyA7yi7yHu) | 3:42 | 2022-07-08 | 2023-04-09 |
+| [Walk Away](https://open.spotify.com/track/6v0MkE83u8BmNTgorcN0Bg) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Walk Away](https://open.spotify.com/album/6SU0RYy52AlhbxmqrFLmgT) | 3:09 | 2025-04-11 |  |
 | [Want It](https://open.spotify.com/track/4enwReslov5NVsfyExJkTN) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG) | [Final Call](https://open.spotify.com/album/0wHj1mBDEGQVFbkjD7lXnk) | 2:15 | 2025-02-07 |  |
 | [Want Me](https://open.spotify.com/track/6pbORmr0B72zU8BkQEaYWx) | [TINYKVT](https://open.spotify.com/artist/0sWZs1jin3oOieFS6lXE5T) | [Want Me](https://open.spotify.com/album/5t9NkBha5xq2vHi4cEwV0y) | 3:06 | 2023-11-22 |  |
 | [Want Me Back \(feat\. Karl Boëthius\)](https://open.spotify.com/track/4T5txIj8NX26C5j6hb3Gi5) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Karl Boëthius](https://open.spotify.com/artist/0hLyLBaXRFkieljmWoYkIh) | [Want Me Back \(feat\. Karl Boëthius\)](https://open.spotify.com/album/1WtgdAm11KzOWkcKAGz46a) | 1:53 | 2024-01-12 |  |

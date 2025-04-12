@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Where your new favourite bands are discovered. Cover: Westside Cowboy",
+  "description": "Where your new favourite bands are discovered. Cover: Big Fear",
   "name": "Hot New Bands",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 146651,
       "name": "21st Century Suffragette",
       "url": "https://open.spotify.com/track/1g2T1BUfAh6U7aOioCiRIX"
+    },
+    {
+      "album": {
+        "name": "Adam & Steve",
+        "url": "https://open.spotify.com/album/7yV48nbPydSyv2xod1SQLe"
+      },
+      "artists": [
+        {
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150791,
+      "name": "Adam & Steve",
+      "url": "https://open.spotify.com/track/4sNK6e3OTZCW1jo4Lkkg6s"
     },
     {
       "album": {
@@ -304,7 +322,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 171789,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/5Og7LhaGMG7dx2dD9NWG7x"
@@ -707,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Depression Session",
+        "url": "https://open.spotify.com/album/6WO3E6fbIHMEFepGZCgSsl"
+      },
+      "artists": [
+        {
+          "name": "Mute The TV",
+          "url": "https://open.spotify.com/artist/5xSShn9Y4g3ZVbHk69cwVv"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207616,
+      "name": "Depression Session",
+      "url": "https://open.spotify.com/track/5lV7YcgN5DfrgYUMAZ1QuE"
+    },
+    {
+      "album": {
         "name": "dinny greet",
         "url": "https://open.spotify.com/album/4OTEThnooBoMB4l8BqWhto"
       },
@@ -941,6 +977,24 @@
     },
     {
       "album": {
+        "name": "Flink Pike",
+        "url": "https://open.spotify.com/album/53BDWgZ95h3taij0mOcR26"
+      },
+      "artists": [
+        {
+          "name": "Girl Group",
+          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173140,
+      "name": "Flink Pike",
+      "url": "https://open.spotify.com/track/1Iil2tX28N7tAAGxRrW8PL"
+    },
+    {
+      "album": {
         "name": "Fly Away",
         "url": "https://open.spotify.com/album/3OjsDq7R6vwPvfroafuqfs"
       },
@@ -1121,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "Ghost of a Tree",
+        "url": "https://open.spotify.com/album/7zCksuNtGa6vsdIVogDyHk"
+      },
+      "artists": [
+        {
+          "name": "Green Gardens",
+          "url": "https://open.spotify.com/artist/5EwUOG0SThYLLXclwy1PiO"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216428,
+      "name": "Ghost of a Tree",
+      "url": "https://open.spotify.com/track/7IHyQ7gsDMwhhFwXuKrk9n"
+    },
+    {
+      "album": {
         "name": "Glue",
         "url": "https://open.spotify.com/album/756HTjlhhotoXjG0egC407"
       },
@@ -1190,6 +1262,24 @@
       "duration_ms": 178826,
       "name": "Gone Girl",
       "url": "https://open.spotify.com/track/5bajgZvZb1x9OScsPAC1gB"
+    },
+    {
+      "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/1z7EEIao5ukfXy1Lqw2LQM"
+      },
+      "artists": [
+        {
+          "name": "Leeches",
+          "url": "https://open.spotify.com/artist/5ycybz5IZYIE7ERd1PGvlZ"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244740,
+      "name": "Green",
+      "url": "https://open.spotify.com/track/2P6zvAF2buwT5LrIyaBZpG"
     },
     {
       "album": {
@@ -1917,6 +2007,24 @@
     },
     {
       "album": {
+        "name": "Much Better",
+        "url": "https://open.spotify.com/album/4QemJPG8neALdVNSiSXApT"
+      },
+      "artists": [
+        {
+          "name": "My First Time",
+          "url": "https://open.spotify.com/artist/2YCAJa2kGotOZAe5lWC4D0"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159225,
+      "name": "Much Better",
+      "url": "https://open.spotify.com/track/2mMsxyKMwIkzSxxcoDlnNj"
+    },
+    {
+      "album": {
         "name": "Shores I'm Swimming In",
         "url": "https://open.spotify.com/album/3HwqCM8BE1BsRzVTuphT09"
       },
@@ -2223,6 +2331,24 @@
     },
     {
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/43e8cs35ILaJjlDtj8H44z"
+      },
+      "artists": [
+        {
+          "name": "Sunday (1994)",
+          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260624,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/5ji0TlbJHbHkbNrr6hoi0n"
+    },
+    {
+      "album": {
         "name": "Connla's Well",
         "url": "https://open.spotify.com/album/59lxNUUwxzNmeB4dkqQExa"
       },
@@ -2364,6 +2490,24 @@
       "duration_ms": 194826,
       "name": "Sickner",
       "url": "https://open.spotify.com/track/53qusT03Me6Z7NbruE34EK"
+    },
+    {
+      "album": {
+        "name": "Sisyphus",
+        "url": "https://open.spotify.com/album/5pOMyIr3PnvFEC2hq3O0Yz"
+      },
+      "artists": [
+        {
+          "name": "Big Fear",
+          "url": "https://open.spotify.com/artist/0rB1OW3G0q3Dfy5fVWF6mS"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194520,
+      "name": "Sisyphus",
+      "url": "https://open.spotify.com/track/3Hcd9r6HVXQAV0vYBIo1ea"
     },
     {
       "album": {
@@ -2943,6 +3087,24 @@
     },
     {
       "album": {
+        "name": "Undefeated",
+        "url": "https://open.spotify.com/album/4rlS0DAXAfNrNlFtPMySMD"
+      },
+      "artists": [
+        {
+          "name": "Sandhouse",
+          "url": "https://open.spotify.com/artist/52MaMxgeAkCxISb1tZuDyq"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163313,
+      "name": "Undefeated",
+      "url": "https://open.spotify.com/track/2Z6QeHgOk17KRXsODxiGuP"
+    },
+    {
+      "album": {
         "name": "Under The Table",
         "url": "https://open.spotify.com/album/3VQZlED22fi0QsJwVj3WfW"
       },
@@ -3134,7 +3296,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 195363,
       "name": "Yay! Saturday",
       "url": "https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE"

@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Scoot Teasley, Artwork: Fanélie Muselier
 
-3,043 songs - 6 day 20 hr 47 min
+3,046 songs - 6 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1088,6 +1088,7 @@
 | [Harlan Road](https://open.spotify.com/track/3ezD3oqVE7DgmYJBvSh6lk) | [Lathan Bryant](https://open.spotify.com/artist/19kwPHar3aRaydbCozFr5d) | [Harlan Road](https://open.spotify.com/album/5AU9A7bbVLnHLVPVxdlRpO) | 3:18 | 2024-05-08 | 2024-06-01 |
 | [Hasta Mañana](https://open.spotify.com/track/6KWyCQQx4Du8RlVVNF9Dac) | [MŌRIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Hasta Mañana](https://open.spotify.com/album/5HMLoAqRFj4S2iTVgteJ8t) | 2:58 | 2024-10-09 | 2024-12-05 |
 | [Hate Hate Hate](https://open.spotify.com/track/0scLx5J7ckwdhuPIRZgN3P) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [Fantasy Island](https://open.spotify.com/album/30jLEnJpFOR8NQzDLn2rbc) | 3:19 | 2023-03-08 | 2023-04-13 |
+| [Hate It Here](https://open.spotify.com/track/2bSLu4UQMSvrk0mSh16sfm) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Hate It Here](https://open.spotify.com/album/5vqhBz2fXqLrmgItS4hXVF) | 3:23 | 2025-04-11 |  |
 | [Hate Me in My Hometown](https://open.spotify.com/track/2hLrxME49F4Bs8YXZCWeNQ) | [Chris Colston](https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz) | [Hate Me in My Hometown](https://open.spotify.com/album/1BDMoSPpGYgRLzZq0t2I84) | 3:25 | 2022-04-13 | 2022-05-26 |
 | [Hate Me Later](https://open.spotify.com/track/1WaVz8AGuQg6R6n5JaphcK) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Hate Me Later](https://open.spotify.com/album/3oXCWLtLhD8AnU9YfiM27G) | 3:22 | 2023-10-25 | 2023-11-30 |
 | [Hate That I Can't Hate You](https://open.spotify.com/track/1cXFk2SXuq42KpOPlewq4Y) | [Jacklyn Wills](https://open.spotify.com/artist/6KOOYcqJ1woWyu5t5uA8uy) | [Hate That I Can't Hate You](https://open.spotify.com/album/68HQT1dbqxVNkmYx7h8rxJ) | 2:37 | 2024-02-14 | 2024-02-29 |
@@ -2369,6 +2370,7 @@
 | [Someone Else's Heartbreak](https://open.spotify.com/track/4EKvXD76hhYuKAXWokpyRB) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Someone Else's Heartbreak](https://open.spotify.com/album/3xccw93KgxWuesYmkkJsLp) | 3:35 | 2023-02-15 | 2023-03-02 |
 | [Someone Else's Radio](https://open.spotify.com/track/4RGcCaJPeBIxmD8nWm7vV1) | [Sarahbeth Taite](https://open.spotify.com/artist/6iCtgvVXPJTVGGUfVzztN0) | [For My Own Good](https://open.spotify.com/album/42zUazIJf9BUVdN66V0Bx3) | 2:55 | 2022-06-29 | 2022-07-28 |
 | [Someone Else's Summer](https://open.spotify.com/track/1SSvnCarZO6eREnP2VapzT) | [Brian Fuller](https://open.spotify.com/artist/6ZjMXOSg14nfZFUDJ6mQRo) | [Someone Else's Summer](https://open.spotify.com/album/15lmGrP8WTUz7Q7fGNAF6Z) | 3:10 | 2024-07-10 | 2025-01-16 |
+| [someone like you](https://open.spotify.com/track/3TaZ3E8zcdgiitUqGSgDyP) | [Adrian Mitchell](https://open.spotify.com/artist/7I6ztG3iIJOwFB6mOi9T8y) | [someone like you](https://open.spotify.com/album/4XJxv603e4hLwxUWPwByun) | 3:37 | 2025-04-11 |  |
 | [Someone Who Comes Back](https://open.spotify.com/track/7dBSPFCDPyeplM87Hrxdk3) | [Amanda Jordan](https://open.spotify.com/artist/5UzX8YYER6nwjEoJjt6QCv) | [Someone Who Comes Back](https://open.spotify.com/album/7b3ogJHvrUyRwjiqaCNvIB) | 3:09 | 2025-01-29 | 2025-03-20 |
 | [Someone Who Does](https://open.spotify.com/track/7AKOvj3uqBTbnSfReH1n2P) | [Randall Fowler](https://open.spotify.com/artist/3vwAMZ5P3yBifpoq371QB0) | [Someone Who Does](https://open.spotify.com/album/6q9d5Xsm9cv5O64Kh4WsEw) | 3:13 | 2022-06-08 | 2022-07-21 |
 | [Someone You Knew](https://open.spotify.com/track/0VfwL5bd5IE2IZh6ORuAaf) | [Tayler Holder](https://open.spotify.com/artist/5Hz3IW691fbgGqLk4yvlNN) | [Someone You Knew](https://open.spotify.com/album/1wkxU7crpUIbkXz9hjF8rx) | 3:15 | 2023-10-04 | 2023-11-30 |
@@ -2526,6 +2528,7 @@
 | [Tell Me No](https://open.spotify.com/track/1bLgR9qsPhTPtR2a7siBVw) | [Troy Ramey](https://open.spotify.com/artist/1Uxi0A4WHWH93Fyi0gWHEF) | [Tell Me No](https://open.spotify.com/album/2kgnHudCJ80bbpYCTJfokn) | 3:23 | 2024-07-31 | 2024-10-10 |
 | [Tell Me Something I Don't Know](https://open.spotify.com/track/4uxESUBbwGaNTaVeZhVYQZ) | [Makenzie Schriner](https://open.spotify.com/artist/5Z9ZOYc8dwjeD054CUqbBu) | [Tell Me Something I Don't Know](https://open.spotify.com/album/3QquxgXVV0cpGOJVKj2xgE) | 3:25 | 2022-02-16 | 2022-03-31 |
 | [Tell Me Twice](https://open.spotify.com/track/68fFVpUfXAoREXKumXM4jp) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Tell Me Twice](https://open.spotify.com/album/0sC1yKrihueJ1Uh4XoDVGa) | 2:34 | 2022-08-03 | 2022-09-15 |
+| [Tell Me Why](https://open.spotify.com/track/6I6RTCNLWEtstBAc9A3Fin) | [Danny Worsnop](https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW) | [Tell Me Why](https://open.spotify.com/album/2sBcoEEW3X9UJLPKoyWx7l) | 3:06 | 2025-04-11 |  |
 | [Tell Your Mama Hi](https://open.spotify.com/track/1SwpfwNCw4WwyoFTWew0Vz) | [American Blonde](https://open.spotify.com/artist/39YDuE2oHcTxsAKLncyenN) | [Tell Your Mama Hi](https://open.spotify.com/album/3aFUWfXIFxsZf52X7xcFpD) | 3:54 | 2022-04-13 | 2022-05-26 |
 | [Tell Yourself](https://open.spotify.com/track/0a6trIYsKWfrpvpzYzXfsp) | [PJ North](https://open.spotify.com/artist/6NWptU8WArewy8NBT9JN7B) | [Tell Yourself](https://open.spotify.com/album/2J6UGyiJLZkmzqkJAyTuBR) | 3:31 | 2022-03-02 | 2022-04-14 |
 | [Tellin' On You](https://open.spotify.com/track/1J0APEDa6gfjPnGmFqwZzK) | [Brian Fuller](https://open.spotify.com/artist/6ZjMXOSg14nfZFUDJ6mQRo) | [Tellin' On You](https://open.spotify.com/album/2OqHnuLLii5wrbzuOeefkT) | 3:00 | 2024-01-10 | 2024-02-01 |

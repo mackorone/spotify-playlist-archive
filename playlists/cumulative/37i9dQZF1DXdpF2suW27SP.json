@@ -9777,6 +9777,28 @@
     },
     {
       "album": {
+        "name": "No Beef",
+        "url": "https://open.spotify.com/album/6kTeS8xAgLkiBZm6EsBFAB"
+      },
+      "artists": [
+        {
+          "name": "Zt35",
+          "url": "https://open.spotify.com/artist/4yEpDApCiftRugkpN2sOVM"
+        },
+        {
+          "name": "BDK",
+          "url": "https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134543,
+      "name": "No Beef",
+      "url": "https://open.spotify.com/track/4KQE4L9Sud7tDrZCUJVkvb"
+    },
+    {
+      "album": {
         "name": "No Credit",
         "url": "https://open.spotify.com/album/5FgAarbMoX0uQHw4k15hAC"
       },

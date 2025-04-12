@@ -1,6 +1,6 @@
 {
   "description": "De nieuwste pop songs. Cover: MAKSIM",
-  "num_followers": 97894,
+  "num_followers": 97942,
   "original_name": "Fresh Pop",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,26 @@
   },
   "snapshot_id": "Z/g/cwAAAACaRsGNXWZlgiIQ1sYgvsqu",
   "tracks": [
+    {
+      "added_at": "2025-04-10 22:00:19",
+      "album": {
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 156721,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
+    },
     {
       "added_at": "2025-04-10 22:00:19",
       "album": {

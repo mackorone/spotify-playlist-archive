@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 
 ### [RKT  & Turreo](https://open.spotify.com/playlist/37i9dQZF1DWXqChmcHvVBA)
 
-> 📸 La Joaqui.
+> 📸 Teo LB & L\-Gante.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,042 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,101 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Abanico y Antifaz](https://open.spotify.com/track/2U4Qy5EMzFAw0OjC9Ksnnv) | [Chocolate Remix](https://open.spotify.com/artist/4kkuyWmpashrooyOFvHX2m) | [Abanico y Antifaz](https://open.spotify.com/album/7BxyhUuhoiox6Mj6JA4ADf) | 3:15 |
+| 1 | [Turro Nea](https://open.spotify.com/track/7qz3H6yJ5u2fADTjOh7LiT) | [Teo LB](https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Turro Nea](https://open.spotify.com/album/0w7ZYIY4BZc9Xp5dnsENcA) | 2:58 |
 | 2 | [BANDIDAS RETIRADAS](https://open.spotify.com/track/2kjtg7XGjcCTBVXqwPFuZN) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [BANDIDAS RETIRADAS](https://open.spotify.com/album/7IgDo7yCiC4lgBqIn4LORd) | 2:26 |
 | 3 | [TIKTOK \(feat\. Gusty dj\) \- Remix](https://open.spotify.com/track/6L8ifq5g2RDbjdSYiwOF2q) | [Ian Lucas](https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik), [Fede Vigevani](https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [TIKTOK \(feat\. Gusty dj\) \[Remix\]](https://open.spotify.com/album/4F8yon7oulloHMYTbVZO0A) | 2:55 |
 | 4 | [PONTE PERRO \| Mission 22](https://open.spotify.com/track/3IONa7nPD5WXVVfAYs08HK) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [PONTE PERRO \| Mission 22](https://open.spotify.com/album/4kFZ9gbcy005CCVRhHpKO4) | 2:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 | 99 | [Ubicacion 5 Saquense la Ropa](https://open.spotify.com/track/4EssJyOx8862eIHQxn6XS1) | [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv), [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb) | [Ubicacion 5 Saquense la Ropa](https://open.spotify.com/album/15oeQdBMy60Hc8ho85eLhG) | 2:33 |
 | 100 | [3 En 1](https://open.spotify.com/track/5HIzCGqvXKVnyziWxL8nL1) | [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [3 En 1](https://open.spotify.com/album/4TNhFTPaETNcoxCEeqvcoP) | 3:05 |
 
-Snapshot ID: `Z+YQvwAAAAD8Zd0xyfnIzSbSaOVc412u`
+Snapshot ID: `Z/iFtQAAAACr9Ff3gTDouxlhQYjnmGJ4`

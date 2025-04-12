@@ -2,9 +2,9 @@
 
 ### [Ghaint Flow](https://open.spotify.com/playlist/37i9dQZF1DX5OWRwJruafQ)
 
-> Keep it Punjabi, Keep it Real\. Cover: Jassa Dhillon
+> Keep it Punjabi, keep it real\. Cover: Jassa Dhillon
 
-592 songs - 1 day 4 hr 22 min
+593 songs - 1 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [Love Hurts](https://open.spotify.com/track/3iyxOE7ZrxMCVMNzFkWtZY) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Love Hurts](https://open.spotify.com/album/5Tmdgf9queNWN4lqQnvqr7) | 3:24 | 2024-10-04 |  |
 | [Lucifer](https://open.spotify.com/track/38RA9VH12NmpiVBamNJtSy) | [Fateh Shergill](https://open.spotify.com/artist/5RrNdku9cK7VRbaOxGPsPb), [Mr\. Rubal](https://open.spotify.com/artist/36UOJCmUrSwImCKV47F3Iy) | [Lucifer](https://open.spotify.com/album/6CYRc3WOonWttx4O1VJh1q) | 3:13 | 2023-08-28 | 2023-10-07 |
 | [M1911](https://open.spotify.com/track/0r5lpL34oxVDKg8aFRueU6) | [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [Mann Music](https://open.spotify.com/artist/7Itevk2MnbkjY8KqHyNhI7), [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj) | [M1911](https://open.spotify.com/album/6B2XyOETt9hTC6UJK9DPdT) | 2:35 | 2023-08-16 | 2023-10-05 |
+| [M9](https://open.spotify.com/track/5SOT3flWOUBxw2Ieso43Zp) | [Angad Aliwal](https://open.spotify.com/artist/5aT1z6vnIsnwgpl26WXq4A), [Archie Muzik](https://open.spotify.com/artist/2dcNgbwIYrKSohxZZQZ7Kk) | [M9](https://open.spotify.com/album/5mPVMaXvIoWPhjVDDz3SnX) | 2:34 | 2025-04-11 |  |
 | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/track/6zWZp7gpqXuY5Fb4HXhb9C) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/album/0tiQGJvtfSDtqGURqSU2e3) | 2:33 | 2023-03-29 | 2023-04-09 |
 | [Main Bandey](https://open.spotify.com/track/1GgQk7wSLTalLVZfivdiHo) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Main Bandey](https://open.spotify.com/album/1gjsHHeXtPmFg55MwzONLV) | 2:17 | 2024-04-12 | 2024-04-24 |
 | [Mainstream](https://open.spotify.com/track/5NVKb40uUdjWbo8TINPtWU) | [NADAR](https://open.spotify.com/artist/1Bgk62DL2Mc8CthtepdVBr), [DaBrown](https://open.spotify.com/artist/4xAjp5uHf1HTQnXMGPZEMC) | [Mainstream](https://open.spotify.com/album/3V47YjpWRzCma2P0jFB1Cm) | 2:52 | 2024-01-24 | 2024-02-14 |
@@ -430,7 +431,7 @@
 | [Pind Da Riwaaz](https://open.spotify.com/track/0OvC1QkWdBI3ORrp2lEhNO) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Azaad](https://open.spotify.com/artist/21wSW3l3ykp9cMOkbfMbQo) | [Keep It Gangsta](https://open.spotify.com/album/2yLZX2MHdXJK8nyFUmFGvW) | 3:08 | 2023-03-29 | 2023-07-28 |
 | [Pind Pehra](https://open.spotify.com/track/79wtSYxeg5ACV5afy4KRpB) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [By Any Means](https://open.spotify.com/album/4Gn0Jhsoq3Q0a5TtoSb35D) | 2:58 | 2025-03-28 |  |
 | [Pinda Aale](https://open.spotify.com/track/34uGihf7olNByEcHPVGbsV) | [G\. Sidhu](https://open.spotify.com/artist/1cqZQSRjE8Bl0PABOkVU9c), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5) | [Pinda Aale](https://open.spotify.com/album/2TzKRe27dDLz2RdeG7Ikme) | 2:33 | 2023-04-18 | 2023-04-21 |
-| [Pindaan Wale Jatt \- Ninja](https://open.spotify.com/track/5cSmrLHBMsEOo6aIkLbjKT) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT) | [Pindaan Wale Jatt \(Ninja\)](https://open.spotify.com/album/3YlOKBrrHYhHpONpygnHV9) | 4:04 | 2025-03-19 |  |
+| [Pindaan Wale Jatt \- Ninja](https://open.spotify.com/track/5cSmrLHBMsEOo6aIkLbjKT) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT) | [Pindaan Wale Jatt \(Ninja\)](https://open.spotify.com/album/3YlOKBrrHYhHpONpygnHV9) | 4:04 | 2025-03-19 | 2025-04-12 |
 | [Pindan Aale](https://open.spotify.com/track/5CyXssn2W8QqeXolleUepo) | [Ekam Chanoli](https://open.spotify.com/artist/2RR7qfIt6G3IOX0yp50aik), [Ruby Chatha](https://open.spotify.com/artist/0FtxhV7S1fH5nB7aQXLNiN), [IRIS Music](https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q) | [Pindan Aale](https://open.spotify.com/album/7cw7zQh0pg48ooMQicWvrX) | 4:12 | 2024-08-12 | 2024-08-21 |
 | [PMCM](https://open.spotify.com/track/120E9faVdT9sp4t8QIGZoo) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [PMCM](https://open.spotify.com/album/370ByUPt1uNGn2erT5vYdd) | 2:58 | 2024-07-03 | 2024-07-10 |
 | [PO](https://open.spotify.com/track/1W6r5thD9Tadno47turNR0) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Straight Bank](https://open.spotify.com/artist/6MmvoeQxFPr8VWERxYdE5f) | [PO](https://open.spotify.com/album/3dDTeOeKChpAltxDRciLXD) | 3:35 | 2023-09-06 | 2024-08-22 |

@@ -1991,6 +1991,28 @@
     },
     {
       "album": {
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156721,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/01tkNiiy4FwDYTOSU4Bu9W"
       },
@@ -4578,6 +4600,24 @@
       "duration_ms": 233181,
       "name": "Ge\u00e7meyen Yaralar",
       "url": "https://open.spotify.com/track/428yh644LNmZXcVJxH6QRF"
+    },
+    {
+      "album": {
+        "name": "Ge\u00e7mi\u015fe G\u00f6md\u00fcm Ac\u0131lar\u0131m\u0131",
+        "url": "https://open.spotify.com/album/3H68tl3VLomu5EUOOxksKH"
+      },
+      "artists": [
+        {
+          "name": "DEMET ELLOO",
+          "url": "https://open.spotify.com/artist/4KscXPzH57nCckPGRKLY6F"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171515,
+      "name": "Ge\u00e7mi\u015fe G\u00f6md\u00fcm Ac\u0131lar\u0131m\u0131",
+      "url": "https://open.spotify.com/track/0KHSpu0uCtTlLRKAnKFa7Q"
     },
     {
       "album": {
@@ -7537,7 +7577,7 @@
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 180550,
+      "duration_ms": 181448,
       "name": "Legends (with Lil Baby)",
       "url": "https://open.spotify.com/track/4LRxmoIbLJDcvEhqFgSF29"
     },
@@ -8471,7 +8511,7 @@
     },
     {
       "album": {
-        "name": "Nas\u0131l Bakacaks\u0131n?",
+        "name": "Nas\u0131l Bakacakt\u0131n?",
         "url": "https://open.spotify.com/album/1fLE4UnZgzaS5kfFXq2yKU"
       },
       "artists": [
@@ -8484,7 +8524,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 129836,
-      "name": "Nas\u0131l Bakacaks\u0131n?",
+      "name": "Nas\u0131l Bakacakt\u0131n?",
       "url": "https://open.spotify.com/track/60UqAFKheZvVMxE5wvpR37"
     },
     {
@@ -9748,12 +9788,12 @@
           "url": "https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf"
         },
         {
-          "name": "Avie",
-          "url": "https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i"
-        },
-        {
           "name": "Batuflex",
           "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        },
+        {
+          "name": "Avie",
+          "url": "https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i"
         }
       ],
       "date_added": "2025-04-10",
@@ -11826,7 +11866,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 173445,
       "name": "TOUCH\u00c9",
       "url": "https://open.spotify.com/track/0hQqfUxxTVwYW172Ble1oD"

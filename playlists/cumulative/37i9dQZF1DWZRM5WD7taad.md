@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Hispana en Portada
 
-364 songs - 18 hr 9 min
+365 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [WOW](https://open.spotify.com/track/4I9U5XBHs37jV9pRo3VLTa) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [WOW](https://open.spotify.com/album/22eepM8FdWx13R7aGAO1gH) | 2:51 | 2021-12-13 | 2023-07-01 |
 | [YASÉ](https://open.spotify.com/track/5Y9Ykmo9XOhM5fdHTVPPTH) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [YASÉ](https://open.spotify.com/album/7rRMfbcp3OlgxYA2QGHNNo) | 3:20 | 2021-12-13 | 2023-07-01 |
 | [Yo Aprendi](https://open.spotify.com/track/0GgamUsKuvYz3gv8k4uTuI) | [Danay Suárez](https://open.spotify.com/artist/2bMCqLC25iBaqp2gDYEgDT) | [Polvo De La Humedad](https://open.spotify.com/album/7pxFxYIDIvoDg6eYZbtbTS) | 3:12 | 2021-12-13 | 2023-10-28 |
+| [Yo No Soy](https://open.spotify.com/track/6OY8DC8OJN1qtZR6HGaMmC) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Yo No Soy](https://open.spotify.com/album/6LUFu6sJ1QVNVDpmy2yWOn) | 2:34 | 2025-04-10 |  |
 | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo) | 3:07 | 2024-01-12 |  |
 | [ZAZA](https://open.spotify.com/track/66RGE8Et3bZadgVbSbJ0vX) | [Red 6xteen](https://open.spotify.com/artist/0CBib0Hd5BqqwNdwUzNPyk) | [ZAZA](https://open.spotify.com/album/39lEOuKAujltMiZ2QcguWj) | 2:33 | 2021-12-13 | 2023-07-01 |
 | [¿Algo Que Decir?](https://open.spotify.com/track/57eaJ15ZJpAfefBpANiw5C) | [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j), [Tatiana Gomez Rap](https://open.spotify.com/artist/0Bwdg8Wfolta9Eum4FQGVI), [Eddy Mugre](https://open.spotify.com/artist/4Jj53RUvud8LQYuM3cPh25), [Arion](https://open.spotify.com/artist/1KNW0yA92QHGP5wyLXvT2c) | [¿Algo Que Decir?](https://open.spotify.com/album/3ESxHrgjrVxQAWxZKPn78a) | 2:23 | 2024-08-23 |  |

@@ -4,7 +4,7 @@
 
 > For parents and kids of all ages, add some Disney Magic to bedtime routines with soothing and relaxing renditions of timeless Disney music from Frozen, Winnie the Pooh and more.
 
-224 songs - 11 hr 17 min
+225 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [All Of You](https://open.spotify.com/track/34DdtKtJn9YaahjFCof7Dy) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Peace](https://open.spotify.com/album/7EKmT5c5WdYPLfwm8x8CRb) | 4:51 | 2022-04-15 |  |
 | [All the Pretty Little Horses](https://open.spotify.com/track/3Hh0gTu2vEWpX6Fzshi8Gl) | [Jackie Cusic](https://open.spotify.com/artist/6uANe2zVTu4iieBxdMpq6t) | [Disney Baby Lullaby](https://open.spotify.com/album/49OMKZqjoE2rQkDR0SrQ6A) | 1:59 | 2022-05-23 |  |
 | [Almost There \- Orgel Version](https://open.spotify.com/track/0Zw8yGMFK5Kxy4zwYN6ek6) | [Disney Orgel](https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8) | [Disney Orgel/Oyasumi BGM Vol\. 2](https://open.spotify.com/album/0iswLGj4W2QE1ou9vK7Mqn) | 4:18 | 2024-03-19 |  |
+| [Arrival of the Birds](https://open.spotify.com/track/0Gr2XQOIMaaUH86iOrWGur) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [London Metropolitan Orchestra](https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4) | [The Crimson Wing: Mystery of the Flamingos \(Original Soundtrack\)](https://open.spotify.com/album/1XkXmvhIZzIZDIg70zaLMW) | 2:37 | 2025-04-11 |  |
 | [At All Costs](https://open.spotify.com/track/1233MOKLpbc9qjNN31vpl4) | [Chris Pine](https://open.spotify.com/artist/5ueYs7bR3niiOeZdOSge5e), [Ariana DeBose](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Wish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao) | 3:18 | 2024-03-27 |  |
 | [Baby Mine](https://open.spotify.com/track/4BU9s6QLGFCaxlgaPWWuFY) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Lullaby](https://open.spotify.com/album/3TRzs2Bn8dm6oHqt2LpR6z) | 2:46 | 2022-04-15 |  |
 | [Baby Mine](https://open.spotify.com/track/1ToMbKFFrzMqVIfa6g1Es1) | [Disney Peaceful Strings](https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0) | [Disney Peaceful Strings: Classics](https://open.spotify.com/album/5lUEkLzLPl4CBvZeZWSxb2) | 2:05 | 2023-01-03 |  |

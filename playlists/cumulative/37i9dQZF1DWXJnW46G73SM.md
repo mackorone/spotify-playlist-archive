@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف:زامباهولا \- شارموفرز و أكرم حسني
 
-1,418 songs - 3 day 7 hr 10 min
+1,420 songs - 3 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,6 +349,7 @@
 | [Fi kteer Helween](https://open.spotify.com/track/3KPWu8HQtC0tjLPP3wOSXQ) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Fi kteer Helween](https://open.spotify.com/album/0iyo4Rdmz1BJK80ADyfXk0) | 2:46 | 2023-06-20 | 2023-07-21 |
 | [Fi Nafs ElMa’ad](https://open.spotify.com/track/30n7cwqhY9OZQipsbEJKHi) | [Nesma Mahgoub](https://open.spotify.com/artist/68J05BuI8JQSdEwIyuBBVI) | [Fi Nafs ElMa’ad](https://open.spotify.com/album/0WV7jZoy7otqVCnczMyLpF) | 4:13 | 2025-01-30 | 2025-03-05 |
 | [Fi Zeroof Tanya](https://open.spotify.com/track/5efRgvpDUMrX2ivUimYPcJ) | [Nouran AbuTaleb](https://open.spotify.com/artist/0b8NJrWFSqne10bMREfuQh) | [Fi Zeroof Tanya](https://open.spotify.com/album/1T0slUpWgsXe7i5yzNdLf0) | 3:19 | 2023-02-16 | 2023-04-21 |
+| [Fl Blacona](https://open.spotify.com/track/3jkBcbYVToYSqPcnsuxcF8) | [Sandy](https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5) | [Fl Blacona](https://open.spotify.com/album/3bD7mAr7GvAIoBLuucpNVV) | 2:29 | 2025-04-10 |  |
 | [FOKAK MENI](https://open.spotify.com/track/56ohyUS0aLJpk10OQhleUD) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [FOKAK MENI](https://open.spotify.com/album/73HNyxz2RUUZrqCyOZHW32) | 1:53 | 2024-01-16 | 2024-02-14 |
 | [Foo2 \(Msh Ader\)](https://open.spotify.com/track/7MgPRf43cYhSew3YVs5nZe) | [Medhat Saleh](https://open.spotify.com/artist/7z2djNV3tKrdEsotTv8KH0), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Red Bull Sika](https://open.spotify.com/album/0BxpaQj4r3T9Pv0DOI7iGL) | 3:39 | 2024-01-23 | 2024-02-17 |
 | [Forsa Kaman](https://open.spotify.com/track/2xgpP16UkbYq9nD2qKBFnI) | [Nourhan El Morshedy](https://open.spotify.com/artist/4MGWotf08LJf0qe1UPVkNs) | [Forsa Kaman](https://open.spotify.com/album/2MphMgZb7ANzR0CXyMZacY) | 2:57 | 2024-08-15 | 2024-10-11 |
@@ -1052,6 +1053,7 @@
 | [برود ببرود](https://open.spotify.com/track/74slcsn6CwqPaHLEPb6g6R) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [برود ببرود](https://open.spotify.com/album/2NpIPlPZGiQV6t6uf6bSgv) | 3:47 | 2024-07-16 | 2024-08-16 |
 | [بستغرب](https://open.spotify.com/track/5wGoS3qpazTNnRJBW6f2Gm) | [Nesma Mahgoub](https://open.spotify.com/artist/68J05BuI8JQSdEwIyuBBVI) | [فولي بحبك](https://open.spotify.com/album/6fLSxoXaRADW2u60QptVNP) | 3:20 | 2024-07-25 | 2024-09-10 |
 | [بسهر](https://open.spotify.com/track/4HShpItnUKxkPLYvPmgV6n) | [404 Band](https://open.spotify.com/artist/0HpnFPEgkKeLBiQBzlxVOX) | [بسهر](https://open.spotify.com/album/36yZYdgm5el84Ai0fuiSBZ) | 2:29 | 2024-12-06 | 2025-01-03 |
+| [بشوفك قصادي](https://open.spotify.com/track/7b564jClFSdlTwPAwcPKjc) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [بشوفك قصادي](https://open.spotify.com/album/13TRxBimbaRUC07aLO9shc) | 3:36 | 2025-04-10 |  |
 | [بطل يا بطل](https://open.spotify.com/track/7LjE8S8nbujtiktd9pVur9) | [Mido Gad](https://open.spotify.com/artist/6ZcugQ1o2uf7lkFEage28f) | [بطل يا بطل](https://open.spotify.com/album/4KsZrkBA3ysOgaHULylQjf) | 3:10 | 2025-03-04 |  |
 | [بعتتلي رسالة](https://open.spotify.com/track/2V0xkQoErjFjHuz4yBX9us) | [Khaled Mounib](https://open.spotify.com/artist/6OQ8SI8h90JGWuk3c1qZVs) | [Baatetli Resala](https://open.spotify.com/album/5cSegpi6Jw6PTHFBIgSFXq) | 4:05 | 2024-08-16 | 2024-09-20 |
 | [بعد الفراق](https://open.spotify.com/track/5EhzRYCsi33GWkiEWKfVUB) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [بعد الفراق](https://open.spotify.com/album/48cCganqz8LB7yT5OYq9e7) | 3:46 | 2022-12-01 | 2023-02-03 |

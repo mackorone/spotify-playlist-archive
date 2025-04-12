@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f9ryYBYPg3.md) - [plain]
 
 > Welcome to Hypnosismic, a series of Japanese rap battle projects featuring 18 voice actors, each acting out unique anime characters\. © King Record Co., Ltd\. All rights reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,750 likes - 209 songs - 1 day 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,757 likes - 209 songs - 1 day 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f9ryYBYPg3.md) - [plain]
 | 45 | [夢の彼方](https://open.spotify.com/track/2VodztgioHb77wnqQpeumX) | [ヒプノシスマイク \-D.R.B\- \(夢野幻太郎\)](https://open.spotify.com/artist/6BWqrRjmPFKofxtmHXd4mG) | [The Block Party \-HOMIEs\-](https://open.spotify.com/album/4C4r17oeLgPrQEb33JpHLi) | 3:09 |
 | 46 | [Move Your Body Till You Die!](https://open.spotify.com/track/0UZV37rsHPSfW576JdGK7W) | [ヒプノシスマイク \-D.R.B\- \(毒島メイソン理鶯\)](https://open.spotify.com/artist/1HgU7kZOYS995O1n9BSKGQ), [ヒプノシスマイク \-D.R.B\- \(有栖川帝統\)](https://open.spotify.com/artist/7zPyS2eGOYY53pbISyQ2Ht), [ヒプノシスマイク \-D.R.B\- \(観音坂独歩\)](https://open.spotify.com/artist/1jFS1ybytbb9YCWaTnhQ7I), [ヒプノシスマイク \-D.R.B\- \(白膠木簓\)](https://open.spotify.com/artist/4SS4YVo8PVJzZALBxMep4G), [ヒプノシスマイク \-D.R.B\- \(躑躅森盧笙\)](https://open.spotify.com/artist/77aokW0xiQYapVkj1FlD99), [ヒプノシスマイク \-D.R.B\- \(波羅夷 空却\)](https://open.spotify.com/artist/6c1w45xLPDcBpx1O1I1h8t), [ヒプノシスマイク \-D.R.B\- \(山田二郎\)](https://open.spotify.com/artist/2ntze4Zi5AT1afx1lTEPUE), [ヒプノシスマイク \-D.R.B\- \(夢野幻太郎\)](https://open.spotify.com/artist/6BWqrRjmPFKofxtmHXd4mG), [ヒプノシスマイク \-D.R.B\- \(山田一郎\)](https://open.spotify.com/artist/0Gd9H0nBs795UJxbfcRqpP) | [The Block Party \-HOMIEs\-](https://open.spotify.com/album/4C4r17oeLgPrQEb33JpHLi) | 3:48 |
 | 47 | [HIPHOPPIA](https://open.spotify.com/track/4kdz8NtxInAupPVmwvqzB5) | [ヒプノシスマイク \-D.R.B\- \(山田一郎\)](https://open.spotify.com/artist/0Gd9H0nBs795UJxbfcRqpP) | [The Block Party \-HOMIEs\-](https://open.spotify.com/album/4C4r17oeLgPrQEb33JpHLi) | 3:29 |
-| 48 | [おままごと](https://open.spotify.com/track/5XOiydiaqvwiR1X5t1RQn8) | [ヒプノシスマイク \-D.R.B\- \(邪答院仄仄\)](https://open.spotify.com/artist/3sEmjbeaetOYY3U47XiBwO) | [The Block Party \-HOMIEs\-](https://open.spotify.com/album/4C4r17oeLgPrQEb33JpHLi) | 2:56 |
+| 48 | [おままごと](https://open.spotify.com/track/5XOiydiaqvwiR1X5t1RQn8) | [ヒプノシスマイク \-D.R.B\- \(邪答院仄仄\)](https://open.spotify.com/artist/5lc29pMzCELVrd2SoHrEoF) | [The Block Party \-HOMIEs\-](https://open.spotify.com/album/4C4r17oeLgPrQEb33JpHLi) | 2:56 |
 | 49 | [白と黒](https://open.spotify.com/track/0HeyOMO01z3r0zJoCUquq3) | [ヒプノシスマイク \-D.R.B\- \(天谷奴零\)](https://open.spotify.com/artist/3j9cvtcrO6KgtFGnjySeHM), [ヒプノシスマイク \-D.R.B\- \(入間銃兎\)](https://open.spotify.com/artist/7dqg9aMu2T8vMb9ecbke7o) | [The Block Party \-HOODs\-](https://open.spotify.com/album/3U7LCKh5DUVXSzj9YhiP3z) | 3:43 |
 | 50 | [悪魔の華](https://open.spotify.com/track/0EwpurqdBrnoyuifM6wBs4) | [アルゴξ楽団](https://open.spotify.com/artist/2UCKfsLp3FhiQ9Tr3y1Zml) | [The Block Party \-HOODs\-](https://open.spotify.com/album/3U7LCKh5DUVXSzj9YhiP3z) | 3:57 |
 | 51 | [Viva la liberty](https://open.spotify.com/track/03lS8rrl8U90T5OAftvXoX) | [ヒプノシスマイク \-D.R.B\- \(飴村乱数\)](https://open.spotify.com/artist/0oVhaLxRCPaOWacVjswYPv), [ヒプノシスマイク \-D.R.B\- \(山田三郎\)](https://open.spotify.com/artist/2sXk5JWxoBwkLftnTcCFN8) | [The Block Party \-HOODs\-](https://open.spotify.com/album/3U7LCKh5DUVXSzj9YhiP3z) | 3:44 |

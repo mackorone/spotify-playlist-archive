@@ -31,6 +31,24 @@
     },
     {
       "album": {
+        "name": "'Sapababy",
+        "url": "https://open.spotify.com/album/1lJ2R5PuJSDXLrzdX4dAPZ"
+      },
+      "artists": [
+        {
+          "name": "Zae",
+          "url": "https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238095,
+      "name": "'Sapababy",
+      "url": "https://open.spotify.com/track/3VppPV6mcNB0W6Jd0fGvMJ"
+    },
+    {
+      "album": {
         "name": "(Chyba) Ostatni Dzie\u0144",
         "url": "https://open.spotify.com/album/6p7FZUkev82iOCQkyHaVDX"
       },
@@ -2738,7 +2756,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 232000,
       "name": "backwards loving",
       "url": "https://open.spotify.com/track/0YXpXUlsDBIbHZMIrSyHym"
@@ -5652,6 +5670,24 @@
       "duration_ms": 216206,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/7yw4MSh68mhXs1bIlWkE2G"
+    },
+    {
+      "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284137,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE"
     },
     {
       "album": {
@@ -15156,7 +15192,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-05",
+      "date_removed": null,
       "duration_ms": 197803,
       "name": "Jean Blau",
       "url": "https://open.spotify.com/track/1P21dQqCpaF9LKXxTuG7Jn"
@@ -15968,7 +16004,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 237908,
       "name": "KINTSUGI",
       "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
@@ -23068,7 +23104,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 137754,
       "name": "PAULETA",
       "url": "https://open.spotify.com/track/1ggP9Xrw7TuV8rgzEgMbZn"
@@ -24000,7 +24036,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-08",
+      "date_removed": null,
       "duration_ms": 205411,
       "name": "Princesse chaos",
       "url": "https://open.spotify.com/track/5uwKGwzgA0yZRLFb4sW4iJ"
@@ -26070,7 +26106,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-09",
+      "date_removed": null,
       "duration_ms": 181840,
       "name": "See You Later",
       "url": "https://open.spotify.com/track/5fBAeMNvjmE60fyHlNSK6T"
@@ -31090,7 +31126,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 177035,
       "name": "Vienna (Everything\u2019s Fine)",
       "url": "https://open.spotify.com/track/4MZkA1wOfqYclYkQt7MUEd"
@@ -34892,7 +34928,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 252490,
       "name": "\u5168\u4e16\u754c\u505c\u96fb \u7b2c\u4e8c\u5e74",
       "url": "https://open.spotify.com/track/6vGhndQaPCSX74TqP3lNe6"

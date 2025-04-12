@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Flow sudamericano con Rvfv & YSY A.",
+  "description": "Flow sudamericano con Lucky Brown & Rei.",
   "name": "Flow al Sur",
   "tracks": [
     {
@@ -4402,7 +4402,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 156610,
       "name": "Blin Blam",
       "url": "https://open.spotify.com/track/6ipuWbJ4KviwXxYmozIGYa"
@@ -6758,7 +6758,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 160676,
       "name": "Complacerte",
       "url": "https://open.spotify.com/track/48Z4W8VDrbkSonIV66ZTUZ"
@@ -8662,7 +8662,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 111547,
       "name": "Dej\u00e9monos para siempre",
       "url": "https://open.spotify.com/track/5xufPJVhZYOXxa0zh55yj7"
@@ -11340,7 +11340,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 121916,
       "name": "Esquivar",
       "url": "https://open.spotify.com/track/1pkHgduFZmRhHBbROcyrpb"
@@ -12152,7 +12152,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 188066,
       "name": "fLASH",
       "url": "https://open.spotify.com/track/4sl0Z8wtMiQa5NuMIIVk36"
@@ -13567,6 +13567,28 @@
     },
     {
       "album": {
+        "name": "Guerrero",
+        "url": "https://open.spotify.com/album/136HNjH2pYOuvjo4qWemGE"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143478,
+      "name": "Guerrero",
+      "url": "https://open.spotify.com/track/5roof80t8uRcjEjIjg8iZE"
+    },
+    {
+      "album": {
         "name": "Guilla",
         "url": "https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw"
       },
@@ -13930,7 +13952,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 124690,
       "name": "Heavyweight Pt. 2 (feat. Pablo Chill-E)",
       "url": "https://open.spotify.com/track/6RpnLc5Z6fvceMcRcRSn72"
@@ -22888,7 +22910,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 150000,
       "name": "No tan oskuroh",
       "url": "https://open.spotify.com/track/4PS78BCfH0rcokLpjIJMg7"
@@ -26666,7 +26688,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 141077,
       "name": "Putita Boutique",
       "url": "https://open.spotify.com/track/2zi9i5CR83kpJJR4Wh1aOg"
@@ -34382,7 +34404,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 164419,
       "name": "VUSCANDOTE",
       "url": "https://open.spotify.com/track/6IN6OQ9xjsG2LSGTtWpNUR"
@@ -34754,7 +34776,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 168247,
       "name": "WYGD",
       "url": "https://open.spotify.com/track/5fK0NUJsMnF60bs6T5GKtS"
@@ -34802,7 +34824,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 198260,
       "name": "x hombres como t\u00fa",
       "url": "https://open.spotify.com/track/7o1aMeVuIKY3WdhwlOqec0"

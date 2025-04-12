@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 93830,
       "name": "Det Regner Penger (Allez Allez)",
       "url": "https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567"
@@ -3573,6 +3573,28 @@
     },
     {
       "album": {
+        "name": "Lavsesongen",
+        "url": "https://open.spotify.com/album/0u3WSP4lC7dxRwJY6ogMBa"
+      },
+      "artists": [
+        {
+          "name": "JNS",
+          "url": "https://open.spotify.com/artist/6Bjlp5CgULzTTD7Y3VYRdp"
+        },
+        {
+          "name": "Gjenf\u00f8dt Kultur",
+          "url": "https://open.spotify.com/artist/1nebg8vKeaq8WqjOccMWxg"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Lux",
+      "url": "https://open.spotify.com/track/7AsHwOqlwFgbQGnmoxm2Zt"
+    },
+    {
+      "album": {
         "name": "L\u00f8sningsorienterte",
         "url": "https://open.spotify.com/album/5m7GdnuEejte2vkXqoconf"
       },
@@ -5366,7 +5388,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 231666,
       "name": "Stikk i Brystet",
       "url": "https://open.spotify.com/track/2K7RNGhAN82pJSz0OjXCo1"
@@ -5964,7 +5986,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-31",
+      "date_removed": null,
       "duration_ms": 221780,
       "name": "Venner & Fiender",
       "url": "https://open.spotify.com/track/5qVCfJi0uQIykY0X1Gc2wr"

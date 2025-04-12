@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Classical Soul Vol. 1 - The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186170,
+      "name": "Everything Changes (Solo Piano Version)",
+      "url": "https://open.spotify.com/track/0P3yEaLcNqDU4tnVgkrnq5"
+    },
+    {
+      "album": {
         "name": "Everything Changes (Solo Piano Version) & Everything Changes... But All Remains",
         "url": "https://open.spotify.com/album/13zNUY6qGtrRQPEUDCv4ix"
       },
@@ -376,7 +394,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 186170,
       "name": "Everything Changes (Solo Piano Version)",
       "url": "https://open.spotify.com/track/2c1MoYahV1BlIrti0ZfFvi"

@@ -2397,6 +2397,24 @@
     },
     {
       "album": {
+        "name": "Oracle Delta 65.11 Hz - 65.71 Hz",
+        "url": "https://open.spotify.com/album/76XdMiKtqEtpjVGBA9pftj"
+      },
+      "artists": [
+        {
+          "name": "Earthbound",
+          "url": "https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187040,
+      "name": "Oracle Delta 65.11 Hz - 65.71 Hz",
+      "url": "https://open.spotify.com/track/6S5q0RkWxfDU9uDENe4At3"
+    },
+    {
+      "album": {
         "name": "Orbit Time Delta Binaural 4Hz",
         "url": "https://open.spotify.com/album/1usUNUHPbSxakqpbmxda3T"
       },
@@ -2484,6 +2502,24 @@
       "duration_ms": 202000,
       "name": "Quiet Repose (Delta Binaural)",
       "url": "https://open.spotify.com/track/1SSyFNx4h5oSZXf8o3l6U1"
+    },
+    {
+      "album": {
+        "name": "Sand Seeps (Binaural Delta 110-111 Hz)",
+        "url": "https://open.spotify.com/album/0MH0UKeyS5TziANm6jDNXt"
+      },
+      "artists": [
+        {
+          "name": "Doctor Hz",
+          "url": "https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Sand Seeps (Binaural Delta 110-111 Hz)",
+      "url": "https://open.spotify.com/track/5YE2hFMq9Lo1ARlhDjpDfm"
     },
     {
       "album": {
@@ -2858,7 +2894,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 217333,
       "name": "Surrounded Passage (Delta Binaural)",
       "url": "https://open.spotify.com/track/0gffACkxI5ABiI7Ak9Gb4R"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The new school - Alternative R&B. Cover: Casper Sage",
+  "description": "The new school - Alternative R&B. Cover: Q",
   "name": "Vanguard",
   "tracks": [
     {
@@ -522,6 +522,24 @@
       "duration_ms": 193928,
       "name": "A Kid From Toronto",
       "url": "https://open.spotify.com/track/0ItCQuRw6DglXZjTE8dFlv"
+    },
+    {
+      "album": {
+        "name": "a million faces",
+        "url": "https://open.spotify.com/album/49jPojLRuWp71LnK3Y3ClE"
+      },
+      "artists": [
+        {
+          "name": "girlsweetvoiced",
+          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102068,
+      "name": "a million faces",
+      "url": "https://open.spotify.com/track/7F2nEClWeQ3x5ycA5qtKOI"
     },
     {
       "album": {
@@ -6287,6 +6305,24 @@
     },
     {
       "album": {
+        "name": "DEEP IN YOUR SOUL",
+        "url": "https://open.spotify.com/album/6JLiizUymfvS5qOqO0hdGW"
+      },
+      "artists": [
+        {
+          "name": "alan vuong",
+          "url": "https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191515,
+      "name": "DEEP IN YOUR SOUL",
+      "url": "https://open.spotify.com/track/0tbar3AoobXRjfhlh7b95g"
+    },
+    {
+      "album": {
         "name": "Definition of Love",
         "url": "https://open.spotify.com/album/6ghmLEwlEpTJ6iH0JMxu8i"
       },
@@ -8710,7 +8746,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 210998,
       "name": "FRIENDZONE",
       "url": "https://open.spotify.com/track/2CUWQEPhGo67JuDBng3jlN"
@@ -12686,6 +12722,28 @@
       "duration_ms": 154055,
       "name": "Kemets got the blue",
       "url": "https://open.spotify.com/track/7q9gJns0is7XYIH3MSSud6"
+    },
+    {
+      "album": {
+        "name": "All American F\u2b50ckBoy",
+        "url": "https://open.spotify.com/album/66HGhKZrlYQQ92lKSGvj0r"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220562,
+      "name": "Ken Doll",
+      "url": "https://open.spotify.com/track/5cecqx5yqGOrtBADz9YNza"
     },
     {
       "album": {
@@ -19154,7 +19212,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 176572,
       "name": "Roadrunner (feat. midwxst)",
       "url": "https://open.spotify.com/track/2wuYcWEYGxnGWNisxljB1Y"
@@ -25070,7 +25128,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 133565,
       "name": "VALENTINE",
       "url": "https://open.spotify.com/track/0L7SOBsLC4jZ9X4bTs6XnL"

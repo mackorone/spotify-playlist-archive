@@ -1,12 +1,12 @@
 {
   "description": "the deep & minimal side of house and techno \u26cf\ufe0f\u26cf\ufe0f \nwith Chris Stussy",
-  "num_followers": 53414,
+  "num_followers": 53488,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/P61QAAAABSCLSBCPT5vul2bSBG/umo",
+  "snapshot_id": "Z/iT3QAAAABb1a6xd+sxMf63lRo1z/GP",
   "tracks": [
     {
       "added_at": "2025-03-28 04:00:46",
@@ -27,6 +27,22 @@
     {
       "added_at": "2025-04-04 04:00:27",
       "album": {
+        "name": "groove that never stops",
+        "url": "https://open.spotify.com/album/6Wtw2L9uDfz1h60LOFDtaZ"
+      },
+      "artists": [
+        {
+          "name": "Jake Antonio",
+          "url": "https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC"
+        }
+      ],
+      "duration_ms": 247384,
+      "name": "groove that never stops",
+      "url": "https://open.spotify.com/track/2WCEzJ2pXmk5Wf6uZEk4ds"
+    },
+    {
+      "added_at": "2025-04-04 04:00:27",
+      "album": {
         "name": "Funky Shit",
         "url": "https://open.spotify.com/album/0DEPCvCKyMtTBQC65wRseL"
       },
@@ -43,6 +59,38 @@
       "duration_ms": 243209,
       "name": "Funky Shit",
       "url": "https://open.spotify.com/track/5IMDW0iiQEeGNs5fnJ6Rol"
+    },
+    {
+      "added_at": "2025-04-11 04:00:29",
+      "album": {
+        "name": "Mind Games",
+        "url": "https://open.spotify.com/album/5jdVZUJ0zD7e0pJmueEtEw"
+      },
+      "artists": [
+        {
+          "name": "Discip",
+          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Mind Games",
+      "url": "https://open.spotify.com/track/0eKOn3pMNfyrG2FvJNkbcc"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Won't Stop (Don't)",
+        "url": "https://open.spotify.com/album/0wL4LsbLuwgFzqytJj97Lu"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "duration_ms": 233306,
+      "name": "Won't Stop (Don't)",
+      "url": "https://open.spotify.com/track/43FiKNMmSDaI7V1U8i5CZI"
     },
     {
       "added_at": "2025-03-07 05:00:40",
@@ -85,56 +133,20 @@
       "url": "https://open.spotify.com/track/5qaBH4UBmWeidfGSQfnW51"
     },
     {
-      "added_at": "2024-11-22 05:00:00",
+      "added_at": "2025-04-11 04:00:29",
       "album": {
-        "name": "Won't Stop (Don't)",
-        "url": "https://open.spotify.com/album/0wL4LsbLuwgFzqytJj97Lu"
+        "name": "Expressions",
+        "url": "https://open.spotify.com/album/4ZR8EYXTeeZFtlNZALBkEK"
       },
       "artists": [
         {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+          "name": "Dyl Poole",
+          "url": "https://open.spotify.com/artist/0vRUQytdOTCdqYMZvQ6SQw"
         }
       ],
-      "duration_ms": 233306,
-      "name": "Won't Stop (Don't)",
-      "url": "https://open.spotify.com/track/43FiKNMmSDaI7V1U8i5CZI"
-    },
-    {
-      "added_at": "2025-03-21 04:00:56",
-      "album": {
-        "name": "Back It Up",
-        "url": "https://open.spotify.com/album/3zmA0CrYMwFY92X9DkK2fY"
-      },
-      "artists": [
-        {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
-        },
-        {
-          "name": "Omar+",
-          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
-        }
-      ],
-      "duration_ms": 156398,
-      "name": "Back It Up",
-      "url": "https://open.spotify.com/track/5bdKaYnig6IqBsQQqBUjHm"
-    },
-    {
-      "added_at": "2025-04-04 04:00:27",
-      "album": {
-        "name": "groove that never stops",
-        "url": "https://open.spotify.com/album/6Wtw2L9uDfz1h60LOFDtaZ"
-      },
-      "artists": [
-        {
-          "name": "Jake Antonio",
-          "url": "https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC"
-        }
-      ],
-      "duration_ms": 247384,
-      "name": "groove that never stops",
-      "url": "https://open.spotify.com/track/2WCEzJ2pXmk5Wf6uZEk4ds"
+      "duration_ms": 247975,
+      "name": "Expressions",
+      "url": "https://open.spotify.com/track/3I85rOzMDeQqVSJnO3zIqK"
     },
     {
       "added_at": "2025-02-28 05:00:37",
@@ -173,6 +185,42 @@
       "url": "https://open.spotify.com/track/6S72FPVYg4v4STK7kISlXG"
     },
     {
+      "added_at": "2025-03-21 04:00:56",
+      "album": {
+        "name": "Back It Up",
+        "url": "https://open.spotify.com/album/3zmA0CrYMwFY92X9DkK2fY"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        {
+          "name": "Omar+",
+          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
+        }
+      ],
+      "duration_ms": 156398,
+      "name": "Back It Up",
+      "url": "https://open.spotify.com/track/5bdKaYnig6IqBsQQqBUjHm"
+    },
+    {
+      "added_at": "2025-04-11 04:00:29",
+      "album": {
+        "name": "Like It Deep",
+        "url": "https://open.spotify.com/album/3T6ONNtu8CCBFrfGWpWs3W"
+      },
+      "artists": [
+        {
+          "name": "Braydon Terzo",
+          "url": "https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq"
+        }
+      ],
+      "duration_ms": 203636,
+      "name": "Like It Deep",
+      "url": "https://open.spotify.com/track/3JYDWORVlXjHQWf5M92BiR"
+    },
+    {
       "added_at": "2025-02-07 14:44:40",
       "album": {
         "name": "Control Yourself EP",
@@ -203,6 +251,22 @@
       "duration_ms": 190153,
       "name": "I Think I Love Her",
       "url": "https://open.spotify.com/track/2JkLiT6omy9J7aOcpB9G6B"
+    },
+    {
+      "added_at": "2025-04-04 04:00:27",
+      "album": {
+        "name": "Unison",
+        "url": "https://open.spotify.com/album/0BGCtWdiizMF4J5aqAEdMh"
+      },
+      "artists": [
+        {
+          "name": "Locklead",
+          "url": "https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw"
+        }
+      ],
+      "duration_ms": 438509,
+      "name": "Unison",
+      "url": "https://open.spotify.com/track/2pSzJDSEXoQyVCMDq2KTJn"
     },
     {
       "added_at": "2025-03-28 04:00:46",
@@ -289,6 +353,22 @@
       "url": "https://open.spotify.com/track/6d9vx6rqk832pIo4bwO9Gp"
     },
     {
+      "added_at": "2025-04-11 04:00:29",
+      "album": {
+        "name": "To The Rhythm EP",
+        "url": "https://open.spotify.com/album/65B0UAFS9zlSzUkRXvlxjT"
+      },
+      "artists": [
+        {
+          "name": "Stuart Matheson",
+          "url": "https://open.spotify.com/artist/3ww9l0O1eYkQEJHTyRhd6Q"
+        }
+      ],
+      "duration_ms": 227941,
+      "name": "To The Rhythm - Radio Edit",
+      "url": "https://open.spotify.com/track/4OoSXPUgpu7tp7BWLVQkYL"
+    },
+    {
       "added_at": "2025-03-19 18:08:52",
       "album": {
         "name": "Places & Faces EP",
@@ -319,6 +399,22 @@
       "duration_ms": 465090,
       "name": "We Got The Groove",
       "url": "https://open.spotify.com/track/5zi3pyDYDXq98RyXPMK7Qa"
+    },
+    {
+      "added_at": "2025-04-11 04:00:29",
+      "album": {
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/3sYrcueAC7h1sQwDzyOMlz"
+      },
+      "artists": [
+        {
+          "name": "Enzo is Burning",
+          "url": "https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB"
+        }
+      ],
+      "duration_ms": 181070,
+      "name": "Body Talk",
+      "url": "https://open.spotify.com/track/7EH5ckWU3lKHRYG38SiH1n"
     },
     {
       "added_at": "2025-04-04 04:00:27",
@@ -379,6 +475,22 @@
       "duration_ms": 180000,
       "name": "P!NK",
       "url": "https://open.spotify.com/track/7cN7LW0oy05OuKc06eE1eV"
+    },
+    {
+      "added_at": "2025-04-11 04:00:29",
+      "album": {
+        "name": "SMACK EM",
+        "url": "https://open.spotify.com/album/0iK8e4G31HNiIznfv9xvK8"
+      },
+      "artists": [
+        {
+          "name": "Luke Andy",
+          "url": "https://open.spotify.com/artist/4FxJtBwCaADws2F7xmpZQS"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "SMACK EM",
+      "url": "https://open.spotify.com/track/2tspEyb9ykdXgXIXpRcZfb"
     },
     {
       "added_at": "2025-02-03 15:39:15",
@@ -443,6 +555,30 @@
       "duration_ms": 200314,
       "name": "Serotonine",
       "url": "https://open.spotify.com/track/7brE4PDHUmdJMFle4OTTAA"
+    },
+    {
+      "added_at": "2025-04-11 04:00:29",
+      "album": {
+        "name": "Uh Huh",
+        "url": "https://open.spotify.com/album/50vLlN83QCQanyDU460rmQ"
+      },
+      "artists": [
+        {
+          "name": "2LM",
+          "url": "https://open.spotify.com/artist/0A0x9H3r3HRuGdLokgP7FE"
+        },
+        {
+          "name": "TheConnect",
+          "url": "https://open.spotify.com/artist/4iHQEWytJI7gcqaNLsyLn0"
+        },
+        {
+          "name": "Sage Armstrong",
+          "url": "https://open.spotify.com/artist/1cfwUSXEE2axXJGQfnfVFH"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Uh Huh",
+      "url": "https://open.spotify.com/track/37DbTyxtGe0fLNb2NTRsur"
     },
     {
       "added_at": "2025-02-28 05:00:37",
@@ -531,22 +667,6 @@
       "duration_ms": 408941,
       "name": "Lick It",
       "url": "https://open.spotify.com/track/7F2eNxJ5ZrGAwd83sIhBud"
-    },
-    {
-      "added_at": "2025-04-04 04:00:27",
-      "album": {
-        "name": "Unison",
-        "url": "https://open.spotify.com/album/0BGCtWdiizMF4J5aqAEdMh"
-      },
-      "artists": [
-        {
-          "name": "Locklead",
-          "url": "https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw"
-        }
-      ],
-      "duration_ms": 438509,
-      "name": "Unison",
-      "url": "https://open.spotify.com/track/2pSzJDSEXoQyVCMDq2KTJn"
     },
     {
       "added_at": "2025-01-07 21:49:06",
@@ -819,22 +939,6 @@
       "duration_ms": 143999,
       "name": "Look Back",
       "url": "https://open.spotify.com/track/1UUaTiBVklBme9BKmGQraf"
-    },
-    {
-      "added_at": "2025-03-14 04:00:24",
-      "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/4fIzt1xXgqG1QymqasIHAc"
-      },
-      "artists": [
-        {
-          "name": "Ben Jones",
-          "url": "https://open.spotify.com/artist/0PdvRfCSVYAZ1sPdIyepNC"
-        }
-      ],
-      "duration_ms": 204843,
-      "name": "Evolve",
-      "url": "https://open.spotify.com/track/39jxjKNMrRkM7xsLSjGR9N"
     },
     {
       "added_at": "2025-02-28 05:00:37",
@@ -1181,22 +1285,6 @@
       "url": "https://open.spotify.com/track/6Vd1DMK1agDDFoAJyvSSaI"
     },
     {
-      "added_at": "2025-03-07 05:00:40",
-      "album": {
-        "name": "1999 Love Story",
-        "url": "https://open.spotify.com/album/51N8FDoDFRV9HJcK9ItH2m"
-      },
-      "artists": [
-        {
-          "name": "Ernesto",
-          "url": "https://open.spotify.com/artist/06Tz5j41sfgdku57McWBzh"
-        }
-      ],
-      "duration_ms": 346125,
-      "name": "Hardware Boogie",
-      "url": "https://open.spotify.com/track/5v2VAMv4OpADPlGomp6GJS"
-    },
-    {
       "added_at": "2024-11-06 22:50:08",
       "album": {
         "name": "Big Smoke's",
@@ -1485,22 +1573,6 @@
       "url": "https://open.spotify.com/track/2gVJTQbla9i7bxnKdLiu45"
     },
     {
-      "added_at": "2025-01-24 05:00:51",
-      "album": {
-        "name": "W Up EP",
-        "url": "https://open.spotify.com/album/1aG9J0UUaOLXdiKQnJ2gnk"
-      },
-      "artists": [
-        {
-          "name": "EdiP",
-          "url": "https://open.spotify.com/artist/5LJwuxjm7hqe5ssWMyyQTE"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "W Up",
-      "url": "https://open.spotify.com/track/4sD8IER4xBNH6Onug5klHU"
-    },
-    {
       "added_at": "2025-01-31 17:21:53",
       "album": {
         "name": "Dangerous",
@@ -1521,38 +1593,6 @@
       "url": "https://open.spotify.com/track/0Dj1blRTLl6v8cJddRpx6M"
     },
     {
-      "added_at": "2025-01-31 17:21:53",
-      "album": {
-        "name": "Move & Groove",
-        "url": "https://open.spotify.com/album/20b6uGsHv6yGpjytq3BWCV"
-      },
-      "artists": [
-        {
-          "name": "Murphy's Law (UK)",
-          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "Move & Groove",
-      "url": "https://open.spotify.com/track/1poxjTo5B52kb3ImfnCRig"
-    },
-    {
-      "added_at": "2025-02-28 05:00:37",
-      "album": {
-        "name": "lose my mind",
-        "url": "https://open.spotify.com/album/1ia16SZQvUZEg5HjnFETKn"
-      },
-      "artists": [
-        {
-          "name": "Jake Antonio",
-          "url": "https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC"
-        }
-      ],
-      "duration_ms": 192727,
-      "name": "lose my mind",
-      "url": "https://open.spotify.com/track/37fil52Y3apEozIQbH0zhG"
-    },
-    {
       "added_at": "2025-02-07 14:44:40",
       "album": {
         "name": "Kick",
@@ -1567,22 +1607,6 @@
       "duration_ms": 221220,
       "name": "Kick",
       "url": "https://open.spotify.com/track/4jwgVADO9NWXrNZ4YCspe0"
-    },
-    {
-      "added_at": "2025-02-03 21:13:33",
-      "album": {
-        "name": "Okay Alright",
-        "url": "https://open.spotify.com/album/653heyRt50TTV4QNhIYLEv"
-      },
-      "artists": [
-        {
-          "name": "Alan Nieves",
-          "url": "https://open.spotify.com/artist/0gwCVstfKWPEMibFf3MnyG"
-        }
-      ],
-      "duration_ms": 368034,
-      "name": "Okay Alright",
-      "url": "https://open.spotify.com/track/4yqFS96Lf0ktp4oauOuWAN"
     },
     {
       "added_at": "2025-02-07 14:44:40",
@@ -1727,22 +1751,6 @@
       "duration_ms": 210004,
       "name": "Hot Like Fire",
       "url": "https://open.spotify.com/track/4y6GSJmMoUs3cG4A2R1R4d"
-    },
-    {
-      "added_at": "2025-01-31 17:21:53",
-      "album": {
-        "name": "It's About Us",
-        "url": "https://open.spotify.com/album/1obE6RQ5LGUFgIhvfg35e6"
-      },
-      "artists": [
-        {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        }
-      ],
-      "duration_ms": 232790,
-      "name": "It's About Us",
-      "url": "https://open.spotify.com/track/2QJwMBAnrB6HDsS4dhTaNT"
     },
     {
       "added_at": "2025-02-16 00:38:05",

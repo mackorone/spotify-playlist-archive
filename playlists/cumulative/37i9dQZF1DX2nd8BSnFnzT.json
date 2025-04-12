@@ -597,6 +597,24 @@
     },
     {
       "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/5aKu0IlgLkkG3iWO7YNADZ"
+      },
+      "artists": [
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187070,
+      "name": "Al\u00e9m do Fim",
+      "url": "https://open.spotify.com/track/01evrFRhlNqylGfEDYVtBY"
+    },
+    {
+      "album": {
         "name": "Enfrente",
         "url": "https://open.spotify.com/album/67rjiIJmUuG6WbCIBvEqQG"
       },
@@ -814,7 +832,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 185282,
       "name": "Aqui N\u00e3o \u00e9 o Meu Lugar - Ao Vivo",
       "url": "https://open.spotify.com/track/1YtahfVwdZVbtgsyNgdFVR"
@@ -5480,7 +5498,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 197936,
       "name": "Na Contram\u00e3o",
       "url": "https://open.spotify.com/track/7pdO5lMv1rpSsUevZ4hFGS"

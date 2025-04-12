@@ -4,7 +4,7 @@
 
 > The best in new rock\. Cover: Turnstile
 
-308 songs - 17 hr 50 min
+309 songs - 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Keep on Moving](https://open.spotify.com/track/78QbRv8ek0BCKvLN8PXtmb) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Keep on Moving](https://open.spotify.com/album/6yoQ4DhCRvnd9KqXwnuCdE) | 2:51 | 2024-08-15 | 2024-09-27 |
 | [KILLING ME](https://open.spotify.com/track/0pUhjwRcebbqwe8RmICp6d) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [KILLING ME](https://open.spotify.com/album/0NGSjSPlCLyv2y2ALMDwX9) | 3:43 | 2024-09-19 | 2025-02-28 |
 | [La fiesta](https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [La fiesta](https://open.spotify.com/album/6EYpdrkCw5yb5ltJc9S9gw) | 2:38 | 2024-09-26 | 2024-11-01 |
+| [Lachryma](https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Lachryma](https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev) | 4:36 | 2025-04-10 |  |
 | [Lately](https://open.spotify.com/track/2tOTRdiIf0PX3fhMGl5y6S) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l), [Brian Aubert](https://open.spotify.com/artist/4oSqkqAQHELywy2a9fd6xa), [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Make It Feel Like The Garden](https://open.spotify.com/album/6ifr5AvAQVzz2AYPsdJCBK) | 5:03 | 2024-07-18 | 2024-10-18 |
 | [Latest Hustle](https://open.spotify.com/track/5V81mSnVaZLVf571u9A1N8) | [Boom Crash Opera](https://open.spotify.com/artist/2KisNXWizbrJVoif4Lt2u5) | [Latest Hustle](https://open.spotify.com/album/5xWWSR6UyY1w4AUSwJ2OhN) | 3:25 | 2025-03-06 |  |
 | [LCD](https://open.spotify.com/track/2uR01tcAXfzD99eaKQJvBT) | [Ghost Care](https://open.spotify.com/artist/5kbK7MXSEO00Bw9AVTmXdy) | [LCD](https://open.spotify.com/album/7JiblL6oSzGZfiTAin8t4Y) | 3:31 | 2025-04-03 |  |

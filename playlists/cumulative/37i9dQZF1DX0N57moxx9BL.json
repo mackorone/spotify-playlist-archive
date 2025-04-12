@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 250040,
       "name": "Apology",
       "url": "https://open.spotify.com/track/29jYOUhgAWcuKunBAXNqhX"
@@ -2165,6 +2165,24 @@
     },
     {
       "album": {
+        "name": "LION",
+        "url": "https://open.spotify.com/album/1CqzOm3jFgTGK2qrMPYknL"
+      },
+      "artists": [
+        {
+          "name": "Peyton Parrish",
+          "url": "https://open.spotify.com/artist/62uiaKAdkbY94iXJnXyKzc"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343926,
+      "name": "LION",
+      "url": "https://open.spotify.com/track/0VkbvqI6XzzXSL7fQKWBPA"
+    },
+    {
+      "album": {
         "name": "Listen Friend",
         "url": "https://open.spotify.com/album/5Thzd8nKXasMl4q0rTKo4M"
       },
@@ -2476,6 +2494,24 @@
       "duration_ms": 205777,
       "name": "No One",
       "url": "https://open.spotify.com/track/4hmT4Dmrj45kUTcPdeqvfm"
+    },
+    {
+      "album": {
+        "name": "Noble Bloom",
+        "url": "https://open.spotify.com/album/6I3E6b39DePAgKcSVm8ZmP"
+      },
+      "artists": [
+        {
+          "name": "Confessions of a Traitor",
+          "url": "https://open.spotify.com/artist/3XxTiLhFGMsWvVfpZ7KlF9"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214222,
+      "name": "Noble Bloom",
+      "url": "https://open.spotify.com/track/5wV1dqMnU84NRR1QX5ENFG"
     },
     {
       "album": {
@@ -3158,7 +3194,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 204000,
       "name": "Sometimes I Dream",
       "url": "https://open.spotify.com/track/1jNI2ktaQCKGsIvqxql9uy"

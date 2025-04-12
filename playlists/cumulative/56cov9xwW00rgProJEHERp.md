@@ -4,7 +4,7 @@
 
 > Tunes from your favourite coffee shop.
 
-246 songs - 14 hr 9 min
+248 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [forgive](https://open.spotify.com/track/5o1hmgXrZVssht9hZLjhEu) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [forgive](https://open.spotify.com/album/7ce4lWzKblWtwCZPJH0wx4) | 4:48 | 2025-01-31 |  |
 | [Free Falling](https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 2:53 | 2024-01-26 | 2024-11-23 |
 | [Full Rainbow](https://open.spotify.com/track/74gLJXOYDPAYWufPS3u541) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Full Rainbow](https://open.spotify.com/album/2cBahwXU17hiSZMgJJ77YI) | 3:30 | 2024-10-18 |  |
+| [Future Emma](https://open.spotify.com/track/2v8pOMgEEvFjAFSJXBRwhQ) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Future Emma](https://open.spotify.com/album/6fCdybjQTL2stzYvev2hPk) | 4:19 | 2025-04-11 |  |
 | [Fuzzy Feeling](https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Fuzzy Feeling](https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst) | 2:56 | 2024-09-20 | 2025-02-15 |
 | [Gasoline](https://open.spotify.com/track/3AEhzP83T8HxudeMahwjAV) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [The Alternate Ending](https://open.spotify.com/album/79J7lTojt5GNstcDpZhD0z) | 2:00 | 2024-05-24 | 2024-07-03 |
 | [Gentle Violence](https://open.spotify.com/track/4kjktXON6BJg5CVntKzsWP) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [Visitor](https://open.spotify.com/album/06SkY6G0aiZJVwNCPwkcb4) | 3:53 | 2024-04-05 | 2024-09-28 |
@@ -146,6 +147,7 @@
 | [Lost](https://open.spotify.com/track/2aQm7qXDseN5YF5ilzCohC) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Lost](https://open.spotify.com/album/0rwAIahSgaJWFoTSHJSmLJ) | 2:43 | 2024-08-02 | 2024-10-19 |
 | [Love Again](https://open.spotify.com/track/4o1I2WL1pjyFLpshFuLCm2) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Love Again](https://open.spotify.com/album/3IIFp3ItzFscCAKXB6Z2Zv) | 3:32 | 2023-12-08 | 2024-03-16 |
 | [Love High \(feat\. Laurent Bardainne\)](https://open.spotify.com/track/0ZDKm5QVqcMFmp1Wv4oYrq) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn), [Laurent Bardainne](https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw) | [La femme aux yeux de sel](https://open.spotify.com/album/5PiHQMN9NyN8vIVVMhNj5s) | 4:21 | 2025-03-21 |  |
+| [Love Me As I Am](https://open.spotify.com/track/7mQPml8oyhivfvnMigbgeL) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [Asking for Trouble](https://open.spotify.com/album/0BFH1oeVEEbdcloPUoSGXs) | 2:32 | 2025-04-11 |  |
 | [Love Me For Another Day](https://open.spotify.com/track/1QBoyx9EOFbnFQJGCyEzwz) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Me For Another Day](https://open.spotify.com/album/65LmFuLBa1yBX5yfuuOMh2) | 3:03 | 2023-12-08 | 2024-03-16 |
 | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/track/31fMJwgrgNdk1IbWZEchX2) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/album/1XuLPOSr7B79aSSJdL9MRw) | 2:30 | 2023-12-08 | 2024-11-09 |
 | [Loving You \(feat\. Maverick Sabre\)](https://open.spotify.com/track/3Jx1s38DVgJJwuoxAGi7kh) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Loving You / Don't Let Me Go](https://open.spotify.com/album/4AT8IOeR5ZntLmTOeCj75j) | 2:32 | 2024-11-08 |  |

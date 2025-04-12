@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 
 > Tunes from your favourite coffee shop.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,537 likes - 75 songs - 4 hr 22 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,537 likes - 77 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,5 +83,7 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 | 73 | [ok](https://open.spotify.com/track/4FcVcASfnIedJfxIi0a2QM) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [ok](https://open.spotify.com/album/1M59UjZ6KQLUnNERnpmBeD) | 3:38 |
 | 74 | [Who Wants](https://open.spotify.com/track/0qFvmOIl2cd0NItNgXSbv5) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Who Wants](https://open.spotify.com/album/12o0RLnSOC8pR8rBikuwW4) | 3:25 |
 | 75 | [Lessons](https://open.spotify.com/track/7dcNsaYCgtycbQYYPj5bao) | [Loaded Honey](https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB), [Lydia Kitto](https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA), [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Lessons](https://open.spotify.com/album/4C2gEjnKmczLeeYsPRGNzR) | 3:38 |
+| 76 | [Future Emma](https://open.spotify.com/track/2v8pOMgEEvFjAFSJXBRwhQ) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Future Emma](https://open.spotify.com/album/6fCdybjQTL2stzYvev2hPk) | 4:19 |
+| 77 | [Love Me As I Am](https://open.spotify.com/track/7mQPml8oyhivfvnMigbgeL) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [Asking for Trouble](https://open.spotify.com/album/0BFH1oeVEEbdcloPUoSGXs) | 2:32 |
 
-Snapshot ID: `AAAVOQ2pNtg46Ls/uPAuVnndEkKfExPW`
+Snapshot ID: `AAAVOw/1HI6NKbVTXoPGwAogUNwpQOQ5`

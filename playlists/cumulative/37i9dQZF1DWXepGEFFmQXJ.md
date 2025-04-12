@@ -2,9 +2,9 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's country crop\. Cover: Kaylee Bell
+> The cream of today's country crop\. Cover: Myles Smith, Shaboozey
 
-928 songs - 2 day 2 hr 43 min
+929 songs - 2 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Black Powder](https://open.spotify.com/track/6grkDYOC3z47Zi4w02SVsz) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Luke Grimes](https://open.spotify.com/album/3z24fpMlBap60LQ1Or1Gq2) | 1:56 | 2024-03-07 | 2024-04-05 |
 | [BLAME](https://open.spotify.com/track/6krhdjLqzCefSnaGgUidUq) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [BLAME](https://open.spotify.com/album/5oHs5oH2fx8YWh4JMgfNug) | 2:42 | 2024-09-12 | 2025-01-24 |
 | [Blessed & Free](https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Blessed & Free](https://open.spotify.com/album/055uuuPMs7soYjnONo02QV) | 3:18 | 2021-12-30 | 2022-06-10 |
+| [Blink Twice](https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Blink Twice](https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW) | 2:36 | 2025-04-11 |  |
 | [Blow Our Cover](https://open.spotify.com/track/67hXpN0LZxZgQN2bS12mRf) | [Josh Setterfield](https://open.spotify.com/artist/7yEGY87VhZx21THIvHDO4u) | [Blow Our Cover](https://open.spotify.com/album/5diAiYQd0LqFslr6jxEhWj) | 2:48 | 2022-09-15 | 2023-03-10 |
 | [Blue](https://open.spotify.com/track/6FK7WhvGRjkSoHKtE7P3OW) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Blue](https://open.spotify.com/album/2KIFJECaJaGKFQJFgH5dzA) | 3:31 | 2024-12-05 | 2025-02-21 |
 | [Blue Eyes](https://open.spotify.com/track/5xU2wb69VYgwBPgq19Pu21) | [Brook Chivell](https://open.spotify.com/artist/6LnqkQnFsNP3bdPLzQ8rYQ) | [Blue Eyes](https://open.spotify.com/album/1EXlMdfR3WjiZUeQMwfkzL) | 4:06 | 2023-05-18 | 2023-06-16 |

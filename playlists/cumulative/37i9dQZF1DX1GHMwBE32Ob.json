@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "From the trenches. Through the streets.\nCover: T.I Blaze",
+  "description": "From the trenches. Through the streets.\nCover: Zinoleesky",
   "name": "Street Energy ",
   "tracks": [
     {
@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "Advice Me",
+        "url": "https://open.spotify.com/album/2OKYoEoVYZ3Mvbfn07yMQa"
+      },
+      "artists": [
+        {
+          "name": "BIGKHALID",
+          "url": "https://open.spotify.com/artist/5xnQJvSHeJkVvYjFhgUIFB"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154357,
+      "name": "Advice Me",
+      "url": "https://open.spotify.com/track/445ySymTQJEJ27mCnQXiqh"
+    },
+    {
+      "album": {
         "name": "Agba Singing",
         "url": "https://open.spotify.com/album/2Mt90xMkv1pP1ZxOpIvg1i"
       },
@@ -272,7 +290,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 150674,
       "name": "Agba Singing",
       "url": "https://open.spotify.com/track/1r1Xz7MMUotaxziNtqcstp"
@@ -1310,7 +1328,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 180890,
       "name": "Cash",
       "url": "https://open.spotify.com/track/55gLtEmwF6yOkMUbSIXKUG"
@@ -1558,6 +1576,28 @@
       "duration_ms": 195174,
       "name": "Cruise",
       "url": "https://open.spotify.com/track/0Op20pqChmir5R3Pd7rrC2"
+    },
+    {
+      "album": {
+        "name": "Dangbana Riddim",
+        "url": "https://open.spotify.com/album/0xDIG4BwF9QgxdKVNwee9D"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160587,
+      "name": "Dangbana Riddim",
+      "url": "https://open.spotify.com/track/07eJSSPcNlkR34wVlkrCcY"
     },
     {
       "album": {
@@ -3998,7 +4038,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-08",
+      "date_removed": null,
       "duration_ms": 212041,
       "name": "Ludo",
       "url": "https://open.spotify.com/track/6OljU9rEfG2u5mGhqmiqSJ"
@@ -5904,7 +5944,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 171232,
       "name": "Shalaye",
       "url": "https://open.spotify.com/track/5RTfC7qVXydNrmv4quXFpq"

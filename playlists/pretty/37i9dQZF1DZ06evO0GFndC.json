@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 59120,
+  "num_followers": 59139,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/W4gAAAAAD5qZ5FiPypac6WpR4+amYp",
+  "snapshot_id": "Z/cKAAAAAAAEhz1VOClurrBo3YS7K9GW",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parque de Diversiones",
-        "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
+        "name": "El Rey De Los Paquetes",
+        "url": "https://open.spotify.com/album/6J8KawEafsnKq5lIVX9cbc"
       },
       "artists": [
         {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+          "name": "Los De La 9",
+          "url": "https://open.spotify.com/artist/3jTankh0q4rncxU4i22Bow"
         },
         {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 179200,
-      "name": "Alucinado",
-      "url": "https://open.spotify.com/track/3hHOW6QUvwImlYSQFDWFqo"
+      "duration_ms": 122212,
+      "name": "El Rey de Los Paquetes",
+      "url": "https://open.spotify.com/track/3xL6WPIw4Gf65zxDpo0wcy"
     },
     {
       "added_at": null,
@@ -723,22 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey De Los Paquetes",
-        "url": "https://open.spotify.com/album/6J8KawEafsnKq5lIVX9cbc"
+        "name": "Parque de Diversiones",
+        "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
       },
       "artists": [
         {
-          "name": "Los De La 9",
-          "url": "https://open.spotify.com/artist/3jTankh0q4rncxU4i22Bow"
-        },
-        {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
         }
       ],
-      "duration_ms": 122212,
-      "name": "El Rey de Los Paquetes",
-      "url": "https://open.spotify.com/track/3xL6WPIw4Gf65zxDpo0wcy"
+      "duration_ms": 179200,
+      "name": "Alucinado",
+      "url": "https://open.spotify.com/track/3hHOW6QUvwImlYSQFDWFqo"
     },
     {
       "added_at": null,

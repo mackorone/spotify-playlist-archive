@@ -11417,6 +11417,24 @@
     },
     {
       "album": {
+        "name": "Sebatas Friendly",
+        "url": "https://open.spotify.com/album/6m54ZCI0KJOH0VxDs8OVXA"
+      },
+      "artists": [
+        {
+          "name": "NDX A.K.A.",
+          "url": "https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253691,
+      "name": "Sebatas Friendly",
+      "url": "https://open.spotify.com/track/2pMwqwUIKr2Il7ut4PsVAR"
+    },
+    {
+      "album": {
         "name": "SEBENING SENJA",
         "url": "https://open.spotify.com/album/0E2gghCiWbWGTYKkuOTsz4"
       },
@@ -11830,6 +11848,10 @@
         {
           "name": "Andien",
           "url": "https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo"
+        },
+        {
+          "name": "Bandung Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/6UPwjfenR3el43CzhmqVuJ"
         }
       ],
       "date_added": "2025-04-10",

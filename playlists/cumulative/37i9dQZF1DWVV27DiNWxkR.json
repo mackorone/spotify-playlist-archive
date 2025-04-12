@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "The premier indie melancholia playlist, featuring Lizzy McAlpine",
+  "description": "The premier indie melancholia playlist, featuring Lana Del Rey",
   "name": "Sad Indie",
   "tracks": [
     {
@@ -326,7 +326,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-12",
       "duration_ms": 160991,
       "name": "Another One",
       "url": "https://open.spotify.com/track/63q9LqTK5iiZLy3cTvLMUf"
@@ -2410,6 +2410,24 @@
       "duration_ms": 255866,
       "name": "Hello in There",
       "url": "https://open.spotify.com/track/75XoW8Al02k8I3F03Nswj5"
+    },
+    {
+      "album": {
+        "name": "Henry, come on",
+        "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311269,
+      "name": "Henry, come on",
+      "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
     },
     {
       "album": {

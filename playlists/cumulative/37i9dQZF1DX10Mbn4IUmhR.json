@@ -5843,6 +5843,28 @@
     },
     {
       "album": {
+        "name": "the place i use to hide",
+        "url": "https://open.spotify.com/album/69QHpSkaCgV9hSp3FSmy9Z"
+      },
+      "artists": [
+        {
+          "name": "Yum Yuck",
+          "url": "https://open.spotify.com/artist/5lAZTyHLWuqddQudiftzIE"
+        },
+        {
+          "name": "Melting Resonance",
+          "url": "https://open.spotify.com/artist/2rMriHWxxmwJG7C3xd9Sod"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200480,
+      "name": "the place i use to hide",
+      "url": "https://open.spotify.com/track/3NZQHSL3COv2iak4y5c0my"
+    },
+    {
+      "album": {
         "name": "A Rush of Blood to the Head",
         "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
       },

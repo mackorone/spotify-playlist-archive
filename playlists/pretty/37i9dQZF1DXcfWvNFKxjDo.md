@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Robin Schulz, OSWALD
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,622 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,695 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 49 | [HERZSCHLAG](https://open.spotify.com/track/1qJH8giBk7OawPg5RF5j9A) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [KLUBPARTEI](https://open.spotify.com/album/1uISv19ZmoOXpsqqm48iik) | 3:53 |
 | 50 | [KAI](https://open.spotify.com/track/0F5kzrD66lNCKGEty5QgJh) | [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH) | [KAI](https://open.spotify.com/album/6EE1WsJ7pzngXNJM6fK36a) | 3:22 |
 | 51 | [Never Forget You](https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Never Forget You](https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh) | 3:04 |
-| 52 | [FOREVER](https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [FOREVER](https://open.spotify.com/album/7cXPqivcSwwoWsx29zT6lq) | 2:39 |
+| 52 | [Forever](https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Forever](https://open.spotify.com/album/7cXPqivcSwwoWsx29zT6lq) | 2:39 |
 | 53 | [Champs In The Rave](https://open.spotify.com/track/5DZe6T5CbGtlwt47zG6eXZ) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [TEDDY\-O](https://open.spotify.com/artist/7G1pOSE6cde2iXenQsMMe3) | [Champs In The Rave](https://open.spotify.com/album/40EDrDTKQNvTAlPXZCml1B) | 2:51 |
 | 54 | [Pull Me Through](https://open.spotify.com/track/3flsFUEsn2Iodkv1PsDuXu) | [D S D](https://open.spotify.com/artist/4g8BjUgv4gbpeOdJmlosh5) | [Pull Me Through](https://open.spotify.com/album/4EwZ1cA9akHOe7zXojbwmQ) | 3:02 |
 | 55 | [Friday, I’m In Luv \(feat\. bbyclose\)](https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Friday, I’m In Luv \(feat\. bbyclose\)](https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae) | 2:25 |
