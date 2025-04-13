@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-516 songs - 1 day 1 hr 10 min
+517 songs - 1 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Carried Away \(Love To Love\) \(with Madison Beer\) \[Tchami Remix\]](https://open.spotify.com/track/4UWYz4VDyycuuyN2A9B2sY) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [Carried Away \(Love To Love\) \[Tchami Remix\]](https://open.spotify.com/album/3jmkm8U4Fp8LX1qBH0nzmx) | 4:49 | 2021-10-29 | 2022-08-06 |
 | [Cathedral \(Piece Of Me\) \[feat\. JEN\]](https://open.spotify.com/track/7CXln4Z9LfQdsPpXaPrDQn) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [JEN](https://open.spotify.com/artist/6DaSJnsDXVDcrHzru4MHrx) | [Cathedral \(Piece Of Me\) \[feat\. JEN\]](https://open.spotify.com/album/7bOJCwe874SKa24MfzyNEG) | 2:28 | 2022-09-16 |  |
 | [Certified](https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC) | [Certified](https://open.spotify.com/album/0TyvVgpxn616G6DGoA25VK) | 2:55 | 2023-08-11 | 2025-01-25 |
-| [Chain Gang](https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Chain Gang](https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0) | 1:47 | 2023-07-07 |  |
+| [Chain Gang](https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Chain Gang](https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0) | 1:47 | 2023-07-07 | 2025-04-13 |
 | [Champs Élysées](https://open.spotify.com/track/5gVBu5EPgBtvpdunsSCphU) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe) | [Champs Élysées](https://open.spotify.com/album/7CiBz23MJz5cZz4IPclRu5) | 2:41 | 2025-01-24 |  |
 | [Change Your Mind](https://open.spotify.com/track/614o3Tg9I7Xv8xkovjSp7a) | [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I) | [Change Your Mind](https://open.spotify.com/album/4lzvg3fmxUlAGaxfbWhBt4) | 3:04 | 2021-10-29 | 2023-12-16 |
 | [Check Out](https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Check Out](https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb) | 2:54 | 2022-01-21 | 2023-12-16 |
@@ -297,6 +297,7 @@
 | [Love Up High](https://open.spotify.com/track/2XrbbnU0xnKybBGUWqJG1p) | [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ) | [Love Up High](https://open.spotify.com/album/3LEE5fUFSInw4x777ecBvC) | 3:04 | 2023-12-15 | 2024-11-18 |
 | [Lovin' You](https://open.spotify.com/track/3XkAdIenMaTqCnNBRkUOLw) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Moonway](https://open.spotify.com/artist/5TD5NIfep7zFBj02sGPudp), [Chacel](https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep) | [Lovin' You](https://open.spotify.com/album/4amastQmuNwMbAR7Pj2OQ9) | 2:22 | 2021-10-29 | 2022-08-06 |
 | [Low](https://open.spotify.com/track/3PwhytWfZi2IFkL2EltgKf) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [JKATZ](https://open.spotify.com/artist/30tRnXvnAGLdXFTVond1S7) | [Low](https://open.spotify.com/album/2Zu0jZHHt8xYws9Ct96qci) | 2:58 | 2024-05-31 | 2024-06-04 |
+| [Lullaby](https://open.spotify.com/track/2QOadE17eoDQSzXWcfCSJD) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY) | [Lullaby](https://open.spotify.com/album/51wiwpo6ZoXNiYX4KagKuh) | 3:18 | 2025-04-11 |  |
 | [MACH 10](https://open.spotify.com/track/1lBkr90r5ayibZw92Be7RJ) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [MACH 10](https://open.spotify.com/album/3Uj5FjcVPVhC8UHUt1wfhV) | 3:19 | 2023-11-10 | 2023-12-14 |
 | [MACH 10](https://open.spotify.com/track/5FOtOFVTbAzZXvDOwarIHS) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [MACH 10](https://open.spotify.com/album/2iAKGqvunvXqNfMZqFsQoR) | 3:19 | 2023-12-08 | 2023-12-16 |
 | [Magic Carpet](https://open.spotify.com/track/4BAc3BAru7sZajWAftSsAA) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [MAY BBY](https://open.spotify.com/artist/6Lo8eDoMJqDyDBKENRlPMU) | [Magic Carpet](https://open.spotify.com/album/7bjaj1UGXKRZA9SiOtBNu4) | 2:48 | 2021-10-29 | 2022-07-29 |

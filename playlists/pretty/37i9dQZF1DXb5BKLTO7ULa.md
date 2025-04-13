@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek van: Anouk, Bon Iver, Jack en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,942 likes - 93 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,966 likes - 93 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 58 | [Perfect Crime](https://open.spotify.com/track/4yJSTICwkb1yEHaTJwMtPJ) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Perfect Crime](https://open.spotify.com/album/5JhzWK5USSOibCz5xbwuKx) | 3:16 |
 | 59 | [For Me](https://open.spotify.com/track/6d5IqgQZPEKYJAaNXcnWkl) | [Iamroyston](https://open.spotify.com/artist/2LJ7EXcNlX7Vdtd83Nrk2i), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD) | [For Me](https://open.spotify.com/album/4oLGgyv77tU2maxfbGxmRt) | 2:41 |
 | 60 | [DH22](https://open.spotify.com/track/5xcnLJP6j5p9JNZhLvAcPD) | [Marathon](https://open.spotify.com/artist/4AmPhWuKz1UIdx2Mvt4yAw) | [Fading Image](https://open.spotify.com/album/3T6bNRPa8Ltm1xWYaFxvaO) | 3:56 |
-| 61 | [M.I.A.](https://open.spotify.com/track/0mENsTD5d24KtZEqIprrxA) | [Alexander IV](https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi), [Lyma](https://open.spotify.com/artist/0xPtup1hxxUpOxuEfhdlYa) | [M.I.A.](https://open.spotify.com/album/1OPzIpLvYadEQi8qXyO7j8) | 2:12 |
+| 61 | [M.I.A.](https://open.spotify.com/track/0mENsTD5d24KtZEqIprrxA) | [Alexander IV](https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [M.I.A.](https://open.spotify.com/album/1OPzIpLvYadEQi8qXyO7j8) | 2:12 |
 | 62 | [Stampen Op De Maan](https://open.spotify.com/track/6Ms8IjjyxRcPMrKUNjLxyD) | [FeestDJRuud](https://open.spotify.com/artist/0IId5Ktyl22C7W9PtisEXD), [Fokke Simons](https://open.spotify.com/artist/6bdx9tCkHEg9ff61hu7xkI) | [Stampen Op De Maan](https://open.spotify.com/album/68EofGuF3K04ejPyv6ZgJo) | 2:55 |
 | 63 | [Als Ik 't Anders Zou Doen](https://open.spotify.com/track/6a8x5NbgOoAaMDXOojWcwG) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Als Ik 't Anders Zou Doen](https://open.spotify.com/album/42JFmXsiFtbsfZGGh5wjRh) | 2:46 |
 | 64 | [Het Zou Maar Eenzaam Zijn](https://open.spotify.com/track/3cL3CM89GEtdm4JsnMVkJH) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Tempo Giusto](https://open.spotify.com/album/51hBNht7uljss0tqH7btFk) | 3:21 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 66 | [6feet Under](https://open.spotify.com/track/7zi57nedtmmqK7WIsVjR6M) | [Leela Rosa](https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66) | [Keep Applying Pressure!](https://open.spotify.com/album/1ubT6HTxSfKy1ddr6QvKPW) | 2:48 |
 | 67 | [ireallylikeboys](https://open.spotify.com/track/2tIBSnICLrCZLLqEpaL5X2) | [KUZKO](https://open.spotify.com/artist/1XwtSHxSZ06XfQ0qah9Rxo) | [ireallylikeboys](https://open.spotify.com/album/6Tt6CMuQfrZ77xiZ692yqQ) | 2:29 |
 | 68 | ['s Avonds](https://open.spotify.com/track/7x1g0FzxUy4ca0NQE6ufl3) | [PRISKA](https://open.spotify.com/artist/2VnNxgnvg9H85vWtZuBo6w) | ['s Avonds](https://open.spotify.com/album/5sP1fZrdIBXxXeU0daeAko) | 2:52 |
-| 69 | [Feelings](https://open.spotify.com/track/5jB0Q9ZPsfyrT0oSAt04Ug) | [Lucky Jones](https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [Feelings](https://open.spotify.com/album/55s6eEr4iqNuZWfwAcrQzN) | 2:49 |
+| 69 | [Feelings](https://open.spotify.com/track/5jB0Q9ZPsfyrT0oSAt04Ug) | [Lucky Jones](https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Feelings](https://open.spotify.com/album/55s6eEr4iqNuZWfwAcrQzN) | 2:49 |
 | 70 | [Got It From My Momma](https://open.spotify.com/track/2VpVYYHEIUS8mfrmhI0pAB) | [Cheryl Öztürk](https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9) | [Got It From My Momma](https://open.spotify.com/album/3MM0YL5O4zU2i1LsZCLTeR) | 2:11 |
 | 71 | [Hopeless on the dance floor](https://open.spotify.com/track/0s4skSYr7Dc0wlpysQHZoB) | [Westheaven](https://open.spotify.com/artist/6DL4MG7n0el4T6yCY2ARDo), [JAÏNDA](https://open.spotify.com/artist/66o7kKRzYuVjtmQo4acAkR) | [Hopeless on the dance floor](https://open.spotify.com/album/0MPPBe94Gd6FgB4JgVXTXW) | 3:24 |
 | 72 | [Spooky](https://open.spotify.com/track/15NBU7EHReQ6ANZBcMpljn) | [Dreamteam](https://open.spotify.com/artist/6ZnwZN3qKP8co3zW6O2gX3), [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x), [Giniio](https://open.spotify.com/artist/1iSUoJSoYDqjIO5P1CdPfM) | [Spooky](https://open.spotify.com/album/0AYtPAQMmMKZHmDS9iErIl) | 2:34 |

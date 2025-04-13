@@ -1,6 +1,6 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 451208,
+  "num_followers": 451209,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "You Want It Darker",
-        "url": "https://open.spotify.com/album/3jeTB3j3QmUs8SPIVleHtU"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 284373,
-      "name": "You Want It Darker",
-      "url": "https://open.spotify.com/track/5zb7npjQqoJ7Kcpq4yD9qn"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "Ants From Up There",
         "url": "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 433360,
       "name": "The Place Where He Inserted the Blade",
       "url": "https://open.spotify.com/track/3k2kIiJqUiIP49iUcOLpWT"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "You Want It Darker",
+        "url": "https://open.spotify.com/album/3jeTB3j3QmUs8SPIVleHtU"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 284373,
+      "name": "You Want It Darker",
+      "url": "https://open.spotify.com/track/5zb7npjQqoJ7Kcpq4yD9qn"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 168760,
-      "name": "I Love Me After You",
-      "url": "https://open.spotify.com/track/55Y5p2XyPaYBPGtzj1f9fE"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "Tusk (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 283013,
       "name": "Sisters of the Moon - 2015 Remaster",
       "url": "https://open.spotify.com/track/7Gjj6NxSsVwXfOXUjvjCXv"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 168760,
+      "name": "I Love Me After You",
+      "url": "https://open.spotify.com/track/55Y5p2XyPaYBPGtzj1f9fE"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
+        "name": "Space Heavy",
+        "url": "https://open.spotify.com/album/36tUlc8fGxaUTv4cLmC9UJ"
+      },
+      "artists": [
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "duration_ms": 127150,
+      "name": "Empty Stomach Space Cadet",
+      "url": "https://open.spotify.com/track/3iMc9mplMBY32uAWGRbtWU"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
         "name": "Le Temple Volant",
         "url": "https://open.spotify.com/album/1LiZ2XItICSDOaNT4Bpnx5"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 125893,
       "name": "Le Temple Volant",
       "url": "https://open.spotify.com/track/2uQotduUA32t7EwTEMvMyb"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
-        "name": "Space Heavy",
-        "url": "https://open.spotify.com/album/36tUlc8fGxaUTv4cLmC9UJ"
-      },
-      "artists": [
-        {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
-        }
-      ],
-      "duration_ms": 127150,
-      "name": "Empty Stomach Space Cadet",
-      "url": "https://open.spotify.com/track/3iMc9mplMBY32uAWGRbtWU"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "I, Gemini",
-        "url": "https://open.spotify.com/album/377kd2Yt5RbH24v4rcKKRC"
-      },
-      "artists": [
-        {
-          "name": "Let's Eat Grandma",
-          "url": "https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF"
-        }
-      ],
-      "duration_ms": 339173,
-      "name": "Deep Six Textbook",
-      "url": "https://open.spotify.com/track/70NVkxI6kOjABDvRDkRLqQ"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "The Waves Pt. 1",
         "url": "https://open.spotify.com/album/6CTDHmkq504AdTYiPokwSW"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 262040,
       "name": "Smalltown Boy",
       "url": "https://open.spotify.com/track/4eau8qa4koyrqBysxTBCpp"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "I, Gemini",
+        "url": "https://open.spotify.com/album/377kd2Yt5RbH24v4rcKKRC"
+      },
+      "artists": [
+        {
+          "name": "Let's Eat Grandma",
+          "url": "https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF"
+        }
+      ],
+      "duration_ms": 339173,
+      "name": "Deep Six Textbook",
+      "url": "https://open.spotify.com/track/70NVkxI6kOjABDvRDkRLqQ"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
+        "name": "Double Negative",
+        "url": "https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P"
+      },
+      "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
+        }
+      ],
+      "duration_ms": 382674,
+      "name": "Dancing and Blood",
+      "url": "https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
         "name": "Dancing with Ghosts",
         "url": "https://open.spotify.com/album/1yLAAVq1QqUKEhKJKkHjdl"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 218373,
       "name": "You are the Problem Here",
       "url": "https://open.spotify.com/track/1wSGgkDKaX5OXM7NPqJv4U"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
-        "name": "Double Negative",
-        "url": "https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P"
-      },
-      "artists": [
-        {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
-        }
-      ],
-      "duration_ms": 382674,
-      "name": "Dancing and Blood",
-      "url": "https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "How Are You Feeling?",
-        "url": "https://open.spotify.com/album/3ACiWjaBoShElZRG9btFRc"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 269140,
-      "name": "How Are You Feeling?",
-      "url": "https://open.spotify.com/track/0mZfp1Sdj9zLJGbNykMnZd"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "They Moved In Shadow All Together",
         "url": "https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 279000,
       "name": "Nightmares on Repeat",
       "url": "https://open.spotify.com/track/5j86pOXbQwoJUmTJj3xiUc"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "How Are You Feeling?",
+        "url": "https://open.spotify.com/album/3ACiWjaBoShElZRG9btFRc"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 269140,
+      "name": "How Are You Feeling?",
+      "url": "https://open.spotify.com/track/0mZfp1Sdj9zLJGbNykMnZd"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "Tape V",
-        "url": "https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw"
-      },
-      "artists": [
-        {
-          "name": "Daniel Spaleniak",
-          "url": "https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs"
-        }
-      ],
-      "duration_ms": 177801,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "Somebody Told Me",
         "url": "https://open.spotify.com/album/3kLyeLRbV9sExn8j6Dxd5P"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 231242,
       "name": "Somebody Told Me",
       "url": "https://open.spotify.com/track/1NipBTZQXFIeQaqzy1Mdjj"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "Tape V",
+        "url": "https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw"
+      },
+      "artists": [
+        {
+          "name": "Daniel Spaleniak",
+          "url": "https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs"
+        }
+      ],
+      "duration_ms": 177801,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "Wife Once",
-        "url": "https://open.spotify.com/album/1urkJiWWUJc6IuD5aZMedt"
-      },
-      "artists": [
-        {
-          "name": "Memory of Speke",
-          "url": "https://open.spotify.com/artist/58pZ02rmQbTbYcpC3O7K78"
-        }
-      ],
-      "duration_ms": 225036,
-      "name": "Wife Once",
-      "url": "https://open.spotify.com/track/0vCtC5xweWwyLl84yfM1iR"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "Wicked Animal",
         "url": "https://open.spotify.com/album/3gTAR3ksapRN0d01BRYr9i"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 284745,
       "name": "Wicked Animal",
       "url": "https://open.spotify.com/track/3OU685WYjjsCh8PJ39KU73"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "Wife Once",
+        "url": "https://open.spotify.com/album/1urkJiWWUJc6IuD5aZMedt"
+      },
+      "artists": [
+        {
+          "name": "Memory of Speke",
+          "url": "https://open.spotify.com/artist/58pZ02rmQbTbYcpC3O7K78"
+        }
+      ],
+      "duration_ms": 225036,
+      "name": "Wife Once",
+      "url": "https://open.spotify.com/track/0vCtC5xweWwyLl84yfM1iR"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "Less",
-        "url": "https://open.spotify.com/album/752HJRCJkpWgUt4arksHZh"
-      },
-      "artists": [
-        {
-          "name": "deathcrash",
-          "url": "https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Duffy's",
-      "url": "https://open.spotify.com/track/0am577lRtOs3ur575VvdmI"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "Tears In The Typing Pool [Demo]",
         "url": "https://open.spotify.com/album/68w71VR1Kdxxe7ZKFsFz34"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 127832,
       "name": "Tears In The Typing Pool [Demo]",
       "url": "https://open.spotify.com/track/4cFJWQsjExGHzy72SU7LBI"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "Less",
+        "url": "https://open.spotify.com/album/752HJRCJkpWgUt4arksHZh"
+      },
+      "artists": [
+        {
+          "name": "deathcrash",
+          "url": "https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Duffy's",
+      "url": "https://open.spotify.com/track/0am577lRtOs3ur575VvdmI"
     }
   ],
   "unique_name": "Spooky",

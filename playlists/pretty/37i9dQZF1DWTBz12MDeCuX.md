@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Elias
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,336 likes - 101 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,289 likes - 101 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

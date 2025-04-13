@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Magnolia Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,555 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,625 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 18 | [Savior Machine](https://open.spotify.com/track/2wN0wGW46M4M5UbtzOsXsh) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5), [Nine Lashes](https://open.spotify.com/artist/6L5kgEyFIlckHbMdRM2KXQ), [Xander Raymond Charles](https://open.spotify.com/artist/0zFeLakYduCcgoJ1ZmK2CH) | [Savior Machine](https://open.spotify.com/album/2PZn3xXWo8gXPhTAqWbI6x) | 3:40 |
 | 19 | [Built To Bleed](https://open.spotify.com/track/6FkfMMdCjDdvbpPVg3mWUG) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Built To Bleed](https://open.spotify.com/album/2kCssWJZMQgDWPsaC3j9vM) | 3:01 |
 | 20 | [Distracted by The Mona Lisa](https://open.spotify.com/track/4QNnATTpV5KKaT8IROdRAg) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [Distracted by the Mona Lisa](https://open.spotify.com/album/5oFMvYCgOpriqdMARPJgfq) | 3:34 |
-| 21 | [Kerosene \| Purged](https://open.spotify.com/track/46poOZ7sExwYQQGYEnnDvZ) | [Great American Ghost](https://open.spotify.com/artist/2KEWeLDHDztMs2phLYTcRX) | [Kerosene \| Purged](https://open.spotify.com/album/5S3LaK1atrYtGxnrstPe1a) | 3:05 |
+| 21 | [Kerosene \| Purged](https://open.spotify.com/track/46poOZ7sExwYQQGYEnnDvZ) | [Great American Ghost](https://open.spotify.com/artist/2KEWeLDHDztMs2phLYTcRX) | [Kerosene \| Purged](https://open.spotify.com/album/5S3LaK1atrYtGxnrstPe1a) | 3:43 |
 | 22 | [UNDERRATED](https://open.spotify.com/track/3aZ8AO93zvx9HNdvP5AmBK) | [elijah](https://open.spotify.com/artist/2khsUR01VIAut0HXZUh5Gy) | [UNDERRATED](https://open.spotify.com/album/3y70TEHiQ3vd0c994uqMGW) | 3:28 |
 | 23 | [everything feels wrong](https://open.spotify.com/track/5kIRPTxZDwcUBkF1lQNClG) | [Reece Young](https://open.spotify.com/artist/1bdqTbBpPy0SGAmxYun3Hh) | [everything feels wrong](https://open.spotify.com/album/5lXxLse023WmIq3I3qhVdX) | 2:25 |
 | 24 | [said and done](https://open.spotify.com/track/1Wj6SS4J8pMpad7CgCjgIH) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [said and done](https://open.spotify.com/album/5y256Ukp4qBoclIgifo6HY) | 3:26 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 37 | [Nothing To It](https://open.spotify.com/track/3HrHjAHY5GMJx7k5Mo8dEF) | [IMMERSE](https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN) | [Nothing To It](https://open.spotify.com/album/22tJ5VFwDPsEyZOeyzUm43) | 3:58 |
 | 38 | [SHURA](https://open.spotify.com/track/4ZGnifHVKhmS1Yekur8NpS) | [DIESECT](https://open.spotify.com/artist/3omvraIGd4KYyb89eeordB) | [SHURA](https://open.spotify.com/album/0vexlqsdJmTbnwAqCJczGS) | 2:51 |
 | 39 | [Ready Aim Fire](https://open.spotify.com/track/2Bu9pMktCxRXdTIR5yMkkG) | [Mister Misery](https://open.spotify.com/artist/6Dj5ptalBwr1kD35IljMeg) | [Ready Aim Fire](https://open.spotify.com/album/5YUCm69wJ0J1P40me3jcV0) | 3:40 |
-| 40 | [Higher](https://open.spotify.com/track/3fttuc1GSLZSovtB2Q2jX6) | [Waltari](https://open.spotify.com/artist/6IuUpA7uQbkfYhl3oG3ZDv) | [Higher](https://open.spotify.com/album/2jbLUNxqF9vKNjRLganbPf) | 4:13 |
+| 40 | [Higher](https://open.spotify.com/track/3fttuc1GSLZSovtB2Q2jX6) | [Waltari](https://open.spotify.com/artist/6IuUpA7uQbkfYhl3oG3ZDv) | [Higher](https://open.spotify.com/album/2jbLUNxqF9vKNjRLganbPf) | 3:20 |
 | 41 | [Redolent Foulness](https://open.spotify.com/track/0o9kFKd0pNAiwdMeIvvhx4) | [Austere](https://open.spotify.com/artist/7gyVPCoE80rSyEW6yuJ6HM) | [Redolent Foulness](https://open.spotify.com/album/6MiycKYBC5AlY9qO1IZjjt) | 5:44 |
 | 42 | [Days under the Dark](https://open.spotify.com/track/1o7Tb0Amcc4xIBfIXLtTAV) | [The Man\-Eating Tree](https://open.spotify.com/artist/6WXlGSfgUApP9UCG8npAM8) | [Night Verses](https://open.spotify.com/album/48UqtPHp0pm1B65OvKswRA) | 7:40 |
 | 43 | [Dance With The Dancing Clown](https://open.spotify.com/track/7AHtElBefvJNfiCRBlpt50) | [Trick or Treat](https://open.spotify.com/artist/2mj5rXb8mYaRoF7oOHfgqI) | [Dance With The Dancing Clown](https://open.spotify.com/album/1VV8Sc2oGtY5fs6F4GQCKh) | 3:32 |

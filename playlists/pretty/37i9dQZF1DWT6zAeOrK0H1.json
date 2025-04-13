@@ -1,6 +1,6 @@
 {
   "description": "Home of the best bands orbiting the universe right now. Cover: Fontaines D.C.",
-  "num_followers": 917,
+  "num_followers": 961,
   "original_name": "The Best Bands In The Universe \ud83e\ude90",
   "owner": {
     "name": "Spotify",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-03-11 23:40:41",
       "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/2xivxT3O20OUxWYJ0FDAFX"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 305800,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/5sWxjNIEShZQHxAOjhzA9n"
-    },
-    {
-      "added_at": "2024-03-11 23:40:41",
-      "album": {
         "name": "Is This What It Feels Like to Feel Like This?",
         "url": "https://open.spotify.com/album/2YoatZbkNsBRrfmX0pq9Ay"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 172506,
       "name": "Dressed to Kill",
       "url": "https://open.spotify.com/track/6j7s4efnQGF19g6Jp2HE9D"
+    },
+    {
+      "added_at": "2024-03-11 23:40:41",
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/2xivxT3O20OUxWYJ0FDAFX"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 305800,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/5sWxjNIEShZQHxAOjhzA9n"
     },
     {
       "added_at": "2024-06-01 16:35:15",

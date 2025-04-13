@@ -4,7 +4,7 @@
 
 > Mooi van eigen bodem 🇳🇱
 
-152 songs - 7 hr 51 min
+153 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Maar Niet Met Jou Erbij](https://open.spotify.com/track/1mYqzZR5sfv0zZhgtyUsna) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Maar Niet Met Jou Erbij](https://open.spotify.com/album/6KGMZMTMQvbFgaqZJDu1ey) | 3:01 | 2024-06-24 | 2024-11-05 |
 | [Mes In M'n Rug](https://open.spotify.com/track/4GZd9XVEm3YxbTtll982i1) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2024 \(Aflevering 4\- SERA\)](https://open.spotify.com/album/0hrDw65YQjmEmM38cBHF1V) | 2:57 | 2025-01-08 |  |
 | [Middenweg](https://open.spotify.com/track/3b9LcqTuGaPtQigdbyuFZE) | [Reyck](https://open.spotify.com/artist/36t2vlP5OiRO1G7EgxgNvU) | [Los](https://open.spotify.com/album/6bgCKabxQJRfIMpQw0oi0f) | 3:03 | 2024-07-25 | 2024-09-20 |
+| [Mijn Dorp In De Kempen \(uit Liefde Voor Muziek\)](https://open.spotify.com/track/2Jc7DQilZLNtv8qrkU1Quj) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Mijn Dorp In De Kempen \(uit Liefde Voor Muziek\)](https://open.spotify.com/album/5ipD1vyfx57xhUE7bERMHC) | 4:26 | 2025-04-10 |  |
 | [Mijn Huisje](https://open.spotify.com/track/2S0b2igN6JP3gcokE7EXtE) | [Bolle Tito](https://open.spotify.com/artist/20768ncxf9ouMj8IKAB6nc), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Mijn Huisje](https://open.spotify.com/album/0fy34G5zLy2C86oi23Gph1) | 2:34 | 2024-11-04 | 2024-12-13 |
 | [Moonlight Drive](https://open.spotify.com/track/5P7QfIkTLyWIF3VYVOHzYi) | [Josha Daniel](https://open.spotify.com/artist/3U0iFfS4kjiAkS1oCUOmuN) | [Moonlight Drive](https://open.spotify.com/album/5S5GtHB5s6tUAnbG1T44we) | 3:18 | 2024-06-24 | 2024-07-23 |
 | [Morgen Wordt Fantastisch](https://open.spotify.com/track/2UI9rmmINuXVWeOrprjWBy) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Morgen Wordt Fantastisch](https://open.spotify.com/album/2gwvQ8E4bcZbua78zLrj61) | 2:38 | 2024-11-21 |  |
@@ -120,7 +121,7 @@
 | [Schijnbaar Niet Waar](https://open.spotify.com/track/1WITbzl4lGLokvRBIqKWVj) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Schijnbaar Niet Waar](https://open.spotify.com/album/18SrsVBd4z2Y7duRaDdvVS) | 2:31 | 2024-06-24 | 2024-12-13 |
 | [Schreeuwen](https://open.spotify.com/track/2xn7cPoNGK74i52b5whZ7A) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Samen Één](https://open.spotify.com/album/0F2Oyz1BS2A5xTU7iCvzxf) | 2:55 | 2024-11-04 |  |
 | [Seizoenen](https://open.spotify.com/track/4GrHcWRKOwq3DWu8F9OryT) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Seizoenen](https://open.spotify.com/album/6O6pOwgtsdIF0CioNutqV0) | 3:07 | 2025-04-10 |  |
-| [Slaap Lekker](https://open.spotify.com/track/64EB0FN3fLIslczqsDjVx1) | [JASHA](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Slaap Lekker](https://open.spotify.com/album/58WAXCxWYLQgMybk6ZRQVJ) | 2:14 | 2024-12-12 |  |
+| [Slaap Lekker](https://open.spotify.com/track/64EB0FN3fLIslczqsDjVx1) | [JASHA](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Slaap Lekker](https://open.spotify.com/album/58WAXCxWYLQgMybk6ZRQVJ) | 2:14 | 2024-12-12 | 2025-04-13 |
 | [Slaapwandelaar](https://open.spotify.com/track/47TXIa09GpZU1zSu9xc3p2) | [Bart Voncken](https://open.spotify.com/artist/313iy3CDtL0MAqtm6ObDTa), [Fluitsma & van Tijn](https://open.spotify.com/artist/6Rt7Udi1gfj5d1jkebhmKg) | [Slaapwandelaar](https://open.spotify.com/album/5ynpuj3Kb6zGCJSJS4NO3R) | 3:16 | 2024-06-24 | 2024-11-22 |
 | [Slapeloos](https://open.spotify.com/track/2RrgTyCnqDo2QNsRiJoy28) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv) | [Slapeloos](https://open.spotify.com/album/3rorul1v1uEObKiX6Zn3i4) | 3:09 | 2024-09-12 | 2025-03-07 |
 | [Somebody New](https://open.spotify.com/track/1u4RBJArUMeEXHic7VqWjv) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [Somebody New](https://open.spotify.com/album/1esmSMTOShTTI0OqG3rsnO) | 2:52 | 2024-06-24 | 2024-11-05 |

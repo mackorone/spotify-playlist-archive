@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 宋德鶴 \(Song of Crane\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,671 likes - 128 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,673 likes - 128 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 26 | [愛不宜遲 Not Too Late](https://open.spotify.com/track/6XuUa1kXTmQ68DBCi8j9OB) | [Eileen Yo游宇潼](https://open.spotify.com/artist/4L2NMVuHynGLY9FXlQbogX) | [楚門 Dream Sober](https://open.spotify.com/album/7vxlr1fQ9xfkx5tkVuquNo) | 3:16 |
 | 27 | [SLAVE](https://open.spotify.com/track/6Zg8oELLwEQ0q91WojoqZB) | [忘憂水 Wonder Water](https://open.spotify.com/artist/6hwGNRMHwuw0jJxLV6UBzA) | [SLAVE](https://open.spotify.com/album/0KviEs5wKo1gg6gu60ZZyn) | 3:08 |
 | 28 | [乾杯 \(啉予焦\)](https://open.spotify.com/track/0gXpnT3Jbggga26IMORHnO) | [潘信維](https://open.spotify.com/artist/0qQzar6a1SPUdjilmWBykS), [荒山亮](https://open.spotify.com/artist/0SOlTkn1UElgcoONp254HS) | [乾杯 \(啉予焦\)](https://open.spotify.com/album/6GdiF0kJApAmtXPA6XLnNl) | 4:26 |
-| 29 | [J Σ // 6 @](https://open.spotify.com/track/03dYTlOjnxhoIAkxeSfX1A) | [Goose 我鳥](https://open.spotify.com/artist/4h1sE1sVLVe4cRO4mn8mtN), [Ian](https://open.spotify.com/artist/0jRzRAdDRdEtz2advDjqx5), [byn](https://open.spotify.com/artist/0mG4TxdyI3X8RhOwUBerFT) | [J Σ // 6 @](https://open.spotify.com/album/1MecB3Fmlom60eDAzL4NW1) | 3:52 |
+| 29 | [J Σ // 6 @](https://open.spotify.com/track/03dYTlOjnxhoIAkxeSfX1A) | [Goose 我鳥](https://open.spotify.com/artist/4h1sE1sVLVe4cRO4mn8mtN), [ian](https://open.spotify.com/artist/6R31XmRISTVixIU3rXCtqZ), [byn](https://open.spotify.com/artist/0mG4TxdyI3X8RhOwUBerFT) | [J Σ // 6 @](https://open.spotify.com/album/1MecB3Fmlom60eDAzL4NW1) | 3:52 |
 | 30 | [Highlife Chaser](https://open.spotify.com/track/0ypwv52RX6XntnQwdSlyh3) | [ZL7](https://open.spotify.com/artist/1RUGX6XkAnOk25OZBjwXjX), [4MG Billy](https://open.spotify.com/artist/0I0eDfomg8shM0Pm0nLmCL), [4MG](https://open.spotify.com/artist/7tztHa682atHlC9RTYXwKn) | [Highlife Chaser](https://open.spotify.com/album/1OByIeBsVxPwsvWk5NiQTv) | 3:23 |
 | 31 | [貪婪](https://open.spotify.com/track/2A3785Zn7M5NkUr4410RT6) | [痞爺](https://open.spotify.com/artist/73G9tzZhnkWwHWP0rF2jfB), [Jiang](https://open.spotify.com/artist/7bgsEUToBJthK0JhW1xfmX) | [貪婪之壺](https://open.spotify.com/album/5u0uiOVv1Tsx05Gh0IemCI) | 2:32 |
 | 32 | [冰冷的溫度](https://open.spotify.com/track/5o5Sghg7PftiE6EAqdXjp3) | [LOSEN](https://open.spotify.com/artist/5eN4JxAlpCvNZXr8It0Dss), [九顛伈](https://open.spotify.com/artist/4Hrevabz7hvYXQDjOpNvgh) | [冰冷的溫度](https://open.spotify.com/album/3mZy98h55ybtic3lh4g68v) | 3:20 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 127 | [陪我過假日 \(Leo 第三封回信\)](https://open.spotify.com/track/7eLcg3ex45wGmn2wWspXOu) | [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP) | [信歌](https://open.spotify.com/album/4aAI83w5SFS1kXKFwGS5en) | 3:55 |
 | 128 | [鑰匙還你](https://open.spotify.com/track/2gloLtkhS6dtpm72HtCxKQ) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX) | [鑰匙還你](https://open.spotify.com/album/1Zl3YpE95vcuX8WMSWxQCz) | 3:08 |
 
-Snapshot ID: `Z/frGwAAAAAdbcsNjozqOryVCwKajs5x`
+Snapshot ID: `Z/o2/gAAAABsvrFxq+B4zci3IMUHpPGD`

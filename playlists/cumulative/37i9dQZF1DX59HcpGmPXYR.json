@@ -1976,19 +1976,19 @@
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
           "name": "Miley Cyrus",
           "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 169333,
-      "name": "Prisoner (feat. Miley Cyrus)",
+      "name": "Prisoner (feat. Dua Lipa)",
       "url": "https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B"
     },
     {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 > 2025 RADAR登場！持續發掘香港未來新聲！Cover: Gordon Flanders
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,313 likes - 32 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,315 likes - 32 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

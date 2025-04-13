@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,958 songs - 1 day 15 hr 45 min
+1,959 songs - 1 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1019,6 +1019,7 @@
 | [Love Is Far Way \- Remastered](https://open.spotify.com/track/1IcQ6noWlvfzl3LqVpe5eW) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Selected Trios](https://open.spotify.com/album/28mNtiGCdqzEFctOdeDxC8) | 1:05 | 2024-02-09 | 2024-02-13 |
 | [Love Within Us](https://open.spotify.com/track/5xtYJCcExovHuz7G2jV027) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Love Within Us](https://open.spotify.com/album/2tF3EsNvOxuDwBpuqhhDQw) | 0:56 | 2024-07-29 |  |
 | [Loving In The Light](https://open.spotify.com/track/3whulguc6rUnuicUrNxYMC) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Inner Calling](https://open.spotify.com/album/6jz7Ss9WTWOTMh7hGZikzy) | 1:03 | 2022-02-24 | 2024-01-30 |
+| [Loving Season Arr\. For Piano](https://open.spotify.com/track/1BwGkCmRgxtWtMPj4Vi4CM) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Loving Season](https://open.spotify.com/album/0D0lemhY49ziiknE9EZ8Hf) | 1:00 | 2025-04-13 |  |
 | [Loving Smile](https://open.spotify.com/track/7ID8DliBbIxjnUgu8tJde7) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Loving Smile](https://open.spotify.com/album/3Ndz4X6KSvC8dCRX9ZmvQs) | 1:00 | 2025-02-15 |  |
 | [Loving World](https://open.spotify.com/track/51gUmm6GI54ffw7g8b6qGg) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Ambient Trios](https://open.spotify.com/album/3W0i0ISKNweZGXfbsCwJRH) | 1:11 | 2022-01-20 |  |
 | [Loving World Again](https://open.spotify.com/track/5Cdxf0LROHctWji5XX8gaN) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Loving World Again](https://open.spotify.com/album/2MREzIFg5zMJjkrrlfAHGt) | 1:01 | 2024-02-09 | 2024-02-13 |

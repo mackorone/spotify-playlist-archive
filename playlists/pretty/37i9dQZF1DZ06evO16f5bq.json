@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 152748,
+  "num_followers": 152800,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/cKAAAAAAC3SHoPZ04KmmmrbM4x7yoO",
+  "snapshot_id": "Z/hbgAAAAAAK7zuADSUMMPb0/zw01l6A",
   "tracks": [
     {
       "added_at": null,
@@ -1187,6 +1187,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "At\u00e9 o c\u00e9u",
+        "url": "https://open.spotify.com/album/713q68xdmP3jOgkAdY0gd4"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 166829,
+      "name": "At\u00e9 o c\u00e9u",
+      "url": "https://open.spotify.com/track/0NRP5OIrTcgGvttJlSLO0n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rio",
         "url": "https://open.spotify.com/album/2wQCMH9zQ2KYDjhUmgIS4s"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 247701,
       "name": "Sem convite (feat. MOD\u00c9$TIA, MC Cabelinho e Yoka)",
       "url": "https://open.spotify.com/track/7fxrvStpH0qyh6iHXoSZ31"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "At\u00e9 o c\u00e9u",
-        "url": "https://open.spotify.com/album/713q68xdmP3jOgkAdY0gd4"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 166829,
-      "name": "At\u00e9 o c\u00e9u",
-      "url": "https://open.spotify.com/track/0NRP5OIrTcgGvttJlSLO0n"
     },
     {
       "added_at": null,

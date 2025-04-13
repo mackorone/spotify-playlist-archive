@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 
 > Henrique & Juliano e os artistas mais ouvidos no Brasil em 2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,873 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,031 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Última Saudade \- Ao Vivo](https://open.spotify.com/track/1wubETHu3SeJHfbz9itEH0) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / EP1\)](https://open.spotify.com/album/4HothMjvojSA740SFUAiRC) | 2:30 |
-| 2 | [Melhor Vibe](https://open.spotify.com/track/5brVlCCt8gp4pP0iJOOctj) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Melhor Vibe](https://open.spotify.com/album/4ZoSMD7wD1xMzq0iXlEach) | 5:41 |
+| 2 | [Melhor Vibe](https://open.spotify.com/track/5brVlCCt8gp4pP0iJOOctj) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Melhor Vibe](https://open.spotify.com/album/4ZoSMD7wD1xMzq0iXlEach) | 5:41 |
 | 3 | [Solteiro Forçado \- Ao Vivo](https://open.spotify.com/track/1dx7F1j3W2wlgyxwvkFksY) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Boiadeira Internacional \(Ao Vivo\)](https://open.spotify.com/album/1eLF8DMP6DQrGcJXqqIlAa) | 3:14 |
 | 4 | [Sorriso no Rosto](https://open.spotify.com/track/3kBYuWrGtx1tSHjzr0vlZh) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Sorriso no Rosto](https://open.spotify.com/album/7uA5fxR9xIiO5rXx4pkchd) | 2:28 |
 | 5 | [Vem Desestressar](https://open.spotify.com/track/5jrQZnYInM6YUjr2yFSa3E) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [prodbyeros](https://open.spotify.com/artist/2VykmpwjNmZuVWKiKnqonz) | [O Cara Do Momento, Vol\. 2](https://open.spotify.com/album/35C0UUdgV8mkuBaJrxbagf) | 4:03 |

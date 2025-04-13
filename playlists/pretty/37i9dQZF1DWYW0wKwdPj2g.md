@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: EmmaOMG
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,108 likes - 102 songs - 13 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,144 likes - 102 songs - 13 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 8 | [The Greater One \- Live](https://open.spotify.com/track/4flFxEhEkewMqbCGSA3BFE) | [Promise Benson](https://open.spotify.com/artist/3Qq79ttYAI3U1Vhev6Og28), [Ema Onyx](https://open.spotify.com/artist/6Cnb464ggB0K5HuPfeci5F) | [The Greater One \(Live\)](https://open.spotify.com/album/5vf9ZhUKJgaUM4QmOalVdg) | 5:43 |
 | 9 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 |
 | 10 | [Fragrance to Fire](https://open.spotify.com/track/7eGDM90StP3QFkcwJPaLRg) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Gospel of the Kingdom](https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5) | 10:57 |
-| 11 | [Yeshuah \- Live from London](https://open.spotify.com/track/1cZFDOXK1aEEsUeagFnlRC) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Yeshuah \(Live from London\)](https://open.spotify.com/album/6ZHUF2m9rL5rVTKwSykbbI) | 4:11 |
+| 11 | [Yeshua \- Live from London](https://open.spotify.com/track/1cZFDOXK1aEEsUeagFnlRC) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Yeshua \(Live from London\)](https://open.spotify.com/album/6ZHUF2m9rL5rVTKwSykbbI) | 4:11 |
 | 12 | [Judah \- Live](https://open.spotify.com/track/4KiMR2stFyYXenTQPonWTV) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Judah \(Live\)](https://open.spotify.com/album/3G7STAcuoN3HD69I2GP1dd) | 8:54 |
 | 13 | [My Lover \- Live](https://open.spotify.com/track/7DdZb0zDfmg7dXGsUICh2E) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 8:24 |
 | 14 | [Ebenezer \- Live](https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [VICTORIA ORENZE](https://open.spotify.com/artist/132I30e3higEmuOlmqnP1w) | [HALLELUJAH LIVE](https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY) | 8:31 |

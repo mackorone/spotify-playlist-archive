@@ -2,9 +2,9 @@
 
 ### [Today's Indie Rock](https://open.spotify.com/playlist/37i9dQZF1DX30HHrCAl4ZG)
 
-> Explore all things indie rock right now\. Featuring music from Wet Leg
+> Explore all things indie rock right now\. Featuring music from Parcels
 
-1,850 songs - 4 day 7 hr 48 min
+1,851 songs - 4 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -536,7 +536,7 @@
 | [Enything](https://open.spotify.com/track/2UKoazaZ4EJHGIa2UJRcPO) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Enything](https://open.spotify.com/album/5dOyFR717iZJDNeOoWtHQj) | 4:41 | 2025-02-07 | 2025-04-05 |
 | [Erotica](https://open.spotify.com/track/1LSNpTyXrSwWGt41KMwdrJ) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Erotica](https://open.spotify.com/album/0wNtL3nTtwyOPSlGUb30Tg) | 3:13 | 2024-12-06 | 2025-04-05 |
 | [Especially You](https://open.spotify.com/track/1prCMVGhgKF805LZJhFIHe) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Especially You](https://open.spotify.com/album/6GdntthLLMwjMcKiv4b70R) | 3:01 | 2022-02-11 | 2022-06-11 |
-| [Espionage](https://open.spotify.com/track/6GuVLubDfYlFVc1YKWmEVR) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Espionage](https://open.spotify.com/album/5absPtnH7lb3sFE6MudIa8) | 3:28 | 2025-02-14 |  |
+| [Espionage](https://open.spotify.com/track/6GuVLubDfYlFVc1YKWmEVR) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Espionage](https://open.spotify.com/album/5absPtnH7lb3sFE6MudIa8) | 3:28 | 2025-02-14 | 2025-04-13 |
 | [Eucalyptus](https://open.spotify.com/track/4jWYcdqKv3LGrTTaJ8WI16) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Eucalyptus](https://open.spotify.com/album/1X4j5akVUneSAF4ZYuoULl) | 4:24 | 2023-03-24 | 2023-07-01 |
 | [Even If You're Gone](https://open.spotify.com/track/1g4XxdY1F5vivfgenJ5JVM) | [Beau](https://open.spotify.com/artist/2Mm2NXLhda25RQLyaZyUJU) | [Even If You're Gone](https://open.spotify.com/album/1DtwhpnzId8cjHeMYThyZ3) | 3:40 | 2022-06-25 | 2022-07-16 |
 | [Evening Star Supercharger](https://open.spotify.com/track/2DfRUDyRZxianclImSBMQy) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE) | [Bird Machine](https://open.spotify.com/album/7DUDIoIEw2yGKi1wcLjRuy) | 3:46 | 2023-09-08 | 2023-11-11 |
@@ -951,6 +951,7 @@
 | [Leash \(Babygirl Original Soundtrack\)](https://open.spotify.com/track/3UURgDYcbOzELx4jVyKbwA) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Leash \(Babygirl Original Soundtrack\)](https://open.spotify.com/album/7eNb8Hx6Ozf6Ed8WbPo3LG) | 4:21 | 2024-12-06 |  |
 | [Leash on My Neck](https://open.spotify.com/track/35sQgCOe4QZ3TTnJw57zgL) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Leash on My Neck](https://open.spotify.com/album/7vcpF0T8XU5j0QtC7bz8pf) | 2:38 | 2022-11-18 | 2022-11-25 |
 | [Leave A Message \(w/ aldn\)](https://open.spotify.com/track/0WEfQELwVnvx7NutDMr8JZ) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [Leave A Message \(w/ aldn\)](https://open.spotify.com/album/0x9LF4xvgEPN511yeQCC3V) | 2:27 | 2024-08-30 | 2025-01-11 |
+| [Leaveyourlove](https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Leaveyourlove](https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug) | 3:51 | 2025-04-12 |  |
 | [Leaving Today](https://open.spotify.com/track/63tDRyYBftYrwURgtR42Zc) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Leaving Today](https://open.spotify.com/album/4BFWVYvDKU5dEF3LDRDeG4) | 4:12 | 2022-04-01 | 2022-10-01 |
 | [legroom](https://open.spotify.com/track/4JzuUq7VjNF32PJb51l8n5) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [legroom](https://open.spotify.com/album/7Ah5gi5esQYI7UNNABFft4) | 1:37 | 2021-10-02 | 2022-04-25 |
 | [Let Em Talk](https://open.spotify.com/track/3pJWlIHb7HNvVrzPmH0A9Z) | [King Garbage](https://open.spotify.com/artist/2ziuYXYq2WG6cZpa43fWpX) | [Heavy Metal Greasy Love](https://open.spotify.com/album/0xbWAcPqKnN0zi4Fb7E5tD) | 4:02 | 2022-04-01 | 2022-04-21 |

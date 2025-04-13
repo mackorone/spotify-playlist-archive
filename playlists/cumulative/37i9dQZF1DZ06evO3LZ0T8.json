@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "Bad B",
+        "url": "https://open.spotify.com/album/0zpf6Mkc9v127iGORp26wA"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153346,
+      "name": "Bad B",
+      "url": "https://open.spotify.com/track/6dbca3nF7J8wdRdf6PYMNq"
+    },
+    {
+      "album": {
         "name": "Bad Decisions",
         "url": "https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM"
       },
@@ -270,7 +288,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 186750,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/4mqzTIzpMtbN9lfPVqVjUD"

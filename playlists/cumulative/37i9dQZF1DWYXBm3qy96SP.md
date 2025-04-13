@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: HAIM
 
-1,551 songs - 3 day 17 hr 15 min
+1,552 songs - 3 day 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Beautiful People \(Stay High\)](https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd) | 2:47 | 2024-01-11 | 2024-04-20 |
 | [Beautiful Sky \(feat\. Jim James\)](https://open.spotify.com/track/7zlU2NsGW5lILMxjTwJrpm) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0), [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Little Bit of Sun](https://open.spotify.com/album/2IIZUA4Ey5voQpvhhrOw71) | 4:57 | 2023-11-02 | 2023-11-10 |
 | [Been Here Before](https://open.spotify.com/track/2KlAdT5Y6515sZdOPka8sA) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Been Here Before](https://open.spotify.com/album/71S6zEj9bB6MAYURARKQ4g) | 4:27 | 2024-08-01 | 2024-11-05 |
-| [Bekhauf \(feat\. BABYMETAL\)](https://open.spotify.com/track/0KLm7cjKriGkqI0ApLlzNb) | [Bloodywood](https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Bekhauf \(feat\. BABYMETAL\)](https://open.spotify.com/album/6J8ujkbzjxaBofiBg3TLRk) | 3:48 | 2024-12-05 |  |
+| [Bekhauf \(feat\. BABYMETAL\)](https://open.spotify.com/track/0KLm7cjKriGkqI0ApLlzNb) | [Bloodywood](https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Bekhauf \(feat\. BABYMETAL\)](https://open.spotify.com/album/6J8ujkbzjxaBofiBg3TLRk) | 3:48 | 2024-12-05 | 2025-04-13 |
 | [Believe Me \(Even If I'm Lying\)](https://open.spotify.com/track/5D4mRZsNbuJHUD4IyPWiTs) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Believe Me \(Even If I'm Lying\)](https://open.spotify.com/album/2J6zYvoCvBeZzBrA1WGybw) | 2:45 | 2024-01-11 | 2024-01-19 |
 | [bella](https://open.spotify.com/track/2i5q9JRYHVkPNegErZ2WvA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [bella / i can't find anyone](https://open.spotify.com/album/3AJEvGdq17HHvF20ITVbD7) | 3:19 | 2023-10-19 | 2023-11-03 |
 | [Below The Belt](https://open.spotify.com/track/7jZYdgfv4tn2oRkzuCBTZ5) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Prepare For Despair](https://open.spotify.com/album/0ykmroLBGEswLI1xjg2tqv) | 3:12 | 2023-08-17 | 2023-08-25 |
@@ -1514,6 +1514,7 @@
 | [Wrecking Ball](https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Wrecking Ball](https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd) | 3:55 | 2023-10-19 | 2023-12-17 |
 | [X's](https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [X's](https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I) | 3:03 | 2024-07-11 | 2025-03-28 |
 | [Y.S.K.W.](https://open.spotify.com/track/46Lnoask1iRJP47GnaoVcF) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Y.S.K.W.](https://open.spotify.com/album/6K1Xi9aQgxX6H5WquzgOVj) | 3:31 | 2023-08-17 | 2023-08-25 |
+| [Year of the Snake](https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Year of the Snake](https://open.spotify.com/album/40kcviBHQOANd1C29Qwp25) | 5:10 | 2025-04-10 |  |
 | [Yo Me Estreso](https://open.spotify.com/track/5z6gkiZKHoy0T4Ybs8iPZw) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5), ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Yo Me Estreso](https://open.spotify.com/album/4L1khaAO4FthiUXyu2IUj1) | 3:13 | 2024-08-15 | 2024-09-06 |
 | [You](https://open.spotify.com/track/6rTrYkgDTdSxed3jEmYqHV) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [You](https://open.spotify.com/album/2eb1zEmefAkQEe5ArXHIpk) | 2:29 | 2024-01-11 | 2024-01-19 |
 | [You \(Show Me Where My Days Went\)](https://open.spotify.com/track/3UIeiuDKnbhZ7OoXZ9j0U5) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [You \(Show Me Where My Days Went\)](https://open.spotify.com/album/6cN6j2Fr5vVCSZnWQyqSSs) | 2:47 | 2024-05-23 | 2024-07-12 |

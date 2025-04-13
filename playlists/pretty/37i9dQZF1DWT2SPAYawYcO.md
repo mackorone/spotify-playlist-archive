@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Feat: ONEFOUR, Lana Del Rey, Dean Lewis, Spacey Jane, Shaboozey, Myles Smith, Bon Iver + more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,951 likes - 95 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,005 likes - 95 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

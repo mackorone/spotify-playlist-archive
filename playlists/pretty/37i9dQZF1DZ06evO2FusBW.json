@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 10816,
+  "num_followers": 10820,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/cKAAAAAAAKvOyQ7E8hsQN4ePfC0ty/",
+  "snapshot_id": "Z/hbgAAAAABpo5dbZfZT9Irs2jsfLe8S",
   "tracks": [
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hintergrundmusik zum Lesen",
-        "url": "https://open.spotify.com/album/2ypUyg36ZeXQlK7fjFt0Dm"
+        "name": "Tree of Light",
+        "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 197573,
-      "name": "Sweet Dream",
-      "url": "https://open.spotify.com/track/5HnSkMqT880jHQL5efIx2h"
+      "duration_ms": 232893,
+      "name": "Flo",
+      "url": "https://open.spotify.com/track/4opgRBGGDePBULgTfwu0Xn"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tree of Light",
-        "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
+        "name": "Hintergrundmusik zum Lesen",
+        "url": "https://open.spotify.com/album/2ypUyg36ZeXQlK7fjFt0Dm"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 232893,
-      "name": "Flo",
-      "url": "https://open.spotify.com/track/4opgRBGGDePBULgTfwu0Xn"
+      "duration_ms": 197573,
+      "name": "Sweet Dream",
+      "url": "https://open.spotify.com/track/5HnSkMqT880jHQL5efIx2h"
     },
     {
       "added_at": null,
@@ -403,6 +403,22 @@
       "duration_ms": 144725,
       "name": "Habibi (Love)",
       "url": "https://open.spotify.com/track/2FAPfnVnC5rLtXSGReURmp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tree of Light",
+        "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 310240,
+      "name": "Summer Night",
+      "url": "https://open.spotify.com/track/4udQdukrhegqWhqdprQtbx"
     },
     {
       "added_at": null,
@@ -439,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tree of Light",
-        "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 310240,
-      "name": "Summer Night",
-      "url": "https://open.spotify.com/track/4udQdukrhegqWhqdprQtbx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meditation 66",
         "url": "https://open.spotify.com/album/62VLkrAkCtoMehAQSelT13"
       },
@@ -471,6 +471,22 @@
       "duration_ms": 1369525,
       "name": "Flow State 22",
       "url": "https://open.spotify.com/track/0E9NGd4NMBF93UBzrEv7u5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meditation 3",
+        "url": "https://open.spotify.com/album/5q24MVIvqxjaGxm6FCUgeo"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 230604,
+      "name": "Meditation 3",
+      "url": "https://open.spotify.com/track/6NRqEnKVvUTMzZRypnptR5"
     },
     {
       "added_at": null,
@@ -507,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meditation 3",
-        "url": "https://open.spotify.com/album/5q24MVIvqxjaGxm6FCUgeo"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 230604,
-      "name": "Meditation 3",
-      "url": "https://open.spotify.com/track/6NRqEnKVvUTMzZRypnptR5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emotive Piano",
         "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
       },
@@ -535,6 +535,22 @@
       "duration_ms": 77999,
       "name": "Changing Times",
       "url": "https://open.spotify.com/track/5XEwkz6o2JWAQL9xmtJC3X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Winter Impressions",
+        "url": "https://open.spotify.com/album/64YMG6vJwyIM8ambiLp2UR"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 208871,
+      "name": "Falling into a Dream",
+      "url": "https://open.spotify.com/track/6RGnazKbWUw3YQUR9Cd5Y3"
     },
     {
       "added_at": null,
@@ -571,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Winter Impressions",
-        "url": "https://open.spotify.com/album/64YMG6vJwyIM8ambiLp2UR"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 208871,
-      "name": "Falling into a Dream",
-      "url": "https://open.spotify.com/track/6RGnazKbWUw3YQUR9Cd5Y3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meditation 111",
         "url": "https://open.spotify.com/album/418PRzkbwMn1lsbNtBWHeC"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "[extended] BLISS",
-        "url": "https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 167880,
-      "name": "Noah",
-      "url": "https://open.spotify.com/track/28VLOsb8NVYCfGgXvZF7Lq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Le R\u00eave d'une note",
         "url": "https://open.spotify.com/album/3kaHw48zUVcXBK5wCsWITY"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 1354080,
       "name": "Meditation 22",
       "url": "https://open.spotify.com/track/2zyt5VHuSeLPBfUjl9uDNx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "[extended] BLISS",
+        "url": "https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 167880,
+      "name": "Noah",
+      "url": "https://open.spotify.com/track/28VLOsb8NVYCfGgXvZF7Lq"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Portraits in Film",
+        "url": "https://open.spotify.com/album/5UgUWVUhDfevhi7qYOClzB"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 199648,
+      "name": "Brave Heart",
+      "url": "https://open.spotify.com/track/040Md6cPvzjqwPXZIcPnm4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "[extended] BLISS",
         "url": "https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 278750,
       "name": "NATURE VIBRATION",
       "url": "https://open.spotify.com/track/07B34XRyX1ZYl28exCMNYY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Portraits in Film",
-        "url": "https://open.spotify.com/album/5UgUWVUhDfevhi7qYOClzB"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 199648,
-      "name": "Brave Heart",
-      "url": "https://open.spotify.com/track/040Md6cPvzjqwPXZIcPnm4"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meditation 432",
-        "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 278958,
-      "name": "A BIRD'S TALE",
-      "url": "https://open.spotify.com/track/0BQSiWiaW8UvRUVSELnAVh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sleep Meditations",
         "url": "https://open.spotify.com/album/7jUPTcLc38L1PLCfpBceai"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 272550,
       "name": "Sleep Meditation: Light Sleep Schumann Resonance 432 Hz",
       "url": "https://open.spotify.com/track/3945Sap2pWM7WJsCiH3g5E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meditation 432",
+        "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 278958,
+      "name": "A BIRD'S TALE",
+      "url": "https://open.spotify.com/track/0BQSiWiaW8UvRUVSELnAVh"
     },
     {
       "added_at": null,

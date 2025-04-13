@@ -16247,6 +16247,24 @@
     },
     {
       "album": {
+        "name": "La Botella",
+        "url": "https://open.spotify.com/album/3Z2crjuGy29QAQtKzz7Rvo"
+      },
+      "artists": [
+        {
+          "name": "Maeso",
+          "url": "https://open.spotify.com/artist/0pC1Jc795DJh6ffra4d7D9"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157565,
+      "name": "La Botella",
+      "url": "https://open.spotify.com/track/0wPCYYvUU8igwiTAlbwVjF"
+    },
+    {
+      "album": {
         "name": "La Caja de Pandora",
         "url": "https://open.spotify.com/album/0uZrDylgoRkGht7mPi2ukd"
       },
@@ -16952,7 +16970,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 178426,
       "name": "La Nena",
       "url": "https://open.spotify.com/track/4aR1PWvBRZTJ417mf8Eib3"
@@ -20950,7 +20968,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 195712,
       "name": "Me Muero",
       "url": "https://open.spotify.com/track/4MfDHmbJQNpeBp83uSlsSa"
@@ -22266,7 +22284,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 137191,
       "name": "MONA LISA",
       "url": "https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ"
@@ -35361,6 +35379,24 @@
     },
     {
       "album": {
+        "name": "Vuelve el Merengue",
+        "url": "https://open.spotify.com/album/3lmCQED04iauPJR1C07uhj"
+      },
+      "artists": [
+        {
+          "name": "Rubby Perez",
+          "url": "https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296093,
+      "name": "Tu Vas a Volar",
+      "url": "https://open.spotify.com/track/5P16dV6qkVUzL5uB1ytmDg"
+    },
+    {
+      "album": {
         "name": "Tu Veneno",
         "url": "https://open.spotify.com/album/6Ab7Nz9ei3hv3ImgbIvmJi"
       },
@@ -36968,7 +37004,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 232149,
       "name": "Volver",
       "url": "https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM"

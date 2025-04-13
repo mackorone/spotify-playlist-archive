@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-2,157 songs - 5 day 1 hr 57 min
+2,158 songs - 5 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2021,6 +2021,7 @@
 | [Voy](https://open.spotify.com/track/7eVAueNTldeMplUKSlOKs9) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Vale](https://open.spotify.com/artist/3xO9hPdz5KQ7wOXxshldeL) | [Voy](https://open.spotify.com/album/5vBQCLIMqBMZ1zyoidUtm7) | 3:05 | 2022-08-05 | 2022-09-03 |
 | [W.I.L.D.](https://open.spotify.com/track/1FPj2m299qR59m7lyo3kI7) | [Elternhouse](https://open.spotify.com/artist/2T0Pjvt0kNuyw1nE3s56wj) | [W.I.L.D](https://open.spotify.com/album/0VDJ5zDU7zcAJ4vivxJKrR) | 2:44 | 2023-10-06 | 2023-10-14 |
 | [Waist Thin Ass Fat](https://open.spotify.com/track/2DkdLt6NPPBNwxIQQI99D7) | [BURNR](https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5) | [Waist Thin Ass Fat](https://open.spotify.com/album/2yvBlvRgMqpoMbRiHUP7xy) | 4:04 | 2022-10-31 | 2022-11-06 |
+| [Wait](https://open.spotify.com/track/6TWAWRJGk75udjHapVlwi8) | [FOOTWURK](https://open.spotify.com/artist/1XrSIbRO5hpc8BhTNJMkXp), [Rise Of The JellyFish](https://open.spotify.com/artist/74u8W37qWfc4v3KINoc9wC) | [Wait](https://open.spotify.com/album/4JfgfVQE9JuWnxSbkGyWTT) | 3:09 | 2025-04-12 |  |
 | [Wait \(Kenty Clide Remix\)](https://open.spotify.com/track/76hQGlAuPjMh0uYxDfm1qU) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Kenty Clide](https://open.spotify.com/artist/2Shy7amYgzRmadn7sX4Ri0) | [Wait \(Remixes\)](https://open.spotify.com/album/5Z1WbgKEYL2baoQWLDovBG) | 3:17 | 2022-04-28 | 2022-05-14 |
 | [Wait A Minute](https://open.spotify.com/track/0UAK0qiRTIPUnMzjwKk2PF) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Wait A Minute](https://open.spotify.com/album/7bEV9C1I27kJqPO53JqTBP) | 3:22 | 2023-02-10 | 2023-02-18 |
 | [Wait For Me](https://open.spotify.com/track/1bHQCaCHzfqOLFQtIuNdXK) | [DJ S.K.T](https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0) | [Wait For Me](https://open.spotify.com/album/2oEwrQXxQxrJTsmXRx00d0) | 3:15 | 2024-05-01 | 2024-05-21 |

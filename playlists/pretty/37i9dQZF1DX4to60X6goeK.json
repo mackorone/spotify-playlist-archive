@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Georgie Riot",
-  "num_followers": 69458,
+  "num_followers": 69504,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-03-21 00:00:13",
       "album": {
-        "name": "I See You",
-        "url": "https://open.spotify.com/album/2iGupYncg0V5MfQYVzcGI8"
-      },
-      "artists": [
-        {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
-        }
-      ],
-      "duration_ms": 200228,
-      "name": "I See You",
-      "url": "https://open.spotify.com/track/1h9CeTtiXEJ6aPf3CwTb0s"
-    },
-    {
-      "added_at": "2025-03-21 00:00:13",
-      "album": {
         "name": "Robocop",
         "url": "https://open.spotify.com/album/728fvPpHJCciPbvrLI5cCT"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 181714,
       "name": "Robocop",
       "url": "https://open.spotify.com/track/4QY57ARj1tVdl4rufjwAdO"
+    },
+    {
+      "added_at": "2025-03-21 00:00:13",
+      "album": {
+        "name": "I See You",
+        "url": "https://open.spotify.com/album/2iGupYncg0V5MfQYVzcGI8"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        }
+      ],
+      "duration_ms": 200228,
+      "name": "I See You",
+      "url": "https://open.spotify.com/track/1h9CeTtiXEJ6aPf3CwTb0s"
     },
     {
       "added_at": "2025-03-21 00:00:13",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-03-21 00:00:13",
       "album": {
-        "name": "Behemoth",
-        "url": "https://open.spotify.com/album/03I61jwYEx4Uymzs4iAZio"
-      },
-      "artists": [
-        {
-          "name": "Simula",
-          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Behemoth",
-      "url": "https://open.spotify.com/track/6ZVgnqRsYGRwSYrdmUGkF8"
-    },
-    {
-      "added_at": "2025-03-21 00:00:13",
-      "album": {
         "name": "Goose Chase",
         "url": "https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 180344,
       "name": "Goose Chase",
       "url": "https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0"
+    },
+    {
+      "added_at": "2025-03-21 00:00:13",
+      "album": {
+        "name": "Behemoth",
+        "url": "https://open.spotify.com/album/03I61jwYEx4Uymzs4iAZio"
+      },
+      "artists": [
+        {
+          "name": "Simula",
+          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Behemoth",
+      "url": "https://open.spotify.com/track/6ZVgnqRsYGRwSYrdmUGkF8"
     },
     {
       "added_at": "2025-03-21 00:00:13",
@@ -1039,26 +1039,18 @@
     {
       "added_at": "2025-03-21 00:00:13",
       "album": {
-        "name": "Bomb Squad (Bou Remix)",
-        "url": "https://open.spotify.com/album/1WLCIFIAjIJ6klq4kHGuWk"
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/661T7Q1xowT66rUQcNQImr"
       },
       "artists": [
         {
-          "name": "Dominator",
-          "url": "https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn"
-        },
-        {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        },
-        {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
         }
       ],
-      "duration_ms": 288052,
-      "name": "Bomb Squad - Bou Remix",
-      "url": "https://open.spotify.com/track/6jGU17l4TnPAB3I97tCdD3"
+      "duration_ms": 188965,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/511645viu8hqZNiUcvrPyg"
     }
   ],
   "unique_name": "Jump Up!",

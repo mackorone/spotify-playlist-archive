@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "So Kono",
+        "url": "https://open.spotify.com/album/3Kp6AmA5EEW5vKwU8qAJmY"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327040,
+      "name": "Awa",
+      "url": "https://open.spotify.com/track/75G3E59I9CGpFQMgtdahOk"
+    },
+    {
+      "album": {
         "name": "Moffou",
         "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
       },
@@ -136,7 +154,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 394040,
       "name": "Bithi\u00e9loul\u00e9",
       "url": "https://open.spotify.com/track/0MIDNOaei1vflCzmXWX0ez"

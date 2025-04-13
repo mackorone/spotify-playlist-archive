@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 213876,
+  "num_followers": 213880,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2025-04-10 22:00:16",
       "album": {
+        "name": "Never Look Down",
+        "url": "https://open.spotify.com/album/3FrIUKSAtIxvyVOiLRwbhm"
+      },
+      "artists": [
+        {
+          "name": "Isak Benjamin",
+          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "What My Heart Needs",
+      "url": "https://open.spotify.com/track/0XYd2DMcwh4P2SDB6ahPNh"
+    },
+    {
+      "added_at": "2025-04-10 22:00:16",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
       },
@@ -607,22 +623,6 @@
     {
       "added_at": "2025-04-10 22:00:16",
       "album": {
-        "name": "UFO",
-        "url": "https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 180364,
-      "name": "UFO",
-      "url": "https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR"
-    },
-    {
-      "added_at": "2025-04-10 22:00:16",
-      "album": {
         "name": "Goodbye to the Valley Low (Side A)",
         "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
       },
@@ -639,34 +639,18 @@
     {
       "added_at": "2025-04-10 22:00:16",
       "album": {
-        "name": "A Dangerous Thing",
-        "url": "https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj"
+        "name": "UFO",
+        "url": "https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U"
       },
       "artists": [
         {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
         }
       ],
-      "duration_ms": 215573,
-      "name": "A Dangerous Thing",
-      "url": "https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX"
-    },
-    {
-      "added_at": "2025-04-10 22:00:16",
-      "album": {
-        "name": "bl\u00f3mi",
-        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
-      },
-      "artists": [
-        {
-          "name": "Susanne Sundf\u00f8r",
-          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
-        }
-      ],
-      "duration_ms": 263880,
-      "name": "fare thee well",
-      "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
+      "duration_ms": 180364,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR"
     },
     {
       "added_at": "2025-04-10 22:00:16",
@@ -687,6 +671,22 @@
     {
       "added_at": "2025-04-10 22:00:16",
       "album": {
+        "name": "A Dangerous Thing",
+        "url": "https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 215573,
+      "name": "A Dangerous Thing",
+      "url": "https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX"
+    },
+    {
+      "added_at": "2025-04-10 22:00:16",
+      "album": {
         "name": "Lonely Cowboy",
         "url": "https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A"
       },
@@ -703,18 +703,18 @@
     {
       "added_at": "2025-04-10 22:00:16",
       "album": {
-        "name": "Malory",
-        "url": "https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7"
+        "name": "bl\u00f3mi",
+        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
       },
       "artists": [
         {
-          "name": "Martin Stahl",
-          "url": "https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l"
+          "name": "Susanne Sundf\u00f8r",
+          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
         }
       ],
-      "duration_ms": 178003,
-      "name": "Malory",
-      "url": "https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees"
+      "duration_ms": 263880,
+      "name": "fare thee well",
+      "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
     },
     {
       "added_at": "2025-04-10 22:00:16",
@@ -735,18 +735,18 @@
     {
       "added_at": "2025-04-10 22:00:16",
       "album": {
-        "name": "A Chosen Family",
-        "url": "https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr"
+        "name": "Malory",
+        "url": "https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7"
       },
       "artists": [
         {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+          "name": "Martin Stahl",
+          "url": "https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l"
         }
       ],
-      "duration_ms": 235392,
-      "name": "I Let the Good Ones Go",
-      "url": "https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8"
+      "duration_ms": 178003,
+      "name": "Malory",
+      "url": "https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees"
     },
     {
       "added_at": "2025-04-10 22:00:16",
@@ -783,18 +783,18 @@
     {
       "added_at": "2025-04-10 22:00:16",
       "album": {
-        "name": "I Miss You",
-        "url": "https://open.spotify.com/album/0lLQNchoJCqE6R1ThbopDO"
+        "name": "A Chosen Family",
+        "url": "https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr"
       },
       "artists": [
         {
-          "name": "The Oldsfire Band",
-          "url": "https://open.spotify.com/artist/35boIHWcDqOzDkVWZIgdio"
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
         }
       ],
-      "duration_ms": 152874,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/729Rt2RbcFwecV0Jo5UmNu"
+      "duration_ms": 235392,
+      "name": "I Let the Good Ones Go",
+      "url": "https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8"
     },
     {
       "added_at": "2025-04-10 22:00:16",
@@ -811,6 +811,22 @@
       "duration_ms": 215538,
       "name": "What's Your Time Worth",
       "url": "https://open.spotify.com/track/4Xu0sZo5QjpALLNVnLCHMi"
+    },
+    {
+      "added_at": "2025-04-10 22:00:16",
+      "album": {
+        "name": "I Miss You",
+        "url": "https://open.spotify.com/album/0lLQNchoJCqE6R1ThbopDO"
+      },
+      "artists": [
+        {
+          "name": "The Oldsfire Band",
+          "url": "https://open.spotify.com/artist/35boIHWcDqOzDkVWZIgdio"
+        }
+      ],
+      "duration_ms": 152874,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/729Rt2RbcFwecV0Jo5UmNu"
     },
     {
       "added_at": "2025-04-10 22:00:16",
@@ -927,6 +943,22 @@
     {
       "added_at": "2025-04-10 22:00:16",
       "album": {
+        "name": "Never Gonna Last",
+        "url": "https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL"
+      },
+      "artists": [
+        {
+          "name": "Jesper Lindell",
+          "url": "https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Never Gonna Last - Radio Edit",
+      "url": "https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT"
+    },
+    {
+      "added_at": "2025-04-10 22:00:16",
+      "album": {
         "name": "All for You",
         "url": "https://open.spotify.com/album/7D3j4WXZ5PqbG7fov9oyNb"
       },
@@ -955,38 +987,6 @@
       "duration_ms": 170589,
       "name": "Peace Song",
       "url": "https://open.spotify.com/track/2RTGWy7mMTKcLeQiHapuTv"
-    },
-    {
-      "added_at": "2025-04-10 22:00:16",
-      "album": {
-        "name": "Never Gonna Last",
-        "url": "https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL"
-      },
-      "artists": [
-        {
-          "name": "Jesper Lindell",
-          "url": "https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Never Gonna Last - Radio Edit",
-      "url": "https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT"
-    },
-    {
-      "added_at": "2025-04-10 22:00:16",
-      "album": {
-        "name": "Early Summer Rain",
-        "url": "https://open.spotify.com/album/41rw0yKJcpUla5orniwd45"
-      },
-      "artists": [
-        {
-          "name": "August Flendahl",
-          "url": "https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct"
-        }
-      ],
-      "duration_ms": 170181,
-      "name": "Early Summer Rain",
-      "url": "https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh"
     }
   ],
   "unique_name": "Nordic Folk",

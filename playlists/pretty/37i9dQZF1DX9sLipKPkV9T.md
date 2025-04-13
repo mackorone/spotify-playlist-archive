@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: ענבל ביבי
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,251 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,260 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 50 | [Detonate](https://open.spotify.com/track/2ptUueZJvcClhicBwCvdgW) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [Detonate](https://open.spotify.com/album/1UY4ehACp8brMXDnKAUUXP) | 2:20 |
 | 51 | [סורי](https://open.spotify.com/track/2zlmnlpI2DKSvKAV9tITaA) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw) | [סורי](https://open.spotify.com/album/3V8jNlMHrAFvWCoByUfM1b) | 2:41 |
 | 52 | [אהבת אמת בתל אביב](https://open.spotify.com/track/3YwCO8x7WIJtPF8Pm3fiFt) | [מיה סולימן](https://open.spotify.com/artist/12ft1cfLUNXc6gfM1JzaKR) | [אמן](https://open.spotify.com/album/0JhiWSUqXGtAkrz5SZLmWf) | 2:37 |
-| 53 | [נכון](https://open.spotify.com/track/1lMF5eHbD8NJHiTl7Es6P3) | [Nofia](https://open.spotify.com/artist/0rHxmqmqlCy0dQs0UqRq9q), [ילד.](https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG) | [נכון](https://open.spotify.com/album/4p5owJauZxpHijdLugKPaF) | 3:21 |
+| 53 | [נכון](https://open.spotify.com/track/1lMF5eHbD8NJHiTl7Es6P3) | [Nofia](https://open.spotify.com/artist/0rHxmqmqlCy0dQs0UqRq9q), [ ילד?](https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG) | [נכון](https://open.spotify.com/album/4p5owJauZxpHijdLugKPaF) | 3:21 |
 | 54 | [הנשיקה הראשונה](https://open.spotify.com/track/5Ytxwuer8DjnpL7tyxkGY7) | [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp) | [הנשיקה הראשונה](https://open.spotify.com/album/16lV5OZVKj9UWIOLDnLZ0Z) | 3:18 |
 | 55 | [Black Eye](https://open.spotify.com/track/40jNQbXc3SxO2VVmgSsFlc) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Black Eye](https://open.spotify.com/album/295njq3mu85uparrz5upr0) | 2:25 |
 | 56 | [אלבי](https://open.spotify.com/track/0uL2TjyNqgBgbXIxzqcv9y) | [Sivan Talmor](https://open.spotify.com/artist/4OuNFhB4UqOVluGG75fiWd) | [אלבי](https://open.spotify.com/album/2LgPeo7Kk22ksXeNO5AA8R) | 3:26 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 58 | [נשמה טהורה](https://open.spotify.com/track/0aysOWkZY2NSRQ2OGPGNt8) | [Benaia Barabi](https://open.spotify.com/artist/0WjQnf1rQ0tY84gGgjrQQ9) | [נשמה טהורה](https://open.spotify.com/album/72lISFzzYObZb6qZmGgKkA) | 2:34 |
 | 59 | [לילות לבנים](https://open.spotify.com/track/3Qp8kDRzqoFiTd7UUL4ris) | [Miri Mesika](https://open.spotify.com/artist/0GmwRPHVAU8zOdTOujIDUa), [Benjamin Bouzaglo](https://open.spotify.com/artist/3R2P104vRSQZYUFAglhq9q) | [לילות לבנים](https://open.spotify.com/album/5x3tR7Vt4CyVFzbWYe5Agm) | 3:07 |
 | 60 | [פנינים](https://open.spotify.com/track/74tGCU1GbWrlIPO9Qkp8ZM) | [Kobi Aflalo](https://open.spotify.com/artist/0xYY2tRJGTvQC6rPjk758w) | [פנינים](https://open.spotify.com/album/46U7SCmkISVx507rNfdpsF) | 3:17 |
-| 61 | [למה הייתי רוצה](https://open.spotify.com/track/3k6pkkpcd4nyS1a4AVKPUi) | [Cookie Levanna](https://open.spotify.com/artist/39hTcjXHjg9XAGWO5ubNCD), [ילד.](https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG) | [למה הייתי רוצה](https://open.spotify.com/album/2DyWU7cSDkPMIZsTJ2HQxq) | 3:43 |
+| 61 | [למה הייתי רוצה](https://open.spotify.com/track/3k6pkkpcd4nyS1a4AVKPUi) | [Cookie Levanna](https://open.spotify.com/artist/39hTcjXHjg9XAGWO5ubNCD), [ ילד?](https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG) | [למה הייתי רוצה](https://open.spotify.com/album/2DyWU7cSDkPMIZsTJ2HQxq) | 3:43 |
 | 62 | [לא לדאוג \(עם יוני בלוך\)](https://open.spotify.com/track/18C8YzQwEbgNPbSVg8o0Zz) | [Daniel Koren](https://open.spotify.com/artist/2YnRSGcB6ty615zxv5SmFv), [Yoni Bloch](https://open.spotify.com/artist/3gC0JIIgE2lK3yztam5ndm) | [לא לדאוג \(עם יוני בלוך\)](https://open.spotify.com/album/72pp7GYO2I3I90MWoLEdFs) | 2:29 |
 | 63 | [אהבה זה לא פשוט](https://open.spotify.com/track/4Ewplg4JOYbvtBVqlTgKYR) | [Roni Duani](https://open.spotify.com/artist/3CHmL2qgsbMnGhBD2zYkTA) | [אהבה זה לא פשוט](https://open.spotify.com/album/5cpRJPh2pn1WvaXfSStqBZ) | 2:43 |
 | 64 | [Leave Me](https://open.spotify.com/track/4v61IPd59ilTDCEjvWFWJj) | [Hadar Sopher](https://open.spotify.com/artist/4ept0xjPF374lsJA76Y4rU) | [Leave Me](https://open.spotify.com/album/6rhJZ6qI0oMAXUDC9PlOSC) | 2:34 |

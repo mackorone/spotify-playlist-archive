@@ -1,6 +1,6 @@
 {
   "description": "Para los enamorados y despechados.",
-  "num_followers": 14292,
+  "num_followers": 14355,
   "original_name": "Merengue De Amor",
   "owner": {
     "name": "Spotify",
@@ -23,6 +23,22 @@
       "duration_ms": 293106,
       "name": "Tu Eres Ajena",
       "url": "https://open.spotify.com/track/1jD48pmiHMSVHHPzKLi4P3"
+    },
+    {
+      "added_at": "2024-09-24 21:27:06",
+      "album": {
+        "name": "Vuelve el Merengue",
+        "url": "https://open.spotify.com/album/3lmCQED04iauPJR1C07uhj"
+      },
+      "artists": [
+        {
+          "name": "Rubby Perez",
+          "url": "https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC"
+        }
+      ],
+      "duration_ms": 296093,
+      "name": "Tu Vas a Volar",
+      "url": "https://open.spotify.com/track/5P16dV6qkVUzL5uB1ytmDg"
     },
     {
       "added_at": "2024-09-24 21:27:06",
@@ -59,22 +75,6 @@
     {
       "added_at": "2024-09-24 21:27:06",
       "album": {
-        "name": "Vuelve el Merengue",
-        "url": "https://open.spotify.com/album/3lmCQED04iauPJR1C07uhj"
-      },
-      "artists": [
-        {
-          "name": "Rubby Perez",
-          "url": "https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC"
-        }
-      ],
-      "duration_ms": 296093,
-      "name": "Tu Vas a Volar",
-      "url": "https://open.spotify.com/track/5P16dV6qkVUzL5uB1ytmDg"
-    },
-    {
-      "added_at": "2024-09-24 21:27:06",
-      "album": {
         "name": "Suavemente",
         "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
       },
@@ -107,26 +107,6 @@
     {
       "added_at": "2024-09-24 21:27:06",
       "album": {
-        "name": "100% Merengue",
-        "url": "https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        },
-        {
-          "name": "Ronnie Torres",
-          "url": "https://open.spotify.com/artist/2QUD4hlzyYf6n1Fd9Kda1A"
-        }
-      ],
-      "duration_ms": 279546,
-      "name": "Como Olvidar - Merengue Versi\u00f3n",
-      "url": "https://open.spotify.com/track/7gT6BKjzmmZM0FkYJjPSqv"
-    },
-    {
-      "added_at": "2024-09-24 21:27:06",
-      "album": {
         "name": "En Accion!",
         "url": "https://open.spotify.com/album/5nXmOTbpGP0z0qtYA1CXAb"
       },
@@ -147,38 +127,6 @@
     {
       "added_at": "2024-09-24 21:27:06",
       "album": {
-        "name": "Mentirosa",
-        "url": "https://open.spotify.com/album/1WfKKkx38gcIJrdekcDwO4"
-      },
-      "artists": [
-        {
-          "name": "Roberto Antonio",
-          "url": "https://open.spotify.com/artist/1OuxoQIMrPUQOoshgkopYx"
-        }
-      ],
-      "duration_ms": 231183,
-      "name": "Noches de Fantasia",
-      "url": "https://open.spotify.com/track/3PeQq6jHoOXcEi3OjDO6xu"
-    },
-    {
-      "added_at": "2024-09-24 21:27:06",
-      "album": {
-        "name": "Lo Mejor De To\u00f1o Rosario",
-        "url": "https://open.spotify.com/album/6M9B9lMQrR8e6RKBARRAEp"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Rosario",
-          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
-        }
-      ],
-      "duration_ms": 272653,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/4Vn7MXHMq3qXY3kAfUttc8"
-    },
-    {
-      "added_at": "2024-09-24 21:27:06",
-      "album": {
         "name": "Volando Alto",
         "url": "https://open.spotify.com/album/2EoojuFoL3YrvnKgR3kALw"
       },
@@ -191,6 +139,42 @@
       "duration_ms": 255120,
       "name": "Sobrevivire",
       "url": "https://open.spotify.com/track/1RyrjRUroLjPXeb2wNh9dQ"
+    },
+    {
+      "added_at": "2024-09-24 21:27:06",
+      "album": {
+        "name": "100% Merengue",
+        "url": "https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        },
+        {
+          "name": "Ronnie Torres",
+          "url": "https://open.spotify.com/artist/2QUD4hlzyYf6n1Fd9Kda1A"
+        }
+      ],
+      "duration_ms": 279546,
+      "name": "Como Olvidar - Merengue Versi\u00f3n",
+      "url": "https://open.spotify.com/track/7gT6BKjzmmZM0FkYJjPSqv"
+    },
+    {
+      "added_at": "2024-09-24 21:27:06",
+      "album": {
+        "name": "Mentirosa",
+        "url": "https://open.spotify.com/album/1WfKKkx38gcIJrdekcDwO4"
+      },
+      "artists": [
+        {
+          "name": "Roberto Antonio",
+          "url": "https://open.spotify.com/artist/1OuxoQIMrPUQOoshgkopYx"
+        }
+      ],
+      "duration_ms": 231183,
+      "name": "Noches de Fantasia",
+      "url": "https://open.spotify.com/track/3PeQq6jHoOXcEi3OjDO6xu"
     },
     {
       "added_at": "2024-09-24 21:27:06",
@@ -211,18 +195,18 @@
     {
       "added_at": "2024-09-24 21:27:06",
       "album": {
-        "name": "El Due\u00f1o Del Flow 2 (New Deluxe Version)",
-        "url": "https://open.spotify.com/album/4LJFxXaQCaVu6zVtGvWgI9"
+        "name": "Lo Mejor De To\u00f1o Rosario",
+        "url": "https://open.spotify.com/album/6M9B9lMQrR8e6RKBARRAEp"
       },
       "artists": [
         {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
         }
       ],
-      "duration_ms": 270920,
-      "name": "Estoy Enamorado",
-      "url": "https://open.spotify.com/track/1rYzUTFXaBOmZ3ibcb3CRu"
+      "duration_ms": 272653,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/4Vn7MXHMq3qXY3kAfUttc8"
     },
     {
       "added_at": "2024-09-24 21:27:06",
@@ -243,18 +227,18 @@
     {
       "added_at": "2024-09-24 21:27:06",
       "album": {
-        "name": "Resistire",
-        "url": "https://open.spotify.com/album/7pjcMXlN1lxfgBu0Z3ODFy"
+        "name": "El Due\u00f1o Del Flow 2 (New Deluxe Version)",
+        "url": "https://open.spotify.com/album/4LJFxXaQCaVu6zVtGvWgI9"
       },
       "artists": [
         {
-          "name": "To\u00f1o Rosario",
-          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
         }
       ],
-      "duration_ms": 310226,
-      "name": "Resistire",
-      "url": "https://open.spotify.com/track/7FsESZMkzIJYQAekB2BsIb"
+      "duration_ms": 270920,
+      "name": "Estoy Enamorado",
+      "url": "https://open.spotify.com/track/1rYzUTFXaBOmZ3ibcb3CRu"
     },
     {
       "added_at": "2024-09-24 21:27:06",
@@ -291,6 +275,22 @@
       "duration_ms": 303293,
       "name": "Dile",
       "url": "https://open.spotify.com/track/0eaCLC0UBpc0Wh0EikTe9u"
+    },
+    {
+      "added_at": "2024-09-24 21:27:06",
+      "album": {
+        "name": "Resistire",
+        "url": "https://open.spotify.com/album/7pjcMXlN1lxfgBu0Z3ODFy"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+        }
+      ],
+      "duration_ms": 310226,
+      "name": "Resistire",
+      "url": "https://open.spotify.com/track/7FsESZMkzIJYQAekB2BsIb"
     },
     {
       "added_at": "2024-09-24 21:27:06",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-09-24 21:27:06",
       "album": {
-        "name": "Lo Mejor De...To\u00f1o Rosario",
-        "url": "https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Rosario",
-          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
-        }
-      ],
-      "duration_ms": 281760,
-      "name": "Desnudate Mujer",
-      "url": "https://open.spotify.com/track/33cVlyik4hIaS4gwiLCNcY"
-    },
-    {
-      "added_at": "2024-09-24 21:27:06",
-      "album": {
         "name": "20th Anniversary",
         "url": "https://open.spotify.com/album/2t1J456wqiV9uKy2ILiS7G"
       },
@@ -427,6 +411,22 @@
     {
       "added_at": "2024-09-24 21:27:06",
       "album": {
+        "name": "Lo Mejor De...To\u00f1o Rosario",
+        "url": "https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+        }
+      ],
+      "duration_ms": 281760,
+      "name": "Desnudate Mujer",
+      "url": "https://open.spotify.com/track/33cVlyik4hIaS4gwiLCNcY"
+    },
+    {
+      "added_at": "2024-09-24 21:27:06",
+      "album": {
         "name": "Puro Mambo",
         "url": "https://open.spotify.com/album/1kAS1xnRmN4uDN8Cp1TPcS"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-09-24 21:27:06",
       "album": {
-        "name": "Exclusivo",
-        "url": "https://open.spotify.com/album/6aK3BPI7eC3Tihn7mt70dM"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Rosario",
-          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
-        }
-      ],
-      "duration_ms": 287040,
-      "name": "Un Buen Perdedor",
-      "url": "https://open.spotify.com/track/7oHEmIJtoLEEn3WgBxd9F2"
-    },
-    {
-      "added_at": "2024-09-24 21:27:06",
-      "album": {
         "name": "1",
         "url": "https://open.spotify.com/album/6HlZ3WKAPKbnayeXINUk6w"
       },
@@ -503,22 +487,6 @@
       "duration_ms": 250000,
       "name": "Que Cara Mas Bonita",
       "url": "https://open.spotify.com/track/2ALPuLOqlTrfNWzakxRPVT"
-    },
-    {
-      "added_at": "2024-09-24 21:27:06",
-      "album": {
-        "name": "Caliente",
-        "url": "https://open.spotify.com/album/0gEYiU9xYpARpvTMRitIw1"
-      },
-      "artists": [
-        {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
-        }
-      ],
-      "duration_ms": 306266,
-      "name": "Llego Tu Marido",
-      "url": "https://open.spotify.com/track/7agCLiP3Q8MqFvxQu7WA9B"
     },
     {
       "added_at": "2024-09-24 21:27:06",
@@ -539,6 +507,38 @@
     {
       "added_at": "2024-09-24 21:27:06",
       "album": {
+        "name": "Exclusivo",
+        "url": "https://open.spotify.com/album/6aK3BPI7eC3Tihn7mt70dM"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+        }
+      ],
+      "duration_ms": 287040,
+      "name": "Un Buen Perdedor",
+      "url": "https://open.spotify.com/track/7oHEmIJtoLEEn3WgBxd9F2"
+    },
+    {
+      "added_at": "2024-09-24 21:27:06",
+      "album": {
+        "name": "Caliente",
+        "url": "https://open.spotify.com/album/0gEYiU9xYpARpvTMRitIw1"
+      },
+      "artists": [
+        {
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+        }
+      ],
+      "duration_ms": 306266,
+      "name": "Llego Tu Marido",
+      "url": "https://open.spotify.com/track/7agCLiP3Q8MqFvxQu7WA9B"
+    },
+    {
+      "added_at": "2024-09-24 21:27:06",
+      "album": {
         "name": "Acusame",
         "url": "https://open.spotify.com/album/13GSJCMgDOtnLQXvl6fkiI"
       },
@@ -551,22 +551,6 @@
       "duration_ms": 281400,
       "name": "Quiero Saber de T\u00ed",
       "url": "https://open.spotify.com/track/3kiQ59TqSkTxGNMXm4mVfw"
-    },
-    {
-      "added_at": "2024-09-24 21:27:06",
-      "album": {
-        "name": "Me Olvide de Vivir",
-        "url": "https://open.spotify.com/album/5PdiRF2P994XMGCon5JnRD"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Rosario",
-          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
-        }
-      ],
-      "duration_ms": 337800,
-      "name": "Donde",
-      "url": "https://open.spotify.com/track/3OoiMXkwdEbsSGPrJMGwlv"
     },
     {
       "added_at": "2024-09-24 21:27:06",
@@ -619,6 +603,22 @@
     {
       "added_at": "2024-09-24 21:27:06",
       "album": {
+        "name": "The Last Kiss (Latin Edition)",
+        "url": "https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG"
+      },
+      "artists": [
+        {
+          "name": "El Zafiro",
+          "url": "https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E"
+        }
+      ],
+      "duration_ms": 257560,
+      "name": "Hay No Se Que Hacer",
+      "url": "https://open.spotify.com/track/2bu0vzMnwzjOcHD5xWWU4X"
+    },
+    {
+      "added_at": "2024-09-24 21:27:06",
+      "album": {
         "name": "Brujer\u00eda Con Chilli: On Fire, Episodio 2",
         "url": "https://open.spotify.com/album/0zBjJzad6oD7omkXaZEIjz"
       },
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-09-24 21:27:06",
       "album": {
+        "name": "Me Olvide de Vivir",
+        "url": "https://open.spotify.com/album/5PdiRF2P994XMGCon5JnRD"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+        }
+      ],
+      "duration_ms": 337800,
+      "name": "Donde",
+      "url": "https://open.spotify.com/track/3OoiMXkwdEbsSGPrJMGwlv"
+    },
+    {
+      "added_at": "2024-09-24 21:27:06",
+      "album": {
         "name": "Los A\u00f1os Dorados",
         "url": "https://open.spotify.com/album/1HOTq1XpgcX1Gg2KWw9ike"
       },
@@ -683,22 +699,6 @@
     {
       "added_at": "2024-09-24 21:27:06",
       "album": {
-        "name": "Mi Tierra",
-        "url": "https://open.spotify.com/album/2Ew3tAeAVj7VG1V4WibJft"
-      },
-      "artists": [
-        {
-          "name": "El Jeffrey",
-          "url": "https://open.spotify.com/artist/0WfG4KbWJJoxomK5HH1kSX"
-        }
-      ],
-      "duration_ms": 224634,
-      "name": "Palabritas",
-      "url": "https://open.spotify.com/track/5epiks9AVbw6MoHRv41bPW"
-    },
-    {
-      "added_at": "2024-09-24 21:27:06",
-      "album": {
         "name": "La Fiesta Esta Buena",
         "url": "https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 247379,
       "name": "La Fotografia",
       "url": "https://open.spotify.com/track/3WMA5XIBaQEWP0Ly1iq6GI"
+    },
+    {
+      "added_at": "2024-09-24 21:27:06",
+      "album": {
+        "name": "Mi Tierra",
+        "url": "https://open.spotify.com/album/2Ew3tAeAVj7VG1V4WibJft"
+      },
+      "artists": [
+        {
+          "name": "El Jeffrey",
+          "url": "https://open.spotify.com/artist/0WfG4KbWJJoxomK5HH1kSX"
+        }
+      ],
+      "duration_ms": 224634,
+      "name": "Palabritas",
+      "url": "https://open.spotify.com/track/5epiks9AVbw6MoHRv41bPW"
     },
     {
       "added_at": "2024-09-24 21:27:06",
@@ -763,22 +779,6 @@
       "duration_ms": 302968,
       "name": "Me vas a Extra\u00f1ar",
       "url": "https://open.spotify.com/track/5Muc1XL39s90NZAKvyOiC1"
-    },
-    {
-      "added_at": "2024-09-24 21:27:06",
-      "album": {
-        "name": "The Last Kiss (Latin Edition)",
-        "url": "https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG"
-      },
-      "artists": [
-        {
-          "name": "El Zafiro",
-          "url": "https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E"
-        }
-      ],
-      "duration_ms": 257560,
-      "name": "Hay No Se Que Hacer",
-      "url": "https://open.spotify.com/track/2bu0vzMnwzjOcHD5xWWU4X"
     },
     {
       "added_at": "2024-09-24 21:27:06",

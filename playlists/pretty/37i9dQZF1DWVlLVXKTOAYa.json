@@ -1,6 +1,6 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 1090481,
+  "num_followers": 1090458,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2025-04-04 14:17:40",
       "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "url": "https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 198320,
+      "name": "twilight zone",
+      "url": "https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu"
+    },
+    {
+      "added_at": "2025-04-04 14:17:40",
+      "album": {
         "name": "Just Us (feat. Doja Cat)",
         "url": "https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 172877,
       "name": "Just Us (feat. Doja Cat)",
       "url": "https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l"
-    },
-    {
-      "added_at": "2025-04-04 14:17:40",
-      "album": {
-        "name": "eternal sunshine deluxe: brighter days ahead",
-        "url": "https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 198320,
-      "name": "twilight zone",
-      "url": "https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu"
     },
     {
       "added_at": "2025-04-04 14:17:40",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-04-04 14:17:40",
       "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 159760,
-      "name": "Take You Down",
-      "url": "https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL"
-    },
-    {
-      "added_at": "2025-04-04 14:17:40",
-      "album": {
         "name": "Forever Is A Feeling",
         "url": "https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs"
       },
@@ -931,6 +915,42 @@
       "duration_ms": 203490,
       "name": "Bullseye (with Hozier)",
       "url": "https://open.spotify.com/track/6hwzlorpMDQsHtIhwoNPP9"
+    },
+    {
+      "added_at": "2025-04-04 14:17:40",
+      "album": {
+        "name": "All I Know",
+        "url": "https://open.spotify.com/album/1TNPKEmo5TSj8NpXpDgMsf"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 176046,
+      "name": "All I Know",
+      "url": "https://open.spotify.com/track/2rgWhlzASxN4MKk7c3RAGP"
+    },
+    {
+      "added_at": "2025-04-04 14:17:40",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 159760,
+      "name": "Take You Down",
+      "url": "https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL"
     },
     {
       "added_at": "2025-04-04 14:17:40",
@@ -963,26 +983,6 @@
       "duration_ms": 265792,
       "name": "BUTTERFLY",
       "url": "https://open.spotify.com/track/6a8KhlDiDzF6Jr5Vkru8Gz"
-    },
-    {
-      "added_at": "2025-04-04 14:17:40",
-      "album": {
-        "name": "All I Know",
-        "url": "https://open.spotify.com/album/1TNPKEmo5TSj8NpXpDgMsf"
-      },
-      "artists": [
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 176046,
-      "name": "All I Know",
-      "url": "https://open.spotify.com/track/2rgWhlzASxN4MKk7c3RAGP"
     },
     {
       "added_at": "2025-04-04 14:17:40",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2025-04-04 14:17:40",
       "album": {
+        "name": "All The Love",
+        "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 188127,
+      "name": "All The Love",
+      "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
+    },
+    {
+      "added_at": "2025-04-04 14:17:40",
+      "album": {
         "name": "Scared Of Loving You",
         "url": "https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 110221,
       "name": "Scared Of Loving You",
       "url": "https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct"
-    },
-    {
-      "added_at": "2025-04-04 14:17:40",
-      "album": {
-        "name": "All The Love",
-        "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 188127,
-      "name": "All The Love",
-      "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
     },
     {
       "added_at": "2025-04-04 14:17:40",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-04-04 14:17:40",
       "album": {
-        "name": "We Hug Now",
-        "url": "https://open.spotify.com/album/6t1nUcAa0nq8wcaxqceHVg"
-      },
-      "artists": [
-        {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
-        }
-      ],
-      "duration_ms": 248821,
-      "name": "We Hug Now",
-      "url": "https://open.spotify.com/track/1In22zMILdinxdZng26irr"
-    },
-    {
-      "added_at": "2025-04-04 14:17:40",
-      "album": {
         "name": "Love in Real Life",
         "url": "https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ"
       },
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2025-04-04 14:17:40",
       "album": {
+        "name": "We Hug Now",
+        "url": "https://open.spotify.com/album/6t1nUcAa0nq8wcaxqceHVg"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "duration_ms": 248821,
+      "name": "We Hug Now",
+      "url": "https://open.spotify.com/track/1In22zMILdinxdZng26irr"
+    },
+    {
+      "added_at": "2025-04-04 14:17:40",
+      "album": {
         "name": "Love Is A Stillness",
         "url": "https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl"
       },
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-04-04 14:17:40",
       "album": {
-        "name": "Dinner",
-        "url": "https://open.spotify.com/album/4OWtgRW16OHXE98shkJjZA"
-      },
-      "artists": [
-        {
-          "name": "Adam Klobi",
-          "url": "https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Dinner",
-      "url": "https://open.spotify.com/track/0fD2C4iOpAJet8DBaImPJy"
-    },
-    {
-      "added_at": "2025-04-04 14:17:40",
-      "album": {
         "name": "More Than A Feeling",
         "url": "https://open.spotify.com/album/1uJzTlXwEwWwo30TWER0ms"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 167096,
       "name": "More Than A Feeling",
       "url": "https://open.spotify.com/track/1AgcC6Xyhp5gw0BnedjCJh"
+    },
+    {
+      "added_at": "2025-04-04 14:17:40",
+      "album": {
+        "name": "Dinner",
+        "url": "https://open.spotify.com/album/4OWtgRW16OHXE98shkJjZA"
+      },
+      "artists": [
+        {
+          "name": "Adam Klobi",
+          "url": "https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Dinner",
+      "url": "https://open.spotify.com/track/0fD2C4iOpAJet8DBaImPJy"
     },
     {
       "added_at": "2025-04-04 14:17:40",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-04-04 14:17:40",
       "album": {
-        "name": "Stephanie's Place",
-        "url": "https://open.spotify.com/album/4pdzkbbemVq5EridTLaxZr"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 207856,
-      "name": "Stephanie's Place",
-      "url": "https://open.spotify.com/track/5UMt4OK4CJsKWJqO0ClVEL"
-    },
-    {
-      "added_at": "2025-04-04 14:17:40",
-      "album": {
         "name": "Digital Notes",
         "url": "https://open.spotify.com/album/6VnvZ5urI6jcvIJongGShJ"
       },
@@ -1627,6 +1611,22 @@
     {
       "added_at": "2025-04-04 14:17:40",
       "album": {
+        "name": "Stephanie's Place",
+        "url": "https://open.spotify.com/album/4pdzkbbemVq5EridTLaxZr"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 207856,
+      "name": "Stephanie's Place",
+      "url": "https://open.spotify.com/track/5UMt4OK4CJsKWJqO0ClVEL"
+    },
+    {
+      "added_at": "2025-04-04 14:17:40",
+      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/0Xtj0v242nflooXf1FLutS"
       },
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-04-04 14:17:40",
       "album": {
-        "name": "Rollercoaster",
-        "url": "https://open.spotify.com/album/2S4DjbcLrA37I229RnZXbP"
-      },
-      "artists": [
-        {
-          "name": "Perrie",
-          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Rollercoaster",
-      "url": "https://open.spotify.com/track/4QxtzmKiq03CbuoHDjZFPL"
-    },
-    {
-      "added_at": "2025-04-04 14:17:40",
-      "album": {
         "name": "In The Middle Of Somewhere",
         "url": "https://open.spotify.com/album/5Ir8HNOorKRgfKHffWGhn6"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 193759,
       "name": "Too Much Ain't Enough",
       "url": "https://open.spotify.com/track/0mzW5gng20UwJV67x4vEUo"
+    },
+    {
+      "added_at": "2025-04-04 14:17:40",
+      "album": {
+        "name": "Rollercoaster",
+        "url": "https://open.spotify.com/album/2S4DjbcLrA37I229RnZXbP"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/4QxtzmKiq03CbuoHDjZFPL"
     },
     {
       "added_at": "2025-04-04 14:17:40",

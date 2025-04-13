@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Werenoi, Damso et Ninho au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,656 likes - 89 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,690 likes - 89 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 14 | [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 |
 | 15 | [Year of the Snake](https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Year of the Snake](https://open.spotify.com/album/40kcviBHQOANd1C29Qwp25) | 5:10 |
 | 16 | [This Game](https://open.spotify.com/track/5DYdIEPeXizb0N7kzol6pa) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Get Better](https://open.spotify.com/album/4oYoi6ymhhN9TE3pKnE2Hd) | 3:21 |
-| 17 | [Cruel Summer](https://open.spotify.com/track/5QP97PDtEr3GoH5OmlzQyy) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Cruel Summer](https://open.spotify.com/album/6ZaE06NpbDaVR3YkIZNY13) | 2:48 |
+| 17 | [Cruel Summer \(Again\)](https://open.spotify.com/track/5QP97PDtEr3GoH5OmlzQyy) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Cruel Summer \(Again\)](https://open.spotify.com/album/6ZaE06NpbDaVR3YkIZNY13) | 2:48 |
 | 18 | [Follow The Waves \(feat\. Caden\)](https://open.spotify.com/track/5kFHq6Z70bf8jKrHHOBfGS) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Caden](https://open.spotify.com/artist/3g9TrS2xoUpvNJXvQejXYS) | [Follow The Waves \(feat\. Caden\)](https://open.spotify.com/album/2w1u1N0UTUrv0sWF7y5ncy) | 2:50 |
 | 19 | [Bout U](https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Bout U](https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV) | 2:43 |
 | 20 | [BOSS](https://open.spotify.com/track/1kaxixqEIs3Z5KEWw6AA0a) | [No Limit](https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [DJ Milane](https://open.spotify.com/artist/51VUv5NmNQEO5TMGEaUXAJ) | [BOSS](https://open.spotify.com/album/6bnHdFXwKSykY0MczbRrWL) | 3:15 |

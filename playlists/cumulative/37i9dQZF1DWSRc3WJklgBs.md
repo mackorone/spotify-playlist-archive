@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,420 songs - 3 day 9 hr 58 min
+1,421 songs - 3 day 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [Children Of A Dream](https://open.spotify.com/track/78szFBOcvKZXQBghsXX7wn) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [PYNNO](https://open.spotify.com/artist/0FDAowft7CTLIjbXOHKQki), [Kirrah Amosa](https://open.spotify.com/artist/2ch4zP1mOblJAgNC1H70B8) | [Children Of A Dream](https://open.spotify.com/album/0NrBgMPszhROIvOnJoRbfv) | 2:57 | 2020-09-07 | 2020-10-30 |
 | [Chills \(Feel My Love\)](https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Chills \(Feel My Love\)](https://open.spotify.com/album/5D3qYKt4IFBEQENqzzlh1Y) | 2:43 | 2024-07-26 |  |
 | [City Of Love](https://open.spotify.com/track/4mUJ5LUrEYm12deebNCZSA) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Selah Sol](https://open.spotify.com/artist/3ZnFOxqZB6PMOGElerc68j) | [City Of Love](https://open.spotify.com/album/3OR26UvHzUczbMM2uWCYC0) | 2:46 | 2023-02-01 |  |
-| [Clarity](https://open.spotify.com/track/1BGHqgCLlqyou3h78bXeyd) | [ROZET](https://open.spotify.com/artist/4LyGWqMGeTHfJXbKQmk6YY) | [HEAD](https://open.spotify.com/album/34RlwYaHmnJhOUJ5NTAb97) | 3:40 | 2025-03-21 |  |
+| [Clarity](https://open.spotify.com/track/1BGHqgCLlqyou3h78bXeyd) | [ROZET](https://open.spotify.com/artist/4LyGWqMGeTHfJXbKQmk6YY) | [HEAD](https://open.spotify.com/album/34RlwYaHmnJhOUJ5NTAb97) | 3:40 | 2025-03-21 | 2025-04-13 |
 | [Clorofilla](https://open.spotify.com/track/5fEaRorZZ7qMwESQEagah4) | [DNKNN](https://open.spotify.com/artist/47iimZuHMv8dMPxoy4n4Vg) | [Clorofilla](https://open.spotify.com/album/4Pouxi2Zw9TakGfTfe5VKV) | 3:46 | 2020-06-04 | 2021-09-11 |
 | [Close My Eyes \- Don Diablo Edit](https://open.spotify.com/track/5whHivUi23obAx8lnZyDdg) | [Corderoy](https://open.spotify.com/artist/4pUete0Q9UKRB0mOvANycP), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Close My Eyes \(Don Diablo Edit\)](https://open.spotify.com/album/1Vdz0zzrkdfkmmnoIMp0BF) | 4:42 | 2019-08-09\* | 2021-07-31 |
 | [close to you](https://open.spotify.com/track/2a657moilAHrsI75o595Mz) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [close to you](https://open.spotify.com/album/24JnGLaMQtaML78QIjNuM7) | 3:56 | 2025-01-10 |  |
@@ -1405,6 +1405,7 @@
 | [You \(feat\. Sam Tompkins\)](https://open.spotify.com/track/6Q0Dzn2dGVvq0KPKjl2BPC) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [You \(feat\. Sam Tompkins\)](https://open.spotify.com/album/7FjEeMfveCJGI0IAyqNFGm) | 3:25 | 2021-10-23 | 2022-05-14 |
 | [You \(feat\. Seeb\)](https://open.spotify.com/track/3dVGTB7npFPXJp4839bXNb) | [Svidden](https://open.spotify.com/artist/4TCxJvDPZD9i1P1CLPK9BG), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [You \(feat\. Seeb\)](https://open.spotify.com/album/6WEopWtR9ytzA1bCsdPjMP) | 3:17 | 2023-11-03 | 2025-02-08 |
 | [You Already Know](https://open.spotify.com/track/374iP6eVAWCCCH2mvZT2A9) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [You Already Know](https://open.spotify.com/album/6LMBySjeiqGMof5IojtNcJ) | 2:59 | 2019-08-20 | 2020-10-30 |
+| [You and Me](https://open.spotify.com/track/4jnhZjWPyEeTS7VdiDC7Ui) | [heylucas](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4) | [You and Me](https://open.spotify.com/album/3lfAb8OAMPOInRKO1BuqR7) | 2:42 | 2025-04-11 |  |
 | [You and Me](https://open.spotify.com/track/00bq71I9OZ87M6jZqQFV6I) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Renaissance](https://open.spotify.com/album/3kiAgcLVuNcvVP2HhMkup9) | 3:34 | 2020-06-04 | 2021-09-25 |
 | [You Are Not Alone \(feat\. Dear Sara\)](https://open.spotify.com/track/310TW3iypnMo8laEWughHb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Dear Sara](https://open.spotify.com/artist/721YShAWcHkTb98Kn0zi3S) | [Reflect](https://open.spotify.com/album/6Xhh9hPXHtndhX6Qvs7Ocx) | 3:09 | 2023-01-06 |  |
 | [You Can Be My Light \(feat\. Monika Santucci\)](https://open.spotify.com/track/1zSWY1IuSN1psRqug5DPTH) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Nurko](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Monika Santucci](https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA) | [You Can Be My Light \(feat\. Monika Santucci\)](https://open.spotify.com/album/3VcSh9oSTyceRarnUUgz5G) | 4:28 | 2020-10-30 | 2021-09-25 |

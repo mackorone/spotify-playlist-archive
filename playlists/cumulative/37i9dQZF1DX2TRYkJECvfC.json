@@ -3797,6 +3797,24 @@
     },
     {
       "album": {
+        "name": "Higher Now",
+        "url": "https://open.spotify.com/album/6GUMKmJXypGQ8Ta6OuFTp1"
+      },
+      "artists": [
+        {
+          "name": "Klaverson",
+          "url": "https://open.spotify.com/artist/3HutVQvkOWjDk8fYsWATEr"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197454,
+      "name": "Higher Now",
+      "url": "https://open.spotify.com/track/2fM7sFomSOv5qHhn2p4aQ9"
+    },
+    {
+      "album": {
         "name": "Alchemy",
         "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
       },
@@ -7156,7 +7174,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 343333,
       "name": "One Sunrise At A Time",
       "url": "https://open.spotify.com/track/3rgFqdD4inybMUne06ZubD"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Rema, Lojay, Reekado Banks and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,114 likes - 58 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,284 likes - 58 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 39 | [One One Time](https://open.spotify.com/track/1FeAGhoYss8MkCih7wNd0I) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [One One Time](https://open.spotify.com/album/6CZs48MveP2X8GlqoKJm2j) | 3:04 |
 | 40 | [Hallelujah](https://open.spotify.com/track/3G2kltZAM8iyrUSDGJj85M) | [Demmie Vee](https://open.spotify.com/artist/4GOAIksGygyVj3KxUPXMtq), [Damo K](https://open.spotify.com/artist/2EbTRZdju2hUrMqClX4wyO), [Tia](https://open.spotify.com/artist/3JAdD9AfJI9QymrEo49Qhp) | [Hallelujah](https://open.spotify.com/album/4D7ZvDZBApebTFd8BVrFtK) | 2:43 |
 | 41 | [Gba Gba \(feat\. Toofan\)](https://open.spotify.com/track/0KZn7SdWR2wRZ1XdW7DU89) | [Axel Merryl](https://open.spotify.com/artist/3G8Pa34BvtmFCVZeOkUJBq), [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi) | [Gba Gba \(feat\. Toofan\)](https://open.spotify.com/album/0PPiG1yFFDt6KCxTemDNrm) | 2:56 |
-| 42 | [Roar](https://open.spotify.com/track/3yCzatvMjefyYlpfNu1gwJ) | [1904](https://open.spotify.com/artist/50O4Rc9EuRo5XHYsCrA2BM), [Saqi NFG](https://open.spotify.com/artist/2ZuybLhxJk89IgAGhjCb5n) | [1904](https://open.spotify.com/album/2nBzG6AcdwRMheFoDg0cfu) | 2:22 |
+| 42 | [Roar](https://open.spotify.com/track/3yCzatvMjefyYlpfNu1gwJ) | [1904](https://open.spotify.com/artist/50O4Rc9EuRo5XHYsCrA2BM), [Saqi NFG](https://open.spotify.com/artist/2ZuybLhxJk89IgAGhjCb5n) | [1904](https://open.spotify.com/album/2nBzG6AcdwRMheFoDg0cfu) | 2:25 |
 | 43 | [See Me See God \(SMSG\)](https://open.spotify.com/track/1xFkc8KXwVk1FoG5xhcU3H) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Barrystar Vol\. 1](https://open.spotify.com/album/4HutXkeh0hWTIw2rEFhJIA) | 3:12 |
 | 44 | [Dare to Say](https://open.spotify.com/track/5XQJ4LUieLRFDjbCFM8XAx) | [Fewa](https://open.spotify.com/artist/75C3ZzGRAbVr4Fk3osN51M), [AfroSelecta\-BBK](https://open.spotify.com/artist/7BZSGajmAz3pSRG2l7LPnk) | [Dare to Say](https://open.spotify.com/album/7he9lQvvjaYaiOtOr8IBZb) | 2:21 |
 | 45 | [Mini Mini](https://open.spotify.com/track/4g4stHTtmuhnQrOEOFMbFZ) | [Bahd Man Niko](https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb) | [Mini Mini](https://open.spotify.com/album/4QQxabdVOt7ycHTZsdstGu) | 2:47 |

@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "Aldrig g\u00e5",
+        "url": "https://open.spotify.com/album/3yNbVa7XXNkY04WHaIFU4d"
+      },
+      "artists": [
+        {
+          "name": "Lov1",
+          "url": "https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187782,
+      "name": "Aldrig g\u00e5",
+      "url": "https://open.spotify.com/track/6j4ms9XdinHYyI2a1pphoT"
+    },
+    {
+      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI"
       },
@@ -742,7 +760,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 152470,
       "name": "Can't Forget",
       "url": "https://open.spotify.com/track/4wJ4UgipPD7grD9bk6ADRd"

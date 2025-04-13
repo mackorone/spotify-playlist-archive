@@ -1573,6 +1573,24 @@
     },
     {
       "album": {
+        "name": "KONTINUUM",
+        "url": "https://open.spotify.com/album/6ntwbzl7KGgAipdM8CJIah"
+      },
+      "artists": [
+        {
+          "name": "SennaRin",
+          "url": "https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D"
+        }
+      ],
+      "date_added": "2025-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190545,
+      "name": "KONTINUUM",
+      "url": "https://open.spotify.com/track/0gi4lrKLnvQuMx384HUBkp"
+    },
+    {
+      "album": {
         "name": "LEMONADE",
         "url": "https://open.spotify.com/album/0pNEUlmHs3A3xvBY99kStQ"
       },

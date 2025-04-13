@@ -2426,7 +2426,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 136200,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/19s7wAYW0yKLiHzKUZKs08"
@@ -8347,6 +8347,28 @@
     },
     {
       "album": {
+        "name": "Hiding Places",
+        "url": "https://open.spotify.com/album/0pp3vPDZUE8n3Ck7AbxNPC"
+      },
+      "artists": [
+        {
+          "name": "CL\u00dcE",
+          "url": "https://open.spotify.com/artist/3Su0ARjycouuBn1jXKPgQv"
+        },
+        {
+          "name": "Joel Winterflood",
+          "url": "https://open.spotify.com/artist/6SW28suhyCreYrl00Amk36"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140689,
+      "name": "Hiding Places",
+      "url": "https://open.spotify.com/track/7E5jiGNH5AjriJtRUEd9Vt"
+    },
+    {
+      "album": {
         "name": "High Above",
         "url": "https://open.spotify.com/album/44h4DKfrUzNsXOvWPDXLXE"
       },
@@ -9752,6 +9774,24 @@
       "duration_ms": 162586,
       "name": "i'm so tired...",
       "url": "https://open.spotify.com/track/7LpMG3AEaIJgs62HQhAa91"
+    },
+    {
+      "album": {
+        "name": "I'm Sorry",
+        "url": "https://open.spotify.com/album/1M3PT3o7HRXFfXDdPX7QGp"
+      },
+      "artists": [
+        {
+          "name": "Second Sun",
+          "url": "https://open.spotify.com/artist/4ITZhADtXQl7SXvQOlMmPS"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/2FAMLWLM7BNIoSwIZFhqjM"
     },
     {
       "album": {

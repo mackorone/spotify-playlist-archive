@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Benjamin Kheng
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,007 likes - 105 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,008 likes - 105 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 | 4 | [The Waves](https://open.spotify.com/track/6o7asrLKX5790FmXkCuqTN) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf), [Will Beale](https://open.spotify.com/artist/7GjoDFouaoWc8el1oOsKHD) | [The Waves](https://open.spotify.com/album/7LEBAiVChoAbppg4AOd8Nh) | 2:15 |
 | 5 | [I'm In Bed](https://open.spotify.com/track/0A2N9tDMTvLjETGgC5I5it) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [I'm In Bed](https://open.spotify.com/album/42D3tDQQMYVszVotMUCSXA) | 3:24 |
 | 6 | [来电瑶](https://open.spotify.com/track/1VLC1aoLhShRNhKIulV3ut) | [法老](https://open.spotify.com/artist/429wOEd8ummnOTS4gw3WcQ), [BY2](https://open.spotify.com/artist/3DOs7Bsr9x4eJHqv6ViPvR) | [来电瑶](https://open.spotify.com/album/2KKACaGyExkF2oUruqFfCB) | 3:38 |
-| 7 | [J Σ // 6 @](https://open.spotify.com/track/03dYTlOjnxhoIAkxeSfX1A) | [Goose 我鳥](https://open.spotify.com/artist/4h1sE1sVLVe4cRO4mn8mtN), [Ian](https://open.spotify.com/artist/0jRzRAdDRdEtz2advDjqx5), [byn](https://open.spotify.com/artist/0mG4TxdyI3X8RhOwUBerFT) | [J Σ // 6 @](https://open.spotify.com/album/1MecB3Fmlom60eDAzL4NW1) | 3:52 |
+| 7 | [J Σ // 6 @](https://open.spotify.com/track/03dYTlOjnxhoIAkxeSfX1A) | [Goose 我鳥](https://open.spotify.com/artist/4h1sE1sVLVe4cRO4mn8mtN), [ian](https://open.spotify.com/artist/6R31XmRISTVixIU3rXCtqZ), [byn](https://open.spotify.com/artist/0mG4TxdyI3X8RhOwUBerFT) | [J Σ // 6 @](https://open.spotify.com/album/1MecB3Fmlom60eDAzL4NW1) | 3:52 |
 | 8 | [fall again](https://open.spotify.com/track/3JbIN35W0HN0y6QCAw54Zh) | [rae](https://open.spotify.com/artist/1mvjo1U4RVEab0pQRbyr0x) | [spring](https://open.spotify.com/album/2sZegw4okdiYf6VpZxji4g) | 3:18 |
 | 9 | [desire](https://open.spotify.com/track/3iQTrKKdovDXuhNM8bx4UI) | [gels](https://open.spotify.com/artist/64A8LUUbYeqJBw4rv0OTxf), [Wondrah](https://open.spotify.com/artist/0l3fkpslJAMPZDPgT9KwDa) | [desire](https://open.spotify.com/album/1I9M6lDmCtV95iS11uSbaw) | 3:06 |
 | 10 | [Teenage Dream \(2016\)](https://open.spotify.com/track/2GvPsRloWxgoxOiD3CQK0a) | [Joy Alexis](https://open.spotify.com/artist/3RJBI40xC4OmwA0ZG026Bb) | [Teenage Dream \(2016\)](https://open.spotify.com/album/69XvhN6rhAVah1DU7pHsxX) | 3:08 |

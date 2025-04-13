@@ -4,12 +4,12 @@
 
 > Meet the future of music around the world\. Cover: Lotusx.
 
-1,956 songs - 4 day 9 hr 42 min
+1,957 songs - 4 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\# umakeme \(feat\. KNY & Ox The Moron\)](https://open.spotify.com/track/3xCgPTnLgOYoGoRbnH7zxv) | [Xuân Nghi](https://open.spotify.com/artist/09TbfG9329V26zqpb7IQT5), [kny](https://open.spotify.com/artist/2K0m61hiNInpCGF4eat1t7), [Ox The Moron](https://open.spotify.com/artist/1ZShGZFqI0vv1dXum6C72j) | [\# umakeme \(feat\. KNY & Ox The Moron\)](https://open.spotify.com/album/3ZE3pusHOfUT2oDtBYXhzA) | 4:07 | 2022-02-03 | 2022-12-15 |
-| ['Sapababy](https://open.spotify.com/track/3VppPV6mcNB0W6Jd0fGvMJ) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD) | ['Sapababy](https://open.spotify.com/album/1lJ2R5PuJSDXLrzdX4dAPZ) | 3:58 | 2025-04-04 |  |
+| ['Sapababy](https://open.spotify.com/track/3VppPV6mcNB0W6Jd0fGvMJ) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD) | ['Sapababy](https://open.spotify.com/album/1lJ2R5PuJSDXLrzdX4dAPZ) | 3:58 | 2025-04-04 | 2025-04-13 |
 | [\(Chyba\) Ostatni Dzień](https://open.spotify.com/track/2gp67Tm8jYHSP7Pg6y9CHf) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [\(Chyba\) Ostatni Dzień](https://open.spotify.com/album/6p7FZUkev82iOCQkyHaVDX) | 2:48 | 2023-05-22 | 2023-09-02 |
 | [\(if\) only](https://open.spotify.com/track/15BLMoHLOBy9XDc5iDc0ax) | [tanny ng](https://open.spotify.com/artist/6SmToDyj12uS8WGrc6m8ei) | [amber's playlist](https://open.spotify.com/album/10dLMvINSliOIpydkbpUPY) | 3:12 | 2023-10-13 | 2024-03-16 |
 | [\*67](https://open.spotify.com/track/4vsG4nLNSzgArBYj2jimM6) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Young Martino](https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [\*67](https://open.spotify.com/album/5l10Hgkpbx7V3TpLkFE3Nw) | 4:10 | 2022-03-24 | 2022-04-20 |
@@ -746,6 +746,7 @@
 | [i'll find my way to you tomorrow](https://open.spotify.com/track/4zTg4g1gKpxWTShLFDEill) | [Kevin Fernando](https://open.spotify.com/artist/0hLMKcdVjEseHo45rgzeIq) | [i'll find my way to you tomorrow](https://open.spotify.com/album/4KIpuP4MsEiGLbyiGR9BNS) | 3:45 | 2022-02-03 | 2022-10-20 |
 | [i'll find my way to you tomorrow](https://open.spotify.com/track/6kRAuOoZBRLwZQYjFdGjIa) | [Kevin Fernando](https://open.spotify.com/artist/0hLMKcdVjEseHo45rgzeIq) | [i'll find my way to you tomorrow](https://open.spotify.com/album/2bzG2vEFeUShVRUrJUlO7D) | 3:45 | 2022-10-06 | 2022-12-15 |
 | [I'm a never forgive kinda girl](https://open.spotify.com/track/2ukT0tGixZxC0rYwsG9b3J) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FABLES](https://open.spotify.com/album/6oHz1CC0PuNSGgRzAOZowX) | 2:05 | 2025-01-10 |  |
+| [i'm not mad](https://open.spotify.com/track/1HuxFVJTlpfnPjtHDqPE9D) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [wait! i have something to say\. x](https://open.spotify.com/album/4LHMNB1D4dgzz9fINvfnb5) | 3:37 | 2025-04-11 |  |
 | [I'm not Pretty](https://open.spotify.com/track/3promGTTwsn1N5D6RzaFMV) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [I'm not Pretty](https://open.spotify.com/album/7kpMsNJoM5X8kntRP4OzFg) | 1:58 | 2022-02-03 | 2022-09-16 |
 | [i\-](https://open.spotify.com/track/1bAW51MKzvzhzKPDlaRJd0) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [i\-](https://open.spotify.com/album/4OvbVVqxYpYn3wZkRXWYuy) | 2:56 | 2022-04-07 | 2022-06-18 |
 | [IDGAF](https://open.spotify.com/track/1QREbpl3GAFm0ZyufYeil7) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [IDGAF](https://open.spotify.com/album/3FSkVmYiQfJEePj9phBD55) | 2:09 | 2023-09-08 | 2023-11-11 |
@@ -1387,7 +1388,7 @@
 | [Se Siente Así \(Arial 7\)](https://open.spotify.com/track/6jUKGmxWOnmyFwABCAQgVo) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Se Siente Así \(Arial 7\)](https://open.spotify.com/album/2pNkgDHGJeoFYz5PV9c8EQ) | 2:43 | 2024-10-04 | 2024-10-26 |
 | [Se Te Cayó](https://open.spotify.com/track/2eyaovnTryBlxQZrQ2TDMx) | [ADRI](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Se Te Cayó](https://open.spotify.com/album/6P8eo6PshOT2xbv2ISKOGz) | 2:52 | 2022-03-24 | 2022-08-02 |
 | [Seaside](https://open.spotify.com/track/7qNXY0nLhMoaNINklgqeWf) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 1](https://open.spotify.com/album/6BMIKnnkgFymPqYSW9GxHH) | 2:50 | 2022-03-24 | 2022-04-20 |
-| [See You Later](https://open.spotify.com/track/5fBAeMNvjmE60fyHlNSK6T) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Roxwell](https://open.spotify.com/album/0XDaQYDGJ4FHKXY7DHhg9c) | 3:01 | 2025-02-28 |  |
+| [See You Later](https://open.spotify.com/track/5fBAeMNvjmE60fyHlNSK6T) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Roxwell](https://open.spotify.com/album/0XDaQYDGJ4FHKXY7DHhg9c) | 3:01 | 2025-02-28 | 2025-04-13 |
 | [Segnali di fumo](https://open.spotify.com/track/51iEIwv8ttEA4i0vPVoDLu) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 2:20 | 2024-12-06 |  |
 | [Sei del Mattino](https://open.spotify.com/track/0SeoeFL0XM5YpTag15SX9n) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [NOSTALGIA \(export\)](https://open.spotify.com/album/7nrBxtq6TJ5xs3D9G0R7ue) | 3:05 | 2024-03-15 | 2024-03-18 |
 | [Self\-Care 101](https://open.spotify.com/track/4PK8vwNQuscUXTx4ySI8bm) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [Self\-Care 101](https://open.spotify.com/album/7KMHbaMkFywuhG4OJ9piN5) | 3:21 | 2024-04-26 | 2024-05-16 |
@@ -1771,7 +1772,7 @@
 | [Нет дела](https://open.spotify.com/track/1jBkgehBXNIURp4ATVAbRp) | [Сёстры](https://open.spotify.com/artist/1anDkNxpUwY1IiJViMZZf6) | [Когда были волны](https://open.spotify.com/album/2S6dLBYwOhyepLH33Fv6VJ) | 4:41 | 2022-03-24 | 2022-04-21 |
 | [ночь](https://open.spotify.com/track/0Mfjy6p9vZsfzbQReWdooZ) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:29 | 2022-03-24 | 2022-08-03 |
 | [Счастье](https://open.spotify.com/track/4yX76KyCqxcPdKWaxUIeZG) | [Сёстры](https://open.spotify.com/artist/1anDkNxpUwY1IiJViMZZf6) | [Дальше](https://open.spotify.com/album/7EQBos4tq7LHQ7vzHswwuc) | 2:15 | 2022-03-24 | 2022-08-02 |
-| [حزين الوقت](https://open.spotify.com/track/4h7sjOheoCYjDzRqPrjgpF) | [Djmubarak](https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ) | [حزين الوقت](https://open.spotify.com/album/5CqxjQq2Z4LOdXUKPZtcjL) | 3:48 | 2025-02-14 | 2025-04-05 |
+| [حزين الوقت](https://open.spotify.com/track/4h7sjOheoCYjDzRqPrjgpF) | [Djmubarak](https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ) | [حزين الوقت](https://open.spotify.com/album/5CqxjQq2Z4LOdXUKPZtcjL) | 3:48 | 2025-02-14 |  |
 | [กลางใจไกลจัง](https://open.spotify.com/track/5PKwTBCeHagBke9WP4F6X9) | [Miteennn](https://open.spotify.com/artist/17BqlKtHAQ6D6CnRKmpyG3) | [กลางใจไกลจัง](https://open.spotify.com/album/7j4BfqLpnYhARG7K4JVPNW) | 3:23 | 2024-04-19 | 2024-08-18 |
 | [กลิ่นดอกไม้](https://open.spotify.com/track/5OaXaynJZgklXEwzhouey5) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [กลิ่นดอกไม้](https://open.spotify.com/album/1ipMHOoVycUlbnkNMBuWvl) | 3:52 | 2024-04-19 | 2024-08-24 |
 | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/track/1rJZTErhdRMtm2uhfFrCSS) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/album/1QroYykGyo3LaEr4nCAZyv) | 4:36 | 2022-10-06 | 2022-12-15 |

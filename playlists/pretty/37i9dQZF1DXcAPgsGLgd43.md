@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,937 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,066 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,10 +81,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 71 | [Reflection](https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Reflection](https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh) | 3:07 |
 | 72 | [Cafecito](https://open.spotify.com/track/0Jx0wecBc4647J4QMdmsY1) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Cafecito](https://open.spotify.com/album/22APOaVCt7C6TsWH3XB3Sl) | 2:34 |
 | 73 | [PAPI](https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Sam Collins](https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx) | [PAPI](https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A) | 2:35 |
-| 74 | [CARNET \- Cloonee Remix](https://open.spotify.com/track/5d1T4dmSTUoI5GR9R9CJYL) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [CARNET \(Cloonee Remix\)](https://open.spotify.com/album/5gaFlogR1ipqBuLBKlDw3E) | 3:45 |
+| 74 | [Agua De Beber](https://open.spotify.com/track/2fxfwzMeq5ICIY5zakeKmn) | [SUBB](https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r), [Sllash & Doppe](https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj) | [Agua De Beber](https://open.spotify.com/album/0YpRLkAism461pPF50wJu3) | 3:17 |
 | 75 | [Coroa](https://open.spotify.com/track/7tgVdw3YmgZe2JyFHxpmq3) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [Jesús Fernández](https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum) | [Coroa](https://open.spotify.com/album/2VyoPPR34XZhvgzEqSVQ6a) | 2:16 |
-| 76 | [Lo Que Soy](https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T) | [Lo Que Soy](https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu) | 2:50 |
-| 77 | [Agua De Beber](https://open.spotify.com/track/2fxfwzMeq5ICIY5zakeKmn) | [SUBB](https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r), [Sllash & Doppe](https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj) | [Agua De Beber](https://open.spotify.com/album/0YpRLkAism461pPF50wJu3) | 3:17 |
+| 76 | [CARNET \- Cloonee Remix](https://open.spotify.com/track/5d1T4dmSTUoI5GR9R9CJYL) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [CARNET \(Cloonee Remix\)](https://open.spotify.com/album/5gaFlogR1ipqBuLBKlDw3E) | 3:45 |
+| 77 | [Lo Que Soy](https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T) | [Lo Que Soy](https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu) | 2:50 |
 | 78 | [Maracuya](https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Maracuya](https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp) | 2:50 |
 | 79 | [El Beso \(feat\. Mathieu Ruz\)](https://open.spotify.com/track/0Rgi5EktdB5EFgMjU4YTnx) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [El Beso \(feat\. Mathieu Ruz\)](https://open.spotify.com/album/5rCFh5wOLyHTfPicJom5eA) | 3:31 |
 | 80 | [Se Va \(feat\. Cumbiafrica\)](https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Se Va \(feat\. Cumbiafrica\)](https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT) | 3:16 |

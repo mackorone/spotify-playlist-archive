@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Qu\u00e9 rico el mambo! Cover: Machito",
-  "num_followers": 115250,
+  "num_followers": 115288,
   "original_name": "Mambo Classics",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-07-12 19:25:11",
       "album": {
-        "name": "Dance Mania Vol.1",
-        "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente & His Orchestra",
-          "url": "https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1"
-        }
-      ],
-      "duration_ms": 184826,
-      "name": "Saca Tu Mujer",
-      "url": "https://open.spotify.com/track/6E2a4v0Sj2I5vAuaJb2UMO"
-    },
-    {
-      "added_at": "2024-07-12 19:25:11",
-      "album": {
         "name": "Mi Amigo, Machito",
         "url": "https://open.spotify.com/album/2lKq4rYdg8Byf3O7EkiZap"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 196920,
       "name": "Si Si No No",
       "url": "https://open.spotify.com/track/0u7PjYa0zIkQSor0a3gFgJ"
+    },
+    {
+      "added_at": "2024-07-12 19:25:11",
+      "album": {
+        "name": "Dance Mania Vol.1",
+        "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente & His Orchestra",
+          "url": "https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1"
+        }
+      ],
+      "duration_ms": 184826,
+      "name": "Saca Tu Mujer",
+      "url": "https://open.spotify.com/track/6E2a4v0Sj2I5vAuaJb2UMO"
     },
     {
       "added_at": "2024-07-12 19:25:11",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-07-12 19:25:11",
       "album": {
+        "name": "Mucho Machito",
+        "url": "https://open.spotify.com/album/4L0HpmMErcZZ5pLj8oewPZ"
+      },
+      "artists": [
+        {
+          "name": "Machito",
+          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
+        }
+      ],
+      "duration_ms": 184786,
+      "name": "Kenya",
+      "url": "https://open.spotify.com/track/48MxmM42utTBnvedomKp3C"
+    },
+    {
+      "added_at": "2024-07-12 19:25:11",
+      "album": {
         "name": "Mambos Favoritos de Perez Prado, Machito, Y Tito Puente",
         "url": "https://open.spotify.com/album/05QnOkGorplyXGfUdhSgQY"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 275373,
       "name": "Mi Jebita",
       "url": "https://open.spotify.com/track/4F61RgPzonj7SbUWNNU2zy"
-    },
-    {
-      "added_at": "2024-07-12 19:25:11",
-      "album": {
-        "name": "Mucho Machito",
-        "url": "https://open.spotify.com/album/4L0HpmMErcZZ5pLj8oewPZ"
-      },
-      "artists": [
-        {
-          "name": "Machito",
-          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
-        }
-      ],
-      "duration_ms": 184786,
-      "name": "Kenya",
-      "url": "https://open.spotify.com/track/48MxmM42utTBnvedomKp3C"
     },
     {
       "added_at": "2024-07-12 19:25:11",
@@ -535,18 +535,18 @@
     {
       "added_at": "2024-07-12 19:25:11",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/7oA3AvSErky8lkeckVMazA"
+        "name": "Perlas Cubanas: Machito",
+        "url": "https://open.spotify.com/album/6wvG0RnL3WVxvD74ekA0YA"
       },
       "artists": [
         {
-          "name": "Joe Cuba",
-          "url": "https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh"
+          "name": "Machito",
+          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
         }
       ],
-      "duration_ms": 204666,
-      "name": "Bochinchosa",
-      "url": "https://open.spotify.com/track/1OTMZw6yLNNbhTYVHiuRCu"
+      "duration_ms": 179073,
+      "name": "Mambo Is Here to Stay",
+      "url": "https://open.spotify.com/track/3NrVV0aTz1g2LNjucnWxMt"
     },
     {
       "added_at": "2024-07-12 19:25:11",
@@ -568,6 +568,22 @@
       "added_at": "2024-07-12 19:25:11",
       "album": {
         "name": "Anthology",
+        "url": "https://open.spotify.com/album/7oA3AvSErky8lkeckVMazA"
+      },
+      "artists": [
+        {
+          "name": "Joe Cuba",
+          "url": "https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh"
+        }
+      ],
+      "duration_ms": 204666,
+      "name": "Bochinchosa",
+      "url": "https://open.spotify.com/track/1OTMZw6yLNNbhTYVHiuRCu"
+    },
+    {
+      "added_at": "2024-07-12 19:25:11",
+      "album": {
+        "name": "Anthology",
         "url": "https://open.spotify.com/album/4CA9kK3WW46Jyq2dFf2a6v"
       },
       "artists": [
@@ -579,22 +595,6 @@
       "duration_ms": 162906,
       "name": "Mama Guela",
       "url": "https://open.spotify.com/track/3l2dxZWkOLCB64MfK3Yo2J"
-    },
-    {
-      "added_at": "2024-07-12 19:25:11",
-      "album": {
-        "name": "Latin Cool Classics: Orlando Marin",
-        "url": "https://open.spotify.com/album/6fVhJKYknI5k9TZAWSDe8C"
-      },
-      "artists": [
-        {
-          "name": "Orlando Marin",
-          "url": "https://open.spotify.com/artist/1uH7tVnnXDsQWjtJOZH5ID"
-        }
-      ],
-      "duration_ms": 326826,
-      "name": "Aprende a Querer",
-      "url": "https://open.spotify.com/track/0Wi0SRDXOy8Yk32iaPlvjH"
     },
     {
       "added_at": "2024-07-12 19:25:11",
@@ -615,18 +615,18 @@
     {
       "added_at": "2024-07-12 19:25:11",
       "album": {
-        "name": "Perlas Cubanas: Machito",
-        "url": "https://open.spotify.com/album/6wvG0RnL3WVxvD74ekA0YA"
+        "name": "Latin Cool Classics: Orlando Marin",
+        "url": "https://open.spotify.com/album/6fVhJKYknI5k9TZAWSDe8C"
       },
       "artists": [
         {
-          "name": "Machito",
-          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
+          "name": "Orlando Marin",
+          "url": "https://open.spotify.com/artist/1uH7tVnnXDsQWjtJOZH5ID"
         }
       ],
-      "duration_ms": 179073,
-      "name": "Mambo Is Here to Stay",
-      "url": "https://open.spotify.com/track/3NrVV0aTz1g2LNjucnWxMt"
+      "duration_ms": 326826,
+      "name": "Aprende a Querer",
+      "url": "https://open.spotify.com/track/0Wi0SRDXOy8Yk32iaPlvjH"
     },
     {
       "added_at": "2024-07-12 19:25:11",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-07-12 19:25:11",
       "album": {
-        "name": "Tito Rodriguez - El Inolvidable",
-        "url": "https://open.spotify.com/album/2zD0H7q9bIaNpV13cMOSUg"
-      },
-      "artists": [
-        {
-          "name": "Tito Rodriguez",
-          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "La Toalla",
-      "url": "https://open.spotify.com/track/1WEmO61PSlFO9JsdQDPJ9Z"
-    },
-    {
-      "added_at": "2024-07-12 19:25:11",
-      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/2YL9K2EiAXuTy2axi9mZKL"
       },
@@ -679,6 +663,22 @@
     {
       "added_at": "2024-07-12 19:25:11",
       "album": {
+        "name": "Tito Rodriguez - El Inolvidable",
+        "url": "https://open.spotify.com/album/2zD0H7q9bIaNpV13cMOSUg"
+      },
+      "artists": [
+        {
+          "name": "Tito Rodriguez",
+          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "La Toalla",
+      "url": "https://open.spotify.com/track/1WEmO61PSlFO9JsdQDPJ9Z"
+    },
+    {
+      "added_at": "2024-07-12 19:25:11",
+      "album": {
         "name": "Separala Tambien! Cantando Tito Rodriguez",
         "url": "https://open.spotify.com/album/76MKCcPx39MzFBXoBDygQa"
       },
@@ -691,6 +691,22 @@
       "duration_ms": 161174,
       "name": "Separala Tambien",
       "url": "https://open.spotify.com/track/5eok99TWxCCskPsK9p3jI9"
+    },
+    {
+      "added_at": "2024-07-12 19:25:11",
+      "album": {
+        "name": "Latin Lounge Jazz Harlem",
+        "url": "https://open.spotify.com/album/0KA4fXFk0zfJOUDfSWCgke"
+      },
+      "artists": [
+        {
+          "name": "Machito",
+          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
+        }
+      ],
+      "duration_ms": 181186,
+      "name": "Asia Minor",
+      "url": "https://open.spotify.com/track/5BgI3nVJIKr5iXaSbNkDal"
     },
     {
       "added_at": "2024-07-12 19:25:11",
@@ -727,22 +743,6 @@
       "duration_ms": 164986,
       "name": "La Guarachera",
       "url": "https://open.spotify.com/track/3cSDem58zQegVmYCBEQgnL"
-    },
-    {
-      "added_at": "2024-07-12 19:25:11",
-      "album": {
-        "name": "Latin Lounge Jazz Harlem",
-        "url": "https://open.spotify.com/album/0KA4fXFk0zfJOUDfSWCgke"
-      },
-      "artists": [
-        {
-          "name": "Machito",
-          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
-        }
-      ],
-      "duration_ms": 181186,
-      "name": "Asia Minor",
-      "url": "https://open.spotify.com/track/5BgI3nVJIKr5iXaSbNkDal"
     },
     {
       "added_at": "2024-07-12 19:25:11",

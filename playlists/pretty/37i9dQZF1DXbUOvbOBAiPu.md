@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from: Werenoi, Camille, Bon Iver and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,462 likes - 81 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,471 likes - 81 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 39 | [The One \(feat\. Jocelyn Brown\)](https://open.spotify.com/track/4fErrQvOX1LPDIPFDFI4eM) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [The One \(feat\. Jocelyn Brown\)](https://open.spotify.com/album/5rlbbiPN65rv6IjLjVmtHg) | 3:02 |
 | 40 | [Dan Zal Ik Komen Elke Nacht](https://open.spotify.com/track/4gxiaR482PDG0KzwZsqo8z) | [Luc De Vos](https://open.spotify.com/artist/3a96l9t8vIXm5Qp5pYLfuq), [Gorki](https://open.spotify.com/artist/7CAtmuyGlzYum4BKfl34ij) | [Dan Zal Ik Komen Elke Nacht](https://open.spotify.com/album/0rReQhV26JblwfMbTy0Noc) | 2:39 |
 | 41 | [The Formula](https://open.spotify.com/track/0FXxWeH5wCX4SqeQ0Mtdar) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Control Alt Delete](https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [The Formula](https://open.spotify.com/album/0QxE4lahxpdZVJ4SKem6VB) | 2:49 |
-| 42 | [Cruel Summer](https://open.spotify.com/track/5QP97PDtEr3GoH5OmlzQyy) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Cruel Summer](https://open.spotify.com/album/6ZaE06NpbDaVR3YkIZNY13) | 2:48 |
+| 42 | [Cruel Summer \(Again\)](https://open.spotify.com/track/5QP97PDtEr3GoH5OmlzQyy) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Cruel Summer \(Again\)](https://open.spotify.com/album/6ZaE06NpbDaVR3YkIZNY13) | 2:48 |
 | 43 | [Lazarus Rise](https://open.spotify.com/track/0wpo6zv1KYJDJlF4bnq47m) | [Wasiu](https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2), [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN) | [Lazarus Rise](https://open.spotify.com/album/4klAO40K3tdFr5F2dwM4mw) | 3:12 |
 | 44 | [Leh Na Leh](https://open.spotify.com/track/7dHSg7x2gsFSno0np92B6u) | [Chiara Meloni](https://open.spotify.com/artist/5xF4ia5WWdSPbkKl9m5Nrq), [Impani](https://open.spotify.com/artist/17aRTH8IYiW9945DeGB25Y) | [Leh Na Leh](https://open.spotify.com/album/0AjpFxOeEDlFg1BgvOCzkj) | 3:18 |
 | 45 | [Crazy Love](https://open.spotify.com/track/00S54Je0ffaNP8ClzQPjWy) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Crazy Love](https://open.spotify.com/album/1d7YlcfbkKjTZi061rJYlo) | 2:00 |

@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 91065,
+  "num_followers": 91073,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/cKAAAAAABxUTfE9N8RuBUgJC6rEtaq",
+  "snapshot_id": "Z/hbgAAAAACy66Uxf1y6BFkww4NUCj2p",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 144466,
-      "name": "Stickin In My Eye",
-      "url": "https://open.spotify.com/track/46mov5j25a6BXrxNQKUwiA"
+      "duration_ms": 122160,
+      "name": "Bob",
+      "url": "https://open.spotify.com/track/5XhMeCYrRhQjL4sUoOmUCE"
     },
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 122160,
-      "name": "Bob",
-      "url": "https://open.spotify.com/track/5XhMeCYrRhQjL4sUoOmUCE"
+      "duration_ms": 144466,
+      "name": "Stickin In My Eye",
+      "url": "https://open.spotify.com/track/46mov5j25a6BXrxNQKUwiA"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
-        "url": "https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn"
+        "name": "White Trash, Two Heebs and a Bean",
+        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 138840,
-      "name": "Drugs Are Good",
-      "url": "https://open.spotify.com/track/0biTGVjFrAfNQHnAjnuqnZ"
+      "duration_ms": 166333,
+      "name": "Soul Doubt",
+      "url": "https://open.spotify.com/track/3TYC9jm4RXCPomDD4V3KRD"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Trash, Two Heebs and a Bean",
-        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
+        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
+        "url": "https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn"
       },
       "artists": [
         {
@@ -452,25 +452,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 166333,
-      "name": "Soul Doubt",
-      "url": "https://open.spotify.com/track/3TYC9jm4RXCPomDD4V3KRD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pump Up The Valuum",
-        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 118000,
-      "name": "What's The Matter With Parents Today?",
-      "url": "https://open.spotify.com/track/6SWTXSLOkxrFqJc6WPM0bu"
+      "duration_ms": 138840,
+      "name": "Drugs Are Good",
+      "url": "https://open.spotify.com/track/0biTGVjFrAfNQHnAjnuqnZ"
     },
     {
       "added_at": null,
@@ -487,6 +471,22 @@
       "duration_ms": 190200,
       "name": "Philthy Phil Philanthropist",
       "url": "https://open.spotify.com/track/6Hzi3cauk9QwPekt38AYUe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pump Up The Valuum",
+        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 118000,
+      "name": "What's The Matter With Parents Today?",
+      "url": "https://open.spotify.com/track/6SWTXSLOkxrFqJc6WPM0bu"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Double Album",
-        "url": "https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n"
+        "name": "War on Errorism",
+        "url": "https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 144878,
-      "name": "Darby Crashing Your Party",
-      "url": "https://open.spotify.com/track/7HCSNplNjvyPOXAH4MhXT6"
+      "duration_ms": 125000,
+      "name": "She's Nubs",
+      "url": "https://open.spotify.com/track/2D38ZBnSMwhH48kMmZwaEP"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "War on Errorism",
-        "url": "https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV"
+        "name": "Double Album",
+        "url": "https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 125000,
-      "name": "She's Nubs",
-      "url": "https://open.spotify.com/track/2D38ZBnSMwhH48kMmZwaEP"
+      "duration_ms": 144878,
+      "name": "Darby Crashing Your Party",
+      "url": "https://open.spotify.com/track/7HCSNplNjvyPOXAH4MhXT6"
     },
     {
       "added_at": null,

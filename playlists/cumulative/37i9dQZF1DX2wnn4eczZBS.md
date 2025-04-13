@@ -4,7 +4,7 @@
 
 > indie & indiepop in het Nederlands\. Cover: Sophie Straat
 
-182 songs - 9 hr 29 min
+183 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Dag en Nacht](https://open.spotify.com/track/3A7F8yDLENuQrPUkxjcMxV) | [YRSA](https://open.spotify.com/artist/5BLCBw3ZwkvqyUuUtozq2h) | [Dag en Nacht](https://open.spotify.com/album/1O3xO2IARNTK7mU2EN5yyZ) | 3:39 | 2025-01-10 | 2025-03-13 |
 | [David Bowie/Beckham](https://open.spotify.com/track/78xe8bHyJfSz06dy1kQjvp) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [David Bowie/Beckham](https://open.spotify.com/album/3ZZsLyOcHWquAcRLmYYQPx) | 2:36 | 2025-01-10 |  |
 | [De Grens Tussen Ons](https://open.spotify.com/track/5jWLxOSU7WWpcNnPNbhCwz) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [Het Hart Bestaat Niet En De Rest Ook Niet](https://open.spotify.com/album/5TaJOGhCQhrg8AMf5WSwZW) | 3:29 | 2025-02-07 |  |
+| [De Tijd](https://open.spotify.com/track/3S4ag2mjZWA7rxrhWWc1D3) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [De Tijd](https://open.spotify.com/album/4HckpkaqP3McpKkcscRbcr) | 3:33 | 2025-04-11 |  |
 | [Deze Stilte](https://open.spotify.com/track/0z8QjAwDqKX3b0Oa1FDI8E) | [Roos Blufpand](https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC) | [Deze Stilte](https://open.spotify.com/album/4xnHlfWEjxBAdrtgfl1eEV) | 2:29 | 2024-09-13 | 2025-01-11 |
 | [dichtbij, veraf](https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [kleine auto, grote hot wheel](https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP) | 4:25 | 2025-02-07 |  |
 | [Die Wonen Niet Hier](https://open.spotify.com/track/2Fivjy4HSqVJcitOIRAblS) | [dorpsstraat 3](https://open.spotify.com/artist/48XLHMAiLI8SAihFXXeV1A) | [Die Wonen Niet Hier](https://open.spotify.com/album/0Qd2HCXzZYWGnlyzSYekAt) | 4:17 | 2024-10-09 | 2025-01-17 |
@@ -75,7 +76,7 @@
 | [i miss u \[brood\]](https://open.spotify.com/track/0IyJWLIhd3yiJMemiJLKPj) | [flens](https://open.spotify.com/artist/6GUmsOojs1m8tTbp7ZsaaD) | [i miss u \[brood\]](https://open.spotify.com/album/7K1uSKM8wyJyYtLmVTSUkp) | 2:19 | 2025-03-13 | 2025-04-06 |
 | [Iemand Anders](https://open.spotify.com/track/6ZzjjOoKAw3QGQmODzplnK) | [REINDIER](https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK) | [Iemand Anders](https://open.spotify.com/album/6saWoM2nRMWq4QIrKo3GGL) | 3:50 | 2025-04-03 |  |
 | [IJs](https://open.spotify.com/track/1DMQuGNhRsqyw2YF2WPzC6) | [Babs](https://open.spotify.com/artist/1zTF9Ith8PS6mUyvDA4i2M) | [Half](https://open.spotify.com/album/7iioVMREgJtTMow2rRnbUt) | 2:32 | 2024-06-26 | 2024-08-30 |
-| [IJsberen](https://open.spotify.com/track/365zVvWp1vTZ7zLOeVZ3Uz) | [puntjudith](https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d) | [IJsberen](https://open.spotify.com/album/5P3AdiAPxDSNHhyeXfsGT5) | 3:02 | 2025-03-20 |  |
+| [IJsberen](https://open.spotify.com/track/365zVvWp1vTZ7zLOeVZ3Uz) | [puntjudith](https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d) | [IJsberen](https://open.spotify.com/album/5P3AdiAPxDSNHhyeXfsGT5) | 3:02 | 2025-03-20 | 2025-04-13 |
 | [IK GELOOF HET NIET](https://open.spotify.com/track/3zYMY5Bgtm0GSxhSv0ri9n) | [Massi](https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056) | [IK GELOOF HET NIET](https://open.spotify.com/album/20gE1bwQ29W2vxSs6rHeC2) | 2:44 | 2024-11-07 | 2025-01-11 |
 | [Ik heb je zo gemist](https://open.spotify.com/track/78xwr7xEmWHXmIwliLNyyS) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Mathieu Terryn](https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK) | [drift](https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y) | 3:22 | 2025-01-10 |  |
 | [Ik Heb Tijd](https://open.spotify.com/track/7qXpqAZIeaqKh1VA9XbQVh) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Ik Heb Tijd](https://open.spotify.com/album/0UmqecBUudgRkeagngDkd9) | 3:16 | 2025-02-03 |  |

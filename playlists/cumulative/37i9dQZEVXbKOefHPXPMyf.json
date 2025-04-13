@@ -17431,6 +17431,24 @@
     },
     {
       "album": {
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273554,
+      "name": "El Africano",
+      "url": "https://open.spotify.com/track/50OiTaO9Dra9hBKuKRTFmT"
+    },
+    {
+      "album": {
         "name": "El Amigo",
         "url": "https://open.spotify.com/album/6OySc3pqPzPDePgD017baK"
       },
@@ -18830,7 +18848,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 386253,
       "name": "Emergence",
       "url": "https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6"
@@ -37368,7 +37386,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 137191,
       "name": "MONA LISA",
       "url": "https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ"
@@ -58672,6 +58690,28 @@
       "duration_ms": 209487,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+    },
+    {
+      "album": {
+        "name": "TRALALERO TRALALA FUNK",
+        "url": "https://open.spotify.com/album/3ByS7pZG6sOgHIZVBTj9v4"
+      },
+      "artists": [
+        {
+          "name": "DJ Raulipues",
+          "url": "https://open.spotify.com/artist/0NNEggTd7RupgifjoxF9tG"
+        },
+        {
+          "name": "DJ DYLANFK",
+          "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117901,
+      "name": "TRALALERO TRALALA FUNK",
+      "url": "https://open.spotify.com/track/1F50ebAU2S8gRzjmfmyzn1"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Chill lo-fi beats to enjoy a great afternoon.",
-  "num_followers": 111707,
+  "num_followers": 111718,
   "original_name": "Sunset Chill",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,38 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
+        "name": "Autumn Briefs",
+        "url": "https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW"
+      },
+      "artists": [
+        {
+          "name": "Dasunny",
+          "url": "https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza"
+        }
+      ],
+      "duration_ms": 145242,
+      "name": "Autumn Briefs",
+      "url": "https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "Stellar Journey",
+        "url": "https://open.spotify.com/album/6OSGBC3uQF0M9P7LqtTbBW"
+      },
+      "artists": [
+        {
+          "name": "Dr. Hall",
+          "url": "https://open.spotify.com/artist/2ktxauEdDVuua28a0xmfOu"
+        }
+      ],
+      "duration_ms": 187164,
+      "name": "Stellar Journey",
+      "url": "https://open.spotify.com/track/3eyHbqF8Vkzv6JyGGN0Epb"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
         "name": "With U",
         "url": "https://open.spotify.com/album/5YuMyydKScBvKXbYii0AH3"
       },
@@ -223,38 +255,6 @@
       "duration_ms": 241739,
       "name": "My Promise",
       "url": "https://open.spotify.com/track/2tLMEIVC98DSoq8jjypvg6"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
-        "name": "Autumn Briefs",
-        "url": "https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW"
-      },
-      "artists": [
-        {
-          "name": "Dasunny",
-          "url": "https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza"
-        }
-      ],
-      "duration_ms": 145242,
-      "name": "Autumn Briefs",
-      "url": "https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
-        "name": "Stellar Journey",
-        "url": "https://open.spotify.com/album/6OSGBC3uQF0M9P7LqtTbBW"
-      },
-      "artists": [
-        {
-          "name": "Dr. Hall",
-          "url": "https://open.spotify.com/artist/2ktxauEdDVuua28a0xmfOu"
-        }
-      ],
-      "duration_ms": 187164,
-      "name": "Stellar Journey",
-      "url": "https://open.spotify.com/track/3eyHbqF8Vkzv6JyGGN0Epb"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "\u30b9\u30e2\u30fc\u30af",
-        "url": "https://open.spotify.com/album/5W8Y8PmcfrlkuYHdtV3OtP"
-      },
-      "artists": [
-        {
-          "name": "SwuM",
-          "url": "https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "\u30b9\u30e2\u30fc\u30af",
-      "url": "https://open.spotify.com/track/2g6WTGWNYGnRCBaWEzFE00"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "Time Brings Change EP",
         "url": "https://open.spotify.com/album/6u0d2H0Qs7aVdSp0bOGdG0"
       },
@@ -403,6 +387,22 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
+        "name": "\u30b9\u30e2\u30fc\u30af",
+        "url": "https://open.spotify.com/album/5W8Y8PmcfrlkuYHdtV3OtP"
+      },
+      "artists": [
+        {
+          "name": "SwuM",
+          "url": "https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "\u30b9\u30e2\u30fc\u30af",
+      "url": "https://open.spotify.com/track/2g6WTGWNYGnRCBaWEzFE00"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
         "name": "Soul Charger",
         "url": "https://open.spotify.com/album/2kRpupJ8bvHYIwqOD4oPHv"
       },
@@ -419,6 +419,22 @@
       "duration_ms": 140029,
       "name": "Soul Charger",
       "url": "https://open.spotify.com/track/1zhyKitlqVIJcqpcFUjqWJ"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
+      },
+      "artists": [
+        {
+          "name": "Barnes Blvd.",
+          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
+        }
+      ],
+      "duration_ms": 178260,
+      "name": "Joan of Arc.",
+      "url": "https://open.spotify.com/track/2DrrxuNOhnpqJXLH36eR1S"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -463,22 +479,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Buttersweet",
-        "url": "https://open.spotify.com/album/6GuzaGSiWBXbyRcOMAgsBJ"
-      },
-      "artists": [
-        {
-          "name": "Moox",
-          "url": "https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq"
-        }
-      ],
-      "duration_ms": 177874,
-      "name": "Buttersweet",
-      "url": "https://open.spotify.com/track/1d5pAGQRJ9ROCOuxK52uED"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "Caliber",
         "url": "https://open.spotify.com/album/4VBkwvUerwiwJbkY6zlRXK"
       },
@@ -491,6 +491,22 @@
       "duration_ms": 130588,
       "name": "Caliber",
       "url": "https://open.spotify.com/track/6nk3juaB3mIKFJq8UcmpDU"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "Buttersweet",
+        "url": "https://open.spotify.com/album/6GuzaGSiWBXbyRcOMAgsBJ"
+      },
+      "artists": [
+        {
+          "name": "Moox",
+          "url": "https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq"
+        }
+      ],
+      "duration_ms": 177874,
+      "name": "Buttersweet",
+      "url": "https://open.spotify.com/track/1d5pAGQRJ9ROCOuxK52uED"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -527,6 +543,22 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/2N5gf9IqhA8Wq7LpgsbShl"
+      },
+      "artists": [
+        {
+          "name": "Josa",
+          "url": "https://open.spotify.com/artist/2BUX6bhQxzfkO4CH8dmwQp"
+        }
+      ],
+      "duration_ms": 141803,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/798xA6Nh36kCeElGeuTHtq"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
         "name": "Waffle Date",
         "url": "https://open.spotify.com/album/4wMHT93kypp3DEwsNHQ7Yr"
       },
@@ -543,18 +575,38 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/2N5gf9IqhA8Wq7LpgsbShl"
+        "name": "It's Ok",
+        "url": "https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek"
       },
       "artists": [
         {
-          "name": "Josa",
-          "url": "https://open.spotify.com/artist/2BUX6bhQxzfkO4CH8dmwQp"
+          "name": "Pandrezz",
+          "url": "https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC"
+        },
+        {
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
         }
       ],
-      "duration_ms": 141803,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/798xA6Nh36kCeElGeuTHtq"
+      "duration_ms": 168297,
+      "name": "It's Ok",
+      "url": "https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "running around dreaming",
+        "url": "https://open.spotify.com/album/2yTJ6fdaX9ZYGzdEJyrvna"
+      },
+      "artists": [
+        {
+          "name": "Delayde",
+          "url": "https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "sekao",
+      "url": "https://open.spotify.com/track/4c2TiYoJHIjEPZ5syRZhsY"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -595,18 +647,18 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Last Summer",
-        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
+        "name": "I Don't Love You Anymore",
+        "url": "https://open.spotify.com/album/0n64xoWxg6GJpUzA1zOWnl"
       },
       "artists": [
         {
-          "name": "Barnes Blvd.",
-          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
+          "name": "Sarcastic Sounds",
+          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
         }
       ],
-      "duration_ms": 178260,
-      "name": "Joan of Arc.",
-      "url": "https://open.spotify.com/track/2DrrxuNOhnpqJXLH36eR1S"
+      "duration_ms": 77600,
+      "name": "I Don't Love You Anymore",
+      "url": "https://open.spotify.com/track/6QOVWoZUD3IEszbfO46mYW"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -731,26 +783,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "It's Ok",
-        "url": "https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek"
-      },
-      "artists": [
-        {
-          "name": "Pandrezz",
-          "url": "https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC"
-        },
-        {
-          "name": "j'san",
-          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
-        }
-      ],
-      "duration_ms": 168297,
-      "name": "It's Ok",
-      "url": "https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "some guitar thoughts",
         "url": "https://open.spotify.com/album/7tBcuAvUiPEHtoCDfzuM9a"
       },
@@ -771,18 +803,18 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "running around dreaming",
-        "url": "https://open.spotify.com/album/2yTJ6fdaX9ZYGzdEJyrvna"
+        "name": "Smooth",
+        "url": "https://open.spotify.com/album/0QdTwm7awdhqUMJ55IqY2N"
       },
       "artists": [
         {
-          "name": "Delayde",
-          "url": "https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h"
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
         }
       ],
-      "duration_ms": 132000,
-      "name": "sekao",
-      "url": "https://open.spotify.com/track/4c2TiYoJHIjEPZ5syRZhsY"
+      "duration_ms": 122252,
+      "name": "Smooth",
+      "url": "https://open.spotify.com/track/1L6vtkHvjKWBIym93FmSPP"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -819,54 +851,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Smooth",
-        "url": "https://open.spotify.com/album/0QdTwm7awdhqUMJ55IqY2N"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 122252,
-      "name": "Smooth",
-      "url": "https://open.spotify.com/track/1L6vtkHvjKWBIym93FmSPP"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
-        "name": "I Don't Love You Anymore",
-        "url": "https://open.spotify.com/album/0n64xoWxg6GJpUzA1zOWnl"
-      },
-      "artists": [
-        {
-          "name": "Sarcastic Sounds",
-          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
-        }
-      ],
-      "duration_ms": 77600,
-      "name": "I Don't Love You Anymore",
-      "url": "https://open.spotify.com/track/6QOVWoZUD3IEszbfO46mYW"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
-        "name": "Beat Batch #2",
-        "url": "https://open.spotify.com/album/1zEv31yXhwbYowqsabXRJB"
-      },
-      "artists": [
-        {
-          "name": "Blvk",
-          "url": "https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb"
-        }
-      ],
-      "duration_ms": 77844,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/3gQSWGaCoaxONqXitmn7GX"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "ridley road",
         "url": "https://open.spotify.com/album/06OqKg0tT2nX1oUqmbLVe6"
       },
@@ -895,6 +879,54 @@
       "duration_ms": 691760,
       "name": "4:20",
       "url": "https://open.spotify.com/track/7Bb0O4hmvyRKcj7Yl3MnmW"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "Gentle Boy",
+        "url": "https://open.spotify.com/album/2Ap5vMlN2HZQjTyohlapPA"
+      },
+      "artists": [
+        {
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+        }
+      ],
+      "duration_ms": 122704,
+      "name": "this girl",
+      "url": "https://open.spotify.com/track/19JzJOMs4wkuKxY8WEOMea"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "Penthouse",
+        "url": "https://open.spotify.com/album/5MWhs2N3eO78ppIYmRUzmH"
+      },
+      "artists": [
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "duration_ms": 143132,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/24Jk4wYlLRXI9TUMdkHoMN"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "Beat Batch #2",
+        "url": "https://open.spotify.com/album/1zEv31yXhwbYowqsabXRJB"
+      },
+      "artists": [
+        {
+          "name": "Blvk",
+          "url": "https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb"
+        }
+      ],
+      "duration_ms": 77844,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/3gQSWGaCoaxONqXitmn7GX"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -1011,6 +1043,22 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
+        "name": "Gentle Boy",
+        "url": "https://open.spotify.com/album/2Ap5vMlN2HZQjTyohlapPA"
+      },
+      "artists": [
+        {
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+        }
+      ],
+      "duration_ms": 96405,
+      "name": "i love being with you",
+      "url": "https://open.spotify.com/track/1SJkTuUNKe4rYQgX8wmqku"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
         "name": "End Credits",
         "url": "https://open.spotify.com/album/2COxCYzeNwCOcAQSGu80Fg"
       },
@@ -1023,6 +1071,22 @@
       "duration_ms": 172277,
       "name": "End Credits",
       "url": "https://open.spotify.com/track/0IQGNx2y8xUec752lNCUQk"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "corals 2",
+        "url": "https://open.spotify.com/album/62MVvI7ZbnVde4NDB6mFhL"
+      },
+      "artists": [
+        {
+          "name": "Fujitsu",
+          "url": "https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "sand castles",
+      "url": "https://open.spotify.com/track/5rBQIzDduJsmDbZ97gqWEW"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -1071,6 +1135,22 @@
       "duration_ms": 85514,
       "name": "Dont.Be.Afraid.",
       "url": "https://open.spotify.com/track/6JAE7Xhp03p7rhVHKJrsEk"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/0yC7LKmarREa0WIHiZNbnL"
+      },
+      "artists": [
+        {
+          "name": "omarr",
+          "url": "https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb"
+        }
+      ],
+      "duration_ms": 131871,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/5BMDnItXLkEKbVhDJlM1DE"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -1143,54 +1223,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/0yC7LKmarREa0WIHiZNbnL"
-      },
-      "artists": [
-        {
-          "name": "omarr",
-          "url": "https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb"
-        }
-      ],
-      "duration_ms": 131871,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/5BMDnItXLkEKbVhDJlM1DE"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/766qimmxJrU3wXg0coClg9"
-      },
-      "artists": [
-        {
-          "name": "Lost Son",
-          "url": "https://open.spotify.com/artist/0hcPMmuJcGcRhzAzYRrWVF"
-        }
-      ],
-      "duration_ms": 79204,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/5Pxb3DpymMiRl8JDiOXTPE"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
-        "name": "Cherry Pie Jam",
-        "url": "https://open.spotify.com/album/50T1ZXJe0cQlOxOGpqWCBl"
-      },
-      "artists": [
-        {
-          "name": "Hollow Clouds",
-          "url": "https://open.spotify.com/artist/6j46UIFeyGBhixGhFvxdrh"
-        }
-      ],
-      "duration_ms": 217096,
-      "name": "Cherry Pie Jam",
-      "url": "https://open.spotify.com/track/4kebaMUJlFbzPacKwcAGLZ"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "with me",
         "url": "https://open.spotify.com/album/5GyspQ4x1DcMw1I4LrQJSx"
       },
@@ -1207,50 +1239,18 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Forest",
-        "url": "https://open.spotify.com/album/0XQ4ErI49IzOQAh7UAIkVn"
+        "name": "Life",
+        "url": "https://open.spotify.com/album/766qimmxJrU3wXg0coClg9"
       },
       "artists": [
         {
-          "name": "Cloudsurfin'",
-          "url": "https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif"
+          "name": "Lost Son",
+          "url": "https://open.spotify.com/artist/0hcPMmuJcGcRhzAzYRrWVF"
         }
       ],
-      "duration_ms": 119171,
-      "name": "Night Sky",
-      "url": "https://open.spotify.com/track/650q7YaIlNgEha9lB1bHY4"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
-        "name": "passage",
-        "url": "https://open.spotify.com/album/3pE40Iu2rLeYQWMQK1Mh2D"
-      },
-      "artists": [
-        {
-          "name": "linanthem",
-          "url": "https://open.spotify.com/artist/0HrxevJVGTEFBWFfAc88H3"
-        }
-      ],
-      "duration_ms": 154282,
-      "name": "passage",
-      "url": "https://open.spotify.com/track/5x6NyRDJl3AZ53oaYAH23o"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
-        "name": "Imaginary",
-        "url": "https://open.spotify.com/album/48hLO6DyflUOXESgg64zOA"
-      },
-      "artists": [
-        {
-          "name": "Kupla",
-          "url": "https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35"
-        }
-      ],
-      "duration_ms": 126280,
-      "name": "Rose Garden",
-      "url": "https://open.spotify.com/track/37I8L2Cx6PScWXn0tkN4wV"
+      "duration_ms": 79204,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/5Pxb3DpymMiRl8JDiOXTPE"
     }
   ],
   "unique_name": "Sunset Chill",

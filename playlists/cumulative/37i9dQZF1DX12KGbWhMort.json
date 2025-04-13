@@ -977,6 +977,24 @@
     },
     {
       "album": {
+        "name": "QUE SED",
+        "url": "https://open.spotify.com/album/2q6PAdBBf4L2Xpxqc3jd8b"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152117,
+      "name": "JURO QUE ME DOLIO",
+      "url": "https://open.spotify.com/track/79m3yH0VRc0dSrqg8lXot3"
+    },
+    {
+      "album": {
         "name": "Donde Hay M\u00fasica (Spanish Version)",
         "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
       },
@@ -1490,7 +1508,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 173021,
       "name": "Oye",
       "url": "https://open.spotify.com/track/09nSCeCs6eYfAIJVfye1CE"

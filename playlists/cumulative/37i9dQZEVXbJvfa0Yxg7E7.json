@@ -159,6 +159,24 @@
     },
     {
       "album": {
+        "name": "10 Hoes",
+        "url": "https://open.spotify.com/album/2wbvQ2Dxh2cLwCsOOkE46h"
+      },
+      "artists": [
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148750,
+      "name": "10 Hoes",
+      "url": "https://open.spotify.com/track/4qqKLHCbw96XRXX4tBfasV"
+    },
+    {
+      "album": {
         "name": "10 Years",
         "url": "https://open.spotify.com/album/2Zegz0LaKZgwrLo5UbEa2x"
       },
@@ -3419,6 +3437,24 @@
     },
     {
       "album": {
+        "name": "BASSIANI",
+        "url": "https://open.spotify.com/album/6pAxDrhGFM30xRSPtweNHB"
+      },
+      "artists": [
+        {
+          "name": "Soppgirobygget",
+          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "BASSIANI",
+      "url": "https://open.spotify.com/track/22j80vyQCwoILJQuWTkQoo"
+    },
+    {
+      "album": {
         "name": "Be Okay",
         "url": "https://open.spotify.com/album/5VXh2yi3JTIRgn1zaeQe19"
       },
@@ -4726,6 +4762,28 @@
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
+    },
+    {
+      "album": {
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156721,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
     },
     {
       "album": {
@@ -7922,7 +7980,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 136991,
       "name": "Dark Thoughts",
       "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
@@ -8482,7 +8540,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 156461,
       "name": "Det regner i Oslo",
       "url": "https://open.spotify.com/track/6fIHnvVUdiiJ3DOo3SG4XQ"
@@ -9616,7 +9674,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 159771,
       "name": "Dumme boys",
       "url": "https://open.spotify.com/track/6YWKS26a3EjwrAWjTAwFkq"
@@ -13172,7 +13230,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 199109,
       "name": "F\u00e5 det p\u00e5",
       "url": "https://open.spotify.com/track/1V9NWjMX2GRy0exAEGicsC"
@@ -13198,7 +13256,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-04",
+      "date_removed": null,
       "duration_ms": 199109,
       "name": "F\u00e5 det p\u00e5",
       "url": "https://open.spotify.com/track/7b2BJHw0HsBBHdojXWe4fA"
@@ -13370,6 +13428,36 @@
       "duration_ms": 199405,
       "name": "Galileo Galilei",
       "url": "https://open.spotify.com/track/3Ox5iyqF3SeTC2bqOA9V9u"
+    },
+    {
+      "album": {
+        "name": "Galopp",
+        "url": "https://open.spotify.com/album/5Kc2vzQnDo9AInTgxixR4n"
+      },
+      "artists": [
+        {
+          "name": "Coucheron",
+          "url": "https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D"
+        },
+        {
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+        },
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        },
+        {
+          "name": "May",
+          "url": "https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165785,
+      "name": "Galopp",
+      "url": "https://open.spotify.com/track/6kx2yUfhcc372Iknjrx6YK"
     },
     {
       "album": {
@@ -15886,6 +15974,24 @@
       "duration_ms": 161667,
       "name": "henda i v\u00e6ret",
       "url": "https://open.spotify.com/track/618z8JIYgEQ8q4blcJFsGW"
+    },
+    {
+      "album": {
+        "name": "Henry, come on",
+        "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311269,
+      "name": "Henry, come on",
+      "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
     },
     {
       "album": {
@@ -20081,6 +20187,24 @@
     },
     {
       "album": {
+        "name": "jeg holder pusten til du drar",
+        "url": "https://open.spotify.com/album/3o43FGM9DQK2wqq27KBUxx"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185338,
+      "name": "jeg holder pusten til du drar",
+      "url": "https://open.spotify.com/track/17p6Y3tYZpnESAcFIMDPOJ"
+    },
+    {
+      "album": {
         "name": "JEG M\u00c5 G\u00c5",
         "url": "https://open.spotify.com/album/4qb6IxoysYuIsUmfVPLoP8"
       },
@@ -20808,7 +20932,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 223192,
       "name": "Juno",
       "url": "https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS"
@@ -21408,7 +21532,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 108916,
       "name": "Kjendisfest",
       "url": "https://open.spotify.com/track/2hSr3ldIQE8uL3uhme50NV"
@@ -22766,7 +22890,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 129082,
       "name": "Leve",
       "url": "https://open.spotify.com/track/2QzDftiT7zPmyuwlXmPqFO"
@@ -28551,6 +28675,32 @@
     },
     {
       "album": {
+        "name": "Opp og nikke",
+        "url": "https://open.spotify.com/album/1lzhRVsxlPIJhptqaJVE8N"
+      },
+      "artists": [
+        {
+          "name": "Broiler",
+          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+        },
+        {
+          "name": "Bargee",
+          "url": "https://open.spotify.com/artist/0lLcVfzo8FYGaqDY47brmP"
+        },
+        {
+          "name": "BELL",
+          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123448,
+      "name": "Opp og nikke",
+      "url": "https://open.spotify.com/track/51VgAa31xNHgRvx4qdLZey"
+    },
+    {
+      "album": {
         "name": "Oppmerksomhet",
         "url": "https://open.spotify.com/album/5KsGoGVrh2iLnmKUTTl133"
       },
@@ -29456,7 +29606,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 194782,
       "name": "Pilestredet",
       "url": "https://open.spotify.com/track/41dM8Ol9WH0Um6XOx7VX5I"
@@ -36793,6 +36943,28 @@
     },
     {
       "album": {
+        "name": "TAPPA KONTROLL (Reaktorn)",
+        "url": "https://open.spotify.com/album/57Mvg38PvhmICNWggqiIv8"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Erik Meduza",
+          "url": "https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132446,
+      "name": "TAPPA KONTROLL (Reaktorn)",
+      "url": "https://open.spotify.com/track/5ClcZFQnniJH8yWvNrGoJi"
+    },
+    {
+      "album": {
         "name": "Tar Jeg Feil",
         "url": "https://open.spotify.com/album/4mjRBfM8Z5qh0EMVMSLtKy"
       },
@@ -41456,7 +41628,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

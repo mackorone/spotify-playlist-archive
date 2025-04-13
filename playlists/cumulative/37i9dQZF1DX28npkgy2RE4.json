@@ -2740,7 +2740,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-09",
+      "date_removed": null,
       "duration_ms": 230053,
       "name": "First Prize Bravery",
       "url": "https://open.spotify.com/track/3pWoRUnu8w0GSjyu00Xp0L"
@@ -3022,7 +3022,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 266961,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/0Nb7ovuzVuAHZooHBpadpw"
@@ -7651,6 +7651,24 @@
     },
     {
       "album": {
+        "name": "The Saddest Song",
+        "url": "https://open.spotify.com/album/5X1aa8zc8YsN4eatUsDkNE"
+      },
+      "artists": [
+        {
+          "name": "Metaxas",
+          "url": "https://open.spotify.com/artist/1zmqovKSBNOtEdrDuXDmR9"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213054,
+      "name": "The Saddest Song",
+      "url": "https://open.spotify.com/track/1jFPb2lw9llGvXcFEMXmD5"
+    },
+    {
+      "album": {
         "name": "Waysides",
         "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
       },
@@ -8376,7 +8394,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 191172,
       "name": "Witchknife",
       "url": "https://open.spotify.com/track/5zSX509s3P2f4wU2dMut49"

@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 19129,
+  "num_followers": 19133,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/cKAAAAAADGI+iR7nCon+n3IcnVZ8Lw",
+  "snapshot_id": "Z/hbgAAAAACurUJIjYUTdKn7qbgGkDTM",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ho, why is you here ?",
-        "url": "https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 163018,
-      "name": "May I",
-      "url": "https://open.spotify.com/track/1GcXzijYzyfMq6wryZjYW5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Summer Pregame Party Songs 2023",
         "url": "https://open.spotify.com/album/0lJ0jLKCWckDnlwkuvrZ8v"
       },
@@ -355,22 +339,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomioka (with Flo Milli) [Remix]",
-        "url": "https://open.spotify.com/album/6QHk5oVO7cTdQeBhVuh0qK"
+        "name": "Ho, why is you here ?",
+        "url": "https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P"
       },
       "artists": [
-        {
-          "name": "Jay Eazy",
-          "url": "https://open.spotify.com/artist/2bc73gsB8lPAL1mxNBOEqV"
-        },
         {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 137532,
-      "name": "Tomioka (with Flo Milli) - Remix",
-      "url": "https://open.spotify.com/track/7BfwfsoIZsa9QGUxfoz8DE"
+      "duration_ms": 163018,
+      "name": "May I",
+      "url": "https://open.spotify.com/track/1GcXzijYzyfMq6wryZjYW5"
     },
     {
       "added_at": null,
@@ -395,6 +375,26 @@
       "duration_ms": 200769,
       "name": "Bundles 2 (feat. Flo Milli, Taylor Girlz)",
       "url": "https://open.spotify.com/track/4HwFQ5AndYR51q9ru81JtQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tomioka (with Flo Milli) [Remix]",
+        "url": "https://open.spotify.com/album/6QHk5oVO7cTdQeBhVuh0qK"
+      },
+      "artists": [
+        {
+          "name": "Jay Eazy",
+          "url": "https://open.spotify.com/artist/2bc73gsB8lPAL1mxNBOEqV"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 137532,
+      "name": "Tomioka (with Flo Milli) - Remix",
+      "url": "https://open.spotify.com/track/7BfwfsoIZsa9QGUxfoz8DE"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Boys: Ride Or Die Soundtrack",
-        "url": "https://open.spotify.com/album/5ZeYTX0MWneFbHTk7mZd9l"
+        "name": "You Still Here, Ho ?",
+        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 131700,
-      "name": "DUH!",
-      "url": "https://open.spotify.com/track/10gY0uKOkUD7Kz3utYykZ7"
+      "duration_ms": 138240,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/2u3hKhl5ltq0gbFo8ivsbB"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Still Here, Ho ?",
-        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
+        "name": "Bad Boys: Ride Or Die Soundtrack",
+        "url": "https://open.spotify.com/album/5ZeYTX0MWneFbHTk7mZd9l"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 138240,
-      "name": "Pretty Girls",
-      "url": "https://open.spotify.com/track/2u3hKhl5ltq0gbFo8ivsbB"
+      "duration_ms": 131700,
+      "name": "DUH!",
+      "url": "https://open.spotify.com/track/10gY0uKOkUD7Kz3utYykZ7"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 122790,
-      "name": "Understand",
-      "url": "https://open.spotify.com/track/0g1im1B9PnwuSexz7BogHb"
+      "duration_ms": 107322,
+      "name": "Got The Juice",
+      "url": "https://open.spotify.com/track/4cDMiCvsWskTW4LHtZqscq"
     },
     {
       "added_at": null,
@@ -975,22 +975,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girls Gone Duh",
-        "url": "https://open.spotify.com/album/0H3aviEP5qS8dN3uRLuE2A"
+        "name": "Boys Ain't Shit (feat. Flo Milli)",
+        "url": "https://open.spotify.com/album/3hQcaESnJCs1r2oHbmUKoB"
       },
       "artists": [
         {
-          "name": "Tay Money",
-          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
+          "name": "SAYGRACE",
+          "url": "https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst"
         },
         {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 178973,
-      "name": "Asthma Pump (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/17WXwXsFVJ66Rnus8DhDfC"
+      "duration_ms": 195750,
+      "name": "Boys Ain't Shit (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/2W7FRj6wq1uNmIUwELuQ7e"
     }
   ],
   "unique_name": "This Is Flo Milli",

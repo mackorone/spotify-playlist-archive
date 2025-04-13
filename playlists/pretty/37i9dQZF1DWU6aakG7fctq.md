@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: maye
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,938 likes - 57 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,978 likes - 57 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yo Me Consiento](https://open.spotify.com/track/2kji9DnnKcwwQb1RPyq2NA) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yo Me Consiento](https://open.spotify.com/album/1vkWSOJCklozznNvK9hvkw) | 2:32 |
-| 2 | [un mensaje de voz](https://open.spotify.com/track/1HnI5cfbWXkyYxfRhCZPFv) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [un mensaje de voz](https://open.spotify.com/album/4yxdgyxOzVIagRRZ5PT0XP) | 3:23 |
+| 2 | [un mensaje de voz \(feat\. Elsa y Elmar\)](https://open.spotify.com/track/1HnI5cfbWXkyYxfRhCZPFv) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [un mensaje de voz \(feat\. Elsa y Elmar\)](https://open.spotify.com/album/4yxdgyxOzVIagRRZ5PT0XP) | 3:23 |
 | 3 | [INVENCIBLES](https://open.spotify.com/track/1wdBQEtQXfzMrzEKYbZ548) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [INVENCIBLES](https://open.spotify.com/album/2mNwGeWhgEIOe9ZN0gaBHa) | 2:49 |
 | 4 | [Película](https://open.spotify.com/track/3T0sR45JxRj7jJSl2JOsHR) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Hipnotica](https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY) | [Película](https://open.spotify.com/album/0tnJFppPcKm4N9Y9hmQjaR) | 3:17 |
 | 5 | [Nobody New](https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:35 |

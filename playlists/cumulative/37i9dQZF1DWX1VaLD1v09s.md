@@ -4,7 +4,7 @@
 
 > Songs to celebrate the life, death, and resurrection of our Lord Jesus all in one collection.
 
-507 songs - 1 day 17 hr 53 min
+508 songs - 1 day 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [God Undefeatable \(feat\. Aaron Ivey\)](https://open.spotify.com/track/4VgrQg0p8rc2DGbEJFnft1) | [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x), [Aaron Ivey](https://open.spotify.com/artist/5BwhXNVZT5VMkZW3IPVVfF) | [Austin Stone Live](https://open.spotify.com/album/5Ng89tHiIx1rN1iMhIo8aF) | 4:56 | 2022-04-02 | 2022-04-13 |
 | [God You Are \(feat\. Josh Baldwin\)](https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [God You Are](https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j) | 4:25 | 2023-04-09 |  |
 | [God's Not Dead \(Like A Lion\)](https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [God's Not Dead](https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX) | 4:18 | 2022-04-02 |  |
+| [Good For Nothing](https://open.spotify.com/track/3VgboIL9HZRZN9umNXAV7r) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Good For Nothing](https://open.spotify.com/album/1zRobWXPx0e1cDbHihNfGR) | 3:28 | 2025-04-11 |  |
 | [Good Good Father](https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The Ultimate Playlist](https://open.spotify.com/album/2XOKt6AVcxdBs1Za7AxGj2) | 4:53 | 2021-04-04 | 2025-04-12 |
 | [Good Good Father / Great Are You Lord \- Live From Good Friday](https://open.spotify.com/track/6pgkQM6vH6qw1C3MbmxgJ7) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Live From Good Friday](https://open.spotify.com/album/3ns2YoTCUmyb4XOAndLbhf) | 7:14 | 2024-03-20 | 2024-04-17 |
 | [Good Grace \- Live](https://open.spotify.com/track/5oKjV2E0mt8SjAsuRGQKcV) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Another In The Fire \(Live\)](https://open.spotify.com/album/1StFSkLn6WcA8pORvC8KD8) | 5:53 | 2021-04-04 | 2022-07-29 |
@@ -501,7 +502,7 @@
 | [You Bled](https://open.spotify.com/track/5mmMnTs65zF2WipNfsZ3a5) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Organic Family Hymnal](https://open.spotify.com/album/009vo1dt3swhTmI7mRg7aU) | 4:50 | 2022-04-02 | 2022-04-21 |
 | [You Came \(Lazarus\) \[Live\]](https://open.spotify.com/track/5Jogwn7uQFkNppYubFUyBz) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Starlight \(Live\)](https://open.spotify.com/album/2sjw2PGhdFIHpVbamv41q0) | 4:14 | 2021-04-04 | 2022-07-29 |
 | [You Love Me Anyway](https://open.spotify.com/track/7KT088cs0FVVQum6IyT0X9) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [These Simple Truths](https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj) | 4:20 | 2021-04-04 |  |
-| [You Saved My Soul](https://open.spotify.com/track/45TADaAANvRW361FGzVdIK) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [Take Everything](https://open.spotify.com/album/5J96GAXxf64WebV0PynLQI) | 4:09 | 2022-04-02 |  |
+| [You Saved My Soul](https://open.spotify.com/track/45TADaAANvRW361FGzVdIK) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [Take Everything](https://open.spotify.com/album/5J96GAXxf64WebV0PynLQI) | 4:09 | 2022-04-02 | 2025-04-13 |
 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 | 2021-04-04 | 2023-04-03 |
 | [You Were On The Cross](https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 5:15 | 2021-04-04 |  |
 | [You Will Be Saved](https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [You Will Be Saved](https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk) | 6:14 | 2023-04-02 |  |

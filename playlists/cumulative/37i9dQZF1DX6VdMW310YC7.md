@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,755 songs - 4 day 23 hr 42 min
+1,756 songs - 4 day 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1321,7 +1321,7 @@
 | [Say a Prayer for Me](https://open.spotify.com/track/3wGVYicGXEt2lHwMpX6nvW) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/0gIAWTyvnOntQSd3yxyiW5) | 4:37 | 2020-05-18 | 2020-07-18 |
 | [Say My Name \(feat\. Zyra\)](https://open.spotify.com/track/1LeItUMezKA1HdCHxYICed) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Zyra](https://open.spotify.com/artist/0DGAOR3KtqWwWSwDzhzqOa) | [In Return](https://open.spotify.com/album/5SXT6dwhHX56Sos7KMcMF5) | 4:22 | 2020-05-18 | 2020-07-03 |
 | [Say The Word](https://open.spotify.com/track/1CPfcxZSA4scOgRq8hVBW4) | [tyDi](https://open.spotify.com/artist/7tOUuyCplrFWLXCZuhE3C4), [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g) | [Say The Word](https://open.spotify.com/album/5OXYSAiZRvzm9l0X1Q0XbZ) | 3:30 | 2020-03-16 | 2022-04-16 |
-| [Say You Want To Fly](https://open.spotify.com/track/3NxRqLhqJFNybOEHMoXI8W) | [Otherwish](https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T) | [Say You Want To Fly](https://open.spotify.com/album/2YXYd4ZoEjEPIwAuGQlTce) | 4:00 | 2024-11-22 |  |
+| [Say You Want To Fly](https://open.spotify.com/track/3NxRqLhqJFNybOEHMoXI8W) | [Otherwish](https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T) | [Say You Want To Fly](https://open.spotify.com/album/2YXYd4ZoEjEPIwAuGQlTce) | 4:00 | 2024-11-22 | 2025-04-13 |
 | [Scared Of The Dark](https://open.spotify.com/track/5XyamXKs8Z3ThrMZtGt6yQ) | [Friends & I](https://open.spotify.com/artist/1DgkENk0JhWHATAaVZN4Bn) | [Scared Of The Dark](https://open.spotify.com/album/0C7XqnzLWmXC09HRpn6BfH) | 2:11 | 2024-09-13 | 2025-04-09 |
 | [Scared to Go Home](https://open.spotify.com/track/5gXLhbWoo01qNyGois2Doc) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Scared to Go Home](https://open.spotify.com/album/4ZXSq1eXkwdgEOAtxurhmD) | 2:59 | 2020-05-16 | 2020-10-09 |
 | [Schools Out](https://open.spotify.com/track/1RtNv5YOoY0ODeAekDHAga) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [Schools Out](https://open.spotify.com/album/64cTvTckUDWDLU9xRtdnlq) | 2:55 | 2020-03-17 | 2022-04-21 |
@@ -1665,6 +1665,7 @@
 | [Wasted On You](https://open.spotify.com/track/2Oc1wWGAIkU5wPzL5yyBvN) | [Louis Futon](https://open.spotify.com/artist/79ffq2PHS5TDmgnHhAyudW), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Wasted On You](https://open.spotify.com/album/2WywcVFSqJniKcqYwpgL3W) | 3:44 | 2020-05-18 | 2020-07-03 |
 | [Watch](https://open.spotify.com/track/4ebKhEZNI5rZB989ilgjCg) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Photograph EP](https://open.spotify.com/album/7L4Gq7fzGcWT5LNaR1rMri) | 3:47 | 2020-03-16 | 2021-01-23 |
 | [Waterbug](https://open.spotify.com/track/2Eqv3lSPNQCbtHfHTIlyKK) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3) | [Waterbug](https://open.spotify.com/album/5Uu0x9SXUIMegmP0XTDBhC) | 4:10 | 2022-03-18 | 2022-07-18 |
+| [Waterfall](https://open.spotify.com/track/5XJvzlRR2FnsObtoYy6qoy) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV) | [Waterfall](https://open.spotify.com/album/4S4VjEK6SsnM7kVDy4w5Yx) | 4:24 | 2025-04-11 |  |
 | [Watermelon Wormhole](https://open.spotify.com/track/0kDXSB7nn4QBSdQqmEJpEm) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Reviver](https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz) | 5:53 | 2022-01-21 | 2022-02-12 |
 | [Wave \(Instrumental\)](https://open.spotify.com/track/7kjSUj8koP3ZcxRRbos65h) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids \(The Instrumentals\)](https://open.spotify.com/album/77StEacT5IhWZLdj0Rj2W2) | 4:32 | 2020-03-16 | 2021-02-19 |
 | [Waves \- OCULA Remix](https://open.spotify.com/track/3IeLJ5OLr0tCHsr7SDnfi8) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij) | [Waves](https://open.spotify.com/album/6c3NYJWidoCQL0E54YlzR1) | 4:04 | 2020-08-06 | 2020-10-09 |

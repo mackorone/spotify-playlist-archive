@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Pulung Agustanto
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,908 likes - 103 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,940 likes - 103 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-711 songs - 1 day 10 hr 41 min
+712 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Benevolent](https://open.spotify.com/track/3qv6UdZerLnFiGkWBynjGv) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Benevolent](https://open.spotify.com/album/5iMRxKGIIbRv8OxwEpj8JP) | 2:20 | 2024-05-04 |  |
 | [Berhenti Masa](https://open.spotify.com/track/32SDpflyGXlMiWbtrMbUgC) | [Waneesa](https://open.spotify.com/artist/62IrHmSFccbsuwIFWQKEgg) | [Berhenti Masa](https://open.spotify.com/album/2rjf7QvlfHGsHL6nTTLwfC) | 2:29 | 2023-03-23 | 2024-05-05 |
 | [beyond horizons](https://open.spotify.com/track/1jpVNjs3ljHRGkE6hklAMB) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [sleeping moons](https://open.spotify.com/album/5axy78HLC8b3mqrS3qWLJf) | 3:14 | 2023-03-23 | 2024-03-21 |
+| [Beyond the Silence](https://open.spotify.com/track/77h8U4nGrKuREPKF9krrYC) | [Draumur](https://open.spotify.com/artist/73vfmQitDWpSJETJ4vP7Uv) | [Beyond the Silence](https://open.spotify.com/album/6Ma31neVFv5LDMNeg6nc40) | 2:53 | 2025-04-09 |  |
 | [Beyond the Valley](https://open.spotify.com/track/5nAw7zxtQKsWNXcaliIewg) | [Broadleaf Radio](https://open.spotify.com/artist/0aE7qo3dt6QImBjcDIPUON) | [Beyond the Valley](https://open.spotify.com/album/2FnqXYSMOOu9KV5R5MGviq) | 3:21 | 2025-01-22 |  |
 | [Bhavana](https://open.spotify.com/track/6RuQwill4ZBhfcM51hPO49) | [Embodied Soul](https://open.spotify.com/artist/0hobX02qEX5ITvPf1KiShY) | [Bhavana](https://open.spotify.com/album/48p430kUzvKzA1jW0ZaPJU) | 2:30 | 2025-01-08 | 2025-02-26 |
 | [Blind Tune](https://open.spotify.com/track/5SPTC386a3gUGz333b4S8X) | [Relax Pod](https://open.spotify.com/artist/6jCMK9NdirCmIkjZRRfsJg) | [Blind Tune](https://open.spotify.com/album/0uiDhffUcPAkdIczseRhv8) | 3:21 | 2024-04-05 | 2025-02-21 |
@@ -244,7 +245,7 @@
 | [Etheral Ease](https://open.spotify.com/track/5jKGlvcYrkQjoqwvAtMZ70) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Etheral Ease](https://open.spotify.com/album/3rcdVstalXGxGDggOZ9Dne) | 3:15 | 2023-03-23 | 2024-02-09 |
 | [Ethereal](https://open.spotify.com/track/1E8X81mDNXxPlzIWGdwFmg) | [Joanna Neriah](https://open.spotify.com/artist/2GKwdKtX1WZUQxSnYa41wm) | [Ethereal](https://open.spotify.com/album/523R7wBcTOKZrtqyLrAxm0) | 3:46 | 2023-03-23 | 2024-03-21 |
 | [Ethereal Echoes](https://open.spotify.com/track/2TwiFLI95iEFaXZOw8Rn7s) | [Ella Hush](https://open.spotify.com/artist/6dcMOViRlnkmZkjhckcMmx) | [Ethereal Echoes](https://open.spotify.com/album/1v4DPTFv9C7L0Xia3k2Jsp) | 3:04 | 2024-05-04 | 2025-03-02 |
-| [Etherealism](https://open.spotify.com/track/5xcMiHMYeXbjdcYUDYzZzL) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Etherealism](https://open.spotify.com/album/2uk1QgUcIbDYyrFmrnVNEn) | 3:30 | 2024-08-02 |  |
+| [Etherealism](https://open.spotify.com/track/5xcMiHMYeXbjdcYUDYzZzL) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Etherealism](https://open.spotify.com/album/2uk1QgUcIbDYyrFmrnVNEn) | 3:30 | 2024-08-02 | 2025-04-13 |
 | [Etoile](https://open.spotify.com/track/683qBY5WPSLBPfgDioGVmS) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Etoile](https://open.spotify.com/album/4s0qbwDBSI2z9tjahbd4WT) | 2:15 | 2023-03-23 | 2024-05-05 |
 | [Etéreo](https://open.spotify.com/track/332LsZnqbuZPRiiknROvfy) | [Constantine Lupo](https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn) | [Etéreo](https://open.spotify.com/album/6iUYSrnRQ5BKvECnWParnE) | 3:16 | 2023-03-23 | 2024-03-21 |
 | [Euclid](https://open.spotify.com/track/56mK5RyrLDDcuMOHPXoKbN) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Euclid](https://open.spotify.com/album/34k8LhrSkwluEKrqT0Eeej) | 2:27 | 2024-12-17 |  |

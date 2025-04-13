@@ -440,7 +440,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 200097,
       "name": "Caballo Prieto Azabache",
       "url": "https://open.spotify.com/track/4KKTzZmFYoEVmHK34ADeke"
@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 174080,
       "name": "El Ojo De Vidrio",
       "url": "https://open.spotify.com/track/2rvxFqF0Hqk0QQzYfkFhhs"
@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 222737,
       "name": "Juan Charrasqueado",
       "url": "https://open.spotify.com/track/7i1qfU3QQu1ls53CA8Lrvc"
@@ -1418,6 +1418,24 @@
       "duration_ms": 307640,
       "name": "La Cima del Cielo",
       "url": "https://open.spotify.com/track/6YfR85OhPZ330CQ1Md3Onh"
+    },
+    {
+      "album": {
+        "name": "El Tren Lento",
+        "url": "https://open.spotify.com/album/0hXX2N3BkF9Uv4Qp80hEde"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249010,
+      "name": "La Cruda",
+      "url": "https://open.spotify.com/track/3cYKALfM9lV80IDeApmkB8"
     },
     {
       "album": {
@@ -1932,7 +1950,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-22",
+      "date_removed": null,
       "duration_ms": 172721,
       "name": "Nadie Es Eterno",
       "url": "https://open.spotify.com/track/130TDmCOxR9EmkDdKxoaz1"
@@ -2186,7 +2204,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-17",
+      "date_removed": null,
       "duration_ms": 186142,
       "name": "No Volvere",
       "url": "https://open.spotify.com/track/6QA7xL13uZ7QlN7u4w5r43"

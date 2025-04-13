@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Jervis Campbell
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,399 likes - 99 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,454 likes - 99 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 22 | [Because He Lives](https://open.spotify.com/track/6Dh2rNvBNAz8tcAXAVx6k7) | [Rockharbor](https://open.spotify.com/artist/3hs7sVHxEz4lSff1a2IcPu), [Luke Hellebronth](https://open.spotify.com/artist/26RpO1zRTbfhvP4DlHKn6I) | [Because He Lives](https://open.spotify.com/album/58vHYU2Yu1kDs39qo9ngQi) | 4:56 |
 | 23 | [O The Blood \- Live](https://open.spotify.com/track/1pS3u9fmHDnMi6d9mg9lLg) | [Chris Burns](https://open.spotify.com/artist/3E4c1Fq51LkCGfVngrEHlm), [Danielle Burns](https://open.spotify.com/artist/4ZQPjKGlZU4PBYbWEZEymk) | [O The Blood \(Live\)](https://open.spotify.com/album/3OgHKK5XHuPokFgJVhXpZC) | 7:10 |
 | 24 | [So Much](https://open.spotify.com/track/6uqYWwJnvxaea90fGpnD5K) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [The Way](https://open.spotify.com/album/4WnUpf631dEc0KK4jXjK3y) | 6:46 |
-| 25 | [Yeshuah \- Live from London](https://open.spotify.com/track/1cZFDOXK1aEEsUeagFnlRC) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Yeshuah \(Live from London\)](https://open.spotify.com/album/6ZHUF2m9rL5rVTKwSykbbI) | 4:11 |
+| 25 | [Yeshua \- Live from London](https://open.spotify.com/track/1cZFDOXK1aEEsUeagFnlRC) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Yeshua \(Live from London\)](https://open.spotify.com/album/6ZHUF2m9rL5rVTKwSykbbI) | 4:11 |
 | 26 | [Just Wait](https://open.spotify.com/track/2qOa65FUnswmASEOUYH5Md) | [Frankie Taylor](https://open.spotify.com/artist/6ZCnFIxKGRkycYEnh87ZfL), [Xavier Campbell](https://open.spotify.com/artist/2vkjExCubHTppeNUT9re9m) | [Just Wait](https://open.spotify.com/album/7xL4QnvTljOVNaXW2z2p5Q) | 7:30 |
 | 27 | [NAZARETH](https://open.spotify.com/track/02TRh7Pn7NwU2nRIlG6FFU) | [Thomas Ware](https://open.spotify.com/artist/5czwQsY7himQixSYkBvJ8Y), [Lucinda Moore](https://open.spotify.com/artist/36NpWbQn9NARm2hy9oP58x) | [NAZARETH](https://open.spotify.com/album/5hU96oKKwvlTbeSYMkvmum) | 4:49 |
 | 28 | [Ese](https://open.spotify.com/track/0eV92oAqLxBTd90cnhafMM) | [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [Ese](https://open.spotify.com/album/4atwXuSUBGTFKykz1C5Yzb) | 2:04 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 44 | [Jagbajantis](https://open.spotify.com/track/2H6qL5ILAPdrCXVO8H7iTf) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Jagbajantis](https://open.spotify.com/album/3bjkCRrMwSBtmAXCrdy0yK) | 2:34 |
 | 45 | [2010](https://open.spotify.com/track/3qpxke8vQQEfpN3ahn5COP) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [TYTANIUM 2](https://open.spotify.com/album/1AeJyskKeWh1m7R2noeNNi) | 2:33 |
 | 46 | [City on His Back](https://open.spotify.com/track/6AlQ5HtGrPQO7M20pTtsf5) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [City on His Back](https://open.spotify.com/album/4S9IdV7Lua5EHkNZ2zlGH5) | 3:23 |
-| 47 | [EYES ON US](https://open.spotify.com/track/6iJjhnQj7xlg17kIJrpDYH) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [Alex Jean](https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi) | [EYES ON US](https://open.spotify.com/album/2o8Yp7W95ToSXCHW3dqLhW) | 2:51 |
+| 47 | [EYES ON US](https://open.spotify.com/track/6iJjhnQj7xlg17kIJrpDYH) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [EYES ON US](https://open.spotify.com/album/2o8Yp7W95ToSXCHW3dqLhW) | 2:51 |
 | 48 | [take the wheel](https://open.spotify.com/track/2H6Xw9IKbZirY1camQHot3) | [GRAHAM](https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G) | [take the wheel](https://open.spotify.com/album/7sWUex3pzMhcKIvx5Kx3Ig) | 2:17 |
 | 49 | [Better](https://open.spotify.com/track/3pcDkBjxmptIfrGqYzL5CB) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [Better](https://open.spotify.com/album/3sd4BqGrF2mKITgITHojDL) | 2:54 |
 | 50 | [Better Days \(Remix\)](https://open.spotify.com/track/12uSi7U9SSTRGIXRRaPqDo) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Better Days \(Remix\)](https://open.spotify.com/album/1GhhQMKJuqfKpzJUFl3mgA) | 2:55 |

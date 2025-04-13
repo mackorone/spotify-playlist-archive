@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 25569,
+  "num_followers": 25599,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/cKAAAAAAClRWkRF5rHI+oTQSGLjL5d",
+  "snapshot_id": "Z/hbgAAAAAASNaJMq5SIFxjfuXg1rPqd",
   "tracks": [
     {
       "added_at": null,
@@ -491,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somethin' (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/0HkzOucR55zv6wQWIWOPBs"
-      },
-      "artists": [
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 149245,
-      "name": "Somethin' (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/3LdP8uDwQ1NVwNCrb8I32K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "YN",
         "url": "https://open.spotify.com/album/1Ko6TqmUlt4dz65PTyTWrK"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 231075,
       "name": "YN",
       "url": "https://open.spotify.com/track/1Ulsd6jncBPvkY9JnFBTPp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somethin' (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/0HkzOucR55zv6wQWIWOPBs"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 149245,
+      "name": "Somethin' (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/3LdP8uDwQ1NVwNCrb8I32K"
     },
     {
       "added_at": null,
@@ -975,6 +975,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bow Bow Bow (F My Baby Dad)",
+        "url": "https://open.spotify.com/album/6CvkZfqD5LphlU26bOwisX"
+      },
+      "artists": [
+        {
+          "name": "chriseanrock",
+          "url": "https://open.spotify.com/artist/3Idu5nTg2S3wrYwVkPqiwa"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 84768,
+      "name": "Bow Bow Bow (F My Baby Dad)",
+      "url": "https://open.spotify.com/track/2RRzWlyQXOAmzgluA2oif5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "41 World: Not The Album",
         "url": "https://open.spotify.com/album/1xfZEllNKEGORjebzxus4t"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 217600,
       "name": "Bent (Remix) (with Kyle Richh, Jenn Carter, TaTa & Sexyy Red)",
       "url": "https://open.spotify.com/track/3dbk5pvQlJagP6VJP9vHzq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bow Bow Bow (F My Baby Dad)",
-        "url": "https://open.spotify.com/album/6CvkZfqD5LphlU26bOwisX"
-      },
-      "artists": [
-        {
-          "name": "chriseanrock",
-          "url": "https://open.spotify.com/artist/3Idu5nTg2S3wrYwVkPqiwa"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 84768,
-      "name": "Bow Bow Bow (F My Baby Dad)",
-      "url": "https://open.spotify.com/track/2RRzWlyQXOAmzgluA2oif5"
     }
   ],
   "unique_name": "This Is Sexyy Red",

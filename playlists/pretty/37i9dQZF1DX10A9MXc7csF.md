@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Eddy
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,285 likes - 112 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,319 likes - 112 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 10 | [Entre Pláticas y Dudas](https://open.spotify.com/track/79gm3vpxuNnC5VPfauAIlP) | [Pablito Osorio](https://open.spotify.com/artist/1ZhRNCRp4k0fGK6p8OPV9t), [JPL](https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd) | [Entre Pláticas y Dudas](https://open.spotify.com/album/6goaiRxg64OPJUwTINOKL8) | 4:20 |
 | 11 | [Mi Vicio Mi Adicción](https://open.spotify.com/track/79Vmx38rbjcS3BEykrir2U) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Mi Vicio Mi Adicción](https://open.spotify.com/album/5Uvhi2I4A8dVMbkOKLfDpQ) | 2:19 |
 | 12 | [0 Atención](https://open.spotify.com/track/6N5vVqK0pZGi9H1ota7dNk) | [Daren](https://open.spotify.com/artist/6DaJwc5ofkN35XEEKDPNfP) | [0 Atención](https://open.spotify.com/album/4MLsRABVzkXaQxnksJ0wtx) | 2:45 |
-| 13 | [Testarosa](https://open.spotify.com/track/7G5nj5PTeLyfq6OrKyrNir) | [Said Norzagaray](https://open.spotify.com/artist/3hK6sVmdFt15ORCDg503Yp), [Alex Torres](https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2) | [Testarosa](https://open.spotify.com/album/59zzInP9OYI5Iy3uWWTsN5) | 3:03 |
+| 13 | [Testarossa](https://open.spotify.com/track/7G5nj5PTeLyfq6OrKyrNir) | [Said Norzagaray](https://open.spotify.com/artist/3hK6sVmdFt15ORCDg503Yp), [Alex Torres](https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2) | [Testarossa](https://open.spotify.com/album/59zzInP9OYI5Iy3uWWTsN5) | 3:03 |
 | 14 | [Traviesa](https://open.spotify.com/track/0LZC7sNGrUsTu95xFkxRgy) | [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq), [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dinero, Poder y Mujeres](https://open.spotify.com/album/70Uut90pqlmsDiho68CDTI) | 2:26 |
 | 15 | [Que Pedo](https://open.spotify.com/track/5ZNQU2PIp5KItB73TUft2B) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [Que Pedo](https://open.spotify.com/album/1i1It41Q2QnkUU2duPxfzy) | 3:14 |
 | 16 | [BACCARAT](https://open.spotify.com/track/4c3nS9PxDBRj7u9nLEYPpl) | [Linea Personal](https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [BACCARAT](https://open.spotify.com/album/6wj2LMLRq13TAQHizN5PDG) | 2:37 |

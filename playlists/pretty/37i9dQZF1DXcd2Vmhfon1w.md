@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Las Ninyas del Corro, Faenna.
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,128 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,183 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 14 | [Tu Silueta](https://open.spotify.com/track/57f0ili5EzdZlEaSKcEg8p) | [Diegote](https://open.spotify.com/artist/2V9MnjEMqwXm7sice07NQK) | [Tu Silueta](https://open.spotify.com/album/7j86EbvzXlG519y6A8L1uZ) | 2:50 |
 | 15 | [ECHO DE MENOS](https://open.spotify.com/track/4pycU0Z1vWdAF1bp26rIBI) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [ECHO DE MENOS](https://open.spotify.com/album/3JzsZL21V7bMwGhYpRZqbK) | 3:18 |
 | 16 | [Nueva Season](https://open.spotify.com/track/1NY6GxLcNIo5tmdBZ2uJSC) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ) | [Nueva Season](https://open.spotify.com/album/1lCpCUkyehHRqVv3q7elLm) | 3:47 |
-| 17 | [El Brillo](https://open.spotify.com/track/3TienUeja5ummxdmi2crSN) | [RADE](https://open.spotify.com/artist/2Be5gecyvPCbsLUp0o6k6h) | [El Brillo](https://open.spotify.com/album/5UomPzLFIyqaTtmAQF3vjj) | 2:55 |
+| 17 | [El Brillo](https://open.spotify.com/track/3TienUeja5ummxdmi2crSN) | [RADE](https://open.spotify.com/artist/2Be5gecyvPCbsLUp0o6k6h), [Ocer y Rade](https://open.spotify.com/artist/0fgRCULXpG4okFdlpat4e3) | [El Brillo](https://open.spotify.com/album/5UomPzLFIyqaTtmAQF3vjj) | 2:55 |
 | 18 | [CADENAS](https://open.spotify.com/track/1ZHmlo3B4q8fxtSWoMcAum) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q) | [CADENAS](https://open.spotify.com/album/692W4fGKUrRQ8IoiY7hZxo) | 2:53 |
 | 19 | [Shorty](https://open.spotify.com/track/5emjBfWheJT83MyOzmlTNU) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [Tirititando](https://open.spotify.com/album/23CDTnMpY9k9tKblvWsxGw) | 3:03 |
 | 20 | [Shars 2020](https://open.spotify.com/track/036QM4rIhz7A7n66IWA7Ej) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl) | [Shars 2020](https://open.spotify.com/album/3whSTfSW2CfXbaGDTwDbOQ) | 3:05 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Charli xcx. The essential tracks, all in one playlist.",
-  "num_followers": 150121,
+  "num_followers": 150322,
   "original_name": "This Is Charli xcx",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/cKAAAAAACiCRaKu4kRX+AJFIrUwpX9",
+  "snapshot_id": "Z/hbgAAAAACTfxbgeIFeD8gxehN7ARxp",
   "tracks": [
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boys",
-        "url": "https://open.spotify.com/album/4cdqRn65PB3wyN2Yog1nc8"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 162585,
-      "name": "Boys",
-      "url": "https://open.spotify.com/track/5o4yGlG0PfeVUa6ClIyOxq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Charli",
         "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 275040,
       "name": "Shake It (feat. Big Freedia, CupcakKe, Brooke Candy and Pabllo Vittar)",
       "url": "https://open.spotify.com/track/3XbNseJrIK8LzoTh4eA0Xf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boys",
+        "url": "https://open.spotify.com/album/4cdqRn65PB3wyN2Yog1nc8"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 162585,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/5o4yGlG0PfeVUa6ClIyOxq"
     },
     {
       "added_at": null,

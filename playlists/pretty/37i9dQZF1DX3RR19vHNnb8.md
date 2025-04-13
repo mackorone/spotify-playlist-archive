@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,584 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,610 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 46 | [Nirvana](https://open.spotify.com/track/2AxdsjbrVCvKvZDMHnWJSP) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Nirvana](https://open.spotify.com/album/3fYXcBH4CCJttLnvuqvM4N) | 2:24 |
 | 47 | [FINIDI GEORGE \(If I hear Peem\)](https://open.spotify.com/track/3yKdCKXvbFl9LUaWYAeAVP) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [IMRHAN](https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3) | [FINIDI GEORGE \(If I hear Peem\)](https://open.spotify.com/album/50jqztfxHsS64KZk0UXXvR) | 2:45 |
 | 48 | [Breaking News](https://open.spotify.com/track/1VHi0TCyl8zcNiPVlXixnP) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Evil Twin](https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo) | 2:32 |
-| 49 | [Ski Ski](https://open.spotify.com/track/4z7yA5ZHPBb99qvjcyeuGk) | [Cazulee](https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q), [Badass](https://open.spotify.com/artist/4yxp1mRdHK50pMPKynSQBG) | [Ski Ski](https://open.spotify.com/album/4AX0RBHMYx4y8RO5urAbnB) | 2:29 |
+| 49 | [STRIPPERS ANTHEM \(feat\. Teezee and PsychoYP\)](https://open.spotify.com/track/0cueK8brhqzJnXLutvzmvq) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 2:50 |
 | 50 | [Time Of My life](https://open.spotify.com/track/0GVWa6o5Kfai286WCKB1d0) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Time Of My Life](https://open.spotify.com/album/68LmZVzRuCex2vfwAYar5J) | 2:35 |
 
 Snapshot ID: `Z90KWQAAAACayWdQkBKTQ9y2XaCL0s7f`

@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 63189,
+  "num_followers": 63208,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/cKAAAAAACP1ZINP1glcEAEuu1AARgR",
+  "snapshot_id": "Z/hbgAAAAADrjqGnUB67tgbqxar+SlEw",
   "tracks": [
     {
       "added_at": null,
@@ -199,6 +199,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fetiche",
+        "url": "https://open.spotify.com/album/1YJQFqXUo8shoHKP4ksfu2"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 195075,
+      "name": "Fetiche",
+      "url": "https://open.spotify.com/track/09hUwQCau24tHaTVKgLiFn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nuclear",
         "url": "https://open.spotify.com/album/1T2uKSyUf7DBWOABtsmYLM"
       },
@@ -219,26 +239,6 @@
       "duration_ms": 314665,
       "name": "Godzilla (feat. Enrique Bunbury & Ximena Sari\u00f1ana)",
       "url": "https://open.spotify.com/track/7rbsQlwPWCnz72GdzVOi9h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fetiche",
-        "url": "https://open.spotify.com/album/1YJQFqXUo8shoHKP4ksfu2"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 195075,
-      "name": "Fetiche",
-      "url": "https://open.spotify.com/track/09hUwQCau24tHaTVKgLiFn"
     },
     {
       "added_at": null,
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chispa Roja",
-        "url": "https://open.spotify.com/album/4YzuHCvwT5mz6Ga7GccbWn"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 211085,
-      "name": "Chispa Roja",
-      "url": "https://open.spotify.com/track/5XHks592LnELvf20Ny43EZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Que Se Va",
         "url": "https://open.spotify.com/album/5D7TVjx5cphnUYDw6FZpbW"
       },
@@ -895,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mediocre",
-        "url": "https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 263386,
-      "name": "Monitor",
-      "url": "https://open.spotify.com/track/7pEVLSlWDDTnTUOVdwPXrn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nuevos Aires",
         "url": "https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu"
       },
@@ -927,6 +895,38 @@
       "duration_ms": 212894,
       "name": "fuckhim (feat. Ximena Sari\u00f1ana)",
       "url": "https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mediocre",
+        "url": "https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 263386,
+      "name": "Monitor",
+      "url": "https://open.spotify.com/track/7pEVLSlWDDTnTUOVdwPXrn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chispa Roja",
+        "url": "https://open.spotify.com/album/4YzuHCvwT5mz6Ga7GccbWn"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 211085,
+      "name": "Chispa Roja",
+      "url": "https://open.spotify.com/track/5XHks592LnELvf20Ny43EZ"
     },
     {
       "added_at": null,

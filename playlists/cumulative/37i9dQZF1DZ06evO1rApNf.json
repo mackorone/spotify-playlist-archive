@@ -171,6 +171,28 @@
     },
     {
       "album": {
+        "name": "Bonito",
+        "url": "https://open.spotify.com/album/0D4zEm1XB5OMiHClgor4Ba"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218084,
+      "name": "Bonito",
+      "url": "https://open.spotify.com/track/6D0oLnRc8CqyFv4AiZMMOG"
+    },
+    {
+      "album": {
         "name": "Bota Fuego (feat. D\u00edmelo Flow, Justin Quiles & Lenny Tav\u00e1rez) [Remix]",
         "url": "https://open.spotify.com/album/45YWYjXP1nV0l61m50E5dL"
       },
@@ -966,7 +988,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 158626,
       "name": "La Grosera",
       "url": "https://open.spotify.com/track/0KEdaZfGUjxZbvGWqjsfER"

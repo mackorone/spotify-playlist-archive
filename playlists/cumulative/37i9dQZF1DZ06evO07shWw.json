@@ -223,6 +223,24 @@
     },
     {
       "album": {
+        "name": "Catch 22",
+        "url": "https://open.spotify.com/album/1BpLEq3RV91FPE7TQd9WDv"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197564,
+      "name": "Catch 22",
+      "url": "https://open.spotify.com/track/6PwQarviIfpD5dqUeGnf01"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
       },

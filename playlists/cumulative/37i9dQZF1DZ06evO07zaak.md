@@ -4,7 +4,7 @@
 
 > This is Pink Floyd\. The essential tracks, all in one playlist.
 
-57 songs - 5 hr 19 min
+58 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Obscured by Clouds](https://open.spotify.com/track/3c8LKbUsjW9lMYQzVScXQT) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 3:04 | 2022-09-17 | 2022-10-13 |
 | [On the Turning Away](https://open.spotify.com/track/7KA6U0WOHdGxWWLGPYN2Sb) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Momentary Lapse of Reason](https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte) | 5:41 | 2022-09-17 |  |
 | [One of the Few](https://open.spotify.com/track/2rcpqbAf0ZXdgddldbu1sU) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 1:17 | 2022-11-08 |  |
-| [One of These Days](https://open.spotify.com/track/6uU0Hu8oVk9gBihokcrDMH) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 5:54 | 2022-09-17 |  |
+| [One of These Days](https://open.spotify.com/track/6uU0Hu8oVk9gBihokcrDMH) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 5:54 | 2022-09-17 | 2025-04-13 |
+| [One of These Days \- Live at Pompeii \- MCMLXXII \- 2025 Mix](https://open.spotify.com/track/10q3BFCZ61K1rvMZAYvqYi) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [One of These Days \(Live at Pompeii \- MCMLXXII \- 2025 Mix\)](https://open.spotify.com/album/5PtbJkcRsrP4ExckBuH91L) | 5:55 | 2025-04-13 |  |
 | [Pigs \(Three Different Ones\)](https://open.spotify.com/track/0gEaeqVRHPzRc7HMXtOKc7) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Animals](https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4) | 11:25 | 2022-09-17 |  |
 | [Pigs on the Wing 1](https://open.spotify.com/track/19tHmIQsRnebkyK09m2UXE) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Animals](https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4) | 1:24 | 2022-09-17 |  |
 | [Poles Apart](https://open.spotify.com/track/6uE9hF8fIb6shBXrrzA12U) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Division Bell](https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl) | 7:03 | 2022-09-17 |  |

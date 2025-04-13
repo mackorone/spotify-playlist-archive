@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: [Alexandros]",
-  "num_followers": 295859,
+  "num_followers": 295883,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -471,18 +471,18 @@
     {
       "added_at": "2025-04-08 17:08:08",
       "album": {
-        "name": "\u5e7e\u5104\u5149\u5e74",
-        "url": "https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9"
+        "name": "TAIDADA",
+        "url": "https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6"
       },
       "artists": [
         {
-          "name": "Omoinotake",
-          "url": "https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B"
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
         }
       ],
-      "duration_ms": 276918,
-      "name": "\u5e7e\u5104\u5149\u5e74",
-      "url": "https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK"
+      "duration_ms": 226026,
+      "name": "TAIDADA",
+      "url": "https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC"
     },
     {
       "added_at": "2025-04-08 17:08:08",
@@ -647,18 +647,18 @@
     {
       "added_at": "2025-04-08 17:08:08",
       "album": {
-        "name": "TAIDADA",
-        "url": "https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6"
+        "name": "\u5e7e\u5104\u5149\u5e74",
+        "url": "https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9"
       },
       "artists": [
         {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+          "name": "Omoinotake",
+          "url": "https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B"
         }
       ],
-      "duration_ms": 226026,
-      "name": "TAIDADA",
-      "url": "https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC"
+      "duration_ms": 276918,
+      "name": "\u5e7e\u5104\u5149\u5e74",
+      "url": "https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK"
     },
     {
       "added_at": "2025-04-08 17:08:08",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-04-08 17:08:08",
       "album": {
-        "name": "\u75db\u899a",
-        "url": "https://open.spotify.com/album/0RtFA6ThC0dUyWN1fhqEit"
-      },
-      "artists": [
-        {
-          "name": "amazarashi",
-          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
-        }
-      ],
-      "duration_ms": 269777,
-      "name": "\u75db\u899a",
-      "url": "https://open.spotify.com/track/3wnQnCDKSSlQDJELGWzj0V"
-    },
-    {
-      "added_at": "2025-04-08 17:08:08",
-      "album": {
         "name": "\u751f\u6d3b\u306e\u30cb\u30e5\u30fc\u30b9",
         "url": "https://open.spotify.com/album/2pccOr7xk2EmlL2FAid7Gz"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 296119,
       "name": "\u6211\u611b\u4f60",
       "url": "https://open.spotify.com/track/7jXoUqjqJVQGHDBs9ZGy08"
+    },
+    {
+      "added_at": "2025-04-08 17:08:08",
+      "album": {
+        "name": "\u75db\u899a",
+        "url": "https://open.spotify.com/album/0RtFA6ThC0dUyWN1fhqEit"
+      },
+      "artists": [
+        {
+          "name": "amazarashi",
+          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
+        }
+      ],
+      "duration_ms": 269777,
+      "name": "\u75db\u899a",
+      "url": "https://open.spotify.com/track/3wnQnCDKSSlQDJELGWzj0V"
     },
     {
       "added_at": "2025-04-08 17:08:08",

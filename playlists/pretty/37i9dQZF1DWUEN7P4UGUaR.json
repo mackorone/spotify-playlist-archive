@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
-  "num_followers": 14068,
+  "num_followers": 14072,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -735,18 +735,22 @@
     {
       "added_at": "2025-04-11 00:01:31",
       "album": {
-        "name": "The Prodigal Son",
-        "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
+        "name": "Chale",
+        "url": "https://open.spotify.com/album/4XY20uumfyqrVMspFmBF17"
       },
       "artists": [
         {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+          "name": "richieo",
+          "url": "https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0"
+        },
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
         }
       ],
-      "duration_ms": 157000,
-      "name": "Man on a Mission",
-      "url": "https://open.spotify.com/track/0XeKqPjspgM5eAOhaCNMwL"
+      "duration_ms": 146779,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/4hKnUUJ5YUz21mEKk1KyFs"
     },
     {
       "added_at": "2025-04-11 00:01:31",
@@ -771,22 +775,18 @@
     {
       "added_at": "2025-04-11 00:01:31",
       "album": {
-        "name": "Chale",
-        "url": "https://open.spotify.com/album/4XY20uumfyqrVMspFmBF17"
+        "name": "The Prodigal Son",
+        "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
       },
       "artists": [
         {
-          "name": "richieo",
-          "url": "https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0"
-        },
-        {
-          "name": "Kofi Kinaata",
-          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
         }
       ],
-      "duration_ms": 146779,
-      "name": "Chale",
-      "url": "https://open.spotify.com/track/4hKnUUJ5YUz21mEKk1KyFs"
+      "duration_ms": 157000,
+      "name": "Man on a Mission",
+      "url": "https://open.spotify.com/track/0XeKqPjspgM5eAOhaCNMwL"
     },
     {
       "added_at": "2025-04-11 00:01:31",
@@ -847,6 +847,30 @@
     {
       "added_at": "2025-04-11 00:01:31",
       "album": {
+        "name": "JEHOVAH OVERDO",
+        "url": "https://open.spotify.com/album/77FfDFvBdqw5JrtCcUHu9G"
+      },
+      "artists": [
+        {
+          "name": "Kofi Dartey",
+          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
+        },
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        },
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 143861,
+      "name": "JEHOVAH OVERDO",
+      "url": "https://open.spotify.com/track/4CpkksfFzZWfdfa1jgJHnK"
+    },
+    {
+      "added_at": "2025-04-11 00:01:31",
+      "album": {
         "name": "Agbadza Gospel Medley II (Live)",
         "url": "https://open.spotify.com/album/0a1CiR5KeyKrb3Zwh7Fp3I"
       },
@@ -875,22 +899,6 @@
       "duration_ms": 227208,
       "name": "Aseda",
       "url": "https://open.spotify.com/track/7AIplY4MAG0TBQMTeQkHuH"
-    },
-    {
-      "added_at": "2025-04-11 00:01:31",
-      "album": {
-        "name": "Sometin",
-        "url": "https://open.spotify.com/album/3kdcgOOdHWNNkmJF2VaLsP"
-      },
-      "artists": [
-        {
-          "name": "Nana Yaw Ofori-Atta",
-          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
-        }
-      ],
-      "duration_ms": 221714,
-      "name": "Sometin",
-      "url": "https://open.spotify.com/track/0kPyu3XIUbFlyDvz319x8d"
     }
   ],
   "unique_name": "Aseda",

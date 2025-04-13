@@ -8367,6 +8367,24 @@
     },
     {
       "album": {
+        "name": "ZNOWU CO\u015a NIE TAK",
+        "url": "https://open.spotify.com/album/3Ugl9yrb1Ke5mONz4i5724"
+      },
+      "artists": [
+        {
+          "name": "FANKA",
+          "url": "https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190088,
+      "name": "ZNOWU CO\u015a NIE TAK",
+      "url": "https://open.spotify.com/track/0SHXkQ1d9MiNUhHSMpZpcV"
+    },
+    {
+      "album": {
         "name": "Harmonia",
         "url": "https://open.spotify.com/album/42CNwNbrwex67xNAmR3yWV"
       },
@@ -8382,7 +8400,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 215664,
       "name": "Zobaczy\u0107 Ciebie",
       "url": "https://open.spotify.com/track/6DlFqZsoRr7mypaQkMbRF4"

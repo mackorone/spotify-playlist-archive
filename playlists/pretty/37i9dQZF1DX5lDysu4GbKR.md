@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Stripped back vibes\. Cover: TA Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,508 likes - 124 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,555 likes - 124 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

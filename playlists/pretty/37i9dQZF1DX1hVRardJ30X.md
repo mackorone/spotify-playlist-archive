@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Trueno & Young Miko, Rauw Alejandro, Prince Royce and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,378 likes - 53 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,447 likes - 53 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 30 | [Tramuntana](https://open.spotify.com/track/4SaQQ0SQG47SuZHQtmlNL2) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Tramuntana](https://open.spotify.com/album/0j4sG63Z9Pp0vHXIEIEDb8) | 3:55 |
 | 31 | [Tipz & Trickz](https://open.spotify.com/track/0JP27lPyI1QZDO80cZ6SRq) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [80'z](https://open.spotify.com/album/67YvgeZeleDvyK1sdaxi6G) | 1:41 |
 | 32 | [Quiero Recordar](https://open.spotify.com/track/1qU4vGtdBeDjuOVS5b3fDF) | [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Quiero Recordar](https://open.spotify.com/album/3UMCgVX3khI2l3uCI4w7kq) | 2:58 |
-| 33 | [boss \- Remix](https://open.spotify.com/track/3F75fwqrPiNLkf3krSkYkQ) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [boss \(Remix\)](https://open.spotify.com/album/5XPntEYsj1XpHzDYwShoIf) | 3:32 |
+| 33 | [boss rmx](https://open.spotify.com/track/3F75fwqrPiNLkf3krSkYkQ) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [boss rmx](https://open.spotify.com/album/5XPntEYsj1XpHzDYwShoIf) | 3:32 |
 | 34 | [Yo No Soy](https://open.spotify.com/track/6OY8DC8OJN1qtZR6HGaMmC) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Yo No Soy](https://open.spotify.com/album/6LUFu6sJ1QVNVDpmy2yWOn) | 2:34 |
 | 35 | [A QUE TE ARUÑO](https://open.spotify.com/track/6cefxRaElHi6EYMU6pxsQ4) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F) | [A QUE TE ARUÑO](https://open.spotify.com/album/5OMDV2WFXkgmFCsBLtcYHV) | 2:53 |
 | 36 | [PASTILLITAS DE JENGIBRE+](https://open.spotify.com/track/6yHj41Tuf0dP7HB86wUELR) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F) | [PASTILLITAS DE JENGIBRE+](https://open.spotify.com/album/6aRXUdHvubaOXl6pPjuj3v) | 2:38 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 44 | [Coqueta](https://open.spotify.com/track/6ILRmTRlkIcVfLZ2HgXb0A) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Coqueta](https://open.spotify.com/album/7AirM8BCcF21lStMushZfB) | 3:02 |
 | 45 | [Costeñita](https://open.spotify.com/track/7o1ct1kgBmvyZ33KRFKX8g) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [Costeñita](https://open.spotify.com/album/0NqfoWQtgVhRpv5qtFduT8) | 3:46 |
 | 46 | [No Te Vayas](https://open.spotify.com/track/4qK3gTV5sDdp8MSoh3WYrn) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe), [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [No Te Vayas](https://open.spotify.com/album/3LUThmGH76h0Onpmvrxjcv) | 4:05 |
-| 47 | [un mensaje de voz](https://open.spotify.com/track/1HnI5cfbWXkyYxfRhCZPFv) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [un mensaje de voz](https://open.spotify.com/album/4yxdgyxOzVIagRRZ5PT0XP) | 3:23 |
+| 47 | [un mensaje de voz \(feat\. Elsa y Elmar\)](https://open.spotify.com/track/1HnI5cfbWXkyYxfRhCZPFv) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [un mensaje de voz \(feat\. Elsa y Elmar\)](https://open.spotify.com/album/4yxdgyxOzVIagRRZ5PT0XP) | 3:23 |
 | 48 | [Película](https://open.spotify.com/track/3T0sR45JxRj7jJSl2JOsHR) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Hipnotica](https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY) | [Película](https://open.spotify.com/album/0tnJFppPcKm4N9Y9hmQjaR) | 3:17 |
 | 49 | [Volví a volver](https://open.spotify.com/track/0XLuOdsBPOVYulTaZgflzw) | [El Riqué](https://open.spotify.com/artist/5LxT7DrG2qyNr8YYC3RMEG) | [Volví a volver](https://open.spotify.com/album/6sTOmgQEplG2f2zSufL8XJ) | 2:35 |
 | 50 | [déjala llorar](https://open.spotify.com/track/4tHAmzWFx1YKc0HVE0nfcF) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [déjala llorar](https://open.spotify.com/album/7r3bGU4CH2V7uPgPXpNP8w) | 2:24 |

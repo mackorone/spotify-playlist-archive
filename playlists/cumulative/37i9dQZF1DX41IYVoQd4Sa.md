@@ -4,7 +4,7 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : שקל וגלעד כהנא
 
-220 songs - 12 hr 56 min
+221 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [כנפי רוח](https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW) | [Pulkes](https://open.spotify.com/artist/3GuD5lqoDUYEPVx5lyC5gP), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [כנפי רוח](https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U) | 3:59 | 2024-09-05 |  |
 | [כשאין בי אהבה](https://open.spotify.com/track/1H4HWSagU7m1FjQf3slAKw) | [Daniela Spector](https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W) | [כשאין בי אהבה](https://open.spotify.com/album/7jpjHhEo31VK1T5DaVB8S5) | 3:20 | 2024-06-27 | 2024-07-12 |
 | [כשתהיה גדול](https://open.spotify.com/track/0Q9Ov43PNEpJETS22zCkO3) | [Mish Bejerano](https://open.spotify.com/artist/1oG8qiBUA1WVFpYkesEZBH) | [כשתהיה גדול](https://open.spotify.com/album/6LBEj25cxtyqT3H5SAduQR) | 3:31 | 2024-08-08 | 2024-08-23 |
-| [לא זמן טוב](https://open.spotify.com/track/7rJw8ABsu0fwWFSiQJ3zWD) | [Omer Moskovich](https://open.spotify.com/artist/0QRKWNU8pxIapKWMqgX72s) | [לא זמן טוב](https://open.spotify.com/album/2iNpn8Bzi48aKNFqBuHpxY) | 3:50 | 2025-02-27 |  |
+| [לא זמן טוב](https://open.spotify.com/track/7rJw8ABsu0fwWFSiQJ3zWD) | [Omer Moskovich](https://open.spotify.com/artist/0QRKWNU8pxIapKWMqgX72s) | [לא זמן טוב](https://open.spotify.com/album/2iNpn8Bzi48aKNFqBuHpxY) | 3:50 | 2025-02-27 | 2025-04-13 |
 | [לא לבד](https://open.spotify.com/track/1q9u5uDVBZzvjgTMbmE29i) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [לא לבד](https://open.spotify.com/album/10Sp1KBx5ZOfJxmdBEnUaW) | 4:00 | 2024-06-27 | 2024-07-13 |
 | [לא לדאוג \(עם יוני בלוך\)](https://open.spotify.com/track/18C8YzQwEbgNPbSVg8o0Zz) | [Daniel Koren](https://open.spotify.com/artist/2YnRSGcB6ty615zxv5SmFv), [Yoni Bloch](https://open.spotify.com/artist/3gC0JIIgE2lK3yztam5ndm) | [לא לדאוג \(עם יוני בלוך\)](https://open.spotify.com/album/72pp7GYO2I3I90MWoLEdFs) | 2:29 | 2025-03-20 |  |
 | [לא מוצא סיבות](https://open.spotify.com/track/6Ngr0fyxWWQMGiQwF4ELs9) | [Tomer Yeshayahu](https://open.spotify.com/artist/3R34esIv5e5MxzuuCMde0Q) | [אחרי המלחמה](https://open.spotify.com/album/3hnxWK87HgE49BoXrPhnZK) | 4:06 | 2024-12-05 | 2025-01-06 |
@@ -219,6 +219,7 @@
 | [שיר להתחיל לנקות](https://open.spotify.com/track/60br7n3byETHf7vzafZ8UE) | [Gon Ben Ari](https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm), [מקהלת זולת](https://open.spotify.com/artist/5pvjWGOi3YYGnjwSXQD8jd), [סלומה](https://open.spotify.com/artist/49mD4wE4bs2QSuYKMyJ0UI) | [שיר להתחיל לנקות](https://open.spotify.com/album/2M15QGbn2T4u5wZVmDcuGU) | 4:37 | 2025-03-20 |  |
 | [שיר ללא שם](https://open.spotify.com/track/2L2vg2n4bU1CVLlpKbQhef) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [עוגן במים](https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD) | 3:38 | 2024-06-27 |  |
 | [שלושת הקופים](https://open.spotify.com/track/5XInMHM9wtgELT7TrFecwe) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [שלושת הקופים](https://open.spotify.com/album/2fIXRjTLxp7tdgon5ZARD4) | 2:39 | 2024-06-27 | 2025-03-21 |
+| [שמש קטנה](https://open.spotify.com/track/5VXm7PRmaUziuU5s0u84qy) | [Aviv Guedj](https://open.spotify.com/artist/1ONVLNtv8t9Nr3TglnONrT) | [שמש קטנה](https://open.spotify.com/album/2FDyy5ubYs7J8wVXDKBvtt) | 4:23 | 2025-04-10 |  |
 | [תגלי לי](https://open.spotify.com/track/57jK18bKEHWi5EGAAyEeze) | [Eran Tzur](https://open.spotify.com/artist/55Jd6KSpdVaT4A7cMQXdYY) | [תגלי לי](https://open.spotify.com/album/2jneiwQCI1P0MSuLF2niPw) | 3:28 | 2024-12-12 | 2024-12-20 |
 | [תולה את הנעליים](https://open.spotify.com/track/3aQpw97YFj1zgEx3cXenED) | [The Backyard](https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB) | [תולה את הנעליים](https://open.spotify.com/album/27TpWs5Id4y8Rg4ElHes1y) | 3:40 | 2024-08-01 | 2024-10-09 |
 | [תחזור](https://open.spotify.com/track/1gSLXmVaqxaVxhgZhYg2fV) | [PA'AM](https://open.spotify.com/artist/39Xp68AEeQ9Ykb02vMcjP0), [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [תחזור](https://open.spotify.com/album/1upUodEcCgYXRP2g9CJkVX) | 2:26 | 2024-12-12 | 2025-01-10 |

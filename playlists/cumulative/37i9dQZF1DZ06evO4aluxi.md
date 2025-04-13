@@ -4,7 +4,7 @@
 
 > This is Amy Grant\. The essential tracks, all in one playlist.
 
-84 songs - 5 hr 30 min
+85 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Woman](https://open.spotify.com/track/74z3fROToqDySr3Al4hABk) | [FAITHFUL](https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [A Woman](https://open.spotify.com/album/13fcRwWwx7Ecwma3vVaPO4) | 5:20 | 2023-04-10 | 2024-04-19 |
 | [After The Fire](https://open.spotify.com/track/4Gqx9729vziD22mSmqAewG) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Simple Things](https://open.spotify.com/album/0hx7o90RXZZtJ6MS5nvxjF) | 3:21 | 2023-05-15 | 2023-06-06 |
 | [Agnus Dei \- Live](https://open.spotify.com/track/0G94ldMUXHZ94aHc3FKSz3) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Worship Forever \(Live\)](https://open.spotify.com/album/0VGJroMZNK3faRsUfaDwz0) | 5:29 | 2023-04-02 |  |
-| [All I Ever Have To Be](https://open.spotify.com/track/2DIfq3gn9mHzWwvP1UIxNn) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Never Alone \(Remastered\)](https://open.spotify.com/album/1zlf9fxadKTjVlWLrg1bYT) | 2:36 | 2023-04-02 |  |
+| [All I Ever Have To Be](https://open.spotify.com/track/2DIfq3gn9mHzWwvP1UIxNn) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Never Alone \(Remastered\)](https://open.spotify.com/album/1zlf9fxadKTjVlWLrg1bYT) | 2:36 | 2023-04-02 | 2025-04-13 |
 | [Angels](https://open.spotify.com/track/1XDnYuW8wqlOaoPdVkuXKd) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Straight Ahead \(Remastered\)](https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28) | 4:12 | 2023-04-02 |  |
 | [Arms Of Love](https://open.spotify.com/track/3cOpBTr6c4c6k0GyGT4xm0) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Age To Age](https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53) | 3:23 | 2023-04-02 |  |
 | [Ask Me](https://open.spotify.com/track/5rLGbtNvUB8nqyUNTRC5n9) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Heart In Motion](https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H) | 3:53 | 2023-04-02 | 2024-08-12 |
@@ -69,6 +69,7 @@
 | [Saved By Love \- 2025 Remaster](https://open.spotify.com/track/4KVb2TJQjwsx1dHHvOaibY) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Journey](https://open.spotify.com/album/7Is1pUIU9tckbwfq5FXrZc) | 4:41 | 2025-04-06 |  |
 | [Scars In Heaven](https://open.spotify.com/track/39Ngl6IuVlJLEZPUIrdkOo) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Lifesongs: A Celebration of the First 20 Years](https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8) | 4:22 | 2023-11-10 |  |
 | [Seek First](https://open.spotify.com/track/74ZTCzWhalSnYhpki3g0eZ) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es), [Susan Ashton](https://open.spotify.com/artist/2YXvdYU3uqlbLRHLI5SFFi) | [Songs From The Loft](https://open.spotify.com/album/3KS2ekoGoEmLlDfPVDBdhv) | 2:26 | 2024-03-30 | 2024-04-13 |
+| [Shovel In Hand \- 2025 Remaster](https://open.spotify.com/track/2scLfUCdzBYORZSL2dHQNV) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es), [Will Hoge](https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT) | [The Journey](https://open.spotify.com/album/7Is1pUIU9tckbwfq5FXrZc) | 3:35 | 2025-04-13 |  |
 | [Sing Your Praise To The Lord](https://open.spotify.com/track/6jvqADVH0zeozvLzJtgtil) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Age To Age](https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53) | 3:17 | 2023-04-02 |  |
 | [Softly And Tenderly](https://open.spotify.com/track/29kWfrWp7XaxcEHK1VNeV1) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 4:03 | 2024-03-23 | 2025-04-09 |
 | [Somewhere Somehow](https://open.spotify.com/track/52wbWBHEdMoGwO0zBo9FLS) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Change Your World](https://open.spotify.com/album/4e09Ygjp2WiHzqXqV1J1HR) | 4:15 | 2023-04-02 |  |

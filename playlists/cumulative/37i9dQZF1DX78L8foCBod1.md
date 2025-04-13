@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films.
 
-187 songs - 12 hr 46 min
+188 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Keep on keeping on <MODv>](https://open.spotify.com/track/2g6To9Iv78g0o7An2gPgcA) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [mizuki](https://open.spotify.com/artist/0Pt3k7cpeOysqGGiw3tQcS) | [iv](https://open.spotify.com/album/5gCI0vdexP2ItOqQnENQ6w) | 3:44 | 2022-06-07 |  |
 | [kIng](https://open.spotify.com/track/11lbUUMW8T5MFpHTYLulmg) | [Emiko Suzuki](https://open.spotify.com/artist/76epfImetf9M3joFnNTrlJ) | [kIng](https://open.spotify.com/album/05KfSFZpuYmktTahDYnjbZ) | 3:50 | 2022-06-07 |  |
 | [KINGDOM \- DUE](https://open.spotify.com/track/5qjXGfAvkOag8kJ6dVdofc) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「キングダム」 \-合従軍編\- Original Sound Track](https://open.spotify.com/album/4pikDrig4sbyY3av3PNGmY) | 4:20 | 2022-06-07 |  |
+| [KONTINUUM](https://open.spotify.com/track/0gi4lrKLnvQuMx384HUBkp) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [KONTINUUM](https://open.spotify.com/album/6ntwbzl7KGgAipdM8CJIah) | 3:10 | 2025-04-10 |  |
 | [LEMONADE](https://open.spotify.com/track/5q6dJYjSfbG3hWjB2r5bTa) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [XAI](https://open.spotify.com/artist/2r3DAIz6afSzxVnM1Rzj3N) | [LEMONADE](https://open.spotify.com/album/0pNEUlmHs3A3xvBY99kStQ) | 2:48 | 2022-12-20 |  |
 | [LEveL](https://open.spotify.com/track/0Zp9WOkXX8xZS8QOhtdQ5k) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [LEveL](https://open.spotify.com/album/5ZEZ8rAsHVUoPqA5a5ZZcL) | 3:00 | 2024-01-06 |  |
 | [Ma Vie en Rose \- MovieEdit](https://open.spotify.com/track/4chSM0fI1ZK9RxqGCkEpcA) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [マリー・アントワネット\(CV.平野 綾\)](https://open.spotify.com/artist/3Uxkq58KaQpOT9EMeRczIY) | [Song Collection from The Rose of Versailles \- MovieEDIT \-](https://open.spotify.com/album/5eZ2EtpDifkPsObzHwjqc5) | 2:23 | 2025-02-04 |  |

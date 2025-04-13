@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: march\-april 2025 \(previous playlists archived on my profile\)
 
-523 songs - 1 day 5 hr 53 min
+527 songs - 1 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Far Away Chant](https://open.spotify.com/track/4CjW0aU1a6Q8SrnGfLJWGx) | [African Head Charge](https://open.spotify.com/artist/4eOZAQytg3U2l0WTClghDQ) | [My Life In A Hole In The Ground](https://open.spotify.com/album/39ritWVnJCxRNhyj8mRSI8) | 4:04 | 2025-02-26 | 2025-03-03 |
 | [Feeling Sad Tonight](https://open.spotify.com/track/3UKhzKdWIM8vd1qWPxLRkP) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:13 | 2024-11-13 | 2025-01-12 |
 | [First Communication](https://open.spotify.com/track/5CevbpxOgTUNsPuJUTl6RZ) | [Agitation Free](https://open.spotify.com/artist/1fvjrL59qNJVJKNQB8RUg3) | [2Nd](https://open.spotify.com/album/154vxWniqBPvABso6BPRgH) | 8:10 | 2025-02-26 | 2025-03-02 |
+| [First it was a movie, then it was a book](https://open.spotify.com/track/7ExHIXcOVFpQ3LexAhjl3u) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [First it was a movie, then it was a book](https://open.spotify.com/album/1Rie4axh0gfYJhuN358run) | 6:50 | 2025-04-12 |  |
 | [Fishbrain](https://open.spotify.com/track/0xEHXAoanem0YrAZ2HMFRY) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Fishbrain](https://open.spotify.com/album/0ynJtdryiHqFKeHHSCRjnc) | 4:37 | 2024-02-09 | 2024-03-10 |
 | [Flash in the Pan](https://open.spotify.com/track/6XuQzFKU3rJNNEEs6lyIuQ) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Flash in the Pan](https://open.spotify.com/album/5CgiC1Q1hhTpyXWH7w0yDt) | 3:43 | 2024-11-29 | 2025-01-12 |
 | [Flight and Pursuit \- Richard Sen Remix](https://open.spotify.com/track/0Q54iLRgaaR2AWken6qto4) | [C.A.R.](https://open.spotify.com/artist/0f5WhR4J5QIfykB15aOKNK), [Richard Sen](https://open.spotify.com/artist/5JdGnUoHsAtIwmyW7L4tCM) | [Recrossing Prior Street](https://open.spotify.com/album/5MGm2i8WTCK5UmToj0l0YY) | 6:43 | 2025-03-01 |  |
@@ -326,6 +327,7 @@
 | [Naomi and Me](https://open.spotify.com/track/3KQmiV4dShQBaIUGbI2ZWu) | [Rocketship](https://open.spotify.com/artist/2dLzeuFyFPAYdWKU3UuYTA) | [Hey, Hey Girl 7"](https://open.spotify.com/album/4MCpw6grgnk4HK0QPkKk67) | 2:07 | 2024-01-13 | 2024-03-10 |
 | [Napule Canta E More](https://open.spotify.com/track/3qNtGvCC1tgeZFK9ClBz4k) | [Donatella Viggiano](https://open.spotify.com/artist/4FFwzgDJc7AaKVPYxQzwjk) | [Napoli Segreta](https://open.spotify.com/album/7wG7cketLF1ZzMAPWa2fcl) | 2:54 | 2024-02-28 | 2024-03-10 |
 | [Nature's Piano](https://open.spotify.com/track/2pvcbXdQlL8nbT8ooPxYLi) | [Earth Flower](https://open.spotify.com/artist/1sMC9m50SKAhuUvCYMES2E), [Ruth Garbus](https://open.spotify.com/artist/4n4AixYCSIn4H5BriyTEhm), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Nature's Piano](https://open.spotify.com/album/5yy0rxUYWsS5Z57CUvIyMx) | 2:59 | 2024-03-09 | 2024-05-16 |
+| [nerds](https://open.spotify.com/track/1xbYxwk8eexZgTABS6zuzM) | [Yorck Street](https://open.spotify.com/artist/2mQRyEpdhQxiykFmC74TSB) | [Yorck Street](https://open.spotify.com/album/4NWSdRujBcr2IYiBOsKNdD) | 0:40 | 2025-04-12 |  |
 | [Neverland](https://open.spotify.com/track/2pmf8TGCLVBHioGVYiE0WY) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [When you wake up](https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY) | 3:11 | 2025-04-09 |  |
 | [New Joy](https://open.spotify.com/track/7wriad6oBytAE04VvbKuno) | [Slauson Malone 1](https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N) | [EXCELSIOR](https://open.spotify.com/album/364BvIMiL3BsjqTJ9teX1E) | 3:16 | 2024-04-25 | 2024-05-16 |
 | [No Big Thing](https://open.spotify.com/track/03iua1rLzMCB9JhFrv5WX4) | [HTRK](https://open.spotify.com/artist/06sdJwlggq0PKOe4LPZWCg) | [Death is a Dream](https://open.spotify.com/album/2FhhWX9iOrnmC4o5NCQLRf) | 2:59 | 2025-02-10 | 2025-03-02 |
@@ -360,6 +362,7 @@
 | [P.A.S](https://open.spotify.com/track/65wQBgs1nWRi97RssuWaJ9) | [Scritti Politti](https://open.spotify.com/artist/59luKpdal8UwxcuLJNoKwS) | [Early](https://open.spotify.com/album/32z2z8cxZ2bqU5eZbJdwI1) | 6:01 | 2025-01-20 | 2025-03-02 |
 | [pale horse](https://open.spotify.com/track/4ec6YIvFYITEzaEizacIVe) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Pale Moon Pale Horse](https://open.spotify.com/album/4cXqpTCEwHkOHU5mPdAomq) | 2:35 | 2024-11-26 | 2024-12-07 |
 | [Pallor Tricks](https://open.spotify.com/track/6b3sztg64sk7iiKzjLGT2G) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Pallor Tricks](https://open.spotify.com/album/78gHirhgGXJ0rPFbCa89y0) | 3:57 | 2024-04-10 | 2024-05-16 |
+| [PANAS](https://open.spotify.com/track/0gQlbFskqEn6Oq6BbC7wMY) | [SSSLIP](https://open.spotify.com/artist/3i4ymq99xVgnNYbDxRK9I8), [RubyyXo](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL) | [SSSLIP\-RMX01](https://open.spotify.com/album/47zbySGzKDp8itUYb9J0L2) | 4:20 | 2025-04-12 |  |
 | [Partytime](https://open.spotify.com/track/0nVGhWnvTncLH6eInY90jO) | [The Jazz Butcher](https://open.spotify.com/artist/7zi9v3F5KzAuS3MkJtm5dc) | [Draining the Glass: 1982\-1986](https://open.spotify.com/album/49JVtWebi2mCRzMlzAHohJ) | 3:53 | 2025-01-11 | 2025-03-02 |
 | [Pawns](https://open.spotify.com/track/4gjt4fvbif0RIu3ifEbXbe) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [The Essential John Moods](https://open.spotify.com/album/6yluHZ4EXwXBrjecaBcgwP) | 2:47 | 2024-07-26 | 2024-09-08 |
 | [People Get Real](https://open.spotify.com/track/2OPLyjw4pDQremg5IVfkSv) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Foxbase Alpha](https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3) | 4:44 | 2024-06-02 | 2024-07-12 |
@@ -520,6 +523,7 @@
 | [Wristwatch](https://open.spotify.com/track/4j2DQgFAyVuKOBFpq4vEPR) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:42 | 2024-09-07 | 2024-11-14 |
 | [Writers Are A Funny Breed](https://open.spotify.com/track/1aP0wJDXGkwZw8N8Pcualq) | [Jane Siberry](https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG) | [Jane Siberry](https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3) | 5:29 | 2025-01-24 | 2025-03-02 |
 | [XXX](https://open.spotify.com/track/0Y5cLWAOfOj2GTI30C2yrx) | [Helium](https://open.spotify.com/artist/7mefbdlQXxJVKgEbfAeKjL) | [Ends With And](https://open.spotify.com/album/4RizHxeSDd1mN27Yepfk2q) | 5:17 | 2025-03-01 |  |
+| [You Don't Have One Hope](https://open.spotify.com/track/50ZJVGTEnnDGwzIctwd5g3) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [You Don't Have One Hope](https://open.spotify.com/album/72DUqvLhI6ZyqvB82bovq9) | 2:17 | 2025-04-12 |  |
 | [You Don't Know The Shape I'm In](https://open.spotify.com/track/1ZBQPkEYHOv3LfgU6v0h0S) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:36 | 2024-09-07 | 2024-11-14 |
 | [You Go Where I Go](https://open.spotify.com/track/3GHI7zfOFyQigfGBiJc2Ya) | [Walter Becker](https://open.spotify.com/artist/3yf5bmiturJVzQYIK1QbWX), [Donald Fagen](https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb) | [Becker and Fagen \- The Early Years](https://open.spotify.com/album/5IKG0ke9HxlwfB5E8QpJEu) | 2:04 | 2024-05-22 | 2024-07-12 |
 | [You got it](https://open.spotify.com/track/3edBcJprxqa0uNyiM9cq5k) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Are You Looking Up / You got it](https://open.spotify.com/album/7l0sG15g8sYyDgebPA5UyX) | 2:14 | 2024-01-19 | 2024-03-10 |

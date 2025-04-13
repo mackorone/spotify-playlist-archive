@@ -1,6 +1,6 @@
 {
   "description": "\u7dba\u9e97\u4e8b\u306f\u805e\u304d\u305f\u304f\u306a\u3044\u3002\u672c\u97f3\u3067\u3064\u3065\u3089\u308c\u305f\u5504\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 21342,
+  "num_followers": 21346,
   "original_name": "\u305b\u304d\u3089\u3089",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2025-04-08 15:00:07",
       "album": {
+        "name": "replica",
+        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 273535,
+      "name": "\u3057\u308f\u3042\u308f\u305b",
+      "url": "https://open.spotify.com/track/4GvJskA0Jn4NorP2YWxuaf"
+    },
+    {
+      "added_at": "2025-04-08 15:00:07",
+      "album": {
         "name": "\u6b4c\u306b\u3057\u3066\u3057\u307e\u3048\u3070\u3001\u3069\u3093\u306a\u3053\u3068\u3067\u3082\u8a31\u3055\u308c\u308b\u3068\u601d\u3063\u3066\u3044\u305f",
         "url": "https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e"
       },
@@ -631,18 +647,18 @@
     {
       "added_at": "2025-04-08 15:00:07",
       "album": {
-        "name": "replica",
-        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
+        "name": "\u3051\u3063\u304b\u304a\u30fc\u3089\u3044 - Kekka Orai - My Hero Academia: Vigilantes Opening Theme Song",
+        "url": "https://open.spotify.com/album/4ywLGordDneexrcRNp2uw0"
       },
       "artists": [
         {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+          "name": "Kocchi no Kento",
+          "url": "https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x"
         }
       ],
-      "duration_ms": 273535,
-      "name": "\u3057\u308f\u3042\u308f\u305b",
-      "url": "https://open.spotify.com/track/4GvJskA0Jn4NorP2YWxuaf"
+      "duration_ms": 172550,
+      "name": "\u3051\u3063\u304b\u304a\u30fc\u3089\u3044 - Kekka Orai",
+      "url": "https://open.spotify.com/track/7Ea65yIjXDZDfg39hsvcE6"
     },
     {
       "added_at": "2025-04-08 15:00:07",
@@ -727,22 +743,6 @@
     {
       "added_at": "2025-04-08 15:00:07",
       "album": {
-        "name": "Mouiiyo",
-        "url": "https://open.spotify.com/album/2FEjhVr2wSkbbehMrSOSEV"
-      },
-      "artists": [
-        {
-          "name": "Kocchi no Kento",
-          "url": "https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x"
-        }
-      ],
-      "duration_ms": 177959,
-      "name": "Mouiiyo",
-      "url": "https://open.spotify.com/track/4TSjU0UG6ZKbQhOJ4Ma7vE"
-    },
-    {
-      "added_at": "2025-04-08 15:00:07",
-      "album": {
         "name": "\u306d\u3047",
         "url": "https://open.spotify.com/album/0LA32zD1z0qow1CiuBXTlR"
       },
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-04-08 15:00:07",
       "album": {
+        "name": "Mouiiyo",
+        "url": "https://open.spotify.com/album/2FEjhVr2wSkbbehMrSOSEV"
+      },
+      "artists": [
+        {
+          "name": "Kocchi no Kento",
+          "url": "https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x"
+        }
+      ],
+      "duration_ms": 177959,
+      "name": "Mouiiyo",
+      "url": "https://open.spotify.com/track/4TSjU0UG6ZKbQhOJ4Ma7vE"
+    },
+    {
+      "added_at": "2025-04-08 15:00:07",
+      "album": {
         "name": "\u30a4\u30de",
         "url": "https://open.spotify.com/album/4jvQHJZWEBoYhFSsXTmPEP"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 231133,
       "name": "\u7d21\u3050",
       "url": "https://open.spotify.com/track/4nnkvTcw7lpS8w9FKpo7yJ"
-    },
-    {
-      "added_at": "2025-04-08 15:00:07",
-      "album": {
-        "name": "\u30b5\u30cb\u30fc\u30dc\u30c8\u30eb",
-        "url": "https://open.spotify.com/album/7BhZH08HyR7jft1VOCvtew"
-      },
-      "artists": [
-        {
-          "name": "Saucy Dog",
-          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
-        }
-      ],
-      "duration_ms": 258207,
-      "name": "\u512a\u3057\u3055\u306b\u6ea2\u308c\u305f\u4e16\u754c\u3067",
-      "url": "https://open.spotify.com/track/2mRMcwDCNyYvBXaoUxmsmE"
     }
   ],
   "unique_name": "\u305b\u304d\u3089\u3089",

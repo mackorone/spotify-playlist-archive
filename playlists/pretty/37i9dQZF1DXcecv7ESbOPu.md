@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Jireel, Lana Del Rey, Asme och Daniela Rathana med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,149 likes - 110 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,196 likes - 110 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

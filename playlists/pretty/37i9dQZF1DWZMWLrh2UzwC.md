@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Firdhaus, Lana Del Rey, Firdaus Rahmat, shazza, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,466 likes - 93 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,474 likes - 93 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 17 | [听不见的歌 \- 电影《不说话的爱》宣传曲](https://open.spotify.com/track/1RxBfINup60wJQw7xehLDI) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [听不见的歌 \(电影《不说话的爱》宣传曲\)](https://open.spotify.com/album/1IDg7nTWRZBkAA3i7RsCRV) | 4:22 |
 | 18 | [来电瑶](https://open.spotify.com/track/1VLC1aoLhShRNhKIulV3ut) | [法老](https://open.spotify.com/artist/429wOEd8ummnOTS4gw3WcQ), [BY2](https://open.spotify.com/artist/3DOs7Bsr9x4eJHqv6ViPvR) | [来电瑶](https://open.spotify.com/album/2KKACaGyExkF2oUruqFfCB) | 3:38 |
 | 19 | [坠落](https://open.spotify.com/track/2DZkZvG9uXKHCbQE3wzBEr) | [Nicole Lai](https://open.spotify.com/artist/0qme0QUpU1XxC8Fa5sIVeb) | [坠落](https://open.spotify.com/album/3SA9WTPtGGeAgKeFKK3HoS) | 3:57 |
-| 20 | [J Σ // 6 @](https://open.spotify.com/track/03dYTlOjnxhoIAkxeSfX1A) | [Goose 我鳥](https://open.spotify.com/artist/4h1sE1sVLVe4cRO4mn8mtN), [Ian](https://open.spotify.com/artist/0jRzRAdDRdEtz2advDjqx5), [byn](https://open.spotify.com/artist/0mG4TxdyI3X8RhOwUBerFT) | [J Σ // 6 @](https://open.spotify.com/album/1MecB3Fmlom60eDAzL4NW1) | 3:52 |
+| 20 | [J Σ // 6 @](https://open.spotify.com/track/03dYTlOjnxhoIAkxeSfX1A) | [Goose 我鳥](https://open.spotify.com/artist/4h1sE1sVLVe4cRO4mn8mtN), [ian](https://open.spotify.com/artist/6R31XmRISTVixIU3rXCtqZ), [byn](https://open.spotify.com/artist/0mG4TxdyI3X8RhOwUBerFT) | [J Σ // 6 @](https://open.spotify.com/album/1MecB3Fmlom60eDAzL4NW1) | 3:52 |
 | 21 | [結局很瘦](https://open.spotify.com/track/4tBOMSTGOyNeAX83lyqru6) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6), [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8) | [結局很瘦](https://open.spotify.com/album/4rp1tnWuQl8fA685WTX5vq) | 3:32 |
 | 22 | [I Just Want To Be In Your Body](https://open.spotify.com/track/7xYp95PJBPCwPzfZiVlhLB) | [EMI CHEOW](https://open.spotify.com/artist/2Aq7MZEBSyd9EPADwqHurs) | [I Just Want To Be In Your Body](https://open.spotify.com/album/4wUMo6mnIQYinOQLvHGnI8) | 2:41 |
 | 23 | [Evangelic Girl is a Gun](https://open.spotify.com/track/426pPi8cBCE38QO4h6YC6V) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Evangelic Girl is a Gun](https://open.spotify.com/album/3grkRzNvSjVrwCLg6fSlLR) | 3:03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,935 likes - 75 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,968 likes - 75 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 31 | [Javeda Zindag](https://open.spotify.com/track/7KKgE6UHxqhuxkNV2k3AKn) | [Kshitij Tarey](https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Anwar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MTyvN8DogBzkLz8ThUKuc) | 8:22 |
 | 32 | [Mujhay Baar Baar](https://open.spotify.com/track/3vd0Z4j9xwLVZUGUbmQTUV) | [Abbas Ali Khan](https://open.spotify.com/artist/2s0QNp9mi0mup8DHbTPs9l) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 7:30 |
 | 33 | [Aaqa \- Coke Studio Season 9](https://open.spotify.com/track/7ullpqaNSeTxBObPH8djXd) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Aaqa \- Coke Studio Season 9](https://open.spotify.com/album/6A5WZRxOF5DGX7RRWADhYl) | 8:27 |
-| 34 | [Main Nahi Hoon](https://open.spotify.com/track/1fiSYMu83lceg6nc63T97j) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Main Nahi Hoon](https://open.spotify.com/album/6JRnkNQyiSBLAM71RQGXok) | 5:06 |
+| 34 | [Main Nahi Hoon](https://open.spotify.com/track/1fiSYMu83lceg6nc63T97j) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Mein Nahin Hoon](https://open.spotify.com/album/6JRnkNQyiSBLAM71RQGXok) | 5:06 |
 | 35 | [Tasbih](https://open.spotify.com/track/01X1vwWYDvUzIW78ZmBO7q) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Lakhwinder Wadali](https://open.spotify.com/artist/1qa2fyoTZpIGtyfghuB5sK) | [Tasbih](https://open.spotify.com/album/40i5w2FOxwHsnO6ubxn5kF) | 4:13 |
 | 36 | [Alif Allah Chambey Di Booty](https://open.spotify.com/track/7krpkx52sDmcO6U8ujbref) | [Arif Lohar & Meesha Shafi](https://open.spotify.com/artist/2AI4UlqXx9uRwCcK4hCqcg), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 8:44 |
 | 37 | [Rangrez](https://open.spotify.com/track/0H4PTVPxjECFxFNCXp8UIK) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Coke Studio Season 10: Episode 5](https://open.spotify.com/album/4izJPNm3wIRssSy6DyxAx0) | 8:57 |

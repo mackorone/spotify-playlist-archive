@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: 黒田卓也
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,090 likes - 70 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,093 likes - 70 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rock With You](https://open.spotify.com/track/3XdUIOw2vuzo8MC2aaSifj) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Rock With You](https://open.spotify.com/album/3znUwosEsjcKgqoMlUMVl6) | 4:50 |
 | 2 | [Lifetones](https://open.spotify.com/track/0gouDswj0R5jne7YUUrlIO) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [All The Quiet \(Part I\)](https://open.spotify.com/album/0efFrXZr98tY3O5qkAGQB7) | 8:07 |
-| 3 | [Vortex \(from "LAZARUS" Soundtrack\)](https://open.spotify.com/track/70gLTdoX1syfNjvo2pytVy) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Vortex \(from "LAZARUS" Soundtrack\)](https://open.spotify.com/album/6SmmaTkAGqhVtvsgwHSRuX) | 6:23 |
+| 3 | [Vortex](https://open.spotify.com/track/70gLTdoX1syfNjvo2pytVy) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Vortex \(from "LAZARUS" Soundtrack\)](https://open.spotify.com/album/6SmmaTkAGqhVtvsgwHSRuX) | 6:23 |
 | 4 | [Must Have Known](https://open.spotify.com/track/3TlVcT7gmTbwB3607URmTL) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [EVERYDAY](https://open.spotify.com/album/7MGQ30eNUS8DqLKQdH2zTi) | 3:43 |
 | 5 | [WE ARE](https://open.spotify.com/track/5EnAjL9A92rIuBg5Uajikl) | [N.S\. DANCEMBLE](https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr) | [WE ARE](https://open.spotify.com/album/4GJ0bfLP0k6oCJDRE3zMFr) | 4:01 |
 | 6 | [Unwind \[Feat\. Melanie Charles\]](https://open.spotify.com/track/0nK4auk3sF7wrRWNMEaw2b) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Melanie Charles](https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe) | [Unwind \[Feat\. Melanie Charles\]](https://open.spotify.com/album/2jWjJILBlCqfA2PCPgZNPQ) | 3:58 |

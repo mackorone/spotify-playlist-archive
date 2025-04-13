@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "20 Exitos De Oro",
+        "url": "https://open.spotify.com/album/54PiozyCmsyefYSGFw7XCf"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176979,
+      "name": "Aun Se Acuerda De Mi",
+      "url": "https://open.spotify.com/track/49T6YipGo56UIb6rRNZANQ"
+    },
+    {
+      "album": {
         "name": "Ca\u00f1onazos Norte\u00f1os",
         "url": "https://open.spotify.com/album/02QZWZpOvdk97kuYJWY8NL"
       },
@@ -744,10 +762,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 181211,
       "name": "La Mesera",
       "url": "https://open.spotify.com/track/2NYMwhPHGgIpPPLv8yLZEf"
+    },
+    {
+      "album": {
+        "name": "20 Exitos De Oro",
+        "url": "https://open.spotify.com/album/54PiozyCmsyefYSGFw7XCf"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181211,
+      "name": "La Mesera",
+      "url": "https://open.spotify.com/track/5bA44PbrSBhdzYJ4jw3ERO"
     },
     {
       "album": {
@@ -864,6 +900,24 @@
       "duration_ms": 169666,
       "name": "Los Alegres de Ter\u00e1n",
       "url": "https://open.spotify.com/track/7vtzM64OIUPLYTFwN0lzwA"
+    },
+    {
+      "album": {
+        "name": "20 Exitos De Oro",
+        "url": "https://open.spotify.com/album/54PiozyCmsyefYSGFw7XCf"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127477,
+      "name": "Los Ojos De Pancha",
+      "url": "https://open.spotify.com/track/25uPDlfpe3AJ3373NO4ELm"
     },
     {
       "album": {
@@ -986,7 +1040,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 197041,
       "name": "Mi Destino Fue Quererte",
       "url": "https://open.spotify.com/track/7x32CubDcgMfgemGbEw58j"
@@ -1512,7 +1566,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 150883,
       "name": "Tu Recuerdo",
       "url": "https://open.spotify.com/track/1IakVCQY7u99BadooPlATN"

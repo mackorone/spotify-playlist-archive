@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 20452,
+  "num_followers": 20454,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -423,30 +423,6 @@
     {
       "added_at": "2025-04-01 20:11:01",
       "album": {
-        "name": "De Lua",
-        "url": "https://open.spotify.com/album/0Cjb1U6WfJ97NhMegCmyWa"
-      },
-      "artists": [
-        {
-          "name": "Andrade",
-          "url": "https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ"
-        },
-        {
-          "name": "Nolly",
-          "url": "https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT"
-        },
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        }
-      ],
-      "duration_ms": 188235,
-      "name": "Foto no Espelho",
-      "url": "https://open.spotify.com/track/3Sff3XpGdztIYA51W0PbI8"
-    },
-    {
-      "added_at": "2025-04-01 20:11:01",
-      "album": {
         "name": "A Beira Mar",
         "url": "https://open.spotify.com/album/3aNKW005bNZTANO5mEAO7N"
       },
@@ -467,6 +443,30 @@
       "duration_ms": 228735,
       "name": "A Beira Mar",
       "url": "https://open.spotify.com/track/0LqjYe7SBezeZEDvnC2USH"
+    },
+    {
+      "added_at": "2025-04-01 20:11:01",
+      "album": {
+        "name": "De Lua",
+        "url": "https://open.spotify.com/album/0Cjb1U6WfJ97NhMegCmyWa"
+      },
+      "artists": [
+        {
+          "name": "Andrade",
+          "url": "https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ"
+        },
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        }
+      ],
+      "duration_ms": 188235,
+      "name": "Foto no Espelho",
+      "url": "https://open.spotify.com/track/3Sff3XpGdztIYA51W0PbI8"
     },
     {
       "added_at": "2025-04-01 20:11:01",
@@ -955,26 +955,6 @@
     {
       "added_at": "2025-04-01 20:11:01",
       "album": {
-        "name": "Luar",
-        "url": "https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        }
-      ],
-      "duration_ms": 194862,
-      "name": "Luar",
-      "url": "https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP"
-    },
-    {
-      "added_at": "2025-04-01 20:11:01",
-      "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 144522,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt"
+    },
+    {
+      "added_at": "2025-04-01 20:11:01",
+      "album": {
+        "name": "Luar",
+        "url": "https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 194862,
+      "name": "Luar",
+      "url": "https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP"
     },
     {
       "added_at": "2025-04-01 20:11:01",

@@ -4,7 +4,7 @@
 
 > This is Cheli Madrid\. The essential tracks, all in one playlist.
 
-71 songs - 3 hr 47 min
+72 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Leña De Pirul \- En Vivo](https://open.spotify.com/track/1AYy8gtLDsPJURA6xfoma9) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 3:16 | 2023-03-10 |  |
 | [Llegas](https://open.spotify.com/track/3OqtrIbY11sHaXWlZVOOd8) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 3:22 | 2023-03-10 |  |
 | [Lo de Anoche](https://open.spotify.com/track/2dZAF8kwSjlkYASXpHN2OU) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Lo de Anoche](https://open.spotify.com/album/4ik5ysg5eOb1CfL7FMdbFL) | 3:07 | 2023-03-10 |  |
+| [Mas Alla del Sol](https://open.spotify.com/track/40iIeuFv70pS0qvC0kgIye) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Mas Alla del Sol](https://open.spotify.com/album/3THdqyXhZA40YyCaWzbqhn) | 3:22 | 2025-04-13 |  |
 | [Me Bebi Tu Recuerdo](https://open.spotify.com/track/1DQ8PVNmNJqGVHBZSkoK5L) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Me Bebi Tu Recuerdo](https://open.spotify.com/album/5fVPMn4h5ZPFEUJBHEs8lF) | 3:10 | 2025-03-15 |  |
 | [Me Cae](https://open.spotify.com/track/0P14iNFjf1g8qVOrmjC5Jq) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 3:12 | 2023-03-10 | 2025-03-11 |
 | [Me Convences](https://open.spotify.com/track/7rfswBSqRi1VzfF2ikDPgu) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Me Convences](https://open.spotify.com/album/0QXkJIQbStcMQKlS8aprwb) | 3:25 | 2023-03-10 |  |

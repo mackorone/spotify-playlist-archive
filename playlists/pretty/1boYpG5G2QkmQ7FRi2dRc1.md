@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 288,948 likes - 35 songs - 1 hr 47 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 288,938 likes - 35 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 30 | [That's Where I Should Be](https://open.spotify.com/track/6zebgbvTnD3NsCgNgRRnk8) | [MA:RK](https://open.spotify.com/artist/7nq7r3on1FX8ztpwOHqHbF) | [That's Where I Should Be](https://open.spotify.com/album/0Gj3tuAjtDbNhapyVTe7DZ) | 2:22 |
 | 31 | [Flip Club](https://open.spotify.com/track/0JKtWrGRjOnE5MEL8AG6Cz) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA) | [Flip Club](https://open.spotify.com/album/4unlqEen74xM688SOyN90Y) | 3:11 |
 | 32 | [Lying In The Sand](https://open.spotify.com/track/3OW31vfqhbTcT5Po1L81Lo) | [Bubble Love](https://open.spotify.com/artist/0Uu5MoqXbYYsMb6HLw0X62), [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Lying In The Sand](https://open.spotify.com/album/6iL0KNiICQYmgSfuC8ZF8A) | 3:19 |
-| 33 | [Cruel Summer](https://open.spotify.com/track/5QP97PDtEr3GoH5OmlzQyy) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Cruel Summer](https://open.spotify.com/album/6ZaE06NpbDaVR3YkIZNY13) | 2:48 |
+| 33 | [Cruel Summer \(Again\)](https://open.spotify.com/track/5QP97PDtEr3GoH5OmlzQyy) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Cruel Summer \(Again\)](https://open.spotify.com/album/6ZaE06NpbDaVR3YkIZNY13) | 2:48 |
 | 34 | [Modern Life](https://open.spotify.com/track/2bicTvHQXudRYQQSQcYRsS) | [Yes Boone](https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5) | [Modern Life](https://open.spotify.com/album/5sejrpX8MyaFzQCox0cni0) | 2:49 |
 | 35 | [Viter](https://open.spotify.com/track/5X24uP76ut7S9waPqnfrkn) | [Eugene Becker](https://open.spotify.com/artist/0CyuzTTSv7rrrgSkbereey), [A.Galchenko](https://open.spotify.com/artist/6y25QyPLd70hgWZTpEclrO) | [Viter](https://open.spotify.com/album/6ypDVZyTMMnLzohBImgdE2) | 3:12 |
 

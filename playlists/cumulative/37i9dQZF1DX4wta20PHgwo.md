@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-508 songs - 1 day 21 hr 52 min
+509 songs - 1 day 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Just Go Ahead](https://open.spotify.com/track/6nbKLj4siHi1hc3YuFqauA) | [Federica Lorusso](https://open.spotify.com/artist/1JOPMuWBt9w57vIPKeJLsJ) | [Outside Introspections](https://open.spotify.com/album/0tCjmwUji1atshYWrDXBZf) | 5:09 | 2023-01-05 |  |
 | [Kandaiki](https://open.spotify.com/track/3jzerzfM8lLFej7MAry7qG) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Animalia](https://open.spotify.com/album/4y83vqVrHDM6ZVK9oyOjhG) | 5:15 | 2020-05-11 | 2021-08-19 |
 | [Khmer](https://open.spotify.com/track/5VXs7VjhKyExWRE9pAFagq) | [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc) | [Khmer](https://open.spotify.com/album/76Z70kaNILhjzrf0wC0RB6) | 4:59 | 2020-06-12 | 2021-05-28 |
+| [Kismet](https://open.spotify.com/track/4YAwnWGKo7ectUxEGaljqE) | [Charles Chen](https://open.spotify.com/artist/0y3jAU26eNmcPsCAPx2pgY) | [Kismet](https://open.spotify.com/album/691TVJ6fkluNAqoKgw4Qpd) | 4:55 | 2025-04-11 |  |
 | [Kiss From A Rose](https://open.spotify.com/track/72vt5HsXp8V9R6Xu3CABi1) | [Julia Hülsmann Trio](https://open.spotify.com/artist/5v4UR5BS8T0DNSPCPYqfcG) | [The End Of A Summer](https://open.spotify.com/album/7cyyk6fFk21dJwK2m8nItZ) | 4:05 | 2020-05-02\* | 2021-05-28 |
 | [Lament](https://open.spotify.com/track/3u5U1SG291e4HfJUm4MMQV) | [Romain Pilon](https://open.spotify.com/artist/0Kqaw0Sfja1feSl9iDmw4z), [Yoni Zelnik](https://open.spotify.com/artist/4hqzR5w8mpfDRsYS3AGbTs), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I) | [Lament](https://open.spotify.com/album/6cFgakb3roXl3GgOqr3XHS) | 6:28 | 2022-02-24 |  |
 | [Largo](https://open.spotify.com/track/3AxQSzHc2vYjqMZLyPyy2H) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [Sunday](https://open.spotify.com/album/1bKp1d91vHHm0HAcmqCXMC) | 4:22 | 2021-04-24 |  |
@@ -404,7 +405,7 @@
 | [Stardust](https://open.spotify.com/track/6IlSD3dOxZeGVfWPzGqkLB) | [Charles Chen](https://open.spotify.com/artist/0y3jAU26eNmcPsCAPx2pgY) | [Stardust](https://open.spotify.com/album/7okf2XH3Wa1HBVO7VIcpYg) | 7:41 | 2025-03-07 | 2025-04-12 |
 | [Starlight](https://open.spotify.com/track/4iwNcUIjJQGJSKH2qoez4o) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Starlight](https://open.spotify.com/album/5s5JmTs3Cxg8OkhLxALM0k) | 6:42 | 2022-02-17 | 2023-10-18 |
 | [Still Life](https://open.spotify.com/track/0ZDYNvHcrjfbN6CbErhqna) | [Bill Mays Trio](https://open.spotify.com/artist/0u0kF8FSLbjeCbwzf9rSL9) | [Autumn Serenade](https://open.spotify.com/album/1BHLjtsqNrZg2YbkSEPcaA) | 4:47 | 2024-01-03 | 2024-04-19 |
-| [Still Life](https://open.spotify.com/track/5pMkhUygNBOg2dCYu0Mi0q) | [Bill Mays Trio](https://open.spotify.com/artist/0u0kF8FSLbjeCbwzf9rSL9) | [Autumn Serenade](https://open.spotify.com/album/0vz4fJU7XRDfAocP8Syq9r) | 4:47 | 2023-02-28 |  |
+| [Still Life](https://open.spotify.com/track/5pMkhUygNBOg2dCYu0Mi0q) | [Bill Mays Trio](https://open.spotify.com/artist/0u0kF8FSLbjeCbwzf9rSL9) | [Autumn Serenade](https://open.spotify.com/album/0vz4fJU7XRDfAocP8Syq9r) | 4:47 | 2023-02-28 | 2025-04-13 |
 | [Still Waters](https://open.spotify.com/track/4F5JGx0pSUIOWjQBZFxpcm) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Rising](https://open.spotify.com/album/779CtOedaPfyu3SOhtvEEU) | 6:07 | 2024-05-31 | 2024-06-15 |
 | [Stockholm Sweetnin'](https://open.spotify.com/track/73fjTjTG8KSLQ04t5fARWm) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Swedish Ballads..\. & More](https://open.spotify.com/album/2CrBPHoWZrRA79fU1VRC8s) | 7:55 | 2020-10-27 | 2023-05-24 |
 | [Stormy Weather](https://open.spotify.com/track/2ZT6cJhnJtaaEMJpwRIEPT) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Western Music Box](https://open.spotify.com/album/2bV9dprqJ9PLxR9GZKGuf1) | 6:31 | 2023-08-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 
 > The Indie highlights of 2014\. Cover: BANKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,865 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,907 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 96 | [Don't Wanna Be Your Girl](https://open.spotify.com/track/3JBB92odunFru2gOvI91x9) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Wet](https://open.spotify.com/album/6mmsKRts1C4XuRJChx0Pyx) | 2:54 |
 | 97 | [Château Lobby \#4 \(In C for Two Virgins\)](https://open.spotify.com/track/1kpV69gQV5aixc3deHdzOr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [I Love You, Honeybear](https://open.spotify.com/album/2BwewedJhrAHvow8qE5PBQ) | 2:50 |
 | 98 | [Jealous \(I Ain't With It\)](https://open.spotify.com/track/0CaHZUniQtDRZleX6XK9p7) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [White Women](https://open.spotify.com/album/0U78mbujuFjpprS0G9QcTx) | 3:48 |
-| 99 | [Riptide](https://open.spotify.com/track/1WbYFNSUNn9fP1x0Z5DU95) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Spotify Sessions](https://open.spotify.com/album/6Udtuid2uIXkAZY6zmElfJ) | 4:13 |
-| 100 | [Peaches](https://open.spotify.com/track/0LOcXq48Q660WIRrMlhEDP) | [In The Valley Below](https://open.spotify.com/artist/4WQXRya5np83C21wifjNp9), [John Congleton](https://open.spotify.com/artist/5F2rqvT95spvCWAcSru2tm) | [The Belt](https://open.spotify.com/album/1OPDSctsWUEq1JsW9hj0OZ) | 4:45 |
+| 99 | [Peaches](https://open.spotify.com/track/0LOcXq48Q660WIRrMlhEDP) | [In The Valley Below](https://open.spotify.com/artist/4WQXRya5np83C21wifjNp9), [John Congleton](https://open.spotify.com/artist/5F2rqvT95spvCWAcSru2tm) | [The Belt](https://open.spotify.com/album/1OPDSctsWUEq1JsW9hj0OZ) | 4:45 |
+| 100 | [Riptide](https://open.spotify.com/track/1WbYFNSUNn9fP1x0Z5DU95) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Spotify Sessions](https://open.spotify.com/album/6Udtuid2uIXkAZY6zmElfJ) | 4:13 |
 
 Snapshot ID: `Z9QygQAAAADz1tGAmt1jAFgfCo/GQbxe`

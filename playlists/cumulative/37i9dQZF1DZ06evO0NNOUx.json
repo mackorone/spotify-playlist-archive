@@ -525,6 +525,24 @@
     },
     {
       "album": {
+        "name": "NO L's",
+        "url": "https://open.spotify.com/album/09diOHS2dbWm3arf6cQ6MZ"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "NO L's",
+      "url": "https://open.spotify.com/track/1muhvFXtlUWfstKfJvGxhx"
+    },
+    {
+      "album": {
         "name": "California Cowboy",
         "url": "https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn"
       },

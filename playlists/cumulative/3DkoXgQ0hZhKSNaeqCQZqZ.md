@@ -4,7 +4,7 @@
 
 > All songs made for furs, by furs\.  Request @ spotify.furrest.net
 
-330 songs - 17 hr 31 min
+331 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [if u get lost](https://open.spotify.com/track/5OEDL9OjURGPg0d2FCRFCS) | [ARRYTH](https://open.spotify.com/artist/15FxGdlZMPSCPi5N5PUbKZ) | [if u get lost](https://open.spotify.com/album/2Tjfriw39PTfBHkYQ0eQc0) | 4:31 | 2025-02-23 |  |
 | [In The Night](https://open.spotify.com/track/7eAZzyrEGnMHb4gBWQ2Ak7) | [Zenny](https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM) | [In The Night](https://open.spotify.com/album/5TBn9CgZCvznaAlWt9lRKj) | 2:34 | 2024-11-18 |  |
 | [inconsequential](https://open.spotify.com/track/6IPfsgy50gRIuCHA2PkZFp) | [claymaw](https://open.spotify.com/artist/2k2lkGzy1eLbw3IEvGJbrx), [Maple](https://open.spotify.com/artist/7FqhC9JMS6bbcfMVKKPHBc) | [UPWARD SPIR4L](https://open.spotify.com/album/1EtOu6cstUwTPQk5qTRsaQ) | 2:47 | 2024-07-22 |  |
+| [iPop](https://open.spotify.com/track/2N8s7lPPUSNfsi5ARpmJmC) | [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [iPop](https://open.spotify.com/album/0y62AVbc0vCZwEye11xE5P) | 2:55 | 2025-04-12 |  |
 | [Isn't Life Grand?](https://open.spotify.com/track/61wOkxKIdAJf6R167CHYnt) | [Far Below Perfect](https://open.spotify.com/artist/2AFyXKmMqK5wo0657AvyJw) | [I've Been To Hell Before...](https://open.spotify.com/album/3A9rfPhGC6RCgBTLGt7MgR) | 2:42 | 2024-10-21 |  |
 | [It's Not Over](https://open.spotify.com/track/1bDeWHt2U0kmrbzYESGBTb) | [Ck9c](https://open.spotify.com/artist/5GdjL6RkFagKcwkPu990Gg), [Elizabeth Ann](https://open.spotify.com/artist/2OMS3Dpaq62LEX9iirn7F5) | [It's Not Over](https://open.spotify.com/album/3Ou1ImPGFCZTuPlf7z0K7K) | 4:13 | 2024-02-18 |  |
 | [Joyful Bytes Remix \- Multi Fox Remix](https://open.spotify.com/track/4yIOiovEnQRhCO4i6cJd4L) | [Crazyjump15](https://open.spotify.com/artist/5U9kEd81S4XlSMR0Ielhip), [Multi Fox](https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs) | [Joyful Bytes Remix \(Multi Fox Remix\)](https://open.spotify.com/album/0AQqN7bjOCaBVYohR8dYhM) | 2:50 | 2025-02-22 |  |

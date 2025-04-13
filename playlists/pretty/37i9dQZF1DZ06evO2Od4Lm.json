@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 124789,
+  "num_followers": 124819,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/cKAAAAAADtF3ScWZ8qLvyYXcKJYT2t",
+  "snapshot_id": "Z/hbgAAAAABTmQk9YQfY5jbKQWlXtG/h",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 307697,
-      "name": "Should Have Known Better",
-      "url": "https://open.spotify.com/track/3AyuigFWbuirWHvidbMz8O"
+      "duration_ms": 239508,
+      "name": "Death with Dignity",
+      "url": "https://open.spotify.com/track/73uJybGAhwGRD9MZYrOmTY"
     },
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 239508,
-      "name": "Death with Dignity",
-      "url": "https://open.spotify.com/track/73uJybGAhwGRD9MZYrOmTY"
+      "duration_ms": 307697,
+      "name": "Should Have Known Better",
+      "url": "https://open.spotify.com/track/3AyuigFWbuirWHvidbMz8O"
     },
     {
       "added_at": null,
@@ -327,22 +327,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anything At All",
-        "url": "https://open.spotify.com/album/1pBsqSt6LWcEf9nIQHMWya"
+        "name": "Seven Swans",
+        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
       },
       "artists": [
-        {
-          "name": "Denison Witmer",
-          "url": "https://open.spotify.com/artist/2sJ5Iicthbc9d8Sl1dpeSB"
-        },
         {
           "name": "Sufjan Stevens",
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 192960,
-      "name": "Shade I'll Never See",
-      "url": "https://open.spotify.com/track/0jllpyj5FhtLgb7Txj7oxv"
+      "duration_ms": 152480,
+      "name": "The Dress Looks Nice on You",
+      "url": "https://open.spotify.com/track/74DrpM6tAWvcMu6Uxko9xb"
     },
     {
       "added_at": null,
@@ -395,18 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven Swans",
-        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
+        "name": "Anything At All",
+        "url": "https://open.spotify.com/album/1pBsqSt6LWcEf9nIQHMWya"
       },
       "artists": [
+        {
+          "name": "Denison Witmer",
+          "url": "https://open.spotify.com/artist/2sJ5Iicthbc9d8Sl1dpeSB"
+        },
         {
           "name": "Sufjan Stevens",
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 152480,
-      "name": "The Dress Looks Nice on You",
-      "url": "https://open.spotify.com/track/74DrpM6tAWvcMu6Uxko9xb"
+      "duration_ms": 192960,
+      "name": "Shade I'll Never See",
+      "url": "https://open.spotify.com/track/0jllpyj5FhtLgb7Txj7oxv"
     },
     {
       "added_at": null,

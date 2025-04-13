@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 259320,
+  "num_followers": 259432,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -799,26 +799,6 @@
     {
       "added_at": "2025-04-02 14:12:08",
       "album": {
-        "name": "Breathing (Short Mix)",
-        "url": "https://open.spotify.com/album/10HmA4JcZrUufXF8zouONL"
-      },
-      "artists": [
-        {
-          "name": "YORK",
-          "url": "https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q"
-        },
-        {
-          "name": "Mario Hammer And The Lonely Robot",
-          "url": "https://open.spotify.com/artist/1inotkeSInj9u2UUeENFH5"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Breathing - Short Mix",
-      "url": "https://open.spotify.com/track/5cneBSnvxKVhdDErX3TWWp"
-    },
-    {
-      "added_at": "2025-04-02 14:12:08",
-      "album": {
         "name": "Alter",
         "url": "https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 566208,
       "name": "Entwined",
       "url": "https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC"
+    },
+    {
+      "added_at": "2025-04-02 14:12:08",
+      "album": {
+        "name": "Breathing (Short Mix)",
+        "url": "https://open.spotify.com/album/10HmA4JcZrUufXF8zouONL"
+      },
+      "artists": [
+        {
+          "name": "YORK",
+          "url": "https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q"
+        },
+        {
+          "name": "Mario Hammer And The Lonely Robot",
+          "url": "https://open.spotify.com/artist/1inotkeSInj9u2UUeENFH5"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Breathing - Short Mix",
+      "url": "https://open.spotify.com/track/5cneBSnvxKVhdDErX3TWWp"
     },
     {
       "added_at": "2025-04-02 14:12:08",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-04-02 14:12:08",
       "album": {
-        "name": "4AM ambient version",
-        "url": "https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn"
-      },
-      "artists": [
-        {
-          "name": "Late Era",
-          "url": "https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN"
-        }
-      ],
-      "duration_ms": 112826,
-      "name": "4AM ambient version",
-      "url": "https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0"
-    },
-    {
-      "added_at": "2025-04-02 14:12:08",
-      "album": {
         "name": "Weighing Souls With Sand",
         "url": "https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 572189,
       "name": "The Promise of Snakes",
       "url": "https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D"
+    },
+    {
+      "added_at": "2025-04-02 14:12:08",
+      "album": {
+        "name": "4AM ambient version",
+        "url": "https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn"
+      },
+      "artists": [
+        {
+          "name": "Late Era",
+          "url": "https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN"
+        }
+      ],
+      "duration_ms": 112826,
+      "name": "4AM ambient version",
+      "url": "https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0"
     },
     {
       "added_at": "2025-04-02 14:12:08",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-04-02 14:12:08",
       "album": {
-        "name": "The Idiot",
-        "url": "https://open.spotify.com/album/3FdVZ4nJWJnQVuSgzhAApZ"
-      },
-      "artists": [
-        {
-          "name": "Alexander Carson",
-          "url": "https://open.spotify.com/artist/60FenJLDBQ18RLeUXVtTOb"
-        }
-      ],
-      "duration_ms": 237744,
-      "name": "Asleep at the Wheel",
-      "url": "https://open.spotify.com/track/4TgK5rhGwoKbqkLgdtC6IA"
-    },
-    {
-      "added_at": "2025-04-02 14:12:08",
-      "album": {
         "name": "Bardo Landscape",
         "url": "https://open.spotify.com/album/4MGotWNffTdUNvrgNiRF0f"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 203424,
       "name": "Bardo Landscape",
       "url": "https://open.spotify.com/track/45QrxIJ95T9J4qrdP8DU4e"
+    },
+    {
+      "added_at": "2025-04-02 14:12:08",
+      "album": {
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/3FdVZ4nJWJnQVuSgzhAApZ"
+      },
+      "artists": [
+        {
+          "name": "Alexander Carson",
+          "url": "https://open.spotify.com/artist/60FenJLDBQ18RLeUXVtTOb"
+        }
+      ],
+      "duration_ms": 237744,
+      "name": "Asleep at the Wheel",
+      "url": "https://open.spotify.com/track/4TgK5rhGwoKbqkLgdtC6IA"
     },
     {
       "added_at": "2025-04-02 14:12:08",

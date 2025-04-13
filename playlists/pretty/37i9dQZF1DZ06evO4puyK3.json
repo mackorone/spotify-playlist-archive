@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 164667,
+  "num_followers": 164676,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/cKAAAAAAA/LzH+z0vjTGnTwxmlNJEO",
+  "snapshot_id": "Z/hbgAAAAABJD/bMWKwAjD5Fw3hoILeN",
   "tracks": [
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Provocar",
-        "url": "https://open.spotify.com/album/332UyyUgVxTrm29u44ZvtO"
-      },
-      "artists": [
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 168138,
-      "name": "Provocar",
-      "url": "https://open.spotify.com/track/28SWsF1IQxfc9bP5yua35K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 183206,
       "name": "AO SOM DO TUIM",
       "url": "https://open.spotify.com/track/4hpT0bP4YI71vGQN51ikMz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Provocar",
+        "url": "https://open.spotify.com/album/332UyyUgVxTrm29u44ZvtO"
+      },
+      "artists": [
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 168138,
+      "name": "Provocar",
+      "url": "https://open.spotify.com/track/28SWsF1IQxfc9bP5yua35K"
     },
     {
       "added_at": null,
@@ -959,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Amo Cada Vez Mais (Duas Vozes)",
-        "url": "https://open.spotify.com/album/2PJENalb6VmoT0Slugd89q"
-      },
-      "artists": [
-        {
-          "name": "Daniel",
-          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 347672,
-      "name": "Te Amo Cada Vez Mais (Duas Vozes)",
-      "url": "https://open.spotify.com/track/6PkD5UbpneV73smkeHuQT2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 155761,
       "name": "PROIBIDONA",
       "url": "https://open.spotify.com/track/0Tqnom8PwHN01ntaY5KDiE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Amo Cada Vez Mais (Duas Vozes)",
+        "url": "https://open.spotify.com/album/2PJENalb6VmoT0Slugd89q"
+      },
+      "artists": [
+        {
+          "name": "Daniel",
+          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 347672,
+      "name": "Te Amo Cada Vez Mais (Duas Vozes)",
+      "url": "https://open.spotify.com/track/6PkD5UbpneV73smkeHuQT2"
     }
   ],
   "unique_name": "This Is Gloria Groove",

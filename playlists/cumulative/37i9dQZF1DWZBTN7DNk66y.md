@@ -4,7 +4,7 @@
 
 > El nuevo sonido de la canción sudamericana de la mano de Sofía Álvez.
 
-212 songs - 12 hr 18 min
+213 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Neblina](https://open.spotify.com/track/3udPLpECugI0SJhvVOez3X) | [Camila y Silvio](https://open.spotify.com/artist/7q4O9IJOztG7Oa2MF4ODlX) | [Neblina](https://open.spotify.com/album/6dngwatQVHIHJ3GWmxJLvM) | 3:11 | 2024-08-16 |  |
 | [No lo necesito](https://open.spotify.com/track/3lApRCwkvWPB0KZoHy8hxI) | [El Árbol de Diego](https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW) | [No lo necesito](https://open.spotify.com/album/6er8uGoxQtkPzKF5vQnicY) | 3:56 | 2024-06-28 | 2024-08-24 |
 | [No me pidas que no sea un inconsciente](https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA) | [No me pidas que no sea un inconsciente](https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g) | 2:13 | 2024-06-28 | 2024-08-24 |
+| [NOstas](https://open.spotify.com/track/3xlrhGSfJsXeIMpUaH8tYA) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [UNDESASTRE delux: CERODRAMA](https://open.spotify.com/album/4drbveW8C0TBDfEVxYy0Sa) | 2:56 | 2025-04-11 |  |
 | [Nubil](https://open.spotify.com/track/3zsRHcAWaSSFKM9vVEeagj) | [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So), [Sof Tot](https://open.spotify.com/artist/0QLkVX5UDeJyKxSA8z8mtj), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Nubil](https://open.spotify.com/album/2kyWzKHKCMweAVi3Sq2mhs) | 3:01 | 2024-08-23 | 2024-10-26 |
 | [Odio despertar](https://open.spotify.com/track/5iHpMjibIkqUNAIw6jYWs1) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Odio despertar](https://open.spotify.com/album/4CIBXHoCuxl1Pbr4OjwWoS) | 4:27 | 2024-06-28 |  |
 | [Ojos De Fuego](https://open.spotify.com/track/4O0L4QnB2dYlNWa6OydjiQ) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN), [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT) | [Ojos De Fuego](https://open.spotify.com/album/5SWUp6WuA1XmRHXNzpEToq) | 5:14 | 2024-06-28 |  |
@@ -162,7 +163,7 @@
 | [Quién da Más?](https://open.spotify.com/track/0QOBCqqydSvpeapa87Edzw) | [Marcos French](https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc), [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Quién da Más?](https://open.spotify.com/album/40enhfnwfBrUbOxe1QXHjk) | 4:32 | 2024-06-28 |  |
 | [Recuerdos de Ypacaraí](https://open.spotify.com/track/5sHhACecsUVICpq4Geeejj) | [Luna Sujatovich](https://open.spotify.com/artist/0RsjZIEbaxBvwvoEfnEs2G), [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [Recuerdos de Ypacaraí](https://open.spotify.com/album/3JFlzUbyftC2j34IoK4cyG) | 4:27 | 2024-06-28 |  |
 | [REGALAMOS ROSAS EN LA LUNA](https://open.spotify.com/track/0M8tyikK7IWZEb4x7Trjfc) | [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR), [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [REGALAMOS ROSAS EN LA LUNA](https://open.spotify.com/album/5Ea2j9m1oDcdClu3TfT033) | 4:40 | 2024-10-25 |  |
-| [Regresaré](https://open.spotify.com/track/2bHAE4gmJSDMmUX5thl2JM) | [Gabo Ferro](https://open.spotify.com/artist/085q57OvE341Q8n77AE9RT), [Sergio Ch.](https://open.spotify.com/artist/0rCqKV9ewBzm9Dd0dThRDf) | [Regresaré](https://open.spotify.com/album/0h6VW52oK4WzlxT6LtGnls) | 6:08 | 2024-12-20 |  |
+| [Regresaré](https://open.spotify.com/track/2bHAE4gmJSDMmUX5thl2JM) | [Gabo Ferro](https://open.spotify.com/artist/085q57OvE341Q8n77AE9RT), [Sergio Ch.](https://open.spotify.com/artist/0rCqKV9ewBzm9Dd0dThRDf) | [Regresaré](https://open.spotify.com/album/0h6VW52oK4WzlxT6LtGnls) | 6:08 | 2024-12-20 | 2025-04-13 |
 | [Romance Con la Luna](https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Romance Con la Luna](https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781) | 2:51 | 2024-06-28 | 2024-08-17 |
 | [Sampa](https://open.spotify.com/track/4Hlo0rzrgIOCcj84LFDa8n) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw), [Juan Falú](https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH) | [Sampa](https://open.spotify.com/album/1koawHnVGULixrX3oMtJxf) | 4:29 | 2024-11-08 |  |
 | [Se Vos](https://open.spotify.com/track/2YAcx6NVFtror545iVJfIo) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Pedro Rossi](https://open.spotify.com/artist/32uq3m742M8DXd4WvpCIjC) | [Se Vos](https://open.spotify.com/album/2fxw6XXedFNprq4HdYTWdM) | 4:36 | 2024-10-25 |  |

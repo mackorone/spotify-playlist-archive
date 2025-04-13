@@ -1,6 +1,6 @@
 {
   "description": "Recuerda la d\u00e9cada de los acampanados, patillas y cuellos picudos. Juan Gabriel en portada.",
-  "num_followers": 307225,
+  "num_followers": 307339,
   "original_name": "Los 70 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
+        "name": "Las N\u00famero 1 de Manoella Torres",
+        "url": "https://open.spotify.com/album/1XtAGzvyq5As5IcnPW5VUM"
+      },
+      "artists": [
+        {
+          "name": "Manoella Torres",
+          "url": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
+        }
+      ],
+      "duration_ms": 197360,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/1qIlPTAcSHD6MJTr4qIJJr"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
         "name": "Sucesos Musicales",
         "url": "https://open.spotify.com/album/55AnSsIpBATUlxZoPSiqC5"
       },
@@ -859,22 +875,6 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
-        "name": "Brillantes - Jose Jose",
-        "url": "https://open.spotify.com/album/3olQZ2Bjes0ujqc3aVvWYI"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "El Amar y el Querer",
-      "url": "https://open.spotify.com/track/3O0VgO1XOxiJSQnThWWPv3"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
         "name": "15 \u00c9xitos de los Dug Dug's Rock and Roll",
         "url": "https://open.spotify.com/album/5CtcJWRwRPZF0WkJ92ZspC"
       },
@@ -891,18 +891,18 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
-        "name": "Las N\u00famero 1 de Manoella Torres",
-        "url": "https://open.spotify.com/album/1XtAGzvyq5As5IcnPW5VUM"
+        "name": "Brillantes - Jose Jose",
+        "url": "https://open.spotify.com/album/3olQZ2Bjes0ujqc3aVvWYI"
       },
       "artists": [
         {
-          "name": "Manoella Torres",
-          "url": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 197360,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/1qIlPTAcSHD6MJTr4qIJJr"
+      "duration_ms": 236786,
+      "name": "El Amar y el Querer",
+      "url": "https://open.spotify.com/track/3O0VgO1XOxiJSQnThWWPv3"
     },
     {
       "added_at": "2019-09-04 23:38:38",

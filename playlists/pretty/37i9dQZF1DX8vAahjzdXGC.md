@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Stephanie Poetri, DAESUNG, hingga Lana Del Rey
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,400 likes - 89 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,470 likes - 89 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 43 | [Destroyed \(feat\. Leonardo Luzardi & Valentina Kerdijk\)](https://open.spotify.com/track/5OYgarVeNlgntf0z83B1PL) | [Prayash](https://open.spotify.com/artist/4SXkU6BePT8WfweBFTreBc), [Leonardo Luzardi](https://open.spotify.com/artist/482eZaBXh1SIbY2MMPlG3o), [Valentina Kerdijk](https://open.spotify.com/artist/5KxYigE4giXn6eZ2GKgHcF) | [Destroyed \(feat\. Leonardo Luzardi & Valentina Kerdijk\)](https://open.spotify.com/album/4GCIKoVfjGJbhSAPLf85oH) | 3:23 |
 | 44 | [Destinasi](https://open.spotify.com/track/1dVZp1nXK61PFsTSlgsk8p) | [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY) | [Destinasi](https://open.spotify.com/album/2V7KL0bSN13EPSkgiRtUAq) | 3:04 |
 | 45 | [Cinta Terakhirku \- From "Dari Rahim Yang Sama"](https://open.spotify.com/track/3qenQ5V5MdQeMzTFoAswKi) | [Amira Othman](https://open.spotify.com/artist/31aRV0LJpJ88B7WX6PNspi) | [Cinta Terakhirku \(From "Dari Rahim Yang Sama"\)](https://open.spotify.com/album/6yK2TrqC02DivirvBxHJG9) | 4:03 |
-| 46 | [Winter](https://open.spotify.com/track/3WUmftc0oRZ4PT9NwVEXIS) | [NUAVE](https://open.spotify.com/artist/1Oo28X74dh8z0LCbrS7ECs) | [Winter](https://open.spotify.com/album/6UL9Fxi1Eg5tFT4JFVSFcS) | 3:14 |
+| 46 | [Winter](https://open.spotify.com/track/3WUmftc0oRZ4PT9NwVEXIS) | [NUAVE](https://open.spotify.com/artist/1w0BN4estLbb1G04sr0i6E) | [Winter](https://open.spotify.com/album/6UL9Fxi1Eg5tFT4JFVSFcS) | 3:14 |
 | 47 | [Drunk & Hazy](https://open.spotify.com/track/4OpkUZHdW9G5wNmeuRLo9Q) | [Anggun Dae](https://open.spotify.com/artist/59VJhih06fQKi3Sw7ukh9J) | [Drunk & Hazy](https://open.spotify.com/album/6sA6ERqMJCT3ihYwpVHo8S) | 3:22 |
 | 48 | [Mahligai Idaman](https://open.spotify.com/track/02OL1P1C5Cmlsf2tkb8OJQ) | [Rayremar](https://open.spotify.com/artist/395biN8y8SqcCeE5iwx4rb) | [Mahligai Idaman](https://open.spotify.com/album/46lywMrOP5H6YPHik7LS2t) | 3:17 |
 | 49 | [恋風](https://open.spotify.com/track/6QGuDk8tY8Lan39gTWtXWK) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [恋風](https://open.spotify.com/album/2YnF0m9IK3ZEApvRVb7tqo) | 3:02 |

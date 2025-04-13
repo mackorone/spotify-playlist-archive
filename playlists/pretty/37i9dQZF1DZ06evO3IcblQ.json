@@ -1,12 +1,12 @@
 {
   "description": "This is Pennywise. The essential tracks, all in one playlist.",
-  "num_followers": 34174,
+  "num_followers": 34175,
   "original_name": "This Is Pennywise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/cKAAAAAACVMb4SIE684QcGvFbVMAwQ",
+  "snapshot_id": "Z/hbgAAAAACklG3F0Cde4B1YYOSUUgrf",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unknown Road (2005 Remaster)",
-        "url": "https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H"
+        "name": "Pennywise (2005 Remaster)",
+        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 136720,
-      "name": "Homesick - 2005 Remaster",
-      "url": "https://open.spotify.com/track/3MHwUnDXuJ9yWKmpxdBV4o"
+      "duration_ms": 187786,
+      "name": "Living for Today - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4FlT6zFCK2hIdfQld4lPU6"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pennywise (2005 Remaster)",
-        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
+        "name": "Unknown Road (2005 Remaster)",
+        "url": "https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 187786,
-      "name": "Living for Today - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4FlT6zFCK2hIdfQld4lPU6"
+      "duration_ms": 136720,
+      "name": "Homesick - 2005 Remaster",
+      "url": "https://open.spotify.com/track/3MHwUnDXuJ9yWKmpxdBV4o"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
       "duration_ms": 160120,
       "name": "Never Gonna Die",
       "url": "https://open.spotify.com/track/0vOFieMa3Awbz180AGTrz0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unknown Road (2005 Remaster)",
-        "url": "https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 164826,
-      "name": "Unknown Road - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2QNZCGAZsyBoaldiSxLp2C"
     },
     {
       "added_at": null,
@@ -427,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unknown Road (2005 Remaster)",
+        "url": "https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 164826,
+      "name": "Unknown Road - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2QNZCGAZsyBoaldiSxLp2C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ollie Ollie Oxen Free",
         "url": "https://open.spotify.com/album/4MBEuKyxcVRFFMtXIWlRH1"
       },
@@ -447,22 +447,6 @@
       "duration_ms": 132466,
       "name": "Don't Tear Me Down",
       "url": "https://open.spotify.com/track/5mSr9lvz9wQkSX0L2kUs50"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Land Of The Free?",
-        "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "My God",
-      "url": "https://open.spotify.com/track/4dJfBTMmCIfHmzqaj8Or7L"
     },
     {
       "added_at": null,
@@ -499,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Land Of The Free?",
+        "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "My God",
+      "url": "https://open.spotify.com/track/4dJfBTMmCIfHmzqaj8Or7L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pennywise (2005 Remaster)",
         "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
       },
@@ -511,22 +511,6 @@
       "duration_ms": 97840,
       "name": "Pennywise - 2005 Remaster",
       "url": "https://open.spotify.com/track/1WaEl2RKIUq7gxakfucrch"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Land Of The Free?",
-        "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 177093,
-      "name": "Time Marches On",
-      "url": "https://open.spotify.com/track/7I44d8wbsWdByMs5fxymfQ"
     },
     {
       "added_at": null,
@@ -547,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Or Nothing (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 190653,
-      "name": "Stand Strong",
-      "url": "https://open.spotify.com/track/5VpXIDoc5QomGO3ezmS0wB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From The Ashes",
         "url": "https://open.spotify.com/album/5jChldYJR4f1K3gkSd9Isg"
       },
@@ -579,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unknown Road (2005 Remaster)",
-        "url": "https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H"
+        "name": "Land Of The Free?",
+        "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
       },
       "artists": [
         {
@@ -588,9 +556,25 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 196026,
-      "name": "It's Up To Me - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2K6a1zQRxVh7lvvNf3gSCR"
+      "duration_ms": 177093,
+      "name": "Time Marches On",
+      "url": "https://open.spotify.com/track/7I44d8wbsWdByMs5fxymfQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Or Nothing (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 190653,
+      "name": "Stand Strong",
+      "url": "https://open.spotify.com/track/5VpXIDoc5QomGO3ezmS0wB"
     },
     {
       "added_at": null,
@@ -611,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Or Nothing (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
+        "name": "Unknown Road (2005 Remaster)",
+        "url": "https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H"
       },
       "artists": [
         {
@@ -620,9 +604,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 179293,
-      "name": "We Have It All",
-      "url": "https://open.spotify.com/track/7KLoR0gUpBO0UFespQwXh7"
+      "duration_ms": 196026,
+      "name": "It's Up To Me - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2K6a1zQRxVh7lvvNf3gSCR"
     },
     {
       "added_at": null,
@@ -643,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unknown Road (2005 Remaster)",
-        "url": "https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H"
+        "name": "All Or Nothing (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
       },
       "artists": [
         {
@@ -652,9 +636,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 185493,
-      "name": "Dying to Know - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6wHh6CHqcIQR1gpmmjeaKL"
+      "duration_ms": 179293,
+      "name": "We Have It All",
+      "url": "https://open.spotify.com/track/7KLoR0gUpBO0UFespQwXh7"
     },
     {
       "added_at": null,
@@ -671,6 +655,22 @@
       "duration_ms": 191173,
       "name": "Final Day - 2005 Remaster",
       "url": "https://open.spotify.com/track/1IbACCa6rZ9fTuI6YYS1cF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unknown Road (2005 Remaster)",
+        "url": "https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "Dying to Know - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6wHh6CHqcIQR1gpmmjeaKL"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 158080,
-      "name": "No Reason Why - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2mTPOlPrevasvnkDzrD8xx"
+      "duration_ms": 85946,
+      "name": "Rules - 2005 Remaster",
+      "url": "https://open.spotify.com/track/767rObQPgUNryNEu7HBnqq"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 85946,
-      "name": "Rules - 2005 Remaster",
-      "url": "https://open.spotify.com/track/767rObQPgUNryNEu7HBnqq"
+      "duration_ms": 158080,
+      "name": "No Reason Why - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2mTPOlPrevasvnkDzrD8xx"
     },
     {
       "added_at": null,

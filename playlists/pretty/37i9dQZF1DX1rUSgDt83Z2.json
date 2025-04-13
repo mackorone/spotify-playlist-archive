@@ -1,6 +1,6 @@
 {
   "description": "Mooi van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 36479,
+  "num_followers": 36516,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -55,6 +55,26 @@
     {
       "added_at": "2025-04-10 23:00:06",
       "album": {
+        "name": "De Stad",
+        "url": "https://open.spotify.com/album/74oRzSmRTs0BPr4rQSvywO"
+      },
+      "artists": [
+        {
+          "name": "Rene Froger",
+          "url": "https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb"
+        },
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        }
+      ],
+      "duration_ms": 158857,
+      "name": "De Stad",
+      "url": "https://open.spotify.com/track/2N0J2JFNDuRh4bEiaYWTHY"
+    },
+    {
+      "added_at": "2025-04-10 23:00:06",
+      "album": {
         "name": "Nergens Liever",
         "url": "https://open.spotify.com/album/7BfMAnfZJBqhrRy16FbpzB"
       },
@@ -91,26 +111,6 @@
     {
       "added_at": "2025-04-10 23:00:06",
       "album": {
-        "name": "De Stad",
-        "url": "https://open.spotify.com/album/74oRzSmRTs0BPr4rQSvywO"
-      },
-      "artists": [
-        {
-          "name": "Rene Froger",
-          "url": "https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb"
-        },
-        {
-          "name": "Billy Dans",
-          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
-        }
-      ],
-      "duration_ms": 158857,
-      "name": "De Stad",
-      "url": "https://open.spotify.com/track/2N0J2JFNDuRh4bEiaYWTHY"
-    },
-    {
-      "added_at": "2025-04-10 23:00:06",
-      "album": {
         "name": "(Die Man Is) Verliefd",
         "url": "https://open.spotify.com/album/6MYXtFqWqatgAk5U91a3J2"
       },
@@ -127,6 +127,22 @@
       "duration_ms": 186799,
       "name": "(Die Man Is) Verliefd",
       "url": "https://open.spotify.com/track/3Sk76R83fWHlAO89n1IXgs"
+    },
+    {
+      "added_at": "2025-04-10 23:00:06",
+      "album": {
+        "name": "Vette Boeren",
+        "url": "https://open.spotify.com/album/5nUNYfDWJsK7Gy5MDMPkBE"
+      },
+      "artists": [
+        {
+          "name": "Jorieke Sterken",
+          "url": "https://open.spotify.com/artist/4apAHs1Q11wGqsPDVg5MRb"
+        }
+      ],
+      "duration_ms": 180906,
+      "name": "Vette Boeren",
+      "url": "https://open.spotify.com/track/0p0uLrS81UnuaMdkUQVlON"
     },
     {
       "added_at": "2025-04-10 23:00:06",
@@ -151,22 +167,6 @@
       "duration_ms": 162400,
       "name": "Dag & Nacht",
       "url": "https://open.spotify.com/track/3By566RxwlcEG4yOxdSlE9"
-    },
-    {
-      "added_at": "2025-04-10 23:00:06",
-      "album": {
-        "name": "Vette Boeren",
-        "url": "https://open.spotify.com/album/5nUNYfDWJsK7Gy5MDMPkBE"
-      },
-      "artists": [
-        {
-          "name": "Jorieke Sterken",
-          "url": "https://open.spotify.com/artist/4apAHs1Q11wGqsPDVg5MRb"
-        }
-      ],
-      "duration_ms": 180906,
-      "name": "Vette Boeren",
-      "url": "https://open.spotify.com/track/0p0uLrS81UnuaMdkUQVlON"
     },
     {
       "added_at": "2025-04-10 23:00:06",
@@ -223,22 +223,6 @@
     {
       "added_at": "2025-04-10 23:00:06",
       "album": {
-        "name": "Twee Stappen Voor",
-        "url": "https://open.spotify.com/album/75OG2bfTEgaBamluRUEbhS"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 178434,
-      "name": "Als Je Gaat",
-      "url": "https://open.spotify.com/track/7soDg3f7rFxxqyLus0KGYg"
-    },
-    {
-      "added_at": "2025-04-10 23:00:06",
-      "album": {
         "name": "Tussen Jou en Mij",
         "url": "https://open.spotify.com/album/5vIgGlwoi1hLNQfhn5PVcm"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 178708,
       "name": "Tussen Jou en Mij",
       "url": "https://open.spotify.com/track/0GbBLC50dJxjPiTglbxcy6"
+    },
+    {
+      "added_at": "2025-04-10 23:00:06",
+      "album": {
+        "name": "Twee Stappen Voor",
+        "url": "https://open.spotify.com/album/75OG2bfTEgaBamluRUEbhS"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 178434,
+      "name": "Als Je Gaat",
+      "url": "https://open.spotify.com/track/7soDg3f7rFxxqyLus0KGYg"
     },
     {
       "added_at": "2025-04-10 23:00:06",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-04-10 23:00:06",
       "album": {
-        "name": "Huisje, Boompje, Feestje",
-        "url": "https://open.spotify.com/album/4J9Wc64l9Wr0xdyUKoGtRo"
-      },
-      "artists": [
-        {
-          "name": "Juwls",
-          "url": "https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75"
-        }
-      ],
-      "duration_ms": 204615,
-      "name": "Huisje, Boompje, Feestje",
-      "url": "https://open.spotify.com/track/16XZUM3T4NcDPgRre4dHDp"
-    },
-    {
-      "added_at": "2025-04-10 23:00:06",
-      "album": {
         "name": "Vrouw Van De Wereld",
         "url": "https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 173031,
       "name": "Patronen",
       "url": "https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV"
+    },
+    {
+      "added_at": "2025-04-10 23:00:06",
+      "album": {
+        "name": "Huisje, Boompje, Feestje",
+        "url": "https://open.spotify.com/album/4J9Wc64l9Wr0xdyUKoGtRo"
+      },
+      "artists": [
+        {
+          "name": "Juwls",
+          "url": "https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75"
+        }
+      ],
+      "duration_ms": 204615,
+      "name": "Huisje, Boompje, Feestje",
+      "url": "https://open.spotify.com/track/16XZUM3T4NcDPgRre4dHDp"
     },
     {
       "added_at": "2025-04-10 23:00:06",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-04-10 23:00:06",
       "album": {
-        "name": "Alles Wat Ik Zoek (Radio Edit)",
-        "url": "https://open.spotify.com/album/5UUFAAiSKelbyEjBLzepjt"
-      },
-      "artists": [
-        {
-          "name": "Hiigo",
-          "url": "https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX"
-        }
-      ],
-      "duration_ms": 168871,
-      "name": "Alles Wat Ik Zoek - Radio Edit",
-      "url": "https://open.spotify.com/track/1XdUtqaf0KdDxgnO8wY1y3"
-    },
-    {
-      "added_at": "2025-04-10 23:00:06",
-      "album": {
         "name": "Wat Is Dan Liefde",
         "url": "https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 156813,
       "name": "Wat Is Dan Liefde - Hazes Is De Basis",
       "url": "https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2"
+    },
+    {
+      "added_at": "2025-04-10 23:00:06",
+      "album": {
+        "name": "Alles Wat Ik Zoek (Radio Edit)",
+        "url": "https://open.spotify.com/album/5UUFAAiSKelbyEjBLzepjt"
+      },
+      "artists": [
+        {
+          "name": "Hiigo",
+          "url": "https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX"
+        }
+      ],
+      "duration_ms": 168871,
+      "name": "Alles Wat Ik Zoek - Radio Edit",
+      "url": "https://open.spotify.com/track/1XdUtqaf0KdDxgnO8wY1y3"
     },
     {
       "added_at": "2025-04-10 23:00:06",
@@ -551,6 +551,26 @@
     {
       "added_at": "2025-04-10 23:00:06",
       "album": {
+        "name": "Iedereen is van de wereld (Titelsong Van De Film 'Iedereen is van de wereld')",
+        "url": "https://open.spotify.com/album/5M6BCWP2bNLQd35bksJ1NC"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        },
+        {
+          "name": "Matheu",
+          "url": "https://open.spotify.com/artist/5GKUHOGaoXmhdsDzuyFnAM"
+        }
+      ],
+      "duration_ms": 165493,
+      "name": "Iedereen is van de wereld (Titelsong Van De Film 'Iedereen is van de wereld')",
+      "url": "https://open.spotify.com/track/3oom0huw1DOVJp9PvhbPEv"
+    },
+    {
+      "added_at": "2025-04-10 23:00:06",
+      "album": {
         "name": "Scherven",
         "url": "https://open.spotify.com/album/2cTSiHcoaa6cUvTiD0Bgew"
       },
@@ -583,26 +603,6 @@
     {
       "added_at": "2025-04-10 23:00:06",
       "album": {
-        "name": "Iedereen is van de wereld (Titelsong Van De Film 'Iedereen is van de wereld')",
-        "url": "https://open.spotify.com/album/5M6BCWP2bNLQd35bksJ1NC"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Livay",
-          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
-        },
-        {
-          "name": "Matheu",
-          "url": "https://open.spotify.com/artist/5GKUHOGaoXmhdsDzuyFnAM"
-        }
-      ],
-      "duration_ms": 165493,
-      "name": "Iedereen is van de wereld (Titelsong Van De Film 'Iedereen is van de wereld')",
-      "url": "https://open.spotify.com/track/3oom0huw1DOVJp9PvhbPEv"
-    },
-    {
-      "added_at": "2025-04-10 23:00:06",
-      "album": {
         "name": "Beste Zangers 2024 (Aflevering 4- SERA)",
         "url": "https://open.spotify.com/album/0hrDw65YQjmEmM38cBHF1V"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 177877,
       "name": "Mes In M'n Rug",
       "url": "https://open.spotify.com/track/4GZd9XVEm3YxbTtll982i1"
-    },
-    {
-      "added_at": "2025-04-10 23:00:06",
-      "album": {
-        "name": "Leven In De Leegte",
-        "url": "https://open.spotify.com/album/7aV7m6fQ6DW1Vka6TpVwWe"
-      },
-      "artists": [
-        {
-          "name": "Hiigo",
-          "url": "https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX"
-        }
-      ],
-      "duration_ms": 211343,
-      "name": "Niets Meer",
-      "url": "https://open.spotify.com/track/24dVAws8icjFeBnWfRJMuj"
     },
     {
       "added_at": "2025-04-10 23:00:06",
@@ -667,6 +651,22 @@
       "duration_ms": 155899,
       "name": "Als je dat maar weet",
       "url": "https://open.spotify.com/track/0vCYVti6bnSVbkMry56gnV"
+    },
+    {
+      "added_at": "2025-04-10 23:00:06",
+      "album": {
+        "name": "Leven In De Leegte",
+        "url": "https://open.spotify.com/album/7aV7m6fQ6DW1Vka6TpVwWe"
+      },
+      "artists": [
+        {
+          "name": "Hiigo",
+          "url": "https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX"
+        }
+      ],
+      "duration_ms": 211343,
+      "name": "Niets Meer",
+      "url": "https://open.spotify.com/track/24dVAws8icjFeBnWfRJMuj"
     },
     {
       "added_at": "2025-04-10 23:00:06",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-04-10 23:00:06",
       "album": {
+        "name": "Mijn Dorp In De Kempen (uit Liefde Voor Muziek)",
+        "url": "https://open.spotify.com/album/5ipD1vyfx57xhUE7bERMHC"
+      },
+      "artists": [
+        {
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+        }
+      ],
+      "duration_ms": 266240,
+      "name": "Mijn Dorp In De Kempen (uit Liefde Voor Muziek)",
+      "url": "https://open.spotify.com/track/2Jc7DQilZLNtv8qrkU1Quj"
+    },
+    {
+      "added_at": "2025-04-10 23:00:06",
+      "album": {
         "name": "Brussel",
         "url": "https://open.spotify.com/album/57PclOxkYeM34Xr0oGV62z"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 170024,
       "name": "Brussel",
       "url": "https://open.spotify.com/track/1UOymAhcklZlgfa8k1BUUB"
-    },
-    {
-      "added_at": "2025-04-10 23:00:06",
-      "album": {
-        "name": "Slaap Lekker",
-        "url": "https://open.spotify.com/album/58WAXCxWYLQgMybk6ZRQVJ"
-      },
-      "artists": [
-        {
-          "name": "JASHA",
-          "url": "https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL"
-        }
-      ],
-      "duration_ms": 134318,
-      "name": "Slaap Lekker",
-      "url": "https://open.spotify.com/track/64EB0FN3fLIslczqsDjVx1"
     }
   ],
   "unique_name": "Helemaal NL",

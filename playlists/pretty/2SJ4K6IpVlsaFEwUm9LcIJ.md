@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,929 likes - 50 songs - 3 hr 9 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,933 likes - 54 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,12 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 45 | [Let the Moon Get Into It](https://open.spotify.com/track/1stYzcsEDzXXKyjQ2zyLx5) | [Soft Location](https://open.spotify.com/artist/5gGzQgygoCuJtht0pWG7Uk) | [Diamonds and Gems](https://open.spotify.com/album/1a7152fg0L3fKzgjQ7upaj) | 6:29 |
 | 46 | [Hog Of The Forsaken](https://open.spotify.com/track/0f5bYBJ7CQkqqLZjhJTNw9) | [Michael Hurley](https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz) | [Long Journey](https://open.spotify.com/album/3jqLDxYTcxRXOWIL6UcquW) | 3:35 |
 | 47 | [Polynesia](https://open.spotify.com/track/1kRSfl02tYqUkyNuAuStDC) | [Michael Hurley](https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz) | [Long Journey](https://open.spotify.com/album/3jqLDxYTcxRXOWIL6UcquW) | 2:23 |
-| 48 | [Neverland](https://open.spotify.com/track/2pmf8TGCLVBHioGVYiE0WY) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [When you wake up](https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY) | 3:11 |
-| 49 | [I am your house](https://open.spotify.com/track/62sOtdVgN9YUJErtoHaUc5) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [When you wake up](https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY) | 4:26 |
-| 50 | [Happy](https://open.spotify.com/track/3WGiMyK486Aat4b9ZxuHic) | [The Wrens](https://open.spotify.com/artist/04cetTUz2JTzXBqFKO5YB5) | [The Meadowlands](https://open.spotify.com/album/4Olz2cm8ncBqhnRcDwqVFK) | 5:33 |
+| 48 | [First it was a movie, then it was a book](https://open.spotify.com/track/7ExHIXcOVFpQ3LexAhjl3u) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [First it was a movie, then it was a book](https://open.spotify.com/album/1Rie4axh0gfYJhuN358run) | 6:50 |
+| 49 | [Neverland](https://open.spotify.com/track/2pmf8TGCLVBHioGVYiE0WY) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [When you wake up](https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY) | 3:11 |
+| 50 | [I am your house](https://open.spotify.com/track/62sOtdVgN9YUJErtoHaUc5) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [When you wake up](https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY) | 4:26 |
+| 51 | [Happy](https://open.spotify.com/track/3WGiMyK486Aat4b9ZxuHic) | [The Wrens](https://open.spotify.com/artist/04cetTUz2JTzXBqFKO5YB5) | [The Meadowlands](https://open.spotify.com/album/4Olz2cm8ncBqhnRcDwqVFK) | 5:33 |
+| 52 | [You Don't Have One Hope](https://open.spotify.com/track/50ZJVGTEnnDGwzIctwd5g3) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [You Don't Have One Hope](https://open.spotify.com/album/72DUqvLhI6ZyqvB82bovq9) | 2:17 |
+| 53 | [nerds](https://open.spotify.com/track/1xbYxwk8eexZgTABS6zuzM) | [Yorck Street](https://open.spotify.com/artist/2mQRyEpdhQxiykFmC74TSB) | [Yorck Street](https://open.spotify.com/album/4NWSdRujBcr2IYiBOsKNdD) | 0:40 |
+| 54 | [PANAS](https://open.spotify.com/track/0gQlbFskqEn6Oq6BbC7wMY) | [SSSLIP](https://open.spotify.com/artist/3i4ymq99xVgnNYbDxRK9I8), [RubyyXo](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL) | [SSSLIP\-RMX01](https://open.spotify.com/album/47zbySGzKDp8itUYb9J0L2) | 4:20 |
 
-Snapshot ID: `AAAMKLEj7Xg60VRfZSgqmGV47QTuE2kA`
+Snapshot ID: `AAAMLncD/epsWZt8JljYASKIpfNvPRZc`

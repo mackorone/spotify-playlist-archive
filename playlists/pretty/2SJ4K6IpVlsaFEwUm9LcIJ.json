@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: march-april 2025 (previous playlists archived on my profile)",
-  "num_followers": 22929,
+  "num_followers": 22933,
   "original_name": "acting on feeling",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAMKLEj7Xg60VRfZSgqmGV47QTuE2kA",
+  "snapshot_id": "AAAMLncD/epsWZt8JljYASKIpfNvPRZc",
   "tracks": [
     {
       "added_at": "2025-03-01 22:42:13",
@@ -777,6 +777,22 @@
       "url": "https://open.spotify.com/track/1kRSfl02tYqUkyNuAuStDC"
     },
     {
+      "added_at": "2025-04-12 17:14:14",
+      "album": {
+        "name": "First it was a movie, then it was a book",
+        "url": "https://open.spotify.com/album/1Rie4axh0gfYJhuN358run"
+      },
+      "artists": [
+        {
+          "name": "Florry",
+          "url": "https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn"
+        }
+      ],
+      "duration_ms": 410200,
+      "name": "First it was a movie, then it was a book",
+      "url": "https://open.spotify.com/track/7ExHIXcOVFpQ3LexAhjl3u"
+    },
+    {
       "added_at": "2025-04-09 17:22:14",
       "album": {
         "name": "When you wake up",
@@ -823,6 +839,58 @@
       "duration_ms": 333026,
       "name": "Happy",
       "url": "https://open.spotify.com/track/3WGiMyK486Aat4b9ZxuHic"
+    },
+    {
+      "added_at": "2025-04-12 22:18:57",
+      "album": {
+        "name": "You Don't Have One Hope",
+        "url": "https://open.spotify.com/album/72DUqvLhI6ZyqvB82bovq9"
+      },
+      "artists": [
+        {
+          "name": "Operelly",
+          "url": "https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63"
+        }
+      ],
+      "duration_ms": 137173,
+      "name": "You Don't Have One Hope",
+      "url": "https://open.spotify.com/track/50ZJVGTEnnDGwzIctwd5g3"
+    },
+    {
+      "added_at": "2025-04-12 20:06:06",
+      "album": {
+        "name": "Yorck Street",
+        "url": "https://open.spotify.com/album/4NWSdRujBcr2IYiBOsKNdD"
+      },
+      "artists": [
+        {
+          "name": "Yorck Street",
+          "url": "https://open.spotify.com/artist/2mQRyEpdhQxiykFmC74TSB"
+        }
+      ],
+      "duration_ms": 40606,
+      "name": "nerds",
+      "url": "https://open.spotify.com/track/1xbYxwk8eexZgTABS6zuzM"
+    },
+    {
+      "added_at": "2025-04-12 20:06:53",
+      "album": {
+        "name": "SSSLIP-RMX01",
+        "url": "https://open.spotify.com/album/47zbySGzKDp8itUYb9J0L2"
+      },
+      "artists": [
+        {
+          "name": "SSSLIP",
+          "url": "https://open.spotify.com/artist/3i4ymq99xVgnNYbDxRK9I8"
+        },
+        {
+          "name": "RubyyXo",
+          "url": "https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL"
+        }
+      ],
+      "duration_ms": 260538,
+      "name": "PANAS",
+      "url": "https://open.spotify.com/track/0gQlbFskqEn6Oq6BbC7wMY"
     }
   ],
   "unique_name": "acting on feeling",

@@ -2,7 +2,7 @@
 
 ### [Channel\-X](https://open.spotify.com/playlist/37i9dQZF1DX4y8h9WqDPAE)
 
-> Where R&B meets Hip\-Hop, Pop, Afrobeats and everything in between !  Cover: Jessie Reyez
+> Where R&B meets Hip\-Hop, Pop, Afrobeats and everything in between !  Cover: Ravyn Lenae
 
 1,012 songs - 2 day 4 hr 32 min
 

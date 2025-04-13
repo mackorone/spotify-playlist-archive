@@ -3620,7 +3620,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-09",
+      "date_removed": null,
       "duration_ms": 182560,
       "name": "Diskovery",
       "url": "https://open.spotify.com/track/0glgTkbSgskHVjGj2Hdy8A"
@@ -8009,6 +8009,24 @@
     },
     {
       "album": {
+        "name": "jennifer's body",
+        "url": "https://open.spotify.com/album/6kfUZtJSK0pwRKQQ0sXprB"
+      },
+      "artists": [
+        {
+          "name": "Kai Angel",
+          "url": "https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108400,
+      "name": "jennifer's body",
+      "url": "https://open.spotify.com/track/0w7pNrzJC2IC3IuxDaQTVu"
+    },
+    {
+      "album": {
         "name": "JOGO DE TOLOS",
         "url": "https://open.spotify.com/album/3ra1kh1AmwAFm1jg9dwONE"
       },
@@ -11830,7 +11848,7 @@
       ],
       "date_added": "2025-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 103403,
       "name": "PASSO BEM SOLTO",
       "url": "https://open.spotify.com/track/2r5BsQ93MzyPILYaottKrG"
@@ -17834,7 +17852,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 228013,
       "name": "\u0411\u0430\u043b\u0430\u043b\u0430\u0439\u043a\u0430",
       "url": "https://open.spotify.com/track/45TKI2XRzKzwBZDoGXBblB"
@@ -20492,7 +20510,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 157200,
       "name": "\u0417\u0430\u043a\u0440\u0438\u0447\u0443 \u043d\u0430 \u0432\u0435\u0441\u044c \u043c\u0438\u0440",
       "url": "https://open.spotify.com/track/35lJ5MAI1svXOy6fuTdCLi"
@@ -22820,7 +22838,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 176500,
       "name": "\u041d\u0435 \u043f\u0440\u0443\u0442 \u043a\u043e\u043b\u0451\u0441\u0430 (prod. by Lucky)",
       "url": "https://open.spotify.com/track/6xhos61o07I2h0xl9JKKR1"
@@ -27610,7 +27628,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 100616,
       "name": "\u0425\u043e\u0447\u0443 \u0431\u044b\u0442\u044c \u0441 \u043d\u0435\u0439 \u0438 \u0432\u0441\u00eb",
       "url": "https://open.spotify.com/track/3kUbyrIRk26bdIVau5TU5X"
@@ -27766,7 +27784,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 138305,
       "name": "\u0446\u0435\u043d\u0430",
       "url": "https://open.spotify.com/track/0mXuEBzTaqYmzIovJhx20u"

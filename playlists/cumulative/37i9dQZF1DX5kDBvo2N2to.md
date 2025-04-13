@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-271 songs - 15 hr 9 min
+272 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Above Love](https://open.spotify.com/track/7pBylm1bDkNrlBzCvUoLD4) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Above Love](https://open.spotify.com/album/25vMXIp2LP75SlECzIAqMj) | 2:42 | 2024-06-28 | 2024-10-30 |
 | [Absolute Romance](https://open.spotify.com/track/4BRUTaXQsb1hWUV7tY6vei) | [Hanna Järver](https://open.spotify.com/artist/6JHabNWuD8rd3TQQtMf6Q5) | [Absolute Romance](https://open.spotify.com/album/5dqduEZyQ0G5E6wOf9HyQM) | 3:09 | 2025-02-27 | 2025-04-12 |
 | [Affären \(feat\. Dolce\)](https://open.spotify.com/track/5i4FRfsZvjO8idogUXQFWx) | [Tjejdikter](https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc), [Dolce](https://open.spotify.com/artist/6wIPycsVyFlJaHYTW8qY0T) | [Affären \(feat\. Dolce\)](https://open.spotify.com/album/2DzRKFO1sfulETwH4tE3bE) | 3:45 | 2024-08-08 | 2024-10-15 |
+| [Aldrig gå](https://open.spotify.com/track/6j4ms9XdinHYyI2a1pphoT) | [Lov1](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Aldrig gå](https://open.spotify.com/album/3yNbVa7XXNkY04WHaIFU4d) | 3:07 | 2025-04-11 |  |
 | [All My Love](https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [All My Love](https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI) | 3:07 | 2025-01-16 |  |
 | [ALL OVER](https://open.spotify.com/track/1FR6MeJQQctGXtLyGifRqh) | [Etta Zelmani](https://open.spotify.com/artist/5DtXIIm0QQSZ9mv6Ie0Ua0) | [ALL OVER](https://open.spotify.com/album/0ufEl4mTVplg46TrT5owzB) | 3:43 | 2024-06-28 | 2024-09-13 |
 | [Alla Ska Dö](https://open.spotify.com/track/42JjxAcdxkqNOkx1HpPizt) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Alla Ska Dö](https://open.spotify.com/album/4FGa0t6nw3MaVpLGs0cIif) | 2:46 | 2025-03-20 |  |
@@ -47,7 +48,7 @@
 | [Början på ingenting](https://open.spotify.com/track/03NXA2TLqt5J6sgyAI0fBK) | [Anna Järvinen](https://open.spotify.com/artist/70vrcQugFAOAtOFIW1wcyR) | [Början på ingenting](https://open.spotify.com/album/0Re4KK11HqOvM3bjr4lSZD) | 3:30 | 2024-08-22 | 2024-09-29 |
 | [C'est La Vie](https://open.spotify.com/track/53M8zOUR70Ge8XBl80lxt8) | [Lucky Lou](https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2) | [Dance Melancholia](https://open.spotify.com/album/5KJOMqOTmhEL4MwLjH72kX) | 3:22 | 2024-06-28 | 2024-09-13 |
 | [C\-60](https://open.spotify.com/track/2vUYH6wKQAGjGbTCz53ojI) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [C\-60](https://open.spotify.com/album/7Jk6ZUYXFZDkmA6lMqITer) | 1:00:00 | 2024-06-28 | 2024-08-16 |
-| [Can't Forget](https://open.spotify.com/track/4wJ4UgipPD7grD9bk6ADRd) | [Daniel Javan](https://open.spotify.com/artist/57zzhjfSo12jD4PSDCJot1), [Rivio](https://open.spotify.com/artist/3kyvBibMHNR127br0XBKDO), [Dean Andrew](https://open.spotify.com/artist/3FLv7WMZZhNVTAago3P4Xq) | [Can't Forget](https://open.spotify.com/album/5qIs8wPgtWnBmb3M5ZIDvF) | 2:32 | 2024-06-28 |  |
+| [Can't Forget](https://open.spotify.com/track/4wJ4UgipPD7grD9bk6ADRd) | [Daniel Javan](https://open.spotify.com/artist/57zzhjfSo12jD4PSDCJot1), [Rivio](https://open.spotify.com/artist/3kyvBibMHNR127br0XBKDO), [Dean Andrew](https://open.spotify.com/artist/3FLv7WMZZhNVTAago3P4Xq) | [Can't Forget](https://open.spotify.com/album/5qIs8wPgtWnBmb3M5ZIDvF) | 2:32 | 2024-06-28 | 2025-04-13 |
 | [Cardio](https://open.spotify.com/track/6TQI3pWL9dK9zCcBjG471I) | [Kissimjau](https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0) | [Cardio](https://open.spotify.com/album/3c4iD4OaMDUcsJumwh7QbC) | 3:08 | 2024-06-28 | 2025-01-17 |
 | [Catch Me](https://open.spotify.com/track/6fcSYjelzqkWWWJmaTUInf) | [Ellen Benediktson](https://open.spotify.com/artist/3IXfNkd6BwjYA48aNCPDI8) | [Catch Me](https://open.spotify.com/album/3u6hcZdiN4mvXta2LDx9Xq) | 2:57 | 2024-11-08 |  |
 | [Ce Soir?](https://open.spotify.com/track/7GoTVYMzXGwdFZBOwKlKga) | [Ängie](https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw) | [Ce Soir?](https://open.spotify.com/album/5kqT56WuYXU7Tc5TAsrOB1) | 3:18 | 2024-08-22 | 2024-11-09 |

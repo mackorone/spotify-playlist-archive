@@ -11937,6 +11937,24 @@
     },
     {
       "album": {
+        "name": "MADNESS",
+        "url": "https://open.spotify.com/album/6ScbCKX52QV5FvOIZkrV1G"
+      },
+      "artists": [
+        {
+          "name": "Drowning Pool",
+          "url": "https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215840,
+      "name": "MADNESS",
+      "url": "https://open.spotify.com/track/70F8xtqeP0nUwSKwlkNa6B"
+    },
+    {
+      "album": {
         "name": "MAGNETIC",
         "url": "https://open.spotify.com/album/1bzrE6x00bz3Q5TVizybfy"
       },
@@ -15346,7 +15364,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 204906,
       "name": "Quitter",
       "url": "https://open.spotify.com/track/6CBzAoZQxtQRijpauBTYRG"

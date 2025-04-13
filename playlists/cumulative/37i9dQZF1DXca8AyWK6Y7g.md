@@ -2,7 +2,7 @@
 
 ### [young & free](https://open.spotify.com/playlist/37i9dQZF1DXca8AyWK6Y7g)
 
-> welcome to Lydia Night's Pity Party
+> hanging out in palm springs with d4vd and Reneé \- we wish!
 
 2,345 songs - 4 day 21 hr 58 min
 

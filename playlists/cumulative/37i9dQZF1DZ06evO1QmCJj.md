@@ -4,7 +4,7 @@
 
 > This is Lola Indigo\. The essential tracks, all in one playlist.
 
-92 songs - 4 hr 45 min
+93 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [4 besos](https://open.spotify.com/track/49QwoSLuV69Fd8bwTqdZvs) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [4 besos](https://open.spotify.com/album/6Giz4BUSi7vyoEIr2NmPIC) | 3:52 | 2023-11-10 |  |
 | [ABC](https://open.spotify.com/track/70xn2qWD5C7A98bGeUVPrE) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Toy Story](https://open.spotify.com/album/0qQYLpHzoKsP2dFrdvOpOj) | 2:21 | 2023-11-10 | 2024-07-24 |
 | [AN1MAL](https://open.spotify.com/track/5KA3dYKykvZW5KBEpSTmOL) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:44 | 2023-11-10 |  |
-| [Antes Que Salga el Sol](https://open.spotify.com/track/1AMLLqsBHzMW7PYlc3mKTA) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Antes Que Salga el Sol](https://open.spotify.com/album/4oWLUBqnWFvd581POHv3pV) | 3:16 | 2023-11-10 |  |
+| [Antes Que Salga el Sol](https://open.spotify.com/track/1AMLLqsBHzMW7PYlc3mKTA) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Antes Que Salga el Sol](https://open.spotify.com/album/4oWLUBqnWFvd581POHv3pV) | 3:16 | 2023-11-10 | 2025-04-13 |
 | [Autoestima \(Feat\. Lola Indigo, Alizzz\) \- Remix](https://open.spotify.com/track/7cmRd1iwDaANckyPHSOv5V) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Autoestima \(Feat\. Lola Indigo, Alizzz\) \[Remix\]](https://open.spotify.com/album/1rQveAvG3YlWrgnySx9QUu) | 3:27 | 2023-11-10 |  |
 | [Borracha \- Remix](https://open.spotify.com/track/1lsRNW64tkv9fSZ7V0Ub2e) | [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Borracha \(Remix\)](https://open.spotify.com/album/6KiAz62idWWsLZXCsnM6t2) | 3:27 | 2023-11-10 | 2024-07-24 |
 | [CALLE](https://open.spotify.com/track/53X5FmHdNxcnZuY8YhOkgJ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas) | [CALLE](https://open.spotify.com/album/3tmWYrXOkrEF0MjxCSbZc5) | 3:42 | 2023-11-10 | 2024-07-15 |
@@ -72,6 +72,7 @@
 | [PESADILLAS](https://open.spotify.com/track/2wyfWuw4KgzAqGKS2jBQqE) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [NAVE DRAGÓN](https://open.spotify.com/album/16QJNLv3LHn3sz5CfmYX8Z) | 3:15 | 2025-04-03 |  |
 | [PESADILLAS](https://open.spotify.com/track/7HTReIcz7VKLyBWHpWqn5o) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [PESADILLAS](https://open.spotify.com/album/4IabA7t6hEqyzNiy00gDid) | 3:15 | 2024-09-15 | 2025-04-03 |
 | [Piketaison](https://open.spotify.com/track/6Oqk95NE1dakJBbO2ZaYxv) | [LUNA KI](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [CL34N](https://open.spotify.com/album/4mGvnfMaCkGXo1LHWjiOmD) | 3:01 | 2023-11-10 | 2025-01-23 |
+| [POR EL EX NO SE LLORA](https://open.spotify.com/track/1ZNLgW8KFCK695C9C5sIq7) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [QUE SED](https://open.spotify.com/album/2q6PAdBBf4L2Xpxqc3jd8b) | 2:04 | 2025-04-13 |  |
 | [Problema](https://open.spotify.com/track/4qqKKWNXXPbRX2eEi1pP8i) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [MALA](https://open.spotify.com/album/3YI2j0vFoKKdOPmJQ02ByH) | 3:01 | 2023-11-10 | 2024-05-11 |
 | [Q SOMOS?](https://open.spotify.com/track/1I1vYVy6wQvL3PHtVgv4gv) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [NAVE DRAGÓN](https://open.spotify.com/album/16QJNLv3LHn3sz5CfmYX8Z) | 3:29 | 2025-03-30 |  |
 | [Respira](https://open.spotify.com/track/1TMGfpNI1iANwJvplASSa2) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [La República](https://open.spotify.com/album/3SSr7Txt7OCcA4D31tRScH) | 3:02 | 2023-11-10 | 2025-02-16 |

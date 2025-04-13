@@ -653,6 +653,24 @@
     },
     {
       "album": {
+        "name": "Anheral Motions",
+        "url": "https://open.spotify.com/album/5RAibrix0cx1l5EDmqWuu0"
+      },
+      "artists": [
+        {
+          "name": "Frail Horizon",
+          "url": "https://open.spotify.com/artist/04KKofTtFKDuXSLzYqAVa2"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176037,
+      "name": "Anheral Motions",
+      "url": "https://open.spotify.com/track/0qP5XbQTNpzXPf43AM4fuD"
+    },
+    {
+      "album": {
         "name": "Turtle tear",
         "url": "https://open.spotify.com/album/3seQAGD75K3qac1otkGSbT"
       },
@@ -1204,7 +1222,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 182077,
       "name": "Balance Of Life",
       "url": "https://open.spotify.com/track/1Hue36yxMqCh9xX6TQ39pP"
@@ -4754,6 +4772,24 @@
       "duration_ms": 188374,
       "name": "Glaciara",
       "url": "https://open.spotify.com/track/0Ajb3AAzrWvCSo3aMW6mXt"
+    },
+    {
+      "album": {
+        "name": "Gloaming",
+        "url": "https://open.spotify.com/album/3fVy6rwQWdrbOcUCKOkZit"
+      },
+      "artists": [
+        {
+          "name": "Calil",
+          "url": "https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7"
+        }
+      ],
+      "date_added": "2025-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144062,
+      "name": "Gloaming",
+      "url": "https://open.spotify.com/track/6IpA6AJYxYi2rViFWWidXw"
     },
     {
       "album": {
@@ -9506,7 +9542,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 168000,
       "name": "Solstice Waves",
       "url": "https://open.spotify.com/track/6SFSWBUYfepFU3iNlXLPeu"

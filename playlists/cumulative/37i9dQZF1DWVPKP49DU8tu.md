@@ -4,7 +4,7 @@
 
 > Solo hit da cantare \(anche fuori dalla doccia\).
 
-409 songs - 23 hr 54 min
+410 songs - 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Bella così \- feat\. Federica Carta](https://open.spotify.com/track/3XLyyybPY2d8kLiMb8HIyA) | [Chadia Rodriguez](https://open.spotify.com/artist/4nXNT34X5GQ8yTBttXtbY6), [Federica Carta](https://open.spotify.com/artist/0vQk2DnpCtSLT8QeMbCE6L) | [Bella così \(feat\. Federica Carta\)](https://open.spotify.com/album/6pXZahER3h3wUq0h6pWqMW) | 3:48 | 2022-05-05 | 2022-07-29 |
 | [Bella e rovinata](https://open.spotify.com/track/5uPQRVuGquShCnqzuOTq4B) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Giovani](https://open.spotify.com/album/59i6L1OigHny6mYy0vGttB) | 3:20 | 2022-05-05 | 2022-07-23 |
 | [BELLA STORIA](https://open.spotify.com/track/0824Kyozhv4yBbM86aBFCG) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [BELLA STORIA](https://open.spotify.com/album/23E0NzVtxjQqCfCl7K3SKG) | 2:56 | 2022-05-05 | 2022-07-29 |
+| [Bellissima](https://open.spotify.com/track/39jxR2xnmcBbkdPX9oNzsI) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Bellissima](https://open.spotify.com/album/3I7EQQqrQ1kdZBoaNkCdY4) | 3:21 | 2025-03-10 |  |
 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-06-09 | 2023-08-19 |
 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 | 2022-05-05 | 2024-04-19 |
 | [Bleeding Love](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 4:22 | 2022-09-21 |  |
@@ -79,7 +80,7 @@
 | [Ciclone \(feat\. Elodie, Mariah, Gipsy Kings, Nicolás Reyes, Tonino Baliardo\)](https://open.spotify.com/track/2YGqtxaGdML9aM5jCwgRw9) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL), [Nicolas Reyes](https://open.spotify.com/artist/4ZEbnHVcQHXbtkOhg8mDAT), [Tonino Baliardo](https://open.spotify.com/artist/3pUWmkSef9vJOPDViYGZ5L) | [Ciclone \(feat\. Elodie, Mariah, Gipsy Kings, Nicolás Reyes, Tonino Baliardo\)](https://open.spotify.com/album/3yewMgw54k3zeeH6O1FfV2) | 3:14 | 2022-05-05 | 2022-07-29 |
 | [Cin Cin](https://open.spotify.com/track/4GoLVIAplQyplhitHFabfy) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW) | [Cin Cin](https://open.spotify.com/album/1n7hYmhADrC56P6uBrV1ZF) | 3:00 | 2022-05-05 | 2022-07-29 |
 | [Circles](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:35 | 2022-05-05 | 2023-06-10 |
-| [CLICK BOOM!](https://open.spotify.com/track/2PO4ThUKzIa4rBLsFkyInU) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [CLICK BOOM!](https://open.spotify.com/album/6PBnYwtMjAW4XqVRs9Il2l) | 3:45 | 2024-03-27 |  |
+| [CLICK BOOM!](https://open.spotify.com/track/2PO4ThUKzIa4rBLsFkyInU) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [CLICK BOOM!](https://open.spotify.com/album/6PBnYwtMjAW4XqVRs9Il2l) | 3:45 | 2024-03-27 | 2025-04-13 |
 | [Coco Chanel](https://open.spotify.com/track/1rkmJ35KkYVjPcvj00p4gi) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [Nuova Genesi](https://open.spotify.com/album/2uzbs4YFt5RGG8Y54YZMTG) | 2:24 | 2022-05-05 | 2022-07-29 |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [The Lockdown Sessions](https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC) | 3:22 | 2024-03-27 |  |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 3:22 | 2024-01-30 | 2024-03-28 |

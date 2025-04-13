@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 565541,
+  "num_followers": 565704,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/cKAAAAAAAtEl9wFJh351JqBF9rsepF",
+  "snapshot_id": "Z/hbgAAAAAC6t6F7u22OCl1kGMr5OVU7",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 107226,
-      "name": "Oxford Town",
-      "url": "https://open.spotify.com/track/7Ay1lHxhuM33NoXKsS0iom"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Time Out Of Mind",
         "url": "https://open.spotify.com/album/185DHT5SvszXRrezx3lOjt"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 211000,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/6rfGPGghQL7SJmZPXprXIc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 107226,
+      "name": "Oxford Town",
+      "url": "https://open.spotify.com/track/7Ay1lHxhuM33NoXKsS0iom"
     },
     {
       "added_at": null,

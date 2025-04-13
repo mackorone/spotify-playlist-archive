@@ -1169,6 +1169,24 @@
     },
     {
       "album": {
+        "name": "How Many Songs",
+        "url": "https://open.spotify.com/album/4cptc9RVwUSQ4UgoBqIzAI"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159104,
+      "name": "Sorry, Babe, I'm No Marlon Brando",
+      "url": "https://open.spotify.com/track/2NWaIvstLGlkoyfCPCHWYo"
+    },
+    {
+      "album": {
         "name": "The Big Red",
         "url": "https://open.spotify.com/album/3iBPheKv7XaNVu9B197jRK"
       },
@@ -1436,7 +1454,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 150887,
       "name": "Waiting For The Sun (with Ami Williamson)",
       "url": "https://open.spotify.com/track/0xO7TyJyUW9f2BvOrPMexb"

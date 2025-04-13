@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Vesterinen Yhtyeineen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,086 likes - 87 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,087 likes - 87 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gardenia](https://open.spotify.com/track/7Ih2bWlEQU3vg2s28qw607) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Gardenia](https://open.spotify.com/album/2mJ1flQ0ZAW0rdHZZUrPf3) | 4:08 |
-| 2 | [Pöllöille kyytiä](https://open.spotify.com/track/43FVVgktBO2x13dNjcecT4) | [Vesterinen Yhtyeineen](https://open.spotify.com/artist/5VqqouYMb1I1IZHzEGqkMh) | [Pöllöille kyytiä](https://open.spotify.com/album/7f3IEtFkwP1GGlRo7TgI89) | 3:25 |
+| 1 | [Pöllöille kyytiä](https://open.spotify.com/track/43FVVgktBO2x13dNjcecT4) | [Vesterinen Yhtyeineen](https://open.spotify.com/artist/5VqqouYMb1I1IZHzEGqkMh) | [Pöllöille kyytiä](https://open.spotify.com/album/7f3IEtFkwP1GGlRo7TgI89) | 3:25 |
+| 2 | [Gardenia](https://open.spotify.com/track/7Ih2bWlEQU3vg2s28qw607) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Gardenia](https://open.spotify.com/album/2mJ1flQ0ZAW0rdHZZUrPf3) | 4:08 |
 | 3 | [Seitsemän Merta](https://open.spotify.com/track/4tbcC56wiZnNNJoxMwIFqx) | [Archie Cruz](https://open.spotify.com/artist/1Ltz58a2iP9G2cOpBmaCpJ) | [Seitsemän Merta](https://open.spotify.com/album/02HsvDA4GPHkGgickLyei1) | 3:50 |
 | 4 | [Radio pois](https://open.spotify.com/track/3b9Uw8TwUEuYfXvenwi1O4) | [Saara Törmä](https://open.spotify.com/artist/04pUQBuXGMDLa4mUDKGwxQ) | [Radio pois](https://open.spotify.com/album/5hLxUUUYRUacrMaIwyOvXN) | 3:18 |
 | 5 | [Kuvat meistä kaikista](https://open.spotify.com/track/2fgUWTQ4tM6tYD4J7UvcDX) | [Samuli Putro](https://open.spotify.com/artist/7c1LwhVSjP68zgMA7iqsC6) | [Kuvat meistä kaikista](https://open.spotify.com/album/03daXfoT08QlSkuNrmUkme) | 3:31 |
 | 6 | [Tupakkaa ja rakkautta](https://open.spotify.com/track/1Ksud6DSBg0brnHcjVbm3k) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Tupakkaa ja rakkautta](https://open.spotify.com/album/55MdrXPKrFlHAKWbZKzLz6) | 3:22 |
 | 7 | [Lippissukupolven joutsenlaulu](https://open.spotify.com/track/6dGNBHryvWMOh8B9ElZdkD) | [Litku Klemetti](https://open.spotify.com/artist/3Z5GO6d7DMSBeSlNBophOR) | [Lippissukupolven joutsenlaulu](https://open.spotify.com/album/1eUKEKs1dn1OE5kYbZPLrM) | 4:27 |
-| 8 | [Kauan eläköön rakkaus](https://open.spotify.com/track/7xFKbIs8CD0tyeOMjD7zg9) | [Samu Haber](https://open.spotify.com/artist/211cqZyaBD7Wk7fAcLjsDB) | [Kauan eläköön rakkaus](https://open.spotify.com/album/3zxo9n3JW093mTb5FkwXRD) | 3:06 |
-| 9 | [Rakkaudesta](https://open.spotify.com/track/2O2TxG5yAhFUtED3PmRfLZ) | [Hauli Bros](https://open.spotify.com/artist/66Uq3qob8o3WVHKbRH6kiM) | [Rakkaudesta](https://open.spotify.com/album/7BNaFKfwhKJjb6UGn3Szvm) | 3:48 |
+| 8 | [Rakkaudesta](https://open.spotify.com/track/2O2TxG5yAhFUtED3PmRfLZ) | [Hauli Bros](https://open.spotify.com/artist/66Uq3qob8o3WVHKbRH6kiM) | [Rakkaudesta](https://open.spotify.com/album/7BNaFKfwhKJjb6UGn3Szvm) | 3:48 |
+| 9 | [Kauan eläköön rakkaus](https://open.spotify.com/track/7xFKbIs8CD0tyeOMjD7zg9) | [Samu Haber](https://open.spotify.com/artist/211cqZyaBD7Wk7fAcLjsDB) | [Kauan eläköön rakkaus](https://open.spotify.com/album/3zxo9n3JW093mTb5FkwXRD) | 3:06 |
 | 10 | [Rolling Stone](https://open.spotify.com/track/4AxYQbt2YhKzCV0KW88TMI) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Rolling Stone](https://open.spotify.com/album/3d1cnmrDYi2Lmdwogee26y) | 3:12 |
 | 11 | [Liekki palaa!](https://open.spotify.com/track/56S56MXwKORuVdb0wVy9ZU) | [Klamydia](https://open.spotify.com/artist/2BFdLtG6ivaiRqPFTgV1in) | [Liekki palaa!](https://open.spotify.com/album/5aA86D8YDUITuuhvlC3uqH) | 3:19 |
 | 12 | [Aamuihmiset](https://open.spotify.com/track/6ZaEw9vOMaKvg3WYkDQHOu) | [J\. Karjalainen](https://open.spotify.com/artist/03WFRA66hsZpJ5rqylE0vQ) | [Suomalaista muotoiluu](https://open.spotify.com/album/75be1pSUYClB92gUh4E9Ar) | 3:14 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 86 | [Tuli palaa siltojen alla](https://open.spotify.com/track/1TNO0iMLRJsdqLh0I8PJjX) | [Pyhät Nuket](https://open.spotify.com/artist/6pIwg2AXb0G7jrSsp25Fp3) | [Tuli palaa siltojen alla](https://open.spotify.com/album/2yZYW7aF8hj5RiHz9XjkUs) | 3:41 |
 | 87 | [Hellä sydän](https://open.spotify.com/track/4wzutrjgyi3Np245Bp38sc) | [MJ Kangasniemi](https://open.spotify.com/artist/6ZpIilfEvBMePnyOTFwdkj) | [Hellä sydän](https://open.spotify.com/album/7a2gHeWVoJdDPwkoxn5KxO) | 3:33 |
 
-Snapshot ID: `Z/gxkAAAAABqoWCIbnKvtBqfL2iMgy2O`
+Snapshot ID: `Z/rR+gAAAAAXVwt55sKCeTaB6xMfDr0A`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes ✨  Cover: ValsBezig
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,959 likes - 70 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,981 likes - 70 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 3 | [Niet Normaal \(feat\. Young Ellens\)](https://open.spotify.com/track/1Nw0G3wuCKenanWAQ7hIgI) | [Sjorleone](https://open.spotify.com/artist/6MrSjWpFS9A84jo0yR2nM4), [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub) | [Niet Normaal \(feat\. Young Ellens\)](https://open.spotify.com/album/4L1jWxY2lgyNhAeMjyPOfg) | 1:46 |
 | 4 | [Ben Met SRNO](https://open.spotify.com/track/75gHd5DLUJraDEGuQukMsK) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Ben Met SRNO](https://open.spotify.com/album/5b77xXOGpcgfaoHvsGVbOs) | 2:30 |
 | 5 | [Noncha](https://open.spotify.com/track/0eAi8M0qEFxa9EfCAuemKk) | [Dubbel R](https://open.spotify.com/artist/2k7e8KVpfI8vSlhhC2quhR), [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk) | [Noncha](https://open.spotify.com/album/24JYo2Oexp5FVyvSpFVWNQ) | 3:18 |
-| 6 | [Feelings](https://open.spotify.com/track/5jB0Q9ZPsfyrT0oSAt04Ug) | [Lucky Jones](https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [Feelings](https://open.spotify.com/album/55s6eEr4iqNuZWfwAcrQzN) | 2:49 |
+| 6 | [Feelings](https://open.spotify.com/track/5jB0Q9ZPsfyrT0oSAt04Ug) | [Lucky Jones](https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Feelings](https://open.spotify.com/album/55s6eEr4iqNuZWfwAcrQzN) | 2:49 |
 | 7 | [Ban Biba](https://open.spotify.com/track/1roGfj3v1T6gLpfCkycf6Q) | [Udi Mars](https://open.spotify.com/artist/2EqLmeAXEqGuGQIdqXAcgi), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [Ban Biba](https://open.spotify.com/album/4gVdHrkSUboqIPS9KlDN34) | 2:06 |
 | 8 | [Queen's Spa](https://open.spotify.com/track/0YsNT72PK2dv5FEWRbpCRF) | [Romano Santino](https://open.spotify.com/artist/1FqLsYuVoYhNIhUj1gQmzU), [Saaff](https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ) | [Queen's Spa](https://open.spotify.com/album/4ojZLKgEnAdVAgXIrZcAn0) | 2:08 |
 | 9 | [NINAO](https://open.spotify.com/track/5lXLzaZoj4j4hfCYO687bN) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [NINAO](https://open.spotify.com/album/7mcrW5GLhiY9RbNJzAIzRk) | 2:47 |

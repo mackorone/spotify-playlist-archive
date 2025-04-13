@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: Sophie Straat",
-  "num_followers": 10200,
+  "num_followers": 10204,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2025-04-11 11:11:26",
       "album": {
-        "name": "Ik Heb Tijd",
-        "url": "https://open.spotify.com/album/0UmqecBUudgRkeagngDkd9"
-      },
-      "artists": [
-        {
-          "name": "WIES",
-          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
-        }
-      ],
-      "duration_ms": 196900,
-      "name": "Ik Heb Tijd",
-      "url": "https://open.spotify.com/track/7qXpqAZIeaqKh1VA9XbQVh"
-    },
-    {
-      "added_at": "2025-04-11 11:11:26",
-      "album": {
         "name": "2 HIGH 2 SOCIETY",
         "url": "https://open.spotify.com/album/4F9UoGdfxO0yy3nXFv5hbE"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 199466,
       "name": "Spookstad",
       "url": "https://open.spotify.com/track/1hBT3YVAygNFTSP3ntqzp4"
+    },
+    {
+      "added_at": "2025-04-11 11:11:26",
+      "album": {
+        "name": "Ik Heb Tijd",
+        "url": "https://open.spotify.com/album/0UmqecBUudgRkeagngDkd9"
+      },
+      "artists": [
+        {
+          "name": "WIES",
+          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
+        }
+      ],
+      "duration_ms": 196900,
+      "name": "Ik Heb Tijd",
+      "url": "https://open.spotify.com/track/7qXpqAZIeaqKh1VA9XbQVh"
     },
     {
       "added_at": "2025-04-11 11:11:26",
@@ -323,18 +323,18 @@
     {
       "added_at": "2025-04-11 11:11:26",
       "album": {
-        "name": "kleine auto, grote hot wheel",
-        "url": "https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP"
+        "name": "De Tijd",
+        "url": "https://open.spotify.com/album/4HckpkaqP3McpKkcscRbcr"
       },
       "artists": [
         {
-          "name": "De Toegift",
-          "url": "https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs"
+          "name": "Flaire",
+          "url": "https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH"
         }
       ],
-      "duration_ms": 265997,
-      "name": "dichtbij, veraf",
-      "url": "https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF"
+      "duration_ms": 213336,
+      "name": "De Tijd",
+      "url": "https://open.spotify.com/track/3S4ag2mjZWA7rxrhWWc1D3"
     },
     {
       "added_at": "2025-04-11 11:11:26",
@@ -351,6 +351,22 @@
       "duration_ms": 162694,
       "name": "Mijn Haren Ruiken Naar Vuur",
       "url": "https://open.spotify.com/track/4RM0MtCdgCQfypBVBGxX4f"
+    },
+    {
+      "added_at": "2025-04-11 11:11:26",
+      "album": {
+        "name": "kleine auto, grote hot wheel",
+        "url": "https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP"
+      },
+      "artists": [
+        {
+          "name": "De Toegift",
+          "url": "https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs"
+        }
+      ],
+      "duration_ms": 265997,
+      "name": "dichtbij, veraf",
+      "url": "https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF"
     },
     {
       "added_at": "2025-04-11 11:11:26",
@@ -435,22 +451,6 @@
     {
       "added_at": "2025-04-11 11:11:26",
       "album": {
-        "name": "Eclips",
-        "url": "https://open.spotify.com/album/3OvOekPYYw1vNvyAQKSo4l"
-      },
-      "artists": [
-        {
-          "name": "Maan",
-          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
-        }
-      ],
-      "duration_ms": 206154,
-      "name": "Soms Regen Ik Ook",
-      "url": "https://open.spotify.com/track/0tXcrwN1RTLT84LOdbeCxp"
-    },
-    {
-      "added_at": "2025-04-11 11:11:26",
-      "album": {
         "name": "Privilege",
         "url": "https://open.spotify.com/album/6gsH7vfaUl3k5nCUzXlKZr"
       },
@@ -463,6 +463,22 @@
       "duration_ms": 118666,
       "name": "Privilege",
       "url": "https://open.spotify.com/track/3gwaFleOpagO6aYVfFmw5r"
+    },
+    {
+      "added_at": "2025-04-11 11:11:26",
+      "album": {
+        "name": "Eclips",
+        "url": "https://open.spotify.com/album/3OvOekPYYw1vNvyAQKSo4l"
+      },
+      "artists": [
+        {
+          "name": "Maan",
+          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
+        }
+      ],
+      "duration_ms": 206154,
+      "name": "Soms Regen Ik Ook",
+      "url": "https://open.spotify.com/track/0tXcrwN1RTLT84LOdbeCxp"
     },
     {
       "added_at": "2025-04-11 11:11:26",
@@ -515,6 +531,22 @@
     {
       "added_at": "2025-04-11 11:11:26",
       "album": {
+        "name": "Het Outro",
+        "url": "https://open.spotify.com/album/2ERyEdzLAJEyia7NzuHImY"
+      },
+      "artists": [
+        {
+          "name": "Sophie Straat",
+          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
+        }
+      ],
+      "duration_ms": 200223,
+      "name": "Het Outro",
+      "url": "https://open.spotify.com/track/6bk3p646tz37ZqL0k3gDfe"
+    },
+    {
+      "added_at": "2025-04-11 11:11:26",
+      "album": {
         "name": "Vager!",
         "url": "https://open.spotify.com/album/5zRCPSHsRjT9thKatrwc1J"
       },
@@ -531,22 +563,6 @@
       "duration_ms": 132727,
       "name": "Vager!",
       "url": "https://open.spotify.com/track/5llK2C03HqHJ7NM8ixKwYD"
-    },
-    {
-      "added_at": "2025-04-11 11:11:26",
-      "album": {
-        "name": "Het Outro",
-        "url": "https://open.spotify.com/album/2ERyEdzLAJEyia7NzuHImY"
-      },
-      "artists": [
-        {
-          "name": "Sophie Straat",
-          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
-        }
-      ],
-      "duration_ms": 200223,
-      "name": "Het Outro",
-      "url": "https://open.spotify.com/track/6bk3p646tz37ZqL0k3gDfe"
     },
     {
       "added_at": "2025-04-11 11:11:26",
@@ -599,22 +615,6 @@
     {
       "added_at": "2025-04-11 11:11:26",
       "album": {
-        "name": "Als Je Nog Wil",
-        "url": "https://open.spotify.com/album/7cqBNb3K8Uexr8KfEDyM6d"
-      },
-      "artists": [
-        {
-          "name": "Aarde aan Daan",
-          "url": "https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf"
-        }
-      ],
-      "duration_ms": 203264,
-      "name": "Als Je Nog Wil",
-      "url": "https://open.spotify.com/track/0Ead0P4QxEndPROj1rNrGT"
-    },
-    {
-      "added_at": "2025-04-11 11:11:26",
-      "album": {
         "name": "Wind In De Zeilen",
         "url": "https://open.spotify.com/album/1Vcc1C8T9ktEhGmmlx8A0D"
       },
@@ -647,18 +647,18 @@
     {
       "added_at": "2025-04-11 11:11:26",
       "album": {
-        "name": "Spijbelaar",
-        "url": "https://open.spotify.com/album/455RrTsNFiMvIXPXt68RQQ"
+        "name": "Als Je Nog Wil",
+        "url": "https://open.spotify.com/album/7cqBNb3K8Uexr8KfEDyM6d"
       },
       "artists": [
         {
-          "name": "Spijbelaar",
-          "url": "https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP"
+          "name": "Aarde aan Daan",
+          "url": "https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf"
         }
       ],
-      "duration_ms": 216582,
-      "name": "Alleen",
-      "url": "https://open.spotify.com/track/6qtYJkBV6sSKUnHejbyUsC"
+      "duration_ms": 203264,
+      "name": "Als Je Nog Wil",
+      "url": "https://open.spotify.com/track/0Ead0P4QxEndPROj1rNrGT"
     },
     {
       "added_at": "2025-04-11 11:11:26",
@@ -675,6 +675,22 @@
       "duration_ms": 209532,
       "name": "De Grens Tussen Ons",
       "url": "https://open.spotify.com/track/5jWLxOSU7WWpcNnPNbhCwz"
+    },
+    {
+      "added_at": "2025-04-11 11:11:26",
+      "album": {
+        "name": "Spijbelaar",
+        "url": "https://open.spotify.com/album/455RrTsNFiMvIXPXt68RQQ"
+      },
+      "artists": [
+        {
+          "name": "Spijbelaar",
+          "url": "https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP"
+        }
+      ],
+      "duration_ms": 216582,
+      "name": "Alleen",
+      "url": "https://open.spotify.com/track/6qtYJkBV6sSKUnHejbyUsC"
     },
     {
       "added_at": "2025-04-11 11:11:26",
@@ -803,22 +819,6 @@
       "duration_ms": 235704,
       "name": "Filmster",
       "url": "https://open.spotify.com/track/33hQTFcIB1w2NTGSXwnvAj"
-    },
-    {
-      "added_at": "2025-04-11 11:11:26",
-      "album": {
-        "name": "IJsberen",
-        "url": "https://open.spotify.com/album/5P3AdiAPxDSNHhyeXfsGT5"
-      },
-      "artists": [
-        {
-          "name": "puntjudith",
-          "url": "https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d"
-        }
-      ],
-      "duration_ms": 182044,
-      "name": "IJsberen",
-      "url": "https://open.spotify.com/track/365zVvWp1vTZ7zLOeVZ3Uz"
     }
   ],
   "unique_name": "indie.nl",

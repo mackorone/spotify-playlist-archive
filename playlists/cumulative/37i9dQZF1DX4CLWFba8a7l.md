@@ -4,11 +4,11 @@
 
 > In this house we celebrate Australian music\. Cover: Spacey Jane
 
-235 songs - 13 hr 10 min
+236 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1 DAY 2 LATE](https://open.spotify.com/track/5akUW2aUdnNs3Y0Ohn560G) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [GEMINI](https://open.spotify.com/album/43s8J7Tru8j2shoOtFs0N8) | 3:37 | 2025-02-20 |  |
+| [1 DAY 2 LATE](https://open.spotify.com/track/5akUW2aUdnNs3Y0Ohn560G) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [GEMINI](https://open.spotify.com/album/43s8J7Tru8j2shoOtFs0N8) | 3:37 | 2025-02-20 | 2025-04-13 |
 | [24 Hours in Paris](https://open.spotify.com/track/669mVgiLz39msLj9dDsGBK) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [24 Hours in Paris](https://open.spotify.com/album/3qK46m8uJIkTlIG1ZhZwha) | 3:00 | 2024-06-06 | 2024-09-07 |
 | [24/7](https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [24/7](https://open.spotify.com/album/3fdSaSpVjuR85yKGiGivd3) | 2:30 | 2024-05-31 | 2025-04-05 |
 | [92 Purebred](https://open.spotify.com/track/5rQH27Qh7corQhEXPbXfka) | [Ruby Fields](https://open.spotify.com/artist/1nwPEi1UZdJtCxBqATpsq3) | [92 Purebred](https://open.spotify.com/album/6glzz5fov8Io6RKLQHkdU3) | 3:22 | 2025-01-23 | 2025-03-05 |
@@ -81,6 +81,7 @@
 | [Eulogy](https://open.spotify.com/track/0OWyJzSLWlM3WZhl7IfYc6) | [Ayesha Madon](https://open.spotify.com/artist/4VnDOpK4rdMBMihlIt6Uxr) | [Eulogy](https://open.spotify.com/album/00jDeAf7t2dmbMKtxEniMA) | 3:32 | 2024-05-31 | 2024-07-24 |
 | [Everyone Will See It](https://open.spotify.com/track/1m0KHgKO5q5jpttt0m3ESO) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Everyone Will See It](https://open.spotify.com/album/5dR2HScThHzyN9wggxsl8x) | 3:24 | 2025-02-06 | 2025-04-09 |
 | [Fall Back](https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Fall Back / Selfish Game](https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR) | 2:09 | 2024-05-31 |  |
+| [Family](https://open.spotify.com/track/7CzKTho2uvyJdOJjbOVLth) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Family](https://open.spotify.com/album/5Jl5KG2TbdoiJ7DU05QRvo) | 3:05 | 2025-04-10 |  |
 | [Field of Vision](https://open.spotify.com/track/1DXFQFDYeOW3cZPam0LXTd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Field of Vision](https://open.spotify.com/album/1WzXtuf2SaxT3CsPFrf8d0) | 3:35 | 2024-08-08 | 2024-09-25 |
 | [Fingerprints](https://open.spotify.com/track/4kAlUfeHA7oxVKPs823Goj) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Fingerprints](https://open.spotify.com/album/6G5sqLGZw37y6V1ZsFQrBv) | 3:10 | 2024-05-31 | 2024-11-22 |
 | [Freckles](https://open.spotify.com/track/4xL8sLKGblXvvIUJb4kEQV) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Freckles](https://open.spotify.com/album/3qBdcWx8e9slG982z16f47) | 2:59 | 2024-08-30 | 2024-10-28 |

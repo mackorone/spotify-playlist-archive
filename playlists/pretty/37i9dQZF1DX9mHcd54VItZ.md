@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/track/164h7iFIdZOec4AO1CvhGh?si=f2d4df92b0744287">Vreemd</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,993 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,001 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 20 | [Bietjie Luck](https://open.spotify.com/track/7gw6nTvJtjRZ2bgz9yXSds) | [Christopher Snow](https://open.spotify.com/artist/5xAgmNCEBAkq8X6nH6wsJv) | [Bietjie Luck](https://open.spotify.com/album/1qJFuQ8QHbfDdPn9Qt82Lq) | 3:15 |
 | 21 | [Jou Tyd Is Nou](https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Jou Tyd Is Nou](https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs) | 3:14 |
 | 22 | [Sonskyn Vrou](https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl) | [Hendré Baard](https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R) | [Sonskyn Vrou](https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1) | 4:26 |
-| 23 | [Victor Ludorum](https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Victor Ludorum](https://open.spotify.com/album/53bANzS97yzookNh9mNnm3) | 3:09 |
-| 24 | [Kan Ek Met Jou Dans](https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Bloeisels](https://open.spotify.com/album/21Wolo015jpmELBve2nf8E) | 3:22 |
+| 23 | [Kan Ek Met Jou Dans](https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Bloeisels](https://open.spotify.com/album/21Wolo015jpmELBve2nf8E) | 3:22 |
+| 24 | [Victor Ludorum](https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Victor Ludorum](https://open.spotify.com/album/53bANzS97yzookNh9mNnm3) | 3:09 |
 | 25 | [Wonder](https://open.spotify.com/track/18bCdBZVIjfYwVtd8FUqyN) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Eindbestemming](https://open.spotify.com/album/2rTAdgIxkg52eAzq3Ev6I7) | 2:45 |
 | 26 | [Judas Mind \- edit](https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Judas Mind](https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl) | 4:04 |
 | 27 | [Fok Jou](https://open.spotify.com/track/3gjE2fU1aAjumf4SKEZTTN) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Fok Jou](https://open.spotify.com/album/6TlCuwtOBbYPRjktVIKscV) | 3:30 |
@@ -41,17 +41,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 31 | [Berge](https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Berge](https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE) | 4:15 |
 | 32 | [Die Dood Is Blou](https://open.spotify.com/track/5v6s3vYnADMh18n2lX4K4I) | [L!SA](https://open.spotify.com/artist/7mS1L11vTDofWkmMEs5aVm) | [Die Dood Is Blou](https://open.spotify.com/album/66nEhtrNE7G3RE7rXbNEob) | 2:38 |
 | 33 | [Die Brug](https://open.spotify.com/track/0MozIJQu2CAVWogDilKDKj) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Die Brug](https://open.spotify.com/album/0yC6sDUuyb6T1rf0ruJjwA) | 3:30 |
-| 34 | [Oor Jou](https://open.spotify.com/track/2y2Fx9kG3SBmAwSDNrZE0o) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Oor Jou](https://open.spotify.com/album/0GKkRhtRDRjjj10Poa4bQi) | 3:58 |
+| 34 | [Jonk](https://open.spotify.com/track/6mvqpG4fn6WNSdxsRnNoen) | [Tuimeltrein](https://open.spotify.com/artist/5FZPyeJJIsm4Js3HqzXNJR) | [Jonk](https://open.spotify.com/album/5RgkJKG63Na296u6IVvVjP) | 3:20 |
 | 35 | [As Ek Weet Hoe](https://open.spotify.com/track/6fSMqjzoFbtLglXIPEfUq9) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [As Ek Weet Hoe](https://open.spotify.com/album/6n28TRByeJbf127qzic7Qg) | 2:51 |
-| 36 | [Ware Noord](https://open.spotify.com/track/0Q5EE4R2qjXN0DBARGGxUk) | [Elvis Blue](https://open.spotify.com/artist/66TsrRnVkNfvLgLemHCLaJ) | [Ware Noord](https://open.spotify.com/album/1BGCuXGsGwL6f2QjhpwnO2) | 3:36 |
-| 37 | [Jonk](https://open.spotify.com/track/6mvqpG4fn6WNSdxsRnNoen) | [Tuimeltrein](https://open.spotify.com/artist/5FZPyeJJIsm4Js3HqzXNJR) | [Jonk](https://open.spotify.com/album/5RgkJKG63Na296u6IVvVjP) | 3:20 |
+| 36 | [Oor Jou](https://open.spotify.com/track/2y2Fx9kG3SBmAwSDNrZE0o) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Oor Jou](https://open.spotify.com/album/0GKkRhtRDRjjj10Poa4bQi) | 3:58 |
+| 37 | [Ware Noord](https://open.spotify.com/track/0Q5EE4R2qjXN0DBARGGxUk) | [Elvis Blue](https://open.spotify.com/artist/66TsrRnVkNfvLgLemHCLaJ) | [Ware Noord](https://open.spotify.com/album/1BGCuXGsGwL6f2QjhpwnO2) | 3:36 |
 | 38 | [Klou](https://open.spotify.com/track/0vHXnZi0613Cbcer0sBbHR) | [Dierbaar](https://open.spotify.com/artist/4Zo7cwbO8wSBCwf6pncuUt) | [Klou](https://open.spotify.com/album/6kDrC8UsLAbIUim82ViM7y) | 3:35 |
 | 39 | [Change](https://open.spotify.com/track/6C4VkYbuUh13rTCrnrYfyv) | [GRANGE](https://open.spotify.com/artist/3E82Y3u4xMJqadI1AkzvSb) | [Change](https://open.spotify.com/album/3RFMCxQUQxxL3lydudnfah) | 3:59 |
 | 40 | [Keep you here](https://open.spotify.com/track/05qFXEqMQcfktikZlWIqye) | [Phil Higgins](https://open.spotify.com/artist/1qStsFr93Vdc1UhLWhwXFq) | [Keep you here](https://open.spotify.com/album/35vJcTu8WqS3A4Uie8Vfsr) | 3:09 |
 | 41 | [Against All Odds](https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW) | [aKING](https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5) | [Against All Odds](https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu) | 2:55 |
 | 42 | [Ghost Rider](https://open.spotify.com/track/7yY19ftTx7KgHBnAvpWBXx) | [Saarkie](https://open.spotify.com/artist/1ZuXFw4O5v2QaNNxZki6Qf) | [Ghost Rider](https://open.spotify.com/album/0LDEZkdEjgsc4xyvWtEuY6) | 2:37 |
-| 43 | [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 |
-| 44 | [Die Drie Varkies](https://open.spotify.com/track/18wDnlP7jU4fUWTyGDYdY9) | [Jakkie Louw](https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG) | [Die Drie Varkies](https://open.spotify.com/album/0AUyCXdFxs9hHfc5T0Ng7B) | 2:47 |
+| 43 | [Die Drie Varkies](https://open.spotify.com/track/18wDnlP7jU4fUWTyGDYdY9) | [Jakkie Louw](https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG) | [Die Drie Varkies](https://open.spotify.com/album/0AUyCXdFxs9hHfc5T0Ng7B) | 2:47 |
+| 44 | [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 |
 | 45 | [All This Doing Is Your Own!](https://open.spotify.com/track/440w0VCLUzPBhFRVx5znhh) | [Naranjo](https://open.spotify.com/artist/5tf0q9ZsmkmaTYIxfJjsBW) | [All This Doing Is Your Own!](https://open.spotify.com/album/3jzHPVEaaIH00h8BXjq264) | 4:56 |
 | 46 | [Loopdop](https://open.spotify.com/track/3HBDVe4cy78xRREk0HMb6r) | [MJ Nel](https://open.spotify.com/artist/0f26xBbgdKK8R4sD6vFO4A), [Ou Tekkies](https://open.spotify.com/artist/2uUXZoTBe7AQhZ9kVAaPOb) | [Loopdop](https://open.spotify.com/album/3JFCqg5ukbSwDetRqzIsmg) | 3:33 |
 | 47 | [Lonely\-lonely](https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a) | [The Narrow](https://open.spotify.com/artist/00hP5aJk3HbvFpXzcBeSl3) | [Travellers \(Special Edition\)](https://open.spotify.com/album/2nU99tM1MTNt0kbnatGJ9z) | 4:03 |

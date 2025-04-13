@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour. ",
-  "num_followers": 24111,
+  "num_followers": 24120,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-04-04 03:00:19",
       "album": {
-        "name": "YASS",
-        "url": "https://open.spotify.com/album/7iZXMSMM0P3VNTsIx8Xfjy"
-      },
-      "artists": [
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        }
-      ],
-      "duration_ms": 185390,
-      "name": "HAT TRICK",
-      "url": "https://open.spotify.com/track/1dLUkI78UJyPZgcP3t9XUd"
-    },
-    {
-      "added_at": "2025-04-04 03:00:19",
-      "album": {
         "name": "Vamos a Destruir",
         "url": "https://open.spotify.com/album/0D04Gwef4aeN5bEGzsvenm"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 250621,
       "name": "Cangrejal",
       "url": "https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr"
+    },
+    {
+      "added_at": "2025-04-04 03:00:19",
+      "album": {
+        "name": "YASS",
+        "url": "https://open.spotify.com/album/7iZXMSMM0P3VNTsIx8Xfjy"
+      },
+      "artists": [
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        }
+      ],
+      "duration_ms": 185390,
+      "name": "HAT TRICK",
+      "url": "https://open.spotify.com/track/1dLUkI78UJyPZgcP3t9XUd"
     },
     {
       "added_at": "2025-04-04 03:00:19",
@@ -371,26 +371,6 @@
     {
       "added_at": "2025-04-04 03:00:19",
       "album": {
-        "name": "Mi Verano Oscuro",
-        "url": "https://open.spotify.com/album/1sy7k2IzwSt2z2NoOXjUsp"
-      },
-      "artists": [
-        {
-          "name": "El Culto Casero",
-          "url": "https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW"
-        },
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 197005,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/74W7TUPaRUOQgIj60HAcCh"
-    },
-    {
-      "added_at": "2025-04-04 03:00:19",
-      "album": {
         "name": "Medalla De Oro A La Mejor Canci\u00f3n De Amor",
         "url": "https://open.spotify.com/album/3SHCY55PM5ueF7hoiFspgN"
       },
@@ -411,6 +391,26 @@
     {
       "added_at": "2025-04-04 03:00:19",
       "album": {
+        "name": "Mi Verano Oscuro",
+        "url": "https://open.spotify.com/album/1sy7k2IzwSt2z2NoOXjUsp"
+      },
+      "artists": [
+        {
+          "name": "El Culto Casero",
+          "url": "https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW"
+        },
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 197005,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/74W7TUPaRUOQgIj60HAcCh"
+    },
+    {
+      "added_at": "2025-04-04 03:00:19",
+      "album": {
         "name": "Yo Me Quedo / Todo El Bien",
         "url": "https://open.spotify.com/album/1FXcQJgH3C44yfym4BD7cz"
       },
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-04-04 03:00:19",
       "album": {
-        "name": "Pacto",
-        "url": "https://open.spotify.com/album/2Pd0XykNsGJq2ggeAik68R"
-      },
-      "artists": [
-        {
-          "name": "Rocco Posca",
-          "url": "https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd"
-        }
-      ],
-      "duration_ms": 183879,
-      "name": "Pacto",
-      "url": "https://open.spotify.com/track/2b1oQoFENaMpI0rB3wqs26"
-    },
-    {
-      "added_at": "2025-04-04 03:00:19",
-      "album": {
         "name": "No Te Vayas",
         "url": "https://open.spotify.com/album/4AN4iblZpIuH4xGM8NT4uT"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 144341,
       "name": "No Te Vayas",
       "url": "https://open.spotify.com/track/2jUBJI2rdKGtVXqjKnuf5b"
+    },
+    {
+      "added_at": "2025-04-04 03:00:19",
+      "album": {
+        "name": "Pacto",
+        "url": "https://open.spotify.com/album/2Pd0XykNsGJq2ggeAik68R"
+      },
+      "artists": [
+        {
+          "name": "Rocco Posca",
+          "url": "https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd"
+        }
+      ],
+      "duration_ms": 183879,
+      "name": "Pacto",
+      "url": "https://open.spotify.com/track/2b1oQoFENaMpI0rB3wqs26"
     },
     {
       "added_at": "2025-04-04 03:00:19",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-04-04 03:00:19",
       "album": {
-        "name": "La Concentraci\u00f3n",
-        "url": "https://open.spotify.com/album/6bbUZ2qsqrYUZT3lJh5xVX"
-      },
-      "artists": [
-        {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
-        }
-      ],
-      "duration_ms": 249587,
-      "name": "La Concentraci\u00f3n",
-      "url": "https://open.spotify.com/track/2QGFVU0pCEBT2DKXcUzARu"
-    },
-    {
-      "added_at": "2025-04-04 03:00:19",
-      "album": {
         "name": "Frutillas con Crema",
         "url": "https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 162605,
       "name": "Frutillas con Crema",
       "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
+    },
+    {
+      "added_at": "2025-04-04 03:00:19",
+      "album": {
+        "name": "La Concentraci\u00f3n",
+        "url": "https://open.spotify.com/album/6bbUZ2qsqrYUZT3lJh5xVX"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "duration_ms": 249587,
+      "name": "La Concentraci\u00f3n",
+      "url": "https://open.spotify.com/track/2QGFVU0pCEBT2DKXcUzARu"
     },
     {
       "added_at": "2025-04-04 03:00:19",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-04-04 03:00:19",
       "album": {
-        "name": "A Veces Casi",
-        "url": "https://open.spotify.com/album/38wSM3BSPWuQDjVudCPawT"
-      },
-      "artists": [
-        {
-          "name": "Viva Elastico",
-          "url": "https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ"
-        }
-      ],
-      "duration_ms": 180163,
-      "name": "A Veces Casi",
-      "url": "https://open.spotify.com/track/2C2xrk4D9xZTtnQHaBeSyj"
-    },
-    {
-      "added_at": "2025-04-04 03:00:19",
-      "album": {
         "name": "No Los Pueden Separar",
         "url": "https://open.spotify.com/album/3UQL0qaEoWlzrDcK1W7Z6j"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 142147,
       "name": "No Los Pueden Separar",
       "url": "https://open.spotify.com/track/7oJgGoOiDOYcwvGkQswzbO"
+    },
+    {
+      "added_at": "2025-04-04 03:00:19",
+      "album": {
+        "name": "A Veces Casi",
+        "url": "https://open.spotify.com/album/38wSM3BSPWuQDjVudCPawT"
+      },
+      "artists": [
+        {
+          "name": "Viva Elastico",
+          "url": "https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ"
+        }
+      ],
+      "duration_ms": 180163,
+      "name": "A Veces Casi",
+      "url": "https://open.spotify.com/track/2C2xrk4D9xZTtnQHaBeSyj"
     },
     {
       "added_at": "2025-04-04 03:00:19",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-04-04 03:00:19",
       "album": {
-        "name": "Caminar en Cristal",
-        "url": "https://open.spotify.com/album/3VurkmLzOWr3KDCUbTSC5S"
-      },
-      "artists": [
-        {
-          "name": "Catalina Ammaturo",
-          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
-        }
-      ],
-      "duration_ms": 144071,
-      "name": "Caminar en Cristal",
-      "url": "https://open.spotify.com/track/4YlHkunt4qLnQy1Gtvivlb"
-    },
-    {
-      "added_at": "2025-04-04 03:00:19",
-      "album": {
         "name": "Una Comedia Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 224031,
       "name": "Son\u00e1mbulos",
       "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
+    },
+    {
+      "added_at": "2025-04-04 03:00:19",
+      "album": {
+        "name": "Caminar en Cristal",
+        "url": "https://open.spotify.com/album/3VurkmLzOWr3KDCUbTSC5S"
+      },
+      "artists": [
+        {
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
+        }
+      ],
+      "duration_ms": 144071,
+      "name": "Caminar en Cristal",
+      "url": "https://open.spotify.com/track/4YlHkunt4qLnQy1Gtvivlb"
     },
     {
       "added_at": "2025-04-04 03:00:19",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-04-04 03:00:19",
       "album": {
-        "name": "Traicionarse",
-        "url": "https://open.spotify.com/album/3U7I3y7jTE2IRQp7n7mfeU"
-      },
-      "artists": [
-        {
-          "name": "Los Animales Tambi\u00e9n Se Suicidan",
-          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
-        }
-      ],
-      "duration_ms": 193206,
-      "name": "Traicionarse",
-      "url": "https://open.spotify.com/track/0qG3gzcSJSs80Ln7kHPiIL"
-    },
-    {
-      "added_at": "2025-04-04 03:00:19",
-      "album": {
         "name": "Sombra de Tibur\u00f3n",
         "url": "https://open.spotify.com/album/3D1JEn6aDdEfqz9eBx47W4"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 195410,
       "name": "Malos Sentimientos",
       "url": "https://open.spotify.com/track/67oBvYeZMkNctGAiXELHVe"
+    },
+    {
+      "added_at": "2025-04-04 03:00:19",
+      "album": {
+        "name": "Traicionarse",
+        "url": "https://open.spotify.com/album/3U7I3y7jTE2IRQp7n7mfeU"
+      },
+      "artists": [
+        {
+          "name": "Los Animales Tambi\u00e9n Se Suicidan",
+          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
+        }
+      ],
+      "duration_ms": 193206,
+      "name": "Traicionarse",
+      "url": "https://open.spotify.com/track/0qG3gzcSJSs80Ln7kHPiIL"
     },
     {
       "added_at": "2025-04-04 03:00:19",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-04-04 03:00:19",
       "album": {
-        "name": "Losers' Paradise",
-        "url": "https://open.spotify.com/album/0nWLiIqkHQ2LmgkUJ9SwhJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Vin",
-          "url": "https://open.spotify.com/artist/11LJcIdoTUeF7PtDwd5TUc"
-        }
-      ],
-      "duration_ms": 210750,
-      "name": "Losers' Paradise",
-      "url": "https://open.spotify.com/track/529Hflo1AuaNdEoOmA0ELu"
-    },
-    {
-      "added_at": "2025-04-04 03:00:19",
-      "album": {
         "name": "Vandalismo Comparado",
         "url": "https://open.spotify.com/album/1gN1fgqgy9K0nwAZ5KDrXM"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 135189,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/5p6jtFVPyD5H52tm7upueg"
+    },
+    {
+      "added_at": "2025-04-04 03:00:19",
+      "album": {
+        "name": "Losers' Paradise",
+        "url": "https://open.spotify.com/album/0nWLiIqkHQ2LmgkUJ9SwhJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Vin",
+          "url": "https://open.spotify.com/artist/11LJcIdoTUeF7PtDwd5TUc"
+        }
+      ],
+      "duration_ms": 210750,
+      "name": "Losers' Paradise",
+      "url": "https://open.spotify.com/track/529Hflo1AuaNdEoOmA0ELu"
     },
     {
       "added_at": "2025-04-04 03:00:19",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2025-04-04 03:00:19",
       "album": {
+        "name": "El Buen Fantasma",
+        "url": "https://open.spotify.com/album/48hbGU7bm2fKzJhoYfI0fA"
+      },
+      "artists": [
+        {
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+        }
+      ],
+      "duration_ms": 179539,
+      "name": "El Buen Fantasma",
+      "url": "https://open.spotify.com/track/7iLbWqKcFMp5uCxXqDjihM"
+    },
+    {
+      "added_at": "2025-04-04 03:00:19",
+      "album": {
         "name": "Estoy Bien",
         "url": "https://open.spotify.com/album/4EWSzR5GPHL14zrLrh7YS8"
       },
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2025-04-04 03:00:19",
       "album": {
-        "name": "El Buen Fantasma",
-        "url": "https://open.spotify.com/album/48hbGU7bm2fKzJhoYfI0fA"
-      },
-      "artists": [
-        {
-          "name": "Tigre Ulli",
-          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
-        }
-      ],
-      "duration_ms": 179539,
-      "name": "El Buen Fantasma",
-      "url": "https://open.spotify.com/track/7iLbWqKcFMp5uCxXqDjihM"
-    },
-    {
-      "added_at": "2025-04-04 03:00:19",
-      "album": {
         "name": "Distintas Frecuencias",
         "url": "https://open.spotify.com/album/4t6JL7GsAjzeURvUwA5rJs"
       },
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-04-04 03:00:19",
       "album": {
-        "name": "El Invierno",
-        "url": "https://open.spotify.com/album/3vwJWdVtc1VqpnqJbYgHgO"
-      },
-      "artists": [
-        {
-          "name": "Bifes con ensalada",
-          "url": "https://open.spotify.com/artist/65HV0X2MrHeNzgCEfruD3Y"
-        }
-      ],
-      "duration_ms": 200487,
-      "name": "El Invierno",
-      "url": "https://open.spotify.com/track/1woOd60HeP3wtjZywXQjhp"
-    },
-    {
-      "added_at": "2025-04-04 03:00:19",
-      "album": {
         "name": "Otra Galaxia",
         "url": "https://open.spotify.com/album/5RRNnY4IDP1uYewz5AzB1V"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 189940,
       "name": "Otra Galaxia",
       "url": "https://open.spotify.com/track/1VVlUSD40U9aOZAiFB0E7k"
+    },
+    {
+      "added_at": "2025-04-04 03:00:19",
+      "album": {
+        "name": "El Invierno",
+        "url": "https://open.spotify.com/album/3vwJWdVtc1VqpnqJbYgHgO"
+      },
+      "artists": [
+        {
+          "name": "Bifes con ensalada",
+          "url": "https://open.spotify.com/artist/65HV0X2MrHeNzgCEfruD3Y"
+        }
+      ],
+      "duration_ms": 200487,
+      "name": "El Invierno",
+      "url": "https://open.spotify.com/track/1woOd60HeP3wtjZywXQjhp"
     },
     {
       "added_at": "2025-04-04 03:00:19",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-04-04 03:00:19",
       "album": {
-        "name": "Exquisito como el Disgusto",
-        "url": "https://open.spotify.com/album/1pLNDIEklJcbcE4fbbuihP"
-      },
-      "artists": [
-        {
-          "name": "Socorro",
-          "url": "https://open.spotify.com/artist/6jlqA6csTISYfkoznueMaA"
-        }
-      ],
-      "duration_ms": 263000,
-      "name": "Boca de Dama",
-      "url": "https://open.spotify.com/track/1h748vZtNsAfYFsH8iJPBi"
-    },
-    {
-      "added_at": "2025-04-04 03:00:19",
-      "album": {
         "name": "Perd\u00f3n pero con estas gafas no te escucho nada",
         "url": "https://open.spotify.com/album/6h1wX7CQWb04qZRzMYFF4O"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 118625,
       "name": "Perd\u00f3n pero con estas gafas no te escucho nada",
       "url": "https://open.spotify.com/track/1CD3JzkGVGylR2NpBgu3Qu"
+    },
+    {
+      "added_at": "2025-04-04 03:00:19",
+      "album": {
+        "name": "Exquisito como el Disgusto",
+        "url": "https://open.spotify.com/album/1pLNDIEklJcbcE4fbbuihP"
+      },
+      "artists": [
+        {
+          "name": "Socorro",
+          "url": "https://open.spotify.com/artist/6jlqA6csTISYfkoznueMaA"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "Boca de Dama",
+      "url": "https://open.spotify.com/track/1h748vZtNsAfYFsH8iJPBi"
     },
     {
       "added_at": "2025-04-04 03:00:19",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2025-04-04 03:00:19",
       "album": {
+        "name": "ya soy, ya tengo",
+        "url": "https://open.spotify.com/album/7sLpt0HqSqdIaLvwwQuV8L"
+      },
+      "artists": [
+        {
+          "name": "Tarsitano",
+          "url": "https://open.spotify.com/artist/33bFzRzGGTXNRuQsPlsjXG"
+        }
+      ],
+      "duration_ms": 249245,
+      "name": "ya soy, ya tengo",
+      "url": "https://open.spotify.com/track/1Xfzs3OXZg5aZ6pSj64ngb"
+    },
+    {
+      "added_at": "2025-04-04 03:00:19",
+      "album": {
         "name": "Razon",
         "url": "https://open.spotify.com/album/4h9tNVsb4NVkuwlyXODjFa"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 246001,
       "name": "Pol\u00edtico o Rolling Stone",
       "url": "https://open.spotify.com/track/4c30sAt9qwApsKflh7aKcO"
-    },
-    {
-      "added_at": "2025-04-04 03:00:19",
-      "album": {
-        "name": "ya soy, ya tengo",
-        "url": "https://open.spotify.com/album/7sLpt0HqSqdIaLvwwQuV8L"
-      },
-      "artists": [
-        {
-          "name": "Tarsitano",
-          "url": "https://open.spotify.com/artist/33bFzRzGGTXNRuQsPlsjXG"
-        }
-      ],
-      "duration_ms": 249245,
-      "name": "ya soy, ya tengo",
-      "url": "https://open.spotify.com/track/1Xfzs3OXZg5aZ6pSj64ngb"
     },
     {
       "added_at": "2025-04-04 03:00:19",

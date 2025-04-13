@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,543,856 likes - 85 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,544,275 likes - 85 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 56 | [アイ to アイ \-KENN ver.\-](https://open.spotify.com/track/3cVdTYN0dewhR0xpGsk7Ko) | [新マクロス 超時空歌姫オーディション2025](https://open.spotify.com/artist/6r9zA1GdXUZuoUrllbUYR6), [KENN](https://open.spotify.com/artist/3oNnnGfd5B9b2MshVkwruX) | [アイ to アイ \-KENN ver.\-](https://open.spotify.com/album/0MrIlbqbUl8OlfxRvS5UpC) | 1:24 |
 | 57 | [BURN](https://open.spotify.com/track/6NYHXyWnurns3vjIsohSGX) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BURN](https://open.spotify.com/album/0QZoJceyKXNb33SEmFMlr4) | 2:16 |
 | 58 | [いつでも、いつまでも](https://open.spotify.com/track/1PAoyDTPSKDAK8sFdDImy8) | [蓮ノ空女学院スクールアイドルクラブ](https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb) | [いつでも、いつまでも](https://open.spotify.com/album/4TcdV223zFv3NmTe8tm0yI) | 4:27 |
-| 59 | [Kanojo wa Ima Meikyu no Naka](https://open.spotify.com/track/4cXFmHKM9BRpDwvTOYvA0I) | [MARUMOCHI from HoneyWorks](https://open.spotify.com/artist/6SE42YkzK2iVXMph1a3Hbp), [KAF](https://open.spotify.com/artist/5mXY04xvGDM4lvJuxeend9) | [Kanojo wa Ima Meikyu no Naka](https://open.spotify.com/album/451nYjcCpDxQSeZUz3aMZZ) | 3:29 |
+| 59 | [Kanojo wa Ima Meikyu no Naka](https://open.spotify.com/track/4cXFmHKM9BRpDwvTOYvA0I) | [MARUMOCHI from HoneyWorks](https://open.spotify.com/artist/6SE42YkzK2iVXMph1a3Hbp), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [Kanojo wa Ima Meikyu no Naka](https://open.spotify.com/album/451nYjcCpDxQSeZUz3aMZZ) | 3:29 |
 | 60 | [Drops](https://open.spotify.com/track/5XJjIyN8rFNhKNo3eRfv4K) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [Drops](https://open.spotify.com/album/1pR3bxXgbVs9c8EV3498Zt) | 5:02 |
 | 61 | [Continue](https://open.spotify.com/track/3rKSFMN0pA4yP2grkgZSkW) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Continue](https://open.spotify.com/album/25teOLN0hGkJIN27frDu45) | 3:48 |
 | 62 | [SCOPE](https://open.spotify.com/track/3Jo4XDtnSvgky2gC40gEwX) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SCOPE](https://open.spotify.com/album/4En3BPOgBrfh5pZgN58fnp) | 2:55 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 73 | [Brand New Day](https://open.spotify.com/track/5F4InKLnxEuNJa11itSfrx) | [LEEVELLES](https://open.spotify.com/artist/18fdEUD62UUaQx0RP57dog) | [Brand New Day](https://open.spotify.com/album/6TCy8KMDtRRTrMCJIdmgOv) | 4:03 |
 | 74 | [Ring Ring Ring feat\. ひまり\(CV.藤寺美徳\)](https://open.spotify.com/track/1Nr6e3hgiATkyL4BxFFmVf) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii), [ひまり\(CV.藤寺美徳\)](https://open.spotify.com/artist/7sSdJ6x9OpMOWqaeYfQVEv) | [Ring Ring Ring feat\. ひまり\(CV.藤寺美徳\)](https://open.spotify.com/album/1Gj89U31G2lUlckguqL1Hq) | 3:28 |
 | 75 | [COSMIC MYSTERY](https://open.spotify.com/track/4anOgJFxZr5HZY2fEdP9Nn) | [最終未来少女](https://open.spotify.com/artist/6mOs48kV4q365PohovNh4i) | [COSMIC MYSTERY](https://open.spotify.com/album/6j91Kx5tZUdSkGENJt025n) | 3:25 |
-| 76 | [Dark Will Fall \(from "LAZARUS" Soundtrack\) \(feat\. Jacob Lusk\)](https://open.spotify.com/track/5SFNrWCxLi1NPjE4zjhNiU) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj) | [Dark Will Fall \(from "LAZARUS" Soundtrack\) \(feat\. Jacob Lusk\)](https://open.spotify.com/album/5V7vnxgEDNt2i8odquLCAZ) | 2:16 |
+| 76 | [Dark Will Fall \(feat\. Jacob Lusk\)](https://open.spotify.com/track/5SFNrWCxLi1NPjE4zjhNiU) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj) | [Dark Will Fall \(from "LAZARUS" Soundtrack\) \(feat\. Jacob Lusk\)](https://open.spotify.com/album/5V7vnxgEDNt2i8odquLCAZ) | 2:16 |
 | 77 | [heart](https://open.spotify.com/track/5hDchbWpNl4scdX1dLBIC0) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [heart](https://open.spotify.com/album/4s3zdo1fd29mTFmdRirtI0) | 3:30 |
 | 78 | [イニミニマニモ](https://open.spotify.com/track/4QEqt8frZQ9Agb9bCBGA7w) | [大西亜玖璃](https://open.spotify.com/artist/6aUFQSt39umq1GsNbYu4u3) | [イニミニマニモ](https://open.spotify.com/album/6SCp8Aheuy4UMkbDBuztHa) | 4:00 |
 | 79 | [Sketch](https://open.spotify.com/track/2HCw2hGOPVUim9RWk3wh0C) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Sketch](https://open.spotify.com/album/3TlfKHDvVJqPO1lIbZhVsU) | 4:26 |
@@ -92,6 +92,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 82 | [夢よ、咲け！](https://open.spotify.com/track/6Z0xDoWcuSnFauHAeunjKW) | [前橋ウィッチーズ](https://open.spotify.com/artist/5tQLD8Ak85HJXxXy6Pp5D9) | [夢よ、咲け！](https://open.spotify.com/album/023taOsHNHRNoTb7Euvanf) | 3:38 |
 | 83 | [Star Parade](https://open.spotify.com/track/3HJ4LKYkpkwChkLicMLu4M) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [PROTOSTAR](https://open.spotify.com/artist/0ORPjKIVWn5h1T52foPAN1) | [Star Parade](https://open.spotify.com/album/1S6Hu4rVelpdgfAJfbevZF) | 3:35 |
 | 84 | [シースー・ゲーム](https://open.spotify.com/track/5hqDnUCaxGvPPYI58fS5hr) | [KAmiYU](https://open.spotify.com/artist/2Fs0n51kzU2NdTbSLt3YXl) | [Mellow×Mellow](https://open.spotify.com/album/6QjfM1rCGxL8U85lnUaotv) | 4:05 |
-| 85 | [Vortex \(from "LAZARUS" Soundtrack\)](https://open.spotify.com/track/70gLTdoX1syfNjvo2pytVy) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Vortex \(from "LAZARUS" Soundtrack\)](https://open.spotify.com/album/6SmmaTkAGqhVtvsgwHSRuX) | 6:23 |
+| 85 | [Vortex](https://open.spotify.com/track/70gLTdoX1syfNjvo2pytVy) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Vortex \(from "LAZARUS" Soundtrack\)](https://open.spotify.com/album/6SmmaTkAGqhVtvsgwHSRuX) | 6:23 |
 
 Snapshot ID: `Z/fc/gAAAACt3Hx8y7UBpTi1qn+caDKx`

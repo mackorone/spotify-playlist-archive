@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Lana Del Rey \(pictured\), Monet192, Rauw Alejandro and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,733 likes - 101 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,737 likes - 101 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 |
-| 2 | [ô dis où t'es](https://open.spotify.com/track/6HFIcrIgp65pXnnFm7zC4w) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [ô dis ou t'es](https://open.spotify.com/album/2zil9C5LyM5ryiFTYv9sEE) | 2:10 |
+| 2 | [ô dis où t'es](https://open.spotify.com/track/6HFIcrIgp65pXnnFm7zC4w) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [ô dis où t'es](https://open.spotify.com/album/2zil9C5LyM5ryiFTYv9sEE) | 2:10 |
 | 3 | [Carita Linda](https://open.spotify.com/track/5u5gkOBTv48cpXVMqkPkpK) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Carita Linda](https://open.spotify.com/album/7qULx9UqZbMt1jggUMYaWD) | 3:23 |
 | 4 | [Diadem](https://open.spotify.com/track/5my01OPtKE7EbyBiyjfRvy) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Diadem](https://open.spotify.com/album/0TSNWMt7fOHD4QjLy6RXmI) | 2:44 |
 | 5 | [That's What You Get](https://open.spotify.com/track/6NOF67FYntYIfPvQmSwicE) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [If You're Looking For A Reason To Key Your Ex's Car](https://open.spotify.com/album/4EpdkyMD0kkJEuqr8leDOc) | 3:07 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 40 | [Not Ready To Love Me](https://open.spotify.com/track/5tR0JxxKaiH8nbpvxYdjlC) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Smalltown Boy Deluxe](https://open.spotify.com/album/7G9fBXqmBesyxtHgLexOG2) | 3:07 |
 | 41 | [Sommerkleid](https://open.spotify.com/track/4eQ3zT4ClQ7O0tU8SBXjQW) | [MilleniumKid](https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG) | [DYSTOPIE](https://open.spotify.com/album/2qX2Vs65Hskmdr9SpBUGxQ) | 2:41 |
 | 42 | [Drinking Wine Feeling Fine](https://open.spotify.com/track/4gUFxJ0FH76iMgsePtYdYr) | [Vincent Gross](https://open.spotify.com/artist/6QU5o9QJmgCLjco0qn6dNy), [Olaf der Flipper](https://open.spotify.com/artist/7Apu3Zjo7um4OkL7B7SONQ) | [Drinking Wine Feeling Fine](https://open.spotify.com/album/6UlbT43b89S6bMfx40D10L) | 3:12 |
-| 43 | [Cruel Summer](https://open.spotify.com/track/5QP97PDtEr3GoH5OmlzQyy) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Cruel Summer](https://open.spotify.com/album/6ZaE06NpbDaVR3YkIZNY13) | 2:48 |
+| 43 | [Cruel Summer \(Again\)](https://open.spotify.com/track/5QP97PDtEr3GoH5OmlzQyy) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Cruel Summer \(Again\)](https://open.spotify.com/album/6ZaE06NpbDaVR3YkIZNY13) | 2:48 |
 | 44 | [Family](https://open.spotify.com/track/7CzKTho2uvyJdOJjbOVLth) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Family](https://open.spotify.com/album/5Jl5KG2TbdoiJ7DU05QRvo) | 3:05 |
 | 45 | [Sorry Sorry](https://open.spotify.com/track/1qCeChsQW0zUlPLwwgXJ30) | [Vanessa Mai](https://open.spotify.com/artist/3WUe8ADT5d65WeByR3ubl7) | [Sorry Sorry](https://open.spotify.com/album/3YTWaeDrO7Yj3GPfWXpFGp) | 2:27 |
 | 46 | [Caroline](https://open.spotify.com/track/0Y3OX3KZVsyG23qyV1JgYp) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Caroline](https://open.spotify.com/album/2t6x3lyAeeHDtPG8gfguE8) | 3:22 |

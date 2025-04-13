@@ -2,7 +2,7 @@
 
 ### [Daily Lift](https://open.spotify.com/playlist/37i9dQZF1DWU13kKnk03AP)
 
-> Get in the zone with these current jams!
+> Flip like Benson with these current jams!
 
 817 songs - 1 day 17 hr 52 min
 

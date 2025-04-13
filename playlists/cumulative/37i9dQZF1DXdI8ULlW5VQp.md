@@ -4,7 +4,7 @@
 
 > Sueña lindo, corazón..\. 💖✨ Adanowsky en portada.
 
-391 songs - 22 hr 5 min
+392 songs - 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [La Verbena y el Moriviví](https://open.spotify.com/track/3IQcQJgFhKusvVRMb52Twe) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [La Verbena y el Moriviví](https://open.spotify.com/album/06wwHze6wq4qk3lcuz6ttw) | 3:46 | 2022-02-04 | 2022-07-29 |
 | [La Verbena y el Moriviví](https://open.spotify.com/track/67ApdtYt5c3qOUTtO8eU3C) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [En Lo Que Llega La Primavera](https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig) | 3:46 | 2022-07-22 | 2023-05-20 |
 | [La vida pasa](https://open.spotify.com/track/5nfcvTHr49VPZX8yjXJBrq) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [La vida pasa](https://open.spotify.com/album/0JueSaUorzNim4awxNe11Y) | 3:48 | 2024-11-29 | 2025-01-25 |
+| [La Última Carta](https://open.spotify.com/track/1wUUGsbWpr8EFrZu1bxGra) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Bendito Desamor](https://open.spotify.com/album/6LY0E3EMCawQUMWNPksIaR) | 3:08 | 2025-04-11 |  |
 | [Las Escondidas](https://open.spotify.com/track/6W3kwy6UDG59AkuwMm80Nm) | [Andrés Obregón](https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve) | [Las Escondidas](https://open.spotify.com/album/6lRfxWDjDqwTRYS4Yb5q3S) | 3:02 | 2025-04-04 |  |
 | [Lecciones De Una Vida Cagándola En El Amor \- Versión Acústica](https://open.spotify.com/track/3zxcgvrX1RccyFZpcWnZpU) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Lecciones De Una Vida Cagándola En El Amor \(Versión Acústica\)](https://open.spotify.com/album/2FHJexkL7VjQkQaLbmOtMY) | 3:12 | 2022-08-19 | 2024-05-11 |
 | [Lenguas Muertas](https://open.spotify.com/track/5C9T6pqEEUhKAuIFSc38i7) | [Orión](https://open.spotify.com/artist/1QOKIsJjvDd9sHkSj96fI3) | [Lenguas Muertas](https://open.spotify.com/album/0lIpfG8AgaXOQZtSznBXJR) | 3:58 | 2022-02-04 | 2022-07-02 |
@@ -281,7 +282,7 @@
 | [Paso de Ti](https://open.spotify.com/track/1FteZcmUIFijY4oVL7piy2) | [Miriam Flores](https://open.spotify.com/artist/3nB5huZMjDDJx7XgkT0ptQ) | [Paso de Ti](https://open.spotify.com/album/3wL27cOIC6fwCFKbUDf8b7) | 3:14 | 2022-04-01 | 2022-09-10 |
 | [pesimista](https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [pesimista](https://open.spotify.com/album/2ZcHbieh3trp1wEv6QRsaX) | 3:54 | 2024-06-07 |  |
 | [Pinceles](https://open.spotify.com/track/1esQcf1nmd91BZlGm576fz) | [Javi Medina](https://open.spotify.com/artist/6dwFgF51JkLBz93ocNJ0Ol), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Pinceles](https://open.spotify.com/album/7McG5klQmerZ48pwuNt3Yv) | 3:02 | 2025-02-28 |  |
-| [Polvo De Gigantes](https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Polvo De Gigantes](https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL) | 2:33 | 2023-04-21 |  |
+| [Polvo De Gigantes](https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Polvo De Gigantes](https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL) | 2:33 | 2023-04-21 | 2025-04-13 |
 | [Polvo de Gigantes](https://open.spotify.com/track/64pNSO9BmlNkUe2j8hO9PV) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Kintsugi](https://open.spotify.com/album/7frxjxl8GN1rE0g7gLJZfQ) | 2:37 | 2024-09-06 | 2024-09-21 |
 | [Popango](https://open.spotify.com/track/79bZNuOM8V5W8n2DaTpUXf) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/4fbMnFRM48zpSJeSiCRn0n) | 2:44 | 2024-09-06 |  |
 | [Por Debajo de la Mesa](https://open.spotify.com/track/3KCeHZSB3tN57gIiWj40Nl) | [Diego Boneta](https://open.spotify.com/artist/1Pu2OFhNGOTakxDgxoIXiv) | [Luis Miguel la Serie Temporada Final](https://open.spotify.com/album/6HhpzEOsGl0a0v2ybCaSIh) | 3:05 | 2022-02-04 | 2022-07-02 |

@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-588 songs - 2 day 0 hr 49 min
+589 songs - 2 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Hide and Seek](https://open.spotify.com/track/6kvinwAz4dSKmLYMt5dP6O) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [10.000 Hours](https://open.spotify.com/album/0ha8DYzt39EzBddFCwzPGr) | 5:09 | 2022-05-03 | 2024-04-19 |
 | [Hiding](https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Hiding](https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx) | 3:42 | 2024-07-12 |  |
 | [Hiding \- HÜMAN Remix](https://open.spotify.com/track/2tSXZeA9MZ4QaQcxZQwdyX) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [HÜMAN](https://open.spotify.com/artist/5OSFyC4u32V4PI7YoyuMCc) | [Hiding \(HÜMAN Remix\)](https://open.spotify.com/album/1xebNg9O1JfE5Yt2lpvVCA) | 3:27 | 2023-08-18 | 2025-01-11 |
+| [Higher Now](https://open.spotify.com/track/2fM7sFomSOv5qHhn2p4aQ9) | [Klaverson](https://open.spotify.com/artist/3HutVQvkOWjDk8fYsWATEr) | [Higher Now](https://open.spotify.com/album/6GUMKmJXypGQ8Ta6OuFTp1) | 3:17 | 2025-04-11 |  |
 | [Higher Than Ever Before](https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:16 | 2023-07-14 | 2024-06-22 |
 | [Hiraeth \(feat\. Kim Van Loo\)](https://open.spotify.com/track/4Pd7JgZI8zvewbeZLsIDxe) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9), [Kim Van Loo](https://open.spotify.com/artist/7hNkG8n1xZ8BEpGu51udR1) | [Hiraeth](https://open.spotify.com/album/3vWp7L3aIczzUC5Obyxb18) | 4:59 | 2022-10-28 |  |
 | [Hold Me](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Hold Me](https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W) | 2:20 | 2023-04-07 |  |
@@ -366,7 +367,7 @@
 | [Ona Ona](https://open.spotify.com/track/3yu5LUE62gGNZOzq1FtzFE) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Ona Ona](https://open.spotify.com/album/14CT2Ia6QvxCP9W4zrb3fa) | 6:12 | 2024-04-12 |  |
 | [Onda](https://open.spotify.com/track/2vHPrrFhhiSH5GZZcGRSFm) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Onda](https://open.spotify.com/album/6SieZ45Tx2LVy0ezpzX290) | 4:11 | 2021-12-08 | 2023-06-01 |
 | [One And Only](https://open.spotify.com/track/4iA5MckI9OGxFgNDGtuRoZ) | [Reznik](https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ), [good guy mikesh](https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [One And Only](https://open.spotify.com/album/59luA9B4MimwKmvTt43lr8) | 3:42 | 2025-04-04 |  |
-| [One Sunrise At A Time](https://open.spotify.com/track/3rgFqdD4inybMUne06ZubD) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [One Sunrise At A Time](https://open.spotify.com/album/615YUEpbaWtii06WTIBWPK) | 5:43 | 2024-07-12 |  |
+| [One Sunrise At A Time](https://open.spotify.com/track/3rgFqdD4inybMUne06ZubD) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [One Sunrise At A Time](https://open.spotify.com/album/615YUEpbaWtii06WTIBWPK) | 5:43 | 2024-07-12 | 2025-04-13 |
 | [One\-Sided Love](https://open.spotify.com/track/3mwjb8Ft1DJMOhqfW75Wac) | [Claes Rosen](https://open.spotify.com/artist/0DJbbindURDhi6N4cRf48d) | [Diverse](https://open.spotify.com/album/6PrH4wM9PByiCKEBDe68FF) | 6:25 | 2022-05-03 | 2024-04-13 |
 | [One\-Sided Love](https://open.spotify.com/track/4HdZwmqBAAwmZ2nMkMJw4k) | [Claes Rosen](https://open.spotify.com/artist/0DJbbindURDhi6N4cRf48d) | [Diverse](https://open.spotify.com/album/0HgafCZBcFvtTLvlLz2tJB) | 6:25 | 2021-12-08 | 2022-07-29 |
 | [Opal \- Four Tet Remix](https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Opal \(Four Tet Remix\)](https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN) | 8:14 | 2022-01-14 | 2022-02-22 |

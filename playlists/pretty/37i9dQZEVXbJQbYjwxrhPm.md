@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 896 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 900 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Vendetta](https://open.spotify.com/track/3U7LRoxDT1WvbliazYkmpV) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai), [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq) | [Vendetta](https://open.spotify.com/album/0yqSiXEJqRVLOWjz9ik7KB) | 3:26 |
 | 50 | [Kato Tebe Vtori Nyama](https://open.spotify.com/track/3LzpgBBMv6aFmUYu7dfdhg) | [Azis](https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1), [Vanko 1](https://open.spotify.com/artist/19Ts8VmVkszIeHB7Bz0Q90) | [Azis 2014](https://open.spotify.com/album/4eob5WbssPxs5RqRQ61zau) | 4:05 |
 
-Snapshot ID: `L4yFoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L43sOAAAAAAAAAAAAAAAAAAAAAAAAGVu`

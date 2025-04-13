@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: Jaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,052 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,065 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [un mensaje de voz](https://open.spotify.com/track/1HnI5cfbWXkyYxfRhCZPFv) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [un mensaje de voz](https://open.spotify.com/album/4yxdgyxOzVIagRRZ5PT0XP) | 3:23 |
+| 1 | [un mensaje de voz \(feat\. Elsa y Elmar\)](https://open.spotify.com/track/1HnI5cfbWXkyYxfRhCZPFv) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [un mensaje de voz \(feat\. Elsa y Elmar\)](https://open.spotify.com/album/4yxdgyxOzVIagRRZ5PT0XP) | 3:23 |
 | 2 | [Vino Rosé](https://open.spotify.com/track/4d7BNubjTRsyd5zCK3SJCl) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Vino Rosé](https://open.spotify.com/album/704jcoZrwyMFkjpnMS9sUC) | 2:37 |
 | 3 | [¿Cómo Haces?](https://open.spotify.com/track/1Ket5Fl0iPAIsSm7NsWNha) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Haces?](https://open.spotify.com/album/3NrDAYuFbUxQuHf4Oq6daH) | 2:51 |
 | 4 | [LULULEMON](https://open.spotify.com/track/2gumMEpxX66tQhwWRIdNiy) | [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra), [mariano](https://open.spotify.com/artist/7eotpUg41HqaEqJPKOm1L9) | [LULULEMON](https://open.spotify.com/album/0bEBToYF167mq3rV0oT5Kb) | 2:12 |

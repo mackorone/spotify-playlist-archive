@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Lana Del Rey \(Cover\), Luciano, Anne\-Marie, und mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 853,917 likes - 92 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 853,988 likes - 92 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 24 | [Bout U](https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Bout U](https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV) | 2:43 |
 | 25 | [Sommerkleid](https://open.spotify.com/track/4eQ3zT4ClQ7O0tU8SBXjQW) | [MilleniumKid](https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG) | [DYSTOPIE](https://open.spotify.com/album/2qX2Vs65Hskmdr9SpBUGxQ) | 2:41 |
 | 26 | [TOUCHÉ](https://open.spotify.com/track/0hQqfUxxTVwYW172Ble1oD) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [TOUCHÉ](https://open.spotify.com/album/4iD6uPh3j7fPoPQrmhJIif) | 2:53 |
-| 27 | [Cruel Summer](https://open.spotify.com/track/5QP97PDtEr3GoH5OmlzQyy) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Cruel Summer](https://open.spotify.com/album/6ZaE06NpbDaVR3YkIZNY13) | 2:48 |
+| 27 | [Cruel Summer \(Again\)](https://open.spotify.com/track/5QP97PDtEr3GoH5OmlzQyy) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Cruel Summer \(Again\)](https://open.spotify.com/album/6ZaE06NpbDaVR3YkIZNY13) | 2:48 |
 | 28 | [Family](https://open.spotify.com/track/7CzKTho2uvyJdOJjbOVLth) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Family](https://open.spotify.com/album/5Jl5KG2TbdoiJ7DU05QRvo) | 3:05 |
 | 29 | [Sorry Sorry](https://open.spotify.com/track/1qCeChsQW0zUlPLwwgXJ30) | [Vanessa Mai](https://open.spotify.com/artist/3WUe8ADT5d65WeByR3ubl7) | [Sorry Sorry](https://open.spotify.com/album/3YTWaeDrO7Yj3GPfWXpFGp) | 2:27 |
 | 30 | [Waterfall](https://open.spotify.com/track/5XJvzlRR2FnsObtoYy6qoy) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV) | [Waterfall](https://open.spotify.com/album/4S4VjEK6SsnM7kVDy4w5Yx) | 4:24 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 34 | [Hopeful](https://open.spotify.com/track/2HaSjORIRX9YX77IAabK4x) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Hopeful](https://open.spotify.com/album/1vvDgy9hWy5paXm9KHVrWq) | 2:45 |
 | 35 | [Year of the Snake](https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Year of the Snake](https://open.spotify.com/album/40kcviBHQOANd1C29Qwp25) | 5:10 |
 | 36 | [Shauku Bana](https://open.spotify.com/track/6ZqadTW1iLJTU5XXyRB47m) | [Basti Grub](https://open.spotify.com/artist/3VAVMUyDwL7FlkivpaMeRh), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Shauku Bana](https://open.spotify.com/album/353NnjfcIAq9fVtncgDsKj) | 2:42 |
-| 37 | [ô dis où t'es](https://open.spotify.com/track/6HFIcrIgp65pXnnFm7zC4w) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [ô dis ou t'es](https://open.spotify.com/album/2zil9C5LyM5ryiFTYv9sEE) | 2:10 |
+| 37 | [ô dis où t'es](https://open.spotify.com/track/6HFIcrIgp65pXnnFm7zC4w) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [ô dis où t'es](https://open.spotify.com/album/2zil9C5LyM5ryiFTYv9sEE) | 2:10 |
 | 38 | [like JENNIE \- Peggy Gou Remix](https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [like JENNIE](https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf) | 3:28 |
 | 39 | [Warum](https://open.spotify.com/track/1bfNkC1ojUfEypkGFtbQsl) | [Arkan](https://open.spotify.com/artist/6CinPTkdtHGlOJvP4MzGT9), [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC), [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Warum](https://open.spotify.com/album/7onfetixabgBWIJYVpj867) | 2:48 |
 | 40 | [stick](https://open.spotify.com/track/0BMiAWhG8u5JZ9GeDCFxu5) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [stick](https://open.spotify.com/album/0DCxiHGqRaq1HuIcaSVBRq) | 2:19 |

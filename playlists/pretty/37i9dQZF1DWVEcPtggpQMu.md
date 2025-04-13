@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. <br/>Cover: <a href="<a href=">Kwesta</a>  , <a href="https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66?si=XDAk9BBBRku0SIgtl5Mivg">Nkosazana Daughter</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,324 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,370 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

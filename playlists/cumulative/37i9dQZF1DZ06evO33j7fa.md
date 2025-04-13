@@ -4,7 +4,7 @@
 
 > This is Nick Drake\. The essential tracks, all in one playlist.
 
-74 songs - 3 hr 30 min
+75 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Sketch 1](https://open.spotify.com/track/4ioMdV2VHZme6Qs6ecGyPo) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Digital Box Set](https://open.spotify.com/album/37NXzMNSyW0RhFVM2bkACC) | 1:00 | 2023-03-01 | 2023-03-18 |
 | [Sketch 1](https://open.spotify.com/track/5pevwwP5GLIcF63DkYFBl7) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6YcM0ELCFt9WFdkye4ejxm) | 1:00 | 2023-03-17 | 2023-11-11 |
 | [Sketch 1](https://open.spotify.com/track/6Tb3ZoNRQIAJGG1yXUb8Un) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 1:00 | 2023-11-10 | 2024-09-16 |
+| [Strange Face \- 1st Sound Techniques Session, March / 1968](https://open.spotify.com/track/3zmge3Jmf96bwVVvFe0sd6) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Strange Face \(1st Sound Techniques Session, March / 1968\)](https://open.spotify.com/album/6g5KjtQrLTdSZDH0hrXBDL) | 3:45 | 2025-04-13 |  |
 | [They're Leaving Me Behind](https://open.spotify.com/track/4bjiatRltrcQgvA5go2FVZ) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Digital Box Set](https://open.spotify.com/album/37NXzMNSyW0RhFVM2bkACC) | 3:17 | 2023-03-06 | 2023-03-10 |
 | [Things Behind The Sun](https://open.spotify.com/track/2s89qv9maW8RMCoaxtvNtn) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 3:54 | 2022-09-16 |  |
 | [Three Hours](https://open.spotify.com/track/3Mc00D5lLah9WAn62rDKrH) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 6:12 | 2022-09-16 |  |

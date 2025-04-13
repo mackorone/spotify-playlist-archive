@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Qué antojo de alberquita, sol y una chelita con Rauw Alejandro! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 962,760 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 963,350 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 5 | [EN LA CITY](https://open.spotify.com/track/5NlrtCVHsBEPDo3HaMgMJb) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [EN LA CITY](https://open.spotify.com/album/3if74jhB1zzEZpVIoTdP4n) | 2:56 |
 | 6 | [Minnie 2](https://open.spotify.com/track/1tJWvlF0fawkIKrsiTGCUl) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Minnie 2](https://open.spotify.com/album/5e41lx6k8TLJWeLfFhiIhJ) | 4:23 |
 | 7 | [Baby](https://open.spotify.com/track/061HqlGR7nPHyCUM4raLXy) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Baby](https://open.spotify.com/album/5QI1TWbg2dsDDS8RB0P24B) | 3:21 |
-| 8 | [boss \- Remix](https://open.spotify.com/track/3F75fwqrPiNLkf3krSkYkQ) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [boss \(Remix\)](https://open.spotify.com/album/5XPntEYsj1XpHzDYwShoIf) | 3:32 |
+| 8 | [boss rmx](https://open.spotify.com/track/3F75fwqrPiNLkf3krSkYkQ) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [boss rmx](https://open.spotify.com/album/5XPntEYsj1XpHzDYwShoIf) | 3:32 |
 | 9 | [EL DIABLO](https://open.spotify.com/track/5Zinmdnrq6Gp8ho1VS4zAg) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [EL DIABLO](https://open.spotify.com/album/5iF9vS6KQNnJjDXJPQI5CN) | 3:13 |
 | 10 | [A QUE TE ARUÑO](https://open.spotify.com/track/6cefxRaElHi6EYMU6pxsQ4) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F) | [A QUE TE ARUÑO](https://open.spotify.com/album/5OMDV2WFXkgmFCsBLtcYHV) | 2:53 |
 | 11 | [CHICA ATRACTIVA](https://open.spotify.com/track/0mw3zId9qOGkWlBogptIB1) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [YTSQS](https://open.spotify.com/album/4CVDmXbf9G25OoGBLGI7T1) | 2:45 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 45 | [La pareja y la neurosis](https://open.spotify.com/track/01i1zVi8ekTAGQLAVOezL3) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Sueños Inéditos \(2002\-2010\)](https://open.spotify.com/album/1yfbOUqmp01Bb3O9qm4o9q) | 3:28 |
 | 46 | [Loquequiero \(nunca me lo das\)](https://open.spotify.com/track/0mvXlIbwDGpY2JXsWTEBsU) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Loquequiero \(nunca me lo das\)](https://open.spotify.com/album/2nW2yeTks7mfmwUTwdwYTA) | 2:34 |
 | 47 | [Hasta Mañana](https://open.spotify.com/track/4bgMPTSl5dU7rgOlG56NV1) | [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Ausente](https://open.spotify.com/album/3JtrimyGOgrXVjvggjZYdy) | 3:00 |
-| 48 | [un mensaje de voz](https://open.spotify.com/track/1HnI5cfbWXkyYxfRhCZPFv) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [un mensaje de voz](https://open.spotify.com/album/4yxdgyxOzVIagRRZ5PT0XP) | 3:23 |
+| 48 | [un mensaje de voz \(feat\. Elsa y Elmar\)](https://open.spotify.com/track/1HnI5cfbWXkyYxfRhCZPFv) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [un mensaje de voz \(feat\. Elsa y Elmar\)](https://open.spotify.com/album/4yxdgyxOzVIagRRZ5PT0XP) | 3:23 |
 | 49 | [Sonora](https://open.spotify.com/track/6chfN5Qo4Z9dfuSHxxKSDM) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Sonora](https://open.spotify.com/album/7vPsHR8Mut9AcfpK0PzrhW) | 3:27 |
 | 50 | [The Day The Baron Died](https://open.spotify.com/track/1QcutUyjtk9PSpR7msdfyS) | [Peter Doherty](https://open.spotify.com/artist/0ikiOZC4SDG6OrgHLESydg) | [The Day The Baron Died](https://open.spotify.com/album/7rmo0Z3PCepd4ePlHD43g5) | 3:42 |
 | 51 | [lo que no pasó...](https://open.spotify.com/track/10LrAs1T7PLpg82xnxYOzD) | [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn), [Ana Sofi W.](https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0) | [lo que no pasó...](https://open.spotify.com/album/4juMbLGbAd46LZLfNDj6xj) | 2:37 |

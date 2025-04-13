@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o de hits pra te acompanhar no home office.",
-  "num_followers": 236881,
+  "num_followers": 236877,
   "original_name": "Trabalhando de Casa",
   "owner": {
     "name": "Spotify",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
+        "name": "Out Of Time (U.S. Version)",
+        "url": "https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 267733,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
         "name": "Metallica",
         "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
       },
@@ -1239,6 +1255,22 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 308333,
+      "name": "Cryin'",
+      "url": "https://open.spotify.com/track/0NJC0FDCODpPUntRTTQq97"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
         "name": "Synchronicity (Remastered)",
         "url": "https://open.spotify.com/album/28eOriEfl7IGbQDNvWIWXK"
       },
@@ -1251,6 +1283,22 @@
       "duration_ms": 253250,
       "name": "Every Breath You Take - Remastered 2003",
       "url": "https://open.spotify.com/track/5C0LFQARavkPpn7JgA4sLk"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Jagged Little Pill (Acoustic)",
+        "url": "https://open.spotify.com/album/0qsuMHaweGJqyC3zIAjo9N"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 250386,
+      "name": "You Learn - Acoustic",
+      "url": "https://open.spotify.com/track/6auEoWun0WEXGMseCkBuGU"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1287,22 +1335,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Jagged Little Pill (Acoustic)",
-        "url": "https://open.spotify.com/album/0qsuMHaweGJqyC3zIAjo9N"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 250386,
-      "name": "You Learn - Acoustic",
-      "url": "https://open.spotify.com/track/6auEoWun0WEXGMseCkBuGU"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "G N' R Lies",
         "url": "https://open.spotify.com/album/1RCAG3LrDwYsNU5ZiUJlWi"
       },
@@ -1315,38 +1347,6 @@
       "duration_ms": 354400,
       "name": "Patience",
       "url": "https://open.spotify.com/track/7D5n2kpYH2WSqIyEO9MeXf"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
-        "name": "Get A Grip",
-        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 308333,
-      "name": "Cryin'",
-      "url": "https://open.spotify.com/track/0NJC0FDCODpPUntRTTQq97"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
-        "name": "Out Of Time (U.S. Version)",
-        "url": "https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 267733,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Look Sharp! (2009 Version)",
-        "url": "https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 328093,
-      "name": "Listen To Your Heart",
-      "url": "https://open.spotify.com/track/78TnMTAFmWUWWCgNXR7D3K"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Eyes Open",
         "url": "https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 341266,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/55fg1bDXyNUsY2KaSMNFpA"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Look Sharp! (2009 Version)",
+        "url": "https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 328093,
+      "name": "Listen To Your Heart",
+      "url": "https://open.spotify.com/track/78TnMTAFmWUWWCgNXR7D3K"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
+        "name": "Wish You Were Here (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/6qNJATpLgC004oSMhU3tC8"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 334743,
+      "name": "Wish You Were Here - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/5MVrZa7cDtnAoMvCgRAMqb"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
         "name": "A Arte De Cazuza",
         "url": "https://open.spotify.com/album/1D4lMnP5npjJzw9GRtQMJi"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 216520,
       "name": "Everybody's Changing",
       "url": "https://open.spotify.com/track/216S5ED9SNRWaHWVjSJGyX"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
-        "name": "Wish You Were Here (2011 Remastered Version)",
-        "url": "https://open.spotify.com/album/6qNJATpLgC004oSMhU3tC8"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 334743,
-      "name": "Wish You Were Here - 2011 Remastered Version",
-      "url": "https://open.spotify.com/track/5MVrZa7cDtnAoMvCgRAMqb"
     },
     {
       "added_at": "2024-02-27 20:15:05",

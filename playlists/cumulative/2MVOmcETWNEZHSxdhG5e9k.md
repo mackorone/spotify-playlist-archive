@@ -4,7 +4,7 @@
 
 > Melodic Progressive, Progressive House and Vocal Trance\. Selections from Chris Lyons DJ&\#x27;s &quot;Riding The Soundwave&quot; webradio show.
 
-73 songs - 8 hr 22 min
+75 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Deep Dive \- Katrin Souza Remix](https://open.spotify.com/track/26zyTvsQjmTZBtjzima4rE) | [Chris Lyons](https://open.spotify.com/artist/5yMaYx36CdBsH58F0wVyWB), [Katrin Souza](https://open.spotify.com/artist/6MIjBHPbfQsN2BP72arjSf) | [Deep Dive](https://open.spotify.com/album/1zuCSIITYKCja05xCcJIlO) | 5:33 | 2021-03-23 |  |
 | [Dreamer \- Original Mix](https://open.spotify.com/track/3Di2byKcf7L3fw8zsYRlKG) | [Sundriver](https://open.spotify.com/artist/3OKbvWLskv2IPnpFiL1BRr) | [Poolside Trance 2011](https://open.spotify.com/album/1u5MCVVkoqzZ3uk6PTVFR7) | 7:51 | 2023-02-23 |  |
 | [Ethereal Concepts \- Shingo Nakamura Remix](https://open.spotify.com/track/0BYPbWXayjoJF6EZgj0QaA) | [Blugazer](https://open.spotify.com/artist/0xIrZp36YYSHSm5J5BKKW4), [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Ethereal Concepts](https://open.spotify.com/album/13rDbLucnXmgWVHfDE7lAh) | 5:52 | 2021-03-23 |  |
+| [Exploring Galaxies](https://open.spotify.com/track/2bdCM4qbqz4sdtkP1oL7ZB) | [Vellkhan](https://open.spotify.com/artist/4IkkkRiHwKB0fnXWcFjLEp) | [Exploring Galaxies](https://open.spotify.com/album/39l5092qlX4SByNxhie0Y5) | 2:47 | 2025-04-12 |  |
 | [Feeling Like Yeah \- LTN Sunrise Remix](https://open.spotify.com/track/0iEO7hllUqL12VetydtOhn) | [LTN](https://open.spotify.com/artist/2IK99qf3aYxFWkgCkc7kQ3), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [Feeling Like Yeah \(Remixes\)](https://open.spotify.com/album/6VxzX8SVRshTILWma4OpMd) | 6:00 | 2021-03-23 |  |
 | [Find Our Way \- Vintage & Morelli Remix](https://open.spotify.com/track/4lIbhc5GyV5knhsUlAdtd3) | [Will Canas](https://open.spotify.com/artist/0a8NsAE46r4C9Xuy88l6l5), [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0) | [Find Our Way](https://open.spotify.com/album/3Tq5W91Gj4a4eue4XMrOLl) | 7:51 | 2023-02-23 |  |
 | [Flying Spirals \- Matao Remix](https://open.spotify.com/track/2k4PRvXNIsW2CI978aQvD2) | [Matao](https://open.spotify.com/artist/5PLRA790ho4NsP1UxO8fOr), [Sergey Tkachev](https://open.spotify.com/artist/0CM1zfNSahgOz4HUDw8krR), [Alexey Sonar](https://open.spotify.com/artist/3kylBPGbC27D97TR1JUwod) | [Flying Spirals](https://open.spotify.com/album/2KzoMjqvoK9p8sPEOEM6lq) | 8:30 | 2021-04-12 |  |
@@ -53,6 +54,7 @@
 | [Point Nemo \- Original Mix](https://open.spotify.com/track/7AdUCqTinPTvw3ejzGycrg) | [Mark Moncrieff](https://open.spotify.com/artist/4K4hc4X2Dp2atIg6HBBmAd) | [Summer Melody 100: Sampler Part 3](https://open.spotify.com/album/5aPJsvcEJgC2RQIqL6NLbT) | 7:37 | 2021-12-14 |  |
 | [Progressive Soul](https://open.spotify.com/track/1XCbbMW6DwpKHIKAhQ7xSs) | [kalsy](https://open.spotify.com/artist/6vPghOkrVqxHkDHOV3l30R) | [Progressive Soul](https://open.spotify.com/album/6lWCbs8MxC0euSMUuNxR5x) | 10:35 | 2023-02-23 |  |
 | [Return to Paradise \- Nipika Remix](https://open.spotify.com/track/0lh6F43g0ZiLSCNIiPtuJo) | [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA), [Nipika](https://open.spotify.com/artist/00xLgjFkwM6G1ufrFJGd7g) | [Return to Paradise \[The Remixes\]](https://open.spotify.com/album/1iPmSRRJEZyzA0J0OxS1mv) | 7:12 | 2023-09-01 |  |
+| [Reunion](https://open.spotify.com/track/6bXjQr1KQG1auvD6sNtbl7) | [Vellkhan](https://open.spotify.com/artist/4IkkkRiHwKB0fnXWcFjLEp) | [Reunion](https://open.spotify.com/album/178GOjWTTIvDcggFtKx6Nv) | 6:11 | 2025-04-12 |  |
 | [Rise](https://open.spotify.com/track/4Gs4NvoNjdLPi49TnVbx96) | [South Pole](https://open.spotify.com/artist/3vNPCpgA6iJvFoWQfP3Fli) | [Rise](https://open.spotify.com/album/7LUv6Pi8Bxz3tY4iLqPwyf) | 8:10 | 2019-07-05 |  |
 | [RueSaintMartin](https://open.spotify.com/track/31HGVpgj3htftDeluEfVXS) | [Mindset](https://open.spotify.com/artist/5QZlVXDfcM8DDuK3aywb6a) | [Elysees / RueSaintMartin](https://open.spotify.com/album/4GuiqLGT4CgTnitsWe8h4W) | 5:40 | 2021-03-23 |  |
 | [Sa Cova](https://open.spotify.com/track/2lwwdI3pJBfY7L1ivkGJ60) | [Vitodito](https://open.spotify.com/artist/16mF4YXC1sZZWNjZoJoxd2) | [Sa Cova](https://open.spotify.com/album/4skLoSvUK4kcKMWFUBNKsE) | 7:17 | 2019-07-05 |  |

@@ -433,6 +433,28 @@
     },
     {
       "album": {
+        "name": "Out of the Blue",
+        "url": "https://open.spotify.com/album/6C2f1XaNPB75cqr1eR7lbb"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192527,
+      "name": "Bend",
+      "url": "https://open.spotify.com/track/4LN7BAe5snUpAqFffvxQZE"
+    },
+    {
+      "album": {
         "name": "The Return of Okomfo Anokye",
         "url": "https://open.spotify.com/album/0dOOE0uoxf6XjtIa0DSSTp"
       },
@@ -2346,6 +2368,28 @@
     {
       "album": {
         "name": "Black Love",
+        "url": "https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Rudeboy",
+          "url": "https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267660,
+      "name": "Lucky (feat. Rudeboy)",
+      "url": "https://open.spotify.com/track/466oku5g8KzlaYGMGluENO"
+    },
+    {
+      "album": {
+        "name": "Black Love",
         "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
       },
       "artists": [
@@ -3488,7 +3532,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 193333,
       "name": "Strength Of A Woman (feat. Stonebwoy)",
       "url": "https://open.spotify.com/track/73kjMOJYDiMpcfxPEcdMqQ"
@@ -4132,7 +4176,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 197799,
       "name": "Yedin",
       "url": "https://open.spotify.com/track/2ZSwQpziKJivg3cJSoRtjQ"

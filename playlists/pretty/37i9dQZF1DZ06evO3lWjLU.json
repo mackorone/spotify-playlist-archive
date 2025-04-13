@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Ocean. The essential tracks, all in one playlist.",
-  "num_followers": 278880,
+  "num_followers": 279094,
   "original_name": "This Is Danny Ocean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/cKAAAAAABTEQ3ypdDS1I02DVuee9pN",
+  "snapshot_id": "Z/hbgAAAAACCbeWN4xIvS/lOCofgGftb",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "venequia.",
-        "url": "https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 182479,
-      "name": "por la peque\u00f1a Venecia",
-      "url": "https://open.spotify.com/track/0SFvSc2qggsVQqnfYzeCv4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Epa Wei",
         "url": "https://open.spotify.com/album/29ztXcRa43S7vNmka4Cl4x"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 208253,
       "name": "Epa Wei",
       "url": "https://open.spotify.com/track/2QmsKag0YaqhAbpR9Nwmpn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "venequia.",
+        "url": "https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 182479,
+      "name": "por la peque\u00f1a Venecia",
+      "url": "https://open.spotify.com/track/0SFvSc2qggsVQqnfYzeCv4"
     },
     {
       "added_at": null,
@@ -575,58 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "venequia.",
-        "url": "https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 211546,
-      "name": "Me reh\u00faso - 2024 ac\u00fastico",
-      "url": "https://open.spotify.com/track/6VXvnqNNJ5ivmiFLlBH4Qz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "YELIANA-Cap.3-ZHA",
-        "url": "https://open.spotify.com/album/36vkQCUHA1y3qvjzsmqw5H"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 140906,
-      "name": "YELIANA - Cap. 3 - ZHA",
-      "url": "https://open.spotify.com/track/0sE9TAChRS7zah4yhp5KJW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "REFLEXA",
-        "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 197366,
-      "name": "No te enamores de \u00e9l",
-      "url": "https://open.spotify.com/track/4HHmfquDNTjYSnj6BHTNjg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PARA\u00cdSO",
         "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
       },
@@ -656,9 +604,45 @@
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 132336,
-      "name": "escala en Panam\u00e1",
-      "url": "https://open.spotify.com/track/7KhdmSkSsouQhiSCFad0Ou"
+      "duration_ms": 211546,
+      "name": "Me reh\u00faso - 2024 ac\u00fastico",
+      "url": "https://open.spotify.com/track/6VXvnqNNJ5ivmiFLlBH4Qz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REFLEXA",
+        "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 197366,
+      "name": "No te enamores de \u00e9l",
+      "url": "https://open.spotify.com/track/4HHmfquDNTjYSnj6BHTNjg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YELIANA-Cap.3-ZHA",
+        "url": "https://open.spotify.com/album/36vkQCUHA1y3qvjzsmqw5H"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 140906,
+      "name": "YELIANA - Cap. 3 - ZHA",
+      "url": "https://open.spotify.com/track/0sE9TAChRS7zah4yhp5KJW"
     },
     {
       "added_at": null,
@@ -675,6 +659,22 @@
       "duration_ms": 148791,
       "name": "Istanbul",
       "url": "https://open.spotify.com/track/3gU9FbBKkLB23WvmSXpca2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "venequia.",
+        "url": "https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 132336,
+      "name": "escala en Panam\u00e1",
+      "url": "https://open.spotify.com/track/7KhdmSkSsouQhiSCFad0Ou"
     },
     {
       "added_at": null,
@@ -711,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OzuTochi",
-        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 193360,
-      "name": "4:22",
-      "url": "https://open.spotify.com/track/1TRnIxwWeJoE6MVimzjw2w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "@dannocean",
         "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 149787,
       "name": "T\u00fa no me conoces",
       "url": "https://open.spotify.com/track/0JzUsZUR6ZySpPNrWRvcL3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OzuTochi",
+        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 193360,
+      "name": "4:22",
+      "url": "https://open.spotify.com/track/1TRnIxwWeJoE6MVimzjw2w"
     },
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cu\u00e1ntas veces",
-        "url": "https://open.spotify.com/album/1SkjS616tH0mUti7wGYUGB"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 157594,
-      "name": "Cu\u00e1ntas veces",
-      "url": "https://open.spotify.com/track/0Vd3oU8EfWdZZO1J0W3dBN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "@dannocean",
         "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 154170,
       "name": "Disfruta tu viernes",
       "url": "https://open.spotify.com/track/1VOztqrljZe82uGzLAcFxw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cu\u00e1ntas veces",
+        "url": "https://open.spotify.com/album/1SkjS616tH0mUti7wGYUGB"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 157594,
+      "name": "Cu\u00e1ntas veces",
+      "url": "https://open.spotify.com/track/0Vd3oU8EfWdZZO1J0W3dBN"
     },
     {
       "added_at": null,

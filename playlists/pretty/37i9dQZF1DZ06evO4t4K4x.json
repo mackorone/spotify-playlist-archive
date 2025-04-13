@@ -1,12 +1,12 @@
 {
   "description": "This is Delia Derbyshire. The essential tracks, all in one playlist.",
-  "num_followers": 2445,
+  "num_followers": 2446,
   "original_name": "This Is Delia Derbyshire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/cKAAAAAACB9t3sIhHJlxP55xLov81K",
+  "snapshot_id": "Z/hbgAAAAACP42BLKVsxkzuw1T+8IFRi",
   "tracks": [
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Afterlife Anthology",
-        "url": "https://open.spotify.com/album/2sXd6DbNyawKMdYddgHuZZ"
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
         }
       ],
-      "duration_ms": 150039,
-      "name": "Lure of the Space Goddess - Full Broadcast Version",
-      "url": "https://open.spotify.com/track/1wmf3EM0wug7WLdN1WrCZt"
+      "duration_ms": 73293,
+      "name": "Time on Our Hands",
+      "url": "https://open.spotify.com/track/0dDAu6FlLjQxSlE9NcvWmS"
     },
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BBC Radiophonic Workshop - 21",
-        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+        "name": "The Afterlife Anthology",
+        "url": "https://open.spotify.com/album/2sXd6DbNyawKMdYddgHuZZ"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
         }
       ],
-      "duration_ms": 73293,
-      "name": "Time on Our Hands",
-      "url": "https://open.spotify.com/track/0dDAu6FlLjQxSlE9NcvWmS"
+      "duration_ms": 150039,
+      "name": "Lure of the Space Goddess - Full Broadcast Version",
+      "url": "https://open.spotify.com/track/1wmf3EM0wug7WLdN1WrCZt"
     },
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
         }
       ],
-      "duration_ms": 196386,
-      "name": "Hannett and Delia synth exchanges track 12",
-      "url": "https://open.spotify.com/track/30ZtkLIsr5pYliZEodAeb5"
+      "duration_ms": 163413,
+      "name": "Hannett and Delia synth exchanges track 3",
+      "url": "https://open.spotify.com/track/1xI597kDPd4Z7eZHZaaJ9L"
     },
     {
       "added_at": null,
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
         }
       ],
-      "duration_ms": 163413,
-      "name": "Hannett and Delia synth exchanges track 3",
-      "url": "https://open.spotify.com/track/1xI597kDPd4Z7eZHZaaJ9L"
+      "duration_ms": 196386,
+      "name": "Hannett and Delia synth exchanges track 12",
+      "url": "https://open.spotify.com/track/30ZtkLIsr5pYliZEodAeb5"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
         }
       ],
-      "duration_ms": 89813,
-      "name": "Hannett and Delia synth exchanges track 18",
-      "url": "https://open.spotify.com/track/6eE4C3OBhLH6racpXnzM32"
+      "duration_ms": 79946,
+      "name": "Hannett and Delia synth exchanges track 7",
+      "url": "https://open.spotify.com/track/5lCMhaHwhtTgR7OOf5PjYA"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
       "duration_ms": 625911,
       "name": "Circle of Light, Pt. 2",
       "url": "https://open.spotify.com/track/0F9SxKgSKsYK0N6iHWM4Pa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Afterlife Anthology",
+        "url": "https://open.spotify.com/album/2sXd6DbNyawKMdYddgHuZZ"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 2113024,
+      "name": "The Afterlife, Pt. 3",
+      "url": "https://open.spotify.com/track/1SUUGoKJE1kXMaLnAYeHBv"
     }
   ],
   "unique_name": "This Is Delia Derbyshire",

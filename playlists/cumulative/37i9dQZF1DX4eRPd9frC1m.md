@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-406 songs - 22 hr 0 min
+407 songs - 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [NECROMANCER](https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [NECROMANCER EP](https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w) | 3:48 | 2022-10-07 | 2025-01-26 |
 | [Never Be The Same \(feat\. Sara Benyo\)](https://open.spotify.com/track/14wlTKn3ZZoIO1jk3OHDWH) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Sara Benyo](https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M) | [Never Be The Same \(feat\. Sara Benyo\)](https://open.spotify.com/album/11vsNOGUnRLErmbVBZ1LOe) | 3:50 | 2023-01-06 | 2023-08-19 |
 | [Never Come Back](https://open.spotify.com/track/26rKyTQhCCBojRnx8znqFr) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [DJ DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Never Come Back](https://open.spotify.com/album/5dP2FwZDkFa1bvOuyKTIPk) | 2:22 | 2024-09-06 |  |
-| [NEW WIP](https://open.spotify.com/track/6rv93pYJSTtReQIuwcCYvm) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [NEW WIP](https://open.spotify.com/album/5NToLmDgH4V64h5f3Xzhkn) | 3:06 | 2022-04-22 |  |
+| [NEW WIP](https://open.spotify.com/track/6rv93pYJSTtReQIuwcCYvm) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [NEW WIP](https://open.spotify.com/album/5NToLmDgH4V64h5f3Xzhkn) | 3:06 | 2022-04-22 | 2025-04-13 |
 | [NEXT LVL](https://open.spotify.com/track/6uaKtnOTKImR5B6cU8FXjo) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb) | [NEXT LVL](https://open.spotify.com/album/1rhMrfqiJY4q1KtEzmjx2o) | 2:35 | 2024-03-29 | 2025-01-19 |
 | [NGMF](https://open.spotify.com/track/2iOz9TpTJgR3ZBIQ0Pas2g) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [NGMF](https://open.spotify.com/album/5eOjDPcOskmMG3syjwodSN) | 2:42 | 2021-11-19 | 2022-07-28 |
 | [No Brakes](https://open.spotify.com/track/2rNt0cXjLDLefeCItQrFwG) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [No Brakes](https://open.spotify.com/album/7o60ves6sdc3vr5LuUpK3Y) | 2:41 | 2022-02-11 | 2022-05-10 |
@@ -351,6 +351,7 @@
 | [symphony no.5 in bass minor](https://open.spotify.com/track/1uvCbCFeAvYnZbx5LcBVsv) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc) | [symphony no.5 in bass minor](https://open.spotify.com/album/1NGql2rFlIPyIdRqFrEa0P) | 2:58 | 2024-05-10 |  |
 | [System Shock](https://open.spotify.com/track/48xIuXP8AN7dnan1Afsoqv) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [System Shock](https://open.spotify.com/album/7ADLWJaRuxts3AfNcJPXQq) | 2:16 | 2025-02-28 |  |
 | [Takin' Over](https://open.spotify.com/track/16laBcAyTKhLY50kHQ11b2) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Nardean](https://open.spotify.com/artist/3NF0Inkg9acKhu5Nyt2JLK) | [Takin' Over](https://open.spotify.com/album/05yXy0GVXm8w34eH69fMdY) | 2:19 | 2022-01-07 | 2022-07-28 |
+| [TENTEN](https://open.spotify.com/track/6njivaRY1zUaaEZGf22unI) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [D38](https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe) | [TENTEN](https://open.spotify.com/album/5X7s4cPiT5e5QjvsEUp76Q) | 3:29 | 2025-04-11 |  |
 | [The Cheeki Breeki Song](https://open.spotify.com/track/1gbUrCmsJchMppBeC6wL3r) | [Midnight Tyrannosaurus](https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ), [Nimda](https://open.spotify.com/artist/3Au3D8Hsiy5B8z4C2uH02h) | [Planet Doom](https://open.spotify.com/album/6wtibkqrl452P4guyD2Hlm) | 3:32 | 2022-04-01 | 2023-03-04 |
 | [The Core](https://open.spotify.com/track/20dpPxfZDDpNp1H7nvye1n) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [The Core](https://open.spotify.com/album/0MSXGJnWOd84qxTn7889yI) | 3:32 | 2021-11-19 | 2022-01-08 |
 | [The Feeling](https://open.spotify.com/track/4t9aVhB3mYRqk2H3BgHRS4) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [The Feeling](https://open.spotify.com/album/1DCrOOGezQMRiihNagWB7y) | 2:38 | 2021-11-19 | 2022-01-08 |

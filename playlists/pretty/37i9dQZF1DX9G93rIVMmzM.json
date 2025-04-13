@@ -1,6 +1,6 @@
 {
   "description": "for the baddies.",
-  "num_followers": 332961,
+  "num_followers": 333065,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
@@ -43,18 +43,18 @@
     {
       "added_at": "2025-03-07 05:00:32",
       "album": {
-        "name": "Dirt (2022 Remaster)",
-        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
       },
       "artists": [
         {
-          "name": "Alice In Chains",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 206773,
-      "name": "Would? (2022 Remaster)",
-      "url": "https://open.spotify.com/track/5sFDReWLrZHLFZFjHsjUTS"
+      "duration_ms": 214946,
+      "name": "Going Under",
+      "url": "https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i"
     },
     {
       "added_at": "2025-03-07 05:00:32",
@@ -271,18 +271,18 @@
     {
       "added_at": "2025-03-07 05:00:32",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
+        "name": "Dirt (2022 Remaster)",
+        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
       },
       "artists": [
         {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         }
       ],
-      "duration_ms": 214946,
-      "name": "Going Under",
-      "url": "https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i"
+      "duration_ms": 206773,
+      "name": "Would? (2022 Remaster)",
+      "url": "https://open.spotify.com/track/5sFDReWLrZHLFZFjHsjUTS"
     },
     {
       "added_at": "2025-03-07 05:00:32",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-03-07 05:00:32",
       "album": {
-        "name": "We're Not Here to Be Loved",
-        "url": "https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1"
-      },
-      "artists": [
-        {
-          "name": "Fleshwater",
-          "url": "https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF"
-        }
-      ],
-      "duration_ms": 122265,
-      "name": "Closet",
-      "url": "https://open.spotify.com/track/4hAPiyiwGAlIKP53qfmDuN"
-    },
-    {
-      "added_at": "2025-03-07 05:00:32",
-      "album": {
         "name": "Team Sleep (U.S. Release)",
         "url": "https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 188133,
       "name": "Blvd. Nights",
       "url": "https://open.spotify.com/track/7xDAU9IAMyWjl7ia3hRxs7"
+    },
+    {
+      "added_at": "2025-03-07 05:00:32",
+      "album": {
+        "name": "We're Not Here to Be Loved",
+        "url": "https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1"
+      },
+      "artists": [
+        {
+          "name": "Fleshwater",
+          "url": "https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF"
+        }
+      ],
+      "duration_ms": 122265,
+      "name": "Closet",
+      "url": "https://open.spotify.com/track/4hAPiyiwGAlIKP53qfmDuN"
     },
     {
       "added_at": "2025-03-07 05:00:32",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-03-07 05:00:32",
       "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
-      },
-      "artists": [
-        {
-          "name": "Whirr",
-          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Mumble",
-      "url": "https://open.spotify.com/track/3bEq6ig5QphDic6RPVA8h4"
-    },
-    {
-      "added_at": "2025-03-07 05:00:32",
-      "album": {
         "name": "Spiral",
         "url": "https://open.spotify.com/album/1VkpBOu4KIcL8u9tAkocie"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 168221,
       "name": "Spiral",
       "url": "https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37"
+    },
+    {
+      "added_at": "2025-03-07 05:00:32",
+      "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
+      },
+      "artists": [
+        {
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Mumble",
+      "url": "https://open.spotify.com/track/3bEq6ig5QphDic6RPVA8h4"
     },
     {
       "added_at": "2025-03-07 05:00:32",

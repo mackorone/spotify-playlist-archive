@@ -1,12 +1,12 @@
 {
   "description": "This is Black Coffee. The essential tracks, all in one playlist.",
-  "num_followers": 166817,
+  "num_followers": 166980,
   "original_name": "This Is Black Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/cKAAAAAABlR/VQMwteQwVo8DWBUDtf",
+  "snapshot_id": "Z/hbgAAAAAC11D/FbX6A0TzO2MWk1WAG",
   "tracks": [
     {
       "added_at": null,
@@ -979,26 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Africa Rising",
-        "url": "https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp"
-      },
-      "artists": [
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Zakes Bantwini",
-          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
-        }
-      ],
-      "duration_ms": 397426,
-      "name": "Take It All Off",
-      "url": "https://open.spotify.com/track/3GTjWvuD6D78ZPRoXOBAt1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Happy Day (Remix)",
         "url": "https://open.spotify.com/album/5wo6UOtgUUbs5JuGNs9Wxm"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 129750,
       "name": "Happy Day - Remix",
       "url": "https://open.spotify.com/track/7KNEobclCZ59sF3CqrABZ0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Africa Rising",
+        "url": "https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        }
+      ],
+      "duration_ms": 397426,
+      "name": "Take It All Off",
+      "url": "https://open.spotify.com/track/3GTjWvuD6D78ZPRoXOBAt1"
     },
     {
       "added_at": null,

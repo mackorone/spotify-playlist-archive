@@ -1,12 +1,12 @@
 {
   "description": "April is Christian Music Month - a time to celebrate the songs that uplift, inspire, and bring hope! From timeless worship anthems to fresh new sounds, this playlist is all about faith, encouragement, and joy. Hit play, turn it up, and share the love! Discover more at ChristianMusicMonth.com",
-  "num_followers": 135,
+  "num_followers": 159,
   "original_name": "Christian Music Month",
   "owner": {
     "name": "Gospel Music Association",
     "url": "https://open.spotify.com/user/gospelmusicassoc"
   },
-  "snapshot_id": "AAAAVZcwTtr3a6lR8UqTuMYAK04zW9pK",
+  "snapshot_id": "AAAAV4J+b4TTmzTcEdMv7eFYgBNMDVaI",
   "tracks": [
     {
       "added_at": "2025-03-04 20:58:49",
@@ -1299,6 +1299,50 @@
       "duration_ms": 258560,
       "name": "Water Grave",
       "url": "https://open.spotify.com/track/1A0vFB7fXkXyKIPWTyXcxF"
+    },
+    {
+      "added_at": "2025-04-12 17:48:40",
+      "album": {
+        "name": "Time Capsule - The Trilogy",
+        "url": "https://open.spotify.com/album/2jnCtWe4Ipkj61hdRHjPiR"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        },
+        {
+          "name": "Keith Staten",
+          "url": "https://open.spotify.com/artist/1p94IpPWGRqcNsAmzCtnWe"
+        },
+        {
+          "name": "Marcus Cole",
+          "url": "https://open.spotify.com/artist/2bijKkJaOp4tSJASryiJNB"
+        },
+        {
+          "name": "FK&M",
+          "url": "https://open.spotify.com/artist/0QEY4d9rhrxTR8nMdudJ0y"
+        }
+      ],
+      "duration_ms": 310828,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/3UzUPfnjM906tmFSegZBOA"
+    },
+    {
+      "added_at": "2025-04-12 17:48:51",
+      "album": {
+        "name": "Making Room",
+        "url": "https://open.spotify.com/album/2xmKVwLGNiDeVFXgUHqWXo"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 261092,
+      "name": "Making Room",
+      "url": "https://open.spotify.com/track/04MpvZX3ddrTjhDuKqc5Zt"
     }
   ],
   "unique_name": "Christian Music Month",

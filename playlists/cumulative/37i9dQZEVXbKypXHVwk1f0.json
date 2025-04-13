@@ -204,7 +204,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 153750,
       "name": "111",
       "url": "https://open.spotify.com/track/2SPBFiD8iITb8CKJGz1TEQ"
@@ -1368,10 +1368,32 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 144000,
       "name": "Ale, Ale, Ale",
       "url": "https://open.spotify.com/track/1dEDJyzLRH9VMN4lWnJBw7"
+    },
+    {
+      "album": {
+        "name": "Sobre La Roca",
+        "url": "https://open.spotify.com/album/6yEpGAuYEcV1iueDdspYN0"
+      },
+      "artists": [
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "Kitty Soucre",
+          "url": "https://open.spotify.com/artist/2jYztqaga5M2lwhkgJDO0o"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Ale, Ale, Ale",
+      "url": "https://open.spotify.com/track/4Ahfx9Q5X0vbRNUuX6aaUs"
     },
     {
       "album": {
@@ -2528,6 +2550,28 @@
       "duration_ms": 232124,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5iDNf2uMgRzmQpcmGAzOUk"
+    },
+    {
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/5QI1TWbg2dsDDS8RB0P24B"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201290,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/061HqlGR7nPHyCUM4raLXy"
     },
     {
       "album": {
@@ -4712,6 +4756,24 @@
       "duration_ms": 156295,
       "name": "Caras Vemos",
       "url": "https://open.spotify.com/track/6NSt2HFIMe5dEDo7Aq2Tf5"
+    },
+    {
+      "album": {
+        "name": "Carita Linda",
+        "url": "https://open.spotify.com/album/7qULx9UqZbMt1jggUMYaWD"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203463,
+      "name": "Carita Linda",
+      "url": "https://open.spotify.com/track/5u5gkOBTv48cpXVMqkPkpK"
     },
     {
       "album": {
@@ -22562,7 +22624,7 @@
       ],
       "date_added": "2025-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 223566,
       "name": "Polvito Pa la Racha",
       "url": "https://open.spotify.com/track/1pYZB1mdGSMpOu4vTh1v3w"

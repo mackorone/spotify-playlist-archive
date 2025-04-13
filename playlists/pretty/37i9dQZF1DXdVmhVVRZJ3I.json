@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 308832,
+  "num_followers": 308940,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-04-04 18:16:16",
       "album": {
+        "name": "Dali",
+        "url": "https://open.spotify.com/album/6UDVIUlB7nvJ4KDNTymxxv"
+      },
+      "artists": [
+        {
+          "name": "Liu",
+          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
+        }
+      ],
+      "duration_ms": 179072,
+      "name": "Dali",
+      "url": "https://open.spotify.com/track/2aCHISDYlq4nbKyi195Tac"
+    },
+    {
+      "added_at": "2025-04-04 18:16:16",
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/6ckV4zvYEpVIKsIOJQNy9Q"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 160500,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/1Mn98pnsPYwvAS0yasxOUB"
-    },
-    {
-      "added_at": "2025-04-04 18:16:16",
-      "album": {
-        "name": "Dali",
-        "url": "https://open.spotify.com/album/6UDVIUlB7nvJ4KDNTymxxv"
-      },
-      "artists": [
-        {
-          "name": "Liu",
-          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
-        }
-      ],
-      "duration_ms": 179072,
-      "name": "Dali",
-      "url": "https://open.spotify.com/track/2aCHISDYlq4nbKyi195Tac"
     },
     {
       "added_at": "2025-04-04 18:16:16",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2025-04-04 18:16:16",
       "album": {
+        "name": "079",
+        "url": "https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6"
+      },
+      "artists": [
+        {
+          "name": "Rain Radio",
+          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
+        },
+        {
+          "name": "Block Notice",
+          "url": "https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq"
+        }
+      ],
+      "duration_ms": 168200,
+      "name": "079",
+      "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
+    },
+    {
+      "added_at": "2025-04-04 18:16:16",
+      "album": {
         "name": "Meditatiohm",
         "url": "https://open.spotify.com/album/4pS0TGMoSyifWzHBZyAnYY"
       },
@@ -1083,26 +1103,6 @@
       "duration_ms": 346285,
       "name": "Meditatiohm",
       "url": "https://open.spotify.com/track/20Lvy05zDo3yJOA3nVp1uQ"
-    },
-    {
-      "added_at": "2025-04-04 18:16:16",
-      "album": {
-        "name": "079",
-        "url": "https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6"
-      },
-      "artists": [
-        {
-          "name": "Rain Radio",
-          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
-        },
-        {
-          "name": "Block Notice",
-          "url": "https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq"
-        }
-      ],
-      "duration_ms": 168200,
-      "name": "079",
-      "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
     }
   ],
   "unique_name": "Treino Eletr\u00f4nico",

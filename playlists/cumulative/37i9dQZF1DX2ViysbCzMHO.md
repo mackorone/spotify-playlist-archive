@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-300 songs - 16 hr 22 min
+301 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [For What It’s Worth \- Acoustic](https://open.spotify.com/track/6cydsvwI97aIZefvQw4D63) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [For What It’s Worth \(Acoustic\)](https://open.spotify.com/album/2JXN2IhAHu3wTcC82XM5n8) | 2:58 | 2023-02-03 | 2024-02-17 |
 | [Forever and Always \- Acoustic](https://open.spotify.com/track/6S6DhJXFPuA6CcfqCbAH31) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Forever and Always \(Acoustic\)](https://open.spotify.com/album/1KRzUD4fYV0PL3B2smJps3) | 3:10 | 2022-05-20 | 2024-05-14 |
 | [Forever and Always \- Acoustic Version](https://open.spotify.com/track/2xBs8cDJEAtpostbqtcAk6) | [Tyler Cain](https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd) | [Forever and Always \(Acoustic Version\)](https://open.spotify.com/album/3wyXosy7uV7muyjHjxVTqO) | 2:58 | 2021-12-17 | 2022-07-27 |
+| [Friends Like That \- feat\. Jason Aldean \- Stripped](https://open.spotify.com/track/5GlUmrVi6AgIFg2CDnblqs) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Friends Like That \(feat\. Jason Aldean \- Stripped\)](https://open.spotify.com/album/62ildty4IOfNHeZbaYmt06) | 3:00 | 2025-04-11 |  |
 | [Front Seat \- Acoustic](https://open.spotify.com/track/3GLE1aZvXO7vSFLQNDbSpC) | [Rayne Johnson](https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt) | [Front Seat \(Acoustic\)](https://open.spotify.com/album/4xaEycpO2WRe32xe485juu) | 3:43 | 2021-12-17 | 2022-07-25 |
 | [Future Me \(Stripped\)](https://open.spotify.com/track/18n24cWVRHKT9PFhkEvsTG) | [Frank Legeay](https://open.spotify.com/artist/3UGllLBllWl2L26fEFe7l0), [Brittany Ray](https://open.spotify.com/artist/3MsA2aQCSDMoi7K7pZEYPo) | [Future Me \(Stripped\)](https://open.spotify.com/album/1BRX5eqhG2MQ5u1Mmzjyui) | 3:10 | 2021-12-17 | 2022-07-09 |
 | [GIRL \- Acoustic](https://open.spotify.com/track/611tozIA4qliEKm6puczXi) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Maren Morris: Reimagined](https://open.spotify.com/album/0Kyfw8VQKjy8KpxRJr35Bc) | 3:53 | 2022-07-08 | 2022-07-28 |
@@ -224,7 +225,7 @@
 | [Something Sexy \(Stripped\)](https://open.spotify.com/track/7ahB6NaGsY42NEiLQEgLiw) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Something Sexy \(Stripped\)](https://open.spotify.com/album/6tlU1uRC0bJBesIpAZakkv) | 3:12 | 2021-12-17 | 2022-07-29 |
 | [Something You Ain't Ever Had \- Acoustic](https://open.spotify.com/track/0WdkuR9ZwleXI1MZH37ZCP) | [Waterloo Revival](https://open.spotify.com/artist/3dYdcyW7mhZYVDDkNvkd0c) | [Something You Ain't Ever Had \(Acoustic\)](https://open.spotify.com/album/4p6gQvM1IU97W6vhWNdBkk) | 3:18 | 2021-12-17 | 2022-07-16 |
 | [Something's Gonna Kill Me \- Piano](https://open.spotify.com/track/4zUuhIVPfWkfSWMFIi7WKx) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Something's Gonna Kill Me \(Piano\)](https://open.spotify.com/album/1Ih4pEKPgOCvcLiVwijzwS) | 3:02 | 2023-09-29 | 2025-02-03 |
-| [Son Of A \(Acoustic\)](https://open.spotify.com/track/6dUVnXkXzVlv9UfxRoJtYN) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Son Of A \(Acoustic\)](https://open.spotify.com/album/3DfnUMdSb5KMIpsJE7BQb3) | 3:16 | 2022-01-28 |  |
+| [Son Of A \(Acoustic\)](https://open.spotify.com/track/6dUVnXkXzVlv9UfxRoJtYN) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Son Of A \(Acoustic\)](https://open.spotify.com/album/3DfnUMdSb5KMIpsJE7BQb3) | 3:16 | 2022-01-28 | 2025-04-13 |
 | [St\. Louis](https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [St\. Louis](https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n) | 4:34 | 2021-12-17 | 2023-11-23 |
 | [St\. Louis](https://open.spotify.com/track/3J8QHat7k7nfLwjjece9Ux) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [St\. Louis](https://open.spotify.com/album/11jsnuDKgMn6IjelspL30z) | 4:34 | 2023-12-01 | 2024-04-19 |
 | [Standing Room Only \- Acoustic](https://open.spotify.com/track/0B8Z2MvMXc52D06L3SkXwE) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Standing Room Only \(Acoustic\)](https://open.spotify.com/album/3rFLlJ2vRuigTDlrA8DmN4) | 3:46 | 2023-07-14 | 2025-02-18 |

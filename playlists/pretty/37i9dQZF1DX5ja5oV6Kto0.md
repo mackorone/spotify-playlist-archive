@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Rigo Kamp
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,635 likes - 80 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,668 likes - 80 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 17 | [4](https://open.spotify.com/track/0Rw7SgIeIDtVMgy0lgTEW5) | [Twitch 4EVA](https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go) | [4](https://open.spotify.com/album/37afImoE5cCB6Nxwg4a28w) | 2:12 |
 | 18 | [Pressure](https://open.spotify.com/track/2EWssKUcfGwwD6lM3JFEA9) | [Marllie](https://open.spotify.com/artist/18STiSzU4S2XPv78JhMpD6) | [Pressure](https://open.spotify.com/album/0niU278BFQvuH7znD3PmEw) | 2:26 |
 | 19 | [f.u.](https://open.spotify.com/track/7cTUvwei61Gfa6PKPczdfu) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [By Any Minz](https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP) | 3:12 |
-| 20 | [Roar](https://open.spotify.com/track/3yCzatvMjefyYlpfNu1gwJ) | [1904](https://open.spotify.com/artist/50O4Rc9EuRo5XHYsCrA2BM), [Saqi NFG](https://open.spotify.com/artist/2ZuybLhxJk89IgAGhjCb5n) | [1904](https://open.spotify.com/album/2nBzG6AcdwRMheFoDg0cfu) | 2:22 |
+| 20 | [Roar](https://open.spotify.com/track/3yCzatvMjefyYlpfNu1gwJ) | [1904](https://open.spotify.com/artist/50O4Rc9EuRo5XHYsCrA2BM), [Saqi NFG](https://open.spotify.com/artist/2ZuybLhxJk89IgAGhjCb5n) | [1904](https://open.spotify.com/album/2nBzG6AcdwRMheFoDg0cfu) | 2:25 |
 | 21 | [Special](https://open.spotify.com/track/77jS1yL8OuZjXP2omoc7Bf) | [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi) | [Special](https://open.spotify.com/album/1Khrq0VrvwzxhY5gZlsQLT) | 2:14 |
 | 22 | [Faaji Jackson](https://open.spotify.com/track/2Y37tCzJtqZfQ6kikUwOHY) | [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Wahala In Paradise](https://open.spotify.com/album/5t6q1yQ545Ir5XBik4MnlG) | 3:29 |
 | 23 | [Bad Bitch Syndrome](https://open.spotify.com/track/6V1BfTxzfU4JcwBesWQCYA) | [Siraheem](https://open.spotify.com/artist/1FAkIUZ8pw9AncpmPhhmuh) | [Bad Bitch Syndrome](https://open.spotify.com/album/3bdRUP7CvZbML84mXRiOjS) | 2:21 |

@@ -521,6 +521,24 @@
     },
     {
       "album": {
+        "name": "De Tijd",
+        "url": "https://open.spotify.com/album/4HckpkaqP3McpKkcscRbcr"
+      },
+      "artists": [
+        {
+          "name": "Flaire",
+          "url": "https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213336,
+      "name": "De Tijd",
+      "url": "https://open.spotify.com/track/3S4ag2mjZWA7rxrhWWc1D3"
+    },
+    {
+      "album": {
         "name": "Deze Stilte",
         "url": "https://open.spotify.com/album/4xnHlfWEjxBAdrtgfl1eEV"
       },
@@ -1242,7 +1260,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 182044,
       "name": "IJsberen",
       "url": "https://open.spotify.com/track/365zVvWp1vTZ7zLOeVZ3Uz"

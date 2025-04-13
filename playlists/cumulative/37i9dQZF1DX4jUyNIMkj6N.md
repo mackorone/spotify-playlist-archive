@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-340 songs - 20 hr 32 min
+341 songs - 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Doves](https://open.spotify.com/track/2ZAiqpVVlUNif9gKbhGLRW) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Doves](https://open.spotify.com/album/1jZSsjU84SBeiLlk7iQs65) | 4:11 | 2024-03-14 | 2025-02-28 |
 | [Down the Line](https://open.spotify.com/track/2dXdGxduPkeL00oHwN4jss) | [Selma & Gustaf](https://open.spotify.com/artist/0tUfqypVbl1m19xo9T9yUL) | [Down the Line](https://open.spotify.com/album/61WmoOg3iTGiykw3xfMpB7) | 4:21 | 2024-03-14 | 2024-08-23 |
 | [Dreamer](https://open.spotify.com/track/4t4uVzI6aDiMw2cEzQWVFI) | [Frøkedal](https://open.spotify.com/artist/7uTDwdxKfkZtEfjpofiYwr) | [Flora Kuriosa](https://open.spotify.com/album/2nIvNjwpTUfptECJWNHArk) | 3:03 | 2021-12-02 | 2022-07-29 |
-| [Early Summer Rain](https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh) | [August Flendahl](https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct) | [Early Summer Rain](https://open.spotify.com/album/41rw0yKJcpUla5orniwd45) | 2:50 | 2022-08-18 |  |
+| [Early Summer Rain](https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh) | [August Flendahl](https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct) | [Early Summer Rain](https://open.spotify.com/album/41rw0yKJcpUla5orniwd45) | 2:50 | 2022-08-18 | 2025-04-13 |
 | [Echoes](https://open.spotify.com/track/5YMEMDmLVnDqvLUirzLRqu) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [Echoes](https://open.spotify.com/album/638VM8l8718I1qj9MlXILl) | 3:47 | 2024-01-11 | 2024-05-29 |
 | [Ei ny tid](https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP) | 2:26 | 2022-03-24 | 2025-02-20 |
 | [Elver](https://open.spotify.com/track/7JFl6iRLynsTPvxWtLswVl) | [Menke](https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ) | [Elver](https://open.spotify.com/album/00meFMAVQIUMGv8eHp55uG) | 4:27 | 2024-01-11 | 2024-04-28 |
@@ -321,6 +321,7 @@
 | [We're All the Way](https://open.spotify.com/track/7Liqd8sniZpyjebLC6dpuR) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG), [Christel Alsos](https://open.spotify.com/artist/30wwNbASvE9GkBDsNVCsnn) | [We're All The Way](https://open.spotify.com/album/6uxe99gY0arAqJb6f3TLFq) | 3:09 | 2023-05-18 | 2023-10-18 |
 | [Well, that's all for now..](https://open.spotify.com/track/0OSwOqUTpBuBN9FdzM4COg) | [Crawly](https://open.spotify.com/artist/6zQ2Dzlyli3ph6sHiXRuG0) | [Well, that's all for now..](https://open.spotify.com/album/6owLx9Zwb6lnzDIt2sBzQy) | 2:11 | 2024-08-22 | 2024-10-24 |
 | [What Hurts the Most \(Is Knowing You Want to Leave\)](https://open.spotify.com/track/4AmUVjNGTEd0DsLDlo518s) | [Unnveig Aas](https://open.spotify.com/artist/1Oa2BGrI6B0GvKabXDU9Se) | [What Hurts the Most \(Is Knowing You Want to Leave\)](https://open.spotify.com/album/7JXDlE2NdHxGcF55Q0whhI) | 4:31 | 2021-12-02 | 2022-07-17 |
+| [What My Heart Needs](https://open.spotify.com/track/0XYd2DMcwh4P2SDB6ahPNh) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Never Look Down](https://open.spotify.com/album/3FrIUKSAtIxvyVOiLRwbhm) | 2:53 | 2025-04-10 |  |
 | [What's Your Time Worth](https://open.spotify.com/track/4Xu0sZo5QjpALLNVnLCHMi) | [Rick Grove](https://open.spotify.com/artist/6ZqkiLDqtgWIf9upBjABI2) | [What's Your Time Worth](https://open.spotify.com/album/5dr1w0x0fZPI07SB9fVpJ3) | 3:35 | 2025-04-03 |  |
 | [When the Mourning Comes](https://open.spotify.com/track/0EaHuGgiDdWDQi9VsS6Xrv) | [Christian Kjellvander](https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6) | [I Saw Her from Here / I Saw Here](https://open.spotify.com/album/6VR7bphUiAWAguSNdCxpHI) | 3:44 | 2022-07-14 | 2023-11-24 |
 | [When the Mourning Comes](https://open.spotify.com/track/2SzMpHEriq3fn4RxXvHHdf) | [Christian Kjellvander](https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6) | [I saw her from here/I saw here from her](https://open.spotify.com/album/1NozolJ5KtborXl2kQBQJW) | 3:44 | 2021-12-02 | 2022-07-29 |

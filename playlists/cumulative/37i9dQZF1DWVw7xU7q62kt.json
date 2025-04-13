@@ -2330,7 +2330,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-13",
+      "date_removed": null,
       "duration_ms": 191246,
       "name": "Dusty",
       "url": "https://open.spotify.com/track/6mNXITyQm2fVWL0zc08YYD"
@@ -5175,6 +5175,32 @@
     },
     {
       "album": {
+        "name": "Mandela Effect",
+        "url": "https://open.spotify.com/album/5F796c2Se6tjUfvA3og3Bz"
+      },
+      "artists": [
+        {
+          "name": "yosev",
+          "url": "https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v"
+        },
+        {
+          "name": "Seb Zillner",
+          "url": "https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x"
+        },
+        {
+          "name": "Lazlow",
+          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128274,
+      "name": "Melted",
+      "url": "https://open.spotify.com/track/6Fw30XaRdMsdihm4UwYmrn"
+    },
+    {
+      "album": {
         "name": "Midnight Bath",
         "url": "https://open.spotify.com/album/5KyO2FXgxIjhsIVZDZhSNc"
       },
@@ -7152,7 +7178,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 123000,
       "name": "Settled",
       "url": "https://open.spotify.com/track/3AT7qsJhazXy92ur5AGgaa"
@@ -8480,7 +8506,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 159001,
       "name": "TDNM, Pt. I",
       "url": "https://open.spotify.com/track/43tOzr3KFjnxMkhfR8q01u"

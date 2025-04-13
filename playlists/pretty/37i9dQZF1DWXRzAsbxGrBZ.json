@@ -1,6 +1,6 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 82861,
+  "num_followers": 82989,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2025-04-10 23:50:32",
       "album": {
+        "name": "Rain Check",
+        "url": "https://open.spotify.com/album/6zhDV5mXSJvaTjB7g6tfzd"
+      },
+      "artists": [
+        {
+          "name": "C-Moody",
+          "url": "https://open.spotify.com/artist/54OOXOPVCHZ2wkppPBXaal"
+        }
+      ],
+      "duration_ms": 473892,
+      "name": "Rain Check",
+      "url": "https://open.spotify.com/track/6oNBspKq9NG1vZNeHbzWmo"
+    },
+    {
+      "added_at": "2025-04-10 23:50:32",
+      "album": {
         "name": "Ratata",
         "url": "https://open.spotify.com/album/4lmS4HsuJ9TgUa7AMLaDV0"
       },
@@ -543,66 +559,6 @@
     {
       "added_at": "2025-04-10 23:50:32",
       "album": {
-        "name": "Rain Check",
-        "url": "https://open.spotify.com/album/6zhDV5mXSJvaTjB7g6tfzd"
-      },
-      "artists": [
-        {
-          "name": "C-Moody",
-          "url": "https://open.spotify.com/artist/54OOXOPVCHZ2wkppPBXaal"
-        }
-      ],
-      "duration_ms": 473892,
-      "name": "Rain Check",
-      "url": "https://open.spotify.com/track/6oNBspKq9NG1vZNeHbzWmo"
-    },
-    {
-      "added_at": "2025-04-10 23:50:32",
-      "album": {
-        "name": "Imizi YoBaba",
-        "url": "https://open.spotify.com/album/7j5rY3B00sNgt44X46ipbs"
-      },
-      "artists": [
-        {
-          "name": "Soulfreakah",
-          "url": "https://open.spotify.com/artist/33LgECnJ6qzEvBzzp4TNAn"
-        },
-        {
-          "name": "MaWhoo",
-          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
-        }
-      ],
-      "duration_ms": 388173,
-      "name": "Imizi YoBaba",
-      "url": "https://open.spotify.com/track/0TaQCJsB8uS5oUjUkPMMa3"
-    },
-    {
-      "added_at": "2025-04-10 23:50:32",
-      "album": {
-        "name": "Nyuku EP",
-        "url": "https://open.spotify.com/album/2y6Yp7xHg48Hm0QWeJ8usx"
-      },
-      "artists": [
-        {
-          "name": "LaTique",
-          "url": "https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD"
-        },
-        {
-          "name": "Chronical Deep",
-          "url": "https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt"
-        },
-        {
-          "name": "Leandra.Vert",
-          "url": "https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l"
-        }
-      ],
-      "duration_ms": 305274,
-      "name": "Mawelele",
-      "url": "https://open.spotify.com/track/0oARCmXr4Ov0Rb7TcJYUnu"
-    },
-    {
-      "added_at": "2025-04-10 23:50:32",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/4zmplDOrmI2HQafep28PVU"
       },
@@ -631,6 +587,50 @@
     {
       "added_at": "2025-04-10 23:50:32",
       "album": {
+        "name": "Nyuku EP",
+        "url": "https://open.spotify.com/album/2y6Yp7xHg48Hm0QWeJ8usx"
+      },
+      "artists": [
+        {
+          "name": "LaTique",
+          "url": "https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD"
+        },
+        {
+          "name": "Chronical Deep",
+          "url": "https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt"
+        },
+        {
+          "name": "Leandra.Vert",
+          "url": "https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l"
+        }
+      ],
+      "duration_ms": 305274,
+      "name": "Mawelele",
+      "url": "https://open.spotify.com/track/0oARCmXr4Ov0Rb7TcJYUnu"
+    },
+    {
+      "added_at": "2025-04-10 23:50:32",
+      "album": {
+        "name": "Imizi YoBaba",
+        "url": "https://open.spotify.com/album/7j5rY3B00sNgt44X46ipbs"
+      },
+      "artists": [
+        {
+          "name": "Soulfreakah",
+          "url": "https://open.spotify.com/artist/33LgECnJ6qzEvBzzp4TNAn"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        }
+      ],
+      "duration_ms": 388173,
+      "name": "Imizi YoBaba",
+      "url": "https://open.spotify.com/track/0TaQCJsB8uS5oUjUkPMMa3"
+    },
+    {
+      "added_at": "2025-04-10 23:50:32",
+      "album": {
         "name": "Hornbill",
         "url": "https://open.spotify.com/album/7268InxY1DaSpSWFVJOTiS"
       },
@@ -651,22 +651,6 @@
       "duration_ms": 433098,
       "name": "Hornbill",
       "url": "https://open.spotify.com/track/0i9ah34nxsEZfIPY1znLvs"
-    },
-    {
-      "added_at": "2025-04-10 23:50:32",
-      "album": {
-        "name": "SHANNY",
-        "url": "https://open.spotify.com/album/6nhYIZtTGI1FYSM4AwWRPH"
-      },
-      "artists": [
-        {
-          "name": "Exte C",
-          "url": "https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23"
-        }
-      ],
-      "duration_ms": 399866,
-      "name": "BLVCK",
-      "url": "https://open.spotify.com/track/2Y11FAP96nSdelyVuVS5uD"
     },
     {
       "added_at": "2025-04-10 23:50:32",
@@ -747,18 +731,38 @@
     {
       "added_at": "2025-04-10 23:50:32",
       "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d"
+        "name": "SHANNY",
+        "url": "https://open.spotify.com/album/6nhYIZtTGI1FYSM4AwWRPH"
       },
       "artists": [
         {
-          "name": "DJ Odyccy",
-          "url": "https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf"
+          "name": "Exte C",
+          "url": "https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23"
         }
       ],
-      "duration_ms": 419465,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq"
+      "duration_ms": 399866,
+      "name": "BLVCK",
+      "url": "https://open.spotify.com/track/2Y11FAP96nSdelyVuVS5uD"
+    },
+    {
+      "added_at": "2025-04-10 23:50:32",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/1jhBxTHC12iy5qZ3z9Cg0m"
+      },
+      "artists": [
+        {
+          "name": "Tebza De SouL",
+          "url": "https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG"
+        },
+        {
+          "name": "SpheraQ",
+          "url": "https://open.spotify.com/artist/3st3c9lOShlywDU01lnEEE"
+        }
+      ],
+      "duration_ms": 396557,
+      "name": "Close to You",
+      "url": "https://open.spotify.com/track/5BoKwlj0zVMVMsZAJCXfmO"
     },
     {
       "added_at": "2025-04-10 23:50:32",
@@ -787,22 +791,18 @@
     {
       "added_at": "2025-04-10 23:50:32",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/1jhBxTHC12iy5qZ3z9Cg0m"
+        "name": "THE XO EFFECT 2",
+        "url": "https://open.spotify.com/album/5xZ3qjRrsbKQbOtKbYwBWt"
       },
       "artists": [
         {
-          "name": "Tebza De SouL",
-          "url": "https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG"
-        },
-        {
-          "name": "SpheraQ",
-          "url": "https://open.spotify.com/artist/3st3c9lOShlywDU01lnEEE"
+          "name": "Fatso 98",
+          "url": "https://open.spotify.com/artist/74bStQkp3goZ5lMZuG8JUr"
         }
       ],
-      "duration_ms": 396557,
-      "name": "Close to You",
-      "url": "https://open.spotify.com/track/5BoKwlj0zVMVMsZAJCXfmO"
+      "duration_ms": 453569,
+      "name": "SOMETHING FOR THE HEART",
+      "url": "https://open.spotify.com/track/2crHF2M9NdB8Qsfxvjfil2"
     },
     {
       "added_at": "2025-04-10 23:50:32",
@@ -835,18 +835,18 @@
     {
       "added_at": "2025-04-10 23:50:32",
       "album": {
-        "name": "THE XO EFFECT 2",
-        "url": "https://open.spotify.com/album/5xZ3qjRrsbKQbOtKbYwBWt"
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d"
       },
       "artists": [
         {
-          "name": "Fatso 98",
-          "url": "https://open.spotify.com/artist/74bStQkp3goZ5lMZuG8JUr"
+          "name": "DJ Odyccy",
+          "url": "https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf"
         }
       ],
-      "duration_ms": 453569,
-      "name": "SOMETHING FOR THE HEART",
-      "url": "https://open.spotify.com/track/2crHF2M9NdB8Qsfxvjfil2"
+      "duration_ms": 419465,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq"
     },
     {
       "added_at": "2025-04-10 23:50:32",
@@ -923,6 +923,26 @@
     {
       "added_at": "2025-04-10 23:50:32",
       "album": {
+        "name": "AWA",
+        "url": "https://open.spotify.com/album/28e7SX68Y9jGYw8Pbj0AIe"
+      },
+      "artists": [
+        {
+          "name": "Ralf Gum",
+          "url": "https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN"
+        },
+        {
+          "name": "Monica Blaire",
+          "url": "https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK"
+        }
+      ],
+      "duration_ms": 239995,
+      "name": "AWA - Ralf GUM Vocal Mix Edit",
+      "url": "https://open.spotify.com/track/7shDYbTq0YcuDWgzJdziyY"
+    },
+    {
+      "added_at": "2025-04-10 23:50:32",
+      "album": {
         "name": "Can't Give Up Now (EarfulSoul)",
         "url": "https://open.spotify.com/album/6olF6HEAM2ivZ6FWT8mqoO"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 446646,
       "name": "Can't Give Up Now (feat. EarfulSoul)",
       "url": "https://open.spotify.com/track/37cOwwinIiuZBzpLdjxstR"
-    },
-    {
-      "added_at": "2025-04-10 23:50:32",
-      "album": {
-        "name": "AWA",
-        "url": "https://open.spotify.com/album/28e7SX68Y9jGYw8Pbj0AIe"
-      },
-      "artists": [
-        {
-          "name": "Ralf Gum",
-          "url": "https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN"
-        },
-        {
-          "name": "Monica Blaire",
-          "url": "https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK"
-        }
-      ],
-      "duration_ms": 239995,
-      "name": "AWA - Ralf GUM Vocal Mix Edit",
-      "url": "https://open.spotify.com/track/7shDYbTq0YcuDWgzJdziyY"
     },
     {
       "added_at": "2025-04-10 23:50:32",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2025-04-10 23:50:32",
       "album": {
-        "name": "Unprepared",
-        "url": "https://open.spotify.com/album/7uEWijv34tZQflxMh21Yg3"
-      },
-      "artists": [
-        {
-          "name": "Zinyo",
-          "url": "https://open.spotify.com/artist/2vk3zvWovQVzknMW3HREjV"
-        },
-        {
-          "name": "DJ Clock",
-          "url": "https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg"
-        }
-      ],
-      "duration_ms": 405447,
-      "name": "Unprepared",
-      "url": "https://open.spotify.com/track/6ONHhlt6ru9nmImeDs0w8e"
-    },
-    {
-      "added_at": "2025-04-10 23:50:32",
-      "album": {
         "name": "Tumelo",
         "url": "https://open.spotify.com/album/2YDLE98M1ir1L16llkTYhR"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 477681,
       "name": "Stimela Re-Visited Mashed-Up",
       "url": "https://open.spotify.com/track/7rviKFZKGFvs7wMi776Yol"
+    },
+    {
+      "added_at": "2025-04-10 23:50:32",
+      "album": {
+        "name": "Unprepared",
+        "url": "https://open.spotify.com/album/7uEWijv34tZQflxMh21Yg3"
+      },
+      "artists": [
+        {
+          "name": "Zinyo",
+          "url": "https://open.spotify.com/artist/2vk3zvWovQVzknMW3HREjV"
+        },
+        {
+          "name": "DJ Clock",
+          "url": "https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg"
+        }
+      ],
+      "duration_ms": 405447,
+      "name": "Unprepared",
+      "url": "https://open.spotify.com/track/6ONHhlt6ru9nmImeDs0w8e"
     },
     {
       "added_at": "2025-04-10 23:50:32",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2025-04-10 23:50:32",
       "album": {
+        "name": "Just Another Tuesday",
+        "url": "https://open.spotify.com/album/47uGYrIDZJV5eflDYQY264"
+      },
+      "artists": [
+        {
+          "name": "Da Real Emkay",
+          "url": "https://open.spotify.com/artist/3fCLla6NLpXvcKZ6GYZxmt"
+        }
+      ],
+      "duration_ms": 450005,
+      "name": "Casablanca - Addictive Mix",
+      "url": "https://open.spotify.com/track/2cFukSsSLfvUWuL613RiRX"
+    },
+    {
+      "added_at": "2025-04-10 23:50:32",
+      "album": {
         "name": "VO",
         "url": "https://open.spotify.com/album/6czH3qSpT34ZlRDyhEOPJ0"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 387692,
       "name": "Mmeria (feat. Jessica LM)",
       "url": "https://open.spotify.com/track/3xgqrl9BQRmQNK4Y3DI5s6"
-    },
-    {
-      "added_at": "2025-04-10 23:50:32",
-      "album": {
-        "name": "Just Another Tuesday",
-        "url": "https://open.spotify.com/album/47uGYrIDZJV5eflDYQY264"
-      },
-      "artists": [
-        {
-          "name": "Da Real Emkay",
-          "url": "https://open.spotify.com/artist/3fCLla6NLpXvcKZ6GYZxmt"
-        }
-      ],
-      "duration_ms": 450005,
-      "name": "Casablanca - Addictive Mix",
-      "url": "https://open.spotify.com/track/2cFukSsSLfvUWuL613RiRX"
     },
     {
       "added_at": "2025-04-10 23:50:32",
@@ -1247,22 +1247,18 @@
     {
       "added_at": "2025-04-10 23:50:32",
       "album": {
-        "name": "Mashigo",
-        "url": "https://open.spotify.com/album/4tV6WaT9kVHcCC6HZVBDK8"
+        "name": "Victimized, Vol. 2",
+        "url": "https://open.spotify.com/album/5rP9dcGPYuXvoFGtecoUiV"
       },
       "artists": [
         {
-          "name": "Efkay Da Shiqwan",
-          "url": "https://open.spotify.com/artist/2mDCb6WuUWJr54kp4gO8PK"
-        },
-        {
-          "name": "Dvine Brothers",
-          "url": "https://open.spotify.com/artist/5fzSSNHQXicULlcQqBpMh3"
+          "name": "House Victimz",
+          "url": "https://open.spotify.com/artist/2jLxHBm09mAVmAoaVh47Lr"
         }
       ],
-      "duration_ms": 431259,
-      "name": "Mashigo",
-      "url": "https://open.spotify.com/track/6jUtlh19XJy7qzVbteiSwg"
+      "duration_ms": 398766,
+      "name": "Thee Devil",
+      "url": "https://open.spotify.com/track/4qrSEhrGrBE4NktN87fMii"
     },
     {
       "added_at": "2025-04-10 23:50:32",
@@ -1291,18 +1287,22 @@
     {
       "added_at": "2025-04-10 23:50:32",
       "album": {
-        "name": "Victimized, Vol. 2",
-        "url": "https://open.spotify.com/album/5rP9dcGPYuXvoFGtecoUiV"
+        "name": "Mashigo",
+        "url": "https://open.spotify.com/album/4tV6WaT9kVHcCC6HZVBDK8"
       },
       "artists": [
         {
-          "name": "House Victimz",
-          "url": "https://open.spotify.com/artist/2jLxHBm09mAVmAoaVh47Lr"
+          "name": "Efkay Da Shiqwan",
+          "url": "https://open.spotify.com/artist/2mDCb6WuUWJr54kp4gO8PK"
+        },
+        {
+          "name": "Dvine Brothers",
+          "url": "https://open.spotify.com/artist/5fzSSNHQXicULlcQqBpMh3"
         }
       ],
-      "duration_ms": 398766,
-      "name": "Thee Devil",
-      "url": "https://open.spotify.com/track/4qrSEhrGrBE4NktN87fMii"
+      "duration_ms": 431259,
+      "name": "Mashigo",
+      "url": "https://open.spotify.com/track/6jUtlh19XJy7qzVbteiSwg"
     },
     {
       "added_at": "2025-04-10 23:50:32",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-04-10 23:50:32",
       "album": {
-        "name": "Inception",
-        "url": "https://open.spotify.com/album/73BrwGBY3zdh1234E5b0M1"
-      },
-      "artists": [
-        {
-          "name": "SpheraQ",
-          "url": "https://open.spotify.com/artist/3st3c9lOShlywDU01lnEEE"
-        }
-      ],
-      "duration_ms": 574049,
-      "name": "All The Pain",
-      "url": "https://open.spotify.com/track/3jnAffFaqxwrOmmrVthUzn"
-    },
-    {
-      "added_at": "2025-04-10 23:50:32",
-      "album": {
         "name": "Jewels",
         "url": "https://open.spotify.com/album/7w0aGvreLMz7dGW1G78Ym5"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 440330,
       "name": "Jewels",
       "url": "https://open.spotify.com/track/2u36IdOtMZsEY1yCjKvz0B"
+    },
+    {
+      "added_at": "2025-04-10 23:50:32",
+      "album": {
+        "name": "Inception",
+        "url": "https://open.spotify.com/album/73BrwGBY3zdh1234E5b0M1"
+      },
+      "artists": [
+        {
+          "name": "SpheraQ",
+          "url": "https://open.spotify.com/artist/3st3c9lOShlywDU01lnEEE"
+        }
+      ],
+      "duration_ms": 574049,
+      "name": "All The Pain",
+      "url": "https://open.spotify.com/track/3jnAffFaqxwrOmmrVthUzn"
     },
     {
       "added_at": "2025-04-10 23:50:32",

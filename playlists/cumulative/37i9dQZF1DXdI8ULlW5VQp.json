@@ -3517,6 +3517,28 @@
     },
     {
       "album": {
+        "name": "Bendito Desamor",
+        "url": "https://open.spotify.com/album/6LY0E3EMCawQUMWNPksIaR"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        },
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188042,
+      "name": "La \u00daltima Carta",
+      "url": "https://open.spotify.com/track/1wUUGsbWpr8EFrZu1bxGra"
+    },
+    {
+      "album": {
         "name": "Las Escondidas",
         "url": "https://open.spotify.com/album/6lRfxWDjDqwTRYS4Yb5q3S"
       },
@@ -5306,7 +5328,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 153440,
       "name": "Polvo De Gigantes",
       "url": "https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV"

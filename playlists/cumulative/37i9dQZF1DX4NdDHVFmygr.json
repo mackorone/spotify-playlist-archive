@@ -8481,6 +8481,28 @@
     },
     {
       "album": {
+        "name": "Zendaya",
+        "url": "https://open.spotify.com/album/33hMxOxJZVA8XuvN07tuq9"
+      },
+      "artists": [
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Zouhair Bahaoui",
+          "url": "https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184568,
+      "name": "Zendaya",
+      "url": "https://open.spotify.com/track/7oZZcZOMSG743m8awHqWGS"
+    },
+    {
+      "album": {
         "name": "Zerba",
         "url": "https://open.spotify.com/album/0rk4KargHTEdXsEz1FxQKt"
       },

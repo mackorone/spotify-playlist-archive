@@ -4,7 +4,7 @@
 
 > Uutta musiikkia Behmiltä, Lauri Haavilta ja williamilta & Ettalta.
 
-5,409 songs - 11 day 22 hr 33 min
+5,409 songs - 11 day 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1787,7 +1787,7 @@
 | [Higher](https://open.spotify.com/track/3xWOfgZzCg1jdEpEfM4oKi) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M) | [Higher](https://open.spotify.com/album/1TGiQpFGwQtuDcxNcKeFRb) | 2:40 | 2025-01-16 | 2025-01-24 |
 | [HIGHER](https://open.spotify.com/track/7a82N5DrxDyrLMaP3tq9NM) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [HIGHER](https://open.spotify.com/album/0VaYBiCTEsEKPTrezUpwla) | 2:11 | 2024-08-22 | 2024-08-30 |
 | [Higher](https://open.spotify.com/track/3ST1g55sl9NDYOw5BwtaqT) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Higher](https://open.spotify.com/album/3b8s7uA0RjzJlP3WfIpdsa) | 3:21 | 2024-09-19 | 2024-09-27 |
-| [Higher](https://open.spotify.com/track/3fttuc1GSLZSovtB2Q2jX6) | [Waltari](https://open.spotify.com/artist/6IuUpA7uQbkfYhl3oG3ZDv) | [Higher](https://open.spotify.com/album/2jbLUNxqF9vKNjRLganbPf) | 4:13 | 2025-04-10 |  |
+| [Higher](https://open.spotify.com/track/3fttuc1GSLZSovtB2Q2jX6) | [Waltari](https://open.spotify.com/artist/6IuUpA7uQbkfYhl3oG3ZDv) | [Higher](https://open.spotify.com/album/2jbLUNxqF9vKNjRLganbPf) | 3:20 | 2025-04-10 |  |
 | [Higher Love \(feat\. Natania and Subhi\) \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/7vh5wN9o1meMGK8DooO7KD) | [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Higher Love \(feat\. Natania and Subhi\) \[from the Smurfs Movie Soundtrack\]](https://open.spotify.com/album/4AitGOdoQPQZGcpiGXMHAq) | 2:56 | 2025-02-20 | 2025-02-28 |
 | [Highlight](https://open.spotify.com/track/0XdLGeMddzvB6CtkuFHy7i) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Highlight](https://open.spotify.com/album/4z1KgyCoUK2h22jRFnd2yy) | 4:11 | 2024-08-22 | 2024-08-30 |
 | [Highlights](https://open.spotify.com/track/65WLQk6JqvgM2gs5Nh2D8i) | [Zorro](https://open.spotify.com/artist/1RrZDKz5tA9AWiVzXGWEBY), [Ooyy](https://open.spotify.com/artist/0xe3AMjZeR6z3g4O6Vppjq) | [Highlights](https://open.spotify.com/album/5dXM1oVWJwBptWBLTiWXPT) | 3:24 | 2024-08-29 | 2024-09-06 |

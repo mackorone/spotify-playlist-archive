@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-997 songs - 2 day 10 hr 58 min
+998 songs - 2 day 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,7 +456,7 @@
 | [Lucky](https://open.spotify.com/track/5NCL8tzDw56FyB6ip8TVz5) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Sunny](https://open.spotify.com/artist/48vcm2gHOmAYMCt7RDHcKJ), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Lucky](https://open.spotify.com/album/2g1y7o6N9KobCmJdt5P6AR) | 3:23 | 2024-05-23 | 2024-08-08 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-17 | 2024-09-05 |
 | [Luv Myself](https://open.spotify.com/track/4woDrq2rIKBbI6UNkzB48j) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Luv Myself](https://open.spotify.com/album/4sJMZSWobdfCTgwICMGU6d) | 4:28 | 2023-11-07 | 2024-01-31 |
-| [Luv Myself \(feat\. AKLO & KEIJU\)](https://open.spotify.com/track/4mHSUBNuNUQOhje74CTbBx) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Luv Myself \(feat\. AKLO & KEIJU\)](https://open.spotify.com/album/3Oz0Tx9z3PMNMX3Owo2CGA) | 4:28 | 2024-04-16 |  |
+| [Luv Myself \(feat\. AKLO & KEIJU\)](https://open.spotify.com/track/4mHSUBNuNUQOhje74CTbBx) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Luv Myself \(feat\. AKLO & KEIJU\)](https://open.spotify.com/album/3Oz0Tx9z3PMNMX3Owo2CGA) | 4:28 | 2024-04-16 | 2025-04-13 |
 | [MABATAKI TO SEISHIN TO KIMI NO UTA TO ONGAKU TO](https://open.spotify.com/track/0dPBmyhOEonUNrfqywYioK) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [MABATAKI TO SEISHIN TO KIMI NO UTA TO ONGAKU TO](https://open.spotify.com/album/7lXiHtM1UrVjszxehfzoyI) | 3:55 | 2022-12-06 | 2023-01-11 |
 | [Madonna](https://open.spotify.com/track/0cmFvQp6vy6TuwcGGdACZ6) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Hole Erth](https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe) | 2:52 | 2024-09-11 | 2024-10-03 |
 | [Madoromi](https://open.spotify.com/track/7H8fkWbpfyggT5xpWAIr0d) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Madoromi](https://open.spotify.com/album/0Gw3Ag34k3rrQKQE7onPfB) | 4:23 | 2023-10-05 | 2023-11-17 |
@@ -620,6 +620,7 @@
 | [Private \- Remix](https://open.spotify.com/track/0mau1gwrttKfQT2Se0l7gf) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU), [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U) | [Private \(feat\. Ryohu\) \[Remix\]](https://open.spotify.com/album/4uDUP8r65ZnXWkbvSYoKg3) | 2:58 | 2025-03-26 | 2025-04-03 |
 | [PRO](https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34) | 2:32 | 2023-09-12 | 2023-10-18 |
 | [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 | 2022-10-20 | 2022-12-17 |
+| [Pull Together](https://open.spotify.com/track/4En0kUtwgYue2FoxmoEXc4) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Pull Together](https://open.spotify.com/album/3vguocDvbu7tZKGu36Clun) | 4:13 | 2025-04-02 |  |
 | [Pulse](https://open.spotify.com/track/3n9eP96QDez9hRfEvlP91z) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Magnet](https://open.spotify.com/album/2mZuf80aYdleohrQAcdoqJ) | 3:41 | 2023-03-28 | 2023-04-19 |
 | [pure](https://open.spotify.com/track/2Ghs8zDKCFcrGIOUw6sF6n) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [pure](https://open.spotify.com/album/7yHEymRjZe5RVDm84rp3XW) | 3:25 | 2023-11-21 | 2023-12-01 |
 | [pure](https://open.spotify.com/track/63TFuwZlCpaK4Y5BTqJFFP) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [pure](https://open.spotify.com/album/69PIhKhUSBwZkJRTP4MSkj) | 3:25 | 2023-11-21 | 2023-11-23 |

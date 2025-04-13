@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-734 songs - 1 day 13 hr 2 min
+735 songs - 1 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Follow Me](https://open.spotify.com/track/19aAvyfu96PEYMVigkJTgN) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Follow Me](https://open.spotify.com/album/1dc9eva5qEPPxnGX9LZ4eX) | 3:00 | 2022-02-18 | 2022-04-14 |
 | [Follow the Sun](https://open.spotify.com/track/5NhrlsuS5y4T4N7WbbEute) | [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Follow the Sun](https://open.spotify.com/album/1lSdGLnnafiYlTMRKvXFae) | 2:34 | 2022-07-01 |  |
 | [Follow the Sun](https://open.spotify.com/track/1WSkQNWCHM70GTEalSYzbz) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Follow the Sun](https://open.spotify.com/album/4fK4H2s7ScUevkJwfSb8vm) | 1:56 | 2022-04-08 |  |
+| [Follow The Waves \(feat\. Caden\)](https://open.spotify.com/track/5kFHq6Z70bf8jKrHHOBfGS) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Caden](https://open.spotify.com/artist/3g9TrS2xoUpvNJXvQejXYS) | [Follow The Waves \(feat\. Caden\)](https://open.spotify.com/album/2w1u1N0UTUrv0sWF7y5ncy) | 2:50 | 2025-04-11 |  |
 | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 | 2024-04-19 |  |
 | [Forever And A Day \- LVNDSCAPE Remix](https://open.spotify.com/track/4MmESCOyomLv2BmcHkVAQY) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [Natalie Peris](https://open.spotify.com/artist/1RtzTxvZZdPsVz82rB7BEs), [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M) | [Forever And A Day](https://open.spotify.com/album/3GbSqBflhUSuP294AP68GQ) | 3:55 | 2022-01-14 | 2022-05-07 |
 | [Freak \- Sam Feldt Remix Edit](https://open.spotify.com/track/5SNTUBSq1Qzi0URdB443h1) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Freak](https://open.spotify.com/album/0ojB0D1LudlOhfQr3mQaJ7) | 3:16 | 2022-01-14 | 2022-05-23 |
@@ -545,7 +546,7 @@
 | [Running Up That Hill](https://open.spotify.com/track/2S7BMKDtnEv1FlGhvSTmoD) | [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy), [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om) | [Running Up That Hill](https://open.spotify.com/album/5WK2Fkq0tgZYyuE4iESU5n) | 4:16 | 2022-10-28 | 2024-04-19 |
 | [Sabaii](https://open.spotify.com/track/4m4IFDTc5XVx7XY356pAFI) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP), [Five Corners](https://open.spotify.com/artist/76OQydrjsFbNZy1wZkMgYy), [Natty Rico](https://open.spotify.com/artist/4XjCsLo0E4017wblpE9BDL) | [Sabaii](https://open.spotify.com/album/3xX617nnbugYqd0XFUdi9J) | 2:23 | 2023-08-04 |  |
 | [Safe and Sound \- Radio Edit](https://open.spotify.com/track/340sV0G2e1h5jWsMyDRmc9) | [NLSN](https://open.spotify.com/artist/7vO5wbzI9RdVYlOGFL2ofk), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [Safe and Sound \(Radio Edit\)](https://open.spotify.com/album/28AKutXX5V1KwEJHWSyDRL) | 3:01 | 2022-01-14 | 2022-04-09 |
-| [Safe Place](https://open.spotify.com/track/6u4UWP0u9zBpyoNoDlE3jH) | [Weisser Quiff](https://open.spotify.com/artist/5sWo77aB32PpzTAhZfQBQy), [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1) | [Safe Place](https://open.spotify.com/album/1pYpvMrJ5s9oO9T6cGKXKt) | 2:11 | 2023-05-26 |  |
+| [Safe Place](https://open.spotify.com/track/6u4UWP0u9zBpyoNoDlE3jH) | [Weisser Quiff](https://open.spotify.com/artist/5sWo77aB32PpzTAhZfQBQy), [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1) | [Safe Place](https://open.spotify.com/album/1pYpvMrJ5s9oO9T6cGKXKt) | 2:11 | 2023-05-26 | 2025-04-13 |
 | [Saint Louis](https://open.spotify.com/track/6TPU5TjNTQSj9Mm1Uq2AhE) | [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Saint Louis](https://open.spotify.com/album/7bluYrSCKPO89yVbd79cFa) | 4:30 | 2022-01-14 | 2023-06-28 |
 | [San Diego Fair](https://open.spotify.com/track/6hLntMbBTVNebB6d20BDET) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [San Diego Fair](https://open.spotify.com/album/2LbozLpKpWAXZO7clNCZpd) | 2:20 | 2022-04-01 | 2022-07-29 |
 | [Sanity](https://open.spotify.com/track/1YiXjlwgk7Fvx0xCZWoQU1) | [Meynberg](https://open.spotify.com/artist/59a0J35YbYHfojR8iIpzuX) | [Sanity](https://open.spotify.com/album/6oASRdLCRV0ezbg1XWKy6O) | 3:15 | 2022-04-01 | 2022-07-29 |

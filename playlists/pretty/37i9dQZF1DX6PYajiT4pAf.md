@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Rauw Alejandro, Trueno & Young Miko, La La Love You y más novedades importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,131 likes - 70 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,207 likes - 70 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 37 | [amigo mío](https://open.spotify.com/track/50TEoQVlvElP7GYPKD82kD) | [Serko](https://open.spotify.com/artist/2mHURFmt3SwlrBWImZwYoq) | [amigo mío](https://open.spotify.com/album/0iAnrmYt2j8ascopNQD4vc) | 3:34 |
 | 38 | [ENTRE DOS TIERRAS](https://open.spotify.com/track/56d7UORUWv8HcS865oJhyv) | [Miguel Campello](https://open.spotify.com/artist/0OzDyhPnwvUVGRNWrVILlg) | [ENTRE DOS TIERRAS](https://open.spotify.com/album/3ot9QpfpEWE7J7GCpdf6Fp) | 4:16 |
 | 39 | [No Me Arrepiento](https://open.spotify.com/track/0YHqagPx2BWrDdEPhk1XwV) | [Kike & Manu](https://open.spotify.com/artist/1fG28qIFkvShX2nhQZvuqC), [Ozarus](https://open.spotify.com/artist/4DnQtKDnMN03ahgfDWcmJz) | [No Me Arrepiento](https://open.spotify.com/album/0FtaaqQjw8vNM9QIyhSQXF) | 2:24 |
-| 40 | [Una vez más](https://open.spotify.com/track/6DeantUK7ZmLV1LLSYMQ2F) | [Victor R \-Swag](https://open.spotify.com/artist/5Jz48JzVckf7ZUvrQc55Iq), [Andy AJR](https://open.spotify.com/artist/1esNgu2TFE51MPJbzMexN5), [Yunell](https://open.spotify.com/artist/4U4H50hOGXClN2AVTdsE57), [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z), [Anthony Ready & Yergo](https://open.spotify.com/artist/5B4R50WNW0yDDeVCdlEttL) | [Una vez más](https://open.spotify.com/album/0BlUS9qvONmUFxNgSxQumA) | 3:39 |
+| 40 | [Una vez más](https://open.spotify.com/track/6DeantUK7ZmLV1LLSYMQ2F) | [Victor R \-Swag](https://open.spotify.com/artist/5Jz48JzVckf7ZUvrQc55Iq), [Andy AJR](https://open.spotify.com/artist/1esNgu2TFE51MPJbzMexN5), [Yunell](https://open.spotify.com/artist/4U4H50hOGXClN2AVTdsE57), [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z), [Anthony Ready & Yeigo](https://open.spotify.com/artist/3jbsnUDtwiiGVikbY9VYK7) | [Una vez más](https://open.spotify.com/album/0BlUS9qvONmUFxNgSxQumA) | 3:39 |
 | 41 | [TREMENDO \(feat\. Henry Mendez\)](https://open.spotify.com/track/7KdKzYaVEJSwoiEG7CwT7u) | [Rasel](https://open.spotify.com/artist/1uh9OOdPa89c5zPaOD6K2N), [Henry Mendez](https://open.spotify.com/artist/4mnY9Vvz3GXQIyHljvWnY1) | [TREMENDO \(feat\. Henry Mendez\)](https://open.spotify.com/album/1781qU59iVBbuAHsmbV9r7) | 2:50 |
 | 42 | [Apolo](https://open.spotify.com/track/3sOGMTwbLJMORZRRuVt8Nz) | [Ana Emilia](https://open.spotify.com/artist/1kxxYp7QI9TB9iWTzf7gTG), [Alberto Toral](https://open.spotify.com/artist/7ioLIYKoKn2YfhA1i6L47p), [Ozarus](https://open.spotify.com/artist/4DnQtKDnMN03ahgfDWcmJz) | [Apolo](https://open.spotify.com/album/4Pjs29ST9AUnkhlGlkkwgt) | 2:30 |
 | 43 | [El Juego de la Vida](https://open.spotify.com/track/7mGUS5sqJZTfkwssXXTk5M) | [Soraya](https://open.spotify.com/artist/4HsWGs7hJKcbM1aiRnUDWj), [Pastora Soler](https://open.spotify.com/artist/6nh96lsvDLuCVpgpfjeYnM) | [El Juego de la Vida](https://open.spotify.com/album/7mZnakkKPcRYVSClYnowXK) | 2:39 |

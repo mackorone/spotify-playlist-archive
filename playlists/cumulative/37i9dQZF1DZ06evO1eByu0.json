@@ -743,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Ele \u00e9 Exaltado (He is Exalted)",
+        "url": "https://open.spotify.com/album/3oF71xDaDMcDsR3rfH6MVG"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219642,
+      "name": "Ele \u00e9 Exaltado (He is Exalted)",
+      "url": "https://open.spotify.com/track/7vMdIEZIZDdqGJzFcNgnrt"
+    },
+    {
+      "album": {
         "name": "Tudo Sobre Ele",
         "url": "https://open.spotify.com/album/4FYo2VRJYru3XbUySDd7tA"
       },
@@ -1620,7 +1638,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 160914,
       "name": "Samuel",
       "url": "https://open.spotify.com/track/5NnWQ6Bqy3Lvcek2yoUXSE"

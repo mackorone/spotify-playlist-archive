@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Bon Iver
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,337,760 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,337,736 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 7 | [with u](https://open.spotify.com/track/5bQDapqPmoCukx6ZgO4T1b) | [2006WR](https://open.spotify.com/artist/5IpbIczge2iZZKQn50SQxE) | [with u](https://open.spotify.com/album/1e1d2t4jdgxB9LVqnc0ZWe) | 2:16 |
 | 8 | [PROLLY US](https://open.spotify.com/track/0MrC4TPiI18N38Ga7Cl4qO) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Chèlbè](https://open.spotify.com/album/4vKup5g5YoD5blHlYdvy5p) | 2:31 |
 | 9 | [Sweetie](https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Sweetie](https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36) | 4:04 |
-| 10 | [Sexy Boy \- Vegyn Remix](https://open.spotify.com/track/4LtgB8Rg2PJXqNuRs97rXl) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Blue Moon Safari](https://open.spotify.com/album/091tPFouQEyjL5Rekipta8) | 4:59 |
+| 10 | [Sexy Boy \- Vegyn Version](https://open.spotify.com/track/4LtgB8Rg2PJXqNuRs97rXl) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Blue Moon Safari](https://open.spotify.com/album/091tPFouQEyjL5Rekipta8) | 4:59 |
 | 11 | [everyone, outside](https://open.spotify.com/track/2YitJnxCvlpZcjasyKqja5) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [everyone, outside](https://open.spotify.com/album/3OTLEJFqyTbgrArD8wYN1S) | 2:58 |
 | 12 | [Sweet Danger](https://open.spotify.com/track/1IPRwv7FqZvdaawA2YWCcQ) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Sweet Danger](https://open.spotify.com/album/6pIdfb0OaCvfzN6QxKOJQ2) | 2:40 |
 | 13 | [Floating](https://open.spotify.com/track/7eRVFgw3NwIK0ixmtboOFF) | [Maria Usbeck](https://open.spotify.com/artist/16pdeeyke2dzEJXSj0MPft) | [Floating](https://open.spotify.com/album/3dOyy8YWEk5p49y8TJ4k1F) | 4:32 |

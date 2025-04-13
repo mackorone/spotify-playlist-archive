@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/31A14TfHevKvkdkmtPAaq1.md) - [plain]
 
 > April is Christian Music Month \- a time to celebrate the songs that uplift, inspire, and bring hope! From timeless worship anthems to fresh new sounds, this playlist is all about faith, encouragement, and joy\. Hit play, turn it up, and share the love! Discover more at ChristianMusicMonth.com
 
-[Gospel Music Association](https://open.spotify.com/user/gospelmusicassoc) - 135 likes - 73 songs - 5 hr 11 min
+[Gospel Music Association](https://open.spotify.com/user/gospelmusicassoc) - 159 likes - 75 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,5 +81,7 @@ pretty - [cumulative](/playlists/cumulative/31A14TfHevKvkdkmtPAaq1.md) - [plain]
 | 71 | [Honey In The Rock \- Live](https://open.spotify.com/track/06EzKxIt7WUokYpkitiIK2) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [SEVEN \(Live\)](https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt) | 4:43 |
 | 72 | [JERICHO WALLS](https://open.spotify.com/track/2lboNYBNF71Ju153GaMrez) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl) | [JERICHO WALLS](https://open.spotify.com/album/3Tco6lGqiHmttFOd9z5pkb) | 3:05 |
 | 73 | [Water Grave](https://open.spotify.com/track/1A0vFB7fXkXyKIPWTyXcxF) | [Chosen Road](https://open.spotify.com/artist/2DFoaBr8ZkxOjcQ8Qvwqwh) | [Water Grave](https://open.spotify.com/album/7wHpk7Q3jKIvgLf7my3xAk) | 4:18 |
+| 74 | [Change Your Mind](https://open.spotify.com/track/3UzUPfnjM906tmFSegZBOA) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484), [Keith Staten](https://open.spotify.com/artist/1p94IpPWGRqcNsAmzCtnWe), [Marcus Cole](https://open.spotify.com/artist/2bijKkJaOp4tSJASryiJNB), [FK&M](https://open.spotify.com/artist/0QEY4d9rhrxTR8nMdudJ0y) | [Time Capsule \- The Trilogy](https://open.spotify.com/album/2jnCtWe4Ipkj61hdRHjPiR) | 5:10 |
+| 75 | [Making Room](https://open.spotify.com/track/04MpvZX3ddrTjhDuKqc5Zt) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Making Room](https://open.spotify.com/album/2xmKVwLGNiDeVFXgUHqWXo) | 4:21 |
 
-Snapshot ID: `AAAAVZcwTtr3a6lR8UqTuMYAK04zW9pK`
+Snapshot ID: `AAAAV4J+b4TTmzTcEdMv7eFYgBNMDVaI`

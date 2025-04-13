@@ -6450,7 +6450,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 87040,
       "name": "BISEXU\u00c1LKA",
       "url": "https://open.spotify.com/track/4HalVJq2tpKFwTfHosue13"
@@ -7206,7 +7206,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 258133,
       "name": "Bolje Biti Pijan Nego Star",
       "url": "https://open.spotify.com/track/4jeDExdmOHNqhsF5mj69m7"
@@ -11924,7 +11924,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 136991,
       "name": "Dark Thoughts",
       "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
@@ -13382,7 +13382,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-10",
+      "date_removed": null,
       "duration_ms": 123252,
       "name": "Documentary (PRG)",
       "url": "https://open.spotify.com/track/2riqiigo5Pih1FulyLES0H"
@@ -28120,7 +28120,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 150001,
       "name": "La Plena - W Sound 05",
       "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
@@ -34894,7 +34894,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 126036,
       "name": "Ms. Whitman",
       "url": "https://open.spotify.com/track/1LjSbD1yQ0RQc6mwxGHw4m"
@@ -38990,7 +38990,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 201920,
       "name": "Ojos Tristes (with The Mar\u00edas)",
       "url": "https://open.spotify.com/track/1DpC4L3JjsGRW7y6eTHaMj"
@@ -47627,6 +47627,36 @@
     },
     {
       "album": {
+        "name": "Shake It To The Max (FLY) (Kalash & Maureen Remix)",
+        "url": "https://open.spotify.com/album/6bwAGOb3zI1RJBBd9e0Vle"
+      },
+      "artists": [
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Silent Addy",
+          "url": "https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt"
+        },
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        },
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181224,
+      "name": "Shake It To The Max (FLY) - Kalash & Maureen Remix",
+      "url": "https://open.spotify.com/track/6J9aDPnmDkiPAxWhwLV8Zr"
+    },
+    {
+      "album": {
         "name": "Shake It To The Max (FLY) (Remix)",
         "url": "https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs"
       },
@@ -47942,6 +47972,28 @@
       "duration_ms": 185573,
       "name": "Shinunoga E-Wa",
       "url": "https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW"
+    },
+    {
+      "album": {
+        "name": "SHOCK",
+        "url": "https://open.spotify.com/album/5YdNFbMOpmuMAm3fJawt07"
+      },
+      "artists": [
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        },
+        {
+          "name": "Mjay Beatz",
+          "url": "https://open.spotify.com/artist/7f17kNraGVHoDYicwmveeJ"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169014,
+      "name": "SHOCK",
+      "url": "https://open.spotify.com/track/3h5LtZstUJRyx1vXOPmEZt"
     },
     {
       "album": {
@@ -57312,6 +57364,32 @@
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
+    },
+    {
+      "album": {
+        "name": "VOLKSWAGEN FUNK",
+        "url": "https://open.spotify.com/album/1fsqVvld64Nym3Byfl6ekY"
+      },
+      "artists": [
+        {
+          "name": "NVRXMARV",
+          "url": "https://open.spotify.com/artist/3wuzmgnvjw5FzJiz8wjrq1"
+        },
+        {
+          "name": "LXSTURY",
+          "url": "https://open.spotify.com/artist/1eERcEkPBnNCbqoZHvoM2C"
+        },
+        {
+          "name": "justforgetme",
+          "url": "https://open.spotify.com/artist/4thCAXlpGSQSUe13fvzjrA"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108923,
+      "name": "VOLKSWAGEN FUNK - super slowed",
+      "url": "https://open.spotify.com/track/4WFgUkgd1gCHBFwgZ1Dj8K"
     },
     {
       "album": {

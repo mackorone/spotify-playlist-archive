@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/cKAAAAAABuACdDpvcTZdL2aiHHFeRZ",
+  "snapshot_id": "Z/hbgAAAAAALR40AISBUdxIKt0NQhPiu",
   "tracks": [
     {
       "added_at": null,
@@ -131,6 +131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Daniela Ara\u00fajo",
+        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 237819,
+      "name": "Guia-Me",
+      "url": "https://open.spotify.com/track/3ysiBzk8LiZaik65dHuqDh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Reino Vem",
         "url": "https://open.spotify.com/album/1XGpn9IDF3qwuCPfF8SgW8"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 198928,
       "name": "O Reino Vem",
       "url": "https://open.spotify.com/track/2kA9woThYCW2HDgV8OMKJ8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Daniela Ara\u00fajo",
-        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 237819,
-      "name": "Guia-Me",
-      "url": "https://open.spotify.com/track/3ysiBzk8LiZaik65dHuqDh"
     },
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Catarse: Lado A",
+        "url": "https://open.spotify.com/album/0S4YR4nYhn8jPcQ6c2m1qB"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 280521,
+      "name": "Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/3tYbGa6Ns57fZyRgvMXPAB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Principio (Ao Vivo)",
         "url": "https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c"
       },
@@ -383,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catarse: Lado A",
-        "url": "https://open.spotify.com/album/0S4YR4nYhn8jPcQ6c2m1qB"
+        "name": "Daniela Ara\u00fajo",
+        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
       },
       "artists": [
         {
@@ -392,9 +408,9 @@
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 280521,
-      "name": "Esperan\u00e7a",
-      "url": "https://open.spotify.com/track/3tYbGa6Ns57fZyRgvMXPAB"
+      "duration_ms": 249104,
+      "name": "De Deus",
+      "url": "https://open.spotify.com/track/7lRK2khEH6AmGActHV3he9"
     },
     {
       "added_at": null,
@@ -415,42 +431,6 @@
       "duration_ms": 274500,
       "name": "Del King",
       "url": "https://open.spotify.com/track/3Ku76lfkYl6F5Fj6qX5LiE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Daniela Ara\u00fajo",
-        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 249104,
-      "name": "De Deus",
-      "url": "https://open.spotify.com/track/7lRK2khEH6AmGActHV3he9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Principio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 467853,
-      "name": "Princ\u00edpio e Fim (feat. Daniela Ara\u00fajo) - Ao Vivo",
-      "url": "https://open.spotify.com/track/3iY9VoEriJIkF7IwHZDIaM"
     },
     {
       "added_at": null,
@@ -479,6 +459,26 @@
       "duration_ms": 307647,
       "name": "Quem de N\u00f3s - Vers\u00e3o Alternativa",
       "url": "https://open.spotify.com/track/2WmEpkDt8cj4cLeOOsurNH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Principio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 467853,
+      "name": "Princ\u00edpio e Fim (feat. Daniela Ara\u00fajo) - Ao Vivo",
+      "url": "https://open.spotify.com/track/3iY9VoEriJIkF7IwHZDIaM"
     },
     {
       "added_at": null,
@@ -614,11 +614,15 @@
         {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
         }
       ],
-      "duration_ms": 226293,
-      "name": "Jesus",
-      "url": "https://open.spotify.com/track/5a546hu8m59WXDxwAmryIt"
+      "duration_ms": 343320,
+      "name": "Entrega",
+      "url": "https://open.spotify.com/track/5hJ9Z5KsXKVwoHkQO51Meu"
     },
     {
       "added_at": null,
@@ -686,15 +690,11 @@
         {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Lito Atalaia",
-          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
         }
       ],
-      "duration_ms": 343320,
-      "name": "Entrega",
-      "url": "https://open.spotify.com/track/5hJ9Z5KsXKVwoHkQO51Meu"
+      "duration_ms": 226293,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/5a546hu8m59WXDxwAmryIt"
     },
     {
       "added_at": null,
@@ -963,34 +963,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turma do Barulho, Vol. 2",
-        "url": "https://open.spotify.com/album/7vYd0WE0DnKWpOcu4KNKoh"
+        "name": "Daniela Ara\u00fajo: Sessions",
+        "url": "https://open.spotify.com/album/3Dzq8QRbp61WJD1d0wjpqS"
       },
       "artists": [
         {
-          "name": "Turma do Barulho",
-          "url": "https://open.spotify.com/artist/3VXunR6vEr8Yi3Mbhdyrch"
-        },
-        {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Jorginho Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs"
-        },
-        {
-          "name": "Elen Diana",
-          "url": "https://open.spotify.com/artist/6VCgK0kbVf9l47vjmW6MvE"
-        },
-        {
-          "name": "Suelen Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/4h9RQxqOLnWCPNuz6ELGmw"
         }
       ],
-      "duration_ms": 229813,
-      "name": "Deus Forte Como Jeov\u00e1",
-      "url": "https://open.spotify.com/track/14L3G3gWu4UcQoscdsmXdV"
+      "duration_ms": 318002,
+      "name": "Sala",
+      "url": "https://open.spotify.com/track/50ncoSJxBb3wbVGHUcPSwu"
     }
   ],
   "unique_name": "This Is Daniela Ara\u00fajo",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 
 > Brand new music from Monstercat, all in one place.
 
-[Monstercat](https://open.spotify.com/user/monstercatmedia) - 125,448 likes - 61 songs - 3 hr 12 min
+[Monstercat](https://open.spotify.com/user/monstercatmedia) - 125,449 likes - 61 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 | 8 | [California Dreamin'](https://open.spotify.com/track/1kq7feGMFG3NPRwm5XR5fs) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy) | [California Dreamin'](https://open.spotify.com/album/3pzkEzkgov9KStfPxPiA1C) | 2:50 |
 | 9 | [Worlds Apart](https://open.spotify.com/track/43clOQYz4Jhr7AuU1hOS78) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Warung](https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz) | [Worlds Apart](https://open.spotify.com/album/7urxeMQpkbdTidAYJS6Cl8) | 3:07 |
 | 10 | [Going Under](https://open.spotify.com/track/4b3tHFus0ulksoyDpSrGYY) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Andrea Botez](https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Going Under](https://open.spotify.com/album/18qd9Qz8xCZzTnsWnHkp7v) | 2:41 |
-| 11 | [Pay Respect](https://open.spotify.com/track/4OpmeYRpurVHJYhuOqJqqy) | [GorillaT](https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7), [FRAXURE](https://open.spotify.com/artist/1dGn5V241a03xUPyhKgVjL) | [Pay Respect](https://open.spotify.com/album/5iJL1Tp5fdHj1uo1Atjb8G) | 3:40 |
+| 11 | [Pay Respect](https://open.spotify.com/track/4OpmeYRpurVHJYhuOqJqqy) | [GorillaT](https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz), [DJ DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [FRAXURE](https://open.spotify.com/artist/1dGn5V241a03xUPyhKgVjL), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Pay Respect](https://open.spotify.com/album/5iJL1Tp5fdHj1uo1Atjb8G) | 3:40 |
 | 12 | [colors](https://open.spotify.com/track/70meb0y1oP8OJR0n8RhxZq) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [colors](https://open.spotify.com/album/5k7pxpgyFHpi40XVymiWbV) | 4:25 |
 | 13 | [ALLNIGHT](https://open.spotify.com/track/3RtcmXL01TskCmEZ1He2rB) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS), [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP) | [ALLNIGHT](https://open.spotify.com/album/1Hb96CttJEa2Il3LVUw7by) | 2:36 |
 | 14 | [Love Me, Let Me Go](https://open.spotify.com/track/3gfs6iBl6Zr0f4Lw1lXIqh) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Holochrome](https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ) | [Love Me, Let Me Go](https://open.spotify.com/album/5AYD95jvzbiKdnk9K4BHan) | 3:08 |

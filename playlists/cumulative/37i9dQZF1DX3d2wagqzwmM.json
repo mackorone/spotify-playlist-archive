@@ -5204,7 +5204,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 225777,
       "name": "Insane - Hardwell Remix",
       "url": "https://open.spotify.com/track/4rb905KHtVP0c2eXZhKPZB"
@@ -9439,6 +9439,24 @@
     },
     {
       "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/1tXfc98LLrLiSVd4GRWgyr"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216888,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/4chU8mXKqVOgwtq5NWUL5r"
+    },
+    {
+      "album": {
         "name": "Sandstorm",
         "url": "https://open.spotify.com/album/5XiMBOH5VR26hkK7rLNgK5"
       },
@@ -9790,6 +9808,32 @@
       "duration_ms": 192916,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/0OuQY7KJpP1QCLqJnKLpy9"
+    },
+    {
+      "album": {
+        "name": "Shut Up (Nicky Romero Edit)",
+        "url": "https://open.spotify.com/album/6xDbkZNGfGx5SOi0fbag3c"
+      },
+      "artists": [
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        },
+        {
+          "name": "Mark Roma",
+          "url": "https://open.spotify.com/artist/060FnJg6S5kH1FzOqLJePq"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228923,
+      "name": "Shut Up - Nicky Romero Edit",
+      "url": "https://open.spotify.com/track/2VDGek9WSU4jMzaKPoFdiz"
     },
     {
       "album": {
@@ -12026,7 +12070,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 194500,
       "name": "War Is Coming - Adryx-G Remix",
       "url": "https://open.spotify.com/track/1NzefGWURi0iL7E4yz9qn9"

@@ -27686,7 +27686,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 138795,
       "name": "Creamy",
       "url": "https://open.spotify.com/track/5M5IxzAJjoYCYBZvzSKloT"
@@ -28772,7 +28772,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 140000,
       "name": "curry stew",
       "url": "https://open.spotify.com/track/2ofE44gibHiNgvpsA3btuD"
@@ -59813,6 +59813,24 @@
     },
     {
       "album": {
+        "name": "Innocence",
+        "url": "https://open.spotify.com/album/3mMDoRpf2wFzkbbPivhMWm"
+      },
+      "artists": [
+        {
+          "name": "C4C",
+          "url": "https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99096,
+      "name": "Innocence",
+      "url": "https://open.spotify.com/track/7DBR91x0ceVVgTt6iYw8nm"
+    },
+    {
+      "album": {
         "name": "Innocent Duck",
         "url": "https://open.spotify.com/album/7u54yBHDQEiiLwK7lAGbsl"
       },
@@ -67625,6 +67643,24 @@
     },
     {
       "album": {
+        "name": "le bistrot",
+        "url": "https://open.spotify.com/album/6PM3t1gtqMKJLCSv6NLmH9"
+      },
+      "artists": [
+        {
+          "name": "three wheeler",
+          "url": "https://open.spotify.com/artist/046W3kc1sJRUj2pOqfDssn"
+        }
+      ],
+      "date_added": "2025-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189803,
+      "name": "le bistrot",
+      "url": "https://open.spotify.com/track/6x4czyQixc4Ul3rL02jdOs"
+    },
+    {
+      "album": {
         "name": "Darr's Lane",
         "url": "https://open.spotify.com/album/2VvHRyKp8azid9MfmiDySB"
       },
@@ -68376,7 +68412,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 129000,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/4dBgB0cfiTdzSLQTZiEv1K"
@@ -84402,7 +84438,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-29",
+      "date_removed": null,
       "duration_ms": 140053,
       "name": "New Digs",
       "url": "https://open.spotify.com/track/49vHEmDBptOhfz1EUR2qt0"

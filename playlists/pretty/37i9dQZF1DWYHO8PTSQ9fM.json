@@ -1,12 +1,12 @@
 {
   "description": "Les hits du moment au Maroc. Cover: GIMS",
-  "num_followers": 680532,
+  "num_followers": 680560,
   "original_name": "Hot Hits Morocco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/YpTgAAAACbzlBkMEHL0/cP/K12fWqp",
+  "snapshot_id": "Z/pf2gAAAAA30tG/Bl55x6XrmAkZRYO3",
   "tracks": [
     {
       "added_at": "2025-04-09 08:01:18",
@@ -99,6 +99,22 @@
     {
       "added_at": "2025-04-09 08:01:18",
       "album": {
+        "name": "BL\u00c9DARD (Deluxe)",
+        "url": "https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd"
+      },
+      "artists": [
+        {
+          "name": "Shaw",
+          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
+        }
+      ],
+      "duration_ms": 152951,
+      "name": "WALLAHI",
+      "url": "https://open.spotify.com/track/6qUFq3ngBLDBb2fTFug7bb"
+    },
+    {
+      "added_at": "2025-04-09 08:01:18",
+      "album": {
         "name": "Rassi (feat. ElGrandeToto)",
         "url": "https://open.spotify.com/album/58SNMyClBKyTzSRQLaGHzv"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 172826,
       "name": "BOUHALI",
       "url": "https://open.spotify.com/track/17AuJgvjtgyQ7QogOS9zMY"
-    },
-    {
-      "added_at": "2025-04-09 08:01:18",
-      "album": {
-        "name": "BL\u00c9DARD (Deluxe)",
-        "url": "https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd"
-      },
-      "artists": [
-        {
-          "name": "Shaw",
-          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
-        }
-      ],
-      "duration_ms": 152951,
-      "name": "WALLAHI",
-      "url": "https://open.spotify.com/track/6qUFq3ngBLDBb2fTFug7bb"
     },
     {
       "added_at": "2025-04-09 08:01:18",

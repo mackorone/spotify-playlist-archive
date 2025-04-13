@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Helado Negro
 
-459 songs - 1 day 4 hr 14 min
+460 songs - 1 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Feelings Meeting](https://open.spotify.com/track/3ZNZlQHZR4SrZf27DVJD0I) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Feelings Meeting](https://open.spotify.com/album/4Wvn9tVWMtVQESSBgfiu6y) | 3:59 | 2022-07-11 | 2022-07-20 |
 | [Fever \- Edit](https://open.spotify.com/track/0raqMVW55oQnMJyVcHcrzh) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Fever](https://open.spotify.com/album/2gZMfuQFFyt9OIzCRzzHEr) | 3:36 | 2022-03-11 | 2022-04-02 |
 | [Filming School](https://open.spotify.com/track/5Wk8ShrY6d6d43wHrAdIJr) | [Sidney Gish](https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI) | [Filming School](https://open.spotify.com/album/3t5QsHVDqA1HCLWCZBHdLl) | 3:10 | 2023-02-10 |  |
-| [First Prize Bravery](https://open.spotify.com/track/3pWoRUnu8w0GSjyu00Xp0L) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [First Prize Bravery](https://open.spotify.com/album/4z8OvPfkJLAlHjGy1b4hID) | 3:50 | 2021-11-12 | 2025-04-09 |
+| [First Prize Bravery](https://open.spotify.com/track/3pWoRUnu8w0GSjyu00Xp0L) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [First Prize Bravery](https://open.spotify.com/album/4z8OvPfkJLAlHjGy1b4hID) | 3:50 | 2021-11-12 |  |
 | [First Time](https://open.spotify.com/track/5OLVjtDBzeHtqGTn5Pwo1B) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 4:14 | 2021-11-12 |  |
 | [First Time Feeling](https://open.spotify.com/track/35q6uD5WsqzRPEblLjj5dw) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/3qm2g5r2eWFVYiIGZVt4Ro) | 3:06 | 2021-11-12 |  |
 | [Follow Me Down](https://open.spotify.com/track/5yGDfeuXOeKJ8IRnljxNEC) | [Kelly McFarling](https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr) | [Deep the Habit](https://open.spotify.com/album/1YcF0UtmIRkhVpxAKpzpdK) | 4:12 | 2022-04-01 | 2022-04-17 |
@@ -167,7 +167,7 @@
 | [Galacticana](https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [Galacticana](https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg) | 4:00 | 2021-11-12 |  |
 | [Gem](https://open.spotify.com/track/2myv1dElAWqSLafz8U74ch) | [Daughter of Swords](https://open.spotify.com/artist/4PAN1zWvarcHxfPhJOAHMg) | [Shining Woman](https://open.spotify.com/album/1htLgGmb3QeNmIrRH7b6Sw) | 3:57 | 2021-11-12 | 2022-07-29 |
 | [Get It ‘Fore It’s Gone](https://open.spotify.com/track/6bFQTxFd9QCL8te5fbjt8i) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [In The Blossom of Their Shade](https://open.spotify.com/album/34QLCed0oGYCeSJLSNQmuf) | 3:34 | 2021-11-12 | 2024-06-09 |
-| [Ghosts](https://open.spotify.com/track/0Nb7ovuzVuAHZooHBpadpw) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [Ghosts](https://open.spotify.com/album/0Lkw9hUe00gEwGCmfWc7ML) | 4:26 | 2023-06-30 |  |
+| [Ghosts](https://open.spotify.com/track/0Nb7ovuzVuAHZooHBpadpw) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [Ghosts](https://open.spotify.com/album/0Lkw9hUe00gEwGCmfWc7ML) | 4:26 | 2023-06-30 | 2025-04-13 |
 | [Go Tell a Bird](https://open.spotify.com/track/2soMAWI1jlM8O1YUF4e1LB) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Adaptations](https://open.spotify.com/album/75KCEmU9IxlwClwPnM4KEC) | 3:52 | 2021-11-12 | 2021-12-26 |
 | [God Is Just the Universe](https://open.spotify.com/track/4VA6eWKb0GUwjxk1ozjT1b) | [Corey Kilgannon](https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk) | [God Is Just the Universe](https://open.spotify.com/album/4Txk0HC8feYceU2M1DXNdm) | 4:42 | 2021-11-12 | 2022-07-21 |
 | [Goodbye Mr\. Blue](https://open.spotify.com/track/6b97su2rHlDZm0aiyGQCaw) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Goodbye Mr\. Blue](https://open.spotify.com/album/4S8GgZhOvktzQZWA2NXHAX) | 5:00 | 2022-03-11 | 2022-07-29 |
@@ -417,6 +417,7 @@
 | [The Pool](https://open.spotify.com/track/3I8Y491lACYzJTM8fmIWdI) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [The Pool](https://open.spotify.com/album/7FEdabAF4tVaiXTCmykn2t) | 4:02 | 2022-07-11 | 2024-04-19 |
 | [The Pool](https://open.spotify.com/track/3PXbcti7P1ZekivSWu48A3) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [The Pool](https://open.spotify.com/album/3yx7FdDCtxXE7zQeGWCgwj) | 4:02 | 2021-11-12 | 2022-07-29 |
 | [The Running Styles of New York](https://open.spotify.com/track/6qBIXzZBsQC6n4OmumpcHc) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [The Running Styles of New York](https://open.spotify.com/album/3FngH5IRWvC0DFC7FbIVZy) | 5:11 | 2021-11-12 | 2022-07-20 |
+| [The Saddest Song](https://open.spotify.com/track/1jFPb2lw9llGvXcFEMXmD5) | [Metaxas](https://open.spotify.com/artist/1zmqovKSBNOtEdrDuXDmR9) | [The Saddest Song](https://open.spotify.com/album/5X1aa8zc8YsN4eatUsDkNE) | 3:33 | 2025-02-07 |  |
 | [The Wave](https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:45 | 2022-07-11 | 2024-04-19 |
 | [The Wave](https://open.spotify.com/track/5olVelMkgNjLzUVxNREP2i) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [The Wave](https://open.spotify.com/album/3AnTgqHXi6YiCQMy3gcA9V) | 3:48 | 2021-11-12 | 2022-07-29 |
 | [The Weakness in Me](https://open.spotify.com/track/1cAKZih7f5kzaBDYPfCbdj) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Head of Roses: Phantom Limb](https://open.spotify.com/album/05X6RWZJ0lmYUPjpkM8rZH) | 3:42 | 2022-04-15 |  |
@@ -456,7 +457,7 @@
 | [What Comes After Certainty](https://open.spotify.com/track/5ZZwQkDUUzsIbSBhnaWJfG) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Shepherd in a Sheepskin Vest](https://open.spotify.com/album/7sfkWJ14gZywjyv3wtQ5WC) | 3:42 | 2021-11-12 | 2022-07-29 |
 | [When You're Away](https://open.spotify.com/track/3K3FSV1E7Lh10uX7AYexMH) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [Texas Piano Man](https://open.spotify.com/album/5EMqbcSQgub9fRFwmcfxa9) | 3:26 | 2021-11-12 | 2024-04-30 |
 | [Wisteria](https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Wisteria](https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU) | 2:49 | 2023-09-08 |  |
-| [Witchknife](https://open.spotify.com/track/5zSX509s3P2f4wU2dMut49) | [Sea Wolf](https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x) | [Witchknife](https://open.spotify.com/album/1yBHbpoM08NNjVNpxN8UhP) | 3:11 | 2021-11-12 |  |
+| [Witchknife](https://open.spotify.com/track/5zSX509s3P2f4wU2dMut49) | [Sea Wolf](https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x) | [Witchknife](https://open.spotify.com/album/1yBHbpoM08NNjVNpxN8UhP) | 3:11 | 2021-11-12 | 2025-04-13 |
 | [Without a Light](https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Without a Light](https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR) | 2:22 | 2021-11-12 |  |
 | [Woman](https://open.spotify.com/track/4RraQaETfGBWvDAbVeCBib) | [Clean Cut Kid](https://open.spotify.com/artist/0vnJ2wR879kbb5MuzblVOb) | [Woman](https://open.spotify.com/album/1IIiI9LpMlXOChqLqMfGzV) | 3:49 | 2021-11-12 | 2022-10-22 |
 | [Woman](https://open.spotify.com/track/5HheAgHugjc04e0YOt4OIE) | [Clean Cut Kid](https://open.spotify.com/artist/0vnJ2wR879kbb5MuzblVOb) | [Mother’s Milk](https://open.spotify.com/album/3lf8jM9HzVHrL9RI0JNWsz) | 3:49 | 2022-10-14 | 2024-04-19 |

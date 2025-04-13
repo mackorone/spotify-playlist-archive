@@ -472,6 +472,24 @@
     {
       "album": {
         "name": "She is Risen: Volume One",
+        "url": "https://open.spotify.com/album/2uJcWqNs9jz23tEzpXe6IE"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259900,
+      "name": "I Don't Know How to Love Him",
+      "url": "https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF"
+    },
+    {
+      "album": {
+        "name": "She is Risen: Volume One",
         "url": "https://open.spotify.com/album/7HhCsLQC5UkAvUodmxza8m"
       },
       "artists": [
@@ -482,7 +500,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 259900,
       "name": "I Don't Know How to Love Him",
       "url": "https://open.spotify.com/track/1lB6WL4R8gbWs1g5V9ag7D"
@@ -1373,6 +1391,24 @@
     },
     {
       "album": {
+        "name": "Worst Of Me",
+        "url": "https://open.spotify.com/album/4W9y8UUM7suAX2a8eYIWsb"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "Worst Of Me",
+      "url": "https://open.spotify.com/track/7yfQOi8LvjmD3VzemRuVVF"
+    },
+    {
+      "album": {
         "name": "Cynthia Erivo and Oliver Tompsett Sing Scott Alan",
         "url": "https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt"
       },
@@ -1392,7 +1428,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 216976,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/4ZbjHd0YJJCjT5Koi5Ubwq"

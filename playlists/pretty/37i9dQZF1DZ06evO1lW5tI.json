@@ -1,12 +1,12 @@
 {
   "description": "This is Khruangbin. The essential tracks, all in one playlist.",
-  "num_followers": 234024,
+  "num_followers": 234122,
   "original_name": "This Is Khruangbin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/cKAAAAAACquWQlPXUNJ0wZUa+SIXeB",
+  "snapshot_id": "Z/hbgAAAAACSjA8eizejK9vq/CTJ2wmQ",
   "tracks": [
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A LA SALA",
-        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 120720,
-      "name": "Farolim de Felgueiras",
-      "url": "https://open.spotify.com/track/4KMMzqVU3SL9U2JPmwfvsb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Infamous Bill",
         "url": "https://open.spotify.com/album/0cBC8V1F4ABcmpmqJDIQgB"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 163961,
       "name": "The No.3",
       "url": "https://open.spotify.com/track/4RTRdh9HzUPLEsqbdS6R9c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A LA SALA",
+        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 120720,
+      "name": "Farolim de Felgueiras",
+      "url": "https://open.spotify.com/track/4KMMzqVU3SL9U2JPmwfvsb"
     },
     {
       "added_at": null,

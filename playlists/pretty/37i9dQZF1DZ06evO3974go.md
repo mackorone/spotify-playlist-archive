@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3974go.md) - [plain]
 
 > This is Rich Homie Quan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,985 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,988 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3974go.md) - [plain]
 | 20 | [Never Fold](https://open.spotify.com/track/1Op4A6asA7L6SN8dDRWvLJ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Rich As In Spirit](https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7) | 3:15 |
 | 21 | [Private Room](https://open.spotify.com/track/6NtUvEqIOgO1rRkQk6F0aE) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [Tony Michael](https://open.spotify.com/artist/5DVMoEqGsSj3jFCIR2inf8), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Private Room \(feat\. Rich Homie Quan\) \- Single](https://open.spotify.com/album/1EZPtQxaaD648L0RXVBUXZ) | 3:17 |
 | 22 | [Word Around Town \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/3FvVE0YTeiCFkThIT1nmTL) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Luca Brasi 2: Gangsta Grillz](https://open.spotify.com/album/4if4IsX36odNlcZF2kqgt3) | 3:11 |
-| 23 | [Daddy](https://open.spotify.com/track/2UDvJRFkOFCXbsnf9CsMbe) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Summer Sampler](https://open.spotify.com/album/236GZxcyha7tPOExcuFFBK) | 3:59 |
-| 24 | [I F\*ck Wit You Girl](https://open.spotify.com/track/2u2fseIt359oKZoq6TxM6C) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [I Promise I Will Never Stop Going In \(Deluxe Edition\)](https://open.spotify.com/album/2swWrUelezIoSdBWStNisb) | 3:47 |
+| 23 | [Get TF Out My Face \(feat\. Young Thug\)](https://open.spotify.com/track/4I44RCVIbiGXUrqVdK96uk) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [I Promise I Will Never Stop Going In \(Deluxe Edition\)](https://open.spotify.com/album/2swWrUelezIoSdBWStNisb) | 4:25 |
+| 24 | [Daddy](https://open.spotify.com/track/2UDvJRFkOFCXbsnf9CsMbe) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Summer Sampler](https://open.spotify.com/album/236GZxcyha7tPOExcuFFBK) | 3:59 |
 | 25 | [The Most](https://open.spotify.com/track/3f8a6QCUxTaXVLIRstp2gV) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [The Most \- Single](https://open.spotify.com/album/616XtXCfnUBvRtrZzkpDlB) | 3:27 |
-| 26 | [Come Thru](https://open.spotify.com/track/65PzThqBjHbXZqhkg0XLQr) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Come Thru](https://open.spotify.com/album/5WNxh5zG6G5KtxAPkmPK1X) | 4:00 |
-| 27 | [Got Yo Wingz](https://open.spotify.com/track/6EqyEmLrxlmEB1iBxRVMjZ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Got Yo Wingz](https://open.spotify.com/album/4jdQt9s1NisPjtryGLSzqa) | 2:35 |
-| 28 | [Get TF Out My Face \(feat\. Young Thug\)](https://open.spotify.com/track/4I44RCVIbiGXUrqVdK96uk) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [I Promise I Will Never Stop Going In \(Deluxe Edition\)](https://open.spotify.com/album/2swWrUelezIoSdBWStNisb) | 4:25 |
+| 26 | [Got Yo Wingz](https://open.spotify.com/track/6EqyEmLrxlmEB1iBxRVMjZ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Got Yo Wingz](https://open.spotify.com/album/4jdQt9s1NisPjtryGLSzqa) | 2:35 |
+| 27 | [I F\*ck Wit You Girl](https://open.spotify.com/track/2u2fseIt359oKZoq6TxM6C) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [I Promise I Will Never Stop Going In \(Deluxe Edition\)](https://open.spotify.com/album/2swWrUelezIoSdBWStNisb) | 3:47 |
+| 28 | [Come Thru](https://open.spotify.com/track/65PzThqBjHbXZqhkg0XLQr) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Come Thru](https://open.spotify.com/album/5WNxh5zG6G5KtxAPkmPK1X) | 4:00 |
 | 29 | [Imma Ride](https://open.spotify.com/track/0FwezIaHwoxFy8IOLbF2UQ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Rich Homie Cartel Vol 1](https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt) | 4:47 |
 | 30 | [No Way](https://open.spotify.com/track/25qyaJi5AbHAMhUYMDVvPF) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [No Label Vol\. 2](https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj) | 4:41 |
 | 31 | [Stressed](https://open.spotify.com/track/3XO41ZKnULP1KIhoLgnBzG) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Coma](https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3974go.md) - [plain]
 | 49 | [Celebrate \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/7uxbabRF4omY1MhmIgaZ6Y) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Baby On Baby](https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0) | 3:12 |
 | 50 | [Still Sinning](https://open.spotify.com/track/3Z4rJ9p17DwHieAEYE2b2F) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Still Sinning](https://open.spotify.com/album/28BLEt8xrnPe59JC2YQspa) | 2:56 |
 
-Snapshot ID: `Z/cKAAAAAAAoS6+fmEs0ZP7/jhiyAaGX`
+Snapshot ID: `Z/hbgAAAAAADMA3zmOA5NKpvax1pBP0D`

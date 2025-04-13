@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-2,909 songs - 6 day 12 hr 2 min
+2,910 songs - 6 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -870,6 +870,7 @@
 | [En Otra Vida](https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [En Otra Vida](https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP) | 2:33 | 2024-10-29 | 2025-02-02 |
 | [En Privado](https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Privado](https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc) | 3:19 | 2025-02-25 | 2025-03-26 |
 | [En To Lao](https://open.spotify.com/track/2zUEnw6wWrWaPcF15F76OA) | [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [En To Lao](https://open.spotify.com/album/6vbpPVgsQJgXyfXc6q6CPl) | 3:15 | 2023-07-04 | 2023-07-13 |
+| [Enamorado de Ella](https://open.spotify.com/track/18ouTwcDXaundgNOmmAbKy) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Fiesta para Dos!!](https://open.spotify.com/album/00VQ30oxy9Xy65WTLxOeIw) | 4:27 | 2025-04-12 |  |
 | [Enamorado tuyo](https://open.spotify.com/track/35LdDKNMwvKftENaj1WIwF) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Porfiado](https://open.spotify.com/album/4X6PQwYWxtGGtKjAfX6wa6) | 4:19 | 2023-08-11 | 2023-09-06 |
 | [Enamorados](https://open.spotify.com/track/4yZHewo7vTT8geUxNAeYqY) | [Grupo Manzanar de Chiloé](https://open.spotify.com/artist/3QPoAnDjfEVR0LRe21Zc55) | [Suena Lindo](https://open.spotify.com/album/6YZwH3Q5TA7u6QMxnVBrKl) | 2:14 | 2024-09-11 | 2024-10-02 |
 | [Encima De Mi](https://open.spotify.com/track/5ul8goxRfS5qh1JBEUbICd) | [filtragvspi](https://open.spotify.com/artist/4dHVl8Dfhcl6eVA1IZRxso), [jere kleinn](https://open.spotify.com/artist/5Teh54XshOsA9VFAysh5KW), [lucky broown](https://open.spotify.com/artist/7EzJFjb21kpWdvzmj5TKte) | [Encima De Mi](https://open.spotify.com/album/1Xj4dSNkUuUzSG8YegWfEf) | 1:55 | 2024-03-04 | 2024-03-11 |
@@ -2609,7 +2610,7 @@
 | [TROMPETAS \(feat\. King Savagge & Best\)](https://open.spotify.com/track/7FwUyEny91YMSWGPyi99dG) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [TROMPETAS \(feat\. King Savagge & Best\)](https://open.spotify.com/album/7pm56gmohoxcfT1sGB41DR) | 2:46 | 2023-11-28 | 2023-12-10 |
 | [Trote Tarapaqueño](https://open.spotify.com/track/0Jljgxg8hz5Fd1fggqSACU) | [Conjunto Folklórico Del Colegio Latinoamericano](https://open.spotify.com/artist/2XNZrPlUavwHJTA23a4YVA) | [Folklore en Mi Escuela\. Danzas y Cantos de América, Vol\. 1](https://open.spotify.com/album/0u9kzGk1hFTp5ITUQye2ww) | 2:41 | 2022-09-14 | 2024-09-20 |
 | [True Love](https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW) | [Carrion GodBle$$](https://open.spotify.com/artist/7we8fCds6Fc36UjH1oq4OU), [Saske](https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW) | [True Love](https://open.spotify.com/album/1svYzadjdS9RrR2E2EPEhj) | 5:58 | 2023-05-24 |  |
-| [Truman \(HAN & Felix\)](https://open.spotify.com/track/4DEbsCe0w8CrwdMm8WpdzO) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP) | 3:15 | 2025-04-09 |  |
+| [Truman \(HAN & Felix\)](https://open.spotify.com/track/4DEbsCe0w8CrwdMm8WpdzO) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP) | 3:15 | 2025-04-09 | 2025-04-13 |
 | [Truman \(HAN & Felix\)](https://open.spotify.com/track/66yecHTxgtWpRPqnLPSfVM) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/4fTGqjAolmy05iQwHq7n6x) | 3:15 | 2025-04-08 | 2025-04-10 |
 | [Tu Actitud Me Tiene Loko](https://open.spotify.com/track/06m3TDVE9rBSdFcNh0JSEe) | [Kidd.Kleiiin](https://open.spotify.com/artist/408l0ynn79iw25M1hg4riO) | [Tu Actitud Me Tiene Loko](https://open.spotify.com/album/3x58d8QJV6tl1WoEz9OEu8) | 2:22 | 2024-02-27 | 2024-03-04 |
 | [TU AMIGO](https://open.spotify.com/track/25EpqnbVRzegM4RxXlHhDW) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:53 | 2022-04-26 | 2022-05-15 |

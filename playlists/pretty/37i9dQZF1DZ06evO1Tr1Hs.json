@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 38662,
+  "num_followers": 38698,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/cKAAAAAAC22GdkjY+ceX5NFjkIzZmu",
+  "snapshot_id": "Z/hbgAAAAAAWKAkx3TFSjnU+GDxHDOEg",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "More Chaos",
+        "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 121957,
+      "name": "Lord Of Chaos",
+      "url": "https://open.spotify.com/track/2Tif3Rjua8qfTCUFP6lFrV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Great Chaos (Deluxe)",
         "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
       },
@@ -219,6 +235,22 @@
       "duration_ms": 186756,
       "name": "loading",
       "url": "https://open.spotify.com/track/71NkBajKZWS6eu6PomUm6u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Great Chaos",
+        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 158515,
+      "name": "Jennifer\u2019s Body",
+      "url": "https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG"
     },
     {
       "added_at": null,
@@ -247,18 +279,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
+        "name": "More Chaos",
+        "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
       },
       "artists": [
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         }
       ],
-      "duration_ms": 158515,
-      "name": "Jennifer\u2019s Body",
-      "url": "https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG"
+      "duration_ms": 219428,
+      "name": "Off The Meter (with Playboi Carti & Destroy Lonely)",
+      "url": "https://open.spotify.com/track/2Y98lEkMVALCXni7o2g28b"
     },
     {
       "added_at": null,
@@ -283,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Great Chaos (Deluxe)",
-        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
+        "name": "A Great Chaos",
+        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
       },
       "artists": [
         {
@@ -292,9 +332,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 165353,
-      "name": "toxic",
-      "url": "https://open.spotify.com/track/4c1LjGTCF8kMEikirzFgkm"
+      "duration_ms": 95687,
+      "name": "It\u2019s Over",
+      "url": "https://open.spotify.com/track/6dhLnWxKnrrCszvUKRPkNq"
     },
     {
       "added_at": null,
@@ -319,6 +359,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "More Chaos",
+        "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 190541,
+      "name": "LiveLeak",
+      "url": "https://open.spotify.com/track/7aURTqVzpZxkJfboCvGc69"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Great Chaos (Deluxe)",
+        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 165353,
+      "name": "toxic",
+      "url": "https://open.spotify.com/track/4c1LjGTCF8kMEikirzFgkm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Great Chaos",
         "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
       },
@@ -328,9 +400,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 95687,
-      "name": "It\u2019s Over",
-      "url": "https://open.spotify.com/track/6dhLnWxKnrrCszvUKRPkNq"
+      "duration_ms": 124567,
+      "name": "Hardcore",
+      "url": "https://open.spotify.com/track/39xDX63yonTblgoHdTKLtI"
     },
     {
       "added_at": null,
@@ -347,6 +419,22 @@
       "duration_ms": 152368,
       "name": "Swag Overload",
       "url": "https://open.spotify.com/track/6XfdWZJTAv750YyMGSjO3y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Chaos",
+        "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 150386,
+      "name": "Trap Jump",
+      "url": "https://open.spotify.com/track/56BtPjjWiRc0ch7DH8DNu9"
     },
     {
       "added_at": null,
@@ -387,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 124567,
-      "name": "Hardcore",
-      "url": "https://open.spotify.com/track/39xDX63yonTblgoHdTKLtI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "XTENDED",
         "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
       },
@@ -415,6 +487,22 @@
       "duration_ms": 142287,
       "name": "Freestyle 3",
       "url": "https://open.spotify.com/track/3ZuKr1NfTecyfGuYwuXb7c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Chaos",
+        "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 105191,
+      "name": "Money Spread",
+      "url": "https://open.spotify.com/track/0EMaW6H0JkB84B8ebkkDrI"
     },
     {
       "added_at": null,
@@ -479,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "More Chaos",
+        "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 147614,
+      "name": "Root Of All Evil",
+      "url": "https://open.spotify.com/track/7x19FKGt44L9a0gSEXZ5f1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LOVE LASTS FOREVER",
         "url": "https://open.spotify.com/album/6BQgHrnJsXjBiuD1Q8zrmv"
       },
@@ -495,22 +599,6 @@
       "duration_ms": 252636,
       "name": "THRILL (with Ken Carson)",
       "url": "https://open.spotify.com/track/3FMKkmAXsCrJM9ZDIbQejN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "XTENDED",
-        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 166863,
-      "name": "Shoot",
-      "url": "https://open.spotify.com/track/54dqQJpIq0QUd2vBl5KzTJ"
     },
     {
       "added_at": null,
@@ -547,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "XTENDED",
+        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 166863,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/54dqQJpIq0QUd2vBl5KzTJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pink Heartz",
         "url": "https://open.spotify.com/album/1POWgdYTzfFt9rhKlXFwsU"
       },
@@ -563,22 +667,6 @@
       "duration_ms": 168160,
       "name": "Hell Yeah",
       "url": "https://open.spotify.com/track/3QHGfxhjexLaMKGHXagfRs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "XTENDED",
-        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 150318,
-      "name": "Lookbook",
-      "url": "https://open.spotify.com/track/240K86W7ysqLlNG9NS7cvQ"
     },
     {
       "added_at": null,
@@ -619,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "XTENDED",
+        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 150318,
+      "name": "Lookbook",
+      "url": "https://open.spotify.com/track/240K86W7ysqLlNG9NS7cvQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Teen X : Relapsed",
         "url": "https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6"
       },
@@ -631,26 +735,6 @@
       "duration_ms": 104544,
       "name": "Teenager Rager",
       "url": "https://open.spotify.com/track/0MwOpzSByFjvmgjeY0It4a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Homixide Lifestyle",
-        "url": "https://open.spotify.com/album/4vw2hN5xBkFXRBAfnGjUmK"
-      },
-      "artists": [
-        {
-          "name": "Homixide Gang",
-          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Stunt",
-      "url": "https://open.spotify.com/track/5hzkAD8nloXDHk62KsVtyG"
     },
     {
       "added_at": null,
@@ -671,118 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teen X",
-        "url": "https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd"
+        "name": "Homixide Lifestyle",
+        "url": "https://open.spotify.com/album/4vw2hN5xBkFXRBAfnGjUmK"
       },
       "artists": [
         {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 105508,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/6ALDTINxlHOp96KoLWYvqK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "XTENDED",
-        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 201681,
-      "name": "Fashion Habits",
-      "url": "https://open.spotify.com/track/2ivRKtdr0RD9nLjeXgRBPV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 135419,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/5tqzMWoUJrCLESpGKROHQ3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Project X",
-        "url": "https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 104938,
-      "name": "Who's Next",
-      "url": "https://open.spotify.com/track/0dCMTAOfCN54ik5qwQEsms"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teen X : Relapsed",
-        "url": "https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 93413,
-      "name": "High as Sh!T",
-      "url": "https://open.spotify.com/track/3CukfJ1zvUEcq84AM89hxj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2 Aliv\u00eb",
-        "url": "https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
         },
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 152533,
-      "name": "G\u00ebek high (feat. Ken Carson)",
-      "url": "https://open.spotify.com/track/10pKRdCsckIx7jdrR5IFec"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Project X",
-        "url": "https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 160832,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/0MyP4cSQBIkyogzz8xWwHQ"
+      "duration_ms": 178285,
+      "name": "Stunt",
+      "url": "https://open.spotify.com/track/5hzkAD8nloXDHk62KsVtyG"
     }
   ],
   "unique_name": "This Is Ken Carson",

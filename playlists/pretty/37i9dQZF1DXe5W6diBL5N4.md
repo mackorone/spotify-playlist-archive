@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: <br/>강다니엘\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,075 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,095 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 6 | [Your Season](https://open.spotify.com/track/2HXh5CtG8B9DhGy4UtctKs) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [Your Season](https://open.spotify.com/album/65IuyQS1EA7pItVc4U157E) | 3:00 |
 | 7 | [Hi+Fiv3](https://open.spotify.com/track/6HDgtFKS0U5oROl1wHf9aY) | [Pagaehun](https://open.spotify.com/artist/4nbj2vNChfEusXKNYz7Ow7) | [Hi+Fiv3](https://open.spotify.com/album/5Jb0pZXAR15IAcbBqMoagL) | 2:49 |
 | 8 | [Lucky=One](https://open.spotify.com/track/0KUXg1wu5jnK5YzvF6cryR) | [cosmosy](https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn) | [Lucky=One](https://open.spotify.com/album/1Evh1hzbbUwjBHFoaVQLBq) | 3:14 |
-| 9 | [Hang Out With Me](https://open.spotify.com/track/0iOOyppfFhdb81R0W5RzPO) | [Choi Yeo Won](https://open.spotify.com/artist/0pQ9UkNUN1RsgbfSH7qBN4) | [Hang Out With Me](https://open.spotify.com/album/1fqqm3NwxPpapJZoLgS5Nt) | 2:35 |
+| 9 | [Hang Out With Me](https://open.spotify.com/track/0iOOyppfFhdb81R0W5RzPO) | [Choi yeo weon](https://open.spotify.com/artist/0pQ9UkNUN1RsgbfSH7qBN4) | [Hang Out With Me](https://open.spotify.com/album/1fqqm3NwxPpapJZoLgS5Nt) | 2:35 |
 | 10 | [DIVE INTO YOU](https://open.spotify.com/track/7ezivd0I3pP28RDtHwAa3M) | [AIMERS](https://open.spotify.com/artist/4U2eZzOZsobt9JHp0znP1L) | [퍼스트 러브 \(Original Television Soundtrack\)](https://open.spotify.com/album/2U46zSRWzirJort0Ix1FXf) | 2:33 |
 | 11 | [Love & Hate](https://open.spotify.com/track/3PAJJYMWUVgHWotflVLnSH) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Love & Hate](https://open.spotify.com/album/2AI7iOX1zwz9aUaBaPXQ6T) | 3:46 |
 | 12 | [My Job is Cool \(Feat\. ZICO, J\-Tong\)](https://open.spotify.com/track/6RVjIT5XRZ6BMLaIWPtgSU) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [J\-Tong](https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ) | [I Tend to Get Tongue\-tied](https://open.spotify.com/album/1CYzPxanD1PYrbGJFNjWOe) | 3:22 |

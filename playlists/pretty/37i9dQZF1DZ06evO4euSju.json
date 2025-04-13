@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/cKAAAAAACBIWIe7Bhq0Me/8IvjbEcu",
+  "snapshot_id": "Z/hbgAAAAAAHdXlL47BWYCX/y31FsfBH",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/1zSuLk1sl9xh1b7xKO0vJL"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 284104,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/6XZFf9VlLpjaVGkaHfYnJO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Love (Deluxe)",
         "url": "https://open.spotify.com/album/7bjoRFAziiXoBlPbLtUlV7"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 191323,
       "name": "Dark Sky",
       "url": "https://open.spotify.com/track/1LkC13v4sIOOcvVMRhiljd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/1zSuLk1sl9xh1b7xKO0vJL"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 284104,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/6XZFf9VlLpjaVGkaHfYnJO"
     },
     {
       "added_at": null,
@@ -420,13 +420,17 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         },
         {
-          "name": "Sister Void",
-          "url": "https://open.spotify.com/artist/3DpwZLxTvFL01VP4qPfRjn"
+          "name": "Fear Before The March Of Flames",
+          "url": "https://open.spotify.com/artist/4sGnh5atNR6I2OHURlmlMq"
+        },
+        {
+          "name": "David Marion",
+          "url": "https://open.spotify.com/artist/1Su8KMQGp47Q3LddHVXj5k"
         }
       ],
-      "duration_ms": 213863,
-      "name": "Wax Poetic",
-      "url": "https://open.spotify.com/track/5FOvWDm4PrPchyHMDOQiXs"
+      "duration_ms": 235565,
+      "name": "Cigarette Two Step",
+      "url": "https://open.spotify.com/track/5KwLLL8VE4k3mUTy1gfgpP"
     },
     {
       "added_at": null,
@@ -456,9 +460,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 157221,
-      "name": "Kibo",
-      "url": "https://open.spotify.com/track/5iQPGnGBClKTf4pHdhNuAg"
+      "duration_ms": 232785,
+      "name": "Supermachine",
+      "url": "https://open.spotify.com/track/6NNi9MBDthHTDFFaaYpDA9"
     },
     {
       "added_at": null,

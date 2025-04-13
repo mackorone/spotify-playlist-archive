@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🎥 Kannessa OLGA.
 
-647 songs - 1 day 8 hr 19 min
+648 songs - 1 day 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [HAAVERI](https://open.spotify.com/track/43abPnVxTyDK7rg5EDXWKc) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0) | [SEPPO MIXTAPE](https://open.spotify.com/album/6k0CnWRzKZDKb7BG4j6A1g) | 2:37 | 2025-01-23 | 2025-02-14 |
 | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk) | 3:31 | 2024-10-10 | 2024-11-08 |
 | [Haloo](https://open.spotify.com/track/1iBB1eaWLm2B70LqUCdMZi) | [PMMP](https://open.spotify.com/artist/6LUnsRyqOZdHGTZqMlWVV2), [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Haloo](https://open.spotify.com/album/6yUjFKMT9jwzsq59fMfwcZ) | 2:43 | 2024-12-12 | 2025-02-14 |
+| [Haluamanilainen, mietin sua pahalla \- Emma Gaala 2025 Live](https://open.spotify.com/track/6GdsfRTm1mjLgyCP5Qd653) | [Mokoma](https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Haluamanilainen, mietin sua pahalla \(Emma Gaala 2025 Live\)](https://open.spotify.com/album/2QXiRw2Y032iqIuXDyaFOo) | 5:22 | 2025-04-12 |  |
 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 | 2025-03-06 | 2025-03-21 |
 | [Happy Mistake](https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 4:05 | 2024-09-26 | 2024-10-18 |
 | [HARLEY QUINN \(feat\. Sara Bee\)](https://open.spotify.com/track/22uV6ZbECEg11WqMSsFPpe) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO), [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [HARLEY QUINN \(feat\. Sara Bee\)](https://open.spotify.com/album/0wA6SBN8dorzEaXvqB3lgl) | 2:21 | 2024-08-22 | 2024-09-20 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Static-X. The essential tracks, all in one playlist.",
-  "num_followers": 39116,
+  "num_followers": 39117,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/cKAAAAAAB9wT+IOGN9p7St2q0aPuL5",
+  "snapshot_id": "Z/hbgAAAAABu5y730ynwAtxaHp/6UU0o",
   "tracks": [
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project Regeneration, Vol. 1",
-        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
+        "name": "Machine",
+        "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 193746,
-      "name": "Terminator Oscillator",
-      "url": "https://open.spotify.com/track/3dpuDgfz7CDoSmM9pllsqW"
+      "duration_ms": 231240,
+      "name": "Black and White",
+      "url": "https://open.spotify.com/track/1GwiQCsJ0wEtzQTnblUSnH"
     },
     {
       "added_at": null,
@@ -155,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Project Regeneration, Vol. 1",
+        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 193746,
+      "name": "Terminator Oscillator",
+      "url": "https://open.spotify.com/track/3dpuDgfz7CDoSmM9pllsqW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Machine",
         "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
       },
@@ -164,25 +180,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 231240,
-      "name": "Black and White",
-      "url": "https://open.spotify.com/track/1GwiQCsJ0wEtzQTnblUSnH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shadow Zone",
-        "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Control It",
-      "url": "https://open.spotify.com/track/6PyawKQl2tQGqmitbvB4ov"
+      "duration_ms": 169800,
+      "name": "Get to the Gone",
+      "url": "https://open.spotify.com/track/2ty1wBvzv7tEuRbXdkE6bi"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Machine",
-        "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
+        "name": "Shadow Zone",
+        "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 169800,
-      "name": "Get to the Gone",
-      "url": "https://open.spotify.com/track/2ty1wBvzv7tEuRbXdkE6bi"
+      "duration_ms": 185093,
+      "name": "Control It",
+      "url": "https://open.spotify.com/track/6PyawKQl2tQGqmitbvB4ov"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 138400,
-      "name": "Destroy All",
-      "url": "https://open.spotify.com/track/2VYashoUmAFOKVEq5YUQjG"
+      "duration_ms": 159133,
+      "name": "Otsegolectric",
+      "url": "https://open.spotify.com/track/5bs9d0qiIvhKqhJs27BZaE"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 159133,
-      "name": "Otsegolectric",
-      "url": "https://open.spotify.com/track/5bs9d0qiIvhKqhJs27BZaE"
+      "duration_ms": 138400,
+      "name": "Destroy All",
+      "url": "https://open.spotify.com/track/2VYashoUmAFOKVEq5YUQjG"
     },
     {
       "added_at": null,
@@ -795,18 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cult of Static",
-        "url": "https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc"
+        "name": "Loud Rocks",
+        "url": "https://open.spotify.com/album/5PIDHpTCc6iT5WM2JZzFKu"
       },
       "artists": [
         {
           "name": "Static-X",
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        },
+        {
+          "name": "Dead Prez",
+          "url": "https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD"
         }
       ],
-      "duration_ms": 215693,
-      "name": "Lunatic",
-      "url": "https://open.spotify.com/track/1I4g0zU8WQ73sRd64QPYmw"
+      "duration_ms": 232200,
+      "name": "Hip Hop",
+      "url": "https://open.spotify.com/track/1UCVgSDDlH4vJ0jI4txWXP"
     }
   ],
   "unique_name": "This Is Static-X",

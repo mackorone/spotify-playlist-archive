@@ -1,6 +1,6 @@
 {
   "description": "Guembri, rhythmic krakebs and soulful chants.",
-  "num_followers": 65952,
+  "num_followers": 65980,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2025-03-13 20:50:57",
       "album": {
-        "name": "Lalla Malika - \u0644\u0627\u0644\u0629 \u0645\u0644\u064a\u0643\u0629",
-        "url": "https://open.spotify.com/album/7b3Y8g8SLFuqJDNyk9NWnb"
-      },
-      "artists": [
-        {
-          "name": "Neghma",
-          "url": "https://open.spotify.com/artist/55LUkgAAO2xw9YvYUgRoxr"
-        }
-      ],
-      "duration_ms": 342569,
-      "name": "Lalla Malika - \u0644\u0627\u0644\u0629 \u0645\u0644\u064a\u0643\u0629",
-      "url": "https://open.spotify.com/track/0tDZx5lL3bv6BFAiRSuwGO"
-    },
-    {
-      "added_at": "2025-03-13 20:50:57",
-      "album": {
         "name": "Guembrified",
         "url": "https://open.spotify.com/album/23zMAgsnRrnZcygmEYW9bY"
       },
@@ -227,22 +211,34 @@
     {
       "added_at": "2025-03-13 20:50:57",
       "album": {
-        "name": "Lila",
-        "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
+        "name": "Lalla Malika - \u0644\u0627\u0644\u0629 \u0645\u0644\u064a\u0643\u0629",
+        "url": "https://open.spotify.com/album/7b3Y8g8SLFuqJDNyk9NWnb"
       },
       "artists": [
         {
-          "name": "Gnawa de Marrakech",
-          "url": "https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj"
-        },
-        {
-          "name": "Maalem Mahjoub",
-          "url": "https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp"
+          "name": "Neghma",
+          "url": "https://open.spotify.com/artist/55LUkgAAO2xw9YvYUgRoxr"
         }
       ],
-      "duration_ms": 397333,
-      "name": "Chalaba",
-      "url": "https://open.spotify.com/track/3nHrBe0EYJtIPZJkMKlT0E"
+      "duration_ms": 342569,
+      "name": "Lalla Malika - \u0644\u0627\u0644\u0629 \u0645\u0644\u064a\u0643\u0629",
+      "url": "https://open.spotify.com/track/0tDZx5lL3bv6BFAiRSuwGO"
+    },
+    {
+      "added_at": "2025-03-13 20:50:57",
+      "album": {
+        "name": "Les Gnawa du Maroc (Ouled El' Abdi)",
+        "url": "https://open.spotify.com/album/0ZNSizWo8rOBfzyXEp4JKK"
+      },
+      "artists": [
+        {
+          "name": "Maalem Si Mohamed Chaouqi",
+          "url": "https://open.spotify.com/artist/0bBAwXTmf22PEhakYpllIr"
+        }
+      ],
+      "duration_ms": 291306,
+      "name": "Marhaba - Les Mlouks",
+      "url": "https://open.spotify.com/track/5UH3CEKTwhw2PnxVEnF1TC"
     },
     {
       "added_at": "2025-03-13 20:50:57",
@@ -263,18 +259,22 @@
     {
       "added_at": "2025-03-13 20:50:57",
       "album": {
-        "name": "Les Gnawa du Maroc (Ouled El' Abdi)",
-        "url": "https://open.spotify.com/album/0ZNSizWo8rOBfzyXEp4JKK"
+        "name": "Lila",
+        "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
       },
       "artists": [
         {
-          "name": "Maalem Si Mohamed Chaouqi",
-          "url": "https://open.spotify.com/artist/0bBAwXTmf22PEhakYpllIr"
+          "name": "Gnawa de Marrakech",
+          "url": "https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj"
+        },
+        {
+          "name": "Maalem Mahjoub",
+          "url": "https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp"
         }
       ],
-      "duration_ms": 291306,
-      "name": "Marhaba - Les Mlouks",
-      "url": "https://open.spotify.com/track/5UH3CEKTwhw2PnxVEnF1TC"
+      "duration_ms": 397333,
+      "name": "Chalaba",
+      "url": "https://open.spotify.com/track/3nHrBe0EYJtIPZJkMKlT0E"
     },
     {
       "added_at": "2025-03-13 20:50:57",
@@ -660,13 +660,13 @@
       },
       "artists": [
         {
-          "name": "Abdelkebir Merchane",
-          "url": "https://open.spotify.com/artist/7iiuXYxFPuc2tMe000sxe4"
+          "name": "Merchane Family",
+          "url": "https://open.spotify.com/artist/1WDnC2xfV1qAmQl7X962Ru"
         }
       ],
-      "duration_ms": 417666,
-      "name": "Hamadi",
-      "url": "https://open.spotify.com/track/5iTnwSlkwGr0HX125tsfFR"
+      "duration_ms": 281560,
+      "name": "Chalabati",
+      "url": "https://open.spotify.com/track/3Tcr63qRR8bUc5YjMn7I7E"
     },
     {
       "added_at": "2025-03-13 20:50:57",
@@ -692,13 +692,13 @@
       },
       "artists": [
         {
-          "name": "Merchane Family",
-          "url": "https://open.spotify.com/artist/1WDnC2xfV1qAmQl7X962Ru"
+          "name": "Abdelkebir Merchane",
+          "url": "https://open.spotify.com/artist/7iiuXYxFPuc2tMe000sxe4"
         }
       ],
-      "duration_ms": 281560,
-      "name": "Chalabati",
-      "url": "https://open.spotify.com/track/3Tcr63qRR8bUc5YjMn7I7E"
+      "duration_ms": 417666,
+      "name": "Hamadi",
+      "url": "https://open.spotify.com/track/5iTnwSlkwGr0HX125tsfFR"
     },
     {
       "added_at": "2025-03-13 20:50:57",
@@ -863,18 +863,18 @@
     {
       "added_at": "2025-03-13 20:50:57",
       "album": {
-        "name": "Les Gnawa du Maroc (Ouled El' Abdi)",
-        "url": "https://open.spotify.com/album/0ZNSizWo8rOBfzyXEp4JKK"
+        "name": "The Fire Within: Gnawa Music of Morocco",
+        "url": "https://open.spotify.com/album/2wE418tzzMYCA4feuDvGJk"
       },
       "artists": [
         {
-          "name": "Maalem Si Mohamed Chaouqi",
-          "url": "https://open.spotify.com/artist/0bBAwXTmf22PEhakYpllIr"
+          "name": "Hassan Hakmoun",
+          "url": "https://open.spotify.com/artist/2eYnBrgHAUt4OopbZjzZur"
         }
       ],
-      "duration_ms": 201773,
-      "name": "Fangara Fangari\u00e9 - Ouled Bambara",
-      "url": "https://open.spotify.com/track/7toYPMNjEZ1JmR5TKEfhG9"
+      "duration_ms": 239693,
+      "name": "Sidi Musa",
+      "url": "https://open.spotify.com/track/0Fxaf2KMQl9JJHIxoXL7Xn"
     }
   ],
   "unique_name": "Gnawa Music",

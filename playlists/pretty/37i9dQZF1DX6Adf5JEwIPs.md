@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Christian Nodal
 
-[Spotify](https://open.spotify.com/user/spotify) - 699,972 likes - 49 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 700,118 likes - 49 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 29 | [Tú Con Él \(Norteña\)](https://open.spotify.com/track/4HpYLV72AvwxEtbhl0TMT8) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Tú Con Él](https://open.spotify.com/album/5yd51nb500LvOH5ADH57Lz) | 3:31 |
 | 30 | [Entre Pláticas y Dudas](https://open.spotify.com/track/79gm3vpxuNnC5VPfauAIlP) | [Pablito Osorio](https://open.spotify.com/artist/1ZhRNCRp4k0fGK6p8OPV9t), [JPL](https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd) | [Entre Pláticas y Dudas](https://open.spotify.com/album/6goaiRxg64OPJUwTINOKL8) | 4:20 |
 | 31 | [2 Pasajes](https://open.spotify.com/track/5T6gp8NgM9WPaCEX0fU9r6) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [2 Pasajes](https://open.spotify.com/album/3c6JPtVcHcmD6ytbhXxzLg) | 2:26 |
-| 32 | [Testarosa](https://open.spotify.com/track/7G5nj5PTeLyfq6OrKyrNir) | [Said Norzagaray](https://open.spotify.com/artist/3hK6sVmdFt15ORCDg503Yp), [Alex Torres](https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2) | [Testarosa](https://open.spotify.com/album/59zzInP9OYI5Iy3uWWTsN5) | 3:03 |
+| 32 | [Testarossa](https://open.spotify.com/track/7G5nj5PTeLyfq6OrKyrNir) | [Said Norzagaray](https://open.spotify.com/artist/3hK6sVmdFt15ORCDg503Yp), [Alex Torres](https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2) | [Testarossa](https://open.spotify.com/album/59zzInP9OYI5Iy3uWWTsN5) | 3:03 |
 | 33 | [No Pidas Perdón](https://open.spotify.com/track/4T25QSWF3CemmblwbyZqkt) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Pidas Perdón](https://open.spotify.com/album/1hsPg6bG6BBj5czbuF34sT) | 3:04 |
 | 34 | [Marihuano Soy](https://open.spotify.com/track/6Pqh7aTVQIZndErT1zqgRz) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [4:20](https://open.spotify.com/album/2FwcWg07br29aNPozlcRTc) | 3:16 |
 | 35 | [0 Atención](https://open.spotify.com/track/6N5vVqK0pZGi9H1ota7dNk) | [Daren](https://open.spotify.com/artist/6DaJwc5ofkN35XEEKDPNfP) | [0 Atención](https://open.spotify.com/album/4MLsRABVzkXaQxnksJ0wtx) | 2:45 |

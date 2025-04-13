@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Tia Gordon
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,401 likes - 230 songs - 12 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,396 likes - 230 songs - 12 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

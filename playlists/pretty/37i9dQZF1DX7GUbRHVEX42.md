@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best of current & contemporary Reggae\.  Cover: Lila Iké
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,131,857 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,131,908 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 60 | [Stay](https://open.spotify.com/track/27RAZKSDzCpLCSaLBK8BNg) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Stay](https://open.spotify.com/album/4wkKZpR4yqXAvWLxzQj97e) | 4:07 |
 | 61 | [Time Is of Essence](https://open.spotify.com/track/6EseVHHBlvGNJnkhyyl4kH) | [Bugle](https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM), [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s), [Julian Marley](https://open.spotify.com/artist/7a4td2FhkuH58dApiBvnrv) | [Toxicity](https://open.spotify.com/album/5Ko9dGZI8vlqVROi0ugTym) | 3:18 |
 | 62 | [Million Times](https://open.spotify.com/track/3uk44fP88XJZ9rCqZicsXV) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Million Times](https://open.spotify.com/album/42EPgrQJsO48gpuFV2xAOq) | 3:11 |
-| 63 | [Rich in Real Life 3](https://open.spotify.com/track/7aOIcfZ51tOAzjwge9N1lQ) | [O.T\. Genasis](https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o), [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2), [Eddy G Bomba](https://open.spotify.com/artist/5azJsb1qLWcjwy9ChrjLlO), [Chef G Cole](https://open.spotify.com/artist/3pqMPISKQghr0l1tJ0rNBH) | [Rich in Real Life 3](https://open.spotify.com/album/1cSNSvuU0PySqxTYiboPVs) | 2:18 |
-| 64 | [Oh Jah](https://open.spotify.com/track/74iQyrji8Tbu5VDffj9rgZ) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Ireland Boss](https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT) | [Oh Jah](https://open.spotify.com/album/7aVMzB3MdZyZkLXu7pJ1Oj) | 4:01 |
+| 63 | [Oh Jah](https://open.spotify.com/track/74iQyrji8Tbu5VDffj9rgZ) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Ireland Boss](https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT) | [Oh Jah](https://open.spotify.com/album/7aVMzB3MdZyZkLXu7pJ1Oj) | 4:01 |
+| 64 | [Rich in Real Life 3](https://open.spotify.com/track/7aOIcfZ51tOAzjwge9N1lQ) | [O.T\. Genasis](https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o), [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2), [Eddy G Bomba](https://open.spotify.com/artist/5azJsb1qLWcjwy9ChrjLlO), [Chef G Cole](https://open.spotify.com/artist/3pqMPISKQghr0l1tJ0rNBH) | [Rich in Real Life 3](https://open.spotify.com/album/1cSNSvuU0PySqxTYiboPVs) | 2:18 |
 | 65 | [Born A Rebel](https://open.spotify.com/track/3d53gVUXptSl1R9oOwohp6) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Bizzarri](https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie) | [Born A Rebel](https://open.spotify.com/album/62RIMe1gQ87UWX70jqYtsY) | 3:37 |
 | 66 | [Final Warning](https://open.spotify.com/track/1jBmIONvgPrALQhRL6AgHe) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv), [Skank N Prod](https://open.spotify.com/artist/4rK98VLS3BkgpGFeWO6OI0) | [Final Warning](https://open.spotify.com/album/7lLoUQrpBTGAfW4Wu7cqmk) | 3:42 |
 | 67 | [Woii](https://open.spotify.com/track/10J8eHB9Yajz8NODmjpjvt) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 3:28 |
 | 68 | [Dirty Money](https://open.spotify.com/track/0beUa4YmnC5oMtWqzoeNYt) | [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Dirty Money](https://open.spotify.com/album/04Och1XUiZ5tcwFRcTwAx5) | 4:13 |
-| 69 | [This World \(with Kabaka Pyramid\)](https://open.spotify.com/track/5RPFPpOJP3OlTQk2mUPYxA) | [Nattali Rize](https://open.spotify.com/artist/0FomusKA1QZNUY5EdQdBbv), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Stu Brooks](https://open.spotify.com/artist/7lRFeVa0GvTB0hm28TKT9M) | [This World \(with Kabaka Pyramid\)](https://open.spotify.com/album/4w2URLpOZQovFHM9SBWtzo) | 3:27 |
-| 70 | [If You Know](https://open.spotify.com/track/1BGk2pZMRXI9T3tTPgKKtf) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [If You Know](https://open.spotify.com/album/5xlc1ipBEgREqACGiNI8rt) | 3:51 |
+| 69 | [If You Know](https://open.spotify.com/track/1BGk2pZMRXI9T3tTPgKKtf) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [If You Know](https://open.spotify.com/album/5xlc1ipBEgREqACGiNI8rt) | 3:51 |
+| 70 | [Helping Hand \(with Anthony B\)](https://open.spotify.com/track/6PjLeKjVLdN76GcBcDXn82) | [Irie Souljah](https://open.spotify.com/artist/1Qfee1zwAFUrtaaPMbkpsw), [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Thankful \(with Chronic Law\)](https://open.spotify.com/album/5LM9OTMQ4ub6exdf9E8h23) | 4:13 |
 
 Snapshot ID: `Z8bD3AAAAABR3E1eWIB/a+wGOUi0SX24`

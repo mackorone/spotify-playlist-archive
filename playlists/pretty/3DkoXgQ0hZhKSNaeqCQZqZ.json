@@ -1,13 +1,29 @@
 {
   "description": "All songs made for furs, by furs.  Request @ spotify.furrest.net",
-  "num_followers": 551,
+  "num_followers": 552,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADc7AZC/AxXNvkQEVwQhk9/5r+Qzbe",
+  "snapshot_id": "AAADdIuj11n5pr+a6tXze850R1sMyaIi",
   "tracks": [
+    {
+      "added_at": "2025-04-12 07:35:53",
+      "album": {
+        "name": "iPop",
+        "url": "https://open.spotify.com/album/0y62AVbc0vCZwEye11xE5P"
+      },
+      "artists": [
+        {
+          "name": "Musa",
+          "url": "https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "iPop",
+      "url": "https://open.spotify.com/track/2N8s7lPPUSNfsi5ARpmJmC"
+    },
     {
       "added_at": "2025-04-08 05:43:59",
       "album": {

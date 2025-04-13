@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Jamila
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,513 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,516 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 20 | [Paradies](https://open.spotify.com/track/056m5pQQquHM7dA25u0CNu) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [Paradies](https://open.spotify.com/album/1gkoGgNyuKLoFdEYQzmbY9) | 2:51 |
 | 21 | [4 Tage](https://open.spotify.com/track/2JbUf7ErfadMQ7WMIFLBq2) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [4 Tage](https://open.spotify.com/album/38FhVF6a8hjLMWMyR51O7M) | 2:50 |
 | 22 | [Unconditional](https://open.spotify.com/track/239fX9EmhCkfrAkMqY4LsK) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Unconditional](https://open.spotify.com/album/23WwMdhEaZBdk2HmeeXl1f) | 3:13 |
-| 23 | [Mama](https://open.spotify.com/track/7Jyr8w0a8EDwObVh8vD3Hs) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Mama](https://open.spotify.com/album/55BiC7ZMCPQYh3Z1OFAaVr) | 2:52 |
-| 24 | [BETTER DAYS](https://open.spotify.com/track/4FVGYHCWOoZ43Vtqb1IzsZ) | [Ray Lozano](https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443) | [SILK&SORROW](https://open.spotify.com/album/3uH0EPbMgnsqP220zcELbV) | 2:10 |
+| 23 | [BETTER DAYS](https://open.spotify.com/track/4FVGYHCWOoZ43Vtqb1IzsZ) | [Ray Lozano](https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443) | [SILK&SORROW](https://open.spotify.com/album/3uH0EPbMgnsqP220zcELbV) | 2:10 |
+| 24 | [Mama](https://open.spotify.com/track/7Jyr8w0a8EDwObVh8vD3Hs) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Mama](https://open.spotify.com/album/55BiC7ZMCPQYh3Z1OFAaVr) | 2:52 |
 | 25 | [Silver Lining](https://open.spotify.com/track/1rpLuCma6rZ1zyBqhVwzLA) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Silver Lining](https://open.spotify.com/album/5cgdpIitZtQQkmJeteZpLD) | 3:22 |
 | 26 | [Doppel Ass](https://open.spotify.com/track/2gz0YGXO9o4Vb8L6MP1Jz2) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [Doppel Ass](https://open.spotify.com/album/7LOKxfmHlMPknM4Nsz4V4v) | 2:40 |
-| 27 | [DU BIST](https://open.spotify.com/track/4YIHEP52AVXgzxpDzwaQqT) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [DU BIST](https://open.spotify.com/album/3aUs4NkHYXsMUP5i0eqOW8) | 2:37 |
-| 28 | [wir heben ab](https://open.spotify.com/track/0rDPHtQHu7a0s3Z6yyb6vL) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH) | [wir heben ab](https://open.spotify.com/album/11L7TEwaDg7VFA4kr6xCx0) | 2:33 |
+| 27 | [wir heben ab](https://open.spotify.com/track/0rDPHtQHu7a0s3Z6yyb6vL) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH) | [wir heben ab](https://open.spotify.com/album/11L7TEwaDg7VFA4kr6xCx0) | 2:33 |
+| 28 | [DU BIST](https://open.spotify.com/track/4YIHEP52AVXgzxpDzwaQqT) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [DU BIST](https://open.spotify.com/album/3aUs4NkHYXsMUP5i0eqOW8) | 2:37 |
 | 29 | [Begging](https://open.spotify.com/track/6OyVm6NMV3aMNGiI1yn2iI) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [Begging](https://open.spotify.com/album/79sVfNpFmrcJyZdOS9jnMC) | 3:02 |
 | 30 | [Fiction](https://open.spotify.com/track/2mcO2qndSRpwGiWxr9UjIG) | [Muryel](https://open.spotify.com/artist/4Ha661RJU3Gd2Rsd6mVmYn) | [Fiction](https://open.spotify.com/album/7asrT6SKGiRH84z6UvoI9A) | 3:09 |
 | 31 | [So much worse](https://open.spotify.com/track/53xhoI60X5BE0xYOqsGuiR) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [So much worse](https://open.spotify.com/album/73kvrZB4ck7G1Ka7YZcqyB) | 2:24 |

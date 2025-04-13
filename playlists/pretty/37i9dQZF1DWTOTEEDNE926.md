@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOTEEDNE926.md) - [plain]
 
 > las mujeres ya no lloran ✨ Cazzu en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,863 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,936 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOTEEDNE926.md) - [plain]
 | 9 | [Convéncete \(Remix\)](https://open.spotify.com/track/4OA8RnYn0HIQMBDgIFnrJu) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [Convéncete \(Remix\)](https://open.spotify.com/album/4tmbV9VHWjdlaDu1YK3yQO) | 3:28 |
 | 10 | [IMAN \(Two Of Us\)](https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [IMAN \(Two Of Us\)](https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb) | 2:02 |
 | 11 | [blackout 🧊](https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [blackout 🧊](https://open.spotify.com/album/6BWhAZgUrFRWSfXbCaIz2E) | 3:02 |
-| 12 | [boss \- Remix](https://open.spotify.com/track/3F75fwqrPiNLkf3krSkYkQ) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [boss \(Remix\)](https://open.spotify.com/album/5XPntEYsj1XpHzDYwShoIf) | 3:32 |
+| 12 | [boss rmx](https://open.spotify.com/track/3F75fwqrPiNLkf3krSkYkQ) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [boss rmx](https://open.spotify.com/album/5XPntEYsj1XpHzDYwShoIf) | 3:32 |
 | 13 | [F1](https://open.spotify.com/track/1LdwauFSFbn33eQUSTKWP5) | [VICKILICIOUS](https://open.spotify.com/artist/3epgn9E3Ew3AfIh3LlyOYZ) | [F1](https://open.spotify.com/album/0iMrN1DTygbN3Kvoiswb4j) | 2:00 |
 | 14 | [SAN TURRONA REMIX](https://open.spotify.com/track/59aD6M6ZIZF5sYRDqymT32) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [SAN TURRONA REMIX](https://open.spotify.com/album/1LQ9PrZ8uGkKf5xBXB8tlY) | 3:02 |
 | 15 | [Tsunami](https://open.spotify.com/track/03xiVJYbab7t7CXOpoqvGq) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [Tsunami](https://open.spotify.com/album/4GjjGPNztWRpc1QxHclJvh) | 1:34 |

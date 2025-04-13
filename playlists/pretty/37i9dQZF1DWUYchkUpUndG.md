@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM?si=H0B0bky3RYao168o52qu7g>Samuel Folabi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,358 likes - 102 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,367 likes - 102 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 15 | [Your Kingdom](https://open.spotify.com/track/2jw2AVGphRzNFPXkcuwWor) | [Ebube Immanuel](https://open.spotify.com/artist/6T9pNc1rbjm0SpkqyDO6dp) | [Your Kingdom](https://open.spotify.com/album/2M5Yqai9ZkkbzJqDRBlwXB) | 3:55 |
 | 16 | [Working](https://open.spotify.com/track/2NIjCD9Dgp9pOGkIJKmmhh) | [Dani Andi](https://open.spotify.com/artist/1ct8YR79S2gMB6wsKmRLvz) | [Working](https://open.spotify.com/album/1hosmaoVawj0ABPd6SJdCu) | 2:44 |
 | 17 | [You Deserve My Praise](https://open.spotify.com/track/3Rm33gGse4LjfL25GivWhP) | [Grace Oluwaloju](https://open.spotify.com/artist/6NInTLdGUMFQHAaFnpUo9Y), [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [You Deserve My Praise](https://open.spotify.com/album/1Q1Nu1lFoMo1iaF5IVqgFg) | 11:50 |
-| 18 | [Yeshuah \- Live from London](https://open.spotify.com/track/1cZFDOXK1aEEsUeagFnlRC) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Yeshuah \(Live from London\)](https://open.spotify.com/album/6ZHUF2m9rL5rVTKwSykbbI) | 4:11 |
+| 18 | [Yeshua \- Live from London](https://open.spotify.com/track/1cZFDOXK1aEEsUeagFnlRC) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Yeshua \(Live from London\)](https://open.spotify.com/album/6ZHUF2m9rL5rVTKwSykbbI) | 4:11 |
 | 19 | [Ujesu Ulidwala](https://open.spotify.com/track/77zsgriq7B4e9pYQn0rGC5) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [HYMNS OF FAITH IN ZION](https://open.spotify.com/album/35XmpyoZg5UcVkKRBc1xTl) | 6:39 |
 | 20 | [to live](https://open.spotify.com/track/2VxgMuDHLc0PJcipOs872V) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [to live](https://open.spotify.com/album/3UiCI8h07WoDLZ0O41pbTp) | 2:32 |
 | 21 | [HOSANNA WORSHIP \- LIVE](https://open.spotify.com/track/4Asm8IIFNfcV3tOsbBCZQ6) | [Ruke Gure](https://open.spotify.com/artist/3kJycPCLqMjSCHGEjvMUlz) | [HOSANNA WORSHIP \(LIVE\)](https://open.spotify.com/album/2fDU0leYnl2rlfPFor0K1a) | 8:48 |

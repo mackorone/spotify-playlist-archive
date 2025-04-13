@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Malcom Todd
 
-2,088 songs - 4 day 14 hr 32 min
+2,089 songs - 4 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1496,7 +1496,7 @@
 | [Push It Down](https://open.spotify.com/track/2x8n3P1a78GjCtMDQfnwrW) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [Push It Down](https://open.spotify.com/album/44jqOG7z7RVwI9WBXpOMe0) | 3:03 | 2021-08-25 | 2021-08-26 |
 | [Push Me Away](https://open.spotify.com/track/2o1JACZB8lpw7lkXlE3QYf) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Push Me Away](https://open.spotify.com/album/4hlNGJ1p7zNa009uiFFFSQ) | 2:44 | 2021-05-03 | 2021-10-12 |
 | [Push N Shuv](https://open.spotify.com/track/08KP4FEV1JZUQu8ZL2Uru9) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Push N Shuv](https://open.spotify.com/album/4NqFASjab96Rtmtu2vCcRR) | 3:31 | 2024-03-15 | 2024-05-04 |
-| [Pushing Daisies](https://open.spotify.com/track/5UUttIrxWcB5IZER2LfQpl) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Pushing Daisies](https://open.spotify.com/album/1CFppXbRFmw8INpeQQMfQc) | 3:27 | 2024-10-25 |  |
+| [Pushing Daisies](https://open.spotify.com/track/5UUttIrxWcB5IZER2LfQpl) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Pushing Daisies](https://open.spotify.com/album/1CFppXbRFmw8INpeQQMfQc) | 3:27 | 2024-10-25 | 2025-04-13 |
 | [Put It All On Me](https://open.spotify.com/track/3EppIsAu2pgwtXTAgmN2jP) | [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [Put It All On Me](https://open.spotify.com/album/4CvCGMHdOUXT4gi1kz9Jwm) | 3:16 | 2020-10-20 | 2020-10-21 |
 | [PWR](https://open.spotify.com/track/7N2hQ47vk6s35F1rSoodDm) | [Grand Pax](https://open.spotify.com/artist/7KN4ibZ3dD1ey3lfo3ojQt) | [PWR](https://open.spotify.com/album/39w0JS1MaVbfgz6g5YcxbN) | 3:22 | 2021-02-28 | 2021-05-23 |
 | [Queen](https://open.spotify.com/track/4rPzJZqLHE1b5rx6WbFvqe) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Queen](https://open.spotify.com/album/6RGVxi5a7hDGRSEnG1U0xt) | 3:16 | 2021-01-21 | 2021-04-03 |
@@ -1832,6 +1832,7 @@
 | [tarde](https://open.spotify.com/track/00d5cZCaxuGWzeL4n8dbpe) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tarde](https://open.spotify.com/album/6lRoh8C3svKUXARiBoAzAq) | 3:37 | 2021-05-04 | 2021-05-26 |
 | [Taste of Metal](https://open.spotify.com/track/6ac7zxx5odBoNp7MoElL1F) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Taste of Metal](https://open.spotify.com/album/1dd9cr2W3kYyV7YyTv5s5N) | 2:54 | 2024-02-09 | 2024-05-23 |
 | [TE EXTRAÑO Y LO SIENTO...](https://open.spotify.com/track/6OSN2N61BWdYlozr5cywFK) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [TE EXTRAÑO Y LO SIENTO...](https://open.spotify.com/album/5nq42mfjwHfY2tFGWhn6mP) | 3:49 | 2023-04-21 | 2023-06-24 |
+| [Teach Me How To Love](https://open.spotify.com/track/1WIwqy57xMadhpG3cP0yvc) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Teach Me How To Love](https://open.spotify.com/album/0OMWABEZWBwe1dI5DQCkHd) | 3:02 | 2025-04-04 |  |
 | [Teenager](https://open.spotify.com/track/2oXYNuC2MyRIBEAuhVCIAz) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Teenager](https://open.spotify.com/album/306w1PbQAo2jBo2k1IG7JJ) | 2:59 | 2022-03-18 | 2022-04-21 |
 | [Tek It \- Sped Up](https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Tek It \(I Watch the Moon\)](https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv) | 2:46 | 2022-05-20 | 2022-11-26 |
 | [TELESCOPE](https://open.spotify.com/track/0hSF71xjBaLyh4c7cV60hX) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7), [papichuloteej](https://open.spotify.com/artist/1a9GLZX6UUiS0togwq1Viq), [Sintoria](https://open.spotify.com/artist/5obN8rH8vcZiPJprUDj46p) | [TELESCOPE](https://open.spotify.com/album/68Ewq04LRD81Bbx60eXIBg) | 3:03 | 2020-11-20 | 2021-01-23 |

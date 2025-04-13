@@ -1,12 +1,12 @@
 {
   "description": "This is Santa Fe Klan. The essential tracks, all in one playlist.",
-  "num_followers": 562851,
+  "num_followers": 562894,
   "original_name": "This Is Santa Fe Klan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/cKAAAAAAAMx+abh9bDIXR7xZeIDHk5",
+  "snapshot_id": "Z/hbgAAAAAAsMnB16nTdfKEGarZg0E1+",
   "tracks": [
     {
       "added_at": null,
@@ -999,6 +999,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desde El Infierno",
+        "url": "https://open.spotify.com/album/2GzPIRTuUasRgnSyvcSs7n"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Badguychapo",
+          "url": "https://open.spotify.com/artist/7Mu2VtGDLbzEvtGbc8i1Pl"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 233948,
+      "name": "Los Opaco",
+      "url": "https://open.spotify.com/track/11uBOJBC9zh7pVuX0USUok"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si Aqu\u00ed Estuvieras",
         "url": "https://open.spotify.com/album/2BpP4gT2GjPzHNHwlZqlmU"
       },
@@ -1027,34 +1055,6 @@
       "duration_ms": 321000,
       "name": "Si Aqu\u00ed Estuvieras",
       "url": "https://open.spotify.com/track/2uH7BbKKG9bzVBuHdL5TB2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desde El Infierno",
-        "url": "https://open.spotify.com/album/2GzPIRTuUasRgnSyvcSs7n"
-      },
-      "artists": [
-        {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Badguychapo",
-          "url": "https://open.spotify.com/artist/7Mu2VtGDLbzEvtGbc8i1Pl"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 233948,
-      "name": "Los Opaco",
-      "url": "https://open.spotify.com/track/11uBOJBC9zh7pVuX0USUok"
     },
     {
       "added_at": null,
@@ -1211,8 +1211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fotos y Recuerdos",
-        "url": "https://open.spotify.com/album/70d43jUvjO0nwHpv5jy9Qo"
+        "name": "Infiel",
+        "url": "https://open.spotify.com/album/5Mcv3YAgglaokdbwvC1PsS"
       },
       "artists": [
         {
@@ -1220,13 +1220,13 @@
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         },
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "Afaz Natural",
+          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
         }
       ],
-      "duration_ms": 198035,
-      "name": "Fotos y Recuerdos",
-      "url": "https://open.spotify.com/track/1kW9YAt1Tl5xp1fZZZQ4KL"
+      "duration_ms": 222876,
+      "name": "Infiel",
+      "url": "https://open.spotify.com/track/6Xe4tOzSRB49ZRqQBOANpY"
     }
   ],
   "unique_name": "This Is Santa Fe Klan",

@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: Jamie xx",
-  "num_followers": 71433,
+  "num_followers": 71484,
   "original_name": "Editors' picks: Best Electronic Songs of 2024",
   "owner": {
     "name": "Spotify",
@@ -395,18 +395,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "TEARDROPS",
-        "url": "https://open.spotify.com/album/5xb1WKKpThyoit6HhVLbfD"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/0OHlajVQ2uVXWyLs8zzFHF"
       },
       "artists": [
         {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Loods",
+          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
         }
       ],
-      "duration_ms": 203333,
-      "name": "TEARDROPS",
-      "url": "https://open.spotify.com/track/42Ncw4TTGb1MO1WchSVSaQ"
+      "duration_ms": 191802,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7tVZViH1q2MRBwnGBPyq7w"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -427,22 +431,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/0OHlajVQ2uVXWyLs8zzFHF"
+        "name": "TEARDROPS",
+        "url": "https://open.spotify.com/album/5xb1WKKpThyoit6HhVLbfD"
       },
       "artists": [
         {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Loods",
-          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
         }
       ],
-      "duration_ms": 191802,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7tVZViH1q2MRBwnGBPyq7w"
+      "duration_ms": 203333,
+      "name": "TEARDROPS",
+      "url": "https://open.spotify.com/track/42Ncw4TTGb1MO1WchSVSaQ"
     },
     {
       "added_at": "2024-12-04 12:15:00",

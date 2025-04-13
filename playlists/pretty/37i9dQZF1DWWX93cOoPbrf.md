@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de los corridones\. Juan Freer y Los Esquivel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,639 likes - 87 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,905 likes - 87 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

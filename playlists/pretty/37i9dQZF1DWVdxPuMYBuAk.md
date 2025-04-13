@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 
 > New year, same Kitty\. Listen to all the music from XO, Kitty and the most memorable tracks from To All The Boys, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,512 likes - 115 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,578 likes - 115 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Like Me Better](https://open.spotify.com/track/1jXfVzMk8cSbvAXMML4Y4f) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I Like Me Better](https://open.spotify.com/album/5SCJycEDIDFyeGmCj8h3uG) | 3:17 |
-| 2 | [Favorite Son \(From XO, Kitty Season 2\)](https://open.spotify.com/track/6j7x60LgykoSpz9jJleuSb) | [dv/sn](https://open.spotify.com/artist/2IGjOiTyvZdlRP8PCJ1EvS) | [Favorite Son \(From XO, Kitty Season 2\)](https://open.spotify.com/album/7hjK7rJh2qdkIYaTi7USNg) | 1:58 |
+| 2 | [Favorite Son \(From XO, Kitty Season 2\)](https://open.spotify.com/track/6j7x60LgykoSpz9jJleuSb) | [dv/sn](https://open.spotify.com/artist/2IGjOiTyvZdlRP8PCJ1EvS), [PENIEL](https://open.spotify.com/artist/21EUYgHJLDUeG72eDEmTx4) | [Favorite Son \(From XO, Kitty Season 2\)](https://open.spotify.com/album/7hjK7rJh2qdkIYaTi7USNg) | 1:58 |
 | 3 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 |
 | 4 | [I DO](https://open.spotify.com/track/23z04slx9PgvUYCOKkd27X) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I DO](https://open.spotify.com/album/1WMHx2pByCuT41GF5NHU3O) | 3:10 |
 | 5 | [Curling Field \(feat\. Juicelover\)](https://open.spotify.com/track/5eRHUqFh42n2udXatalFuy) | [Tamiz](https://open.spotify.com/artist/2tbM2jTJQHly5lS3XUvZ3f), [Juicelover](https://open.spotify.com/artist/25zt0fnFASic9db8SoGnFL) | [Curling Field \(feat\. Juicelover\)](https://open.spotify.com/album/47BWmB2pJt774yrb0cdPK7) | 3:38 |

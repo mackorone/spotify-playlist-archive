@@ -5845,6 +5845,28 @@
     },
     {
       "album": {
+        "name": "Fake ID",
+        "url": "https://open.spotify.com/album/1rQNxdOWEaDyxF0bldJ7eI"
+      },
+      "artists": [
+        {
+          "name": "kizaru",
+          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
+        },
+        {
+          "name": "Icegergert",
+          "url": "https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229500,
+      "name": "Fake ID",
+      "url": "https://open.spotify.com/track/74kalpHrS2ngqa68XFL0dS"
+    },
+    {
+      "album": {
         "name": "Come Over When You're Sober, Pt. 2",
         "url": "https://open.spotify.com/album/52JymrguPgkmmwLaWIusst"
       },
@@ -7043,6 +7065,28 @@
     },
     {
       "album": {
+        "name": "GLOCK17",
+        "url": "https://open.spotify.com/album/1ZAwA3A3kkNCy7MjYRKpEv"
+      },
+      "artists": [
+        {
+          "name": "BUSHIDO ZHO",
+          "url": "https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R"
+        },
+        {
+          "name": "Yanix",
+          "url": "https://open.spotify.com/artist/7gmUEqRjXK144s5jQMVc8c"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113877,
+      "name": "GLOCK17",
+      "url": "https://open.spotify.com/track/3yvBIM3rPDFkycuf5ApNFB"
+    },
+    {
+      "album": {
         "name": "Myspace Addiction",
         "url": "https://open.spotify.com/album/2Q2ZtKYsGAtTdnqSPWaA1S"
       },
@@ -7790,7 +7834,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 215338,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou"
@@ -7942,6 +7986,24 @@
       "duration_ms": 158000,
       "name": "HELLA PLAYERS",
       "url": "https://open.spotify.com/track/1Kb7obMqEf8I0S84zwOl7C"
+    },
+    {
+      "album": {
+        "name": "Henry, come on",
+        "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311269,
+      "name": "Henry, come on",
+      "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
     },
     {
       "album": {
@@ -16826,7 +16888,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 126969,
       "name": "Stephanie",
       "url": "https://open.spotify.com/track/5rc7178sa2YRDlBFBHY0e8"
@@ -17772,7 +17834,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 256000,
       "name": "Timeless (feat Playboi Carti)",
       "url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
@@ -22958,6 +23020,24 @@
       "duration_ms": 122706,
       "name": "\u0413\u043e\u0440\u043e\u0434",
       "url": "https://open.spotify.com/track/3vOLsA9Y9R39xKoCSXLlcP"
+    },
+    {
+      "album": {
+        "name": "\u0413\u041e\u0428\u0410 \u0420\u0423\u0411\u0427\u0418\u041d\u0421\u041a\u0418\u0419",
+        "url": "https://open.spotify.com/album/780MG5QTut08YI8CZeYZeK"
+      },
+      "artists": [
+        {
+          "name": "9mice",
+          "url": "https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "\u0413\u041e\u0428\u0410 \u0420\u0423\u0411\u0427\u0418\u041d\u0421\u041a\u0418\u0419",
+      "url": "https://open.spotify.com/track/3gqQlyorpm7mZOK6cgrO2U"
     },
     {
       "album": {
@@ -29032,7 +29112,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 185409,
       "name": "\u041e\u0441\u043e\u0431\u0438\u0441\u0442\u0438\u0439 \u0440\u0430\u0439",
       "url": "https://open.spotify.com/track/5r2e2ZLwP33ASZroY74xWs"
@@ -31902,7 +31982,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 214418,
       "name": "\u0421\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442",
       "url": "https://open.spotify.com/track/5UW6yvwo3nVA609NgprdhK"
@@ -35660,7 +35740,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "\u0407\u0434\u0435 \u0434\u0430\u0445",
       "url": "https://open.spotify.com/track/7bBZdL9ZTDKbNN7J1Alla4"

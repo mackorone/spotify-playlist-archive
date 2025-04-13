@@ -40783,6 +40783,28 @@
     },
     {
       "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/4JfgfVQE9JuWnxSbkGyWTT"
+      },
+      "artists": [
+        {
+          "name": "FOOTWURK",
+          "url": "https://open.spotify.com/artist/1XrSIbRO5hpc8BhTNJMkXp"
+        },
+        {
+          "name": "Rise Of The JellyFish",
+          "url": "https://open.spotify.com/artist/74u8W37qWfc4v3KINoc9wC"
+        }
+      ],
+      "date_added": "2025-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189960,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/6TWAWRJGk75udjHapVlwi8"
+    },
+    {
+      "album": {
         "name": "Wait (Remixes)",
         "url": "https://open.spotify.com/album/5Z1WbgKEYL2baoQWLDovBG"
       },

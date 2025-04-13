@@ -1,6 +1,6 @@
 {
   "description": "The most beautiful love songs of the 2000s",
-  "num_followers": 686720,
+  "num_followers": 687014,
   "original_name": "00s Love Songs",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-07-15 17:42:41",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 219493,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/0gJvqi9QyASOCtJu99tytc"
-    },
-    {
-      "added_at": "2024-07-15 17:42:41",
-      "album": {
         "name": "In Blue",
         "url": "https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 207506,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL"
+    },
+    {
+      "added_at": "2024-07-15 17:42:41",
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/0gJvqi9QyASOCtJu99tytc"
     },
     {
       "added_at": "2024-07-15 17:42:41",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-07-15 17:42:41",
       "album": {
-        "name": "All Rise",
-        "url": "https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg"
-      },
-      "artists": [
-        {
-          "name": "Blue",
-          "url": "https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi"
-        }
-      ],
-      "duration_ms": 193240,
-      "name": "Best In Me",
-      "url": "https://open.spotify.com/track/0t78xGJe3jXsih4qRMId7I"
-    },
-    {
-      "added_at": "2024-07-15 17:42:41",
-      "album": {
         "name": "Shades of Purple",
         "url": "https://open.spotify.com/album/64qpmVqrwUlBihBMhZDyJj"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 279240,
       "name": "Pretty Boy",
       "url": "https://open.spotify.com/track/5pgdZyYh16sAUkDjrqGPej"
+    },
+    {
+      "added_at": "2024-07-15 17:42:41",
+      "album": {
+        "name": "All Rise",
+        "url": "https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg"
+      },
+      "artists": [
+        {
+          "name": "Blue",
+          "url": "https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi"
+        }
+      ],
+      "duration_ms": 193240,
+      "name": "Best In Me",
+      "url": "https://open.spotify.com/track/0t78xGJe3jXsih4qRMId7I"
     },
     {
       "added_at": "2024-07-15 17:42:41",

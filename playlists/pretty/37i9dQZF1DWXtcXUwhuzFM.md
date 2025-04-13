@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia Behmiltä, Lauri Haavilta ja williamilta & Ettalta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,811 likes - 107 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,872 likes - 107 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 80 | [Rain](https://open.spotify.com/track/5ji0TlbJHbHkbNrr6hoi0n) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Rain](https://open.spotify.com/album/43e8cs35ILaJjlDtj8H44z) | 4:20 |
 | 81 | [10 Hoes](https://open.spotify.com/track/4qqKLHCbw96XRXX4tBfasV) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [10 Hoes](https://open.spotify.com/album/2wbvQ2Dxh2cLwCsOOkE46h) | 2:28 |
 | 82 | [do what i say](https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [do what i say](https://open.spotify.com/album/7pIJAfTKAZ0YoLhdjTwM1E) | 3:08 |
-| 83 | [Higher](https://open.spotify.com/track/3fttuc1GSLZSovtB2Q2jX6) | [Waltari](https://open.spotify.com/artist/6IuUpA7uQbkfYhl3oG3ZDv) | [Higher](https://open.spotify.com/album/2jbLUNxqF9vKNjRLganbPf) | 4:13 |
+| 83 | [Higher](https://open.spotify.com/track/3fttuc1GSLZSovtB2Q2jX6) | [Waltari](https://open.spotify.com/artist/6IuUpA7uQbkfYhl3oG3ZDv) | [Higher](https://open.spotify.com/album/2jbLUNxqF9vKNjRLganbPf) | 3:20 |
 | 84 | [Baby Blue](https://open.spotify.com/track/1MPEyP3UpTlNlD1AN7Mo4i) | [Julie Ellinor](https://open.spotify.com/artist/0Qb0B1f0uVNSiNbT4SAwGi) | [Baby Blue](https://open.spotify.com/album/0bW2OhgmGG7eieQRZRTqw4) | 2:32 |
 | 85 | [Paljon tehtävää](https://open.spotify.com/track/0BYQJj5ICrjuMx2btAhHRv) | [GADA](https://open.spotify.com/artist/2eFDVGiIy5dAVbdMnnsUwH) | [Paljon tehtävää](https://open.spotify.com/album/6XF7oNTLZ3frqpn7QPShfB) | 3:34 |
 | 86 | [Light As a Feather](https://open.spotify.com/track/1jDU5Runo5URHe48jMMlgJ) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP), [Graveyard](https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL) | [Light as a Feather](https://open.spotify.com/album/32Fd1rVoH1MKhdlUZ4KoaO) | 3:58 |

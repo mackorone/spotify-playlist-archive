@@ -1,13 +1,37 @@
 {
   "description": "Hindi hits, Punjabi bangers, love songs, chart toppers, timeless Bollywood classics, latest trending tracks under a single playlist featuring the best of Arijit Singh, Pritam, A R Rahman, Badshah, AP Dhillon and more. Follow now!",
-  "num_followers": 228610,
+  "num_followers": 228608,
   "original_name": "Bollywood Top 50",
   "owner": {
     "name": "Filtr India",
     "url": "https://open.spotify.com/user/filtrindia"
   },
-  "snapshot_id": "AAAWVek2Lg2GLn/AhJ1/ijNdzkLcjX/7",
+  "snapshot_id": "AAAWWSSXG8VhmTy/EYBC+3ir9+5aW+HS",
   "tracks": [
+    {
+      "added_at": "2025-03-31 06:49:14",
+      "album": {
+        "name": "Safar",
+        "url": "https://open.spotify.com/album/3M8j6IwEcqDnf0V3y3ZI3C"
+      },
+      "artists": [
+        {
+          "name": "Bayaan",
+          "url": "https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Rovalio",
+          "url": "https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Maand",
+      "url": "https://open.spotify.com/track/2ZzZ2qwZBWlDKs420hhloc"
+    },
     {
       "added_at": "2025-02-06 13:19:45",
       "album": {
@@ -35,34 +59,6 @@
       "duration_ms": 262736,
       "name": "Ishq Mein (From \"Nadaaniyan\")",
       "url": "https://open.spotify.com/track/4jigZPtP8wuNy2vnQw7dUn"
-    },
-    {
-      "added_at": "2025-02-18 07:23:25",
-      "album": {
-        "name": "Galatfehmi (From \"Nadaaniyan\")",
-        "url": "https://open.spotify.com/album/03c5xa4XvMBeRkfkUFVFEU"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "TUSHAR JOSHI",
-          "url": "https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH"
-        },
-        {
-          "name": "Madhubanti Bagchi",
-          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        }
-      ],
-      "duration_ms": 266043,
-      "name": "Galatfehmi (From \"Nadaaniyan\")",
-      "url": "https://open.spotify.com/track/388EAed7c6eKGbkqM3oYUP"
     },
     {
       "added_at": "2022-07-18 10:03:31",
@@ -129,30 +125,6 @@
       "url": "https://open.spotify.com/track/3vCzLB6kS2lGcIpm1OOUsy"
     },
     {
-      "added_at": "2025-03-31 06:49:14",
-      "album": {
-        "name": "Safar",
-        "url": "https://open.spotify.com/album/3M8j6IwEcqDnf0V3y3ZI3C"
-      },
-      "artists": [
-        {
-          "name": "Bayaan",
-          "url": "https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP"
-        },
-        {
-          "name": "Hasan Raheem",
-          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
-        },
-        {
-          "name": "Rovalio",
-          "url": "https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Maand",
-      "url": "https://open.spotify.com/track/2ZzZ2qwZBWlDKs420hhloc"
-    },
-    {
       "added_at": "2024-08-23 02:34:38",
       "album": {
         "name": "Masala Bop (Kesariya x Sadqay)",
@@ -187,30 +159,6 @@
       "duration_ms": 120445,
       "name": "Masala Bop (Kesariya x Sadqay)",
       "url": "https://open.spotify.com/track/04tE9ZN0JT5WpqjE4WL0yX"
-    },
-    {
-      "added_at": "2025-02-12 03:36:46",
-      "album": {
-        "name": "Sanam Teri Kasam (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2yYfIOq25JQWvUQ9AR172D"
-      },
-      "artists": [
-        {
-          "name": "Ankit Tiwari",
-          "url": "https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB"
-        },
-        {
-          "name": "Palak Muchhal",
-          "url": "https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr"
-        },
-        {
-          "name": "Sameer Anjaan",
-          "url": "https://open.spotify.com/artist/7KQ4t4Fvxcfcb0pzJFFN7W"
-        }
-      ],
-      "duration_ms": 314000,
-      "name": "Sanam Teri Kasam",
-      "url": "https://open.spotify.com/track/1PDREqVNvmphIoNac3Vz8c"
     },
     {
       "added_at": "2025-01-13 06:30:47",
@@ -271,6 +219,30 @@
       "duration_ms": 240066,
       "name": "Raanjhan (From \"Do Patti\")",
       "url": "https://open.spotify.com/track/4vHRQnzGcKEtqsLH70tAms"
+    },
+    {
+      "added_at": "2025-02-12 03:36:46",
+      "album": {
+        "name": "Sanam Teri Kasam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2yYfIOq25JQWvUQ9AR172D"
+      },
+      "artists": [
+        {
+          "name": "Ankit Tiwari",
+          "url": "https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB"
+        },
+        {
+          "name": "Palak Muchhal",
+          "url": "https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr"
+        },
+        {
+          "name": "Sameer Anjaan",
+          "url": "https://open.spotify.com/artist/7KQ4t4Fvxcfcb0pzJFFN7W"
+        }
+      ],
+      "duration_ms": 314000,
+      "name": "Sanam Teri Kasam",
+      "url": "https://open.spotify.com/track/1PDREqVNvmphIoNac3Vz8c"
     },
     {
       "added_at": "2024-06-12 07:44:56",

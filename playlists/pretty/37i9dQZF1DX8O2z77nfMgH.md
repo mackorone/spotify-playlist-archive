@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Sech, Omar Courtz
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,046 likes - 58 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 892,059 likes - 58 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 7 | [5 Estrellas](https://open.spotify.com/track/7jDRACsh0RUMEpzNPLMZWF) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [5 Estrellas](https://open.spotify.com/album/5iHRfwX8YwrmIjHThJTjWZ) | 2:44 |
 | 8 | [CHICA ATRACTIVA](https://open.spotify.com/track/0mw3zId9qOGkWlBogptIB1) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [YTSQS](https://open.spotify.com/album/4CVDmXbf9G25OoGBLGI7T1) | 2:45 |
 | 9 | [A QUE TE ARUÑO](https://open.spotify.com/track/6cefxRaElHi6EYMU6pxsQ4) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F) | [A QUE TE ARUÑO](https://open.spotify.com/album/5OMDV2WFXkgmFCsBLtcYHV) | 2:53 |
-| 10 | [boss \- Remix](https://open.spotify.com/track/3F75fwqrPiNLkf3krSkYkQ) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [boss \(Remix\)](https://open.spotify.com/album/5XPntEYsj1XpHzDYwShoIf) | 3:32 |
+| 10 | [boss rmx](https://open.spotify.com/track/3F75fwqrPiNLkf3krSkYkQ) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [boss rmx](https://open.spotify.com/album/5XPntEYsj1XpHzDYwShoIf) | 3:32 |
 | 11 | [Costeñita](https://open.spotify.com/track/7o1ct1kgBmvyZ33KRFKX8g) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [Costeñita](https://open.spotify.com/album/0NqfoWQtgVhRpv5qtFduT8) | 3:46 |
 | 12 | [El Chore](https://open.spotify.com/track/2k35RlqbpIPZPAOjzME0ZL) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gael Valenzuela](https://open.spotify.com/artist/6MUhWuKMY0Wo0S12d7FAgh) | [El Chore](https://open.spotify.com/album/4yyQAqJj38f5DD7BhZhCuh) | 2:50 |
 | 13 | [Guerrero](https://open.spotify.com/track/5roof80t8uRcjEjIjg8iZE) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM) | [Guerrero](https://open.spotify.com/album/136HNjH2pYOuvjo4qWemGE) | 2:23 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 35 | [NOstas](https://open.spotify.com/track/3xlrhGSfJsXeIMpUaH8tYA) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [UNDESASTRE delux: CERODRAMA](https://open.spotify.com/album/4drbveW8C0TBDfEVxYy0Sa) | 2:56 |
 | 36 | [La Última Carta](https://open.spotify.com/track/1wUUGsbWpr8EFrZu1bxGra) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Bendito Desamor](https://open.spotify.com/album/6LY0E3EMCawQUMWNPksIaR) | 3:08 |
 | 37 | [Sola](https://open.spotify.com/track/6ypxZlBgfczJnNLWvx0ytg) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Sola](https://open.spotify.com/album/4CMuT50pdU5XwFls4pgLCZ) | 2:13 |
-| 38 | [un mensaje de voz](https://open.spotify.com/track/1HnI5cfbWXkyYxfRhCZPFv) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [un mensaje de voz](https://open.spotify.com/album/4yxdgyxOzVIagRRZ5PT0XP) | 3:23 |
+| 38 | [un mensaje de voz \(feat\. Elsa y Elmar\)](https://open.spotify.com/track/1HnI5cfbWXkyYxfRhCZPFv) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [un mensaje de voz \(feat\. Elsa y Elmar\)](https://open.spotify.com/album/4yxdgyxOzVIagRRZ5PT0XP) | 3:23 |
 | 39 | [Yeyesita](https://open.spotify.com/track/1zpeVOZpkZ7K3ubaG6PZE4) | [Sarita](https://open.spotify.com/artist/1QxkThT4UZIVSv5KS7KS8I), [Maeo](https://open.spotify.com/artist/3twM6hBRnxGCEeNwg5YNtr), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz) | [Yeyesita](https://open.spotify.com/album/1Q725wiuitxapJwLx6GNbJ) | 2:41 |
 | 40 | [Sonora](https://open.spotify.com/track/6chfN5Qo4Z9dfuSHxxKSDM) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Sonora](https://open.spotify.com/album/7vPsHR8Mut9AcfpK0PzrhW) | 3:27 |
 | 41 | [Como Se Hace](https://open.spotify.com/track/6ZLaO2iFfcwSGnhsixoGXs) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Como Se Hace](https://open.spotify.com/album/0x1yueh6LI4P71SX0lx8iD) | 3:09 |

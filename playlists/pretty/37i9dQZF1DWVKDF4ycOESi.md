@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Sfera e Shiva, Pinguini Tattici Nucleari e Max Pezzali, I Cani, Cesare Cremonini ed Elisa, Lana Del Rey e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,615 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,664 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 42 | [VITTORIA](https://open.spotify.com/track/5czaGqct4FgzX2nIct2ytV) | [Iperiixo](https://open.spotify.com/artist/0WKv1YjYjSTv95Yoz4B7Qv) | [VITTORIA](https://open.spotify.com/album/2Uj3ZHiO2t7mrHrnDHLZwQ) | 2:24 |
 | 43 | [NOSTALGIA E KARAOKE](https://open.spotify.com/track/7reLvPq3D67vtIgVQnQQLV) | [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [NOSTALGIA E KARAOKE](https://open.spotify.com/album/21J2V4JI35KVtUTVLCoWb2) | 3:36 |
 | 44 | [Mi Fai Sentire](https://open.spotify.com/track/3GTuHlDQ0rch650sMsrtpv) | [Memento](https://open.spotify.com/artist/0aLqxZ1Hht4j1C66IZ57oR) | [Mi Fai Sentire](https://open.spotify.com/album/4M9K5B3GHD3NT288aCjugV) | 2:30 |
-| 45 | [Cruel Summer](https://open.spotify.com/track/5QP97PDtEr3GoH5OmlzQyy) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Cruel Summer](https://open.spotify.com/album/6ZaE06NpbDaVR3YkIZNY13) | 2:48 |
+| 45 | [Cruel Summer \(Again\)](https://open.spotify.com/track/5QP97PDtEr3GoH5OmlzQyy) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Cruel Summer \(Again\)](https://open.spotify.com/album/6ZaE06NpbDaVR3YkIZNY13) | 2:48 |
 | 46 | [Lunae Veritatis \(Stay\) feat\. Drax Project](https://open.spotify.com/track/2k82YAk1mA5AF97XSBanpn) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Lunae Veritatis \(Stay\) feat\. Drax Project](https://open.spotify.com/album/4VfegOywgKkXVItS89E5WW) | 3:26 |
 | 47 | [Legends \(with Lil Baby\)](https://open.spotify.com/track/4LRxmoIbLJDcvEhqFgSF29) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Legends \(with Lil Baby\)](https://open.spotify.com/album/4m0CbLFqZMcBEA8ChPOPmh) | 3:01 |
 | 48 | [EN LA CITY](https://open.spotify.com/track/5NlrtCVHsBEPDo3HaMgMJb) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [EN LA CITY](https://open.spotify.com/album/3if74jhB1zzEZpVIoTdP4n) | 2:56 |

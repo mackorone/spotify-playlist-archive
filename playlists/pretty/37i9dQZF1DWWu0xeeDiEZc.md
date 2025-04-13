@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 
 > Get your kids singing along with this fun playlist! They're sure to know these kid\-friendly classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,067 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,123 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 | 25 | [Under the Sea](https://open.spotify.com/track/79juTmh89v1xqOLYsr6wSq) | [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Cast \- The Little Mermaid](https://open.spotify.com/artist/433fI3xZoJp1D1dizEkJ3R), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk) | 3:04 |
 | 26 | [A Whole New World](https://open.spotify.com/track/506nvAQgHmkGd13ipZuBwo) | [Lea Salonga](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv), [Brad Kane](https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Aladdin: Special Edition Soundtrack](https://open.spotify.com/album/1Eq5qk8DnHWGOZT2cAASP2) | 2:40 |
 | 27 | [Bananaphone](https://open.spotify.com/track/2Uu4AnnMTJpevC0IrwAuOW) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Bananaphone](https://open.spotify.com/album/1y772v6xDzzRWlaYWcNWHq) | 3:14 |
-| 28 | [This Old Man](https://open.spotify.com/track/0mXkCgqq5Vv86c4lW8Ec1H) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 5: Rhyme Around the Rosy](https://open.spotify.com/album/0sF3OFdtFfxv1RYyaYk0aL) | 2:15 |
-| 29 | [You'll Sing a Song and I'll Sing a Song](https://open.spotify.com/track/3PyfzEyTIgqKdsXRyFTKOj) | [Ella Jenkins](https://open.spotify.com/artist/2AdaJlzNcOpdrvMSBN92Wp) | [You'll Sing a Song and I'll Sing a Song](https://open.spotify.com/album/65VNMkYGsMwLrYE8kP9NYf) | 4:26 |
+| 28 | [You'll Sing a Song and I'll Sing a Song](https://open.spotify.com/track/3PyfzEyTIgqKdsXRyFTKOj) | [Ella Jenkins](https://open.spotify.com/artist/2AdaJlzNcOpdrvMSBN92Wp) | [You'll Sing a Song and I'll Sing a Song](https://open.spotify.com/album/65VNMkYGsMwLrYE8kP9NYf) | 4:26 |
+| 29 | [This Old Man](https://open.spotify.com/track/0mXkCgqq5Vv86c4lW8Ec1H) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 5: Rhyme Around the Rosy](https://open.spotify.com/album/0sF3OFdtFfxv1RYyaYk0aL) | 2:15 |
 | 30 | [Five Little Monkeys](https://open.spotify.com/track/475LPQIUiT6SqfwuqWYtU2) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Twinkle Twinkle Little Star & More Kids Songs](https://open.spotify.com/album/2T9jkpdjKDjzoOqPfaCAMu) | 2:08 |
 | 31 | [Kiss the Girl \- From "The Little Mermaid"/ Soundtrack Version](https://open.spotify.com/track/4F1fdteEm8Oe2GNUA7ON5S) | [Samuel E\. Wright](https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Greatest Hits](https://open.spotify.com/album/3fEvkXjnmWNotOWFrhnVjP) | 2:42 |
 | 32 | [John Jingleheimer Schmidt](https://open.spotify.com/track/3WjmjGKIerosWGLGsrFHKU) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Kids Silly Sing\-Along Songs](https://open.spotify.com/album/13b54xTbPBMlcf9v3F9eZL) | 1:36 |

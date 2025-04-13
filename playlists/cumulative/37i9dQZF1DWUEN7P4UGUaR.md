@@ -4,7 +4,7 @@
 
 > Fresh gospel music from Ghana\. Cover: Celestine Donkor
 
-123 songs - 10 hr 51 min
+124 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [I Pray](https://open.spotify.com/track/4f3pIJLTJ7pA72AHEBaPc2) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [I Pray](https://open.spotify.com/album/68scxYj7Ja7saSvTGNeBik) | 3:28 | 2025-01-31 | 2025-04-12 |
 | [I will pray](https://open.spotify.com/track/4us9pwwMqOKN3lklnPZZAv) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I will pray](https://open.spotify.com/album/28UZKXjw7Iag6leBIIoAeQ) | 2:50 | 2024-02-16 | 2024-04-19 |
 | [I Will Pray](https://open.spotify.com/track/7EeZuxPhKcHu6awLk7s5c0) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I Will Pray](https://open.spotify.com/album/6kK5wplkTW4cH4gnBTujvn) | 2:50 | 2023-06-09 | 2024-06-17 |
+| [JEHOVAH OVERDO](https://open.spotify.com/track/4CpkksfFzZWfdfa1jgJHnK) | [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr), [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [JEHOVAH OVERDO](https://open.spotify.com/album/77FfDFvBdqw5JrtCcUHu9G) | 2:23 | 2025-04-11 |  |
 | [LET IT SHINE ON ME\(LISOM\)](https://open.spotify.com/track/7vA9DhhMVBW6Krsev5SqmD) | [Corby Rhymez](https://open.spotify.com/artist/2LzvaWfoTlVuuSh6bBo0n3) | [LET IT SHINE ON ME\(LISOM\)](https://open.spotify.com/album/5Li3VDCIkKNPuZbQfmng6o) | 3:06 | 2023-05-26 | 2023-06-26 |
 | [Letting Go](https://open.spotify.com/track/5j0qPhoZEPKcfdjsAo9MgD) | [Manuel Bless](https://open.spotify.com/artist/2Q5np0NykqxfWBMQXD2zFq) | [Letting Go](https://open.spotify.com/album/5mDJhwl6CfbJyiJGnzQ2JJ) | 3:33 | 2023-06-22 | 2023-12-30 |
 | [Lord Have Your Way](https://open.spotify.com/track/53sEAgeh4Pb2hJETL6IkcE) | [Efe Grace Official](https://open.spotify.com/artist/4sUJ8WsQFdYNsOVuXTZLgS) | [Lord Have Your Way](https://open.spotify.com/album/309FhXt3gyQzKeQ9sQ0DiD) | 6:08 | 2023-04-06 | 2024-06-22 |
@@ -105,7 +106,7 @@
 | [Se Mekume Ho](https://open.spotify.com/track/3ojCyHzmRr5hNsEn4zeTqH) | [Ceccy Twum](https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz) | [Golden Oil](https://open.spotify.com/album/4F6PfioAlt3AZzSfb4fhZm) | 4:34 | 2023-04-06 | 2024-12-09 |
 | [Show Them](https://open.spotify.com/track/1bVjodrkljnU6ROYr8PIrz) | [Ewura Abena](https://open.spotify.com/artist/66omcxaARiacfGoXuXiHXQ) | [REBIRTH \(Mary's Child\)](https://open.spotify.com/album/2wdYkIbwZzoEw2L5m29G9t) | 4:19 | 2023-08-10 |  |
 | [Something New](https://open.spotify.com/track/6Lq74XHSPBqMmoWQoqtVZa) | [Kofi Karikari](https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE) | [Lifted High](https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF) | 3:23 | 2023-06-09 |  |
-| [Sometin](https://open.spotify.com/track/0kPyu3XIUbFlyDvz319x8d) | [Nana Yaw Ofori\-Atta](https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL) | [Sometin](https://open.spotify.com/album/3kdcgOOdHWNNkmJF2VaLsP) | 3:41 | 2024-08-02 |  |
+| [Sometin](https://open.spotify.com/track/0kPyu3XIUbFlyDvz319x8d) | [Nana Yaw Ofori\-Atta](https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL) | [Sometin](https://open.spotify.com/album/3kdcgOOdHWNNkmJF2VaLsP) | 3:41 | 2024-08-02 | 2025-04-13 |
 | [Style Bia Bi](https://open.spotify.com/track/0Eu8dLMDhMDrtHeRLRKzdc) | [Great Ampong](https://open.spotify.com/artist/0J8lvyQgeJId1xoC2D1jRg) | [Style Bia Bi](https://open.spotify.com/album/0h2kD49Ru5nAGuEIly7JlK) | 4:09 | 2023-04-06 | 2023-05-19 |
 | [Style Bia Bi](https://open.spotify.com/track/2nRxaDdtIeUrkRjb8EzqRM) | [Great Ampong](https://open.spotify.com/artist/0J8lvyQgeJId1xoC2D1jRg) | [Style Bia Bi](https://open.spotify.com/album/3TjCSAi7cH306yVB8b8g3f) | 4:09 | 2023-04-20 | 2023-06-10 |
 | [Temple](https://open.spotify.com/track/66XywM16QAO6Stui0fBEAz) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Restore](https://open.spotify.com/album/2Upq0VFnL6M6Q9UlyN8bCx) | 3:59 | 2024-07-05 |  |

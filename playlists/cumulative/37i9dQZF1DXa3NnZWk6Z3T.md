@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-384 songs - 22 hr 15 min
+385 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Cómo Me Sientas Tú Tan Bien](https://open.spotify.com/track/0cGbeeDa9ptxOZcTwSRuUw) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Cómo Me Sientas Tú Tan Bien](https://open.spotify.com/album/77oDZjx7G3mhHleDEaweW0) | 3:21 | 2021-12-09 |  |
 | [Cómo Me Sientas Tú Tan Bien](https://open.spotify.com/track/5uqvZpriEEMKleWljJdckw) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Tan Difícil de Entender](https://open.spotify.com/album/4llL1SDFfsIsbuBY0seqKd) | 3:23 | 2022-05-14 | 2024-04-19 |
 | [De Vez en Cuando](https://open.spotify.com/track/1QZk1of3DuIrqCklUPfy4W) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [All Inclusive](https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI) | 3:24 | 2022-05-14 | 2024-04-19 |
-| [De Vez En Cuando](https://open.spotify.com/track/2VNExLz5Y7zubCNuVbSUJP) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [De Vez En Cuando](https://open.spotify.com/album/06YJEqZe1fmb07iO3bLHYc) | 3:24 | 2021-12-09 |  |
+| [De Vez En Cuando](https://open.spotify.com/track/2VNExLz5Y7zubCNuVbSUJP) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [De Vez En Cuando](https://open.spotify.com/album/06YJEqZe1fmb07iO3bLHYc) | 3:24 | 2021-12-09 | 2025-04-13 |
+| [DELÍRIO](https://open.spotify.com/track/21X0KPbq6zvI2I8iMIJgEw) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [2 MANOS 1 MUNDO](https://open.spotify.com/album/4hMqeZaxdYC4GxMl5vzylA) | 2:56 | 2025-04-11 |  |
 | [Dentro de Ti](https://open.spotify.com/track/3BjSFChnaFq5n64Q5WfdA2) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W) | [Dentro de Ti](https://open.spotify.com/album/77rqmSECS2O2zmZpqxWgEl) | 4:31 | 2024-03-14 |  |
 | [Desde las Alturas](https://open.spotify.com/track/44ojSkwMRjy7GRAOdKkNKz) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Desde las Alturas](https://open.spotify.com/album/7LjiZnqwouFkTnOKFJntcS) | 3:43 | 2022-04-07 | 2024-05-14 |
 | [desde que estas en mi vida](https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [desde que estas en mi vida](https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX) | 3:22 | 2023-02-10 |  |

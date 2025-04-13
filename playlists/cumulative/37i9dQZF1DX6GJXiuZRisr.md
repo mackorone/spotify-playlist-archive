@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-577 songs - 1 day 16 hr 10 min
+578 songs - 1 day 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Be The Horizon](https://open.spotify.com/track/2ltCAZrnqyXVV8YYxweEJp) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ), [Dom Youdan](https://open.spotify.com/artist/7mFtdq1kVeZHdWjponFfWx) | [Unreality](https://open.spotify.com/album/2NGLSFRIh6W1YN8lCwpxGq) | 5:42 | 2022-07-01 | 2022-07-29 |
 | [Beautiful Losers \(feat\. Rangleklods\)](https://open.spotify.com/track/4A97jBOXzQhI67TKMMJS3N) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Rangleklods](https://open.spotify.com/artist/1p2jAzBu31C2CoORbhZROz) | [Beautiful Losers \(feat\. Rangleklods\)](https://open.spotify.com/album/7nmgdcICN5MBgmNPnnikDg) | 5:18 | 2024-04-19 | 2024-05-09 |
 | [Before Dawn](https://open.spotify.com/track/4eAz5Na2BaEVpPxhOrq5pc) | [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Sansa](https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9) | [Before Dawn](https://open.spotify.com/album/3ClrFAuuK8LNzQg8kMo3zb) | 3:18 | 2023-05-19 | 2024-09-21 |
+| [Before The Storm](https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [Before The Storm](https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS) | 6:09 | 2025-04-11 |  |
 | [Belfast \- Yotto Remix](https://open.spotify.com/track/03cAFCWyzUOFus6Os8EoQG) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Belfast \(Yotto Remix\)](https://open.spotify.com/album/7BupaHcQOcUy7UMn4cmKse) | 6:35 | 2022-05-27 | 2022-11-28 |
 | [Believe](https://open.spotify.com/track/55bRlRgB1055cuJ0xnvo8R) | [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [Believe](https://open.spotify.com/album/0gdOg7Dga6Mf0LiDZxWGmk) | 3:31 | 2024-05-03 |  |
 | [Between Us](https://open.spotify.com/track/5mXAZYgqMhqzgNBsDmbpQl) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [MRYN](https://open.spotify.com/artist/6nvB3AlAAvRl4OGvPOPsMR) | [Between Us](https://open.spotify.com/album/6jmOQJSmFU11Hfy5TQyUOS) | 4:37 | 2024-07-19 | 2024-10-28 |
@@ -493,7 +494,7 @@
 | [The Coaster](https://open.spotify.com/track/29Z2NgQd8Og6nKlzs1GQ6S) | [Rodg](https://open.spotify.com/artist/1kb9YssvADeiGvCUwJzbdT) | [The Coaster](https://open.spotify.com/album/7bc7gl0qBODD1JQHbTtjwA) | 3:06 | 2021-05-07 | 2022-07-21 |
 | [The Grand Swell](https://open.spotify.com/track/3SwAjQOvQ79jpLZyjzJwJh) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB) | [The Grand Swell](https://open.spotify.com/album/23V0126apKDHzsQrAiqLwT) | 4:51 | 2021-08-20 | 2022-07-29 |
 | [The Horizon \(With You\)](https://open.spotify.com/track/0TO3DquQQvJDchx14UOKBF) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [The Horizon \(With You\)](https://open.spotify.com/album/4GO1A8lXlVrAqy0It5up3Q) | 3:07 | 2023-09-15 | 2023-11-21 |
-| [The Little Mushroom That Got Away](https://open.spotify.com/track/2luKkgm9p46Yf7cQ4pMWaR) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [The Little Mushroom That Got Away](https://open.spotify.com/album/71adfswntkKEtqbhBqp9FU) | 5:35 | 2023-10-06 |  |
+| [The Little Mushroom That Got Away](https://open.spotify.com/track/2luKkgm9p46Yf7cQ4pMWaR) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [The Little Mushroom That Got Away](https://open.spotify.com/album/71adfswntkKEtqbhBqp9FU) | 5:35 | 2023-10-06 | 2025-04-13 |
 | [The Maker](https://open.spotify.com/track/4EKzntRiyE131lB2swX5TU) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [The Maker](https://open.spotify.com/album/3iXFPnNVizKfo1pUerR7Md) | 2:36 | 2023-03-14 | 2024-06-02 |
 | [The Morning After](https://open.spotify.com/track/5XZwq5GzhyjjlMwtou1fWb) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8) | [The Morning After](https://open.spotify.com/album/1IEMLZHGq4ksUfeTSj2FXq) | 3:33 | 2023-12-01 | 2024-04-19 |
 | [The Navigator](https://open.spotify.com/track/6iNjFncKo3p2T2gi9yKuOw) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [The Navigator](https://open.spotify.com/album/1K1IAd3OoWMakUBD5CRiZD) | 6:03 | 2021-11-05 | 2022-06-26 |
